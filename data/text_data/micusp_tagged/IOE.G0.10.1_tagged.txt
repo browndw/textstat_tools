@@ -1,0 +1,318 @@
+<s>
+Rubberland_NP1 Inc._JJ is_VBZ a_AT1 producer_NN1 of_IO rubber_JJ liquid_NN1 ._. 
+</s>
+<s>
+They_PPHS2 have_VH0 been_VBN getting_VVG negative_JJ feedback_NN1 from_II their_APPGE customers_NN2 who_PNQS use_VV0 the_AT liquid_JJ rubber_NN1 for_IF the_AT production_NN1 of_IO molded_JJ parts_NN2 ._. 
+</s>
+<s>
+Rubberland_NP1 's_GE customers_NN2 lose_VV0 ,_, on_II average_NN1 ,_, thirty_MC minutes_NNT2 per_II day_NNT1 of_IO production_NN1 ._. 
+</s>
+<s>
+This_DD1 time_NNT1 is_VBZ lost_VVN in_II their_APPGE mold_NN1 process_NN1 because_CS Rubberland_NP1 's_GE customers_NN2 have_VH0 to_TO adjust_VVI the_AT temperature_NN1 settings_NN2 for_IF every_AT1 new-shipped_JJ batch_NN1 of_IO liquid_JJ rubber_JJ material_NN1 ._. 
+</s>
+<s>
+On_II average_JJ Rubberland_NP1 's_GE customers_NN2 ,_, lose_VV0 $930_NNU for_IF each_DD1 hour_NNT1 of_IO lost_JJ production_NN1 ._. 
+</s>
+<s>
+Process_VV0 Engineers_NN2 ,_, organized_VVN by_II Rubberland_NP1 management_NN1 ,_, found_VVD that_CST the_AT failures_NN2 from_II their_APPGE customers_NN2 internal_JJ mod_NN1 inspection_NN1 process_NN1 are_VBR due_II21 to_II22 parts_NN2 not_XX curing_VVG properly_RR ,_, scorch_VV0 ,_, parts_NN2 being_VBG under_RG filled_JJ ,_, mold_VV0 flash_JJ and_CC flowlines_NN2 ._. 
+</s>
+<s>
+They_PPHS2 also_RR collected_VVD a_AT1 variety_NN1 of_IO sample_NN1 data_NN that_CST included_VVD 6_MC input_NN1 variables_NN2 and_CC 7_MC output_NN1 variables_NN2 ._. 
+</s>
+<s>
+Our_APPGE six_MC sigma_NN1 team_NN1 plans_VVZ to_TO identify_VVI which_DDQ output_VV0 variables_NN2 are_VBR most_RGT important_JJ and_CC then_RT identify_VV0 the_AT key_JJ input_NN1 variables_NN2 that_CST are_VBR most_RGT significant_JJ ._. 
+</s>
+<s>
+We_PPIS2 will_VM then_RT analyze_VVI the_AT significant_JJ variables_NN2 to_TO provide_VVI recommendations_NN2 for_IF the_AT process_NN1 ._. 
+</s>
+<s>
+These_DD2 recommendations_NN2 will_VM reduce_VVI the_AT problem_NN1 with_IW Rubberland_NP1 's_GE customers_NN2 ,_, thus_RR reducing_VVG the_AT amount_NN1 of_IO time_NNT1 and_CC money_NN1 lost_VVN to_II adjusting_VVG the_AT temperature_NN1 setting_NN1 ._. 
+</s>
+<s>
+To_TO find_VVI the_AT current_JJ state_NN1 of_IO the_AT process_NN1 ,_, we_PPIS2 created_VVD a_AT1 Pareto_NP1 Chart_NN1 to_TO identify_VVI major_JJ failures_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR conducted_VVD a_AT1 process_NN1 capability_NN1 test_NN1 and_CC measured_JJ correlation_NN1 between_II variables_NN2 ._. 
+</s>
+<s>
+Negative_JJ feedback_NN1 from_II customers_NN2 is_VBZ a_AT1 big_JJ concern_NN1 at_II Rubberland_NP1 ._. 
+</s>
+<s>
+Our_APPGE team_NN1 has_VHZ thus_RR obtained_VVN a_AT1 summary_NN1 of_IO the_AT failures_NN2 from_II the_AT customer_NN1 's_GE internal_JJ mold_NN1 inspection_NN1 process_NN1 ._. 
+</s>
+<s>
+These_DD2 failures_NN2 are_VBR displayed_VVN in_II a_AT1 Pareto_NP1 Chart_NN1 in_II Figure_NN1 1_MC1 below_RL ._. 
+</s>
+<s>
+The_AT concern_NN1 with_IW the_AT greatest_JJT frequency_NN1 is_VBZ "_" Parts_NN2 not_XX Curing_VVG Properly_RR ,_, "_" and_CC it_PPH1 accounts_VVZ for_IF 70.1%_FO of_IO all_DB failures_NN2 ._. 
+</s>
+<s>
+After_II brainstorming_VVG potential_JJ issues_NN2 of_IO the_AT process_NN1 ,_, our_APPGE team_NN1 evaluated_VVD the_AT performance_NN1 of_IO the_AT process_NN1 by_II collecting_VVG sample_NN1 data_NN and_CC recording_VVG several_DA2 material_JJ variables_NN2 and_CC process_VV0 settings_NN2 ._. 
+</s>
+<s>
+We_PPIS2 then_RT conducted_VVD process_NN1 capability_NN1 tests_NN2 on_II each_DD1 of_IO the_AT output_NN1 variables_NN2 (_( Tensile_JJ strength_NN1 ,_, Elongation_NN1 %_NNU ,_, Type_NN1 B_ZZ1 tear_NN1 strength_NN1 ,_, T10_FO time_NNT1 ,_, VMAX_NP1 ,_, and_CC CIR_NP1 )_) ._. 
+</s>
+<s>
+Below_RL in_II table_NN1 1_MC1 ,_, the_AT Defects_NN2 Per_II Million_NNO (_( DPM_NP1 )_) values_NN2 for_IF each_DD1 of_IO the_AT output_NN1 variables_NN2 are_VBR displayed_VVN ._. 
+</s>
+<s>
+Table_NN1 1_MC1 shows_VVZ that_CST the_AT largest_JJT DPM_NP1 is_VBZ for_IF CIR_NN1 ._. 
+</s>
+<s>
+The_AT pp_NN1 for_IF CIR_NN1 is_VBZ greater_JJR than_CSN the_AT ppk_NNU ,_, and_CC ppk_NNU approximately_RR equals_VVZ cpk_NNU ,_, so_CS there_EX is_VBZ a_AT1 mean_JJ problem_NN1 and_CC excessive_JJ common_JJ cause_NN1 variation_NN1 ._. 
+</s>
+<s>
+The_AT ppk_NNU and_CC cpk_NNU values_NN2 for_IF Tears_NN2 are_VBR all_DB about_II equal_JJ with_IW values_NN2 of_IO around_RG 0.48_MC ._. 
+</s>
+<s>
+Because_CS the_AT ppk_NNU and_CC cpk_NNU values_NN2 are_VBR equal_JJ ,_, this_DD1 is_VBZ most_RGT likely_JJ due_II21 to_II22 a_AT1 standard_JJ deviation_NN1 problem_NN1 ._. 
+</s>
+<s>
+After_II measuring_VVG process_NN1 capability_NN1 ,_, we_PPIS2 measured_VVD the_AT correlation_NN1 between_II the_AT input_NN1 variables_NN2 and_CC the_AT correlation_NN1 between_II the_AT output_NN1 variables_NN2 ._. 
+</s>
+<s>
+Figure_NN1 2_MC below_RL shows_VVZ the_AT correlation_NN1 of_IO the_AT input_NN1 variables_NN2 ._. 
+</s>
+<s>
+Variables_NN2 with_IW p-values_NN2 less_DAR than_CSN 0.05_MC are_VBR considered_VVN significant_JJ ._. 
+</s>
+<s>
+Three_MC variables_NN2 ,_, supplier_NN1 ,_, catwt_VV0 ,_, and_CC catdisp_NN1 had_VHD correlated_VVN p-values_NN2 less_DAR than_CSN 0.05_MC and_CC these_DD2 are_VBR highlighted_VVN in_II Figure_NN1 2_MC ._. 
+</s>
+<s>
+Figure_NN1 2_MC show_VV0 that_CST the_AT supplier_NN1 and_CC the_AT catalyst_NN1 weight_NN1 are_VBR negatively_RR correlated_VVN ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT supplier_NN1 and_CC catalyst_NN1 dispensed_VVN are_VBR also_RR negatively_RR correlated_VVN ._. 
+</s>
+<s>
+Lastly_RR ,_, Figure_NN1 2_MC shows_VVZ that_DD1 catalyst_NN1 weight_NN1 and_CC catalyst_NN1 dispensed_VVN are_VBR positivity_NN1 correlated_VVN with_IW a_AT1 value_NN1 of_IO .978_MC ._. 
+</s>
+<s>
+After_II observing_VVG the_AT current_JJ state_NN1 of_IO the_AT process_NN1 by_II performing_NN1 creating_VVG a_AT1 Pareto_NP1 chart_NN1 ,_, performing_VVG a_AT1 process_NN1 capability_NN1 analysis_NN1 ,_, and_CC measuring_VVG the_AT correlation_NN1 of_IO input_NN1 variables_NN2 ,_, we_PPIS2 performed_VVD further_JJR analysis_NN1 to_TO try_VVI to_TO determine_VVI the_AT reason_NN1 for_IF failures_NN2 in_II the_AT mold_NN1 inspection_NN1 process_NN1 ._. 
+</s>
+<s>
+The_AT first_MD step_NN1 of_IO our_APPGE analysis_NN1 was_VBDZ to_TO develop_VVI a_AT1 cause_NN1 and_CC effect_NN1 diagram_NN1 ._. 
+</s>
+<s>
+Figure_NN1 3_MC shows_VVZ the_AT factors_NN2 that_CST cause_VV0 customer_NN1 dissatisfaction_NN1 ._. 
+</s>
+<s>
+The_AT five_MC categories_NN2 shown_VVN in_II the_AT cause_NN1 and_CC effect_NN1 diagram_NN1 are_VBR material_JJ ,_, personal_JJ ,_, environment_NN1 ,_, methods_NN2 and_CC machines_NN2 ._. 
+</s>
+<s>
+As_CSA seen_VVN in_II Figure_NN1 3_MC ,_, the_AT categories_NN2 with_IW the_AT most_DAT causes_NN2 for_IF customer_NN1 dissatisfaction_NN1 are_VBR Material_JJ ,_, Personal_JJ ,_, and_CC Machines_NN2 ._. 
+</s>
+<s>
+After_II analyzing_VVG causes_NN2 for_IF customer_NN1 dissatisfaction_NN1 ,_, we_PPIS2 examined_VVD the_AT input_NN1 and_CC output_NN1 variables_NN2 that_CST lead_VV0 to_II this_DD1 dissatisfaction_NN1 ._. 
+</s>
+<s>
+To_TO identify_VVI output_NN1 variables_NN2 with_IW the_AT most_DAT problems_NN2 and_CC inputs_NN2 with_IW the_AT most_DAT significance_NN1 ,_, we_PPIS2 ran_VVD regression_NN1 models_NN2 ._. 
+</s>
+<s>
+We_PPIS2 ran_VVD 7_MC different_JJ models_NN2 ,_, with_IW each_DD1 model_NN1 having_VHG the_AT 6_MC input_NN1 variables_NN2 and_CC one_MC1 of_IO the_AT 7_MC output_NN1 variables_NN2 ._. 
+</s>
+<s>
+For_IF each_DD1 regression_NN1 model_NN1 ,_, if_CS a_AT1 term_NN1 was_VBDZ not_XX significant_JJ (_( i.e._REX its_APPGE p-value_NN1 was_VBDZ not_XX less_DAR than_CSN 0.05_MC )_) ,_, we_PPIS2 omitted_VVD it_PPH1 from_II the_AT model_NN1 and_CC re-ran_VVD the_AT regression_NN1 ._. 
+</s>
+<s>
+For_IF the_AT tensile_JJ strength_NN1 ,_, Tear_NN1 "_" B1_FO "_" ,_, Tear_NN1 "_" B2_FO "_" ,_, and_CC VMAX_VV0 we_PPIS2 did_VDD not_XX get_VVI any_DD significant_JJ values_NN2 ._. 
+</s>
+<s>
+The_AT p-values_NN2 and_CC regression_NN1 equations_NN2 for_IF CIR_NP1 ,_, T10_FO time_NNT1 ,_, and_CC Elongation_NN1 %_NNU are_VBR listed_VVN in_II the_AT Table_NN1 2_MC below_RL ._. 
+</s>
+<s>
+In_II these_DD2 equations_NN2 ,_, the_AT supplier_NN1 is_VBZ a_AT1 binary_JJ variable_NN1 ._. 
+</s>
+<s>
+Supplier_NN1 equals_VVZ 1_MC1 when_CS from_II supplier_NN1 A_ZZ1 and_CC 0_MC when_RRQ from_II supplier_NN1 B._NP1 The_AT linear_JJ regression_NN1 equation_NN1 for_IF CIR_NP1 shows_VVZ that_CST the_AT input_NN1 variables_NN2 ,_, supplier_NN1 and_CC catalyst_NN1 weight_NN1 (_( catwt_NN1 )_) ,_, affect_VV0 the_AT output_NN1 variable_NN1 CIR_NN1 ._. 
+</s>
+<s>
+Similarly_RR ,_, for_IF T10_FO ,_, the_AT supplier_NN1 and_CC catwt_VV0 variables_NN2 affect_VV0 its_APPGE output_NN1 ,_, and_CC for_IF Elong_NP1 ,_, the_AT crosslinker_NN1 variable_NN1 affects_VVZ its_APPGE output_NN1 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 Elong_NP1 and_CC T10_FO had_VHD significant_JJ input_NN1 variables_NN2 ,_, they_PPHS2 did_VDD not_XX have_VHI a_AT1 large_JJ DPM_NP1 and_CC therefore_RR additional_JJ analysis_NN1 was_VBDZ not_XX conducted_VVN on_II them_PPHO2 ._. 
+</s>
+<s>
+After_II determining_VVG what_DDQ the_AT key_JJ input_NN1 variables_NN2 for_IF CIR_NP1 were_VBDR (_( supplier_NN1 and_CC catalyst_NN1 weight_NN1 )_) ,_, we_PPIS2 then_RT examined_VVD how_RRQ they_PPHS2 affected_VVD the_AT output_NN1 of_IO CIR_NN1 ._. 
+</s>
+<s>
+To_TO do_VDI this_DD1 we_PPIS2 created_VVD a_AT1 box_NN1 plot_NN1 ,_, with_IW CIR_NN1 as_II the_AT Y_ZZ1 variable_JJ ,_, and_CC supplier_NN1 and_CC catwt_VV0 as_CSA X_ZZ1 variables_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR shown_VVN in_II Figure_NN1 4_MC below_RL ._. 
+</s>
+<s>
+Figure_NN1 4_MC shows_VVZ that_CST as_II the_AT catalyst_NN1 weight_NN1 increases_VVZ so_RR does_VDZ the_AT CIR_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT box_NN1 plot_NN1 shows_VVZ that_CST at_II the_AT same_DA catalyst_NN1 weights_NN2 ,_, supplier_NN1 A_ZZ1 has_VHZ lower_JJR CIR_NN1 values_NN2 then_RT B._NP1 To_TO analyze_VVI these_DD2 variable_NN1 affects_VVZ further_RRR ,_, we_PPIS2 created_VVD a_AT1 fitted_JJ line_NN1 plot_NN1 for_IF CIR_NN1 vs._II supplier_NN1 and_CC CIR_NN1 vs._II catalyst_NN1 weight_NN1 ._. 
+</s>
+<s>
+These_DD2 plots_NN2 are_VBR shown_VVN in_II Figure_NN1 5_MC ._. 
+</s>
+<s>
+When_CS we_PPIS2 ran_VVD a_AT1 box_NN1 plot_NN1 for_IF T10_FO as_II the_AT Y_ZZ1 variable_JJ ,_, and_CC supplier_NN1 and_CC catwt_VV0 as_CSA X_ZZ1 variables_NN2 ,_, we_PPIS2 achieved_VVD the_AT same_DA results_NN2 as_CSA for_IF CIR_NN1 ._. 
+</s>
+<s>
+The_AT T10_FO value_NN1 increased_VVN for_IF increasing_JJ values_NN2 of_IO catalyst_NN1 weight_NN1 ,_, and_CC values_NN2 for_IF Supplier_NN1 B_ZZ1 were_VBDR slightly_RR higher_JJR than_CSN for_IF supplier_NN1 A._NNU From_II section_NN1 2.2_MC Process_VV0 Capability_NP1 Analysis_NN1 ,_, we_PPIS2 found_VVD that_DD1 Tear_NN1 "_" B1_FO "_" and_CC Tear_NN1 "_" B2_FO "_" ,_, which_DDQ both_DB2 measure_VV0 the_AT same_DA rubber_JJ sample_NN1 ,_, have_VH0 high_RR ,_, but_CCB different_JJ DPM_NP1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT performed_VVD a_AT1 paired_JJ t_ZZ1 test_VV0 to_TO see_VVI if_CSW the_AT different_JJ methods_NN2 for_IF measuring_VVG the_AT tear_NN1 strength_NN1 differ_VV0 ._. 
+</s>
+<s>
+Tear_NN1 "_" B1_FO "_" and_CC Tear_NN1 "_" B2_FO "_" both_DB2 measure_VV0 the_AT same_DA parts_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR shown_VVN in_II Figure_NN1 6_MC ._. 
+</s>
+<s>
+From_II Figure_NN1 6_MC we_PPIS2 can_VM conclude_VVI that_CST the_AT tear_NN1 measurement_NN1 methods_NN2 are_VBR not_XX statistically_RR different_JJ ._. 
+</s>
+<s>
+The_AT p-value_NN1 is_VBZ greater_JJR the_AT .05_MC and_CC the_AT 95%_NNU CI_NN1 for_IF the_AT mean_JJ difference_NN1 between_II the_AT measurement_NN1 methods_NN2 contains_VVZ 0_MC ._. 
+</s>
+<s>
+Lastly_RR ,_, from_II Figure_NN1 6_MC we_PPIS2 were_VBDR able_JK to_TO see_VVI that_CST the_AT standard_JJ deviations_NN2 for_IF tear_NN1 strengths_NN2 are_VBR high_JJ with_IW a_AT1 value_NN1 of_IO 40.59_MC for_IF Tear_NN1 "_" B1_FO "_" and_CC 40.34_MC for_IF Tear_NN1 "_" B2_FO "_" ._. 
+</s>
+<s>
+Currently_RR ,_, Rubberland_NP1 measures_VVZ 6_MC input_NN1 variables_NN2 and_CC 7_MC output_NN1 variables_NN2 ._. 
+</s>
+<s>
+From_II our_APPGE process_NN1 capability_NN1 analysis_NN1 ,_, we_PPIS2 concluded_VVD that_CST the_AT output_NN1 variable_NN1 with_IW the_AT most_DAT problems_NN2 was_VBDZ CIR_NP1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT ran_VVD a_AT1 linear_JJ regression_NN1 model_NN1 to_TO determine_VVI which_DDQ of_IO the_AT 6_MC input_NN1 variables_NN2 significantly_RR affected_VVN CIR_NN1 ._. 
+</s>
+<s>
+From_II that_DD1 regression_NN1 model_NN1 ,_, we_PPIS2 found_VVD that_DD1 supplier_NN1 and_CC catalyst_NN1 weight_NN1 were_VBDR both_RR significant_JJ ._. 
+</s>
+<s>
+Further_JJR analysis_NN1 on_II these_DD2 input_NN1 variables_NN2 showed_VVD that_CST as_CSA catalyst_NN1 weight_NN1 increased_VVD ,_, both_DB2 CIR_NP1 and_CC T10_FO increased_VVN ,_, and_CC supplier_NN1 B_ZZ1 had_VHD larger_JJR values_NN2 than_CSN supplier_NN1 A._NP1 The_AT specification_NN1 limit_NN1 for_IF CIR_NN1 is_VBZ 140_MC +/-5_FU ._. 
+</s>
+<s>
+The_AT catalyst_NN1 weight_NN1 is_VBZ targeted_VVN at_II 0.2%_FO ,_, however_RRQV if_CS this_DD1 weight_NN1 increases_VVZ above_II 0.21%_FO ,_, the_AT CIR_NN1 reaches_VVZ values_NN2 greater_JJR than_CSN 145_MC and_CC out_II21 of_II22 the_AT specification_NN1 limit_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ shown_VVN in_II a_AT1 contingency_NN1 table_NN1 in_II Figure_NN1 7_MC below_RL ._. 
+</s>
+<s>
+Failures_NN2 are_VBR caused_VVN if_CS the_AT CIR_NN1 value_NN1 increases_VVZ over_RG 145_MC ,_, and_CC this_DD1 occurs_VVZ when_RRQ the_AT catalyst_NN1 weight_NN1 is_VBZ 0.21%_FO or_CC above_RL ._. 
+</s>
+<s>
+From_II the_AT correlation_NN1 analysis_NN1 conducted_VVN in_II section_NN1 2.3_MC ,_, we_PPIS2 saw_VVD that_CST the_AT amount_NN1 of_IO catalyst_NN1 dispensed_VVN (_( catdisp_NN1 )_) was_VBDZ 97.8%_FO correlated_VVN to_TO catwt_VVI ._. 
+</s>
+<s>
+Because_CS the_AT amount_NN1 of_IO catalyst_NN1 that_CST an_AT1 operator_NN1 dispenses_VVZ affects_VVZ the_AT weight_NN1 ,_, Rubberland_NP1 should_VM thus_RR focus_VVI on_II fixing_VVG the_AT amount_NN1 of_IO catalyst_NN1 dispensed_VVD ._. 
+</s>
+<s>
+We_PPIS2 ran_VVD a_AT1 contingency_NN1 table_NN1 of_IO CIR_NN1 defects_NN2 vs._II catdisp_NN1 and_CC found_VVD that_CST 31.8%_FO of_IO defects_NN2 started_VVD occurring_VVG when_RRQ the_AT catdisp_NN1 was_VBDZ 0.20%_FO ._. 
+</s>
+<s>
+We_PPIS2 therefore_RR recommend_VV0 that_CST Rubberland_NP1 have_VH0 operators_NN2 dispense_VVI a_AT1 catalyst_NN1 between_II 0.16%_FO and_CC 0.2%_FO only_RR ._. 
+</s>
+<s>
+If_CS they_PPHS2 dispense_VV0 more_DAR than_CSN 0.20%_FO ,_, they_PPHS2 should_VM remove_VVI some_DD of_IO the_AT catalyst_NN1 or_CC consider_VV0 the_AT part_NN1 a_AT1 defect_NN1 and_CC not_XX give_VV0 it_PPH1 to_II customers_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR recommend_VV0 that_CST Rubberland_NP1 perform_VV0 additional_JJ analysis_NN1 to_TO see_VVI how_RGQ small_JJ the_AT lower_JJR spec_NN1 limit_NN1 can_VM be_VBI for_IF catalysis_NN1 dispensed_VVD ._. 
+</s>
+<s>
+Figure_NN1 8_MC ,_, below_RL ,_, is_VBZ a_AT1 contingency_NN1 table_NN1 of_IO CIR_NN1 defects_NN2 vs_II ._. 
+</s>
+<s>
+Suppliers_NN2 ._. 
+</s>
+<s>
+From_II this_DD1 figure_NN1 ,_, you_PPY can_VM see_VVI that_CST all_DB of_IO the_AT CIR_NN1 defects_NN2 occur_VV0 when_CS using_VVG supplier_NN1 B._NP1 We_PPIS2 therefore_RR recommend_VV0 that_CST Rubberland_NP1 reduce_VV0 the_AT amount_NN1 of_IO orders_NN2 from_II supplier_NN1 B_ZZ1 and_CC order_NN1 more_RRR from_II supplier_NN1 A_ZZ1 instead_RR ._. 
+</s>
+<s>
+From_II regression_NN1 analysis_NN1 for_IF tear_NN1 strength_NN1 ,_, we_PPIS2 found_VVD that_CST no_AT input_NN1 variables_NN2 significantly_RR affect_VV0 the_AT tear_NN1 strength_NN1 ._. 
+</s>
+<s>
+From_II this_DD1 result_NN1 ,_, we_PPIS2 recommend_VV0 further_JJR studies_NN2 to_TO see_VVI if_CSW the_AT noise_NN1 can_VM be_VBI reduced_VVN so_RR Rubberland_NP1 can_VM see_VVI what_DDQ input_NN1 variables_NN2 affect_VV0 the_AT tear_NN1 strength_NN1 ._. 
+</s>
+<s>
+In_II paired_JJ t-test_JJ analysis_NN1 ,_, we_PPIS2 found_VVD that_CST the_AT two_MC measurement_NN1 methods_NN2 ,_, Tear_NN1 "_" B1_FO "_" and_CC Tear_NN1 "_" B2_FO "_" are_VBR not_XX statistically_RR different_JJ ,_, but_CCB both_RR have_VH0 high_RR standard_JJ deviations_NN2 for_IF tear_NN1 strengths_NN2 measured_VVD ._. 
+</s>
+<s>
+We_PPIS2 recommend_VV0 looking_VVG into_II methods_NN2 to_TO reduce_VVI the_AT variance_NN1 for_IF tear_NN1 strengths_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR suggest_VV0 only_RR using_VVG one_MC1 measurement_NN1 method_NN1 because_CS they_PPHS2 are_VBR correlated_VVN and_CC not_XX statically_RR different_JJ ._. 
+</s>
+<s>
+This_DD1 will_VM save_VVI time_NNT1 ,_, which_DDQ will_VM also_RR save_VVI money_NN1 ._. 
+</s>
+<s>
+The_AT linear_JJ regression_NN1 analysis_NN1 for_IF CIR_NP1 showed_VVD that_CST the_AT only_RR two_MC variables_NN2 that_CST were_VBDR significant_JJ were_VBDR catwt_NN1 and_CC supplier_NN1 ._. 
+</s>
+<s>
+The_AT other_JJ variables_NN2 ,_, mixtime_NNT1 ,_, crosslinker_NN1 ,_, and_CC inhibitor_NN1 were_VBDR not_XX significant_JJ ._. 
+</s>
+<s>
+We_PPIS2 modeled_VVD fitted_JJ line_NN1 plots_NN2 for_IF each_DD1 of_IO these_DD2 non-significant_JJ variables_NN2 against_II CIR_NP1 ,_, and_CC we_PPIS2 found_VVD that_CST all_DB three_MC plots_NN2 had_VHD R-Squared_JJ values_NN2 of_IO 1.4%_FO or_CC less_RRR ._. 
+</s>
+<s>
+An_AT1 example_NN1 of_IO mixtime_NNT1 vs_II ._. 
+</s>
+<s>
+CIR_NP1 is_VBZ shown_VVN in_II Figure_NN1 9_MC below_RL ._. 
+</s>
+<s>
+The_AT low_JJ R-squared_JJ values_NN2 mean_VV0 that_CST the_AT values_NN2 of_IO the_AT variables_NN2 ,_, mixtime_NNT1 ,_, crosslinker_NN1 ,_, and_CC inhibitor_NN1 do_VD0 not_XX have_VHI an_AT1 affect_NN1 on_II the_AT output_NN1 of_IO CIR_NN1 for_IF the_AT given_JJ specification_NN1 range_NN1 ._. 
+</s>
+<s>
+We_PPIS2 thus_RR recommend_VV0 that_CST Rubberland_NP1 can_VM increase_VVI the_AT specification_NN1 limits_VVZ for_IF mixtime_NNT1 ,_, crosslinker_NN1 ,_, and_CC inhibitor_NN1 ._. 
+</s>
+<s>
+Rubberland_NN1 should_VM conduct_VVI further_JJR analysis_NN1 to_TO see_VVI how_RRQ CIR_NP1 reacts_VVZ out_II21 of_II22 the_AT given_JJ current_JJ specification_NN1 limits_NN2 ,_, and_CC will_VM then_RT most_RGT likely_RR be_VBI able_JK to_TO increase_VVI this_DD1 range_NN1 ._. 
+</s>
+<s>
+Rubberland_NN1 currently_RR measures_VVZ 7_MC output_NN1 variables_NN2 ._. 
+</s>
+<s>
+CIR_NP1 ,_, Tear_NN1 B1_FO ,_, Tear_NN1 B2_FO ,_, and_CC VMAX_VV0 all_DB have_VH0 large_JJ DPM_NP1 ,_, and_CC thus_RR Rubberland_NP1 should_VM still_RR measure_VVI these_DD2 variables_NN2 and_CC make_VVI sure_JJ they_PPHS2 are_VBR within_II specification_NN1 limits_NN2 ._. 
+</s>
+<s>
+The_AT T10_FO output_NN1 variable_NN1 did_VDD not_XX have_VHI large_JJ DPM_NP1 and_CC it_PPH1 is_VBZ correlated_VVN to_II CIR_NN1 with_IW a_AT1 value_NN1 of_IO .887_MC ,_, so_RG therefore_RR ,_, Rubberland_NP1 does_VDZ not_XX need_VVI to_TO measure_VVI the_AT output_NN1 of_IO T10_FO anymore_RR ._. 
+</s>
+<s>
+DPM_NP1 was_VBDZ not_XX high_JJ for_IF Elong_NP1 or_CC Tensile_JJ strength_NN1 either_RR ,_, so_CS we_PPIS2 also_RR recommend_VV0 that_CST Rubberland_NP1 not_XX focus_VV0 its_APPGE output_NN1 studies_NN2 on_II these_DD2 variables_NN2 either_RR ._. 
+</s>
+<s>
+For_IF Rubberland_NP1 's_GE input_NN1 measurement_NN1 variables_NN2 ,_, we_PPIS2 recommend_VV0 not_XX measuring_VVG the_AT catalyst_NN1 weight_NN1 to_TO save_VVI time_NNT1 and_CC money_NN1 ._. 
+</s>
+<s>
+We_PPIS2 recommend_VV0 this_DD1 because_CS the_AT catalyst_NN1 weight_NN1 has_VHZ a_AT1 correlation_NN1 value_NN1 of_IO .978_MC so_CS it_PPH1 is_VBZ highly_RR correlated_VVN to_II the_AT catalyst_NN1 dispense_VV0 ._. 
+</s>
+<s>
+To_TO maintain_VVI our_APPGE improvement_NN1 recommendations_NN2 we_PPIS2 have_VH0 several_DA2 suggestions_NN2 ._. 
+</s>
+<s>
+We_PPIS2 suggest_VV0 Rubberland_NP1 to_TO develop_VVI better_JJR training_NN1 for_IF the_AT employees_NN2 that_CST are_VBR involved_JJ in_II the_AT production_NN1 process_NN1 ._. 
+</s>
+<s>
+To_TO supplement_VVI the_AT training_NN1 we_PPIS2 recommend_VV0 creating_VVG work_NN1 instructions_NN2 ._. 
+</s>
+<s>
+For_IF filling_VVG the_AT catalyst_NN1 in_II the_AT jar_NN1 ,_, we_PPIS2 recommend_VV0 that_CST they_PPHS2 come_VV0 up_RP with_IW a_AT1 better_JJR device_NN1 to_TO control_VVI the_AT catalyst_NN1 dispense_VV0 so_RR the_AT operators_NN2 can_56 not_56 add_VVI any_DD more_DAR then_JJ 0.2%_FO ._. 
+</s>
+<s>
+With_IW this_DD1 control_NN1 ,_, if_CS the_AT operator_NN1 tries_VVZ adding_VVG more_RRR then_RT 0.2%_FO ,_, the_AT device_NN1 will_VM stop_VVI the_AT dispensing_NN1 of_IO the_AT catalyst_NN1 and_CC thus_RR the_AT part_NN1 will_VM not_XX have_VHI a_AT1 chance_NN1 to_TO be_VBI a_AT1 defect_NN1 ._. 
+</s>
+<s>
+In_II our_APPGE analysis_NN1 and_CC improve_VV0 section_NN1 ,_, we_PPIS2 found_VVD that_CST defects_NN2 for_IF CIR_NP1 occurred_VVD when_RRQ the_AT material_NN1 came_VVD from_II Supplier_NN1 B._NP1 However_RR ,_, there_EX were_VBDR also_RR times_VVZ that_CST when_CS supplier_NN1 B_ZZ1 material_NN1 was_VBDZ used_VVN ,_, the_AT part_NN1 was_VBDZ not_XX a_AT1 defect_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 capacity_NN1 constraints_NN2 at_II suppliers_NN2 ,_, it_PPH1 may_VM not_XX be_VBI possible_JJ to_II not_XX order_NN1 from_II supplier_NN1 B_ZZ1 at_RR21 all_RR22 ,_, so_CS we_PPIS2 recommend_VV0 that_CST Rubberland_NP1 and_CC Supplier_NN1 B_ZZ1 conduct_VV0 a_AT1 study_NN1 to_TO figure_VVI out_RP why_RRQ some_DD parts_NN2 from_II supplier_NN1 B_ZZ1 are_VBR defects_NN2 ._. 
+</s>
+<s>
+In_II our_APPGE recommendation_NN1 section_NN1 ,_, we_PPIS2 recommended_VVD that_CST Rubberland_NP1 could_VM reduce_VVI the_AT amount_NN1 of_IO output_NN1 variables_NN2 they_PPHS2 measure_VV0 and_CC increase_VV0 some_DD of_IO the_AT specification_NN1 limits_NN2 of_IO the_AT input_NN1 variables_NN2 ._. 
+</s>
+<s>
+If_CS Rubberland_NP1 decides_VVZ to_TO do_VDI this_DD1 ,_, they_PPHS2 should_VM conduct_VVI follow_NN121 up_NN122 studies_NN2 to_TO make_VVI sure_JJ that_CST their_APPGE new_JJ specification_NN1 limits_NN2 and_CC removal_NN1 of_IO certain_JJ measured_JJ output_NN1 variables_NN2 do_VD0 not_XX produce_VVI more_DAR defects_NN2 ._. 
+</s>
+<s>
+Lastly_RR ,_, we_PPIS2 recommend_VV0 analysis_NN1 for_IF why_RRQ there_EX are_VBR so_RG many_DA2 wrong_JJ materials_NN2 ,_, which_DDQ are_VBR shown_VVN in_II the_AT cause_NN1 and_CC effect_NN1 diagram_NN1 in_II section_NN1 3.1_MC ._. 
+</s>

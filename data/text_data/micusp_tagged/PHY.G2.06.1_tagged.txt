@@ -1,0 +1,219 @@
+<s>
+In_II this_DD1 project_NN1 ,_, I_PPIS1 determined_VVD the_AT site_NN1 percolation_NN1 threshold_NN1 of_IO the_AT Kleinberg_NP1 small-world_JJ model_NN1 (_( Kleinberg_NP1 2000_MC )_) ._. 
+</s>
+<s>
+Site_NN1 percolation_NN1 on_II a_AT1 lattice_NN1 consists_VVZ of_IO labeling_VVG each_DD1 site_NN1 on_II the_AT lattice_NN1 "_" active_JJ "_" or_CC "_" inactive_JJ ._. "_" 
+</s>
+<s>
+Percolation_NN1 can_VM be_VBI used_VVN to_TO model_VVI the_AT spread_NN1 of_IO epidemics_NN2 and_CC catalytic_JJ surfaces_NN2 ._. 
+</s>
+<s>
+Applying_VVG site_NN1 percolation_NN1 to_II small-world_JJ networks_NN2 could_VM be_VBI used_VVN to_TO better_RRR understand_VVI the_AT spread_NN1 of_IO diseases_NN2 and_CC innovation_NN1 ._. 
+</s>
+<s>
+The_AT Kleinberg_NP1 small-world_JJ network_NN1 (_( 2000_MC )_) is_VBZ similar_JJ to_II a_AT1 two-dimensional_JJ version_NN1 of_IO the_AT Watts-Strogatz_NP1 small-world_JJ model_NN1 ._. 
+</s>
+<s>
+The_AT main_JJ difference_NN1 between_II the_AT two_MC models_NN2 ,_, besides_II the_AT dimensionality_NN1 ,_, is_VBZ that_DD1 the_AT long-range_JJ connections_NN2 in_II the_AT Kleinberg_NP1 model_NN1 are_VBR directed_VVN ._. 
+</s>
+<s>
+The_AT main_JJ feature_NN1 that_CST Kleinberg_NP1 wanted_VVD to_TO show_VVI is_VBZ that_CST there_EX is_VBZ an_AT1 optimal_JJ value_NN1 to_II the_AT clustering_NN1 coefficient_NN1 ,_, r_ZZ1 ,_, for_IF greedy_JJ search_NN1 with_IW local_JJ information_NN1 ._. 
+</s>
+<s>
+The_AT clustering_NN1 coefficient_NN1 determines_VVZ the_AT probability_NN1 that_CST a_AT1 long-range_JJ bond_NN1 ,_, say_VV0 from_II a_AT1 to_II b_ZZ1 ,_, is_VBZ chosen_VVN ,_, Percolation_NN1 on_II small-world_JJ networks_NN2 can_VM answer_VVI questions_NN2 about_II the_AT spread_NN1 of_IO disease_NN1 through_II networks_NN2 that_CST resemble_VV0 real_JJ human_JJ contact_NN1 networks_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 context_NN1 the_AT "_" active_JJ "_" nodes_NN2 are_VBR people_NN who_PNQS are_VBR susceptible_JJ to_II the_AT disease_NN1 ;_; "_" inactive_JJ "_" nodes_NN2 are_VBR people_NN who_PNQS are_VBR immune_JJ to_II disease_NN1 ._. 
+</s>
+<s>
+By_II determining_VVG the_AT effect_NN1 of_IO different_JJ long-distance_JJ contact_NN1 distributions_NN2 and_CC number_NN1 of_IO long-distance_JJ contacts_NN2 on_II the_AT percolation_NN1 threshold_NN1 ,_, we_PPIS2 can_VM start_VVI to_TO answer_VVI epidemic_NN1 prevention_NN1 questions_NN2 ._. 
+</s>
+<s>
+One_MC1 possible_JJ question_NN1 is_VBZ ,_, "_" is_VBZ it_PPH1 more_RGR important_JJ to_TO reduce_VVI the_AT total_JJ number_NN1 of_IO long-range_JJ contacts_NN2 or_CC changing_VVG the_AT distribution_NN1 of_IO long_JJ range_NN1 contacts_NN2 to_TO make_VVI the_AT contacts_NN2 more_RGR 'clustered'_JJ ?_? "_" 
+</s>
+<s>
+Another_DD1 motivation_NN1 is_VBZ my_APPGE initial_JJ motivation_NN1 :_: modeling_VVG the_AT diffusion_NN1 of_IO information_NN1 through_II high-loss_JJ small-world_JJ networks_NN2 ._. 
+</s>
+<s>
+One_MC1 known_JJ issue_NN1 with_IW Milgram_NP1 's_GE experiment_NN1 is_VBZ that_CST a_AT1 number_NN1 of_IO the_AT messages_NN2 were_VBDR dropped_VVN by_II intermediate_JJ people_NN ._. 
+</s>
+<s>
+In_II31 terms_II32 of_II33 percolation_NN1 these_DD2 people_NN would_VM be_VBI "_" inactive_JJ "_" nodes_NN2 ._. 
+</s>
+<s>
+With_IW both_DB2 stochastic_JJ and_CC deterministic_JJ message_NN1 passing_NN1 schemes_NN2 ,_, a_AT1 message_NN1 that_CST goes_VVZ through_II more_DAR steps_NN2 is_VBZ more_RGR likely_JJ to_TO be_VBI dropped_VVN ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT average_JJ path_NN1 length_NN1 of_IO a_AT1 message_NN1 that_CST makes_VVZ it_PPH1 to_II its_APPGE destination_NN1 is_VBZ shorter_JJR than_CSN the_AT average_JJ shortest_JJT path_NN1 if_CS there_EX were_VBDR no_AT people_NN who_PNQS dropped_VVD messages_NN2 ._. 
+</s>
+<s>
+I_PPIS1 planned_VVD to_TO look_VVI into_II the_AT probability_NN1 of_IO messages_NN2 reaching_VVG a_AT1 target_NN1 at_II the_AT percolation_NN1 threshold_NN1 ._. 
+</s>
+<s>
+As_CSA it_PPH1 turned_VVD out_RP ,_, just_RR finding_VVG the_AT percolation_NN1 threshold_NN1 as_II a_AT1 function_NN1 of_IO r_ZZ1 and_CC the_AT total_JJ number_NN1 of_IO long_JJ connections_NN2 (_( N_ZZ1 )_) was_VBDZ difficult_JJ enough_RR ._. 
+</s>
+<s>
+The_AT subject_NN1 of_IO percolation_NN1 is_VBZ very_RG old_JJ and_CC the_AT percolation_NN1 threshold_NN1 has_VHZ been_VBN determined_VVN for_IF practically_RR all_RR 2D_NNU (_( Suding_NP1 1999_MC )_) and_CC 3D_NNU (_( Lorenz_NP1 2000_MC )_) lattices_NN2 ._. 
+</s>
+<s>
+Lattices_NN2 are_VBR said_VVN to_TO percolate_VVI if_CSW there_EX exists_VVZ a_AT1 path_NN1 from_II one_MC1 side_NN1 of_IO the_AT lattice_NN1 to_II the_AT other_JJ through_II only_JJ active_JJ sites_NN2 ._. 
+</s>
+<s>
+This_DD1 group_NN1 of_IO active_JJ sites_NN2 is_VBZ called_VVN a_AT1 percolation_NN1 cluster_NN1 ._. 
+</s>
+<s>
+Networks_NN2 ,_, on_II the_AT other_JJ hand_NN1 ,_, require_VV0 a_AT1 different_JJ definition_NN1 of_IO percolation_NN1 ._. 
+</s>
+<s>
+Percolation_NN1 on_II networks_NN2 requires_VVZ determining_VVG the_AT size_NN1 of_IO the_AT giant_JJ component_NN1 of_IO the_AT network_NN1 ,_, after_CS the_AT sites_NN2 have_VH0 been_VBN labeled_VVN active_JJ or_CC inactive_JJ ._. 
+</s>
+<s>
+Network_NN1 percolation_NN1 has_VHZ been_VBN performed_VVN on_II random_JJ graphs_NN2 (_( Callaway_NP1 2000_MC )_) ,_, 1D_NNU Watts-Strogatz_NP1 small-world_JJ networks_NN2 (_( Newman_NP1 1999_MC )_) ,_, 2D_NNU Watts-Strogatz_NP1 small-world_JJ networks_NN2 (_( Newman_NP1 2002_MC )_) ,_, and_CC on_II Heterogeneous_JJ networks_NN2 (_( Sander_NP1 2002_MC )_) ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT similarity_NN1 between_II the_AT Kleinberg_NP1 and_CC Watts-Strogatz_NP1 models_NN2 ,_, one_MC1 limit_NN1 of_IO my_APPGE analysis_NN1 should_VM yield_VVI similar_JJ results_NN2 to_II Newman_NP1 2002_MC ._. 
+</s>
+<s>
+My_APPGE goal_NN1 is_VBZ to_TO determine_VVI the_AT percolation_NN1 threshold_NN1 as_CSA function_NN1 of_IO the_AT two_MC parameters_NN2 of_IO the_AT Kleinberg_NP1 model_NN1 ,_, the_AT power-law_NN1 distribution_NN1 coefficient_NN1 (_( or_CC "_" clustering_NN1 coefficient_NN1 "_" )_) r_ZZ1 ,_, and_CC the_AT number_NN1 of_IO long_JJ range_NN1 connections_NN2 N._NP1 The_AT percolation_NN1 threshold_NN1 is_VBZ defined_VVN as_II the_AT percentage_NN1 of_IO active_JJ sites_NN2 required_VVN to_TO always_RR percolate_VVI for_IF infinite_JJ size_NN1 systems_NN2 ._. 
+</s>
+<s>
+To_TO find_VVI the_AT percolation_NN1 threshold_NN1 I_PPIS1 used_VVD simulations_NN2 written_VVN in_II C++_FO ._. 
+</s>
+<s>
+The_AT details_NN2 of_IO my_APPGE simulations_NN2 are_VBR as_CSA follows_VVZ ._. 
+</s>
+<s>
+I_PPIS1 create_VV0 a_AT1 square_JJ lattice_NN1 of_IO equal_JJ height_NN1 and_CC width_NN1 ._. 
+</s>
+<s>
+Each_DD1 site_NN1 gets_VVZ N_ZZ1 additional_JJ directed_JJ long_JJ range_NN1 links_NN2 ._. 
+</s>
+<s>
+If_CS N_ZZ1 is_VBZ not_XX an_AT1 integer_NN1 ,_, then_RT some_DD sites_NN2 get_VV0 I_PPIS1 measured_VVD the_AT profiles_NN2 of_IO I(p)_NN1 for_IF several_DA2 size_NN1 systems_NN2 ,_, Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT most_RGT common_JJ method_NN1 of_IO determining_VVG the_AT percolation_NN1 threshold_NN1 is_VBZ to_TO measure_VVI pc_NNU ,_, say_VV0 where_RRQ My_APPGE main_JJ result_NN1 is_VBZ shown_VVN in_II Figure_NN1 3_MC ._. 
+</s>
+<s>
+This_DD1 figure_NN1 shows_VVZ how_RRQ pc_NNU varies_VVZ as_II a_AT1 function_NN1 of_IO r_ZZ1 and_CC N._NP1 There_EX is_VBZ a_RR21 lot_RR22 to_II digest_NN1 in_II the_AT figure_NN1 so_CS I_PPIS1 will_VM discuss_VVI some_DD of_IO the_AT interesting_JJ behavior_NN1 ._. 
+</s>
+<s>
+The_AT first_MD limit_NN1 to_TO note_VVI is_VBZ the_AT limit_NN1 of_IO N_ZZ1 =_FO 0_MC ;_; this_DD1 corresponds_VVZ to_II a_AT1 normal_JJ square_JJ lattice_NN1 with_IW no_AT long-range_JJ connections_NN2 ._. 
+</s>
+<s>
+The_AT percolation_NN1 threshold_NN1 for_IF the_AT square_JJ lattice_NN1 is_VBZ known_VVN to_TO be_VBI 0.59274621(13)_FO ._. 
+</s>
+<s>
+My_APPGE simulation_NN1 calculated_VVD pc_NNU to_TO be_VBI 0.5927_MC ._. 
+</s>
+<s>
+This_DD1 limit_NN1 shows_NN2 ,_, at_RR21 least_RR22 partial_JJ ,_, functionality_NN1 of_IO my_APPGE programs_NN2 ._. 
+</s>
+<s>
+This_DD1 limit_NN1 is_VBZ shown_VVN in_II Figure_NN1 4_MC ._. 
+</s>
+<s>
+This_DD1 limit_NN1 corresponds_VVZ to_TO long_JJ bonds_NN2 of_IO any_DD length_NN1 being_VBG allowed_VVN ._. 
+</s>
+<s>
+This_DD1 result_NN1 can_VM be_VBI compared_VVN with_IW the_AT results_NN2 of_IO Newman_NP1 2002_MC ._. 
+</s>
+<s>
+For_IF both_DB2 results_NN2 we_PPIS2 see_VV0 the_AT percolation_NN1 threshold_NN1 start_NN1 at_II that_DD1 of_IO the_AT square_JJ lattice_NN1 ,_, 0.5_MC and_CC 0.5927_MC for_IF bond_NN1 and_CC site_NN1 percolation_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+For_IF my_APPGE results_NN2 ,_, pc_NNU monotonically_RR decreases_VVZ until_CS N=2_FO ,_, after_II which_DDQ pc_NNU is_VBZ a_AT1 constant_JJ value_NN1 ,_, 0.1897_MC ._. 
+</s>
+<s>
+Newman_NP1 's_GE results_NN2 do_VD0 n't_XX show_VVI this_DD1 behavior_NN1 and_CC if_CS I_PPIS1 understand_VV0 their_APPGE paper_NN1 correctly_RR ,_, they_PPHS2 do_VD0 n't_XX predict_VVI any_DD point_NN1 where_RRQ pc_NNU should_VM become_VVI constant_JJ ._. 
+</s>
+<s>
+This_DD1 discrepancy_NN1 is_VBZ because_CS ,_, in_II that_DD1 paper_NN1 ,_, he_PPHS1 did_VDD not_XX measure_VVI pc_NNU for_IF N1_FO and_CC he_PPHS1 used_VVD the_AT giant_JJ component_NN1 to_TO determine_VVI percolation_NN1 ,_, whereas_CS I_PPIS1 used_VVD crossing_VVG probability_NN1 ._. 
+</s>
+<s>
+My_APPGE approximation_NN1 of_IO this_DD1 limit_NN1 is_VBZ shown_VVN in_II Figure_NN1 5_MC ._. 
+</s>
+<s>
+The_AT slice_NN1 of_IO the_AT contour_NN1 plot_NN1 is_VBZ at_II r=15_FO ,_, a_AT1 good_JJ approximation_NN1 of_IO the_AT infinite_JJ behavior_NN1 ._. 
+</s>
+<s>
+From_II the_AT plot_NN1 we_PPIS2 can_VM see_VVI that_CST there_EX is_VBZ a_AT1 linear_JJ decrease_NN1 in_II pc_NNU until_CS N=2_FO where_RRQ pc_NNU becomes_VVZ constant_JJ ._. 
+</s>
+<s>
+One_MC1 interesting_JJ thing_NN1 about_II this_DD1 limit_NN1 is_VBZ that_CST it_PPH1 can_VM be_VBI compared_VVN against_II other_JJ lattices_NN2 because_CS it_PPH1 corresponds_VVZ to_II adding_VVG some_DD connections_NN2 to_II next-nearest_JJT neighbors_NN2 ._. 
+</s>
+<s>
+In_II31 terms_II32 of_II33 lattices_NN2 ,_, a_AT1 square_JJ lattice_NN1 has_VHZ a_AT1 coordination_NN1 number_NN1 (_( z_ZZ1 )_) of_IO 4_MC ,_, i.e._REX four_MC neighbors_NN2 ._. 
+</s>
+<s>
+N=1_FO and_CC N=2_FO correspond_VV0 to_II z=5_FO and_CC z=6_FO ,_, respectively_RR ._. 
+</s>
+<s>
+I_PPIS1 found_VVD that_CST pc_NNU for_IF z=5_FO and_CC z=6_FO are_VBR 0.528_MC and_CC 0.470_MC ._. 
+</s>
+<s>
+These_DD2 results_NN2 can_VM be_VBI compared_VVN against_II the_AT percolation_NN1 threshold_NN1 of_IO normal_JJ lattices_NN2 ._. 
+</s>
+<s>
+My_APPGE results_NN2 for_IF z=5_FO are_VBR smaller_JJR than_CSN known_JJ lattices_NN2 (_( ranging_VVG from_II 0.550_MC to_II 0.579_MC )_) ._. 
+</s>
+<s>
+The_AT common_JJ z=6_FO lattice_NN1 is_VBZ the_AT triangular_JJ lattice_NN1 which_DDQ has_VHZ a_AT1 site_NN1 percolation_NN1 threshold_NN1 of_IO 0.5_MC ._. 
+</s>
+<s>
+In_II all_DB of_IO these_DD2 cases_NN2 ,_, the_AT r=_FO limit_NN1 have_VH0 a_AT1 lower_JJR percolation_NN1 threshold_NN1 than_CSN normal_JJ lattices_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ an_AT1 interesting_JJ result_NN1 ,_, without_IW a_AT1 clear_JJ explanation_NN1 ._. 
+</s>
+<s>
+A_AT1 plot_NN1 of_IO pc_NNU versus_II r_ZZ1 for_IF N=1_FO and_CC N=2_FO is_VBZ shown_VVN in_II Figure_NN1 6_MC ._. 
+</s>
+<s>
+For_IF large_JJ r_ZZ1 ,_, pc_NNU approaches_VVZ some_DD asymptotic_JJ value_NN1 as_II the_AT "_" long_JJ "_" links_NN2 become_VV0 next-nearest_II neighbor_NN1 links_NN2 ,_, as_CSA seen_VVN in_II Figure_NN1 5_MC ._. 
+</s>
+<s>
+When_CS r_ZZ1 decreases_VVZ ,_, pc_NNU also_RR decreases_VVZ until_CS it_PPH1 reaches_VVZ a_AT1 constant_JJ value_NN1 at_II r_ZZ1 I_PPIS1 studied_VVD site_NN1 percolation_NN1 on_II the_AT Kleinberg_NP1 small-world_JJ model_NN1 ._. 
+</s>
+<s>
+Using_VVG numerical_JJ simulations_NN2 I_PPIS1 determined_VVD the_AT percolation_NN1 threshold_NN1 for_IF a_AT1 wide_JJ range_NN1 of_IO values_NN2 of_IO the_AT system_NN1 's_GE two_MC parameters_NN2 :_: the_AT "_" clustering_NN1 coefficient_NN1 "_" r_ZZ1 and_CC number_NN1 of_IO long_JJ range_NN1 links_VVZ N._NNU The_AT percolation_NN1 threshold_NN1 values_NN2 were_VBDR corrected_VVN for_IF finite-size_JJ effects_NN2 ._. 
+</s>
+<s>
+The_AT percolation_NN1 threshold_NN1 contour_NN1 showed_VVD several_DA2 interesting_JJ features_NN2 ._. 
+</s>
+<s>
+First_MD ,_, I_PPIS1 found_VVD that_CST for_IF large_JJ N_ZZ1 ,_, N2_FO ,_, pc_NNU does_VDZ not_XX change_VVI anymore_RR ._. 
+</s>
+<s>
+This_DD1 result_NN1 is_VBZ surprising_JJ and_CC warrants_VVZ further_JJR study_NN1 ._. 
+</s>
+<s>
+I_PPIS1 plan_VV0 to_TO simulate_VVI similar_JJ systems_NN2 to_TO see_VVI if_CSW the_AT result_NN1 is_VBZ occurs_VVZ commonly_RR ._. 
+</s>
+<s>
+Another_DD1 interesting_JJ feature_NN1 is_VBZ the_AT limit_NN1 of_IO small_JJ r_ZZ1 for_IF N=1_FO and_CC N=2_FO ._. 
+</s>
+<s>
+In_II these_DD2 cases_NN2 ,_, pc_NNU takes_VVZ on_RP values_NN2 of_IO There_RL are_VBR a_AT1 number_NN1 of_IO "_" special_JJ "_" values_NN2 of_IO pc_NNU ,_, N_ZZ1 ,_, and_CC r_ZZ1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, I_PPIS1 have_VH0 so_RG far_RR been_VBN unable_JK to_TO come_VVI up_RP with_IW any_DD theories_NN2 or_CC compelling_JJ conjectures_NN2 for_IF why_RRQ these_DD2 values_NN2 should_VM be_VBI important_JJ ._. 
+</s>
+<s>
+Apart_II21 from_II22 theory_NN1 ,_, there_EX are_VBR some_DD "_" practical_JJ "_" things_NN2 that_CST can_VM be_VBI gleaned_VVN from_II the_AT main_JJ contour_NN1 plot_NN1 ._. 
+</s>
+<s>
+If_CS this_DD1 model_NN1 was_VBDZ an_AT1 accurate_JJ description_NN1 of_IO real_JJ human_JJ networks_NN2 ,_, then_RT my_APPGE results_NN2 could_VM help_VVI make_VVI several_DA2 policy_NN1 positions_NN2 in_II31 regard_II32 to_II33 epidemics_NN2 ._. 
+</s>
+<s>
+First_MD ,_, if_CS people_NN on_II average_NN1 tend_VV0 to_TO have_VHI more_DAR than_CSN two_MC long-distance_JJ friends_NN2 ,_, then_RT it_PPH1 is_VBZ always_RR better_JJR to_TO try_VVI to_TO reduce_VVI pc_NNU by_II increasing_VVG r_ZZ1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ convincing_JJ people_NN not_XX to_TO contact_VVI very_RG long_JJ distance_NN1 friends_NN2 ._. 
+</s>
+<s>
+If_CS the_AT average_JJ number_NN1 of_IO long-distance_JJ friends_NN2 is_VBZ less_DAR than_CSN one_MC1 ,_, then_RT it_PPH1 's_VBZ always_RR better_JJR to_TO try_VVI to_TO reduce_VVI the_AT average_JJ number_NN1 of_IO long-distance_JJ friends_NN2 ._. 
+</s>
+<s>
+If_CS on_II the_AT other-hand_JJ ,_, the_AT goal_NN1 is_VBZ to_TO spread_VVI innovation_NN1 ,_, then_RT the_AT exact_JJ opposite_JJ set_NN1 of_IO recommendations_NN2 would_VM be_VBI best_JJT ._. 
+</s>

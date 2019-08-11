@@ -1,0 +1,177 @@
+<s>
+The_AT worker_NN1 who_PNQS is_VBZ 1.9_MC m_NNO tall_JJ and_CC weighs_VVZ 85_MC kg_NNU is_VBZ standing_VVG with_IW two_MC legs_NN2 and_CC lifting_VVG the_AT 20_MC kg_NNU box_NN1 with_IW two_MC hands_NN2 ._. 
+</s>
+<s>
+Symmetric_JJ force_NN1 distribution_NN1 in_II two_MC arms_NN2 was_VBDZ assumed_VVN ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ assumed_VVN that_CST the_AT box_NN1 weight_NN1 was_VBDZ applied_VVN at_II the_AT distal_JJ end_NN1 of_IO lower_JJR arm_NN1 and_CC hand_NN1 link_NN1 ._. 
+</s>
+<s>
+The_AT worker_NN1 's_GE posture_NN1 is_VBZ as_CSA shown_VVN in_II Figure_NN1 1_MC1 ,_, the_AT feet_NN2 flat_NN1 on_II the_AT floor_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ supposed_VVN that_CST the_AT individual_NN1 was_VBDZ flexed_VVN his_APPGE shoulder_NN1 to_TO lift_VVI their_APPGE upper_JJ arm_NN1 to_II a_AT1 horizontal_JJ position_NN1 (_( Angle_NN1 S_ZZ1 =_FO 0_MC )_) as_II31 well_II32 as_II33 the_AT elbow_NN1 extension_NN1 ,_, as_CSA the_AT shoulder_NN1 flexes_NN2 ,_, so_CS21 that_CS22 it_PPH1 was_VBDZ horizontal_JJ in_II the_AT end_NN1 posture_NN1 (_( Angle_NN1 E_ZZ1 =_FO 0_MC )_) ._. 
+</s>
+<s>
+The_AT relationship_NN1 of_IO the_AT two_MC angles_NN2 was_VBDZ 7:1_MC shoulder_NN1 flexion/elbow_NN1 extension_NN1 ._. 
+</s>
+<s>
+The_AT equations_NN2 used_VVN for_IF shoulder_NN1 and_CC L5/S1_JJ moment_NN1 calculation_NN1 are_VBR as_CSA follows_VVZ ._. 
+</s>
+<s>
+Resultant_JJ forces_NN2 at_II elbow_NN1 and_CC shoulder_NN1 did_VDD not_XX change_VVI as_II elbow_NN1 and_CC shoulder_NN1 were_VBDR extended_VVN or_CC flexed_VVD ._. 
+</s>
+<s>
+The_AT box_NN1 mass_NN1 of_IO 20_MC kg_NNU was_VBDZ assumed_VVN ._. 
+</s>
+<s>
+Shoulder_NN1 moment_NN1 =_FO (_( length_NN1 of_IO upper_JJ arm_NN1 *_FU resultant_JJ force_NN1 at_II elbow_NN1 +COM_FO of_IO upper_JJ arm_NN1 *_FU weight_NN1 of_IO upper_JJ arm_NN1 )_) *_FU cos_CS (_( Angle_NN1 S_ZZ1 )_) +Elbow_FO moment_NN1 Table_NN1 6_MC shows_VVZ the_AT values_NN2 of_IO shoulder_NN1 and_CC L5/S1_JJ moment_NN1 values_NN2 calculated_VVN for_IF 7_MC equally_RR spaced_VVN intervals_NN2 through_II the_AT motion_NN1 (_( i.e._REX at_II each_DD1 10_MC degrees_NN2 of_IO shoulder_NN1 flexion_NN1 )_) ,_, and_CC the_AT data_NN is_VBZ plotted_VVN in_II Figure_NN1 10_MC ._. 
+</s>
+<s>
+The_AT box_NN1 mass_NN1 was_VBDZ assumed_VVN 29_MC kg_NNU ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT plots_NN2 in_II Figure_NN1 10_MC show_VV0 the_AT absolute_JJ values_NN2 of_IO the_AT moments_NN2 ,_, not_XX resultant_JJ moments_NN2 ._. 
+</s>
+<s>
+(_( The_AT resultant_JJ moments_NN2 were_VBDR all_DB negative_JJ values_NN2 of_IO the_AT same_DA amount_NN1 of_IO corresponding_JJ value_NN1 )_) ._. 
+</s>
+<s>
+In_II calculation_NN1 of_IO moments_NN2 and_CC forces_NN2 in_II section_NN1 1_MC1 ,_, the_AT moment_NN1 was_VBDZ discovered_VVN to_TO change_VVI depending_II21 on_II22 the_AT segment_NN1 weights_NN2 ,_, segment_NN1 lengths_NN2 ,_, the_AT posture_NN1 and_CC the_AT box_NN1 weight_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ shown_VVN that_CST not_XX only_RR the_AT box_NN1 weight_NN1 but_CCB also_RR the_AT body_NN1 weight_NN1 affected_VVN a_AT1 great_JJ amount_NN1 of_IO the_AT force_NN1 and_CC moment_NN1 for_IF each_DD1 joint_JJ and_CC the_AT compression_NN1 and_CC shear_VV0 force_NN1 at_II L5/S1_NP1 ._. 
+</s>
+<s>
+From_II the_AT calculation_NN1 of_IO the_AT resultant_JJ force_NN1 and_CC moment_NN1 at_II L5/S1_NP1 in_II section_NN1 1_MC1 ,_, it_PPH1 was_VBDZ shown_VVN that_CST the_AT length_NN1 and_CC the_AT weight_NN1 of_IO L5/S1_JJ to_TO shoulder_VVI resulted_VVN in_II the_AT great_JJ moment_NN1 at_II L5/S1_NP1 ._. 
+</s>
+<s>
+Also_RR ,_, from_II section_NN1 2_MC ,_, L5/S1_JJ disc_NN1 compression_NN1 and_CC shear_VV0 forces_NN2 ,_, it_PPH1 was_VBDZ shown_VVN that_CST the_AT moment_NN1 created_VVN by_II the_AT upper_JJ body_NN1 weight_NN1 at_II L5/S1_NP1 is_VBZ more_DAR than_CSN a_AT1 half_NN1 of_IO that_DD1 by_II the_AT box_NN1 ,_, as_CSA follows_VVZ ._. 
+</s>
+<s>
+As_II21 for_II22 posture_NN1 ,_, as_CSA shown_VVN in_II the_AT calculation_NN1 of_IO moments_NN2 of_IO shoulder_NN1 and_CC L5/S1_VV0 for_IF different_JJ angles_NN2 of_IO elbow_NN1 /_FO shoulder_NN1 in_II section_NN1 6_MC (_( Moment_NN1 of_IO Shoulder_NN1 and_CC L5/S1_VV0 when_CS being_VBG Flexed_VVN )_) ,_, the_AT posture_NN1 played_VVD an_AT1 important_JJ role_NN1 on_II the_AT moment_NN1 for_IF each_DD1 joint_JJ ._. 
+</s>
+<s>
+It_PPH1 implies_VVZ that_CST the_AT posture_NN1 with_IW extremities_NN2 widely_RR spread_VVN out_RP to_II the_AT horizontal_JJ direction_NN1 might_VM cause_VVI bigger_JJR moments_NN2 at_II joints_NN2 ._. 
+</s>
+<s>
+In_II the_AT same_DA sense_NN1 ,_, moment_NN1 is_VBZ expected_VVN to_TO be_VBI smaller_JJR for_IF the_AT posture_NN1 with_IW body_NN1 segments_NN2 closer_RRR to_II the_AT center_NN1 of_IO the_AT body_NN1 in_II the_AT horizontal_JJ direction_NN1 ._. 
+</s>
+<s>
+Not_XX to_TO mention_VVI ,_, the_AT moment_NN1 for_IF each_DD1 joint_NN1 would_VM become_VVI smaller_JJR with_IW the_AT box_NN1 closer_RRR to_II the_AT body_NN1 ._. 
+</s>
+<s>
+The_AT moment_NN1 value_NN1 will_VM vary_VVI if_CSW the_AT box_NN1 weight_NN1 is_VBZ applied_VVN in_II different_JJ position_NN1 on_II hands_NN2 or_CC lower_JJR arm_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, if_CS it_PPH1 was_VBDZ assumed_VVN that_CST the_AT worker_NN1 was_VBDZ holding_VVG the_AT object_NN1 by_II embracing_VVG it_PPH1 in_II his_APPGE or_CC her_APPGE arm_NN1 rather_II21 than_II22 holding_VVG it_PPH1 with_IW the_AT tip_NN1 of_IO the_AT lower_JJR arm_NN1 and_CC hand_NN1 link_NN1 ,_, the_AT value_NN1 of_IO the_AT moments_NN2 at_II joints_NN2 would_VM be_VBI smaller_JJR than_CSN those_DD2 calculated_VVN in_II this_DD1 report_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ shown_VVN in_II Figure_NN1 10_MC that_CST extremities_NN2 and_CC the_AT box_NN1 's_GE larger_JJR deviation_NN1 from_II the_AT body_NN1 caused_VVD greater_JJR moment_NN1 created_VVN at_II joints_NN2 ._. 
+</s>
+<s>
+The_AT shape_NN1 of_IO two_MC curves_NN2 in_II Figure_NN1 10_MC suggests_VVZ a_AT1 greater_JJR slop_NN1 in_II changes_NN2 of_IO moments_NN2 in_II the_AT range_NN1 of_IO greater_JJR angle_NN1 (_( -70_MC -50_MC )_) than_CSN in_II the_AT range_NN1 of_IO smaller_JJR angle_NN1 (_( -20_MC 0_MC )_) ,_, which_DDQ approximately_RR follows_VVZ the_AT cosine_NN1 curve_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI explained_VVN by_II considering_VVG the_AT amount_NN1 of_IO the_AT extremities_58 '_97 deviation_NN1 from_II the_AT body_NN1 in_II the_AT horizontal_JJ axis_NN1 ,_, which_DDQ can_VM be_VBI described_VVN with_IW cosine_NN1 functions_NN2 of_IO the_AT angle_NN1 ._. 
+</s>
+<s>
+From_II the_AT elbow_NN1 moment_NN1 equation_NN1 used_VVN in_II calculation_NN1 as_CSA follows_VVZ ,_, for_REX21 example_REX22 ,_, the_AT length_NN1 ,_, the_AT center_NN1 of_IO mass_NN1 ,_, and_CC the_AT weight_NN1 of_IO lower_JJR arm_NN1 and_CC hand_NN1 and_CC the_AT box_NN1 weight_NN1 were_VBDR constant_JJ ,_, while_CS Angle_NN1 E_ZZ1 was_VBDZ the_AT only_JJ variable_NN1 ,_, affecting_VVG elbow_NN1 moment_NN1 in_II the_AT cosine_NN1 function_NN1 ._. 
+</s>
+<s>
+Elbow_NN1 moment_NN1 =_FO (_( length_NN1 of_IO lower_JJR arm_NN1 and_CC hand_NN1 *_FU box_NN1 weight_NN1 /_FO 2_MC +_FO COM_NN1 of_IO lower_JJR arm_NN1 and_CC hand_NN1 *_FU weight_NN1 of_IO lower_JJR arm_NN1 and_CC hand_NN1 )_) *_FU cos_CS (_( Angle_NN1 E_ZZ1 )_) Overhead_JJ exertions_NN2 (_( which_DDQ are_VBR necessarily_RR close_JJ to_II the_AT body_NN1 in_II the_AT sagittal_NN1 plane_NN1 )_) ,_, however_RR ,_, are_VBR perceived_VVN as_CSA stressful_JJ ,_, despite_II generating_VVG relatively_RR lower_JJR moment_NN1 values_NN2 at_II the_AT shoulder_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI explained_VVN by_II physiological_JJ phenomena_NN2 that_CST the_AT muscle_NN1 force_NN1 varies_VVZ depending_II21 on_II22 the_AT length_NN1 of_IO the_AT muscle_NN1 as_II31 well_II32 as_II33 the_AT length_NN1 of_IO the_AT moment_NN1 arm_NN1 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 loads_NN2 handled_VVD close_RR to_II the_AT body_NN1 typically_RR produce_VV0 lower_JJR joint_JJ moment_NN1 values_NN2 ,_, as_CSA muscle_NN1 length_NN1 is_VBZ not_XX optimized_VVN ,_, the_AT force_NN1 capacity_NN1 that_CST the_AT muscle_NN1 can_VM produce_VVI is_VBZ reduced_VVN ._. 
+</s>
+<s>
+Since_CS overhead_JJ exertions_NN2 are_VBR likely_JJ to_TO cause_VVI upper_JJ arm_NN1 flexion_NN1 and_CC lower_JJR arm_NN1 extension_NN1 ,_, their_APPGE muscles_NN2 are_VBR often_RR in_II the_AT situation_NN1 where_RRQ they_PPHS2 are_VBR contracting_VVG or_CC stretched_VVD ,_, which_DDQ is_VBZ not_XX in_II an_AT1 optimized_JJ state_NN1 ._. 
+</s>
+<s>
+To_TO produce_VVI the_AT same_DA amount_NN1 of_IO force_NN1 (_( which_DDQ was_VBDZ required_VVN with_IW the_AT optimized_JJ muscle_NN1 length_NN1 )_) ,_, it_PPH1 can_VM be_VBI perceived_VVN as_CSA stressful_JJ ._. 
+</s>
+<s>
+Muscle_NN1 moment_NN1 arm_NN1 is_VBZ expected_VVN to_TO have_VHI the_AT similar_JJ effect_NN1 ,_, too_RR ._. 
+</s>
+<s>
+As_II the_AT moment_NN1 arm_NN1 becomes_VVZ shorter_JJR ,_, the_AT greater_JJR force_NN1 is_VBZ required_VVN from_II the_AT muscle_NN1 ,_, which_DDQ can_VM be_VBI stressful_JJ ._. 
+</s>
+<s>
+With_IW the_AT same_DA position_NN1 but_CCB different_JJ mass_NN1 of_IO the_AT box_NN1 ,_, it_PPH1 was_VBDZ shown_VVN from_II Table_NN1 2_MC and_CC Table_NN1 3_MC that_DD1 ,_, with_IW a_AT1 heavier_JJR box_NN1 ,_, the_AT force_NN1 and_CC moment_NN1 for_IF each_DD1 joint_JJ and_CC the_AT compression_NN1 and_CC shear_VV0 force_NN1 at_II L5/S1_NP1 were_VBDR greater_JJR ._. 
+</s>
+<s>
+It_PPH1 implies_VVZ that_CST lifting_VVG a_AT1 heavy_JJ object_NN1 can_VM load_VVI excessive_JJ compression_NN1 force_NN1 which_DDQ can_VM lead_VVI to_II an_AT1 injury_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 view_NN1 ,_, NIOSH_NP1 established_VVD a_AT1 recommended_JJ limit_NN1 of_IO the_AT weight_NN1 of_IO the_AT object_NN1 lifted_VVN by_II a_AT1 person_NN1 ,_, as_CSA called_VVN as_CSA action_NN1 limit_NN1 ,_, in_II 1991_MC ._. 
+</s>
+<s>
+The_AT action_NN1 limit_NN1 is_VBZ 3400_MC N_NNU of_IO the_AT compression_NN1 force_NN1 at_II L5/S1_NP1 ._. 
+</s>
+<s>
+The_AT maximum_JJ box_NN1 mass_NN1 not_XX exceeding_VVG the_AT NIOSH_NN1 action_NN1 limit_NN1 was_VBDZ calculated_VVN in_II section_NN1 5_MC (_( Maximum_JJ Box_NN1 Mass_NN1 according_II21 to_II22 NIOSH_NP1 )_) ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Figure_NN1 9_MC ,_, the_AT maximum_JJ box_NN1 mass_NN1 depends_VVZ on_II the_AT length_NN1 of_IO the_AT erector_NN1 spinae_NN2 moment_NN1 arm_NN1 when_CS the_AT posture_NN1 and_CC the_AT body_NN1 segments_58 '_97 weights_NN2 and_CC lengths_NN2 were_VBDR same_DA ._. 
+</s>
+<s>
+The_AT longer_JJR the_AT erector_NN1 spinae_NN2 moment_NN1 arm_NN1 ,_, the_AT greater_JJR the_AT maximum_JJ acceptable_JJ box_NN1 mass_NN1 ,_, which_DDQ was_VBDZ predicted_VVN from_II the_AT equation_NN1 of_IO F_ZZ1 muscle_NN1 as_II a_AT1 function_NN1 of_IO E_ZZ1 ,_, as_CSA below_RL ._. 
+</s>
+<s>
+To_TO decrease_VVI F_ZZ1 comp_NN1 ,_, F_ZZ1 muscle_NN1 is_VBZ to_TO be_VBI decreased_VVN ._. 
+</s>
+<s>
+For_IF F_ZZ1 muscle_NN1 to_TO be_VBI decreased_VVN ,_, from_II the_AT following_JJ equation_NN1 ,_, E_ZZ1 is_VBZ to_TO be_VBI increased_VVN ._. 
+</s>
+<s>
+With_IW only_RR 3_MC cm_NNU variation_NN1 in_II the_AT erector_NN1 spinae_NN2 moment_NN1 arm_NN1 ,_, the_AT maximum_JJ box_NN1 mass_NN1 varied_VVN from_II 4.7_MC to_II 15.8_MC kg_NNU ._. 
+</s>
+<s>
+It_PPH1 emphasizes_VVZ the_AT importance_NN1 of_IO the_AT effect_NN1 of_IO the_AT length_NN1 of_IO moment_NN1 arm_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, with_IW different_JJ box_NN1 mass_NN1 ,_, the_AT center_NN1 of_IO mass_NN1 of_IO the_AT body_NN1 and_CC the_AT box_NN1 was_VBDZ located_VVN differently_RR ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Table_NN1 4_MC ,_, the_AT centers_NN2 of_IO mass_NN1 of_IO the_AT body_NN1 and_CC the_AT box_NN1 for_IF both_DB2 20_MC kg_NNU box_NN1 and_CC 30_MC kg_NNU box_NN1 were_VBDR located_VVN over_II the_AT foot_NN1 ._. 
+</s>
+<s>
+However_RR ,_, within_II the_AT foot_NN1 ,_, the_AT center_NN1 of_IO mass_NN1 was_VBDZ located_VVN nearer_II21 to_II22 the_AT center_NN1 of_IO the_AT foot_NN1 with_IW 20_MC kg_NNU box_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, it_PPH1 can_VM be_VBI said_VVN that_CST the_AT individual_NN1 could_VM achieve_VVI a_AT1 balance_NN1 to_TO stand_VVI with_IW the_AT box_NN1 for_IF both_DB2 cases_NN2 ._. 
+</s>
+<s>
+However_RR ,_, since_CS the_AT center_NN1 of_IO mass_NN1 lied_VVD more_RRR toward_II the_AT toe_NN1 for_IF the_AT case_NN1 of_IO 30_MC kg_NNU box_NN1 ,_, it_PPH1 can_VM be_VBI said_VVN that_CST the_AT balance_NN1 of_IO standing_NN1 was_VBDZ less_RGR stable_JJ with_IW 30_MC kg_NNU box_NN1 (_( or_CC more_RGR stable_JJ with_IW 20_MC kg_NNU box_NN1 )_) ._. 
+</s>
+<s>
+Even_CS21 though_CS22 not_XX calculated_VVN in_II this_DD1 report_NN1 ,_, it_PPH1 is_VBZ possible_JJ that_CST ,_, with_IW flexing_VVG upper_JJ arm_NN1 and_CC extending_VVG lower_JJR arm_NN1 ,_, the_AT distance_NN1 from_II the_AT box_NN1 and_CC arms_NN2 to_II the_AT body_NN1 increases_VVZ so_CS21 that_CS22 the_AT center_NN1 of_IO mass_NN1 does_VDZ not_XX lie_VVI over_II the_AT foot_NN1 any_DD more_DAR ._. 
+</s>
+<s>
+This_DD1 is_VBZ more_RGR likely_JJ to_TO happen_VVI with_IW heavier_JJR box_NN1 ._. 
+</s>
+<s>
+From_II the_AT center_NN1 of_IO mass_NN1 in_II the_AT vertical_JJ axis_NN1 ,_, the_AT center_NN1 of_IO mass_NN1 was_VBDZ lower_JJR with_IW 30_MC kg_NNU box_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM imply_VVI that_DD1 ,_, in_CS21 case_CS22 when_CS the_AT individual_NN1 was_VBDZ trapped_VVN by_II a_AT1 low_JJ bump_NN1 ,_, it_PPH1 would_VM be_VBI more_RGR stable_JJ with_IW 30_MC kg_NNU box_NN1 (_( heavier_JJR box_NN1 )_) ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 can_56 not_56 be_VBI true_JJ that_CST the_AT heavier_JJR the_AT box_NN1 is_VBZ ,_, the_AT more_RGR stable_JJ from_II being_VBG trapped_VVN ,_, when_CS the_AT height_NN1 at_II which_DDQ the_AT box_NN1 is_VBZ held_VVN increases_VVZ more_DAR than_CSN or_CC to_II the_AT point_NN1 where_RRQ increasing_JJ box_NN1 mass_NN1 only_RR raises_VVZ the_AT vertical_JJ position_NN1 of_IO the_AT center_NN1 of_IO mass_NN1 ._. 
+</s>
+<s>
+Further_JJR analysis_NN1 about_II the_AT effect_NN1 of_IO the_AT horizontal_JJ force_NN1 component_NN1 such_II21 as_II22 leaning_VVG or_CC being_VBG supported_VVN would_VM be_VBI interesting_JJ ,_, because_CS those_DD2 horizontal_JJ force_NN1 components_NN2 would_VM sometimes_RT help_VVI reducing_VVG the_AT moments_NN2 at_II joints_NN2 ,_, and_CC other_JJ times_NNT2 increase_VV0 the_AT moments_NN2 at_II joints_NN2 ._. 
+</s>
+<s>
+Also_RR ,_, in_II this_DD1 report_NN1 ,_, analysis_NN1 was_VBDZ done_VDN in_II only_RR 2D_NNU scale_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, no_AT z-axis_NN1 component_NN1 was_VBDZ considered_VVN ._. 
+</s>
+<s>
+Based_VVN on_II the_AT analysis_NN1 done_VDN in_II this_DD1 2D_NNU scale_NN1 ,_, it_PPH1 is_VBZ expected_VVN that_CST ,_, the_AT greater_JJR the_AT width_NN1 of_IO the_AT body_NN1 (_( length_NN1 in_II z-axis_NN1 )_) ,_, the_AT greater_JJR the_AT moments_NN2 at_II joints_NN2 ,_, as_CSA the_AT greater_JJR the_AT deviation_NN1 from_II the_AT body_NN1 ,_, the_AT greater_JJR the_AT moments_NN2 at_II joints_NN2 ._. 
+</s>

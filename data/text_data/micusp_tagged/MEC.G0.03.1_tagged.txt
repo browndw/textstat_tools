@@ -1,0 +1,255 @@
+<s>
+We_PPIS2 have_VH0 been_VBN tasked_VVN to_TO design_VVI the_AT manufacturing_NN1 system_NN1 for_IF the_AT assembly_NN1 of_IO a_AT1 simple_JJ car_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ projected_VVN that_CST the_AT manufacturer_NN1 will_VM need_VVI to_TO produce_VVI at_RR21 least_RR22 50,000_MC units_NN2 per_II year_NNT1 during_II the_AT first_MD years_NNT2 of_IO operation_NN1 ._. 
+</s>
+<s>
+One_MC1 case_NN1 is_VBZ considered_VVN for_IF 100%_NNU reliability_NN1 ,_, while_CS another_DD1 for_IF 95%_NNU machine_NN1 reliability_NN1 ._. 
+</s>
+<s>
+The_AT manufacturer_NN1 wants_VVZ to_TO anticipate_VVI changes_NN2 in_II demand_NN1 which_DDQ may_VM quickly_RR rise_VVI to_II 75,000_MC units_NN2 per_II year_NNT1 ._. 
+</s>
+<s>
+The_AT manufacturer_NN1 wants_VVZ to_TO know_VVI what_DDQ system_NN1 setup_NN1 will_VM meet_VVI the_AT manufacturing_NN1 goal_NN1 under_RG three_MC discreet_JJ conditions_NN2 ,_, shown_VVN in_II Table_NN1 1_MC1 ,_, below_RL ._. 
+</s>
+<s>
+Additionally_RR ,_, we_PPIS2 have_VH0 been_VBN informed_VVN of_IO the_AT following_JJ conditions_NN2 regarding_II financial_JJ and_CC physical_JJ details_NN2 of_IO the_AT manufacturing_NN1 system_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT given_JJ task_NN1 information_NN1 as_CSA described_VVN in_II Section_NN1 2_MC ,_, several_DA2 assumptions_NN2 were_VBDR made_VVN to_TO facilitate_VVI the_AT construction_NN1 of_IO a_AT1 liaison_NN1 diagram_NN1 ._. 
+</s>
+<s>
+The_AT assumptions_NN2 made_VVN are_VBR listed_VVN below_RL ._. 
+</s>
+<s>
+1_MC1 ._. 
+</s>
+<s>
+Shifts_NN2 can_VM be_VBI 6_MC to_II 8*_FO hrs/day_FU ,_, 5_MC days/week_FU ,_, 49_MC to_II 51*_FO weeks/year_FU 2_MC ._. 
+</s>
+<s>
+Inspections_NN2 done_VDN in_II a_AT1 different_JJ ,_, quiet_JJ and_CC clean_JJ zone_NN1 3_MC ._. 
+</s>
+<s>
+Task_NN1 time_NNT1 includes_VVZ all_DB mounting_VVG and_CC un-mounting_VVG during_II installation_NN1 of_IO components_NN2 4_MC ._. 
+</s>
+<s>
+Each_DD1 task_NN1 needs_VVZ 1_MC1 machine_NN1 5_MC ._. 
+</s>
+<s>
+Each_DD1 station_NN1 used_VVN has_VHZ 95%_NNU efficiency_NN1 (_( Design_VV0 #2_NNU and_CC Design_NN1 #3_NNU )_) 6_MC ._. 
+</s>
+<s>
+Failure_NN1 of_IO one_MC1 machine_NN1 does_VDZ not_XX cause_VVI the_AT failure_NN1 of_IO another_DD1 machine_NN1 7_MC ._. 
+</s>
+<s>
+Any_DD operator_NN1 can_VM work_VVI on_II any_DD station_NN1 ,_, and_CC operators_NN2 will_VM complete_VVI a_AT1 scheduled_JJ rotation_NN1 for_IF all_DB stations_NN2 8_MC ._. 
+</s>
+<s>
+Workers_NN2 will_VM not_XX be_VBI absent_JJ for_IF sick_JJ days_NNT2 or_CC vacations_NN2 9_MC ._. 
+</s>
+<s>
+There_EX is_VBZ uninterrupted_JJ flow_NN1 of_IO sub-components_NN2 and_CC parts_NN2 10_MC ._. 
+</s>
+<s>
+The_AT engine_NN1 comes_VVZ with_IW its_APPGE own_DA sub-wiring_JJ harness_NN1 11_MC ._. 
+</s>
+<s>
+The_AT ECU_NN comes_VVZ with_IW the_AT wiring_NN1 harness_NN1 as_CSA it_PPH1 is_VBZ installed_VVN 12_MC ._. 
+</s>
+<s>
+The_AT vehicle_NN1 body_NN1 is_VBZ present_JJ at_II each_DD1 station_NN1 of_IO the_AT assembly_NN1 The_AT assumptions_NN2 relating_VVG to_TO cost_VVI and_CC profit_NN1 calculations_NN2 are_VBR discussed_VVN in_II the_AT Designs_NN2 section_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO design_VVI the_AT manufacturing_NN1 system_NN1 for_IF this_DD1 application_NN1 ,_, the_AT assembly_NN1 tasks_NN2 have_VH0 been_VBN analyzed_VVN and_CC simple_JJ heuristics_NN2 were_VBDR used_VVN to_TO create_VVI a_AT1 precedence_NN1 graph_NN1 and_CC a_AT1 production_NN1 line_NN1 scheme_NN1 ._. 
+</s>
+<s>
+Task_NN1 information_NN1 ,_, task_NN1 times_NNT2 and_CC number_NN1 of_IO operators_NN2 were_VBDR taken_VVN into_II account_NN1 ,_, as_II31 well_II32 as_II33 the_AT components_NN2 needed_VVN to_TO complete_VVI a_AT1 task_NN1 and_CC the_AT predecessor_NN1 tasks_NN2 for_IF each_DD1 task_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 task_NN1 information_NN1 ,_, a_AT1 precedence_NN1 graph_NN1 was_VBDZ drawn_VVN ,_, as_CSA shown_VVN in_II Figure_NN1 2_MC ,_, below_RL ._. 
+</s>
+<s>
+A_AT1 production_NN1 line_NN1 schematic_JJ was_VBDZ generated_VVN for_IF each_DD1 design_NN1 and_CC is_VBZ shown_VVN in_II Figures_NN2 3_MC and_CC 4_MC ,_, below_RL ._. 
+</s>
+<s>
+These_DD2 were_VBDR drawn_VVN in_II accordance_NN1 to_TO space_VVI requirements_NN2 listed_VVN by_II the_AT manufacturer_NN1 ._. 
+</s>
+<s>
+The_AT space_NN1 occupied_VVN for_IF Design_NN1 1_MC1 is_VBZ 972_MC m2_FO ,_, while_CS Designs_NN2 2_MC and_CC 3_MC occupy_VV0 1215_MC m2_FO ._. 
+</s>
+<s>
+The_AT approach_NN1 used_VMK to_TO create_VVI the_AT production_NN1 line_NN1 schemes_NN2 is_VBZ detailed_VVN in_II section_NN1 5.1_MC ._. 
+</s>
+<s>
+This_DD1 section_NN1 outlines_NN2 the_AT approach_NN1 ,_, implementation_NN1 and_CC outcome_NN1 of_IO the_AT three_MC demand_NN1 and_CC reliability_NN1 scenarios_NN2 discussed_VVN in_II Section_NN1 1_MC1 ._. 
+</s>
+<s>
+To_TO obtain_VVI a_AT1 possible_JJ task_NN1 group_NN1 according_II21 to_II22 takt_NN1 time_NNT1 ,_, Ranked_VVN Positional_JJ Weight_NN1 (_( RPW_NP1 )_) heuristics_NN2 were_VBDR performed_VVN for_IF the_AT manufacturing_NN1 process_NN1 design_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO RPW_NP1 can_VM be_VBI seen_VVN in_II Table_NN1 4_MC ,_, below_RL ._. 
+</s>
+<s>
+When_CS assembly_NN1 order_NN1 was_VBDZ determined_VVN ,_, we_PPIS2 considered_VVD the_AT difference_NN1 in_II number_NN1 of_IO operators_NN2 for_IF each_DD1 task_NN1 along_II21 with_II22 task_NN1 precedence_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, task_NN1 5.2_MC requires_VVZ 4_MC operators_NN2 and_CC must_VM be_VBI done_VDN after_II task_NN1 5.1_MC ._. 
+</s>
+<s>
+So_RR the_AT four_MC operators_NN2 of_IO task_NN1 5.2_MC can_VM perform_VVI two_MC other_JJ two-operator_JJ tasks_NN2 in_II parallel_NN1 ,_, after_CS task_NN1 5.1_MC is_VBZ completed_VVN ._. 
+</s>
+<s>
+With_IW more_DAR operators_NN2 ,_, it_PPH1 was_VBDZ possible_JJ to_TO do_VDI tasks_NN2 in_II parallel_NN1 at_II the_AT same_DA station_NN1 ._. 
+</s>
+<s>
+These_DD2 are_VBR indicated_VVN by_II tasks_NN2 that_CST are_VBR grouped_VVN in_II parentheses_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, it_PPH1 was_VBDZ possible_JJ to_TO use_VVI 7_MC assembly_NN1 stations_NN2 ,_, with_IW only_RR one_MC1 instance_NN1 of_IO significant_JJ idle_JJ time_NNT1 in_II station_NN1 5_MC ._. 
+</s>
+<s>
+Using_VVG PAMS_NP2 software_NN1 version_NN1 4.2_MC to_TO verify_VVI and_CC improve_VVI our_APPGE assembly_NN1 process_NN1 ,_, we_PPIS2 determined_VVD that_CST we_PPIS2 should_VM incorporate_VVI two_MC buffers_NN2 into_II Designs_NN2 2_MC and_CC 3_MC ,_, between_II stations_NN2 3_MC and_CC 4_MC ,_, and_CC 4_MC and_CC 5_MC ._. 
+</s>
+<s>
+The_AT size_NN1 of_IO each_DD1 buffer_NN1 should_VM only_RR be_VBI 1_MC1 car_NN1 ,_, and_CC the_AT implementation_NN1 of_IO buffers_NN2 would_VM result_VVI in_II a_AT1 higher_JJR system_NN1 reliability_NN1 and_CC throughput_NN1 ._. 
+</s>
+<s>
+The_AT PAMS_NP2 approach_NN1 is_VBZ further_RRR discussed_VVN in_II Appendix_NN1 A._NP1 With_IW the_AT decreased_JJ machine_NN1 reliability_NN1 of_IO Designs_NN2 2_MC and_CC 3_MC ,_, it_PPH1 is_VBZ essential_JJ to_TO decrease_VVI the_AT number_NN1 of_IO stations_NN2 and_CC maximize_VVI the_AT system_NN1 reliability_NN1 ._. 
+</s>
+<s>
+Using_VVG seven_MC stations_NN2 in_II series_NN ,_, the_AT overall_JJ reliability_NN1 is_VBZ 0.957_MC or_CC 69.8%_FO ._. 
+</s>
+<s>
+To_TO counteract_VVI the_AT impact_NN1 of_IO significantly_RR decreased_VVN production_NN1 ,_, three_MC labor_NN1 hour_NNT1 modifications_NN2 were_VBDR made_VVN :_: (_( 1_MC1 )_) a_AT1 shift_NN1 was_VBDZ added_VVN ,_, (_( 2_MC )_) the_AT length_NN1 of_IO the_AT work_NN1 day_NNT1 was_VBDZ reduced_VVN and_CC (_( 3_MC )_) the_AT number_NN1 of_IO weeks_NNT2 of_IO operation_NN1 per_II year_NNT1 was_VBDZ decreased_VVN ._. 
+</s>
+<s>
+This_DD1 will_VM allow_VVI the_AT manufacturer_NN1 to_TO produce_VVI more_DAR than_CSN 50,000_MC units_NN2 per_II year_NNT1 and_CC fulfill_VV0 the_AT requirements_NN2 of_IO Design_NN1 2_MC ,_, without_IW implementing_VVG a_AT1 second_MD assembly_NN1 line_NN1 and_CC without_IW changing_VVG the_AT task_NN1 assignment_NN1 order_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO reach_VVI the_AT production_NN1 goal_NN1 of_IO 75,000_MC units_NN2 for_IF Design_NN1 3_MC ,_, a_AT1 third_MD shift_NN1 can_VM be_VBI added_VVN and_CC will_VM work_VVI with_IW the_AT same_DA reliability_NN1 of_IO Design_NN1 2_MC ._. 
+</s>
+<s>
+The_AT production_NN1 outcome_NN1 and_CC labor_NN1 hours_NNT2 of_IO each_DD1 design_NN1 can_VM be_VBI seen_VVN in_II Table_NN1 5_MC ,_, below_RL ._. 
+</s>
+<s>
+The_AT costs_NN2 of_IO production_NN1 for_IF each_DD1 of_IO the_AT proposed_JJ designs_NN2 can_VM be_VBI seen_VVN in_II Table_NN1 6_MC ,_, below_RL ._. 
+</s>
+<s>
+Each_DD1 design_NN1 requires_VVZ 7_MC stations_NN2 to_TO be_VBI constructed_VVN ,_, while_CS designs_NN2 2_MC and_CC 3_MC require_VV0 two_MC buffers_NN2 to_TO be_VBI added_VVN ._. 
+</s>
+<s>
+The_AT labor_NN1 costs_NN2 are_VBR determined_VVN from_II the_AT number_NN1 of_IO hours_NNT2 in_II production_NN1 as_II31 well_II32 as_II33 the_AT number_NN1 of_IO operators_NN2 on_II each_DD1 station_NN1 ._. 
+</s>
+<s>
+To_TO implement_VVI designs_NN2 2_MC and_CC 3_MC ,_, no_AT machine_NN1 reconfiguration_NN1 is_VBZ required_VVN ,_, since_CS the_AT layout_NN1 is_VBZ very_RG similar_JJ with_IW the_AT difference_NN1 being_VBG the_AT addition_NN1 of_IO two_MC buffers_NN2 ._. 
+</s>
+<s>
+For_IF the_AT first_MD year_NNT1 of_IO production_NN1 ,_, scenarios_NN2 1_MC1 and_CC 2_MC will_VM incur_VVI losses_NN2 financially_RR ._. 
+</s>
+<s>
+After_II 5_MC years_NNT2 the_AT profit_NN1 should_VM start_VVI to_TO exceed_VVI the_AT initial_JJ investment_NN1 cost_NN1 ._. 
+</s>
+<s>
+Design_NN1 3_MC will_VM be_VBI profitable_JJ from_II the_AT first_MD year_NNT1 ._. 
+</s>
+<s>
+A_AT1 profit_NN1 analysis_NN1 can_VM be_VBI seen_VVN in_II Table_NN1 7_MC ,_, below_RL ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO calculate_VVI the_AT profit_NN1 margin_NN1 after_CS both_RR 1_MC1 and_CC 5_MC years_NNT2 ,_, we_PPIS2 assumed_VVD the_AT following_JJ :_: We_PPIS2 were_VBDR asked_VVN to_TO create_VVI a_AT1 process_NN1 design_NN1 for_IF the_AT assembly_NN1 of_IO a_AT1 car_NN1 that_CST composed_VVD of_IO 23_MC different_JJ tasks_NN2 ._. 
+</s>
+<s>
+Through_II the_AT implementation_NN1 of_IO doing_VDG tasks_NN2 in_II parallel_NN1 at_II the_AT same_DA station_NN1 ,_, we_PPIS2 were_VBDR able_JK to_TO reduce_VVI the_AT total_JJ number_NN1 of_IO stations_NN2 to_II 7_MC ._. 
+</s>
+<s>
+Minimizing_VVG the_AT number_NN1 of_IO stations_NN2 for_IF assembly_NN1 had_VHD a_AT1 significant_JJ impact_NN1 on_II system_NN1 reliability_NN1 ,_, given_VVN the_AT reduced_JJ machine_NN1 reliability_NN1 of_IO 95%_NNU for_IF scenarios_NN2 2_MC and_CC 3_MC ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO meet_VVI the_AT 50,000_MC unit_NN1 demand_NN1 per_II year_NNT1 for_IF scenario_NN1 1_MC1 ,_, Design_NN1 1_MC1 can_VM be_VBI implemented_VVN ._. 
+</s>
+<s>
+This_DD1 entails_VVZ operating_VVG the_AT plant_NN1 for_IF 51_MC weeks_NNT2 per_II year_NNT1 ,_, with_IW a_AT1 single_JJ ,_, 8_MC hour_NNT1 daily_RR shift_VV0 ,_, using_VVG the_AT production_NN1 line_NN1 scheme_NN1 shown_VVN in_II Figure_NN1 3_MC ,_, on_II page_NN1 9_MC ._. 
+</s>
+<s>
+To_TO meet_VVI the_AT demand_NN1 of_IO scenarios_NN2 2_MC and_CC 3_MC with_IW their_APPGE respective_JJ machine_NN1 reliability_NN1 of_IO 95%_NNU ,_, we_PPIS2 altered_VVD the_AT labor_NN1 hours_NNT2 while_CS keeping_VVG the_AT same_DA task_NN1 assignment_NN1 order_NN1 ._. 
+</s>
+<s>
+Specifically_RR ,_, Design_NN1 2_MC uses_VVZ two_MC 6_MC hour_NNT1 daily_RR shifts_VVZ for_IF 49_MC weeks_NNT2 per_II year_NNT1 ,_, under_II the_AT production_NN1 scheme_NN1 shown_VVN in_II Figure_NN1 4_MC ,_, on_II page_NN1 9_MC ._. 
+</s>
+<s>
+Lastly_RR ,_, Design_NN1 3_MC uses_VVZ three_MC 6_MC hour_NNT1 daily_RR shifts_VVZ for_IF 49_MC weeks_NNT2 per_II year_NNT1 ,_, under_II the_AT same_DA production_NN1 scheme_NN1 ._. 
+</s>
+<s>
+Applying_VVG value_NN1 stream_NN1 mapping_NN1 enables_VVZ us_PPIO2 to_TO generate_VVI a_AT1 Future_JJ State_NN1 Map_NN1 of_IO the_AT manufacturing_NN1 process_NN1 ,_, as_CSA seen_VVN in_II Figure_NN1 5_MC ,_, below_RL ._. 
+</s>
+<s>
+The_AT following_JJ explains_VVZ the_AT lean_JJ manufacturing_NN1 principles_NN2 that_CST are_VBR implemented_VVN ._. 
+</s>
+<s>
+Utilizing_VVG a_AT1 supermarket_NN1 after_II the_AT stamping_JJ process_NN1 ,_, we_PPIS2 will_VM be_VBI able_JK to_TO set_VVI a_AT1 "_" pull_NN1 "_" system_NN1 through_II the_AT manufacturing_NN1 line_NN1 ._. 
+</s>
+<s>
+1_MC1 piece_NN1 flow_NN1 and_CC first-in-first-out_MD part_NN1 flow_NN1 are_VBR implemented_VVN between_II stations_NN2 ,_, increasing_VVG the_AT system_NN1 's_GE predictability_NN1 and_CC reduces_VVZ inventory_NN1 ._. 
+</s>
+<s>
+The_AT customer_NN1 also_RR sends_VVZ 30_MC ,_, 60_MC and_CC 90_MC day_NNT1 forecasts_NN2 ,_, as_II31 well_II32 as_II33 daily_JJ orders_NN2 to_II the_AT production_NN1 control_NN1 ,_, which_DDQ in_II turn_NN1 sends_VVZ the_AT aforementioned_JJ information_NN1 to_II the_AT steel_NN1 plant_NN1 ._. 
+</s>
+<s>
+This_DD1 enables_VVZ just-in-time_JJ manufacturing_NN1 which_DDQ greatly_RR reduces_VVZ inventory_NN1 ._. 
+</s>
+<s>
+After_CS each_DD1 batch_NN1 of_IO orders_NN2 produced_VVN ,_, the_AT supermarket_NN1 will_VM also_RR send_VVI a_AT1 production_NN1 Kanban_NN1 to_II the_AT production_NN1 control_NN1 to_TO have_VHI constant_JJ update_NN1 of_IO production_NN1 information_NN1 ._. 
+</s>
+<s>
+We_PPIS2 used_VVD PAMS_NP2 to_TO help_VVI verify_VVI that_CST our_APPGE system_NN1 designs_NN2 would_VM function_VVI as_CSA we_PPIS2 thought_VVD they_PPHS2 would_VM in_II our_APPGE initial_JJ calculations_NN2 ._. 
+</s>
+<s>
+We_PPIS2 initially_RR created_VVD a_AT1 7_MC station_NN1 system_NN1 using_VVG PAMS_NP2 as_CSA shown_VVN below_RL ,_, in_II Figure_NN1 6_MC ._. 
+</s>
+<s>
+We_PPIS2 gave_VVD each_DD1 station_NN1 the_AT processing_NN1 time_NNT1 shown_VVN in_II Table_NN1 4_MC ,_, on_II page_NN1 10_MC ._. 
+</s>
+<s>
+For_IF Design_NN1 1_MC1 with_IW 100%_NNU efficiency_NN1 ,_, we_PPIS2 achieved_VVD our_APPGE expected_JJ throughput_NN1 as_CSA shown_VVN in_II Table_NN1 8_MC ,_, on_II page_NN1 15_MC ._. 
+</s>
+<s>
+For_IF Designs_NN2 2_MC and_CC 3_MC ,_, we_PPIS2 assumed_VVD each_DD1 station_NN1 would_VM break_VVI down_RP twice_RR per_II shift_NN1 ._. 
+</s>
+<s>
+In_II an_AT1 attempt_NN1 to_TO give_VVI each_DD1 station_NN1 a_AT1 95%_NNU reliability_NN1 ,_, we_PPIS2 gave_VVD each_DD1 station_NN1 a_AT1 MTBF_NP1 of_IO 180_MC minutes_NNT2 and_CC a_AT1 MTTR_NP1 of_IO 9.5_MC minutes_NNT2 ._. 
+</s>
+<s>
+This_DD1 yields_VVZ approximately_RR 95%_NNU reliability_NN1 since_CS Reliability_NN1 =_FO MTBF_NP1 /_FO (_( MTBF_NP1 +_FO MTTR_NP1 )_) ._. 
+</s>
+<s>
+However_RR ,_, in_II the_AT PAMS_NP2 simulation_NN1 we_PPIS2 were_VBDR only_RR achieving_VVG a_AT1 breakdown_NN1 rate_NN1 of_IO about_RG 4%_NNU ,_, yielding_VVG a_AT1 96%_NNU reliability_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO increase_VVI the_AT breakdown_NN1 rate_NN1 to_II 5%_NNU ,_, we_PPIS2 increased_VVD the_AT MTTR_NP1 incrementally_RR until_CS we_PPIS2 achieved_VVD a_AT1 5%_NNU breakdown_NN1 rate_NN1 in_II the_AT PAMS_NP2 simulation_NN1 ._. 
+</s>
+<s>
+However_RR ,_, once_CS this_DD1 goal_NN1 was_VBDZ accomplished_VVN ,_, we_PPIS2 found_VVD that_CST our_APPGE throughput_NN1 was_VBDZ below_II the_AT target_NN1 throughput_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO improve_VVI our_APPGE throughput_NN1 ,_, we_PPIS2 decided_VVD to_TO add_VVI buffers_NN2 ._. 
+</s>
+<s>
+To_TO determine_VVI the_AT best_RRT place_VV0 to_TO add_VVI buffers_NN2 ,_, we_PPIS2 ran_VVD a_AT1 PAMS_NP2 simulation_NN1 which_DDQ improved_JJ throughput_NN1 given_VVN a_AT1 buffer_NN1 size_NN1 of_IO 5_MC ._. 
+</s>
+<s>
+It_PPH1 focused_VVD the_AT buffer_NN1 size_NN1 at_II Buf3_FO and_CC Buf4_FO as_CSA shown_VVN in_II Figure_NN1 6_MC ,_, above_RL ._. 
+</s>
+<s>
+Using_VVG the_AT PAMS_NP2 output_NN1 regarding_II the_AT best_JJT placement_NN1 and_CC size_NN1 of_IO buffers_NN2 ,_, we_PPIS2 added_VVD one_MC1 unit_NN1 to_II Buf3_FO and_CC Buf4_FO and_CC left_VVD the_AT other_JJ buffers_NN2 at_II 0_MC ._. 
+</s>
+<s>
+By_II doing_VDG this_DD1 ,_, our_APPGE target_NN1 demand_NN1 per_II year_NNT1 was_VBDZ met_VVN ._. 
+</s>
+<s>
+The_AT average_JJ work_NN1 in_II progress_NN1 (_( WIP_NP1 )_) can_VM be_VBI seen_VVN in_II Figure_NN1 7_MC below_RL ._. 
+</s>
+<s>
+Throughput_NN1 for_IF each_DD1 design_NN1 can_VM be_VBI seen_VVN in_II Table_NN1 8_MC ,_, below_RL ._. 
+</s>

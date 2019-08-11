@@ -1,0 +1,252 @@
+<s>
+Imagen_NN1 Healthcare_NN1 is_VBZ a_AT1 MRI_JJ scanners_NN2 manufacturer_NN1 and_CC they_PPHS2 want_VV0 to_TO design_VVI an_AT1 inventory_NN1 sharing_VVG plan_NN1 for_IF their_APPGE RF_NP1 amplifier_NN1 to_TO minimize_VVI the_AT shipping_NN1 cost_NN1 due_II21 to_II22 emergency_NN1 orders_NN2 among_II its_APPGE 20_MC dealers_NN2 ._. 
+</s>
+<s>
+So_RR we_PPIS2 are_VBR hired_VVN to_II advice_NN1 on_II pool_NN1 configuration_NN1 and_CC contact_NN1 sequence_NN1 rules_NN2 ._. 
+</s>
+<s>
+To_TO approach_VVI this_DD1 problem_NN1 ,_, we_PPIS2 designed_VVD several_DA2 pool_NN1 configurations_NN2 and_CC contact_NN1 sequencing_NN1 rules_NN2 and_CC employed_VVD a_AT1 stochastic_JJ model_NN1 to_TO evaluate_VVI total_JJ shipping_NN1 costs_VVZ under_II these_DD2 different_JJ plans_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR used_VVD a_AT1 LP_NN1 model_NN1 to_TO further_RRR test_VVI the_AT shipping_NN1 costs_VVZ under_RG two_MC pool_NN1 configuration_NN1 methods_NN2 ._. 
+</s>
+<s>
+Then_RT ,_, we_PPIS2 compared_VVD the_AT above_JJ shipping_NN1 cost_NN1 estimates_VVZ with_IW the_AT shipping_NN1 cost_NN1 under_II no-sharing_JJ plan_NN1 and_CC made_VVD the_AT final_JJ recommendations_NN2 to_II Imagen_NP1 Healthcare_NN1 on_II the_AT inventory_NN1 sharing_VVG plan_NN1 ._. 
+</s>
+<s>
+All_DB technical_JJ details_NN2 and_CC processes_NN2 are_VBR listed_VVN in_II Appendix_NN1 ._. 
+</s>
+<s>
+These_DD2 following_VVG assumptions_NN2 are_VBR shared_VVN by_II the_AT two_MC models_NN2 introduced_VVN in_II section_NN1 4._MC 1_MC1 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT information_NN1 from_II Imagen_NP1 's_GE supply_NN1 chain_NN1 planner_NN1 ,_, we_PPIS2 assume_VV0 that_CST Imagen_NP1 uses_VVZ a_AT1 periodic_JJ review_NN1 with_IW lead_NN1 time_NNT1 model_NN1 for_IF its_APPGE inventory_NN1 control_NN1 ._. 
+</s>
+<s>
+In_II the_AT beginning_NN1 of_IO the_AT 1st_MD week_NNT1 ,_, Imagen_NP1 has_VHZ enough_DD inventory_NN1 for_IF the_AT demand_NN1 of_IO the_AT 1st_MD week_NNT1 and_CC place_VV0 an_AT1 order_NN1 to_TO meet_VVI the_AT 90%_NNU service_NN1 level_NN1 for_IF the_AT 2nd_MD week_NNT1 ,_, i.e._REX Imagen_NP1 place_VV0 an_AT1 order_NN1 for_IF demand_NN1 over_II the_AT following_JJ week_NNT1 at_II beginning_NN1 of_IO each_DD1 week_NNT1 to_TO meet_VVI service_NN1 rate_NN1 ._. 
+</s>
+<s>
+We_PPIS2 calculate_VV0 expected_JJ shortage_NN1 and_CC excess_NN1 under_II this_DD1 assumption_NN1 ._. 
+</s>
+<s>
+2_MC ._. 
+</s>
+<s>
+Since_CS there_EX is_VBZ no_AT apparent_JJ seasonality_NN1 in_II the_AT demand_NN1 data_NN ,_, we_PPIS2 assume_VV0 demand_NN1 for_IF each_DD1 week_NNT1 is_VBZ normally_RR distributed_VVN ._. 
+</s>
+<s>
+For_IF proof_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.1_MC ._. 
+</s>
+<s>
+Parameters_NN2 used_VVN in_II this_DD1 report_NN1 are_VBR as_CSA follows_VVZ :_: For_IF calculation_NN1 process_NN1 of_IO Q_ZZ1 and_CC ,_, for_IF each_DD1 dealer_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.2._MC 1_MC1 ._. 
+</s>
+<s>
+Each_DD1 dealer_NN1 will_VM only_RR order_VVI from_II a_AT1 single_JJ dealer_NN1 within_II its_APPGE pool_NN1 that_CST has_VHZ more_DAR than_CSN it_PPH1 needs_VVZ (_( Expectation_NN1 of_IO shortage_NN1 )_) for_IF emergency_NN1 order_NN1 ._. 
+</s>
+<s>
+If_CS no_PN121 one_PN122 in_II its_APPGE pool_NN1 has_VHZ enough_DD inventory_NN1 (_( Expectation_NN1 of_IO excess_NN1 )_) ,_, it_PPH1 will_VM order_VVI from_II DC_NP1 ._. 
+</s>
+<s>
+In_II the_AT original_JJ problem_NN1 ,_, there_EX is_VBZ no_AT fixed_JJ cost_NN1 associated_VVN with_IW placing_VVG an_AT1 emergency_NN1 order_NN1 ._. 
+</s>
+<s>
+However_RR in_II a_AT1 practical_JJ setting_NN1 ,_, placing_VVG an_AT1 emergency_NN1 order_NN1 from_II another_DD1 dealer_NN1 or_CC DC_NP1 will_VM incur_VVI fixed_JJ costs_NN2 besides_II regular_JJ shipping_NN1 cost_NN1 such_II21 as_II22 over_II time_NNT1 costs_NN2 ,_, processing_VVG costs_NN2 at_II both_DB2 ends_NN2 and_CC express_VV0 shipping_VVG cost_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT more_DAR order_NN1 you_PPY place_VV0 ,_, the_AT higher_JJR fixed_JJ costs_NN2 will_VM be_VBI ._. 
+</s>
+<s>
+Additionally_RR ,_, multiple_JJ emergency_NN1 orders_NN2 from_II different_JJ dealers_NN2 may_VM arrive_VVI at_II different_JJ times_NNT2 so_CS21 that_CS22 there_EX may_VM be_VBI short_JJ term_NN1 shortage_NN1 despite_II the_AT total_JJ amount_NN1 equals_NN2 what_DDQ is_VBZ needed_VVN ._. 
+</s>
+<s>
+We_PPIS2 make_VV0 this_DD1 assumption_NN1 based_VVN these_DD2 two_MC considerations_NN2 ._. 
+</s>
+<s>
+2_MC ._. 
+</s>
+<s>
+If_CS group_NN1 each_DD1 dealer_NN1 with_IW those_DD2 closer_JJR than_CSN its_APPGE average_JJ distance_NN1 from_II the_AT other_JJ 19_MC dealers_NN2 ,_, we_PPIS2 could_VM significantly_RR optimize_VVI the_AT average_JJ distance_NN1 for_IF each_DD1 dealer_NN1 from_II its_APPGE pool_NN1 members_NN2 compared_VVN to_II other_JJ pool_NN1 configurations_NN2 ._. 
+</s>
+<s>
+The_AT heuristic_JJ proof_NN1 is_VBZ in_II Appendix_NN1 6.3._MC 3_MC ._. 
+</s>
+<s>
+When_CS grouping_NN1 dealers_NN2 ,_, first_MD consider_VV0 those_DD2 dealers_NN2 with_IW large_JJ average_JJ distance_NN1 from_II others_NN2 since_II controlling_VVG the_AT average_JJ distance_NN1 within_II their_APPGE pools_NN2 will_VM be_VBI the_AT key_JJ to_TO reduce_VVI total_JJ average_JJ distance_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI referred_VVN from_II the_AT 80:20_MC rule_NN1 ._. 
+</s>
+<s>
+4_MC ._. 
+</s>
+<s>
+When_CS calculating_VVG shipping_NN1 cost_NN1 ,_, we_PPIS2 assume_VV0 each_DD1 dealer_NN1 will_VM have_VHI A_AT1 units_NN2 of_IO shortage_NN1 for_IF each_DD1 period_NN1 where_RRQ A_ZZ1 is_VBZ expected_JJ shortage_NN1 as_CSA recipient_NN1 and_CC B_ZZ1 units_NN2 of_IO excess_JJ as_CSA donor_NN1 ._. 
+</s>
+<s>
+We_PPIS2 make_VV0 this_DD1 assumption_NN1 due_II21 to_II22 the_AT fact_NN1 that_CST demand_VV0 ,_, shortage_NN1 and_CC excess_NN1 are_VBR all_DB random_JJ variable_NN1 while_CS expectation_NN1 accurately_RR captures_VVZ their_APPGE average_JJ value_NN1 over_II all_DB periods_NN2 ._. 
+</s>
+<s>
+Distance_NN1 Based_VVN Pool_NN1 Configuration_NN1 (_( DB_NP1 )_) :_: Since_CS in_II this_DD1 problem_NN1 ,_, minimizing_VVG shipping_NN1 costs_NN2 is_VBZ the_AT sole_JJ objective_NN1 ,_, it_PPH1 is_VBZ natural_JJ to_II group_NN1 dealers_NN2 which_DDQ are_VBR close_JJ to_II each_PPX221 other_PPX222 to_TO achieve_VVI optimal_JJ pool_NN1 configuration_NN1 ._. 
+</s>
+<s>
+But_CCB due_II21 to_II22 the_AT fact_NN1 that_CST each_DD1 dealer_NN1 serves_VVZ as_RG potential_JJ sink_NN1 and_CC source_NN1 ,_, only_RR picking_VVG the_AT shortest_JJT path_NN1 within_II all_DB the_AT pairs_NN2 of_IO dealer_NN1 will_VM not_XX necessarily_RR minimize_VVI the_AT total_JJ shipping_NN1 costs_NN2 ._. 
+</s>
+<s>
+So_RR according_VVG to_II Assumption_NN1 2_MC ,_, we_PPIS2 design_VV0 a_AT1 heuristic_JJ method_NN1 to_TO find_VVI out_RP the_AT sub-optimal_JJ pool_NN1 configuration_NN1 ._. 
+</s>
+<s>
+First_MD of_IO all_DB we_PPIS2 found_VVD 5_MC of_IO all_DB 20_MC dealers_NN2 (_( Atlanta_NP1 ,_, Houston_NP1 ,_, Jacksonville_NP1 ,_, Kansas_NP1 City_NN1 and_CC Louisville_NP1 respectively_RR )_) were_VBDR significantly_RR closer_JJR to_II DC_NP1 than_CSN the_AT rest_NN1 of_IO the_AT dealers_NN2 ._. 
+</s>
+<s>
+For_IF proof_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.4_MC ._. 
+</s>
+<s>
+Therefore_RR ,_, we_PPIS2 do_VD0 not_XX group_VVI them_PPHO2 with_IW any_DD other_JJ dealers_NN2 but_CCB DC_NP1 due_II21 to_II22 the_AT fact_NN1 that_CST DC_NP1 has_VHZ unlimited_JJ stock_NN1 and_CC there_EX is_VBZ no_AT penalty_NN1 for_IF ordering_VVG from_II DC_NP1 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 found_VVD there_EX are_VBR 5_MC dealers_NN2 (_( Los_NP1 Angeles_NP1 ,_, Phoenix_NP1 ,_, Seattle_NP1 ,_, San_NP1 Francisco_NP1 and_CC Salt_NP1 Lake_NP1 City_NN1 respectively_RR )_) which_DDQ were_VBDR very_RG far_RR from_II the_AT rest_NN1 15_MC dealers_NN2 and_CC DC_NP1 ._. 
+</s>
+<s>
+Nevertheless_RR ,_, they_PPHS2 are_VBR closer_JJR to_II each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+For_IF proof_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.4_MC ._. 
+</s>
+<s>
+So_RR it_PPH1 is_VBZ essential_JJ to_TO group_VVI them_PPHO2 together_RL since_II placing_VVG them_PPHO2 with_IW other_JJ dealers_NN2 will_VM increase_VVI average_JJ distance_NN1 within_II that_DD1 pool_NN1 sharply_RR according_II21 to_II22 Assumption_NN1 3_MC ._. 
+</s>
+<s>
+From_II Assumption_NN1 3_MC again_RT we_PPIS2 group_VV0 the_AT rest_NN1 10_MC dealers_NN2 according_II21 to_II22 the_AT fact_NN1 that_CST Denver_NP1 and_CC Miami_NP1 are_VBR very_RG far_RR from_II each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+After_II separating_VVG them_PPHO2 into_II two_MC pools_NN2 ,_, we_PPIS2 match_VV0 the_AT rest_NN1 8_MC dealers_NN2 by_II their_APPGE closeness_NN1 to_II Denver_NP1 and_CC Miami_NP1 ._. 
+</s>
+<s>
+For_IF detail_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.4_MC ._. 
+</s>
+<s>
+In_II the_AT end_NN1 ,_, the_AT pools_NN2 are_VBR as_CSA follows_VVZ :_: Atlanta_NP1 ,_, Houston_NP1 ,_, Wichita_NP1 ,_, Kansas_NP1 City_NN1 and_CC Louisville_NP1 do_VD0 not_XX pool_NN1 with_IW other_JJ dealers_NN2 ,_, i.e._REX they_PPHS2 only_RR order_VV0 from_II DC_NP1 ;_; Los_NP1 Angeles_NP1 ,_, Phoenix_NP1 ,_, Seattle_NP1 ,_, San_NP1 Francisco_NP1 and_CC Salt_NP1 Lake_NP1 City_NN1 form_VV0 the_AT second_MD pool_NN1 and_CC Buffalo_NP1 ,_, Charlotte_NP1 ,_, New_NP1 York_NP1 ,_, Miami_NP1 and_CC Philadelphia_NP1 form_VV0 the_AT third_MD pool_NN1 and_CC Denver_NP1 ,_, Des_NP1 Moines_NP2 ,_, Wichita_NP1 ,_, Minneapolis_NP1 and_CC Chicago_NP1 the_AT fourth_MD pool_NN1 ._. 
+</s>
+<s>
+The_AT total_JJ pool_NN1 configuration_NN1 can_VM be_VBI understood_VVN from_II the_AT table_NN1 below_RG -- Pool_NN1 Configuration_NN1 Considering_CS Both_RR Distance_NN1 and_CC Expectation_NN1 of_IO Excess_NN1 (_( DEE_FU )_) :_: To_TO take_VVI into_II account_NN1 the_AT fact_NN1 that_CST when_CS one_MC1 dealer_NN1 A_ZZ1 place_VV0 emergency_NN1 order_NN1 from_II another_DD1 dealer_NN1 B_ZZ1 ,_, it_PPH1 increases_VVZ B_ZZ221 's_ZZ222 risk_VV0 of_IO having_VHG stockout_NN1 ,_, we_PPIS2 consider_VV0 another_DD1 pool_NN1 Configuration_NN1 based_VVN on_II both_RR distance_NN1 and_CC expectation_NN1 of_IO excess_NN1 ._. 
+</s>
+<s>
+The_AT basic_JJ idea_NN1 is_VBZ to_II group_NN1 dealers_NN2 with_IW large_JJ excess_NN1 with_IW dealers_NN2 with_IW relatively_RR small_JJ ones_NN2 to_TO achieve_VVI risk_NN1 pooling_VVG ._. 
+</s>
+<s>
+For_IF detail_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.5_MC ._. 
+</s>
+<s>
+In_II the_AT end_NN1 ,_, the_AT pools_NN2 are_VBR as_CSA follows_VVZ :_: Closest_RRT First_MD Rule_NN1 (_( CFR_NP1 )_) :_: Under_II this_DD1 rule_NN1 ,_, when_CS one_MC1 dealer_NN1 is_VBZ having_VHG shortage_NN1 ,_, it_PPH1 will_VM turn_VVI to_II the_AT closet_NN1 pool_NN1 member_NN1 first_MD to_TO check_VVI if_CSW it_PPH1 has_VHZ enough_RR excess_JJ inventory_NN1 ._. 
+</s>
+<s>
+If_CS it_PPH1 does_VDZ not_XX ,_, that_DD1 dealer_NN1 will_VM look_VVI into_II the_AT next_MD closest_JJT member_NN1 until_CS it_PPH1 finds_VVZ that_CST the_AT next_MD dealer_NN1 is_VBZ farther_JJR than_CSN DC_NP1 or_CC it_PPH1 exhausts_VVZ all_DB members_NN2 ._. 
+</s>
+<s>
+Then_RT it_PPH1 will_VM order_VVI directly_RR from_II DC_NP1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 please_VV0 refer_VV0 to_II Appendix_NN1 6.6_MC ._. 
+</s>
+<s>
+Highest_JJT Excess_NN1 First_MD Rule_NN1 (_( HEF_NP1 )_) :_: Under_II this_DD1 rule_NN1 ,_, when_CS one_MC1 dealer_NN1 is_VBZ having_VHG shortage_NN1 ,_, it_PPH1 will_VM turn_VVI to_II the_AT pool_NN1 member_NN1 with_IW the_AT highest_JJT excess_JJ inventory_NN1 first_MD to_TO check_VVI if_CSW it_PPH1 has_VHZ enough_RR to_TO cover_VVI needs_NN2 ._. 
+</s>
+<s>
+If_CS it_PPH1 does_VDZ not_XX ,_, that_DD1 dealer_NN1 will_VM look_VVI into_II the_AT member_NN1 with_IW the_AT next_MD highest_JJT excess_JJ inventory_NN1 until_CS it_PPH1 finds_VVZ that_CST the_AT next_MD dealer_NN1 is_VBZ farther_JJR than_CSN DC_NP1 or_CC it_PPH1 exhausts_VVZ all_DB members_NN2 ._. 
+</s>
+<s>
+Then_RT it_PPH1 will_VM order_VVI directly_RR from_II DC_NP1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 please_VV0 refer_VV0 to_II Appendix_NN1 6.6_MC ._. 
+</s>
+<s>
+According_II21 to_II22 Assumption_NN1 4_MC ,_, we_PPIS2 calculate_VV0 all_DB annual_JJ shipping_NN1 costs_VVZ under_RG four_MC plans_NN2 ._. 
+</s>
+<s>
+For_IF individual_JJ cost_NN1 and_CC calculation_NN1 example_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.2_MC ._. 
+</s>
+<s>
+From_II results_NN2 in_II 4.1.2_MC ,_, we_PPIS2 clearly_RR see_VV0 that_CST DB_NP1 and_CC CFR_NP1 plan_NN1 is_VBZ much_RR more_RGR superior_JJ to_II the_AT other_JJ 3_MC alternatives_NN2 ._. 
+</s>
+<s>
+This_DD1 result_NN1 can_VM be_VBI seen_VVN intuitively_RR from_II the_AT problem_NN1 setting_NN1 ._. 
+</s>
+<s>
+From_II the_AT statistical_JJ analysis_NN1 table_NN1 in_II Appendix_NN1 6.2_MC ,_, we_PPIS2 can_VM see_VVI that_CST the_AT expected_JJ shortage_NN1 in_II each_DD1 week_NNT1 is_VBZ much_RR lower_JJR than_CSN expected_JJ excess_NN1 which_DDQ is_VBZ a_AT1 result_NN1 of_IO 90%_NNU percent_NNU service_NN1 rate_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT benefits_NN2 gained_VVN from_II ordering_VVG from_II member_NN1 with_IW highest_JJT excess_NN1 is_VBZ insignificant_JJ compared_VVN to_II the_AT benefits_NN2 ordering_VVG from_II closest_JJT member_NN1 in_II31 terms_II32 of_II33 minimizing_VVG total_JJ shipping_NN1 costs_NN2 ._. 
+</s>
+<s>
+For_IF proof_NN1 please_RR refer_VV0 to_II Appendix_NN1 6.2_MC ._. 
+</s>
+<s>
+The_AT same_DA logic_NN1 applies_VVZ when_CS considering_VVG whether_CSW to_TO pool_NN1 dealers_NN2 solely_RR based_VVN on_II average_JJ distance_NN1 ._. 
+</s>
+<s>
+If_CS the_AT risk_NN1 of_IO shortage_NN1 is_VBZ greater_JJR for_IF each_DD1 dealer_NN1 ,_, there_EX may_VM be_VBI stronger_JJR incentives_NN2 for_IF the_AT company_NN1 to_TO order_VVI from_II dealers_NN2 with_IW higher_JJR excess_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II our_APPGE extensive_JJ research_NN1 on_II various_JJ transshipment_NN1 problems_NN2 ,_, we_PPIS2 noticed_VVD that_CST most_DAT technical_JJ papers_NN2 have_VH0 used_VVN Linear_JJ programming_NN1 for_IF their_APPGE cost_NN1 optimization_NN1 model_NN1 in_II this_DD1 kind_NN1 of_IO environment_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, this_DD1 problem_NN1 can_VM also_RR be_VBI easily_RR formulated_VVN into_II a_AT1 linear_JJ programming_NN1 model_NN1 ._. 
+</s>
+<s>
+A_AT1 sample_NN1 objective_NN1 function_NN1 and_CC its_APPGE corresponding_JJ constraints_NN2 have_VH0 been_VBN included_VVN in_II the_AT appendix_NN1 for_IF instructor_NN1 's_GE reference_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO solve_VVI this_DD1 linear_JJ programming_NN1 model_NN1 for_IF our_APPGE different_JJ configuration_NN1 pools_NN2 (_( including_II nosharing_VVG plan_NN1 policy_NN1 )_) we_PPIS2 used_VVD a_AT1 trial_NN1 version_NN1 of_IO a_AT1 software_NN1 called_VVN LINGO_NN1 ._. 
+</s>
+<s>
+LINGO_NP1 is_VBZ a_AT1 comprehensive_JJ tool_NN1 designed_VVN to_TO make_VVI building_NN1 and_CC solving_VVG linear_JJ ,_, nonlinear_JJ and_CC integer_NN1 optimization_NN1 models_NN2 faster_RRR ,_, easier_RRR and_CC more_RGR efficient_JJ ._. 
+</s>
+<s>
+A_AT1 sample_NN1 program_NN1 code_NN1 written_VVN for_IF this_DD1 model_NN1 is_VBZ also_RR included_VVN in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 pooled_VVN the_AT dealers_NN2 based_VVN upon_II their_APPGE distance_NN1 and_CC that_CST at_RR21 least_RR22 one_MC1 (_( but_CCB not_XX all_RR )_) of_IO the_AT dealers_NN2 in_II each_DD1 pool_NN1 should_VM have_VHI a_AT1 large_JJ excess_NN1 (_( large_JJ inventory_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS if_CS we_PPIS2 group_VV0 the_AT dealers_NN2 such_CS21 that_CS22 every_AT1 dealer_NN1 is_VBZ short_JJ of_IO supply_NN1 ,_, then_RT they_PPHS2 wo_FU n't_XX be_VBI able_JK to_TO fulfill_VVI the_AT other_JJ dealers_58 '_97 demands_NN2 ._. 
+</s>
+<s>
+Likewise_RR ,_, if_CS every_AT1 dealer_NN1 has_VHZ significant_JJ large_JJ excess_NN1 ,_, they_PPHS2 do_VD0 n't_XX need_VVI to_TO order_VVI from_II each_PPX221 other_PPX222 and_CC this_DD1 excess_JJ amount_NN1 is_VBZ wasted_VVN ._. 
+</s>
+<s>
+So_RR first_MD we_PPIS2 formed_VVD the_AT groups_NN2 based_VVN on_II distance_NN1 and_CC then_RT made_VVD sure_JJ that_CST each_DD1 group_NN1 has_VHZ at_RR21 least_RR22 one_MC1 dealer_NN1 with_IW a_AT1 large_JJ excess_NN1 ._. 
+</s>
+<s>
+For_IF grouping_VVG the_AT dealers_NN2 according_II21 to_II22 the_AT distance_NN1 ,_, we_PPIS2 looked_VVD into_II the_AT distance_NN1 matrix_NN1 and_CC noticed_VVD that_CST there_EX are_VBR some_DD cities_NN2 that_CST are_VBR closer_JJR to_II each_PPX221 other_PPX222 than_CSN to_II the_AT other_JJ cities_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 dealers_NN2 in_II cities_NN2 like_II Buffalo_NP1 ,_, Philadelphia_NP1 and_CC New_NP1 York_NP1 are_VBR closer_JJR to_II each_PPX221 other_PPX222 than_CSN to_II Houston_NP1 ,_, Atlanta_NP1 ,_, etc_RA ._. 
+</s>
+<s>
+This_DD1 pool_NN1 consists_VVZ of_IO two_MC subpool_NN1 configurations_NN2 ._. 
+</s>
+<s>
+In_II one_MC1 subpool_NN1 we_PPIS2 have_VH0 grouped_VVN all_DB the_AT dealers_NN2 together_RL in_II one_MC1 big_JJ pool_NN1 in_II such_DA a_AT1 way_NN1 that_CST larger_JJR dealers_NN2 (_( larger_JJR excess_NN1 )_) will_VM be_VBI supplying_VVG to_II smaller_JJR ones_NN2 (_( less_RGR excess_JJ )_) ._. 
+</s>
+<s>
+In_II the_AT other_JJ subpool_NN1 ,_, we_PPIS2 've_VH0 grouped_VVN all_DB the_AT large_JJ excess_JJ dealers_NN2 that_CST were_VBDR suppliers_NN2 in_II the_AT above_JJ pool_NN1 as_CSA sinks_NN2 and_CC MDC_MC as_II the_AT only_JJ source_NN1 or_CC provider_NN1 ._. 
+</s>
+<s>
+Meaning_VVG that_CST they_PPHS2 will_VM only_RR be_VBI ordering_VVG from_II Memphis_NP1 ._. 
+</s>
+<s>
+Comparison_NN1 of_IO costs_NN2 obtained_VVN from_II above_JJ pool_NN1 config_NN1 ._. 
+</s>
+<s>
+With_IW No_AT shared_JJ plan_NN1 From_II the_AT numerical_JJ results_NN2 above_RL ,_, we_PPIS2 know_VV0 that_CST under_II the_AT demands_NN2 pattern_NN1 of_IO Imagen_NP1 ,_, it_PPH1 will_VM be_VBI better_JJR to_TO divide_VVI the_AT dealers_NN2 solely_RR based_VVN on_II their_APPGE distances_NN2 with_IW each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT expectation_NN1 of_IO shortage_NN1 is_VBZ relatively_RR small_JJ so_CS that_DD1 ordering_NN1 from_II another_DD1 dealer_NN1 will_VM not_XX increase_VVI its_APPGE risk_NN1 of_IO stock_NN1 out_RP significantly_RR ._. 
+</s>
+<s>
+The_AT same_DA logic_NN1 applies_VVZ when_CS deciding_VVG the_AT contact_NN1 sequencing_NN1 rules_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, our_APPGE recommended_JJ pool_NN1 configuration_NN1 and_CC contact_NN1 sequence_NN1 rules_NN2 are_VBR as_CSA follows_VVZ :_: The_AT projected_JJ cost_NN1 saving_VVG under_II this_DD1 inventory_NN1 sharing_VVG plan_NN1 will_VM be_VBI almost_RR 70%_NNU of_IO the_AT current_JJ total_JJ shipping_NN1 cost_NN1 associated_VVN with_IW emergency_NN1 orders_NN2 ._. 
+</s>

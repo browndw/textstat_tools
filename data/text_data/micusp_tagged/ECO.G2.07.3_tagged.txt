@@ -1,0 +1,108 @@
+<s>
+Lipscomb_VV0 and_CC Mubarak_NP1 's_GE paper_NN1 "_" Decentralization_NN1 and_CC Water_NN1 Pollution_NN1 Spillovers_VVZ :_: Evidence_NN1 from_II the_AT Re-drawing_NN1 of_IO County_NN1 Boundaries_NN2 in_II Brazil_NP1 "_" has_VHZ a_AT1 two_MC main_JJ objectives_NN2 ._. 
+</s>
+<s>
+The_AT authors_NN2 want_VV0 to_TO estimate_VVI the_AT net_JJ effect_NN1 of_IO decentralization_NN1 on_II water_NN1 quality_NN1 ,_, a_AT1 policy_NN1 relevant_JJ parameter_NN1 ,_, and_CC to_TO test_VVI their_APPGE model_NN1 of_IO strategic_JJ pollution_NN1 ._. 
+</s>
+<s>
+Their_APPGE proposed_JJ model_NN1 of_IO pollution_NN1 predicts_VVZ that_CST local_JJ governments_NN2 will_VM strategically_RR enforce_VVI pollution_NN1 regulations_NN2 in_II a_AT1 manner_NN1 to_TO simultaneously_RR maximize_VVI the_AT quality_NN1 of_IO water_NN1 for_IF their_APPGE citizens_NN2 while_CS allowing_VVG pollution_NN1 close_RR to_II the_AT downstream_JJ border_NN1 of_IO the_AT county_NN1 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, the_AT water_NN1 will_VM have_VHI higher_JJR levels_NN2 of_IO pollution_NN1 the_AT closer_JJR you_PPY measure_VV0 to_II the_AT exit_NN1 point_NN1 of_IO the_AT river_NN1 from_II the_AT county_NN1 in_II question_NN1 (_( it_PPH1 affects_VVZ people_NN living_VVG within_II that_DD1 county_NN1 less_RRR )_) ._. 
+</s>
+<s>
+According_II21 to_II22 such_DA a_AT1 model_NN1 ,_, it_PPH1 is_VBZ not_XX immediately_RR clear_VV0 what_DDQ the_AT net_JJ effect_NN1 of_IO decentralization_NN1 will_VM be_VBI on_II overall_JJ water_NN1 quality_NN1 because_II21 of_II22 the_AT potential_JJ magnification_NN1 of_IO the_AT externalities_NN2 of_IO pollution_NN1 ._. 
+</s>
+<s>
+More_RGR local_JJ control_NN1 could_VM imply_VVI a_AT1 less_RGR socially_RR optimal_JJ outcome_NN1 ._. 
+</s>
+<s>
+Another_DD1 closely_RR related_JJ question_NN1 is_VBZ whether_CSW budgetary_JJ changes_NN2 affect_VV0 spending_VVG to_TO offset_VVI the_AT potential_JJ externalities_NN2 from_II pollution_NN1 --_NN1 which_DDQ is_VBZ especially_RR relevant_JJ in_II this_DD1 case_NN1 because_II21 of_II22 the_AT specific_JJ features_NN2 of_IO the_AT decentralization_NN1 in_II Brazil_NP1 ._. 
+</s>
+<s>
+The_AT measurement_NN1 of_IO spillovers_NN2 effects_NN2 can_VM be_VBI quite_RG complicated_JJ and_CC the_AT data_NN used_VVN by_II Lipscomb_NP1 and_CC Mubarak_NP1 provide_VV0 a_AT1 good_JJ base_NN1 for_IF addressing_VVG their_APPGE questions_NN2 ._. 
+</s>
+<s>
+The_AT authors_NN2 use_VV0 a_AT1 panel_NN1 dataset_NN1 of_IO over_RG 10,000_MC water_NN1 quality_NN1 measures_NN2 from_II 372_MC monitoring_NN1 stations_NN2 across_II Brazil_NP1 that_CST are_VBR combined_VVN with_IW evolving_VVG county_NN1 maps_NN2 using_VVG GIS_NN2 ._. 
+</s>
+<s>
+The_AT measure_NN1 of_IO water_NN1 quality_NN1 used_VVN is_VBZ Biochemical_JJ Oxygen_NN1 Demand_NN1 (_( BOD_NP1 )_) ;_; a_AT1 measure_NN1 of_IO pollutants_NN2 that_CST is_VBZ said_VVN to_TO be_VBI relatively_RR easy_JJ to_TO measure_VVI that_DD1 is_VBZ frequently_RR used_VVN to_TO judge_VVI water_NN1 quality_NN1 ._. 
+</s>
+<s>
+BOD_VV0 naturally_RR leaves_VVZ water_NN1 at_II an_AT1 exponential_NN1 rate_NN1 and_CC the_AT authors_NN2 take_VV0 this_DD1 fact_NN1 into_II account_NN1 ._. 
+</s>
+<s>
+The_AT key_JJ variables_NN2 used_VVN in_II the_AT model_NN1 are_VBR the_AT change_NN1 in_II BOD_NP1 between_II the_AT downstream_JJ and_CC upstream_JJ monitoring_NN1 stations_NN2 ,_, the_AT distance_NN1 of_IO the_AT monitoring_NN1 stations_NN2 from_II the_AT relevant_JJ county_NN1 boundaries_NN2 ,_, and_CC the_AT number_NN1 of_IO counties_NN2 the_AT river_NN1 flows_VVZ through_RP between_II monitoring_VVG stations_NN2 ._. 
+</s>
+<s>
+Population_NN1 density_NN1 as_CSA it_PPH1 may_VM relate_VVI to_II decentralization_NN1 ,_, and_CC hence_RR to_II water_NN1 quality_NN1 is_VBZ the_AT major_JJ source_NN1 of_IO endogeneity_NN1 that_CST Lipscomb_NP1 and_CC Mubarak_NP1 deal_NN1 with_IW ._. 
+</s>
+<s>
+In_II order_NN1 to_TO empirically_RR test_VVI whether_CSW31 or_CSW32 not_CSW33 this_DD1 type_NN1 of_IO endogeneity_NN1 exists_VVZ in_II the_AT data_NN ,_, the_AT authors_NN2 use_VV0 a_AT1 model_NN1 of_IO non-uniform_JJ population_NN1 and_CC find_VV0 that_CST the_AT data_NN are_VBR consistent_JJ with_IW the_AT supposed_JJ endogeneity_NN1 ._. 
+</s>
+<s>
+I_PPIS1 find_VV0 their_APPGE test_NN1 to_TO be_VBI convincing_JJ ._. 
+</s>
+<s>
+For_IF identification_NN1 the_AT authors_NN2 used_VVD the_AT three_MC variables_NN2 mentioned_VVD earlier_RRR and_CC some_DD others_NN2 to_TO control_VVI for_IF the_AT correlation_NN1 between_II the_AT number_NN1 of_IO boundaries_NN2 crossed_VVN in_RL21 between_RL22 upstream/downstream_JJ stations_NN2 ,_, the_AT distance_NN1 to_II stations_NN2 from_II borders_NN2 and_CC average_JJ county_NN1 size_NN1 etc_RA ._. 
+</s>
+<s>
+The_AT local_JJ geography_NN1 of_IO the_AT area_NN1 may_VM also_RR bias_VVI the_AT results_NN2 by_II since_CS the_AT rate_NN1 at_II which_DDQ BOD_VV0 naturally_RR leaves_VVZ the_AT water_NN1 (_( e.g._REX it_PPH1 dissipates_VVZ faster_RRR if_CS the_AT water_NN1 is_VBZ moving_VVG rapidly_RR )_) ._. 
+</s>
+<s>
+Changes_NN2 to_II the_AT county_NN1 lines_NN2 provide_VV0 variation_NN1 for_IF both_DB2 the_AT number_NN1 of_IO crossing_NN1 and_CC the_AT distance_NN1 from_II the_AT stations_NN2 to_II the_AT boundaries_NN2 ._. 
+</s>
+<s>
+For_IF this_DD1 source_NN1 of_IO variation_NN1 to_TO be_VBI appropriate_JJ ,_, the_AT authors_NN2 must_VM assume_VVI that_CST the_AT county_NN1 boundaries_NN2 are_VBR redrawn_VVN in_II a_AT1 way_NN1 that_CST is_VBZ not_XX related_VVN to_II the_AT changes_NN2 in_II pollution_NN1 (_( except_II21 for_II22 population_NN1 of_RR21 course_RR22 )_) ._. 
+</s>
+<s>
+Since_CS the_AT authors_NN2 control_VV0 for_IF area_NN1 size_NN1 ,_, population_NN1 ,_, distance_NN1 ,_, station_NN1 pair_NN fixed_JJ effects_NN2 and_CC other_JJ local_JJ area_NN1 characteristics_NN2 I_PPIS1 am_VBM unable_JK to_TO come_VVI up_RP with_IW any_DD concrete_JJ reason_NN1 why_RRQ their_APPGE identification_NN1 should_VM not_XX be_VBI valid_JJ ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, looking_VVG at_II similar_JJ data_NN in_II other_JJ countries_NN2 might_VM shed_VVI light_NN1 on_II this_DD1 issue_NN1 ._. 
+</s>
+<s>
+The_AT authors_58 '_97 interpretations_NN2 of_IO the_AT parameters_NN2 are_VBR clear_JJ and_CC they_PPHS2 do_VD0 find_VVI that_CST their_APPGE model_NN1 of_IO strategic_JJ enforcement_NN1 of_IO pollution_NN1 regulation_NN1 fits_VVZ the_AT data_NN ._. 
+</s>
+<s>
+Of_RR21 course_RR22 strategic_JJ enforcement_NN1 is_VBZ n't_XX necessarily_RR the_AT reason_NN1 for_IF the_AT differences_NN2 within_II counties_NN2 ,_, since_CS it_PPH1 is_VBZ possible_JJ that_CST there_EX is_VBZ some_DD other_JJ reason_NN1 why_RRQ there_EX is_VBZ more_DAR pollution_NN1 closer_RRR to_II the_AT exit_NN1 of_IO the_AT river_NN1 from_II the_AT county_NN1 ._. 
+</s>
+<s>
+However_RR ,_, I_PPIS1 think_VV0 that_CST strategic_JJ enforcement_NN1 is_VBZ the_AT most_RGT plausible_JJ explanation_NN1 (_( especially_RR since_CS county_NN1 boundaries_NN2 change_VV0 over_RP the_AT course_NN1 of_IO the_AT sample_NN1 )_) ._. 
+</s>
+<s>
+The_AT authors_NN2 do_VD0 not_XX find_VVI a_AT1 net_JJ effect_NN1 on_II total_JJ pollution_NN1 from_II decentralization_NN1 that_CST is_VBZ statistically_RR different_JJ from_II zero_MC ._. 
+</s>
+<s>
+It_PPH1 seems_VVZ that_CST the_AT budgetary_JJ effects_NN2 balance_VV0 the_AT pollution_NN1 near_II county_NN1 borders_NN2 effects_NN2 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 is_VBZ a_AT1 very_RG thoughtful_JJ attempt_NN1 at_II measuring_VVG the_AT parameters_NN2 related_VVN to_II policy_NN1 and_CC to_II the_AT economic_JJ questions_NN2 raised_VVN by_II the_AT authors_NN2 ._. 
+</s>
+<s>
+However_RR ,_, because_II21 of_II22 the_AT highly_RR unique_JJ situations_NN2 that_CST gave_VVD rise_NN1 to_II their_APPGE data_NN it_PPH1 is_VBZ doubtful_JJ that_CST the_AT results_NN2 could_VM be_VBI applied_VVN more_RGR widely_RR ._. 
+</s>
+<s>
+The_AT money_NN1 given_VVN to_II the_AT counties_NN2 upon_II decentralization_NN1 and_CC the_AT other_JJ issues_NN2 already_RR discussed_VVN are_VBR the_AT main_JJ reasons_NN2 that_CST these_DD2 results_NN2 are_VBR probably_RR not_XX generally_RR valid_JJ ._. 
+</s>
+<s>
+However_RR ,_, the_AT authors_NN2 do_VD0 not_XX make_VVI a_AT1 claim_NN1 for_IF greater_JJR applicability_NN1 of_IO their_APPGE results_NN2 ,_, only_RR that_CST evaluations_NN2 of_IO decentralization_NN1 policies_NN2 should_VM try_VVI to_TO account_VVI for_IF externalities_NN2 that_CST might_VM not_XX be_VBI best_RRT controlled_VVN at_II the_AT local_JJ level_NN1 (_( i.e._REX cases_NN2 where_CS it_PPH1 is_VBZ might_VM be_VBI harder_JJR to_TO reach_VVI a_AT1 social_JJ optimum_JJ )_) ._. 
+</s>
+<s>
+An_AT1 interesting_JJ direction_NN1 of_IO influence_NN1 that_CST was_VBDZ n't_XX really_RR discussed_VVN is_VBZ features_NN2 other_II21 than_II22 characteristics_NN2 like_II population_NN1 and_CC size_NN1 that_CST might_VM be_VBI used_VVN to_TO draw_VVI the_AT boundaries_NN2 of_IO the_AT various_JJ counties_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ conceivable_JJ to_II me_PPIO1 that_CST whoever_PNQV owns_VVZ the_AT monitoring_NN1 stations_NN2 might_VM have_VHI interests_NN2 in_II being_VBG in_II a_AT1 particular_JJ county_NN1 if_CS decentralization_NN1 is_VBZ a_AT1 possibility_NN1 for_IF the_AT general_JJ area_NN1 (_( family_NN1 ,_, schools_NN2 ,_, etc_RA ._. )_) ._. 
+</s>
+<s>
+Particular_JJ counties_NN2 might_VM also_RR want_VVI to_TO have_VHI monitoring_NN1 stations_NN2 ;_; if_CS ,_, for_REX21 example_REX22 ,_, they_PPHS2 are_VBR especially_RR concerned_JJ with_IW water_NN1 quality_NN1 ._. 
+</s>
+<s>
+While_CS I_PPIS1 am_VBM sympathetic_JJ to_II the_AT authors_58 '_97 argument_NN1 that_CST monitoring_VVG plants_NN2 are_VBR n't_XX being_VBG built_VVN in_II strategic_JJ locations_NN2 ,_, it_PPH1 is_VBZ possible_JJ that_CST there_EX are_VBR some_DD potential_JJ sources_NN2 of_IO endogeneity_NN1 that_CST would_VM be_VBI nearly_RR impossible_JJ to_TO test_VVI without_IW much_DA1 more_DAR detailed_JJ information_NN1 ._. 
+</s>
+<s>
+However_RR ,_, if_CS it_PPH1 were_VBDR the_AT counties_NN2 that_CST wanted_VVD facilities_NN2 to_TO measure_VVI water_NN1 quality_NN1 then_RT we_PPIS2 might_VM observe_VVI fewer_DAR stations_NN2 close_RR to_II the_AT downstream_JJ borders_NN2 of_IO counties_NN2 (_( why_RRQ bother_VVI as_CS31 far_CS32 as_CS33 the_AT county_NN1 is_VBZ concerned_JJ )_) ._. 
+</s>
+<s>
+As_CS31 long_CS32 as_CS33 these_DD2 instances_NN2 of_IO endogenous_JJ location_NN1 of_IO the_AT monitoring_NN1 stations_NN2 are_VBR rare_JJ or_CC do_VD0 not_XX vary_VVI systematically_RR with_IW water_NN1 quality_NN1 the_AT results_NN2 of_IO the_AT paper_NN1 should_VM not_XX be_VBI too_RG much_RR affected_VVN ._. 
+</s>

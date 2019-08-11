@@ -1,0 +1,453 @@
+<s>
+In_II the_AT average_JJ internal_JJ combustion_NN1 engine-driven_NN1 automobile_NN1 ,_, only_RR 25%_NNU of_IO the_AT energy_NN1 generated_VVN from_II combustion_NN1 can_VM be_VBI used_VVN by_II the_AT vehicle_NN1 for_IF mobility_NN1 and_CC accessories_NN2 ._. 
+</s>
+<s>
+The_AT rest_NN1 of_IO the_AT combustion_NN1 energy_NN1 is_VBZ wasted_VVN ,_, including_II 40%_NNU that_DD1 is_VBZ lost_VVN to_TO exhaust_VVI gas_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Various_JJ methods_NN2 have_VH0 been_VBN developed_VVN to_TO try_VVI to_TO recover_VVI some_DD of_IO this_DD1 lost_JJ energy_NN1 ,_, including_II turbogenerators_NN2 ,_, Rankine_NP1 Cycle_NN1 recovery_NN1 systems_NN2 ,_, thermochemical_JJ recuperation_NN1 ,_, and_CC thermoelectric_JJ generators_NN2 (_( TEGs_NP2 )_) (_( 2_MC )_) ._. 
+</s>
+<s>
+Additionally_RR ,_, some_DD hybrid_JJ cars_NN2 including_II the_AT Toyota_NP1 Prius_NP1 use_VV0 regenerative_JJ braking_NN1 to_TO recover_VVI some_DD of_IO the_AT kinetic_JJ energy_NN1 lost_VVN when_CS stopping_VVG the_AT vehicle_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+Thermoelectric_JJ generators_NN2 are_VBR attractive_JJ potential_JJ waste_NN1 heat_NN1 recovery_NN1 systems_NN2 because_CS they_PPHS2 are_VBR relatively_RR inexpensive_JJ ,_, have_VH0 no_AT moving_JJ parts_NN2 (_( and_CC thus_RR produce_VV0 no_AT noise_NN1 and_CC no_AT vibrations_NN2 )_) ,_, and_CC are_VBR highly_RR reliable_JJ (_( 4_MC )_) ._. 
+</s>
+<s>
+Previous_JJ studies_NN2 have_VH0 attempted_VVN to_TO develop_VVI TEG_NN1 systems_NN2 for_IF waste_NN1 energy_NN1 recovery_NN1 in_II light_JJ trucks_NN2 (_( 5_MC )_) (_( 6_MC )_) (_( 7_MC )_) ,_, but_CCB these_DD2 studies_NN2 have_VH0 not_XX considered_VVN lighter_JJR cars_NN2 with_IW hybrid_JJ engines_NN2 such_II21 as_II22 the_AT Prius_NP1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, previous_JJ researchers_NN2 have_VH0 not_XX specifically_RR taken_VVN into_II account_NN1 the_AT driving_JJ habits_NN2 of_IO university_NN1 students_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 study_NN1 ,_, we_PPIS2 investigated_VVD the_AT possibility_NN1 of_IO developing_VVG a_AT1 waste_NN1 heat_NN1 recovery_NN1 system_NN1 mounted_VVN on_II the_AT exhaust_NN1 system_NN1 of_IO the_AT Toyota_NP1 Prius_NP1 as_CSA driven_VVN by_II college_NN1 students_NN2 using_VVG TEGs_NN2 coupled_VVN with_IW heat_NN1 sinks_NN2 mounted_VVN on_II the_AT exhaust_NN1 system_NN1 of_IO the_AT vehicle_NN1 ._. 
+</s>
+<s>
+Specifically_RR our_APPGE goals_NN2 for_IF this_DD1 study_NN1 were_VBDR as_CSA follows_VVZ :_: All_DB variables_NN2 used_VVN throughout_II this_DD1 report_NN1 have_VH0 been_VBN defined_VVN in_II Table_NN1 1_MC1 ,_, below_RL ._. 
+</s>
+<s>
+We_PPIS2 considered_VVD the_AT effects_NN2 of_IO heat_NN1 sink_NN1 size_NN1 ,_, pin_NN1 shape_NN1 ,_, pin_NN1 height_NN1 ,_, and_CC pin_NN1 density_NN1 on_II the_AT voltage_NN1 output_NN1 of_IO a_AT1 thermoelectric_JJ generator_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO determine_VVI the_AT effects_NN2 of_IO these_DD2 factors_NN2 with_IW a_AT1 minimal_JJ number_NN1 of_IO experiments_NN2 ,_, we_PPIS2 used_VVD a_AT1 fractional_JJ factorial_JJ DOE_NN1 methodology_NN1 and_CC analyzed_VVD the_AT results_NN2 with_IW an_AT1 analysis_NN1 of_IO variance_NN1 (_( ANOVA_NP1 )_) ._. 
+</s>
+<s>
+We_PPIS2 then_RT predicted_VVD the_AT optimum_JJ heat_NN1 sink_NN1 configuration_NN1 for_IF our_APPGE application_NN1 based_VVN on_II the_AT ANOVA_NN1 and_CC design_NN1 considerations_NN2 ._. 
+</s>
+<s>
+This_DD1 configuration_NN1 was_VBDZ then_RT tested_VVN under_II various_JJ wind_NN1 speeds_NN2 and_CC temperatures_NN2 to_TO extrapolate_VVI the_AT TEG_NP1 's_GE performance_NN1 at_II typical_JJ driving_JJ conditions_NN2 as_CSA determined_VVN from_II a_AT1 survey_NN1 of_IO college_NN1 students_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT fractional_JJ factorial_JJ analysis_NN1 were_VBDR used_VVN to_TO determine_VVI the_AT significant_JJ factors_NN2 in_II TEG_NP1 voltage_NN1 output_NN1 using_VVG an_AT1 ANOVA_NN1 statistical_JJ analysis_NN1 ._. 
+</s>
+<s>
+The_AT ANOVA_NN1 and_CC power_NN1 data_NN from_II the_AT initial_JJ tests_NN2 were_VBDR used_VVN to_TO determine_VVI the_AT best_JJT heat_NN1 sink_NN1 geometry_NN1 ._. 
+</s>
+<s>
+A_AT1 fan_NN1 was_VBDZ placed_VVN to_TO flow_VVI across_II the_AT heat_NN1 sink_NN1 to_TO simulate_VVI the_AT air_NN1 flow_NN1 under_II a_AT1 moving_JJ car_NN1 ._. 
+</s>
+<s>
+The_AT fan_NN1 was_VBDZ approximately_RR 15cm_NNU from_II the_AT TEG_NN1 and_CC was_VBDZ placed_VVN at_II approximately_RR the_AT same_DA height_NN1 as_CSA the_AT base_NN1 of_IO the_AT heat_NN1 sink_NN1 ._. 
+</s>
+<s>
+The_AT fan_NN1 speed_NN1 was_VBDZ kept_VVN constant_JJ at_II 2.7_MC 0.5_MC m/s_ZZ1 for_IF the_AT initial_JJ set_NN1 of_IO tests_NN2 ._. 
+</s>
+<s>
+For_IF each_DD1 test_NN1 defined_VVN in_II the_AT DOE_NP1 table_NN1 ,_, we_PPIS2 placed_VVD the_AT corresponding_JJ heat_NN1 sink_NN1 on_II31 top_II32 of_II33 the_AT TEG_NN1 ,_, turned_VVD on_II the_AT hotplate_NN1 ,_, and_CC recorded_VVD the_AT temperatures_NN2 and_CC voltage_NN1 as_II the_AT hotplate_NN1 temperature_NN1 increased_VVN to_TO steady_VVI state_NN1 ._. 
+</s>
+<s>
+For_IF our_APPGE tests_NN2 the_AT steady_JJ state_NN1 temperature_NN1 was_VBDZ approximately_RR 19010C_FO ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 was_VBDZ difficult_JJ to_TO control_VVI due_II21 to_II22 high_JJ uncertainty_NN1 and_CC uneven_JJ temperature_NN1 distribution_NN1 produced_VVN by_II the_AT hotplate_NN1 ._. 
+</s>
+<s>
+The_AT thermoelectric_JJ figure_NN1 of_IO merit_NN1 ,_, ZT_NP1 ,_, under_II our_APPGE test_NN1 conditions_NN2 was_VBDZ found_VVN using_VVG the_AT following_JJ plots_NN2 illustrated_VVN in_II Fig._NN1 2_MC ,_, below_RL ._. 
+</s>
+<s>
+We_PPIS2 evaluated_VVD the_AT ZT_NP1 value_NN1 for_IF a_AT1 Bismuth_NP1 Telluride_NP1 (_( Bi2Te3_FO )_) material_NN1 ,_, taking_VVG the_AT average_NN1 of_IO the_AT pand_NN1 n-type_NN1 values_NN2 ,_, at_II a_AT1 temperature_NN1 equal_JJ to_II the_AT mean_JJ temperature_NN1 of_IO the_AT test_NN1 (_( 140C_FO )_) ._. 
+</s>
+<s>
+The_AT resulting_JJ ZT_NP1 value_NN1 was_VBDZ approximately_RR 0.7_MC for_IF this_DD1 case_NN1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT used_VVD the_AT mechanical_JJ efficiency_NN1 defined_VVN as_II the_AT ratio_NN1 of_IO the_AT electrical_JJ power_NN1 generated_VVN to_II the_AT thermal_JJ power_NN1 into_II the_AT device_NN1 ,_, given_VVN by_II Eqs._NP1 (_( 2_MC )_) and_CC (_( 3_MC )_) ._. 
+</s>
+<s>
+This_DD1 allowed_VVD us_PPIO2 to_TO determine_VVI the_AT constant_JJ K_ZZ1 for_IF the_AT TEG_NN1 ,_, which_DDQ we_PPIS2 assumed_VVD to_TO be_VBI independent_JJ of_IO temperature_NN1 ._. 
+</s>
+<s>
+In_II these_DD2 equations_NN2 ,_, the_AT constant_JJ K_ZZ1 (_( W/K_ZZ1 )_) represents_VVZ the_AT lumped_JJ thermal_JJ conductivity_NN1 of_IO the_AT TEGdevice_NP1 ,_, assuming_VVG it_PPH1 to_TO be_VBI a_AT1 semi-infinite_JJ slab_NN1 according_II21 to_II22 heat_NN1 transfer_NN1 analysis_NN1 ._. 
+</s>
+<s>
+This_DD1 constant_NN1 incorporates_VVZ the_AT thermal_JJ conductivity_NN1 ,_, k_ZZ1 ,_, cross-sectional_JJ area_NN1 ,_, A_ZZ1 ,_, and_CC height_NN1 ,_, L_ZZ1 ,_, of_IO the_AT TEG_NN1 ._. 
+</s>
+<s>
+The_AT Voltage_NN1 is_VBZ given_VVN by_II V_ZZ1 and_CC the_AT resistance_NN1 is_VBZ defined_VVN by_II R_ZZ1 ,_, assuming_VVG a_AT1 value_NN1 of_IO 4.0_MC Ohms_NNU2 according_II21 to_II22 manufacturer_NN1 specifications_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Since_CS a_AT1 gradient_NN1 of_IO temperature_NN1 exists_VVZ between_II the_AT base_NN1 of_IO the_AT heat_NN1 sink_NN1 ,_, TL_NP1 (_( where_CS we_PPIS2 measured_VVD )_) ,_, and_CC the_AT cold_JJ side_NN1 of_IO the_AT TEG_NN1 ,_, we_PPIS2 used_VVD the_AT thermal_JJ conductivity_NN1 of_IO the_AT TEG_NN1 to_TO predict_VVI the_AT actual_JJ value_NN1 by_II solving_VVG for_IF TC_NP1 using_VVG Eq_NN1 ._. 
+</s>
+<s>
+4_MC ,_, below_RL ,_, which_DDQ was_VBDZ determined_VVN by_II combining_VVG Eq_NN1 ._. 
+</s>
+<s>
+2_MC and_CC 3_MC :_: A_AT1 heat_NN1 transfer_NN1 analysis_NN1 using_VVG a_AT1 conservation_NN1 of_IO energy_NN1 approach_NN1 for_IF this_DD1 setup_NN1 resulted_VVN in_II Eq_NN1 ._. 
+</s>
+<s>
+5_MC below_RL ._. 
+</s>
+<s>
+In_II this_DD1 equation_NN1 ,_, the_AT heat_NN1 flux_NN1 QH_NP1 into_II the_AT system_NN1 is_VBZ balanced_VVN by_II the_AT convective_JJ heat_NN1 transfer_NN1 Q-convected_NN1 out_II21 of_II22 the_AT system_NN1 and_CC the_AT power_NN1 generated_VVN by_II the_AT device_NN1 ._. 
+</s>
+<s>
+Equation_NN1 6_MC ,_, below_RL ,_, defines_VVZ the_AT convective_JJ heat_NN1 transfer_NN1 ,_, where_CS hA_UH (_( W/K_ZZ1 )_) is_VBZ a_AT1 measure_NN1 of_IO the_AT convective_JJ heat_NN1 transfer_NN1 to_II the_AT ambient_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT results_NN2 of_IO the_AT optimal_JJ heat_NN1 sink_NN1 tests_NN2 ,_, we_PPIS2 determined_VVD a_AT1 relationship_NN1 between_II the_AT convective_JJ heat_NN1 transfer_NN1 coefficient_NN1 ,_, hA_UH and_CC the_AT air_NN1 velocity_NN1 ._. 
+</s>
+<s>
+We_PPIS2 used_VVD the_AT survey_NN1 results_NN2 to_TO estimate_VVI TH_NP1 at_II various_JJ points_NN2 in_II the_AT exhaust_NN1 system_NN1 (_( Fig._NN1 7_MC on_II page_NN1 10_MC )_) ._. 
+</s>
+<s>
+Combining_VVG equations_NN2 (_( 2_MC )_) (_( 6_MC )_) yielded_VVD Eq_NN1 ._. 
+</s>
+<s>
+(_( 7_MC )_) ,_, below_RL ._. 
+</s>
+<s>
+This_DD1 equation_NN1 was_VBDZ solved_VVN explicitly_RR in_II31 terms_II32 of_II33 TC_NP1 to_TO estimate_VVI the_AT cold_JJ side_NN1 temperature_NN1 of_IO the_AT TEG_NN1 for_IF the_AT estimated_JJ TH_NP1 ,_, taking_VVG into_II account_NN1 the_AT higher_JJR convective_JJ heat_NN1 transfer_NN1 with_IW a_AT1 moving_JJ automobile_NN1 ._. 
+</s>
+<s>
+We_PPIS2 estimated_VVD the_AT ambient_JJ temperature_NN1 as_CSA 10C_FO ,_, which_DDQ was_VBDZ determined_VVN to_TO be_VBI an_AT1 estimate_NN1 for_IF the_AT average_JJ yearly_JJ temperature_NN1 in_II Ann_NP1 Arbor_NP1 ,_, MI_NP1 (_( 9_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 used_VVD an_AT1 iterative_JJ process_NN1 to_TO estimate_VVI the_AT ZT_NP1 value_NN1 for_IF various_JJ TE_FW materials_NN2 optimized_VVN for_IF the_AT calculated_JJ mean_JJ temperature_NN1 and_CC find_VV0 Tc_NP1 ._. 
+</s>
+<s>
+This_DD1 Tc_NP1 value_NN1 is_VBZ then_RT used_VVN in_II Eq_NN1 ._. 
+</s>
+<s>
+4_MC to_TO determine_VVI the_AT output_NN1 power_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT TEG_NN1 material_NN1 we_PPIS2 tested_VVD can_56 not_56 withstand_VVI sustained_JJ temperatures_NN2 greater_JJR than_CSN 250C_FO (_( 1_MC1 )_) ,_, Fig._NN1 4_MC ,_, on_II page_NN1 8_MC ,_, was_VBDZ used_VVN to_TO estimate_VVI the_AT figure_NN1 of_IO merit_NN1 for_IF various_JJ TE_FW materials_NN2 ._. 
+</s>
+<s>
+where_CS FE_FO is_VBZ the_AT fuel_NN1 efficiency_NN1 increase_NN1 in_II mpg_NNU ,_, P_ZZ1 is_VBZ the_AT electrical_JJ power_NN1 generated_VVN in_II Watts_NP1 and_CC W_ZZ1 is_VBZ the_AT additional_JJ weight_NN1 of_IO the_AT system_NN1 in_II lbs_NNU2 ._. 
+</s>
+<s>
+Additionally_RR ,_, assuming_VVG a_AT1 gas_NN1 a_AT1 price_NN1 of_IO $3.20/gallon_NNU and_CC a_AT1 car_NN1 lifetime_NNT1 of_IO 150,000_MC miles_NNU2 ,_, the_AT amount_NN1 of_IO money_NN1 saved_VVN in_II fuel_NN1 consumption_NN1 over_II the_AT lifetime_NNT1 of_IO the_AT car_NN1 is_VBZ given_VVN in_II31 terms_II32 of_II33 P_ZZ1 ,_, W_ZZ1 ,_, and_CC the_AT original_JJ fuel_NN1 economy_NN1 FE0_FO by_II Eq_NN1 ._. 
+</s>
+<s>
+9_MC ._. 
+</s>
+<s>
+The_AT EPA_NP1 's_GE estimate_NN1 for_IF the_AT average_JJ fuel_NN1 economy_NN1 of_IO the_AT 2007_MC Toyota_NP1 Prius_NP1 is_VBZ 46_MC mpg_NNU (_( 11_MC )_) ._. 
+</s>
+<s>
+For_IF an_AT1 electrical_JJ generation_NN1 system_NN1 to_TO be_VBI practical_JJ to_TO implement_VVI ,_, it_PPH1 should_VM save_VVI the_AT consumer_NN1 more_DAR money_NN1 in_II gas_NN1 than_CSN it_PPH1 costs_VVZ in_II additional_JJ vehicle_NN1 price_NN1 ._. 
+</s>
+<s>
+Similarly_RR ,_, since_CS one_MC1 gallon_NNU1 of_IO gas_NN1 produces_VVZ 9_MC kg_NNU of_IO CO2_FO gas_NN1 in_II the_AT average_JJ car_NN1 (_( 12_MC )_) ,_, and_CC the_AT Prius_58 '_02 CO2_FO emissions_NN2 are_VBR about_RG half_DB of_IO that_DD1 (_( 13_MC )_) ,_, the_AT reduction_NN1 of_IO CO2_FO emissions_NN2 (_( in_II kg_NNU )_) over_II the_AT lifetime_NNT1 of_IO the_AT car_NN1 is_VBZ given_VVN by_II :_: We_PPIS2 used_VVD the_AT conducted_VVN survey_NN1 to_TO approximate_VVI the_AT exhaust_NN1 temperatures_NN2 of_IO the_AT Toyota_NP1 Prius_NP1 at_II various_JJ component_NN1 locations_NN2 under_II the_AT car_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT dimensions_NN2 of_IO the_AT exhaust_NN1 ,_, we_PPIS2 then_RT approximated_VVD the_AT useable_JJ area_NN1 for_IF TEG_NN1 implementation_NN1 ._. 
+</s>
+<s>
+Thorough_JJ analysis_NN1 of_IO the_AT tested_JJ heat_NN1 sinks_NN2 yielded_VVD an_AT1 optimal_JJ configuration_NN1 taking_VVG into_II account_NN1 power_NN1 ,_, cost_NN1 ,_, and_CC added_JJ weight_NN1 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+We_PPIS2 predicted_VVD the_AT thermal_JJ constants_NN2 associated_VVN with_IW the_AT TEG_NN1 and_CC optimal_JJ heat_NN1 sink_NN1 at_II design_NN1 temperatures_NN2 ._. 
+</s>
+<s>
+An_AT1 Estimation_NN1 of_IO the_AT performance_NN1 and_CC cost_NN1 of_IO the_AT proposed_JJ system_NN1 with_IW current_JJ technology_NN1 is_VBZ then_RT presented_VVN ._. 
+</s>
+<s>
+Table_NN1 3_MC on_II page_NN1 10_MC shows_VVZ that_CST the_AT average_JJ time_NNT1 per_II trip_NN1 is_VBZ about_RG 15_MC minutes_NNT2 and_CC the_AT average_JJ driving_JJ time_NNT1 per_II day_NNT1 is_VBZ about_RG 25_MC minutes_NNT2 ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT average_JJ time_NNT1 spent_VVN towing_VVG a_AT1 trailer_NN1 ,_, letting_VVG the_AT car_NN1 idle_VVI ,_, and_CC driving_VVG on_II dirt_NN1 or_CC poorly_RR paved_JJ roads_NN2 is_VBZ negligible_JJ for_IF the_AT purpose_NN1 of_IO this_DD1 analysis_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, 27.7%_FO of_IO college_NN1 students_58 '_97 driving_JJ time_NNT1 is_VBZ spent_VVN on_II the_AT highway_NN1 ,_, and_CC college_NN1 drivers_NN2 drive_VV0 aggressively_RR 17.9%_FO of_IO the_AT time_NNT1 ._. 
+</s>
+<s>
+Both_DB2 of_IO these_DD2 activities_NN2 significantly_RR increase_VV0 the_AT load_NN1 experienced_VVN by_II the_AT car_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT average_JJ student_NN1 drives_VVZ about_RG 25.4_MC minutes_NNT2 per_II day_NNT1 ,_, 72.3%_FO city_NN1 driving_VVG (_( approximately_RR 30_MC mph_NNU )_) and_CC 27.7%_FO highway_NN1 driving_VVG (_( approximately_RR 70_MC mph_NNU )_) ,_, the_AT average_JJ distance_NN1 driven_VVN per_II day_NNT1 is_VBZ 17_MC miles/day_FU ,_, so_CS the_AT average_JJ college_NN1 student_NN1 's_GE car_NN1 is_VBZ driven_VVN about_RG 6000_MC miles/year_FU ._. 
+</s>
+<s>
+Figure_NN1 7_MC shows_VVZ the_AT exhaust_NN1 system_NN1 component_NN1 temperatures_NN2 at_II partial_JJ and_CC full_JJ loads_NN2 for_IF a_AT1 BMW_NP1 318i_FO sedan_NN1 ._. 
+</s>
+<s>
+Assuming_VVG that_CST the_AT Prius_NP1 has_VHZ a_AT1 similar_JJ exhaust_NN1 system_NN1 ,_, we_PPIS2 determined_VVD the_AT typical_JJ component_NN1 temperatures_NN2 for_IF city_NN1 and_CC highway_NN1 driving_VVG ._. 
+</s>
+<s>
+City_NN1 driving_NN1 is_VBZ approximated_VVN as_CSA driving_VVG at_II 30mph_NNU ,_, and_CC the_AT component_NN1 temperatures_NN2 are_VBR approximated_VVN as_II the_AT temperature_NN1 partial_JJ load_NN1 plus_II 25%_NNU of_IO the_AT difference_NN1 between_II the_AT full_JJ and_CC partial_JJ loads_NN2 ._. 
+</s>
+<s>
+This_DD1 estimate_NN1 takes_VVZ into_II account_NN1 the_AT transient_JJ behavior_NN1 of_IO the_AT car_NN1 as_CSA it_PPH1 warms_VVZ up_RP ,_, driver_NN1 aggressiveness_NN1 ,_, and_CC the_AT temperature_NN1 fluctuation_NN1 due_II21 to_II22 the_AT unique_JJ engine_NN1 behavior_NN1 of_IO the_AT Prius_NP1 (_( see_VV0 Discussion_NN1 Section_NN1 )_) ._. 
+</s>
+<s>
+Highway_NN1 driving_NN1 is_VBZ approximated_VVN as_II the_AT partial_JJ load_NN1 plus_II 75%_NNU of_IO the_AT difference_NN1 between_II the_AT full_JJ and_CC partial_JJ loads_NN2 ._. 
+</s>
+<s>
+This_DD1 estimate_NN1 takes_VVZ into_II account_NN1 vehicle_NN1 transient_JJ behavior_NN1 and_CC driver_NN1 aggressiveness_NN1 ._. 
+</s>
+<s>
+Table_NN1 4_MC ,_, below_RL ,_, summarizes_VVZ these_DD2 exhaust_VV0 system_NN1 temperatures_NN2 with_IW the_AT corresponding_JJ useable_JJ area_NN1 for_IF mounting_VVG the_AT TEGs_NP2 ._. 
+</s>
+<s>
+Table_NN1 6_MC ,_, below_RL ,_, summarizes_VVZ the_AT results_NN2 of_IO our_APPGE ANOVA_NN1 analysis_NN1 ._. 
+</s>
+<s>
+The_AT full_JJ ANOVA_NN1 results_NN2 outputted_VVD from_II MATLAB_NP1 can_VM be_VBI found_VVN in_II Appendix_NN1 B._NP1 We_PPIS2 examined_VVD the_AT effect_NN1 of_IO various_JJ factors_NN2 related_VVN to_II the_AT heat_NN1 sink_NN1 geometry_NN1 on_II both_DB2 the_AT power_NN1 output_NN1 of_IO the_AT TEG_NN1 and_CC the_AT temperature_NN1 difference_NN1 across_II the_AT device_NN1 ,_, ignoring_VVG interactions_NN2 between_II the_AT factors_NN2 ._. 
+</s>
+<s>
+Using_VVG a_AT1 90%_NNU confidence_NN1 interval_NN1 ,_, we_PPIS2 determined_VVD the_AT only_JJ significant_JJ factor_NN1 was_VBDZ pin_NN1 height_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT ANOVA_NN1 analysis_NN1 and_CC the_AT power_NN1 per_II cost_NN1 ratio_NN1 from_II Table_NN1 5_MC ,_, p.11_FO ,_, we_PPIS2 determined_VVD that_CST the_AT best_JJT heat_NN1 sink_NN1 for_IF this_DD1 application_NN1 is_VBZ the_AT Alpha_NN1 Novatech_NP1 PN_NP1 S153020W_FO ._. 
+</s>
+<s>
+Figure_NN1 8_MC shows_VVZ that_CST there_EX is_VBZ a_AT1 linear_JJ relationship_NN1 between_II the_AT convective_JJ heat_NN1 transfer_NN1 coefficient_NN1 ,_, hA_UH ,_, and_CC air_NN1 velocity_NN1 ._. 
+</s>
+<s>
+The_AT hA_UH values_NN2 for_IF city_NN1 and_CC highway_NN1 driving_NN1 were_VBDR determined_VVN from_II the_AT relationship_NN1 shown_VVN in_II Fig._NN1 8_MC ._. 
+</s>
+<s>
+For_IF city_NN1 driving_VVG (_( 30mph_NNU )_) ,_, hA=0.28_FO W/K_ZZ1 ,_, and_CC for_IF highway_NN1 driving_VVG (_( 70mph_NNU )_) ,_, hA=0.62_FO ._. 
+</s>
+<s>
+To_TO maximize_VVI the_AT power_NN1 output_NN1 of_IO the_AT system_NN1 ,_, the_AT TEGs_NN2 placed_VVN on_II the_AT exhaust_NN1 manifold_NN1 and_CC the_AT exhaust_NN1 pipe_NN1 are_VBR filled_VVN skutterudite_NN1 TEGs_VVZ while_CS the_AT TEGs_NP2 on_II the_AT catalyst_NN1 ,_, the_AT center_NN1 muffler_NN1 ,_, and_CC the_AT rear_JJ muffler_NN1 are_VBR Bi2Te3_FO TEGs_NN2 (_( see_VV0 Fig._NN1 9_MC )_) ._. 
+</s>
+<s>
+This_DD1 configuration_NN1 was_VBDZ chosen_VVN to_TO maximize_VVI the_AT ZT_NP1 value_NN1 at_II each_DD1 component_NN1 based_VVN on_II Fig._NN1 4_MC ,_, p.8_FO ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI noted_VVN that_CST HiZ_NP1 2_MC TEGs_VVZ that_CST we_PPIS2 tested_VVD in_II the_AT laboratory_NN1 would_VM not_XX be_VBI acceptable_JJ for_IF this_DD1 application_NN1 ,_, as_CSA they_PPHS2 can_56 not_56 be_VBI exposed_VVN to_II sustained_JJ temperature_NN1 of_IO more_DAR than_CSN 250C_FO ,_, however_RR more_RGR robust_JJ Bi2Te3_FO TEGs_NN2 could_VM be_VBI used_VVN ._. 
+</s>
+<s>
+The_AT performance_NN1 of_IO this_DD1 system_NN1 is_VBZ summarized_VVN in_II Table_NN1 8_MC ,_, below_RL ._. 
+</s>
+<s>
+The_AT filled_JJ skutterudite_NN1 TEGs_NN2 are_VBR assumed_VVN to_TO have_VHI similar_JJ geometrical_JJ ,_, mass_NN1 ,_, conductivity_NN1 properties_NN2 ,_, and_CC costs_VVZ as_II the_AT Bi2Te3_FO TEGs_VVZ ._. 
+</s>
+<s>
+The_AT system_NN1 weight_NN1 is_VBZ estimated_VVN as_II the_AT weight_NN1 of_IO the_AT TEGs_NP2 and_CC heat_NN1 sinks_NN2 ,_, plus_II approximately_RR 5lbs_NNU2 (_( 2.3kg_NNU )_) for_IF installation_NN1 hardware_NN1 ._. 
+</s>
+<s>
+Table_NN1 7_MC ._. 
+</s>
+<s>
+Summary_NN1 of_IO performance_NN1 of_IO TEG_NP1 heat_NN1 recovery_NN1 system_NN1 using_VVG current_JJ technology_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO draw_VVI conclusions_NN2 about_II our_APPGE data_NN ,_, we_PPIS2 needed_VVD to_TO assess_VVI the_AT validity_NN1 and_CC implications_NN2 of_IO our_APPGE results_NN2 ._. 
+</s>
+<s>
+We_PPIS2 then_RT also_RR further_RRR investigated_VVD the_AT characteristics_NN2 of_IO the_AT Toyota_NP1 Prius_NP1 ,_, and_CC current_JJ and_CC future_JJ TEG_NN1 technologies_NN2 ._. 
+</s>
+<s>
+While_CS a_AT1 small_JJ fan_NN1 mounted_VVN on_II31 top_II32 of_II33 the_AT heat_NN1 sink_NN1 may_VM have_VHI increased_VVN the_AT convective_JJ heat_NN1 transfer_NN1 from_II the_AT heat_NN1 sink_NN1 ,_, we_PPIS2 chose_VVD not_XX to_TO propose_VVI the_AT use_NN1 of_IO a_AT1 fan_NN1 for_IF several_DA2 reasons_NN2 ._. 
+</s>
+<s>
+The_AT fans_NN2 would_VM take_VVI power_NN1 from_II the_AT system_NN1 ,_, add_VV0 weight_NN1 to_II the_AT car_NN1 ,_, and_CC add_VV0 a_AT1 degree_NN1 of_IO complexity_NN1 to_II the_AT system_NN1 due_II21 to_II22 moving_VVG parts_NN2 ._. 
+</s>
+<s>
+Since_CS the_AT fans_NN2 were_VBDR only_RR able_JK to_TO generate_VVI a_AT1 maximum_NN1 of_IO about_RG 3_MC m/s_ZZ1 (_( 6.7mph_NNU )_) while_CS using_VVG about_II 1_MC1 watt_NNU1 of_IO power_NN1 ,_, the_AT increased_JJ convection_NN1 due_II21 to_II22 the_AT fan_NN1 would_VM not_XX outweigh_VVI the_AT energy_NN1 cost_NN1 of_IO using_VVG the_AT fan_NN1 ._. 
+</s>
+<s>
+First_MD ,_, the_AT hotplate_NN1 had_VHD a_AT1 very_RG uneven_JJ temperature_NN1 distribution_NN1 ._. 
+</s>
+<s>
+If_CS the_AT thermocouple_NN1 used_VVN to_II measure_NN1 the_AT hotplate_NN1 temperature_NN1 was_VBDZ moved_VVN even_RR slightly_RR ,_, the_AT temperature_NN1 reading_NN1 would_VM change_VVI by_RP up_II21 to_II22 20C_FO ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT set_NN1 point_NN1 of_IO the_AT hotplate_NN1 was_VBDZ not_XX consistent_JJ ._. 
+</s>
+<s>
+Setting_VVG the_AT hotplate_NN1 to_II 260C_FO resulted_VVN in_II hotplate_NN1 temperatures_NN2 of_IO between_II 150C_FO and_CC 210C_FO ,_, varying_VVG from_II test_NN1 to_II test_NN1 ._. 
+</s>
+<s>
+While_CS we_PPIS2 attempted_VVD to_TO compensate_VVI for_IF these_DD2 problems_NN2 by_II changing_VVG the_AT set_NN1 point_NN1 to_TO achieve_VVI a_AT1 consistent_JJ temperature_NN1 ,_, and_CC trying_VVG to_TO place_VVI the_AT thermocouple_NN1 in_II a_AT1 consistent_JJ spot_NN1 ,_, the_AT temporal_JJ and_CC spatial_JJ fluctuations_NN2 made_VVD the_AT hotplate_NN1 temperature_NN1 extremely_RR difficult_JJ to_TO measure_VVI accurately_RR ._. 
+</s>
+<s>
+A_AT1 more_RGR precise_JJ heating_NN1 element_NN1 would_VM have_VHI greatly_RR improved_VVN our_APPGE temperature_NN1 reading_NN1 accuracy_NN1 ,_, and_CC thus_RR improve_VV0 our_APPGE performance_NN1 predictions_NN2 ._. 
+</s>
+<s>
+Second_MD ,_, the_AT contact_NN1 resistance_NN1 of_IO the_AT setup_NN1 did_VDD not_XX seem_VVI to_TO be_VBI consistent_JJ ._. 
+</s>
+<s>
+While_CS we_PPIS2 tried_VVD to_TO use_VVI a_AT1 consistent_JJ amount_NN1 of_IO thermal_JJ grease_NN1 at_II each_DD1 contact_NN1 ,_, other_JJ factors_NN2 may_VM have_VHI affected_VVN this_DD1 resistance_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, contact_VV0 resistance_NN1 decreases_VVZ with_IW increasing_JJ contact_NN1 pressure_NN1 (_( 18_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, we_PPIS2 used_VVD heat_NN1 sinks_NN2 of_IO different_JJ weights_NN2 ,_, so_CS the_AT contact_NN1 pressure_NN1 was_VBDZ never_RR consistent_JJ ._. 
+</s>
+<s>
+Additionally_RR ,_, to_TO measure_VVI the_AT heat_NN1 sink_NN1 surface_NN1 temperature_NN1 ,_, we_PPIS2 had_VHD to_TO put_VVI some_DD pressure_NN1 on_II the_AT heat_NN1 sink_NN1 with_IW the_AT thermocouple_NN1 ._. 
+</s>
+<s>
+While_CS we_PPIS2 attempted_VVD to_TO keep_VVI this_DD1 pressure_NN1 consistent_JJ ,_, we_PPIS2 had_VHD to_TO hold_VVI the_AT thermocouple_NN1 by_II hand_NN1 ,_, and_CC the_AT pressure_NN1 may_VM have_VHI changed_VVN from_II test_NN1 to_II test_NN1 ._. 
+</s>
+<s>
+Our_APPGE results_NN2 would_VM be_VBI more_RGR accurate_JJ if_CS the_AT contact_NN1 pressure_NN1 could_VM be_VBI kept_VVN constant_JJ by_II using_VVG a_AT1 clamp_NN1 to_TO hold_VVI down_RP the_AT heat_NN1 sink_NN1 and_CC take_VVI temperature_NN1 measurements_NN2 ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT thermal_JJ grease_NN1 seemed_VVD to_II clump_NN1 over_II time_NNT1 and_CC create_VV0 air_NN1 pockets_NN2 that_CST would_VM increase_VVI the_AT contact_NN1 resistance_NN1 ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI remedied_VVN by_II using_VVG a_AT1 different_JJ kind_NN1 of_IO thermal_JJ grease_NN1 or_CC by_II reapplying_VVG thermal_JJ grease_NN1 between_II each_DD1 test_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT resistor_NN1 used_VMK to_TO simulate_VVI a_AT1 load_NN1 across_II the_AT TEG_NN1 was_VBDZ attached_VVN very_RG close_JJ to_II the_AT TEG_NN1 ,_, so_CS the_AT resistor_NN1 heated_VVN up_RP during_II the_AT tests_NN2 ._. 
+</s>
+<s>
+This_DD1 temperature_NN1 change_NN1 may_VM have_VHI changed_VVN the_AT resistance_NN1 ,_, which_DDQ would_VM affect_VVI our_APPGE voltage_NN1 measurements_NN2 ._. 
+</s>
+<s>
+If_CS the_AT resistor_NN1 had_VHD been_VBN placed_VVN in_II parallel_NN1 with_IW the_AT TEG_NN1 with_IW longer_JJR wires_NN2 ,_, the_AT resistor_NN1 could_VM have_VHI been_VBN kept_VVN closer_RRR to_II the_AT ambient_JJ temperature_NN1 ,_, and_CC thus_RR maintained_VVN a_AT1 more_RGR consistent_JJ resistance_NN1 ._. 
+</s>
+<s>
+These_DD2 laboratory_NN1 testing_NN1 problems_NN2 probably_RR affected_VVN our_APPGE results_NN2 for_IF our_APPGE ANOVA_NN1 analysis_NN1 and_CC our_APPGE extrapolation_NN1 to_II real-world_JJ driving_JJ conditions_NN2 ._. 
+</s>
+<s>
+However_RR ,_, since_CS the_AT results_NN2 of_IO our_APPGE system_NN1 analysis_NN1 show_VV0 that_CST the_AT necessary_JJ TEG_NN1 technology_NN1 is_VBZ an_AT1 order_NN1 of_IO magnitude_NN1 higher_JJR than_CSN that_DD1 which_DDQ is_VBZ available_JJ today_RT ,_, our_APPGE recommendations_NN2 are_VBR not_XX highly_RR affected_VVN by_II our_APPGE laboratory_NN1 problems_NN2 ._. 
+</s>
+<s>
+The_AT Prius_NP1 also_RR uses_VVZ fuel-saving_JJ technology_NN1 other_II21 than_II22 the_AT hybrid_JJ engine_NN1 ._. 
+</s>
+<s>
+The_AT Prius_58 '_97 fuel_NN1 efficiency_NN1 is_VBZ increased_VVN by_II the_AT car_NN1 's_GE aerodynamic_JJ shape_NN1 ,_, which_DDQ is_VBZ due_JJ in_RR21 part_RR22 to_II its_APPGE flat_JJ underside_NN1 designed_VVN at_II for_IF smoother_JJR air_NN1 flow_NN1 beneath_II the_AT car_NN1 (_( see_VV0 Fig._NN1 11_MC ,_, below_RL )_) ._. 
+</s>
+<s>
+The_AT Prius_NP1 also_RR uses_VVZ a_AT1 weight-saving_JJ design_NN1 ,_, using_VVG lightweight_JJ components_NN2 as_RG much_DA1 as_CSA possible_JJ (_( 3_MC )_) ._. 
+</s>
+<s>
+Any_DD proposed_JJ changes_NN2 to_II the_AT Prius_NP1 design_NN1 should_VM be_VBI made_VVN with_IW these_DD2 factors_NN2 in_II mind_NN1 ._. 
+</s>
+<s>
+In_II our_APPGE air-cooled_JJ system_NN1 the_AT TEGs_NP2 and_CC heat_NN1 sinks_NN2 would_VM add_VVI both_DB2 weight_NN1 and_CC drag_VVI beneath_II the_AT car_NN1 ._. 
+</s>
+<s>
+Figure_NN1 11_MC ._. 
+</s>
+<s>
+The_AT underside_NN1 of_IO the_AT Prius_NP1 is_VBZ flat_JJ to_TO make_VVI the_AT underbody_NN1 air_NN1 flow_NN1 smoother_JJR and_CC reduce_VV0 drag_VV0 ._. 
+</s>
+<s>
+(_( 3_MC )_) ._. 
+</s>
+<s>
+Fig._NN1 4_MC ,_, p.8_FO ._. 
+</s>
+<s>
+These_DD2 materials_NN2 have_VH0 lower_JJR ZT_NP1 values_NN2 than_CSN the_AT materials_NN2 listed_VVN in_II Table_NN1 8_MC ,_, so_CS they_PPHS2 were_VBDR not_XX considered_VVN for_IF this_DD1 application.Table_NNU 8_MC ._. 
+</s>
+<s>
+Comparison_NN1 of_IO characteristics_NN2 for_IF recommended_JJ TEG_NN1 Materials_NN2 ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO several_DA2 US_NP1 Department_NN1 of_IO Energy_NN1 programs_NN2 investigating_VVG waste_NN1 heat_NN1 recovery_NN1 is_VBZ a_AT1 fuel_NN1 economy_NN1 increase_NN1 of_IO 10%_NNU (_( 14_MC )_) ._. 
+</s>
+<s>
+In_II the_AT Prius_NP1 ,_, this_DD1 corresponds_VVZ to_II a_AT1 fuel_NN1 economy_NN1 increase_NN1 of_IO 4.6_MC mpg_NNU ._. 
+</s>
+<s>
+Neglecting_VVG the_AT TEG_NN1 system_NN1 weight_NN1 ,_, Eq_NN1 ._. 
+</s>
+<s>
+8_MC ,_, p.8_FO implies_VVZ that_CST this_DD1 could_VM be_VBI achieved_VVN with_IW a_AT1 TEG_NN1 power_NN1 generation_NN1 of_IO 1150_MC W._NP1 In_BCL21 order_BCL22 for_IF this_DD1 to_TO be_VBI possible_JJ with_IW the_AT system_NN1 proposed_VVN in_II the_AT Results_NN2 Section_NN1 above_RL ,_, our_APPGE models_NN2 show_VV0 that_CST TEGs_VVZ with_IW a_AT1 ZT_NP1 near_II 3_MC would_VM need_VVI to_TO be_VBI developed_VVN ._. 
+</s>
+<s>
+However_RR ,_, the_AT cost_NN1 of_IO the_AT system_NN1 would_VM still_RR be_VBI a_AT1 major_JJ hurdle_NN1 before_II implementation_NN1 could_VM be_VBI realistic_JJ ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO estimate_VVI the_AT requirements_NN2 for_IF a_AT1 TEG_NN1 system_NN1 to_TO be_VBI feasible_JJ on_II the_AT Toyota_NP1 Prius_NP1 ,_, an_AT1 economic_JJ evaluation_NN1 was_VBDZ performed_VVN to_TO determine_VVI the_AT point_NN1 at_II which_DDQ a_AT1 TEG_NN1 system_NN1 could_VM pay_VVI for_IF itself_PPX1 over_II the_AT lifetime_NNT1 of_IO the_AT car_NN1 (_( the_AT break-even_NN1 point_NN1 )_) ._. 
+</s>
+<s>
+One_MC1 way_NN1 to_TO reduce_VVI cost_NN1 would_VM be_VBI to_TO reduce_VVI the_AT number_NN1 of_IO TEGs_NP2 needed_VVD ._. 
+</s>
+<s>
+By_II only_JJ mounting_NN1 TEGs_VVZ on_II the_AT three_MC highest-temperature_JJ elements_NN2 (_( the_AT exhaust_NN1 manifold_NN1 ,_, exhaust_VV0 pipe_NN1 ,_, and_CC catalyst_NN1 )_) ,_, the_AT number_NN1 of_IO TEGs_NP2 could_VM be_VBI reduced_VVN to_II 155_MC ._. 
+</s>
+<s>
+Figure_NN1 12_MC p._NNU 18_MC shows_VVZ the_AT amount_NN1 of_IO fuel_NN1 economy_NN1 savings_NN2 with_II31 respect_II32 to_II33 time_NNT1 and_CC the_AT figure_NN1 of_IO merit_NN1 ZT_NP1 ._. 
+</s>
+<s>
+The_AT plot_NN1 shows_VVZ that_CST with_IW a_AT1 TEG_NN1 cost_NN1 reduction_NN1 of_IO 85%_NNU and_CC a_AT1 ZT_NP1 of_IO 4_MC ,_, the_AT system_NN1 will_VM exactly_RR pay_VVI for_IF itself_PPX1 at_II the_AT end_NN1 of_IO the_AT car_NN1 's_GE life_NN1 cycle_NN1 (_( 150,000_MC miles_NNU2 and_CC 25_MC years_NNT2 )_) ._. 
+</s>
+<s>
+Figure_NN1 12_MC also_RR shows_VVZ the_AT break-even_NN1 points_NN2 for_IF other_JJ combinations_NN2 of_IO cost_NN1 reduction_NN1 and_CC figure_NN1 of_IO merit_NN1 ZT_NP1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO increase_VVI the_AT savings_NN2 achieved_VVN with_IW a_AT1 TEG_NN1 without_IW increasing_VVG the_AT number_NN1 of_IO TEGs_NP2 ,_, the_AT figure_NN1 of_IO merit_NN1 of_IO the_AT individual_JJ TEGs_NN2 must_VM be_VBI increased_VVN ._. 
+</s>
+<s>
+Figure_NN1 13_MC illustrates_VVZ that_CST increasing_JJ ZT_NP1 would_VM lead_VVI to_II increased_JJ fuel_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+The_AT figure_NN1 also_RR shows_VVZ that_CST there_EX is_VBZ a_AT1 limit_NN1 to_II how_RGQ much_DA1 the_AT ZT_NP1 can_VM be_VBI increased_VVN before_CS it_PPH1 does_VDZ not_XX significantly_RR affect_VVI the_AT fuel_NN1 economy_NN1 ._. 
+</s>
+<s>
+This_DD1 occurs_VVZ around_RP a_AT1 ZT_NP1 value_NN1 of_IO 20_MC ._. 
+</s>
+<s>
+For_IF high_JJ ZT_NP1 values_NN2 ,_, the_AT factor_NN1 limiting_JJ power_NN1 output_NN1 shifts_VVZ from_II the_AT material_NN1 properties_NN2 to_II the_AT Carnot_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+than_CSN that_DD1 of_IO the_AT Bi2Te3_FO TEGs_VVZ ._. 
+</s>
+<s>
+Development_NN1 of_IO technology_NN1 for_IF automated_JJ fabrication_NN1 should_VM further_RRR decrease_VVI the_AT cost_NN1 of_IO quantum_NN1 well_RR TEGs_VVZ ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, quantum_NN1 well_RR TEGs_NP2 are_VBR predicted_VVN to_TO have_VHI very_RG high_JJ efficiencies_NN2 compared_VVN to_II the_AT TEGs_NP2 available_JJ today_RT and_CC can_VM also_RR be_VBI utilized_VVN in_II higher_JJR temperature_NN1 ranges_NN2 (_( 8_MC )_) ._. 
+</s>
+<s>
+Figure_NN1 14_MC shows_VVZ the_AT relationship_NN1 between_II efficiency_NN1 and_CC cost_NN1 of_IO future_JJ TEG_NN1 modules_NN2 with_II31 respect_II32 to_II33 temperature_NN1 ._. 
+</s>
+<s>
+The_AT temperature_NN1 of_IO the_AT gas_NN1 that_CST flows_VVZ through_II the_AT exhaust_NN1 system_NN1 is_VBZ higher_JJR than_CSN the_AT temperature_NN1 on_II the_AT outer_JJ shell_NN1 of_IO the_AT exhaust_NN1 system_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT TEG_NN1 is_VBZ mounted_VVN on_II this_DD1 outer_JJ shell_NN1 ,_, maximizing_VVG this_DD1 temperature_NN1 would_VM increase_VVI the_AT TEG_NN1 power_NN1 output_NN1 ._. 
+</s>
+<s>
+To_TO achieve_VVI this_DD1 ,_, the_AT exhaust_NN1 system_NN1 could_VM be_VBI constructed_VVN with_IW a_AT1 less_RGR thermally_RR resistive_JJ material_NN1 ,_, or_CC the_AT exhaust_NN1 gas_NN1 could_VM be_VBI forced_VVN to_TO have_VHI turbulent_JJ flow_NN1 with_IW the_AT help_NN1 of_IO spiraled_JJ fins_NN2 inside_II the_AT exhaust_NN1 system_NN1 (_( 17_MC )_) ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, a_AT1 reduction_NN1 in_II thermal_JJ resistance_NN1 of_IO the_AT insulating_JJ wafer_NN1 that_CST is_VBZ placed_VVN between_II the_AT exhaust_NN1 system_NN1 and_CC the_AT TEG_NN1 and_CC also_RR between_II the_AT TEG_NN1 and_CC heat_NN1 sink_NN1 could_VM also_RR improve_VVI the_AT performance_NN1 (_( 17_MC )_) ._. 
+</s>
+<s>
+Similarly_RR ,_, an_AT1 increased_JJ thermal_JJ conductivity_NN1 of_IO the_AT thermal_JJ paste_NN1 would_VM increase_VVI heat_NN1 flux_NN1 through_II the_AT TEG_NN1 system_NN1 and_CC thus_RR improve_VV0 performance_NN1 ._. 
+</s>
+<s>
+Many_DA2 studies_NN2 of_IO waste_NN1 heat_NN1 recovery_NN1 systems_NN2 in_II automobiles_NN2 have_VH0 used_VVN coolant_NN1 from_II the_AT car_NN1 's_GE engine_NN1 to_TO cool_VVI the_AT cold_JJ side_NN1 of_IO the_AT TEG_NN1 instead_II21 of_II22 flowing_VVG ambient_JJ air_NN1 (_( 5_MC )_) (_( 6_MC )_) (_( 7_MC )_) (_( 17_MC )_) ._. 
+</s>
+<s>
+Use_NN1 of_IO such_DA a_AT1 coolant_NN1 system_NN1 would_VM increase_VVI the_AT temperature_NN1 difference_NN1 across_II the_AT TEG_NN1 and_CC thus_RR increase_VV0 our_APPGE power_NN1 output_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 investigated_VVN the_AT possibility_NN1 of_IO implementing_VVG an_AT1 air-cooled_JJ TEG_NN1 waste_NN1 heat_NN1 recovery_NN1 system_NN1 mounted_VVN on_II the_AT exhaust_NN1 system_NN1 of_IO a_AT1 Toyota_NP1 Prius_NP1 driven_VVN by_II college_NN1 students_NN2 ._. 
+</s>
+<s>
+Our_APPGE conclusions_NN2 are_VBR as_CSA follows_VVZ :_: While_CS our_APPGE laboratory_NN1 tests_NN2 had_VHD a_AT1 high_JJ level_NN1 of_IO uncertainty_NN1 ,_, it_PPH1 is_VBZ clear_JJ that_CST the_AT current_JJ TEG_NN1 technology_NN1 is_VBZ far_RR below_II the_AT necessary_JJ level_NN1 to_TO be_VBI feasibly_RR implemented_VVN ._. 
+</s>
+<s>
+Assuming_VVG gas_NN1 prices_NN2 of_IO $3.20/gallon_NNU ,_, an_AT1 average_JJ ZT_NP1 of_IO 4_MC and_CC an_AT1 85%_NNU reduction_NN1 in_II TEG_NP1 system_NN1 price_NN1 would_VM be_VBI necessary_JJ for_IF the_AT system_NN1 to_TO pay_VVI for_IF itself_PPX1 in_II saved_JJ fuel_NN1 costs_VVZ over_II the_AT lifetime_NNT1 of_IO the_AT car_NN1 ._. 
+</s>
+<s>
+While_CS the_AT implementation_NN1 of_IO a_AT1 TEG_NN1 waste_NN1 heat_NN1 recovery_NN1 system_NN1 in_II the_AT Toyota_NP1 Prius_NP1 is_VBZ not_XX practical_JJ using_VVG today_RT 's_GE technology_NN1 ,_, future_JJ TEG_NN1 materials_NN2 may_VM make_VVI such_DA a_AT1 system_NN1 a_AT1 viable_JJ option_NN1 ._. 
+</s>
+<s>
+Specifically_RR ,_, when_CS ZT_NP1 values_NN2 approach_VV0 4_MC and_CC TEG_VV0 costs_NN2 are_VBR reduced_VVN by_II 85%_NNU (_( a_AT1 realistic_JJ target_NN1 based_VVN on_II the_AT prediction_NN1 of_IO quantum_NN1 well_RR TEG_VV0 technologies_NN2 )_) ,_, the_AT system_NN1 should_VM be_VBI reconsidered_VVN ._. 
+</s>
+<s>
+The_AT following_JJ recommendations_NN2 should_VM be_VBI considered_VVN when_CS investigating_VVG a_AT1 TEG_NN1 waste_NN1 heat_NN1 recovery_NN1 system_NN1 in_II the_AT future_NN1 :_: 
+</s>

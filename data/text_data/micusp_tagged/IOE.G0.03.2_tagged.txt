@@ -1,0 +1,225 @@
+<s>
+Better_JJR Body_NN1 Manufacturing_NN1 (_( BBM_NP1 )_) is_VBZ a_AT1 supplier_NN1 of_IO module_NN1 body_NN1 subassemblies_VVZ to_II an_AT1 Automotive_JJ Manufacturer_NN1 ._. 
+</s>
+<s>
+Recently_RR ,_, they_PPHS2 have_VH0 asked_VVN our_APPGE team_NN1 to_TO perform_VVI a_AT1 Six_MC Sigma_NN1 analysis_NN1 to_TO insure_VVI that_CST their_APPGE major_JJ part_NN1 ,_, the_AT body_NN1 side_NN1 subassembly_RR ,_, is_VBZ achieving_VVG Six_MC Sigma_NN1 quality_NN1 levels_NN2 of_IO less_DAR than_CSN 3.4_MC defects_NN2 per_II million_NNO for_IF all_DB critical_JJ body_NN1 side_NN1 subassembly_RR dimensions_NN2 ._. 
+</s>
+<s>
+A_AT1 subassembly_RR consists_VVZ of_IO a_AT1 body_NN1 side_NN1 assembly_NN1 (_( BS_NP1 )_) ,_, and_CC two_MC reinforcement_NN1 pillar_NN1 bars_NN2 (_( A_ZZ1 and_CC B_ZZ1 )_) ._. 
+</s>
+<s>
+BBM_NP1 has_VHZ asked_VVN us_PPIO2 to_TO reduce_VVI assembly_NN1 defects_NN2 by_II either_RR adjusting_VVG a_AT1 process_NN1 setting_NN1 ,_, reducing_VVG the_AT stamping_JJ variation_NN1 ,_, or_CC reworking_VVG the_AT stamping_JJ dies_NN2 ._. 
+</s>
+<s>
+BBM_NP1 management_NN1 would_VM like_VVI our_APPGE team_NN1 to_TO recommend_VVI an_AT1 improvement_NN1 strategy_NN1 that_CST minimizes_VVZ the_AT rework_NN1 costs_NN2 ,_, yet_RR achieves_VVZ the_AT desired_JJ quality_NN1 objective_NN1 ._. 
+</s>
+<s>
+To_TO approach_VVI this_DD1 problem_NN1 in_II a_AT1 meaningful_JJ way_NN1 ,_, we_PPIS2 used_VVD a_AT1 top-down_JJ analysis_NN1 method_NN1 to_TO come_VVI up_RP with_IW our_APPGE recommendations_NN2 ._. 
+</s>
+<s>
+Top-down_JJ analysis_NN1 suggests_VVZ that_CST you_PPY start_VV0 with_IW the_AT assembly_NN1 data_NN and_CC identify_VV0 those_DD2 assembly_NN1 dimensions_NN2 that_CST are_VBR not_XX meeting_VVG BBM_NP1 's_GE goal_NN1 of_IO 3.4_MC DPM_NP1 ._. 
+</s>
+<s>
+After_CS the_AT assemblies_NN2 are_VBR identified_VVN ,_, proceed_VV0 to_TO analyze_VVI only_RR those_DD2 assemblies_NN2 by_II looking_VVG at_II the_AT assembly_NN1 process_NN1 and_CC at_II the_AT stamping_JJ process_NN1 ._. 
+</s>
+<s>
+A_AT1 visualization_NN1 of_IO the_AT important_JJ manufacturing_NN1 processes_NN2 is_VBZ shown_VVN in_II Figure_NN1 2.1_MC ._. 
+</s>
+<s>
+Our_APPGE statistical_JJ analyses_NN2 of_IO the_AT 10_MC subassembly_RR processes_NN2 are_VBR shown_VVN in_II Table_NN1 2.1_MC ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT large_JJ amount_NN1 of_IO data_NN ,_, we_PPIS2 chose_VVD not_XX to_TO provide_VVI charts_NN2 for_IF each_DD1 of_IO the_AT subassemblies_NN2 but_CCB instead_RR summarized_VVD our_APPGE work_NN1 ._. 
+</s>
+<s>
+A_AT1 process_NN1 capability_NN1 analysis_NN1 provided_CS data_NN for_IF the_AT DPM_NP1 for_IF each_DD1 process_NN1 ,_, as_II31 well_II32 as_II33 the_AT process_NN1 capability_NN1 indices_NN2 (_( Cp_NP1 ,_, Cpk_NP1 ,_, Pp_NN1 ,_, Ppk_NP1 )_) ._. 
+</s>
+<s>
+All_DB data_NN followed_VVD a_AT1 normal_JJ distribution_NN1 ._. 
+</s>
+<s>
+All_DB measurements_NN2 data_NN are_VBR taken_VVN from_II gages_NN2 that_CST meet_VV0 Gage_NP1 R_ZZ1 and_CC R_ZZ1 standards_NN2 ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Table_NN1 2.1_MC ,_, subassemblies_VVZ 1_MC1 ,_, 2_MC ,_, 4_MC ,_, and_CC 5_MC do_VD0 not_XX have_VHI quality_NN1 issues_NN2 ._. 
+</s>
+<s>
+Our_APPGE team_NN1 ,_, therefore_RR ,_, focused_VVN on_II subassemblies_NN2 3_MC ,_, 9_MC ,_, and_CC 10_MC which_DDQ had_VHD mean_JJ problems_NN2 (_( mean_VV0 shift_VV0 or_CC mean_JJ off-target_NN1 )_) and_CC subassemblies_VVZ 6_MC ,_, 7_MC ,_, and_CC 8_MC which_DDQ had_VHD mean_JJ problems_NN2 and_CC high_JJ variation_NN1 problems_NN2 (_( spike_NN1 or_CC common_JJ cause_NN1 )_) ._. 
+</s>
+<s>
+Stated_VVN earlier_RRR ,_, the_AT goal_NN1 of_IO our_APPGE work_NN1 is_VBZ to_TO achieve_VVI 3.4_MC DPM_NP1 or_CC less_RRR for_IF all_DB 10_MC of_IO the_AT subassembly_RR processes_NN2 ._. 
+</s>
+<s>
+A_AT1 top_NN1 down_II analysis_NN1 was_VBDZ conducted_VVN in_II which_DDQ assembly_NN1 defects_NN2 are_VBR investigated_VVN before_II component_NN1 defects_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO determine_VVI whether_CSW the_AT out-of-specification_JJ assembly_NN1 measurements_NN2 were_VBDR caused_VVN by_II assembly_NN1 process_NN1 or_CC by_II incoming_JJ component_NN1 defects_NN2 ,_, the_AT correlation_NN1 between_II the_AT predicted_JJ stacked_JJ component_NN1 measurement_NN1 and_CC the_AT actual_JJ assembly_NN1 measurement_NN1 was_VBDZ investigated_VVN ._. 
+</s>
+<s>
+It_PPH1 is_VBZ assumed_VVN that_CST if_CS the_AT predicted_JJ stacked_JJ component_NN1 measurement_NN1 is_VBZ highly_RR correlated_VVN with_IW the_AT actual_JJ assembly_NN1 measurement_NN1 ,_, then_RT the_AT defects_NN2 are_VBR due_JJ the_AT incoming_JJ components_NN2 ;_; if_CS there_EX is_VBZ little_JJ or_CC no_AT correlation_NN1 ,_, there_EX is_VBZ an_AT1 assembly_NN1 process_NN1 problem_NN1 ._. 
+</s>
+<s>
+Table_NN1 3.1_MC shows_VVZ the_AT values_NN2 for_IF R_ZZ1 generated_VVN from_II the_AT correlation_NN1 test_NN1 ._. 
+</s>
+<s>
+Location_NN1 7_MC and_CC 8_MC are_VBR the_AT only_RR two_MC locations_NN2 that_CST have_VH0 defective_JJ incoming_JJ components_NN2 (_( R_ZZ1 .7_MC )_) ._. 
+</s>
+<s>
+Locations_NN2 3_MC ,_, 6_MC ,_, 9_MC ,_, and_CC 10_MC have_VH0 assembly_NN1 process_NN1 problems_NN2 ._. 
+</s>
+<s>
+First_MD ,_, the_AT causes_NN2 of_IO defects_NN2 were_VBDR investigated_VVN for_IF each_DD1 location_NN1 supposedly_RR exhibiting_VVG assembly_NN1 defects_NN2 ._. 
+</s>
+<s>
+An_AT1 additional_JJ 24_MC observations_NN2 were_VBDR made_VVN ._. 
+</s>
+<s>
+Three_MC process_NN1 inputs_NN2 were_VBDR examined_VVN using_VVG DOE-Clamp_JJ Location_NN1 ,_, Weld_VV0 Density_NN1 ,_, and_CC Pressure_NN1 ._. 
+</s>
+<s>
+For_IF location_NN1 3_MC ,_, none_PN of_IO the_AT factors_NN2 were_VBDR found_VVN to_TO be_VBI significant_JJ using_VVG DOE_NP1 ._. 
+</s>
+<s>
+From_II the_AT run_NN1 chart_NN1 (_( Figure_NN1 3.1_MC )_) ,_, it_PPH1 is_VBZ observed_VVN that_DD1 location_NN1 3_MC does_VDZ have_VHI a_AT1 mean_JJ deviation_NN1 problem_NN1 (_( observed_JJ mean_NN1 of_IO 0.8_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, there_EX was_VBDZ no_AT correlation_NN1 observed_VVN between_II the_AT predicted_JJ stacked_JJ component_NN1 measurements_NN2 and_CC the_AT actual_JJ assembly_NN1 measurements_NN2 ._. 
+</s>
+<s>
+Because_CS none_PN of_IO the_AT assembly_NN1 process_NN1 factors_NN2 were_VBDR found_VVN to_TO be_VBI significant_JJ ,_, it_PPH1 is_VBZ supposed_VVN that_CST the_AT lack_NN1 of_IO correlation_NN1 (_( which_DDQ suggests_VVZ an_AT1 assembly_NN1 process_NN1 problem_NN1 )_) was_VBDZ due_II21 to_II22 the_AT small_JJ standard_JJ deviation_NN1 of_IO 0.02_MC in_II the_AT sample_NN1 for_IF A_AT1 pillar_NN1 components_NN2 (_( Figure_NN1 3.2_MC )_) ._. 
+</s>
+<s>
+Component_NN1 defects_NN2 were_VBDR further_RRR examined_VVN for_IF Location_NN1 3_MC as_II a_AT1 result_NN1 of_IO this_DD1 investigation_NN1 ._. 
+</s>
+<s>
+(_( see_VV0 below_RL )_) ._. 
+</s>
+<s>
+For_IF location_NN1 6_MC there_EX were_VBDR no_AT significant_JJ factors_NN2 found_VVD using_VVG DOE_NP1 ._. 
+</s>
+<s>
+From_II the_AT run_NN1 chart_NN1 in_II Figure_NN1 3.3_MC ,_, it_PPH1 is_VBZ observed_VVN that_CST there_EX is_VBZ one_PN1 out_II21 of_II22 control_NN1 data_NN point_NN1 ._. 
+</s>
+<s>
+This_DD1 point_NN1 corresponds_VVZ to_TO Die_VV0 Set_NN1 8_MC ._. 
+</s>
+<s>
+The_AT raw_JJ data_NN shows_VVZ that_CST all_DB three_MC samples_NN2 from_II Die_VV0 Set_NN1 8_MC were_VBDR out_II21 of_II22 spec_NN1 or_CC close_RR to_II out_II21 of_II22 spec_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT DPM_NP1 for_IF location_NN1 6_MC is_VBZ very_RG close_JJ to_II acceptable_JJ (_( 4_MC DPM_NP1 )_) ,_, it_PPH1 is_VBZ suggested_VVN that_CST die_VV0 set_NN1 8_MC be_VBI further_RRR investigated_VVN if_CS cost_NN1 permits_NN2 ._. 
+</s>
+<s>
+For_IF Locations_NN2 9_MC and_CC 10_MC ,_, Clamp_VV0 Location_NN1 was_VBDZ found_VVN to_TO be_VBI significant_JJ with_IW a_AT1 P-value_NN1 of_IO 0.000_MC for_IF each_DD1 (_( Tables_NN2 3.2_MC and_CC 3.3_MC )_) The_AT response_NN1 optimizer_NN1 was_VBDZ used_VVN to_TO find_VVI the_AT optimal_JJ setting_NN1 for_IF the_AT clamp_NN1 location_NN1 ._. 
+</s>
+<s>
+Figure_NN1 3.4_MC shows_VVZ a_AT1 value_NN1 for_IF clamp_NN1 location_NN1 of_IO 1_MC1 will_VM cause_VVI the_AT least_DAT number_NN1 of_IO defects_NN2 ._. 
+</s>
+<s>
+The_AT setting_NN1 of_IO 1_MC1 corresponds_VVZ to_II placing_VVG the_AT clamp_NN1 at_II Location_NN1 2_MC (_( Figure_NN1 3.5_MC )_) ._. 
+</s>
+<s>
+Locations_NN2 3_MC ,_, 7_MC ,_, and_CC 8_MC were_VBDR found_VVN to_TO have_VHI incoming_JJ component_NN1 defects_NN2 ._. 
+</s>
+<s>
+Defects_NN2 in_II location_NN1 3_MC are_VBR assumed_VVN to_TO be_VBI the_AT result_NN1 of_IO defects_NN2 in_II A_ZZ1 pillars_NN2 (_( mean_NN1 of_IO 0.74_MC and_CC standard_JJ deviation_NN1 of_IO 0.04_MC )_) since_CS assembly_NN1 process_NN1 inputs_NN2 have_VH0 no_AT significant_JJ effect_NN1 and_CC A_ZZ1 pillars_NN2 are_VBR the_AT thickest_JJT ,_, and_CC strongest_JJT components_NN2 ._. 
+</s>
+<s>
+A_AT1 regression_NN1 analysis_NN1 was_VBDZ conducted_VVN on_II location_NN1 7_MC investigating_VVG the_AT following_JJ factors_NN2 :_: press_VV0 tonnage_NN1 ,_, die_VV0 cushion_NN1 pressure_NN1 ,_, and_CC sheet_NN1 metal_NN1 material_NN1 thickness_NN1 ._. 
+</s>
+<s>
+This_DD1 revealed_JJ press_NN1 tonnage_NN1 as_II the_AT only_JJ significant_JJ figure_NN1 also_RR (_( P-value_NN1 of_IO 0.000_MC )_) ._. 
+</s>
+<s>
+Assembly_NN1 measurement_NN1 was_VBDZ plotted_VVN against_II tonnage_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 clear_JJ division_NN1 in_II tonnage_NN1 values_NN2 which_DDQ corresponds_VVZ to_II distinctly_RR different_JJ assembly_NN1 measurement_NN1 (_( Figure_NN1 3.5_MC )_) ._. 
+</s>
+<s>
+These_DD2 two_MC groups_NN2 of_IO data_NN points_NN2 were_VBDR found_VVN to_TO be_VBI statistically_RR different_JJ (_( P-value_NN1 of_IO 0.000_MC )_) ._. 
+</s>
+<s>
+Figure_NN1 3.5_MC Assembly_NN1 Measurement_NN1 vs_II Press_NN1 Tonnage_NN1 for_IF Location_NN1 3_MC If_CS the_AT assembly_NN1 measurements_NN2 for_IF multiple_JJ locations_NN2 are_VBR correlated_VVN ,_, altering_VVG an_AT1 input_NN1 for_IF one_MC1 of_IO the_AT locations_NN2 will_VM alter_VVI the_AT other_JJ location_NN1 in_II a_AT1 similar_JJ way_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ found_VVN that_CST locations_NN2 7_MC and_CC 8_MC ,_, two_MC locations_NN2 with_IW defects_NN2 due_II21 to_II22 incoming_JJ components_NN2 ,_, correlate_VV0 with_IW each_PPX221 other_PPX222 (_( R_ZZ1 =_FO 0.952_MC )_) ._. 
+</s>
+<s>
+Because_II21 of_II22 this_DD1 correlation_NN1 ,_, the_AT same_DA results_NN2 hold_VV0 true_JJ for_IF location_NN1 8_MC as_II21 for_II22 location_NN1 7_MC ._. 
+</s>
+<s>
+Based_VVN on_II the_AT above_JJ analysis_NN1 ,_, the_AT Six_MC Sigma_NN1 team_NN1 suggests_VVZ BBM_NP1 make_VV0 the_AT following_JJ improvements_NN2 to_TO reach_VVI its_APPGE 3.4_MC DPM_NP1 quality_NN1 goal_NN1 for_IF each_DD1 of_IO the_AT 10_MC critical_JJ body_NN1 side_NN1 subassembly_RR dimensions_NN2 :_: This_DD1 dimension_NN1 is_VBZ experiencing_VVG a_AT1 mean_JJ off-target_JJ problem_NN1 and_CC has_VHZ relatively_RR small_JJ inherent_JJ variation_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX sensitive_JJ to_II changes_NN2 in_II assembly_NN1 process_NN1 inputs_NN2 ,_, however_RR ,_, its_APPGE significantly_RR off-target_JJ component_NN1 dimensions_NN2 are_VBR suspect_JJ ..._... especially_RR the_AT associated_JJ A-pillar_NN1 dimension_NN1 ._. 
+</s>
+<s>
+Although_CS BS_NP1 dimension_NN1 3_MC is_VBZ uncorrelated_JJ to_II A-pillar_NN1 dimension_NN1 3_MC ,_, there_EX is_VBZ not_XX enough_DD variation_NN1 in_II the_AT A-pillar_NN1 dimension_NN1 to_TO observe_VVI correlation_NN1 in_II the_AT data_NN (_( especially_RR when_CS compared_VVN to_II the_AT variance_NN1 of_IO the_AT BS_NP1 dimension_NN1 )_) even_CS21 if_CS22 the_AT A-3_MC and_CC BSA-3_MC assembly_NN1 dimensions_NN2 are_VBR in-fact_JJ correlated_JJ ._. 
+</s>
+<s>
+Thus_RR ,_, despite_II the_AT absence_NN1 of_IO correlation_NN1 between_II the_AT component_NN1 and_CC assembly_NN1 dimension_NN1 ,_, the_AT team_NN1 believes_VVZ that_CST die_VV0 rework_VV0 for_IF component_NN1 A_ZZ1 to_TO put_VVI A-3_MC on_II target_NN1 is_VBZ the_AT only_JJ remaining_JJ option_NN1 ,_, considering_CS21 that_CS22 the_AT assembly_NN1 process_NN1 input_NN1 settings_NN2 have_VH0 no_AT effect_NN1 ._. 
+</s>
+<s>
+This_DD1 assembly_NN1 dimension_NN1 almost_RR met_VVD the_AT 3.4_MC DPM_NP1 quality_NN1 goal_NN1 with_IW the_AT exception_NN1 of_IO SPC_NP1 data_NN taken_VVN from_II a_AT1 subgroup_NN1 using_VVG die_NN1 set_VVD #8_NNU ._. 
+</s>
+<s>
+The_AT BBM_NP1 team_NN1 recommends_VVZ further_JJR investigation_NN1 into_II the_AT performance_NN1 of_IO die_NN1 set_VVD #8_NNU to_TO determine_VVI if_CSW it_PPH1 needs_VVZ to_TO be_VBI repaired_VVN or_CC replaced_VVD ._. 
+</s>
+<s>
+Without_RR die_VV0 set_NN1 8_MC ,_, the_AT DPM_NP1 for_IF assembly_NN1 dimension_NN1 6_MC improves_VVZ from_II 4.00_MC DPM_NP1 to_II 0.03_MC DPM_NP1 ._. 
+</s>
+<s>
+These_DD2 assembly_NN1 dimensions_NN2 have_VH0 significant_JJ correlation_NN1 to_II their_APPGE corresponding_JJ component_NN1 stack-up_NN1 and_CC assembly_NN1 dimensions_NN2 as_II31 well_II32 as_II33 to_II each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+Both_DB2 dimensions_NN2 are_VBR off-target_JJ and_CC have_VH0 excessive_JJ variation_NN1 ,_, and_CC our_APPGE regression_NN1 analysis_NN1 indicates_VVZ that_DD1 tonnage_NN1 is_VBZ the_AT only_JJ significant_JJ input_NN1 that_CST has_VHZ an_AT1 effect_NN1 on_II them_PPHO2 ._. 
+</s>
+<s>
+The_AT plot_NN1 of_IO measurement_NN1 vs._II tonnage_NN1 for_IF assembly_NN1 dimension_NN1 7_MC indicates_VVZ that_CST tonnage_VV0 between_II 939-946_MCMC will_NN1 produce_VVI measurements_NN2 of_IO dimension_NN1 7_MC at_II BBM_NP1 's_GE desired_JJ quality_NN1 levels_NN2 ,_, and_CC the_AT team_NN1 recommends_VVZ that_CST BBM_NP1 conducts_VVZ stamping_VVG at_II tonnage_NN1 within_II this_DD1 range_NN1 to_TO solve_VVI the_AT mean_JJ and_CC variance_NN1 problems_NN2 for_IF assembly_NN1 dimension_NN1 7_MC (_( and_CC thus_RR also_RR for_IF assembly_NN1 dimension_NN1 8_MC ,_, as_CSA they_PPHS2 are_VBR highly_RR correlated_VVN )_) by_II improving_VVG both_DB2 dimensions_NN2 to_II 0.00_MC DPM_NP1 ._. 
+</s>
+<s>
+These_DD2 assembly_NN1 dimensions_NN2 do_VD0 not_XX have_VHI significant_JJ correlation_NN1 to_II their_APPGE corresponding_JJ component_NN1 stack-up_NN1 and_CC assembly_NN1 dimensions_NN2 ;_; however_RR ,_, they_PPHS2 are_VBR sensitive_JJ to_II assembly_NN1 process_NN1 inputs_NN2 ._. 
+</s>
+<s>
+Specifically_RR ,_, the_AT team_NN1 's_GE DOE_NP1 analysis_NN1 indicates_VVZ that_CST clamp_VV0 location_NN1 1_MC1 will_VM make_VVI body_NN1 side_NN1 assemblies_NN2 with_IW dimensions_NN2 9_MC and_CC 10_MC to_II spec_NN1 while_CS clamp_NN1 location_NN1 2_MC induces_VVZ a_AT1 mean_JJ shift_NN1 into_II dimensions_NN2 9_MC and_CC 10_MC ,_, increasing_VVG DPM_NP1 above_II 3.4_MC ._. 
+</s>
+<s>
+The_AT team_NN1 therefore_RR recommends_VVZ that_CST clamp_VV0 location_NN1 1_MC1 be_VBI used_VVN in_II the_AT welding_NN1 process_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM improve_VVI the_AT DPM_NP1 of_IO assembly_NN1 dimensions_NN2 9_MC and_CC 10_MC to_II 0.00_MC and_CC 0.08_MC DPM_NP1 ,_, respectively_RR ._. 
+</s>
+<s>
+These_DD2 assembly_NN1 dimensions_NN2 exceeded_VVD BBM_NP1 's_GE 3.4_MC DPM_NP1 quality_NN1 target_NN1 ._. 
+</s>
+<s>
+For_IF stamping_JJ dimensions_NN2 not_XX meeting_VVG their_APPGE process_NN1 capability_NN1 requirements_NN2 but_CCB also_RR not_XX affecting_VVG their_APPGE final_JJ assembly_NN1 ,_, we_PPIS2 simply_RR recommend_VV0 new_JJ target_NN1 dimensions_NN2 of_IO -0.78_MC for_IF BS1_FO ,_, 0.2_MC for_IF BS5_FO ,_, 0.72_MC for_IF BS10_FO ,_, and_CC -0.15_MC for_IF B10_FO ._. 
+</s>
+<s>
+We_PPIS2 also_RR recommend_VV0 new_JJ tolerances_NN2 of_IO +/-_FU 1.06_MC for_IF BS1_FO and_CC +/-_FU 0.81_MC for_IF BS10_FO ._. 
+</s>
+<s>
+We_PPIS2 widened_VVD these_DD2 tolerances_NN2 by_II expanding_VVG the_AT USL_NP1 and_CC LSL_NP1 to_TO encompass_VVI a_AT1 4.5_MC sigma_NN1 spread_NN1 (_( =3.4_FO DPM_NP1 )_) and_CC shifted_VVD the_AT target_NN1 to_II the_AT component_NN1 means_VVZ to_TO re-zero_VVI the_AT dimensions_NN2 at_II their_APPGE observed_JJ means_NN ._. 
+</s>
+<s>
+Based_VVN on_II our_APPGE analysis_NN1 ,_, the_AT BBM_NP1 team_NN1 recommends_VVZ the_AT following_JJ procedures_NN2 in_BCL21 order_BCL22 to_TO control_VVI the_AT process_NN1 improvements_NN2 and_CC maintain_VVI target-level_JJ efficiency_NN1 ._. 
+</s>
+<s>
+Since_CS assembly_NN1 dimensions_NN2 1_MC1 ,_, 2_MC ,_, 4_MC and_CC 5_MC have_VH0 been_VBN exceeding_VVG BBM_NP1 target-level_NN1 prior_II21 to_II22 BBM_NP1 team_NN1 's_GE analysis_NN1 ,_, a_AT1 successive_JJ check_NN1 system_NN1 should_VM be_VBI implemented_VVN or_CC audits_NN2 should_VM be_VBI performed_VVN periodically_RR to_TO assure_VVI the_AT quality_NN1 of_IO parts_NN2 has_VHZ remained_VVN consistent_JJ ._. 
+</s>
+<s>
+For_IF dimension_NN1 3_MC ,_, the_AT team_NN1 would_VM apply_VVI the_AT 100%_NNU inspection_NN1 control_NN1 method_NN1 to_TO accurately_RR identify_VVI each_DD1 defect_NN1 and_CC determine_VV0 the_AT reasons_NN2 for_IF each_DD1 defect_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 this_DD1 data_NN ,_, the_AT appropriate_JJ improvement_NN1 technique_NN1 can_VM be_VBI implemented_VVN and_CC the_AT control_NN1 procedure_NN1 can_VM be_VBI changes_NN2 as_CSA necessary_JJ ._. 
+</s>
+<s>
+Moreover_RR for_IF dimension_NN1 9_MC and_CC 10_MC ,_, BBM_NP1 team_NN1 recommends_VVZ SPC_NP1 charts_NN2 or_CC audits_NN2 to_TO track_VVI the_AT performance_NN1 of_IO the_AT assembly_NN1 process_NN1 and_CC to_TO determine_VVI whether_CSW the_AT improvements_NN2 due_II21 to_II22 new_JJ clamp_NN1 location_NN1 are_VBR significant_JJ ._. 
+</s>
+<s>
+Furthermore_RR ,_, to_TO decrease_VVI the_AT number_NN1 of_IO defective_JJ incoming_JJ parts_NN2 for_IF assembly_NN1 7_MC and_CC 8_MC ,_, develop_VV0 a_AT1 plan_NN1 to_TO control_VVI the_AT incoming_JJ material_NN1 from_II each_DD1 supplier_NN1 and_CC conduct_VV0 supplier_NN1 quality_NN1 reviews_VVZ to_TO keep_VVI track_NN1 of_IO process_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+Another_DD1 suggested_JJ control_NN1 measure_NN1 is_VBZ standardizing_VVG process_NN1 procedures_NN2 and_CC training_NN1 operators_NN2 so_CS21 that_CS22 a_AT1 defect_NN1 or_CC out_II21 of_II22 control_NN1 part_NN1 is_VBZ recognized_VVN at_II the_AT time_NNT1 of_IO occurrence_NN1 to_TO prevent_VVI redundant_JJ defects_NN2 ._. 
+</s>

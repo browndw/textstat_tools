@@ -1,0 +1,225 @@
+<s>
+Our_APPGE team_NN1 recreated_VVD the_AT experimental_JJ setup_NN1 shown_VVN in_II the_AT project_NN1 2_MC description_NN1 and_CC shown_VVN in_II figure_NN1 1_MC1 in_II Braza_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+We_PPIS2 created_VVD two_MC different_JJ meshes_NN2 ,_, shown_VVN in_II figures_NN2 2_MC and_CC 3_MC below_RL ,_, to_TO check_VVI for_IF grid_NN1 independence_NN1 ._. 
+</s>
+<s>
+The_AT team_NN1 used_VVD a_AT1 uniform_JJ quad_NN1 mesh_NN1 ._. 
+</s>
+<s>
+The_AT meshes_NN2 were_VBDR then_RT imported_VVN into_II Fluent_JJ where_CS the_AT calculations_NN2 began_VVD ._. 
+</s>
+<s>
+We_PPIS2 doubled_VVD the_AT resolution_NN1 ,_, until_CS our_APPGE results_NN2 were_VBDR very_RG close_JJ to_II each_PPX221 other_PPX222 which_DDQ indicated_VVD that_CST the_AT solution_NN1 we_PPIS2 obtained_VVD was_VBDZ grid_NN1 independent_NN1 ._. 
+</s>
+<s>
+Our_APPGE first_MD task_NN1 was_VBDZ to_TO show_VVI the_AT vector_NN1 plots_NN2 of_IO the_AT velocity_NN1 field_NN1 in_II the_AT wake_NN1 region_NN1 at_II each_DD1 Reynolds_NP1 number_NN1 (_( Re_NP1 )_) and_CC this_DD1 can_VM be_VBI seen_VVN in_II figure_NN1 6_MC on_II page_NN1 5_MC ._. 
+</s>
+<s>
+Next_MD ,_, we_PPIS2 had_VHD to_TO show_VVI contour_NN1 plots_NN2 of_IO pressure_NN1 and_CC streamlines_VVZ in_II the_AT wake_NN1 region_NN1 at_II each_DD1 Re_II number_NN1 ._. 
+</s>
+<s>
+Our_APPGE fourth_MD task_NN1 was_VBDZ to_TO show_VVI a_AT1 plot_NN1 of_IO the_AT re-attachment_NN1 length_NN1 versus_II time_NNT1 for_IF Re=40_FO and_CC compare_VV0 it_PPH1 to_TO figure_VVI 4_MC in_II Braza_NP1 et_RA21 al_RA22 ;_; this_DD1 is_VBZ shown_VVN in_II figure_NN1 9_MC on_II page_NN1 8_MC ._. 
+</s>
+<s>
+Next_MD ,_, we_PPIS2 show_VV0 a_AT1 plot_NN1 of_IO the_AT pressure_NN1 distribution_NN1 on_II the_AT cylinder_NN1 wall_NN1 as_II a_AT1 function_NN1 of_IO at_II Re=40_FO and_CC compare_VV0 that_DD1 to_TO figure_VVI 5_MC in_II Braza_NP1 et_RA21 al_RA22 ;_; this_DD1 is_VBZ shown_VVN in_II figure_NN1 10_MC on_II page_NN1 9_MC ._. 
+</s>
+<s>
+Our_APPGE sixth_MD task_NN1 was_VBDZ to_TO plot_VVI drag_VV0 coefficients_NN2 and_CC separation_NN1 angles_NN2 as_II a_AT1 function_NN1 of_IO Re_NP1 and_CC compare_VV0 it_PPH1 to_II figures_NN2 6_MC and_CC 9_MC in_II Braza_NP1 et_RA21 al_RA22 ;_; this_DD1 is_VBZ shown_VVN in_II figures_NN2 11_MC and_CC 12_MC on_II pages_NN2 9_MC and_CC 10_MC ._. 
+</s>
+<s>
+Next_MD ,_, we_PPIS2 plotted_VVD the_AT time_NNT1 history_NN1 of_IO pressure_NN1 at_II a_AT1 selected_JJ point_NN1 in_II the_AT near_JJ wake_NN1 and_CC used_VVD this_DD1 to_TO calculate_VVI the_AT Strouhal_JJ number_NN1 ;_; this_DD1 is_VBZ shown_VVN in_II figure_NN1 13_MC on_II page_NN1 10_MC ._. 
+</s>
+<s>
+Our_APPGE last_MD and_CC final_JJ task_NN1 was_VBDZ to_TO plot_VVI the_AT Strouhal_JJ number_NN1 as_II a_AT1 function_NN1 of_IO Re_NP1 and_CC compare_VV0 it_PPH1 to_TO figure_VVI 9_MC in_II Braza_NP1 et_RA21 al_RA22 ;_; this_DD1 is_VBZ shown_VVN in_II figure_NN1 14_MC on_II page_NN1 12_MC ._. 
+</s>
+<s>
+In_II Fluent_JJ ,_, we_PPIS2 used_VVD air_NN1 at_II 273K_FO with_IW a_AT1 kinematic_JJ viscosity_NN1 (_( k_ZZ1 )_) of_IO 1.32E-5_MC m2/s_FU and_CC an_AT1 inlet_NN1 velocity_NN1 determined_VVN by_II equation_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT same_DA mesh_NN1 was_VBDZ used_VVN for_IF all_DB Reynolds_NP1 numbers_NN2 (_( Re_NP1 )_) ._. 
+</s>
+<s>
+The_AT density_NN1 of_IO the_AT fluid_NN1 (_( air_NN1 )_) used_VVD was_VBDZ 1.292_MC kg/m3_FU and_CC the_AT dynamic_JJ viscosity_NN1 (_( d_ZZ1 )_) used_VVD was_VBDZ 1.71e-05_MC kg/m*s_FU ._. 
+</s>
+<s>
+We_PPIS2 first_MD scaled_VVD our_APPGE mesh_NN1 in_II Fluent_JJ to_TO convert_VVI from_II cm_NNU to_II m_ZZ1 ._. 
+</s>
+<s>
+We_PPIS2 solved_VVD with_IW an_AT1 unsteady_JJ time_NNT1 and_CC 2nd_MD order_NN1 implicit_JJ unsteady_JJ formulation_NN1 ._. 
+</s>
+<s>
+The_AT momentum_NN1 was_VBDZ changed_VVN to_II second_MD order_NN1 upwind_NN1 and_CC the_AT absolute_JJ criteria_NN2 of_IO the_AT residuals_NN2 were_VBDR changed_VVN to_II 1E-5_MC to_TO increase_VVI the_AT accuracy_NN1 of_IO our_APPGE results_NN2 ._. 
+</s>
+<s>
+The_AT boundary_NN1 conditions_NN2 of_IO the_AT velocity_NN1 inlets_NN2 were_VBDR set_VVN to_TO have_VHI an_AT1 x-velocity_NN1 shown_VVN in_II the_AT table_NN1 below_RL and_CC the_AT model_NN1 was_VBDZ initialized_VVN with_IW zero_MC initial_JJ conditions_NN2 ._. 
+</s>
+<s>
+From_II figure_NN1 9a_FO in_II Braza_NP1 et_RA21 al_RA22 ,_, we_PPIS2 were_VBDR able_JK to_TO find_VVI an_AT1 approximate_JJ Strouhal_JJ number_NN1 and_CC estimate_VVI the_AT period_NN1 for_IF each_DD1 Reynolds_NP1 number_NN1 using_VVG equation_NN1 2_MC below_RL ._. 
+</s>
+<s>
+We_PPIS2 divided_VVD the_AT period_NN1 by_II 20_MC to_TO find_VVI an_AT1 appropriate_JJ time_NNT1 step_NN1 size_NN1 while_CS iterating_VVG ._. 
+</s>
+<s>
+The_AT max_NN1 iterations_NN2 per_II a_AT1 time_NNT1 step_NN1 was_VBDZ set_VVN to_II 100_MC to_TO make_VVI sure_JJ that_CST the_AT solution_NN1 would_VM reach_VVI the_AT residuals_NN2 and_CC converge_VVI each_DD1 cycle_NN1 ._. 
+</s>
+<s>
+For_IF Re_II values_NN2 of_IO 100_MC ,_, 200_MC ,_, and_CC 400_MC ,_, the_AT model_NN1 first_MD needed_VVN to_TO be_VBI manually_RR triggered_VVN to_TO achieve_VVI a_AT1 periodic_JJ steady-state_JJ solution_NN1 represented_VVN by_II vortex_NN1 shedding_VVG from_II alternate_JJ sides_NN2 of_IO the_AT back_NN1 of_IO the_AT cylinder_NN1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ done_VDN by_II setting_VVG the_AT bottom_JJ velocity_NN1 inlet_NN1 to_II twice_RR the_AT U_JJ velocity_NN1 ._. 
+</s>
+<s>
+The_AT trigger_NN1 was_VBDZ allowed_VVN to_TO run_VVI until_CS the_AT iteration_NN1 plot_NN1 showed_VVD a_AT1 fine_JJ steady_JJ line_NN1 under_II the_AT set_NN1 residual_JJ ._. 
+</s>
+<s>
+We_PPIS2 used_VVD a_AT1 time_NNT1 step_NN1 size_NN1 100_MC times_NNT2 less_RRR than_CSN the_AT predicted_JJ time_NNT1 step_NN1 size_NN1 while_CS triggering_VVG ._. 
+</s>
+<s>
+The_AT pressure_NN1 was_VBDZ plotted_VVN at_II a_AT1 point_NN1 in_II the_AT wake_NN1 region_NN1 0.03_MC m_NNO above_RL and_CC 0.15_MC m_NNO to_II the_AT right_NN1 of_IO the_AT cylinder_NN1 while_CS the_AT model_NN1 was_VBDZ iterated_VVN ._. 
+</s>
+<s>
+From_II here_RL we_PPIS2 could_VM see_VVI when_RRQ the_AT solution_NN1 produced_VVD a_AT1 steady_JJ frequency_NN1 of_IO at_RR21 least_RR22 five_MC cycles_NN2 at_II which_DDQ point_VV0 we_PPIS2 took_VVD our_APPGE data_NN measurements_NN2 over_RG five_MC different_JJ times_NNT2 ._. 
+</s>
+<s>
+Using_VVG Gambit_NP1 ,_, we_PPIS2 created_VVD a_AT1 mesh_NN1 based_VVN on_II the_AT experimental_JJ setup_NN1 shown_VVN in_II figure_NN1 1_MC1 and_CC tried_VVN to_TO recreate_VVI the_AT mesh_NN1 shown_VVN in_II the_AT project_NN1 description_NN1 ._. 
+</s>
+<s>
+Using_VVG Gambit_NP1 ,_, many_DA2 different_JJ meshes_NN2 were_VBDR created_VVN and_CC tested_VVN and_CC the_AT best_JJT single_JJ mesh_NN1 is_VBZ shown_VVN in_II figure_NN1 2_MC ._. 
+</s>
+<s>
+The_AT type_NN1 of_IO mesh_NN1 used_VVD was_VBDZ a_AT1 uniform_JJ quad_NN1 mesh_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO verify_VVI that_CST we_PPIS2 had_VHD mesh_NN1 independence_NN1 ,_, we_PPIS2 compared_VVD the_AT values_NN2 of_IO reattachment_NN1 length_NN1 ,_, drag_VV0 coefficient_NN1 ,_, Strouhal_JJ Number_NN1 ,_, and_CC separation_NN1 angles_NN2 for_IF the_AT two_MC meshes_NN2 ._. 
+</s>
+<s>
+After_II creating_VVG the_AT single_JJ mesh_NN1 ,_, we_PPIS2 doubled_VVD it_PPH1 and_CC calculated_VVD the_AT four_MC variables_NN2 we_PPIS2 were_VBDR looking_VVG for_IF ._. 
+</s>
+<s>
+After_II realizing_VVG they_PPHS2 were_VBDR not_XX as_RG close_JJ as_CSA we_PPIS2 would_VM have_VHI like_II them_PPHO2 to_TO be_VBI ,_, we_PPIS2 went_VVD ahead_RL and_CC halved_VVD the_AT single_JJ mesh_NN1 we_PPIS2 had_VHD and_CC calculated_VVD the_AT four_MC variables_NN2 again_RT ._. 
+</s>
+<s>
+We_PPIS2 believe_VV0 the_AT results_NN2 obtained_VVN ,_, shown_VVN in_II table_NN1 2_MC for_IF the_AT three_MC different_JJ meshes_NN2 ,_, are_VBR sufficient_JJ enough_RR for_IF us_PPIO2 to_TO use_VVI the_AT single_JJ mesh_NN1 ._. 
+</s>
+<s>
+We_PPIS2 showed_VVD our_APPGE mesh_NN1 independence_NN1 for_IF Re=400_FO based_VVN on_II 2nd-order_JJ steady_JJ flow_NN1 ._. 
+</s>
+<s>
+The_AT boundary_NN1 layers_NN2 can_VM be_VBI seen_VVN in_II figure_NN1 4_MC on_II page_NN1 5_MC ._. 
+</s>
+<s>
+We_PPIS2 created_VVD two_MC velocity_NN1 inlets_NN2 ._. 
+</s>
+<s>
+The_AT first_MD one_PN1 was_VBDZ the_AT 2nd_MD quadrant_NN1 of_IO the_AT large_JJ circle_NN1 attached_VVN to_II the_AT top_JJ horizontal_JJ line_NN1 of_IO the_AT rectangular_JJ box_NN1 and_CC the_AT other_NN1 was_VBDZ the_AT 3rd_MD quadrant_NN1 of_IO the_AT large_JJ circle_NN1 attached_VVN to_II the_AT bottom_JJ horizontal_JJ line_NN1 of_IO the_AT rectangular_JJ box_NN1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ done_VDN because_CS Fluent_JJ can_56 not_56 naturally_RR predict_VVI periodic_JJ unsteady_JJ flow_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, an_AT1 outflow_NN1 was_VBDZ created_VVN at_II the_AT end_NN1 of_IO the_AT rectangle_NN1 and_CC both_DB2 the_AT top_NN1 and_CC bottom_JJ halves_NN2 of_IO the_AT smaller_JJR circle_NN1 were_VBDR set_VVN as_CSA walls_NN2 to_TO model_VVI the_AT cylinder_NN1 ._. 
+</s>
+<s>
+As_II the_AT Re_NP1 becomes_VVZ greater_JJR than_CSN 40_MC ,_, asymmetrical_JJ eddy_NN1 patterns_NN2 occur_VV0 seen_VVN in_II c._ZZ1 and_CC d._NNU below_RL ._. 
+</s>
+<s>
+This_DD1 is_VBZ shown_VVN as_II the_AT alternating_JJ separation_NN1 of_IO the_AT vortices_NN2 which_DDQ have_VH0 been_VBN diffused_VVN from_II the_AT cylinder_NN1 ;_; these_DD2 are_VBR known_VVN as_II the_AT Karman_NN1 vortex_NN1 paths_NN2 ._. 
+</s>
+<s>
+Using_VVG our_APPGE single_JJ mesh_NN1 ,_, we_PPIS2 obtained_VVD a_AT1 plot_NN1 of_IO the_AT reattachment_NN1 length_NN1 vs._II time_NNT1 for_IF a_AT1 Re=40_FO as_CSA shown_VVN in_II figure_NN1 9_MC below_RL ._. 
+</s>
+<s>
+Our_APPGE data_NN analysis_NN1 is_VBZ shown_VVN in_II table_NN1 3_MC ._. 
+</s>
+<s>
+For_IF Re=40_FO ,_, figure_NN1 6a_FO on_II page_NN1 5_MC ,_, one_MC1 can_VM see_VVI that_CST there_EX are_VBR two_MC attached_JJ vortices_NN2 behind_II the_AT cylinder_NN1 ._. 
+</s>
+<s>
+The_AT flow_NN1 reaches_VVZ steady_JJ state_NN1 at_II approximately_RR 16_MC when_CS looking_VVG at_II our_APPGE experimental_JJ compared_VVN to_II 15_MC when_CS looking_VVG at_II figure_NN1 4_MC in_II Braza_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Our_APPGE figure_NN1 for_IF reattachment_NN1 length_NN1 closely_RR matches_VVZ figure_NN1 4_MC in_II Braza_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Equation_NN1 3_MC was_VBDZ used_VVN to_TO make_VVI time_NNT1 (_( t_ZZ1 )_) dimensionless_JJ ._. 
+</s>
+<s>
+We_PPIS2 obtained_VVD a_AT1 dimensionless_JJ reattachment_NN1 length_NN1 by_II dividing_VVG it_PPH1 by_II the_AT radius_NN1 ._. 
+</s>
+<s>
+(_( Eqn_NN1 ._. 
+</s>
+<s>
+3_MC )_) We_PPIS2 were_VBDR able_JK to_TO calculate_VVI Cp_NP1 by_II using_VVG equation_NN1 4_MC below_RL where_CS P_ZZ1 represents_VVZ the_AT total_JJ pressure_NN1 and_CC Po_NP1 represents_VVZ the_AT initial_JJ pressure_NN1 ._. 
+</s>
+<s>
+Our_APPGE values_NN2 showed_VVD a_AT1 similar_JJ curve_NN1 to_II that_DD1 of_IO Braza_NP1 et_RA21 al_RA22 ,_, but_CCB were_VBDR slightly_RR lower_JJR than_CSN Braza_NP1 's_GE Re=40_FO values_NN2 and_CC more_RGR closely_RR match_VV0 Braza_NP1 's_GE Re=20_FO ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI seen_VVN in_II figure_NN1 10_MC below_RL ._. 
+</s>
+<s>
+Cp=_FO (_( 
+</s>
+<s>
+)_) /_FO (_( 
+</s>
+<s>
+)_) (_( Eq_NN1 ._. 
+</s>
+<s>
+4_MC )_) To_TO solve_VVI for_IF the_AT Drag_NN1 Coefficient_NN1 (_( Cd_NN1 )_) ,_, equation_NN1 5_MC was_VBDZ used_VVN ._. 
+</s>
+<s>
+In_II Fluent_JJ ,_, we_PPIS2 ran_VVD 5_MC trials_NN2 for_IF each_DD1 Re_II and_CC found_VVD the_AT Drag_NN1 Force_NN1 ._. 
+</s>
+<s>
+Then_RT using_VVG density_NN1 (_( )_) ,_, velocity_NN1 ,_, and_CC the_AT frontal_JJ area_NN1 (_( A_ZZ1 )_) ,_, we_PPIS2 are_VBR able_JK to_TO produce_VVI figure_NN1 11_MC that_CST shows_VVZ Cd_NN1 versus_II Re_NP1 ._. 
+</s>
+<s>
+This_DD1 graph_NN1 compares_VVZ nicely_RR to_II the_AT one_MC1 shown_VVN in_II figure_NN1 6_MC in_II Braza_NP1 et_RA21 al_RA22 with_IW our_APPGE values_NN2 being_VBG just_RR slightly_RR higher_JJR which_DDQ shows_VVZ that_CST our_APPGE data_NN agrees_VVZ ._. 
+</s>
+<s>
+The_AT area_NN1 consisted_VVN of_IO the_AT height_NN1 (_( diameter_NN1 )_) of_IO the_AT cylinder_NN1 and_CC the_AT width_NN1 was_VBDZ assumed_VVN to_TO be_VBI of_IO unit_NN1 length_NN1 meter_NN1 ._. 
+</s>
+<s>
+(_( Eqn_NN1 ._. 
+</s>
+<s>
+5_MC )_) To_TO calculate_VVI the_AT separation_NN1 angle_NN1 (_( d_ZZ1 )_) ,_, we_PPIS2 ran_VVD 5_MC trials_NN2 for_IF each_DD1 Re_II and_CC took_VVD the_AT average_NN1 d_ZZ1 ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR shown_VVN in_II table_NN1 4_MC and_CC in_II figure_NN1 12_MC below_RL ._. 
+</s>
+<s>
+One_MC1 can_VM see_VVI that_CST our_APPGE figure_NN1 compares_VVZ very_RG nicely_RR to_TO figure_VVI 6_MC in_II Braza_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+For_IF each_DD1 Re_II not_XX including_II 40_MC ,_, we_PPIS2 ran_VVD five_MC trials_NN2 and_CC found_VVD the_AT period_NN1 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 calculated_VVD the_AT Strouhal_JJ Number_NN1 (_( SH_UH )_) using_VVG equation_NN1 2_MC below_RL ._. 
+</s>
+<s>
+D_ZZ1 is_VBZ for_IF diameter_NN1 and_CC u_ZZ1 ,_, the_AT uniform-flow_JJ velocity_NN1 ,_, was_VBDZ calculated_VVN from_II each_DD1 Re_NP1 ._. 
+</s>
+<s>
+Figure_NN1 14_MC a_ZZ1 )_) below_RL shows_VVZ the_AT Strouhal_JJ number_NN1 for_IF each_DD1 Re_II which_DDQ compares_VVZ nicely_RR to_II the_AT reference_NN1 b_ZZ1 )_) ._. 
+</s>
+<s>
+After_II running_VVG many_DA2 simulations_NN2 in_II Fluent_JJ ,_, we_PPIS2 noticed_VVD that_CST at_II low_JJ Re_II values_NN2 around_RG 40_MC ,_, the_AT flow_NN1 was_VBDZ steady_JJ state_NN1 with_IW two_MC separation_NN1 bubbles_NN2 as_CSA shown_VVN in_II figure_NN1 6a_FO ._. 
+</s>
+<s>
+As_II the_AT Re_NP1 values_NN2 became_VVD higher_RRR there_EX was_VBDZ vortex_NN1 shedding_VVG behind_II the_AT cylinder_NN1 ._. 
+</s>
+<s>
+In_II conclusion_NN1 ,_, we_PPIS2 found_VVD that_CST our_APPGE calculations_NN2 very_RG closely_RR match_VV0 that_CST in_II the_AT reference_NN1 Braza_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+The_AT values_NN2 for_IF separation_NN1 angle_NN1 ,_, reattachment_NN1 length_NN1 ,_, Strouhal_JJ number_NN1 ,_, and_CC drag_VV0 coefficient_NN1 are_VBR all_DB within_II 7%_NNU for_IF the_AT single_JJ and_CC double_JJ mesh_NN1 ._. 
+</s>
+<s>
+The_AT coefficient_NN1 of_IO drag_VV0 and_CC wall_NN1 pressure_NN1 were_VBDR the_AT most_RGT different_JJ compared_VVN to_II the_AT Braza_NP1 et_RA21 al._RA22 ,_, with_IW our_APPGE values_NN2 leveling_VVG out_RP around_RG 1.5-1.6_MCMC and_CC Braza_NP1 's_GE near_II 1.2_MC for_IF the_AT coefficient_NN1 of_IO drag_VV0 and_CC our_APPGE Cp_NP1 closer_RRR to_II Braza_NP1 's_GE Re=20_FO instead_II21 of_II22 40_MC ._. 
+</s>

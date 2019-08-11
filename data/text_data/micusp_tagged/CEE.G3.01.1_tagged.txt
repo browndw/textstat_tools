@@ -1,0 +1,729 @@
+<s>
+Methanotrophs_NN2 have_VH0 been_VBN known_VVN as_II gram-negative_JJ and_CC aerobic_JJ bacteria_NN2 and_CC they_PPHS2 use_VV0 only_JJ methane_NN1 for_IF their_APPGE carbon_NN1 and_CC energy_NN1 source_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+The_AT initial_JJ oxidation_NN1 of_IO methane_NN1 to_II methanol_NN1 is_VBZ catalyzed_VVN by_II methane_NN1 monooxygenase_NN1 (_( MMO_NP1 )_) that_CST can_VM be_VBI expressed_VVN differently_RR depending_II21 on_II22 the_AT environmental_JJ factors_NN2 ._. 
+</s>
+<s>
+The_AT most_RGT well_JJ known_JJ factor_NN1 is_VBZ copper_JJ concentration_NN1 by_II which_DDQ two_MC different_JJ MMOs_NN2 can_VM be_VBI expressed_VVN :_: a_AT1 soluble_JJ cytoplasmic_JJ MMO_NN1 (_( sMMO_NN1 )_) and_CC a_AT1 membrane-associated_NN1 ,_, or_CC particulate_NN1 ,_, MMO_NP1 (_( pMMO_NN1 )_) (_( 1,3,4,6_MC )_) ._. 
+</s>
+<s>
+Under_II low_JJ ratio_NN1 of_IO copper_NN1 to_II biomass_NN1 (_( 0.9_MC nmol_NN1 of_IO Cu/mg_FU of_IO cell_NN1 protein_NN1 )_) ,_, the_AT sMMO_NN1 is_VBZ expressed_VVN ;_; at_II higher_JJR value_NN1 ,_, the_AT pMMO_NN1 is_VBZ (_( 6_MC )_) ._. 
+</s>
+<s>
+That_DD1 is_VBZ mainly_RR because_CS pMMO_NN1 is_VBZ a_AT1 copper-based_JJ enzyme_NN1 (_( 4_MC )_) ._. 
+</s>
+<s>
+While_CS copper_NN1 plays_VVZ an_AT1 important_JJ role_NN1 in_II the_AT physiology_NN1 of_IO methanotrophs_NN2 ,_, the_AT mechanism_NN1 of_IO copper_NN1 uptake_NN1 system_NN1 by_II methanotrophs_NN2 is_VBZ still_RR unclear_JJ (_( 2_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, sMMO_NN1 's_GE mutant_NN1 of_IO Methylosinus_NP1 trichosporium_NN1 OB3b_FO (_( 5_MC ,_, 7_MC )_) which_DDQ can_VM express_VVI either_RR sMMO_NN1 or_CC pMMO_NN1 depending_II21 on_II22 copper_NN1 concentration_NN1 ,_, suggested_VVD the_AT presence_NN1 of_IO an_AT1 extracellular_JJ copper-binding_JJ compound_NN1 (_( CBC_NP1 )_) ._. 
+</s>
+<s>
+The_AT CBC_NP1 was_VBDZ further_RRR isolated_VVN from_II M._NN1 capsulatus_NN1 Bath_NP1 and_CC was_VBDZ shown_VVN to_TO be_VBI small_JJ polypeptides_NN2 with_IW a_AT1 molecular_JJ mass_NN1 of_IO 1,232_MC Da_FU (_( 5_MC ,_, 8_MC ,_, 9_MC )_) ._. 
+</s>
+<s>
+The_AT two_MC strains_NN2 ,_, M._NN1 capsulatus_NN1 Bath_NP1 and_CC M._NN1 trichosporium_NN1 OB3b_FO ,_, have_VH0 been_VBN known_VVN to_TO make_VVI CBC_NP1 ,_, but_CCB other_JJ methanotrophs_NN2 have_VH0 never_RR been_VBN reported_VVN to_TO make_VVI CBC_NP1 ._. 
+</s>
+<s>
+Since_CS methanotrophs_NN2 such_II21 as_II22 Methylomicrobium_NP1 album_NN1 BG8_FO and_CC Methylocystis_NP1 parvus_NN1 OBBP_NN1 need_VV0 copper_NN1 to_TO express_VVI pMMO_NN1 for_IF the_AT oxidation_NN1 of_IO methane_NN1 and_CC appear_VV0 not_XX to_TO possess_VVI CBC_NP1 ,_, they_PPHS2 either_RR have_VH0 a_AT1 different_JJ copper_NN1 uptake_NN1 mechanism_NN1 or_CC have_VH0 to_TO utilize_VVI the_AT CBC_NP1 made_VVD by_II other_JJ methanotrophs_NN2 ._. 
+</s>
+<s>
+This_DD1 independent_JJ study_NN1 was_VBDZ performed_VVN to_TO achieve_VVI two_MC goals_NN2 ._. 
+</s>
+<s>
+The_AT first_MD one_PN1 was_VBDZ to_TO determine_VVI if_CSW there_EX was_VBDZ an_AT1 interaction_NN1 among_II methanotrophs_NN2 for_IF copper_NN1 uptake_NN1 ;_; i.e._REX CBC_NP1 ,_, the_AT sole_JJ copper_NN1 uptake_NN1 mechanism_NN1 ._. 
+</s>
+<s>
+To_TO do_VDI so_RR ,_, three_MC methanotroph_NN1 strains_NN2 were_VBDR chosen_VVN ,_, M._NN1 trichosporium_NN1 OB3b_FO ,_, M._NN1 album_NN1 BG8_FO ,_, and_CC M._NN1 parvus_NN1 OBBP_NN1 to_TO compare_VVI their_APPGE growth_NN1 trends_NN2 in_II31 response_II32 to_II33 the_AT presence_NN1 of_IO CBC_NP1 in_II the_AT growth_NN1 media_NN ._. 
+</s>
+<s>
+The_AT second_MD goal_NN1 of_IO this_DD1 study_NN1 was_VBDZ to_TO acquire_VVI the_AT basic_JJ knowledge_NN1 and_CC technology_NN1 of_IO molecular_JJ analysis_NN1 ._. 
+</s>
+<s>
+Hence_RR ,_, the_AT characteristics_NN2 of_IO the_AT bacterial_JJ strains_NN2 were_VBDR investigated_VVN using_VVG naphthalene_NN1 assay_NN1 for_IF a_AT1 verification_NN1 of_IO sMMO_NN1 expression_NN1 ,_, trichloroethylene_NN1 (_( TCE_NP1 )_) degradation_NN1 ,_, polymerase_NN1 chain_NN1 reaction_NN1 (_( PCR_NP1 )_) ,_, gel_NN1 electrophoresis_NN1 (_( GE_NP1 )_) ,_, and_CC capillary_JJ electrophoresis_NN1 (_( CE_NP1 )_) ._. 
+</s>
+<s>
+M._NN1 trichosporium_NN1 OB3b_FO ,_, M._NN1 album_NN1 BG8_FO ,_, and_CC M._NN1 parvus_NN1 OBBP_NN1 were_VBDR grown_VVN at_II 30_MC on_II the_AT agar_NN1 plates_NN2 of_IO nitrate_NN1 mineral_NN1 salts_NN2 (_( NMS_NP1 )_) medium_NN1 with_IW the_AT presence_NN1 of_IO 10_MC M_NNO copper_NN1 as_CSA Cu(NO3)2_FO 5H2O_FO under_II a_AT1 methane-air_JJ mixture_NN1 (_( 1:2_MC ratio_NN1 )_) (_( 10_MC )_) and_CC cells_NN2 were_VBDR transferred_VVN to_II a_AT1 fresh_JJ NMS_NP1 liquid_JJ medium_NN1 ._. 
+</s>
+<s>
+The_AT liquid_JJ culture_NN1 medium_NN1 of_IO NMS_NP1 did_VDD not_XX exceed_VVI 15_MC %_NNU of_IO the_AT total_JJ flask_NN1 volume_NN1 to_TO prevent_VVI mass_JJ transfer_NN1 limitations_NN2 of_IO methane_NN1 and_CC oxygen_NN1 from_II the_AT headspace_NN1 to_II liquid_JJ medium_NN1 (_( 10_MC )_) ._. 
+</s>
+<s>
+Whole-cell_JJ sMMO_NN1 activity_NN1 of_IO M._NN1 trichosporium_NN1 OB3b_FO was_VBDZ examined_VVN using_VVG the_AT colorimetric_JJ naphthalene_NN1 assay_NN1 of_IO Brusseau_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 11_MC )_) ._. 
+</s>
+<s>
+Since_CS only_JJ sMMO_NN1 can_VM oxidize_VVI naphthalene_NN1 to_II 1-or_CC 2-naphthol_NN1 ,_, it_PPH1 could_VM be_VBI determined_VVN whether_CSW31 or_CSW32 not_CSW33 M._NN1 trichosporium_NN1 OB3b_FO expressed_JJ sMMO_NN1 rather_II21 than_II22 pMMO_NN1 depending_II21 on_II22 copper_NN1 concentration_NN1 by_II adding_VVG tetrazotized_JJ o-dianisidine_NN1 to_TO form_VVI a_AT1 purple_JJ naphthol_NN1 diazo_NN1 complex_NN1 (_( 12_MC )_) ._. 
+</s>
+<s>
+NMS_NP1 media_NN with_IW different_JJ copper_NN1 concentrations_NN2 ,_, either_RR 0_MC M_NNO or_CC 20_MC M_NNO ,_, were_VBDR prepared_VVN to_TO evaluate_VVI sMMO_NN1 expression_NN1 ._. 
+</s>
+<s>
+As_CSA M._NN1 trichosporium_NN1 OB3b_FO can_VM express_VVI either_RR sMMO_NN1 or_CC pMMO_NN1 ,_, all_DB flasks_NN2 were_VBDR acid-washed_JJ in_II 2_MC N_ZZ1 HNO3_FO for_IF 2_MC days_NNT2 and_CC 20_MC M_NNO copper_NN1 was_VBDZ added_VVN aseptically_RR as_CSA Cu(NO3)25H2O_FO ._. 
+</s>
+<s>
+Cells_NN2 were_VBDR grown_VVN until_CS they_PPHS2 were_VBDR in_II an_AT1 exponential_NN1 growth_NN1 phase_NN1 (_( optical_JJ density_NN1 (_( OD_NP1 )_) between_II 0.2_MC and_CC 0.5_MC )_) and_CC then_RT 2_MC ml_NNU of_IO the_AT liquid_JJ culture_NN1 was_VBDZ aseptically_RR transferred_VVN to_II 20_MC ml_NNU vials_NN2 ._. 
+</s>
+<s>
+Naphthalene_NN1 was_VBDZ then_RT added_VVN to_II the_AT cell-transferred_JJ vials_NN2 ,_, sealed_JJ and_CC incubated_VVD at_II 30_MC ,_, 270_MC rpm_NNU for_IF 1_MC1 hour_NNT1 ._. 
+</s>
+<s>
+35_MC l_NNU of_IO 5_MC N_NNU NaOH_NN1 was_VBDZ added_VVN to_II the_AT samples_NN2 to_TO disrupt_VVI cell_NN1 activities_NN2 ._. 
+</s>
+<s>
+1.5_MC ml_NNU of_IO the_AT samples_NN2 were_VBDR taken_VVN and_CC centrifuged_VVN at_II 12,000g_NNU for_IF 5_MC min_NNU ._. 
+</s>
+<s>
+Lastly_RR 130_MC l_NNU of_IO 4.21mM_NNU tetrazotized_JJ o-dianisidine_NN1 was_VBDZ added_VVN to_II 1.3_MC ml_NNU of_IO the_AT supernatant_NN1 for_IF the_AT absorbance_NN1 measurement_NN1 at_II 528_MC nm_FU using_VVG Milton_NP1 Roy_NP1 Company_NN1 Spectronic_JJ 20_MC ._. 
+</s>
+<s>
+Duplicate_JJ samples_NN2 were_VBDR measured_VVN ._. 
+</s>
+<s>
+Trichloroethylene_NP1 (_( TCE_NP1 )_) degradation_NN1 assay_NN1 was_VBDZ performed_VVN with_IW M._NN1 trichosporium_NN1 OB3b_FO given_VVN with_IW either_RR 0_MC M_NNO or_CC 20_MC M_NNO copper_NN1 as_CSA Cu(NO3)25H2O_FO to_TO evaluate_VVI the_AT ability_NN1 of_IO sMMO_NN1 and_CC pMMO-expressing_JJ cell_NN1 to_TO degrade_VVI chlorinated_JJ solvents_NN2 ._. 
+</s>
+<s>
+Stock_NN1 liquid_NN1 culture_NN1 was_VBDZ prepared_VVN as_CSA described_VVN earlier_RRR and_CC methane_NN1 was_VBDZ removed_VVN from_II the_AT stock_NN1 culture_NN1 flask_NN1 by_II evacuating_VVG the_AT flask_NN1 and_CC reequilibrating_VVG with_IW air_NN1 performing_NN1 seven_MC cycles_NN2 (_( 13_MC )_) ._. 
+</s>
+<s>
+3_MC ml_NNU of_IO the_AT stock_NN1 culture_NN1 was_VBDZ aseptically_RR transferred_VVN to_II 20_MC ml_NNU vials_NN2 with_IW Teflon-coated_JJ rubber_JJ butyl_NN1 stoppers_NN2 and_CC aluminum_NN1 crimp_NN1 caps_NN2 ,_, and_CC sealed_JJ (_( 13_MC )_) ._. 
+</s>
+<s>
+TCE_VV0 concentrations_NN2 for_IF standard_JJ calibration_NN1 curve_NN1 varied_VVN from_II 0_MC to_II 33_MC M_NNO in_II aqueous_JJ phase_NN1 ._. 
+</s>
+<s>
+9.8_MC M_NNU of_IO TCE_NN1 in_II the_AT aqueous_JJ phase_NN1 of_IO 20_MC ml_NNU vials_NN2 was_VBDZ added_VVN to_TO evaluate_VVI the_AT ability_NN1 of_IO M._NN1 trichosporium_NN1 OB3b_FO to_TO degrade_VVI TCE_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT role_NN1 of_IO formate_NN1 was_VBDZ investigated_VVN adding_VVG 20_MC mM_NNU of_IO formate_NN1 in_II the_AT form_NN1 of_IO sodium_NN1 formate_NN1 to_II the_AT samples_NN2 ._. 
+</s>
+<s>
+By_II using_VVG a_AT1 dimensionless_JJ Henry_NP1 's_GE constant_NN1 of_IO TCE_NN1 as_CSA 0.42_MC ,_, the_AT partitioning_NN1 amount_NN1 of_IO TCE_NN1 between_II the_AT liquid_JJ space_NN1 and_CC the_AT headspace_NN1 was_VBDZ calculated_VVN (_( 13_MC )_) ._. 
+</s>
+<s>
+The_AT 20_MC ml_NNU vials_NN2 containing_VVG cells_NN2 and_CC certain_JJ amount_NN1 of_IO TCE_NP1 were_VBDR incubated_VVN at_II 30_MC ,_, 270_MC rpm_NNU for_IF 6_MC hours_NNT2 ._. 
+</s>
+<s>
+Control_VV0 samples_NN2 for_IF monitoring_VVG any_DD abiotic_JJ losses_NN2 were_VBDR treated_VVN with_IW 50_MC l_NNU of_IO 5_MC N_NNU NaOH_NN1 to_TO lyse_VVI the_AT cells_NN2 (_( 13_MC )_) ._. 
+</s>
+<s>
+TCE_NP1 analysis_NN1 was_VBDZ performed_VVN using_VVG an_AT1 Hewlett_NP1 Packard_NP1 5890_MC Series_NN II_MC gas_NN1 chromatograph_NN1 with_IW an_AT1 FID_JJ detector_NN1 and_CC the_AT temperature_NN1 of_IO the_AT injector_NN1 ,_, oven_NN1 ,_, and_CC detector_NN1 were_VBDR 250_MC ,_, 120_MC ,_, and_CC 250_MC ,_, respectively_RR ._. 
+</s>
+<s>
+Triplicate_VV0 samples_NN2 were_VBDR prepared_VVN and_CC analyzed_VVN in_II the_AT experiment_NN1 ._. 
+</s>
+<s>
+All_DB gas_NN1 phase_NN1 concentrations_NN2 were_VBDR calculated_VVN by_II the_AT standard_JJ curve_NN1 equation_NN1 ._. 
+</s>
+<s>
+Since_CS M._NN1 album_NN1 BG8_FO has_VHZ been_VBN contaminated_VVN ,_, it_PPH1 had_VHD to_TO be_VBI purified_VVN before_II the_AT experiment_NN1 ._. 
+</s>
+<s>
+The_AT purification_NN1 was_VBDZ verified_VVN using_VVG nutrient_NN1 agar_NN1 evaluation_NN1 ,_, and_CC polymerase_NN1 chain_NN1 reaction_NN1 (_( PCR_NP1 )_) and_CC gel_NN1 electrophoresis_NN1 ._. 
+</s>
+<s>
+The_AT contaminated_JJ cells_NN2 were_VBDR diluted_VVN 10_MC ,_, 100_MC ,_, and_CC 1,000_MC times_NNT2 and_CC then_RT spread_VVN on_II NMS_NP1 agar_VV0 medium_JJ plates_NN2 to_TO pick_VVI up_RP some_DD colonies_NN2 of_IO M._NN1 album_NN1 BG8-like_JJ cells_NN2 ,_, all_DB of_IO which_DDQ were_VBDR aseptically_RR transferred_VVN to_II other_JJ NMS_NP1 agar_VV0 medium_JJ plates_NN2 and_CC nutrient_NN1 agar_NN1 medium_NN1 plates_NN2 at_II the_AT same_DA time_NNT1 and_CC the_AT contamination_NN1 was_VBDZ observed_VVN for_IF more_DAR than_CSN a_AT1 week_NNT1 ._. 
+</s>
+<s>
+By_II performing_VVG the_AT procedure_NN1 repeatedly_RR ,_, cells_NN2 that_CST could_VM grow_VVI on_II a_AT1 NMS_NP1 agar_NN1 medium_NN1 but_CCB not_XX on_II a_AT1 nutrient_NN1 agar_NN1 medium_NN1 were_VBDR finally_RR selected_VVN as_CSA potential_JJ M._NN1 album_NN1 BG8_FO ._. 
+</s>
+<s>
+A_AT1 microscope_NN1 was_VBDZ used_VVN to_TO verify_VVI the_AT rod_NN1 shape_NN1 of_IO M._NN1 album_NN1 BG8_FO ._. 
+</s>
+<s>
+A_AT1 simple_JJ staining_NN1 was_VBDZ conducted_VVN using_VVG methylene_NN1 blue_NN1 ._. 
+</s>
+<s>
+A_AT1 small_JJ amount_NN1 of_IO cells_NN2 was_VBDZ placed_VVN in_II a_AT1 drop_NN1 of_IO Milli_NP1 Q_ZZ1 water_NN1 on_II a_AT1 glass_NN1 slide_NN1 and_CC fixed_VVN by_II heating_VVG the_AT glass_NN1 slide_NN1 ._. 
+</s>
+<s>
+The_AT heat_NN1 fixed_JJ smear_NN1 was_VBDZ covered_VVN by_II 1_MC1 %_NNU of_IO methylene_NN1 blue_NN1 for_IF approximately_RR 1_MC1 min_NNU ,_, and_CC the_AT excess_JJ stain_NN1 was_VBDZ washed_VVN off_RP ._. 
+</s>
+<s>
+The_AT stained_JJ cells_NN2 were_VBDR observed_VVN using_VVG a_AT1 microscope_NN1 (_( Olympus_NP1 Tokyo_NP1 Model_NN1 E_ZZ1 324059_MC )_) ._. 
+</s>
+<s>
+PCR_NP1 and_CC gel_NN1 electrophoresis_NN1 were_VBDR conducted_VVN to_TO verify_VVI if_CSW the_AT purified_JJ M._NN1 album_NN1 BG8-supposed_NN1 cells_NN2 possessed_VVD pmoA_NN1 gene_NN1 but_CCB mmoX_NN1 gene_NN1 ._. 
+</s>
+<s>
+For_IF positive_JJ controls_NN2 and_CC a_AT1 negative_JJ control_NN1 ,_, both_DB2 M._NN1 trichosporium_NN1 OB3b_FO and_CC M._NN1 capsulatus_NN1 Bath_NP1 ,_, and_CC Escherichia_NP1 coli_NN2 were_VBDR used_VVN ,_, respectively_RR ._. 
+</s>
+<s>
+DNA_NN1 samples_NN2 of_IO the_AT bacteria_NN2 were_VBDR prepared_VVN using_VVG a_AT1 freezing-thawing_JJ method_NN1 and_CC a_AT1 beadbeater-using_JJ method_NN1 ,_, both_DB2 of_IO which_DDQ were_VBDR developed_VVN earlier_RRR (_( 14_MC )_) were_VBDR performed_VVN and_CC the_AT effectiveness_NN1 of_IO the_AT methods_NN2 were_VBDR compared_VVN each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+In_II the_AT freezing-thawing_JJ method_NN1 ,_, approximately_RR ten_MC loopful-amount_NN1 of_IO cells_NN2 in_II 1_MC1 ml_NNU of_IO TE_FW buffer_NN1 that_CST played_VVD a_AT1 role_NN1 in_II repressing_VVG the_AT activity_NN1 of_IO DNA_NN1 degrading_VVG enzyme_NN1 were_VBDR frozen_VVN at-70_MC for_IF 30_MC min_NNU ,_, boiled_VVN for_IF 10_MC min_NNU ,_, and_CC mixed_VVN strongly_RR for_IF 3_MC min_NNU using_VVG a_AT1 vortexing_JJ device_NN1 ._. 
+</s>
+<s>
+This_DD1 cycle_NN1 was_VBDZ repeated_VVN 3_MC times_NNT2 and_CC the_AT samples_NN2 were_VBDR finally_RR centrifuged_VVN at_II 13,000_MC rpm_NNU for_IF 5_MC min_NNU ._. 
+</s>
+<s>
+The_AT supernatants_NN2 were_VBDR taken_VVN as_CSA whole-cell_JJ DNA_NN1 samples_NN2 ._. 
+</s>
+<s>
+In_II the_AT other_JJ method_NN1 using_VVG a_AT1 beadbeater_NN1 ,_, 0.1_MC mm_NNU glass_NN1 beads_NN2 were_VBDR filled_VVN half_DB of_IO 2_MC ml_NNU Ependoff_NN1 tube_NN1 and_CC TE_FW buffer_NN1 was_VBDZ also_RR filled_VVN two-third_MD of_IO the_AT tube_NN1 ._. 
+</s>
+<s>
+The_AT same_DA amount_NN1 of_IO cells_NN2 used_VVN in_II the_AT freezing-thawing_JJ method_NN1 was_VBDZ placed_VVN in_II the_AT tube_NN1 ,_, shaken_VVN at_II 5,000_MC rpm_NNU for_IF 30_MC sec_NNU ,_, and_CC cooled_VVN in_II ice_NN1 water_NN1 for_IF 1_MC1 min_NNU ._. 
+</s>
+<s>
+Total_NN1 6_MC cycles_NN2 of_IO the_AT procedure_NN1 were_VBDR conducted_VVN and_CC the_AT samples_NN2 were_VBDR finally_RR centrifuged_VVN at_II 13,000_MC rpm_NNU for_IF 5_MC min_NNU ._. 
+</s>
+<s>
+The_AT supernatants_NN2 were_VBDR taken_VVN as_CSA whole-cell_JJ DNA_NN1 samples_NN2 ._. 
+</s>
+<s>
+The_AT recipe_NN1 of_IO PCR_NP1 is_VBZ shown_VVN in_II Table_NN1 1_MC1 and_CC the_AT condition_NN1 of_IO temperature_NN1 control_NN1 is_VBZ indicated_VVN in_II Table_NN1 2_MC ._. 
+</s>
+<s>
+Thermocycle_NN1 device_NN1 made_VVN by_II a_AT1 company_NN1 automatically_RR performed_VVD the_AT temperature_NN1 cycles_NN2 and_CC it_PPH1 kept_VVD the_AT samples_NN2 at_II 4_MC C_ZZ1 after_II finishing_VVG the_AT thermocycles_NN2 ._. 
+</s>
+<s>
+After_II completing_VVG the_AT PCR_NP1 ,_, 5_MC l_NNU of_IO sample_NN1 loading_NN1 buffer_NN1 made_VVN of_IO 20_MC %_NNU of_IO glycerol_NN1 and_CC bromophenol_NN1 blue_NN1 was_VBDZ added_VVN to_II each_DD1 sample_NN1 and_CC DNA_NN1 molecular_JJ weight_NN1 marker_NN1 (_( DNA_NN1 molecular_JJ weight_NN1 marker_NN1 VIII_MC ,_, 191114_MC bp_NNU ,_, Roche_NP1 )_) which_DDQ was_VBDZ prepared_VVN with_IW 20_MC l_NNU of_IO Milli_NP1 Q_ZZ1 water_NN1 and_CC 5_MC l_NNU of_IO the_AT marker_NN1 ._. 
+</s>
+<s>
+All_DB samples_NN2 were_VBDR briefly_RR centrifuged_VVN to_TO be_VBI mixed_VVN and_CC loaded_VVN into_II 1.8_MC %_NNU of_IO agarose_NN1 gel_NN1 with_IW TAE_II electrophoresis_NN1 buffer_NN1 (_( Tris-acetate-EDTA_NP1 made_VVD of_IO 0.04_MC M_NNO Tris-acetate_JJ and_CC 2_MC mM_NNU EDTA_NN1 ,_, pH_NN1 8_MC )_) and_CC 0.5_MC ppm_NNU of_IO ethidium_NN1 bromide_NN1 which_DDQ could_VM bind_VVI very_RG tightly_RR to_II DNA_NN1 molecules_NN2 and_CC form_VV0 a_AT1 strong_JJ fluorescent_JJ complex_NN1 resulting_VVG in_II being_VBG visualized_VVN by_II exposure_NN1 to_II UV_JJ light_NN1 ._. 
+</s>
+<s>
+Current_NN1 was_VBDZ applied_VVN as_CSA 125_MC volts_NNU2 for_CS 45_MC min_NNU ._. 
+</s>
+<s>
+The_AT separated_JJ PCR_NP1 products_NN2 in_II the_AT agarose_NN1 gel_NN1 were_VBDR exposed_VVN to_II a_AT1 strong_JJ UV_JJ light_NN1 using_VVG UV_JJ device_NN1 ._. 
+</s>
+<s>
+Gel_NN1 electrophoresis_NN1 is_VBZ able_JK to_TO show_VVI clear_JJ bands_NN2 of_IO PCR_NP1 products_NN2 under_II UV_JJ light_NN1 but_CCB it_PPH1 usually_RR requires_VVZ a_AT1 relatively_RR long_JJ time_NNT1 to_TO see_VVI the_AT results_NN2 of_IO PCR_NP1 ._. 
+</s>
+<s>
+However_RR ,_, much_RR more_RGR precise_JJ and_CC rapid_JJ results_NN2 of_IO PCR_NP1 products_NN2 can_VM be_VBI obtained_VVN using_VVG capillary_JJ electrophoresis_NN1 (_( CE_NP1 )_) ._. 
+</s>
+<s>
+P/ACETM_NP1 MDQ_NP1 capillary_JJ electrophoresis_NN1 system_NN1 from_II Beckman_NP1 Coulter_NP1 was_VBDZ used_VVN under_II the_AT condition_NN1 of_IO the_AT reverse_JJ polarity_NN1 mode_NN1 with_IW either_RR 4_MC kV_NNU or_CC 6_MC kV_NNU applied_JJ voltage_NN1 ._. 
+</s>
+<s>
+The_AT CE_NN1 separation_NN1 buffer_NN1 was_VBDZ prepared_VVN as_CSA described_VVN earlier_RRR in_II Han_NP1 and_CC Semrau_NP1 (_( 10_MC )_) ;_; 50_MC mM_NNU HEPES_NN2 sodium_NN1 salt_NN1 (_( N-2-hydroxylethylpiperazine-N'-2-ethanesulfonic_FU acid_NN1 )_) ,_, 65_MC mM_NNU boric_JJ acid_NN1 ,_, 0.5_MC %_NNU HPMC_NP1 (_( hydroxypropylmethylcellulose_NN1 )_) ,_, 6_MC %_NNU mannitol_NN1 ,_, and_CC 1_MC1 g/ml_NNU ethidium_NN1 bromid_NN1 ._. 
+</s>
+<s>
+The_AT final_JJ volume_NN1 of_IO the_AT buffer_NN1 was_VBDZ adjusted_VVN to_II 100_MC ml_NNU ._. 
+</s>
+<s>
+Since_II 6_MC %_NNU mannitol_NN1 made_VVD the_AT buffer_NN1 so_RG sticky_JJ and_CC bubbling_VVG that_CST the_AT buffer_NN1 had_VHD to_TO be_VBI degassed_VVN overnight_RT by_II a_AT1 stirring_JJ device_NN1 using_VVG a_AT1 low_JJ stirring_JJ speed_NN1 ._. 
+</s>
+<s>
+The_AT buffer_NN1 was_VBDZ then_RT sonicated_VVN for_IF 30_MC min_NNU to_TO completely_RR remove_VVI remained_VVN bubbles_NN2 and_CC stored_VVN in_II a_AT1 refrigerator_NN1 before_II CE_NP1 analysis_NN1 ._. 
+</s>
+<s>
+The_AT capillary_NN1 used_VVD was_VBDZ an_AT1 uncoated_JJ silica_NN1 capillary_NN1 whose_DDQGE total_JJ length_NN1 ,_, effective_JJ length_NN1 ,_, and_CC inner_JJ diameter_NN1 were_VBDR 31_MC cm_NNU ,_, 21_MC cm_NNU ,_, and_CC 75_MC m_NNO ,_, respectively_RR (_( 10_MC )_) ._. 
+</s>
+<s>
+Both_RR 0.2_MC N_NNU NaOH_NN1 and_CC 0.2_MC N_ZZ1 HCl_NP1 as_II31 well_II32 as_II33 the_AT separation_NN1 buffer_NN1 were_VBDR used_VVN to_TO rinse_VVI the_AT CE_NN1 capillary_NN1 before_II analyzing_VVG samples_NN2 ._. 
+</s>
+<s>
+Each_DD1 rinsing_JJ solution_NN1 rinsed_VVD the_AT capillary_NN1 for_IF 5_MC min_NNU in_II order_NN1 of_IO 0.2_MC N_NNU NaOH_NN1 ,_, 0.2_MC N_ZZ1 HCl_NP1 ,_, and_CC the_AT separation_NN1 buffer_NN1 under_II a_AT1 pressure_NN1 of_IO 25_MC ,_, 25_MC ,_, and_CC 30_MC psi_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+A_AT1 sample_NN1 was_VBDZ then_RT injected_VVN at_II 1_MC1 psi_NN1 for_IF 50_MC sec_NNU and_CC measured_VVN at_II 254_MC nm_FU of_IO UV_JJ detector_NN1 ._. 
+</s>
+<s>
+To_TO be_VBI sure_JJ of_IO the_AT CE_NN1 result_NN1 quality_NN1 ,_, all_DB CE_VV0 analysis_NN1 was_VBDZ performed_VVN after_II confirming_VVG that_CST the_AT current_NN1 was_VBDZ maintained_VVN consistently_RR during_II CE_NP1 analysis_NN1 ._. 
+</s>
+<s>
+Copper_NN1 analysis_NN1 was_VBDZ performed_VVN using_VVG an_AT1 atomic_JJ absorption_NN1 spectrophotometer_NN1 (_( Perkin-Elmer_NP1 ,_, model_NN1 Z5100_FO )_) with_IW a_AT1 furnace_NN1 mode_NN1 ._. 
+</s>
+<s>
+The_AT amount_NN1 of_IO sample_NN1 injection_NN1 was_VBDZ 20_MC l_NNU with_IW 5_MC l_NNU of_IO dilution_NN1 Milli_NN1 Q_ZZ1 water_NN1 ._. 
+</s>
+<s>
+All_DB samples_NN2 were_VBDR properly_RR diluted_VVN to_II a_AT1 final_JJ concentration_NN1 within_II 100_MC ppb_NNU because_CS the_AT detection_NN1 range_NN1 of_IO the_AT AA_NP1 instrument_NN1 was_VBDZ from_II 0_MC ppb_NNU to_II approximately_RR 100_MC ppb_NNU ._. 
+</s>
+<s>
+Energy_NN1 lamp_NN1 strength_NN1 was_VBDZ always_RR maintained_VVN over_RG 50_MC %_NNU ._. 
+</s>
+<s>
+Copper_NN1 samples_NN2 were_VBDR analyzed_VVN under_II the_AT presence_NN1 of_IO nitric_JJ acid_NN1 that_CST could_VM dissolve_VVI copper_NN1 bound_VVN to_II cell_NN1 materials_NN2 ._. 
+</s>
+<s>
+Since_CS heavy_JJ metals_NN2 tend_VV0 to_TO be_VBI precipitated_VVN with_IW ligands_NN2 depending_II21 on_II22 pH_NN1 conditions_NN2 ,_, copper_NN1 might_VM also_RR be_VBI bound_VVN to_II cells_NN2 or_CC precipitated_VVN in_II a_AT1 sample_NN1 ,_, which_DDQ might_VM cause_VVI error_NN1 in_II a_AT1 copper_NN1 analysis_NN1 due_II21 to_II22 the_AT unbalanced_JJ distribution_NN1 of_IO copper_NN1 concentration_NN1 in_II a_AT1 sample_NN1 vial_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, by_II making_VVG the_AT sample_NN1 be_VBI acidic_JJ ,_, copper_NN1 could_VM be_VBI present_JJ in_II a_AT1 dissolved_JJ form_NN1 in_II the_AT liquid_JJ sample_NN1 ._. 
+</s>
+<s>
+The_AT proper_JJ concentration_NN1 of_IO nitric_JJ acid_NN1 was_VBDZ investigated_VVN analyzing_VVG a_AT1 known_JJ copper_NN1 concentration_NN1 solution_NN1 with_IW different_JJ concentration_NN1 of_IO nitric_JJ acid_NN1 ranging_VVG from_II 2_MC %_NNU to_II 10_MC %_NNU ._. 
+</s>
+<s>
+MB_NNU was_VBDZ isolated_VVN from_II the_AT spent_JJ medium_NN1 of_IO M._NN1 trichosporium_NN1 OB3b_FO and_CC treated_VVN with_IW either_RR copper_JJ or_CC EDTA_NP1 :_: copper-bound_JJ MB_NNU and_CC EDTA-treated_JJ MB_NNU ._. 
+</s>
+<s>
+The_AT copper_NN1 concentrations_NN2 of_IO the_AT treated_JJ MB_NNU and_CC the_AT original_JJ MB_NNU were_VBDR analyzed_VVN ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT copper_NN1 concentration_NN1 of_IO a_AT1 fraction_NN1 of_IO MB_NNU eluted_VVD from_II HP20_FO column_NN1 after_II regeneration_NN1 was_VBDZ measured_VVN as_RR21 well_RR22 ._. 
+</s>
+<s>
+Stock_NN1 solutions_NN2 of_IO each_DD1 sample_NN1 were_VBDR prepared_VVN dissolving_VVG 10_MC mg_NNU of_IO each_DD1 sample_NN1 into_II 1_MC1 ml_NNU of_IO Milli_NP1 Q_ZZ1 water_NN1 ._. 
+</s>
+<s>
+The_AT samples_NN2 were_VBDR diluted_VVN 1,000_MC to_II 3,300_MC times_NNT2 depending_II21 on_II22 the_AT copper_NN1 concentrations_NN2 before_II injecting_VVG to_II the_AT AA_NP1 instrument_NN1 ._. 
+</s>
+<s>
+M._NN1 parvus_NN1 OBBP_NN1 was_VBDZ grown_VVN under_II the_AT presence_NN1 of_IO CBC_NP1 to_TO evaluate_VVI the_AT effect_NN1 of_IO CBC_NP1 on_II the_AT growth_NN1 of_IO M._NN1 parvus_NN1 OBBP_NN1 ._. 
+</s>
+<s>
+A_AT1 stock_NN1 liquid_NN1 culture_NN1 was_VBDZ prepared_VVN as_CSA described_VVN earlier_RRR including_II 10_MC M_NNU of_IO copper_NN1 as_CSA Cu(NO3)2_FO 5H2O_FO ._. 
+</s>
+<s>
+After_II harvesting_VVG cells_NN2 in_II the_AT exponential_NN1 growth_NN1 phase_NN1 ,_, cells_NN2 were_VBDR washed_VVN with_IW pre-warmed_JJ fresh_JJ NMS_NP1 medium_NN1 to_TO remove_VVI loosely_RR cell-bound_JJ copper_NN1 ,_, and_CC resuspended_VVD on_II 50_MC ml_NNU of_IO NMS_NP1 medium_JJ samples_NN2 with_IW different_JJ MB_NNU and_CC copper_NN1 concentration_NN1 ._. 
+</s>
+<s>
+Two_MC kinds_NN2 of_IO MB_NNU were_VBDR added_VVN to_II the_AT M._NN1 parvus_NN1 OBBP_NN1 cultures_NN2 :_: copper-bound_JJ MB_NNU and_CC EDTA-treated_JJ MB_NNU ._. 
+</s>
+<s>
+Since_CS MB_NNU could_VM be_VBI destroyed_VVN by_II heating_NN1 ,_, it_PPH1 was_VBDZ added_VVN to_II the_AT culture_NN1 after_II autoclaving_VVG the_AT medium_NN1 ._. 
+</s>
+<s>
+The_AT copper_NN1 concentrations_NN2 for_IF the_AT samples_NN2 were_VBDR either_RR 0_MC or_CC 10_MC M._NNO In_RR21 addition_RR22 ,_, a_AT1 negative_JJ control_NN1 was_VBDZ prepared_VVN adding_VVG neither_RR copper_JJ nor_CC MB_NNU to_II the_AT M._NN1 parvus_NN1 OBBP_NN1 culture_NN1 and_CC a_AT1 positive_JJ control_NN1 adding_VVG just_RR 10_MC M_NNO copper_NN1 to_II the_AT culture_NN1 ._. 
+</s>
+<s>
+An_AT1 optical_JJ density_NN1 of_IO each_DD1 sample_NN1 was_VBDZ measured_VVN at_II 600_MC nm_FU ._. 
+</s>
+<s>
+After_II completing_VVG the_AT growth_NN1 monitoring_NN1 ,_, copper_NN1 concentrations_NN2 of_IO the_AT spent_JJ media_NN were_VBDR analyzed_VVN ._. 
+</s>
+<s>
+Table_NN1 3_MC indicates_VVZ the_AT results_NN2 of_IO optical_JJ density_NN1 at_II 528_MC nm_FU depending_II21 on_II22 different_JJ copper_NN1 concentration_NN1 ._. 
+</s>
+<s>
+The_AT naphthalene_NN1 assay_NN1 is_VBZ based_VVN on_II the_AT fact_NN1 that_CST only_JJ sMMO_NN1 can_VM oxidize_VVI naphthalene_NN1 to_II 1-or_CC 2-naphthol_NN1 ._. 
+</s>
+<s>
+While_CS the_AT color_NN1 of_IO the_AT 20_MC M-copper_JJ sample_NN1 was_VBDZ not_XX changed_VVN ,_, the_AT naphthol_NN1 diazo_NN1 complex_JJ samples_NN2 of_IO 0_MC M_NNO copper_NN1 were_VBDR in_II bright_JJ purple_JJ color_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT results_NN2 ,_, 0_MC M_NNO copper_JJ condition_NN1 made_VVD M._NN1 trichosporium_NN1 OB3b_FO to_TO express_VVI sMMO_NN1 and_CC oxidize_VVI naphthalene_NN1 to_II 1-or_CC 2-naphthol_NN1 ;_; on_II the_AT other_JJ hand_NN1 ,_, 20_MC M_NNO copper_JJ condition_NN1 to_TO express_VVI pMMO_NN1 that_CST could_VM not_XX oxidize_VVI naphthalene_NN1 ._. 
+</s>
+<s>
+These_DD2 results_NN2 were_VBDR well_RR matched_VVN with_IW the_AT known_JJ fact_NN1 that_CST M._NN1 trichosporium_NN1 OB3b_FO can_VM express_VVI either_RR sMMO_NN1 or_CC pMMO_NN1 depending_II21 on_II22 copper_NN1 concentration_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+The_AT standard_JJ concentrations_NN2 for_IF the_AT calibration_NN1 varied_VVN from_II 0_MC to_II 33_MC M_NNO in_II the_AT gas_NN1 phase_NN1 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 shows_VVZ a_AT1 standard_JJ curve_NN1 between_II TCE_NP1 concentration_NN1 in_II gas_NN1 phase_NN1 and_CC peak_NN1 area_NN1 ._. 
+</s>
+<s>
+Figure_NN1 2_MC indicates_VVZ TCE_NN1 concentrations_NN2 in_II the_AT gas_NN1 phase_NN1 of_IO the_AT 20_MC ml_NNU tube_NN1 samples_NN2 after_II 6_MC hour_NNT1 incubation_NN1 with_IW the_AT initial_JJ TCE_NN1 concentration_NN1 of_IO 4.12_MC M_NNO in_II the_AT gas_NN1 phase_NN1 ._. 
+</s>
+<s>
+Although_CS all_DB gas_NN1 phase_NN1 concentrations_NN2 were_VBDR calculated_VVN by_II the_AT standard_JJ curve_NN1 equation_NN1 ,_, two_MC data_NN of_IO GC_NP1 peak_NN1 area_NN1 ,_, 0_MC M_NNO and_CC F_ZZ1 0_MC M_NNO samples_NN2 in_II Figure_NN1 2_MC (_( b_ZZ1 )_) ,_, were_VBDR converted_VVN to_II the_AT concentration_NN1 using_VVG just_RR two_MC points_NN2 of_IO the_AT standard_JJ concentration_NN1 because_CS the_AT peak_NN1 areas_NN2 were_VBDR too_RG small_JJ to_TO be_VBI calculated_VVN by_II the_AT standard_JJ curve_NN1 ._. 
+</s>
+<s>
+Since_CS M._NN1 trichosporium_NN1 OB3b_FO has_VHZ been_VBN known_VVN to_TO express_VVI either_RR pMMO_NN1 or_CC sMMO_NN1 depending_II21 on_II22 copper_NN1 availability_NN1 (_( 3_MC )_) ,_, M._NN1 trichosporium_NN1 OB3b_FO was_VBDZ expected_VVN to_TO express_VVI pMMO_NN1 under_RG 20_MC M_NNO copper_JJ concentration_NN1 (_( Figure_NN1 2_MC (_( a_ZZ1 )_) )_) and_CC sMMO_NN1 under_RG 0_MC M_NNO copper_JJ concentration_NN1 (_( Figure_NN1 2_MC (_( b_ZZ1 )_) )_) ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II the_AT two_MC figures_NN2 ,_, sMMO_NN1 showed_VVD approximately_RR 10_MC times_NNT2 higher_JJR rate_NN1 in_II TCE_NP1 degradation_NN1 than_CSN pMMO_NN1 and_CC TCE_NP1 degradation_NN1 efficiency_NN1 by_II M._NN1 trichosporium_NN1 OB3b_FO grown_VVN with_IW 20_MC mM_NNU formate_NN1 was_VBDZ 7_MC %_NNU higher_JJR than_CSN that_DD1 with_IW no_AT formate_NN1 ._. 
+</s>
+<s>
+Table_NN1 4_MC shows_VVZ the_AT TCE_NN1 degradation_NN1 rate_NN1 of_IO the_AT samples_NN2 ._. 
+</s>
+<s>
+These_DD2 results_NN2 were_VBDR also_RR well_RR matched_VVN with_IW those_DD2 of_IO the_AT naphthalene_NN1 assay_NN1 ._. 
+</s>
+<s>
+Two_MC kinds_NN2 of_IO potential_JJ M._NN1 album_NN1 BG_NP1 8_MC could_VM be_VBI picked_VVN up_RP from_II contaminated_JJ plates_NN2 ;_; one_PN1 was_VBDZ from_II a_AT1 very_RG small_JJ colony_NN1 in_II light_JJ yellow_JJ ,_, and_CC the_AT other_JJ from_II a_AT1 streak_NN1 ._. 
+</s>
+<s>
+The_AT two_MC potential_JJ samples_NN2 were_VBDR spread_VVN on_II NMS_NP1 and_CC nutrient_NN1 agar_NN1 media_NN at_II the_AT same_DA time_NNT1 ._. 
+</s>
+<s>
+After_II 5_MC days_NNT2 of_IO the_AT incubation_NN1 ,_, the_AT colony_NN1 samples_NN2 showed_VVD much_RR higher_JJR cells_NN2 on_II NMS_NP1 media_NN and_CC much_DA1 less_DAR cells_NN2 on_II nutrient_NN1 agar_NN1 media_NN than_CSN the_AT streak_NN1 sample_NN1 ,_, suggesting_VVG that_CST the_AT colony_NN1 sample_NN1 had_VHD contained_VVN much_DA1 more_DAR methanotrophs_NN2 than_CSN the_AT streak_NN1 sample_NN1 ._. 
+</s>
+<s>
+The_AT colony_NN1 samples_NN2 were_VBDR then_RT diluted_VVN and_CC transferred_VVN to_II fresh_JJ NMS_NP1 media_NN repeatedly_RR ._. 
+</s>
+<s>
+Finally_RR cleaned_VVN cells_NN2 from_II the_AT contaminated_JJ cells_NN2 showed_VVD no_AT growth_NN1 on_II a_AT1 nutrient_NN1 agar_NN1 medium_NN1 but_CCB on_II a_AT1 NMS_NP1 medium_NN1 ._. 
+</s>
+<s>
+The_AT purified_JJ M._NN1 album_NN1 BG_NP1 8-like_JJ cells_NN2 and_CC M._NN1 album_NN1 BG_NP1 8_MC that_CST had_VHD been_VBN stored_VVN in_II a_AT1 refrigerator_NN1 for_IF 6_MC years_NNT2 were_VBDR observed_VVN using_VVG a_AT1 microscope_NN1 ._. 
+</s>
+<s>
+Simple_JJ staining_NN1 with_IW 1_MC1 %_NNU of_IO methlylene_NN1 blue_NN1 showed_VVD the_AT shape_NN1 of_IO the_AT cells_NN2 ._. 
+</s>
+<s>
+Both_DB2 of_IO the_AT cells_NN2 seemed_VVD to_TO be_VBI a_AT1 round_JJ shape_NN1 and_CC seemed_VVD alike_RR much_RR ._. 
+</s>
+<s>
+Also_RR there_EX were_VBDR no_AT other_JJ shapes_NN2 of_IO cells_NN2 except_II21 for_II22 the_AT round_JJ type_NN1 ,_, so_CS they_PPHS2 might_VM not_XX to_TO be_VBI contaminated_VVN by_II other_JJ microorganisms_NN2 ._. 
+</s>
+<s>
+The_AT PCR_NP1 product_NN1 bands_NN2 shown_VVN in_II Figure_NN1 3_MC were_VBDR obtained_VVN using_VVG the_AT freezing-thawing_JJ method_NN1 ._. 
+</s>
+<s>
+While_CS pmoA_NN1 gene_NN1 indicated_VVD strong_JJ bands_NN2 of_IO both_DB2 M._NN1 trichosporium_NN1 OB3b_FO and_CC M._NN1 album_NN1 BG8_FO ,_, mmoX_NN1 gene_NN1 rarely_RR showed_VVD any_DD bands_NN2 except_II21 for_II22 one_MC1 weak_JJ band_NN1 (_( marked_VVN with_IW a_AT1 circle_NN1 )_) in_II Figure_NN1 3_MC (_( b_ZZ1 )_) ._. 
+</s>
+<s>
+After_CS some_DD consecutive_JJ results_NN2 of_IO no_AT PCR_NP1 products_NN2 in_II mmoX_NN1 gene_NN1 such_II21 as_II22 Figure_NN1 3_MC (_( a_ZZ1 )_) ,_, the_AT quality_NN1 of_IO the_AT primer_NN1 set_NN1 of_IO mmoX_NN1 gene_NN1 were_VBDR suspected_VVN ,_, so_CS they_PPHS2 were_VBDR replaced_VVN with_IW another_DD1 one_PN1 which_DDQ was_VBDZ also_RR not_XX a_AT1 new_JJ one_PN1 ._. 
+</s>
+<s>
+With_IW the_AT replaced_JJ mmoX_NN1 primer_NN1 set_NN1 ,_, a_AT1 weak_JJ PCR_NP1 product_NN1 of_IO mmoX_NN1 gene_NN1 of_IO M._NN1 trichosporium_NN1 OB3b_FO could_VM be_VBI obtained_VVN (_( Figure_NN1 3_MC (_( b_ZZ1 )_) )_) ._. 
+</s>
+<s>
+However_RR ,_, no_AT PCR_NP1 product_NN1 of_IO mmoX_NN1 gene_NN1 of_IO M._NN1 album_NN1 BG8_FO was_VBDZ shown_VVN in_II all_DB the_AT PCR_NP1 experiments_NN2 ._. 
+</s>
+<s>
+The_AT unexpected_JJ results_NN2 of_IO mmoX_NN1 gene_NN1 of_IO M._NN1 trichosporium_NN1 OB3b_FO might_VM result_VVI from_II either_RR the_AT poor_JJ quality_NN1 of_IO the_AT primer_NN1 set_NN1 or_CC not_XX proper_JJ method_NN1 of_IO DNA_NN1 sample_NN1 preparation_NN1 ,_, or_CC both_DB2 of_IO them_PPHO2 ._. 
+</s>
+<s>
+With_IW the_AT same_DA DNA_NN1 preparation_NN1 method_NN1 ,_, a_AT1 freezing-thawing_JJ method_NN1 ,_, the_AT following_JJ PCR_NP1 products_NN2 shown_VVN in_II Figure_NN1 4_MC and_CC 5_MC were_VBDR obtained_VVN using_VVG three_MC different_JJ methanotrophs_NN2 :_: M._NN1 trichosporium_NN1 OB3b_FO ,_, M._NN1 capsulatus_NN1 Bath_NP1 and_CC M._NN1 album_NN1 BG8_FO ._. 
+</s>
+<s>
+Both_DB2 M._NN1 trichosporium_NN1 OB3b_FO and_CC M._NN1 capsulatus_NN1 Bath_NP1 were_VBDR used_VVN as_CSA positive_JJ controls_NN2 in_II producing_VVG the_AT products_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 at_II the_AT same_DA time_NNT1 ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Figure_NN1 4_MC ,_, M._NN1 capsulatus_NN1 Bath_NP1 showed_VVD two_MC clear_JJ bands_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 as_CSA expected_VVN ,_, but_CCB no_AT bands_NN2 of_IO M._NN1 trichosporium_NN1 OB3b_FO was_VBDZ indicated_VVN ._. 
+</s>
+<s>
+However_RR ,_, the_AT reverse_JJ results_NN2 of_IO those_DD2 in_II Figure_NN1 4_MC were_VBDR obtained_VVN in_II Figure_NN1 5_MC ;_; M._NN1 trichosporium_NN1 OB3b_FO showed_VVD two_MC distinguish_VV0 bands_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 ,_, but_CCB M._NN1 capsulatus_NN1 Bath_NP1 did_VDD not_XX ._. 
+</s>
+<s>
+Although_CS one_MC1 of_IO two_MC positive_JJ controls_NN2 for_IF the_AT detection_NN1 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 did_VDD not_XX work_VVI properly_RR at_II the_AT same_DA time_NNT1 in_II the_AT two_MC PCR_NP1 experiments_NN2 and_CC nothing_PN1 was_VBDZ surely_RR confirmed_VVN ,_, a_AT1 clear_JJ PCR_NP1 product_NN1 of_IO only_JJ pmoA_NN1 gene_NN1 of_IO M._NN1 album_NN1 BG_NP1 8-like_JJ cells_NN2 was_VBDZ shown_VVN in_II all_DB PCR_NP1 experiments_NN2 and_CC also_RR the_AT negative_JJ control_NN1 of_IO E._NP1 coli_NN2 showed_VVD no_AT products_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT cleaned_JJ M._NN1 album_NN1 BG_NP1 8-like_JJ cells_NN2 obtained_VVD another_DD1 positive_JJ evidence_NN1 for_IF real_JJ M._NN1 album_NN1 BG_NP1 8_MC ._. 
+</s>
+<s>
+CE_NP1 performance_NN1 for_IF DNA_NN1 molecular_JJ marker_NN1 VIII_MC from_II Roche_NP1 (_( 0.25_MC g/l_NNU ,_, molecular_JJ size_NN1 1,114_MC 19_MC bp_NNU )_) was_VBDZ conducted_VVN to_TO make_VVI sure_JJ of_IO the_AT separation_NN1 quality_NN1 of_IO the_AT marker_NN1 prior_II21 to_II22 an_AT1 analysis_NN1 of_IO PCR_NP1 products_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 ._. 
+</s>
+<s>
+Han_NP1 (_( 10_MC )_) applied_VVD 1.0_MC psi_NN1 for_IF 50_MC sec_NNU and_CC 4_MC kV_NNU for_IF 25_MC min_NNU for_IF sample_NN1 injection_NN1 pressure_NN1 and_CC separation_NN1 voltage_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+With_IW the_AT same_DA conditions_NN2 as_CSA Han_NP1 (_( 10_MC )_) ,_, the_AT separation_NN1 of_IO DNA_NN1 molecular_JJ marker_NN1 VIII_MC was_VBDZ performed_VVN and_CC Figure_NN1 6_MC showed_VVD the_AT results_NN2 and_CC a_AT1 semi-log_NN1 graph_NN1 between_II molecular_JJ size_NN1 (_( bp_NNU )_) and_CC retention_NN1 time_NNT1 (_( RT_NP1 )_) ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT composition_NN1 datum_NN1 of_IO the_AT DNA_NN1 marker_NN1 offered_VVN by_II Roche_NP1 (_( Figure_NN1 7_MC )_) ,_, the_AT separation_NN1 quality_NN1 using_VVG Han_NP1 (_( 10_MC )_) 's_GE method_NN1 was_VBDZ quite_RG good_JJ except_II21 for_II22 the_AT baseline_NN1 at_II the_AT end_NN1 of_IO the_AT analysis_NN1 ._. 
+</s>
+<s>
+So_RR ,_, better_JJR separation_NN1 quality_NN1 and_CC faster_JJR method_NN1 was_VBDZ investigated_VVN changing_VVG the_AT sample_NN1 injection_NN1 pressure_NN1 and_CC separation_NN1 voltage_NN1 based_VVN on_II the_AT Han_NP1 's_GE method_NN1 (_( 10_MC )_) ._. 
+</s>
+<s>
+Figure_NN1 8_MC indicated_VVD the_AT results_NN2 of_IO the_AT modified_JJ method_NN1 of_IO Han_NP1 (_( 10_MC )_) ._. 
+</s>
+<s>
+With_IW 0.5_MC psi_NN1 for_IF 30_MC sec_NNU and_CC 6_MC kV_NNU for_IF 15_MC min_NNU for_IF sample_NN1 injection_NN1 pressure_NN1 and_CC separation_NN1 voltage_NN1 ,_, respectively_RR ,_, the_AT separation_NN1 quality_NN1 was_VBDZ good_JJ enough_RR to_TO distinguish_VVI each_DD1 peak_NN1 ,_, it_PPH1 was_VBDZ faster_JJR to_TO separate_VVI all_DB peaks_NN2 ,_, and_CC the_AT baseline_NN1 during_II the_AT analysis_NN1 was_VBDZ fairly_RR good_JJ ._. 
+</s>
+<s>
+The_AT current_NN1 was_VBDZ maintained_VVN as-20_MC A_ZZ1 during_II the_AT CE_NN1 analysis_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT DNA_NN1 marker_NN1 separation_NN1 was_VBDZ conducted_VVN with_IW the_AT same_DA method_NN1 as_CSA the_AT modified_JJ method_NN1 except_II21 for_II22 the_AT applied_JJ voltage_NN1 8_MC kV_NNU instead_II21 of_II22 6_MC kV_NNU to_TO make_VVI the_AT analysis_NN1 much_RR faster_RRR ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Figure_NN1 9_MC ,_, the_AT separation_NN1 of_IO the_AT peaks_NN2 performed_VVN at_II 8_MC kV_NNU was_VBDZ good_JJ enough_RR and_CC the_AT analyzing_JJ time_NNT1 was_VBDZ shorter_JJR ,_, but_CCB the_AT base_NN1 line_NN1 was_VBDZ not_XX as_RG good_JJ as_CSA that_DD1 of_IO 6_MC kV_NNU ._. 
+</s>
+<s>
+PCR_NP1 products_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 of_IO M._NN1 capsulatus_NN1 Bath_NP1 were_VBDR detected_VVN using_VVG CE_NN1 analysis_NN1 ._. 
+</s>
+<s>
+The_AT growth_NN1 condition_NN1 of_IO M._NN1 capsulatus_NN1 Bath_NP1 was_VBDZ the_AT same_DA as_CSA shown_VVN in_II Materials_NN2 and_CC method_NN1 ._. 
+</s>
+<s>
+DNA_NN1 samples_NN2 were_VBDR prepared_VVN using_VVG the_AT beadbeater-using_JJ method_NN1 ._. 
+</s>
+<s>
+Although_CS the_AT same_DA method_NN1 as_CSA used_VVN in_II the_AT previous_JJ PCR_NP1 experiments_NN2 was_VBDZ applied_VVN ,_, PCR_NP1 products_NN2 did_VDD not_XX clearly_RR shown_VVN on_II both_RR gel_VV0 and_CC capillary_JJ electrophoresis_NN1 (_( data_NN not_XX shown_VVN )_) ._. 
+</s>
+<s>
+So_RR ,_, each_DD1 PCR_NP1 chemical_NN1 and_CC DNA_NN1 samples_NN2 were_VBDR analyzed_VVN using_VVG CE_NN1 to_TO figure_VVI what_DDQ shape_NN1 of_IO peaks_NN2 could_VM be_VBI indicated_VVN on_II CE_NP1 ._. 
+</s>
+<s>
+Figure_NN1 10_MC shows_VVZ each_DD1 peak_NN1 of_IO the_AT chemicals_NN2 and_CC DNA_NN1 samples_NN2 ._. 
+</s>
+<s>
+One_MC1 suspected_JJ thing_NN1 from_II Figure_NN1 10_MC was_VBDZ that_CST the_AT peaks_NN2 of_IO the_AT primer_NN1 sets_NN2 were_VBDR much_RR smaller_JJR than_CSN those_DD2 of_IO dNTPs_NNU ._. 
+</s>
+<s>
+Actually_RR the_AT primer_NN1 sets_NN2 were_VBDR not_XX fresh_JJ ones_NN2 and_CC also_RR they_PPHS2 had_VHD been_VBN stored_VVN even_RR in_II a_AT1 refrigerator_NN1 with_IW no_AT power_NN1 for_IF about_RG 2_MC days_NNT2 due_II21 to_II22 the_AT US-nationwide_JJ power_NN1 failure_NN1 in_II 2003_MC ._. 
+</s>
+<s>
+Hence_RR ,_, the_AT concentration_NN1 of_IO the_AT primer_NN1 sets_NN2 was_VBDZ adjusted_VVN to_II 0.4_MC M_NNU (_( proper_JJ concentration_NN1 range_NN1 of_IO a_AT1 primer_NN1 set_NN1 is_VBZ 0.1_MC 0.6_MC M_NNU )_) and_CC the_AT amount_NN1 of_IO each_DD1 primer_NN1 set_NN1 was_VBDZ recalculated_VVN according_II21 to_II22 the_AT information_NN1 shown_VVN on_II the_AT labels_NN2 of_IO the_AT primer_NN1 sets_NN2 ._. 
+</s>
+<s>
+The_AT information_NN1 on_II each_DD1 label_NN1 was_VBDZ as_CSA follows_VVZ :_: pmof_VV0 334_MC (_( MW=6,885.5_FO )_) ;_; 2.3_MC OD260_FO =_FO 10.8_MC nmol_VV0 =_FO 0.07_MC mg_NNU ._. 
+</s>
+<s>
+That_DD1 information_NN1 was_VBDZ not_XX enough_RR to_TO calculate_VVI the_AT required_JJ amount_NN1 of_IO the_AT primer_NN1 sets_NN2 ,_, so_CS the_AT total_JJ volume_NN1 of_IO each_DD1 primer_NN1 was_VBDZ assumed_VVN 1.8_MC ml_NNU which_DDQ was_VBDZ the_AT volume_NN1 of_IO the_AT primer-contained_JJ vial_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT information_NN1 ,_, the_AT required_JJ amount_NN1 of_IO each_DD1 primer_NN1 set_NN1 was_VBDZ calculated_VVN as_CSA 0.4_MC M_NNO in_II 25_MC l_NNU of_IO a_AT1 sample_NN1 ._. 
+</s>
+<s>
+The_AT amount_NN1 of_IO each_DD1 primer_NN1 of_IO pmof_NN1 334_MC ,_, pmor_NN1 640_MC ,_, mmoxf_VV0 882_MC ,_, and_CC mmoxr_VV0 1403_MC were_VBDR 1.77_MC ,_, 0.64_MC ,_, 1.11_MC ,_, and_CC 0.49_MC l_NNU ,_, respectively_RR ._. 
+</s>
+<s>
+Figure_NN1 11_MC shows_VVZ the_AT results_NN2 of_IO CE_NP1 analysis_NN1 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 using_VVG either_RR the_AT pre-existed_JJ amount_NN1 of_IO each_DD1 primer_NN1 (_( Figure_NN1 11_MC (_( a_ZZ1 )_) )_) or_CC the_AT recalculated_JJ amount_NN1 of_IO each_DD1 primer_NN1 (_( Figure_NN1 11_MC (_( b_ZZ1 )_) )_) ._. 
+</s>
+<s>
+With_IW the_AT same_DA PCR_NP1 products_NN2 as_CSA shown_VVN in_II Figure_NN1 11_MC (_( b_ZZ1 )_) ,_, CE_NP1 analysis_NN1 was_VBDZ conducted_VVN and_CC the_AT peaks_NN2 of_IO the_AT PCR_NP1 products_NN2 are_VBR indicated_VVN in_II Figure_NN1 12_MC ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Figure_NN1 11_MC (_( b_ZZ1 )_) and_CC Figure_NN1 12_MC (_( a_AT1 and_CC b_ZZ1 )_) ,_, clear_JJ bands_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 appeared_VVD on_RP both_RR GE_NP1 and_CC CE_VV0 results_NN2 ._. 
+</s>
+<s>
+The_AT sizes_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 were_VBDR 327_MC bp_NNU and_CC 547_MC bp_NNU according_II21 to_II22 the_AT DNA_NN1 marker_NN1 ._. 
+</s>
+<s>
+The_AT two_MC obvious_JJ results_NN2 were_VBDR the_AT clearest_JJT results_NN2 after_II changing_VVG the_AT DNA_NN1 sample_NN1 preparation_NN1 method_NN1 and_CC adjusting_VVG the_AT concentration_NN1 of_IO the_AT primer_NN1 sets_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, both_RR gel_VV0 and_CC capillary_JJ electrophoresis_NN1 results_NN2 were_VBDR well_RR matched_VVN each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+5_MC %_NNU of_IO nitric_JJ acid_NN1 showed_VVD a_AT1 proper_JJ concentration_NN1 of_IO copper_NN1 ,_, so_RR all_DB copper_JJ analysis_NN1 were_VBDR performed_VVN under_II the_AT presence_NN1 of_IO 5_MC %_NNU of_IO nitric_JJ acid_NN1 ._. 
+</s>
+<s>
+Copper_NN1 concentrations_NN2 of_IO four_MC different_JJ MB_NNU are_VBR shown_VVN in_II Table_NN1 5_MC and_CC Figure_NN1 13_MC ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT results_NN2 ,_, MB_NNU was_VBDZ proved_VVN to_TO have_VHI a_AT1 high_JJ affinity_NN1 to_II copper_NN1 binding_VVG approximately_RR 260_MC time-higher_JJR copper_NN1 amount_NN1 of_IO original_JJ MB_NNU ._. 
+</s>
+<s>
+Also_RR ,_, MB_NNU could_VM still_RR retain_VVI about_RG 11_MC %_NNU of_IO the_AT total_JJ copper_NN1 amount_NN1 even_RR after_II the_AT ethylenediaminetetraacetic_JJ acid_NN1 (_( EDTA_NP1 )_) treatment_NN1 ._. 
+</s>
+<s>
+M._NN1 parvus_NN1 OBBP_NN1 growth_NN1 was_VBDZ monitored_VVN under_II the_AT presence_NN1 of_IO 20_MC mg/L_NNU of_IO MB_NNU ._. 
+</s>
+<s>
+Figure_NN1 14_MC and_CC 15_MC shows_VVZ the_AT growth_NN1 curve_NN1 of_IO the_AT optical_JJ density_NN1 and_CC the_AT relative_JJ optical_JJ density_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+As_CSA shown_VVN on_II the_AT graphs_NN2 ,_, M._NN1 parvus_NN1 OBBP_NN1 grown_VVN with_IW MB-Cu_FO did_VDD not_XX show_VVI any_DD growth_NN1 in_II both_DB2 0_MC M_NNO and_CC 10_MC M_NNO copper_JJ concentrations_NN2 of_IO NMS_NP1 media_NN ;_; however_RR ,_, M._NN1 parvus_NN1 OBBP_NN1 grown_VVN with_IW MB-EDTA_NP1 was_VBDZ grown_VVN well_RR similar_JJ to_II the_AT positive_JJ control_NN1 ,_, M._NN1 parvus_NN1 OBBP_NN1 grown_VVN in_II 10_MC M_NNO copper-NMS_NN2 ,_, except_II21 for_II22 longer_JJR lag_NN1 phase_NN1 than_CSN that_DD1 of_IO the_AT positive_JJ control_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT growth_NN1 rates_NN2 of_IO the_AT three_MC samples_NN2 were_VBDR so_RG similar_JJ one_PPX121 another_PPX122 even_CS21 though_CS22 the_AT growth_NN1 rate_NN1 of_IO the_AT positive_JJ control_NN1 was_VBDZ a_RR21 little_RR22 higher_JJR than_CSN those_DD2 of_IO the_AT others_NN2 (_( Table_NN1 6_MC )_) ._. 
+</s>
+<s>
+After_II completing_VVG the_AT monitoring_NN1 of_IO growth_NN1 rates_NN2 ,_, whole-cell_JJ copper_NN1 concentrations_NN2 of_IO the_AT samples_NN2 were_VBDR analyzed_VVN to_TO compare_VVI copper_NN1 concentrations_NN2 between_II initially_RR intended_VVN and_CC actual_JJ concentrations_NN2 ._. 
+</s>
+<s>
+Table_NN1 7_MC and_CC Figure_NN1 16_MC indicate_VV0 the_AT actual_JJ copper_NN1 concentrations_NN2 of_IO M._NN1 parvus_NN1 OBBP-containing_NN1 samples_NN2 ._. 
+</s>
+<s>
+Basic_JJ molecular_JJ analysis_NN1 on_II methanotrophs_NN2 was_VBDZ performed_VVN to_TO understand_VVI the_AT characteristics_NN2 of_IO the_AT bacterial_JJ strains_NN2 and_CC acquire_VV0 the_AT analysis_NN1 techniques_NN2 ._. 
+</s>
+<s>
+To_TO examine_VVI MMO_NN1 expressions_NN2 in_II M._NN1 trichosporium_NN1 OB3b_FO depending_II21 on_II22 copper_NN1 availability_NN1 ,_, naphthalene_NN1 assay_NN1 and_CC TCE_NP1 degradation_NN1 assay_NN1 were_VBDR conducted_VVN using_VVG non-copper_NN1 NMS_NP1 medium_NN1 and_CC 20_MC M_NNO copper-containing_JJ NMS_NP1 medium_NN1 ._. 
+</s>
+<s>
+Since_CS M._NN1 trichosporium_NN1 OB3b_FO expresses_VVZ either_RR sMMO_NN1 or_CC pMMO_NN1 under_II low_JJ copper_NN1 and_CC high_JJ copper_NN1 concentrations_NN2 ,_, respectively_RR (_( the_AT critical_JJ concentration_NN1 was_VBDZ reported_VVN as_CSA 0.89_MC mol_NN1 copper_NN1 per_II gram_NNU1 cell_NN1 dry_JJ weight_NN1 (_( 10_MC ,_, 13_MC )_) )_) ,_, M._NN1 trichosporium_NN1 OB3b_FO was_VBDZ expected_VVN to_TO express_VVI sMMO_NN1 at_II non-copper_NN1 NMS_NP1 medium_NN1 and_CC pMMO_NN1 at_II 20_MC M_NNO copper-containing_JJ NMS_NP1 medium_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, while_CS the_AT substrate_NN1 specificity_NN1 of_IO sMMO_NN1 is_VBZ lower_JJR than_CSN that_DD1 of_IO pMMO_NN1 ,_, halogenated_VVD hydrocarbon_NN1 degradation_NN1 rate_NN1 of_IO sMMO_NN1 is_VBZ higher_JJR than_CSN that_DD1 of_IO pMMO_NN1 (_( 3_MC ,_, 10_MC ,_, 15_MC )_) ;_; in_II other_JJ words_NN2 ,_, sMMO_NN1 can_VM oxidize_VVI much_DA1 more_DAR kinds_NN2 of_IO halogenated_JJ hydrocarbons_NN2 at_II faster_JJR degradation_NN1 rate_NN1 than_CSN pMMO_NN1 ._. 
+</s>
+<s>
+In_II both_DB2 of_IO the_AT assays_NN2 ,_, sMMO-expressing_JJ cells_NN2 showed_VVD much_DA1 more_DAR degradation_NN1 efficiency_NN1 of_IO naphthalene_NN1 and_CC TCE_NN1 than_CSN pMMO-expressing_JJ cells_NN2 (_( Table_NN1 3_MC and_CC 4_MC ,_, Figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+Also_RR ,_, 20_MC mM_NNU formate_NN1 played_VVD a_AT1 role_NN1 in_II an_AT1 outside_JJ source_NN1 of_IO reducing_VVG equivalent_JJ that_CST facilitated_VVD the_AT TCE_NN1 degradation_NN1 rate_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, making_VVG methanotrophs_NN2 express_VVI sMMO_NN1 and_CC adding_VVG a_AT1 proper_JJ reducing_JJ equivalent_NN1 in_II a_AT1 chlorinated_JJ compound-contaminated_JJ site_NN1 would_VM help_VVI in_RR21 situ_RR22 bioremediation_NN1 strategy_NN1 be_VBI optimized_VVN ._. 
+</s>
+<s>
+During_II the_AT experiments_NN2 ,_, it_PPH1 was_VBDZ important_JJ for_IF better_JJR activities_NN2 of_IO cells_NN2 to_TO transfer_VVI a_AT1 part_NN1 of_IO a_AT1 liquid_JJ stock_NN1 culture_NN1 to_TO sample_VVI vials_NN2 when_RRQ cells_NN2 were_VBDR in_II the_AT initial_JJ exponential_NN1 phase_NN1 rather_II21 than_II22 other_JJ phases_NN2 ._. 
+</s>
+<s>
+PCR_NP1 and_CC gel_NN1 electrophoresis_NN1 were_VBDR performed_VVN to_TO verify_VVI a_AT1 purified_JJ M._NN1 album_NN1 BG8_FO ._. 
+</s>
+<s>
+Since_CS both_DB2 M._NN1 trichosporium_NN1 OB3b_FO and_CC M._NN1 capsulatus_NN1 Bath_NP1 possess_VV0 two_MC types_NN2 of_IO MMO_NN1 genes_NN2 ,_, they_PPHS2 were_VBDR used_VVN as_CSA positive_JJ controls_NN2 to_TO show_VVI the_AT PCR_NP1 products_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 on_II agarose_NN1 gel_NN1 ._. 
+</s>
+<s>
+However_RR ,_, initial_JJ continuative_JJ experiments_NN2 could_VM not_XX show_VVI clear_JJ bands_NN2 of_IO PCR_NP1 products_NN2 of_IO either_RR pmoA_NN1 or_CC mmoX_NN1 gene_NN1 but_CCB indicated_VVD a_AT1 thick_JJ and_CC blunt_JJ band_NN1 on_II agarose_NN1 gel_NN1 ._. 
+</s>
+<s>
+Three_MC explainable_JJ reasons_NN2 were_VBDR investigated_VVN changing_VVG the_AT components_NN2 of_IO PCE_NP1 experiment_NN1 ._. 
+</s>
+<s>
+The_AT first_MD one_PN1 was_VBDZ the_AT method_NN1 of_IO DNA_NN1 sample_NN1 preparation_NN1 ;_; using_VVG a_AT1 beadbeater_NN1 with_IW 0.1_MC mm_NNU glass_NN1 beads_NN2 rather_II21 than_II22 a_AT1 freezing-thawing_JJ method_NN1 to_TO disrupt_VVI cell_NN1 membrane_NN1 showed_VVD better_RRR PCR_NP1 results_NN2 ._. 
+</s>
+<s>
+Although_CS the_AT freezing-thawing_JJ method_NN1 could_VM also_RR indicate_VVI quite_RG good_JJ PCR_NP1 products_NN2 ,_, it_PPH1 sometimes_RT failed_VVD to_TO show_VVI proper_JJ products_NN2 (_( Figure_NN1 3_MC ,_, 4_MC ,_, and_CC 5_MC )_) ._. 
+</s>
+<s>
+The_AT reason_NN1 why_RRQ the_AT freezing-thawing_JJ method_NN1 sometimes_RT failed_VVD to_TO show_VVI good_JJ results_NN2 might_VM be_VBI either_RR that_CST the_AT method_NN1 was_VBDZ too_RG strong_JJ to_TO remain_VVI a_AT1 proper_JJ gene_NN1 size_NN1 or_CC that_CST it_PPH1 was_VBDZ too_RG weak_JJ to_TO disrupt_VVI the_AT cell_NN1 membrane_NN1 ._. 
+</s>
+<s>
+In_II Figure_NN1 3_MC and_CC 4_MC using_VVG the_AT freezing-thawing_JJ method_NN1 ,_, both_RR pmoA_NN1 and_CC mmoX_NN1 genes_NN2 did_VDD not_XX appear_VVI at_II the_AT same_DA time_NNT1 but_CCB one_MC1 of_IO the_AT gene_NN1 products_NN2 was_VBDZ shown_VVN ,_, suggesting_VVG that_CST the_AT preparation_NN1 method_NN1 was_VBDZ not_XX too_RG weak_JJ to_TO disrupt_VVI cell_NN1 membrane_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT former_DA reason_NN1 might_VM be_VBI a_AT1 better_JJR explanation_NN1 ._. 
+</s>
+<s>
+The_AT second_MD reason_NN1 could_VM be_VBI the_AT quality_NN1 of_IO the_AT primer_NN1 sets_VVZ that_CST were_VBDR exposed_VVN to_II room_NN1 temperature_NN1 for_IF about_RG 48_MC hours_NNT2 ,_, because_CS oligoneucletide_NN1 primers_NN2 were_VBDR vulnerable_JJ to_II freezing-thawing_JJ cycles_NN2 and_CC room_NN1 temperature_NN1 ._. 
+</s>
+<s>
+After_II changing_VVG another_DD1 primer_NN1 set_NN1 of_IO mmoxf_NN1 882_MC and_CC mmoxr1403_FO ,_, a_AT1 mmoX_NN1 gene_NN1 product_NN1 could_VM be_VBI obtained_VVN (_( Figure_NN1 3_MC )_) ._. 
+</s>
+<s>
+The_AT last_MD possible_JJ explanation_NN1 would_VM be_VBI not_XX proper_JJ amount_NN1 of_IO the_AT primers_NN2 used_VVN in_II PCR_NP1 experiment_NN1 ._. 
+</s>
+<s>
+Although_CS PCR_NP1 recipe_NN1 in_II Jong-In_NP1 's_GE lab_NN1 note_NN1 (_( 14_MC )_) suggested_VVD taking_VVG 0.5_MC l_NNU of_IO each_DD1 primer_NN1 whose_DDQGE concentration_NN1 should_VM be_VBI 20_MC M_NNO ,_, the_AT concentration_NN1 of_IO the_AT primers_NN2 used_VVN in_II this_DD1 study_NN1 was_VBDZ so_RG doubtful_JJ that_CST the_AT concentrations_NN2 of_IO the_AT primers_NN2 were_VBDR recalculated_VVN based_VVN on_II the_AT label_NN1 information_NN1 and_CC the_AT required_JJ amount_NN1 of_IO each_DD1 primer_NN1 was_VBDZ then_RT calculated_VVN ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Figure_NN1 11_MC ,_, PCR_NP1 containing_VVG recalculated_JJ amount_NN1 of_IO each_DD1 primer_NN1 showed_VVD very_RG clear_JJ product_NN1 bands_VVZ on_II 1.0_MC %_NNU agarose_NN1 gel_NN1 (_( Figure_NN1 11_MC (_( b_ZZ1 )_) )_) even_CS21 though_CS22 the_AT DNA_NN1 sample_NN1 was_VBDZ the_AT same_DA as_CSA used_VVN in_II Figure_NN1 11_MC (_( a_ZZ1 )_) ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT PCR_NP1 results_NN2 and_CC nutrient_NN1 agar_NN1 assay_NN1 for_IF the_AT verification_NN1 of_IO the_AT purified_JJ M._NN1 album_NN1 BG8_FO ,_, it_PPH1 not_XX only_RR indicated_VVN a_AT1 pmoA_NN1 gene_NN1 product_NN1 in_II all_DB experiment_NN1 (_( Figure_NN1 3_MC (_( lane_NN1 3_MC )_) ,_, Figure_NN1 4_MC (_( lane_NN1 2_MC )_) ,_, and_CC Figure_NN1 5_MC (_( lane_NN1 2_MC )_) )_) ,_, but_CCB also_RR showed_VVD no_AT growth_NN1 on_II nutrient_NN1 agar_NN1 plates_NN2 ._. 
+</s>
+<s>
+As_CSA M._NN1 album_NN1 BG8_FO can_VM express_VVI only_JJ pMMO_NN1 ,_, the_AT M._NN1 album_NN1 BG8-like_JJ cells_NN2 might_VM be_VBI purified_VVN based_VVN on_II the_AT two_MC assay_NN1 results_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT purified_JJ M._NN1 album_NN1 BG8_FO did_VDD not_XX grow_VVI as_II31 well_II32 as_II33 other_JJ methanotrophs_NN2 in_II a_AT1 liquid_JJ NMS_NP1 medium_NN1 (_( data_NN not_XX shown_VVN )_) ._. 
+</s>
+<s>
+It_PPH1 took_VVD more_DAR than_CSN 8_MC days_NNT2 to_TO start_VVI to_TO grow_VVI in_II the_AT liquid_JJ medium_NN1 ,_, suggesting_VVG that_CST the_AT purified_JJ M._NN1 album_NN1 BG8-like_JJ cells_NN2 might_VM not_XX be_VBI M._NN1 album_NN1 BG8_FO ._. 
+</s>
+<s>
+Thus_RR ,_, it_PPH1 is_VBZ not_XX clear_JJ whether_CSW the_AT purified_JJ M._NN1 album_NN1 BG8-like_JJ cells_NN2 were_VBDR completely_RR purified_VVN or_CC not_XX ._. 
+</s>
+<s>
+Since_CS the_AT M._NN1 album_NN1 BG8-like_JJ cells_NN2 have_VH0 been_VBN contaminated_VVN on_II agar_NN1 plates_NN2 for_IF a_AT1 long_JJ time_NNT1 ,_, it_PPH1 might_VM be_VBI possible_JJ that_CST they_PPHS2 could_VM not_XX be_VBI easily_RR accustomed_VVN to_II the_AT liquid_JJ medium_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT assumption_NN1 ,_, the_AT M._NN1 album_NN1 BG8-like_JJ cells_NN2 will_VM be_VBI continuously_RR tried_VVN to_TO grow_VVI in_II the_AT liquid_JJ medium_NN1 and_CC 16S_MC2 rRNA_NN1 analysis_NN1 will_VM be_VBI performed_VVN if_CS necessary_JJ in_II the_AT future_JJ study_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 more_RGR convenient_JJ and_CC faster_JJR analysis_NN1 of_IO PCR_NP1 products_NN2 ,_, capillary_JJ electrophoresis_NN1 (_( CE_NP1 )_) was_VBDZ used_VVN to_TO separate_VVI the_AT PCR_NP1 products_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 ._. 
+</s>
+<s>
+CE_NP1 method_NN1 was_VBDZ modified_VVN and_CC developed_VVN from_II Han_NP1 's_GE method_NN1 (_( 10_MC )_) ._. 
+</s>
+<s>
+Faster_RRR and_CC better_JJR peaks_NN2 could_VM be_VBI obtained_VVN using_VVG 6_MC kV_NNU separation_NN1 voltages_NN2 with_IW 0.5_MC psi_NN1 sample_NN1 injection_NN1 pressure_NN1 for_IF 30_MC sec_NNU ;_; especially_RR the_AT peaks_NN2 of_IO 900_MC and_CC 1114_MC bp_NNU of_IO the_AT DNA_NN1 molecular_JJ weight_NN1 marker_NN1 were_VBDR sharper_JJR than_CSN those_DD2 of_IO the_AT previous_JJ study_NN1 (_( 10_MC )_) ._. 
+</s>
+<s>
+Also_RR ,_, 8_MC kV_NNU separation_NN1 voltages_NN2 were_VBDR applied_VVN to_TO achieve_VVI much_RR faster_JJR results_NN2 ,_, but_CCB as_CSA shown_VVN in_II Figure_NN1 9_MC ,_, the_AT baseline_NN1 was_VBDZ not_XX as_RG stable_JJ as_CSA that_DD1 of_IO 6_MC kV_NNU voltages_NN2 ._. 
+</s>
+<s>
+With_IW the_AT modified_JJ method_NN1 ,_, the_AT PCR_NP1 products_NN2 of_IO pmoA_NN1 and_CC mmoX_NN1 genes_NN2 were_VBDR separated_VVN and_CC the_AT size_NN1 of_IO the_AT genes_NN2 were_VBDR estimated_VVN ._. 
+</s>
+<s>
+Two_MC distinguishable_JJ peaks_NN2 could_VM be_VBI observed_VVN in_II Figure_NN1 12_MC (_( a_AT1 and_CC b_ZZ1 )_) ._. 
+</s>
+<s>
+A_AT1 pmoA_NN1 gene_NN1 product_NN1 appeared_VVD at_II 10.34_MC min_NNU of_IO the_AT retention_NN1 time_NNT1 and_CC a_AT1 mmoX_NN1 gene_NN1 product_NN1 at_II 12.03_MC min_NNU ;_; the_AT gene_NN1 sizes_NN2 were_VBDR 327_MC bp_NNU and_CC 547_MC bp_NNU for_IF pmoA_NN1 and_CC mmoX_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+These_DD2 results_NN2 of_IO CE_NP1 analysis_NN1 were_VBDR well_RR matched_VVN with_IW those_DD2 of_IO gel_NN1 electrophoresis_NN1 analysis_NN1 but_CCB showed_VVD much_RR faster_RRR and_CC sharper_JJR peaks_NN2 ._. 
+</s>
+<s>
+Methanobactin_NP1 (_( MB_NNU )_) is_VBZ a_AT1 copper-binding_JJ compound_NN1 (_( CBC_NP1 )_) which_DDQ was_VBDZ isolated_VVN from_II the_AT spent_JJ medium_NN1 of_IO M._NN1 trichosporium_NN1 OB3b_FO (_( 9_MC )_) ._. 
+</s>
+<s>
+Although_CS the_AT role_NN1 of_IO CBC_NP1 is_VBZ not_XX known_VVN ,_, it_PPH1 is_VBZ assumed_VVN that_CST it_PPH1 might_VM play_VVI a_AT1 role_NN1 in_II up-taking_JJ copper_NN1 outside_II cells_NN2 because_CS CBC_NP1 has_VHZ high_JJ affinity_NN1 for_IF binding_JJ copper_NN1 ._. 
+</s>
+<s>
+Table_NN1 5_MC showed_VVD the_AT high_JJ affinity_NN1 of_IO MB_NNU to_II copper_NN1 ._. 
+</s>
+<s>
+One_MC1 unusual_JJ and_CC interesting_JJ thing_NN1 in_II Table_NN1 5_MC was_VBDZ that_CST the_AT copper_NN1 concentration_NN1 of_IO EDTA-treated_JJ MB_NNU was_VBDZ higher_JJR than_CSN that_DD1 of_IO the_AT original_JJ MB_NNU ._. 
+</s>
+<s>
+Since_CS EDTA_NP1 is_VBZ a_AT1 strong_JJ chelating_JJ agent_NN1 (_( 16_MC )_) resulting_VVG in_II binding_JJ copper_NN1 much_RR more_RGR strongly_RR than_CSN MB_NNU ,_, the_AT copper_NN1 concentration_NN1 of_IO MB-EDTA_NP1 was_VBDZ expected_VVN to_TO be_VBI lower_JJR than_CSN that_DD1 of_IO the_AT original_JJ MB_NNU ;_; however_RR ,_, the_AT reverse_NN1 was_VBDZ true_JJ ,_, suggesting_VVG that_CST MB_NNU could_VM retain_VVI the_AT bound_JJ copper_NN1 against_II the_AT strong_JJ chelating_JJ agent_NN1 ,_, EDTA_NP1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, M._NN1 parvus_NN1 OBBP_NN1 could_VM utilize_VVI the_AT copper_NN1 bound_VVN to_II MB-EDTA_NP1 and_CC showed_VVN almost_RR the_AT same_DA growth_NN1 pattern_NN1 as_CSA that_DD1 grown_VVN under_II the_AT presence_NN1 of_IO 10_MC M_NNO copper_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 indicated_VVD that_CST the_AT EDTA-treated_JJ MB_NNU did_VDD not_XX badly_RR affect_VVI on_II the_AT growth_NN1 of_IO M._NN1 parvus_NN1 OBBP_NN1 but_CCB assisted_VVD the_AT growth_NN1 supplying_VVG copper_NN1 to_II M._NN1 parvus_NN1 OBBP_NN1 for_IF the_AT expression_NN1 of_IO pMMO_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT lag_NN1 phase_NN1 of_IO M._NN1 parvus_NN1 OBBP_NN1 with_IW MB-EDTA_NP1 was_VBDZ longer_RRR than_CSN that_DD1 of_IO the_AT normal_JJ growth_NN1 of_IO M._NN1 parvus_NN1 OBBP_NN1 ,_, probably_RR because_CS MB_NNU still_RR affected_VVN on_II the_AT growth_NN1 to_II some_DD extent_NN1 ,_, so_CS it_PPH1 took_VVD much_DA1 time_NNT1 for_IF M._NN1 parvus_NN1 OBBP_NN1 to_TO be_VBI accustomed_VVN to_II the_AT MB_NNU environment_NN1 ._. 
+</s>
+<s>
+Also_RR the_AT two_MC growth_NN1 of_IO 0_MC M-ED_JJ and_CC 10_MC M-ED_JJ in_II Figure_NN1 15_MC showed_VVD exactly_RR the_AT same_DA pattern_NN1 each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+It_PPH1 might_VM be_VBI explained_VVN that_DD1 M._NN1 parvus_NN1 OBBP_NN1 could_VM be_VBI grown_VVN normally_RR once_RR copper_JJ concentration_NN1 in_II NMS_NP1 media_NN met_VVD the_AT minimum_NN1 of_IO the_AT required_JJ amount_NN1 of_IO copper_NN1 to_TO express_VVI pMMO_NN1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, M._NN1 parvus_NN1 OBBP_NN1 could_VM not_XX survive_VVI under_II the_AT presence_NN1 of_IO copper-bound_JJ MB_NNU (_( 0_MC M-Cu_FO and_CC 10_MC M-Cu_FO in_II Figure_NN1 14_MC )_) ,_, suggesting_VVG that_DD1 copper-bound_JJ MB_NNU seriously_RR badly_RR affected_VVN on_II the_AT growth_NN1 or_CC killed_VVD the_AT cells_NN2 ._. 
+</s>
+<s>
+The_AT cause(s)_NN2 might_VM be_VBI either_RR the_AT effect_NN1 of_IO MB_NNU or_CC the_AT toxicity_NN1 of_IO high_JJ copper_NN1 concentration_NN1 ,_, or_CC both_DB2 of_IO them_PPHO2 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT copper_NN1 analysis_NN1 of_IO the_AT whole-cell_NN1 and_CC NMS_NP1 medium_NN1 (_( Table_NN1 7_MC )_) ,_, the_AT copper_NN1 concentration_NN1 of_IO 0_MC M-Cu_FO and_CC 10_MC M-Cu_FO were_VBDR 22.0_MC and_CC 22.9_MC M_NNO ,_, respectively_RR ._. 
+</s>
+<s>
+22_MC M_NNU of_IO copper_NN1 was_VBDZ usually_RR not_XX a_AT1 high_JJ concentration_NN1 to_II methanotrophs_NN2 ,_, so_CS it_PPH1 could_VM be_VBI hypothesized_VVN that_CST MB_NNU might_VM play_VVI a_AT1 serious_JJ role_NN1 in_II impeding_VVG the_AT cell_NN1 growth_NN1 ._. 
+</s>
+<s>
+Two_MC methanotrophs_NN2 ,_, M._NN1 parvus_NN1 OBBP_NN1 and_CC M._NN1 album_NN1 BG8_FO ,_, were_VBDR purified_VVN from_II contaminated_JJ plates_NN2 but_CCB it_PPH1 will_VM be_VBI necessary_JJ to_TO verify_VVI them_PPHO2 using_VVG PCR_NP1 and_CC CE_VVI with_IW the_AT recalculated_JJ amounts_NN2 of_IO primer_NN1 sets_NN2 (_( Figure_NN1 11_MC (_( b_ZZ1 )_) and_CC Figure_NN1 12_MC (_( a_AT1 and_CC b_ZZ1 )_) )_) ._. 
+</s>
+<s>
+Also_RR ,_, based_VVN on_II the_AT preliminary_JJ data_NN of_IO the_AT growth_NN1 of_IO M._NN1 parvus_NN1 OBBP_NN1 under_II the_AT presence_NN1 of_IO different-copper_NN1 concentrations_NN2 of_IO MB_NNU ,_, it_PPH1 will_VM be_VBI required_VVN to_TO determine_VVI if_CSW M._NN1 parvus_NN1 OBBP_NN1 is_VBZ able_JK to_TO show_VVI the_AT same_DA growth_NN1 pattern_NN1 with_IW the_AT same_DA copper_NN1 concentrations_NN2 under_II no_AT presence_NN1 of_IO MB_NNU ._. 
+</s>
+<s>
+It_PPH1 will_VM be_VBI able_JK to_TO suggest_VVI which_DDQ of_IO the_AT factors_NN2 caused_VVD no_AT growth_NN1 of_IO M._NN1 parvus_NN1 OBBP_NN1 under_II the_AT presence_NN1 of_IO copper-bound_JJ MB_NNU in_II Figure_NN1 14_MC ._. 
+</s>
+<s>
+In_II addtion_NN1 ,_, the_AT growth_NN1 monitoring_NN1 of_IO other_JJ methanotrophs_NN2 that_CST can_VM express_VVI pMMO_NN1 but_CCB not_XX produce_VV0 CBC_NP1 under_II the_AT presence_NN1 of_IO the_AT treated_JJ MB_NNU will_VM make_VVI the_AT role_NN1 of_IO CBC_NP1 better_RRR clear_JJ ._. 
+</s>
+<s>
+With_IW the_AT results_NN2 ,_, it_PPH1 will_VM be_VBI possible_JJ to_TO give_VVI an_AT1 answer_NN1 to_II a_AT1 hypothesis_NN1 if_CS there_EX are_VBR some_DD important_JJ groups_NN2 that_CST provide_VV0 copper-needed_JJ methanotrophs_NN2 with_IW CBC_NP1 among_II methanotrophs_NN2 ._. 
+</s>
+<s>
+Ultimately_RR ,_, the_AT way_NN1 that_CST methanotrophs_NN2 interact_VV0 one_PPX121 another_PPX122 based_VVN on_II the_AT necessity_NN1 of_IO copper_NN1 will_VM be_VBI figured_VVN out_RP to_TO understand_VVI the_AT copper_NN1 uptake_NN1 mechanism_NN1 of_IO methanotrophs_NN2 ._. 
+</s>
+<s>
+Methanotrophs_NN2 oxidize_VV0 methane_NN1 to_II methanol_NN1 using_VVG either_RR soluble_JJ cytoplasmic_JJ MMO_NN1 (_( sMMO_NN1 )_) or_CC a_AT1 membrane-associated_NN1 ,_, or_CC particulate_NN1 ,_, MMO_NP1 (_( pMMO_NN1 )_) ._. 
+</s>
+<s>
+pMMO_NN1 expression_NN1 requires_VVZ high_JJ ratio_NN1 of_IO copper_NN1 to_II biomass_NN1 (_( 0.9_MC nmol_NN1 of_IO Cu_FO /_FO mg_NNU of_IO cell_NN1 protein_NN1 )_) ,_, but_CCB the_AT copper_NN1 uptake_NN1 mechanism_NN1 remains_VVZ vague_JJ ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT assumptions_NN2 of_IO the_AT copper_NN1 uptake_NN1 system_NN1 lies_VVZ in_II copper-binding_JJ compounds_NN2 (_( CBC_NP1 )_) that_CST are_VBR small_JJ extracelluar_NN1 polypeptides_NN2 and_CC have_VH0 high_JJ affinity_NN1 for_IF binding_JJ copper_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 independent_JJ study_NN1 ,_, preliminary_JJ data_NN suggesting_VVG the_AT effect_NN1 of_IO CBC_NP1 on_II the_AT growth_NN1 of_IO Methylocystis_NP1 parvus_NN1 OBBP_NN1 were_VBDR obtained_VVN and_CC the_AT characterizations_NN2 of_IO some_DD methanotrophs_NN2 were_VBDR performed_VVN as_RR21 well_RR22 ._. 
+</s>
+<s>
+Methylosinus_NN1 trichosporium_NN1 OB3b_FO showed_VVD the_AT effect_NN1 of_IO copper_NN1 concentration_NN1 on_II the_AT expression_NN1 of_IO either_RR sMMO_NN1 or_CC pMMO_NN1 using_VVG naphthalene_NN1 and_CC trichloroethylene_NN1 (_( TCE_NP1 )_) assays_NN2 ._. 
+</s>
+<s>
+Non-copper_NN1 environment_NN1 caused_VVD M._NN1 trichosporium_NN1 OB3b_FO to_TO express_VVI sMMO_NN1 and_CC the_AT cells_NN2 then_RT not_XX only_RR showed_VVD to_TO oxidize_VVI naphthalene_NN1 to_TO naphthol_VVI changing_VVG the_AT color_NN1 of_IO the_AT NMS_NP1 medium_NN1 to_II bright_JJ purple_NN1 in_II the_AT naphthalene_NN1 assay_NN1 ,_, but_CCB also_RR indicated_VVN approximately_RR 10_MC times_NNT2 higher_JJR TCE_NN1 degradation_NN1 rate_NN1 than_CSN those_DD2 grown_VVN with_IW 20_MC M_NNO copper_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, 20_MC mM_NNU formate_NN1 played_VVD a_AT1 role_NN1 in_II an_AT1 outside_JJ source_NN1 of_IO reducing_VVG equivalent_JJ that_CST facilitated_VVD the_AT TCE_NN1 degradation_NN1 rate_NN1 ._. 
+</s>
+<s>
+Polymerase_NN1 chain_NN1 reaction_NN1 (_( PCR_NP1 )_) ,_, gel_NN1 electrophoresis_NN1 (_( GE_NP1 )_) ,_, and_CC capillary_JJ electrophoresis_NN1 (_( CE_NP1 )_) were_VBDR performed_VVN to_TO verify_VVI purified_JJ Methylomicrobium_NN1 album_NN1 BG8_FO ._. 
+</s>
+<s>
+The_AT purified_JJ cells_NN2 showed_VVD a_AT1 distinct_JJ PCR_NP1 product_NN1 of_IO the_AT pmoA_NN1 gene_NN1 on_II GE_NP1 ,_, but_CCB no_AT product_NN1 of_IO the_AT mmoX_NN1 gene_NN1 ,_, suggesting_VVG that_CST the_AT purified_JJ cells_NN2 might_VM be_VBI M._NN1 album_NN1 BG8_FO ;_; however_RR ,_, the_AT cells_NN2 were_VBDR not_XX grown_VVN as_II31 well_II32 as_II33 other_JJ methanotrophs_NN2 in_II a_AT1 liquid_JJ nitrate_NN1 mineral_NN1 salts_NN2 (_( NMS_NP1 )_) medium_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT cells_NN2 need_VV0 to_TO be_VBI monitored_VVN continuously_RR in_II the_AT liquid_JJ medium_NN1 and_CC further_JJR analysis_NN1 such_II21 as_II22 16S_MC2 rRNA_NN1 analysis_NN1 will_VM be_VBI required_VVN to_TO verify_VVI them_PPHO2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT method_NN1 of_IO CE_NP1 analysis_NN1 could_VM be_VBI modified_VVN from_II Han_NP1 's_GE (_( 10_MC )_) using_VVG 0.5mpsi_FO sample_NN1 injection_NN1 pressure_NN1 for_IF 30_MC seconds_NNT2 and_CC applying_VVG 6_MC kV_NNU separation_NN1 voltages_NN2 ;_; it_PPH1 showed_VVD as_CSA better_JJR peaks_NN2 as_CSA Han_NP1 's_GE (_( 10_MC )_) and_CC faster_JJR analysis_NN1 ._. 
+</s>
+<s>
+Methanobactin_NP1 (_( MB_NNU )_) could_VM ,_, to_II some_DD extent_NN1 ,_, hold_VV0 bound_JJ copper_NN1 against_II a_AT1 strong_JJ chelating_JJ agent_NN1 ,_, ethylenediaminetetraacetic_JJ acid_NN1 (_( EDTA_NP1 )_) ._. 
+</s>
+<s>
+EDTA-treated_JJ MB_NNU assisted_VVD the_AT growth_NN1 of_IO M._NN1 parvus_NN1 OBBP_NN1 supplying_VVG copper_NN1 to_II the_AT cells_NN2 even_CS21 though_CS22 the_AT lag_NN1 phase_NN1 under_II the_AT presence_NN1 of_IO EDTA-treated_JJ MB_NNU was_VBDZ approximately_RR 20_MC hours_NNT2 longer_RRR than_CSN that_DD1 of_IO a_AT1 normal_JJ one_PN1 ._. 
+</s>
+<s>
+However_RR ,_, copper-bound_JJ MB_NNU killed_VVD the_AT cells_NN2 ;_; it_PPH1 might_VM be_VBI caused_VVN by_II either_RR MB_NNU toxicity_NN1 or_CC high_JJ copper_NN1 concentration_NN1 ,_, or_CC both_DB2 of_IO them_PPHO2 ._. 
+</s>
+<s>
+With_IW the_AT results_NN2 ,_, it_PPH1 is_VBZ assumed_VVN that_CST MB_NNU might_VM be_VBI able_JK to_TO play_VVI a_AT1 different_JJ role_NN1 according_II21 to_II22 a_AT1 certain_JJ environment_NN1 in_II an_AT1 interaction_NN1 among_II methanotrophs_NN2 based_VVN on_II the_AT copper_NN1 nessecity_NN1 ._. 
+</s>

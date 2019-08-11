@@ -1,0 +1,36 @@
+<s>
+In_II Convergence_NN1 of_IO Simulation-Based_JJ Policy_NN1 Iteration_NN1 (_( SBPI_NP1 )_) ,_, Cooper_NP1 ,_, Henderson_NP1 and_CC Lewis_NP1 are_VBR able_JK to_TO derive_VVI conditions_NN2 under_II which_DDQ a_AT1 novel_JJ algorithm_NN1 for_IF computing_VVG optimal_JJ policies_NN2 for_IF Markov_NP1 decision_NN1 processes_NN2 (_( MDPs_NP1 )_) ._. 
+</s>
+<s>
+They_PPHS2 point_VV0 out_RP that_DD1 SBPI_NN1 ,_, originally_RR suggested_VVN by_II Bertsekas_NP2 and_CC further_RRR developed_VVN by_II Cao_NP1 ,_, works_VVZ similarly_RR to_II the_AT modified_JJ policy_NN1 iteration_NN1 algorithm_NN1 (_( MPIA_NP1 )_) and_CC to_II the_AT actor_NN1 critic_NN1 algorithm_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ therefore_RR expected_VVN to_TO converge_VVI faster_RRR than_CSN by_II the_AT value_NN1 iteration_NN1 algorithm_NN1 ,_, yet_RR the_AT exact_JJ conditions_NN2 under_II which_DDQ SBPI_NP1 converges_VVZ had_VHD not_XX been_VBN developed_VVN ._. 
+</s>
+<s>
+That_DD1 places_VVZ the_AT results_NN2 of_IO this_DD1 paper_NN1 in_II a_AT1 position_NN1 of_IO great_JJ importance_NN1 ,_, and_CC its_APPGE applicability_NN1 is_VBZ shown_VVN in_II the_AT description_NN1 of_IO methods_NN2 to_TO converge_VVI to_II estimators_NN2 via_II simulation_NN1 ._. 
+</s>
+<s>
+These_DD2 estimators_NN2 can_VM then_RT be_VBI used_VVN to_TO ensure_VVI the_AT "_" almost-sure_JJ "_" convergence_NN1 of_IO SBPI_NN2 ._. 
+</s>
+<s>
+Let_VV0 us_PPIO2 begin_VVI by_II comparing_VVG MPIA_NN1 and_CC SBPI_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ to_TO point_VVI out_RP that_CST the_AT model_NN1 used_VVN in_II this_DD1 paper_NN1 is_VBZ the_AT average-reward_JJ model_NN1 ,_, not_XX the_AT discounted_JJ reward_NN1 model_NN1 as_CSA studied_VVN thus_RR far_RR in_II IOE_NP1 512_MC ._. 
+</s>
+<s>
+This_DD1 distinction_NN1 required_VVN that_CST I_PPIS1 understand_VV0 new_JJ measures_NN2 :_: for_IF a_AT1 policy_NN1 Since_CS the_AT AEE_NP1 (_( average_JJ evaluation_NN1 equations_NN2 )_) are_VBR satisfied_VVN by_II a_AT1 unique_JJ vector_NN1 h_ZZ1 ,_, if_CS we_PPIS2 can_VM find_VVI a_AT1 solution_NN1 (_( g_ZZ1 ,_, h_ZZ1 )_) that_CST satisfies_VVZ The_AT two_MC algorithms_NN2 are_VBR similar_JJ in_CS21 that_CS22 they_PPHS2 produce_VV0 estimates_NN2 (_( For_IF simplicity_NN1 's_GE sake_NN1 ,_, I_PPIS1 appreciated_VVD the_AT Ratio_NN1 Estimator_NN1 given_VVN in_II section_NN1 5.3_MC ._. 
+</s>
+<s>
+As_II the_AT authors_NN2 describe_VV0 it_PPH1 ,_, it_PPH1 "_" is_VBZ perhaps_RR the_AT least_RGT complex_JJ to_TO implement_VVI ,_, as_CSA it_PPH1 can_VM be_VBI applied_VVN based_VVN on_II a_AT1 single_JJ simulated_JJ sample_NN1 path_NN1 ._. "_" 
+</s>
+<s>
+The_AT estimator_NN1 of_IO What_DDQ I_PPIS1 like_VV0 about_II the_AT paper_NN1 ,_, and_CC the_AT Ratio_NN1 Estimator_NN1 in_RR21 particular_RR22 ,_, is_VBZ that_DD1 it_PPH1 shows_VVZ how_RRQ a_AT1 computationally_RR inhibitive_JJ MDP_NP1 can_VM be_VBI solved_VVN iteratively_RR ,_, in_II a_AT1 finite_JJ (_( although_CS perhaps_RR very_RG large_JJ )_) number_NN1 of_IO steps_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ possible_JJ to_TO code_VVI such_DA a_AT1 problem_NN1 ,_, and_CC the_AT assurance_NN1 of_IO convergence_NN1 outlined_VVD herein_RR makes_VVZ SBPI_NN2 an_AT1 attractive_JJ alternative_NN1 ._. 
+</s>
+<s>
+What_DDQ I_PPIS1 would_VM like_VVI to_TO know_VVI is_VBZ how_RRQ the_AT convergence_NN1 rate_NN1 of_IO SBPI_NP1 compares_VVZ with_IW those_DD2 of_IO the_AT actor-critic_NN1 and_CC MPI_JJ algorithms_NN2 mentioned_VVN by_II the_AT authors_NN2 ,_, as_II31 well_II32 as_II33 what_DDQ constitutes_VVZ a_AT1 legitimate_JJ stopping_VVG rule_NN1 in_II the_AT computation_NN1 of_IO the_AT 
+</s>

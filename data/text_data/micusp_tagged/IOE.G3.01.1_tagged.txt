@@ -1,0 +1,555 @@
+<s>
+Efficiency_NN1 measurements_NN2 are_VBR widely_RR used_VVN in_II various_JJ industries_NN2 to_II benchmark_NN1 performance_NN1 ,_, document_VV0 operational_JJ improvements_NN2 ,_, and_CC provide_VV0 other_JJ managerial_JJ information_NN1 (_( e.g._REX ,_, ,_, Arogyaswamy_NP1 and_CC Yasai-Ardekani_NN1 1997_MC ;_; Westphal_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1997_MC )_) ._. 
+</s>
+<s>
+Conversely_RR ,_, water_NN1 utilities_NN2 exist_VV0 in_RP relatively_RR non-competitive_JJ environments_NN2 ,_, with_IW few_DA2 quantifiable_JJ operational_JJ measurements_NN2 being_VBG available_JJ to_TO compel_VVI management_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 describes_VVZ a_AT1 procedure_NN1 by_II which_DDQ the_AT efficiency_NN1 of_IO water_NN1 utilities_NN2 can_VM be_VBI assessed_VVN using_VVG data_NN envelopment_NN1 analysis_NN1 (_( DEA_NP1 )_) ,_, a_AT1 procedure_NN1 widely_RR used_VMK to_TO provide_VVI objective_JJ numerical_JJ efficiency_NN1 rankings_NN2 for_IF comparable_JJ units_NN2 ._. 
+</s>
+<s>
+Data_NN envelopment_NN1 analysis_NN1 was_VBDZ first_MD described_VVN in_II a_AT1 landmark_NN1 paper_NN1 by_II Charnes_NN2 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1978_MC )_) ,_, and_CC has_VHZ since_RR experienced_VVN extensive_JJ development_NN1 and_CC growth_NN1 to_TO become_VVI a_AT1 ubiquitous_JJ efficiency_NN1 measurement_NN1 method_NN1 (_( Seiford_NP1 1996_MC )_) ._. 
+</s>
+<s>
+DEA_NP1 has_VHZ been_VBN used_VVN for_IF efficiency_NN1 measurements_NN2 in_II such_DA industries_NN2 as_CSA health_NN1 care_NN1 (_( e.g._REX Banker_NN1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1986_MC ;_; Ozcan_NN1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1992_MC ;_; Kontodimopoulos_NP2 and_CC Niakas_NN2 2005_MC )_) ;_; insurance_NN1 (_( Brockett_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1998_MC )_) ;_; agriculture_NN1 (_( Coelli_NP1 1995_MC ;_; Wadud_NP1 and_CC White_NP1 2000_MC )_) ;_; food_NN1 processing_NN1 (_( Jayanthi_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1999_MC )_) ;_; and_CC many_DA2 others_NN2 ._. 
+</s>
+<s>
+DEA_NP1 has_VHZ been_VBN used_JJ to_II measure_NN1 the_AT efficiency_NN1 of_IO engineered_JJ products_NN2 (_( Bulla_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) and_CC has_VHZ been_VBN used_VVN to_TO guide_VVI the_AT selection_NN1 of_IO new_JJ technologies_NN2 (_( Baker_NP1 and_CC Talluri_NP1 1997_MC )_) ._. 
+</s>
+<s>
+Of_IO particular_JJ interest_NN1 to_II our_APPGE work_NN1 in_II analyzing_VVG various_JJ operational_JJ challenges_NN2 facing_VVG water_NN1 utilities_NN2 is_VBZ related_JJ work_NN1 analyzing_VVG units_NN2 in_II sectors_NN2 which_DDQ similarly_RR experience_VV0 extensive_JJ regulatory_JJ presence_NN1 and_CC government_NN1 control_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, DEA_NP1 has_VHZ been_VBN used_VVN to_TO examine_VVI changes_NN2 and_CC policies_NN2 within_II public_JJ school_NN1 systems_NN2 (_( Bessent_NP1 and_CC Bessent_NP1 1980_MC )_) and_CC to_TO examine_VVI the_AT efficiency_NN1 impact_NN1 of_IO government_NN1 regulatory_JJ changes_NN2 on_II units_NN2 with_IW different_JJ ownership_NN1 models_NN2 ,_, such_II21 as_II22 banks_NN2 (_( Bhattacharyya_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1997_MC )_) ._. 
+</s>
+<s>
+In_II other_JJ relevant_JJ studies_NN2 ,_, researchers_NN2 have_VH0 used_VVN DEA_NN1 to_TO measure_VVI the_AT relative_JJ efficiency_NN1 of_IO government-run_JJ publicly-owned_JJ forest_NN1 management_NN1 districts_NN2 and_CC to_TO estimate_VVI the_AT potential_JJ efficiency_NN1 gains_NN2 from_II different_JJ organizational_JJ alternatives_NN2 (_( Kao_NP1 and_CC Yang_NP1 1992_MC )_) ._. 
+</s>
+<s>
+DEA_NP1 has_VHZ also_RR been_VBN used_JJ to_II measure_NN1 efficiencies_NN2 of_IO units_NN2 within_II the_AT municipal_JJ infrastructure_NN1 sector_NN1 ._. 
+</s>
+<s>
+Bosch_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2000_MC )_) used_VVD the_AT procedure_NN1 to_TO measure_VVI the_AT efficiency_NN1 of_IO municipal_JJ waste_NN1 collection_NN1 services_NN2 ,_, finding_VVG that_CST services_NN2 operating_VVG within_II competitive_JJ environments_NN2 were_VBDR more_RGR efficient_JJ than_CSN services_NN2 operating_VVG within_II monopoly_NN1 environments_NN2 ._. 
+</s>
+<s>
+Worthington_NP1 and_CC Dollery_NP1 (_( 2001_MC )_) used_VVD the_AT procedure_NN1 to_TO study_VVI the_AT efficiency_NN1 of_IO 103_MC municipal_JJ waste_NN1 collection_NN1 units_NN2 ,_, comparing_VVG inefficiency_NN1 drivers_NN2 between_II urban_JJ and_CC rural_JJ units_NN2 and_CC between_II units_NN2 covering_VVG various_JJ geographical_JJ scales_NN2 ._. 
+</s>
+<s>
+These_DD2 investigators_NN2 estimated_VVD that_CST inputs_NN2 could_VM be_VBI reduced_VVN by_II 65_MC percent_NNU while_CS maintaining_VVG the_AT same_DA level_NN1 of_IO service_NN1 if_CS best_JJT practices_NN2 were_VBDR used_VVN by_II currently_RR inefficient_JJ units_NN2 ._. 
+</s>
+<s>
+A_AT1 few_DA2 DEA_NN1 studies_NN2 have_VH0 in_II fact_NN1 been_VBN performed_VVN on_II selected_JJ aspects_NN2 of_IO potable_JJ water_NN1 supply_NN1 systems_NN2 ._. 
+</s>
+<s>
+Akosa_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1995_MC )_) reported_VVD on_II the_AT DEA_NN1 efficiency_NN1 analysis_NN1 of_IO ten_MC water_NN1 and_CC sewage_NN1 infrastructures_NN2 in_II Ghana_NP1 ,_, a_AT1 low_JJ income_NN1 ,_, West_NP1 African_JJ state_NN1 ._. 
+</s>
+<s>
+Pursuant_II21 to_II22 funding_NN1 agency_NN1 interests_NN2 ,_, the_AT projects_NN2 had_VHD six_MC input_NN1 variables_NN2 (_( technical_JJ ,_, financial_JJ ,_, economic_JJ ,_, institutional_JJ ,_, social_JJ ,_, and_CC environmental_JJ )_) representing_VVG such_DA things_NN2 as_CSA community_NN1 input_NN1 ,_, etc._RA ,_, and_CC three_MC output_NN1 variables_NN2 (_( reliability_NN1 ,_, utilization_NN1 ,_, and_CC convenience_NN1 )_) representing_VVG various_JJ levels_NN2 of_IO use_NN1 ._. 
+</s>
+<s>
+Despite_II the_AT high_JJ ratio_NN1 of_IO variables_NN2 measured_VVN to_II units_NN2 compared_VVD ,_, the_AT analysis_NN1 indicated_VVD that_CST only_RR one_MC1 unit_NN1 was_VBDZ fully_RR efficient_JJ when_CS all_DB nine_MC input_NN1 and_CC output_NN1 variables_NN2 were_VBDR considered_VVN ._. 
+</s>
+<s>
+Although_CS a_AT1 limited_JJ number_NN1 of_IO compared_JJ units_NN2 were_VBDR compared_VVN ,_, the_AT investigators_NN2 were_VBDR able_JK to_TO draw_VVI relevant_JJ inferences_NN2 regarding_II future_JJ funding_NN1 efforts_NN2 to_TO optimize_VVI benefits_NN2 ._. 
+</s>
+<s>
+Variants_NN2 on_II DEA-measured_JJ efficiencies_NN2 have_VH0 been_VBN used_VVN as_CSA input_VVN to_II regulatory_JJ pricing_NN1 structures_VVZ relevant_JJ to_II the_AT work_NN1 described_VVN here_RL ._. 
+</s>
+<s>
+The_AT British_JJ Office_NN1 of_IO Water_NN1 Services_NN2 (_( OFWAT_NP1 )_) regulates_VVZ potable_JJ water_NN1 price_NN1 structures_NN2 with_IW the_AT goal_NN1 of_IO balancing_VVG inflationary_JJ pressures_NN2 and_CC efficiency_NN1 gains_NN2 using_VVG DEA_NN1 efficiency_NN1 results_NN2 as_CSA input_VVN to_TO price_VVI evaluations_NN2 ._. 
+</s>
+<s>
+Thanassoulis_NN1 ,_, for_REX21 example_REX22 ,_, has_VHZ published_VVN a_AT1 series_NN of_IO papers_NN2 (_( 2000a_FO ;_; 2000b_FO ;_; 2002_MC )_) on_II the_AT use_NN1 of_IO DEA_NP1 calculated_VVD efficiency_NN1 measures_NN2 to_TO guide_VVI the_AT pricing_NN1 structure_NN1 of_IO private_JJ water_NN1 and_CC wastewater_JJR utilities_NN2 in_II Great_NP1 Britain_NP1 ._. 
+</s>
+<s>
+In_II the_AT first_MD of_IO these_DD2 paper_NN1 (_( 2000a_FO )_) a_AT1 single_JJ input_NN1 of_IO operating_NN1 expense_NN1 was_VBDZ employed_VVN and_CC five_MC outputs_NN2 were_VBDR considered_VVN ;_; i.e._REX ,_, number_NN1 of_IO connections_NN2 ,_, length_NN1 of_IO the_AT mains_NN1 with_IW the_AT distribution_NN1 system_NN1 ,_, total_JJ water_NN1 deliveries_NN2 ,_, measured_VVN and_CC estimated_JJ water_NN1 deliveries_NN2 ,_, and_CC number_NN1 of_IO pipe_NN1 bursts_NN2 ._. 
+</s>
+<s>
+Ten_MC utilities_NN2 combining_VVG potable_JJ water_NN1 and_CC wastewater_JJR units_NN2 and_CC 22_MC potable-water-only_JJ utilities_NN2 were_VBDR included_VVN in_II the_AT study_NN1 ,_, In_II an_AT1 earlier_JJR related_JJ study_NN1 performed_VVN by_II OFWAT_NP1 only_RR the_AT combined_JJ utilities_NN2 (_( those_DD2 providing_VVG both_RR water_NN1 and_CC wastewater_JJR services_NN2 )_) were_VBDR used_VVN in_II defining_VVG the_AT efficiency_NN1 frontier_NN1 ,_, a_AT1 fact_NN1 which_DDQ Thanassoulis_NN1 in_II his_APPGE paper_NN1 demonstrates_VVZ was_VBDZ a_AT1 potentially_RR a_AT1 flawed_JJ premise_NN1 because_CS potable-water-only_JJ utilities_NN2 tended_VVD to_TO define_VVI the_AT efficiency_NN1 frontier_NN1 ._. 
+</s>
+<s>
+Aida_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1998_MC )_) also_RR performed_VVN water_NN1 utility_NN1 measurements_NN2 using_VVG DEA_NN1 to_TO compare_VVI regional_JJ water_NN1 utilities_NN2 utilities_NN2 ,_, but_CCB did_VDD not_XX evaluate_VVI the_AT effects_NN2 of_IO ownership_NN1 type_NN1 ._. 
+</s>
+<s>
+Lambert_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1993_MC )_) used_JJ DEA_NN1 to_TO compare_VVI ownership_NN1 type_NN1 ,_, but_CCB limited_VVD their_APPGE study_NN1 to_II public_NN1 versus_II private_JJ utilities_NN2 ._. 
+</s>
+<s>
+Using_VVG a_AT1 single_JJ output_NN1 variable_NN1 measuring_VVG total_JJ water_NN1 production_NN1 and_CC four_MC input_NN1 variables_NN2 measuring_VVG annual_JJ labor_NN1 use_NN1 ,_, total_JJ energy_NN1 use_NN1 ,_, financial_JJ value_NN1 of_IO material_NN1 inputs_NN2 ,_, and_CC total_JJ value_NN1 of_IO capital_NN1 ,_, Lambert_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+concluded_VVN that_CST public_JJ utilities_NN2 were_VBDR more_RGR efficient_JJ overall_NN1 ._. 
+</s>
+<s>
+Anwandter_NN1 and_CC Ozuna_NP1 (_( 2002_MC )_) concluded_VVD that_CST neither_RR decentralization_NN1 nor_CC the_AT presence_NN1 of_IO an_AT1 independent_JJ regulator_NN1 provided_CS any_DD benefit_NN1 in_II the_AT efficiency_NN1 of_IO Mexican_JJ water_NN1 utilities_NN2 ,_, and_CC concluded_VVD that_DD1 competition_NN1 might_VM have_VHI had_VHN a_AT1 greater_JJR role_NN1 in_II increasing_JJ efficiency_NN1 ._. 
+</s>
+<s>
+None_PN of_IO the_AT previous_JJ studies_NN2 cited_VVN (_( Lambert_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1993_MC ;_; Aida_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1998_MC ;_; Thanassoulis_NP1 2000a_FO )_) used_VVD non-discretionary_JJ type_NN1 variables_NN2 for_IF connections_NN2 ,_, network_NN1 length_NN1 ,_, or_CC water_NN1 delivery_NN1 ,_, thus_RR tacitly_RR assuming_VVG that_CST the_AT utility_NN1 had_VHD some_DD measure_NN1 of_IO control_NN1 over_II these_DD2 variables_NN2 ._. 
+</s>
+<s>
+The_AT current_JJ study_NN1 builds_VVZ on_II these_DD2 previous_JJ studies_NN2 by_II using_VVG non-discretionary_JJ variable_NN1 types_NN2 for_IF variables_NN2 that_CST are_VBR not_XX controllable_JJ by_II the_AT utilities_NN2 ,_, and_CC by_II efficiency_NN1 comparisons_NN2 of_IO utilities_NN2 based_VVN on_II different_JJ water_NN1 sources_NN2 ._. 
+</s>
+<s>
+Three_MC main_JJ objectives_NN2 underlie_VV0 the_AT study_NN1 reported_VVD here_RL ._. 
+</s>
+<s>
+The_AT first_MD objective_NN1 was_VBDZ to_TO compare_VVI the_AT relative_JJ efficiencies_NN2 of_IO different_JJ water_NN1 utility_NN1 ownership_NN1 types_NN2 calculated_VVD using_VVG different_JJ measurement_NN1 variables_NN2 ._. 
+</s>
+<s>
+Three_MC main_JJ water_NN1 utility_NN1 ownership_NN1 types_NN2 were_VBDR considered_VVN ;_; public_JJ utilities_NN2 owned_VVN by_II local_JJ or_CC regional_JJ government_NN1 ,_, private_JJ not-for-profit_JJ utilities_NN2 operated_VVN by_II non-governmental_JJ agencies_NN2 ,_, and_CC private_JJ for-profit_JJ utilities_NN2 operated_VVN by_II private_JJ enterprise_NN1 ._. 
+</s>
+<s>
+Ancillary_JJ water_NN1 utilities_NN2 ,_, those_DD2 utilities_NN2 run_VVN as_II a_AT1 side_NN1 operation_NN1 by_II a_AT1 larger_JJR concern_NN1 ,_, were_VBDR not_XX evaluated_VVN because_II21 of_II22 their_APPGE limited_JJ financial_JJ independence_NN1 ._. 
+</s>
+<s>
+The_AT second_MD objective_NN1 was_VBDZ to_TO compare_VVI the_AT efficiencies_NN2 of_IO groundwater_NN1 source_NN1 utilities_NN2 to_II those_DD2 of_IO surface-water_JJ source_NN1 utilities_NN2 using_VVG various_JJ measurement_NN1 variables_NN2 ._. 
+</s>
+<s>
+Although_CS there_EX is_VBZ clearly_RR a_AT1 geographic_JJ constraint_NN1 limiting_VVG unbounded_JJ selection_NN1 of_IO water_NN1 source_NN1 ,_, unbiased_JJ efficiency_NN1 data_NN could_VM be_VBI important_JJ for_IF evaluation_NN1 of_IO future_JJ water_NN1 resources_NN2 and_CC policy_NN1 regarding_II development_NN1 ._. 
+</s>
+<s>
+The_AT final_JJ objective_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO discuss_VVI variable_JJ selection_NN1 by_II presenting_VVG a_AT1 brief_JJ analysis_NN1 of_IO the_AT measurement_NN1 discernment_NN1 of_IO additional_JJ variables_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 section_NN1 ,_, we_PPIS2 assessed_VVD differences_NN2 in_II efficiency_NN1 measurements_NN2 for_IF decision-making_JJ units_NN2 analyzed_VVD with_IW increasingly_RR discrete_JJ measurements_NN2 of_IO output_NN1 components_NN2 ._. 
+</s>
+<s>
+A_AT1 detailed_JJ set_NN1 of_IO variables_NN2 can_VM discern_VVI a_AT1 finer_JJR resolution_NN1 of_IO the_AT efficiency_NN1 measurement_NN1 than_CSN can_VM a_AT1 sparse_JJ set_NN1 of_IO variables_NN2 ._. 
+</s>
+<s>
+However_RR ,_, a_AT1 detailed_JJ set_NN1 of_IO variables_NN2 also_RR can_VM artificially_RR inflate_VVI the_AT apparent_JJ efficiency_NN1 of_IO the_AT decision-making_JJ units_NN2 and_CC can_VM result_VVI in_II an_AT1 incurred_VVN cost_NN1 due_II21 to_II22 the_AT need_NN1 to_TO measure_VVI each_DD1 variable_NN1 ._. 
+</s>
+<s>
+A_AT1 series_NN of_IO DEA_NN1 trials_NN2 ,_, each_DD1 with_IW unique_JJ input_NN1 and_CC output_NN1 variables_NN2 ,_, were_VBDR performed_VVN to_TO identify_VVI variables_NN2 significant_JJ to_II the_AT efficiency_NN1 measurement_NN1 of_IO each_DD1 utility_NN1 type_NN1 ._. 
+</s>
+<s>
+US_NP1 EPA_NP1 Community_NN1 Water_NN1 System_NN1 Survey_NN1 Data_NN (_( EPA_NP1 ,_, 2002_MC )_) was_VBDZ used_VVN as_CSA input_VVN into_II a_AT1 DEA_NN1 model_NN1 to_TO determine_VVI the_AT relative_JJ efficiencies_NN2 of_IO water_NN1 utilities_NN2 ._. 
+</s>
+<s>
+Comparisons_NN2 between_II utility_NN1 types_NN2 were_VBDR checked_VVN using_VVG the_AT Wilcoxon-Mann-Whitney_NP1 comparison_NN1 of_IO ranked_JJ efficiency_NN1 measurements_NN2 ._. 
+</s>
+<s>
+Two_MC comparisons_NN2 were_VBDR performed_VVN using_VVG the_AT efficiency_NN1 data_NN obtained_VVN from_II each_DD1 trial_NN1 ._. 
+</s>
+<s>
+The_AT first_MD comparison_NN1 examined_VVD efficiency_NN1 differences_NN2 between_II water_NN1 utility_NN1 categories_NN2 of_IO different_JJ ownership_NN1 type_NN1 and_CC water_NN1 source_NN1 ._. 
+</s>
+<s>
+Three_MC main_JJ utility_NN1 ownership_NN1 types_NN2 are_VBR represented_VVN by_II the_AT EPA_NP1 Survey_NN1 Data_NN :_: public_JJ ,_, private_JJ not-for-profit_NN1 ,_, and_CC private_JJ for-profit_NN1 ,_, while_CS water_NN1 source_NN1 was_VBDZ either_RR ground_JJ water_NN1 or_CC surface_NN1 water_NN1 ._. 
+</s>
+<s>
+Efficiency_NN1 measurements_NN2 varied_VVN depending_II21 on_II22 selection_NN1 of_IO input_NN1 and_CC output_NN1 variables_NN2 ,_, but_CCB major_JJ trends_NN2 and_CC variables_NN2 having_VHG a_AT1 significant_JJ influence_NN1 on_II efficiency_NN1 rankings_NN2 were_VBDR identified_VVN ._. 
+</s>
+<s>
+The_AT second_MD comparison_NN1 was_VBDZ an_AT1 inter-ownership_JJ evaluation_NN1 of_IO utility_NN1 efficiency_NN1 within_II each_DD1 utility_NN1 category_NN1 type_NN1 using_VVG different_JJ selections_NN2 of_IO input_NN1 and_CC output_NN1 variables_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO this_DD1 evaluation_NN1 were_VBDR then_RT used_VVN to_TO identify_VVI significant_JJ variables_NN2 for_IF each_DD1 utility_NN1 category_NN1 ._. 
+</s>
+<s>
+DEA_NP1 provides_VVZ a_AT1 numerical_JJ non-arbitrary_JJ score_NN1 of_IO efficiency_NN1 that_CST can_VM be_VBI employed_VVN to_TO improve_VVI utility_NN1 operations_NN2 ._. 
+</s>
+<s>
+Efficiency_NN1 rankings_NN2 can_VM be_VBI used_VVN to_TO guide_VVI utilities_NN2 to_TO improve_VVI operational_JJ efficiencies_NN2 by_II providing_VVG operational_JJ targets_NN2 and_CC to_TO identify_VVI best_RRT practices_VVZ at_II highly_RR efficient_JJ utilities_NN2 ._. 
+</s>
+<s>
+The_AT DEA_NN1 approach_NN1 can_VM also_RR be_VBI used_VVN to_TO identify_VVI treatment_NN1 utilities_NN2 that_CST are_VBR efficient_JJ under_II their_APPGE particular_JJ environmental_JJ conditions_NN2 but_CCB which_DDQ might_VM not_XX be_VBI considered_VVN efficient_JJ using_VVG traditional_JJ metrics_NN2 ,_, e.g._REX expenditure_NN1 and_CC treatment_NN1 volume_NN1 ._. 
+</s>
+<s>
+The_AT DEA_NN1 procedure_NN1 requires_VVZ numerical_JJ measurement_NN1 data_NN for_IF all_DB appropriate_JJ input_NN1 and_CC output_NN1 variables_NN2 ._. 
+</s>
+<s>
+Each_DD1 utility_NN1 is_VBZ evaluated_VVN with_II31 respect_II32 to_II33 peer_NN1 utilities_NN2 using_VVG unique_JJ sets_NN2 of_IO measurement_NN1 variables_NN2 ._. 
+</s>
+<s>
+The_AT DEA_NN1 approach_NN1 defines_VVZ an_AT1 efficiency_NN1 frontier_NN1 consisting_VVG of_IO all_DB fully_RR efficient_JJ utilities_NN2 ,_, and_CC an_AT1 efficiency_NN1 score_NN1 is_VBZ calculated_VVN for_IF all_DB non-efficient_JJ utilities_NN2 based_VVN on_II their_APPGE relative_JJ distance_NN1 from_II the_AT efficiency_NN1 frontier_NN1 ._. 
+</s>
+<s>
+The_AT efficiency_NN1 score_NN1 is_VBZ a_AT1 non-arbitrary_JJ value_NN1 based_VVN on_II the_AT relative_JJ amount_NN1 of_IO inputs_NN2 and_CC outputs_VVZ respectively_RR used_VVN and_CC produced_VVN by_II each_DD1 utility_NN1 ._. 
+</s>
+<s>
+The_AT DEA_NN1 procedure_NN1 can_VM be_VBI either_RR input_VVN or_CC output_NN1 oriented_VVD ._. 
+</s>
+<s>
+An_AT1 input_NN1 oriented_VVD DEA_NP1 model_NN1 assigns_VVZ the_AT most_RGT efficient_JJ DMUs_NN1 an_AT1 efficiency_NN1 score_NN1 of_IO one_MC1 ,_, and_CC assigns_VVZ the_AT less_RGR efficient_JJ DMUs_NN1 an_AT1 efficiency_NN1 score_NN1 between_II one_MC1 and_CC zero_NN1 representing_VVG the_AT fraction_NN1 of_IO their_APPGE original_JJ input_NN1 they_PPHS2 could_VM use_VVI to_TO still_RR produce_VVI as_RG much_DA1 output_NN1 as_CSA their_APPGE peer_NN1 DMUs_NN1 if_CS they_PPHS2 were_VBDR as_RG efficient_JJ as_CSA the_AT most_RGT efficient_JJ DMUs_NN1 ._. 
+</s>
+<s>
+An_AT1 output_NN1 oriented_VVD DEA_NP1 model_NN1 assigns_VVZ the_AT most_RGT efficient_JJ DMUs_NN1 an_AT1 efficiency_NN1 score_NN1 of_IO one_MC1 and_CC assigns_VVZ all_DB of_IO the_AT other_JJ DMUs_NN1 efficiency_NN1 scores_VVZ greater_JJR than_CSN one_PN1 representing_VVG the_AT fraction_NN1 increase_NN1 in_II output_NN1 they_PPHS2 could_VM achieve_VVI with_IW the_AT same_DA input_NN1 if_CS they_PPHS2 were_VBDR as_CSA efficient_JJ as_II the_AT most_RGT efficient_JJ DMUs_NN1 ._. 
+</s>
+<s>
+Mathematically_RR ,_, the_AT DEA_NN1 analysis_NN1 is_VBZ performed_VVN by_II optimizing_VVG a_AT1 series_NN of_IO linear_JJ programming_NN1 equations_NN2 by_II varying_VVG the_AT relative_JJ weights_NN2 of_IO the_AT measurement_NN1 variables_NN2 ._. 
+</s>
+<s>
+Additional_JJ background_NN1 and_CC methodology_NN1 can_VM be_VBI found_VVN in_II Cooper_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2000_MC )_) ._. 
+</s>
+<s>
+This_DD1 efficiency_NN1 analysis_NN1 was_VBDZ performed_VVN using_VVG an_AT1 input-oriented_JJ non-discretionary_JJ (_( non-controllable_JJ )_) output_NN1 approach_NN1 ._. 
+</s>
+<s>
+This_DD1 approach_NN1 was_VBDZ dictated_VVN by_II the_AT fundamental_JJ environment_NN1 of_IO utility_NN1 service_NN1 requirements_NN2 ._. 
+</s>
+<s>
+Water_NN1 utilities_NN2 are_VBR constrained_VVN to_TO fulfill_VVI customer_NN1 requirements_NN2 ._. 
+</s>
+<s>
+They_PPHS2 do_VD0 not_XX have_VHI the_AT option_NN1 ,_, for_REX21 instance_REX22 ,_, to_TO reduce_VVI the_AT number_NN1 of_IO connections_NN2 within_II their_APPGE distribution_NN1 system_NN1 ._. 
+</s>
+<s>
+Since_CS it_PPH1 is_VBZ not_XX reasonable_JJ to_TO quantify_VVI water_NN1 utility_NN1 efficiency_NN1 based_VVN on_II improving_JJ output_NN1 for_IF a_AT1 given_JJ input_NN1 ,_, the_AT input-oriented_JJ approach_NN1 was_VBDZ selected_VVN ._. 
+</s>
+<s>
+In_II some_DD cases_NN2 it_PPH1 was_VBDZ not_XX clear_JJ whether_CSW a_AT1 variable_NN1 is_VBZ an_AT1 input_NN1 or_CC an_AT1 output_NN1 parameter_NN1 ._. 
+</s>
+<s>
+In_II these_DD2 cases_NN2 ,_, it_PPH1 was_VBDZ considered_VVN an_AT1 output_NN1 variable_NN1 if_CS an_AT1 increase_NN1 in_II its_APPGE value_NN1 required_VVN more_RGR efficient_JJ management_NN1 ability_NN1 in_BCL21 order_BCL22 to_TO maintain_VVI all_DB other_JJ variables_NN2 constant_JJ ._. 
+</s>
+<s>
+For_REX21 instance_REX22 ,_, if_CS two_MC systems_NN2 were_VBDR the_AT same_DA in_II all_DB aspects_NN2 except_II total_JJ number_NN1 of_IO connections_NN2 ,_, the_AT system_NN1 having_VHG greater_JJR connections_NN2 must_VM be_VBI more_RGR efficient_JJ ._. 
+</s>
+<s>
+The_AT data_NN used_VVN in_II this_DD1 analysis_NN1 was_VBDZ obtained_VVN from_II the_AT US_NP1 EPA_NP1 Community_NN1 Water_NN1 System_NN1 Survey_NN1 Data_NN (_( EPA_NP1 ,_, 2002_MC )_) ._. 
+</s>
+<s>
+Due_II21 to_II22 blanks_NN2 entries_NN2 and_CC the_AT presence_NN1 of_IO illogical_JJ data_NN a_AT1 significant_JJ amount_NN1 of_IO review_NN1 was_VBDZ performed_VVN to_TO obtain_VVI a_AT1 suitable_JJ data_NN set_VV0 ._. 
+</s>
+<s>
+Water_NN1 treatment_NN1 systems_NN2 were_VBDR removed_VVN from_II the_AT set_NN1 of_IO DMUs_NN1 when_CS relevant_JJ data_NN was_VBDZ missing_VVG or_CC nonsensical_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, systems_NN2 which_DDQ had_VHD either_RR zero_MC water_NN1 delivery_NN1 reported_VVN or_CC which_DDQ left_VVD this_DD1 field_NN1 blank_NN1 were_VBDR removed_VVN from_II the_AT analysis_NN1 ._. 
+</s>
+<s>
+In_II all_DB cases_NN2 ,_, DMUs_NP1 with_IW data_NN which_DDQ were_VBDR not_XX obviously_RR correctable_JJ were_VBDR deleted_VVN from_II the_AT analysis_NN1 ,_, even_CS21 if_CS22 other_JJ components_NN2 of_IO the_AT specific_JJ DMU_NN1 contained_VVD data_NN which_DDQ might_VM have_VHI been_VBN useful_JJ ._. 
+</s>
+<s>
+The_AT result_NN1 of_IO removing_VVG such_DA DMUs_NN1 is_VBZ that_CST the_AT DEA_NN1 analysis_NN1 might_VM produce_VVI a_AT1 conservative_JJ estimate_NN1 of_IO the_AT efficiency_NN1 frontier_NN1 ._. 
+</s>
+<s>
+All_DB water_NN1 systems_NN2 with_IW non-water_JJ revenues_NN2 were_VBDR removed_VVN from_II the_AT analysis_NN1 ._. 
+</s>
+<s>
+Almost_RR uniformly_RR ,_, systems_NN2 which_DDQ had_VHD non-water_JJ revenuepresent_NN1 did_VDD not_XX report_VVI an_AT1 average_JJ residential_JJ bill_NN1 ,_, indicating_VVG that_CST their_APPGE production_NN1 of_IO water_NN1 was_VBDZ an_AT1 ancillary_JJ activity_NN1 ._. 
+</s>
+<s>
+Water_NN1 quality_NN1 data_NN was_VBDZ not_XX available_JJ and_CC thus_RR was_VBDZ not_XX used_VVN as_II an_AT1 efficiency_NN1 ranking_NN1 ._. 
+</s>
+<s>
+The_AT final_JJ set_NN1 of_IO 714_MC utilities_NN2 was_VBDZ comprised_VVN of_IO 549_MC public_JJ ,_, 96_MC private_JJ not-for-profit_NN1 ,_, and_CC 62_MC private_JJ for-profit_JJ utilities_NN2 ,_, with_IW 7_MC utilities_NN2 either_RR not_XX reporting_VVG ownership_NN1 information_NN1 or_CC were_VBDR reported_VVN as_CSA ancillary_JJ operations_NN2 without_IW clear_JJ ownership_NN1 structure_NN1 ._. 
+</s>
+<s>
+The_AT 714_MC utilities_NN2 were_VBDR comprised_VVN of_IO 389_MC utilities_NN2 that_CST used_VVD a_AT1 ground_NN1 water_NN1 source_NN1 and_CC 325_MC utilities_NN2 which_DDQ used_VVD a_AT1 surface_NN1 water_NN1 source_NN1 ._. 
+</s>
+<s>
+The_AT DEA_NN1 analysis_NN1 was_VBDZ performed_VVN using_VVG DEA-Solver_JJ Pro_NN1 ,_, an_AT1 Excel_VV0 add-in_NN1 (_( Saitech_NP1 ,_, Inc._JJ ,_, 2004_MC )_) on_II a_AT1 Dell_NP1 Inspiron_NP1 5000_MC ._. 
+</s>
+<s>
+The_AT water_NN1 utilities_NN2 were_VBDR analyzed_VVN for_IF efficiency_NN1 differences_NN2 based_VVN on_II ownership_NN1 type_NN1 and_CC water_NN1 source_NN1 ._. 
+</s>
+<s>
+The_AT three_MC ownership_NN1 types_NN2 ,_, public_NN1 ,_, private_JJ not-for-profit_NN1 ,_, and_CC private_JJ for-profit_NN1 ,_, and_CC the_AT two_MC water_NN1 sources_NN2 ,_, ground_NN1 and_CC surface_NN1 ,_, had_VHD their_APPGE efficiencies_NN2 calculated_VVN with_IW DEA_NN1 using_VVG several_DA2 variable_JJ sets_NN2 ._. 
+</s>
+<s>
+The_AT influence_NN1 of_IO each_DD1 variable_NN1 set_VVN on_II the_AT efficiency_NN1 ranking_NN1 was_VBDZ then_RT determined_VVN by_II comparing_VVG the_AT relative_JJ efficiency_NN1 of_IO the_AT utilities_NN2 within_II each_DD1 utility_NN1 type_NN1 to_II the_AT relative_JJ efficiency_NN1 of_IO the_AT utilities_NN2 within_II the_AT other_JJ utility_NN1 types_NN2 ._. 
+</s>
+<s>
+Comparisons_NN2 between_II utility_NN1 types_NN2 were_VBDR checked_VVN using_VVG the_AT Wilcoxon-Mann-Whitney_NP1 (_( WMW_NP1 )_) ranked-sum_JJ comparison_NN1 of_IO the_AT efficiency_NN1 measurements_NN2 ._. 
+</s>
+<s>
+The_AT WMW_NP1 comparison_NN1 was_VBDZ used_VVN because_CS the_AT underlying_JJ distribution_NN1 of_IO DEA_NP1 efficiency_NN1 measurements_NN2 is_VBZ unknown_JJ and_CC thus_RR a_AT1 non-parametric_JJ statistic_NN1 was_VBDZ required_VVN ._. 
+</s>
+<s>
+Because_CS we_PPIS2 used_VVD the_AT WMW_NP1 rank-sum_JJ test_NN1 to_TO compare_VVI the_AT efficiencies_NN2 of_IO the_AT two_MC populations_NN2 ,_, the_AT negative_JJ t-statistic_NN1 means_VVZ that_CST we_PPIS2 can_VM claim_VVI the_AT first_MD population_NN1 was_VBDZ generally_RR more_RGR efficient_JJ than_CSN the_AT second_MD population_NN1 ,_, while_CS a_AT1 positive_JJ t-statistic_NN1 means_VVZ that_CST we_PPIS2 can_VM claim_VVI the_AT first_MD population_NN1 was_VBDZ generally_RR less_RGR efficient_JJ than_CSN the_AT second_MD population_NN1 ._. 
+</s>
+<s>
+The_AT significance_NN1 level_NN1 of_IO this_DD1 claim_NN1 is_VBZ calculated_VVN from_II the_AT t-statistic_NN1 using_VVG the_AT inverse_NN1 of_IO the_AT standard_JJ normal_JJ distribution_NN1 ._. 
+</s>
+<s>
+The_AT utilities_NN2 were_VBDR analyzed_VVN with_IW DEA_NN1 using_VVG thirty_MC eight_MC different_JJ sets_NN2 of_IO output_NN1 variables_NN2 ,_, as_CSA shown_VVN along_II the_AT right_JJ side_NN1 of_IO Figure_NN1 1-Public_NN1 Versus_II Private_JJ not-for-profit_NN1 ._. 
+</s>
+<s>
+The_AT three_MC other_JJ comparisons_NN2 also_RR had_VHN figures_NN2 generated_VVN for_IF analysis_NN1 but_CCB were_VBDR not_XX included_VVN due_JJ to_TO space_VVI limitations_NN2 ._. 
+</s>
+<s>
+The_AT output_NN1 variables_NN2 were_VBDR selected_VVN from_II four_MC main_JJ categories_NN2 :_: age_NN1 and_CC length_NN1 of_IO distribution_NN1 system_NN1 and_CC various_JJ combinations_NN2 of_IO connections_NN2 and_CC treatment_NN1 volume_NN1 ._. 
+</s>
+<s>
+The_AT age_NN1 and_CC length_NN1 categories_NN2 were_VBDR the_AT average_JJ age_NN1 of_IO the_AT distribution_NN1 system_NN1 ,_, and_CC the_AT reported_JJ length_NN1 of_IO the_AT distribution_NN1 system_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+For_IF connections_NN2 ,_, the_AT categories_NN2 were_VBDR total_JJ number_NN1 of_IO connections_NN2 (_( shown_VVN as_CSA "_" total_JJ "_" on_II the_AT figures_NN2 )_) ,_, a_AT1 partial_JJ separation_NN1 into_II residential_JJ and_CC non-residential_JJ connections_NN2 (_( shown_VVN as_CSA "_" res/non-res_NN2 "_" on_II the_AT figures_NN2 )_) ,_, and_CC then_RT a_AT1 complete_JJ separation_NN1 into_II residential_JJ ,_, industrial/commercial_JJ ,_, agriculture_NN1 ,_, and_CC other_JJ connections_NN2 (_( shown_VVN as_CSA "_" RCAO_NP1 "_" on_II the_AT figures_NN2 )_) ._. 
+</s>
+<s>
+For_IF volume_NN1 ,_, the_AT categories_NN2 were_VBDR total_JJ flow_NN1 (_( shown_VVN as_CSA total_JJ on_II the_AT figures_NN2 )_) ,_, a_AT1 partial_JJ separation_NN1 into_II residential_JJ and_CC non-residential_JJ flow_NN1 (_( shown_VVN as_CSA "_" res/non-res_NN2 "_" on_II the_AT figures_NN2 )_) ,_, and_CC then_RT a_AT1 complete_JJ separation_NN1 into_II residential_JJ ,_, industrial/commercial_JJ ,_, agriculture_NN1 ,_, unaccounted_JJ for_IF water_NN1 loss_NN1 ,_, and_CC other_JJ flow_NN1 demands_NN2 (_( shown_VVN as_CSA "_" RCAOU_NP1 "_" on_II the_AT figures_NN2 )_) ._. 
+</s>
+<s>
+Each_DD1 DEA_NN1 efficiency_NN1 analysis_NN1 was_VBDZ performed_VVN using_VVG the_AT entire_JJ combined_JJ set_NN1 of_IO 714_MC utilities_NN2 of_IO all_DB ownership_NN1 categories_NN2 and_CC used_VVD the_AT described_JJ selection_NN1 of_IO variables_NN2 to_TO calculate_VVI an_AT1 efficiency_NN1 score_NN1 for_IF each_DD1 utility_NN1 ._. 
+</s>
+<s>
+For_IF each_DD1 efficiency_NN1 analysis_NN1 ,_, the_AT input_NN1 variables_NN2 were_VBDR annual_JJ expenses_NN2 and_CC average_JJ 5-year_JJ capital_NN1 investments_NN2 ._. 
+</s>
+<s>
+After_CS the_AT DEA_NN1 efficiency_NN1 analysis_NN1 was_VBDZ performed_VVN for_IF the_AT combined_JJ set_NN1 of_IO ownership_NN1 categories_NN2 ,_, the_AT WMW_NP1 comparison_NN1 t-statistic_NN1 was_VBDZ calculated_VVN between_II the_AT utilities_NN2 of_IO each_DD1 of_IO the_AT three_MC ownership_NN1 sub-categories_NN2 :_: private_JJ not-for-profit_NN1 versus_II private_JJ for-profit_NN1 ;_; private_JJ for-profit_NN1 versus_II public_NN1 ;_; and_CC public_NN1 versus_II private_JJ not-for-profit_NN1 ,_, and_CC the_AT two_MC water_NN1 source_NN1 categories_NN2 ,_, ground_NN1 water_NN1 versus_II surface_NN1 water_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO perform_VVI each_DD1 WMW_NP1 comparison_NN1 ,_, the_AT efficiency_NN1 data_NN for_IF the_AT combined_JJ set_NN1 of_IO utilities_NN2 was_VBDZ separated_VVN into_II the_AT relevant_JJ sub-categories_NN2 ,_, and_CC the_AT efficiency_NN1 data_NN for_IF the_AT utilities_NN2 in_II one_MC1 of_IO the_AT sub-categories_NN2 was_VBDZ then_RT compared_VVN against_II the_AT efficiency_NN1 data_NN for_IF the_AT utilities_NN2 in_II another_DD1 one_MC1 of_IO the_AT subcategories_NN2 ._. 
+</s>
+<s>
+A_AT1 t-statistic_NN1 for_IF the_AT comparison_NN1 was_VBDZ then_RT calculated_VVN ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 shows_VVZ the_AT results_NN2 of_IO efficiency_NN1 comparison_NN1 for_IF the_AT public_NN1 versus_II private_JJ not-for-profit_JJ ownership_NN1 categories_NN2 ._. 
+</s>
+<s>
+Figures_NN2 for_IF the_AT other_JJ comparisons_NN2 :_: private_JJ not-for-profit_NN1 versus_II private_JJ for-profit_NN1 ,_, private_JJ for-profit_NN1 versus_II public_NN1 ,_, and_CC ground_NN1 water_NN1 source_NN1 versus_II surface_NN1 water_NN1 source_NN1 are_VBR not_XX shown_VVN ._. 
+</s>
+<s>
+The_AT WMW_NP1 t-statistic_NN1 for_IF each_DD1 set_NN1 of_IO variables_NN2 was_VBDZ plotted_VVN from_II largest_JJT to_II smallest_JJT ,_, with_IW a_AT1 description_NN1 of_IO the_AT variables_NN2 used_VVN for_IF each_DD1 efficiency_NN1 analysis_NN1 shown_VVN next_II21 to_II22 each_DD1 t-statistic_JJ plot_NN1 ._. 
+</s>
+<s>
+The_AT description_NN1 of_IO the_AT four_MC categories_NN2 of_IO variables_NN2 used_VVN in_II the_AT DEA_NN1 analysis_NN1 is_VBZ shown_VVN as_II a_AT1 series_NN of_IO columns_NN2 along_II the_AT right_JJ side_NN1 of_IO the_AT plot_NN1 ._. 
+</s>
+<s>
+The_AT ranked_JJ efficiencies_NN2 of_IO public_JJ utilities_NN2 versus_II the_AT private_JJ not-for-profit_JJ utilities_NN2 generally_RR showed_VVD a_AT1 moderate_JJ yet_RR statistically_RR significant_JJ advantage_NN1 of_IO the_AT public_JJ utilities_NN2 over_II the_AT private_JJ not-for-profit_JJ utilities_NN2 for_IF the_AT majority_NN1 of_IO cases_NN2 ,_, as_CSA shown_VVN in_II Fig._NN1 1_MC1 ._. 
+</s>
+<s>
+Twelve_MC of_IO the_AT variable_JJ sets_NN2 used_VVN for_IF efficiency_NN1 analysis_NN1 indicated_VVD that_CST private_JJ not-for-profit_JJ utilities_NN2 were_VBDR more_RGR efficient_JJ ,_, while_CS twenty-six_MC of_IO the_AT variable_JJ sets_NN2 used_VVN for_IF efficiency_NN1 analysis_NN1 indicated_VVD that_CST the_AT public_JJ utilities_NN2 were_VBDR more_RGR efficient_JJ ._. 
+</s>
+<s>
+Only_RR two_MC of_IO the_AT variable_JJ sets_NN2 used_VVN for_IF efficiency_NN1 analysis_NN1 that_CST showed_VVD greater_JJR efficiency_NN1 from_II the_AT private_JJ not-for-profit_JJ utilities_NN2 had_VHD more_DAR than_CSN 90_MC percent_NNU significance_NN1 ._. 
+</s>
+<s>
+Similar_JJ to_II the_AT previous_JJ comparison_NN1 of_IO private_JJ for-profit_JJ utilities_NN2 versus_II public_JJ utilities_NN2 ,_, the_AT variable_JJ sets_NN2 which_DDQ showed_VVD the_AT least_RGT public_JJ utility_NN1 efficiency_NN1 were_VBDR either_RR distribution_NN1 network_NN1 length_NN1 and_CC average_JJ pipeline_NN1 age_NN1 ,_, or_CC length_NN1 and_CC age_NN1 combined_VVN with_IW total_JJ water_NN1 volume_NN1 ._. 
+</s>
+<s>
+Both_DB2 showed_VVD a_AT1 statistically_RR significant_JJ (_( greater_JJR than_CSN 90_MC percent_NNU )_) efficiency_NN1 advantage_NN1 of_IO the_AT private_JJ not-for-profit_JJ utilities_NN2 over_II the_AT public_JJ utilities_NN2 ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI noted_VVN that_CST the_AT variable_JJ set_NN1 of_IO distribution_NN1 network_NN1 length_NN1 and_CC average_JJ pipeline_NN1 age_NN1 used_VMK to_TO compare_VVI the_AT public_JJ utilities_NN2 against_II the_AT private_JJ not-for-profit_JJ utilities_NN2 resulted_VVN in_II the_AT most_RGT significant_JJ t-statistic_NN1 of_IO any_DD of_IO the_AT variable_JJ sets_NN2 used_VVN for_IF any_DD of_IO the_AT utility_NN1 comparisons_NN2 ,_, with_IW essentially_RR 100_MC percent_NNU significance_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT top_NN1 eight_MC variable_JJ sets_NN2 showing_VVG the_AT greatest_JJT efficiency_NN1 of_IO the_AT private_JJ not-for-profit_JJ utilities_NN2 all_DB used_JJ distribution_NN1 network_NN1 length_NN1 and_CC average_JJ pipeline_NN1 age_NN1 as_CSA measurement_NN1 variables_NN2 ._. 
+</s>
+<s>
+In_II contrast_NN1 ,_, none_PN of_IO the_AT top_NN1 eight_MC variable_JJ sets_NN2 which_DDQ indicated_VVD the_AT greatest_JJT efficiency_NN1 of_IO the_AT public_JJ utilities_NN2 used_VVD average_JJ network_NN1 length_NN1 as_II a_AT1 measurement_NN1 variable_NN1 and_CC only_RR three_MC of_IO the_AT eight_MC used_JJ average_JJ distribution_NN1 network_NN1 age_NN1 as_II a_AT1 measurement_NN1 variable_NN1 ._. 
+</s>
+<s>
+Eleven_MC of_IO the_AT variable_JJ sets_NN2 used_VVN for_IF efficiency_NN1 analysis_NN1 which_DDQ showed_VVD greater_JJR efficiency_NN1 from_II the_AT public_JJ utilities_NN2 had_VHD more_DAR than_CSN 90_MC percent_NNU significance_NN1 ._. 
+</s>
+<s>
+All_RR21 but_RR22 one_MC1 of_IO these_DD2 variable_JJ sets_NN2 measured_VVD some_DD combination_NN1 of_IO both_DB2 network_NN1 connections_NN2 and_CC water_NN1 volume_NN1 delivery_NN1 ._. 
+</s>
+<s>
+More_DAR than_CSN half_DB of_IO these_DD2 cases_NN2 used_VVD the_AT most_RGT discrete_JJ measurement_NN1 possible_JJ of_IO both_DB2 network_NN1 connections_NN2 and_CC water_NN1 volume_NN1 delivery_NN1 in_II the_AT form_NN1 of_IO either_DD1 residential_JJ ,_, industrial/commercial_JJ ,_, agriculture_NN1 ,_, andother_VV0 connections_NN2 ,_, or_CC residential_JJ ,_, industrial/commercial_JJ ,_, agriculture_NN1 ,_, unaccounted_JJ for_IF water_NN1 loss_NN1 ,_, and_CC other_JJ flow_NN1 demands_NN2 ._. 
+</s>
+<s>
+By_II comparison_NN1 ,_, none_PN of_IO the_AT variable_JJ sets_NN2 which_DDQ showed_VVD greater_JJR efficiency_NN1 from_II the_AT private_JJ not-for-profit_JJ utilities_NN2 used_VVD either_RR connection_NN1 data_NN or_CC water_NN1 volume_NN1 data_NN at_II this_DD1 level_NN1 of_IO detail_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, it_PPH1 appears_VVZ that_CST public_JJ water_NN1 utilities_NN2 are_VBR more_RGR efficient_JJ than_CSN private_JJ not-for-profit_JJ utilities_NN2 at_II serving_VVG a_AT1 variety_NN1 of_IO customer_NN1 types_NN2 ,_, and_CC are_VBR not_XX as_RG efficient_JJ at_II serving_VVG a_AT1 single_JJ customer_NN1 type_NN1 ._. 
+</s>
+<s>
+The_AT ranked_JJ efficiencies_NN2 of_IO private_JJ not-for-profit_JJ utilities_NN2 versus_II the_AT private_JJ for-profit_JJ utilities_NN2 showed_VVD a_AT1 moderate_JJ yet_RR statistically_RR significant_JJ advantage_NN1 of_IO the_AT private_JJ not-for-profit_JJ utilities_NN2 over_II the_AT private_JJ for-profit_JJ utilities_NN2 for_IF almost_RR all_DB cases_NN2 ._. 
+</s>
+<s>
+Only_RR six_MC sets_NN2 of_IO output_NN1 variables_NN2 showed_VVD greater_JJR efficiency_NN1 of_IO the_AT private_JJ for-profit_JJ utilities_NN2 ,_, with_IW the_AT largest_JJT difference_NN1 in_II efficiency_NN1 being_NN1 when_CS using_VVG residential_JJ and_CC non-residential_JJ connections_NN2 and_CC residential_JJ and_CC nonresidential_JJ treatment_NN1 volume_NN1 as_CSA output_NN1 variables_NN2 ._. 
+</s>
+<s>
+The_AT comparison_NN1 when_CS using_VVG the_AT most_RGT pro-private_JJ for-profit_JJ utility_NN1 variable_NN1 set_NN1 had_VHD a_AT1 t-statistic_NN1 of_IO 0.39_MC ,_, indicating_VVG only_RR a_AT1 30.6_MC percent_NNU chance_NN1 of_IO true_JJ difference_NN1 between_II utilities_NN2 measured_VVD using_VVG these_DD2 variables_NN2 ,_, which_DDQ is_VBZ not_XX a_AT1 statistically_RR significant_JJ difference_NN1 ._. 
+</s>
+<s>
+None_PN of_IO the_AT variable_JJ sets_NN2 which_DDQ indicated_VVD that_CST private_JJ for-profit_JJ utilities_NN2 were_VBDR more_RGR efficient_JJ used_JJ distribution_NN1 system_NN1 length_NN1 as_II an_AT1 output_NN1 variable_NN1 ._. 
+</s>
+<s>
+This_DD1 implies_VVZ that_CST the_AT systems_NN2 with_IW the_AT greatest_JJT distribution_NN1 system_NN1 length_NN1 were_VBDR the_AT private_JJ not-for-profit_JJ systems_NN2 and_CC that_CST they_PPHS2 would_VM use_VVI less_DAR input_NN1 ,_, in_II the_AT form_NN1 of_IO capital_NN1 investment_NN1 and_CC yearly_JJ expenses_NN2 ,_, to_TO manage_VVI a_AT1 distribution_NN1 system_NN1 of_IO any_DD particular_JJ length_NN1 ._. 
+</s>
+<s>
+By_II comparison_NN1 ,_, 32_MC variable_JJ sets_NN2 showed_VVD that_CST the_AT private_JJ not-for-profit_JJ utilities_NN2 are_VBR more_RGR efficient_JJ than_CSN the_AT private_JJ for-profit_JJ water_NN1 utilities_NN2 ._. 
+</s>
+<s>
+The_AT largest_JJT t-statistic_NN1 showing_VVG greater_JJR private_JJ not-for-profit_JJ efficiency_NN1 was_VBDZ -4.40_MC ,_, and_CC resulted_VVD from_II using_VVG distribution_NN1 network_NN1 length_NN1 and_CC average_JJ pipeline_NN1 age_NN1 as_CSA output_NN1 variables_NN2 ._. 
+</s>
+<s>
+This_DD1 result_NN1 is_VBZ fairly_RR uninteresting_JJ since_CS water_NN1 utilities_NN2 are_VBR typically_RR valued_VVN by_II the_AT quantity_NN1 of_IO water_NN1 they_PPHS2 produce_VV0 ,_, measured_VVN by_II flow_NN1 volume_NN1 ,_, and_CC the_AT number_NN1 of_IO customers_NN2 they_PPHS2 serve_VV0 ,_, measured_VVN by_II number_NN1 of_IO connections_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT next_MD highest_JJT t-statistic_NN1 ,_, -2.12_MC ,_, resulted_VVN from_II using_VVG distribution_NN1 network_NN1 length_NN1 ,_, average_JJ pipeline_NN1 age_NN1 ,_, and_CC total_JJ treatment_NN1 volume_NN1 as_CSA output_NN1 variables_NN2 ,_, and_CC was_VBDZ statistically_RR significant_JJ with_IW a_AT1 96.6_MC percent_NNU probability_NN1 of_IO difference_NN1 ._. 
+</s>
+<s>
+Three_MC more_DAR comparisons_NN2 also_RR demonstrated_VVN that_CST the_AT private_JJ not-for-profit_JJ utilities_NN2 are_VBR more_RGR efficient_JJ than_CSN the_AT private_JJ for-profit_JJ water_NN1 utilities_NN2 with_IW greater_JJR than_CSN 90_MC percent_NNU significance_NN1 ._. 
+</s>
+<s>
+The_AT ranked_JJ efficiencies_NN2 of_IO private_JJ for-profit_JJ utilities_NN2 versus_II public_JJ utilities_NN2 showed_VVD a_AT1 strong_JJ ,_, statistically_RR significant_JJ advantage_NN1 of_IO the_AT public_JJ utilities_NN2 over_II the_AT private_JJ for-profit_JJ utilities_NN2 for_IF all_RR21 but_RR22 two_MC cases_NN2 ._. 
+</s>
+<s>
+The_AT only_JJ variable_NN1 sets_NN2 used_VVN for_IF efficiency_NN1 analysis_NN1 which_DDQ resulted_VVD in_RR21 private_RR22 for-profit_JJ utilities_NN2 being_VBG more_RGR efficient_JJ than_CSN public_JJ utilities_NN2 were_VBDR when_CS using_VVG distribution_NN1 network_NN1 length_NN1 and_CC average_JJ pipeline_NN1 age_NN1 ,_, either_RR alone_JJ or_CC combined_VVN with_IW total_JJ water_NN1 volume_NN1 ,_, with_IW 99.6_MC and_CC 67.6_MC percent_NNU significance_NN1 respectively_RR ._. 
+</s>
+<s>
+Every_AT1 variable_JJ set_NN1 which_DDQ used_VVD some_DD measure_NN1 of_IO connections_NN2 within_II the_AT distribution_NN1 system_NN1 to_TO measure_VVI efficiency_NN1 resulted_VVN in_II the_AT public_JJ utilities_NN2 being_VBG evaluated_VVN as_RG more_RGR efficient_JJ than_CSN the_AT private_JJ for-profit_JJ utilities_NN2 ._. 
+</s>
+<s>
+There_EX were_VBDR 25_MC variable_JJ sets_NN2 used_VVN to_II measure_NN1 efficiency_NN1 which_DDQ indicated_VVD greater_JJR efficiency_NN1 of_IO public_JJ utilities_NN2 over_II private_JJ for-profit_JJ utilities_NN2 with_IW greater_JJR then_RT 90_MC percent_NNU significance_NN1 ._. 
+</s>
+<s>
+None_PN of_IO the_AT top_NN1 ten_MC variable_JJ sets_NN2 which_DDQ showed_VVD the_AT greatest_JJT public_JJ utility_NN1 efficiency_NN1 used_JJ distribution_NN1 system_NN1 length_NN1 as_II a_AT1 measurement_NN1 variable_NN1 ._. 
+</s>
+<s>
+However_RR ,_, 13_MC of_IO the_AT data_NN sets_NN2 which_DDQ used_JJ distribution_NN1 system_NN1 length_NN1 still_RR showed_VVD greater_JJR public_JJ utility_NN1 efficiency_NN1 with_IW significance_NN1 greater_JJR than_CSN 90_MC percent_NNU ._. 
+</s>
+<s>
+It_PPH1 appears_VVZ that_CST using_VVG distribution_NN1 system_NN1 length_NN1 as_II a_AT1 measurement_NN1 variable_NN1 tends_VVZ to_TO moderately_RR decrease_VVI the_AT efficiency_NN1 of_IO private_JJ for-profit_JJ water_NN1 utilities_NN2 compared_VVN to_II public_JJ water_NN1 utilities_NN2 ,_, but_CCB the_AT effect_NN1 is_VBZ n't_XX enough_RR to_TO completely_RR overcome_VVI the_AT efficiency_NN1 effects_NN2 of_IO the_AT rest_NN1 of_IO the_AT variables_NN2 ._. 
+</s>
+<s>
+The_AT use_NN1 of_IO completely_RR separated_JJ connection_NN1 or_CC flow_NN1 variables_NN2 tended_VVD to_TO push_VVI the_AT efficiencies_NN2 towards_II the_AT public_JJ utilities_NN2 ._. 
+</s>
+<s>
+The_AT ranked_JJ efficiencies_NN2 of_IO ground_NN1 water_NN1 utilities_NN2 versus_II surface_NN1 water_NN1 utilities_NN2 generally_RR showed_VVD a_AT1 slight_JJ ,_, yet_RR statistically_RR significant_JJ advantage_NN1 of_IO the_AT ground_NN1 water_NN1 utilities_NN2 over_II the_AT surface_NN1 water_NN1 utilities_NN2 for_IF the_AT majority_NN1 of_IO cases_NN2 ,_, as_CSA shown_VVN in_II Fig._NN1 4_MC ._. 
+</s>
+<s>
+Overall_RR ,_, there_EX were_VBDR twelve_MC variable_NN1 sets_VVZ that_CST demonstrated_VVD an_AT1 efficiency_NN1 advantage_NN1 to_II surface_NN1 water_NN1 utilities_NN2 while_CS there_EX were_VBDR twenty-six_MC variables_NN2 sets_VVZ that_CST showed_VVD efficiency_NN1 advantage_NN1 to_II ground_NN1 water_NN1 utilities_NN2 ._. 
+</s>
+<s>
+However_RR ,_, eight_MC of_IO the_AT variable_NN1 sets_VVZ that_CST showed_VVD a_AT1 surface_NN1 water_NN1 utility_NN1 advantage_NN1 and_CC nine_MC of_IO the_AT variable_NN1 sets_VVZ that_CST showed_VVD a_AT1 ground_NN1 water_NN1 utility_NN1 advantage_NN1 had_VHD less_DAR than_CSN 50_MC percent_NNU significance_NN1 ,_, indicating_VVG that_CST there_EX was_VBDZ a_AT1 greater_JJR than_CSN 50-50_MCMC chance_NN1 that_CST these_DD2 data_NN sets_NN2 were_VBDR identical_JJ ._. 
+</s>
+<s>
+Only_RR one_MC1 variable_JJ set_NN1 used_VVN for_IF efficiency_NN1 measurement_NN1 that_CST demonstrated_VVD an_AT1 efficiency_NN1 advantage_NN1 to_II surface_NN1 water_NN1 utilities_NN2 had_VHD greater_JJR than_CSN 90_MC percent_NNU significance_NN1 ,_, while_CS nine_MC variables_NN2 sets_VVZ that_CST showed_VVD efficiency_NN1 advantage_NN1 to_II ground_NN1 water_NN1 utilities_NN2 had_VHD greater_JJR than_CSN 90_MC percent_NNU significance_NN1 ._. 
+</s>
+<s>
+The_AT only_JJ statistically_RR significant_JJ variable_NN1 set_NN1 which_DDQ indicated_VVD surface_NN1 water_NN1 utility_NN1 efficiency_NN1 advantage_NN1 was_VBDZ when_RRQ total_JJ water_NN1 delivery_NN1 was_VBDZ used_VVN as_II the_AT sole_JJ measurement_NN1 variable_NN1 ._. 
+</s>
+<s>
+Adding_VVG additional_JJ measurement_NN1 variables_NN2 which_DDQ would_VM account_VVI for_IF either_RR distribution_NN1 system_NN1 length_NN1 ,_, or_CC numbers_NN2 or_CC types_NN2 of_IO customers_NN2 ,_, all_DB caused_VVD a_AT1 reduction_NN1 in_II surface_NN1 water_NN1 utility_NN1 efficiency_NN1 and_CC an_AT1 increase_NN1 in_II ground_NN1 water_NN1 utility_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+This_DD1 implies_VVZ that_DD1 surface_NN1 water_NN1 utilities_NN2 are_VBR most_RGT efficient_JJ when_CS they_PPHS2 have_VH0 a_AT1 few_DA2 ,_, high-volume_NN1 ,_, customers_NN2 such_II21 as_II22 irrigation_NN1 or_CC large_JJ industrial_JJ demands_NN2 ._. 
+</s>
+<s>
+However_RR ,_, another_DD1 data_NN trend_NN1 indicates_VVZ potentially_RR contrasting_JJ results_NN2 ,_, and_CC that_DD1 is_VBZ when_RRQ the_AT water_NN1 delivery_NN1 category_NN1 was_VBDZ fully_RR broken_VVN down_RP into_II the_AT component_NN1 variables_NN2 of_IO residential_JJ ,_, commercial/industrial_JJ ,_, agricultural_JJ ,_, other_JJ ,_, and_CC unaccounted_JJ for_IF water_NN1 deliveries_NN2 ._. 
+</s>
+<s>
+DEA_NP1 efficiency_NN1 measurements_NN2 which_DDQ used_VVD these_DD2 variables_NN2 tended_VVD to_TO show_VVI a_AT1 moderate_JJ trend_NN1 towards_II ground_NN1 water_NN1 utilities_NN2 compared_VVN to_II surface_NN1 water_NN1 utilities_NN2 ,_, with_IW seven_MC of_IO the_AT measurements_NN2 indicating_VVG the_AT superior_JJ efficiency_NN1 of_IO surface_NN1 water_NN1 utilities_NN2 ,_, and_CC only_RR three_MC indicting_VVG the_AT efficiency_NN1 of_IO ground_NN1 water_NN1 utilities_NN2 ._. 
+</s>
+<s>
+This_DD1 result_NN1 does_VDZ not_XX indicate_VVI a_AT1 strong_JJ trend_NN1 ,_, since_CS none_PN of_IO the_AT results_NN2 were_VBDR at_II high_JJ levels_NN2 of_IO significance_NN1 ,_, but_CCB does_VDZ indicate_VVI a_AT1 mild_JJ trend_NN1 towards_II the_AT efficiency_NN1 of_IO surface_NN1 water_NN1 utilities_NN2 over_II ground_NN1 water_NN1 utilities_NN2 when_CS delivering_VVG a_AT1 lot_NN1 of_IO water_NN1 to_II a_AT1 wide_JJ variety_NN1 of_IO customers_NN2 ._. 
+</s>
+<s>
+Since_CS tracking_JJ and_CC maintaining_VVG information_NN1 variables_NN2 entails_VVZ a_AT1 cost_NN1 ,_, it_PPH1 is_VBZ reasonable_JJ to_TO discuss_VVI variable_JJ selection_NN1 criteria_NN2 ._. 
+</s>
+<s>
+The_AT essential_JJ question_NN1 is_VBZ :_: What_DDQ variables_NN2 reasonably_RR add_VV0 new_JJ information_NN1 ?_? 
+</s>
+<s>
+As_II part_NN1 of_IO this_DD1 study_NN1 ,_, we_PPIS2 briefly_RR investigated_VVD the_AT additional_JJ information_NN1 provided_VVN as_II a_AT1 result_NN1 of_IO additional_JJ measurement_NN1 variables_NN2 by_II using_VVG an_AT1 informational_JJ surrogate_NN1 which_DDQ measured_VVD the_AT informational_JJ spread_NN1 in_II efficiency_NN1 ranking_NN1 obtained_VVN when_CS using_VVG additional_JJ variables_NN2 ._. 
+</s>
+<s>
+Informational_JJ spread_NN1 was_VBDZ defined_VVN as_CSA (_( 1_MC1 )_) where_RRQ a_AT1 and_CC b_ZZ1 are_VBR the_AT utility_NN1 rankings_NN2 using_VVG two_MC sets_NN2 of_IO measurement_NN1 variables_NN2 A_ZZ1 and_CC B._NP1 Spread_NN1 approximates_VVZ the_AT difference_NN1 in_II informational_JJ content_NN1 measured_VVN by_II two_MC variable_JJ sets_NN2 because_CS it_PPH1 measures_VVZ the_AT absolute_JJ difference_NN1 in_II efficiency_NN1 ranking_VVG due_II21 to_II22 the_AT change_NN1 in_II measurement_NN1 variables_NN2 ._. 
+</s>
+<s>
+Large_JJ changes_NN2 in_II efficiency_NN1 ranking_VVG between_II variable_JJ sets_NN2 imply_VV0 a_AT1 large_JJ informational_JJ difference_NN1 between_II the_AT variable_JJ sets_NN2 and_CC would_VM result_VVI in_II a_AT1 large_JJ calculated_JJ spread_NN1 ._. 
+</s>
+<s>
+Correspondingly_RR ,_, small_JJ or_CC random_JJ changes_NN2 in_II efficiency_NN1 ranking_VVG between_II variable_JJ sets_NN2 imply_VV0 a_AT1 small_JJ informational_JJ difference_NN1 between_II the_AT variable_JJ sets_NN2 and_CC would_VM result_VVI in_II a_AT1 small_JJ calculated_JJ spread_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 investigation_NN1 ,_, the_AT information_NN1 spread_VVN between_II different_JJ measurement_NN1 variables_NN2 was_VBDZ determined_VVN for_IF a_AT1 series_NN of_IO variable_NN1 sets_VVZ that_CST were_VBDR kept_VVN constant_JJ for_IF all_RR21 but_RR22 one_MC1 measurement_NN1 category_NN1 ._. 
+</s>
+<s>
+Each_DD1 variable_JJ set_NN1 used_VVN for_IF efficiency_NN1 measurement_NN1 consisted_VVN of_IO distribution_NN1 network_NN1 length_NN1 ,_, average_JJ pipeline_NN1 age_NN1 ,_, and_CC variables_NN2 from_II both_DB2 the_AT connection_NN1 and_CC volume_NN1 categories_NN2 ._. 
+</s>
+<s>
+All_DB the_AT variables_NN2 measuring_VVG length_NN1 ,_, age_NN1 ,_, and_CC one_MC1 of_IO the_AT two_MC remaining_JJ categories_NN2 were_VBDR kept_VVN constant_JJ ,_, and_CC the_AT base_NN1 efficiency_NN1 scores_NN2 for_IF the_AT utilities_NN2 were_VBDR determined_VVN by_II excluding_VVG the_AT remaining_JJ measurement_NN1 category_NN1 ._. 
+</s>
+<s>
+The_AT remaining_JJ variable_NN1 category_NN1 then_RT was_VBDZ increased_VVN to_II a_AT1 single_JJ value_NN1 representing_VVG the_AT total_JJ value_NN1 for_IF that_DD1 category_NN1 ,_, then_RT to_II a_AT1 partial_JJ separation_NN1 into_II the_AT residential_JJ and_CC non-residential_JJ values_NN2 for_IF that_DD1 category_NN1 ,_, and_CC then_RT to_II a_AT1 complete_JJ separation_NN1 for_IF that_DD1 category_NN1 ._. 
+</s>
+<s>
+The_AT informational_JJ spread_NN1 was_VBDZ calculated_VVN between_II the_AT basic_JJ case_NN1 ,_, which_DDQ did_VDD not_XX include_VVI the_AT varying_JJ category_NN1 ,_, and_CC between_II the_AT more_RGR advanced_JJ cases_NN2 ,_, which_DDQ did_VDD include_VVI the_AT varying_JJ category_NN1 ._. 
+</s>
+<s>
+The_AT informational_JJ spread_NN1 was_VBDZ plotted_VVN against_II the_AT number_NN1 of_IO new_JJ variables_NN2 added_VVN for_IF each_DD1 case_NN1 ,_, as_CSA shown_VVN in_II Fig._NN1 2_MC ._. 
+</s>
+<s>
+The_AT legend_NN1 shows_VVZ the_AT number_NN1 of_IO variables_NN2 in_II the_AT basic_JJ case_NN1 ,_, while_CS the_AT x-axis_NN1 shows_VVZ the_AT number_NN1 of_IO additional_JJ variables_NN2 added_VVN for_IF each_DD1 analysis_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ clearly_RR a_AT1 trend_NN1 towards_II marginal_JJ returns_NN2 as_II the_AT variable_JJ categories_NN2 are_VBR broken_VVN down_RP into_II more_RGR discrete_JJ measurement_NN1 ._. 
+</s>
+<s>
+The_AT only_RR outlier_JJR is_VBZ the_AT line_NN1 representing_VVG the_AT increase_NN1 in_II volume_NN1 measurement_NN1 when_CS length_NN1 ,_, age_NN1 ,_, and_CC RCAO_NN1 connections_NN2 were_VBDR kept_VVN constant_JJ ._. 
+</s>
+<s>
+This_DD1 plot_NN1 reveals_VVZ the_AT decreasing_JJ marginal_JJ return_NN1 on_II information_NN1 gained_VVN from_II using_VVG a_AT1 more_RGR discrete_JJ measurement_NN1 of_IO any_DD particular_JJ data_NN category_NN1 ._. 
+</s>
+<s>
+The_AT work_NN1 reported_VVD here_RL reveals_VVZ a_AT1 distinct_JJ efficiency_NN1 advantage_NN1 of_IO public_JJ utilities_NN2 over_II private_JJ for-profit_JJ utilities_NN2 ._. 
+</s>
+<s>
+Every_AT1 analysis_NN1 that_CST used_VVD some_DD measure_NN1 of_IO number_NN1 of_IO connections_NN2 within_II a_AT1 distribution_NN1 system_NN1 resulted_VVN in_II public_JJ utilities_NN2 being_VBG evaluated_VVN as_RG more_RGR efficient_JJ than_CSN private_JJ for-profit_JJ utilities_NN2 ._. 
+</s>
+<s>
+In_II comparing_VVG public_JJ utilities_NN2 to_II private_JJ not-for-profit_JJ utilities_NN2 ,_, a_AT1 much_RR more_RGR moderate_JJ yet_RR statistically_RR significant_JJ efficiency_NN1 advantage_NN1 was_VBDZ evident_JJ for_IF the_AT former_DA in_II the_AT majority_NN1 of_IO cases_NN2 studied_VVD ._. 
+</s>
+<s>
+None_PN of_IO the_AT variable_JJ set_NN1 cases_NN2 that_CST showed_VVD greater_JJR efficiency_NN1 for_IF private_JJ not-for-profit_JJ utilities_NN2 used_VVD either_RR connection_NN1 data_NN or_CC water_NN1 volume_NN1 data_NN in_II full_JJ detail_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 also_RR indicate_VV0 that_CST while_CS public_JJ water_NN1 utilities_NN2 are_VBR more_RGR efficient_JJ than_CSN private_JJ not-for-profit_JJ utilities_NN2 for_IF serving_VVG a_AT1 variety_NN1 of_IO customer_NN1 types_NN2 ,_, the_AT latter_DA are_VBR more_RGR efficient_JJ for_IF serving_VVG a_AT1 single_JJ customer_NN1 type_NN1 ._. 
+</s>
+<s>
+Private_JJ not-for-profit_JJ utilities_NN2 were_VBDR found_VVN to_TO have_VHI a_AT1 statistically_RR significant_JJ efficiency_NN1 advantage_NN1 over_II private_JJ for-profit_JJ utilities_NN2 for_IF almost_RR all_DB selections_NN2 of_IO management_NN1 variables_NN2 ,_, particularly_RR for_IF managing_VVG larger_JJR distribution_NN1 networks_NN2 ._. 
+</s>
+<s>
+Comparisons_NN2 of_IO ground_NN1 water_NN1 source_NN1 utilities_NN2 versus_II surface_NN1 water_NN1 source_NN1 utilities_NN2 generally_RR showed_VVD a_AT1 slight_JJ ,_, yet_RR statistically_RR significant_JJ ,_, efficiency_NN1 advantage_NN1 for_IF the_AT former_DA in_II the_AT majority_NN1 of_IO cases_NN2 studied_VVD ._. 
+</s>
+<s>
+Utilities_NN2 employing_VVG surface-water_JJ sources_NN2 are_VBR most_RGT efficient_JJ when_CS they_PPHS2 serve_VV0 a_AT1 few_DA2 ,_, high-volume_JJ demand_NN1 consumers_NN2 ,_, such_II21 as_II22 irrigation_NN1 or_CC large_JJ industrial_JJ systems_NN2 ,_, while_CS ground-water_NN1 source_NN1 utilities_NN2 tend_VV0 to_TO be_VBI more_RGR efficient_JJ when_CS delivering_VVG large_JJ volumes_NN2 of_IO water_NN1 to_II a_AT1 wide_JJ variety_NN1 of_IO different_JJ types_NN2 of_IO consumers_NN2 .._... 
+</s>
+<s>
+Finally_RR ,_, informational_JJ spread_NN1 behavior_NN1 as_II a_AT1 function_NN1 of_IO measurement_NN1 variables_NN2 employed_VVN indicates_VVZ decreasing_JJ marginal_JJ returns_NN2 on_II information_NN1 gained_VVN from_II using_VVG more_RGR discrete_JJ measurements_NN2 of_IO any_DD particular_JJ data_NN category_NN1 ._. 
+</s>
+<s>
+The_AT authors_NN2 wish_VV0 to_TO acknowledge_VVI Lawrence_NP1 M._NN1 Seiford_NP1 ,_, Chairman_NN1 of_IO the_AT Department_NN1 of_IO Industrial_JJ and_CC Operations_NN2 Engineering_NN1 ,_, Warren_NP1 Sutton_NP1 ,_, doctoral_JJ candidate_NN1 in_II the_AT Department_NN1 of_IO Industrial_JJ and_CC Operations_NN2 Engineering_NN1 ,_, and_CC Jill_NP1 Ostrowski_NP1 ,_, undergraduate_NN1 in_II the_AT Department_NN1 of_IO Civil_JJ and_CC Environmental_JJ Engineering_NN1 ,_, for_IF their_APPGE critical_JJ appraisal_NN1 and_CC evaluation_NN1 of_IO the_AT manuscript_NN1 ._. 
+</s>

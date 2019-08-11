@@ -1,0 +1,462 @@
+<s>
+There_EX are_VBR two_MC competing_JJ theories_NN2 about_II the_AT D-structure_JJ position_NN1 of_IO subjects_NN2 ,_, one_PN1 positing_VVG VP-external_JJ subjects_NN2 and_CC the_AT other_JJ positing_JJ VP-internal_JJ subjects_NN2 ._. 
+</s>
+<s>
+The_AT VP-external_JJ subjects_NN2 hypothesis_NN1 proposes_VVZ that_CST the_AT subject_NN1 of_IO a_AT1 clause_NN1 is_VBZ base-generated_JJ in_II the_AT (_( Spec_NP1 ,_, IP_NP1 )_) position_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 position_NN1 at_II D-structure_NN1 ,_, the_AT subject_NN1 does_VDZ not_XX have_VHI to_TO undergo_VVI movement_NN1 to_TO be_VBI in_II (_( Spec_NP1 ,_, IP_NP1 )_) at_II S-structure_NN1 ._. 
+</s>
+<s>
+The_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 claims_VVZ that_CST the_AT subject_NN1 starts_VVZ in_II a_AT1 position_NN1 immediately_RR dominated_VVN by_II the_AT VP_NP1 and_CC then_RT moves_VVZ to_II (_( Spec_NP1 ,_, IP_NP1 )_) ._. 
+</s>
+<s>
+The_AT movement_NN1 is_VBZ captured_VVN symbolically_RR with_IW NP*_FO representing_VVG the_AT NP_NP1 where_CS it_PPH1 is_VBZ base-generated_JJ and_CC NP_NP1 is_VBZ the_AT NP_NP1 at_II S-structure_NN1 ._. 
+</s>
+<s>
+This_DD1 notation_NN1 ,_, adopted_VVN from_II Sportiche_NP1 (_( 1988_MC )_) will_VM facilitate_VVI the_AT discussion_NN1 ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO explore_VVI the_AT benefits_NN2 and_CC drawbacks_NN2 of_IO each_DD1 theory_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM involve_VVI looking_VVG at_II theta-role_JJ assignment_NN1 ,_, theoretical_JJ motivations_NN2 (_( idiosyncratic_JJ theta_NN1 role_NN1 assignment_NN1 )_) ,_, empirical_JJ motivations_NN2 stemming_VVG from_II an_AT1 analysis_NN1 of_IO 'floating'_JJ quantifiers_NN2 (_( Sportiche_NP1 ,_, 1988_MC )_) ,_, and_CC the_AT ungovernability_NN1 of_IO PRO_NN1 ._. 
+</s>
+<s>
+With_IW the_AT information_NN1 presented_VVD so_RG far_RR it_PPH1 seems_VVZ like_II VP-external_JJ subjects_NN2 would_VM be_VBI preferable_JJ because_CS it_PPH1 is_VBZ simpler_JJR ._. 
+</s>
+<s>
+VP-internal_JJ subjects_NN2 theorizes_VVZ movement_NN1 from_II daughter_NN1 of_IO V''_NP1 to_II (_( Spec_NP1 ,_, IP_NP1 )_) while_CS VP-external_JJ puts_VVZ the_AT subject_NN1 in_II (_( Spec_NP1 ,_, IP_NP1 )_) in_II D-structure_NN1 ,_, bypassing_VVG the_AT need_NN1 for_IF movement_NN1 ._. 
+</s>
+<s>
+Theta_NN1 role_NN1 assignment_NN1 complicates_VVZ the_AT discussion_NN1 ._. 
+</s>
+<s>
+Let_VM21 's_VM22 look_VVI at_II an_AT1 example_NN1 :_: Norman_NP1 will_VM kick_VVI the_AT ball_NN1 ._. 
+</s>
+<s>
+The_AT verb_NN1 kick_NN1 assigns_VVZ two_MC theta_NN1 roles_NN2 ,_, one_MC1 to_II the_AT subject_NN1 (_( the_AT agent_NN1 theta_NN1 role_NN1 )_) ,_, one_PN1 to_II the_AT direct_JJ object_NN1 (_( the_AT patient_JJ theta_NN1 role_NN1 )_) ._. 
+</s>
+<s>
+We_PPIS2 will_VM be_VBI working_VVG with_IW the_AT assumption_NN1 that_CST theta_NN1 roles_NN2 are_VBR assigned_VVN by_II mutual_JJ m-command_NN1 ._. 
+</s>
+<s>
+How_RRQ the_AT theta_NN1 roles_NN2 are_VBR assigned_VVN varies_VVZ in_II the_AT VP-external_JJ and_CC VP-internal_JJ hypotheses_NN2 ._. 
+</s>
+<s>
+In_II VP-internal_JJ subjects_NN2 ,_, the_AT patient_JJ theta_NN1 role_NN1 would_VM be_VBI assigned_VVN to_II its_APPGE VP-internal_JJ sister_NN1 NP_NP1 'the_NN1 ball'_NN1 through_II mutual_JJ m-command_NN1 ._. 
+</s>
+<s>
+The_AT agent_NN1 theta_NN1 role_NN1 would_VM be_VBI assigned_VVN to_II the_AT internal_JJ NP_NP1 in_II the_AT (_( Spec_NP1 ,_, VP_NP1 )_) position_NN1 ._. 
+</s>
+<s>
+That_DD1 NP_NP1 in_II the_AT (_( Spec_NP1 ,_, VP_NP1 )_) ,_, once_CS it_PPH1 received_VVD the_AT agent_NN1 theta_NN1 role_NN1 ,_, would_VM then_RT move_VVI to_II (_( Spec_NP1 ,_, IP_NP1 )_) ,_, and_CC then_RT be_VBI pronounced_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ captured_VVN in_II the_AT following_JJ diagram_NN1 :_: In_II this_DD1 scenario_NN1 ,_, both_DB2 theta_NN1 roles_NN2 are_VBR assigned_VVN by_II the_AT head_NN1 of_IO the_AT verb_NN1 phrase_NN1 ._. 
+</s>
+<s>
+In_II VP-external_JJ subjects_NN2 ,_, the_AT subject_NN1 NP_NP1 starts_VVZ in_II the_AT (_( Spec_NP1 ,_, IP_NP1 )_) position_NN1 ._. 
+</s>
+<s>
+This_DD1 position_NN1 is_VBZ not_XX mutually_RR m-commanded_JJ by_II the_AT V_ZZ1 head_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, while_CS the_AT V_ZZ1 head_NN1 will_VM be_VBI able_JK to_TO assign_VVI its_APPGE patient_JJ theta_NN1 role_NN1 to_II "_" the_AT ball_NN1 "_" it_PPH1 will_VM not_XX be_VBI able_JK to_TO assign_VVI its_APPGE agent_NN1 theta_NN1 role_NN1 to_TO 'Norman'_VVI ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI overcome_VVN by_II saying_VVG that_CST the_AT agent_NN1 theta_NN1 role_NN1 is_VBZ not_XX assigned_VVN from_II the_AT V_ZZ1 head_NN1 but_CCB instead_RR by_II the_AT V''_JJ projection_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ captured_VVN in_II the_AT following_JJ diagram_NN1 :_: This_DD1 representation_NN1 is_VBZ simpler_JJR in_II one_MC1 sense_NN1 but_CCB more_RGR complicated_JJ in_II another_DD1 ._. 
+</s>
+<s>
+As_CSA stated_VVN above_RL ,_, it_PPH1 is_VBZ simpler_JJR because_CS there_EX need_VM be_VBI no_AT movement_NN1 of_IO the_AT subject_NN1 from_II (_( Spec_NP1 ,_, VP_NP1 )_) to_II (_( Spec_NP1 ,_, IP_NP1 )_) ._. 
+</s>
+<s>
+But_CCB it_PPH1 is_VBZ more_RGR complicated_JJ because_CS it_PPH1 means_VVZ that_CST there_EX are_VBR two_MC positions_NN2 that_CST are_VBR assigning_VVG the_AT verb_NN1 kick_NN1 's_GE two_MC theta_NN1 roles_NN2 ,_, the_AT Vo_NN1 and_CC V''_NP1 positions_NN2 ._. 
+</s>
+<s>
+At_II this_DD1 point_NN1 it_PPH1 is_VBZ unclear_JJ which_DDQ theory_NN1 is_VBZ preferable_JJ ._. 
+</s>
+<s>
+VP-external_JJ subjects_NN2 requires_VVZ two_MC positions_NN2 from_II which_DDQ the_AT predicate_NN1 's_GE theta_NN1 roles_NN2 are_VBR assigned_VVN but_CCB no_AT movement_NN1 ._. 
+</s>
+<s>
+VP-internal_JJ subjects_NN2 ,_, on_II the_AT other_JJ hand_NN1 ,_, would_VM mean_VVI both_DB2 theta_NN1 roles_NN2 are_VBR assigned_VVN by_II the_AT Vo_NN1 position_NN1 but_CCB that_CST there_EX must_VM be_VBI movement_NN1 from_II the_AT Spec_NP1 ,_, VP_NP1 to_II the_AT Spec_NP1 ,_, IP_NP1 ._. 
+</s>
+<s>
+It_PPH1 turns_VVZ out_RP there_RL is_VBZ support_NN1 ,_, both_RR theoretical_JJ and_CC empirical_JJ ,_, for_IF the_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 ._. 
+</s>
+<s>
+A_AT1 theoretical_JJ motivation_NN1 for_IF the_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 is_VBZ mentioned_VVN in_II The_AT Theory_NN1 of_IO Principles_NN2 and_CC Parameters_NN2 (_( Chomsky_NP1 and_CC Lasnik_NP1 ,_, 1993_MC )_) ,_, reprinted_VVN in_II (_( Chomsky_NP1 ,_, 1995_MC )_) ._. 
+</s>
+<s>
+With_IW VP-external_JJ subjects_NN2 ,_, (_( Spec_NP1 ,_, IP_NP1 )_) is_VBZ "_" the_AT only_JJ position_NN1 in_II which_DDQ -role_NN1 is_VBZ not_XX assigned_VVN within_II the_AT m-command_JJ domain_NN1 of_IO a_AT1 lexical_JJ head_NN1 "_" (_( Chomsky_NP1 ,_, 1995_MC ,_, p._NN1 60_MC )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ an_AT1 undesirable_JJ idiosyncrasy_NN1 and_CC it_PPH1 can_VM be_VBI eliminated_VVN with_IW the_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 ._. 
+</s>
+<s>
+By_II claiming_VVG the_AT thematic_JJ subject_NN1 originates_VVZ within_II VP_NP1 ,_, and_CC thus_RR within_II the_AT m-command_JJ domain_NN1 of_IO the_AT lexical_JJ head_NN1 V_ZZ1 ,_, then_RT the_AT V_ZZ1 head_NN1 can_VM assign_VVI its_APPGE subject_NN1 -role_NN1 to_II the_AT subject_NN1 itself_PPX1 ._. 
+</s>
+<s>
+And_CC then_RT all_DB -roles_NN2 are_VBR assigned_VVN by_II lexical_JJ heads_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 much_RR more_RGR elegant_JJ ,_, and_CC desirable_JJ ,_, account_VV0 ._. 
+</s>
+<s>
+There_EX is_VBZ also_RR an_AT1 empirical_JJ motivation_NN1 for_IF the_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 ._. 
+</s>
+<s>
+Dominique_NP1 Sportiche_NP1 's_GE analysis_NN1 of_IO floating_JJ quantifiers_NN2 in_II a_AT1 1988_MC paper_NN1 in_II Linguistic_JJ Inquiry_NN1 leads_VVZ him_PPHO1 to_II conclusions_NN2 about_II constituent_NN1 structure_NN1 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 he_PPHS1 proposes_VVZ VP-internal_JJ subjects_NN2 as_CSA providing_VVG an_AT1 explanatory_JJ account_NN1 of_IO "_" floating_JJ "_" quantifier_NN1 distribution_NN1 ._. 
+</s>
+<s>
+Let_VM21 's_VM22 look_VVI at_II a_AT1 couple_NN1 examples_NN2 he_PPHS1 provides_VVZ from_II French_NP1 :_: These_DD2 two_MC sentences_NN2 are_VBR paraphrases_NN2 of_IO each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+Traditional_JJ accounts_NN2 of_IO so-called_JJ floating_JJ quantifiers_NN2 would_VM claim_VVI that_CST the_AT full_JJ NP_NP1 tous_FW les_FW garons_NN2 is_VBZ base-generated_JJ in_II the_AT (_( Spec_NP1 ,_, IP_NP1 )_) position_NN1 and_CC the_AT quantifier_NN1 tous_FW would_VM then_RT float_VVI to_II another_DD1 position_NN1 in_II the_AT sentence_NN1 ._. 
+</s>
+<s>
+This_DD1 proposal_NN1 would_VM mean_VVI that_CST the_AT tous_FW would_VM float_VVI rightward_RL ,_, or_CC down_RP the_AT tree_NN1 ._. 
+</s>
+<s>
+Accounting_VVG for_IF where_RRQ the_AT quantifier_NN1 could_VM float_VVI ,_, and_CC why_RRQ ,_, was_VBDZ challenging_VVG ._. 
+</s>
+<s>
+Sportiche_NN1 proposes_VVZ an_AT1 alternative_JJ hypothesis_NN1 whereby_RRQ it_PPH1 is_VBZ not_XX the_AT quantifier_NN1 that_CST moves_NN2 but_CCB the_AT NP_NP1 itself_PPX1 ._. 
+</s>
+<s>
+In_II this_DD1 hypothesis_NN1 ,_, the_AT variation_NN1 in_II position_NN1 of_IO the_AT quantifier_NN1 tous_FW is_VBZ due_II21 to_II22 whether_CSW or_CC not_XX it_PPH1 goes_VVZ along_II21 with_II22 the_AT movement_NN1 les_FW garons_NN2 undergoes_VVZ ._. 
+</s>
+<s>
+He_PPHS1 posits_VVZ a_AT1 VP-internal_JJ subject_NN1 structure_NN1 ,_, which_DDQ would_VM mean_VVI (_( 1_MC1 )_) and_CC (_( 2_MC )_) have_VH0 a_AT1 D-structure_NN1 of_IO the_AT form_NN1 (_( diagrams_NN2 largely_RR adopted_VVN from_II (_( Haegeman_NP1 ,_, 1994_MC ,_, pp._NNU2 354-355_MCMC )_) )_) :_: In_II this_DD1 explanation_NN1 ,_, there_EX is_VBZ NP-movement_JJ ,_, not_XX Q-movement_JJ (_( quantifier_NN1 movement_NN1 )_) ._. 
+</s>
+<s>
+In_II (_( 1_MC1 )_) ,_, les_FW garons_NN2 takes_VVZ the_AT quantifier_NN1 with_IW it_PPH1 when_CS it_PPH1 moves_VVZ ,_, whereas_CS in_II (_( 2_MC )_) the_AT quantifier_NN1 stays_VVZ behind_RL and_CC modifies_VVZ the_AT NP-trace_NN1 ._. 
+</s>
+<s>
+This_DD1 accounts_VVZ for_IF the_AT location_NN1 of_IO the_AT quantifier_NN1 ._. 
+</s>
+<s>
+In_II S-structure_NN1 ,_, in_II French_NN1 at_RR21 least_RR22 ,_, there_EX is_VBZ flexibility_NN1 over_II whether_CSW the_AT quantifier_NN1 moves_VVZ with_IW the_AT NP_NP1 or_CC whether_CSW it_PPH1 remains_VVZ and_CC modifies_VVZ the_AT trace_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT distribution_NN1 of_IO so-called_JJ floating_JJ quantifiers_NN2 can_VM be_VBI explained_VVN with_IW VP-internal_JJ subjects_NN2 (_( Figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+Furthermore_RR ,_, this_DD1 explanation_NN1 leads_VVZ to_II the_AT conclusion_NN1 that_CST there_EX is_VBZ no_AT Q-float_NN1 at_RR21 all_RR22 !_! 
+</s>
+<s>
+Instead_RR ,_, there_EX is_VBZ NP_NP1 movement_NN1 and_CC variability_NN1 in_II whether_CSW the_AT quantifier_NN1 tags_VVZ along_RP on_II the_AT movement_NN1 ._. 
+</s>
+<s>
+Sportiche_NN1 discusses_VVZ an_AT1 alternative_JJ account_NN1 of_IO so-called_JJ floating_JJ quantifiers_NN2 that_CST claims_VVZ they_PPHS2 are_VBR adverbs_NN2 ._. 
+</s>
+<s>
+Drawing_VVG on_II previous_JJ work_NN1 by_II Jackendoff_NP1 (_( 1972_MC )_) ,_, he_PPHS1 restricts_VVZ his_APPGE analysis_NN1 to_II three_MC sets_NN2 of_IO adverbs_NN2 :_: sentential_JJ adverbs_NN2 ,_, manner_NN1 adverbs_NN2 and_CC subject-oriented_JJ adverbs_NN2 ._. 
+</s>
+<s>
+His_APPGE analysis_NN1 shows_VVZ that_CST quantifiers_NN2 are_VBR not_XX like_II sentential_JJ or_CC manner_NN1 adverbs_NN2 ._. 
+</s>
+<s>
+In_II contrast_NN1 ,_, assimilating_VVG quantifiers_NN2 to_II the_AT set_NN1 of_IO subject-oriented_JJ adverbs_NN2 may_VM lead_VVI to_II a_AT1 descriptively_RR adequate_JJ account_NN1 ._. 
+</s>
+<s>
+But_CCB ,_, crucially_RR ,_, it_PPH1 is_VBZ not_XX explanatory_JJ ._. 
+</s>
+<s>
+The_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 ,_, however_RR ,_, leads_VVZ to_II a_AT1 descriptively_RR adequate_JJ account_NN1 and_CC offers_NN2 explanation_NN1 ._. 
+</s>
+<s>
+The_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 offers_NN2 explanation_NN1 because_CS the_AT distribution_NN1 follows_VVZ from_II two_MC main_JJ parts_NN2 ._. 
+</s>
+<s>
+First_MD ,_, Qs_FO can_VM appear_VVI in_II NP-initial_JJ position_NN1 ._. 
+</s>
+<s>
+This_DD1 follows_VVZ from_II a_AT1 principle_NN1 Sportiche_NN1 mentions_NN2 ,_, the_AT Adjunct_NN1 Projection_NN1 Principle_NN1 ,_, which_DDQ he_PPHS1 defines_VVZ thusly_RR :_: By_II claiming_VVG "_" modifiers_NN2 "_" are_VBR adjacent_II21 to_II22 what_DDQ they_PPHS2 "_" modify_VV0 ,_, "_" this_DD1 principle_NN1 is_VBZ basically_RR saying_VVG quantifiers_NN2 can_VM appear_VVI in_II NP-initial_JJ position_NN1 ._. 
+</s>
+<s>
+Second_MD ,_, subjects_NN2 are_VBR base-generated_JJ inside_II VP_NP1 and_CC then_RT move_VV0 to_II the_AT (_( Spec_NP1 ,_, IP_NP1 )_) position_NN1 (_( i.e._REX the_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 )_) ._. 
+</s>
+<s>
+With_IW these_DD2 two_MC understandings_NN2 ,_, the_AT distribution_NN1 of_IO the_AT quantifiers_NN2 follows_VVZ ._. 
+</s>
+<s>
+If_CS Qs_FO can_VM be_VBI NP-initial_JJ and_CC NPs_NP1 start_NN1 inside_II VP_NP1 and_CC then_RT move_VV0 ,_, then_RT it_PPH1 follows_VVZ that_CST the_AT Qs_FO can_VM be_VBI anywhere_RL the_AT NPs_NP1 are_VBR or_CC have_VH0 been_VBN ._. 
+</s>
+<s>
+Where_CS the_AT Qs_FO actually_RR are_VBR at_II S-structure_NN1 ends_VVZ up_RP being_VBG a_AT1 factor_NN1 of_IO whether_CSW the_AT Q_NN1 moves_VVZ with_IW the_AT NP_NP1 or_CC remains_VVZ behind_RL and_CC modifies_VVZ the_AT NP-trace_NN1 ._. 
+</s>
+<s>
+The_AT adverbial_JJ account_NN1 fails_VVZ to_TO explain_VVI the_AT nature_NN1 of_IO the_AT distribution_NN1 of_IO Qs_FO ._. 
+</s>
+<s>
+The_AT constituent_NN1 structure_NN1 in_II Figure_NN1 2_MC (_( VP-internal_JJ subjects_NN2 )_) ,_, and_CC the_AT ability_NN1 of_IO Qs_FO to_TO appear_VVI NP-initially_RR ,_, does_VDZ offer_VVI an_AT1 explanatory_JJ account_NN1 for_IF Q_ZZ1 distribution_NN1 ._. 
+</s>
+<s>
+It_PPH1 means_VVZ Qs_FO do_VD0 not_XX float_VVI ,_, they_PPHS2 simply_RR appear_VV0 NP_NP1 initially_RR ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT movement_NN1 of_IO the_AT NP_NP1 that_CST explains_VVZ the_AT distribution_NN1 of_IO the_AT Qs_FO ._. 
+</s>
+<s>
+A_AT1 point_NN1 should_VM be_VBI made_VVN about_II the_AT relation_NN1 of_IO the_AT S-structure_JJ NP_NP1 (_( i.e._REX NP_NP1 )_) and_CC Q_ZZ1 ,_, namely_REX that_CST the_AT relation_NN1 is_VBZ not_XX free_JJ ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, Sportiche_NP1 (_( 1988_MC )_) says_VVZ it_PPH1 seems_VVZ to_TO obey_VVI two_MC conditions_NN2 of_IO antecedent-anaphor_JJ relations_NN2 ._. 
+</s>
+<s>
+First_MD ,_, Q_ZZ1 must_VM be_VBI c-commanded_JJ by_II the_AT S-structure_JJ NP_NP1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ seen_VVN in_II the_AT following_JJ two_MC examples_NN2 ,_, from_II Sportiche_NP1 (_( 1988_MC )_) :_: In_II (_( 3a_FO )_) ,_, tous_FW directly_RR modifies_VVZ ces_NN2 livres_NN2 ._. 
+</s>
+<s>
+In_II (_( 3b_FO )_) ,_, it_PPH1 is_VBZ in_II a_AT1 position_NN1 that_CST is_VBZ not_XX c-commanded_JJ by_II its_APPGE NP_NP1 antecedent_JJ ._. 
+</s>
+<s>
+Thus_RR ,_, it_PPH1 is_VBZ ungrammatical_JJ ._. 
+</s>
+<s>
+A_AT1 second_MD condition_NN1 on_II relations_NN2 between_II Q_ZZ1 and_CC its_APPGE NP_NP1 is_VBZ locality_NN1 ,_, as_CSA seen_VVN in_II the_AT ungrammaticality_NN1 of_IO the_AT following_JJ example_NN1 :_: The_AT tous_FW in_II (_( 4_MC )_) is_VBZ not_XX in_II the_AT same_DA clause_NN1 as_CSA the_AT NP_NP1 les_FW enfants_NN2 and_CC the_AT sentence_NN1 is_VBZ ungrammatical_JJ ._. 
+</s>
+<s>
+An_AT1 appeal_NN1 of_IO the_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 put_VVN forward_RL in_II Sportiche_NP1 's_GE paper_NN1 is_VBZ that_CST these_DD2 two_MC conditions_NN2 ,_, (_( 3_MC )_) and_CC (_( 4_MC )_) ,_, follow_VV0 from_II it_PPH1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ an_AT1 illusion_NN1 that_CST there_EX is_VBZ an_AT1 antecedent-anaphor_JJ relation_NN1 between_II Q_ZZ1 and_CC NP_NP1 directly_RR ._. 
+</s>
+<s>
+VP-internal_JJ subjects_NN2 entails_VVZ NP_NP1 movement_NN1 ,_, and_CC that_DD1 is_VBZ where_RRQ the_AT antecedent-anaphor_JJ relationship_NN1 comes_VVZ from_II ._. 
+</s>
+<s>
+As_CSA Sportiche_NP1 says_VVZ ,_, "_" because_CS Q_ZZ1 is_VBZ adjacent_II21 to_II22 NP*_FO ,_, the_AT illusion_NN1 is_VBZ created_VVN that_CST antecedent-anaphor_JJ properties_NN2 hold_VV0 of_IO the_AT pair_NN NP/Q_NP1 "_" (_( 1988_MC ,_, p._NN1 433_MC )_) ._. 
+</s>
+<s>
+Instead_RR ,_, Q_ZZ1 modifies_VVZ NP*_FO ,_, which_DDQ itself_PPX1 is_VBZ the_AT one_PN1 that_CST has_VHZ an_AT1 antecedent-anaphor_JJ relation_NN1 with_IW NP_NP1 ._. 
+</s>
+<s>
+Figure_NN1 8_MC visually_RR represents_VVZ the_AT antecedent-anaphor_JJ relation_NN1 between_II NP*_FO (_( the_AT trace_NN1 )_) and_CC NP_NP1 ._. 
+</s>
+<s>
+Q_ZZ1 modifies_VVZ the_AT NP_NP1 it_PPH1 is_VBZ adjacent_II21 to_II22 ,_, not_XX necessarily_RR the_AT S-structure_JJ NP_NP1 ._. 
+</s>
+<s>
+Sportiche_NP1 (_( 1988_MC )_) tries_VVZ to_TO extend_VVI his_APPGE proposed_JJ analysis_NN1 to_II English_NN1 ,_, which_DDQ presents_VVZ some_DD problems_NN2 ._. 
+</s>
+<s>
+One_MC1 of_IO those_DD2 is_VBZ that_DD1 English_NN1 has_VHZ a_AT1 much_RR richer_JJR auxiliary_JJ system_NN1 which_DDQ provides_VVZ many_DA2 potential_JJ positions_NN2 for_IF Q_ZZ1 NP*_FO ._. 
+</s>
+<s>
+Furthermore_RR ,_, while_CS the_AT first_MD (_( leftmost_JJ )_) position_NN1 is_VBZ consistently_RR agreed_VVN to_TO be_VBI grammatical_JJ ,_, the_AT other_JJ positions_NN2 show_VV0 much_DA1 variation_NN1 in_II grammaticality_NN1 judgments_NN2 by_II native_JJ speakers_NN2 ._. 
+</s>
+<s>
+He_PPHS1 gives_VVZ the_AT following_JJ example_NN1 :_: In_II (_( 5_MC )_) ,_, the_AT Q_ZZ1 is_VBZ consistently_RR agreed_VVN by_II native_JJ speakers_NN2 to_TO be_VBI allowed_VVN in_II the_AT first_MD position_NN1 ._. 
+</s>
+<s>
+The_AT other_JJ positions_NN2 ,_, however_RR ,_, are_VBR not_XX regularly_RR agreed_VVN upon_II ._. 
+</s>
+<s>
+Nevertheless_RR ,_, there_EX is_VBZ no_AT position_NN1 that_CST there_EX is_VBZ agreement_NN1 can_VM never_RR get_VVI a_AT1 Q._NN1 Sportiche_NN1 concludes_VVZ that_CST this_DD1 means_VVZ he_PPHS1 's_VBZ on_II the_AT right_JJ track_NN1 ._. 
+</s>
+<s>
+Another_DD1 problem_NN1 is_VBZ that_DD1 English_NN1 ,_, unlike_JJ French_NN1 ,_, allows_VVZ quantifiers_NN2 in_II the_AT Pre-Infl_JJ position_NN1 in_II tensed_JJ clauses_NN2 ._. 
+</s>
+<s>
+So_RR ,_, in_II (_( The_AT children_NN2 all_DB will_VM leave_VVI )_) ,_, the_AT Q_NN1 all_RR precedes_VVZ the_AT INFL_NN1 will_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ allowed_VVN in_II English_JJ but_CCB not_XX in_II French_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, there_EX are_VBR issues_NN2 with_IW Qs_FO modifying_VVG NP-traces_NN2 ,_, the_AT most_RGT problematic_JJ appearing_VVG in_II passive_JJ constructions_NN2 ._. 
+</s>
+<s>
+The_AT raising_NN1 in_II passives_NN2 would_VM be_VBI expected_VVN to_TO leave_VVI a_AT1 trace_NN1 ,_, a_AT1 trace_NN1 that_CST should_VM be_VBI able_JK to_TO be_VBI modified_VVN by_II a_AT1 Q._NN1 But_CCB bare_JJ Qs_FO in_II postverbal_JJ position_NN1 are_VBR excluded_VVN ,_, e.g._REX in_II *The_FO children_NN2 were_VBDR seen_VVN all_RR while_CS All_DB the_AT children_NN2 were_VBDR seen_VVN is_VBZ ok_JJ ._. 
+</s>
+<s>
+If_CS passive_JJ raising_NN1 leaves_VVZ an_AT1 NP-trace_NN1 ,_, then_RT the_AT Q_NN1 would_VM be_VBI expected_VVN to_TO be_VBI able_JK to_TO modify_VVI the_AT trace_NN1 ._. 
+</s>
+<s>
+But_CCB in_II this_DD1 example_NN1 in_II English_NN1 ,_, it_PPH1 can_56 not_56 ._. 
+</s>
+<s>
+While_CS there_EX are_VBR problems_NN2 with_IW the_AT extension_NN1 of_IO Sportiche_NP1 's_GE proposed_JJ VP-internal_JJ subjects_NN2 constituent_NN1 structure_NN1 to_II English_NN1 ,_, it_PPH1 offers_VVZ an_AT1 explanatory_JJ account_NN1 of_IO the_AT distribution_NN1 of_IO Q_ZZ1 that_CST the_AT VP-external_JJ subjects_NN2 hypothesis_NN1 does_VDZ not_XX ._. 
+</s>
+<s>
+As_CSA discussed_VVN above_RL ,_, VP-external_JJ subjects_NN2 can_56 not_56 be_VBI assigned_VVN their_APPGE -role_NN1 by_II a_AT1 V_ZZ1 head_NN1 because_CS they_PPHS2 are_VBR not_XX in_II the_AT m-command_JJ domain_NN1 of_IO the_AT V_ZZ1 head_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, it_PPH1 was_VBDZ hypothesized_VVN that_CST the_AT V''_JJ projection_NN1 could_VM assign_VVI the_AT -role_NN1 to_II the_AT subject_NN1 while_CS the_AT V_ZZ1 head_NN1 would_VM still_RR assign_VVI a_AT1 -role_NN1 to_II the_AT object_NN1 ._. 
+</s>
+<s>
+But_CCB if_CS PRO_NN1 requires_VVZ governors_NN2 to_TO be_VBI restricted_VVN to_II heads_NN2 ,_, as_CSA has_VHZ been_VBN claimed_VVN ,_, then_RT the_AT V''_JJ projection_NN1 would_VM not_XX be_VBI allowed_VVN to_TO assign_VVI a_AT1 theta_NN1 role_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM reject_VVI the_AT VP-external_JJ subjects_NN2 hypothesis_NN1 but_CCB still_RR allow_VV0 the_AT VP-internal_JJ ._. 
+</s>
+<s>
+So_RR ,_, the_AT VP-external_JJ subjects_NN2 hypothesis_NN1 runs_VVZ into_II a_AT1 problem_NN1 with_IW PRO_NN1 ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI hoped_VVN that_CST a_AT1 shift_NN1 to_II VP-internal_JJ subjects_NN2 would_VM resolve_VVI problems_NN2 with_IW PRO_NN1 ._. 
+</s>
+<s>
+In_II some_DD sense_NN1 it_PPH1 does_VDZ ,_, in_CS21 that_CS22 -roles_NN2 are_VBR assigned_VVN solely_RR by_II heads_NN2 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, limiting_VVG the_AT class_NN1 of_IO -role_JJ assigners_NN2 to_II heads_NN2 does_VDZ not_XX itself_PPX1 prevent_VVI PRO_NN1 from_II being_VBG ungoverned_JJ ._. 
+</s>
+<s>
+The_AT problem_NN1 is_VBZ more_RGR intractable_JJ than_CSN this_DD1 alternative_JJ constituent_NN1 structure_NN1 alone_RR could_VM resolve_VVI ._. 
+</s>
+<s>
+The_AT claim_NN1 about_II PRO_NN1 needing_VVG to_TO be_VBI ungoverned_JJ presents_NN2 a_AT1 host_NN1 of_IO problems_NN2 ._. 
+</s>
+<s>
+First_MD ,_, a_AT1 word_NN1 about_II PRO_NN1 ._. 
+</s>
+<s>
+PRO_NN1 is_VBZ a_AT1 non-overt_JJ argument_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ hypothesized_VVN because_II21 of_II22 examples_NN2 like_II (_( John_NP1 tried_VVD to_TO eat_VVI grapes_NN2 )_) ,_, where_RRQ eat_VV0 has_VHZ two_MC -roles_NN2 to_TO assign_VVI and_CC only_RR one_MC1 overt_JJ argument_NN1 to_II which_DDQ to_TO assign_VVI a_AT1 -role_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, it_PPH1 is_VBZ hypothesized_VVN that_CST there_EX is_VBZ a_AT1 non-overt_JJ argument_NN1 ,_, PRO_NN1 ,_, that_DD1 receives_VVZ the_AT other_JJ -role_NN1 and_CC makes_VVZ the_AT sentence_NN1 grammatical_JJ ._. 
+</s>
+<s>
+The_AT structure_NN1 would_VM then_RT be_VBI (_( John_NP1 tried_VVD PRO_JJ to_TO eat_VVI grapes_NN2 )_) ._. 
+</s>
+<s>
+The_AT reason_NN1 PRO_NN1 is_VBZ argued_VVN to_TO need_VVI to_TO be_VBI ungoverned_JJ is_VBZ due_II21 to_II22 the_AT problem_NN1 of_IO overgeneration_NN1 ._. 
+</s>
+<s>
+Now_CS21 that_CS22 we_PPIS2 have_VH0 hypothesized_VVN a_AT1 non-overt_JJ argument_NN1 ,_, what_DDQ is_VBZ to_TO stop_VVI it_PPH1 from_II appearing_VVG all_RR over_II the_AT place_NN1 ?_? 
+</s>
+<s>
+That_REX21 is_REX22 ,_, we_PPIS2 need_VV0 to_TO rule_VVI out_RP ungrammatical_JJ sentences_NN2 like_II *_FU (_( PRO_NN1 likes_VVZ grapes_NN2 )_) or_CC *_FU (_( PRO_NN1 saw_VVD PRO_JJ with_IW PRO_NN1 yesterday_RT )_) ._. 
+</s>
+<s>
+Thus_RR it_PPH1 is_VBZ claimed_VVN that_DD1 PRO_NN1 must_VM be_VBI ungoverned_JJ ._. 
+</s>
+<s>
+But_CCB that_DD1 would_VM rule_VVI out_RP (_( John_NP1 tried_VVD PRO_JJ to_TO eat_VVI grapes_NN2 )_) ,_, right_RR ?_? 
+</s>
+<s>
+Well_RR ,_, to_TO allow_VVI this_DD1 grammatical_JJ sentence_NN1 it_PPH1 is_VBZ stipulated_VVN that_DD1 infinitival_NN1 I_ZZ1 ,_, i.e._REX to_II of_IO to_TO eat_VVI grapes_NN2 ,_, is_VBZ not_XX a_AT1 governor_NN1 ._. 
+</s>
+<s>
+But_CCB what_DDQ about_II I'_NP1 ?_? 
+</s>
+<s>
+Would_VM n't_XX I'_NP1 govern_VVI PRO_NN1 ?_? 
+</s>
+<s>
+It_PPH1 would_VM ._. 
+</s>
+<s>
+And_CC so_RR ,_, it_PPH1 is_VBZ also_RR stipulated_VVN that_CST only_JJ heads_NN2 can_VM be_VBI governors_NN2 ._. 
+</s>
+<s>
+But_CCB then_RT ,_, if_CS PRO_NN1 is_VBZ in_II (_( Spec_NP1 ,_, IP_NP1 )_) ,_, C_ZZ1 could_VM still_RR govern_VVI PRO_NN1 ,_, since_CS I''_NP1 projections_NN2 have_VH0 been_VBN claimed_VVN to_TO be_VBI transparent_JJ to_II government_NN1 (_( because_II21 of_II22 ECM_NP1 ,_, exceptional_JJ case-marking_NN1 ,_, as_CSA seen_VVN in_II examples_NN2 like_II (_( John_NP1 believes_VVZ him_PPHO1 to_TO be_VBI happy_JJ )_) )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ getting_VVG messy_JJ ._. 
+</s>
+<s>
+The_AT more_RGR important_JJ question_NN1 for_IF this_DD1 paper_NN1 is_VBZ ,_, are_VBR these_DD2 problems_NN2 resolved_VVN with_IW a_AT1 VP-internal_JJ subjects_NN2 constituent_NN1 structure_NN1 ?_? 
+</s>
+<s>
+The_AT answer_NN1 is_VBZ no_UH ;_; it_PPH1 's_VBZ different_JJ but_CCB still_RR problematic_JJ ._. 
+</s>
+<s>
+PRO_NN1 would_VM still_RR be_VBI receiving_VVG its_APPGE -role_NN1 through_II government_NN1 ,_, when_CS PRO_NN1 is_VBZ not_XX allowed_VVN to_TO be_VBI governed_VVN ._. 
+</s>
+<s>
+This_DD1 prompts_VVZ the_AT hypothesis_NN1 that_CST -role_JJ assignment_NN1 takes_VVZ place_NN1 at_II a_AT1 different_JJ time_NNT1 from_II the_AT assessment_NN1 of_IO the_AT ungovernability_NN1 of_IO PRO_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 split_VV0 -role_JJ assignment_NN1 and_CC assessments_NN2 of_IO governed_JJ status_NN1 into_II two_MC different_JJ phases_NN2 ,_, then_RT there_EX are_VBR a_AT1 couple_NN1 possible_JJ solutions_NN2 ._. 
+</s>
+<s>
+A_AT1 first_MD possibility_NN1 ,_, PRO_NN1 could_VM get_VVI a_AT1 -role_NN1 through_II government_NN1 ,_, but_CCB then_RT the_AT -role_JJ assigner_NN1 moves_VVZ away_RL ,_, leaving_VVG no_AT trace_NN1 and_CC thus_RR no_AT government_NN1 relation_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 scenario_NN1 ,_, PRO_NN1 has_VHZ received_VVN a_AT1 -role_NN1 and_CC is_VBZ no_RR21 longer_RR22 governed_VVN by_II the_AT -role_JJ assigner_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM prevent_VVI the_AT -role_JJ assigner_NN1 from_II violating_VVG the_AT constraint_NN1 that_CST PRO_NN1 can_56 not_56 be_VBI governed_VVN ._. 
+</s>
+<s>
+PRO_NN1 would_VM still_RR have_VHI to_TO be_VBI in_II a_AT1 position_NN1 where_RRQ nothing_PN1 else_RR governs_VVZ it_PPH1 ._. 
+</s>
+<s>
+A_AT1 second_MD possibility_NN1 is_VBZ that_DD1 PRO_NN1 could_VM receive_VVI a_AT1 -role_NN1 through_II government_NN1 and_CC then_RT itself_PPX1 move_VV0 to_II some_DD position_NN1 that_CST is_VBZ not_XX governed_VVN ._. 
+</s>
+<s>
+These_DD2 are_VBR two_MC possible_JJ work-arounds_NN2 for_IF the_AT problem_NN1 that_CST PRO_NN1 needs_VVZ a_AT1 -role_NN1 ,_, which_DDQ it_PPH1 can_VM only_RR get_VVI through_II government_NN1 ,_, and_CC that_DD1 PRO_NN1 can_56 not_56 be_VBI governed_VVN ._. 
+</s>
+<s>
+The_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 does_VDZ make_VVI one_MC1 aspect_NN1 of_IO this_DD1 scenario_NN1 easier_RRR ._. 
+</s>
+<s>
+With_IW VP-internal_JJ subjects_NN2 ,_, PRO_NN1 would_VM get_VVI its_APPGE -role_NN1 and_CC then_RT move_VV0 from_II (_( Spec_NP1 ,_, VP_NP1 )_) up_II21 to_II22 (_( Spec_NP1 ,_, IP_NP1 )_) ._. 
+</s>
+<s>
+The_AT first_MD condition_NN1 ,_, PRO_II getting_VVG a_AT1 theta_NN1 role_NN1 ,_, is_VBZ met_VVN ._. 
+</s>
+<s>
+The_AT second_NNT1 ,_, PRO_II needing_VVG to_TO be_VBI ungoverned_JJ ,_, is_VBZ not_XX broken_VVN by_II the_AT -role_JJ assigner_NN1 ._. 
+</s>
+<s>
+Another_DD1 requirement_NN1 remaining_VVG is_VBZ that_CST PRO_RR be_VBI in_II an_AT1 ungoverned_JJ position_NN1 ,_, i.e._REX not_XX governed_VVN by_II any_DD constituents_NN2 at_RR21 all_RR22 ._. 
+</s>
+<s>
+This_DD1 would_VM have_VHI to_TO be_VBI done_VDN somehow_RR such_CS21 that_CS22 any_DD and_CC all_DB government_NN1 access_NN1 to_II that_DD1 position_NN1 would_VM be_VBI blocked_VVN by_II one_MC1 or_CC more_DAR constituents_NN2 that_CST themselves_PPX2 did_VDD not_XX govern_VVI the_AT position_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, (_( Spec_NP1 ,_, IP_NP1 )_) would_VM have_VHI to_TO be_VBI theorized_VVN to_TO be_VBI an_AT1 ungoverned_JJ position_NN1 ._. 
+</s>
+<s>
+This_DD1 can_56 not_56 be_VBI the_AT case_NN1 ,_, however_RR ,_, because_CS other_JJ NPs_NP1 need_VV0 to_TO be_VBI governed_VVN in_II (_( Spec_NP1 ,_, IP_NP1 )_) ,_, e.g._REX John_NP1 of_IO (_( John_NP1 ate_VVD the_AT grapes_NN2 )_) ._. 
+</s>
+<s>
+One_MC1 possibility_NN1 could_VM be_VBI that_DD1 IP_NN1 adjuncts_NN2 are_VBR ungoverned_JJ ._. 
+</s>
+<s>
+In_II this_DD1 scenario_NN1 ,_, PRO_NN1 would_VM first_MD raise_VVI from_II (_( Spec_NP1 ,_, VP_NP1 )_) to_II (_( Spec_NP1 ,_, IP_NP1 )_) and_CC then_RT raise_VV0 again_RT from_II (_( Spec_NP1 ,_, IP_NP1 )_) to_TO IP_VVI adjunct_NN1 (_( see_VV0 figure_NN1 below_RL )_) ._. 
+</s>
+<s>
+In_II this_DD1 example_NN1 ,_, PRO_NN1 would_VM be_VBI in_II an_AT1 IP_NN1 adjunct_NN1 position_NN1 ,_, not_XX (_( Spec_NP1 ,_, IP_NP1 )_) ._. 
+</s>
+<s>
+It_PPH1 may_VM be_VBI possible_JJ to_TO stipulate_VVI IP_NN1 adjuncts_NN2 as_CSA ungoverned_JJ positions_NN2 ._. 
+</s>
+<s>
+This_DD1 does_VDZ ,_, however_RR ,_, contradict_VVI the_AT transparency_NN1 of_IO IPs_NP2 to_II government_NN1 as_CSA put_VVN forward_RL by_II ECM_NP1 ._. 
+</s>
+<s>
+This_DD1 issue_NN1 will_VM not_XX be_VBI explored_VVN further_RRR in_II this_DD1 paper_NN1 ._. 
+</s>
+<s>
+Initially_RR it_PPH1 was_VBDZ unclear_JJ which_DDQ hypothesis_NN1 ,_, VP-external_JJ or_CC VP-internal_JJ subjects_NN2 ,_, better_RRR represented_VVN constituent_NN1 structure_NN1 ._. 
+</s>
+<s>
+An_AT1 analysis_NN1 of_IO so-called_JJ floating_JJ quantifiers_NN2 showed_VVD the_AT Qs_FO distribution_NN1 to_TO be_VBI better_RRR accounted_VVN for_IF with_IW a_AT1 VP-internal_JJ subjects_NN2 constituent_NN1 structure_NN1 ._. 
+</s>
+<s>
+The_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 is_VBZ also_RR theoretically_RR motivated_VVN because_CS it_PPH1 eliminates_VVZ an_AT1 idiosyncrasy_NN1 ,_, reducing_VVG all_DB -role_JJ assignment_NN1 to_II being_VBG within_II the_AT m-command_JJ domain_NN1 of_IO a_AT1 lexical_JJ head_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT issues_NN2 associated_VVN with_IW the_AT governability_NN1 of_IO PRO_NN1 seem_VV0 to_TO be_VBI ameliorated_VVN ,_, though_CS not_XX resolved_VVN ,_, by_II adopting_VVG the_AT VP-internal_JJ instead_II21 of_II22 the_AT VP-external_JJ subjects_NN2 hypothesis_NN1 ._. 
+</s>
+<s>
+In_II conclusion_NN1 ,_, it_PPH1 seems_VVZ the_AT VP-internal_JJ subjects_NN2 hypothesis_NN1 is_VBZ preferable_JJ to_II the_AT VP-external_JJ subjects_NN2 hypothesis_NN1 ._. 
+</s>

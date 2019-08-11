@@ -1,0 +1,189 @@
+<s>
+Researchers_NN2 in_II the_AT field_NN1 of_IO electronic_JJ circuits_NN2 and_CC devices_NN2 have_VH0 made_VVN foray_NN1 into_II the_AT domain_NN1 of_IO flexible_JJ ,_, large_JJ area_NN1 circuits_NN2 in_II the_AT past_JJ decade_NNT1 or_CC so_RR in_II a_AT1 big_JJ way_NN1 ._. 
+</s>
+<s>
+Integrated_JJ electronic_JJ circuits_NN2 on_II flexible_JJ substrates_NN2 can_VM find_VVI immense_JJ use_NN1 in_II sensors_NN2 ,_, displays_NN2 and_CC biomedical_JJ devices_NN2 ._. 
+</s>
+<s>
+Conventional_JJ microfabrication_NN1 technologies_NN2 have_VH0 essentially_RR planar_JJ patterning_NN1 ,_, deposition_NN1 ,_, etching_VVG and_CC doping_NN1 methods_NN2 ,_, developed_VVN for_IF rigid_JJ semiconductor_NN1 wafers_NN2 or_CC glass_NN1 plates_NN2 ._. 
+</s>
+<s>
+These_DD2 technologies_NN2 are_VBR ,_, therefore_RR ,_, not_XX suitable_JJ for_IF flexible_JJ substrate_NN1 electronics_NN1 either_RR due_II21 to_II22 the_AT high_JJ temperature_NN1 requirements_NN2 of_IO various_JJ processes_NN2 (_( which_DDQ degrade_VV0 plastic_NN1 and_CC other_JJ flexible_JJ substrates_NN2 )_) or_CC due_II21 to_II22 the_AT high_JJ strain_NN1 applications_NN2 which_DDQ exceed_VV0 the_AT fracture_NN1 strain_NN1 of_IO the_AT electronic_JJ component_NN1 materials_NN2 ._. 
+</s>
+<s>
+These_DD2 limitations_NN2 emphasized_VVD the_AT need_NN1 to_TO develop_VVI novel_JJ alternative_JJ methods_NN2 for_IF fabricating_VVG electronic_JJ circuit_NN1 elements_NN2 on_II flexible_JJ substrates_NN2 ._. 
+</s>
+<s>
+A_AT1 discussion_NN1 of_IO the_AT current_JJ state_NN1 of_IO the_AT art_NN1 fabrication_NN1 methods_NN2 used_VVN for_IF stretchable_JJ electronics_NN1 is_VBZ presented_VVN in_II the_AT coming_JJ sections_NN2 of_IO this_DD1 report_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT novel_JJ strategies_NN2 to_TO fabricate_VVI flexible_JJ electronic_JJ circuits_NN2 involves_VVZ deposition_NN1 and_CC patterning_NN1 of_IO organic_JJ semiconductors_NN2 (_( require_VV0 less_DAR temperature_NN1 than_CSN their_APPGE inorganic_JJ counterparts_NN2 )_) on_II ultra-high_JJ heat-resistant_JJ flexible_JJ substrates_NN2 (_( polyethylene_NN1 naphthalate_NN1 (_( PEN_NN1 )_) )_) 1_MC1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ integrated_VVN with_IW pressure_NN1 sensitive_JJ rubber_JJ sheet_NN1 to_TO form_VVI a_AT1 large-area_JJ flexible_JJ pressure_NN1 sensor_NN1 matrix_NN1 ._. 
+</s>
+<s>
+Since_CS organic_JJ semiconductors_NN2 have_VH0 very_RG modest_JJ mobilities_NN2 ,_, this_DD1 method_NN1 makes_VVZ a_AT1 minimal_JJ use_NN1 of_IO chemical_JJ solvents_NN2 to_TO prevent_VVI the_AT degradation_NN1 of_IO transistor_NN1 performance_NN1 ._. 
+</s>
+<s>
+This_DD1 device_NN1 can_VM have_VHI applications_NN2 as_CSA artificial_JJ electronic_JJ skin_NN1 or_CC intelligent_JJ rubber_JJ surgical_JJ gloves_NN2 ._. 
+</s>
+<s>
+An_AT1 extension_NN1 of_IO this_DD1 device_NN1 was_VBDZ obtained_VVN by_II incorporating_VVG organic_JJ semiconductor_NN1 based_VVN thermal_JJ sensors_NN2 to_II it_PPH1 in_BCL21 order_BCL22 to_TO achieve_VVI greater_JJR sensory_JJ properties_NN2 for_IF the_AT proposed_JJ artificial_JJ skin_NN1 2_MC ._. 
+</s>
+<s>
+Another_DD1 strategy_NN1 involves_VVZ distribution_NN1 of_IO rigid_JJ subcircuit_NN1 islands_NN2 over_II the_AT flexible_JJ polymer_NN1 surface_NN1 ,_, fabrication_NN1 of_IO active_JJ circuit_NN1 elements_NN2 on_II the_AT islands_NN2 and_CC connecting_VVG them_PPHO2 with_IW stretchable_JJ metal_NN1 interconnects_NN2 (_( gold_NN1 (_( Au_FO )_) )_) 3_MC ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 the_AT planar_JJ gold_NN1 interconnect_NN1 film_NN1 ;_; another_DD1 variant_NN1 was_VBDZ tried_VVN in_II which_DDQ gold_NN1 film_NN1 was_VBDZ deposited_VVN on_II a_AT1 prestretched_JJ polymer_NN1 membrane_NN1 leading_VVG to_II a_AT1 wavy_JJ geometry_NN1 upon_II the_AT relaxation_NN1 of_IO the_AT substrate_NN1 ._. 
+</s>
+<s>
+This_DD1 device_NN1 was_VBDZ found_VVN to_TO be_VBI functional_JJ up_II21 to_II22 a_AT1 maximum_NN1 of_IO 12%_NNU strain_NN1 associated_VVN with_IW repeated_JJ stretching_NN1 and_CC relaxation_NN1 ._. 
+</s>
+<s>
+The_AT need_NN1 to_II image_NN1 non-planar_JJ (_( curved_JJ )_) surfaces_NN2 using_VVG flexible_JJ ,_, large-area_JJ sensor_NN1 arrays_NN2 led_VVN to_II the_AT development_NN1 of_IO a_AT1 low_JJ temperature_NN1 thin_JJ film_NN1 transistor_NN1 fabrication_NN1 process_NN1 involving_VVG deposition_NN1 of_IO amorphous_JJ silicon_NN1 and_CC amorphous_JJ silicon_NN1 nitride_NN1 at_II a_AT1 lower_JJR temperature_NN1 on_II plastic_NN1 substrate_NN1 (_( 120C_FO as_II21 against_II22 the_AT conventional_JJ 250-300C_FO temperature_NN1 requirement_NN1 )_) 4_MC ._. 
+</s>
+<s>
+This_DD1 device_NN1 can_VM find_VVI application_NN1 in_II human_JJ body_NN1 conformable_JJ health_NN1 monitors_NN2 and_CC imagers_NN2 ._. 
+</s>
+<s>
+Prof_NNB John_NP1 Rogers_58 '_97 research_NN1 group_NN1 at_II the_AT University_NN1 of_IO Illinois_NP1 at_II Urbana-Champaign_NP1 developed_VVD a_AT1 dry_JJ transfer_NN1 printing_NN1 technique_NN1 for_IF transfer_NN1 of_IO active_JJ electronic_JJ devices_NN2 on_II flexible_JJ substrate_NN1 after_II fabrication_NN1 on_II semiconductor_NN1 wafers_NN2 ,_, using_VVG conventional_JJ microfabrication_NN1 methods_NN2 ._. 
+</s>
+<s>
+The_AT research_NN1 contribution_NN1 of_IO Rogers_58 '_97 lab_NN1 in_II the_AT field_NN1 of_IO stretchable_JJ electronics_NN1 has_VHZ been_VBN discussed_VVN in_II the_AT next_MD section_NN1 ._. 
+</s>
+<s>
+The_AT fabrication_NN1 technique_NN1 for_IF stretchable_JJ electronic_JJ devices_NN2 in_II the_AT Rogers_58 '_97 lab_NN1 entails_VVZ a_AT1 dry_JJ transfer_NN1 printing_NN1 technique_NN1 wherein_RRQ free_JJ standing_NN1 micro_NN1 and_CC nano-sized_JJ patterned_JJ circuit_NN1 components_NN2 are_VBR picked_VVN up_RP from_II their_APPGE substrate_NN1 using_VVG a_AT1 conformal_JJ elastomer_NN1 stamp_NN1 ._. 
+</s>
+<s>
+These_DD2 electronic_JJ circuit_NN1 components_NN2 (_( transistors_NN2 ,_, photodiodes_NN2 etc._RA )_) are_VBR subsequently_RR ,_, transferred_VVN to_II a_AT1 specific_JJ locations_NN2 on_II thin_JJ ,_, flexible_JJ substrate_NN1 ._. 
+</s>
+<s>
+The_AT materials_NN2 used_VVN for_IF constructing_VVG micro_NN1 and_CC nano_NN1 circuit_NN1 components_NN2 range_VV0 widely_RR from_II amorphous_JJ ,_, polycrystalline_JJ and_CC single_JJ crystal_NN1 silicon_NN1 6_MC to_II Gallium_NP1 Arsenide_NP1 (_( GaAs_NP2 )_) and_CC Indium_NP1 Phosphide_NP1 (_( InP_NP1 )_) 7_MC to_II single_JJ walled_JJ carbon_NN1 nanotubes_NN2 (_( SWNT_NP1 's_GE )_) 8_MC ._. 
+</s>
+<s>
+The_AT dry_JJ transfer_NN1 printing_NN1 technique_NN1 provides_VVZ a_AT1 superior_JJ alternative_NN1 to_II the_AT conventional_JJ high_JJ temperature_NN1 deposition_NN1 of_IO these_DD2 materials_NN2 which_DDQ is_VBZ not_XX compatible_JJ with_IW the_AT plastic_NN1 substrates_NN2 ._. 
+</s>
+<s>
+They_PPHS2 also_RR replace_VV0 the_AT organic_JJ semiconductor_NN1 materials_NN2 as_II the_AT material_NN1 of_IO choice_NN1 which_DDQ ,_, although_CS ,_, can_VM be_VBI deposited_VVN at_II room_NN1 temperature_NN1 but_CCB have_VH0 a_AT1 limited_JJ electronic_JJ application_NN1 as_CSA they_PPHS2 have_VH0 very_RG modest_JJ mobilities_NN2 ._. 
+</s>
+<s>
+To_TO illustrate_VVI the_AT dry_JJ transfer_NN1 printing_NN1 technology_NN1 in_II some_DD detail_NN1 ,_, we_PPIS2 discuss_VV0 a_AT1 representative_JJ research_NN1 work_NN1 involving_VVG single-crystal_JJ silicon_NN1 based_VVN electronics_NN1 on_II elastomeric_JJ substrates_NN2 9_MC ._. 
+</s>
+<s>
+Thin_JJ sub-micron_JJ silicon_NN1 elements_NN2 are_VBR fabricated_VVN on_II a_AT1 silicon-on-insulator_NN1 (_( SOI_NP1 )_) wafer_NN1 using_VVG conventional_JJ photolithography_NN1 and_CC dry_JJ etching_NN1 processes_NN2 to_TO etch_VVI the_AT top_JJ silicon_NN1 layer_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ followed_VVN by_II the_AT removal_NN1 of_IO photoresist_VV0 using_VVG acetone_NN1 and_CC the_AT buried_JJ oxide_NN1 layer_NN1 using_VVG concentrated_JJ hydrofluoric_JJ acid_NN1 ,_, respectively_RR ,_, leaving_VVG silicon_NN1 ribbons_NN2 tethered_VVN to_II the_AT ends_NN2 ._. 
+</s>
+<s>
+A_AT1 polydimethylsiloxane_NN1 (_( PDMS_NP1 )_) piece_NN1 is_VBZ elastically_RR stretched_VVN and_CC brought_VVN into_II contact_NN1 with_IW the_AT ribbons_NN2 ._. 
+</s>
+<s>
+When_CS the_AT PDMS_NP1 is_VBZ peeled_VVN away_RL ,_, the_AT ribbons_NN2 are_VBR lifted_VVN off_RP from_II the_AT wafer_NN1 and_CC the_AT release_NN1 in_II PDMS_NP1 strain_NN1 leads_VVZ to_II formation_NN1 of_IO wave_NN1 like_II features_NN2 in_II the_AT silicon_NN1 ribbons_NN2 ._. 
+</s>
+<s>
+The_AT amplitude_NN1 and_CC wavelength_NN1 of_IO these_DD2 waves_NN2 depend_VV0 upon_II the_AT thickness_NN1 of_IO silicon_NN1 ribbon_NN1 and_CC the_AT amount_NN1 of_IO prestrain_NN1 in_II the_AT PDMS_NP1 piece_NN1 ._. 
+</s>
+<s>
+Upon_II the_AT application_NN1 of_IO tensile_JJ and_CC compressive_JJ strains_NN2 respectively_RR ,_, for_IF assessing_VVG the_AT usefulness_NN1 of_IO silicon_NN1 ribbons_NN2 (_( on_II the_AT PDMS_NP1 piece_NN1 )_) to_II stretchable_JJ electronics_NN1 application_NN1 ,_, it_PPH1 is_VBZ observed_VVN that_CST the_AT strains_NN2 are_VBR accommodated_VVN by_II changes_NN2 in_II the_AT wavelength_NN1 and_CC amplitudes_NN2 of_IO the_AT waves_NN2 ,_, hence_RR protecting_VVG ribbon_NN1 from_II fracture_NN1 and_CC thereby_RR ,_, enabling_VVG greater_JJR stretchability_NN1 ._. 
+</s>
+<s>
+By_II having_VHG additional_JJ steps_NN2 to_II pattern_NN1 dopants_NN2 ,_, thin_JJ metal_NN1 contacts_NN2 and_CC dielectric_JJ layers_NN2 in_II the_AT beginning_NN1 of_IO the_AT fabrication_NN1 sequence_NN1 ,_, advanced_JJ functionality_NN1 electronic_JJ circuits_NN2 were_VBDR devised_VVN and_CC subsequently_RR transferred_VVN onto_II the_AT flexible_JJ substrate_NN1 using_VVG dry_JJ transfer_NN1 printing_NN1 techniques_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ imperative_JJ ,_, at_II this_DD1 point_NN1 ,_, to_TO emphasize_VVI upon_II the_AT electrical_JJ characteristics_NN2 and_CC mechanical_JJ bendability_NN1 of_IO the_AT devices_NN2 fabricated_VVD using_VVG dry_JJ transfer_NN1 printing_NN1 techniques_NN2 and_CC different_JJ materials_NN2 mentioned_VVN above_RL ._. 
+</s>
+<s>
+Rogers_58 '_97 group_NN1 has_VHZ presented_VVN extreme_JJ bendability_NN1 of_IO single_JJ crystal_NN1 silicon_NN1 thin_JJ film_NN1 transistors_NN2 on_II plastic_NN1 substrates_NN2 10_MC ._. 
+</s>
+<s>
+A_AT1 high_JJ value_NN1 of_IO effective_JJ device_NN1 mobility_NN1 is_VBZ registered_VVN for_IF the_AT devices_NN2 made_VVD using_VVG single_JJ crystal_NN1 silicon_NN1 TFT_NP1 's_GE ._. 
+</s>
+<s>
+The_AT devices_NN2 work_VV0 well_RR even_RR for_IF high_JJ values_NN2 of_IO compressive_JJ and_CC tensile_JJ strains_NN2 ,_, hence_RR ,_, highlighting_VVG their_APPGE utility_NN1 for_IF highly_RR stretchable_JJ electronic_JJ applications_NN2 ._. 
+</s>
+<s>
+The_AT devices_NN2 can_VM also_RR be_VBI used_VVN for_IF studying_VVG charge_NN1 transport_NN1 in_II silicon_NN1 for_IF strain_NN1 values_NN2 not_XX easily_RR achieved_VVN for_IF bulk_NN1 silicon_NN1 wafers_NN2 ._. 
+</s>
+<s>
+A_AT1 similar_JJ behavior_NN1 of_IO extreme_JJ bendability_NN1 was_VBDZ also_RR obtained_VVN for_IF devices_NN2 fabricated_VVD using_VVG GaAs_NN2 11_MC or_CC SWNT_NP1 's_GE 12_MC for_IF the_AT electronic_JJ circuits_NN2 ._. 
+</s>
+<s>
+Bending_VVG and_CC folding_JJ tests_NN2 results_NN2 establish_VV0 SWNT_NP1 's_GE as_CSA one_MC1 of_IO the_AT most_RGT mechanically_RR robust_JJ materials_NN2 for_IF electronic_JJ circuits_NN2 in_II stretchable_JJ electronics_NN1 applications_NN2 ._. 
+</s>
+<s>
+Rogers_58 '_97 group_NN1 has_VHZ also_RR performed_VVN theoretical_JJ studies_NN2 to_TO explain_VVI the_AT behavior_NN1 of_IO micro_NN1 and_CC nano_NN1 electronic_JJ features_NN2 on_II the_AT flexible_JJ substrates_NN2 under_II the_AT influence_NN1 of_IO various_JJ kinds_NN2 of_IO mechanical_JJ stresses_NN2 ._. 
+</s>
+<s>
+An_AT1 analytical_JJ approach_NN1 was_VBDZ used_VVN to_TO study_VVI the_AT two-dimensional_JJ buckling_NN1 of_IO thin_JJ films_NN2 (_( Si_FW and_CC GaAs_NP2 )_) on_II flexible_JJ substrates_NN2 13_MC ._. 
+</s>
+<s>
+This_DD1 approach_NN1 yielded_VVD the_AT buckled_JJ wavelength_NN1 and_CC amplitude_NN1 of_IO the_AT wavy_JJ features_NN2 based_VVN on_II the_AT thin_JJ film_NN1 and_CC substrate_NN1 elastic_NN1 properties_NN2 ,_, thin_JJ film_NN1 thickness_NN1 and_CC prestrain_VV0 in_II PDMS_NP1 ._. 
+</s>
+<s>
+This_DD1 approach_NN1 also_RR explained_VVD the_AT preferred_JJ formation_NN1 of_IO herringbone_NN1 type_NN1 wave_NN1 over_II 1-D_NP1 and_CC checkerboard_NN1 wave_NN1 formation_NN1 as_CSA it_PPH1 has_VHZ the_AT least_DAT energy_NN1 ._. 
+</s>
+<s>
+Another_DD1 analytical_JJ study_NN1 was_VBDZ made_VVN of_IO local_JJ and_CC global_JJ buckling_NN1 of_IO thin_JJ films_NN2 on_II elastomeric_JJ substrates_NN2 and_CC the_AT critical_JJ condition_NN1 separating_VVG the_AT two_MC buckling_JJ modes_NN2 were_VBDR derived_VVN 14_MC ._. 
+</s>
+<s>
+SWNT_NP1 's_VBZ being_VBG a_AT1 preferred_JJ material_NN1 of_IO choice_NN1 for_IF stretchable_JJ electronics_NN1 applications_NN2 ;_; study_NN1 was_VBDZ also_RR made_VVN of_IO the_AT mechanics_NN2 of_IO buckled_JJ carbon_NN1 nanotubes_VVZ on_II elastomeric_JJ substrates_NN2 like_II PDMS_NP1 15_MC ._. 
+</s>
+<s>
+As_CSA in_II the_AT previous_JJ studies_NN2 ,_, expressions_NN2 were_VBDR derived_VVN for_IF the_AT buckle_NN1 wavelength_NN1 and_CC amplitude_NN1 as_II31 well_II32 as_II33 the_AT critical_JJ spacing_NN1 ascertained_VVN for_IF two_MC consecutive_JJ CNT_NP1 's_VBZ to_TO interact_VVI and_CC buckle_VVI together_RL ._. 
+</s>
+<s>
+Rogers_58 '_97 Lab_NN1 has_VHZ been_VBN instrumental_JJ in_II taking_VVG stretchable_JJ electronics_NN1 a_AT1 step_NN1 ahead_RL from_II the_AT proof_NN1 of_IO concept_NN1 stage_NN1 and_CC fabricating_VVG functional_JJ devices_NN2 to_TO serve_VVI different_JJ purposes_NN2 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ preceded_VVN by_II the_AT development_NN1 of_IO fabrication_NN1 schemes_NN2 to_TO obtain_VVI controlled_JJ buckling_NN1 of_IO nanoribbons_NN2 (_( of_IO Si_FW and_CC GaAs_NP2 )_) on_II flexible_JJ substrates_NN2 having_VHG extreme_JJ stretchability_NN1 ,_, compressibility_NN1 and_CC bendability_NN1 16_MC ._. 
+</s>
+<s>
+The_AT devices_NN2 based_VVN on_II this_DD1 technology_NN1 include_VV0 electronic_JJ eye_NN1 cameras_NN2 17_MC ,_, flexible_JJ digital_JJ logic_NN1 circuits_NN2 based_VVN on_II SWNT_NP1 thin_JJ films_NN2 18_MC ,_, flexible_JJ solar_JJ modules_NN2 based_VVN on_II monocrystalline_NN1 silicon_NN1 19_MC and_CC stretchable_JJ silicon_NN1 CMOS_NP1 integrated_JJ circuits_NN2 20_MC Rogers_58 '_97 group_NN1 used_JJ sub-monolayer_NN1 ,_, random_JJ networks_NN2 of_IO single-walled_JJ carbon_NN1 nanotubes_VVZ to_TO create_VVI medium-scale_JJ integrated_JJ digital_JJ circuits_NN2 18_MC ._. 
+</s>
+<s>
+High_JJ electrical_JJ performance_NN1 of_IO carbon_NN1 nanotubes_NN2 enables_VVZ the_AT transistors_NN2 to_TO have_VHI excellent_JJ mobilities_NN2 and_CC switching_JJ speeds_NN2 ._. 
+</s>
+<s>
+This_DD1 device_NN1 is_VBZ poised_VVN to_TO find_VVI some_DD potential_JJ application_NN1 in_II various_JJ electronic_JJ devices_NN2 ._. 
+</s>
+<s>
+Ultrathin_NN1 ,_, monocrystalline_VV0 silicon_NN1 solar_NN1 microcells_VVZ 19_MC are_VBR another_DD1 class_NN1 of_IO stretchable_JJ electronics_NN1 device_NN1 fabricated_VVN by_II the_AT Rogers_58 '_97 group_NN1 ._. 
+</s>
+<s>
+Fabricated_VVN using_VVG dry_JJ transfer_NN1 printing_NN1 technique_NN1 ,_, they_PPHS2 aim_VV0 towards_II harnessing_VVG high_JJ efficiency_NN1 of_IO silicon_NN1 in_II solar_JJ cells_NN2 to_TO make_VVI flexible_JJ solar_JJ cells_NN2 for_IF large_JJ scale_NN1 production_NN1 of_IO solar_JJ energy_NN1 ._. 
+</s>
+<s>
+Complementary_JJ metal_NN1 oxide_NN1 silicon_NN1 (_( CMOS_NP1 )_) circuits_NN2 based_VVN on_II single_JJ crystal_NN1 silicon_NN1 were_VBDR also_RR integrated_VVN with_IW flexible_JJ substrates_NN2 using_VVG the_AT dry_JJ transfer_NN1 printing_NN1 technique_NN1 20_MC Though_CS the_AT fabrication_NN1 methods_NN2 described_VVN above_RL worked_VVD very_RG well_RR for_IF a_AT1 whole_JJ range_NN1 of_IO proof_NN1 of_IO concept_NN1 devices_NN2 ,_, they_PPHS2 need_VV0 to_TO be_VBI developed_VVN further_RRR for_IF viable_JJ ,_, large_JJ scale_NN1 commercial_JJ applications_NN2 ._. 
+</s>
+<s>
+Future_JJ research_NN1 will_VM be_VBI strongly_RR focused_VVN towards_II developing_VVG alternative_JJ materials_NN2 to_II the_AT conventional_JJ ones_NN2 which_DDQ can_VM be_VBI patterned_VVN at_II low_JJ temperatures_NN2 directly_RR ,_, on_II the_AT flexible_JJ substrates_NN2 ._. 
+</s>
+<s>
+This_DD1 would_VM be_VBI very_RG important_JJ from_II the_AT point_NN1 of_IO view_NN1 of_IO saving_VVG the_AT cost_NN1 ,_, labor_NN1 and_CC complexity_NN1 encountered_VVN in_II transferring_VVG the_AT fabricated_JJ patterns_NN2 from_II rigid_JJ substrates_NN2 to_II the_AT flexible_JJ sheets_NN2 ._. 
+</s>
+<s>
+Better_RRR electronic_JJ performance_NN1 and_CC lower_JJR cost_NN1 (_( per_II unit_NN1 area_NN1 )_) as_CSA compared_VVN to_II the_AT existing_JJ IC_JJ fabrication_NN1 materials_NN2 ,_, would_VM be_VBI other_JJ equally_RR important_JJ factors_NN2 driving_VVG the_AT synthesis_NN1 of_IO new_JJ materials_NN2 22_MC ._. 
+</s>
+<s>
+Some_DD of_IO the_AT alternative_JJ materials_NN2 currently_RR being_VBG looked_VVN into_II comprise_VV0 of_IO silicon_NN1 in_II different_JJ crystalline_JJ forms_NN2 ,_, transparent_JJ oxides_NN2 and_CC chalcogenides_NN2 ._. 
+</s>
+<s>
+Carbon_NN1 nanotubes_VVZ with_IW extremely_RR high_JJ electrical_JJ performance_NN1 and_CC mechanical_JJ robustness_NN1 are_VBR emerging_VVG as_II the_AT material_NN1 of_IO the_AT future_NN1 for_IF stretchable_JJ electronics_NN1 and_CC will_VM comprise_VVI a_AT1 major_JJ fraction_NN1 of_IO the_AT future_JJ research_NN1 in_II this_DD1 field_NN1 ._. 
+</s>
+<s>
+All_DB the_AT stretchable_JJ electronics_NN1 devices_NN2 developed_VVN by_II different_JJ labs_NN2 have_VH0 very_RG promising_JJ projected_JJ applications_NN2 ._. 
+</s>
+<s>
+However_RR ,_, as_II21 of_II22 now_RT ,_, most_DAT of_IO them_PPHO2 have_VH0 very_RG involved_VVN fabrication_NN1 procedure_NN1 and_CC use_VV0 very_RG expensive_JJ semiconductor_NN1 materials_NN2 ._. 
+</s>
+<s>
+A_AT1 successful_JJ commercialization_NN1 of_IO these_DD2 devices_NN2 would_VM require_VVI development_NN1 of_IO cheaper_JJR materials_NN2 and_CC fabrication_NN1 methods_NN2 without_IW compromising_VVG on_II the_AT device_NN1 performance_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, an_AT1 enhancement_NN1 in_II the_AT device_NN1 performance_NN1 would_VM be_VBI expected_VVN for_IF these_DD2 devices_NN2 to_TO compete_VVI and_CC surpass_VVI the_AT existing_JJ products_NN2 ._. 
+</s>
+<s>
+Rapid_JJ progress_NN1 in_II the_AT field_NN1 of_IO stretchable_JJ electronics_NN1 and_CC the_AT development_NN1 of_IO new_JJ ,_, high_JJ performance_NN1 materials_NN2 (_( like_II SWNT_NP1 's_GE )_) in_II the_AT past_JJ decade_NNT1 holds_VVZ the_AT promise_NN1 of_IO the_AT technology_NN1 maturing_VVG in_II next_MD few_DA2 years_NNT2 and_CC flexible_JJ electronics_NN1 devices_NN2 moving_VVG into_II the_AT markets_NN2 as_CSA commercial_JJ products_NN2 ._. 
+</s>

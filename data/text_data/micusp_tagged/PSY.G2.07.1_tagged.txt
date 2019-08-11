@@ -1,0 +1,564 @@
+<s>
+In_II 1973_MC ,_, Allen_NP1 Newell_NP1 declared_VVD that_CST it_PPH1 was_VBDZ high_JJ time_NNT1 that_CST cognitive_JJ psychologists_NN2 begin_VV0 integrating_VVG their_APPGE findings_NN2 into_II "_" complete_JJ processing_NN1 models_NN2 "_" of_IO human_JJ performance_NN1 ._. 
+</s>
+<s>
+His_APPGE call_NN1 was_VBDZ heeded_VVN by_II some_DD and_CC various_JJ unified_JJ theories_NN2 of_IO cognition_NN1 (_( UTCs_NP2 )_) have_VH0 been_VBN developed_VVN in_II the_AT intervening_JJ years_NNT2 ._. 
+</s>
+<s>
+The_AT ambitions_NN2 of_IO these_DD2 models_NN2 have_VH0 been_VBN high_JJ ._. 
+</s>
+<s>
+Consider_VV0 this_DD1 recent_JJ encapsulation_NN1 :_: Given_VVN this_DD1 ambitious_JJ goal_NN1 ,_, it_PPH1 is_VBZ somewhat_RR shocking_JJ that_CST an_AT1 attempt_NN1 to_TO find_VVI any_DD incorporation_NN1 of_IO affect_NN1 or_CC emotion_NN1 into_II UTCs_NN2 turns_VVZ up_RP little_RR except_II a_AT1 brief_JJ noting_VVG of_IO their_APPGE absence_NN1 (_( Newell_NP1 ,_, 1992_MC )_) ._. 
+</s>
+<s>
+Researchers_NN2 have_VH0 developed_VVN a_AT1 considerable_JJ body_NN1 of_IO work_NN1 about_II the_AT interactions_NN2 of_IO emotion_NN1 and_CC cognition_NN1 ,_, and_CC yet_RR "_" cold_JJ cognition_NN1 "_" biases_NN2 have_VH0 been_VBN enshrined_VVN in_II UTCs_NN2 ._. 
+</s>
+<s>
+Perhaps_RR it_PPH1 is_VBZ time_NNT1 to_TO declare_VVI that_DD1 emotion_NN1 must_VM be_VBI included_VVN in_II human_JJ information_NN1 processing_NN1 models_NN2 if_CS Newell_NP1 's_GE original_JJ goals_NN2 are_VBR to_TO be_VBI achieved_VVN ._. 
+</s>
+<s>
+This_DD1 paper_NN1 proposes_VVZ a_AT1 line_NN1 of_IO work_NN1 attempting_VVG to_TO incorporate_VVI the_AT effects_NN2 of_IO emotion_NN1 on_II cognition_NN1 into_II the_AT executive-process_JJ interactive_JJ control_NN1 (_( EPIC_NN1 )_) architecture_NN1 of_IO Meyer_NP1 and_CC Kieras_NP2 (_( 1997_MC )_) ._. 
+</s>
+<s>
+A_AT1 potential_JJ benefit_NN1 of_IO such_DA an_AT1 endeavor_NN1 is_VBZ more_RGR accurate_JJ prediction_NN1 of_IO performance_NN1 ,_, particularly_RR when_CS modeling_VVG real-world_JJ behavior_NN1 in_II mission-critical_JJ situations_NN2 where_RRQ there_EX may_VM often_RR be_VBI reason_NN1 for_IF emotion_NN1 to_TO run_VVI high_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ precisely_RR these_DD2 situations_NN2 ,_, since_CS they_PPHS2 are_VBR difficult_JJ to_TO simulate_VVI in_II a_AT1 test_NN1 environment_NN1 ,_, where_CS modeling_NN1 can_VM potentially_RR provide_VVI the_AT greatest_JJT benefit_NN1 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 begins_VVZ by_II discussing_VVG what_DDQ UTCs_NN2 are_VBR and_CC what_DDQ they_PPHS2 attempt_VV0 to_TO do_VDI ._. 
+</s>
+<s>
+Following_VVG this_DD1 is_VBZ a_AT1 sampling_NN1 of_IO theoretical_JJ and_CC empirical_JJ work_NN1 illustrating_VVG why_RRQ emotions_NN2 are_VBR relevant_JJ to_II UTCs_NN2 ._. 
+</s>
+<s>
+It_PPH1 then_RT discusses_VVZ a_AT1 past_JJ effort_NN1 at_II modeling_VVG emotion-cognition_JJ interactions_NN2 in_II a_AT1 general_JJ way_NN1 ,_, thus_RR providing_VVG a_AT1 historical_JJ precedent_NN1 for_IF the_AT incorporation_NN1 of_IO emotion_NN1 into_II computational_JJ models_NN2 of_IO cognition_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, it_PPH1 describes_VVZ EPIC_JJ and_CC proposes_VVZ ways_NN2 in_II which_DDQ the_AT effect_NN1 of_IO emotion_NN1 might_VM be_VBI incorporated_VVN into_II EPIC_NN1 ._. 
+</s>
+<s>
+As_CSA described_VVN by_II Newell_NP1 (_( 1992_MC )_) ,_, a_AT1 UTC_NN1 specifies_VVZ an_AT1 information_NN1 processing_NN1 architecture_NN1 within_II which_DDQ human_JJ performance_NN1 on_II specific_JJ tasks_NN2 can_VM be_VBI modeled_VVN ._. 
+</s>
+<s>
+The_AT architecture_NN1 describes_VVZ the_AT perceptual_JJ ,_, motor_NN1 and_CC cognitive_JJ processes_NN2 that_CST are_VBR composed_VVN to_TO perform_VVI tasks_NN2 ._. 
+</s>
+<s>
+The_AT models_NN2 generated_VVN from_II a_AT1 UTC_NN1 are_VBR computational_JJ models_NN2 ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT UTCs_NP2 that_CST have_VH0 been_VBN developed_VVN to_II date_NN1 have_VH0 all_RR used_VVN production_NN1 rule_NN1 systems_NN2 ._. 
+</s>
+<s>
+Thus_RR they_PPHS2 operate_VV0 by_II manipulating_VVG discrete_JJ symbols_NN2 that_CST are_VBR either_RR representations_NN2 of_IO external_JJ stimuli_NN2 or_CC are_VBR generated_VVN internally_RR ._. 
+</s>
+<s>
+In_II either_DD1 case_NN1 ,_, the_AT symbols_NN2 are_VBR temporarily_RR stored_VVN in_II a_AT1 working_JJ memory_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 proceeds_VVZ by_II applying_VVG production_NN1 rules_VVZ that_DD1 fire_NN1 if_CS their_APPGE conditions_NN2 are_VBR matched_VVN by_II the_AT current_JJ state_NN1 of_IO working_VVG memory_NN1 ._. 
+</s>
+<s>
+When_CS a_AT1 production_NN1 rule_NN1 fires_NN2 ,_, it_PPH1 can_VM perform_VVI transformations_NN2 on_II the_AT contents_NN2 of_IO working_VVG memory_NN1 and_CC initiate_VV0 actions_NN2 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 the_AT fundamental_JJ elements_NN2 of_IO perception_NN1 ,_, cognition_NN1 ,_, and_CC action_NN1 ,_, a_AT1 crucial_JJ part_NN1 of_IO a_AT1 UTC_NN1 is_VBZ the_AT control_NN1 structure_NN1 that_CST organizes_VVZ the_AT components_NN2 into_II meaningful_JJ directed_JJ behavior_NN1 ._. 
+</s>
+<s>
+This_DD1 control_NN1 structure_NN1 consists_VVZ of_IO goals_NN2 that_CST are_VBR accomplished_VVN through_II the_AT execution_NN1 of_IO sequences_NN2 of_IO production_NN1 rules_VVZ that_CST together_RL form_VV0 strategies_NN2 ._. 
+</s>
+<s>
+Additionally_RR ,_, there_EX are_VBR executive_JJ processes_NN2 that_CST coordinate_VV0 the_AT prioritization_NN1 of_IO goals_NN2 and_CC strategies_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 key_JJ point_NN1 ,_, because_CS ,_, as_CSA will_VM be_VBI discussed_VVN below_RL ,_, much_DA1 of_IO the_AT theoretical_JJ work_NN1 on_II the_AT interaction_NN1 of_IO cognition_NN1 and_CC emotion_NN1 has_VHZ centered_VVN on_II control_NN1 processes_VVZ that_CST guide_VV0 human_JJ behavior_NN1 ._. 
+</s>
+<s>
+Given_VVN the_AT broad_JJ scope_NN1 of_IO UTCs_NP2 ,_, they_PPHS2 are_VBR ambitious_JJ projects_NN2 that_CST have_VH0 been_VBN undertaken_VVN by_II relatively_RR few_DA2 researchers_NN2 ._. 
+</s>
+<s>
+Three_MC major_JJ UTC_NN1 projects_NN2 are_VBR SOAR_VV0 (_( Newell_NP1 ,_, 1992_MC )_) ,_, ACT-R_NP1 (_( Anderson_NP1 ,_, 1996_MC )_) ,_, and_CC EPIC_NN1 (_( Meyer_NP1 and_CC Kieras_NP2 ,_, 1997_MC )_) ._. 
+</s>
+<s>
+Modeling_VVG work_NN1 with_IW SOAR_VV0 and_CC ACT-R_NP1 typically_RR focuses_VVZ more_RRR on_II the_AT problem_NN1 solving_NN1 and_CC reasoning_VVG domains_NN2 ,_, while_CS EPIC_JJ ,_, with_IW its_APPGE emphasis_NN1 on_II perceptual-motor_NN1 systems_NN2 ,_, has_VHZ been_VBN used_VVN for_IF more_RGR basic_JJ tasks_NN2 ._. 
+</s>
+<s>
+A_AT1 typical_JJ type_NN1 of_IO task_NN1 to_TO be_VBI modeled_VVN is_VBZ a_AT1 reaction-time_NNT1 (_( RT_NP1 )_) task_NN1 ,_, where_CS the_AT dependent_JJ measures_NN2 are_VBR reaction_NN1 time_NNT1 and_CC accuracy_NN1 ._. 
+</s>
+<s>
+Often_RR ,_, instead_II21 of_II22 a_AT1 single_JJ RT_NN1 task_NN1 ,_, the_AT subject_NN1 may_VM be_VBI required_VVN to_TO perform_VVI multiple_JJ tasks_NN2 simultaneously_RR ,_, or_CC in_II rapid_JJ sequence_NN1 ._. 
+</s>
+<s>
+These_DD2 dual-task_JJ situations_NN2 are_VBR important_JJ because_CS they_PPHS2 necessarily_RR engage_VV0 the_AT executive_NN1 processes_VVZ that_CST coordinate_VV0 multiple_JJ tasks_NN2 (_( Meyer_NP1 and_CC Kieras_NP2 ,_, 1997_MC )_) ._. 
+</s>
+<s>
+Ideally_RR ,_, a_AT1 model_NN1 will_VM produce_VVI the_AT same_DA patterns_NN2 of_IO both_RR RT_NP1 and_CC accuracy_NN1 data_NN as_CSA human_JJ subjects_NN2 ._. 
+</s>
+<s>
+Typically_RR ,_, empirical_JJ data_NN is_VBZ collected_VVN first_MD and_CC then_RT a_AT1 model_NN1 is_VBZ developed_VVN to_TO fit_VVI the_AT data_NN ._. 
+</s>
+<s>
+However_RR ,_, a_AT1 goal_NN1 for_IF UTCs_NN2 is_VBZ a_JJ21 priori_JJ22 prediction_NN1 of_IO performance_NN1 on_II tasks_NN2 ._. 
+</s>
+<s>
+This_DD1 will_VM greatly_RR increase_VVI the_AT practical_JJ applicability_NN1 of_IO UTCs_NP2 by_II making_VVG them_PPHO2 useful_JJ as_CSA modeling_VVG tools_NN2 for_IF developing_JJ machines_NN2 or_CC environments_NN2 where_RRQ specific_JJ human_JJ performance_NN1 is_VBZ desired_VVN ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT inside_NN1 of_IO an_AT1 aircraft_NN cockpit_NN1 could_VM be_VBI designed_VVN and_CC tested_VVN using_VVG a_AT1 computational_JJ model_NN1 ,_, without_IW going_VVG to_II the_AT added_JJ expense_NN1 of_IO building_VVG a_AT1 physical_JJ prototype_NN1 and_CC testing_VVG it_PPH1 with_IW actual_JJ pilots_NN2 ._. 
+</s>
+<s>
+The_AT behavior_NN1 required_VVN to_TO fly_VVI an_AT1 airplane_NN1 requires_VVZ the_AT execution_NN1 of_IO multiple_JJ tasks_NN2 simultaneously_RR ,_, from_II monitoring_VVG the_AT various_JJ dials_NN2 ,_, to_II communicating_VVG with_IW air_NN1 traffic_NN1 control_NN1 ,_, to_II adjusting_VVG the_AT course_NN1 of_IO flight_NN1 ._. 
+</s>
+<s>
+The_AT more_RGR accurately_RR performance_NN1 is_VBZ modeled_VVN ;_; the_AT more_RGR useful_JJ the_AT UTC_NN1 will_VM be_VBI ._. 
+</s>
+<s>
+Given_VVN the_AT theoretical_JJ goal_NN1 of_IO UTCs_NP2 to_TO incorporate_VVI disparate_JJ findings_NN2 into_II a_AT1 single_JJ overarching_JJ account_NN1 of_IO human_JJ cognition_NN1 ,_, and_CC the_AT practical_JJ goal_NN1 of_IO providing_VVG accurate_JJ predictions_NN2 in_II the_AT modeling_NN1 of_IO actual_JJ human_JJ performance_NN1 in_II applied_JJ settings_NN2 ,_, the_AT stage_NN1 is_VBZ set_VVN for_IF us_PPIO2 to_TO ask_VVI how_RGQ useful_JJ emotion_NN1 might_VM be_VBI to_II this_DD1 endeavor_NN1 ._. 
+</s>
+<s>
+On_II a_AT1 theoretical_JJ level_NN1 ,_, arguments_NN2 for_IF the_AT inclusion_NN1 of_IO emotion_NN1 in_II information_NN1 processing_NN1 models_NN2 begin_VV0 at_RR21 least_RR22 with_IW Simon_NP1 (_( 1967_MC )_) ,_, who_PNQS "_" attempts_VVZ to_TO show_VVI how_RGQ motivational_JJ and_CC emotional_JJ controls_NN2 over_II cognition_NN1 can_VM be_VBI incorporated_VVN into_II an_AT1 information-processing_JJ system_NN1 "_" (_( Simon_NP1 ,_, 1967_MC ,_, p.30_FO )_) ._. 
+</s>
+<s>
+In_II Simon_NP1 's_GE formulation_NN1 ,_, the_AT human_JJ mind_NN1 is_VBZ a_AT1 serial_JJ information_NN1 processor_NN1 that_CST works_VVZ to_TO accomplish_VVI one_MC1 goal_NN1 at_II a_AT1 time_NNT1 ,_, within_II a_AT1 hierarchy_NN1 of_IO goals_NN2 ._. 
+</s>
+<s>
+When_CS a_AT1 goal_NN1 can_56 not_56 be_VBI accomplished_VVN directly_RR ,_, sub-goals_NN2 may_VM be_VBI created_VVN that_CST must_VM be_VBI accomplished_VVN first_MD ._. 
+</s>
+<s>
+When_CS a_AT1 goal_NN1 is_VBZ completed_VVN ,_, it_PPH1 is_VBZ "_" popped_VVN off_II "_" the_AT goal_NN1 stack_NN1 and_CC the_AT next_MD goal_NN1 up_RP is_VBZ addressed_VVN ._. 
+</s>
+<s>
+If_CS a_AT1 new_JJ task_NN1 comes_VVZ along_RP ,_, it_PPH1 is_VBZ added_VVN to_II the_AT end_NN1 of_IO a_AT1 queue_NN1 where_CS it_PPH1 will_VM be_VBI dealt_VVN with_IW when_RRQ the_AT current_JJ task_NN1 is_VBZ completed_VVN ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 highly_RR linear_JJ organization_NN1 is_VBZ limited_VVN in_II its_APPGE ability_NN1 to_TO deal_VVI with_IW unpredicted_JJ circumstances_NN2 that_CST require_VV0 immediate_JJ response_NN1 --_NN1 what_DDQ Simon_NP1 calls_VVZ "_" real-time_JJ needs_NN2 "_" ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO deal_VVI with_IW real-time_JJ needs_NN2 ,_, Simon_NP1 suggests_VVZ that_CST there_EX is_VBZ an_AT1 "_" interrupt_NN1 system_NN1 "_" that_CST is_VBZ constantly_RR monitoring_VVG the_AT environment_NN1 and_CC internal_JJ states_NN2 for_IF situations_NN2 that_CST require_VV0 immediate_JJ attention_NN1 ._. 
+</s>
+<s>
+When_CS such_DA a_AT1 situation_NN1 arises_VVZ ,_, the_AT interrupt_NN1 system_NN1 must_VM stop_VVI the_AT current_JJ processing_NN1 and_CC start_VVI new_JJ processing_NN1 to_TO address_VVI the_AT immediate_JJ need_NN1 ._. 
+</s>
+<s>
+Simon_NP1 lists_VVZ three_MC types_NN2 of_IO real-time_JJ needs_NN2 :_: "_" uncertain_JJ environmental_JJ events_NN2 "_" such_II21 as_II22 a_AT1 loud_JJ bang_NN1 ,_, physiological_JJ needs_NN2 such_II21 as_II22 hunger_NN1 or_CC fatigue_NN1 ,_, and_CC cognitive_JJ associations_NN2 ,_, by_II which_DDQ he_PPHS1 means_VVZ stimuli_NN2 that_CST have_VH0 an_AT1 important_JJ learned_JJ meaning_NN1 ._. 
+</s>
+<s>
+Simon_NP1 argues_VVZ that_CST his_APPGE interrupt_NN1 system_NN1 exhibits_VVZ the_AT functions_NN2 of_IO emotion_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, in_II his_APPGE view_NN1 ,_, emotion_NN1 redirects_VVZ goal-oriented_JJ behavior_NN1 by_II detecting_VVG and_CC addressing_VVG unexpected_JJ events_NN2 whose_DDQGE importance_NN1 should_VM preempt_VVI current_JJ behavior_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 view_NN1 ,_, emotion_NN1 plays_VVZ a_AT1 critical_JJ role_NN1 in_II the_AT executive_NN1 control_NN1 of_IO cognitive_JJ processes_NN2 by_II preemptively_RR switching_VVG between_II goals_NN2 ._. 
+</s>
+<s>
+A_AT1 limitation_NN1 of_IO Simon_NP1 's_GE work_NN1 is_VBZ that_CST he_PPHS1 argues_VVZ that_CST the_AT human_JJ information_NN1 processing_NN1 system_NN1 is_VBZ primarily_RR serial_JJ in_II nature_NN1 ._. 
+</s>
+<s>
+While_CS this_DD1 view_NN1 was_VBDZ state_NN1 of_IO the_AT art_NN1 at_II the_AT time_NNT1 he_PPHS1 wrote_VVD his_APPGE paper_NN1 ,_, in_II the_AT intervening_JJ years_NNT2 there_EX has_VHZ been_VBN a_AT1 general_JJ shift_NN1 to_II more_RGR parallel_RR ,_, distributed_JJ views_NN2 of_IO information_NN1 processing_NN1 (_( both_DB2 for_IF computers_NN2 and_CC humans_NN2 )_) ._. 
+</s>
+<s>
+A_AT1 more_RGR recent_JJ paper_NN1 that_CST deals_VVZ with_IW the_AT integration_NN1 of_IO emotion_NN1 and_CC cognitive_JJ processing_NN1 in_II a_AT1 parallel-distributed_JJ context_NN1 is_VBZ that_DD1 of_IO Oatley_NP1 and_CC Johnson-Laird_NP1 (_( 1987_MC )_) ._. 
+</s>
+<s>
+The_AT emphasis_NN1 is_VBZ still_RR on_II control_NN1 structures_NN2 ,_, as_CSA they_PPHS2 state_VV0 that_CST "_" emotions_NN2 have_VH0 important_JJ cognitive_JJ functions_NN2 ,_, we_PPIS2 propose_VV0 that_CST they_PPHS2 are_VBR part_NN1 of_IO a_AT1 management_NN1 system_NN1 to_TO co-ordinate_VVI each_DD1 individual_NN1 's_GE multiple_JJ plans_NN2 and_CC goals_NN2 "_" (_( Oatley_NP1 and_CC Johnson-Laird_NP1 ,_, 1987_MC )_) ._. 
+</s>
+<s>
+In_II their_APPGE formulation_NN1 ,_, there_EX are_VBR many_DA2 largely_RR independent_JJ processors_NN2 that_CST perform_VV0 various_JJ functions_NN2 and_CC these_DD2 modules_NN2 work_VV0 together_RL to_TO accomplish_VVI the_AT goals_NN2 of_IO the_AT system_NN1 by_II executing_VVG plans_NN2 ._. 
+</s>
+<s>
+When_CS a_AT1 "_" significant_JJ juncture_NN1 of_IO a_AT1 plan_NN1 "_" occurs_VVZ ,_, the_AT system_NN1 shifts_VVZ into_II a_AT1 particular_JJ "_" emotional_JJ mode_NN1 "_" that_CST alters_VVZ the_AT prioritization_NN1 of_IO goals_NN2 thus_RR potentially_RR modifying_VVG the_AT current_JJ plan_NN1 of_IO action_NN1 ._. 
+</s>
+<s>
+Oatley_NN1 and_CC Johnson-Laird_NP1 's_GE theory_NN1 provides_VVZ for_IF more_DAR flexibility_NN1 than_CSN did_VDD Simon_NP1 's_GE because_CS instead_II21 of_II22 swapping_VVG a_AT1 single_JJ current_JJ goal_NN1 for_IF a_AT1 different_JJ single_JJ goal_NN1 ,_, there_EX is_VBZ a_AT1 shift_NN1 between_II modes_NN2 ,_, which_DDQ can_VM "_" invoke_VV0 a_AT1 limited_JJ suite_NN1 of_IO goals_NN2 ,_, action_NN1 possibilities_NN2 ,_, and_CC skills_NN2 "_" (_( Oatley_NP1 and_CC Johnson-Laird_NP1 ,_, 1987_MC )_) ._. 
+</s>
+<s>
+Furthermore_RR ,_, they_PPHS2 specifically_RR state_VV0 that_DD1 emotion_NN1 modes_NN2 are_VBR propagated_VVN by_II "_" emotion_NN1 signals_VVZ "_" that_CST "_" have_VH0 no_AT internal_JJ symbolic_JJ structure_NN1 of_IO significance_NN1 "_" (_( Oatley_NP1 and_CC Johnson-Laird_NP1 ,_, 1987_MC )_) ._. 
+</s>
+<s>
+That_REX41 is_REX42 to_REX43 say_REX44 ,_, they_PPHS2 are_VBR raw_JJ signals_NN2 that_CST change_VV0 the_AT behavior_NN1 of_IO the_AT processing_NN1 modules_NN2 ;_; they_PPHS2 are_VBR not_XX symbols_NN2 that_CST can_VM be_VBI manipulated_VVN by_II the_AT general_JJ cognitive_JJ symbol_NN1 processing_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT theoretical_JJ work_NN1 of_IO Simon_NP1 and_CC Oatley_NP1 and_CC Johnson-Laird_NP1 points_VVZ to_II a_AT1 critical_JJ role_NN1 of_IO emotions_NN2 in_II the_AT executive_NN1 processes_VVZ that_CST switch_VV0 between_II tasks_NN2 and_CC manage_VV0 the_AT goals_NN2 of_IO the_AT human_JJ information_NN1 processing_NN1 system_NN1 ._. 
+</s>
+<s>
+These_DD2 are_VBR fundamental_JJ parts_NN2 of_IO UTCs_NP2 ._. 
+</s>
+<s>
+Other_JJ theoretical_JJ work_NN1 has_VHZ focused_VVN on_II the_AT role_NN1 of_IO emotion_NN1 in_II decision-making_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, Schwarz_NP1 (_( 2000_MC )_) outlines_NN2 a_AT1 variety_NN1 of_IO ways_NN2 in_II which_DDQ decision-making_NN1 can_VM be_VBI modified_VVN by_II emotion_NN1 ._. 
+</s>
+<s>
+One_MC1 type_NN1 of_IO interaction_NN1 is_VBZ explicit_JJ ,_, that_REX21 is_REX22 ,_, a_AT1 person_NN1 may_VM introspect_VVI on_II their_APPGE emotional_JJ state_NN1 when_CS presented_VVN with_IW an_AT1 option_NN1 ,_, and_CC take_VV0 that_DD1 state_NN1 as_II a_AT1 measure_NN1 of_IO the_AT affective_JJ value_NN1 of_IO the_AT option_NN1 ._. 
+</s>
+<s>
+This_DD1 measure_NN1 may_VM then_RT play_VVI a_AT1 role_NN1 in_II the_AT computation_NN1 of_IO the_AT correct_JJ decision_NN1 to_TO make_VVI ._. 
+</s>
+<s>
+Schwarz_NP1 (_( 2000_MC )_) also_RR discusses_VVZ a_AT1 second_MD interaction_NN1 that_CST is_VBZ implicit_JJ ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, an_AT1 emotional_JJ state_NN1 leads_VVZ an_AT1 individual_JJ to_TO adopt_VVI a_AT1 different_JJ strategy_NN1 for_IF the_AT computation_NN1 of_IO the_AT decision_NN1 ._. 
+</s>
+<s>
+Specifically_RR ,_, a_AT1 positive_JJ emotional_JJ state_NN1 may_VM lead_VVI to_II the_AT use_NN1 of_IO a_AT1 top-down_JJ strategy_NN1 relying_VVG more_RRR on_II prior_JJ knowledge_NN1 and_CC less_RRR on_II the_AT information_NN1 present_NN1 ,_, while_CS a_AT1 negative_JJ emotional_JJ state_NN1 may_VM lead_VVI to_II a_AT1 bottom-up_NN1 strategy_NN1 that_CST focuses_VVZ on_II present_JJ information_NN1 and_CC tends_VVZ to_TO ignore_VVI prior_JJ knowledge_NN1 (_( Schwarz_NP1 ,_, 2000_MC )_) ._. 
+</s>
+<s>
+This_DD1 modulation_NN1 of_IO strategy_NN1 could_VM have_VHI important_JJ implications_NN2 for_IF UTCs_NN2 ,_, which_DDQ attempt_VV0 to_TO model_VVI the_AT specific_JJ strategy_NN1 a_AT1 subject_NN1 uses_NN2 ._. 
+</s>
+<s>
+If_CS emotional_JJ state_NN1 determines_VVZ which_DDQ of_IO multiple_JJ strategies_NN2 are_VBR engaged_VVN for_IF the_AT completion_NN1 of_IO a_AT1 task_NN1 ,_, then_RT the_AT emotional_JJ state_NN1 must_VM be_VBI taken_VVN into_II account_NN1 to_TO make_VVI accurate_JJ predictions_NN2 of_IO performance_NN1 ._. 
+</s>
+<s>
+The_AT role_NN1 of_IO emotion_NN1 in_II decision-making_NN1 is_VBZ also_RR addressed_VVN in_II the_AT work_NN1 of_IO Damasio_NP1 (_( 1996_MC )_) ._. 
+</s>
+<s>
+On_II the_AT surface_NN1 ,_, Damasio_NP1 's_GE gambling_NN1 task_NN1 appears_VVZ to_TO be_VBI a_AT1 purely_RR "_" cognitive_JJ "_" problem-solving_NN1 task_NN1 of_IO the_AT sort_NN1 that_CST SOAR_VV0 and_CC ACT-R_NP1 excel_VV0 at_II ._. 
+</s>
+<s>
+However_RR ,_, Damasio_NP1 has_VHZ a_AT1 group_NN1 of_IO patients_NN2 who_PNQS perform_VV0 normally_RR on_II standard_JJ tests_NN2 of_IO language_NN1 ,_, working_VVG memory_NN1 ,_, attention_NN1 and_CC intellect_NN1 ,_, and_CC yet_RR they_PPHS2 fail_VV0 to_TO perform_VVI like_II normal_JJ subjects_NN2 on_II the_AT gambling_NN1 task_NN1 ._. 
+</s>
+<s>
+Damasio_NN1 explains_VVZ this_DD1 in_II31 terms_II32 of_II33 his_APPGE somatic_JJ marker_NN1 hypothesis_NN1 ._. 
+</s>
+<s>
+Normal_JJ subjects_NN2 learn_VV0 the_AT task_NN1 by_II the_AT association_NN1 of_IO particular_JJ actions_NN2 with_IW particular_JJ emotional_JJ states_NN2 ._. 
+</s>
+<s>
+When_CS making_VVG later_JJR decisions_NN2 ,_, the_AT stored_JJ associations_NN2 between_II emotional_JJ states_NN2 and_CC different_JJ options_NN2 are_VBR accessed_VVN and_CC used_VVN to_TO guide_VVI behavior_NN1 ._. 
+</s>
+<s>
+Damasio_NN1 calls_VVZ these_DD2 emotional_JJ states_NN2 somatic_JJ markers_NN2 because_CS he_PPHS1 argues_VVZ they_PPHS2 represent_VV0 body_NN1 states_NN2 ._. 
+</s>
+<s>
+Without_IW the_AT use_NN1 of_IO these_DD2 somatic_JJ markers_NN2 ,_, decision-making_NN1 would_VM depend_VVI solely_RR on_II logical_JJ reasoning_NN1 ,_, which_DDQ he_PPHS1 argues_VVZ would_VM be_VBI too_RG computationally_RR expensive_JJ and_CC thus_RR slow_JJ for_IF many_DA2 real_JJ world_NN1 situations_NN2 ._. 
+</s>
+<s>
+The_AT somatic_JJ markers_NN2 allow_VV0 the_AT rapid_JJ reduction_NN1 of_IO options_NN2 to_II a_AT1 number_NN1 that_CST it_PPH1 is_VBZ feasible_JJ to_TO consider_VVI logically_RR ._. 
+</s>
+<s>
+Given_CS21 that_CS22 one_MC1 of_IO the_AT goals_NN2 of_IO UTCs_NP2 is_VBZ to_TO model_VVI learning_NN1 and_CC performance_NN1 in_II reasoning_VVG tasks_NN2 ,_, this_DD1 work_NN1 implies_VVZ that_CST neglecting_VVG emotions_NN2 will_VM miss_VVI an_AT1 important_JJ factor_NN1 in_II decision-making_NN1 ._. 
+</s>
+<s>
+In_II the_AT worse_JJR case_NN1 ,_, an_AT1 emotionless_JJ model_NN1 may_VM behave_VVI like_II a_AT1 patient_NN1 with_IW a_AT1 ventromedial_JJ pre-frontal_JJ lesion_NN1 ._. 
+</s>
+<s>
+In_II the_AT preceding_JJ work_NN1 ,_, the_AT impact_NN1 of_IO emotion_NN1 ,_, in_RR21 general_RR22 ,_, was_VBDZ discussed_VVN relative_II21 to_II22 a_AT1 particular_JJ type_NN1 of_IO cognitive_JJ process_NN1 ,_, decision_NN1 making_VVG ._. 
+</s>
+<s>
+Another_DD1 approach_NN1 is_VBZ to_TO consider_VVI the_AT impact_NN1 of_IO a_AT1 particular_JJ emotion_NN1 on_II cognitive_JJ processing_NN1 in_RR21 general_RR22 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT impact_NN1 of_IO anxiety_NN1 on_II a_AT1 wide_JJ variety_NN1 of_IO cognitive_JJ tasks_NN2 has_VHZ been_VBN studied_VVN (_( Eysenck_NP1 and_CC Calvo_NP1 ,_, 1992_MC )_) ._. 
+</s>
+<s>
+Eysenck_VV0 and_CC Calvo_NP1 (_( 1992_MC )_) note_VV0 that_CST the_AT general_JJ pattern_NN1 found_VVN is_VBZ that_CST higher_JJR anxiety_NN1 leads_VVZ to_II worse_JJR performance_NN1 ,_, particularly_RR when_CS stress_NN1 is_VBZ applied_VVN ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 effect_NN1 seems_VVZ to_TO depend_VVI to_II some_DD extent_NN1 on_II the_AT difficulty_NN1 of_IO the_AT tasks_NN2 ,_, and_CC even_RR given_VVN this_DD1 ,_, there_EX are_VBR still_JJ cases_NN2 of_IO the_AT opposite_JJ effect_NN1 occurring_VVG ._. 
+</s>
+<s>
+The_AT processing_NN1 efficiency_NN1 theory_NN1 is_VBZ an_AT1 attempt_NN1 to_TO provide_VVI an_AT1 explanation_NN1 for_IF this_DD1 variety_NN1 of_IO findings_NN2 by_II specifying_VVG the_AT way_NN1 in_II which_DDQ anxiety_NN1 interacts_VVZ with_IW cognitive_JJ processes_NN2 (_( Eysenck_NP1 and_CC Calvo_NP1 ,_, 1992_MC )_) ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, the_AT theory_NN1 claims_VVZ that_CST the_AT working_JJ memory_NN1 system_NN1 is_VBZ affected_VVN by_II anxiety_NN1 ._. 
+</s>
+<s>
+In_II31 terms_II32 of_II33 the_AT tripartite_JJ model_NN1 of_IO working_VVG memory_NN1 due_II21 to_II22 Baddeley_NP1 (_( 1986_MC )_) ,_, the_AT central_JJ executive_NN1 is_VBZ impacted_VVN the_AT most_RRT ,_, with_IW secondary_JJ effects_NN2 on_II the_AT articulatory_JJ loop_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT theory_NN1 also_RR states_VVZ that_DD1 anxiety_NN1 may_VM lead_VVI to_II "_" the_AT allocation_NN1 of_IO additional_JJ processing_NN1 resources_NN2 (_( i.e._REX effort_NN1 )_) and_CC to_II the_AT initiation_NN1 of_IO processing_VVG activities_NN2 (_( e.g._REX strategies_NN2 )_) designed_VVD to_TO improve_VVI performance_NN1 "_" (_( Eysenck_NP1 and_CC Calvo_NP1 ,_, 1992_MC )_) ._. 
+</s>
+<s>
+The_AT implications_NN2 of_IO these_DD2 complex_JJ modulations_NN2 of_IO the_AT working_JJ memory_NN1 system_NN1 are_VBR hard_JJ to_TO understand_VVI from_II the_AT general_JJ language_NN1 used_VMK to_TO describe_VVI them_PPHO2 ._. 
+</s>
+<s>
+However_RR ,_, if_CS this_DD1 theory_NN1 was_VBDZ developed_VVN in_II the_AT context_NN1 of_IO a_AT1 UTC_NN1 ,_, then_RT specific_JJ predictions_NN2 could_VM be_VBI made_VVN across_II a_AT1 variety_NN1 of_IO tasks_NN2 ._. 
+</s>
+<s>
+Furthermore_RR ,_, if_CS the_AT theory_NN1 were_VBDR valid_JJ ,_, the_AT UTC_NN1 would_VM then_RT account_VVI for_IF an_AT1 important_JJ emotional_JJ modulator_NN1 of_IO performance_NN1 ._. 
+</s>
+<s>
+Recent_JJ empirical_JJ work_NN1 has_VHZ further_RRR focused_VVN on_II emotion_NN1 and_CC cognitive_JJ control_NN1 structures_NN2 ._. 
+</s>
+<s>
+Gray_NP1 (_( 2001_MC )_) looked_VVD at_II the_AT effects_NN2 of_IO "_" approach_NN1 "_" and_CC "_" withdrawal_NN1 "_" emotional_JJ states_NN2 on_II verbal_JJ and_CC spatial_JJ n-back_NN1 working_VVG memory_NN1 tasks_NN2 ._. 
+</s>
+<s>
+Given_VVN the_AT stimuli_NN2 used_VMK to_TO invoke_VVI the_AT emotional_JJ states_NN2 ,_, the_AT approach_NN1 state_NN1 is_VBZ roughly_RR one_MC1 of_IO amusement_NN1 or_CC happiness_NN1 ,_, while_CS the_AT withdrawal_NN1 state_NN1 is_VBZ one_MC1 of_IO fear_NN1 ._. 
+</s>
+<s>
+The_AT finding_NN1 was_VBDZ that_DD1 ,_, compared_VVN to_II a_AT1 neutral_JJ baseline_NN1 ,_, fear_NN1 (_( withdrawal_NN1 )_) improved_VVD spatial_JJ memory_NN1 and_CC reduced_VVD verbal_JJ memory_NN1 ,_, while_CS happiness_NN1 (_( approach_NN1 )_) reduced_VVD spatial_JJ memory_NN1 and_CC improved_JJ verbal_JJ memory_NN1 ._. 
+</s>
+<s>
+This_DD1 provided_VVD support_NN1 for_IF the_AT idea_NN1 that_CST "_" approach_NN1 and_CC withdrawal_NN1 emotional_JJ states_NN2 selectively_RR modulate_VV0 cognitive_JJ control_NN1 functions_NN2 to_TO coordinate_VVI and_CC prioritize_VVI among_II high-level_JJ (_( cognitive_JJ )_) self-regulatory_JJ functions_NN2 "_" (_( Gray_NP1 ,_, 2001_MC )_) ._. 
+</s>
+<s>
+Again_RT ,_, concerns_VVZ central_JJ to_II the_AT development_NN1 of_IO UTCs_NP2 are_VBR impacted_VVN by_II emotional_JJ states_NN2 ._. 
+</s>
+<s>
+The_AT above_JJ discussion_NN1 was_VBDZ intended_VVN to_TO make_VVI it_PPH1 clear_JJ that_CST there_EX is_VBZ extensive_JJ work_NN1 ,_, both_RR theoretical_JJ and_CC empirical_JJ ,_, showing_VVG the_AT effect_NN1 of_IO emotion_NN1 on_II cognitive_JJ processes_NN2 ._. 
+</s>
+<s>
+To_TO achieve_VVI the_AT goal_NN1 of_IO accurate_JJ computational_JJ modeling_NN1 of_IO cognition_NN1 ,_, emotion_NN1 must_VM be_VBI accounted_VVN for_IF ._. 
+</s>
+<s>
+Given_VVN this_DD1 state_NN1 of_IO affairs_NN2 ,_, it_PPH1 is_VBZ natural_JJ to_TO look_VVI at_II a_AT1 past_JJ work_NN1 incorporating_VVG emotion_NN1 into_II a_AT1 computational_JJ theory_NN1 of_IO cognition_NN1 ._. 
+</s>
+<s>
+Pfeifer_NP1 (_( 1988_MC )_) extensively_RR reviews_VVZ efforts_NN2 to_TO computationally_RR model_VVI emotions_NN2 ._. 
+</s>
+<s>
+He_PPHS1 notes_VVZ that_CST there_EX are_VBR two_MC broad_JJ classes_NN2 of_IO models_NN2 ._. 
+</s>
+<s>
+First_MD ,_, there_EX are_VBR models_NN2 whose_DDQGE focus_NN1 is_VBZ primarily_RR on_II emotion_NN1 and_CC on_II the_AT prediction_NN1 of_IO which_DDQ emotions_NN2 will_VM be_VBI generated_VVN when_RRQ ._. 
+</s>
+<s>
+Second_MD ,_, there_EX are_VBR models_NN2 whose_DDQGE focus_NN1 is_VBZ on_II cognitive_JJ processes_NN2 ,_, where_CS emotion_NN1 "_" augments_VVZ "_" cognition_NN1 ._. 
+</s>
+<s>
+However_RR ,_, these_DD2 models_NN2 generally_RR deal_VV0 with_IW very_RG specific_JJ tasks_NN2 ._. 
+</s>
+<s>
+Given_VVN this_DD1 situation_NN1 ,_, the_AT most_RGT general_JJ model_NN1 ,_, and_CC the_AT one_PN1 that_CST appears_VVZ to_TO be_VBI the_AT closest_RRT to_II a_AT1 unified_JJ theory_NN1 ,_, is_VBZ Pfeifer_NP1 's_GE own_DA theory_NN1 called_VVN "_" A_AT1 Framework_NN1 for_IF Evaluation_NN1 of_IO Events_NN2 and_CC Linkages_NN2 into_II Emotional_JJ Responses_NN2 "_" (_( FEELER_NN1 )_) ._. 
+</s>
+<s>
+While_CS it_PPH1 is_VBZ unclear_JJ how_RGQ much_DA1 of_IO FEELER_NN1 has_VHZ actually_RR been_VBN implemented_VVN computationally_RR ,_, on_II a_AT1 theoretical_JJ level_JJ FEELER_NN1 attempts_NN2 to_TO encompass_VVI emotion_NN1 from_II initial_JJ generation_NN1 through_II eventual_JJ disappearance_NN1 ,_, in_II a_AT1 cognitive_JJ context_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT most_RGT interesting_JJ features_NN2 is_VBZ the_AT use_NN1 of_IO production_NN1 rules_NN2 to_TO model_VVI the_AT generation_NN1 of_IO emotions_NN2 and_CC the_AT generation_NN1 of_IO new_JJ goals_NN2 as_II part_NN1 of_IO the_AT process_NN1 of_IO emotion_NN1 ._. 
+</s>
+<s>
+Pfeifer_VV0 also_RR emphasizes_VVZ the_AT point_NN1 that_CST he_PPHS1 needed_VVD to_TO add_VVI a_AT1 "_" physiological_JJ working_JJ memory_NN1 "_" subsystem_NN1 that_CST would_VM not_XX normally_RR exist_VVI in_II a_AT1 cognitive_JJ model_NN1 ._. 
+</s>
+<s>
+In_II dealing_VVG with_IW the_AT time_NNT1 course_NN1 of_IO emotions_NN2 ,_, Pfeifer_NP1 discusses_VVZ the_AT use_NN1 of_IO decay_NN1 from_II memory_NN1 ,_, and_CC active_JJ maintenance_NN1 of_IO emotional_JJ states_NN2 by_II feedback_NN1 among_II systems_NN2 ._. 
+</s>
+<s>
+FEELER_NN1 provides_VVZ valuable_JJ insight_NN1 into_II the_AT issues_NN2 that_CST must_VM be_VBI addressed_VVN when_CS incorporating_VVG emotion_NN1 into_II a_AT1 UTC_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO understand_VVI how_RRQ emotion_NN1 might_VM be_VBI dealt_VVN with_IW within_II EPIC_NN1 ,_, it_PPH1 is_VBZ necessary_JJ to_TO have_VHI an_AT1 understanding_NN1 of_IO the_AT structure_NN1 of_IO EPIC_NN1 ._. 
+</s>
+<s>
+As_CSA described_VVN by_II Meyer_NP1 and_CC Kieras_NP2 (_( 1997_MC )_) ,_, EPIC_NN1 is_VBZ a_AT1 model_NN1 of_IO the_AT human_JJ information_NN1 processing_NN1 system_NN1 that_CST has_VHZ been_VBN implemented_VVN as_II a_AT1 working_JJ computer_NN1 program_NN1 (_( in_II the_AT programming_NN1 language_NN1 Lisp_NN1 )_) ._. 
+</s>
+<s>
+Currently_RR ,_, EPIC_NN1 does_VDZ not_XX deal_VVI with_IW language_NN1 comprehension_NN1 or_CC learning_NN1 ._. 
+</s>
+<s>
+It_PPH1 consists_VVZ of_IO a_AT1 number_NN1 of_IO processors_NN2 that_CST run_VV0 independently_RR and_CC in_II parallel_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR three_MC types_NN2 of_IO processors_NN2 :_: perceptual_JJ processors_NN2 that_CST detect_VV0 and_CC encode_VV0 stimuli_NN2 in_II the_AT environment_NN1 ,_, motor_NN1 processors_NN2 that_CST initiate_VV0 actions_NN2 ,_, and_CC the_AT cognitive_JJ processor_NN1 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 ._. 
+</s>
+<s>
+Overview_NN1 of_IO the_AT EPIC_JJ architecture_NN1 (_( from_II Meyer_NP1 and_CC Kieras_NP2 ,_, 1997_MC )_) ._. 
+</s>
+<s>
+The_AT perceptual_JJ processors_NN2 detect_VV0 stimuli_NN2 in_II the_AT environment_NN1 and_CC place_VV0 symbolic_JJ representations_NN2 of_IO those_DD2 stimuli_NN2 in_II working_VVG memory_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR currently_RR three_MC perceptual_JJ processors_NN2 in_II EPIC_NN1 :_: the_AT auditory_JJ processor_NN1 ,_, the_AT visual_JJ processor_NN1 ,_, and_CC the_AT tactile_JJ processor_NN1 ._. 
+</s>
+<s>
+The_AT perceptual_JJ processors_NN2 operate_VV0 in_II parallel_NN1 ,_, so_CS21 that_CS22 multiple_JJ stimuli_NN2 can_VM be_VBI detected_VVN simultaneously_RR ._. 
+</s>
+<s>
+The_AT time_NNT1 it_PPH1 takes_VVZ for_IF a_AT1 stimulus_NN1 to_TO enter_VVI working_VVG memory_NN1 depends_VVZ on_II the_AT particular_JJ qualities_NN2 of_IO the_AT stimulus_NN1 and_CC the_AT modality_NN1 it_PPH1 is_VBZ in_RP ._. 
+</s>
+<s>
+The_AT motor_NN1 processors_NN2 receive_VV0 symbolic_JJ commands_NN2 as_CSA input_NN1 and_CC generate_VV0 simulated_JJ movements_NN2 as_CSA output_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR presently_RR three_MC motor_NN1 processors_NN2 in_II EPIC_NN1 :_: the_AT ocular_JJ motor_NN1 processor_NN1 that_CST controls_VVZ eye_NN1 movements_NN2 ,_, the_AT vocal_JJ motor_NN1 processor_NN1 that_CST controls_VVZ speech_NN1 production_NN1 ,_, and_CC the_AT manual_JJ motor_NN1 processor_NN1 that_CST controls_VVZ hand_NN1 and_CC finger_NN1 movements_NN2 ._. 
+</s>
+<s>
+The_AT core_NN1 of_IO EPIC_NN1 is_VBZ the_AT cognitive_JJ processor_NN1 ._. 
+</s>
+<s>
+Its_APPGE main_JJ components_NN2 are_VBR working_VVG memory_NN1 and_CC the_AT production_NN1 rule_NN1 interpreter_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, there_EX is_VBZ a_AT1 procedural_JJ memory_NN1 that_CST stores_NN2 the_AT production_NN1 rules_NN2 ._. 
+</s>
+<s>
+The_AT cognitive_JJ processor_NN1 performs_VVZ cyclically_RR ._. 
+</s>
+<s>
+On_II each_DD1 cycle_NN1 ,_, the_AT production_NN1 rule_NN1 interpreter_NN1 matches_VVZ the_AT production_NN1 rules_NN2 in_II the_AT procedural_JJ memory_NN1 against_II the_AT current_JJ contents_NN2 of_IO working_VVG memory_NN1 ._. 
+</s>
+<s>
+If_CS all_DB of_IO the_AT conditions_NN2 for_IF a_AT1 rule_NN1 are_VBR met_VVN ,_, then_RT its_APPGE actions_NN2 are_VBR performed_VVN ._. 
+</s>
+<s>
+The_AT actions_NN2 may_VM add_VVI or_CC remove_VVI items_NN2 from_II working_VVG memory_NN1 or_CC send_VV0 movement_NN1 commands_VVZ to_II the_AT motor_NN1 processors_NN2 ._. 
+</s>
+<s>
+On_II each_DD1 cycle_NN1 ,_, all_DB of_IO the_AT rules_NN2 whose_DDQGE conditions_NN2 are_VBR met_VVN fire_NN1 in_II parallel_NN1 ._. 
+</s>
+<s>
+The_AT working_JJ memory_NN1 is_VBZ a_AT1 pure_JJ storage_NN1 system_NN1 that_CST holds_VVZ many_DA2 different_JJ types_NN2 of_IO items_NN2 that_CST can_VM each_DD1 have_VHI their_APPGE own_DA structure_NN1 and_CC properties_NN2 ._. 
+</s>
+<s>
+Thus_RR the_AT working_JJ memory_NN1 can_VM functionally_RR be_VBI thought_VVN of_IO as_II a_AT1 collection_NN1 of_IO stores_NN2 :_: a_AT1 verbal_JJ storage_NN1 unit_NN1 ,_, a_AT1 visual_JJ storage_NN1 unit_NN1 ,_, a_AT1 goal_NN1 store_NN1 ,_, etc_RA ..._... 
+</s>
+<s>
+Since_CS EPIC_NN1 is_VBZ an_AT1 implemented_JJ computer_NN1 program_NN1 that_CST makes_VVZ detailed_JJ predictions_NN2 about_II accuracy_NN1 and_CC reaction_NN1 times_NNT2 ,_, there_EX are_VBR necessarily_RR a_AT1 number_NN1 of_IO numerical_JJ parameters_NN2 that_CST specify_VV0 the_AT time_NNT1 course_NN1 of_IO different_JJ functions_NN2 ._. 
+</s>
+<s>
+Perhaps_RR the_AT most_RGT fundamental_JJ is_VBZ the_AT cycle_NN1 time_NNT1 of_IO the_AT cognitive_JJ processor_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, there_EX are_VBR parameters_NN2 for_IF the_AT decay_NN1 times_NNT2 of_IO different_JJ sorts_NN2 of_IO working_VVG memory_NN1 items_NN2 ,_, the_AT time_NNT1 taken_VVN to_TO encode_VVI different_JJ sorts_NN2 of_IO external_JJ stimuli_NN2 ,_, and_CC the_AT time_NNT1 taken_VVN to_TO execute_VVI various_JJ motor_NN1 commands_NN2 ._. 
+</s>
+<s>
+These_DD2 parameters_NN2 encapsulate_VV0 details_NN2 of_IO lower_JJR level_NN1 processes_VVZ that_CST are_VBR not_XX modeled_VVN in_II detail_NN1 in_II EPIC_NN1 ,_, since_CS it_PPH1 focuses_VVZ on_II the_AT symbolic_JJ level_NN1 of_IO cognition_NN1 ._. 
+</s>
+<s>
+Goal-oriented_JJ behavior_NN1 is_VBZ possible_JJ in_II EPIC_NN1 because_CS the_AT production_NN1 rules_NN2 can_VM be_VBI grouped_VVN into_II sets_NN2 that_CST only_JJ fire_NN1 when_CS a_AT1 particular_JJ goal_NN1 is_VBZ in_II working_VVG memory_NN1 ._. 
+</s>
+<s>
+Through_II the_AT use_NN1 of_IO sub-goals_NN2 and_CC other_JJ control_NN1 symbols_NN2 ,_, rules_NN2 can_VM work_VVI together_RL to_TO implement_VVI simple_JJ or_CC complex_JJ strategies_NN2 to_TO complete_VVI tasks_NN2 ._. 
+</s>
+<s>
+Furthermore_RR ,_, there_EX can_VM be_VBI sets_NN2 of_IO rules_NN2 that_CST act_VV0 on_II the_AT goals_NN2 and_CC control_NN1 symbols_NN2 ,_, thereby_RR implementing_VVG task_NN1 switching_NN1 ,_, dual-tasking_JJ and_CC other_JJ executive_NN1 processes_NN2 ._. 
+</s>
+<s>
+The_AT proposal_NN1 made_VVN by_II this_DD1 paper_NN1 is_VBZ the_AT incorporation_NN1 of_IO emotion_NN1 into_II EPIC_NN1 in_BCL21 order_BCL22 to_TO assist_VVI in_II attaining_VVG the_AT goals_NN2 of_IO a_AT1 UTC_NN1 ._. 
+</s>
+<s>
+The_AT above_JJ sections_NN2 have_VH0 made_VVN it_PPH1 clear_JJ why_RRQ such_DA an_AT1 endeavor_NN1 would_VM be_VBI useful_JJ ._. 
+</s>
+<s>
+This_DD1 section_NN1 will_VM provide_VVI some_DD preliminary_JJ speculations_NN2 on_II how_RRQ such_DA incorporation_NN1 might_VM take_VVI place_NN1 ._. 
+</s>
+<s>
+An_AT1 initial_JJ issue_NN1 is_VBZ to_TO consider_VVI the_AT aspects_NN2 of_IO emotion_NN1 that_CST will_VM be_VBI dealt_VVN with_IW ._. 
+</s>
+<s>
+An_AT1 eventual_JJ goal_NN1 may_VM be_VBI to_TO deal_VVI with_IW the_AT entire_JJ process_NN1 of_IO emotion_NN1 starting_VVG with_IW elicitation_NN1 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA a_AT1 first_MD effort_NN1 ,_, it_PPH1 may_VM be_VBI enough_DD to_TO consider_VVI the_AT effects_NN2 of_IO a_AT1 given_JJ emotional_JJ state_NN1 on_II task_NN1 performance_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, in_II many_DA2 experiments_NN2 (_( such_II21 as_II22 Gray_NP1 (_( 2001_MC )_) ,_, discussed_VVN above_RL )_) ,_, an_AT1 emotional_JJ state_NN1 is_VBZ induced_VVN via_II viewing_NN1 of_IO some_DD sort_NN1 of_IO stimuli_NN2 in_II an_AT1 initial_JJ stage_NN1 ,_, and_CC then_RT performance_NN1 on_II a_AT1 task_NN1 of_IO interest_NN1 is_VBZ measured_VVN in_II a_AT1 test_NN1 stage_NN1 ._. 
+</s>
+<s>
+In_II such_DA a_AT1 case_NN1 ,_, if_CS the_AT desire_NN1 is_VBZ to_TO model_VVI performance_NN1 of_IO the_AT task_NN1 ,_, the_AT emotional_JJ state_NN1 can_VM be_VBI considered_VVN a_AT1 given_JJ ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, the_AT effects_NN2 of_IO the_AT emotional_JJ state_NN1 on_II task_NN1 performance_NN1 can_VM be_VBI modeled_VVN without_IW dealing_VVG with_IW the_AT issue_NN1 of_IO the_AT process_NN1 by_II which_DDQ the_AT emotion_NN1 was_VBDZ elicited_VVN ._. 
+</s>
+<s>
+One_MC1 approach_NN1 ,_, in_II31 keeping_II32 with_II33 the_AT multi-processor_JJ architecture_NN1 of_IO EPIC_NN1 ,_, and_CC in_II analogy_NN1 with_IW the_AT cognitive_JJ processor_NN1 ,_, would_VM be_VBI to_TO introduce_VVI an_AT1 "_" emotional_JJ processor_NN1 ._. "_" 
+</s>
+<s>
+Such_DA a_AT1 processor_NN1 could_VM encapsulate_VVI various_JJ aspects_NN2 of_IO the_AT emotion_NN1 ,_, including_II maintenance_NN1 of_IO the_AT emotional_JJ state_NN1 ,_, and_CC provide_VV0 coordination_NN1 of_IO the_AT emotional_JJ effects_NN2 on_II the_AT cognitive_JJ ,_, perceptual_JJ and_CC motor_NN1 systems_NN2 ._. 
+</s>
+<s>
+Support_VV0 for_IF this_DD1 approach_NN1 can_VM be_VBI found_VVN in_II the_AT physiological_JJ work_NN1 of_IO LeDoux_NP1 and_CC others_NN2 ,_, who_PNQS have_VH0 identified_VVN brain_NN1 areas_NN2 largely_RR dedicated_VVN to_II emotional_JJ processing_NN1 (_( fear_NN1 and_CC the_AT amygdala_NN1 ,_, for_REX21 example_REX22 )_) ._. 
+</s>
+<s>
+While_CS the_AT emotional_JJ processor_NN1 approach_NN1 has_VHZ some_DD advantages_NN2 ,_, another_DD1 approach_NN1 might_VM be_VBI more_RRR in_II31 line_II32 with_II33 the_AT process-oriented_JJ cognitive_JJ appraisal_NN1 view_NN1 of_IO emotion_NN1 ._. 
+</s>
+<s>
+The_AT argument_NN1 for_IF this_DD1 would_VM be_VBI that_DD1 emotion_NN1 is_VBZ not_XX a_AT1 separate_JJ system_NN1 to_TO be_VBI set_VVN in_II opposition_NN1 to_II the_AT cognitive_JJ one_PN1 ,_, but_CCB is_VBZ a_AT1 collection_NN1 of_IO causes_NN2 and_CC effects_NN2 ,_, a_AT1 process_NN1 ,_, that_DD1 is_VBZ manifested_VVN across_II mental_JJ systems_NN2 ._. 
+</s>
+<s>
+Taking_VVG this_DD1 approach_NN1 to_II the_AT extreme_JJ ,_, there_EX would_VM be_VBI no_AT emotional_JJ processor_NN1 ._. 
+</s>
+<s>
+There_EX would_VM simply_RR be_VBI certain_JJ production_NN1 rules_NN2 (_( cognitive_JJ appraisals_NN2 )_) whose_DDQGE actions_NN2 would_VM include_VVI certain_JJ modifications_NN2 of_IO the_AT perceptual_JJ ,_, cognitive_JJ and_CC motor_NN1 systems_NN2 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, emotion_NN1 would_VM simply_RR be_VBI a_AT1 process_NN1 occurring_VVG across_II other_JJ mental_JJ systems_NN2 ._. 
+</s>
+<s>
+The_AT current_JJ evidence_NN1 probably_RR argues_VVZ for_IF a_AT1 hybrid_JJ approach_NN1 ._. 
+</s>
+<s>
+An_AT1 emotional_JJ processor_NN1 could_VM mediate_VVI "_" non-propositional_JJ signals_NN2 "_" of_IO the_AT sort_NN1 advocated_VVN by_II Oatley_NP1 and_CC Johnson-Laird_NP1 (_( 1987_MC )_) ,_, and_CC maintain_VV0 physiological_JJ state_NN1 information_NN1 of_IO the_AT sort_NN1 hypothesized_VVD by_II Damasio_NP1 (_( 1996_MC )_) and_CC Pfeifer_NP1 (_( 1988_MC )_) ._. 
+</s>
+<s>
+This_DD1 information_NN1 would_VM then_RT lead_VVI to_II various_JJ modifications_NN2 ,_, both_RR qualitative_JJ and_CC quantitative_JJ ,_, that_DD1 would_VM take_VVI place_NN1 in_II EPIC_NN1 's_GE other_JJ processors_NN2 ._. 
+</s>
+<s>
+Qualitative_JJ changes_NN2 would_VM be_VBI most_RGT likely_JJ in_II EPIC_NN1 's_GE cognitive_JJ processor_NN1 ._. 
+</s>
+<s>
+Specifically_RR ,_, emotions_NN2 would_VM alter_VVI both_RR strategies_NN2 and_CC goals_NN2 ._. 
+</s>
+<s>
+The_AT strategy_NN1 shifts_NN2 could_VM be_VBI at_II both_DB2 the_AT task_NN1 specific_JJ level_NN1 and_CC the_AT executive_NN1 process_NN1 level_NN1 ._. 
+</s>
+<s>
+A_AT1 major_JJ emphasis_NN1 within_II EPIC_NN1 is_VBZ on_II the_AT variety_NN1 of_IO executive_NN1 control_NN1 strategies_NN2 available_JJ to_II subjects_NN2 ._. 
+</s>
+<s>
+Some_DD of_IO these_DD2 strategies_NN2 are_VBR more_RGR "_" cautious_JJ "_" while_CS others_NN2 are_VBR more_RGR "_" daring_JJ "_" (_( Meyer_NP1 and_CC Kieras_NP2 ,_, 1997_MC )_) ._. 
+</s>
+<s>
+Emotional_JJ modulation_NN1 of_IO these_DD2 cautious_JJ and_CC daring_JJ strategies_NN2 may_VM be_VBI a_AT1 significant_JJ factor_NN1 in_II the_AT emotional_JJ modulation_NN1 of_IO control_NN1 hypothesized_VVD by_II Simon_NP1 (_( 1967_MC )_) and_CC found_VVN by_II Gray_NP1 (_( 2001_MC )_) ._. 
+</s>
+<s>
+In_II dual-tasking_JJ situations_NN2 ,_, the_AT prioritization_NN1 of_IO goals_NN2 may_VM also_RR be_VBI manipulated_VVN by_II emotional_JJ states_NN2 ._. 
+</s>
+<s>
+EPIC_NN1 does_VDZ not_XX have_VHI a_AT1 dedicated_JJ goal_NN1 prioritization_NN1 mechanism_NN1 ,_, so_RG emotional_JJ executive_NN1 control_NN1 processes_NN2 would_VM enact_VVI goal_NN1 prioritization_NN1 by_II manipulating_VVG goal_NN1 states_NN2 so_BCL21 as_BCL22 to_TO achieve_VVI the_AT desired_JJ effects_NN2 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 qualitative_JJ effects_NN2 ,_, emotional_JJ states_NN2 may_VM also_RR have_VHI quantitative_JJ effects_NN2 on_II various_JJ parts_NN2 of_IO EPIC_NN1 ._. 
+</s>
+<s>
+Within_II the_AT working_JJ memory_NN1 system_NN1 ,_, a_AT1 prime_JJ consideration_NN1 will_VM be_VBI the_AT decay_NN1 rates_NN2 for_IF various_JJ types_NN2 of_IO items_NN2 ._. 
+</s>
+<s>
+In_II the_AT past_NN1 these_DD2 rates_NN2 have_VH0 been_VBN set_VVN at_II fixed_JJ values_NN2 for_IF different_JJ types_NN2 of_IO information_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT decay_NN1 rate_NN1 for_IF phonological_JJ codes_NN2 in_II verbal_JJ working_JJ memory_NN1 has_VHZ been_VBN established_VVN based_VVN on_II memory_NN1 span_NN1 experiments_NN2 (_( Kieras_NN2 et_RA21 al._RA22 ,_, 1999_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, to_TO model_VVI the_AT impact_NN1 of_IO emotion_NN1 on_II memory_NN1 performance_NN1 (_( Gray_NP1 ,_, 2001_MC )_) may_VM require_VVI the_AT modulation_NN1 of_IO decay_NN1 rates_NN2 based_VVN on_II current_JJ emotional_JJ state_NN1 ._. 
+</s>
+<s>
+In_II the_AT perceptual_JJ arena_NN1 ,_, emotional_JJ modulation_NN1 of_IO detection_NN1 and_CC encoding_VVG parameters_NN2 may_VM be_VBI needed_VVN ._. 
+</s>
+<s>
+Specifically_RR ,_, the_AT detection_NN1 and_CC encoding_JJ times_NNT2 within_II EPIC_NN1 necessarily_RR reflect_VV0 speed-accuracy_JJ tradeoffs_NN2 in_II the_AT underlying_JJ perceptual_JJ processes_NN2 ._. 
+</s>
+<s>
+Emotional_JJ state_NN1 may_VM modulate_VVI these_DD2 tradeoffs_NN2 ,_, thus_RR changing_VVG the_AT detection_NN1 and_CC encoding_VVG parameters_NN2 ._. 
+</s>
+<s>
+Similarly_RR the_AT arousal_NN1 component_NN1 of_IO emotion_NN1 may_VM quantitatively_RR shift_VVI the_AT cycle_NN1 time_NNT1 of_IO the_AT cognitive_JJ processor_NN1 ,_, leading_VVG to_II broad_JJ changes_NN2 in_II performance_NN1 ._. 
+</s>
+<s>
+In_II the_AT long_JJ run_NN1 ,_, emotional_JJ elicitation_NN1 could_VM also_RR be_VBI dealt_VVN with_IW in_II EPIC_NN1 ._. 
+</s>
+<s>
+A_AT1 specific_JJ set_NN1 of_IO production_NN1 rules_NN2 could_VM handle_VVI the_AT appraisal_NN1 of_IO stimuli_NN2 by_II constantly_RR evaluating_VVG their_APPGE emotional_JJ significance_NN1 ._. 
+</s>
+<s>
+Since_CS production_NN1 rules_NN2 can_VM fire_VVI in_II parallel_NN1 in_II EPIC_NN1 ,_, these_DD2 emotional_JJ processes_NN2 could_VM be_VBI taking_VVG place_NN1 along_II21 with_II22 typical_JJ task_NN1 processes_NN2 ._. 
+</s>
+<s>
+As_CSA certain_JJ appraisals_NN2 invoked_VVD state_NN1 changes_NN2 in_II the_AT emotional_JJ processor_NN1 ,_, there_EX would_VM be_VBI modulations_NN2 in_II the_AT task-related_JJ activities_NN2 ,_, as_CSA discussed_VVN above_RL ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 developing_JJ body_NN1 of_IO work_NN1 exhibiting_VVG the_AT influence_NN1 of_IO emotion_NN1 on_II mental_JJ processes_NN2 that_CST have_VH0 traditionally_RR been_VBN considered_VVN purely_RR cognitive_JJ in_II nature_NN1 ._. 
+</s>
+<s>
+As_II such_DA ,_, emotions_NN2 are_VBR clearly_RR relevant_JJ to_II the_AT goals_NN2 of_IO unified_JJ theories_NN2 of_IO cognition_NN1 ,_, namely_REX the_AT successful_JJ modeling_NN1 of_IO human_JJ performance_NN1 on_II cognitive_JJ tasks_NN2 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO EPIC_NN1 ,_, which_DDQ attempts_VVZ to_TO make_VVI detailed_JJ predictions_NN2 about_II the_AT timing_NN1 and_CC accuracy_NN1 of_IO human_JJ performance_NN1 ,_, it_PPH1 may_VM be_VBI time_NNT1 to_TO consider_VVI the_AT influence_NN1 of_IO emotion_NN1 on_II performance_NN1 ._. 
+</s>

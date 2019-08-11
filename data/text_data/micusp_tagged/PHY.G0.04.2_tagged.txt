@@ -1,0 +1,225 @@
+<s>
+Atomic_JJ and_CC molecular_JJ spectroscopy_NN1 has_VHZ provided_VVN experimental_JJ verification_NN1 for_IF many_DA2 of_IO the_AT most_RGT profound_JJ predictions_NN2 in_II physics_NN1 ._. 
+</s>
+<s>
+There_EX has_VHZ been_VBN excellent_JJ agreement_NN1 between_II theory_NN1 and_CC experiment_NN1 in_II the_AT study_NN1 of_IO visible_JJ light_JJ emissions_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 experiment_NN1 ,_, we_PPIS2 used_VVD spectroscopy_NN1 to_TO test_VVI theoretical_JJ predictions_NN2 on_II three_MC levels_NN2 of_IO complexity_NN1 ._. 
+</s>
+<s>
+We_PPIS2 start_VV0 with_IW hydrogen_NN1 ,_, the_AT simplest_JJT atom_NN1 ,_, to_TO test_VVI Bohr_NP1 's_GE model_NN1 of_IO quantized_JJ atomic_JJ energy_NN1 levels_NN2 ._. 
+</s>
+<s>
+We_PPIS2 then_RT increase_VV0 the_AT complexity_NN1 by_II studying_VVG sodium_NN1 ,_, an_AT1 alkali_NN1 atom_NN1 ._. 
+</s>
+<s>
+Sodium_NN1 displays_VVZ nuclear_JJ screening_NN1 ,_, electron_NN1 spin_NN1 ,_, and_CC selection_NN1 rules_NN2 ,_, all_RR predicted_VVN by_II quantum_NN1 mechanics_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, we_PPIS2 looked_VVD at_II the_AT vibrational_JJ and_CC rotational_JJ excitations_NN2 of_IO diatomic_JJ nitrogen_NN1 to_TO infer_VVI the_AT structure_NN1 of_IO the_AT chemical_JJ bond_NN1 between_II the_AT two_MC atoms_NN2 ._. 
+</s>
+<s>
+We_PPIS2 used_VVD an_AT1 Ocean_NN1 Optics_NN1 SD2000_FO fiber_NN1 spectrometer_NN1 calibrated_VVN with_IW mercury_NN1 and_CC helium_NN1 ._. 
+</s>
+<s>
+The_AT spectrometer_NN1 consists_VVZ of_IO two_MC gratings_NN2 :_: the_AT master_NN1 ,_, which_DDQ has_VHZ a_AT1 spectral_JJ rand_NN1 of_IO 632_MC nm_FU to_II 880_MC nm_FU ,_, and_CC the_AT slave_NN1 ,_, which_DDQ has_VHZ a_AT1 spectral_JJ range_NN1 of_IO 371_MC nm_FU to_II 677_MC nm_FU ._. 
+</s>
+<s>
+Both_DB2 gratings_NN2 are_VBR mounted_VVN in_II a_AT1 crossed_JJ Czerny-Turner_NP1 configuration_NN1 ._. 
+</s>
+<s>
+The_AT device_NN1 has_VHZ a_AT1 resolution_NN1 of_IO 3.5710-7_MCMC pixels_NN2 and_CC is_VBZ therefore_RR able_JK to_TO resolve_VVI features_NN2 such_II21 as_II22 the_AT sodium_NN1 doublet_NN1 ,_, which_DDQ has_VHZ a_AT1 separation_NN1 of_IO 0.121_MC pixels_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT spectrometer_NN1 is_VBZ not_XX fit_JJ to_TO study_VVI the_AT hydrogen_NN1 Lyman_NN1 series_NN ,_, which_DDQ does_VDZ not_XX lie_VVI in_II the_AT spectral_JJ range_NN1 of_IO the_AT instrument_NN1 ._. 
+</s>
+<s>
+The_AT Balmer_NP1 formula_NN1 describes_VVZ the_AT visible_JJ spectrum_NN1 produced_VVN by_II excited_JJ hydrogen_NN1 atoms_NN2 ._. 
+</s>
+<s>
+In_II 1889_MC ,_, Rydberg_NP1 recognized_VVD the_AT Balmer_NP1 formula_NN1 to_TO be_VBI a_AT1 particular_JJ case_NN1 of_IO a_AT1 more_RGR general_JJ expression_NN1 in_II which_DDQ n1_FO =_FO 2_MC and_CC RH_FO is_VBZ the_AT Rydberg_NP1 constant_JJ ._. 
+</s>
+<s>
+(_( G_ZZ1 is_VBZ an_AT1 empirical_JJ constant_JJ )_) In_II 1913_MC ,_, Bohr_NP1 revolutionized_VVD our_APPGE view_NN1 of_IO the_AT atom_NN1 with_IW his_APPGE model_NN1 of_IO atomic_JJ quantization_NN1 ._. 
+</s>
+<s>
+Bohr_NP1 suggested_VVD that_CST orbital_JJ energy_NN1 is_VBZ fixed_VVN at_II discrete_JJ values_NN2 ,_, as_CSA a_AT1 function_NN1 of_IO a_AT1 quantum_NN1 number_NN1 n_ZZ1 ._. 
+</s>
+<s>
+Changes_NN2 in_II energy_NN1 states_NN2 are_VBR accounted_VVN for_IF by_II the_AT emission_NN1 or_CC absorption_NN1 of_IO a_AT1 photon_NN1 ,_, which_DDQ balances_VVZ the_AT energy_NN1 difference_NN1 ._. 
+</s>
+<s>
+This_DD1 relation_NN1 is_VBZ described_VVN by_II the_AT Planck_NP1 formula_NN1 :_: Our_APPGE measurement_NN1 of_IO the_AT visible_JJ part_NN1 of_IO the_AT hydrogen_NN1 spectrum_NN1 is_VBZ evidence_NN1 of_IO Bohr_NP1 's_GE quantized_JJ energy_NN1 levels_NN2 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 shows_VVZ a_AT1 plot_NN1 of_IO :_: By_II the_AT Rydberg_NP1 formula_NN1 ,_, the_AT slope_NN1 of_IO the_AT line_NN1 gives_VVZ the_AT Rydberg_NP1 constant_JJ ._. 
+</s>
+<s>
+Our_APPGE estimation_NN1 of_IO this_DD1 constant_NN1 is_VBZ 109683_MC +_FO 1000_MC cm-1_MC1 (_( accepted_JJ value_NN1 RH=109737.318_FO +_FO 0.012_MC cm-1_MC1 )_) ._. 
+</s>
+<s>
+The_AT straightness_NN1 of_IO the_AT line_NN1 is_VBZ a_AT1 test_NN1 of_IO Balmer_NP1 's_GE hypothesis_NN1 regarding_II the_AT quantized_JJ energy_NN1 levels_NN2 of_IO the_AT hydrogen_NN1 spectrum_NN1 ._. 
+</s>
+<s>
+We_PPIS2 used_VVD Excel_VV0 to_TO plot_VVI a_AT1 linear_JJ trend_NN1 ,_, which_DDQ gave_VVD an_AT1 R2_FO value_NN1 of_IO 1_MC1 ._. 
+</s>
+<s>
+This_DD1 indicates_VVZ that_CST a_AT1 straight_JJ line_NN1 is_VBZ a_AT1 good_JJ fit_JJ for_IF the_AT data_NN ,_, thus_RR verifying_VVG the_AT Balmer_NP1 hypothesis_NN1 ._. 
+</s>
+<s>
+Sodium_NN1 is_VBZ an_AT1 alkali_NN1 atom_NN1 ,_, meaning_VVG it_PPH1 has_VHZ one_MC1 l_ZZ1 =_FO 0_MC electron_NN1 in_II its_APPGE valence_NN1 shell_NN1 ._. 
+</s>
+<s>
+As_II the_AT nucleus_NN1 is_VBZ shielded_VVN by_II the_AT charge_NN1 distribution_NN1 of_IO the_AT inner_JJ shells_NN2 ,_, his_APPGE lone_JJ electron_NN1 "_" sees_VVZ "_" a_AT1 net_JJ potential_JJ similar_JJ to_II that_DD1 of_IO hydrogen_NN1 ._. 
+</s>
+<s>
+However_RR ,_, for_IF smaller_JJR n_ZZ1 ,_, the_AT behavior_NN1 of_IO electrons_NN2 of_IO small_JJ l_ZZ1 deviates_VVZ from_II hydrogenic_JJ behavior_NN1 ._. 
+</s>
+<s>
+The_AT small_JJ l_ZZ1 states_NN2 do_VD0 not_XX have_VHI enough_DD angular_JJ momentum_NN1 to_TO maintain_VVI a_AT1 large_JJ radius_NN1 ,_, causing_VVG their_APPGE orbits_NN2 to_TO cross_VVI inside_II the_AT closed_JJ shells_NN2 (_( Fig._NN1 2_MC )_) ._. 
+</s>
+<s>
+When_CS this_DD1 occurs_VVZ ,_, there_EX is_VBZ less_DAR of_IO a_AT1 screening_NN1 effect_NN1 and_CC a_AT1 lowering_NN1 of_IO the_AT Coulomb_NP1 energy_NN1 ._. 
+</s>
+<s>
+Evidence_NN1 for_IF nuclear_JJ screening_NN1 is_VBZ found_VVN by_II fitting_VVG our_APPGE measurement_NN1 of_IO the_AT sodium_NN1 spectrum_NN1 to_II a_AT1 Balmer-like_JJ relation_NN1 ._. 
+</s>
+<s>
+We_PPIS2 did_VDD this_DD1 using_VVG a_AT1 quantum_NN1 defect_NN1 ,_, which_DDQ mathematically_RR summarizes_VVZ the_AT effect_NN1 of_IO nuclear_JJ screening_NN1 ._. 
+</s>
+<s>
+The_AT quantum_NN1 defect_NN1 (_( )_) is_VBZ a_AT1 correction_NN1 to_II the_AT quantized_JJ energy_NN1 predicted_VVN by_II Bohr_NP1 ._. 
+</s>
+<s>
+Following_VVG the_AT selection_NN1 rule_NN1 ,_, ,_, the_AT wavelength_NN1 of_IO a_AT1 photon_NN1 emitted_VVD to_TO bring_VVI an_AT1 electron_NN1 from_II energy_NN1 state_VV0 nd_NNU to_II 3p_NNU is_VBZ determined_VVN by_II :_: Figure_NN1 3_MC is_VBZ a_AT1 plot_NN1 of_IO The_AT sodium_NN1 spectrum_NN1 also_RR shows_VVZ evidence_NN1 of_IO electron_NN1 spin_NN1 ._. 
+</s>
+<s>
+In_II the_AT rest_NN1 frame_NN1 of_IO the_AT electron_NN1 ,_, the_AT proton_NN1 creates_VVZ a_AT1 circular_JJ positive_JJ current_JJ and_CC therefore_RR produces_VVZ a_AT1 magnetic_JJ field_NN1 ._. 
+</s>
+<s>
+The_AT spin_NN1 of_IO an_AT1 electron_NN1 can_VM point_VVI either_RR up_RP or_CC down_RP with_II31 respect_II32 to_II33 the_AT internal_JJ magnetic_JJ field_NN1 ._. 
+</s>
+<s>
+The_AT interaction_NN1 energy_NN1 between_II the_AT magnetic_JJ field_NN1 and_CC the_AT internal_JJ magnetic_JJ moment_NN1 of_IO the_AT electron_NN1 is_VBZ described_VVN as_II the_AT spin-orbit_JJ interaction_NN1 ._. 
+</s>
+<s>
+Since_CS spin_NN1 can_VM only_RR have_VHI two_MC values_NN2 ,_, the_AT spin-orbit_JJ interaction_NN1 energy_NN1 can_VM also_RR only_RR have_VHI two_MC values_NN2 :_: The_AT interaction_NN1 energy_NN1 is_VBZ either_RR added_VVN or_CC subtracted_VVN from_II the_AT total_JJ energy_NN1 of_IO each_DD1 state_NN1 ._. 
+</s>
+<s>
+This_DD1 leads_VVZ to_II a_AT1 small_JJ energy_NN1 split_VVN for_IF every_AT1 state_NN1 with_IW The_AT spin-orbit_JJ interaction_NN1 manifests_VVZ itself_PPX1 as_II a_AT1 0.1%_FO split_NN1 of_IO spectral_JJ lines_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT presence_NN1 of_IO doublets_NN2 in_II the_AT sodium_NN1 spectrum_NN1 verifies_VVZ the_AT prediction_NN1 of_IO spin-orbit_JJ coupling_NN1 ._. 
+</s>
+<s>
+These_DD2 doublets_NN2 can_VM also_RR be_VBI used_VVN to_TO infer_VVI the_AT magnitude_NN1 of_IO the_AT internal_JJ magnetic_JJ field_NN1 of_IO the_AT atom_NN1 ._. 
+</s>
+<s>
+The_AT classic_JJ example_NN1 of_IO a_AT1 doublet_NN1 is_VBZ the_AT sodium_NN1 D_ZZ1 line_NN1 ,_, shown_VVN in_II Figure_NN1 4_MC ._. 
+</s>
+<s>
+We_PPIS2 calculated_VVD the_AT expected_JJ internal_JJ atomic_JJ magnetic_JJ field_NN1 to_TO be_VBI 1.3321021_MC T_ZZ1 for_IF an_AT1 expected_JJ energy_NN1 split_NN1 of_IO 0.00617_MC eV_NN1 ._. 
+</s>
+<s>
+Our_APPGE measured_JJ energy_NN1 split_NN1 was_VBDZ 0.00104_MC +_FO 0.001_MC eV_NN1 ._. 
+</s>
+<s>
+This_DD1 gives_VVZ 2.24326201020_MC T_ZZ1 for_IF the_AT internal_JJ magnetic_JJ field_NN1 ,_, which_DDQ is_VBZ about_II an_AT1 order_NN1 of_IO magnitude_NN1 lower_JJR than_CSN expected_JJ ._. 
+</s>
+<s>
+The_AT spectrum_NN1 of_IO diatomic_JJ nitrogen_NN1 differs_VVZ from_II those_DD2 of_IO hydrogen_NN1 and_CC sodium_NN1 greatly_RR ._. 
+</s>
+<s>
+The_AT hydrogen_NN1 and_CC sodium_NN1 spectra_NN2 consist_VV0 of_IO several_DA2 sharp_JJ peaks_NN2 whereas_CS the_AT N2_FO spectrum_NN1 shows_VVZ a_AT1 broad_JJ "_" comb-like_JJ "_" band_NN1 of_IO emission_NN1 wavelengths_NN2 ._. 
+</s>
+<s>
+Diatomic_JJ nitrogen_NN1 is_VBZ more_RGR complex_JJ and_CC has_VHZ both_RR vibrational_JJ and_CC rotational_JJ degrees_NN2 of_IO freedom_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT Born-Oppenheimer_NP1 approximation_NN1 ,_, vibrational_JJ and_CC rotational_JJ excitations_NN2 can_VM be_VBI treated_VVN separately_RR ._. 
+</s>
+<s>
+The_AT vibrational_JJ mode_NN1 is_VBZ described_VVN by_II the_AT quantum_NN1 harmonic_JJ oscillator_NN1 model_NN1 ._. 
+</s>
+<s>
+In_II the_AT following_JJ equation_NN1 ,_, 0_MC represents_VVZ the_AT fundamental_JJ frequency_NN1 oscillation_NN1 ._. 
+</s>
+<s>
+A_AT1 transition_NN1 in_II which_DDQ n_ZZ1 is_VBZ decreased_VVN by_II 1_MC1 forms_VVZ a_AT1 spectrum_NN1 of_IO equally_RR spaced_VVN lines_NN2 ._. 
+</s>
+<s>
+The_AT separation_NN1 of_IO these_DD2 lines_NN2 can_VM be_VBI measured_VVN and_CC then_RT used_VVN to_TO calculate_VVI 0_MC ._. 
+</s>
+<s>
+In_II figure_NN1 5_MC ,_, the_AT coarser_JJR set_NN1 of_IO lines_NN2 represents_VVZ the_AT vibrational_JJ excitations_NN2 ._. 
+</s>
+<s>
+These_DD2 lines_NN2 were_VBDR not_XX exactly_RR equally_RR spaced_VVN ,_, which_DDQ we_PPIS2 expect_VV0 to_TO be_VBI the_AT result_NN1 of_IO coupling_NN1 with_IW rotational_JJ motion_NN1 ._. 
+</s>
+<s>
+We_PPIS2 found_VVD the_AT fundamental_JJ vibrational_JJ frequency_NN1 of_IO nitrogen_NN1 to_TO be_VBI 3.111013_MC Hz_NNU ._. 
+</s>
+<s>
+The_AT bond_NN1 holding_VVG the_AT two_MC nitrogen_NN1 atoms_NN2 together_RL can_VM be_VBI viewed_VVN as_II a_AT1 spring_NN1 ._. 
+</s>
+<s>
+The_AT strength_NN1 of_IO the_AT bond_NN1 can_VM therefore_RR be_VBI approximated_VVN using_VVG ,_, where_CS m_ZZ1 is_VBZ the_AT reduced_JJ mass_NN1 (_( 7.0015_MC amu_NN1 )_) ._. 
+</s>
+<s>
+We_PPIS2 found_VVD k=11.237_FO N/m_ZZ1 ._. 
+</s>
+<s>
+The_AT rotational_JJ excitations_NN2 are_VBR seen_VVN in_II the_AT fine_JJ structure_NN1 of_IO each_DD1 of_IO the_AT coarse_JJ peaks_NN2 in_II the_AT N2_FO spectrum_NN1 ._. 
+</s>
+<s>
+These_DD2 emissions_NN2 are_VBR described_VVN by_II a_AT1 quantum_NN1 rigid_JJ rotator_NN1 ._. 
+</s>
+<s>
+In_II the_AT above_JJ equation_NN1 J=0,1,2_FO ..._... h_ZZ1 is_VBZ Planck_NP1 's_GE constant_JJ and_CC I_ZZ1 is_VBZ the_AT moment_NN1 of_IO inertia_NN1 of_IO the_AT molecule_NN1 ._. 
+</s>
+<s>
+For_IF two_MC particles_NN2 separated_VVN a_AT1 distance_NN1 r_ZZ1 with_IW a_AT1 reduced_JJ mass_NN1 m_ZZ1 ,_, the_AT moment_NN1 of_IO inertia_NN1 is_VBZ I=mr2_FO ._. 
+</s>
+<s>
+We_PPIS2 again_RT extracted_VVD a_AT1 frequency_NN1 for_IF rotational_JJ motion_NN1 ,_, which_DDQ was_VBDZ found_VVN to_TO be_VBI 2.521012_MC Hz_NNU ._. 
+</s>
+<s>
+This_DD1 is_VBZ an_AT1 order_NN1 of_IO magnitude_NN1 smaller_JJR than_CSN the_AT vibrational_JJ frequency_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR calculated_VVD the_AT distance_NN1 between_II the_AT atoms_NN2 as_CSA 0.19_MC nm_FU ._. 
+</s>
+<s>
+It_PPH1 is_VBZ curious_JJ that_CST the_AT same_DA comb-like_JJ structure_NN1 was_VBDZ not_XX seen_VVN in_II the_AT diatomic_JJ hydrogen_NN1 spectrum_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT rotational_JJ energy_NN1 is_VBZ a_AT1 function_NN1 of_IO 1/m_FU and_CC the_AT mass_NN1 of_IO a_AT1 hydrogen_NN1 molecule_NN1 is_VBZ very_RG small_RR compared_VVN to_II nitrogen_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM result_VVI in_II emissions_NN2 with_IW wavelengths_NN2 much_RR larger_JJR than_CSN our_APPGE apparatus_NN1 can_VM detect_VVI ._. 
+</s>
+<s>
+An_AT1 application_NN1 of_IO our_APPGE knowledge_NN1 of_IO molecular_JJ excitations_NN2 is_VBZ found_VVN in_II a_AT1 common_JJ kitchen_NN1 appliance_NN1 ._. 
+</s>
+<s>
+A_AT1 molecule_NN1 will_VM absorb_VVI a_AT1 photon_NN1 that_CST matches_VVZ its_APPGE fundamental_JJ frequency_NN1 ._. 
+</s>
+<s>
+This_DD1 causes_VVZ the_AT energy_NN1 of_IO the_AT molecule_NN1 to_TO increase_VVI ,_, which_DDQ increases_VVZ the_AT temperature_NN1 of_IO the_AT material_NN1 ._. 
+</s>
+<s>
+In_II a_AT1 microwave_NN1 oven_NN1 ,_, microwaves_NN2 are_VBR used_VVN to_TO excite_VVI water_NN1 molecules_NN2 in_BCL21 order_BCL22 to_TO heat_VVI food_NN1 ._. 
+</s>
+<s>
+The_AT atomic_JJ and_CC molecular_JJ spectra_NN2 studied_VVN in_II this_DD1 experiment_NN1 verify_VV0 several_DA2 famous_JJ theoretical_JJ predictions_NN2 in_II physics_NN1 ._. 
+</s>
+<s>
+The_AT hydrogen_NN1 spectrum_NN1 verifies_VVZ Bohr_NP1 's_GE model_NN1 of_IO quantized_JJ energy_NN1 levels_NN2 ._. 
+</s>
+<s>
+On_II a_AT1 more_RGR complex_JJ level_NN1 ,_, quantum_NN1 mechanical_JJ predictions_NN2 of_IO electron_NN1 spin_NN1 ,_, nuclear_JJ screening_NN1 and_CC selection_NN1 rules_NN2 are_VBR manifested_VVN in_II the_AT sodium_NN1 spectrum_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT spectrum_NN1 of_IO diatomic_JJ nitrogen_NN1 shows_VVZ the_AT validity_NN1 of_IO the_AT Born-Oppenheimer_NP1 approximation_NN1 regarding_II vibrational_JJ and_CC rotational_JJ energies_NN2 ._. 
+</s>

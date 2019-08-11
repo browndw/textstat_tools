@@ -1,0 +1,516 @@
+<s>
+This_DD1 paper_NN1 examines_VVZ a_AT1 type_NN1 of_IO English_JJ construction_NN1 ,_, the_AT existential_JJ with_IW expletive_NN1 there_RL subject_NN1 ,_, that_DD1 has_VHZ received_VVN significant_JJ attention_NN1 in_II what_DDQ are_VBR often_RR perceived_VVN to_TO be_VBI two_MC disparate_JJ areas_NN2 of_IO linguistic_JJ study_NN1 :_: sociolinguistic_JJ variation_NN1 ,_, and_CC syntactic_JJ theory_NN1 ._. 
+</s>
+<s>
+This_DD1 class_NN1 of_IO construction_NN1 includes_VVZ sentences_NN2 like_VV0 :_: Existentials_NP1 have_VH0 been_VBN the_AT subject_NN1 of_IO many_DA2 variationist_NN1 studies_NN2 seeking_VVG to_TO investigate_VVI differences_NN2 among_II dialects_NN2 of_IO English_NN1 ;_; the_AT primary_JJ focus_NN1 of_IO such_DA articles_NN2 has_VHZ been_VBN the_AT issue_NN1 of_IO variable_JJ concord_NN1 ,_, that_REX21 is_REX22 ,_, whether_CSW the_AT verb_NN1 be_VBI is_VBZ overtly_RR inflected_VVN to_TO agree_VVI in_II person_NN1 and_CC number_NN1 with_IW the_AT lower_JJR predicate_NN1 ,_, the_AT associate-NP_NN1 ,_, rather_II21 than_II22 the_AT grammatical_JJ subject_NN1 (_( expletive_NN1 there_RL )_) ._. 
+</s>
+<s>
+The_AT examples_NN2 (_( 1a-1d_NNU )_) above_RL illustrate_VV0 that_DD1 agreement_NN1 with_IW the_AT lower_JJR NP_NP1 is_VBZ not_XX strictly_RR adhered_VVN to_II ,_, and_CC this_DD1 syntactic_JJ variation_NN1 has_VHZ interested_VVN sociolinguists_NN2 ._. 
+</s>
+<s>
+Similarly_RR ,_, but_CCB in_II largely_RR a_AT1 separate_JJ realm_NN1 of_IO research_NN1 ,_, the_AT agreement_NN1 variability_NN1 noted_VVN above_RL has_VHZ been_VBN of_IO interest_NN1 to_II syntacticians_NN2 seeking_VVG to_TO explain_VVI grammatical_JJ agreement_NN1 phenomena_NN2 ._. 
+</s>
+<s>
+In_II specific_JJ ,_, existentials_NN2 raise_VV0 questions_NN2 about_II the_AT structural_JJ relation_NN1 between_II verb_NN1 and_CC both_DB2 the_AT expletive_NN1 and_CC the_AT lower_JJR associate-NP_NN1 ,_, as_II31 well_II32 as_II33 the_AT relation_NN1 between_II the_AT expletive_NN1 and_CC associate-NP_NP1 ._. 
+</s>
+<s>
+The_AT need_NN1 to_TO explain_VVI these_DD2 noncanonical_JJ relationships_NN2 has_VHZ also_RR inspired_VVN a_AT1 host_NN1 of_IO research_NN1 regarding_II assignment_NN1 of_IO Case_NN1 assignment_NN1 in_II existentials_NN2 ,_, which_DDQ in_II turn_NN1 has_VHZ implications_NN2 for_IF analyses_NN2 of_IO agreement_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT aim_NN1 of_IO this_DD1 paper_NN1 to_TO give_VVI a_AT1 basic_JJ review_NN1 of_IO proposed_JJ syntactic_JJ analyses_NN2 of_IO English_JJ existentials_NN2 in_II terms_NN2 primarily_RR of_IO Case_NN1 assignment_NN1 and_CC agreement_NN1 ._. 
+</s>
+<s>
+After_II summarizing_VVG Lasnik_NP1 's_GE (_( 1995_MC )_) seminal_JJ analysis_NN1 of_IO Case_NN1 via_II expletive_NN1 and_CC associate-NP_JJ raising_NN1 in_II LF_NP1 ,_, I_PPIS1 turn_VV0 to_II analyses_NN2 of_IO (_( non_FU )_) agreement_NN1 in_II existential_JJ constructions_NN2 ,_, where_CS I_PPIS1 discuss_VV0 several_DA2 arguments_NN2 that_CST have_VH0 been_VBN put_VVN forth_RR and_CC how_RRQ they_PPHS2 conceive_VV0 of_IO agreement_NN1 relations_NN2 ._. 
+</s>
+<s>
+I_PPIS1 will_VM focus_VVI this_DD1 discussion_NN1 on_II arguments_NN2 that_CST singular_JJ concord_NN1 is_VBZ actually_RR nonagreement_NN1 ,_, which_DDQ is_VBZ posited_VVN by_II Rupp_NP1 (_( 2005_MC )_) ,_, whose_DDQGE explicit_JJ aim_NN1 is_VBZ to_TO square_VVI syntactic_JJ analysis_NN1 of_IO these_DD2 phenomena_NN2 with_IW empirical_JJ variationist_NN1 findings_NN2 regarding_II English_JJ dialects_NN2 ._. 
+</s>
+<s>
+To_TO conclude_VVI ,_, then_RT ,_, I_PPIS1 briefly_RR discuss_VV0 the_AT relations_NN2 between_II syntax_NN1 and_CC sociolinguistics_NN2 as_CSA implicated_VVN by_II the_AT existential_JJ analyses_NN2 from_II both_DB2 sides_NN2 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT earliest_JJT concerns_NN2 of_IO generative_JJ analyses_NN2 of_IO English_JJ existentials_NN2 emerged_VVD from_II the_AT noncanonical_JJ relationship_NN1 between_II expletives_NN2 (_( there_RL )_) and_CC their_APPGE relationship_NN1 to_II associate-NPs_NN2 ,_, which_DDQ occur_VV0 as_II a_AT1 lower_JJR argument_NN1 and_CC are_VBR often_RR called_VVN the_AT "_" notional_JJ subject_NN1 ,_, "_" reflecting_VVG the_AT analysis_NN1 that_CST they_PPHS2 raise_VV0 at_II LF_NP1 to_TO take_VVI the_AT subject_NN1 position_NN1 ._. 
+</s>
+<s>
+Lasnik_NP1 (_( 1995_MC )_) provides_VVZ what_DDQ seems_VVZ to_TO be_VBI the_AT seminal_JJ proposal_NN1 for_IF Case_NN1 assignment_NN1 in_II existential_JJ constructions_NN2 ;_; explaining_VVG how_RGQ associate_JJ arguments_NN2 receive_VV0 Case_NN1 despite_II being_VBG outside_II21 of_II22 the_AT typical_JJ Spec-Head_NN1 relationship_NN1 with_IW the_AT Infl_NN1 Case_NN1 assignor_NN1 ,_, where_CS subjects_NN2 receive_VV0 nominative_JJ Case_NN1 ._. 
+</s>
+<s>
+In_II sum_NN1 ,_, Lasnik_NP1 contradicts_VVZ Chomsky_NP1 's_GE claim_NN1 that_CST associate-NPs_NN2 receive_VV0 Case_NN1 by_II moving_VVG to_II the_AT expletive_JJ position_NN1 in_II Logical_JJ Form_NN1 (_( LF_NP1 )_) ,_, thereby_RR following_VVG the_AT principle_NN1 of_IO Greed_NN1 ,_, which_DDQ states_VVZ that_CST arguments_NN2 move_VV0 only_RR to_TO satisfy_VVI their_APPGE own_DA morphological_JJ needs_NN2 ._. 
+</s>
+<s>
+Rather_RR ,_, Lasnik_NP1 suggests_VVZ that_CST associates_58 '_97 movement_NN1 satisfies_VVZ a_AT1 requirement_NN1 of_IO the_AT expletive_NN1 ,_, which_DDQ as_II an_AT1 "_" affix_NN1 "_" can_56 not_56 be_VBI freestanding_VVG in_II LF_NP1 ._. 
+</s>
+<s>
+The_AT move_NN1 ,_, Lasnik_NP1 ends_VVZ up_RP arguing_VVG ,_, has_VHZ nothing_PN1 to_TO do_VDI with_IW Case_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, because_CS existential_JJ be_VBI licenses_NN2 partitive_JJ Case_NN1 and_CC partitive_JJ Case_NN1 is_VBZ inherent_JJ ,_, the_AT verb_NN1 assigns_VVZ Case_NN1 to_II the_AT associate_NN1 as_CSA its_APPGE complement_NN1 in_II the_AT lower_JJR VP_NP1 ._. 
+</s>
+<s>
+Because_CS Case_NN1 requirements_NN2 are_VBR satisfied_VVN in_II VP_NP1 ,_, there_EX is_VBZ no_AT internal_JJ motivation_NN1 for_IF associates_NN2 to_TO move_VVI ._. 
+</s>
+<s>
+In_II a_AT1 sentence_NN1 like_II (_( 1a_FO )_) above_RL ,_, the_AT interest_NN1 for_IF syntactic_JJ theory_NN1 is_VBZ how_RRQ the_AT argument_NN1 (_( a_AT1 student_NN1 )_) is_VBZ assigned_VVN Case_NN1 ,_, since_CS the_AT complement_NN1 position_NN1 of_IO be_VBI is_VBZ not_XX usually_RR a_AT1 Case-licensing_JJ position_NN1 ._. 
+</s>
+<s>
+Typically_RR ,_, in_II situations_NN2 that_CST do_VD0 n't_XX involve_VVI exceptional_JJ case_NN1 marking_NN1 ,_, the_AT Infl_NN1 assigns_VVZ Case_NN1 to_II its_APPGE Spec_NP1 (_( here_RL ,_, the_AT position_NN1 of_IO (_( there_RL )_) )_) ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 can_56 not_56 be_VBI how_RRQ associates_NN2 are_VBR assigned_VVN Case_NN1 ;_; this_DD1 structural_JJ relation_NN1 is_VBZ not_XX present_JJ and_CC further_JJR explanation_NN1 is_VBZ needed_VVN ._. 
+</s>
+<s>
+The_AT Case_NN1 Transmission_NN1 (_( CT_NP1 )_) analysis_NN1 explains_VVZ that_CST in_II (_( 1a_FO )_) ,_, (_( a_AT1 student_NN1 )_) would_VM receive_VVI Case_NN1 from_II its_APPGE association_NN1 with_IW (_( there_RL )_) ,_, which_DDQ is_VBZ in_II the_AT Spec_NN1 of_IO AgrP_NN1 ._. 
+</s>
+<s>
+By_II this_DD1 analysis_NN1 ,_, (_( a_AT1 student_NN1 )_) actually_RR moves_VVZ to_II the_AT expletive_JJ position_NN1 at_II LF_NP1 level_NN1 via_II covert_JJ movement_NN1 ,_, checking_VVG its_APPGE Case_NN1 as_CSA Spec_NP1 of_IO AgrP_NN1 ._. 
+</s>
+<s>
+So_RR ,_, according_II21 to_II22 CT_NN1 ,_, associates_NN2 have_VH0 their_APPGE Case_NN1 checked_VVN at_II LF_NP1 by_II moving_VVG to_II the_AT expletive_JJ position_NN1 and_CC receiving_VVG Case_NN1 as_II the_AT subject/Spec_NN1 of_IO existential_JJ AgrP_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ in_II31 line_II32 with_II33 Chomsky_NP1 's_GE analysis_NN1 that_CST all_DB movement_NN1 is_VBZ motivated_VVN by_II morphological_JJ requirements_NN2 of_IO the_AT moved_JJ argument_NN1 itself_PPX1 :_: the_AT principle_NN1 of_IO Greed_NN1 ._. 
+</s>
+<s>
+However_RR ,_, Lasnik_NP1 's_GE alternative_JJ analysis_NN1 is_VBZ that_CST nothing_PN1 inherent_JJ to_II associates_NN2 can_VM motivate_VVI their_APPGE movement_NN1 ,_, and_CC particularly_RR not_XX Case_NN1 ._. 
+</s>
+<s>
+This_DD1 stems_VVZ from_II the_AT fact_NN1 that_DD1 be_VBI ,_, along_II21 with_II22 other_JJ unaccusative_JJ verbs_NN2 ,_, licenses_VVZ partitive_JJ Case_NN1 ,_, which_DDQ is_VBZ inherent_JJ ._. 
+</s>
+<s>
+As_CSA inherent_JJ Case_NN1 ,_, it_PPH1 must_VM be_VBI checked_VVN in_II the_AT Head-Comp_NP1 relation_NN1 and_CC not_XX in_II the_AT Spec-Head_NN1 relation_NN1 (_( 618-619_MCMC )_) ._. 
+</s>
+<s>
+So_RR the_AT verb_NN1 be_VBI does_VDZ assign_VVI Case_NN1 to_II its_APPGE complement_NN1 in_II existentials_NN2 ,_, which_DDQ is_VBZ the_AT associate_NN1 ,_, and_CC the_AT associate_NN1 thereby_RR receives_VVZ Case_NN1 and_CC checks_VVZ the_AT Case_NN1 feature_NN1 of_IO the_AT verb_NN1 ._. 
+</s>
+<s>
+Lasnik_NN1 argues_VVZ that_CST the_AT associate_NN1 in_II fact_NN1 can_56 not_56 move_VVI to_TO satisfy_VVI its_APPGE Case_NN1 ,_, because_CS there_EX is_VBZ actually_RR nothing_PN1 to_TO check_VVI its_APPGE Case_NN1 by_II the_AT time_NNT1 it_PPH1 gets_VVZ to_II LF_NP1 (_( T_ZZ1 's_VBZ Case_NN1 feature_NN1 has_VHZ already_RR been_VBN discharged_VVN by_II the_AT expletive_NN1 itself_PPX1 )_) (_( 617_MC )_) ._. 
+</s>
+<s>
+Why_RRQ ,_, then_RT ,_, does_VDZ the_AT associate_NN1 move_VVI at_II all_DB in_II LF_NP1 ?_? 
+</s>
+<s>
+What_DDQ Lasnik_NP1 proposes_VVZ is_VBZ that_CST the_AT associate_JJ argument_NN1 moves_NN2 in_BCL21 order_BCL22 to_TO satisfy_VVI the_AT expletive_NN1 's_GE requirements_NN2 ._. 
+</s>
+<s>
+This_DD1 would_VM not_XX be_VBI following_VVG a_AT1 principle_NN1 of_IO Greed_NN1 ,_, but_CCB rather_RR what_DDQ Lasnik_NP1 calls_VVZ Enlightened_JJ Self_NN1 Interest_NN1 (_( ESI_NP1 )_) ._. 
+</s>
+<s>
+The_AT expletive_NN1 is_VBZ treated_VVN as_II an_AT1 affix_NN1 ,_, and_CC affixes_NN2 are_VBR uninterpretable_JJ if_CS freestanding_VVG in_II LF_NP1 ;_; thus_RR the_AT associate_NN1 must_VM raise_VVI to_TO join_VVI to_II the_AT expletive_NN1 ,_, in_BCL21 order_BCL22 for_IF the_AT derivation_NN1 to_TO converge_VVI ._. 
+</s>
+<s>
+So_RR it_PPH1 is_VBZ the_AT affixal_JJ relationship_NN1 between_II the_AT expletive_NN1 and_CC the_AT argument_NN1 that_CST motivates_VVZ movement_NN1 ,_, to_TO avoid_VVI having_VHG an_AT1 illegitimate_JJ object_NN1 resultant_JJ in_II LF_NP1 ._. 
+</s>
+<s>
+ESI_NP1 recognizes_VVZ that_CST the_AT beneficiary_NN1 of_IO movement_NN1 can_VM be_VBI the_AT target_NN1 of_IO the_AT movement_NN1 ,_, not_XX necessarily_RR the_AT moved_JJ item_NN1 itself_PPX1 (_( 624-626_MCMC )_) ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT move_NN1 does_VDZ n't_XX take_VVI place_NN1 until_CS LF_NP1 because_CS according_II21 to_II22 the_AT principle_NN1 of_IO Procrastinate_NP1 ,_, items_NN2 will_VM wait_VVI as_RG long_RR as_CSA possible_JJ to_TO move_VVI while_CS maintaining_VVG interpretability_NN1 ,_, and_CC it_PPH1 's_VBZ only_RR in_II LF_NP1 that_CST this_DD1 affix_NN1 feature_NN1 is_VBZ uninterpretable_JJ ._. 
+</s>
+<s>
+While_CS Lasnik_NP1 's_GE analysis_NN1 of_IO Case_NN1 assignment_NN1 in_II existentials_NN2 is_VBZ still_RR widely_RR accepted_VVN by_II many_DA2 ,_, it_PPH1 poses_VVZ several_DA2 problems_NN2 ._. 
+</s>
+<s>
+Perhaps_RR the_AT biggest_JJT question_NN1 left_NN1 is_VBZ its_APPGE implications_NN2 for_IF explaining_VVG and_CC predicting_VVG agreement_NN1 phenomena_NN2 in_II existential_JJ constructions_NN2 ,_, to_II which_DDQ I_PPIS1 now_RT turn_VV0 ._. 
+</s>
+<s>
+Lasnik_NN1 claims_VVZ that_DD1 agreement_NN1 in_II existentials_NN2 is_VBZ explained_VVN (_( though_CS not_XX predicted_VVN )_) by_II associate_JJ movement_NN1 to_II the_AT subject_NN1 position_NN1 in_II LF_NP1 ._. 
+</s>
+<s>
+He_PPHS1 makes_VVZ the_AT often-echoed_JJ point_NN1 that_CST the_AT agreement_NN1 found_VVN in_II existential_JJ constructions_NN2 is_VBZ unexpected_JJ ,_, because_CS the_AT inflected_JJ verb_NN1 agrees_VVZ with_IW the_AT associate_NN1 of_IO the_AT expletive_NN1 ,_, not_XX the_AT expletive_JJ subject_NN1 itself_PPX1 ._. 
+</s>
+<s>
+So_RR ,_, in_II constructions_NN2 with_IW plural_JJ associate-NPs_NN2 as_CSA in_II (_( 2a-c_FO )_) below_RL ,_, be_VBI is_VBZ typically_RR inflected_VVN to_TO agree_VVI in_II number_NN1 with_IW the_AT NP_NP1 ._. 
+</s>
+<s>
+The_AT agreement_NN1 relation_NN1 is_VBZ typically_RR accepted_VVN as_CSA Spec_NP1 of_IO IP/TP_NP1 ,_, rather_II21 than_II22 the_AT Comp_NN1 of_IO V_ZZ1 (_( or_CC Spec_NN1 of_IO VP_NP1 )_) ,_, and_CC syntactic_JJ theory_NN1 must_VM account_VVI for_IF this_DD1 unexpected_JJ agreement_NN1 relation_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM see_VVI further_VV0 why_RRQ these_DD2 are_VBR interesting_JJ if_CS we_PPIS2 look_VV0 at_II nonexistentials_NN2 ,_, where_CS be_VBI agrees_VVZ with_IW the_AT NP_NP1 in_II the_AT canonical_JJ subject_NN1 position_NN1 ;_; that_REX21 is_REX22 ,_, Spec_NP1 of_IO IP/TP_NP1 :_: If_CS we_PPIS2 say_VV0 that_CST the_AT associate-NP_JJ moves_NN2 to_II the_AT Spec_NN1 of_IO IP_NN1 in_II LF_NP1 ,_, as_CSA Lasnik_NP1 has_VHZ done_VDN ,_, agreement_NN1 can_VM be_VBI explained_VVN ,_, since_CS it_PPH1 is_VBZ now_RT in_II the_AT typical_JJ agreement_NN1 relation_NN1 within_II the_AT IP/TP_NN1 ._. 
+</s>
+<s>
+This_DD1 provides_VVZ evidence_NN1 for_IF associate_JJ movement_NN1 beyond_II Lasnik_NP1 's_GE claim_NN1 that_CST it_PPH1 was_VBDZ needed_VVN to_TO fulfill_VVI the_AT expletive_NN1 's_GE requirements_NN2 to_TO affix_VVI to_II an_AT1 NP_NP1 at_II LF_NP1 ._. 
+</s>
+<s>
+Yet_RR Lasnik_NP1 's_GE analysis_NN1 still_RR does_VDZ not_XX seem_VVI to_TO explain_VVI why_RRQ and_CC when_CS the_AT verb_NN1 itself_PPX1 checks_VVZ its_APPGE agreement_NN1 features_NN2 ._. 
+</s>
+<s>
+Morphological_JJ inflection_NN1 has_VHZ clearly_RR already_RR happened_VVN at_II PF_NP1 (_( there_EX is_VBZ overt_JJ agreement_NN1 between_II verb_NN1 and_CC associate_JJ argument_NN1 )_) ,_, yet_RR the_AT movement_NN1 of_IO the_AT argument_NN1 to_II Spec_NP1 is_VBZ covert_JJ and_CC does_VDZ not_XX happen_VVI until_CS LF_NP1 ,_, at_II which_DDQ point_VV0 it_PPH1 should_VM already_RR have_VHI its_APPGE agreement_NN1 features_NN2 checked_VVD ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, if_CS agreement_NN1 is_VBZ already_RR present_JJ before_II spell-out_NN1 ,_, how_RRQ does_VDZ saying_NN1 that_CST an_AT1 associate_JJ moves_NN2 in_II LF_NP1 explain_VV0 that_DD1 agreement_NN1 ?_? 
+</s>
+<s>
+Similar_JJ questions_NN2 about_II agreement_NN1 in_II existentials_NN2 have_VH0 inspired_VVN much_DA1 treatment_NN1 in_II syntactic_JJ theory_NN1 ._. 
+</s>
+<s>
+As_II the_AT generative_JJ framework_NN1 has_VHZ moved_VVN to_II a_AT1 split-IP_JJ analysis_NN1 whereby_RRQ Tense_JJ and_CC Agree_VV0 are_VBR (_( generally_RR considered_VVN )_) separate_VV0 functional_JJ categories_NN2 ,_, agreement_NN1 is_VBZ taken_VVN to_TO occur_VVI in_II AgrP_NP1 ._. 
+</s>
+<s>
+The_AT verb_NN1 will_VM raise_VVI first_MD to_II T_ZZ1 ,_, where_CS it_PPH1 checks_VVZ Case_NN1 ,_, and_CC then_RT to_II Agr_NP1 ,_, where_CS it_PPH1 checks_VVZ agreement_NN1 (_( theta-roles_NN2 are_VBR assigned_VVN prior_II21 to_II22 any_DD movement_NN1 ,_, in_II D-structure_NN1 ;_; though_CS these_DD2 are_VBR of_RR21 course_RR22 relevant_JJ to_II any_DD thorough_JJ analysis_NN1 ,_, they_PPHS2 are_VBR (_( unfortunately_RR )_) outside_II the_AT scope_NN1 of_IO my_APPGE discussion_NN1 here_RL )_) ._. 
+</s>
+<s>
+If_CS the_AT associate-NP_NN1 moves_VVZ to_TO join_VVI the_AT expletive_NN1 at_II LF_NP1 ,_, then_RT agreement_NN1 is_VBZ still_RR maintained_VVN to_TO take_VVI place_NN1 in_II Spec/AgrP_NP1 ,_, fitting_VVG the_AT normal_JJ pattern_NN1 ._. 
+</s>
+<s>
+However_RR ,_, if_CS agreement_NN1 is_VBZ already_RR morphologically_RR marked_VVN before_II spell-out_NN1 ,_, then_RT claiming_VVG that_CST it_PPH1 is_VBZ due_II21 to_II22 the_AT NP_NP1 's_GE covert_JJ movement_NN1 in_II LF_NP1 is_VBZ an_AT1 unsatisfactory_JJ solution_NN1 (_( on_II this_DD1 point_NN1 ,_, see_VV0 Epstein_NP1 and_CC Seely_JJ 2006_MC :_: 184-186_MCMC )_) ._. 
+</s>
+<s>
+An_AT1 overview_NN1 of_IO existential_JJ agreement_NN1 is_VBZ found_VVN in_II Epstein_NP1 and_CC Seely_JJ (_( 2006_MC )_) ,_, who_PNQS discuss_VV0 two_MC possibilities_NN2 for_IF how_RRQ agreement_NN1 obtains_VVZ in_II existentials_NN2 ._. 
+</s>
+<s>
+The_AT first_MD possibility_NN1 is_VBZ that_DD1 of_IO feature_NN1 movement_NN1 ,_, wherein_RRQ the_AT agreement_NN1 features_NN2 of_IO the_AT associate-NP_JJ move_NN1 up_II21 to_II22 T_ZZ1 to_II check_NN1 its_APPGE agreement_NN1 feature_NN1 ;_; this_DD1 would_VM be_VBI another_DD1 instantiation_NN1 of_IO ESI_NP1 ,_, where_CS the_AT associate-NP_JJ moves_NN2 for_IF reasons_NN2 of_IO T_ZZ221 's_ZZ222 needing_VVG agreement_NN1 ,_, not_XX its_APPGE own_DA morphological_JJ requirements_NN2 ._. 
+</s>
+<s>
+A_AT1 second_MD possibility_NN1 is_VBZ that_DD1 agreement_NN1 is_VBZ checked_VVN in_RR21 situ_RR22 with_IW a_AT1 probe-goal_JJ relationship_NN1 ,_, where_CS T_ZZ1 basically_RR searches_VVZ its_APPGE c-commanding_JJ relationships_NN2 to_TO find_VVI a_AT1 match_NN1 that_CST will_VM check_VVI its_APPGE features_NN2 ._. 
+</s>
+<s>
+The_AT goal_NN1 ,_, in_II this_DD1 case_NN1 the_AT associate-NP_NN1 ,_, can_VM check_VVI T_ZZ221 's_ZZ222 agreement_NN1 features_NN2 without_IW movement_NN1 ,_, and_CC T_ZZ221 's_ZZ222 agreement_NN1 features_NN2 will_VM delete_VVI (_( 189-192_MCMC )_) ._. 
+</s>
+<s>
+Epstein_NN1 and_CC Seely_JJ accept_VV0 Lasnik_NP1 's_GE analysis_NN1 of_IO in_RR21 situ_RR22 partitive_JJ Case_NN1 checking_VVG ,_, and_CC they_PPHS2 claim_VV0 that_DD1 agreement_NN1 must_VM therefore_RR be_VBI checked_VVN by_II a_AT1 different_JJ relation_NN1 than_CSN that_DD1 responsible_JJ for_IF Case_NN1 ._. 
+</s>
+<s>
+Both_DB2 Lasnik_NP1 's_GE and_CC Epstein_NP1 and_CC Seely_JJ 's_GE analyses_NN2 assume_VV0 verbal_JJ agreement_NN1 in_II existential_JJ contructions_NN2 ;_; that_REX21 is_REX22 ,_, perhaps_RR because_CS agreement_NN1 was_VBDZ one_MC1 bit_NN1 of_IO evidence_NN1 for_IF Lasnik_NP1 's_GE argument_NN1 for_IF partitive_JJ Case_NN1 and_CC associate_JJ movement_NN1 ,_, agreement_NN1 is_VBZ taken_VVN to_TO be_VBI the_AT relevant_JJ phenomenon_NN1 to_TO be_VBI explained_VVN ._. 
+</s>
+<s>
+However_RR ,_, as_RG much_DA1 sociolinguistic_JJ variationist_NN1 work_NN1 has_VHZ shown_VVN ,_, it_PPH1 is_VBZ often_RR the_AT case_NN1 that_CST English_JJ speakers_NN2 use_VV0 constructions_NN2 where_RRQ the_AT copular_NN1 be_VBI does_VDZ not_XX agree_VVI with_IW the_AT associate-NP_NN1 ;_; that_REX21 is_REX22 ,_, despite_II having_VHG a_AT1 plural_JJ notional_JJ subject_NN1 ,_, the_AT verb_NN1 form_NN1 is_VBZ third_MD person_NN1 singular_NN1 ,_, as_CSA below_RL ._. 
+</s>
+<s>
+Noticing_VVG that_CST particularly_RR in_II nonstandard_NN1 English_NN1 dialects_NN2 this_DD1 construction_NN1 is_VBZ common_JJ ,_, variationists_NN2 --_NN1 and_CC more_RGR recently_RR syntacticians_NN2 --_NN1 have_VH0 sought_VVN thorough_JJ accounting_NN1 for_IF these_DD2 phenomena_NN2 ._. 
+</s>
+<s>
+Such_DA accounts_NN2 want_VV0 to_TO explain_VVI ,_, in_II essence_NN1 ,_, the_AT opposite_NN1 of_IO what_DDQ Lasnik_NP1 's_GE analysis_NN1 sought_VVD to_TO explain_VVI ;_; that_REX21 is_REX22 ,_, how_RRQ does_VDZ nonagreement_NN1 occur_VV0 ?_? 
+</s>
+<s>
+(_( It_PPH1 should_VM be_VBI noted_VVN that_CST all_DB of_IO the_AT terms_NN2 for_IF this_DD1 phenomenon_NN1 in_II the_AT literature_NN1 --_NN1 "_" variable_NN1 concord_NN1 ,_, "_" To_TO explore_VVI singular_JJ concord_NN1 ,_, I_PPIS1 will_VM use_VVI Rupp_NP1 's_GE (_( 2005_MC )_) potentially_RR controversial_JJ analysis_NN1 of_IO singular_JJ concord_NN1 as_CSA nonagreement_NN1 ,_, and_CC her_APPGE invocation_NN1 of_IO Rizzi_NP1 's_GE (_( 1994_MC )_) Truncation_NN1 Hypothesis_NN1 ,_, as_CSA a_AT1 backdrop_NN1 against_II which_DDQ to_TO discuss_VVI other_JJ relevant_JJ approaches_NN2 and_CC problems_NN2 with_IW her_APPGE analysis_NN1 ._. 
+</s>
+<s>
+I_PPIS1 initially_RR chose_VVD Rupp_NP1 's_GE analysis_NN1 because_CS she_PPHS1 is_VBZ explicitly_RR interested_JJ in_II uniting_VVG the_AT generative_JJ and_CC variationist_NN1 frameworks_NN2 ,_, and_CC also_RR because_CS she_PPHS1 seems_VVZ to_TO accept_VVI Lasnik_NP1 's_GE analysis_NN1 of_IO inherent_JJ partitive_JJ Case_NN1 ._. 
+</s>
+<s>
+She_PPHS1 reviews_VVZ proposals_NN2 for_IF how_RRQ agreement_NN1 works_VVZ in_II existentials_NN2 ,_, dividing_VVG them_PPHO2 essentially_RR into_II the_AT same_DA two_MC types_NN2 as_CSA Epstein_NP1 and_CC Seely_JJ discuss_VV0 :_: analyses_VVZ that_CST associates_NN2 move_VV0 to_II the_AT position_NN1 of_IO the_AT expletive_NN1 ,_, thereby_RR checking_VVG the_AT T_ZZ1 's_VBZ agreement_NN1 features_NN2 ,_, and_CC analyses_VVZ that_DD1 agreement_NN1 happens_VVZ locally_RR under_II a_AT1 small_JJ clause_NN1 analysis_NN1 (_( where_CS the_AT expletive_NN1 itself_PPX1 is_VBZ what_DDQ raises_VVZ to_TO IP_VVI ,_, the_AT associate_NN1 gets_VVZ Case_NN1 through_II local_JJ relationship_NN1 with_IW the_AT expletive_NN1 's_GE trace_NN1 ,_, and_CC agreement_NN1 is_VBZ also_RR done_VDN locally_RR )_) (_( 276-77_MCMC )_) ._. 
+</s>
+<s>
+Thus_RR ,_, her_APPGE essential_JJ premise_NN1 regarding_II Case_NN1 does_VDZ not_XX differ_VVI from_II Lasnik_NP1 's_GE ;_; her_APPGE interest_NN1 in_II nonagreement_NN1 ,_, however_RR ,_, fundamentally_RR does_VDZ ._. 
+</s>
+<s>
+Rupp_NN1 focuses_VVZ on_II what_DDQ she_PPHS1 terms_VVZ "_" nonstandard_NN1 -s_ZZ1 "_" with_IW expletive_NN1 there_RL in_II a_AT1 dialect_NN1 of_IO English_NN1 spoken_VVN in_II the_AT West_NP1 Midlands_NP2 of_IO Great_NP1 Britain_NP1 ._. 
+</s>
+<s>
+Her_APPGE data_NN come_VV0 from_II both_DB2 elicited_VVD speech_NN1 and_CC speakers_58 '_97 grammaticality_NN1 judgments_NN2 ._. 
+</s>
+<s>
+She_PPHS1 limits_VVZ her_APPGE analysis_NN1 to_II constructions_NN2 containing_VVG expletive_NN1 there_RL ,_, the_AT copula_NN1 be_VBI ,_, and_CC plural_JJ associate-NPs_NN2 ._. 
+</s>
+<s>
+Rupp_NP1 's_GE argument_NN1 is_VBZ that_DD1 singular_JJ concord_NN1 is_VBZ best_RRT understood_VVN as_II the_AT absence_NN1 of_IO agreement_NN1 altogether_RR ,_, or_CC nonagreement_NN1 ,_, and_CC her_APPGE evidence_NN1 lies_VVZ in_II syntactic_JJ restrictions_NN2 on_II where_RRQ singular_JJ concord_NN1 can_VM be_VBI used_VVN ,_, namely_REX the_AT impossibility_NN1 of_IO singular_JJ concord_NN1 with_IW inverted_JJ interrogative_JJ forms_NN2 ,_, and_CC the_AT cline_NN1 of_IO acceptability_NN1 of_IO singular_JJ concord_NN1 depending_II21 on_II22 contexts_NN2 of_IO negation_NN1 ,_, wherein_RRQ no_RR seems_VVZ to_TO encourage_VVI singular_JJ concord_NN1 ,_, and_CC singular_JJ concord_NN1 with_IW sentential_JJ negation_NN1 is_VBZ not_XX permitted_VVN ,_, whereas_CS constituent_JJ negation_NN1 is_VBZ accepted_VVN ._. 
+</s>
+<s>
+She_PPHS1 argues_VVZ that_CST these_DD2 facts_NN2 point_VV0 to_II singular_JJ concord_NN1 as_CSA involving_VVG a_AT1 truncated_JJ syntactic_JJ hierarchical_JJ structure_NN1 that_CST terminates_VVZ at_II TP_NP1 ,_, and_CC does_VDZ not_XX generate_VVI NegP_NP1 or_CC AgrP_NP1 ._. 
+</s>
+<s>
+According_II21 to_II22 Rupp_NP1 ,_, in_II the_AT typical_JJ analysis_NN1 of_IO agreement_NN1 ,_, the_AT subject_NN1 NP_NP1 is_VBZ taken_VVN to_TO move_VVI from_II Spec/VP_NP1 to_II Spec/TP_NP1 ,_, and_CC up_II21 to_II22 Spec/AgrP_NP1 by_II some_DD analyses_NN2 (_( such_II21 as_II22 Chomsky_NP1 's_GE older_JJR work_NN1 and_CC current_JJ theories_NN2 that_CST maintain_VV0 AgrP_NN1 as_II a_AT1 functional_JJ head_NN1 )_) ,_, passing_VVG through_II Spec/TP_NP1 ,_, where_CS it_PPH1 checks_VVZ the_AT Case_NN1 features_NN2 of_IO T_ZZ1 (_( in_II analyses_NN2 that_CST do_VD0 not_XX maintain_VVI AgrP_NP1 ,_, agreement_NN1 features_NN2 are_VBR also_RR checked_VVN at_II TP_NP1 )_) (_( see_VV0 also_RR Groat_VV0 1995_MC )_) ._. 
+</s>
+<s>
+The_AT verb_NN1 moves_VVZ from_II Head/VP_FU to_II Head/TP_NN1 (_( possibly_RR to_II Head/AgrP_NN1 )_) ,_, also_RR checking_VVG Case_NN1 (_( in_II TP_NP1 )_) and_CC agreement_NN1 (_( in_II TP_NP1 or_CC AgrP_NP1 )_) features_NN2 along_II the_AT way_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 couple_NN1 of_IO problems_NN2 with_IW this_DD1 structure_NN1 regarding_II existentials_NN2 ._. 
+</s>
+<s>
+First_MD ,_, if_CS this_DD1 is_VBZ indeed_RR the_AT relation_NN1 for_IF agreement_NN1 ,_, it_PPH1 must_VM be_VBI the_AT case_NN1 that_CST associate-NPs_NN2 originate_VV0 as_CSA Spec/VP_NP1 rather_II21 than_II22 Comp/VP_FU ._. 
+</s>
+<s>
+In_II contrast_NN1 with_IW Lasnik_NP1 's_GE analysis_NN1 of_IO be_VBI assigning_VVG partitive_JJ Case_NN1 ,_, which_DDQ is_VBZ inherent_JJ Case_NN1 ,_, this_DD1 switches_VVZ the_AT base-generated_JJ position_NN1 of_IO associate-NPs_NN2 from_II Comp/VP_FU to_II Spec/VP_NP1 ._. 
+</s>
+<s>
+She_PPHS1 does_VDZ not_XX specifically_RR address_VVI the_AT issue_NN1 of_IO where_RRQ the_AT associate-NP_NN1 is_VBZ base-generated_JJ ,_, but_CCB by_II Rupp_NP1 's_GE analysis_NN1 ,_, it_PPH1 seems_VVZ we_PPIS2 would_VM have_VHI 5a_FO and_CC not_XX 5b._FO 5a_FO )_) (_( AgrP_VV0 There_RL (_( Agr'_NP1 arei_NN2 (_( TP_NP1 many_DA2 studentsj_JJ (_( T'_AT ti_NN2 (_( VP_NP1 tj_NNU (_( V'_NP1 ti_NN2 outside_RL )_) 5b_FO )_) (_( AgrP_VV0 There_RL (_( Agr'_NP1 arei_NN2 (_( TP_NP1 many_DA2 studentsj_JJ (_( T'_AT ti_NN2 (_( VP_NP1 (_( V'_NP1 ti_NN2 tj_NNU outside_RL )_) Regardless_RR of_IO whether_CSW Agr_NP1 is_VBZ posited_VVN as_II a_AT1 separate_JJ functional_JJ category_NN1 from_II T_ZZ1 ,_, the_AT lower_JJR structure_NN1 represents_VVZ perhaps_RR another_DD1 problem_NN1 :_: if_CS the_AT associate_NN1 is_VBZ base-generated_JJ in_II the_AT Spec_NP1 position_NN1 ,_, what_DDQ (_( if_CS anything_PN1 )_) occupies_VVZ the_AT Comp_NN1 position_NN1 ;_; by_II the_AT same_DA token_NN1 ,_, if_CS it_PPH1 is_VBZ base-generated_JJ in_II Comp_NN1 ,_, what_DDQ (_( if_CS anything_PN1 )_) occupies_VVZ Spec/VP_NP1 ?_? 
+</s>
+<s>
+Rupp_NN1 does_VDZ not_XX discuss_VVI this_DD1 and_CC instead_RR focuses_VVZ on_II what_DDQ takes_VVZ place_NN1 above_II the_AT VP_NP1 level_NN1 ._. 
+</s>
+<s>
+Within_II the_AT basic_JJ structure_NN1 where_CS agreement_NN1 is_VBZ checked_VVN in_II AgrP_NP1 (_( and_CC Case_NN1 in_II TP_NP1 )_) ,_, Rupp_NP1 summarizes_VVZ previous_JJ proposals_NN2 of_IO agreement_NN1 as_CSA being_VBG of_IO two_MC types_NN2 :_: 1_MC1 )_) agreement_NN1 happens_VVZ by_II associate-NP_JJ movement_NN1 to_II the_AT expletive_JJ position_NN1 at_II LF_NP1 (_( this_DD1 is_VBZ in_II31 line_II32 with_II33 Lasnik_NP1 's_GE analysis_NN1 )_) ;_; 2_MC )_) agreement_NN1 is_VBZ established_VVN locally_RR in_II the_AT Spec/VP_NP1 ,_, and_CC movement_NN1 carries_VVZ the_AT agreement_NN1 with_IW it_PPH1 ._. 
+</s>
+<s>
+In_II the_AT first_MD case_NN1 the_AT expletive_NN1 is_VBZ base-generated_JJ as_CSA Spec/TP_NP1 ;_; in_II the_AT second_NNT1 it_PPH1 is_VBZ base-generated_JJ as_II part_NN1 of_IO the_AT lower_JJR predicate_NN1 (_( with_IW the_AT associate-NP_NN1 )_) and_CC then_RT raises_VVZ ._. 
+</s>
+<s>
+From_II here_RL ,_, she_PPHS1 turns_VVZ directly_RR to_TO discuss_VVI whether_CSW functional_JJ categories_NN2 ought_VMK to_TO be_VBI posited_VVN even_RR in_II languages_NN2 that_CST do_VD0 n't_XX seem_VVI to_TO evince_VVI them_PPHO2 ;_; namely_REX ,_, whether_CSW AgrP_NP1 is_VBZ a_AT1 necessary_JJ category_NN1 in_II English_NN1 if_CS English_NN1 does_VDZ n't_XX utilize_VVI it_PPH1 and_CC (_( at_RR21 least_RR22 certain_JJ )_) structures_NN2 are_VBR syntactically_RR complete_VV0 without_IW it_PPH1 ._. 
+</s>
+<s>
+She_PPHS1 compares_VVZ what_DDQ happens_VVZ in_II existentials_NN2 to_II Rizzi_NP1 's_GE (_( 1994_MC )_) Truncation_NN1 Hypothesis_NN1 ,_, which_DDQ posits_VVZ that_CST during_II the_AT language_NN1 acquisition_NN1 process_NN1 there_EX are_VBR periods_NN2 of_IO time_NNT1 when_RRQ higher_JJR structures_NN2 are_VBR not_XX projected_VVN ,_, until_CS universal_JJ principles_NN2 are_VBR operational_JJ ;_; meanwhile_RR ,_, constructions_NN2 not_XX allowed_VVN in_II the_AT adult_NN1 grammar_NN1 will_VM be_VBI used_VVN ._. 
+</s>
+<s>
+Rupp_NN1 claims_VVZ that_CST this_DD1 represents_VVZ a_AT1 potential_JJ line_NN1 of_IO explanation_NN1 for_IF some_DD features_NN2 of_IO adult_NN1 grammar_NN1 ,_, singular_JJ concord_NN1 being_VBG one_MC1 of_IO them_PPHO2 ._. 
+</s>
+<s>
+By_II this_DD1 analysis_NN1 ,_, existential_JJ structures_NN2 are_VBR truncated_VVN at_II TP_NP1 ,_, which_DDQ is_VBZ as_RG high_JJ as_CSA the_AT structure_NN1 needs_VVZ to_TO project_VVI in_BCL21 order_BCL22 to_TO converge_VVI ._. 
+</s>
+<s>
+If_CS the_AT structure_NN1 did_VDD project_VVI above_II TP_NP1 ,_, in_II fact_NN1 ,_, apparent_JJ constraints_NN2 on_II singular_JJ concord_NN1 would_VM be_VBI inexplicable_JJ (_( 278-283_MCMC )_) ._. 
+</s>
+<s>
+There_EX are_VBR two_MC key_JJ structural_JJ aspects_NN2 to_II Rupp_NP1 's_GE claim_NN1 of_IO truncation_NN1 :_: one_PN1 ,_, that_CST the_AT verb_NN1 does_VDZ raise_VVI as_CS31 far_CS32 as_CS33 TP_NP1 ;_; two_MC ,_, that_CST the_AT verb_NN1 does_VDZ not_XX raise_VVI beyond_II TP_NP1 ._. 
+</s>
+<s>
+The_AT verb_NN1 must_VM raise_VVI to_II TP_NP1 because_CS it_PPH1 is_VBZ always_RR marked_VVN for_IF tense_JJ ;_; you_PPY do_VD0 get_VVI past-tense_JJ singular_JJ concord_NN1 constructions_NN2 as_CSA below_RL in_II (_( 6_MC )_) ._. 
+</s>
+<s>
+Rupp_VV0 additionally_RR argues_VVZ that_CST this_DD1 provides_VVZ further_JJR evidence_NN1 that_CST TP_NP1 must_VM be_VBI situated_VVN below_II NegP_NP1 ,_, due_II21 to_II22 the_AT lack_NN1 of_IO sentential_JJ negation_NN1 contexts_NN2 in_II which_DDQ singular_JJ concord_NN1 is_VBZ acceptable_JJ ._. 
+</s>
+<s>
+This_DD1 is_VBZ her_APPGE primary_JJ argument_NN1 with_IW regards_VVZ to_II the_AT second_MD point_NN1 :_: sentential_JJ negation_NN1 (_( SN_NN1 )_) is_VBZ rejected_VVN by_II speakers_NN2 ,_, such_CS21 that_CS22 negation_NN1 can_VM only_RR occur_VVI below_II TP_NP1 as_CSA constituent_JJ negation_NN1 (_( CN_NP1 )_) ,_, not_XX in_II a_AT1 separate_JJ higher_JJR NegP_NN1 ,_, as_CSA below_RL ._. 
+</s>
+<s>
+In_II (_( 7a_FO )_) ,_, the_AT negative_JJ element_NN1 is_VBZ part_NN1 of_IO the_AT constituent_NN1 ,_, whereas_CS in_II (_( 7b_FO )_) ,_, its_APPGE scope_NN1 is_VBZ the_AT entire_JJ TP_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, since_CS these_DD2 constructions_NN2 are_VBR unacceptable_JJ ,_, Rupp_NP1 claims_VVZ ,_, negation_NN1 is_VBZ above_II TP_NP1 ,_, forcing_VVG a_AT1 higher_JJR projection_NN1 category_NN1 of_IO AgrP_NP1 ,_, which_DDQ forces_VVZ agreement_NN1 on_II the_AT verb_NN1 ._. 
+</s>
+<s>
+The_AT structure_NN1 also_RR can_56 not_56 project_VVI higher_JJR than_CSN TP_NN1 because_CS if_CS it_PPH1 projected_VVD all_DB the_AT way_NN1 to_II AgrP_NP1 ,_, you_PPY would_VM be_VBI able_JK to_TO get_VVI inversion_NN1 for_IF interrogatives_NN2 ,_, where_CS the_AT verb_NN1 must_VM pass_VVI through_II AgrP_NP1 to_TO get_VVI to_II CP_NP1 for_IF the_AT C_ZZ221 's_ZZ222 question_VV0 feature_NN1 to_TO be_VBI checked_VVN ._. 
+</s>
+<s>
+However_RR ,_, inversion_NN1 is_VBZ not_XX allowed_VVN by_II Rupp_NP1 's_GE speakers_NN2 ,_, so_CS21 that_CS22 (_( 8_MC )_) is_VBZ unacceptable_JJ :_: On_II the_AT other_JJ hand_NN1 ,_, if_CS there_EX is_VBZ sentential_JJ negation_NN1 or_CC inversion_NN1 ,_, full_JJ agreement_NN1 must_VM be_VBI present_JJ :_: Hence_RR ,_, because_CS it_PPH1 must_VM be_VBI marked_VVN for_IF tense_JJ but_CCB does_VDZ not_XX involve_VVI a_AT1 full_JJ NegP_NN1 or_CC AgrP_NP1 ,_, a_AT1 nonagreeing_JJ existential_JJ verb_NN1 derivation_NN1 terminates_VVZ at_II TP_NP1 ._. 
+</s>
+<s>
+Rupp_VV0 also_RR points_VVZ out_RP that_CST this_DD1 case_NN1 in_II fact_NN1 supports_VVZ analyses_NN2 of_IO agreement_NN1 that_CST posit_VV0 agreement_NN1 in_II a_AT1 separate_JJ functional_JJ category_NN1 besides_II TP_NP1 ;_; otherwise_RR ,_, if_CS agreement_NN1 is_VBZ said_VVN to_TO take_VVI place_NN1 in_II TP_NP1 ,_, then_RT singular_JJ concord_NN1 actually_RR would_VM not_XX be_VBI permissible_JJ at_RR21 all_RR22 ,_, since_CS the_AT structure_NN1 must_VM project_VVI to_II TP_NP1 as_CSA evidenced_VVN by_II overt_JJ tense_JJ marking_NN1 ._. 
+</s>
+<s>
+She_PPHS1 says_VVZ that_CST one_MC1 way_NN1 to_TO account_VVI for_IF agreement_NN1 is_VBZ to_TO assume_VVI a_AT1 local_JJ agreement_NN1 relation_NN1 between_II the_AT verb_NN1 and_CC the_AT associate-NP_NP1 (_( in_II the_AT lower_JJR VP_NP1 )_) ;_; however_RR ,_, this_DD1 also_RR can_56 not_56 be_VBI the_AT case_NN1 ,_, because_CS likewise_RR you_PPY would_VM never_RR get_VVI singular_JJ concord_NN1 in_II a_AT1 situation_NN1 with_IW agreement_NN1 always_RR happening_VVG before_II TP_NP1 ._. 
+</s>
+<s>
+So_RR what_DDQ happens_VVZ in_II agreeing_VVG forms_NN2 ?_? 
+</s>
+<s>
+According_II21 to_II22 Rupp_NP1 's_GE analysis_NN1 ,_, agreeing_VVG verbs_NN2 presumably_RR do_VD0 project_VVI higher_JJR levels_NN2 ,_, where_CS the_AT verb_NN1 moves_VVZ up_RP through_II TP_NP1 to_II AgrP_NP1 ._. 
+</s>
+<s>
+However_RR ,_, what_DDQ motivates_VVZ these_DD2 higher_JJR levels_NN2 to_TO be_VBI projected_VVN in_II some_DD declarative_JJ existential_JJ constructions_NN2 and_CC not_XX others_NN2 is_VBZ left_JJ unexplained_JJ ._. 
+</s>
+<s>
+She_PPHS1 claims_VVZ ,_, "_" AGR_NP1 is_VBZ available_JJ in_II the_AT adult_NN1 English_NN1 system_NN1 but_CCB may_VM not_XX be_VBI projected_VVN in_II the_AT case_NN1 of_IO nonstandard_NN1 -s_ZZ1 "_" (_( 281_MC )_) ._. 
+</s>
+<s>
+I_PPIS1 find_VV0 this_DD1 analysis_NN1 problematic_JJ for_IF the_AT simple_JJ reason_NN1 that_CST it_PPH1 does_VDZ not_XX explain_VVI the_AT variation_NN1 between_II singular_NN1 and_CC standard_JJ concord_NN1 in_II existential_JJ constructions_NN2 ;_; that_REX21 is_REX22 ,_, there_EX is_VBZ no_AT direct_JJ motivation_NN1 for_IF higher_JJR levels_NN2 to_TO be_VBI either_RR projected_VVN or_CC truncated_JJ ._. 
+</s>
+<s>
+I_PPIS1 turn_VV0 in_II the_AT next_MD section_NN1 to_TO discuss_VVI this_DD1 issue_NN1 ._. 
+</s>
+<s>
+A_AT1 first_MD issue_NN1 with_IW Rupp_NP1 's_GE analysis_NN1 of_IO truncation_NN1 at_II TP_NP1 is_VBZ largely_RR a_AT1 conceptual_JJ one_PN1 ._. 
+</s>
+<s>
+For_IF her_APPGE analysis_NN1 to_TO hold_VVI ,_, one_PN1 would_VM have_VHI to_TO assume_VVI that_CST the_AT verb_NN1 ,_, and_CC specifically_RR the_AT singular_JJ copula_NN1 be_VBI ,_, is_VBZ deterministic_JJ of_IO what_DDQ higher_JJR levels_NN2 get_VV0 projected_JJ or_CC not_XX ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, because_CS be_VBI does_VDZ not_XX have_VHI agreement_NN1 features_NN2 to_TO be_VBI checked_VVN ,_, it_PPH1 does_VDZ not_XX require_VVI higher-level_JJ projections_NN2 that_CST are_VBR the_AT site_NN1 of_IO agreement_NN1 ._. 
+</s>
+<s>
+This_DD1 seems_VVZ fair_JJ -- subcategorization_NN1 of_IO verbs_NN2 does_VDZ drive_VVI structural_JJ differences_NN2 --_NN1 except_CS it_PPH1 seems_VVZ that_CST this_DD1 form_NN1 of_IO the_AT copula_NN1 must_VM then_RT be_VBI lexically_RR split_VVN from_II the_AT form_NN1 of_IO the_AT copula_NN1 that_CST does_VDZ agree_VVI ;_; namely_REX ,_, the_AT plural-marked_JJ forms_NN2 were_VBDR and_CC are_VBR ._. 
+</s>
+<s>
+One_PN1 can_56 not_56 just_RR say_VVI that_DD1 be_VBI sometimes_RT requires_VVZ agreement_NN1 and_CC other_JJ times_NNT2 does_VDZ not_XX ,_, and_CC when_CS it_PPH1 does_VDZ ,_, it_PPH1 establishes_VVZ higher-level_JJ relations_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ then_RT no_AT motivation_NN1 in_II declarative_JJ sentences_NN2 for_IF it_PPH1 to_TO force_VVI agreement_NN1 ._. 
+</s>
+<s>
+One_PN1 could_VM alternately_RR claim_VVI that_CST when_CS higher_JJR levels_NN2 such_II21 as_II22 NegP_NP1 and_CC CP_NP1 ,_, for_REX21 instance_REX22 ,_, are_VBR present_JJ (_( due_II21 to_II22 sentential_JJ negation_NN1 or_CC interrogative_JJ inversion_NN1 )_) ,_, they_PPHS2 force_VV0 agreement_NN1 on_II the_AT verb_NN1 because_CS it_PPH1 must_VM pass_VVI through_II AgrP_NP1 ,_, which_DDQ needs_VVZ its_APPGE agreement_NN1 features_NN2 checked_VVD ._. 
+</s>
+<s>
+But_CCB if_CS be_VBI is_VBZ an_AT1 agreementless_JJ form_NN1 ,_, as_CSA Rupp_NP1 argues_VVZ ,_, can_VM it_PPH1 even_RR check_VVI the_AT agreement_NN1 features_NN2 of_IO Agr_NP1 (_( or_CC T_ZZ1 )_) ?_? 
+</s>
+<s>
+Can_VM it_PPH1 be_VBI made_VVN to_TO be_VBI an_AT1 agreeing_NN1 form_NN1 simply_RR because_II21 of_II22 its_APPGE relation_NN1 with_IW higher_JJR functional_JJ positions_NN2 ?_? for_REX21 instance_REX22 ,_, Rupp_NP1 says_VVZ that_CST only_RR agreeing_VVG forms_NN2 can_VM move_VVI through_II AgrP_NP1 ._. 
+</s>
+<s>
+By_II this_DD1 analysis_NN1 ,_, in_II the_AT singular_NN1 ,_, is_VBZ clearly_RR is_VBZ an_AT1 agreeing_NN1 form_NN1 ,_, even_CS21 though_CS22 it_PPH1 is_VBZ singular_JJ and_CC so_RR does_VDZ n't_XX show_VVI it_PPH1 morphologically_RR :_: What_DDQ makes_VVZ this_DD1 distinct_JJ from_II the_AT singular_NN1 is_VBZ in_II either_RR agreeing_VVG or_CC nonagreeing_VVG declaratives_NN2 ,_, or_CC is_VBZ it_PPH1 distinct_JJ at_RR21 all_RR22 ?_? 
+</s>
+<s>
+Additionally_RR ,_, two_MC critical_JJ empirical_JJ issues_NN2 arise_VV0 with_IW Rupp_NP1 's_GE analysis_NN1 ._. 
+</s>
+<s>
+How_RRQ does_VDZ it_PPH1 explain_VVI the_AT a_ZZ1 )_) variation_NN1 between_II agreement_NN1 and_CC nonagreement_NN1 in_II what_DDQ are_VBR otherwise_RR the_AT same_DA constructions_NN2 ,_, and_CC b_ZZ1 )_) disallowing_VVG nonexistential_JJ singular_JJ concord_NN1 ?_? 
+</s>
+<s>
+On_II the_AT question_NN1 of_IO variation_NN1 between_II agreement_NN1 and_CC nonagreement_NN1 ,_, it_PPH1 is_VBZ important_JJ first_MD to_TO clarify_VVI that_CST Rupp_NP1 's_GE claim_NN1 is_VBZ that_DD1 nonstandard_NN1 -s_ZZ1 is_VBZ agreementless_JJ from_II the_AT claim_NN1 that_CST it_PPH1 represents_VVZ a_AT1 default_NN1 agreement_NN1 form_NN1 ,_, which_DDQ has_VHZ been_VBN posited_VVN elsewhere_RL (_( by_II Schtze_NP1 1999_MC ?_? )_) ._. 
+</s>
+<s>
+Rather_RR ,_, the_AT form_NN1 itself_PPX1 does_VDZ not_XX carry_VVI agreement_NN1 features_NN2 at_RR21 all_RR22 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ unclear_JJ why_RRQ such_DA an_AT1 analysis_NN1 is_VBZ preferable_JJ over_II claiming_VVG a_AT1 default_NN1 agreement_NN1 ;_; why_RRQ not_XX simply_RR say_VV0 that_CST it_PPH1 has_VHZ agreement_NN1 features_NN2 but_CCB they_PPHS2 are_VBR weak_JJ enough_RR that_CST they_PPHS2 do_VD0 n't_XX require_VVI checking_VVG ,_, and_CC if_CS they_PPHS2 're_VBR unchecked_JJ at_II spell-out_NN1 ,_, you_PPY get_VV0 a_AT1 nonagreeing_JJ form_NN1 ,_, which_DDQ is_VBZ then_RT something_PN1 like_II a_AT1 default_NN1 ?_? 
+</s>
+<s>
+In_II fact_NN1 ,_, this_DD1 line_NN1 of_IO argument_NN1 has_VHZ been_VBN pursued_VVN ,_, wherein_RRQ singular_JJ verbal_JJ agreement_NN1 is_VBZ a_AT1 matter_NN1 of_IO the_AT verb_NN1 's_GE relationship_NN1 with_IW the_AT subject_NN1 as_CSA expletive_JJ (_( Schtze_NP1 1999_MC )_) ._. 
+</s>
+<s>
+Critically_RR ,_, a_AT1 truncation_NN1 hypothesis_NN1 does_VDZ not_XX account_VVI for_IF what_DDQ motivates_VVZ variation_NN1 between_II agreeing_VVG and_CC nonagreement_NN1 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, one_PN1 can_VM claim_VVI that_CST the_AT verb_NN1 does_VDZ not_XX project_VVI up_RP to_II AgrP_NP1 because_CS it_PPH1 does_VDZ not_XX have_VHI agreement_NN1 features_NN2 to_TO check_VVI ;_; but_CCB why_RRQ does_VDZ n't_XX it_PPH1 have_VHI agreement_NN1 features_NN2 ,_, when_CS it_PPH1 does_VDZ elsewhere_RL ?_? 
+</s>
+<s>
+In_II fact_NN1 ,_, this_DD1 does_VDZ seem_VVI to_TO be_VBI something_PN1 like_II a_AT1 "_" default_NN1 "_" agreement_NN1 argument_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, a_AT1 significant_JJ and_CC unexplored_JJ gap_NN1 in_II Rupp_NP1 's_GE analysis_NN1 is_VBZ why_RRQ her_APPGE speakers_NN2 disprefer_VV0 singular_JJ concord_NN1 in_II anything_PN1 other_II21 than_II22 existential_JJ constructions_NN2 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, according_II21 to_II22 her_APPGE data_NN ,_, though_CS (_( 11a_FO )_) is_VBZ grammatical_JJ ,_, (_( 11b_FO )_) is_VBZ only_RR acceptable_JJ to_II a_AT1 few_DA2 speakers_NN2 (_( which_DDQ she_PPHS1 attributes_VVZ to_II a_AT1 historical_JJ remnant_NN1 ,_, as_CSA the_AT speakers_NN2 are_VBR of_IO older_JJR generations_NN2 (_( 260-262_MCMC )_) ;_; this_DD1 argument_NN1 itself_PPX1 is_VBZ somewhat_RR unclear_JJ to_II me_PPIO1 )_) ._. 
+</s>
+<s>
+How_RRQ can_VM this_DD1 be_VBI accounted_VVN for_IF by_II Rupp_NP1 's_GE analysis_NN1 ?_? 
+</s>
+<s>
+Why_RRQ ca_VM n't_XX typical_JJ subjects_NN2 with_IW copular_NN1 be_VBI also_RR manifest_VV0 singular_JJ concord_NN1 ,_, if_CS the_AT -s_ZZ1 form_NN1 is_VBZ agreementless_JJ ?_? 
+</s>
+<s>
+First_MD ,_, take_VV0 the_AT difference_NN1 between_II existential_JJ constructions_NN2 that_CST agree_VV0 and_CC those_DD2 that_CST do_VD0 not_XX show_VVI agreement_NN1 ._. 
+</s>
+<s>
+For_IF nonagreement_NN1 ,_, we_PPIS2 presumably_RR have_VH0 the_AT structure_NN1 below_RL ._. 
+</s>
+<s>
+The_AT associate_NN1 presumably_RR checks_VVZ partitive_JJ Case_NN1 in_II VP_NP1 ,_, the_AT expletive_NN1 checks_VVZ nominative_JJ Case_NN1 in_II TP_NP1 ,_, and_CC the_AT verb_NN1 raises_VVZ from_II VP_NP1 to_II TP_NP1 to_TO check_VVI tense_JJ features_NN2 ._. 
+</s>
+<s>
+In_II an_AT1 agreeing_NN1 form_NN1 ,_, by_II comparison_NN1 and_CC on_II Rupp_NP1 's_GE analysis_NN1 ,_, we_PPIS2 would_VM have_VHI (_( 13_MC )_) below_RL ._. 
+</s>
+<s>
+(_( Additionally_RR on_II Rupp_NP1 's_GE analysis_NN1 ,_, the_AT NegP_NN1 would_VM be_VBI inserted_VVN between_II TP_NP1 and_CC AgrP_VV0 for_IF There_EX were_VBDR not_XX many_DA2 students_NN2 ._. )_) 
+</s>
+<s>
+Here_RL ,_, the_AT associate_NN1 again_RT checks_VVZ partitive_JJ Case_NN1 in_II VP_NP1 ,_, the_AT expletive_NN1 checks_VVZ nominative_JJ Case_NN1 in_II TP_NP1 ,_, and_CC the_AT expletive_JJ moves_NN2 to_II Spec/AgrP_NP1 to_TO satisfy_VVI AgrP_NP1 's_GE strong_JJ N-feature_NN1 ._. 
+</s>
+<s>
+The_AT verb_NN1 raises_VVZ from_II VP_NP1 to_II TP_NP1 ,_, discharging_VVG Case_NN1 and_CC Tense_VV0 ,_, and_CC then_RT from_II TP_NN1 to_II AgrP_NN1 ,_, discharging_VVG agreement_NN1 ._. 
+</s>
+<s>
+The_AT only_JJ structural_JJ difference_NN1 between_II these_DD2 two_MC cases_NN2 is_VBZ that_CST the_AT verb_NN1 moves_VVZ to_II AgrP_NP1 to_TO check_VVI its_APPGE agreement_NN1 features_NN2 in_II (_( 13_MC )_) ._. 
+</s>
+<s>
+What_DDQ Rupp_NP1 seems_VVZ to_TO be_VBI arguing_VVG (_( or_CC perhaps_RR what_DDQ she_PPHS1 must_VM be_VBI arguing_VVG )_) is_VBZ that_CST these_DD2 are_VBR two_MC different_JJ verbs_NN2 with_IW different_JJ sets_NN2 of_IO agreement_NN1 features_NN2 :_: (_( 12_MC )_) is_VBZ an_AT1 agreementless_JJ verb_NN1 ,_, whereas_CS (_( 13_MC )_) does_VDZ require_VVI agreement_NN1 to_TO be_VBI checked_VVN ._. 
+</s>
+<s>
+Yet_RR even_RR where_CS the_AT verb_NN1 moves_NN2 ,_, the_AT relationship_NN1 between_II plurality_NN1 is_VBZ not_XX clear_JJ ;_; that_REX21 is_REX22 ,_, there_RL still_RR must_VM be_VBI some_DD relationship_NN1 between_II the_AT associate-NP_NN1 and_CC the_AT verb_NN1 that_CST makes_VVZ agreement_NN1 happen_VVI with_IW the_AT plural_JJ associate_NN1 ,_, rather_II21 than_II22 the_AT singular_JJ expletive_NN1 ;_; or_CC else_RR some_DD movement_NN1 of_IO the_AT expletive_NN1 from_II a_AT1 lower_JJR position_NN1 must_VM be_VBI posited_VVN ,_, which_DDQ is_VBZ n't_XX possible_JJ on_II the_AT Lasnik_NN1 or_CC Epstein_NP1 and_CC Seely_JJ 's_GE analysis_NN1 ,_, since_CS they_PPHS2 claim_VV0 that_CST it_PPH1 is_VBZ generated_VVN in_II TP_NP1 (_( to_TO satisfy_VVI T_ZZ221 's_ZZ222 Case_NN1 requirements_NN2 )_) ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT relationship_NN1 between_II associate-NPs_NN2 and_CC expletives_NN2 needs_VVZ to_TO be_VBI different_JJ in_II the_AT agreeing_NN1 and_CC agreementless_JJ forms_NN2 ._. 
+</s>
+<s>
+You_PPY could_VM claim_VVI that_CST the_AT structure_NN1 in_II (_( 14_MC )_) is_VBZ present_JJ ,_, where_CS the_AT associate_JJ moves_NN2 to_II TP_NP1 rather_II21 than_II22 the_AT expletive_NN1 being_VBG generated_VVN there_RL ,_, but_CCB this_DD1 results_VVZ in_II the_AT same_DA problem_NN1 regarding_II Case_NN1 as_CSA we_PPIS2 ran_VVD into_II earlier_JJR ;_; if_CS the_AT associate-NP_NP1 's_GE Case_NN1 is_VBZ already_RR checked_VVN in_II VP_NP1 ,_, it_PPH1 can_56 not_56 check_VVI the_AT Case_NN1 of_IO T._NP1 Moving_NN1 to_II the_AT next_MD problem_NN1 of_IO why_RRQ nonexistentials_NN2 are_VBR dispreferred_VVN with_IW singular_JJ concord_NN1 ,_, Rupp_NP1 does_VDZ not_XX discuss_VVI nonexistentials_NN2 ,_, but_CCB we_PPIS2 can_VM infer_VVI what_DDQ her_APPGE analysis_NN1 of_IO them_PPHO2 would_VM need_VVI to_TO be_VBI ._. 
+</s>
+<s>
+The_AT structure_NN1 would_VM look_VVI something_PN1 like_II (_( 15_MC )_) ._. 
+</s>
+<s>
+Here_RL ,_, the_AT subject_NN1 (_( many_DA2 students_NN2 )_) is_VBZ generated_VVN in_II Spec/VP_NP1 ,_, then_RT moves_VVZ subsequently_RR through_II TP_NP1 ,_, checking_VVG Case_NN1 ,_, and_CC AgrP_NP1 ,_, checking_VVG agreement_NN1 ._. 
+</s>
+<s>
+Note_VV0 that_CST this_DD1 immediately_RR poses_VVZ a_AT1 problem_NN1 :_: ifbechecks_VVZ partitive_JJ Case_NN1 in_II VP_NP1 ,_, how_RRQ does_VDZ the_AT subject_NN1 DP_NP1 satisfy_VV0 T_ZZ1 's_VBZ Case_NN1 requirement_NN1 (_( assuming_VVG it_PPH1 was_VBDZ assigned_VVN Case_NN1 in_II the_AT VP_NP1 )_) ?_? 
+</s>
+<s>
+There_EX does_VDZ n't_XX seem_VVI to_TO be_VBI a_AT1 need_NN1 for_IF movement_NN1 of_IO the_AT DP_NP1 ,_, other_II21 than_II22 to_TO satisfy_VVI the_AT AgrP_NP1 's_GE N-and_CC agreement_NN1 features_NN2 (_( see_VV0 Groat_NN1 1995_MC )_) ;_; but_CCB ,_, can_VM the_AT DP_NP1 pass_VVI to_II AgrP_NN1 without_IW passing_VVG directly_RR through_II TP_NP1 ?_? 
+</s>
+<s>
+This_DD1 is_VBZ doubtful_JJ ._. 
+</s>
+<s>
+Aside_II21 from_II22 these_DD2 issues_NN2 ,_, there_EX seems_VVZ nothing_PN1 structurally_RR to_TO account_VVI for_IF why_RRQ the_AT singular_JJ concord_NN1 form_NN1 is_VBZ not_XX acceptable_JJ :_: According_II21 to_II22 Rupp_NP1 this_DD1 structure_NN1 is_VBZ not_XX permissible_JJ ,_, but_CCB it_PPH1 is_VBZ unclear_JJ why_RRQ ,_, if_CS it_PPH1 is_VBZ the_AT same_DA verb_NN1 as_CSA in_II the_AT existential_JJ examples_NN2 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, if_CS all_DB of_IO the_AT same_DA processes_NN2 are_VBR happening_VVG and_CC the_AT same_DA relationships_NN2 with_IW the_AT same_DA verb_NN1 obtain_VV0 ,_, then_RT it_PPH1 's_VBZ unclear_JJ what_DDQ drives_VVZ verbal_JJ agreement_NN1 and_CC projection_NN1 of_IO AgrP_NP1 ,_, unless_CS it_PPH1 is_VBZ that_CST the_AT argument_NN1 is_VBZ not_XX in_II a_AT1 position_NN1 to_TO agree_VVI in_II lower_JJR levels_NN2 (_( that_CST the_AT argument_NN1 can_56 not_56 have_VHI unchecked_JJ agreement_NN1 features_NN2 in_II TP_NP1 )_) ._. 
+</s>
+<s>
+But_CCB if_CS this_DD1 were_VBDR the_AT case_NN1 ,_, then_RT it_PPH1 has_VHZ nothing_PN1 to_TO do_VDI with_IW the_AT verb_NN1 itself_PPX1 being_VBG an_AT1 agreementless_JJ form_NN1 ;_; it_PPH1 rather_RR has_VHZ to_TO do_VDI with_IW the_AT subject_NN1 requiring_VVG or_CC not_XX requiring_VVG agreement_NN1 ._. 
+</s>
+<s>
+One_MC1 possibility_NN1 is_VBZ to_TO say_VVI that_CST in_II nonexistential_JJ constructions_NN2 ,_, movement_NN1 to_II the_AT subject_NN1 position_NN1 requires_VVZ that_CST there_EX be_VBI agreement_NN1 because_CS it_PPH1 is_VBZ passing_VVG through_II AgrP_NP1 ._. 
+</s>
+<s>
+However_RR ,_, if_CS Agr_NP1 is_VBZ not_XX a_AT1 necessary_JJ or_CC always-present_JJ functional_JJ category_NN1 ,_, but_CCB instead_RR is_VBZ a_AT1 level_NN1 projected_VVN by_II necessity_NN1 from_II agreeing_VVG verbs_NN2 ,_, then_RT the_AT verb_NN1 is_VBZ only_RR passing_VVG through_II AgrP_NP1 in_II the_AT first_MD place_NN1 because_CS the_AT verb_NN1 needs_VVZ agreement_NN1 checked_VVD ;_; this_DD1 is_VBZ a_AT1 fully_RR circular_JJ explanation_NN1 ._. 
+</s>
+<s>
+Perhaps_RR a_AT1 nonagreement_NN1 form_NN1 somehow_RR blocks_VVZ movement_NN1 of_IO the_AT associate_NN1 up_RP into_II the_AT expletive_JJ position_NN1 ,_, the_AT subject_NN1 position_NN1 ,_, which_DDQ triggers_VVZ insertion_NN1 to_TO satisfy_VVI T_ZZ221 's_ZZ222 Case_NN1 feature_NN1 ._. 
+</s>
+<s>
+This_DD1 does_VDZ n't_XX quite_RR make_VVI sense_NN1 either_RR though_CS ,_, because_CS it_PPH1 would_VM mean_VVI that_CST it_PPH1 was_VBDZ the_AT expletive_NN1 already_RR filling_VVG the_AT subject_NN1 position_NN1 itself_PPX1 that_CST prevents_VVZ the_AT associate_NN1 from_II moving_VVG up_RP into_II it_PPH1 ;_; this_DD1 can_56 not_56 be_VBI since_CS there_EX often_RR is_VBZ agreement_NN1 in_II expletive_JJ constructions_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ instructive_JJ to_TO note_VVI that_CST the_AT case_NN1 for_IF singular_JJ concord_NN1 as_II a_AT1 function_NN1 of_IO agreementless_JJ verbs_NN2 has_VHZ been_VBN made_VVN elsewhere_RL ;_; notably_RR by_II Henry_NP1 (_( 1995_MC )_) ,_, who_PNQS also_RR claims_VVZ that_CST the_AT copula_NN1 in_II singular_JJ concord_NN1 lacks_VVZ agreement_NN1 features_NN2 ._. 
+</s>
+<s>
+Interestingly_RR ,_, however_RR ,_, Henry_NP1 's_GE data_NN (_( from_II Belfast_NP1 English_NN1 )_) show_VV0 speakers_NN2 utilizing_VVG precisely_RR the_AT constructions_NN2 that_CST Rupp_NP1 's_GE speakers_NN2 do_VD0 not_XX allow_VVI ;_; that_REX21 is_REX22 ,_, in_II nonexistentials_NN2 such_II21 as_II22 :_: Henry_NP1 uses_VVZ a_AT1 similar_JJ argument_NN1 to_II Rupp_NP1 's_VBZ that_CST relies_VVZ on_II the_AT lack_NN1 of_IO inversion_NN1 and_CC the_AT presence_NN1 of_IO overt_JJ tense-marking_NN1 ,_, to_TO claim_VVI that_CST the_AT verb_NN1 only_RR raises_VVZ to_II TP_NP1 where_CS singular_JJ concord_NN1 is_VBZ manifested_VVN ._. 
+</s>
+<s>
+But_CCB because_CS Henry_NP1 does_VDZ not_XX provide_VVI an_AT1 explanation_NN1 for_IF existential_JJ singular_JJ concord_NN1 ,_, it_PPH1 is_VBZ not_XX clear_JJ whether_CSW her_APPGE analysis_NN1 explains_VVZ variation_NN1 between_II agreement_NN1 and_CC nonagreement_NN1 ,_, or_CC whether_CSW her_APPGE analysis_NN1 could_VM provide_VVI the_AT exegesis_NN1 (_( lacking_VVG in_II Rupp_NP1 )_) of_IO the_AT relations_NN2 between_II existential_JJ and_CC nonexistential_JJ constructions_NN2 in_II31 terms_II32 of_II33 agreement_NN1 phenomenon_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ somewhat_RR difficult_JJ to_TO square_VVI Rupp_NP1 's_GE analysis_NN1 of_IO nonagreement_NN1 with_IW previous_JJ analyses_NN2 in_II the_AT literature_NN1 ,_, as_CSA she_PPHS1 does_VDZ not_XX talk_VVI directly_RR about_II Case_NN1 and_CC this_DD1 has_VHZ been_VBN the_AT focus_NN1 of_IO a_AT1 substantial_JJ portion_NN1 of_IO the_AT work_NN1 on_II existentials_NN2 ._. 
+</s>
+<s>
+However_RR ,_, at_RR21 least_RR22 in_II31 terms_II32 of_II33 theoretical_JJ and_CC empirical_JJ goals_NN2 ,_, there_EX is_VBZ a_AT1 distinct_JJ comparison_NN1 to_TO be_VBI made_VVN between_II her_APPGE project_NN1 and_CC Lasnik_NP1 's_GE project_NN1 :_: Lasnik_NP1 wants_VVZ to_TO explain_VVI agreement_NN1 ,_, assuming_VVG it_PPH1 is_VBZ the_AT standard_JJ realization_NN1 of_IO existential_JJ constructions_NN2 ;_; whereas_CS Rupp_NP1 ,_, interested_JJ in_II variation_NN1 ,_, wants_VVZ to_TO explain_VVI nonagreement_NN1 ,_, also_RR assuming_VVG that_DD1 agreement_NN1 is_VBZ the_AT standard_JJ realization_NN1 but_CCB without_IW satisfactorily_RR explaining_VVG the_AT relation_NN1 between_II the_AT two_MC types_NN2 of_IO constructions_NN2 ._. 
+</s>
+<s>
+These_DD2 disparate_JJ loci_NN2 of_IO inquiry_NN1 are_VBR of_IO themselves_PPX2 interesting_JJ ,_, given_CS21 that_CS22 both_DB2 analyses_NN2 seek_VV0 to_TO explain_VVI the_AT grammar_NN1 of_IO "_" English_NN1 ._. "_" 
+</s>
+<s>
+However_RR ,_, this_DD1 case_NN1 is_VBZ exemplary_JJ of_IO what_DDQ the_AT value_NN1 can_VM be_VBI of_IO a_AT1 strong_JJ relationship_NN1 between_II generative_JJ syntax_NN1 and_CC empirical_JJ sociolinguistic_JJ research_NN1 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, Lasnik_NP1 's_GE (_( and_CC others_NN2 ,_, notably_RR Chomsky_NP1 's_GE )_) presupposition_NN1 that_CST agreement_NN1 was_VBDZ the_AT typical_JJ construction_NN1 in_II English_NN1 led_VVN to_II a_AT1 specific_JJ analysis_NN1 ,_, wherein_RRQ syntactic_JJ theory_NN1 needed_VVD to_TO account_VVI for_IF an_AT1 atypical_JJ relationship_NN1 of_IO agreement_NN1 between_II verb_NN1 and_CC a_AT1 noncanonical_JJ subject_NN1 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA Rupp_NP1 and_CC many_DA2 other_JJ variationist_NN1 studies_NN2 have_VH0 shown_VVN ,_, many_DA2 dialects_NN2 of_IO English_NN1 generate_VV0 nonagreeing_VVG copular_JJ forms_NN2 ,_, either_RR as_CSA the_AT norm_NN1 or_CC as_II a_AT1 substantially_RR utilized_VVN variant_NN1 ._. 
+</s>
+<s>
+The_AT fact_NN1 that_CST this_DD1 variation_NN1 is_VBZ so_RG widespread_JJ has_VHZ serious_JJ implications_NN2 for_IF syntactic_JJ theory_NN1 if_CS empirical_JJ data_NN forms_VVZ the_AT foundation_NN1 for_IF generative_JJ theory_NN1 ._. 
+</s>
+<s>
+Namely_REX ,_, if_CS agreement_NN1 is_VBZ less_RGR common_JJ across_II varieties_NN2 of_IO English_JJ than_CSN nonagreement_NN1 ,_, then_RT it_PPH1 is_VBZ possible_JJ that_CST nonagreement_NN1 is_VBZ what_DDQ needs_VVZ to_TO be_VBI examined_VVN as_II the_AT abstracted_JJ form_NN1 of_IO grammar_NN1 ,_, or_CC what_DDQ could_VM possibly_RR be_VBI posited_VVN as_II a_AT1 grammatical_JJ "_" default_NN1 ._. "_" 
+</s>
+<s>
+One_MC1 interesting_JJ analysis_NN1 to_II this_DD1 effect_NN1 is_VBZ that_DD1 of_IO Sobin_NP1 (_( 1997_MC )_) ,_, who_PNQS claims_VVZ that_DD1 nonagreement_NN1 is_VBZ the_AT typical_JJ construction_NN1 in_II English_NN1 ,_, and_CC agreement_NN1 by_II contrast_NN1 represents_VVZ a_AT1 "_" grammatical_JJ virus_NN1 "_" that_CST is_VBZ sociolinguistically-imposed_JJ and_CC grammar-external_JJ ._. 
+</s>
+<s>
+His_APPGE case_NN1 for_IF nonagreement_NN1 being_VBG the_AT standard_NN1 is_VBZ also_RR made_VVN by_II Meechan_NP1 and_CC Foley_NP1 (_( 1994_MC )_) ,_, who_PNQS argue_VV0 further_RRR that_CST an_AT1 acceptance_NN1 of_IO agreement_NN1 as_CSA "_" standard_NN1 "_" reflects_VVZ an_AT1 academic_JJ and_CC class-based_JJ bias_NN1 of_IO researchers_NN2 ._. 
+</s>
+<s>
+If_CS nonagreement_NN1 with_IW the_AT associate-NP_NN1 is_VBZ taken_VVN to_TO be_VBI typical_JJ ,_, then_RT one_PN1 does_VDZ n't_XX actually_RR need_VVI to_TO posit_VVI "_" nonagreement_NN1 "_" at_RR21 all_RR22 ,_, because_CS the_AT verb_NN1 can_VM be_VBI said_VVN to_TO agree_VVI with_IW the_AT actual_JJ subject_NN1 ,_, the_AT expletive_NN1 there_RL ._. 
+</s>
+<s>
+Sobin_NP1 's_GE account_NN1 was_VBDZ squarely_RR dismissed_VVN by_II Schtze_NP1 (_( 1999_MC )_) ,_, who_PNQS argues_VVZ that_CST the_AT grammar_NN1 of_IO English_NN1 allows_VVZ either_RR 1_MC1 )_) agreement_NN1 with_IW a_AT1 nonsubject_NN1 NP_NP1 (_( the_AT associate_NN1 ,_, whose_DDQGE features_NN2 raise_VV0 to_II Spec_NP1 )_) ;_; or_CC 2_MC )_) default_NN1 3rd_MD singular_JJ agreement_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, in_II none_PN of_IO the_AT other_JJ literature_NN1 I_PPIS1 examined_VVD was_VBDZ Sobin_NP1 's_GE account_NN1 presented_VVD as_RG feasible_JJ ;_; according_II21 to_II22 Meechan_NP1 and_CC Foley_NP1 ,_, this_DD1 may_VM represent_VVI a_AT1 bias_NN1 on_II41 the_II42 part_II43 of_II44 researchers_NN2 toward_II the_AT very_JJ sorts_NN2 of_IO constructions_NN2 that_CST Sobin_NP1 calls_VVZ "_" prestige_NN1 "_" forms_NN2 as_CSA being_VBG "_" typical_JJ ._. "_" 
+</s>
+<s>
+Yet_RR ,_, regardless_RR of_IO whether_CSW agreement_NN1 or_CC nonagreement_NN1 is_VBZ the_AT norm_NN1 ,_, both_DB2 possibilities_NN2 must_VM be_VBI explained_VVN by_II a_AT1 theory_NN1 of_IO the_AT grammar_NN1 of_IO English_NN1 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, variation_NN1 can_VM only_RR occur_VVI within_II the_AT limits_NN2 of_IO what_DDQ is_VBZ grammatically_RR possible_JJ ,_, of_IO what_DDQ one_PN1 's_GE grammar_NN1 can_VM generate_VVI ._. 
+</s>
+<s>
+If_CS we_PPIS2 take_VV0 seriously_RR this_DD1 idea_NN1 ,_, then_RT variation_NN1 must_VM not_XX only_RR be_VBI accounted_VVN for_IF within_II syntactic_JJ theory_NN1 ,_, but_CCB it_PPH1 also_RR must_VM be_VBI taken_VVN as_II a_AT1 key_JJ component_NN1 of_IO the_AT generative_JJ project_NN1 (_( see_VV0 Henry_NP1 and_CC Wilson_NP1 1998_MC for_IF more_DAR discussion_NN1 on_II this_DD1 point_NN1 )_) ._. 
+</s>
+<s>
+Especially_RR in_II31 terms_II32 of_II33 a_AT1 Principles_NN2 and_CC Parameters_NN2 approach_VV0 within_II a_AT1 Universal_JJ Grammar_NN1 premise_NN1 ,_, an_AT1 issue_NN1 such_II21 as_II22 singular_JJ concord_NN1 raises_VVZ the_AT question_NN1 as_II21 to_II22 what_DDQ parameter_NN1 settings_NN2 are_VBR for_IF speakers_NN2 of_IO one_MC1 language_NN1 versus_II another_DD1 ,_, but_CCB also_RR one_MC1 dialect_NN1 or_CC another_DD1 ;_; and_CC ,_, critically_RR ,_, how_RRQ within-language_JJ variation_NN1 is_VBZ related_VVN to_II parameter-setting_NN1 ,_, universal_JJ principles_NN2 ,_, or_CC sociolectal_JJ impositions_NN2 ._. 
+</s>
+<s>
+Within_II one_PN1 's_GE grammatical_JJ possibilities_NN2 ,_, motivation_NN1 for_IF variation_NN1 between_II two_MC options_NN2 may_VM be_VBI more_RGR or_CC less_RGR social_JJ or_CC grammatical_JJ ,_, and_CC this_DD1 is_VBZ precisely_RR why_RRQ syntax_NN1 and_CC variationist_NN1 research_NN1 can_VM benefit_VVI from_II one_PPX121 another_PPX122 's_GE work_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 paper_NN1 ,_, I_PPIS1 have_VH0 provided_VVN an_AT1 overview_NN1 of_IO the_AT topic_NN1 of_IO existential_JJ constructions_NN2 in_II English_NN1 ,_, focusing_VVG on_II how_RRQ they_PPHS2 have_VH0 been_VBN treated_VVN in_II the_AT syntactic_JJ theoretical_JJ literature_NN1 as_II a_AT1 somewhat_RR problematic_JJ or_CC atypical_JJ construction-type_NN1 ._. 
+</s>
+<s>
+This_DD1 included_VVD specific_JJ regard_NN1 to_II explanations_NN2 that_CST have_VH0 been_VBN put_VVN forth_RR for_IF relations_NN2 of_IO Case_NN1 ,_, which_DDQ explanation_NN1 was_VBDZ said_VVN also_RR to_TO go_VVI partway_NN1 to_II explaining_VVG the_AT phenomenon_NN1 of_IO agreement_NN1 between_II verb_NN1 and_CC associate-NPs_NN2 in_II existentials_NN2 ._. 
+</s>
+<s>
+I_PPIS1 attempted_VVD to_TO tie_VVI these_DD2 two_MC strands_NN2 of_IO research_NN1 together_RL and_CC to_TO critically_RR assess_VVI a_AT1 specific_JJ hypothesis_NN1 for_IF nonagreement_NN1 ,_, exploring_VVG why_RRQ it_PPH1 might_VM be_VBI problematic_JJ and_CC what_DDQ it_PPH1 fails_VVZ to_TO explain_VVI regarding_II English_JJ data_NN ._. 
+</s>
+<s>
+Finally_RR ,_, I_PPIS1 briefly_RR discussed_VVD what_DDQ this_DD1 topic_NN1 's_GE treatment_NN1 --_NN1 and_CC what_DDQ the_AT topic_NN1 itself_PPX1 -- can_VM tell_VVI us_PPIO2 about_II the_AT possible_JJ relationships_NN2 between_II variationist_NN1 research_NN1 and_CC syntactic_JJ theory_NN1 ._. 
+</s>

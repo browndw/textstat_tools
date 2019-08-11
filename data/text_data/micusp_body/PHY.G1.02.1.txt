@@ -1,0 +1,36 @@
+Atomic physics has been making remarkable processes in the last two decades. It offers controllable ways to study systems at low temperatures. The controllability of inter-particle interactions has been a motivation to study condensed matter physics using optical lattices. One interesting area of research is the study of idealized bosonic and fermionic systems such as the Tonks-Girardeau gas.
+A fundamental question in condensed matter physics is the correlation of the electrons in a lattice. The connection between systems in an optical lattice and systems in solid state physics is the Bose-Hubbard model. In this paper, we wish to focus primarily on the Bose-Hubbard model and use examples such as the Tonks gas or fermions in optical lattices to illustrate the connection.
+In the first section of this paper, the Bose-Hubbard Hamiltonian is derived using second quantization. The second section of the paper focuses on the phase transition and the Bose-Hubbard model in 1-D optical lattice systems. In addition, we demonstrate the equivalence between the bose systems and spin-1/2 fermi systems. Finally, we give an example of how this transformation can be aided in the future studies of the interactions between bosons and fermions in an optical lattice.
+Bose Hubbard model is motivated by the Hubbard model, which describes the bandlike and localized behavior of electrons (fermions) in a lattice [1]. The Bose-Hubbard Hamiltonian includes a kinetic energy term describing the hopping of atoms among lattice sites and an interaction energy term [2]. The interaction energy term can be separated into a short-range interaction V and the long-range interaction (a periodic potential) U
+We want to write Bose-Hubbard Hamiltonian in terms of the creation and annihilation operators for the bosonic system. First we evoke second quantization on eq. (1)
+In a lattice, atoms are arranged in a periodic potential, and their interactions are controlled by an external field, for example the magnetic field [1]. Here, U can be expressed as a sum of a strong period term Vlat and a short-range, perturbative term ² at every lattice site
+Using the commutation relation between the field operators,
+We want to use the Wannier functions
+the first term in eq. (4) becomes
+where
+The cofficient of eq. (6) is the dimension of energy. It contains the scattering length as times a coefficient, which comes from s-wave scattering (see Section 3) [3]. Similarly, we can use the orthogonal relation
+Finally, the periodic potential term in eq. (3) is transformed as
+The equation eq. (3) we derived from is applicable to any bosonic system with pairwise interaction in an optical lattice with an external potential. The Bose-Hubbard model assumes nearest-neighbors interactions and occupation of only the lowest vibrational energy level [3].
+The kinetic energy of the bosons is proportional to the tunnel matrix element J, which decreases exponentially with the lattice depth. In 1-D optical lattice, lattice depth is large such that particles stay only in the lowest vibrational energy and tunnel probability is exponentially small [3]. The summation in eq. (13) therefore is performed on the nearest neighbors
+We also assume that the bosons interact through s-wave scattering. For two-body scattering, the scattering amplitude after first Born approximation is
+Assume s-wave scattering only between two particles of the same mass,
+The on-site interaction energy determines the amount of energy needed to add or remove an atom at a lattice site. The ratio that describes the hopping possibility,
+In the case of 1-D bosonic system in the Mott insulator (also known as the Tonks Girardeau regime [7]),
+The Bose-Hubbard model is widely used and studied in recent experiments [7]. The two controllable parameters are
+At a fixed μ, as the interaction energy grows, the bosonic system experiences a continuous transition (no latent heat) from the Mott insulator phase to the superfluid phase. The power law that describes the divergence of the coherent length near the transition differs and depends on μ [5]. The boundary of the phase transition is similar to that of the d + 1-Dimensional classical XY model. At the lobes-like transition boundary, bosons are added and removed at each of the lattice sites. As we go across the Mott insulator regime to the superfluid regime, the coherent length changes from 0 to divergent. The shape of the lobes (in terms of energy) is given by
+Figure 1: Mott insulator and superfluid state of bosons in a lattice [4].
+In Tonks-Girardeau Gas, bosonic particles are loaded into a 1-D optical potential formed by two orthogonal standing waves (see Figure 3). The strong potential restricts the bosonic motion in 1-D along the axis of the rods. A third, weaker period potential is applied along this axis and is used to create the 1-D lattice. By varying the strength of this potential, the array of 1-D bosonic systems are seen to enter the Tonks-Girardeau regime [7].
+The motivation of fermionization is the observation that the Hilbert space of onedimensional bose gas is isomorphic to interacting fermi gas. In Bose-Hubbard model, the on-site repulsion in 1-D bosonic systems prevents more than one boson per site. This mimicks the Pauli exclusion principle, with result that the bosonic system is effectively an interacting, spinless system of fermions [9].
+The physical observables of an interacting, spinless fermionic system can be mapped to that of a noninteracting, spin-1/2 fermionic system through Jordan-Wigner transformation. The nearest neighbor interaction in the bose gas is equivalent to spin-flip in the spin-1/2 fermi gas [10].
+An interacting, spinless fermi gas obey the following commutation relation:
+Figure 3: Boson gas separates into isolated rods-like 1-D systems in the 2-D lattice. [8]
+A spin-1/2 fermi gas obey the following anti-commutation relation :
+where
+Using the fact that each site has an integer number of particles, eq. (19) can be rewritten as
+Based on the equations above:
+Bose-Hubbard Hamiltonian transforms as follows:
+Jordan-Wigner transformation gives rise to momentum distributions that has been a subject to numerous experimental studies [2].
+For bosons with two internal states, Bose-Hubbard Hamiltonian after fermionization takes on the form:
+These are the basis for the studies of mixtures of bosons and fermions in optical lattices. Numerous theoretical predictions are been developed (see [11], [12], [13]) and suggest possible future experimental studies of the system.
+In this paper, we derived Bose-Hubbard Hamiltonian using Wannier functions. We also studied the phase transition of bosons in optical lattices. Later, we showed how a bose system in a 1-D optical lattice is equivalent to a spin-1/2 fermi system. This mapping is accomplished through Jordan-Wigner transformation.
+In addition, we studied the properties of TonksGirardeau gas as an illustrative example of how an ideal condensed matter system can be studied in a controllable way in an optical lattice. We further suggested how optical lattices can be used to study other interesting systems, such as a condensate of boson-fermion mixture.

@@ -1,0 +1,75 @@
+<s>
+The_AT National_JJ Bossaball_NN1 League_NN1 of_IO Tinland_NP1 consists_VVZ of_IO 12_MC teams_NN2 ,_, each_DD1 representing_VVG the_AT 12_MC states_NN2 of_IO Tinland_NP1 ._. 
+</s>
+<s>
+Although_CS the_AT League_NN1 ,_, as_CSA an_AT1 entity_NN1 is_VBZ turning_VVG in_II record_NN1 profits_VVZ year_NNT1 after_II year_NNT1 ,_, the_AT revenue_NN1 is_VBZ not_XX distributed_VVN uniformly_RR across_II the_AT twelve_MC teams_NN2 ,_, in_II31 accordance_II32 with_II33 the_AT "_" opportunity_NN1 "_" for_IF success_NN1 available_JJ to_II each_DD1 team_NN1 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, some_DD teams_NN2 have_VH0 an_AT1 advantage_NN1 over_II the_AT others_NN2 in_II31 terms_II32 of_II33 having_VHG bigger_JJR fan_NN1 bases_NN2 and_CC huge_JJ media_NN deals_NN2 ._. 
+</s>
+<s>
+In_II order_NN1 to_II better_JJR fund_NN1 teams_NN2 which_DDQ are_VBR putting_VVG in_II an_AT1 effort_NN1 ,_, but_CCB have_VH0 limited_VVN resources_NN2 available_JJ ,_, the_AT NBL_NP1 is_VBZ intent_JJ on_II analyzing_VVG the_AT efficiency_NN1 of_IO each_DD1 team_NN1 ,_, considering_CS the_AT resources_NN2 available_JJ to_II them_PPHO2 ._. 
+</s>
+<s>
+These_DD2 resources_NN2 include_VV0 the_AT average_JJ state_NN1 population_NN1 and_CC the_AT average_JJ household_NN1 income_NN1 in_II the_AT state_NN1 ._. 
+</s>
+<s>
+The_AT output_NN1 metrics_NN2 used_VMK to_TO identify_VVI the_AT efficiencies_NN2 are_VBR revenue_NN1 from_II ticket_NN1 sales_NN and_CC revenue_NN1 from_II media_NN contracts_NN2 ._. 
+</s>
+<s>
+A_AT1 Data_NN Envelopment_NN1 Analysis_NN1 has_VHZ been_VBN made_VVN using_VVG the_AT available_JJ data_NN to_TO identify_VVI the_AT efficiency_NN1 levels_NN2 of_IO each_DD1 team_NN1 ._. 
+</s>
+<s>
+Two_MC models_NN2 BCC_NP1 O_ZZ1 and_CC Categorical_JJ Variables_NN2 have_VH0 been_VBN used_VVN to_TO make_VVI the_AT analysis_NN1 and_CC the_AT justifications_NN2 for_IF the_AT same_DA are_VBR as_CSA follows_VVZ ._. 
+</s>
+<s>
+The_AT dataset_NN1 is_VBZ variable_JJ returns_NN2 to_TO scale_VVI and_CC the_AT objective_NN1 of_IO the_AT analysis_NN1 is_VBZ to_TO maximize_VVI outputs_NN2 ._. 
+</s>
+<s>
+The_AT number_NN1 of_IO inputs_NN2 and_CC the_AT number_NN1 of_IO outputs_NN2 in_II the_AT dataset_NN1 are_VBR two_MC ._. 
+</s>
+<s>
+Therefore_RR the_AT BCC-O_NP1 model_NN1 was_VBDZ chosen_VVN ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT analysis_NN1 was_VBDZ also_RR made_VVN using_VVG Categorical_JJ Variables_NN2 ,_, as_CSA there_EX are_VBR two_MC categories_NN2 in_II the_AT dataset_NN1 the_AT states_NN2 who_PNQS are_VBR not_XX charged_VVN luxury_JJ tax_NN1 (_( named_JJ category_NN1 1_MC1 )_) and_CC those_DD2 that_CST are_VBR charged_VVN luxury_JJ tax_NN1 (_( category_NN1 2_MC )_) ._. 
+</s>
+<s>
+In_II this_DD1 analysis_NN1 ,_, the_AT states_NN2 in_II the_AT category_NN1 1_MC1 are_VBR compared_VVN within_II themselves_PPX2 and_CC the_AT states_NN2 in_II category_NN1 2_MC are_VBR compared_VVN with_IW states_NN2 in_II both_DB2 categories_NN2 ._. 
+</s>
+<s>
+However_RR ,_, one_MC1 assumption_NN1 that_CST is_VBZ being_VBG made_VVN is_VBZ that_CST the_AT predetermined_JJ revenue_NN1 for_IF levying_VVG a_AT1 luxury_JJ tax_NN1 is_VBZ appropriately_RR determined_VVN ,_, so_CS21 that_CS22 such_DA a_AT1 categorical_JJ variable_NN1 analysis_NN1 makes_VVZ sense_NN1 and_CC places_VVZ the_AT states_NN2 on_II an_AT1 unbiased_JJ platform_NN1 for_IF investigation_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR presented_VVN below_RL and_CC discussed_VVN ._. 
+</s>
+<s>
+Also_RR ,_, a_AT1 methodology_NN1 for_IF revenue_NN1 sharing_VVG among_II the_AT states_NN2 has_VHZ been_VBN proposed_VVN ._. 
+</s>
+<s>
+The_AT teams_NN2 whose_DDQGE names_NN2 are_VBR presented_VVN in_II bold_JJ are_VBR the_AT teams_NN2 that_CST pay_VV0 luxury_JJ tax_NN1 ._. 
+</s>
+<s>
+The_AT revenue_NN1 from_II the_AT escrow_NN1 fund_NN1 has_VHZ to_TO be_VBI distributed_VVN among_II the_AT teams_NN2 which_DDQ do_VD0 not_XX pay_VVI the_AT luxury_JJ tax_NN1 ,_, in_II other_JJ words_NN2 ,_, enjoy_VV0 lesser_JJ revenues_NN2 (_( with_IW their_APPGE player_NN1 salaries_NN2 being_VBG lesser_JJ than_CSN the_AT predetermined_JJ value_NN1 )_) ._. 
+</s>
+<s>
+The_AT CAT-O-V_JJ model_NN1 indicates_VVZ more_DAR teams_NN2 to_TO be_VBI efficient_JJ and_CC has_VHZ been_VBN used_VVN to_TO develop_VVI a_AT1 revenue_NN1 sharing_VVG model_NN1 for_IF the_AT states_NN2 of_IO NBL_NP1 which_DDQ do_VD0 not_XX pay_VVI a_AT1 luxury_JJ tax_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 is_VBZ based_VVN on_II the_AT fact_NN1 that_CST teams_NN2 with_IW higher_JJR efficiencies_NN2 (_( who_PNQS maximize_VV0 outputs_NN2 with_IW limited_JJ resources_NN2 available_JJ )_) should_VM be_VBI given_VVN larger_JJR portions_NN2 of_IO the_AT escrow_NN1 fund_NN1 ._. 
+</s>
+<s>
+The_AT fraction_NN1 of_IO the_AT escrow_NN1 fund_NN1 that_CST should_VM go_VVI to_II a_AT1 team_NN1 is_VBZ calculated_VVN by_II dividing_VVG the_AT efficiency_NN1 of_IO the_AT team_NN1 by_II the_AT sum_NN1 of_IO all_DB the_AT efficiencies_NN2 ._. 
+</s>
+<s>
+Assuming_VVG the_AT escrow_NN1 fund_NN1 is_VBZ approximately_RR $150,000_NNU for_IF this_DD1 year_NNT1 ,_, the_AT amount_NN1 that_CST should_VM be_VBI given_VVN to_II each_DD1 team_NN1 has_VHZ also_RR been_VBN calculated_VVN ._. 
+</s>
+<s>
+A_AT1 Data_NN Envelopment_NN1 Analysis_NN1 has_VHZ been_VBN made_VVN for_IF the_AT given_JJ dataset_NN1 using_VVG two_MC models_NN2 ,_, the_AT BCC-O-V_NP1 and_CC the_AT CAT-O-V_JJ ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT CAT_NN1 model_NN1 have_VH0 been_VBN used_VVN to_TO recommend_VVI revenue_NN1 sharing_VVG among_II states_NN2 that_CST do_VD0 not_XX pay_VVI a_AT1 luxury_JJ tax_NN1 ,_, from_II the_AT escrow_NN1 fund_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ recommended_VVN that_CST the_AT teams_NN2 which_DDQ are_VBR more_RGR efficient_JJ ,_, according_II21 to_II22 the_AT analysis_NN1 ,_, be_VBI awarded_VVN greater_JJR portions_NN2 from_II the_AT escrow_NN1 fund_NN1 ._. 
+</s>

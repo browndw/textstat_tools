@@ -1,0 +1,294 @@
+<s>
+Our_APPGE customer_NN1 is_VBZ a_AT1 new_JJ and_CC growing_JJ family_NN1 with_IW a_AT1 limited_JJ income_NN1 ._. 
+</s>
+<s>
+The_AT customer_NN1 wants_VVZ a_AT1 primary_JJ transportation_NN1 for_IF the_AT next_MD 6_MC years_NNT2 with_IW high_JJ degree_NN1 of_IO safety_NN1 and_CC an_AT1 enough_RR cargo_NN1 space_NN1 at_II a_AT1 target_NN1 price_NN1 of_IO $25000_NNU ._. 
+</s>
+<s>
+Based_VVN on_II the_AT customer_NN1 requirement_NN1 ,_, our_APPGE team_NN1 's_GE design_NN1 focuses_VVZ on_II the_AT safety_NN1 (_( energy_NN1 absorbing_VVG )_) and_CC durability_NN1 (_( strength_NN1 )_) with_IW high_JJ fuel_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+Accordingly_RR our_APPGE team_NN1 concentrated_VVN in_II developing_VVG high_JJ performance_NN1 especially_RR in_II the_AT front_JJ barrier_NN1 crush_NN1 test_NN1 ,_, side_NN1 barrier_NN1 crush_NN1 test_NN1 ,_, and_CC roof_NN1 crush_NN1 test_NN1 ._. 
+</s>
+<s>
+The_AT maximum_JJ number_NN1 of_IO passengers_NN2 is_VBZ assumed_VVN to_TO be_VBI 5_MC adults_NN2 each_DD1 weighing_NN1 70_MC kg_NNU and_CC the_AT cargo_NN1 mass_NN1 is_VBZ assumed_VVN to_TO be_VBI 120_MC kg_NNU ._. 
+</s>
+<s>
+The_AT two_MC assumptions_NN2 are_VBR sufficient_JJ to_TO consider_VVI the_AT worst_JJT case_NN1 scenario_NN1 ,_, so_CS21 that_CS22 our_APPGE design_NN1 does_VDZ not_XX incorporate_VVI any_DD safety_NN1 factor_NN1 ._. 
+</s>
+<s>
+The_AT length_NN1 of_IO the_AT vehicle_NN1 was_VBDZ measured_VVN to_TO be_VBI 4700_MC mm_NNU and_CC the_AT width_NN1 of_IO the_AT vehicle_NN1 to_TO be_VBI 1800_MC mm_NNU ._. 
+</s>
+<s>
+Using_VVG these_DD2 two_MC dimensions_NN2 with_IW the_AT "_" MassCompRev5_FO "_" provided_VVN in_II class_NN1 ,_, the_AT vehicle_NN1 plan_NN1 view_NN1 was_VBDZ calculated_VVN as_CSA 8.46_MC m2_FO and_CC the_AT vehicle_NN1 curb_VV0 mass_JJ as_CSA 1479.56_MC kg_NNU ._. 
+</s>
+<s>
+Along_II21 with_II22 each_DD1 mass_NN1 of_IO the_AT 5_MC passengers_NN2 being_VBG 70kg_NNU and_CC the_AT cargo_NN1 mass_NN1 being_VBG 120_MC kg_NNU ,_, the_AT gross_JJ vehicle_NN1 mass_NN1 (_( nominal_JJ mass_NN1 )_) was_VBDZ calculated_VVN to_TO be_VBI 1950_MC kg_NNU ._. 
+</s>
+<s>
+To_TO incorporate_VVI customer_NN1 's_GE requirements_NN2 into_II our_APPGE team_NN1 's_GE design_NN1 ,_, the_AT subsystems_NN2 of_IO a_AT1 vehicle_NN1 was_VBDZ adjusted_VVN ,_, partially_RR different_JJ from_II the_AT nominal_JJ based_VVN needs_NN2 ._. 
+</s>
+<s>
+The_AT Table_NN1 2_MC below_RL shows_VVZ the_AT subsystems_NN2 of_IO a_AT1 vehicle_NN1 and_CC adjusted_JJ subsystem_NN1 ._. 
+</s>
+<s>
+Taking_VVG into_II account_NN1 of_IO the_AT customer_NN1 requirement_NN1 resulted_VVN in_II the_AT compounded_JJ gross_JJ vehicle_NN1 mass_NN1 as_CSA to_TO be_VBI 2061.36_MC kg_NNU as_CSA shown_VVN in_II the_AT Table_NN1 3_MC ._. 
+</s>
+<s>
+Dimensions_NN2 of_IO a_AT1 vehicle_NN1 were_VBDR determined_VVN to_TO calculate_VVI the_AT bending_NN1 moment_NN1 and_CC shown_VVN in_II the_AT Table_NN1 4_MC ._. 
+</s>
+<s>
+We_PPIS2 assumed_VVD the_AT mass_NN1 of_IO an_AT1 engine_NN1 to_TO be_VBI 300_MC kg_NNU ,_, a_AT1 seat_NN1 to_TO be_VBI 20_MC kg_NNU ,_, and_CC a_AT1 passenger_NN1 to_II be70_FO kg_NNU ._. 
+</s>
+<s>
+Bending_VVG moment_NN1 diagram_NN1 of_IO single_JJ point_NN1 load_VV0 1200kg_NNU at_II 2400mm_NNU covers_VVZ all_DB the_AT maximum_JJ value_NN1 of_IO various_JJ bending_NN1 moment_NN1 diagram_NN1 (_( 1g_NNU ,_, 2g_NNU ,_, front_JJ towing_NN1 and_CC rear_JJ towing_NN1 )_) ._. 
+</s>
+<s>
+Therefore_RR ,_, bending_VVG strength_NN1 requirement_NN1 should_VM be_VBI Front_JJ and_CC rear_JJ support_NN1 load_NN1 is_VBZ calculated_VVN from_II the_AT spreadsheet_NN1 for_IF bending_VVG moment_NN1 calculation_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 can_VM see_VVI rear_JJ support_NN1 load_NN1 is_VBZ heavier_JJR than_CSN front_JJ support_NN1 load_NN1 ._. 
+</s>
+<s>
+We_PPIS2 should_VM use_VVI rear_JJ support_NN1 load_NN1 for_IF calculation_NN1 of_IO twist_NN1 ditch_NN1 torque_NN1 ._. 
+</s>
+<s>
+The_AT required_JJ bending_NN1 stiffness_NN1 is_VBZ determined_VVN by_II the_AT desired_JJ bending_NN1 frequency_NN1 of_IO the_AT car_NN1 and_CC the_AT final_JJ vehicle_NN1 mass_NN1 ._. 
+</s>
+<s>
+Using_VVG a_AT1 first_MD order_NN1 model_NN1 of_IO bending_VVG frequency_NN1 ,_, we_PPIS2 find_VV0 that_CST :_: is_VBZ the_AT natural_JJ frequency_NN1 of_IO the_AT beam_NN1 ,_, is_VBZ the_AT distance_NN1 between_II the_AT suspension_NN1 attachment_NN1 points_NN2 ,_, is_VBZ the_AT total_JJ length_NN1 of_IO the_AT car_NN1 ,_, and_CC is_VBZ the_AT rigidly_RR mounted_JJ mass_NN1 of_IO the_AT vehicle_NN1 mass_NN1 which_DDQ is_VBZ 60%_NNU of_IO the_AT total_JJ mass_NN1 of_IO the_AT vehicle_NN1 ._. 
+</s>
+<s>
+Rearranging_VVG this_DD1 equation_NN1 ,_, we_PPIS2 find_VV0 :_: From_II the_AT noise_NN1 and_CC vibration_NN1 mode_NN1 map_NN1 for_IF sources_NN2 and_CC responders_NN2 for_IF vehicles_NN2 ,_, it_PPH1 was_VBDZ determined_VVN that_CST the_AT desired_JJ natural_JJ frequency_NN1 lies_VVZ in_II the_AT range_NN1 of_IO 22-25_MCMC Hz_NNU ._. 
+</s>
+<s>
+We_PPIS2 choose_VV0 22_MC Hz_NNU as_II our_APPGE goal_NN1 since_CS our_APPGE objective_NN1 does_VDZ not_XX require_VVI an_AT1 extremely_RR stiff_JJ car_NN1 body_NN1 ._. 
+</s>
+<s>
+All_DB other_JJ parameters_NN2 are_VBR known_VVN and_CC thus_RR we_PPIS2 are_VBR able_JK to_TO determine_VVI our_APPGE required_JJ bending_NN1 stiffness_NN1 by_II substituting_VVG ._. 
+</s>
+<s>
+Bending_VVG stiffness_NN1 K_ZZ1 is_VBZ found_VVN to_TO be_VBI 12644_MC N/mm_NNU ._. 
+</s>
+<s>
+This_DD1 value_NN1 is_VBZ divided_VVN by_II 2_MC to_TO consider_VVI one_MC1 side_NN1 frame_NN1 of_IO the_AT vehicle_NN1 ._. 
+</s>
+<s>
+Then_RT K_ZZ1 =_FO 6322_MC N/mm_NNU is_VBZ used_VVN to_TO compare_VVI to_II the_AT simulated_JJ stiffness_NN1 ._. 
+</s>
+<s>
+Customer_NN1 does_VDZ not_XX want_VVI the_AT vehicle_NN1 with_IW precise_JJ handling_NN1 but_CCB one_PN1 with_IW good_JJ handling_NN1 ._. 
+</s>
+<s>
+We_PPIS2 set_VV0 the_AT torsional_JJ stiffness_NN1 with_IW nominal_JJ value_NN1 ,_, The_AT crush_NN1 load_NN1 taken_VVN by_II each_DD1 of_IO the_AT front_NN1 2_MC crash_NN1 members_NN2 is_VBZ 25%_NNU of_IO =_FO 70799_MC N_NNU (_( Pm_NP1 )_) Maximum_NN1 of_IO 5_MC inches_NNU2 of_IO deformation_NN1 at_II static_JJ load_NN1 of_IO 2.5_MC times_NNT2 vehicle_NN1 weight_NN1 ._. 
+</s>
+<s>
+Because_CS our_APPGE primary_JJ objective_NN1 was_VBDZ safety_NN1 in_II our_APPGE car_NN1 design_NN1 ,_, the_AT curb_NN1 weight_NN1 of_IO our_APPGE vehicle_NN1 was_VBDZ slightly_RR higher_JJR than_CSN average_JJ due_II21 to_II22 the_AT added_JJ features_NN2 ._. 
+</s>
+<s>
+The_AT crush_NN1 area_NN1 was_VBDZ increased_VVN to_TO allow_VVI a_AT1 lower_JJR deceleration_NN1 of_IO the_AT entire_JJ vehicle_NN1 during_II a_AT1 crash_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR provided_VVD for_IF the_AT extra_JJ safety_NN1 features_NN2 to_TO be_VBI added_VVN to_II the_AT car_NN1 such_II21 as_II22 airbags_NN2 ._. 
+</s>
+<s>
+All_DB of_IO this_DD1 added_JJ weight_NN1 thus_RR required_VVN larger_JJR beam_NN1 sections_NN2 elsewhere_RL in_II the_AT car_NN1 to_TO meet_VVI the_AT bending_NN1 and_CC torsion_NN1 requirements_NN2 ._. 
+</s>
+<s>
+In_II the_AT front_JJ section_NN1 of_IO the_AT vehicle_NN1 ,_, where_CS the_AT driver_NN1 's_GE feet_NN2 were_VBDR to_TO be_VBI located_VVN ,_, we_PPIS2 made_VVD changes_NN2 to_II the_AT structure_NN1 to_TO allow_VVI for_IF more_DAR room_NN1 ._. 
+</s>
+<s>
+Beams_NN2 were_VBDR thus_RR added_VVN in_II this_DD1 area_NN1 to_TO support_VVI the_AT crushable_JJ beams_NN2 to_TO ensure_VVI the_AT driver_NN1 would_VM be_VBI safe_JJ in_II a_AT1 crash_NN1 ._. 
+</s>
+<s>
+Our_APPGE vehicle_NN1 was_VBDZ optimized_VVN to_TO meet_VVI all_DB structural_JJ requirements_NN2 using_VVG only_RR rectangular_JJ cross_NN1 section_NN1 beams_NN2 since_CS this_DD1 basic_JJ shape_NN1 is_VBZ one_MC1 of_IO the_AT easiest_JJT to_TO manufacture_VVI ._. 
+</s>
+<s>
+However_RR in_II future_JJ work_NN1 ,_, using_VVG more_RGR refined_JJ cross_NN1 section_NN1 shapes_NN2 would_VM create_VVI a_AT1 more_RGR mass_JJ efficient_JJ design_NN1 ._. 
+</s>
+<s>
+Areas_NN2 that_CST would_VM benefit_VVI from_II this_DD1 would_VM be_VBI locations_NN2 such_II21 as_II22 the_AT crush_NN1 areas_NN2 where_RRQ a_AT1 hexagonal_JJ or_CC octagonal_JJ shape_NN1 could_VM be_VBI used_VVN to_II more_RGR efficiently_RR absorb_VV0 energy_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, in_II our_APPGE design_NN1 ,_, the_AT joints_NN2 were_VBDR not_XX optimized_VVN to_TO be_VBI the_AT most_RGT efficient_JJ in_II strength_NN1 they_PPHS2 could_VM be_VBI ._. 
+</s>
+<s>
+By_II adding_VVG fillets_NN2 or_CC blending_VVG features_NN2 to_II the_AT areas_NN2 where_RRQ beams_NN2 meet_VV0 one_PPX121 another_PPX122 ,_, joints_NN2 could_VM be_VBI strengthened_VVN and_CC the_AT body_NN1 could_VM be_VBI made_VVN stiffer_JJR ._. 
+</s>
+<s>
+Adding_VVG internal_JJ ribs_NN2 to_II the_AT joint_JJ areas_NN2 would_VM also_RR strengthen_VVI these_DD2 areas_NN2 significantly_RR ._. 
+</s>
+<s>
+These_DD2 changes_NN2 would_VM reduce_VVI the_AT total_JJ mass_NN1 of_IO the_AT vehicle_NN1 by_II allowing_VVG smaller_JJR beams_NN2 to_TO be_VBI used_VVN ._. 
+</s>
+<s>
+The_AT stiffness_NN1 calculated_VVN from_II the_AT spread_NN1 sheet_NN1 with_IW default_NN1 dimensions_NN2 above_RL is_VBZ 1042.75_MC N/mm_NNU ._. 
+</s>
+<s>
+This_DD1 simulated_JJ stiffness_NN1 is_VBZ less_DAR than_CSN the_AT required_JJ bending_NN1 stiffness_NN1 of_IO 6322N/mm_FU calculated_VVN by_II Eq_NN1 1_MC1 ._. 
+</s>
+<s>
+To_TO meet_VVI the_AT stiffness_NN1 requirement_NN1 the_AT beam_NN1 with_IW the_AT highest_JJT strain_NN1 energy_NN1 must_VM be_VBI resized_VVN ._. 
+</s>
+<s>
+The_AT right_JJ part_NN1 of_IO the_AT rocker_NN1 has_VHZ the_AT highest_JJT strain_NN1 energy_NN1 with_IW a_AT1 magnitude_NN1 of_IO 1.26_MC 102_MC Nmm_NP1 ._. 
+</s>
+<s>
+Ideally_RR ,_, increasing_VVG the_AT height_NN1 of_IO a_AT1 beam_NN1 is_VBZ the_AT most_RGT efficient_JJ way_NN1 to_TO increase_VVI the_AT stiffness_NN1 because_CS increasing_VVG the_AT moment_NN1 of_IO inertia_NN1 of_IO the_AT beam_NN1 decreases_VVZ the_AT stresses_NN2 In_II the_AT beam_NN1 ._. 
+</s>
+<s>
+Then_RT the_AT beam_NN1 can_VM absorb_VVI more_RGR external_JJ force_NN1 ,_, so_CS21 that_CS22 the_AT stiffness_NN1 of_IO the_AT beam_NN1 increases_NN2 ._. 
+</s>
+<s>
+However_RR ,_, due_JJ to_TO space_VVI limitations_NN2 ,_, not_XX only_RR a_AT1 moderate_JJ magnitude_NN1 of_IO the_AT height_NN1 of_IO the_AT rocker_NN1 is_VBZ increased_VVN but_CCB also_RR that_DD1 of_IO the_AT width_NN1 and_CC thickness_NN1 are_VBR increased_VVN by_II 50%_NNU ._. 
+</s>
+<s>
+After_CS this_DD1 iteration_NN1 ,_, the_AT maximum_JJ strain_NN1 energy_NN1 is_VBZ in_II the_AT roof_NN1 rail_NN1 ,_, so_CS21 that_CS22 the_AT width_NN1 ,_, height_NN1 ,_, and_CC thickness_NN1 of_IO the_AT roof_NN1 rail_NN1 are_VBR increased_VVN by_II 100%_NNU but_CCB the_AT stiffness_NN1 still_RR does_VDZ n't_XX meet_VVI the_AT requirement_NN1 ._. 
+</s>
+<s>
+After_CS this_DD1 iteration_NN1 the_AT highest_JJT strain_NN1 energy_NN1 is_VBZ in_II the_AT C-pillar_JJ upper_JJ beam_NN1 ,_, so_CS21 that_CS22 the_AT width_NN1 ,_, height_NN1 ,_, and_CC thickness_NN1 of_IO the_AT C-pillar_JJ upper_JJ beam_NN1 are_VBR increased_VVN by_II 100%_NNU but_CCB the_AT stiffness_NN1 still_RR does_VDZ n't_XX meet_VVI the_AT requirement_NN1 ._. 
+</s>
+<s>
+In_II the_AT end_NN1 when_CS we_PPIS2 changed_VVD the_AT height_NN1 of_IO the_AT C-pillar_NN1 by_II 30%_NNU and_CC the_AT width_NN1 of_IO the_AT C-pillar_NN1 by_II 30%_NNU ,_, the_AT simulated_JJ stiffness_NN1 exceeds_VVZ the_AT requirement_NN1 stiffness_NN1 ._. 
+</s>
+<s>
+-Shear_VV0 stiffness_NN1 of_IO side_NN1 frames_VVZ Torsioinal_JJ stiffness_NN1 of_IO the_AT vehicle_NN1 with_IW side_NN1 frame_NN1 is_VBZ 28264_MC which_DDQ much_RR higher_JJR than_CSN requirement_NN1 12000_MC ._. 
+</s>
+<s>
+We_PPIS2 need_VV0 to_TO change_VVI the_AT design_NN1 of_IO the_AT panels_NN2 to_TO make_VVI effective_JJ shear_VV0 stiffness_NN1 Gt_NP1 lower_RRR ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, we_PPIS2 can_VM add_VVI sun_NN1 roof_NN1 to_II vehicle_NN1 which_DDQ makes_VVZ roof_NN1 panel_NN1 more_RGR flexible_JJ ._. 
+</s>
+<s>
+Or_CC we_PPIS2 can_VM design_VVI car_NN1 with_IW folded_JJ rear_JJ seat_NN1 that_CST we_PPIS2 can_VM put_VVI larger_JJR cargo_NN1 into_II cabin_NN1 area_NN1 through_II seat_NN1 back_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, glass_NN1 will_VM be_VBI put_VVN into_II windshield_NN1 and_CC back_NN1 light_NN1 ._. 
+</s>
+<s>
+Those_DD2 panels_NN2 are_VBR not_XX flat_JJ panel_NN1 anymore_RR ._. 
+</s>
+<s>
+We_PPIS2 can_VM assume_VVI them_PPHO2 with_IW rectangular_JJ beam_NN1 structure_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 can_VM design_VVI each_DD1 panel_NN1 with_IW above_JJ value_NN1 of_IO effective_JJ shear_VV0 stiffness_NN1 Gt_NP1 ,_, we_PPIS2 can_VM meet_VVI the_AT vehicle_NN1 torsional_JJ stiffness_NN1 12000_MC ._. 
+</s>
+<s>
+Ranking_NN1 of_IO the_AT above_JJ values_NN2 seem_VV0 to_TO be_VBI reasonable_JJ according_II21 to_II22 typical_JJ ranking_NN1 of_IO panel_NN1 shear_VV0 stiffness_NN1 from_II the_AT lecture_NN1 note_NN1 ._. 
+</s>
+<s>
+We_PPIS2 set_VV0 the_AT roof_NN1 crush_NN1 load_NN1 to_TO be_VBI 2.5_MC time_NNT1 the_AT vehicle_NN1 weight_NN1 for_IF more_DAR safety_NN1 ._. 
+</s>
+<s>
+We_PPIS2 just_RR did_VDD 2-dimensional_JJ analysis_NN1 with_IW FEA_NP1 software_NN1 as_CSA we_PPIS2 ca_VM n't_XX do_VDI the_AT 3-dimensional_JJ analysis_NN1 ._. 
+</s>
+<s>
+The_AT load_NN1 will_VM be_VBI applied_VVN to_II the_AT joint_JJ between_II the_AT roof_NN1 rail_NN1 and_CC the_AT A_ZZ1 pillar_NN1 ._. 
+</s>
+<s>
+The_AT angle_NN1 between_II the_AT load_NN1 and_CC the_AT vertical_JJ to_II the_AT roof_NN1 rail_NN1 is_VBZ 5_MC ._. 
+</s>
+<s>
+Applied_JJ load_NN1 is_VBZ divided_VVN into_II X_ZZ1 component_NN1 and_CC Y_ZZ1 component_NN1 ._. 
+</s>
+<s>
+Combined_JJ deformation_NN1 at_II the_AT joint_JJ between_II the_AT roof_NN1 rail_NN1 and_CC the_AT A_ZZ1 pillar_NN1 is_VBZ ,_, which_DDQ is_VBZ much_RR lower_JJR than_CSN 5_MC inches_NNU2 (_( 127mm_NNU )_) ._. 
+</s>
+<s>
+In_II sizing_VVG our_APPGE beams_NN2 ,_, we_PPIS2 paid_VVD careful_JJ attention_NN1 to_II other_JJ vehicle_NN1 subsystems_NN2 ._. 
+</s>
+<s>
+We_PPIS2 sized_VVD our_APPGE mid_JJ rail_NN1 so_CS it_PPH1 would_VM be_VBI small_JJ enough_RR to_TO fit_VVI between_II the_AT front_JJ wheels_NN2 and_CC the_AT engine_NN1 but_CCB large_JJ enough_RR to_TO be_VBI as_RG efficiently_RR strong_JJ as_CSA possible_JJ ._. 
+</s>
+<s>
+The_AT horizontal_JJ beams_NN2 that_CST support_VV0 the_AT mid_JJ rail_NN1 were_VBDR carefully_RR positioned_VVN under_II the_AT seats_NN2 so_CS they_PPHS2 would_VM allow_VVI the_AT most_DAT room_NN1 in_II the_AT passenger_NN1 compartment_NN1 as_CSA possible_JJ while_CS still_RR meeting_VVG structural_JJ requirements_NN2 ._. 
+</s>
+<s>
+In_II the_AT rear_JJ part_NN1 of_IO the_AT vehicle_NN1 ,_, the_AT mid_JJ rail_NN1 beams_NN2 as_II31 well_II32 as_II33 the_AT upper_JJ crush_NN1 beams_NN2 were_VBDR placed_VVN in_II positions_NN2 that_CST would_VM allow_VVI the_AT greatest_JJT amount_NN1 of_IO luggage_NN1 space_NN1 possible_JJ ._. 
+</s>
+<s>
+In_II the_AT rest_NN1 of_IO our_APPGE design_NN1 ,_, we_PPIS2 tried_VVD to_TO remain_VVI within_II the_AT space_NN1 allowed_VVN to_II us_PPIO2 in_II the_AT parts_NN2 location_NN1 drawings_NN2 ._. 
+</s>
+<s>
+We_PPIS2 ensured_VVD that_CST the_AT cross_NN1 section_NN1 of_IO our_APPGE beams_NN2 met_VVD all_DB space_NN1 requirements_NN2 so_CS they_PPHS2 would_VM not_XX contact_VVI any_DD other_JJ parts_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR sized_VVD our_APPGE beams_NN2 in_II the_AT side_NN1 frame_NN1 so_CS they_PPHS2 would_VM fit_VVI to_II the_AT car_NN1 drawing_NN1 dimensions_NN2 within_II 50mm_NNU ._. 
+</s>
+<s>
+At_II the_AT same_DA time_NNT1 ,_, we_PPIS2 made_VVD all_DB of_IO the_AT beams_NN2 straight_RR to_TO ensure_VVI creation_NN1 of_IO the_AT parts_NN2 is_VBZ as_RG easy_JJ as_CSA possible_JJ to_TO manufacture_VVI ._. 
+</s>
+<s>
+Our_APPGE design_NN1 intention_NN1 is_VBZ to_TO have_VHI all_DB the_AT beams_NN2 formed_VVN by_II welding_NN1 two_MC c_ZZ1 beams_NN2 together_RL ._. 
+</s>
+<s>
+This_DD1 allows_VVZ quick_JJ and_CC reliable_JJ manufacturing_NN1 of_IO parts_NN2 ._. 
+</s>
+<s>
+The_AT weld_NN1 joints_NN2 are_VBR also_RR in_II easily_RR accessible_JJ areas_NN2 making_VVG manufacturing_NN1 of_IO the_AT parts_NN2 possible_JJ ._. 
+</s>
+<s>
+After_CS FEA_NP1 analysis_NN1 ,_, it_PPH1 was_VBDZ determined_VVN that_CST the_AT required_JJ roof_NN1 rail_NN1 beam_NN1 size_NN1 was_VBDZ smaller_JJR than_CSN the_AT original_JJ size_NN1 allowed_VVN ._. 
+</s>
+<s>
+So_RR we_PPIS2 inspected_VVD the_AT possibility_NN1 of_IO roof_NN1 crush_NN1 due_II21 to_II22 small_JJ height_NN1 but_CCB our_APPGE calculations_NN2 done_VDN in_II Step_NN1 5_MC meet_VV0 the_AT requirement_NN1 of_IO the_AT roof_NN1 crush_NN1 test_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT roof_NN1 rail_NN1 did_VDD not_XX need_VVI to_TO be_VBI modified_VVN ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, the_AT required_JJ rocker_NN1 beam_NN1 size_NN1 was_VBDZ determined_VVN to_TO be_VBI larger_JJR than_CSN the_AT original_JJ size_NN1 allowed_VVN ._. 
+</s>
+<s>
+There_EX are_VBR two_MC options_NN2 in_II increasing_VVG the_AT size_NN1 of_IO the_AT rocker_NN1 beam_NN1 ._. 
+</s>
+<s>
+First_MD ,_, the_AT rocker_NN1 beam_NN1 can_VM be_VBI increased_VVN entirely_RR downward_JJ ,_, which_DDQ will_VM increase_VVI the_AT possibility_NN1 of_IO damaging_VVG the_AT bottom_JJ part_NN1 of_IO the_AT vehicle_NN1 due_II21 to_II22 small_JJ clearance_NN1 from_II the_AT ground_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, this_DD1 case_NN1 was_VBDZ not_XX considered_VVN for_IF our_APPGE design_NN1 and_CC took_VVN the_AT other_JJ method_NN1 that_CST increases_VVZ the_AT rocker_NN1 beam_NN1 size_NN1 entirely_RR upward_JJ ._. 
+</s>
+<s>
+This_DD1 increased_JJ rocker_NN1 beam_NN1 size_NN1 would_VM decrease_VVI the_AT door_NN1 frame_NN1 space_NN1 making_VVG it_PPH1 less_RGR comfortable_JJ for_IF passengers_NN2 to_TO enter_VVI and_CC exit_VVI the_AT vehicle_NN1 ._. 
+</s>
+<s>
+To_TO resolve_VVI this_DD1 problem_NN1 ,_, high_JJ strength_NN1 steel_NN1 could_VM have_VHI been_VBN used_VVN ._. 
+</s>
+<s>
+However_RR ,_, in_II calculations_NN2 ,_, it_PPH1 was_VBDZ determined_VVN that_CST the_AT required_JJ roof_NN1 rail_NN1 beam_NN1 size_NN1 was_VBDZ smaller_JJR than_CSN the_AT allowed_JJ size_NN1 ._. 
+</s>
+<s>
+This_DD1 extra_JJ space_NN1 allows_VVZ the_AT rocker_NN1 to_TO be_VBI increased_VVN in_II height_NN1 without_IW decreasing_VVG the_AT overall_JJ ingress/egress_NN1 space_NN1 ._. 
+</s>
+<s>
+Thus_RR normal_JJ strength_NN1 steel_NN1 can_VM be_VBI used_VVN in_II the_AT rocker_NN1 beam_NN1 ._. 
+</s>
+<s>
+The_AT upper_JJ C-pillar_NN1 was_VBDZ slightly_RR increased_VVN beyond_II the_AT original_JJ allowed_JJ space_NN1 for_IF structural_JJ reasons_NN2 ._. 
+</s>
+<s>
+This_DD1 decreases_VVZ the_AT driver_NN1 's_GE field_NN1 of_IO view_NN1 but_CCB not_XX significantly_RR ._. 
+</s>
+<s>
+However_RR ,_, if_CS we_PPIS2 had_VHD been_VBN required_VVN to_TO fit_VVI within_II the_AT original_JJ allotted_JJ space_NN1 ,_, high_JJ strength_NN1 steel_NN1 could_VM have_VHI been_VBN used_VVN to_TO meet_VVI the_AT requirements_NN2 ._. 
+</s>
+<s>
+Ribs_NN2 and/or_CC foam_NN1 could_VM also_RR have_VHI been_VBN added_VVN in_II the_AT upper_JJ C-pillar_JJ beam_NN1 to_TO make_VVI it_PPH1 stronger_JJR without_IW changing_VVG the_AT allowed_JJ original_JJ size_NN1 of_IO the_AT beam_NN1 ._. 
+</s>
+<s>
+The_AT lower_JJR C-pillar_JJ size_NN1 was_VBDZ determined_VVN to_TO fit_VVI within_II the_AT original_JJ allowed_JJ space_NN1 ._. 
+</s>
+<s>
+The_AT required_JJ mid-rail_NN1 size_NN1 exceeded_VVD the_AT space_NN1 between_II the_AT mid-rail_NN1 and_CC the_AT engine_NN1 ._. 
+</s>
+<s>
+This_DD1 problem_NN1 can_VM be_VBI resolved_VVN by_II changing_VVG the_AT section_NN1 shape_NN1 of_IO the_AT mid-rail_NN1 from_II a_AT1 square_NN1 to_II a_AT1 rectangular_JJ ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 change_NN1 in_II the_AT section_NN1 shape_NN1 will_VM increase_VVI the_AT thickness_NN1 of_IO the_AT mid-rail_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT total_JJ mass_NN1 of_IO the_AT mid-rail_NN1 will_VM increase_VVI which_DDQ will_VM decrease_VVI the_AT fuel_NN1 efficiency_NN1 of_IO the_AT vehicle_NN1 ._. 
+</s>

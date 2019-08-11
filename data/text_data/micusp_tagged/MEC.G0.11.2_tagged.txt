@@ -1,0 +1,261 @@
+<s>
+HVAC_JJ Training_NN1 Centers_NN2 USA_NP1 trains_VVZ technicians_NN2 to_TO properly_RR install_VVI refrigeration_NN1 and_CC heating_NN1 systems_NN2 ,_, many_DA2 of_IO which_DDQ utilize_VV0 the_AT vapor_NN1 compression_NN1 cycle_NN1 (_( VCC_NP1 )_) ._. 
+</s>
+<s>
+Your_APPGE training_NN1 program_NN1 tests_VVZ technicians_NN2 on_II their_APPGE abilities_NN2 to_TO tune_VVI the_AT operating_NN1 characteristics_NN2 of_IO the_AT systems_NN2 to_TO deliver_VVI the_AT best_JJT coefficient_NN1 of_IO performance_NN1 (_( COP_NN1 )_) for_IF cooling_VVG and_CC heating_NN1 from_II a_AT1 number_NN1 of_IO choices_NN2 using_VVG the_AT VCC_NP1 training_NN1 carts_NN2 ,_, and_CC you_PPY have_VH0 had_VHN some_DD complaints_NN2 that_CST this_DD1 test_NN1 is_VBZ unfair_JJ due_II21 to_II22 the_AT uncertainties_NN2 of_IO your_APPGE testbed_NN1 systems_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, you_PPY have_VH0 solicited_VVN our_APPGE company_NN1 's_GE help_NN1 in_II investigating_VVG this_DD1 claim_NN1 ._. 
+</s>
+<s>
+Specifically_RR ,_, you_PPY have_VH0 asked_VVN us_PPIO2 to_TO find_VVI the_AT COP_NN1 of_IO cooling_VVG and_CC heating_NN1 for_IF a_AT1 VCC_NP1 cart_NN1 that_CST you_PPY provided_VVD us_PPIO2 with_IW under_RG three_MC different_JJ compressor_NN1 frequencies_NN2 (_( 30Hz_FO ,_, 45Hz_FO ,_, and_CC 60Hz_FO )_) ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, you_PPY requested_VVD that_CST we_PPIS2 document_VV0 the_AT thermodynamic_JJ cycle_NN1 on_II a_AT1 temperature-entropy_JJ diagram_NN1 with_IW uncertainties_NN2 at_II each_DD1 state_NN1 (_( using_VVG SI_FW units_NN2 )_) ._. 
+</s>
+<s>
+Lastly_RR ,_, you_PPY have_VH0 asked_VVN that_CST we_PPIS2 report_VV0 any_DD other_JJ considerations_NN2 that_CST are_VBR important_JJ in_II determining_VVG the_AT unit_NN1 's_GE ability_NN1 to_TO heat_VVI or_CC cool_JJ efficiently_RR and_CC recommend_VVI whether_CSW they_PPHS2 should_VM be_VBI included_VVN in_II your_APPGE testing_NN1 of_IO the_AT technicians_NN2 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 completed_VVN these_DD2 tasks_NN2 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO this_DD1 report_NN1 is_VBZ to_TO provide_VVI you_PPY with_IW our_APPGE findings_NN2 ,_, conclusions_NN2 ,_, recommendations_NN2 ,_, and_CC supporting_JJ documentation_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 found_VVN the_AT COP_NN1 values_NN2 of_IO cooling_VVG and_CC heating_NN1 for_IF the_AT compressor_NN1 frequencies_NN2 of_IO 30Hz_FO ,_, 45Hz_FO ,_, and_CC 59Hz_FO ._. 
+</s>
+<s>
+The_AT COP_NN1 values_NN2 decrease_VV0 with_IW increasing_JJ compressor_NN1 frequency_NN1 (_( Table_NN1 1_MC1 )_) ;_; hence_RR ,_, less_DAR work_NN1 is_VBZ needed_VVN for_IF lower_JJR frequencies_NN2 to_TO pump_VVI a_AT1 specific_JJ amount_NN1 of_IO heat_NN1 into_II or_CC out_II21 of_II22 the_AT space_NN1 to_TO be_VBI heated_VVN or_CC cooled_JJ than_CSN would_VM be_VBI needed_VVN for_IF higher_JJR frequencies_NN2 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 also_RR provided_VVN temperature-entropy_JJ diagrams_NN2 to_TO show_VVI the_AT thermodynamic_JJ cycle_NN1 at_II each_DD1 frequency_NN1 (_( Fig._NN1 3-5_MCMC ,_, p.4_FO )_) ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 found_VVN that_CST the_AT uncertainties_NN2 of_IO the_AT system_NN1 are_VBR small_JJ enough_RR that_CST each_DD1 frequency_NN1 has_VHZ a_AT1 distinct_JJ cycle_NN1 and_CC a_AT1 unique_JJ COP_NN1 value_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, we_PPIS2 conclude_VV0 that_CST your_APPGE test_NN1 is_VBZ fair_JJ and_CC the_AT complaints_NN2 about_II the_AT test_NN1 have_VH0 been_VBN unfounded_JJ ._. 
+</s>
+<s>
+We_PPIS2 also_RR have_VH0 also_RR determined_VVN that_CST the_AT cooling_NN1 and_CC heating_NN1 capacities_NN2 are_VBR key_JJ considerations_NN2 in_II determining_VVG the_AT unit_NN1 's_GE ability_NN1 to_TO heat_VVI or_CC cool_JJ efficiently_RR ,_, and_CC suggest_VVI that_CST you_PPY test_VV0 your_APPGE technicians_NN2 on_II their_APPGE ability_NN1 to_TO tune_VVI the_AT unit_NN1 to_TO give_VVI an_AT1 appropriate_JJ value_NN1 of_IO the_AT cooling_NN1 or_CC heating_NN1 capacity_NN1 ._. 
+</s>
+<s>
+The_AT values_NN2 of_IO the_AT cooling_NN1 and_CC heating_NN1 capacities_NN2 were_VBDR calculated_VVN for_IF each_DD1 frequency_NN1 ,_, and_CC were_VBDR found_VVN to_TO increase_VVI with_IW increasing_JJ frequency_NN1 (_( Table_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Your_APPGE company_NN1 provided_VVD us_PPIO2 with_IW a_AT1 VCC_NP1 cart_NN1 (_( Hamden_NP1 Engineering_NN1 Corporation_NN1 Refrigeration_NN1 Trainer_NN1 ,_, Model_NN1 H-CRT-1_NP1 )_) ,_, as_II31 well_II32 as_II33 a_AT1 computer_NN1 controlled_VVD data_NN acquisition_NN1 system_NN1 (_( Labview_NP1 8.2_MC )_) for_IF recording_VVG the_AT thermodynamic_JJ data_NN ._. 
+</s>
+<s>
+The_AT VCC_NP1 cart_NN1 had_VHD two_MC choices_NN2 for_IF the_AT evaporator_NN1 and_CC several_DA2 choices_NN2 for_IF the_AT throttling_JJ valve_NN1 ;_; we_PPIS2 utilized_VVD evaporator_NN1 1_MC1 and_CC the_AT capillary_NN1 for_IF these_DD2 components_NN2 ,_, respectively_RR ._. 
+</s>
+<s>
+Schematics_NN2 of_IO the_AT VCC_NP1 cart_NN1 are_VBR shown_VVN in_II Fig._NN1 1_MC1 and_CC Fig._NN1 2_MC ._. 
+</s>
+<s>
+The_AT working_JJ fluid_NN1 of_IO the_AT apparatus_NN1 was_VBDZ R-134a_FO ._. 
+</s>
+<s>
+The_AT data_NN of_IO interest_NN1 for_IF our_APPGE analysis_NN1 are_VBR shown_VVN in_II Fig._NN1 2_MC ,_, where_CS T_ZZ1 refers_VVZ to_II temperature_NN1 ,_, P_ZZ1 refers_VVZ to_II pressure_NN1 ,_, and_CC Q_ZZ1 refers_VVZ to_II volume_NN1 flow_NN1 rate_NN1 ._. 
+</s>
+<s>
+The_AT subscript_NN1 refers_VVZ to_II the_AT point_NN1 at_II which_DDQ the_AT value_NN1 is_VBZ measured_VVN ._. 
+</s>
+<s>
+All_DB the_AT data_NN was_VBDZ measured_VVN directly_RR with_IW Labview_NP1 ._. 
+</s>
+<s>
+However_RR ,_, Labview_NP1 recorded_VVD gauge_NN1 pressures_NN2 ,_, and_CC therefore_RR ,_, we_PPIS2 had_VHD to_TO add_VVI the_AT room_NN1 pressure_NN1 to_II each_DD1 recorded_JJ value_NN1 in_BCL21 order_BCL22 to_TO get_VVI absolute_JJ pressure_NN1 ._. 
+</s>
+<s>
+The_AT data_NN of_IO interest_NN1 ,_, for_IF each_DD1 point_NN1 in_II the_AT vapor-compression_JJ cycle_NN1 ,_, can_VM be_VBI seen_VVN in_II Fig._NN1 2_MC ;_; this_DD1 data_NN was_VBDZ used_VVN to_TO find_VVI both_RR enthalpy_NN1 and_CC entropy_NN1 values_NN2 at_II each_DD1 of_IO the_AT points_NN2 1_MC1 through_II 4_MC ._. 
+</s>
+<s>
+To_TO find_VVI the_AT COP_NN1 of_IO the_AT VCC_NP1 system_NN1 ,_, we_PPIS2 set_VV0 the_AT compressor_NN1 frequency_NN1 to_II the_AT desired_JJ value_NN1 and_CC waited_VVD for_IF the_AT system_NN1 to_TO reach_VVI steady-state_JJ ._. 
+</s>
+<s>
+Steady-state_JJ was_VBDZ achieved_VVN when_CS the_AT computer_NN1 acquisition_NN1 system_NN1 showed_VVD all_DB of_IO the_AT measurements_NN2 of_IO interest_NN1 to_TO be_VBI constant_JJ values_NN2 (_( straight_RR ,_, horizontal_JJ lines_NN2 )_) ,_, and_CC also_RR ,_, when_CS the_AT fluid_NN1 coming_VVG out_II21 of_II22 the_AT condenser_NN1 at_II point_NN1 3_MC (_( Fig._NN1 1_MC1 )_) was_VBDZ completely_RR liquid_JJ (_( no_AT bubbles_NN2 observed_VVN in_II the_AT sight_NN1 glass_NN1 )_) ._. 
+</s>
+<s>
+We_PPIS2 then_RT used_VVD the_AT Labview_NN1 8.2_MC software_NN1 to_TO record_VVI the_AT data_NN ._. 
+</s>
+<s>
+The_AT data_NN was_VBDZ recorded_VVN ten_MC different_JJ times_NNT2 for_IF each_DD1 frequency_NN1 to_TO allow_VVI us_PPIO2 to_TO compute_VVI the_AT uncertainties_NN2 in_II the_AT data_NN ._. 
+</s>
+<s>
+This_DD1 procedure_NN1 was_VBDZ performed_VVN at_II 30_MC Hz_NNU ,_, 45_MC Hz_NNU ,_, and_CC 59_MC Hz_NNU ._. 
+</s>
+<s>
+59_MC Hz_NNU was_VBDZ used_VVN instead_II21 of_II22 the_AT requested_JJ frequency_NN1 of_IO 60_MC Hz_NNU ,_, because_CS this_DD1 was_VBDZ as_RG high_JJ as_CSA the_AT compressor_NN1 frequency_NN1 would_VM go_VVI for_IF the_AT system_NN1 that_CST you_PPY provided_VVD us_PPIO2 with_IW ._. 
+</s>
+<s>
+In_II our_APPGE analysis_NN1 of_IO the_AT thermodynamic_JJ properties_NN2 of_IO the_AT VCC_NP1 cart_NN1 ,_, we_PPIS2 made_VVD several_DA2 assumptions_NN2 about_II the_AT system_NN1 ._. 
+</s>
+<s>
+We_PPIS2 assumed_VVD that_CST there_EX was_VBDZ no_AT additional_JJ heat_NN1 transfer_NN1 apart_II21 from_II22 the_AT heat_NN1 flux_NN1 in_II and_CC out_RP shown_VVN on_II Fig._NN1 1_MC1 (_( perfectly_RR insulation_NN1 )_) ,_, that_CST there_EX were_VBDR no_AT additional_JJ pressure_NN1 drops_NN2 (_( no_AT leaks_NN2 )_) ,_, and_CC that_CST there_EX were_VBDR three_MC reversible_JJ steps_NN2 ,_, taking_VVG place_NN1 from_II points_NN2 1_MC1 to_II 2_MC ,_, 2_MC to_II 3_MC ,_, and_CC 4_MC to_II 1_MC1 (_( Fig._NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Also_RR ,_, oil_NN1 had_VHD been_VBN added_VVN to_II the_AT refrigerant_JJ to_TO lubricate_VVI the_AT compressor_NN1 ;_; however_RR ,_, we_PPIS2 assumed_VVD that_CST the_AT added_JJ oil_NN1 did_VDD not_XX change_VVI the_AT thermodynamic_JJ properties_NN2 of_IO the_AT refrigerant_NN1 ._. 
+</s>
+<s>
+All_DB experimental_JJ data_NN was_VBDZ taken_VVN at_II a_AT1 room_NN1 temperature_NN1 of_IO 294_MC 1K_FO and_CC a_AT1 room_NN1 pressure_NN1 of_IO 99.13_MC 0.05_MC kPa_NN1 ._. 
+</s>
+<s>
+Room_NN1 temperature_NN1 and_CC pressure_NN1 were_VBDR measured_VVN three_MC times_NNT2 each_DD1 with_IW a_AT1 thermometer_NN1 (_( resolution_NN1 of_IO 1_MC1 K_ZZ1 )_) and_CC a_AT1 barometer_NN1 (_( resolution_NN1 of_IO 0.01_MC kPa_NN1 )_) ,_, respectively_RR ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, as_CSA R-134a_FO in_II liquid_JJ form_NN1 can_VM cause_VVI blindness_NN1 ,_, we_PPIS2 were_VBDR especially_RR careful_JJ to_TO wear_VVI appropriate_JJ protective_JJ eye_NN1 gear_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 section_NN1 we_PPIS2 will_VM give_VVI the_AT coefficient_NN1 of_IO performance_NN1 (_( COP_NN1 )_) of_IO the_AT VCC_NP1 system_NN1 and_CC document_VV0 the_AT thermodynamic_JJ cycle_NN1 on_II a_AT1 temperature-entropy_JJ diagram_NN1 for_IF compressor_NN1 frequencies_NN2 of_IO 30Hz_FO ,_, 45Hz_FO ,_, and_CC 59Hz_FO ._. 
+</s>
+<s>
+We_PPIS2 will_VM also_RR discuss_VVI the_AT heating_NN1 and_CC cooling_VVG capacities_NN2 of_IO the_AT system_NN1 and_CC their_APPGE importance_NN1 in_II determining_VVG the_AT system_NN1 's_GE ability_NN1 to_TO heat_VVI or_CC cool_JJ efficiently_RR ._. 
+</s>
+<s>
+We_PPIS2 will_VM also_RR discuss_VVI the_AT uncertainties_NN2 associated_VVN with_IW the_AT data_NN ._. 
+</s>
+<s>
+Both_DB2 the_AT COP_NN1 of_IO cooling_VVG and_CC the_AT COP_NN1 of_IO heating_NN1 were_VBDR found_VVN to_TO decrease_VVI with_IW increasing_JJ compressor_NN1 frequency_NN1 ;_; thus_RR ,_, pumping_VVG a_AT1 specific_JJ quantity_NN1 of_IO heat_NN1 out_II21 of_II22 or_CC into_II the_AT reservoir_NN1 requires_VVZ less_DAR work_NN1 at_II a_AT1 higher_JJR frequency_NN1 than_CSN a_AT1 lower_JJR frequency_NN1 ._. 
+</s>
+<s>
+The_AT values_NN2 for_IF each_DD1 compressor_NN1 frequency_NN1 (_( 30Hz_FO ,_, 45Hz_FO ,_, and_CC 59Hz_FO )_) can_VM be_VBI found_VVN in_II Table_NN1 2_MC ._. 
+</s>
+<s>
+Table_NN1 2_MC :_: Coefficient_NN1 of_IO Performance_NN1 of_IO Both_RR Cooling_VVG and_CC Heating_NN1 Decreases_VVZ with_IW Increasing_JJ Compressor_NN1 Frequency_NN1 The_AT COP_NN1 of_IO cooling_NN1 was_VBDZ calculated_VVN using_VVG Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 ,_, where_CS all_DB of_IO the_AT variables_NN2 refer_VV0 to_II properties_NN2 of_IO the_AT refrigerant_NN1 ,_, R-134a._NNU is_VBZ the_AT volume_NN1 flow_NN1 rate_NN1 ,_, is_VBZ the_AT density_NN1 at_II point_NN1 3_MC ,_, h1_FO is_VBZ the_AT enthalpy_NN1 at_II point_NN1 1_MC1 ,_, h4_FO is_VBZ the_AT enthalpy_NN1 at_II point_NN1 4_MC ,_, and_CC is_VBZ the_AT power_NN1 input_NN1 to_II the_AT compressor_NN1 (_( Fig._NN1 1_MC1 ,_, p._NN1 2_MC )_) ._. 
+</s>
+<s>
+and_CC are_VBR the_AT cooling_NN1 and_CC heating_NN1 capacities_NN2 of_IO the_AT unit_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+h1_FO was_VBDZ found_VVN from_II the_AT thermodynamic_JJ tables_NN2 of_IO R-134a_FO (_( 2_MC )_) ,_, using_VVG the_AT temperature_NN1 and_CC absolute_JJ pressure_NN1 at_II point_NN1 1_MC1 (_( Fig._NN1 1_MC1 ,_, p._NN1 2_MC )_) ._. 
+</s>
+<s>
+h4_FO is_VBZ known_VVN to_TO be_VBI equal_JJ to_II h3_FO because_CS enthalpy_NN1 remains_VVZ constant_JJ though_CS the_AT throttling_JJ valve_NN1 (_( 1_MC1 )_) ,_, and_CC h3_FO was_VBDZ found_VVN from_II the_AT thermodynamic_JJ tables_NN2 of_IO R-134a_FO (_( 2_MC )_) ,_, using_VVG the_AT temperature_NN1 and_CC absolute_JJ pressure_NN1 at_II point_NN1 3_MC (_( Fig._NN1 1_MC1 ,_, p._NN1 2_MC )_) ._. 
+</s>
+<s>
+The_AT COP_NN1 of_IO heating_NN1 was_VBDZ calculated_VVN in_II the_AT same_DA way_NN1 as_CSA the_AT COP_NN1 of_IO cooling_VVG ;_; however_RR ,_, we_PPIS2 now_RT make_VV0 use_NN1 of_IO Eq_NN1 ._. 
+</s>
+<s>
+2_MC instead_II21 of_II22 Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 ._. 
+</s>
+<s>
+h2_FO is_VBZ the_AT enthalpy_NN1 at_II point_NN1 2_MC ,_, and_CC h3_FO is_VBZ the_AT enthalpy_NN1 at_II point_NN1 3_MC (_( Fig._NN1 1_MC1 ,_, p._NN1 2_MC )_) ._. 
+</s>
+<s>
+For_IF the_AT frequency_NN1 of_IO 30Hz_FO ,_, however_RR ,_, the_AT COP_NN1 of_IO heating_NN1 had_VHD to_TO be_VBI computed_VVN in_II a_AT1 different_JJ way_NN1 ,_, due_II21 to_II22 a_AT1 malfunction_NN1 of_IO the_AT thermocouple_NN1 that_CST measured_VVD T2_FO ._. 
+</s>
+<s>
+The_AT thermocouple_NN1 recorded_VVD the_AT temperature_NN1 of_IO point_NN1 2_MC (_( at_II 30Hz_FO )_) to_TO be_VBI too_RG low_JJ (_( the_AT temperature_NN1 was_VBDZ clearly_RR incorrect_JJ because_CS the_AT fluid_NN1 must_VM be_VBI a_AT1 super-heated_JJ vapor_NN1 at_II this_DD1 point_NN1 ,_, but_CCB the_AT recorded_JJ temperature_NN1 tells_VVZ us_PPIO2 that_CST it_PPH1 is_VBZ a_AT1 saturated_JJ liquid_NN1 )_) ._. 
+</s>
+<s>
+Therefore_RR ,_, we_PPIS2 instead_RR assumed_VVD that_CST the_AT entropy_NN1 ,_, s_ZZ1 ,_, remained_VVD constant_JJ from_II point_NN1 1_MC1 to_II 2_MC (_( Fig._NN1 1_MC1 ,_, p._NN1 2_MC )_) ,_, as_CSA it_PPH1 would_VM in_II an_AT1 ideal_JJ cycle_NN1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT found_VVD h2_FO using_VVG the_AT thermodynamic_JJ tables_NN2 of_IO R-134a_FO given_VVN this_DD1 constant_JJ entropy_NN1 ,_, s_ZZ1 ,_, and_CC pressure_NN1 ,_, P_ZZ1 (_( 2_MC )_) ._. 
+</s>
+<s>
+This_DD1 h2_FO value_NN1 was_VBDZ then_RT used_VVN in_II Eq_NN1 ._. 
+</s>
+<s>
+2_MC to_TO give_VVI the_AT COP_NN1 of_IO heating_NN1 value_NN1 found_VVN in_II Table_NN1 3_MC ,_, p._NN1 2_MC ._. 
+</s>
+<s>
+The_AT uncertainties_NN2 in_II the_AT COP_NN1 values_NN2 are_VBR due_JJ primarily_RR to_II the_AT precision_NN1 errors_NN2 in_RP ,_, ,_, h2_FO ,_, h3_FO ,_, and_CC ._. 
+</s>
+<s>
+The_AT temperature-entropy_JJ diagrams_NN2 for_IF the_AT compressor_NN1 frequencies_NN2 of_IO 30Hz_FO ,_, 45Hz_FO ,_, and_CC 59Hz_FO were_VBDR plotted_VVN ,_, and_CC can_VM be_VBI seen_VVN ,_, respectively_RR ,_, in_II Fig._NN1 3_MC through_II Fig._NN1 5_MC ._. 
+</s>
+<s>
+Each_DD1 diagram_NN1 ,_, labeled_VVD with_IW the_AT 4_MC points_NN2 of_IO Fig._NN1 1_MC1 (_( p.2_FO )_) ,_, shows_VVZ the_AT expected_JJ trend_NN1 for_IF a_AT1 vapor-compression_JJ cycle_NN1 ,_, where_CS point_NN1 1_MC1 is_VBZ a_AT1 saturated_JJ vapor_NN1 ,_, point_NN1 2_MC is_VBZ a_AT1 super-heated_JJ vapor_NN1 ,_, point_NN1 3_MC is_VBZ a_AT1 saturated_JJ liquid_NN1 ,_, and_CC point_NN1 4_MC is_VBZ a_AT1 saturated_JJ mixture_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+To_TO plot_VVI the_AT thermodynamic_JJ cycle_NN1 ,_, we_PPIS2 had_VHD to_TO find_VVI the_AT entropy_NN1 values_NN2 for_IF points_NN2 1-4_MCMC (_( Fig._NN1 1_MC1 ,_, p._NN1 2_MC )_) ._. 
+</s>
+<s>
+This_DD1 was_VBDZ done_VDN by_II using_VVG the_AT R-143a_FO thermodynamic_JJ tables_NN2 to_TO find_VVI si_FW (_( entropy_NN1 at_II point_NN1 i_ZZ1 )_) ,_, using_VVG Ti_JJ and_CC Pi_NN1 at_II points_NN2 1-3_MCMC and_CC using_VVG T4_FO and_CC h4_FO to_TO find_VVI s4_FO (_( 2_MC )_) ._. 
+</s>
+<s>
+This_DD1 was_VBDZ done_VDN for_IF the_AT compressor_NN1 frequencies_NN2 of_IO 30Hz_FO ,_, 45Hz_FO ,_, and_CC 59Hz_FO (_( Fig._NN1 3-5_MCMC )_) ._. 
+</s>
+<s>
+However_RR ,_, for_IF the_AT frequency_NN1 of_IO 30Hz_FO (_( as_CSA mentioned_VVN in_II the_AT previous_JJ section_NN1 )_) we_PPIS2 found_VVD that_DD1 point_NN1 2_MC was_VBDZ not_XX a_AT1 super-heated_JJ vapor_NN1 as_CSA it_PPH1 should_VM be_VBI for_IF a_AT1 VCC_NP1 ,_, but_CCB rather_RG a_AT1 saturated_JJ liquid_NN1 ;_; we_PPIS2 attribute_VV0 this_DD1 discrepancy_NN1 to_II a_AT1 malfunctioning_JJ thermocouple_NN1 that_CST recorded_VVD the_AT temperature_NN1 to_TO be_VBI too_RG low_JJ ._. 
+</s>
+<s>
+Instead_II21 of_II22 using_VVG this_DD1 point_NN1 ,_, which_DDQ is_VBZ clearly_RR inaccurate_JJ ,_, we_PPIS2 assumed_VVD that_CST the_AT entropy_NN1 ,_, s_ZZ1 ,_, remained_VVD constant_JJ from_II point_NN1 1_MC1 to_II 2_MC ,_, as_CSA it_PPH1 would_VM in_II an_AT1 ideal_JJ cycle_NN1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT found_VVD the_AT temperature_NN1 using_VVG the_AT thermodynamic_JJ tables_NN2 of_IO R-134a_FO given_VVN this_DD1 constant_JJ entropy_NN1 ,_, s_ZZ1 ,_, and_CC pressure_NN1 ,_, P_ZZ1 (_( 2_MC )_) ._. 
+</s>
+<s>
+This_DD1 new_JJ point_NN1 is_VBZ shown_VVN in_II Fig._NN1 3_MC as_CSA point_NN1 2'_FO ._. 
+</s>
+<s>
+In_II the_AT temperature-entropy_JJ diagrams_NN2 (_( Fig._NN1 3-5_MCMC )_) ,_, the_AT uncertainty_NN1 in_II the_AT temperature_NN1 arises_VVZ primarily_RR from_II precision_NN1 error_NN1 ,_, and_CC the_AT uncertainty_NN1 in_II the_AT entropy_NN1 is_VBZ due_JJ primarily_RR to_II the_AT precision_NN1 errors_NN2 in_II the_AT temperature_NN1 and_CC pressure_NN1 ._. 
+</s>
+<s>
+The_AT cycles_NN2 of_IO the_AT VCC_NP1 cart_NN1 (_( Fig._NN1 3-5_MCMC )_) differ_VV0 slightly_RR from_II the_AT ideal_JJ vapor-compression_JJ cycle_NN1 ._. 
+</s>
+<s>
+In_II an_AT1 ideal_JJ vapor-compression_JJ cycle_NN1 ,_, pressure_NN1 should_VM remain_VVI constant_JJ from_II point_NN1 2_MC to_II 3_MC and_CC from_II point_NN1 4_MC to_II 1_MC1 ,_, and_CC the_AT entropy_NN1 should_VM remain_VVI constant_JJ from_II point_NN1 1_MC1 to_II 2_MC ._. 
+</s>
+<s>
+Because_CS these_DD2 values_NN2 are_VBR not_XX held_VVN constant_JJ between_II said_JJ points_NN2 ,_, we_PPIS2 can_VM conclude_VVI that_CST the_AT processes_NN2 of_IO compression_NN1 (_( 1_MC1 to_II 2_MC )_) ,_, heat_NN1 rejection_NN1 (_( 2_MC to_II 3_MC )_) ,_, and_CC heat_NN1 addition_NN1 (_( 3_MC to_II 4_MC )_) are_VBR not_XX reversible_JJ ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_II21 of_II22 energy_NN1 losses_NN2 due_II21 to_II22 friction_NN1 and_CC unwanted_JJ heat_NN1 transfer_NN1 ;_; for_REX21 example_REX22 ,_, the_AT pipes_NN2 were_VBDR not_XX perfectly_RR insulated_VVN and_CC inevitably_RR exchanged_VVN heat_NN1 with_IW the_AT ambient_NN1 ._. 
+</s>
+<s>
+When_CS determining_VVG the_AT unit_NN1 's_GE ability_NN1 to_TO heat_VVI and_CC cool_JJ efficiently_RR ,_, it_PPH1 is_VBZ also_RR important_JJ to_TO consider_VVI the_AT cooling_NN1 and_CC heating_NN1 capacities_NN2 of_IO the_AT VCC_NP1 system_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 calculated_VVN the_AT cooling_JJ capacity_NN1 ,_, ,_, and_CC the_AT heating_NN1 capacity_NN1 ,_, ,_, for_IF the_AT three_MC compressor_NN1 frequencies_NN2 using_VVG Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 and_CC Eq_NN1 ._. 
+</s>
+<s>
+2_MC (_( p._NNU 3_MC )_) and_CC we_PPIS2 can_VM see_VVI that_CST both_DB2 the_AT cooling_JJ capacity_NN1 and_CC the_AT heating_NN1 capacity_NN1 increase_NN1 as_II the_AT compressor_NN1 frequency_NN1 increases_NN2 (_( Table_NN1 3_MC )_) ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST a_AT1 higher_JJR frequency_NN1 will_VM be_VBI able_JK to_TO pump_VVI more_DAR heat_NN1 into_II a_AT1 room_NN1 in_II a_AT1 certain_JJ amount_NN1 of_IO time_NNT1 than_CSN a_AT1 lower_JJR frequency_NN1 will_VM be_VBI able_JK to_TO ._. 
+</s>
+<s>
+The_AT cooling_NN1 and_CC heating_NN1 capacities_NN2 are_VBR important_JJ to_TO consider_VVI for_IF a_AT1 VCC_NP1 system_NN1 ,_, because_CS even_CS21 if_CS22 the_AT operating_NN1 characteristics_NN2 of_IO the_AT system_NN1 yield_VV0 a_AT1 large_JJ COP_NN1 ,_, the_AT unit_NN1 still_JJ wo_FU n't_XX be_VBI efficient_JJ unless_CS the_AT cooling_NN1 or_CC heating_NN1 capacity_NN1 is_VBZ appropriate_JJ for_IF the_AT type_NN1 and_CC amount_NN1 of_IO space_NN1 to_TO be_VBI heated_VVN or_CC cooled_VVD ._. 
+</s>
+<s>
+If_CS the_AT cooling/heating_NN1 capacity_NN1 is_VBZ too_RG small_JJ ,_, the_AT system_NN1 will_VM not_XX cool/heat_VVI the_AT room_NN1 or_CC space_NN1 adequately_RR ;_; however_RR ,_, if_CS it_PPH1 is_VBZ too_RG large_JJ ,_, the_AT system_NN1 will_VM turn_VVI on_RP and_CC off_RP too_RG often_RR causing_VVG the_AT efficiency_NN1 of_IO the_AT unit_NN1 to_TO decrease_VVI and_CC energy_NN1 bill_NN1 to_TO increase_VVI ._. 
+</s>
+<s>
+Therefore_RR ,_, we_PPIS2 suggest_VV0 that_CST you_PPY test_VV0 your_APPGE technicians_NN2 in_II their_APPGE ability_NN1 to_TO match_VVI the_AT cooling/heating_NN1 capacity_NN1 with_IW the_AT necessary_JJ factors_NN2 ,_, for_REX21 example_REX22 ,_, the_AT size_NN1 of_IO room_NN1 to_TO be_VBI cooled_VVN or_CC heated_JJ ,_, the_AT number_NN1 of_IO windows_NN2 ,_, and_CC the_AT number_NN1 of_IO people_NN typically_RR inside_II room_NN1 ._. 
+</s>
+<s>
+Through_II our_APPGE analysis_NN1 of_IO the_AT VCC_NP1 cart_NN1 that_CST you_PPY provided_VVD us_PPIO2 with_IW ,_, we_PPIS2 have_VH0 concluded_VVN that_CST the_AT test_NN1 you_PPY give_VV0 your_APPGE technicians_NN2 is_VBZ fair_JJ ,_, and_CC the_AT complaints_NN2 that_CST you_PPY have_VH0 received_VVN were_VBDR unfounded_JJ ._. 
+</s>
+<s>
+With_IW all_DB uncertainties_NN2 accounted_VVN for_IF ,_, each_DD1 frequency_NN1 gives_VVZ a_AT1 unique_JJ thermodynamic_JJ cycle_NN1 with_IW a_AT1 distinct_JJ COP_NN1 ._. 
+</s>
+<s>
+Our_APPGE analysis_NN1 shows_VVZ that_CST both_DB2 the_AT COP_NN1 of_IO cooling_VVG and_CC the_AT COP_NN1 of_IO heating_NN1 decrease_NN1 with_IW increasing_JJ compressor_NN1 frequency_NN1 (_( see_VV0 Table_NN1 1_MC1 ,_, p._NN1 1_MC1 )_) ,_, which_DDQ means_VVZ that_CST less_DAR work_NN1 is_VBZ needed_VVN for_IF lower_JJR frequencies_NN2 to_TO pump_VVI a_AT1 specific_JJ amount_NN1 of_IO heat_NN1 into_II or_CC out_II21 of_II22 the_AT space_NN1 to_TO be_VBI heated_VVN or_CC cooled_JJ than_CSN would_VM be_VBI needed_VVN for_IF higher_JJR frequencies_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, we_PPIS2 have_VH0 concluded_VVN that_CST the_AT heating_NN1 and_CC cooling_VVG capacities_NN2 are_VBR key_JJ components_NN2 in_II determining_VVG the_AT unit_NN1 's_GE ability_NN1 to_TO heat_VVI or_CC cool_JJ efficiently_RR ,_, because_CS if_CS the_AT cooling/heating_NN1 capacity_NN1 is_VBZ too_RG small_JJ ,_, the_AT system_NN1 will_VM not_XX cool/heat_VVI the_AT room_NN1 or_CC space_NN1 adequately_RR ,_, but_CCB if_CS it_PPH1 is_VBZ too_RG large_JJ ,_, the_AT system_NN1 will_NN1 cycle_NN1 on_II and_CC off_RP too_RG often_RR causing_VVG the_AT efficiency_NN1 of_IO the_AT unit_NN1 to_TO decrease_VVI and_CC energy_NN1 bill_NN1 to_TO increase_VVI ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 provided_VVN you_PPY with_IW the_AT values_NN2 of_IO the_AT heating_NN1 and_CC cooling_VVG capacities_NN2 for_IF the_AT three_MC compressor_NN1 frequencies_NN2 of_IO 30Hz_FO ,_, 45Hz_FO ,_, and_CC 59Hz_FO in_II Table_NN1 1_MC1 (_( p.1_FO )_) ,_, and_CC have_VH0 found_VVN that_CST both_DB2 the_AT heating_NN1 and_CC cooling_VVG capacity_NN1 increase_NN1 with_IW increasing_JJ frequency_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST a_AT1 higher_JJR frequency_NN1 will_VM be_VBI able_JK to_TO put_VVI more_DAR heat_NN1 into_II or_CC take_VV0 more_DAR heat_NN1 out_II21 of_II22 a_AT1 space_NN1 than_CSN a_AT1 lower_JJR frequency_NN1 will_NN1 in_II the_AT same_DA amount_NN1 of_IO time_NNT1 ._. 
+</s>
+<s>
+We_PPIS2 recommend_VV0 that_CST you_PPY test_VV0 your_APPGE technicians_NN2 not_XX only_RR their_APPGE ability_NN1 to_TO tune_VVI the_AT cart_NN1 to_TO give_VVI a_AT1 good_JJ value_NN1 of_IO COP_NN1 ,_, but_CCB also_RR on_II their_APPGE ability_NN1 to_TO choose_VVI a_AT1 good_JJ value_NN1 of_IO the_AT cooling_NN1 or_CC heating_NN1 capacity_NN1 ,_, based_VVN on_II what_DDQ type_NN1 of_IO space_NN1 is_VBZ to_TO be_VBI heated_VVN or_CC cooled_VVD ._. 
+</s>
+<s>
+This_DD1 will_VM give_VVI your_APPGE technicians_NN2 the_AT knowledge_NN1 to_TO help_VVI their_APPGE clients_NN2 save_VV0 on_II energy_NN1 costs_NN2 ._. 
+</s>

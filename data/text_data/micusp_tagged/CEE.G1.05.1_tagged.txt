@@ -1,0 +1,777 @@
+<s>
+The_AT structural_JJ engineering_NN1 field_NN1 is_VBZ always_RR pushing_VVG to_TO improve_VVI the_AT efficiency_NN1 and_CC reliability_NN1 of_IO structural_JJ design_NN1 ._. 
+</s>
+<s>
+Building_NN1 owners_NN2 have_VH0 long_RR demanded_VVN more_RGR economic_JJ structures_NN2 ._. 
+</s>
+<s>
+If_CS structural_JJ engineers_NN2 couple_VV0 these_DD2 factors_NN2 with_IW the_AT drive_NN1 for_IF taller_JJR and_CC taller_JJR buildings_NN2 and_CC an_AT1 improved_JJ understanding_NN1 of_IO structural_JJ design_NN1 they_PPHS2 will_VM likely_RR find_VVI the_AT use_NN1 of_IO composite_JJ construction_NN1 ._. 
+</s>
+<s>
+More_RGR specifically_RR ,_, the_AT use_NN1 of_IO composite_JJ columns_NN2 to_TO decrease_VVI deflections_NN2 in_II moment-resisting_JJ connections_NN2 and_CC to_TO minimize_VVI lateral_JJ deflections_NN2 from_II wind_NN1 and_CC seismic_JJ loads_NN2 has_VHZ seen_VVN increased_JJ use_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+There_EX are_VBR two_MC types_NN2 of_IO columns_NN2 that_CST are_VBR frequently_RR used_VVN ,_, encased_VVD composite_JJ columns_NN2 (_( SRC_NP1 )_) and_CC filled_VVD composite_JJ columns_NN2 (_( CFT_NP1 )_) ._. 
+</s>
+<s>
+Encased_VVN composite_JJ columns_NN2 usually_RR are_VBR built_VVN from_II structural_JJ steel_NN1 shapes_NN2 and_CC then_RT concrete_NN1 is_VBZ poured_VVN into_II forms_NN2 around_II the_AT steel_NN1 ,_, often_RR rebar_NN1 is_VBZ used_VVN for_IF confinement_NN1 ._. 
+</s>
+<s>
+Concrete_JJ filled_JJ columns_NN2 are_VBR typically_RR made_VVN from_II pipe_NN1 or_CC tube_NN1 sections_NN2 filled_VVN with_IW concrete_NN1 ._. 
+</s>
+<s>
+Both_DB2 column_NN1 types_NN2 have_VH0 different_JJ analysis_NN1 and_CC design_NN1 consideration_NN1 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 the_AT two_MC types_NN2 of_IO columns_NN2 there_EX are_VBR several_DA2 design_NN1 methods_NN2 that_CST have_VH0 been_VBN developed_VVN which_DDQ engineers_NN2 must_VM follow_VVI ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT unified_JJ approach_NN1 to_II this_DD1 design_NN1 ._. 
+</s>
+<s>
+The_AT AISC_NN1 13th_MD Edition_NN1 ,_, the_AT ACI_NN2 318-05_MCMC ,_, and_CC the_AT EUROCODE_NN1 4_MC each_DD1 have_VH0 their_APPGE own_DA unique_JJ requirements_NN2 for_IF composite_JJ columns_NN2 each_DD1 with_IW different_JJ results_NN2 ._. 
+</s>
+<s>
+Due_II21 to_II22 this_DD1 fact_NN1 the_AT codes_NN2 have_VH0 seen_VVN many_DA2 design_NN1 updates_NN2 based_VVN on_II research_NN1 studies_NN2 to_TO improve_VVI the_AT performance_NN1 of_IO composite_JJ columns_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, there_EX are_VBR several_DA2 special_JJ concerns_NN2 that_CST must_VM be_VBI addressed_VVN including_II connections_NN2 design_NN1 and_CC seismic_JJ design_NN1 provisions_NN2 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 serves_VVZ to_TO be_VBI an_AT1 introduction_NN1 to_II composite_JJ column_NN1 design_NN1 ,_, specifically_RR introducing_VVG the_AT column_NN1 types_NN2 ,_, explaining_VVG their_APPGE design_NN1 methods_NN2 ,_, and_CC discussing_VVG special_JJ design_NN1 considerations_NN2 ._. 
+</s>
+<s>
+Composite_JJ columns_NN2 have_VH0 been_VBN made_VVN since_CS the_AT 1930_MC221 's_MC222 but_CCB it_PPH1 was_VBDZ not_XX until_CS the_AT 1960_MC221 's_MC222 when_CS Dr._NNB Fazlur_NP1 Khan_NNA proposed_VVD the_AT concept_NN1 of_IO composite_JJ frame_NN1 systems_NN2 ._. 
+</s>
+<s>
+Until_CS that_DD1 time_NNT1 ,_, concrete_JJ encased_JJ columns_NN2 had_VHD been_VBN used_VVN strictly_RR for_IF fireproofing_VVG applications_NN2 (_( 2_MC )_) ._. 
+</s>
+<s>
+According_II21 to_II22 Galamabos_NP1 ,_, composite_JJ members_NN2 gain_VV0 their_APPGE strength_NN1 though_CS the_AT mechanical_JJ interlock_NN1 ,_, friction_NN1 ,_, and_CC adhesion_NN1 between_II the_AT steel_NN1 and_CC concrete_NN1 ._. 
+</s>
+<s>
+Composite_JJ construction_NN1 is_VBZ often_RR done_VDN to_TO maximize_VVI the_AT efficiency_NN1 of_IO the_AT two_MC materials_NN2 ,_, the_AT concrete_NN1 in_II compression_NN1 and_CC steel_NN1 in_II tension_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+The_AT use_NN1 of_IO steel_NN1 is_VBZ also_RR reflected_VVN in_II increased_JJ shear_VV0 strength_NN1 of_IO the_AT beam_NN1 and_CC is_VBZ rarely_RR a_AT1 limiting_JJ condition_NN1 ._. 
+</s>
+<s>
+This_DD1 increase_NN1 in_II efficiency_NN1 can_VM be_VBI seen_VVN from_II the_AT beginnings_NN2 of_IO construction_NN1 ._. 
+</s>
+<s>
+Unlike_JJ regular_JJ reinforced_VVD concrete_JJ structures_NN2 composite_JJ columns_NN2 allow_VV0 the_AT steel_NN1 frame_NN1 to_TO be_VBI built_VVN quickly_RR ,_, then_RT other_JJ trades_NN2 can_VM follow_VVI behind_II them_PPHO2 to_TO complete_VVI construction_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ just_RR one_MC1 of_IO the_AT many_DA2 advantages_NN2 of_IO composite_JJ columns_NN2 ._. 
+</s>
+<s>
+Griffis_NP1 complied_VVD a_AT1 comprehensive_JJ list_NN1 of_IO the_AT advantages_NN2 below_RL (_( 2_MC )_) :_: There_EX are_VBR still_RR some_DD special_JJ considerations_NN2 that_CST must_VM be_VBI taken_VVN into_II account_NN1 during_II design_NN1 ._. 
+</s>
+<s>
+Column_NN1 shortening_VVG caused_VVN by_II concrete_JJ shrinkage_NN1 and_CC creep_NN1 is_VBZ often_RR hard_JJ to_TO control_VVI in_II tall_JJ buildings_NN2 ._. 
+</s>
+<s>
+Estimating_VVG the_AT amount_NN1 of_IO shortening_VVG is_VBZ not_XX a_AT1 trivial_JJ matter_NN1 ._. 
+</s>
+<s>
+The_AT shortening_NN1 for_IF shrinkage_NN1 and_CC creep_NN1 can_VM cause_VVI variation_NN1 in_II levelness_NN1 of_IO the_AT floor_NN1 slab_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR also_RR issues_VVZ with_IW congestion_NN1 effects_NN2 at_II column_NN1 to_TO beam_VVI connections_NN2 due_II21 to_II22 a_AT1 large_JJ amount_NN1 of_IO steel_NN1 situated_VVN in_II encased_JJ columns_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, special_JJ care_NN1 must_VM be_VBI taken_VVN when_CS detailing_VVG connections_NN2 in_II composite_JJ columns_NN2 (_( 2_MC )_) ._. 
+</s>
+<s>
+Still_RR ,_, composite_JJ columns_NN2 find_VV0 their_APPGE place_NN1 regularly_RR in_II many_DA2 useful_JJ applications_NN2 ._. 
+</s>
+<s>
+Concrete_JJ filled_JJ columns_NN2 utilize_VV0 a_AT1 hollow_JJ structural_JJ steel_NN1 (_( HSS_NP1 )_) or_CC pipe_NN1 and_CC tube_NN1 sections_NN2 ._. 
+</s>
+<s>
+These_DD2 columns_NN2 ,_, which_DDQ can_VM be_VBI seen_VVN detailed_JJ in_II Figure_NN1 1_MC1 (_( 4_MC )_) ,_, lend_VV0 themselves_PPX2 to_II several_DA2 applications_NN2 ._. 
+</s>
+<s>
+CFTs_NP1 often_RR act_VV0 as_II the_AT corner_NN1 columns_NN2 in_II innovative_JJ high-rise_JJ construction_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 CFTs_NP1 are_VBR often_RR used_VVN for_IF slender_JJ ,_, high_JJ story_NN1 height_NN1 ,_, columns_NN2 since_CS the_AT concrete_NN1 provides_VVZ additional_JJ stiffness_NN1 ._. 
+</s>
+<s>
+As_RR21 well_RR22 ,_, they_PPHS2 can_VM be_VBI used_VVN as_II the_AT main_JJ seismic_JJ load_NN1 resisting_VVG system_NN1 in_II seismic_JJ areas_NN2 (_( 3_MC )_) ._. 
+</s>
+<s>
+The_AT dampening_NN1 can_VM be_VBI on_II the_AT order_NN1 of_IO 1.5_MC to_II 2_MC percent_NNU in_II31 response_II32 to_II33 the_AT dynamic_JJ seismic_JJ loads_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT additional_JJ stiffness_NN1 ,_, toughness_NN1 and_CC strength_NN1 of_IO CFTs_NP1 is_VBZ extremely_RR useful_JJ when_CS the_AT structural_JJ steel_NN1 is_VBZ to_TO be_VBI exposed_VVN for_IF architectural_JJ reasons_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT enhanced_JJ strength_NN1 properties_NN2 of_IO CFTs_NP1 come_VV0 from_II the_AT composite_JJ action_NN1 of_IO the_AT steel_NN1 and_CC the_AT concrete_NN1 ._. 
+</s>
+<s>
+Mechanics_NN2 would_VM lead_VVI us_PPIO2 to_TO believe_VVI and_CC research_NN1 has_VHZ shown_VVN that_CST ,_, at_II early_JJ stages_NN2 and_CC small_JJ amounts_NN2 of_IO loading_NN1 ,_, there_EX is_VBZ no_AT apparent_JJ benefit_NN1 the_AT use_NN1 of_IO the_AT steel_NN1 tube_NN1 ._. 
+</s>
+<s>
+As_II the_AT stress_NN1 increases_VVZ the_AT larger_JJR poissons_NN2 ratio_NN1 of_IO the_AT concrete_NN1 causes_VVZ expansion_NN1 greater_JJR than_CSN the_AT steel_NN1 section_NN1 and_CC the_AT confinement_NN1 stress_NN1 from_II the_AT steel_NN1 grows_VVZ ._. 
+</s>
+<s>
+This_DD1 causes_VVZ failure_NN1 at_II much_RR higher_JJR loads_NN2 than_CSN what_DDQ would_VM be_VBI observed_VVN in_II ordinary_JJ concrete_JJ columns_NN2 (_( 5_MC )_) ._. 
+</s>
+<s>
+Concrete_JJ crushing_JJ strength_NN1 is_VBZ much_RR higher_JJR in_II triaxial_JJ compression_NN1 than_CSN the_AT typical_JJ uniaxial_JJ compression_NN1 ._. 
+</s>
+<s>
+The_AT final_JJ axial_JJ strength_NN1 is_VBZ typically_RR governed_VVN by_II the_AT thickness_NN1 of_IO the_AT steel_NN1 ,_, slenderness_NN1 ratio_NN1 ,_, eccentricity_NN1 and_CC cross_VV0 sectional_JJ shape_NN1 ._. 
+</s>
+<s>
+(_( 5_MC )_) The_AT bond_NN1 between_II the_AT steel_NN1 and_CC concrete_NN1 is_VBZ expected_VVN to_TO be_VBI low_JJ ,_, due_II21 to_II22 the_AT smooth_JJ surface_NN1 condition_NN1 of_IO the_AT steel_NN1 ._. 
+</s>
+<s>
+Hajjar_NN1 points_VVZ out_RP that_CST there_EX is_VBZ a_AT1 wide_JJ range_NN1 of_IO bond_NN1 strengths_NN2 that_CST have_VH0 been_VBN measured_VVN experimentally_RR ,_, and_CC bond_NN1 acts_VVZ differently_RR under_RG different_JJ conditions_NN2 such_II21 as_II22 flexure_NN1 and_CC pushout_NN1 (_( 6_MC )_) ._. 
+</s>
+<s>
+Some_DD studies_NN2 have_VH0 even_RR shown_VVN that_CST the_AT bond_NN1 strength_NN1 is_VBZ not_XX existent_JJ ;_; there_EX is_VBZ no_AT adhesion_NN1 between_II the_AT steel_NN1 and_CC concrete_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM actually_RR improve_VVI column_NN1 performance_NN1 ,_, mitigation_NN1 of_IO the_AT neutral_JJ axis_NN1 towards_II the_AT tension_NN1 face_NN1 of_IO the_AT concrete_JJ delaying_NN1 tension_NN1 cracking_VVG (_( 1_MC1 )_) ._. 
+</s>
+<s>
+As_RR21 well_RR22 ,_, there_EX are_VBR some_DD disadvantage_NN1 to_II CFTs_NP1 in_CS21 that_CS22 the_AT local_JJ buckling_JJ effects_NN2 of_IO the_AT steel_NN1 section_NN1 still_RR must_VM be_VBI considered_VVN and_CC fireproofing_VVG effects_NN2 of_IO the_AT concrete_NN1 are_VBR not_XX present_JJ since_CS the_AT steel_NN1 is_VBZ not_XX enceased_VVN ._. 
+</s>
+<s>
+If_CS the_AT section_NN1 is_VBZ a_AT1 large_JJ enough_RR fireproofing_VVG can_VM be_VBI handled_VVN by_II placing_VVG enough_DD reinforcement_NN1 inside_II the_AT concrete_JJ to_TO maintain_VVI the_AT required_JJ loads_NN2 ._. 
+</s>
+<s>
+Time_NNT1 dependent_JJ aspects_NN2 such_II21 as_II22 creep_NN1 and_CC shrinkage_NN1 play_VV0 an_AT1 important_JJ role_NN1 in_II the_AT design_NN1 of_IO the_AT columns_NN2 ._. 
+</s>
+<s>
+Research_NN1 has_VHZ shown_VVN that_CST creep_VV0 and_CC shrinkage_NN1 are_VBR greatly_RR reduced_VVN compared_VVN to_II plain_JJ concrete_NN1 ._. 
+</s>
+<s>
+Still_RR ,_, a_AT1 clear_JJ understating_NN1 has_VHZ not_XX been_VBN found_VVN ._. 
+</s>
+<s>
+Some_DD researchers_NN2 feel_VV0 that_DD1 creep_NN1 may_VM cause_VVI some_DD differential_JJ shortening_NN1 ,_, between_II the_AT composite_JJ column_NN1 and_CC the_AT neighboring_JJ steel_NN1 columns_NN2 ,_, and_CC shrinkage_NN1 may_VM cause_VVI initial_JJ cracking_JJ of_IO the_AT concrete_NN1 inside_II the_AT column_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+In_RR21 addition_RR22 connections_NN2 can_VM become_VVI more_RGR complicated_JJ since_CS there_EX is_VBZ now_RT a_AT1 concern_NN1 with_IW the_AT effects_NN2 of_IO confinement_NN1 ._. 
+</s>
+<s>
+Encased_VVN Composite_JJ Columns_NN2 usually_RR consist_VV0 of_IO a_AT1 rolled_JJ or_CC built-up_JJ I-section_NN1 (_( W_ZZ1 shape_NN1 )_) encased_VVD in_II concrete_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 requirement_NN1 for_IF reinforcement_NN1 at_II each_DD1 corner_NN1 for_IF improved_JJ confinement_NN1 of_IO the_AT core_NN1 as_II31 well_II32 as_II33 transverse_JJ reinforcement_NN1 for_IF shear_VV0 similar_JJ to_II reinforced_JJ concrete_JJ columns_NN2 (_( see_VV0 Figure_NN1 2_MC )_) (_( 4_MC )_) ._. 
+</s>
+<s>
+SRCs_NP1 have_VH0 many_DA2 applications_NN2 and_CC have_VH0 been_VBN more_RGR widely_RR used_JJ than_CSN CFTs_NP1 ._. 
+</s>
+<s>
+As_CSA discussed_VVN earlier_RRR ,_, the_AT first_MD application_NN1 for_IF composite_JJ columns_NN2 was_VBDZ in_II the_AT use_NN1 of_IO fire_NN1 protection_NN1 ._. 
+</s>
+<s>
+Now_RT ,_, using_VVG composite_JJ columns_NN2 for_IF fire_NN1 protection_NN1 in_II crucial_JJ areas_NN2 is_VBZ just_RR one_MC1 of_IO the_AT many_DA2 uses_NN2 (_( 3_MC )_) ._. 
+</s>
+<s>
+Encased_VVN composite_JJ columns_NN2 are_VBR used_VVN in_II multistory_JJ buildings_NN2 to_TO support_VVI axially_RR loaded_JJ members_NN2 ._. 
+</s>
+<s>
+Often_RR in_II these_DD2 cases_NN2 the_AT steel_NN1 in_II column_NN1 is_VBZ designed_VVN to_TO carry_VVI a_AT1 certain_JJ construction_NN1 load_NN1 so_CS that_DD1 frame_NN1 may_VM be_VBI assembled_VVN more_RGR quickly_RR and_CC efficiently_RR (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Commonly_RR ,_, SRCs_NP1 can_VM be_VBI used_VVN in_II situations_NN2 where_RRQ the_AT amount_NN1 of_IO steel_NN1 reinforcement_NN1 for_IF a_AT1 specific_JJ cross_NN1 section_NN1 would_VM exceed_VVI that_CST permitted_VVD by_II the_AT code_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+More_RGR often_RR it_PPH1 is_VBZ common_JJ to_TO use_VVI encased_JJ composite_JJ columns_NN2 as_II part_NN1 of_IO a_AT1 lateral_JJ force_NN1 resisting_VVG system_NN1 in_II a_AT1 composite_JJ frame_NN1 system_NN1 of_IO tall_JJ buildings_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT increased_JJ stiffness_NN1 that_CST is_VBZ created_VVN when_CS using_VVG steel_NN1 encasement_NN1 attributes_VVZ to_II higher_JJR lateral_JJ stiffness_NN1 and_CC thus_RR lowers_VVZ the_AT lateral_JJ deflection_NN1 of_IO the_AT building_NN1 ._. 
+</s>
+<s>
+A_AT1 common_JJ use_NN1 of_IO this_DD1 column_NN1 type_NN1 in_II tall_JJ buildings_NN2 can_VM be_VBI found_VVN in_II the_AT use_NN1 of_IO partial_JJ tube_NN1 structures_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT lateral_JJ stiffness_NN1 of_IO these_DD2 buildings_NN2 is_VBZ provided_VVN by_II deep_JJ spandrel_NN1 beams_NN2 and_CC large_JJ columns_NN2 around_II a_AT1 building_NN1 perimeter_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+Another_DD1 important_JJ use_NN1 of_IO encased_JJ composite_JJ columns_NN2 is_VBZ called_VVN a_AT1 transition_NN1 column_NN1 ._. 
+</s>
+<s>
+This_DD1 type_NN1 of_IO column_NN1 becomes_VVZ very_RG useful_JJ when_CS there_EX is_VBZ a_AT1 transition_NN1 from_II concrete_NN1 to_II steel_NN1 construction_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ most_RGT commonly_RR seen_VVN for_IF a_AT1 steel_NN1 office_NN1 building_NN1 atop_II a_AT1 concrete_JJ parking_NN1 garage_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT stiffness_NN1 of_IO encased_JJ composite_JJ columns_NN2 is_VBZ controlled_VVN by_II the_AT concrete_JJ encasement_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST before_II cracking_VVG the_AT contribution_NN1 from_II the_AT stiffness_NN1 of_IO the_AT steel_NN1 is_VBZ ignored_VVN (_( 1_MC1 )_) ._. 
+</s>
+<s>
+After_CS some_DD time_NNT1 and_CC load_VV0 due_JJ to_TO creep_VVI and_CC flexure_NN1 ,_, cracking_VVG can_VM occur_VVI which_DDQ causes_VVZ a_AT1 decrease_NN1 in_II the_AT stiffness_NN1 of_IO the_AT concrete_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, the_AT addition_NN1 of_IO the_AT stiffness_NN1 of_IO the_AT steel_NN1 can_VM be_VBI added_VVN (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Increased_JJ stiffness_NN1 attributes_VVZ to_II the_AT common_JJ use_NN1 of_IO this_DD1 type_NN1 of_IO column_NN1 in_II the_AT main_JJ seismic_JJ load_NN1 resisting_VVG system_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+There_EX are_VBR some_DD disadvantages_NN2 to_II the_AT use_NN1 of_IO SRCs_NP1 ._. 
+</s>
+<s>
+Like_II CFTs_NP1 the_AT same_DA issues_NN2 arise_VV0 from_II creep_NN1 and_CC shrinkage_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, bond_VV0 between_II the_AT steel_NN1 and_CC concrete_NN1 can_VM play_VVI a_AT1 role_NN1 in_II the_AT strength_NN1 of_IO the_AT column_NN1 ._. 
+</s>
+<s>
+Earlier_RRR it_PPH1 was_VBDZ discussed_VVN that_CST there_EX was_VBDZ little_RR actual_JJ bond_NN1 between_II concrete_NN1 and_CC the_AT filled_JJ tube_NN1 or_CC pipe_NN1 ._. 
+</s>
+<s>
+Other_JJ studies_NN2 have_VH0 shown_VVN that_DD1 coefficient_NN1 of_IO sliding_JJ friction_NN1 can_VM be_VBI up_RG21 to_RG22 0.5_MC for_IF steel_NN1 and_CC concrete_NN1 (_( 1_MC1 )_) indicating_VVG there_EX is_VBZ a_AT1 strong_JJ bond_NN1 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO encased_JJ columns_NN2 there_EX are_VBR two_MC ways_NN2 to_TO ensure_VVI bonding_NN1 ._. 
+</s>
+<s>
+First_MD ,_, ensuring_VVG that_CST the_AT bond_NN1 between_II the_AT concrete_NN1 and_CC is_VBZ an_AT1 issue_NN1 of_IO maintaining_VVG the_AT encasement_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ accomplished_VVN using_VVG reinforcement_NN1 in_II the_AT concrete_NN1 around_II the_AT steel_NN1 shape_NN1 ._. 
+</s>
+<s>
+Ties_NN2 help_VV0 hold_VVI this_DD1 section_NN1 together_RL and_CC are_VBR a_AT1 contributing_JJ factor_NN1 to_II the_AT transverse_NN1 shear_VV0 strength_NN1 (_( see_VV0 Figure_NN1 2_MC )_) (_( 1_MC1 )_) ._. 
+</s>
+<s>
+In_RR21 addition_RR22 headed_VVN shear_VV0 studs_NN2 ,_, channel_NN1 or_CC angels_NN2 can_VM be_VBI welded_VVN to_II the_AT steel_NN1 shape_NN1 to_TO improve_VVI bonding_NN1 in_II (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT AISC_NN1 Design_NN1 Guide_NN1 6_MC shows_VVZ a_AT1 detail_NN1 in_II Figure_NN1 3_MC ._. 
+</s>
+<s>
+Improvement_NN1 of_IO the_AT bond_NN1 also_RR becomes_VVZ important_JJ when_CS either_RR the_AT steel_NN1 or_CC concrete_NN1 is_VBZ externally_RR loaded_VVN since_CS one_MC1 material_NN1 will_VM have_VHI to_TO transfer_VVI load_NN1 to_II the_AT other_JJ material_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, composite_JJ columns_NN2 face_VV0 difficulties_NN2 in_II connections_NN2 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT large_JJ amount_NN1 of_IO steel_NN1 in_II the_AT concrete_NN1 ,_, there_EX is_VBZ congestion_NN1 making_VVG connection_NN1 construction_NN1 more_RGR difficult_JJ ._. 
+</s>
+<s>
+The_AT 13th_MD Edition_NN1 of_IO the_AT AISC_NN1 Specification_NN1 has_VHZ had_VHN many_DA2 changes_NN2 and_CC Chapter_NN1 I_PPIS1 the_AT design_NN1 of_IO composite_JJ members_NN2 is_VBZ no_AT exception_NN1 ._. 
+</s>
+<s>
+Leon_NP1 ,_, Kim_NP1 and_CC Hajjar_NP1 state_VV0 that_CST ,_, "_" The_AT 2005_MC AISC_NP1 Specification_NN1 presents_VVZ a_AT1 completely_RR new_JJ approach_NN1 for_IF the_AT design_NN1 of_IO composite_JJ columns_NN2 within_II the_AT context_NN1 of_IO the_AT U.S._NP1 load_NN1 and_CC resistance_NN1 factor_NN1 design_NN1 "_" (_( 7_MC )_) ._. 
+</s>
+<s>
+This_DD1 includes_VVZ major_JJ changes_NN2 to_II the_AT design_NN1 of_IO composite_JJ columns_NN2 including_II :_: new_JJ cross_NN1 sectional_JJ strength_NN1 models_NN2 ,_, provisions_NN2 for_IF tension_NN1 and_CC shear_VV0 design_NN1 ,_, and_CC liberalized_JJ slenderness_NN1 limits_VVZ for_IF the_AT design_NN1 of_IO HSS_NP1 sections_NN2 (_( 8_MC )_) ._. 
+</s>
+<s>
+There_EX are_VBR now_RT two_MC distinct_JJ sections_NN2 for_IF the_AT design_NN1 of_IO encased_JJ and_CC filled_VVD composite_JJ columns_NN2 ._. 
+</s>
+<s>
+Attempts_NN2 have_VH0 been_VBN made_VVN to_TO minimize_VVI conflict_NN1 between_II the_AT ACI_JJ code_NN1 and_CC the_AT AISC_NN1 Specification_NN1 ._. 
+</s>
+<s>
+AISC_NP1 has_VHZ left_VVN the_AT responsibility_NN1 of_IO material_NN1 specification_NN1 ,_, anchorage_NN1 and_CC other_JJ concrete_JJ provisions_NN2 to_II ACI_NP1 (_( 8_MC )_) ._. 
+</s>
+<s>
+For_IF the_AT design_NN1 of_IO composite_JJ columns_NN2 in_II flexure_NN1 ,_, AISC_NP1 allows_VVZ two_MC different_JJ methods_NN2 and_CC allows_VVZ one_MC1 simplified_JJ method_NN1 to_TO determine_VVI the_AT strength_NN1 of_IO the_AT beam-column_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT major_JJ steps_NN2 in_II minimizing_VVG the_AT conflict_NN1 between_II AISC_NP1 and_CC ACI_NN1 is_VBZ the_AT removal_NN1 of_IO a_AT1 provision_NN1 that_CST requires_VVZ at_RR21 least_RR22 4%_NNU of_IO the_AT core_NN1 of_IO an_AT1 encased_JJ column_NN1 be_VBI steel_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+While_CS detailing_VVG procedures_NN2 are_VBR still_RR dictated_VVN by_II ACI_NP1 ,_, composite_JJ columns_NN2 must_VM meet_VVI the_AT following_JJ criteria_NN2 that_CST Leon_NP1 and_CC Griffis_NP1 have_VH0 drawn_VVN to_II attention_NN1 (_( 4_MC )_) :_: For_IF CFTs_NP1 the_AT check_NN1 for_IF local_JJ buckling_NN1 in_II composite_JJ columns_NN2 is_VBZ much_RR less_RGR demanding_JJ than_CSN for_IF non-composite_JJ columns_NN2 ._. 
+</s>
+<s>
+The_AT width-to-thickness_JJ ratios_NN2 are_VBR giving_VVG in_II Table_NN1 1_MC1 ._. 
+</s>
+<s>
+These_DD2 values_NN2 have_VH0 been_VBN liberalized_VVN compared_VVN to_II previous_JJ editions_NN2 of_IO the_AT AISC_NN1 Specification_NN1 by_II 40%_NNU for_IF Circular_JJ CFT_NP1 and_CC 30%_NNU for_IF Rectangular_JJ CFT_NP1 from_II the_AT previous_JJ edition_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+Circular_JJ CFT_NP1 allows_VVZ for_IF more_DAR post_NN1 buckling_VVG redistribution_NN1 of_IO force_NN1 and_CC thus_RR they_PPHS2 receive_VV0 a_AT1 less_RGR demanding_JJ requirement_NN1 (_( 8_MC )_) ._. 
+</s>
+<s>
+The_AT design_NN1 of_IO composite_JJ columns_NN2 is_VBZ outlined_VVN by_II this_DD1 procedure_NN1 ._. 
+</s>
+<s>
+First_MD the_AT required_JJ strength_NN1 must_VM be_VBI determined_VVN by_II a_AT1 second-order_JJ analysis_NN1 (_( AISC_NP1 Chapter_NN1 C_ZZ1 )_) or_CC an_AT1 approximate_JJ second_MD order_NN1 analysis_NN1 (_( 4_MC )_) ,_, such_II21 as_II22 magnified_JJ moment_NN1 method_NN1 ._. 
+</s>
+<s>
+The_AT nominal_JJ strength_NN1 of_IO the_AT of_IO the_AT section_NN1 must_VM then_RT be_VBI determined_VVN using_VVG the_AT simplified_JJ method_NN1 ,_, plastic_NN1 distribution_NN1 method_NN1 or_CC strain_VV0 compatibility_NN1 approach_NN1 ._. 
+</s>
+<s>
+The_AT slenderness_NN1 effects_NN2 are_VBR accounted_VVN for_IF in_II the_AT same_DA way_NN1 as_CSA axially_RR loaded_JJ steel_NN1 columns_NN2 (_( 4_MC )_) ._. 
+</s>
+<s>
+Shear_VV0 strength_NN1 of_IO the_AT columns_NN2 should_VM be_VBI taken_VVN as_II the_AT shear_VV0 strength_NN1 of_IO the_AT steel_NN1 column_NN1 and_CC reinforcement_NN1 of_IO or_CC the_AT concrete_JJ section_NN1 alone_RR (_( 8_MC )_) ._. 
+</s>
+<s>
+If_CS the_AT bond_NN1 between_II the_AT concrete_NN1 and_CC steel_NN1 is_VBZ of_IO concern_NN1 (_( if_CS the_AT external_JJ force_NN1 is_VBZ applied_VVN directly_RR to_II the_AT steel_NN1 or_CC concrete_NN1 )_) the_AT use_NN1 of_IO shear_VV0 stud_NN1 connectors_NN2 to_TO improve_VVI bond_NN1 is_VBZ required_VVN ._. 
+</s>
+<s>
+The_AT design_NN1 process_NN1 for_IF axial_JJ load_NN1 only_JJ columns_NN2 is_VBZ detailed_JJ as_CSA follows_VVZ and_CC can_VM be_VBI seen_VVN in_II the_AT Appendices_NN2 A_ZZ1 and_CC B._NP1 All_DB equations_NN2 are_VBR taken_VVN directly_RR from_II the_AT AISC_NN1 Specification_NN1 (_( 8_MC )_) ._. 
+</s>
+<s>
+This_DD1 calculation_NN1 accounts_VVZ for_IF the_AT slenderness_NN1 of_IO in_II finding_VVG and_CC effective_JJ EIeff_NN1 based_VVN on_II the_AT steel_NN1 and_CC concrete_JJ properties_NN2 ,_, a_AT1 C1_FO and_CC a_AT1 C3_FO factors_NN2 are_VBR used_VVN to_TO reflect_VVI the_AT cracked_JJ nature_NN1 of_IO the_AT section_NN1 when_CS the_AT stability_NN1 limit_NN1 is_VBZ reached_VVN for_IF SRCs_NP1 and_CC CFTs_NP1 respectively_RR ._. 
+</s>
+<s>
+For_IF all_DB cases_NN2 of_IO axial_JJ compressive_JJ loading_NN1 the_AT reduction_NN1 factor_NN1 is_VBZ taken_VVN as_CSA =_FO 0.75_MC ._. 
+</s>
+<s>
+For_IF encased_JJ composite_JJ columns_NN2 with_IW (_( I2-7_MC )_) For_IF filled_JJ composite_JJ columns_NN2 (_( I2-14_MC )_) where_RRQ (_( I2-15_MC )_) The_AT nominal_JJ compressive_JJ strength_NN1 can_VM then_RT be_VBI found_VVN using_VVG the_AT nominal_JJ compressive_JJ strength_NN1 ignoring_VVG length_NN1 effect_NN1 and_CC the_AT Euler_NN1 buckling_VVG strength_NN1 as_CSA follows_VVZ for_IF encased_JJ composite_JJ columns_NN2 using_VVG equations_NN2 (_( I2-2_MC I2-5_MC )_) For_IF filled_JJ composite_JJ columns_NN2 only_RR the_AT following_JJ nominal_JJ compressive_JJ axial_JJ load_NN1 changes_NN2 ._. 
+</s>
+<s>
+Where_CS C2_FO equals_VVZ 0.85_MC for_IF rectangular_JJ sections_NN2 and_CC 0.95_MC for_IF round_JJ sections_NN2 ._. 
+</s>
+<s>
+This_DD1 accounts_VVZ for_IF the_AT confinement_NN1 effects_NN2 observed_VVN by_II research_NN1 ._. 
+</s>
+<s>
+(_( I2-13_MC )_) To_TO design_VVI for_IF uplift_NN1 the_AT design_NN1 tensile_JJ strength_NN1 neglects_VVZ the_AT contribution_NN1 of_IO the_AT concrete_NN1 in_II tension_NN1 ,_, using_VVG the_AT load_NN1 reduction_NN1 factor_NN1 =_FO 0.90_MC for_IF both_RR SRCs_NP1 and_CC CFTs_NP1 (_( I2-16_MC )_) The_AT previous_JJ calculations_NN2 are_VBR a_AT1 sufficient_JJ for_IF the_AT design_NN1 of_IO and_CC axial_JJ load_NN1 only_JJ member_NN1 ._. 
+</s>
+<s>
+Since_CS commonly_RR composite_JJ columns_NN2 are_VBR utilized_VVN in_II composite_JJ frame_NN1 ,_, the_AT beam_NN1 column_NN1 must_VM resist_VVI some_DD moment_NN1 ._. 
+</s>
+<s>
+Following_VVG is_VBZ an_AT1 example_NN1 of_IO three_MC methods_NN2 to_TO calculate_VVI the_AT interaction_NN1 diagram_NN1 for_IF composite_JJ beam-columns_NN2 ._. 
+</s>
+<s>
+It_PPH1 must_VM be_VBI noted_VVN that_CST tables_NN2 exist_VV0 for_IF reference_NN1 of_IO the_AT maximum_JJ axial_JJ strength_NN1 of_IO given_JJ composite_JJ columns_NN2 in_II the_AT AISC_NN1 Manual_NN1 Part_NN1 4_MC ._. 
+</s>
+<s>
+The_AT first_MD step_NN1 in_II using_VVG the_AT plastic_NN1 distribution_NN1 method_NN1 to_TO solve_VVI the_AT rigid_JJ plastic_NN1 interaction_NN1 diagram_NN1 is_VBZ finding_VVG the_AT nominal_JJ axial_JJ strength_NN1 of_IO the_AT column_NN1 ._. 
+</s>
+<s>
+Next_MD one_PN1 must_VM find_VVI the_AT plastic_NN1 neutral_JJ axis_NN1 ._. 
+</s>
+<s>
+At_II this_DD1 location_NN1 the_AT sum_NN1 of_IO the_AT compression_NN1 forces_NN2 equals_VVZ the_AT tension_NN1 forces_NN2 ._. 
+</s>
+<s>
+For_IF SRCs_NP1 ,_, if_CS the_AT plastic_NN1 neutral_JJ axis_NN1 is_VBZ located_VVN in_II the_AT web_NN1 the_AT distance_NN1 z_ZZ1 can_VM be_VBI estimated_VVN using_VVG the_AT following_JJ equation_NN1 from_II Viest_NP1 et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+assuming_VVG 75_MC percent_NNU of_IO the_AT concrete_JJ strength_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+If_CS the_AT plastic_NN1 neutral_JJ axis_NN1 is_VBZ located_VVN in_II the_AT flange_NN1 the_AT following_JJ equation_NN1 can_VM be_VBI utilized_VVN ,_, Similarly_RR for_IF CFTs_NP1 ,_, the_AT nominal_JJ axial_JJ strength_NN1 is_VBZ found_VVN as_II the_AT first_MD point_NN1 on_II the_AT interaction_NN1 diagram_NN1 ._. 
+</s>
+<s>
+The_AT plastic_NN1 neutral_JJ axis_NN1 is_VBZ found_VVN using_VVG the_AT following_JJ equation_NN1 ,_, A_ZZ1 schematic_JJ of_IO the_AT four_MC different_JJ stress_NN1 states_VVZ that_CST can_VM be_VBI used_VVN to_TO develop_VVI the_AT interaction_NN1 diagram_NN1 and_CC the_AT state_NN1 of_IO the_AT interaction_NN1 diagram_NN1 are_VBR shown_VVN schematically_RR in_II the_AT Figure_NN1 4_MC (_( 3_MC )_) ._. 
+</s>
+<s>
+In_II Figure_NN1 4_MC case_NN1 (_( a_ZZ1 )_) represents_VVZ the_AT axial_JJ load_NN1 capacity_NN1 ,_, Point_NN1 A_ZZ1 on_II the_AT interaction_NN1 diagram_NN1 ,_, where_CS there_EX is_VBZ only_RR axial_JJ load_NN1 only_RR ._. 
+</s>
+<s>
+Case_NN1 (_( b_ZZ1 )_) represents_VVZ the_AT flexural_JJ capacity_NN1 ,_, Point_NN1 B_ZZ1 on_II the_AT interaction_NN1 diagram_NN1 where_CS there_EX is_VBZ no_AT net_JJ axial_JJ load_NN1 ._. 
+</s>
+<s>
+Case_NN1 (_( c_ZZ1 )_) shows_VVZ the_AT intermediate_JJ point_NN1 ._. 
+</s>
+<s>
+Point_VV0 C_ZZ1 has_VHZ the_AT same_DA moment_NN1 resistance_NN1 but_CCB axial_JJ resistance_NN1 is_VBZ only_RR taken_VVN in_II the_AT concrete_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, Case_NN1 (_( d_ZZ1 )_) is_VBZ the_AT balance_NN1 case_NN1 where_CS the_AT maximum_JJ moment_NN1 is_VBZ found_VVN due_II21 to_II22 the_AT neutral_JJ axis_NN1 lying_VVG in_II the_AT middle_NN1 of_IO the_AT section_NN1 ,_, forming_VVG Point_NN1 D_ZZ1 on_II the_AT interaction_NN1 diagram_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+From_II the_AT design_NN1 of_IO reinforced_JJ concrete_JJ columns_NN2 it_PPH1 is_VBZ known_VVN that_CST a_AT1 column_NN1 is_VBZ acceptable_JJ in_II design_NN1 if_CS the_AT ultimate_JJ moment_NN1 and_CC load_NN1 falls_VVZ within_RL in_II the_AT interaction_NN1 curve_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT plastic_NN1 design_NN1 method_NN1 a_AT1 rapid_JJ and_CC accurate_JJ analysis_NN1 can_VM be_VBI made_VVN ._. 
+</s>
+<s>
+Galamabos_NP1 states_VVZ that_CST most_DAT analytical_JJ studies_NN2 show_VV0 that_CST the_AT differences_NN2 between_II an_AT1 exact_JJ design_NN1 approach_NN1 and_CC the_AT simplified_JJ theory_NN1 using_VVG the_AT plastic_NN1 stress_NN1 blocks_NN2 ,_, which_DDQ are_VBR used_VVN here_RL ,_, are_VBR often_RR inconsequential_JJ (_( 3_MC )_) ._. 
+</s>
+<s>
+This_DD1 has_VHZ been_VBN shown_VVN in_II the_AT examples_NN2 in_II the_AT appendices_NN2 ._. 
+</s>
+<s>
+The_AT strain_NN1 compatibility_NN1 approach_NN1 requires_VVZ that_CST a_AT1 reasonable_JJ stress-strain_JJ model_NN1 be_VBI used_VVN to_TO calculate_VVI the_AT design_NN1 on_II the_AT columns_NN2 ._. 
+</s>
+<s>
+The_AT specification_NN1 states_VVZ that_CST there_EX most_DAT be_VBI a_AT1 linear_JJ distribution_NN1 of_IO strains_NN2 across_II the_AT section_NN1 such_CS21 that_CS22 the_AT concrete_JJ crushing_JJ strain_NN1 is_VBZ 0.003_MC (_( 8_MC )_) ._. 
+</s>
+<s>
+This_DD1 method_NN1 can_VM be_VBI used_VVN analogously_RR with_IW the_AT method_NN1 in_II the_AT ACI_JJ code_NN1 for_IF strength_NN1 of_IO columns_NN2 in_II compression_NN1 and_CC flexure_NN1 ._. 
+</s>
+<s>
+This_DD1 involves_VVZ solving_VVG for_IF an_AT1 interaction_NN1 diagram_NN1 for_IF varying_VVG linear_JJ strains_NN2 ._. 
+</s>
+<s>
+An_AT1 approach_NN1 for_IF finding_VVG interaction_NN1 diagrams_NN2 for_IF columns_NN2 under_II combined_JJ axial_JJ load_NN1 and_CC bending_VVG can_VM be_VBI found_VVN in_II most_DAT concrete_JJ design_NN1 textbooks_NN2 or_CC other_JJ design_NN1 aids_NN2 ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI reasonable_JJ in_II the_AT case_NN1 of_IO composite_JJ columns_NN2 to_TO divide_VVI the_AT steel_NN1 shape_NN1 into_II sections_NN2 to_TO develop_VVI the_AT resultant_JJ forces_NN2 ._. 
+</s>
+<s>
+This_DD1 design_NN1 procedure_NN1 is_VBZ relevant_JJ for_IF both_RR SRC_NP1 and_CC CFT_NP1 sections_NN2 ._. 
+</s>
+<s>
+An_AT1 example_NN1 of_IO the_AT design_NN1 process_NN1 can_VM be_VBI seen_VVN in_II the_AT attached_JJ appendices_NN2 ._. 
+</s>
+<s>
+The_AT 2005_MC simplified_JJ approach_NN1 gives_VVZ a_AT1 conservative_JJ estimate_NN1 of_IO the_AT composite_JJ column_NN1 strength_NN1 ._. 
+</s>
+<s>
+The_AT calculation_NN1 of_IO the_AT columns_NN2 properties_NN2 is_VBZ expedited_VVN using_VVG this_DD1 method_NN1 ._. 
+</s>
+<s>
+Chapter_NN1 H_ZZ1 and_CC the_AT Chapter_NN1 I_MC1 Commentary_NN1 outlines_NN2 this_DD1 approach_NN1 which_DDQ parallels_VVZ the_AT design_NN1 of_IO wide-flange_NN1 and_CC HSS_NP1 steel_NN1 columns_NN2 (_( 4_MC )_) ._. 
+</s>
+<s>
+This_DD1 method_NN1 consists_VVZ of_IO first_MD finding_VVG the_AT nominal_JJ axial_JJ load_NN1 and_CC then_RT the_AT nominal_JJ moment_NN1 (_( flexural_NN1 )_) capacity_NN1 of_IO the_AT composite_JJ column_NN1 ._. 
+</s>
+<s>
+From_II previous_JJ editions_NN2 of_IO the_AT specification_NN1 commentary_NN1 an_AT1 approximate_JJ formula_NN1 for_IF the_AT flexural_JJ capacity_NN1 of_IO a_AT1 composite_JJ column_NN1 is_VBZ given_VVN below_RL (_( 3_MC )_) ._. 
+</s>
+<s>
+Using_VVG the_AT appropriate_JJ load_NN1 reduction_NN1 factors_NN2 for_IF bending_VVG and_CC compression_NN1 ,_, the_AT known_JJ factored_VVD axial_JJ force_NN1 and_CC moment_NN1 and_CC the_AT nominal_JJ axial_JJ and_CC moment_NN1 capacity_NN1 of_IO the_AT columns_NN2 the_AT capacity_NN1 of_IO the_AT column_NN1 can_VM be_VBI found_VVN using_VVG the_AT following_JJ equations_NN2 (_( H1-1a_FO and_CC H1-1b_FO )_) from_II AISC_NP1 Chapter_NN1 H._NP1 Using_VVG these_DD2 equations_NN2 we_PPIS2 create_VV0 a_AT1 conservative_JJ bi-linear_JJ interaction_NN1 diagram_NN1 ._. 
+</s>
+<s>
+The_AT reason_NN1 for_IF the_AT conservative_JJ nature_NN1 of_IO the_AT of_IO this_DD1 method_NN1 is_VBZ a_AT1 deliberate_JJ result_NN1 of_IO its_APPGE simplicity_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+This_DD1 conservativeness_NN1 is_VBZ shown_VVN in_II the_AT appendices_NN2 ._. 
+</s>
+<s>
+The_AT ACI_JJ method_NN1 for_IF composite_JJ column_NN1 design_NN1 is_VBZ based_VVN on_II the_AT same_DA principals_NN2 of_IO column_NN1 design_NN1 specified_VVN in_II the_AT ACI_JJ code_NN1 ,_, although_CS special_JJ provisions_NN2 are_VBR made_VVN to_TO account_VVI for_IF the_AT stiffness_NN1 of_IO composite_JJ columns_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 strain_NN1 compatibility_NN1 method_NN1 that_CST follows_VVZ the_AT same_DA theory_NN1 as_CSA the_AT AISC_NN1 procedure_NN1 ,_, with_IW different_JJ reduction_NN1 factors_NN2 ._. 
+</s>
+<s>
+The_AT ACI_NN1 318_MC and_CC AISC_NP1 Specification_NN1 preciously_RR had_VHN large_JJ discrepancies_NN2 for_IF composite_JJ column_NN1 design_NN1 ._. 
+</s>
+<s>
+Changes_NN2 have_VH0 been_VBN made_VVN to_II the_AT most_RGT recent_JJ additions_NN2 of_IO the_AT AISC_NN1 Specification_NN1 to_TO alleviate_VVI many_DA2 of_IO these_DD2 issues_NN2 ._. 
+</s>
+<s>
+Leon_NP1 et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+notes_NN2 that_CST differences_NN2 in_II the_AT basic_JJ calculations_NN2 of_IO cross_JJ sectional_JJ strength_NN1 have_VH0 been_VBN greatly_RR reduced_VVN ._. 
+</s>
+<s>
+Now_RT the_AT method_NN1 that_CST is_VBZ specified_VVN in_II the_AT AISC_NN1 Specifaction_NN1 is_VBZ within_II the_AT requirements_NN2 of_IO ACI_NP1 318_MC ,_, especially_RR sections_NN2 10.2_MC and_CC 10.3_MC (_( 7_MC )_) ._. 
+</s>
+<s>
+ACI_NP1 and_CC AISC_NP1 have_VH0 different_JJ methods_NN2 for_IF calculation_NN1 of_IO slender_JJ columns_NN2 ._. 
+</s>
+<s>
+In_II AISC_NP1 all_DB columns_NN2 have_VH0 a_AT1 reduction_NN1 for_IF slenderness_NN1 while_CS ACI_NP1 does_VDZ not_XX always_RR account_VVI for_IF this_DD1 ._. 
+</s>
+<s>
+As_RR21 well_RR22 AISC_NP1 still_RR does_VDZ not_XX address_VVI issues_NN2 that_CST arise_VV0 from_II creep_NN1 and_CC long-term_JJ deformation_NN1 on_II the_AT column_NN1 ._. 
+</s>
+<s>
+ACI_NP1 uses_VVZ a_AT1 (_( 1+d_FO )_) in_II the_AT denominator_NN1 of_IO the_AT moment_NN1 of_IO inertia_NN1 in_II considering_VVG stability_NN1 considerations_NN2 ._. 
+</s>
+<s>
+Still_RR there_EX are_VBR some_DD flaws_NN2 with_IW this_DD1 stiffness_NN1 calculation_NN1 since_CS it_PPH1 does_VDZ not_XX account_VVI for_IF the_AT effects_NN2 of_IO extra_JJ reinforcement_NN1 ._. 
+</s>
+<s>
+One_MC1 other_JJ major_JJ discrepancy_NN1 is_VBZ that_DD1 ACI_NN1 does_VDZ not_XX allow_VVI an_AT1 increase_NN1 in_II strength_NN1 of_IO concrete_NN1 for_IF confinement_NN1 in_II circular_JJ columns_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 Leon_NP1 et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+has_VHZ developed_VVN a_AT1 table_NN1 which_DDQ summarizes_VVZ the_AT discrepancies_NN2 in_II the_AT material_NN1 detailing_VVG requirements_NN2 in_II Table_NN1 1_MC1 (_( 7_MC )_) ._. 
+</s>
+<s>
+ACI_NP1 318_MC Chapter_NN1 10_MC is_VBZ critical_JJ in_II finding_VVG the_AT nominal_JJ axial_JJ strength_NN1 of_IO a_AT1 column_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ equation_NN1 is_VBZ applied_VVN (_( 9_MC )_) ._. 
+</s>
+<s>
+Special_JJ care_NN1 must_VM be_VBI taken_VVN to_TO account_VVI for_IF the_AT different_JJ yield_NN1 strengths_NN2 of_IO steel_NN1 shape_NN1 and_CC the_AT reinforcement_NN1 ._. 
+</s>
+<s>
+In_II accounting_VVG for_IF slenderness_NN1 effects_NN2 the_AT following_JJ equations_NN2 are_VBR used_JJ ACI_NN1 requires_VVZ a_AT1 second_MD order_NN1 analysis_NN1 or_CC magnified_JJ moments_NN2 if_CS the_AT column_NN1 is_VBZ slender_JJ ._. 
+</s>
+<s>
+If_CS the_AT building_NN1 is_VBZ subject_II21 to_II22 lateral_JJ loads_NN2 in_II31 addition_II32 to_II33 axial_JJ loads_NN2 the_AT interaction_NN1 diagram_NN1 must_VM be_VBI developed_VVN using_VVG the_AT strain_NN1 compatibility_NN1 method_NN1 ._. 
+</s>
+<s>
+Again_RT ,_, almost_RR every_AT1 concrete_JJ design_NN1 textbook_NN1 has_VHZ a_AT1 procedure_NN1 to_TO develop_VVI the_AT interaction_NN1 diagram_NN1 establishing_VVG the_AT nominal_JJ strength_NN1 of_IO the_AT column_NN1 under_II combined_JJ loading_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ still_RR reasonable_JJ in_II this_DD1 case_NN1 to_TO split_VVI the_AT steel_NN1 up_RP in_II sections_NN2 as_CSA is_VBZ done_VDN in_II the_AT AISC_NN1 design_NN1 procedure_NN1 for_IF strain_NN1 compatibility_NN1 ._. 
+</s>
+<s>
+The_AT result_NN1 of_IO the_AT ACI_JJ analysis_NN1 can_VM be_VBI most_RGT closely_RR compared_VVN to_II the_AT conservative_JJ AISC_NN1 Simplified_JJ Method_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ due_II21 to_II22 the_AT smaller_JJR reduction_NN1 factors_NN2 applied_VVN to_II the_AT nominal_JJ strength_NN1 ._. 
+</s>
+<s>
+The_AT Eurocode_NN1 4_MC design_NN1 closely_RR follows_VVZ the_AT design_NN1 using_VVG proposals_NN2 made_VVN by_II Roik_NP1 and_CC Bergmann_NP1 ._. 
+</s>
+<s>
+Leon_NP1 and_CC Aho_NP1 state_VV0 that_CST this_DD1 method_NN1 is_VBZ more_RGR like_RR reinforced_VVN concrete_JJ design_NN1 ._. 
+</s>
+<s>
+Unlike_II the_AT other_JJ methods_NN2 the_AT Eurocode_NN1 uses_VVZ partial_JJ safety_NN1 ,_, which_DDQ are_VBR different_JJ for_IF steel_NN1 and_CC concrete_NN1 (_( 10_MC )_) ._. 
+</s>
+<s>
+The_AT equations_NN2 for_IF the_AT nominal_JJ axial_JJ load_NN1 can_VM be_VBI found_VVN using_VVG the_AT following_JJ equations_NN2 ,_, For_IF encased_JJ composite_JJ columns_NN2 :_: For_IF concrete_JJ filled_JJ columns_NN2 :_: In_RR21 addition_RR22 like_II AISC_NP1 ,_, Eurocode_NP1 makes_VVZ allowances_NN2 for_IF concrete_JJ confinement_NN1 in_II concrete_JJ filled_JJ columns_NN2 ._. 
+</s>
+<s>
+If_CS the_AT slenderness_NN1 of_IO the_AT concrete_JJ filled_JJ columns_NN2 is_VBZ low_RR enough_RR then_RT the_AT CFT_NP1 equation_NN1 can_VM be_VBI used_VVN ._. 
+</s>
+<s>
+If_CS slenderness_NN1 is_VBZ too_RG high_RR the_AT equation_NN1 for_IF encased_JJ columns_NN2 must_VM be_VBI used_VVN for_IF CFTs_NP1 ._. 
+</s>
+<s>
+The_AT factors_NN2 account_VV0 for_IF the_AT confinement_NN1 effects_NN2 of_IO the_AT steel_NN1 tube_NN1 ,_, which_DDQ are_VBR functions_NN2 of_IO the_AT slenderness_NN1 and_CC eccentricity_NN1 of_IO the_AT load_NN1 (_( 10_MC )_) ._. 
+</s>
+<s>
+AISC_NP1 ,_, ACI_NP1 ,_, and_CC Eurocode_VV0 all_DB allow_VV0 design_NN1 based_VVN on_II fully_RR plastic_NN1 theory_NN1 using_VVG four_MC or_CC five_MC significant_JJ points_NN2 (_( 10_MC )_) coinciding_VVG with_IW the_AT design_NN1 methods_NN2 design_VV0 methods_NN2 discussed_VVD previously_RR ._. 
+</s>
+<s>
+Finally_RR ,_, Eurocode_VV0 also_RR makes_VVZ use_NN1 of_IO reductions_NN2 to_II the_AT usable_JJ space_NN1 in_II the_AT interaction_NN1 diagram_NN1 based_VVN on_II the_AT fact_NN1 that_CST there_EX are_VBR imperfections_NN2 in_II the_AT construction_NN1 of_IO the_AT column_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ based_VVN on_II the_AT moment_NN1 distribution_NN1 of_IO a_AT1 member_NN1 and_CC can_VM be_VBI seen_VVN in_II Figure_NN1 5_MC ._. 
+</s>
+<s>
+The_AT superimposed_JJ strength_NN1 method_NN1 is_VBZ another_DD1 attempt_NN1 to_TO simplify_VVI the_AT AISC_NN1 and_CC ACI_JJ composite_JJ column_NN1 design_NN1 procedure_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 method_NN1 and_CC interaction_NN1 diagram_NN1 is_VBZ calculated_VVN for_IF the_AT reinforced_JJ concrete_JJ section_NN1 alone_RR ._. 
+</s>
+<s>
+Then_RT a_AT1 calculation_NN1 of_IO an_AT1 interaction_NN1 diagram_NN1 for_IF the_AT steel_NN1 column_NN1 is_VBZ found_VVN ._. 
+</s>
+<s>
+For_IF several_DA2 different_JJ values_NN2 of_IO the_AT eccentricity_NN1 the_AT values_NN2 can_VM be_VBI superimposed_VVN on_II one_PPX121 another_PPX122 ._. 
+</s>
+<s>
+An_AT1 approximate_JJ interaction_NN1 diagram_NN1 is_VBZ found_VVN ,_, see_VV0 Figure_NN1 6_MC ._. 
+</s>
+<s>
+These_DD2 values_NN2 can_VM often_RR be_VBI found_VVN in_II published_JJ tables_NN2 such_II21 as_II22 the_AT ACI_JJ Handbook_NN1 and_CC the_AT CRSI_JJ Handbook_NN1 making_VVG this_DD1 method_NN1 extremely_RR convenient_JJ ._. 
+</s>
+<s>
+This_DD1 design_NN1 method_NN1 often_RR provides_VVZ results_NN2 that_CST are_VBR very_RG close_JJ to_II the_AT plastic_NN1 design_NN1 method_NN1 using_VVG the_AT ACI_JJ reduction_NN1 factor_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI observed_VVN in_II Figure_NN1 7_MC ._. 
+</s>
+<s>
+The_AT method_NN1 provides_VVZ a_AT1 result_NN1 that_CST is_VBZ reasonable_JJ but_CCB often_RR conservative_JJ like_II the_AT AISC_NN1 Simplified_JJ method_NN1 ._. 
+</s>
+<s>
+El-Tawil_NP1 and_CC Deierlein_NP1 discouss_VV0 a_AT1 method_NN1 called_VVN the_AT fiber_NN1 section_NN1 analysis_NN1 for_IF determining_VVG the_AT cross_NN1 sectional_JJ strength_NN1 and_CC stiffness_NN1 of_IO composite_JJ columns_NN2 ._. 
+</s>
+<s>
+This_DD1 numerical_JJ method_NN1 removes_VVZ many_DA2 of_IO the_AT simplifying_JJ assumptions_NN2 that_CST are_VBR built_VVN into_II the_AT AISC_NN1 and_CC ACI_JJ design_NN1 methods_NN2 ._. 
+</s>
+<s>
+The_AT fiber_NN1 method_NN1 divides_VVZ the_AT cross_NN1 section_NN1 into_II many_DA2 discrete_JJ regions_NN2 with_IW constitutive_JJ relationships_NN2 based_VVN on_II uniaxial_JJ stress_NN1 strain_NN1 models_NN2 for_IF both_RR steel_NN1 and_CC concrete_NN1 (_( see_VV0 Figure_NN1 8_MC )_) ._. 
+</s>
+<s>
+This_DD1 can_VM also_RR include_VVI the_AT effects_NN2 of_IO confinement_NN1 of_IO concrete_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR still_RR some_DD assumptions_NN2 that_CST must_VM be_VBI made_VVN ,_, plane_NN1 sections_NN2 remain_VV0 plane_NN1 and_CC full_JJ compatibility_NN1 is_VBZ maintained_VVN between_II the_AT steel_NN1 and_CC the_AT concrete_NN1 (_( 11_MC )_) ._. 
+</s>
+<s>
+The_AT fiber_NN1 section_NN1 and_CC the_AT constitutive_JJ model_NN1 can_VM be_VBI seen_VVN in_II Figure_NN1 9_MC ._. 
+</s>
+<s>
+Verification_NN1 of_IO testing_NN1 shows_VVZ that_CST this_DD1 model_NN1 matches_VVZ closely_RR with_IW experimental_JJ results_NN2 and_CC the_AT strain_NN1 compatibility_NN1 method_NN1 (_( 11_MC )_) ._. 
+</s>
+<s>
+Connections_NN2 to_II composite_JJ columns_NN2 provide_VV0 some_DD challenges_NN2 that_CST are_VBR not_XX considered_VVN when_CS designing_VVG typical_JJ concrete_NN1 or_CC steel_NN1 buildings_NN2 ._. 
+</s>
+<s>
+As_CSA discussed_VVN ,_, getting_VVG the_AT required_JJ amount_NN1 of_IO reinforcement_NN1 around_II the_AT steel_NN1 column_NN1 in_II an_AT1 SRC_NP1 is_VBZ often_RR a_AT1 tedious_JJ task_NN1 ._. 
+</s>
+<s>
+Viest_NP1 et_NP1 ._. 
+</s>
+<s>
+al_NP1 explains_VVZ several_DA2 other_JJ important_JJ situations_NN2 where_RRQ especially_RR where_CS the_AT composite_JJ column_NN1 is_VBZ supporting_JJ steel_NN1 floor_NN1 framing_VVG ._. 
+</s>
+<s>
+Figure_NN1 10_MC and_CC Figure_NN1 11_MC show_VV0 typical_JJ detailing_VVG for_IF SRC_NP1 connections_NN2 for_IF steel_NN1 framing_VVG into_II the_AT column_NN1 for_IF both_RR a_AT1 simple_JJ shear_VV0 connection_NN1 and_CC a_AT1 moment_NN1 connection_NN1 in_II a_AT1 lateral_JJ force_NN1 resisting_VVG system_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT designer_NN1 should_VM be_VBI aware_JJ that_CST the_AT concrete_JJ encasement_NN1 increases_VVZ the_AT stiffness_NN1 of_IO each_DD1 connection_NN1 ._. 
+</s>
+<s>
+In_II beam_NN1 to_II column_NN1 moment_NN1 connection_NN1 SRCs_NP1 should_VM be_VBI checked_VVN for_IF two_MC basic_JJ failure_NN1 modes_NN2 ._. 
+</s>
+<s>
+Panel_NN1 shear_VV0 is_VBZ similar_JJ to_II the_AT failures_NN2 seen_VVN in_II noncomposite_NN1 sections_NN2 ._. 
+</s>
+<s>
+In_II panel_NN1 shear_VV0 failure_NN1 the_AT shear_VV0 strength_NN1 is_VBZ calculated_VVN based_VVN on_II the_AT effective_JJ width_NN1 of_IO the_AT concrete_JJ joint_JJ ._. 
+</s>
+<s>
+The_AT strength_NN1 of_IO the_AT joint_NN1 can_VM be_VBI modeled_VVN using_VVG a_AT1 strut_NN1 and_CC tie_VV0 method_NN1 (_( Figure_NN1 12_MC )_) ._. 
+</s>
+<s>
+Horizontal_JJ ties_NN2 above_RL and_CC below_II the_AT beam_NN1 are_VBR required_VVN to_TO resist_VVI tension_NN1 forces_NN2 and_CC the_AT compressive_JJ strut_NN1 thrust_NN1 ._. 
+</s>
+<s>
+The_AT effectiveness_NN1 of_IO this_DD1 mechanism_NN1 is_VBZ based_VVN on_II geometry_NN1 and_CC material_NN1 properties_NN2 ._. 
+</s>
+<s>
+The_AT other_JJ mode_NN1 of_IO failure_NN1 is_VBZ vertical_JJ bearing_NN1 failure_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ where_RRQ the_AT rigid_JJ beam_NN1 bears_NN2 against_II the_AT concrete_NN1 ._. 
+</s>
+<s>
+(_( 1_MC1 )_) ._. 
+</s>
+<s>
+These_DD2 forces_NN2 are_VBR due_II21 to_II22 the_AT combined_JJ effects_NN2 of_IO moments_NN2 and_CC shears_NN2 transferred_VVN from_II beam_NN1 to_II column_NN1 ._. 
+</s>
+<s>
+Vertical_JJ reinforcement_NN1 will_VM help_VVI mitigate_VVI bearing_VVG failure_NN1 and_CC may_VM include_VVI reinforcing_VVG bars_NN2 ,_, rods_NN2 ,_, steel_NN1 angles_NN2 or_CC other_JJ elements_NN2 directly_RR welded_VVN to_II the_AT steel_NN1 beam_NN1 ._. 
+</s>
+<s>
+Other_JJ failure_NN1 modes_NN2 such_II21 as_II22 horizontal_JJ shear_VV0 ,_, strength_NN1 of_IO steel_NN1 panels_NN2 and_CC the_AT strength_NN1 of_IO the_AT concrete_JJ encasement_NN1 must_VM be_VBI considered_VVN in_II the_AT failure_NN1 mechanism_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Therefore_RR special_JJ detailing_VVG procedure_NN1 which_DDQ must_VM be_VBI accounted_VVN for_IF when_CS designing_VVG SRC_NP1 column_NN1 connections_NN2 ._. 
+</s>
+<s>
+Horizontal_JJ ties_NN2 should_VM be_VBI provided_VVN in_II the_AT column_NN1 with_IW 90-degree_JJ hooks_NN2 to_TO engage_VVI a_AT1 longitudinal_JJ bar_NN1 or_CC by_II lap_NN1 splicing_VVG meeting_NN1 ACI_NN1 318_MC ._. 
+</s>
+<s>
+These_DD2 ties_NN2 are_VBR crucial_JJ in_II carrying_VVG the_AT forces_NN2 of_IO the_AT strut_NN1 and_CC tie_VV0 mechanism_NN1 in_II31 addition_II32 to_II33 allowing_VVG containment_NN1 of_IO the_AT concrete_NN1 ._. 
+</s>
+<s>
+There_EX should_VM be_VBI at_RR21 least_RR22 3_MC layers_NN2 of_IO horizontal_JJ reinforcement_NN1 above_RL and_CC below_II the_AT joint_JJ to_TO resist_VVI a_AT1 large_JJ enough_DD area_NN1 of_IO confinement_NN1 and_CC shear_VV0 resistance_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+In_RR21 addition_RR22 vertical_JJ bars_NN2 should_VM be_VBI included_VVN passing_VVG through_II the_AT joint_JJ ._. 
+</s>
+<s>
+Face_VV0 bearing_VVG plates_NN2 can_VM be_VBI added_VVN to_TO resist_VVI the_AT horizontal_JJ shear_VV0 in_II the_AT concrete_JJ strut_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT connection_NN1 to_II CFTs_NP1 poses_VVZ some_DD other_JJ challenges_NN2 ._. 
+</s>
+<s>
+Gusset_VV0 plates_NN2 and_CC steel_NN1 bearing_VVG plates_NN2 can_VM help_VVI accomplish_VVI the_AT task_NN1 of_IO framing_VVG steel_NN1 to_II the_AT filled_JJ composite_JJ column_NN1 ._. 
+</s>
+<s>
+The_AT vertical_JJ forces_NN2 transfers_NN2 shear_VV0 directly_RR though_CS bearing_VVG on_II the_AT steel_NN1 shell_NN1 and_CC causes_NN2 bearing_VVG on_II the_AT concrete_JJ wall_NN1 as_CSA seen_VVN in_II Figure_NN1 13_MC (_( 1_MC1 )_) ._. 
+</s>
+<s>
+One_PN1 must_VM check_VVI that_CST the_AT local_JJ transverse_JJ pressure_NN1 is_VBZ small_JJ enough_RR to_TO account_VVI for_IF bearing_VVG on_II the_AT concrete_NN1 as_CSA seen_VVN above_RL ._. 
+</s>
+<s>
+If_CS this_DD1 is_VBZ too_RG large_JJ a_AT1 shear_VV0 plate_NN1 can_VM be_VBI extended_VVN through_II the_AT column_NN1 such_CS21 that_CS22 the_AT load_NN1 will_VM be_VBI better_RRR distributed_VVN to_II the_AT concrete_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+This_DD1 often_RR works_VVZ best_RRT when_CS columns_NN2 are_VBR connecting_VVG to_II either_DD1 side_NN1 ._. 
+</s>
+<s>
+The_AT holes_NN2 develop_VV0 bearing_VVG on_II the_AT concrete_NN1 in_II the_AT columns_NN2 ._. 
+</s>
+<s>
+Still_RR ,_, the_AT design_NN1 causes_NN2 concentrated_VVD bearing_VVG on_II the_AT bottom_JJ side_NN1 of_IO the_AT plate_NN1 ._. 
+</s>
+<s>
+The_AT limit_NN1 state_NN1 of_IO the_AT concrete_NN1 bearing_VVG on_II the_AT steel_NN1 with_IW no_AT more_DAR than_CSN 65%_NNU of_IO the_AT concrete_JJ strength_NN1 allowed_VVN (_( see_VV0 Figure_NN1 14_MC )_) (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Moment_NN1 (_( rigid_JJ )_) connections_NN2 should_VM be_VBI designed_VVN in_II a_AT1 manner_NN1 like_II Figure_NN1 15_MC ._. 
+</s>
+<s>
+This_DD1 connection_NN1 makes_VVZ use_NN1 of_IO a_AT1 ring_NN1 plate_NN1 for_IF continuity_NN1 of_IO the_AT column_NN1 ._. 
+</s>
+<s>
+The_AT stresses_NN2 on_II the_AT steel_NN1 tube_NN1 must_VM be_VBI mitigated_VVN to_TO improve_VVI seismic_JJ resistance_NN1 ._. 
+</s>
+<s>
+The_AT goal_NN1 is_VBZ to_TO transfer_VVI tensile_JJ forces_NN2 to_II the_AT steel_NN1 that_CST may_VM cause_VVI separation_NN1 of_IO the_AT steel_NN1 and_CC concrete_NN1 ,_, and_CC minimize_VV0 the_AT residual_JJ stresses_NN2 from_II welding_NN1 ._. 
+</s>
+<s>
+These_DD2 factors_NN2 will_VM decrease_VVI the_AT amount_NN1 of_IO confinement_NN1 provided_VVN by_II the_AT steel_NN1 ._. 
+</s>
+<s>
+A_AT1 ring_NN1 plate_NN1 increases_VVZ the_AT stiffness_NN1 of_IO the_AT connection_NN1 across_II the_AT column_NN1 (_( 1_MC1 )_) adding_VVG stiffeners_NN2 between_II column_NN1 webs_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 two_MC other_JJ connection_NN1 types_NN2 can_VM be_VBI made_VVN ._. 
+</s>
+<s>
+A_AT1 Type_NN1 A_ZZ1 connection_NN1 is_VBZ typically_RR a_AT1 steel_NN1 T_ZZ1 shape_NN1 witch_NN1 is_VBZ embedded_VVN with_IW an_AT1 anchor_NN1 bolt_NN1 (_( Figure_NN1 16_MC )_) or_CC some_DD other_JJ mode_NN1 of_IO embedment_NN1 (_( Figure_NN1 17_MC )_) ._. 
+</s>
+<s>
+The_AT Type_NN1 B_ZZ1 connection_NN1 (_( Figure_NN1 18_MC )_) is_VBZ a_AT1 through_JJ connection_NN1 detail_NN1 ._. 
+</s>
+<s>
+This_DD1 detail_NN1 should_VM be_VBI the_AT most_RGT suitable_JJ for_IF moment_NN1 connection_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT embedment_NN1 decreases_VVZ the_AT amount_NN1 of_IO forces_NN2 that_CST load_VV0 the_AT steel_NN1 encasement_NN1 ,_, retaining_VVG confinement_NN1 ._. 
+</s>
+<s>
+To_TO survive_VVI the_AT large_JJ lateral_JJ forces_NN2 that_CST are_VBR present_JJ in_II seismic_JJ loading_NN1 special_JJ provisions_NN2 must_VM be_VBI made_VVN to_TO improve_VVI the_AT effects_NN2 caused_VVN by_II inelastic_JJ behavior_NN1 of_IO the_AT structure_NN1 ._. 
+</s>
+<s>
+These_DD2 members_NN2 must_VM have_VHI enough_DD ductility_NN1 and_CC toughness_NN1 to_TO survive_VVI the_AT cycles_NN2 of_IO seismic_JJ energy_NN1 imparted_VVD on_II the_AT column_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 Viest_NP1 et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+the_AT seismic_JJ design_NN1 of_IO a_AT1 structure_NN1 must_VM be_VBI able_JK to_TO retain_VVI strength_NN1 after_II several_DA2 load_VV0 reversals_NN2 at_II 4_MC to_II 6_MC times_NNT2 greater_JJR displacements_NN2 than_CSN what_DDQ would_VM cause_VVI yielding_JJ ._. 
+</s>
+<s>
+Composite_JJ design_NN1 has_VHZ a_AT1 high_JJ capacity_NN1 to_TO meet_VVI these_DD2 requirements_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+El-Tawil_NP1 and_CC Deierlein_NP1 ,_, state_VV0 that_CST the_AT AISC_NN1 Seismic_JJ Provisions_NN2 and_CC ACI_NP1 318_MC Chapter_NN1 21_MC both_RR have_VH0 similar_JJ requirements_NN2 using_VVG increased_JJ amounts_NN2 of_IO longitudinal_JJ and_CC transverse_JJ reinforcement_NN1 for_IF encased_JJ columns_NN2 in_II low_JJ ,_, moderate_JJ and_CC high_JJ regions_NN2 of_IO seismic_JJ activity_NN1 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO this_DD1 increased_JJ steel_NN1 is_VBZ to_TO maintain_VVI enough_DD structural_JJ integrity_NN1 to_II the_AT confined_JJ core_NN1 after_II the_AT cover_NN1 has_VHZ spalled_VVN off_RP (_( 11_MC )_) ._. 
+</s>
+<s>
+Increased_JJ transverse_JJ reinforcement_NN1 will_VM help_VVI ensure_VVI that_CST the_AT concrete_JJ core_NN1 remains_VVZ intact_JJ ._. 
+</s>
+<s>
+The_AT codes_NN2 specify_VV0 a_AT1 minimum_JJ reinforcement_NN1 equation_NN1 for_IF seismic_JJ regions_NN2 that_CST is_VBZ more_RGR stringent_JJ ._. 
+</s>
+<s>
+As_II the_AT design_NN1 of_IO composite_JJ columns_NN2 becomes_VVZ more_RGR commonplace_JJ ,_, the_AT requirement_NN1 for_IF the_AT code_NN1 makers_NN2 to_TO develop_VVI a_AT1 unified_JJ design_NN1 method_NN1 becomes_VVZ more_RGR crucial_JJ in_II providing_VVG uniformity_NN1 to_II the_AT structural_JJ engineering_NN1 community_NN1 ._. 
+</s>
+<s>
+Composite_JJ columns_NN2 can_VM come_VVI in_II many_DA2 different_JJ forms_NN2 of_IO encased_JJ steel_NN1 and_CC filled_VVD tubes_NN2 ,_, each_DD1 with_IW their_APPGE advantages_NN2 and_CC design_NN1 challenges_NN2 ._. 
+</s>
+<s>
+While_CS recent_JJ versions_NN2 of_IO the_AT AISC_NN1 Specification_NN1 and_CC research_NN1 begin_VV0 to_TO focus_VVI on_II many_DA2 of_IO these_DD2 topics_NN2 ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI the_AT goal_NN1 of_IO future_JJ code_NN1 committees_NN2 to_II further_JJR address_NN1 these_DD2 issues_NN2 to_TO ensure_VVI more_RGR accurate_JJ and_CC safer_JJR building_NN1 practices_NN2 ._. 
+</s>
+<s>
+Still_RR more_DAR research_NN1 could_VM be_VBI developed_VVN to_TO deal_VVI with_IW special_JJ topics_NN2 such_II21 as_II22 creep_NN1 ,_, shrinkage_NN1 ,_, bond_VV0 effects_NN2 ,_, connections_NN2 and_CC other_JJ issues_NN2 to_TO facilitate_VVI understanding_VVG their_APPGE effects_NN2 on_II composite_JJ column_NN1 design_NN1 ._. 
+</s>

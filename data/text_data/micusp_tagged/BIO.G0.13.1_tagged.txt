@@ -1,0 +1,315 @@
+<s>
+Malaria_NN1 is_VBZ the_AT disease_NN1 caused_VVN by_II parasitic_JJ protozoa_NN1 of_IO the_AT genus_NN1 Plasmodium_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Symptoms_NN2 of_IO malaria_NN1 usually_RR resemble_VV0 the_AT flu_NN1 ;_; however_RR ,_, in_II young_JJ children_NN2 ,_, pregnant_JJ women_NN2 ,_, and_CC immunocompromised_JJ patients_NN2 the_AT disease_NN1 may_VM lead_VVI to_II eventual_JJ death_NN1 (_( 2_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT most_RGT serious_JJ ,_, widespread_JJ parasitic_JJ disease_NN1 causing_VVG over_RP one_MC1 million_NNO deaths_NN2 annually_RR ._. 
+</s>
+<s>
+The_AT disease_NN1 is_VBZ restricted_VVN to_II tropical_JJ and_CC subtropical_JJ regions_NN2 where_RRQ the_AT insect_NN1 vectors_NN2 ,_, Anopheles_NP1 mosquitoes_NN2 ,_, are_VBR present_JJ ;_; this_DD1 encompasses_VVZ a_AT1 thick_JJ band_NN1 of_IO countries_NN2 surrounding_VVG the_AT equator_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR four_MC species_NN of_IO Plasmodium_NN1 that_CST infect_VV0 humans_NN2 ,_, including_II P._NP1 falciparum_NN1 ,_, vivax_VV0 ,_, ovale_NN1 ,_, and_CC malariae_NN2 ._. 
+</s>
+<s>
+The_AT life_NN1 cycle_NN1 includes_VVZ two_MC hosts_NN2 ,_, female_JJ Anopheles_NP1 mosquitoes_NN2 and_CC humans_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+A_AT1 human_JJ host_NN1 is_VBZ inoculated_VVN with_IW Plasmodium_NN1 sporozoites_NN2 when_RRQ an_AT1 infected_JJ mosquito_NN1 takes_VVZ a_AT1 human_JJ blood_NN1 meal_NN1 ._. 
+</s>
+<s>
+The_AT sporozoites_NN2 of_IO Plasmodium_NP1 travel_NN1 in_II the_AT blood_NN1 stream_NN1 to_II the_AT liver_NN1 where_CS they_PPHS2 infect_VV0 hepatocytes_NN2 and_CC mature_VV0 into_II schizonts_NN2 ._. 
+</s>
+<s>
+These_DD2 schizonts_NN2 rupture_VV0 after_CS about_RG six_MC days_NNT2 and_CC release_VV0 30,000-40,000_MCMC daughter_NN1 cells_NN2 called_VVN merozoites_NN2 into_II the_AT blood_NN1 stream_NN1 ._. 
+</s>
+<s>
+Erythrocytes_NN2 are_VBR then_RT invaded_VVN by_II single_JJ merozoites_NN2 ._. 
+</s>
+<s>
+In_II 48_MC hours_NNT2 the_AT organism_NN1 undergoes_VVZ asexual_JJ reproduction_NN1 and_CC produces_NN2 8-24_MCMC daughter_NN1 cells_NN2 ._. 
+</s>
+<s>
+The_AT red_JJ blood_NN1 cells_NN2 rupture_VV0 and_CC the_AT new_JJ daughter_NN1 cells_NN2 invade_VV0 more_RGR red_JJ blood_NN1 cells_NN2 ._. 
+</s>
+<s>
+The_AT clinical_JJ manifestations_NN2 of_IO Malaria_NN1 are_VBR caused_VVN by_II the_AT blood_NN1 stage_NN1 parasites_NN2 that_CST destroy_VV0 large_JJ numbers_NN2 of_IO erythrocytes_NN2 every_AT1 two_MC days_NNT2 ._. 
+</s>
+<s>
+The_AT remaining_JJ life_NN1 cycle_NN1 stages_NN2 known_VVN as_II the_AT sporogonic_JJ cycle_NN1 occur_VV0 after_II Plasmodium_NP1 gametocytes_NN2 are_VBR ingested_VVN by_II an_AT1 Anopheles_NP1 mosquito_NN1 ._. 
+</s>
+<s>
+During_II a_AT1 10-18_MCMC day_NNT1 period_NN1 ingested_VVD macrogametes_NN2 are_VBR penetrated_VVN by_II microgametes_NN2 to_TO produce_VVI zygotes_NN2 in_II the_AT stomach_NN1 of_IO the_AT mosquito_NN1 ._. 
+</s>
+<s>
+These_DD2 zygotes_NN2 penetrate_VV0 the_AT midgut_NN1 wall_NN1 of_IO the_AT mosquito_NN1 where_CS they_PPHS2 develop_VV0 into_II oocysts_NN2 ,_, which_DDQ rupture_VV0 to_TO release_VVI sporozoites_NN2 ._. 
+</s>
+<s>
+The_AT sporozoites_NN2 then_RT travel_VV0 to_II the_AT mosquito_NN1 salivary_JJ glands_NN2 where_CS they_PPHS2 can_VM infect_VVI a_AT1 new_JJ host_NN1 ._. 
+</s>
+<s>
+The_AT Anopheles_NP1 mosquitoes_NN2 remain_VV0 asymptomatic_JJ when_CS infected_VVN with_IW the_AT parasites_NN2 ;_; they_PPHS2 only_RR serve_VV0 as_CSA vectors_NN2 ._. 
+</s>
+<s>
+The_AT successful_JJ completion_NN1 of_IO the_AT sporogonic_JJ cycle_NN1 is_VBZ dependent_JJ upon_II if_CSW the_AT inoculated_JJ mosquito_NN1 survives_VVZ long_RR enough_RR for_IF the_AT Plasmodium_NN1 to_TO finish_VVI the_AT cycle_NN1 and_CC if_CS weather_NN1 conditions_NN2 are_VBR appropriate_JJ (_( hot_JJ and_CC humid_JJ )_) for_IF Plasmodium_NN1 development_NN1 ._. 
+</s>
+<s>
+In_II the_AT early_JJ 1950_MC221 's_MC222 Malaria_NN1 was_VBDZ successfully_RR eradicated_VVN from_II the_AT U.S._NP1 through_II the_AT use_NN1 of_IO DDT_NP1 ,_, chloroquine_NN1 ,_, and_CC other_JJ anti-malarial_JJ medications_NN2 and_CC insecticides_NN2 (_( 1_MC1 ,_, 4_MC )_) ._. 
+</s>
+<s>
+Efforts_NN2 were_VBDR made_VVN worldwide_RL beginning_VVG in_II 1955_MC to_TO continue_VVI to_TO reduce_VVI the_AT malarial_JJ burden_NN1 ._. 
+</s>
+<s>
+In_II western_JJ Europe_NP1 malaria_NN1 was_VBDZ declared_VVN eradicated_VVN in_II 1975_MC ._. 
+</s>
+<s>
+Due_II21 to_II22 difficulties_NN2 with_IW surveillance_NN1 in_II developing_JJ countries_NN2 the_AT malaria_NN1 eradication_NN1 project_NN1 was_VBDZ abandoned_VVN in_II 1978_MC ._. 
+</s>
+<s>
+Malaria_NN1 is_VBZ still_RR ever_RR present_VV0 worldwide_RL with_IW 41%_NNU of_IO the_AT global_JJ population_NN1 living_VVG in_II areas_NN2 where_RRQ malaria_NN1 is_VBZ endemic_JJ (_( 1_MC1 ,_, 2_MC ,_, 4_MC )_) ._. 
+</s>
+<s>
+There_EX are_VBR approximately_RR 350_MC million_NNO cases_NN2 annually_RR ,_, with_IW sub-Saharan_JJ Africa_NP1 being_VBG the_AT most_RGT heavily_RR impacted_VVD ._. 
+</s>
+<s>
+Across_II all_DB developing_JJ countries_NN2 ,_, malaria_NN1 is_VBZ the_AT cause_NN1 of_IO death_NN1 for_IF 1_MC1 out_II21 of_II22 every_AT1 10_MC children_NN2 ._. 
+</s>
+<s>
+Malaria_NN1 causes_VVZ a_AT1 total_NN1 of_IO over_II one_MC1 million_NNO deaths_NN2 annually_RR ;_; 3,000_MC daily_JJ deaths_NN2 are_VBR children_NN2 's_GE ._. 
+</s>
+<s>
+Today_RT it_PPH1 is_VBZ much_RR more_RGR challenging_JJ to_TO treat_VVI and_CC control_NN1 malaria_NN1 than_CSN it_PPH1 was_VBDZ in_II the_AT early_JJ 20th_MD century_NNT1 ._. 
+</s>
+<s>
+In_II recent_JJ years_NNT2 the_AT evolution_NN1 of_IO new_JJ drug_NN1 and_CC insecticide_VV0 resistant_JJ strains_NN2 of_IO Plasmodium_NP1 and_CC Anopheles_NP1 respectively_RR have_VH0 evolved_VVN ._. 
+</s>
+<s>
+Additionally_RR ,_, it_PPH1 has_VHZ been_VBN hypothesized_VVN that_DD1 climate_NN1 changes_NN2 due_II21 to_II22 global_JJ warming_NN1 are_VBR beginning_VVG to_TO increase_VVI disease_NN1 incidence_NN1 ._. 
+</s>
+<s>
+Population_NN1 movements_NN2 cause_VV0 non-endemic_JJ countries_NN2 to_TO be_VBI at_II constant_JJ risk_NN1 for_IF introduction_NN1 of_IO malaria_NN1 ._. 
+</s>
+<s>
+Protection_NN1 from_II malaria_NN1 can_VM be_VBI attained_VVN at_II the_AT human_JJ host_NN1 level_NN1 or_CC the_AT Anopheles_NP1 vector_NN1 level_NN1 ._. 
+</s>
+<s>
+People_NN living_VVG in_II malaria_NN1 endemic_JJ areas_NN2 of_IO the_AT world_NN1 often_RR develop_VV0 an_AT1 acquired_JJ immunity_NN1 from_II continual_JJ exposure_NN1 to_II the_AT malarial_JJ parasite_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+This_DD1 immunity_NN1 does_VDZ not_XX protect_VVI them_PPHO2 from_II contracting_VVG the_AT Plasmodium_NN1 but_CCB does_VDZ from_II the_AT severe_JJ clinical_JJ manifestations_NN2 of_IO the_AT disease_NN1 ._. 
+</s>
+<s>
+Some_DD individuals_NN2 ,_, typically_RR those_DD2 from_II endemic_JJ regions_NN2 ,_, do_VD0 have_VHI an_AT1 innate_JJ immunity_NN1 against_II Plasmodium_NP1 from_II genetic_JJ blood_NN1 disorders_NN2 ,_, such_II21 as_II22 caring_VVG one_MC1 recessive_JJ sickle_NN1 cell_NN1 gene_NN1 for_IF abnormal_JJ hemoglobin_NN1 or_CC lacking_VVG Duffy_NP1 receptors_NN2 on_II red_JJ blood_NN1 cells_NN2 so_CS Plasmodium_NP1 are_VBR unable_JK to_TO infect_VVI erythrocytes_NN2 ._. 
+</s>
+<s>
+For_IF individuals_NN2 without_IW innate_JJ or_CC acquired_JJ immunity_NN1 against_II malaria_NN1 prophylactic_JJ drug_NN1 therapies_NN2 are_VBR available_JJ ._. 
+</s>
+<s>
+These_DD2 medications_NN2 do_VD0 not_XX prevent_VVI one_PN1 from_II contracting_VVG the_AT disease_NN1 ;_; however_RR ,_, they_PPHS2 suppress_VV0 Plasmodium_NN1 from_II maturing_VVG inside_II the_AT host_NN1 and_CC thus_RR minimize_VV0 symptoms_NN2 ._. 
+</s>
+<s>
+The_AT distribution_NN1 of_IO these_DD2 medications_NN2 is_VBZ often_RR difficult_JJ in_II developing_JJ nations_NN2 ._. 
+</s>
+<s>
+Control_VV0 at_II the_AT vector_NN1 level_NN1 attempts_NN2 to_TO prevent_VVI initial_JJ malaria_NN1 infections_NN2 ._. 
+</s>
+<s>
+The_AT most_RGT common_JJ and_CC currently_RR most_RGT effective_JJ method_NN1 involves_VVZ the_AT use_NN1 of_IO insecticide_NN1 treated_VVN bed_NN1 nets_NN2 (_( 2_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, distribution_NN1 and_CC retreatment_NN1 of_IO these_DD2 nets_NN2 has_VHZ proven_VVN challenging_JJ and_CC costly_JJ (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Insecticide_VV0 spraying_VVG inside_RL of_IO homes_NN2 is_VBZ also_RR effective_JJ ,_, although_CS over_RG 125_MC species_NN of_IO Anopheles_NP1 have_VH0 developed_VVN resistance_NN1 against_II at_RR21 least_RR22 one_MC1 insecticide_NN1 ._. 
+</s>
+<s>
+Other_JJ effective_JJ measures_NN2 include_VV0 the_AT destruction_NN1 of_IO larval_JJ breeding_NN1 sites_NN2 ,_, the_AT development_NN1 of_IO genetically_RR altered_JJ mosquitoes_NN2 that_CST actually_RR kill_VV0 the_AT malaria_NN1 parasites_NN2 ,_, and_CC the_AT development_NN1 of_IO vaccines_NN2 ,_, but_CCB all_DB these_DD2 solutions_NN2 require_VV0 costly_JJ resources_NN2 ._. 
+</s>
+<s>
+Complete_JJ control_NN1 of_IO malaria_NN1 is_VBZ not_XX an_AT1 unrealistic_JJ goal_NN1 for_IF the_AT future_NN1 because_CS malaria_NN1 is_VBZ a_AT1 treatable_JJ and_CC preventable_JJ disease_NN1 ._. 
+</s>
+<s>
+Implementation_NN1 of_IO successful_JJ ,_, sustainable_JJ anti-malaria_JJ programs_NN2 including_II monitoring_VVG and_CC intervention_NN1 will_VM require_VVI a_AT1 concerted_JJ effort_NN1 by_II local_JJ government_NN1 authorities_NN2 in_II31 conjunction_II32 with_II33 international_JJ government_NN1 ,_, NGO_NP1 ,_, private_JJ and_CC public_JJ sector_NN1 resources_NN2 ._. 
+</s>
+<s>
+From_II a_AT1 humanitarian_JJ standpoint_NN1 the_AT United_NP1 States_NP1 government_NN1 should_VM invest_VVI resources_NN2 in_II controlling_VVG the_AT global_JJ spread_NN1 of_IO malaria_NN1 ;_; however_RR ,_, even_RR with_IW only_JJ America_NP1 's_GE self_NN1 serving_VVG interests_NN2 in_II mind_NN1 international_JJ anti-malarial_JJ programs_NN2 should_VM be_VBI supported_VVN ._. 
+</s>
+<s>
+Even_RR since_CS the_AT successful_JJ U.S._NP1 "_" eradication_NN1 "_" in_II 1951_MC U.S._NP1 citizens_NN2 remain_VV0 an_AT1 at_II risk_NN1 population_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+In_II the_AT U.S._NP1 there_EX have_VH0 been_VBN 63_MC outbreaks_NN2 of_IO malaria_NN1 between_II 1957_MC and_CC 2003_MC where_RRQ locally_RR infected_VVD Anopheles_NP1 mosquitoes_NN2 acted_VVN as_CSA vectors_NN2 ._. 
+</s>
+<s>
+These_DD2 resident_JJ mosquitoes_NN2 (_( both_DB2 A._NP1 quadrimaculatus_NN1 and_CC A._NP1 freeborni_NN2 are_VBR common_JJ in_II the_AT United_NP1 States_NP1 and_CC capable_JJ of_IO acting_VVG as_CSA vectors_NN2 for_IF malaria_NN1 )_) continue_VV0 to_TO put_VVI Americans_NN2 at_II risk_NN1 for_IF the_AT reintroduction_NN1 and_CC spread_NN1 of_IO malaria_NN1 ._. 
+</s>
+<s>
+In_II 2002_MC alone_RR there_EX were_VBDR 1,337_MC reported_JJ cases_NN2 of_IO malaria_NN1 in_II the_AT States_NP1 ._. 
+</s>
+<s>
+The_AT vast_JJ majority_NN1 of_IO these_DD2 cases_NN2 were_VBDR acquired_VVN outside_II21 of_II22 the_AT U.S._NP1 ;_; although_CS ,_, a_AT1 small_JJ portion_NN1 of_IO them_PPHO2 may_VM have_VHI been_VBN caused_VVN by_II blood_NN1 transfusions_NN2 with_IW Plasmodium_NP1 infected_JJ blood_NN1 ,_, organ_NN1 transplants_NN2 ,_, or_CC congenital_JJ transmission_NN1 ._. 
+</s>
+<s>
+With_IW global_JJ warming_NN1 altering_VVG weather_NN1 patterns_NN2 ,_, the_AT percentage_NN1 of_IO American_JJ regions_NN2 with_IW appropriate_JJ climates_NN2 for_IF the_AT survival_NN1 and_CC reproduction_NN1 of_IO Plasmodium_NN1 will_VM rise_VVI ,_, thus_RR increasing_VVG the_AT risk_NN1 for_IF local_JJ malaria_NN1 outbreaks_NN2 ._. 
+</s>
+<s>
+Moreover_RR ,_, heightened_JJ travel_NN1 and_CC immigration_NN1 from_II malaria_NN1 endemic_JJ regions_NN2 increases_VVZ the_AT possibility_NN1 of_IO malaria_NN1 reintroduction_NN1 (_( or_CC even_RR more_RGR frightening_JJ ,_, the_AT introduction_NN1 of_IO drug-resistant_JJ strains_NN2 )_) into_II the_AT United_NP1 States_NP1 ._. 
+</s>
+<s>
+Recently_RR much_DA1 progress_NN1 has_VHZ been_VBN made_VVN towards_II eliminating_VVG the_AT burden_NN1 of_IO Malaria_NN1 in_II the_AT less_RGR developed_JJ nation_NN1 of_IO Mexico_NP1 ._. 
+</s>
+<s>
+After_CS the_AT government_NN1 implementation_NN1 of_IO an_AT1 effective_JJ monitoring_NN1 and_CC intervention_NN1 program_NN1 there_EX has_VHZ been_VBN a_AT1 97%_NNU decrease_NN1 in_II malarial_JJ cases_NN2 since_II 1985_MC ._. 
+</s>
+<s>
+Currently_RR few_DA2 regions_NN2 of_IO the_AT country_NN1 ,_, mostly_RR the_AT southern_JJ border_NN1 territories_NN2 that_CST are_VBR difficult_JJ to_TO access_VVI ,_, are_VBR still_RR at_II risk_NN1 for_IF malaria_NN1 outbreaks_NN2 ._. 
+</s>
+<s>
+This_DD1 significant_JJ progress_NN1 towards_II eradication_NN1 should_VM encourage_VVI a_AT1 continued_JJ commitment_NN1 to_II fighting_VVG malaria_NN1 globally_RR ._. 
+</s>
+<s>
+In_II 1998_MC ,_, the_AT international_JJ Roll_NN1 Back_NN1 Malaria_NN1 Partnership_NN1 was_VBDZ launched_VVN with_IW the_AT ambitious_JJ goal_NN1 of_IO halving_VVG the_AT global_JJ burden_NN1 of_IO malaria_NN1 by_II 2010_MC (_( 4_MC )_) ._. 
+</s>
+<s>
+There_EX are_VBR 86_MC participating_JJ entities_NN2 from_II both_DB2 malarial_JJ endemic_JJ and_CC non-endemic_JJ nations_NN2 ._. 
+</s>
+<s>
+The_AT partnership_NN1 states_VVZ that_CST ,_, "_" ..._... a_AT1 successful_JJ fight_NN1 against_II malaria_NN1 will_VM have_VHI far-reaching_JJ impact_NN1 on_II child_NN1 mortality_NN1 ,_, maternal_JJ health_NN1 ,_, and_CC poverty_NN1 ,_, which_DDQ in_II turn_NN1 may_VM increase_VVI global_JJ stability_NN1 ._. "_" 
+</s>
+<s>
+For_IF all_DB of_IO the_AT preceding_JJ reasons_NN2 ,_, amongst_II numerous_JJ others_NN2 ,_, the_AT United_NP1 States_NP1 should_VM concern_VVI itself_PPX1 with_IW the_AT treatment_NN1 and_CC prevention_NN1 of_IO Malaria_NN1 worldwide_RL ._. 
+</s>
+<s>
+There_EX are_VBR U.S._NP1 government_NN1 supported_VVD international_JJ anti-malaria_JJ programs_NN2 already_RR in_II place_NN1 ._. 
+</s>
+<s>
+In_II June_NPM1 of_IO 2005_MC Mr._NNB Bush_NP1 announced_VVD the_AT President_NN1 's_GE Malaria_NN1 Initiative_NN1 (_( 1_MC1 ,_, 3_MC )_) ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO the_AT program_NN1 is_VBZ to_TO halve_VVI malarial_JJ deaths_NN2 in_II target_NN1 sub-Saharan_JJ African_JJ nations_NN2 within_II three_MC years_NNT2 of_IO implementation_NN1 ._. 
+</s>
+<s>
+US$1.2_FO billion_NNO has_VHZ been_VBN pledged_VVN for_IF these_DD2 efforts_NN2 over_II the_AT next_MD five_MC years_NNT2 ._. 
+</s>
+<s>
+Eventually_RR 15_MC of_IO the_AT most_RGT affected_JJ African_JJ nations_NN2 will_VM be_VBI included_VVN in_II the_AT program_NN1 with_IW the_AT most_RRT at_II risk_NN1 populations_NN2 of_IO young_JJ children_NN2 and_CC pregnant_JJ women_NN2 being_VBG targeted_VVN ._. 
+</s>
+<s>
+It_PPH1 involves_VVZ supporting_JJ local_JJ governments_NN2 so_CS they_PPHS2 can_VM provide_VVI insecticide-treated_JJ nets_NN2 ,_, indoor_JJ insecticide_NN1 spraying_NN1 ,_, combination_NN1 drug_NN1 therapies_NN2 ,_, and_CC education_NN1 to_TO increase_VVI the_AT numbers_NN2 of_IO individuals_NN2 who_PNQS seek_VV0 care_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT President_NN1 's_GE Malaria_NN1 Initiative_NN1 is_VBZ working_VVG to_TO improve_VVI local_JJ infrastructure_NN1 surrounding_JJ intervention_NN1 ,_, encouraging_JJ private_JJ sector_NN1 involvement_NN1 ,_, and_CC closely_RR monitoring_VVG its_APPGE own_DA program_NN1 to_TO ensure_VVI its_APPGE success_NN1 and_CC wise_JJ use_NN1 of_IO resources_NN2 ._. 
+</s>
+<s>
+Only_RR implementing_VVG this_DD1 program_NN1 in_II 15_MC countries_NN2 is_VBZ hardly_RR enough_RR ._. 
+</s>
+<s>
+The_AT President_NN1 's_GE Malaria_NN1 Initiative_NN1 is_VBZ expected_VVN to_TO effect_VVI approximately_RR 175_MC million_NNO people_NN ,_, yet_RR there_EX are_VBR well_JJ over_RG 300_MC million_NNO cases_NN2 of_IO malaria_NN1 annually_RR ._. 
+</s>
+<s>
+The_AT total_JJ debt_NN1 to_II Africa_NP1 alone_RR from_II direct_JJ (_( money_NN1 spent_VVN on_II medical_JJ visits_NN2 ,_, insecticide_VV0 treated_JJ nets_NN2 ,_, medications_NN2 ,_, funerals_NN2 ,_, ect._NNU )_) and_CC indirect_JJ causes_NN2 (_( income_NN1 and_CC productivity_NN1 lost_VVN )_) is_VBZ estimated_VVN to_TO be_VBI US$12_FO billion_NNO dollars_NNU2 annually_RR -- the_AT U.S._NP1 government_NN1 is_VBZ investing_VVG only_RR one-tenth_MF of_IO this_DD1 annual_JJ loss_NN1 over_II a_AT1 period_NN1 of_IO five_MC years_NNT2 (_( 4_MC )_) ._. 
+</s>
+<s>
+More_DAR can_VM be_VBI done_VDN to_TO protect_VVI residents_NN2 of_IO endemic_JJ countries_NN2 ._. 
+</s>
+<s>
+The_AT cost_NN1 of_IO potentially_RR life_NN1 saving_VVG anti-malarial_JJ drug_NN1 therapies_NN2 are_VBR incredibly_RR inexpensive_JJ ,_, ranging_VVG from_II US$0.13_FO for_IF chloroquine_NN1 or_CC US$0.14_FO for_IF sulfadoxine-pyrimethamine_NN1 to_II US$2.68_FO for_IF a_AT1 course_NN1 of_IO quinine_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT Roll_NN1 Back_NN1 Malaria_NN1 Partnership_NN1 estimates_VVZ that_CST in_II31 addition_II32 to_II33 the_AT current_JJ donations_NN2 and_CC support_VV0 they_PPHS2 receive_VV0 (_( of_IO which_DDQ the_AT President_NN1 's_GE Malaria_NN1 Initiative_NN1 and_CC the_AT U.S._NP1 Agency_NN1 for_IF International_JJ Development_NN1 among_II other_JJ U.S._NP1 supported_VVD agencies_NN2 are_VBR included_VVN )_) another_DD1 US$3_FO billion_NNO dollars_NNU2 must_VM be_VBI raised_VVN annually_RR in_II order_NN1 to_TO successfully_RR achieve_VVI their_APPGE goal_NN1 ._. 
+</s>
+<s>
+US$2_FO billion_NNO is_VBZ needed_VVN in_II Africa_NP1 with_IW the_AT remaining_JJ US$1_FO billion_NNO required_VVN for_IF malaria_NN1 endemic_JJ nations_NN2 of_IO other_JJ continents_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX the_AT United_NP1 States_96 '_97 responsibility_NN1 to_TO supply_VVI in_RR21 full_RR22 these_DD2 additional_JJ resources_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ feasible_JJ for_IF the_AT U.S._NP1 government_NN1 to_TO continue_VVI building_NN1 and_CC strengthening_VVG partnerships_NN2 with_IW both_DB2 the_AT public_NN1 and_CC private_JJ sector_NN1 ,_, non-profit_JJ and_CC grass-roots_NN2 organizations_NN2 (_( 5_MC )_) ._. 
+</s>
+<s>
+There_EX are_VBR social_JJ issues_NN2 inhibiting_VVG the_AT success_NN1 of_IO anti-malaria_JJ programs_NN2 including_II poverty_NN1 ,_, civil_JJ unrest_NN1 ,_, war_NN1 ,_, food_NN1 shortages_NN2 ,_, and_CC other_JJ complex_JJ emergencies_NN2 that_CST face_VV0 malaria_NN1 endemic_JJ countries_NN2 (_( 4_MC )_) ._. 
+</s>
+<s>
+These_DD2 social_JJ problems_NN2 drastically_RR inhibit_VV0 adequate_JJ treatment_NN1 and_CC surveillance_NN1 systems_NN2 that_CST must_VM be_VBI in_II place_NN1 to_TO truly_RR combat_VVI malaria_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Education_NN1 about_II malaria_NN1 and_CC its_APPGE global_JJ impact_NN1 should_VM be_VBI presented_VVN to_II those_DD2 living_VVG in_II developed_JJ nations_NN2 who_PNQS may_VM be_VBI willing_JJ to_TO help_VVI ._. 
+</s>
+<s>
+One_MC1 person_NN1 can_VM save_VVI a_AT1 life_NN1 in_II Africa_NP1 with_IW a_AT1 US$10_FO donation_NN1 ._. 
+</s>
+<s>
+Impoverished_JJ families_NN2 living_VVG in_II malaria_NN1 endemic_JJ regions_NN2 may_VM spend_VVI up_RG21 to_RG22 25%_NNU of_IO their_APPGE annual_JJ income_NN1 on_II prevention_NN1 and_CC treatment_NN1 of_IO the_AT disease_NN1 (_( 4_MC )_) ._. 
+</s>
+<s>
+The_AT reduction_NN1 of_IO the_AT malarial_JJ burden_NN1 will_VM promote_VVI a_AT1 more_RGR stable_JJ and_CC productive_JJ global_JJ market_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+This_DD1 will_VM set_VVI the_AT stage_NN1 for_IF increased_JJ economic_JJ development_NN1 in_II current_JJ malaria_NN1 endemic_JJ nations_NN2 and_CC for_IF an_AT1 increased_JJ quality_NN1 of_IO life_NN1 for_IF their_APPGE citizens_NN2 ._. 
+</s>
+<s>
+Currently_RR the_AT U.S._NP1 supports_VVZ numerous_JJ programs_NN2 committed_VVN to_II fighting_VVG public_JJ health_NN1 crises_NN2 across_II the_AT globe_NN1 ._. 
+</s>
+<s>
+Combating_VVG infections_NN2 such_II21 as_II22 HIV/AIDS_FU and_CC the_AT possible_JJ pandemic_JJ flu_NN1 outbreak_NN1 will_VM have_VHI similar_JJ positive_JJ results_NN2 to_II fighting_VVG malaria_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ difficult_JJ to_TO balance_VVI available_JJ U.S._NP1 resources_NN2 among_II all_DB of_IO these_DD2 quality_NN1 disease_NN1 control_NN1 and_CC prevention_NN1 programs_NN2 ._. 
+</s>
+<s>
+The_AT President_NN1 's_GE Emergency_NN1 Plan_NN1 for_IF AIDS_NN1 Relief_NN1 has_VHZ allotted_VVN US$15_FO billion_NNO ,_, for_IF a_AT1 five_MC year_NNT1 period_NN1 which_DDQ began_VVD in_II 2003_MC ,_, to_TO combat_VVI the_AT disease_NN1 in_RP over_RG 120_MC countries_NN2 (_( 5_MC )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 far_RG more_RGR extensive_JJ endeavor_NN1 than_CSN the_AT President_NN1 's_GE Malaria_NN1 Initiative_NN1 ._. 
+</s>
+<s>
+AIDS_NN1 affects_VVZ more_DAR individuals_NN2 worldwide_RL than_CSN Malaria_NN1 ,_, an_AT1 estimated_JJ 40_MC million_NNO are_VBR living_VVG with_IW HIV_NP1 ._. 
+</s>
+<s>
+Today_RT over_II one_MC1 million_NNO American_JJ 's_GE harbor_NN1 the_AT AIDS_NN1 virus_NN1 ,_, and_CC it_PPH1 is_VBZ estimated_VVN that_CST 40,000_MC new_JJ infections_NN2 occur_VV0 annually_RR within_II the_AT United_NP1 States_NP1 ._. 
+</s>
+<s>
+The_AT rate_NN1 of_IO incidence_NN1 rises_VVZ drastically_RR in_II less_RGR developed_JJ nations_NN2 ._. 
+</s>
+<s>
+For_IF these_DD2 reasons_NN2 HIV/AIDS_FU programs_NN2 should_VM be_VBI of_IO higher_JJR priority_NN1 and_CC receive_VV0 more_RRR U.S._NP1 government_NN1 funding_NN1 than_CSN anti-malarial_JJ programs_NN2 ._. 
+</s>
+<s>
+The_AT President_NN1 's_GE National_JJ Strategy_NN1 for_IF Pandemic_JJ Influenza_NP1 Preparedness_NP1 and_CC Response_NN1 was_VBDZ outlined_VVN in_II late_JJ 2005_MC to_TO help_VVI plan_VVI a_AT1 course_NN1 of_IO action_NN1 for_IF when_RRQ the_AT United_NP1 States_NP1 ,_, and_CC the_AT world_NN1 ,_, is_VBZ faced_VVN with_IW a_AT1 pandemic_JJ flu_NN1 outbreak_NN1 ._. 
+</s>
+<s>
+Such_DA an_AT1 outbreak_NN1 is_VBZ foreseeable_JJ in_II the_AT near_JJ future_NN1 (_( from_II the_AT H5N1_FO avian_JJ flu_NN1 virus_NN1 )_) and_CC may_VM have_VHI devastating_JJ impacts_NN2 worldwide_RL if_CS proper_JJ precautionary_JJ measures_NN2 are_VBR not_XX taken_VVN ._. 
+</s>
+<s>
+The_AT last_MD three_MC flu_NN1 pandemics_NN2 occurred_VVD in_II 1918_MC ,_, 1957_MC ,_, and_CC 1968_MC ;_; they_PPHS2 killed_VVD 40_MC million_NNO ,_, 2_MC million_NNO and_CC 1_MC1 million_NNO people_NN respectively_RR ._. 
+</s>
+<s>
+The_AT program_NN1 's_GE budget_NN1 of_IO US$7.1_FO billion_NNO is_VBZ to_TO be_VBI used_VVN for_IF detection_NN1 of_IO international_JJ outbreaks_NN2 ,_, national_JJ accumulation_NN1 of_IO vaccines_NN2 and_CC antiviral_JJ medications_NN2 ,_, and_CC to_TO increase_VVI national_JJ and_CC local_JJ governments_58 '_97 readiness_NN1 to_TO respond_VVI to_II such_DA an_AT1 outbreak_NN1 ._. 
+</s>
+<s>
+Again_RT ,_, the_AT funding_NN1 for_IF this_DD1 flu_NN1 pandemic_JJ program_NN1 is_VBZ greater_JJR than_CSN that_DD1 of_IO the_AT anti-malarial_JJ program_NN1 ._. 
+</s>
+<s>
+The_AT potential_JJ devastating_JJ effects_NN2 of_IO a_AT1 pandemic_JJ flu_NN1 outbreak_NN1 in_II the_AT United_NP1 States_NP1 are_VBR vast_JJ ,_, but_CCB will_VM they_PPHS2 be_VBI worse_JJR than_CSN if_CS malaria_NN1 is_VBZ reintroduced_VVN ?_? 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX unrealistic_JJ that_CST malaria_NN1 could_VM one_MC1 day_NNT1 become_VVI endemic_JJ in_II the_AT United_NP1 States_NP1 ._. 
+</s>
+<s>
+The_AT main_JJ risk_NN1 for_IF reintroduction_NN1 of_IO the_AT disease_NN1 is_VBZ by_II frequent_JJ travelers_NN2 to_II ,_, and_CC immigrants_NN2 from_II ,_, South_ND1 and_CC Central_JJ American_JJ countries_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Additional_JJ resources_NN2 should_VM be_VBI sent_VVN to_TO support_VVI the_AT prevention_NN1 and_CC control_NN1 of_IO disease_NN1 in_II these_DD2 countries_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ possible_JJ for_IF money_NN1 to_TO be_VBI reallocated_VVN from_II the_AT pandemic_JJ flu_NN1 program_NN1 to_TO support_VVI anti-malarial_JJ programs_NN2 outside_II21 of_II22 sub-Saharan_JJ Africa_NP1 ._. 
+</s>
+<s>
+Both_RR flu_NN1 and_CC malaria_NN1 programs_NN2 in_II31 relation_II32 to_II33 the_AT United_NP1 States_NP1 are_VBR functionally_RR preventative_JJ ;_; however_RR ,_, the_AT anti-malaria_JJ program_NN1 would_VM serve_VVI to_TO be_VBI more_RGR beneficial_JJ to_II current_JJ people_NN living_VVG in_II malaria_NN1 endemic_JJ regions_NN2 ._. 
+</s>
+<s>
+A_AT1 few_DA2 hundred_NNO million_NNO dollars_NNU2 should_VM be_VBI reallocated_VVN from_II the_AT President_NN1 's_GE National_JJ Strategy_NN1 for_IF Pandemic_JJ Influenza_NP1 Preparedness_NP1 and_CC Response_NN1 budget_NN1 to_TO support_VVI anti-malaria_JJ programs_NN2 outside_II21 of_II22 sub-Saharan_JJ Africa_NP1 ,_, focused_VVN in_II the_AT Americas_NP2 ._. 
+</s>

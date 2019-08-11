@@ -1,0 +1,930 @@
+<s>
+This_DD1 paper_NN1 will_VM discuss_VVI the_AT future_JJ role_NN1 of_IO the_AT internal_JJ combustion_NN1 engine_NN1 (_( ICE_NN1 )_) in_II society_NN1 ._. 
+</s>
+<s>
+While_CS this_DD1 energy_NN1 conversion_NN1 technology_NN1 has_VHZ been_VBN used_VVN commercially_RR for_IF over_II a_AT1 century_NNT1 ,_, concerns_VVZ regarding_II the_AT environmental_JJ impact_NN1 of_IO emissions_NN2 (_( CO2_FO ,_, CO_NP1 ,_, unburned_JJ hydrocarbons_NN2 ,_, NOx_NP1 ,_, and_CC SOx_NN2 )_) and_CC the_AT stability_NN1 of_IO the_AT fuel_NN1 supply_NN1 have_VH0 raised_VVN basic_JJ questions_NN2 about_II whether_CSW we_PPIS2 should_VM use_VVI it_PPH1 in_II the_AT future_NN1 ,_, or_CC even_CS21 if_CS22 we_PPIS2 will_VM be_VBI able_JK to_TO use_VVI it_PPH1 ._. 
+</s>
+<s>
+This_DD1 analysis_NN1 addresses_VVZ both_RR of_IO these_DD2 questions_NN2 by_II evaluating_VVG competing_JJ technologies_NN2 ,_, such_II21 as_II22 electric_JJ vehicles_NN2 (_( EV_NN1 )_) and_CC fuel_NN1 cell_NN1 (_( FC_NP1 )_) vehicles_NN2 ,_, the_AT advances_NN2 possible_JJ with_IW each_DD1 technology_NN1 ,_, and_CC the_AT sustainability_NN1 of_IO the_AT energy_NN1 conversion_NN1 tool_NN1 and_CC fuel_NN1 ._. 
+</s>
+<s>
+Perhaps_RR the_AT greatest_JJT difficulty_NN1 in_II evaluating_VVG the_AT sustainability_NN1 of_IO the_AT ICE_NN1 is_VBZ defining_VVG the_AT word_NN1 sustainability_NN1 ._. 
+</s>
+<s>
+In_II 1992_MC ,_, the_AT United_JJ Nations_NN2 sponsored_JJ Earth_NN1 Summit_NN1 defined_VVD sustainable_JJ development_NN1 as_II the_AT "_" development_NN1 that_CST meets_VVZ the_AT needs_NN2 of_IO the_AT present_NN1 without_IW compromising_VVG the_AT ability_NN1 of_IO future_JJ generations_NN2 to_TO meet_VVI their_APPGE own_DA needs_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Marshall_NP1 and_CC Toffel_NP1 (_( 2_MC )_) have_VH0 pointed_VVN out_RP that_CST this_DD1 requires_VVZ the_AT knowledge_NN1 of_IO the_AT needs_NN2 of_IO future_JJ generations_NN2 and_CC their_APPGE ability_NN1 to_TO reach_VVI those_DD2 needs_NN2 ,_, which_DDQ in_II turn_NN1 requires_VVZ knowledge_NN1 of_IO their_APPGE available_JJ technologies_NN2 ._. 
+</s>
+<s>
+History_NN1 has_VHZ taught_VVN us_PPIO2 that_CST we_PPIS2 are_VBR not_XX good_JJ at_II predicting_VVG future_JJ technology_NN1 ,_, and_CC predicting_VVG the_AT needs_NN2 is_VBZ difficult_JJ because_CS we_PPIS2 constantly_RR strive_VV0 to_TO improve_VVI the_AT quality_NN1 of_IO life_NN1 of_IO our_APPGE societies_NN2 which_DDQ means_NN needs_VVZ will_VM also_RR change_VVI ._. 
+</s>
+<s>
+A_AT1 number_NN1 of_IO sustainability_NN1 frameworks_NN2 have_VH0 been_VBN developed_VVN to_TO address_VVI this_DD1 issue_NN1 and_CC make_VVI the_AT concept_NN1 of_IO sustainability_NN1 palpable_JJ for_IF industry_NN1 and_CC policy_NN1 makers_NN2 to_TO enable_VVI movement_NN1 ._. 
+</s>
+<s>
+An_AT1 attempt_NN1 was_VBDZ made_VVN to_TO use_VVI one_MC1 of_IO these_DD2 frameworks_NN2 in_II this_DD1 assessment_NN1 ,_, the_AT Triple_JJ Bottom_JJ Line_NN1 (_( TBL_NP1 )_) ._. 
+</s>
+<s>
+The_AT Triple_JJ Bottom_JJ Line_NN1 suggests_VVZ that_CST ,_, in_II31 addition_II32 to_II33 economic_JJ returns_NN2 ,_, organizations_NN2 must_VM consider_VVI the_AT environmental_JJ and_CC social_JJ consequences_NN2 of_IO their_APPGE activities_NN2 ._. 
+</s>
+<s>
+This_DD1 presented_JJ difficulties_NN2 since_CS many_DA2 of_IO the_AT topics_NN2 discussed_VVD were_VBDR for_IF future_JJ technologies_NN2 for_IF which_DDQ quantitative_JJ data_NN is_VBZ either_RR unavailable_JJ or_CC ,_, if_CS available_JJ ,_, it_PPH1 is_VBZ probably_RR inaccurate_JJ ._. 
+</s>
+<s>
+Nevertheless_RR ,_, the_AT tenets_NN2 of_IO the_AT TBL_NP1 provide_VV0 excellent_JJ talking_NN1 points_NN2 for_IF this_DD1 analysis_NN1 ._. 
+</s>
+<s>
+Some_DD analysis_NN1 look_NN1 at_II a_AT1 fixed_JJ time_NNT1 frame_NN1 ,_, such_II21 as_II22 50_MC years_NNT2 ,_, to_II gauge_NN1 the_AT sustainability_NN1 of_IO a_AT1 product_NN1 or_CC process_NN1 ,_, assuming_VVG that_CST by_II that_DD1 time_NNT1 another_DD1 technology_NN1 or_CC alternative_NN1 will_VM become_VVI available_JJ or_CC economically_RR competitive_JJ ._. 
+</s>
+<s>
+While_CS this_DD1 has_VHZ been_VBN the_AT case_NN1 for_IF many_DA2 products_NN2 or_CC processes_NN2 such_II21 as_II22 energy_NN1 (_( wood_NN1 coal_NN1 oil_NN1 )_) ,_, at_II some_DD point_NN1 ,_, for_IF some_DD product_NN1 or_CC process_NN1 ,_, the_AT outlook_NN1 for_IF both_DB2 the_AT original_JJ process_NN1 or_CC product_NN1 and_CC the_AT alternatives_NN2 may_VM look_VVI bleak_JJ ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 ,_, and_CC because_II21 of_II22 the_AT vital_JJ role_NN1 that_CST individual_JJ transportation_NN1 plays_VVZ in_II society_NN1 ,_, this_DD1 paper_NN1 will_VM define_VVI the_AT sustainability_NN1 of_IO a_AT1 product_NN1 as_II the_AT ability_NN1 to_TO manufacture_VVI and_CC use_VVI the_AT product_NN1 indefinitely_RR ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 couple_NN1 of_IO issues_NN2 that_CST will_VM not_XX be_VBI addressed_VVN for_IF simplicity_NN1 ._. 
+</s>
+<s>
+Improving_JJ public_JJ transportation_NN1 and_CC urban_JJ landscape_NN1 redesign_NN1 and_CC revitalization_NN1 are_VBR ways_NN2 to_TO reduce_VVI fuel_NN1 consumption_NN1 ,_, and_CC these_DD2 ideas_NN2 will_VM gain_VVI popularity_NN1 with_IW time_NNT1 ._. 
+</s>
+<s>
+However_RR ,_, they_PPHS2 will_VM also_RR not_XX be_VBI considered_VVN in_II this_DD1 analysis_NN1 ._. 
+</s>
+<s>
+Similarly_RR ,_, hybrid_JJ vehicles_NN2 are_VBR a_AT1 means_NN to_TO reduce_VVI fuel_NN1 consumption_NN1 ._. 
+</s>
+<s>
+The_AT sustainability_NN1 of_IO these_DD2 vehicles_NN2 depends_VVZ on_II the_AT sustainability_NN1 of_IO its_APPGE major_JJ components_NN2 (_( i.e._REX a_AT1 ICE_NN1 hybrid_JJ electric_JJ vehicle_NN1 will_VM not_XX be_VBI sustainable_JJ if_CS the_AT ICE_NN1 ,_, electrical_JJ components_NN2 ,_, or_CC ICE_NN1 fuel_NN1 is_VBZ not_XX sustainable_JJ )_) ._. 
+</s>
+<s>
+Since_CS these_DD2 components_NN2 are_VBR addressed_VVN ,_, emphasis_NN1 will_VM not_XX be_VBI placed_VVN on_II hybrid_JJ vehicles_NN2 ._. 
+</s>
+<s>
+Energy_NN1 conversion_NN1 technologies_NN2 are_VBR analyzed_VVN first_MD ._. 
+</s>
+<s>
+These_DD2 technologies_NN2 all_DB require_VV0 their_APPGE respective_JJ fuels_NN2 ,_, and_CC therefore_RR can_56 not_56 be_VBI considered_VVN sustainable_JJ unless_CS the_AT fuels_NN2 are_VBR also_RR sustainable_JJ ._. 
+</s>
+<s>
+Following_VVG the_AT discussion_NN1 of_IO fuels_NN2 ,_, a_AT1 brief_JJ outlook_NN1 on_II transportation_NN1 will_VM be_VBI given_VVN to_TO introduce_VVI a_AT1 timeline_NN1 for_IF potential_JJ transitions_NN2 from_II the_AT ICE_NN1 to_II another_DD1 energy_NN1 conversion_NN1 tool_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM lead_VVI into_II a_AT1 discussion_NN1 of_IO EV_NN1 ,_, biofuels_NN2 ,_, and_CC synthetic_JJ fuel_NN1 technologies_NN2 that_CST are_VBR currently_RR in_II their_APPGE infancy_NN1 ._. 
+</s>
+<s>
+A_AT1 more_RGR detailed_JJ outlook_NN1 will_VM then_RT be_VBI given_VVN looking_VVG further_RRR into_II the_AT future_NN1 ._. 
+</s>
+<s>
+Viable_JJ energy_NN1 conversion_NN1 technologies_NN2 suitable_JJ for_IF transportation_NN1 use_NN1 include_VV0 ICEs_NN2 ,_, hybrid_JJ vehicles_NN2 ,_, electric_JJ vehicles_NN2 ,_, and_CC fuel_NN1 cells_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 section_NN1 ,_, the_AT triple_JJ bottom_JJ line_NN1 tenets_NN2 will_VM be_VBI discussed_VVN to_II each_DD1 of_IO these_DD2 technologies_NN2 (_( excluding_II the_AT hybrid_JJ vehicles_NN2 )_) ._. 
+</s>
+<s>
+ICEs_NN2 are_VBR currently_RR the_AT dominant_JJ energy_NN1 conversion_NN1 tool_NN1 used_VVN for_IF transportation_NN1 and_CC remote_JJ power_NN1 generation_NN1 ._. 
+</s>
+<s>
+Two_MC stroke_NN1 engines_NN2 are_VBR used_VVN on_II smaller_JJR scales_NN2 for_IF weed_NN1 whackers_NN2 ,_, some_DD lawnmowers_NN2 ,_, some_DD motorcycles_NN2 ,_, etc_RA ._. 
+</s>
+<s>
+Four_MC stroke_NN1 gasoline_NN1 engines_NN2 are_VBR typically_RR used_VVN for_IF smaller_JJR vehicles_NN2 in_II certain_JJ markets_NN2 ,_, like_II the_AT US_NP1 ,_, and_CC four_MC stroke_NN1 Diesel_NN1 engines_NN2 are_VBR used_VVN in_II vehicles_NN2 of_IO all_DB sizes_NN2 and_CC are_VBR the_AT predominant_JJ type_NN1 of_IO engine_NN1 in_II remote_JJ power_NN1 generators_NN2 ._. 
+</s>
+<s>
+A_AT1 discussion_NN1 of_IO the_AT economic_JJ bottom_JJ line_NN1 for_IF ICEs_NN2 is_VBZ quite_RG simple_JJ ._. 
+</s>
+<s>
+These_DD2 engines_NN2 have_VH0 been_VBN in_II widespread_JJ use_NN1 for_IF decades_NNT2 ,_, and_CC much_DA1 effort_NN1 has_VHZ gone_VVN into_II improving_VVG their_APPGE performance_NN1 and_CC making_VVG them_PPHO2 less_RGR expensive_JJ ._. 
+</s>
+<s>
+The_AT infrastructure_NN1 for_IF manufacturing_NN1 ICEs_NN2 is_VBZ sufficiently_RR developed_VVN to_TO supply_VVI the_AT current_JJ demand_NN1 ,_, and_CC expansion_NN1 should_VM not_XX be_VBI difficult_JJ ._. 
+</s>
+<s>
+Also_RR ,_, significant_JJ ICE_NN1 development_NN1 and_CC manufacturing_NN1 knowledge_NN1 is_VBZ available_JJ to_TO transfer_VVI to_II future_JJ generations_NN2 facilitating_VVG further_JJR refinement_NN1 of_IO the_AT processes_NN2 ._. 
+</s>
+<s>
+The_AT natural_JJ resources_NN2 required_VVN to_TO produce_VVI ICEs_NN2 are_VBR plentiful_JJ ,_, so_RG fluctuating_JJ resource_NN1 prices_NN2 will_VM not_XX likely_RR make_VVI ICEs_NN2 too_RG expensive_JJ for_IF many_DA2 to_TO afford_VVI ._. 
+</s>
+<s>
+The_AT social_JJ justice_NN1 aspect_NN1 of_IO ICE_NN1 production_NN1 and_CC use_NN1 echoes_VVZ that_DD1 of_IO the_AT economic_JJ view_NN1 ;_; current_JJ ICEs_NN2 as_II31 well_II32 as_II33 more_RGR advanced_JJ ICEs_NN2 anticipated_VVN in_II the_AT future_NN1 are_VBR accessible_JJ to_II a_AT1 fair_JJ and_CC growing_JJ portion_NN1 of_IO society_NN1 ._. 
+</s>
+<s>
+As_CSA with_IW most_DAT industries_NN2 who_PNQS produce_VV0 material_NN1 products_NN2 (_( as_II31 opposed_II32 to_II33 intellectual_JJ property_NN1 )_) ,_, attention_NN1 must_VM continue_VVI to_TO be_VBI paid_VVN to_II working_VVG conditions_NN2 in_II the_AT factories_NN2 and_CC compensation_NN1 ._. 
+</s>
+<s>
+Unions_NN2 have_VH0 had_VHN a_AT1 considerable_JJ influence_NN1 in_II improving_VVG the_AT working_JJ environments_NN2 and_CC compensation_NN1 in_II the_AT United_NP1 States_NP1 up_II21 to_II22 this_DD1 point_NN1 ._. 
+</s>
+<s>
+The_AT United_JJ Auto_NN1 Workers_NN2 ,_, the_AT salient_JJ union_NN1 in_II the_AT US_NP1 ,_, even_RR strives_VVZ to_TO improve_VVI working_VVG conditions_NN2 and_CC compensation_NN1 for_IF auto_NN1 workers_NN2 around_II the_AT globe_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, some_DD automakers_NN2 ,_, such_II21 as_II22 Ford_NP1 ,_, have_VH0 begun_VVN to_TO offer_VVI human_JJ rights_NN2 courses_NN2 to_II suppliers_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ also_RR an_AT1 industry_NN1 wide_RR push_VV0 to_TO improve_VVI the_AT working_JJ conditions_NN2 for_IF workers_NN2 all_DB along_II the_AT supply_NN1 chain_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+If_CS these_DD2 efforts_NN2 are_VBR sustained_VVN ,_, the_AT social_JJ consequences_NN2 of_IO producing_VVG ICEs_NN2 are_VBR fair_JJ ._. 
+</s>
+<s>
+The_AT environmental_JJ consequences_NN2 of_IO manufacturing_VVG an_AT1 ICE_NN1 are_VBR not_XX prevalent_JJ in_II the_AT literature_NN1 ._. 
+</s>
+<s>
+Many_DA2 life_NN1 cycle_NN1 analyses_NN2 of_IO ICEs_NN2 show_VV0 the_AT energy_NN1 usage_NN1 and_CC CO2_FO emissions_NN2 for_IF the_AT manufacturing_NN1 phase_NN1 in_II comparison_NN1 to_II the_AT use_NN1 phase_NN1 and_CC conclude_VV0 that_CST the_AT use_NN1 phase_NN1 is_VBZ the_AT most_RGT damaging_JJ aspect_NN1 of_IO the_AT life_NN1 cycle_NN1 and_CC that_CST modifications_NN2 to_II the_AT product_NN1 cycle_NN1 should_VM focus_VVI on_II that_DD1 phase_NN1 ._. 
+</s>
+<s>
+Some_DD of_IO the_AT information_NN1 found_VVN is_VBZ presented_VVN in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 :_: Energy_NN1 consumption_NN1 for_IF the_AT manufacture_NN1 of_IO future_JJ ICE_NN1 and_CC FC_NP1 vehicles_NN2 The_AT estimated_JJ energy_NN1 consumption_NN1 when_CS manufacturing_VVG future_JJ vehicles_NN2 with_IW ICEs_NN2 and_CC FCs_NP2 is_VBZ shown_VVN ._. 
+</s>
+<s>
+Emissions_NN2 are_VBR not_XX presented_VVN here_RL since_CS it_PPH1 depends_VVZ largely_RR on_II the_AT types_NN2 and_CC size_NN1 of_IO power_NN1 plants_NN2 used_VVN in_II the_AT region_NN1 of_IO manufacture_NN1 ._. 
+</s>
+<s>
+The_AT important_JJ thing_NN1 to_TO note_VVI here_RL is_VBZ that_CST the_AT energy_NN1 consumption_NN1 is_VBZ nearly_RR equal_JJ ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 :_: Energy_NN1 consumption_NN1 for_IF the_AT manufacture_NN1 of_IO future_JJ ICE_NN1 and_CC FC_NP1 vehicles_NN2 (_( 4_MC )_) ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI noted_VVN that_CST there_EX is_VBZ enormous_JJ potential_NN1 for_IF ICE_NN1 remanufacturing_VVG ._. 
+</s>
+<s>
+Keolean_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+at_II the_AT University_NN1 of_IO Michigan_NP1 in_II Ann_NP1 Arbor_NP1 quantified_VVD the_AT impact_NN1 in_II a_AT1 2004_MC study_NN1 ._. 
+</s>
+<s>
+They_PPHS2 found_VVD that_CST raw_JJ material_NN1 consumption_NN1 drops_VVZ between_II 26%_NNU and_CC 90%_NNU ,_, manufacturing_NN1 energy_NN1 drops_VVZ by_II 68%_NNU to_II 83%_NNU (_( and_CC accordingly_RR CO2_FO ,_, CO_NP1 ,_, NOx_NP1 ,_, and_CC SOx_NN2 emissions_NN2 dropped_VVD substantially_RR )_) ,_, consumer_NN1 cost_NN1 dropped_VVN by_II 30%_NNU to_II 53%_NNU ,_, solid_JJ waste_NN1 generated_VVD was_VBDZ to_II 11_MC to_II 34%_NNU compared_VVN to_II a_AT1 new_JJ engine_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+The_AT transition_NN1 from_II a_AT1 more_DAR energy_NN1 intensive_JJ to_TO labor_VVI intensive_JJ process_NN1 means_VVZ jobs_NN2 will_VM be_VBI produced_VVN in_II the_AT process_NN1 ,_, improving_VVG social_JJ welfare_NN1 ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, the_AT main_JJ obstacle_NN1 to_II widespread_JJ use_NN1 of_IO remanufactured_JJ engines_NN2 is_VBZ public_JJ acceptance_NN1 ._. 
+</s>
+<s>
+Extended_JJ producer_NN1 responsibility_NN1 laws_NN2 already_RR established_VVN in_II many_DA2 European_JJ countries_NN2 enable_VV0 widespread_JJ engine_NN1 remanufacturing_VVG operations_NN2 ._. 
+</s>
+<s>
+Fuel_NN1 cells_NN2 were_VBDR invented_VVN in_II 1839_MC by_II Sir_NNB William_NP1 Grove_NN1 ._. 
+</s>
+<s>
+They_PPHS2 have_VH0 the_AT potential_JJ to_TO be_VBI used_VVN in_II power_NN1 plants_NN2 ,_, transportation_NN1 vehicles_NN2 ,_, and_CC as_CSA battery_NN1 replacements_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 number_NN1 of_IO different_JJ types_NN2 of_IO fuel_NN1 cells_NN2 ._. 
+</s>
+<s>
+The_AT Department_NN1 of_IO Energy_NN1 believes_VVZ the_AT polymer_NN1 exchange_NN1 membrane_NN1 fuel_NN1 cell_NN1 (_( PEMFC_NP1 )_) is_VBZ the_AT most_RGT likely_JJ type_NN1 to_TO be_VBI used_VVN in_II automobiles_NN2 (_( 6_MC )_) ,_, so_CS it_PPH1 will_VM be_VBI considered_VVN in_II this_DD1 work_NN1 ._. 
+</s>
+<s>
+Economically_RR ,_, fuel_NN1 cells_NN2 must_VM come_VVI down_RP in_II price_NN1 by_II a_AT1 factor_NN1 of_IO 10_MC or_CC more_RRR to_TO compete_VVI with_IW ICEs_NN2 (_( 7_MC )_) ._. 
+</s>
+<s>
+The_AT catalyst_NN1 is_VBZ typically_RR platinum_NN1 ,_, which_DDQ is_VBZ precious_JJ metal_NN1 ,_, so_RR availability_NN1 might_VM make_VVI drive_VVI up_RP the_AT price_NN1 of_IO these_DD2 fuel_NN1 cells_NN2 if_CS they_PPHS2 are_VBR widely_RR used_VVN ._. 
+</s>
+<s>
+Platinum_NN1 is_VBZ a_AT1 significant_JJ reason_NN1 why_RRQ PEMFCs_NN2 are_VBR so_RG expensive_JJ ,_, so_CS researchers_NN2 must_VM find_VVI ways_NN2 to_TO reduce_VVI the_AT amount_NN1 required_VVN or_CC find_VV0 an_AT1 alternative_JJ catalyst_NN1 (_( 168_MC )_) ._. 
+</s>
+<s>
+FCs_NP2 also_RR suffer_VV0 from_II durability_NN1 issues_NN2 related_VVN to_II cyclic_JJ loading_NN1 conditions_NN2 ._. 
+</s>
+<s>
+If_CS this_DD1 can_56 not_56 be_VBI addressed_VVN in_II research_NN1 and_CC development_NN1 ,_, then_RT replacement_NN1 of_IO fuel_NN1 stacks_NN2 may_VM have_VHI to_TO be_VBI considered_VVN which_DDQ could_VM drastically_RR affect_VVI the_AT economic_JJ consequences_NN2 of_IO FC_NP1 use_NN1 ._. 
+</s>
+<s>
+A_AT1 partial_JJ or_CC full_JJ transition_NN1 to_II FC_NP1 vehicles_NN2 would_VM have_VHI some_DD social_JJ justice_NN1 consequences_NN2 ._. 
+</s>
+<s>
+Best_JJT manufacturing_NN1 practices_NN2 would_VM have_VHI to_TO be_VBI developed_VVN to_TO ensure_VVI worker_NN1 safety_NN1 ._. 
+</s>
+<s>
+These_DD2 will_VM develop_VVI as_II manufacturing_NN1 managers_NN2 learn_VV0 from_II the_AT problems_NN2 they_PPHS2 encounter_VV0 ._. 
+</s>
+<s>
+If_CS FCs_NP2 replaced_VVD ICEs_NN2 ,_, some_DD of_IO the_AT workers_NN2 in_II ICE_NN1 plants_NN2 could_VM seek_VVI work_NN1 in_II FC_NP1 plants_NN2 ,_, although_CS due_JJ to_TO lower_VVI complexity_NN1 many_DA2 jobs_NN2 will_VM likely_RR be_VBI eliminated_VVN ._. 
+</s>
+<s>
+First_MD responders_NN2 to_II accident_NN1 scenes_NN2 may_VM be_VBI endangered_VVN if_CS they_PPHS2 attempt_VV0 to_TO extract_VVI people_NN from_II damaged_JJ vehicles_NN2 given_VVN the_AT large_JJ amounts_NN2 of_IO electrical_JJ energy_NN1 present_NN1 ._. 
+</s>
+<s>
+This_DD1 issue_NN1 must_VM be_VBI addressed_VVN in_II both_DB2 vehicle_NN1 design_NN1 and_CC proper_JJ training_NN1 of_IO the_AT first_MD responders_NN2 ._. 
+</s>
+<s>
+Development_NN1 of_IO a_AT1 hydrogen_NN1 economy_NN1 would_VM produce_VVI many_DA2 jobs_NN2 and_CC make_VVI regions_NN2 less_RGR dependent_JJ upon_II resources_NN2 in_II other_JJ regions_NN2 where_RRQ oversight_NN1 of_IO working_VVG conditions_NN2 may_VM be_VBI difficult_JJ or_CC impossible_JJ ._. 
+</s>
+<s>
+Also_RR ,_, quiet_JJ cars_NN2 may_VM pose_VVI danger_NN1 to_II pedestrians_NN2 and_CC facilitate_VVI stealthy_JJ escape_NN1 of_IO criminals_NN2 ._. 
+</s>
+<s>
+The_AT environmental_JJ aspects_NN2 of_IO widespread_JJ FC_NP1 use_NN1 are_VBR similar_JJ to_II those_DD2 of_IO ICE_NN1 manufacturing_NN1 in_CS21 that_CS22 they_PPHS2 require_VV0 essentially_RR the_AT same_DA amount_NN1 of_IO energy_NN1 (_( and_CC emissions_NN2 ,_, if_CS produced_VVN in_II the_AT same_DA location_NN1 )_) ._. 
+</s>
+<s>
+The_AT potential_NN1 of_IO remanufacturing_JJ FCs_NP2 was_VBDZ not_XX found_VVN in_II the_AT literature_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, if_CS a_AT1 nontrivial_JJ amount_NN1 of_IO ICEs_NN2 are_VBR remanufactured_VVN in_II the_AT future_NN1 ,_, the_AT net_JJ manufacturing_NN1 energy_NN1 required_VVN per_II engine_NN1 would_VM be_VBI less_DAR than_CSN that_DD1 required_VVN to_TO manufacture_VVI a_AT1 FC_NP1 ._. 
+</s>
+<s>
+The_AT EV_NN1 concept_NN1 has_VHZ been_VBN around_RP for_IF over_II a_AT1 century_NNT1 ,_, but_CCB advantages_NN2 of_IO ICEs_NN2 such_II21 as_II22 long_JJ range_NN1 and_CC quick_JJ refueling_JJ time_NNT1 have_VH0 kept_VVN it_PPH1 from_II mass_JJ production_NN1 ._. 
+</s>
+<s>
+EVs_NN2 actually_RR held_VVN many_DA2 land_NN1 speed_NN1 and_CC distance_NN1 records_NN2 before_II the_AT ICE_NN1 became_VVD dominant_JJ ._. 
+</s>
+<s>
+More_RGR recently_RR in_II the_AT late_JJ 1990_MC221 's_MC222 ,_, the_AT California_NP1 Air_NN1 Resources_NN2 Board_VV0 mandated_JJ EV_NN1 sales_NN in_II California_NP1 ._. 
+</s>
+<s>
+Many_DA2 automakers_NN2 complied_VVN but_CCB challenged_VVD the_AT mandate_NN1 in_II federal_JJ court_NN1 and_CC were_VBDR eventually_RR successful_JJ ._. 
+</s>
+<s>
+For_IF reasons_NN2 mentioned_VVD earlier_RRR along_II21 with_II22 the_AT development_NN1 of_IO more_RGR advanced_JJ batteries_NN2 ,_, there_EX has_VHZ been_VBN renewed_JJ interest_NN1 in_II developing_VVG them_PPHO2 ._. 
+</s>
+<s>
+Economically_RR ,_, EVs_NN2 are_VBR expensive_JJ initially_RR and_CC years_NNT2 later_RRR ,_, since_CS many_DA2 suspect_VV0 that_CST the_AT battery_NN1 pack_NN1 will_VM have_VHI to_TO be_VBI replaced_VVN ._. 
+</s>
+<s>
+Automakers_NN2 assure_VV0 customers_NN2 that_CST internal_JJ tests_NN2 have_VH0 suggested_VVN the_AT battery_NN1 pack_NN1 will_VM last_VVI the_AT life_NN1 of_IO the_AT vehicle_NN1 ,_, yet_RR warranties_NN2 never_RR extend_VV0 beyond_II 10_MC years_NNT2 or_CC 100,000_MC miles_NNU2 ._. 
+</s>
+<s>
+Recent_JJ research_NN1 has_VHZ focused_VVN on_II developing_JJ nickel_NN1 metal_NN1 hydride_NN1 (_( NiMH_NP1 )_) and_CC lithiumion_NN1 batteries_NN2 ._. 
+</s>
+<s>
+Lead_VV0 acid_NN1 batteries_NN2 have_VH0 been_VBN used_VVN in_II many_DA2 of_IO the_AT older_JJR EVs_NN2 ._. 
+</s>
+<s>
+They_PPHS2 are_VBR the_AT least_RGT expensive_JJ ,_, but_CCB they_PPHS2 do_VD0 n't_XX hold_VVI a_AT1 high_JJ enough_DD charge_NN1 ,_, last_VV0 long_RR ,_, and_CC they_PPHS2 lead_VV0 to_II high_JJ lead_NN1 emissions_NN2 ._. 
+</s>
+<s>
+The_AT limited_JJ supply_NN1 of_IO lithium_NN1 and_CC the_AT competition_NN1 for_IF lithium_NN1 resources_NN2 from_II the_AT electronics_NN1 industry_NN1 may_VM make_VVI lithium_NN1 ion_NN1 battery_NN1 packs_NN2 expensive_JJ (_( 9_MC )_) ._. 
+</s>
+<s>
+Since_CS mass_JJ production_NN1 of_IO modern_JJ battery_NN1 packs_NN2 suitable_JJ for_IF transportation_NN1 is_VBZ not_XX currently_RR done_VDN ,_, best_JJT practices_NN2 must_VM be_VBI developed_VVN ._. 
+</s>
+<s>
+Also_RR ,_, like_II FC_NP1 and_CC hybrid_JJ electric_JJ vehicles_NN2 (_( HEV_VH0 )_) ,_, EVs_NN2 present_VV0 unique_JJ challenges_NN2 to_II first_MD responders_NN2 ._. 
+</s>
+<s>
+Automakers_NN2 have_VH0 developed_VVN the_AT interface_NN1 between_II the_AT charging_JJ source_NN1 and_CC vehicle_NN1 such_CS21 that_CS22 accidents_NN2 are_VBR unlikely_JJ ._. 
+</s>
+<s>
+Two_MC issues_NN2 that_CST are_VBR generally_RR not_XX discussed_VVN are_VBR whether_CSW31 or_CSW32 not_CSW33 quiet_JJ cars_NN2 will_VM increase_VVI pedestrian_NN1 accidents_NN2 or_CC facilitate_VV0 crimes_NN2 ,_, since_CS a_AT1 stealthy_JJ escape_NN1 would_VM be_VBI facilitated_VVN ._. 
+</s>
+<s>
+Environmentally_RR ,_, EVs_NN2 get_VV0 mixed_JJ reviews_NN2 ._. 
+</s>
+<s>
+They_PPHS2 are_VBR lauded_VVN for_IF having_VHG zero_NN1 "_" tailpipe_NN1 "_" emissions_NN2 ,_, which_DDQ will_VM be_VBI discussed_VVN further_RRR in_II the_AT next_MD section_NN1 ._. 
+</s>
+<s>
+From_II an_AT1 energy_NN1 conversion_NN1 tool_NN1 point_NN1 of_IO view_NN1 ,_, certain_JJ batteries_NN2 may_VM be_VBI sustainable_JJ and_CC others_NN2 may_VM not_XX be_VBI ._. 
+</s>
+<s>
+For_REX21 instance_REX22 ,_, all_DB of_IO the_AT components_NN2 of_IO Toyota_NP1 's_GE NiMH_NN1 batteries_NN2 can_VM be_VBI recycled_VVN ._. 
+</s>
+<s>
+Toyota_NP1 has_VHZ even_RR printed_VVN a_AT1 phone_NN1 number_NN1 on_II these_DD2 packs_NN2 and_CC offers_VVZ a_AT1 $200_NNU bounty_NN1 for_IF them_PPHO2 (_( 10_MC )_) ._. 
+</s>
+<s>
+Tesla_NN1 Motors_NN2 claims_VVZ their_APPGE batteries_NN2 can_VM be_VBI downgraded_VVN to_II less_RGR demanding_JJ applications_NN2 such_II21 as_II22 backup_NN1 power_NN1 for_IF an_AT1 offgrid_JJ home_NN1 ,_, but_CCB these_DD2 will_VM eventually_RR end_VVI up_RP in_II a_AT1 landfill_NN1 ._. 
+</s>
+<s>
+However_RR ,_, they_PPHS2 have_VH0 been_VBN experimenting_VVG with_IW a_AT1 recycling_NN1 process_NN1 and_CC claim_VV0 that_CST they_PPHS2 can_VM recycle_VVI about_RG 60%_NNU of_IO the_AT materials_NN2 and_CC reuse_VV0 10%_NNU (_( 11_MC )_) ._. 
+</s>
+<s>
+Much_RR will_VM be_VBI learned_VVN about_II disposal_NN1 and_CC recycling_NN1 of_IO these_DD2 large_JJ battery_NN1 packs_NN2 in_II the_AT coming_JJ years_NNT2 ,_, as_CSA battery_NN1 packs_NN2 from_II commercialized_JJ hybrid_JJ electric_JJ vehicles_NN2 and_CC EVs_NN2 begin_VV0 to_TO fail_VVI ._. 
+</s>
+<s>
+One_MC1 thing_NN1 that_CST all_DB fuels_NN2 have_VH0 in_RR21 common_RR22 is_VBZ that_CST a_AT1 certain_JJ amount_NN1 of_IO primary_JJ energy_NN1 (_( coal_NN1 ,_, nuclear_JJ ,_, etc._RA )_) is_VBZ required_VVN to_TO acquire_VVI ,_, process_VVI ,_, and_CC deliver_VVI them_PPHO2 to_II consumers_NN2 ._. 
+</s>
+<s>
+Energy_NN1 is_VBZ required_VVN to_TO extract_VVI petroleum_NN1 from_II the_AT earth_NN1 ,_, refine_VV0 it_PPH1 and_CC deliver_VV0 it_PPH1 to_II filling_VVG stations_NN2 ._. 
+</s>
+<s>
+At_II the_AT other_JJ end_NN1 of_IO the_AT spectrum_NN1 ,_, EVs_NN2 use_VV0 primary_JJ fuel_NN1 directly_RR ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST an_AT1 analysis_NN1 on_II the_AT sustainability_NN1 of_IO various_JJ fuels_NN2 should_VM include_VVI a_AT1 discussion_NN1 on_II the_AT status_NN1 of_IO primary_JJ energy_NN1 production_NN1 ._. 
+</s>
+<s>
+Global_JJ climate_NN1 change_NN1 has_VHZ received_VVN considerable_JJ attention_NN1 is_VBZ recent_JJ years_NNT2 from_II governing_JJ bodies_NN2 around_II the_AT world_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ generally_RR accepted_VVN that_CST anthropogenic_JJ CO2_FO emissions_NN2 contribute_VV0 to_II warming_VVG ,_, and_CC these_DD2 governing_JJ bodies_NN2 are_VBR taking_VVG the_AT beginning_NN1 steps_NN2 to_TO reduce_VVI and_CC eventually_RR mitigate_VVI these_DD2 emissions_NN2 ._. 
+</s>
+<s>
+Barring_II any_DD unforeseen_JJ turn_NN1 of_IO events_NN2 ,_, it_PPH1 is_VBZ assumed_VVN that_CST the_AT developed_JJ nations_NN2 will_VM begin_VVI utilizing_VVG more_RGR renewable_JJ energy_NN1 and_CC cleaner_JJR energy_NN1 technologies_NN2 such_II21 as_II22 carbon_NN1 capture_NN1 ._. 
+</s>
+<s>
+In_II the_AT future_NN1 ,_, nuclear_JJ fission_NN1 may_VM also_RR enter_VVI the_AT picture_NN1 and_CC begin_VVI producing_VVG cleaner_JJR energy_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR assumed_VVN that_CST developed_JJ nations_NN2 will_VM assist_VVI developing_JJ nations_NN2 in_II developing_VVG a_AT1 clean_JJ energy_NN1 portfolio_NN1 ._. 
+</s>
+<s>
+EVs_NN2 utilize_VV0 electricity_NN1 that_CST can_VM be_VBI generated_VVN with_IW any_DD primary_JJ fuel_NN1 ._. 
+</s>
+<s>
+LaPuma_NN1 and_CC McCleese_NP1 performed_VVD an_AT1 LCA_NN1 for_IF EVs_NN2 and_CC ICE_NN1 vehicles_NN2 using_VVG the_AT Monte_NP1 Carlo_NP1 simulation_NN1 and_CC concluded_VVD that_DD1 greenhouse_NN1 gas_NN1 emissions_NN2 may_VM actually_RR be_VBI increased_VVN with_IW electric_JJ vehicles_NN2 if_CS the_AT electricity_NN1 is_VBZ produced_VVN using_VVG the_AT USs_NN1 energy_NN1 portfolio_NN1 ._. 
+</s>
+<s>
+Other_JJ results_NN2 include_VV0 higher_JJR SOx_NN2 ,_, NOx_NP1 ,_, and_CC particulate_VV0 matter_NN1 emissions_NN2 ,_, and_CC a_AT1 possible_JJ reduction_NN1 in_II VOCs_NN2 and_CC CO_NP1 emissions_NN2 (_( 12_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, if_CS a_AT1 sustainable_JJ primary_JJ fuel_NN1 is_VBZ used_VVN such_II21 as_II22 wind_NN1 ,_, solar_JJ ,_, or_CC geothermal_JJ ,_, then_RT the_AT fuel_NN1 for_IF electric_JJ vehicles_NN2 can_VM be_VBI considered_VVN sustainable.One_NNU thing_NN1 to_TO note_VVI is_VBZ that_DD1 with_IW widespread_JJ use_NN1 of_IO EVs_NN2 ,_, the_AT electrical_JJ grid_NN1 in_II developed_JJ countries_NN2 will_VM have_VHI to_TO be_VBI upgraded_VVN ._. 
+</s>
+<s>
+H2_FO is_VBZ currently_RR considered_VVN a_AT1 synthetic_JJ fuel_NN1 ,_, as_II31 opposed_II32 to_II33 a_AT1 biofuel_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 candidate_NN1 for_IF gasoline_NN1 engines_NN2 ,_, namely_REX spark_NN1 ignition_NN1 direct_JJ injection_NN1 lean_JJ burn_NN1 engines_NN2 ,_, and_CC FCs_NP2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ currently_RR produced_VVN mainly_RR by_II steam_NN1 reforming_VVG natural_JJ gas_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ not_XX a_AT1 sustainable_JJ practice_NN1 given_VVN the_AT use_NN1 of_IO fossil_NN1 fuels_NN2 ,_, so_CS the_AT next_MD best_JJT current_JJ option_NN1 that_CST has_VHZ the_AT potential_JJ to_TO be_VBI sustainable_JJ is_VBZ the_AT electrolysis_NN1 of_IO water_NN1 ._. 
+</s>
+<s>
+Electrolysis_NN1 is_VBZ a_AT1 process_NN1 by_II which_DDQ electrical_JJ current_NN1 is_VBZ passed_VVN through_II the_AT water_NN1 molecules_NN2 ,_, breaking_VVG them_PPHO2 apart_RL ._. 
+</s>
+<s>
+Accordingly_RR ,_, the_AT sustainability_NN1 of_IO producing_VVG H2_FO via_II this_DD1 process_NN1 is_VBZ determined_VVN by_II the_AT sustainability_NN1 of_IO the_AT primary_JJ energy_NN1 source_NN1 used_VMK to_TO generate_VVI the_AT electricity_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 number_NN1 of_IO processes_NN2 currently_RR in_II the_AT research_NN1 phase_NN1 to_TO renewably_RR produce_VVI H2_FO ,_, but_CCB they_PPHS2 have_VH0 yet_RR to_TO show_VVI potential_JJ for_IF commercial_JJ use_NN1 ._. 
+</s>
+<s>
+These_DD2 processes_NN2 are_VBR as_CSA follows_VVZ :_: The_AT Fischer_NP1 Tropsch_NP1 ,_, Bergius_NP1 ,_, and_CC Karrick_NP1 processes_VVZ each_DD1 produce_NN1 synthetic_JJ hydrocarbons_NN2 in_II different_JJ ways_NN2 ._. 
+</s>
+<s>
+The_AT Fischer_NP1 Tropsch_NP1 and_CC Bergius_NP1 processes_NN2 reacts_VVZ CO_FO and_CC coal_NN1 ,_, respectively_RR ,_, with_IW H2_FO to_TO produce_VVI fuel_NN1 ._. 
+</s>
+<s>
+The_AT Karrick_NP1 process_NN1 is_VBZ a_AT1 low_JJ temperature_NN1 coal_NN1 distillation_NN1 process_NN1 which_DDQ produces_VVZ fuel_NN1 and_CC other_JJ oils_NN2 ._. 
+</s>
+<s>
+These_DD2 processes_NN2 ,_, especially_RR the_AT latter_DA ,_, provide_VV0 great_JJ potential_NN1 for_IF countries_NN2 to_TO reduce_VVI dependence_NN1 upon_II foreign_JJ oil_NN1 and_CC to_TO fill_VVI the_AT possible_JJ gap_NN1 in_II fuels_NN2 if_CS petroleum_NN1 reserves_NN2 dry_VV0 up_RP and_CC biofuels_NN2 and_CC other_JJ transportation_NN1 vehicles_NN2 fulfill_VV0 the_AT transportation_NN1 needs_NN2 ._. 
+</s>
+<s>
+China_NP1 has_VHZ recently_RR begun_VVN to_TO invest_VVI in_II this_DD1 technology_NN1 ._. 
+</s>
+<s>
+However_RR ,_, these_DD2 are_VBR carbonaceous_JJ fuels_NN2 and_CC the_AT net_JJ result_NN1 of_IO producing_VVG and_CC burning_VVG them_PPHO2 will_VM result_VVI in_II CO2_FO emissions_NN2 into_II the_AT atmosphere_NN1 ,_, among_II other_JJ emissions_NN2 ,_, so_CS they_PPHS2 are_VBR not_XX sustainable_JJ ._. 
+</s>
+<s>
+The_AT Fischer_NP1 Tropsch_NP1 process_NN1 may_VM see_VVI usage_NN1 in_II the_AT interim_NN1 since_CS the_AT feedstock_NN1 is_VBZ CO2_FO ,_, and_CC there_EX may_VM be_VBI plenty_PN of_IO CO2_FO available_JJ by_II carbon_NN1 capture_NN1 at_II coal_NN1 fired_VVD power_NN1 plants_NN2 ._. 
+</s>
+<s>
+Methanol_NN1 is_VBZ a_AT1 synthetic_JJ alcohol_NN1 fuel_NN1 that_CST is_VBZ considered_VVN by_II some_DD to_TO be_VBI a_AT1 viable_JJ replacement_NN1 to_II petroleum_NN1 based_VVN fuels_NN2 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI utilized_VVN in_II ICEs_NN2 and_CC FCs_NP2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ typically_RR produced_VVN by_II reforming_VVG natural_JJ gas_NN1 and_CC steam_NN1 in_II a_AT1 furnace_NN1 to_TO produce_VVI CO_FO and_CC H2_FO ,_, which_DDQ are_VBR then_RT reacted_VVN in_II the_AT presence_NN1 of_IO a_AT1 catalyst_NN1 ._. 
+</s>
+<s>
+Another_DD1 method_NN1 of_IO producing_VVG methanol_NN1 is_VBZ via_II a_AT1 fuel_NN1 cell_NN1 developed_VVN by_II researchers_NN2 at_II the_AT University_NN1 of_IO Southern_JJ California_NP1 ._. 
+</s>
+<s>
+It_PPH1 runs_VVZ in_II reverse_NN1 compared_VVN to_II other_JJ fuel_NN1 cells_NN2 ;_; H2O_FO and_CC CO2_FO are_VBR fed_VVN into_II the_AT cell_NN1 along_II21 with_II22 electricity_NN1 ,_, and_CC the_AT products_NN2 are_VBR methanol_NN1 molecules_NN2 ._. 
+</s>
+<s>
+While_CS this_DD1 may_VM find_VVI some_DD use_NN1 as_II a_AT1 carbon_NN1 capture_NN1 technology_NN1 since_CS there_EX are_VBR many_DA2 uses_NN2 for_IF methanol_NN1 ,_, it_PPH1 is_VBZ not_XX a_AT1 sustainable_JJ fuel_NN1 since_CS it_PPH1 produces_VVZ CO2_FO when_CS burned_VVN or_CC chemically_RR reacted_VVD in_II FCs_NP2 ._. 
+</s>
+<s>
+Ethanol_NN1 is_VBZ receiving_VVG a_AT1 large_JJ amount_NN1 of_IO attention_NN1 as_II an_AT1 alternative_JJ fuel_NN1 front_NN1 runner_NN1 ._. 
+</s>
+<s>
+Several_DA2 factors_NN2 lend_VV0 to_II the_AT buzz_FU ethanol_NN1 receives_VVZ in_II the_AT U.S._NP1 As_II the_AT source_NN1 of_IO ethanol_NN1 production_NN1 ,_, corn_NN1 is_VBZ viewed_VVN by_II many_DA2 as_CSA a_AT1 fully_RR sustainable_JJ source_NN1 ._. 
+</s>
+<s>
+Corn_NN1 is_VBZ grown_VVN domestically_RR in_II large_JJ quantities_NN2 ,_, therefore_RR is_VBZ readily_RR available_JJ ._. 
+</s>
+<s>
+The_AT fermentation_NN1 processes_NN2 from_II either_RR sucrose_NN1 of_IO sugarcane_NN1 or_CC enzymatically_RR derived_VVN from_II starch_NN1 of_IO corn_NN1 are_VBR two_MC mature_JJ and_CC widespread_JJ technologies_NN2 (_( 21_MC )_) ._. 
+</s>
+<s>
+Each_DD1 of_IO these_DD2 factors_NN2 appears_VVZ to_TO point_VVI to_II a_AT1 viable_JJ alternative_NN1 ._. 
+</s>
+<s>
+However_RR ,_, bioethanol_NN1 will_VM not_XX be_VBI able_JK to_TO act_VVI as_II a_AT1 full_JJ replacement_NN1 of_IO petrol_NN1 fuels_NN2 in_II current_JJ or_CC slightly_RR modified_JJ ICEs_NN2 ._. 
+</s>
+<s>
+Even_RR with_IW 100%_NNU dedication_NN1 of_IO agricultural_JJ corn_NN1 production_NN1 to_II ethanol_NN1 development_NN1 there_EX would_VM not_XX be_VBI enough_DD to_TO completely_RR relieve_VVI the_AT U.S._NP1 of_IO petroleum_NN1 dependency_NN1 ._. 
+</s>
+<s>
+Bioethanol_NN1 has_VHZ a_AT1 lower_JJR energy_NN1 density_NN1 and_CC would_VM require_VVI more_DAR quantities_NN2 to_TO match_VVI the_AT output_NN1 of_IO current_JJ fuels_NN2 in_II ICEs_NN2 ._. 
+</s>
+<s>
+In_II31 terms_II32 of_II33 the_AT environmental_JJ impact_NN1 from_II production_NN1 ,_, the_AT current_JJ infrastructure_NN1 for_IF bioethanol_NN1 is_VBZ still_RR based_VVN in_II fossil_NN1 fuel_NN1 dependency_NN1 ._. 
+</s>
+<s>
+Currently_RR ,_, a_AT1 significant_JJ amount_NN1 of_IO fossil_NN1 fuels_NN2 are_VBR expended_VVN from_II making_VVG fertilizers_NN2 for_IF agriculture_NN1 ._. 
+</s>
+<s>
+Ethanol_NN1 production_NN1 uses_VVZ the_AT same_DA fertilizers_NN2 ._. 
+</s>
+<s>
+Another_DD1 aspect_NN1 of_IO the_AT bioethanol_NN1 infrastructure_NN1 that_CST is_VBZ counterproductive_JJ is_VBZ the_AT use_NN1 of_IO coal_NN1 and_CC other_JJ fossil_NN1 fuels_NN2 to_II power_NN1 the_AT conversion_NN1 process_NN1 from_II starch_NN1 to_II ethanol_NN1 ._. 
+</s>
+<s>
+The_AT ideal_JJ biofuel_NN1 is_VBZ carbon_NN1 neutral_JJ ,_, but_CCB under_II the_AT current_JJ infrastructure_NN1 bioethanol_NN1 is_VBZ in_II fact_NN1 a_AT1 negative_JJ contributor_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ clear_JJ that_CST bioethanol_NN1 is_VBZ not_XX a_AT1 final_JJ solution_NN1 ,_, but_CCB with_IW improvements_NN2 of_IO infrastructure_NN1 opportunities_NN2 exist_VV0 as_II a_AT1 partial_JJ replacement_NN1 and_CC additive_JJ to_II gasoline_NN1 (_( 22_MC )_) ._. 
+</s>
+<s>
+An_AT1 area_NN1 that_CST bioethanol_NN1 can_VM have_VHI an_AT1 immediate_JJ positive_JJ environmental_JJ impact_NN1 is_VBZ in_II gasoline_NN1 additives_NN2 ._. 
+</s>
+<s>
+By_II replacing_VVG traditional_JJ additives_NN2 ,_, a_AT1 significant_JJ decrease_NN1 in_II harmful_JJ exhaust_NN1 gases_NN2 results_NN2 ._. 
+</s>
+<s>
+Ethanol_NN1 competes_VVZ on_II basis_NN1 of_IO cost_NN1 and_CC quality_NN1 in_II gasoline_NN1 additives_NN2 markets_NN2 (_( 21_MC )_) ._. 
+</s>
+<s>
+The_AT ideal_JJ blend_NN1 to_TO run_VVI in_II ICEs_NN2 is_VBZ E30_FO (_( 30%_NNU ethanol_NN1 )_) ._. 
+</s>
+<s>
+E30_FO has_VHZ a_AT1 comparable_JJ compression_NN1 ration_NN1 to_II diesel_NN1 ._. 
+</s>
+<s>
+The_AT lower_JJR energy_NN1 density_NN1 is_VBZ approaches_NN2 a_AT1 negligible_JJ level_NN1 ._. 
+</s>
+<s>
+Flexfuel_VV0 E85_FO and_CC E20_FO and_CC below_RL do_VD0 not_XX compensate_VVI for_IF lower_JJR energy_NN1 density_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 higher_JJR blends_NN2 do_VD0 not_XX actually_RR displace_VVI more_DAR gasoline_NN1 ._. 
+</s>
+<s>
+The_AT amount_NN1 of_IO power_NN1 lost_VVN in_II comparison_NN1 to_II gasoline_NN1 is_VBZ proportional_JJ to_II the_AT blend_NN1 of_IO Ethanol_NN1 ._. 
+</s>
+<s>
+Larger_JJR quantities_NN2 of_IO ethanol_NN1 fuel_NN1 are_VBR necessary_JJ to_II power_NN1 ICEs_NN2 above_II E30_FO ._. 
+</s>
+<s>
+Ethanol_NN1 will_VM not_XX be_VBI able_JK to_TO completely_RR displace_VVI gasoline_NN1 by_II any_DD means_NN ,_, but_CCB Ethanol_NP1 could_VM be_VBI sustainable_JJ in_II the_AT immediate_JJ future_NN1 in_II the_AT niche_NN1 market_NN1 for_IF additives_NN2 (_( 22_MC )_) ._. 
+</s>
+<s>
+In_II31 terms_II32 of_II33 bioalcohols_NN2 ,_, butanol_NN1 is_VBZ the_AT alcohol_NN1 that_RG most_RRT resembles_VVZ the_AT performance_NN1 of_IO petroleum_NN1 based_VVN fuels_NN2 ._. 
+</s>
+<s>
+Butanol_NN1 is_VBZ an_AT1 excellent_JJ fuel_NN1 ._. 
+</s>
+<s>
+The_AT caloric_JJ value_NN1 of_IO butanol_NN1 is_VBZ much_RR closer_JJR to_II that_DD1 of_IO gasoline_NN1 than_CSN ethanol_NN1 ._. 
+</s>
+<s>
+A_AT1 lower_JJR freezing_JJ point_NN1 makes_VVZ butanol_NN1 more_RRR suited_VVN for_IF cooler_JJR climates_NN2 than_CSN ethanol_NN1 ._. 
+</s>
+<s>
+In_II current_JJ ICEs_NN2 ,_, butanol_NN1 works_VVZ well_RR as_II a_AT1 gasoline_NN1 replacement_NN1 ._. 
+</s>
+<s>
+100%_NNU concentration_NN1 butanol_NN1 can_VM be_VBI used_VVN in_II ICEs_NN2 ._. 
+</s>
+<s>
+The_AT prospect_NN1 of_IO butanol_NN1 fully_RR replacing_VVG gasoline_NN1 in_II ICEs_NN2 is_VBZ aided_VVN by_II the_AT fact_NN1 that_CST butanol_NN1 can_VM be_VBI pumped_VVN through_II existing_JJ pipelines_NN2 ._. 
+</s>
+<s>
+Ethanol_NN1 on_II the_AT other_JJ hand_NN1 must_VM be_VBI transported_VVN via_II trucks_NN2 from_II location_NN1 to_II location_NN1 ._. 
+</s>
+<s>
+Maintaining_VVG existing_JJ infrastructure_NN1 is_VBZ a_AT1 characteristic_NN1 of_IO a_AT1 sustainable_JJ fuel_NN1 ._. 
+</s>
+<s>
+Many_DA2 of_IO the_AT mentioned_VVN factors_NN2 point_VV0 to_II butanol_NN1 as_II a_AT1 potential_JJ gasoline_NN1 replacement_NN1 ,_, but_CCB all_DB factors_NN2 must_VM be_VBI considered_VVN ._. 
+</s>
+<s>
+Currently_RR ,_, the_AT production_NN1 of_IO butanol_NN1 is_VBZ not_XX in_II large_JJ quantity_NN1 ._. 
+</s>
+<s>
+What_DDQ is_VBZ holding_VVG butanol_NN1 back_RP from_II large_JJ scale_NN1 production_NN1 ?_? 
+</s>
+<s>
+Economics_NN1 ._. 
+</s>
+<s>
+Producing_VVG butanol_NN1 is_VBZ more_RGR expensive_JJ than_CSN producing_JJ ethanol_NN1 ._. 
+</s>
+<s>
+The_AT ABE_NP1 (_( AcetoneButanolEthanol_NP1 )_) fermentation_NN1 process_NN1 uses_VVZ bacteria_NN2 cultures_NN2 to_TO ferment_VVI biomass_NN1 ._. 
+</s>
+<s>
+Currently_RR ,_, the_AT cost_NN1 of_IO the_AT cultures_NN2 is_VBZ far_RG higher_JJR than_CSN desired_VVN for_IF economic_JJ growth_NN1 ._. 
+</s>
+<s>
+Research_NN1 is_VBZ now_RT being_VBG conducted_VVN to_TO develop_VVI higher_JJR output_NN1 bacteria_NN2 cultures_NN2 ._. 
+</s>
+<s>
+One_MC1 culture_NN1 considered_VVN is_VBZ C._NP1 acetobutylicum_NN1 ,_, which_DDQ outputs_VVZ a_AT1 greater_JJR butanol_NN1 yield_NN1 than_CSN other_JJ cultures_NN2 ._. 
+</s>
+<s>
+If_CS ABE_NP1 is_VBZ produced_VVN from_II C._NP1 acetobutylicum_NN1 ,_, the_AT price_NN1 of_IO butanol_NN1 drops_VVZ from_II $0.73_NNU kg1_FO to_II $0.55_NNU kg1_FO ._. 
+</s>
+<s>
+Adding_VVG a_AT1 credit_NN1 from_II selling_VVG acetone_NN1 ,_, which_DDQ is_VBZ one_MC1 of_IO the_AT byproducts_NN2 ,_, and_CC then_RT the_AT butanol_NN1 price_NN1 drops_VVZ to_II $0.46_NNU kg1_FO (_( 24_MC )_) ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI noted_VVN that_CST the_AT byproduct_NN1 potential_NN1 for_IF ABE_NP1 fermentation_NN1 is_VBZ strong_JJ ._. 
+</s>
+<s>
+Along_II21 with_II22 acetone_NN1 additional_JJ byproducts_NN2 include_VV0 :_: ethanol_NN1 ,_, gases_NN2 (_( H2_FO and_CC CO2_FO )_) ,_, biomass_NN1 corn_NN1 fiber_NN1 ,_, and_CC corn_NN1 oil_NN1 ._. 
+</s>
+<s>
+Such_DA economic_JJ advances_NN2 must_VM continue_VVI if_CSW butanol_NN1 is_VBZ to_TO ever_RR become_VVI viable_JJ as_II a_AT1 gasoline_NN1 replacement_NN1 ._. 
+</s>
+<s>
+An_AT1 immediate_JJ impact_NN1 that_CST butanol_NN1 may_VM have_VHI is_VBZ in_II the_AT fuel_NN1 additive_JJ market_NN1 ._. 
+</s>
+<s>
+Similar_JJ to_II ethanol_NN1 ,_, adding_VVG butanol_NN1 to_II gasoline_NN1 or_CC diesel_NN1 fuels_NN2 improve_VV0 the_AT performance_NN1 while_CS hedging_VVG emissions_NN2 ._. 
+</s>
+<s>
+Butanol_NN1 as_II an_AT1 additive_JJ is_VBZ sustainable_JJ ,_, but_CCB as_II a_AT1 replacement_NN1 there_EX is_VBZ a_AT1 large_JJ gap_NN1 in_II progress_NN1 that_CST must_VM be_VBI addressed_VVN ._. 
+</s>
+<s>
+The_AT next_MD stage_NN1 in_II bioalcohols_NN2 use_VV0 for_IF ICEs_NN2 is_VBZ mixed_VVN alcohols_NN2 ._. 
+</s>
+<s>
+Mixing_VVG alcohols_NN2 such_II21 as_II22 ethanol_NN1 ,_, butanol_NN1 ,_, propanol_NN1 ,_, and_CC higher_JJR alcohols_NN2 can_VM have_VHI beneficiary_NN1 results_NN2 ._. 
+</s>
+<s>
+The_AT overall_JJ performance_NN1 as_II a_AT1 fuel_NN1 improves_VVZ in_II31 comparison_II32 with_II33 standard_JJ ethtanol_NN1 ._. 
+</s>
+<s>
+Another_DD1 concern_NN1 with_IW ethanol_NN1 is_VBZ the_AT compatibility_NN1 issues_NN2 with_IW gasoline_NN1 due_II21 to_II22 higher_JJR water_NN1 solubility_NN1 and_CC higher_JJR phase_NN1 separation_NN1 temperature_NN1 ,_, but_CCB mixing_VVG in_II butanol_NN1 and_CC other_JJ alcohols_NN2 provides_VVZ more_DAR compatibility_NN1 ._. 
+</s>
+<s>
+Increased_JJ water_NN1 tolerance_NN1 and_CC decreased_JJ phase_NN1 separation_NN1 temperature_NN1 of_IO mixed_JJ alcohols_NN2 blend_VV0 open_VV0 the_AT possibility_NN1 of_IO pipeline_NN1 shipping_NN1 ,_, which_DDQ is_VBZ not_XX possible_JJ with_IW pure_JJ ethanol_NN1 (_( 21_MC )_) ._. 
+</s>
+<s>
+Derived_VVN from_II vegetable_NN1 oils_NN2 and_CC animal_NN1 fats_NN2 ,_, Biodiesel_NP1 has_VHZ an_AT1 advantage_NN1 over_II other_JJ biofuels_NN2 in_CS21 that_CS22 the_AT feedstock_NN1 used_VVN may_VM be_VBI of_IO regional_JJ origin_NN1 ._. 
+</s>
+<s>
+Corn_NN1 can_56 not_56 be_VBI grown_VVN everywhere_RL ,_, hence_RR ethanol_NN1 has_VHZ limitations_NN2 on_II where_RRQ it_PPH1 can_VM be_VBI produced_VVN ._. 
+</s>
+<s>
+But_CCB ,_, for_IF biodiesel_NN1 the_AT local_JJ oil_NN1 bearing_VVG crop_NN1 is_VBZ adequate_JJ ._. 
+</s>
+<s>
+Along_II21 with_II22 animal_NN1 fats_NN2 ,_, coconuts_NN2 ,_, soybean_NN1 ,_, rapeseed_NN1 ,_, sunflower_VV0 seeds_NN2 ,_, and_CC canola_NN1 are_VBR used_VVN in_II the_AT biodiesel_NN1 process_NN1 known_VVN as_II transesterification_NN1 ._. 
+</s>
+<s>
+During_II transesterification_NN1 ,_, the_AT vegetable_NN1 oils_NN2 or_CC animal_NN1 fat_NN1 are_VBR exposed_VVN to_II an_AT1 alcohol_NN1 (_( ethanol_NN1 or_CC methanol_NN1 )_) and_CC glycerin_NN1 is_VBZ separated_VVN as_II a_AT1 byproduct_NN1 ._. 
+</s>
+<s>
+The_AT biodiesel_NN1 left_VVD behind_RL is_VBZ sold_VVN as_CSA fuel_NN1 and_CC the_AT glycerin_NN1 can_VM be_VBI sold_VVN to_II the_AT pharmaceutical_JJ and_CC cosmetic_JJ industries_NN2 ._. 
+</s>
+<s>
+The_AT process_NN1 has_VHZ a_AT1 yield_NN1 of_IO 70%90%_FO ._. 
+</s>
+<s>
+As_CSA mentioned_VVN each_DD1 region_NN1 has_VHZ a_AT1 preferred_JJ feedstock_NN1 that_CST has_VHZ higher_JJR yields_NN2 ._. 
+</s>
+<s>
+For_IF the_AT United_NP1 States_NP1 ,_, the_AT soybean_NN1 is_VBZ the_AT most_RGT viable_JJ feedstock_NN1 despite_II its_APPGE lower_JJR yield_NN1 ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI noted_VVN that_CST biodiesel_VV0 cost_NN1 can_VM be_VBI lowered_VVN with_IW increasing_JJ feedstock_NN1 yields_NN2 ._. 
+</s>
+<s>
+Currently_RR the_AT cost_NN1 of_IO biodiesel_NN1 at_II $0.80$0.90_NNU L1_FO is_VBZ not_XX comparable_JJ to_II petroleum_NN1 derived_VVD diesel_NN1 ._. 
+</s>
+<s>
+While_CS the_AT price_NN1 is_VBZ not_XX desirable_JJ ,_, the_AT environmental_JJ benefits_NN2 certainly_RR are_VBR ._. 
+</s>
+<s>
+Biodiesel_VV0 reduce_VV0 exhaust_NN1 emissions_NN2 in_II comparison_NN1 to_II the_AT petroleum_NN1 diesel_NN1 (_( 21_MC )_) ._. 
+</s>
+<s>
+As_II the_AT figure_NN1 indicates_VVZ in_II most_DAT cases_NN2 the_AT emissions_NN2 are_VBR reduced_VVN by_II good_JJ margins_NN2 ._. 
+</s>
+<s>
+The_AT fact_NN1 that_CST current_JJ diesel_NN1 engines_NN2 are_VBR completely_RR compatible_JJ with_IW no_AT modification_NN1 necessary_JJ lends_VVZ well_RR to_II the_AT immediate_JJ possibilities_NN2 of_IO biodiesel_NN1 ._. 
+</s>
+<s>
+Something_PN1 that_CST must_VM be_VBI addressed_VVN is_VBZ the_AT available_JJ power_NN1 for_IF a_AT1 biodiesel_NN1 fueled_VVD vehicle_NN1 ._. 
+</s>
+<s>
+The_AT lower_JJR caloric_JJ value_NN1 of_IO biodiesel_NN1 dictates_VVZ the_AT need_NN1 for_IF more_DAR fuel_NN1 consumption_NN1 in_II31 comparison_II32 with_II33 petroleum_NN1 diesel_NN1 ._. 
+</s>
+<s>
+Indeed_RR ,_, for_IF higher_JJR blends_NN2 the_AT performance_NN1 is_VBZ not_XX as_RG strong_JJ ._. 
+</s>
+<s>
+Unless_CS reduced_JJ power_NN1 is_VBZ not_XX a_AT1 concern_NN1 ,_, it_PPH1 appears_VVZ currently_RR biodiesel_VV0 is_VBZ best_RRT suited_VVN for_IF the_AT additive_JJ market_NN1 (_( 23_MC )_) ._. 
+</s>
+<s>
+What_DDQ provides_VVZ hope_NN1 in_II the_AT performance_NN1 area_NN1 modifications_NN2 to_II the_AT engine_NN1 that_CST recirculate_VV0 and_CC reform_VV0 the_AT exhaust_NN1 so_CS21 that_CS22 the_AT fuel_NN1 can_VM be_VBI more_RGR completely_RR combusted_VVN ._. 
+</s>
+<s>
+Exhaust_VV0 Gas_NN1 Reformation_NN1 (_( EGR_NP1 )_) makes_VVZ use_NN1 of_IO exhaust_NN1 (_( H2_FO ,_, CO_NP1 ,_, CO2_FO ,_, and_CC CH4_FO )_) that_CST would_VM be_VBI wasted_VVN in_II other_JJ engines_NN2 ._. 
+</s>
+<s>
+What_DDQ can_VM be_VBI said_VVN about_II biodiesel_NN1 is_VBZ that_CST the_AT compatibility_NN1 and_CC flexibility_NN1 of_IO feedstock_NN1 make_VV0 immediate_JJ use_NN1 possible_JJ ._. 
+</s>
+<s>
+What_DDQ holds_VVZ biodiesel_NN1 back_NN1 is_VBZ the_AT current_JJ cost_NN1 and_CC lower_JJR energy_NN1 density_NN1 ._. 
+</s>
+<s>
+The_AT fact_NN1 that_CST biodiesel_NN1 has_VHZ a_AT1 higher_JJR cost_NN1 and_CC requires_VVZ use_NN1 of_IO more_DAR fuel_NN1 than_CSN petroleum_NN1 diesel_NN1 hampers_NN2 the_AT sustainability_NN1 beyond_II short_JJ term_NN1 ,_, unless_CS costs_NN2 come_VV0 down_RP ._. 
+</s>
+<s>
+Algae_NN2 are_VBR being_VBG considered_VVN to_TO enhance_VVI another_DD1 market_NN1 ._. 
+</s>
+<s>
+The_AT hydrogen_NN1 market_NN1 is_VBZ currently_RR dominated_VVN by_II synthetic_JJ production_NN1 ._. 
+</s>
+<s>
+While_CS in_II extremely_RR early_JJ stages_NN2 of_IO development_NN1 ,_, algae_NN2 may_VM be_VBI able_JK to_TO be_VBI used_VVN to_TO harvest_VVI hydrogen_NN1 ._. 
+</s>
+<s>
+With_IW the_AT same_DA advantages_NN2 of_IO low_JJ land_NN1 to_II production_NN1 ratio_NN1 and_CC flexible_JJ location_NN1 ,_, the_AT hydrogen_NN1 producing_VVG algae_NN2 could_VM make_VVI a_AT1 hydrogen_NN1 economy_NN1 a_AT1 possibility_NN1 (_( 27_MC )_) ._. 
+</s>
+<s>
+A_AT1 transition_NN1 to_II more_RGR sustainable_JJ transportation_NN1 technologies_NN2 can_56 not_56 happen_VVI overnight_RT ,_, so_CS we_PPIS2 will_VM continue_VVI to_TO use_VVI petroleum_NN1 based_VVN fuels_NN2 for_IF some_DD time_NNT1 ._. 
+</s>
+<s>
+The_AT amount_NN1 of_IO biofuels_NN2 will_VM be_VBI increased_VVN ;_; some_DD lawmakers_NN2 may_VM wish_VVI to_TO do_VDI so_RG simply_RR to_TO reduce_VVI foreign_JJ oil_NN1 dependency_NN1 ,_, while_CS others_NN2 also_RR want_VV0 to_TO reduce_VVI CO2_FO emissions_NN2 ._. 
+</s>
+<s>
+The_AT environmental_JJ benefits_NN2 of_IO these_DD2 first_MD generation_NN1 biofuels_NN2 are_VBR disputed_VVN and_CC the_AT use_NN1 of_IO arable_JJ land_NN1 to_TO produce_VVI fuel_NN1 has_VHZ reduced_VVN food_NN1 supply_NN1 and_CC hence_RR raising_VVG food_NN1 costs_NN2 ,_, so_CS this_DD1 is_VBZ an_AT1 interim_JJ measure_NN1 ._. 
+</s>
+<s>
+Electric_JJ vehicles_NN2 may_VM also_RR be_VBI introduced_VVN which_DDQ will_VM relocate_VVI pollution_NN1 away_II21 from_II22 urban_JJ centers_NN2 ._. 
+</s>
+<s>
+This_DD1 may_VM positively_RR affect_VVI environmental_JJ conditions_NN2 in_II local_JJ areas_NN2 ,_, but_CCB depending_II21 on_II22 the_AT region_NN1 they_PPHS2 receive_VV0 electricity_NN1 from_II the_AT net_JJ impact_NN1 could_VM be_VBI more_DAR pollution_NN1 ._. 
+</s>
+<s>
+Renewable_JJ energy_NN1 sources_NN2 such_II21 as_II22 wind_NN1 ,_, solar_JJ ,_, and_CC geothermal_JJ must_VM be_VBI developed_VVN and_CC tapped_VVN to_TO produce_VVI clean_JJ energy_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, significant_JJ investment_NN1 must_VM be_VBI put_VVN into_II developing_VVG nuclear_JJ fission_NN1 reactors_NN2 and_CC carbon_NN1 capture_NN1 technologies_NN2 ._. 
+</s>
+<s>
+If_CS the_AT usage_NN1 of_IO EVs_NN2 is_VBZ considered_VVN a_AT1 long_JJ term_NN1 solution_NN1 ,_, then_RT the_AT development_NN1 and_CC implementation_NN1 of_IO these_DD2 technologies_NN2 must_VM proceed_VVI at_II a_AT1 faster_JJR rate_NN1 than_CSN the_AT growth_NN1 of_IO primary_JJ energy_NN1 demand_NN1 ._. 
+</s>
+<s>
+When_CS the_AT proportion_NN1 of_IO cleaner_JJR power_NN1 gets_VVZ large_JJ enough_RR ,_, EVs_NN2 will_VM begin_VVI to_TO mitigate_VVI CO2_FO ,_, NOx_NP1 ,_, SOx_NN2 ,_, and_CC PM_NP1 pollution_NN1 not_XX only_RR locally_RR but_CCB globally_RR ._. 
+</s>
+<s>
+At_II this_DD1 point_NN1 ,_, if_CS governing_JJ bodies_NN2 are_VBR still_RR concerned_JJ with_IW global_JJ warming_NN1 and/or_CC other_JJ pollutants_NN2 ,_, their_APPGE use_NN1 may_VM be_VBI promoted_VVN by_II governments_NN2 in_II the_AT form_NN1 of_IO subsidies_NN2 or_CC tax_NN1 breaks_NN2 and_CC their_APPGE market_NN1 share_NN1 will_VM likely_RR increase_VVI ._. 
+</s>
+<s>
+At_II this_DD1 point_NN1 ,_, two_MC scenarios_NN2 may_VM develop_VVI ._. 
+</s>
+<s>
+If_CS the_AT development_NN1 of_IO next_MD generation_NN1 biofuels_VVZ such_II21 as_II22 "_" oilgae_NN2 "_" are_VBR successful_JJ in_CS21 that_CS22 the_AT processes_NN2 are_VBR optimized_VVN and_CC infrastructure_NN1 developed_VVD ,_, the_AT supply_NN1 of_IO biofuels_NN2 will_VM increase_VVI ,_, displacing_VVG petroleum_NN1 based_VVN fuels_NN2 ._. 
+</s>
+<s>
+Eventually_RR ,_, the_AT next_MD generation_NN1 of_IO biofuels_NN2 could_VM replace_VVI petroleum_NN1 based_VVN fuels_NN2 entirely_RR ._. 
+</s>
+<s>
+If_CS there_EX are_VBR not_XX enough_DD biofuels_NN2 and_CC EVs_NN2 will_VM not_XX satisfactorily_RR cover_VVI the_AT worldsworld_NN1 's_GE transportation_NN1 needs_NN2 or_CC their_APPGE development_NN1 stagnates_VVZ ,_, hydrogen_NN1 economies_NN2 may_VM be_VBI developed_VVN ._. 
+</s>
+<s>
+The_AT infrastructure_NN1 required_VVN for_IF a_AT1 hydrogen_NN1 economy_NN1 would_VM probably_RR be_VBI developed_VVN quickly_RR relative_II21 to_II22 other_JJ large_JJ scale_NN1 infrastructure_NN1 projects_NN2 ,_, but_CCB not_XX quickly_RR enough_RR to_TO immediately_RR commercialize_VVI vehicles_NN2 that_CST run_VV0 solely_RR on_II hydrogen_NN1 ._. 
+</s>
+<s>
+Dual_JJ fuelled_VVD ICE_NN1 vehicles_NN2 utilizing_VVG hydrogen_NN1 and_CC biofuels_NN2 (_( and_CC possibly_RR petroleum_NN1 based_VVN fuels_NN2 )_) will_VM probably_RR be_VBI developed_VVN ._. 
+</s>
+<s>
+This_DD1 will_VM alleviate_VVI the_AT fuelling_NN1 station_NN1 density_NN1 problems_NN2 which_DDQ would_VM prevent_VVI consumers_NN2 from_II buying_VVG the_AT vehicles_NN2 ._. 
+</s>
+<s>
+Once_RR hydrogen_NN1 infrastructures_NN2 are_VBR complete_JJ ,_, there_EX will_VM likely_RR be_VBI competition_NN1 between_II hydrogen_NN1 ICE_NN1 vehicles_NN2 and_CC FC_NP1 vehicles_NN2 ;_; the_AT emissions_NN2 from_II hydrogen_NN1 ICEs_NN2 are_VBR extremely_RR low_JJ and_CC potentially_RR negligible_JJ ._. 
+</s>
+<s>
+Assuming_VVG the_AT differences_NN2 in_II cost_NN1 and_CC efficiency_NN1 of_IO these_DD2 vehicles_NN2 is_VBZ nontrivial_JJ ,_, the_AT winner_NN1 will_VM probably_RR have_VHI the_AT best_JJT combination_NN1 of_IO cost_NN1 and_CC fuel_NN1 efficiency_NN1 (_( instead_CS21 of_CS22 for_IF other_JJ reasons_NN2 ,_, such_II21 as_II22 noise_NN1 level_NN1 )_) ._. 
+</s>
+<s>
+The_AT hydrogen_NN1 ICE_NN1 may_VM or_CC may_VM not_XX be_VBI coupled_VVN to_II a_AT1 hybrid_JJ electric_JJ drivetrain_NN1 ._. 
+</s>
+<s>
+Depending_II21 on_II22 the_AT availability_NN1 and_CC demand_NN1 ,_, biofueled_VVD ICE_NN1 vehicles_NN2 or_CC dual_JJ hydrogen_NN1 and_CC bio_NN1 fuelled_VVD vehicles_NN2 may_VM still_RR be_VBI prevalent_JJ ._. 
+</s>
+<s>
+The_AT development_NN1 of_IO hydrogen_NN1 storage_NN1 technologies_NN2 and_CC techniques_NN2 will_VM influence_VVI this_DD1 dynamic_JJ ._. 
+</s>
+<s>
+A_AT1 more_RGR detailed_JJ discussion_NN1 on_II why_RRQ we_PPIS2 will_VM see_VVI some_DD of_IO these_DD2 changes_NN2 is_VBZ discussed_VVN in_II the_AT following_JJ section_NN1 ._. 
+</s>
+<s>
+Earlier_RRR in_II this_DD1 paper_NN1 the_AT sustainability_NN1 of_IO the_AT manufacturing_NN1 ICEs_NN2 was_VBDZ addressed_VVN ,_, along_II21 with_II22 the_AT sustainability_NN1 of_IO the_AT various_JJ fuels_NN2 that_CST can_VM be_VBI used_VVN with_IW it_PPH1 ._. 
+</s>
+<s>
+It_PPH1 appeared_VVD to_TO be_VBI sustainable_JJ to_TO manufacture_VVI these_DD2 engines_NN2 ,_, and_CC that_CST there_EX are_VBR certain_JJ scenarios_NN2 in_II which_DDQ fuels_NN2 for_IF ICEs_NN2 are_VBR sustainable_JJ ._. 
+</s>
+<s>
+While_CS this_DD1 analysis_NN1 provides_VVZ some_DD idea_NN1 of_IO whether_CSW31 or_CSW32 not_CSW33 we_PPIS2 can_VM use_VVI ICEs_NN2 in_II the_AT future_NN1 ,_, it_PPH1 is_VBZ also_RR interesting_JJ to_TO know_VVI whether_CSW31 or_CSW32 not_CSW33 we_PPIS2 will_VM use_VVI ICEs_NN2 in_II the_AT future_NN1 ._. 
+</s>
+<s>
+One_MC1 factor_NN1 is_VBZ whether_CSW31 or_CSW32 not_CSW33 a_AT1 breakthrough_NN1 in_II ultracapacitors_NN2 research_NN1 will_VM happen_VVI to_TO make_VVI them_PPHO2 commercially_RR viable_JJ ._. 
+</s>
+<s>
+EEStor_NN1 ,_, a_AT1 company_NN1 based_VVN in_II Cedar_NN1 Park_NN1 ,_, Texas_NP1 ,_, may_VM have_VHI already_RR made_VVN breakthroughs_NN2 as_CSA evident_JJ by_II bold_JJ claims_NN2 about_II their_APPGE ultracapacitor_NN1 technology_NN1 that_CST can_VM be_VBI found_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found.Table_NNU 2_MC ._. 
+</s>
+<s>
+It_PPH1 is_VBZ quite_RG clear_JJ from_II this_DD1 data_NN that_CST these_DD2 units_NN2 have_VH0 significantly_RR better_JJR characteristics_NN2 over_II other_JJ batteries_NN2 considered_VVN for_IF electric_JJ vehicles_NN2 ._. 
+</s>
+<s>
+These_DD2 capacitors_NN2 address_VV0 long_RR charging_JJ times_NNT2 ,_, weight_NN1 and_CC cost_NN1 issues_NN2 with_IW EVs_NN2 ._. 
+</s>
+<s>
+Also_RR ,_, no_AT hazardous_JJ or_CC dangerous_JJ materials_NN2 are_VBR used_VVN ,_, so_RR if_CS the_AT materials_NN2 are_VBR readily_RR available_JJ and_CC abundant_JJ with_II31 respect_II32 to_II33 the_AT amount_NN1 used_VVN in_II a_AT1 pack_NN1 ,_, than_CSN it_PPH1 has_VHZ the_AT potential_JJ to_TO be_VBI sustainable_JJ ._. 
+</s>
+<s>
+These_DD2 units_NN2 are_VBR also_RR half_DB the_AT cost_NN1 per_II kWh_NNU of_IO lead_NN1 acid_NN1 batteries_NN2 ,_, making_VVG them_PPHO2 commercially_RR viable_JJ (_( 13_MC )_) ._. 
+</s>
+<s>
+EEStor_NN1 has_VHZ yet_RR to_TO produce_VVI a_AT1 prototype_NN1 and_CC the_AT company_NN1 has_VHZ been_VBN quiet_JJ for_IF the_AT past_JJ couple_NN1 of_IO years_NNT2 suggesting_VVG they_PPHS2 have_VH0 run_VVN into_II problems_NN2 ._. 
+</s>
+<s>
+They_PPHS2 have_VH0 however_RR managed_VVN to_TO gain_VVI the_AT support_NN1 of_IO Lockheed_NP1 Martin_NP1 ._. 
+</s>
+<s>
+Lockheed_VV0 Martin_NP1 has_VHZ also_RR signed_VVN an_AT1 agreement_NN1 giving_VVG them_PPHO2 exclusive_JJ rights_NN2 to_TO use_VVI the_AT technology_NN1 for_IF military_JJ and_CC homeland_NN1 security_NN1 applications_NN2 ._. 
+</s>
+<s>
+Ultracapacitors_NN2 do_VD0 not_XX address_VVI the_AT issue_NN1 of_IO primary_JJ energy_NN1 production_NN1 pollution_NN1 (_( and_CC supply_NN1 )_) ,_, but_CCB they_PPHS2 do_VD0 reduce_VVI cost_NN1 ,_, weight_NN1 (_( and_CC subsequently_RR ,_, range_NN1 )_) ,_, and_CC charging_JJ time_NNT1 ._. 
+</s>
+<s>
+This_DD1 allows_VVZ automakers_NN2 to_TO produce_VVI more_RGR desirable_JJ vehicles_NN2 ,_, which_DDQ could_VM lead_VVI to_II EVs_NN2 covering_VVG a_AT1 larger_JJR portion_NN1 of_IO the_AT transportation_NN1 needs_NN2 of_IO society_NN1 ,_, and_CC perhaps_RR displace_VV0 ICEs_NN2 almost_RR entirely_RR (_( ICEs_NN2 would_VM still_RR be_VBI favorable_JJ for_IF remote_JJ power_NN1 generation_NN1 at_II this_DD1 point_NN1 )_) ._. 
+</s>
+<s>
+If_CS enough_DD biofuels_NN2 and_CC clean_JJ primary_JJ energy_NN1 are_VBR produced_VVN and_CC electrical_JJ grids_NN2 are_VBR upgraded_VVN to_TO handle_VVI greater_JJR capacity_NN1 ,_, it_PPH1 may_VM become_VVI unnecessary_JJ to_TO develop_VVI a_AT1 H2_FO economy_NN1 and_CC subsequently_RR produce_VV0 FCs_NP2 for_IF transportation_NN1 ._. 
+</s>
+<s>
+Ultracapacitors_NN2 could_VM also_RR be_VBI coupled_VVN with_IW an_AT1 ICE_NN1 or_CC FC_NP1 ._. 
+</s>
+<s>
+Advanced_JJ flywheel_NN1 technologies_NN2 ,_, sometimes_RT referred_VVN to_II as_RG electromechanical_JJ batteries_NN2 (_( EMB_NP1 )_) ,_, are_VBR also_RR being_VBG investigated_VVN with_IW the_AT hopes_NN2 that_CST they_PPHS2 can_VM replace_VVI battery_NN1 packs_NN2 in_II electric_JJ vehicles_NN2 ._. 
+</s>
+<s>
+These_DD2 flywheels_NN2 store_VV0 energy_NN1 temporarily_RR by_II31 way_II32 of_II33 rotational_JJ inertia_NN1 ._. 
+</s>
+<s>
+The_AT flywheel_NN1 may_VM be_VBI energized_VVN by_II recovering_VVG braking_JJ energy_NN1 ._. 
+</s>
+<s>
+Efficiency_NN1 is_VBZ very_RG high_JJ since_CS magnetic_JJ bearings_NN2 and_CC are_VBR utilized_VVN and_CC composite_JJ materials_NN2 allow_VV0 for_IF higher_JJR speeds_NN2 ._. 
+</s>
+<s>
+Calculations_NN2 suggest_VV0 that_CST four_MC barrels_NN2 of_IO petroleum_NN1 delivered_VVN to_II a_AT1 refinery_NN1 ,_, and_CC subsequently_RR to_II a_AT1 representative_JJ ICE_NN1 vehicle_NN1 ,_, would_VM yield_VVI the_AT same_DA number_NN1 of_IO urban_JJ driving_JJ miles_NNU2 as_CSA if_CS the_AT energy_NN1 equivalent_NN1 of_IO one_MC1 barrel_NN1 of_IO petroleum_NN1 in_II electricity_NN1 was_VBDZ delivered_VVN to_II a_AT1 vehicle_NN1 with_IW an_AT1 EMB_NN1 (_( 14_MC )_) ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO present_JJ research_NN1 is_VBZ to_TO make_VVI them_PPHO2 lighter_NN1 ,_, smaller_JJR ,_, less_RGR expensive_JJ ,_, and_CC to_TO increase_VVI storage_NN1 capacity_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, effective_JJ ways_NN2 to_TO mount_VVI them_PPHO2 to_II the_AT vehicle_NN1 must_VM be_VBI investigated_VVN further_RRR ._. 
+</s>
+<s>
+Flywheels_NN2 can_VM act_VVI as_CSA gyroscopes_NN2 when_RRQ a_AT1 vehicle_NN1 is_VBZ turning_VVG if_CS not_XX mounted_VVN properly_RR ,_, and_CC they_PPHS2 must_VM also_RR have_VHI a_AT1 heavy_JJ duty_NN1 shield_NN1 surrounding_VVG them_PPHO2 in_CS21 case_CS22 the_AT flywheel_NN1 spins_VVZ too_RG fast_JJ and_CC shatters_VVZ ._. 
+</s>
+<s>
+Another_DD1 question_NN1 that_CST may_VM arise_VVI is_VBZ whether_CSW31 or_CSW32 not_CSW33 FCs_NP2 will_VM overtake_VVI ICEs_NN2 if_CS a_AT1 H2_FO economy_NN1 is_VBZ developed_VVN ._. 
+</s>
+<s>
+Before_RT ,_, it_PPH1 was_VBDZ mentioned_VVN that_DD1 fuel_NN1 efficiency_NN1 will_VM play_VVI a_AT1 significant_JJ role_NN1 in_II which_DDQ they_PPHS2 will_VM become_VVI ubiquitous_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ commonplace_JJ for_IF people_NN to_TO cite_VVI high_JJ efficiencies_NN2 of_IO FCs_NP2 ,_, and_CC hence_RR say_VV0 they_PPHS2 will_VM replace_VVI ICEs_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ not_XX surprising_JJ given_CS21 that_CS22 the_AT theoretical_JJ efficiency_NN1 of_IO fuel_NN1 cells_NN2 is_VBZ 83%_NNU ,_, whereas_CS that_DD1 of_IO an_AT1 ICE_NN1 is_VBZ 60%_NNU (_( for_IF the_AT otto_NN1 cycle_NN1 )_) ._. 
+</s>
+<s>
+However_RR ,_, FC_NP1 efficiency_NN1 dwindles_VVZ rapidly_RR if_CS it_PPH1 experiences_VVZ realistic_JJ driving_JJ schedules_NN2 ,_, must_VM reform_VVI the_AT incoming_JJ fuel_NN1 stream_NN1 ,_, runs_VVZ ancillary_JJ devices_NN2 such_II21 as_II22 compressors_NN2 ,_, and_CC utilizes_VVZ air_NN1 as_II the_AT O2_FO source_NN1 instead_II21 of_II22 pure_JJ O2_FO via_II an_AT1 onboard_NN1 oxygen_NN1 tank_NN1 that_CST might_VM also_RR have_VHI to_TO be_VBI refilled_VVN regularly_RR ._. 
+</s>
+<s>
+Emadi_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+performed_VVN a_AT1 study_NN1 using_VVG the_AT ADVISOR_NN1 advanced_JJ vehicle_NN1 simulator_NN1 software_NN1 developed_VVN by_II the_AT National_JJ Renewable_JJ Energy_NN1 Laboratory_NN1 (_( NREL_NP1 )_) to_TO analyze_VVI the_AT drive_NN1 train_NN1 efficiencies_NN2 of_IO HEVs_NP2 and_CC hybrid_JJ FC_NP1 vehicles_NN2 under_II various_JJ driving_JJ schedules_NN2 ._. 
+</s>
+<s>
+The_AT parallel_NN1 HEV_VH0 electric_JJ assist_NN1 strategy_NN1 was_VBDZ selected_VVN ._. 
+</s>
+<s>
+This_DD1 strategy_NN1 uses_VVZ both_RR the_AT ICE_NN1 and_CC electric_JJ traction_NN1 motor_NN1 directly_RR to_II power_NN1 the_AT vehicle_NN1 ,_, with_IW the_AT contributions_NN2 from_II each_DD1 depending_II21 on_II22 several_DA2 variables_NN2 that_CST are_VBR accounted_VVN for_IF in_II a_AT1 complex_JJ control_NN1 scheme_NN1 ._. 
+</s>
+<s>
+A_AT1 series_NN thermostat_NN1 control_NN1 strategy_NN1 for_IF hybrid_JJ FC_NP1 vehicle_NN1 simulation_NN1 was_VBDZ chosen_VVN ;_; NREL_NP1 believes_VVZ production_NN1 FC_NP1 vehicles_NN2 will_VM have_VHI hybrid_JJ architectures_NN2 (_( 15_MC )_) ._. 
+</s>
+<s>
+This_DD1 strategy_NN1 involves_VVZ turning_VVG the_AT fuel_NN1 cell_NN1 on_II and_CC off_RP to_TO keep_VVI the_AT battery_NN1 between_II a_AT1 lower_JJR and_CC upper_JJ charge_NN1 limit_NN1 ._. 
+</s>
+<s>
+A_AT1 schematic_JJ of_IO the_AT architectures_NN2 can_VM be_VBI found_VVN in_II Figure_NN1 3_MC :_: Schematic_JJ of_IO the_AT drivetrain_NN1 architectures_NN2 used_VVN in_II the_AT simulations.Figure_NNU 3_MC ._. 
+</s>
+<s>
+Figure_NN1 4_MC shows_VVZ the_AT results_NN2 of_IO this_DD1 exercise_NN1 for_IF a_AT1 highway_NN1 driving_JJ schedule_NN1 ._. 
+</s>
+<s>
+The_AT result_NN1 was_VBDZ similar_JJ for_IF a_AT1 city_NN1 driving_JJ schedule_NN1 ._. 
+</s>
+<s>
+Interestingly_RR ,_, the_AT hybrid_JJ FC_NP1 vehicle_NN1 was_VBDZ less_RGR efficient_JJ than_CSN both_RR the_AT Diesel_NN1 and_CC gasoline_NN1 HEVs_NP2 ._. 
+</s>
+<s>
+The_AT author_NN1 also_RR notes_VVZ that_CST the_AT Diesel_NN1 and_CC gasoline_NN1 engines_NN2 were_VBDR not_XX fully_RR optimized_VVN ,_, but_CCB instead_RR the_AT designs_NN2 and_CC constructions_NN2 were_VBDR practical_JJ and_CC economically_RR feasible_JJ to_TO manufacture_VVI and_CC market_NN1 (_( 16_MC )_) ._. 
+</s>
+<s>
+Since_CS H2_FO ICEs_NN2 can_VM potentially_RR achieve_VVI 25%_NNU higher_JJR fuel_NN1 economy_NN1 (_( 17_MC )_) ,_, the_AT conventional_JJ ICE_NN1 and_CC gasoline_NN1 HE_PPHS1 vehicles_NN2 may_VM achieve_VVI up_RG21 to_RG22 23%_NNU and_CC 36%_NNU efficiencies_NN2 if_CS designed_VVN for_IF and_CC run_VVN on_II H2_FO ,_, while_CS the_AT hybrid_JJ FC_NP1 vehicle_NN1 efficiency_NN1 may_VM fall_VVI if_CSW the_AT design_NN1 and_CC construction_NN1 are_VBR geared_VVN more_RRR towards_II practical_JJ ,_, economically_RR feasible_JJ designs_NN2 and_CC construction_NN1 ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, this_DD1 is_VBZ only_RR one_MC1 study_NN1 ,_, simulation_NN1 software_NN1 is_VBZ used_VVN which_DDQ will_VM have_VHI inherent_JJ inaccuracies_NN2 and_CC omissions_NN2 ,_, and_CC the_AT results_NN2 are_VBR largely_RR dependent_JJ upon_II the_AT energy_NN1 management_NN1 strategies_NN2 utilized_VVN in_II each_DD1 system_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, one_PN1 could_VM argue_VVI that_CST scientists_NN2 have_VH0 had_VHN more_DAR experience_NN1 developing_JJ control_NN1 strategies_NN2 for_IF parallel_JJ HEVs_NP2 which_DDQ would_VM contribute_VVI to_II higher_JJR calculated_JJ efficiencies_NN2 ._. 
+</s>
+<s>
+Regardless_RR ,_, the_AT purpose_NN1 of_IO this_DD1 study_NN1 and_CC ensuing_JJ analysis_NN1 is_VBZ not_XX to_TO claim_VVI that_CST HEVs_NP2 or_CC hydrogen_NN1 ICEs_NN2 are_VBR more_DAR fuel_NN1 efficient_JJ or_CC have_VH0 equivalent_JJ efficiency_NN1 than_CSN hybrid_JJ FCs_NP2 ,_, but_CCB instead_RR to_TO highlight_VVI the_AT fact_NN1 that_CST they_PPHS2 may_VM not_XX necessarily_RR be_VBI the_AT most_DAT fuel_NN1 efficient_JJ option_NN1 ,_, despite_II what_DDQ many_DA2 people_NN claim_VV0 ._. 
+</s>
+<s>
+BMW_NP1 has_VHZ recently_RR introduced_VVN the_AT Hydrogen_NN1 7_MC (_( Figure_NN1 5_MC )_) ,_, which_DDQ is_VBZ capable_JJ of_IO running_VVG on_II hydrogen_NN1 or_CC gasoline_NN1 ._. 
+</s>
+<s>
+The_AT emissions_NN2 levels_NN2 were_VBDR tested_VVN in_II Argonne_NP1 National_JJ Lab_NN1 ,_, the_AT only_JJ facility_NN1 in_II North_ND1 America_NP1 that_CST could_VM measure_VVI exhaust_NN1 concentrations_NN2 low_RR enough_RR ._. 
+</s>
+<s>
+During_II testing_NN1 ,_, it_PPH1 was_VBDZ found_VVN that_CST the_AT engine_NN1 exhaust_NN1 air_NN1 was_VBDZ actually_RR cleaner_JJR than_CSN the_AT ambient_JJ air_NN1 for_IF certain_JJ components_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ in_II limited_JJ production_NN1 ,_, and_CC only_RR available_JJ to_II "_" influential_JJ public_JJ figures_NN2 "_" (_( 18_MC )_) ._. 
+</s>
+<s>
+The_AT Hydrogen_NN1 7_MC passed_VVD the_AT super_JJ ultra_RR low_JJ emissions_NN2 vehicle_NN1 standards_NN2 ,_, which_DDQ means_VVZ that_CST it_PPH1 is_VBZ at_RR21 least_RR22 90%_NNU cleaner_JJR than_CSN the_AT emissions_NN2 of_IO a_AT1 comparable_JJ vehicle_NN1 ._. 
+</s>
+<s>
+Combustion_NN1 of_IO H2_FO fuel_NN1 produces_VVZ mainly_RR water_NN1 ._. 
+</s>
+<s>
+Indeed_RR ,_, Jay_NP1 Leno_NP1 has_VHZ even_RR gone_VVN as_CS31 far_CS32 as_CS33 to_TO drink_VVI the_AT water_NN1 produced_VVN by_II a_AT1 hydrogen_NN1 ICE_NN1 while_CS showing_VVG it_PPH1 to_II the_AT media_NN (_( 19_MC )_) ._. 
+</s>
+<s>
+The_AT only_JJ harmful_JJ emission_NN1 cited_VVN is_VBZ NOx_NP1 ;_; trace_VV0 amounts_NN2 of_IO CO2_FO and_CC CO_FO are_VBR emitted_VVN because_II21 of_II22 combustion_NN1 of_IO lubricating_VVG oil_NN1 ,_, but_CCB levels_NN2 are_VBR negligible_JJ )_) ._. 
+</s>
+<s>
+Ford_NP1 has_VHZ shown_VVN to_TO reduce_VVI NOx_NN1 emissions_NN2 to_II 1_MC1 ppm_NNU levels_NN2 using_VVG exhaust_NN1 gas_NN1 recirculation_NN1 techniques_NN2 in_II a_AT1 2.0_MC L_ZZ1 four_MC cylinder_NN1 engine_NN1 with_IW a_AT1 standard_JJ catalytic_JJ converter_NN1 (_( 20_MC )_) ,_, which_DDQ is_VBZ orders_NN2 of_IO magnitude_NN1 less_RRR than_CSN current_JJ vehicles_NN2 ._. 
+</s>
+<s>
+This_DD1 study_NN1 was_VBDZ only_RR performed_VVN at_II one_MC1 engine_NN1 speed_NN1 for_IF various_JJ loads_NN2 and_CC it_PPH1 certainly_RR does_VDZ n't_XX imply_VVI that_CST these_DD2 levels_NN2 can_VM be_VBI reached_VVN for_IF all_DB engine_NN1 loads_NN2 and_CC speeds_NN2 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 shows_VVZ the_AT potential_NN1 for_IF operating_VVG these_DD2 engines_NN2 in_II a_AT1 practical_JJ manner_NN1 with_IW near_JJ zero_NN1 pollution_NN1 ._. 
+</s>
+<s>
+The_AT discussion_NN1 of_IO NOx_NN1 emissions_NN2 should_VM be_VBI put_VVN in_II perspective_NN1 too_RR ._. 
+</s>
+<s>
+Figure_NN1 6_MC shows_VVZ that_CST heavyduty_JJ diesel_NN1 truck_NN1 engine_NN1 (_( which_DDQ emit_VV0 the_AT most_DAT NOx_NN1 )_) NOx_NN1 emissions_NN2 will_VM have_VHI dropped_VVN by_RP between_II 96%_NNU and_CC 97%_NNU since_II 1990_MC ._. 
+</s>
+<s>
+Will_VM this_DD1 alone_RR have_VHI a_AT1 positive_JJ impact_NN1 on_II acid_NN1 rain_NN1 and_CC human_JJ health_NN1 in_II several_DA2 years_NNT2 when_RRQ older_JJR ,_, more_RGR polluting_JJ vehicles_NN2 are_VBR off_II the_AT road_NN1 ?_? 
+</s>
+<s>
+If_CS it_PPH1 does_VDZ n't_XX ,_, efforts_NN2 to_TO reduce_VVI NOx_NN1 may_VM be_VBI justified_VVN ,_, but_CCB if_CS it_PPH1 does_VDZ ,_, to_II what_DDQ extent_NN1 should_VM we_PPIS2 keep_VVI striving_VVG for_IF less_DAR emissions_NN2 ?_? 
+</s>
+<s>
+At_II the_AT turn_NN1 of_IO the_AT 20th_MD century_NNT1 in_II America_NP1 ,_, ICEs_NN2 ,_, steam_NN1 engines_NN2 and_CC EVs_NN2 were_VBDR used_VVN in_II nearly_RR equal_JJ proportions_NN2 ._. 
+</s>
+<s>
+It_PPH1 should_VM not_XX be_VBI surprising_JJ that_CST the_AT portfolio_NN1 for_IF future_JJ transportation_NN1 may_VM include_VVI different_JJ energy_NN1 conversion_NN1 tools_NN2 ._. 
+</s>
+<s>
+It_PPH1 appears_VVZ that_CST the_AT ICE_NN1 is_VBZ suitable_JJ for_IF manufacture_NN1 for_IF decades_NNT2 to_TO come_VVI ,_, and_CC the_AT remanufacturing_JJ potential_NN1 could_VM lessen_VVI the_AT impact_NN1 ._. 
+</s>
+<s>
+In_II certain_JJ situations_NN2 ,_, the_AT fuels_NN2 that_CST can_VM be_VBI used_VVN in_II ICEs_NN2 are_VBR also_RR sustainable_JJ ._. 
+</s>
+<s>
+ICEs_NN2 will_VM first_MD compete_VVI with_IW EVs_NN2 for_IF market_NN1 share_NN1 ._. 
+</s>
+<s>
+Breakthroughs_NN2 in_II EV_NN1 research_NN1 ,_, namely_REX ultracapacitors_NN2 or_CC flywheels_NN2 ,_, along_II21 with_II22 a_AT1 much_RR cleaner_JJR primary_JJ energy_NN1 portfolio_NN1 will_VM have_VHI to_TO happen_VVI in_BCL21 order_BCL22 for_IF EVs_NN2 to_TO overtake_VVI ICEs_NN2 ._. 
+</s>
+<s>
+Even_RR21 so_RR22 ,_, ICEs_NN2 will_VM find_VVI use_NN1 as_CSA remote_JJ power_NN1 generators_NN2 ._. 
+</s>
+<s>
+If_CS EV_NN1 research_NN1 and_CC development_NN1 does_VDZ not_XX realize_VVI any_DD breakthroughs_NN2 or_CC primary_JJ energy_NN1 remains_VVZ "_" dirty_JJ "_" ,_, ICEs_NN2 will_VM be_VBI burning_JJ biofuels_NN2 ,_, and_CC possibly_RR hydrogen_NN1 if_CS there_EX are_VBR not_XX enough_RR ._. 
+</s>
+<s>
+With_IW hydrogen_NN1 economies_NN2 in_II place_NN1 ,_, the_AT hydrogen_NN1 ICE_NN1 and_CC FCs_NP2 will_VM compete_VVI directly_RR ._. 
+</s>
+<s>
+NOx_NN1 emissions_NN2 can_VM be_VBI extraordinarily_RR low_RR compared_VVN to_II older_JJR vehicles_NN2 ,_, so_CS they_PPHS2 may_VM be_VBI able_JK to_TO be_VBI neglected_VVN and_CC the_AT technology_NN1 of_IO choice_NN1 may_VM simply_RR be_VBI based_VVN on_II initial_JJ cost_NN1 and_CC fuel_NN1 efficiency_NN1 ._. 
+</s>

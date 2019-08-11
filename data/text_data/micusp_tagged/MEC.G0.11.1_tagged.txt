@@ -1,0 +1,198 @@
+<s>
+Your_APPGE company_NN1 is_VBZ turning_VVG recycled_JJ cans_NN2 into_II structural_JJ grade_NN1 alloy_NN1 in_II an_AT1 effort_NN1 to_TO expand_VVI your_APPGE facility_NN1 and_CC bring_VVI much-needed_JJ jobs_NN2 to_II the_AT area_NN1 ._. 
+</s>
+<s>
+You_PPY believe_VV0 that_CST your_APPGE material_NN1 scientists_NN2 have_VH0 developed_VVN a_AT1 method_NN1 for_IF producing_VVG 7075-T651_JJ aluminum_NN1 alloy_NN1 and_CC need_VV0 independent_JJ verification_NN1 that_CST the_AT alloy_NN1 has_VHZ the_AT correct_JJ composition_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, you_PPY have_VH0 asked_VVN our_APPGE firm_NN1 to_TO perform_VVI tensile_JJ and_CC fracture_NN1 testing_NN1 ,_, following_VVG the_AT ASTM_NP1 399_MC standard_JJ ,_, on_II aluminum_NN1 samples_NN2 machined_VVN to_II size_NN1 by_II an_AT1 independent_JJ machining_JJ company_NN1 ._. 
+</s>
+<s>
+Specifically_RR ,_, you_PPY have_VH0 asked_VVN that_CST we_PPIS2 provide_VV0 you_PPY with_IW the_AT density_NN1 ,_, modulus_NN1 ,_, Poisson_NP1 's_GE ratio_NN1 ,_, yield_VV0 strength_NN1 ,_, ultimate_JJ tensile_JJ strength_NN1 ,_, and_CC fracture_NN1 toughness_NN1 of_IO the_AT material_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 completed_VVN these_DD2 tasks_NN2 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO this_DD1 report_NN1 is_VBZ to_TO provide_VVI you_PPY with_IW our_APPGE findings_NN2 ,_, conclusions_NN2 ,_, recommendations_NN2 ,_, and_CC supporting_JJ documentation_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 found_VVN all_DB the_AT material_NN1 properties_NN2 that_CST you_PPY have_VH0 asked_VVN for_IF except_II21 for_II22 the_AT fracture_NN1 toughness_NN1 ,_, which_DDQ we_PPIS2 were_VBDR unable_JK to_TO find_VVI due_II21 to_II22 an_AT1 inadequate_JJ number_NN1 of_IO fracture_NN1 specimens_NN2 ._. 
+</s>
+<s>
+The_AT properties_NN2 of_IO the_AT alloy_NN1 you_PPY gave_VVD us_PPIO2 for_IF testing_NN1 can_VM be_VBI found_VVN in_II Table_NN1 1_MC1 along_II21 with_II22 the_AT properties_NN2 of_IO 7075-T651_JJ aluminum_NN1 alloy_NN1 ._. 
+</s>
+<s>
+The_AT density_NN1 ,_, Young_NP1 's_GE modulus_NN1 ,_, and_CC Poisson_NP1 's_GE ratio_NN1 for_IF the_AT material_NN1 you_PPY provided_VVD us_PPIO2 are_VBR equal_JJ to_II those_DD2 of_IO 7075-T651_JJ aluminum_NN1 alloy_NN1 ;_; however_RR ,_, the_AT yield_NN1 strength_NN1 and_CC the_AT ultimate_JJ tensile_JJ strength_NN1 do_VD0 not_XX agree_VVI ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 concluded_VVN ,_, therefore_RR ,_, that_CST the_AT material_NN1 supplied_VVN to_II us_PPIO2 is_VBZ not_XX 7075-T651_JJ aluminum_NN1 alloy_NN1 ._. 
+</s>
+<s>
+Your_APPGE company_NN1 provided_VVD us_PPIO2 with_IW a_AT1 cylindrical_JJ tensile_JJ bar_NN1 in_II tensile_JJ testing_NN1 and_CC four_MC ASTM_NP1 399_MC standard_JJ single-edge-notch_JJ beam_NN1 specimens_NN2 of_IO varying_JJ thickness_NN1 for_IF fracture_NN1 toughness_NN1 testing_NN1 ;_; all_DB specimens_NN2 were_VBDR machined_VVN to_II size_NN1 by_II an_AT1 independent_JJ machining_JJ company_NN1 ._. 
+</s>
+<s>
+First_MD ,_, using_VVG calipers_NN2 ,_, we_PPIS2 measured_VVD the_AT gauge_NN1 length_NN1 l0_FO ,_, 9.519_MC .009_MC cm_NNU ,_, and_CC the_AT diameter_NN1 d0_FO ,_, 1.286_MC .006_MC cm_NNU ,_, of_IO the_AT tensile_JJ specimen_NN1 (_( shown_VVN in_II Fig._NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Then_RT we_PPIS2 securely_RR attached_VVD the_AT specimen_NN1 to_II the_AT Instron_NN1 4206_MC load_NN1 machine_NN1 (_( serial_NN1 number_NN1 514_MC )_) and_CC ran_VVD the_AT tensile_JJ test_NN1 ,_, recording_VVG the_AT strain_NN1 and_CC load_VV0 data_NN until_CS the_AT strain-gauges_NN2 failed_VVD ,_, after_II which_DDQ we_PPIS2 continued_VVD the_AT test_NN1 until_CS fracture_NN1 recording_VVG only_RR the_AT load_NN1 data_NN ._. 
+</s>
+<s>
+The_AT test_NN1 was_VBDZ done_VDN at_II an_AT1 extension_NN1 rate_NN1 of_IO 2.54_MC mm/min_NNU and_CC a_AT1 sampling_NN1 rate_NN1 of_IO 3_MC Hz_NNU ._. 
+</s>
+<s>
+The_AT data_NN was_VBDZ recorded_VVN using_VVG LabView_NN1 7.2_MC software_NN1 ._. 
+</s>
+<s>
+Next_MD ,_, we_PPIS2 measured_VVD the_AT dimensions_NN2 of_IO four_MC fracture_NN1 samples_NN2 (_( dimensions_NN2 shown_VVN in_II Fig._NN1 2_MC )_) using_VVG calipers_NN2 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 performed_VVD the_AT fracture_NN1 toughness_NN1 test_NN1 on_II each_DD1 sample_NN1 using_VVG the_AT Instron_NN1 8516_MC machine_NN1 (_( system_NN1 ID_NN1 8516H1099_FO )_) and_CC the_AT load-versus-displacement_JJ data_NN was_VBDZ recorded_VVN using_VVG Instron_NN1 Plus_II 8500_MC software_NN1 ._. 
+</s>
+<s>
+To_TO ensure_VVI correct_JJ results_NN2 ,_, for_IF each_DD1 test_NN1 we_PPIS2 calibrated_VVD the_AT gauge_NN1 clip_NN1 and_CC positioned_VVD the_AT specimen_NN1 so_CS21 that_CS22 it_PPH1 was_VBDZ in_II the_AT middle_NN1 of_IO the_AT clip_NN1 gauge_NN1 and_CC parallel_RR to_II the_AT front_JJ surface_NN1 of_IO the_AT machine_NN1 ._. 
+</s>
+<s>
+The_AT test_NN1 was_VBDZ conducted_VVN until_CS the_AT load_NN1 started_VVD to_TO decrease_VVI ,_, at_II which_DDQ point_VV0 we_PPIS2 stopped_VVD the_AT experiment_NN1 and_CC manually_RR broke_VVD the_AT sample_NN1 in_II two_MC ._. 
+</s>
+<s>
+Then_RT using_VVG calipers_NN2 and_CC a_AT1 magnifier_NN1 ,_, we_PPIS2 measured_VVD the_AT crack_NN1 length_NN1 ,_, a_AT1 ,_, for_IF each_DD1 of_IO the_AT samples_NN2 using_VVG different_JJ points_NN2 along_II the_AT pre-crack_NN1 curve_NN1 in_BCL21 order_BCL22 to_TO get_VVI the_AT uncertainty_NN1 in_II the_AT measurement_NN1 ._. 
+</s>
+<s>
+All_DB experiments_NN2 were_VBDR done_VDN at_II a_AT1 room_NN1 temperature_NN1 of_IO 23.1_MC .05_MC degrees_NN2 Celsius_NP1 ,_, and_CC all_DB of_IO the_AT data_NN was_VBDZ plotted_VVN and_CC analyzed_VVN using_VVG Microsoft_NP1 Excel_VV0 ._. 
+</s>
+<s>
+Below_RL are_VBR results_NN2 and_CC analysis_NN1 of_IO the_AT measurements_NN2 ,_, tensile_JJ testing_NN1 ,_, and_CC fracture_NN1 toughness_NN1 testing_VVG that_CST we_PPIS2 performed_VVD on_II the_AT aluminum_NN1 specimen_NN1 ._. 
+</s>
+<s>
+We_PPIS2 found_VVD the_AT density_NN1 of_IO the_AT alloy_NN1 to_TO be_VBI 2863_MC 82_MC kg/m3_FU which_DDQ agrees_VVZ with_IW 7075-T651_JJ aluminum_NN1 alloy_NN1 's_GE density_NN1 of_IO 2800_MC kg/m3_FU (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT density_NN1 was_VBDZ calculated_VVN by_II measuring_VVG the_AT dimensions_NN2 of_IO the_AT thinnest_JJT fracture_NN1 sample_NN1 while_CS taking_VVG into_II account_NN1 the_AT uncertainties_NN2 due_II21 to_II22 resolution_NN1 and_CC precision_NN1 errors_NN2 ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Figure_NN1 2_MC ,_, the_AT parameters_NN2 defining_VVG the_AT dimensions_NN2 of_IO the_AT specimen_NN1 are_VBR the_AT thickness_NN1 B_ZZ1 ,_, width_NN1 w_ZZ1 ,_, length_NN1 L_ZZ1 ,_, mass_JJ m_ZZ1 ,_, and_CC notch_VV0 area_NN1 V._II The_AT dimensions_NN2 and_CC calculated_JJ density_NN1 of_IO the_AT sample_NN1 can_VM be_VBI found_VVN with_IW uncertainties_NN2 in_II Table_NN1 2_MC ._. 
+</s>
+<s>
+Poisson_NP1 's_GE ratio_NN1 ,_, ,_, was_VBDZ found_VVN to_TO be_VBI 0.314_MC 0.023_MC ,_, which_DDQ agrees_VVZ with_IW 7075-T651_JJ aluminum_NN1 alloy_NN1 's_GE Poisson_NP1 's_GE ratio_NN1 of_IO 0.33_MC (_( 1_MC1 )_) ._. 
+</s>
+<s>
+This_DD1 value_NN1 of_IO is_VBZ equal_JJ to_II the_AT slope_NN1 of_IO the_AT elastic_JJ region_NN1 of_IO the_AT plot_NN1 of_IO lateral_JJ strain_NN1 against_II negative_JJ transverse_JJ strain_NN1 found_VVN in_II Fig._NN1 3_MC ._. 
+</s>
+<s>
+The_AT lateral_JJ and_CC transverse_JJ strains_NN2 for_IF the_AT plot_NN1 were_VBDR calculated_VVN using_VVG Equations_NN2 1_MC1 thru_II 5_MC ._. 
+</s>
+<s>
+The_AT normal_JJ strains_NN2 in_II the_AT x_ZZ1 and_CC y_ZZ1 directions_NN2 ,_, xx_MC ,_, yy_NNU ,_, and_CC the_AT shear_VV0 strain_NN1 xy_FO in_II the_AT x-y_FO plane_NN1 were_VBDR found_VVN from_II Equations_NN2 1_MC1 ,_, 2_MC ,_, and_CC 3_MC ._. 
+</s>
+<s>
+Strains_VVZ 1_MC1 ,_, 1_MC1 ,_, and_CC 1_MC1 refer_VV0 to_II the_AT data_NN recorded_VVN from_II strain-gauges_NN2 1_MC1 ,_, 2_MC ,_, and_CC 3_MC ,_, respectively_RR ,_, and_CC the_AT strain-gauges_NN2 were_VBDR positioned_VVN at_II angles_NN2 1=0_FO ,_, 2=45_FO ,_, and_CC 3=90_FO ._. 
+</s>
+<s>
+After_II solving_VVG for_IF xx_MC ,_, yy_NNU ,_, and_CC xy_FO ,_, the_AT principal_JJ strains_NN2 in_II the_AT x-y_FO plane_NN1 were_VBDR computed_VVN from_II Equations_NN2 4_MC and_CC 5_MC (_( derived_VVN from_II Mohr_NP1 's_GE circle_NN1 of_IO strain_NN1 )_) ._. 
+</s>
+<s>
+The_AT largest_JJT of_IO the_AT principal_JJ strains_NN2 is_VBZ the_AT lateral_JJ strain_NN1 ,_, l_ZZ1 ,_, and_CC the_AT smallest_JJT is_VBZ the_AT transverse_JJ strain_NN1 ,_, t_ZZ1 ._. 
+</s>
+<s>
+The_AT lateral_JJ and_CC transverse_JJ strains_NN2 are_VBR related_VVN within_II the_AT elastic_JJ region_NN1 according_II21 to_II22 the_AT equation_NN1 t=-l_FO ._. 
+</s>
+<s>
+Thus_RR ,_, Poisson_NP1 's_GE ratio_NN1 ,_, ,_, is_VBZ equal_JJ to_II the_AT slope_NN1 of_IO the_AT elastic_JJ region_NN1 ._. 
+</s>
+<s>
+The_AT uncertainty_NN1 in_RP comes_VVZ from_II the_AT precision_NN1 and_CC resolution_NN1 errors_NN2 in_II the_AT strain_NN1 data_NN collection_NN1 equipment_NN1 ._. 
+</s>
+<s>
+The_AT ultimate_JJ tensile_JJ strength_NN1 ,_, UTS_NN2 ,_, of_IO the_AT alloy_NN1 was_VBDZ found_VVN to_TO be_VBI 585.85_MC .36_MC MPa_NP1 ;_; this_DD1 value_NN1 does_VDZ not_XX match_VVI the_AT 7075-T651_JJ aluminum_NN1 alloy_NN1 's_GE UTS_NN2 of_IO 572_MC MPa_NP1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT ultimate_JJ tensile_JJ strength_NN1 of_IO the_AT alloy_NN1 was_VBDZ found_VVN by_II performing_VVG a_AT1 tensile_JJ test_NN1 and_CC recording_VVG the_AT strain-gauge_JJ data_NN and_CC the_AT force_NN1 applied_VVN by_II the_AT crossheads_NN2 (_( the_AT load_NN1 )_) ._. 
+</s>
+<s>
+We_PPIS2 used_VVD this_DD1 data_NN to_TO plot_VVI the_AT nominal_JJ stress-versus-strain_JJ curve_NN1 found_VVN in_II Fig._NN1 4_MC ,_, page_NN1 4_MC ._. 
+</s>
+<s>
+The_AT lateral_JJ nominal_JJ strain_NN1 data_NN was_VBDZ calculated_VVN previously_RR using_VVG Equations_NN2 1_MC1 thru_II 5_MC ,_, and_CC the_AT nominal_JJ stress_NN1 data_NN was_VBDZ calculated_VVN using_VVG Equation_NN1 6_MC ,_, in_II which_DDQ F_ZZ1 is_VBZ the_AT force_NN1 and_CC A0_FO was_VBDZ the_AT original_JJ area_NN1 of_IO the_AT specimen_NN1 (_( A0=3.173_FO .015_MC cm2_FO )_) ._. 
+</s>
+<s>
+Fig._NN1 4_MC only_RR shows_VVZ the_AT tensile_JJ test_NN1 data_NN until_CS the_AT strain-gauges_NN2 failed_VVD ;_; however_RR ,_, load_VV0 data_NN was_VBDZ still_RR recorded_VVN until_II fracture_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, data_NN points_NN2 with_IW negative_JJ strain_NN1 and/or_CC stress_NN1 values_NN2 found_VVN at_II the_AT beginning_NN1 of_IO the_AT test_NN1 were_VBDR not_XX used_VVN in_II the_AT plot_NN1 as_CSA they_PPHS2 were_VBDR not_XX valid_JJ (_( strain_NN1 and_CC tensile_JJ stress_NN1 can_56 not_56 be_VBI negative_JJ )_) ;_; instead_RR ,_, these_DD2 values_NN2 were_VBDR used_VVN to_TO calculate_VVI the_AT precision_NN1 error_NN1 of_IO the_AT data_NN collection_NN1 equipment_NN1 ._. 
+</s>
+<s>
+The_AT maximum_JJ value_NN1 of_IO nominal_JJ stress_NN1 ,_, the_AT ultimate_JJ tensile_JJ strength_NN1 of_IO the_AT specimen_NN1 ,_, occurred_VVD during_II the_AT fracture_NN1 portion_NN1 of_IO the_AT test_NN1 (_( strain-gauges_NN2 had_VHD already_RR failed_VVN )_) ;_; hence_RR ,_, the_AT ultimate_JJ tensile_JJ strength_NN1 can_56 not_56 be_VBI seen_VVN on_II the_AT nominal_JJ stress-versus-strain_JJ plot_NN1 ._. 
+</s>
+<s>
+The_AT uncertainty_NN1 in_II the_AT stresses_NN2 and_CC strains_NN2 are_VBR results_NN2 of_IO the_AT precision_NN1 and_CC resolution_NN1 error_NN1 of_IO the_AT testing_NN1 and_CC recording_VVG equipment_NN1 ._. 
+</s>
+<s>
+The_AT Young_NP1 's_GE modulus_NN1 and_CC yield_VV0 strength_NN1 of_IO the_AT alloy_NN1 were_VBDR found_VVN to_TO be_VBI 72.0_MC 3.0_MC GPa_NP1 and_CC 542.68_MC 0.54_MC MPa_NP1 ,_, respectively_RR ._. 
+</s>
+<s>
+The_AT modulus_NN1 of_IO the_AT sample_NN1 agrees_VVZ with_IW 7075-T651_JJ aluminum_NN1 alloy_NN1 's_GE modulus_NN1 of_IO 71.0_MC GPa_NP1 (_( 1_MC1 )_) ;_; however_RR ,_, the_AT yield_NN1 strength_NN1 does_VDZ not_XX agree_VVI with_IW 7075-T651_NN1 's_GE yield_NN1 strength_NN1 of_IO 603_MC MPa_NP1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT modulus_NN1 was_VBDZ found_VVN by_II plotting_VVG the_AT true_JJ stress-versus-strain_JJ curve_NN1 (_( shown_VVN in_II Fig._NN1 5_MC )_) and_CC taking_VVG the_AT slope_NN1 of_IO the_AT elastic_JJ region_NN1 ._. 
+</s>
+<s>
+The_AT yield_NN1 strength_NN1 was_VBDZ found_VVN using_VVG the_AT .2%_FO strain_VV0 offset_JJ method_NN1 ._. 
+</s>
+<s>
+Both_DB2 the_AT modulus_NN1 and_CC yield_VV0 strength_NN1 errors_NN2 are_VBR composed_VVN of_IO resolution_NN1 and_CC precision_NN1 errors_NN2 from_II the_AT data_NN collection_NN1 equipment_NN1 ,_, but_CCB the_AT yield_NN1 strength_NN1 error_NN1 also_RR has_VHZ a_AT1 component_NN1 from_II human_JJ error_NN1 (_( from_II visually_RR finding_VVG the_AT intersection_NN1 of_IO the_AT .2%_FO strain_NN1 line_NN1 and_CC the_AT curve_NN1 )_) ._. 
+</s>
+<s>
+The_AT nominal_JJ stress-versus-strain_JJ data_NN (_( shown_VVN graphically_RR in_II Fig._NN1 2_MC )_) was_VBDZ used_VVN in_II Equations_NN2 7_MC ,_, 8_MC ,_, and_CC 9_MC to_TO find_VVI the_AT true_JJ stress-versus-strain_JJ data_NN ._. 
+</s>
+<s>
+Equation_NN1 7_MC calculates_VVZ the_AT true_JJ strain_NN1 ,_, t_ZZ1 ,_, Equation_NN1 8_MC gives_VVZ the_AT true_JJ stress_NN1 ,_, t_ZZ1 ,_, within_II the_AT elastic_JJ region_NN1 ,_, and_CC Equation_NN1 9_MC gives_VVZ t_ZZ1 within_II the_AT plastic_NN1 region_NN1 ._. 
+</s>
+<s>
+D0_FO is_VBZ the_AT original_JJ diameter_NN1 of_IO the_AT tensile_JJ specimen_NN1 and_CC t_ZZ1 is_VBZ the_AT transverse_JJ strain_NN1 defined_VVN by_II Equation_NN1 4_MC on_II page_NN1 3_MC ._. 
+</s>
+<s>
+The_AT true_JJ strain_NN1 ,_, t_ZZ1 ,_, is_VBZ equal_JJ to_II the_AT lateral_JJ strain_NN1 ,_, l_ZZ1 ,_, which_DDQ is_VBZ defined_VVN by_II Equation_NN1 5_MC on_II page_NN1 3_MC ._. 
+</s>
+<s>
+We_PPIS2 were_VBDR not_XX able_JK to_TO calculate_VVI a_AT1 value_NN1 for_IF critical_JJ fracture_NN1 toughness_NN1 ,_, KIC_NP1 ,_, because_CS we_PPIS2 did_VDD not_XX have_VHI enough_DD data_NN to_TO find_VVI a_AT1 proper_JJ asymptote_NN1 on_II the_AT plot_NN1 of_IO 'stress-intensity_JJ factor_NN1 ,_, KQ'-versus-'fracture_NP1 specimen_NN1 thickness_NN1 ,_, B'_NP1 (_( Fig._NN1 7_MC ,_, page_NN1 5_MC )_) ._. 
+</s>
+<s>
+KIC_NP1 ,_, could_VM only_RR be_VBI determined_VVN if_CS we_PPIS2 had_VHD been_VBN given_VVN more_DAR aluminum_NN1 samples_NN2 of_IO different_JJ thicknesses_NN2 to_TO do_VDI more_DAR fracture_NN1 tests_VVZ on_RP ._. 
+</s>
+<s>
+To_TO find_VVI the_AT values_NN2 of_IO KQ_NP1 according_II21 to_II22 the_AT ASTM_NP1 399_MC standard_JJ ,_, we_PPIS2 first_MD we_PPIS2 took_VVD measurements_NN2 of_IO the_AT thickness_NN1 B_ZZ1 ,_, width_NN1 w_ZZ1 ,_, and_CC post-test_JJ crack_NN1 length_NN1 a_AT1 for_IF each_DD1 sample_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR measured_VVD the_AT gauge_NN1 length_NN1 ,_, S_ZZ1 ,_, to_TO be_VBI 0.0765_MC .0007_MC m_NNU for_IF each_DD1 sample_NN1 ._. 
+</s>
+<s>
+Using_VVG these_DD2 parameters_NN2 ,_, f(a/w)_FU was_VBDZ calculated_VVN using_VVG the_AT equation_NN1 given_VVN by_II the_AT ASTM_NP1 399_MC standard&lsqb;2&rsqb;_FO ._. 
+</s>
+<s>
+These_DD2 quantities_NN2 are_VBR recorded_VVN in_II Table_NN1 3_MC ._. 
+</s>
+<s>
+The_AT thinnest_JJT sample_NN1 (_( B_ZZ1 =_FO 3.296_MC 0.028_MC mm_NNU )_) can_56 not_56 be_VBI used_VVN for_IF the_AT analysis_NN1 of_IO KQ_NP1 because_CS it_PPH1 does_VDZ not_XX fulfill_VVI the_AT requirements_NN2 for_IF plain_JJ strain_NN1 (_( it_PPH1 responds_VVZ to_TO load_VVI in_II plane_NN1 stress_NN1 )_) ._. 
+</s>
+<s>
+Fig._NN1 6_MC shows_VVZ the_AT force-displacement_JJ curves_NN2 for_IF the_AT specimens_NN2 2_MC ,_, 3_MC ,_, and_CC 4_MC ._. 
+</s>
+<s>
+For_IF each_DD1 plot_NN1 we_PPIS2 found_VVD where_RRQ a_AT1 line_NN1 from_II the_AT origin_NN1 with_IW a_AT1 slope_NN1 95%_NNU of_IO the_AT linear_JJ region_NN1 slope_NN1 intersects_VVZ the_AT actual_JJ curve_NN1 ,_, and_CC this_DD1 point_NN1 gave_VVD us_PPIO2 the_AT critical_JJ load_NN1 value_NN1 ,_, PQ_NP1 (_( Table_NN1 3_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 then_RT used_VVD PQ_NP1 values_NN2 in_II Equation_NN1 10_MC (_( for_IF Mode_NN1 I_MC1 loading_NN1 )_) to_TO find_VVI KQ_NP1 for_IF each_DD1 specimen_NN1 ._. 
+</s>
+<s>
+The_AT density_NN1 ,_, modulus_NN1 ,_, and_CC Poisson_NP1 's_GE ratio_NN1 for_IF your_APPGE alloy_NN1 match_VV0 the_AT values_NN2 for_IF 7075-T651_JJ alloy_NN1 ;_; however_RR ,_, the_AT values_NN2 of_IO yield_NN1 strength_NN1 and_CC ultimate_JJ tensile_JJ strength_NN1 do_VD0 not_XX agree_VVI (_( shown_VVN in_II Table_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+These_DD2 results_NN2 lead_VV0 me_PPIO1 to_II the_AT conclusion_NN1 that_CST the_AT material_NN1 you_PPY supplied_VVD us_PPIO2 with_IW is_VBZ not_XX 7075-T651_JJ aluminum_NN1 alloy_NN1 ;_; it_PPH1 is_VBZ a_AT1 7075_MC aluminum_NN1 alloy_NN1 of_IO a_AT1 different_JJ heat_NN1 treatment_NN1 than_CSN T651_FO ._. 
+</s>
+<s>
+Since_CS the_AT yield_NN1 strength_NN1 and_CC ultimate_JJ tensile_JJ strength_NN1 of_IO your_APPGE alloy_NN1 is_VBZ higher_JJR than_CSN that_DD1 of_IO 7075-T651_JJ alloy_NN1 ,_, you_PPY will_VM likely_RR still_RR be_VBI able_JK to_TO use_VVI this_DD1 alloy_NN1 in_II the_AT applications_NN2 that_CST you_PPY had_VHD in_II mind_NN1 ._. 
+</s>
+<s>
+I_PPIS1 would_VM recommend_VVI that_CST you_PPY inspect_VV0 the_AT method_NN1 of_IO heat_NN1 treatment_NN1 of_IO the_AT alloy_NN1 to_TO determine_VVI the_AT true_JJ identity_NN1 of_IO your_APPGE alloy_NN1 and_CC re-test_VV0 the_AT fracture_NN1 toughness_NN1 with_IW more_DAR samples_NN2 to_TO further_RRR investigate_VVI and_CC understand_VVI the_AT properties_NN2 of_IO the_AT alloy_NN1 you_PPY have_VH0 produced_VVN ._. 
+</s>

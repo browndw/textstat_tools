@@ -1,0 +1,420 @@
+<s>
+The_AT cost_NN1 of_IO construction_NN1 in_II developed_JJ countries_NN2 is_VBZ primarily_RR a_AT1 function_NN1 of_IO construction_NN1 speed_NN1 and_CC schedule_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ especially_RR true_JJ for_IF speculative_JJ commercial_JJ and_CC residential_JJ real_JJ estate_NN1 ,_, where_CS complex_JJ financing_NN1 and_CC pre-construction_JJ sales_NN can_VM impose_VVI severe_JJ financial_JJ penalties_NN2 for_IF delays_NN2 in_II building_NN1 completion_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 ,_, tall_JJ office_NN1 and_CC apartment_NN1 buildings_NN2 have_VH0 traditionally_RR favored_VVN steel_NN1 structural_JJ systems_NN2 over_II concrete_NN1 for_IF their_APPGE quick_JJ erection_NN1 and_CC lack_NN1 of_IO time-dependent_JJ strength_NN1 properties_NN2 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA construction_NN1 technology_NN1 and_CC urban_JJ real_JJ estate_NN1 markets_NN2 create_VV0 demand_NN1 for_IF taller_JJR structures_NN2 ,_, the_AT design_NN1 of_IO lateral_JJ force_NN1 resisting_VVG systems_NN2 is_VBZ having_VHG an_AT1 increasing_JJ impact_NN1 on_II the_AT cost_NN1 and_CC schedule_NN1 of_IO building_NN1 construction_NN1 ._. 
+</s>
+<s>
+Taller_JJR steel_NN1 moment_NN1 resisting_VVG and_CC braced_VVD frames_NN2 require_VV0 complex_NN1 detailing_VVG during_II the_AT design_NN1 phase_NN1 ,_, a_AT1 greater_JJR amount_NN1 of_IO machine_NN1 time_NNT1 during_II fabrication_NN1 ,_, and_CC the_AT assembly_NN1 of_IO complex_NN1 bolted_VVN or_CC welded_JJ connections_NN2 in_II the_AT field_NN1 during_II construction_NN1 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 longer_JJR lead_NN1 times_NNT2 ,_, stiffer_JJR frames_NN2 require_VV0 a_AT1 larger_JJR material_NN1 premium_NN1 over_II basic_JJ strength_NN1 demands_NN2 in_BCL21 order_BCL22 to_TO meet_VVI code-prescribed_JJ drift_NN1 and_CC acceleration_NN1 limits_NN2 ._. 
+</s>
+<s>
+The_AT increase_NN1 in_II material_NN1 and_CC labor_NN1 costs_NN2 associated_VVN with_IW stiffer_JJR concrete_NN1 walls_NN2 are_VBR lower_JJR than_CSN those_DD2 for_IF steel_NN1 frames_NN2 ._. 
+</s>
+<s>
+What_DDQ 's_VBZ more_RRR ,_, concrete_JJ lateral_JJ force_NN1 resisting_VVG systems_NN2 possess_VV0 stiffness_NN1 and_CC damping_VVG characteristics_NN2 that_CST have_VH0 made_VVN them_PPHO2 popular_JJ in_II many_DA2 of_IO the_AT world_NN1 's_GE tallest_JJT residential_JJ and_CC commercial_JJ buildings_NN2 ._. 
+</s>
+<s>
+Many_DA2 of_IO these_DD2 same_DA buildings_NN2 --_NN1 including_II Taipei_NP1 101_MC in_II Taiwan_NP1 ,_, the_AT Petronas_NP2 Towers_NP1 in_II Kuala_NP1 Lampur_NP1 (_( Fig._NN1 1_MC1 )_) ,_, and_CC the_AT Jin_NP1 Mao_NP1 Tower_NN1 in_II Shanghai_NP1 --_NN1 have_VH0 utilized_VVN composite_JJ steel_NN1 and_CC concrete_JJ floor_NN1 systems_NN2 to_TO reduce_VVI the_AT construction_NN1 time_NNT1 associated_VVN with_IW concrete_JJ floor_NN1 forming_VVG and_CC shoring_VVG (_( 4_MC ,_, 6_MC )_) ._. 
+</s>
+<s>
+The_AT use_NN1 of_IO these_DD2 two_MC systems_NN2 in_II some_DD of_IO the_AT most_RGT expensive_JJ and_CC laterally_RR demanding_VVG buildings_NN2 in_II the_AT world_NN1 is_VBZ testament_NN1 to_II their_APPGE economic_JJ and_CC structurally_RR efficiency_NN1 ._. 
+</s>
+<s>
+This_DD1 report_NN1 serves_VVZ as_II an_AT1 overview_NN1 of_IO the_AT construction_NN1 issues_NN2 arising_VVG from_II combining_VVG concrete_JJ walls_NN2 with_IW composite_JJ floor_NN1 construction_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT design_NN1 of_IO shear_VV0 walls_NN2 and_CC composite_JJ floors_NN2 are_VBR discussed_VVN both_RR in_RR21 general_RR22 and_CC in_II31 relation_II32 to_II33 the_AT interaction_NN1 of_IO the_AT two_MC systems_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, a_AT1 checklist_NN1 of_IO recommendations_NN2 is_VBZ presented_VVN for_IF engineers_NN2 involved_JJ in_II the_AT design_NN1 of_IO steel_NN1 framed_JJ buildings_NN2 utilizing_VVG reinforced_JJ concrete_NN1 shear_VV0 walls_NN2 ._. 
+</s>
+<s>
+As_CSA with_IW all_DB concrete_JJ construction_NN1 ,_, shear_VV0 wall_NN1 formwork_NN1 costs_NN2 can_VM be_VBI reduced_VVN by_II standardizing_VVG wall_NN1 dimensions_NN2 and_CC details_NN2 ._. 
+</s>
+<s>
+Maintaining_VVG consistent_JJ wall_NN1 thickness_NN1 ,_, story_NN1 heights_NN2 ,_, and_CC the_AT size_NN1 and_CC location_NN1 of_IO openings_NN2 allows_VVZ the_AT reuse_NN1 of_IO forms_NN2 and_CC reduces_VVZ the_AT likelihood_NN1 of_IO dimensional_JJ error_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+For_IF walls_NN2 in_II steel_NN1 buildings_NN2 ,_, it_PPH1 is_VBZ also_RR recommended_VVN to_TO repeat_VVI the_AT size_NN1 and_CC location_NN1 of_IO embedded_JJ plates_NN2 for_IF the_AT connection_NN1 of_IO steel_NN1 elements_NN2 ._. 
+</s>
+<s>
+Plates_NN2 are_VBR typically_RR nailed_VVN to_II the_AT interior_NN1 of_IO forms_NN2 prior_II21 to_II22 pouring_VVG ;_; repetition_NN1 in_II plate_NN1 installation_NN1 reduces_VVZ the_AT need_NN1 for_IF construction_NN1 oversight_NN1 and_CC can_VM help_VVI minimize_VVI costly_JJ errors_NN2 in_II connection_NN1 alignment_NN1 (_( see_VV0 the_AT discussion_NN1 on_II Tolerances_NN2 below_RL )_) ._. 
+</s>
+<s>
+Table_NN1 1_MC1 summarizes_VVZ the_AT characteristics_NN2 of_IO the_AT four_MC wall_NN1 forming_VVG systems_NN2 listed_VVN below_RL :_: The_AT construction_NN1 procedures_NN2 for_IF steel_NN1 frames_NN2 and_CC concrete_JJ walls_NN2 vary_VV0 significantly_RR in_II speed_NN1 and_CC dependency_NN1 ._. 
+</s>
+<s>
+With_IW the_AT exception_NN1 of_IO ganged_JJ forms_NN2 ,_, all_DB systems_NN2 in_II Table_NN1 1_MC1 permit_VV0 the_AT construction_NN1 of_IO walls_NN2 entirely_RR or_CC several_DA2 stories_NN2 ahead_II21 of_II22 frame_NN1 and_CC floor_NN1 construction_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI used_VVN to_TO avoid_VVI delays_NN2 stemming_VVG from_II the_AT interdependency_NN1 of_IO the_AT two_MC systems_NN2 ,_, such_II21 as_II22 beam-wall_JJ connections_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, structures_NN2 with_IW relatively_RR simple_JJ foundation_NN1 systems_NN2 and_CC long_JJ steel_NN1 lead_NN1 times_NNT2 can_VM begin_VVI construction_NN1 of_IO walls_NN2 and_CC cores_NN2 before_II any_DD steel_NN1 arrives_VVZ on_II site_NN1 ._. 
+</s>
+<s>
+This_DD1 ,_, in_II turn_NN1 ,_, can_VM hasten_VVI the_AT scheduled_JJ placement_NN1 of_IO central_JJ stairwells_NN2 ,_, elevators_NN2 ,_, and_CC some_DD building_NN1 utilities_NN2 ._. 
+</s>
+<s>
+Table_NN1 2_MC (_( 3_MC )_) lists_VVZ the_AT relevant_JJ tolerances_NN2 for_IF concrete_JJ wall_NN1 construction_NN1 and_CC Table_NN1 3_MC (_( 2_MC )_) lists_VVZ steel_NN1 beam_NN1 and_CC column_NN1 tolerances_NN2 ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT allowable_JJ variation_NN1 in_II the_AT length_NN1 of_IO steel_NN1 members_NN2 (_( 1/8_MF "_" or_CC less_RRR )_) is_VBZ a_AT1 third_MD of_IO the_AT allowable_JJ variation_NN1 in_II the_AT plan_NN1 dimension_NN1 for_IF walls_NN2 (_( approximately_RR 3/8_MF "_" )_) ._. 
+</s>
+<s>
+This_DD1 implies_VVZ that_CST beams_NN2 framing_VVG into_II shear_VV0 walls_NN2 should_VM be_VBI shortened_VVN to_TO accommodate_VVI any_DD possible_JJ increase_NN1 in_II wall_NN1 size_NN1 ._. 
+</s>
+<s>
+Connections_NN2 ,_, too_RR ,_, need_VV0 to_TO be_VBI detailed_VVN for_IF the_AT maximum_JJ possible_JJ eccentricity_NN1 occurring_VVG (_( theoretically_RR )_) when_RRQ a_AT1 1/8_MF "_" short_JJ beam_NN1 frames_VVZ into_II a_AT1 wall_NN1 with_IW 3/8_MF "_" of_IO additional_JJ thickness_NN1 ._. 
+</s>
+<s>
+The_AT slop_NN1 arising_VVG from_II the_AT opposite_JJ case_NN1 --_NN1 a_AT1 long_JJ beam_NN1 and_CC a_AT1 thick_JJ wall_NN1 --_NN1 is_VBZ 5/8_MF "_" ,_, making_VVG the_AT total_JJ variation_NN1 in_II possible_JJ connection_NN1 location_NN1 equal_JJ one_PN1 and_CC one-eighths_MF inch_NNU1 ._. 
+</s>
+<s>
+Keep_VV0 in_II mind_NN1 that_CST these_DD2 tolerances_NN2 are_VBR merely_RR specified_VVN values_NN2 ;_; many_DA2 contractors_NN2 may_VM be_VBI used_VVN to_II more_RGR lenient_JJ dimensional_JJ restrictions_NN2 for_IF wall_NN1 construction_NN1 and_CC may_VM price_VVI their_APPGE bids_NN2 as_II such_DA ._. 
+</s>
+<s>
+The_AT design_NN1 of_IO a_AT1 bolted_JJ connection_NN1 resulting_VVG from_II an_AT1 assumed_JJ wall_NN1 tolerance_NN1 of_IO 2_MC "_" can_VM be_VBI seen_VVN in_II Fig._NN1 3_MC ._. 
+</s>
+<s>
+To_TO avoid_VVI designing_VVG embedded_JJ plates_NN2 for_IF the_AT moment_NN1 caused_VVN by_II this_DD1 added_JJ eccentricity_NN1 ,_, it_PPH1 is_VBZ important_JJ to_TO clearly_RR note_VVI the_AT assumed_JJ tolerances_NN2 on_II all_DB relevant_JJ design_NN1 drawings_NN2 and_CC to_TO communicate_VVI these_DD2 expectations_NN2 to_II contractors_NN2 or_CC construction_NN1 managers_NN2 early_RR in_II the_AT design_NN1 phase_NN1 ._. 
+</s>
+<s>
+In_II regions_NN2 with_IW strong_JJ labor_NN1 unions_NN2 ,_, the_AT construction_NN1 of_IO steel_NN1 framed_JJ buildings_NN2 with_IW concrete_NN1 shear_VV0 walls_NN2 may_VM be_VBI hampered_VVN by_II regulations_NN2 discouraging_VVG or_CC preventing_VVG the_AT interaction_NN1 of_IO steel_NN1 and_CC concrete_JJ tradesmen_NN2 ._. 
+</s>
+<s>
+A_AT1 contractor_NN1 or_CC construction_NN1 manager_NN1 familiar_JJ with_IW local_JJ union_NN1 policies_NN2 should_VM be_VBI consulted_VVN before_II any_DD substantial_JJ design_NN1 is_VBZ initiated_VVN ._. 
+</s>
+<s>
+The_AT design_NN1 of_IO steel_NN1 members_NN2 has_VHZ become_VVN increasingly_RR automated_JJ ._. 
+</s>
+<s>
+A_AT1 number_NN1 of_IO popular_JJ software_NN1 packages_NN2 streamline_VV0 the_AT process_NN1 ,_, from_II input_NN1 of_IO building_NN1 layout_NN1 (_( typically_RR taken_VVN from_II converted_JJ CAD_NN1 drawings_NN2 )_) ,_, load_VV0 assignment_NN1 (_( including_II choice_NN1 of_IO applicable_JJ building_NN1 code_NN1 or_CC codes_NN2 )_) ,_, strength_NN1 and_CC serviceability_NN1 checks_NN2 ,_, and_CC member_NN1 optimization_NN1 ._. 
+</s>
+<s>
+These_DD2 programs_NN2 also_RR handle_VV0 the_AT complete_JJ design_NN1 of_IO composite_JJ floor_NN1 systems_NN2 ,_, either_RR for_IF full_JJ composite_JJ action_NN1 or_CC for_IF a_AT1 user-defined_JJ number_NN1 of_IO shear_VV0 studs_NN2 (_( 8_MC ,_, 9_MC )_) ._. 
+</s>
+<s>
+Composite_JJ design_NN1 is_VBZ carried_VVN out_RP in_II accordance_NN1 with_IW the_AT AISC_NN1 Specification_NN1 for_IF Structural_JJ Steel_NN1 Buildings_NN2 Section_NN1 I._NP1 Note_VV0 that_CST proper_JJ identification_NN1 of_IO the_AT span_NN1 direction_NN1 of_IO the_AT steel_NN1 deck_NN1 is_VBZ important_JJ :_: Section_NN1 I_PPIS1 allows_VVZ for_IF concrete_NN1 below_II the_AT top_NN1 of_IO the_AT deck_NN1 in_II compression_NN1 to_TO contribute_VVI to_II the_AT moment_NN1 capacity_NN1 if_CS the_AT deck_NN1 flutes_NN2 are_VBR running_VVG parallel_RR to_II the_AT beam_NN1 ._. 
+</s>
+<s>
+Columns_NN2 for_IF gravity_NN1 loads_NN2 are_VBR often_RR selected_VVN by_II the_AT same_DA programs_NN2 designing_VVG floor_NN1 systems_NN2 ._. 
+</s>
+<s>
+Many_DA2 programs_NN2 ,_, however_RR ,_, require_VV0 the_AT user_NN1 selection_NN1 of_IO stability_NN1 parameters_NN2 such_II21 as_II22 K_ZZ1 values_NN2 and_CC end_VV0 conditions_NN2 ._. 
+</s>
+<s>
+In_II the_AT presence_NN1 of_IO concrete_NN1 shear_VV0 walls_NN2 and_CC floor_NN1 diaphragms_NN2 that_CST limit_VV0 inter-story_JJ drift_NN1 ,_, AISC_NP1 Specification_NN1 Section_NN1 C_ZZ1 permits_VVZ the_AT use_NN1 of_IO a_AT1 stability_NN1 factor_NN1 K_ZZ1 =_FO 1.0_MC ._. 
+</s>
+<s>
+Structural_JJ analysis_NN1 can_VM be_VBI used_VVN to_TO justify_VVI a_AT1 smaller_JJR value_NN1 but_CCB "_" second-order_JJ effects_NN2 ,_, flexural_NN1 ,_, shear_VV0 ,_, and_CC axial_JJ deformations_NN2 ,_, geometric_JJ imperfections_NN2 ,_, and_CC member_NN1 stiffness_NN1 reduction_NN1 due_II21 to_II22 residual_JJ stresses_NN2 "_" must_VM be_VBI considered_VVN in_II31 accordance_II32 with_II33 AISC_NP1 Appendix_NN1 7_MC (_( 10_MC )_) ._. 
+</s>
+<s>
+Such_DA analyses_NN2 are_VBR considered_VVN un-conservative_JJ and_CC are_VBR rarely_RR performed_VVN ._. 
+</s>
+<s>
+The_AT fabrication_NN1 of_IO steel_NN1 structures_NN2 is_VBZ as_RG optimized_JJ as_CSA their_APPGE design_NN1 ._. 
+</s>
+<s>
+Computer_NN1 output_NN1 from_II CAD_NN1 and_CC structural_JJ models_NN2 can_VM be_VBI sent_VVN directly_RR to_II fabricators_NN2 and_CC easily_RR converted_VVN into_II shop_NN1 drawings_NN2 and_CC CNC_NP1 machine_NN1 processes_NN2 ._. 
+</s>
+<s>
+Electronic_JJ communication_NN1 regarding_II mill_NN1 orders_NN2 and_CC steel_NN1 deliveries_NN2 is_VBZ often_RR electronically_RR monitored_VVN by_II construction_NN1 managers_NN2 ,_, who_PNQS in_II turn_NN1 coordinate_VV0 the_AT erection_NN1 sequence_NN1 and_CC minimize_VV0 downtime_NNT1 ._. 
+</s>
+<s>
+Structural_JJ steel_NN1 mill_NN1 orders_NN2 ,_, particularly_RR of_IO unusual_JJ or_CC custom_NN1 shapes_NN2 ,_, do_VD0 require_VVI a_AT1 certain_JJ amount_NN1 of_IO lead_NN1 time_NNT1 ._. 
+</s>
+<s>
+Automating_VVG the_AT steel_NN1 design_NN1 process_NN1 and_CC limiting_VVG it_PPH1 to_II gravity_NN1 systems_NN2 can_VM lead_VVI to_II quicker_JJR design_NN1 finalization_NN1 and_CC subsequent_JJ placement_NN1 of_IO mill_NN1 orders_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, regarding_VVG the_AT international_JJ movement_NN1 toward_II "_" green_JJ "_" or_CC environmentally_RR responsible_JJ construction_NN1 ,_, newly_RR milled_VVD structural_JJ steel_NN1 boasts_VVZ over_RG 99%_NNU recycled_JJ content_NN1 ._. 
+</s>
+<s>
+Most_DAT modern_JJ steel_NN1 framed_JJ buildings_NN2 utilize_VV0 concrete-filled_JJ steel_NN1 deck_NN1 ,_, or_CC composite_JJ floor_NN1 systems_NN2 (_( Fig._NN1 5_MC )_) ._. 
+</s>
+<s>
+These_DD2 systems_NN2 serve_VV0 as_RG permanent_JJ formwork_NN1 for_IF the_AT placement_NN1 of_IO concrete_JJ floors_NN2 and_CC are_VBR specified_VVN to_TO control_VVI deflections_NN2 both_RR during_II concrete_JJ placement_NN1 and_CC throughout_II their_APPGE service_NN1 life_NN1 ._. 
+</s>
+<s>
+Composite_JJ steel_NN1 deck_NN1 earns_VVZ its_APPGE name_NN1 through_II deformations_NN2 in_II the_AT deck_NN1 side_NN1 walls_NN2 that_CST transfer_VV0 shear_VV0 between_II the_AT deck_NN1 and_CC hardened_JJ concrete_NN1 ._. 
+</s>
+<s>
+This_DD1 composite_JJ action_NN1 reduces_VVZ the_AT need_VV0 flexural_JJ reinforcement_NN1 and_CC helps_NN2 increase_VVI the_AT overall_JJ stiffness_NN1 of_IO the_AT floor_NN1 system_NN1 ._. 
+</s>
+<s>
+Like_II steel_NN1 framing_VVG ,_, steel_NN1 floor_NN1 deck_NN1 is_VBZ made_VVN from_II large_JJ percentages_NN2 of_IO recycled_JJ material._NNU (_( 11_MC ,_, 12_MC )_) The_AT flexural_JJ strength_NN1 and_CC stiffness_NN1 of_IO composite_JJ slab_NN1 systems_NN2 are_VBR typically_RR specified_VVN in_II manufacturers_58 '_97 product_NN1 literature_NN1 in_II31 accordance_II32 with_II33 the_AT Steel_NN1 Deck_NN1 Institute_NN1 ._. 
+</s>
+<s>
+The_AT Steel_NN1 Deck_NN1 Institute_NN1 publishes_VVZ a_AT1 number_NN1 of_IO deck_NN1 design_NN1 guides_NN2 ,_, including_II a_AT1 manual_NN1 for_IF deck_NN1 diaphragm_NN1 design_NN1 ._. 
+</s>
+<s>
+However_RR ,_, composite_JJ floor_NN1 calculations_NN2 are_VBR often_RR trivial_JJ and_CC can_VM typically_RR be_VBI carried_VVN out_RP under_II the_AT guidance_NN1 of_IO ACI_NP1 318_MC ._. 
+</s>
+<s>
+Composite_JJ floor_NN1 systems_NN2 can_VM be_VBI very_RG thin_JJ due_II21 to_II22 their_APPGE inherent_JJ structural_JJ efficiency_NN1 :_: 1_MC1 1/2_MF "_" deep_JJ deck_NN1 typically_RR produces_VVZ a_AT1 total_JJ slab_NN1 depth_NN1 of_IO 3_MC 1/2_MF "_" ,_, 2_MC "_" deck_NN1 produces_VVZ a_AT1 4_MC "_" slab_NN1 ,_, and_CC 3_MC "_" deck_NN1 produces_VVZ a_AT1 5_MC "_" slab_NN1 ._. 
+</s>
+<s>
+Note_VV0 that_CST while_CS properly_RR specified_VVN composite_JJ deck_NN1 will_VM eliminate_VVI the_AT need_NN1 for_IF flexural_JJ reinforcement_NN1 in_II the_AT concrete_JJ topping_NN1 ,_, the_AT minimum_JJ slab_NN1 reinforcement_NN1 ratio_NN1 of_IO 0.18_MC percent_NNU still_RR applies_VVZ (_( 13_MC )_) ._. 
+</s>
+<s>
+Thin_JJ decks_NN2 are_VBR also_RR very_RG light_JJ ,_, which_DDQ can_VM sometimes_RT lead_VVI to_II vibration_NN1 issues_NN2 ._. 
+</s>
+<s>
+AISC_NP1 Design_NN1 Guide_NN1 11_MC ,_, Floor_NN1 Vibrations_NN2 due_II21 to_II22 Human_JJ Activity_NN1 provides_VVZ guidelines_NN2 for_IF checking_VVG the_AT perceived_JJ vibration_NN1 of_IO slab_NN1 systems_NN2 ._. 
+</s>
+<s>
+With_IW as_RG little_DA1 as_CSA 2_MC "_" of_IO continuous_JJ concrete_NN1 above_II the_AT metal_NN1 deck_NN1 ,_, the_AT flexural_NN1 and_CC shear_VV0 strengths_NN2 of_IO the_AT floor_NN1 as_II a_AT1 diaphragm_NN1 must_VM be_VBI checked_VVN against_II predicted_JJ demand_NN1 ._. 
+</s>
+<s>
+Flexural_JJ strength_NN1 will_VM likely_RR not_XX be_VBI a_AT1 concern_NN1 ,_, given_VVN the_AT flexural_JJ depth_NN1 of_IO a_AT1 flat_JJ slab_NN1 and_CC the_AT presence_NN1 of_IO temperature_NN1 and_CC shrinkage_NN1 steel_NN1 ._. 
+</s>
+<s>
+However_RR ,_, because_CS composite_JJ slabs_NN2 are_VBR typically_RR cracked_VVN due_II21 to_II22 shrinkage_NN1 and_CC service_NN1 loads_NN2 ,_, it_PPH1 is_VBZ recommended_VVN that_CST provisions_NN2 of_IO ACI_NP1 318_MC Chapter_NN1 21_MC be_VBI applied_VVN for_IF all_DB severe_JJ cyclic_JJ loading_NN1 conditions_NN2 (_( i.e._REX both_DB2 wind_NN1 and_CC seismic_JJ loading_NN1 for_IF tall_JJ buildings_NN2 )_) ._. 
+</s>
+<s>
+These_DD2 provisions_NN2 require_VV0 flexural_JJ reinforcement_NN1 in_II sections_NN2 of_IO slab_NN1 where_CS un-cracked_JJ analysis_NN1 reveals_VVZ flexural_NN1 stresses_VVZ greater_JJR than_CSN 0.2fc_FO ;_; this_DD1 requirement_NN1 can_VM be_VBI satisfied_VVN by_II temperature_NN1 and_CC shrinking_JJ reinforcement_NN1 (_( 14_MC )_) ._. 
+</s>
+<s>
+The_AT shear_VV0 strength_NN1 of_IO composite_JJ slab_NN1 diaphragms_NN2 neglects_VVZ the_AT shear_VV0 resistance_NN1 of_IO the_AT concrete_NN1 (_( due_II21 to_II22 cracking_VVG )_) and_CC is_VBZ given_VVN as_II :_: where_RRQ Vn_NP1 is_VBZ the_AT nominal_JJ resistance_NN1 of_IO the_AT slab_NN1 ,_, Acv_NP1 is_VBZ the_AT cross_NN1 sectional_JJ area_NN1 of_IO slab_NN1 resisting_VVG shear_VV0 ,_, n_ZZ1 is_VBZ the_AT transverse_JJ reinforcement_NN1 ratio_NN1 of_IO the_AT slab_NN1 (_( often_RR min_NNU =_FO 0.18%_FO )_) ,_, and_CC fy_NN1 is_VBZ the_AT yield_NN1 strength_NN1 of_IO the_AT reinforcing_JJ steel_NN1 (_( 14_MC )_) ._. 
+</s>
+<s>
+Note_VV0 that_CST welded_JJ wire_NN1 fabrics_NN2 often_RR used_VVN as_CSA minimum_JJ reinforcement_NN1 have_VH0 yield_NN1 strengths_NN2 fy_NN1 65_MC ksi_NN2 (_( 15_MC )_) ._. 
+</s>
+<s>
+Architectural_JJ considerations_NN2 typically_RR locate_VV0 shear_VV0 wall_NN1 systems_NN2 toward_II the_AT interior_NN1 of_IO buildings_NN2 ._. 
+</s>
+<s>
+Here_RL they_PPHS2 can_VM be_VBI effectively_RR used_VVN to_TO house_VVI elevator_NN1 shafts_NN2 ,_, stairwells_NN2 ,_, and_CC mechanical_JJ and_CC electrical_JJ risers_NN2 without_IW interrupting_VVG valuable_JJ window_NN1 space_NN1 ._. 
+</s>
+<s>
+From_II a_AT1 structural_JJ standpoint_NN1 ,_, relegating_VVG walls_NN2 to_II the_AT center_NN1 of_IO structures_NN2 tends_VVZ to_TO limit_VVI their_APPGE flexural_JJ depth_NN1 and_CC therefore_RR their_APPGE stiffness_NN1 ._. 
+</s>
+<s>
+Engineers_NN2 have_VH0 overcome_VVN this_DD1 problem_NN1 by_II coupling_NN1 walls_NN2 to_II steel_NN1 fascia_NN1 columns_NN2 ,_, other_JJ walls_NN2 ,_, or_CC large_JJ concrete_JJ "_" super_JJ columns_NN2 "_" (_( Fig._NN1 6_MC )_) ._. 
+</s>
+<s>
+Coupling_NN1 of_IO walls_NN2 is_VBZ discussed_VVN in_II Section_NN1 4._MC c_ZZ1 ._. 
+</s>
+<s>
+Centrally_RR locating_VVG walls_NN2 has_VHZ the_AT hidden_JJ benefit_NN1 of_IO limiting_VVG the_AT eccentricity_NN1 between_II the_AT building_NN1 's_GE center_NN1 of_IO mass_NN1 and_CC the_AT center_NN1 of_IO resistance_NN1 of_IO the_AT wall_NN1 system_NN1 ._. 
+</s>
+<s>
+While_CS the_AT above_JJ architectural_JJ limitations_NN2 generally_RR minimize_VV0 the_AT torsional_JJ demand_NN1 on_II shear_VV0 walls_NN2 ,_, even_RR a_AT1 small_JJ eccentricity_NN1 may_VM contribute_VVI an_AT1 additional_JJ shear_VV0 force_NN1 substantial_JJ to_II smaller_JJR walls_NN2 ._. 
+</s>
+<s>
+A_AT1 guide_NN1 from_II (_( 16_MC )_) showing_VVG the_AT calculation_NN1 of_IO wall_NN1 eccentricity_NN1 ,_, the_AT resulting_JJ torsion_NN1 ,_, and_CC the_AT distribution_NN1 of_IO shear_VV0 is_VBZ given_VVN in_II Appendix_NN1 A._NP1 The_AT strength_NN1 design_NN1 of_IO conventional_JJ concrete_NN1 shear_VV0 walls_NN2 is_VBZ covered_VVN in_II ACI_NP1 318_MC ,_, Chapters_NN2 10_MC ,_, 11_MC ,_, and_CC 14_MC ._. 
+</s>
+<s>
+Walls_NP1 defined_VVD as_RG "_" Special_JJ Reinforced_VVD Concrete_NN1 Shear_VV0 Walls_NP1 "_" according_II21 to_II22 ASCE_NP1 0705_MC must_VM adhere_VVI to_II the_AT strength_NN1 and_CC detailing_VVG provisions_NN2 of_IO ACI_NP1 318_MC Chapter_NN1 21_MC (_( in_II31 addition_II32 to_II33 ASCE_NP1 07_MC ,_, Section_NN1 14.2_MC )_) ._. 
+</s>
+<s>
+ASCE_NP1 07_MC also_RR places_VVZ limits_NN2 on_II the_AT deformation_NN1 of_IO individual_JJ members_NN2 ._. 
+</s>
+<s>
+Wind_NN1 loading_NN1 requirements_NN2 are_VBR given_VVN in_II ASCE_NP1 0705_MC Chapter_NN1 6_MC ._. 
+</s>
+<s>
+These_DD2 are_VBR to_TO be_VBI used_VVN when_CS referenced_VVN by_II the_AT local_JJ building_NN1 code_NN1 or_CC International_JJ Building_NN1 Code_NN1 (_( IBC_NP1 )_) ._. 
+</s>
+<s>
+Note_VV0 that_CST some_DD regions_NN2 ,_, such_II21 as_II22 the_AT City_NN1 of_IO Chicago_NP1 ,_, have_VH0 building_NN1 codes_NN2 containing_VVG their_APPGE own_DA wind_NN1 loading_NN1 provisions_NN2 ._. 
+</s>
+<s>
+Limitations_NN2 on_II total_JJ building_NN1 and_CC inter-story_JJ drift_NN1 ,_, due_JJ to_TO wind_VVI or_CC seismic_JJ forces_NN2 ,_, are_VBR also_RR given_VVN in_II the_AT IBC_NN1 and_CC some_DD local_JJ building_NN1 codes_NN2 ._. 
+</s>
+<s>
+The_AT stiffness_NN1 of_IO individual_JJ wall_NN1 piers_NN2 is_VBZ governed_VVN by_II two_MC main_JJ parameters_NN2 :_: the_AT moment_NN1 of_IO inertia_NN1 of_IO the_AT section_NN1 and_CC the_AT modulus_NN1 of_IO elasticity_NN1 of_IO the_AT material_NN1 ._. 
+</s>
+<s>
+Most_DAT stiffness_NN1 analyses_NN2 can_VM begin_VVI by_II using_VVG the_AT gross_JJ moment_NN1 of_IO inertia_NN1 for_IF wall_NN1 piers_NN2 ;_; concrete_JJ coupling_NN1 beams_NN2 should_VM be_VBI assumed_VVN cracked_JJ initially_RR with_IW an_AT1 effective_JJ moment_NN1 of_IO inertia_NN1 :_: where_RRQ Ig_NP1 is_VBZ the_AT gross_JJ moment_NN1 of_IO inertia_NN1 of_IO the_AT section_NN1 ._. 
+</s>
+<s>
+An_AT1 iterative_JJ analysis_NN1 is_VBZ recommended_VVN when_CS tension_NN1 in_II the_AT extreme_JJ flexural_JJ fiber_NN1 of_IO any_DD member_NN1 exceeds_VVZ the_AT modulus_NN1 of_IO rupture_NN1 of_IO the_AT concrete_NN1 ._. 
+</s>
+<s>
+Cracked_JJ wall_NN1 piers_NN2 should_VM be_VBI analyzed_VVN with_IW an_AT1 effective_JJ moment_NN1 of_IO inertia_NN1 given_VVN by_II Eq_NN1 ._. 
+</s>
+<s>
+4.1_MC ._. 
+</s>
+<s>
+Determination_NN1 of_IO the_AT elastic_JJ modulus_NN1 of_IO concrete_NN1 shear_VV0 walls_NN2 has_VHZ a_AT1 large_JJ impact_NN1 on_II the_AT overall_JJ stiffness_NN1 of_IO walls_NN2 and_CC wall_NN1 systems_NN2 ._. 
+</s>
+<s>
+ACI_NP1 318_MC provides_VVZ the_AT following_JJ equations_NN2 for_IF concrete_JJ moduli_NN2 :_: The_AT Code_NN1 allows_VVZ the_AT universal_JJ use_NN1 of_IO these_DD2 expressions_NN2 despite_II their_APPGE having_VHG been_VBN derived_VVN for_IF compressive_JJ strengths_NN2 less_DAR than_CSN 6000_MC psi_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+For_IF high-strength_JJ concrete_NN1 (_( greater_JJR than_CSN 6000_MC psi_NN1 )_) often_RR used_VVN in_II high-rise_JJ wall_NN1 construction_NN1 ,_, the_AT following_JJ equation_NN1 has_VHZ been_VBN developed_VVN :_: Table_NN1 4a_FO and_CC Table_NN1 4b_FO compare_VV0 the_AT moduli_NN2 computed_VVD using_VVG Eqs._NP1 4.2_MC ,_, 4.3_MC ,_, and_CC 4.4_MC for_IF normal_JJ and_CC lightweight_JJ concrete_NN1 (_( wc_NN1 =_FO 145_MC pcf_NNU and_CC 110_MC pcf_NNU ,_, respectively_RR )_) of_IO varying_JJ strengths_NN2 ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT differences_NN2 can_VM be_VBI in_II31 excess_II32 of_II33 ten_MC percent_NNU ._. 
+</s>
+<s>
+Coupled_JJ wall_NN1 systems_NN2 ,_, including_II wall-to-column_NN1 and_CC wall-to-wall_JJ coupling_NN1 ,_, are_VBR powerful_JJ tools_NN2 for_IF limiting_VVG the_AT drift_NN1 of_IO tall_JJ buildings_NN2 ._. 
+</s>
+<s>
+Coupling_NN1 can_VM be_VBI achieved_VVN through_II concrete_JJ beams_NN2 ,_, composite_JJ concrete_NN1 and_CC steel_NN1 beams_NN2 ,_, or_CC steel_NN1 beams_NN2 and_CC trusses_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 large_JJ body_NN1 of_IO research_NN1 on_II different_JJ coupling_NN1 systems_NN2 and_CC their_APPGE associated_JJ stiffness_NN1 and_CC deformation_NN1 capacity_NN1 ._. 
+</s>
+<s>
+Careful_JJ consideration_NN1 should_VM be_VBI given_VVN to_II the_AT forces_NN2 and_CC drift_VV0 demands_NN2 placed_VVN on_II coupling_NN1 beams_NN2 for_IF any_DD given_JJ wall_NN1 system_NN1 ;_; a_AT1 three-dimensional_JJ model_NN1 and_CC dynamic_JJ analysis_NN1 is_VBZ recommend_VV0 for_IF systems_NN2 relying_VVG heavily_RR on_II coupling_NN1 ._. 
+</s>
+<s>
+Before_II modeling_NN1 begins_VVZ ,_, it_PPH1 may_VM be_VBI useful_JJ to_TO get_VVI a_AT1 rough_JJ idea_NN1 of_IO how_RGQ effective_JJ a_AT1 coupled_JJ system_NN1 is_VBZ compared_VVN to_II the_AT total_JJ stiffness_NN1 of_IO individual_JJ piers_NN2 ._. 
+</s>
+<s>
+A_AT1 number_NN1 of_IO interesting_JJ models_NN2 have_VH0 been_VBN developed_VVN toward_II this_DD1 end_NN1 ,_, two_MC of_IO which_DDQ are_VBR presented_VVN in_II this_DD1 paper_NN1 ._. 
+</s>
+<s>
+Hoenderkamp_NP1 (_( 18_MC )_) illustrated_VVD a_AT1 method_NN1 for_IF determining_VVG the_AT optimal_JJ story_NN1 height_NN1 for_IF coupling_NN1 core_NN1 walls_NN2 with_IW fascia_NN1 columns_NN2 ._. 
+</s>
+<s>
+This_DD1 method_NN1 applies_VVZ to_II columns_NN2 of_IO both_RR concrete_JJ and_CC steel_NN1 and_CC is_VBZ based_VVN on_II deformation_NN1 compatibility_NN1 ._. 
+</s>
+<s>
+It_PPH1 presents_VVZ an_AT1 expression_NN1 for_IF horizontal_JJ deflection_NN1 at_II the_AT top_NN1 of_IO a_AT1 single_JJ wall_NN1 system_NN1 consisting_VVG of_IO a_AT1 truss_NN1 outrigger_NN1 pinned_VVN to_II a_AT1 fascia_NN1 column_NN1 on_II each_DD1 side_NN1 of_IO the_AT shear_VV0 wall_NN1 ._. 
+</s>
+<s>
+This_DD1 easy-to-use_JJ expression_NN1 and_CC its_APPGE derivation_NN1 are_VBR given_VVN in_II Appendix_NN1 B._NP1 Though_CS complicated_VVN in_II form_NN1 ,_, the_AT Hoenderkamp_NN1 model_NN1 is_VBZ derived_VVN from_II simple_JJ assumptions_NN2 and_CC input_NN1 readily_RR available_JJ early_JJ in_II the_AT design_NN1 phase_NN1 ._. 
+</s>
+<s>
+What_DDQ 's_VBZ more_RRR ,_, the_AT method_NN1 is_VBZ useful_JJ for_IF coupling_VVG a_AT1 wall_NN1 to_II any_DD axially_RR stiff_JJ element_NN1 ,_, including_II walls_NN2 that_CST would_VM otherwise_RR be_VBI bending_VVG about_II their_APPGE weak_JJ axis_NN1 (_( Fig._NN1 7_MC )_) ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI noted_VVN that_CST when_CS coupling_VVG to_II elements_NN2 slender_JJ with_II31 respect_II32 to_II33 the_AT considered_JJ direction_NN1 of_IO flexure_NN1 ,_, it_PPH1 is_VBZ appropriate_JJ to_TO design_VVI the_AT connection_NN1 between_II the_AT outrigger_NN1 and_CC axial_JJ element_NN1 as_CSA pinned_VVN ._. 
+</s>
+<s>
+This_DD1 prevents_VVZ the_AT transfer_NN1 of_IO moment_NN1 into_II slender_JJ axially_RR loaded_JJ elements_NN2 and_CC subsequent_JJ reduction_NN1 in_II their_APPGE axial_JJ efficiency_NN1 ._. 
+</s>
+<s>
+Harries_NP2 ,_, Moulton_NP1 ,_, and_CC Clemson_NP1 (_( 19_MC )_) adapted_VVD the_AT Continuous_JJ Medium_JJ Method_NN1 for_IF their_APPGE study_NN1 of_IO the_AT deformation_NN1 demand_NN1 on_II coupling_NN1 beams_NN2 ._. 
+</s>
+<s>
+They_PPHS2 defined_VVD a_AT1 wall_NN1 system_NN1 's_GE Degree_NN1 of_IO Coupling_NN1 as_II :_: where_RRQ N_ZZ1 is_VBZ the_AT axial_JJ load_NN1 in_II the_AT wall_NN1 system_NN1 due_II21 to_II22 coupling_NN1 action_NN1 ,_, Lw_NN1 is_VBZ the_AT distance_NN1 between_II the_AT centroids_NN2 of_IO the_AT coupled_JJ walls_NN2 ,_, and_CC Mw_NNU is_VBZ the_AT overturning_VVG moment_NN1 in_II each_DD1 pier_NN1 ._. 
+</s>
+<s>
+They_PPHS2 also_RR discuss_VV0 the_AT dimensionless_JJ parameter_NN1 kH_NNU given_VVN as_II :_: with_IW A1_FO and_CC A2_FO as_II the_AT area_NN1 of_IO the_AT two_MC wall_NN1 piers_NN2 and_CC A_ZZ1 as_CSA their_APPGE sum_NN1 ;_; I_PPIS1 as_II the_AT sum_NN1 of_IO the_AT moments_NN2 of_IO inertia_NN1 of_IO the_AT two_MC piers_NN2 ;_; h_ZZ1 as_II the_AT story_NN1 height_NN1 ;_; H_ZZ1 as_II the_AT total_JJ height_NN1 of_IO the_AT wall_NN1 ;_; and_CC Lw_NN1 as_CSA given_VVN above_RL ._. 
+</s>
+<s>
+Ic_NP1 is_VBZ the_AT moment_NN1 of_IO inertia_NN1 of_IO the_AT coupling_NN1 beam_NN1 accounting_VVG for_IF shear_VV0 deformations_NN2 :_: with_IW Ib_NP1 as_II the_AT flexural_JJ moment_NN1 of_IO inertia_NN1 of_IO the_AT coupling_NN1 beam_NN1 ;_; Lb_NNU as_II the_AT beam_NN1 clear_JJ span_NN1 ;_; and_CC where_CS one-half_MF the_AT concrete_JJ modulus_NN1 Ec_NP1 has_VHZ been_VBN substituted_VVN for_IF the_AT concrete_NN1 shear_VV0 modulus_NN1 Gc_NP1 ._. 
+</s>
+<s>
+This_DD1 parameter_NN1 can_VM be_VBI interpreted_VVN as_II a_AT1 measure_NN1 of_IO the_AT relative_JJ stiffness_NN1 of_IO the_AT coupling_NN1 beams_NN2 and_CC thereby_RR the_AT degree_NN1 of_IO coupling_NN1 of_IO the_AT wall_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT authors_NN2 then_RT make_VV0 the_AT following_JJ useful_JJ observations_NN2 :_: Observations_NN2 1_MC1 and_CC 2_MC are_VBR useful_JJ for_IF sizing_VVG coupling_NN1 beams_NN2 in_II wall_NN1 systems_NN2 with_IW repeated_JJ openings_NN2 ,_, or_CC for_IF determining_VVG the_AT feasibility_NN1 of_IO coupling_NN1 across_II openings_NN2 of_IO a_AT1 particular_JJ size_NN1 ._. 
+</s>
+<s>
+Graphs_NN2 from_II the_AT study_NN1 (_( included_VVN in_II Appendix_NN1 C_ZZ1 )_) can_VM be_VBI used_VVN to_TO approximate_VVI the_AT degree_NN1 of_IO coupling_NN1 for_IF values_NN2 of_IO kH_NNU between_II 1_MC1 and_CC 8_MC ._. 
+</s>
+<s>
+Observation_NN1 3_MC is_VBZ of_IO particular_JJ interest_NN1 for_IF structures_NN2 with_IW steel_NN1 gravity_NN1 systems_NN2 ._. 
+</s>
+<s>
+It_PPH1 implies_VVZ that_CST large_JJ degrees_NN2 of_IO coupling_NN1 either_RR increase_VV0 the_AT likelihood_NN1 of_IO localized_JJ cracking_JJ at_II coupling_NN1 beams_NN2 or_CC are_VBR the_AT result_NN1 of_IO wall_NN1 groups_NN2 behaving_VVG more_RGR like_JJ frames_NN2 ._. 
+</s>
+<s>
+Both_DB2 scenarios_NN2 can_VM raise_VVI the_AT second-order_JJ effects_NN2 on_II slender_JJ steel_NN1 columns_NN2 to_II unacceptable_JJ levels_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ therefore_RR important_JJ to_TO understand_VVI that_CST kH_NNU is_VBZ only_RR a_AT1 measure_NN1 of_IO a_AT1 wall_NN1 group_NN1 's_GE relative_JJ efficiency_NN1 and_CC does_VDZ not_XX preclude_VVI a_AT1 more_RGR thorough_JJ possibly_RR nonlinear-analysis_JJ of_IO building_NN1 stiffness_NN1 ._. 
+</s>
+<s>
+This_DD1 observation_NN1 should_VM not_XX be_VBI a_AT1 deterrent_NN1 to_II using_VVG the_AT Continuous_JJ Medium_JJ Method_NN1 to_TO determine_VVI the_AT degree_NN1 of_IO coupling_NN1 between_II any_DD two_MC wall_NN1 piers_NN2 ._. 
+</s>
+<s>
+It_PPH1 and_CC the_AT Hoenderkamp_NN1 model_NN1 are_VBR both_RR easy_JJ to_TO script_VVI or_CC program_NN1 in_II Excel_VV0 ;_; require_VV0 simple_JJ ,_, readily_RR available_JJ input_NN1 that_CST can_VM be_VBI quickly_RR modified_VVN for_IF parametric_JJ study_NN1 ;_; and_CC are_VBR based_VVN on_II assumptions_NN2 broad_JJ enough_RR to_TO be_VBI verified_VVN by_II more_RGR thorough_JJ modeling_NN1 later_RRR on_RP in_II the_AT design_NN1 phase_NN1 ._. 
+</s>
+<s>
+Steel_NN1 columns_NN2 and_CC concrete_JJ walls_NN2 behave_VV0 differently_RR under_RG axial_JJ loads_NN2 over_II time_NNT1 ._. 
+</s>
+<s>
+To_TO prevent_VVI uneven_JJ floors_NN2 ,_, especially_RR in_II tall_JJ buildings_NN2 ,_, the_AT effects_NN2 of_IO differential_JJ shortening_NN1 should_VM be_VBI investigated_VVN ._. 
+</s>
+<s>
+These_DD2 effects_NN2 include_VV0 but_CCB are_VBR not_XX limited_VVN to_II elastic_JJ shortening_NN1 of_IO both_RR walls_NN2 and_CC columns_NN2 and_CC creep_NN1 and_CC shrinkage_NN1 of_IO the_AT concrete_JJ walls_NN2 ._. 
+</s>
+<s>
+Wall_NN1 elements_NN2 are_VBR typically_RR designed_VVN for_IF ultimate_JJ axial_JJ loads_NN2 between_II five_MC and_CC ten_MC percent_NNU of_IO their_APPGE nominal_JJ capacity_NN1 ._. 
+</s>
+<s>
+Therefore_RR they_PPHS2 undergo_VV0 very_RG little_DA1 elastic_NN1 shortening_VVG under_II gravity_NN1 service_NN1 loads_NN2 ._. 
+</s>
+<s>
+Steel_NN1 columns_NN2 ,_, on_II the_AT other_JJ hand_NN1 ,_, are_VBR typically_RR assumed_VVN to_TO take_VVI no_AT moment_NN1 and_CC are_VBR designed_VVN for_IF service_NN1 stresses_VVZ very_RG close_JJ to_II their_APPGE axial_JJ limit_NN1 ._. 
+</s>
+<s>
+A_AT1 comparison_NN1 is_VBZ given_VVN as_CSA follows_VVZ :_: a_AT1 typical_JJ critical_JJ compressive_JJ stress_NN1 of_IO Fcr_NP1 =_FO 40_MC ksi_NN2 in_II a_AT1 steel_NN1 column_NN1 equates_VVZ to_II an_AT1 axial_JJ strain_NN1 of_IO 0.0014_MC ,_, or_CC approximately_RR one_MC1 inch_NNU1 in_II 60_MC feet_NN2 ._. 
+</s>
+<s>
+An_AT1 axial_JJ stress_NN1 equal_JJ to_II 8%_NNU of_IO nominal_JJ (_( not_XX ultimate_JJ )_) in_II a_AT1 6_MC ksi_NN2 normal_JJ weight_NN1 concrete_NN1 wall_NN1 with_IW l_ZZ1 ,_, min_NNU =_FO 0.0012_MC and_CC Ec_NP1 from_II Eq_NN1 ._. 
+</s>
+<s>
+4.4_MC yields_VVZ an_AT1 axial_JJ strain_NN1 approximately_RR 20_MC times_NNT2 smaller_JJR (_( one_MC1 inch_NNU1 in_II 1200_MC feet_NN2 )_) ._. 
+</s>
+<s>
+The_AT time_NNT1 dependent_JJ effects_NN2 of_IO shrinkage_NN1 and_CC creep_NN1 have_VH0 a_AT1 larger_JJR impact_NN1 on_II the_AT axial_JJ deformation_NN1 of_IO tall_JJ concrete_JJ walls_NN2 ._. 
+</s>
+<s>
+Recommended_JJ values_NN2 for_IF the_AT ultimate_JJ shrinkage_NN1 strain_NN1 ,_, assumed_VVD to_TO occur_VVI at_II the_AT service_NN1 life_NN1 of_IO the_AT structure_NN1 ,_, are_VBR approximately_RR su_NN1 6104_MC or_CC one_MC1 inch_NNU1 in_II 140_MC feet_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Of_IO this_DD1 strain_NN1 ,_, roughly_RR half_DB will_VM occur_VVI within_II a_AT1 month_NNT1 of_IO wall_NN1 construction_NN1 and_CC nearly_RR ninety_MC percent_NNU will_VM occur_VVI after_II a_AT1 year_NNT1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Strains_NN2 from_II creep_NN1 are_VBR harder_JJR to_TO approximate_VVI as_CSA they_PPHS2 are_VBR affected_VVN by_II the_AT initial_JJ concrete_JJ strain_NN1 ,_, the_AT age_NN1 of_IO the_AT material_NN1 at_II time_NNT1 of_IO loading_NN1 ,_, the_AT volume-to-surface_JJ area_NN1 ratio_NN1 of_IO the_AT member_NN1 (_( typically_RR quite_RG small_JJ for_IF walls_NN2 )_) ,_, and_CC the_AT concrete_JJ strength_NN1 ,_, among_II other_JJ factors_NN2 ._. 
+</s>
+<s>
+Table_NN1 5_MC (_( 1_MC1 )_) gives_VVZ estimates_NN2 of_IO ultimate_JJ creep_NN1 coefficients_NN2 Cc_NNU --_NN1 the_AT ratio_NN1 of_IO ultimate_JJ creep_NN1 strain_NN1 occurring_VVG at_II a_AT1 structure_NN1 's_GE service_NN1 life_NN1 to_II the_AT initial_JJ axial_JJ strain_NN1 --_NN1 as_II a_AT1 function_NN1 of_IO concrete_JJ strength_NN1 ._. 
+</s>
+<s>
+A_AT1 more_RGR detailed_JJ discussion_NN1 of_IO creep_NN1 is_VBZ given_VVN in_II reference_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Steel_NN1 plates_NN2 embedded_VVN in_II concrete_JJ elements_NN2 are_VBR used_VVN to_TO connect_VVI steel_NN1 deck_NN1 ,_, floor_NN1 beams_NN2 ,_, and_CC steel_NN1 outriggers_NN2 or_CC coupling_NN1 beams_NN2 (_( Fig._NN1 8_MC )_) ._. 
+</s>
+<s>
+The_AT design_NN1 of_IO these_DD2 connections_NN2 is_VBZ governed_VVN by_II several_DA2 different_JJ codes_NN2 ._. 
+</s>
+<s>
+The_AT stress_NN1 distribution_NN1 along_II the_AT height_NN1 of_IO the_AT plate_NN1 is_VBZ a_AT1 function_NN1 of_IO the_AT plate_NN1 thickness_NN1 ,_, as_CSA given_VVN in_II the_AT AISC_NN1 Connections_NN2 Design_VV0 Manual_NN1 ,_, Volume_NN1 3_MC ._. 
+</s>
+<s>
+For_IF plates_NN2 located_VVD far_RR from_II any_DD boundary_NN1 of_IO the_AT concrete_JJ element_NN1 ,_, simplified_JJ design_NN1 of_IO embedded_JJ stud_NN1 groups_NN2 can_VM be_VBI carried_VVN out_RP according_VVG to_TO stud_VVI manufacturer_NN1 recommendations_NN2 or_CC the_AT PCA_NN1 Design_NN1 Handbook_NN1 Section_NN1 6.5_MC ,_, both_DB2 of_IO which_DDQ are_VBR typically_RR conservative_JJ ._. 
+</s>
+<s>
+For_IF critical_JJ connections_NN2 ,_, those_DD2 near_JJ wall_NN1 edges_NN2 ,_, or_CC those_DD2 in_II thin_JJ wall_NN1 elements_NN2 ,_, the_AT provisions_NN2 of_IO ACI_NP1 31805_MC Appendix_NN1 D_ZZ1 should_VM be_VBI used_VVN ._. 
+</s>
+<s>
+As_CSA previously_RR mentioned_VVN ,_, the_AT design_NN1 of_IO concrete_JJ coupling_NN1 beams_NN2 is_VBZ a_AT1 matter_NN1 of_IO strength_NN1 and_CC deformation_NN1 capacity_NN1 ,_, both_DB2 of_IO which_DDQ have_VH0 a_AT1 large_JJ impact_NN1 on_II the_AT lateral_JJ performance_NN1 of_IO a_AT1 structure_NN1 ._. 
+</s>
+<s>
+These_DD2 demands_NN2 are_VBR exaggerated_VVN in_II the_AT presence_NN1 of_IO load_NN1 reversals_NN2 such_II21 as_II22 wind_NN1 oscillation_NN1 or_CC seismic_JJ events_NN2 ._. 
+</s>
+<s>
+Therefore_RR it_PPH1 is_VBZ recommended_VVN that_CST the_AT provisions_NN2 of_IO ACI_NP1 318_MC Section_NN1 21.7.7_MC be_VBI considered_VVN for_IF cast-in-place_JJ coupling_NN1 beams_NN2 in_II tall_JJ buildings_NN2 with_IW degrees_NN2 of_IO coupling_NN1 in_II31 excess_II32 of_II33 fifty_MC percent_NNU ._. 
+</s>
+<s>
+For_IF wind-controlled_JJ design_NN1 ,_, confinement_NN1 of_IO a_AT1 coupling_NN1 beam_NN1 's_GE diagonal_JJ bars_NN2 may_VM be_VBI omitted_VVN if_CS deformations_NN2 are_VBR low_RR enough_RR to_TO prevent_VVI concrete_JJ spalling_NN1 (_( see_VV0 Fig._NN1 9_MC )_) ._. 
+</s>
+<s>
+Reinforced_VVN concrete_NN1 shear_VV0 walls_NN2 and_CC wall_NN1 groups_NN2 are_VBR an_AT1 effective_JJ means_NN of_IO resisting_VVG lateral_JJ forces_NN2 in_II tall_JJ structures_NN2 ._. 
+</s>
+<s>
+With_IW the_AT addition_NN1 of_IO steel_NN1 and_CC composite_JJ gravity_NN1 systems_NN2 ,_, they_PPHS2 are_VBR highly_RR competitive_JJ with_IW all-steel_NN1 structures_NN2 in_II31 terms_II32 of_II33 overall_JJ construction_NN1 economy_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ is_VBZ a_AT1 list_NN1 of_IO recommendations_NN2 for_IF parties_NN2 considering_II the_AT design_NN1 or_CC construction_NN1 of_IO steel_NN1 framed_JJ buildings_NN2 with_IW reinforced_JJ concrete_NN1 shear_VV0 walls_NN2 :_: 
+</s>

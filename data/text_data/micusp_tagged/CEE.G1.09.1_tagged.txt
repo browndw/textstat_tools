@@ -1,0 +1,537 @@
+<s>
+Durability_NN1 with_IW regards_VVZ to_II concrete_NN1 was_VBDZ defined_VVN by_II the_AT American_JJ Concrete_JJ Institute_NN1 's_GE (_( ACI_NP1 )_) committee_NN1 201_MC in_II 1962_MC to_TO be_VBI "_" resistance_NN1 to_II deteriorating_JJ influences_NN2 which_DDQ may_VM through_II inadvertence_NN1 or_CC ignorance_NN1 reside_VV0 in_II the_AT concrete_NN1 itself_PPX1 ,_, or_CC which_DDQ are_VBR inherent_JJ in_II the_AT environment_NN1 to_II which_DDQ it_PPH1 is_VBZ exposed_VVN ._. "_" 
+</s>
+<s>
+(_( Woods_NP1 ,_, 1968_MC )_) Reinforced_VVD concrete_NN1 is_VBZ considered_VVN to_TO be_VBI a_AT1 very_RG durable_JJ building_NN1 material_NN1 ._. 
+</s>
+<s>
+In_RR21 general_RR22 ,_, designers_NN2 in_II the_AT United_NP1 States_NP1 do_VD0 not_XX have_VHI to_TO worry_VVI about_II taking_VVG extra_JJ steps_NN2 to_TO design_VVI for_IF durability_NN1 if_CS their_APPGE structures_NN2 meet_VV0 requirements_NN2 outlined_VVN in_II building_NN1 codes_NN2 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, most_RGT well_RR designed_VVN structures_NN2 will_VM have_VHI no_AT durability_NN1 issues_NN2 during_II their_APPGE lifetimes_NNT2 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, some_DD concrete_JJ structures_NN2 such_II21 as_II22 Pantheon_NP1 in_II Rome_NP1 still_RR exist_VV0 from_II the_AT ancient_JJ era_NN1 ._. 
+</s>
+<s>
+However_RR ,_, occasionally_RR there_EX are_VBR circumstances_NN2 in_II which_DDQ extreme_JJ environments_NN2 or_CC special_JJ circumstances_NN2 require_VV0 thinking_VVG about_II ,_, considering_VVG ,_, and_CC designing_VVG for_IF the_AT durability_NN1 of_IO reinforced_JJ concrete_JJ structures_NN2 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 will_VM discuss_VVI four_MC topics_NN2 regarding_II the_AT durability_NN1 of_IO reinforced_JJ concrete_NN1 ._. 
+</s>
+<s>
+The_AT first_MD section_NN1 will_VM discuss_VVI three_MC common_JJ causes_NN2 of_IO durability_NN1 issues_NN2 in_II reinforced_JJ concrete_NN1 :_: rebar_NN1 corrosion_NN1 ,_, sulfate_NN1 attack_NN1 ,_, and_CC concrete_JJ cracking_JJ ._. 
+</s>
+<s>
+The_AT second_MD section_NN1 of_IO this_DD1 paper_NN1 will_VM outline_VVI ACI_JJ code_NN1 provisions_NN2 which_DDQ set_VV0 durability_NN1 requirements_NN2 ._. 
+</s>
+<s>
+Following_VVG this_DD1 the_AT paper_NN1 will_VM explore_VVI measures_NN2 that_CST can_VM be_VBI taken_VVN to_TO improve_VVI the_AT durability_NN1 of_IO structures_NN2 that_CST are_VBR to_TO be_VBI built_VVN in_II extreme_JJ environments_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, this_DD1 paper_NN1 will_VM briefly_RR discuss_VVI durability_NN1 based_VVN design_NN1 ,_, a_AT1 new_JJ method_NN1 being_VBG proposed_VVN to_TO help_VVI designers_NN2 achieve_VVI better_JJR durability_NN1 results_NN2 for_IF their_APPGE structures_NN2 ._. 
+</s>
+<s>
+As_CSA stated_VVN previously_RR three_MC common_JJ causes_NN2 of_IO durability_NN1 issues_NN2 in_II reinforced_JJ concrete_JJ structures_NN2 are_VBR rebar_NN1 corrosion_NN1 ,_, sulfate_NN1 attack_NN1 ,_, and_CC concrete_JJ cracking_JJ ._. 
+</s>
+<s>
+Rebar_NN1 corrosion_NN1 can_VM prove_VVI to_TO be_VBI a_AT1 serious_JJ problem_NN1 in_II reinforced_JJ concrete_JJ structures_NN2 ._. 
+</s>
+<s>
+Rebar_NN1 corrosion_NN1 exists_VVZ as_II a_AT1 problem_NN1 due_II21 to_II22 the_AT chemical_JJ composition_NN1 of_IO steel_NN1 ._. 
+</s>
+<s>
+Steel_NN1 is_VBZ an_AT1 alloy_NN1 consisting_VVG mostly_RR of_IO iron_NN1 ._. 
+</s>
+<s>
+When_CS in_II31 contact_II32 with_II33 electrolytes_NN2 (_( a_AT1 common_JJ electrolyte_NN1 is_VBZ impure_JJ water_NN1 )_) the_AT iron_NN1 in_II steel_NN1 will_VM tend_VVI to_TO return_VVI to_II a_AT1 state_NN1 in_II which_DDQ it_PPH1 is_VBZ more_RGR commonly_RR found_VVN in_II nature_NN1 ,_, iron_NN1 oxide_NN1 ._. 
+</s>
+<s>
+Iron_NN1 oxide_NN1 is_VBZ more_RGR commonly_RR known_VVN as_II rust_NN1 ,_, a_AT1 fragile_JJ and_CC brittle_JJ compound_NN1 not_XX suitable_JJ for_IF use_NN1 as_CSA reinforcement_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 for_IF the_AT steel_NN1 to_TO oxidize_VVI it_PPH1 requires_VVZ the_AT presence_NN1 of_IO an_AT1 electrolyte_NN1 ._. 
+</s>
+<s>
+Since_CS steel_NN1 is_VBZ encased_VVN in_II concrete_NN1 it_PPH1 is_VBZ usually_RR protected_VVN from_II electrolytes_NN2 and_CC therefore_RR does_VDZ not_XX rust_VVI ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT alkalinity_NN1 of_IO the_AT concrete_NN1 helps_VVZ to_TO protect_VVI the_AT steel_NN1 by_II oxidizing_VVG the_AT outer_JJ layer_NN1 of_IO the_AT steel_NN1 ._. 
+</s>
+<s>
+This_DD1 thin_JJ oxidized_JJ layer_NN1 protects_VVZ the_AT steel_NN1 encased_VVN inside_II it_PPH1 from_II corrosion_NN1 by_II acting_VVG as_II a_AT1 protective_JJ shield_NN1 against_II oxidation_NN1 of_IO the_AT interior_NN1 ._. 
+</s>
+<s>
+When_CS deterioration_NN1 of_IO the_AT rebar_NN1 ,_, or_CC of_IO the_AT concrete_NN1 itself_PPX1 ,_, occurs_VVZ it_PPH1 generally_RR happens_VVZ in_II two_MC stages_NN2 ._. 
+</s>
+<s>
+First_MD ,_, a_AT1 fluid_NN1 containing_VVG a_AT1 reactant_NN1 will_VM penetrate_VVI the_AT member_NN1 ._. 
+</s>
+<s>
+Then_RT ,_, when_CS that_DD1 fluid_NN1 comes_VVZ in_II31 contact_II32 with_II33 a_AT1 reactant_NN1 a_AT1 reaction_NN1 occurs_VVZ ,_, resulting_VVG in_II corrosion_NN1 or_CC deterioration_NN1 of_IO the_AT reactant_NN1 ._. 
+</s>
+<s>
+With_IW regards_VVZ to_II steel_NN1 specifically_RR ,_, what_DDQ happens_VVZ is_VBZ impure_JJ water_NN1 penetrates_VVZ into_II the_AT concrete_NN1 ._. 
+</s>
+<s>
+The_AT water_NN1 may_VM contain_VVI chlorides_NN2 such_II21 as_II22 salts_NN2 which_DDQ increase_VV0 the_AT conductivity_NN1 of_IO the_AT water_NN1 ,_, but_CCB this_DD1 is_VBZ n't_XX required_VVN for_IF corrosion_NN1 ._. 
+</s>
+<s>
+In_II the_AT presence_NN1 of_IO water_NN1 an_AT1 electric_JJ current_JJ flows_NN2 through_II the_AT steel_NN1 and_CC water_NN1 ._. 
+</s>
+<s>
+This_DD1 electric_JJ current_JJ causes_NN2 oxygen_NN1 in_II the_AT water_NN1 or_CC present_NN1 in_II the_AT concrete_JJ to_TO react_VVI with_IW the_AT steel_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR two_MC issues_NN2 when_RRQ rebar_NN1 corrosion_NN1 occurs_VVZ in_II reinforced_JJ concrete_JJ structures_NN2 ._. 
+</s>
+<s>
+First_MD ,_, oxidized_VVD steel_NN1 is_VBZ not_XX as_RG strong_JJ as_CSA pure_JJ steel_NN1 ._. 
+</s>
+<s>
+This_DD1 has_VHZ the_AT consequence_NN1 of_IO reducing_VVG the_AT strength_NN1 of_IO the_AT affected_JJ structure_NN1 and_CC can_VM also_RR result_VVI in_II increased_JJ deflections_NN2 ._. 
+</s>
+<s>
+A_AT1 second_MD consequence_NN1 of_IO corroded_JJ steel_NN1 is_VBZ due_II21 to_II22 the_AT expansion_NN1 of_IO the_AT steel_NN1 due_II21 to_II22 rusting_VVG ._. 
+</s>
+<s>
+Corroded_JJ steel_NN1 takes_VVZ up_RP a_AT1 larger_JJR amount_NN1 of_IO space_NN1 than_CSN pure_JJ steel_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM lead_VVI to_II possible_JJ cracking_JJ and_CC spalling_NN1 of_IO the_AT concrete_NN1 encasing_VVG the_AT steel_NN1 ._. 
+</s>
+<s>
+The_AT negative_JJ effects_NN2 of_IO concrete_JJ cracking_JJ will_VM be_VBI discussed_VVN shortly_RR ._. 
+</s>
+<s>
+Sulfate_NN1 attack_NN1 is_VBZ sometimes_RT an_AT1 issue_NN1 in_II concrete_JJ structures_NN2 ._. 
+</s>
+<s>
+Sulfates_NN2 can_VM be_VBI inherently_RR present_JJ in_II concrete_NN1 or_CC can_VM come_VVI from_II external_JJ sources_NN2 ._. 
+</s>
+<s>
+Three_MC results_NN2 can_VM occur_VVI when_RRQ sulfates_NN2 interact_VV0 with_IW concrete_NN1 :_: eating_VVG away_RL of_IO the_AT cement_NN1 ,_, expansion_NN1 and_CC cracking_JJ of_IO the_AT member_NN1 ,_, and_CC scaling_NN1 ._. 
+</s>
+<s>
+Sodium_NN1 sulfate_NN1 ,_, one_MC1 common_JJ sulfate_NN1 compound_NN1 ,_, produces_VVZ two_MC of_IO these_DD2 results_NN2 when_CS it_PPH1 reacts_VVZ with_IW concrete_NN1 ._. 
+</s>
+<s>
+Sodium_NN1 sulfate_NN1 reacts_VVZ with_IW the_AT cement_NN1 paste_NN1 to_TO produce_VVI ettringite_NN1 ,_, a_AT1 product_NN1 which_DDQ is_VBZ larger_JJR in_II volume_NN1 than_CSN the_AT reactants_NN2 from_II which_DDQ it_PPH1 was_VBDZ formed_VVN ._. 
+</s>
+<s>
+This_DD1 can_VM result_VVI in_II expansion_NN1 and_CC cracking_JJ of_IO the_AT concrete_NN1 due_II21 to_II22 the_AT larger_JJR volume_NN1 of_IO the_AT ettringite_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT reaction_NN1 removes_VVZ cement_NN1 from_II the_AT concrete_NN1 ,_, resulting_VVG in_II less_DAR strength_NN1 ._. 
+</s>
+<s>
+Magnesium_NN1 sulfate_NN1 ,_, another_DD1 common_JJ sulfate_NN1 compound_NN1 ,_, does_VDZ not_XX produce_VVI expansive_JJ products_NN2 when_CS it_PPH1 reacts_VVZ with_IW cement_NN1 paste_NN1 like_II sodium_NN1 sulfate_NN1 ._. 
+</s>
+<s>
+The_AT products_NN2 the_AT reaction_NN1 creates_VVZ ,_, however_RR ,_, bond_VV0 in_II a_AT1 weaker_JJR fashion_NN1 than_CSN the_AT bond_NN1 created_VVN by_II pure_JJ cement_NN1 paste_NN1 ._. 
+</s>
+<s>
+Scaling_NN1 can_VM occur_VVI when_RRQ either_DD1 type_NN1 of_IO sulfate_NN1 is_VBZ present_JJ ._. 
+</s>
+<s>
+Scaling_NN1 occurs_VVZ when_RRQ fly_NN1 ash_NN1 is_VBZ present_JJ in_II concrete_NN1 attacked_VVN by_II sulfates_NN2 ,_, though_CS this_DD1 result_NN1 is_VBZ quite_RG rare_JJ ._. 
+</s>
+<s>
+A_AT1 durability_NN1 issue_NN1 similar_JJ to_II sulfate_NN1 attack_NN1 is_VBZ the_AT presence_NN1 of_IO reactive_JJ aggregates_NN2 in_II the_AT concrete_NN1 ._. 
+</s>
+<s>
+Occasionally_RR aggregates_NN2 are_VBR used_VVN that_CST react_VV0 with_IW the_AT alkali_NN1 in_II the_AT concrete_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT common_JJ results_NN2 of_IO this_DD1 reaction_NN1 is_VBZ a_AT1 product_NN1 that_CST is_VBZ larger_JJR than_CSN the_AT reactants_NN2 which_DDQ ,_, like_II ettringite_NN1 in_II the_AT sulfate_NN1 reaction_NN1 ,_, results_NN2 in_II cracking_VVG of_IO the_AT concrete_NN1 ._. 
+</s>
+<s>
+Concrete_JJ cracking_JJ has_VHZ many_DA2 causes_NN2 ._. 
+</s>
+<s>
+Two_MC of_IO the_AT possible_JJ causes_NN2 have_VH0 already_RR been_VBN discussed_VVN :_: sulfate_NN1 attack_NN1 and_CC rebar_NN1 corrosion_NN1 ._. 
+</s>
+<s>
+Other_JJ possible_JJ causes_NN2 are_VBR improper_JJ curing_VVG ,_, impact_NN1 loads_NN2 ,_, extreme_JJ loadings_NN2 during_II construction_NN1 ,_, and_CC flexural_JJ stress_NN1 induced_VVN in_II moving_VVG precast_JJ concrete_JJ members_NN2 ._. 
+</s>
+<s>
+Another_DD1 very_RG common_JJ cause_NN1 of_IO concrete_JJ cracking_JJ is_VBZ the_AT freeze-thaw_JJ cycle_NN1 ,_, where_CS water_NN1 seeps_VVZ into_II the_AT concrete_NN1 through_II small_JJ cracks_NN2 and_CC expands_VVZ when_RRQ the_AT water_NN1 freezes_NN2 ._. 
+</s>
+<s>
+This_DD1 expansion_NN1 causes_VVZ more_RGR cracking_JJ to_TO occur_VVI ;_; allowing_VVG more_DAR water_NN1 to_TO protrude_VVI into_II the_AT concrete_NN1 and_CC allowing_VVG the_AT freeze-thaw_JJ problem_NN1 worsen_VV0 in_II a_AT1 cyclical_JJ fashion_NN1 ._. 
+</s>
+<s>
+Freeze-thaw_JJ damage_NN1 does_VDZ not_XX usually_RR occur_VVI due_II21 to_II22 water_NN1 that_CST is_VBZ trapped_VVN in_II the_AT concrete_NN1 during_II placement_NN1 and_CC curing_VVG ;_; this_DD1 trapped_JJ water_NN1 is_VBZ generally_RR under_II a_AT1 large_JJ enough_DD amount_NN1 of_IO pressure_NN1 that_CST it_PPH1 can_56 not_56 freeze_VVI ._. 
+</s>
+<s>
+Concrete_NN1 must_VM therefore_RR be_VBI wetted_VVN externally_RR before_II freeze-thaw_JJ damage_NN1 can_VM occur_VVI ._. 
+</s>
+<s>
+Deicing_VVG agents_NN2 can_VM lead_VVI to_II a_AT1 type_NN1 of_IO freeze-thaw_JJ damage_NN1 as_RR21 well_RR22 by_II melting_VVG ice_NN1 that_CST has_VHZ formed_VVN on_II the_AT surface_NN1 of_IO the_AT concrete_NN1 ,_, which_DDQ creates_VVZ liquid_JJ water_NN1 that_CST can_VM seep_VVI into_II the_AT concrete_NN1 ,_, refreeze_VV0 ,_, and_CC cause_VV0 cracking_VVG near_II the_AT surface_NN1 of_IO the_AT concrete_NN1 (_( which_DDQ is_VBZ called_VVN scaling_NN1 )_) ._. 
+</s>
+<s>
+Concrete_JJ cracking_JJ has_VHZ a_AT1 few_DA2 adverse_JJ effects_NN2 ._. 
+</s>
+<s>
+Cracking_VVG can_VM expose_VVI rebar_NN1 which_DDQ makes_VVZ the_AT rebar_NN1 more_RGR vulnerable_JJ to_II corrosion_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM then_RT lead_VVI to_II more_RGR cracking_JJ ._. 
+</s>
+<s>
+Cracked_JJ concrete_NN1 will_VM also_RR deflect_VVI more_RRR due_II21 to_II22 a_AT1 smaller_JJR section_NN1 modulus_NN1 ._. 
+</s>
+<s>
+Affected_JJ members_NN2 will_VM also_RR have_VHI less_DAR strength_NN1 than_CSN members_NN2 which_DDQ are_VBR intact_JJ ._. 
+</s>
+<s>
+Cracking_VVG is_VBZ also_RR unsightly_JJ and_CC could_VM lead_VVI to_II safety_NN1 concerns_VVZ among_II tenets_NN2 ,_, owners_NN2 ,_, and_CC building_NN1 inspectors_NN2 ._. 
+</s>
+<s>
+The_AT ACI_JJ code_NN1 has_VHZ a_AT1 section_NN1 on_II durability_NN1 which_DDQ sets_VVZ requirements_NN2 to_TO limit_VVI the_AT effects_NN2 of_IO the_AT three_MC common_JJ durability_NN1 issues_NN2 discussed_VVN above_RL ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT ways_NN2 that_CST the_AT code_NN1 deals_VVZ with_IW durability_NN1 is_VBZ to_TO set_VVI a_AT1 combination_NN1 of_IO maximum_JJ water-cement_JJ ratio_NN1 and_CC minimum_JJ compressive_JJ strength_NN1 ._. 
+</s>
+<s>
+This_DD1 type_NN1 of_IO requirement_NN1 exists_VVZ for_IF freeze-thaw_JJ conditions_NN2 and_CC for_IF environments_NN2 containing_VVG sulfates_NN2 ._. 
+</s>
+<s>
+Research_NN1 has_VHZ shown_VVN that_CST increasing_VVG the_AT percentage_NN1 of_IO cement_NN1 decreases_VVZ damage_NN1 from_II these_DD2 two_MC attacks_NN2 ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT minimum_JJ strength_NN1 requirement_NN1 is_VBZ set_VVN to_TO ensure_VVI that_CST the_AT minimum_JJ water-cement_JJ ratio_NN1 is_VBZ met_VVN ._. 
+</s>
+<s>
+Freeze-thaw_NN1 and_CC sulfate_NN1 conditions_NN2 both_RR have_VH0 other_JJ requirements_NN2 as_RR21 well_RR22 ._. 
+</s>
+<s>
+The_AT code_NN1 requires_VVZ that_CST structures_NN2 in_II freeze-thaw_JJ conditions_NN2 have_VH0 a_AT1 certain_JJ amount_NN1 of_IO entrained_VVN air_NN1 ._. 
+</s>
+<s>
+Entrained_VVN air_NN1 is_VBZ added_VVN to_II concrete_NN1 through_II the_AT use_NN1 of_IO an_AT1 admixture_NN1 ,_, and_CC it_PPH1 limits_VVZ damage_NN1 by_II creating_VVG air_NN1 pockets_NN2 in_II the_AT concrete_NN1 that_CST give_VV0 space_NN1 for_IF freeze-thaw_JJ cycles_NN2 to_TO occur_VVI without_IW damaging_VVG the_AT concrete_NN1 ._. 
+</s>
+<s>
+An_AT1 experiment_NN1 was_VBDZ conducted_VVN by_II the_AT Portland_NP1 Cement_NN1 Association_NN1 over_II an_AT1 extended_JJ period_NN1 of_IO time_NNT1 on_II concrete_JJ cubes_NN2 with_IW and_CC without_RR entrained_VVN air_NN1 ._. 
+</s>
+<s>
+The_AT cubes_NN2 with_IW entrained_VVD air_NN1 suffered_VVD little_DA1 damage_NN1 while_CS those_DD2 without_RL were_VBDR severely_RR damaged_VVN and_CC unsuitable_JJ for_IF use_NN1 (_( Woods_NP1 ,_, 1968_MC )_) ._. 
+</s>
+<s>
+The_AT code_NN1 also_RR specifies_VVZ the_AT maximum_JJ amount_NN1 of_IO cement_NN1 replacement_NN1 materials_NN2 that_CST can_VM be_VBI used_VVN in_II the_AT mix_NN1 ;_; these_DD2 additives_NN2 ,_, such_II21 as_II22 fly_NN1 ash_NN1 and_CC slag_NN1 ,_, are_VBR limited_VVN as_CSA concrete_NN1 made_VVN with_IW these_DD2 elements_NN2 do_VD0 not_XX fare_VVI as_RR21 well_RR22 under_RG freeze-thaw_JJ conditions_NN2 as_CSA concretes_NN2 without_IW ._. 
+</s>
+<s>
+Sulfate_NN1 environments_NN2 have_VH0 two_MC additional_JJ requirements_NN2 in_II31 addition_II32 to_II33 the_AT water-cement_JJ ratio_NN1 and_CC compressive_JJ strength_NN1 ._. 
+</s>
+<s>
+The_AT first_MD of_IO these_DD2 is_VBZ a_AT1 requirement_NN1 for_IF the_AT use_NN1 of_IO certain_JJ cement_NN1 types_NN2 which_DDQ are_VBR resistant_JJ to_II sulfate_NN1 attack_NN1 ._. 
+</s>
+<s>
+These_DD2 cements_NN2 are_VBR also_RR specified_VVN to_TO have_VHI a_AT1 limited_JJ amount_NN1 of_IO C3A_FO ,_, tricalcium_NN1 aluminate_NN1 ,_, which_DDQ reacts_VVZ with_IW sulfates_NN2 ._. 
+</s>
+<s>
+The_AT code_NN1 also_RR requires_VVZ that_DD1 calcium_NN1 chloride_NN1 not_XX be_VBI used_VVN in_II extreme_JJ sulfate_NN1 environments_NN2 to_TO limit_VVI rebar_NN1 corrosion_NN1 ._. 
+</s>
+<s>
+Requirements_NN2 to_TO protect_VVI the_AT rebar_NN1 from_II corrosion_NN1 are_VBR also_RR set_VVN in_II the_AT code_NN1 ._. 
+</s>
+<s>
+The_AT primary_JJ goal_NN1 of_IO the_AT rebar_NN1 protection_NN1 requirements_NN2 in_II the_AT durability_NN1 section_NN1 of_IO the_AT code_NN1 is_VBZ to_TO protect_VVI the_AT rebar_NN1 from_II chlorides_NN2 ._. 
+</s>
+<s>
+The_AT code_NN1 sets_VVZ limits_NN2 on_II the_AT maximum_JJ amount_NN1 of_IO chloride_NN1 ions_NN2 that_CST can_VM be_VBI present_JJ in_II the_AT concrete_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT code_NN1 sets_VVZ requirements_NN2 on_II maximum_JJ water-cement_JJ ratio_NN1 and_CC minimum_JJ compressive_JJ strength_NN1 in_II the_AT event_NN1 the_AT concrete_NN1 is_VBZ exposed_VVN to_II sea_NN1 water_NN1 ,_, deicing_VVG agents_NN2 ,_, and_CC salts_NN2 ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO these_DD2 two_MC requirements_NN2 is_VBZ to_TO limit_VVI damage_NN1 to_II the_AT concrete_NN1 ;_; damage_VV0 which_DDQ could_VM expose_VVI the_AT rebar_NN1 in_II these_DD2 environments_NN2 ._. 
+</s>
+<s>
+Other_JJ durability_NN1 requirements_NN2 in_II the_AT ACI_JJ code_NN1 exist_VV0 outside_II21 of_II22 the_AT durability_NN1 section_NN1 ._. 
+</s>
+<s>
+Minimum_JJ cover_NN1 is_VBZ set_VVN in_II various_JJ places_NN2 in_II the_AT code_NN1 to_TO ensure_VVI a_AT1 layer_NN1 of_IO protection_NN1 for_IF the_AT steel_NN1 ._. 
+</s>
+<s>
+Minimum_JJ steel_NN1 requirements_NN2 are_VBR set_VVN to_TO protect_VVI members_NN2 from_II cracking_VVG due_JJ to_TO creep_VVI and_CC shrinkage_NN1 ._. 
+</s>
+<s>
+Some_DD durability_NN1 concerns_NN2 are_VBR not_XX covered_VVN in_II the_AT code_NN1 ,_, however_RR ._. 
+</s>
+<s>
+The_AT commentary_NN1 in_II the_AT durability_NN1 section_NN1 of_IO the_AT code_NN1 states_VVZ that_CST the_AT code_NN1 does_VDZ not_XX cover_VVI extreme_JJ conditions_NN2 which_DDQ could_VM cause_VVI durability_NN1 concerns_VVZ with_IW the_AT structure_NN1 ._. 
+</s>
+<s>
+These_DD2 conditions_NN2 do_VD0 occasionally_RR occur_VVI ._. 
+</s>
+<s>
+Oceanic_JJ environments_NN2 are_VBR one_MC1 of_IO extreme_JJ environments_NN2 not_XX explicitly_RR covered_VVN in_II the_AT ACI_JJ code_NN1 ._. 
+</s>
+<s>
+Structures_NN2 built_VVN in_II these_DD2 environments_NN2 can_VM range_VVI from_II wharfs_NN2 to_II bridges_NN2 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 being_VBG used_VVN as_CSA structural_JJ elements_NN2 in_II these_DD2 situations_NN2 ,_, reinforced_VVD concrete_NN1 can_VM be_VBI used_VVN to_TO protect_VVI steel_NN1 members_NN2 from_II corrosion_NN1 ._. 
+</s>
+<s>
+Reinforced_VVN concrete_JJ members_NN2 in_II oceanic_JJ environments_NN2 will_VM have_VHI three_MC types_NN2 of_IO contact_NN1 with_IW water_NN1 :_: they_PPHS2 will_VM be_VBI completely_RR submerged_VVN ,_, they_PPHS2 will_VM have_VHI regular_JJ contact_NN1 with_IW water_NN1 ,_, or_CC they_PPHS2 will_VM be_VBI irregularly_RR sprayed_VVN with_IW water_NN1 ._. 
+</s>
+<s>
+Submerged_JJ reinforced_JJ concrete_NN1 generally_RR has_VHZ few_DA2 problems_NN2 ._. 
+</s>
+<s>
+The_AT fact_NN1 that_CST it_PPH1 is_VBZ submerged_JJ means_NN that_DD1 little_JJ oxygen_NN1 exists_VVZ ,_, making_VVG corrosion_NN1 nearly_RR impossible_JJ ._. 
+</s>
+<s>
+The_AT steady_JJ presence_NN1 of_IO water_NN1 also_RR means_VVZ that_DD1 erosion_NN1 of_IO the_AT concrete_NN1 is_VBZ less_DAR of_IO an_AT1 issue_NN1 ._. 
+</s>
+<s>
+While_CS reinforced_VVN concrete_JJ right_NN1 at_II the_AT water-air_JJ interface_NN1 can_VM have_VHI some_DD abrasion_NN1 problems_NN2 ,_, this_DD1 area_NN1 also_RR has_VHZ few_DA2 problems_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS it_PPH1 is_VBZ usually_RR saturated_VVN with_IW water_NN1 ,_, limiting_JJ oxygen_NN1 contact_NN1 ._. 
+</s>
+<s>
+The_AT area_NN1 above_II this_DD1 ,_, where_CS spray_NN1 from_II the_AT ocean_NN1 only_RR occasionally_RR reaches_VVZ the_AT concrete_NN1 can_VM have_VHI severe_JJ issues_NN2 due_II21 to_II22 the_AT area_NN1 not_XX being_VBG saturated_VVN with_IW water_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR three_MC effects_NN2 of_IO ocean_NN1 spray_NN1 ._. 
+</s>
+<s>
+Ocean_NN1 water_NN1 carries_VVZ salts_NN2 ,_, dissolved_VVD oxygen_NN1 ,_, and_CC dissolved_JJ carbon_NN1 dioxide_NN1 ._. 
+</s>
+<s>
+Carbon_NN1 dioxide_NN1 lowers_VVZ the_AT alkalinity_NN1 of_IO concrete_NN1 ,_, which_DDQ can_VM decrease_VVI the_AT passivity_NN1 of_IO the_AT rebar_NN1 inside_RL ._. 
+</s>
+<s>
+Salts_NN2 increase_VV0 the_AT likelihood_NN1 of_IO steel_NN1 corrosion_NN1 by_II increasing_VVG the_AT conductivity_NN1 of_IO liquids_NN2 (_( i.e._REX water_NN1 )_) that_CST may_VM reach_VVI the_AT steel_NN1 ._. 
+</s>
+<s>
+Oxygen_NN1 reacts_VVZ with_IW steel_NN1 in_II the_AT presence_NN1 of_IO an_AT1 electrolyte_NN1 ._. 
+</s>
+<s>
+Oxygen_NN1 can_VM also_RR lead_VVI to_II differences_NN2 in_II electric_JJ potential_NN1 inside_II a_AT1 rebar_NN1 ._. 
+</s>
+<s>
+This_DD1 difference_NN1 in_II electric_JJ potential_NN1 can_VM induce_VVI an_AT1 electric_JJ current_NN1 which_DDQ in_II turn_NN1 can_VM induce_VVI extra_JJ corrosion_NN1 in_II the_AT steel_NN1 ._. 
+</s>
+<s>
+Issues_NN2 with_IW durability_NN1 in_II oceanic_JJ environments_NN2 reach_VV0 beyond_II the_AT physical_JJ nature_NN1 of_IO the_AT ocean_NN1 though_RR ._. 
+</s>
+<s>
+Few_DA2 design_NN1 procedures_NN2 exist_VV0 for_IF structures_NN2 in_II these_DD2 areas_NN2 ,_, causing_VVG problems_NN2 for_IF designers_NN2 attempting_VVG to_TO establish_VVI a_AT1 suitable_JJ design_NN1 ._. 
+</s>
+<s>
+Constructability_NN1 can_VM also_RR be_VBI an_AT1 issue_NN1 ._. 
+</s>
+<s>
+Cover_NN1 can_VM be_VBI less_DAR than_CSN optimal_JJ due_II21 to_II22 the_AT difficulty_NN1 of_IO placing_VVG concrete_NN1 in_II such_DA environments_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR difficult_JJ to_TO generate_VVI performance_NN1 specifications_NN2 for_IF contractors_NN2 due_II21 to_II22 the_AT limited_JJ link_NN1 between_II lab_NN1 data_NN and_CC durability_NN1 performance_NN1 ._. 
+</s>
+<s>
+This_DD1 lack_NN1 of_IO correlation_NN1 can_VM lead_VVI to_II underperforming_VVG structures_NN2 that_CST require_VV0 repairs_NN2 shortly_RR after_II construction_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 number_NN1 of_IO solutions_NN2 that_CST have_VH0 been_VBN used_VVN or_CC suggested_VVD to_TO prevent_VVI the_AT deterioration_NN1 of_IO reinforced_JJ concrete_JJ structures_NN2 in_II oceanic_JJ environments_NN2 ._. 
+</s>
+<s>
+In_II Ashdod_NP1 ,_, Israel_NP1 fiber_NN1 reinforced_VVD concrete_JJ "_" aprons_NN2 "_" were_VBDR used_VVN to_TO protect_VVI steel_NN1 piles_NN2 at_II a_AT1 port_NN1 facility_NN1 instead_II21 of_II22 traditional_JJ reinforced_VVD concrete_JJ aprons_NN2 ._. 
+</s>
+<s>
+After_II four_MC years_NNT2 these_DD2 fiber_NN1 reinforced_VVD aprons_NN2 exhibited_VVD little_DA1 damage_NN1 ,_, in_II contrast_NN1 to_II the_AT multitude_NN1 of_IO problems_NN2 the_AT port_NN1 saw_VVD previously_RR from_II the_AT traditional_JJ aprons_NN2 (_( Chernov_NP1 ,_, Zlotnikov_NP1 ,_, Shandalov_NP1 ,_, 2006_MC )_) ._. 
+</s>
+<s>
+Fiber_NP1 reinforced_VVD concrete_JJ works_NN well_RR for_IF this_DD1 type_NN1 of_IO application_NN1 because_CS the_AT fibers_NN2 limit_VV0 cracking_JJ and_CC also_RR have_VH0 less_DAR continuity_NN1 ._. 
+</s>
+<s>
+This_DD1 lack_NN1 of_IO continuity_NN1 makes_VVZ the_AT steel_NN1 less_RGR prone_JJ to_II corrosion_NN1 by_II separating_VVG the_AT individual_JJ steel_NN1 elements_NN2 ._. 
+</s>
+<s>
+Synthetic_JJ fibers_NN2 could_VM also_RR be_VBI used_VVN ,_, eliminating_VVG the_AT possibility_NN1 of_IO corrosion_NN1 all_RR together_RL ._. 
+</s>
+<s>
+Another_DD1 more_RGR traditional_JJ method_NN1 that_CST has_VHZ been_VBN suggested_VVN is_VBZ to_TO use_VVI concrete_NN1 with_IW a_AT1 low_JJ water-cement_JJ ratio_NN1 and_CC with_IW silica_NN1 fume_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM result_VVI in_II a_AT1 concrete_NN1 that_CST is_VBZ extremely_RR dense_JJ and_CC has_VHZ little_DA1 porosity_NN1 ,_, limiting_VVG the_AT penetration_NN1 of_IO salt_NN1 water_NN1 ._. 
+</s>
+<s>
+Epoxy_JJ coating_NN1 for_IF the_AT rebar_NN1 is_VBZ also_RR an_AT1 option_NN1 ,_, though_CS one_PN1 has_VHZ to_TO be_VBI careful_JJ as_CSA even_RR a_AT1 small_JJ hole_NN1 in_II the_AT coating_NN1 can_VM expose_VVI the_AT entire_JJ bar_NN1 to_II corrosion_NN1 ._. 
+</s>
+<s>
+Coatings_NN2 for_IF rebar_NN1 also_RR can_VM result_VVI in_II a_AT1 weaker_JJR bond_NN1 between_II the_AT steel_NN1 and_CC the_AT concrete_NN1 ,_, so_CS this_DD1 must_VM also_RR be_VBI taken_VVN into_II account_NN1 if_CS a_AT1 designer_NN1 chooses_VVZ to_TO use_VVI coatings_NN2 to_TO protect_VVI rebar_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR also_RR additives_NN2 that_CST can_VM be_VBI mixed_VVN into_II the_AT concrete_NN1 such_II21 as_II22 sodium_NN1 nitrate_NN1 which_DDQ react_VV0 with_IW chlorides_NN2 ,_, thereby_RR protecting_VVG rebar_NN1 from_II corrosion_NN1 ._. 
+</s>
+<s>
+Hubert_NP1 Woods_NP1 (_( 1968_MC )_) reminds_VVZ us_PPIO2 though_CS that_DD1 concrete_JJ additives_NN2 and_CC rebar_NN1 coatings_NN2 should_VM only_RR be_VBI used_VVN as_CSA backup_NN1 options_NN2 only_RR ,_, and_CC that_DD1 "_" design_NN1 provides_VVZ the_AT first_MD line_NN1 of_IO defense_NN1 ._. "_" 
+</s>
+<s>
+Conventional_JJ design_NN1 procedures_NN2 take_VV0 some_DD steps_NN2 to_TO limit_VVI cracking_JJ ._. 
+</s>
+<s>
+In_II some_DD cases_NN2 ,_, however_RR ,_, there_EX is_VBZ a_AT1 need_NN1 for_IF a_AT1 very_RG minimal_JJ amount_NN1 of_IO cracking_VVG ._. 
+</s>
+<s>
+A_AT1 case_NN1 where_CS this_DD1 is_VBZ very_RG important_JJ is_VBZ in_II tunnels_NN2 ._. 
+</s>
+<s>
+Cracks_NN2 in_II tunnels_NN2 would_VM allow_VVI for_IF water_NN1 and_CC other_JJ materials_NN2 to_TO enter_VVI into_II the_AT tunnel_NN1 ._. 
+</s>
+<s>
+Cracking_VVG could_VM also_RR endanger_VVI the_AT structural_JJ integrity_NN1 of_IO the_AT tunnel_NN1 ._. 
+</s>
+<s>
+Some_DD precast_JJ concrete_JJ elements_NN2 which_DDQ are_VBR subjected_VVN to_II highly_RR abrasive_JJ forces_NN2 or_CC cracking_VVG during_II unmolding_VVG could_VM also_RR benefit_VVI from_II the_AT same_DA procedures_NN2 used_VMK to_TO limit_VVI cracking_VVG in_II tunnels_NN2 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT most_RGT effective_JJ ways_NN2 shown_VVN to_TO limit_VVI cracking_VVG is_VBZ to_TO use_VVI fiber_NN1 reinforcement_NN1 in_II the_AT concrete_NN1 ._. 
+</s>
+<s>
+A_AT1 tunnel_NN1 in_II Barcelona_NP1 ,_, Spain_NP1 used_JJ steel_NN1 fibers_NN2 to_TO protect_VVI against_II cracking_VVG in_II31 addition_II32 to_II33 using_VVG tradition_NN1 reinforcement_NN1 for_IF strength_NN1 requirements_NN2 ._. 
+</s>
+<s>
+This_DD1 method_NN1 proved_VVD very_RG successful_JJ in_II limiting_VVG cracking_JJ for_IF the_AT designers_NN2 (_( Gettu_NP1 ,_, Barragn_NP1 ,_, Garcia_NP1 ,_, Ortiz_NP1 ,_, Justa_NP1 ,_, 2006_MC )_) ._. 
+</s>
+<s>
+Another_DD1 possibility_NN1 is_VBZ to_TO use_VVI controlled_JJ permeability_NN1 formwork_NN1 when_CS constructing_VVG structures_NN2 which_DDQ require_VV0 little_RR cracking_VVG ._. 
+</s>
+<s>
+This_DD1 formwork_NN1 improves_VVZ the_AT quality_NN1 of_IO the_AT cover_NN1 of_IO the_AT member_NN1 by_II keeping_VVG the_AT water-cement_JJ ratio_NN1 low_NN1 in_II the_AT exterior_JJ portions_NN2 of_IO the_AT member_NN1 ._. 
+</s>
+<s>
+By_II improving_VVG the_AT quality_NN1 of_IO the_AT concrete_JJ cover_NN1 ,_, fewer_DAR cracks_NN2 are_VBR likely_JJ to_TO form_VVI in_II the_AT cover_NN1 zone_NN1 ,_, and_CC therefore_RR fewer_DAR cracks_NN2 are_VBR likely_JJ to_TO form_VVI in_II the_AT entire_JJ member_NN1 ._. 
+</s>
+<s>
+Reinforced_VVN concrete_JJ structures_NN2 built_VVN in_II the_AT Middle_JJ East_ND1 are_VBR subject_II21 to_II22 a_AT1 combination_NN1 of_IO environmental_JJ factors_NN2 that_CST are_VBR hostile_JJ to_II reinforced_JJ concrete_NN1 ._. 
+</s>
+<s>
+Structures_NN2 built_VVN in_II the_AT Middle_JJ East_ND1 are_VBR exposed_VVN to_II ocean_NN1 spray_NN1 due_II21 to_II22 the_AT region_NN1 's_GE proximity_NN1 to_II salt_NN1 water_NN1 seas_NN2 ._. 
+</s>
+<s>
+This_DD1 makes_VVZ the_AT structures_NN2 vulnerable_JJ to_II rebar_NN1 corrosion_NN1 from_II salt_NN1 as_II31 well_II32 as_II33 weathering_NN1 of_IO the_AT concrete_NN1 from_II both_RR wind_VV0 and_CC sea_NN1 spray_NN1 ._. 
+</s>
+<s>
+Sulfates_NN2 are_VBR also_RR present_JJ in_II high_JJ concentrations_NN2 in_II the_AT Middle_JJ East_ND1 ,_, making_VVG concrete_JJ deterioration_NN1 a_AT1 problem_NN1 ._. 
+</s>
+<s>
+The_AT dry_JJ ,_, hot_JJ conditions_NN2 in_II the_AT region_NN1 also_RR lead_VV0 to_II cracking_VVG due_II21 to_II22 the_AT drying_NN1 of_IO the_AT concrete_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, reactive_JJ aggregates_NN2 tend_VV0 to_TO be_VBI used_VVN occasionally_RR in_II the_AT region_NN1 ,_, leading_VVG to_II more_DAR reactivity_NN1 problems_NN2 ._. 
+</s>
+<s>
+The_AT various_JJ problems_NN2 caused_VVN by_II constructing_VVG reinforced_VVN concrete_JJ structures_NN2 in_II the_AT Middle_JJ East_ND1 require_VV0 a_AT1 number_NN1 of_IO solutions_NN2 to_TO adapt_VVI to_II all_DB of_IO the_AT problems_NN2 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT more_RGR effective_JJ ways_NN2 of_IO improving_JJ durability_NN1 in_II this_DD1 region_NN1 is_VBZ to_TO increase_VVI the_AT amount_NN1 of_IO cover_NN1 in_II members_NN2 ._. 
+</s>
+<s>
+Research_NN1 has_VHZ shown_VVN that_CST a_AT1 doubling_NN1 of_IO concrete_JJ cover_NN1 leads_VVZ to_II a_AT1 quadrupling_NN1 of_IO service_NN1 lifetime_NNT1 (_( Goring_NP1 ,_, 2005_MC )_) ._. 
+</s>
+<s>
+Additional_JJ cover_NN1 would_VM provide_VVI an_AT1 extra_JJ barrier_NN1 against_II the_AT chemical_JJ threats_NN2 that_CST are_VBR prevalent_JJ in_II the_AT region_NN1 ._. 
+</s>
+<s>
+Other_JJ methods_NN2 that_CST provide_VV0 additional_JJ protection_NN1 against_II chemical_JJ attacks_NN2 are_VBR the_AT use_NN1 of_IO special_JJ paints_NN2 to_TO cover_VVI members_NN2 in_II a_AT1 protective_JJ layer_NN1 and_CC the_AT placement_NN1 of_IO cladding_NN1 on_II structures_NN2 to_TO protect_VVI the_AT concrete_JJ members_NN2 from_II outside_JJ attack_NN1 ._. 
+</s>
+<s>
+These_DD2 methods_NN2 have_VH0 some_DD drawbacks_NN2 :_: painting_NN1 can_VM leave_VVI spots_NN2 unpainted_JJ and_CC exposed_VVD ,_, the_AT chipping_NN1 away_RL of_IO paint_NN1 can_VM occur_VVI ,_, enclosing_VVG members_NN2 in_II cladding_NN1 or_CC painting_VVG them_PPHO2 may_VM not_XX be_VBI architecturally_RR sound_VV0 ,_, and_CC providing_VVG cladding_NN1 may_VM not_XX be_VBI possible_JJ at_II all_DB locations_NN2 in_II a_AT1 structure_NN1 ._. 
+</s>
+<s>
+Another_DD1 way_NN1 of_IO protecting_VVG these_DD2 structures_NN2 could_VM be_VBI to_TO use_VVI fiber_NN1 reinforcement_NN1 (_( steel_NN1 or_CC synthetic_JJ )_) ._. 
+</s>
+<s>
+Strength_NN1 or_CC deflection_NN1 issues_NN2 may_VM require_VVI that_DD1 traditional_JJ reinforcing_NN1 be_VBI used_VVN ,_, but_CCB fibers_NN2 could_VM be_VBI used_VVN in_II31 addition_II32 to_II33 provide_VV0 an_AT1 additional_JJ layer_NN1 of_IO protection_NN1 ._. 
+</s>
+<s>
+As_CSA has_VHZ been_VBN discussed_VVN previously_RR ,_, fibers_NN2 can_VM reduce_VVI the_AT amount_NN1 of_IO cracking_VVG in_II a_AT1 member_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM help_VVI protect_VVI the_AT member_NN1 against_II the_AT ingress_NN1 of_IO damaging_JJ chloride_NN1 ions_NN2 and_CC could_VM also_RR provide_VVI extra_JJ resistance_NN1 against_II cracking_VVG from_II drying_NN1 ._. 
+</s>
+<s>
+Using_VVG additives_NN2 such_II21 as_II22 pozzolans_NN2 and_CC silica_NN1 fume_NN1 in_II the_AT concrete_JJ mix_NN1 has_VHZ also_RR been_VBN suggested_VVN as_II a_AT1 way_NN1 of_IO reducing_VVG damage_NN1 from_II sulfates_NN2 ,_, which_DDQ are_VBR prevalent_JJ in_II the_AT region_NN1 ._. 
+</s>
+<s>
+This_DD1 ,_, however_RR ,_, can_VM have_VHI mixed_VVN results_NN2 ._. 
+</s>
+<s>
+Silica_NN1 fume_NN1 and_CC pozzolans_NN2 will_VM only_RR help_VVI prevent_VVI damage_NN1 from_II certain_JJ sulfate_NN1 compounds_NN2 ._. 
+</s>
+<s>
+Pozzolans_NN2 ,_, for_REX21 example_REX22 ,_, reduce_VV0 damage_NN1 from_II sodium_NN1 sulfates_NN2 but_CCB actually_RR increase_VV0 damage_NN1 from_II magnesium_NN1 sulfates_NN2 ._. 
+</s>
+<s>
+A_AT1 designer_NN1 who_PNQS specifies_VVZ additives_NN2 will_VM have_VHI to_TO consider_VVI the_AT type_NN1 of_IO sulfate_NN1 attack_NN1 he_PPHS1 or_CC she_PPHS1 expects_VVZ if_CS they_PPHS2 choose_VV0 to_TO use_VVI additives_NN2 to_TO reduce/limit_VVI sulfate_NN1 damage_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT innovations_NN2 that_CST has_VHZ arisen_VVN out_II21 of_II22 the_AT need_NN1 for_IF durable_JJ designs_NN2 in_II the_AT Middle_JJ East_ND1 is_VBZ the_AT concept_NN1 of_IO durability_NN1 based_VVN design_NN1 ._. 
+</s>
+<s>
+Currently_RR very_RG little_DA1 is_VBZ specified_VVN in_II building_NN1 codes_NN2 about_II performance_NN1 criteria_NN2 for_IF durability_NN1 ._. 
+</s>
+<s>
+Codes_NN2 will_VM specify_VVI that_DD1 certain_JJ steps_NN2 must_VM be_VBI taken_VVN in_II design_NN1 to_TO ensure_VVI a_AT1 level_NN1 of_IO durability_NN1 ,_, but_CCB the_AT codes_NN2 do_VD0 not_XX specifically_RR mention_VVI that_CST a_AT1 certain_JJ durability_NN1 condition_NN1 must_VM be_VBI met_VVN ._. 
+</s>
+<s>
+Durability_NN1 based_VVN design_NN1 attempts_NN2 to_TO set_VVI ,_, or_CC have_VH0 designers_NN2 set_VVN ,_, a_AT1 certain_JJ level_NN1 of_IO performance_NN1 that_CST their_APPGE structures_NN2 must_VM meet_VVI ._. 
+</s>
+<s>
+Setting_VVG the_AT goals_NN2 for_IF durability_NN1 based_VVN design_NN1 has_VHZ been_VBN one_MC1 of_IO the_AT challenges_NN2 for_IF proponents_NN2 of_IO the_AT method_NN1 ._. 
+</s>
+<s>
+Traditionally_RR durability_NN1 performance_NN1 has_VHZ been_VBN linked_VVN to_II the_AT compressive_JJ strength_NN1 of_IO concrete_NN1 ._. 
+</s>
+<s>
+However_RR ,_, research_NN1 has_VHZ shown_VVN that_CST there_EX is_VBZ little_DA1 correlation_NN1 between_II durability_NN1 and_CC compressive_JJ strength_NN1 (_( Hooster_NP1 ,_, Midness_NP1 ,_, Roumain_NN1 ,_, Boyd_NP1 ,_, Rear_NN1 ,_, 2006_MC )_) ._. 
+</s>
+<s>
+Durability_NN1 is_VBZ directly_RR related_VVN to_II the_AT degradation_NN1 of_IO the_AT concrete_NN1 and_CC steel_NN1 ._. 
+</s>
+<s>
+Researchers_NN2 are_VBR currently_RR attempting_VVG to_TO model_VVI and_CC quantify_VVI the_AT rate_NN1 of_IO degradation_NN1 of_IO these_DD2 principal_JJ components_NN2 of_IO reinforced_JJ concrete_JJ structures_NN2 ._. 
+</s>
+<s>
+One_MC1 example_NN1 of_IO how_RRQ durability_NN1 based_VVN design_NN1 could_VM be_VBI used_VVN in_II the_AT future_NN1 can_VM be_VBI seen_VVN in_II a_AT1 durability_NN1 based_VVN design_NN1 program_NN1 currently_RR used_VVN in_II the_AT Persian_JJ Gulf_NN1 region_NN1 ._. 
+</s>
+<s>
+DuraPGulf_NN1 is_VBZ a_AT1 program_NN1 used_VMK to_TO model_VVI chloride_NN1 attack_NN1 on_II reinforced_JJ concrete_JJ members_NN2 ._. 
+</s>
+<s>
+The_AT program_NN1 works_VVZ on_II the_AT assumption_NN1 that_CST a_AT1 reinforced_JJ concrete_JJ member_NN1 's_GE lifetime_NNT1 is_VBZ equal_JJ to_II the_AT amount_NN1 of_IO time_NNT1 it_PPH1 takes_VVZ chloride_NN1 ions_NN2 to_TO eliminate_VVI the_AT protective_JJ coating_NN1 surrounding_VVG the_AT steel_NN1 ,_, which_DDQ leaves_VVZ the_AT rebar_NN1 prone_JJ to_II chemical_JJ reactions_NN2 and_CC degradation_NN1 ._. 
+</s>
+<s>
+The_AT program_NN1 takes_VVZ in_II details_NN2 about_II the_AT member_NN1 such_II21 as_II22 the_AT amount_NN1 of_IO concrete_JJ cover_NN1 ,_, curing_VVG conditions_NN2 ,_, mixture_NN1 proportions_NN2 ,_, and_CC surface_NN1 treatments_NN2 to_TO output_VVI a_AT1 life_NN1 time_NNT1 ._. 
+</s>
+<s>
+With_IW a_AT1 desired_JJ lifetime_NNT1 in_II mind_NN1 ,_, a_AT1 designer_NN1 can_VM then_RT go_VVI back_RP and_CC modify_VVI the_AT member_NN1 until_CS the_AT desired_JJ lifetime_NNT1 is_VBZ reached_VVN ._. 
+</s>
+<s>
+The_AT program_NN1 is_VBZ still_RR fairly_RR new_JJ and_CC rudimentary_JJ ,_, but_CCB it_PPH1 demonstrates_VVZ how_RRQ durability_NN1 based_VVN design_NN1 could_VM work_VVI in_II the_AT future_NN1 ._. 
+</s>
+<s>
+Durability_NN1 issues_NN2 in_II reinforced_JJ concrete_JJ structures_NN2 do_VD0 occasionally_RR occur_VVI ._. 
+</s>
+<s>
+The_AT ACI_JJ code_NN1 sets_VVZ requirements_NN2 to_TO protect_VVI structures_NN2 against_II the_AT more_RGR common_JJ issues_NN2 such_II21 as_II22 rebar_NN1 corrosion_NN1 ,_, sulfate_NN1 attack_NN1 ,_, and_CC concrete_JJ cracking_JJ ._. 
+</s>
+<s>
+Sometimes_RT ,_, however_RR ,_, structures_NN2 face_VV0 more_RGR severe_JJ conditions_NN2 which_DDQ are_VBR not_XX covered_VVN in_II the_AT code_NN1 ._. 
+</s>
+<s>
+These_DD2 conditions_NN2 include_VV0 locations_NN2 such_II21 as_II22 marine_JJ environments_NN2 ,_, tunnels_NN2 ,_, the_AT Middle_JJ East_ND1 ._. 
+</s>
+<s>
+These_DD2 conditions_NN2 require_VV0 designers_NN2 to_TO adopt_VVI special_JJ designs_NN2 to_TO cope_VVI with_IW the_AT additional_JJ stress_NN1 on_II their_APPGE structures_NN2 ._. 
+</s>
+<s>
+The_AT extremity_NN1 of_IO some_DD of_IO these_DD2 conditions_NN2 has_VHZ lead_VVN engineers_NN2 to_TO think_VVI about_II using_VVG durability_NN1 based_VVN design_NN1 methods_NN2 ,_, where_CS structures_NN2 are_VBR designed_VVN with_IW a_AT1 set_NN1 service_NN1 lifetime_NNT1 in_II mind_NN1 ._. 
+</s>
+<s>
+Durability_NN1 is_VBZ an_AT1 issue_NN1 in_II reinforced_JJ concrete_JJ design_NN1 ,_, but_CCB a_AT1 well_NN1 prepared_JJ designer_NN1 can_VM find_VVI ways_NN2 to_TO adapt_VVI to_II the_AT situation_NN1 ._. 
+</s>

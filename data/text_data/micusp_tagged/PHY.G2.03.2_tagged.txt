@@ -1,0 +1,96 @@
+<s>
+Teleportation_NN1 is_VBZ the_AT transfer_NN1 of_IO the_AT complete_JJ quantum_NN1 state_NN1 of_IO one_MC1 quantum_NN1 bit_NN1 (_( qubit_NN1 )_) to_II another_DD1 ._. 
+</s>
+<s>
+In_II principle_NN1 ,_, it_PPH1 could_VM take_VVI an_AT1 infinite_JJ number_NN1 of_IO classical_JJ bits_NN2 to_TO describe_VVI a_AT1 single_JJ qubit_NN1 ._. 
+</s>
+<s>
+Consider_VV0 ,_, for_REX21 instance_REX22 ,_, the_AT single_JJ qubit_NN1 state_NN1 :_: Since_CS Here_RL we_PPIS2 discuss_VV0 the_AT experimental_JJ of_IO implementation_NN1 of_IO quantum_NN1 teleportation_NN1 with_IW trapped_JJ ions_NN2 ,_, as_CSA accomplished_VVN by_II the_AT University_NN1 of_IO Innsbruck_NP1 (_( M._NN1 Riebe_NP1 ,_, et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+"_" Deterministic_JJ quantum_NN1 teleportation_NN1 with_IW atoms_NN2 ._. "_" 
+</s>
+<s>
+Nature_NN1 429_MC ,_, 734-737_MCMC (_( 17_MC June_NPM1 2004_MC )_) ._. )_) 
+</s>
+<s>
+and_CC NIST_NP1 (_( M.D._NP1 Barrett_NP1 ,_, et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+"_" Deterministic_JJ quantum_NN1 teleportation_NN1 of_IO atomic_JJ qubits_NN2 ._. "_" 
+</s>
+<s>
+Nature_NN1 429_MC ,_, 737-739_MCMC (_( 17_MC June_NPM1 2004_MC )_) ._. )_) 
+</s>
+<s>
+In_II its_APPGE most_RGT basic_JJ form_NN1 ,_, teleportation_NN1 can_VM be_VBI accomplished_VVN with_IW three_MC qubits_NN2 ._. 
+</s>
+<s>
+The_AT steps_NN2 to_II accomplishing_VVG teleportation_NN1 are_VBR :_: The_AT groups_NN2 at_II the_AT University_NN1 of_IO Innsbruck_NP1 and_CC NIST_NP1 both_RR followed_VVD the_AT procedure_NN1 above_II very_RG closely_RR ._. 
+</s>
+<s>
+In_II a_AT1 1995_MC Physical_JJ Review_NN1 Letters_NN2 paper_NN1 ,_, S._NP1 Massar_NP1 and_CC S._NP1 Popescu_NP1 demonstrated_VVD that_CST after_II performing_VVG a_AT1 single_JJ measurement_NN1 ,_, one_PN1 could_VM guess_VVI the_AT direction_NN1 of_IO spin_NN1 polarization_NN1 of_IO a_AT1 quantum_NN1 state_NN1 with_IW a_AT1 maximum_JJ probability_NN1 of:2_FO The_AT above_JJ equation_NN1 states_VVZ that_CST it_PPH1 is_VBZ possible_JJ to_TO determine_VVI the_AT state_NN1 of_IO a_AT1 single_JJ qubit_NN1 with_IW a_AT1 probability_NN1 of_IO 23_MC ,_, or_CC 66.7%_FO ._. 
+</s>
+<s>
+Hence_RR ,_, any_DD experiment_NN1 that_CST aims_VVZ to_TO exhibit_VVI the_AT effects_NN2 of_IO entanglement_NN1 must_VM have_VHI a_AT1 fidelity_NN1 greater_JJR than_CSN 66.7%_FO ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, it_PPH1 has_VHZ been_VBN shown_VVN that_CST local_JJ hidden_JJ variables_NN2 theories_NN2 can_VM only_RR be_VBI excluded_VVN for_IF fidelities_NN2 exceeding_VVG 87%.3_FO The_AT teleportation_NN1 experiments_NN2 accomplished_VVN by_II NIST_NP1 and_CC the_AT University_NN1 of_IO Innsbruck_NP1 state_NN1 fidelities_NN2 of_IO 78%_NNU and_CC 75%_NNU respectively_RR ._. 
+</s>
+<s>
+Thus_RR ,_, both_DB2 groups_NN2 have_VH0 demonstrated_VVN the_AT influence_NN1 of_IO entanglement_NN1 on_II their_APPGE measurements_NN2 ._. 
+</s>
+<s>
+However_RR ,_, neither_DD1 of_IO these_DD2 experiments_NN2 is_VBZ able_JK to_TO exclude_VVI local_JJ hidden_JJ variables_NN2 theories_NN2 ._. 
+</s>
+<s>
+Several_DA2 other_JJ aspects_NN2 of_IO both_DB2 teleportation_NN1 experiments_NN2 need_VV0 to_TO be_VBI addressed_VVN as_RR21 well_RR22 ._. 
+</s>
+<s>
+First_MD of_IO all_DB ,_, the_AT primary_JJ goal_NN1 of_IO a_AT1 teleportation_NN1 experiment_NN1 is_VBZ to_TO demonstrate_VVI the_AT nonlocality_NN1 of_IO quantum_NN1 mechanics_NN2 ;_; Einstein_NP1 's_GE often_RR quoted_VVN "_" spooky_JJ action_NN1 at_II a_AT1 distance_NN1 ._. "_" 
+</s>
+<s>
+Let_VV0 us_PPIO2 determine_VVI the_AT fundamental_JJ distance_NN1 in_II question_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM get_VVI a_AT1 rough_JJ idea_NN1 of_IO the_AT spatial_JJ extent_NN1 of_IO the_AT wavefunction_NN1 of_IO the_AT ion_NN1 using_VVG the_AT Heisenberg_NP1 Uncertainty_NN1 Principle_NN1 ._. 
+</s>
+<s>
+Assuming_VVG the_AT particle_NN1 has_VHZ been_VBN cooled_VVN to_II the_AT ground_NN1 state_NN1 of_IO motion_NN1 (_( as_CSA done_VDN by_II both_DB2 NIST_NP1 and_CC the_AT University_NN1 of_IO Innsbruck_NP1 )_) ,_, then_RT the_AT motional_JJ energy_NN1 of_IO an_AT1 ion_NN1 in_II a_AT1 1.2_MC MHz_NNU trap_NN1 (_( the_AT trap_NN1 frequency_NN1 quoted_VVN by_II the_AT Innsbruck_NN1 group_NN1 )_) is_VBZ simply_RR the_AT zero-point_JJ energy_NN1 of_IO a_AT1 harmonic_JJ oscillator_NN1 :_: So_RR ,_, given_VVN the_AT assumptions_NN2 above_RL ,_, this_DD1 means_VVZ ,_, The_AT Innsbruck_NN1 group_NN1 states_VVZ an_AT1 inter-ion_JJ seperation_NN1 of_IO In_II the_AT experiment_NN1 at_II NIST_NP1 ,_, they_PPHS2 took_VVD this_DD1 one_PN1 step_VV0 further_RRR by_II actually_RR seperating_VVG the_AT ions_NN2 and_CC shuttling_VVG them_PPHO2 to_II different_JJ zones_NN2 in_II the_AT trap_NN1 ._. 
+</s>
+<s>
+By_II doing_VDG so_RR ,_, the_AT NIST_JJ experiment_NN1 increased_VVD the_AT distance_NN1 between_II the_AT ions_NN2 by_II more_DAR than_CSN 2_MC orders_NN2 of_IO magnitude_NN1 ._. 
+</s>
+<s>
+While_CS this_DD1 was_VBDZ indeed_RR the_AT final_JJ configuration_NN1 ,_, during_II certain_JJ steps_NN2 in_II the_AT middle_NN1 of_IO the_AT experiment_NN1 ,_, all_DB three_MC ions_NN2 were_VBDR in_II the_AT same_DA trapping_NN1 region_NN1 ._. 
+</s>
+<s>
+Both_DB2 teleportation_NN1 experiments_NN2 perform_VV0 operations_NN2 on_II all_DB three_MC ions_NN2 in_II the_AT same_DA trap_NN1 in_II the_AT midst_NN1 of_IO the_AT experiment_NN1 ._. 
+</s>
+<s>
+One_PN1 could_VM argue_VVI that_CST such_DA an_AT1 arrangement_NN1 allows_VVZ for_IF the_AT possible_JJ exchange_NN1 of_IO a_AT1 phonon_NN1 or_CC photon_NN1 between_II the_AT source_NN1 and_CC target_NN1 qubits_NN2 ,_, which_DDQ may_VM account_VVI for_IF the_AT correlation_NN1 of_IO quantum_NN1 states_NN2 ,_, instead_II21 of_II22 true_JJ teleportation_NN1 of_IO the_AT quantum_NN1 state_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, both_DB2 experiments_NN2 could_VM more_RGR conclusively_RR demonstrate_VVI the_AT nonlocality_NN1 of_IO quantum_NN1 mechanics_NN2 if_CS ,_, after_CS the_AT initial_JJ entanglement_NN1 step_NN1 between_II ions_NN2 2_MC and_CC 3_MC ,_, these_DD2 ions_NN2 were_VBDR kept_VVN in_II seperate_JJ traps_NN2 for_IF the_AT duration_NN1 of_IO the_AT experiment_NN1 ._. 
+</s>
+<s>
+In_II summary_NN1 ,_, the_AT experimental_JJ implementation_NN1 of_IO deterministic_JJ quantum_NN1 teleportation_NN1 with_IW trapped_JJ ions_NN2 was_VBDZ a_AT1 major_JJ accomplishment_NN1 ._. 
+</s>
+<s>
+As_CSA stated_VVN in_II the_AT articles_NN2 by_II both_RR Innsbruck_VV0 and_CC NIST_NP1 ,_, it_PPH1 was_VBDZ a_AT1 step_NN1 above_II previous_JJ probabilistic_JJ teleportation_NN1 experiments_NN2 (_( which_DDQ required_JJ post-selection_NN1 of_IO the_AT data_NN )_) ._. 
+</s>
+<s>
+However_RR ,_, even_RR the_AT most_RGT recent_JJ experiments_NN2 could_VM be_VBI improved_VVN further_RRR ._. 
+</s>
+<s>
+Increasing_VVG the_AT fidelity_NN1 of_IO the_AT experiment_NN1 would_VM eliminate_VVI the_AT possibility_NN1 of_IO a_AT1 hidden_JJ variables_NN2 theory_NN1 ,_, and_CC keeping_VVG the_AT source_NN1 and_CC target_NN1 qubits_VVZ completely_RR seperated_VVD after_II the_AT initial_JJ entanglement_NN1 would_VM alleviate_VVI any_DD concerns_NN2 regarding_II "_" talking_VVG "_" between_II ions_NN2 in_II the_AT same_DA trap_NN1 ._. 
+</s>
+<s>
+Hopefully_RR ,_, future_JJ experiments_NN2 will_VM properly_RR address_VVI these_DD2 issues_NN2 ._. 
+</s>

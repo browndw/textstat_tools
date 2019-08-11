@@ -1,0 +1,150 @@
+<s>
+From_II your_APPGE letter_NN1 dated_VVN February_NPM1 5_MC ,_, 2007_MC ,_, we_PPIS2 understand_VV0 that_CST you_PPY intend_VV0 to_TO construct_VVI a_AT1 dam_NN1 at_II your_APPGE Glacier_NN1 Way_NN1 site_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR two_MC designs_NN2 being_VBG proposed_VVN ,_, both_RR 100_MC ft_NNU in_II length_NN1 ._. 
+</s>
+<s>
+The_AT main_JJ objectives_NN2 of_IO this_DD1 report_NN1 are_VBR to_TO classify_VVI the_AT coarse_JJ and_CC fine_JJ soils_NN2 given_VVN to_II us_PPIO2 ,_, determine_VV0 the_AT suitability_NN1 of_IO the_AT coarse_JJ soil_NN1 as_II a_AT1 filter_NN1 for_IF the_AT fine_JJ soil_NN1 ,_, determine_VV0 the_AT permeabilities_NN2 of_IO the_AT two_MC soils_NN2 ,_, determine_VV0 the_AT accuracy_NN1 of_IO Hazen_NP1 's_GE Equation_NN1 on_II the_AT approximation_NN1 of_IO the_AT coefficient_NN1 of_IO permeability_NN1 ,_, and_CC to_TO determine_VVI the_AT seepage_NN1 loss_NN1 beneath_II each_DD1 of_IO the_AT two_MC dam_NN1 designs_NN2 that_CST are_VBR being_VBG proposed_VVN ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 completed_VVN the_AT required_JJ tests_NN2 to_TO determine_VVI the_AT above_JJ objectives_NN2 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO this_DD1 document_NN1 is_VBZ to_TO present_VVI to_II you_PPY our_APPGE findings_NN2 ,_, conclusions_NN2 ,_, and_CC recommendations_NN2 ._. 
+</s>
+<s>
+The_AT classification_NN1 of_IO the_AT coarse_JJ soil_NN1 was_VBDZ found_VVN to_TO be_VBI poorly_RR graded_JJ sand_NN1 ,_, SP_NN1 ._. 
+</s>
+<s>
+The_AT fine_JJ soil_NN1 was_VBDZ found_VVN to_TO be_VBI clayey_JJ sand_NN1 ,_, SC_FO ._. 
+</s>
+<s>
+The_AT coarse_JJ sand_NN1 passed_VVD each_DD1 of_IO the_AT three_MC criteria_NN2 which_DDQ proved_VVD its_APPGE suitability_NN1 as_II a_AT1 filter_NN1 for_IF the_AT fine_JJ sand_NN1 ._. 
+</s>
+<s>
+The_AT coefficients_NN2 of_IO permeability_NN1 for_IF the_AT coarse_JJ soil_NN1 and_CC the_AT fine_JJ soil_NN1 were_VBDR found_VVN to_TO be_VBI 8.7x10-3_MC cm/sec_NNU and_CC 6.57x10-7_MC cm/sec_NNU respectively_RR ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ found_VVN that_CST this_DD1 approximation_NN1 was_VBDZ inaccurate_JJ due_JJ to_TO key_VVI assumptions_NN2 made_VVN in_II the_AT formulation_NN1 of_IO this_DD1 equation_NN1 ._. 
+</s>
+<s>
+With_IW this_DD1 we_PPIS2 would_VM recommend_VVI to_TO not_XX use_VVI this_DD1 approximation_NN1 during_II the_AT calculation_NN1 of_IO further_JJR coefficients_NN2 of_IO permeability_NN1 ._. 
+</s>
+<s>
+The_AT seepage_NN1 losses_NN2 beneath_II dam_NN1 Design_NN1 1_MC1 and_CC dam_VV0 Design_NN1 2_MC were_VBDR estimated_VVN at_II 10.35_MC cubic_JJ ft_NNU per_II day_NNT1 and_CC 6.21_MC cubit_NN1 feet_NN2 per_II day_NNT1 ,_, respectively_RR ._. 
+</s>
+<s>
+These_DD2 values_NN2 are_VBR excessive_JJ by_II our_APPGE standards_NN2 and_CC further_JJR design_NN1 changes_NN2 need_VV0 to_TO be_VBI made_VVN ._. 
+</s>
+<s>
+We_PPIS2 would_VM recommend_VVI the_AT addition_NN1 of_IO a_AT1 seepage_NN1 blanket_NN1 in_II31 front_II32 of_II33 each_DD1 dam_NN1 design_NN1 which_DDQ would_VM effectively_RR reduce_VVI the_AT amount_NN1 of_IO seepage_NN1 loss_NN1 beneath_II the_AT dam_NN1 and_CC in_II turn_NN1 ensure_VV0 the_AT stability_NN1 of_IO your_APPGE proposed_JJ dam_NN1 ._. 
+</s>
+<s>
+ASTM_NP1 D_ZZ1 422_MC :_: Standard_JJ Test_NN1 Method_NN1 for_IF Particle-Size_JJ Analysis_NN1 of_IO Soils_NN2 ._. 
+</s>
+<s>
+ASTM_NP1 D_ZZ1 2434-68_MCMC :_: Standard_JJ Test_NN1 Method_NN1 for_IF Permeability_NN1 of_IO Granular_JJ soils_NN2 (_( Constant_JJ Head_NN1 )_) ._. 
+</s>
+<s>
+Note_VV0 :_: No_UH ASTM_NP1 standard_NN1 for_IF the_AT falling_JJ head_NN1 test_NN1 performed_VVN on_II the_AT fine_JJ soil_NN1 ._. 
+</s>
+<s>
+An_AT1 in_II house_NN1 standard_NN1 test_NN1 was_VBDZ performed_VVN ._. 
+</s>
+<s>
+The_AT necessary_JJ data_NN for_IF construction_NN1 of_IO the_AT proposed_JJ dam_NN1 at_II your_APPGE Glacier_NN1 Way_NN1 Project_NN1 follows_VVZ ._. 
+</s>
+<s>
+This_DD1 data_NN includes_VVZ the_AT soil_NN1 classifications_NN2 ,_, filter_NN1 suitability_NN1 ,_, coefficients_NN2 of_IO permeability_NN1 ,_, and_CC the_AT seepage_NN1 losses_NN2 beneath_II each_DD1 of_IO the_AT two_MC proposed_JJ dam_NN1 designs_NN2 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN determined_VVN that_CST the_AT coarse_JJ sand_NN1 is_VBZ poorly_RR graded_JJ sand_NN1 ,_, SP_NN1 ,_, and_CC it_PPH1 has_VHZ been_VBN determined_VVN that_CST the_AT fine_JJ sand_NN1 is_VBZ clayey_JJ sand_NN1 ,_, SC_FO ._. 
+</s>
+<s>
+These_DD2 sand_NN1 types_NN2 were_VBDR determined_VVN using_VVG the_AT ASTM_JJ soil_NN1 classification_NN1 system_NN1 and_CC further_JJR calculations_NN2 can_VM be_VBI found_VVN in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT coarse_JJ sand_NN1 is_VBZ a_AT1 suitable_JJ filter_NN1 for_IF the_AT fine_JJ sand_NN1 ._. 
+</s>
+<s>
+The_AT suitability_NN1 of_IO the_AT coarse_JJ sand_NN1 as_II a_AT1 filter_NN1 is_VBZ important_JJ because_CS it_PPH1 shows_VVZ us_PPIO2 that_CST the_AT soil_NN1 can_VM properly_RR drain_VVI without_IW clogging_NN1 of_IO the_AT pores_NN2 in_II the_AT coarse_JJ sand_NN1 and_CC without_IW washing_VVG out_RP through_II the_AT coarse_JJ sand_NN1 ._. 
+</s>
+<s>
+So_RR here_RL the_AT filter_NN1 is_VBZ the_AT coarse_JJ sand_NN1 diameter_NN1 and_CC the_AT soil_NN1 is_VBZ the_AT fine_JJ sand_NN1 diameter_NN1 values_NN2 that_CST were_VBDR obtained_VVN from_II Table_NN1 1_MC1 above_RL ._. 
+</s>
+<s>
+We_PPIS2 will_VM be_VBI using_VVG the_AT US_NP1 Army_NN1 Corps_NN of_IO Engineers_58 '_97 procedure_NN1 to_TO help_VVI determine_VVI the_AT soils_NN2 suitability_NN1 as_CSA follows_VVZ :_: (_( 1_MC1 )_) and_CC (_( 2_MC )_) Through_II our_APPGE testing_NN1 ,_, we_PPIS2 were_VBDR able_JK to_TO determine_VVI the_AT coefficient_NN1 of_IO permeability_NN1 of_IO both_DB2 the_AT coarse_JJ soil_NN1 and_CC the_AT fine_JJ soil_NN1 provided_VVD ._. 
+</s>
+<s>
+The_AT following_JJ values_NN2 are_VBR as_CSA follows_VVZ :_: (_( 4_MC )_) The_AT calculations_NN2 and_CC data_NN from_II these_DD2 tests_NN2 can_VM be_VBI found_VVN on_II pages_NN2 7_MC and_CC 9_MC in_II the_AT Appendix_NN1 ._. 
+</s>
+<s>
+Hazen_NP1 's_GE Equation_NN1 has_VHZ been_VBN found_VVN to_TO be_VBI inaccurate_JJ when_CS compared_VVN to_II our_APPGE test_NN1 results_NN2 of_IO the_AT fine_JJ soil_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM determine_VVI the_AT permeability_NN1 of_IO the_AT fine_JJ soil_NN1 in_II two_MC ways_NN2 ._. 
+</s>
+<s>
+One_MC1 way_NN1 is_VBZ to_TO use_VVI an_AT1 approximation_NN1 equation_NN1 known_VVN as_II Hazen_NP1 's_GE Equation_NN1 and_CC the_AT other_NN1 is_VBZ to_TO find_VVI it_PPH1 experimentally_RR in_II the_AT lab_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ are_VBR the_AT results_NN2 of_IO the_AT two_MC calculations_NN2 ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II the_AT above_JJ approximations_NN2 of_IO the_AT coefficient_NN1 of_IO permeability_NN1 of_IO the_AT fine_JJ sand_NN1 ,_, Hazen_NP1 's_GE Equation_NN1 is_VBZ off_RP by_II an_AT1 order_NN1 of_IO magnitude_NN1 when_CS compared_VVN to_II our_APPGE laboratory_NN1 result_NN1 ._. 
+</s>
+<s>
+Hazen_NP1 's_GE Equation_NN1 is_VBZ only_RR off_RP by_II one_MC1 order_NN1 of_IO magnitude_NN1 which_DDQ is_VBZ not_XX as_RG far_JJ21 off_JJ22 as_CSA one_PN1 would_VM think_VVI due_II21 to_II22 the_AT wide_JJ range_NN1 of_IO magnitudes_NN2 that_CST soils_NN2 can_VM have_VHI ,_, yet_RR it_PPH1 clearly_RR is_VBZ not_XX as_RG accurate_JJ as_CSA actual_JJ laboratory_NN1 tests_NN2 ._. 
+</s>
+<s>
+Hazen_NP1 's_GE Equation_NN1 was_VBDZ found_VVN through_II observations_NN2 made_VVN during_II experiments_NN2 for_IF loose_JJ ,_, uniform_JJ sands_NN2 ._. 
+</s>
+<s>
+Because_II21 of_II22 this_DD1 ,_, if_CS we_PPIS2 are_VBR not_XX using_VVG loose_JJ ,_, uniform_JJ sands_NN2 ,_, then_RT this_DD1 approximation_NN1 loses_VVZ its_APPGE accuracy_NN1 as_CSA can_VM be_VBI seen_VVN from_II the_AT results_NN2 ._. 
+</s>
+<s>
+The_AT seepage_NN1 loss_NN1 beneath_II both_DB2 dam_VV0 designs_NN2 has_VHZ been_VBN determined_VVN to_TO be_VBI excessive_JJ ._. 
+</s>
+<s>
+The_AT seepage_NN1 loss_NN1 beneath_II dam_NN1 Design_NN1 1_MC1 was_VBDZ found_VVN to_TO be_VBI 10.35_MC cubic_JJ feet_NN2 per_II day_NNT1 while_CS the_AT seepage_NN1 loss_NN1 beneath_II dam_NN1 Design_NN1 2_MC was_VBDZ found_VVN to_TO be_VBI 6.21_MC cubic_JJ feet_NN2 per_II day_NNT1 ._. 
+</s>
+<s>
+The_AT seepage_NN1 loss_NN1 under_II your_APPGE dam_NN1 may_VM be_VBI the_AT single_JJ most_RGT important_JJ parameter_NN1 in_II determining_VVG the_AT stability_NN1 of_IO your_APPGE dam_NN1 because_CS if_CS the_AT loss_NN1 is_VBZ too_RG great_JJ ,_, the_AT soil_NN1 beneath_II the_AT dam_NN1 may_VM wash_VVI away_RL ,_, destroying_VVG the_AT dam_NN1 with_IW it_PPH1 ._. 
+</s>
+<s>
+The_AT following_JJ shows_NN2 the_AT seepage_NN1 loss_NN1 under_II your_APPGE proposed_JJ dam_NN1 for_IF both_DB2 design_VV0 1_MC1 and_CC design_NN1 2_MC ._. 
+</s>
+<s>
+The_AT following_JJ equation_NN1 was_VBDZ used_VVN in_II the_AT determination_NN1 of_IO the_AT seepage_NN1 loss_NN1 :_: (_( 6_MC )_) The_AT addition_NN1 of_IO the_AT seepage_NN1 blanket_NN1 would_VM effectively_RR increase_VVI the_AT number_NN1 of_IO equipotential_JJ drops_NN2 below_II the_AT dam_NN1 which_DDQ would_VM decrease_VVI the_AT seepage_NN1 loss_NN1 ._. 
+</s>
+<s>
+The_AT blanket_NN1 lengthens_VVZ the_AT distance_NN1 in_II which_DDQ the_AT water_NN1 must_VM travel_VVI which_DDQ decreases_VVZ the_AT amount_NN1 of_IO water_NN1 that_CST can_VM flow_VVI beneath_II the_AT dam_NN1 in_II a_AT1 given_JJ day_NNT1 ._. 
+</s>
+<s>
+This_DD1 in_II effect_NN1 decreases_VVZ the_AT seepage_NN1 loss_NN1 ._. 
+</s>
+<s>
+A_AT1 length_NN1 of_IO at_RR21 least_RR22 the_AT length_NN1 of_IO the_AT dam_NN1 is_VBZ recommended_VVN for_IF safety_NN1 purposes_NN2 ._. 
+</s>
+<s>
+From_II the_AT conclusion_NN1 of_IO our_APPGE testing_NN1 we_PPIS2 have_VH0 been_VBN able_JK to_TO determine_VVI the_AT classification_NN1 of_IO the_AT two_MC soils_NN2 ,_, the_AT suitability_NN1 of_IO the_AT coarse_JJ sand_NN1 as_II a_AT1 filter_NN1 ,_, the_AT permeability_NN1 of_IO the_AT fine_JJ soil_NN1 ,_, and_CC the_AT estimated_JJ seepage_NN1 loss_NN1 beneath_II the_AT dam_NN1 in_II each_DD1 design_NN1 ._. 
+</s>
+<s>
+The_AT coarse_JJ soil_NN1 was_VBDZ found_VVN to_TO be_VBI poorly_RR graded_JJ sand_NN1 ,_, SP_NN1 ,_, while_CS the_AT fine_JJ soil_NN1 was_VBDZ found_VVN to_TO be_VBI clayey_JJ sand_NN1 ,_, SC_FO ._. 
+</s>
+<s>
+With_IW this_DD1 we_PPIS2 were_VBDR then_RT able_JK to_TO determine_VVI that_CST the_AT coarse_JJ sand_NN1 met_VVD all_DB criteria_NN2 required_VVN to_TO be_VBI a_AT1 filter_NN1 for_IF the_AT fine_JJ sand_NN1 ._. 
+</s>
+<s>
+We_PPIS2 were_VBDR also_RR able_JK to_TO determine_VVI the_AT coefficient_NN1 of_IO permeability_NN1 of_IO the_AT coarse_JJ and_CC fine_JJ soils_NN2 as_CSA 8.7x10-3_MC cm/sec_NNU and_CC 6.57x10-7_MC cm/sec_NNU respectively_RR and_CC also_RR compare_VV0 them_PPHO2 to_II Hazen_NP1 's_GE equation_NN1 approximation_NN1 ._. 
+</s>
+<s>
+We_PPIS2 were_VBDR able_JK to_TO determine_VVI that_CST Hazen_NP1 's_GE equation_NN1 is_VBZ not_XX an_AT1 appropriate_JJ approximation_NN1 in_II this_DD1 situation_NN1 due_II21 to_II22 certain_JJ assumptions_NN2 needed_VVN to_TO use_VVI that_DD1 equation_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, we_PPIS2 were_VBDR able_JK to_TO determine_VVI that_CST the_AT estimated_JJ seepage_NN1 loss_NN1 beneath_II dam_NN1 Design_NN1 1_MC1 and_CC dam_VV0 Design_NN1 2_MC were_VBDR 10.35_MC cubic_JJ ft_NNU per_II day_NNT1 and_CC 6.21_MC cubit_NN1 feet_NN2 per_II day_NNT1 ,_, respectively_RR ,_, which_DDQ is_VBZ excessive_JJ by_II our_APPGE standards_NN2 ._. 
+</s>
+<s>
+With_IW this_DD1 we_PPIS2 recommend_VV0 adding_VVG a_AT1 seepage_NN1 blanket_NN1 in_II31 front_II32 of_II33 both_DB2 designs_NN2 which_DDQ would_VM allow_VVI the_AT seepage_NN1 loss_NN1 to_TO drop_VVI to_II an_AT1 acceptable_JJ level_NN1 ._. 
+</s>

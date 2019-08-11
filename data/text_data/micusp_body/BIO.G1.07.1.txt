@@ -1,0 +1,41 @@
+There are two interesting phenomena in this research.
+(1)RTK is widely expressed in all embryonic tissues and throughout the entire embryogenesis;
+Since the gene doesn't express specifically, it's possible that the RTK will receive some signals from the environment (the growth factor), which lead to downstream expression of other genes in cells (PGCs or the surrounding somatic cells). And these downstream genes are essential for the migration of PGCs. Alternative explanation is that without such RTK, some types of cells cannot be formed, and indeed these somatic cells are important for the migration.
+(2)About 50% PGCs did not go to the right place;
+There are two possibilities. The first, only two groups of the totally four groups of the PGCs move to the right position, and the cells in the other two groups don't move to the right place (either begin to move but don't move to the right place, or don't move at all). The other possibility is only part of the PGCs move to the right place in any of the four groups, while other PGCs don't.
+Question:
+Do PGCs in two groups move to the right place? Or do part of the PGCs in the entire four groups move to the right place?
+We can synthesize an RNA encoding a fusion protein of zebrafish Vasa with GFP that also contains the vasa 3'UTR (full-vasa-GFP), and then we can inject these RNAs into one-cell stage embryos (to the strain with a dominant negative construct of the RTK). After that, we can trace the movement of PGCs (from mid-gastrula stages, after the expression of GFP), and we can address the question about "who doesn't move?"
+(1)If we find that only two groups of PGCs move to the right place, it's most possibility that there is something wrong with the somatic cells. Because all of the four groups of PGCs should express almost the same genes, and it's difficult to explain why some of them can move while others cannot. But we don't know whether the problem comes from lost of certain ligands, or lost of certain type of cells. Then we can do experiment 2 to test.
+(2)If we find that in all the four group of PGCs there are some of the cells move to the right place, when others don't, it seems the movement signal is not strong enough. There are three possibilities. The first, the receptors on the PGSc, which is in charge of the movement of PGCs, don't express or are not enough. The second explanation is that the ligands, which can bind to the receptors on the face of PGSc don't express or not enough. The third one, is some type of somatic cells, which is very important for the migration, don't be generated. Then, we can do experiment 3 to distinguish the first explanation and the other two possibilities.
+If in the experiment 1 we get result (1), continue this experiment.
+Question:
+Is the migration defect due to the loss of a certain molecular that should express on the surface of some somatic cells, or due to the lost of certain types of somatic cells?
+(1)We should try to find the candidate somatic cells that may be the reason for migration defect according to the pattern and the region of these two disorder groups of PGCs' movement.
+(2)We can inject the cells from wild-type zebrafish to the embryo, to see whether we can rescue the individual, or to see whether some PGCs will move to the region with wild-type zebrafish cells;
+(3)We can select the candidate ligands that may be related to migration (from the information we have known, about the PGC migration in zebrafish and other species, similar to experiment 3 and 4);
+(4)Then, we can try to inject the mRNA coding ligand genes to the embryo of dnRTK individuals, and then do overexpression experiment, mopholino to confirm the results (similar to experiment 5)
+Imagine and analyze the results:
+(1)If we cannot rescue the defect by injecting the somatic cells, these somatic cells may be not the reason. We need to continue to find other reasons.
+(2)If we can rescue the defect by injecting the somatic cells, but we can't rescue the defect by injecting the certain gene's mRNA, maybe the RTK affect the formation of this type of the cells.
+(3)If we can rescue the defect by injecting the somatic cells, and we can rescue the defect by injecting the certain gene's mRNA, maybe the reason comes from the expression of this gene.
+If in the experiment 1 we get result (2), continue this experiment.
+Question:
+(1)Which are the receptors and ligands (that lead to the migration defect) been affected by dnRTK?
+(2)Is the migration defect from the receptors on the PGCs, or from the ligands on the surface of somatic cells?
+We have several candidates about the receptors and ligands that related to PGCs migration, such as CXCR4 and SDF1. And we can screen them by injecting RNA into the embryo (rescue), to see which pair is the reason for the defect. And also, we can get the information about whether the defect comes from receptors on PGCs or comes from ligands on somatic cells.
+(1)If we find the molecular for PGCs migration defect, we can decide whether the defect comes from PGCs or from somatic cells. If the defect is due to recepter, such as CXCR4, PGC mis-migration resides in PGCs themselves, and if the defect is due to ligand, such as SDF1, PGC mis-migration resides in the surrounding somatic cells. And we can do Experiment 5 to confirm the result.
+(2)If we cannot find the molecular that is reason for the migration defect. We should continue to find it in a larger extent of candidate genes (in experiment 4).
+If in the experiment 3 we get result (2), continue this experiment.
+Question:
+Are there some other genes can be the candidate receptors or ligands for experiment 3 to screen?
+(1)We can check the homologues that are related to cell migration in other species.
+(2)We can check the molecules expressing on the surface of the PGCs or the somatic cells closed to the target place.
+(3)Then we can return to experiment 3
+Question:
+Are the molecules (receptors on the PGCs or the ligands on the somatic cells) really the reason for the defect?
+(1)We can use RNAi (mopholino) technique to knock down the expression of certain genes, to see whether they have a similar phenotype to the dnRTK strain.
+(2)We can use overexpression technique to see whether too much expression will lead to disorder of the PGC migration.
+(3)We can inject some cells express the molecules that we think are related to migration defect, to see whether the molecular is the reason for the migration. (For example, if we inject some wild-type somatic cells related, we expect PGCs should move to the region with wild-type somatic cells located.)
+(1)If we can get the result as expect, the result should be a solid one;
+(2)If not, we can try to find some other factors that affect the migration.

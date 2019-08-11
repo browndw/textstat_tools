@@ -1,0 +1,402 @@
+<s>
+Tuttle_NP1 Springs_NN2 located_VVN in_II Chelsea_NP1 ,_, Michigan_NP1 was_VBDZ established_VVN in_II 1982_MC as_II a_AT1 company_NN1 dedicated_VVN to_II the_AT design_NN1 of_IO springs_NN2 ._. 
+</s>
+<s>
+The_AT company_NN1 specializes_VVZ in_II high_JJ stress_NN1 springs_VVZ -- springs_NN2 that_CST can_VM withstand_VVI force_NN1 without_IW fatigue_NN1 ._. 
+</s>
+<s>
+With_IW an_AT1 increase_NN1 in_II demand_NN1 from_II the_AT automotive_JJ industry_NN1 ,_, Tuttle_NP1 Springs_NN2 eventually_RR became_VVD a_AT1 manufacturer_NN1 of_IO the_AT springs_NN2 they_PPHS2 designed_VVD ._. 
+</s>
+<s>
+Currently_RR ,_, the_AT biggest_JJT customer_NN1 of_IO these_DD2 springs_NN2 is_VBZ the_AT automotive_JJ industry_NN1 ,_, which_DDQ makes_VVZ up_RP 61%_NNU of_IO customer_NN1 orders_NN2 ._. 
+</s>
+<s>
+The_AT furniture_NN1 industry_NN1 's_GE demand_NN1 ,_, which_DDQ makes_VVZ up_RP 21%_NNU of_IO Tuttle_NP1 Springs_96 '_97 orders_NN2 ,_, follows_VVZ that_DD1 of_IO the_AT automotive_JJ industry_NN1 ._. 
+</s>
+<s>
+At_II this_DD1 time_NNT1 ,_, the_AT manufacturing_NN1 process_NN1 of_IO one_MC1 of_IO their_APPGE Exhaust_NN1 "_" SAO_NP1 "_" Spring_NN1 consists_VVZ of_IO eight_MC separate_JJ operations_NN2 ._. 
+</s>
+<s>
+Tuttle_NP1 Spring_NN1 aims_VVZ to_TO improve_VVI their_APPGE current_JJ production_NN1 process_NN1 of_IO the_AT Exhaust_NN1 "_" SAO_NP1 "_" Spring_NN1 while_CS continuing_VVG to_TO produce_VVI high_JJ quality_NN1 products_NN2 and_CC deliver_VVI orders_NN2 to_II their_APPGE customers_NN2 on_II time_NNT1 ._. 
+</s>
+<s>
+Our_APPGE team_NN1 is_VBZ planning_VVG to_TO analyze_VVI the_AT current_JJ process_NN1 by_II applying_VVG the_AT following_JJ lean_JJ concepts_NN2 :_: Determining_JJ takt_NN1 time_NNT1 ;_; Developing_VVG continuous_JJ flow_NN1 where_RRQ possible_JJ ;_; Implementing_VVG supermarkets_NN2 ;_; Including_II a_AT1 pacemaker_NN1 process_NN1 ;_; Distributing_VVG products_NN2 evenly_RR over_II time_NNT1 at_II the_AT pacemaker_NN1 process_NN1 ;_; Creating_VVG an_AT1 initial_JJ pull_NN1 by_II releasing_VVG pitch_NN1 at_II the_AT pacemaker_NN1 process_NN1 ;_; Shortening_NP1 changeover_NN1 times_NNT2 and_CC running_VVG smaller_JJR batches_NN2 As_CSA you_PPY can_VM see_VVI from_II Appendix_NN1 A_ZZ1 (_( Current-state_JJ value-stream_JJ map_NN1 )_) ,_, Tuttle_NP1 Springs_NN2 currently_RR operates_VVZ the_AT plant_NN1 with_IW eight_MC different_JJ processes_NN2 which_DDQ are_VBR :_: Receiving_VVG raw_JJ materials_NN2 from_II the_AT supplier_NN1 ,_, Coiling_VVG ,_, Stress_NN1 relieving_VVG ,_, Grinder_NN1 ,_, Tumbling_VVG ,_, Heat_NN1 setting_NN1 ,_, Inspection_NN1 ,_, Pack_NN1 and_CC ship_NN1 ._. 
+</s>
+<s>
+(_( Please_RR refer_VV0 to_II the_AT Appendix_NN1 A_ZZ1 for_IF more_DAR details_NN2 of_IO each_DD1 process_NN1 )_) Although_CS the_AT company_NN1 has_VHZ shown_VVN fairly_RR good_JJ performance_NN1 and_CC quality_NN1 in_II manufacturing_VVG the_AT springs_NN2 ,_, the_AT current_JJ process_NN1 is_VBZ not_XX lean_JJ for_IF the_AT following_JJ reasons_NN2 :_: Therefore_RR ,_, we_PPIS2 can_VM eliminate_VVI the_AT above_JJ problems_NN2 by_II applying_VVG the_AT lean_JJ concepts_NN2 to_II the_AT current_JJ process_NN1 with_IW the_AT following_JJ guidelines_NN2 ._. 
+</s>
+<s>
+Our_APPGE first_MD step_NN1 in_II developing_VVG our_APPGE future-state_JJ concepts_NN2 was_VBDZ obtaining_VVG the_AT customer_NN1 demand_NN1 rate_NN1 and_CC takt_VV0 time_NNT1 ._. 
+</s>
+<s>
+The_AT customer_NN1 demand_NN1 rate_NN1 was_VBDZ given_VVN as_CSA 8,250_MC pieces_NN2 per_II day_NNT1 ._. 
+</s>
+<s>
+The_AT takt_NN1 time_NNT1 was_VBDZ obtained_VVN by_II calculating_VVG the_AT quotient_NN1 of_IO the_AT working_JJ time_NNT1 available_JJ per_II shift_NN1 (_( 32,400_MC seconds_NNT2 )_) divided_VVN by_II the_AT customer_NN1 demand_NN1 per_II shift_NN1 (_( 4,125_MC pieces_NN2 )_) approximately_RR 7.85_MC seconds_NNT2 per_II part_NN1 ._. 
+</s>
+<s>
+Our_APPGE goal_NN1 is_VBZ to_TO produce_VVI only_RR what_DDQ the_AT customer_NN1 wants_VVZ when_RRQ the_AT customer_NN1 wants_VVZ it_PPH1 ;_; therefore_RR ,_, knowing_VVG the_AT customer_NN1 demand_NN1 rate_NN1 and_CC takt_VV0 time_NNT1 is_VBZ crucial_JJ ._. 
+</s>
+<s>
+The_AT takt_NN1 time_NNT1 indicates_VVZ a_AT1 limit_NN1 on_II the_AT amount_NN1 of_IO time_NNT1 allowed_VVN to_TO produce_VVI a_AT1 spring_NN1 in_BCL21 order_BCL22 to_TO meet_VVI demand_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST each_DD1 processing_NN1 step_NN1 in_II the_AT production_NN1 of_IO the_AT exhaust_NN1 spring_NN1 should_VM not_XX take_VVI longer_RRR than_CSN 7.85_MC seconds_NNT2 to_TO complete_VVI ._. 
+</s>
+<s>
+Ideally_RR ,_, each_DD1 process_NN1 should_VM take_VVI precisely_RR 7.85_MC seconds_NNT2 to_TO complete_VVI in_BCL21 order_BCL22 to_TO avoid_VVI overproduction_NN1 ;_; however_RR ,_, this_DD1 is_VBZ not_XX feasible_JJ since_CS not_XX all_DB processes_NN2 are_VBR 100%_NNU reliable_JJ ._. 
+</s>
+<s>
+Our_APPGE recommendation_NN1 for_IF the_AT immediate_JJ future_NN1 is_VBZ that_CST each_DD1 process_NN1 be_VBI completed_VVN in_II less_DAR than_CSN takt_NN1 time_NNT1 in_BCL21 order_BCL22 to_TO compensate_VVI for_IF production_NN1 problems_NN2 ._. 
+</s>
+<s>
+The_AT customer_NN1 's_GE demand_NN1 rises_NN2 and_CC falls_VVZ unpredictably_RR ,_, ranging_VVG between_II 4,750_MC pieces_NN2 per_II day_NNT1 and_CC 11,750_MC pieces_NN2 per_II day_NNT1 ._. 
+</s>
+<s>
+With_IW a_AT1 large_JJ lot_NN1 size_NN1 of_IO 5,500_MC springs_NN2 and_CC delivery_NN1 to_II the_AT customer_NN1 just_RR once_RR a_AT1 week_NNT1 ,_, the_AT current_JJ state_NN1 does_VDZ not_XX accommodate_VVI for_IF fluctuations_NN2 in_II demand_NN1 very_RG well_RR ._. 
+</s>
+<s>
+To_TO accommodate_VVI for_IF these_DD2 fluctuations_NN2 ,_, the_AT company_NN1 would_VM either_RR have_VHI to_TO carry_VVI safety_NN1 stock_NN1 or_CC risk_VV0 falling_VVG short_JJ of_IO the_AT demand_NN1 ._. 
+</s>
+<s>
+We_PPIS2 recommend_VV0 negotiating_VVG with_IW the_AT customer_NN1 ,_, requesting_VVG to_TO decrease_VVI the_AT lot_NN1 size_NN1 to_II 2,750_MC springs_NN2 and_CC to_TO allow_VVI for_IF more_RGR frequent_JJ ,_, daily_JJ delivery_NN1 ._. 
+</s>
+<s>
+This_DD1 smaller_JJR lot_NN1 size_NN1 would_VM lead_VVI to_II decreased_JJ inventory_NN1 and_CC would_VM make_VVI it_PPH1 possible_JJ for_IF the_AT company_NN1 to_TO accept_VVI smaller_JJR orders_NN2 ._. 
+</s>
+<s>
+Tuttle_NP1 Springs_NN2 would_VM then_RT be_VBI able_JK to_TO feasibly_RR deliver_VVI to_II its_APPGE customers_NN2 more_RGR often_RR ._. 
+</s>
+<s>
+This_DD1 would_VM allow_VVI the_AT company_NN1 to_TO better_RRR accommodate_VVI to_II sudden_JJ changes_NN2 in_II demand_NN1 ._. 
+</s>
+<s>
+Ideally_RR ,_, the_AT lot_NN1 size_NN1 would_VM be_VBI just_RR one_MC1 spring_NN1 ;_; however_RR ,_, this_DD1 is_VBZ not_XX possible_JJ in_II the_AT immediate_JJ future_NN1 because_CS the_AT current_JJ processes_NN2 have_VH0 significant_JJ lead_NN1 and_CC changeover_NN1 times_NNT2 ._. 
+</s>
+<s>
+The_AT reliability_NN1 of_IO the_AT current_JJ processes_NN2 is_VBZ uncertain_JJ and_CC continuous_JJ flow_NN1 in_II the_AT immediate_JJ future_NN1 is_VBZ obviously_RR not_XX possible_JJ ;_; therefore_RR ,_, we_PPIS2 recommend_VV0 that_CST the_AT company_NN1 build_VV0 the_AT exhaust_NN1 springs_NN2 to_II a_AT1 finished-goods_NN2 supermarket_NN1 ._. 
+</s>
+<s>
+In_II Tuttle_NP1 Springs_96 '_97 current_JJ state_NN1 ,_, a_AT1 substantial_JJ amount_NN1 of_IO inventory_NN1 clearly_RR stagnates_VVZ between_II processes_NN2 ._. 
+</s>
+<s>
+Continuous_JJ flow_NN1 would_VM eliminate_VVI this_DD1 stagnation_NN1 of_IO inventory_NN1 and_CC therefore_RR we_PPIS2 recommend_VV0 establishing_VVG continuous_JJ flow_NN1 wherever_RRQV possible_JJ ._. 
+</s>
+<s>
+The_AT cycle_NN1 times_NNT2 of_IO the_AT inventory_NN1 and_CC pack-and-ship_JJ workstations_NN2 were_VBDR not_XX too_RG far_RR apart_RL ;_; therefore_RR ,_, we_PPIS2 believe_VV0 that_CST achieving_VVG continuous_JJ flow_NN1 through_II these_DD2 workstations_NN2 is_VBZ possible_JJ in_II the_AT near_JJ future_NN1 ._. 
+</s>
+<s>
+Likewise_RR ,_, the_AT coiling_NN1 ,_, stress-relieving_NN1 ,_, and_CC grinder_NN1 workstations_NN2 all_DB have_VH0 similar_JJ cycle_NN1 times_NNT2 ._. 
+</s>
+<s>
+We_PPIS2 believe_VV0 that_CST achieving_VVG continuous_JJ flow_NN1 through_II these_DD2 three_MC workstations_NN2 is_VBZ also_RR possible_JJ in_II the_AT near_JJ future_NN1 ._. 
+</s>
+<s>
+The_AT cycle_NN1 time_NNT1 of_IO this_DD1 combined_JJ process_NN1 is_VBZ faster_JJR than_CSN that_DD1 of_IO the_AT following_JJ tumbling_JJ process_NN1 ._. 
+</s>
+<s>
+Integrating_VVG tumbling_JJ into_II a_AT1 continuous_JJ flow_NN1 with_IW coiling_VVG ,_, stress-relieving_NN1 ,_, and_CC grinding_NN1 would_VM require_VVI slowing_VVG the_AT combined_JJ process_NN1 's_GE cycle_NN1 time_NNT1 and_CC thus_RR is_VBZ not_XX practical_JJ ._. 
+</s>
+<s>
+This_DD1 would_VM result_VVI in_II the_AT underutilization_NN1 of_IO the_AT coiling_NN1 ,_, stress-relieving_NN1 ,_, and_CC grinding_JJ workstations_NN2 ;_; therefore_RR ,_, it_PPH1 would_VM be_VBI more_RGR practical_JJ to_TO run_VVI the_AT combined_JJ process_NN1 as_II a_AT1 batch_NN1 operation_NN1 and_CC control_VV0 its_APPGE production_NN1 with_IW a_AT1 pull_NN1 system_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR noticed_VVD the_AT cycle_NN1 time_NNT1 of_IO the_AT heat-setting_JJ workstation_NN1 is_VBZ slower_JJR than_CSN that_DD1 of_IO both_DB2 the_AT processes_NN2 preceding_VVG it_PPH1 and_CC following_VVG it_PPH1 ._. 
+</s>
+<s>
+Incorporating_VVG heat-setting_NN1 into_II a_AT1 continuous_JJ flow_NN1 with_IW these_DD2 processes_NN2 would_VM mean_VVI slowing_VVG the_AT cycle_NN1 time_NNT1 of_IO both_DB2 tumbling_VVG and_CC inventory/pack-and-ship_NN1 in_BCL21 order_BCL22 to_TO avoid_VVI tumbling_VVG from_II overproducing_VVG and_CC for_IF heat-setting_JJ to_TO keep_VVI up_RP with_IW inventory/pack-and-ship_NN1 's_GE demand_NN1 ._. 
+</s>
+<s>
+Indeed_RR ,_, it_PPH1 would_VM be_VBI more_RGR practical_JJ to_TO run_VVI the_AT tumbling_JJ and_CC heat-setting_JJ processes_NN2 as_CSA batch_NN1 operations_NN2 and_CC control_VV0 their_APPGE production_NN1 with_IW pull_NN1 systems_NN2 ._. 
+</s>
+<s>
+Although_CS Tuttle_NP1 Springs_NN2 can_56 not_56 achieve_VVI continuous_JJ flow_NN1 throughout_II the_AT production_NN1 of_IO the_AT exhaust_NN1 springs_NN2 ,_, a_AT1 lean_JJ value_NN1 stream_NN1 can_VM still_RR be_VBI implemented_VVN by_II utilizing_VVG supermarket-based_JJ pull_NN1 systems_NN2 where_RRQ continuous_JJ flow_NN1 is_VBZ not_XX possible_JJ ._. 
+</s>
+<s>
+By_II utilizing_VVG pull_NN1 systems_NN2 ,_, the_AT need_NN1 for_IF production_NN1 control_NN1 to_TO provide_VVI each_DD1 process_NN1 with_IW a_AT1 schedule_NN1 would_VM be_VBI eliminated_VVN ._. 
+</s>
+<s>
+We_PPIS2 previously_RR recommended_VVD that_CST Tuttle_NP1 Springs_NN2 produce_VV0 exhaust_NN1 springs_NN2 to_II a_AT1 finished-goods_NN2 supermarket_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR recommended_VVD that_CST a_AT1 supermarket_NN1 for_IF the_AT coiling_NN1 ,_, stress-relieving_NN1 ,_, and_CC grinding_JJ process_NN1 ,_, the_AT tumbling_JJ process_NN1 ,_, and_CC the_AT heat-setting_JJ process_NN1 be_VBI implemented_VVN ._. 
+</s>
+<s>
+A_ZZ1 raw-materials_NN2 supermarket_NN1 and_CC packaged-goods_NN2 supermarket_NN1 should_VM also_RR be_VBI set_VVN up_RP in_BCL21 order_BCL22 to_TO control_VVI their_APPGE shipment_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT combined_JJ process_NN1 of_IO coiling_VVG ,_, stress-relieving_NN1 ,_, and_CC grinding_NN1 has_VHZ such_DA a_AT1 short_JJ cycle_NN1 time_NNT1 ,_, we_PPIS2 need_VV0 to_TO implement_VVI a_AT1 supermarket_NN1 and_CC use_VVI withdrawals_NN2 from_II that_DD1 supermarket_NN1 to_TO control_VVI its_APPGE production_NN1 ._. 
+</s>
+<s>
+The_AT combined_JJ process_NN1 's_GE customer_NN1 is_VBZ the_AT tumbling_JJ process_NN1 ._. 
+</s>
+<s>
+The_AT combined_JJ process_NN1 's_GE cycle_NN1 time_NNT1 of_IO 1.6_MC seconds_NNT2 ,_, the_AT longest_JJT of_IO the_AT individual_JJ process_58 '_97 cycle_NN1 times_NNT2 ,_, is_VBZ significantly_RR faster_RRR than_CSN the_AT tumbling_JJ process_NN1 's_GE cycle_NN1 time_NNT1 of_IO 720_MC seconds_NNT2 ._. 
+</s>
+<s>
+Thus_RR ,_, when_CS the_AT tumbling_JJ workstation_NN1 's_GE operator_NN1 removes_VVZ a_AT1 bin_NN1 from_II the_AT supermarket_NN1 and_CC a_AT1 production_NN1 kanban_NN1 is_VBZ sent_VVN to_II the_AT combined_JJ process_NN1 ,_, the_AT combined_JJ process_NN1 would_VM be_VBI able_JJ produce_VV0 enough_DD parts_NN2 to_TO replace_VVI the_AT withdrawn_VVN bin_VV0 well_RR before_II the_AT tumbling_JJ workstation_NN1 is_VBZ done_VDN processing_NN1 it_PPH1 ._. 
+</s>
+<s>
+Assuming_VVG that_CST the_AT customer_NN1 complies_VVZ with_IW our_APPGE request_NN1 to_TO decrease_VVI the_AT pack_NN1 size_NN1 to_II 2,750_MC springs_NN2 per_II box_NN1 ,_, we_PPIS2 recommend_VV0 that_CST this_DD1 also_RR be_VBI the_AT bin_NN1 and_CC kanban_JJ size_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT coiling/stress-relieving/grinding_JJ process_NN1 can_VM replenish_VVI what_DDQ the_AT tumbling_JJ process_NN1 uses_VVZ quickly_RR ,_, just_RR one_MC1 bin_NN1 or_CC 2,750_MC parts_NN2 should_VM be_VBI stored_VVN in_II the_AT supermarket_NN1 ._. 
+</s>
+<s>
+Likewise_RR ,_, since_CS tumbling_JJ has_VHZ a_AT1 much_RR shorter_JJR cycle_NN1 time_NNT1 (_( 360_MC seconds_NNT2 per_II pack_NN1 )_) than_CSN heat-setting_NN1 (_( 6600_MC seconds_NNT2 per_II pack_NN1 )_) ,_, we_PPIS2 need_VV0 to_TO implement_VVI a_AT1 pull_NN1 system_NN1 to_TO control_VVI tumbling_JJ 's_GE production_NN1 ._. 
+</s>
+<s>
+Clearly_RR ,_, when_CS the_AT heat-setting_JJ workstation_NN1 's_GE operator_NN1 removes_VVZ a_AT1 bin_NN1 from_II the_AT supermarket_NN1 and_CC a_AT1 production_NN1 kanban_NN1 is_VBZ sent_VVN to_II the_AT tumbling_JJ workstation_NN1 ,_, the_AT tumbling_JJ workstation_NN1 will_VM be_VBI able_JK to_TO produce_VVI enough_DD parts_NN2 to_TO replace_VVI the_AT withdrawn_VVN bin_VV0 well_RR before_II the_AT heat-setting_JJ workstation_NN1 is_VBZ done_VDN processing_NN1 it_PPH1 ._. 
+</s>
+<s>
+While_CS heat-setting_NN1 has_VHZ a_AT1 cycle_NN1 time_NNT1 of_IO 6,600_MC seconds_NNT2 per_II box_NN1 ,_, inspection/pack-and-ship_NN1 has_VHZ a_AT1 cycle_NN1 time_NNT1 of_IO 1,800_MC per_II box_NN1 (_( the_AT longest_JJT cycle_NN1 time_NNT1 of_IO the_AT two_MC individual_JJ processes_NN2 )_) ._. 
+</s>
+<s>
+The_AT heat-setting_JJ process_NN1 clearly_RR has_VHZ a_AT1 longer_JJR cycle_NN1 time_NNT1 than_CSN its_APPGE customer_NN1 process_NN1 ,_, so_CS the_AT set_NN1 up_RP of_IO a_AT1 supermarket_NN1 between_II them_PPHO2 is_VBZ recommended_VVN ._. 
+</s>
+<s>
+If_CS replenishing_VVG what_DDQ has_VHZ been_VBN withdrawn_VVN from_II the_AT heat-setting_JJ supermarket_NN1 on_II a_AT1 bin-by-bin_JJ basis_NN1 ,_, the_AT inspection/pack-and-ship_NN1 workstation_NN1 would_VM have_VHI to_TO wait_VVI 4,800_MC seconds_NNT2 until_CS it_PPH1 can_VM process_VVI the_AT next_MD bin_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, we_PPIS2 recommend_VV0 that_CST Tuttle_NP1 Springs_NN2 keep_VV0 a_AT1 minimum_NN1 of_IO 5,500_MC springs_NN2 in_II the_AT supermarket_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM allow_VVI for_IF replenishment_NN1 delay_NN1 while_CS meeting_VVG the_AT demand_NN1 of_IO the_AT inspection/pack-and-shop_NN1 process_NN1 ._. 
+</s>
+<s>
+In_II attempts_NN2 to_TO reduce_VVI the_AT need_NN1 for_IF raw-material_NN1 inventory_NN1 ,_, we_PPIS2 recommend_VV0 that_CST Tuttle_NP1 Springs_NN2 implement_VV0 a_AT1 pull_NN1 system_NN1 at_II the_AT receiving_JJ dock_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ very_RG unlikely_JJ that_CST the_AT company_NN1 's_GE supplier_NN1 is_VBZ willing_JJ to_TO collect_VVI and_CC manufacture_NN1 according_II21 to_II22 kanban_NN1 ;_; however_RR ,_, it_PPH1 is_VBZ still_RR possible_JJ to_TO control_VVI the_AT shipment_NN1 of_IO the_AT steel_NN1 coils_NN2 according_II21 to_II22 the_AT downstream_JJ process_58 '_97 usage_NN1 ._. 
+</s>
+<s>
+We_PPIS2 recommend_VV0 that_CST Tuttle_NP1 Springs_NN2 attach_VV0 a_AT1 withdrawal_NN1 kanban_NN1 to_II each_DD1 coil_NN1 and_CC have_VH0 those_DD2 kanban_NN1 sent_VVN to_II the_AT production_NN1 control_NN1 department_NN1 whenever_RRQV a_AT1 coil_NN1 is_VBZ used_VVN ._. 
+</s>
+<s>
+This_DD1 would_VM allow_VVI production_NN1 control_NN1 can_VM place_VVI its_APPGE orders_NN2 from_II their_APPGE supplier_NN1 based_VVN actual_JJ raw-material_NN1 usage_NN1 ._. 
+</s>
+<s>
+Assuming_VVG that_CST the_AT steel_NN1 springs_NN2 are_VBR used_VVN in_II the_AT production_NN1 of_IO just_RR the_AT exhaust_NN1 springs_NN2 ,_, the_AT need_NN1 for_IF large_JJ raw-material_NN1 inventory_NN1 is_VBZ diminished_VVN ._. 
+</s>
+<s>
+Since_CS the_AT supplier_NN1 will_VM be_VBI shipping_VVG according_II21 to_II22 the_AT downstream_JJ process_NN1 's_GE needs_NN2 (_( it_PPH1 is_VBZ not_XX likely_JJ that_CST the_AT supplier_NN1 is_VBZ willing_JJ to_TO ship_VVI more_DAR than_CSN once_RR a_AT1 day_NNT1 )_) ,_, we_PPIS2 need_VV0 to_TO store_VVI just_RR two_MC coils_NN2 in_II the_AT supermarket_NN1 (_( each_DD1 coil_NN1 yields_VVZ 6,000_MC springs_NN2 )_) in_BCL21 order_BCL22 to_TO have_VHI sufficient_JJ material_NN1 to_TO meet_VVI the_AT customer_NN1 's_GE demand_NN1 for_IF exhaust_NN1 springs_NN2 ._. 
+</s>
+<s>
+Since_CS the_AT kanban_JJ size_NN1 we_PPIS2 recommended_VVD is_VBZ just_RR 2,750_MC springs_NN2 ,_, just_RR 2,750_MC springs_NN2 will_VM be_VBI manufactured_VVN at_II a_AT1 time_NNT1 ;_; therefore_RR ,_, we_PPIS2 need_VV0 to_TO implement_VVI a_AT1 pull_NN1 system_NN1 at_II the_AT shipping_NN1 dock_NN1 as_RR21 well_RR22 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ impractical_JJ to_TO ship_VVI just_RR a_AT1 batch_NN1 of_IO 2,750_MC springs_NN2 (_( this_DD1 would_VM require_VVI the_AT company_NN1 to_TO ship_VVI three_MC times_NNT2 a_AT1 day_NNT1 in_BCL21 order_BCL22 to_TO meet_VVI daily_RR demand_VV0 )_) ,_, so_CS Tuttle_NP1 Springs_NN2 needs_VVZ somewhere_RL to_TO store_VVI this_DD1 batch_NN1 of_IO finished_JJ exhaust_NN1 springs_NN2 before_II the_AT total_JJ demand_NN1 is_VBZ accumulated_VVN ._. 
+</s>
+<s>
+Storing_VVG the_AT daily_JJ demand_NN1 of_IO 8,250_MC springs_NN2 in_II this_DD1 supermarket_NN1 makes_VVZ sense_NN1 because_CS this_DD1 supermarket_NN1 will_VM be_VBI the_AT closest_RRT to_II the_AT customer_NN1 ._. 
+</s>
+<s>
+This_DD1 amount_NN1 is_VBZ also_RR sufficient_JJ because_CS shipments_NN2 to_II the_AT customer_NN1 will_VM be_VBI made_VVN daily_RR ._. 
+</s>
+<s>
+By_II utilizing_VVG supermarket_NN1 pull_VV0 systems_NN2 ,_, Tuttle_NP1 Springs_NN2 needs_VVZ to_TO schedule_VVI just_RR one_MC1 process_NN1 in_II the_AT future_JJ value-stream_NN1 the_AT pacemaker_NN1 process_NN1 ._. 
+</s>
+<s>
+Material_NN1 transfers_NN2 downstream_RL from_II the_AT pacemaker_NN1 process_NN1 to_II the_AT finished-goods_NN2 supermarket_NN1 must_VM flow_VVI continuously_RR ;_; therefore_RR ,_, we_PPIS2 recommend_VV0 that_CST the_AT inspection/pack-and-ship_NN1 process_NN1 be_VBI the_AT pacemaker_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_56 not_56 make_VVI any_DD process_NN1 further_RRR upstream_RL the_AT pacemaker_NN1 since_CS we_PPIS2 are_VBR planning_VVG to_TO set_VVI up_RP a_AT1 supermarket_NN1 between_II the_AT heat-setting_NN1 and_CC inspection/pack-and-ship_NN1 processes_NN2 ._. 
+</s>
+<s>
+By_II leveling_VVG the_AT workload_NN1 at_II the_AT pacemaker_NN1 process_NN1 ,_, we_PPIS2 can_VM distribute_VVI the_AT production_NN1 of_IO the_AT exhaust_NN1 springs_NN2 evenly_RR throughout_II each_DD1 work_NN1 day_NNT1 ._. 
+</s>
+<s>
+To_TO attain_VVI a_AT1 level_JJ workload_NN1 ,_, we_PPIS2 recommend_VV0 placing_VVG a_AT1 load-leveling_JJ box_NN1 near_II the_AT inspection/pack-and-ship_NN1 workstation_NN1 from_II which_DDQ the_AT operator_NN1 will_VM pull_VVI withdrawal_NN1 kanban_JJ one-at-a-time_NNT1 at_II the_AT pitch_NN1 increment_NN1 of_IO 21,588_MC seconds_NNT2 (_( takt_VV0 time_NNT1 times_NNT2 pack_VV0 size_NN1 =_FO 7.85_MC seconds/piece_FU x_II 2,750_MC pieces/pack_FU )_) ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT consistent_JJ increment_NN1 of_IO work_NN1 we_PPIS2 recommend_VV0 Tuttle_NP1 Springs_NN2 release_VV0 and_CC take_VV0 away_RL at_II the_AT pacemaker_NN1 process_NN1 is_VBZ 21,588_MC seconds_NNT2 ._. 
+</s>
+<s>
+This_DD1 increment_NN1 of_IO 21,588_MC seconds_NNT2 is_VBZ roughly_RR a_AT1 third_MD of_IO the_AT available_JJ work_NN1 time_NNT1 per_II day_NNT1 of_IO 64,800_MC ._. 
+</s>
+<s>
+Again_RT ,_, a_AT1 kanban_JJ size_NN1 of_IO 2,750_MC springs_NN2 is_VBZ ideal_JJ since_CS this_DD1 is_VBZ exactly_RR a_AT1 third_MD of_IO the_AT daily_JJ customer_NN1 demand_NN1 of_IO 8,250_MC springs_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, Tuttle_NP1 Springs_NN2 would_VM complete_VVI production_NN1 of_IO one-third_MF of_IO the_AT daily_JJ customer_NN1 demand_NN1 within_II one-third_MF of_IO the_AT available_JJ work_NN1 time_NNT1 and_CC meet_VV0 the_AT daily_JJ demand_NN1 of_IO the_AT customer_NN1 after_II three_MC increments_NN2 of_IO work_NN1 are_VBR released_VVN ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 for_IF Tuttle_NP1 Spring_NN1 's_GE future_JJ state_NN1 to_TO progress_VVI as_CSA we_PPIS2 have_VH0 recommended_VVN ,_, improvements_NN2 must_VM be_VBI made_VVN in_II the_AT actual_JJ processes_NN2 as_RR21 well_RR22 ._. 
+</s>
+<s>
+Although_CS we_PPIS2 did_VDD not_XX consider_VVI changeover_NN1 time_NNT1 in_II developing_VVG our_APPGE previous_JJ recommendations_NN2 because_CS we_PPIS2 do_VD0 not_XX know_VVI enough_DD information_NN1 about_II the_AT other_JJ products_NN2 Tuttle_NP1 Springs_NN2 manufactures_VVZ ,_, reduction_NN1 in_II changeover_NN1 time_NNT1 in_II each_DD1 current-state_JJ process_NN1 is_VBZ recommended_VVN in_II hand_NN1 with_IW reduction_NN1 in_II lot_NN1 size_NN1 ._. 
+</s>
+<s>
+Both_DB2 improvements_NN2 would_VM allow_VVI for_IF better_JJR accommodation_NN1 for_IF fluctuations_NN2 in_II demand_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT changeover_NN1 time_NNT1 of_IO inspection_NN1 is_VBZ currently_RR just_RR 60_MC seconds_NNT2 ,_, it_PPH1 is_VBZ feasible_JJ to_TO decrease_VVI it_PPH1 to_TO zero_VVI seconds_NNT2 in_II the_AT immediate_JJ future_NN1 ._. 
+</s>
+<s>
+The_AT changeover_NN1 times_NNT2 of_IO the_AT remaining_JJ processes_NN2 ,_, except_CS pack-and-ship_JJ ,_, are_VBR significant_JJ ;_; therefore_RR ,_, reducing_VVG them_PPHO2 to_TO zero_VVI is_VBZ not_XX likely_JJ in_II the_AT near_JJ future_NN1 ._. 
+</s>
+<s>
+We_PPIS2 decided_VVD that_CST it_PPH1 would_VM be_VBI more_RGR realistic_JJ to_TO reduce_VVI these_DD2 changeover_NN1 times_NNT2 by_II 50_MC percent_NNU ._. 
+</s>
+<s>
+Specifically_RR ,_, we_PPIS2 would_VM like_VVI to_TO see_VVI heat-setting_NN1 's_GE cycle_NN1 time_NNT1 decrease_NN1 from_II 1,200_MC seconds_NNT2 to_II 600_MC seconds_NNT2 ,_, tumbling_JJ 's_GE changeover_NN1 time_NNT1 decrease_NN1 from_II 600_MC seconds_NNT2 to_II 300_MC seconds_NNT2 ,_, and_CC coiling_VVG ,_, stress-relieving_NN1 ,_, and_CC grinding_NN1 's_GE combined_JJ changeover_NN1 time_NNT1 decrease_NN1 from_II 14,400_MC seconds_NNT2 to_II 7,200_MC seconds_NNT2 ._. 
+</s>
+<s>
+We_PPIS2 assumed_VVD pack-and-ship_NN1 's_GE changeover_NN1 time_NNT1 is_VBZ already_RR zero_MC ,_, so_CS we_PPIS2 do_VD0 n't_XX need_VVI to_TO make_VVI any_DD improvements_NN2 here_RL ._. 
+</s>
+<s>
+Furthermore_RR ,_, we_PPIS2 recommend_VV0 improving_VVG the_AT reliability_NN1 of_IO each_DD1 process_NN1 by_II increasing_VVG their_APPGE uptime_NNT1 ._. 
+</s>
+<s>
+Fortunately_RR ,_, the_AT uptime_NNT1 of_IO each_DD1 of_IO the_AT current-state_JJ processes_NN2 is_VBZ either_RR 100%_NNU or_CC near_II 100%_NNU ._. 
+</s>
+<s>
+Since_CS the_AT uptime_NNT1 of_IO pack-and-ship_NN1 is_VBZ already_RR 100%_NNU there_RL is_VBZ no_AT need_NN1 to_TO improve_VVI here_RL ._. 
+</s>
+<s>
+The_AT 90%_NNU uptimes_NNT2 of_IO the_AT inspection_NN1 ,_, tumbling_VVG ,_, grinder_NN1 ,_, stress-relieving_NN1 ,_, and_CC coiling_VVG processes_NN2 can_VM be_VBI easily_RR increased_VVN to_II 100%_NNU in_II the_AT near_JJ future_NN1 ._. 
+</s>
+<s>
+We_PPIS2 thought_VVD the_AT 80%_NNU uptime_NNT1 of_IO the_AT heat-setting_JJ process_NN1 would_VM be_VBI more_RGR difficult_JJ to_TO increase_VVI to_II 100%_NNU in_II the_AT immediate_JJ future_NN1 ,_, so_CS we_PPIS2 aimed_VVD to_TO increase_VVI it_PPH1 to_II just_RR 90%_NNU ._. 
+</s>
+<s>
+These_DD2 process_VV0 improvements_NN2 are_VBR what_DDQ will_VM make_VVI our_APPGE future-state_JJ concepts_NN2 possible_JJ and_CC are_VBR reflected_VVN on_II the_AT drawing_NN1 of_IO the_AT future-state_JJ value_NN1 stream_NN1 map_NN1 (_( see_VV0 Appendix_NN1 B_ZZ1 )_) ._. 
+</s>
+<s>
+Indeed_RR ,_, our_APPGE future-state_JJ recommendations_NN2 lead_VV0 to_II a_AT1 substantial_JJ amount_NN1 of_IO waste_NN1 reduction_NN1 and_CC pave_VV0 Tuttle_NP1 Springs_96 '_97 way_NN1 towards_II lean_JJ manufacturing_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ reflected_VVN in_II our_APPGE improved_JJ production_NN1 lead_NN1 time_NNT1 ._. 
+</s>
+<s>
+With_IW the_AT implementation_NN1 of_IO our_APPGE recommendations_NN2 ,_, the_AT production_NN1 lead_NN1 time_NNT1 reduces_VVZ from_II 19.44_MC days_NNT2 to_II 4.78_MC days_NNT2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ an_AT1 incredible_JJ reduction_NN1 of_IO 75%_NNU ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO move_VVI from_II the_AT current_JJ state_NN1 to_II the_AT future_NN1 state_VV0 the_AT changes_NN2 being_VBG made_VVN to_II the_AT system_NN1 has_VHZ to_TO start_VVI within_II the_AT pacemaker_NN1 loop_NN1 ._. 
+</s>
+<s>
+The_AT pacemaker_NN1 is_VBZ the_AT process_NN1 that_CST tells_VVZ the_AT rest_NN1 of_IO the_AT processes_NN2 how_RRQ many_DA2 parts_NN2 need_VV0 to_TO be_VBI made_VVN ._. 
+</s>
+<s>
+By_II implementing_VVG changes_NN2 elsewhere_RL in_II the_AT system_NN1 before_II implementing_VVG the_AT changes_NN2 at_II the_AT pacemaker_NN1 ,_, the_AT ending_NN1 system_NN1 could_VM end_VVI up_RP being_VBG no_RR where_CS close_RR to_II the_AT intended_JJ future_JJ state_NN1 ._. 
+</s>
+<s>
+During_II the_AT first_MD month_NNT1 ,_, our_APPGE team_NN1 would_VM introduce_VVI smaller_JJR pack_NN1 sizes_NN2 ,_, daily_JJ shipment_NN1 of_IO finished_JJ parts_NN2 ,_, increase_VV0 the_AT uptime_NNT1 of_IO inspection_NN1 ,_, and_CC develop_VV0 a_AT1 continuous_JJ flow_NN1 from_II inspection_NN1 to_II pack_NN1 and_CC ship_NN1 ._. 
+</s>
+<s>
+Through_II the_AT completion_NN1 of_IO these_DD2 steps_NN2 we_PPIS2 would_VM see_VVI a_AT1 pack_NN1 size_NN1 of_IO 2,750_MC pieces_NN2 per_II box_NN1 ,_, 8,250_MC pieces_NN2 delivered_VVD each_DD1 day_NNT1 ,_, the_AT inspection_NN1 uptime_NNT1 will_VM be_VBI 100%_NNU ,_, and_CC the_AT inspection/pack_NN1 and_CC ship_NN1 cell_NN1 will_VM be_VBI operated_VVN by_II one_MC1 person_NN1 and_CC contain_VV0 no_AT works_NN in_II progress_NN1 between_II stations_NN2 ._. 
+</s>
+<s>
+In_II month_NNT1 5_MC ,_, our_APPGE team_NN1 will_VM finish_VVI implementing_VVG the_AT changes_NN2 in_II the_AT pacemaker_NN1 loop_NN1 by_II developing_VVG a_AT1 pull_NN1 system_NN1 that_CST contains_VVZ the_AT finished_JJ goods_NN2 supermarket_NN1 ,_, and_CC would_VM eliminate_VVI the_AT monthly_JJ schedule_NN1 ._. 
+</s>
+<s>
+The_AT finished_JJ goods_NN2 supermarket_NN1 will_VM contain_VVI only_RR one_MC1 day_NNT1 's_GE worth_NN1 of_IO finished_JJ goods_NN2 ._. 
+</s>
+<s>
+Also_RR in_II month_NNT1 5_MC ,_, our_APPGE team_NN1 will_VM begin_VVI implementing_VVG the_AT changes_NN2 in_II the_AT heat_NN1 setting_NN1 loop_NN1 ._. 
+</s>
+<s>
+The_AT heat_NN1 setting_VVG uptime_NNT1 will_VM be_VBI increased_VVN to_II 90%_NNU and_CC a_AT1 pull_NN1 system_NN1 containing_VVG the_AT heated_JJ parts_NN2 supermarket_NN1 will_VM be_VBI developed_VVN ._. 
+</s>
+<s>
+The_AT heated_JJ parts_NN2 supermarket_NN1 will_VM contain_VVI only_RR .66_MC days_NNT2 worth_NN1 of_IO heated_JJ inventory_NN1 ._. 
+</s>
+<s>
+Starting_VVG in_II month_NNT1 6_MC the_AT heat_NN1 setting_NN1 changeover_NN1 time_NNT1 will_VM be_VBI reduced_VVN to_II 60_MC seconds_NNT2 ,_, and_CC our_APPGE team_NN1 will_VM begin_VVI changes_NN2 in_II the_AT tumbling_JJ loop_NN1 ._. 
+</s>
+<s>
+Our_APPGE team_NN1 will_VM begin_VVI to_TO develop_VVI a_AT1 pull_NN1 system_NN1 that_CST will_VM contain_VVI the_AT tumbled_JJ parts_NN2 supermarket_NN1 ,_, and_CC will_VM also_RR eliminate_VVI the_AT monthly_JJ schedule_NN1 ._. 
+</s>
+<s>
+The_AT tumble_NN1 parts_NN2 supermarket_NN1 will_VM contain_VVI only_RR .33_MC days_NNT2 worth_NN1 of_IO tumbled_JJ parts_NN2 inventory_NN1 ._. 
+</s>
+<s>
+Month_NNT1 7_MC ,_, will_VM contain_VVI the_AT last_MD of_IO the_AT changes_NN2 to_II the_AT tumbling_JJ loop_NN1 and_CC see_VV0 the_AT start_NN1 of_IO the_AT changes_NN2 to_II the_AT coiling/stress_NN1 relieving/grinder_FU loop_NN1 ._. 
+</s>
+<s>
+The_AT changeover_NN1 time_NNT1 for_IF the_AT tumbling_JJ loop_NN1 will_VM be_VBI reduced_VVN to_II 300_MC seconds_NNT2 ,_, and_CC the_AT uptime_NNT1 of_IO the_AT tumbler_NN1 will_VM be_VBI increased_VVN to_II 100%_NNU ._. 
+</s>
+<s>
+Also_RR ,_, a_AT1 continuous_JJ flow_NN1 will_VM be_VBI developed_VVN from_II coiling_NN1 to_II stress_NN1 relieving_VVG to_II grinder_NN1 ._. 
+</s>
+<s>
+The_AT new_JJ cell_NN1 will_VM contain_VVI only_RR one_MC1 operator_NN1 ,_, and_CC no_AT works_NN in_II progress_NN1 between_II the_AT machines_NN2 ._. 
+</s>
+<s>
+The_AT overall_JJ changeover_NN1 time_NNT1 for_IF the_AT coiling/stress_NN1 relieving/grinder_FU loop_NN1 will_VM be_VBI reduced_VVN to_II 7200_MC seconds_NNT2 during_II month_NNT1 8_MC ._. 
+</s>
+<s>
+While_CS in_II month_NNT1 9_MC ,_, the_AT uptime_NNT1 of_IO the_AT coiling/stress_NN1 relieving/grinder_FU cell_NN1 will_VM be_VBI increased_VVN to_II 100%_NNU ,_, and_CC the_AT team_NN1 will_VM develop_VVI a_AT1 pull_NN1 system_NN1 using_VVG a_AT1 grinded_JJ parts_NN2 supermarket_NN1 and_CC eliminating_VVG the_AT monthly_JJ schedule_NN1 ._. 
+</s>
+<s>
+The_AT grinded_JJ parts_NN2 supermarket_NN1 will_VM contain_VVI only_RR .33_MC days_NNT2 worth_NN1 of_IO grinded_JJ parts_NN2 inventory_NN1 ._. 
+</s>
+<s>
+The_AT last_MD change_NN1 to_II the_AT system_NN1 will_VM be_VBI implemented_VVN in_II month_NNT1 10_MC ,_, and_CC will_VM occur_VVI in_II the_AT supplier_NN1 loop_NN1 ._. 
+</s>
+<s>
+A_AT1 pull_NN1 system_NN1 will_VM be_VBI developed_VVN ,_, eliminating_VVG the_AT monthly_JJ schedule_NN1 and_CC containing_VVG the_AT coil_NN1 supermarket_NN1 ,_, which_DDQ will_VM contain_VVI only_RR .73_MC days_NNT2 worth_NN1 of_IO coil_NN1 ._. 
+</s>
+<s>
+Moving_VVG from_II current_JJ state_NN1 to_II future_JJ state_NN1 ,_, one_MC1 of_IO the_AT most_RGT important_JJ factors_NN2 is_VBZ managing_VVG the_AT people_NN involved_JJ with_IW the_AT changes_NN2 the_AT operators_NN2 ._. 
+</s>
+<s>
+We_PPIS2 need_VV0 to_TO make_VVI sure_JJ certain_JJ changes_NN2 are_VBR documented_VVN and_CC implemented_VVN as_CSA standard_JJ work_NN1 ._. 
+</s>
+<s>
+Without_IW the_AT standardization_NN1 of_IO steps_NN2 for_IF the_AT operators_NN2 ,_, any_DD benefits_NN2 that_CST should_VM come_VVI from_II structural_JJ or_CC procedural_JJ changes_NN2 will_VM not_XX be_VBI fully_RR realized_VVN ._. 
+</s>
+<s>
+People_NN also_RR need_VV0 to_TO be_VBI coached_VVN on_II how_RRQ to_TO accept_VVI any_DD added_JJ or_CC different_JJ responsibilities_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, we_PPIS2 are_VBR consolidating_VVG the_AT coiling_NN1 ,_, stress-relieving_NN1 ,_, and_CC grinding_JJ duties_NN2 into_II one_MC1 work_NN1 cell_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM require_VVI one_MC1 of_IO the_AT operators_NN2 to_TO learn_VVI how_RRQ to_TO operate_VVI all_DB three_MC pieces_NN2 of_IO equipment_NN1 ._. 
+</s>
+<s>
+Sadly_RR ,_, this_DD1 will_VM require_VVI the_AT other_JJ operator_NN1 to_TO be_VBI reassigned_VVN to_II another_DD1 job_NN1 around_II the_AT plant_NN1 ._. 
+</s>
+<s>
+This_DD1 reassignment_NN1 issue_NN1 will_VM have_VHI to_TO be_VBI handled_VVN face-to-face_JJ and_CC it_PPH1 will_VM need_VVI to_TO be_VBI put_VVN in_II the_AT proper_JJ context_NN1 ._. 
+</s>
+<s>
+They_PPHS2 will_VM want_VVI to_TO know_VVI why_RRQ they_PPHS2 are_VBR being_VBG reassigned_VVN and_CC they_PPHS2 will_VM think_VVI that_CST someone_PN1 may_VM be_VBI OUT_RP to_TO get_VVI them_PPHO2 ._. 
+</s>
+<s>
+The_AT management_NN1 responsible_JJ for_IF implementing_VVG this_DD1 consolidation_NN1 effort_NN1 will_VM need_VVI to_TO make_VVI sure_JJ the_AT displaced_JJ operators_NN2 know_VV0 why_RRQ changes_NN2 are_VBR being_VBG made_VVN ._. 
+</s>
+<s>
+We_PPIS2 are_VBR also_RR consolidating_VVG the_AT inspection_NN1 and_CC pack-and-ship_JJ steps_NN2 ._. 
+</s>
+<s>
+The_AT same_DA considerations_NN2 as_CSA the_AT coiling/stress-relieving/grinding_NN1 apply_VV0 as_CS31 far_CS32 as_CS33 operators_NN2 are_VBR concerned_JJ ._. 
+</s>
+<s>
+Changes_NN2 that_CST are_VBR not_XX "_" standard_JJ work_NN1 "_" need_NN1 to_TO be_VBI discussed_VVN with_IW the_AT operators_NN2 that_CST are_VBR affected_VVN ,_, such_II21 as_II22 how_RRQ material_NN1 and_CC information_NN1 flows_VVZ to_II their_APPGE area_NN1 ._. 
+</s>
+<s>
+This_DD1 seems_VVZ like_II a_AT1 necessary_JJ step_NN1 in_BCL21 order_BCL22 for_IF them_PPHO2 to_TO accept_VVI and_CC actually_RR implement_VVI the_AT changes_NN2 suggested_VVN by_II management_NN1 (_( i.e._REX point_NN1 kaizen_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ relevant_JJ for_IF the_AT successful_JJ changeover_NN1 from_II a_AT1 push_NN1 system_NN1 to_II a_AT1 pull_NN1 system_NN1 regulated_VVN by_II "_" kanban_NN1 "_" ._. 
+</s>
+<s>
+We_PPIS2 should_VM be_VBI able_JK to_TO completely_RR overhaul_VVI the_AT system_NN1 in_II around_RG twelve_MC months_NNT2 ._. 
+</s>
+<s>
+We_PPIS2 are_VBR assuming_VVG that_DD1 certain_JJ changes_NN2 like_II push-to-pull_JJ steps_NN2 only_RR take_VV0 one_MC1 or_CC two_MC months_NNT2 ._. 
+</s>
+<s>
+We_PPIS2 are_VBR also_RR assuming_VVG that_CST we_PPIS2 can_VM achieve_VVI the_AT aforementioned_JJ change-over_NN1 time_NNT1 reductions_NN2 (_( see_VV0 attached_JJ yearly_JJ implementation_NN1 schedule_NN1 )_) ._. 
+</s>
+<s>
+Inventory_NN1 reduction_NN1 to_TO zero_VVI WIP_NN1 could_VM take_VVI longer_RRR than_CSN we_PPIS2 have_VH0 initially_RR estimated_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS we_PPIS2 may_VM have_VHI underestimated_VVN the_AT time_NNT1 required_VVN to_TO properly_RR determine_VVI material_NN1 flows_VVZ to_II the_AT processes_NN2 that_CST are_VBR going_VVGK to_TO zero_VVI WIP_NN1 ._. 
+</s>

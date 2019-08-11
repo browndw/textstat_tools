@@ -1,0 +1,72 @@
+<s>
+Because_CS quantum_NN1 states_NN2 can_56 not_56 in_RR21 general_RR22 be_VBI copied_VVN ,_, applications_NN2 of_IO quantum_NN1 information_NN1 science_NN1 such_II21 as_II22 quantum_NN1 communication_NN1 ,_, quantum_NN1 teleportation_NN1 of_IO matter_NN1 ,_, and_CC distributed_JJ quantum_NN1 computation_NN1 require_VV0 entanglement_NN1 of_IO a_AT1 stable_JJ quantum_NN1 memory_NN1 and_CC the_AT quantum_NN1 communication_NN1 channel_NN1 ._. 
+</s>
+<s>
+The_AT authors_NN2 of_IO this_DD1 paper_NN1 report_NN1 direct_JJ observation_NN1 of_IO such_DA entanglement_NN1 with_IW a_AT1 single_JJ trapped_JJ 111Cd+_FO ion_NN1 representing_VVG a_AT1 bit_NN1 of_IO ideal_JJ quantum_NN1 memory_NN1 and_CC a_AT1 single_JJ photon_NN1 spontaneously_RR emitted_VVD from_II the_AT ion_NN1 representing_VVG the_AT ideal_JJ quantum_NN1 communication_NN1 channel_NN1 ._. 
+</s>
+<s>
+They_PPHS2 directly_RR verify_VV0 the_AT entanglement_NN1 via_II coincidence_NN1 measurements_NN2 between_II the_AT quantum_NN1 state_NN1 of_IO the_AT ion_NN1 and_CC the_AT polarization_NN1 state_NN1 of_IO the_AT photon_NN1 ._. 
+</s>
+<s>
+In_II the_AT experiment_NN1 ,_, a_AT1 single_JJ 111Cd+_FO ion_NN1 is_VBZ trapped_VVN and_CC laser_NN1 cooled_VVN in_II an_AT1 asymmetric-quadrupole_JJ r.f._NNU trap_NN1 ._. 
+</s>
+<s>
+The_AT two_MC qubit_NN1 states_NN2 of_IO the_AT ion_NN1 are_VBR represented_VVN by_II two_MC ground-state_JJ hyperfine_JJ sub-levels_NN2 of_IO Cadmium_NN1 ._. 
+</s>
+<s>
+The_AT appropriate_JJ levels_NN2 ,_, denoted_VVN as_II The_AT authors_NN2 define_VV0 the_AT qubit_NN1 states_NN2 of_IO the_AT photon_NN1 by_II the_AT two_MC possible_JJ polarization_NN1 states_NN2 of_IO the_AT photon_NN1 ;_; Ideally_RR ,_, one_PN1 would_VM expect_VVI perfect_JJ entanglement_NN1 since_CS the_AT two_MC decay_NN1 channels_NN2 are_VBR equally_RR probable_JJ ._. 
+</s>
+<s>
+The_AT authors_NN2 use_VV0 the_AT entanglement_NN1 fidelity_NN1 as_II the_AT entanglement_NN1 witness_NN1 which_DDQ detects_VVZ the_AT degree_NN1 of_IO entanglement_NN1 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+The_AT entanglement_NN1 fidelity_NN1 ,_, or_CC projection_NN1 of_IO the_AT system_NN1 onto_II a_AT1 maximally_RR entangled_JJ state_NN1 ,_, is_VBZ defined_VVN as_II The_AT authors_NN2 ,_, however_RR ,_, expect_VV0 to_TO generate_VVI the_AT non-maximally_RR entangled_JJ state_NN1 As_CSA first_MD evidence_NN1 that_CST they_PPHS2 generate_VV0 a_AT1 highly_RR entangled_JJ state_NN1 such_II21 as_II22 given_JJ above_RL ,_, the_AT authors_NN2 compute_VV0 the_AT conditional_JJ probabilities_NN2 for_IF the_AT atomic_JJ qubit_NN1 states_NN2 given_VVN the_AT photon_NN1 qubit_NN1 state_NN1 ,_, averaged_VVN over_RG 1000_MC successful_JJ coincidence_NN1 measurements_NN2 ._. 
+</s>
+<s>
+The_AT conditional_JJ probabilities_NN2 they_PPHS2 found_VVD are_VBR as_CSA follows_VVZ :_: P(H)=0.970.01_FO ,_, P(H)=0.030.01_FO ,_, P(V)=0.060.01_FO ,_, P(V)=0.940.01_FO ._. 
+</s>
+<s>
+Although_CS these_DD2 conditional_JJ probabilities_NN2 show_VV0 that_CST a_AT1 given_JJ photon_NN1 polarization_NN1 is_VBZ associated_VVN with_IW a_AT1 distinct_JJ atomic_JJ qubit_NN1 state_NN1 ,_, it_PPH1 does_VDZ not_XX prove_VVI entanglement_NN1 ,_, as_CSA a_AT1 statistical_JJ mixture_NN1 of_IO To_TO verify_VVI entanglement_NN1 ,_, the_AT authors_NN2 used_VVD the_AT /2_MF waveplate_VV0 to_TO rotate_VVI the_AT basis_NN1 for_IF photon_NN1 qubit_NN1 measurement_NN1 by_II 45_MC and_CC applied_JJ microwaves_NN2 driving_VVG transitions_NN2 among_II the_AT atomic_JJ qubit_NN1 states_VVZ to_TO rotate_VVI the_AT basis_NN1 of_IO atomic_JJ qubit_NN1 states_VVZ by_II 45_MC ._. 
+</s>
+<s>
+They_PPHS2 then_RT varied_VVD the_AT relative_JJ phase_NN1 of_IO the_AT photon_NN1 and_CC atomic_JJ qubit_NN1 rotations_NN2 and_CC plotted_VVD the_AT conditional_JJ probabilities_NN2 as_II a_AT1 function_NN1 of_IO relative_JJ phase_NN1 difference_NN1 ,_, as_CSA shown_VVN below_RL in_II Fig_NN1 1_MC1 ._. 
+</s>
+<s>
+If_CS the_AT atomic_JJ and_CC photonic_JJ qubits_NN2 were_VBDR not_XX entangled_VVN ,_, but_CCB instead_RR prepared_VVN in_II a_AT1 statistically_RR mixed_VVN state_NN1 ,_, all_DB probabilities_NN2 at_II =0_FO would_VM be_VBI 0.5_MC ._. 
+</s>
+<s>
+Instead_RR ,_, due_II21 to_II22 the_AT fact_NN1 that_CST the_AT authors_NN2 created_VVD a_AT1 coherent_JJ entangled_JJ pure_JJ state_NN1 ,_, the_AT probabilities_NN2 are_VBR maximally_RR correlated_VVN at_II =0_FO and_CC oscillate_VV0 between_II 0_MC and_CC 1_MC1 depending_II21 on_II22 the_AT relative_JJ phase_NN1 difference_NN1 of_IO the_AT basis_NN1 rotations_NN2 ._. 
+</s>
+<s>
+The_AT authors_NN2 use_VV0 the_AT conditional_JJ probabilities_NN2 at_II the_AT point_NN1 of_IO maximal_JJ correlation_NN1 to_TO calculate_VVI the_AT fidelity_NN1 of_IO entanglement_NN1 ._. 
+</s>
+<s>
+They_PPHS2 find_VV0 F0.87_FO ,_, lower_JJR than_CSN the_AT F=0.97_FO expected_VVN for_IF the_AT state_NN1 they_PPHS2 excite_VV0 due_II21 to_II22 several_DA2 experimental_JJ factors_NN2 ,_, but_CCB well_RR above_II the_AT entanglement_NN1 threshold_NN1 of_IO F=0.5_FO ._. 
+</s>
+<s>
+They_PPHS2 ,_, therefore_RR ,_, directly_RR observe_VV0 entanglement_NN1 between_II a_AT1 trapped_JJ ion_NN1 and_CC a_AT1 spontaneously_RR emitted_JJ photon_NN1 ._. 
+</s>
+<s>
+The_AT authors_NN2 note_VV0 that_CST ,_, in_II31 addition_II32 to_II33 the_AT more_RGR obvious_JJ application_NN1 to_II quantum_NN1 communication_NN1 ,_, this_DD1 type_NN1 of_IO entanglement_NN1 can_VM also_RR be_VBI used_VVN to_TO generate_VVI entangled_JJ states_NN2 of_IO remotely_RR located_VVN trapped_JJ ion_NN1 qubits_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ done_VDN via_II the_AT ion-photon_JJ coupling_NN1 scheme_NN1 ,_, or_CC "_" Partial_JJ Bell_NN1 Measurement_NN1 "_" in_II which_DDQ two_MC ions_NN2 spontaneously_RR emit_VV0 photons_NN2 with_IW which_DDQ they_PPHS2 are_VBR entangled_VVN and_CC the_AT two_MC photons_NN2 are_VBR then_RT mode_NN1 selected_VVN and_CC combined_VVN on_II a_AT1 beamsplitter_JJR ._. 
+</s>
+<s>
+Coincidence_NN1 measurements_NN2 as_CSA described_VVN above_RL ensure_VV0 that_CST the_AT corresponding_JJ ions_NN2 are_VBR entangled_VVN ._. 
+</s>
+<s>
+The_AT probability_NN1 of_IO such_DA a_AT1 coincidence_NN1 measurement_NN1 is_VBZ small_JJ but_CCB ,_, when_CS it_PPH1 occurs_VVZ ,_, success_NN1 is_VBZ known_VVN and_CC the_AT entanglement_NN1 can_VM be_VBI used_VVN to_TO implement_VVI quantum_NN1 gates_NN2 ._. 
+</s>
+<s>
+Because_CS the_AT ion-photon_JJ entanglement_NN1 described_VVN above_RL can_VM be_VBI used_VVN to_TO entangle_VVI a_AT1 stable_JJ quantum_NN1 memory_NN1 and_CC a_AT1 quantum_NN1 communication_NN1 channel_NN1 or_CC to_TO entangle_VVI to_II two_MC ionic_JJ qubits_NN2 ,_, this_DD1 work_NN1 represents_VVZ an_AT1 important_JJ advance_NN1 towards_II the_AT physical_JJ realization_NN1 of_IO different_JJ quantum_NN1 information_NN1 systems_NN2 ._. 
+</s>
+<s>
+The_AT authors_NN2 assert_VV0 that_CST atom-photon_JJ entanglement_NN1 has_VHZ been_VBN implicit_JJ in_II many_DA2 previous_JJ experimental_JJ systems_NN2 ;_; however_RR ,_, this_DD1 paper_NN1 represents_VVZ the_AT first_MD direct_JJ observation_NN1 of_IO atom-photon_JJ entanglement_NN1 ._. 
+</s>
+<s>
+The_AT paper_NN1 includes_VVZ a_AT1 reliable_JJ scheme_NN1 for_IF initialization_NN1 and_CC detection_NN1 of_IO entangled_JJ atom-photon_JJ states_NN2 and_CC provides_VVZ a_AT1 thorough_JJ study_NN1 of_IO the_AT dependence_NN1 of_IO the_AT degree_NN1 of_IO entanglement_NN1 on_II the_AT relative_JJ phase_NN1 between_II the_AT atom_NN1 and_CC photon_NN1 measurement_NN1 bases_NN2 ._. 
+</s>
+<s>
+For_IF these_DD2 reasons_NN2 ,_, this_DD1 paper_NN1 represents_VVZ a_AT1 significant_JJ contribution_NN1 to_II the_AT quantum_NN1 information_NN1 literature_NN1 and_CC is_VBZ likely_JJ to_TO be_VBI well-referenced_JJ for_IF years_NNT2 to_TO come_VVI ._. 
+</s>

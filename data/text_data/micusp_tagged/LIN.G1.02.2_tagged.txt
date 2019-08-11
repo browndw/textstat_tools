@@ -1,0 +1,417 @@
+<s>
+The_AT double_JJ object_NN1 ,_, (_( V_ZZ1 NP1_FO NP2_FO )_) ,_, construction_NN1 in_II English_NN1 has_VHZ proven_VVN a_AT1 difficult_JJ target_NN1 for_IF analysis_NN1 ._. 
+</s>
+<s>
+In_II a_AT1 seven-hundred-plus-page_JJ textbook_NN1 on_II Government_NN1 and_CC Binding_JJ Theory_NN1 ,_, Haegeman_NP1 (_( 1994_MC )_) devotes_VVZ slightly_RR more_DAR than_CSN one_MC1 page_NN1 ,_, in_II the_AT chapter_NN1 on_II Case_NN1 theory_NN1 ,_, and_CC several_DA2 footnotes_NN2 to_II a_AT1 discussion_NN1 of_IO the_AT double_JJ object_NN1 construction_NN1 in_II English_NN1 (_( pp._NNU2 187-188_MCMC )_) ._. 
+</s>
+<s>
+She_PPHS1 does_VDZ ,_, however_RR ,_, note_VVI that_DD1 ,_, although_CS "_" we_PPIS2 can_56 not_56 go_VVI into_II all_DB the_AT details_NN2 here_RL ,_, "_" the_AT "_" issue_NN1 ..._... is_VBZ a_AT1 very_RG interesting_JJ one_PN1 (_( p._NNU 188_MC )_) ._. "_" 
+</s>
+<s>
+I_PPIS1 can_56 not_56 go_VVI into_II all_DB the_AT details_NN2 here_RL either_RR ,_, but_CCB I_PPIS1 can_VM go_VVI into_II some_DD details_NN2 ,_, and_CC some_DD discussion_NN1 ,_, of_IO some_DD observations_NN2 and_CC proposals_NN2 that_CST have_VH0 been_VBN put_VVN forward_RL regarding_II the_AT syntactic_JJ structure_NN1 of_IO English_JJ double_JJ objects_NN2 ._. 
+</s>
+<s>
+Barss_VV0 and_CC Lasnik_NP1 (_( 1986_MC )_) showed_VVD that_CST the_AT structural_JJ relationship_NN1 suggested_VVN by_II the_AT behavior_NN1 of_IO the_AT two_MC noun_NN1 phrases_NN2 was_VBDZ not_XX consistent_JJ with_IW available_JJ analyses_NN2 of_IO the_AT structure_NN1 of_IO double_JJ object_NN1 sentences_NN2 and_CC constraints_NN2 on_II anaphora_NN1 ._. 
+</s>
+<s>
+I_PPIS1 begin_VV0 here_RL with_IW an_AT1 overview_NN1 of_IO the_AT data_NN they_PPHS2 present_VV0 ,_, and_CC a_AT1 discussion_NN1 of_IO their_APPGE suggestions_NN2 to_TO account_VVI for_IF it_PPH1 ,_, before_II moving_VVG on_RP to_II a_AT1 proposal_NN1 by_II Larson_NP1 (_( 1988_MC )_) of_IO a_AT1 structural_JJ analysis_NN1 of_IO double_JJ object_NN1 constructions_NN2 that_CST accounts_VVZ for_IF Barss_NP1 and_CC Lasnik_NP1 's_GE data_NN and_CC my_APPGE own_DA (_( humble_JJ )_) evaluation_NN1 of_IO his_APPGE proposal_NN1 ._. 
+</s>
+<s>
+Barss_VV0 and_CC Lasnik_NP1 (_( 1986_MC )_) observe_VV0 that_CST the_AT relationship_NN1 between_II NP1_FO and_CC NP2_FO is_VBZ "_" asymmetrical_JJ ,_, "_" in_CS21 that_CS22 "_" NP2_FO is_VBZ in_II some_DD sense_NN1 in_II the_AT domain_NN1 of_IO NP1_FO ,_, but_CCB NP1_FO is_VBZ not_XX in_II the_AT domain_NN1 of_IO NP2_FO (_( p._NNU 347_MC )_) ._. "_" 
+</s>
+<s>
+They_PPHS2 describe_VV0 six_MC phenomena_NN2 occurring_VVG in_II anaphoric_JJ (_( co-reference_NN1 )_) relations_NN2 in_II English_NN1 that_CST illustrate_VV0 this_DD1 asymmetry_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM return_VVI shortly_RR to_II the_AT issue_NN1 of_IO what_DDQ is_VBZ meant_VVN by_RP "_" in_II the_AT domain_NN1 of_IO "_" after_II an_AT1 overview_NN1 of_IO the_AT evidence_NN1 presented_VVN of_IO this_DD1 asymmetric_JJ relationship_NN1 ._. 
+</s>
+<s>
+The_AT first_MD phenomenon_NN1 has_VHZ to_TO do_VDI with_IW binding_JJ relationships_NN2 in_II reflexive_NN1 constructions_NN2 ,_, where_CS an_AT1 antecedent_JJ "_" binds_VVZ "_" a_AT1 co-referring_VVG reflexive_NN1 and_CC the_AT meaning_NN1 of_IO the_AT bound_JJ reflexive_NN1 is_VBZ dependent_JJ upon_II the_AT meaning_NN1 of_IO the_AT binder_NN1 :_: while_CS NP1_FO can_VM bind_VVI NP2_FO ,_, the_AT converse_NN1 is_VBZ not_XX possible_JJ ._. 
+</s>
+<s>
+In_II sentences_NN2 such_II21 as_II22 (_( 1_MC1 )_) (_( a_ZZ1 )_) ,_, NP1_FO (_( John_NP1 )_) can_VM co-refer_VVI with_IW ,_, and_CC serve_VVI as_RG antecedent_JJ of_IO ,_, the_AT reflexive_NN1 NP2_FO (_( himself_PPX1 )_) ._. 
+</s>
+<s>
+However_RR ,_, in_II (_( 1_MC1 )_) (_( b_ZZ1 )_) ,_, NP2_FO (_( John_NP1 )_) ,_, can_56 not_56 bind_VVI the_AT reflexive_NN1 NP1_FO (_( p._NNU 347_MC )_) ._. 
+</s>
+<s>
+It_PPH1 also_RR seems_VVZ to_TO be_VBI the_AT case_NN1 that_CST the_AT subject_NN1 NP_NP1 ,_, Bill_NP1 ,_, of_IO the_AT sentences_NN2 in_II (_( 2_MC )_) can_VM bind_VVI himself_PPX1 when_CS it_PPH1 is_VBZ in_II the_AT NP1_FO position_NN1 ,_, as_CSA in_II (_( 2_MC )_) (_( a_ZZ1 )_) ,_, but_CCB not_XX in_II the_AT NP2_FO position_NN1 ,_, as_CSA in_II (_( 2_MC )_) (_( b_ZZ1 )_) .2_MC Though_CS not_XX mentioned_VVN by_II Barss_NP1 and_CC Lasnik_NP1 ,_, sentences_NN2 like_II those_DD2 in_II (_( 2_MC )_) are_VBR evidence_NN1 that_CST the_AT post-verbal_JJ noun_NN1 phrases_NN2 do_VD0 not_XX share_VVI the_AT same_DA structural_JJ relationship_NN1 to_II the_AT subject_NN1 NP_NP1 and_CC could_VM provide_VVI further_RRR support_VV0 for_IF an_AT1 argument_NN1 that_CST NP1_FO and_CC NP2_FO are_VBR not_XX in_II a_AT1 symmetrical_JJ relationship_NN1 ._. 
+</s>
+<s>
+I_PPIS1 return_VV0 to_II this_DD1 later_RRR on_RP ._. 
+</s>
+<s>
+co-reference_NN1 between_II pronouns_NN2 and_CC "_" quantificational_JJ "_" noun_NN1 phrases_NN2 (_( QNPs_NP1 )_) -- noun_NN1 phrases_NN2 with_IW quantifiers_NN2 such_II21 as_II22 every_AT1 or_CC each_DD1 as_II a_AT1 specifier_NN1 --_NN1 exhibits_VVZ the_AT same_DA asymmetry_NN1 with_IW regards_VVZ to_II the_AT NP1_FO and_CC NP2_FO positions_NN2 as_CSA do_VD0 the_AT reflexive_NN1 cases_NN2 ._. 
+</s>
+<s>
+The_AT QNP_NP1 each_DD1 worker_NN1 in_II the_AT NP1_FO position_NN1 binds_VVZ the_AT pronoun_NN1 his_PPGE in_II the_AT NP2_FO in_II (_( 3_MC )_) (_( a_ZZ1 )_) ,_, but_CCB the_AT QNP_NP1 each_DD1 paycheck_NN1 can_56 not_56 bind_VVI the_AT pronoun_NN1 its_APPGE from_II the_AT NP2_FO position_NN1 in_II (_( 3_MC )_) (_( b_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT authors_NN2 relate_VV0 this_DD1 phenomenon_NN1 to_II others_58 '_97 work_NN1 showing_VVG that_CST a_AT1 pronoun_NN1 bound_VVN by_II a_AT1 QNP_NP1 "_" must_VM be_VBI in_II the_AT structural_JJ domain_NN1 of_IO the_AT QNP_NP1 at_II S-Structure_NP1 (_( p._NNU 348_MC )_) ._. "_" 
+</s>
+<s>
+Barss_VV0 and_CC Lasnik_NP1 make_VV0 two_MC observations_NN2 about_II wh-_JJ movement_NN1 out_II21 of_II22 double_JJ object_NN1 constructions_NN2 (_( pp._NNU2 348-349_MCMC )_) ._. 
+</s>
+<s>
+The_AT first_MD ,_, analogous_JJ to_II the_AT QNP_NP1 case_NN1 above_RL and_CC illustrated_VVN in_II (_( 4_MC )_) ,_, is_VBZ that_DD1 a_AT1 wh-_JJ phrase_NN1 extracted_VVN from_II the_AT NP1_FO position_NN1 can_VM bind_VVI a_AT1 pronoun_NN1 in_II NP2_FO ,_, as_CSA which_DDQ worker_NN1 binds_VVZ his_APPGE in_II (_( 4_MC )_) (_( a_ZZ1 )_) ,_, but_CCB a_AT1 wh-_JJ phrase_NN1 extracted_VVN from_II the_AT NP2_FO position_NN1 ,_, as_CSA is_VBZ which_DDQ paycheck_VV0 in_RP (_( 4_MC )_) (_( b_ZZ1 )_) ,_, can_56 not_56 bind_VVI a_AT1 pronoun_NN1 in_II NP1_FO ._. 
+</s>
+<s>
+The_AT second_NNT1 ,_, illustrated_VVN in_II (_( 5_MC )_) ,_, is_VBZ that_DD1 ,_, in_II sentences_NN2 in_II which_DDQ both_DB2 NPs_NP1 are_VBR wh-_JJ phrases_NN2 ,_, the_AT wh-_JJ phrase_NN1 in_II NP1_FO is_VBZ free_JJ to_TO move_VVI while_CS the_AT one_PN1 in_II NP2_FO may_VM not_XX ._. 
+</s>
+<s>
+They_PPHS2 relate_VV0 this_DD1 second_NNT1 phenomenon_NN1 to_II others_58 '_97 work_NN1 showing_VVG that_CST ,_, in_RR21 general_RR22 ,_, only_RR the_AT "_" structurally_RR higher_JJR "_" of_IO two_MC wh-_JJ phrases_NN2 may_VM move_VVI (_( p._NNU 349_MC )_) .3_MC The_AT each_DD1 ..._... the_AT other_JJ construction_NN1 rather_RG robustly_RR displays_VVZ the_AT now-familiar_JJ asymmetry_NN1 :_: a_AT1 noun_NN1 phrase_NN1 with_IW each_DD1 in_II NP1_FO can_VM bind_VVI the_AT other_JJ in_II NP2_FO ,_, but_CCB an_AT1 each_DD1 phrase_NN1 in_II NP2_FO can_56 not_56 bind_VVI the_AT other_JJ in_II NP1_FO ._. 
+</s>
+<s>
+Barss_VV0 and_CC Lasnik_NP1 suggest_VV0 that_CST a_AT1 plausible_JJ requirement_NN1 for_IF binding_VVG in_II these_DD2 constructions_NN2 is_VBZ "_" that_CST the_AT minimal_JJ NP_NP1 in_II which_DDQ each_DD1 appears_VVZ must_VM have_VHI the_AT other_JJ in_II its_APPGE domain_NN1 (_( Barss_NP1 and_CC Lasnik_NP1 ,_, 1986_MC )_) ,_, "_" and_CC that_CST this_DD1 is_VBZ not_XX the_AT case_NN1 in_II ungrammatical_JJ sentences_NN2 such_II21 as_II22 (_( 6_MC )_) (_( b_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT final_JJ example_NN1 of_IO asymmetry_NN1 concerns_VVZ polarity_NN1 any_DD ,_, which_DDQ may_VM appear_VVI only_RR "_" in_II the_AT scope_NN1 of_IO ..._... scope-bearing_JJ elements_NN2 (_( p._NNU 350_MC )_) ._. "_" 
+</s>
+<s>
+Noun_NN1 phrases_NN2 such_II21 as_II22 anyone_PN1 and_CC anything_PN1 may_VM appear_VVI in_II NP2_FO but_CCB not_XX in_II NP1_FO ,_, suggesting_VVG that_CST NP2_FO is_VBZ in_II the_AT scope_NN1 of_IO NP1_FO (_( and_CC NP1_FO is_VBZ not_XX in_II the_AT scope_NN1 of_IO NP2_FO )_) ._. 
+</s>
+<s>
+Assuming_VVG scope_NN1 can_VM be_VBI defined_VVN structurally_RR ,_, the_AT asymmetry_NN1 in_II scope_NN1 would_VM also_RR indicate_VVI an_AT1 asymmetrical_JJ structural_JJ relation_NN1 between_II the_AT two_MC noun_NN1 phrases_NN2 ._. 
+</s>
+<s>
+The_AT examples_NN2 given_VVN above_RL clearly_RR demonstrate_VV0 that_DD1 noun_NN1 phrases_NN2 in_II the_AT NP1_FO position_NN1 pattern_NN1 differently_RR in_II31 terms_II32 of_II33 their_APPGE ability_NN1 to_TO bind_VVI pronouns_NN2 and_CC to_TO move_VVI than_CSN do_VDI noun_NN1 phrases_NN2 in_II the_AT NP2_FO position_NN1 ._. 
+</s>
+<s>
+Barss_VV0 and_CC Lasnik_NP1 characterize_VV0 these_DD2 differences_NN2 as_CSA resulting_VVG from_II the_AT structural_JJ relationship_NN1 between_II the_AT two_MC noun_NN1 phrases_NN2 and_CC related_VVN in_II some_DD way_NN1 to_II their_APPGE respective_JJ domains_NN2 ._. 
+</s>
+<s>
+This_DD1 characterization_NN1 begs_VVZ the_AT question_NN1 :_: what_DDQ does_VDZ it_PPH1 mean_VVI for_IF a_AT1 noun_NN1 phrase_NN1 to_TO "_" be_VBI in_II the_AT domain_NN1 of_IO "_" another_DD1 noun_NN1 phrase_NN1 ,_, or_CC for_IF any_DD element_NN1 in_II a_AT1 sentence_NN1 to_TO be_VBI "_" in_II the_AT domain_NN1 of_IO "_" another_DD1 element_NN1 ?_? 
+</s>
+<s>
+The_AT authors_NN2 seem_VV0 to_TO use_VVI "_" domain_NN1 "_" to_TO define_VVI the_AT structures_NN2 across_II which_DDQ anaphoric_JJ co-reference_NN1 is_VBZ allowed_VVN by_II the_AT grammar_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT Barss_NN1 and_CC Lasnik_NP1 ,_, the_AT "_" standard_JJ notion_NN1 of_IO domain_NN1 (_( at_II the_AT time_NNT1 they_PPHS2 are_VBR writing_VVG )_) ..._... is_VBZ c-command_JJ (_( p._NNU 350_MC )_) ,_, "_" and_CC they_PPHS2 give_VV0 two_MC possible_JJ definitions_NN2 of_IO the_AT term_NN1 "_" c-command_NN1 "_" ._. 
+</s>
+<s>
+An_AT1 X'_JJ tree_NN1 representation_NN1 of_IO a_AT1 generic_JJ phrase_NN1 ,_, XP_NP1 ,_, is_VBZ shown_VVN in_II (_( 7_MC )_) and_CC I_PPIS1 refer_VV0 to_II it_PPH1 in_II the_AT following_JJ discussion_NN1 of_IO "_" command_NN1 "_" and_CC "_" domain_NN1 "_" ._. 
+</s>
+<s>
+One_MC1 possible_JJ definition_NN1 of_IO "_" c-command_NN1 "_" is_VBZ that_CST a_AT1 node_NN1 N1_FO dominates_VVZ another_DD1 node_NN1 N2_FO if_CS (_( and_CC only_RR if_CS )_) the_AT first_MD branching_JJ node_NN1 that_CST dominates_VVZ N1_FO also_RR dominates_VVZ N2_FO ._. 
+</s>
+<s>
+Haegeman_NP1 (_( 1994_MC ,_, p._NN1 137_MC )_) adds_VVZ to_II this_DD1 definition_NN1 that_CST a_AT1 c-command_JJ relation_NN1 holds_VVZ only_RR if_CS N1_FO does_VDZ not_XX dominate_VVI N2_FO ._. 
+</s>
+<s>
+Practically_RR ,_, this_DD1 means_VVZ that_CST any_DD constituent_NN1 of_IO which_DDQ N1_FO is_VBZ a_AT1 part_NN1 that_CST comprises_VVZ more_DAR than_CSN just_RR N1_FO will_VM necessarily_RR also_RR contain_VVI N2_FO ._. 
+</s>
+<s>
+By_II this_DD1 definition_NN1 ,_, the_AT head_NN1 X_ZZ1 in_II (_( 7_MC )_) c-commands_NN2 its_APPGE complement_NN1 ,_, ZP_NP1 ,_, because_CS X'2_FO ,_, the_AT first_MD branching_JJ node_NN1 dominating_VVG X_ZZ1 ,_, also_RR dominates_VVZ ZP_NP1 ._. 
+</s>
+<s>
+Conversely_RR ,_, ZP_NP1 also_RR c-commands_NN2 X._NP1 If_CS domain_NN1 is_VBZ defined_VVN in_II31 terms_II32 of_II33 c-command_JJ --_NN1 A_ZZ1 is_VBZ in_II the_AT domain_NN1 of_IO B_ZZ1 if_CS and_CC only_RR if_CS B_ZZ1 c-commands_NN2 A_ZZ1 -- then_RT X_ZZ1 and_CC ZP_NP1 can_VM each_DD1 be_VBI said_VVN to_TO be_VBI "_" in_II the_AT domain_NN1 of_IO "_" the_AT other_JJ ._. 
+</s>
+<s>
+By_II the_AT same_DA definition_NN1 ,_, X_ZZ1 and_CC YP2_FO are_VBR in_II an_AT1 asymmetric_JJ c-command_JJ relationship_NN1 in_II (_( 7_MC )_) :_: YP2_FO c-commands_NN2 X_ZZ1 because_CS X'1_FO ,_, the_AT first_MD branching_JJ node_NN1 that_CST dominates_VVZ YP2_FO ,_, also_RR dominates_VVZ X_ZZ1 ,_, but_CCB X_ZZ1 does_VDZ not_XX c-command_JJ YP2_FO because_CS X'2_FO ,_, the_AT first_MD branching_JJ node_NN1 that_CST dominates_VVZ X_ZZ1 ,_, does_VDZ not_XX dominate_VVI YP2_FO ._. 
+</s>
+<s>
+If_CS "_" domain_NN1 "_" is_VBZ defined_VVN in_II31 terms_II32 of_II33 c-command_NN1 ,_, X_ZZ1 is_VBZ in_II the_AT domain_NN1 of_IO YP2_FO but_CCB YP2_FO is_VBZ not_XX in_II the_AT domain_NN1 of_IO X_ZZ1 and_CC we_PPIS2 would_VM expect_VVI that_CST they_PPHS2 would_VM behave_VVI asymmetrically_RR in_II situations_NN2 where_RRQ domain_NN1 is_VBZ a_AT1 restricting_VVG factor_NN1 ._. 
+</s>
+<s>
+Barss_VV0 and_CC Lasnik_NP1 identify_VV0 a_AT1 second_MD possible_JJ definition_NN1 of_IO c-command_NN1 ,_, similar_JJ to_II the_AT first_MD but_CCB defined_VVD in_II31 terms_II32 of_II33 maximal_JJ projections_NN2 (_( XP_NP1 or_CC X_ZZ1 "_" nodes_NN2 )_) rather_II21 than_II22 first_MD branching_JJ nodes_NN2 :_: N1_FO c-commands_NN2 N2_FO if-and-only-if_CS the_AT first_MD maximal_JJ projection_NN1 (_( and_CC thus_RR all_DB maximal_JJ projections_NN2 )_) dominating_VVG N1_FO also_RR dominates_VVZ N2_FO ._. 
+</s>
+<s>
+As_CSA above_RL ,_, to_TO specify_VVI that_CST the_AT relationship_NN1 is_VBZ not_XX one_MC1 of_IO dominance_NN1 ,_, we_PPIS2 can_VM add_VVI that_CST N1_FO does_VDZ not_XX dominate_VVI N2_FO ._. 
+</s>
+<s>
+Following_VVG Haegeman_NP1 (_( 1994_MC ,_, p._NN1 137_MC )_) ,_, and_CC others_NN2 ,_, I_PPIS1 will_VM use_VVI the_AT term_NN1 "_" m-command_NN1 "_" to_TO describe_VVI this_DD1 relationship_NN1 ._. 
+</s>
+<s>
+In_II (_( 7_MC )_) ,_, XP_NP1 is_VBZ the_AT first_MD maximal_JJ projection_NN1 dominating_VVG the_AT head_NN1 ,_, X_ZZ1 ,_, its_APPGE complement_NN1 ,_, ZP_NP1 ,_, the_AT X'_JJ adjunct_NN1 ,_, YP2_FO ,_, and_CC YP1_FO in_II the_AT SpecXP_NN1 position_NN1 ._. 
+</s>
+<s>
+A_AT1 relationship_NN1 of_IO mutual_JJ m-command_NN1 holds_VVZ between_II all_DB four_MC of_IO these_DD2 positions_NN2 ._. 
+</s>
+<s>
+If_CS domain_NN1 is_VBZ defined_VVN in_II31 terms_II32 of_II33 m-command_NN1 ,_, each_DD1 would_VM be_VBI "_" in_II the_AT domain_NN1 of_IO "_" all_DB of_IO the_AT others_NN2 and_CC we_PPIS2 would_VM expect_VVI that_CST they_PPHS2 would_VM behave_VVI symmetrically_RR in_II situations_NN2 where_RRQ domain_NN1 is_VBZ a_AT1 restricting_VVG factor_NN1 ._. 
+</s>
+<s>
+Given_VVN these_DD2 two_MC possible_JJ structural_JJ definitions_NN2 of_IO "_" domain_NN1 "_" ,_, Barss_NP1 and_CC Lasnik_NP1 then_RT attempt_VV0 to_TO describe_VVI a_AT1 structure_NN1 for_IF (_( V_ZZ1 NP1_FO NP2_FO )_) constructions_NN2 that_CST will_VM account_VVI for_IF the_AT above-illustrated_JJ asymmetry_NN1 in_II domain_NN1 between_II the_AT two_MC noun_NN1 phrases_NN2 ._. 
+</s>
+<s>
+They_PPHS2 discuss_VV0 three_MC possibilities_NN2 ,_, reproduced_VVN in_II (_( 8_MC )_) below_RL (_( from_II Barss_NP1 and_CC Lasnik_NP1 ,_, 1986_MC ,_, p._NN1 350_MC )_) :_: 4_MC None_PN of_IO these_DD2 structures_NN2 fits_VVZ the_AT data_NN with_IW either_RR the_AT c-command_NN1 or_CC m-command_JJ definition_NN1 of_IO domain_NN1 (_( pp._NNU2 350-351_MCMC )_) ._. 
+</s>
+<s>
+In_II (_( 8_MC )_) (_( a_ZZ1 )_) and_CC (_( 8_MC )_) (_( b_ZZ1 )_) NP1_FO and_CC NP2_FO are_VBR sisters_NN2 and_CC symmetrical_JJ with_II31 respect_II32 to_II33 c-and_CC m-command_NN1 ._. 
+</s>
+<s>
+The_AT c-command_JJ relationship_NN1 between_II the_AT noun_NN1 phrases_NN2 in_II (_( 8_MC )_) (_( c_ZZ1 )_) is_VBZ asymmetrical_JJ ,_, but_CCB NP2_FO c-commands_NN2 NP1_FO which_DDQ predicts_VVZ the_AT opposite_NN1 of_IO the_AT data_NN described_VVN above_RL ._. 
+</s>
+<s>
+The_AT authors_NN2 mention_VV0 two_MC possible_JJ resolutions_NN2 ,_, the_AT first_MD of_IO which_DDQ is_VBZ that_CST the_AT requisite_JJ predictions_NN2 would_VM be_VBI made_VVN if_CS the_AT grammar_NN1 were_VBDR to_TO permit_VVI discontinuous_JJ constituents_NN2 (_( crossing_VVG branches_NN2 )_) ._. 
+</s>
+<s>
+Though_CS they_PPHS2 note_VV0 that_CST it_PPH1 has_VHZ been_VBN an_AT1 "_" axiom_NN1 "_" of_IO phrase_NN1 structure_NN1 theory_NN1 within_II the_AT Chomskyan_JJ framework_NN1 since_II 1955_MC that_CST such_DA structures_NN2 are_VBR not_XX allowed_VVN ,_, a_AT1 structure_NN1 similar_JJ to_II that_DD1 in_II (_( 8_MC )_) (_( c_ZZ1 )_) would_VM yield_VVI the_AT appropriate_JJ word_NN1 order_NN1 and_CC c-command_JJ domain_NN1 predictions_NN2 if_CS the_AT NP_NP1 sister_NN1 of_IO V'_NP1 were_VBDR allowed_VVN to_TO intercede_VVI between_II V_ZZ1 and_CC its_APPGE sister_NN1 NP_NP1 (_( pp._NNU2 351-352_MCMC )_) ._. 
+</s>
+<s>
+The_AT other_JJ possibility_NN1 that_CST they_PPHS2 put_VV0 forward_RL is_VBZ that_CST one_MC1 of_IO the_AT structures_NN2 in_II (_( 8_MC )_) (_( a_ZZ1 )_) or_CC (_( 8_MC )_) (_( b_ZZ1 )_) is_VBZ correct_JJ and_CC that_DD1 c-command_NN1 is_VBZ not_XX sufficient_JJ to_TO define_VVI "_" in_II the_AT domain_NN1 of_IO ._. "_" 
+</s>
+<s>
+That_REX21 is_REX22 ,_, c-command_NN1 is_VBZ not_XX sufficient_JJ to_TO predict_VVI the_AT range_NN1 of_IO structural_JJ relations_NN2 over_II which_DDQ operations_NN2 such_II21 as_II22 binding_VVG can_VM occur_VVI ._. 
+</s>
+<s>
+They_PPHS2 propose_VV0 a_AT1 reformulation_NN1 of_IO domain_NN1 in_II31 terms_II32 of_II33 precedence_NN1 as_II31 well_II32 as_II33 c-command_NN1 :_: "_" Y_ZZ1 is_VBZ in_II the_AT domain_NN1 of_IO X_ZZ1 iff_CS X_ZZ1 c-commands_NN2 Y_ZZ1 and_CC X_ZZ1 precedes_VVZ Y_ZZ1 (_( p._NNU 352_MC )_) ._. "_" 
+</s>
+<s>
+The_AT conditions_NN2 on_II anaphora_NN1 ,_, scope_NN1 ,_, wh-_JJ movement_NN1 ,_, etc._RA could_VM then_RT be_VBI stated_VVN in_II31 terms_II32 of_II33 this_DD1 definition_NN1 of_IO domain_NN1 ,_, as_CSA in_II "_" X_ZZ1 binds_VVZ Y_ZZ1 iff_CS Y_ZZ1 is_VBZ in_II the_AT domain_NN1 of_IO X_ZZ1 and_CC X_ZZ1 and_CC Y_ZZ1 are_VBR coindexed_VVN (_( p._NNU 351_MC )_) ._. "_" 
+</s>
+<s>
+The_AT solution_NN1 that_CST Barss_NP1 and_CC Lasnik_NP1 propose_VV0 is_VBZ unsatisfactory_JJ for_IF several_DA2 reasons_NN2 ._. 
+</s>
+<s>
+First_MD ,_, there_EX is_VBZ no_AT explicit_JJ motivation_NN1 for_IF the_AT inclusion_NN1 of_IO c-command_NN1 in_II their_APPGE alternate_JJ definition_NN1 of_IO domain_NN1 ._. 
+</s>
+<s>
+Precedence_NN1 alone_RR would_VM account_VVI for_IF all_DB of_IO their_APPGE data_NN ,_, since_CS it_PPH1 is_VBZ the_AT case_NN1 in_II all_DB of_IO the_AT examples_NN2 that_CST NP1_FO precedes_VVZ NP2._FO c-command_NN1 seems_VVZ to_TO be_VBI left_VVN in_II the_AT definition_NN1 only_RR to_TO avoid_VVI entirely_RR redefining_VVG the_AT relation_NN1 as_II a_AT1 precedence_NN1 relation_NN1 ._. 
+</s>
+<s>
+Proposing_VVG precedence_NN1 as_II a_AT1 solution_NN1 also_RR does_VDZ not_XX confront_VVI other_JJ problems_NN2 with_IW the_AT structures_NN2 in_II (_( 8_MC )_) (_( a_ZZ1 )_) and_CC (_( 8_MC )_) (_( b_ZZ1 )_) ._. 
+</s>
+<s>
+Trinary_JJ branching_JJ structures_NN2 like_II the_AT one_PN1 in_II (_( 8_MC )_) (_( a_ZZ1 )_) are_VBR dispreferred_VVN ,_, if_CS not_XX ruled_VVN out_RP in_II many_DA2 formulations_NN2 of_IO X'_NP1 theory_NN1 ,_, for_IF constraint_NN1 and_CC learnability_NN1 considerations_NN2 ._. 
+</s>
+<s>
+As_CSA Haegeman_NP1 (_( 1994_MC ,_, pp._NNU2 138-144_MCMC )_) explains_VVZ ,_, constraining_VVG a_AT1 grammar_NN1 to_TO permit_VVI only_RR binary_JJ branching_JJ nodes_NN2 would_VM speed_VVI acquisition_NN1 by_II requiring_VVG fewer_DAR decisions_NN2 of_IO a_AT1 child_NN1 learning_VVG the_AT grammar_NN1 ,_, though_CS she_PPHS1 mentions_VVZ in_II a_AT1 footnote_NN1 that_CST double_JJ object_NN1 constructions_NN2 and_CC coordinate_VV0 constructions_NN2 are_VBR possible_JJ exceptions_NN2 to_II the_AT binary_JJ branching_JJ rule_NN1 (_( p._NNU 144_MC )_) ._. 
+</s>
+<s>
+That_CST the_AT structure_NN1 in_II (_( 8_MC )_) (_( a_ZZ1 )_) is_VBZ divergent_JJ from_II the_AT binary_JJ branching_JJ pattern_NN1 should_VM merit_VVI some_DD discussion_NN1 ._. 
+</s>
+<s>
+As_CSA I_PPIS1 point_VV0 out_RP in_II (_( 2_MC )_) ,_, the_AT subject_NN1 NP_NP1 in_II a_AT1 sentence_NN1 with_IW double_JJ objects_NN2 can_VM bind_VVI a_AT1 pronoun_NN1 in_II NP1_FO but_CCB not_XX in_II NP2_FO ,_, indicating_VVG that_CST the_AT two_MC object_NN1 noun_NN1 phrases_NN2 are_VBR not_XX in_II the_AT same_DA relation_NN1 to_II the_AT subject_NN1 ._. 
+</s>
+<s>
+Barss_VV0 and_CC Lasnik_NP1 do_VD0 not_XX mention_VVI where_RRQ in_II the_AT tree_NN1 representation_NN1 of_IO the_AT sentence_NN1 they_PPHS2 consider_VV0 the_AT subject_JJ to_TO be_VBI ,_, however_RR ,_, the_AT subject_NN1 precedes_VVZ both_RR of_IO the_AT objects_NN2 ._. 
+</s>
+<s>
+In_II (_( 8_MC )_) (_( a_ZZ1 )_) and_CC (_( 8_MC )_) (_( b_ZZ1 )_) NP1_FO and_CC NP2_FO are_VBR sisters_NN2 ;_; it_PPH1 is_VBZ impossible_JJ for_IF the_AT subject_NN1 to_II c-command_NN1 NP1_FO and_CC not_XX NP2_FO ._. 
+</s>
+<s>
+Their_APPGE proposal_NN1 seems_VVZ to_TO over-generate_VVI and_CC predict_VVI the_AT subject_NN1 able_JK to_TO bind_VVI either_DD1 of_IO the_AT objects_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, as_CSA the_AT authors_NN2 point_VV0 out_RP ,_, wh-_JJ extraction_NN1 out_II21 of_II22 NP2_FO is_VBZ possible_JJ if_CS NP1_FO is_VBZ not_XX a_AT1 wh-_JJ phrase_NN1 (_( p._NNU 348_MC )_) ,_, with_IW the_AT result_NN1 that_CST NP2_FO is_VBZ in_II a_AT1 position_NN1 in_II which_DDQ it_PPH1 both_DB2 c-commands_NN2 and_CC precedes_VVZ NP1._FO wh-_JJ phrases_NN2 extracted_VVN from_II NP2_FO remain_VV0 unable_JK to_TO bind_VVI a_AT1 pronoun_NN1 in_II NP1_FO ,_, as_CSA in_II (_( 9_MC )_) ._. 
+</s>
+<s>
+Without_IW additional_JJ apparatus_NN1 ,_, the_AT precedence_NN1 +_FO c-command_JJ proposal_NN1 does_VDZ not_XX account_VVI for_IF this_DD1 ._. 
+</s>
+<s>
+Though_CS they_PPHS2 are_VBR not_XX able_JK to_TO propose_VVI an_AT1 entirely_RR satisfactory_JJ explanation_NN1 to_TO account_VVI for_IF them_PPHO2 ,_, the_AT observations_NN2 that_CST Barss_NP1 and_CC Lasnik_NP1 make_VV0 of_IO asymmetry_NN1 between_II NP1_FO and_CC NP2_FO in_II double_JJ object_NN1 constructions_NN2 do_VD0 to_TO hold_VVI true_JJ and_CC remain_VVI in_II31 need_II32 of_II33 explanation_NN1 ._. 
+</s>
+<s>
+Chomsky_NP1 (_( 1995_MC ,_, pp._NNU2 61-64_MCMC )_) references_VVZ VP_NP1 shell_NN1 constructions_NN2 ,_, along_II the_AT lines_NN2 of_IO those_DD2 proposed_VVN by_II Larson_NP1 (_( 1988_MC )_) ,_, as_CSA an_AT1 example_NN1 of_IO an_AT1 analysis_NN1 that_CST has_VHZ proven_VVN useful_JJ ._. 
+</s>
+<s>
+For_IF the_AT purposes_NN2 of_IO this_DD1 discussion_NN1 ,_, I_PPIS1 assume_VV0 (_( consistent_JJ ,_, I_PPIS1 believe_VV0 ,_, with_IW Larson_NP1 (_( 1988_MC )_) and_CC Chomsky_NP1 (_( 1995_MC )_) )_) here_RL that_CST verbs_NN2 such_II21 as_II22 give_VV0 ,_, that_CST license_VV0 double_JJ object_NN1 constructions_NN2 ,_, assign_VV0 -roles_NN2 to_II three_MC arguments_NN2 :_: an_AT1 external_JJ -role_NN1 ,_, AGENT_NN1 ,_, to_II the_AT subject_NN1 and_CC two_MC internal_JJ -roles_NN2 ,_, something_PN1 like_II BENEFACTIVE_NP1 and_CC THEME_NN1 ,_, to_II the_AT two_MC "_" objects_NN2 ._. "_" 
+</s>
+<s>
+As_CSA Chomsky_NP1 (_( 1995_MC ,_, p._NN1 62_MC )_) describes_VVZ it_PPH1 ,_, the_AT "_" VP_NP1 shell_NN1 "_" analysis_NN1 of_IO the_AT structure_NN1 of_IO sentences_NN2 such_II21 as_II22 John_NP1 gave_VVD a_AT1 book_NN1 to_II Bill_NP1 assigns_VVZ to_II them_PPHO2 a_AT1 deep-structure_JJ dative_JJ construction_NN1 like_II that_DD1 in_II (_( 10_MC )_) ._. 
+</s>
+<s>
+The_AT verb_NN1 ,_, gave_VVD ,_, governs_VVZ (_( is_VBZ in_II a_AT1 mutual_JJ m-command_JJ relationship_NN1 with_IW )_) both_RR a_AT1 book_NN1 and_CC to-Bill_NP1 and_CC assigns_VVZ its_APPGE internal_JJ -roles_NN2 to_II these_DD2 two_MC arguments_NN2 at_II deep_JJ structure_NN1 ._. 
+</s>
+<s>
+The_AT verb_NN1 then_RT undergoes_VVZ a_AT1 raising_NN1 operation_NN1 to_II the_AT empty_JJ head_NN1 position_NN1 (_( filled_VVN in_II (_( 10_MC )_) by_II e_ZZ1 )_) of_IO the_AT "_" higher_JJR "_" VP1_FO ,_, the_AT "_" VP_NP1 shell_NN1 "_" ,_, from_II which_DDQ position_VV0 it_PPH1 assigns_VVZ the_AT AGENT_NN1 -role_NN1 to_II the_AT subject_NN1 ,_, John_NP1 ._. 
+</s>
+<s>
+"_" Operations_NN2 similar_JJ to_II those_DD2 yielding_VVG the_AT passive_JJ construction_NN1 (_( Chomsky_NP1 ,_, 1995_MC ,_, p._NN1 62_MC )_) "_" apply_VV0 to_II the_AT "_" lower_JJR "_" VP2_FO to_TO yield_VVI the_AT surface_NN1 double-object_NN1 word_NN1 order_NN1 and_CC structural_JJ asymmetry_NN1 ._. 
+</s>
+<s>
+We_PPIS2 now_RT turn_VV0 to_II Larson_NP1 's_GE (_( 1988_MC )_) paper_NN1 for_IF an_AT1 explanation_NN1 of_IO this_DD1 "_" operation_NN1 similar_JJ to_II that_DD1 yielding_VVG the_AT passive_JJ "_" that_CST derives_VVZ a_AT1 double_JJ object_NN1 construction_NN1 ,_, without_IW the_AT preposition_NN1 to_II ,_, from_II an_AT1 underlying_JJ dative_NN1 ,_, which_DDQ requires_VVZ to.5_FO His_APPGE deep_JJ structure_NN1 is_VBZ slightly_RR different_JJ from_II that_DD1 reported_VVD in_II Chomsky_NP1 (_( 1995_MC )_) in_CS21 that_CS22 the_AT subject_NN1 of_IO John_NP1 sent_VVD a_AT1 letter_NN1 to_II Mary_NP1 is_VBZ not_XX located_VVN in_II the_AT specifier_NN1 position_NN1 of_IO VP1_FO ,_, but_CCB in_II SpecIP_NP1 (_( (_( 11_MC )_) shows_VVZ only_RR the_AT VP_NP1 )_) :_: Given_VVN this_DD1 proposed_JJ structure_NN1 of_IO dative_JJ constructions_NN2 ,_, how_RRQ are_VBR (_( V_ZZ1 NP1_FO NP2_FO )_) surface_NN1 forms_VVZ to_TO be_VBI derived_VVN ?_? 
+</s>
+<s>
+Larson_NN1 proposes_VVZ a_AT1 transformation_NN1 analogous_JJ to_II that_DD1 by_II which_DDQ passives_NN2 are_VBR derived_VVN ._. 
+</s>
+<s>
+Labeling_VVG the_AT active-to-passive_JJ derivation_NN1 Passive_NN1 and_CC the_AT dative-to-double-object_JJ derivation_NN1 Dative_NN1 Shift_VV0 ,_, he_PPHS1 uses_VVZ "_" PASSIVE_JJ "_" to_TO "_" refer_VVI to_II the_AT suite_NN1 of_IO operations_NN2 embracing_VVG both_RR (_( 1988_MC ,_, p._NN1 352_MC )_) ._. "_" 
+</s>
+<s>
+Both_RR Passive_JJ and_CC Dative_JJ Shift_NN1 involve_VV0 "_" withdrawal_NN1 of_IO Case_NN1 from_II an_AT1 object_NN1 position_NN1 and_CC suppression_NN1 of_IO thematic_JJ role_NN1 assignment_NN1 to_II a_AT1 subject_NN1 position_NN1 (_( p._NNU 351_MC )_) "_" and_CC "_" an_AT1 object_NN1 (_( moving_VVG )_) to_II subject_NN1 position_NN1 ,_, with_IW the_AT former_DA subject_NN1 assuming_VVG adjunct_NN1 status_NN1 (_( p._NNU 352_MC )_) ;_; "_" and_CC these_DD2 are_VBR understood_VVN to_TO comprise_VVI PASSIVE.6_FO The_AT steps_NN2 in_II the_AT derivation_NN1 of_IO the_AT double_JJ object_NN1 sentence_NN1 John_NP1 sent_VVD Mary_NP1 a_AT1 letter_NN1 from_II John_NP1 sent_VVD a_AT1 letter_NN1 to_II Mary_NP1 (_( see_VV0 (_( 11_MC )_) ,_, above_RL )_) are_VBR shown_VVN in_II (_( 12_MC )_) (_( from_II Larson_NP1 ,_, 1988_MC ,_, p._NN1 353_MC )_) .7_MC Comparing_VVG (_( 12_MC )_) (_( a_ZZ1 )_) to_II (_( 11_MC )_) ,_, PASSIVE_NN1 has_VHZ "_" suppressed_VVN "_" -role_JJ assignment_NN1 to_II the_AT "_" subject_NN1 "_" specifier_NN1 position_NN1 of_IO the_AT lower_JJR VP_NP1 ,_, with_IW that_DD1 -role_NN1 now_RT being_VBG assigned_VVN to_II a_AT1 letter_NN1 in_II a_AT1 right_JJ V'_JJ adjunct_NN1 position_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, Case_NN1 has_VHZ been_VBN "_" withdrawn_VVN "_" from_II the_AT "_" object_NN1 "_" V-complement_NN1 Mary_NP1 --_NN1 to_TO is_VBZ regarded_VVN as_II "_" pure_JJ (_( Dative_NN1 )_) Case_NN1 "_" marking_NN1 and_CC is_VBZ "_" absorbed_VVN "_" in_II the_AT process_NN1 of_IO withdrawing_VVG Case_NN1 from_II the_AT NP_NP1 (_( p._NNU 352_MC )_) ._. 
+</s>
+<s>
+Thus_RR ,_, Mary_NP1 has_VHZ a_AT1 -role_NN1 ,_, but_CCB no_AT Case_NN1 ,_, in_II its_APPGE deep_JJ structure_NN1 position_NN1 in_II (_( 12_MC )_) (_( a_ZZ1 )_) ,_, and_CC send_VV0 can_VM assign_VVI Case_NN1 but_CCB no_AT -role_NN1 to_II the_AT "_" subject_NN1 "_" SpecV'_NN1 of_IO the_AT lower_JJR VP_NP1 ._. 
+</s>
+<s>
+In_II (_( 12_MC )_) (_( b_ZZ1 )_) Mary_NP1 moves_VVZ to_II the_AT SpecV'_JJ position_NN1 ,_, where_RRQ it_PPH1 is_VBZ assigned_VVN Case_NN1 by_II send_VV0 ._. 
+</s>
+<s>
+At_II this_DD1 point_NN1 ,_, Mary_NP1 is_VBZ both_RR -and_CC Case-marked_JJ and_CC send_VV0 has_VHZ discharged_VVN its_APPGE internal_JJ -roles_NN2 and_CC inherent_JJ Case_NN1 ._. 
+</s>
+<s>
+Send_VV0 is_VBZ now_RT free_VV0 to_TO move_VVI from_II the_AT head_NN1 of_IO the_AT lower_JJR VP_NP1 to_II the_AT head_NN1 of_IO the_AT upper_JJ VP_NP1 in_II (_( 12_MC )_) (_( c_ZZ1 )_) whence_RRQ it_PPH1 is_VBZ able_JK to_TO assign_VVI nominative_JJ Case_NN1 and_CC AGENT_NN1 -role_NN1 to_II the_AT matrix_NN1 subject_NN1 of_IO the_AT sentence_NN1 (_( in_II SpecIP_NP1 )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ interesting_JJ to_TO note_VVI that_CST the_AT deep_JJ structure_NN1 of_IO John_NP1 sent_VVD Mary_NP1 a_AT1 letter_NN1 in_II (_( 12_MC )_) (_( a_ZZ1 )_) actually_RR has_VHZ the_AT same_DA precedence_NN1 relations_NN2 between_II the_AT verb_NN1 and_CC the_AT two_MC NPs_NP1 as_CSA does_VDZ the_AT surface_NN1 structure_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ like_JJ (_( 8_MC )_) (_( c_ZZ1 )_) in_II that_DD1 ,_, as_CSA Barss_NP1 and_CC Lasnik_NP1 pointed_VVD out_RP ,_, the_AT surface_NN1 word_NN1 order_NN1 is_VBZ correct_JJ ,_, but_CCB the_AT structure_NN1 gives_VVZ the_AT wrong_JJ predictions_NN2 about_II the_AT relationship_NN1 between_II the_AT two_MC noun_NN1 phrases_NN2 ._. 
+</s>
+<s>
+In_II (_( 12_MC )_) (_( a_ZZ1 )_) ,_, a_AT1 letter_NN1 asymmetrically_RR c-commands_NN2 Mary_NP1 because_CS the_AT V'_NP1 that_DD1 is_VBZ the_AT first_MD branching_JJ node_NN1 dominating_VVG a_AT1 letter_NN1 also_RR dominates_VVZ Mary_NP1 ,_, while_CS the_AT V'_NP1 that_DD1 is_VBZ the_AT first_MD branching_JJ node_NN1 to_TO dominate_VVI Mary_NP1 does_VDZ not_XX dominate_VVI a_AT1 letter_NN1 ._. 
+</s>
+<s>
+In_II the_AT surface_NN1 structure_NN1 in_II (_( 12_MC )_) (_( c_ZZ1 )_) ,_, these_DD2 command_VV0 relations_NN2 are_VBR reversed_VVN ,_, due_II21 to_II22 Mary_NP1 's_GE raising_NN1 to_II the_AT SpecV'_JJ position_NN1 where_RRQ it_PPH1 c-commands_NN2 a_AT1 letter_NN1 in_II the_AT V'_JJ adjunct_NN1 position_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT analysis_NN1 given_VVN here_RL ,_, the_AT noun_NN1 phrase_NN1 ,_, a_AT1 letter_NN1 ,_, that_DD1 is_VBZ semantically_RR the_AT direct_JJ object_NN1 ,_, or_CC THEME_NN1 ,_, ends_VVZ up_RP ,_, in_II the_AT final_JJ derivation_NN1 ,_, in_II a_AT1 position_NN1 analogous_JJ to_II that_DD1 occupied_VVN by_II the_AT optional_JJ AGENT_NN1 (_( in_II a_AT1 PP_NN1 headed_VVN by_RP by_II )_) in_II the_AT Passive_JJ ._. 
+</s>
+<s>
+The_AT direct_JJ object_NN1 in_II a_AT1 Dative_JJ Shift_NN1 construction_NN1 differs_VVZ from_II the_AT semantic_JJ AGENT_NN1 in_II the_AT Passive_JJ in_II several_DA2 important_JJ ways_NN2 ,_, however_RR ._. 
+</s>
+<s>
+First_MD ,_, it_PPH1 is_VBZ not_XX optional_JJ :_: John_NP1 sent_VVD Mary_NP1 (_( a_AT1 letter_NN1 )_) is_VBZ ungrammatical_JJ without_IW the_AT direct_JJ object_NN1 ,_, while_CS Marywas_NN2 sent_VVD a_AT1 letter_NN1 (_( by_II John_NP1 )_) is_VBZ grammatical_JJ with_IW or_CC without_IW the_AT inclusion_NN1 of_IO the_AT PP_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT optional_JJ AGENT_NN1 in_II a_AT1 Passive_NN1 appears_VVZ in_II a_AT1 prepositional_JJ phrase_NN1 where_CS it_PPH1 may_VM receive_VVI Case_NN1 from_II the_AT P0_FO head_NN1 ,_, by_II ,_, while_CS the_AT direct_JJ object_NN1 in_II Dative_JJ Shift_NN1 is_VBZ a_AT1 "_" bare_JJ "_" NP_NP1 with_IW no_AT additional_JJ preposition_NN1 to_TO assign_VVI it_PPH1 Case_NN1 ._. 
+</s>
+<s>
+The_AT cases_NN2 are_VBR similar_JJ in_II that_DD1 both_RR require_VV0 some_DD rule_NN1 that_CST allows_VVZ verb_NN1 to_TO assign_VVI a_AT1 -role_NN1 to_II an_AT1 NP_NP1 in_II an_AT1 adjunct_NN1 position_NN1 ._. 
+</s>
+<s>
+Larson_NP1 's_GE account_NN1 of_IO -role_JJ assignment_NN1 to_II an_AT1 argument_NN1 in_II an_AT1 adjunct_NN1 ,_, as_CSA I_PPIS1 understand_VV0 it_PPH1 ,_, is_VBZ that_DD1 ,_, instead_II21 of_II22 being_VBG entirely_RR suppressed_VVN in_II Passives_NN2 ,_, the_AT subject_NN1 -role_NN1 is_VBZ merely_RR blocked_VVN from_II being_VBG assigned_VVN to_II an_AT1 argument_NN1 in_II the_AT subject_NN1 position_NN1 ._. 
+</s>
+<s>
+An_AT1 additional_JJ rule_NN1 allows_VVZ a_AT1 -role_NN1 assigned_VVN by_II Xi_NN1 to_TO be_VBI optionally_RR assigned_VVN to_II an_AT1 adjunct_NN1 of_IO Xi_NN1 (_( pp._NNU2 351-352_MCMC )_) ._. 
+</s>
+<s>
+His_APPGE analysis_NN1 assumes_VVZ that_DD1 subject_NN1 -roles_NN2 are_VBR assigned_VVN compositionally_RR by_II the_AT whole_JJ VP_NP1 ,_, rather_CS21 than_CS22 by_II the_AT verb_NN1 on_II its_APPGE own.8_FO The_AT AGENT_NN1 by-phrase_NN1 is_VBZ a_AT1 VP_NP1 adjunct_NN1 ,_, as_CSA in_II (_( 13_MC )_) (_( from_II Larson_NP1 ,_, 1988_MC ,_, p._NN1 351_MC )_) and_CC assigned_VVN a_AT1 -role_NN1 by_II VP_NP1 under_II the_AT rule_NN1 just_RR proposed_VVN ._. 
+</s>
+<s>
+That_CST the_AT direct_JJ object_NN1 adjunct_NN1 in_II Dative_JJ Shift_NN1 is_VBZ obligatory_JJ ,_, while_CS the_AT AGENT_NN1 adjunct_NN1 in_II Passive_NN1 is_VBZ optional_JJ ,_, Larson_NP1 takes_VVZ to_TO be_VBI due_II21 to_II22 properties_NN2 of_IO the_AT -roles_NN2 themselves_PPX2 ._. 
+</s>
+<s>
+Because_CS the_AT object_NN1 -role_NN1 is_VBZ a_AT1 lexical_JJ property_NN1 of_IO the_AT verb_NN1 ,_, it_PPH1 is_VBZ linked_VVN in_II the_AT lexical_JJ representation_NN1 to_II a_AT1 certain_JJ category_NN1 ,_, specifically_RR a_AT1 noun_NN1 phrase_NN1 ._. 
+</s>
+<s>
+The_AT subject_NN1 -role_NN1 ,_, which_DDQ is_VBZ not_XX subcategorized_VVN for_IF ,_, is_VBZ not_XX linked_VVN to_II any_DD specific_JJ category_NN1 and_CC may_VM be_VBI assigned_VVN to_II ,_, for_REX21 instance_REX22 ,_, the_AT Passive_JJ morphology_NN1 on_II the_AT verb_NN1 (_( usually-en_FW or-ed_NN1 in_II English_NN1 )_) ._. 
+</s>
+<s>
+Larson_NN1 does_VDZ not_XX go_VVI into_II great_JJ detail_NN1 on_II this_DD1 and_CC I_PPIS1 will_VM not_XX do_VDI so_RR here_RL either_RR ._. 
+</s>
+<s>
+The_AT assignment_NN1 of_IO Case_NN1 to_II a_AT1 direct_JJ object_NN1 in_II a_AT1 V'_JJ adjunct_NN1 is_VBZ more_RGR complicated_JJ and_CC involves_VVZ a_AT1 proposal_NN1 Larson_NP1 calls_VVZ "_" V'_NP1 Reanalysis_NP1 :_: "_" The_AT lower_JJR V'_NN1 in_II (_( 12_MC )_) (_( c_ZZ1 )_) ,_, reproduced_VVD below_RL as_CSA (_( 14_MC )_) (_( a_ZZ1 )_) ,_, is_VBZ subject_II21 to_II22 this_DD1 reanalysis_NN1 ._. 
+</s>
+<s>
+The_AT constituent_NN1 in_II question_NN1 has_VHZ the_AT structure_NN1 (_( V'_NP1 t_ZZ1 e_ZZ1 )_) where_RRQ t_ZZ1 is_VBZ a_AT1 trace_NN1 left_VVN by_II verb_NN1 raising_NN1 of_IO give_VV0 to_II the_AT higher_JJR VP_NP1 and_CC e_ZZ1 is_VBZ a_AT1 trace_NN1 left_VVN by_II NP_NP1 movement_NN1 of_IO Mary_NP1 to_II SpecV'_NP1 (_( p._NNU 359_MC )_) .9_MC The_AT V_ZZ1 resulting_VVG from_II this_DD1 reanalysis_NN1 is_VBZ essentially_RR a_AT1 transitive_JJ verb_NN1 ,_, according_II21 to_II22 Larson_NP1 ,_, "_" in_II the_AT canonical_JJ configuration_NN1 of_IO direct_JJ objects_NN2 :_: (_( V'_NP1 V_ZZ1 NP_NP1 )_) (_( p._NNU 360_MC )_) ,_, "_" which_DDQ now_RT is_VBZ able_JK to_TO assign_VVI case_NN1 to_II the_AT NP_NP1 direct_RR object_VV0 a_AT1 letter_NN1 ,_, which_DDQ is_VBZ now_RT its_APPGE sister_NN1 (_( pp._NNU2 359-360_MCMC )_) .10_MC Larson_NP1 's_GE analysis_NN1 of_IO the_AT structure_NN1 of_IO (_( V_ZZ1 NP1_FO NP2_FO )_) double_JJ object_NN1 constructions_NN2 is_VBZ elegant_JJ in_CS21 that_CS22 it_PPH1 is_VBZ achieved_VVN mostly_RR by_II appealing_VVG to_II operations_NN2 that_CST had_VHD previously_RR been_VBN proposed_VVN to_TO account_VVI for_IF other_JJ phenomena_NN2 :_: avoiding_VVG construction-specific_JJ operations_NN2 by_II appealing_VVG to_II more_RGR general_JJ principles_NN2 ._. 
+</s>
+<s>
+Accounting_VVG for_IF Dative_JJ Shift_NN1 constructions_NN2 by_II31 means_II32 of_II33 processes_NN2 that_CST have_VH0 proven_VVN useful_JJ in_II describing_VVG or_CC explaining_VVG other_JJ constructions_NN2 strengthens_VVZ the_AT Dative_JJ Shift_NN1 argument_NN1 by_II appealing_VVG to_II more_RGR general_JJ principle_NN1 but_CCB also_RR supports_VVZ the_AT other_JJ analyses_NN2 by_II showing_VVG that_CST the_AT operations_NN2 apply_VV0 across_II constructions_NN2 ._. 
+</s>
+<s>
+The_AT proposed_JJ structure_NN1 is_VBZ a_AT1 "_" strictly_RR binary_JJ branching_JJ (_( one_MC1 )_) (_( p._NNU 342_MC )_) "_" ,_, consistent_JJ with_IW a_AT1 more_RGR constrained_JJ theory_NN1 of_IO grammar_NN1 as_CSA discussed_VVN above_RL ._. 
+</s>
+<s>
+Verb_NN1 raising_VVG to_II a_AT1 higher_JJR structural_JJ position_NN1 from_II an_AT1 underlying_JJ VP_NP1 was_VBDZ previously_RR proposed_VVN to_TO yield_VVI the_AT verb-subject-object_JJ word_NN1 order_NN1 in_II VSO_NP1 languages_NN2 (_( p._NNU 344_MC )_) ._. 
+</s>
+<s>
+As_CSA discussed_VVN above_RL ,_, the_AT operations_NN2 that_CST make_VV0 up_RP PASSIVE_JJ were_VBDR previously_RR proposed_VVN to_TO derive_VVI Passive_JJ surface_NN1 structures_NN2 ._. 
+</s>
+<s>
+Even_RR the_AT V'_NP1 Reanalysis_NP1 ,_, proposed_VVD apparently_RR for_IF the_AT first_MD time_NNT1 in_II this_DD1 paper_NN1 (_( pp._NNU2 347-350_MCMC )_) is_VBZ proposed_VVN first_MD to_TO account_VVI for_IF "_" Heavy_JJ NP_NP1 Shift_VV0 "_" in_II regular_JJ Dative_JJ constructions_NN2 (_( V_ZZ1 NP_NP1 PP_NNU2 )_) ._. 
+</s>
+<s>
+V'_NP1 Reanalysis_NP1 is_VBZ crucial_JJ to_II Larson_NP1 's_GE account_NN1 of_IO Case_NN1 assignment_NN1 in_II Dative_JJ Shift_NN1 constructions_NN2 ,_, and_CC merits_VVZ some_DD discussion_NN1 ._. 
+</s>
+<s>
+"_" Heavy_JJ NP_NP1 Shift_NN1 "_" is_VBZ a_AT1 phenomenon_NN1 in_II which_DDQ phonologically_RR heavy_JJ NPs_NP1 (_( ones_NN2 with_IW lots_PN of_IO words_NN2 )_) surface_NN1 to_II the_AT right_NN1 of_IO the_AT PP_NN1 ,_, as_CSA in_II (_( 15_MC )_) :_: Rather_II21 than_II22 an_AT1 NP_NP1 Movement_NN1 operation_NN1 ,_, Larson_NP1 proposes_VVZ that_CST the_AT V'_NP1 (_( V'_NP1 give_VV0 to_II John_NP1 )_) (_( 16_MC )_) (_( a_ZZ1 )_) ,_, having_VHG an_AT1 unassigned_JJ direct_JJ object_NN1 -role_NN1 ,_, is_VBZ reanalyzed_VVN as_II a_AT1 complex_JJ verb_NN1 (_( V_ZZ1 give_VV0 to_II John_NP1 )_) (_( 16_MC )_) (_( b_ZZ1 )_) ,_, which_DDQ then_RT raises_VVZ to_II the_AT head_NN1 of_IO the_AT higher_JJR VP_NP1 in_II (_( 16_MC )_) (_( c_ZZ1 )_) (_( from_II Larson_NP1 ,_, 1988_MC ,_, p._NN1 348_MC )_) :_: Note_VV0 that_CST (_( V'_NP1 send_VV0 Mary_NP1 )_) in_II (_( 12_MC )_) (_( a_ZZ1 )_) has_VHZ the_AT same_DA structure_NN1 and_CC properties_NN2 as_CSA (_( V'_NP1 give_VV0 to_II John_NP1 )_) in_II (_( 16_MC )_) (_( a_ZZ1 )_) ._. 
+</s>
+<s>
+An_AT1 alternative_JJ derivation_NN1 of_IO the_AT Dative_JJ Shift_NN1 construction_NN1 is_VBZ illustrated_VVN in_II (_( 17_MC )_) :_: Here_RL ,_, V'_NP1 Reanalysis_NP1 applies_VVZ before_II any_DD other_JJ movement_NN1 operations_NN2 ,_, yielding_VVG (_( V_ZZ1 send_VV0 Mary_NP1 )_) ._. 
+</s>
+<s>
+This_DD1 complex_NN1 V_ZZ1 could_VM then_RT assign_VVI Case_NN1 to_II its_APPGE sister_NN1 NP_NP1 ,_, as_CSA does_VDZ (_( V_ZZ1 t_ZZ1 e_ZZ1 )_) in_II Larson_NP1 's_GE account_NN1 ,_, before_II raising_VVG to_II the_AT higher_JJR VP_NP1 ._. 
+</s>
+<s>
+The_AT resulting_JJ surface_NN1 structure_NN1 has_VHZ the_AT requisite_JJ c-command_JJ relationships_NN2 between_II Mary_NP1 and_CC a_AT1 letter_NN1 to_TO predict_VVI Barss_NP1 and_CC Lasnik_NP1 's_GE data_NN ._. 
+</s>
+<s>
+I_PPIS1 find_VV0 this_DD1 derivation_NN1 preferable_JJ to_II Larson_NP1 's_GE in_CS21 that_CS22 it_PPH1 requires_VVZ fewer_DAR rules_NN2 ._. 
+</s>
+<s>
+The_AT complex_JJ V_ZZ1 assigns_VVZ a_AT1 -role_NN1 to_II its_APPGE sister_NN1 NP_NP1 ,_, a_AT1 letter_NN1 ,_, without_IW recourse_NN1 to_II Larson_NP1 's_GE rule_NN1 assigning_VVG -roles_NN2 to_II adjuncts_NN2 and_CC the_AT accompanying_JJ stipulations_NN2 of_IO conditions_NN2 when_CS its_APPGE application_NN1 is_VBZ obligatory_JJ ._. 
+</s>
+<s>
+Assignment_NN1 of_IO a_AT1 -role_NN1 to_II a_AT1 letter_NN1 by_II the_AT complex_JJ V_ZZ1 (_( V_ZZ1 t_ZZ1 e_ZZ1 )_) in_II the_AT same_DA fashion_NN1 as_CSA I_PPIS1 propose_VV0 is_VBZ ,_, of_RR21 course_RR22 ,_, available_JJ under_II Larson_NP1 's_GE proposal_NN1 as_RR21 well_RR22 ._. 
+</s>
+<s>
+Why_RRQ a_AT1 letter_NN1 should_VM receive_VVI its_APPGE -role_NN1 and_CC Case_NN1 ,_, both_RR from_II send_VV0 ,_, by_II different_JJ processes_NN2 in_II not_XX clear.11_FO My_APPGE alternative_JJ derivation_NN1 could_VM be_VBI ruled_VVN out_RP ,_, though_CS ,_, by_II a_AT1 potentially_RR very_RG serious_JJ problem_NN1 with_IW Larson_NP1 's_GE V'_NP1 Reanalysis_NP1 hypothesis_NN1 ._. 
+</s>
+<s>
+Returning_VVG to_II his_APPGE example_NN1 of_IO V'_NP1 reanalysis_NN1 in_II "_" Heavy_JJ NP_NP1 Shift_VV0 "_" constructions_NN2 (_( pp._NNU2 347-348_MCMC )_) ,_, the_AT sentence_NN1 I_PPIS1 gave_VVD John_NP1 everything_PN1 that_CST he_PPHS1 demanded_VVD has_VHZ the_AT surface_NN1 structure_NN1 in_II (_( 18_MC )_) :_: Note_VV0 that_CST John_NP1 ,_, which_DDQ has_VHZ been_VBN reanalyzed_VVN as_II part_NN1 of_IO the_AT verb_NN1 ,_, binds_VVZ the_AT pronoun_NN1 ,_, he_PPHS1 ,_, in_II the_AT noun_NN1 phrase_NN1 in_II the_AT lower_JJR VP_NP1 :_: We_PPIS2 should_VM note_VVI also_RR that_CST at_II no_AT point_NN1 prior_II21 to_II22 reanalysis_NN1 in_II (_( 16_MC )_) does_VDZ John_NP1 c-or_UH m-command_NN1 he_PPHS1 ._. 
+</s>
+<s>
+If_CS the_AT reanalyzed_JJ V_ZZ1 is_VBZ a_AT1 single_JJ lexical_JJ item_NN1 ,_, with_IW no_AT branching_JJ structure_NN1 ,_, co-reference_NN1 of_IO John_NP1 and_CC he_PPHS1 in_II (_( 19_MC )_) should_VM be_VBI impossible_JJ ._. 
+</s>
+<s>
+Pronouns_NN2 must_VM be_VBI bound_VVN by_II a_AT1 subject_NN1 or_CC SUBJECT_NN1 ,_, where_CS "_" subject_NN1 "_" is_VBZ an_AT1 NP_NP1 in_II SpecXP_NP1 and_CC "_" SUBJECT_NN1 "_" is_VBZ a_AT1 finite_JJ ,_, +AGR_FO I0_FO (_( Haegeman_NP1 ,_, 1994_MC ,_, p._NN1 222_MC )_) :_: V_ZZ1 is_VBZ neither_RR "_" subject_NN1 "_" nor_CC "_" SUBJECT_NN1 "_" ._. 
+</s>
+<s>
+If_CS (_( V_ZZ1 give_VV0 to_II John_NP1 )_) actually_RR has_VHZ a_AT1 branching_JJ structure_NN1 :_: (_( V_ZZ1 (_( V_ZZ1 give_VV0 )_) (_( PP_NN1 to_II John_NP1 )_) )_) ,_, this_DD1 might_VM allow_VVI binding_JJ ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 would_VM involve_VVI a_AT1 branching_JJ lexical_JJ item_NN1 ._. 
+</s>
+<s>
+X0_FO nodes_NN2 are_VBR by_II definition_NN1 "_" terminal_NN1 nodes_NN2 (_( Haegeman_NP1 ,_, 1994_MC ,_, p._NN1 105_MC )_) "_" with_IW no_AT further_JJR branching_JJ structure_NN1 ._. 
+</s>
+<s>
+For_IF John_NP1 to_TO bind_VVI he_PPHS1 in_II (_( 18_MC )_) seems_VVZ to_TO require_VVI either_RR an_AT1 overhaul_NN1 of_IO binding_JJ theory_NN1 to_TO allow_VVI binding_JJ of_IO pronouns_NN2 by_II verbs_NN2 or_CC of_IO the_AT theory_NN1 of_IO the_AT lexicon_NN1 to_TO allow_VVI for_IF branching_JJ lexical_JJ items_NN2 ,_, either_DD1 of_IO which_DDQ would_VM result_VVI in_II a_AT1 theory_NN1 that_CST is_VBZ significantly_RR less_RRR constrained_VVN ._. 
+</s>
+<s>
+Without_IW either_DD1 of_IO these_DD2 theory_NN1 revisions_NN2 ,_, V'_NP1 reanalysis_NN1 seems_VVZ not_XX to_TO be_VBI viable_JJ ._. 
+</s>
+<s>
+Unavailability_NN1 of_IO V'_NP1 reanalysis_NN1 would_VM seem_VVI to_TO cripple_VVI Larson_NP1 's_GE analysis_NN1 of_IO "_" Heavy_JJ NP_NP1 Shift_VV0 "_" ._. 
+</s>
+<s>
+To_II what_DDQ extent_NN1 it_PPH1 is_VBZ damaging_VVG to_II his_APPGE analysis_NN1 of_IO Dative_JJ Shift_NN1 is_VBZ unclear_JJ ._. 
+</s>
+<s>
+While_CS he_PPHS1 relies_VVZ upon_II V'_NP1 Reanalysis_NP1 to_TO assign_VVI case_NN1 to_II the_AT direct_JJ object_NN1 ,_, it_PPH1 does_VDZ not_XX play_VVI otherwise_RR play_VV0 a_AT1 role_NN1 in_II his_PPGE derivation.12_FO To_TO repair_VVI his_APPGE analysis_NN1 would_VM require_VVI simply_RR finding_VVG another_DD1 account_NN1 of_IO Case_NN1 assignment_NN1 to_II the_AT direct_JJ object_NN1 ._. 
+</s>
+<s>
+Chomsky_NP1 (_( 1995_MC ,_, p._NN1 62_MC )_) describes_VVZ -role_JJ and_CC Case_NN1 assignment_NN1 by_II the_AT verb_NN1 in_II VP_NP1 Shell_NN1 constructions_NN2 under_II government_NN1 (_( mutual_JJ m-command_NN1 )_) :_: either_RR the_AT verb_NN1 or_CC its_APPGE co-indexed_JJ trace_NN1 is_VBZ in_II a_AT1 mutual_JJ m-command_JJ relationship_NN1 with_IW the_AT direct_JJ object_NN1 throughout_II the_AT derivation_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM conclude_VVI with_IW a_AT1 brief_JJ discussion_NN1 of_IO the_AT productivity_NN1 of_IO the_AT double_JJ object_NN1 construction_NN1 ._. 
+</s>
+<s>
+That_CST the_AT double_JJ object_NN1 construction_NN1 is_VBZ not_XX available_JJ with_IW all_DB verbs_NN2 that_CST permit_VV0 the_AT oblique_JJ dative_NN1 (_( 20_MC )_) ,_, and_CC vice_RR21 versa_RR22 (_( 21_MC )_) ,_, is_VBZ well-documented_JJ ._. 
+</s>
+<s>
+Larson_NP1 (_( 1988_MC ,_, p._NNU 369ff_FO )_) attributes_VVZ this_DD1 to_II lexical_JJ properties_NN2 of_IO the_AT verbs_NN2 in_RP regards_VVZ to_II -role_JJ assignment_NN1 ._. 
+</s>
+<s>
+The_AT indirect_JJ object_NN1 in_II a_AT1 double_JJ object_NN1 construction_NN1 is_VBZ something_PN1 like_II a_AT1 BENEFICIARY_NN1 ,_, and_CC in_II the_AT oblique_JJ construction_NN1 it_PPH1 is_VBZ a_AT1 GOAL_NN1 ._. 
+</s>
+<s>
+Verbs_NN2 that_CST participate_VV0 in_II both_DB2 constructions_NN2 can_VM assign_VVI both_DB2 -roles_NN2 ,_, verbs_NN2 like_VV0 contribute_VV0 assign_VV0 only_JJ GOAL_NN1 and_CC verbs_NN2 like_II spare_JJ assign_VV0 only_JJ BENEFICIARY_NN1 ._. 
+</s>
+<s>
+While_CS this_DD1 is_VBZ a_AT1 fair_JJ account_NN1 of_IO the_AT restrictions_NN2 on_II alternation_NN1 between_II the_AT two_MC constructions_NN2 ,_, it_PPH1 does_VDZ not_XX offer_VVI an_AT1 explanation_NN1 of_IO the_AT fact_NN1 that_CST the_AT double_JJ object_NN1 construction_NN1 can_VM be_VBI somewhat_RR productively_RR applied_VVN to_II verbs_NN2 that_CST generally_RR do_VD0 not_XX permit_VVI either_RR one_MC1 :_: My_APPGE intuition_NN1 is_VBZ not_XX that_CST I_PPIS1 am_VBM coining_VVG new_JJ lexical_JJ items_NN2 (_( sleep_NN1 (_( V_ZZ1 )_) ,_, etc._RA )_) with_IW a_AT1 VP_NP1 Shell_NN1 structure_NN1 and_CC specific_JJ -roles_NN2 to_TO assign_VVI when_RRQ I_PPIS1 make_VV0 up_RP sentences_NN2 such_II21 as_II22 these_DD2 ,_, but_CCB rather_RR that_CST the_AT construction_NN1 itself_PPX1 somehow_RR provides_VVZ structure_NN1 and_CC thematic_JJ properties_NN2 in_II31 addition_II32 to_II33 that_DD1 supplied_VVD by_II the_AT verb_NN1 ._. 
+</s>
+<s>
+This_DD1 same_DA construction_NN1 would_VM provide_VVI for_IF the_AT similarities_NN2 in_II (_( 23_MC )_) :_: In_II each_DD1 case_NN1 ,_, John_NP1 is_VBZ the_AT BENEFICIARY_NN1 or_CC RECIPIENT_NN1 of_IO the_AT ball_NN1 (_( THEME_NN1 )_) ._. 
+</s>
+<s>
+The_AT change_NN1 in_II meaning_VVG that_CST occurs_VVZ by_II substituting_VVG different_JJ verbs_NN2 is_VBZ in_II the_AT role_NN1 of_IO the_AT subject_NN1 ,_, and_CC this_DD1 change_NN1 can_56 not_56 really_RR be_VBI said_VVN to_TO be_VBI due_II21 to_II22 an_AT1 interaction_NN1 between_II the_AT verb_NN1 and_CC the_AT objects_NN2 ,_, because_CS the_AT objects_NN2 remain_VV0 constant_JJ ._. 
+</s>
+<s>
+Intuitively_RR ,_, the_AT objects_NN2 receive_VV0 their_APPGE -roles_NN2 from_II the_AT construction_NN1 and_CC the_AT subject_NN1 receives_VVZ its_APPGE -role_NN1 from_II the_AT verb_NN1 ._. 
+</s>
+<s>
+I_PPIS1 do_VD0 not_XX have_VHI an_AT1 analysis_NN1 of_IO this_DD1 intuition_NN1 to_TO propose_VVI at_II this_DD1 point_NN1 ,_, but_CCB it_PPH1 could_VM be_VBI an_AT1 interesting_JJ topic_NN1 for_IF further_JJR exploration_NN1 ._. 
+</s>
+<s>
+Perhaps_RR something_PN1 like_II a_AT1 (_( phonologically_RR null_JJ )_) applicative_JJ morpheme_NN1 as_II a_AT1 verbal_JJ complement_NN1 would_VM project_VVI a_AT1 structure_NN1 similar_JJ to_II that_DD1 provided_VVN by_II the_AT inner_JJ VP_NP1 in_II Larson_NP1 's_GE analysis_NN1 ._. 
+</s>
+<s>
+Sentences_NN2 like_II those_DD2 in_II (_( 22_MC )_) would_VM be_VBI formed_VVN by_II adding_VVG this_DD1 morpheme_NN1 as_II a_AT1 complement_NN1 to_II verbs_NN2 that_CST do_VD0 not_XX normally_RR subcategorize_VVI for_IF it_PPH1 ._. 
+</s>

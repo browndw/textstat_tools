@@ -1,0 +1,270 @@
+<s>
+The_AT recent_JJ achievement_NN1 of_IO an_AT1 ultracold_NN1 fermionic_JJ gas_NN1 of_IO neutral_JJ atoms_NN2 in_II an_AT1 optical_JJ lattice_NN1 (_( OL_NP1 )_) has_VHZ spurred_VVN a_AT1 tremendous_JJ surge_NN1 of_IO interest_NN1 in_II the_AT proper_JJ description_NN1 of_IO this_DD1 system_NN1 under_II various_JJ experimental_JJ manipulations_NN2 (_( 1_MC1 ,_, 2_MC )_) ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, there_EX is_VBZ a_AT1 wealth_NN1 of_IO physics_NN1 in_II such_DA a_AT1 system_NN1 because_II21 of_II22 all_DB the_AT experimentally_RR accessible_JJ parameters_NN2 :_: The_AT OL_NN1 affords_VVZ control_NN1 of_IO the_AT spatial_JJ distribution_NN1 of_IO the_AT atoms_NN2 ,_, as_II31 well_II32 as_II33 the_AT tunneling_NN1 ._. 
+</s>
+<s>
+The_AT average_JJ number_NN1 of_IO atoms_NN2 per_II site_NN1 loaded_VVN into_II the_AT OL_NN1 is_VBZ well_RR controlled_VVN ,_, as_CSA is_VBZ the_AT population_NN1 imbalance_NN1 if_CS the_AT atomic_JJ gas_NN1 comprises_VVZ two_MC different_JJ species_NN ._. 
+</s>
+<s>
+Even_RR the_AT interaction_NN1 between_II atoms_NN2 in_II different_JJ hyperfine_JJ states_NN2 can_VM be_VBI fully_RR controlled_VVN by_II introducing_VVG an_AT1 external_JJ magnetic_JJ field_NN1 tuned_VVN near_II a_AT1 Feshbach_NP1 resonance_NN1 ,_, providing_VVG a_AT1 crossover_NN1 between_II real-space_NN1 (_( BEC_NP1 )_) and_CC reciprocal-space_NN1 (_( BCS_NP2 )_) pairing_NN1 ._. 
+</s>
+<s>
+A_AT1 major_JJ thrust_NN1 of_IO current_JJ research_NN1 is_VBZ to_TO study_VVI key_JJ models_NN2 of_IO condensed_JJ matter_NN1 physics_NN1 in_II the_AT clean_JJ and_CC controlled_JJ environment_NN1 of_IO ultracold_NN1 atoms_NN2 in_II an_AT1 OL_NN1 ._. 
+</s>
+<s>
+Recently_RR ,_, there_EX have_VH0 been_VBN several_DA2 papers_NN2 on_II creating_VVG an_AT1 effective_JJ magnetic_JJ field_NN1 for_IF trapped_JJ neutral_JJ atoms_NN2 in_BCL21 order_BCL22 to_TO realize_VVI analogs_NN2 of_IO the_AT quantum_NN1 Hall_NN1 effect_NN1 (_( QHE_NP1 )_) (_( 12_MC ,_, 15_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 shall_VM focus_VVI on_II those_DD2 proposals_NN2 ._. 
+</s>
+<s>
+In_II the_AT following_JJ section_NN1 ,_, though_CS ,_, we_PPIS2 first_MD present_NN1 a_AT1 brief_JJ review_NN1 of_IO the_AT QHE_NN1 as_II a_AT1 motivation_NN1 for_IF the_AT introduction_NN1 of_IO effective_JJ gauge_NN1 fields_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 section_NN1 we_PPIS2 give_VV0 a_AT1 heuristic_JJ ,_, and_CC almost_RR correct_JJ ,_, review_NN1 of_IO the_AT quantum_NN1 Hall_NN1 effect_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 drawn_VVN heavily_RR on_II Refs._NN2 (_( 3_MC ,_, 4_MC ,_, 6_MC )_) ._. 
+</s>
+<s>
+Recall_VV0 the_AT classical_JJ Hall_NN1 effect_NN1 from_II elementary_JJ electrodynamics_NN2 :_: As_CSA charges_NN2 of_IO number_NN1 density_NN1 n_ZZ1 forming_VVG a_AT1 current_JJ density_NN1 j_ZZ1 in_II the_AT x-direction_JJ pass_NN1 through_II a_AT1 constant_JJ magnetic_JJ field_NN1 pointing_VVG along_II the_AT z-axis_NN1 ,_, the_AT Lorentz_NP1 force_NN1 deflects_VVZ the_AT charges_NN2 to_II the_AT edge_NN1 of_IO the_AT sample_NN1 ,_, creating_VVG a_AT1 voltage_NN1 in_II the_AT y-direction_NN1 ._. 
+</s>
+<s>
+In_II steadystate_NN1 ,_, the_AT force_NN1 from_II the_AT transverse_JJ Hall_NN1 field_NN1 precisely_RR cancels_VVZ the_AT transverse_JJ Lorentz_NN1 force_NN1 ,_, Ey_UH =_FO Bj/ne_FU ,_, and_CC the_AT sample_NN1 carries_VVZ current_JJ without_IW any_DD change_NN1 in_II its_APPGE resistivity_NN1 ._. 
+</s>
+<s>
+Another_DD1 way_NN1 to_TO say_VVI this_DD1 is_VBZ that_CST the_AT resistivity_NN1 tensor_NN1 ,_, defined_VVN by_II Considering_VVG the_AT situation_NN1 quantum_NN1 mechanically_RR ,_, we_PPIS2 begin_VV0 ,_, as_CSA always_RR ,_, with_IW a_AT1 Hamiltonian_JJ ._. 
+</s>
+<s>
+Here_RL we_PPIS2 take_VV0 the_AT bare-bones_NN2 model_NN1 of_IO a_AT1 noninteracting_NN1 ,_, spinless_JJ electron_NN1 gas_NN1 in_II a_AT1 two-dimensional_JJ rectangular_JJ sample_NN1 with_IW area_NN1 Lx_MC Ly_NP1 ,_, subject_II21 to_II22 a_AT1 constant_JJ magnetic_JJ field_NN1 in_II the_AT zdirection_NN1 ._. 
+</s>
+<s>
+Then_RT But_CCB on_II the_AT right-hand_JJ side_NN1 of_IO the_AT equation_NN1 ,_, we_PPIS2 recognize_VV0 an_AT1 effective_JJ Hamiltonian_JJ for_IF our_APPGE old_JJ pal_NN1 ,_, the_AT harmonic_JJ oscillator_NN1 in_II y_ZZ1 ,_, albeit_CS shifted_VVN by_II an_AT1 amount_NN1 which_DDQ depends_VVZ on_II the_AT plane-wave_JJ state_NN1 in_II x_ZZ1 ._. 
+</s>
+<s>
+From_II this_DD1 result_NN1 we_PPIS2 can_VM immediately_RR see_VVI two_MC things_NN2 ._. 
+</s>
+<s>
+Firstly_RR ,_, the_AT energy_NN1 levels_NN2 of_IO the_AT system_NN1 will_VM be_VBI of_IO the_AT form_NN1 If_CS the_AT magnetic_JJ field_NN1 is_VBZ tuned_VVN such_CS21 that_CS22 the_AT Fermi_NP1 energy_NN1 lies_VVZ exactly_RR at_II the_AT top_NN1 of_IO a_AT1 Landau_NP1 level_NN1 ,_, i.e._REX ,_, the_AT filling_NN1 factor_NN1 ,_, Roughly_RR speaking_VVG ,_, the_AT disorder_NN1 alters_VVZ the_AT level_JJ structure_NN1 by_II introducing_VVG localized_JJ states_NN2 in_II21 between_II22 Landau_NP1 levels_NN2 where_RRQ a_AT1 charge_NN1 carrier_NN1 is_VBZ bound_VVN to_II an_AT1 imperfection_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, the_AT Fermi_NP1 energy_NN1 does_VDZ not_XX jump_VVI abruptly_RR from_II level_NN1 to_II level_NN1 ,_, but_CCB instead_RR populates_VVZ the_AT localized_JJ states_NN2 in_II the_AT gaps_NN2 as_II the_AT magnetic_JJ field_NN1 is_VBZ increased_VVN ._. 
+</s>
+<s>
+These_DD2 localized_JJ states_NN2 do_VD0 not_XX contribute_VVI to_II the_AT transport_NN1 properties_NN2 of_IO the_AT system_NN1 ,_, so_RR if_CS the_AT Fermi_NP1 energy_NN1 is_VBZ in_II a_AT1 gap_NN1 of_IO the_AT clean_JJ energy_NN1 level_NN1 structure_NN1 ,_, as_CS31 far_CS32 as_CS33 the_AT conduction_NN1 electrons_NN2 are_VBR concerned_JJ ,_, nothing_PN1 has_VHZ changed_VVN ._. 
+</s>
+<s>
+The_AT Landau_NP1 level_JJ filling_NN1 factor_NN1 is_VBZ still_RR an_AT1 integer_NN1 and_CC the_AT Hall_NN1 resistivity_NN1 will_VM remain_VVI constant_JJ ._. 
+</s>
+<s>
+Thus_RR the_AT combination_NN1 of_IO energy_NN1 quantization_NN1 and_CC disorder_NN1 has_VHZ led_VVN to_II the_AT surprising_JJ plateaus_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 treatment_NN1 ,_, we_PPIS2 have_VH0 glossed_VVN over_II the_AT fact_NN1 that_CST the_AT presence_NN1 of_IO the_AT localized_JJ states_NN2 decreases_VVZ the_AT occupancy_NN1 of_IO the_AT Landau_NP1 levels_NN2 ,_, but_CCB one_PN1 can_VM use_VVI some_DD slick_JJ gauge_NN1 invariance_NN1 arguments_NN2 to_TO show_VVI that_CST the_AT remaining_JJ conduction_NN1 electrons_NN2 in_II fact_NN1 make_VV0 up_RP for_IF the_AT loss_NN1 of_IO their_APPGE compatriots_NN2 by_II increasing_VVG their_APPGE own_DA velocity_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+The_AT end_NN1 result_NN1 ,_, then_RT ,_, is_VBZ independent_JJ of_IO these_DD2 details_NN2 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 taken_VVN the_AT simplest_JJT scenario_NN1 imaginable_JJ above_RL ._. 
+</s>
+<s>
+Although_CS a_AT1 detailed_JJ treatment_NN1 would_VM take_VVI us_PPIO2 too_RG far_RR afield_RL ,_, we_PPIS2 now_RT mention_VV0 the_AT effect_NN1 of_IO a_AT1 periodic_JJ potential_NN1 on_II the_AT electron_NN1 gas_NN1 ,_, since_CS the_AT point_NN1 of_IO this_DD1 section_NN1 is_VBZ to_TO provide_VVI motivation_NN1 and_CC background_NN1 for_IF current_JJ proposals_NN2 on_II accessing_VVG quantum_NN1 Hall_NN1 regimes_NN2 with_IW atoms_NN2 in_II optical_JJ lattices_NN2 ._. 
+</s>
+<s>
+Briefly_RR ,_, the_AT periodic_JJ potential_NN1 has_VHZ the_AT effect_NN1 of_IO opening_VVG up_RP gaps_NN2 inside_II the_AT Landau_NP1 levels_NN2 ._. 
+</s>
+<s>
+By_II the_AT same_DA reasoning_NN1 as_CSA for_IF the_AT simple_JJ case_NN1 ,_, one_PN1 expects_VVZ to_TO see_VVI plateaus_NN2 at_II the_AT fractional_JJ fillings_NN2 where_RRQ the_AT intraband_NN1 gaps_NN2 appear_VV0 ._. 
+</s>
+<s>
+This_DD1 is_VBZ in_II fact_NN1 observed_VVD experimentally_RR ._. 
+</s>
+<s>
+However_RR ,_, although_CS it_PPH1 is_VBZ not_XX obvious_JJ without_IW a_AT1 more_RGR careful_JJ inspection_NN1 ,_, the_AT values_NN2 of_IO the_AT Hall_NN1 resistivity_NN1 at_II the_AT plateaus_NN2 still_RR correspond_VV0 to_II integer_NN1 multiples_NN2 of_IO h/e2_FU ._. 
+</s>
+<s>
+Finally_RR ,_, what_DDQ we_PPIS2 have_VH0 discussed_VVN above_RL is_VBZ the_AT integer_NN1 quantum_NN1 Hall_NN1 effect_NN1 (_( IQHE_NP1 )_) ._. 
+</s>
+<s>
+There_EX is_VBZ also_RR a_AT1 fractional_JJ quantum_NN1 Hall_NN1 effect_NN1 (_( FQHE_NP1 )_) ,_, where_CS the_AT Hall_NN1 resistivity_NN1 has_VHZ plateaus_NN2 at_II fractional_JJ multiples_NN2 of_IO h/e2_FU for_RR21 certain_RR22 fractional_JJ values_NN2 of_IO the_AT filling_NN1 factor_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ due_II21 to_II22 the_AT electron-electron_JJ interactions_NN2 opening_VVG additional_JJ energy_NN1 gaps_NN2 inside_II the_AT Landau_NP1 levels_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 many-body_JJ effect_NN1 resulting_VVG in_II fractionally_RR charged_VVN ,_, possibly_RR anyonic_JJ ,_, quasiparticles_NN2 ._. 
+</s>
+<s>
+Much_RR has_VHZ been_VBN made_VVN of_IO the_AT ramifications_NN2 of_IO such_DA a_AT1 system_NN1 for_IF condensed_JJ matter_NN1 physics_NN1 ,_, quantum_NN1 computation_NN1 ,_, and_CC even_RR high-energy_JJ physics_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT topic_NN1 lies_VVZ well_RR outside_II the_AT scope_NN1 of_IO this_DD1 paper_NN1 ._. 
+</s>
+<s>
+For_IF our_APPGE purposes_NN2 ,_, it_PPH1 is_VBZ sufficient_JJ to_TO note_VVI that_CST the_AT FQHE_NN1 is_VBZ of_IO considerable_JJ interest_NN1 and_CC that_CST a_AT1 realization_NN1 of_IO this_DD1 effect_NN1 in_II an_AT1 atomic_JJ system_NN1 would_VM have_VHI great_JJ value_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, a_AT1 periodic_JJ potential_NN1 has_VHZ the_AT effect_NN1 of_IO enhancing_VVG many-body_JJ interactions_NN2 and_CC increasing_VVG the_AT intraband_NN1 gaps_NN2 ,_, thereby_RR enhancing_VVG the_AT effect_NN1 and_CC stabilizing_VVG it_PPH1 against_II thermal_JJ fluctuations_NN2 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 discussed_VVN in_II the_AT Introduction_NN1 the_AT allure_NN1 of_IO simulating_VVG condensed_JJ matter_NN1 systems_NN2 with_IW ultracold_NN1 atomic_JJ systems_NN2 ._. 
+</s>
+<s>
+One_PN1 can_VM simulate_VVI the_AT two-dimensional_JJ periodic_JJ structures_NN2 of_IO interest_NN1 in_II condensed_JJ matter_NN1 systems_NN2 by_II confining_VVG an_AT1 ultracold_NN1 gas_NN1 of_IO neutral_JJ fermionic_JJ atoms_NN2 in_II a_AT1 three-dimensional_JJ magnetic_JJ trap_NN1 (_( which_DDQ we_PPIS2 assume_VV0 to_TO be_VBI approximately_RR harmonic_JJ )_) and_CC turning_VVG on_II a_AT1 twodimensional_JJ optical_JJ lattice_NN1 (_( OL_NP1 )_) in_II the_AT x-y_FO plane_NN1 ._. 
+</s>
+<s>
+The_AT gas_NN1 then_RT is_VBZ effectively_RR two-dimensional_JJ if_CS we_PPIS2 assume_VV0 that_CST the_AT trap_NN1 frequency_NN1 is_VBZ much_RR greater_JJR in_II the_AT z-direction_NN1 than_CSN in_II the_AT radial_JJ direction_NN1 and_CC that_CST the_AT atoms_NN2 are_VBR cold_JJ enough_RR that_CST the_AT dynamics_NN along_II the_AT z-axis_NN1 are_VBR frozen_VVN out_RP ._. 
+</s>
+<s>
+The_AT type_NN1 of_IO lattice_NN1 in_II the_AT x-y_FO plane_NN1 can_VM be_VBI altered_VVN by_II adjusting_VVG the_AT number_NN1 of_IO lasers_NN2 and_CC their_APPGE geometry_NN1 ._. 
+</s>
+<s>
+Then_RT one_PN1 can_VM access_VVI physics_NN1 such_II21 as_II22 the_AT quantum_NN1 Hall_NN1 effect_NN1 if_CS one_PN1 can_VM create_VVI an_AT1 effective_JJ magnetic_JJ field_NN1 for_IF the_AT atoms_NN2 ._. 
+</s>
+<s>
+The_AT simplest_JJT way_NN1 to_TO generate_VVI such_DA a_AT1 field_NN1 is_VBZ to_TO get_VVI the_AT atomic_JJ cloud_NN1 rotating_VVG ._. 
+</s>
+<s>
+This_DD1 is_VBZ typically_RR done_VDN by_II either_RR introducing_VVG a_AT1 rotating_JJ deformation_NN1 to_II the_AT symmetric_JJ radial_JJ trap_NN1 (_( 8_MC )_) ,_, or_CC stirring_VVG the_AT gas_NN1 with_IW a_AT1 blue-detuned_JJ laser_NN1 (_( 9_MC )_) ._. 
+</s>
+<s>
+Then_RT ,_, in_II the_AT rotating_JJ reference_NN1 frame_NN1 ,_, the_AT Coriolis_NN1 force_NN1 plays_VVZ the_AT role_NN1 of_IO the_AT magnetic_JJ field_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+To_TO see_VVI this_DD1 ,_, let_VV0 us_PPIO2 consider_VVI the_AT Hamiltonian_JJ of_IO the_AT rotating_JJ system_NN1 ,_, neglecting_VVG for_IF now_RT the_AT lattice_NN1 potential_NN1 ,_, where_CS In_BCL21 order_BCL22 to_TO study_VVI fractional_JJ quantum_NN1 Hall_NN1 effects_NN2 ,_, we_PPIS2 want_VV0 to_TO incorporate_VVI a_AT1 periodic_JJ potential_NN1 to_TO enhance_VVI the_AT atom-atom_JJ interactions_NN2 along_II21 with_II22 the_AT effective_JJ magnetic_JJ field_NN1 ._. 
+</s>
+<s>
+Clearly_RR though_CS ,_, if_CS we_PPIS2 realize_VV0 the_AT magnetic_JJ field_NN1 by_II going_VVG to_II the_AT rotating_JJ frame_NN1 ,_, the_AT periodic_JJ potential_NN1 should_VM be_VBI stationary_JJ in_II the_AT rotating_JJ frame_NN1 ._. 
+</s>
+<s>
+So_RR we_PPIS2 need_VV0 to_TO be_VBI able_JK to_TO create_VVI a_AT1 rotating_JJ optical_JJ lattice_NN1 in_II the_AT lab_NN1 frame_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI done_VDN by_II either_DD1 a_ZZ1 )_) splitting_VVG a_AT1 laser_NN1 beam_NN1 into_II three_MC beams_NN2 with_IW a_AT1 rotating_JJ mask_NN1 and_CC focusing_VVG the_AT beams_NN2 onto_II the_AT atomic_JJ cloud_NN1 to_TO create_VVI a_AT1 rotating_JJ interference_NN1 pattern_NN1 (_( 10_MC )_) as_CSA shown_VVN in_II Fig._NN1 2_MC ,_, or_CC b_ZZ1 )_) focusing_VVG a_AT1 red-detuned_JJ laser_NN1 with_IW a_AT1 rotating_JJ array_NN1 of_IO microlenses_NN2 (_( 11_MC )_) as_CSA shown_VVN in_II Fig._NN1 3_MC ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 technical_JJ difficulties_NN2 with_IW the_AT procedure_NN1 outlined_VVN above_RL ._. 
+</s>
+<s>
+First_MD of_IO all_DB ,_, the_AT rotation_NN1 frequency_NN1 of_IO the_AT atomic_JJ cloud_NN1 must_VM be_VBI carefully_RR tuned_VVN close_RR to_II the_AT trapping_NN1 frequency_NN1 so_CS21 that_CS22 the_AT unwanted_JJ term_NN1 in_II the_AT Hamiltonian_JJ is_VBZ negligible_JJ compared_VVN to_II the_AT interaction_NN1 energy_NN1 scale_NN1 ._. 
+</s>
+<s>
+Controlling_VVG the_AT rotation_NN1 is_VBZ no_AT easy_JJ feat_NN1 in_II itself_PPX1 ,_, but_CCB aside_II21 from_II22 that_DD1 ,_, this_DD1 limitation_NN1 severely_RR restricts_VVZ the_AT accessible_JJ range_NN1 of_IO effective_JJ magnetic_JJ field_NN1 strengths_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO study_VVI the_AT FQHE_NN1 ,_, the_AT goal_NN1 is_VBZ to_TO attain_VVI the_AT regime_NN1 where_CS all_DB atoms_NN2 are_VBR in_II the_AT lowest_JJT Landau_NP1 level_NN1 ,_, i.e._REX ,_, the_AT number_NN1 of_IO magnetic_JJ flux_NN1 quanta_NN1 approaches_VVZ the_AT number_NN1 of_IO atoms_NN2 ._. 
+</s>
+<s>
+With_IW the_AT above_JJ limitation_NN1 on_II the_AT field_NN1 strength_NN1 ,_, very_RG low_JJ atomic_JJ densities_NN2 on_II the_AT order_NN1 of_IO To_TO make_VVI things_NN2 worse_JJR ,_, even_CS21 if_CS22 one_PN1 could_VM precisely_RR control_VVI the_AT rotation_NN1 frequency_NN1 ,_, one_PN1 must_VM keep_VVI it_PPH1 less_RRR than_CSN the_AT radial_JJ frequency_NN1 ._. 
+</s>
+<s>
+Otherwise_RR ,_, the_AT radial_JJ trapping_NN1 would_VM be_VBI negated_VVN and_CC the_AT gas_NN1 would_VM rapidly_RR expand_VVI out_II21 of_II22 the_AT experiment_NN1 due_II21 to_II22 its_APPGE thermal_JJ energy_NN1 and_CC repulsive_JJ interactions_NN2 ._. 
+</s>
+<s>
+On_II31 top_II32 of_II33 that_DD1 ,_, the_AT rotation_NN1 frequency_NN1 of_IO the_AT mask_NN1 or_CC microlens_NN2 array_NN1 must_VM be_VBI matched_VVN with_IW the_AT rotation_NN1 frequency_NN1 of_IO the_AT gas_NN1 ._. 
+</s>
+<s>
+Frequency_NN1 jitter_NN1 due_II21 to_II22 mechanical_JJ vibration_NN1 or_CC optical_JJ aberrations_NN2 result_VV0 in_II heating_NN1 ._. 
+</s>
+<s>
+In_II summary_NN1 ,_, this_DD1 type_NN1 of_IO procedure_NN1 works_VVZ if_CS the_AT atomic_JJ gas_NN1 is_VBZ very_RG dilute_JJ and_CC the_AT energy_NN1 scale_NN1 of_IO the_AT various_JJ deviations_NN2 from_II our_APPGE model_NN1 Hamiltonian_JJ are_VBR small_RR compared_VVN to_II the_AT energy_NN1 scale_NN1 of_IO the_AT interactions_NN2 we_PPIS2 are_VBR trying_VVG to_TO enhance_VVI ._. 
+</s>
+<s>
+For_IF weakly_RR interacting_JJ atoms_NN2 ,_, we_PPIS2 would_VM do_VDI well_RR to_TO consider_VVI our_APPGE alternatives_NN2 ._. 
+</s>
+<s>
+Following_VVG Ref._NN1 (_( 12_MC )_) ,_, we_PPIS2 now_RT consider_VV0 an_AT1 atomic_JJ gas_NN1 of_IO three-level_JJ atoms_NN2 in_II a_AT1 We_PPIS2 shall_VM work_VVI in_II the_AT field-interaction_JJ picture_NN1 ,_, Diagonalization_NN1 p_ZZ1 yields_VVZ eigenvalues_NN2 Here_RL D_ZZ1 )_) denotes_VVZ the_AT "_" dark_JJ state_NN1 "_" and_CC is_VBZ completely_RR decoupled_VVN from_II the_AT other_JJ states_NN2 ._. 
+</s>
+<s>
+Note_VV0 that_CST these_DD2 states_NN2 are_VBR generally_RR spatially_RR dependent_JJ through_II their_APPGE dependence_NN1 on_II the_AT fields_NN2 ._. 
+</s>
+<s>
+Writing_VVG the_AT wavefunction_NN1 in_II31 terms_II32 of_II33 these_DD2 semiclassical_JJ dressed_JJ states_NN2 ,_, and_CC inserting_VVG the_AT identity_NN1 for_IF the_AT internal_JJ degree_NN1 of_IO freedom_NN1 all_RR over_II the_AT place_NN1 ,_, Schrdinger_NP1 's_GE equation_NN1 becomes_VVZ (_( Note_VV0 that_CST the_AT arguments_NN2 are_VBR implied_VVN ._. )_) 
+</s>
+<s>
+It_PPH1 is_VBZ instructive_JJ to_TO rewrite_VVI this_DD1 in_II matrix_NN1 form_NN1 ,_, where_CS we_PPIS2 have_VH0 defined_VVN the_AT column_NN1 vector_NN1 If_CS we_PPIS2 now_RT assume_VV0 the_AT atoms_NN2 are_VBR initially_RR in_II the_AT dark_JJ state_NN1 ,_, c_ZZ1 =_FO (_( 1_MC1 ,_, 0_MC ,_, 0_MC )_) T_ZZ1 ,_, we_PPIS2 know_VV0 that_CST they_PPHS2 will_VM stay_VVI there_RL adiabatically_RR ,_, since_CS the_AT dark_JJ state_NN1 is_VBZ impervious_JJ to_II the_AT applied_JJ fields_NN2 ._. 
+</s>
+<s>
+We_PPIS2 can_VM also_RR discourage_VVI nonadiabatic_JJ excitation_NN1 by_II taking_VVG where_RRQ we_PPIS2 have_VH0 introduced_VVN the_AT ratio_NN1 of_IO the_AT fields_NN2 where_RRQ Assume_VV0 the_AT atoms_NN2 are_VBR tightly_RR confined_VVN in_II the_AT zdirection_NN1 so_CS21 that_CS22 Now_RT we_PPIS2 should_VM be_VBI honest_JJ about_II what_DDQ we_PPIS2 have_VH0 swept_VVN under_II the_AT rug_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 ,_, after_II all_DB ,_, neglected_VVD spontaneous_JJ emission_NN1 ,_, collisional_JJ dephasing_NN1 ,_, and_CC thermal_JJ effects_NN2 ._. 
+</s>
+<s>
+Since_CS we_PPIS2 have_VH0 taken_VVN a_AT1 Another_DD1 issue_NN1 we_PPIS2 have_VH0 neglected_VVN is_VBZ atom-atom_JJ interactions_NN2 ._. 
+</s>
+<s>
+If_CS we_PPIS2 are_VBR interested_JJ in_II realizing_VVG the_AT FQHE_NN1 ,_, then_RT the_AT interactions_NN2 are_VBR essential_JJ ._. 
+</s>
+<s>
+Above_RL we_PPIS2 have_VH0 pretended_VVN they_PPHS2 were_VBDR negligible_JJ ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO treat_VVI an_AT1 interacting_JJ gas_NN1 ,_, one_PN1 could_VM include_VVI two-body_JJ contact_NN1 potentials_NN2 for_IF interactions_NN2 between_II each_DD1 possible_JJ pair_NN of_IO internal_JJ states_NN2 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 would_VM have_VHI a_AT1 set_NN1 of_IO coupled_JJ nonlinear_JJ Gross-Pitaevskii_JJ equations_NN2 instead_II21 of_II22 the_AT uncoupled_JJ linear_JJ Schrdinger_NN1 equations_NN2 in_II Eq_NN1 ._. 
+</s>
+<s>
+(_( 7_MC )_) ._. 
+</s>
+<s>
+Presumably_RR one_PN1 could_VM proceed_VVI as_CSA before_RT to_TO find_VVI some_DD effective_JJ vector_NN1 potential_NN1 under_II the_AT proper_JJ conditions_NN2 ,_, but_CCB it_PPH1 is_VBZ not_XX at_RR21 all_RR22 clear_VV0 what_DDQ the_AT result_NN1 would_VM be_VBI ._. 
+</s>
+<s>
+So_RR although_CS one_PN1 should_VM be_VBI able_JK to_TO observe_VVI FQHE-type_JJ physics_NN1 with_IW this_DD1 procedure_NN1 ,_, the_AT theoretical_JJ formalism_NN1 to_TO describe_VVI it_PPH1 quantitatively_RR has_VHZ not_XX yet_RR been_VBN developed_VVN ._. 
+</s>
+<s>
+Finally_RR ,_, recall_VV0 from_II our_APPGE review_NN1 of_IO the_AT quantum_NN1 Hall_NN1 effect_NN1 that_CST besides_II a_AT1 magnetic_JJ field_NN1 ,_, we_PPIS2 also_RR needed_VVN one_MC1 other_JJ main_JJ ingredient_NN1 :_: disorder_NN1 ._. 
+</s>
+<s>
+So_RR ,_, we_PPIS2 should_VM mention_VVI that_CST one_PN1 can_VM easily_RR generate_VVI a_AT1 disordered_JJ optical_JJ potential_NN1 with_IW a_AT1 speckle_NN1 field_NN1 (_( 7_MC )_) ,_, generated_VVN by_II scattering_VVG a_AT1 laser_NN1 off_II a_AT1 rough_JJ surface_NN1 or_CC passing_VVG it_PPH1 through_II a_AT1 diffusive_JJ element_NN1 ._. 
+</s>
+<s>
+In_II contrast_NN1 to_II condensed_JJ matter_NN1 systems_NN2 ,_, the_AT amount_NN1 of_IO disorder_NN1 is_VBZ well_RR controlled_VVN ,_, providing_VVG yet_RR another_DD1 incentive_NN1 to_TO do_VDI the_AT experiments_NN2 in_II an_AT1 atomic_JJ analog_NN1 system_NN1 ._. 
+</s>
+<s>
+Let_VV0 us_PPIO2 follow_VVI Ref._NN1 (_( 15_MC )_) in_II extending_VVG the_AT above_JJ formalism_NN1 to_TO encompass_VVI some_DD interesting_JJ non-FQHE_JJ physics_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 scheme_NN1 we_PPIS2 do_VD0 not_XX take_VVI the_AT detuning_NN1 to_TO zero_VVI in_BCL21 order_BCL22 to_TO isolate_VVI the_AT dark_JJ state_NN1 energetically_RR ._. 
+</s>
+<s>
+Instead_RR we_PPIS2 take_VV0 the_AT detuning_NN1 to_TO be_VBI very_RG large_JJ in_II order_NN1 to_TO adiabatically_RR eliminate_VVI the_AT upper_JJ state_NN1 ,_, In_II the_AT case_NN1 where_CS we_PPIS2 have_VH0 defined_VVN the_AT mixing_NN1 angle_NN1 tan_NN1 The_AT new_JJ wrinkle_NN1 is_VBZ that_CST we_PPIS2 also_RR get_VV0 a_AT1 similar_JJ equation_NN1 for_IF So_RR we_PPIS2 see_VV0 that_CST in_II this_DD1 case_NN1 ,_, not_XX only_RR does_VDZ the_AT effective_JJ magnetic_JJ field_NN1 depend_VV0 on_II the_AT internal_JJ state_NN1 ,_, but_CCB it_PPH1 acts_VVZ equally_RR and_CC oppositely_RR for_IF the_AT two_MC states_NN2 ,_, which_DDQ is_VBZ particularly_RR nice_JJ for_IF the_AT spin-1/2_FU analogy_NN1 ._. 
+</s>
+<s>
+Now_CS21 that_CS22 we_PPIS2 have_VH0 demonstrated_VVN a_AT1 technique_NN1 for_IF creating_VVG artificial_JJ magnetic_JJ fields_NN2 ,_, we_PPIS2 can_VM play_VVI with_IW different_JJ spatial_JJ profiles_NN2 of_IO the_AT lasers_NN2 to_TO obtain_VVI different_JJ spatial_JJ dependences_NN2 of_IO the_AT magnetic_JJ field_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, since_CS these_DD2 magnetic_JJ fields_NN2 are_VBR completely_RR phony_JJ ,_, we_PPIS2 can_VM even_RR engineer_VVI effective_JJ fields_NN2 which_DDQ do_VD0 not_XX satisfy_VVI Maxwell_NP1 's_GE equations_NN2 ._. 
+</s>
+<s>
+However_RR ,_, we_PPIS2 can_VM even_RR do_VDI better_RRR by_II generalizing_VVG this_DD1 procedure_NN1 to_TO obtain_VVI non-Abelian_JJ gauge_NN1 fields_NN2 (_( 16_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 give_VV0 a_AT1 flavor_NN1 for_IF the_AT main_JJ idea_NN1 below_RL ._. 
+</s>
+<s>
+Recall_VV0 that_CST ordinary_JJ Abelian_JJ gauge_NN1 fields_NN2 ,_, such_II21 as_II22 real_JJ magnetic_JJ fields_NN2 ,_, stem_VV0 from_II imposing_VVG the_AT local_JJ U(1)_FO phase_NN1 symmetry_NN1 If_CS we_PPIS2 have_VH0 a_AT1 two-component_JJ spinor_NN1 field_NN1 ,_, imposing_VVG the_AT local_JJ SU_NN1 (_( 2_MC )_) rotational_JJ symmetry_NN1 We_PPIS2 have_VH0 a_AT1 similar_JJ situation_NN1 in_II an_AT1 atomic_JJ system_NN1 if_CS we_PPIS2 have_VH0 two_MC degenerate_JJ dressed_JJ states_NN2 (_( where_CS the_AT 2_MC 2_MC matrices_NN2 (_( of_IO vectors_NN2 )_) Notice_VV0 that_CST since_CS the_AT subspace_NN1 is_VBZ degenerate_JJ ,_, we_PPIS2 could_VM just_RR as_RR21 well_RR22 choose_VVI a_AT1 different_JJ basis_NN1 set_NN1 connected_VVN to_II our_APPGE original_JJ basis_NN1 by_II a_AT1 local_JJ unitary_JJ transformation_NN1 ,_, G(x)_NP1 ._. 
+</s>
+<s>
+But_CCB if_CS we_PPIS2 make_VV0 the_AT transformation_NN1 In_II summary_NN1 ,_, we_PPIS2 have_VH0 reviewed_VVN the_AT main_JJ ideas_NN2 of_IO the_AT quantum_NN1 Hall_NN1 effect_NN1 to_TO motivate_VVI the_AT realization_NN1 of_IO an_AT1 analogous_JJ regime_NN1 in_II an_AT1 ultracold_NN1 atomic_JJ gas_NN1 ,_, which_DDQ is_VBZ eminently_RR more_RGR controllable_JJ than_CSN a_AT1 condensed_JJ matter_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT key_JJ ingredient_NN1 is_VBZ the_AT presence_NN1 of_IO a_AT1 strong_JJ effective_JJ magnetic_JJ field_NN1 ._. 
+</s>
+<s>
+Such_DA a_AT1 field_NN1 can_VM be_VBI introduced_VVN via_II physical_JJ rotation_NN1 of_IO the_AT gas_NN1 ,_, with_IW a_AT1 co-rotating_JJ optical_JJ lattice_NN1 potential_NN1 to_TO bolster_VVI atom-atom_JJ interactions_NN2 ,_, although_CS there_EX are_VBR often_RR technical_JJ difficulties_NN2 with_IW this_DD1 approach_NN1 ._. 
+</s>
+<s>
+For_IF a_AT1 gas_NN1 of_IO three-level_JJ atoms_NN2 ,_, the_AT magnetic_JJ field_NN1 can_VM also_RR be_VBI introduced_VVN in_II a_AT1 STIRAP-type_JJ experiment_NN1 through_II the_AT formation_NN1 of_IO decoupled_JJ semi-classical_JJ dressed_JJ states_NN2 that_CST evolve_VV0 in_II an_AT1 effective_JJ vector_NN1 potential_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 also_RR identified_VVN a_AT1 possible_JJ avenue_NN1 of_IO future_JJ research_NN1 in_II the_AT inclusion_NN1 of_IO atom-atom_JJ interactions_NN2 in_II a_AT1 similar_JJ formalism_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, we_PPIS2 have_VH0 briefly_RR sketched_VVN how_RRQ one_PN1 might_VM create_VVI light-induced_JJ effective_JJ non-Abelian_JJ gauge_NN1 fields_NN2 in_II an_AT1 atomic_JJ system_NN1 ._. 
+</s>

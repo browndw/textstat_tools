@@ -1,0 +1,165 @@
+<s>
+The_AT operation_NN1 of_IO internal_JJ combustion_NN1 engines_NN2 at_II their_APPGE current_JJ speed_NN1 range_NN1 is_VBZ made_VVN possible_JJ by_II turbulence_NN1 ._. 
+</s>
+<s>
+If_CS complete_JJ combustion_NN1 of_IO the_AT fuel-air_JJ mixture_NN1 depended_VVD solely_RR on_II the_AT laminar_JJ flame_NN1 velocity_NN1 of_IO the_AT fuel_NN1 ,_, a_AT1 typical_JJ four-stroke_JJ engine_NN1 running_VVG on_II iso-octane_NN1 (_( a_AT1 hydrocarbon_NN1 that_CST approximates_VVZ gasoline_NN1 )_) would_VM have_VHI a_AT1 maximum_JJ speed_NN1 of_IO approximately_RR 400_MC rpm_NNU (_( 1_MC1 )_) ._. 
+</s>
+<s>
+However_RR ,_, turbulence_NN1 wrinkles_NN2 the_AT flame_NN1 front_NN1 and_CC causes_VVZ entrainment_NN1 of_IO the_AT fuel-air_JJ mixture_NN1 by_II the_AT flame_NN1 front_NN1 ,_, leading_VVG to_II flame_NN1 fronts_NN2 with_IW larger_JJR surface_NN1 areas_NN2 ._. 
+</s>
+<s>
+This_DD1 leads_VVZ to_II higher_JJR burning_JJ rates_NN2 and_CC the_AT high_JJ power_NN1 densities_NN2 of_IO internal_JJ combustion_NN1 engines_NN2 ._. 
+</s>
+<s>
+Turbulence_NN1 occurs_VVZ as_II the_AT fluid_NN1 jet_NN1 coming_VVG through_II the_AT intake_NN1 valve_NN1 separates_VVZ from_II the_AT valve_NN1 seat_NN1 ,_, producing_VVG shear_VV0 layers_NN2 with_IW large_JJ velocity_NN1 gradients_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+It_PPH1 increases_VVZ as_II the_AT engine_NN1 speed_NN1 increases_NN2 ,_, allowing_VVG internal_JJ combustion_NN1 engines_NN2 to_TO operate_VVI over_RP a_AT1 large_JJ range_NN1 of_IO loads_NN2 and_CC speeds_NN2 ._. 
+</s>
+<s>
+Proper_JJ combustion_NN1 in_II internal_JJ combustion_NN1 engines_NN2 may_VM be_VBI ensured_VVN by_II controlling_VVG turbulence_NN1 in_II the_AT flow_NN1 within_II engines_NN2 ._. 
+</s>
+<s>
+If_CS turbulence_NN1 causes_VVZ the_AT surface_NN1 area_NN1 of_IO flame_NN1 fronts_NN2 to_TO become_VVI too_RG large_JJ ,_, excessive_JJ heat_NN1 conduction_NN1 out_II21 of_II22 the_AT reaction_NN1 zone_NN1 causes_VVZ premature_JJ flame_NN1 extinction_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, if_CS the_AT flame_NN1 kernel_NN1 from_II the_AT early_JJ stages_NN2 of_IO combustion_NN1 dwells_VVZ near_II the_AT spark_NN1 plug_NN1 for_IF too_RG long_RR ,_, it_PPH1 may_VM be_VBI extinguished_VVN too_RG quickly_RR due_II21 to_II22 excessive_JJ heat_NN1 loss_NN1 ,_, resulting_VVG in_II incomplete_JJ combustion_NN1 ._. 
+</s>
+<s>
+However_RR ,_, if_CS the_AT flame_NN1 kernel_NN1 moves_VVZ away_II21 from_II22 the_AT region_NN1 near_II the_AT spark_NN1 plug_VV0 too_RG quickly_RR towards_II regions_NN2 of_IO high_JJ ignition_NN1 energy_NN1 or_CC low_JJ temperature_NN1 ,_, such_II21 as_II22 the_AT cylinder_NN1 walls_NN2 ,_, it_PPH1 may_VM be_VBI extinguished_VVN too_RR ._. 
+</s>
+<s>
+Thus_RR ,_, a_AT1 mean_JJ fluid_NN1 velocity_NN1 between_II 3_MC m/s_ZZ1 and_CC 5_MC m/s_ZZ1 is_VBZ optimal_JJ (_( 1_MC1 )_) ._. 
+</s>
+<s>
+In_II direct_JJ injection_NN1 engines_NN2 ,_, turbulence_NN1 also_RR controls_VVZ the_AT degree_NN1 of_IO mixing_NN1 of_IO the_AT fuel_NN1 spray_NN1 with_IW the_AT air_NN1 in_II the_AT cylinder_NN1 ,_, thus_RR controlling_VVG the_AT equivalence_NN1 ratio_NN1 stratification_NN1 and_CC flame_NN1 development_NN1 ._. 
+</s>
+<s>
+As_CSA turbulence_NN1 is_VBZ very_RG sensitive_JJ to_II initial_JJ conditions_NN2 ,_, there_EX can_VM be_VBI great_JJ cycle-to-cycle_JJ variability_NN1 in_II turbulence_NN1 in_II engines_NN2 ,_, leading_VVG to_II incomplete_JJ combustion_NN1 or_CC even_RR misfires_NN2 ,_, and_CC variations_NN2 in_II the_AT engine_NN1 power_NN1 ._. 
+</s>
+<s>
+Accounting_VVG for_IF cycle-to-cycle_JJ variability_NN1 leads_VVZ to_TO design_VVI compromises_NN2 that_CST reduce_VV0 engine_NN1 power_NN1 at_II full_JJ load_NN1 and_CC fuel_NN1 efficiency_NN1 at_II part_NN1 load_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Understanding_VVG turbulence_NN1 allows_VVZ for_IF the_AT minimization_NN1 of_IO the_AT effects_NN2 of_IO cycle-to-cycle_JJ variation_NN1 in_II turbulence_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM lead_VVI to_II higher_JJR engine_NN1 power_NN1 ,_, better_JJR fuel_NN1 economy_NN1 ,_, and_CC reduced_VVD emissions_NN2 ._. 
+</s>
+<s>
+Turbulence_NN1 may_VM be_VBI studied_VVN by_II examining_VVG the_AT fluid_NN1 velocity_NN1 fields_NN2 in_II internal_JJ combustion_NN1 engines_NN2 ._. 
+</s>
+<s>
+Particle_NN1 image_NN1 velocimetry_NN1 (_( PIV_NP1 )_) is_VBZ a_AT1 technique_NN1 that_CST uses_VVZ a_AT1 laser_NN1 light_NN1 sheet_NN1 to_TO illuminate_VVI tracer_NN1 particles_NN2 in_II the_AT fluid_NN1 in_II a_AT1 transparent_JJ quartz_NN1 cylinder_NN1 and_CC captures_VVZ the_AT movement_NN1 of_IO these_DD2 particles_NN2 using_VVG high-speed_JJ cameras_NN2 ._. 
+</s>
+<s>
+These_DD2 images_NN2 are_VBR then_RT used_VVN to_TO construct_VVI instantaneous_JJ fluid_NN1 velocity_NN1 fields_NN2 ._. 
+</s>
+<s>
+The_AT experiment_NN1 discussed_VVN in_II this_DD1 report_NN1 used_VVD a_AT1 high-speed_JJ PIV_NN1 technique_NN1 that_CST employed_VVD 355_MC nm_FU lasers_NN2 and_CC silicone_NN1 oil_NN1 tracer_NN1 particles_NN2 to_TO capture_VVI instantaneous_JJ velocity_NN1 data_NN in_II a_AT1 motored_JJ four-stroke_NN1 ,_, single-cylinder_NN1 ,_, four-valve_JJ gasoline_NN1 stratified_JJ spark_NN1 ignition_NN1 direct_JJ injection_NN1 engine_NN1 during_II consecutive_JJ engine_NN1 cycles_NN2 at_II every_AT1 other_JJ crank_NN1 angle_NN1 from_II 69_MC BTDC_NP1 to_II 25_MC BTDC_NP1 ._. 
+</s>
+<s>
+The_AT engine_NN1 was_VBDZ run_VVN at_II a_AT1 speed_NN1 of_IO 2000_MC rpm_NNU with_IW an_AT1 intake_NN1 pressure_NN1 of_IO 95_MC kPa_NN1 and_CC an_AT1 intake_NN1 temperature_NN1 of_IO 45_MC C._NP1 Previous_JJ high-speed_JJ PIV_NN1 techniques_NN2 used_JJ lasers_NN2 in_II the_AT green_JJ range_NN1 of_IO the_AT spectrum_NN1 (_( 510_MC nm_FU ,_, 527_MC nm_FU ,_, or_CC 528_MC nm_FU )_) ._. 
+</s>
+<s>
+However_RR ,_, lasers_NN2 emitting_VVG green_JJ light_NN1 can_56 not_56 be_VBI used_VVN to_TO capture_VVI reliable_JJ velocity_NN1 fields_NN2 in_II a_AT1 fired_JJ engine_NN1 as_CSA soot_NN1 luminosity_NN1 would_VM interfere_VVI with_IW the_AT laser_NN1 light_NN1 scattered_VVN by_II the_AT tracer_NN1 particles_NN2 ._. 
+</s>
+<s>
+Using_VVG 355_MC nm_FU lasers_NN2 effectively_RR circumvents_VVZ this_DD1 problem_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Instantaneous_JJ velocity_NN1 vector_NN1 fields_NN2 were_VBDR obtained_VVN from_II the_AT raw_JJ images_NN2 of_IO tracer_NN1 particles_NN2 using_VVG LaVision_NP1 Davis_NP1 7.1_MC ,_, a_AT1 commercial_JJ software_NN1 package_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+These_DD2 velocity_NN1 vector_NN1 fields_NN2 from_II consecutive_JJ cycles_NN2 were_VBDR organized_VVN according_II21 to_II22 crank_NN1 angle_NN1 ._. 
+</s>
+<s>
+Gaussian_JJ filters_NN2 of_IO wavelengths_NN2 varying_VVG from_II wavelengths_NN2 close_RR to_II the_AT resolution_NN1 of_IO the_AT velocity_NN1 vector_NN1 fields_NN2 (_( 1_MC1 mm_NNU )_) up_II21 to_II22 wavelengths_NN2 close_VV0 to_II the_AT size_NN1 of_IO the_AT vector_NN1 fields_NN2 were_VBDR applied_VVN to_II them_PPHO2 (_( 33.1_MC mm_NNU )_) ._. 
+</s>
+<s>
+The_AT resultant_JJ velocity_NN1 vector_NN1 fields_NN2 illustrate_VV0 the_AT flow_NN1 structure_NN1 at_II different_JJ length_NN1 scales_NN2 in_II internal_JJ combustion_NN1 engines_NN2 ._. 
+</s>
+<s>
+They_PPHS2 were_VBDR subtracted_VVN from_II each_PPX221 other_PPX222 to_TO obtain_VVI band_NN1 passes_VVZ that_CST had_VHD the_AT same_DA size_NN1 in_II wave_NN1 number_NN1 space_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT velocity_NN1 vectors_NN2 resulting_VVG from_II the_AT application_NN1 of_IO Gaussian_JJ filters_NN2 of_IO 1_MC1 mm_NNU wavelength_NN1 (_( 1_MC1 mm-1_MC1 wave_NN1 number_NN1 )_) and_CC 16_MC mm_NNU wavelength_NN1 (_( 0.0625_MC mm-1_MC1 wave_NN1 number_NN1 )_) were_VBDR subtracted_VVN from_II the_AT velocity_NN1 vectors_NN2 resulting_VVG from_II the_AT application_NN1 of_IO Gaussian_JJ filters_NN2 of_IO 1.00100_MC mm_NNU wavelength_NN1 (_( 0.999001_MC mm-1_MC1 wave_NN1 number_NN1 )_) and_CC 16.3_MC mm_NNU wavelength_NN1 (_( 0.0613_MC mm-1_MC1 wave_NN1 number_NN1 )_) ,_, respectively_RR ,_, to_TO obtain_VVI band_NN1 passes_NN2 ,_, both_RR with_IW a_AT1 size_NN1 of_IO 0.001_MC mm-1_MC1 ,_, illustrating_VVG the_AT flow_NN1 structure_NN1 at_II wavelengths_NN2 1.0005_MC mm_NNU and_CC 16.15_MC mm_NNU ,_, respectively_RR ._. 
+</s>
+<s>
+The_AT following_JJ figure_NN1 is_VBZ a_AT1 velocity_NN1 vector_NN1 field_NN1 illustrating_VVG the_AT flow_NN1 structure_NN1 at_II a_AT1 wavelength_NN1 of_IO 8.03226_MC mm_NNU at_II a_AT1 crank_NN1 angle_NN1 of_IO 37_MC BTDC_NP1 :_: Note_VV0 that_CST the_AT larger_JJR area_NN1 at_II the_AT top_NN1 of_IO the_AT image_NN1 with_IW an_AT1 absence_NN1 of_IO velocity_NN1 vectors_NN2 denotes_VVZ space_NN1 occupied_VVN by_II the_AT spark_NN1 plug_NN1 ._. 
+</s>
+<s>
+Next_MD ,_, mass-specific_JJ kinetic_JJ energy_NN1 was_VBDZ calculated_VVN for_IF each_DD1 set_NN1 of_IO band_NN1 pass_NN1 velocity_NN1 vector_NN1 fields_NN2 and_CC for_IF the_AT unfiltered_JJ velocity_NN1 vector_NN1 fields_NN2 at_II every_AT1 other_JJ crank_NN1 angle_NN1 using_VVG the_AT following_JJ equation_NN1 :_: where_RRQ ,_, The_AT vector_NN1 fields_NN2 were_VBDR divided_VVN into_II several_DA2 smaller_JJR areas_NN2 and_CC the_AT ensemble_NN1 mean_JJ velocity_NN1 and_CC the_AT rms_NN1 of_IO the_AT velocity_NN1 fluctuations_NN2 about_II the_AT ensemble_NN1 mean_NN1 were_VBDR calculated_VVN for_IF each_DD1 of_IO the_AT smaller_JJR areas_NN2 ._. 
+</s>
+<s>
+Then_RT ,_, an_AT1 ensemble_NN1 average_JJ kinetic_JJ energy_NN1 false-color_NN1 image_NN1 was_VBDZ constructed_VVN using_VVG the_AT ensemble_NN1 mean_JJ velocity_NN1 and_CC an_AT1 ensemble_NN1 turbulent_JJ kinetic_JJ energy_NN1 false-color_NN1 image_NN1 was_VBDZ constructed_VVN using_VVG the_AT rms_NN1 of_IO the_AT velocity_NN1 fluctuations_NN2 about_II the_AT mean_JJ ._. 
+</s>
+<s>
+Examples_NN2 of_IO such_DA images_NN2 are_VBR shown_VVN in_II the_AT figures_NN2 below_RL :_: Figures_NN2 2_MC and_CC 3_MC show_VV0 a_AT1 small_JJ rectangular_JJ area_NN1 selected_VVN at_II the_AT top_JJ right-hand_JJ corner_NN1 of_IO the_AT ensemble_NN1 average_NN1 and_CC ensemble_NN1 turbulent_JJ kinetic_JJ energy_NN1 false-color_NN1 images_NN2 ._. 
+</s>
+<s>
+The_AT spatial_JJ averages_NN2 of_IO the_AT ensemble_NN1 average_NN1 and_CC ensemble_NN1 turbulent_JJ kinetic_JJ energies_NN2 in_II this_DD1 rectangular_JJ area_NN1 are_VBR referred_VVN to_II as_II the_AT average_JJ kinetic_JJ energy_NN1 and_CC the_AT turbulent_JJ kinetic_JJ energy_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+If_CS the_AT spatial_JJ averaging_NN1 was_VBDZ done_VDN over_II the_AT entire_JJ ensemble_NN1 average_NN1 and_CC ensemble_NN1 turbulent_JJ kinetic_JJ energy_NN1 false-color_NN1 images_NN2 ,_, the_AT larger_JJR amount_NN1 of_IO instantaneous_JJ velocity_NN1 data_NN available_JJ at_II crank_NN1 angles_NN2 further_RRR away_II21 from_II22 TDC_NP1 would_VM have_VHI had_VHN an_AT1 effect_NN1 upon_II the_AT average_NN1 and_CC turbulent_JJ kinetic_JJ energies_NN2 calculated_VVD ._. 
+</s>
+<s>
+The_AT average_NN1 and_CC turbulent_JJ kinetic_JJ energy_NN1 values_NN2 were_VBDR plotted_VVN against_II crank_NN1 angle_NN1 and_CC wave_NN1 number_NN1 to_TO examine_VVI the_AT variations_NN2 in_II average_NN1 and_CC turbulent_JJ kinetic_JJ energies_NN2 with_IW time_NNT1 and_CC length_NN1 scale_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ figures_NN2 show_VV0 the_AT average_JJ kinetic_JJ energy_NN1 and_CC turbulent_JJ kinetic_JJ energy_NN1 values_NN2 plotted_VVN against_II crank_NN1 angle_NN1 and_CC wave_NN1 number_NN1 ._. 
+</s>
+<s>
+Figure_NN1 4_MC shows_VVZ that_CST the_AT average_JJ kinetic_JJ energy_NN1 is_VBZ highest_JJT for_IF flow_NN1 structures_NN2 at_II higher_JJR length_NN1 scales_NN2 ._. 
+</s>
+<s>
+This_DD1 illustrates_VVZ that_CST as_CSA energy_NN1 cascades_NN2 from_II larger_JJR length_NN1 scales_NN2 to_II smaller_JJR length_NN1 scales_NN2 ,_, some_DD of_IO it_PPH1 is_VBZ dissipated_VVN (_( 1_MC1 )_) ._. 
+</s>
+<s>
+However_RR ,_, the_AT dip_NN1 in_II the_AT plots_NN2 between_II approximately_RR 55_MC BTDC_NP1 and_CC 40_MC BTDC_NP1 is_VBZ hard_JJ to_TO explain_VVI ,_, as_CSA the_AT average_JJ kinetic_JJ energy_NN1 of_IO the_AT fluid_NN1 in_II an_AT1 internal_JJ combustion_NN1 engine_NN1 depends_VVZ directly_RR on_II the_AT piston_NN1 speed_NN1 which_DDQ decreases_VVZ in_II a_AT1 sinusoidal_JJ fashion_NN1 from_II about_RG 90_MC BTDC_NP1 (_( depending_II21 on_II22 the_AT piston_NN1 eccentricity_NN1 )_) to_II TDC_NP1 ._. 
+</s>
+<s>
+Figure_NN1 6_MC again_RT illustrates_VVZ the_AT energy_NN1 cascade_NN1 from_II larger_JJR to_II smaller_JJR length_NN1 scales_NN2 ._. 
+</s>
+<s>
+It_PPH1 also_RR shows_VVZ the_AT dip_NN1 in_II average_JJ kinetic_JJ energy_NN1 more_RGR clearly_RR ,_, with_IW 27_MC BTDC_NP1 having_VHG the_AT highest_JJT average_JJ kinetic_JJ energy_NN1 and_CC 47_MC BTDC_NP1 having_VHG the_AT lowest_JJT average_JJ kinetic_JJ energy_NN1 among_II the_AT crank_NN1 angles_NN2 plotted_VVD ._. 
+</s>
+<s>
+Figures_NN2 5_MC and_CC 7_MC lead_VV0 to_II a_AT1 most_RGT interesting_JJ conclusion_NN1 :_: turbulent_JJ kinetic_JJ energy_NN1 does_VDZ not_XX vary_VVI depending_II21 on_II22 crank_NN1 angle_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ expected_VVN that_CST turbulent_JJ kinetic_JJ energy_NN1 would_VM increase_VVI as_II the_AT piston_NN1 approaches_VVZ TDC_NP1 ,_, compressing_VVG the_AT fluid_NN1 within_II the_AT cylinder_NN1 ,_, and_CC reach_VV0 a_AT1 peak_NN1 ,_, possibly_RR ,_, before_II decreasing_VVG as_II the_AT dissipation_NN1 rate_NN1 increases_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT turbulent_JJ kinetic_JJ energy_NN1 was_VBDZ calculated_VVN using_VVG only_RR the_AT data_NN available_JJ in_II a_AT1 small_JJ rectangular_JJ portion_NN1 of_IO the_AT velocity_NN1 vector_NN1 fields_NN2 examined_VVD ._. 
+</s>
+<s>
+This_DD1 rectangular_JJ region_NN1 may_VM have_VHI been_VBN less_RGR representative_JJ of_IO the_AT larger_JJR velocity_NN1 vector_NN1 fields_NN2 at_II crank_NN1 angles_NN2 further_RRR away_II21 from_II22 TDC_NP1 ._. 
+</s>
+<s>
+Also_RR ,_, the_AT rectangular_JJ region_NN1 under_II consideration_NN1 was_VBDZ next_II21 to_II22 the_AT spark_NN1 plug_NN1 ,_, where_CS a_AT1 strong_JJ tumble_NN1 flow_NN1 generated_VVN by_II the_AT initial_JJ intake_NN1 valve_NN1 events_NN2 dominated_VVD the_AT flow_NN1 structure_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT large_JJ initial_JJ turbulent_JJ kinetic_JJ energy_NN1 associated_VVN with_IW the_AT tumble_NN1 motion_NN1 might_VM overshadow_VVI any_DD smaller_JJR changes_NN2 in_II the_AT turbulent_JJ kinetic_JJ energy_NN1 that_CST occur_VV0 due_II21 to_II22 piston_NN1 movement_NN1 ._. 
+</s>
+<s>
+The_AT analysis_NN1 of_IO the_AT data_NN from_II the_AT experiment_NN1 under_II discussion_NN1 indicates_VVZ that_CST the_AT average_JJ kinetic_JJ energy_NN1 reaches_VVZ a_AT1 minimum_NN1 between_II approximately_RR 55_MC BTDC_NP1 and_CC 40_MC BTDC_NP1 ,_, and_CC the_AT turbulent_JJ kinetic_JJ energy_NN1 does_VDZ not_XX vary_VVI with_IW crank_NN1 angle_NN1 ._. 
+</s>
+<s>
+Reanalysis_NN1 of_IO the_AT experimental_JJ data_NN by_II finding_VVG the_AT spatial_JJ mean_JJ velocity_NN1 and_CC the_AT rms_NN1 of_IO the_AT velocity_NN1 fluctuations_NN2 about_II this_DD1 spatial_JJ mean_JJ and_CC using_VVG these_DD2 values_NN2 to_TO calculate_VVI the_AT ensemble_NN1 average_JJ kinetic_JJ energy_NN1 and_CC the_AT ensemble_NN1 average_NN1 of_IO the_AT turbulent_JJ kinetic_JJ energy_NN1 may_VM confirm_VVI these_DD2 conclusions_NN2 ._. 
+</s>
+<s>
+Examining_VVG the_AT average_NN1 and_CC kinetic_JJ energies_NN2 associated_VVN with_IW a_AT1 different_JJ ,_, possibly_RR larger_JJR ,_, rectangular_JJ portion_NN1 of_IO the_AT velocity_NN1 vector_NN1 fields_NN2 and_CC comparing_VVG them_PPHO2 to_II the_AT values_NN2 presented_VVN in_II this_DD1 report_NN1 might_VM also_RR provide_VVI more_DAR insight_NN1 ._. 
+</s>
+<s>
+Further_JJR experiments_NN2 may_VM be_VBI required_VVN to_TO confirm_VVI and_CC understand_VVI these_DD2 results_NN2 ._. 
+</s>
+<s>
+Calculating_VVG dissipation_NN1 rates_NN2 from_II the_AT experimental_JJ data_NN under_II discussion_NN1 may_VM also_RR provide_VVI valuable_JJ information_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO develop_VVI a_AT1 more_RGR complete_JJ understanding_NN1 of_IO turbulence_NN1 in_II internal_JJ combustion_NN1 engines_NN2 ,_, the_AT high-speed_JJ PIV_NN1 technique_NN1 should_VM be_VBI combined_VVN with_IW high-speed_JJ planar_JJ laser_NN1 induced_VVD florescence_NN1 (_( PLIF_NP1 )_) of_IO biacetyl_NN1 to_TO simultaneously_RR image_VVI the_AT flow_NN1 structure_NN1 and_CC the_AT equivalence_NN1 ratio_NN1 distribution_NN1 in_II a_AT1 spark_NN1 ignition_NN1 direct_JJ injection_NN1 engine_NN1 in_BCL21 order_BCL22 to_TO investigate_VVI events_NN2 occurring_VVG near_II ignition_NN1 ,_, such_II21 as_II22 the_AT interaction_NN1 of_IO the_AT plasma_NN1 channel_NN1 produced_VVN by_II the_AT spark_NN1 with_IW the_AT surrounding_JJ fluid_NN1 flow_NN1 ._. 
+</s>
+<s>
+Data_NN obtained_VVN from_II such_DA experiments_NN2 may_VM also_RR be_VBI used_VVN to_TO obtain_VVI kinetic_JJ energy_NN1 and_CC dissipation_NN1 rate_NN1 spectra_NN2 that_CST enhance_VV0 the_AT current_JJ understanding_NN1 of_IO turbulence_NN1 in_II engines_NN2 and_CC help_VV0 validate_NN1 CFD_NP1 models_NN2 used_VMK to_TO design_VVI and_CC develop_VVI internal_JJ combustion_NN1 engines_NN2 (_( 1_MC1 )_) ._. 
+</s>

@@ -1,0 +1,315 @@
+<s>
+Drosophila_NP1 Melanogaster_NP1 is_VBZ useful_JJ as_II a_AT1 model_NN1 organism_NN1 because_CS it_PPH1 has_VHZ a_AT1 short_JJ life_NN1 cycle_NN1 of_IO 10-14_MCMC days_NNT2 ._. 
+</s>
+<s>
+Their_APPGE short_JJ lifespan_NN1 and_CC small_JJ size_NN1 make_VV0 it_PPH1 easy_RR to_II culture_NN1 and_CC relatively_RR inexpensive_JJ to_TO store_VVI large_JJ numbers_NN2 of_IO flies_NN2 ._. 
+</s>
+<s>
+Additionally_RR ,_, numerous_JJ mutant_NN1 phenotypes_NN2 are_VBR easily_RR seen_VVN with_IW or_CC without_IW the_AT aid_NN1 of_IO microscopes_NN2 so_RR observing_VVG and_CC separating_VVG the_AT flies_NN2 is_VBZ not_XX a_AT1 painstaking_JJ task_NN1 ._. 
+</s>
+<s>
+Because_CS Drosophilahas_NN2 a_AT1 very_RG long_JJ history_NN1 in_II biological_JJ research_NN1 ,_, there_EX is_VBZ a_AT1 tremendous_JJ amount_NN1 known_VVN about_II its_APPGE genome_NN1 ._. 
+</s>
+<s>
+The_AT knowledge_NN1 about_II wild-type_NN1 and_CC marker_NN1 strains_NN2 will_VM help_VVI in_II identifying_VVG where_RRQ the_AT mutant_NN1 genes_NN2 are_VBR and_CC how_RRQ they_PPHS2 are_VBR inherited_VVN ._. 
+</s>
+<s>
+Ultimately_RR ,_, the_AT purpose_NN1 of_IO this_DD1 experiment_NN1 was_VBDZ to_TO characterize_VVI unknown_JJ mutations_NN2 in_II a_AT1 mutant_NN1 strain_NN1 of_IO Drosophila_NP1 Melanogaster_NP1 ._. 
+</s>
+<s>
+The_AT goal_NN1 was_VBDZ to_TO determine_VVI the_AT inheritance_NN1 patterns_NN2 of_IO these_DD2 mutations_NN2 as_RG well_RR as_CSA to_TO locate_VVI the_AT specific_JJ position_NN1 of_IO the_AT genes_NN2 on_II the_AT chromosomes_NN2 ._. 
+</s>
+<s>
+By_II comparing_VVG a_AT1 pure_JJ line_NN1 wild-type_NN1 strain_NN1 ,_, known_VVN as_II the_AT Ore-R_NP1 strain_NN1 ,_, with_IW the_AT mutant_NN1 strain_NN1 ,_, known_VVN as_II U-7812_MC ,_, distinct_JJ differences_NN2 were_VBDR found_VVN in_II the_AT expression_NN1 of_IO body_NN1 color_NN1 ,_, eye_NN1 color_NN1 ,_, and_CC wing_NN1 venation_NN1 ._. 
+</s>
+<s>
+To_TO find_VVI out_RP how_RRQ these_DD2 three_MC different_JJ phenotypes_NN2 were_VBDR created_VVN ,_, various_JJ crosses_NN2 were_VBDR performed_VVN ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO find_VVI out_RP how_RRQ the_AT mutations_NN2 were_VBDR inherited_VVN (_( sex-linked_JJ verses_NN2 autosomal_JJ ;_; dominant_JJ verses_NN2 recessive_JJ )_) ,_, reciprocal_JJ crosses_NN2 between_II the_AT Ore-R_NP1 strain_NN1 and_CC mutant_NN1 strain_NN1 were_VBDR performed_VVN ._. 
+</s>
+<s>
+The_AT progeny_NN1 of_IO the_AT F1_FO generation_NN1 underwent_VVD further_RRR reciprocal_JJ crossing_NN1 to_TO produce_VVI an_AT1 F2_FO generation_NN1 which_DDQ was_VBDZ used_VVN to_TO determine_VVI how_RRQ the_AT mutations_NN2 are_VBR inherited_VVN ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 these_DD2 reciprocal_JJ crosses_NN2 ,_, a_AT1 series_NN of_IO marker_NN1 crosses_NN2 were_VBDR performed_VVN using_VVG M1_FO and_CC M3_FO marker_NN1 strains_NN2 (_( Note_VV0 :_: Marker_NN1 2_MC was_VBDZ not_XX available_JJ )_) ._. 
+</s>
+<s>
+The_AT marker_NN1 strains_NN2 contain_VV0 mutations_NN2 with_IW known_JJ positions_NN2 on_II their_APPGE respective_JJ chromosomes_NN2 (_( M1_FO is_VBZ the_AT X-chromosome_NN1 ,_, M3_FO is_VBZ chromosome_NN1 3_MC )_) ,_, so_CS they_PPHS2 could_VM be_VBI used_VVN to_TO decide_VVI whether_CSW the_AT marker_NN1 mutations_NN2 were_VBDR linked_VVN with_IW the_AT unknown_JJ mutations_NN2 ._. 
+</s>
+<s>
+Female_JJ unknowns_NN2 were_VBDR crossed_VVN with_IW males_NN2 from_II the_AT marker_NN1 strains_NN2 ._. 
+</s>
+<s>
+An_AT1 F1_FO cross_NN1 was_VBDZ completed_VVN for_IF the_AT M1_FO group_NN1 ,_, while_CS a_AT1 male_JJ back-cross_NN1 was_VBDZ performed_VVN for_IF the_AT M3_FO group_NN1 ._. 
+</s>
+<s>
+These_DD2 marker_NN1 crosses_VVZ provided_CS information_NN1 to_TO establish_VVI linkage_NN1 relationships_NN2 of_IO the_AT unknown_JJ genes_NN2 and_CC to_TO assign_VVI each_DD1 gene_NN1 to_II a_AT1 specific_JJ locus_NN1 ._. 
+</s>
+<s>
+Four_MC different_JJ strains_NN2 of_IO Drosophila_NP1 melanogaster_NN1 were_VBDR used_VVN ._. 
+</s>
+<s>
+All_DB of_IO the_AT flies_NN2 in_II the_AT stocks_NN2 are_VBR true_JJ breeding_NN1 ._. 
+</s>
+<s>
+The_AT Oregon-R_NP1 (_( Ore-R_NP1 )_) stock_NN1 contains_VVZ wild-type_JJ flies_NN2 have_VH0 red_JJ eyes_NN2 ,_, complete_JJ wing_NN1 veination_NN1 ,_, and_CC tan-colored_JJ bodies_NN2 ._. 
+</s>
+<s>
+U-7812_MC ,_, the_AT unknown_JJ stock_NN1 with_IW white_JJ eyes_NN2 ,_, dark_JJ body_NN1 ,_, and_CC incomplete_JJ longitudinal_JJ veination_NN1 ,_, was_VBDZ utilized_VVN in_II every_AT1 cross_NN1 ._. 
+</s>
+<s>
+The_AT Marker_NN1 1_MC1 stock_NN1 had_VHD crossveinless_JJ (_( cv_MC )_) and_CC forked_VVD (_( f_ZZ1 )_) mutations_NN2 ,_, which_DDQ are_VBR located_VVN on_II the_AT X-chromosome_NN1 ._. 
+</s>
+<s>
+These_DD2 mutations_NN2 were_VBDR eventually_RR found_VVN to_TO be_VBI sex-linked_JJ recessive_JJ ._. 
+</s>
+<s>
+The_AT Marker_NN1 3_MC stock_NN1 had_VHD glued_VVN eyes_NN2 (_( Gl_NP1 )_) ,_, stubble_NN1 (_( Sb_NP1 )_) ,_, and_CC LVM_NP1 mutations_NN2 ,_, which_DDQ are_VBR located_VVN on_II chromosome_NN1 3_MC ._. 
+</s>
+<s>
+These_DD2 mutations_NN2 were_VBDR eventually_RR found_VVN to_TO be_VBI autosomal_JJ dominant_JJ ._. 
+</s>
+<s>
+LVM_NP1 flies_NN2 express_VV0 the_AT same_DA phenotype_NN1 as_CSA a_AT1 wild-type_JJ fly_NN1 would_VM ;_; the_AT actual_JJ difference_NN1 is_VBZ that_CST an_AT1 LVM_NP1 fly_NN1 has_VHZ an_AT1 inversion_NN1 on_II chromosome_NN1 3_MC ._. 
+</s>
+<s>
+LVM_NP1 is_VBZ homozygous_JJ lethal_JJ and_CC therefore_RR serves_VVZ as_II a_AT1 balancer_NN1 lethal_JJ system_NN1 in_II the_AT M3_FO crosses_VVZ ._. 
+</s>
+<s>
+All_DB crosses_NN2 were_VBDR performed_VVN twice_RR and_CC all_DB protocol_NN1 in_II performing_VVG the_AT crosses_NN2 as_II31 well_II32 as_II33 the_AT handling_NN1 of_IO all_DB drosophila_NN1 strains_NN2 can_VM be_VBI found_VVN in_II the_AT MCDB_NP1 306_MC lab_NN1 manual_NN1 ._. 
+</s>
+<s>
+All_DB flies_NN2 were_VBDR put_VVN to_TO sleep_VVI using_VVG carbon_NN1 dioxide_NN1 gas_NN1 ._. 
+</s>
+<s>
+After_II all_DB F1_FO progeny_NN1 were_VBDR hatched_VVN ,_, 100_MC flies_NN2 were_VBDR scored_VVN from_II crosses_NN2 A_ZZ1 ,_, B_ZZ1 ,_, I_PPIS1 ,_, and_CC III_MC ._. 
+</s>
+<s>
+After_CS F2_FO and_CC backcross_VV0 progeny_NN1 had_VHD hatched_VVN ,_, 200_MC flies_NN2 from_II each_DD1 F2_FO generation_NN1 were_VBDR then_RT scored_VVN with_IW phenotype_NN1 data_NN recorded_VVN for_IF all_DB crosses_NN2 ._. 
+</s>
+<s>
+The_AT F1_FO results_NN2 as_CSA shown_VVN above_RL support_VV0 that_CST there_EX is_VBZ an_AT1 autosomal_JJ recessive_JJ pattern_NN1 of_IO inheritance_NN1 for_IF the_AT mutant_NN1 alleles_NN2 for_IF wing_NN1 venation_NN1 ,_, body_NN1 color_NN1 ,_, and_CC eye_NN1 color_NN1 ._. 
+</s>
+<s>
+If_CS the_AT mutations_NN2 in_II the_AT U-7812_MC strain_NN1 had_VHD been_VBN dominant_JJ ,_, all_DB of_IO the_AT F1_FO progeny_NN1 would_VM have_VHI expressed_VVN the_AT mutated_JJ phenotypes_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS all_DB of_IO the_AT F1_FO progeny_NN1 are_VBR heterozygous_JJ for_IF the_AT mutant_NN1 gene_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, if_CS the_AT mutations_NN2 had_VHD been_VBN sex-linked_JJ ,_, then_RT all_DB of_IO the_AT male_NN1 F1_FO progeny_NN1 would_VM be_VBI mutated_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS males_NN2 have_VH0 one_MC1 X-chromosome_NN1 from_II their_APPGE U-7812_MC female_JJ parent_NN1 ,_, meaning_VVG any_DD mutations_NN2 would_VM be_VBI expressed_VVN ._. 
+</s>
+<s>
+Neither_DD1 of_IO these_DD2 patterns_NN2 was_VBDZ supported_VVN by_II the_AT data_NN gathered_VVD ,_, but_CCB autosomal_JJ recessive_JJ inheritance_NN1 of_IO the_AT alleles_NN2 was_VBDZ supported_VVN ._. 
+</s>
+<s>
+Therefore_RR ,_, it_PPH1 can_VM be_VBI concluded_VVN that_CST all_DB three_MC mutant_NN1 alleles_NN2 show_VV0 an_AT1 autosomal_JJ recessive_JJ inheritance_NN1 pattern_NN1 ._. 
+</s>
+<s>
+The_AT F1_FO results_NN2 as_CSA shown_VVN above_RL support_VV0 that_CST there_EX is_VBZ a_AT1 recessive_JJ pattern_NN1 of_IO inheritance_NN1 for_IF the_AT mutant_NN1 alleles_NN2 for_IF wing_NN1 venation_NN1 ,_, body_NN1 color_NN1 and_CC eye_NN1 color_NN1 ._. 
+</s>
+<s>
+Like_VV0 in_II Cross_NP1 A_ZZ1 ,_, if_CS the_AT mutations_NN2 in_II the_AT U-7812_MC strain_NN1 had_VHD been_VBN dominant_JJ ,_, all_DB of_IO the_AT F1_FO progeny_NN1 would_VM have_VHI expressed_VVN the_AT mutated_JJ phenotypes_NN2 ._. 
+</s>
+<s>
+Distinguishing_VVG between_II sex-linked_NN1 and_CC autosomal_JJ can_56 not_56 be_VBI done_VDN ,_, because_CS it_PPH1 is_VBZ impossible_JJ for_IF either_DD1 sex_NN1 to_TO express_VVI the_AT mutant_NN1 phenotype_NN1 ._. 
+</s>
+<s>
+All_DB F1_FO male_JJ progeny_NN1 will_VM receive_VVI their_APPGE X-chromosome_NN1 from_II their_APPGE wild-type_JJ mother_NN1 ,_, so_CS males_NN2 will_VM always_RR express_VVI the_AT wild-type_JJ phenotype_NN1 ._. 
+</s>
+<s>
+Females_NN2 will_VM be_VBI heterozygous_JJ for_IF the_AT mutant_NN1 gene_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, from_II this_DD1 data_NN ,_, it_PPH1 is_VBZ only_RR possible_JJ to_TO conclude_VVI that_CST the_AT genes_NN2 are_VBR recessive_JJ ._. 
+</s>
+<s>
+However_RR ,_, with_IW the_AT data_NN from_II Cross_NP1 A_ZZ1 and_CC Cross_VV0 B_ZZ1 together_RL ,_, it_PPH1 is_VBZ possible_JJ to_TO conclude_VVI that_CST the_AT genes_NN2 are_VBR definitely_RR autosomal_JJ recessive_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ already_RR known_VVN that_CST crossveinless_JJ and_CC forked_VVN mutations_NN2 are_VBR sex-linked_JJ recessive_JJ ._. 
+</s>
+<s>
+For_IF the_AT Marker_NN1 1_MC1 Cross_NN1 ,_, all_DB of_IO the_AT progeny_NN1 were_VBDR wild-type_JJ phenotypically_RR ._. 
+</s>
+<s>
+The_AT females_NN2 were_VBDR heterozygous_JJ for_IF the_AT mutant_NN1 genes_NN2 ,_, and_CC the_AT males_NN2 were_VBDR all_DB wild-type_JJ because_CS they_PPHS2 received_VVD the_AT wild-type_JJ genes_NN2 from_II the_AT wild-type_JJ mothers_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT observed_JJ data_NN makes_VVZ sense_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ already_RR known_VVN that_DD1 Glued-eye_NN1 ,_, Stubble_NN1 ,_, and_CC LVM_NP1 are_VBR dominant_JJ mutations_NN2 on_II chromosome_NN1 3_MC ._. 
+</s>
+<s>
+However_RR ,_, since_CS Gl_NP1 ,_, Sb_NP1 ,_, and_CC LVM_NP1 are_VBR homozygous_JJ lethal_JJ ,_, mutant_NN1 flies_VVZ in_II the_AT stock_NN1 must_VM be_VBI heterozygous_JJ at_II those_DD2 loci_NN2 (_( Refer_VV0 to_II skeletal_JJ report_NN1 to_TO see_VVI the_AT actual_JJ arrangement_NN1 of_IO the_AT marker_NN1 mutant_NN1 genes_NN2 as_CSA their_APPGE arrangement_NN1 is_VBZ crucial_JJ for_IF successful_JJ backcrosses_NN2 )_) ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT father_NN1 has_VHZ the_AT potential_JJ to_TO give_VVI one_MC1 of_IO two_MC different_JJ genotypes_NN2 during_II mating_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT unknown_JJ female_NN1 is_VBZ wild-type_JJ for_IF the_AT three_MC genes_NN2 ,_, the_AT resulting_JJ F1_FO progeny_NN1 should_VM have_VHI two_MC different_JJ phenotypes_NN2 in_II equal_JJ ratios_NN2 ._. 
+</s>
+<s>
+The_AT data_NN gathered_JJ reflects_VVZ all_DB of_IO these_DD2 facts_NN2 ,_, because_CS the_AT F1_FO progeny_NN1 are_VBR about_RG half_DB Glued-Stubble_NP1 and_CC half_DB LVM_NP1 expressing_VVG ._. 
+</s>
+<s>
+The_AT observed_JJ data_NN makes_VVZ sense_NN1 ._. 
+</s>
+<s>
+The_AT data_NN above_II helped_JJ show_NN1 three_MC major_JJ things_NN2 ._. 
+</s>
+<s>
+First_MD ,_, it_PPH1 showed_VVD that_CST the_AT body_NN1 color_NN1 gene_NN1 segregated_VVN properly_RR and_CC is_VBZ controlled_VVN by_II one_MC1 gene_NN1 ._. 
+</s>
+<s>
+The_AT data_NN corresponded_VVN to_II an_AT1 observed_JJ ratio_NN1 of_IO 3.1:1_MC (_( wild-type:mutant_FO )_) ,_, which_DDQ was_VBDZ extremely_RR close_JJ to_II the_AT expected_JJ 3:1_MC ratio_NN1 hypothesized_VVD to_TO arise_VVI if_CSW there_EX was_VBDZ one_MC1 gene_NN1 responsible_JJ ,_, and_CC the_AT mutation_NN1 was_VBDZ recessive_JJ ._. 
+</s>
+<s>
+Using_VVG X2_FO analysis_NN1 ,_, it_PPH1 was_VBDZ supported_VVN that_DD1 body_NN1 color_NN1 is_VBZ inherited_VVN through_II autosomes_NN2 and_CC that_CST the_AT mutation_NN1 is_VBZ recessive_JJ ._. 
+</s>
+<s>
+The_AT X2_FO value_NN1 of_IO .081_MC correlated_VVD to_II a_AT1 probability_NN1 of_IO 77.6%_FO that_CST the_AT observed_JJ ratios_NN2 would_VM occur_VVI due_II21 to_II22 chance_NN1 ,_, given_VVN the_AT expected_JJ ratio_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, body_NN1 color_NN1 is_VBZ autosomal_JJ recessive_JJ ._. 
+</s>
+<s>
+Secondly_RR ,_, the_AT data_NN showed_VVD that_CST the_AT wing_NN1 veination_NN1 gene_NN1 segregated_VVN properly_RR as_CSA is_VBZ controlled_VVN by_II one_MC1 gene_NN1 ._. 
+</s>
+<s>
+The_AT data_NN corresponded_VVN to_II an_AT1 observed_JJ ratio_NN1 of_IO 2.96:1_MC ratio_NN1 (_( wild-type:mutant_FO )_) which_DDQ again_RT was_VBDZ extremely_RR close_JJ to_II the_AT expected_JJ 3:1_MC ratio_NN1 hypothesized_VVD to_TO arise_VVI if_CSW there_EX was_VBDZ one_MC1 gene_NN1 responsible_JJ ,_, and_CC the_AT mutation_NN1 was_VBDZ recessive_JJ ._. 
+</s>
+<s>
+Using_VVG X2_FO analysis_NN1 ,_, it_PPH1 was_VBDZ supported_VVN that_DD1 wing_NN1 veination_NN1 is_VBZ inherited_VVN through_II autosomes_NN2 and_CC that_CST the_AT mutation_NN1 is_VBZ recessive_JJ ._. 
+</s>
+<s>
+The_AT X2_FO value_NN1 of_IO .013_MC correlated_VVD to_II a_AT1 probability_NN1 of_IO 90.9%_FO that_CST the_AT observed_JJ ratios_NN2 would_VM occur_VVI due_II21 to_II22 chance_NN1 ,_, given_VVN the_AT expected_JJ ratio_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, wing_NN1 veination_NN1 is_VBZ autosomal_JJ recessive_JJ ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT F2_FO data_NN shown_VVN above_RL helped_VVN determine_VVI whether_CSW the_AT two_MC genes_NN2 ,_, body_NN1 color_NN1 and_CC wing_NN1 venation_NN1 ,_, were_VBDR linked_VVN or_CC segregating_VVG independently_RR (_( combined_JJ table_NN1 found_VVN in_II skeletal_JJ report_NN1 )_) ._. 
+</s>
+<s>
+The_AT data_NN presented_VVD showed_VVD an_AT1 observed_JJ ratio_NN1 of_IO 10.9:3.8:3.95:1_MC which_DDQ was_VBDZ close_JJ to_II the_AT expected_JJ 9:3:3:1_MC ratio_NN1 expected_VVN for_IF two_MC independently_RR assorting_VVG genes_NN2 with_IW recessive_JJ mutations_NN2 ._. 
+</s>
+<s>
+Using_VVG X2_FO analysis_NN1 ,_, it_PPH1 was_VBDZ supported_VVN that_CST the_AT two_MC genes_NN2 are_VBR assorting_VVG independently_RR ._. 
+</s>
+<s>
+The_AT X2_FO value_NN1 of_IO .898_MC correlated_VVD to_II a_AT1 probability_NN1 of_IO 82.6%_FO that_CST the_AT observed_JJ ratio_NN1 would_VM occur_VVI due_II21 to_II22 chance_NN1 ,_, given_VVN the_AT expected_JJ ratio_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, it_PPH1 was_VBDZ concluded_VVN that_CST these_DD2 two_MC genes_NN2 are_VBR localized_VVN to_II different_JJ chromosomes_NN2 in_II the_AT genome_NN1 ,_, so_CS this_DD1 accounts_VVZ for_IF the_AT independent_JJ assortment_NN1 observed_VVD ._. 
+</s>
+<s>
+The_AT F2_FO data_NN showed_VVD the_AT expression_NN1 of_IO four_MC phenotypes_NN2 for_IF eye_NN1 color_NN1 ._. 
+</s>
+<s>
+The_AT expression_NN1 of_IO the_AT orange_NN1 and_CC brown_JJ phenotypes_NN2 in_II the_AT F2_FO progeny_NN1 warranted_VVD the_AT proposal_NN1 that_CST there_EX were_VBDR two_MC genes_NN2 controlling_VVG eye_NN1 color_NN1 ._. 
+</s>
+<s>
+With_IW four_MC phenotypes_NN2 ,_, there_EX must_VM be_VBI at_RR21 least_RR22 two_MC genes_NN2 ,_, but_CCB ,_, because_CS there_EX are_VBR only_RR four_MC phenotypes_NN2 ,_, there_EX should_VM only_RR be_VBI two_MC genes_NN2 involved_VVD ._. 
+</s>
+<s>
+The_AT genes_NN2 expressing_VVG the_AT orange_NN1 and_CC brown_JJ phenotypes_NN2 were_VBDR assigned_VVN the_AT names_NN2 gene_NN1 a_AT1 and_CC gene_NN1 b_ZZ1 ,_, respectively_RR ._. 
+</s>
+<s>
+The_AT following_JJ table_NN1 shows_VVZ how_RRQ the_AT genes_NN2 interact_VV0 to_TO produce_VVI the_AT different_JJ colors_NN2 ._. 
+</s>
+<s>
+If_CS the_AT genes_NN2 were_VBDR independently_RR assorting_VVG ,_, there_EX would_VM be_VBI a_AT1 typical_JJ 9:3:3:1_MC ratio_NN1 expressed_VVN in_II the_AT F2_FO generation_NN1 ._. 
+</s>
+<s>
+The_AT data_NN does_VDZ not_XX support_VVI this_DD1 ,_, as_CSA there_EX are_VBR far_RG more_DAR white-eyes_NN2 flies_NN2 than_CSN orange-eyed_JJ or_CC brown-eyed_JJ ._. 
+</s>
+<s>
+Since_II having_VHG white_JJ eyes_NN2 requires_VVZ that_CST both_DB2 genes_NN2 are_VBR homozygous_JJ recessive_JJ ,_, the_AT genes_NN2 are_VBR unlikely_JJ to_TO be_VBI assorting_VVG independently_RR ._. 
+</s>
+<s>
+The_AT data_NN supports_VVZ that_CST the_AT two_MC eye_NN1 color_NN1 genes_NN2 are_VBR linked_VVN ,_, so_RR crossing_VVG over_RP may_VM be_VBI occurring_VVG in_II the_AT female_JJ flies_NN2 ._. 
+</s>
+<s>
+It_PPH1 makes_VVZ sense_NN1 that_CST the_AT brown_JJ and_CC orange_JJ eyes_NN2 are_VBR least_RRT expressed_VVN because_CS they_PPHS2 are_VBR recombinant_JJ phenotypes_NN2 ._. 
+</s>
+<s>
+The_AT map_NN1 distance_NN1 between_II the_AT two_MC genes_NN2 can_VM be_VBI calculated_VVN using_VVG the_AT combined_JJ data_NN of_IO crosses_NN2 A_ZZ1 and_CC B._NP1 Orange-eyed_JJ and_CC Brown-eyed_JJ flies_NN2 are_VBR recombinant_JJ phenotypes_NN2 ,_, so_RR crossing_VVG over_RP had_VHD occurred_VVN in_II the_AT mother_NN1 flies_NN2 ._. 
+</s>
+<s>
+The_AT two_MC genes_NN2 were_VBDR shown_VVN to_TO be_VBI 21.3_MC map_NN1 units_NN2 apart_RL (_( refer_VV0 to_II skeletal_JJ report_NN1 )_) ._. 
+</s>
+<s>
+A_AT1 male_JJ backcross_NN1 is_VBZ used_VVN to_TO ensure_VVI that_CST crossing_VVG over_RP does_VDZ not_XX take_VVI place_NN1 when_CS it_PPH1 crossed_VVD to_II a_AT1 pure-line_JJ unknown_JJ female_NN1 ._. 
+</s>
+<s>
+Glued-Stubble_JJ males_NN2 were_VBDR recovered_VVN from_II the_AT F1_FO progeny_NN1 ,_, and_CC they_PPHS2 were_VBDR crossed_VVN with_IW U-7812_MC virgin_JJ females_NN2 ._. 
+</s>
+<s>
+Because_II21 of_II22 the_AT way_NN1 the_AT genes_NN2 are_VBR set_VVN up_RP on_II the_AT marker_NN1 chromosome_NN1 (_( refer_VV0 to_II skeletal_JJ report_NN1 )_) ,_, unknown_JJ mutations_NN2 that_CST are_VBR on_II chromosome_NN1 3_MC will_VM never_RR show_VVI up_RP with_IW Glued/Stubble_FU (_( i.e._REX genes_NN2 that_CST are_VBR linked_VVN on_II chromosome_NN1 3_MC will_VM not_XX show_VVI up_RP with_IW Glued/Stubble_FU )_) ._. 
+</s>
+<s>
+If_CS the_AT unknown_JJ mutation_NN1 is_VBZ on_II a_AT1 different_JJ chromosome_NN1 ,_, then_RT it_PPH1 is_VBZ possible_JJ for_IF the_AT mutation_NN1 to_TO show_VVI up_RP with_IW Glued/Stubble_FU ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT data_NN above_RL ,_, body_NN1 color_NN1 and_CC eye_NN1 color_NN1 genes_NN2 must_VM be_VBI assorting_VVG independly_RR from_II Glued/Stubble_FU because_CS the_AT mutant_NN1 forms_NN2 of_IO both_DB2 genes_NN2 show_VV0 up_RP with_IW Glued/Stubble_FU ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, mutant_NN1 veination_NN1 is_VBZ never_RR seen_VVN with_IW Glued/Stubble_FU ,_, so_RR wing_VV0 veination_NN1 must_VM be_VBI on_II chromosome_NN1 3_MC ._. 
+</s>
+<s>
+The_AT body_NN1 color_NN1 and_CC eye_NN1 color_NN1 genes_NN2 are_VBR therefore_RR on_II chromosome_NN1 2_MC because_CS they_PPHS2 are_VBR neither_RR sex-linked_JJ (_( which_DDQ was_VBDZ found_VVN from_II Cross_NP1 A_ZZ1 )_) nor_CC linked_VVN to_II chromosome_NN1 3_MC ._. 
+</s>
+<s>
+The_AT data_NN gathered_VVN (_( refer_VV0 to_II skeletal_JJ report_NN1 )_) shows_VVZ that_CST there_EX is_VBZ a_AT1 linkage_NN1 relationship_NN1 between_II eye_NN1 color_NN1 and_CC body_NN1 color_NN1 ._. 
+</s>
+<s>
+If_CS there_EX had_VHD been_VBN no_AT linkage_NN1 ,_, then_RT the_AT double-mutant_NN1 ,_, white_JJ eyes_NN2 and_CC dark_JJ body_NN1 ,_, would_VM be_VBI expressed_VVN in_II the_AT lowest_JJT quantity_NN1 in_II the_AT F2_FO progeny_NN1 of_IO crosses_NN2 A_ZZ1 ,_, B_ZZ1 ,_, and_CC I._NP1 This_DD1 was_VBDZ not_XX seen_VVN ,_, as_CSA there_EX were_VBDR far_RG more_RGR double-mutant_JJ flies_NN2 than_CSN the_AT recombinant_JJ orange_NN1 or_CC brown_JJ phenotypes_NN2 ._. 
+</s>
+<s>
+If_CS the_AT genes_NN2 were_VBDR not_XX linked_VVN ,_, then_RT the_AT expected_JJ ratio_NN1 is_VBZ 9:3:3:1_MC ._. 
+</s>
+<s>
+Using_VVG X2_FO analysis_NN1 ,_, it_PPH1 was_VBDZ supported_VVN that_CST the_AT two_MC eye_NN1 color_NN1 genes_NN2 are_VBR linked_VVN on_II autosome_JJ 2_MC ._. 
+</s>
+<s>
+The_AT X2_FO value_NN1 of_IO 341.6_MC correlated_VVD to_II a_AT1 probability_NN1 of_IO much_DA1 less_DAR than_CSN 5%_NNU that_CST the_AT observed_JJ ratio_NN1 would_VM occur_VVI due_II21 to_II22 chance_NN1 ,_, given_VVN the_AT expected_JJ ratio_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ the_AT hypothesis_NN1 of_IO independent_JJ assortment_NN1 must_VM be_VBI rejected_VVN ._. 
+</s>
+<s>
+This_DD1 confirms_VVZ that_CST the_AT eye_NN1 color_NN1 genes_NN2 are_VBR linked_VVN on_II chromosome_NN1 2_MC ._. 
+</s>
+<s>
+With_IW the_AT combined_JJ data_NN ,_, it_PPH1 was_VBDZ found_VVN that_CST the_AT map_NN1 distance_NN1 between_II the_AT eye_NN1 colors_NN2 was_VBDZ 18.9_MC map_NN1 units_NN2 ._. 
+</s>
+<s>
+Performing_VVG a_AT1 three-point_JJ cross_NN1 established_VVD the_AT map_NN1 distances_NN2 between_II the_AT linked_JJ genes_NN2 of_IO eye_NN1 color_NN1 and_CC body_NN1 color_NN1 ._. 
+</s>
+<s>
+Refer_VV0 to_II the_AT skeletal_JJ report_NN1 to_TO see_VVI a_AT1 table_NN1 with_IW data_NN for_IF the_AT three-point_JJ cross_NN1 ._. 
+</s>
+<s>
+By_II dividing_VVG recombinant_JJ phenotypes_NN2 by_II the_AT total_JJ number_NN1 of_IO flies_NN2 ,_, the_AT map_NN1 distances_NN2 between_II genes_NN2 could_VM be_VBI calculated_VVN ._. 
+</s>
+<s>
+The_AT calculations_NN2 showed_VVD a_AT1 9.8_MC mu_NN1 distance_NN1 between_II body_NN1 color_NN1 and_CC gene_NN1 a_AT1 ,_, a_AT1 10.4_MC mu_NN1 distance_NN1 between_II the_AT body_NN1 color_NN1 and_CC the_AT gene_NN1 b_ZZ1 ,_, and_CC 20.2_MC mu_NN1 distance_NN1 between_II gene_NN1 a_AT1 and_CC gene_NN1 b_ZZ1 ._. 
+</s>
+<s>
+Mapping_NN1 of_IO these_DD2 genes_NN2 to_II their_APPGE assigned_JJ chromosomes_NN2 was_VBDZ accomplished_VVN by_II acquiring_VVG the_AT location_NN1 of_IO one_MC1 of_IO the_AT genes_NN2 ._. 
+</s>
+<s>
+The_AT other_JJ genes_NN2 were_VBDR then_RT mapped_VVN in_II31 relation_II32 to_II33 that_DD1 gene_NN1 ._. 
+</s>
+<s>
+The_AT data_NN presented_VVD above_RL provides_VVZ the_AT organized_JJ conclusions_NN2 of_IO this_DD1 experiment_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ shown_VVN that_DD1 body_NN1 color_NN1 and_CC eye_NN1 color_NN1 are_VBR linked_VVN on_II chromosome_NN1 two_MC ,_, and_CC that_CST the_AT wing_NN1 venation_NN1 trait_NN1 was_VBDZ present_JJ on_II chromosome_NN1 three_MC ._. 
+</s>

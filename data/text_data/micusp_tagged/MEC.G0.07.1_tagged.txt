@@ -1,0 +1,318 @@
+<s>
+In_II 2005_MC a_AT1 study_NN1 completed_VVN by_II the_AT Center_NN1 for_IF Disease_NN1 Control_NN1 found_VVD that_CST 5,800_MC people_NN 65_MC and_CC older_JJR died_VVD from_II injuries_NN2 related_VVN to_II unintentional_JJ falls_NN2 and_CC another_DD1 1.8_MC million_NNO received_JJ emergency_NN1 room_NN1 care_NN1 ._. 
+</s>
+<s>
+Of_IO those_DD2 treated_VVN ,_, 433,000_MC were_VBDR hospitalized_VVN for_RR21 long_RR22 term_VV0 care_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Seniors_NN2 who_PNQS live_VV0 alone_RR may_VM suffer_VVI from_II an_AT1 unintentional_JJ fall_NN1 and_CC are_VBR often_RR not_XX found_VVN for_IF hours_NNT2 or_CC days_NNT2 ._. 
+</s>
+<s>
+Long_RR waits_VVZ for_IF medical_JJ care_NN1 exacerbate_VV0 their_APPGE injuries_NN2 and_CC increase_VV0 their_APPGE risk_NN1 of_IO death_NN1 or_CC permanent_JJ hospitalization_NN1 ._. 
+</s>
+<s>
+However_RR ,_, fast_JJ emergency_NN1 response_NN1 to_II a_AT1 fall_NN1 reduces_VVZ the_AT risk_NN1 of_IO hospitalization_NN1 by_II 26%_NNU and_CC death_NN1 by_II 80%_NNU (_( 3_MC )_) ._. 
+</s>
+<s>
+The_AT problem_NN1 with_IW seniors_NN2 not_XX receiving_VVG immediate_JJ attention_NN1 needs_VVZ to_TO be_VBI addressed_VVN ._. 
+</s>
+<s>
+A_AT1 National_JJ University_NN1 of_IO Singapore_NP1 study_NN1 researched_VVN and_CC developed_VVN a_AT1 garment-based_JJ 3-axis_NN1 MEMS_VVZ accelerometer_NN1 designed_VVN as_II an_AT1 alert_JJ system_NN1 for_IF senior_JJ citizen_NN1 falls_VVZ by_II recording_VVG an_AT1 impact_NN1 (_( 2_MC )_) ._. 
+</s>
+<s>
+The_AT system_NN1 was_VBDZ to_TO be_VBI worn_VVN by_II seniors_NN2 in_II a_AT1 pouch_NN1 attached_VVN to_II the_AT shoulder_NN1 which_DDQ contained_VVD the_AT accelerometer_NN1 ._. 
+</s>
+<s>
+The_AT power_NN1 supply_NN1 and_CC blue-tooth_JJ wireless_NN1 system_NN1 to_TO transmit_VVI an_AT1 alert_JJ signal_NN1 was_VBDZ located_VVN in_II a_AT1 pouch_NN1 attached_VVN at_II the_AT waist_NN1 ._. 
+</s>
+<s>
+The_AT chip_NN1 itself_PPX1 was_VBDZ designed_VVN to_TO record_VVI a_AT1 heavy_JJ impact_NN1 of_IO magnitude_NN1 consistent_JJ with_IW a_AT1 fall_NN1 situation_NN1 ._. 
+</s>
+<s>
+When_CS a_AT1 fall_NN1 was_VBDZ detected_VVN ,_, the_AT system_NN1 would_VM transmit_VVI a_AT1 signal_NN1 to_II the_AT wearer_NN1 's_GE cell_NN1 phone_NN1 ,_, which_DDQ would_VM signal_VVI an_AT1 emergency_NN1 response_NN1 team_NN1 and_CC the_AT person_NN1 's_GE family_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 found_VVN several_DA2 flaws_NN2 in_II the_AT system_NN1 developed_VVN at_II the_AT University_NN1 of_IO Singapore_NP1 ._. 
+</s>
+<s>
+Since_CS the_AT accelerometer_JJR measures_NN2 impact_NN1 ,_, if_CS it_PPH1 were_VBDR to_TO break_VVI during_II the_AT fall_NN1 it_PPH1 would_VM not_XX function_VVI properly_RR and_CC emergency_NN1 response_NN1 would_VM not_XX be_VBI alerted_VVN ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, a_AT1 number_NN1 of_IO daily_JJ motion_NN1 activities_NN2 could_VM cause_VVI g-force_JJ readings_NN2 consistent_JJ with_IW that_DD1 of_IO a_AT1 fall_NN1 ,_, which_DDQ would_VM trigger_VVI a_AT1 false_JJ fall_NN1 alert_NN1 and_CC cause_VVI unnecessary_JJ emergency_NN1 response_NN1 action_NN1 ._. 
+</s>
+<s>
+If_CS there_EX were_VBDR an_AT1 emergency_NN1 response_NN1 unit_NN1 which_DDQ measured_VVD the_AT fall_NN1 itself_PPX1 and_CC not_XX the_AT impact_NN1 ,_, the_AT possible_JJ break_NN1 would_VM not_XX be_VBI an_AT1 issue_NN1 and_CC false_JJ alarms_NN2 would_VM not_XX occur_VVI ._. 
+</s>
+<s>
+Our_APPGE objective_NN1 is_VBZ to_TO develop_VVI an_AT1 emergency_NN1 response_NN1 system_NN1 to_TO detect_VVI unintentional_JJ falls_NN2 of_IO senior_JJ citizens_NN2 ._. 
+</s>
+<s>
+This_DD1 system_NN1 would_VM be_VBI triggered_VVN by_II a_AT1 characteristic_JJ acceleration_NN1 response_NN1 associated_VVN only_RR with_IW falling_VVG and_CC would_VM be_VBI accurate_JJ enough_RR to_TO not_XX register_VVI false_JJ falls_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, we_PPIS2 aim_VV0 to_TO use_VVI the_AT device_NN1 as_II a_AT1 static_JJ orientation_NN1 system_NN1 that_CST would_VM be_VBI able_JK to_TO correctly_RR measure_VVI the_AT wearer_NN1 's_GE angle_NN1 from_II vertical_JJ ,_, as_II31 well_II32 as_II33 body_NN1 orientation_NN1 (_( i.e._REX face_VV0 down_RP ,_, on_II left_JJ side_NN1 ,_, etc_RA ._. )_) 
+</s>
+<s>
+We_PPIS2 have_VH0 completed_VVN this_DD1 work_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 report_NN1 we_PPIS2 will_VM cover_VVI :_: In_BCL21 order_BCL22 to_TO reach_VVI our_APPGE final_JJ goal_NN1 of_IO characterizing_VVG free_JJ fall_NN1 several_DA2 experiments_NN2 were_VBDR performed_VVN ._. 
+</s>
+<s>
+The_AT accelerometer_NN1 ADXL203EB_FO was_VBDZ first_MD calibrated_VVN ,_, and_CC then_RT used_VVN to_TO record_VVI data_NN for_IF static_JJ orientation_NN1 ,_, fixed_JJ axis_NN1 free_JJ fall_NN1 ,_, and_CC daily_RR human_JJ activities_NN2 ._. 
+</s>
+<s>
+Voltage_NN1 input_NN1 to_II the_AT accelerometer_NN1 was_VBDZ provided_VVN by_II the_AT HP_NN1 33120A_FO function_NN1 generator_NN1 ._. 
+</s>
+<s>
+Voltage_NN1 outputs_NN2 were_VBDR observed_VVN and_CC recorded_VVN using_VVG the_AT HP_NN1 5460213_MC oscilloscope_NN1 ._. 
+</s>
+<s>
+From_II there_RL Microsoft_NP1 Excel_VV0 and_CC Matlab_NP1 were_VBDR used_VVN to_TO analyze_VVI data_NN ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO interpret_VVI readings_NN2 from_II the_AT accelerometer_NN1 we_PPIS2 needed_VVD to_TO determine_VVI a_AT1 relationship_NN1 between_II voltage_NN1 and_CC acceleration_NN1 ._. 
+</s>
+<s>
+The_AT accelerometer_NN1 was_VBDZ rotated_VVN to_II angles_NN2 and_CC orientations_NN2 of_IO known_JJ acceleration_NN1 and_CC the_AT voltage_NN1 output_NN1 recorded_VVD ._. 
+</s>
+<s>
+Using_VVG this_DD1 data_NN we_PPIS2 were_VBDR able_JK to_TO then_RT know_VVI the_AT acceleration_NN1 of_IO the_AT accelerometer_NN1 given_VVN a_AT1 voltage_NN1 at_II any_DD point_NN1 in_II time_NNT1 ._. 
+</s>
+<s>
+To_TO gather_VVI experimental_JJ data_NN for_IF the_AT orientation_NN1 of_IO the_AT accelerometer_NN1 in_II space_NN1 we_PPIS2 performed_VVD experiments_NN2 holding_VVG the_AT accelerometer_NN1 in_II static_JJ orientations_NN2 ._. 
+</s>
+<s>
+The_AT accelerometer_NN1 was_VBDZ placed_VVN at_II the_AT end_NN1 of_IO a_AT1 pivot_NN1 arm_NN1 as_CSA shown_VVN in_II Fig._NN1 1_MC1 ,_, below_RL ,_, and_CC the_AT arm_NN1 was_VBDZ held_VVN at_II 0_MC ,_, 30_MC ,_, 45_MC ,_, 60_MC and_CC 90_MC degrees_NN2 from_II vertical_JJ ._. 
+</s>
+<s>
+Output_NN1 voltages_NN2 were_VBDR recorded_VVN at_II each_DD1 angle_NN1 ._. 
+</s>
+<s>
+From_II there_RL the_AT accelerometer_NN1 was_VBDZ rotated_VVN about_II its_APPGE z-axis_NN1 ,_, which_DDQ is_VBZ depicted_VVN in_II Figure_NN1 2_MC on_II page_NN1 4_MC ._. 
+</s>
+<s>
+The_AT accelerometer_NN1 was_VBDZ rotated_VVN to_II 45_MC ,_, 90_MC and_CC 135_MC degrees_NN2 while_CS the_AT pivot_NN1 arm_NN1 was_VBDZ moved_VVN through_II the_AT previously_RR described_VVN static_JJ positions_NN2 ._. 
+</s>
+<s>
+Data_NN was_VBDZ recorded_VVN at_II every_AT1 orientation_NN1 ._. 
+</s>
+<s>
+Once_RR static_JJ orientation_NN1 had_VHD been_VBN performed_VVN we_PPIS2 experimented_VVD with_IW free_JJ fall_NN1 in_II a_AT1 two_MC dimensional_JJ plane_NN1 ._. 
+</s>
+<s>
+The_AT accelerometer_NN1 was_VBDZ reattached_VVN to_II the_AT end_NN1 of_IO the_AT pivot_NN1 arm_NN1 as_CSA shown_VVN in_II Figure_NN1 1_MC1 ,_, page_NN1 3_MC ,_, so_CS21 that_CS22 the_AT accelerometer_NN1 recorded_VVD data_NN in_II the_AT plane_NN1 of_IO motion_NN1 ._. 
+</s>
+<s>
+This_DD1 meant_VVD that_CST that_DD1 analysis_NN1 was_VBDZ only_RR done_VDN in_II two_MC dimensions_NN2 to_TO ensure_VVI that_CST we_PPIS2 were_VBDR able_JK to_TO accurately_RR measure_VVI the_AT radial_JJ and_CC tangential_JJ acceleration_NN1 ._. 
+</s>
+<s>
+The_AT orientation_NN1 of_IO the_AT accelerometer_NN1 can_VM be_VBI seen_VVN in_II Figure_NN1 3_MC ,_, below_RL ._. 
+</s>
+<s>
+The_AT pivot_NN1 arm_NN1 was_VBDZ then_RT dropped_VVN from_II vertical_JJ and_CC data_NN was_VBDZ recorded_VVN ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO compare_VVI data_NN collected_VVN for_IF fixed_JJ axis_NN1 free_JJ fall_NN1 motion_NN1 to_II other_JJ motions_NN2 we_PPIS2 recorded_VVD data_NN performing_VVG a_AT1 variety_NN1 of_IO activities_NN2 ._. 
+</s>
+<s>
+The_AT accelerometer_NN1 was_VBDZ attached_VVN to_II the_AT experimenters_58 '_97 waist_NN1 and_CC the_AT subject_NN1 walked_VVD ,_, jumped_VVD ,_, sat_VVD down_RP and_CC laid_VVD down_RP ._. 
+</s>
+<s>
+Data_NN was_VBDZ recorded_VVN for_IF every_AT1 action_NN1 ._. 
+</s>
+<s>
+During_II testing_VVG we_PPIS2 were_VBDR able_JK to_TO accurately_RR calibrate_VVI the_AT accelerometer_NN1 and_CC predict_VV0 static_JJ orientation_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, we_PPIS2 developed_VVD a_AT1 theoretical_JJ model_NN1 for_IF falling_VVG ,_, and_CC gathered_JJ data_NN for_IF fixed_JJ axis_NN1 falling_VVG and_CC other_JJ daily_JJ activities_NN2 ._. 
+</s>
+<s>
+During_II the_AT calibration_NN1 ,_, numerous_JJ voltages_NN2 were_VBDR recorded_VVN for_IF known_JJ accelerations_NN2 and_CC plotted_VVN against_II each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI seen_VVN in_II Figure_NN1 4_MC on_II page_NN1 3_MC ._. 
+</s>
+<s>
+We_PPIS2 found_VVD that_CST there_EX was_VBDZ a_AT1 positive_JJ linear_JJ trend_NN1 between_II the_AT measured_JJ voltage_NN1 and_CC known_JJ acceleration_NN1 ._. 
+</s>
+<s>
+This_DD1 relationship_NN1 was_VBDZ used_VVN to_TO calculate_VVI the_AT acceleration_NN1 of_IO the_AT accelerometer_NN1 given_VVN the_AT output_NN1 voltages_NN2 for_IF the_AT rest_NN1 of_IO the_AT lab_NN1 ._. 
+</s>
+<s>
+Logic_NN1 was_VBDZ derived_VVN to_TO use_VVI both_DB2 the_AT x_ZZ1 and_CC y_ZZ1 axis_NN1 data_NN in_II conjunctions_NN2 with_IW the_AT calibration_NN1 data_NN to_TO determine_VVI the_AT orientation_NN1 of_IO the_AT chip_NN1 which_DDQ could_VM be_VBI located_VVN on_II a_AT1 person_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ able_JK to_TO accurately_RR predict_VVI the_AT angle_NN1 from_II vertical_JJ within_II an_AT1 error_NN1 of_IO 2_MC degrees_NN2 as_CSA described_VVN in_II Figure_NN1 5_MC below_RL ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ also_RR able_JK to_TO predict_VVI the_AT rotation_NN1 about_II the_AT vertical_JJ axis_NN1 of_IO a_AT1 person_NN1 within_II an_AT1 error_NN1 of_IO 3_MC degrees_NN2 as_CSA described_VVN in_II Figure_NN1 6_MC below_RL ._. 
+</s>
+<s>
+Combining_VVG these_DD2 two_MC angular_JJ outputs_NN2 the_AT orientation_NN1 of_IO a_AT1 stable_JJ fallen_JJ person_NN1 can_VM be_VBI accurately_RR determined_VVN ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO analyze_VVI a_AT1 fall_NN1 situation_NN1 a_AT1 theoretical_JJ model_NN1 first_MD needed_VVN to_TO be_VBI derived_VVN as_II a_AT1 comparison_NN1 to_II real_JJ world_NN1 data_NN ._. 
+</s>
+<s>
+A_AT1 schematic_JJ of_IO the_AT setup_NN1 can_VM be_VBI seen_VVN in_II Figure_NN1 7_MC below_RL ._. 
+</s>
+<s>
+The_AT chip_NN1 was_VBDZ oriented_VVN so_CS21 that_CS22 the_AT y-axis_NN1 of_IO the_AT chip_NN1 read_VVD the_AT radial_JJ acceleration_NN1 and_CC the_AT x-axis_NN1 read_VVD the_AT tangential_JJ acceleration_NN1 ._. 
+</s>
+<s>
+We_PPIS2 simplified_VVD the_AT problem_NN1 assuming_VVG a_AT1 frictionless_JJ pivot_NN1 at_II the_AT base_NN1 of_IO the_AT arm_NN1 and_CC the_AT force_NN1 of_IO gravity_NN1 acting_VVG at_II the_AT center_NN1 of_IO the_AT arm_NN1 ._. 
+</s>
+<s>
+The_AT shaft_NN1 also_RR had_VHN length_NN1 l_ZZ1 ._. 
+</s>
+<s>
+By_II performing_VVG static_JJ and_CC kinematic_JJ analysis_NN1 we_PPIS2 were_VBDR able_JK to_TO predict_VVI both_DB2 the_AT theoretical_JJ x_ZZ1 and_CC y-axis_JJ acceleration_NN1 and_CC they_PPHS2 can_VM be_VBI seen_VVN in_II Figure_NN1 8_MC below_RL ._. 
+</s>
+<s>
+More_DAR information_NN1 on_II the_AT calculation_NN1 for_IF the_AT theoretical_JJ model_NN1 can_VM be_VBI seen_VVN in_II Appendix_NN1 A._NP1 To_TO verify_VVI our_APPGE theoretical_JJ model_NN1 it_PPH1 was_VBDZ compared_VVN to_II experimental_JJ data_NN from_II the_AT fixed_JJ axis_NN1 free_JJ fall_NN1 experiment_NN1 ._. 
+</s>
+<s>
+Our_APPGE experimental_JJ data_NN can_VM be_VBI seen_VVN in_II Figure_NN1 9_MC below_RL ._. 
+</s>
+<s>
+There_EX are_VBR results_NN2 from_II three_MC free_JJ fall_NN1 tests_NN2 plotted_VVN together_RL in_II Figure_NN1 9_MC ,_, and_CC the_AT results_NN2 are_VBR extremely_RR similar_JJ from_II one_MC1 test_NN1 to_II another_DD1 ._. 
+</s>
+<s>
+The_AT experimental_JJ data_NN had_VHD results_NN2 that_CST were_VBDR expected_VVN ._. 
+</s>
+<s>
+Other_JJ daily_JJ activities_NN2 needed_VVN to_TO be_VBI investigated_VVN to_TO ensure_VVI that_CST their_APPGE results_NN2 were_VBDR not_XX similar_JJ to_II those_DD2 seen_VVN in_II the_AT free_JJ fall_NN1 situation_NN1 data_NN ._. 
+</s>
+<s>
+Walking_NN1 ,_, jumping_VVG ,_, sitting_VVG and_CC lying_VVG down_RP were_VBDR investigated_VVN and_CC their_APPGE results_NN2 can_VM be_VBI seen_VVN in_II Figures_NN2 10-11_MCMC below_RL and_CC 12-13_MCMC on_II page_NN1 8_MC respectively_RR ._. 
+</s>
+<s>
+To_TO further_RRR investigate_VVI free_JJ falling_JJ we_PPIS2 must_VM compare_VVI the_AT theoretical_JJ model_NN1 to_II the_AT experimentally_RR collected_VVN data_NN for_IF free_JJ fall_NN1 ._. 
+</s>
+<s>
+Radial_JJ and_CC tangential_JJ acceleration_NN1 for_IF three_MC trials_NN2 as_CSA compared_VVN to_II our_APPGE theoretical_JJ model_NN1 are_VBR shown_VVN in_II Figure_NN1 14_MC below_RL ._. 
+</s>
+<s>
+Note_VV0 that_CST experimental_JJ data_NN does_VDZ not_XX exactly_RR follow_VVI the_AT theoretical_JJ model_NN1 ._. 
+</s>
+<s>
+The_AT tangential_JJ acceleration_NN1 has_VHZ a_AT1 very_RG similar_JJ output_NN1 but_CCB the_AT radial_JJ acceleration_NN1 seems_VVZ to_TO have_VHI a_AT1 time_NNT1 delay_NN1 ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI due_II21 to_II22 a_AT1 delay_NN1 in_II the_AT response_NN1 of_IO the_AT accelerometer_NN1 or_CC a_AT1 delay_NN1 in_II the_AT data_NN collection_NN1 of_IO the_AT electrical_JJ system_NN1 ._. 
+</s>
+<s>
+Further_JJR investigation_NN1 of_IO this_DD1 discrepancy_NN1 needs_VVZ to_TO be_VBI completed_VVN ._. 
+</s>
+<s>
+Assuming_VVG that_CST the_AT time_NNT1 delay_NN1 can_VM be_VBI identified_VVN and_CC then_RT predicted_VVD we_PPIS2 can_VM accurately_RR model_VVI fixed_JJ axis_NN1 free_JJ fall_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT validated_JJ model_NN1 we_PPIS2 can_VM define_VVI parameters_NN2 to_TO analyze_VVI data_NN and_CC sense_NN1 if_CS a_AT1 fall_NN1 situation_NN1 occurs_VVZ ._. 
+</s>
+<s>
+One_MC1 method_NN1 of_IO doing_VDG this_DD1 would_VM be_VBI to_TO create_VVI bands_NN2 around_II the_AT validated_JJ theoretical_JJ model_NN1 and_CC detect_VV0 if_CSW a_AT1 majority_NN1 of_IO the_AT data_NN being_VBG collected_VVN was_VBDZ within_II the_AT bands_NN2 on_II both_DB2 channels_NN2 ._. 
+</s>
+<s>
+If_CS the_AT data_NN did_VDD fall_VVI within_II both_DB2 channel_VV0 margins_NN2 it_PPH1 would_VM signal_VVI a_AT1 fall_NN1 and_CC actuate_VVI an_AT1 alarm_NN1 ._. 
+</s>
+<s>
+The_AT theoretical_JJ model_NN1 with_IW bands_NN2 is_VBZ shown_VVN in_II Figure_NN1 15_MC below_RL ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 investigating_VVG free_JJ fall_NN1 situations_NN2 we_PPIS2 had_VHD to_TO determine_VVI if_CSW the_AT falling_JJ model_NN1 was_VBDZ similar_JJ to_II any_DD other_JJ daily_JJ activities_NN2 ._. 
+</s>
+<s>
+To_TO have_VHI an_AT1 accurate_JJ system_NN1 ,_, we_PPIS2 had_VHD to_TO ensure_VVI that_CST there_EX would_VM be_VBI no_AT false_JJ falling_JJ alarms_NN2 ._. 
+</s>
+<s>
+After_II comparing_VVG our_APPGE theoretical_JJ model_NN1 to_II typical_JJ daily_JJ motion_NN1 activities_NN2 in_II Figures_NN2 10-13_MCMC on_II pages_NN2 7_MC and_CC 8_MC previously_RR ,_, it_PPH1 is_VBZ clear_JJ that_CST falling_VVG is_VBZ not_XX consistent_JJ with_IW any_DD of_IO these_DD2 plots_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT system_NN1 will_VM be_VBI able_JK to_TO distinguish_VVI between_II falls_NN2 and_CC any_DD other_JJ daily_JJ motion_NN1 activity_NN1 and_CC there_EX will_VM be_VBI no_AT false_JJ falls_NN2 ._. 
+</s>
+<s>
+We_PPIS2 were_VBDR able_JK to_TO use_VVI a_AT1 MEMS_NN2 accelerometer_JJR to_TO characterize_VVI a_AT1 free_JJ fall_NN1 response_NN1 and_CC observe_VVI body_NN1 orientation_NN1 ._. 
+</s>
+<s>
+Through_II this_DD1 ,_, we_PPIS2 were_VBDR able_JK to_TO develop_VVI a_AT1 theoretical_JJ model_NN1 consistent_JJ only_RR with_IW falling_VVG and_CC not_XX any_DD other_JJ daily_JJ motion_NN1 activity_NN1 ._. 
+</s>
+<s>
+This_DD1 model_NN1 could_VM be_VBI used_VVN as_CSA trigger_NN1 parameters_NN2 for_IF an_AT1 emergency_NN1 response_NN1 system_NN1 for_IF senior_JJ citizens_NN2 who_PNQS experience_VV0 unintentional_JJ falls_NN2 ._. 
+</s>
+<s>
+If_CS widely_RR used_VVN ,_, this_DD1 system_NN1 could_VM greatly_RR decrease_VVI hospitalization_NN1 and_CC death_NN1 as_II a_AT1 result_NN1 of_IO slow_JJ emergency_NN1 response_NN1 and_CC better_VV0 many_DA2 lives_NN2 ._. 
+</s>
+<s>
+After_II completing_VVG the_AT calibration_NN1 we_PPIS2 were_VBDR able_JK to_TO accurately_RR determine_VVI the_AT static_JJ orientation_NN1 of_IO a_AT1 person_NN1 ._. 
+</s>
+<s>
+Using_VVG our_APPGE logic_NN1 we_PPIS2 could_VM accurately_RR determine_VVI someone_PN1 's_GE angle_NN1 from_II vertical_JJ within_II 2_MC degrees_NN2 as_CSA described_VVN by_II Figure_NN1 5_MC page_NN1 5_MC and_CC rotation_NN1 about_II the_AT vertical_JJ axis_NN1 within_II 3_MC degrees_NN2 as_CSA described_VVN by_II Figure_NN1 6_MC on_II page_NN1 5_MC ._. 
+</s>
+<s>
+Next_MD we_PPIS2 were_VBDR able_JK to_TO create_VVI a_AT1 theoretical_JJ model_NN1 using_VVG kinematic_JJ analysis_NN1 to_TO predict_VVI what_DDQ the_AT free_JJ fall_NN1 acceleration_NN1 response_NN1 would_VM be_VBI shown_VVN in_II Figure_NN1 8_MC on_II page_NN1 6_MC ._. 
+</s>
+<s>
+This_DD1 was_VBDZ then_RT validated_VVN using_VVG experimental_JJ data_NN and_CC the_AT only_JJ discrepancy_NN1 was_VBDZ a_AT1 time_NNT1 shift_VV0 ,_, which_DDQ is_VBZ shown_VVN in_II Figure_NN1 14_MC on_II page_NN1 8_MC ._. 
+</s>
+<s>
+Using_VVG the_AT theoretical_JJ model_NN1 we_PPIS2 were_VBDR able_JK to_TO design_VVI parameters_NN2 to_TO sense_VVI a_AT1 fall_NN1 as_CSA described_VVN in_II Figure_NN1 15_MC on_II page_NN1 9_MC ._. 
+</s>
+<s>
+We_PPIS2 then_RT were_VBDR able_JK to_TO determine_VVI that_CST there_EX would_VM be_VBI no_AT false_JJ alarms_NN2 due_II21 to_II22 other_JJ daily_JJ activities_NN2 by_II comparing_VVG normal_JJ daily_JJ activities_NN2 including_II walking_NN1 ,_, jumping_VVG ,_, sitting_VVG ,_, and_CC lying_VVG down_RP to_II the_AT parameters_NN2 used_VMK to_TO sense_VVI falling_VVG ._. 
+</s>
+<s>
+Through_II this_DD1 analysis_NN1 we_PPIS2 were_VBDR able_JK to_TO use_VVI a_AT1 MEMS_NN2 accelerometer_JJR device_NN1 to_TO sense_VVI motion_NN1 of_IO the_AT human_JJ body_NN1 specifically_RR in_II a_AT1 free_JJ fall_NN1 situation_NN1 ._. 
+</s>
+<s>
+This_DD1 has_VHZ many_DA2 benefits_NN2 to_II an_AT1 elderly_JJ user_NN1 ._. 
+</s>
+<s>
+Even_CS21 if_CS22 the_AT chip_NN1 is_VBZ damaged_VVN on_II impact_NN1 ,_, a_AT1 fall_NN1 is_VBZ still_RR recorded_VVN by_II the_AT system_NN1 and_CC emergency_NN1 response_NN1 is_VBZ alerted_VVN ._. 
+</s>
+<s>
+Voltage_NN1 characteristics_NN2 consistent_JJ only_RR with_IW a_AT1 fall_NN1 situation_NN1 eliminate_VV0 false_JJ fall_NN1 alerts_NN2 that_CST were_VBDR present_JJ in_II the_AT impact-based_JJ system_NN1 ._. 
+</s>
+<s>
+As_CSA discussed_VVN earlier_RRR in_II this_DD1 report_NN1 ,_, faster_JJR emergency_NN1 response_NN1 leads_VVZ to_TO decrease_VVI in_II hospitalization_NN1 by_II 26%_NNU and_CC death_NN1 by_II 80%_NNU ._. 
+</s>
+<s>
+Therefore_RR ,_, we_PPIS2 hope_VV0 to_TO drastically_RR reduce_VVI the_AT emergency_NN1 response_NN1 time_NNT1 through_II the_AT use_NN1 of_IO this_DD1 system_NN1 and_CC greatly_RR improve_VV0 countless_JJ lives_NN2 ._. 
+</s>
+<s>
+We_PPIS2 recommend_VV0 further_JJR testing_NN1 be_VBI conducted_VVN with_IW a_AT1 3-axis_NN1 MEMS_VVZ accelerometer_NN1 in_BCL21 order_BCL22 to_TO have_VHI a_AT1 better_JJR 3-dimensioanl_JJ analysis_NN1 of_IO human_JJ motion_NN1 ._. 
+</s>
+<s>
+Such_DA analysis_NN1 would_VM be_VBI more_RGR advantageous_JJ than_CSN using_VVG the_AT 2-dimensional_JJ analysis_NN1 conducted_VVN in_II our_APPGE experimentation_NN1 ._. 
+</s>
+<s>
+Also_RR we_PPIS2 believe_VV0 that_CST more_DAR full_JJ scale_NN1 testing_NN1 should_VM be_VBI conducted_VVN ._. 
+</s>
+<s>
+We_PPIS2 also_RR recommend_VV0 generating_JJ models_NN2 for_IF other_JJ modes_NN2 of_IO falling_VVG ._. 
+</s>
+<s>
+Since_II falling_VVG is_VBZ not_XX always_RR likely_JJ to_TO occur_VVI in_II a_AT1 fixed_JJ axis_NN1 position_NN1 there_EX are_VBR many_DA2 different_JJ ways_NN2 in_II which_DDQ a_AT1 person_NN1 may_VM fall_VVI ._. 
+</s>
+<s>
+Further_JJR testing_NN1 could_VM analyze_VVI and_CC characterize_VVI many_DA2 falling_JJ different_JJ falling_JJ scenarios_NN2 ._. 
+</s>
+<s>
+The_AT next_MD step_NN1 includes_VVZ development_NN1 of_IO a_AT1 computer_NN1 program_NN1 that_CST has_VHZ the_AT ability_NN1 to_TO recognize_VVI the_AT data_NN response_NN1 consistent_JJ with_IW falling_VVG ._. 
+</s>
+<s>
+Such_DA a_AT1 program_NN1 would_VM then_RT trigger_VVI an_AT1 alert_JJ for_IF emergency_NN1 response_NN1 to_II hospitals_NN2 or_CC family_NN1 members_NN2 ._. 
+</s>
+<s>
+Also_RR it_PPH1 is_VBZ necessary_JJ to_TO design_VVI the_AT device_NN1 with_IW the_AT accelerometer_JJR to_TO be_VBI worn_VVN by_II the_AT individual_NN1 ._. 
+</s>
+<s>
+Such_DA a_AT1 device_NN1 would_VM ideally_RR be_VBI small_JJ so_CS it_PPH1 would_VM not_XX disrupt_VVI normal_JJ activities_NN2 ._. 
+</s>
+<s>
+We_PPIS2 recommend_VV0 the_AT device_NN1 be_VBI attached_VVN to_II a_AT1 garment_NN1 on_II the_AT individual_NN1 's_GE shoulder_NN1 ._. 
+</s>
+<s>
+The_AT device_NN1 must_VM also_RR be_VBI capable_JJ to_TO wirelessly_RR transmit_VVI data_NN to_II a_AT1 central_JJ computer_NN1 in_II the_AT home_NN1 that_CST would_VM monitor_VVI for_IF falling_VVG ._. 
+</s>

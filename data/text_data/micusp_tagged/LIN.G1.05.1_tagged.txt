@@ -1,0 +1,339 @@
+<s>
+Statements_NN2 concerning_II the_AT stress_NN1 pattern_NN1 of_IO Hawaiian_JJ date_NN1 back_RP to_II the_AT mid_JJ 1800_MC221 's_MC222 ,_, when_CS missionaries_NN2 began_VVD documenting_VVG the_AT language_NN1 in_BCL21 order_BCL22 to_TO translate_VVI religious_JJ texts_NN2 ._. 
+</s>
+<s>
+Since_CS that_DD1 time_NNT1 ,_, the_AT conventional_JJ wisdom_NN1 about_II stress_NN1 placement_NN1 was_VBDZ that_DD1 main_JJ stress_NN1 falls_VVZ on_II the_AT penult_NN1 ,_, with_IW secondary_JJ stress_NN1 iterating_VVG every_AT1 second_MD syllable_NN1 from_II the_AT main_JJ stress_NN1 up_II21 to_II22 the_AT beginning_NN1 of_IO the_AT word_NN1 ;_; additionally_RR ,_, any_DD heavy_JJ syllables_NN2 always_RR receive_VV0 stress_NN1 ._. 
+</s>
+<s>
+This_DD1 notion_NN1 is_VBZ essentially_RR what_DDQ appears_VVZ in_II Newbrand_NP1 (_( 1951_MC )_) ,_, the_AT only_JJ comprehensive_JJ study_NN1 of_IO Hawaiian_JJ phonology_NN1 ._. 
+</s>
+<s>
+However_RR ,_, many_DA2 words_NN2 of_IO five_MC or_CC greater_JJR syllables_NN2 defy_VV0 this_DD1 pattern_NN1 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO words_NN2 with_IW five_MC short_JJ syllables_NN2 ,_, two_MC stress_NN1 patterns_NN2 are_VBR observed_VVN ,_, one_PN1 that_CST follows_VVZ the_AT description_NN1 above_RL (_( main_JJ stress_NN1 on_II penult_NN1 ,_, secondary_NN1 on_II the_AT second_MD syllable_NN1 from_II the_AT beginning_NN1 )_) ,_, the_AT other_JJ with_IW secondary_JJ stress_NN1 on_II the_AT initial_JJ syllable_NN1 ._. 
+</s>
+<s>
+Schtz_NP1 (_( 1981_MC )_) was_VBDZ the_AT first_MD to_TO treat_VVI this_DD1 inconsistency_NN1 in_II detail_NN1 ,_, and_CC provides_VVZ a_AT1 descriptive_JJ system_NN1 that_CST works_VVZ ._. 
+</s>
+<s>
+However_RR ,_, the_AT system_NN1 he_PPHS1 proposes_VVZ entails_VVZ that_DD1 stress_NN1 placement_NN1 is_VBZ irregular_JJ ,_, and_CC must_VM be_VBI specified_VVN for_IF each_DD1 entry_NN1 in_II the_AT lexicon_NN1 ._. 
+</s>
+<s>
+Given_CS21 that_CS22 stress_NN1 is_VBZ non-contrastive_JJ in_II Hawaiian_JJ ,_, the_AT stress_NN1 pattern_NN1 would_VM be_VBI expected_VVN to_TO behave_VVI with_IW some_DD sort_NN1 of_IO regularity_NN1 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 seeks_VVZ to_TO find_VVI this_DD1 pattern_NN1 ,_, recasting_VVG the_AT forms_NN2 formerly_RR regarded_VVN as_II "_" irregular_JJ "_" as_CSA regular_JJ ,_, with_IW deviations_NN2 from_II the_AT pattern_NN1 falling_VVG out_RP from_II an_AT1 analysis_NN1 of_IO the_AT morphological/prosodic_JJ structure_NN1 of_IO Hawaiian_JJ words_NN2 ._. 
+</s>
+<s>
+A_AT1 system_NN1 is_VBZ developed_VVN which_DDQ correctly_RR predicts_VVZ the_AT stress_NN1 pattern_NN1 of_IO Hawaiian_JJ in_II a_AT1 vast_JJ majority_NN1 of_IO cases_NN2 ,_, using_VVG the_AT theoretical_JJ framework_NN1 of_IO Optimality_NP1 Theory_NN1 (_( Prince_NN1 and_CC Smolensky_NP1 ,_, 1993/2004_MF ;_; see_VV0 Kager_NP1 ,_, 1999_MC ,_, for_IF overview_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 paper_NN1 begins_VVZ with_IW a_AT1 description_NN1 of_IO the_AT phenomena_NN2 in_II question_NN1 ,_, followed_VVN by_II a_AT1 discussion_NN1 of_IO the_AT way_NN1 in_II which_DDQ the_AT morphological_JJ structure_NN1 interacts_VVZ with_IW the_AT prosodic_JJ structure_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, an_AT1 OT_NN1 analysis_NN1 will_VM be_VBI given_VVN ,_, using_VVG a_AT1 standard_JJ constraint_NN1 set_VVN with_IW little_DA1 modification_NN1 ._. 
+</s>
+<s>
+The_AT description_NN1 given_VVN above_RL ,_, that_DD1 stress_NN1 iterates_VVZ on_II every_AT1 other_JJ syllable_NN1 starting_VVG with_IW the_AT penult_NN1 works_VVZ for_IF words_NN2 with_IW four_MC or_CC fewer_DAR short_JJ syllables_NN2 ,_, and_CC such_DA descriptions_NN2 are_VBR given_VVN in_II much_DA1 of_IO the_AT older_JJR literature_NN1 on_II Hawaiian_JJ as_II31 well_II32 as_II33 in_II treatments_NN2 of_IO related_JJ Polynesian_JJ languages_NN2 (_( Hayes_NP1 ,_, 1995_MC ,_, Blevins_NP2 ,_, 1994_MC )_) ._. 
+</s>
+<s>
+Furthermore_RR ,_, heavy_JJ syllables_NN2 are_VBR taken_VVN to_TO be_VBI always_RR accented_VVN ._. 
+</s>
+<s>
+For_IF Schtz_NP1 (_( 1981_MC )_) ,_, a_AT1 syllable_NN1 is_VBZ counted_VVN as_CSA heavy_JJ when_CS it_PPH1 has_VHZ two_MC mora_NN1 ._. 
+</s>
+<s>
+Bimoraic_JJ syllables_NN2 include_VV0 those_DD2 with_IW long_JJ vowels_NN2 and_CC diphthongs_NN2 (_( both_DB2 long_JJ and_CC short_JJ diphthongs_NN2 are_VBR understood_VVN to_TO have_VHI two_MC morae_NN2 )_) ._. 
+</s>
+<s>
+Diphthongs_NN2 are_VBR any_DD sequence_NN1 of_IO two_MC vowels_NN2 with_IW a_AT1 fall_NN1 in_II sonority_NN1 ,_, plus_II iu_NNU ,_, a_AT1 so-called_JJ "_" even_RR "_" diphthong_VV0 ._. 
+</s>
+<s>
+Schtz'_NP1 characterization_NN1 of_IO the_AT moraic_JJ status_NN1 of_IO Hawaiian_JJ segments_NN2 is_VBZ adopted_VVN straightforwardly_RR here_RL ._. 
+</s>
+<s>
+Also_RR ,_, because_CS consonants_NN2 are_VBR disallowed_VVN in_II coda_NN1 position_NN1 ,_, there_EX is_VBZ no_AT "_" length-by-position_JJ "_" effect_NN1 in_II Hawaiian_JJ ._. 
+</s>
+<s>
+Given_VVN these_DD2 two_MC generalizations_NN2 ,_, that_DD1 accent_NN1 iterates_VVZ on_II every_AT1 other_JJ syllable_NN1 starting_VVG with_IW the_AT penult_NN1 and_CC the_AT necessity_NN1 of_IO stress_NN1 marking_VVG on_II heavy_JJ syllables_NN2 ,_, stress_NN1 accent_NN1 as_CSA in_II (_( 1_MC1 )_) is_VBZ predicted_VVN and_CC ,_, in_II fact_NN1 ,_, observed.1_FO a._NNU two_MC light_JJ syllables_NN2 b._NNU one_MC1 heavy_JJ syllable_NN1 c._RG two_MC syllables_NN2 ,_, one_MC1 short_JJ diphthong_NN1 d._NNU two_MC syllables_NN2 ,_, one_MC1 long_JJ diphthong_NN1 e._ZZ1 three_MC light_JJ syllables_NN2 f._RA four_MC light_JJ syllables_NN2 g._NNU six_MC light_JJ syllables_NN2 Although_CS the_AT examples_NN2 in_II (_( 1_MC1 )_) do_VD0 not_XX exhaust_VVI the_AT predictive_JJ power_NN1 of_IO the_AT system_NN1 described_VVN above_RL ,_, they_PPHS2 serve_VV0 to_TO demonstrate_VVI the_AT general_JJ patterns_NN2 ._. 
+</s>
+<s>
+The_AT analysis_NN1 given_VVN here_RL assumes_VVZ that_CST feet_NN2 are_VBR universally_RR bimoraic_JJ trochees_NN2 ,_, without_IW giving_VVG recourse_NN1 to_II trimoraic_JJ feet_NN2 (_( cp_NNU ._. 
+</s>
+<s>
+Schtz'_NP1 1999_MC analysis_NN1 of_IO Fijian_JJ )_) ._. 
+</s>
+<s>
+Instead_II21 of_II22 allowing_VVG degenerate_JJ feet_NN2 ,_, the_AT grammar_NN1 of_IO Hawaiian_JJ will_VM simply_RR not_XX foot_NN1 an_AT1 isolated_JJ syllable_NN1 (_( e.g._REX ka(nka)_NN1 )_) ,_, instead_II21 of_II22 applying_VVG epenthesis_NN1 ,_, truncation_NN1 ,_, or_CC other_JJ processes_NN2 ._. 
+</s>
+<s>
+As_CSA seen_VVN in_II (_( 1g_NNU )_) ,_, the_AT system_NN1 as_CSA described_VVN also_RR accounts_VVZ for_IF longer_JJR forms_NN2 with_IW an_AT1 even_JJ number_NN1 of_IO light_JJ syllables_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT system_NN1 breaks_VVZ down_RP in_II words_NN2 with_IW five_MC light_JJ syllables_NN2 ._. 
+</s>
+<s>
+The_AT description_NN1 of_IO this_DD1 type_NN1 of_IO stress_NN1 pattern_NN1 follows_VVZ that_DD1 of_IO Schtz_NP1 (_( 1981_MC )_) ,_, who_PNQS also_RR describes_VVZ similar_JJ patterns_NN2 in_II Fijian_JJ (_( 1999_MC )_) and_CC Tongan_NP1 (_( 2001_MC )_) ._. 
+</s>
+<s>
+Under_II the_AT pattern_NN1 assumed_VVD previous_JJ to_II Schtz'_NP1 account_NN1 of_IO Hawaiian_JJ ,_, exceptions_NN2 to_II the_AT rules_NN2 are_VBR abundant_JJ ._. 
+</s>
+<s>
+Five_MC syllable_NN1 words_NN2 obeying_VVG the_AT pattern_NN1 are_VBR also_RR observed_VVN ,_, as_CSA shown_VVN in_II (_( 2_MC )_) ._. 
+</s>
+<s>
+a._NNU "_" irregular_JJ "_" stress_NN1 pattern_NN1 b._NNU "_" regular_JJ "_" stress_NN1 pattern_NN1 Clearly_RR ,_, the_AT challenge_NN1 offered_VVN by_II these_DD2 data_NN is_VBZ to_TO account_VVI for_IF the_AT "_" irregular_JJ "_" forms_NN2 ,_, while_CS maintaining_VVG a_AT1 system_NN1 that_CST correctly_RR predicts_VVZ the_AT "_" regular_JJ "_" forms_NN2 ._. 
+</s>
+<s>
+As_CSA it_PPH1 stands_VVZ ,_, the_AT data_NN in_II (_( 2_MC )_) present_VV0 an_AT1 outright_JJ contradiction_NN1 ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 situation_NN1 may_VM be_VBI salvageable_JJ given_VVN a_AT1 different_JJ perspective_NN1 on_II the_AT regular_JJ pattern_NN1 of_IO stress_NN1 and_CC an_AT1 understanding_NN1 of_IO the_AT way_NN1 in_II which_DDQ morphology_NN1 interacts_VVZ with_IW the_AT prosodic_JJ structure_NN1 of_IO the_AT word_NN1 ._. 
+</s>
+<s>
+Informally_RR speaking_VVG ,_, suppose_VV0 that_CST the_AT regular_JJ pattern_NN1 of_IO stress_NN1 placement_NN1 in_II Hawaiian_JJ is_VBZ bidirectional_JJ ,_, with_IW main_JJ stress_NN1 assigned_VVN from_II the_AT right_NN1 and_CC secondary_JJ stress_NN1 assigned_VVN iteratively_RR from_II the_AT left.2_FO Such_DA systems_NN2 are_VBR not_XX uncommon_JJ among_II the_AT languages_NN2 of_IO the_AT world_NN1 (_( e.g._REX Garawa_NP1 ,_, Piro_NP1 ,_, Indonesian_JJ ;_; see_VV0 Kager_NP1 (_( 1999_MC )_) ,_, ch._NNU 4_MC ,_, for_IF analysis_NN1 )_) ._. 
+</s>
+<s>
+Now_RT ,_, the_AT words_NN2 formerly_RR characterized_VVN as_CSA irregular_JJ may_VM be_VBI redefined_VVN as_CSA regular_JJ ._. 
+</s>
+<s>
+Given_VVN the_AT strict_JJ requirements_NN2 concerning_II foot_NN1 structure_NN1 and_CC stress_NN1 on_II heavy_JJ syllables_NN2 ,_, all_DB of_IO the_AT data_NN in_II (_( 1_MC1 )_) are_VBR still_RR accounted_VVN for_IF ._. 
+</s>
+<s>
+Now_RT ,_, of_RR21 course_RR22 ,_, the_AT data_NN in_II (_( 2b_FO )_) go_VV0 unexplained_JJ ._. 
+</s>
+<s>
+A_AT1 solution_NN1 presents_VVZ itself_PPX1 given_VVN certain_JJ assumptions_NN2 about_II how_RRQ morphology_NN1 interacts_VVZ with_IW prosodic_JJ structure_NN1 ._. 
+</s>
+<s>
+Only_RR in_II certain_JJ morphological_JJ environments_NN2 ,_, to_TO be_VBI explained_VVN below_RL ,_, will_VM the_AT stress_NN1 pattern_NN1 in_II (_( 2b_FO )_) arise_VV0 ;_; furthermore_RR ,_, even_RR words_NN2 with_IW the_AT "_" regular_JJ "_" stress_NN1 pattern_NN1 sometimes_RT have_VH0 their_APPGE stress_NN1 not_XX due_II21 to_II22 the_AT default_NN1 process_NN1 ,_, but_CCB also_RR because_II21 of_II22 morphological_JJ structure_NN1 ._. 
+</s>
+<s>
+In_II effect_NN1 ,_, the_AT system_NN1 proposed_VVD here_RL makes_VVZ a_AT1 clear_JJ prediction_NN1 concerning_II words_NN2 which_DDQ have_VH0 five_MC light_JJ syllables_NN2 ;_; the_AT stress_NN1 pattern_NN1 will_VM always_RR be_VBI as_CSA in_II (_( 2a_FO )_) whenever_RRQV the_AT word_NN1 is_VBZ composed_VVN of_IO a_AT1 single_JJ stem_NN1 and_CC nothing_PN1 else_RR ._. 
+</s>
+<s>
+In_II the_AT account_NN1 given_VVN below_RL ,_, a_AT1 "_" word_NN1 "_" or_CC "_" grammatical_JJ word_NN1 "_" is_VBZ defined_VVN as_II a_AT1 structure_NN1 composed_VVN of_IO minimally_RR one_MC1 stem_NN1 ,_, which_DDQ may_VM optionally_RR contain_VVI multiple_JJ stems_NN2 plus_II affixes_NN2 and_CC reduplicated_JJ structure_NN1 ._. 
+</s>
+<s>
+Each_DD1 word_NN1 in_II this_DD1 sense_NN1 has_VHZ one_MC1 and_CC only_JJ one_MC1 main_JJ stress_NN1 ._. 
+</s>
+<s>
+Note_VV0 that_CST this_DD1 definition_NN1 is_VBZ roughly_RR equivalent_JJ to_II the_AT traditional_JJ conception_NN1 of_IO "_" word_NN1 ._. "_" 
+</s>
+<s>
+A_AT1 prosodic_JJ word_NN1 is_VBZ defined_VVN as_II a_AT1 freestanding_JJ stress_NN1 domain_NN1 ,_, which_DDQ may_VM or_CC may_VM not_XX have_VHI main_JJ stress_NN1 ,_, and_CC may_VM or_CC may_VM not_XX be_VBI contained_VVN in_II a_AT1 larger_JJR structure_NN1 ._. 
+</s>
+<s>
+The_AT proposal_NN1 above_RL ,_, that_DD1 Hawaiian_JJ has_VHZ a_AT1 bidirectional_JJ stress_NN1 system_NN1 ,_, applies_VVZ to_II all_DB prosodic_JJ words_NN2 ,_, with_IW the_AT assumption_NN1 that_CST prosodic_JJ word_NN1 structure_NN1 may_VM be_VBI recursive_JJ ,_, such_CS21 that_CS22 the_AT maximal_JJ prosodic_JJ word_NN1 may_VM dominate_VVI multiple_NN1 ,_, word-internal_JJ prosodic_JJ words.3_FO Compound_VV0 words_NN2 offer_VV0 the_AT clearest_JJT example_NN1 of_IO this_DD1 type_NN1 of_IO structure_NN1 ,_, although_CS reduplication_NN1 and_CC affixes_NN2 will_VM be_VBI examined_VVN in_II31 light_II32 of_II33 this_DD1 proposal_NN1 as_RR21 well_RR22 ._. 
+</s>
+<s>
+While_CS an_AT1 account_NN1 of_IO stress_NN1 patterns_NN2 based_VVN in_RR21 part_RR22 on_II morphological_JJ structure_NN1 is_VBZ promising_JJ ,_, care_NN1 must_VM be_VBI taken_VVN not_XX to_TO construct_VVI a_AT1 circular_JJ argument_NN1 of_IO the_AT type_NN1 which_DDQ Schtz_NP1 warns_VVZ against_II ,_, such_CS21 that_CS22 "_" accent_NN1 defines_VVZ the_AT word_NN1 ._. "_" 
+</s>
+<s>
+Because_CS there_EX is_VBZ no_AT good_JJ etymological_JJ dictionary_NN1 of_IO Hawaiian_JJ ,_, claims_VVZ about_II internal_JJ structure_NN1 must_VM be_VBI made_VVN with_IW caution_NN1 ,_, although_CS there_EX are_VBR many_DA2 clear-cut_JJ cases_NN2 ._. 
+</s>
+<s>
+With_IW these_DD2 considerations_NN2 in_II mind_NN1 ,_, two_MC examples_NN2 below_RL demonstrate_VV0 how_RRQ a_AT1 system_NN1 that_CST treats_VVZ each_DD1 member_NN1 of_IO a_AT1 compound_NN1 as_CSA it_PPH1 's_VBZ own_DA prosodic_JJ word_NN1 simplifies_VVZ an_AT1 account_NN1 of_IO stress_NN1 ._. 
+</s>
+<s>
+In_II (_( 3_MC )_) ,_, two_MC five-syllable_JJ words_NN2 with_IW different_JJ stress_NN1 patterns_NN2 are_VBR given_VVN ._. 
+</s>
+<s>
+Although_CS the_AT examples_NN2 in_II (_( 3_MC )_) differ_VV0 in_II their_APPGE stress_NN1 patterns_NN2 ,_, their_APPGE phonetic_JJ realization_NN1 is_VBZ expected_VVN given_VVN the_AT assumptions_NN2 about_II recursive_JJ prosodic_JJ structure_NN1 detailed_VVD above_RL ._. 
+</s>
+<s>
+One_MC1 outstanding_JJ problem_NN1 concerns_VVZ the_AT placement_NN1 of_IO main_JJ stress_NN1 versus_II secondary_JJ stress_NN1 ;_; this_DD1 issue_NN1 will_VM be_VBI treated_VVN below_RL ._. 
+</s>
+<s>
+Because_CS Hawaiian_JJ grammar_NN1 strictly_RR enforces_VVZ a_AT1 foot_NN1 structure_NN1 of_IO bimoraic_JJ trochees_NN2 ,_, stress_VV0 that_DD1 is_VBZ assigned_VVN from_II the_AT left_JJ edge_NN1 of_IO the_AT word_NN1 will_VM go_VVI unrealized_JJ in_II a_AT1 prosodic_JJ word_NN1 of_IO three_MC syllables_NN2 or_CC less_RRR ._. 
+</s>
+<s>
+In_II each_DD1 of_IO the_AT cases_NN2 in_II (_( 3_MC )_) ,_, stress_NN1 is_VBZ assigned_VVN from_II the_AT right_NN1 in_II all_DB word-internal_JJ prosodic_JJ words_NN2 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA is_VBZ expected_VVN ,_, only_RR the_AT rightmost_JJ accent_NN1 in_II each_DD1 grammatical_JJ word_NN1 get_VV0 main_JJ stress_NN1 ,_, even_CS21 though_CS22 right_JJ edges_NN2 are_VBR always_RR marked_VVN by_II a_AT1 foot_NN1 when_RRQ possible_JJ ._. 
+</s>
+<s>
+Put_VV0 another_DD1 way_NN1 ,_, the_AT right_JJ edge_NN1 of_IO the_AT entire_JJ word_NN1 gets_VVZ main_JJ stress_NN1 ,_, although_CS the_AT right_JJ edge_NN1 of_IO every_AT1 prosodic_JJ word_NN1 is_VBZ footed_VVN ._. 
+</s>
+<s>
+Although_CS this_DD1 system_NN1 may_VM seem_VVI complex_JJ ,_, such_DA a_AT1 pattern_NN1 naturally_RR falls_VVZ out_II21 of_II22 standard_JJ constraints_NN2 within_II Optimality_NP1 Theory_NN1 ,_, as_CSA shown_VVN below_RL ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT two_MC processes_NN2 that_CST mark_VV0 right_JJ edges_NN2 -- one_PN1 that_CST foots_VVZ right_JJ edges_NN2 and_CC the_AT other_JJ that_CST assigns_VVZ main_JJ stress_NN1 to_II right_JJ edges_NN2 -- guarantee_NN1 that_CST the_AT right_JJ edge_NN1 of_IO a_AT1 prosodic_JJ word_NN1 will_VM be_VBI footed_VVN whenever_RRQV possible_JJ (_( i.e._REX whenever_RRQV the_AT penultimate_JJ syllable_NN1 is_VBZ not_XX heavy_JJ )_) ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 compounds_NN2 ,_, affixes_NN2 play_VV0 an_AT1 important_JJ role_NN1 in_II the_AT prosodic_JJ structure_NN1 ._. 
+</s>
+<s>
+Consider_VV0 the_AT following_JJ examples_NN2 ,_, in_II which_DDQ reduplicated_VVD structure_NN1 is_VBZ treated_VVN as_II a_AT1 prefix_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 of_IO stress_NN1 assignment_NN1 outlined_VVN will_VM account_VVI for_IF the_AT varied_JJ data_NN above_II given_JJ certain_JJ assumptions_NN2 about_II the_AT prosodic_JJ status_NN1 of_IO affixes_NN2 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO suffixes_NN2 ,_, such_II21 as_II22 -na_FU in_II (_( 4c_FO )_) ,_, the_AT affix_NN1 appears_VVZ to_TO combine_VVI with_IW the_AT stem_NN1 to_TO form_VVI a_AT1 prosodic_JJ word_NN1 ;_; therefore_RR ,_, main_JJ stress_NN1 falls_VVZ on_II the_AT penult_NN1 despite_II the_AT presence_NN1 of_IO the_AT suffix_NN1 ._. 
+</s>
+<s>
+Prefixes_NN2 ,_, including_II reduplicated_JJ structure_NN1 ,_, are_VBR treated_VVN differently_RR ._. 
+</s>
+<s>
+These_DD2 combine_VV0 to_TO form_VVI a_AT1 stress_NN1 domain_NN1 ._. 
+</s>
+<s>
+In_II a_AT1 case_NN1 such_II21 as_II22 (_( 4d_NNU )_) ,_, both_DB2 "_" prefixes_NN2 ,_, "_" the_AT prefix_NN1 -u_ZZ1 and_CC the_AT reduplicated_JJ material_NN1 ,_, form_VV0 an_AT1 internal_JJ prosodic_JJ word_NN1 ._. 
+</s>
+<s>
+The_AT same_DA generalization_NN1 holds_VVZ for_IF (_( 4a_FO )_) ,_, in_II which_DDQ the_AT reduplicated_JJ 'eke_NN1 is_VBZ treated_VVN as_II an_AT1 internal_JJ prosodic_JJ word_NN1 ,_, although_CS a_AT1 prefix_NN1 in_II the_AT traditional_JJ sense_NN1 is_VBZ absent_JJ ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO (_( 4b_FO )_) ,_, the_AT reduplicated_JJ syllable_NN1 'a_UH may_VM be_VBI treated_VVN as_CSA it_PPH1 's_VBZ own_DA prosodic_JJ word_NN1 that_CST is_VBZ too_RG small_JJ to_TO be_VBI footed_VVN ,_, or_CC as_CSA adjoined_VVN to_II the_AT maximal_JJ prosodic_JJ word_NN1 ;_; the_AT difference_NN1 may_VM have_VHI import_NN1 when_RRQ issues_NN2 of_IO minimal_JJ words_NN2 are_VBR concerned_JJ ,_, but_CCB the_AT distinction_NN1 will_VM not_XX be_VBI explored_VVN here_RL ,_, where_CS the_AT later_JJR case_NN1 (_( adjoined_VVN to_II the_AT maximal_JJ prosodic_JJ word_NN1 )_) is_VBZ assumed_VVN ._. 
+</s>
+<s>
+The_AT examples_NN2 in_II (_( 4_MC )_) will_VM ,_, then_RT ,_, have_VH0 the_AT structures_NN2 depicted_VVN in_II (_( 4'_FO )_) ._. 
+</s>
+<s>
+Having_VHG outlined_VVN the_AT way_NN1 in_II which_DDQ morphological_JJ and_CC prosodic_JJ structure_NN1 interact_VV0 ,_, a_AT1 formal_JJ account_NN1 follows_VVZ that_CST strives_VVZ to_TO explain_VVI the_AT multiple_JJ processes_NN2 at_II play_NN1 ,_, while_CS maintaining_VVG empirical_JJ coverage_NN1 of_IO the_AT data_NN ._. 
+</s>
+<s>
+The_AT rest_NN1 of_IO this_DD1 paper_NN1 shows_VVZ that_CST the_AT data_NN above_RL is_VBZ quite_RG amenable_JJ to_II the_AT framework_NN1 of_IO Optimality_NP1 Theory_NN1 (_( OT_NP1 )_) ._. 
+</s>
+<s>
+After_II examining_VVG a_AT1 set_NN1 of_IO constraints_NN2 that_CST model_VV0 the_AT cases_NN2 in_II which_DDQ the_AT structure_NN1 of_IO the_AT prosodic_JJ word_NN1 is_VBZ not_XX recursive_JJ ,_, examples_NN2 such_II21 as_II22 those_DD2 in_II (_( 4_MC )_) will_VM be_VBI considered_VVN ._. 
+</s>
+<s>
+Since_CS the_AT constraint_NN1 set_NN1 postulated_VVN within_II OT_NP1 is_VBZ considered_VVN to_TO be_VBI universal_JJ ,_, it_PPH1 is_VBZ a_AT1 positive_JJ result_NN1 that_CST the_AT following_JJ account_NN1 only_RR employs_VVZ constraints_NN2 that_CST are_VBR standard_JJ in_II the_AT literature_NN1 ._. 
+</s>
+<s>
+All_DB of_IO the_AT constraints_NN2 considered_VVN below_RL are_VBR discussed_VVN in_II Prince_NN1 and_CC Smolensky_NP1 (_( 1993/2004_MF )_) and_CC McCarthy_NP1 and_CC Prince_NN1 (_( 1993_MC )_) ,_, although_CS many_DA2 of_IO these_DD2 have_VH0 antecedents_NN2 in_II previous_JJ literature_NN1 (_( see_VV0 references_NN2 above_RL for_IF overview_NN1 )_) ._. 
+</s>
+<s>
+Only_RR the_AT domain_NN1 of_IO application_NN1 of_IO one_MC1 constraint_NN1 will_VM have_VHI to_TO be_VBI altered_VVN from_II the_AT usual_JJ form_NN1 in_BCL21 order_BCL22 to_TO account_VVI for_IF recursive_JJ prosodic_JJ words_NN2 ._. 
+</s>
+<s>
+The_AT first_MD constraints_NN2 to_TO be_VBI discussed_VVN account_NN1 for_IF stress_NN1 patterns_NN2 in_II non-recursive_JJ prosodic_JJ words_NN2 that_CST contain_VV0 light_JJ or_CC heavy_JJ syllables_NN2 ._. 
+</s>
+<s>
+The_AT important_JJ observations_NN2 ,_, noted_VVD above_RL ,_, are_VBR the_AT following_JJ :_: a_AT1 bimoraic_JJ foot_NN1 structure_NN1 that_CST is_VBZ strictly_RR enforced_VVN (_( with_IW no_AT truncation_NN1 or_CC epenthesis_NN1 )_) ,_, trochaic_JJ foot_NN1 structure_NN1 ,_, right_JJ edge_NN1 main_JJ stress_NN1 ,_, heavy_JJ syllables_NN2 always_RR stressed_VVN ,_, and_CC secondary_JJ stress_NN1 iterating_VVG from_II the_AT left_JJ ._. 
+</s>
+<s>
+The_AT first_MD constraints_NN2 necessary_JJ for_IF this_DD1 account_NN1 are_VBR those_DD2 which_DDQ enforce_VV0 bimoraic_JJ foot_NN1 structure_NN1 and_CC left-headedness_NN1 ,_, as_II31 well_II32 as_II33 a_AT1 constraint_NN1 that_CST ensures_VVZ the_AT rightmost_JJ syllable_NN1 gets_VVZ main_JJ stress_NN1 ._. 
+</s>
+<s>
+The_AT standard_JJ constraints_NN2 for_IF this_DD1 account_NN1 are_VBR defined_VVN below_RL ._. 
+</s>
+<s>
+Additionally_RR ,_, a_AT1 further_JJR constraint_NN1 is_VBZ needed_VVN to_TO ensure_VVI that_DD1 non-parsing_NN1 of_IO syllables_NN2 is_VBZ minimal_JJ ._. 
+</s>
+<s>
+Since_CS Hawaiian_JJ always_RR enforces_VVZ a_AT1 trochaic_JJ structure_NN1 ,_, I_PPIS1 take_VV0 RH-TYPE-T_NP1 to_TO be_VBI undominated_JJ ._. 
+</s>
+<s>
+Also_RR ,_, the_AT data_NN in_II (_( 7_MC )_) show_VV0 that_CST a_AT1 constraint_NN1 such_II21 as_II22 *CLASH_FO ,_, which_DDQ militates_VVZ against_II consecutive_JJ syllables_NN2 with_IW stress_NN1 ,_, is_VBZ very_RG low_RR ranked_VVN ._. 
+</s>
+<s>
+Therefore_RR ,_, these_DD2 constraints_NN2 will_VM be_VBI omitted_VVN from_II the_AT tableaux_NN2 below_RL ,_, for_IF ease_NN1 of_IO exposition_NN1 ._. 
+</s>
+<s>
+Given_CS21 that_CS22 Hawaiian_JJ is_VBZ well_RR documented_VVN to_TO strictly_RR enforce_VVI bimoraic_JJ trochees_NN2 ,_, while_CS also_RR marking_VVG the_AT right_JJ edge_NN1 of_IO the_AT PrWd_NP1 with_IW a_AT1 foot_NN1 ,_, the_AT ranking_NN1 in_II (_( 7_MC )_) is_VBZ expected_VVN ._. 
+</s>
+<s>
+The_AT following_JJ tableaux_NN2 bear_VV0 this_DD1 prediction_NN1 out_RP ._. 
+</s>
+<s>
+No_AT ranking_NN1 argument_NN1 can_VM be_VBI constructed_VVN between_II PASRE-SYL_NP1 and_CC ALL-WD-RIGHT_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, it_PPH1 is_VBZ well_RR attested_VVN that_CST the_AT final_JJ foot_NN1 in_II any_DD word_NN1 gets_VVZ main_JJ stress_NN1 ,_, so_RG RIGHTMOST_JJ may_VM be_VBI assumed_VVN to_TO be_VBI undominated_JJ as_RR21 well_RR22 ._. 
+</s>
+<s>
+A_AT1 final_JJ constraint_NN1 that_CST may_VM be_VBI assumed_VVN to_TO be_VBI undominated_JJ appears_VVZ in_II (_( 9_MC )_) ,_, since_CS heavy_JJ syllables_NN2 are_VBR always_RR stressed_VVN ._. 
+</s>
+<s>
+With_IW the_AT constraints_NN2 discussed_VVN above_RL accounted_VVN for_IF ,_, the_AT grammar_NN1 now_RT has_VHZ the_AT ranking_NN1 shown_VVN in_II (_( 10_MC )_) ,_, again_RT omitting_VVG RH-TYPE-T_NP1 and_CC *CLASH_FO ._. 
+</s>
+<s>
+While_CS the_AT grammar_NN1 in_II (_( 10_MC )_) correctly_RR predicts_VVZ the_AT stress_NN1 rhythm_NN1 in_II any_DD word_NN1 with_IW less_DAR than_CSN three_MC syllables_NN2 ,_, a_AT1 further_JJR constraint_NN1 must_VM be_VBI introduced_VVN to_TO account_VVI for_IF longer_JJR forms_NN2 ._. 
+</s>
+<s>
+The_AT alignment_NN1 constraint_NN1 in_II (_( 11_MC )_) serves_VVZ this_DD1 purpose_NN1 ;_; note_VV0 that_CST this_DD1 is_VBZ a_AT1 gradient_NN1 constraint_NN1 ,_, for_IF which_DDQ any_DD foot_NN1 removed_VVN from_II the_AT left_JJ edge_NN1 will_VM occur_VVI a_AT1 violation_NN1 equal_JJ to_II the_AT number_NN1 of_IO syllables_NN2 that_CST separate_VV0 it_PPH1 from_II the_AT left_JJ edge_NN1 ._. 
+</s>
+<s>
+This_DD1 constraint_NN1 determines_VVZ the_AT direction_NN1 of_IO footing_VVG in_II any_DD long_JJ prosodic_JJ word_NN1 ,_, while_CS ALL-WD-R(IGTH)_JJ only_JJ forces_NN2 one_MC1 foot_NN1 to_TO appear_VVI on_II the_AT right_JJ edge_NN1 ._. 
+</s>
+<s>
+ALL-FT-L_NP1 is_VBZ dominated_VVN by_II ALL-WD-R_NP1 ,_, as_CSA (_( 12_MC )_) demonstrates_VVZ ._. 
+</s>
+<s>
+Before_II continuing_VVG with_IW longer_JJR prosodic_JJ words_NN2 with_IW recursive_JJ structure_NN1 ,_, some_DD words_NN2 are_VBR in_II order_NN1 concerning_II the_AT current_JJ state_NN1 of_IO the_AT grammar_NN1 ,_, which_DDQ appears_VVZ in_II (_( 13_MC )_) ._. 
+</s>
+<s>
+Although_CS the_AT interaction_NN1 between_II these_DD2 constraints_NN2 and_CC candidate_NN1 forms_NN2 is_VBZ completely_RR mechanic_NN1 ,_, the_AT constraints_NN2 themselves_PPX2 achieve_VV0 targets_NN2 that_CST are_VBR "_" natural_JJ "_" and_CC common_JJ among_II the_AT world_NN1 's_GE languages_NN2 ._. 
+</s>
+<s>
+As_CSA has_VHZ been_VBN said_VVN before_RT ,_, some_DD of_IO these_DD2 constraints_NN2 simply_RR impose_VV0 a_AT1 foot_NN1 system_NN1 based_VVN on_II the_AT bimoraic_JJ trochee_NN1 ._. 
+</s>
+<s>
+The_AT high_JJ ranking_NN1 of_IO these_DD2 constraints_NN2 ensures_VVZ that_CST this_DD1 foot_NN1 structure_NN1 is_VBZ never_RR violated_VVN for_IF any_DD reason_NN1 ._. 
+</s>
+<s>
+The_AT constraints_NN2 WSP_NP1 and_CC RMOST_NP1 give_VV0 prominence_NN1 to_II heavy_JJ syllables_NN2 and_CC (_( in_II a_AT1 trochaic_JJ system_NN1 )_) the_AT penult_NN1 ,_, both_RR common_JJ properties_NN2 among_II the_AT world_NN1 's_GE languages_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT alignment_NN1 constraints_NN2 enforce_VV0 the_AT demarcative_JJ and_CC rhythmic_JJ properties_NN2 of_IO stress_NN1 ._. 
+</s>
+<s>
+While_CS ALL-FT-L_NP1 enforces_VVZ a_AT1 rhythmic_JJ system_NN1 of_IO stress_NN1 ,_, iterating_VVG from_II the_AT left_JJ edge_NN1 of_IO a_AT1 prosodic_JJ word_NN1 ,_, it_PPH1 is_VBZ not_XX so_RG important_JJ in_II this_DD1 grammar_NN1 as_CSA ALL-WD-R_NP1 ,_, which_DDQ demarks_VVZ the_AT right_JJ edge_NN1 of_IO the_AT prosodic_JJ word_NN1 ._. 
+</s>
+<s>
+The_AT tableaux_NN2 in_II (_( 14_MC )_) show_VV0 that_CST these_DD2 constraints_NN2 ,_, with_IW the_AT ranking_NN1 assigned_VVN in_II (_( 13_MC )_) ,_, select_VV0 the_AT correct_JJ candidate_NN1 in_II the_AT cases_NN2 of_IO pleleha_NN1 (_( butterfly_NN1 )_) and_CC 'i:na_FO (_( land_NN1 )_) ._. 
+</s>
+<s>
+The_AT constraints_NN2 as_CSA they_PPHS2 have_VH0 been_VBN defined_VVN so_RG far_RR allow_VV0 the_AT grammar_NN1 to_TO globally_RR evaluate_VVI grammatical_JJ words_NN2 with_IW recursive_JJ prosodic_JJ word_NN1 structure_NN1 with_IW almost_RR no_AT change_NN1 ._. 
+</s>
+<s>
+Since_CS each_DD1 prosodic_JJ word_NN1 in_II a_AT1 recursive_JJ structure_NN1 has_VHZ exactly_RR the_AT same_DA status_NN1 ,_, and_CC since_CS the_AT alignment_NN1 constraints_NN2 refer_VV0 to_II prosodic_JJ words_NN2 as_CSA their_APPGE category_NN1 of_IO application_NN1 ,_, the_AT grammar_NN1 will_VM select_VVI the_AT candidate_NN1 with_IW the_AT observed_JJ foot_NN1 structure_NN1 as_CSA optimal_JJ ._. 
+</s>
+<s>
+The_AT only_JJ problem_NN1 concerns_VVZ the_AT assignment_NN1 of_IO main_JJ stress_NN1 ._. 
+</s>
+<s>
+Up_II21 to_II22 this_DD1 point_NN1 ,_, RMOST_NP1 has_VHZ ensured_VVN that_CST the_AT rightmost_JJ foot_NN1 in_II the_AT prosodic_JJ words_NN2 gets_VVZ main_JJ stress_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT grammar_NN1 will_VM now_RT be_VBI faced_VVN with_IW words_NN2 that_CST have_VH0 multiple_JJ prosodic_JJ words_NN2 ,_, something_PN1 must_VM be_VBI changed_VVN in_BCL21 order_BCL22 to_TO assign_VVI the_AT correct_JJ main_JJ stress_NN1 ._. 
+</s>
+<s>
+The_AT domain_NN1 of_IO application_NN1 of_IO RMOST_NP1 will_VM have_VHI to_TO be_VBI changed_VVN to_TO either_RR apply_VVI to_II the_AT "_" maximal_JJ "_" prosodic_JJ word_NN1 ,_, looking_VVG at_II the_AT morphological_JJ structure_NN1 top_NN1 down_RP ,_, or_CC will_VM have_VHI to_TO apply_VVI to_II the_AT grammatical_JJ word_NN1 ._. 
+</s>
+<s>
+Although_CS the_AT choice_NN1 may_VM be_VBI trivial_JJ ,_, the_AT second_MD option_NN1 will_VM be_VBI pursued_VVN here_RL ._. 
+</s>
+<s>
+Now_RT ,_, instead_II21 of_II22 RMOST_NP1 ,_, the_AT grammar_NN1 will_VM have_VHI RMOST'_NP1 ,_, which_DDQ is_VBZ defined_VVN as_CSA in_II (_( 15_MC )_) ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT addition_NN1 of_IO RMOST'_NP1 is_VBZ used_VVN merely_RR as_II a_AT1 label_NN1 for_IF the_AT familiar_JJ constraint_NN1 for_IF the_AT sake_NN1 of_IO convenience_NN1 ;_; the_AT constraint_NN1 has_VHZ not_XX changed_VVN ,_, only_RR the_AT domain_NN1 of_IO application_NN1 ._. 
+</s>
+<s>
+With_IW our_APPGE modified_JJ constraint_NN1 set_NN1 ,_, observed_VVD candidates_NN2 are_VBR selected_VVN as_CSA optimal_JJ even_RR for_IF long_JJ words_NN2 with_IW complex_JJ morphology_NN1 ,_, when_CS the_AT assumptions_NN2 concerning_II the_AT relationship_NN1 between_II morphological_JJ structure_NN1 and_CC prosodic_JJ structure_NN1 are_VBR adopted_VVN ._. 
+</s>
+<s>
+The_AT following_JJ tableaux_NN2 demonstrate_VV0 this_DD1 for_IF some_DD representative_JJ examples_NN2 ._. 
+</s>
+<s>
+In_II each_DD1 case_NN1 ,_, the_AT assumed_JJ morphological_JJ analysis_NN1 appears_VVZ above_II the_AT tableaux_NN2 ;_; within_II the_AT tableaux_NN2 ,_, vertical_JJ lines_NN2 and_CC spaces_NN2 separate_VV0 prosodic_JJ words_NN2 that_CST occur_VV0 within_II grammatical_JJ words_NN2 ._. 
+</s>
+<s>
+The_AT tableaux_NN2 above_RL and_CC in_II (_( 14_MC )_) show_VV0 that_CST the_AT grammar_NN1 proposed_VVN in_II (_( 13_MC )_) accounts_VVZ for_IF a_AT1 wide_JJ range_NN1 of_IO data_NN that_CST have_VH0 superficially_RR different_JJ stress_NN1 patterns.4_FO This_DD1 result_NN1 shows_VVZ that_CST a_AT1 fuller_JJR account_NN1 of_IO Hawaiian_JJ stress_NN1 can_VM be_VBI made_VVN when_CS taking_VVG the_AT morphological_JJ structure_NN1 of_IO words_NN2 under_II consideration_NN1 ._. 
+</s>
+<s>
+At_II the_AT same_DA time_NNT1 ,_, the_AT proposal_NN1 above_RL does_VDZ not_XX define_VVI morphological_JJ structure_NN1 in_II31 terms_II32 of_II33 observed_JJ stress_NN1 patterns_NN2 ,_, but_CCB instead_RR relies_VVZ upon_II fairly_RR straightforward_JJ analyses_NN2 of_IO word_NN1 structure_NN1 ._. 
+</s>
+<s>
+The_AT critical_JJ assumption_NN1 ,_, that_CST prefixes_NN2 (_( including_II reduplicated_JJ structure_NN1 )_) and_CC compounds_NN2 create_VV0 their_APPGE own_DA prosodic_JJ words_NN2 within_II a_AT1 maximal_JJ prosodic_JJ word_NN1 seems_VVZ not_XX too_RG radical_JJ either_RR ,_, when_CS one_PN1 considers_VVZ that_CST grammars_NN2 often_RR use_VV0 stress_NN1 to_TO mark_VVI morphological_JJ boundaries_NN2 ._. 
+</s>
+<s>
+In_II effect_NN1 ,_, the_AT grammar_NN1 of_IO Hawaiian_JJ is_VBZ one_PN1 that_CST emphasizes_VVZ the_AT demarcative_JJ and_CC quantity-sensitive_JJ properties_NN2 as_II31 opposed_II32 to_II33 the_AT rhythmic_JJ property_NN1 of_IO stress_NN1 ._. 
+</s>

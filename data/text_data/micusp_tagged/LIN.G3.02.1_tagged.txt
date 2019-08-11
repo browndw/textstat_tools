@@ -1,0 +1,291 @@
+<s>
+Word_NN1 segmentation_NN1 is_VBZ to_TO find_VVI word_NN1 boundaries_NN2 not_XX marked_VVN by_II any_DD delimiters_NN2 in_II texts_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT first_MD step_NN1 of_IO text_NN1 processing_VVG in_II languages_NN2 without_IW spaces_NN2 as_CSA delimiters_NN2 such_II21 as_II22 Chinese_JJ ,_, Japanese_JJ and_CC Thai_NP1 ._. 
+</s>
+<s>
+The_AT fact_NN1 that_CST a_AT1 sequence_NN1 of_IO characters_NN2 can_VM be_VBI grouped_VVN in_II several_DA2 ways_NN2 makes_VVZ the_AT segmentation_NN1 task_NN1 difficult_JJ ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 sizable_JJ literature_NN1 dealing_VVG with_IW word_NN1 segmentation_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, Chinese_JJ word_NN1 segmentation_NN1 has_VHZ been_VBN studied_VVN for_IF decades_NNT2 with_IW varieties_NN2 of_IO methods_NN2 (_( Fan_NN1 and_CC Tsai_FW ,_, 1988_MC ;_; Sproat_NP1 et_RA21 al._RA22 ,_, 1996_MC ;_; Wu_NP1 ,_, 2003_MC )_) ._. 
+</s>
+<s>
+Even_RR for_IF those_DD2 languages_NN2 with_IW delimiters_NN2 ,_, word_NN1 segmentation_NN1 is_VBZ also_RR a_AT1 necessary_JJ step_NN1 in_II text_NN1 processing_NN1 ._. 
+</s>
+<s>
+In_II Korean_JJ ,_, though_CS spaces_NN2 are_VBR delimiters_NN2 of_IO Eojeol1_FO boundaries_NN2 ,_, automatic_JJ spacing_NN1 is_VBZ required_VVN in_II sentences_NN2 with_IW spacing_VVG errors_NN2 in_BCL21 order_BCL22 to_TO increase_VVI the_AT readability_NN1 and_CC communication_NN1 accuracy_NN1 ._. 
+</s>
+<s>
+Spacing_VVG errors_NN2 cause_VV0 misinterpretation_NN1 to_II readers_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, if_CS (_( once_RR in_II a_AT1 while_NNT1 )_) is_VBZ written_VVN as_CSA (_( to_TO go_VVI once_RR in_II a_AT1 while_NNT1 )_) ,_, both_DB2 its_APPGE meaning_NN1 and_CC part-of-speech_JJ change_NN1 ._. 
+</s>
+<s>
+Spacing_VVG errors_NN2 are_VBR common_JJ in_II Korean_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ hard_JJ to_TO get_VVI correct_JJ word_NN1 spacing_VVG even_RR for_IF human_NN1 because_CS people_NN tend_VV0 to_TO use_VVI morphemes_NN2 incorrectly_RR ._. 
+</s>
+<s>
+Consider_VV0 (_( whole_JJ family_NN1 )_) ._. 
+</s>
+<s>
+(_( whole_NN1 )_) is_VBZ an_AT1 adjective_NN1 and_CC it_PPH1 should_VM be_VBI detached_VVN from_II (_( family_NN1 )_) ,_, but_CCB people_NN often_RR misuse_VV0 as_II a_AT1 noun_NN1 ,_, and_CC they_PPHS2 either_RR attach_VV0 or_CC detach_VV0 to_TO ._. 
+</s>
+<s>
+2_MC In_II the_AT literature_NN1 ,_, several_DA2 methods_NN2 have_VH0 been_VBN used_VVN to_TO deal_VVI with_IW spacing_NN1 (_( Kang_NP1 et_RA21 al._RA22 ,_, 2001_MC ;_; Lee_NP1 et_RA21 al._RA22 ,_, 2003_MC )_) ._. 
+</s>
+<s>
+The_AT task_NN1 of_IO word_NN1 spacing_NN1 can_VM be_VBI taken_VVN as_II the_AT task_NN1 of_IO word_NN1 segmentation_NN1 (_( Lee_NP1 et_RA21 al._RA22 ,_, 2003_MC )_) ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO space_VVI a_AT1 text_NN1 ,_, all_DB the_AT spaces_NN2 are_VBR eliminated_VVN first_MD and_CC then_RT the_AT text_NN1 is_VBZ segmented_VVN into_II Eojeols_NP1 delimited_VVD with_IW correct_JJ spaces_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 paper_NN1 ,_, we_PPIS2 built_VVD a_AT1 multilingual_JJ segmenter_NN1 for_IF Chinese_JJ word_NN1 segmentation_NN1 task_NN1 and_CC Korean_JJ spacing_NN1 problem_NN1 ._. 
+</s>
+<s>
+We_PPIS2 applied_VVD Viterbi_JJ algorithm_NN1 (_( Viterbi_NP1 ,_, 1967_MC )_) ,_, inword_NN1 probability_NN1 (_( Chen_NP1 ,_, 2003_MC )_) and_CC automatic_JJ linguistic_JJ rules_NN2 as_II a_AT1 plus_NN1 ._. 
+</s>
+<s>
+Viterbi_JJ algorithm_NN1 is_VBZ a_AT1 dynamic_JJ programming_NN1 algorithm_NN1 to_TO find_VVI the_AT best_JJT path_NN1 through_II a_AT1 probabilistic_JJ network_NN1 given_VVN observed_JJ evidences_NN2 ._. 
+</s>
+<s>
+In_II word_NN1 segmentation_NN1 task_NN1 ,_, given_VVN a_AT1 string_NN1 of_IO characters_NN2 ready_JJ ,_, the_AT algorithm_NN1 then_RT searches_VVZ backwards_RL through_II words_NN2 to_TO return_VVI the_AT best_JJT probability_NN1 path_NN1 ._. 
+</s>
+<s>
+For_IF words_NN2 not_XX in_II the_AT dictionary_NN1 ,_, we_PPIS2 used_VVD add-one_MC smoothing_VVG by_II adding_VVG 1_MC1 to_II frequencies_NN2 of_IO all_DB entries_NN2 and_CC increasing_JJ total_JJ frequency_NN1 N_ZZ1 accordingly_RR ._. 
+</s>
+<s>
+For_IF words_NN2 not_XX in_II the_AT dictionary_NN1 ,_, Viterbi_JJ algorithm_NN1 prefers_VVZ the_AT longest_JJT fragment_NN1 ._. 
+</s>
+<s>
+If_CS 1_MC1 u_ZZ1 ,_, 2_MC u_ZZ1 ,_, and_CC 2_MC 1u_FO u_ZZ1 are_VBR all_DB unknown_JJ words_NN2 ,_, Viterbi_JJ algorithm_NN1 segments_VVZ the_AT string_NN1 into_II In_II the_AT second_MD step_NN1 of_IO our_APPGE system_NN1 ,_, we_PPIS2 applied_VVD inword_NN1 probability_NN1 to_TO combine_VVI a_AT1 sequence_NN1 of_IO single_JJ characters_NN2 into_II words_NN2 ._. 
+</s>
+<s>
+The_AT in-word_JJ probability_NN1 of_IO a_AT1 character_NN1 is_VBZ the_AT probability_NN1 that_CST the_AT character_NN1 occurs_VVZ in_II a_AT1 word_NN1 whose_DDQGE length_NN1 is_VBZ more_DAR than_CSN one_MC1 ,_, as_CSA in_II (_( 3_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 built_VVD up_RP an_AT1 inword_NN1 probability_NN1 hash_NN1 table_NN1 for_IF every_AT1 character_NN1 in_II the_AT training_NN1 data_NN ._. 
+</s>
+<s>
+Consecutive_JJ single_JJ characters_NN2 are_VBR combined_VVN into_II a_AT1 word_NN1 if_CS the_AT inword_NN1 probability_NN1 of_IO each_DD1 character_NN1 is_VBZ over_II the_AT threshold_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 our_APPGE experiment_NN1 over_II training_NN1 data_NN ,_, we_PPIS2 set_VV0 0.84_MC for_IF Chinese_JJ inword_NN1 probability_NN1 threshold_NN1 and_CC 0.90_MC for_IF Korean_JJ ._. 
+</s>
+<s>
+Take_VV0 a_AT1 string_NN1 of_IO two_MC single_JJ Chinese_JJ characters_NN2 (_( family_NN1 )_) (_( banquet_NN1 )_) as_II an_AT1 example_NN1 ._. 
+</s>
+<s>
+Our_APPGE dictionary_NN1 has_VHZ no_AT entry_NN1 for_IF ,_, but_CCB the_AT inword_NN1 probability_NN1 of_IO is_VBZ 0.87_MC and_CC of_IO is_VBZ 0.93_MC ._. 
+</s>
+<s>
+So_RR the_AT two_MC single_JJ characters_NN2 are_VBR segmented_VVN as_CSA one_MC1 word_NN1 ._. 
+</s>
+<s>
+We_PPIS2 extended_VVD inword_NN1 probability_NN1 to_II the_AT recognition_NN1 of_IO numeric_JJ type_NN1 compounds_NN2 ,_, including_II number_NN1 compounds_NN2 and_CC time_NNT1 compounds_NN2 ._. 
+</s>
+<s>
+Since_CS ASCII_NN1 numbers_NN2 are_VBR not_XX included_VVN in_II our_APPGE Chinese_JJ dictionary_NN1 ,_, the_AT segmentation_NN1 of_IO numbers_NN2 becomes_VVZ the_AT task_NN1 of_IO new_JJ words_NN2 recognition_NN1 ._. 
+</s>
+<s>
+We_PPIS2 combined_VVD the_AT consecutive_JJ single_JJ numbers_NN2 ,_, including_II both_DB2 digital_JJ numbers_NN2 and_CC Chinese_JJ character_NN1 numbers_NN2 together_RL as_CSA one_MC1 single_JJ word_NN1 ._. 
+</s>
+<s>
+We_PPIS2 set_VV0 inword_NN1 probability_NN1 for_IF numbers_NN2 as_CSA 1.0_MC if_CS it_PPH1 is_VBZ preceded_VVN or_CC followed_VVN by_II another_DD1 single_JJ numeric_JJ character_NN1 or_CC a_AT1 certain_JJ suffix_NN1 with_IW inword_NN1 probability_NN1 assigned_VVN as_CSA 1.0_MC ,_, such_II21 as_II22 %_NNU ._. 
+</s>
+<s>
+If_CS the_AT string_NN1 is_VBZ 1_MC1 2_MC %_NNU ,_, then_RT the_AT inword_NN1 probability_NN1 will_VM combine_VVI the_AT three_MC single_JJ characters_NN2 together_RL as_CSA one_MC1 word_NN1 12%_NNU because_CS all_DB the_AT inword_NN1 probabilities_NN2 of_IO the_AT three_MC single_JJ characters_NN2 are_VBR 1.0_MC ,_, above_II the_AT threshold_NN1 ._. 
+</s>
+<s>
+If_CS the_AT compound_NN1 of_IO numbers_NN2 is_VBZ followed_VVN by_II a_AT1 time_NNT1 unit_NN1 ,_, such_II21 as_II22 (_( year_NNT1 )_) ,_, (_( month_NNT1 )_) ,_, (_( day_NNT1 )_) ,_, the_AT inword_NN1 probability_NN1 of_IO the_AT time_NNT1 unit_NN1 is_VBZ also_RR assigned_VVN to_II 1.0_MC ._. 
+</s>
+<s>
+In_II this_DD1 way_NN1 ,_, date_NN1 and_CC time_NNT1 compounds_NN2 are_VBR combined_VVN into_II one_MC1 word_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, 2003_MC ?_? is_VBZ segmented_VVN as_CSA 2003_MC ?_? (_( the_AT year_NNT1 of_IO 2003_MC )_) ._. 
+</s>
+<s>
+In_II Korean_JJ Eojeol_NN1 spacing_NN1 ,_, inword_NN1 probability_NN1 helps_VVZ to_TO combine_VVI unknown_JJ transliterated_JJ names_NN2 such_II21 as_II22 (_( carpet_NN1 )_) ,_, (_( Persian_JJ )_) ._. 
+</s>
+<s>
+In_II ,_, the_AT two_MC syllables3_FO and_CC have_VH0 inword_NN1 probability_NN1 above_II 0.98_MC ._. 
+</s>
+<s>
+A_AT1 syllable_NN1 has_VHZ much_RR higher_JJR inword_NN1 probability_NN1 when_CS it_PPH1 is_VBZ specifically_RR used_VVN for_IF pronunciation_NN1 of_IO a_AT1 foreign_JJ character_NN1 ,_, because_CS foreign_JJ characters_NN2 often_RR have_VH0 unusual_JJ combinations_NN2 of_IO consonants_NN2 and_CC vowels_NN2 ._. 
+</s>
+<s>
+In_II Chinese_JJ segmentation_NN1 task_NN1 ,_, we_PPIS2 applied_VVD linguistic_JJ knowledge_NN1 as_II the_AT final_JJ procedure_NN1 to_TO recognize_VVI unknown_JJ words_NN2 after_II the_AT implementation_NN1 of_IO in-word_JJ probability_NN1 ._. 
+</s>
+<s>
+First_MD ,_, we_PPIS2 collected_VVD 50_MC suffixes_NN2 from_II training_NN1 data_NN by_II implementing_VVG simple_JJ suffix_NN1 extractor_NN1 ._. 
+</s>
+<s>
+The_AT set_NN1 of_IO suffixes_NN2 covers_VVZ district_NN1 units_NN2 such_II21 as_II22 (_( country_NN1 )_) ,_, (_( province_NN1 )_) ,_, geographic_JJ suffixes_NN2 such_II21 as_II22 (_( river_NN1 )_) ,_, (_( mountain_NN1 )_) ,_, road_NN1 suffixes_NN2 such_II21 as_II22 (_( road_NN1 )_) ,_, (_( lane_NN1 )_) ,_, and_CC other_JJ suffixes_NN2 such_II21 as_II22 (_( prize_NN1 )_) ,_, (_( team_NN1 )_) ._. 
+</s>
+<s>
+We_PPIS2 attached_VVD a_AT1 suffix_NN1 to_II the_AT previous_JJ word_NN1 of_IO two_MC characters_NN2 ._. 
+</s>
+<s>
+Secondly_RR ,_, we_PPIS2 extracted_VVD 100_MC family_NN1 names_NN2 from_II the_AT training_NN1 data_NN ._. 
+</s>
+<s>
+In_II the_AT PKU_NN1 training_NN1 data_NN ,_, family_NN1 names_NN2 are_VBR separated_VVN from_II given_JJ names_NN2 ._. 
+</s>
+<s>
+If_CS A_ZZ1 is_VBZ a_AT1 family_NN1 name_NN1 in_II a_AT1 sequence_NN1 of_IO single_JJ characters_NN2 A_ZZ1 B_ZZ1 C_ZZ1 ,_, B_ZZ1 and_CC C_ZZ1 are_VBR combined_VVN together_RL as_II a_AT1 given_JJ name_NN1 only_RR if_CS C_ZZ1 is_VBZ not_XX a_AT1 family_NN1 name_NN1 and_CC C_ZZ1 does_VDZ not_XX belong_VVI to_II a_AT1 small_JJ set_NN1 of_IO context_NN1 words_NN2 ,_, such_II21 as_II22 (_( say_VV0 )_) ,_, (_( and_CC )_) ._. 
+</s>
+<s>
+The_AT first_MD restriction_NN1 on_II C_NP1 avoids_VVZ the_AT wrong_JJ segmentation_NN1 of_IO concatenated_JJ person_NN1 names_NN2 ._. 
+</s>
+<s>
+In_II the_AT sequence_NN1 since_CS the_AT third_MD character_NN1 is_VBZ also_RR a_AT1 family_NN1 name_NN1 ,_, the_AT given_JJ name_NN1 segmentation_NN1 does_VDZ not_XX combine_VVI and_CC ,_, because_CS the_AT latter_DA could_VM be_VBI the_AT family_NN1 name_NN1 of_IO another_DD1 person_NN1 name_NN1 followed_VVD by_RP ._. 
+</s>
+<s>
+As_CSA mentioned_VVN in_II the_AT introduction_NN1 section_NN1 ,_, Korean_JJ Eojeols_NN2 can_VM consist_VVI of_IO more_DAR than_CSN one_MC1 word_NN1 ._. 
+</s>
+<s>
+In_II the_AT type_NN1 of_IO Eojeols_NN2 consisting_VVG of_IO a_AT1 noun_NN1 and_CC a_AT1 postposition_NN1 ,_, a_AT1 certain_JJ noun_NN1 can_VM be_VBI attached_VVN by_II any_DD postposition_NN1 ._. 
+</s>
+<s>
+For_REX21 instance_REX22 ,_, the_AT noun_NN1 (_( lecturer_NN1 )_) can_VM be_VBI combined_VVN with_IW different_JJ postpositions_NN2 ,_, and_CC thus_RR different_JJ Eojeols_NN2 and_CC meanings_NN2 are_VBR generated_VVN ._. 
+</s>
+<s>
+To_TO list_VVI a_AT1 few_DA2 :_: is_VBZ direct_JJ objective_JJ postposition_NN1 )_) ,_, (_( of_IO the_AT lecturer_NN1 )_) ,_, (_( to_II the_AT lecturer_NN1 )_) ,_, and_CC (_( with_IW the_AT lecturer_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 type_NN1 of_IO arbitrary_JJ combinations_NN2 undoubtedly_RR yields_VVZ some_DD Eojeols_NN2 not_XX in_II the_AT dictionary_NN1 ._. 
+</s>
+<s>
+We_PPIS2 extracted_VVD a_AT1 set_NN1 of_IO postpositions_NN2 and_CC built_VVD up_RP the_AT postposition_NN1 attachment_NN1 rule_NN1 to_TO solve_VVI this_DD1 problem_NN1 ._. 
+</s>
+<s>
+If_CS C_ZZ1 in_II the_AT segmented_JJ output_NN1 A/BC_FU after_II the_AT second_MD step_NN1 is_VBZ a_AT1 postposition_NN1 ,_, the_AT Eojeol_NN1 A_ZZ1 is_VBZ combined_VVN with_IW the_AT Eojeol_NP1 BC_NP1 only_RR if_CS )_) (_( AB_FO P_ZZ1 is_VBZ higher_JJR than_CSN )_) While_CS resolving_VVG this_DD1 problem_NN1 ,_, we_PPIS2 followed_VVD the_AT same_DA procedure_NN1 as_CSA the_AT Chinese_JJ suffix_NN1 extraction_NN1 to_TO maintain_VVI the_AT consistency_NN1 of_IO our_APPGE system_NN1 ._. 
+</s>
+<s>
+We_PPIS2 collected_VVD set_NN1 of_IO postpositions_NN2 from_II training_NN1 data_NN ._. 
+</s>
+<s>
+Those_DD2 postpositions_NN2 are_VBR used_VVN to_TO mark_VVI subject_NN1 ,_, direct_JJ object_NN1 ,_, indirect_JJ object_NN1 ,_, possession_NN1 ,_, location_NN1 ,_, direction_NN1 ,_, means_NN ,_, and_CC groupings_NN2 ._. 
+</s>
+<s>
+Both_DB2 the_AT training_NN1 data_NN and_CC test_VV0 data_NN are_VBR from_II PKU_NP1 corpora_NN2 used_VVN in_II first_MD international_JJ Chinese_JJ segmentation_NN1 bakeoff4_FO ._. 
+</s>
+<s>
+The_AT training_NN1 data_NN has_VHZ 1.1M_NNU words_NN2 and_CC the_AT test_NN1 data_NN has_VHZ 17K_FO words_NN2 ._. 
+</s>
+<s>
+The_AT encoding_NN1 of_IO the_AT corpora_NN2 is_VBZ simplified_VVN GBK_NP1 ._. 
+</s>
+<s>
+First_MD ,_, we_PPIS2 made_VVD a_AT1 unigram_NNU1 dictionary_NN1 with_IW distribution_NN1 probability_NN1 from_II the_AT PKU_NN1 training_NN1 corpus_NN1 ._. 
+</s>
+<s>
+We_PPIS2 did_VDD not_XX include_VVI number_NN1 digits_NN2 and_CC English_JJ letters_NN2 in_II the_AT GBK_NP1 code_NN1 ,_, nor_CC did_VDD we_PPIS2 collect_VVI ASCII_NN1 sequences_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR built_VVD up_RP an_AT1 inword_NN1 probability_NN1 list_NN1 for_IF each_DD1 character_NN1 in_II the_AT training_NN1 data_NN ._. 
+</s>
+<s>
+We_PPIS2 did_VDD three_MC steps_NN2 in_II Chinese_JJ word_NN1 segmentation_NN1 ._. 
+</s>
+<s>
+First_MD ,_, we_PPIS2 applied_VVD Viterbi_JJ Algorithm_NN1 ._. 
+</s>
+<s>
+Secondly_RR ,_, we_PPIS2 combined_VVD sequence_NN1 of_IO single_JJ unknown_JJ characters_NN2 using_VVG inword_NN1 probability_NN1 ._. 
+</s>
+<s>
+Finally_RR we_PPIS2 applied_VVD automatic_JJ rules_NN2 of_IO suffixes_NN2 attachment_NN1 and_CC person_NN1 names_NN2 ._. 
+</s>
+<s>
+Table_NN1 2_MC shows_VVZ the_AT recall_NN1 ,_, precision_NN1 and_CC Fmeasure_VV0 after_II each_DD1 step_NN1 ._. 
+</s>
+<s>
+The_AT performance_NN1 of_IO our_APPGE system_NN1 is_VBZ promising_JJ compared_VVN to_II the_AT first_MD International_JJ Chinese_JJ segmentation_NN1 bakeoff_NN1 (_( Sproat_NP1 et_RA21 al._RA22 ,_, 2003_MC )_) ._. 
+</s>
+<s>
+Table_NN1 3_MC shows_VVZ the_AT baseline_NN1 ,_, average_JJ and_CC the_AT highest_JJT scores_NN2 of_IO the_AT bakeoff_NN1 ._. 
+</s>
+<s>
+Among_II the_AT errors_NN2 our_APPGE system_NN1 produced_VVD ,_, a_AT1 small_JJ portion_NN1 was_VBDZ caused_VVN by_II the_AT inconsistent_JJ examples_NN2 found_VVN in_II annotated_JJ segmentation_NN1 between_II the_AT training_NN1 and_CC test_VV0 data_NN ,_, and_CC the_AT major_JJ errors_NN2 came_VVD from_II our_APPGE system_NN1 ._. 
+</s>
+<s>
+The_AT performance_NN1 of_IO the_AT segmenter_NN1 increased_VVN 4.9%_FO after_CS we_PPIS2 implemented_VVD the_AT inword_NN1 probability_NN1 algorithm_NN1 ._. 
+</s>
+<s>
+However_RR ,_, we_PPIS2 could_VM not_XX avoid_VVI creating_VVG some_DD segmentation_NN1 errors_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT sequence_NN1 of_IO (_( cat_NN1 )_) (_( winter_NNT1 )_) was_VBDZ combined_VVN incorrectly_RR together_RL as_II a_AT1 single_JJ word_NN1 because_CS both_DB2 of_IO them_PPHO2 have_VH0 high_JJ inword_NN1 probabilities_NN2 ._. 
+</s>
+<s>
+In_II the_AT third_MD step_NN1 ,_, segmentation_NN1 errors_NN2 appeared_VVD due_II21 to_II22 overgeneration_NN1 and_CC undergeneration_NN1 of_IO linguistic_JJ rules_NN2 ._. 
+</s>
+<s>
+The_AT suffix_NN1 attachment_NN1 rule_NN1 can_VM be_VBI overgenerated_VVN when_CS a_AT1 suffix_NN1 has_VHZ ambiguous_JJ meanings_NN2 ._. 
+</s>
+<s>
+has_VHZ two_MC meanings_NN2 ,_, one_MC1 means_VVZ festival_NN1 ,_, used_VVN as_II a_AT1 suffix_NN1 ,_, and_CC the_AT other_JJ means_NN phase_NN1 ,_, used_VVN as_II a_AT1 common_JJ noun_NN1 ._. 
+</s>
+<s>
+We_PPIS2 did_VDD not_XX make_VVI use_NN1 of_IO any_DD context_NN1 clues_NN2 to_TO distinguish_VVI the_AT two_MC meanings_NN2 of_IO ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, we_PPIS2 attached_VVD in_II some_DD wrong_JJ cases_NN2 ._. 
+</s>
+<s>
+The_AT system_NN1 segmented_VVN (_( the_AT first_MD phase_NN1 )_) ,_, but_CCB the_AT correct_JJ segmentation_NN1 should_VM be_VBI ._. 
+</s>
+<s>
+As_II21 for_II22 segmentation_NN1 of_IO person_NN1 names_NN2 ,_, we_PPIS2 restricted_VVD that_CST the_AT third_MD character_NN1 could_VM not_XX be_VBI a_AT1 family_NN1 name_NN1 ._. 
+</s>
+<s>
+This_DD1 rule_NN1 can_VM undergenerate_VVI some_DD given_JJ names_NN2 because_CS characters_NN2 used_VVN for_IF family_NN1 names_NN2 can_VM be_VBI used_VVN in_II given_JJ names_NN2 also_RR ._. 
+</s>
+<s>
+In_II the_AT name_NN1 string_NN1 ,_, the_AT last_MD character_NN1 is_VBZ a_AT1 family_NN1 name_NN1 ,_, so_CS this_DD1 string_NN1 was_VBDZ not_XX recognized_VVN as_II a_AT1 person_NN1 name_NN1 in_II our_APPGE system_NN1 ._. 
+</s>
+<s>
+Some_DD other_JJ errors_NN2 were_VBDR from_II segmentation_NN1 of_IO transliterated_JJ person_NN1 names_NN2 ._. 
+</s>
+<s>
+When_CS evaluating_VVG the_AT Korean_JJ spacing_NN1 ,_, both_DB2 syllable_NN1 based_VVN precision_NN1 and_CC Eojeol_NP1 based_VVD precision_NN1 can_VM be_VBI used_VVN ._. 
+</s>
+<s>
+Syllable_NN1 based_VVN precision_NN1 is_VBZ the_AT ratio_NN1 of_IO the_AT number_NN1 of_IO correctly_RR spaced_VVN syllables_NN2 over_II total_JJ number_NN1 of_IO syllables_NN2 ._. 
+</s>
+<s>
+Eojeol_NN1 based_VVN precision_NN1 evaluates_VVZ the_AT ratio_NN1 of_IO the_AT correctly_RR spaced_VVN Eojeols_NN2 over_II the_AT Eojeols_NN2 from_II the_AT system_NN1 output_NN1 ._. 
+</s>
+<s>
+We_PPIS2 adopted_VVD Eojeol_NP1 based_VVD precision_NN1 to_TO maintain_VVI the_AT consistency_NN1 with_IW Chinese_JJ segmentation_NN1 domain_NN1 ._. 
+</s>
+<s>
+In_II the_AT evaluation_NN1 of_IO Korean_JJ spacing_NN1 ,_, a_AT1 compound_NN1 noun_NN1 can_VM be_VBI treated_VVN either_RR as_II a_AT1 whole_NN1 or_CC separate_JJ nouns_NN2 ._. 
+</s>
+<s>
+Thus_RR we_PPIS2 relaxed_VVD the_AT definition_NN1 of_IO a_AT1 compound_NN1 noun_NN1 to_II either_DD1 case_NN1 ,_, and_CC did_VDD the_AT evaluation_NN1 again_RT ._. 
+</s>
+<s>
+For_IF a_AT1 compound_NN1 noun_NN1 with_IW three_MC nouns_NN2 (_( high-speed_JJ internet_NN1 )_) ,_, and_CC are_VBR also_RR counted_VVN as_II the_AT correct_JJ segmentations_NN2 ._. 
+</s>
+<s>
+Table_NN1 5_MC shows_VVZ the_AT improvement_NN1 with_IW the_AT relaxation_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 paper_NN1 ,_, we_PPIS2 built_VVD a_AT1 multi-lingual_JJ segmenter_NN1 for_IF both_DB2 Chinese_JJ segmentation_NN1 and_CC Korean_JJ spacing_NN1 task_NN1 by_II implementing_VVG Viterbi_JJ algorithm_NN1 and_CC supplementing_VVG it_PPH1 with_IW inword_NN1 probability_NN1 and_CC automatic_JJ linguistic_JJ rules_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT first_MD try_VV0 to_TO segment_NN1 languages_NN2 with_IW word_NN1 boundaries_NN2 and_CC without_IW boundaries_NN2 in_II one_MC1 segmenter_NN1 ._. 
+</s>
+<s>
+Experimental_JJ results_NN2 show_VV0 the_AT efficiency_NN1 of_IO the_AT multipurpose_JJ system_NN1 ._. 
+</s>

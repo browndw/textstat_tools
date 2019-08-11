@@ -1,0 +1,549 @@
+<s>
+The_AT Dundee_NP1 wastewater_NN1 treatment_NN1 plant_NN1 (_( WWTP_NP1 )_) ,_, in_II Monroe_NP1 County_NN1 ,_, Michigan_NP1 serves_VVZ the_AT village_NN1 of_IO Dundee_NP1 and_CC its_APPGE population_NN1 of_IO roughly_RR 3,500_MC residents_NN2 ,_, processing_VVG 0.42.5_MC million_NNO gallon_NNU1 per_II day_NNT1 (_( MGD_NP1 )_) ._. 
+</s>
+<s>
+The_AT plant_NN1 is_VBZ located_VVN on_II the_AT Raisin_NP1 River_NNL1 ,_, to_II which_DDQ treated_VVD effluent_NN1 is_VBZ discharged_VVN ._. 
+</s>
+<s>
+Effluent_NN1 quality_NN1 regulations_NN2 are_VBR therefore_RR governed_VVN by_II conditions_NN2 in_II the_AT Raisin_NP1 River_NNL1 ,_, based_VVN on_II studies_NN2 performed_VVD periodically_RR by_II the_AT Michigan_NP1 Department_NN1 of_IO Environmental_JJ Quality_NN1 (_( MDEQ_NP1 )_) ._. 
+</s>
+<s>
+A_AT1 study_NN1 in_II 2004_MC demonstrated_VVD dissolved_JJ oxygen_NN1 (_( DO_VD0 )_) values_NN2 between_II four_MC and_CC five_MC miles_NNU2 downstream_RL of_IO the_AT Dundee_NP1 plant_NN1 were_VBDR lower_JJR than_CSN acceptable_JJ (_( regulations_NN2 require_VV0 DO_VD0 concentrations_NN2 in_II sovereign_NN1 waters_VVZ to_TO be_VBI above_II 5_MC mg/L_NNU ,_, in_BCL21 order_BCL22 to_TO protect_VVI aquatic_JJ life_NN1 )_) ._. 
+</s>
+<s>
+Dundee_NP1 ,_, as_CSA the_AT closest_JJT point_NN1 source_NN1 to_II the_AT low_JJ values_NN2 ,_, was_VBDZ subsequently_RR required_VVN to_TO significantly_RR lower_VVI its_APPGE allowable_JJ effluent_NN1 biochemical_JJ oxygen_NN1 demand_NN1 (_( BOD_NP1 )_) and_CC raise_VV0 its_APPGE effluent_NN1 DO_VD0 ._. 
+</s>
+<s>
+This_DD1 change_NN1 in_II regulations_NN2 was_VBDZ unobtainable_JJ using_VVG the_AT original_JJ sequencing_NN1 batch_NN1 reactor_NN1 (_( SBR_NP1 )_) system_NN1 at_II the_AT Dundee_NP1 plant_NN1 ,_, requiring_VVG a_AT1 significant_JJ upgrade_NN1 ._. 
+</s>
+<s>
+To_TO accomplish_VVI the_AT necessary_JJ increase_NN1 in_II effluent_NN1 quality_NN1 ,_, they_PPHS2 selected_VVD to_TO upgrade_VVI to_II a_AT1 membrane_NN1 bioreactor_NN1 (_( MBR_NP1 )_) system_NN1 ._. 
+</s>
+<s>
+MBRs_NP1 can_VM be_VBI defined_VVN as_CSA systems_NN2 that_CST integrate_VV0 biological_JJ treatment_NN1 of_IO wastewater_NN1 with_IW membrane_NN1 filtration_NN1 techniques_NN2 ._. 
+</s>
+<s>
+They_PPHS2 offer_VV0 several_DA2 advantages_NN2 compared_VVN to_II conventional_JJ biological_JJ treatment_NN1 systems_NN2 ,_, including_II improved_JJ biodegradation_NN1 efficiency_NN1 ,_, higher_JJR loading_NN1 rates_NN2 ,_, lower_JJR sludge_NN1 production_NN1 ,_, improved_JJ effluent_NN1 quality_NN1 ,_, and_CC smaller_JJR plant_NN1 size_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, MBRs_NP1 eliminate_VV0 settling_VVG problems_NN2 ,_, which_DDQ are_VBR often_RR troublesome_JJ in_II wastewater_JJR treatment_NN1 (_( Cicek_NP1 ,_, 2002_MC )_) ,_, and_CC are_VBR more_RGR automated_JJ ,_, allowing_VVG for_IF less_DAR operator_NN1 monitoring_NN1 ._. 
+</s>
+<s>
+Disadvantages_NN2 associated_VVN with_IW MBRs_NP1 are_VBR mainly_RR cost_VV0 related_JJ ,_, due_II21 to_II22 expensive_JJ membrane_NN1 units_NN2 ,_, frequent_JJ membrane_NN1 cleaning_NN1 ,_, and_CC high_JJ energy_NN1 demands_NN2 ._. 
+</s>
+<s>
+The_AT following_JJ report_NN1 outlines_NN2 the_AT differences_NN2 between_II the_AT original_JJ and_CC the_AT upgrade_NN1 as_II a_AT1 comparative_JJ study_NN1 ._. 
+</s>
+<s>
+From_II 1988_MC until_II 2005_MC ,_, the_AT secondary_JJ treatment_NN1 unit_NN1 of_IO the_AT Dundee_NP1 Wastewater_NP1 Treatment_NN1 Plant_NN1 operated_VVN as_II a_AT1 sequential_JJ batch_NN1 reactor_NN1 (_( SBR_NP1 )_) system_NN1 ._. 
+</s>
+<s>
+This_DD1 system_NN1 was_VBDZ then_RT retrofitted_VVN to_II an_AT1 MBR_NP1 system_NN1 in_II July_NPM1 of_IO 2005_MC ,_, in_BCL21 order_BCL22 to_TO comply_VVI with_IW more_RGR stringent_JJ regulations_NN2 ._. 
+</s>
+<s>
+Both_DB2 the_AT former_DA and_CC current_JJ systems_NN2 can_VM be_VBI broken_VVN down_RP into_II four_MC basic_JJ stages_NN2 ._. 
+</s>
+<s>
+These_DD2 are_VBR :_: 1_MC1 )_) Preliminary_JJ treatment_NN1 ,_, 2_MC )_) Secondary_JJ treatment_NN1 ,_, 3_MC )_) Tertiary_JJ Treatment_NN1 (_( disinfection_NN1 and_CC nutrient_NN1 removal_NN1 )_) ,_, and_CC 4_MC )_) Sludge_VV0 treatment_NN1 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 below_RL provides_VVZ a_AT1 flow_NN1 chart_NN1 for_IF the_AT above_JJ treatment_NN1 processes_NN2 ._. 
+</s>
+<s>
+The_AT processes_NN2 above_RL are_VBR broken_VVN down_RP and_CC described_VVN in_II more_DAR detail_NN1 for_IF old_JJ and_CC new_JJ systems_NN2 in_II the_AT following_JJ sections_NN2 ._. 
+</s>
+<s>
+Both_DB2 the_AT old_JJ and_CC current_JJ systems_NN2 bring_VV0 in_RP wastewater_NN1 in_II essentially_RR the_AT same_DA manner_NN1 ,_, although_CS the_AT influent_JJ raw_JJ wastewater_NN1 pumps_NN2 have_VH0 been_VBN upgraded_VVN to_TO increase_VVI capacity_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 stage_NN1 ,_, three_MC raw_JJ wastewater_NN1 pumps_NN2 send_VV0 an_AT1 average_NN1 of_IO 0.4_MC to_II 2.5_MC MGD_NP1 into_II the_AT "_" grit_NN1 room_NN1 "_" ._. 
+</s>
+<s>
+Once_RR inside_II the_AT grit_NN1 room_NN1 ,_, the_AT raw_JJ water_NN1 is_VBZ first_MD passed_VVN through_II a_AT1 1/8_MF "_" screen_VV0 to_TO remove_VVI large_JJ waste_NN1 ,_, then_RT into_II a_AT1 forced_JJ vortex_NN1 grit_NN1 chamber_NN1 ,_, where_CS solid_JJ waste_NN1 is_VBZ forced_VVN to_II the_AT bottom_NN1 of_IO the_AT tank_NN1 while_CS water_NN1 is_VBZ allowed_VVN to_TO pass_VVI ._. 
+</s>
+<s>
+Every_AT1 two_MC hours_NNT2 ,_, the_AT solids_NN2 at_II the_AT bottom_NN1 of_IO the_AT chamber_NN1 are_VBR pulled_VVN out_RP with_IW air_NN1 ,_, and_CC passed_VVN through_II a_AT1 grit_NN1 separator_NN1 screen_NN1 ._. 
+</s>
+<s>
+The_AT grits_NN2 and_CC solids_NN2 from_II this_DD1 process_NN1 ,_, approximately_RR onecubic_JJ yard_NN1 per_II week_NNT1 ,_, are_VBR loaded_VVN into_II a_AT1 dumpster_NN1 ,_, which_DDQ is_VBZ emptied_VVN on_II a_AT1 weekly_JJ basis_NN1 and_CC discharged_VVN to_II a_AT1 landfill_NN1 ._. 
+</s>
+<s>
+Figures_NN2 25_MC contain_VV0 a_AT1 basic_JJ outline_NN1 of_IO this_DD1 process_NN1 ,_, along_II21 with_II22 pictures_NN2 of_IO the_AT actual_JJ equipment_NN1 ._. 
+</s>
+<s>
+Secondary_JJ treatment_NN1 in_II the_AT original_JJ system_NN1 was_VBDZ accomplished_VVN using_VVG a_AT1 two_MC tank_NN1 SBR_NP1 ._. 
+</s>
+<s>
+After_II passing_VVG through_II the_AT grit_NN1 room_NN1 ,_, wastewater_NN1 was_VBDZ pumped_VVN into_II two_MC 375,000_MC gallon_NNU1 tanks_NN2 ._. 
+</s>
+<s>
+The_AT system_NN1 ran_VVD in_II four_MC hour_NNT1 cycles_NN2 :_: two_MC hours_NNT2 of_IO aeration_NN1 ,_, one_MC1 hour_NNT1 of_IO settling_VVG and_CC one_MC1 hour_NNT1 of_IO decanting_VVG ._. 
+</s>
+<s>
+The_AT tanks_NN2 ran_VVD in_II opposing_JJ cycles_NN2 ,_, so_CS21 that_CS22 while_CS one_PN1 was_VBDZ aerating_VVG ,_, the_AT other_NN1 was_VBDZ settling_VVG ._. 
+</s>
+<s>
+Mixing_NN1 and_CC aeration_NN1 was_VBDZ accomplished_VVN using_VVG two_MC blowers_NN2 that_CST fed_VVD coarse_JJ bubble_NN1 diffusers_NN2 ._. 
+</s>
+<s>
+Because_CS the_AT tanks_NN2 ran_VVD cyclically_RR ,_, there_EX were_VBDR both_RR aerobic_JJ and_CC anoxic_JJ periods_NN2 ,_, which_DDQ may_VM have_VHI accomplished_VVN some_DD denitrification_NN1 ._. 
+</s>
+<s>
+Phosphorus_NN1 removal_NN1 is_VBZ discussed_VVN in_II Section_NN1 4.1_MC ._. 
+</s>
+<s>
+Effluent_NN1 proceeded_VVD to_II tertiary_JJ treatment_NN1 for_IF disinfection_NN1 ._. 
+</s>
+<s>
+A_AT1 fraction_NN1 of_IO the_AT activated_JJ sludge_NN1 was_VBDZ sent_VVN to_II the_AT aerobic_JJ digester_NN1 for_IF sludge_NN1 treatment_NN1 ._. 
+</s>
+<s>
+The_AT largest_JJT change_NN1 in_II the_AT Dundee_NP1 Wastewater_NP1 Treatment_NN1 Plant_NN1 was_VBDZ the_AT addition_NN1 of_IO an_AT1 MBR_NP1 to_TO accomplish_VVI secondary_JJ treatment_NN1 ._. 
+</s>
+<s>
+The_AT grit_NN1 room_NN1 effluent_NN1 is_VBZ still_RR pumped_VVN into_II the_AT same_DA tanks_NN2 ;_; however_RR ,_, the_AT plant_NN1 is_VBZ currently_RR using_VVG only_RR one_MC1 as_II an_AT1 aeration_NN1 basin_NN1 ._. 
+</s>
+<s>
+Light_JJ aeration_NN1 maintains_VVZ the_AT other_JJ ,_, inactive_JJ ,_, basin_NN1 by_II keeping_VVG it_PPH1 mixed_VVD ._. 
+</s>
+<s>
+Originally_RR the_AT plant_NN1 used_VVD both_RR aeration_NN1 basins_NN2 ,_, but_CCB the_AT resulting_JJ hydraulic_JJ retention_NN1 time_NNT1 (_( HRT_NN1 )_) and_CC solids_NN2 retention_NN1 time_NNT1 (_( SRT_NP1 )_) were_VBDR too_RG long_JJ ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT operator_NN1 ,_, the_AT single_JJ basin_NN1 maintains_VVZ an_AT1 HRT_NN1 of_IO 22_MC hours_NNT2 and_CC SRT_NP1 of_IO about_RG 36_MC days_NNT2 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT estimated_JJ flow_NN1 rates_NN2 ,_, these_DD2 values_NN2 seem_VV0 rather_RG large_JJ ._. 
+</s>
+<s>
+The_AT formulas_NN2 for_IF SRT_NP1 (_( x_ZZ1 )_) and_CC HRT_NN1 (_( )_) for_IF this_DD1 system_NN1 ,_, being_VBG analogous_JJ to_II a_AT1 continuous_JJ stirred_JJ reactor_NN1 with_IW a_AT1 recycle_VV0 stream_NN1 ,_, can_VM be_VBI represented_VVN by_II Equations_NN2 1_MC1 and_CC 2_MC ._. 
+</s>
+<s>
+Where_CS Q_ZZ1 is_VBZ the_AT flow_NN1 rate_NN1 ,_, Qr_NP1 is_VBZ the_AT recycle_VV0 flow_NN1 rate_NN1 ,_, and_CC QW_NP1 is_VBZ the_AT waste_NN1 flow_NN1 rate_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT wastage_NN1 rate_NN1 is_VBZ less_DAR than_CSN the_AT feed_NN1 rate_NN1 ,_, the_AT maximum_JJ SRT_NP1 according_II21 to_II22 Equation_NN1 1_MC1 would_VM be_VBI V/QW_FU ._. 
+</s>
+<s>
+Given_VVN the_AT maximum_JJ volume_NN1 of_IO the_AT aeration_NN1 basin_NN1 and_CC a_AT1 wastage_NN1 rate_NN1 of_IO typically_RR 15,000_MC gallons_NNU2 per_II day_NNT1 (_( gpd_NNU )_) ,_, a_AT1 conservative_JJ estimate_NN1 places_VVZ the_AT SRT_NP1 at_II about_RG 25_MC days_NNT2 ,_, which_DDQ is_VBZ still_RR less_DAR than_CSN the_AT quoted_JJ value_NN1 ._. 
+</s>
+<s>
+In_II Equation_NN1 2_MC ,_, where_CS V_ZZ1 represents_VVZ the_AT aeration_NN1 basin_NN1 volume_NN1 and_CC Vm_NP1 is_VBZ the_AT membrane_NN1 tank_NN1 volume_NN1 ,_, in_BCL21 order_BCL22 to_TO achieve_VVI an_AT1 HRT_NN1 of_IO over_RG 20_MC hours_NNT2 ,_, the_AT flow_NN1 rate_NN1 would_VM have_VHI to_TO be_VBI less_DAR than_CSN 0.45MGD_FO (_( this_DD1 may_VM be_VBI reasonable_JJ at_II times_NNT2 )_) ,_, or_CC the_AT Vm_NP1 would_VM have_VHI to_TO be_VBI greater_JJR than_CSN the_AT aeration_NN1 volume_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM seem_VVI to_TO indicate_VVI that_CST the_AT given_JJ HRT_NN1 is_VBZ the_AT upper_JJ limit_NN1 of_IO the_AT current_JJ operation_NN1 ,_, and_CC that_CST the_AT SRT_NP1 is_VBZ actually_RR lower_JJR ,_, unless_CS the_AT plant_NN1 is_VBZ wasting_VVG less_DAR than_CSN 10,000_MC gpd_NNU ._. 
+</s>
+<s>
+Since_CS the_AT plant_NN1 is_VBZ actually_RR wasting_VVG more_DAR than_CSN 15,000_MC gpd_NNU ,_, due_II21 to_II22 clogging_VVG problems_NN2 with_IW the_AT membranes_NN2 ,_, this_DD1 is_VBZ unlikely_JJ ._. 
+</s>
+<s>
+Optimal_JJ operation_NN1 of_IO the_AT MBR_NP1 requires_VVZ that_CST the_AT mixed_JJ liquor_NN1 is_VBZ very_RG well_RR mixed_VVN ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 the_AT aeration_NN1 basin_NN1 tanks_NN2 run_VV0 constantly_RR ._. 
+</s>
+<s>
+The_AT coarse_JJ bubble_NN1 diffusers_NN2 were_VBDR replaced_VVN with_IW fine_JJ bubble_NN1 diffusers_NN2 to_TO improve_VVI the_AT mixing_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+Because_CS the_AT plant_NN1 has_VHZ been_VBN having_VHG trouble_NN1 with_IW biological_JJ fouling_NN1 ,_, it_PPH1 is_VBZ even_RR more_RGR important_JJ to_TO keep_VVI the_AT biomass_NN1 in_II suspension_NN1 and_CC not_XX allow_VV0 it_PPH1 to_TO settle_VVI into_II the_AT membranes_NN2 ._. 
+</s>
+<s>
+Occasionally_RR ,_, a_AT1 premixed_JJ polymer_NN1 flocculating_VVG agent_NN1 is_VBZ added_VVN to_TO improve_VVI the_AT dispersion_NN1 of_IO the_AT flocs_NN2 and_CC reduce_VV0 membrane_NN1 fouling_VVG ._. 
+</s>
+<s>
+Five_MC permeate_JJ pumps_NN2 pull_VV0 the_AT mixed_JJ liquor_NN1 from_II the_AT aeration_NN1 basin_NN1 through_II the_AT membranes_NN2 ._. 
+</s>
+<s>
+The_AT pumps_NN2 run_VVN on_II a_AT1 leadlag_NN1 system_NN1 ,_, and_CC operate_VV0 between_II 300_MC and_CC 550_MC gallons_NNU2 per_II minute_NNT1 ,_, depending_II21 on_II22 the_AT aeration_NN1 basin_NN1 levels_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 total_NN1 of_IO 17,600_MC flat_JJ sheet_NN1 polyethylene_NN1 membranes_NN2 ,_, evenly_RR distributed_VVN among_II four_MC tanks_NN2 ._. 
+</s>
+<s>
+Each_DD1 tank_NN1 has_VHZ an_AT1 upper_JJ and_CC a_AT1 lower_JJR level_NN1 with_IW 11_MC cassettes_NN2 in_II each_DD1 level_NN1 ._. 
+</s>
+<s>
+Each_DD1 cassette_NN1 houses_NN2 200_MC membranes_NN2 ._. 
+</s>
+<s>
+The_AT mixed_JJ liquor_NN1 runs_VVZ between_II the_AT membranes_NN2 and_CC is_VBZ drawn_VVN through_II the_AT membrane_NN1 pores_NN2 ,_, which_DDQ are_VBR manufactured_VVN at_II 0.4_MC m_NNO ._. 
+</s>
+<s>
+However_RR ,_, during_II operation_NN1 pore_NN1 diameter_NN1 is_VBZ closer_JJR to_II 0.1_MC m_NNO ,_, due_JJ to_TO biofilm_VVI growth_NN1 ._. 
+</s>
+<s>
+For_IF further_JJR detail_NN1 ,_, see_VV0 Section_NN1 4.2_MC ._. 
+</s>
+<s>
+Membranes_NN2 are_VBR constantly_RR cleaned_VVN by_II air_NN1 diffusers_NN2 ,_, which_DDQ pump_NN1 air_NN1 between_II the_AT membranes_NN2 ._. 
+</s>
+<s>
+These_DD2 air_NN1 bubbles_NN2 not_XX only_RR scour_VV0 the_AT membranes_NN2 ,_, but_CCB also_RR provide_VV0 constant_JJ mixing_NN1 ,_, and_CC supply_VV0 oxygen_NN1 to_II the_AT biomass_NN1 (_( Enviroquip_NP1 ,_, 2005_MC )_) ._. 
+</s>
+<s>
+Additional_JJ cleaning_NN1 is_VBZ done_VDN by_II flushing_VVG the_AT membranes_NN2 with_IW a_AT1 1%_NNU sodium_NN1 hypochlorite_NN1 solution_NN1 ._. 
+</s>
+<s>
+When_CS the_AT system_NN1 is_VBZ running_VVG well_RR ,_, chemical_JJ cleanings_NN2 are_VBR only_RR required_VVN every_AT1 four_MC to_II six_MC months_NNT2 ._. 
+</s>
+<s>
+Membrane_NN1 permeate_NN1 goes_VVZ to_II tertiary_JJ treatment_NN1 before_II discharge_NN1 ._. 
+</s>
+<s>
+The_AT membrane_NN1 retentate_NN1 is_VBZ activated_VVN sludge_NN1 ,_, which_DDQ is_VBZ split_VVN between_II the_AT waste_NN1 activated_VVD sludge_NN1 (_( WAS_VBDZ )_) and_CC return_VV0 activated_JJ sludge_NN1 (_( RAS_NP2 )_) lines_NN2 which_DDQ transport_VV0 concentrated_JJ liquor_NN1 via_II three_MC large_JJ pumps_NN2 ._. 
+</s>
+<s>
+Typically_RR ,_, over_RG 15,000_MC gpd_NNU of_IO WAS_VBDZ is_VBZ generated_VVN ,_, and_CC the_AT RAS_NP2 flow_NN1 is_VBZ much_RR larger_JJR than_CSN that_DD1 of_IO the_AT WAS_VBDZ ._. 
+</s>
+<s>
+Figures_NN2 68_MC contain_VV0 pictures_NN2 of_IO the_AT MBR_NP1 system_NN1 diagram_NN1 ,_, the_AT membrane_NN1 ,_, and_CC plant_NN1 photos_NN2 ._. 
+</s>
+<s>
+The_AT effluent_NN1 from_II the_AT previous_JJ SBR_NP1 system_NN1 was_VBDZ dosed_VVN with_IW chlorine_NN1 gas_NN1 to_TO provide_VVI disinfection_NN1 for_IF removal_NN1 of_IO fecal_JJ coliforms_NN2 ._. 
+</s>
+<s>
+A_AT1 contact_NN1 tank_NN1 with_IW baffles_NN2 provided_VVN approximately_RR 30_MC minutes_NNT2 of_IO contact_NN1 time_NNT1 ._. 
+</s>
+<s>
+Prior_II21 to_II22 discharge_NN1 ,_, the_AT effluent_NN1 was_VBDZ purged_VVN with_IW sulfur_NN1 dioxide_NN1 for_IF dechlorination_NN1 ,_, and_CC allowed_VVD to_TO flow_VVI over_II cascade_NN1 steps_NN2 in_BCL21 order_BCL22 to_TO increase_VVI DO_VD0 ._. 
+</s>
+<s>
+The_AT current_JJ system_NN1 employs_VVZ the_AT same_DA contact_NN1 tank_NN1 and_CC cascade_NN1 steps_NN2 as_CSA the_AT previous_JJ system_NN1 ._. 
+</s>
+<s>
+However_RR ,_, because_CS the_AT membrane_NN1 bioreactors_NN2 are_VBR much_RR better_JJR at_II removing_VVG contaminants_NN2 and_CC bacteria_NN2 ,_, chlorination_NN1 is_VBZ not_XX required_VVN ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, dechlorination_NN1 is_VBZ also_RR no_RR21 longer_RR22 required_VVN during_II tertiary_JJ treatment_NN1 ._. 
+</s>
+<s>
+Sufficient_JJ phosphorus_NN1 removal_NN1 is_VBZ not_XX accomplished_VVN in_II the_AT membrane_NN1 system_NN1 ,_, so_RR alum_NN1 is_VBZ added_VVN as_CSA needed_VVN ,_, usually_RR on_II the_AT order_NN1 of_IO 40_MC gpd_NNU ._. 
+</s>
+<s>
+In_II the_AT previous_JJ system_NN1 ,_, the_AT WAS_VBDZ was_VBDZ sent_VVN to_II two_MC open_JJ digester_NN1 basins_NN2 ._. 
+</s>
+<s>
+The_AT basins_NN2 were_VBDR filled_VVN during_II the_AT day_NNT1 ,_, when_RRQ they_PPHS2 were_VBDR mixed_VVN with_IW coarse_JJ bubble_NN1 diffusers_NN2 ,_, then_RT at_II night_NNT1 were_VBDR allowed_VVN to_TO settle_VVI ._. 
+</s>
+<s>
+The_AT supernatant_NN1 from_II the_AT basins_NN2 was_VBDZ removed_VVN each_DD1 morning_NNT1 ,_, and_CC sent_VVN back_RP through_II the_AT system_NN1 ._. 
+</s>
+<s>
+The_AT solids_NN2 concentration_NN1 of_IO the_AT digested_JJ sludge_NN1 was_VBDZ about_RG 1.5_MC to_II 2%_NNU ._. 
+</s>
+<s>
+The_AT solids_NN2 were_VBDR dewatered_VVN with_IW a_AT1 belt_NN1 press_NN1 and_CC in_II a_AT1 drying_NN1 bed_NN1 prior_II21 to_II22 hauling_VVG ,_, which_DDQ took_VVD place_NN1 a_AT1 few_DA2 times_NNT2 each_DD1 year_NNT1 ._. 
+</s>
+<s>
+Solids_NN2 were_VBDR removed_VVN by_II truck_NN1 ,_, and_CC used_JJ as_CSA fertilizer_NN1 in_II surrounding_JJ farms_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 regulations_NN2 for_IF land_NN1 application_NN1 that_CST can_VM be_VBI found_VVN in_II the_AT document_NN1 entitled_VVN Land_NN1 Application_NN1 of_IO Biosolids_NP1 (_( Michigan_NP1 Department_NN1 of_IO Environmental_JJ Quality_NN1 Surface_NN1 Water_NN1 Quality_NN1 Division_NN1 ,_, 1999_MC )_) ._. 
+</s>
+<s>
+The_AT major_JJ regulations_NN2 are_VBR for_IF heavy_JJ metals_NN2 ,_, pH_NN1 ,_, pathogens_NN2 ,_, and_CC the_AT application_NN1 location_NN1 ._. 
+</s>
+<s>
+The_AT new_JJ system_NN1 also_RR uses_VVZ aerobic_JJ digestion_NN1 for_IF sludge_NN1 treatment_NN1 ,_, though_CS some_DD adjustments_NN2 have_VH0 been_VBN made_VVN ._. 
+</s>
+<s>
+A_AT1 secondary_JJ membrane_NN1 system_NN1 ,_, with_IW 800_MC flat_JJ sheet_NN1 polyethylene_NN1 membranes_NN2 in_II four_MC cassettes_NN2 ,_, has_VHZ been_VBN added_VVN to_TO thicken_VVI the_AT sludge_NN1 ._. 
+</s>
+<s>
+The_AT old_JJ system_NN1 lacked_VVD enough_DD storage_NN1 volume_NN1 to_TO retain_VVI digested_JJ sludge_NN1 throughout_II the_AT winter_NNT1 ._. 
+</s>
+<s>
+Two_MC sludge_NN1 pumps_NN2 and_CC two_MC thickening_JJ pumps_NN2 cycle_VV0 the_AT water_NN1 through_II the_AT two_MC tanks_NN2 and_CC MBRs_NP1 ._. 
+</s>
+<s>
+The_AT thickening_JJ pumps_NN2 discharge_VV0 about_RG 13_MC gpm_NNU of_IO permeate_NN1 ,_, which_DDQ is_VBZ returned_VVN to_II the_AT head_NN1 of_IO the_AT plant_NN1 ._. 
+</s>
+<s>
+The_AT thickener_NN1 retentate_NN1 keeps_VVZ cycling_VVG through_II the_AT basins_NN2 ,_, and_CC maintains_VVZ concentrations_NN2 of_IO about_RG 34%_NNU solids_NN2 ._. 
+</s>
+<s>
+Two_MC blowers_NN2 are_VBR used_VVN to_TO supply_VVI air_NN1 to_II the_AT membranes_NN2 and_CC one_MC1 blower_NN1 mixes_VVZ the_AT sludge_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, one_MC1 of_IO the_AT tanks_NN2 is_VBZ now_RT covered_VVN ,_, in_BCL21 order_BCL22 to_TO maintain_VVI temperatures_NN2 in_II the_AT winter_NNT1 that_CST prevent_VV0 freezing_JJ ._. 
+</s>
+<s>
+When_CS the_AT sludge_NN1 is_VBZ ready_JJ for_IF hauling_VVG ,_, it_PPH1 can_VM be_VBI removed_VVN directly_RR ,_, using_VVG a_AT1 newly_RR added_JJ pump_NN1 ._. 
+</s>
+<s>
+Figures_NN2 1417_MC contain_VV0 pictures_NN2 of_IO the_AT sludge_NN1 treatment_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT influent_JJ to_II the_AT Dundee_NP1 WWTP_NP1 has_VHZ an_AT1 average_NN1 of_IO 175_MC mg/L_NNU of_IO BOD5_FO ,_, 134_MC mg/L_NNU of_IO suspended_JJ solids_NN2 ,_, 20.1_MC mg/L_NNU of_IO ammonia_NN1 nitrogen_NN1 as_CSA N_ZZ1 (_( NH4N_FO )_) ,_, 2.9_MC mg/L_NNU of_IO total_JJ phosphorus_NN1 ,_, and_CC a_AT1 pH_NN1 of_IO 7.8_MC ._. 
+</s>
+<s>
+The_AT NH4N_FO concentration_NN1 can_VM vary_VVI based_VVN on_II inflow_NN1 and_CC infiltration_NN1 ._. 
+</s>
+<s>
+When_CS there_EX is_VBZ a_AT1 heavy_JJ rainfall_NN1 ,_, extraneous_JJ water_NN1 significantly_RR dilutes_VVZ the_AT NH4N_FO concentration_NN1 ._. 
+</s>
+<s>
+Effluent_NN1 regulations_NN2 are_VBR provided_VVN by_II the_AT National_JJ Pollutant_JJ Discharge_NN1 Elimination_NN1 System_NN1 (_( NPDES_NP2 )_) Permit_VV0 ,_, which_DDQ is_VBZ a_AT1 plantspecific_JJ federal_JJ regulation_NN1 implemented_VVN by_II the_AT United_NP1 States_NP1 Environmental_JJ Protection_NN1 Agency_NN1 (_( EPA_NP1 )_) ._. 
+</s>
+<s>
+Administration_NN1 of_IO the_AT Dundee_NP1 WWTP_NP1 permit_VV0 falls_NN2 to_II the_AT MDEQ_NP1 ,_, and_CC is_VBZ contingent_JJ on_II case_NN1 studies_NN2 of_IO the_AT Raisin_NP1 River_NNL1 and_CC discharges_VVZ thereto_RR ._. 
+</s>
+<s>
+A_AT1 copy_NN1 of_IO the_AT permits_NN2 for_IF both_DB2 the_AT new_JJ and_CC old_JJ systems_NN2 can_VM be_VBI found_VVN in_II Appendices_NN2 1A_FO and_CC 1B_FO ._. 
+</s>
+<s>
+The_AT SBR_NP1 did_VDD not_XX have_VHI such_DA stringent_JJ effluent_NN1 quality_NN1 regulations_NN2 as_CSA the_AT new_JJ MBR_NP1 system_NN1 ._. 
+</s>
+<s>
+The_AT effluent_NN1 limitations_NN2 for_IF the_AT SBR_NP1 and_CC MBR_NP1 are_VBR summarized_VVN in_II Table_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT permit_NN1 includes_VVZ seasonal_JJ regulations_NN2 for_IF carbonaceous_JJ biochemical_JJ oxygen_NN1 demand_NN1 (_( CBOD5_FO )_) ,_, total_JJ suspended_JJ solids_NN2 ,_, NH4N_FO ,_, and_CC DO_VD0 ._. 
+</s>
+<s>
+During_II the_AT summer_NNT1 season_NNT1 ,_, May_NPM1 1September_FO 30_MC ,_, the_AT SBR_NP1 was_VBDZ allowed_VVN to_TO have_VHI a_AT1 monthly_JJ CBOD5_FO of_IO 912_MC mg/L_NNU ,_, total_JJ suspended_JJ solids_NN2 of_IO 26_MC mg/L_NNU ,_, and_CC a_AT1 DO_VD0 of_IO 5_MC mg/L_NNU ._. 
+</s>
+<s>
+The_AT regulation_NN1 for_IF NH4N_FO was_VBDZ a_AT1 daily_JJ limit_NN1 of_IO 4.9_MC mg/L_NNU ._. 
+</s>
+<s>
+During_II the_AT winter_NNT1 season_NNT1 ,_, October_NPM1 1April_FO 30_MC ,_, the_AT maximum_JJ monthly_JJ levels_NN2 of_IO CBOD5_FO ,_, total_JJ suspended_JJ solids_NN2 ,_, and_CC DO_VD0 were_VBDR 25_MC ,_, 30_MC ,_, and_CC 3_MC mg/L_NNU respectively_RR ,_, and_CC the_AT daily_JJ NH4N_FO was_VBDZ 3_MC mg/L_NNU ._. 
+</s>
+<s>
+There_EX was_VBDZ also_RR a_AT1 required_JJ minimum_NN1 percent_NNU removal_NN1 of_IO CBOD5_FO and_CC total_JJ suspended_JJ solids_NN2 of_IO 85%_NNU monthly_JJ during_II this_DD1 period_NN1 ._. 
+</s>
+<s>
+Daily_NP1 limits_VVZ for_IF total_JJ residual_JJ chlorine_NN1 and_CC acute_JJ toxicity_NN1 were_VBDR 0.0038_MC mg/L_NNU and_CC 1_MC1 TUA_NN1 ._. 
+</s>
+<s>
+The_AT monthly_JJ limit_NN1 for_IF chronic_JJ toxicity_NN1 was_VBDZ 8.1_MC TUC_NP1 ._. 
+</s>
+<s>
+The_AT monthly_JJ total_JJ phosphorus_NN1 limitation_NN1 was_VBDZ 1_MC1 mg/L_NNU ,_, and_CC the_AT maximum_JJ allowable_JJ counts_NN2 for_IF fecal_JJ coliform_JJ bacteria_NN2 were_VBDR set_VVN at_II 200/100_MF ml_NNU ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT minimum_NN1 and_CC maximum_JJ daily_JJ pH_NN1 were_VBDR 6.5_MC and_CC 9.0_MC ,_, respectively_RR ._. 
+</s>
+<s>
+The_AT current_JJ MBR_NP1 system_NN1 is_VBZ subject_II21 to_II22 many_DA2 of_IO the_AT same_DA effluent_NN1 regulations_NN2 that_CST were_VBDR in_II effect_NN1 for_IF the_AT previous_JJ system_NN1 ,_, though_CS it_PPH1 is_VBZ interesting_JJ to_TO note_VVI that_CST the_AT requirements_NN2 were_VBDR increased_VVN upon_II installation_NN1 of_IO the_AT MBR_NP1 ._. 
+</s>
+<s>
+The_AT important_JJ differences_NN2 are_VBR for_IF the_AT period_NN1 of_IO May_NPM1 1September_FO 30_MC ._. 
+</s>
+<s>
+The_AT monthly_JJ CBOD5_FO regulation_NN1 is_VBZ 4.0_MC mg/l_NNU ,_, the_AT total_JJ suspended_JJ solids_NN2 is_VBZ 20_MC mg/L_NNU ,_, and_CC the_AT DO_VD0 is_VBZ 6_MC mg/L_NNU ._. 
+</s>
+<s>
+Also_RR ,_, the_AT daily_JJ NH4N_FO was_VBDZ lowered_VVN to_II 2.0_MC mg/L_NNU ,_, with_IW a_AT1 0.5_MC mg/L_NNU maximum_JJ monthly_JJ concentration_NN1 ._. 
+</s>
+<s>
+The_AT CBOD5_FO ,_, total_JJ suspended_JJ solids_NN2 ,_, and_CC NH4N_FO are_VBR lower_JJR ,_, and_CC the_AT DO_VD0 level_VVI was_VBDZ raised_VVN on_II the_AT permit_NN1 that_CST took_VVD effect_NN1 on_II August_NPM1 1_MC1 ,_, 2005_MC ._. 
+</s>
+<s>
+The_AT monthly_JJ chronic_JJ toxicity_NN1 level_NN1 was_VBDZ also_RR lowered_VVN in_II the_AT new_JJ permit_NN1 to_II 4.9_MC TUC_NP1 ._. 
+</s>
+<s>
+Effluent_NN1 quality_NN1 data_NN was_VBDZ obtained_VVN for_IF the_AT SBR_NP1 during_II the_AT first_MD six_MC months_NNT2 of_IO 2005_MC (_( JanuaryJune_NP1 )_) ,_, and_CC for_IF the_AT MBR_NP1 during_II the_AT rest_NN1 of_IO 2005_MC (_( JuneDec_NP1 )_) ,_, and_CC is_VBZ provided_VVN in_II Table_NN1 2_MC ._. 
+</s>
+<s>
+The_AT plant_NN1 had_VHD an_AT1 average_NN1 CBOD5_FO concentration_NN1 of_IO 11.9_MC mg/L_NNU ,_, which_DDQ is_VBZ very_RG close_JJ to_II the_AT 12_MC mg/L_NNU limit_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT average_NN1 CBOD5_FO removal_NN1 was_VBDZ 86.3%_FO ,_, which_DDQ is_VBZ near_II the_AT 85%_NNU minimum_JJ limit_NN1 ._. 
+</s>
+<s>
+The_AT average_JJ total_JJ suspended_JJ solids_NN2 were_VBDR 15.9_MC mg/L_NNU ,_, with_IW an_AT1 average_NN1 of_IO 76.1%_FO removal_NN1 ._. 
+</s>
+<s>
+The_AT average_NN1 NH4N_FO was_VBDZ about_RG 6_MC mg/L_NNU ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT average_JJ phosphorus_NN1 and_CC DO_VD0 levels_NN2 were_VBDR 0.77_MC and_CC 7.9_MC mg/L_NNU ,_, respectively_RR ._. 
+</s>
+<s>
+For_IF the_AT MBR_NP1 ,_, the_AT average_NN1 CBOD5_FO was_VBDZ 0.9_MC mg/L_NNU with_IW 99.6%_FO removal_NN1 ._. 
+</s>
+<s>
+The_AT average_JJ total_JJ suspended_JJ solids_NN2 was_VBDZ 0.4_MC mg/L_NNU ,_, with_IW a_AT1 99.7%_FO removal_NN1 ,_, and_CC the_AT average_NN1 NH4N_FO was_VBDZ 0.55_MC mg/L_NNU ._. 
+</s>
+<s>
+The_AT total_JJ phosphorus_NN1 was_VBDZ 0.42_MC mg/L_NNU ,_, while_CS the_AT DO_VD0 was_VBDZ 8.2_MC mg/L_NNU ._. 
+</s>
+<s>
+The_AT plant_NN1 is_VBZ now_RT obtaining_VVG much_RR lower_JJR concentrations_NN2 and_CC higher_JJR percent_NNU removals_NN2 for_IF CBOD5_FO and_CC total_JJ suspended_JJ solids_NN2 ._. 
+</s>
+<s>
+There_EX has_VHZ also_RR been_VBN an_AT1 increase_NN1 in_II the_AT DO_VD0 level_VVI ,_, compared_VVN to_II the_AT SBR_NP1 ._. 
+</s>
+<s>
+In_II summary_NN1 ,_, there_EX were_VBDR drastic_JJ improvements_NN2 in_II the_AT effluent_NN1 quality_NN1 in_II the_AT MBR_NP1 system_NN1 ._. 
+</s>
+<s>
+The_AT differences_NN2 in_II effluent_NN1 quality_NN1 for_IF the_AT SBR_NP1 compared_VVD to_II the_AT MBR_NP1 are_VBR shown_VVN in_II Table_NN1 2_MC ,_, below_RL ._. 
+</s>
+<s>
+Despite_II seasonal_JJ variation_NN1 ,_, it_PPH1 is_VBZ evident_JJ that_CST the_AT MBR_NP1 is_VBZ a_AT1 significant_JJ improvement_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT main_JJ advantages_NN2 of_IO the_AT SBR_NP1 System_NN1 was_VBDZ that_CST it_PPH1 provided_VVD excellent_JJ phosphorus_NN1 removal_NN1 ._. 
+</s>
+<s>
+Typically_RR ,_, SBRs_NP1 will_VM not_XX select_VVI for_IF phosphorus_NN1 accumulating_VVG organisms_NN2 (_( PAOs_NP2 )_) ,_, however_RR ,_, this_DD1 system_NN1 accomplished_VVD PAO_NP1 selection_NN1 by_II the_AT addition_NN1 of_IO a_AT1 baffle_NN1 separating_VVG the_AT influent_JJ from_II the_AT completely_RR mixed_VVN aeration_NN1 basin_NN1 ._. 
+</s>
+<s>
+The_AT separated_JJ region_NN1 provided_VVD an_AT1 area_NN1 with_IW low_RR DO_VD0 concentrations_NN2 ,_, but_CCB which_DDQ still_RR had_VHN organic_JJ compounds_NN2 ,_, some_DD of_IO which_DDQ could_VM be_VBI used_VVN by_II PAOs_NN2 ._. 
+</s>
+<s>
+This_DD1 ,_, along_II21 with_II22 the_AT relatively_RR short_JJ HRTs_NN2 in_II the_AT SBR_NP1 ,_, created_VVD an_AT1 environment_NN1 wherein_RRQ phosphorus_NN1 removal_NN1 was_VBDZ accomplished_VVN ._. 
+</s>
+<s>
+A_AT1 considerable_JJ disadvantage_NN1 of_IO the_AT SBR_NP1 ,_, however_RR ,_, was_VBDZ that_CST the_AT effluent_NN1 required_JJ disinfection_NN1 following_VVG secondary_JJ treatment_NN1 ._. 
+</s>
+<s>
+Dundee_NP1 accomplished_VVD this_DD1 by_II using_VVG chlorine_NN1 gas_NN1 ,_, a_AT1 dangerous_JJ chemical_JJ agent_NN1 ,_, which_DDQ required_VVD strict_JJ safety_NN1 protocols_NN2 on_II41 the_II42 part_II43 of_II44 the_AT operators_NN2 ._. 
+</s>
+<s>
+Dechlorination_NN1 was_VBDZ also_RR required_VVN ,_, for_IF which_DDQ they_PPHS2 used_VVD sulfur_NN1 dioxide_NN1 ._. 
+</s>
+<s>
+The_AT use_NN1 of_IO chemicals_NN2 is_VBZ always_RR a_AT1 disadvantage_NN1 ,_, because_CS it_PPH1 represents_VVZ an_AT1 increase_NN1 in_II operating_VVG costs_NN2 ,_, as_II31 well_II32 as_II33 a_AT1 departure_NN1 from_II natural_JJ solutions_NN2 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, chlorine_NN1 is_VBZ becoming_VVG more_DAR of_IO a_AT1 problem_NN1 because_II21 of_II22 new_JJ regulations_NN2 on_II chlorine_NN1 byproducts_NN2 ._. 
+</s>
+<s>
+A_AT1 less_RGR momentous_JJ ,_, but_CCB still_RR noteworthy_JJ disadvantage_NN1 of_IO the_AT SBR_NP1 was_VBDZ that_CST the_AT sludge_NN1 treatment_NN1 operation_NN1 required_VVN significant_JJ daily_JJ attention_NN1 ._. 
+</s>
+<s>
+Drawing_VVG off_II the_AT supernatant_NN1 required_VVN the_AT operators_NN2 to_TO monitor_VVI the_AT sludge_NN1 at_II half_DB hour_NNT1 intervals_NN2 throughout_II the_AT morning_NNT1 ._. 
+</s>
+<s>
+Additionally_RR ,_, once_CS the_AT digesters_NN2 began_VVD to_TO fill_VVI ,_, sludge_NN1 had_VHD to_TO be_VBI removed_VVN and_CC dewatered_VVN ,_, then_RT placed_VVN in_II drying_VVG beds_NN2 ,_, before_CS it_PPH1 could_VM be_VBI removed_VVN for_IF land_NN1 application_NN1 ._. 
+</s>
+<s>
+The_AT most_RGT critical_JJ drawback_NN1 of_IO the_AT SBR_NP1 was_VBDZ that_CST meeting_VVG the_AT new_JJ effluent_NN1 standards_NN2 would_VM have_VHI required_VVN more_RRR than_CSN doubling_VVG the_AT size_NN1 of_IO the_AT current_JJ reactors_NN2 ,_, a_AT1 process_NN1 that_CST would_VM have_VHI required_VVN a_AT1 significant_JJ increase_NN1 in_II the_AT footprint_NN1 of_IO the_AT wastewater_JJR treatment_NN1 plant_NN1 ._. 
+</s>
+<s>
+Perhaps_RR the_AT most_RGT important_JJ advantage_NN1 of_IO the_AT MBR_NP1 is_VBZ that_CST the_AT effluent_NN1 quality_NN1 not_XX only_RR meets_VVZ all_DB of_IO the_AT regulations_NN2 for_IF ammonia_NN1 removal_NN1 ,_, CBOD_NP1 ,_, and_CC TSS_NP1 ,_, but_CCB it_PPH1 also_RR does_VDZ not_XX require_VVI disinfection_NN1 ._. 
+</s>
+<s>
+Any_DD fecal_JJ coliforms_NN2 in_II the_AT system_NN1 are_VBR removed_VVN by_II the_AT membranes_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, by_II association_NN1 ,_, dechlorination_NN1 is_VBZ also_RR not_XX required_VVN ._. 
+</s>
+<s>
+With_IW no_AT increase_NN1 in_II plant_NN1 size_NN1 ,_, the_AT MBR_NP1 meets_VVZ all_DB of_IO the_AT regulations_NN2 except_II phosphorus_NN1 removal_NN1 ,_, and_CC eliminates_VVZ the_AT chemicals_NN2 required_VVN in_II SBR_NP1 treatment_NN1 ,_, along_II21 with_II22 the_AT safety_NN1 hazard_NN1 that_CST results_NN2 from_II the_AT use_NN1 of_IO chlorine_NN1 gas_NN1 ._. 
+</s>
+<s>
+Because_CS the_AT MBR_NP1 does_VDZ not_XX meet_VVI the_AT phosphorus_NN1 regulation_NN1 ,_, alum_NN1 is_VBZ added_VVN to_TO precipitate_VVI phosphorous_JJ after_II secondary_JJ treatment_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, while_CS the_AT original_JJ chemicals_NN2 used_VVN in_II the_AT SBR_NP1 have_VH0 been_VBN removed_VVN ,_, another_DD1 chemical_NN1 has_VHZ been_VBN added_VVN ,_, making_VVG the_AT improvement_NN1 less_RGR significant_JJ than_CSN it_PPH1 might_VM have_VHI been_VBN ._. 
+</s>
+<s>
+An_AT1 additional_JJ benefit_NN1 of_IO the_AT MBR_NP1 is_VBZ that_CST membranes_NN2 have_VH0 also_RR been_VBN added_VVN to_TO sludge_VVI treatment_NN1 ._. 
+</s>
+<s>
+Now_RT ,_, rather_II21 than_II22 relying_VVG on_II settling_VVG and_CC siphoning_VVG off_II supernatant_NN1 ,_, the_AT sludge_NN1 is_VBZ constantly_RR run_VVN through_II the_AT thickener_NN1 ,_, which_DDQ sends_VVZ thickener_NN1 permeate_NN1 to_II the_AT head_NN1 of_IO the_AT plant_NN1 and_CC thickener_NN1 retentate_NN1 to_II the_AT aerobic_JJ digesters_NN2 ._. 
+</s>
+<s>
+Because_CS everything_PN1 is_VBZ automated_JJ ,_, there_EX is_VBZ little_DA1 need_NN1 for_IF constant_JJ operator_NN1 attention_NN1 in_II sludge_NN1 removal_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, the_AT sludge_NN1 is_VBZ now_RT removed_VVN as_II a_AT1 liquid_NN1 ,_, rather_II21 than_II22 being_VBG dewatered_VVN and_CC placed_VVN in_II drying_VVG beds_NN2 before_II land_NN1 application_NN1 ,_, which_DDQ further_RRR simplifies_VVZ the_AT process_NN1 ._. 
+</s>
+<s>
+The_AT major_JJ problems_NN2 with_IW the_AT membrane_NN1 upgrade_NN1 are_VBR caused_VVN by_II fouling_VVG ._. 
+</s>
+<s>
+Kubota_NN1 membranes_NN2 come_VV0 with_IW a_AT1 pore_NN1 diameter_NN1 of_IO 0.4_MC m_NNO ,_, but_CCB are_VBR designed_VVN so_CS21 that_CS22 biomass_NN1 growth_NN1 will_VM reduce_VVI the_AT pores_NN2 to_II an_AT1 effective_JJ 0.1_MC m_NNO size_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, a_AT1 certain_JJ amount_NN1 of_IO biofilm_NN1 is_VBZ expected_VVN ,_, and_CC even_RR desirable_JJ ,_, but_CCB an_AT1 excess_NN1 of_IO biofilm_NN1 growth_NN1 can_VM clog_VVI the_AT pores_NN2 entirely_RR ._. 
+</s>
+<s>
+Membrane_NN1 fouling_NN1 can_VM be_VBI caused_VVN either_RR by_II this_DD1 overabundance_NN1 of_IO biomass_NN1 ,_, or_CC by_II mineral_NN1 buildup_NN1 on_II the_AT membranes_NN2 ,_, both_DB2 of_IO which_DDQ obscure_VV0 membrane_NN1 pores_NN2 ._. 
+</s>
+<s>
+Either_DD1 problem_NN1 is_VBZ usually_RR rectified_VVN by_II occasional_JJ chemical_JJ flushes_NN2 ,_, typically_RR once_RR or_CC twice_RR a_AT1 year_NNT1 ._. 
+</s>
+<s>
+A_ZZ1 1%_NNU sodium_NN1 hypochlorite_NN1 solution_NN1 treats_VVZ biomass_NN1 overgrowth_NN1 ,_, while_CS a_AT1 1%_NNU citric_JJ acid_NN1 solution_NN1 alleviates_VVZ mineral_NN1 accumulation_NN1 ._. 
+</s>
+<s>
+It_PPH1 became_VVD evident_JJ shortly_RR after_II installation_NN1 that_CST the_AT membranes_NN2 were_VBDR fouling_VVG ._. 
+</s>
+<s>
+Because_CS the_AT water_NN1 in_II Dundee_NP1 is_VBZ supplied_VVN from_II Lake_NN1 Eerie_JJ ,_, Enviroquip_NP1 assumed_VVD that_CST there_EX should_VM be_VBI no_AT problems_NN2 with_IW mineral_NN1 deposits_NN2 in_II the_AT Dundee_NP1 plant_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, in_BCL21 order_BCL22 to_TO solve_VVI the_AT fouling_NN1 problem_NN1 ,_, the_AT plant_NN1 began_VVD flushing_VVG the_AT membranes_NN2 with_IW a_AT1 1%_NNU sodium_NN1 hypochlorite_NN1 solution_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT frequent_JJ recurrence_NN1 of_IO the_AT problem_NN1 ,_, the_AT plant_NN1 has_VHZ used_VVN the_AT cleaning_NN1 solution_NN1 every_AT1 two_MC months_NNT2 since_CS the_AT membranes_NN2 were_VBDR installed_VVN ._. 
+</s>
+<s>
+Recently_RR ,_, the_AT membrane_NN1 racks_NN2 were_VBDR removed_VVN for_IF cleaning_NN1 ,_, at_II which_DDQ point_NN1 mineral_NN1 deposits_NN2 were_VBDR observed_VVN on_II the_AT membrane_NN1 surfaces_NN2 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT plant_NN1 will_VM also_RR have_VHI to_TO add_VVI flushes_NN2 of_IO 1%_NNU citric_JJ acid_NN1 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ possible_JJ that_CST the_AT fouling_NN1 problems_NN2 will_VM be_VBI resolved_VVN by_II using_VVG the_AT proper_JJ chemicals_NN2 ,_, because_CS the_AT problem_NN1 was_VBDZ related_VVN to_II mineral_NN1 deposits_NN2 ,_, rather_CS21 than_CS22 to_II biomass_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT membrane_NN1 fouling_VVG ,_, the_AT plant_NN1 is_VBZ forced_VVN to_TO treat_VVI a_AT1 lower_JJR quantity_NN1 of_IO water_NN1 than_CSN it_PPH1 is_VBZ capable_JJ of_IO treating_VVG ,_, making_VVG the_AT current_JJ plant_NN1 maximum_NN1 capacity_NN1 3.3_MC MGD_NP1 instead_II21 of_II22 the_AT 4.0_MC MGD_NP1 possible_JJ with_IW the_AT new_JJ raw_JJ wastewater_NN1 pumps_NN2 ._. 
+</s>
+<s>
+Additionally_RR ,_, Enviroquip_NP1 suggested_VVD that_CST they_PPHS2 lower_VV0 the_AT Mixed_JJ Liquor_NN1 Suspended_JJ Solids_NN2 (_( MLSS_NP1 )_) ,_, which_DDQ means_VVZ that_CST they_PPHS2 are_VBR wasting_VVG a_AT1 higher_JJR volume_NN1 ,_, and_CC therefore_RR producing_VVG more_DAR sludge_NN1 ._. 
+</s>
+<s>
+Another_DD1 disadvantage_NN1 of_IO the_AT MBR_NP1 system_NN1 is_VBZ that_CST there_EX is_VBZ an_AT1 increased_JJ energy_NN1 demand_NN1 due_II21 to_II22 additional_JJ sets_NN2 of_IO blowers_NN2 ._. 
+</s>
+<s>
+The_AT MBR_NP1 tanks_NN2 have_VH0 a_AT1 minimum_JJ aeration_NN1 requirement_NN1 to_TO keep_VVI the_AT solids_NN2 in_II motion_NN1 ,_, and_CC from_II fouling_VVG the_AT membranes_NN2 ._. 
+</s>
+<s>
+The_AT superintendent_NN1 mentioned_VVD that_CST the_AT energy_NN1 costs_VVZ at_II the_AT Dundee_NP1 plant_NN1 have_VH0 increased_VVN significantly_RR since_CS installation_NN1 of_IO the_AT MBR_NP1 ._. 
+</s>
+<s>
+Keeping_VVG the_AT SBR_NP1 would_VM have_VHI required_VVN more_RRR than_CSN doubling_VVG the_AT size_NN1 of_IO the_AT current_JJ plant_NN1 (_( to_TO treat_VVI the_AT same_DA quantity_NN1 of_IO wastewater_NN1 )_) ._. 
+</s>
+<s>
+The_AT MBR_NP1 has_VHZ some_DD problems_NN2 ,_, but_CCB the_AT enhanced_JJ effluent_NN1 quality_NN1 requires_VVZ only_RR minimal_JJ chemical_JJ addition_NN1 ._. 
+</s>
+<s>
+Not_XX only_RR is_VBZ the_AT effluent_NN1 improved_VVN ,_, but_CCB the_AT safety_NN1 hazards_NN2 at_II the_AT plant_NN1 have_VH0 been_VBN significantly_RR reduced_VVN ._. 
+</s>
+<s>
+Table_NN1 3_MC summarizes_VVZ the_AT advantages_NN2 and_CC disadvantages_NN2 of_IO both_DB2 systems_NN2 ._. 
+</s>
+<s>
+In_RR21 short_RR22 ,_, the_AT only_JJ advantages_NN2 of_IO the_AT SBR_NP1 system_NN1 are_VBR its_APPGE ability_NN1 to_TO remove_VVI phosphorus_NN1 ,_, and_CC its_APPGE low_JJ operational_JJ cost_NN1 ._. 
+</s>
+<s>
+Compared_VVN to_II the_AT improvements_NN2 from_II the_AT membrane_NN1 system_NN1 ,_, in_RR21 particular_RR22 the_AT effluent_NN1 quality_NN1 ,_, the_AT removal_NN1 of_IO phosphorus_NN1 could_VM be_VBI considered_VVN insignificant_JJ ._. 
+</s>
+<s>
+Not_XX only_RR has_VHZ effluent_NN1 quality_NN1 improved_VVD ,_, but_CCB it_PPH1 has_VHZ become_VVN more_RGR consistent_JJ ,_, both_RR on_II a_AT1 daily_JJ basis_NN1 ,_, and_CC from_II season_NNT1 to_II season_NNT1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, there_EX is_VBZ no_RR21 longer_RR22 the_AT safety_NN1 hazard_NN1 associated_VVN with_IW chlorine_NN1 gas_NN1 ._. 
+</s>
+<s>
+The_AT plant_NN1 has_VHZ experienced_VVN problems_NN2 with_IW fouling_VVG ,_, which_DDQ limits_VVZ treatment_NN1 capacity_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT requirement_NN1 for_IF additional_JJ blowers_NN2 has_VHZ resulted_VVN in_II increased_JJ energy_NN1 costs_NN2 ._. 
+</s>
+<s>
+However_RR ,_, once_CS they_PPHS2 gain_VV0 more_DAR experience_NN1 with_IW the_AT new_JJ system_NN1 ,_, these_DD2 problems_NN2 can_VM be_VBI minimized_VVN ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT sludge_NN1 produced_VVN by_II the_AT MBR_NP1 is_VBZ notably_RR more_RGR concentrated_JJ ,_, which_DDQ decreases_VVZ waste_JJ disposal_NN1 costs_NN2 ._. 
+</s>
+<s>
+Overall_RR ,_, it_PPH1 seems_VVZ that_CST the_AT problems_NN2 with_IW the_AT MBR_NP1 are_VBR minimal_JJ compared_VVN to_II the_AT advantages_NN2 gained_VVN by_II the_AT exchange_NN1 ,_, and_CC that_DD1 such_DA problems_NN2 will_VM fuel_NN1 further_RRR studies_NN2 of_IO the_AT emerging_JJ MBR_NP1 technology_NN1 ._. 
+</s>

@@ -1,0 +1,252 @@
+<s>
+Vlach_NN1 has_VHZ a_AT1 phonemic_JJ system_NN1 of_IO five_MC vowels_NN2 ._. 
+</s>
+<s>
+However_RR ,_, when_CS I_PPIS1 was_VBDZ building_VVG a_AT1 sound_NN1 inventory_NN1 in_II a_AT1 previous_JJ project_NN1 involving_VVG this_DD1 language_NN1 ,_, I_PPIS1 recorded_VVD a_AT1 wide_JJ variation_NN1 in_II the_AT realization_NN1 of_IO these_DD2 five_MC vowels_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 project_NN1 ,_, I_PPIS1 will_VM use_VVI the_AT Praat_NN1 software_NN1 package_NN1 to_TO perform_VVI a_AT1 close_JJ analysis_NN1 of_IO the_AT nature_NN1 of_IO some_DD of_IO these_DD2 variations_NN2 ._. 
+</s>
+<s>
+In_II31 keeping_II32 with_II33 the_AT intended_JJ scope_NN1 of_IO this_DD1 project_NN1 ,_, I_PPIS1 have_VH0 decided_VVN to_TO record_VVI the_AT following_JJ words_NN2 (_( Vlach_VV0 in_II IPA_NP1 transcription_NN1 ,_, followed_VVN by_II English_JJ glosses_NN2 )_) :_: These_DD2 words_NN2 were_VBDR chosen_VVN to_TO allow_VVI me_PPIO1 to_TO compare_VVI certain_JJ vowel_NN1 sounds_NN2 appearing_VVG in_II certain_JJ environments_NN2 ._. 
+</s>
+<s>
+Below_RL I_PPIS1 outline_VV0 the_AT vowels_NN2 and_CC environments_NN2 that_CST will_VM be_VBI analyzed_VVN as_II31 well_II32 as_II33 the_AT comparisons_NN2 I_PPIS1 will_VM make_VVI ._. 
+</s>
+<s>
+To_TO obtain_VVI a_AT1 statically_RR representative_JJ set_NN1 of_IO data_NN ,_, each_DD1 of_IO the_AT above_JJ words_NN2 was_VBDZ spoken_VVN ten_MC times_NNT2 by_II a_AT1 native_JJ speaker_NN1 and_CC recorded_VVN into_II a_AT1 digital_JJ wave_NN1 file_NN1 ._. 
+</s>
+<s>
+To_TO standardize_VVI the_AT speaker_NN1 's_GE pronunciation_NN1 as_RG much_DA1 as_CSA possible_JJ ,_, each_DD1 word_NN1 was_VBDZ recorded_VVN within_II a_AT1 frame_NN1 sentence_NN1 and_CC the_AT list_NN1 order_NN1 was_VBDZ randomized_VVN ._. 
+</s>
+<s>
+After_II recording_VVG ,_, the_AT sound_NN1 files_NN2 were_VBDR analyzed_VVN using_VVG the_AT Praat_NN1 software_NN1 ._. 
+</s>
+<s>
+Each_DD1 of_IO the_AT fifty_MC tokens_NN2 was_VBDZ isolated_VVN and_CC its_APPGE duration_NN1 measured.1_FO The_AT frequencies_NN2 of_IO the_AT first_MD three_MC formants_NN2 were_VBDR measured_VVN at_II three_MC points_NN2 separated_VVN by_II equally_RR spaced_VVN intervals_NN2 throughout_II the_AT duration_NN1 of_IO the_AT vowel_NN1 :_: at_II 1/4_MF ,_, 1/2_MF ,_, and_CC 3/4_MF of_IO the_AT duration_NN1 ._. 
+</s>
+<s>
+The_AT formant_NN1 measurements_NN2 were_VBDR obtained_VVN automatically_RR by_II Praat_NP1 ;_; only_RR in_II situations_NN2 where_RRQ Praat_NP1 's_GE formant_NN1 values_NN2 were_VBDR clearly_RR incongruent_JJ with_IW the_AT spectrogram_NN1 did_VDD I_PPIS1 measure_VVI the_AT formant_NN1 frequencies_NN2 myself_PPX1 ._. 
+</s>
+<s>
+In_II these_DD2 cases_NN2 ,_, the_AT measurement_NN1 was_VBDZ made_VVN by_II subjectively_RR locating_VVG the_AT central_JJ area_NN1 of_IO the_AT formant_NN1 on_II the_AT spectrogram_NN1 in_II Praat_NP1 ._. 
+</s>
+<s>
+The_AT analysis_NN1 provided_VVD ten_MC examples_NN2 of_IO each_DD1 of_IO the_AT five_MC vowels_NN2 being_VBG investigated_VVN ,_, and_CC for_IF each_DD1 example_NN1 ,_, three_MC measurements_NN2 (_( corresponding_VVG to_II the_AT 1/4_MF ,_, 1/2_MF ,_, and_CC offset_JJ times_NNT2 )_) of_IO each_DD1 of_IO the_AT first_MD three_MC formants_NN2 ._. 
+</s>
+<s>
+To_TO approximate_VVI the_AT vowel_NN1 quality_NN1 of_IO each_DD1 token_NN1 ,_, these_DD2 three_MC measurements_NN2 of_IO each_DD1 formant_NN1 were_VBDR averaged_VVN together_RL ._. 
+</s>
+<s>
+These_DD2 values_NN2 are_VBR reflected_VVN in_II figure_NN1 1_MC1 below_RL ,_, which_DDQ plots_NN2 F1_FO and_CC F2_FO for_IF each_DD1 token_NN1 on_II a_AT1 traditional_JJ vowel_NN1 chart_NN1 ._. 
+</s>
+<s>
+To_TO give_VVI an_AT1 approximate_JJ value_NN1 for_IF the_AT vowel_NN1 quality_NN1 of_IO each_DD1 of_IO the_AT five_MC vowels_NN2 being_VBG investigated_VVN ,_, the_AT values_NN2 for_IF the_AT three_MC formants_NN2 were_VBDR averaged_VVN over_II the_AT ten_MC tokens_NN2 relating_VVG to_II each_DD1 vowel_NN1 ._. 
+</s>
+<s>
+The_AT mean_JJ values_NN2 for_IF F1_FO ,_, F2_FO ,_, and_CC F3_FO for_IF each_DD1 vowel_NN1 (_( in_II Hz_NNU )_) ,_, as_II31 well_II32 as_II33 the_AT standard_JJ deviation_NN1 for_IF each_DD1 formant_NN1 ,_, are_VBR listed_VVN in_II the_AT table_NN1 below_RL along_II21 with_II22 the_AT mean_JJ value_NN1 (_( in_II milliseconds_NNT2 )_) and_CC standard_JJ deviation_NN1 for_IF the_AT vowel_NN1 duration_NN1 ._. 
+</s>
+<s>
+n.b_NNU ._. 
+</s>
+<s>
+In_II the_AT tables_NN2 below_RL ,_, all_DB frequencies_NN2 are_VBR in_II Hz_NNU and_CC all_DB times_NNT2 are_VBR in_II seconds_NNT2 ._. 
+</s>
+<s>
+The_AT tables_NN2 below_RL outline_VV0 the_AT average_JJ values_NN2 for_IF F1_FO ,_, F2_FO ,_, and_CC F3_FO at_II each_DD1 of_IO the_AT recording_NN1 intervals_NN2 ,_, the_AT overall_JJ average_JJ values_NN2 for_IF F1_FO ,_, F2_FO ,_, and_CC F3_FO with_IW standard_JJ deviation_NN1 ,_, and_CC the_AT average_JJ vowel_NN1 duration_NN1 with_IW standard_JJ deviation_NN1 ,_, for_IF each_DD1 of_IO the_AT five_MC vowels_NN2 ._. 
+</s>
+<s>
+The_AT vowel_NN1 chart_NN1 below_II plots_NN2 the_AT F1_FO and_CC F2_FO (_( averaged_VVN over_RP 1/4_MF ,_, 1/2_MF ,_, and_CC 3/4_MF )_) for_IF all_DB fifty_MC tokens_NN2 :_: Fig_NN1 1_MC1 ._. 
+</s>
+<s>
+Vowel_NN1 chart_NN1 based_VVN on_II average_JJ values_NN2 for_IF all_DB vowels_NN2 being_VBG discussed_VVN ._. 
+</s>
+<s>
+The_AT vowel_NN1 chart_NN1 above_RL clearly_RR shows_VVZ a_AT1 similarity_NN1 between_II the_AT two_MC realizations_NN2 of_IO (_( i_ZZ1 )_) ,_, and_CC noticable_JJ distinctions_NN2 between_II the_AT three_MC environments_NN2 of_IO (_( )_) and_CC (_( )_) ._. 
+</s>
+<s>
+Below_RL I_PPIS1 will_VM discuss_VVI the_AT specific_JJ data_NN and_CC how_RRQ it_PPH1 relates_VVZ to_II each_DD1 of_IO the_AT three_MC comparisons_NN2 I_PPIS1 am_VBM making_VVG ._. 
+</s>
+<s>
+Based_VVN on_II my_APPGE transcription_NN1 of_IO these_DD2 words_NN2 ,_, I_PPIS1 expected_VVD to_TO find_VVI that_CST the_AT (_( )_) in_II (_( )_) was_VBDZ a_AT1 lax_JJ version_NN1 of_IO the_AT (_( )_) in_II (_( )_) :_: not_XX quite_RG as_RG high_JJ and_CC not_XX quite_RG as_RG front_JJ ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, the_AT analysis_NN1 showed_VVD virtually_RR the_AT opposite_JJ result_NN1 ._. 
+</s>
+<s>
+While_CS there_EX is_VBZ an_AT1 audible_JJ difference_NN1 in_II the_AT sounds_NN2 ,_, it_PPH1 is_VBZ not_XX the_AT same_DA as_CSA the_AT difference_NN1 I_PPIS1 had_VHD supposed_VVN ._. 
+</s>
+<s>
+Consulting_VVG the_AT tables_NN2 above_RL ,_, the_AT differences_NN2 between_II the_AT vowels_NN2 are_VBR :_: F1_FO is_VBZ consistently_RR lower_JJR in_II (_( )_) (_( avg._NNU 358_MC Hz_NNU )_) than_CSN in_II (_( )_) (_( avg._NNU 321_MC Hz_NNU )_) ;_; and_CC the_AT vowel_NN1 duration_NN1 in_II (_( )_) is_VBZ significantly_RR shorter_JJR (_( avg._NNU 67_MC ms_NN1 )_) than_CSN in_II (_( )_) (_( avg._NNU 93_MC ms_NN1 )_) ._. 
+</s>
+<s>
+However_RR ,_, the_AT vowel_NN1 chart_NN1 also_RR shows_VVZ a_AT1 fair_JJ amount_NN1 of_IO overlap_NN1 in_II the_AT F1/F2_JJ values_NN2 ,_, suggesting_VVG that_CST the_AT difference_NN1 between_II the_AT two_MC vowel_NN1 realizations_NN2 is_VBZ minimal_JJ ._. 
+</s>
+<s>
+One_MC1 cause_NN1 of_IO these_DD2 differences_NN2 is_VBZ the_AT extreme_JJ lack_NN1 of_IO stress_NN1 on_II the_AT (_( )_) in_II (_( )_) ._. 
+</s>
+<s>
+Because_CS the_AT second_MD syllable_NN1 is_VBZ stressed_VVN ,_, the_AT initial_JJ syllable_NN1 in_II the_AT word_NN1 is_VBZ barely_RR pronounced_VVN at_RR21 all_RR22 ;_; resulting_VVG in_II the_AT noticeable_JJ shortness_NN1 of_IO the_AT vowel_NN1 duration_NN1 (_( by_RR21 far_RR22 the_AT shortest_JJT out_II21 of_II22 all_DB five_MC vowels_NN2 )_) ._. 
+</s>
+<s>
+The_AT lack_NN1 of_IO stress_NN1 is_VBZ also_RR quite_RG evident_JJ in_II the_AT spectrogram_NN1 ,_, where_CS the_AT contrast_NN1 between_II the_AT light_NN1 first_MD syllable_NN1 and_CC the_AT dark_NN1 second_MD syllable_NN1 was_VBDZ striking_VVG ._. 
+</s>
+<s>
+I_PPIS1 think_VV0 that_CST the_AT shortness_NN1 the_AT main_JJ reason_NN1 why_RRQ I_PPIS1 transcribed_VVD the_AT word_NN1 as_CSA I_PPIS1 did_VDD ._. 
+</s>
+<s>
+While_CS the_AT final_JJ syllable_NN1 of_IO (_( )_) is_VBZ similarly_RR not_XX stressed_VVN ,_, it_PPH1 has_VHZ a_AT1 significantly_RR longer_JJR duration_NN1 because_CS it_PPH1 occurs_VVZ at_II the_AT end_NN1 of_IO the_AT word_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ possible_JJ to_TO suggest_VVI an_AT1 explanation_NN1 for_IF the_AT difference_NN1 in_II the_AT two_MC vowels_NN2 in_II31 terms_II32 of_II33 the_AT target_NN1 theory_NN1 of_IO coarticulation_NN1 ._. 
+</s>
+<s>
+The_AT final_NN1 (_( i_ZZ1 )_) in_II (_( )_) shows_VVZ a_AT1 clear_JJ ,_, if_CS not_XX especially_RR pronounced_VVN ,_, tendency_NN1 for_IF F1_FO to_TO gradually_RR rise_VVI over_RP the_AT duration_NN1 of_IO the_AT vowel_NN1 ,_, corresponding_VVG to_II a_AT1 lowering_NN1 of_IO the_AT tongue_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM occur_VVI because_CS at_II the_AT end_NN1 of_IO the_AT word_NN1 there_EX are_VBR no_AT remaining_JJ target_NN1 positions_NN2 for_IF the_AT speaker_NN1 to_TO aim_VVI at_II ._. 
+</s>
+<s>
+This_DD1 shift_NN1 in_II F1_FO may_VM simply_RR be_VBI due_II21 to_II22 a_AT1 general_JJ relaxing_JJ of_IO the_AT mouth_NN1 at_II the_AT end_NN1 of_IO the_AT word_NN1 ,_, or_CC it_PPH1 may_VM be_VBI a_AT1 controlled_JJ movement_NN1 toward_II the_AT "_" ideal_JJ "_" location_NN1 for_IF this_DD1 phoneme_NN1 ._. 
+</s>
+<s>
+The_AT (_( )_) in_II (_( )_) on_II the_AT other_JJ hand_NN1 ,_, shows_VVZ much_DA1 less_DAR of_IO a_AT1 shift_NN1 in_II F1_FO ,_, and_CC overall_RR a_AT1 much_RR higher_JJR F1_FO ._. 
+</s>
+<s>
+Both_DB2 syllables_NN2 examined_VVN here_RL begin_VV0 with_IW an_AT1 (_( l_ZZ1 )_) ,_, which_DDQ has_VHZ assumes_VVZ a_AT1 high_JJ tongue_NN1 position_NN1 before_II the_AT vowel_NN1 ._. 
+</s>
+<s>
+However_RR ,_, in_II (_( )_) the_AT speaker_NN1 anticipates_VVZ another_DD1 high_JJ tongue_NN1 position_NN1 consonant_NN1 ,_, (_( s_ZZ1 )_) (_( (_( p_ZZ1 )_) has_VHZ no_AT target_NN1 for_IF tongue_NN1 position_NN1 )_) ,_, so_CS the_AT tongue_NN1 is_VBZ not_XX allowed_VVN to_TO relax_VVI to_II a_AT1 lower_JJR point_NN1 in_II the_AT mouth_NN1 as_RG much_DA1 as_CSA in_II (_( )_) ._. 
+</s>
+<s>
+The_AT overall_JJ result_NN1 here_RL is_VBZ that_CST both_DB2 vowels_NN2 are_VBR clearly_RR the_AT same_DA phoneme_NN1 and_CC are_VBR in_II fact_NN1 realized_VVN in_II a_AT1 very_RG similar_JJ manner_NN1 ._. 
+</s>
+<s>
+The_AT major_JJ observable_JJ differences_NN2 (_( shorter_JJR duration_NN1 and_CC higher_JJR tongue_NN1 position_NN1 in_RP in_II x_ZZ1 )_) could_VM be_VBI attributed_VVN to_II the_AT overall_JJ relaxation_NN1 of_IO the_AT mouth_NN1 that_CST occurs_VVZ at_II the_AT end_NN1 of_IO the_AT word_NN1 in_II (_( )_) It_PPH1 would_VM be_VBI good_JJ to_TO see_VVI measurements_NN2 of_IO this_DD1 phoneme_NN1 in_II more_RGR different_JJ environments_NN2 to_TO judge_VVI the_AT overall_JJ range_NN1 of_IO realizations_NN2 of_IO this_DD1 phoneme_NN1 ._. 
+</s>
+<s>
+It_PPH1 may_VM be_VBI that_CST there_EX are_VBR tense/lax_JJ allophones_NN2 existing_VVG in_II other_JJ environments_NN2 ,_, or_CC it_PPH1 may_VM be_VBI that_CST the_AT only_JJ changes_NN2 that_CST appear_VV0 in_II the_AT realization_NN1 of_IO this_DD1 vowel_NN1 are_VBR due_II21 to_II22 the_AT surrounding_JJ phones_NN2 ._. 
+</s>
+<s>
+Consulting_VVG the_AT vowel_NN1 chart_NN1 above_RL ,_, it_PPH1 is_VBZ clear_JJ that_CST the_AT (_( )_) in_II (_( )_) forms_VVZ a_AT1 cluster_NN1 distinct_JJ from_II that_DD1 of_IO the_AT (_( )_) in_II (_( )_) ,_, the_AT (_( )_) being_VBG lower_JJR (_( avg_NN1 ._. 
+</s>
+<s>
+F1_FO 683_MC Hz_NNU )_) and_CC more_DAR back_NN1 (_( avg_NN1 ._. 
+</s>
+<s>
+F2_FO 1368Hz_FO )_) than_CSN the_AT (_( )_) (_( avg_NN1 ._. 
+</s>
+<s>
+F1_FO 607_MC Hz_NNU ,_, F2_FO 1570_MC Hz_NNU )_) ._. 
+</s>
+<s>
+These_DD2 measurements_NN2 explain_VV0 why_RRQ I_PPIS1 transcribed_VVD the_AT two_MC vowels_NN2 differently_RR when_CS recording_VVG them_PPHO2 ,_, even_CS21 though_CS22 they_PPHS2 should_VM both_RR be_VBI realizations_NN2 of_IO the_AT final_JJ /a/_NN1 of_IO a_AT1 feminine_JJ noun_NN1 or_CC vowel_NN1 ._. 
+</s>
+<s>
+A_AT1 closer_JJR analysis_NN1 of_IO the_AT data_NN can_VM help_VVI explain_VVI why_RRQ this_DD1 vowel_NN1 is_VBZ realized_VVN so_RG differently_RR in_II the_AT two_MC positions_NN2 ._. 
+</s>
+<s>
+Consulting_VVG the_AT table_NN1 above_RL ,_, it_PPH1 is_VBZ clear_JJ that_CST while_CS the_AT (_( )_) in_II (_( )_) maintains_VVZ fairly_RR constant_JJ values_NN2 for_IF its_APPGE formants_NN2 over_II the_AT duration_NN1 of_IO the_AT vowel_NN1 ,_, the_AT (_( )_) in_II (_( )_) changes_VVZ drastically_RR from_II onset_NN1 to_II offset_NN1 ._. 
+</s>
+<s>
+F1_FO and_CC F2_FO both_DB2 experience_VV0 a_AT1 rise/fall_NN1 of_IO over_RG 200_MC Hz_NNU over_II the_AT duration_NN1 of_IO the_AT vowel_NN1 ._. 
+</s>
+<s>
+The_AT resulting_JJ effect_NN1 is_VBZ that_CST the_AT (_( )_) is_VBZ actually_RR gradually_RR becoming_VVG more_RRR like_II the_AT (_( )_) over_II its_APPGE duration_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ best_RRT illustrated_VVN by_II a_AT1 vowel_NN1 chart_NN1 ,_, where_CS we_PPIS2 can_VM compare_VVI the_AT formants_NN2 of_IO the_AT two_MC vowels_NN2 at_II onset_NN1 and_CC again_RT at_II offset_NN1 :_: Fig_NN1 2_MC ._. 
+</s>
+<s>
+Formant_NN1 values_NN2 for_IF (_( )_) in_II (_( )_) and_CC (_( )_) in_II (_( )_) at_II duration_NN1 (_( left_JJ )_) and_CC duration_NN1 (_( right_RR )_) The_AT chart_NN1 above_RL shows_VVZ the_AT ten_MC values_NN2 for_IF each_DD1 vowel_NN1 at_II onset_NN1 ,_, and_CC the_AT ten_MC values_NN2 at_II offset_NN1 ._. 
+</s>
+<s>
+The_AT change_NN1 is_VBZ dramatic_JJ ;_; while_CS the_AT two_MC vowels_NN2 are_VBR clearly_RR distinct_JJ at_II onset_NN1 ,_, the_AT (_( )_) has_VHZ shifted_VVN to_TO overlap_VVI with_IW the_AT region_NN1 of_IO the_AT (_( )_) (_( which_DDQ remains_VVZ stable_JJ )_) by_II offset_NN1 ._. 
+</s>
+<s>
+The_AT conclusion_NN1 must_VM be_VBI that_CST the_AT speaker_NN1 has_VHZ the_AT same_DA target_NN1 for_IF both_DB2 vowels_NN2 ,_, but_CCB the_AT environment_NN1 of_IO (_( )_) causes_VVZ the_AT vowel_NN1 to_TO initially_RR be_VBI produced_VVN higher_RRR and_CC more_DAR front/centrally_FU than_CSN the_AT actual_JJ target_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ consistent_JJ with_IW the_AT fact_NN1 that_CST the_AT vowel_NN1 is_VBZ preceded_VVN by_II a_AT1 velar_JJ stop_NN1 ,_, which_DDQ we_PPIS2 would_VM expect_VVI to_TO produce_VVI much_RR sharper_JJR transitions_NN2 than_CSN the_AT bilabial_JJ stop_NN1 in_II x_ZZ1 ._. 
+</s>
+<s>
+Because_CS the_AT vowel_NN1 occurs_VVZ word-finally_RR ,_, there_EX are_VBR no_AT future_JJ anticipated_JJ targets_NN2 and_CC the_AT speaker_NN1 is_VBZ able_JK to_TO fully_RR reach_VVI the_AT intended_JJ target_NN1 of_IO the_AT vowel_NN1 ,_, which_DDQ is_VBZ represented_VVN by_II the_AT offset_JJ values_NN2 in_II both_DB2 environments_NN2 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT previous_JJ analysis_NN1 ,_, it_PPH1 would_VM be_VBI reasonable_JJ to_TO expect_VVI that_CST the_AT first_MD (_( )_) in_II (_( )_) would_VM have_VHI very_RG similar_JJ initial_JJ values_NN2 to_II the_AT (_( )_) in_II (_( )_) ,_, but_CCB that_CST the_AT vowel_NN1 would_VM never_RR fully_RR reach_VVI its_APPGE low_JJ ,_, back_NN1 target_NN1 values_NN2 due_II21 to_II22 the_AT following_NN1 (_( )_) ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, this_DD1 is_VBZ very_RG similar_JJ to_II what_DDQ is_VBZ observed_VVN ,_, but_CCB the_AT difference_NN1 between_II the_AT two_MC vowels_NN2 is_VBZ much_RR larger_JJR than_CSN expected_JJ ._. 
+</s>
+<s>
+Referring_VVG back_RP again_RT to_II fig._NN1 1_MC1 ,_, the_AT vowel_NN1 chart_NN1 ,_, it_PPH1 is_VBZ clear_JJ that_CST the_AT first_MD (_( )_) in_II (_( )_) is_VBZ a_AT1 vowel_NN1 that_CST is_VBZ distinct_JJ both_RR from_II the_AT (_( )_) in_II (_( )_) and_CC the_AT (_( )_) in_II (_( )_) ._. 
+</s>
+<s>
+Also_RR ,_, as_CSA expected_VVN based_VVN on_II the_AT transcription_NN1 ,_, this_DD1 vowel_NN1 is_VBZ more_RGR similar_JJ to_II the_AT (_( )_) than_CSN the_AT (_( )_) ._. 
+</s>
+<s>
+However_RR ,_, the_AT values_NN2 of_IO this_DD1 medial_JJ (_( )_) are_VBR significantly_RR different_JJ than_CSN the_AT word-final_NN1 (_( )_) in_II (_( )_) ._. 
+</s>
+<s>
+Even_RR the_AT onset_NN1 values_NN2 ,_, which_DDQ should_VM be_VBI very_RG similar_JJ since_CS both_DB2 vowels_NN2 are_VBR produced_VVN immediately_RR after_II a_AT1 (_( )_) sound_NN1 ,_, are_VBR rather_RG different_JJ ;_; the_AT medial_JJ (_( )_) has_VHZ average_JJ onset_NN1 values_NN2 (_( F1_FO 389_MC Hz_NNU ,_, F2_FO 1855_MC Hz_NNU )_) that_CST indicate_VV0 a_AT1 much_RR higher_JJR position_NN1 than_CSN the_AT final_NN1 (_( )_) (_( F1_FO 481_MC Hz_NNU ,_, F2_FO 1738_MC Hz_NNU )_) ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT formant_NN1 frequencies_NN2 of_IO the_AT medial_JJ (_( )_) never_RR even_RR approach_VV0 the_AT final_JJ values_NN2 of_IO the_AT final_NN1 (_( )_) ;_; the_AT highest_JJT F1_FO recorded_VVN for_IF the_AT (_( )_) in_II (_( )_) is_VBZ around_RG 500_MC Hz_NNU ,_, compared_VVN to_II the_AT final_JJ value_NN1 of_IO 700_MC Hz_NNU for_IF the_AT word-final_NN1 (_( )_) ._. 
+</s>
+<s>
+While_CS the_AT formant_NN1 values_NN2 of_IO the_AT first_MD (_( )_) in_II (_( )_) do_VD0 vary_VVI over_II the_AT duration_NN1 of_IO the_AT vowel_NN1 (_( showing_VVG an_AT1 overall_JJ increase_NN1 in_II F1_FO of_IO around_RG 100Hz_FO ,_, and_CC a_AT1 decrease_NN1 in_II F2_FO of_IO around_RG 300_MC Hz_NNU )_) ,_, the_AT vowel_NN1 is_VBZ generally_RR stable_JJ ._. 
+</s>
+<s>
+The_AT vowel_NN1 duration_NN1 is_VBZ short_JJ relative_II21 to_II22 the_AT word-final_NN1 (_( )_) ,_, which_DDQ may_VM partially_RR explain_VVI why_RRQ the_AT values_NN2 do_VD0 not_XX change_VVI more_RRR ._. 
+</s>
+<s>
+The_AT question_NN1 of_IO whether_CSW this_DD1 vowel_NN1 is_VBZ the_AT same_DA phoneme_NN1 as_CSA the_AT (_( )_) in_II (_( )_) (_( and_CC thus_RR also_RR the_AT same_DA phoneme_NN1 as_CSA the_AT (_( )_) in_II x_ZZ1 )_) is_VBZ difficult_JJ to_TO answer_VVI based_VVN on_II this_DD1 data_NN ._. 
+</s>
+<s>
+The_AT difference_NN1 between_II the_AT formant_NN1 values_NN2 of_IO this_DD1 (_( )_) (_( in_II (_( )_) )_) and_CC the_AT other_JJ (_( )_) (_( in_II (_( )_) )_) are_VBR significant_JJ ,_, and_CC would_VM support_VVI the_AT argument_NN1 that_CST they_PPHS2 are_VBR in_II fact_NN1 different_JJ phonemes_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ difficult_JJ to_TO believe_VVI that_CST the_AT entire_JJ difference_NN1 in_II formant_NN1 values_NN2 could_VM be_VBI due_II21 to_II22 the_AT surrounding_JJ consonants_NN2 ._. 
+</s>
+<s>
+However_RR ,_, to_TO fully_RR answer_VVI this_DD1 question_NN1 ,_, one_PN1 would_VM need_VVI to_TO analyze_VVI the_AT features_NN2 of_IO word-medial_JJ (_( )_) sounds_VVZ ,_, which_DDQ do_VD0 occur_VVI in_II Vlach_NP1 ,_, and_CC also_RR study_VV0 the_AT distribution_NN1 of_IO the_AT environments_NN2 in_II which_DDQ these_DD2 sounds_NN2 occur_VV0 as_CSA compared_VVN to_II word_NN1 medial_JJ (_( )_) sounds_VVZ ._. 
+</s>
+<s>
+The_AT best_JJT conclusion_NN1 seems_VVZ to_TO be_VBI that_CST the_AT final_NN1 (_( )_) in_II (_( )_) and_CC the_AT (_( )_) in_II (_( )_) are_VBR one_MC1 phoneme_NN1 ,_, with_IW the_AT same_DA target_NN1 values_NN2 (_( indicated_VVN by_II the_AT offset_JJ formant_NN1 values_NN2 of_IO those_DD2 two_MC vowels_NN2 ,_, indicating_VVG a_AT1 low_JJ ,_, back_NN1 vowel_NN1 )_) ,_, but_CCB the_AT first_MD (_( )_) in_II (_( )_) is_VBZ a_AT1 different_JJ phoneme_NN1 (_( a_AT1 more_RGR central_JJ ,_, mid_JJ vowel_NN1 )_) ._. 
+</s>
+<s>
+The_AT confusion_NN1 arises_VVZ from_II the_AT preceding_JJ (_( )_) in_II (_( )_) ,_, which_DDQ causes_VVZ the_AT low_JJ ,_, back_NN1 vowel_NN1 to_TO have_VHI more_DAR mid_JJ ,_, central_JJ formants_NN2 at_II the_AT onset_NN1 of_IO the_AT vowel_NN1 ._. 
+</s>
+<s>
+This_DD1 makes_VVZ the_AT vowel_NN1 sound_NN1 overall_RR more_RRR like_II the_AT mid_JJ ,_, central_JJ vowel_NN1 that_CST appears_VVZ in_II the_AT first_MD syllable_NN1 of_IO (_( )_) ._. 
+</s>
+<s>
+The_AT results_NN2 above_RL show_VV0 that_CST the_AT surrounding_JJ consonants_NN2 do_VD0 play_VVI a_AT1 role_NN1 in_II the_AT realization_NN1 of_IO vowels_NN2 in_II Vlach_NP1 ,_, as_CSA do_VD0 the_AT stress_NN1 of_IO the_AT syllable_NN1 and_CC the_AT position_NN1 (_( e.g._REX word-final_NN1 )_) of_IO the_AT syllable_NN1 containing_VVG the_AT vowel_NN1 ._. 
+</s>
+<s>
+While_CS the_AT variations_NN2 that_CST appeared_VVD in_II this_DD1 analysis_NN1 were_VBDR generally_RR able_JK to_TO be_VBI explained_VVN by_II concepts_NN2 like_II the_AT target_NN1 model_NN1 of_IO speech_NN1 production_NN1 and_CC the_AT locus_NN1 theory_NN1 of_IO vowel_NN1 transitions_NN2 ,_, larger_JJR issues_NN2 such_II21 as_II22 what_DDQ vowels_NN2 may_VM or_CC may_VM not_XX be_VBI the_AT same_DA phoneme_NN1 ,_, or_CC allophones_NN2 ,_, or_CC entirely_RR different_JJ phonemes_NN2 ,_, can_56 not_56 be_VBI answered_VVN with_IW such_DA a_AT1 small_JJ data_NN set_VV0 ._. 
+</s>
+<s>
+To_TO answer_VVI these_DD2 larger_JJR questions_NN2 would_VM require_VVI both_RR acoustic_JJ analysis_NN1 of_IO more_DAR vowels_NN2 in_II a_AT1 number_NN1 of_IO similar_JJ and_CC contrasting_JJ environments_NN2 ,_, as_II31 well_II32 as_II33 a_AT1 paper_NN1 analysis_NN1 of_IO the_AT distribution_NN1 of_IO the_AT phones_NN2 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, the_AT (_( )_) /_FO (_( )_) question_NN1 could_VM be_VBI further_RRR investigated_VVN by_II doing_VDG a_AT1 similar_JJ analysis_NN1 to_II the_AT one_PN1 above_II incorporating_VVG word-medial_JJ (_( )_) (_( which_DDQ does_VDZ appear_VVI in_II my_APPGE word_NN1 list_NN1 )_) ,_, ideally_RR in_II the_AT same_DA or_CC similar_JJ environment_NN1 as_CSA word-medial_JJ (_( )_) ._. 
+</s>
+<s>
+This_DD1 could_VM help_VVI explain_VVI whether_CSW my_APPGE transcriptions_NN2 are_VBR over-detailed_JJ ,_, using_VVG two_MC symbols_NN2 for_IF the_AT same_DA phoneme_NN1 ,_, or_CC if_CS these_DD2 sounds_NN2 are_VBR in_II fact_NN1 distinct_JJ in_II Vlach_NP1 ._. 
+</s>
+<s>
+Below_RL is_VBZ the_AT randomized_JJ wordlist_NN1 used_VVN for_IF the_AT recording_NN1 sessions_NNT2 ._. 
+</s>
+<s>
+Before_CS the_AT session_NNT1 ,_, the_AT native_JJ Vlach_NN1 speaker_NN1 and_CC I_PPIS1 went_VVD over_II the_AT short_JJ wordlist_NN1 so_CS21 that_CS22 he_PPHS1 knew_VVD which_DDQ words_NN2 he_PPHS1 would_VM be_VBI producing_VVG ._. 
+</s>
+<s>
+We_PPIS2 also_RR agreed_VVD on_II the_AT frame_NN1 sentence_NN1 below_RL :_: I_PPIS1 prompted_VVD the_AT speaker_NN1 before_II each_DD1 sentence_NN1 with_IW the_AT English_JJ word_NN1 (_( e.g._REX "_" chicken_NN1 "_" )_) which_DDQ he_PPHS1 then_RT would_VM translate_VVI and_CC pronounce_VVI in_II the_AT frame_NN1 sentence_NN1 ,_, (_( e.g._REX (_( )_) The_AT wordlist_NN1 was_VBDZ visible_JJ to_II him_PPHO1 to_TO read_VVI along_II21 with_II22 the_AT IPA_NN1 transcriptions_NN2 as_CSA we_PPIS2 progressed_VVD ._. 
+</s>
+<s>
+The_AT wordlist_NN1 consists_VVZ of_IO each_DD1 of_IO the_AT five_MC words_NN2 repeated_VVD ten_MC times_NNT2 ,_, randomized_VVD /_FO shuffled_VVD by_II hand_NN1 ._. 
+</s>
+<s>
+Below_RL is_VBZ the_AT wordlist_NN1 ._. 
+</s>

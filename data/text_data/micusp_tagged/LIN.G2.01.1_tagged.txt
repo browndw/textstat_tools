@@ -1,0 +1,429 @@
+<s>
+We_PPIS2 think_VV0 it_PPH1 is_VBZ universal_JJ that_CST a_AT1 direct_JJ wh-_JJ question_NN1 sentence_NN1 should_VM have_VHI a_AT1 C0_FO looking_VVG for_IF (_( +Qu_FO )_) feature_NN1 ._. 
+</s>
+<s>
+This_DD1 (_( Spec_NP1 ,_, CP_NP1 )_) is_VBZ filled_VVN in_II overt_JJ syntax_NN1 by_II the_AT wh-_JJ phrase_NN1 in_II English_JJ but_CCB not_XX in_II Chinese_JJ ._. 
+</s>
+<s>
+Chinese_JJ wh-_JJ elements_NN2 are_VBR very_RG different_JJ from_II English_JJ wh-_JJ elements_NN2 ,_, Chinese_JJ wh-_JJ elements_NN2 do_VD0 not_XX necessarily_RR carry_VVI a_AT1 (_( +Qu_FO )_) feature_NN1 ,_, they_PPHS2 need_VV0 to_TO be_VBI merged_VVN with_IW a_AT1 wh-_JJ direct_JJ question_NN1 feature_NN1 to_TO be_VBI like_II an_AT1 English_JJ wh-_JJ element_NN1 ._. 
+</s>
+<s>
+Study_NN1 on_II Chinese_JJ wh-_JJ in-situ_NN1 abounds_VVZ in_II literature_NN1 ,_, but_CCB wh-_JJ elements_NN2 in_II Chinese_JJ multiple_JJ questions_NN2 have_VH0 not_XX been_VBN extensively_RR discussed_VVN ._. 
+</s>
+<s>
+One_MC1 reason_NN1 is_VBZ that_CST in_II Chinese_JJ multiple_JJ wh-_JJ sentences_NN2 ,_, wh-_JJ elements_NN2 are_VBR not_XX inherently_RR interrogative_JJ ._. 
+</s>
+<s>
+The_AT other_JJ reason_NN1 is_VBZ that_CST people_NN have_VH0 the_AT thinking_NN1 that_CST multiple_JJ questions_NN2 in_II Chinese_NP1 could_VM be_VBI highly_RR manipulated_VVN by_II contextual_JJ discourse_NN1 and_CC is_VBZ syntactically_RR elusive_JJ ._. 
+</s>
+<s>
+But_CCB our_APPGE thinking_NN1 is_VBZ that_CST it_PPH1 is_VBZ true_JJ that_CST sometimes_RT highly_RR discourse-linked_JJ multiple_JJ questions_NN2 could_VM go_VVI beyond_II the_AT reach_NN1 of_IO syntax_NN1 ,_, but_CCB generally_RR we_PPIS2 have_VH0 no_RR much_DA1 trouble_NN1 to_TO agree_VVI on_II what_DDQ is_VBZ a_AT1 sentential_JJ question_NN1 and_CC what_DDQ is_VBZ a_AT1 contextual_JJ question_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II previous_JJ crucial_JJ proposals_NN2 about_II question_NN1 operator_NN1 in_II literature_NN1 ,_, our_APPGE paper_NN1 will_VM argue_VVI for_IF the_AT existence_NN1 of_IO a_AT1 question_NN1 operator_NN1 base-generated_NN1 with_IW the_AT insertion_NN1 of_IO the_AT associate_JJ interrogative_JJ wh-_JJ element_NN1 in_II Chinese_JJ in_II the_AT DS_NP1 ._. 
+</s>
+<s>
+We_PPIS2 will_VM propose_VVI that_CST the_AT question_NN1 operator_NN1 is_VBZ a_AT1 stripped-off_JJ wh-_JJ question_NN1 feature_NN1 with_IW null_JJ PF_NP1 convergence_NN1 ._. 
+</s>
+<s>
+The_AT paper_NN1 also_RR points_VVZ out_RP that_CST this_DD1 question_NN1 operator_NN1 ,_, although_CS operates_VVZ at_II SS_NP1 ,_, is_VBZ in_II spirit_NN1 very_RG close_JJ to_TO feature_VVI movement_NN1 ._. 
+</s>
+<s>
+In_II41 the_II42 light_II43 of_II44 our_APPGE base-generated_JJ question_NN1 operator_NN1 ,_, we_PPIS2 will_VM look_VVI at_II the_AT effect_NN1 of_IO several_DA2 main_JJ constraints_NN2 for_IF English_JJ wh_NNU movement_NN1 in_II Chinese_JJ multiple_JJ questions_NN2 to_TO see_VVI whether_CSW31 or_CSW32 not_CSW33 they_PPHS2 extend_VV0 to_II Chinese_JJ question_NN1 operator_NN1 movement_NN1 ._. 
+</s>
+<s>
+The_AT notion_NN1 of_IO morpheme_NN1 Q_ZZ1 goes_VVZ back_RP to_II Katz_NP1 and_CC Postal_JJ ,_, they_PPHS2 proposed_VVD an_AT1 Sentence-initial_JJ morpheme_NN1 Q_ZZ1 and_CC interpreted_VVD it_PPH1 as_II a_AT1 performative_JJ ,_, having_VHG a_AT1 reading_NN1 which_DDQ is_VBZ abbreviated_VVN roughly_RR as_CSA "_" I_PPIS1 request_VV0 that_CST you_PPY answer_VV0 "_" .2_MC Baker_NP1 's_GE 1970_MC paper_NN1 about_II Question_NN1 Morpheme_NN1 proposed_VVD a_AT1 revised_JJ Clause-initial_NN1 Q_ZZ1 morpheme_NN1 which_DDQ he_PPHS1 suggests_VVZ is_VBZ contained_VVN in_II both_DB2 direct_JJ questions_NN2 and_CC indirect_JJ questions_NN2 ._. 
+</s>
+<s>
+There_EX were_VBDR two_MC versions_NN2 of_IO arguments_NN2 concerning_II the_AT mechanism_NN1 of_IO the_AT abstract_JJ Q_NN1 morpheme_NN1 pointed_VVD out_RP in_II Baker_NP1 's_GE paper_NN1 :_: One_PN1 involves_VVZ the_AT morpheme_NN1 in_II a_AT1 movement_NN1 rule_NN1 which_DDQ moved_VVD the_AT question_NN1 constituent_NN1 to_II a_AT1 position_NN1 adjacent_II21 to_II22 the_AT Q_NN1 morpheme_NN1 (_( Baker_NP1 1970_MC )_) .3_MC The_AT other_NN1 involves_VVZ it_PPH1 in_II a_AT1 movement_NN1 rule_NN1 in_II which_DDQ the_AT questioned_JJ constituent_NN1 actually_RR replaces_VVZ the_AT Q_NN1 morpheme_NN1 which_DDQ could_VM be_VBI quoted_VVN as_CSA Replacement_NN1 Rule_NN1 (_( Jacobs_NP2 and_CC Rosenbaum_NP1 ,_, 1968_MC )_) ._. 
+</s>
+<s>
+Both_DB2 of_IO these_DD2 two_MC proposals_NN2 do_VD0 not_XX assume_VVI any_DD movement_NN1 of_IO the_AT Q_NN1 morpheme_NN1 ._. 
+</s>
+<s>
+The_AT Replacement_NN1 Rule_NN1 is_VBZ said_VVN to_TO be_VBI offering_VVG a_AT1 beautiful_JJ explanation_NN1 for_IF the_AT fact_NN1 that_CST there_EX could_VM only_RR be_VBI one_PN1 moved_VVN questioned_JJ constituent_NN1 ._. 
+</s>
+<s>
+Since_CS once_RR the_AT replacement_NN1 is_VBZ done_VDN ,_, there_EX is_VBZ no_AT Q_NN1 morpheme_NN1 there_RL that_CST could_VM be_VBI replaced_VVN ._. 
+</s>
+<s>
+We_PPIS2 think_VV0 this_DD1 analysis_NN1 is_VBZ in_II spirit_NN1 very_RG close_JJ to_II the_AT feature_NN1 checking_VVG in_II Minimalism_NN1 Theory_NN1 which_DDQ claims_VVZ that_CST once_CS the_AT feature_NN1 is_VBZ checked_VVN ,_, there_EX should_VM be_VBI no_AT further_JJR movement_NN1 ._. 
+</s>
+<s>
+Baker_NP1 provided_VVD three_MC trees_NN2 to_II demonstrated_JJ how_RRQ the_AT Clause-initial_JJ Q_NN1 morpheme_NN1 works_VVZ to_TO account_VVI for_IF the_AT two_MC readings_NN2 of_IO the_AT following_JJ sentence4_FO (_( The_AT first_MD tree_NN1 fails_VVZ to_TO account_VVI for_IF the_AT two_MC readings_NN2 ._. 
+</s>
+<s>
+The_AT second_MD tree_NN1 has_VHZ the_AT reading_NN1 with_IW the_AT answer_NN1 "_" John_NP1 and_CC Martha_NP1 remember_VV0 where_RRQ we_PPIS2 bought_VVD which_DDQ book_NN1 ._. "_" 
+</s>
+<s>
+The_AT third_MD tree_NN1 has_VHZ the_AT reading_NN1 with_IW the_AT answer_NN1 "_" John_NP1 remembers_VVZ where_RRQ we_PPIS2 bought_VVD the_AT physics_NN1 book_NN1 and_CC Martha_NP1 and_CC Ted_NP1 remember_VV0 where_RRQ we_PPIS2 bought_VVD The_AT Wizard_NN1 of_IO Oz_NP1 ._. "_" 
+</s>
+<s>
+In_II the_AT lower_JJR two_MC trees_NN2 ,_, the_AT Q_ZZ1 operator5_FO binds_VVZ different_JJ underlying_JJ noun_NN1 phrases_NN2 in_II the_AT portion_NN1 of_IO the_AT tree_NN1 which_DDQ it_PPH1 commands_VVZ )_) :_: Aoun_NP1 and_CC Li_NP1 proposed_VVD that_CST wh-_JJ element_NN1 in_RR21 situ_RR22 is_VBZ coindexed_VVN and_CC interpreted_VVN with_II31 respect_II32 to_II33 a_AT1 Question_NN1 Operator_NN1 which_DDQ is_VBZ base-generated_JJ in_II a_AT1 question_NN1 projection_NN1 ._. 
+</s>
+<s>
+They_PPHS2 argued_VVD for_IF a_AT1 nonovert_NN1 full-fledged_JJ Qu-operator_NN1 XP_NP1 which_DDQ triggers_VVZ Spec-head_JJ agreement_NN1 by_II moving_VVG to_TO appropriate_VVI Spec_NN1 of_IO CP_NP1 at_II SS_NP1 and_CC need_VV0 not_XX raise_VVI to_II the_AT Spec_NN1 of_IO CP_NP1 at_II LF_NP1 level_NN1 ._. 
+</s>
+<s>
+They_PPHS2 gave_VVD a_AT1 tree_NN1 as_CSA follows_VVZ :_: They_PPHS2 also_RR point_VV0 out_RP that_CST the_AT overt_JJ question_NN1 marker_NN1 "_" ne_FW "_" (_( or_CC a_AT1 phonologically_RR null_JJ marker_NN1 which_DDQ can_VM always_RR be_VBI made_VVN overt_JJ at_II the_AT end_NN1 of_IO the_AT sentence_NN1 )_) surfacing_VVG at_II the_AT head_NN1 Comp_NN1 is_VBZ exactly_RR triggered_VVN by_II the_AT presence_NN1 of_IO an_AT1 operator_NN1 in_II the_AT Spec_NN1 of_IO CP_NP1 ._. 
+</s>
+<s>
+This_DD1 question_NN1 marker_NN1 is_VBZ also_RR the_AT licenser_NN1 of_IO the_AT interrogative_JJ construal_JJ of_IO the_AT wh-_JJ element_NN1 which_DDQ is_VBZ represented_VVN as_CSA +Qu.6_FO We_PPIS2 see_VV0 that_CST this_DD1 morpheme_NN1 is_VBZ very_RG different_JJ from_II Baker_NP1 's_GE Clause-initial_JJ Q_NN1 morpheme_NN1 which_DDQ binds_VVZ a_AT1 variable_NN1 ._. 
+</s>
+<s>
+But_CCB we_PPIS2 see_VV0 the_AT problem_NN1 of_IO Aoun_NP1 and_CC Li_NP1 's_GE analysis_NN1 when_CS it_PPH1 moves_VVZ to_II the_AT ECP_NN1 constraint_NN1 for_IF the_AT trace_NN1 of_IO the_AT operator_NN1 ._. 
+</s>
+<s>
+Consider_VV0 the_AT following_JJ two_MC sentences_NN2 which_DDQ differ_VV0 with_IW the_AT number_NN1 of_IO possible_JJ readings_NN2 and_CC their_APPGE correspondent_NN1 LF_NP1 representations_NN2 :_: A_ZZ1 thorny_JJ problem_NN1 would_VM be_VBI how_RRQ to_TO explain_VVI why_RRQ the_AT Question_NN1 Operator_NN1 in_II (_( 3_MC )_) c_ZZ1 can_56 not_56 indicate_VVI the_AT scope_NN1 of_IO both_DB2 "_" shei2_FO "_" and_CC "_" wei4shen2me0_FO "_" while_CS the_AT Question_NN1 Operator_NN1 in_II (_( 2_MC )_) c_ZZ1 can_VM indicate_VVI the_AT scope_NN1 of_IO both_DB2 "_" shei2_FO "_" and_CC "_" shen2me0_FO "_" ._. 
+</s>
+<s>
+Based_VVN on_II the_AT assumption_NN1 that_CST wh-_JJ elements_NN2 of_IO the_AT same_DA type_NN1 can_VM be_VBI absorbed_VVN (_( Aoun_NP1 ,_, Hornstein_NP1 and_CC Sportiche_NP1 ,_, 1981_MC )_) ,_, Aoun_NP1 and_CC Li_NP1 further_RRR suggest_VV0 that_CST distinct_JJ wh-_JJ elements_NN2 coindexing_VVG with_IW the_AT same_DA Question_NN1 Operator_NN1 trigger_NN1 absorption_NN1 ._. 
+</s>
+<s>
+We_PPIS2 hold_VV0 different_JJ views_NN2 of_IO this_DD1 though_CS :_: For_IF one_MC1 thing_NN1 ,_, it_PPH1 remains_VVZ unclear_JJ which_DDQ part_NN1 is_VBZ really_RR undertaking_VVG the_AT absorption_NN1 --_NN1 the_AT Question_NN1 Operator_NN1 or_CC the_AT wh-_JJ element_NN1 ?_? 
+</s>
+<s>
+It_PPH1 seems_VVZ that_CST Aoun_NP1 and_CC Li_NP1 are_VBR shifting_VVG the_AT absorption_NN1 between_II these_DD2 two_MC different_JJ things_NN2 ._. 
+</s>
+<s>
+Secondly_RR ,_, since_CS there_EX are_VBR two_MC distinct_JJ wh-_JJ elements_NN2 ,_, it_PPH1 should_VM be_VBI expected_VVN that_CST two_MC distinct_JJ Question_NN1 Operators_NN2 are_VBR base-generated_JJ in_II two_MC XPs_NP1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, how_RRQ could_VM it_PPH1 be_VBI that_CST there_EX are_VBR two_MC wh-_JJ words_NN2 coindexing_VVG with_IW the_AT same_DA operator_NN1 ?_? 
+</s>
+<s>
+If_CS Aoun_NP1 and_CC Li_NP1 mean_VV0 two_MC words_NN2 coindexing_VVG with_IW operators_NN2 of_IO the_AT same_DA type_NN1 ,_, the_AT problem_NN1 still_RR exists_VVZ ._. 
+</s>
+<s>
+We_PPIS2 will_VM come_VVI back_RP to_II this_DD1 problem_NN1 later_RRR in_II the_AT paper_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 think_VV0 more_DAR of_IO the_AT definition_NN1 of_IO the_AT reading_NN1 of_IO the_AT Question_NN1 Morpheme_NN1 "_" I_PPIS1 request_VV0 that_CST you_PPY answer_VV0 ._. "_" 
+</s>
+<s>
+It_PPH1 is_VBZ so_RG close_JJ to_II the_AT (_( +Qu_FO )_) property_NN1 of_IO the_AT C0_FO of_IO the_AT matrix_NN1 CP_NP1 ._. 
+</s>
+<s>
+We_PPIS2 could_VM well_RR think_VVI that_CST the_AT (_( +Qu_FO )_) property_NN1 of_IO C0_FO is_VBZ like_II a_AT1 rough_JJ rephrasing_NN1 of_IO Baker_NP1 's_GE Q_NN1 Morpheme_NN1 ._. 
+</s>
+<s>
+Both_DB2 of_IO them_PPHO2 are_VBR responsible_JJ of_IO defining_VVG the_AT type_NN1 of_IO the_AT whole_JJ matrix_NN1 sentence_NN1 as_II a_AT1 direct_JJ question_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ also_RR much_RR in_RR21 common_RR22 between_II the_AT Question_NN1 Operator_NN1 proposal_NN1 and_CC the_AT feature_NN1 movement_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 think_VV0 of_IO the_AT properties_NN2 of_IO the_AT null_JJ operator_NN1 ,_, we_PPIS2 can_VM see_VVI that_CST it_PPH1 could_VM well_RR be_VBI that_CST the_AT Question_NN1 Operator_NN1 is_VBZ exactly_RR an_AT1 abstract_JJ extraction_NN1 of_IO the_AT feature_NN1 that_CST the_AT associate_JJ wh-_JJ element_NN1 bears_NN2 ._. 
+</s>
+<s>
+This_DD1 thinking_NN1 helps_VVZ us_PPIO2 to_TO see_VVI that_CST crosslinguistically_RR ,_, the_AT mental_JJ interpretation_NN1 of_IO wh-_JJ sentences_NN2 is_VBZ very_RG identical_JJ :_: the_AT feature_NN1 movement_NN1 and_CC syntactic_JJ Question_NN1 Operation_NN1 are_VBR somewhat_RR unifiable_JJ ,_, namely_REX ,_, they_PPHS2 are_VBR both_RR about_II features_NN2 :_: the_AT syntactic_JJ Question_NN1 Operation_NN1 is_VBZ an_AT1 operation_NN1 of_IO the_AT (_( +Qu_FO )_) feature_NN1 and_CC all_DB of_IO the_AT other_JJ features_NN2 remain_VV0 "_" in_RR21 situ_RR22 "_" ._. 
+</s>
+<s>
+While_CS seeing_VVG the_AT crucial_JJ similarity_NN1 between_II a_AT1 feature_NN1 movement_NN1 and_CC the_AT abstract_JJ Question_NN1 Operator_NN1 ,_, we_PPIS2 propose_VV0 that_CST the_AT Question_NN1 Operator_NN1 works_VVZ better_JJR than_CSN the_AT feature_NN1 movement_NN1 for_IF Chinese_JJ ._. 
+</s>
+<s>
+There_EX are_VBR at_RR21 least_RR22 two_MC considerations_NN2 behind_II our_APPGE preference_NN1 to_II a_AT1 Question_NN1 Operator_NN1 :_: Firstly_RR ,_, if_CS it_PPH1 is_VBZ possible_JJ ,_, we_PPIS2 do_VD0 not_XX want_VVI the_AT mental_JJ interpretations_NN2 of_IO English_JJ speakers_NN2 and_CC Chinese_JJ speakers_NN2 to_TO spread_VVI onto_II different_JJ levels_NN2 of_IO human_NN1 's_GE knowledge_NN1 state_NN1 ,_, namely_REX ,_, we_PPIS2 do_VD0 not_XX want_VVI English_JJ speakers_NN2 do_VD0 the_AT syntactic_JJ movement_NN1 in_II mind_NN1 while_CS Chinese_JJ speakers_NN2 do_VD0 LF_NP1 movement_NN1 in_II mind_NN1 ._. 
+</s>
+<s>
+Secondly_RR ,_, the_AT existence_NN1 of_IO a_AT1 Question_NN1 Operator_NN1 ,_, although_CS phonologically_RR null_JJ ,_, guarantees_VVZ the_AT expansion_NN1 of_IO the_AT tree_NN1 ._. 
+</s>
+<s>
+Also_RR while_CS holding_VVG the_AT view_NN1 that_CST Baker_NP1 's_GE proposal_NN1 of_IO Q_ZZ1 for_IF English_NN1 is_VBZ open_JJ to_II debate_NN1 ,_, we_PPIS2 think_VV0 that_CST the_AT Question_NN1 operator_NN1 is_VBZ of_IO more_DAR significance_NN1 for_IF Chinese_JJ wh-_JJ elements_NN2 ._. 
+</s>
+<s>
+The_AT reason_NN1 is_VBZ as_CSA we_PPIS2 mentioned_VVD earlier_RRR :_: wh-_JJ elements_NN2 are_VBR not_XX inherently_RR interrogative_JJ in_II Chinese_JJ and_CC need_VV0 to_TO be_VBI merged_VVN with_IW a_AT1 (_( +Qu_FO )_) feature_VV0 to_TO be_VBI a_AT1 "_" real_JJ "_" wh-_JJ element_NN1 ._. 
+</s>
+<s>
+A_AT1 crucial_JJ claim_NN1 of_IO feature_NN1 movement_NN1 for_IF English_JJ wh-_JJ movement_NN1 is_VBZ that_DD1 wh-_JJ feature_NN1 is_VBZ raised_VVN to_II the_AT head_NN1 C0_FO along_II21 with_II22 phonological_JJ feature_NN1 for_IF PF_NP1 convergence_NN1 ._. 
+</s>
+<s>
+The_AT agreement_NN1 and_CC Case_NN1 feature_NN1 of_IO the_AT chain_NN1 remain_VV0 unchecked_JJ at_II Spell-Out_NN1 and_CC undergo_VV0 LF_NP1 raising_NN1 for_IF checking_VVG ._. 
+</s>
+<s>
+Please_RR consider_VV0 the_AT following_JJ sentence_NN1 where_CS "_" How_RGQ many_DA2 "_" is_VBZ only_RR the_AT (_( +Qu_FO )_) feature_NN1 with_IW the_AT PF_NP1 convergence_NN1 ,_, all_DB of_IO the_AT other_JJ features_NN2 are_VBR still_RR down_RP there_RL in_II (_( t_ZZ1 )_) :_: We_PPIS2 see_VV0 that_CST Aoun_NP1 and_CC Li_NP1 's_GE framework_NN1 of_IO the_AT question_NN1 operator_NN1 is_VBZ based_VVN on_II Checking_VVG Theory_NN1 which_DDQ views_VVZ the_AT licensing_NN1 of_IO a_AT1 lexicon_NN1 in_II31 terms_II32 of_II33 a_AT1 matching_NN1 between_II its_APPGE morphosyntactic_JJ features_NN2 and_CC the_AT features_NN2 on_II the_AT functional_JJ head_NN1 that_CST is_VBZ typically_RR associated_VVN with_IW licensing_VVG them_PPHO2 ._. 
+</s>
+<s>
+We_PPIS2 advance_VV0 that_CST the_AT Question_NN1 Operator_NN1 in_II Chinese_NP1 is_VBZ a_AT1 syntactic_JJ element_NN1 bearing_VVG a_AT1 stripped-off_JJ wh-_JJ feature_NN1 with_IW null_JJ PF_NP1 convergence_NN1 ._. 
+</s>
+<s>
+In_II31 terms_II32 of_II33 the_AT feature_NN1 it_PPH1 bears_VVZ ,_, this_DD1 operator_NN1 is_VBZ interpreted_VVN as_CSA (_( +Qu_FO )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ crucial_JJ that_CST this_DD1 operator_NN1 is_VBZ restrictedly_RR base-generated_JJ only_JJ when_CS there_EX is_VBZ a_AT1 questioned_JJ wh-_JJ element_NN1 but_CCB not_XX anytime_NNT1 else_RR ._. 
+</s>
+<s>
+Following_VVG Chomsky_NP1 's_GE proposal_NN1 that_CST all_DB wh-_JJ phrases_NN2 are_VBR moved_VVN out_RP to_II a_AT1 position_NN1 outside_II the_AT base_NN1 position_NN1 ,_, we_PPIS2 propose_VV0 that_CST all_DB question_NN1 operators_NN2 move_VV0 up_II21 to_II22 a_AT1 position_NN1 outside_II the_AT base_NN1 position_NN1 ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 not_XX follow_VVI Baker_NP1 's_GE proposal_NN1 that_CST it_PPH1 is_VBZ generated_VVN at_II clause-initial_JJ position_NN1 because_CS we_PPIS2 assume_VV0 it_PPH1 comes_VVZ from_II the_AT lexical_JJ features_NN2 ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 not_XX follow_VVI Aoun_NP1 and_CC Li_NP1 's_GE proposal_NN1 either_RR which_DDQ claims_VVZ that_CST the_AT operator_NN1 is_VBZ base-generated_JJ in_II a_AT1 question_NN1 projection_NN1 ._. 
+</s>
+<s>
+We_PPIS2 propose_VV0 that_CST the_AT operator_NN1 is_VBZ generated_VVN down_RP right_RR next_II21 to_II22 the_AT wh_NNU lexicon_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, we_PPIS2 do_VD0 not_XX follow_VVI Aoun_NP1 and_CC Li_NP1 's_GE proposal_NN1 and_CC assume_VVI a_AT1 full-scale_JJ XP_NP1 projection_NN1 which_DDQ can_VM cover_VVI all_DB of_IO the_AT different_JJ types_NN2 of_IO sentences_NN2 ._. 
+</s>
+<s>
+The_AT reason_NN1 is_VBZ that_CST we_PPIS2 see_VV0 only_RR C0_FO in_II a_AT1 wh-_JJ question_NN1 sentence_NN1 need_NN1 to_TO attract_VVI (_( +Qu_FO ,_, +Wh_FO )_) ,_, while_CS C0_FO in_II a_AT1 statement_NN1 sentence_NN1 does_VDZ not_XX need_VVI to_TO attract_VVI the_AT feature_NN1 (_( -Qu_NP1 ,_, +Wh_FO )_) ._. 
+</s>
+<s>
+Therefore_RR we_PPIS2 do_VD0 not_XX assume_VVI the_AT XP_NP1 projection_NN1 once_RR for_IF all_DB ._. 
+</s>
+<s>
+We_PPIS2 advance_VV0 that_CST just_RR like_II feature_NN1 movement_NN1 ,_, this_DD1 assumes_VVZ lexical_JJ decomposition_NN1 ._. 
+</s>
+<s>
+The_AT operator_NN1 parts_NN2 from_II the_AT lexicon_NN1 to_TO be_VBI ready_JJ for_IF a_AT1 movement_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 Greed_NN1 Principle_NN1 :_: This_DD1 movement_NN1 raises_VVZ to_II a_AT1 position_NN1 only_RR if_CS the_AT morphosyntactic_JJ properties_NN2 of_IO itself_PPX1 can_56 not_56 be_VBI otherwise_RR satisfied_VVN in_II the_AT derivation_NN1 ,_, 8_MC namely_REX ,_, the_AT (_( +Qu_FO )_) feature_NN1 should_VM be_VBI checked_VVN off_RP ._. 
+</s>
+<s>
+We_PPIS2 further_RRR propose_VV0 that_CST the_AT SS_NP1 requirement_NN1 --_NN1 at_II SS_NP1 the_AT wh-_JJ phrase_NN1 must_VM already_RR be_VBI in_II Spec_NP1 of_IO CP_NP1 --_NN1 also_RR holds_VVZ for_IF Chinese_JJ ,_, but_CCB with_IW a_AT1 little_JJ modification_NN1 :_: at_II SS_NP1 the_AT Question_NN1 operator_NN1 bearing_VVG (_( +Qu_FO )_) must_VM already_RR be_VBI in_II Spec_NP1 of_IO CP_NP1 ._. 
+</s>
+<s>
+Having_VHG our_APPGE base-generated_JJ Question_NN1 Operator_NN1 in_II mind_NN1 ,_, let_VV0 us_PPIO2 look_VVI at_II multiple_JJ questions_NN2 ._. 
+</s>
+<s>
+For_IF multiple_JJ questions_NN2 where_CS there_EX are_VBR multiple_JJ prepositions_NN2 of_IO wh-_JJ elements_NN2 ,_, there_EX has_VHZ been_VBN the_AT claim_NN1 that_CST there_EX are_VBR non-wh-_JJ frontings_NN2 which_DDQ are_VBR not_XX motivated_VVN by_II checking_VVG the_AT strong_JJ (_( +wh_FO )_) feature_NN1 of_IO C0_FO ._. 
+</s>
+<s>
+(_( Zeljko_NN1 Boskovic_NN1 )_) The_AT argument_NN1 is_VBZ that_CST for_IF checking_VVG the_AT (_( +wh_FO )_) feature_NN1 ,_, it_PPH1 should_VM suffice_VVI to_TO front_VVI one_MC1 wh-_JJ element_NN1 to_II (_( Spec_NP1 CP_NP1 )_) ._. 
+</s>
+<s>
+But_CCB we_PPIS2 have_VH0 different_JJ thinking_NN1 on_II this_DD1 :_: There_EX might_VM not_XX be_VBI the_AT necessity_NN1 of_IO avoiding_VVG multiple_JJ checking_NN1 of_IO the_AT (_( +wh_FO )_) feature_NN1 ._. 
+</s>
+<s>
+It_PPH1 could_VM well_RR be_VBI that_CST the_AT Checking-Feature_NP1 Filter_NN1 requires_VVZ each_DD1 of_IO the_AT associate_JJ wh-_JJ elements_NN2 bearing_VVG the_AT feature_NN1 to_TO be_VBI fronted_VVN and_CC the_AT feature_NN1 checked_VVN by_II each_DD1 of_IO them_PPHO2 at_II one_MC1 time_NNT1 ,_, namely_REX ,_, the_AT attractor_NN1 C0_FO is_VBZ an_AT1 Attract-All-Feature_NP1 element_NN1 and_CC all_DB concerned_JJ features_NN2 should_VM be_VBI checked_VVN off_RP hence_RR all_DB should_VM move_VVI ._. 
+</s>
+<s>
+This_DD1 assumption_NN1 ,_, if_CS true_JJ ,_, would_VM justify_VVI us_PPIO2 to_TO place_VVI all_DB of_IO the_AT fronted_JJ question_NN1 operators_NN2 in_II Chinese_JJ in_II (_( Spec_NP1 ,_, CP_NP1 )_) instead_II21 of_II22 letting_VVG some_DD of_IO them_PPHO2 hanging_VVG below_RL as_CSA Rudin_NP1 argues_VVZ for_IF some_DD fronted_JJ wh-_JJ elements_NN2 in_II Serbo-Croatian_JJ (_( cited_VVN from_II Zeljko_NP1 Boskovic_NN1 ,_, On_II Multiple_JJ Feature_NN1 Checking_VVG )_) ._. 
+</s>
+<s>
+We_PPIS2 advance_VV0 our_APPGE tree_NN1 for_IF the_AT multiple_JJ checking_NN1 of_IO (_( +Qu_FO )_) feature_NN1 as_CSA follows_VVZ :_: Based_VVN on_II what_DDQ has_VHZ been_VBN said_VVN above_RL ,_, we_PPIS2 proposed_VVD a_AT1 different_JJ view_NN1 to_II Huang(1982)_FO 's_GE proposal_NN1 that_CST selectional_JJ restrictions_NN2 are_VBR met_VVN at_II SS_NP1 in_II English_NN1 and_CC at_II LF_NP1 in_II Chinese_JJ ._. 
+</s>
+<s>
+We_PPIS2 think_VV0 that_CST the_AT selectional_JJ restrictions_NN2 in_II Chinese_NP1 are_VBR also_RR met_VVN at_II SS_NP1 and_CC do_VD0 not_XX wait_VVI till_II LF_NP1 to_TO be_VBI satisfied_VVN ._. 
+</s>
+<s>
+If_CS it_PPH1 is_VBZ a_AT1 LF_NP1 movement_NN1 ,_, the_AT (_( +Qu_FO )_) feature_NN1 should_VM still_RR be_VBI with_IW the_AT wh-_JJ word_NN1 at_II SS_NP1 which_DDQ sometimes_RT is_VBZ obviously_RR not_XX the_AT case_NN1 ._. 
+</s>
+<s>
+Please_RR consider_VV0 the_AT following_JJ sentences_NN2 :_: The_AT complementizers_NN2 in_II (_( 5_MC )_) and_CC (_( 6_MC )_) have_VH0 different_JJ subcategorizations_NN2 for_IF the_AT "_" Qu_NN1 "_" feature_NN1 carried_VVN by_II the_AT head_NN1 of_IO the_AT CP_NP1 complement_NN1 ._. 
+</s>
+<s>
+"_" ren4wei2/think_NN1 "_" subscribes_VVZ for_IF a_AT1 (_( -Qu_NP1 )_) feature_NN1 ;_; "_" wen4/ask_VV0 "_" subcategorizes_VVZ for_IF a_AT1 (_( +Qu_FO )_) feature_NN1 ._. 
+</s>
+<s>
+In_II sentence_NN1 (_( 5_MC )_) ,_, if_CS and_CC only_RR if_CS the_AT wh-_JJ elements_NN2 "_" shei2_FO "_" and_CC "_" shen2me0_FO "_" do_VD0 not_XX have_VHI the_AT (_( +Qu_FO )_) feature_NN1 can_VM the_AT subcategorization_NN1 for_IF the_AT complementizer_NN1 "_" ren4wei2_FO "_" be_VBI met_VVN ._. 
+</s>
+<s>
+There_EX are_VBR two_MC possibilities_NN2 for_IF the_AT two_MC wh-_JJ elements_NN2 to_TO be_VBI lack_NN1 of_IO the_AT (_( +Qu_FO )_) feature_NN1 :_: either_RR it_PPH1 is_VBZ an_AT1 indefinite_JJ wh-_JJ word_NN1 so_CS21 that_CS22 it_PPH1 does_VDZ not_XX bear_VVI a_AT1 (_( +Qu_FO )_) feature_NN1 ,_, or_CC it_PPH1 is_VBZ a_AT1 questioned_JJ wh-_JJ word_NN1 so_CS21 that_CS22 there_EX is_VBZ an_AT1 question_NN1 operator_NN1 based_VVN generated_VVN with_IW it_PPH1 but_CCB moves_VVZ out_II21 of_II22 the_AT scope_NN1 of_IO "_" ren4wei2_FO "_" ._. 
+</s>
+<s>
+Either_DD1 way_NN1 could_VM satisfy_VVI the_AT subcategorization_NN1 of_IO complementizer_NN1 "_" ren4wei2_FO "_" ._. 
+</s>
+<s>
+But_CCB since_CS this_DD1 sentence_NN1 does_VDZ not_XX have_VHI the_AT context_NN1 of_IO indefinite_JJ wh-_JJ words_NN2 which_DDQ include_VV0 :_: Li_NP1 (_( 1992_MC )_) generalized_VVD that_CST an_AT1 indefinite_JJ wh_NNU occurs_VVZ in_II (_( a_ZZ1 )_) contexts_NN2 where_RRQ the_AT truth_NN1 value_NN1 is_VBZ negated_VVN :_: negation_NN1 ,_, (_( b_ZZ1 )_) contexts_NN2 where_RRQ the_AT truth_NN1 value_NN1 is_VBZ not_XX fixed_VVN :_: questions_NN2 ,_, conditionals_NN2 ,_, non-factive_JJ verb_NN1 complements_VVZ ,_, (_( c_ZZ1 )_) contexts_NN2 where_RRQ the_AT truth_NN1 value_NN1 is_VBZ not_XX asserted_VVN directly_RR :_: seem_VV0 ,_, probably_RR contexts_NN2 ,_, circumstantial_JJ le_FW ._. 
+</s>
+<s>
+Sentence_NN1 a_ZZ1 )_) does_VDZ not_XX have_VHI those_DD2 contexts_NN2 hence_RR both_DB2 of_IO the_AT wh-_JJ words_NN2 should_VM be_VBI interrogative_JJ and_CC there_EX are_VBR two_MC question_NN1 operators_NN2 based_VVN generated_VVN with_IW them_PPHO2 ._. 
+</s>
+<s>
+On_II one_MC1 hand_NN1 ,_, both_DB2 of_IO these_DD2 two_MC operators_NN2 have_VH0 to_TO move_VVI up_RP out_II21 of_II22 the_AT scope_NN1 of_IO "_" ren4wei2_FO "_" ,_, on_II the_AT other_JJ hand_NN1 ,_, the_AT (_( +Qu_FO )_) feature_NN1 of_IO C0_FO has_VHZ to_TO be_VBI checked_VVN ._. 
+</s>
+<s>
+These_DD2 two_MC motivations_NN2 are_VBR in_II harmony_NN1 and_CC will_VM never_RR be_VBI in_II conflict_NN1 ._. 
+</s>
+<s>
+In_II sentence_NN1 (_( 6_MC )_) ,_, since_CS the_AT whole_JJ sentence_NN1 is_VBZ a_AT1 question_NN1 ,_, so_CS the_AT Comp_NN1 of_IO the_AT matrix_NN1 sentence_NN1 should_VM be_VBI attracting_VVG a_AT1 (_( +Qu_FO )_) ,_, also_RR because_CS the_AT Comp_NN1 "_" wen4/ask_VV0 "_" in_II the_AT lower_JJR CP_NP1 subscribe_VV0 for_IF a_AT1 (_( +Qu_FO )_) feature_NN1 ,_, there_EX should_VM be_VBI a_AT1 (_( +Qu_FO )_) down_RP in_II the_AT lower_JJR CP_NP1 ._. 
+</s>
+<s>
+Hence_RR we_PPIS2 are_VBR expecting_VVG one_MC1 of_IO the_AT two_MC question_NN1 operators_NN2 generated_VVD moves_NN2 to_II the_AT higher_JJR Comp_NN1 and_CC the_AT other_JJ moves_NN2 to_II the_AT lower_JJR Comp_NN1 ._. 
+</s>
+<s>
+Now_RT the_AT question_NN1 is_VBZ that_DD1 which_DDQ one_PN1 goes_VVZ up_II21 to_II22 the_AT matrix_NN1 Comp_NN1 and_CC which_DDQ one_PN1 goes_VVZ up_II21 to_II22 the_AT lower_JJR Comp_NN1 ._. 
+</s>
+<s>
+Now_RT let_VM21 's_VM22 look_VVI at_II the_AT possible_JJ answer_NN1 to_II sentence_NN1 (_( 6_MC )_) as_II a_AT1 question_NN1 ,_, we_PPIS2 can_VM only_RR have_VHI answer_NN1 1_MC1 and_CC can_56 not_56 have_VHI answer_NN1 2_MC ._. 
+</s>
+<s>
+In_II sentence_NN1 (_( 7_MC )_) ,_, there_EX is_VBZ the_AT same_DA story_NN1 with_IW the_AT moving-up_NN1 of_IO the_AT two_MC question_NN1 operators_NN2 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 the_AT same_DA question_NN1 of_IO which_DDQ one_PN1 moves_VVZ where_RRQ ._. 
+</s>
+<s>
+And_CC if_CS we_PPIS2 look_VV0 at_II the_AT possible_JJ answer_NN1 ,_, we_PPIS2 can_VM only_RR have_VHI answer_NN1 1_MC1 and_CC can_56 not_56 have_VHI answer_NN1 2_MC ._. 
+</s>
+<s>
+If_CS we_PPIS2 compare_VV0 the_AT answers_NN2 to_II sentence_NN1 (_( 6_MC )_) and_CC (_( 7_MC )_) ,_, we_PPIS2 will_VM see_VVI that_CST when_CS we_PPIS2 could_VM only_RR move_VVI one_MC1 question_NN1 operator_NN1 to_II the_AT matrix_NN1 Comp_NN1 ,_, the_AT one_PN1 generated_VVN with_IW the_AT wh-_JJ element_NN1 at_II argument_NN1 position_NN1 moves_VVZ to_II the_AT matrix_NN1 Comp_NN1 while_CS the_AT operator_NN1 generated_VVN with_IW the_AT wh-_JJ element_NN1 at_II adjunct_NN1 position_NN1 moves_VVZ to_II the_AT lower_JJR Comp_NN1 ._. 
+</s>
+<s>
+Now_RT we_PPIS2 would_VM like_VVI to_TO come_VVI back_RP to_II the_AT problem_NN1 of_IO sentence_NN1 (_( 2_MC )_) and_CC (_( 3_MC )_) we_PPIS2 discussed_VVD earlier_RRR ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 not_XX think_VVI the_AT absorption_NN1 theory_NN1 can_VM account_VVI for_IF some_DD problematic_JJ sentences_NN2 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 a_AT1 different_JJ way_NN1 to_TO approach_VVI the_AT problem_NN1 ._. 
+</s>
+<s>
+Please_RR reconsider_VV0 sentence_NN1 (_( 2_MC )_) and_CC sentence_NN1 (_( 3_MC )_) as_CSA follows_VVZ :_: If_CS we_PPIS2 compare_VV0 (_( 12_MC )_) and_CC (_( 9_MC )_) c_ZZ1 ,_, the_AT difference_NN1 is_VBZ in_II (_( 9_MC )_) c_ZZ1 ,_, the_AT higher_JJR wh-_JJ element_NN1 "_" shei2_FO "_" and_CC the_AT lower_JJR wh-_JJ element_NN1 "_" shen2me0_FO "_" are_VBR in_II government_NN1 relations_NN2 with_IW the_AT lexical_JJ head_NN1 "_" mai3_FO "_" (_( "_" shei2_FO "_" is_VBZ in_II Spec-Head_NN1 relation_NN1 with_IW "_" mai3_FO "_" and_CC "_" shen2me0_FO "_" is_VBZ in_II Head-Comp_NP1 relation_NN1 with_IW "_" mai3_FO "_" )_) while_CS in_II (_( 12_MC )_) this_DD1 is_VBZ not_XX the_AT case_NN1 (_( "_" shei2_FO "_" is_VBZ in_II the_AT Spec-Head_NN1 relation_NN1 with_IW "_" li2kai1_FO "_" but_CCB "_" shen2me0_FO "_" is_VBZ not_XX )_) ._. 
+</s>
+<s>
+In_II (_( 11_MC )_) ,_, neither_RR "_" zen3me0_FO "_" nor_CC "_" wei4shen2me0_FO "_" is_VBZ in_II the_AT government_NN1 relations_NN2 with_IW a_AT1 lexical_JJ head_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II this_DD1 observation_NN1 and_CC following_VVG Chomsky_NP1 's_GE claim_NN1 that_CST every_AT1 movement_NN1 must_VM necessarily_RR expand_VVI the_AT tree_NN1 (_( 1993_MC )_) ,_, we_PPIS2 suggest_VV0 a_AT1 constraint_NN1 of_IO question_NN1 operator_NN1 fronting_VVG in_II Chinese_JJ multiple_JJ questions_NN2 :_: Only_RR the_AT question_NN1 operators_NN2 of_IO the_AT wh-_JJ elements_NN2 in_II government_NN1 relations_NN2 with_IW the_AT same_DA lexical_JJ head_NN1 can_VM move_VVI up_RP out_II21 of_II22 the_AT IP_NN1 where_CS they_PPHS2 are_VBR generated_VVN and_CC fill_VV0 into_II the_AT same_DA Spec_NN1 of_IO CP_NP1 ._. 
+</s>
+<s>
+Since_CS every_AT1 fronted_JJ question_NN1 operator_NN1 requires_VVZ a_AT1 correspondent_NN1 answer_NN1 ,_, they_PPHS2 should_VM hang_VVI up_RP as_RG multiple_JJ Specs_NN2 of_IO the_AT higher_JJR CP_NP1 ,_, checking_VVG the_AT (_( +Qu_FO )_) feature_NN1 of_IO C0_FO as_CSA many_DA2 times_NNT2 as_RG necessary_JJ ._. 
+</s>
+<s>
+Different_JJ from_II Aoun_NP1 and_CC Li_NP1 's_GE claim_NN1 ,_, we_PPIS2 propose_VV0 that_CST in_II Chinese_JJ ,_, the_AT wh-_NN1 in_RR21 situ_RR22 at_II an_AT1 adjunct_NN1 position_NN1 can_VM appear_VVI within_II an_AT1 island_NN1 ._. 
+</s>
+<s>
+The_AT question_NN1 operator_NN1 can_VM be_VBI extracted_VVN out_RP from_II either_RR a_AT1 complex_JJ NP_NP1 or_CC a_AT1 relative_JJ clause_NN1 ._. 
+</s>
+<s>
+Aoun_NP1 and_CC Li_NP1 advance_VV0 the_AT following_JJ sentences_NN2 as_CSA evidence_NN1 for_IF the_AT asymmetry_NN1 of_IO extractability_NN1 of_IO adjunct_NN1 and_CC argument_NN1 wh-_NN1 elements_NN2 ._. 
+</s>
+<s>
+Sentence_NN1 (_( 13_MC )_) extracts_VVZ the_AT question_NN1 operator_NN1 of_IO an_AT1 adjunct_NN1 wh-_NN1 element_NN1 from_II a_AT1 complex_JJ NP_NP1 ,_, sentence_NN1 (_( 14_MC )_) extracts_VVZ the_AT question_NN1 operator_NN1 of_IO an_AT1 adjunct_NN1 wh-_NN1 element_NN1 from_II a_AT1 sentential_JJ subject_NN1 :_: Aoun_NP1 and_CC Li_NP1 's_GE analysis_NN1 is_VBZ that_CST in_II (_( 13_MC )_) ,_, regardless_RR of_IO where_RRQ is_VBZ the_AT exact_JJ place_NN1 that_CST the_AT question_NN1 operator_NN1 is_VBZ generated_VVN and_CC what_DDQ kind_NN1 of_IO derivation_NN1 it_PPH1 has11_FO ,_, either_RR the_AT wh-_JJ adjunct_NN1 "_" wei4shen2me0_FO "_" has_VHZ no_AT antecendent_NN1 within_II the_AT minimal_JJ clause_NN1 where_CS it_PPH1 occurs_VVZ or_CC the_AT trace_NN1 is_VBZ not_XX lexically_RR governed_VVN ._. 
+</s>
+<s>
+Both_DB2 cases_NN2 violate_VV0 ECP_NN1 and_CC are_VBR ill-formed_JJ ._. 
+</s>
+<s>
+Since_CS we_PPIS2 claim_VV0 the_AT question_NN1 operator_NN1 operates_VVZ in_II syntax_NN1 ,_, it_PPH1 is_VBZ natural_JJ to_TO expect_VVI it_PPH1 to_TO be_VBI sensitive_JJ to_II various_JJ constraints_NN2 ._. 
+</s>
+<s>
+Aoun_NP1 and_CC Li_NP1 's_GE analysis_NN1 ,_, if_CS true_JJ ,_, would_VM be_VBI very_RG much_DA1 expected_JJ ._. 
+</s>
+<s>
+But_CCB we_PPIS2 think_VV0 the_AT data_NN they_PPHS2 provide_VV0 do_VD0 not_XX yet_RR amount_VVI to_TO extend_VVI ECP_NN1 to_II wh-_NN1 in_RR21 situ_RR22 ._. 
+</s>
+<s>
+Actually_RR we_PPIS2 think_VV0 these_DD2 data_NN are_VBR not_XX good_JJ counter_NN1 examples_NN2 and_CC hence_RR should_VM not_XX amount_NN1 to_II drawing_VVG the_AT conclusion_NN1 yet_RR ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, sentence_NN1 (_( 14_MC )_) 's_GE problem_NN1 may_VM reside_VVI in_II the_AT incompatibleness_NN1 of_IO the_AT semantic_JJ properties_NN2 of_IO the_AT words_NN2 "_" wei4shen2me0_FO "_" ,_, "_" mai3_FO "_" and_CC "_" zui4_FO hao3_FO "_" ._. 
+</s>
+<s>
+It_PPH1 shall_VM be_VBI easily_RR seen_VVN if_CS we_PPIS2 peel_VV0 off_RP the_AT other_JJ parts_NN2 and_CC just_RR look_VV0 at_II "_" wei4shen2me0_FO mai3_FO zui4_FO hao3_FO "_" (_( "_" for_IF what_DDQ reason_VV0 to_TO buy_VVI is_VBZ the_AT best_JJT "_" )_) The_AT sentence_NN1 is_VBZ weird_JJ by_II itself_PPX1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, we_PPIS2 have_VH0 bunch_NN1 of_IO good_JJ sentences_NN2 where_RRQ the_AT operator_NN1 of_IO adjunct_NN1 wh-_NN1 element_NN1 is_VBZ extracted_VVN ,_, for_REX21 example_REX22 :_: Following_VVG Aoun_NP1 and_CC Li_NP1 's_GE analysis_NN1 ,_, the_AT Xi_NN1 here_RL is_VBZ not_XX lexically_RR governed_VVN which_DDQ should_VM lead_VVI to_II the_AT ill-formness_NN1 of_IO this_DD1 interpretation_NN1 ,_, but_CCB this_DD1 sentence_NN1 is_VBZ a_AT1 perfectly_RR good_JJ one_PN1 ._. 
+</s>
+<s>
+This_DD1 kind_NN1 of_IO extraction_NN1 is_VBZ by_II no_AT way_NN1 a_AT1 very_RG occasional_JJ instance_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM easily_RR see_VVI many_DA2 other_JJ similar_JJ cases_NN2 ._. 
+</s>
+<s>
+We_PPIS2 cite_VV0 two_MC more_DAR sentences_NN2 here_RL for_IF the_AT sake_NN1 of_IO better_JJR viewing_NN1 ,_, sentence_NN1 (_( 16_MC )_) extracts_NN2 Q_ZZ1 operator_NN1 from_II within_II an_AT1 adjunct_NN1 position_NN1 in_II a_AT1 sentential_JJ subject_NN1 ,_, (_( 17_MC )_) extracts_NN2 Q_ZZ1 operator_NN1 from_II within_II complex_JJ NP_NP1 :_: Based_VVN on_II what_DDQ we_PPIS2 have_VH0 discussed_VVN above_RL ,_, we_PPIS2 would_VM like_VVI to_TO suggest_VVI that_DD1 ECP_NN1 Constraint_NN1 does_VDZ not_XX extend_VVI to_II the_AT distribution_NN1 of_IO wh-_JJ element_NN1 and_CC its_APPGE trace_NN1 in_II Chinese_JJ ._. 
+</s>
+<s>
+This_DD1 conclusion_NN1 is_VBZ based_VVN on_II two_MC observations_NN2 ._. 
+</s>
+<s>
+One_MC1 is_VBZ that_CST the_AT wh-_JJ element_NN1 is_VBZ a_AT1 lexical_JJ item_NN1 and_CC is_VBZ exempted_VVN from_II ECP_NP1 ._. 
+</s>
+<s>
+And_CC the_AT trace_NN1 of_IO the_AT question_NN1 operator_NN1 is_VBZ different_JJ from_II wh-_JJ trace_NN1 in_II English_NN1 ,_, wh-_JJ trace_NN1 can_56 not_56 be_VBI deleted_VVN because_CS the_AT Criteria_NN2 has_VHZ to_TO been_VBN satisfied_VVN at_II all_DB levels_NN2 ._. 
+</s>
+<s>
+Since_CS all_DB it_PPH1 has_VHZ is_VBZ the_AT (_( +Qu_FO )_) feature_NN1 plus_II a_AT1 null_JJ phonological_JJ representation_NN1 ,_, we_PPIS2 would_VM like_VVI to_TO suggest_VVI that_CST it_PPH1 is_VBZ not_XX there_RL once_CS the_AT movement_NN1 is_VBZ done_VDN ,_, for_IF when_RRQ it_PPH1 moves_VVZ ,_, the_AT null_JJ phonological_JJ representation_NN1 converge_VV0 to_II the_AT feature_NN1 so_CS there_EX is_VBZ nothing_PN1 left_VVN at_II the_AT original_JJ place_NN1 ._. 
+</s>
+<s>
+The_AT trace_NN1 of_IO question_NN1 operator_NN1 is_VBZ neither_RR a_AT1 case_NN1 marked_JJ position_NN1 nor_CC a_AT1 marked_JJ position_NN1 ._. 
+</s>
+<s>
+Following_VVG the_AT definition_NN1 of_IO a_AT1 A_ZZ1 position_NN1 which_DDQ is_VBZ a_AT1 position_NN1 either_RR case_NN1 marked_VVN or_CC theta_NN1 marked_VVN ,_, the_AT operator_NN1 trace_NN1 is_VBZ in_II a_AT1 A'_JJ position_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT movement_NN1 is_VBZ from_II A'_NP1 position_NN1 to_II A'_NP1 position_NN1 ,_, it_PPH1 is_VBZ natural_JJ then_RT that_CST the_AT movement_NN1 may_VM not_XX be_VBI subject_II21 to_II22 the_AT constraints_NN2 that_CST a_AT1 A-A'_JJ movement_NN1 is_VBZ sensitive_JJ to_TO ._. 
+</s>
+<s>
+In_II41 the_II42 light_II43 of_II44 the_AT absence_NN1 of_IO ECP_NP1 and_CC absence_NN1 of_IO asymmetry_NN1 of_IO the_AT extractability_NN1 between_II adjunct_NN1 and_CC argument_NN1 wh-_NN1 elements_58 '_97 operators_NN2 in_II Chinese_JJ ,_, we_PPIS2 would_VM like_VVI to_TO further_RRR address_VVI the_AT two_MC "_" S_ZZ1 "_" Filters_VVZ :_: Subjancency_NP1 Filter_NN1 and_CC Superiority_NN1 Filter_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT Subjacency_NN1 Effect_NN1 is_VBZ closely_RR related_VVN to_II island_NN1 effect_NN1 ,_, it_PPH1 is_VBZ natural_JJ then_RT ,_, with_IW the_AT absence_NN1 of_IO the_AT island_NN1 effect_NN1 ,_, Subjancency_NP1 does_VDZ not_XX constrain_VVI the_AT question_NN1 operator_NN1 movement_NN1 of_IO Chinese_JJ ._. 
+</s>
+<s>
+For_IF Superiority_NN1 Filter_NN1 ,_, it_PPH1 is_VBZ defined_VVN as_CSA following_VVG :_: An_AT1 object_NN1 wh-_NN1 phrase_NN1 can_VM move_VVI to_II a_AT1 Spec_NP1 CP_NP1 already_RR filled_VVN with_IW another_DD1 wh-_JJ phrase_NN1 whereas_CS a_AT1 subject_NN1 wh-_NN1 phrase_NN1 can_56 not_56 ._. 
+</s>
+<s>
+What_DDQ we_PPIS2 are_VBR looking_VVG at_II now_RT is_VBZ whether_CSW the_AT "_" question_NN1 operator_NN1 version_NN1 "_" of_IO the_AT rule_NN1 holds_VVZ true_JJ for_IF question_NN1 operator_NN1 movements_NN2 :_: The_AT question_NN1 operator_NN1 of_IO an_AT1 object_NN1 wh-_NN1 phrase_NN1 can_VM move_VVI to_II a_AT1 Spec_NP1 CP_NP1 already_RR filled_VVN with_IW another_DD1 question_NN1 operator_NN1 whereas_CS the_AT question_NN1 operator_NN1 of_IO a_AT1 subject_NN1 wh-_NN1 phrase_NN1 can_56 not_56 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX difficult_JJ to_TO see_VVI that_CST there_EX is_VBZ connection_NN1 between_II the_AT ECP_NN1 and_CC Superiority_NN1 Filter_NN1 ._. 
+</s>
+<s>
+As_CSA pointed_VVN out_RP clearly_RR by_II Lasnik_NP1 ,_, the_AT eligibility_NN1 of_IO an_AT1 object_NN1 wh-_NN1 element_NN1 to_TO move_VVI to_II an_AT1 occupied_JJ Spec_NP1 CP_NP1 is_VBZ crucially_RR dependent_JJ on_II the_AT fact_NN1 that_CST the_AT -governed_JJ status_NN1 of_IO its_APPGE trace_NN1 makes_VVZ it_PPH1 needless_JJ for_IF it_PPH1 to_TO have_VHI an_AT1 antecedent_JJ governer_NN1 ._. 
+</s>
+<s>
+For_IF a_AT1 subject_NN1 wh-_NN1 element_NN1 ,_, since_CS its_APPGE trace_NN1 is_VBZ not_XX -governed_JJ ,_, it_PPH1 has_VHZ to_TO be_VBI antecedently_RR governed_VVN to_TO satisfy_VVI ECP_NN1 ._. 
+</s>
+<s>
+With_IW the_AT exemption_NN1 of_IO ECP_NN1 to_II movement_NN1 of_IO Q_ZZ1 operator_NN1 ,_, the_AT connection_NN1 above_RL does_VDZ not_XX hold_VVI any_DD more_DAR which_DDQ accordingly_RR rules_VVZ out_RP the_AT role_NN1 of_IO Superiority_NN1 Filter_NN1 in_II Chinese_JJ multiple_JJ questions_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT allowance_NN1 of_IO multiple_JJ Specs_NP2 also_RR makes_VVZ this_DD1 constraint_NN1 irrelevant_JJ from_II the_AT very_JJ beginning_NN1 ._. 
+</s>
+<s>
+Now_RT consider_VV0 a_AT1 simple_JJ sentence_NN1 with_IW multiple_JJ questions_NN2 :_: While_CS seeing_VVG the_AT absence_NN1 of_IO Superiority_NN1 Filter_NN1 ,_, we_PPIS2 notice_VV0 another_DD1 interesting_JJ phenomenon_NN1 ,_, please_RR consider_VV0 an_AT1 embedded_JJ multiple_JJ question_NN1 sentence_NN1 :_: The_AT highest_JJT question_NN1 operator_NN1 generated_VVN in_II the_AT higher_JJR CP_NP1 definitely_RR has_VHZ to_TO move_VVI to_II the_AT C0_FO of_IO the_AT matrix_NN1 CP_NP1 ._. 
+</s>
+<s>
+Any_DD answer_NN1 to_II this_DD1 question_NN1 should_VM answer_VVI the_AT highest_JJT "_" who_PNQS "_" first_MD ._. 
+</s>
+<s>
+And_CC let_VV0 us_PPIO2 exhaust_VVI the_AT possible_JJ answers_NN2 to_II this_DD1 question_NN1 :_: We_PPIS2 can_VM see_VVI that_CST besides_II the_AT obligatory_JJ answer_NN1 for_IF the_AT highest_JJT "_" who_PNQS "_" ,_, we_PPIS2 can_VM answer_VVI any_DD wh-_JJ element_NN1 or_CC any_DD two_MC of_IO the_AT wh-_JJ elements_NN2 in_II the_AT lower_JJR CP_NP1 ._. 
+</s>
+<s>
+In_II answer_NN1 3,4,6_MC and_CC 7_MC ,_, the_AT question_NN1 operator_NN1 base-generated_NN1 at_II lower_JJR position_NN1 (_( even_RR in_II the_AT node_NN1 in_II an_AT1 adjunct_NN1 branch12_FO )_) can_VM go_VVI up_RP and_CC move_VVI across_II an_AT1 operator_NN1 generated_VVN at_II higher_JJR position_NN1 to_II the_AT Spec_NN1 of_IO matrix_NN1 CP_NP1 ._. 
+</s>
+<s>
+Our_APPGE paper_NN1 discussed_VVD Baker_NP1 's_GE proposal_NN1 of_IO a_AT1 Question_NN1 Morpheme_NN1 and_CC how_RRQ this_DD1 question_NN1 operator_NN1 works_VVZ under_II Aoun_NP1 and_CC Li_NP1 's_GE analysis_NN1 of_IO Chinese_JJ wh-_JJ elements_NN2 ._. 
+</s>
+<s>
+While_CS seeing_VVG the_AT Question_NN1 Morpheme_NN1 may_VM not_XX necessarily_RR work_VVI well_RR for_IF English_JJ wh-_JJ sentences_NN2 ,_, we_PPIS2 see_VV0 its_APPGE crucial_JJ importance_NN1 for_IF the_AT interpretation_NN1 of_IO Chinese_JJ wh-_JJ direct_JJ questions_NN2 ._. 
+</s>
+<s>
+We_PPIS2 further_RRR pointed_VVD out_RP no_RGQV31 matter_RGQV32 how_RGQV33 diverse_JJ the_AT different_JJ proposals_NN2 may_VM seem_VVI to_TO be_VBI ,_, they_PPHS2 actually_RR have_VH0 much_DA1 in_RR21 common_RR22 and_CC could_VM somehow_RR be_VBI reduced_VVN to_TO be_VBI feature-motivated_JJ ._. 
+</s>
+<s>
+We_PPIS2 restrict_VV0 the_AT generation_NN1 of_IO the_AT question_NN1 operator_NN1 to_II the_AT insertion_NN1 of_IO a_AT1 interrogative_JJ wh-_JJ element_NN1 and_CC propose_VV0 that_CST the_AT question_NN1 operator_NN1 moves_VVZ to_II the_AT appropriate_JJ Spec_NP1 CP_NP1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR advance_VV0 the_AT allowance_NN1 of_IO multiple_JJ Specs_NN2 of_IO a_AT1 particular_JJ C._NP1 Base_NN1 on_II this_DD1 proposal_NN1 ,_, we_PPIS2 looked_VVD at_II some_DD of_IO the_AT constraints_NN2 for_IF English_JJ wh-_JJ movement_NN1 and_CC reached_VVD the_AT following_JJ 4_MC conclusions_NN2 :_: The_AT selectional_JJ restrictions_NN2 in_II Chinese_NP1 are_VBR also_RR met_VVN at_II SS_NP1 and_CC do_VD0 not_XX wait_VVI till_II LF_NP1 to_TO be_VBI satisfied_VVN ._. 
+</s>
+<s>
+Only_RR the_AT question_NN1 operators_NN2 of_IO the_AT wh-_JJ elements_NN2 in_II government_NN1 relations_NN2 with_IW the_AT same_DA lexical_JJ head_NN1 can_VM move_VVI up_RP out_II21 of_II22 the_AT IP_NN1 where_CS they_PPHS2 are_VBR generated_VVN and_CC fill_VV0 into_II the_AT same_DA Spec_NN1 of_IO CP._NP1 wh-_NN1 in_RR21 situ_RR22 at_II an_AT1 adjunct_NN1 position_NN1 can_VM appear_VVI within_II an_AT1 island_NN1 ,_, the_AT question_NN1 operator_NN1 of_IO it_PPH1 can_VM be_VBI extracted_VVN out_RP from_II within_II the_AT island_NN1 ._. 
+</s>
+<s>
+Both_DB2 of_IO the_AT Superiority_NN1 Effect_NN1 and_CC the_AT Subjancency_NN1 Effect_NN1 do_VD0 not_XX extend_VVI to_II movement_NN1 of_IO question_NN1 operators_NN2 in_II Chinese_NP1 There_EX are_VBR some_DD other_JJ relevant_JJ issues_NN2 which_DDQ remain_VV0 undiscussed_JJ in_II our_APPGE paper_NN1 ._. 
+</s>
+<s>
+One_MC1 issue_NN1 is_VBZ how_RRQ does_VDZ the_AT question_NN1 operator_NN1 work_NN1 for_IF the_AT single-pair_JJ and_CC pair-list_JJ answers_NN2 ?_? 
+</s>
+<s>
+Zeljko_NN1 Boskovic_NN1 (_( On_II Multiple_JJ Feature_NN1 Checking_VVG )_) pointed_VVD out_RP that_CST the_AT single-pair_JJ answer_NN1 is_VBZ possible_JJ only_JJ when_CS there_EX is_VBZ no_AT overt_JJ wh-_JJ movement_NN1 to_II (_( Spec_NP1 ,_, CP_NP1 )_) ._. 
+</s>
+<s>
+When_CS we_PPIS2 look_VV0 at_II the_AT language_NN1 facts_NN2 ,_, this_DD1 seems_VVZ to_TO be_VBI true_JJ ._. 
+</s>
+<s>
+Nonetheless_RR ,_, within_II syntactic_JJ reach_NN1 for_IF the_AT present_JJ stage_NN1 ,_, we_PPIS2 are_VBR not_XX clear_JJ about_II what_DDQ are_VBR the_AT operations_NN2 to_II distinct_JJ a_AT1 reading_NN1 requiring_VVG a_AT1 pair-list_JJ answer_NN1 from_II a_AT1 reading_NN1 requiring_VVG single-pair_JJ answer_NN1 ._. 
+</s>
+<s>
+Another_DD1 issue_NN1 is_VBZ that_CST for_IF those_DD2 multiple_JJ questions_NN2 which_DDQ have_VH0 multiple_JJ question_NN1 operators_NN2 occupying_VVG the_AT Spec_NP1 position_NN1 of_IO the_AT matrix_NN1 CP_NP1 but_CCB also_RR have_VH0 a_AT1 Question_NN1 morpheme_NN1 "_" ne_FW "_" at_II the_AT end_NN1 of_IO the_AT sentence_NN1 ,_, if_CS the_AT "_" ne_FW "_" is_VBZ also_RR a_AT1 (_( +Qu_FO )_) feature_NN1 bearer_NN1 ,_, what_DDQ should_VM we_PPIS2 deal_VVI with_IW its_APPGE (_( +Qu_FO )_) feature_NN1 ?_? 
+</s>
+<s>
+Does_VDZ it_PPH1 also_RR have_VHI to_TO move_VVI up_RP for_IF the_AT feature_NN1 to_TO be_VBI checked_VVN off_RP and_CC how_RRQ ?_? 
+</s>

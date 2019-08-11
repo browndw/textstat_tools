@@ -1,0 +1,123 @@
+<s>
+Bacteria_NN2 are_VBR unicellular_JJ ,_, haploid_JJ organisms_NN2 that_CST are_VBR suited_VVN for_IF experiments_NN2 because_CS they_PPHS2 reproduce_VV0 rapidly_RR by_II binary_JJ fission_NN1 ,_, produce_VV0 genetically_RR identical_JJ progeny_NN1 ,_, and_CC are_VBR genetically_RR simple_JJ ._. 
+</s>
+<s>
+Normal_JJ bacteria_NN2 can_VM grow_VVI on_II minimal_JJ media_NN ,_, media_NN containing_VVG only_JJ water_NN1 ,_, a_AT1 carbon_NN1 source_NN1 ,_, and_CC inorganic_JJ salts_NN2 ,_, but_CCB some_DD mutant_NN1 auxotrophic_JJ bacteria_NN2 have_VH0 specific_JJ nutritional_JJ requirements_NN2 ._. 
+</s>
+<s>
+These_DD2 requirements_NN2 can_VM be_VBI used_VVN to_TO select_VVI for_IF or_CC against_II specific_JJ strains_NN2 ._. 
+</s>
+<s>
+Some_DD bacteria_NN2 can_VM transfer_VVI a_AT1 copy_NN1 of_IO accessory_JJ DNA_NN1 to_II another_DD1 by_II conjugation_NN1 ._. 
+</s>
+<s>
+During_II conjugation_NN1 ,_, cells_NN2 containing_VVG a_AT1 sex_NN1 factor_NN1 ,_, F+_FO ,_, unidirectionally_RR transfer_VV0 a_AT1 copy_NN1 of_IO this_DD1 sex_NN1 factor_NN1 to_II cells_NN2 lacking_VVG the_AT sex_NN1 factor_NN1 ,_, F-_NN1 ,_, through_II a_AT1 conjugation_NN1 canal_NN1 ._. 
+</s>
+<s>
+Because_CS the_AT conjugation_NN1 canal_NN1 is_VBZ easily_RR broken_VVN ,_, the_AT entire_JJ F_ZZ1 factor_NN1 rarely_RR transfers_NN2 ,_, and_CC so_RR genes_NN2 closer_RRR to_II the_AT origin_NN1 of_IO the_AT F_NP1 factor_NN1 (_( the_AT first_MD point_NN1 to_TO enter_VVI the_AT F-cells_NN2 )_) will_VM appear_VVI with_IW greater_JJR frequency_NN1 among_II the_AT resulting_JJ progeny_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT F_NP1 factor_NN1 has_VHZ been_VBN transferred_VVN the_AT new_JJ genes_NN2 will_VM be_VBI expressed_VVN if_CS they_PPHS2 are_VBR dominant_JJ ,_, and_CC recombination_NN1 can_VM occur_VVI between_II the_AT new_JJ genes_NN2 and_CC the_AT DNA_NN1 of_IO the_AT recipient_NN1 cell_NN1 ._. 
+</s>
+<s>
+This_DD1 phenomenon_NN1 can_VM be_VBI used_VVN to_TO map_VVI bacterial_JJ genes_NN2 ._. 
+</s>
+<s>
+The_AT frequency_NN1 with_IW which_DDQ a_AT1 particular_JJ gene_NN1 appears_VVZ in_II exconjugant_JJ progeny_NN1 depends_VVZ on_II its_APPGE distance_NN1 from_II the_AT origin_NN1 ,_, and_CC the_AT number_NN1 of_IO recombinant_JJ progeny_NN1 can_VM be_VBI used_VVN to_TO determine_VVI relative_JJ map_NN1 distance_NN1 between_II genes_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 experiment_NN1 we_PPIS2 conjugated_VVD F+_FO and_CC F-cells_NN2 with_IW different_JJ genotypes_NN2 and_CC plated_VVD the_AT resulting_JJ exconjugants_NN2 onto_II different_JJ selective_JJ media_NN plates_NN2 ._. 
+</s>
+<s>
+Our_APPGE purpose_NN1 was_VBDZ to_TO determine_VVI the_AT order_NN1 of_IO the_AT genes_NN2 involved_JJ with_IW the_AT selected_JJ traits_NN2 relative_II21 to_II22 the_AT point_NN1 of_IO origin_NN1 ,_, and_CC to_TO determine_VVI relative_JJ map_NN1 distances_NN2 between_II genes_NN2 if_CS possible_JJ ._. 
+</s>
+<s>
+From_II the_AT media_NN 1_MC1 replica_NN1 plates_NN2 ,_, we_PPIS2 counted_VVD a_AT1 total_NN1 of_IO 144_MC colonies_NN2 ,_, with_IW the_AT most_RRT on_II media_NN 1_MC1 ,_, followed_VVN by_II media_NN 5_MC ,_, media_NN 2_MC ,_, media_NN 3_MC ,_, and_CC media_NN 4_MC (_( with_IW zero_MC colonies_NN2 )_) ._. 
+</s>
+<s>
+From_II the_AT media_NN 2_MC replica_NN1 plates_NN2 ,_, we_PPIS2 counted_VVD a_AT1 total_NN1 of_IO 137_MC colonies_NN2 ,_, with_IW the_AT most_RRT on_II media_NN 2_MC ,_, followed_VVN by_II media_NN 5_MC ,_, media_NN 3_MC ,_, media_NN 1_MC1 ,_, and_CC media_NN 4_MC (_( with_IW zero_MC colonies_NN2 )_) ._. 
+</s>
+<s>
+The_AT tabulated_JJ results_NN2 are_VBR in_II Tables_NN2 1_MC1 and_CC 2_MC ._. 
+</s>
+<s>
+Plate_NN1 1_MC1 lacked_VVD threonine-leucine_JJ and_CC selected_VVN for_IF TL+_FO ,_, plate_NN1 2_MC lacked_VVD proline_NN1 and_CC selected_VVN for_IF pro+_FO ,_, plate_NN1 3_MC lacked_VVD glucose_NN1 and_CC contained_JJ lactose_NN1 and_CC selected_VVN for_IF lac+_FO ,_, plate_NN1 4_MC lacked_VVD glucose_NN1 and_CC contained_JJ galactose_NN1 and_CC selected_VVN for_IF gal+_FO ,_, and_CC plate_NN1 lacked_VVD methionine_JJ and_CC selected_VVN for_IF met+_FO ._. 
+</s>
+<s>
+Plate_NN1 3_MC selected_JJ for_IF lac+_FO and_CC plate_NN1 4_MC selected_JJ for_IF gal+_FO because_CS each_DD1 of_IO those_DD2 plates_NN2 selected_VVN for_IF bacteria_NN2 that_CST could_VM utilize_VVI lactose_NN1 and_CC galactose_VVI as_II the_AT sole_JJ carbon_NN1 source_NN1 ,_, respectively_RR ._. 
+</s>
+<s>
+Among_II the_AT media_NN 1_MC1 replica_NN1 plates_NN2 ,_, colonies_NN2 1_MC1 ,_, 2_MC ,_, 4_MC ,_, 10_MC ,_, 20_MC ,_, 23_MC ,_, and_CC 36_MC did_VDD not_XX grow_VVI on_II the_AT media_NN 1_MC1 plate_NN1 ,_, and_CC therefore_RR could_VM not_XX be_VBI taken_VVN into_II account_NN1 for_IF any_DD of_IO the_AT other_JJ plates_NN2 since_CS we_PPIS2 could_VM not_XX tell_VVI if_CS these_DD2 colonies_NN2 on_II other_JJ plates_NN2 did_VDD not_XX grow_VVI because_II21 of_II22 the_AT specific_JJ media_NN they_PPHS2 were_VBDR on_RP or_CC because_CS they_PPHS2 were_VBDR plated_VVN improperly_RR (_( Table_NN1 3_MC )_) ._. 
+</s>
+<s>
+Among_II the_AT media_NN 2_MC replica_NN1 plates_NN2 ,_, colonies_NN2 1_MC1 ,_, 6_MC ,_, 34_MC ,_, and_CC 35_MC did_VDD not_XX grow_VVI on_II the_AT media_NN 2_MC plate_NN1 ,_, and_CC therefore_RR could_VM not_XX be_VBI taken_VVN into_II account_NN1 for_IF the_AT other_JJ plates_NN2 (_( Table_NN1 4_MC )_) ._. 
+</s>
+<s>
+With_IW these_DD2 adjustments_NN2 ,_, the_AT total_JJ number_NN1 of_IO colonies_NN2 on_II media_NN 2_MC replicate_VV0 plates_NN2 was_VBDZ 134_MC and_CC the_AT total_JJ number_NN1 of_IO colonies_NN2 on_II media_NN 1_MC1 replicate_VV0 plates_NN2 was_VBDZ 130_MC ._. 
+</s>
+<s>
+More_DAR colonies_NN2 grew_VVD overall_RR on_II media_NN 2_MC replica_NN1 plates_NN2 than_CSN media_NN 1_MC1 replica_NN1 plates_NN2 ,_, indicating_VVG that_CST more_DAR colonies_NN2 received_VVD the_AT pro+_FO gene_NN1 to_TO survive_VVI on_II the_AT pro-media_JJ than_CSN received_VVN the_AT TL+_FO gene_NN1 to_TO survive_VVI on_II the_AT TL-media_NN ,_, and_CC that_CST the_AT pro_JJ gene_NN1 must_VM then_RT come_VVI before_II the_AT TL_NP1 gene_NN1 on_II the_AT F_NP1 factor_NN1 ._. 
+</s>
+<s>
+To_TO determine_VVI the_AT order_NN1 of_IO the_AT other_JJ genes_NN2 with_II31 respect_II32 to_II33 each_DD1 of_IO these_DD2 markers_NN2 ,_, for_IF each_DD1 set_NN1 we_PPIS2 ranked_VVD the_AT plates_NN2 in_II order_NN1 of_IO most_DAT colonies_NN2 grown_VVN due_II21 to_II22 received_JJ DNA_NN1 ._. 
+</s>
+<s>
+For_IF plates_NN2 1_MC1 ,_, 2_MC ,_, 3_MC ,_, and_CC 4_MC ,_, this_DD1 was_VBDZ the_AT number_NN1 of_IO colonies_NN2 grown_VVN ,_, but_II21 for_II22 plate_NN1 5_MC this_DD1 was_VBDZ actually_RR the_AT number_NN1 of_IO colonies_NN2 that_CST did_VDD not_XX grow_VVI since_CS the_AT original_JJ F-bacteria_NN2 were_VBDR met+_FO (_( Tables_NN2 3_MC and_CC 4_MC )_) ._. 
+</s>
+<s>
+So_RR ,_, F-bacteria_NN2 grew_VVD on_II plate_NN1 5_MC ,_, but_CCB exconjugant_JJ bacteria_NN2 that_CST received_VVD the_AT met-gene_NN1 did_VDD not_XX ._. 
+</s>
+<s>
+For_IF the_AT media_NN 1_MC1 replica_NN1 plates_NN2 ,_, the_AT colonies_NN2 grew_VVD best_RRT on_II media_NN 1_MC1 ,_, followed_VVN by_II media_NN 2_MC ,_, media_NN 3_MC ,_, media_NN 5_MC ,_, and_CC media_NN 4_MC ._. 
+</s>
+<s>
+Based_VVN on_II these_DD2 results_NN2 ,_, the_AT gene_NN1 map_NN1 is_VBZ :_: TL_NP1 ,_, pro_NN1 ,_, lac_FW ,_, met_VVD ,_, and_CC gal_NN1 (_( Fig._NN1 1_MC1 )_) ._. 
+</s>
+<s>
+For_IF the_AT media_NN 2_MC replica_NN1 plates_NN2 ,_, the_AT colonies_NN2 grew_VVD best_RRT on_II media_NN 2_MC ,_, followed_VVN by_II media_NN 3_MC ,_, media_NN 1_MC1 ,_, media_NN 5_MC ,_, and_CC media_NN 4_MC ._. 
+</s>
+<s>
+Based_VVN on_II these_DD2 results_NN2 ,_, the_AT gene_NN1 map_NN1 is_VBZ :_: pro_JJ ,_, lac_FW ,_, TL_NP1 ,_, met_VVD ,_, and_CC gal_NN1 (_( Fig._NN1 2_MC )_) ._. 
+</s>
+<s>
+The_AT map_NN1 based_VVN on_II media_NN 2_MC plates_NN2 is_VBZ better_JJR because_CS we_PPIS2 know_VV0 from_II above_RL that_CST the_AT pro_JJ gene_NN1 is_VBZ closer_JJR to_II the_AT origin_NN1 than_CSN the_AT TL_NP1 gene_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT two_MC maps_NN2 are_VBR inconsistent_JJ ,_, we_PPIS2 have_VH0 to_TO modify_VVI map_NN1 2_MC to_TO take_VVI into_II account_NN1 map_NN1 1_MC1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT example_NN1 in_II lecture_NN1 notes_NN2 ,_, the_AT modified_JJ map_NN1 is_VBZ lac_FW ,_, pro_NN1 ,_, TL_NP1 ,_, met_VVD ,_, and_CC gal_NN1 (_( Fig._NN1 3_MC )_) ._. 
+</s>
+<s>
+On_II this_DD1 map_NN1 ,_, the_AT pro_NN1 and_CC lac_FW genes_NN2 are_VBR closer_JJR to_II the_AT origin_NN1 than_CSN the_AT TL_NP1 gene_NN1 ,_, so_CS we_PPIS2 can_VM use_VVI the_AT TL+_FO data_NN to_TO determine_VVI the_AT distances_NN2 between_II pro-TL_JJ and_CC TL-lac_FW (_( but_CCB not_XX with_IW gal_NN1 or_CC met_VVN since_CS you_PPY can_VM only_RR determine_VVI map_NN1 distances_NN2 between_II markers_NN2 and_CC genes_NN2 that_CST enter_VV0 the_AT F-cell_NN1 before_II them_PPHO2 )_) ._. 
+</s>
+<s>
+Based_VVN on_II the_AT TL+_FO data_NN ,_, pro_JJ and_CC TL_NP1 are_VBR 37.2_MC map_NN1 units_NN2 apart_RL and_CC lac_FW and_CC TL_NP1 are_VBR 60.5_MC map_NN1 units_NN2 apart_RL ._. 
+</s>
+<s>
+From_II this_DD1 we_PPIS2 infer_VV0 that_CST lac_FW and_CC pro_NN1 are_VBR 23.3_MC map_NN1 units_NN2 apart_RL ._. 
+</s>
+<s>
+However_RR ,_, looking_VVG at_II colonies_NN2 selected_VVN for_IF lac+_FO out_II21 of_II22 the_AT pro+_FO colonies_NN2 ,_, the_AT calculated_JJ map_NN1 distance_NN1 is_VBZ 23.9_MC map_NN1 units_NN2 ._. 
+</s>
+<s>
+Since_II calculating_VVG small_JJ distances_NN2 is_VBZ more_RGR accurate_JJ ,_, we_PPIS2 conclude_VV0 that_CST the_AT map_NN1 distance_NN1 between_II lac_FW and_CC TL_NP1 is_VBZ 61.1_MC map_NN1 units_NN2 (_( Fig._NN1 3_MC )_) ._. 
+</s>
+<s>
+Once_RR21 again_RR22 ,_, we_PPIS2 can_56 not_56 calculate_VVI any_DD distances_NN2 involving_VVG met_VVN or_CC gal_NN1 since_CS they_PPHS2 are_VBR farther_JJR from_II the_AT origin_NN1 than_CSN both_RR of_IO the_AT markers_NN2 we_PPIS2 selected_VVD for_IF ._. 
+</s>
+<s>
+The_AT slight_JJ discrepancy_NN1 in_II the_AT results_NN2 could_VM be_VBI due_II21 to_II22 scoring_VVG error_NN1 ,_, plating_NN1 error_NN1 ,_, or_CC other_JJ random_JJ error_NN1 we_PPIS2 have_VH0 no_AT control_NN1 over_II (_( such_II21 as_II22 bacteria_NN2 that_CST does_VDZ not_XX grow_VVI as_RG well_RR as_CSA it_PPH1 should_VM or_CC bacteria_NN2 that_CST spontaneously_RR mutate_VV0 to_TO grow_VVI when_RRQ it_PPH1 should_VM not_XX )_) ._. 
+</s>
+<s>
+To_TO compensate_VVI for_IF the_AT scoring_NN1 error_NN1 ,_, we_PPIS2 could_VM dilute_VVI our_APPGE bacteria_NN2 by_II another_DD1 factor_NN1 of_IO 10_MC ,_, but_CCB this_DD1 would_VM probably_RR make_VVI the_AT resulting_JJ data_NN pool_NN1 too_RG small_JJ ._. 
+</s>
+<s>
+A_AT1 better_JJR alternative_NN1 would_VM be_VBI to_TO repeat_VVI the_AT experiment_NN1 several_DA2 times_NNT2 and_CC then_RT calculate_VV0 the_AT genetic_JJ distances_NN2 using_VVG a_AT1 large_JJ pool_NN1 of_IO data_NN ._. 
+</s>
+<s>
+We_PPIS2 studied_VVD conjugation_NN1 in_II bacteria_NN2 and_CC the_AT gradient_NN1 of_IO transmission_NN1 method_NN1 to_TO map_VVI five_MC genes_NN2 on_II an_AT1 F_ZZ1 factor_NN1 ._. 
+</s>
+<s>
+We_PPIS2 determined_VVD that_CST with_II31 respect_II32 to_II33 the_AT point_NN1 of_IO origin_NN1 ,_, the_AT genes_NN2 are_VBR in_II the_AT order_NN1 :_: lac_FW ,_, pro_NN1 ,_, TL_NP1 ,_, met_VVD ,_, and_CC gal_NN1 ,_, and_CC that_CST the_AT relative_JJ map_NN1 distance_NN1 between_II lac_FW and_CC pro_NN1 is_VBZ 23.9_MC map_NN1 units_NN2 ,_, between_II lac_FW and_CC TL_NP1 is_VBZ 61.1_MC map_NN1 units_NN2 ,_, and_CC between_II pro_NN1 and_CC TL_NP1 is_VBZ 37.2_MC map_NN1 units_NN2 ._. 
+</s>

@@ -1,0 +1,111 @@
+<s>
+I_PPIS1 live_VV0 in_II a_AT1 loosely_RR arranged_VVN cooperative_JJ house_NN1 of_IO seven_MC people_NN ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 formal_JJ arrangements_NN2 for_IF sharing_VVG chores_NN2 ,_, costs_NN2 ,_, and_CC cooking_NN1 ,_, but_CCB the_AT individual_JJ act_NN1 of_IO dishwashing_VVG is_VBZ harder_JJR to_II police_NN2 and_CC thus_RR is_VBZ not_XX formally_RR shared_VVN ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT dishwashing_JJ machine_NN1 ,_, and_CC the_AT dish_NN1 policy_NN1 is_VBZ that_CST no_PN121 one_PN122 is_VBZ to_TO leave_VVI dirty_JJ dishes_NN2 in_II the_AT sink_NN1 ._. 
+</s>
+<s>
+If_CS one_PN1 accepts_VVZ that_CST the_AT welfare_NN1 of_IO house_NN1 residents_NN2 is_VBZ affected_VVN by_II the_AT state_NN1 of_IO the_AT sink_NN1 --_NN1 a_AT1 dirty_JJ sink_NN1 may_VM be_VBI smelly_JJ ,_, unhealthy_JJ ,_, and_CC in_II the_AT extreme_JJ ,_, unusable_JJ --_NN1 then_RT the_AT dishes_NN2 at_II this_DD1 house_NN1 met_VVD the_AT criteria_NN2 for_IF a_AT1 collective_JJ action_NN1 problem_NN1 (_( CAP_NN1 )_) :_: each_DD1 of_IO the_AT residents_NN2 has_VHZ a_AT1 binary_JJ choice_NN1 about_II washing_VVG the_AT dishes_NN2 in_II the_AT sink_NN1 ,_, is_VBZ inclined_JJ not_XX to_TO do_VDI so_RR ,_, and_CC these_DD2 choices_NN2 affect_VV0 other_JJ residents_NN2 of_IO the_AT house_NN1 ._. 
+</s>
+<s>
+To_TO define_VVI the_AT system_NN1 ,_, the_AT binary_JJ choice_NN1 occurs_VVZ after_II a_AT1 resident_NN1 has_VHZ used_VVN dishes_NN2 and_CC is_VBZ left_VVN with_IW the_AT choice_NN1 of_IO either_RR washing_VVG them_PPHO2 ,_, as_II31 well_II32 as_II33 any_DD dishes_NN2 previously_RR left_VVN in_II the_AT sink_NN1 (_( cooperate_VV0 )_) ,_, or_CC leaving_VVG the_AT new_JJ dishes_NN2 in_II the_AT sink_NN1 (_( defect_NN1 )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ assumed_VVN that_CST making_VVG this_DD1 choice_NN1 ,_, the_AT benefits_NN2 of_IO cooperation_NN1 are_VBR a_AT1 clean_JJ sink_NN1 and_CC peer_VV0 approval_NN1 ,_, while_CS the_AT cost_NN1 is_VBZ time_NNT1 of_IO labor_NN1 (_( the_AT opposite_NN1 holds_VVZ true_JJ for_IF defection_NN1 )_) ._. 
+</s>
+<s>
+In_II practice_NN1 ,_, there_EX are_VBR clearly_RR degrees_NN2 of_IO cooperation_NN1 ,_, but_CCB modeling_VVG the_AT choice_NN1 as_CSA binary_NN1 does_VDZ not_XX mask_VVI the_AT central_JJ phenomena_NN2 ._. 
+</s>
+<s>
+The_AT knowledge_NN1 of_IO other_JJ residents_58 '_97 choices_NN2 presents_VVZ a_AT1 complication_NN1 ;_; in_II practice_NN1 ,_, residents_NN2 are_VBR between_II the_AT extremes_NN2 of_IO no_AT knowledge_NN1 and_CC full_JJ knowledge_NN1 of_IO who_PNQS has_VHZ generated_VVN which_DDQ dishes_NN2 ._. 
+</s>
+<s>
+Even_RR with_IW partial_JJ knowledge_NN1 of_IO others_58 '_97 actions_NN2 ,_, the_AT externality_NN1 of_IO approbation_NN1 or_CC disapproval_NN1 by_II other_JJ members_NN2 of_IO the_AT house_NN1 is_VBZ a_AT1 factor_NN1 in_II decision-making_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, we_PPIS2 note_VV0 that_CST complete_JJ non-cooperation_NN1 is_VBZ not_XX possible_JJ :_: were_VBDR everyone_PN1 to_TO defect_VVI ,_, the_AT sink_NN1 would_VM be_VBI full_JJ and_CC unusable_JJ ;_; residents_NN2 would_VM have_VHI to_TO starve_VVI or_CC shift_VVI to_II eating_VVG out_RP all_DB the_AT time_NNT1 ,_, which_DDQ would_VM quickly_RR bring_VVI pocketbooks_NN2 to_II starvation_NN1 ._. 
+</s>
+<s>
+This_DD1 impossibility_NN1 of_IO complete_JJ defection_NN1 is_VBZ one_MC1 of_IO the_AT main_JJ ways_NN2 that_CST this_DD1 CAP_NN1 differs_VVZ from_II many_DA2 others_NN2 (_( e.g._REX ,_, those_DD2 in_II Schelling_NP1 and_CC the_AT class_NN1 GACC_NN1 simulation_NN1 )_) ._. 
+</s>
+<s>
+Our_APPGE class_NN1 simulation_NN1 presented_VVD each_DD1 small_JJ country_NN1 with_IW identical_JJ costs_NN2 ;_; different_JJ cost_NN1 functions_NN2 are_VBR expected_VVN in_II real_JJ scenarios_NN2 ._. 
+</s>
+<s>
+Indeed_RR ,_, in_II the_AT dishwashing_JJ system_NN1 ,_, each_DD1 resident_NN1 has_VHZ a_AT1 different_JJ tolerance_NN1 for_IF dirty_JJ sinks_NN2 ,_, different_JJ reactions_NN2 to_TO peer_VVI pressure_NN1 ,_, and_CC different_JJ demands_NN2 on_II their_APPGE time_NNT1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, last_MD year_NNT1 there_EX was_VBDZ a_AT1 brazen_JJ opportunist_NN1 in_II the_AT house_NN1 ;_; she_PPHS1 rarely_RR did_VDD dishes_NN2 ,_, presumably_RR due_II21 to_II22 a_AT1 high_JJ tolerance_NN1 for_IF mess_NN1 (_( corroborated_VVN by_II the_AT state_NN1 of_IO her_APPGE room_NN1 )_) and_CC peer_VV0 disapproval_NN1 ._. 
+</s>
+<s>
+Unlike_II the_AT GACC_NN1 simulation_NN1 ,_, in_II a_AT1 cooperative_JJ house_NN1 there_EX are_VBR other_JJ means_NN to_TO influence_VVI residents_NN2 ;_; however_RR ,_, as_CSA pointed_VVN out_RP in_II class_NN1 ,_, threatening_VVG not_XX to_TO do_VDI other_JJ chores_NN2 or_CC behaving_VVG in_II a_AT1 surly_JJ fashion_NN1 (_( the_AT equivalent_NN1 of_IO the_AT economic_JJ sanctions_NN2 we_PPIS2 longed_VVD for_IF in_II the_AT GACC_NN1 simulation_NN1 )_) ,_, would_VM have_VHI repercussions_NN2 in_II other_JJ aspects_NN2 of_IO the_AT actors_58 '_97 relationships_NN2 and_CC thus_RR are_VBR not_XX to_TO be_VBI undertaken_VVN lightly_RR ._. 
+</s>
+<s>
+Like_II the_AT GACC_NN1 simulation_NN1 ,_, the_AT threat_NN1 of_IO withdrawing_VVG cooperation_NN1 does_VDZ not_XX hold_VVI much_DA1 sway_NN1 with_IW the_AT opportunists_NN2 who_PNQS are_VBR already_RR willing_JJ to_TO defect_VVI ._. 
+</s>
+<s>
+Schematic_JJ (_( and_CC debatable_JJ )_) curves_NN2 for_IF the_AT benefit_NN1 to_II actors_NN2 versus_II the_AT fraction_NN1 cooperating_VVG are_VBR shown_VVN for_IF the_AT cases_NN2 of_IO full_JJ knowledge_NN1 of_IO others_58 '_97 decisions_NN2 (_( Figure_NN1 1_MC1 )_) and_CC for_IF no_AT knowledge_NN1 (_( Figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+In_II practice_NN1 ,_, the_AT house_NN1 moves_VVZ between_II these_DD2 extremes_NN2 ,_, with_IW more_DAR knowledge_NN1 during_II the_AT school_NN1 months_NNT2 and_CC less_DAR knowledge_NN1 during_II summer_NNT1 ,_, when_CS residents_58 '_97 schedules_NN2 are_VBR more_RGR dissimilar_JJ ._. 
+</s>
+<s>
+In_II both_DB2 cases_NN2 ,_, the_AT benefits_NN2 at_II n=0_FO are_VBR shown_VVN approaching_VVG negative_JJ and_CC positive_JJ infinity_NN1 ,_, for_IF the_AT reason_NN1 that_CST complete_JJ defection_NN1 is_VBZ impossible_JJ ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO full_JJ knowledge_NN1 of_IO the_AT other_JJ actors_NN2 (_( Figure_NN1 1_MC1 )_) ,_, the_AT cooperation_NN1 curve_NN1 is_VBZ shown_VVN curving_VVG upward_RL ,_, for_IF those_DD2 who_PNQS cooperate_VV0 at_II small_JJ n_ZZ1 are_VBR shouldering_VVG the_AT burden_NN1 for_IF the_AT rest_NN1 and_CC are_VBR appreciated_VVN by_II their_APPGE peers_NN2 ._. 
+</s>
+<s>
+At_RR21 large_RR22 n_ZZ1 ,_, cooperators_NN2 receive_VV0 approbation_NN1 ,_, and_CC defectors_NN2 are_VBR tolerated_VVN but_CCB not_XX approved_VVN ._. 
+</s>
+<s>
+Nonetheless_RR ,_, defectors_NN2 receive_VV0 the_AT benefit_NN1 of_IO saving_VVG time_NNT1 by_II not_XX washing_VVG ._. 
+</s>
+<s>
+Two_MC equilibria_NN2 are_VBR seen_VVN ;_; point_VV0 A_ZZ1 is_VBZ the_AT unhappy_JJ situation_NN1 in_II which_DDQ most_RRT defect_VV0 ;_; point_VV0 C_ZZ1 is_VBZ the_AT equilibrium_NN1 at_II which_DDQ most_DAT do_VD0 their_APPGE dishes_NN2 ,_, and_CC only_RR a_AT1 few_DA2 are_VBR free_JJ riders_NN2 ._. 
+</s>
+<s>
+Point_VV0 B_ZZ1 is_VBZ the_AT collective_JJ absolute_JJ maximum_NN1 ,_, in_II which_DDQ the_AT group_NN1 benefits_NN2 from_II efficient_JJ dishwashing_NN1 that_CST is_VBZ done_VDN in_II batches_NN2 by_II a_AT1 subset_NN1 of_IO the_AT group_NN1 ._. 
+</s>
+<s>
+Point_VV0 D_ZZ1 is_VBZ the_AT non-superior_JJ maximum_NN1 in_II which_DDQ all_DB cooperate_VV0 and_CC none_PN are_VBR chided_VVN for_IF defection_NN1 ._. 
+</s>
+<s>
+With_IW no_AT knowledge_NN1 of_IO others_58 '_97 actions_NN2 (_( Figure_NN1 2_MC )_) ,_, the_AT system_NN1 is_VBZ almost_RR a_AT1 multi-actor_JJ prisoner_NN1 's_GE dilemma_NN1 :_: it_PPH1 is_VBZ always_RR preferable_JJ to_TO defect_VVI -- provided_CS the_AT system_NN1 is_VBZ to_II the_AT right_NN1 of_IO the_AT crossover_NN1 where_CS few_DA2 cooperate_VV0 ._. 
+</s>
+<s>
+The_AT defection_NN1 curve_NN1 is_VBZ shown_VVN leveling_VVG off_RP ,_, for_IF the_AT benefits_NN2 of_IO a_AT1 clean_JJ sink_NN1 are_VBR similar_JJ to_II those_DD2 of_IO a_AT1 sink_NN1 with_IW a_AT1 few_DA2 dishes_NN2 ,_, and_CC there_EX are_VBR no_AT externalities_NN2 created_VVN by_II peer_NN1 pressure_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, there_EX are_VBR is_VBZ one_MC1 equilibrium_NN1 (_( point_NN1 E_ZZ1 )_) ;_; again_RT ,_, the_AT absolute_JJ maximum_NN1 (_( point_NN1 F_ZZ1 )_) occurs_VVZ due_II21 to_II22 efficient_JJ ,_, batch_NN1 dishwashing_VVG ._. 
+</s>
+<s>
+Empirical_JJ observations_NN2 suggest_VV0 that_CST during_II the_AT summer_NNT1 months_NNT2 ,_, when_CS dissimilar_JJ schedules_NN2 meant_VVD less_DAR knowledge_NN1 of_IO others_58 '_97 decisions_NN2 and_CC thus_RR less_DAR peer_NN1 pressure_NN1 ,_, the_AT sink_NN1 was_VBDZ often_RR so_RG full_JJ as_CSA to_TO be_VBI nearly_RR unusable_JJ (_( point_NN1 E_ZZ1 in_II Figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+Occasional_JJ reminders_NN2 would_VM increase_VVI the_AT number_NN1 of_IO cooperators_NN2 ,_, but_CCB the_AT system_NN1 generally_RR would_VM not_XX stay_VVI at_II the_AT social_JJ optimum_JJ (_( point_NN1 F_ZZ1 )_) ._. 
+</s>
+<s>
+Schelling_NP1 (_( p._NNU 230_MC )_) points_VVZ out_RP that_CST keeping_VVG the_AT system_NN1 at_II a_AT1 non-equilibrium_JJ maximum_NN1 would_VM require_VVI imposition_NN1 of_IO order_NN1 by_II the_AT organization_NN1 ,_, which_DDQ the_AT house_NN1 lacks_VVZ during_II the_AT summer_NNT1 ._. 
+</s>
+<s>
+Based_VVN on_II this_DD1 analysis_NN1 ,_, a_AT1 formal_JJ system_NN1 of_IO dishwashing_VVG (_( e.g._REX ,_, assigned_VVN days_NNT2 )_) during_II the_AT summer_NNT1 might_VM be_VBI more_RGR effective_JJ due_II21 to_II22 its_APPGE enforceability_NN1 ._. 
+</s>
+<s>
+During_II the_AT school_NN1 year_NNT1 ,_, the_AT house_NN1 more_RGR closely_RR resembles_VVZ Figure_NN1 1_MC1 ,_, and_CC we_PPIS2 are_VBR most_RGT often_RR at_II point_NN1 D_ZZ1 ,_, with_IW total_JJ cooperation_NN1 ._. 
+</s>
+<s>
+This_DD1 cooperation_NN1 is_VBZ achieved_VVN through_II the_AT peer_NN1 pressure_NN1 that_CST is_VBZ unavailable_JJ during_II the_AT summer_NNT1 months_NNT2 ._. 
+</s>
+<s>
+Although_CS the_AT collective_JJ maximum_NN1 (_( point_NN1 B_ZZ1 )_) would_VM be_VBI preferable_JJ ,_, this_DD1 point_NN1 is_VBZ likely_JJ unachievable_JJ :_: it_PPH1 would_VM require_VVI enforcing_VVG equitable_JJ non-cooperation_NN1 ._. 
+</s>
+<s>
+As_CSA was_VBDZ seen_VVN in_II the_AT GACC_NN1 simulation_NN1 ,_, while_CS rotating_VVG defection_NN1 may_VM improve_VVI overall_JJ welfare_NN1 ,_, its_APPGE implementation_NN1 proved_VVD to_TO be_VBI a_AT1 stumbling_NN1 block_NN1 ._. 
+</s>
+<s>
+With_IW no_AT real_JJ recourse_NN1 to_TO enforce_VVI the_AT rotation_NN1 and_CC punish_VVI violations_NN2 ,_, the_AT system_NN1 would_VM likely_RR slide_VVI back_RP to_II the_AT inferior_JJ equilibrium_NN1 at_II point_NN1 A._NP1 Thus_RR ,_, this_DD1 analysis_NN1 suggests_VVZ that_CST point_VV0 D_ZZ1 is_VBZ good_JJ goal_NN1 ,_, for_IF non-attainment_NN1 would_VM leave_VVI the_AT system_NN1 at_II the_AT equilibrium_NN1 at_II point_NN1 C_ZZ1 ,_, which_DDQ is_VBZ also_RR a_AT1 generally_RR acceptable_JJ state_NN1 ._. 
+</s>

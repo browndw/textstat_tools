@@ -1,0 +1,219 @@
+<s>
+How_RGQ multipotent_JJ early_JJ embryonic_JJ cells_NN2 differentiate_VV0 into_II endodermal_JJ lineage_NN1 remains_VVZ elusive_JJ ._. 
+</s>
+<s>
+Although_CS a_AT1 group_NN1 of_IO transcription_NN1 factors_NN2 are_VBR implicated_VVN in_II endoderm_NN1 development_NN1 ,_, how_RRQ they_PPHS2 work_VV0 together_RL to_TO induce_VVI endoderm_NN1 differentiation_NN1 is_VBZ largely_RR unknown_JJ ._. 
+</s>
+<s>
+In_II zebrafish_NN1 ,_, Spg_NP1 ,_, a_AT1 POU_NN1 domain_NN1 transcription_NN1 factor_NN1 ,_, acts_VVZ with_IW Cas_NP2 ,_, a_AT1 prospective_JJ endodermal_JJ HMG_NP1 domain_NN1 transcription_NN1 factor_NN1 induced_VVN by_II Nodal_NP1 (_( TGF-beta_NN1 superfamily_RR )_) signaling_VVG ,_, to_TO activate_VVI endoderm_NN1 development_NN1 through_II activation_NN1 of_IO endoderm_NN1 specific_JJ genes_NN2 such_II21 as_II22 sox17_NN1 (_( Reim_NP1 et_RA21 al._RA22 ,_, 2004_MC )_) ._. 
+</s>
+<s>
+In_II mice_NN2 ,_, chimeric_JJ study_NN1 showed_VVD that_CST Smad2-mediated_JJ TGF-beta_JJ signaling_NN1 (_( Tremblay_NP1 et_RA21 al._RA22 ,_, 2000_MC )_) and_CC Sox17_NP1 (_( Kanai-Azuma_NP1 et_RA21 al._RA22 ,_, 2002_MC )_) are_VBR also_RR required_VVN for_IF the_AT initial_JJ specification_NN1 of_IO the_AT endoderm_NN1 ._. 
+</s>
+<s>
+Oct4_FO ,_, mice_NN2 orthology_NN1 of_IO zebrafish_NN1 spg_NNU ,_, controls_NN2 lineage_VV0 commitment_NN1 in_II a_AT1 dose-dependent_JJ manner_NN1 :_: an_AT1 increase_NN1 in_II expression_NN1 causes_VVZ differentiation_NN1 into_II primitive_JJ endoderm_NN1 and_CC mesoderm_NN1 ,_, while_CS downregulation_NN1 induces_VVZ dedifferentiation_NN1 to_TO trophectoderm_VVI (_( Niwa_NP1 et_RA21 al._RA22 ,_, 2000_MC )_) ._. 
+</s>
+<s>
+POU_NP1 and_CC SOX_NN2 (_( SRY-related_JJ HMG_NP1 )_) transcription_NN1 factors_NN2 have_VH0 been_VBN suggested_VVN to_TO exemplify_VVI their_APPGE functional_JJ partnership_NN1 through_II combinational_JJ binding_NN1 onto_II Sox-Oct_NPM1 enhancer_NN1 element_NN1 (_( Remenyi_NP1 et_RA21 al._RA22 ,_, 2003_MC )_) ._. 
+</s>
+<s>
+Whether_CSW there_EX exits_VVZ a_AT1 functional_JJ cas_NN2 homolog_VV0 in_II mice_NN2 that_CST acts_VVZ with_IW Oct4_FO to_TO induce_VVI endoderm_NN1 differentiation_NN1 awaits_VVZ investigation_NN1 ._. 
+</s>
+<s>
+Research_NN1 in_II our_APPGE lab_NN1 using_VVG ES_NP1 cell_NN1 line_NN1 stably_RR transfected_VVD with_IW nkx2.5_NNU (_( cardiac-specific_JJ transcription_NN1 factor_NN1 )_) promoter:GFP_FO reporter_NN1 construct_VV0 and_CC sox17_NN1 (_( endoderm_VV0 specific_JJ transcription_NN1 factor_NN1 )_) promoter:CFP_FO reporter_NN1 construct_NN1 showed_VVD that_CST upon_II Nodal_JJ treatment_NN1 ,_, Oct4_FO mRNA_NN1 and_CC protein_NN1 expression_NN1 levels_NN2 are_VBR transiently_RR upregulated_VVN (_( 24hr_NNU and_CC 48_MC hr_NNU but_CCB not_XX after_II )_) ;_; Sox7_FO mRNA_NN1 level_NN1 can_VM hardly_RR be_VBI detected_VVN before_II Nodal_JJ induction_NN1 ,_, but_CCB started_VVD to_TO express_VVI at_II 24hr_NNU till_II 96hr_NNU post_II Nodal_JJ treatment_NN1 ;_; Expression_NN1 of_IO both_DB2 reporter_NN1 genes_NN2 can_VM be_VBI observed_VVN in_II a_AT1 portion_NN1 (_( 20%_VV0 each_DD1 )_) of_IO the_AT differentiated_JJ ES_NP1 cells(96hr)_FO ._. 
+</s>
+<s>
+In_II an_AT1 attempt_NN1 to_TO identify_VVI transcription_NN1 factors_NN2 that_CST play_VV0 essential_JJ role_NN1 in_II endoderm_NN1 formation_NN1 ,_, we_PPIS2 initiated_VVD an_AT1 siRNA_NN1 screening_NN1 using_VVG a_AT1 series_NN of_IO short_JJ interfering_JJ RNA_NN1 expression_NN1 vectors_NN2 targeted_VVN to_II various_JJ transcription_NN1 factors_NN2 and_CC transfected_VVN them_PPHO2 into_II the_AT ES_NP1 cell_NN1 line_NN1 ._. 
+</s>
+<s>
+Among_II the_AT transcription_NN1 factors_NN2 tested_VVD ,_, Sox7_FO siRNA_NN1 suppressed_VVD the_AT sox17:CFP_FO expression_NN1 without_IW significantly_RR affecting_VVG nkx2.5:GFP_FO expression_NN1 ._. 
+</s>
+<s>
+Immunostaining_NN1 of_IO the_AT ES_NP1 cells_NN2 upon_II Nodal_JJ treatment_NN1 (_( 24_NN1 and_CC 48hr_NNU )_) showed_VVD that_CST Sox7_FO colocalize_VV0 in_II the_AT nuclei_NN2 of_IO a_AT1 portion_NN1 of_IO the_AT ES_NP1 cells_NN2 with_IW Oct4_FO staining_VVG ._. 
+</s>
+<s>
+Immunostaining_NN1 of_IO the_AT mice_NN2 blastocyst_VV0 section_NN1 further_RRR confimed_VVD that_CST Sox7_FO colocalizes_VVZ in_II the_AT nuclei_NN2 of_IO a_AT1 portion_NN1 of_IO the_AT cells_NN2 expressing_VVG Oct4_FO in_II the_AT ICM_NP1 ._. 
+</s>
+<s>
+Coimmunoprecipitation_NN1 experiments_NN2 performed_VVN in_II Nodal_NP1 induced_VVD ES_NP1 cells(48hr)_FO suggests_VVZ that_CST Oct4_FO and_CC Sox7_FO associate_VV0 in_II the_AT same_DA complex_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT clue_NN1 from_II the_AT zebrafish_NN1 cas-spg_NN1 system_NN1 and_CC our_APPGE preliminary_JJ data_NN in_II mice_NN2 ,_, we_PPIS2 hypothesize_VV0 that_CST Sox7_FO acts_VVZ with_IW Oct4_FO to_TO induce_VVI endoderm_NN1 differentiation_NN1 in_II mice_NN2 early_RR embryonic_JJ development_NN1 ._. 
+</s>
+<s>
+To_TO test_VVI the_AT hypothesis_NN1 ,_, we_PPIS2 propose_VV0 the_AT following_JJ specific_JJ aims_NN2 :_: Oct4_FO protein_NN1 is_VBZ abundant_JJ in_II the_AT ICM_NP1 of_IO early_JJ blastocysts_NN2 and_CC downregulated_VVD in_II trophectoderm_NN1 ,_, while_CS even_RR more_RGR highly_RR expressed_VVN in_II nascent_JJ primitive_JJ endoderm_NN1 (_( Palmieri_NP1 et_RA21 al._RA22 ,_, 1994_MC )_) ._. 
+</s>
+<s>
+Our_APPGE preliminary_JJ data_NN suggested_VVD that_CST Nodal_NP1 induced_VVD mesoendoderm_NN1 differentiation_NN1 correlated_VVN with_IW Oct4_FO upregulation_NN1 ._. 
+</s>
+<s>
+And_CC siRNA_NN1 knowdown_NN1 of_IO sox7_FO repressed_VVD the_AT endodermal_JJ fate_NN1 ,_, suggesting_VVG that_CST Sox7_FO is_VBZ necessary_JJ in_II this_DD1 lineage_NN1 specification_NN1 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ not_XX clear_JJ whether_CSW Oct4_FO upregulation_NN1 is_VBZ required_VVN for_IF endoderm_NN1 differentiation_NN1 or_CC merely_RR for_IF mesoderm_NN1 differentiation_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, it_PPH1 is_VBZ not_XX clear_JJ whether_CSW loss_NN1 of_IO Sox7_FO affects_VVZ endodermal_JJ specification_NN1 in_RR21 vivo_RR22 ._. 
+</s>
+<s>
+To_TO test_VVI if_CSW transient_JJ Oct4_FO upregulation_NN1 is_VBZ required_VVN for_IF endoderm_NN1 differentiation_NN1 ,_, siRNA_NN1 or_CC antisense_VV0 cDNA_NN1 mediated_VVD Oct4_FO knockdown_NN1 will_VM be_VBI performed_VVN in_II Nodal_NP1 induced_VVD ES_NP1 cells_NN2 expressing_VVG nkx2.5_FO promoter:GFP_FO and_CC sox17_FO promoter:CFP_FO ._. 
+</s>
+<s>
+Knockdown_NN1 efficiency_NN1 will_VM be_VBI verified_VVN by_II qPCR_NNU and_CC Western_JJ blotting_NN1 ._. 
+</s>
+<s>
+Empty_JJ vector_NN1 transfected_VVD cells_NN2 will_VM serve_VVI as_II control_NN1 ._. 
+</s>
+<s>
+GFP_NP1 and_CC CFP_NP1 signals_NN2 will_VM be_VBI monitored_VVN by_II fluorescent_JJ microscopy_NN1 and_CC quantified_VVN by_II flow_NN1 cytometry_NN1 ._. 
+</s>
+<s>
+Other_JJ markers_NN2 for_IF endoderm_NN1 and_CC mesoderm_VV0 specific_JJ genes_NN2 will_VM also_RR be_VBI tested_VVN by_II qPCR_NNU ._. 
+</s>
+<s>
+To_TO examine_VVI if_CSW loss_NN1 of_IO Sox7_FO affects_VVZ endodermal_JJ specification_NN1 in_RR21 vivo_RR22 ,_, we_PPIS2 will_VM generate_VVI sox7-/-ES_FU cells_NN2 carrying_VVG reporter_NN1 transgene_NN1 sox17_FO promoter:CFP_FO and_CC inject_VV0 it_PPH1 into_II blastocyst_NN1 to_TO create_VVI chimera_NN1 mice_NN2 ._. 
+</s>
+<s>
+Wildtype_VV0 ES_NP1 cells_NN2 with_IW the_AT same_DA reporter_NN1 gene_NN1 will_VM serve_VVI as_CSA control_NN1 ._. 
+</s>
+<s>
+Oct4_FO knockdown_NN1 level_NN1 should_VM be_VBI adjusted_VVN so_CS21 that_CS22 there_EX will_VM be_VBI similar_JJ level_NN1 of_IO Oct4_FO expression_NN1 as_CSA is_VBZ before_II Nodal_JJ induction_NN1 ._. 
+</s>
+<s>
+Loss_NN1 of_IO nkx2.5:GFP_FO expression_NN1 will_VM also_RR serve_VVI as_II control_NN1 ,_, since_CS transcient_JJ Oct4_FO upregulation_NN1 has_VHZ been_VBN suggested_VVN to_TO be_VBI required_VVN for_IF cardiac_JJ gene_NN1 expression_NN1 ._. 
+</s>
+<s>
+If_CS sox17:CFP_FO expression_NN1 is_VBZ also_RR repressed_JJ ,_, it_PPH1 suggested_VVD that_CST transcient_JJ Oct4_FO upregulation_NN1 is_VBZ required_VVN for_IF endoderm_NN1 specific_JJ gene_NN1 expression_NN1 ._. 
+</s>
+<s>
+However_RR ,_, if_CS the_AT expression_NN1 of_IO reporter_NN1 gene_NN1 is_VBZ not_XX downregulated_VVN ,_, it_PPH1 suggests_VVZ that_CST sox17_FO is_VBZ regulated_VVN through_II another_DD1 pathway_NN1 independent_NN1 of_IO Oct4_FO ._. 
+</s>
+<s>
+We_PPIS2 will_VM further_RRR look_VVI at_II expression_NN1 of_IO other_JJ endoderm_NN1 markers_NN2 to_TO see_VVI if_CSW they_PPHS2 are_VBR related_VVN to_II transcient_JJ Oct4_FO upregulation_NN1 ._. 
+</s>
+<s>
+If_CS none_PN of_IO them_PPHO2 are_VBR affected_VVN ,_, it_PPH1 suggests_VVZ that_CST that_DD1 transcient_JJ Oct4_FO upregulation_NN1 is_VBZ not_XX required_VVN for_IF endoderm_NN1 specification_NN1 ._. 
+</s>
+<s>
+If_CS some_DD of_IO the_AT markers_NN2 are_VBR even_RR upregulated_VVN ,_, it_PPH1 is_VBZ also_RR interesting_JJ ,_, suggesting_VVG that_CST Oct4_FO plays_VVZ a_AT1 role_NN1 in_II differentiating_JJ mesoderm_NN1 and_CC endoderm_NN1 ._. 
+</s>
+<s>
+For_IF the_AT sox7-/-/sox17:CFP_NN1 donor_NN1 and_CC sox7+/+_FU recipient_NN1 chimera_NN1 mice_NN2 ,_, we_PPIS2 expect_VV0 to_TO see_VVI the_AT loss_NN1 of_IO sox17:CFP_FO reporter_NN1 expression_NN1 and_CC loss_NN1 of_IO endoderm_NN1 germ_NN1 layer_NN1 compared_VVN with_IW the_AT control_NN1 ,_, suggesting_VVG Sox7_FO is_VBZ required_VVN for_IF endoderm_NN1 specific_JJ gene_NN1 expression_NN1 and_CC endoderm_VV0 formation_NN1 ._. 
+</s>
+<s>
+If_CS the_AT sox17:CFP_FO reporter_NN1 expression_NN1 is_VBZ too_RG low_JJ in_II the_AT wildtype_NN1 control_NN1 ,_, we_PPIS2 will_VM alternatively_RR use_VVI siRNA_NN1 of_IO sox7_FO to_TO inject_VVI into_II blastocysts_NN2 and_CC reimplant_VVI into_II pseudopregnant_JJ mice_NN2 to_TO see_VVI if_CSW endoderm_NN1 development_NN1 will_VM be_VBI affected_VVN ._. 
+</s>
+<s>
+If_CS we_PPIS2 can_VM also_RR observe_VVI GFP_NP1 expressing_VVG in_II the_AT sox7-/-doner_JJ chimera_NN1 mice_NN2 ,_, it_PPH1 suggests_VVZ that_CST sox17_FO can_VM be_VBI activated_VVN through_II other_JJ pathways_NN2 in_RR21 vivo_RR22 ,_, probably_RR independent_JJ of_IO Nodal_JJ signaling_NN1 ._. 
+</s>
+<s>
+We_PPIS2 may_VM further_RRR test_VVI this_DD1 possibility_NN1 by_II using_VVG Nodal_JJ antagonists_NN2 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN suggested_VVN that_DD1 misexpressiong_NN1 of_IO cas_NN2 can_VM ectopically_RR elicit_VVI endoderm_NN1 differentiation_NN1 in_II an_AT1 spg_NNU background_NN1 but_CCB can_56 not_56 do_VDI so_RR without_IW spg_NNU ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI interesting_JJ to_TO test_VVI whether_CSW ectopic_JJ expression_NN1 or_CC forced_JJ overexpression_NN1 of_IO Sox7_FO will_VM induce_VVI endoderm_NN1 specification_NN1 and_CC whether_CSW that_DD1 is_VBZ Oct4_FO dependent_JJ ._. 
+</s>
+<s>
+To_TO test_VVI if_CSW upregulation_NN1 of_IO Sox7_FO with_IW Oct4_FO can_VM induce_VVI endoderm_NN1 specific_JJ gene_NN1 expression_NN1 ,_, we_PPIS2 will_VM use_VVI Tetracyline(Tc)_NP1 inducible_JJ transgene_NN1 of_IO Sox7_FO ._. 
+</s>
+<s>
+We_PPIS2 will_VM withdraw_VVI Tc_NP1 upon_II Nodal_JJ induction_NN1 to_TO co-activate_VVI Sox7_FO expression_NN1 ._. 
+</s>
+<s>
+Non_FU Nodal_JJ treated_JJ cells_NN2 and_CC non_FU Tc_NP1 withdrawn_VVN cells_NN2 will_VM serve_VVI as_II control_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT function_NN1 of_IO a_AT1 given_JJ transcription_NN1 factor_NN1 might_VM be_VBI dose-dependent_JJ ,_, the_AT Sox7_FO transgene_NN1 expressing_VVG level_NN1 in_II non_FU Nodal_NP1 induced_VVD Tc_NP1 withdrawn_VVN cells_NN2 be_VBI adjusted_VVN comparable_JJ to_II the_AT Sox7_FO expression_NN1 level_NN1 in_II Nodal_NP1 induced_VVD non_FU Tc_NP1 withdrawn_VVN cells_NN2 ._. 
+</s>
+<s>
+Then_RT the_AT same_DA condition_NN1 of_IO Tc_NP1 withdrawn_VVN will_VM be_VBI applied_VVN to_II Nodal_NP1 induced_VVD cells_NN2 and_CC see_VV0 if_CS Sox7_FO transgenic_JJ cells_NN2 show_VV0 higher_JJR level_NN1 of_IO sox17:GFP_FO reporter_NN1 gene_NN1 expression_NN1 compared_VVN with_IW the_AT non_FU Tc_NP1 withdrawn_VVN cells_NN2 ._. 
+</s>
+<s>
+If_CS sox7_FO transgene_NN1 upregulation_NN1 and_CC Nodal_JJ induction_NN1 promotes_VVZ endoderm_NN1 specific_JJ gene_NN1 expression_NN1 compared_VVN with_IW Nodal_JJ induction_NN1 alone_RR ,_, it_PPH1 suggests_VVZ that_CST Sox7_FO and_CC Oct4_FO are_VBR sufficient_JJ for_IF endoderm_NN1 specification_NN1 ._. 
+</s>
+<s>
+If_CS sox7_FO transgene_NN1 upregulation_NN1 alone_RR ,_, without_IW Nodal_JJ induction_NN1 can_VM drive_VVI endoderm_NN1 specific_JJ gene_NN1 expression_NN1 ,_, it_PPH1 suggested_VVD that_CST sox7_FO acts_VVZ downstream_RL or_CC independent_JJ of_IO Oct4_FO for_IF endoderm_NN1 specification_NN1 ._. 
+</s>
+<s>
+To_II further_JJR test_NN1 if_CS Sox7_FO can_VM induce_VVI endoderm_NN1 formation_NN1 in_RR21 vivo_RR22 ,_, ES_NP1 cells_NN2 overexpressing_VVG Sox7_FO will_VM be_VBI transplanted_VVN into_II mice_NN2 ICM_NP1 or_CC trophectoderm_NN1 and_CC do_VD0 lineage_VVI tracing_NN1 of_IO the_AT transplanted_JJ cells_NN2 to_TO see_VVI if_CSW they_PPHS2 can_VM ectopically_RR express_VVI endoderm_NN1 marker_NN1 ._. 
+</s>
+<s>
+In_II zebrafish_NN1 ,_, Spg_NP1 and_CC Cas_NP2 has_VHZ been_VBN shown_VVN to_TO be_VBI able_JK to_TO synergistically_RR activate_VVI sox17_FO promoter_NN1 ._. 
+</s>
+<s>
+Immunostaining_NN1 of_IO the_AT mice_NN2 ES_NP1 cells_NN2 and_CC blastocyst_VV0 suggested_JJ colocalization_NN1 of_IO Oct4_FO and_CC Sox7_FO ._. 
+</s>
+<s>
+Coimmunoprecipitation_NN1 experiments_NN2 suggests_VVZ that_CST Oct4_FO and_CC Sox7_FO associate_VV0 in_II the_AT same_DA complex_NN1 in_RR21 vivo_RR22 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ not_XX clear_JJ whether_CSW these_DD2 two_MC proteins_NN2 interact_VV0 through_II direct_JJ binding_JJ ,_, if_CS they_PPHS2 form_VV0 a_AT1 complex_JJ that_CST binds_VVZ DNA_NN1 and_CC whether_CSW sox17_FO promoter_NN1 is_VBZ one_MC1 of_IO their_APPGE shared_JJ target_NN1 ._. 
+</s>
+<s>
+GST-pull_JJ down_NN1 will_VM be_VBI performed_VVN using_VVG purified_JJ GST-Oct4_NN1 and_CC HA-Sox7_JJ to_TO test_VVI they_PPHS2 can_VM interact_VVI directly_RR in_RR21 vitro_RR22 ._. 
+</s>
+<s>
+EMSA_NP1 assay_NN1 using_VVG Myc-Oct4_JJ and_CC HA-Sox7_JJ affinity_NN1 purified_VVD from_II transfected_JJ cell_NN1 culture_NN1 will_VM be_VBI performed_VVN to_TO test_VVI if_CSW they_PPHS2 can_VM cause_VVI the_AT mobility_NN1 shift_NN1 of_IO the_AT DNA_NN1 containing_VVG Octamer_NN1 and_CC Sox_NN2 elements_NN2 ._. 
+</s>
+<s>
+The_AT specificity_NN1 of_IO the_AT binding_NN1 will_VM be_VBI confirmed_VVN by_II supershift_NN1 analyses_VVZ with_IW anti-Myc_JJ and_CC anti-HA_UH antibodies_NN2 ._. 
+</s>
+<s>
+Chromatin_NN1 immunoprecipitation_NN1 assay_NN1 using_VVG Oct4_FO and_CC Sox7_FO antibody_NN1 in_II ES_NP1 cells_NN2 48hr_NNU after_II Nodal_JJ treatment_NN1 will_VM be_VBI performed_VVN to_TO see_VVI if_CSW they_PPHS2 co-occupy_VV0 the_AT endoderm_NN1 specific_JJ gene_NN1 promoter_NN1 such_II21 as_II22 sox17_FO ._. 
+</s>
+<s>
+If_CS GST-Oct4_NN1 can_VM pull_VVI down_RP HA-Sox7_NN1 ,_, it_PPH1 suggested_VVD direct_JJ interaction_NN1 between_II the_AT two_MC proteins_NN2 ._. 
+</s>
+<s>
+Further_JJR mutation_NN1 of_IO the_AT POU_NN1 and_CC HMG_NP1 domain_NN1 will_VM test_VVI whether_CSW the_AT interaction_NN1 is_VBZ via_II these_DD2 domains_NN2 ._. 
+</s>
+<s>
+If_CS we_PPIS2 observe_VV0 mobility_NN1 shift_VV0 in_II Myc-Oct4_NN1 and_CC HA-Sox7_NN1 ,_, it_PPH1 suggests_VVZ the_AT binding_NN1 of_IO the_AT two_MC factors_NN2 to_II DNA_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM further_RRR mutate_VVI the_AT consensus_NN1 Oct_NPM1 or_CC Sox_NN2 binding_VVG site_NN1 to_TO see_VVI if_CSW it_PPH1 will_VM restore_VVI the_AT mobility_NN1 shift_NN1 ._. 
+</s>
+<s>
+If_CS the_AT purified_JJ protein_NN1 can_56 not_56 cause_VVI the_AT mobility_NN1 shift_VV0 ,_, it_PPH1 is_VBZ possible_JJ that_CST the_AT binding_NN1 requires_VVZ other_JJ partners_NN2 ._. 
+</s>
+<s>
+To_TO test_VVI this_DD1 we_PPIS2 will_VM add_VVI ES_NP1 cell_NN1 lysates_NN2 and_CC see_VVI if_CSW it_PPH1 helps_VVZ in_II the_AT mobility_NN1 shift_NN1 ._. 
+</s>
+<s>
+To_II better_JJR test_NN1 the_AT binding_NN1 of_IO the_AT two_MC factors_NN2 to_II DNA_NN1 in_RR21 vivo_RR22 ,_, ChIP_NN1 assay_NN1 will_VM be_VBI performed_VVN to_TO test_VVI if_CSW they_PPHS2 co-occupy_VV0 the_AT endogenous_JJ gene_NN1 promoter_NN1 ._. 
+</s>
+<s>
+Sox17_FO promoter_NN1 and_CC other_JJ known_JJ endoderm_NN1 specific_JJ gene_NN1 promoters_NN2 will_VM be_VBI candidate_NN1 target_NN1 DNA_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, ChIP_NN1 on_II Chip_NN1 analysis_NN1 will_VM be_VBI performed_VVN in_II Nodal_NP1 induced_VVD ES_NP1 cells_NN2 and_CC see_VV0 how_RRQ the_AT two_MC transcription_NN1 factors_NN2 localize_VV0 to_II the_AT genomic_JJ region_NN1 ._. 
+</s>
+<s>
+Our_APPGE preliminary_JJ data_NN suggests_VVZ that_CST Oct4_FO is_VBZ transiently_RR upregulated_VVN and_CC then_RT turned_VVD down_RP during_II mesoendoderm_NN1 differentiation_NN1 ,_, while_CS Sox7_FO is_VBZ turned_VVN on_RP ._. 
+</s>
+<s>
+Although_CS in_II zebrafish_NN1 ,_, Spg_NP1 and_CC Cas_NP2 seem_VV0 to_TO cooperate_VVI in_II activation_NN1 of_IO sox17_FO expression_NN1 ,_, it_PPH1 is_VBZ unclear_JJ if_CS in_II mice_NN2 early_RR embryonic_JJ development_NN1 ,_, these_DD2 two_MC factors_NN2 cooperate_VV0 with_IW each_PPX221 other_PPX222 in_II transcriptional_JJ activation_NN1 of_IO endoderm_NN1 specific_JJ gene_NN1 expression_NN1 ,_, or_CC one_PN1 may_VM repress_VVI the_AT activity_NN1 or_CC expression_NN1 of_IO another_DD1 ._. 
+</s>
+<s>
+Co-transfect_VV0 oct4_FO and/or_CC sox7_FO with_IW sox17_FO promoter_NN1 driven_JJ luciferase_NN1 reporter_NN1 DNA_NN1 into_II mice_NN2 ES_NP1 cells_NN2 to_TO see_VVI if_CSW they_PPHS2 can_VM synergistically_RR activate_VVI the_AT endoderm_NN1 specific_JJ gene_NN1 promoter_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, test_VV0 the_AT luciferase_NN1 reporter_NN1 activitity_NN1 using_VVG Oct4_FO and_CC Sox7_FO promoter_NN1 ._. 
+</s>
+<s>
+If_CS both_DB2 Sox7_FO and_CC Oct4_FO are_VBR required_VVN to_TO activate_VVI sox17:GFP_FO expression_NN1 ,_, it_PPH1 suggests_VVZ that_CST these_DD2 two_MC factors_NN2 act_VV0 synergistically_RR ._. 
+</s>
+<s>
+If_CS Sox7_FO alone_RR activates_VVZ sox17:GFP_FO expression_NN1 ,_, which_DDQ will_VM be_VBI repressed_VVN with_IW Oct4_FO co-expressed_VVN ,_, it_PPH1 suggests_VVZ that_CST Oct4_FO acts_VVZ as_II an_AT1 co-repressor_NN1 for_IF the_AT endoderm_NN1 specific_JJ gene_NN1 expression_NN1 ._. 
+</s>
+<s>
+Further_JJR experiment_NN1 using_VVG ChIP_NN1 assay_NN1 to_TO test_VVI Sox7_FO or_CC Oct4_FO localization_NN1 on_II the_AT endogenous_JJ sox17_FO promoter_NN1 may_VM be_VBI performed_VVN at_II different_JJ time_NNT1 points_VVZ to_TO test_VVI if_CS Oct4_FO recruits_VVZ Sox7_FO to_II the_AT target_NN1 promoter_NN1 but_CCB later_RRR on_RP gets_VVZ off_II the_AT promoter_NN1 ,_, which_DDQ allows_VVZ target_NN1 gene_NN1 activation_NN1 by_II Sox7_FO ._. 
+</s>
+<s>
+Also_RR ,_, testing_VVG the_AT Sox7_FO and_CC Oct4_FO transcriptional_JJ activity_NN1 on_II Oct4_FO and_CC Sox7_FO promoter_NN1 will_VM allow_VVI us_PPIO2 to_TO investigate_VVI the_AT possible_JJ feedback_NN1 loop_NN1 between_II the_AT two_MC factors_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ our_APPGE belief_NN1 that_CST investigating_VVG the_AT conserved_JJ role_NN1 of_IO zebrafish_NN1 cas-spg_NN1 system_NN1 in_II mice_NN2 will_VM not_XX only_RR give_VVI insight_NN1 into_II the_AT evolution_NN1 of_IO early_JJ embryonic_JJ development_NN1 but_CCB also_RR have_VH0 therapeutic_JJ implication_NN1 as_II21 to_II22 coax_NN1 stem_NN1 cells_NN2 to_TO form_VVI endodermal_JJ tissue_NN1 ,_, a_AT1 likely_JJ prerequisite_NN1 to_II forming_VVG endodermal_JJ organs_NN2 de_NP1 novo_NN1 ._. 
+</s>

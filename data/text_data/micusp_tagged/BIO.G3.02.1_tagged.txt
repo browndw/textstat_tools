@@ -1,0 +1,1614 @@
+<s>
+At_II root_NN1 ,_, every_AT1 hypothesis_NN1 is_VBZ a_AT1 claim_NN1 about_II the_AT relevance_NN1 of_IO particular_JJ scales_NN2 ._. 
+</s>
+<s>
+If_CS the_AT hypothesis_NN1 is_VBZ parsimonious_JJ ,_, and_CC if_CS the_AT phenomenon_NN1 it_PPH1 attempts_VVZ to_TO explain_VVI is_VBZ simple_JJ ,_, most_DAT scales_NN2 are_VBR irrelevant_JJ ._. 
+</s>
+<s>
+The_AT classic_JJ SIR_NN1 model_NN1 (_( Kermack_NP1 and_CC McKendrick_NP1 1927_MC )_) is_VBZ impressive_JJ because_CS it_PPH1 captures_VVZ the_AT dynamics_NN of_IO many_DA2 infectious_JJ diseases_NN2 with_IW just_RR a_AT1 few_DA2 interactions_NN2 ._. 
+</s>
+<s>
+Hosts_NN2 are_VBR well-mixed_JJ particles_NN2 in_II three_MC possible_JJ compartments_NN2 whose_DDQGE contact_NN1 rates_NN2 vary_VV0 as_RG simple_JJ linear_JJ or_CC nonlinear_JJ functions_NN2 of_IO their_APPGE populations_NN2 ._. 
+</s>
+<s>
+The_AT model_NN1 omits_VVZ processes_NN2 on_II other_JJ temporal_JJ scales_NN2 ,_, such_II21 as_II22 feedback_NN1 with_IW the_AT physical_JJ environment_NN1 and_CC evolution_NN1 by_II the_AT pathogen_NN1 and_CC the_AT host_NN1 ._. 
+</s>
+<s>
+It_PPH1 also_RR omits_VVZ spatial_JJ scales_NN2 ,_, such_II21 as_II22 competition_NN1 among_II pathogens_NN2 within_II a_AT1 host_NN1 and_CC differences_NN2 in_II contact_NN1 rates_NN2 due_II21 to_II22 population_NN1 structure_NN1 ._. 
+</s>
+<s>
+These_DD2 assumptions_NN2 work_VV0 well_RR for_IF particular_JJ systems_NN2 (_( e.g._REX ,_, Grenfell_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1992_MC )_) ,_, cf._VV0 Swinton_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1998_MC )_) )_) ,_, and_CC are_VBR the_AT foundation_NN1 of_IO other_JJ popular_JJ models_NN2 in_II ecology_NN1 (_( e.g._REX ,_, Volterra_NP1 (_( 1926_MC )_) )_) ._. 
+</s>
+<s>
+By_II nature_NN1 of_IO their_APPGE simplicity_NN1 ,_, all_DB their_APPGE potential_JJ behaviors_NN2 can_VM be_VBI predicted_VVN analytically_RR ._. 
+</s>
+<s>
+However_RR ,_, many_DA2 interesting_JJ phenomena_NN2 are_VBR not_XX well_RR explained_VVN by_II these_DD2 assumptions_NN2 ._. 
+</s>
+<s>
+Mean-field_JJ models_NN2 can_VM poorly_RR approximate_VVI sexually_RR transmitted_JJ diseases_NN2 (_( Eames_NP1 and_CC Keeling_NP1 2002_MC )_) and_CC mechanisms_NN2 of_IO disease_NN1 emergence_NN1 ,_, which_DDQ may_VM depend_VVI on_II the_AT effects_NN2 of_IO superspreaders_NN2 (_( Lloyd-Smith_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+In_II other_JJ systems_NN2 ,_, endogenous_JJ dynamics_NN are_VBR strongly_RR affected_VVN by_II extrinsic_JJ climatic_JJ forcing_NN1 (_( Koelle_NP1 and_CC Pascual_NP1 2004_MC )_) or_CC interactions_NN2 with_IW other_JJ populations_NN2 (_( LoGiudice_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC ;_; Jensen_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ._. 
+</s>
+<s>
+In_II fast-evolving_JJ RNA_NN1 viruses_NN2 ,_, such_II21 as_II22 HIV_NP1 ,_, strong_JJ selection_NN1 within_II individual_JJ hosts_NN2 and_CC the_AT timing_NN1 of_IO transmission_NN1 may_VM affect_VVI the_AT frequency_NN1 of_IO CTL_NP1 escape_NN1 and_CC CXCR4_FO mutants_NN2 in_II the_AT host_NN1 population_NN1 (_( Rambaut_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+Local_JJ interactions_NN2 ,_, biotic_JJ and_CC abiotic_JJ extrinsic_JJ drivers_NN2 ,_, and_CC rapid_JJ evolution_NN1 are_VBR examples_NN2 of_IO spatial_JJ ,_, organizational_JJ ,_, or_CC temporal_JJ scales_NN2 that_CST crucially_RR augment_VV0 or_CC replace_VV0 the_AT null_JJ dynamical_JJ model_NN1 (_( Pascual_NP1 2005_MC )_) ._. 
+</s>
+<s>
+Often_RR these_DD2 complexities_NN2 can_VM be_VBI incorporated_VVN into_II standard_JJ models_NN2 by_II adding_VVG parameters_NN2 ,_, such_II21 as_II22 modified_JJ mixing_NN1 terms_NN2 (_( Roy_NP1 and_CC Pascual_NP1 2006_MC )_) ._. 
+</s>
+<s>
+If_CS the_AT modifications_NN2 do_VD0 not_XX produce_VVI the_AT observed_JJ behavior_NN1 ,_, they_PPHS2 may_VM need_VVI to_TO be_VBI replaced_VVN by_II a_AT1 more_RGR accurate_JJ description_NN1 of_IO the_AT underlying_JJ process_NN1 ,_, e.g._REX ,_, a_AT1 contact_NN1 network_NN1 or_CC agent-based_JJ simulation_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT goals_NN2 in_II researching_VVG these_DD2 systems_NN2 is_VBZ "_" to_TO address_VVI the_AT importance_NN1 of_IO variability_NN1 at_II small_JJ ,_, local_JJ scales_NN2 to_II the_AT dynamics_NN of_IO aggregated_JJ quantities_NN2 measured_VVD at_RR21 large_RR22 ,_, global_JJ scales_NN2 ._. 
+</s>
+<s>
+If_CS small-scale_JJ 'details_58 '_97 matter_NN1 ,_, we_PPIS2 need_VV0 to_TO ask_VVI how_RGQ much_DA1 complexity_NN1 we_PPIS2 need_VV0 to_TO incorporate_VVI into_II large-scale_JJ models_NN2 if_CS we_PPIS2 seek_VV0 to_II both_DB2 understand_VV0 and_CC predict_VV0 the_AT dynamics_NN of_IO global_JJ quantities_NN2 "_" (_( Pascual_NP1 2005_MC )_) ._. 
+</s>
+<s>
+I_PPIS1 would_VM add_VVI that_CST these_DD2 details_NN2 do_VD0 not_XX have_VHI to_TO be_VBI small_JJ ,_, since_CS we_PPIS2 are_VBR not_XX always_RR studying_VVG "_" global_JJ "_" quantities_NN2 ._. 
+</s>
+<s>
+We_PPIS2 may_VM also_RR ask_VVI whether_CSW patterns_NN2 are_VBR shaped_VVN by_II extrinsic_JJ factors_NN2 or_CC dynamics_NN --_NN1 perhaps_RR it_PPH1 matters_VVZ that_CST the_AT system_NN1 is_VBZ open_JJ ._. 
+</s>
+<s>
+The_AT best_JJT hypotheses_NN2 of_IO complex_JJ systems_NN2 remain_VV0 parsimonious_JJ while_CS appealing_VVG to_II processes_NN2 occurring_VVG on_II other_JJ spatial_JJ ,_, temporal_JJ ,_, or_CC organizational_JJ scales_NN2 to_TO describe_VVI a_AT1 pattern_NN1 ._. 
+</s>
+<s>
+They_PPHS2 are_VBR consequently_RR challenging_VVG to_TO evaluate_VVI ,_, since_CS there_EX are_VBR so_RG many_DA2 possible_JJ processes_NN2 (_( and_CC thus_RR competing_JJ hypotheses_NN2 )_) to_TO choose_VVI from_II ._. 
+</s>
+<s>
+I_PPIS1 would_VM like_VVI to_TO use_VVI this_DD1 framework_NN1 to_TO determine_VVI what_DDQ does_VDZ and_CC does_VDZ not_XX regulate_VVI the_AT diversity_NN1 of_IO a_AT1 common_JJ but_CCB poorly_RR understood_VVN disease_NN1 ,_, influenza_NN1 ._. 
+</s>
+<s>
+I_PPIS1 define_VV0 diversity_NN1 as_II the_AT variation_NN1 in_II genotype_NN1 and_CC phenotype_NN1 at_II any_DD one_MC1 time_NNT1 and_CC how_RRQ this_DD1 variation_NN1 changes_NN2 over_II time_NNT1 :_: It_PPH1 encapsulates_VVZ a_AT1 broad_JJ set_NN1 of_IO ecological_JJ and_CC evolutionary_JJ patterns_NN2 resulting_VVG from_II the_AT interaction_NN1 of_IO few_DA2 or_CC many_DA2 scales_NN2 ._. 
+</s>
+<s>
+I_PPIS1 follow_VV0 the_AT lead_NN1 of_IO recent_JJ exceptional_JJ models_NN2 that_CST have_VH0 relaxed_VVN common_JJ assumptions_NN2 about_II which_DDQ scales_NN2 are_VBR relevant_JJ and_CC thereby_RR made_VVN contributions_NN2 to_II our_APPGE understanding_NN1 of_IO flu_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ section_NN1 presents_VVZ biological_JJ context_NN1 --_NN1 that_REX21 is_REX22 ,_, the_AT mechanisms_NN2 I_PPIS1 suspect_VV0 underpin_VV0 broad_JJ patterns_NN2 in_II flu_NN1 diversity_NN1 --_NN1 for_IF the_AT research_NN1 questions_NN2 that_CST follow_VV0 ._. 
+</s>
+<s>
+The_AT genome_NN1 of_IO influenza_NN1 A_ZZ1 consists_VVZ of_IO eight_MC RNA_NN1 segments_NN2 ,_, each_DD1 850_MC to_II 2300_MC bases_NN2 long_JJ ,_, which_DDQ code_VV0 for_IF 10_MC proteins_NN2 (_( Table_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Two_MC of_IO these_DD2 proteins_NN2 ,_, hemagglutinin_NN1 (_( HA_UH )_) and_CC neuraminidase_NN1 (_( NA_FW )_) are_VBR abundant_JJ on_II the_AT virus_NN1 's_GE surface_NN1 ,_, with_IW approximately_RR 4_MC HA_UH for_IF every_AT1 NA_FW ._. 
+</s>
+<s>
+There_EX are_VBR sixteen_MC forms_NN2 of_IO HA_UH and_CC nine_MC forms_NN2 of_IO NA_FW ._. 
+</s>
+<s>
+Combinations_NN2 of_IO HA_UH and_CC NA_FU form_NN1 subtypes_NN2 ,_, e.g._REX ,_, H3N2_FO ._. 
+</s>
+<s>
+Amino_NN1 acid_NN1 sequences_NN2 of_IO HA_UH differ_VV0 up_RG21 to_RG22 20%_NNU within_II subtypes_NN2 and_CC 30-70%_FO between_II them_PPHO2 (_( Skehel_NP1 and_CC Wiley_NP1 2000_MC )_) ._. 
+</s>
+<s>
+Hemagglutinin_NN1 and_CC neuraminidase_NN1 are_VBR the_AT primary_JJ determinants_NN2 of_IO antigenicity_NN1 ._. 
+</s>
+<s>
+Antibody-binding_JJ sites_NN2 of_IO some_DD subtypes_NN2 of_IO HA_UH and_CC NA_FW have_VH0 been_VBN described_VVN by_II X-ray_NN1 crystallography_NN1 and_CC electron_NN1 micrographs_NN2 of_IO monoclonal_JJ antibody_NN1 escape_NN1 mutants_NN2 (_( Bizebard_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1995_MC ;_; Fleury_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1999_MC ;_; Knossow_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+These_DD2 sites_NN2 are_VBR grouped_VVN into_II antibody-binding_JJ regions_NN2 ,_, or_CC epitopes_NN2 ,_, on_II the_AT globular_JJ head_NN1 of_IO hemagglutinin_NN1 (_( HA1_FO )_) ._. 
+</s>
+<s>
+HA1_FO of_IO the_AT H3N2_FO subtype_VV0 infecting_VVG humans_NN2 has_VHZ four_MC or_CC five_MC epitopes_NN2 ,_, labeled_VVD A-E_FU (_( Figure_NN1 1a_FO )_) (_( epitope_VV0 D_ZZ1 may_VM only_RR be_VBI recognized_VVN by_II murine_JJ antibodies_NN2 (_( Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) )_) ._. 
+</s>
+<s>
+HA1_FO of_IO the_AT H1N1_FO subtype_NN1 has_VHZ four_MC or_CC five_MC recognized_JJ epitopes_NN2 (_( Caton_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1982_MC )_) (_( Gerhard_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1981_MC )_) ,_, and_CC the_AT N2_FO NA_FO has_VHZ at_RR21 least_RR22 two_MC (_( Gulati_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+Different_JJ subtypes_NN2 of_IO HA1_FO can_VM have_VHI the_AT same_DA epitopes_NN2 (_( Smirnov_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1999_MC )_) ._. 
+</s>
+<s>
+Antibodies_NN2 neutralize_VV0 influenza_NN1 viruses_NN2 through_II steric_JJ inhibition_NN1 of_IO receptor_NN1 binding_VVG or_CC membrane_NN1 fusion_NN1 ,_, rather_II21 than_II22 inducing_VVG conformational_JJ change_NN1 in_II HA_UH ._. 
+</s>
+<s>
+The_AT receptor-binding_JJ site_NN1 is_VBZ a_AT1 highly_RR conserved_JJ pocket_NN1 at_II the_AT top_NN1 of_IO the_AT HA1_FO (_( in_II H3N2_FO ,_, the_AT site_NN1 falls_VVZ near_II epitopes_NN2 A_ZZ1 and_CC B_ZZ1 )_) and_CC shows_VVZ little_DA1 variation_NN1 among_II subtypes_NN2 (_( Skehel_NP1 and_CC Wiley_NP1 2000_MC )_) ._. 
+</s>
+<s>
+Antibodies_NN2 can_VM neutralize_VVI viruses_NN2 by_II blocking_VVG the_AT receptor-binding_JJ site_NN1 directly_RR (_( Bizebard_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1995_MC )_) or_CC by_II binding_VVG to_II an_AT1 epitope_NN1 some_DD distance_NN1 away_RL (_( Fleury_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1999_MC )_) (_( Figure_NN1 1b_FO )_) ;_; the_AT latter_DA mechanism_NN1 can_VM block_VVI receptor_NN1 binding_VVG or_CC interfere_VV0 with_IW membrane_NN1 fusion_NN1 ._. 
+</s>
+<s>
+Antibodies_NN2 to_II the_AT same_DA epitope_NN1 can_VM compete_VVI or_CC interact_VVI synergistically_RR in_II neutralization_NN1 (_( Brown_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1990_MC ;_; Sanna_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ._. 
+</s>
+<s>
+Antibody_NN1 affinity_NN1 is_VBZ positively_RR but_CCB loosely_RR correlated_VVN with_IW neutralization_NN1 ability_NN1 (_( Kostolansky_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ._. 
+</s>
+<s>
+One_MC1 study_NN1 found_VVD that_CST on_II average_NN1 one_MC1 quarter_NN1 of_IO the_AT hemagglutinins_NN2 on_II the_AT viral_JJ surface_NN1 had_VHD to_TO be_VBI neutralized_VVN to_TO prevent_VVI infection_NN1 (_( Knossow_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+The_AT three_MC neutralizing_NN1 antibodies_NN2 they_PPHS2 investigated_VVD all_DB interfered_VVN with_IW receptor_NN1 binding_VVG rather_II21 than_II22 membrane_NN1 fusion_NN1 ._. 
+</s>
+<s>
+Neutralization_NN1 kinetics_NN1 have_VH0 been_VBN described_VVN as_CSA log-linear_JJ or_CC pseudo-first-order_NN1 (_( reviewed_VVN in_II Frank_NP1 (_( 2002_MC )_) )_) ._. 
+</s>
+<s>
+Hosts_NN2 resist_VV0 infection_NN1 through_II humoral_JJ immunity_NN1 ,_, cellular_JJ immunity_NN1 ,_, and_CC serum_NN1 inhibitors_NN2 ._. 
+</s>
+<s>
+The_AT contribution_NN1 of_IO each_DD1 kind_NN1 of_IO immunity_NN1 is_VBZ a_AT1 very_RG active_JJ area_NN1 of_IO research_NN1 ,_, and_CC contributions_NN2 differ_VV0 among_II host_NN1 species_NN ._. 
+</s>
+<s>
+Humoral_JJ immunity_NN1 is_VBZ the_AT basis_NN1 of_IO permanent_JJ strain-specific_JJ immunity_NN1 and_CC some_DD cross-immunity_NN1 within_II subtypes_NN2 in_II mammals_NN2 ;_; it_PPH1 also_RR may_VM play_VVI a_AT1 role_NN1 in_II heterosubtypic_JJ immunity_NN1 ._. 
+</s>
+<s>
+The_AT specificity_NN1 of_IO antibodies_NN2 is_VBZ gauged_VVN by_II the_AT ability_NN1 of_IO sera_FW to_TO inhibit_VVI hemagglutination_NN1 by_II viruses_NN2 of_IO a_AT1 particular_JJ strain_NN1 ._. 
+</s>
+<s>
+Most_DAT antibodies_NN2 in_II sera_FW of_IO infected_JJ or_CC vaccinated_VVD humans_NN2 target_VV0 HA1_FO (_( Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ,_, though_CS some_DD individuals_NN2 also_RR mount_VV0 responses_NN2 to_II NA_FU (_( Cox_NP1 and_CC Brokstad_NP1 1999_MC )_) ._. 
+</s>
+<s>
+All_DB mammals_NN2 investigated_VVN demonstrate_VV0 antibodies_NN2 to_II NP_NP1 (_( Deboer_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1990_MC ;_; Cox_NP1 and_CC Brokstad_NP1 1999_MC )_) ._. 
+</s>
+<s>
+Antibody_NN1 repertoire_NN1 can_VM be_VBI monoclonal_JJ (_( antibodies_NN2 to_II one_MC1 epitope_NN1 are_VBR present_JJ in_II antisera_NN1 )_) or_CC polyclonal_JJ (_( antibodies_NN2 to_II multiple_JJ epitopes_NN2 are_VBR present_JJ )_) ._. 
+</s>
+<s>
+Children_NN2 have_VH0 narrower_JJR antibody_NN1 repertoires_NN2 than_CSN adults_NN2 :_: 25_MC of_IO 27_MC children_NN2 under_II age_NN1 twelve_MC developed_JJ antibodies_NN2 to_II a_AT1 region_NN1 of_IO epitope_NN1 B_ZZ1 of_IO H3N2_FO HA1_FO ,_, and_CC six_MC showed_VVD antibodies_NN2 for_IF sites_NN2 A_ZZ1 or_CC C._NP1 In_II contrast_NN1 ,_, older_JJR subjects_NN2 had_VHD polyclonal_JJ responses_NN2 to_II epitopes_NN2 A_ZZ1 ,_, B_ZZ1 ,_, C_ZZ1 ,_, and_CC E_ZZ1 (_( Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+Cellular_JJ immunity_NN1 can_VM significantly_RR abrogate_VVI pathology_NN1 and_CC speed_VVI viral_JJ clearance_NN1 ,_, though_CS it_PPH1 appears_VVZ to_TO play_VVI a_AT1 lesser_JJ role_NN1 in_II preventing_VVG infection_NN1 (_( Liang_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1994_MC )_) and_CC review_VV0 in_II Thomas_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2006_MC )_) )_) ._. 
+</s>
+<s>
+T_ZZ1 cells_NN2 only_RR attack_VV0 presenting_VVG cells_NN2 ,_, and_CC thus_RR they_PPHS2 usually_RR lag_VV0 behind_II antibodies_NN2 in_II appearance_NN1 and_CC proliferation_NN1 during_II infection_NN1 ._. 
+</s>
+<s>
+Mice_NN2 challenged_VVN with_IW a_AT1 virus_NN1 containing_VVG the_AT internal_JJ proteins_NN2 of_IO human_NN1 H1N1_FO produce_VV0 CD8+_FO T_ZZ1 cells_NN2 specific_JJ to_II all_DB six_MC internal_JJ proteins_NN2 ,_, though_CS T_ZZ1 cells_NN2 specific_JJ to_II epitopes_NN2 on_II PA_NN1 and_CC NP_NP1 predominate_VV0 and_CC can_VM be_VBI detected_VVN 570_MC days_NNT2 after_II initial_JJ infection_NN1 ._. 
+</s>
+<s>
+Secondary_JJ responses_NN2 tend_VV0 to_TO be_VBI dominated_VVN by_II NP_NP1 (_( Belz_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC ;_; Marshall_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2001_MC )_) ._. 
+</s>
+<s>
+CD4+_FO T_ZZ1 cells_NN2 bolster_VV0 CD8+_FO and_CC B_ZZ1 cell_NN1 responses_NN2 and_CC appear_VV0 requisite_NN1 for_IF T_ZZ1 cell_NN1 memory_NN1 (_( Belz_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+Studies_NN2 of_IO humans_NN2 generally_RR can_56 not_56 separate_VVI the_AT effects_NN2 of_IO cellular_JJ immunity_NN1 from_II humoral_NN1 and_CC are_VBR unhelpful_JJ in_II gauging_VVG protection_NN1 conferred_VVN by_II the_AT former_DA ._. 
+</s>
+<s>
+They_PPHS2 do_VD0 ,_, however_RR ,_, confirm_VVI that_CST (_( 1_MC1 )_) there_EX is_VBZ no_AT evidence_NN1 that_CST cellular_JJ immunity_NN1 prevents_VVZ infection_NN1 ,_, except_CS possibly_RR when_CS exposures_NN2 are_VBR simultaneous_JJ ;_; and_CC (_( 2_MC )_) there_EX is_VBZ a_AT1 marked_JJ attenuation_NN1 of_IO symptoms_NN2 during_II secondary_JJ infections_NN2 ._. 
+</s>
+<s>
+One_MC1 small_JJ study_NN1 observed_VVD several_DA2 cases_NN2 of_IO rapid_JJ reinfections_NN2 with_IW heterologous_JJ subtypes_NN2 ,_, sometimes_RT within_II days_NNT2 of_IO clearance_NN1 of_IO the_AT first_MD subtype_NN1 ,_, and_CC the_AT secondary_JJ infection_NN1 was_VBDZ no_AT more_RGR likely_JJ to_TO be_VBI asymptomatic_JJ than_CSN the_AT first_MD (_( Frank_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1983_MC )_) ;_; in_II contrast_NN1 ,_, students_NN2 at_II high_JJ schools_NN2 experiencing_VVG concurrent_JJ epidemics_NN2 of_IO H3N2_FO and_CC H1N1_FO were_VBDR less_RGR likely_JJ to_TO suffer_VVI multiple_JJ infections_NN2 than_CSN students_NN2 at_II schools_NN2 with_IW sequential_JJ epidemics_NN2 (_( Sonoguchi_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1986_MC )_) ._. 
+</s>
+<s>
+Attenuation_NN1 of_IO symptoms_NN2 during_II secondary_JJ infections_NN2 has_VHZ also_RR been_VBN demonstrated_VVN during_II pandemics_NN1 of_IO H2N2_FO and_CC H3N2_FO (_( Sonoguchi_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1985_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, in_II both_DB2 cases_NN2 the_AT HA_UH of_IO the_AT pandemic_JJ strain_NN1 were_VBDR rapidly_RR evolving_VVG (_( Matrosovich_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ,_, and_CC similar_JJ patterns_NN2 are_VBR produced_VVN by_II antibody-mediated_JJ cross-immunity_NN1 (_( Gill_NP1 and_CC Murphy_NP1 1977_MC )_) ._. 
+</s>
+<s>
+Comparatively_RR little_DA1 is_VBZ known_VVN about_II the_AT immunologic_JJ effects_NN2 of_IO serum_NN1 inhibitors_NN2 ,_, which_DDQ can_VM select_VVI variants_NN2 with_IW altered_JJ receptor_NN1 binding_VVG sites_NN2 and_CC may_VM play_VVI a_AT1 role_NN1 in_II host_NN1 range_NN1 (_( Rogers_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1983_MC ;_; Matrosovich_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1998_MC )_) ._. 
+</s>
+<s>
+Influenza_NN1 viruses_NN2 evolve_VV0 by_II point_NN1 mutations_NN2 ,_, reassortment_NN1 of_IO whole_JJ gene_NN1 segments_NN2 ,_, and_CC rarely_RR by_II recombination_NN1 (_( Hirst_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Suarez_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+Point_NN1 mutations_NN2 are_VBR the_AT most_RGT frequent_JJ means_NN of_IO escaping_VVG immune_JJ surveillance_NN1 ,_, and_CC they_PPHS2 are_VBR also_RR a_AT1 means_NN to_TO modulate_VVI virulence_NN1 ,_, develop_VV0 drug_NN1 resistance_NN1 ,_, and_CC adapt_VV0 to_II new_JJ hosts_NN2 or_CC tissue_NN1 types_NN2 ._. 
+</s>
+<s>
+Monoclonal_JJ antibody_NN1 escape_NN1 mutants_NN2 arise_VV0 in_RR21 vitro_RR22 every_AT1 104_MC to_II 106_MC viruses_NN2 (_( Webster_NP1 and_CC Laver_VV0 1980_MC )_) ._. 
+</s>
+<s>
+They_PPHS2 avoid_VV0 recognition_NN1 by_II conformational_JJ changes_NN2 or_CC additional_JJ glycosylation_NN1 sites_NN2 that_CST block_NN1 antibody_NN1 binding_VVG ._. 
+</s>
+<s>
+Conformational_JJ changes_NN2 tend_VV0 to_TO affect_VVI only_RR the_AT local_JJ structure_NN1 within_II the_AT surrounding_JJ epitope_NN1 (_( Knossow_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1984_MC )_) ._. 
+</s>
+<s>
+Hemagglutinin_NN1 may_VM be_VBI particularly_RR tolerant_JJ of_IO such_DA changes_NN2 :_: epitope_VV0 A_ZZ1 mostly_RR consists_VVZ of_IO a_AT1 loop_NN1 extending_VVG from_II the_AT rest_NN1 of_IO the_AT molecule_NN1 ,_, and_CC epitopes_NN2 B_ZZ1 and_CC C_ZZ1 are_VBR bulges_NN2 (_( Wiley_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1981_MC )_) ._. 
+</s>
+<s>
+While_CS amino_NN1 acids_NN2 at_II certain_JJ positions_NN2 ,_, such_II21 as_II22 loops_NN2 ,_, will_VM have_VHI a_AT1 dramatically_RR greater_JJR influence_NN1 than_CSN others_NN2 on_II antibody_NN1 recognition_NN1 ,_, the_AT location_NN1 of_IO influential_JJ positions_NN2 can_VM change_VVI over_II time_NNT1 (_( Nakajima_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+As_II21 for_II22 other_JJ pathogens_NN2 ,_, tertiary_JJ protein_NN1 structure_NN1 greatly_RR complicates_VVZ predictions_NN2 of_IO the_AT locations_NN2 of_IO B_ZZ1 cell_NN1 epitopes_NN2 (_( Korber_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ._. 
+</s>
+<s>
+Influenza_NN1 viruses_NN2 can_VM also_RR escape_VVI immune_JJ surveillance_NN1 through_II the_AT addition_NN1 of_IO glycosylation_NN1 sites_NN2 (_( Asn-X-Thr/Ser_NP1 ,_, where_CS X_ZZ1 is_VBZ any_DD amino_NN1 acid_NN1 except_II proline_NN1 or_CC potentially_RR aspartic_JJ acid_NN1 (_( Gallagher_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1992_MC )_) )_) ._. 
+</s>
+<s>
+Host_VV0 cell_NN1 carbohydrates_NN2 binding_VVG to_II these_DD2 sites_NN2 form_VV0 a_AT1 glycan_NN1 shield_NN1 to_II antibodies_NN2 ._. 
+</s>
+<s>
+Glycosylation_NN1 is_VBZ the_AT major_JJ mechanism_NN1 of_IO antibody_NN1 escape_NN1 by_II HIV_NP1 (_( Wei_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC )_) and_CC predicts_VVZ the_AT strength_NN1 of_IO the_AT antibody_NN1 repertoire_NN1 mounted_VVN by_II Rhesus_NN1 monkeys_NN2 to_II SIV_NP1 (_( Reitter_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1998_MC )_) ._. 
+</s>
+<s>
+The_AT number_NN1 of_IO potential_JJ glycosylation_NN1 sites_NN2 on_II HA1_FO of_IO H3N2_FO has_VHZ increased_VVN from_II two_MC to_II six_MC or_CC seven_MC since_CS the_AT subtype_NN1 emerged_VVD in_II humans_NN2 (_( Abe_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+While_CS increased_JJ glycosylation_NN1 decreases_VVZ receptor_NN1 binding_JJ activity_NN1 in_RR21 vitro_RR22 ,_, it_PPH1 can_VM do_VDI so_RR without_IW negatively_RR affecting_VVG cell_NN1 fusion_NN1 ._. 
+</s>
+<s>
+Glycosylation_NN1 may_VM thus_RR be_VBI an_AT1 especially_RR rapid_JJ effecter_NN1 of_IO antigenic_JJ change_NN1 (_( Schulze_NP1 1997_MC )_) ,_, though_CS it_PPH1 is_VBZ not_XX well_RR tolerated_VVN by_II all_DB subtypes_NN2 of_IO HA_UH (_( Tsuchiya_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+The_AT accumulation_NN1 of_IO point_NN1 mutations_NN2 in_II31 response_II32 to_II33 immune_JJ pressure_NN1 has_VHZ previously_RR been_VBN called_VVN antigenic_JJ drift_NN1 ,_, and_CC it_PPH1 underlies_VVZ the_AT characteristic_JJ phylogeny_NN1 of_IO HA1_FO in_II human_JJ viruses_NN2 :_: genetic_JJ distance_NN1 steadily_RR increases_VVZ from_II the_AT founding_JJ strain_NN1 ,_, and_CC no_AT strain_NN1 persists_VVZ more_DAR than_CSN a_AT1 few_DA2 years_NNT2 (_( Figure_NN1 2a_FO )_) ._. 
+</s>
+<s>
+Recently_RR it_PPH1 has_VHZ been_VBN shown_VVN that_CST these_DD2 strains_NN2 in_II human_NN1 H3N2_FO form_VV0 antigenic_JJ clusters_NN2 defined_VVN by_II cross-reactivity_JJ patterns_NN2 (_( Figure_NN1 2b_FO )_) ._. 
+</s>
+<s>
+Only_RR one_MC1 cluster_NN1 appears_VVZ to_TO dominate_VVI at_II any_DD time_NNT1 (_( Smith_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+In_II contrast_NN1 to_II antigenic_JJ drift_NN1 ,_, antigenic_JJ shift_NN1 by_II reassortment_NN1 was_VBDZ once_RR thought_VVN to_TO be_VBI rare_JJ and_CC to_TO always_RR cause_VVI pandemics_NN2 (_( Webster_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1992_MC )_) ._. 
+</s>
+<s>
+There_EX is_VBZ growing_JJ evidence_NN1 that_CST reassortment_NN1 is_VBZ as_RG common_JJ in_II humans_NN2 (_( Lindstrom_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Holmes_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) as_CSA in_II other_JJ hosts_NN2 (_( Hatchette_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Webby_JJ et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+It_PPH1 may_VM lead_VVI to_II partial_JJ immune_JJ escape_NN1 by_II shuffling_NN1 combinations_NN2 of_IO HA_UH ,_, NA_UH ,_, and_CC other_JJ antigenic_JJ determinants_NN2 ._. 
+</s>
+<s>
+One_MC1 antigenic_JJ cluster_NN1 (_( FU02_FO )_) may_VM have_VHI arisen_VVN through_II reassortment_NN1 (_( Holmes_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ,_, potentially_RR without_IW antigenically_RR significant_JJ changes_NN2 in_II HA1_FO ._. 
+</s>
+<s>
+Unlike_JJ introductions_NN2 of_IO H1N1_FO ,_, H2N2_FO ,_, and_CC H3N2_FO into_II the_AT human_JJ population_NN1 ,_, the_AT emergence_NN1 of_IO the_AT H1N2_FO subtype_VV0 since_II 2001-2002_MCMC has_VHZ not_XX obviously_RR increased_VVN incidence_NN1 ._. 
+</s>
+<s>
+Influenza_NN1 is_VBZ highly_RR seasonal_JJ in_II temperate_JJ regions_NN2 ,_, with_IW a_AT1 four-month_JJ epidemic_NN1 period_NN1 in_II winter_NNT1 and_CC few_DA2 cases_NN2 in_II the_AT summer_NNT1 (_( Figure_NN1 3a_FO )_) (_( Cox_NP1 and_CC Subbarao_NP1 2000_MC )_) ._. 
+</s>
+<s>
+Incidence_NN1 shows_VVZ no_AT clear_JJ periodicity_NN1 in_II the_AT tropics_NN (_( Figure_NN1 3b_FO )_) (_( Chow_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC ;_; Viboud_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006a_FO )_) ._. 
+</s>
+<s>
+Pandemic_JJ and_CC interpandemic_JJ influenza_NN1 A_ZZ1 strains_NN2 circulate_VV0 globally_RR over_II short_JJ time_NNT1 periods_NN2 ._. 
+</s>
+<s>
+H3N2_FO outbreaks_NN2 have_VH0 especially_RR high_JJ spatial_JJ synchrony_NN1 (_( Greene_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC ;_; Viboud_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006b_FO )_) ,_, and_CC phylogenetic_JJ studies_NN2 of_IO strains_NN2 circulating_VVG in_II France_NP1 (_( Lavenu_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ,_, Japan_NP1 (_( Nakajima_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1991_MC )_) ,_, and_CC New_NP1 York_NP1 (_( Nelson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Submitted_VVN )_) demonstrate_VV0 that_CST multiple_JJ lineages_NN2 seed_VV0 annual_JJ epidemics_NN2 in_II each_DD1 community_NN1 ._. 
+</s>
+<s>
+Swabs_NN2 from_II air_NN1 travelers_NN2 support_VV0 the_AT hypothesis_NN1 that_CST there_EX is_VBZ interhemispheric_JJ transport_NN1 of_IO strains_NN2 throughout_II the_AT year_NNT1 (_( Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ._. 
+</s>
+<s>
+Incidence_NN1 is_VBZ usually_RR inferred_VVN from_II deaths_NN2 to_II pneumonia_NN1 and_CC influenza_NN1 ._. 
+</s>
+<s>
+Until_II recently_RR ,_, few_DA2 countries_NN2 tracked_VVD deaths_NN2 or_CC infections_NN2 by_II type_NN1 and_CC subtype_NN1 ._. 
+</s>
+<s>
+Observations_NN2 from_II WHO_NP1 collaborating_VVG labs_NN2 reporting_VVG to_II the_AT CDC_NP1 suggest_VV0 that_CST seasons_NNT2 dominated_VVN by_II H3N2_FO have_VH0 relatively_RR low_JJ incidence_NN1 of_IO H1N1_FO and_CC influenza_NN1 B_ZZ1 and_CC vice-versa_RR (_( Figure_NN1 3c_FO )_) (_( Thompson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC ;_; Greene_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ._. 
+</s>
+<s>
+Estimates_NN2 of_IO annual_JJ incidence_NN1 range_NN1 from_II 10-20%_FO in_II interpandemic_JJ years_NNT2 and_CC 40-50%_FO during_II pandemics_NN2 (_( Cox_NP1 and_CC Subbarao_NP1 2000_MC )_) ,_, but_CCB there_EX does_VDZ not_XX seem_VVI to_TO be_VBI much_DA1 confidence_NN1 in_II any_DD value_NN1 in_II the_AT flu_NN1 community_NN1 ._. 
+</s>
+<s>
+Contact_VV0 with_IW young_JJ children_NN2 is_VBZ a_AT1 significant_JJ risk_NN1 factor_NN1 for_IF infection_NN1 (_( Gubareva_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC ;_; Viboud_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ,_, and_CC vaccination_NN1 of_IO young_JJ children_NN2 can_VM dramatically_RR reduce_VVI incidence_NN1 in_II older_JJR contact_NN1 children_NN2 and_CC adults_NN2 (_( Monto_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1970_MC ;_; Hurwitz_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ._. 
+</s>
+<s>
+Many_DA2 other_JJ species_NN can_VM be_VBI infected_VVN with_IW influenza_NN1 viruses_NN2 ,_, and_CC multiple_JJ subtypes_NN2 are_VBR endemic_JJ in_II swine_NN ,_, domestic_JJ poultry_NN ,_, and_CC horses_NN2 ._. 
+</s>
+<s>
+Influenza_NN1 is_VBZ seasonal_JJ in_II many_DA2 aquatic_JJ birds_NN2 ,_, which_DDQ are_VBR its_APPGE natural_JJ hosts_NN2 ._. 
+</s>
+<s>
+Transmission_NN1 between_II wild_JJ birds_NN2 and_CC domestic_JJ poultry_NN ,_, wild_JJ birds_NN2 and_CC swine_NN ,_, domestic_JJ poultry_NN and_CC humans_NN2 ,_, and_CC swine_NN and_CC humans_NN2 occurs_VVZ at_RR21 least_RR22 annually_RR in_II many_DA2 parts_NN2 of_IO the_AT developed_JJ and_CC developing_JJ world_NN1 where_CS the_AT populations_NN2 cohabitate_VV0 (_( section_NN1 5_MC ,_, below_RL )_) ._. 
+</s>
+<s>
+Most_DAT models_NN2 of_IO influenza_NN1 have_VH0 focused_VVN on_II explaining_VVG seasonal_JJ dynamics_NN of_IO flu_NN1 in_II (_( temperate_JJ latitude_NN1 )_) human_JJ populations_NN2 and_CC mechanisms_NN2 of_IO strain_NN1 cycling_NN1 (_( Pease_NP1 1987_MC ;_; Andreasen_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1997_MC ;_; Lin_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1999_MC ;_; Andreasen_NP1 2003_MC ;_; Boni_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Dushoff_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Lavenu_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+They_PPHS2 assume_VV0 population_NN1 immunity_NN1 declines_VVZ as_II a_AT1 function_NN1 of_IO antigenic_JJ drift_NN1 ,_, which_DDQ itself_PPX1 can_VM occur_VVI at_II a_AT1 constant_JJ rate_NN1 or_CC as_II a_AT1 function_NN1 of_IO epidemic_NN1 size_NN1 ,_, and_CC that_DD1 cross-immunity_NN1 between_II serotypes_NN2 is_VBZ fixed_VVN ._. 
+</s>
+<s>
+Regular_JJ and_CC irregular_JJ oscillations_NN2 in_II incidence_NN1 ,_, dynamical_JJ resonance_NN1 ,_, and_CC complex_JJ strain_NN1 cycling_NN1 can_VM result_VVI under_II these_DD2 assumptions_NN2 ._. 
+</s>
+<s>
+A_AT1 few_DA2 studies_NN2 have_VH0 explored_VVN strain_NN1 structure_NN1 with_IW evolution_NN1 ._. 
+</s>
+<s>
+Boni_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2006_MC )_) predicted_VVD that_CST strong_JJ host_NN1 immunity_NN1 and_CC long_JJ epidemics_NN2 would_VM lead_VVI to_II the_AT highest_JJT rates_NN2 of_IO antigenic_JJ drift_NN1 ._. 
+</s>
+<s>
+They_PPHS2 proposed_VVD that_CST their_APPGE model_NN1 could_VM explain_VVI anecdotal_JJ reports_NN2 that_CST antigenic_JJ variants_NN2 tend_VV0 to_TO arise_VVI toward_II the_AT end_NN1 of_IO a_AT1 season_NNT1 ,_, with_IW attack_NN1 rates_NN2 rising_VVG the_AT following_JJ year_NNT1 ._. 
+</s>
+<s>
+Gog_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2003_MC )_) demonstrated_VVD that_CST a_AT1 slight_JJ increase_NN1 in_II the_AT duration_NN1 of_IO infectiousness_NN1 can_VM substantially_RR increase_VVI the_AT survival_NN1 probability_NN1 of_IO a_AT1 mutant_NN1 strain_NN1 during_II seasonal_JJ bottlenecks_NN2 in_II transmission_NN1 ._. 
+</s>
+<s>
+They_PPHS2 suggested_VVD that_CST this_DD1 mechanism_NN1 may_VM have_VHI accounted_VVN for_IF the_AT rapid_JJ fixation_NN1 of_IO CTL_NP1 escape_NN1 mutants_NN2 in_II the_AT 1993-1994_MCMC season_NNT1 ._. 
+</s>
+<s>
+Three_MC models_NN2 have_VH0 attempted_VVN to_TO describe_VVI broader_JJR patterns_NN2 by_II coupling_NN1 dynamics_NN of_IO strain_NN1 evolution_NN1 to_II population_NN1 dynamics_NN ._. 
+</s>
+<s>
+Gog_VV0 and_CC Grenfell_NP1 (_( 2002_MC )_) showed_VVD that_CST strains_VVZ evolving_VVG in_II one-dimensional_JJ evolutionary_JJ space_NN1 form_NN1 clusters_NN2 if_CS infection_NN1 times_NNT2 are_VBR short_JJ and_CC cross-immunity_NN1 is_VBZ high_JJ ._. 
+</s>
+<s>
+They_PPHS2 noted_VVD that_CST the_AT existence_NN1 of_IO clusters_NN2 could_VM yield_VVI phylogenies_NN2 with_IW short_JJ branches_NN2 ,_, but_CCB ,_, like_II previous_JJ studies_NN2 ,_, they_PPHS2 did_VDD not_XX attempt_VVI to_TO match_VVI their_APPGE system_NN1 's_GE endogenous_JJ dynamics_NN to_II empirically_RR observed_VVN seasonality_NN1 ._. 
+</s>
+<s>
+To_TO explain_VVI strain_NN1 evolution_NN1 ,_, subtype_VV0 cycling_NN1 ,_, and_CC seasonal_JJ dynamics_NN in_II tandem_NN1 ,_, Ferguson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2003_MC )_) constructed_VVD an_AT1 agent-based_JJ model_NN1 that_CST could_VM generate_VVI HA_UH trees_NN2 with_IW short_JJ side_NN1 branches_NN2 ,_, annual_JJ fluctuations_NN2 in_II incidence_NN1 ,_, and_CC subtype_VV0 replacement_NN1 and_CC coexistence_NN1 ._. 
+</s>
+<s>
+Central_JJ to_II their_APPGE model_NN1 was_VBDZ a_AT1 strain-transcendent_NN1 ,_, generalized_JJ immunity_NN1 (_( attributed_VVN to_II cellular_JJ immunity_NN1 )_) that_CST reduced_VVD the_AT probability_NN1 of_IO infection_NN1 in_II a_AT1 density-dependent_JJ way_NN1 ;_; they_PPHS2 found_VVD this_DD1 immunity_NN1 required_VVN a_AT1 half-life_NN1 of_IO six_MC months_NNT2 to_TO restrict_VVI diversity_NN1 sufficiently_RR ._. 
+</s>
+<s>
+They_PPHS2 also_RR incorporated_VVD spatial_JJ structure_NN1 ,_, something_PN1 akin_JJ to_II original_JJ antigenic_JJ sin_NN1 (_( exposure_NN1 would_VM boost_VVI immunity_NN1 to_II old_JJ strains_NN2 even_CS21 if_CS22 hosts_NN2 were_VBDR not_XX infected_VVN )_) ,_, and_CC a_AT1 30-year_JJ host_NN1 lifetime_NNT1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ unclear_JJ how_RGQ robust_JJ their_APPGE results_NN2 are_VBR to_II these_DD2 assumptions_NN2 ._. 
+</s>
+<s>
+Ferguson_NP1 and_CC coauthors_NN2 showed_VVD that_CST the_AT interaction_NN1 of_IO ecological_JJ dynamics_NN ,_, immune_JJ selection_NN1 ,_, and_CC evolutionary_JJ dynamics_NN on_II comparable_JJ time_NNT1 scales_NN2 might_VM be_VBI critical_JJ for_IF influenza_NN1 ._. 
+</s>
+<s>
+The_AT third_MD and_CC most_RGT recent_JJ model_NN1 elaborates_VVZ another_DD1 scale_NN1 of_IO complexity_NN1 ,_, rather_II21 than_II22 invoking_VVG generalized_JJ immunity_NN1 ,_, to_TO explain_VVI influenza_NN1 evolution_NN1 and_CC seasonality_NN1 ._. 
+</s>
+<s>
+Koelle_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( in_II prep_NN1 )_) infer_VV0 from_II the_AT existence_NN1 of_IO antigenic_JJ clusters_NN2 that_CST large_JJ spaces_NN2 of_IO genotype_NN1 space_NN1 are_VBR effectively_RR neutral_JJ ,_, since_CS they_PPHS2 have_VH0 the_AT same_DA antigenic_JJ phenotype_NN1 ,_, and_CC that_CST this_DD1 relationship_NN1 arises_VVZ from_II the_AT nature_NN1 of_IO the_AT genotype-phenotype_JJ mapping_NN1 and_CC not_XX the_AT infection_NN1 history_NN1 of_IO the_AT strain_NN1 (_( Figure_NN1 4a_FO )_) ._. 
+</s>
+<s>
+We_PPIS2 propose_VV0 that_CST interpandemic_JJ influenza_NN1 undergoes_VVZ epochal_JJ evolution_NN1 ._. 
+</s>
+<s>
+During_II periods_NN2 of_IO apparent_JJ evolutionary_JJ stasis_NN1 ,_, strains_NN2 diffuse_VV0 through_II genotype_NN1 space_NN1 ._. 
+</s>
+<s>
+A_AT1 mutant_NN1 that_CST discovers_VVZ a_AT1 new_JJ phenotype_NN1 (_( cluster_NN1 )_) encounters_VVZ fewer_DAR immune_JJ hosts_NN2 and_CC proliferates_NN2 ._. 
+</s>
+<s>
+Partial_JJ cross-immunity_NN1 to_II the_AT old_JJ cluster_NN1 causes_VVZ the_AT old_JJ cluster_NN1 to_TO rapidly_RR go_VVI extinct_JJ ._. 
+</s>
+<s>
+The_AT model_NN1 predicts_VVZ and_CC confirms_VVZ that_CST real_JJ influenza_NN1 strains_NN2 undergo_VV0 a_AT1 boom-and-bust_JJ cycle_NN1 of_IO genetic_JJ diversity_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 further_RRR proposes_VVZ -- and_CC requires_VVZ -- that_CST genotype_NN1 space_NN1 within_II clusters_NN2 is_VBZ almost_RR neutral_JJ ._. 
+</s>
+<s>
+Without_IW weak_JJ positive_JJ selection_NN1 ,_, simulated_JJ strains_NN2 explore_VV0 genotype_NN1 space_NN1 too_RG slowly_RR to_TO generate_VVI the_AT characteristic_JJ increases_NN2 (_( Figure_NN1 4b_FO )_) ._. 
+</s>
+<s>
+I_PPIS1 am_VBM not_XX aware_JJ of_IO any_DD ecological_JJ and_CC evolutionary_JJ models_NN2 of_IO influenza_NN1 in_II other_JJ host_NN1 species_NN ,_, despite_II recent_JJ dramatic_JJ changes_NN2 in_II host_NN1 ecology_NN1 and_CC viral_JJ diversity_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT most_RGT important_JJ ends_NN2 of_IO understanding_VVG biological_JJ systems_NN2 ,_, and_CC diseases_NN2 in_RR21 particular_RR22 ,_, is_VBZ prediction_NN1 --_NN1 ncluding_VVG the_AT knowledge_NN1 that_CST a_AT1 system_NN1 might_VM be_VBI too_RG stochastic_JJ or_CC chaotic_JJ to_TO predict_VVI reliably_RR ._. 
+</s>
+<s>
+Our_APPGE management_NN1 strategy_NN1 for_IF influenza_NN1 is_VBZ still_RR largely_RR reactive_JJ ;_; next_MD season_NNT1 's_GE vaccine_NN1 is_VBZ based_VVN on_II the_AT most_RGT antigenically_RR divergent_JJ strains_NN2 of_IO the_AT current_JJ one_PN1 ,_, and_CC until_II recently_RR ,_, only_JJ populations_NN2 most_RRT at_II risk_NN1 of_IO dying_VVG from_II infection_NN1 were_VBDR targeted_VVN for_IF vaccination_NN1 (_( 2006-2007_MCMC is_VBZ the_AT first_MD season_NNT1 for_IF which_DDQ the_AT CDC_NP1 has_VHZ recommended_VVN vaccinating_VVG children_NN2 6-59_MCMC months_NNT2 old_JJ (_( Smith_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) )_) ._. 
+</s>
+<s>
+Influenza_NN1 is_VBZ furthermore_RR an_AT1 exciting_JJ system_NN1 because_II21 of_II22 the_AT convergence_NN1 of_IO so_RG many_DA2 possible_JJ dynamical_JJ scales_NN2 :_: due_II21 to_II22 their_APPGE high_JJ mutation_NN1 rates_NN2 and_CC short_JJ generation_NN1 times_NNT2 ,_, RNA_NN1 viruses_NN2 are_VBR especially_RR sensitive_JJ to_II changes_NN2 in_II host_NN1 ecology_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ increasingly_RR evident_JJ that_CST the_AT relevant_JJ ecologies_NN2 are_VBR both_DB2 those_DD2 encountered_VVN within_II hosts_NN2 and_CC in_II host_NN1 populations_NN2 ,_, manifested_VVD as_RG adaptive_JJ immune_JJ responses_NN2 (_( Grenfell_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 are_VBR in_II a_AT1 position_NN1 to_TO affect_VVI host_NN1 ecology_NN1 ,_, and_CC thus_RR viral_JJ evolution_NN1 ,_, through_II vaccination_NN1 ,_, antivirals_NN2 ,_, and_CC farming_NN1 practices_NN2 ._. 
+</s>
+<s>
+My_APPGE goal_NN1 is_VBZ to_TO examine_VVI linkages_NN2 between_II viral_JJ evolution_NN1 on_II a_AT1 molecular_JJ level_NN1 and_CC immunity_NN1 on_II molecular_JJ and_CC population_NN1 levels_NN2 to_TO identify_VVI factors_NN2 involved_JJ in_II regulating_VVG flu_NN1 diversity_NN1 in_II humans_NN2 and_CC other_JJ species_NN ._. 
+</s>
+<s>
+My_APPGE first_MD three_MC research_NN1 projects_NN2 investigate_VV0 the_AT roles_NN2 of_IO humoral_NN1 and_CC cellular_JJ immunity_NN1 in_II flu_NN1 evolution_NN1 and_CC strain_VV0 competition_NN1 ._. 
+</s>
+<s>
+The_AT next_MD two_MC projects_NN2 consider_VV0 the_AT effects_NN2 of_IO other_JJ aspects_NN2 of_IO host_NN1 ecologies_NN2 on_II viral_JJ evolution_NN1 ._. 
+</s>
+<s>
+The_AT last_MD project_NN1 explores_VVZ the_AT adaptive_JJ potential_NN1 of_IO influenza_NN1 under_II different_JJ modes_NN2 of_IO evolution_NN1 ._. 
+</s>
+<s>
+My_APPGE specific_JJ questions_NN2 are_VBR :_: There_EX are_VBR two_MC hypotheses_NN2 of_IO how_RRQ influenza_NN1 undergoes_VVZ continual_JJ antigenic_JJ drift_NN1 while_CS its_APPGE genetic_JJ diversity_NN1 remains_VVZ bounded_VVN over_II time_NNT1 ._. 
+</s>
+<s>
+Ferguson_NP1 ,_, Galvani_NP1 ,_, and_CC Bush_NP1 (_( 2003_MC )_) and_CC Tria_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2005_MC )_) contend_VV0 that_CST density-dependent_JJ ,_, generalized_JJ immunity_NN1 is_VBZ necessary_JJ to_TO restrict_VVI diversity_NN1 ._. 
+</s>
+<s>
+Each_DD1 group_NN1 invokes_VVZ another_DD1 factor_NN1 --_NN1 heterogeneity_NN1 in_II host_NN1 transmission_NN1 (_( spatial_JJ structure_NN1 )_) and_CC variable_JJ strain_NN1 fitness_NN1 ,_, respectively_RR -- that_CST crucially_RR augments_VVZ the_AT effect_NN1 of_IO generalized_JJ immunity_NN1 ._. 
+</s>
+<s>
+Koelle_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( in_II prep_NN1 )_) propose_VV0 that_DD1 diversity_NN1 is_VBZ constrained_VVN episodically_RR by_II the_AT appearance_NN1 of_IO new_JJ antigenic_JJ phenotypes_NN2 that_CST competitively_RR displace_VV0 existing_JJ strains_NN2 ._. 
+</s>
+<s>
+Selective_JJ sweeps_NN2 by_II antigenic_JJ variants_NN2 have_VH0 been_VBN proposed_VVN before_RT for_IF H3N2_FO (_( Fitch_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1991_MC )_) and_CC H1N1_FO (_( Ina_NP1 and_CC Gojobori_NP1 1994_MC )_) ._. 
+</s>
+<s>
+The_AT model_NN1 of_IO Koelle_NP1 and_CC coauthors_NN2 suggests_VVZ that_CST the_AT novel_JJ phenotypes_NN2 correspond_VV0 to_II the_AT eleven_MC clusters_NN2 of_IO H3N2_FO between_II 1968_MC and_CC 1998_MC ._. 
+</s>
+<s>
+Cohort_NN1 studies_NN2 of_IO reinfection_NN1 in_II humans_NN2 indicate_VV0 that_DD1 cross-immunity_NN1 is_VBZ as_RG high_JJ as_CSA 95%_NNU within_II clusters_NN2 and_CC 60-84%_FO between_II clusters_NN2 (_( Gill_NP1 and_CC Murphy_NP1 1977_MC )_) ._. 
+</s>
+<s>
+The_AT model_NN1 also_RR proposes_VVZ that_CST in_II31 addition_II32 to_II33 abrupt_JJ ,_, intense_JJ sweeps_NN2 ,_, there_EX is_VBZ weak_JJ selection_NN1 within_II clusters_NN2 ._. 
+</s>
+<s>
+A_AT1 strain_NN1 begins_VVZ in_II a_AT1 neutral_JJ network_NN1 ,_, i.e._REX ,_, genotype_NN1 set_VVD corresponding_VVG to_II the_AT same_DA phenotype_NN1 or_CC cluster_NN1 ,_, and_CC diffuses_VVZ through_II high-dimensional_JJ genotype_NN1 space_NN1 via_II mutations_NN2 until_CS it_PPH1 arrives_VVZ at_II a_AT1 node_NN1 (_( sequence_NN1 )_) belonging_VVG to_II an_AT1 adjacent_JJ network_NN1 ._. 
+</s>
+<s>
+With_IW some_DD probability_NN1 ,_, this_DD1 adjacent_JJ network_NN1 is_VBZ a_AT1 continuous_JJ (_( slight_JJ )_) or_CC discontinuous_JJ (_( major_JJ )_) phenotypic_JJ change_NN1 ,_, with_IW respectively_RR a_AT1 modest_JJ (_( i5%_FO )_) or_CC substantial_JJ (_( 520%_NNU )_) decrease_VV0 in_II cross-immunity_NN1 ._. 
+</s>
+<s>
+Discontinuous_JJ changes_NN2 curtail_VV0 diversity_NN1 by_II precipitating_VVG cluster_NN1 transitions_NN2 ;_; continuous_JJ changes_NN2 increase_VV0 diversity_NN1 by_II causing_VVG accelerated_JJ diffusion_NN1 from_II the_AT cluster_NN1 's_GE founding_JJ strain_NN1 ._. 
+</s>
+<s>
+The_AT effects_NN2 of_IO accelerated_JJ diffusion_NN1 in_II genotype_NN1 space_NN1 may_VM be_VBI visible_JJ in_II the_AT phylogenetic_JJ trees_NN2 of_IO some_DD clusters_NN2 (_( Figure_NN1 4a_FO )_) ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, in_II BE89_FO and_CC BE92_FO ,_, multiple_JJ lineages_NN2 persist_VV0 from_II one_MC1 year_NNT1 to_II the_AT next_MD ,_, suggestive_JJ of_IO neutral_JJ diffusion_NN1 ._. 
+</s>
+<s>
+The_AT trees_NN2 of_IO WU95_FO and_CC SY97_FO ,_, in_II contrast_NN1 ,_, generally_RR have_VH0 unidirectional_JJ growth_NN1 ,_, which_DDQ echoes_VVZ the_AT traditional_JJ descriptions_NN2 of_IO the_AT HA1_FO trees_NN2 as_II a_AT1 whole_NN1 ._. 
+</s>
+<s>
+This_DD1 pattern_NN1 could_VM be_VBI due_II21 to_II22 chance_NN1 ,_, perhaps_RR in_II sampling_NN1 or_CC off-season_JJ extinction_NN1 ,_, or_CC due_II21 to_II22 positive_JJ selection_NN1 on_II some_DD branches_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 reasons_NN2 why_RRQ it_PPH1 may_VM be_VBI useful_JJ to_TO evaluate_VVI the_AT strength_NN1 and_CC location_NN1 of_IO positive_JJ selection_NN1 in_II influenza_NN1 over_II time_NNT1 ._. 
+</s>
+<s>
+The_AT first_MD is_VBZ that_CST there_EX is_VBZ clearly_RR some_DD threshold_NN1 where_CS selection_NN1 ceases_VVZ to_TO augment_VVI diversity_NN1 and_CC instead_RR reduces_VVZ it_PPH1 ._. 
+</s>
+<s>
+The_AT second_NNT1 is_VBZ that_DD1 selection_NN1 ,_, as_CSA suggested_VVN above_RL ,_, may_VM allow_VVI prediction_NN1 of_IO which_DDQ strains_VVZ will_VM dominate_VVI from_II year_NNT1 to_II year_NNT1 within_II a_AT1 cluster_NN1 ._. 
+</s>
+<s>
+Before_CS the_AT clusters_NN2 were_VBDR identified_VVN ,_, Bush_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1999b_FO ;_; 1999a_FO )_) found_VVD that_CST the_AT number_NN1 of_IO amino_NN1 acid_NN1 replacements_NN2 of_IO 18_MC codons_NN2 ,_, most_RRT located_VVN on_II two_MC epitopes_NN2 of_IO HA1_FO ,_, could_VM retrospectively_RR predict_VVI the_AT lineages_NN2 that_CST would_VM survive_VVI from_II one_MC1 year_NNT1 to_II the_AT next_MD ._. 
+</s>
+<s>
+They_PPHS2 applied_VVD their_APPGE technique_NN1 to_II eleven_MC years_NNT2 ;_; interestingly_RR ,_, their_APPGE rule_NN1 does_VDZ most_DAT poorly_JJ in_II years_NNT2 in_II which_DDQ cluster_VV0 transitions_NN2 probably_RR occurred_VVD ._. 
+</s>
+<s>
+This_DD1 raises_VVZ the_AT interesting_JJ possibility_NN1 that_CST not_XX only_RR the_AT strength_NN1 but_CCB also_RR the_AT targets_NN2 of_IO selection_NN1 within_II clusters_NN2 may_VM differ_VVI from_II that_DD1 between_II clusters_NN2 ._. 
+</s>
+<s>
+Further_RRR ,_, there_EX is_VBZ evidence_NN1 suggesting_VVG the_AT possibility_NN1 of_IO strong_JJ selection_NN1 on_II NA_FU (_( Venkatramani_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ._. 
+</s>
+<s>
+Is_VBZ this_DD1 selection_NN1 reflected_VVN in_II the_AT tree_NN1 of_IO HA_UH ?_? 
+</s>
+<s>
+Is_VBZ there_EX any_DD temporal_JJ correlation_NN1 in_II selection_NN1 on_II the_AT two_MC proteins_NN2 ?_? 
+</s>
+<s>
+Which_DDQ epitopes_VVZ on_II each_DD1 protein_NN1 are_VBR targeted_VVN ?_? 
+</s>
+<s>
+Recognition_NN1 of_IO these_DD2 patterns_NN2 could_VM lead_VVI to_II better_JJR predictive_JJ models_NN2 and_CC more_RGR sophisticated_JJ vaccines_NN2 ._. 
+</s>
+<s>
+Selection_NN1 within_II clusters_NN2 may_VM also_RR be_VBI a_AT1 nontrivial_JJ component_NN1 of_IO influenza_NN1 's_GE evolutionary_JJ and_CC ecological_JJ dynamics_NN ._. 
+</s>
+<s>
+A_AT1 strictly_RR neutral_JJ network_NN1 model_NN1 presents_VVZ a_AT1 paradox_NN1 ._. 
+</s>
+<s>
+If_CS the_AT supply_NN1 of_IO susceptibles_NN2 diminishes_VVZ as_CSA strains_NN2 diffuse_VV0 through_II genotype_NN1 space_NN1 ,_, it_PPH1 would_VM be_VBI possible_JJ for_IF the_AT virus_NN1 to_TO go_VVI extinct_JJ before_II finding_VVG a_AT1 new_JJ phenotype_NN1 ._. 
+</s>
+<s>
+This_DD1 has_VHZ not_XX yet_RR happened_VVN for_IF H3N2_FO ._. 
+</s>
+<s>
+Are_VBR the_AT discontinuous_JJ phenotypes_NN2 frequent_VV0 enough_RR to_TO exclude_VVI this_DD1 possibility_NN1 ,_, or_CC might_VM positive_JJ selection_NN1 within_II networks_NN2 critically_RR accelerate_VV0 diffusion_NN1 ,_, and_CC thus_RR increase_VV0 the_AT probability_NN1 of_IO finding_VVG significantly_RR new_JJ phenotypes_NN2 (_( K._NP1 Koelle_NP1 ,_, pers._NNU comm_UH ._. )_) ?_? 
+</s>
+<s>
+The_AT first_MD chapter_NN1 of_IO my_APPGE thesis_NN1 will_VM describe_VVI the_AT strength_NN1 and_CC targets_NN2 of_IO selection_NN1 in_II HA_UH and_CC NA_FW of_IO H3N2_FO over_II time_NNT1 ._. 
+</s>
+<s>
+The_AT null_JJ model_NN1 ,_, strict_JJ within-cluster_JJ neutrality_NN1 ,_, can_VM be_VBI associated_VVN with_IW three_MC different_JJ patterns_NN2 :_: I_PPIS1 do_VD0 not_XX see_VVI a_AT1 simple_JJ method_NN1 for_IF statistically_RR evaluating_VVG the_AT first_MD prediction_NN1 ,_, though_CS simulation_NN1 may_VM yield_VVI insight_NN1 ._. 
+</s>
+<s>
+My_APPGE research_NN1 will_VM thus_RR focus_VVI on_II the_AT latter_DA two_MC predictions_NN2 ._. 
+</s>
+<s>
+Using_VVG the_AT 253_MC sequences_NN2 antigenically_RR typed_VVN by_II Smith_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2004_MC )_) ,_, I_PPIS1 have_VH0 so_RG far_RR calculated_VVN dN_NNU and_CC dS_MC2 differences_NN2 and_CC ratios_NN2 for_IF groups_NN2 of_IO codons_NN2 suggested_VVN in_II the_AT literature_NN1 of_IO positive_JJ selection_NN1 ._. 
+</s>
+<s>
+Preliminary_JJ results_NN2 suggest_VV0 that_CST there_EX is_VBZ weak_JJ positive_JJ selection_NN1 on_II at_RR21 least_RR22 one_MC1 epitope_NN1 of_IO HA1_FO in_II every_AT1 cluster_NN1 and_CC strong_JJ selection_NN1 between_II them_PPHO2 ._. 
+</s>
+<s>
+Selection_NN1 on_II epitopes_NN2 A_ZZ1 ,_, B_ZZ1 ,_, and_CC E_ZZ1 is_VBZ most_RGT often_RR associated_VVN with_IW cluster_NN1 transitions_NN2 (_( Figure_NN1 5_MC )_) ._. 
+</s>
+<s>
+Epitope_VV0 B_ZZ1 has_VHZ the_AT greatest_JJT contrast_NN1 in_II the_AT strength_NN1 of_IO selection_NN1 within_II clusters_NN2 versus_II between_II them_PPHO2 ,_, suggesting_VVG it_PPH1 has_VHZ greater_JJR antigenic_JJ potential_NN1 than_CSN other_JJ epitopes_NN2 ._. 
+</s>
+<s>
+Epitopes_NP1 C_NP1 and_CC D_ZZ1 demonstrate_VV0 fluctuating_JJ selection_NN1 ,_, e.g._REX ,_, there_EX is_VBZ no_AT positive_JJ selection_NN1 on_II epitope_NN1 D_ZZ1 after_II the_AT 1970s_MC2 ._. 
+</s>
+<s>
+The_AT strength_NN1 of_IO selection_NN1 on_II epitopes_NN2 within_II clusters_NN2 does_VDZ not_XX appear_VVI predictive_JJ of_IO the_AT epitopes_NN2 that_CST are_VBR most_RGT strongly_RR selected_VVN between_II clusters_NN2 ._. 
+</s>
+<s>
+Future_JJ analysis_NN1 will_VM refine_VVI these_DD2 measures_NN2 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, I_PPIS1 will_VM consider_VVI methods_NN2 for_IF detecting_VVG selection_NN1 at_II single_JJ sites_NN2 and_CC in_II quasispecies_NN2 (_( Stewart_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2001_MC )_) ;_; methods_NN2 that_CST estimate_VV0 the_AT physicochemical_JJ effects_NN2 of_IO substitutions_NN2 (_( Wong_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ;_; and_CC methods_NN2 that_CST consider_VV0 selection_NN1 in_II sites_NN2 that_CST are_VBR structurally_RR close_VV0 (_( Suzuki_NP1 2004_MC )_) ._. 
+</s>
+<s>
+I_PPIS1 will_VM also_RR broaden_VVI the_AT analysis_NN1 by_II searching_VVG over_II the_AT entire_JJ HA1_FO and_CC available_JJ NA_FU sequences_NN2 ._. 
+</s>
+<s>
+This_DD1 work_NN1 will_VM be_VBI complemented_VVN by_II analysis_NN1 of_IO lineage_NN1 survival_NN1 ,_, broadening_VVG the_AT picture_NN1 by_II Bush_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1999a_FO )_) ._. 
+</s>
+<s>
+They_PPHS2 report_VV0 a_AT1 40%_NNU excess_NN1 of_IO amino_NN1 acid_NN1 substitutions_NN2 on_II terminal_JJ branches_NN2 ,_, though_CS the_AT number_NN1 of_IO replacements_NN2 at_II 18_MC positively_RR selected_JJ codons_NN2 was_VBDZ associated_VVN with_IW lineage_NN1 survival_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ telling_VVG that_CST their_APPGE rule_NN1 of_IO "_" fast_JJ "_" evolution_NN1 ,_, which_DDQ predicts_VVZ that_CST the_AT successful_JJ lineage_NN1 has_VHZ the_AT greatest_JJT numbers_NN2 of_IO replacements_NN2 at_II the_AT 20_MC fastest-evolving_JJT codons_NN2 (_( 12_MC of_IO which_DDQ were_VBDR under_RG positive_JJ selection_NN1 )_) ,_, performs_VVZ best_RRT in_II the_AT putative_JJ cluster_NN1 transitions_NN2 :_: accumulation_NN1 of_IO random_JJ changes_NN2 in_II bulk_NN1 may_VM be_VBI more_RGR likely_JJ to_TO lead_VVI to_II discontinuous_JJ transitions_NN2 than_CSN selection_NN1 at_II a_AT1 few_DA2 sites_NN2 ,_, perhaps_RR because_II21 of_II22 the_AT unpredictable_JJ effects_NN2 of_IO different_JJ residues_NN2 on_II tertiary_JJ structure_NN1 ._. 
+</s>
+<s>
+Their_APPGE work_NN1 shows_VVZ that_CST it_PPH1 will_VM be_VBI important_JJ to_TO consider_VVI changes_NN2 in_II individual_JJ codons_NN2 ,_, the_AT locations_NN2 of_IO changes_NN2 ,_, and_CC the_AT number_NN1 of_IO changes_NN2 for_IF each_DD1 branch_NN1 ._. 
+</s>
+<s>
+To_TO reevaluate_VVI their_APPGE results_NN2 and_CC test_VVI my_APPGE third_MD hypothesis_NN1 ,_, I_PPIS1 will_VM thus_RR build_VVI and_CC compare_VVI trees_NN2 with_IW codon-based_JJ maximum_JJ likelihood_NN1 and_CC Bayesian_JJ substitution_NN1 models_NN2 ,_, using_VVG relaxed_JJ clocks_NN2 where_RRQ possible_JJ (_( Drummond_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ._. 
+</s>
+<s>
+More_RGR complex_JJ models_NN2 become_VV0 computationally_RR tractable_JJ if_CS trees_NN2 are_VBR built_VVN of_IO just_RR a_AT1 few_DA2 clusters_NN2 at_II a_AT1 time_NNT1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM then_RT evaluate_VVI models_NN2 of_IO positive_JJ selection_NN1 using_VVG maximum_JJ likelihood_NN1 and_CC Bayesian_JJ approaches_NN2 on_II the_AT trees_NN2 (_( Yang_NP1 1997_MC ;_; Ronquist_JJ and_CC Huelsenbeck_VV0 2003_MC ;_; Kosakovsky_NP1 Pond_NN1 and_CC Frost_NP1 2005_MC ;_; Kosakovsky_NP1 Pond_NN1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+In_II my_APPGE analysis_NN1 of_IO selection_NN1 over_II time_NNT1 ,_, I_PPIS1 will_VM also_RR consider_VVI where_RRQ the_AT addition_NN1 of_IO glycosylation_NN1 sites_NN2 might_VM have_VHI affected_VVN strain_NN1 fitness_NN1 by_II removing_VVG epitopes_NN2 from_II antibody_NN1 pressure_NN1 (_( for_REX21 example_REX22 ,_, at_II site_NN1 D_ZZ1 )_) ._. 
+</s>
+<s>
+I_PPIS1 will_VM also_RR try_VVI to_TO distinguish_VVI sites_NN2 under_II T_ZZ1 cell_NN1 selection_NN1 from_II those_DD2 under_II antibody_NN1 selection_NN1 ,_, using_VVG discovered_VVN (_( Rimmelzwaan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Berkhoff_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) and_CC predicted_VVN (_( Korber_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) T_ZZ1 cell_NN1 epitopes_NN2 ._. 
+</s>
+<s>
+Models_NN2 of_IO strain_NN1 competition_NN1 usually_RR assume_VV0 that_DD1 cross-immunity_NN1 between_II strains_NN2 is_VBZ invariant_JJ :_: all_DB hosts_NN2 infected_VVN with_IW one_MC1 strain_NN1 have_VH0 the_AT same_DA probability_NN1 of_IO being_VBG infected_VVN with_IW another_DD1 ._. 
+</s>
+<s>
+Cross-immunity_NN1 under_II this_DD1 assumption_NN1 can_VM yield_VVI complex_JJ dynamics_NN determined_VVN by_II the_AT intensity_NN1 of_IO competition_NN1 ._. 
+</s>
+<s>
+Gupta_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1998_MC )_) showed_VVD that_CST for_IF realistic_JJ ratios_NN2 of_IO infection_NN1 times_NNT2 and_CC host_VV0 lifespans_NN2 ,_, cross-immunity_NN1 could_VM move_VVI the_AT system_NN1 through_II three_MC different_JJ dynamical_JJ regimes_NN2 (_( Figure_NN1 6_MC )_) ._. 
+</s>
+<s>
+Intense_JJ strain_NN1 competition_NN1 led_VVN to_II the_AT dominance_NN1 of_IO one_PN1 antigenically_RR nonoverlapping_VVG set_NN1 ;_; at_II intermediate_JJ competition_NN1 ,_, strains_NN2 cycled_VVD periodically_RR or_CC chaotically_RR ;_; and_CC when_RRQ cross-immunity_NN1 was_VBDZ low_JJ ,_, strain_VV0 structure_NN1 disappeared_VVD ._. 
+</s>
+<s>
+Koelle_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( in_II prep_NN1 )_) also_RR assume_VV0 that_CST the_AT cross-immunity_NN1 between_II strains_NN2 is_VBZ fixed_VVN ._. 
+</s>
+<s>
+Strains_NN2 within_II a_AT1 cluster_NN1 have_VH0 almost_RR complete_JJ cross-immunity_NN1 ,_, but_CCB their_APPGE high_JJ mutation_NN1 rate_NN1 allows_VVZ genetic_JJ and_CC transient_JJ antigenic_JJ diversification_NN1 ._. 
+</s>
+<s>
+Slightly_RR lower_JJR cross-immunity_NN1 between_II clusters_NN2 causes_VVZ competitive_JJ exclusion_NN1 by_II ensuring_VVG large_JJ fitness_NN1 differences_NN2 between_II serotypes_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT intrasubtypic_JJ dynamics_NN of_IO influenza_NN1 are_VBR dominated_VVN by_II the_AT regime_NN1 of_IO intense_JJ competition_NN1 identified_VVN by_II Gupta_NP1 and_CC coauthors_NN2 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN shown_VVN that_CST hosts_NN2 of_IO the_AT same_DA species_NN can_VM mount_VVI different_JJ immune_JJ responses_NN2 after_II infection_NN1 with_IW identical_JJ strains_NN2 ._. 
+</s>
+<s>
+Wang_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1986_MC )_) found_VVD that_CST some_DD strains_NN2 provoked_VVD more_RGR varied_JJ responses_NN2 than_CSN others_NN2 :_: antibodies_NN2 to_II Hong_NP1 Kong_NP1 pandemic_JJ strains_NN2 induced_VVD antibodies_NN2 to_II sites_NN2 A_ZZ1 and_CC B_ZZ1 or_CC both_RR ,_, whereas_CS a_AT1 strain_NN1 from_II 1978_MC induced_JJ antibodies_NN2 to_II several_DA2 epitopes_NN2 ._. 
+</s>
+<s>
+In_II humans_NN2 ,_, differences_NN2 exist_VV0 between_II the_AT responses_NN2 of_IO children_NN2 and_CC adults_NN2 ._. 
+</s>
+<s>
+Nakajima_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2000_MC )_) looked_VVD at_II the_AT acute_JJ phase_NN1 and_CC convalescent_JJ sera_FW of_IO nine_MC people_NN infected_VVN with_IW H3N2_FO during_II the_AT 1990-1991_MCMC season_NNT1 (_( during_II the_AT BE89_FO cluster_NN1 )_) and_CC found_VVD that_CST all_DB the_AT young_JJ children_NN2 had_VHD consistently_RR narrower_JJR responses_NN2 than_CSN adults_NN2 ._. 
+</s>
+<s>
+The_AT sera_FW of_IO the_AT three_MC and_CC four_MC year_NNT1 old_JJ children_NN2 had_VHD antibodies_NN2 only_RR to_II site_NN1 B1_FO ,_, and_CC all_DB the_AT older_JJR children_NN2 and_CC the_AT one_MC1 adult_NN1 had_VHD antibodies_NN2 binding_VVG to_II sites_NN2 A_ZZ1 ,_, B1_FO ,_, B2_FO ,_, C_ZZ1 ,_, and_CC C/E_ZZ1 ._. 
+</s>
+<s>
+In_II a_AT1 follow-up_JJ study_NN1 ,_, Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2004_MC )_) examined_VVD the_AT sera_FW of_IO 35_MC people_NN who_PNQS had_VHD been_VBN infected_VVN with_IW a_AT1 strain_NN1 of_IO the_AT SY97_FO cluster_NN1 and_CC found_VVD that_CST almost_RR all_DB young_JJ children_NN2 developed_JJ antibodies_NN2 to_II B1_FO and_CC many_DA2 to_II A._NP1 Everyone_PN1 else_RR developed_VVN a_AT1 unique_JJ polyclonal_JJ response_NN1 ,_, often_RR reacting_VVG more_RGR strongly_RR to_II epitopes_NN2 other_II21 than_II22 B1_FO ._. 
+</s>
+<s>
+Such_DA observations_NN2 have_VH0 motivated_VVN proposals_NN2 that_CST variation_NN1 in_II antibody_NN1 repertoires_NN2 could_VM underlie_VVI the_AT mechanism_NN1 of_IO antigenic_JJ drift_NN1 in_II humans_NN2 ._. 
+</s>
+<s>
+These_DD2 hypotheses_NN2 differ_VV0 in_II the_AT role_NN1 of_IO populations_NN2 with_IW polyclonal_JJ responses_NN2 ._. 
+</s>
+<s>
+Nakajima_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2000_MC )_) and_CC Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2004_MC )_) posit_VV0 that_CST drift_VV0 results_NN2 from_II serial_JJ adaptation_NN1 to_II monoclonally-responding_JJ subpopulations_NN2 ._. 
+</s>
+<s>
+Antigenic_JJ variants_NN2 first_MD escape_NN1 site_NN1 B1_FO and_CC then_RT sites_NN2 targeted_VVN by_II others_NN2 ;_; despite_II the_AT rarity_NN1 of_IO older_JJR children_NN2 or_CC adults_NN2 with_IW narrow_JJ responses_NN2 to_II sites_NN2 other_II21 than_II22 B1_FO in_II their_APPGE study_NN1 ,_, "_" we_PPIS2 (_( can_NN1 )_) not_XX exclude_VV0 the_AT possibility_NN1 that_CST on_II a_AT1 worldwide_JJ scale_NN1 ,_, individuals_NN2 of_IO this_DD1 type_NN1 may_VM be_VBI numerous_JJ "_" (_( Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+This_DD1 pattern_NN1 ,_, they_PPHS2 note_VV0 ,_, fits_VVZ evolution_NN1 within_II BE89_FO but_CCB not_XX SY97_FO ._. 
+</s>
+<s>
+Cleveland_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1997_MC )_) recalled_VVD that_CST major_JJ drift_NN1 variants_NN2 tend_VV0 to_TO have_VHI at_RR21 least_RR22 four_MC amino_NN1 acid_NN1 substitutions_NN2 in_II two_MC epitopes_NN2 (_( Wilson_NP1 and_CC Cox_NP1 1990_MC )_) ._. 
+</s>
+<s>
+They_PPHS2 predict_VV0 the_AT existence_NN1 of_IO four_MC different_JJ "_" human_JJ genetic_JJ groupings_NN2 "_" with_IW consistent_JJ ,_, nonoverlapping_VVG epitope_NN1 biases_NN2 ._. 
+</s>
+<s>
+Viruses_NN2 drift_VV0 as_CSA they_PPHS2 move_VV0 from_II group_NN1 to_II group_NN1 ,_, acquiring_VVG a_AT1 critical_JJ amino_NN1 acid_NN1 change_NN1 in_II each_DD1 ,_, and_CC become_VV0 double_JJ escape_NN1 mutants_NN2 ._. 
+</s>
+<s>
+In_II contrast_NN1 to_II Sato_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2004_MC )_) ,_, they_PPHS2 argue_VV0 that_CST polyclonal_JJ responses_NN2 can_VM select_VVI for_IF drift_NN1 mutants_NN2 under_II particular_JJ conditions_NN2 :_: extrapolating_VVG from_II responses_NN2 in_II rabbits_NN2 ,_, they_PPHS2 conclude_VV0 that_CST antibodies_NN2 to_II one_MC1 epitope_NN1 must_VM predominate_VVI ,_, the_AT titer_NN1 of_IO that_DD1 antibody_NN1 must_VM be_VBI sufficiently_RR high_JJ ,_, and_CC titers_NN2 of_IO other_JJ antibodies_NN2 must_VM be_VBI sufficiently_RR low_JJ ._. 
+</s>
+<s>
+Other_JJ models_NN2 in_II mice_NN2 and_CC ferrets_NN2 suggest_VV0 that_CST mutants_NN2 can_VM arise_VVI from_II polyclonal_JJ responses_NN2 as_CS31 long_CS32 as_CS33 they_PPHS2 could_VM escape_VVI a_AT1 predominant_JJ antibody_NN1 (_( reviewed_VVN in_II (_( Nakajima_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) )_) ._. 
+</s>
+<s>
+My_APPGE second_MD project_NN1 will_VM examine_VVI the_AT ecological_JJ and_CC evolutionary_JJ implications_NN2 of_IO heterogeneous_JJ antibody_NN1 responses_NN2 ._. 
+</s>
+<s>
+Specifically_RR ,_, I_PPIS1 ask_VV0 :_: To_TO address_VVI the_AT first_MD question_NN1 ,_, I_PPIS1 will_VM simulate_VVI an_AT1 adaptation_NN1 of_IO Gupta_NP1 's_GE model_NN1 ._. 
+</s>
+<s>
+She_PPHS1 defines_VVZ strains_NN2 as_CSA having_VHG n_ZZ1 loci_NN2 ,_, each_DD1 defined_VVD by_II m_ZZ1 possible_JJ alleles_NN2 ._. 
+</s>
+<s>
+In_II my_APPGE model_NN1 ,_, each_DD1 locus_NN1 corresponds_VVZ to_II an_AT1 epitope_NN1 ,_, and_CC each_DD1 allele_NN1 a_AT1 possible_JJ phenotype_NN1 of_IO the_AT epitope_NN1 ._. 
+</s>
+<s>
+Cross-immunity_NN1 is_VBZ set_VVN by_II ,_, which_DDQ indicates_VVZ the_AT reduction_NN1 in_II transmission_NN1 probability_NN1 conferred_VVN by_II previous_JJ infection_NN1 with_IW one_MC1 strain_NN1 ;_; (_( 0_MC n_ZZ1 1_MC1 )_) ._. 
+</s>
+<s>
+Without_IW heterogeneous_JJ immune_JJ responses_NN2 ,_, the_AT fraction_NN1 immune_JJ to_II a_AT1 strain_NN1 i_ZZ1 ,_, zi_NN2 ,_, changes_NN2 as_CSA (_( 1_MC1 )_) where_RRQ wi_NN2 is_VBZ the_AT force_NN1 of_IO infection_NN1 of_IO strain_NN1 i_ZZ1 (_( the_AT per_JJ21 capita_JJ22 rate_NN1 of_IO rate_NN1 of_IO acquiring_VVG infection_NN1 ,_, which_DDQ is_VBZ linearly_RR proportional_JJ to_II the_AT number_NN1 of_IO infectious_JJ individuals_NN2 )_) and_CC p_ZZ1 is_VBZ the_AT birth_NN1 and_CC death_NN1 rate_NN1 ._. 
+</s>
+<s>
+Gupta_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+then_RT add_VV0 a_AT1 compartment_NN1 wi_NN2 representing_VVG hosts_NN2 immune_JJ to_II all_DB strains_NN2 j_ZZ1 that_CST share_VV0 alleles_NN2 with_IW i_ZZ1 ,_, including_II i_ZZ1 itself_PPX1 :_: (_( 2_MC )_) The_AT expression_NN1 j_ZZ1 i_ZZ1 refers_VVZ to_II all_DB strains_NN2 j_ZZ1 sharing_JJ alleles_NN2 with_IW i_ZZ1 ._. 
+</s>
+<s>
+The_AT population_NN1 of_IO individuals_NN2 infectious_JJ with_IW strain_NN1 i_ZZ1 ,_, yi_NNU ,_, is_VBZ then_RT determined_VVN by_II (_( 3_MC )_) where_RRQ w_ZZ1 is_VBZ the_AT rate_NN1 of_IO loss_NN1 of_IO infectiousness_NN1 ._. 
+</s>
+<s>
+To_TO incorporate_VVI antibody_NN1 heterogeneity_NN1 into_II this_DD1 formalism_NN1 ,_, we_PPIS2 need_VV0 to_TO track_VVI populations_NN2 immune_JJ to_II epitopes_NN2 ._. 
+</s>
+<s>
+Strain_VV0 i_ZZ1 is_VBZ now_RT defined_VVN as_II a_AT1 set_NN1 of_IO epitopes_NN2 ,_, with_IW each_DD1 epitope_NN1 defined_VVN by_II a_AT1 phenotype_NN1 k_ZZ1 :_: i_ZZ1 =_FO 1k_FO ,_, ..._... ,_, nk_NNU where_CS k_ZZ1 (_( 1_MC1 ,_, m_ZZ1 )_) and_CC k_ZZ1 Z+_FO ._. 
+</s>
+<s>
+Let_VV0 pn_NNU be_VBI the_AT probability_NN1 that_CST an_AT1 individual_NN1 develops_VVZ an_AT1 antibody_NN1 to_TO epitope_VVI n_ZZ1 ._. 
+</s>
+<s>
+Assume_VV0 all_DB responses_NN2 are_VBR on_II average_JJ monoclonal_JJ to_II one_MC1 epitope_NN1 ,_, so_CS that_DD1 ._. 
+</s>
+<s>
+pn_NNU =_FO 1_MC1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR assume_VV0 that_CST =_FO 1_MC1 if_CS two_MC strains_NN2 share_VV0 an_AT1 epitope_NN1 to_II which_DDQ a_AT1 host_NN1 has_VHZ antibody_NN1 ._. 
+</s>
+<s>
+Equation_NN1 (_( 1_MC1 )_) does_VDZ not_XX change_VVI :_: all_DB people_NN infected_VVN with_IW strain_NN1 i_ZZ1 will_VM mount_VVI a_AT1 specific_JJ response_NN1 to_II one_MC1 of_IO its_APPGE epitopes_NN2 and_CC will_VM not_XX transmit_VVI i_MC1 in_II the_AT future_NN1 ._. 
+</s>
+<s>
+But_CCB now_RT not_XX all_DB hosts_NN2 with_IW immunity_NN1 to_TO strain_VVI j_ZZ1 ,_, which_DDQ shares_VVZ epitopes_NN2 with_IW i_ZZ1 ,_, will_VM potentially_RR have_VHI immunity_NN1 to_II i_MC1 ._. 
+</s>
+<s>
+Only_RR the_AT fraction_NN1 of_IO hosts_NN2 infected_VVN with_IW j_ZZ1 that_CST mount_VV0 antibodies_NN2 to_II epitopes_NN2 shared_VVN with_IW i_ZZ1 will_VM then_RT be_VBI immune_JJ to_II i_MC1 ._. 
+</s>
+<s>
+Let_VV0 Sij_NP1 be_VBI the_AT set_NN1 of_IO shared_JJ epitopes_NN2 between_II strains_NN2 i_ZZ1 and_CC j_ZZ1 :_: Sij_NP1 i_ZZ1 j_ZZ1 ._. 
+</s>
+<s>
+The_AT probability_NN1 rij_NN1 of_IO developing_JJ antibodies_NN2 to_II i_ZZ1 if_CS infected_VVN with_IW j_ZZ1 is_VBZ (_( 4_MC )_) (_( 5_MC )_) The_AT reduction_NN1 in_II wi_NN2 ,_, the_AT number_NN1 of_IO hosts_NN2 immune_JJ from_II infection_NN1 with_IW other_JJ strains_NN2 takes_VVZ the_AT place_NN1 of_IO ,_, ,_, and_CC the_AT infectious_JJ class_NN1 simply_RR changes_VVZ as_CSA (_( 6_MC )_) Initially_RR I_PPIS1 will_VM allow_VVI only_RR one_MC1 phenotype_NN1 at_II each_DD1 epitope_NN1 (_( m_ZZ1 =_FO 1_MC1 )_) ._. 
+</s>
+<s>
+I_PPIS1 will_VM explore_VVI the_AT effects_NN2 of_IO varying_VVG p1_FO over_II p1_FO =_FO pn_NNU =_FO 1/n_FU to_II p1_FO =_FO 1_MC1 ._. 
+</s>
+<s>
+For_IF different_JJ values_NN2 of_IO p1_FO ,_, what_DDQ are_VBR the_AT system_NN1 's_GE dynamics_NN ,_, and_CC does_VDZ p1_FO have_VH0 similar_JJ thresholds_NN2 to_II h_ZZ1 ?_? 
+</s>
+<s>
+Can_VV0 the_AT bifurcation_NN1 points_NN2 be_VBI derived_VVN analytically_RR ?_? 
+</s>
+<s>
+I_PPIS1 will_VM then_RT explore_VVI the_AT behavior_NN1 of_IO m_ZZ1 1_MC1 ._. 
+</s>
+<s>
+It_PPH1 might_VM be_VBI interesting_JJ to_TO relax_VVI the_AT assumption_NN1 that_CST responses_NN2 are_VBR monoclonal_JJ ,_, and_CC model_NN1 dynamics_NN of_IO two_MC host_NN1 groups_NN2 analogous_JJ to_II young_JJ children_NN2 and_CC adults_NN2 ._. 
+</s>
+<s>
+The_AT monoclonal_JJ assumption_NN1 corresponds_VVZ to_II p_ZZ1 pn_NNU =_FO 1_MC1 and_CC fully_RR polyclonal_JJ to_II pn_NNU =_FO n_ZZ1 (_( the_AT latter_DA corresponds_VVZ to_II Gupta_NP1 's_GE model_NN1 with_IW =_FO 1_MC1 )_) ._. 
+</s>
+<s>
+To_TO address_VVI the_AT effects_NN2 of_IO antibody_NN1 heterogeneity_NN1 on_II evolution_NN1 ,_, I_PPIS1 will_VM let_VVI m_ZZ1 1_MC1 and_CC define_VVI a_AT1 cross-immunity_JJ parameter_NN1 between_II different_JJ phenotypes_NN2 of_IO the_AT same_DA epitope_NN1 ._. 
+</s>
+<s>
+This_DD1 cross-immunity_JJ value_NN1 could_VM be_VBI a_AT1 linear_JJ or_CC nonlinear_JJ function_NN1 of_IO the_AT virus_NN1 's_GE genotype_NN1 ,_, represented_VVN by_II a_AT1 bit_NN1 string_NN1 at_II each_DD1 epitope_NN1 ._. 
+</s>
+<s>
+This_DD1 model_NN1 seems_VVZ most_RGT practically_RR evaluated_VVN by_II simulation_NN1 ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO this_DD1 experiment_NN1 is_VBZ to_TO observe_VVI the_AT effect_NN1 of_IO antibody_NN1 bias_NN1 on_II selection_NN1 pressures_NN2 on_II individual_JJ epitopes_NN2 ,_, measured_VVN by_II dN_NNU and_CC dS_MC2 ,_, and_CC virus_NN1 phylogeny_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM then_RT compare_VVI results_NN2 to_II my_APPGE findings_NN2 from_II the_AT first_MD research_NN1 project_NN1 to_TO see_VVI if_CS I_PPIS1 have_VH0 produced_VVN realistic_JJ within-cluster_JJ dynamics_NN ._. 
+</s>
+<s>
+Among_II the_AT most_RGT striking_JJ and_CC least_RGT well_RR understood_VVN patterns_NN2 in_II influenza_NN1 are_VBR those_DD2 of_IO subtype_NN1 replacement_NN1 and_CC coexistence_NN1 (_( Earn_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+There_EX is_VBZ strong_JJ evidence_NN1 that_CST H3N2_FO (_( or_CC another_DD1 H3_FO subtype_NN1 )_) circulated_VVD in_II humans_NN2 before_II 1918_MC (_( Houswort.Wj_NP1 and_CC Spoon_NN1 1971_MC ;_; Enserink_NP1 2006_MC )_) (_( and_CC possibly_RR H2N2_FO before_CS that_DD1 (_( Masurel_NP1 and_CC Marine_JJ 1973_MC )_) )_) ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ then_RT replaced_VVN by_II H1N1_FO ._. 
+</s>
+<s>
+In_II 1957_MC ,_, H2N2_FO replaced_VVN H1N1_FO ._. 
+</s>
+<s>
+In_II 1968_MC ,_, H3N2_FO replaced_VVN H2N2_FO ._. 
+</s>
+<s>
+H1N1_FO reentered_VVD the_AT population_NN1 in_II 1977_MC and_CC coexisted_VVD with_IW H3N2_FO ._. 
+</s>
+<s>
+H1N2_FO appeared_VVD sporadically_RR in_II the_AT 1980s_MC2 and_CC became_VVD widespread_JJ in_II 2001-2002_MCMC (_( Guo_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1992a_FO ;_; Xu_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+H3N2_FO and_CC H1N1/influenza_NN1 B_ZZ1 appear_VV0 negatively_RR correlated_VVN in_II incidence_NN1 from_II season_NNT1 to_II season_NNT1 (_( Ferguson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC )_) ._. 
+</s>
+<s>
+The_AT time_NNT1 series_NN indicates_VVZ there_EX are_VBR major_JJ differences_NN2 in_II attack_NN1 rates_NN2 between_II emergence_NN1 events_NN2 of_IO different_JJ subtypes_NN2 (_( Figure_NN1 1a_FO )_) ._. 
+</s>
+<s>
+Several_DA2 hypotheses_NN2 have_VH0 been_VBN offered_VVN to_TO explain_VVI instances_NN2 of_IO replacement_NN1 or_CC coexistence_NN1 with_IW interference_NN1 ._. 
+</s>
+<s>
+Ferguson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2003_MC )_) argue_VV0 that_CST short-lived_JJ ,_, nonspecific_JJ immunity_NN1 is_VBZ critical_JJ for_IF capturing_VVG the_AT dynamics_NN of_IO subtype_NN1 replacement_NN1 during_II pandemics_NN2 and_CC out-of-phase_JJ oscillations_NN2 when_RRQ emergence_NN1 is_VBZ not_XX accompanied_VVN by_II a_AT1 pandemic_JJ ._. 
+</s>
+<s>
+Antibody_NN1 to_II NA_FW of_IO H2N2_FO was_VBDZ significantly_RR associated_VVN with_IW a_AT1 lower_JJR probability_NN1 of_IO infection_NN1 with_IW H3N2_FO during_II its_APPGE emergence_NN1 in_II 1968_MC (_( Monto_NP1 and_CC Kendal_NP1 1973_MC )_) ._. 
+</s>
+<s>
+Viboud_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2005_MC )_) propose_VV0 that_CST different_JJ frequencies_NN2 of_IO antibody_NN1 to_II NA_FW was_VBDZ the_AT largest_JJT factor_NN1 modulating_VVG the_AT intensity_NN1 of_IO the_AT H3N2_FO pandemic_JJ in_II North_ND1 America_NP1 and_CC Europe_NP1 ._. 
+</s>
+<s>
+Studies_NN2 of_IO heterosubtypic_JJ immunity_NN1 in_II humans_NN2 and_CC other_JJ animals_NN2 suggest_VV0 no_AT shortage_NN1 of_IO possible_JJ effecters_NN2 (_( Table_NN1 2_MC )_) ,_, e.g._REX ,_, pigs_NN2 previously_RR infected_VVN with_IW H3N2_FO or_CC H1N1_FO are_VBR partially_RR protected_VVN from_II H1N2_FO (_( Van_NP1 Reeth_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+In_II31 light_II32 of_II33 the_AT results_NN2 of_IO Gupta_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 1998_MC )_) ,_, it_PPH1 is_VBZ clear_JJ that_CST the_AT outcome_NN1 of_IO competition_NN1 might_VM also_RR be_VBI determined_VVN by_II chaotic_JJ dynamics_NN ._. 
+</s>
+<s>
+These_DD2 dynamics_NN will_VM also_RR be_VBI modulated_VVN by_II influenza_NN1 's_GE strong_JJ seasonality_NN1 ._. 
+</s>
+<s>
+For_IF my_APPGE third_MD project_NN1 ,_, I_PPIS1 plan_VV0 to_TO use_VVI results_NN2 from_II the_AT analytic_JJ model_NN1 and_CC the_AT simulation_NN1 developed_VVN for_IF my_APPGE second_MD project_NN1 to_TO compare_VVI hypotheses_NN2 of_IO subtype_NN1 replacement_NN1 and_CC coexistence_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ clear_JJ from_II Table_NN1 2_MC that_DD1 cross-reacting_JJ epitopes_NN2 may_VM be_VBI present_JJ on_II almost_RR any_DD protein_NN1 ,_, though_CS each_DD1 epitope_NN1 might_VM elicit_VVI a_AT1 quite_RG different_JJ immune_JJ response_NN1 ,_, depending_II21 on_II22 whether_CSW it_PPH1 is_VBZ targeted_VVN by_II T_ZZ1 cells_NN2 or_CC B_ZZ1 cells_NN2 ._. 
+</s>
+<s>
+I_PPIS1 would_VM like_VVI to_TO determine_VVI the_AT probabilistic_JJ thresholds_NN2 of_IO host_NN1 heterogeneity_NN1 for_IF dynamical_JJ regimes_NN2 --_NN1 including_II subtype_NN1 replacement_NN1 and_CC coexistence_NN1 --_NN1 under_II different_JJ hypotheses_NN2 :_: 1_MC1 ._. 
+</s>
+<s>
+How_RRQ does_VDZ the_AT addition_NN1 of_IO a_AT1 seasonal_JJ forcing_NN1 affect_VV0 previous_JJ results_NN2 on_II antibody_NN1 heterogeneity_NN1 ?_? 
+</s>
+<s>
+For_REX21 example_REX22 ,_, for_IF a_AT1 given_JJ amount_NN1 of_IO forcing_VVG ,_, what_DDQ is_VBZ the_AT minimum_NN1 p1_FO for_IF exclusion_NN1 between_II two_MC serotypes_NN2 sharing_VVG one_MC1 epitope_NN1 (_( e.g._REX ,_, on_II nucleoprotein_NN1 )_) ?_? 
+</s>
+<s>
+To_TO avoid_VVI unrealistically_RR severe_JJ bottlenecks_NN2 ,_, I_PPIS1 would_VM include_VVI three_MC populations_NN2 ,_, representing_VVG the_AT northern_JJ hemisphere_NN1 ,_, the_AT tropics_NN ,_, and_CC southern_JJ hemisphere_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ hypotheses_NN2 would_VM be_VBI addressed_VVN with_IW and_CC without_IW seasonality_NN1 :_: 2_MC ._. 
+</s>
+<s>
+Asymmetric_JJ cross-immunity_NN1 may_VM cause_VVI antigenic_JJ drift_NN1 in_II H3N2_FO (_( de_NP1 St._NP1 Groth_NP1 1977_MC )_) ._. 
+</s>
+<s>
+There_EX are_VBR numerous_JJ observations_NN2 of_IO antibodies_NN2 to_II later_JJR strains_NN2 binding_VVG more_RGR strongly_RR to_II earlier_JJR strains_NN2 than_CSN antibodies_NN2 to_II earlier_JJR strains_NN2 do_VD0 to_II later_JJR strains_NN2 (_( 1982_MC ;_; 1983_MC ;_; 1987_MC )_) ._. 
+</s>
+<s>
+There_EX are_VBR perhaps_RR fewer_DAR opportunities_NN2 for_IF asymmetric_JJ cross-immunity_NN1 among_II subtypes_NN2 (_( glycosylation_NN1 of_IO HA_UH is_VBZ the_AT candidate_NN1 mechanism_NN1 in_II H3N2_FO )_) ,_, but_CCB there_EX is_VBZ evidence_NN1 of_IO asymmetry_NN1 in_II the_AT responses_NN2 of_IO swine_NN to_II H3N2_FO and_CC H1N1_FO (_( Heinen_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2001_MC )_) ._. 
+</s>
+<s>
+How_RRQ does_VDZ asymmetric_JJ cross-immunity_JJ change_NN1 thresholds_NN2 of_IO p1_FO ?_? 3_MC ._. 
+</s>
+<s>
+How_RRQ would_VM short-lived_JJ generalized_JJ immunity_NN1 ,_, as_CSA defined_VVN by_II Ferguson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2003_MC )_) ,_, affect_VV0 dynamics_NN of_IO subtype_NN1 replacement_NN1 and_CC coexistence_NN1 ?_? 
+</s>
+<s>
+How_RRQ does_VDZ the_AT time_NNT1 to_TO subtype_VVI fixation_NN1 vary_VV0 between_II generalized_JJ immunity_NN1 and_CC antibody-mediated_JJ immunity_NN1 ?_? 4_MC ._. 
+</s>
+<s>
+Do_VD0 results_NN2 differ_VVI if_CSW the_AT reduction_NN1 in_II transmissibility_NN1 acts_VVZ through_II the_AT probability_NN1 of_IO infection_NN1 (_( similar_JJ to_II humoral_JJ protection_NN1 )_) or_CC the_AT duration_NN1 of_IO infection_NN1 (_( similar_JJ to_II cellular_JJ protection_NN1 )_) ?_? 
+</s>
+<s>
+I_PPIS1 would_VM then_RT like_VVI to_TO conduct_VVI a_AT1 more_RGR in-depth_JJ review_NN1 of_IO the_AT literature_NN1 on_II influenza_NN1 's_GE epidemiology_NN1 and_CC immunology_NN1 to_TO evaluate_VVI hypotheses_NN2 in_II31 light_II32 of_II33 both_DB2 their_APPGE biological_JJ plausibility_NN1 and_CC dynamical_JJ robustness_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM also_RR identify_VVI missing_JJ information_NN1 that_CST would_VM allow_VVI determination_NN1 of_IO the_AT mechanisms_NN2 of_IO specific_JJ replacements_NN2 ._. 
+</s>
+<s>
+Until_II recently_RR ,_, swine_NN in_II North_ND1 America_NP1 circulated_VVD only_RR one_MC1 subtype_NN1 of_IO influenza_NN1 ,_, the_AT "_" classical_JJ swine_NN "_" H1N1_FO ,_, which_DDQ evolved_VVD from_II human_NN1 H1N1_FO sometime_RT before_II 1933_MC ._. 
+</s>
+<s>
+In_II 1997_MC and_CC 1998_MC ,_, H3N2_FO appeared_VVD in_II the_AT United_NP1 States_NP1 and_CC became_VVD widespread_JJ within_II a_AT1 year_NNT1 (_( reviewed_VVN in_II Webby_JJ et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2004_MC )_) )_) ._. 
+</s>
+<s>
+At_RR21 least_RR22 two_MC lineages_NN2 emerged_VVD ,_, one_MC1 a_AT1 double_JJ reassortant_NN1 between_II human_NN1 H3N2_FO of_IO the_AT SY97_FO cluster_NN1 and_CC classical_JJ swine_NN H1N1_FO ,_, and_CC the_AT other_JJ a_AT1 triple_JJ reassortant_NN1 containing_VVG avian_JJ flu_NN1 genes_NN2 (_( Zhou_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ._. 
+</s>
+<s>
+Since_II then_RT ,_, H3N2_FO in_II swine_NN has_VHZ acquired_VVN at_RR21 least_RR22 two_MC more_DAR HA_UH from_II human_NN1 H3N2_FO ,_, and_CC further_JJR reassortment_NN1 with_IW classical_JJ swine_NN virus_NN1 has_VHZ produced_VVN at_RR21 least_RR22 two_MC lineages_NN2 of_IO H1N2_FO ,_, which_DDQ has_VHZ also_RR become_VV0 widespread_JJ (_( Karasin_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+Reassortment_NN1 between_II classical_JJ swine_NN H1N1_FO ,_, human_NN1 H3N2_FO ,_, and_CC avian_JJ H1N1_FO had_VHD been_VBN described_VVN previously_RR in_II European_JJ swine_NN populations_NN2 (_( Castrucci_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1993_MC ;_; Marozin_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+In_II the_AT 1970s_MC2 ,_, the_AT HK68_FO ,_, EN72_FO ,_, and_CC VI75_FO clusters_NN2 of_IO human_NN1 H3N2_FO were_VBDR found_VVN circulating_VVG in_II Asian_JJ and_CC Italian_JJ swine_NN after_CS HK68_FO and_CC EN72_FO had_VHD disappeared_VVN from_II the_AT human_JJ population_NN1 (_( Shortridge_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1977_MC ;_; Ottis_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1982_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ interesting_JJ that_CST proliferation_NN1 of_IO genetic_JJ and_CC antigenic_JJ diversity_NN1 in_II North_NP1 American_JJ swine_NN accompanies_VVZ dramatic_JJ changes_NN2 in_II host_NN1 ecology_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR currently_RR 100_MC million_NNO swine_NN in_II North_ND1 America_NP1 ;_; in_II the_AT United_NP1 States_NP1 ,_, the_AT percentage_NN1 of_IO swine_NN farms_NN2 with_IW 5000_MC swine_NN increased_VVN from_II 18%_NNU in_II 1993_MC to_II 53%_NNU in_II 2002_MC ,_, and_CC vaccination_NN1 over_II the_AT same_DA time_NNT1 period_NN1 became_VVD common_JJ (_( negligible_JJ in_II 1995_MC ,_, 44.1%_FO of_IO sows_NN2 in_II 2000_MC ,_, and_CC over_RG half_DB in_II 2003_MC )_) (_( Wuethrich_NP1 2003_MC )_) ._. 
+</s>
+<s>
+In_II poultry_NN ,_, vaccination_NN1 has_VHZ been_VBN associated_VVN with_IW rapid_JJ antigenic_JJ drift_NN1 away_II21 from_II22 vaccine_NN1 strains_NN2 (_( Lee_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+Before_CS the_AT emergence_NN1 of_IO H3N2_FO ,_, several_DA2 authors_NN2 described_VVD antigenic_JJ drift_NN1 in_II swine_NN as_CSA slower_JJR than_CSN in_II humans_NN2 ,_, possibly_RR due_II21 to_II22 their_APPGE short_JJ life_NN1 spans_VVZ relative_II21 to_II22 the_AT frequency_NN1 of_IO epidemics_NN2 and_CC the_AT infrequency_NN1 of_IO vaccination_NN1 (_( reviewed_VVN in_II Heinen_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2001_MC )_) )_) or_CC the_AT high_JJ standing_NN1 antigenic_JJ diversity_NN1 (_( Olsen_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR possible_JJ that_CST smaller_JJR farm_NN1 sizes_NN2 would_VM have_VHI reduced_VVN the_AT frequency_NN1 of_IO epidemics_NN2 and_CC the_AT spread_NN1 of_IO drift_NN1 strains_NN2 ._. 
+</s>
+<s>
+The_AT rapid_JJ spread_NN1 of_IO emerging_JJ subtypes_NN2 in_II North_ND1 America_NP1 and_CC Eurasia_NP1 ,_, and_CC such_DA observations_NN2 as_CSA a_AT1 multidrug_NN1 resistant_JJ European_JJ swine_NN influenza_NN1 viruses_NN2 in_II Hong_NP1 Kong_NP1 (_( Gregory_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2001_MC )_) ,_, suggests_VVZ that_CST the_AT relevant_JJ spatial_JJ scale_NN1 for_IF swine_NN influenza_NN1 ecology_NN1 is_VBZ closer_JJR to_II continents_NN2 than_CSN farms_NN2 ._. 
+</s>
+<s>
+Because_CS swine_NN frequently_RR exchange_VV0 viruses_NN2 with_IW humans_NN2 ,_, and_CC because_CS they_PPHS2 might_VM be_VBI capable_JJ of_IO sustaining_VVG more_DAR (_( or_CC at_RR21 least_RR22 different_JJ )_) antigenic_JJ and_CC genetic_JJ diversity_NN1 than_CSN influenza_NN1 in_II humans_NN2 ,_, it_PPH1 is_VBZ important_JJ to_TO have_VHI models_NN2 to_TO explain_VVI and_CC predict_VVI these_DD2 patterns_NN2 ._. 
+</s>
+<s>
+For_IF my_APPGE fourth_MD project_NN1 ,_, I_PPIS1 propose_VV0 to_TO develop_VVI a_AT1 null_JJ model_NN1 of_IO ecological_JJ and_CC evolutionary_JJ dynamics_NN of_IO influenza_NN1 in_II swine_NN ._. 
+</s>
+<s>
+This_DD1 model_NN1 will_VM be_VBI functionally_RR similar_JJ to_II the_AT one_PN1 developed_VVN for_IF influenza_NN1 's_GE epochal_JJ evolution_NN1 in_II humans_NN2 (_( Koelle_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+in_II prep_NN1 )_) and_CC will_VM complement_VVI similar_JJ investigations_NN2 into_II the_AT dynamics_NN of_IO avian_JJ and_CC equine_JJ influenza_NN1 ._. 
+</s>
+<s>
+I_PPIS1 plan_VV0 four_MC steps_NN2 in_II the_AT analysis_NN1 :_: The_AT researchers_NN2 who_PNQS developed_VVD antigenic_JJ maps_NN2 of_IO influenza_NN1 in_II humans_NN2 have_VH0 submitted_VVN a_AT1 paper_NN1 on_II antigenic_JJ drift_NN1 in_II swine_NN (_( K._NP1 Koelle_NP1 ,_, pers._NNU comm_UH ._. )_) ._. 
+</s>
+<s>
+It_PPH1 will_VM be_VBI interesting_JJ to_TO see_VVI if_CSW their_APPGE results_NN2 agree_VV0 with_IW the_AT trends_NN2 in_II antigenic_JJ and_CC genetic_JJ diversity_NN1 described_VVN above_RL ._. 
+</s>
+<s>
+If_CS they_PPHS2 classify_VV0 enough_DD available_JJ sequences_NN2 by_II antigenic_JJ type_NN1 ,_, it_PPH1 may_VM be_VBI possible_JJ to_TO perform_VVI selection_NN1 analysis_NN1 ._. 
+</s>
+<s>
+If_CS the_AT authors_NN2 use_VV0 ferret_NN1 sera_FW to_TO determine_VVI antigenic_JJ clusters_NN2 ,_, this_DD1 analysis_NN1 can_VM help_VVI determine_VVI if_CSW the_AT antigenic_JJ types_NN2 are_VBR also_RR recognized_VVN by_II swine_NN sera_FW ._. 
+</s>
+<s>
+It_PPH1 might_VM also_RR shed_VVI light_NN1 on_II whether_CSW the_AT presumed_JJ clusters_NN2 arose_VVD from_II selection_NN1 or_CC neutral_JJ drift_NN1 ,_, e.g._REX ,_, via_II spatial_JJ segregation_NN1 ._. 
+</s>
+<s>
+Concern_VV0 that_CST a_AT1 new_JJ strain_NN1 of_IO influenza_NN1 virus_NN1 may_VM emerge_VVI from_II an_AT1 animal_NN1 reservoir_NN1 and_CC cause_VVI a_AT1 pandemic_JJ in_II humans_NN2 has_VHZ motivated_VVN models_NN2 of_IO how_RRQ the_AT disease_NN1 might_VM spread_VVI in_II human_JJ populations_NN2 (_( Ferguson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC ;_; Longini_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+The_AT mechanisms_NN2 by_II which_DDQ such_DA a_AT1 strain_NN1 might_VM move_VVI from_II animals_NN2 to_II humans_NN2 have_VH0 generated_VVN much_DA1 speculation_NN1 ._. 
+</s>
+<s>
+The_AT traditional_JJ view_NN1 of_IO influenza_NN1 held_VVD that_CST the_AT appearance_NN1 of_IO novel_JJ subtypes_NN2 in_II humans_NN2 ,_, such_II21 as_II22 H2N2_FO in_II 1957_MC and_CC H3N2_FO in_II 1968_MC ,_, was_VBDZ always_RR preceded_VVN by_II reassortment_NN1 between_II avian_JJ ,_, swine_NN ,_, and_CC possibly_RR human_JJ strains_NN2 in_II pig_NN1 populations_NN2 (_( Webster_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1992_MC ;_; Castrucci_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1993_MC ;_; Ludwig_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1995_MC )_) ._. 
+</s>
+<s>
+Transmission_NN1 of_IO these_DD2 reassortants_NN2 to_II humans_NN2 was_VBDZ considered_VVN rare_JJ and_CC random_JJ ,_, with_IW humans_NN2 occupying_VVG a_AT1 peripheral_JJ niche_NN1 in_II influenza_NN1 's_GE large_JJ community_NN1 of_IO hosts_NN2 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 humans_NN2 and_CC pigs_NN2 ,_, this_DD1 community_NN1 included_VVD wild_JJ waterfowl_NN1 ,_, which_DDQ sustained_VVD all_DB known_JJ subtypes_NN2 of_IO the_AT virus_NN1 ,_, and_CC also_RR horses_NN2 and_CC domesticate_VV0 birds_NN2 ._. 
+</s>
+<s>
+With_IW few_DA2 exceptions_NN2 ,_, influenza_NN1 's_GE dynamics_NN in_II each_DD1 species_NN appeared_VVD independent_JJ of_IO dynamics_NN in_II other_JJ species_NN ._. 
+</s>
+<s>
+Outbreaks_NN2 in_II turkeys_NN2 in_II North_ND1 America_NP1 ,_, which_DDQ coincided_VVD with_IW the_AT fall_NN1 migration_NN1 of_IO waterfowl_NN1 ,_, and_CC serological_JJ surveys_NN2 of_IO asymptomatic_JJ pig_NN1 farm_NN1 workers_NN2 were_VBDR the_AT only_JJ indicators_NN2 of_IO regular_JJ interspecific_JJ transmission_NN1 (_( Halvorson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1983_MC ;_; Karunakaran_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1983_MC ;_; Sivanandan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1991_MC ;_; Campitelli_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1997_MC ;_; Olsen_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC ;_; Myers_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ._. 
+</s>
+<s>
+Influenza_NP1 's_GE recent_JJ activities_NN2 in_II almost_RR all_DB host_VV0 species_NN indicate_VV0 that_CST ecological_JJ and_CC evolutionary_JJ processes_NN2 ,_, and_CC these_DD2 processes_NN2 in_II different_JJ hosts_NN2 ,_, can_56 not_56 -- or_CC can_VM no_RR21 longer_RR22 --_NN1 be_VBI considered_VVN independent_JJ ._. 
+</s>
+<s>
+For_IF the_AT first_MD time_NNT1 since_II 1961_MC ,_, wild_JJ waterfowl_NN1 have_VH0 suffered_VVN severe_JJ morbidity_NN1 and_CC mortality_NN1 from_II highly_RR pathogenic_JJ H5N1_FO ,_, suggesting_VVG that_CST they_PPHS2 may_VM not_XX be_VBI in_II "_" evolutionary_JJ stasis_NN1 "_" with_IW the_AT virus_NN1 (_( Kida_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1980_MC )_) ,_, cf._VV0 (_( Ito_NP1 and_CC Kawaoka_NP1 1998_MC ;_; Hatchette_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+These_DD2 infections_NN2 resulted_VVN from_II H5N1_FO strains_NN2 adapted_VVN to_II poultry_NN ,_, which_DDQ worldwide_RL over_II the_AT past_JJ nine_MC years_NNT2 have_VH0 experienced_VVN twice_RR the_AT number_NN1 of_IO outbreaks_NN2 than_CSN in_II the_AT previous_JJ four_MC decades_NNT2 (_( Hirst_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Shortridge_NP1 2005_MC )_) ._. 
+</s>
+<s>
+These_DD2 epidemics_NN2 were_VBDR often_RR caused_VVN by_II the_AT introduction_NN1 of_IO new_JJ subtypes_NN2 by_II waterfowl_NN1 throughout_II Asia_NP1 ,_, Europe_NP1 ,_, and_CC North_ND1 and_CC South_ND1 America_NP1 (_( Guan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002_MC )_) ._. 
+</s>
+<s>
+Many_DA2 of_IO these_DD2 subtypes_NN2 are_VBR still_RR circulating_VVG in_II poultry_NN and_CC also_RR mixing_VVG with_IW swine_NN (_( Ludwig_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1994_MC ;_; Peiris_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2001_MC ;_; Perez_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC )_) ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, strain_VV0 diversity_NN1 within_II certain_JJ subtypes_NN2 is_VBZ increasing_JJ ,_, perhaps_RR as_II a_AT1 result_NN1 of_IO the_AT selection_NN1 pressures_NN2 induced_VVN by_II vaccination_NN1 measures_NN2 prompted_VVN by_II the_AT outbreaks_NN2 (_( Horimoto_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1995_MC ;_; Lee_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Swayne_NP1 2005_MC )_) ._. 
+</s>
+<s>
+This_DD1 rise_NN1 in_II viral_JJ diversity_NN1 in_II poultry_NN has_VHZ been_VBN mirrored_VVN in_II swine_NN in_II North_ND1 America_NP1 and_CC Asia_NP1 (_( Zhou_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC ;_; Webby_JJ et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+Perhaps_RR the_AT most_RGT significant_JJ development_NN1 in_II influenza_NN1 's_GE ecology_NN1 is_VBZ the_AT establishment_NN1 of_IO a_AT1 new_JJ transmission_NN1 route_NN1 between_II two_MC host_VV0 species_NN :_: Since_II 1996_MC ,_, influenza_NN1 has_VHZ been_VBN repeatedly_RR and_CC directly_RR transmitted_VVN from_II birds_NN2 to_II humans_NN2 (_( Banks_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1998_MC ;_; Lin_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC ;_; Shortridge_NP1 2005_MC )_) ._. 
+</s>
+<s>
+These_DD2 transmissions_NN2 ,_, which_DDQ have_VH0 involved_VVN several_DA2 avian_JJ species_NN ,_, at_RR21 least_RR22 five_MC subtypes_NN2 (_( involving_VVG H5_FO ,_, H7_FO ,_, and_CC H9_FO HA_UH )_) ,_, and_CC hundreds_NNO2 to_II thousands_NNO2 of_IO humans_NN2 on_II different_JJ continents_NN2 ,_, demand_VV0 a_AT1 reexamination_NN1 of_IO almost_RR all_DB aspects_NN2 of_IO the_AT virus-host_JJ interactions_NN2 ,_, and_CC especially_RR the_AT ecological_JJ and_CC evolutionary_JJ constraints_NN2 on_II host_NN1 range_NN1 (_( Suarez_NP1 2000_MC ;_; Liu_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003a_FO ;_; Enserink_NP1 2004_MC ;_; Palese_JJ 2004_MC )_) ._. 
+</s>
+<s>
+While_CS no_AT constraint_NN1 holds_VVZ for_IF all_DB subtypes_NN2 all_DB the_AT time_NNT1 ,_, the_AT least_RGT escapable_JJ biochemical_JJ limitation_NN1 in_RR21 vivo_RR22 and_CC in_RR21 vitro_RR22 is_VBZ the_AT compatibility_NN1 of_IO virus_NN1 's_GE receptor_NN1 binding_JJ site_NN1 and_CC the_AT host_NN1 cell_NN1 's_GE sialic_JJ acid_NN1 receptor_NN1 ._. 
+</s>
+<s>
+In_II waterfowl_NN1 ,_, marine_JJ mammals_NN2 ,_, and_CC horses_NN2 ,_, HA_UH binds_NN2 to_II sialic_JJ acid_NN1 receptors_NN2 of_IO the_AT l2,3_FO conformation_NN1 ,_, which_DDQ are_VBR found_VVN throughout_II birds_58 '_97 gastrointestinal_JJ tracts_NN2 and_CC the_AT respiratory_JJ epithelia_NN1 of_IO horses_NN2 and_CC marine_JJ mammals_NN2 ._. 
+</s>
+<s>
+The_AT respiratory_JJ epithelia_NN1 of_IO humans_NN2 bind_VV0 in_II a_AT1 o2,6_FO conformation_NN1 ._. 
+</s>
+<s>
+Cells_NN2 in_II pigs_NN2 and_CC chickens_NN2 have_VH0 both_DB2 receptor_NN1 types_NN2 ,_, allowing_VVG them_PPHO2 to_TO be_VBI infected_VVN by_II viruses_NN2 adapted_VVN to_II different_JJ ranges_NN2 of_IO hosts_NN2 ,_, and_CC thereby_RR permitting_VVG the_AT generation_NN1 of_IO novel_JJ subtypes_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, pigs_NN2 and_CC chickens_NN2 might_VM serve_VVI as_CSA mixing_VVG vessels_NN2 or_CC intermediate_JJ hosts_NN2 for_IF influenza_NN1 (_( Claas_NN2 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1994_MC ;_; Scholtissek_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1998_MC ;_; Matrosovich_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2001_MC ;_; Gambaryan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002a_FO ;_; Gambaryan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002b_FO )_) ._. 
+</s>
+<s>
+Not_XX all_DB viruses_NN2 share_VV0 this_DD1 constraint_NN1 :_: strains_NN2 of_IO several_DA2 subtypes_NN2 have_VH0 been_VBN able_JK to_TO infect_VVI humans_NN2 while_CS retaining_VVG their_APPGE .2,3_MC preference_NN1 ,_, but_CCB they_PPHS2 do_VD0 not_XX appear_VVI capable_JJ of_IO human-to-human_JJ transmission_NN1 (_( Matrosovich_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1999_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR likely_JJ that_CST hosts_NN2 are_VBR commensurately_RR ambiguous_JJ by_II31 means_II32 of_II33 their_APPGE receptor_NN1 availability_NN1 :_: pigs_NN2 have_VH0 more_RRR .2,6_MC than_CSN 22,3_MC ,_, and_CC swine-adapted_JJ viruses_NN2 tend_VV0 to_TO prefer_VVI 22,6_MC ;_; and_CC 22,3_MC (_( but_CCB not_XX 22,6_MC )_) receptors_NN2 are_VBR found_VVN in_II the_AT human_JJ eye_NN1 (_( Olofsson_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) and_CC lower_JJR respiratory_JJ tract_NN1 (_( Shinya_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2006_MC )_) ._. 
+</s>
+<s>
+Despite_II many_DA2 uncertain_JJ details_NN2 ,_, the_AT consistent_JJ match_NN1 between_II the_AT virus_NN1 's_GE receptor_NN1 preferences_NN2 and_CC the_AT receptors_NN2 available_JJ in_II the_AT hosts_NN2 to_II which_DDQ they_PPHS2 are_VBR adapted_VVN suggests_VVZ a_AT1 framework_NN1 in_II which_DDQ the_AT evolution_NN1 of_IO host_NN1 range_NN1 can_VM be_VBI approached_VVN ._. 
+</s>
+<s>
+Experiments_NN2 have_VH0 shown_VVN that_CST most_DAT viruses_NN2 can_56 not_56 replicate_VVI in_II host_NN1 tissue_NN1 of_IO dissimilar_JJ receptor_NN1 type_NN1 ,_, and_CC viruses_NN2 preferring_VVG one_MC1 receptor_NN1 type_NN1 can_VM usually_RR sustain_VVI some_DD replication_NN1 in_II any_DD host_NN1 possessing_VVG that_DD1 type_NN1 ,_, even_CS21 if_CS22 they_PPHS2 are_VBR adapted_VVN to_II other_JJ species_NN (_( Kida_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1994_MC ;_; Ito_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1999_MC ;_; Ito_NP1 and_CC Kawaoka_NP1 2000_MC ;_; Gambaryan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2002b_FO ;_; Lee_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT chemistry_NN1 of_IO receptor_NN1 binding_NN1 creates_VVZ a_AT1 tradeoff_NN1 between_II the_AT ability_NN1 to_TO invade_VVI cells_NN2 of_IO one_MC1 type_NN1 and_CC the_AT other_JJ ._. 
+</s>
+<s>
+Viruses_NN2 can_VM change_VVI their_APPGE receptor_NN1 preference_NN1 through_II several_DA2 mutational_JJ steps_NN2 ,_, including_II single_JJ nucleotide_NN1 substitutions_NN2 at_II residue_NN1 226_MC ,_, or_CC through_II reassortment_NN1 with_IW a_AT1 virus_NN1 having_VHG the_AT other_JJ receptor_NN1 preference_NN1 on_II its_APPGE HA_UH (_( Nobusawa_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2000_MC )_) ._. 
+</s>
+<s>
+The_AT mutational_JJ jump_NN1 from_II .2,3_MC to_II 22,6_MC occurred_VVD in_II domesticated_JJ swine_NN in_II the_AT 1980s_MC2 following_VVG infection_NN1 by_II poultry_NN and_CC can_VM easily_RR be_VBI obtained_VVN in_RR21 vitro_RR22 (_( Rogers_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1983_MC )_) ._. 
+</s>
+<s>
+Reassortment_NN1 appears_VVZ common_JJ in_II most_DAT hosts_NN2 (_( Hinshaw_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1980_MC ;_; Guo_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1992b_FO ;_; Yamnikova_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1993_MC ;_; Hatchette_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC ;_; Lindstrom_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ,_, and_CC can_VM occur_VVI even_CS21 when_CS22 viruses_NN2 are_VBR unable_JK to_TO replicate_VVI efficiently_RR (_( Kida_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+1994_MC )_) ._. 
+</s>
+<s>
+Various_JJ ecological_JJ conditions_NN2 have_VH0 been_VBN claimed_VVN to_TO enable_VVI 'optimal_JJ evolution'_JJ responsible_JJ for_IF the_AT recent_JJ spread_NN1 of_IO multiple_JJ subtypes_NN2 and_CC strains_VVZ in_II multiple_JJ hosts_NN2 (_( Webster_NP1 and_CC Hulse_VV0 2004_MC )_) ._. 
+</s>
+<s>
+Small_JJ family_NN1 farms_NN2 ,_, large_JJ commercial_JJ farms_NN2 ,_, live_JJ bird_NN1 markets_NN2 ,_, chickens_NN2 ,_, pigs_NN2 ,_, and_CC other_JJ species_NN have_VH0 been_VBN implicated_VVN in_II the_AT recent_JJ changes_NN2 in_II influenza_NN1 's_GE host_NN1 range_NN1 (_( Bulaga_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC ;_; Liu_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003b_FO ;_; Webster_NP1 and_CC Hulse_VV0 2004_MC )_) ._. 
+</s>
+<s>
+So_RG far_RR ,_, the_AT effects_NN2 of_IO host_NN1 ecology_NN1 on_II the_AT evolutionary_JJ opportunities_NN2 available_JJ to_II influenza_NN1 viruses_NN2 have_VH0 not_XX been_VBN explored_VVN quantitatively_RR ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO my_APPGE fifth_MD research_NN1 project_NN1 is_VBZ to_TO develop_VVI approaches_NN2 in_II which_DDQ to_TO evaluate_VVI these_DD2 hypotheses_NN2 more_RGR rigorously_RR ,_, and_CC that_DD1 can_VM be_VBI applied_VVN to_II other_JJ pathogens_NN2 whose_DDQGE host_NN1 ranges_NN2 are_VBR also_RR partly_RR constrained_VVN by_II cell_NN1 recognition_NN1 (_( reviewed_VVN in_II Baranowski_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2001_MC )_) )_) ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, I_PPIS1 would_VM like_VVI to_TO assess_VVI how_RRQ adaptation_NN1 is_VBZ affected_VVN by_II host_NN1 ecology_NN1 ,_, where_CS hosts_NN2 are_VBR defined_VVN by_II their_APPGE receptor_NN1 types_NN2 ,_, contacts_NN2 ,_, and_CC epidemiologically_RR relevant_JJ traits_NN2 (_( Figure_NN1 7_MC )_) ;_; and_CC how_RRQ reassortment_NN1 changes_VVZ this_DD1 picture_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM initially_RR address_VVI this_DD1 question_NN1 in_II two_MC ways_NN2 :_: I_PPIS1 would_VM like_VVI to_TO tie_VVI this_DD1 research_NN1 to_II other_JJ theoretical_JJ models_NN2 of_IO pathogen_NN1 evolution_NN1 on_II networks_NN2 ._. 
+</s>
+<s>
+Among_II these_DD2 models_58 '_97 findings_NN2 are_VBR that_CST networks_NN2 can_VM support_VVI higher_JJR pathogen_NN1 diversity_NN1 (_( Buckee_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) and_CC select_JJ intermediate_JJ levels_NN2 of_IO traits_NN2 (_( Rauch_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC ;_; van_NP1 Ballegooijen_NP1 and_CC Boerlijst_VV0 2004_MC )_) relative_II21 to_II22 their_APPGE mean-field_JJ counterparts_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, I_PPIS1 would_VM like_VVI to_TO analyze_VVI a_AT1 group_NN1 of_IO provocative_JJ arguments_NN2 about_II the_AT evolution_NN1 of_IO genetic_JJ control_NN1 over_II phenotypic_JJ variation_NN1 in_II the_AT context_NN1 of_IO influenza_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT ways_NN2 in_II which_DDQ populations_NN2 may_VM adapt_VVI to_II changing_JJ environments_NN2 is_VBZ through_II "_" genetic_JJ potential_JJ "_" --_NN1 that_REX21 is_REX22 ,_, "_" a_AT1 heightened_JJ sensitivity_NN1 to_II the_AT effects_NN2 of_IO mutation_NN1 that_CST facilitates_VVZ rapid_JJ evolution_NN1 to_II novel_JJ states_NN2 "_" (_( Meyers_NP2 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+Using_VVG a_AT1 toy_NN1 model_NN1 ,_, Meyers_NP2 and_CC coauthors_NN2 showed_VVD that_CST populations_NN2 accumulate_VV0 genetic_JJ potential_NN1 fastest_RRT when_CS mutation_NN1 rates_NN2 are_VBR high_JJ and_CC the_AT exogenously_RR defined_VVN fitnesses_NN2 of_IO two_MC possible_JJ phenotypes_NN2 alternate_VV0 every_AT1 generation_NN1 ._. 
+</s>
+<s>
+This_DD1 idea_NN1 has_VHZ also_RR been_VBN described_VVN by_II "_" codon_NN1 volatility_NN1 "_" ,_, which_DDQ measures_VVZ the_AT proportion_NN1 of_IO one-point_JJ neighbors_NN2 of_IO a_AT1 codon_NN1 that_CST code_NN1 for_IF another_DD1 amino_NN1 acid_NN1 (_( under_II the_AT Hamming_VVG metric_JJ )_) or_CC the_AT change_NN1 in_II the_AT stereochemical_JJ properties_NN2 of_IO the_AT amino_NN1 acid_NN1 (_( under_II the_AT Miyata_NP1 metric_JJ )_) (_( Plotkin_NP1 and_CC Dushoff_VV0 2003_MC )_) ._. 
+</s>
+<s>
+Plotkin_NN1 and_CC Dushoff_NP1 calculated_VVD that_CST codons_NN2 in_II HA1_FO epitopes_NN2 are_VBR significantly_RR more_RGR biased_JJ than_CSN codons_NN2 in_II NA_FU and_CC NP_NP1 ._. 
+</s>
+<s>
+They_PPHS2 later_RRR claimed_VVD that_CST past_JJ selection_NN1 can_VM be_VBI inferred_VVN from_II measuring_VVG the_AT codon_NN1 volatility_NN1 of_IO a_AT1 single_JJ sequence_NN1 ,_, which_DDQ they_PPHS2 demonstrated_VVD with_IW Plasmodium_NP1 (_( Plotkin_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2004_MC )_) ._. 
+</s>
+<s>
+Their_APPGE idea_NN1 was_VBDZ countered_VVN with_IW many_DA2 examples_NN2 ,_, including_II genomes_NN2 of_IO HIV_NP1 and_CC other_JJ Plasmodium_NN1 ,_, in_II which_DDQ volatility_NN1 did_VDD not_XX reflect_VVI selection_NN1 (_( Friedman_NP1 and_CC Hughes_NP1 2005_MC ;_; Pillai_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ suggested_VVN that_CST correlations_NN2 between_II volatility_NN1 and_CC selection_NN1 instead_RR result_VV0 from_II translational_JJ biases_NN2 (_( Stoletzki_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+Zhang_NP1 (_( 2005_MC )_) showed_VVD in_II simulations_NN2 that_CST strong_JJ directional_JJ selection_NN1 could_VM not_XX increase_VVI codon_NN1 volatility_NN1 ._. 
+</s>
+<s>
+We_PPIS2 expect_VV0 that_DD1 selection_NN1 on_II HA1_FO of_IO influenza_NN1 is_VBZ frequency_NN1 dependent_NN1 ,_, but_CCB that_DD1 with_IW high_JJ phenotypic_JJ diversity_NN1 it_PPH1 more_RGR closely_RR resembles_VVZ directional_JJ selection_NN1 :_: any_DD mutation_NN1 enabling_VVG antibody_NN1 escape_NN1 is_VBZ advantageous_JJ ,_, and_CC mutations_NN2 accumulate_VV0 over_II time_NNT1 (_( Nakajima_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2005_MC )_) ._. 
+</s>
+<s>
+For_IF the_AT first_MD part_NN1 of_IO this_DD1 project_NN1 ,_, I_PPIS1 would_VM like_VVI to_TO revisit_VVI Plotkin_NP1 and_CC Dushoff_NP1 's_GE calculation_NN1 of_IO volatility_NN1 to_TO determine_VVI if_CSW the_AT volatile_JJ codons_NN2 might_VM reflect_VVI a_AT1 translational_JJ bias_NN1 ,_, and_CC if_CS there_EX is_VBZ evidence_NN1 of_IO frequency_NN1 dependent_JJ selection_NN1 on_II HA1_FO codons_NN2 over_II short_JJ time_NNT1 scales_NN2 ._. 
+</s>
+<s>
+Next_MD ,_, I_PPIS1 would_VM like_VVI to_TO explore_VVI genetic_JJ potential_NN1 more_RGR broadly_RR ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI interesting_JJ to_TO see_VVI if_CSW volatile_JJ codons_NN2 are_VBR also_RR the_AT most_RGT accessible_JJ ;_; the_AT two_MC properties_NN2 are_VBR not_XX identical_JJ ,_, and_CC random_JJ mutations_NN2 should_VM land_VVI sequences_NN2 in_II the_AT networks_NN2 corresponding_VVG to_II more_RGR accessible_JJ amino_NN1 acids_NN2 ._. 
+</s>
+<s>
+The_AT theory_NN1 of_IO genetic_JJ potential_NN1 has_VHZ also_RR largely_RR ignored_VVN the_AT consequences_NN2 of_IO higher-level_JJ interactions_NN2 :_: Is_VBZ it_PPH1 possible_JJ to_TO evolve_VVI to_II a_AT1 state_NN1 of_IO "_" heightened_JJ sensitivity_NN1 to_II the_AT effects_NN2 of_IO mutation_NN1 that_CST facilitates_VVZ rapid_JJ evolution_NN1 to_II novel_NN1 (_( phenotypes_NN2 )_) "_" when_RRQ amino_NN1 acids_NN2 interact_VV0 in_II complex_NN1 ,_, "_" epistatic_JJ "_" ways_NN2 ?_? 
+</s>
+<s>
+Meyers_NP2 and_CC coauthors_NN2 (_( 2005_MC )_) assume_VV0 that_CST traits_NN2 under_II selection_NN1 are_VBR controlled_VVN by_II independent_JJ coding_NN1 regions_NN2 ._. 
+</s>
+<s>
+Kauffman_NP1 (_( 1995_MC )_) argued_VVD that_CST there_EX exists_VVZ a_AT1 place_NN1 in_II the_AT NK_NP1 adaptive_JJ landscape_NN1 corresponding_VVG to_II phase_NN1 transition_NN1 between_II excessive_JJ order_NN1 and_CC chaos_NN1 ,_, where_CS mutations_NN2 to_TO near_VVI neighbors_NN2 usually_RR fall_VV0 in_II the_AT same_DA basin_NN1 of_IO attraction_NN1 ;_; this_DD1 behavior_NN1 emerges_VVZ where_RRQ each_DD1 node_NN1 interacts_VVZ with_IW only_RR two_MC of_IO its_APPGE neighbors_NN2 (_( K_ZZ1 =_FO 2_MC )_) ._. 
+</s>
+<s>
+In_II the_AT NK_NP1 model_NN1 of_IO Koelle_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( in_II prep_NN1 )_) ,_, even_RR the_AT lowest_JJT amount_NN1 of_IO epistasis_NN1 (_( K_ZZ1 =_FO 1_MC1 )_) among_II the_AT amino_NN1 acids_NN2 comprising_VVG an_AT1 epitope_NN1 frequently_RR resulted_VVN in_II phenotype_NN1 shifts_VVZ after_II one_MC1 or_CC two_MC mutations_NN2 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, under_II very_RG modest_JJ assumptions_NN2 of_IO interaction_NN1 ,_, the_AT neutral_JJ network_NN1 had_VHD too_RG many_DA2 edges_NN2 for_IF sequences_NN2 to_TO accumulate_VVI "_" genetic_JJ potential_JJ "_" --_NN1 there_EX was_VBDZ too_RG much_DA1 potential_NN1 everywhere_RL ._. 
+</s>
+<s>
+This_DD1 is_VBZ worth_II simulating_VVG more_RGR formally_RR :_: what_DDQ is_VBZ the_AT range_NN1 of_IO genetic_JJ potential_NN1 under_II the_AT NK_NP1 model_NN1 ?_? 
+</s>
+<s>
+Is_VBZ there_EX an_AT1 appreciable_JJ range_NN1 ?_? 
+</s>
+<s>
+Finally_RR ,_, I_PPIS1 would_VM like_VVI to_TO search_VVI the_AT literature_NN1 for_IF other_JJ models_NN2 of_IO interacting_JJ amino_NN1 acids_NN2 that_CST could_VM accommodate_VVI more_RGR genetic_JJ potential_NN1 ._. 
+</s>
+<s>
+Do_VD0 such_DA landscapes_NN2 have_VHI more_DAR holes_NN2 ?_? 
+</s>
+<s>
+Are_VBR they_PPHS2 based_VVN on_II hydrophobicity_NN1 or_CC size_NN1 ?_? 
+</s>
+<s>
+If_CS such_DA models_NN2 do_VD0 not_XX exist_VVI or_CC have_VHI very_RG constrained_VVN assumptions_NN2 ,_, then_RT the_AT concept_NN1 of_IO genetic_JJ potential_NN1 either_RR has_VHZ limited_VVN application_NN1 or_CC it_PPH1 is_VBZ not_XX based_VVN on_II epistasis_NN1 ._. 
+</s>
+<s>
+Have_VH0 lower_JJR K_ZZ1 values_VVZ --_NN1 in_II other_JJ words_NN2 ,_, increasing_JJ modularity_NN1 --_NN1 been_VBN selected_VVN ?_? 
+</s>
+<s>
+I_PPIS1 would_VM like_VVI to_TO test_VVI the_AT compatibility_NN1 of_IO these_DD2 hypotheses_NN2 on_II genotype-phenotype_JJ landscapes_NN2 and_CC the_AT evolution_NN1 of_IO evolvability_NN1 through_II simulations_NN2 and_CC ,_, if_CS possible_JJ ,_, mathematical_JJ analysis_NN1 ._. 
+</s>
+<s>
+Site-directed_JJ mutation_NN1 experiments_NN2 in_II different_JJ strains_NN2 of_IO H3N2_FO over_II time_NNT1 ,_, including_II comparisons_NN2 of_IO the_AT fitness_NN1 effects_NN2 of_IO mutations_NN2 in_RR21 vitro_RR22 and_CC in_RR21 vivo_RR22 (_( Nakajima_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2003_MC )_) ,_, will_VM be_VBI useful_JJ in_II illuminating_VVG this_DD1 problem_NN1 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 working_VVG closely_RR with_IW my_APPGE advisor_NN1 ,_, ,_, I_PPIS1 will_VM continue_VVI collaborating_VVG with_IW ._. 
+</s>
+<s>
+I_PPIS1 will_VM take_VVI the_AT lead_NN1 on_II all_DB projects_NN2 described_VVN here_RL ._. 
+</s>

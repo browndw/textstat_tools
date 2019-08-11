@@ -1,0 +1,456 @@
+<s>
+The_AT design_NN1 features_NN2 of_IO a_AT1 speedometer_NN1 are_VBR not_XX trivial_JJ details_NN2 ._. 
+</s>
+<s>
+Everyday_JJ ,_, millions_NNO2 of_IO people_NN rely_VV0 on_II speedometer_NN1 details_NN2 when_RRQ driving_JJ automobiles_NN2 ._. 
+</s>
+<s>
+A_AT1 few_DA2 small_JJ defects_NN2 in_II the_AT speedometer_NN1 design_NN1 could_VM distract_VVI the_AT driver_NN1 enough_DD time_NNT1 to_TO cause_VVI an_AT1 accident_NN1 and_CC potentially_RR cost_VV0 many_DA2 people_NN their_APPGE lives_NN2 ._. 
+</s>
+<s>
+Consequently_RR ,_, studying_VVG the_AT effects_NN2 of_IO speedometer_NN1 design_NN1 parameters_NN2 on_II speedometer_NN1 reading_NN1 time_NNT1 and_CC accuracy_NN1 is_VBZ very_RG important_JJ ._. 
+</s>
+<s>
+The_AT design_NN1 parameters_NN2 examined_VVN in_II the_AT experiment_NN1 include_VV0 character_NN1 color_NN1 ,_, location_NN1 on_II the_AT instrument_NN1 panel_NN1 ,_, character_NN1 size_NN1 (_( strokewidth_NN1 and_CC height_NN1 )_) ,_, radius_NN1 and_CC numbering_VVG scale_NN1 ._. 
+</s>
+<s>
+Each_DD1 parameter_NN1 was_VBDZ examined_VVN in_BCL21 order_BCL22 to_TO explore_VVI the_AT possible_JJ combinations_NN2 of_IO design_NN1 features_NN2 such_CS21 that_CS22 the_AT speedometer_NN1 average_NN1 reading_NN1 time_NNT1 would_VM be_VBI low_JJ as_CSA well_JJ as_CSA having_VHG high_JJ reading_NN1 accuracy_NN1 ._. 
+</s>
+<s>
+These_DD2 design_NN1 parameters_NN2 ,_, however_RR ,_, may_VM have_VHI a_AT1 different_JJ effect_NN1 on_II reading_VVG time_NNT1 and_CC accuracy_NN1 depending_II21 on_II22 the_AT task_NN1 condition_NN1 ._. 
+</s>
+<s>
+Two_MC task_NN1 conditions_NN2 were_VBDR examined_VVN in_II this_DD1 experiment_NN1 ._. 
+</s>
+<s>
+The_AT first_MD speedometer_NN1 task_NN1 condition_NN1 was_VBDZ to_TO find_VVI the_AT exact_JJ speed_NN1 while_CS the_AT second_NNT1 was_VBDZ to_TO verify_VVI if_CSW the_AT vehicle_NN1 was_VBDZ above_RL or_CC below_II the_AT speed_NN1 limit_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT two_MC objectives_NN2 of_IO the_AT experiment_NN1 were_VBDR :_: -- To_TO find_VVI the_AT relationship_NN1 between_II speedometer_NN1 design_NN1 parameters_NN2 ,_, task_NN1 condition_NN1 and_CC task_NN1 performance_NN1 (_( reading_VVG time_NNT1 and_CC accuracy_NN1 )_) ._. 
+</s>
+<s>
+--_JJ To_TO find_VVI which_DDQ speedometer_NN1 is_VBZ best_JJT for_IF each_DD1 given_JJ task_NN1 condition_NN1 and_CC why_RRQ ._. 
+</s>
+<s>
+The_AT experiment_NN1 was_VBDZ conducted_VVN using_VVG 13_MC test_NN1 participants_NN2 ._. 
+</s>
+<s>
+Appendix_NN1 A_ZZ1 displays_VVZ the_AT relevant_JJ information_NN1 for_IF each_DD1 test_NN1 participant_NN1 ._. 
+</s>
+<s>
+All_DB the_AT test_NN1 subjects_NN2 were_VBDR volunteers_NN2 and_CC students_NN2 of_IO the_AT University_NN1 of_IO Michigan_NP1 ._. 
+</s>
+<s>
+There_EX were_VBDR many_DA2 individual_JJ differences_NN2 between_II the_AT test_NN1 participants_NN2 that_CST were_VBDR considered_VVN relevant_JJ to_II the_AT experiment_NN1 and_CC will_VM be_VBI analyzed_VVN in_II later_JJR sections_NN2 of_IO this_DD1 report_NN1 ._. 
+</s>
+<s>
+These_DD2 differences_NN2 include_VV0 participant_NN1 vision_NN1 ,_, handedness_NN1 ,_, sex_NN1 and_CC viewing_NN1 distance_NN1 ._. 
+</s>
+<s>
+All_DB other_JJ factors_NN2 were_VBDR considered_VVN negligible_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, test_VV0 participant_NN1 age_NN1 was_VBDZ considered_VVN to_TO be_VBI negligible_JJ due_II21 to_II22 the_AT small_JJ range_NN1 of_IO values_NN2 (_( 18_MC to_II 21_MC )_) ._. 
+</s>
+<s>
+The_AT experiment_NN1 used_VVD a_AT1 simple_JJ projection_NN1 and_CC timing_NN1 system_NN1 to_TO collect_VVI the_AT data_NN ._. 
+</s>
+<s>
+This_DD1 system_NN1 included_VVD the_AT following_JJ equipment_NN1 :_: The_AT DRCU_NN1 ,_, PSCU_NP1 ,_, and_CC response_NN1 boxes_NN2 were_VBDR all_DB custom_NN1 made_VVN at_II the_AT University_NN1 of_IO Michigan_NP1 ._. 
+</s>
+<s>
+This_DD1 system_NN1 worked_VVN such_CS21 that_CS22 the_AT software_NN1 in_II the_AT computer_NN1 controlled_VVD ,_, directly_RR or_CC indirectly_RR ,_, all_DB the_AT elements_NN2 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+The_AT software_NN1 was_VBDZ called_VVN RT334_FO and_CC written_VVN by_II Prof._NNB Chuck_NP1 Wooley_NP1 of_IO the_AT University_NN1 of_IO Michigan_NP1 ._. 
+</s>
+<s>
+The_AT system_NN1 projected_VVN various_JJ images_NN2 of_IO speedometers_NN2 for_IF an_AT1 exact_JJ determined_JJ amount_NN1 of_IO time_NNT1 while_CS being_VBG able_JK to_TO store_VVI data_NN that_CST was_VBDZ collected_VVN at_II the_AT response_NN1 boxes_NN2 ._. 
+</s>
+<s>
+The_AT images_NN2 were_VBDR projected_VVN on_II a_AT1 large_JJ projection_NN1 screen_NN1 in_II the_AT front_NN1 of_IO the_AT room_NN1 ._. 
+</s>
+<s>
+Two_MC TVs_NP1 were_VBDR used_VVN to_TO show_VVI summary_NN1 data_NN to_II the_AT test_NN1 participants_NN2 in_RL21 between_RL22 testing_VVG blocks_NN2 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 displays_VVZ the_AT system_NN1 's_GE electronic_JJ connections_NN2 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 displays_VVZ how_RRQ the_AT computer_NN1 ,_, directly_RR or_CC indirectly_RR ,_, controlled_VVD the_AT entire_JJ system_NN1 ._. 
+</s>
+<s>
+Four_MC unique_JJ speedometers_NN2 were_VBDR used_VVN in_II the_AT experiment_NN1 ._. 
+</s>
+<s>
+Table_NN1 gives_VVZ a_AT1 description_NN1 of_IO the_AT significant_JJ differences_NN2 for_IF each_DD1 speedometer_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ to_TO note_VVI that_CST the_AT measurement_NN1 values_NN2 are_VBR for_IF the_AT size_NN1 of_IO the_AT characteristics_NN2 when_CS projected_VVN on_II the_AT screen_NN1 ,_, not_XX the_AT actual_JJ size_NN1 ._. 
+</s>
+<s>
+One_MC1 characteristic_NN1 of_IO speedometer_NN1 4_MC that_DD1 is_VBZ not_XX apparent_JJ from_II Table_NN1 1_MC1 is_VBZ that_CST the_AT first_MD number_NN1 on_II the_AT speedometer_NN1 after_II 0_MC mph_NNU was_VBDZ 15_MC mph_NNU ._. 
+</s>
+<s>
+From_II then_RT on_RP a_AT1 scale_NN1 of_IO 10_MC mph_NNU was_VBDZ used_VVN ._. 
+</s>
+<s>
+All_DB the_AT speedometers_NN2 were_VBDR circular_JJ in_II shape_NN1 ._. 
+</s>
+<s>
+The_AT pointing_JJ needles_NN2 of_IO the_AT different_JJ speedometers_NN2 had_VHD negligible_JJ differences_NN2 ._. 
+</s>
+<s>
+Figure_NN1 2_MC displays_VVZ the_AT instrument_NN1 control_NN1 panel_NN1 layout_NN1 ,_, common_JJ to_II all_DB the_AT speedometers_NN2 ,_, shown_VVN on_II the_AT projection_NN1 screen_NN1 (_( without_IW negligible_JJ and_CC non-effecting_JJ details_NN2 )_) ._. 
+</s>
+<s>
+The_AT speedometer_NN1 was_VBDZ found_VVN in_II either_DD1 of_IO the_AT large_JJ ,_, inner_JJ circles_NN2 in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT other_JJ circles_NN2 represent_VV0 other_JJ gauges_NN2 for_IF RPM_NNU ,_, temperature_NN1 ,_, oil_NN1 level_NN1 ,_, etc_RA ._. 
+</s>
+<s>
+Other_JJ test_NN1 materials_NN2 and_CC equipment_NN1 used_VVN in_II the_AT experiment_NN1 include_VV0 a_AT1 standard_JJ tape_NN1 measure_NN1 ,_, chairs_NN2 ,_, and_CC tables_NN2 ._. 
+</s>
+<s>
+Each_DD1 experiment_NN1 began_VVD with_IW the_AT 13_MC test_NN1 participants_NN2 seated_VVN in_II two_MC rows_NN2 ,_, each_DD1 with_IW their_APPGE own_DA response_NN1 pad_NN1 directly_RR in_II31 front_II32 of_II33 them_PPHO2 on_II a_AT1 standard_JJ classroom_NN1 table_NN1 ._. 
+</s>
+<s>
+The_AT middle_NN1 of_IO the_AT first_MD row_NN1 was_VBDZ 10_MC feet_NN2 and_CC 5_MC inches_NNU2 from_II the_AT projection_NN1 screen_NN1 and_CC had_VHD 8_MC participants_NN2 ._. 
+</s>
+<s>
+The_AT second_MD row_NN1 ,_, containing_VVG 5_MC participants_NN2 ,_, was_VBDZ 15_MC feet_NN2 from_II the_AT projection_NN1 screen_NN1 ._. 
+</s>
+<s>
+The_AT participants_NN2 in_II the_AT second_MD row_NN1 were_VBDR sitting_VVG in_RP slightly_RR higher_JJR (_( approx._RR 6_MC inches_NNU2 )_) chairs_NN2 than_CSN the_AT first_MD row_NN1 ._. 
+</s>
+<s>
+Figure_NN1 3_MC depicts_VVZ the_AT testing_NN1 room_NN1 layout_NN1 ._. 
+</s>
+<s>
+Each_DD1 number_NN1 on_II figure_NN1 3_MC represents_VVZ the_AT respective_JJ test_NN1 participant_NN1 's_GE seat_NN1 ._. 
+</s>
+<s>
+Both_DB2 televisions_NN2 projected_VVN identical_JJ information_NN1 ,_, which_DDQ was_VBDZ easily_RR visible_JJ for_IF every_AT1 test_NN1 participant_NN1 ._. 
+</s>
+<s>
+The_AT experiment_NN1 was_VBDZ run_VVN in_II blocks_NN2 of_IO trials_NN2 ._. 
+</s>
+<s>
+Each_DD1 trial_NN1 began_VVD when_RRQ the_AT shutter_NN1 opened_VVD revealing_VVG an_AT1 image_NN1 of_IO a_AT1 speedometer_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ also_RR when_CS the_AT clock_NN1 started_VVD for_IF the_AT trial_NN1 ._. 
+</s>
+<s>
+The_AT participants_NN2 could_VM then_RT begin_VVI to_TO enter_VVI a_AT1 response_NN1 by_II pushing_VVG a_AT1 button_NN1 on_II the_AT response_NN1 box_NN1 in_II31 front_II32 of_II33 them_PPHO2 ._. 
+</s>
+<s>
+After_II pushing_VVG the_AT button_NN1 ,_, a_AT1 signal_NN1 would_VM be_VBI sent_VVN indirectly_RR to_II the_AT computer_NN1 ._. 
+</s>
+<s>
+The_AT time_NNT1 after_II the_AT shutter_NN1 opened_VVD until_CS the_AT response_NN1 button_NN1 was_VBDZ pushed_VVN was_VBDZ stored_VVN in_II the_AT computer_NN1 for_IF each_DD1 participant_NN1 ._. 
+</s>
+<s>
+The_AT shutter_NN1 would_VM then_RT close_VVI ,_, completing_VVG the_AT exposure_NN1 duration_NN1 ._. 
+</s>
+<s>
+The_AT participant_NN1 could_VM enter_VVI a_AT1 response_NN1 after_II the_AT shutter_NN1 closed_VVD ,_, but_CCB only_RR until_CS the_AT maximum_JJ response_NN1 time_NNT1 for_IF that_DD1 trial_NN1 ._. 
+</s>
+<s>
+Only_RR the_AT first_MD response_NN1 the_AT test_NN1 participant_NN1 gave_VVD was_VBDZ recorded_VVN ._. 
+</s>
+<s>
+If_CS the_AT participant_NN1 had_VHD responded_VVN with_IW an_AT1 incorrect_JJ response_NN1 (_( error_NN1 )_) ,_, the_AT time_NNT1 as_II31 well_II32 as_II33 the_AT fact_NN1 that_CST it_PPH1 was_VBDZ incorrect_JJ was_VBDZ recorded_VVN ._. 
+</s>
+<s>
+After_CS the_AT maximum_JJ response_NN1 time_NNT1 ,_, data_NN collection_NN1 ended_VVN and_CC the_AT projector_NN1 advanced_VVD ._. 
+</s>
+<s>
+If_CS the_AT participant_NN1 gave_VVD no_AT response_NN1 ,_, the_AT maximum_JJ response_NN1 time_NNT1 was_VBDZ recorded_VVN for_IF that_DD1 participant_NN1 as_II31 well_II32 as_II33 the_AT fact_NN1 that_CST the_AT participant_NN1 did_VDD not_XX respond_VVI (_( miss_VV0 )_) ._. 
+</s>
+<s>
+The_AT time_NNT1 in_II21 between_II22 the_AT end_NN1 of_IO data_NN collection_NN1 and_CC the_AT shutter_NN1 opening_NN1 again_RT was_VBDZ called_VVN the_AT intertrial_JJ interval_NN1 and_CC was_VBDZ common_JJ for_IF all_DB trials_NN2 ._. 
+</s>
+<s>
+Nine_MC blocks_NN2 ,_, each_DD1 with_IW either_RR 16_MC or_CC 32_MC trials_NN2 were_VBDR conducted_VVN ._. 
+</s>
+<s>
+In_II all_DB the_AT blocks_NN2 the_AT speedometers_NN2 read_VVD 50_MC ,_, 55_MC ,_, 60_MC or_CC 65_MC mph_NNU ._. 
+</s>
+<s>
+With_IW blocks_NN2 1_MC1 through_II 6_MC ,_, each_DD1 participant_NN1 pressed_VVD one_MC1 of_IO the_AT four_MC buttons_NN2 on_II the_AT response_NN1 box_NN1 that_CST had_VHD been_VBN assigned_VVN a_AT1 respective_JJ speedometer_NN1 reading_NN1 (_( 50_MC ,_, 55_MC ,_, 60_MC or_CC 65_MC mph_NNU )_) ._. 
+</s>
+<s>
+In_II blocks_NN2 7_MC through_II 9_MC ,_, the_AT participants_NN2 pressed_VVD 1_MC1 of_IO the_AT 2_MC buttons_NN2 that_CST had_VHD been_VBN assigned_VVN "_" speeding_VVG "_" and_CC "_" not_XX speeding_VVG "_" ._. 
+</s>
+<s>
+The_AT "_" speed_NN1 limit_NN1 "_" was_VBDZ considered_VVN to_TO be_VBI 55_MC mph_NNU ._. 
+</s>
+<s>
+In_II both_DB2 protocols_NN2 ,_, the_AT participants_NN2 were_VBDR instructed_VVN to_TO assign_VVI one_MC1 finger_NN1 for_IF each_DD1 button_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, before_CS every_AT1 block_NN1 the_AT test_NN1 participants_NN2 were_VBDR given_VVN the_AT instruction_NN1 to_TO "_" be_VBI as_RG fast_JJ and_CC as_RG accurate_JJ as_CSA possible_JJ "_" ._. 
+</s>
+<s>
+The_AT first_MD two_MC blocks_NN2 were_VBDR practice_NN1 in_BCL21 order_BCL22 to_TO familiarize_VVI the_AT test_NN1 participants_NN2 with_IW the_AT routine_NN1 and_CC system_NN1 ._. 
+</s>
+<s>
+Block_NN1 7_MC was_VBDZ also_RR practice_NN1 because_II21 of_II22 the_AT new_JJ response_NN1 protocol_NN1 ._. 
+</s>
+<s>
+The_AT practice_NN1 blocks_NN2 had_VHD one_MC1 large_JJ difference_NN1 from_II the_AT testing_NN1 blocks_NN2 ._. 
+</s>
+<s>
+In_II the_AT practice_NN1 blocks_VVZ no_AT speedometers_NN2 were_VBDR shown_VVN ,_, only_RR 3_MC boxes_NN2 ,_, each_DD1 with_IW a_AT1 word_NN1 in_II them_PPHO2 ._. 
+</s>
+<s>
+Only_RR one_MC1 box_NN1 actually_RR had_VHN a_AT1 correct_JJ spelling_NN1 of_IO fifty_MC ,_, fifty-five_MC ,_, sixty_MC or_CC sixty-five_MC ._. 
+</s>
+<s>
+The_AT one_MC1 correctly_RR spelled_VVN speed_NN1 was_VBDZ viewed_VVN as_II the_AT speedometer_NN1 reading_VVG for_IF the_AT trial_NN1 ._. 
+</s>
+<s>
+This_DD1 difference_NN1 was_VBDZ to_TO make_VVI sure_JJ that_CST the_AT test_NN1 participants_NN2 did_VDD not_XX get_VVI any_DD practice_NN1 at_II looking_VVG at_II any_DD speedometer_NN1 before_CS they_PPHS2 were_VBDR tested_VVN on_II it_PPH1 ._. 
+</s>
+<s>
+Also_RR ,_, between_II each_DD1 block_NN1 ,_, the_AT test_NN1 participants_NN2 were_VBDR shown_VVN their_APPGE mean_JJ response_NN1 time_NNT1 and_CC error_NN1 count_NN1 of_IO the_AT previous_JJ block_NN1 on_II the_AT 2_MC televisions_NN2 in_II the_AT front_NN1 of_IO the_AT room_NN1 ._. 
+</s>
+<s>
+The_AT speedometers_NN2 were_VBDR grouped_VVN into_II 2_MC groups_NN2 ._. 
+</s>
+<s>
+Speedometers_NN2 1_MC1 and_CC 2_MC were_VBDR group_NN1 A_ZZ1 and_CC speedometers_NN2 3_MC and_CC 4_MC were_VBDR group_NN1 B._NP1 Only_RR one_MC1 group_NN1 was_VBDZ shown_VVN per_II block_NN1 of_IO trials_NN2 ._. 
+</s>
+<s>
+Within_II each_DD1 block_NN1 ,_, the_AT 2_MC speedometers_NN2 of_IO the_AT group_NN1 as_II31 well_II32 as_II33 the_AT reading_NN1 on_II them_PPHO2 would_VM randomly_RR change_VVI from_II trial_NN1 to_II trial_NN1 ._. 
+</s>
+<s>
+Table_NN1 2_MC displays_VVZ each_DD1 block_NN1 with_IW its_APPGE respective_JJ parameters_NN2 ._. 
+</s>
+<s>
+The_AT first_MD step_NN1 in_II analyzing_VVG the_AT data_NN was_VBDZ look_NN1 at_II the_AT summary_NN1 data_NN of_IO each_DD1 block_NN1 with_II31 respect_II32 to_II33 each_DD1 speedometer_NN1 ._. 
+</s>
+<s>
+Table_NN1 3_MC displays_VVZ each_DD1 speedometer_NN1 's_GE average_JJ response_NN1 time_NNT1 for_IF each_DD1 block_NN1 in_II which_DDQ the_AT speedometer_NN1 was_VBDZ shown_VVN ._. 
+</s>
+<s>
+Table_NN1 4_MC displays_VVZ the_AT average_JJ error_NN1 percentage_NN1 rate_NN1 and_CC average_JJ miss_NN1 percentage_NN1 rate_NN1 for_IF each_DD1 speedometer_NN1 ._. 
+</s>
+<s>
+Comparing_VVG blocks_NN2 3_MC and_CC 5_MC (_( the_AT blocks_NN2 with_IW prolonged_JJ speedometer_NN1 exposure_NN1 duration_NN1 )_) ,_, patterns_NN2 become_VV0 apparent_JJ ._. 
+</s>
+<s>
+Speedometer_NN1 2_MC had_VHD the_AT lowest_JJT average_JJ response_NN1 time_NNT1 and_CC the_AT lowest_JJT error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 ._. 
+</s>
+<s>
+Speedometer_NN1 1_MC1 was_VBDZ very_RG close_JJ in_II average_JJ response_NN1 time_NNT1 ,_, but_CCB not_XX as_RG close_JJ in_II error_NN1 rate_NN1 ._. 
+</s>
+<s>
+Speedometers_NN2 3_MC and_CC 4_MC seem_VV0 to_TO be_VBI stratified_VVN from_II speedometers_NN2 1_MC1 and_CC 2_MC in_II response_NN1 time_NNT1 ._. 
+</s>
+<s>
+One_MC1 possible_JJ explanation_NN1 for_IF these_DD2 differences_NN2 can_VM be_VBI in_II the_AT overall_JJ size_NN1 of_IO speedometers_NN2 1_MC1 and_CC 2_MC versus_II 3_MC and_CC 4_MC ._. 
+</s>
+<s>
+Speedometer_NN1 set_VVD A_AT1 averaged_JJ much_RR larger_JJR character_NN1 strokewidth_NN1 ,_, character_NN1 height_NN1 ,_, and_CC speedometer_NN1 radius_NN1 than_CSN speedometer_NN1 set_NN1 B_ZZ1 ,_, accounting_VVG for_IF the_AT large_JJ difference_NN1 in_II task_NN1 performances_NN2 ._. 
+</s>
+<s>
+Comparing_VVG blocks_NN2 4_MC and_CC 6_MC (_( the_AT blocks_NN2 with_IW shortened_JJ speedometer_NN1 exposure_NN1 duration_NN1 )_) ,_, similar_JJ patterns_NN2 become_VV0 apparent_JJ ._. 
+</s>
+<s>
+Overall_RR ,_, the_AT average_JJ response_NN1 times_NNT2 were_VBDR all_DB reduced_VVN from_II blocks_NN2 3_MC and_CC 5_MC ._. 
+</s>
+<s>
+Also_RR ,_, as_CSA with_IW blocks_NN2 3_MC and_CC 5_MC ,_, speedometer_NN1 set_NN1 A_ZZ1 is_VBZ stratified_VVN from_II speedometer_NN1 set_NN1 B_ZZ1 in_CS21 that_CS22 it_PPH1 has_VHZ much_RR lower_JJR average_JJ response_NN1 times_NNT2 ._. 
+</s>
+<s>
+Overall_RR ,_, average_JJ error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 were_VBDR much_RR higher_JJR than_CSN in_II blocks_NN2 3_MC and_CC 5_MC due_II21 to_II22 the_AT shortened_JJ exposure_NN1 time_NNT1 for_IF the_AT blocks_NN2 ._. 
+</s>
+<s>
+This_DD1 shows_VVZ that_CST as_CSA response_NN1 time_NNT1 decreased_VVD ,_, error_NN1 and_CC miss_VV0 percentage_NN1 rate_NN1 increased_VVD ._. 
+</s>
+<s>
+The_AT error_NN1 rates_NN2 for_IF all_DB the_AT speedometers_NN2 were_VBDR about_II equal_JJ ,_, however_RR ,_, the_AT average_JJ miss_NN1 percentage_NN1 rates_NN2 for_IF set_NN1 B_ZZ1 were_VBDR double_RR that_DD1 of_IO set_NN1 A._NNU This_DD1 can_VM also_RR be_VBI attributed_VVN to_II the_AT overall_JJ size_NN1 difference_NN1 of_IO the_AT speedometer_NN1 parameters_NN2 ._. 
+</s>
+<s>
+When_CS the_AT task_NN1 condition_NN1 changed_VVN to_II whether_CSW31 or_CSW32 not_CSW33 the_AT car_NN1 was_VBDZ "_" speeding_VVG "_" ,_, the_AT patterns_NN2 remained_VVD the_AT same_DA ._. 
+</s>
+<s>
+Speedometer_NN1 set_NN1 A_ZZ1 had_VHD lower_JJR average_JJ response_NN1 times_NNT2 than_CSN set_VV0 B_ZZ1 ,_, as_II31 well_II32 as_II33 having_VHG lower_JJR average_JJ error_NN1 rate_NN1 percentages_NN2 ._. 
+</s>
+<s>
+Overall_JJ speedometer_NN1 response_NN1 times_NNT2 as_RG well_RR as_CSA error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 did_VDD decrease_VVI due_II21 to_II22 the_AT lower_JJR number_NN1 of_IO response_NN1 choices_NN2 ._. 
+</s>
+<s>
+The_AT overall_JJ size_NN1 increase_NN1 of_IO many_DA2 speedometer_NN1 design_NN1 parameters_NN2 between_II speedometer_NN1 set_NN1 A_ZZ1 to_TO set_VVI B_ZZ1 seem_VV0 to_TO have_VHI accounted_VVN for_IF the_AT overall_RR lower_JJR average_JJ response_NN1 times_NNT2 and_CC lower_JJR average_JJ error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 ._. 
+</s>
+<s>
+However_RR ,_, other_JJ design_NN1 differences_NN2 ,_, such_II21 as_II22 location_NN1 of_IO the_AT speedometer_NN1 on_II the_AT instrument_NN1 display_NN1 panel_NN1 ,_, did_VDD not_XX have_VHI such_DA influential_JJ effects_NN2 on_II the_AT data_NN ._. 
+</s>
+<s>
+Comparing_VVG speedometers_NN2 1_MC1 and_CC 4_MC (_( speedometer_NN1 on_II left_JJ side_NN1 )_) to_II speedometers_NN2 2_MC and_CC 3_MC (_( speedometer_NN1 on_II right_JJ side_NN1 )_) only_RR one_MC1 small_JJ pattern_NN1 was_VBDZ seen_VVN ._. 
+</s>
+<s>
+Speedometers_NN2 2_MC and_CC 3_MC had_VHD ,_, compared_VVN to_II their_APPGE respective_JJ speedometer_NN1 set_NN1 ,_, slightly_RR lower_JJR average_JJ response_NN1 times_NNT2 than_CSN the_AT other_JJ speedometer_NN1 in_II the_AT set_NN1 ._. 
+</s>
+<s>
+Whether_CSW31 or_CSW32 not_CSW33 this_DD1 small_JJ difference_NN1 in_II average_JJ response_NN1 time_NNT1 can_VM be_VBI attributed_VVN to_II the_AT location_NN1 of_IO the_AT speedometers_NN2 on_II the_AT instrument_NN1 display_NN1 panel_NN1 was_VBDZ not_XX possible_JJ ._. 
+</s>
+<s>
+Other_JJ major_JJ differences_NN2 in_II design_NN1 features_NN2 within_II speedometer_NN1 set_NN1 B_ZZ1 also_RR seemed_VVD to_TO have_VHI little_DA1 effect_NN1 on_II the_AT data_NN ._. 
+</s>
+<s>
+Speedometer_NN1 4_MC had_VHD a_AT1 different_JJ character_NN1 color_NN1 ,_, location_NN1 ,_, numbering_VVG scale_NN1 and_CC character_NN1 height_NN1 than_CSN speedometer_NN1 3_MC ._. 
+</s>
+<s>
+However_RR ,_, the_AT differences_NN2 did_VDD not_XX produce_VVI much_DA1 stratification_NN1 in_II the_AT data_NN ._. 
+</s>
+<s>
+Speedometer_NN1 4_MC had_VHD slightly_RR lower_JJR average_JJ error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 than_CSN speedometer_NN1 3_MC while_CS speedometer_NN1 3_MC had_VHD slightly_RR lower_JJR average_JJ response_NN1 times_NNT2 than_CSN speedometer_NN1 4_MC ._. 
+</s>
+<s>
+From_II prior_JJ established_JJ patterns_NN2 ,_, the_AT speedometer_NN1 with_IW larger_JJR character_NN1 height_NN1 (_( speedometer_NN1 4_MC in_II this_DD1 case_NN1 )_) should_VM have_VHI had_VHN lower_JJR average_JJ response_NN1 times_NNT2 and_CC error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 ._. 
+</s>
+<s>
+Although_CS speedometer_NN1 4_MC did_VDD have_VHI lower_JJR error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 ,_, it_PPH1 did_VDD not_XX have_VHI lower_JJR average_JJ response_NN1 times_NNT2 ._. 
+</s>
+<s>
+Therefore_RR ,_, it_PPH1 is_VBZ possible_JJ that_CST the_AT combined_JJ differences_NN2 in_II speedometer_NN1 design_NN1 between_II speedometers_NN2 3_MC and_CC 4_MC caused_VVD speedometer_NN1 4_MC to_TO be_VBI slightly_RR less_RGR legible_JJ than_CSN speedometer_NN1 3_MC ._. 
+</s>
+<s>
+Speedometers_NN2 1_MC1 and_CC 2_MC differed_VVD in_II location_NN1 and_CC radius_NN1 size_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT speedometers_NN2 differed_VVD only_RR slightly_RR in_II average_JJ response_NN1 times_NNT2 and_CC error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 ._. 
+</s>
+<s>
+Speedometer_NN1 2_MC consistently_RR had_VHD the_AT lowest_JJT average_JJ response_NN1 time_NNT1 as_II31 well_II32 as_II33 having_VHG the_AT lower_JJR average_JJ error_NN1 and_CC miss_VV0 percentage_NN1 rates_NN2 (_( except_CS in_II one_MC1 instance_NN1 )_) ._. 
+</s>
+<s>
+The_AT effect_NN1 of_IO location_NN1 ,_, as_CSA discussed_VVN earlier_RRR ,_, was_VBDZ not_XX clear_JJ ._. 
+</s>
+<s>
+However_RR ,_, the_AT larger_JJR radius_NN1 of_IO speedometer_NN1 2_MC could_VM of_IO caused_VVN the_AT small_JJ differences_NN2 in_II the_AT data_NN ._. 
+</s>
+<s>
+This_DD1 inference_NN1 continues_VVZ the_AT pattern_NN1 concerning_II the_AT size_NN1 of_IO speedometer_NN1 parameters_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ necessary_JJ to_TO examine_VVI the_AT effects_NN2 of_IO the_AT test_NN1 participant_NN1 differences_NN2 in_BCL21 order_BCL22 to_TO find_VVI any_DD discrepancies_NN2 in_II the_AT data_NN ._. 
+</s>
+<s>
+The_AT relevant_JJ differences_NN2 examined_VVD were_VBDR sex_NN1 ,_, handedness_NN1 ,_, visibility_NN1 (_( defined_VVN as_II the_AT need_NN1 of_IO correctional_JJ lenses_NN2 vs._II no_AT need_NN1 )_) ,_, and_CC distance_NN1 from_II the_AT projection_NN1 screen_NN1 ._. 
+</s>
+<s>
+The_AT first_MD step_NN1 in_II evaluating_VVG the_AT effect_NN1 of_IO the_AT test_NN1 participant_NN1 differences_NN2 was_VBDZ to_TO compare_VVI how_RRQ each_DD1 of_IO the_AT 4_MC modeled_JJ differences_NN2 affected_VVN the_AT average_JJ response_NN1 times_NNT2 and_CC total_JJ incorrect_JJ (_( errors_NN2 and_CC misses_NN2 )_) responses_NN2 ._. 
+</s>
+<s>
+The_AT discrepancies_NN2 in_II average_JJ response_NN1 times_NNT2 for_IF most_DAT of_IO the_AT test_NN1 participant_NN1 differences_NN2 were_VBDR very_RG small_JJ (_( less_DAR than_CSN 0.060_MC s_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT same_DA result_NN1 occurred_VVD for_IF the_AT average_JJ incorrect_JJ responses_NN2 ._. 
+</s>
+<s>
+The_AT sample_NN1 size_NN1 of_IO test_NN1 participants_NN2 was_VBDZ also_RR small_JJ ,_, making_VVG almost_RR all_DB inferences_NN2 impossible_JJ ._. 
+</s>
+<s>
+However_RR ,_, the_AT one_MC1 individual_JJ difference_NN1 that_CST did_VDD stick_VVI out_RP as_RG possibly_RR meaningful_JJ was_VBDZ sex_NN1 ._. 
+</s>
+<s>
+The_AT average_JJ response_NN1 times_NNT2 for_IF males_NN2 were_VBDR ,_, on_II average_NN1 ,_, 0.111_MC s_ZZ1 faster_RRR than_CSN for_IF females_NN2 ._. 
+</s>
+<s>
+Also_RR ,_, the_AT average_JJ total_JJ incorrect_JJ responses_NN2 for_IF the_AT males_NN2 was_VBDZ 6.3_MC less_DAR than_CSN for_IF females_NN2 ._. 
+</s>
+<s>
+One_MC1 explanation_NN1 for_IF this_DD1 difference_NN1 can_VM be_VBI attributed_VVN to_II the_AT test_NN1 sequence_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT 2_MC televisions_NN2 ,_, all_DB the_AT participants_NN2 could_VM see_VVI each_PPX221 other_PPX222 's_GE average_JJ response_NN1 times_NNT2 after_II every_AT1 block_NN1 ,_, creating_VVG a_AT1 small_JJ competition_NN1 in_II which_DDQ males_NN2 are_VBR commonly_RR known_VVN to_TO be_VBI more_RGR aggressive_JJ and_CC competitive_JJ ._. 
+</s>
+<s>
+This_DD1 would_VM explain_VVI the_AT reason_NN1 for_IF the_AT 0.111_MC s_ZZ1 lower_VV0 male_JJ average_JJ response_NN1 time_NNT1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO find_VVI the_AT best_JJT speedometer_NN1 of_IO the_AT 4_MC examined_VVD ,_, it_PPH1 is_VBZ required_VVN to_TO first_MD define_VVI which_DDQ task_NN1 condition_NN1 is_VBZ being_VBG used_VVN ._. 
+</s>
+<s>
+For_IF the_AT task_NN1 condition_NN1 of_IO reading_VVG the_AT exact_JJ speed_NN1 (_( 4_MC choices_NN2 )_) ,_, speedometer_NN1 2_MC was_VBDZ clearly_RR the_AT optimal_JJ speedometer_NN1 ._. 
+</s>
+<s>
+It_PPH1 consistently_RR had_VHD the_AT lowest_JJT average_JJ response_NN1 time_NNT1 and_CC average_JJ miss_NN1 percentage_NN1 rate_NN1 ._. 
+</s>
+<s>
+It_PPH1 had_VHD the_AT lowest_JJT average_JJ error_NN1 rate_NN1 percentage_NN1 one_MC1 of_IO the_AT two_MC 4_MC choice_NN1 blocks_NN2 ._. 
+</s>
+<s>
+For_IF the_AT task_NN1 condition_NN1 of_IO "_" speeding_VVG "_" versus_II "_" non-speeding_NN1 "_" (_( 2_MC choices_NN2 )_) ,_, the_AT decision_NN1 was_VBDZ not_XX as_RG simple_JJ ._. 
+</s>
+<s>
+Although_CS speedometer_NN1 2_MC had_VHD the_AT lowest_JJT average_JJ response_NN1 time_NNT1 ,_, it_PPH1 had_VHD 6_MC errors_NN2 ._. 
+</s>
+<s>
+Speedometer_NN1 1_MC1 had_VHN a_AT1 slightly_RR larger_JJR average_JJ response_NN1 time_NNT1 with_IW 4_MC errors_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT task_NN1 performance_NN1 measurement_NN1 that_CST becomes_VVZ more_RGR important_JJ in_II the_AT selection_NN1 criteria_NN2 for_IF this_DD1 task_NN1 condition_NN1 should_VM be_VBI the_AT average_JJ response_NN1 time_NNT1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT most_RGT important_JJ task_NN1 while_CS driving_VVG is_VBZ to_TO have_VHI your_APPGE eyes_NN2 on_II the_AT road_NN1 ._. 
+</s>
+<s>
+Whether_CSW you_PPY are_VBR mistaken_VVN in_II your_APPGE knowledge_NN1 of_IO speeding_VVG or_CC not_XX speeding_VVG is_VBZ generally_RR not_XX as_RG important_JJ to_II your_APPGE safety_NN1 as_II the_AT time_NNT1 you_PPY look_VV0 away_II21 from_II22 the_AT road_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT optimal_JJ speedometer_NN1 for_IF this_DD1 task_NN1 condition_NN1 was_VBDZ also_RR speedometer_NN1 2_MC ._. 
+</s>
+<s>
+The_AT relationships_NN2 between_II speedometer_NN1 design_NN1 parameters_NN2 ,_, task_NN1 condition_NN1 and_CC task_NN1 performance_NN1 were_VBDR not_XX obvious_JJ or_CC clear_RR given_VVN the_AT collected_JJ data_NN ._. 
+</s>
+<s>
+However_RR ,_, some_DD inferences_NN2 can_VM be_VBI drawn_VVN ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT larger_JJR the_AT character_NN1 height_NN1 ,_, character_NN1 strokewidth_NN1 and_CC radius_NN1 ,_, no_DDQV31 matter_DDQV32 what_DDQV33 the_AT task_NN1 condition_NN1 ,_, the_AT more_RRR the_AT task_NN1 performance_NN1 improved_VVD ._. 
+</s>
+<s>
+This_DD1 was_VBDZ shown_VVN in_II the_AT stratification_NN1 between_II speedometer_NN1 sets_NN2 A_ZZ1 and_CC B_ZZ1 for_IF all_DB task_NN1 conditions_NN2 in_II the_AT task_NN1 performance_NN1 measurements_NN2 ._. 
+</s>
+<s>
+This_DD1 pattern_NN1 was_VBDZ also_RR visible_JJ when_CS speedometers_NN2 1_MC1 and_CC 2_MC were_VBDR compared_VVN based_VVN on_II their_APPGE radius_NN1 size_NN1 ._. 
+</s>
+<s>
+Conclusions_NN2 about_II the_AT effects_NN2 of_IO location_NN1 ,_, character_NN1 color_NN1 and_CC numbering_VVG scale_NN1 were_VBDR not_XX possible_JJ ._. 
+</s>
+<s>
+Using_VVG the_AT relationships_NN2 found_VVN above_RL as_II31 well_II32 as_II33 the_AT data_NN collected_VVD ,_, the_AT optimal_JJ speedometers_NN2 for_IF each_DD1 task_NN1 condition_NN1 were_VBDR found_VVN ._. 
+</s>
+<s>
+Using_VVG low_JJ response_NN1 time_NNT1 and_CC incorrect_JJ response_NN1 rate_NN1 as_II the_AT criteria_NN2 ,_, speedometer_NN1 2_MC was_VBDZ selected_VVN the_AT optimal_JJ speedometer_NN1 for_IF both_DB2 task_NN1 conditions_NN2 ._. 
+</s>
+<s>
+One_MC1 interesting_JJ point_NN1 was_VBDZ the_AT difference_NN1 in_II importance_NN1 between_II response_NN1 time_NNT1 and_CC incorrect_JJ response_NN1 rate_NN1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ concluded_VVN due_II21 to_II22 the_AT natural_JJ consequence_NN1 of_IO not_XX having_VHG your_APPGE eyes_NN2 on_II the_AT road_NN1 ._. 
+</s>
+<s>
+The_AT safety_NN1 issues_NN2 concerning_II the_AT amount_NN1 of_IO time_NNT1 your_APPGE eyes_NN2 are_VBR off_II the_AT road_NN1 are_VBR generally_RR more_RGR severe_JJ than_CSN incorrect_JJ knowledge_NN1 of_IO whether_CSW you_PPY are_VBR speeding_VVG ._. 
+</s>
+<s>
+Revisions_NN2 in_II the_AT experiment_NN1 could_VM prove_VVI to_TO be_VBI very_RG helpful_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, due_II21 to_II22 the_AT poor_JJ choice_NN1 of_IO speedometers_NN2 ,_, it_PPH1 was_VBDZ very_RG difficult_JJ to_TO assign_VVI the_AT causes_NN2 of_IO differences_NN2 in_II task_NN1 performance_NN1 to_II attributes_NN2 of_IO the_AT speedometers_NN2 ._. 
+</s>
+<s>
+Speedometers_NN2 with_IW similar_JJ characteristics_NN2 and_CC one_MC1 large_JJ difference_NN1 should_VM have_VHI been_VBN chosen_VVN for_IF the_AT experiment_NN1 such_CS21 that_CS22 the_AT process_NN1 of_IO assigning_VVG the_AT causes_NN2 of_IO differences_NN2 in_II the_AT data_NN could_VM have_VHI been_VBN clearer_JJR ._. 
+</s>
+<s>
+Also_RR ,_, a_AT1 larger_JJR sample_NN1 size_NN1 of_IO test_NN1 participants_NN2 as_II31 well_II32 as_II33 testing_VVG blocks_NN2 should_VM have_VHI been_VBN used_VVN to_TO increase_VVI confidence_NN1 in_II the_AT inferences_NN2 made_VVD ._. 
+</s>
+<s>
+With_IW these_DD2 changes_NN2 ,_, the_AT experiment_NN1 could_VM be_VBI much_RR more_RGR effective_JJ in_II answering_VVG the_AT objectives_NN2 stated_VVD ._. 
+</s>

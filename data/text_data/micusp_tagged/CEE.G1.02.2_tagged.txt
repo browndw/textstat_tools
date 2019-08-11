@@ -1,0 +1,294 @@
+<s>
+Self-centering_JJ systems_NN2 are_VBR a_AT1 new_JJ breed_NN1 of_IO earthquake_NN1 resistant_JJ structural_JJ systems_NN2 that_CST aim_VV0 at_II preventing_VVG damage_NN1 to_II structural_JJ members_NN2 during_II seismic_JJ loading_NN1 ._. 
+</s>
+<s>
+Traditionally_RR seismic_JJ resistant_JJ systems_NN2 have_VH0 been_VBN composed_VVN of_IO moment_NN1 resisting_VVG joints_NN2 which_DDQ are_VBR designed_VVN to_TO undergo_VVI plastic_NN1 deformation_NN1 during_II an_AT1 earthquake_NN1 ._. 
+</s>
+<s>
+The_AT retrofit_NN1 of_IO these_DD2 damaged_VVN structural_JJ members_NN2 can_VM be_VBI very_RG costly_JJ ._. 
+</s>
+<s>
+Self-centering_JJ systems_NN2 provide_VV0 a_AT1 mechanism_NN1 which_DDQ does_VDZ not_XX allow_VVI inelastic_JJ deformations_NN2 therefore_RR reducing_VVG the_AT damage_NN1 normally_RR observed_VVN in_II structural_JJ members_NN2 ._. 
+</s>
+<s>
+The_AT main_JJ idea_NN1 behind_II this_DD1 new_JJ type_NN1 of_IO system_NN1 is_VBZ to_TO allow_VVI certain_JJ joints_NN2 throughout_II the_AT structure_NN1 to_TO open_VVI and_CC close_VVI during_II an_AT1 earthquake_NN1 ._. 
+</s>
+<s>
+This_DD1 opening_NN1 and_CC closing_NN1 of_IO joints_NN2 is_VBZ permitted_VVN by_II post-tensioned_JJ tendons_NN2 which_DDQ connect_VV0 the_AT different_JJ joints_NN2 and_CC remain_VV0 elastic_NN1 during_II a_AT1 specified_JJ design_NN1 earthquake_NN1 ._. 
+</s>
+<s>
+The_AT restoring_JJ forces_NN2 given_VVN by_II these_DD2 tendons_NN2 with_IW the_AT help_NN1 of_IO gravity_NN1 loads_NN2 provide_VV0 the_AT structure_NN1 with_IW a_AT1 self-centering_JJ mechanism_NN1 which_DDQ keeps_VVZ residual_JJ drifts_NN2 to_II a_AT1 minimum_NN1 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 the_AT post-tensioned_JJ tendons_NN2 energy_NN1 dissipation_NN1 elements_NN2 are_VBR needed_VVN to_TO provide_VVI nonlinear_JJ softening_JJ behavior_NN1 and_CC ductility_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR three_MC main_JJ types_NN2 of_IO self-centering_JJ mechanisms_NN2 :_: unbonded_JJ post-tensioned_JJ precast_JJ concrete_JJ walls_NN2 ,_, unbonded_JJ post-tensioned_JJ precast_JJ moment-resisting_JJ frames_NN2 ,_, steel_NN1 moment_NN1 resisting_VVG frames_NN2 with_IW post-tensioned_JJ connections_NN2 ,_, and_CC unbonded_JJ post-tensioned_JJ bridge_NN1 piers_NN2 ._. 
+</s>
+<s>
+A_AT1 detailed_JJ description_NN1 of_IO these_DD2 applications_NN2 and_CC their_APPGE advantages_NN2 is_VBZ presented_VVN ahead_RL ._. 
+</s>
+<s>
+This_DD1 system_NN1 is_VBZ composed_VVN of_IO precast_JJ concrete_JJ walls_NN2 placed_VVN directly_RR on_II31 top_II32 of_II33 each_PPX221 other_PPX222 with_IW a_AT1 post-tensioned_JJ tendon_NN1 running_VVG vertically_RR through_II them_PPHO2 ._. 
+</s>
+<s>
+The_AT steel_NN1 tendon_NN1 is_VBZ unbonded_JJ with_II31 respect_II32 to_II33 the_AT wall_NN1 ,_, and_CC is_VBZ anchored_VVN at_II the_AT foundation_NN1 and_CC the_AT top_NN1 of_IO the_AT wall_NN1 ._. 
+</s>
+<s>
+Spiral_JJ reinforcing_JJ steel_NN1 is_VBZ used_VVN in_II the_AT wall_NN1 panels_NN2 near_II the_AT base_NN1 of_IO the_AT wall_NN1 to_TO provide_VVI confinement_NN1 ._. 
+</s>
+<s>
+This_DD1 concept_NN1 can_VM be_VBI seen_VVN in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+During_II an_AT1 earthquake_NN1 the_AT structure_NN1 will_VM sway_VVI and_CC the_AT wall_NN1 joints_NN2 will_VM open_VVI and_CC eventually_RR close_VVI due_II21 to_II22 the_AT restoring_JJ forces_NN2 as_CSA observed_VVN in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+Figure_NN1 2_MC shows_NN2 what_DDQ would_VM occur_VVI in_II this_DD1 type_NN1 of_IO sytem_NN1 when_CS base_NN1 shear_VV0 reaches_NN2 certain_JJ values_NN2 as_II a_AT1 function_NN1 of_IO lateral_JJ drift_NN1 ._. 
+</s>
+<s>
+The_AT first_MD point_NN1 in_II the_AT figure_NN1 belongs_VVZ to_II the_AT initial_JJ stage_NN1 of_IO decompression_NN1 (_( gap_NN1 opening_NN1 )_) at_II the_AT horizontal_JJ joint_JJ in_II the_AT foundation_NN1 ._. 
+</s>
+<s>
+The_AT decompression_NN1 marks_VVZ the_AT beginning_NN1 of_IO non-linear_JJ behavior_NN1 due_II21 to_II22 opening_NN1 of_IO gaps_NN2 ._. 
+</s>
+<s>
+At_II the_AT second_MD point_NN1 the_AT structure_NN1 is_VBZ starting_VVG to_TO loose_VVI some_DD lateral_JJ stiffness_NN1 due_II21 to_II22 gap_NN1 opening_VVG along_II the_AT joints_NN2 and_CC to_II non-linear_JJ behavior_NN1 of_IO the_AT concrete_NN1 in_II compression_NN1 ._. 
+</s>
+<s>
+At_II the_AT third_MD and_CC fourth_MD point_NN1 ,_, post-tensioning_JJ steel_NN1 yielding_VVG and_CC confined_JJ concrete_NN1 crushing_VVG occurs_VVZ respectively_RR ._. 
+</s>
+<s>
+The_AT steel_NN1 is_VBZ already_RR in_II a_AT1 plastic_NN1 state_NN1 and_CC the_AT pre-cast_JJ concrete_NN1 is_VBZ failing_VVG due_II21 to_II22 crushing_VVG ._. 
+</s>
+<s>
+Up_RP to_II yielding_VVG of_IO the_AT post-tensioned_JJ steel_NN1 there_EX is_VBZ very_RG little_DA1 damage_NN1 in_II the_AT concrete_JJ panels_NN2 because_II21 of_II22 the_AT spiral_JJ reinforcement_NN1 providing_VVG confinement_NN1 ._. 
+</s>
+<s>
+At_II the_AT fourth_MD stage_NN1 or_CC the_AT failure_NN1 stage_NN1 the_AT confined_JJ concrete_NN1 undergoes_VVZ crushing_VVG due_II21 to_II22 fracture_NN1 of_IO the_AT spiral_JJ reinforcement_NN1 ._. 
+</s>
+<s>
+The_AT behavior_NN1 of_IO this_DD1 type_NN1 of_IO system_NN1 is_VBZ governed_VVN by_II the_AT performance_NN1 of_IO the_AT horizontal_JJ joints_NN2 ._. 
+</s>
+<s>
+These_DD2 joints_NN2 can_VM either_RR open_VVI a_AT1 gap_NN1 as_CSA in_II flexure_NN1 or_CC slip_VV0 in_RP shear_VV0 ._. 
+</s>
+<s>
+Gap_NN1 opening_NN1 behavior_NN1 is_VBZ normal_JJ and_CC expected_JJ and_CC is_VBZ restored_VVN by_II the_AT post-tensioning_JJ force_NN1 and_CC gravity_NN1 loads_NN2 ._. 
+</s>
+<s>
+For_IF shear_VV0 slip_NN1 behavior_NN1 there_EX is_VBZ no_AT restoring_JJ force_NN1 available_JJ to_II center_NN1 the_AT structure_NN1 ._. 
+</s>
+<s>
+Slip_VV0 shear_VV0 is_VBZ a_AT1 very_RG important_JJ problem_NN1 that_CST needs_VVZ to_TO be_VBI accounted_VVN for_IF in_II the_AT design_NN1 ._. 
+</s>
+<s>
+Research_NN1 has_VHZ shown_VVN that_CST an_AT1 unbonded_JJ post-tensioned_JJ precast_JJ wall_NN1 has_VHZ larger_JJR displacements_NN2 under_II seismic_JJ loading_NN1 when_CS compared_VVN to_II the_AT traditional_JJ reinforced_VVD concrete_JJ wall_NN1 ,_, but_CCB the_AT reinforced_JJ concrete_JJ wall_NN1 will_VM experience_VVI larger_JJR residual_JJ displacements_NN2 at_II the_AT end_NN1 of_IO loading_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 type_NN1 of_IO system_NN1 precast_JJ beams_NN2 are_VBR post-tensioned_JJ using_VVG bars_NN2 or_CC strands_NN2 to_II precast_JJ columns_NN2 without_IW any_DD bond_NN1 between_II the_AT tendon_NN1 and_CC the_AT concrete_NN1 in_II the_AT joint_JJ region_NN1 ._. 
+</s>
+<s>
+Details_NN2 of_IO this_DD1 connection_NN1 can_VM be_VBI observed_VVN in_II Figure_NN1 3_MC ._. 
+</s>
+<s>
+During_II loading_VVG the_AT beam-column_JJ joint_NN1 will_VM open_VVI due_JJ to_TO flexure_VVI and_CC it_PPH1 will_VM reclose_VVI during_II unloading_VVG due_II21 to_II22 the_AT strands_NN2 remaining_VVG elastic_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 will_VM occur_VVI at_II every_AT1 joint_JJ throughout_II the_AT structure_NN1 providing_VVG a_AT1 mechanism_NN1 for_IF the_AT frame_NN1 to_II self_NN1 center_NN1 ._. 
+</s>
+<s>
+Shear_VV0 force_NN1 is_VBZ carried_VVN by_II friction_NN1 in_II the_AT interface_NN1 between_II the_AT column_NN1 and_CC the_AT beam_NN1 provided_CS21 that_CS22 they_PPHS2 are_VBR compressed_VVN together_RL trough_NN1 the_AT elastic_JJ post-tensioning_JJ strands_NN2 ._. 
+</s>
+<s>
+This_DD1 ductile_JJ connection_NN1 behaves_VVZ in_II a_AT1 non-linear_JJ elastic_JJ fashion_NN1 while_CS the_AT rest_NN1 of_IO the_AT beam_NN1 and_CC column_NN1 remains_VVZ elastic_NN1 ._. 
+</s>
+<s>
+The_AT bars_NN2 or_CC strands_NN2 must_VM remain_VVI unbonded_JJ because_CS this_DD1 delays_VVZ the_AT development_NN1 of_IO inelastic_JJ deformation_NN1 in_II the_AT post-tensioned_JJ steel_NN1 and_CC will_VM therefore_RR maintain_VVI the_AT restoring_JJ force_NN1 through_II large_JJ deformations_NN2 ._. 
+</s>
+<s>
+To_TO further_RRR delay_VVI inelastic_JJ deformation_NN1 of_IO the_AT PT_NN1 steel_NN1 ,_, the_AT PT_NN1 steel_NN1 is_VBZ placed_VVN close_RR to_II the_AT centroid_NN1 of_IO the_AT beam_NN1 cross_NN1 section_NN1 (_( El-Sheikh_NP1 ,_, Pessiki_NP1 ,_, Sause_NP1 ,_, Lu_NP1 2000_MC )_) ._. 
+</s>
+<s>
+Through_II past_JJ research_NN1 it_PPH1 has_VHZ been_VBN found_VVN that_CST larger_JJR values_NN2 of_IO rotation_NN1 at_II the_AT connection_NN1 can_VM be_VBI achieved_VVN by_II ensuring_VVG the_AT following_JJ :_: an_AT1 increase_NN1 in_II unbonded_JJ length_NN1 ,_, a_AT1 decrease_NN1 in_II post-tension_JJ strand_NN1 eccentricity_NN1 ,_, an_AT1 increase_NN1 in_II volumetric_JJ ratio_NN1 of_IO spiral_JJ reinforcement_NN1 ,_, and_CC a_AT1 decrease_NN1 in_II initial_JJ stress_NN1 in_II concrete_NN1 and_CC post-tensioned_JJ steel_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ also_RR found_VVN that_CST choosing_VVG a_AT1 beam_NN1 section_NN1 with_IW a_AT1 width_NN1 greater_JJR than_CSN two_MC times_NNT2 the_AT depth_NN1 of_IO the_AT compression_NN1 stress_NN1 block_NN1 will_VM help_VVI to_TO avoid_VVI failure_NN1 in_II the_AT confined_JJ concrete_NN1 in_II the_AT transverse_JJ direction_NN1 ._. 
+</s>
+<s>
+This_DD1 system_NN1 is_VBZ very_RG similar_JJ to_II the_AT one_PN1 just_RR discussed_VVN except_CS21 that_CS22 steel_NN1 beams_NN2 and_CC columns_NN2 are_VBR post-tensioned_JJ to_II each_PPX221 other_PPX222 instead_II21 of_II22 precast_JJ concrete_NN1 ._. 
+</s>
+<s>
+The_AT strands_NN2 run_VV0 parallel_RR to_II the_AT beam_NN1 and_CC enter_VV0 the_AT column_NN1 flanges_VVZ where_RRQ they_PPHS2 are_VBR anchored_VVN ._. 
+</s>
+<s>
+These_DD2 strands_NN2 which_DDQ are_VBR compressing_VVG the_AT edges_NN2 of_IO the_AT beam_NN1 against_II the_AT columns_NN2 flange_VV0 create_VV0 a_AT1 moment_NN1 resisting_VVG mechanism_NN1 while_CS angles_NN2 bolted_VVN from_II the_AT beams_NN2 to_II the_AT columns_NN2 flanges_NN2 or_CC shear_VV0 tabs_NN2 will_VM resist_VVI shear_VV0 forces_NN2 ._. 
+</s>
+<s>
+These_DD2 bolted_JJ angles_NN2 serve_VV0 not_XX only_RR to_TO resist_VVI shear_VV0 but_CCB as_CSA energy_NN1 dissipation_NN1 devices_NN2 which_DDQ will_VM yield_VVI under_II loading_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN shown_VVN through_II previous_JJ research_NN1 that_CST three_MC plastic_NN1 hinges_NN2 form_VV0 in_II these_DD2 connection_NN1 angles_NN2 ._. 
+</s>
+<s>
+Two_MC of_IO these_DD2 plastic_NN1 hinges_NN2 will_VM form_VVI in_II the_AT fillet_NN1 of_IO each_DD1 angle_NN1 ,_, another_DD1 one_PN1 near_II the_AT bolts_NN2 where_CS they_PPHS2 connect_VV0 to_II the_AT columns_NN2 ._. 
+</s>
+<s>
+Figure_NN1 4_MC shows_VVZ a_AT1 detailed_JJ description_NN1 of_IO this_DD1 connection_NN1 ._. 
+</s>
+<s>
+Reinforcing_VVG plates_NN2 are_VBR welded_VVN to_II the_AT beams_NN2 flanges_NN2 which_DDQ control_VV0 beam_NN1 flange_NN1 yielding_VVG and_CC local_JJ buckling_NN1 ._. 
+</s>
+<s>
+Shim_VV0 plates_NN2 should_VM also_RR be_VBI placed_VVN between_II the_AT column_NN1 flange_NN1 and_CC beam_NN1 flanges_VVZ so_CS21 that_CS22 only_RR the_AT beam_NN1 flanges_NN2 and_CC reinforcing_VVG plates_NN2 are_VBR in_II31 contact_II32 with_II33 the_AT column_NN1 ._. 
+</s>
+<s>
+Figure_NN1 5_MC shows_VVZ the_AT moment-rotation_JJ hysterisis_NN1 loop_NN1 for_IF a_AT1 post-tensioned_JJ steel_NN1 connection_NN1 and_CC a_AT1 design_NN1 example_NN1 ._. 
+</s>
+<s>
+In_II Figure_NN1 5._MC a_AT1 it_PPH1 can_VM be_VBI observed_VVN that_CST between_II stage_NN1 0_MC and_CC 1_MC1 the_AT connection_NN1 will_VM have_VHI an_AT1 initial_JJ stiffness_NN1 (_( before_CS the_AT gap_NN1 opens_VVZ )_) equal_JJ to_II that_DD1 of_IO welded_JJ connection_NN1 ._. 
+</s>
+<s>
+At_II point_NN1 2_MC the_AT seat_NN1 angle_NN1 will_VM yield_VVI ._. 
+</s>
+<s>
+The_AT angle_NN1 will_VM become_VVI plastic_NN1 through_II stage_NN1 3_MC ._. 
+</s>
+<s>
+The_AT moment_NN1 reaches_VVZ a_AT1 maximum_NN1 at_II stage_NN1 4_MC where_CS unloading_VVG begins_VVZ ._. 
+</s>
+<s>
+If_CS loading_NN1 were_VBDR to_TO continue_VVI the_AT strands_NN2 would_VM yield_VVI at_II stage_NN1 5_MC which_DDQ would_VM cause_VVI major_JJ problems_NN2 ._. 
+</s>
+<s>
+During_II unloading_VVG the_AT angle_NN1 would_VM dissipate_VVI energy_NN1 while_CS the_AT gap_NN1 closes_VVZ due_II21 to_II22 the_AT restoring_JJ forces_NN2 of_IO the_AT tendons_NN2 where_RRQ the_AT connection_NN1 finally_RR reaches_VVZ step_NN1 8_MC with_IW no_AT plastic_NN1 hinge_NN1 in_II the_AT beam_NN1 or_CC the_AT column_NN1 ._. 
+</s>
+<s>
+Previous_JJ research_NN1 has_VHZ proved_VVN that_CST this_DD1 system_NN1 has_VHZ a_AT1 very_RG efficient_JJ behavior_NN1 as_CS31 long_CS32 as_CS33 the_AT beams_NN2 do_VD0 not_XX buckle_VVI or_CC the_AT strands_NN2 undergo_VV0 yielding_JJ ._. 
+</s>
+<s>
+Beam_VV0 buckling_NN1 prevents_VVZ the_AT frame_NN1 from_II self-centering_NN1 and_CC limits_VVZ the_AT ductility_NN1 (_( M._NN1 Garlock_NP1 ,_, J._NP1 Ricles_NP1 ,_, R._NP1 Sause_NP1 2005_MC )_) ._. 
+</s>
+<s>
+If_CS the_AT above_JJ cases_NN2 are_VBR not_XX reached_VVN through_II the_AT specification_NN1 of_IO limit_NN1 states_VVZ the_AT beams_NN2 and_CC columns_NN2 remain_VV0 elastic_JJ while_CS the_AT plastic_NN1 hinges_NN2 form_VV0 in_II the_AT angle_NN1 seats_NN2 ._. 
+</s>
+<s>
+These_DD2 limit_VV0 states_NN2 are_VBR very_RG important_JJ to_TO ensure_VVI proper_JJ behavior_NN1 and_CC can_VM be_VBI enhanced_VVN by_II using_VVG longer_RRR reinforcing_VVG plates_NN2 or_CC a_AT1 smaller_JJR initial_JJ post-tensioning_JJ force_NN1 ._. 
+</s>
+<s>
+To_TO prevent_VVI strand_NN1 yielding_VVG ,_, a_AT1 larger_JJR number_NN1 of_IO strands_NN2 ,_, with_IW a_AT1 smaller_JJR initial_JJ post_NN1 tensioning_VVG forcer_NN1 per_II strand_NN1 ,_, is_VBZ recommended_VVN (_( M._NN1 Garlock_NP1 ,_, J._NP1 Ricles_NP1 ,_, R._NP1 Sause_NP1 2005_MC )_) ._. 
+</s>
+<s>
+Through_II this_DD1 research_NN1 it_PPH1 was_VBDZ found_VVN that_CST increasing_VVG the_AT number_NN1 of_IO strands_NN2 provides_VVZ larger_JJR connection_NN1 moment_NN1 and_CC increases_VVZ ductility_NN1 ._. 
+</s>
+<s>
+By_II increasing_VVG the_AT number_NN1 of_IO strands_NN2 the_AT stiffness_NN1 is_VBZ being_VBG increased_VVN which_DDQ increases_VVZ connection_NN1 moment_NN1 ._. 
+</s>
+<s>
+Another_DD1 advantage_NN1 of_IO having_VHG many_DA2 strands_NN2 is_VBZ that_CST the_AT initial_JJ post_NN1 tensioning_VVG force_NN1 in_II each_DD1 strand_NN1 will_VM be_VBI smaller_JJR which_DDQ makes_VVZ them_PPHO2 less_RGR vulnerable_JJ to_II yielding_VVG ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ also_RR found_VVN that_CST specimens_NN2 with_IW a_AT1 smaller_JJR total_JJ initial_JJ stiffness_NN1 open_VV0 the_AT gap_NN1 earlier_RRR and_CC have_VH0 a_AT1 larger_JJR relative_JJ rotation_NN1 in_II the_AT connection_NN1 which_DDQ sometimes_RT leads_VVZ to_II fracture_NN1 of_IO the_AT seat_NN1 angle_NN1 ._. 
+</s>
+<s>
+The_AT seat_NN1 angle_NN1 should_VM not_XX fracture_NN1 since_CS it_PPH1 is_VBZ an_AT1 essential_JJ energy_NN1 dissipater_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ are_VBR some_DD predictive_JJ equations_NN2 that_CST were_VBDR found_VVN to_TO match_VVI the_AT experimental_JJ data_NN with_IW great_JJ accuracy_NN1 ._. 
+</s>
+<s>
+The_AT equations_NN2 are_VBR based_VVN on_II the_AT free_JJ body_NN1 diagram_NN1 shown_VVN in_II Figure_NN1 6_MC ._. 
+</s>
+<s>
+The_AT summation_NN1 of_IO moments_NN2 about_II the_AT beams_NN2 centroid_NN1 gives_VVZ :_: where_RRQ C_ZZ1 =_FO T_ZZ1 +_FO Ffd_NP1 +_FO Va_FW ,_, and_CC by_II substituting_VVG C_NP1 :_: where_RRQ Ffd_NP1 is_VBZ an_AT1 additional_JJ axial_JJ force_NN1 in_II the_AT beam_NN1 produced_VVN by_II the_AT interaction_NN1 of_IO the_AT post-tensioned_JJ frame_NN1 with_IW the_AT floor_NN1 diaphragm_NN1 ,_, Va_FW is_VBZ tension_NN1 angle_NN1 shear_VV0 force_NN1 ,_, MaC_NP1 and_CC MaT_NN1 are_VBR moments_NN2 in_II the_AT compression_NN1 and_CC tension_NN1 angle_NN1 at_II the_AT plastic_NN1 hinges_VVZ respectively_RR ,_, and_CC T_ZZ1 is_VBZ the_AT strand_NN1 forces_NN2 ._. 
+</s>
+<s>
+Garlock_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2003_MC )_) came_VVD up_RP with_IW an_AT1 empirical_JJ equation_NN1 for_IF the_AT shear_VV0 in_II the_AT angles_NN2 Va_FW :_: Where_RRQ delta_NN1 gap_NN1 is_VBZ the_AT amount_NN1 of_IO gap_NN1 opening_VVG in_II mm_UH ,_, Ma_NP1 ,_, p_ZZ1 is_VBZ the_AT plastic_NN1 moment_NN1 capacity_NN1 of_IO the_AT angle_NN1 cross_NN1 section_NN1 ,_, and_CC g2_FO id_NN1 the_AT distance_NN1 between_II the_AT centerline_NN1 of_IO the_AT fillet_NN1 on_II the_AT angle_NN1 leg_NN1 and_CC the_AT inside_JJ edge_NN1 of_IO the_AT column_NN1 bolt_NN1 nut_NN1 ._. 
+</s>
+<s>
+The_AT total_JJ post-tensioning_JJ force_NN1 in_II the_AT strands_NN2 is_VBZ given_VVN by_II :_: Where_RRQ ks_FO and_CC kb_NNU are_VBR the_AT axial_JJ stiffness_NN1 (_( AE/L_FU )_) of_IO the_AT strands_NN2 and_CC beams_NN2 respectively_RR ,_, L_ZZ1 is_VBZ the_AT length_NN1 of_IO one_MC1 bay_NN1 ,_, and_CC the_AT factor_NN1 of_IO 2_MC is_VBZ to_TO take_VVI into_II account_NN1 two_MC connections_NN2 per_II bay_NN1 ._. 
+</s>
+<s>
+An_AT1 alternative_NN1 to_II relying_VVG on_II the_AT seat_NN1 angles_NN2 to_TO dissipate_VVI energy_NN1 is_VBZ to_TO implement_VVI a_AT1 friction_NN1 damped_VVD connection_NN1 ._. 
+</s>
+<s>
+These_DD2 devices_NN2 consist_VV0 of_IO a_AT1 friction_NN1 plate_NN1 sandwiched_VVN by_II two_MC brass_NN1 shim_NN1 plates_NN2 that_CST are_VBR inserted_VVN between_II the_AT beam_NN1 flange_NN1 reinforcing_VVG and_CC outer_JJ plates_NN2 (_( Rojas_NP2 ,_, Ricles_NP1 ,_, Sause_NP1 2005_MC )_) ._. 
+</s>
+<s>
+When_CS loading_NN1 is_VBZ applied_VVN the_AT beam_NN1 flanges_NN2 and_CC outer_JJ plate_NN1 slide_NN1 against_II the_AT friction_NN1 plate_NN1 as_II the_AT beam_NN1 rotates_NN2 ._. 
+</s>
+<s>
+Long_RR slotted_VVN holes_NN2 must_VM be_VBI opened_VVN in_II the_AT friction_NN1 plates_NN2 so_RR the_AT beam_NN1 can_VM move_VVI ._. 
+</s>
+<s>
+Gravity_NN1 loads_NN2 are_VBR carried_VVN by_II a_AT1 shear_VV0 tab_NN1 which_DDQ must_VM be_VBI bolted_VVN to_II the_AT beams_NN2 web_NN1 with_IW slotted_VVD holes_NN2 to_TO allow_VVI for_IF translation_NN1 ._. 
+</s>
+<s>
+The_AT amount_NN1 of_IO friction_NN1 force_NN1 needed_VVN at_II the_AT connection_NN1 can_VM be_VBI determined_VVN from_II the_AT required_JJ flexural_JJ capacity_NN1 ._. 
+</s>
+<s>
+Figure_NN1 7_MC shows_VVZ the_AT details_NN2 for_IF this_DD1 friction_NN1 damped_VVD connection_NN1 ._. 
+</s>
+<s>
+Although_CS very_RG little_DA1 information_NN1 was_VBDZ found_VVN on_II this_DD1 topic_NN1 these_DD2 systems_NN2 behave_VV0 and_CC are_VBR assembled_VVN in_II a_AT1 similar_JJ fashion_NN1 to_II the_AT precast_JJ wall_NN1 system_NN1 ._. 
+</s>
+<s>
+Figure_NN1 8_MC shows_NN2 how_RRQ the_AT pier_NN1 would_VM be_VBI post-tensioned_JJ ._. 
+</s>
+<s>
+Figure_NN1 9_MC is_VBZ from_II some_DD research_NN1 done_VDN in_II Berkeley_NP1 were_VBDR a_AT1 post-tensioned_JJ bridge_NN1 pier_NN1 finished_VVD the_AT loading_NN1 cycles_NN2 with_IW very_RG little_DA1 residual_JJ drifts_NN2 when_CS compared_VVN to_II its_APPGE traditional_JJ counterpart_NN1 ._. 
+</s>
+<s>
+Self-centering_JJ systems_NN2 are_VBR still_RR in_II early_JJ research_NN1 stages_NN2 but_CCB may_VM prove_VVI to_TO be_VBI very_RG efficient_JJ and_CC useful_JJ in_II the_AT near_JJ future_NN1 for_IF seismically_RR active_JJ areas_NN2 ._. 
+</s>
+<s>
+The_AT idea_NN1 of_IO having_VHG a_AT1 structure_NN1 that_CST can_VM "_" self-center_NN1 "_" itself_PPX1 and_CC therefore_RR have_VH0 zero_MC residual_JJ displacements_NN2 at_II the_AT end_NN1 of_IO an_AT1 earthquake_NN1 can_VM be_VBI very_RG powerful_JJ not_XX only_RR in_II an_AT1 economic_JJ sense_NN1 but_CCB in_II a_AT1 safety_NN1 sense_NN1 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 discusses_VVZ four_MC major_JJ applications_NN2 of_IO this_DD1 technology_NN1 :_: unbonded_JJ post-tensioned_JJ precast_JJ concrete_JJ walls_NN2 ,_, unbonded_JJ moment-resisting_JJ frames_NN2 ,_, steel_NN1 moment_NN1 resisting_VVG frames_NN2 with_IW post-tensioned_JJ connections_NN2 ,_, and_CC unbonded_JJ post-tensioned_JJ bridge_NN1 piers_NN2 ._. 
+</s>
+<s>
+The_AT unbonded_JJ post-tensioned_JJ precast_JJ concrete_JJ walls_NN2 has_VHZ proven_VVN to_TO be_VBI very_RG efficient_JJ in_II controlling_VVG residual_JJ drifts_NN2 ,_, although_CS it_PPH1 will_VM experience_VVI larger_JJR rotations_NN2 during_II loading_VVG when_CS compared_VVN to_II traditional_JJ RC_NP1 systems_NN2 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT major_JJ design_NN1 problems_NN2 with_IW this_DD1 system_NN1 is_VBZ that_CST it_PPH1 may_VM experience_VVI residual_JJ shear_VV0 drifts_NN2 from_II wall_NN1 to_II wall_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ that_CST designers_NN2 provide_VV0 enough_DD friction_NN1 force_NN1 between_II each_DD1 wall_NN1 as_II21 to_II22 avoid_VV0 this_DD1 problem_NN1 ._. 
+</s>
+<s>
+The_AT second_MD system_NN1 that_CST was_VBDZ studied_VVN ,_, unbonded_JJ post-tensioned_JJ precast_JJ moment-resisting_JJ frames_NN2 ,_, is_VBZ composed_VVN of_IO precast_JJ beams_NN2 and_CC columns_NN2 with_IW strands_NN2 running_VVG through_II them_PPHO2 ._. 
+</s>
+<s>
+The_AT strands_NN2 or_CC bars_NN2 must_VM be_VBI unbonded_JJ to_TO ensure_VVI proper_JJ behavior_NN1 ,_, and_CC enough_DD compression_NN1 must_VM be_VBI applied_VVN for_IF the_AT beam-column_JJ interface_NN1 to_TO carry_VVI the_AT necessary_JJ shear_VV0 forces_NN2 through_II friction_NN1 ._. 
+</s>
+<s>
+The_AT steel_NN1 moment_NN1 resisting_VVG frames_NN2 with_IW post-tensioned_JJ connections_NN2 has_VHZ the_AT most_DAT research_NN1 behind_II it_PPH1 ._. 
+</s>
+<s>
+These_DD2 connections_NN2 rely_VV0 on_II the_AT force_NN1 of_IO the_AT post-tensioned_JJ bars_NN2 or_CC strands_NN2 to_TO maintain_VVI equilibrium_NN1 ._. 
+</s>
+<s>
+One_MC1 important_JJ detail_NN1 about_II this_DD1 connection_NN1 are_VBR the_AT energy_NN1 dissipation_NN1 devices_NN2 ._. 
+</s>
+<s>
+They_PPHS2 consist_VV0 of_IO either_DD1 seat_NN1 angles_NN2 that_CST yield_VV0 under_II loading_NN1 or_CC friction_NN1 devices_NN2 that_CST dissipate_VV0 energy_NN1 ._. 
+</s>
+<s>
+Although_CS much_DA1 more_DAR research_NN1 is_VBZ need_NN1 for_IF the_AT seismic_JJ design_NN1 community_NN1 to_TO adopt_VVI this_DD1 system_NN1 they_PPHS2 have_VH0 already_RR proven_VVN to_TO be_VBI very_RG advantageous_JJ ._. 
+</s>
+<s>
+Some_DD of_IO these_DD2 advantages_NN2 include_VV0 the_AT following_JJ :_: 1_MC1 )_) Structural_JJ member_NN1 size_NN1 and_CC complexity_NN1 similar_JJ to_II conventional_JJ seismic_JJ resistant_JJ system_NN1 ,_, 2_MC )_) Initial_JJ lateral_JJ stiffness_NN1 same_DA as_CSA conventional_JJ structures_NN2 ,_, 3_MC )_) Reduced_VVD damage_NN1 since_CS SC_FO systems_NN2 are_VBR designed_VVN to_TO resist_VVI design_NN1 EQ_NN1 without_IW members_NN2 being_VBG damaged_VVN ,_, 4_MC )_) Controlled_VVD lateral_JJ force_NN1 versus_II lateral_JJ drift_NN1 behavior_NN1 under_II EQ_NN1 loading_NN1 ,_, 5_MC )_) Lateral_JJ force_NN1 versus_II lateral_JJ drift_NN1 behavior_NN1 that_CST softens_VVZ without_IW significant_JJ inelastic_JJ deformations_NN2 of_IO the_AT main_JJ structural_JJ members_NN2 therefore_RR without_IW the_AT resulting_JJ structural_JJ damage_NN1 and_CC residual_JJ drift_NN1 since_CS the_AT softening_JJ behavior_NN1 is_VBZ created_VVN by_II the_AT opening_NN1 if_CS gaps_NN2 ,_, 6_MC )_) Ductility_NN1 capacity_NN1 very_RG large_JJ and_CC not_XX totally_RR controlled_VVN by_II material_NN1 ductility_NN1 ,_, 7_MC )_) Energy_NN1 dissipation_NN1 elements_NN2 designed_VVN for_IF that_DD1 purpose_NN1 so_RR energy_NN1 not_XX dissipated_VVN by_II damage_NN1 to_II structural_JJ elements_NN2 ,_, 8_MC )_) Angles_NN2 easily_RR replaced_VVN ,_, and_CC 9_MC )_) Welding_NN1 is_VBZ not_XX necessary_JJ ._. 
+</s>
+<s>
+With_IW all_DB the_AT advantages_NN2 listed_VVN above_RL and_CC the_AT current_JJ research_NN1 being_VBG performed_VVN ,_, self-centering_JJ systems_NN2 may_VM be_VBI the_AT future_NN1 of_IO seismic_JJ design_NN1 ._. 
+</s>
+<s>
+They_PPHS2 address_VV0 the_AT ultimate_JJ problem_NN1 of_IO structures_NN2 which_DDQ is_VBZ to_TO find_VVI a_AT1 way_NN1 to_TO dissipate_VVI energy_NN1 and_CC remain_VVI elastic_NN1 ._. 
+</s>
+<s>
+These_DD2 systems_NN2 have_VH0 found_VVN a_AT1 way_NN1 to_TO do_VDI this_DD1 and_CC more_RRR without_IW affecting_VVG critical_JJ structural_JJ components_NN2 when_CS subjected_VVN to_II seismic_JJ loading_NN1 ._. 
+</s>

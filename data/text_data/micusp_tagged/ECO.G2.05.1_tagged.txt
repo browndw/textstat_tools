@@ -1,0 +1,744 @@
+<s>
+This_DD1 paper_NN1 is_VBZ an_AT1 exploratory_JJ analysis_NN1 of_IO whether_CSW31 or_CSW32 not_CSW33 an_AT1 organizations_58 '_97 gains_NN2 from_II out-sourcing_VVG on-site_JJ clerical_JJ jobs_NN2 have_VH0 any_DD impact_NN1 on_II the_AT clerical_JJ workers_58 '_97 compensation_NN1 ._. 
+</s>
+<s>
+For_IF the_AT purposes_NN2 of_IO this_DD1 discussion_NN1 ,_, we_PPIS2 consider_VV0 a_AT1 worker_NN1 who_PNQS works_VVZ on_II site_NN1 at_II company_NN1 x_ZZ1 ,_, but_CCB paid_VVN by_II company_NN1 y_ZZ1 as_CSA "_" out-sourced_VVN ._. "_" 
+</s>
+<s>
+This_DD1 analysis_NN1 excludes_VVZ the_AT more_RGR classical_JJ definition_NN1 of_IO "_" out-sourcing_VVG "_" as_II a_AT1 job_NN1 sent_VVN overseas_RL ._. 
+</s>
+<s>
+The_AT first_MD part_NN1 of_IO this_DD1 paper_NN1 discusses_VVZ whether_CSW economic_JJ gains_NN2 from_II compensation_NN1 drive_NN1 firms_58 '_97 decisions_NN2 to_TO out-source_VVI ._. 
+</s>
+<s>
+The_AT second_MD component_NN1 examines_VVZ where_RRQ contracting_JJ firms_NN2 locate_VV0 and_CC raises_VVZ questions_NN2 about_II the_AT spatial_JJ mismatch_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT third_MD and_CC primary_JJ sectino_NN1 of_IO the_AT paper_NN1 explores_VVZ whether_CSW31 or_CSW32 not_CSW33 indirectly_RR employed_VVN clerical_JJ workers_NN2 receive_VV0 lower_JJR compensation_NN1 than_CSN do_VD0 their_APPGE directly_RR employed_VVN counterparts_NN2 ._. 
+</s>
+<s>
+None_PN of_IO these_DD2 analyses_NN2 are_VBR conclusive_JJ ,_, so_CS the_AT future_JJ research_NN1 section_NN1 sets_VVZ an_AT1 agenda_NN1 for_IF an_AT1 inferential_JJ spatial_JJ analysis_NN1 of_IO the_AT interaction_NN1 between_II the_AT demand_NN1 and_CC supply_NN1 of_IO clerical_JJ contractors_NN2 ,_, a_AT1 model_NN1 of_IO spatial_JJ mismatch_NN1 ,_, and_CC a_AT1 longitudinal_JJ analysis_NN1 of_IO clerical_JJ workers_NN2 ,_, focusing_VVG on_II the_AT importance_NN1 of_IO flexibility_NN1 in_II the_AT workers_58 '_97 decision_NN1 to_TO work_VVI indirectly_RR ._. 
+</s>
+<s>
+Ultimately_RR ,_, I_PPIS1 hope_VV0 to_TO determine_VVI whether_CSW31 or_CSW32 not_CSW33 the_AT longitudinal_JJ trend_NN1 towards_II out-sourcing_VVG will_VM negatively_RR affect_VVI the_AT low-skill_JJ female_JJ work_NN1 force_NN1 ._. 
+</s>
+<s>
+In_II the_AT past_JJ decade_NNT1 firms_NN2 increased_VVD their_APPGE purchases_NN2 of_IO services_NN2 significantly_RR more_DAR than_CSN they_PPHS2 increased_VVD their_APPGE direct_JJ hires_NN2 ._. 
+</s>
+<s>
+From_II 1988_MC to_II 1997_MC "_" business_NN1 services_NN2 "_" grew_VVD by_II 5.8%_FO per_II year_NNT1 ._. 
+</s>
+<s>
+The_AT rate_NN1 of_IO growth_NN1 in_II business_NN1 services_NN2 increased_VVN at_II twice_RR the_AT rate_NN1 of_IO the_AT rest_NN1 of_IO the_AT economy_NN1 over_II the_AT past_JJ 2_MC decades_NNT2 ._. 
+</s>
+<s>
+Business_NN1 services_NN2 is_VBZ the_AT larget_NN1 category_NN1 under_II the_AT NAICS_NN1 54_MC to_II 56_MC categories_NN2 ._. 
+</s>
+<s>
+These_DD2 include_VV0 professional_JJ ,_, scientific_JJ ,_, and_CC technical_JJ services_NN2 ,_, (_( legal_JJ advice_NN1 ,_, accounting_VVG ,_, bookeeping_VVG ,_, architecture_NN1 ,_, consulting_VVG ,_, research_NN1 ,_, etc_RA )_) management_NN1 of_IO companies_NN2 and_CC enterprises_NN2 (_( establishments_NN2 holding_VVG sufficient_JJ securities_NN2 to_TO administer_VVI and_CC oversee_VVI a_AT1 company_NN1 ,_, and_CC administrative_JJ and_CC support_NN1 and_CC waste_VV0 management_NN1 (_( office_NN1 administration_NN1 ,_, human_JJ resources_NN2 ,_, clerical_JJ ,_, security_NN1 ,_, cleaning_VVG ,_, and_CC waste_VV0 disposal_NN1 ._. )_) 
+</s>
+<s>
+Personnel_NN2 services_NN2 ,_, a_AT1 subcategory_NN1 of_IO business_NN1 services_NN2 ,_, is_VBZ the_AT largest_JJT employer_NN1 in_II the_AT cateogry_NN1 ._. 
+</s>
+<s>
+The_AT second_MD largest_JJT is_VBZ computer_NN1 services_NN2 ._. 
+</s>
+<s>
+(_( Clinton:1997_FO )_) The_AT fastest_JJT increasing_JJ sub-sub_JJ sector_NN1 is_VBZ the_AT temporary_JJ help_NN1 industry_NN1 (_( largely_RR clerical_JJ )_) ,_, which_DDQ grew_VVD 11_MC percent_NNU annually_RR from_II 1979_MC to_II 1995_MC ,_, five_MC times_NNT2 more_RRR quickly_RR than_CSN all_DB other_JJ non-farm_JJ employment_NN1 ._. 
+</s>
+<s>
+(_( Autor:2000_FO )_) Contractors_NN2 are_VBR gradually_RR displacing_VVG their_APPGE traditional_JJ direct-employment_JJ counterparts_NN2 in_II some_DD of_IO the_AT biggest_JJT sectors_NN2 of_IO the_AT labor_NN1 market_NN1 ._. 
+</s>
+<s>
+One-fifth_MF of_IO all_DB wage_NN1 and_CC salary_NN1 workers_NN2 in_II the_AT US_NP1 are_VBR in_II administrative_JJ support_NN1 jobs_NN2 like_II clerical_JJ work_NN1 ._. 
+</s>
+<s>
+(_( Clinton:1997_FO )_) This_DD1 change_NN1 is_VBZ enough_DD to_TO transform_VVI the_AT entire_JJ female_JJ low-skill_JJ labor_NN1 market_NN1 ._. 
+</s>
+<s>
+Out-sourcing_VVG has_VHZ already_RR transformed_VVN the_AT maintenance_NN1 (_( janitorial_JJ )_) sector_NN1 ;_; by_II the_AT late_JJ 1990_MC221 's_MC222 ,_, 90%_NNU of_IO all_DB maintenance_NN1 workers_NN2 were_VBDR subcontractors_NN2 ._. 
+</s>
+<s>
+(_( Clinton:1997_FO )_) If_CS this_DD1 trend_NN1 continues_VVZ to_TO diffuse_VVI ,_, the_AT effects_NN2 could_VM be_VBI enormous_JJ ._. 
+</s>
+<s>
+If_CS out-sourcing_VVG has_VHZ different_JJ effects_NN2 on_II compensation_NN1 for_IF low-skill_NN1 and_CC high-skill_JJ workers_NN2 ,_, there_EX could_VM also_RR be_VBI an_AT1 effect_NN1 on_II overall_JJ inequality_NN1 ._. 
+</s>
+<s>
+Between_II 1973_MC and_CC 2000_MC the_AT average_JJ real_JJ income_NN1 of_IO the_AT bottom_JJ 90%_NNU of_IO Americans_NN2 fell_VVD by_II 7%_NNU while_CS the_AT capital_NN1 gains_NN2 for_IF the_AT top_JJ one_PN1 percent_NNU rose_NN1 by_II 148%_NNU ._. 
+</s>
+<s>
+(_( Piketty_NP1 )_) Organizational_JJ theories_NN2 suggest_VV0 that_CST high_JJ skill_NN1 jobs_NN2 might_VM be_VBI outsourced_VVN to_TO tap_VVI into_II intellectual_JJ economies_NN2 of_IO scale_NN1 or_CC because_II21 of_II22 variable_JJ demand_NN1 for_IF flexible_JJ services_NN2 ._. 
+</s>
+<s>
+If_CS the_AT factors_NN2 that_CST drive_VV0 low_JJ skill_NN1 outsourcing_VVG are_VBR different_JJ ;_; namely_REX if_CS they_PPHS2 are_VBR savings_NN2 firms_NN2 compensation_NN1 costs_NN2 ,_, outsourcing_VVG could_VM widen_VVI the_AT ever-growing_JJ gap_NN1 between_II high_JJ and_CC low_JJ skill_NN1 labor_NN1 ._. 
+</s>
+<s>
+If_CS organizations_NN2 are_VBR increasingly_RR hiring_VVG workers_NN2 indirectly_RR ,_, it_PPH1 must_VM somehow_RR be_VBI more_RGR efficient_JJ to_TO outsource_VVI ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ uncertain_JJ that_CST these_DD2 gains_NN2 come_VV0 from_II saved_JJ compensation_NN1 costs_NN2 ._. 
+</s>
+<s>
+While_CS this_DD1 is_VBZ intuitively_RR the_AT most_RGT logical_JJ motivation_NN1 ,_, there_EX is_VBZ surprisingly_RR little_JJ evidence_NN1 that_CST indirect_JJ hires_NN2 earn_VV0 less_DAR than_CSN direct_JJ hires_NN2 of_IO comparable_JJ ability_NN1 and_CC more_RGR surprising_JJ ,_, there_EX is_VBZ also_RR little_JJ evidence_NN1 that_CST firms_NN2 realize_VV0 any_DD economic_JJ gain_NN1 beyond_II maintaining_VVG a_AT1 flexible_JJ labor_NN1 force_NN1 ._. 
+</s>
+<s>
+John_NP1 Benson_NP1 's_GE qualitative_JJ analysis_NN1 of_IO four_MC Australian_JJ manufacturing_NN1 firms_NN2 suggested_VVD that_CST in_II the_AT long_JJ run_NN1 ,_, outsourcing_NN1 does_VDZ realize_VVI returns_NN2 through_II reducing_VVG compensation_NN1 costs_NN2 ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 does_VDZ not_XX cause_VVI any_DD harm_NN1 to_II the_AT indirect_JJ employees_NN2 who_PNQS maintain_VV0 the_AT same_DA earnings_NN2 ._. 
+</s>
+<s>
+All_DB saving_NN1 must_VM therefore_RR come_VVI from_II the_AT firm_NN1 being_VBG able_JK to_TO adjust_VVI the_AT workforce_NN1 as_II the_AT workload_NN1 fluctuates_VVZ ._. 
+</s>
+<s>
+(_( Benson:1999_FO )_) In_II contrast_NN1 ,_, Young_NP1 and_CC MacNeil_NP1 (_( studying_VVG two_MC food_NN1 processing_NN1 companies_NN2 )_) found_VVD that_CST out-sourcing_VVG can_VM incur_VVI unexpected_JJ management_NN1 costs_NN2 ,_, negating_VVG any_DD negligible_JJ benefit_NN1 from_II cutting_VVG compensation(Young:2000)_FO Broader_JJR data_NN anlyses_VVZ also_RR find_VV0 mixed_JJ evidence_NN1 ._. 
+</s>
+<s>
+Analyzing_VVG the_AT BLS_NP1 's_GE Industry_NN1 Wages_NN2 Survey_VV0 ,_, Abraham_NP1 and_CC Taylor_NP1 found_VVD that_CST higher_JJR wage_NN1 companies_NN2 were_VBDR more_RGR likely_JJ to_TO outsource_VVI their_APPGE janitorial_JJ ,_, machine_NN1 maintenance_NN1 ,_, engineering_NN1 ,_, and_CC accounting_VVG services_NN2 ._. 
+</s>
+<s>
+(_( Abraham:1996_FO )_) Similarly_RR ,_, Gramm_NP1 and_CC Schnell_NP1 found_VVD that_CST organizations_NN2 with_IW higher_JJR wages_NN2 are_VBR more_RGR likely_JJ to_TO contract_VVI out_RP ._. 
+</s>
+<s>
+(_( Gramm:2001_FO )_) In_II contrast_NN1 Deavers_NN2 found_VVD evidence_NN1 that_CST they_PPHS2 are_VBR not_XX ._. 
+</s>
+<s>
+(_( Deavers:1997_FO )_) Deavers_NP1 argued_VVD that_CST technological_JJ change_NN1 ,_, a_AT1 focus_NN1 on_II organizational_JJ competencies_NN2 ,_, and_CC labor_NN1 flexibility_NN1 are_VBR the_AT primary_JJ motives_NN2 for_IF outsourcing_VVG ._. 
+</s>
+<s>
+Howeveeer_VV0 Deavers_NP1 provided_VVD little_RR empirical_JJ evidence_NN1 to_TO support_VVI the_AT claim_NN1 ._. 
+</s>
+<s>
+Davis_NP1 and_CC Uzzi_NP1 also_RR failed_VVN to_TO find_VVI evidence_NN1 that_CST externalizing_VVG the_AT labor_NN1 force_NN1 save_II organizations_NN2 on_II health_NN1 insurance_NN1 ,_, pensions_NN2 ,_, unemployment_NN1 insurance_NN1 ,_, and_CC supervisory_JJ costs_NN2 ,_, or_CC wages_NN2 ._. 
+</s>
+<s>
+(_( Davis:1993_FO )_) Mayal_NN1 and_CC Nelson_NP1 found_VVD contradictory_JJ evidence_NN1 ;_; in_II their_APPGE sample_NN1 of_IO 882_MC firms_NN2 ,_, they_PPHS2 found_VVD that_CST firms_NN2 with_IW higher_JJR benefit_NN1 levels_NN2 were_VBDR much_RR more_RGR likely_JJ to_TO outsource_VVI to_TO avoid_VVI these_DD2 costs_NN2 ._. 
+</s>
+<s>
+(_( Mayall:1982_FO )_) Mangum_NP1 ,_, Mayall_NP1 ,_, and_CC Nelson_NP1 found_VVD that_CST firms_NN2 use_VV0 temporary_JJ and_CC contingent_JJ workers_NN2 to_TO save_VVI money_NN1 on_II the_AT higher_JJR compensation_NN1 associated_VVN with_IW full_JJ time_NNT1 long-term_JJ employees_NN2 ._. 
+</s>
+<s>
+(_( Mangum:1985_FO )_) Some_DD of_IO the_AT variation_NN1 in_II these_DD2 findings_NN2 is_VBZ related_VVN to_II the_AT different_JJ methods_NN2 ;_; some_DD of_IO these_DD2 studies_NN2 are_VBR qualitative_JJ ,_, some_DD estimate_NN1 benefit_NN1 levels_NN2 based_VVN on_II the_AT firm_NN1 's_GE interpolated_JJ likely_JJ payout_NN1 ._. 
+</s>
+<s>
+Most_DAT of_IO these_DD2 studies_NN2 are_VBR cross_JJ sectional_JJ ,_, and_CC all_DB focus_VV0 on_II one_MC1 of_IO the_AT two_MC important_JJ building_NN1 blocks_NN2 of_IO the_AT argument_NN1 :_: 1_MC1 )_) does_VDZ the_AT firm_NN1 outsource_VVI in_II31 response_II32 to_II33 economic_JJ pressure_NN1 and_CC 2_MC )_) does_VDZ the_AT outsourced_JJ worker_NN1 receive_VV0 less_DAR compensation_NN1 ._. 
+</s>
+<s>
+The_AT problem_NN1 with_IW these_DD2 studies_NN2 is_VBZ that_CST they_PPHS2 need_VV0 to_TO prove_VVI both_RR to_TO come_VVI close_RR to_II proving_VVG that_CST firms_NN2 outsource_VV0 to_TO save_VVI money_NN1 on_II compensation_NN1 ,_, and_CC in_II the_AT process_NN1 ,_, harm_VV0 the_AT same_DA workers_NN2 they_PPHS2 would_VM have_VHI otherwise_RR hired_VVN directly_RR ._. 
+</s>
+<s>
+For_IF the_AT firm_NN1 that_CST is_VBZ indifferent_JJ between_II indirectly_RR and_CC directly_RR hiring_VVG a_AT1 worker_NN1 ,_, the_AT cost_NN1 of_IO an_AT1 indirect_JJ employee_NN1 (_( oversight_VV0 search_NN1 ,_, and_CC compensation_NN1 )_) should_VM equal_VVI the_AT cost_NN1 of_IO a_AT1 direct_JJ hire_NN1 (_( compensation_NN1 ,_, search_NN1 and_CC oversight_VV0 costs_NN2 ,_, and_CC down_JJ time_NNT1 ._. )_) 
+</s>
+<s>
+As_CSA such_DA the_AT firm_NN1 could_VM have_VHI incentives_NN2 to_TO outsource_VVI without_IW reducing_VVG compensation_NN1 ._. 
+</s>
+<s>
+Similarly_RR ,_, compensation_NN1 could_VM decline_VVI for_IF the_AT outsourced_JJ worker_NN1 without_IW benefit_NN1 to_II the_AT employer_NN1 ,_, (_( for_REX21 example_REX22 if_CS outsourcing_VVG increases_VVZ the_AT employer_NN1 's_GE search_NN1 ,_, training_NN1 ,_, or_CC oversight_VV0 costs_NN2 ,_, or_CC if_CS worker_NN1 quality_NN1 declines_VVZ ._. )_) 
+</s>
+<s>
+However_RR ,_, the_AT literature_NN1 generally_RR assumes_VVZ that_CST if_CS we_PPIS2 can_VM find_VVI evidence_NN1 that_CST firms_NN2 with_IW higher_JJR wages_NN2 and_CC benefits_NN2 are_VBR more_RGR likely_JJ to_TO outsource_VVI ,_, the_AT worker_NN1 is_VBZ worse_JJR off_RP ._. 
+</s>
+<s>
+Similarly_RR ,_, they_PPHS2 attempt_VV0 to_TO show_VVI that_CST if_CS indirect_JJ employee_NN1 receives_VVZ less_DAR compensation_NN1 than_CSN the_AT direct_JJ employee_NN1 ,_, the_AT workers_NN2 are_VBR the_AT same_DA workers_NN2 ._. 
+</s>
+<s>
+Further_RRR ,_, most_DAT of_IO the_AT literature_NN1 focuses_VVZ on_II a_AT1 case_NN1 study_NN1 of_IO one_MC1 or_CC two_MC firms_NN2 ,_, failing_VVG to_TO make_VVI generalizable_JJ arguments_NN2 ._. 
+</s>
+<s>
+The_AT spatial_JJ diffusion_NN1 of_IO outsourcing_VVG is_VBZ also_RR important_JJ in_II telling_VVG the_AT story_NN1 of_IO workers_58 '_97 welfare_NN1 ._. 
+</s>
+<s>
+The_AT firm_NN1 might_VM be_VBI more_RGR likely_JJ to_TO outsource_VVI if_CSW contractors_NN2 areavailable_JJ locally_RR ._. 
+</s>
+<s>
+Local_JJ contractors_NN2 could_VM reduce_VVI the_AT firm_NN1 's_GE search_NN1 cost_NN1 and_CC reduce_VV0 the_AT cost_NN1 of_IO oversight_NN1 and_CC implementation_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 literature_NN1 examining_VVG the_AT role_NN1 of_IO space_NN1 in_II the_AT diffusion_NN1 of_IO various_JJ organizational_JJ practices_NN2 ._. 
+</s>
+<s>
+Knoke_NP1 used_VVD a_AT1 pairwise_RR distance_NN1 measure_NN1 to_TO predict_VVI the_AT spread_NN1 of_IO municipal_JJ reform_NN1 ,_, while_CS Hedstrom_NP1 (_( 1994_MC )_) examined_VVD the_AT spread_NN1 of_IO unions_NN2 and_CC Nyers_NP1 found_VVD that_CST riots_NN2 are_VBR more_RGR likely_JJ to_TO happen_VVI in_II locations_NN2 close_RR to_II where_RRQ other_JJ riots_NN2 have_VH0 occurred_VVN ._. 
+</s>
+<s>
+While_CS many_DA2 studies_NN2 find_VV0 that_CST economic_JJ and_CC social_JJ practices_NN2 diffuse_VV0 in_II a_AT1 spatially_RR correlated_VVN manner_NN1 ,_, it_PPH1 is_VBZ difficult_JJ to_TO measure_VVI the_AT cause_NN1 ,_, since_CS spatial_JJ correlation_NN1 in_II the_AT social_JJ world_NN1 can_VM happen_VVI through_II many_DA2 different_JJ mechanisms_NN2 from_II social_JJ networks_NN2 to_II marketplace_NN1 pressures_NN2 ._. 
+</s>
+<s>
+(_( Soule_NP1 )_) Space_NN1 isimportant_NN1 from_II the_AT worker_NN1 's_GE side_NN1 as_RR21 well_RR22 ._. 
+</s>
+<s>
+As_II a_AT1 sector_NN1 's_GE employment_NN1 moves_VVZ to_II indirect_JJ employment_NN1 in_II an_AT1 individual_NN1 's_GE labor_NN1 market_NN1 ,_, that_DD1 individual_NN1 is_VBZ more_RGR likely_JJ to_TO be_VBI indirectly_RR employed_VVN ._. 
+</s>
+<s>
+Thus_RR ,_, if_CS outsourcing_VVG diffuses_VVZ through_II the_AT Northeast_ND1 first_MD ,_, or_CC through_II the_AT suburbs_NN2 ,_, the_AT Northeastern_JJ or_CC suburban_JJ worker_NN1 might_VM suffer_VVI lower_JJR compensation_NN1 or_CC enjoy_VV0 shorter_JJR unemployment_NN1 spells_NN2 or_CC more_DAR flexibility_NN1 ._. 
+</s>
+<s>
+1_MC1 Firms_NN2 would_VM not_XX indirectly_RR employ_VVI clerical_JJ workers_NN2 if_CS it_PPH1 were_VBDR not_XX in_II their_APPGE economic_JJ interest_NN1 to_TO do_VDI so_RR ._. 
+</s>
+<s>
+The_AT 1997_MC National_JJ Organizational_JJ Survey_NN1 (_( NOS_NP2 )_) ,_, a_AT1 survey_NN1 of_IO 1,002_MC work_NN1 establishments_NN2 from_II June_NPM1 1996_MC to_II June_NPM1 1997_MC asked_VVD firms_NN2 about_II their_APPGE outsourcing_JJ practices_NN2 for_IF maintenance_NN1 ,_, clerical_JJ ,_, accounting_VVG ,_, IT_NN1 ,_, and_CC core_NN1 production_NN1 ._. 
+</s>
+<s>
+It_PPH1 used_VVD a_AT1 stratified_JJ random_JJ sample_NN1 from_II 15_MC million_NNO work_NN1 establishments_NN2 ._. 
+</s>
+<s>
+(_( It_PPH1 was_VBDZ stratified_VVN based_VVN on_II organization_NN1 size_NN1 since_CS the_AT majority_NN1 of_IO work_NN1 organizations_NN2 are_VBR small_JJ ._. )_) 
+</s>
+<s>
+In_II the_AT 1997_MC NOS_NP2 sample_NN1 outsourcing_VVG low-skill_JJ labor_NN1 was_VBDZ common_JJ ,_, but_CCB constituted_VVD a_AT1 small_JJ proportion_NN1 of_IO all_DB clerical_JJ employment_NN1 in_II the_AT sample_NN1 ._. 
+</s>
+<s>
+Fifty-one_MC percent_NNU of_IO the_AT surveyed_JJ organizations_NN2 had_VHD employees_NN2 that_CST were_VBDR not_XX on_II the_AT payroll_NN1 (_( primarily_RR through_II subcontractors_NN2 or_CC temp_NN1 agencies_NN2 ._. )_) 
+</s>
+<s>
+However_RR ,_, on_II average_JJ only_JJ .42%_FO of_IO the_AT organizations_58 '_97 jobs_NN2 were_VBDR outsourced_VVN ._. 
+</s>
+<s>
+At_RR21 most_RR22 ,_, organizations_NN2 contracted_VVN between_II 1_MC1 and_CC 15%_NNU of_IO their_APPGE jobs_NN2 ._. 
+</s>
+<s>
+The_AT organizations_NN2 were_VBDR most_RGT likely_JJ to_TO contract_VVI out_RP clerical_JJ (_( 16%_NNU of_IO organizations_NN2 )_) ,_, accounting_VVG (_( 12%_NNU of_IO organizations_NN2 )_) ,_, and_CC IT_NN1 positions_NN2 (_( 13%_NNU of_IO organizations_NN2 ._. )_) 
+</s>
+<s>
+These_DD2 results_NN2 mirror_VV0 the_AT BLS_NP1 samples_NN2 reported_VVN by_II Clinton_NP1 and_CC Abraham_NP1 ,_, who_PNQS found_VVD that_CST more_DAR than_CSN one_MC1 half_NN1 of_IO businesses_NN2 contract_VV0 for_IF one_MC1 or_CC more_DAR types_NN2 of_IO business_NN1 or_CC administrative_JJ support_NN1 ._. 
+</s>
+<s>
+(_( Abraham:1988_FO ,_, Abraham:1990_FO ,_, Clinton:1997_FO )_) Seventy-one_MC percent_NNU of_IO the_AT sample_NN1 (_( 710_MC of_IO 1,002_MC )_) was_VBDZ for-profit_JJ organizations_NN2 ,_, 20%_NNU was_VBDZ public_JJ non-profit_JJ ,_, and_CC 8%_NNU was_VBDZ private_JJ non-profit_JJ ._. 
+</s>
+<s>
+The_AT median_JJ organization_NN1 had_VHD between_II 100_MC and_CC 150_MC employees_NN2 ,_, 87%_NNU offered_JJ health_NN1 insurance_NN1 ,_, 26%_NNU had_VHD unions_NN2 in_II the_AT workplace_NN1 ,_, and_CC about_RG half_DB believed_VVD their_APPGE industry_NN1 was_VBDZ "_" competitive_JJ ._. "_" 
+</s>
+<s>
+The_AT survey_NN1 asked_VVD managers_NN2 why_RRQ they_PPHS2 outsourced_VVD and_CC found_VVD that_CST the_AT overwhelming_JJ reasons_NN2 cited_VVD wither_NN1 variable_NN1 work_NN1 demand_NN1 and_CC contractors_NN2 special_JJ skills_NN2 ._. 
+</s>
+<s>
+Lowering_VVG costs_NN2 was_VBDZ not_XX a_AT1 common_JJ response_NN1 ,_, and_CC interestingly_RR ,_, few_DA2 firms_NN2 claimed_VVD they_PPHS2 did_VDD it_PPH1 because_CS others_NN2 do_VD0 ._. 
+</s>
+<s>
+Obviously_RR ,_, these_DD2 categories_NN2 are_VBR artificial_JJ separations_NN2 ._. 
+</s>
+<s>
+A_AT1 firm_NN1 could_VM not_XX outsource_VVI if_CSW other_JJ firms_NN2 were_VBDR not_XX doing_VDG the_AT same_DA ._. 
+</s>
+<s>
+Similarly_RR variable_JJ work_NN1 demand_NN1 and_CC simplifying_JJ administrative_JJ tasks_NN2 ,_, and_CC recruitment_NN1 strategy_NN1 are_VBR all_DB just_RR various_JJ forms_NN2 of_IO lowering_VVG costs-down_JJ times_NNT2 costs_VVZ ,_, low_JJ productivity_NN1 costs_NN2 ,_, and_CC search_NN1 costs_NN2 ._. 
+</s>
+<s>
+These_DD2 answers_NN2 are_VBR likely_JJ to_TO have_VHI errors_NN2 since_CS the_AT individual_NN1 answering_VVG this_DD1 question_NN1 was_VBDZ generally_RR not_XX the_AT individual_NN1 who_PNQS chose_VVD whether_CSW31 or_CSW32 not_CSW33 to_TO outsource_VVI a_AT1 given_JJ position_NN1 and_CC respondents_NN2 probably_RR preferred_VVN not_XX to_TO answer_VVI positively_RR to_II unappealing_VVG responses_NN2 like_II "_" willing_JJ to_TO do_VDI unsavory_JJ tasks_NN2 "_" even_CS21 if_CS22 this_DD1 was_VBDZ the_AT case_NN1 ._. 
+</s>
+<s>
+In_II the_AT NOS_NP2 dataset_VV0 outsourcing_NN1 was_VBDZ common_JJ among_II organizations_NN2 ,_, but_CCB not_XX among_II employees_NN2 ._. 
+</s>
+<s>
+First_MD I_PPIS1 ran_VVD two_MC logistic_JJ regressions_NN2 examining_VVG why_RRQ firms_NN2 outsource_VV0 clerical_JJ janitorial_JJ positions_NN2 ._. 
+</s>
+<s>
+where_CS :_: For-profit_JJ organizations_NN2 are_VBR much_RR more_RGR likely_JJ to_TO outsource_VVI clerical_JJ positions_NN2 than_CSN are_VBR larger_JJR firms_NN2 ._. 
+</s>
+<s>
+Those_DD2 organizations_NN2 offering_VVG medical_JJ benefits_NN2 are_VBR less_RGR likely_JJ to_TO outsource_VVI clerical_JJ positions_NN2 ._. 
+</s>
+<s>
+Health_NN1 care_NN1 benefits_NN2 might_VM be_VBI highly_RR correlated_VVN with_IW "_" high_JJ skill_NN1 industries_NN2 "_" since_CS these_DD2 industries_NN2 are_VBR both_RR more_RGR likely_JJ to_TO offer_VVI benefits_NN2 and_CC less_RGR likely_JJ to_TO contract_VVI out_RP ._. 
+</s>
+<s>
+But_CCB even_RR that_DD1 explanation_NN1 is_VBZ suspect_NN1 ;_; more_RRR likely_RR there_EX is_VBZ so_RG little_DA1 variance_NN1 in_II offering_VVG benefits_NN2 that_CST the_AT results_NN2 are_VBR unreliable_JJ ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI preferable_JJ to_TO measure_VVI the_AT percent_NNU of_IO employees_NN2 actually_RR receiving_VVG benefits_NN2 ._. 
+</s>
+<s>
+Organizations_NN2 with_IW seasonal_JJ work_NN1 are_VBR more_RGR likely_JJ to_TO outsource_VVI and_CC oddly_RR ,_, those_DD2 organizations_NN2 that_CST perceive_VVI themselves_PPX2 to_TO be_VBI in_II a_AT1 "_" competitive_JJ "_" environment_NN1 are_VBR less_RGR likely_JJ to_TO outsource_VVI ._. 
+</s>
+<s>
+The_AT strongest_JJT results_NN2 are_VBR those_DD2 for_IF "_" for-profit_JJ "_" status_NN1 and_CC the_AT size_NN1 of_IO the_AT organization_NN1 ._. 
+</s>
+<s>
+Both_DB2 of_IO these_DD2 results_NN2 are_VBR intuitive_JJ ._. 
+</s>
+<s>
+Smaller_JJR organizations_NN2 have_VH0 less_DAR flexibility_NN1 both_RR in_II31 terms_II32 of_II33 revenue_NN1 and_CC in_II31 terms_II32 of_II33 shifting_JJ staff_NN within_II the_AT organization_NN1 ._. 
+</s>
+<s>
+Thus_RR small_JJ firms_NN2 must_VM outsource_VVI to_TO maintain_VVI flexibility_NN1 that_CST larger_JJR firms_NN2 inherently_RR have_VH0 ._. 
+</s>
+<s>
+There_EX are_VBR multiple_JJ hypotheses_NN2 why_RRQ non-profits_NN2 might_VM be_VBI less_RGR likely_JJ to_II outsource-one_MC of_IO which_DDQ is_VBZ that_CST they_PPHS2 face_VV0 a_AT1 less_RGR economically_RR competitive_JJ environment_NN1 ._. 
+</s>
+<s>
+Other_JJ reasons_NN2 cross_VV0 into_II the_AT organizational_JJ theory_NN1 literature.2_FO Table_NN1 3_MC :_: Outsourcing_VVG clerical_JJ positions_NN2 :_: logit_VV0 For_IF this_DD1 analysis_NN1 I_PPIS1 generated_VVD some_DD continuous_JJ maps_NN2 displaying_VVG the_AT number_NN1 of_IO firms_NN2 offering_VVG contract_NN1 services_NN2 in_II four_MC cities_NN2 across_II the_AT U.S._NP1 by_II zipcode_NN1 ._. 
+</s>
+<s>
+I_PPIS1 also_RR conducted_VVD analyses_NN2 ,_, not_XX displayed_VVN here_RL ,_, for_IF the_AT total_JJ revenue_NN1 ,_, payroll_NN1 ,_, and_CC the_AT number_NN1 of_IO employees_NN2 in_II these_DD2 firms_NN2 ._. 
+</s>
+<s>
+The_AT firms_NN2 are_VBR all_DB firms_NN2 falling_VVG under_II the_AT NAICS_NN1 code_NN1 56_MC ,_, Administrative_JJ and_CC Support_NN1 and_CC Waste_VV0 Management_NN1 and_CC Remediation_NN1 Services_NN2 ._. 
+</s>
+<s>
+The_AT majority_NN1 of_IO this_DD1 category_NN1 includes_VVZ those_DD2 firms_NN2 I_PPIS1 am_VBM interested_JJ in_II :_: administrative_JJ support_NN1 ,_, temporary_JJ help_NN1 ,_, employee_NN1 leasing_NN1 ,_, etc_RA ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 also_RR includes_VVZ collection_NN1 agencies_NN2 ,_, travel_VV0 agencies_NN2 ,_, security_NN1 services_NN2 ,_, janitorial_JJ and_CC landscaping_VVG services_NN2 ,_, and_CC waste_VV0 management_NN1 services_NN2 ._. 
+</s>
+<s>
+Thus_RR it_PPH1 is_VBZ a_AT1 very_RG imperfect_JJ measure_NN1 of_IO contractor_NN1 accessibility_NN1 ._. 
+</s>
+<s>
+Some_DD of_IO these_DD2 categories_NN2 ,_, like_II waste_NN1 management_NN1 services_NN2 ,_, vary_VV0 almost_RR entirely_RR by_II population_NN1 ._. 
+</s>
+<s>
+However_RR ,_, others_NN2 ,_, like_II locksmiths_NN2 ,_, might_VM distort_VVI the_AT data_NN ._. 
+</s>
+<s>
+However_RR ,_, without_IW access_NN1 to_II the_AT business_NN1 census_NN1 microdata_NN1 ,_, spatial_JJ analyses_NN2 of_IO firms_NN2 are_VBR limited_VVN ._. 
+</s>
+<s>
+Kriging_NP1 is_VBZ an_AT1 interpolation_NN1 method_NN1 that_CST originated_VVD in_II mining_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ similar_JJ to_II linear_JJ regression_NN1 ,_, however_RRQV the_AT weights_NN2 (_( coefficients_NN2 )_) are_VBR re-calculated_VVN for_IF each_DD1 interpolated_JJ point_NN1 and_CC the_AT variance-covariance_JJ matrix_NN1 is_VBZ based_VVN not_XX on_II the_AT covariance_NN1 of_IO variables_NN2 ,_, but_CCB on_II the_AT variance_NN1 of_IO the_AT single_JJ outcome_NN1 variable_NN1 based_VVN on_II the_AT distance_NN1 between_II all_DB pairs_NN2 of_IO points_NN2 ._. 
+</s>
+<s>
+In_II essence_NN1 it_PPH1 is_VBZ a_AT1 weighted_JJ average_NN1 ._. 
+</s>
+<s>
+(_( Wackernagel_NP1 )_) where_RRQ d_ZZ1 is_VBZ distance_NN1 and_CC z_ZZ1 is_VBZ the_AT variable_NN1 being_VBG interpolated._NNU the_AT weights_NN2 are_VBR calculated_VVN by_II experimentally_RR finding_VVG the_AT variance_NN1 between_II two_MC points_NN2 as_II a_AT1 function_NN1 of_IO distance_NN1 ._. 
+</s>
+<s>
+For_IF a_AT1 single_JJ interpolated_JJ point_NN1 ,_, i_ZZ1 ,_, the_AT weights_NN2 on_II each_DD1 observed_JJ point_NN1 are_VBR calculated_VVN as_II the_AT betas_NN2 are_VBR calculated_VVN in_II an_AT1 OLS_NN2 regression_NN1 ,_, based_VVN on_II the_AT variance-covariance_JJ matrix_NN1 ._. 
+</s>
+<s>
+The_AT formula_NN1 for_IF variance_NN1 is_VBZ generated_VVN by_II calculating_VVG for_IF every_AT1 pair_NN of_IO points_NN2 in_II the_AT data_NN set_VV0 the_AT distance_NN1 between_II them_PPHO2 on_II the_AT x_ZZ1 axis_NN1 and_CC the_AT difference_NN1 in_II their_APPGE values_NN2 on_II the_AT y_ZZ1 axis_NN1 ._. 
+</s>
+<s>
+The_AT functional_JJ form_NN1 of_IO variance_NN1 is_VBZ often_RR exponential_NN1 or_CC gaussian_NN1 ,_, declining_VVG as_II the_AT distance_NN1 between_II two_MC points_NN2 increases_VVZ ._. 
+</s>
+<s>
+V0_FO is_VBZ the_AT vector_NN1 for_IF the_AT variance_NN1 between_II the_AT observed_JJ points_NN2 and_CC the_AT interpolated_JJ point_NN1 ._. 
+</s>
+<s>
+CoKriging_NP1 ,_, the_AT second_MD method_NN1 used_VVD here_RL ,_, is_VBZ simply_RR an_AT1 extension_NN1 of_IO kriging_VVG ,_, drawing_VVG in_II another_DD1 spatially_RR correlated_VVN variable_NN1 that_CST is_VBZ correlated_VVN with_IW the_AT variable_NN1 of_IO interest_NN1 ._. 
+</s>
+<s>
+3_MC In_II my_APPGE case_NN1 ,_, coKriging_VVG is_VBZ an_AT1 important_JJ extension_NN1 because_CS I_PPIS1 used_VVD zipcodes_NN2 ._. 
+</s>
+<s>
+Incorporating_VVG population_NN1 does_VDZ not_XX "_" control_VV0 "_" for_IF population_NN1 in_II the_AT traditional_JJ statistical_JJ sense_NN1 ._. 
+</s>
+<s>
+Rather_RR ,_, it_PPH1 uses_VVZ data_NN on_II the_AT covariance_NN1 between_II population_NN1 and_CC the_AT number_NN1 of_IO firms_NN2 to_TO create_VVI a_AT1 better_JJR estimate_NN1 of_IO the_AT number_NN1 of_IO firms_NN2 ._. 
+</s>
+<s>
+While_CS firm_JJ level_JJ data_NN is_VBZ by_II zip_NN1 code_NN1 ,_, population_NN1 level_NN1 data_NN is_VBZ by_II "_" place_NN1 ._. "_" 
+</s>
+<s>
+This_DD1 is_VBZ an_AT1 important_JJ adjustment_NN1 in_II my_APPGE analysis_NN1 because_CS in_II dense_JJ cities_NN2 the_AT organizational_JJ correlation_NN1 is_VBZ distorted_VVN ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, imagine_VV0 that_CST I_PPIS1 am_VBM kriging_VVG the_AT number_NN1 of_IO organizations_NN2 in_II New_NP1 York_NP1 City_NN1 ._. 
+</s>
+<s>
+My_APPGE dataset_NN1 is_VBZ bounded_VVN by_II Northern_JJ New_NP1 Jersey_NP1 ,_, Westchester_NP1 County_NN1 ,_, and_CC Farfield_NP1 County_NN1 ,_, Connecticut_NP1 ._. 
+</s>
+<s>
+In_II Manhattan_NP1 some_DD zip_NN1 codes_NN2 include_VV0 only_RR one_MC1 building_NN1 ._. 
+</s>
+<s>
+Depending_II21 on_II22 that_DD1 buildings_NN2 zoning_NN1 ,_, it_PPH1 might_VM have_VHI 50_MC or_CC 100_MC firms_NN2 in_II it_PPH1 ._. 
+</s>
+<s>
+The_AT adjacent_JJ building_NN1 might_VM be_VBI zoned_JJ residential_JJ and_CC have_VH0 zero_MC firms_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, in_II the_AT densest_JJT part_NN1 of_IO the_AT city_NN1 I_PPIS1 will_VM have_VHI a_AT1 lot_NN1 of_IO variability_NN1 --_NN1 thus_RR I_PPIS1 will_VM show_VVI a_AT1 lot_NN1 of_IO variability_NN1 between_II those_DD2 points_NN2 that_CST are_VBR close_RR together_RL ._. 
+</s>
+<s>
+The_AT pairs_NN2 of_IO data_NN that_CST are_VBR furthest_RRT apart_RL are_VBR those_DD2 on_II the_AT periphery_NN1 of_IO my_APPGE data_NN set_VV0 ._. 
+</s>
+<s>
+Given_VVN the_AT geographic_JJ distribution_NN1 of_IO organizations_NN2 ,_, the_AT majority_NN1 of_IO these_DD2 zip_VV0 codes_NN2 have_VH0 zero_MC organizations_NN2 in_II them_PPHO2 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT zip_NN1 codes_NN2 furthest_RRT apart_RL are_VBR the_AT most_RGT similar_JJ ._. 
+</s>
+<s>
+Incorporating_VVG population_NN1 takes_VVZ care_NN1 of_IO this_DD1 problem_NN1 because_CS it_PPH1 is_VBZ positively_RR correlated_VVN with_IW the_AT number_NN1 of_IO organizations_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, cokriging_VVG gives_VVZ me_PPIO1 more_RRR realistic_JJ contour_NN1 maps_NN2 ._. 
+</s>
+<s>
+All_DB analyses_NN2 here_RL used_VVD a_AT1 ln_NNU transform_VV0 for_IF kriging_VVG and_CC then_RT transformed_VVD back_RP for_IF presentation_NN1 ._. 
+</s>
+<s>
+I_PPIS1 used_VVD a_AT1 ln_NNU transform_VV0 because_CS the_AT data_NN was_VBDZ heavily_RR skewed_VVN to_II the_AT right.4_FO It_PPH1 should_VM be_VBI noted_VVN that_CST none_PN of_IO this_DD1 analysis_NN1 is_VBZ inferential_JJ ._. 
+</s>
+<s>
+I_PPIS1 will_VM incorporate_VVI spatial_JJ regression_NN1 and_CC inferential_JJ statistics_NN in_II future_JJ analyses_NN2 ._. 
+</s>
+<s>
+These_DD2 maps_NN2 are_VBR simple_JJ descriptions_NN2 of_IO the_AT supply_NN1 side_NN1 of_IO the_AT market_NN1 ._. 
+</s>
+<s>
+The_AT mean_JJ zip_NN1 code_NN1 has_VHZ 12_MC contractors_NN2 ._. 
+</s>
+<s>
+However_RR ,_, establishments_NN2 are_VBR strongly_RR skewed_VVN with_IW the_AT median_JJ zip_NN1 code_NN1 only_RR having_VHG 4_MC establishments_NN2 and_CC the_AT maximum_NN1 being_VBG 459_MC (_( in_II New_NP1 York_NP1 City_NN1 ._. )_) 
+</s>
+<s>
+In_II 1997_MC the_AT average_JJ zip_NN1 code_NN1 had_VHD between_II 20_MC and_CC 49_MC employees_NN2 in_II the_AT clerical_JJ services_NN2 and_CC waste_VV0 management_NN1 category_NN1 ._. 
+</s>
+<s>
+Again_RT ,_, this_DD1 measure_NN1 is_VBZ skewed_VVN with_IW some_DD zip_NN1 codes_NN2 having_VHG up_RG21 to_RG22 50,000_MC employees_NN2 in_II the_AT sector_NN1 ._. 
+</s>
+<s>
+These_DD2 maps_NN2 show_VV0 first_MD ,_, that_CST the_AT number_NN1 of_IO contractors_NN2 varies_VVZ by_II population_NN1 within_II the_AT city_NN1 ,_, as_CSA expected_VVN ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, we_PPIS2 notice_VV0 that_CST Detroit_NP1 has_VHZ an_AT1 overall_RR higher_JJR number_NN1 of_IO contractors_NN2 than_CSN do_VD0 the_AT other_JJ three_MC cities_NN2 -- but_CCB it_PPH1 also_RR has_VHZ a_AT1 larger_JJR population_NN1 (_( and_CC CoKriging_NP1 did_VDD not_XX "_" control_VV0 "_" for_IF population_NN1 ._. 
+</s>
+<s>
+Initially_RR Houston_NP1 seems_VVZ to_TO have_VHI many_DA2 contractors_NN2 ,_, but_CCB given_VVN its_APPGE large_JJ MSA_NN1 population_NN1 ,_, we_PPIS2 see_VV0 that_CST we_PPIS2 might_VM rank_VVI the_AT cities_NN2 in_II31 terms_II32 of_II33 contractor_NN1 availability_NN1 as_CSA Houston_NP1 ,_, Seattle_NP1 ,_, and_CC then_RT Detroit_NP1 and_CC Tampa_NP1 ._. 
+</s>
+<s>
+Second_MD ,_, it_PPH1 is_VBZ clear_JJ that_CST these_DD2 organizations_NN2 prefer_VV0 to_TO settle_VVI in_II satellite_NN1 cities_NN2 like_II Bellevue_NP1 and_CC Palm_NN1 Harbor_NN1 rather_II21 than_II22 in_II the_AT central_JJ business_NN1 district_NN1 ._. 
+</s>
+<s>
+Results_NN2 were_VBDR consistent_JJ kriging_NN1 with_IW the_AT number_NN1 of_IO employees_NN2 ,_, total_JJ revenue_NN1 ,_, and_CC total_JJ payroll_NN1 ,_, using_VVG ordinary_JJ kriging_NN1 ,_, and_CC kriging_VVG by_II square_JJ mile_NNU1 ._. 
+</s>
+<s>
+Results_NN2 were_VBDR inconsistent_JJ when_CS I_PPIS1 kriged_VVD New_NP1 York_NP1 City_NN1 since_CS New_NP1 York_NP1 is_VBZ so_RG densely_RR populated_VVN and_CC zoned_JJ mixed_JJ business_NN1 residential_JJ ,_, that_CST there_EX was_VBDZ no_AT spatial_JJ correlation_NN1 and_CC a_AT1 much_RR higher_JJR mean_JJ number_NN1 of_IO organizations_NN2 ._. 
+</s>
+<s>
+Suburban_JJ clustering_NN1 could_VM have_VHI two_MC effects_NN2 ._. 
+</s>
+<s>
+First_MD ,_, it_PPH1 might_VM mean_VVI that_CST firms_NN2 in_II the_AT satellite_NN1 cities_NN2 are_VBR more_RGR likely_JJ to_TO use_VVI contractors_NN2 ._. 
+</s>
+<s>
+Second_MD ,_, it_PPH1 might_VM mean_VVI that_DD1 suburban_JJ workers_NN2 are_VBR more_RGR likely_JJ to_TO work_VVI at_II these_DD2 firms_NN2 ._. 
+</s>
+<s>
+The_AT location_NN1 of_IO the_AT contracting_JJ organization_NN1 is_VBZ where_RRQ the_AT worker_NN1 interviews_NN2 and_CC perhaps_RR trains_VVZ for_IF their_APPGE placement_NN1 ,_, but_CCB is_VBZ not_XX actually_RR where_CS they_PPHS2 work_VV0 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT worker_NN1 only_RR needs_VVZ to_TO go_VVI to_II the_AT firm_NN1 at_II the_AT beginning_NN1 of_IO their_APPGE employment_NN1 spell_NN1 ._. 
+</s>
+<s>
+Much_DA1 of_IO the_AT spatial_JJ mismatch_NN1 literature_NN1 is_VBZ plagued_VVN by_II the_AT problem_NN1 that_CST workers_NN2 simultaneously_RR choose_VV0 their_APPGE place_NN1 of_IO employment_NN1 and_CC their_APPGE workplace_NN1 ,_, an_AT1 analysis_NN1 of_IO indirect_JJ employees_NN2 avoids_VVZ this_DD1 problem_NN1 ._. 
+</s>
+<s>
+Who_PNQS moves_VVZ to_II a_AT1 new_JJ city_NN1 to_TO be_VBI closer_RRR to_II a_AT1 temp_NN1 job_NN1 ?_? 
+</s>
+<s>
+Thus_RR ,_, we_PPIS2 can_VM be_VBI certain_JJ that_CST if_CS there_EX is_VBZ an_AT1 association_NN1 between_II the_AT existence_NN1 of_IO contractors_NN2 in_II an_AT1 employee_NN1 's_GE area_NN1 and_CC an_AT1 employee_NN1 's_GE status_NN1 as_II an_AT1 indirect_JJ employee_NN1 ,_, the_AT proximity_NN1 of_IO the_AT employers_NN2 is_VBZ causally_RR related_VVN to_II their_APPGE indirect_JJ employment_NN1 status_NN1 ._. 
+</s>
+<s>
+The_AT dispersion_NN1 of_IO outsourcing_VVG and_CC organizations_58 '_97 motivations_NN2 for_IF outsourcing_NN1 do_VD0 not_XX tell_VVI us_PPIO2 anything_PN1 about_II how_RRQ these_DD2 changes_NN2 are_VBR affecting_VVG the_AT outsourced_JJ worker_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR multiple_JJ positive_JJ and_CC negative_JJ outcomes_NN2 that_CST could_VM result_VVI from_II the_AT geographic_JJ and_CC organizational_JJ shifts_NN2 ._. 
+</s>
+<s>
+Workers_NN2 in_II areas_NN2 with_IW indirect_JJ employment_NN1 opportunities_NN2 might_VM suffer_VVI shorter_JJR unemployment_NN1 spells_VVZ as_CSA contractors_NN2 decrease_VV0 search_NN1 costs_NN2 and_CC increase_VV0 the_AT match_NN1 rate_NN1 between_II firms_NN2 and_CC employees_NN2 ._. 
+</s>
+<s>
+Workers_NN2 in_II these_DD2 areas_NN2 might_VM enjoy_VVI more_DAR flexibility_NN1 ,_, choosing_VVG to_TO work_VVI fewer_DAR weeks_NNT2 or_CC hours_NNT2 ._. 
+</s>
+<s>
+Indirect_JJ hires_NN2 might_VM be_VBI paid_VVN less_RRR assuming_VVG that_CST they_PPHS2 are_VBR willing_JJ to_TO pay_VVI for_IF more_DAR flexibility_NN1 or_CC if_CS they_PPHS2 are_VBR lower_JJR quality_NN1 workers_NN2 ._. 
+</s>
+<s>
+The_AT firms_NN2 might_VM pay_VVI more_RRR in_II compensation_NN1 and_CC contractors_58 '_97 fees_NN2 if_CS they_PPHS2 value_VV0 flexibility_NN1 or_CC lower_JJR search_NN1 costs_NN2 ;_; but_CCB they_PPHS2 will_VM pay_VVI less_RRR if_CS the_AT workers_NN2 are_VBR lower_JJR quality_NN1 ._. 
+</s>
+<s>
+While_CS this_DD1 preliminary_JJ analysis_NN1 will_VM not_XX be_VBI able_JK to_TO parse_VVI out_RP the_AT reasons_NN2 behind_II pay_NN1 differential_NN1 --_NN1 it_PPH1 will_VM examine_VVI whether_CSW31 or_CSW32 not_CSW33 there_EX is_VBZ a_AT1 pay_NN1 differential_NN1 between_II indirect_JJ and_CC direct_JJ employees_NN2 ._. 
+</s>
+<s>
+Insofar_CS21 as_CS22 the_AT total_JJ demand_NN1 for_IF clerical_JJ workers_NN2 is_VBZ not_XX increasing_VVG ,_, any_DD pay_NN1 differential_NN1 could_VM suggest_VVI an_AT1 overall_JJ shift_NN1 over_II time_NNT1 in_II clerical_JJ pay_NN1 --_NN1 and_CC a_AT1 regional_JJ shift_NN1 in_II clerical_JJ pay_NN1 where_CS outsourcing_VVG practices_NN2 have_VH0 diffused_VVN ._. 
+</s>
+<s>
+For_IF this_DD1 final_JJ analysis_NN1 I_PPIS1 analyzed_VVD compensation_NN1 differentials_NN2 for_IF direct_JJ and_CC indirectly_RR employed_VVN clerical_JJ workers_NN2 ._. 
+</s>
+<s>
+I_PPIS1 pooled_VVD data_NN from_II the_AT 1994_MC through_II 2000_MC March_NPM1 Current_JJ Population_NN1 Survey_NN1 (_( CPS_NP1 )_) ,_, randomly_RR selecting_VVG one_MC1 observation_NN1 for_IF each_DD1 respondent_NN1 ,_, and_CC using_VVG a_AT1 sub-sample_NN1 of_IO women_NN2 reporting_VVG paid_JJ employment_NN1 as_CSA secretaries_NN2 ,_, typists_NN2 ,_, receptionists_NN2 ,_, administrative_JJ support_NN1 ,_, and_CC data_NN entry_NN1 workers_NN2 ._. 
+</s>
+<s>
+I_PPIS1 split_VV0 this_DD1 data_NN into_II two_MC groups_NN2 ,_, those_DD2 reporting_VVG that_CST their_APPGE employer_NN1 's_GE industry_NN1 as_II a_AT1 personnel_NN2 supply_VV0 services_NN2 company_NN1 ,_, management_NN1 services_NN2 ,_, or_CC miscellaneous_JJ business_NN1 services_NN2 ,_, and_CC those_DD2 reporting_VVG working_VVG in_II some_DD other_JJ industry_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ some_DD automatic_JJ error_NN1 in_II this_DD1 classification_NN1 scheme_NN1 since_CS even_RR the_AT contractors_NN2 do_VD0 hire_VVI some_DD direct_JJ clerical_JJ workers_NN2 ._. 
+</s>
+<s>
+The_AT final_JJ sample_NN1 of_IO clerical_JJ workers_NN2 under_RG 30_MC included_VVD 710_MC indirectly_RR employed_VVN clerical_JJ workers_NN2 and_CC 20,409_MC directly_RR employed_VVN workers_NN2 ._. 
+</s>
+<s>
+Because_CS I_PPIS1 was_VBDZ unable_JK to_TO control_VVI for_IF labor_NN1 force_NN1 attachment_NN1 beyond_II hours_NNT2 and_CC weeks_NNT2 worked_VVD ,_, some_DD analyses_NN2 focus_VV0 on_II female_JJ clerical_JJ workers_NN2 under_RG 30_MC ._. 
+</s>
+<s>
+All_DB numbers_NN2 presented_VVN are_VBR unweighted_JJ because_II21 of_II22 the_AT narrow_JJ population_NN1 of_IO interest_NN1 ;_; however_RR results_NN2 using_VVG CPS_NP1 person_NN1 weights_NN2 were_VBDR almost_RR identical_JJ ._. 
+</s>
+<s>
+All_DB wages_NN2 are_VBR in_II 2000_MC dollars_NNU2 using_VVG the_AT CPI_NNU (_( not_XX the_AT Urban_JJ CPI_NNU )_) Indirectly_RR and_CC directly_RR employed_VVN clerical_JJ workers_NN2 are_VBR not_XX identical_JJ groups_NN2 --_NN1 in_II fact_NN1 indirect_JJ hires_NN2 seem_VV0 to_TO be_VBI a_AT1 higher_JJR skill_NN1 group_NN1 ._. 
+</s>
+<s>
+Indirect_JJ hires_NN2 have_VH0 significantly_RR more_DAR education_NN1 ,_, are_VBR about_RG three_MC years_NNT2 younger_JJR (_( 36_VV0 versus_II 39_MC )_) ,_, and_CC are_VBR much_RR more_RGR likely_JJ to_TO be_VBI single_JJ ._. 
+</s>
+<s>
+Indirect_JJ hires_NN2 are_VBR more_RGR urban_JJ ;_; only_RR 10%_NNU of_IO the_AT indirect_JJ hires_NN2 live_VV0 in_II non-metro_JJ areas_NN2 and_CC 32%_NNU are_VBR in_II central_JJ cities_NN2 while_CS 20%_NNU of_IO the_AT direct_JJ hires_NN2 live_VV0 in_II non-metro_JJ areas_NN2 and_CC only_RR 23%_NNU are_VBR in_II the_AT central_JJ city_NN1 ._. 
+</s>
+<s>
+Indirect_JJ hires_NN2 are_VBR also_RR about_RG twice_RR as_RG likely_JJ to_TO be_VBI black_JJ than_CSN direct_JJ hires.5_FO Education_NN1 of_IO female_JJ clerical_JJ workers_NN2 ,_, all_DB ages_NN2 Marital_JJ status_NN1 of_IO female_JJ clerical_JJ workers_NN2 ,_, all_DB ages_NN2 On_II average_NN1 ,_, the_AT indirect_JJ employee_NN1 earns_VVZ less_DAR compensation_NN1 than_CSN does_VDZ the_AT direct_JJ employee_NN1 and_CC is_VBZ less_RGR likely_JJ to_TO receive_VVI a_AT1 pension_NN1 ._. 
+</s>
+<s>
+One_MC1 possible_JJ reason_NN1 for_IF the_AT difference_NN1 in_II compensation_NN1 is_VBZ labor_NN1 force_NN1 attachment_NN1 ._. 
+</s>
+<s>
+Since_CS this_DD1 is_VBZ cross_JJ sectional_JJ data_NN ,_, I_PPIS1 was_VBDZ unable_JK to_TO analyze_VVI how_RGQ long_RR teach_VV0 type_NN1 of_IO worker_NN1 remains_VVZ in_II the_AT clerical_JJ sector_NN1 ,_, though_CS it_PPH1 is_VBZ likely_JJ that_CST the_AT contracted_JJ worker_NN1 might_VM be_VBI more_RGR transient_JJ worker_NN1 ,_, moving_VVG onto_II some_DD other_JJ career_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, they_PPHS2 might_VM accept_VVI lower_JJR wages_NN2 for_IF a_AT1 short_JJ term_NN1 position_NN1 ,_, just_RR as_II a_AT1 new_JJ college_NN1 graduate_NN1 accepts_VVZ a_AT1 position_NN1 as_II an_AT1 assistant_NN1 in_II a_AT1 prestigious_JJ firm_NN1 ,_, ultimately_RR moving_VVG up_II21 to_II22 a_AT1 better_JJR position_NN1 in_II the_AT firm_NN1 ._. 
+</s>
+<s>
+Without_IW the_AT promise_NN1 of_IO higher_JJR future_NN1 wages_NN2 ,_, the_AT career_NN1 clerical_JJ worker_NN1 may_VM expect_VVI higher_JJR wages_NN2 in_II the_AT current_JJ period_NN1 ._. 
+</s>
+<s>
+While_CS I_PPIS1 was_VBDZ not_XX able_JK to_TO examine_VVI long_JJ term_NN1 attachment_NN1 to_II clerical_JJ work_NN1 ,_, I_PPIS1 was_VBDZ able_JK to_TO determine_VVI their_APPGE short-term_JJ labor_NN1 force_NN1 attachment_NN1 ._. 
+</s>
+<s>
+Indirectly_RR employed_VVN clerical_JJ workers_NN2 fewer_DAR weeks_NNT2 per_II year_NNT1 but_CCB the_AT same_DA number_NN1 of_IO hours_NNT2 per_II week_NNT1 ._. 
+</s>
+<s>
+This_DD1 seems_VVZ to_TO suggest_VVI that_DD1 indirect_JJ employees_NN2 are_VBR under-employed_VVN ,_, not_XX voluntarily_RR seeking_VVG more_DAR flexibility_NN1 ._. 
+</s>
+<s>
+The_AT contract_NN1 worker_NN1 who_PNQS is_VBZ pursuing_VVG a_AT1 secondary_JJ career_NN1 as_II an_AT1 artist_NN1 or_CC the_AT part_NN1 time_NNT1 mother_NN1 likely_RR wants_VVZ fewer_DAR hours_NNT2 regularly_RR ,_, to_TO cover_VVI bills_NN2 and_CC to_TO have_VHI free_JJ time_NNT1 with_IW their_APPGE children_NN2 or_CC secondary_JJ career_NN1 ._. 
+</s>
+<s>
+Intermittent_JJ full_JJ time_NNT1 work_NN1 seems_VVZ to_TO speak_VVI to_II an_AT1 under-employment_NN1 problem_NN1 ._. 
+</s>
+<s>
+Labor_NN1 force_NN1 attachment_NN1 for_IF clerical_JJ workers_NN2 under_RG 30_MC years_NNT2 old_JJ Of_RR21 course_RR22 indirect_JJ and_CC direct_JJ clerical_JJ employees_NN2 are_VBR not_XX exactly_RR the_AT same_DA populations_NN2 ._. 
+</s>
+<s>
+Controlling_VVG for_IF their_APPGE individual_JJ characteristics_NN2 indirect_JJ employment_NN1 might_VM not_XX influence_VVI their_APPGE compensation_NN1 ._. 
+</s>
+<s>
+Because_II21 of_II22 the_AT minimal_JJ labor-force_JJ attachment_NN1 data_NN in_II the_AT CPS_NP1 ,_, I_PPIS1 ran_VVD a_AT1 simple_JJ OLS_NN2 regression_NN1 on_II the_AT subset_NN1 of_IO female_JJ clerical_JJ workers_NN2 under_RG thirty_MC years_NNT2 old.Initial_NNU results_NN2 suggest_VV0 that_CST indirect_JJ clerical_JJ workers_NN2 earn_VV0 lower_JJR hourly_JJ wages_NN2 ._. 
+</s>
+<s>
+However_RR ,_, using_VVG cross-sectional_JJ data_NN ,_, this_DD1 data_NN is_VBZ no_AT more_DAR than_CSN suggestive_JJ of_IO some_DD possible_JJ inequality_NN1 ._. 
+</s>
+<s>
+Female_JJ Clerical_JJ Workers_NN2 under_RG 30_MC ,_, Compensated_VVD less_RRR ?_? 
+</s>
+<s>
+OLS_NN2 :_: R-square_NN1 =_FO .11Logit_FO :_: LogLikelhiood_NP1 is_VBZ significant_JJ with_IW a_AT1 test_NN1 statistics_NN of_IO 1348_MC and_CC a_AT1 pseudo_JJ R-square_NN1 of_IO .20._MC 6_MC These_DD2 regressions_NN2 show_VV0 that_CST ,_, at_RR21 least_RR22 in_II a_AT1 cross_JJ sectional_JJ analysis_NN1 ,_, young_JJ female_JJ clerical_JJ contractors_NN2 earn_VV0 87_MC cents_NNU2 less_RRR per_II hour_NNT1 than_CSN their_APPGE direct_JJ counterparts_NN2 (_( or_CC about_RG 9_MC percent_NNU less_RRR ._. )_) 
+</s>
+<s>
+They_PPHS2 are_VBR also_RR about_RG a_AT1 third_MD as_CSA likely_JJ to_TO be_VBI offered_VVN a_AT1 pension_NN1 ,_, though_CS the_AT average_JJ worker_NN1 in_II both_DB2 groups_NN2 is_VBZ unlikely_JJ to_TO be_VBI offered_VVN a_AT1 pension_NN1 ._. 
+</s>
+<s>
+A_AT1 similar_JJ analysis_NN1 of_IO all_DB female_JJ clerical_JJ workers_NN2 (_( relaxing_VVG the_AT age_NN1 constraint_NN1 )_) shows_VVZ that_CST the_AT indirect_JJ employee_NN1 earns_VVZ $1.80_NNU less_DAR per_II hour_NNT1 than_CSN the_AT direct_JJ employee_NN1 and_CC that_CST the_AT indirect_JJ employee_NN1 only_RR has_VHZ 11%_NNU the_AT chance_NN1 of_IO getting_VVG a_AT1 pension_NN1 as_CSA does_VDZ the_AT direct_JJ employee_NN1 ._. 
+</s>
+<s>
+Compared_VVN to_II other_JJ important_JJ factors_NN2 ,_, like_II firm_JJ size_NN1 ,_, education_NN1 ,_, and_CC rural/_JJ urban_JJ markets_NN2 ,_, only_JJ urbanity_NN1 is_VBZ more_RGR important_JJ than_CSN contractors_NN2 status_NN1 in_II determining_JJ compensation_NN1 ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, these_DD2 results_NN2 are_VBR far_RG21 from_RG22 conclusive_JJ ._. 
+</s>
+<s>
+The_AT CPS_NP1 offers_VVZ insufficient_JJ control_NN1 for_IF worker_NN1 quality_NN1 and_CC labor_NN1 force_NN1 attachment_NN1 ._. 
+</s>
+<s>
+A_AT1 future_JJ analyses_NN2 should_VM use_VVI panel_NN1 data_NN ,_, controlling_VVG for_IF the_AT worker_NN1 's_GE work_NN1 history_NN1 ,_, their_APPGE tenure_NN1 in_II the_AT clerical_JJ workforce_NN1 ._. 
+</s>
+<s>
+Further_RRR ,_, it_PPH1 would_VM be_VBI interesting_JJ to_TO consider_VVI a_AT1 hazard_NN1 analysis_NN1 of_IO indirect_JJ workers_NN2 ,_, testing_VVG the_AT chance_NN1 that_CST they_PPHS2 move_VV0 to_TO direct_VVI employment_NN1 ._. 
+</s>
+<s>
+Perhaps_RR the_AT indirect_JJ labor_NN1 market_NN1 works_VVZ as_II a_AT1 matching_JJ mechanism_NN1 ,_, bringing_VVG inexperienced_JJ workers_NN2 into_II the_AT marketplace_NN1 and_CC eventually_RR matching_VVG them_PPHO2 with_IW firms_NN2 ._. 
+</s>
+<s>
+If_CS this_DD1 is_VBZ the_AT case_NN1 ,_, the_AT worker_NN1 accepts_VVZ lower_JJR compensation_NN1 in_II exchange_NN1 for_IF an_AT1 ultimate_JJ placement_NN1 with_IW a_AT1 direct_JJ placement_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II this_DD1 cross_NN1 sectional_JJ analysis_NN1 ,_, I_PPIS1 can_56 not_56 answer_VVI any_DD of_IO the_AT above_JJ hypotheses_NN2 ._. 
+</s>
+<s>
+However_RR ,_, given_VVN the_AT longitudinal_JJ trend_NN1 in_II the_AT out-sourcing_JJ market_NN1 ,_, these_DD2 "_" positive-spin_JJ "_" stories_NN2 seem_VV0 unlikely_JJ ._. 
+</s>
+<s>
+Assuming_VVG that_CST there_EX has_VHZ not_XX been_VBN a_AT1 dramatic_JJ increase_NN1 in_II the_AT overall_JJ demand_NN1 for_IF secretaries_NN2 (_( and_CC given_VVN the_AT innovations_NN2 in_II office_NN1 computing_NN1 --_NN1 it_PPH1 seems_VVZ likely_JJ that_CST there_EX might_VM even_RR be_VBI a_AT1 decline_NN1 )_) there_EX has_VHZ been_VBN a_AT1 dramatic_JJ shift_NN1 among_II secretaries_NN2 towards_II indirect_JJ employment_NN1 ._. 
+</s>
+<s>
+Did_VDD clerical_JJ workers_NN2 always_RR have_VH0 an_AT1 unsatiated_JJ demand_NN1 for_IF a_AT1 more_RGR flexible_JJ work_NN1 schedule_NN1 ?_? for_CS job_NN1 matching_NN1 ?_? 
+</s>
+<s>
+Rather_RR ,_, it_PPH1 seems_VVZ more_RGR likely_JJ that_CST the_AT firm_NN1 faces_VVZ pressure_NN1 to_TO minimize_VVI variance_NN1 among_II its_APPGE office_NN1 employees_NN2 ,_, particularly_RR in_II fringe_NN1 benefits_NN2 ._. 
+</s>
+<s>
+Hiring_VVG a_AT1 worker_NN1 indirectly_RR can_VM relax_VVI these_DD2 pressures_NN2 ,_, allowing_VVG the_AT firm_JJ to_TO compensate_VVI low_JJ skill_NN1 workers_NN2 less_RRR ,_, without_IW facing_VVG legal_JJ ,_, bureaucratic_JJ ,_, and_CC social_JJ pressures_NN2 to_TO offer_VVI less_RGR dispersed_JJ compensation_NN1 ._. 
+</s>
+<s>
+This_DD1 analysis_NN1 also_RR fails_VVZ to_TO consider_VVI the_AT spatial_JJ mismatch_NN1 question_NN1 posed_VVN in_II the_AT second_MD part_NN1 of_IO this_DD1 paper_NN1 ._. 
+</s>
+<s>
+Indirect_JJ employees_NN2 are_VBR more_RGR likely_JJ to_TO live_VVI in_II urban_JJ areas_NN2 with_IW the_AT indirect_JJ employers_NN2 located_VVN in_II satellite_NN1 cities_NN2 ._. 
+</s>
+<s>
+Does_VDZ the_AT relative_JJ location_NN1 of_IO the_AT firm_NN1 and_CC the_AT contracted_JJ worker_NN1 influence_VV0 the_AT worker_NN1 's_GE decision_NN1 to_TO work_VVI at_II that_DD1 firm_NN1 ?_? 
+</s>
+<s>
+This_DD1 question_NN1 can_VM be_VBI pursued_VVN using_VVG two_MC sorts_NN2 of_IO data_NN sets_NN2 ,_, the_AT first_MD is_VBZ a_AT1 set_NN1 of_IO workers_NN2 linked_VVN with_IW their_APPGE firms_NN2 ,_, with_IW addresses_NN2 of_IO both_DB2 ._. 
+</s>
+<s>
+Also_RR ,_, given_VVN a_AT1 data_NN set_VVN including_II workers_58 '_97 addresses_NN2 I_PPIS1 could_VM use_VVI the_AT data_NN used_VVN in_II section_NN1 two_MC to_TO krig_VVI a_AT1 "_" job_NN1 acessibility_NN1 "_" measure_NN1 for_IF each_DD1 worker_NN1 ._. 
+</s>
+<s>
+This_DD1 measure_NN1 would_VM simply_RR be_VBI the_AT spatially_RR weighted_JJ average_NN1 of_IO the_AT number_NN1 of_IO indirect_JJ employers_NN2 divided_VVN by_II total_JJ employers_NN2 in_II the_AT worker_NN1 's_GE commuting_NN1 area_NN1 ._. 
+</s>
+<s>
+The_AT spatial_JJ weight_NN1 would_VM use_VVI a_AT1 decay_NN1 function_NN1 ,_, giving_VVG extra_JJ weight_NN1 to_II those_DD2 organizations_NN2 closest_RRT to_II the_AT worker_NN1 and_CC less_DAR weight_NN1 to_II those_DD2 at_II the_AT perimeter_NN1 of_IO their_APPGE commuting_NN1 area_NN1 (_( say_VV0 forty_MC miles_NNU2 out_RP ._. )_) 
+</s>
+<s>
+Access_NN1 to_II both_DB2 types_NN2 of_IO data_NN is_VBZ limited_VVN because_II21 of_II22 the_AT confidential_JJ address_NN1 data_NN ._. 
+</s>
+<s>
+I_PPIS1 am_VBM currently_RR working_VVG on_II two_MC applications_NN2 for_IF access_NN1 to_II data_NN ,_, one_PN1 to_II the_AT RDC_NP1 to_TO use_VVI the_AT LEHD_NN1 to_TO work_VVI with_IW firm-worker_JJ data_NN ._. 
+</s>
+<s>
+The_AT second_MD application_NN1 is_VBZ to_TO work_VVI with_IW my_APPGE advisor_NN1 's_GE datasets_NN2 on_II Chicago_NP1 Health_NN1 ._. 
+</s>
+<s>
+(_( This_DD1 survey_NN1 includes_VVZ extensive_JJ information_NN1 about_II employment_NN1 in_II Chicago_NP1 and_CC includes_VVZ addresses_NN2 ._. )_) 
+</s>
+<s>
+This_DD1 analysis_NN1 raises_VVZ more_DAR questions_NN2 than_CSN it_PPH1 answers_VVZ ._. 
+</s>
+<s>
+These_DD2 questions_NN2 fall_VV0 in_II three_MC overlapping_JJ categories_NN2 :_: wage_NN1 inequality_NN1 ,_, space_NN1 and_CC the_AT labor_NN1 market_NN1 ,_, and_CC organizational_JJ practices_NN2 diffusion_NN1 ._. 
+</s>
+<s>
+The_AT first_MD set_NN1 of_IO questions_NN2 this_DD1 analysis_NN1 creates_VVZ relate_VV0 to_II inequality_NN1 ._. 
+</s>
+<s>
+Clearly_RR ,_, we_PPIS2 found_VVD that_CST outsourced_VVD workers_NN2 are_VBR compensated_VVN less_RRR ._. 
+</s>
+<s>
+It_PPH1 is_VBZ uncertain_JJ whether_CSW31 or_CSW32 not_CSW33 this_DD1 differential_NN1 is_VBZ due_II21 to_II22 workers_NN2 desiring_VVG flexibility_NN1 or_CC to_II some_DD sort_NN1 of_IO selection_NN1 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 seems_VVZ likely_JJ that_CST outsourcing_VVG release_VV0 the_AT firm_NN1 from_II bureaucratic_JJ and_CC social_JJ pressures_NN2 to_TO offer_VVI low-skill_JJ workers_NN2 higher_JJR compensation_NN1 ,_, no_AT par_NN1 with_IW their_APPGE other_JJ workers_NN2 ._. 
+</s>
+<s>
+If_CS this_DD1 is_VBZ the_AT case_NN1 ,_, what_DDQ does_VDZ the_AT trend_NN1 toward_II outsourcing_VVG mean_JJ for_IF low_JJ skill_NN1 laborers_NN2 ?_? 
+</s>
+<s>
+As_CSA more_DAR firms_NN2 outsource_VV0 will_NN1 low_JJ skill_NN1 laborers_NN2 be_VBI less_RGR likely_JJ to_TO earn_VVI a_AT1 living_JJ wage_NN1 ,_, receive_VV0 pensions_NN2 and_CC health_NN1 coverage_NN1 ?_? 
+</s>
+<s>
+If_CS the_AT answer_NN1 to_II these_DD2 questions_NN2 is_VBZ "_" yes_UH "_" there_RL are_VBR clear_JJ public_JJ policy_NN1 concerns_NN2 related_VVN to_II retirement_NN1 benefits_NN2 and_CC public_JJ health_NN1 insurance_NN1 ._. 
+</s>
+<s>
+The_AT second_MD set_NN1 of_IO questions_NN2 motivated_VVN by_II this_DD1 analysis_NN1 relate_VV0 to_TO space_VVI ._. 
+</s>
+<s>
+First_MD ,_, why_RRQ do_VD0 contractors_NN2 locate_VVI in_II satellite_NN1 cities_NN2 ?_? 
+</s>
+<s>
+Is_VBZ it_PPH1 the_AT lower_JJR overhead_NN1 costs_VVZ ?_? 
+</s>
+<s>
+Are_VBR they_PPHS2 closer_RRR to_II the_AT firms_NN2 they_PPHS2 contract_VV0 with_IW ?_? 
+</s>
+<s>
+To_II the_AT workers_NN2 they_PPHS2 employ_VV0 ?_? 
+</s>
+<s>
+Do_VD0 these_DD2 firms_58 '_97 locational_JJ decisions_NN2 contribute_VV0 to_II the_AT spatial_JJ mismatch_NN1 ?_? 
+</s>
+<s>
+If_CS workers_NN2 find_VV0 permanent_JJ positions_NN2 through_II these_DD2 firms_NN2 ,_, will_VV0 inner_JJ city_NN1 workers_NN2 be_VBI unable_JK to_TO take_VVI advantage_NN1 of_IO these_DD2 firms_NN2 because_CS they_PPHS2 interview_VV0 and_CC train_VV0 in_II satellite_NN1 cities_NN2 ?_? 
+</s>
+<s>
+Are_VBR suburban_JJ firms_NN2 more_RGR likely_JJ to_TO outsource_VVI because_CS they_PPHS2 are_VBR closer_JJR to_II contractors_NN2 ?_? 
+</s>
+<s>
+If_CS inner_JJ city_NN1 firms_NN2 are_VBR less_RGR likely_JJ to_TO hire_VVI contractors_NN2 ,_, this_DD1 might_VM negate_VVI the_AT spatial_JJ mismatch_NN1 problem_NN1 ._. 
+</s>
+<s>
+All_DB of_IO the_AT above_JJ questions_NN2 rely_VV0 on_II the_AT question_NN1 of_IO how_RRQ this_DD1 organizational_JJ practice_NN1 diffuses_VVZ ._. 
+</s>
+<s>
+Has_VHZ it_PPH1 already_RR diffused_VVN in_II the_AT clerical_JJ market_NN1 ?_? 
+</s>
+<s>
+If_CS not_XX ,_, what_DDQ is_VBZ its_APPGE equilibrium_NN1 point_NN1 ?_? 
+</s>
+<s>
+What_DDQ types_NN2 of_IO organizations_NN2 will_VM maintain_VVI direct_JJ hires_NN2 and_CC where_RRQ will_VM they_PPHS2 be_VBI located_VVN ?_? 
+</s>
+<s>
+If_CS this_DD1 phenomena_VVZ has_VHZ not_XX played_VVN itself_PPX1 out_RP ,_, what_DDQ will_VM the_AT low_JJ skill_NN1 labor_NN1 market_NN1 look_VV0 like_II when_RRQ it_PPH1 does_VDZ ?_? 
+</s>
+<s>
+In_II this_DD1 analysis_NN1 we_PPIS2 established_VVD that_CST for_IF profit_NN1 organizations_NN2 and_CC organizations_NN2 with_IW variable_JJ workflows_NN2 are_VBR significantly_RR more_RGR likely_JJ to_TO outsource_VVI their_APPGE clerical_JJ workers_NN2 ,_, contracted_VVD clerical_JJ workers_NN2 earn_VV0 significantly_RR less_DAR than_CSN their_APPGE direct_JJ hire_NN1 counterparts_NN2 ,_, and_CC that_CST the_AT contractors_NN2 are_VBR located_VVN disproportionately_RR in_II satellite_NN1 cities_NN2 ._. 
+</s>
+<s>
+Given_VVN the_AT strong_JJ longitudinal_JJ trend_NN1 towards_II outsourcing_VVG ,_, it_PPH1 seems_VVZ unlikely_JJ that_CST the_AT compensation_NN1 differentials_NN2 are_VBR entirely_RR explained_VVN by_II workers_58 '_97 demands_NN2 for_IF flexibility_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, if_CS the_AT firm_NN1 also_RR desires_VVZ flexibility_NN1 ,_, why_RRQ does_VDZ the_AT contractors_58 '_97 fee_NN1 primarily_RR come_VV0 out_II21 of_II22 the_AT worker_NN1 's_GE paycheck_NN1 and_CC not_XX from_II the_AT firm_NN1 ?_? 
+</s>
+<s>
+In_II conclusion_NN1 ,_, this_DD1 analysis_NN1 seems_VVZ to_TO provide_VVI suggestive_JJ evidence_NN1 that_CST this_DD1 trend_NN1 towards_II outsourcing_VVG low_JJ skill_NN1 jobs_NN2 like_II janitorial_JJ and_CC clerical_JJ services_NN2 might_VM exacerbate_VVI the_AT trend_NN1 towards_II growing_JJ inequality_NN1 ._. 
+</s>
+<s>
+I_PPIS1 still_RR have_VH0 not_XX attacked_VVN the_AT research_NN1 question_NN1 that_CST motivated_VVD this_DD1 project_NN1 ,_, an_AT1 analysis_NN1 of_IO whether_CSW31 or_CSW32 not_CSW33 the_AT density_NN1 of_IO contractors_NN2 encourages_VVZ firms_NN2 to_TO outsource_VVI ._. 
+</s>
+<s>
+(_( In_II other_JJ words_NN2 ,_, is_VBZ there_EX a_AT1 spatial_JJ covariance_NN1 between_II the_AT decision_NN1 to_TO outsource_VVI and_CC the_AT number_NN1 of_IO contractors_NN2 ?_? 
+</s>
+<s>
+The_AT predictor_NN1 of_IO interest_NN1 would_VM be_VBI the_AT percent_NNU of_IO business_NN1 in_II the_AT region_NN1 that_CST is_VBZ business_NN1 services_NN2 ._. 
+</s>
+<s>
+Spatially_RR weighted_VVN (_( by_II zip_NN1 )_) economic_JJ controls_NN2 will_VM include_VVI the_AT average_JJ wage_NN1 rate_NN1 ,_, average_JJ unemployment_NN1 ,_, average_JJ education_NN1 ,_, etc_RA ._. 
+</s>
+<s>
+Individual_JJ level_JJ predictors_NN2 will_VM include_VVI classic_JJ controls_NN2 like_II education_NN1 ,_, work_VV0 experience_NN1 ,_, etc_RA ._. 
+</s>
+<s>
+There_EX might_VM be_VBI positive_JJ outcomes_NN2 associated_VVN with_IW more_DAR employment_NN1 through_II business_NN1 services_NN2 organizations_NN2 ._. 
+</s>
+<s>
+The_AT most_RGT likely_JJ positive_JJ outcome_NN1 is_VBZ a_AT1 more_RGR fluid_JJ labor_NN1 market_NN1 ._. 
+</s>
+<s>
+This_DD1 might_VM be_VBI related_VVN to_II shorter_JJR unemployment_NN1 spells_VVZ for_IF clerical_JJ workers_NN2 ._. 
+</s>
+<s>
+I_PPIS1 think_VV0 I_PPIS1 'll_VM probably_RR propose_VVI a_AT1 hazard_NN1 model_NN1 testing_VVG whether_CSW31 or_CSW32 not_CSW33 individuals_NN2 in_II area_NN1 with_IW more_DAR outsourcing_NN1 are_VBR more_RGR likley_JJ to_TO have_VHI shorter_JJR unemployment_NN1 spells_NN2 ._. 
+</s>
+<s>
+1_MC1 The_AT question_NN1 of_IO economic_JJ gains_NN2 from_II lower_JJR benefits_NN2 is_VBZ more_RGR complicated_JJ than_CSN that_DD1 of_IO wages_NN2 because_CS it_PPH1 encompasses_VVZ questions_NN2 of_IO tax_NN1 law_NN1 ._. 
+</s>
+<s>
+US_NP1 Code_NN1 Title_NN1 26_MC ,_, subtitle_VV0 A_ZZ1 ,_, Chapter1_FO ,_, Subchapter_NP1 D_ZZ1 ,_, PartI_NP1 ,_, Subpart_NP1 A_ZZ1 ,_, Section_NN1 401_MC a(4)_FO states_VVZ ,_, "_" if_CS the_AT contributions_NN2 or_CC benefits_NN2 provided_VVN under_II the_AT plan_NN1 do_VD0 not_XX discriminate_VVI in_II31 favor_II32 of_II33 highly_RR compensated_VVN employees_NN2 (_( within_II the_AT meaning_NN1 of_IO section414(q)_FO )_) ._. 
+</s>
+<s>
+For_IF the_AT purposes_NN2 of_IO this_DD1 paragraph_NN1 ,_, there_EX shall_VM be_VBI excluded_VVN from_II consideration_NN1 employees_NN2 described_VVN in_II section_NN1 410(b)_FO (_( 3_MC )_) (_( A_ZZ1 )_) and_CC (_( C_ZZ1 )_) ._. "_" 
+</s>
+<s>
+This_DD1 section_NN1 of_IO the_AT US_NP1 code_NN1 says_VVZ that_CST if_CS an_AT1 organization_NN1 offers_VVZ benefits_NN2 to_II the_AT only_RR the_AT top_JJ 20%_NNU of_IO its_APPGE paid_JJ employees_NN2 ,_, or_CC only_RR to_II those_DD2 employees_NN2 paid_VVN more_RRR than_CSN $50,000_NNU ,_, their_APPGE expenditures_NN2 on_II pensions_NN2 ,_, health_NN1 insurance_NN1 ,_, and_CC life_NN1 insurance_NN1 will_VM be_VBI taxed_VVN 25%_NNU ._. 
+</s>
+<s>
+This_DD1 law_NN1 prevents_VVZ discrimination_NN1 in_II31 favor_II32 of_II33 the_AT high_JJ skill_NN1 worker_NN1 but_CCB not_XX against_II the_AT low-skill_JJ worker_NN1 ._. 
+</s>
+<s>
+At_II the_AT same_DA time_NNT1 --_NN1 the_AT threat_NN1 of_IO additional_JJ taxes_NN2 combined_VVN with_IW the_AT administrative_JJ costs_NN2 of_IO managing_JJ multiple_JJ plans_NN2 and_CC economies_NN2 of_IO scale_NN1 in_II bargaining_VVG for_IF single_JJ plans_NN2 ,_, might_VM encourage_VVI firms_NN2 to_TO provide_VVI consistent_JJ benefits_NN2 to_II all_DB employees_NN2 ._. 
+</s>
+<s>
+As_II such_DA ,_, it_PPH1 is_VBZ easy_JJ to_TO imagine_VVI that_CST a_AT1 firm_NN1 might_VM realize_VVI gains_NN2 in_II benefit_NN1 costs_VVZ by_II directly_RR employ_VV0 their_APPGE workers_NN2 whom_PNQO they_PPHS2 wish_VV0 to_TO compensate_VVI with_IW one_MC1 level_NN1 of_IO benefits_NN2 ,_, and_CC out-sourcing_VVG those_DD2 who_PNQS they_PPHS2 do_VD0 not_XX wish_VVI to_TO compensate_VVI with_IW comparable_JJ benefits_NN2 ._. 
+</s>

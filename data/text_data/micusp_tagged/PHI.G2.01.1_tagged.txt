@@ -1,0 +1,294 @@
+<s>
+What_DDQ should_VM a_AT1 scientific_JJ explanation_NN1 consist_VV0 of_IO ?_? 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 question_NN1 that_CST Carl_NP1 Hempel_NP1 tackles_VVZ in_II his_APPGE essay_NN1 "_" Laws_NN2 and_CC their_APPGE role_NN1 in_II scientific_JJ explanation_NN1 ._. "_" 
+</s>
+<s>
+His_APPGE prescription_NN1 has_VHZ played_VVN an_AT1 important_JJ role_NN1 in_II the_AT history_NN1 of_IO the_AT philosophy_NN1 of_IO science_NN1 and_CC arguably_RR in_II science_NN1 itself_PPX1 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA I_PPIS1 will_VM discuss_VVI in_II this_DD1 paper_NN1 ,_, his_APPGE theory_NN1 does_VDZ not_XX address_VVI some_DD important_JJ concerns_NN2 that_CST can_VM be_VBI raised_VVN with_IW this_DD1 criterion_NN1 of_IO explanatory_JJ relevance_NN1 :_: the_AT role_NN1 of_IO post_JJ21 hoc_JJ22 explanations_NN2 and_CC the_AT role_NN1 of_IO human_JJ psychology_NN1 ._. 
+</s>
+<s>
+As_CSA I_PPIS1 shall_VM address_VVI ,_, Hempel_NP1 's_GE model_NN1 is_VBZ not_XX explicit_JJ about_II these_DD2 topics_NN2 ,_, but_CCB if_CS it_PPH1 is_VBZ the_AT case_NN1 that_CST the_AT model_NN1 excludes_VVZ post_JJ21 hoc_JJ22 explanations_NN2 and_CC explanations_NN2 where_RRQ human_JJ cognition_NN1 does_VDZ not_XX allow_VVI the_AT prediction_NN1 of_IO the_AT explanandum_NN1 based_VVN on_II the_AT explanans_NN2 ,_, we_PPIS2 would_VM apparently_RR be_VBI left_VVN with_IW no_AT explanation_NN1 at_RR21 all_RR22 ._. 
+</s>
+<s>
+Hempel_NN1 proposes_VVZ two_MC models_NN2 of_IO scientific_JJ explanations_NN2 ,_, both_DB2 of_IO which_DDQ require_VV0 the_AT use_NN1 of_IO laws_NN2 ._. 
+</s>
+<s>
+The_AT first_MD type_NN1 Hempel_NP1 discusses_VVZ is_VBZ the_AT deductive-nomological_JJ explanation_NN1 ._. 
+</s>
+<s>
+Under_II this_DD1 model_NN1 ,_, a_AT1 scientific_JJ explanation_NN1 is_VBZ a_AT1 deductively_RR valid_JJ argument_NN1 ,_, where_CS the_AT fact_NN1 to_TO be_VBI explained_VVN --_NN1 called_VVN the_AT explanandum_NN1 --_NN1 is_VBZ the_AT conclusion_NN1 ._. 
+</s>
+<s>
+The_AT premises_NN2 consist_VV0 both_RR of_IO laws_NN2 of_IO nature_NN1 ,_, and_CC particular_JJ facts_NN2 about_II the_AT world_NN1 ._. 
+</s>
+<s>
+These_DD2 statements_NN2 are_VBR called_VVN explanans_NN2 ._. 
+</s>
+<s>
+An_AT1 example_NN1 of_IO such_DA an_AT1 argument-cum-explanation_NN1 would_VM be_VBI :_: Statement_NN1 1_MC1 is_VBZ a_AT1 law_NN1 of_IO nature_NN1 ,_, or_CC in_II Hempel_NP1 's_GE terminology_NN1 a_AT1 "_" covering_NN1 law_NN1 ,_, "_" as_CSA it_PPH1 subsumes_VVZ the_AT explanandum_NN1 3_MC ._. 
+</s>
+<s>
+Statement_NN1 2_MC is_VBZ a_AT1 particular_JJ fact_NN1 about_II the_AT world_NN1 ._. 
+</s>
+<s>
+Statement_NN1 3_MC is_VBZ the_AT deductively_RR valid_JJ conclusion_NN1 of_IO premises_NN2 1_MC1 and_CC 2_MC (_( given_VVN some_DD additional_JJ implied_JJ premises_NN2 such_II21 as_II22 "_" my_APPGE tire_VV0 contains_VVZ a_AT1 gas_NN1 ,_, "_" The_AT inductive-statistical_JJ explanation_NN1 also_RR models_NN2 explanation_NN1 as_II an_AT1 argument_NN1 ,_, with_IW laws_NN2 of_IO nature_NN1 and_CC particular_JJ facts_NN2 as_II the_AT premises_NN2 and_CC the_AT explanandum_NN1 as_II the_AT conclusion_NN1 ._. 
+</s>
+<s>
+However_RR ,_, in_II an_AT1 I-S_VBZ explanation_NN1 ,_, the_AT argument_NN1 does_VDZ not_XX have_VHI to_TO be_VBI deductively_RR valid_JJ ;_; rather_RR ,_, it_PPH1 must_VM be_VBI inductively_RR strong_JJ --_NN1 that_REX21 is_REX22 ,_, that_CST the_AT premises_NN2 must_VM make_VVI the_AT conclusion_NN1 highly_RR likely_JJ ._. 
+</s>
+<s>
+The_AT I-S_VBZ model_NN1 allows_VVZ for_IF probabilistic_JJ laws_NN2 to_TO be_VBI used_VVN as_CSA premises_NN2 ._. 
+</s>
+<s>
+Hempel_NN1 proposes_VVZ two_MC conditions_NN2 that_CST must_VM be_VBI met_VVN for_IF an_AT1 explanation_NN1 to_TO be_VBI satisfactory_JJ ._. 
+</s>
+<s>
+The_AT first_MD of_IO these_DD2 criteria_NN2 he_PPHS1 calls_VVZ "_" the_AT requirement_NN1 of_IO explanatory_JJ relevance_NN1 ._. "_" 
+</s>
+<s>
+By_II this_DD1 ,_, he_PPHS1 means_VVZ that_CST the_AT explanation_NN1 must_VM make_VVI one_MC1 expect_VV0 or_CC believe_VV0 that_CST the_AT fact_NN1 to_TO be_VBI explained_VVN did_VDD or_CC would_VM occur_VVI ._. 
+</s>
+<s>
+Hempel_NN1 calls_VVZ his_APPGE second_MD criterion_NN1 "_" the_AT requirement_NN1 of_IO testability_NN1 ,_, "_" meaning_VVG just_RR that_CST the_AT statements_NN2 used_VVN as_CSA premises_NN2 in_II the_AT explanation_NN1 (_( the_AT laws_NN2 and_CC particular_JJ facts_NN2 )_) must_VM be_VBI able_JK to_TO be_VBI empirically_RR tested_VVN ._. 
+</s>
+<s>
+According_II21 to_II22 Hempel_NP1 ,_, laws_NN2 are_VBR a_AT1 necessary_JJ part_NN1 of_IO explanations_NN2 because_CS laws_NN2 fill_VV0 the_AT requirement_NN1 of_IO explanatory_JJ relevance_NN1 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, laws_NN2 provide_VV0 the_AT link_NN1 whereby_RRQ the_AT explanandum_NN1 is_VBZ to_TO be_VBI expected_VVN based_VVN upon_II the_AT other_JJ explanans_NN2 ._. 
+</s>
+<s>
+In_II a_AT1 sense_NN1 ,_, scientific_JJ laws_NN2 could_VM be_VBI thought_VVN of_IO as_RG rigid_JJ ,_, well-verified_JJ if-then_JJ statements_NN2 ._. 
+</s>
+<s>
+If_CS a_AT1 gas_NN1 is_VBZ heated_VVN ,_, then_RT it_PPH1 will_VM expand_VVI ._. 
+</s>
+<s>
+If_CS a_AT1 magnet_NN1 is_VBZ broken_VVN ,_, then_RT the_AT two_MC pieces_NN2 will_VM be_VBI magnets_NN2 as_RR21 well_RR22 ._. 
+</s>
+<s>
+Hempel_NN1 puts_VVZ it_PPH1 this_DD1 way_NN1 "_" laws_NN2 ...._... are_VBR ..._... statements_NN2 of_IO universal_JJ form_NN1 (_( which_DDQ )_) asserts_VVZ a_AT1 uniform_JJ connection_NN1 between_II different_JJ empirical_JJ phenomena_NN2 or_CC between_II different_JJ aspects_NN2 of_IO an_AT1 empirical_JJ phenomenon_NN1 "_" (_( p._NNU 309_MC )_) ._. 
+</s>
+<s>
+Hempel_NP1 's_GE model_NN1 of_IO explanations_NN2 seems_VVZ quite_RG simple_JJ and_CC perhaps_RR too_RG straightforward_JJ to_TO bring_VVI any_DD major_JJ criticism_NN1 against_II ._. 
+</s>
+<s>
+Upon_II reflection_NN1 ,_, however_RR ,_, it_PPH1 has_VHZ some_DD serious_JJ and_CC problematic_JJ implications_NN2 ._. 
+</s>
+<s>
+One_MC1 question_NN1 that_CST can_VM be_VBI raised_VVN against_II Hempel_NP1 's_GE view_NN1 of_IO explanation_NN1 is_VBZ ,_, why_RRQ are_VBR laws_NN2 needed_VVN as_CSA premises/explanans_NN2 rather_II21 than_II22 simply_RR universal_JJ generalizations_NN2 ?_? 
+</s>
+<s>
+Indeed_RR ,_, what_DDQ makes_VVZ a_AT1 law_NN1 different_JJ from_II a_AT1 universal_JJ generalization_NN1 in_II the_AT first_MD place_NN1 ?_? 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 fairly_RR titanic_JJ question_NN1 that_CST Hempel_NP1 hands_VVZ off_RP to_II other_JJ philosophers_NN2 (_( at_RR21 least_RR22 in_II his_APPGE essay_NN1 "_" Laws_NN2 and_CC their_APPGE Roles_NN2 in_II Scientific_JJ Explanations_NN2 )_) ._. 
+</s>
+<s>
+I_PPIS1 will_VM do_VDI the_AT same_DA ,_, except_CS to_TO note_VVI that_CST Hempel_NP1 fails_VVZ to_TO justify_VVI the_AT inclusion_NN1 of_IO laws_NN2 over_II universal_JJ generalizations_NN2 ._. 
+</s>
+<s>
+He_PPHS1 comments_VVZ that_CST laws_NN2 are_VBR thought_VVN of_IO as_RG different_JJ from_II other_JJ universal_JJ generalizations_NN2 because_CS laws_NN2 can_VM be_VBI used_VVN to_TO support_VVI counterfactuals_NN2 ._. 
+</s>
+<s>
+However_RR ,_, he_PPHS1 does_VDZ not_XX address_VVI why_RRQ this_DD1 is_VBZ the_AT case_NN1 ,_, nor_CC why_RRQ the_AT property_NN1 of_IO supporting_JJ counterfactuals_NN2 is_VBZ necessary_JJ for_IF explanation_NN1 ._. 
+</s>
+<s>
+Beyond_II this_DD1 ,_, we_PPIS2 must_VM ask_VVI ,_, what_DDQ is_VBZ unique_JJ about_II Hempel_NP1 's_GE model_NN1 in_II31 terms_II32 of_II33 description_NN1 or_CC prescription_NN1 ?_? 
+</s>
+<s>
+One_MC1 feature_NN1 seems_VVZ the_AT most_RGT prominent_JJ :_: his_APPGE requirement_NN1 that_CST people_NN must_VM expect_VVI (_( be_VBI able_JK to_TO predict_VVI )_) the_AT explanandum_NN1 based_VVN upon_II the_AT explanans_NN2 --_NN1 that_REX21 is_REX22 ,_, the_AT requirement_NN1 of_IO explanatory_JJ relevance_NN1 ._. 
+</s>
+<s>
+This_DD1 leads_VVZ to_II two_MC problems_NN2 that_CST I_PPIS1 will_VM address_VVI in_II turn_NN1 :_: it_PPH1 does_VDZ not_XX seem_VVI to_TO allow_VVI for_IF post-hoc_JJ explanations_NN2 ,_, and_CC it_PPH1 apparently_RR does_VDZ not_XX allow_VVI for_IF explanations_NN2 where_RRQ human_JJ cognitive_JJ limitations_NN2 prevent_VV0 the_AT prediction_NN1 of_IO the_AT explanandum_NN1 from_II the_AT explanans_NN2 ._. 
+</s>
+<s>
+The_AT first_MD issue_NN1 is_VBZ that_CST the_AT Hempel_NP1 's_GE criterion_NN1 of_IO explanatory_JJ relevance_NN1 means_VVZ that_CST the_AT model_NN1 does_VDZ not_XX account_VVI for_IF certain_JJ situations_NN2 in_II which_DDQ explanations_NN2 are_VBR taken_VVN as_CSA acceptable_JJ (_( e.g._REX ,_, by_II the_AT scientific_JJ community_NN1 )_) but_CCB where_RRQ the_AT explanandum_NN1 can_56 not_56 be_VBI predicted_VVN from_II the_AT explanans_NN2 ._. 
+</s>
+<s>
+One_MC1 example_NN1 of_IO this_DD1 could_VM be_VBI evolutionary_JJ explanations_NN2 ._. 
+</s>
+<s>
+Suppose_VV0 that_CST one_PN1 wants_VVZ to_TO explain_VVI how_RRQ a_AT1 species_NN of_IO moths_NN2 came_VVD to_TO have_VHI very_RG long_JJ tongues_NN2 ._. 
+</s>
+<s>
+A_AT1 D-N_NN1 style_NN1 explanation_NN1 would_VM require_VVI premises_NN2 (_( laws_NN2 and_CC particular_JJ facts_NN2 )_) that_CST would_VM predict_VVI this_DD1 ._. 
+</s>
+<s>
+But_CCB ,_, though_CS we_PPIS2 can_VM have_VHI extensive_JJ knowledge_NN1 about_II the_AT environment_NN1 of_IO these_DD2 moths_NN2 and_CC the_AT mechanisms_NN2 of_IO evolution_NN1 ,_, it_PPH1 does_VDZ not_XX seem_VVI possible_JJ to_TO predict_VVI a_AT1 particular_JJ adaptation_NN1 ._. 
+</s>
+<s>
+It_PPH1 seems_VVZ that_CST in_II such_DA cases_NN2 ,_, if_CS we_PPIS2 did_VDD not_XX already_RR know_VVI what_DDQ sort_NN1 of_IO adaptation_NN1 had_VHD occurred_VVN ,_, the_AT premises_NN2 available_JJ to_II us_PPIO2 would_VM be_VBI something_PN1 along_II the_AT lines_NN2 of_IO :_: It_PPH1 is_VBZ apparent_JJ that_CST we_PPIS2 could_VM not_XX predict_VVI the_AT explanandum_NN1 (_( that_CST moths_NN2 of_IO species_NN X_ZZ1 have_VH0 long_JJ tongues_NN2 )_) based_VVN upon_II these_DD2 premises_NN2 ._. 
+</s>
+<s>
+However_RR ,_, we_PPIS2 do_VD0 find_VVI certain_JJ evolutionary_JJ explanations_NN2 to_TO be_VBI acceptable_JJ ._. 
+</s>
+<s>
+For_IF the_AT moths_NN2 in_II question_NN1 ,_, the_AT evolutionary_JJ explanation_NN1 would_VM go_VVI something_PN1 like_II this_DD1 :_: Here_RL ,_, the_AT explanandum_NN1 does_VDZ follow_VVI from_II the_AT explanans_NN2 ._. 
+</s>
+<s>
+But_CCB in_BCL21 order_BCL22 to_TO make_VVI this_DD1 happen_VV0 ,_, we_PPIS2 had_VHD to_TO add_VVI a_AT1 particular_JJ fact_NN1 (_( 11_MC )_) post_RR21 hoc_RR22 ._. 
+</s>
+<s>
+The_AT only_JJ way_NN1 we_PPIS2 know_VV0 fact_NN1 11_MC is_VBZ through_II an_AT1 argument_NN1 with_IW the_AT explanandum_NN1 as_II a_AT1 premise_NN1 :_: If_CS Hempel_NP1 's_GE model_NN1 of_IO explanation_NN1 bars_VVZ this_DD1 sort_NN1 of_IO post_JJ21 hoc_JJ22 reasoning_NN1 (_( as_CSA it_PPH1 seems_VVZ it_PPH1 should_VM ,_, since_CS one_PN1 should_VM not_XX be_VBI able_JK to_TO assume_VVI the_AT conclusion_NN1 in_BCL21 order_BCL22 to_TO predict_VVI the_AT conclusion_NN1 )_) ,_, it_PPH1 would_VM bar_VVI the_AT argument_NN1 we_PPIS2 find_VV0 acceptable_JJ as_II an_AT1 explanation_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ unclear_JJ how_RRQ Hempel_NP1 would_VM respond_VVI to_II this_DD1 problem_NN1 ._. 
+</s>
+<s>
+He_PPHS1 may_VM conclude_VVI that_CST the_AT argument_NN1 we_PPIS2 take_VV0 as_II an_AT1 explanation_NN1 is_VBZ n't_XX properly_RR an_AT1 explanation_NN1 ,_, and_CC further_RRR ,_, evolutionary_JJ explanations_NN2 in_RR21 general_RR22 are_VBR nearly_RR impossible_JJ to_TO provide_VVI --_NN1 the_AT random_JJ nature_NN1 of_IO mutations_NN2 prevents_VVZ us_PPIO2 from_II having_VHG knowledge_NN1 of_IO particular_JJ facts_NN2 of_IO mutations_NN2 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 seems_VVZ that_CST the_AT post_JJ21 hoc_JJ22 explanation_NN1 given_VVN is_VBZ better_JJR than_CSN nothing_PN1 ,_, and_CC does_VDZ contribute_VVI to_II our_APPGE understanding_NN1 ._. 
+</s>
+<s>
+If_CS Hempel_NP1 's_GE model_NN1 does_VDZ not_XX accommodate_VVI our_APPGE post_JJ21 hoc_JJ22 explanations_NN2 ,_, this_DD1 would_VM be_VBI a_AT1 problem_NN1 for_IF his_APPGE model_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 requires_VVZ explanation_NN1 to_TO involve_VVI prediction_NN1 ,_, but_CCB prediction_NN1 and_CC explanation_NN1 are_VBR very_RG different_JJ animals_NN2 ,_, with_IW the_AT key_JJ difference_NN1 here_RL being_NN1 that_CST facts_NN2 learned_VVD post_RR21 hoc_RR22 can_VM be_VBI (_( and_CC regularly_RR are_VBR )_) used_VVD for_IF explanation_NN1 ._. 
+</s>
+<s>
+Consider_VV0 this_DD1 scenario_NN1 :_: you_PPY are_VBR in_II a_AT1 casino_NN1 with_IW a_AT1 friend_NN1 ._. 
+</s>
+<s>
+Suddenly_RR ,_, near_II the_AT slot_NN1 machines_NN2 ,_, bells_NN2 and_CC whistles_NN2 and_CC lights_NN2 go_VV0 off_RP ,_, and_CC a_AT1 woman_NN1 jumps_VVZ up_RP and_CC down_RP ,_, whooping_VVG and_CC yelling_VVG ,_, "_" hooray_UH !_! "_" 
+</s>
+<s>
+Your_APPGE friend_NN1 asks_VVZ ,_, "_" Why_RRQ is_VBZ she_PPHS1 yelling_VVG like_II that_DD1 ?_? "_" 
+</s>
+<s>
+You_PPY take_VV0 in_II the_AT sights_NN2 and_CC deduce_VV0 from_II the_AT explanandum_NN1 (_( the_AT woman_NN1 's_VBZ yelling_VVG )_) ,_, and_CC other_JJ particular_JJ facts_NN2 (_( the_AT bells_NN2 and_CC lights_NN2 ,_, your_APPGE location_NN1 in_II a_AT1 casino_NN1 ,_, the_AT woman_NN1 's_GE location_NN1 near_II the_AT slot_NN1 machines_NN2 ,_, the_AT nature_NN1 of_IO slot_NN1 machines_NN2 )_) that_CST she_PPHS1 must_VM have_VHI won_VVN the_AT jackpot_NN1 ._. 
+</s>
+<s>
+You_PPY reply_VV0 to_II your_APPGE friend_NN1 ,_, "_" I_PPIS1 think_VV0 she_PPHS1 won_VVD the_AT jackpot_NN1 ._. "_" 
+</s>
+<s>
+Your_APPGE friend_NN1 is_VBZ satisfied_VVN with_IW your_APPGE explanation_NN1 ,_, but_CCB you_PPY would_VM not_XX have_VHI been_VBN able_JK to_TO predict_VVI the_AT yelling_VVG without_IW knowing_VVG she_PPHS1 won_VVD the_AT jackpot_NN1 ,_, a_AT1 fact_NN1 you_PPY deduced_VVD using_VVG the_AT yelling_VVG itself_PPX1 ._. 
+</s>
+<s>
+Many_DA2 other_JJ scenarios_NN2 can_VM be_VBI given_VVN where_CS the_AT explanandum_NN1 is_VBZ required_VVN to_TO deduce_VVI some_DD fact_NN1 used_VVN as_II part_NN1 of_IO the_AT explanans_NN2 ,_, and_CC where_RRQ people_NN take_VV0 these_DD2 as_RG perfectly_RR satisfactory_JJ explanations_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 for_IF Hempel_NP1 to_TO defend_VVI his_APPGE model_NN1 ,_, he_PPHS1 would_VM need_VVI to_TO show_VVI either_RR how_RRQ such_DA accounts_NN2 fit_VV0 in_II his_APPGE model_NN1 ,_, or_CC why_RRQ we_PPIS2 should_VM not_XX accept_VVI such_DA accounts_NN2 as_CSA explanations_NN2 when_CS they_PPHS2 seem_VV0 to_TO contribute_VVI to_II our_APPGE understanding_NN1 of_IO how_RRQ things_NN2 happen_VV0 ._. 
+</s>
+<s>
+The_AT second_MD issue_NN1 I_PPIS1 take_VV0 with_IW Hempel_NP1 's_GE model_NN1 is_VBZ that_CST there_EX seems_VVZ to_TO be_VBI a_AT1 heavy_JJ psychological_JJ component_NN1 in_II the_AT requirement_NN1 of_IO explanatory_JJ relevance_NN1 ,_, but_CCB its_APPGE importance_NN1 is_VBZ not_XX addressed_VVN ._. 
+</s>
+<s>
+Suppose_VV0 we_PPIS2 have_VH0 a_AT1 situation_NN1 where_RRQ the_AT explanandum_NN1 is_VBZ theoretically_RR predictable_JJ from_II the_AT explanans_NN2 ,_, but_CCB this_DD1 prediction_NN1 would_VM require_VVI much_DA1 more_DAR computing_NN1 power_NN1 or_CC mental_JJ capacity_NN1 than_CSN any_DD person_NN1 is_VBZ capable_JJ of_IO ._. 
+</s>
+<s>
+Is_VBZ the_AT account_NN1 provided_VVN an_AT1 explanation_NN1 ?_? 
+</s>
+<s>
+What_DDQ if_CS there_EX was_VBDZ a_AT1 situation_NN1 where_RRQ only_JJ people_NN with_IW particularly_RR large_JJ working_JJ memory_NN1 capacity_NN1 could_VM predict_VVI the_AT explanandum_NN1 from_II the_AT explanans_NN2 ?_? 
+</s>
+<s>
+Is_VBZ the_AT account_NN1 an_AT1 explanation_NN1 ,_, but_CCB only_RR for_IF some_DD people_NN ?_? 
+</s>
+<s>
+Do_VD0 we_PPIS2 want_VVI our_APPGE conception_NN1 of_IO an_AT1 "_" explanation_NN1 "_" to_TO depend_VVI upon_II the_AT mental_JJ abilities_NN2 of_IO those_DD2 we_PPIS2 are_VBR explaining_VVG to_II ?_? 
+</s>
+<s>
+The_AT answer_NN1 to_II this_DD1 question_NN1 is_VBZ not_XX readily_RR apparent_JJ ._. 
+</s>
+<s>
+Further_RRR ,_, and_CC perhaps_RR more_RGR pertinent_JJ to_II modern_JJ science_NN1 ,_, what_DDQ if_CS a_AT1 person_NN1 could_VM only_RR predict_VVI the_AT explanandum_NN1 from_II the_AT explanans_NN2 within_II his_APPGE lifetime_NNT1 with_IW the_AT aid_NN1 of_IO a_AT1 computer_NN1 ?_? 
+</s>
+<s>
+Does_VDZ this_DD1 count_VVI as_II an_AT1 explanation_NN1 ?_? 
+</s>
+<s>
+One_MC1 aspect_NN1 of_IO science_NN1 that_CST these_DD2 questions_NN2 seem_VV0 particularly_RR relevant_JJ to_TO is_VBZ connectionist_NN1 models_NN2 or_CC neural_JJ networks_NN2 in_II cognitive_JJ psychology_NN1 ._. 
+</s>
+<s>
+Scientists_NN2 have_VH0 attempted_VVN to_TO understand_VVI ,_, explain_VV0 ,_, model_NN1 ,_, or_CC simulate_VV0 (_( depending_VVG upon_II which_DDQ scientist_NN1 you_PPY ask_VV0 )_) how_RRQ the_AT human_JJ brain_NN1 processes_NN2 information_NN1 by_II using_VVG networks_NN2 of_IO idealized_JJ neurons_NN2 instantiated_VVD on_II a_AT1 computer_NN1 ._. 
+</s>
+<s>
+The_AT networks_NN2 consist_VV0 of_IO many_DA2 "_" units_NN2 "_" that_CST mimic_VV0 the_AT actions_NN2 of_IO human_JJ neurons_NN2 ._. 
+</s>
+<s>
+Each_DD1 unit_NN1 is_VBZ connected_VVN to_II many_DA2 others_NN2 and_CC a_AT1 unit_NN1 can_VM send_VVI signals_NN2 to_II other_JJ units_NN2 it_PPH1 is_VBZ connected_VVN to_II ._. 
+</s>
+<s>
+An_AT1 individual_JJ unit_NN1 performs_VVZ only_RR the_AT following_JJ functions_NN2 :_: it_PPH1 adds_VVZ up_RP the_AT strengths_NN2 of_IO signals_NN2 it_PPH1 is_VBZ receiving_VVG from_II other_JJ neurons_NN2 ,_, weighting_VVG them_PPHO2 based_VVN upon_II the_AT strength_NN1 of_IO its_APPGE connection_NN1 with_IW the_AT transmitting_JJ unit_NN1 ._. 
+</s>
+<s>
+Then_RT ,_, the_AT unit_NN1 calculates_VVZ (_( based_VVN upon_II an_AT1 assigned_JJ function_NN1 )_) what_DDQ strength_NN1 signal_NN1 to_TO send_VVI out_RP based_VVN upon_II the_AT inputs_NN2 it_PPH1 received_VVD ,_, and_CC then_RT sends_VVZ out_RP this_DD1 signal_NN1 ._. 
+</s>
+<s>
+The_AT strength_NN1 of_IO a_AT1 connection_NN1 can_VM be_VBI changed_VVN through_II intervention_NN1 (_( i.e._REX ,_, the_AT experimenter_NN1 changes_VVZ the_AT weight_NN1 )_) or_CC though_CS a_AT1 learning_NN1 mechanism_NN1 (_( e.g._REX ,_, back_NN1 propagation_NN1 )_) wherein_RRQ the_AT network_NN1 changes_VVZ its_APPGE own_DA connection_NN1 weights_NN2 based_VVN upon_II programmed_JJ rules_NN2 ._. 
+</s>
+<s>
+Some_DD units_NN2 in_II a_AT1 network_NN1 get_VV0 input_NN1 from_II the_AT environment_NN1 ,_, and_CC some_DD output_NN1 their_APPGE activity_NN1 into_II the_AT environment_NN1 ._. 
+</s>
+<s>
+A_AT1 network_NN1 built_VVN of_IO these_DD2 simple_JJ units_NN2 ,_, adhering_VVG to_II these_DD2 simple_JJ rules_NN2 can_VM be_VBI made_VVN (_( through_II appropriate_JJ learning_NN1 mechanisms_NN2 and_CC input_NN1 )_) to_TO do_VDI remarkable_JJ things_NN2 and_CC become_VV0 quite_RG complicated_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, one_MC1 network_NN1 (_( discussed_VVN by_II Hinton_NP1 ,_, 1992_MC )_) can_VM recognize_VVI handwritten_JJ digits_NN2 ._. 
+</s>
+<s>
+A_AT1 typical_JJ network_NN1 may_VM consist_VVI of_IO thousands_NNO2 of_IO units_NN2 with_IW hundreds_NNO2 of_IO thousands_NNO2 of_IO connections_NN2 ._. 
+</s>
+<s>
+But_CCB ,_, if_CS a_AT1 person_NN1 was_VBDZ made_VVN fully_RR aware_JJ of_IO all_DB the_AT parameters_NN2 of_IO the_AT network_NN1 (_( how_RRQ the_AT units_NN2 work_VV0 ,_, all_DB the_AT connections_NN2 between_II units_NN2 and_CC their_APPGE weights_NN2 ,_, the_AT rules_NN2 by_II which_DDQ the_AT weights_NN2 change_VV0 ,_, the_AT input-output_NN1 conversion_NN1 function_NN1 the_AT units_NN2 implement_VV0 ,_, and_CC the_AT input_NN1 the_AT network_NN1 has_VHZ received_VVN )_) she_PPHS1 could_VM not_XX predict_VVI what_DDQ the_AT output_NN1 would_VM be_VBI -- at_RR21 least_RR22 not_XX without_IW using_VVG a_AT1 computer_NN1 to_TO implement_VVI the_AT network_NN1 --_NN1 though_CS theoretically_RR ,_, the_AT explanandum_NN1 is_VBZ predictable_JJ from_II the_AT explanans_NN2 ._. 
+</s>
+<s>
+So_RR ,_, should_VM we_PPIS2 consider_VVI the_AT parameters_NN2 of_IO the_AT network_NN1 an_AT1 explanation_NN1 ?_? 
+</s>
+<s>
+Even_RR more_RRR ,_, should_VM we_PPIS2 by_II analogy_NN1 take_VV0 -- as_CSA some_DD scientists_NN2 do_VD0 -- the_AT features_NN2 of_IO a_AT1 human_NN1 's_GE neurons_NN2 to_TO be_VBI explanations_NN2 of_IO how_RRQ the_AT brain_NN1 works_VVZ ?_? 
+</s>
+<s>
+Some_DD scientists_NN2 (_( most_RGT notably_RR McCloskey_NP1 ,_, 1991_MC )_) have_VH0 argued_VVN that_CST appealing_VVG to_II the_AT parameters_NN2 of_IO neural_JJ networks_NN2 is_VBZ no_AT explanation_NN1 ,_, since_CS one_PN1 still_RR does_VDZ not_XX really_RR understand_VVI the_AT inner_JJ workings_NN2 of_IO the_AT network_NN1 ._. 
+</s>
+<s>
+He_PPHS1 makes_VVZ an_AT1 analogy_NN1 to_II a_AT1 black_JJ box_NN1 ,_, saying_VVG that_CST if_CS you_PPY do_VD0 not_XX understand_VVI what_DDQ happens_VVZ between_II input_NN1 and_CC output_NN1 ,_, one_PN1 can_56 not_56 refer_VVI to_II the_AT black_JJ box_NN1 as_II an_AT1 explanation_NN1 ._. 
+</s>
+<s>
+McCloskey_NP1 's_GE objection_NN1 is_VBZ that_CST he_PPHS1 does_VDZ not_XX understand_VVI how_RRQ these_DD2 networks_NN2 work_VV0 ._. 
+</s>
+<s>
+He_PPHS1 discusses_VVZ a_AT1 particular_JJ network_NN1 (_( Seidenberg_NP1 and_CC McClelland_NP1 's_GE 1989_MC model_NN1 of_IO word_NN1 recognition_NN1 and_CC naming_NN1 )_) designed_VVD for_IF word_NN1 recognition_NN1 ._. 
+</s>
+<s>
+He_PPHS1 argues_VVZ that_CST one_PN1 can_56 not_56 answer_VVI questions_NN2 such_II21 as_II22 "_" why_RRQ does_VDZ n't_XX the_AT network_NN1 distinguish_VVI 'shin'_VVG from_II 'chin'_VVG ?_? "_" by_II appealing_VVG to_II the_AT parameters_NN2 of_IO the_AT network_NN1 ,_, and_CC it_PPH1 is_VBZ not_XX possible_JJ to_TO give_VVI an_AT1 explanation_NN1 on_II appropriately_RR understandable_JJ theoretical_JJ levels_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, one_PN1 can_56 not_56 ask_VVI of_IO a_AT1 network_NN1 ,_, "_" does_VDZ it_PPH1 perform_VVI orthography-phonology_JJ conversion_NN1 in_II a_AT1 single_JJ mechanism_NN1 ?_? "_" and_CC get_VV0 an_AT1 understandable_JJ answer_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 can_56 not_56 appeal_VVI to_II the_AT parameters_NN2 of_IO the_AT neural_JJ network_NN1 to_TO explain_VVI why_RRQ it_PPH1 does_VDZ not_XX distinguish_VVI 'shin'_VVG from_II 'chin'_VVG --_NN1 since_CS a_AT1 person_NN1 could_VM not_XX predict_VVI this_DD1 outcome_NN1 based_VVN upon_II the_AT parameters_NN2 --_NN1 what_DDQ else_RR can_VM we_PPIS2 use_VVI to_TO explain_VVI this_DD1 ?_? 
+</s>
+<s>
+The_AT apparent_JJ answer_NN1 is_VBZ nothing_PN1 ._. 
+</s>
+<s>
+Failing_VVG an_AT1 explanation_NN1 that_CST fulfils_VVZ Hempel_NP1 's_GE explanatory_JJ relevance_NN1 criterion_NN1 ,_, are_VBR we_PPIS2 left_VVN with_IW no_AT explanation_NN1 at_RR21 all_RR22 ?_? 
+</s>
+<s>
+This_DD1 seems_VVZ unsatisfactory_JJ ._. 
+</s>
+<s>
+Again_RT we_PPIS2 have_VH0 a_AT1 circumstance_NN1 where_CS Hempel_NP1 's_GE model_NN1 of_IO explanation_NN1 may_VM bar_VVI an_AT1 account_NN1 as_CSA explanation_NN1 but_CCB fail_VV0 to_TO provide_VVI an_AT1 alternative_NN1 ._. 
+</s>
+<s>
+Surely_RR appealing_VVG to_II a_AT1 neural_JJ network_NN1 's_GE parameters_NN2 to_TO explain_VVI its_APPGE behavior_NN1 is_VBZ better_JJR than_CSN no_AT explanation_NN1 at_RR21 all_RR22 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ unclear_JJ how_RRQ Hempel_NP1 would_VM accommodate_VVI these_DD2 charges_NN2 ._. 
+</s>
+<s>
+To_TO sum_VVI ,_, Hempel_NP1 's_GE D-N_NN1 and_CC I-S_VBZ models_NN2 of_IO explanation_NN1 fail_VV0 to_TO explicitly_RR address_VVI the_AT two_MC concerns_NN2 raised_VVD :_: the_AT role_NN1 of_IO post_JJ21 hoc_JJ22 explanations_NN2 and_CC the_AT role_NN1 of_IO human_JJ cognition_NN1 in_II explanation_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 's_GE apparent_JJ stance_NN1 ,_, though_CS ,_, would_VM give_VVI us_PPIO2 no_AT explanation_NN1 at_II all_DB in_II situations_NN2 where_RRQ explanations_NN2 not_XX in_II31 accord_II32 with_II33 the_AT model_NN1 are_VBR typically_RR given_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 problem_NN1 for_IF the_AT model_NN1 and_CC warrants_VVZ further_JJR discussion_NN1 ._. 
+</s>

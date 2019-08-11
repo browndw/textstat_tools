@@ -1,0 +1,894 @@
+<s>
+The_AT entire_JJ course_NN1 was_VBDZ centered_VVN around_II a_AT1 single_JJ problem_NN1 dealing_VVG with_IW the_AT manufacturing_NN1 of_IO printed_JJ circuit_NN1 boards_NN2 ._. 
+</s>
+<s>
+Printed_JJ circuit_NN1 boards_NN2 are_VBR made_VVN up_RP of_IO many_DA2 different_JJ types_NN2 of_IO components_NN2 ,_, including_II transistors_NN2 ,_, diodes_NN2 ,_, and_CC capacitors_NN2 ,_, which_DDQ are_VBR arranged_VVN in_II different_JJ numbers_NN2 in_II different_JJ places_NN2 on_II a_AT1 substrate_NN1 ,_, or_CC blank_JJ board_NN1 ,_, to_TO form_VVI the_AT final_JJ printed_JJ circuit_NN1 board_NN1 ._. 
+</s>
+<s>
+The_AT components_NN2 are_VBR stored_VVN in_II sleeves_NN2 in_II a_AT1 pipe-organ_JJ setup_NN1 above_II the_AT area_NN1 where_CS the_AT substrates_NN2 are_VBR held_VVN ,_, with_IW a_AT1 retrieval_NN1 arm_NN1 that_CST moves_VVZ between_II the_AT sleeves_NN2 to_TO pick_VVI the_AT correct_JJ component_NN1 ._. 
+</s>
+<s>
+Each_DD1 of_IO these_DD2 different_JJ elements_NN2 needs_VVZ to_TO be_VBI placed_VVN individually_RR on_II the_AT substrate_NN1 by_II a_AT1 pick-and-place_JJ machine_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 involves_VVZ two_MC steps_NN2 :_: first_MD ,_, the_AT correct_JJ element_NN1 must_VM be_VBI retrieved_VVN from_II the_AT correct_JJ sleeve_NN1 (_( corresponding_VVG to_II the_AT type_NN1 of_IO component_NN1 needed_VVN )_) ;_; second_MD ,_, the_AT substrate_NN1 needs_VVZ to_TO be_VBI moved_VVN below_II the_AT insertion_NN1 point_NN1 so_CS21 that_CS22 the_AT element_NN1 is_VBZ placed_VVN in_II the_AT correct_JJ location_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 rather_RG simplified_JJ version_NN1 of_IO the_AT problem_NN1 ,_, however_RR ,_, because_CS the_AT setups_NN2 can_VM be_VBI torn_VVN down_RP and_CC reassigned_VVN ,_, for_IF a_AT1 time_NNT1 cost_NN1 of_IO ._. 
+</s>
+<s>
+We_PPIS2 can_VM immediately_RR see_VVI that_CST if_CS is_VBZ very_RG large_JJ in_II comparison_NN1 to_II the_AT overall_JJ production_NN1 time_NNT1 ,_, then_RT it_PPH1 will_VM be_VBI in_II our_APPGE best_JJT interest_NN1 to_TO put_VVI all_DB the_AT boards_NN2 together_RL in_II one_MC1 setup_NN1 and_CC manufacture_VV0 them_PPHO2 according_II21 to_II22 the_AT optimal_JJ setup_NN1 for_IF all_DB boards_NN2 ._. 
+</s>
+<s>
+If_CS is_VBZ very_RG small_JJ ,_, or_CC zero_MC ,_, then_RT we_PPIS2 will_VM tear_VVI down_RP the_AT setup_NN1 between_II every_AT1 board_NN1 and_CC manufacture_VV0 each_DD1 board_NN1 according_II21 to_II22 its_APPGE own_DA optimal_JJ setup_NN1 ._. 
+</s>
+<s>
+From_II here_RL on_II out_RP ,_, we_PPIS2 will_VM denote_VVI an_AT1 individual_JJ board_NN1 's_GE optimal_JJ setup_NN1 cost_NN1 by_II where_RRQ b_ZZ1 is_VBZ the_AT number_NN1 of_IO the_AT particular_JJ board_NN1 ._. 
+</s>
+<s>
+The_AT difficulty_NN1 arises_VVZ when_RRQ is_VBZ neither_RR 0_MC nor_CC exceedingly_RR large_JJ ,_, but_CCB somewhere_RL in_II the_AT middle_NN1 ._. 
+</s>
+<s>
+Now_RT the_AT problem_NN1 becomes_VVZ not_XX how_RRQ to_TO order_VVI the_AT components_NN2 in_II the_AT sleeves_NN2 ,_, since_CS the_AT optimal_JJ configuration_NN1 is_VBZ uniquely_RR determined_VVN by_II the_AT boards_NN2 being_VBG produced_VVN together_RL ,_, but_CCB exactly_RR which_DDQ boards_VVZ to_II group_NN1 together_RL into_II a_AT1 cluster_NN1 to_TO be_VBI produced_VVN under_II a_AT1 single_JJ setup_NN1 ._. 
+</s>
+<s>
+Since_CS there_EX are_VBR n_ZZ1 ways_NN2 to_II group_NN1 n_ZZ1 boards_NN2 into_II clusters_NN2 ,_, or_CC sets_NN2 ,_, of_IO 1_MC1 or_CC n-1_FO ,_, Our_APPGE first_MD step_NN1 to_TO try_VVI and_CC get_VVI a_AT1 handle_NN1 on_II the_AT problem_NN1 was_VBDZ to_TO try_VVI and_CC come_VVI up_RP with_IW a_AT1 good_JJ heuristic_JJ solution_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 assignment_NN1 ,_, as_CSA in_II many_DA2 of_IO the_AT others_NN2 that_CST involved_VVD implementation_NN1 ,_, the_AT most_RGT difficult_JJ and_CC time_NNT1 consuming_VVG piece_NN1 was_VBDZ arriving_VVG at_II a_AT1 suitable_JJ data_NN structure_NN1 ._. 
+</s>
+<s>
+I_PPIS1 could_VM not_XX figure_VVI out_RP a_AT1 way_NN1 to_TO store_VVI the_AT clusters_NN2 as_CSA vectors_NN2 of_IO the_AT boards_NN2 included_VVD ,_, since_CS the_AT dimensions_NN2 would_VM change_VVI from_II cluster_NN1 to_II cluster_NN1 ,_, so_CS I_PPIS1 settled_VVD on_II a_AT1 system_NN1 of_IO storing_VVG the_AT clusters_NN2 as_II a_AT1 24-element_JJ vector_NN1 with_IW the_AT first_MD component_NN1 corresponding_VVG to_II the_AT number_NN1 of_IO the_AT cluster_NN1 that_CST contained_VVD the_AT first_MD board_NN1 ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI arbitrarily_RR set_VVN to_II one_MC1 ,_, but_CCB the_AT random-generation_JJ code_NN1 that_CST I_PPIS1 wrote_VVD was_VBDZ easier_RRR if_CS it_PPH1 could_VM just_RR assign_VVI random_JJ numbers_NN2 between_II 1_MC1 and_CC t_ZZ1 where_RRQ t_ZZ1 was_VBDZ the_AT number_NN1 of_IO clusters_NN2 into_II which_DDQ you_PPY wanted_VVD to_TO partition_VVI the_AT boards_NN2 ._. 
+</s>
+<s>
+Looking_VVG back_RP ,_, much_DA1 of_IO the_AT implementation_NN1 would_VM have_VHI been_VBN easier_RRR had_VHD I_PPIS1 used_VVN the_AT system_NN1 of_IO 24-element_JJ vectors_NN2 of_IO zeros_NN2 and_CC ones_NN2 ,_, where_CS a_AT1 one_PN1 signifies_VVZ that_CST that_DD1 board_NN1 is_VBZ in_II the_AT cluster_NN1 ._. 
+</s>
+<s>
+But_CCB ,_, using_VVG my_APPGE rather_RG clumsy_JJ data_NN structures_NN2 ,_, I_PPIS1 was_VBDZ still_RR able_JK to_TO create_VVI a_AT1 randomized_JJ loop_NN1 which_DDQ would_VM generate_VVI 500,000_MC instances_NN2 for_IF clusters_NN2 of_IO size_NN1 two_MC to_II twenty-three_MC ,_, and_CC then_RT would_VM save_VVI both_DB2 the_AT average_JJ cost_NN1 across_II all_DB instances_NN2 ,_, and_CC the_AT lowest_JJT cost_NN1 along_II21 with_II22 the_AT vector_NN1 that_CST generated_VVD that_DD1 lowest_JJT cost_NN1 ._. 
+</s>
+<s>
+The_AT best_RRT answer_VV0 we_PPIS2 were_VBDR able_JK to_TO generate_VVI from_II this_DD1 method_NN1 was_VBDZ 906,231_MC ,_, with_IW an_AT1 optimality_NN1 gap_NN1 of_IO 2.22%_FO ._. 
+</s>
+<s>
+This_DD1 optimality_NN1 gap_NN1 is_VBZ misleading_JJ ,_, however_RR ,_, because_CS we_PPIS2 were_VBDR comparing_VVG it_PPH1 with_IW the_AT only_RR lower_RRR bound_VVD we_PPIS2 had_VHD -- manufacturing_NN1 all_DB boards_NN2 alone_RR according_II21 to_II22 their_APPGE optimal_JJ setup_NN1 with_IW no_AT tear-down_JJ cost_NN1 --_NN1 which_DDQ is_VBZ clearly_RR an_AT1 infeasible_JJ solution_NN1 ._. 
+</s>
+<s>
+So_RR in_II a_RR21 little_RR22 over_II two_MC hours_NNT2 ,_, through_II our_APPGE random_JJ generation_NN1 ,_, we_PPIS2 were_VBDR able_JK to_TO get_VVI a_AT1 solution_NN1 barely_RR 2%_NNU away_II21 from_II22 an_AT1 impossibly_RR good_JJ solution_NN1 ._. 
+</s>
+<s>
+In_II reality_NN1 ,_, our_APPGE answer_NN1 was_VBDZ only_RR 0.23%_FO off_II the_AT actual_JJ optimal_JJ solution_NN1 of_IO 904,145_MC ._. 
+</s>
+<s>
+In_II nearly_RR all_DB industrial_JJ applications_NN2 being_NN1 0.23%_FO away_II21 from_II22 the_AT optimal_JJ solution_NN1 would_VM be_VBI more_DAR than_CSN enough_RR ._. 
+</s>
+<s>
+However_RR ,_, though_CS this_DD1 worked_VVD fairly_RR quickly_RR for_IF the_AT particular_JJ data_NN set_VV0 we_PPIS2 were_VBDR given_VVN ,_, we_PPIS2 have_VH0 absolutely_RR no_AT guarantee_NN1 that_CST it_PPH1 would_VM work_VVI for_IF other_JJ data_NN sets_NN2 ,_, or_CC larger_JJR data_NN sets_NN2 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, we_PPIS2 have_VH0 seen_VVN that_CST having_VHG a_AT1 good_JJ feasible_JJ solution_NN1 to_TO start_VVI from_II can_VM result_VVI in_II substantial_JJ decreases_NN2 in_II the_AT time_NNT1 required_VVN to_TO solve_VVI the_AT problem_NN1 ,_, so_RR using_VVG a_AT1 random-generation_JJ algorithm_NN1 such_II21 as_II22 this_DD1 might_VM prove_VVI useful_JJ in_II obtaining_VVG good_JJ initial_JJ solutions_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR briefly_RR discussed_VVD using_VVG genetic_JJ algorithms_NN2 in_II combination_NN1 with_IW this_DD1 randomized_JJ procedure_NN1 to_TO generate_VVI even_RR better_JJR solutions_NN2 ._. 
+</s>
+<s>
+Unfortunately_RR I_PPIS1 do_VD0 not_XX know_VVI enough_RR about_II genetic_JJ algorithms_NN2 to_TO actually_RR be_VBI able_JK to_TO implement_VVI them_PPHO2 in_II any_DD consistent_JJ fashion_NN1 ,_, but_CCB from_II the_AT little_JJ I_PPIS1 do_VD0 know_VVI ,_, my_APPGE guess_NN1 is_VBZ that_CST we_PPIS2 could_VM have_VHI improved_VVN our_APPGE final_JJ solution_NN1 by_II breeding_VVG several_DA2 near-optimal_JJ solutions_NN2 together_RL and_CC looking_VVG at_II their_APPGE offspring_NN over_II several_DA2 generations_NN2 ._. 
+</s>
+<s>
+Additionally_RR ,_, we_PPIS2 talked_VVD several_DA2 times_NNT2 about_II Dushant_NP1 's_GE local_JJ neighborhood_NN1 search_NN1 ,_, and_CC the_AT potential_NN1 it_PPH1 has_VHZ to_TO help_VVI generate_VVI good_JJ initial_JJ feasible_JJ solutions_NN2 ._. 
+</s>
+<s>
+I_PPIS1 know_VV0 even_RR less_RRR about_II neighborhood_NN1 searches_NN2 than_CSN I_PPIS1 do_VD0 about_II genetic_JJ algorithms_NN2 ,_, but_CCB it_PPH1 seems_VVZ like_II it_PPH1 might_VM be_VBI an_AT1 interesting_JJ area_NN1 to_TO look_VVI into_II ,_, especially_RR since_CS outside_II21 of_II22 the_AT realm_NN1 of_IO academia_NN1 ,_, many_DA2 people_NN are_VBR more_RGR interested_JJ in_II "_" good_JJ "_" solutions_NN2 than_CSN in_II provably_RR optimal_JJ solutions_NN2 ._. 
+</s>
+<s>
+However_RR ,_, being_VBG firmly_RR ensconced_JJ in_II the_AT realm_NN1 of_IO academia_NN1 ,_, a_AT1 heuristic_JJ solution_NN1 is_VBZ not_XX enough_RR to_TO satisfy_VVI our_APPGE unceasing_JJ hunger_NN1 for_IF provable_JJ optimality_NN1 ._. 
+</s>
+<s>
+So_RR we_PPIS2 endeavored_VVD on_RP ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO find_VVI a_AT1 provably_RR optimal_JJ solution_NN1 we_PPIS2 must_VM first_MD have_VHI a_AT1 formulation_NN1 ._. 
+</s>
+<s>
+The_AT first_MD formulation_NN1 we_PPIS2 looked_VVD at_II was_VBDZ George_NP1 Polak_NP1 's_GE model_NN1 (_( the_AT Polak_NP1 model_NN1 )_) from_II his_APPGE published_JJ paper_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT original_JJ model_NN1 was_VBDZ so_RG difficult_JJ to_TO understand_VVI ,_, we_PPIS2 were_VBDR given_VVN the_AT task_NN1 of_IO coming_VVG up_RP with_IW new_JJ models_NN2 ,_, in_II the_AT hopes_NN2 that_CST we_PPIS2 could_VM come_VVI up_RP with_IW something_PN1 a_RR21 little_RR22 easier_JJR to_TO understand_VVI ._. 
+</s>
+<s>
+The_AT most_RGT intuitive_JJ way_NN1 to_TO construct_VVI a_AT1 model_NN1 would_VM be_VBI to_TO have_VHI if_CSW boards_NN2 i_ZZ1 and_CC j_ZZ1 are_VBR manufactured_VVN together_RL ._. 
+</s>
+<s>
+Unfortunately_RR ,_, there_EX is_VBZ no_AT easy_JJ way_NN1 to_TO determine_VVI which_DDQ boards_NN2 are_VBR in_II a_AT1 cluster_NN1 ,_, nor_CC any_DD way_NN1 that_CST we_PPIS2 could_VM come_VVI up_RP with_IW to_TO sort_VVI them_PPHO2 ,_, given_VVN this_DD1 definition_NN1 of_IO x_ZZ1 ._. 
+</s>
+<s>
+Oddly_RR enough_RR ,_, this_DD1 idea_NN1 of_IO defining_VVG whether_CSW two_MC boards_NN2 are_VBR paired_VVN together_RL or_CC not_XX turns_NN2 out_RP to_TO be_VBI a_AT1 very_RG effective_JJ branching_JJ strategy_NN1 later_RRR on_RP for_IF the_AT master_NN1 problem_NN1 ,_, though_CS in_II a_AT1 different_JJ form_NN1 ._. 
+</s>
+<s>
+Setting_VVG that_DD1 particular_JJ idea_NN1 aside_RL ,_, Shital_NP1 and_CC I_PPIS1 came_VVD up_RP with_IW three_MC models_NN2 ,_, none_PN of_IO which_DDQ held_VVD any_DD great_JJ hope_NN1 of_IO yielding_VVG a_AT1 solution_NN1 ._. 
+</s>
+<s>
+Our_APPGE first_MD model_NN1 was_VBDZ a_AT1 slight_JJ adjustment_NN1 to_II the_AT Polak_NP1 model_NN1 ,_, using_VVG all_RR31 the_RR32 same_RR33 variables_NN2 ._. 
+</s>
+<s>
+This_DD1 model_NN1 presents_VVZ a_AT1 slightly_RR more_RGR intuitive_JJ definition_NN1 of_IO where_RRQ if_CS boards_NN2 k_ZZ1 and_CC m_ZZ1 are_VBR in_II the_AT same_DA cluster_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, in_BCL21 order_BCL22 to_TO achieve_VVI this_DD1 ,_, we_PPIS2 had_VHD to_TO introduce_VVI a_AT1 non-linearity_NN1 into_II the_AT model_NN1 in_II the_AT form_NN1 of_IO absolute_JJ value_NN1 ._. 
+</s>
+<s>
+So_RR while_CS it_PPH1 may_VM be_VBI slightly_RR more_RGR intuitive_JJ ,_, the_AT non-linearity_NN1 excludes_VVZ it_PPH1 from_II being_VBG truly_RR useful_JJ in_II solving_VVG the_AT problem_NN1 ._. 
+</s>
+<s>
+But_CCB thinking_VVG about_II this_DD1 model_NN1 led_VVD us_PPIO2 to_II our_APPGE second_MD model_NN1 which_DDQ eliminates_VVZ the_AT issue_NN1 of_IO determining_VVG how_RGQ many_DA2 setups_NN2 there_EX are_VBR by_II assuming_VVG that_CST we_PPIS2 know_VV0 there_EX are_VBR S_ZZ1 setups_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, this_DD1 second_NNT1 model_NN1 would_VM need_VVI to_TO be_VBI solved_VVN once_RR for_IF S=1_FO ,_, ..._... ,_, 
+</s>
+<s>
+N_ZZ1 ,_, where_CS N_ZZ1 is_VBZ the_AT number_NN1 of_IO boards_NN2 ._. 
+</s>
+<s>
+Here_RL if_CS cluster_NN1 r_ZZ1 contains_VVZ board_NN1 k_ZZ1 ,_, and_CC 0_MC otherwise_RR ,_, returning_VVG us_PPIO2 to_II the_AT counterintuitive_JJ "_" 0_MC means_VVZ yes_UH "_" definitions_NN2 from_II the_AT earlier_JJR Polak_NN1 model_NN1 ._. 
+</s>
+<s>
+The_AT first_MD two_MC constraints_NN2 are_VBR the_AT same_DA as_CSA in_II the_AT Polak_NP1 model_NN1 ,_, and_CC the_AT third_MD simply_RR says_VVZ that_CST each_DD1 board_NN1 must_VM be_VBI contained_VVN in_II exactly_RR one_MC1 cluster_NN1 ._. 
+</s>
+<s>
+The_AT confusion_NN1 arises_VVZ from_II the_AT fourth_MD constraint_NN1 ;_; however_RR ,_, if_CS we_PPIS2 look_VV0 more_RGR closely_RR we_PPIS2 can_VM see_VVI that_CST the_AT constraint_NN1 is_VBZ only_RR meaningful_JJ in_II the_AT case_NN1 when_RRQ ,_, i.e._REX boards_NN2 k_ZZ1 and_CC m_ZZ1 are_VBR in_II the_AT same_DA cluster_NN1 ,_, thus_RR their_APPGE setups_NN2 must_VM be_VBI the_AT same_DA ._. 
+</s>
+<s>
+This_DD1 is_VBZ exactly_RR what_DDQ is_VBZ implied_VVN by_II the_AT second_MD part_NN1 of_IO the_AT constraint_NN1 ,_, since_II then_RT it_PPH1 must_VM be_VBI true_JJ that_CST ,_, and_CC whether_CSW they_PPHS2 both_DB2 are_VBR zero_MC or_CC one_MC1 is_VBZ immaterial_JJ ._. 
+</s>
+<s>
+Additionally_RR ,_, when_CS the_AT constraint_NN1 drops_VVZ out_RP and_CC becomes_VVZ meaningless_JJ ._. 
+</s>
+<s>
+Thus_RR ,_, this_DD1 fourth_MD constraint_NN1 guarantees_VVZ that_CST all_DB boards_NN2 in_II the_AT same_DA cluster_NN1 have_VH0 the_AT same_DA setup_NN1 ._. 
+</s>
+<s>
+This_DD1 model_NN1 seems_VVZ much_DA1 more_DAR elegant_JJ and_CC intuitive_JJ than_CSN the_AT original_JJ model_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, it_PPH1 needs_VVZ to_TO be_VBI solved_VVN N_ZZ1 times_NNT2 (_( where_CS N=number_FO of_IO boards_NN2 )_) ._. 
+</s>
+<s>
+As_CSA we_PPIS2 were_VBDR running_VVG the_AT random-generation_JJ code_NN1 ,_, we_PPIS2 noticed_VVD that_CST nearly_RR all_DB of_IO the_AT best_JJT solutions_NN2 had_VHD between_II six_MC and_CC nine_MC clusters_NN2 ._. 
+</s>
+<s>
+If_CS this_DD1 was_VBDZ a_AT1 structure_NN1 that_CST was_VBDZ common_JJ across_II all_DB data_NN sets_NN2 ,_, a_AT1 formulation_NN1 such_II21 as_II22 this_DD1 one_PN1 would_VM allow_VVI us_PPIO2 to_TO exploit_VVI that_DD1 and_CC only_JJ look_NN1 at_II the_AT solutions_NN2 with_IW the_AT likely_JJ number_NN1 of_IO clusters_NN2 ._. 
+</s>
+<s>
+However_RR ,_, in_BCL21 order_BCL22 to_TO be_VBI able_JK to_TO prove_VVI that_CST a_AT1 solution_NN1 obtained_VVN in_II this_DD1 manner_NN1 is_VBZ optimal_JJ ,_, we_PPIS2 must_VM be_VBI able_JK to_TO show_VVI that_CST the_AT function_NN1 of_IO optimal_JJ solution_NN1 value_NN1 vs._II number_NN1 of_IO clusters_NN2 in_II the_AT solution_NN1 is_VBZ convex_JJ ,_, which_DDQ we_PPIS2 will_VM address_VVI in_II the_AT next_MD section_NN1 ._. 
+</s>
+<s>
+The_AT final_JJ model_NN1 we_PPIS2 tried_VVD took_VVD an_AT1 entirely_RR different_JJ view_NN1 of_IO the_AT problem_NN1 ,_, setting_VVG a_AT1 new_JJ variable_NN1 if_CS board_NN1 b_ZZ1 is_VBZ manufactured_VVN according_II21 to_II22 setup_NN1 s_ZZ1 ,_, and_CC 0_MC otherwise_RR ._. 
+</s>
+<s>
+Here_RL ,_, Throughout_II the_AT process_NN1 of_IO trying_VVG to_TO come_VVI up_RP with_IW alternate_JJ formulations_NN2 for_IF this_DD1 problem_NN1 we_PPIS2 realized_VVD just_RR how_RGQ difficult_JJ it_PPH1 can_VM be_VBI to_TO effectively_RR model_VVI a_AT1 problem_NN1 that_CST can_VM be_VBI described_VVN in_II only_RR a_AT1 few_DA2 sentences_NN2 ._. 
+</s>
+<s>
+Later_RRR ,_, as_CSA we_PPIS2 looked_VVD at_II modeling_VVG the_AT subproblem_NN1 ,_, this_DD1 was_VBDZ really_RR hit_VVN home_RL -- translating_NN1 problems_NN2 into_II math_NN1 programs_NN2 can_VM be_VBI exceedingly_RR difficult_JJ ,_, even_CS21 when_CS22 the_AT problem_NN1 itself_PPX1 seems_VVZ relatively_RR easy_JJ to_TO describe_VVI ._. 
+</s>
+<s>
+If_CS we_PPIS2 knew_VVD that_CST the_AT optimal_JJ value_NN1 was_VBDZ convex_JJ in_II the_AT number_NN1 of_IO clusters_NN2 in_II the_AT solution_NN1 we_PPIS2 could_VM take_VVI formulations_NN2 such_II21 as_II22 Model_NN1 2_MC above_RL ,_, and_CC solve_VV0 them_PPHO2 for_IF increasing_JJ numbers_NN2 of_IO clusters_NN2 until_CS we_PPIS2 saw_VVD an_AT1 increase_NN1 in_II function_NN1 value_NN1 ._. 
+</s>
+<s>
+If_CS the_AT function_NN1 is_VBZ convex_JJ ,_, once_CS you_PPY see_VV0 an_AT1 increase_NN1 the_AT function_NN1 value_NN1 will_VM continue_VVI to_TO increase_VVI ,_, implying_VVG that_CST our_APPGE previous_JJ solution_NN1 is_VBZ ,_, in_II fact_NN1 ,_, optimal_JJ ._. 
+</s>
+<s>
+This_DD1 has_VHZ the_AT potential_JJ to_TO save_VVI a_AT1 great_JJ deal_NN1 of_IO computation_NN1 time_NNT1 if_CS the_AT optimal_JJ number_NN1 of_IO clusters_NN2 is_VBZ small_JJ relative_II21 to_II22 the_AT number_NN1 of_IO boards_NN2 ._. 
+</s>
+<s>
+If_CS the_AT optimal_JJ number_NN1 of_IO clusters_NN2 is_VBZ close_JJ to_II the_AT number_NN1 of_IO boards_NN2 ,_, then_RT even_CS21 if_CS22 the_AT function_NN1 is_VBZ convex_JJ ,_, it_PPH1 will_VM not_XX save_VVI us_PPIO2 a_AT1 great_JJ deal_NN1 of_IO time_NNT1 since_CS we_PPIS2 will_VM have_VHI to_TO solve_VVI the_AT problem_NN1 for_IF all_DB ,_, or_CC nearly_RR all_DB values_NN2 of_IO S._NP1 Working_VVG with_IW Shankara_NP1 ,_, we_PPIS2 tried_VVD to_TO find_VVI a_AT1 counterexample_NN1 using_VVG a_AT1 set_NN1 of_IO only_RR three_MC boards_NN2 with_IW three_MC components_NN2 ._. 
+</s>
+<s>
+Our_APPGE flaw_NN1 was_VBDZ assuming_VVG symmetric_JJ sleeve_NN1 costs_NN2 ;_; we_PPIS2 tried_VVD all_DB possible_JJ combinations_NN2 of_IO boards_NN2 and_CC found_VVD that_CST all_DB of_IO them_PPHO2 (_( under_II the_AT assumption_NN1 of_IO symmetric_JJ sleeve_NN1 costs_VVZ )_) were_VBDR convex_JJ ._. 
+</s>
+<s>
+Others_NN2 in_II the_AT class_NN1 rejected_VVD the_AT assumption_NN1 of_IO symmetric_JJ sleeve_NN1 costs_NN2 and_CC thought_VVD they_PPHS2 had_VHD found_VVN a_AT1 counterexample_NN1 ,_, though_CS it_PPH1 was_VBDZ later_RRR proved_VVN to_TO be_VBI incorrect_JJ ._. 
+</s>
+<s>
+Further_RRR ,_, their_APPGE counterexample_NN1 was_VBDZ an_AT1 extremely_RR pathological_JJ case_NN1 ,_, with_IW strongly_RR asymmetrical_JJ sleeve_NN1 costs_NN2 ._. 
+</s>
+<s>
+All_DB the_AT evidence_NN1 we_PPIS2 could_VM find_VVI supported_VVN the_AT conclusion_NN1 that_CST with_IW symmetric_JJ sleeve_NN1 costs_NN2 ,_, the_AT function_NN1 would_VM indeed_RR be_VBI convex_JJ ;_; but_CCB we_PPIS2 were_VBDR unable_JK to_TO provide_VVI a_AT1 proof_NN1 ,_, so_CS it_PPH1 is_VBZ all_DB merely_RR conjecture_VV0 ._. 
+</s>
+<s>
+Yet_RR even_CS21 if_CS22 we_PPIS2 could_VM prove_VVI convexity_NN1 ,_, it_PPH1 would_VM mean_VVI that_CST we_PPIS2 would_VM need_VVI to_TO solve_VVI an_AT1 impossibly_RR difficult_JJ problem_NN1 slightly_RR fewer_DAR times_NNT2 ,_, but_CCB we_PPIS2 still_RR do_VD0 not_XX know_VVI how_RRQ to_TO solve_VVI the_AT problem_NN1 even_RR for_IF a_AT1 given_JJ number_NN1 of_IO clusters_NN2 ._. 
+</s>
+<s>
+Another_DD1 dimension_NN1 of_IO the_AT solution_NN1 involves_VVZ the_AT integrality_NN1 of_IO the_AT solution_NN1 ._. 
+</s>
+<s>
+Clearly_RR we_PPIS2 can_56 not_56 have_VHI fractional_JJ amounts_NN2 of_IO clusters_NN2 in_II an_AT1 optimal_JJ solution_NN1 ;_; but_CCB solving_VVG the_AT linear_JJ programming_NN1 relaxation_NN1 of_IO the_AT problem_NN1 is_VBZ vastly_RR easier_RRR than_CSN solving_VVG the_AT integer_NN1 program_NN1 ._. 
+</s>
+<s>
+The_AT question_NN1 then_RT becomes_VVZ :_: If_CS we_PPIS2 solve_VV0 Polak_NP1 's_GE model_NN1 with_IW the_AT x_MC variables_NN2 relaxed_VVD ,_, will_VM the_AT solution_NN1 still_RR be_VBI integer_NN1 ?_? 
+</s>
+<s>
+If_CS the_AT constraint_NN1 matrix_NN1 is_VBZ totally_RR unimodular_JJ (_( TU_NP1 )_) then_RT yes_UH ,_, the_AT solution_NN1 to_II the_AT LP_NN1 relaxation_NN1 will_VM be_VBI integer_NN1 ._. 
+</s>
+<s>
+If_CS the_AT constraint_NN1 matrix_NN1 is_VBZ not_XX TU_NP1 ,_, then_RT the_AT solution_NN1 may_VM or_CC may_VM not_XX be_VBI integer_NN1 ._. 
+</s>
+<s>
+So_RR we_PPIS2 set_VV0 out_RP to_TO prove_VVI that_CST the_AT constraint_NN1 matrix_NN1 of_IO the_AT Polak_NP1 model_NN1 was_VBDZ TU_NP1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, our_APPGE proof_NN1 turned_VVD out_RP to_TO be_VBI flawed_JJ and_CC we_PPIS2 were_VBDR unable_JK to_TO correct_VVI for_IF the_AT flaw_NN1 ,_, though_CS it_PPH1 does_VDZ seem_VVI that_CST in_II most_DAT instances_NN2 the_AT constraint_NN1 matrix_NN1 will_VM be_VBI totally_RR unimodular_JJ ._. 
+</s>
+<s>
+At_II the_AT end_NN1 of_IO the_AT course_NN1 ,_, looking_VVG at_II the_AT solutions_NN2 using_VVG the_AT rank-cluster-price_JJ algorithm_NN1 ,_, most_DAT of_IO them_PPHO2 did_VDD turn_VVI out_RP to_TO be_VBI integer_NN1 ,_, especially_RR for_IF small_JJ problem_NN1 instances_NN2 ,_, implying_VVG that_CST we_PPIS2 might_VM well_RR be_VBI correct_JJ that_CST the_AT formulation_NN1 is_VBZ indeed_RR TU_NP1 ._. 
+</s>
+<s>
+Regardless_RR ,_, the_AT solutions_NN2 do_VD0 turn_VVI out_RP to_TO be_VBI integral_JJ in_II many_DA2 instances_NN2 ._. 
+</s>
+<s>
+The_AT integrality_NN1 of_IO the_AT solution_NN1 is_VBZ related_VVN to_II the_AT strength_NN1 of_IO the_AT LP_NN1 relaxation_NN1 ._. 
+</s>
+<s>
+If_CS the_AT LP_NN1 relaxation_NN1 is_VBZ close_JJ to_II the_AT convex_JJ hull_NN1 of_IO the_AT integer_NN1 program_NN1 ,_, then_RT the_AT solution_NN1 will_VM often_RR be_VBI integer_NN1 ._. 
+</s>
+<s>
+Another_DD1 way_NN1 of_IO conveying_VVG the_AT idea_NN1 of_IO total_JJ unimodularity_NN1 ,_, is_VBZ that_DD1 a_AT1 constraint_NN1 matrix_NN1 that_CST is_VBZ TU_NP1 describes_VVZ exactly_RR the_AT convex_JJ hull_NN1 of_IO the_AT integer_NN1 feasible_JJ region_NN1 ,_, and_CC so_RR all_DB the_AT extreme_JJ points_NN2 will_VM be_VBI integer_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, we_PPIS2 do_VD0 not_XX particularly_RR care_VVI if_CS all_DB the_AT extreme_JJ points_NN2 are_VBR integer_NN1 ,_, only_RR if_CS the_AT extreme_JJ points_NN2 near_II the_AT optimal_JJ solution_NN1 are_VBR integer_NN1 ._. 
+</s>
+<s>
+But_CCB we_PPIS2 were_VBDR unable_JK to_TO prove_VVI that_CST even_RR just_RR the_AT extreme_JJ points_NN2 near_II the_AT optimal_JJ solution_NN1 were_VBDR integer_NN1 ,_, though_CS it_PPH1 might_VM be_VBI a_AT1 more_RGR efficient_JJ way_NN1 to_TO approach_VVI the_AT proof_NN1 ._. 
+</s>
+<s>
+Regardless_RR ,_, the_AT better_RRR your_APPGE LP_NN1 relaxation_NN1 is_VBZ ,_, the_AT fewer_DAR nodes_NN2 there_EX will_VM be_VBI in_II your_APPGE branch_NN1 and_CC bound_JJ tree_NN1 once_CS you_PPY start_VV0 trying_VVG to_TO solve_VVI the_AT integer_NN1 program_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 saw_VVD later_RRR ,_, this_DD1 can_VM have_VHI a_AT1 profound_JJ impact_NN1 on_II the_AT solvability_NN1 of_IO a_AT1 problem_NN1 ._. 
+</s>
+<s>
+Having_VHG nearly_RR exhausted_VVN the_AT store_NN1 of_IO knowledge_NN1 in_II the_AT class_NN1 without_IW additional_JJ information_NN1 ,_, we_PPIS2 turned_VVD our_APPGE attention_NN1 to_II Dantzig-Wolfe_NP1 decomposition_NN1 ,_, which_DDQ motivates_VVZ the_AT technique_NN1 known_VVN as_II column_NN1 generation_NN1 ._. 
+</s>
+<s>
+The_AT idea_NN1 is_VBZ that_CST we_PPIS2 can_VM separate_VVI the_AT problem_NN1 into_II a_AT1 set_NN1 of_IO subproblems_NN2 which_DDQ are_VBR then_RT linked_VVN together_RL in_II a_AT1 "_" master_NN1 problem_NN1 ._. "_" 
+</s>
+<s>
+Typically_RR these_DD2 subproblems_NN2 have_VH0 some_DD special_JJ structure_NN1 ,_, such_II21 as_II22 an_AT1 assignment_NN1 problem_NN1 ,_, that_DD1 allows_VVZ them_PPHO2 to_TO be_VBI solved_VVN quickly_RR and_CC easily_RR ._. 
+</s>
+<s>
+This_DD1 technique_NN1 is_VBZ especially_RR useful_JJ if_CS you_PPY have_VH0 a_AT1 set_NN1 of_IO constraints_NN2 that_CST affects_VVZ only_RR a_AT1 small_JJ group_NN1 of_IO variables_NN2 ,_, thus_RR those_DD2 variables_NN2 and_CC constraints_NN2 can_VM be_VBI separated_VVN out_RP and_CC put_VVN into_II subproblems_NN2 ,_, with_IW "_" linking_VVG constraints_NN2 "_" in_II the_AT master_NN1 problem_NN1 which_DDQ link_VV0 all_DB the_AT subproblems_NN2 together_RL ._. 
+</s>
+<s>
+These_DD2 subproblems_NN2 then_RT generate_VV0 a_AT1 set_NN1 of_IO extreme_JJ points_NN2 of_IO the_AT solution_NN1 ._. 
+</s>
+<s>
+And_CC we_PPIS2 know_VV0 that_CST the_AT optimal_JJ solution_NN1 can_VM be_VBI expressed_VVN as_II a_AT1 convex_JJ combination_NN1 of_IO the_AT extreme_JJ points_NN2 of_IO the_AT subproblems_NN2 ,_, so_CS we_PPIS2 can_VM replace_VVI the_AT variables_NN2 in_II the_AT master_NN1 problem_NN1 with_IW these_DD2 convex_JJ combinations_NN2 of_IO extreme_JJ points_NN2 ,_, and_CC solve_VV0 ._. 
+</s>
+<s>
+If_CS the_AT subproblems_NN2 are_VBR easily_RR solved_VVN ,_, this_DD1 can_VM prove_VVI to_TO be_VBI a_AT1 very_RG powerful_JJ mechanism_NN1 for_IF solving_VVG large-scale_JJ problems_NN2 ._. 
+</s>
+<s>
+The_AT key_NN1 ,_, however_RR ,_, is_VBZ that_CST the_AT subproblems_NN2 need_VV0 to_TO be_VBI easy_JJ to_TO solve_VVI ._. 
+</s>
+<s>
+With_IW the_AT column_NN1 generation_NN1 technique_NN1 ,_, motivated_VVN by_II the_AT Dantzig-Wolfe_NP1 decomposition_NN1 ,_, in_II mind_NN1 we_PPIS2 set_VV0 out_RP to_TO define_VVI a_AT1 master_NN1 problem_NN1 and_CC subproblem_VVI to_II which_DDQ we_PPIS2 could_VM apply_VVI these_DD2 ideas_NN2 ._. 
+</s>
+<s>
+We_PPIS2 fairly_RR quickly_RR found_VVD our_APPGE master_NN1 problem_NN1 :_: Here_RL ,_, we_PPIS2 change_VV0 notation_NN1 slightly_RR where_CS K_ZZ1 is_VBZ the_AT set_NN1 of_IO all_DB clusters_NN2 being_VBG considered_VVN ._. 
+</s>
+<s>
+if_CS cluster_NN1 k_ZZ1 is_VBZ in_II the_AT optimal_JJ solution_NN1 ,_, and_CC 0_MC otherwise_RR ._. 
+</s>
+<s>
+is_VBZ the_AT cost_NN1 of_IO cluster_NN1 k_ZZ1 including_II setup_NN1 cost_NN1 ._. 
+</s>
+<s>
+is_VBZ an_AT1 index_NN1 variable_NN1 which_DDQ equals_VVZ one_PN1 if_CS board_NN1 b_ZZ1 is_VBZ in_II cluster_NN1 k_ZZ1 ._. 
+</s>
+<s>
+Thus_RR the_AT only_JJ constraint_NN1 in_II our_APPGE master_NN1 problem_NN1 is_VBZ that_CST each_DD1 board_NN1 must_VM be_VBI contained_VVN in_II exactly_RR one_MC1 cluster_NN1 ,_, and_CC we_PPIS2 want_VV0 the_AT set_NN1 of_IO clusters_NN2 with_IW minimum_JJ cost_NN1 ._. 
+</s>
+<s>
+It_PPH1 seems_VVZ simple_JJ enough_RR ,_, and_CC the_AT idea_NN1 behind_II the_AT subproblem_NN1 is_VBZ fairly_RR simple_JJ ._. 
+</s>
+<s>
+We_PPIS2 even_RR know_VV0 what_DDQ the_AT subproblem_NN1 is_VBZ :_: to_TO generate_VVI the_AT most_RGT negative_JJ reduced_JJ cost_NN1 column_NN1 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 would_VM take_VVI that_DD1 column_NN1 from_II the_AT subproblem_NN1 ,_, enter_VV0 it_PPH1 into_II the_AT master_NN1 problem_NN1 ,_, get_VV0 new_JJ duals_NN2 from_II the_AT master_NN1 problem_NN1 and_CC hand_NN1 those_DD2 off_RP to_II the_AT subproblem_NN1 and_CC repeat_VV0 until_CS our_APPGE subproblem_NN1 reports_VVZ back_RP that_CST there_EX are_VBR no_AT negative_JJ reduced_JJ cost_NN1 columns_NN2 ,_, showing_VVG that_CST our_APPGE current_JJ solution_NN1 is_VBZ optimal_JJ ._. 
+</s>
+<s>
+Regrettably_RR ,_, this_DD1 turns_VVZ out_RP to_TO be_VBI much_RR easier_RRR said_VVN than_CSN done_VDN ._. 
+</s>
+<s>
+The_AT reduced_JJ cost_NN1 of_IO a_AT1 column_NN1 (_( cluster_NN1 )_) is_VBZ its_APPGE true_JJ cost_NN1 minus_II the_AT dual_JJ associated_JJ with_IW the_AT boards_NN2 included_VVN in_II that_DD1 cluster_NN1 ._. 
+</s>
+<s>
+The_AT true_JJ cost_NN1 is_VBZ the_AT manufacturing_NN1 cost_NN1 of_IO all_DB the_AT boards_NN2 included_VVN in_II the_AT cluster_NN1 plus_II the_AT setup_NN1 cost_NN1 ,_, ._. 
+</s>
+<s>
+Thus_RR ,_, we_PPIS2 define_VV0 variable_NN1 if_CS component_NN1 c_ZZ1 is_VBZ retrieved_VVN from_II location_NN1 l_ZZ1 for_IF board_NN1 b_ZZ1 in_II this_DD1 particular_JJ cluster_NN1 ,_, and_CC 0_MC otherwise_RR ._. 
+</s>
+<s>
+Additionally_RR ,_, we_PPIS2 use_VV0 if_CS board_NN1 b_ZZ1 is_VBZ included_VVN in_II the_AT cluster_NN1 ,_, and_CC if_CS component_NN1 c_ZZ1 is_VBZ assigned_VVN to_II location_NN1 l_ZZ1 ._. 
+</s>
+<s>
+This_DD1 results_VVZ in_II the_AT first_MD version_NN1 of_IO the_AT subproblem_NN1 ,_, This_DD1 model_NN1 minimizes_VVZ the_AT reduced_JJ cost_NN1 ,_, subject_II21 to_II22 the_AT following_JJ constraints_NN2 :_: each_DD1 component_NN1 is_VBZ assigned_VVN to_II exactly_RR one_MC1 location_NN1 ;_; each_DD1 location_NN1 is_VBZ assigned_VVN exactly_RR one_MC1 component_NN1 ;_; if_CS component_NN1 c_ZZ1 is_VBZ not_XX assigned_VVN to_II location_NN1 l_ZZ1 ,_, then_RT component_NN1 c_ZZ1 can_56 not_56 be_VBI retrieved_VVN from_II location_NN1 l_ZZ1 for_IF any_DD board_NN1 b_ZZ1 ;_; finally_RR ,_, if_CS xb_NNU is_VBZ one_PN1 then_RT each_DD1 component_NN1 must_VM be_VBI retrieved_VVN from_II a_AT1 location_NN1 for_IF board_NN1 b_ZZ1 ._. 
+</s>
+<s>
+Together_RL these_DD2 constraints_NN2 define_VV0 a_AT1 feasible_JJ column_NN1 ,_, and_CC the_AT problem_NN1 will_VM find_VVI the_AT feasible_JJ column_NN1 with_IW the_AT most_RGT negative_JJ reduced_JJ cost_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, this_DD1 problem_NN1 would_VM not_XX yield_VVI an_AT1 answer_NN1 in_II less_DAR than_CSN 2_MC hours_NNT2 with_IW either_RR the_AT x_ZZ1 ,_, or_CC the_AT y_ZZ1 ,_, or_CC the_AT x_ZZ1 and_CC y_ZZ1 variables_NN2 relaxed_VVD ._. 
+</s>
+<s>
+When_CS we_PPIS2 relaxed_VVD all_DB the_AT variables_NN2 ,_, we_PPIS2 ran_VVD into_II a_AT1 different_JJ problem_NN1 :_: the_AT LP_NN1 relaxation_NN1 is_VBZ weak_JJ ._. 
+</s>
+<s>
+When_CS you_PPY solve_VV0 the_AT LP_NN1 relaxation_NN1 with_IW all_DB variables_NN2 (_( x_ZZ1 ,_, y_ZZ1 ,_, p_ZZ1 )_) relaxed_VVD ,_, the_AT optimal_JJ solution_NN1 is_VBZ fractional_JJ ._. 
+</s>
+<s>
+The_AT reason_NN1 the_AT solution_NN1 turns_VVZ out_RP to_TO be_VBI fractional_JJ ,_, while_CS not_XX immediately_RR obvious_JJ ,_, is_VBZ because_CS the_AT model_NN1 is_VBZ splitting_VVG the_AT components_NN2 for_IF the_AT boards_NN2 it_PPH1 wants_VVZ into_II different_JJ sleeves_NN2 and_CC only_RR paying_VVG for_IF the_AT cheapest_JJT one_PN1 ._. 
+</s>
+<s>
+And_CC while_CS it_PPH1 will_VM solve_VVI to_II an_AT1 integer_NN1 solution_NN1 with_IW some_DD dual_JJ values_NN2 ,_, we_PPIS2 only_RR got_VVD it_PPH1 to_TO solve_VVI with_IW made-up_JJ dual_JJ values_NN2 ,_, or_CC the_AT dual_JJ values_NN2 from_II the_AT near-optimal_JJ solution_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, after_CS only_RR a_AT1 few_DA2 iterations_NN2 of_IO shuffling_NN1 between_II the_AT master_NN1 and_CC subproblem_VV0 starting_VVG with_IW the_AT near-optimal_JJ solution_NN1 ,_, the_AT duals_NN2 become_VV0 such_CS21 that_CS22 the_AT subproblem_NN1 will_VM no_RR longer_RRR solve_VVI to_II integrality_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, even_RR with_IW all_DB the_AT variables_NN2 relaxed_VVD we_PPIS2 could_VM not_XX get_VVI it_PPH1 to_TO solve_VVI with_IW the_AT duals_NN2 from_II solving_VVG the_AT master_NN1 problem_NN1 with_IW the_AT identity_NN1 matrix_NN1 ._. 
+</s>
+<s>
+All_DB these_DD2 frustrations_NN2 drove_VVD us_PPIO2 to_TO look_VVI at_II an_AT1 entirely_RR different_JJ model_NN1 ,_, This_DD1 model_NN1 is_VBZ exceedingly_RR difficult_JJ to_TO understand_VVI ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 the_AT xcl_NNU variables_NN2 take_VV0 the_AT place_NN1 of_IO the_AT ycl_NN1 variables_NN2 in_II the_AT previous_JJ model_NN1 ,_, the_AT yb_NN1 's_GE replace_VV0 the_AT xb_NNU 's_VBZ ,_, and_CC the_AT is_VBZ data_NN simply_RR taking_VVG the_AT place_NN1 of_IO in_II the_AT previous_JJ model_NN1 ._. 
+</s>
+<s>
+When_CS M_ZZ1 is_VBZ large_JJ enough_RR ,_, and_CC yb_NN1 is_VBZ one_PN1 ,_, implying_VVG that_CST the_AT board_NN1 is_VBZ in_II the_AT cluster_NN1 ,_, the_AT constraint_NN1 says_VVZ that_CST Unfortunately_RR ,_, as_CSA we_PPIS2 have_VH0 seen_VVN ,_, introducing_VVG a_AT1 big_JJ M_NN1 into_II a_AT1 model_NN1 almost_RR always_RR results_VVZ in_II a_AT1 terrible_JJ LP_NN1 relaxation_NN1 ._. 
+</s>
+<s>
+Here_RL ,_, the_AT problem_NN1 arises_VVZ because_CS the_AT model_NN1 has_VHZ two_MC constraints_NN2 to_TO determine_VVI the_AT value_NN1 of_IO b_ZZ1 :_: Despite_II all_DB these_DD2 problems_NN2 ,_, we_PPIS2 were_VBDR able_JK to_TO get_VVI a_AT1 single_JJ instance_NN1 of_IO this_DD1 version_NN1 of_IO the_AT subproblem_NN1 to_TO solve_VVI with_IW the_AT duals_NN2 from_II the_AT identity_NN1 matrix_NN1 in_II just_RR over_RG twenty_MC minutes_NNT2 ._. 
+</s>
+<s>
+But_CCB returning_VVG to_II the_AT big_JJ picture_NN1 ,_, this_DD1 means_VVZ it_PPH1 takes_VVZ twenty_MC minutes_NNT2 to_TO solve_VVI one_MC1 instance_NN1 of_IO the_AT subproblem_NN1 to_II optimality_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO solve_VVI the_AT root_NN1 node_NN1 of_IO the_AT master_NN1 problem_NN1 ,_, we_PPIS2 might_VM need_VVI to_TO solve_VVI the_AT subproblem_NN1 millions_NNO2 ,_, or_CC tens_MC2 of_IO millions_NNO2 ,_, of_IO times_NNT2 ._. 
+</s>
+<s>
+And_CC then_RT ,_, we_PPIS2 have_VH0 no_AT guarantee_NN1 that_CST the_AT solution_NN1 to_II the_AT root_NN1 node_NN1 of_IO the_AT master_NN1 problem_NN1 will_VM be_VBI integer_NN1 ,_, so_CS we_PPIS2 might_VM have_VHI to_TO branch_VVI on_II the_AT master_NN1 problem_NN1 ,_, meaning_VVG we_PPIS2 would_VM have_VHI to_TO solve_VVI potentially_RR hundreds_NNO2 or_CC thousands_NNO2 of_IO versions_NN2 of_IO the_AT master_NN1 problem_NN1 before_CS we_PPIS2 arrived_VVD at_II a_AT1 truly_RR integer_NN1 solution_NN1 to_II our_APPGE overall_JJ problem_NN1 ._. 
+</s>
+<s>
+Given_VVN the_AT complexity_NN1 of_IO the_AT overall_JJ problem_NN1 ,_, a_AT1 subproblem_NN1 that_CST takes_VVZ twenty_MC minutes_NNT2 to_TO solve_VVI is_VBZ simply_RR worthless_JJ in_II the_AT overall_JJ context_NN1 ._. 
+</s>
+<s>
+And_CC since_CS there_EX is_VBZ really_RR no_AT way_NN1 to_TO remove_VVI the_AT big_JJ M_NN1 from_II the_AT model_NN1 ,_, we_PPIS2 were_VBDR forced_VVN to_TO chuck_VVI this_DD1 rather_RG creative_JJ model_NN1 ,_, returning_VVG our_APPGE focus_NN1 to_II the_AT seemingly_RR less-promising_JJ Subproblem_NN1 Model_NN1 1_MC1 Looking_VVG at_II Subproblem_NP1 Model_NN1 1_MC1 ,_, we_PPIS2 noticed_VVD that_CST the_AT variables_NN2 were_VBDR simply_RR taking_VVG the_AT place_NN1 of_IO xbycl_NN1 ,_, and_CC serve_VV0 only_RR to_TO eliminate_VVI the_AT nonlinearity_NN1 in_II the_AT model_NN1 ._. 
+</s>
+<s>
+So_RR what_DDQ if_CS we_PPIS2 left_VVD the_AT nonlinearity_NN1 in_II the_AT model_NN1 ?_? 
+</s>
+<s>
+We_PPIS2 end_VV0 up_RP with_IW a_AT1 new_JJ ,_, nonlinear_JJ model_NN1 :_: This_DD1 model_NN1 boils_VVZ down_RP to_II an_AT1 assignment_NN1 problem_NN1 ,_, which_DDQ anyone_PN1 can_VM understand_VVI quickly_RR ._. 
+</s>
+<s>
+Additionally_RR ,_, assignment_NN1 problems_NN2 typically_RR solve_VV0 very_RG quickly_RR ._. 
+</s>
+<s>
+We_PPIS2 used_VVD the_AT MINOS_NP1 package_NN1 to_TO solve_VVI this_DD1 model_NN1 ,_, and_CC the_AT subproblem_NN1 solved_VVN in_II mere_JJ seconds_NNT2 ._. 
+</s>
+<s>
+Shuffling_VVG back_RP and_CC forth_RR between_II the_AT subproblem_NN1 (_( in_II MINOS_NP1 )_) and_CC the_AT master_NN1 problem_NN1 (_( in_II CPLEX_NP1 )_) was_VBDZ regrettably_RR too_RG time_NNT1 consuming_VVG to_TO really_RR be_VBI able_JK to_TO see_VVI if_CSW the_AT nonlinear_JJ model_NN1 would_VM yield_VVI an_AT1 answer_NN1 to_II the_AT subproblem_NN1 ,_, however_RRQV it_PPH1 does_VDZ appear_VVI that_CST it_PPH1 would_VM be_VBI a_AT1 good_JJ method_NN1 to_TO generate_VVI good_JJ columns_NN2 quickly_RR ._. 
+</s>
+<s>
+To_TO prove_VVI optimality_NN1 in_II any_DD of_IO our_APPGE other_JJ models_NN2 ,_, we_PPIS2 need_VV0 to_TO show_VVI that_CST there_EX exist_VV0 no_AT more_RGR negative_JJ reduced_JJ cost_NN1 columns_NN2 ._. 
+</s>
+<s>
+The_AT worry_NN1 is_VBZ that_CST this_DD1 nonlinear_JJ model_NN1 might_VM return_VVI a_AT1 positive_JJ reduced_JJ cost_NN1 column_NN1 when_CS there_EX were_VBDR still_RR negative_JJ reduced_JJ cost_NN1 columns_NN2 out_RP there_RL ._. 
+</s>
+<s>
+But_CCB at_II the_AT very_RG least_RRT ,_, we_PPIS2 would_VM only_RR have_VHI to_TO solve_VVI the_AT long_JJ linear_JJ model_NN1 a_AT1 few_DA2 times_NNT2 ,_, possibly_RR only_RR once_RR ,_, to_TO verify_VVI that_CST the_AT nonlinear_JJ model_NN1 had_VHD given_VVN us_PPIO2 all_DB the_AT available_JJ negative_JJ reduced_JJ cost_NN1 columns_NN2 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, before_CS we_PPIS2 can_VM actually_RR test_VVI this_DD1 theory_NN1 ,_, we_PPIS2 would_VM need_VVI to_TO be_VBI able_JK to_TO write_VVI a_AT1 ._. run_VV0 file_NN1 which_DDQ would_VM allow_VVI us_PPIO2 to_TO switch_VVI between_II MINOS_NP1 and_CC CPLEX_VVI to_TO solve_VVI the_AT subproblem_NN1 and_CC master_NN1 problem_NN1 ,_, respectively_RR ,_, without_IW having_VHG to_TO do_VDI it_PPH1 by_II hand_NN1 ._. 
+</s>
+<s>
+It_PPH1 would_VM seem_VVI as_CS21 though_CS22 there_EX would_VM have_VHI to_TO be_VBI a_AT1 way_NN1 to_TO accomplish_VVI this_DD1 ,_, although_CS we_PPIS2 were_VBDR unable_JK to_TO find_VVI anyone_PN1 who_PNQS knew_VVD how_RRQ to_TO tackle_VVI this_DD1 particular_JJ issue_NN1 ._. 
+</s>
+<s>
+With_IW a_AT1 better_JJR implementation_NN1 ,_, this_DD1 method_NN1 would_VM seem_VVI to_TO hold_VVI great_JJ promise_NN1 for_IF solving_VVG this_DD1 problem_NN1 quickly_RR ._. 
+</s>
+<s>
+I_PPIS1 think_VV0 this_DD1 is_VBZ perhaps_RR one_MC1 of_IO the_AT most_RGT exciting_JJ avenues_NN2 we_PPIS2 ignored_VVD ._. 
+</s>
+<s>
+Since_CS we_PPIS2 could_VM not_XX find_VVI a_AT1 way_NN1 to_TO get_VVI the_AT nonlinear_JJ model_NN1 to_TO solve_VVI automatically_RR ,_, we_PPIS2 were_VBDR forced_VVN to_TO return_VVI to_II our_APPGE original_JJ model_NN1 ,_, Subproblem_NP1 Model_NN1 1_MC1 ._. 
+</s>
+<s>
+We_PPIS2 could_VM not_XX get_VVI Model_NN1 1_MC1 to_TO solve_VVI with_IW the_AT duals_NN2 from_II the_AT identity_NN1 matrix_NN1 ,_, so_CS we_PPIS2 tried_VVD solving_VVG it_PPH1 with_IW the_AT duals_NN2 from_II the_AT many_DA2 iterations_NN2 we_PPIS2 did_VDD by_II hand_NN1 using_VVG the_AT nonlinear_JJ model_NN1 ,_, thinking_VVG that_CST these_DD2 duals_NN2 might_VM be_VBI "_" better_RRR "_" in_II some_DD sense_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, they_PPHS2 did_VDD not_XX yield_VVI a_AT1 solution_NN1 either_RR ._. 
+</s>
+<s>
+Then_RT we_PPIS2 had_VHD the_AT brilliant_JJ idea_NN1 of_IO using_VVG the_AT near-optimal_JJ solution_NN1 from_II the_AT first_MD week_NNT1 as_II a_AT1 starting_NN1 solution_NN1 for_IF our_APPGE master_NN1 problem_NN1 --_NN1 this_DD1 eight_MC column_NN1 solution_NN1 gave_VVD us_PPIO2 duals_NN2 that_CST allowed_VVD the_AT subproblem_NN1 to_TO solve_VVI lickety-split_NN1 ._. 
+</s>
+<s>
+This_DD1 solution_NN1 raised_VVD issues_NN2 about_II the_AT validity_NN1 of_IO the_AT duals_NN2 from_II a_AT1 solution_NN1 that_CST did_VDD not_XX form_VVI a_AT1 basis_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO form_VVI a_AT1 basis_NN1 ,_, you_PPY need_VV0 as_RG many_DA2 variables_NN2 as_CSA you_PPY have_VH0 constraints_NN2 ;_; here_RL we_PPIS2 had_VHD only_RR eight_MC variables_NN2 ,_, one_MC1 for_IF each_DD1 column_NN1 (_( or_CC cluster_NN1 )_) and_CC twenty-four_MC constraints_NN2 ,_, one_MC1 for_IF each_DD1 board_NN1 ._. 
+</s>
+<s>
+What_DDQ does_VDZ this_DD1 mean_VVI for_IF the_AT validity_NN1 of_IO the_AT duals_NN2 ?_? 
+</s>
+<s>
+After_CS much_DA1 thought_NN1 ,_, we_PPIS2 decided_VVD that_CST even_CS21 though_CS22 we_PPIS2 do_VD0 not_XX have_VHI a_AT1 full_JJ basis_NN1 to_TO start_VVI with_IW ,_, the_AT duals_NN2 are_VBR nonetheless_RR meaningful_JJ ,_, since_CS we_PPIS2 end_VV0 up_RP with_IW exactly_RR eight_MC (_( the_AT number_NN1 of_IO columns_NN2 we_PPIS2 started_VVD with_IW in_II the_AT initial_JJ solution_NN1 )_) non-zero_JJ duals_NN2 ._. 
+</s>
+<s>
+All_DB the_AT other_JJ duals_NN2 ,_, corresponding_VVG to_II the_AT extra_JJ variables_NN2 that_CST are_VBR needed_VVN to_TO form_VVI a_AT1 basis_NN1 are_VBR simply_RR set_VVN to_TO zero_VVI ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 does_VDZ yield_VVI a_AT1 strongly_RR degenerate_JJ solution_NN1 ,_, where_CS most_DAT of_IO the_AT variables_NN2 in_II the_AT solution_NN1 are_VBR set_VVN to_TO zero_VVI ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST when_CS we_PPIS2 took_VVD those_DD2 duals_NN2 and_CC plugged_VVD them_PPHO2 into_II the_AT subproblem_NN1 the_AT objective_JJ value_NN1 stayed_VVD exactly_RR the_AT same_DA over_II many_DA2 iterations_NN2 ,_, because_II21 of_II22 the_AT degeneracy_NN1 ._. 
+</s>
+<s>
+The_AT algorithm_NN1 was_VBDZ simply_RR pivoting_JJ in_II different_JJ variables_NN2 ,_, which_DDQ were_VBDR all_DB set_VV0 to_TO zero_VVI ,_, so_CS the_AT objective_JJ function_NN1 did_VDD not_XX change_VVI ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT definition_NN1 of_IO a_AT1 degenerate_JJ pivot_NN1 ._. 
+</s>
+<s>
+Degeneracy_NN1 kept_VVD coming_VVG up_RP again_RT and_CC again_RT throughout_II this_DD1 course_NN1 ,_, and_CC often_RR drastically_RR increased_VVD our_APPGE computation_NN1 time_NNT1 ._. 
+</s>
+<s>
+After_CS a_AT1 few_DA2 iterations_NN2 of_IO switching_VVG back_RP and_CC forth_RR between_II the_AT master_NN1 and_CC subproblem_NN1 ,_, starting_VVG with_IW the_AT near-optimal_JJ solution_NN1 ,_, eventually_RR resulted_VVN in_II duals_NN2 that_CST the_AT subproblem_NN1 could_VM no_RR21 longer_RR22 solve_VVI quickly_RR ,_, at_II roughly_RR the_AT same_DA point_NN1 as_CSA it_PPH1 reached_VVD a_AT1 full_JJ rank_NN1 basis_NN1 ._. 
+</s>
+<s>
+We_PPIS2 hypothesized_VVD that_CST the_AT speed_NN1 of_IO the_AT subproblem_NN1 was_VBDZ due_II21 to_II22 the_AT reduced_JJ size_NN1 of_IO the_AT problem_NN1 --_NN1 with_IW only_RR eight_MC non-zero_JJ duals_NN2 ,_, you_PPY really_RR only_RR have_VH0 to_TO consider_VVI eight_MC boards_NN2 ,_, which_DDQ makes_VVZ the_AT problem_NN1 much_RR faster_RRR ._. 
+</s>
+<s>
+And_CC indeed_RR when_CS we_PPIS2 solved_VVD the_AT master_NN1 problem_NN1 with_IW the_AT eight_MC near-optimal_JJ columns_NN2 plus_II the_AT identity_NN1 matrix_NN1 ,_, the_AT subproblem_NN1 took_VVD more_DAR than_CSN a_AT1 few_DA2 hours_NNT2 to_TO solve_VVI ,_, supporting_VVG our_APPGE hypothesis_NN1 that_CST it_PPH1 was_VBDZ the_AT zeros_MC2 in_II the_AT duals_NN2 which_DDQ made_VVD the_AT near-optimal_JJ instance_NN1 easier_RRR to_TO solve_VVI ._. 
+</s>
+<s>
+So_RR how_RRQ are_VBR we_PPIS2 ever_RR going_VVGK to_TO get_VVI this_DD1 problem_NN1 to_TO solve_VVI ?_? 
+</s>
+<s>
+We_PPIS2 need_VV0 it_PPH1 to_TO give_VVI us_PPIO2 an_AT1 integer_NN1 solution_NN1 ,_, and_CC we_PPIS2 have_VH0 already_RR seen_VVN that_CST the_AT LP_NN1 relaxation_NN1 will_VM always_RR give_VVI us_PPIO2 xb_NNU values_NN2 close_RR to_II ,_, so_RG eventually_RR we_PPIS2 're_VBR going_VVGK to_TO have_VHI to_TO put_VVI it_PPH1 into_II a_AT1 branch_NN1 and_CC bound_JJ tree_NN1 ._. 
+</s>
+<s>
+Perhaps_RR looking_VVG at_II the_AT branching_JJ strategy_NN1 will_VM give_VVI us_PPIO2 some_DD insight_NN1 ,_, we_PPIS2 thought_VVD ._. 
+</s>
+<s>
+When_CS we_PPIS2 started_VVD thinking_VVG about_II branching_JJ ,_, little_RR did_VDD we_PPIS2 know_VVI we_PPIS2 would_VM be_VBI spending_JJ weeks_NNT2 and_CC weeks_NNT2 on_II it_PPH1 ,_, and_CC what_DDQ a_AT1 big_JJ deal_NN1 it_PPH1 would_VM turn_VVI out_RP to_TO be_VBI ._. 
+</s>
+<s>
+Our_APPGE first_MD step_NN1 in_II looking_VVG at_II branching_JJ was_VBDZ to_TO observe_VVI what_DDQ happened_VVD when_CS we_PPIS2 branched_VVD on_II different_JJ variables_NN2 ._. 
+</s>
+<s>
+We_PPIS2 initially_RR started_VVD branching_JJ on_II the_AT xb_NNU variables_NN2 ,_, since_CS they_PPHS2 seemed_VVD to_TO be_VBI the_AT ones_NN2 we_PPIS2 ultimately_RR cared_VVD the_AT most_RRT about_II -- whether_CSW31 or_CSW32 not_CSW33 a_AT1 board_NN1 was_VBDZ included_VVN in_II a_AT1 cluster_NN1 ._. 
+</s>
+<s>
+Branching_JJ on_II the_AT x_MC221 's_MC222 changed_VVD the_AT one_MC1 particular_JJ value_NN1 you_PPY set_VV0 to_TO be_VBI integer_NN1 ,_, but_CCB left_VVD all_DB the_AT other_JJ values_NN2 fractional_JJ ._. 
+</s>
+<s>
+As_CS31 soon_CS32 as_CS33 you_PPY set_VV0 the_AT very_RG last_MD x_ZZ1 to_TO be_VBI integer_NN1 then_RT all_DB the_AT y_ZZ221 's_ZZ222 and_CC p_ZZ221 's_ZZ222 would_VM suddenly_RR become_VVI integer_NN1 ,_, but_CCB you_PPY need_VV0 to_TO get_VVI all_DB the_AT way_NN1 to_II the_AT bottom_NN1 of_IO the_AT tree_NN1 before_CS you_PPY seen_VVN any_DD major_JJ changes_NN2 ,_, which_DDQ could_VM result_VVI in_II 224_MC (_( in_II our_APPGE instance_NN1 with_IW 24_MC boards_NN2 )_) branches_NN2 before_CS you_PPY get_VV0 a_AT1 solution_NN1 ._. 
+</s>
+<s>
+224_MC is_VBZ a_AT1 large_JJ number_NN1 ,_, and_CC not_XX something_PN1 you_PPY want_VV0 to_TO sort_VVI through_II every_AT1 time_NNT1 you_PPY want_VV0 to_TO solve_VVI the_AT subproblem_NN1 (_( which_DDQ might_VM need_VVI to_TO be_VBI solved_VVN millions_NNO2 of_IO times_NNT2 to_TO generate_VVI an_AT1 answer_NN1 to_II the_AT root_NN1 node_NN1 of_IO the_AT master_NN1 problem_NN1 ,_, which_DDQ may_VM or_CC may_VM not_XX be_VBI integer_NN1 )_) ._. 
+</s>
+<s>
+So_RR we_PPIS2 decided_VVD branching_JJ on_II the_AT x_MC221 's_MC222 was_VBDZ probably_RR a_AT1 bad_JJ strategy_NN1 ,_, all_DB things_NN2 considered_VVN ._. 
+</s>
+<s>
+If_CS branching_VVG on_II the_AT x_MC221 's_MC222 will_VM not_XX work_VVI ,_, then_RT what_DDQ about_II the_AT y_ZZ221 's_ZZ222 ?_? 
+</s>
+<s>
+Setting_VVG a_AT1 ycl_NN1 variable_NN1 to_TO be_VBI one_PN1 means_VVZ that_DD1 component_NN1 c_ZZ1 is_VBZ assigned_VVN to_II sleeve_NN1 l_ZZ1 ,_, which_DDQ automatically_RR sets_VVZ all_DB other_JJ y_ZZ221 's_ZZ222 in_II that_DD1 row_NN1 and_CC column_NN1 to_TO be_VBI zero_MC ,_, since_CS only_RR one_MC1 component_NN1 can_VM be_VBI assigned_VVN to_II each_DD1 sleeve_NN1 and_CC vice_RR21 versa_RR22 ._. 
+</s>
+<s>
+Additionally_RR ,_, you_PPY also_RR set_VVD all_RR pclb_NNU values_NN2 containing_VVG that_DD1 component_NN1 or_CC location_NN1 ,_, but_CCB not_XX in_II31 conjunction_II32 with_II33 each_PPX221 other_PPX222 ,_, to_TO zero_VVI ._. 
+</s>
+<s>
+If_CS component_NN1 c_ZZ1 is_VBZ assigned_VVN to_II sleeve_NN1 l_ZZ1 ,_, c_ZZ1 can_56 not_56 be_VBI retrieved_VVN from_II any_DD other_JJ location_NN1 for_IF any_DD board_NN1 ;_; likewise_RR no_AT other_JJ component_NN1 can_VM be_VBI retrieved_VVN from_II location_NN1 l_ZZ1 for_IF any_DD board_NN1 ._. 
+</s>
+<s>
+So_RR branching_JJ on_II the_AT y_ZZ221 's_ZZ222 holds_VVZ promise_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, when_CS we_PPIS2 look_VV0 at_II setting_VVG a_AT1 y_ZZ1 variable_JJ to_TO zero_VVI ,_, almost_RR nothing_PN1 happens_VVZ ;_; we_PPIS2 see_VV0 an_AT1 infinitesimally_RR small_JJ decrease_NN1 in_II the_AT objective_JJ function_NN1 ,_, nothing_PN1 like_II what_DDQ you_PPY see_VV0 when_RRQ you_PPY set_VV0 y_ZZ1 to_TO be_VBI one_PN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 potentially_RR hazardous_JJ branching_JJ strategy_NN1 ,_, since_CS it_PPH1 results_VVZ in_II a_AT1 strongly_RR unbalanced_JJ tree_NN1 ._. 
+</s>
+<s>
+And_CC here_RL again_RT we_PPIS2 have_VH0 the_AT same_DA problem_NN1 that_CST we_PPIS2 need_VV0 to_TO completely_RR enumerate_VVI the_AT y_ZZ1 values_NN2 before_CS we_PPIS2 see_VV0 the_AT x_MC values_NN2 become_VV0 integer_NN1 ._. 
+</s>
+<s>
+The_AT objective_NN1 jumps_VVZ the_AT most_RRT when_CS setting_VVG y_ZZ1 to_TO be_VBI one_PN1 ,_, and_CC the_AT least_RRT when_CS setting_VVG y_ZZ1 to_TO be_VBI zero_MC ,_, so_RG perhaps_RR there_EX is_VBZ no_AT clear_RR cut_VVN winner_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 have_VH0 to_TO completely_RR enumerate_VVI the_AT y_ZZ1 's_VBZ it_PPH1 will_VM only_RR be_VBI 216_MC instead_II21 of_II22 224_MC branches_NN2 ,_, but_CCB 216_MC is_VBZ still_RR too_RG many_DA2 branches_NN2 for_IF a_AT1 subproblem_NN1 ._. 
+</s>
+<s>
+But_CCB what_DDQ about_II the_AT p_ZZ221 's_ZZ222 ?_? 
+</s>
+<s>
+Setting_VVG pclb=1_FO has_VHZ an_AT1 even_RR greater_JJR impact_NN1 than_CSN setting_VVG ycl=1_FO ,_, since_CS pclb=1_FO then_RT sets_VVZ ycl=1_FO with_IW all_DB the_AT concomitant_JJ effects_NN2 ,_, in_II31 addition_II32 to_II33 setting_VVG xb=1_FO ,_, and_CC many_DA2 other_JJ pclb_NNU 's_VBZ to_TO zero_VVI ._. 
+</s>
+<s>
+Surely_RR this_DD1 is_VBZ the_AT largest_JJT impact_NN1 that_CST any_DD one_MC1 variable_NN1 can_VM have_VHI on_II the_AT problem_NN1 ._. 
+</s>
+<s>
+But_CCB there_EX are_VBR 24*216_FO pclb_NNU variables_NN2 ,_, and_CC again_RT if_CS we_PPIS2 look_VV0 at_II the_AT other_JJ side_NN1 of_IO the_AT tree_NN1 ,_, where_CS we_PPIS2 set_VV0 pclb=0_FO ,_, there_EX is_VBZ practically_RR no_AT change_NN1 in_II the_AT objective_NN1 ,_, and_CC no_AT other_JJ variables_NN2 are_VBR set_VVN to_TO be_VBI integer_NN1 ._. 
+</s>
+<s>
+In_II the_AT end_NN1 ,_, there_EX is_VBZ no_AT clear_JJ winner_NN1 --_NN1 all_DB the_AT branching_JJ strategies_NN2 have_VH0 their_APPGE flaws_NN2 ,_, and_CC the_AT problem_NN1 was_VBDZ starting_VVG to_TO look_VVI completely_RR hopeless_JJ ._. 
+</s>
+<s>
+Since_CS we_PPIS2 were_VBDR not_XX getting_VVG anywhere_RL with_IW this_DD1 approach_NN1 we_PPIS2 decided_VVD to_TO go_VVI back_RP and_CC see_VVI if_CS we_PPIS2 could_VM figure_VVI out_RP why_RRQ the_AT optimal_JJ solution_NN1 was_VBDZ fractional_JJ and_CC if_CS we_PPIS2 could_VM fix_VVI it_PPH1 in_II any_DD way_NN1 ._. 
+</s>
+<s>
+We_PPIS2 had_VHD seen_VVN earlier_RRR that_CST the_AT reason_NN1 the_AT LP_NN1 relaxation_NN1 was_VBDZ fractional_JJ was_VBDZ because_CS the_AT model_NN1 wanted_VVD to_TO split_VVI the_AT boards_NN2 between_II several_DA2 different_JJ columns_NN2 and_CC then_RT only_RR pay_VV0 for_IF the_AT cheapest_JJT one_PN1 ._. 
+</s>
+<s>
+We_PPIS2 noticed_VVD ,_, as_CSA we_PPIS2 were_VBDR working_VVG through_II the_AT branching_JJ strategies_NN2 ,_, that_CST when_CS you_PPY set_VV0 ycl_VV0 to_TO be_VBI zero_MC ,_, meaning_VVG that_CST you_PPY can_VM no_RR21 longer_RR22 assign_VVI component_NN1 c_ZZ1 to_II sleeve_NN1 l_ZZ1 ,_, it_PPH1 did_VDD not_XX change_VVI the_AT objective_JJ value_NN1 ,_, because_CS the_AT model_NN1 simply_RR moved_VVN all_DB the_AT components_NN2 that_CST were_VBDR in_II sleeve_NN1 l_ZZ1 and_CC moved_VVD them_PPHO2 to_II the_AT symmetric_JJ sleeve_NN1 that_CST had_VHD the_AT same_DA cost_NN1 as_CSA sleeve_NN1 l_ZZ1 ,_, changing_VVG nothing_PN1 ,_, really_RR ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST we_PPIS2 were_VBDR branching_VVG twice_RR as_RG many_DA2 times_NNT2 as_CSA we_PPIS2 really_RR needed_VVN to_TO ._. 
+</s>
+<s>
+So_RR how_RRQ can_VM we_PPIS2 eliminate_VVI this_DD1 waste_NN1 ?_? 
+</s>
+<s>
+By_II creating_VVG a_AT1 model_NN1 that_CST assigns_VVZ two_MC components_NN2 to_II each_DD1 sleeve_NN1 ,_, and_CC only_RR has_VHZ half_DB as_RG many_DA2 sleeves_NN2 ;_; then_RT you_PPY can_VM randomly_RR pick_VVI which_DDQ of_IO the_AT two_MC components_NN2 goes_VVZ in_II each_DD1 of_IO the_AT paired_JJ sleeves_NN2 because_CS they_PPHS2 result_VV0 in_II equivalent_JJ costs_NN2 ._. 
+</s>
+<s>
+This_DD1 lead_VV0 us_PPIO2 to_II the_AT next_MD model_NN1 ._. 
+</s>
+<s>
+This_DD1 model_NN1 differs_VVZ from_II Subproblem_NP1 Model_NN1 1_MC1 only_RR in_RP that_CST the_AT sum_NN1 of_IO ycl_NN1 over_II all_DB components_NN2 for_IF each_DD1 location_NN1 is_VBZ two_MC here_RL ,_, instead_II21 of_II22 one_MC1 as_CSA in_II the_AT previous_JJ model_NN1 ._. 
+</s>
+<s>
+Everything_PN1 else_RR remains_VVZ the_AT same_DA ._. 
+</s>
+<s>
+Since_CS this_DD1 problem_NN1 has_VHZ only_RR half_DB as_RG many_DA2 sleeves_NN2 ,_, the_AT number_NN1 of_IO variables_NN2 is_VBZ reduced_VVN by_II just_RR less_DAR than_CSN half_DB ,_, and_CC results_NN2 in_II roughly_RR half_DB as_RG many_DA2 branches_NN2 as_II the_AT original_JJ ,_, the_AT assumption_NN1 was_VBDZ that_CST it_PPH1 would_VM solve_VVI faster_RRR ._. 
+</s>
+<s>
+We_PPIS2 ran_VVD a_AT1 check_NN1 to_TO make_VVI sure_JJ that_CST both_DB2 models_NN2 gave_VVD us_PPIO2 the_AT same_DA answer_NN1 when_CS applied_VVN to_II a_AT1 smaller_JJR ,_, randomly_RR generated_VVN data_NN set_VV0 ,_, and_CC indeed_RR they_PPHS2 did_VDD ,_, showing_VVG that_CST the_AT models_NN2 ,_, in_II their_APPGE integer_NN1 forms_NN2 ,_, are_VBR equivalent_JJ ._. 
+</s>
+<s>
+Hopefully_RR the_AT LP_NN1 relaxation_NN1 of_IO the_AT non-symmetric_JJ model_NN1 will_VM be_VBI stronger_JJR than_CSN that_DD1 of_IO the_AT original_JJ ._. 
+</s>
+<s>
+Unfortunately_RR ,_, even_RR with_IW the_AT fewer_DAR number_NN1 of_IO variables_NN2 ,_, we_PPIS2 were_VBDR still_RR unable_JK to_TO get_VVI the_AT non-symmetric_JJ model_NN1 to_TO solve_VVI with_IW any_DD of_IO the_AT variables_NN2 set_VV0 to_TO be_VBI integer_NN1 using_VVG the_AT duals_NN2 from_II the_AT identity_NN1 matrix_NN1 ,_, implying_VVG that_CST while_CS it_PPH1 may_VM be_VBI faster_JJR ,_, it_PPH1 is_VBZ still_RR not_XX fast_RR enough_RR ._. 
+</s>
+<s>
+So_RR again_RT ,_, we_PPIS2 examined_VVD potential_JJ branching_JJ strategies_NN2 ._. 
+</s>
+<s>
+Here_RL ,_, instead_II21 of_II22 looking_VVG at_II what_DDQ happened_VVD near_II the_AT top_NN1 of_IO the_AT tree_NN1 following_VVG a_AT1 breadth-first_MD search_NN1 ,_, we_PPIS2 decided_VVD to_TO see_VVI what_DDQ happened_VVD near_II the_AT bottom_NN1 of_IO the_AT tree_NN1 and_CC followed_VVD a_AT1 depth-first_MD search_NN1 ._. 
+</s>
+<s>
+We_PPIS2 confirmed_VVD that_CST indeed_RR none_PN of_IO the_AT x_MC values_NN2 became_VVD integer_NN1 until_CS all_DB the_AT y_ZZ1 values_NN2 had_VHD been_VBN set_VVN ._. 
+</s>
+<s>
+More_DAR than_CSN that_DD1 ,_, we_PPIS2 discovered_VVD that_CST there_EX was_VBDZ an_AT1 order_NN1 of_IO magnitude_NN1 jump_NN1 between_II the_AT next-to-last_JJ branch_NN1 and_CC the_AT very_RG last_MD branch_NN1 where_CS all_DB the_AT values_NN2 suddenly_RR became_VVD integer_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ unfortunate_JJ because_CS it_PPH1 means_VVZ that_DD1 pruning_NN1 will_VM be_VBI nearly_RR impossible_JJ --_NN1 none_PN of_IO the_AT nodes_NN2 in_II the_AT branch_NN1 and_CC bound_JJ tree_NN1 will_VM ever_RR be_VBI above_II the_AT upper_JJ bound_NN1 of_IO the_AT incumbent_JJ solution_NN1 until_CS they_PPHS2 are_VBR themselves_PPX2 integer_NN1 --_NN1 implying_VVG that_CST we_PPIS2 are_VBR still_RR facing_VVG the_AT potential_NN1 of_IO full_JJ enumeration_NN1 to_TO solve_VVI the_AT subproblem_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR tried_VVD branching_JJ on_II the_AT p_NN1 variables_NN2 ,_, but_CCB since_CS every_AT1 time_NNT1 we_PPIS2 set_VV0 a_AT1 p_NN1 to_TO be_VBI one_PN1 we_PPIS2 were_VBDR forcing_VVG the_AT corresponding_JJ xb_NNU and_CC ycl_VV0 variables_NN2 to_TO be_VBI one_PN1 as_RR21 well_RR22 ,_, we_PPIS2 were_VBDR in_II effect_NN1 randomly_RR picking_VVG x_MC 's_VBZ ,_, which_DDQ resulted_VVD in_II a_AT1 very_RG poor_JJ solution_NN1 ._. 
+</s>
+<s>
+Again_RT we_PPIS2 saw_VVD the_AT problem_NN1 of_IO the_AT imbalance_NN1 in_II the_AT tree_NN1 --_NN1 setting_VVG whichever_DDQV variable_NN1 you_PPY choose_VV0 to_TO be_VBI one_PN1 has_VHZ a_AT1 far_RG greater_JJR impact_NN1 that_CST setting_VVG that_CST same_DA variable_NN1 to_TO zero_VVI ,_, so_CS the_AT tree_NN1 is_VBZ much_RR larger_JJR on_II the_AT zero_NN1 side_NN1 ._. 
+</s>
+<s>
+Eventually_RR we_PPIS2 decided_VVD that_CST examining_VVG the_AT branching_JJ strategy_NN1 might_VM not_XX actually_RR be_VBI fruitful_JJ ,_, and_CC the_AT course_NN1 came_VVD full_JJ circle_NN1 as_CSA we_PPIS2 turned_VVD our_APPGE energies_NN2 back_RP towards_II heuristics_NN1 ._. 
+</s>
+<s>
+Heuristics_NN2 are_VBR generally_RR not_XX considered_VVN as_RG elegant_JJ as_CSA traditional_JJ linear_JJ programming_NN1 methods_NN2 ,_, but_CCB we_PPIS2 were_VBDR hoping_VVG that_CST we_PPIS2 could_VM find_VVI a_AT1 heuristic_JJ that_CST would_VM generate_VVI negative_JJ reduced_JJ cost_NN1 columns_NN2 quickly_RR ._. 
+</s>
+<s>
+This_DD1 might_VM be_VBI an_AT1 effective_JJ strategy_NN1 because_CS we_PPIS2 do_VD0 not_XX particularly_RR care_VVI about_II finding_VVG the_AT most_RGT negative_JJ reduced_JJ cost_NN1 column_NN1 ;_; we_PPIS2 simply_RR need_VV0 a_AT1 single_JJ negative_JJ reduced_JJ cost_NN1 column_NN1 (_( or_CC many_DA2 if_CS we_PPIS2 want_VV0 to_TO put_VVI in_II multiple_JJ columns_NN2 at_II a_AT1 time_NNT1 )_) ._. 
+</s>
+<s>
+The_AT first_MD thing_NN1 we_PPIS2 noticed_VVD was_VBDZ that_CST we_PPIS2 can_VM automatically_RR throw_VVI out_RP boards_NN2 with_IW negative_JJ or_CC zero_MC duals_NN2 ,_, since_CS there_EX is_VBZ no_AT way_NN1 their_APPGE contribution_NN1 to_II the_AT reduced_JJ cost_NN1 can_VM be_VBI negative_JJ ,_, since_CS we_PPIS2 still_RR need_VV0 to_TO pay_VVI for_IF the_AT manufacturing_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR know_VV0 that_CST including_II boards_NN2 with_IW larger_JJR duals_NN2 will_VM be_VBI more_RGR likely_JJ to_TO yield_VVI a_AT1 negative_JJ reduced_JJ cost_NN1 ._. 
+</s>
+<s>
+The_AT first_MD heuristic_JJ we_PPIS2 came_VVD up_RP with_IW started_VVD by_II sorting_VVG the_AT duals_NN2 in_II descending_JJ order_NN1 ._. 
+</s>
+<s>
+We_PPIS2 automatically_RR included_VVD the_AT two_MC boards_NN2 with_IW the_AT largest_JJT duals_NN2 ,_, since_CS we_PPIS2 know_VV0 any_DD new_JJ column_NN1 will_VM have_VHI at_RR21 least_RR22 two_MC boards_NN2 (_( since_CS we_PPIS2 started_VVD with_IW the_AT identity_NN1 matrix_NN1 where_CS each_DD1 board_NN1 is_VBZ by_II itself_PPX1 )_) ._. 
+</s>
+<s>
+Then_RT ,_, in_II decreasing_JJ order_NN1 of_IO the_AT duals_NN2 ,_, we_PPIS2 examine_VV0 each_DD1 board_NN1 ._. 
+</s>
+<s>
+If_CS adding_VVG the_AT board_NN1 to_II the_AT previous_JJ cluster_NN1 maintains_VVZ a_AT1 negative_JJ reduced_JJ cost_NN1 column_NN1 ,_, we_PPIS2 add_VV0 it_PPH1 and_CC move_VV0 on_RP to_II the_AT next_MD board_NN1 ._. 
+</s>
+<s>
+If_CS the_AT board_NN1 makes_VVZ the_AT reduced_JJ cost_NN1 greater_JJR than_CSN zero_MC ,_, then_RT we_PPIS2 do_VD0 not_XX include_VVI the_AT board_NN1 and_CC output_VVI the_AT previous_JJ cluster_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM seem_VVI to_TO be_VBI a_AT1 smart_JJ heuristic_JJ because_CS it_PPH1 will_VM almost_RR always_RR yield_VVI a_AT1 negative_JJ reduced_JJ cost_NN1 column_NN1 ,_, but_CCB it_PPH1 fails_VVZ to_TO take_VVI into_II account_NN1 any_DD measure_NN1 of_IO similarity_NN1 between_II the_AT boards_NN2 ._. 
+</s>
+<s>
+If_CS boards_NN2 1_MC1 and_CC 2_MC have_VH0 very_RG large_JJ duals_NN2 but_CCB are_VBR entirely_RR dissimilar_JJ ,_, it_PPH1 might_VM not_XX be_VBI a_AT1 good_JJ idea_NN1 to_TO put_VVI them_PPHO2 together_RL into_II a_AT1 cluster_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, we_PPIS2 discovered_VVD that_CST this_DD1 heuristic_JJ generated_VVD very_RG similar_JJ columns_NN2 at_II every_AT1 iteration_NN1 ,_, because_CS the_AT duals_NN2 do_VD0 not_XX change_VVI much_RR when_CS you_PPY start_VV0 with_IW the_AT identity_NN1 matrix_NN1 ._. 
+</s>
+<s>
+We_PPIS2 saw_VVD other_JJ situations_NN2 where_RRQ the_AT duals_NN2 changed_VVD much_RR more_RGR rapidly_RR ,_, so_CS there_EX is_VBZ a_AT1 chance_NN1 that_CST this_DD1 heuristic_JJ would_VM work_VVI in_II different_JJ circumstances_NN2 ;_; however_RR ,_, it_PPH1 is_VBZ not_XX a_AT1 good_JJ bet_NN1 when_CS starting_VVG from_II the_AT identity_NN1 ._. 
+</s>
+<s>
+Our_APPGE second_MD heuristic_JJ harkened_VVD back_RP to_II the_AT random-generation_JJ code_NN1 of_IO the_AT very_JJ beginning_NN1 ._. 
+</s>
+<s>
+We_PPIS2 simply_RR generated_VVD random_JJ clusters_NN2 ,_, checked_VVD their_APPGE reduced_JJ cost_NN1 ,_, and_CC saved_VVD the_AT smallest_JJT ._. 
+</s>
+<s>
+If_CS the_AT random_JJ generation_NN1 failed_VVD to_TO produce_VVI a_AT1 negative_JJ reduced_JJ cost_NN1 column_NN1 ,_, then_RT we_PPIS2 applied_VVD our_APPGE first_MD heuristic_JJ ._. 
+</s>
+<s>
+Though_CS we_PPIS2 consistently_RR produced_VVN negative_JJ reduced_JJ cost_NN1 columns_NN2 ,_, the_AT objective_JJ value_NN1 was_VBDZ decreasing_VVG by_II only_RR a_AT1 little_RR more_DAR than_CSN 1%_NNU per_II iteration_NN1 ,_, so_RR using_VVG this_DD1 method_NN1 would_VM take_VVI a_AT1 long_JJ time_NNT1 to_TO reach_VVI a_AT1 near-optimal_JJ solution_NN1 ._. 
+</s>
+<s>
+The_AT other_JJ idea_NN1 motivating_VVG us_PPIO2 to_TO find_VVI good_JJ initial_JJ solutions_NN2 was_VBDZ the_AT thought_NN1 that_CST we_PPIS2 could_VM then_RT use_VVI them_PPHO2 in_II AMPL_NP1 as_CSA better_JJR upper_JJ bounds_NN2 ,_, allowing_VVG CPLEX_NN1 to_TO prune_VVI the_AT branch_NN1 and_CC bound_JJ tree_NN1 faster_RRR ._. 
+</s>
+<s>
+What_DDQ we_PPIS2 discovered_VVD with_IW both_DB2 of_IO our_APPGE heuristics_NN1 was_VBDZ that_CST AMPL_NP1 generated_VVD an_AT1 integer_NN1 solution_NN1 with_IW a_AT1 better_JJR objective_JJ value_NN1 than_CSN that_DD1 of_IO our_APPGE heuristics_NN2 in_II less_DAR than_CSN a_AT1 minute_NNT1 ,_, so_CS we_PPIS2 were_VBDR not_XX really_RR improving_VVG the_AT pruning_NN1 by_II giving_VVG it_PPH1 our_APPGE heuristic_JJ upper_JJ bound_NN1 ._. 
+</s>
+<s>
+Perhaps_RR had_VHD we_PPIS2 been_VBN able_JK to_TO generate_VVI solutions_NN2 with_IW much_DA1 lower_JJR objective_NN1 values_VVZ it_PPH1 would_VM have_VHI made_VVN a_AT1 difference_NN1 ,_, but_CCB given_VVN what_DDQ we_PPIS2 had_VHD ,_, we_PPIS2 made_VVD no_AT impact_NN1 at_RR21 all_RR22 ._. 
+</s>
+<s>
+AMPL_NP1 is_VBZ much_RR smarter_JJR than_CSN we_PPIS2 give_VV0 it_PPH1 credit_NN1 for_IF ,_, it_PPH1 would_VM appear_VVI ._. 
+</s>
+<s>
+Still_RR fixating_VVG on_II the_AT issue_NN1 of_IO solving_VVG the_AT subproblem_NN1 with_IW the_AT duals_NN2 from_II the_AT identity_NN1 matrix_NN1 ,_, we_PPIS2 decided_VVD to_TO test_VVI whether_CSW31 or_CSW32 not_CSW33 it_PPH1 was_VBDZ a_AT1 special_JJ property_NN1 of_IO the_AT identity_NN1 matrix_NN1 ,_, or_CC simply_RR the_AT fact_NN1 that_CST we_PPIS2 had_VHD a_AT1 full_JJ rank_NN1 basis_NN1 ._. 
+</s>
+<s>
+So_RR several_DA2 people_NN tried_VVD multiple_JJ randomly_RR generated_VVN sets_NN2 of_IO 24_MC clusters_NN2 ,_, and_CC found_VVD that_CST often_RR the_AT clusters_NN2 did_VDD not_XX provide_VVI a_AT1 feasible_JJ solution_NN1 ._. 
+</s>
+<s>
+Adding_VVG the_AT columns_NN2 from_II the_AT near-optimal_JJ solution_NN1 so_CS21 that_CS22 a_AT1 feasible_JJ solution_NN1 existed_VVD ,_, however_RR ,_, resulted_VVN in_II a_AT1 problem_NN1 that_CST still_RR took_VVD just_RR as_RG long_JJ to_TO solve_VVI as_II the_AT one_PN1 using_VVG the_AT duals_NN2 from_II the_AT identity_NN1 matrix_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, we_PPIS2 can_VM firmly_RR state_VVI that_CST the_AT faster_JJR speeds_NN2 observed_VVD using_VVG the_AT near-optimal_JJ solution_NN1 stem_VV0 not_XX from_II the_AT near-optimality_NN1 of_IO the_AT solution_NN1 ,_, but_CCB the_AT fact_NN1 that_CST the_AT columns_NN2 do_VD0 not_XX form_VVI a_AT1 full-rank_NN1 basis_NN1 ._. 
+</s>
+<s>
+This_DD1 exercise_NN1 did_VDD not_XX really_RR provide_VVI any_DD profound_JJ insight_NN1 ,_, but_CCB at_RR21 least_RR22 confirmed_VVN that_CST our_APPGE suspicions_NN2 were_VBDR correct_JJ ._. 
+</s>
+<s>
+So_RR now_RT we_PPIS2 've_VH0 decided_VVN we_PPIS2 can_56 not_56 come_VVI up_RP with_IW a_AT1 way_NN1 to_TO generate_VVI good_JJ upper_JJ bounds_NN2 (_( or_CC at_RR21 least_RR22 upper_JJ bounds_NN2 that_CST are_VBR better_RRR than_CSN those_DD2 that_CST AMPL_NP1 arrives_VVZ at_II within_II minutes_NNT2 )_) ,_, we_PPIS2 can_56 not_56 find_VVI any_DD inspiration_NN1 from_II branching_JJ strategies_NN2 ,_, and_CC we_PPIS2 are_VBR sure_JJ that_CST this_DD1 is_VBZ our_APPGE most_RGT promising_JJ model_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ at_II this_DD1 point_NN1 that_CST we_PPIS2 were_VBDR all_DB grateful_JJ that_CST this_DD1 was_VBDZ not_XX our_APPGE dissertation_NN1 research_NN1 ._. 
+</s>
+<s>
+So_RR what_DDQ do_VD0 you_PPY do_VDI ?_? 
+</s>
+<s>
+Thankfully_RR ,_, we_PPIS2 had_VHD our_APPGE intrepid_JJ professor_NN1 to_TO help_VVI us_PPIO2 along_RP ,_, and_CC refocus_NN1 our_APPGE attention_NN1 on_II pruning_NN1 ._. 
+</s>
+<s>
+Previously_RR ,_, we_PPIS2 had_VHD agreed_VVN that_CST any_DD board_NN1 with_IW a_AT1 negative_JJ or_CC zero_MC dual_JJ would_VM not_XX be_VBI included_VVN in_II an_AT1 optimal_JJ solution_NN1 ,_, but_CCB perhaps_RR there_EX was_VBDZ a_AT1 tighter_JJR bound_NN1 we_PPIS2 could_VM use_VVI ._. 
+</s>
+<s>
+If_CS we_PPIS2 define_VV0 to_TO be_VBI the_AT cost_NN1 of_IO manufacturing_NN1 board_NN1 b_ZZ1 according_II21 to_II22 the_AT optimal_JJ setup_NN1 for_IF cluster_NN1 C_ZZ1 ,_, we_PPIS2 know_VV0 that_CST Perhaps_RR the_AT most_RGT intuitive_JJ pruning_NN1 technique_NN1 is_VBZ to_TO look_VVI at_II the_AT tree_NN1 and_CC see_VVI if_CS adding_VVG a_AT1 board_NN1 to_II a_AT1 particular_JJ cluster_NN1 increases_VVZ the_AT reduced_JJ cost_NN1 ._. 
+</s>
+<s>
+If_CS so_RR ,_, then_RT you_PPY can_VM prune_VVI that_DD1 branch_NN1 of_IO the_AT tree_NN1 ._. 
+</s>
+<s>
+But_CCB this_DD1 is_VBZ only_RR a_AT1 valid_JJ method_NN1 of_IO pruning_NN1 if_CS you_PPY can_VM prove_VVI that_CST there_EX is_VBZ no_AT other_JJ combination_NN1 of_IO boards_NN2 including_II the_AT original_JJ cluster_NN1 ,_, the_AT additional_JJ board_NN1 and_CC some_DD subset_NN1 of_IO the_AT remaining_JJ boards_NN2 which_DDQ will_VM have_VHI a_AT1 lower_JJR reduced_JJ cost_NN1 than_CSN that_DD1 of_IO the_AT original_JJ cluster_NN1 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, can_VM we_PPIS2 prove_VVI that_CST if_CS So_RR we_PPIS2 have_VH0 shown_VVN that_CST we_PPIS2 can_56 not_56 prune_VVI the_AT tree_NN1 going_VVG down_RP ,_, but_CCB perhaps_RR we_PPIS2 can_VM gain_VVI some_DD insight_NN1 about_II the_AT future_NN1 of_IO a_AT1 branch_NN1 based_VVN on_II what_DDQ is_VBZ left_VVN to_TO explore_VVI ._. 
+</s>
+<s>
+If_CS the_AT reduced_JJ cost_NN1 of_IO a_AT1 node_NN1 is_VBZ positive_JJ ,_, and_CC the_AT lower_JJR (_( or_CC best_JJT )_) bound_VVD on_II the_AT contribution_NN1 of_IO all_DB the_AT boards_NN2 left_VVD to_TO examine_VVI does_VDZ not_XX outweigh_VVI the_AT current_JJ reduced_JJ cost_NN1 ,_, then_RT there_EX is_VBZ no_AT way_NN1 the_AT branch_NN1 will_VM ever_RR be_VBI negative_JJ and_CC we_PPIS2 can_VM prune_VVI it_PPH1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 the_AT potential_NN1 of_IO a_AT1 node_NN1 to_TO be_VBI the_AT lower_JJR bound_NN1 on_II the_AT reduced_JJ cost_NN1 contribution_NN1 of_IO the_AT remaining_JJ boards_NN2 ,_, or_CC ,_, where_CS R_ZZ1 is_VBZ the_AT set_NN1 of_IO all_DB remaining_JJ boards_NN2 ._. 
+</s>
+<s>
+Since_CS this_DD1 is_VBZ a_AT1 lower_JJR bound_NN1 on_II the_AT contribution_NN1 of_IO the_AT remaining_JJ boards_NN2 ,_, if_CS the_AT current_JJ reduced_JJ cost_NN1 plus_II the_AT potential_NN1 is_VBZ not_XX negative_JJ ,_, then_RT we_PPIS2 can_VM prune_VVI the_AT current_JJ node_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM hopefully_RR save_VVI us_PPIO2 some_DD time_NNT1 when_RRQ we_PPIS2 near_VV0 the_AT bottom_NN1 of_IO the_AT tree_NN1 ._. 
+</s>
+<s>
+We_PPIS2 attempted_VVD to_TO implement_VVI this_DD1 pruning_NN1 scheme_NN1 ,_, but_CCB unfortunately_RR were_VBDR stymied_VVN by_II our_APPGE lack_NN1 of_IO object-oriented_JJ programming_NN1 knowledge_NN1 ,_, and_CC we_PPIS2 could_VM not_XX figure_VVI out_RP a_AT1 way_NN1 to_TO store_VVI all_DB the_AT data_NN of_IO the_AT tree_NN1 in_II Matlab_NP1 ._. 
+</s>
+<s>
+Here_RL again_RT ,_, formulating_VVG the_AT data_NN structures_NN2 proved_VVD to_TO be_VBI the_AT most_RGT difficult_JJ part_NN1 of_IO the_AT implementation_NN1 ,_, which_DDQ is_VBZ itself_PPX1 the_AT most_RGT difficult_JJ part_NN1 of_IO testing_VVG the_AT idea_NN1 ._. 
+</s>
+<s>
+With_IW this_DD1 notion_NN1 of_IO potential_NN1 in_II hand_NN1 ,_, we_PPIS2 are_VBR now_RT prepared_VVN to_TO understand_VVI the_AT final_JJ solution_NN1 ,_, though_CS it_PPH1 probably_RR would_VM have_VHI taken_VVN us_PPIO2 another_DD1 semester_NN1 (_( or_CC at_RR21 least_RR22 another_DD1 half_DB a_AT1 semester_NN1 )_) to_TO arrive_VVI at_II it_PPH1 on_II our_APPGE own_DA ._. 
+</s>
+<s>
+The_AT final_JJ solution_NN1 involved_VVD a_AT1 slightly_RR modified_JJ version_NN1 of_IO this_DD1 potential_NN1 ._. 
+</s>
+<s>
+The_AT potential_NN1 we_PPIS2 defined_VVD above_RL assumes_VVZ each_DD1 board_NN1 is_VBZ manufactured_VVN according_II21 to_II22 its_APPGE own_DA optimal_JJ setup_NN1 ,_, which_DDQ we_PPIS2 know_VV0 is_VBZ almost_RR guaranteed_VVN not_XX to_TO happen_VVI in_II an_AT1 actual_JJ solution_NN1 ._. 
+</s>
+<s>
+So_RR how_RRQ do_VD0 you_PPY take_VVI that_DD1 into_II account_NN1 ?_? 
+</s>
+<s>
+We_PPIS2 could_VM say_VVI that_CST we_PPIS2 must_VM account_VVI for_IF the_AT cost_NN1 of_IO manufacturing_VVG all_DB the_AT remaining_JJ boards_NN2 together_RL ,_, i.e._REX if_CS we_PPIS2 had_VHD three_MC boards_NN2 left_VVD to_TO examine_VVI ,_, the_AT potential_NN1 would_VM be_VBI Why_RRQ would_VM the_AT algorithm_NN1 take_VVI so_RG very_RG long_JJ to_TO find_VVI a_AT1 solution_NN1 that_CST it_PPH1 already_RR had_VHN to_TO begin_VVI with_IW ?_? 
+</s>
+<s>
+(_( All_DB instances_NN2 started_VVD with_IW an_AT1 initial_JJ set_NN1 of_IO columns_NN2 consisting_VVG of_IO the_AT identity_NN1 ,_, the_AT exhaustive_JJ set_NN1 ,_, all_DB 2_MC board_NN1 clusters_NN2 ,_, all_DB 3_MC board_NN1 clusters_NN2 ,_, all_DB n-2_FO board_NN1 clusters_NN2 ,_, and_CC all_DB n-3_FO board_NN1 clusters_NN2 ._. )_) 
+</s>
+<s>
+The_AT answer_NN1 belongs_VVZ to_II our_APPGE old_JJ friend_NN1 ,_, degeneracy_NN1 ._. 
+</s>
+<s>
+In_II a_AT1 situation_NN1 where_RRQ the_AT optimal_JJ solution_NN1 is_VBZ the_AT exhaustive_JJ set_NN1 ,_, you_PPY have_VH0 n-1_FO degenerate_JJ variables_NN2 with_IW value_NN1 zero_NN1 and_CC 1_MC1 variable_NN1 (_( the_AT exhaustive_JJ set_NN1 )_) with_IW value_NN1 one_MC1 ._. 
+</s>
+<s>
+The_AT algorithm_NN1 will_VM continue_VVI to_TO find_VVI negative_JJ reduced_JJ cost_NN1 clusters_NN2 ,_, because_CS it_PPH1 thinks_VVZ it_PPH1 can_VM make_VVI the_AT objective_JJ value_NN1 better_RRR ,_, except_CS all_DB those_DD2 negative_JJ reduced_JJ cost_NN1 columns_NN2 enter_VV0 into_II the_AT basis_NN1 with_IW value_NN1 zero_NN1 ,_, and_CC so_RR have_VH0 no_AT effect_NN1 on_II the_AT objective_JJ value_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR nearly_RR as_RG many_DA2 combinations_NN2 of_IO n-1_FO boards_NN2 as_CSA there_EX are_VBR of_IO n_ZZ1 boards_NN2 ,_, and_CC you_PPY can_VM cycle_NN1 through_II most_DAT of_IO them_PPHO2 without_IW seeing_VVG any_DD change_NN1 in_II the_AT objective_NN1 ._. 
+</s>
+<s>
+The_AT problem_NN1 is_VBZ that_CST you_PPY have_VH0 to_TO find_VVI those_DD2 degenerate_JJ columns_NN2 and_CC pivot_VVI them_PPHO2 in_RP ,_, otherwise_RR you_PPY will_VM never_RR know_VVI that_CST you_PPY are_VBR optimal_JJ ,_, because_CS there_EX will_VM still_RR be_VBI negative_JJ reduced_JJ cost_NN1 columns_NN2 out_RP there_RL ._. 
+</s>
+<s>
+So_RR how_RRQ can_VM you_PPY avoid_VVI this_DD1 seemingly_RR endless_JJ degenerate_JJ pivoting_JJ ?_? 
+</s>
+<s>
+You_PPY ca_VM n't_XX ,_, basically_RR ,_, without_IW exploiting_VVG some_DD sort_NN1 of_IO problem_NN1 structure_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 instance_NN1 ,_, we_PPIS2 noticed_VVD that_CST the_AT cost_NN1 of_IO the_AT exhaustive_JJ column_NN1 is_VBZ So_RR we_PPIS2 have_VH0 a_AT1 solution_NN1 ,_, or_CC more_RGR rather_RR ,_, a_AT1 way_NN1 to_TO obtain_VVI a_AT1 solution_NN1 ._. 
+</s>
+<s>
+Was_VBDZ that_DD1 not_XX the_AT point_NN1 of_IO the_AT class_NN1 ?_? 
+</s>
+<s>
+Well_RR ,_, we_PPIS2 have_VH0 a_AT1 way_NN1 to_TO find_VVI a_AT1 solution_NN1 to_II the_AT root_NN1 node_NN1 of_IO the_AT master_NN1 problem_NN1 ,_, but_CCB what_DDQ if_CS the_AT root_NN1 node_NN1 is_VBZ fractional_JJ ?_? 
+</s>
+<s>
+Then_RT you_PPY have_VH0 to_TO branch_VVI (_( and_CC bound_VVN )_) to_TO get_VVI an_AT1 integer_NN1 solution_NN1 ._. 
+</s>
+<s>
+Surprisingly_RR ,_, branching_VVG within_II the_AT confines_NN2 of_IO column_NN1 generation_NN1 turns_VVZ out_RP to_TO be_VBI quite_RG challenging_JJ ._. 
+</s>
+<s>
+The_AT traditional_JJ way_NN1 to_TO branch_VVI takes_NN2 a_AT1 fractional_JJ variable_NN1 ,_, x_ZZ1 ,_, and_CC says_VVZ it_PPH1 has_VHZ to_TO be_VBI less_DAR than_CSN or_CC equal_JJ to_II Branching_VVG in_II this_DD1 problem_NN1 turns_VVZ out_RP to_TO be_VBI much_RR simpler_JJR than_CSN one_PN1 might_VM initially_RR think_VVI ._. 
+</s>
+<s>
+If_CS we_PPIS2 have_VH0 a_AT1 cluster_NN1 ,_, say_VV0 boards_NN2 2_MC and_CC 3_MC ,_, that_DD1 is_VBZ fractional_JJ ,_, instead_II21 of_II22 setting_VVG x2,3_FO to_TO be_VBI zero_MC or_CC one_MC1 ,_, we_PPIS2 can_VM define_VVI the_AT branching_JJ in_II31 terms_II32 of_II33 "_" togetherness_NN1 ._. "_" 
+</s>
+<s>
+If_CS we_PPIS2 want_VV0 to_TO set_VVI x2,3_FO to_II one_MC1 ,_, another_DD1 way_NN1 of_IO saying_VVG that_DD1 is_VBZ we_PPIS2 always_RR want_VV0 boards_NN2 2_MC and_CC 3_MC together_RL ,_, so_RR whenever_RRQV we_PPIS2 add_VV0 board_NN1 2_MC ,_, we_PPIS2 automatically_RR add_VV0 board_NN1 3_MC in_RP with_IW it_PPH1 ._. 
+</s>
+<s>
+Continuing_VVG in_II this_DD1 fashion_NN1 ,_, we_PPIS2 can_VM create_VVI a_AT1 togetherness_NN1 web_NN1 --_NN1 board_NN1 1_MC1 is_VBZ with_IW board_NN1 4_MC ,_, boards_NN2 2_MC and_CC 3_MC are_VBR with_IW board_NN1 7_MC ,_, board_NN1 5_MC is_VBZ not_XX with_IW 4_MC ,_, etc_RA ._. 
+</s>
+<s>
+And_CC this_DD1 will_VM eventually_RR allow_VVI us_PPIO2 to_TO determine_VVI our_APPGE integer_NN1 solution_NN1 without_IW violating_VVG the_AT needs_NN2 of_IO the_AT subproblem_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN a_AT1 long_JJ ,_, crazy_JJ journey_NN1 on_II the_AT road_NN1 to_II this_DD1 solution_NN1 ._. 
+</s>
+<s>
+But_CCB in_II this_DD1 journey_NN1 as_CSA in_II most_DAT ,_, what_DDQ is_VBZ most_RGT important_JJ is_VBZ not_XX the_AT destination_NN1 ,_, but_CCB the_AT path_NN1 taken_VVN to_TO arrive_VVI there_RL and_CC the_AT experiences_NN2 gained_VVN along_II the_AT way_NN1 ._. 
+</s>
+<s>
+The_AT two_MC most_RGT important_JJ things_NN2 I_PPIS1 learned_VVD from_II this_DD1 course_NN1 were_VBDR the_AT importance_NN1 of_IO thinking_VVG flexibly_RR about_II problems_NN2 ,_, and_CC that_DD1 implementation_NN1 is_VBZ a_AT1 pain_NN1 ._. 
+</s>
+<s>
+We_PPIS2 explored_VVD the_AT depths_NN2 of_IO frustration_NN1 ,_, we_PPIS2 mounted_VVD the_AT pinnacles_NN2 of_IO success_NN1 ,_, and_CC saw_VVD that_DD1 research_NN1 is_VBZ truly_RR an_AT1 up_RP and_CC down_RP process_NN1 --_NN1 some_DD of_IO the_AT things_NN2 you_PPY try_VV0 work_VV0 out_RP nicely_RR ,_, most_DAT of_IO them_PPHO2 will_VM not_XX ;_; and_CC you_PPY 've_VH0 got_VVN to_TO learn_VVI to_TO roll_VVI with_IW the_AT punches_NN2 ._. 
+</s>
+<s>
+On_II the_AT more_RGR practical_JJ side_NN1 ,_, this_DD1 course_NN1 really_RR gave_VVD us_PPIO2 a_AT1 firm_JJ handle_NN1 on_II what_DDQ exactly_RR column_NN1 generation_NN1 is_VBZ and_CC what_DDQ sorts_NN2 of_IO problems_NN2 we_PPIS2 can_VM adapt_VVI to_TO fit_VVI it_PPH1 ._. 
+</s>
+<s>
+Column_NN1 generation_NN1 is_VBZ a_AT1 massively_RR powerful_JJ technique_NN1 ,_, yet_RR elegant_JJ in_II its_APPGE simplicity_NN1 ._. 
+</s>
+<s>
+I_PPIS1 very_RG much_RR enjoyed_VVD getting_VVG my_APPGE hands_NN2 dirty_VV0 with_IW the_AT nitty_JJ gritty_JJ of_IO it_PPH1 all_DB ._. 
+</s>
+<s>
+We_PPIS2 learned_VVD about_II degeneracy_NN1 ,_, and_CC what_DDQ a_AT1 pain_NN1 that_CST can_VM be_VBI ._. 
+</s>
+<s>
+We_PPIS2 learned_VVD about_II LP_NN1 relaxations_NN2 and_CC how_RGQ important_JJ a_AT1 good_JJ formulation_NN1 can_VM be_VBI if_CS you_PPY ever_RR want_VV0 to_TO solve_VVI your_APPGE problem_NN1 ._. 
+</s>
+<s>
+We_PPIS2 saw_VVD that_CST big_JJ M_MC221 's_MC222 are_VBR almost_RR always_RR bad_JJ news_NN1 ,_, which_DDQ will_VM definitely_RR encourage_VVI me_PPIO1 to_TO look_VVI for_IF other_JJ ways_NN2 to_TO model_VVI my_APPGE problems_NN2 from_II here_RL on_II out_RP ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT things_NN2 that_CST will_VM really_RR help_VVI me_PPIO1 in_II the_AT future_NN1 is_VBZ the_AT ability_NN1 to_TO look_VVI at_II a_AT1 fractional_JJ solution_NN1 ,_, and_CC think_VV0 about_II why_RRQ it_PPH1 is_VBZ fractional_JJ ,_, step-by-step_NN1 ._. 
+</s>
+<s>
+Because_CS many_DA2 of_IO the_AT problems_NN2 you_PPY model_VV0 as_CSA integer_NN1 programs_NN2 will_VM ,_, in_II fact_NN1 ,_, turn_VV0 out_RP to_TO be_VBI fractional_JJ ,_, and_CC many_DA2 of_IO them_PPHO2 will_VM make_VVI no_AT sense_NN1 as_II21 to_II22 why_RRQ they_PPHS2 are_VBR fractional_JJ ._. 
+</s>
+<s>
+Being_VBG able_JK to_TO analyze_VVI a_AT1 problem_NN1 in_II the_AT detail_NN1 we_PPIS2 did_VDD in_II this_DD1 course_NN1 ,_, I_PPIS1 think_VV0 will_VM help_VVI me_PPIO1 a_RR31 great_RR32 deal_RR33 in_II my_APPGE future_JJ research_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR saw_VVD how_RRQ to_TO exploit_VVI problem_NN1 structure_NN1 ,_, and_CC what_DDQ great_JJ advantages_NN2 that_CST can_VM give_VVI you_PPY ._. 
+</s>
+<s>
+From_RT31 now_RT32 on_RT33 ,_, I_PPIS1 will_VM know_VVI to_TO always_RR look_VVI for_IF symmetry_NN1 in_II my_APPGE models_NN2 ,_, to_TO see_VVI if_CSW there_EX is_VBZ a_AT1 way_NN1 I_PPIS1 can_VM reduce_VVI the_AT number_NN1 of_IO variables_NN2 ,_, and_CC thus_RR the_AT complexity_NN1 of_IO my_APPGE problem_NN1 ._. 
+</s>
+<s>
+We_PPIS2 learned_VVD about_II branching_JJ --_NN1 what_DDQ had_VHD formerly_RR seemed_VVN like_II a_AT1 fairly_RR straightforward_JJ process_NN1 is_VBZ now_RT even_RR more_DAR of_IO a_AT1 mystery_NN1 ._. 
+</s>
+<s>
+I_PPIS1 ca_VM n't_XX say_VVI that_CST I_PPIS1 gained_VVD any_DD deep_JJ insight_NN1 into_II branching_JJ strategies_NN2 ,_, except_CS21 that_CS22 I_PPIS1 more_RRR fully_RR understand_VV0 their_APPGE vast_JJ complexity_NN1 ._. 
+</s>
+<s>
+I_PPIS1 did_VDD learn_VVI ,_, however_RR ,_, how_RRQ to_TO critically_RR attack_VVI branching_JJ strategies_NN2 ,_, and_CC the_AT process_NN1 one_PN1 would_VM go_VVI through_RP to_TO try_VVI and_CC evaluate_VVI them_PPHO2 ,_, which_DDQ I_PPIS1 think_VV0 will_VM probably_RR be_VBI useful_JJ in_II the_AT future_NN1 ._. 
+</s>
+<s>
+We_PPIS2 saw_VVD that_CST using_VVG a_AT1 programming_NN1 language_NN1 without_IW good_JJ references_NN2 can_VM be_VBI frustrating_JJ in_II the_AT extreme_JJ ._. 
+</s>
+<s>
+The_AT majority_NN1 of_IO my_APPGE AMPL_NN1 questions_NN2 were_VBDR answered_VVN not_XX by_II the_AT manual_NN1 ,_, but_CCB by_II other_JJ students_NN2 in_II the_AT department_NN1 who_PNQS had_VHD wrestled_VVN with_IW these_DD2 exact_JJ same_DA questions.1_FO But_CCB perhaps_RR most_RGT importantly_RR ,_, we_PPIS2 now_RT have_VH0 a_AT1 whole_JJ toolbox_NN1 full_JJ of_IO skills_NN2 to_TO use_VVI when_RRQ we_PPIS2 are_VBR attacking_VVG a_AT1 problem_NN1 that_CST just_JJ will_VM not_XX budge_VVI -- you_PPY can_VM take_VVI the_AT dual_JJ of_IO the_AT problem_NN1 and_CC see_VV0 if_CSW that_DD1 gets_VVZ you_PPY anywhere_RL ,_, you_PPY can_VM try_VVI to_TO reformulate_VVI it_PPH1 using_VVG entirely_RR different_JJ variables_NN2 ,_, you_PPY can_VM look_VVI to_TO exploit_VVI problem_NN1 structure_NN1 ,_, you_PPY can_VM closely_RR examine_VVI the_AT branching_JJ strategy_NN1 and_CC see_VVI if_CS you_PPY can_VM gain_VVI any_DD insight_NN1 ..._... 
+</s>
+<s>
+Many_DA2 of_IO these_DD2 approaches_NN2 I_PPIS1 never_RR would_VM have_VHI considered_VVN before_II taking_VVG this_DD1 course_NN1 ._. 
+</s>
+<s>
+I_PPIS1 feel_VV0 like_CS I_PPIS1 am_VBM much_RR better_RRR prepared_VVN to_TO face_VVI the_AT frustrations_NN2 and_CC difficulties_NN2 that_CST inevitably_RR face_VV0 researchers_NN2 now_RT ._. 
+</s>
+<s>
+(_( Which_DDQ is_VBZ not_XX to_TO say_VVI I_PPIS1 am_VBM prepared_VVN ,_, per_RR21 se_RR22 ,_, simply_RR more_RGR prepared_JJ than_CSN I_PPIS1 was_VBDZ previously_RR ._. )_) 
+</s>
+<s>
+I_PPIS1 really_RR wish_VV0 we_PPIS2 had_VHD someone_PN1 who_PNQS knew_VVD how_RRQ to_TO write_VVI a_AT1 ._. run_VV0 file_NN1 that_CST would_VM allow_VVI us_PPIO2 to_TO test_VVI the_AT non-linear_JJ model_NN1 ._. 
+</s>
+<s>
+I_PPIS1 would_VM be_VBI very_RG interested_JJ to_TO see_VVI how_RRQ it_PPH1 behaves_VVZ and_CC if_CS ,_, in_II fact_NN1 ,_, it_PPH1 would_VM get_VVI us_PPIO2 close_VV0 enough_RR to_II an_AT1 optimal_JJ solution_NN1 that_CST then_RT we_PPIS2 could_VM throw_VVI it_PPH1 at_II the_AT symmetric_JJ model_NN1 and_CC prove_VV0 optimality_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT real_JJ way_NN1 to_TO know_VVI without_IW writing_VVG that_DD1 ._. run_VV0 file_NN1 ,_, but_CCB it_PPH1 seems_VVZ like_II it_PPH1 would_VM be_VBI so_RG simple_JJ ,_, and_CC the_AT results_NN2 so_RG fascinating_JJ ._. 
+</s>
+<s>
+I_PPIS1 also_RR feel_VV0 like_CS we_PPIS2 had_VHD some_DD interesting_JJ intuition_NN1 about_II other_JJ branching_JJ strategies_NN2 right_RR there_RL at_II the_AT end_NN1 that_CST might_VM have_VHI been_VBN interesting_JJ to_TO explore_VVI ._. 
+</s>
+<s>
+Not_XX that_CST it_PPH1 would_VM have_VHI been_VBN particularly_RR fruitful_JJ (_( given_VVN all_DB the_AT other_JJ complexities_NN2 of_IO the_AT problem_NN1 )_) but_CCB I_PPIS1 would_VM think_VVI with_IW a_RR21 little_RR22 more_RRR work_VV0 we_PPIS2 might_VM be_VBI able_JK to_TO prove_VVI the_AT convexity_NN1 of_IO the_AT optimal_JJ function_NN1 ;_; it_PPH1 definitely_RR seems_VVZ like_II it_PPH1 should_VM be_VBI convex_JJ ,_, and_CC my_APPGE dreams_NN2 would_VM be_VBI sweeter_JJR knowing_JJ that_CST it_PPH1 was_VBDZ ._. 
+</s>
+<s>
+Additionally_RR ,_, I_PPIS1 would_VM have_VHI liked_VVN to_TO revisit_VVI the_AT idea_NN1 of_IO genetic_JJ algorithms_NN2 to_TO see_VVI if_CS we_PPIS2 could_VM concoct_VVI a_AT1 heuristic_JJ using_VVG breeding_NN1 that_CST would_VM get_VVI us_PPIO2 close_RR to_II the_AT optimal_JJ solution_NN1 ._. 
+</s>
+<s>
+And_CC while_CS I_PPIS1 am_VBM sure_JJ there_EX could_VM be_VBI multiple_JJ semesters_NN2 taught_VVN on_II Dushant_NP1 's_GE local_JJ neighborhood_NN1 search_NN1 mechanisms_NN2 ,_, I_PPIS1 would_VM have_VHI enjoyed_VVN at_RR21 least_RR22 a_AT1 little_JJ glimpse_NN1 into_II that_DD1 world_NN1 ._. 
+</s>
+<s>
+It_PPH1 also_RR would_VM have_VHI been_VBN interesting_JJ to_TO look_VVI at_II the_AT lagrangian_JJ relaxation_NN1 --_NN1 I_PPIS1 do_VD0 not_XX know_VVI much_RR about_II lagrangian_JJ relaxations_NN2 ,_, except_II what_DDQ I_PPIS1 saw_VVD in_II 518_MC ,_, Intro_NP1 to_II Integer_NN1 Programming_NN1 ,_, but_CCB they_PPHS2 seemed_VVD to_TO be_VBI powerful_JJ tools_NN2 to_TO help_VVI solve_VVI integer_NN1 programs_NN2 with_IW nasty_JJ constraints_NN2 ._. 
+</s>
+<s>
+I_PPIS1 feel_VV0 like_CS I_PPIS1 finally_RR have_VH0 a_AT1 handle_NN1 on_II degeneracy_NN1 for_IF the_AT first_MD time_NNT1 in_II my_APPGE life_NN1 ,_, which_DDQ is_VBZ rather_RG exciting_JJ ._. 
+</s>
+<s>
+That_DD1 said_VVD ,_, I_PPIS1 still_RR would_VM have_VHI enjoyed_VVN looking_VVG at_II different_JJ situations_NN2 where_RRQ we_PPIS2 can_VM exploit_VVI problem_NN1 structure_NN1 to_TO avoid_VVI degeneracy_NN1 ,_, since_CS I_PPIS1 feel_VV0 that_DD1 is_VBZ one_MC1 of_IO the_AT more_RGR important_JJ skills_NN2 I_PPIS1 gained_VVD from_II this_DD1 class_NN1 ._. 
+</s>
+<s>
+People_NN have_VH0 talked_VVN about_II Bender_NP1 's_GE decomposition_NN1 ,_, but_CCB I_PPIS1 had_VHD never_RR even_RR heard_VVN of_IO Bender_NP1 's_GE decomposition_NN1 until_CS this_DD1 class_NN1 ._. 
+</s>
+<s>
+Dantzig-Wolfe_NP1 decomposition_NN1 blew_VVD my_APPGE mind_NN1 --_NN1 I_PPIS1 hazard_VV0 to_TO guess_VVI what_DDQ Bender_NP1 's_GE decomposition_NN1 would_VM have_VHI done_VDN to_II me_PPIO1 ._. 
+</s>
+<s>
+And_CC that_DD1 ,_, as_CSA they_PPHS2 say_VV0 ,_, is_VBZ all_DB she_PPHS1 wrote_VVD ._. 
+</s>

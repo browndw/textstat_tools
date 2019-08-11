@@ -1,0 +1,78 @@
+Walking robots have been a popular science fiction fantasy since the mid 20th century. The control community has been actively working on this problem for several decades. Various methods are used; one of the easiest to implement in practice is a robot with 4-6 legs to solve the balancing problem. Bipedal, human-like walking is much more difficult.
+Human walking is fundamentally difficult to emulate because it is a highly dynamic process with many states and little static stability. Many existing bipedal robots get around this problem by altering the gait properties to eliminate the dynamic balancing problem; Honda's Asimo is perhaps the most famous example. This method is termed the "Zero Moment Point" method and is discussed in Section 2.
+The goal of this project is to study the bipedal locomotion problem using nonlinear control techniquesin a systematic way. Stable walkinggaits correspond to stableperiodic orbitsinthe state space. Byusing a variety oftechniques, controlis appliedto createthese orbits, specific orbits are identified, and their stability can be proven. These controllers are then simulated on the full-dimensional robot model and shown to create the desired walking gait.
+These methods have been extensively developed and applied to complicated robots [2], including hardware testing on a 5-link robot. The work presented here applies the methods of[2] to a simple 3-link walker; All theorems and methods presented here can be found in [2]. The main techniques used are Lagrangian Dynamics, Poincare maps, hybrid systems, zero dynamics, and feedback linearization.
+The outline of this report is as follows: The robot continuous dynamics and impact map are derived. A simple walking gait is chosen. A periodic orbit is found and proved stable for two different types of controllers. The zero dynamics are studied. Finally, a more complicated, energy-efficient gait is studied.
+The basic idea of the Zero Moment Point Heuristic is to use actuated feet with small, flat-footed steps. In this way, the robot is statically stable at all points throughout a step and the control problem is simplified. The interaction forces between the robot and the ground are lumped into a single force with no moment acting at the "zero moment point". If one wanted to support the robot with a point force, it must act at this point.
+By designing the controller to keep this "zero moment point" within the support polygon of the robot, the robot will be statically stable. With one foot on the ground, the support polygon is the outline of the foot in contact with the ground. With both feet on the ground, it is the area between the outlying ground contact points, the front toe and back heel. This method is graphically illustrated in Figure 1.
+This method is based on static stability, so it works for slow, near-static gaits. For dynamic gaits, the results break down. This method does not provide a rigorous stability proof for dynamic gaits.
+During a typical walking gait, humans have large phases of underactuation as shown in Figure 2. During a typical step, the period during heel strike (start of a footfall) and toe roll (end of a footfall) consists of nearly point contact between the foot and the ground. During these phases the ankle and all other joints have no authority to impart moments between the robot and the ground. The zero moment point method cannot address this problem of point contact, and typical control methods will not work due to the unactuated degree of freedom. Therefore some sense of dynamic stability is required.
+To explicitly address this problem, the robot studied here has point feet. This forces the controller the continuously deal with the underactuation. Once methods are developed to deal with underactuated phases, they can be applied to more complicated robots with actuated ankles.
+The robot model studied for this project is the three-link walker showninFigure3. The robot has two legs of length r and a torso of length L. Each leg has a lumped mass m at the leg midpoint. There is a lumped hip mass MH and a lumped torso mass MT. The angles used to define the robot geometry are absolute angles measured with respect to the inertial frame.
+Through the course of the system analysis and design, there is significant symbolic math, even for this simple robot. While the calculations could be done by hand, most terms are evaluated using the symbolic toolbox in Matlab.
+The robot is described by a set of generalized coordinates
+Lagrane's equation is
+where
+and (2) takes the form
+where
+Similarly, for a torque
+To begin, the kinetic and potential energies are calculated by hand based on the system geometry. The only other quantity that must be calculated manually is the vector of generalized forces
+First, the equations of motion are derived for the stance phase, when one leg is always in contact with the ground. These dynamics are denoted with the subscript "s". The foot of the stance leg is motionless, so there are three degrees of freedom. The kinetic energy matrix denoted
+The potential energy
+the matrix
+The matrix
+Finally, the vector of generalized forces is
+where u represents the torque applied to the two legs.
+The stance phase dynamics of the robot are now completely described by
+For future use in deriving the impact model, the kinetic energy of the robot is also derived for the flight phase when there is no contact with the ground. There are now two additional degrees of freedom representing the horizontal and vertical positions of the robot, making five total degrees of freedom. The two additional states are appended to the end of the state vector q. The top left corner of the flight phase kinetic energy matrix
+Now that the continuous dynamics are solved for the stance phase, an impact model must be developed to describe what happens at foot impact. The development is sketched here, the reader is invited to consult [2] for technical proofs. The fundamental assumption used here is that the forces applied to the swing foot when it hits the ground are impulsive. With a relatively hard walking surface and rigid robot, these forces are very fast in comparison to the rest of the dynamics, so this assumption is reasonable. The main result of this assumption is that these instantaneous forces can produce a step change in the velocities of the robot, but not the configuration. Therefore,
+The first step is to augment the stance coordinates
+By "integrating" (14) over the instantaneous impact [2], the impact event must satisfy
+To relate forces in the inertial frame
+where
+These equations are simulatenously solved as
+Solving these equations yields the velocities after the impact,
+Normally, the switching surface in the state space corresponds to the swing leg foot impacting the ground. However, in a robot without knees, the swing leg will always scuff the ground when it crosses the other leg.
+For this case, ground impact is assumed to be initiated by the controller. The swing leg is assumed to touch the ground only when allowed by the controller. One way to do this is to have the swing leg pivot slightly outward; this puts it outside of the walking plane and it can rotate forward without ground contact. The leg is brought back inline to initiate contact. Another method is to have a small portion of the leg that can "pick up" to avoid ground contact. Both methods have been shown to work in hardware versions of robots without knees.
+The control designer must somehow specify the type of motion the robot will walk. Rather than specify time trajectories to follow, this is done by assigning a relationship between the various body configuration variables called a "virtual constraint". The controller then works to enforce these virtual contstraints between various joint angles. When these constraints are correctly enforced, the controlled joint states are defined, and the dynamics that remain are the "zero dynamics".
+To execute this method, first choose a generalized coordinate that is monotonically increasing during a step. For this robot, the angle of the stance leg
+Now, define the output functions
+When the output y is zero, dynamics have only 2 states,
+In order to enforce the virtual constraints, a feedback controller is used to drive the output y to zero. Feedback linearization and coordinate transformations are used to simplify the control problem. Several of the available stability theorems require the trajectories to be exactly on the zero dynamics manifold. Therefore a controller is required that zeros the output in finite time (within one step). In practice, a sufficiently fast exponential controller also works, so this type of controller is used as well.
+Assign the functions
+where
+and
+The parameters
+where
+An easier controller implementation is an exponential controller for the input-output linearized system. For this method, the control input is
+where K1 and K2 are turning matrices.
+To simulate the robot dynamics, two distinct steps are required. Starting at some initial condition, the continuous dynamics evolve according to (12) until the trajectory intersects the switching surface S. At this point, the reset/impact map
+A very simple walking gait with a stable orbit generated by assigning the virtual constraints as
+and, after applying the reset map
+Notice that the virtual constraint
+To study how the virtual constraints are implemented, the output function
+The walking dynamics of the robot can be modeled as an autonomous system with impulse effects
+The following hypotheses are assumed about system
+In addition, the following hypotheses are applied to an invariant submanifold of the system
+Define the restricted Poincaré map
+where
+With impulse effects(28) satisfies the hypotheses HSH1-HSH5. Suppose furthermore that
+This theorem is used to prove the stability of the orbits described in Section 11 by checking the stability of the Poincaré return map. The main benefit of this theorem is that the stability check is carried out on the zero dynamics manifold rather than the full system dynamics. For this robot, this benefit means checking a one-dimensional system rather than the five-dimensional stability map of the full system. The zero dynamics of this model are the
+Next, an exponential controller is used to zero the output function h as described in Section 8.2. Using the exponential controller rather than the finite-time version means that the dynamics are no longer guaranteed to exactly converge to the zero dynamics manifold with each step. As long as the exponential controller is "fast enough", the resulting gait is very similar to that obtained with the finite-time controller. The same figures are shown here as for the finite time controller. The output h in plotted in Figure 11 for both finite-time and exponential controllers. Note that the output h does not reach zero with each step with the exponential controller, as it does with the finite time controller. Videos for this "simple gait" are available at [1].
+The hypotheses HS2 and HSH4 are strengthened to make the autonomous system with impulse effects (28) continuously differentiable.
+Without explicit mathematical definitions, let TI be the time until impact from any state x. Let S˜ be the points in S that map to an x that eventually intersects the switching surface again. The following Corollary can then be used to prove stability of the system with an exponential controller.
+By perturbing the initial conditions around the fixed point, the jacobian of the Poincaré map is numerically evaluated. Note that this is the jacobian on the switching surface and thus has five dimensions rather than the full six. The jacobian matrix is 5 x 5, and its eigenvalues are
+All the eigenvalues have magnitude less than one, so the fixed point for the exponential controller is stable. If the gains of the exponential controller are decreased, the eigenvalues become unstable, as does the orbit. This happens when the controller is no longer fast enough to bring the dynamics back to the zero dynamics manifold between steps.
+The dynamics of the system can also be studied by restricting the dynamics to the zero dynamics manifold. The virtual constraints are assumed to be enforced exactly, making
+This can be reduced to a reset map that determines the velocity on the zero dynamics manifold after impact
+For this robot and the gaits considered here, the function
+The zero dynamics are simulated by making
+By studying the stable orbits of the zero dynamics, one can find orbits of the full system by searching in a lower-dimensional space. Though not repeated here, theorems are available in [2] to prove that stable orbits of the zero dynamics are stable orbits of the full system under certain conditions. Results are available both for finite-time controllers and for "fast enough" exponential controllers.
+Table 2: Parameters for an optimized gait
+A more complicated gait was also simulated that is more energy efficient. This gait is defined by the virtual constraints
+where
+The output function h in (20) is now defined by these more complicated functions. The impact/reset map does not change. The full-dimensional system is simulated with a finite-time controller, and the results are shown in Figures 13-15. Note that
+Stable Periodic Orbit with exponential controller
+Full Dynamics
+Biped walking is a challenging problem due to complicated dynamics and large state space for all but the simplest models. A fundamental challenge is the natural underactuation that occurs with walking. A useful solution to this problem is to define walking gaits by virtual constraints rather than trajectory tracking. This yields robust, provably stable orbits of the system that correspond to walking. When these virtual constraints are satisfied, the dynamics of the system can be analyzed on the zero dynamics manifold, allowing the designer to study a lower-dimensional system.
+In this project, a 3-link biped walker was studied. The continuous dynamics and impact map were derived. Finite-time and exponential controllers were used to control joint angles, and the stability of the periodic orbit was proven for both cases. Two walking gaits were studied, a simple version and one that is more energy efficient.

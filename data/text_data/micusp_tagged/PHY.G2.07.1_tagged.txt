@@ -1,0 +1,159 @@
+<s>
+Epilepsy_NN1 ,_, one_MC1 of_IO the_AT most_RGT common_JJ neurological_JJ disorders_NN2 ,_, is_VBZ characterized_VVN by_II the_AT sudden_JJ onset_NN1 of_IO recurrent_JJ seizures_NN2 due_II21 to_II22 the_AT synchronous_JJ ring_NN1 of_IO populations_NN2 of_IO neurons_NN2 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT debilitating_JJ nature_NN1 of_IO seizures_NN2 and_CC the_AT fact_NN1 that_CST approximately_RR 1%_NNU of_IO the_AT population_NN1 suffers_VVZ from_II epilepsy_NN1 ,_, much_DA1 research_NN1 has_VHZ investigated_VVN the_AT dynamics_NN of_IO the_AT onset_NN1 of_IO seizures_NN2 with_IW the_AT hopes_NN2 of_IO developing_JJ methods_NN2 of_IO seizure_NN1 prediction_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+This_DD1 research_NN1 relies_VVZ primarily_RR on_II the_AT analysis_NN1 of_IO electroencephalogram_NN1 (_( EEG_NP1 )_) recordings_NN2 which_DDQ record_VV0 the_AT neural_JJ activity_NN1 of_IO epileptic_JJ patients_NN2 ._. 
+</s>
+<s>
+Many_DA2 different_JJ types_NN2 of_IO electrodes_NN2 can_VM be_VBI used_VVN to_TO record_VVI neural_JJ activity_NN1 ._. 
+</s>
+<s>
+The_AT least_RGT invasive_JJ type_NN1 of_IO EEG_NN1 is_VBZ the_AT scalp_NN1 EEG_NN1 in_II which_DDQ electrodes_NN2 are_VBR placed_VVN on_II the_AT outside_II21 of_II22 the_AT scalp_NN1 ,_, while_CS the_AT most_RGT invasive_JJ EEG_NN1 procedure_NN1 ,_, which_DDQ is_VBZ generally_RR reserved_VVN for_IF patients_NN2 awaiting_VVG surgery_NN1 ,_, involves_VVZ the_AT placement_NN1 of_IO depth_NN1 electrodes_VVZ into_II the_AT brain_NN1 itself_PPX1 ._. 
+</s>
+<s>
+The_AT recorded_JJ signal_NN1 varies_VVZ dependent_JJ upon_II the_AT type_NN1 of_IO electrode_NN1 used_VVD ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, a_AT1 scalp_NN1 EEG_NN1 records_VVZ the_AT signal_NN1 after_CS it_PPH1 has_VHZ passed_VVN through_II the_AT skull_NN1 which_DDQ likely_RR attenuates_VVZ and_CC modifies_VVZ the_AT signal_NN1 ,_, although_CS the_AT details_NN2 of_IO this_DD1 remain_VV0 unknown_JJ ._. 
+</s>
+<s>
+EEGs_NN2 recorded_VVN from_II depth_NN1 electrodes_NN2 remove_VV0 the_AT effects_NN2 of_IO the_AT skull_NN1 ,_, but_CCB still_RR record_VV0 the_AT activity_NN1 from_II a_AT1 population_NN1 of_IO neurons_NN2 ,_, and_CC the_AT placement_NN1 of_IO the_AT electrode_NN1 with_II31 respect_II32 to_II33 the_AT individual_JJ neurons_NN2 determines_VVZ how_RRQ each_DD1 neuron_NN1 's_GE activity_NN1 contributes_VVZ to_II the_AT signal_NN1 (_( 2_MC )_) ._. 
+</s>
+<s>
+Thus_RR ,_, while_CS EEG_NP1 recordings_NN2 give_VV0 important_JJ information_NN1 about_II neural_JJ activity_NN1 ,_, the_AT recorded_JJ signal_NN1 is_VBZ not_XX directly_RR linked_VVN to_II the_AT underlying_JJ dynamics_NN of_IO the_AT brain_NN1 ,_, and_CC while_CS analysis_NN1 of_IO the_AT EEG_NN1 signal_NN1 is_VBZ essential_JJ in_II epilepsy_NN1 research_NN1 ,_, it_PPH1 is_VBZ understood_VVN that_CST one_PN1 is_VBZ not_XX gaining_VVG information_NN1 about_II the_AT true_JJ dynamics_NN of_IO seizure_NN1 generation_NN1 and_CC propagation_NN1 ._. 
+</s>
+<s>
+Through_II the_AT analysis_NN1 of_IO EEG_NN1 recordings_NN2 ,_, it_PPH1 has_VHZ been_VBN shown_VVN that_CST one_PN1 can_VM identify_VVI a_AT1 preictal_JJ period_NN1 before_II the_AT onset_NN1 of_IO a_AT1 seizure_NN1 during_II which_DDQ various_JJ properties_NN2 of_IO the_AT EEG_NN1 time_NNT1 series_NN differ_VV0 from_II those_DD2 during_II interictal_JJ (_( normal_JJ activity_NN1 between_II seizures_NN2 )_) and_CC ictal_JJ (_( seizure_NN1 )_) periods_NN2 (_( 3_MC )_) ._. 
+</s>
+<s>
+This_DD1 change_NN1 in_II the_AT properties_NN2 of_IO the_AT EEG_NN1 signal_NN1 is_VBZ suggestive_JJ of_IO changes_NN2 in_II the_AT underlying_JJ dynamics_NN of_IO the_AT brain_NN1 ._. 
+</s>
+<s>
+Different_JJ types_NN2 of_IO analysis_NN1 have_VH0 been_VBN used_VVN depending_JJ of_IO the_AT type_NN1 of_IO EEG_NP1 recording_NN1 being_VBG studied_VVN ,_, but_CCB one_MC1 way_NN1 of_IO characterizing_VVG this_DD1 preictal_JJ period_NN1 is_VBZ to_TO examine_VVI measures_NN2 of_IO phase_NN1 synchronization_NN1 between_II different_JJ channels_NN2 of_IO intracranial_JJ EEG_NN1 recordings_NN2 from_II depth_NN1 electrodes_NN2 ._. 
+</s>
+<s>
+Phase_NN1 synchronization_NN1 refers_VVZ to_II the_AT state_NN1 where_CS the_AT phases_NN2 of_IO two_MC oscillators_NN2 become_VV0 locked_JJ but_CCB their_APPGE amplitudes_NN2 remain_VV0 uncorrelated_JJ (_( 4_MC )_) ._. 
+</s>
+<s>
+Measures_NN2 of_IO synchronization_NN1 show_VV0 that_CST EEG_VV0 channels_NN2 exhibit_VV0 high_JJ levels_NN2 of_IO phase_NN1 synchronization_NN1 during_II interictal_JJ and_CC ictal_JJ periods_NN2 (_( 5_MC ,_, 6_MC ,_, 7_MC ,_, 8_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, in_II patients_NN2 who_PNQS suffer_VV0 from_II focal_JJ point_NN1 epilepsy_NN1 --_NN1 a_AT1 pathological_JJ condition_NN1 in_II which_DDQ seizure_NN1 generation_NN1 occurs_VVZ in_II a_AT1 specific_JJ location_NN1 (_( focus_NN1 )_) in_II the_AT brain_NN1 before_II spreading_VVG to_TO encompass_VVI all_DB neural_JJ activity_NN1 --_NN1 it_PPH1 has_VHZ been_VBN found_VVN that_CST there_EX is_VBZ a_AT1 drop_NN1 in_II the_AT level_NN1 of_IO phase_NN1 synchronization_NN1 during_II the_AT preictal_JJ period_NN1 ._. 
+</s>
+<s>
+While_CS the_AT cause_NN1 of_IO this_DD1 decrease_NN1 in_II synchronization_NN1 is_VBZ unknown_JJ ,_, it_PPH1 has_VHZ been_VBN hypothesized_VVN (_( 5_MC ,_, 7_MC )_) that_CST the_AT recordings_NN2 are_VBR in_II separate_JJ regions_NN2 of_IO synchronization_NN1 activity_NN1 :_: one_MC1 site_NN1 has_VHZ become_VVN involved_JJ in_II the_AT synchronous_JJ activity_NN1 associated_VVN with_IW the_AT focus_NN1 and_CC onset_NN1 of_IO the_AT seizure_NN1 ,_, while_CS the_AT other_JJ site_NN1 has_VHZ yet_RR to_TO become_VVI enveloped_VVN in_II this_DD1 activity_NN1 ._. 
+</s>
+<s>
+Testing_VVG this_DD1 hypothesis_NN1 at_II the_AT neuronal_JJ level_NN1 with_IW EEG_NP1 data_NN can_56 not_56 be_VBI done_VDN since_CS EEG_NP1 recordings_NN2 do_VD0 not_XX give_VVI direct_JJ information_NN1 about_II neuronal_JJ dynamics_NN ._. 
+</s>
+<s>
+We_PPIS2 thus_RR turn_VV0 to_II a_AT1 modeling_NN1 approach_NN1 to_TO gain_VVI further_JJR insight_NN1 into_II the_AT possible_JJ mechanisms_NN2 for_IF the_AT increased_JJ synchrony_NN1 observed_VVN during_II interictal_JJ periods_NN2 as_II31 well_II32 as_II33 the_AT drop_NN1 in_II synchrony_NN1 during_II the_AT preictal_JJ period_NN1 ._. 
+</s>
+<s>
+We_PPIS2 study_VV0 a_AT1 computational_JJ model_NN1 in_II which_DDQ two_MC coupled_JJ networks_NN2 of_IO integrate-and-fire_JJ neurons_NN2 model_VV0 separate_JJ EEG_NN1 recording_NN1 sites_NN2 ._. 
+</s>
+<s>
+Both_DB2 networks_NN2 have_VH0 a_AT1 small-world_NN1 (_( SW_ND1 )_) topology_NN1 (_( 9_MC )_) ,_, which_DDQ is_VBZ on_II the_AT border_NN1 of_IO the_AT transition_NN1 between_II local_JJ and_CC global_JJ synchrony_NN1 and_CC has_VHZ been_VBN shown_VVN to_TO mimic_VVI the_AT transition_NN1 from_II a_AT1 non-bursting_JJ regime_NN1 to_II the_AT bursting_JJ regime_NN1 observed_VVN during_II epilepsy_NN1 (_( 10_MC )_) ._. 
+</s>
+<s>
+Functional_JJ mappings_NN2 of_IO brain_NN1 activity_NN1 also_RR exhibit_VV0 a_AT1 SW_ND1 structure_NN1 and_CC suggest_VV0 that_CST the_AT underlying_JJ topology_NN1 is_VBZ SW_ND1 as_RR21 well_RR22 (_( 11_MC ,_, 12_MC )_) ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT rewiring_NN1 done_VDN to_TO create_VVI the_AT SWN_NP1 is_VBZ suggestive_JJ of_IO the_AT rewiring_NN1 of_IO neural_JJ circuitry_NN1 known_VVN as_II axonal_JJ sprouting_JJ which_DDQ is_VBZ common_JJ among_II epilepsy_NN1 patients_NN2 and_CC involves_VVZ the_AT addition_NN1 of_IO excitatory_JJ synapses_NN2 between_II different_JJ layers_NN2 of_IO the_AT brain_NN1 ._. 
+</s>
+<s>
+The_AT two_MC networks_NN2 are_VBR then_RT coupled_VVN so_CS21 that_CS22 the_AT dynamics_NN of_IO the_AT networks_NN2 are_VBR driven_VVN by_II the_AT internal_JJ dynamics_NN of_IO each_DD1 network_NN1 and_CC the_AT external_JJ ,_, mean-field_JJ type_NN1 of_IO signal_NN1 from_II the_AT other_JJ network_NN1 ._. 
+</s>
+<s>
+We_PPIS2 choose_VV0 one_MC1 network_NN1 to_TO be_VBI associated_VVN with_IW the_AT focal_JJ point_NN1 of_IO the_AT seizure_NN1 and_CC slowly_RR drive_VV0 this_DD1 network_NN1 into_II a_AT1 bursting_NN1 (_( seizing_VVG )_) state_VV0 by_II increasing_VVG the_AT excitability_NN1 of_IO the_AT neurons_NN2 within_II that_DD1 network_NN1 over_II time_NNT1 ._. 
+</s>
+<s>
+The_AT neural_JJ excitability_NN1 determines_VVZ the_AT amount_NN1 of_IO synaptic_JJ input_NN1 needed_VVD to_TO cause_VVI the_AT neurons_NN2 to_TO spike_VVI ._. 
+</s>
+<s>
+A_AT1 neuron_NN1 with_IW a_AT1 higher_JJR excitability_NN1 needs_VVZ less_RGR synaptic_JJ input_NN1 in_BCL21 order_BCL22 to_TO spike_VVI and_CC thus_RR will_VM have_VHI a_AT1 higher_JJR mean_JJ firing_NN1 rate_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT excitability_NN1 (_( and_CC therefore_RR mean_JJ firing_NN1 rate_NN1 )_) is_VBZ increased_VVN beyond_II a_AT1 threshold_NN1 value_NN1 ,_, the_AT network_NN1 enters_VVZ the_AT bursting_JJ state_NN1 in_II which_DDQ the_AT entire_JJ population_NN1 of_IO neurons_NN2 fire_VV0 synchronously_RR ._. 
+</s>
+<s>
+This_DD1 method_NN1 of_IO transition_NN1 into_II a_AT1 seizure_NN1 is_VBZ chosen_VVN to_TO mimic_VVI the_AT increased_JJ excitability_NN1 measured_VVN in_II neurons_NN2 which_DDQ have_VH0 been_VBN induced_VVN into_II an_AT1 epileptic_JJ state_NN1 under_II laboratory_NN1 conditions_NN2 (_( 13_MC )_) ._. 
+</s>
+<s>
+The_AT increase_NN1 in_II neuronal_JJ excitability_NN1 is_VBZ believed_VVN to_TO be_VBI due_II21 to_II22 an_AT1 imbalance_NN1 between_II activity_NN1 in_II excitatory_JJ and_CC inhibitory_JJ synapses_NN2 ._. 
+</s>
+<s>
+By_II summing_VVG the_AT synaptic_JJ activity_NN1 of_IO all_DB of_IO the_AT neurons_NN2 within_II a_AT1 given_JJ network_NN1 ,_, we_PPIS2 create_VV0 a_AT1 signal_NN1 representative_NN1 of_IO the_AT behavior_NN1 of_IO the_AT network_NN1 as_II a_AT1 whole_NN1 ._. 
+</s>
+<s>
+A_AT1 model_NN1 of_IO this_DD1 type_NN1 allows_VVZ for_IF analysis_NN1 of_IO the_AT levels_NN2 of_IO synchronization_NN1 over_II the_AT total_JJ population_NN1 of_IO the_AT networks_NN2 (_( similar_JJ to_II that_DD1 done_VDN using_VVG intracranial_JJ EEG_NN1 )_) as_II31 well_II32 as_II33 at_II the_AT level_NN1 of_IO the_AT individual_JJ neurons_NN2 ._. 
+</s>
+<s>
+We_PPIS2 can_VM relate_VVI the_AT excitability_NN1 parameter_NN1 to_II the_AT natural_JJ frequency_NN1 of_IO the_AT network_NN1 since_CS this_DD1 parameter_NN1 gives_VVZ information_NN1 about_II the_AT firing_NN1 rates_NN2 of_IO the_AT neurons_NN2 ._. 
+</s>
+<s>
+We_PPIS2 observe_VV0 increased_JJ levels_NN2 of_IO synchrony_NN1 between_II the_AT summed_JJ signals_NN2 of_IO each_DD1 network_NN1 around_II the_AT region_NN1 of_IO parameter_NN1 matching_VVG between_II the_AT two_MC networks_NN2 ._. 
+</s>
+<s>
+Here_RL ,_, the_AT neurons_NN2 in_II the_AT networks_NN2 share_VV0 the_AT same_DA distributions_NN2 of_IO frequencies_NN2 but_CCB are_VBR not_XX yet_RR in_II the_AT bursting_JJ state_NN1 ,_, and_CC we_PPIS2 associate_VV0 this_DD1 state_NN1 with_IW the_AT interictal_JJ regime_NN1 ._. 
+</s>
+<s>
+As_II the_AT excitability_NN1 of_IO one_MC1 network_NN1 is_VBZ increased_VVN and_CC the_AT natural_JJ frequencies_NN2 of_IO the_AT networks_NN2 no_RR21 longer_RR22 match_VV0 ,_, we_PPIS2 see_VV0 a_AT1 drop_NN1 in_II the_AT synchrony_NN1 as_CSA found_VVN during_II the_AT preictal_JJ stage_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT networks_NN2 enter_VV0 the_AT bursting_JJ regime_NN1 ,_, we_PPIS2 again_RT observe_VV0 high_JJ levels_NN2 of_IO synchrony_NN1 as_II the_AT bursting_JJ network_NN1 drives_VVZ the_AT other_JJ near_II different_JJ frequency_NN1 locking_VVG patterns_NN2 ,_, dependent_JJ on_II the_AT frequency_NN1 of_IO the_AT bursting_JJ network_NN1 ._. 
+</s>
+<s>
+Interestingly_RR ,_, examination_NN1 of_IO the_AT firing_NN1 rates_NN2 of_IO the_AT individual_JJ neurons_NN2 within_II the_AT driven_JJ network_NN1 indicates_VVZ that_CST the_AT behavior_NN1 of_IO the_AT network_NN1 as_II a_AT1 whole_NN1 is_VBZ not_XX necessarily_RR reflective_JJ of_IO the_AT behavior_NN1 of_IO the_AT neurons_NN2 but_CCB is_VBZ instead_RR a_AT1 combined_JJ result_NN1 of_IO their_APPGE firing_NN1 rates_NN2 and_CC relative_JJ phases_NN2 ._. 
+</s>
+<s>
+We_PPIS2 observe_VV0 that_CST during_II the_AT preictal_JJ period_NN1 the_AT neurons_NN2 in_II the_AT focus_NN1 exhibit_VV0 increased_JJ frequency_NN1 locking_VVG ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 locking_NN1 does_VDZ not_XX lead_VVI to_II increased_JJ synchrony_NN1 in_II that_DD1 network_NN1 ._. 
+</s>
+<s>
+We_PPIS2 thus_RR postulate_VV0 that_CST the_AT preictal_JJ period_NN1 marks_VVZ the_AT beginning_NN1 of_IO the_AT transition_NN1 from_II normal_JJ neural_JJ dynamics_NN into_II bursting_VVG dynamics_NN ,_, which_DDQ is_VBZ characterized_VVN by_II the_AT steady_JJ increase_NN1 and_CC locking_NN1 of_IO neuronal_JJ frequencies_NN2 that_CST leads_VVZ eventually_RR to_II an_AT1 increase_NN1 in_II neural_JJ activity_NN1 (_( bursting_VVG )_) ._. 
+</s>
+<s>
+This_DD1 transition_NN1 in_II the_AT focus_NN1 is_VBZ accompanied_VVN by_II an_AT1 initial_JJ lack_NN1 of_IO a_AT1 similar_JJ transition_NN1 in_II the_AT "_" normal_JJ "_" network_NN1 ,_, which_DDQ causes_VVZ the_AT divergence_NN1 of_IO intrinsic_JJ network_NN1 properties_NN2 and_CC a_AT1 drop_NN1 in_II the_AT phase_NN1 synchrony_NN1 ._. 
+</s>
+<s>
+We_PPIS2 associate_VV0 this_DD1 effect_NN1 with_IW a_AT1 resonance_NN1 effect_NN1 similar_JJ to_II that_DD1 of_IO stochastic_JJ resonance_NN1 which_DDQ is_VBZ known_VVN to_TO play_VVI an_AT1 important_JJ role_NN1 in_II other_JJ neural_JJ systems_NN2 such_II21 as_II22 the_AT electroreceptors_NN2 of_IO paddlefish_NN1 (_( 14_MC ,_, 15_MC )_) and_CC the_AT photoreceptors_NN2 of_IO crayfish_NN1 (_( 16_MC ,_, 17_MC )_) ._. 
+</s>
+<s>
+Therefore_RR ,_, we_PPIS2 hypothesize_VV0 that_CST the_AT observed_JJ drop_NN1 of_IO phase_NN1 synchrony_NN1 in_II EEG_NP1 recordings_NN2 is_VBZ in_II fact_NN1 an_AT1 early_JJ signature_NN1 of_IO the_AT pathological_JJ changes_NN2 in_II the_AT dynamics_NN of_IO the_AT focus_NN1 that_CST eventually_RR lead_VV0 to_II seizure-type_JJ dynamics_NN ._. 
+</s>
+<s>
+Assuming_VVG that_CST the_AT realization_NN1 of_IO this_DD1 pathological_JJ process_NN1 could_VM vary_VVI significantly_RR from_II patient_NN1 to_II patient_NN1 (_( i.e._REX a_AT1 different_JJ rate_NN1 of_IO transition_NN1 to_II ictal_JJ dynamics_NN and/or_CC a_AT1 different_JJ distance_NN1 in_II31 terms_II32 of_II33 the_AT necessary_JJ parameter_NN1 change_NN1 needed_VVD to_TO reach_VVI the_AT bursting_JJ threshold_NN1 )_) but_CCB should_VM be_VBI relatively_RR constant_JJ from_II seizure_NN1 to_II seizure_NN1 within_II the_AT same_DA patient_NN1 ,_, we_PPIS2 predict_VV0 the_AT length_NN1 of_IO the_AT preictal_JJ drop_NN1 of_IO the_AT phase_NN1 synchrony_NN1 should_VM show_VVI large_JJ inter-patient_NN1 and_CC reduced_VVD intra-patient_JJ variability_NN1 ._. 
+</s>
+<s>
+To_TO illustrate_VVI this_DD1 we_PPIS2 have_VH0 varied_VVN the_AT rate_NN1 of_IO change_NN1 in_II neuronal_JJ excitability_NN1 and_CC observe_VV0 that_CST repeatable_JJ realizations_NN2 of_IO the_AT interictal-ictal_JJ transition_NN1 for_IF the_AT same_DA rate_NN1 of_IO change_NN1 of_IO excitability_NN1 generate_VV0 relatively_RR repeatable_JJ preictal_JJ lengths_NN2 ._. 
+</s>
+<s>
+However_RR ,_, these_DD2 preictal_JJ lengths_NN2 vary_VV0 widely_RR for_IF different_JJ rates_NN2 of_IO change_NN1 in_II the_AT excitability_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR worth_II noting_VVG that_DD1 different_JJ realizations_NN2 of_IO the_AT same_DA network_NN1 topology_NN1 (_( the_AT same_DA rewiring_JJ parameter_NN1 for_IF both_DB2 networks_NN2 and_CC the_AT same_DA number_NN1 of_IO inter-network_JJ connections_NN2 )_) generate_VV0 different_JJ amounts_NN2 of_IO variance_NN1 in_II the_AT preictal_JJ lengths_NN2 for_IF the_AT same_DA rates_NN2 of_IO change_NN1 of_IO excitability_NN1 ._. 
+</s>
+<s>
+This_DD1 again_RT indicates_VVZ that_CST the_AT variance_NN1 in_II the_AT length_NN1 of_IO the_AT preictal_JJ period_NN1 could_VM differ_VVI from_II patient_NN1 to_II patient_NN1 ._. 
+</s>
+<s>
+We_PPIS2 hope_VV0 to_TO further_RRR explore_VVI the_AT effects_NN2 of_IO specific_JJ realizations_NN2 of_IO the_AT network_NN1 topology_NN1 in_II future_JJ research_NN1 ._. 
+</s>
+<s>
+In_II conclusion_NN1 ,_, we_PPIS2 have_VH0 created_VVN a_AT1 simple_JJ model_NN1 which_DDQ demonstrates_VVZ changes_NN2 in_II synchrony_NN1 consistent_JJ with_IW those_DD2 observed_VVN in_II EEG_NP1 recordings_NN2 from_II epilepsy_NN1 patients_NN2 ._. 
+</s>
+<s>
+Through_II analysis_NN1 of_IO our_APPGE model_NN1 ,_, we_PPIS2 propose_VV0 a_AT1 possible_JJ mechanism_NN1 for_IF the_AT dynamics_NN of_IO seizure_NN1 generation_NN1 and_CC propagation_NN1 in_II which_DDQ changes_VVZ in_II the_AT firing_NN1 frequency_NN1 of_IO neurons_NN2 in_II the_AT focus_NN1 cause_VV0 the_AT system_NN1 to_TO move_VVI out_II21 of_II22 a_AT1 resonance_NN1 state_NN1 as_II the_AT focus_NN1 transitions_NN2 from_II a_AT1 normal_JJ to_II bursting_VVG regime_NN1 ._. 
+</s>
+<s>
+This_DD1 bursting_JJ behavior_NN1 then_RT acts_VVZ as_II a_AT1 driving_JJ force_NN1 ,_, recruiting_VVG neurons_NN2 in_II a_AT1 previously_RR unaffected_JJ area_NN1 into_II the_AT bursting_JJ state_NN1 ._. 
+</s>
+<s>
+This_DD1 difference_NN1 in_II network_NN1 dynamics_NN during_II the_AT transition_NN1 from_II resonance_NN1 to_II bursting_NN1 leads_VVZ to_II the_AT observed_JJ drop_NN1 in_II phase_NN1 synchrony_NN1 ,_, and_CC differences_NN2 in_II the_AT rate_NN1 of_IO this_DD1 transition_NN1 between_II patients_NN2 could_VM explain_VVI the_AT large_JJ variance_NN1 in_II the_AT observed_JJ preictal_JJ lengths_NN2 in_II different_JJ patients_NN2 suffering_VVG from_II focal_JJ epilepsy_NN1 ._. 
+</s>

@@ -1,0 +1,444 @@
+<s>
+In_II Naming_VVG and_CC Necessity_NN1 (_( 1980_MC )_) Kripke_NP1 claims_VVZ that_CST there_EX are_VBR truths_NN2 that_CST are_VBR both_RR contingent_JJ and_CC known_VVN a_JJ21 priori_JJ22 ,_, and_CC others_NN2 that_CST are_VBR both_RR necessary_JJ and_CC a_RR21 posteriori_RR22 ._. 
+</s>
+<s>
+In_II this_DD1 paper_NN1 I_PPIS1 aim_VV0 at_II two_MC goals_NN2 :_: (_( 1_MC1 )_) to_TO study_VVI the_AT cases_NN2 of_IO necessary/a_FU posteriori_NN2 and_CC contingent/a_FU priori_NN2 truths_NN2 using_VVG Stalnaker_NP1 's_GE two_MC dimensional_JJ apparatus_NN1 ;_; and_CC ,_, given_VVN the_AT results_NN2 of_IO such_DA evaluation_NN1 ,_, (_( 2_MC )_) defend_VV0 that_CST there_EX is_VBZ a_AT1 puzzle_NN1 here_RL ,_, a_AT1 genuine_JJ philosophical_JJ befuddlement_NN1 that_CST should_VM be_VBI properly_RR solved_VVN ._. 
+</s>
+<s>
+Stalnaker_NP1 's_GE two_MC dimensional_JJ apparatus_NN1 is_VBZ a_AT1 technical_JJ device_NN1 that_CST is_VBZ meant_VVN to_TO be_VBI useful_JJ for_IF understanding_VVG a_AT1 particular_JJ kind_NN1 of_IO speech_NN1 act_NN1 ,_, that_DD1 of_IO assertion_NN1 ._. 
+</s>
+<s>
+It_PPH1 works_VVZ mainly_RR by_II accounting_VVG for_IF the_AT different_JJ things_NN2 (_( e.g._REX propositions_NN2 )_) that_CST might_VM be_VBI said_VVN by_II (_( i.e._REX expressed_JJ as_II the_AT content_NN1 of_IO )_) different_JJ assertive_JJ utterances_NN2 of_IO any_DD particular_JJ sentence_NN1 ._. 
+</s>
+<s>
+Assertions_NN2 are_VBR the_AT speech_NN1 acts_VVZ by_II which_DDQ we_PPIS2 communicate_VV0 truths_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ my_APPGE goal_NN1 to_TO find_VVI out_RP whether_CSW certain_JJ particular_JJ statements_NN2 express_VV0 truths_NN2 that_CST are_VBR both_RR necessary_JJ and_CC a_RR21 posteriori_RR22 ._. 
+</s>
+<s>
+Thus_RR if_CS there_EX are_VBR such_DA truths_NN2 we_PPIS2 could_VM ,_, at_RR21 least_RR22 in_II principle_NN1 ,_, assert_VV0 them_PPHO2 ._. 
+</s>
+<s>
+I_PPIS1 will_VM focus_VVI on_II the_AT content_JJ determination_NN1 feature_NN1 of_IO Stalnaker_NP1 's_GE apparatus_NN1 in_BCL21 order_BCL22 to_TO explore_VVI whether_CSW there_EX are_VBR any_DD assertions_NN2 that_CST may_VM communicate_VVI something_PN1 that_CST is_VBZ both_RR necessary_JJ and_CC a_AT1 posteriori.1_FO That_DD1 is_VBZ why_RRQ the_AT two_MC dimensional_JJ apparatus_NN1 is_VBZ relevant_JJ for_IF the_AT discussion_NN1 ._. 
+</s>
+<s>
+So_RR ,_, let_VV0 us_PPIO2 see_VVI how_RRQ the_AT apparatus_NN1 works_VVZ ._. 
+</s>
+<s>
+Some_DD definitions_NN2 are_VBR important_JJ to_TO bear_VVI in_II mind_NN1 :_: (_( W_ZZ1 )_) A_ZZ1 possible_JJ world_NN1 (_( w_ZZ1 from_RT31 now_RT32 on_RT33 )_) is_VBZ a_AT1 complete_JJ way_NN1 in_II which_DDQ the_AT world_NN1 might_VM be_VBI ._. 
+</s>
+<s>
+(_( P_ZZ1 )_) :_: A_AT1 proposition_NN1 (_( P_ZZ1 from_RT31 now_RT32 on_RT33 )_) is_VBZ a_AT1 representation_NN1 of_IO the_AT world_NN1 as_CSA being_VBG in_II a_AT1 certain_JJ way_NN1 (_( more_RGR formally_RR ,_, it_PPH1 is_VBZ a_AT1 function_NN1 from_II w_ZZ221 's_ZZ222 to_II truth_NN1 values_NN2 )_) ._. 
+</s>
+<s>
+(_( PC_NNU )_) A_ZZ1 propositional_JJ concept_NN1 (_( PC_NN1 from_RT31 now_RT32 on_RT33 )_) is_VBZ a_AT1 function_NN1 from_II ordered_JJ pairs_NN2 of_IO w_ZZ221 's_ZZ222 into_II truth_NN1 values_NN2 ._. 
+</s>
+<s>
+(_( SP_NN1 )_) A_ZZ1 speaker_NN1 presupposition_NN1 SP_NN1 is_VBZ a_AT1 proposition_NN1 the_AT truth_NN1 of_IO which_DDQ is_VBZ taken_VVN as_II a_AT1 background_NN1 assumption_NN1 for_IF the_AT conversation_NN1 ._. 
+</s>
+<s>
+(_( CS_NP2 )_) A_ZZ1 context_NN1 set_VVD CS_NP2 is_VBZ the_AT set_NN1 of_IO all_DB w_ZZ221 's_ZZ222 which_DDQ are_VBR compatible_JJ with_IW all_DB SP_NN1 's_GE ._. 
+</s>
+<s>
+Stalnaker_NP1 's_GE apparatus_NN1 has_VHZ the_AT following_JJ tenets_NN2 :_: (_( i_ZZ1 )_) An_AT1 utterance_NN1 U_ZZ1 of_IO a_AT1 sentence_NN1 S_ZZ1 expresses_VVZ a_AT1 proposition_NN1 P._NP1 (_( ii_MC )_) A_ZZ1 proposition_NN1 P_ZZ1 is_VBZ determined_VVN by_II the_AT set_NN1 of_IO w_ZZ221 's_ZZ222 which_DDQ it_PPH1 represents_VVZ ._. 
+</s>
+<s>
+(_( iii_MC )_) A_ZZ1 proposition_NN1 P_ZZ1 is_VBZ determined_VVN by_II the_AT set_NN1 of_IO w_ZZ221 's_ZZ222 in_II which_DDQ S_ZZ1 is_VBZ uttered_VVN ._. 
+</s>
+<s>
+(_( iv_MC )_) The_AT main_JJ goal_NN1 of_IO assertion_NN1 is_VBZ to_TO reduce_VVI CS_NP2 as_II21 to_II22 eliminate_VV0 all_DB w_ZZ1 's_VBZ incompatible_JJ with_IW what_DDQ is_VBZ said_VVN ._. 
+</s>
+<s>
+(_( i_ZZ1 )_) is_VBZ an_AT1 assumption_NN1 that_CST a_AT1 good_JJ number_NN1 of_IO philosophers_NN2 share_VV0 nowadays_RT ._. 
+</s>
+<s>
+I_PPIS1 will_VM not_XX comment_VVI on_II that_DD1 in_II this_DD1 paper_NN1 ,_, although_CS I_PPIS1 think_VV0 it_PPH1 might_VM be_VBI a_AT1 problematic_JJ tenet_NN1 ._. 
+</s>
+<s>
+What_DDQ about_II (_( ii_MC )_) and_CC (_( iii_MC )_) ?_? 
+</s>
+<s>
+According_II21 to_II22 (_( P_ZZ1 )_) ,_, for_IF every_AT1 P_ZZ1 there_EX is_VBZ a_AT1 set_NN1 of_IO w_ZZ221 's_ZZ222 which_DDQ are_VBR represented_VVN by_II P_ZZ1 and_CC which_DDQ share_VV0 that_CST particular_JJ way_NN1 of_IO being_VBG ._. 
+</s>
+<s>
+But_CCB not_XX only_RR ,_, it_PPH1 is_VBZ also_RR true_JJ that_CST for_IF every_AT1 set_NN1 of_IO w_ZZ221 's_ZZ222 that_CST share_VV0 a_AT1 particular_JJ way_NN1 of_IO being_VBG there_RL is_VBZ a_AT1 P_ZZ1 which_DDQ represents_VVZ that_DD1 ._. 
+</s>
+<s>
+Thus_RR ,_, there_EX is_VBZ ,_, as_CSA Stalnaker_NP1 puts_VVZ it_PPH1 ,_, a_AT1 one_PN1 on_II one_MC1 correspondence_NN1 between_II P_ZZ221 's_ZZ222 and_CC sets_NN2 of_IO w_ZZ221 's_ZZ222 ._. 
+</s>
+<s>
+The_AT proposition_NN1 will_VM be_VBI true_JJ in_II all_DB the_AT w_ZZ1 's_VBZ of_IO that_DD1 set_NN1 and_CC false_JJ in_II all_DB others_NN2 ._. 
+</s>
+<s>
+That_DD1 is_VBZ why_RRQ it_PPH1 makes_VVZ sense_NN1 to_TO understand_VVI propositions_NN2 as_CSA functions_NN2 from_II w_ZZ221 's_ZZ222 to_II truth_NN1 values_NN2 ;_; and_CC also_RR why_RRQ (_( ii_MC )_) is_VBZ part_NN1 of_IO the_AT tenets_NN2 of_IO the_AT apparatus_NN1 ._. 
+</s>
+<s>
+But_CCB the_AT content_NN1 of_IO S_ZZ1 is_VBZ not_XX only_RR determined_VVN by_II the_AT set_NN1 of_IO w_ZZ221 's_ZZ222 which_DDQ it_PPH1 represents_VVZ but_CCB also_RR by_II the_AT set_NN1 of_IO w_ZZ221 's_ZZ222 in_II which_DDQ S_ZZ1 is_VBZ asserted_VVN ._. 
+</s>
+<s>
+The_AT content_NN1 of_IO an_AT1 utterance_NN1 (_( e.g._REX the_AT assertion_NN1 of_IO P_ZZ1 )_) is_VBZ determined_VVN by_II the_AT facts_NN2 of_IO the_AT world_NN1 in_II which_DDQ it_PPH1 is_VBZ asserted_VVN ._. 
+</s>
+<s>
+The_AT world_NN1 plays_VVZ a_AT1 determining_JJ role_NN1 as_II the_AT context_NN1 of_IO utterance_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ another_DD1 sense_NN1 in_II which_DDQ a_AT1 set_NN1 of_IO w_ZZ221 's_ZZ222 determines_VVZ a_AT1 proposition_NN1 ,_, and_CC which_DDQ is_VBZ implicit_JJ in_II (_( iii_MC )_) ._. 
+</s>
+<s>
+As_II21 for_II22 (_( iv_MC )_) ,_, suffice_VV0 it_PPH1 to_TO say_VVI that_CST when_CS a_AT1 speaker_NN1 asserts_VVZ something_PN1 it_PPH1 is_VBZ her_APPGE intention_NN1 to_TO get_VVI the_AT hearer_NN1 to_TO believe_VVI in_II what_DDQ is_VBZ asserted_VVN (_( e.g._REX a_AT1 proposition_NN1 )_) and_CC thus_RR ,_, to_TO take_VVI the_AT actual_JJ world_NN1 as_CSA being_VBG in_II that_DD1 way_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO do_VDI this_DD1 it_PPH1 is_VBZ necessary_JJ to_TO reduce_VVI the_AT set_NN1 of_IO possible_JJ situations_NN2 compatible_JJ with_IW what_DDQ is_VBZ said_VVN so_CS21 that_CS22 ,_, at_II the_AT end_NN1 of_IO the_AT day_NNT1 ,_, there_EX will_VM be_VBI one_MC1 P_ZZ1 taken_VVN to_TO be_VBI said_VVN and_CC one_MC1 w_ZZ1 taken_VVN to_TO be_VBI the_AT actual_JJ ._. 
+</s>
+<s>
+If_CS this_DD1 were_VBDR not_XX true_JJ ,_, then_RT asserting_VVG would_VM stop_VVI being_VBG useful_JJ ,_, and_CC perhaps_RR end_VV0 up_RP being_VBG among_II the_AT endeavors_NN2 that_CST humans_NN2 take_VV0 just_RR for_IF fun_NN1 ._. 
+</s>
+<s>
+No_AT wonder_NN1 why_RRQ Stalnaker_NP1 takes_VVZ CS_NP2 and_CC SP_NN1 to_TO be_VBI central_JJ notions_NN2 for_IF the_AT characterization_NN1 of_IO speech_NN1 contexts_NN2 ._. 
+</s>
+<s>
+To_TO be_VBI fair_JJ to_II the_AT ways_NN2 in_II which_DDQ the_AT content_NN1 of_IO an_AT1 assertion_NN1 is_VBZ determined_VVN one_PN1 must_VM take_VVI an_AT1 ordered_JJ pair_NN of_IO w_ZZ221 's_ZZ222 and_CC P_ZZ221 's_ZZ222 ,_, such_CS21 that_CS22 for_IF every_AT1 w_ZZ1 we_PPIS2 get_VV0 a_AT1 P._NP1 Suppose_VV0 that_CST I_PPIS1 assert_VV0 (_( 1_MC1 )_) ,_, and_CC let_VV0 us_PPIO2 take_VVI it_PPH1 as_II an_AT1 example_NN1 of_IO a_AT1 stipulation_NN1 ._. 
+</s>
+<s>
+Now_RT ,_, evaluate_VV0 it_PPH1 according_II21 to_II22 the_AT following_JJ different_JJ worlds_NN2 :_: where_RRQ the_AT standard_JJ meter_NN1 is_VBZ one_MC1 meter_NN1 long_RR (_( w1_FO )_) ,_, where_CS it_PPH1 is_VBZ two_MC meters_NN2 long_JJ (_( w2_FO )_) ,_, and_CC where_CS it_PPH1 is_VBZ three_MC meters_NN2 long_JJ (_( w3_FO )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ supposed_JJ to_TO be_VBI a_AT1 case_NN1 of_IO a_AT1 statement_NN1 that_CST expresses_VVZ a_AT1 contingent_JJ a_JJ21 priori_JJ22 truth_NN1 ;_; let_VM21 's_VM22 assume_VVI ,_, if_CS only_RR for_IF a_AT1 brief_JJ moment_NN1 ,_, that_CST by_II "_" truths_NN2 "_" we_PPIS2 mean_VV0 "_" what_DDQ is_VBZ said_VVN "_" by_II the_AT utterance_NN1 of_IO the_AT sentence_NN1 (_( i.e._REX in_II this_DD1 case_NN1 a_AT1 proposition_NN1 )_) ._. 
+</s>
+<s>
+A_ZZ1 will_VM be_VBI the_AT propositional_JJ concept_NN1 of_IO (_( 1_MC1 )_) ,_, where_CS the_AT horizontal_JJ lines_NN2 represent_VV0 what_DDQ is_VBZ said_VVN by_II utterances_NN2 of_IO (_( 1_MC1 )_) in_II different_JJ w_ZZ1 's_VBZ taken_VVN as_CSA contexts_NN2 ._. 
+</s>
+<s>
+We_PPIS2 can_VM see_VVI that_CST there_EX are_VBR only_RR contingent_JJ propositions_NN2 represented_VVN in_II A._NNU This_DD1 seems_VVZ a_RR31 little_RR32 bit_RR33 awkward_JJ ._. 
+</s>
+<s>
+At_II a_AT1 first_MD glance_NN1 ,_, if_CS I_PPIS1 stipulate_VV0 the_AT length_NN1 of_IO a_AT1 meter_NN1 by_II asserting_VVG that_CST The_AT standard_JJ meter_NN1 is_VBZ one_MC1 meter_NN1 long_RR ,_, what_DDQ I_PPIS1 say_VV0 is_VBZ something_PN1 that_CST is_VBZ true_JJ in_II every_AT1 world_NN1 where_CS I_PPIS1 make_VV0 the_AT assertion_NN1 (_( i.e._REX in_II every_AT1 world_NN1 where_CS I_PPIS1 make_VV0 the_AT stipulation_NN1 )_) ,_, and_CC ,_, thus_RR ,_, should_VM somehow_RR have_VHI true_JJ evaluations_NN2 in_II every_AT1 world_NN1 ._. 
+</s>
+<s>
+Put_VV0 in_II other_JJ words_NN2 ,_, there_EX is_VBZ certainly_RR a_AT1 sense_NN1 in_II which_DDQ I_PPIS1 can_56 not_56 be_VBI mistaken_VVN about_II the_AT truth_NN1 of_IO my_APPGE assertion_NN1 ,_, a_AT1 sense_NN1 in_II which_DDQ it_PPH1 is_VBZ necessarily_RR true_JJ ._. 
+</s>
+<s>
+This_DD1 being_VBG such_DA because_CS in_II every_AT1 world_NN1 where_CS I_PPIS1 assert_VV0 (_( 1_MC1 )_) I_PPIS1 know_VV0 a_JJ21 priori_JJ22 (_( i.e._REX thanks_NN2 to_II my_APPGE stipulation_NN1 )_) what_DDQ the_AT length_NN1 of_IO the_AT standard_JJ meter_NN1 is.2_FO This_DD1 has_VHZ to_TO be_VBI among_II the_AT things_NN2 that_CST I_PPIS1 could_VM say_VVI by_II an_AT1 assertion_NN1 of_IO (_( 1_MC1 )_) ;_; i.e._REX it_PPH1 is_VBZ at_RR21 least_RR22 among_II the_AT information_NN1 that_CST could_VM be_VBI imparted_VVN by_II it_PPH1 ._. 
+</s>
+<s>
+However_RR ,_, there_EX is_VBZ no_AT horizontal_JJ representation_NN1 of_IO such_DA a_AT1 proposition_NN1 in_II A._NP1 Nonetheless_RR ,_, such_DA necessary_JJ proposition_NN1 is_VBZ in_II fact_NN1 represented_VVD diagonally_RR from_II left_NN1 to_II right_NN1 and_CC from_II top_NN1 to_II bottom_NN1 in_II A._NNU Since_CS there_EX is_VBZ only_RR one_MC1 such_DA proposition_NN1 ,_, we_PPIS2 can_VM call_VVI this_DD1 the_AT diagonal_JJ proposition_NN1 of_IO A._NP1 We_PPIS2 can_VM make_VVI use_NN1 of_IO a_AT1 two_MC dimensional_JJ operator_NN1 (_( i.e._REX one_PN1 that_CST a_AT1 PC_NN1 and_CC makes_VVZ it_PPH1 into_II a_AT1 PC_NN1 )_) called_VVN dagger_NN1 operator_NN1 ,_, such_CS21 that_CS22 it_PPH1 takes_VVZ the_AT so_JJ21 called_JJ22 diagonal_JJ proposition_NN1 of_IO a_AT1 PC_NN1 and_CC projects_VVZ it_PPH1 into_II a_AT1 PC._NNU dagA_NN1 is_VBZ the_AT PC_NN1 which_DDQ results_VVZ from_II applying_VVG the_AT dagger_NN1 operator_NN1 into_II A._NNU dagA_NN1 accounts_VVZ for_IF the_AT possibility_NN1 of_IO my_APPGE expressing_VVG a_AT1 truth_NN1 in_II every_AT1 w_NNU as_II a_AT1 context_NN1 by_II asserting_VVG (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Let_VV0 us_PPIO2 then_RT take_VVI A_ZZ1 and_CC dagA_NN1 as_CSA offering_VVG the_AT set_NN1 of_IO propositions_NN2 that_CST a_AT1 speaker_NN1 may_VM convey_VVI by_II asserting_VVG (_( 1_MC1 )_) ;_; which_DDQ ,_, as_CSA (_( iv_MC )_) says_VVZ ,_, will_VM be_VBI ideally_RR reduced_VVN to_II up_RG21 to_RG22 one_MC1 line_NN1 ,_, such_CS21 that_CS22 both_RR speaker_NN1 and_CC hearers_NN2 will_VM know_VVI what_DDQ is_VBZ asserted_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ enough_RR about_II the_AT two_MC dimensional_JJ apparatus_NN1 for_IF our_APPGE purposes_NN2 ._. 
+</s>
+<s>
+With_IW it_PPH1 we_PPIS2 are_VBR able_JK to_TO see_VVI which_DDQ propositions_NN2 can_VM be_VBI expressed_VVN by_II the_AT assertion_NN1 of_IO a_AT1 particular_JJ statement_NN1 ._. 
+</s>
+<s>
+These_DD2 propositions_NN2 are_VBR the_AT contents_NN2 (_( truths_NN2 and/or_CC falsehoods_NN2 ,_, according_II21 to_II22 our_APPGE assumption_NN1 )_) that_CST a_AT1 speaker_NN1 gets_VVZ to_TO assert_VVI ._. 
+</s>
+<s>
+Now_RT we_PPIS2 are_VBR up_RP to_TO see_VVI whether_CSW this_DD1 standpoint_NN1 helps_VVZ us_PPIO2 finding_VVG out_RP if_CS there_EX are_VBR contingent_JJ a_JJ21 priori_JJ22 truths_NN2 and/or_CC necessary_JJ a_JJ21 posteriori_JJ22 ._. 
+</s>
+<s>
+At_II this_DD1 point_NN1 you_PPY might_VM wonder_VVI whether_CSW I_PPIS1 still_RR need_VV0 to_TO say_VVI something_PN1 in_BCL21 order_BCL22 to_TO show_VVI that_CST there_EX is_VBZ a_AT1 truth_NN1 that_CST is_VBZ contingent_JJ a_JJ21 priori_JJ22 ._. 
+</s>
+<s>
+You_PPY might_VM even_RR think_VVI that_CST I_PPIS1 am_VBM too_RG stubborn_JJ in_II aiming_VVG at_II this_DD1 same_DA spot_NN1 once_RR21 again_RR22 ._. 
+</s>
+<s>
+And_CC you_PPY might_VM be_VBI right_JJ ,_, but_CCB not_XX for_IF the_AT proper_JJ reasons_NN2 ._. 
+</s>
+<s>
+Yes_UH ,_, A_ZZ1 clearly_RR has_VHZ propositions_NN2 that_CST are_VBR contingent_JJ ._. 
+</s>
+<s>
+And_CC ,_, yes_UH ,_, thanks_NN2 to_II the_AT device_NN1 of_IO the_AT diagonal_JJ proposition_NN1 ,_, it_PPH1 is_VBZ also_RR clear_VV0 that_CST there_EX is_VBZ a_AT1 proposition_NN1 that_CST is_VBZ a_JJ21 priori_JJ22 ._. 
+</s>
+<s>
+But_CCB ,_, no_UH ,_, up_II21 to_II22 now_RT we_PPIS2 have_VH0 no_AT clue_NN1 as_II21 to_II22 which_DDQ one_PN1 is_VBZ the_AT truth_NN1 that_CST is_VBZ both_RR contingent_JJ and_CC a_JJ21 priori_JJ22 ._. 
+</s>
+<s>
+I_PPIS1 am_VBM sad_JJ to_TO say_VVI that_CST (_( given_VVN our_APPGE assumptions_NN2 )_) no_AT such_DA clue_NN1 will_VM be_VBI offered_VVN ,_, or_CC so_RR I_PPIS1 will_VM argue_VVI ._. 
+</s>
+<s>
+We_PPIS2 can_VM see_VVI here_RL that_CST a_AT1 particular_JJ relation_NN1 holds_VVZ between_II the_AT diagonal_JJ proposition_NN1 and_CC the_AT (_( a_AT1 priori/a_FU posteriori_NN2 )_) type_NN1 of_IO knowledge_NN1 that_CST the_AT speaker_NN1 has_VHZ of_IO the_AT proposition_NN1 asserted_VVD according_II21 to_II22 the_AT context_NN1 ._. 
+</s>
+<s>
+Which_DDQ relation_NN1 this_DD1 might_VM be_VBI is_VBZ not_XX clear_RR at_RR21 all_RR22 ._. 
+</s>
+<s>
+Stalnaker_NN1 puts_VVZ it_PPH1 this_DD1 way_NN1 If_CS we_PPIS2 take_VV0 Stalnaker_NP1 's_GE claim_NN1 to_TO be_VBI merely_RR about_II sentences_NN2 --_NN1 i.e._REX about_II things_NN2 like_II "_" The_AT standard_JJ meter_NN1 is_VBZ one_MC1 meter_NN1 long_JJ "_" --_NN1 then_RT it_PPH1 is_VBZ trivially_RR true_JJ that_CST there_EX is_VBZ a_AT1 truth_NN1 which_DDQ is_VBZ both_RR contingent_JJ and_CC a_JJ21 priori_JJ22 ._. 
+</s>
+<s>
+But_CCB this_DD1 just_JJ means_NN that_CST the_AT sentence_NN1 can_VM express_VVI contingent_JJ and_CC a_JJ21 priori_JJ22 contents_NN2 ._. 
+</s>
+<s>
+Whatever_DDQV is_VBZ contingent_JJ and_CC whatever_DDQV is_VBZ a_JJ21 priori_JJ22 would_VM not_XX be_VBI the_AT truth_NN1 (_( i.e._REX the_AT sentence_NN1 )_) but_CCB the_AT content_NN1 of_IO the_AT truth_NN1 (_( whatever_DDQV that_DD1 means_VVZ )_) ._. 
+</s>
+<s>
+You_PPY might_VM then_RT argue_VVI that_CST it_PPH1 is_VBZ not_XX the_AT sentence_NN1 but_CCB the_AT whole_NN1 of_IO A_ZZ1 which_DDQ is_VBZ contingent_JJ and_CC a_JJ21 priori_JJ22 ._. 
+</s>
+<s>
+This_DD1 can_56 not_56 be_VBI the_AT truth_NN1 in_II question_NN1 ,_, for_IF several_DA2 reasons_NN2 ._. 
+</s>
+<s>
+First_MD ,_, according_II21 to_II22 tenet_NN1 (_( i_ZZ1 )_) when_CS uttering_VVG (_( 1_MC1 )_) I_PPIS1 expressed_VVD some_DD content_NN1 or_CC other_JJ among_II the_AT ones_NN2 that_CST A_ZZ1 has_VHZ ,_, but_CCB not_XX all_DB of_IO them_PPHO2 ._. 
+</s>
+<s>
+What_DDQ I_PPIS1 expressed_VVD is_VBZ a_AT1 proposition_NN1 ,_, not_XX five_MC ,_, or_CC ten_MC ,_, or_CC a_AT1 thousand_NNO of_IO them_PPHO2 ._. 
+</s>
+<s>
+Second_MD ,_, according_II21 to_II22 tenet_NN1 (_( iv_MC )_) ,_, if_CS I_PPIS1 were_VBDR to_TO do_VDI this_DD1 (_( i.e._REX assert_VV0 A_ZZ1 and_CC not_XX just_RR one_MC1 proposition_NN1 among_II the_AT set_NN1 )_) then_RT my_APPGE assertion_NN1 would_VM be_VBI useless_JJ ._. 
+</s>
+<s>
+I_PPIS1 would_VM not_XX be_VBI able_JK to_TO reduce_VVI CS_NP2 and_CC ,_, hence_RR ,_, to_TO communicate_VVI something_PN1 at_RR21 all_RR22 ._. 
+</s>
+<s>
+My_APPGE assertion_NN1 would_VM not_XX help_VVI to_TO carve_VVI logical_JJ space_NN1 in_II a_AT1 way_NN1 that_CST it_PPH1 helps_VVZ us_PPIO2 locating_VVG the_AT actual_JJ world_NN1 ._. 
+</s>
+<s>
+Propositions_NN2 seem_VV0 to_TO be_VBI a_AT1 good_JJ candidate_NN1 for_IF whatever_DDQV is_VBZ expressed_VVN in_II our_APPGE utterances.3_FO Why_RRQ not_XX take_VVI propositions_NN2 to_TO be_VBI the_AT truth_NN1 in_II question_NN1 ?_? 
+</s>
+<s>
+This_DD1 option_NN1 ,_, however_RR ,_, is_VBZ also_RR problematic_JJ ._. 
+</s>
+<s>
+We_PPIS2 should_VM be_VBI careful_JJ not_XX to_TO mistake_VVI Stalnaker_NP1 's_GE claim_NN1 above_RL ._. 
+</s>
+<s>
+It_PPH1 might_VM be_VBI taken_VVN to_TO say_VVI that_CST the_AT diagonal_JJ proposition_NN1 is_VBZ that_DD1 which_DDQ constitutes_VVZ the_AT a_JJ21 priori_JJ22 truth_NN1 ._. 
+</s>
+<s>
+But_CCB this_DD1 is_VBZ a_AT1 mistake_NN1 ,_, since_CS the_AT diagonal_JJ proposition_NN1 is_VBZ necessary_JJ and_CC the_AT a_JJ21 priori_JJ22 truth_NN1 --_NN1 at_RR21 least_RR22 in_II our_APPGE case_NN1 --_NN1 is_VBZ contingent_JJ ._. 
+</s>
+<s>
+It_PPH1 seems_VVZ that_CST we_PPIS2 should_VM take_VVI claim_NN1 that_CST the_AT proposition_NN1 that_CST constitutes_VVZ an_AT1 a_JJ21 priori_JJ22 truth_NN1 is_VBZ not_XX a_AT1 necessary_JJ proposition_NN1 ,_, but_CCB that_DD1 in_BCL21 order_BCL22 for_IF it_PPH1 to_TO be_VBI a_JJ21 priori_JJ22 ,_, the_AT diagonal_JJ proposition_NN1 of_IO the_AT PC_NN1 in_II which_DDQ such_DA proposition_NN1 is_VBZ represented_VVN must_VM be_VBI a_AT1 necessary_JJ one_PN1 although_CS not_XX the_AT one_PN1 which_DDQ constitutes_VVZ the_AT a_JJ21 priori_JJ22 truth_NN1 ._. 
+</s>
+<s>
+This_DD1 seems_VVZ like_II a_AT1 nice_JJ interpretation_NN1 ,_, but_CCB it_PPH1 is_VBZ not_XX ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 to_TO ask_VVI now_RT which_DDQ proposition_NN1 is_VBZ the_AT a_JJ21 priori_JJ22 truth_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 have_VH0 seen_VVN ,_, it_PPH1 can_56 not_56 be_VBI the_AT diagonal_JJ one_PN1 ,_, but_CCB it_PPH1 can_56 not_56 be_VBI either_RR any_DD of_IO the_AT horizontal_JJ propositions_NN2 for_IF one_MC1 main_JJ reason_NN1 :_: none_PN of_IO these_DD2 propositions_NN2 expresses_VVZ a_AT1 truth_NN1 in_II every_AT1 context_NN1 ,_, as_CSA Stalnaker_NP1 thinks_VVZ the_AT a_JJ21 priori_JJ22 truth_NN1 does_VDZ ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, if_CS we_PPIS2 take_VV0 all_DB the_AT horizontal_JJ propositions_NN2 together_RL we_PPIS2 could_VM say_VVI that_CST there_EX is_VBZ at_RR21 least_RR22 one_MC1 truth_NN1 expressed_VVN in_II every_AT1 context_NN1 ._. 
+</s>
+<s>
+But_CCB then_RT we_PPIS2 would_VM ,_, again_RT ,_, be_VBI conflicting_JJ with_IW (_( iv_MC )_) ._. 
+</s>
+<s>
+You_PPY can_VM see_VVI why_RRQ I_PPIS1 think_VV0 there_EX is_VBZ a_AT1 problem_NN1 here_RL ._. 
+</s>
+<s>
+You_PPY might_VM wonder_VVI whether_CSW my_APPGE argument_NN1 is_VBZ flawed_JJ ._. 
+</s>
+<s>
+I_PPIS1 did_VDD myself_PPX1 ,_, but_CCB I_PPIS1 do_VD0 n't_XX now_RT ._. 
+</s>
+<s>
+I_PPIS1 have_VH0 a_AT1 way_NN1 to_TO solve_VVI this_DD1 particular_JJ disagreement_NN1 about_II my_APPGE argument_NN1 ._. 
+</s>
+<s>
+Why_RRQ not_XX take_VVI a_AT1 look_NN1 at_II the_AT other_JJ interesting_JJ case_NN1 ,_, that_DD1 of_IO necessary_JJ and_CC a_JJ21 posteriori_JJ22 truths_NN2 ?_? 
+</s>
+<s>
+According_II21 to_II22 Kripke_NP1 ,_, statement_NN1 (_( 2_MC )_) can_VM express_VVI such_DA a_AT1 truth_NN1 ._. 
+</s>
+<s>
+If_CS ,_, say_VV0 ,_, a_AT1 famous_JJ chemist_NN1 in_II the_AT 1950_MC221 's_MC222 ,_, asserted_VVD (_( 2_MC )_) while_CS talking_VVG to_II one_MC1 of_IO her_APPGE colleagues_NN2 --_NN1 she_PPHS1 just_RR found_VVN out_RP about_II the_AT chemical_JJ structure_NN1 of_IO gold_NN1 --_NN1 she_PPHS1 would_VM have_VHI uttered_VVN (_( if_CS a_AT1 truth_NN1 )_) a_AT1 necessary_JJ truth_NN1 for_IF two_MC reasons_NN2 ._. 
+</s>
+<s>
+One_MC1 ,_, she_PPHS1 would_VM have_VHI used_VVN a_AT1 rigid_JJ designator_NN1 ,_, a_AT1 natural_JJ kind_NN1 term_NN1 such_II21 as_II22 "_" gold_NN1 "_" that_CST would_VM refer_VVI to_II all_DB and_CC only_RR the_AT instances_NN2 of_IO gold_NN1 in_II every_AT1 possible_JJ world_NN1 where_CS such_DA natural_JJ kind_NN1 has_VHZ instances_NN2 ._. 
+</s>
+<s>
+Two_MC ,_, she_PPHS1 would_VM have_VHI ascribed_VVN an_AT1 essential_JJ property_NN1 :_: having_VHG atomic_JJ number_NN1 79_MC ._. 
+</s>
+<s>
+Hence_RR ,_, a_AT1 property_NN1 that_CST (_( if_CS true_JJ )_) is_VBZ true_JJ of_IO an_AT1 object_NN1 in_II every_AT1 possible_JJ world_NN1 where_CS such_DA object_NN1 exists_VVZ ._. 
+</s>
+<s>
+So_RR ,_, our_APPGE chemist_NN1 would_VM have_VHI uttered_VVN something_PN1 true_JJ of_IO gold_NN1 here_RL and_CC true_JJ of_IO gold_NN1 in_II every_AT1 possible_JJ world_NN1 ._. 
+</s>
+<s>
+She_PPHS1 would_VM have_VHI uttered_VVN a_AT1 necessary_JJ truth_NN1 ._. 
+</s>
+<s>
+But_CCB ,_, of_RR21 course_RR22 ,_, as_CSA I_PPIS1 said_VVD above_RL ,_, she_PPHS1 found_VVD that_DD1 out_RP (_( presumably_RR after_CS many_DA2 years_NNT2 of_IO tough_JJ empirical_JJ research_NN1 )_) ._. 
+</s>
+<s>
+So_RR ,_, what_DDQ she_PPHS1 claims_VVZ to_TO know_VVI she_PPHS1 knows_VVZ it_PPH1 a_RR21 posteriori_RR22 ._. 
+</s>
+<s>
+Now_RT ,_, let_VM21 's_VM22 run_VVI the_AT two_MC dimensional_JJ apparatus_NN1 for_IF these_DD2 w_ZZ221 's_ZZ222 :_: w1_FO (_( the_AT actual_JJ world_NN1 where_CS the_AT natural_JJ kind_NN1 Gold_NN1 is_VBZ the_AT kind_NN1 of_IO elements_NN2 that_CST have_VH0 atomic_JJ number_NN1 79_MC )_) ,_, w2_FO (_( a_AT1 counterfactual_JJ world_NN1 where_CS the_AT tokens_NN2 of_IO Gold_NN1 have_VH0 atomic_JJ number_NN1 15_MC and_CC where_CS the_AT element_NN1 with_IW the_AT atomic_JJ number_NN1 79_MC does_VDZ exist_VVI )_) ,_, and_CC w3_FO (_( a_AT1 counterfactual_JJ world_NN1 where_CS Gold_NN1 is_VBZ not_XX a_AT1 basic_JJ element_NN1 and_CC where_CS there_EX is_VBZ no_AT element_NN1 having_VHG atomic_JJ number_NN1 79_MC )_) ._. 
+</s>
+<s>
+Accordingly_RR ,_, the_AT PC_NN1 of_IO (_( 2_MC )_) is_VBZ given_VVN by_II B_ZZ1 In_II B_ZZ1 we_PPIS2 find_VV0 either_RR necessary_JJ truths_NN2 or_CC necessary_JJ falsehoods_NN2 (_( or_CC impossibilities_NN2 if_CS you_PPY want_VV0 )_) ,_, but_CCB nothing_PN1 that_CST might_VM look_VVI as_II a_AT1 contingency_NN1 ._. 
+</s>
+<s>
+However_RR ,_, there_EX is_VBZ a_AT1 sense_NN1 in_II which_DDQ what_DDQ our_APPGE famous_JJ chemist_NN1 uttered_VVN in_II 1950_MC could_VM have_VHI been_VBN false_JJ ._. 
+</s>
+<s>
+After_II all_DB ,_, that_DD1 's_VBZ what_DDQ she_PPHS1 found_VVD out_RP after_II some_DD research_NN1 ,_, perhaps_RR she_PPHS1 messed_VVD up_RP some_DD stuff_NN1 and_CC came_VVD out_RP with_IW a_AT1 mistaken_JJ result_NN1 ._. 
+</s>
+<s>
+Who_PNQS knows_VVZ ?_? 
+</s>
+<s>
+The_AT point_NN1 is_VBZ that_CST it_PPH1 seems_VVZ to_TO be_VBI true_JJ that_CST it_PPH1 is_VBZ not_XX necessary_JJ that_CST she_PPHS1 came_VVD out_RP with_IW those_DD2 results_NN2 and_CC knowing_VVG what_DDQ she_PPHS1 knows_VVZ ._. 
+</s>
+<s>
+So_RR what_DDQ she_PPHS1 knows_VVZ --_NN1 which_DDQ allegedly_RR is_VBZ what_DDQ she_PPHS1 asserted_VVD --_NN1 is_VBZ something_PN1 contingent_JJ ._. 
+</s>
+<s>
+This_DD1 ,_, as_CSA we_PPIS2 have_VH0 seen_VVN in_II the_AT former_DA case_NN1 ,_, is_VBZ not_XX a_AT1 problem_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ ,_, at_RR21 least_RR22 Stalnaker_NP1 thinks_VVZ so_RR ,_, some_DD contingent_JJ proposition_NN1 represented_VVN in_II B._NP1 That_DD1 is_VBZ the_AT so_JJ21 called_JJ22 diagonal_JJ proposition_NN1 ._. 
+</s>
+<s>
+We_PPIS2 said_VVD that_CST the_AT truth_NN1 expressed_VVD was_VBDZ a_JJ21 priori_JJ22 if_CS and_CC only_RR if_CS the_AT diagonal_JJ proposition_NN1 was_VBDZ a_AT1 necessary_JJ truth_NN1 ._. 
+</s>
+<s>
+Mutatis_RR21 mutandis_RR22 we_PPIS2 can_VM say_VVI that_CST the_AT truth_NN1 expressed_VVN is_VBZ a_RR21 posteriori_RR22 if_CS and_CC only_RR if_CS the_AT diagonal_JJ proposition_NN1 is_VBZ contingent_JJ ._. 
+</s>
+<s>
+We_PPIS2 may_VM ask_VVI now_RT ,_, which_DDQ one_PN1 is_VBZ the_AT necessary_JJ and_CC a_RR21 posteriori_RR22 truth-taking_JJ truths_NN2 as_CSA propositions_NN2 ,_, not_XX as_CSA sentences_NN2 ._. 
+</s>
+<s>
+This_DD1 should_VM be_VBI easy_JJ for_IF there_EX is_VBZ only_RR one_MC1 necessary_JJ proposition_NN1 in_II B._NP1 Is_VBZ that_DD1 our_APPGE proposition_NN1 ?_? 
+</s>
+<s>
+Well_RR ,_, it_PPH1 depends_VVZ ._. 
+</s>
+<s>
+If_CS our_APPGE proposition_NN1 could_VM be_VBI false_JJ ,_, as_CSA it_PPH1 seems_VVZ it_PPH1 could_VM ,_, given_VVN the_AT fact_NN1 that_CST it_PPH1 is_VBZ a_RR21 posteriori_RR22 ,_, then_RT this_DD1 is_VBZ not_XX our_APPGE proposition_NN1 ._. 
+</s>
+<s>
+Well_RR ,_, then_RT ,_, the_AT proposition_NN1 must_VM be_VBI the_AT diagonal_JJ one_PN1 ._. 
+</s>
+<s>
+That_DD1 one_PN1 certainly_RR could_VM be_VBI false_JJ for_IF different_JJ w_ZZ221 's_ZZ222 ,_, it_PPH1 is_VBZ actually_RR false_JJ for_IF different_JJ w_ZZ221 's_ZZ222 ._. 
+</s>
+<s>
+Is_VBZ it_PPH1 ?_? 
+</s>
+<s>
+Well_RR ,_, its_APPGE not_XX ._. 
+</s>
+<s>
+Our_APPGE proposition_NN1 is_VBZ not_XX only_RR a_RR21 posteriori_RR22 ,_, it_PPH1 is_VBZ also_RR necessary_JJ and_CC the_AT diagonal_JJ proposition_NN1 is_VBZ not_XX ._. 
+</s>
+<s>
+There_EX seems_VVZ to_TO be_VBI some_DD incompatibility_NN1 between_II a_AT1 proposition_NN1 being_VBG necessary_JJ and_CC its_APPGE being_VBG known_VVN a_RR21 posteriori_RR22 ,_, mutatis_RR21 mutandis_RR22 for_IF the_AT other_JJ case_NN1 ._. 
+</s>
+<s>
+We_PPIS2 come_VV0 to_II a_AT1 point_NN1 where_RRQ one_PN1 must_VM stop_VVI looking_VVG for_IF such_DA a_AT1 proposition_NN1 ,_, at_RR21 least_RR22 within_II our_APPGE two_MC dimensional_JJ apparatus_NN1 ._. 
+</s>
+<s>
+This_DD1 however_RR is_VBZ no_AT satisfactory_JJ conclusion_NN1 ,_, for_IF one_MC1 main_JJ reason_NN1 :_: the_AT knowledge_NN1 of_IO the_AT famous_JJ chemist_NN1 who_PNQS asserted_VVD (_( 2_MC )_) was_VBDZ in_II fact_NN1 false_JJ for_IF different_JJ w_ZZ221 's_ZZ222 as_CSA context_NN1 ,_, as_RG much_DA1 as_CSA my_APPGE knowledge_NN1 of_IO what_DDQ I_PPIS1 assert_VV0 with_IW (_( 1_MC1 )_) is_VBZ in_II fact_NN1 true_JJ in_II every_AT1 w_ZZ1 as_CSA context_NN1 ._. 
+</s>
+<s>
+Presumably_RR what_DDQ she_PPHS1 and_CC I_PPIS1 know_VV0 is_VBZ just_RR what_DDQ she_PPHS1 and_CC I_PPIS1 respectively_RR asserted_VVD ._. 
+</s>
+<s>
+But_CCB what_DDQ she_PPHS1 asserted_VVD is_VBZ just_RR necessary_JJ (_( i.e._REX true_JJ in_II every_AT1 w_ZZ1 )_) and_CC what_DDQ I_PPIS1 asserted_VVD is_VBZ just_RR contingent_JJ (_( i.e._REX true_JJ in_II some_DD w_ZZ221 's_ZZ222 and_CC false_JJ in_II others_NN2 )_) ._. 
+</s>
+<s>
+If_CS you_PPY feel_VV0 like_II there_RL is_VBZ some_DD sort_NN1 of_IO problem_NN1 here_RL you_PPY have_VH0 the_AT proper_JJ feelings_NN2 (_( if_CS not_XX ,_, you_PPY should_VM read_VVI back_RP again_RT )_) ._. 
+</s>
+<s>
+You_PPY might_VM still_RR think_VVI that_CST this_DD1 does_VDZ not_XX prove_VVI Kripke_NP1 to_TO be_VBI mistaken_VVN ._. 
+</s>
+<s>
+I_PPIS1 agree_VV0 ._. 
+</s>
+<s>
+We_PPIS2 must_VM try_VVI to_TO make_VVI sense_NN1 of_IO this_DD1 somehow_RR ,_, but_CCB we_PPIS2 should_VM be_VBI careful_JJ not_XX to_TO do_VDI it_PPH1 in_II the_AT wrong_JJ way_NN1 ._. 
+</s>
+<s>
+I_PPIS1 think_VV0 there_EX is_VBZ a_AT1 bit_NN1 of_IO a_AT1 problem_NN1 here_RL for_IF philosophers_NN2 to_TO solve_VVI ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS ,_, as_CSA I_PPIS1 shall_VM argue_VVI ,_, Kripke_NP1 is_VBZ not_XX only_RR correct_JJ in_II claiming_VVG that_CST there_EX are_VBR necessary_JJ a_JJ21 posteriori_JJ22 truths_NN2 ._. 
+</s>
+<s>
+Even_RR more_RRR ,_, Kripke_NP1 must_VM be_VBI correct_JJ if_CS our_APPGE commonsensical_JJ view_NN1 that_CST empirical_JJ scientific_JJ knowledge_NN1 is_VBZ possible_JJ is_VBZ to_TO be_VBI correct_JJ ._. 
+</s>
+<s>
+Our_APPGE problem_NN1 goes_VVZ like_II this_DD1 :_: there_EX is_VBZ this_DD1 peculiar_JJ set_NN1 of_IO truths_NN2 which_DDQ we_PPIS2 can_VM know_VVI a_JJ21 priori_JJ22 regardless_RR of_IO their_APPGE being_VBG contingent_JJ (_( mutatis_RR21 mutandis_RR22 for_IF the_AT necessary_JJ a_RR21 posteriori_RR22 )_) ;_; however_RR ,_, there_EX is_VBZ no_AT such_DA proposition_NN1 which_DDQ is_VBZ at_II the_AT same_DA time_NNT1 contingent_NN1 and_CC a_JJ21 priori_JJ22 (_( ..._... )_) ._. 
+</s>
+<s>
+Nevertheless_RR ,_, it_PPH1 seems_VVZ clear_JJ that_CST what_DDQ is_VBZ expressed_VVN by_II a_AT1 sentence_NN1 ,_, understood_VVN and_CC known_VVN by_II the_AT speaker_NN1 who_PNQS understands_VVZ the_AT content_NN1 of_IO a_AT1 utterance_NN1 ,_, is_VBZ a_AT1 proposition_NN1 ._. 
+</s>
+<s>
+One_MC1 way_NN1 to_TO eliminate_VVI this_DD1 problem_NN1 would_VM be_VBI to_TO claim_VVI that_CST nothing_PN1 can_VM be_VBI ,_, at_II the_AT same_DA time_NNT1 ,_, contingently_RR true_JJ and_CC known_VVN a_JJ21 priori_JJ22 (_( the_AT same_DA for_IF the_AT necessary_JJ a_RR21 posteriori_RR22 )_) ._. 
+</s>
+<s>
+Knowledge_NN1 and_CC truth_NN1 go_VV0 together_RL in_II only_RR one_MC1 way_NN1 ,_, if_CS it_PPH1 is_VBZ necessary_JJ it_PPH1 must_VM be_VBI a_JJ21 priori_JJ22 ,_, if_CS it_PPH1 is_VBZ a_RR21 posteriori_RR22 it_PPH1 must_VM be_VBI contingent_JJ ._. 
+</s>
+<s>
+So_RR ,_, actually_RR ,_, there_EX is_VBZ no_AT problem_NN1 here_RL ._. 
+</s>
+<s>
+There_EX was_VBDZ just_JJ confusion_NN1 to_TO begin_VVI with_IW ._. 
+</s>
+<s>
+There_EX are_VBR some_DD reasons_NN2 why_RRQ we_PPIS2 should_VM avoid_VVI this_DD1 strategy_NN1 ._. 
+</s>
+<s>
+First_MD of_IO all_DB ,_, it_PPH1 will_VM force_VVI us_PPIO2 to_TO accept_VVI either_RR one_MC1 of_IO these_DD2 two_MC really_RR bad_JJ claims_NN2 ._. 
+</s>
+<s>
+If_CS we_PPIS2 accept_VV0 that_CST a_JJ21 posteriori_JJ22 truths_NN2 are_VBR only_RR contingent_JJ --_NN1 assuming_VVG the_AT necessary_JJ ones_NN2 are_VBR a_JJ21 priori_JJ22 --_NN1 and_CC claim_VV0 that_CST we_PPIS2 can_VM know_VVI what_DDQ the_AT world_NN1 is_VBZ Perhaps_RR we_PPIS2 do_VD0 n't_XX want_VVI this_DD1 conclusion_NN1 ,_, but_CCB still_RR claim_VV0 that_CST only_RR a_JJ21 priori_JJ22 truths_NN2 are_VBR necessary_JJ and_CC the_AT rest_NN1 are_VBR contingent_JJ ,_, so_CS we_PPIS2 choose_VV0 the_AT second_MD bad_JJ option_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 accept_VV0 the_AT former_DA ,_, and_CC defend_VV0 that_CST ,_, nevertheless_RR ,_, we_PPIS2 can_VM know_VVI what_DDQ the_AT world_NN1 is_VBZ about_RP by_II a_JJ21 priori_JJ22 means_NN ,_, then_RT :_: (_( b_ZZ1 )_) we_PPIS2 can_VM know_VVI about_II the_AT nature_NN1 of_IO the_AT empirical_JJ world_NN1 without_IW even_RR looking_VVG at_II it_PPH1 ,_, we_PPIS2 just_RR need_VV0 to_TO engage_VVI in_II some_DD a_JJ21 priori_JJ22 reflections_NN2 and_CC we_PPIS2 are_VBR set_VVN ,_, we_PPIS2 will_VM know_VVI everything_PN1 there_RL is_VBZ to_TO be_VBI known_VVN about_II the_AT nature_NN1 of_IO things_NN2 ._. 
+</s>
+<s>
+These_DD2 two_MC claims_NN2 are_VBR equally_RR bad_JJ and_CC for_IF the_AT same_DA sin_NN1 :_: they_PPHS2 are_VBR both_RR too_RG polarized_JJ ._. 
+</s>
+<s>
+The_AT first_MD one_PN1 seems_VVZ to_TO be_VBI some_DD extreme_JJ realism_NN1 of_IO the_AT form_NN1 you_PPY ca_VM n't_XX -- where_CS "_" can_NN1 "_" has_VHZ a_AT1 metaphysical_JJ strength_NN1 --_NN1 really_RR know_VV0 what_DDQ things_NN2 are_VBR made_VVN of_IO ._. 
+</s>
+<s>
+The_AT second_MD one_PN1 seems_VVZ to_TO be_VBI some_DD extreme_JJ idealism_NN1 of_IO the_AT form_NN1 it_PPH1 's_VBZ all_DB in_II your_APPGE mind_NN1 ,_, you_PPY can_VM know_VVI everything_PN1 by_II just_RR deploying_VVG the_AT proper_JJ concepts_NN2 ._. 
+</s>
+<s>
+The_AT first_MD one_PN1 demands_VVZ too_RG much_DA1 about_II our_APPGE epistemic_JJ apparatus_NN1 ;_; the_AT second_MD one_PN1 demands_VVZ too_RG little_DA1 about_II it_PPH1 ._. 
+</s>
+<s>
+We_PPIS2 should_VM avoid_VVI both_RR as_RG much_DA1 as_CSA possible_JJ ._. 
+</s>
+<s>
+Another_DD1 strategy_NN1 is_VBZ perhaps_RR to_TO avoid_VVI the_AT problem_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM be_VBI possible_JJ if_CS we_PPIS2 just_RR decide_VV0 not_XX to_TO talk_VVI about_II a_JJ21 priori_JJ22 and_CC a_JJ21 posteriori_JJ22 truths_NN2 ,_, for_REX21 instance_REX22 ._. 
+</s>
+<s>
+We_PPIS2 might_VM be_VBI content_JJ if_CS we_PPIS2 just_RR talk_VV0 about_II the_AT necessity_NN1 or_CC contingency_NN1 of_IO what_DDQ is_VBZ asserted_VVN or_CC known_VVN ._. 
+</s>
+<s>
+But_CCB this_DD1 does_VDZ not_XX seem_VVI to_TO solve_VVI the_AT problem_NN1 We_PPIS2 can_VM still_RR raise_VVI the_AT problem_NN1 by_II claiming_VVG that_CST there_EX are_VBR necessary_JJ truths_NN2 that_CST are_VBR known_VVN by_II doing_VDG empirical_JJ research_NN1 ;_; and_CC we_PPIS2 still_RR have_VH0 to_TO explain_VVI how_RRQ this_DD1 is_VBZ possible_JJ ._. 
+</s>
+<s>
+I_PPIS1 think_VV0 this_DD1 is_VBZ just_RR a_AT1 cheap_JJ way_NN1 out_RP and_CC ,_, as_CSA many_DA2 have_VH0 said_VVN ,_, there_EX are_VBR no_AT free_JJ lunches_NN2 in_II philosophy_NN1 ._. 
+</s>
+<s>
+So_RR ,_, if_CS we_PPIS2 do_VD0 n't_XX want_VVI to_TO end_VVI up_RP getting_VVG nothing_PN1 (_( i.e._REX no_AT solution_NN1 )_) for_IF too_RG little_JJ (_( e.g._REX avoid_VV0 talking_VVG about_II a_AT1 posteriori/a_FU priori_NN2 )_) ,_, or_CC asking_VVG too_RG much_RR (_( i.e._REX extreme_JJ realism_NN1 )_) or_CC too_RG little_JJ (_( i.e._REX extreme_JJ idealism_NN1 )_) ,_, we_PPIS2 should_VM look_VVI for_IF a_AT1 solution_NN1 ._. 
+</s>
+<s>
+Something_PN1 ,_, that_REX21 is_REX22 ,_, which_DDQ might_VM explain_VVI how_RRQ a_AT1 truth_NN1 can_VM be_VBI contingent_JJ and_CC known_VVN a_JJ21 priori_JJ22 ,_, and_CC even_RR more_RGR importantly_RR ,_, how_RRQ scientific_JJ truths_NN2 are_VBR a_RR21 posteriori_RR22 and_CC nevertheless_RR necessary_JJ ._. 
+</s>
+<s>
+I_PPIS1 guess_VV0 there_EX are_VBR many_DA2 different_JJ strategies_NN2 to_TO follow_VVI from_II this_DD1 point_NN1 ._. 
+</s>
+<s>
+I_PPIS1 think_VV0 ,_, however_RR ,_, that_CST the_AT most_RGT promising_JJ one_PN1 is_VBZ to_TO revise_VVI our_APPGE assumptions_NN2 ,_, particularly_RR tenet_NN1 (_( i_ZZ1 )_) according_II21 to_II22 which_DDQ what_DDQ is_VBZ said_VVN ,_, expressed_VVN and_CC known_VVN is_VBZ identified_VVN with_IW one_MC1 and_CC the_AT same_DA single_JJ proposition_NN1 ._. 
+</s>
+<s>
+We_PPIS2 might_VM need_VVI to_TO make_VVI some_DD complex_JJ distinctions_NN2 within_II the_AT content_NN1 in_BCL21 order_BCL22 to_TO solve_VVI this_DD1 ,_, perhaps_RR distinguishing_JJ --_NN1 as_CSA Evans_NP1 (_( 1979_MC )_) suggests_VVZ --_NN1 between_II that_DD1 part_NN1 of_IO the_AT content_NN1 which_DDQ has_VHZ the_AT modal_JJ properties_NN2 and_CC that_DD1 which_DDQ is_VBZ known_VVN ,_, believed_VVD ,_, desired_VVD ,_, etc_RA ._. 
+</s>

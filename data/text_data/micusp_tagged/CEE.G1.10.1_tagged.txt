@@ -1,0 +1,705 @@
+<s>
+Tunnels_NN2 and_CC associated_JJ underground_JJ facilities_NN2 represent_VV0 a_AT1 critical_JJ piece_NN1 of_IO the_AT overall_JJ infrastructure_NN1 of_IO any_DD developed_JJ region_NN1 ._. 
+</s>
+<s>
+Tunnels_NN2 can_VM function_VVI for_IF either_RR transportation_NN1 or_CC transmission_NN1 purposes_NN2 ._. 
+</s>
+<s>
+Subways_NN2 ,_, railroad_NN1 tunnels_NN2 ,_, and_CC highway_NN1 tunnels_NN2 exemplify_VV0 tunnels_NN2 whose_DDQGE function_NN1 is_VBZ to_TO provide_VVI transportation_NN1 for_IF trains_NN2 ,_, trams_NN2 ,_, trucks_NN2 ,_, and_CC personal_JJ vehicles_NN2 ._. 
+</s>
+<s>
+Sometimes_RT overlooked_VVD ,_, water_NN1 and_CC sewage_NN1 tunnels_NN2 ,_, exemplify_VV0 tunnels_NN2 whose_DDQGE purpose_NN1 is_VBZ to_TO transmit_VVI water_NN1 or_CC liquid_JJ waste_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 report_NN1 ,_, large_JJ diameter_NN1 sewer_NN1 pipelines_NN2 greater_JJR that_CST 10-feet_NN2 in_II diameter_NN1 are_VBR grouped_VVN as_CSA tunnels_NN2 ._. 
+</s>
+<s>
+Tunnels_NN2 are_VBR used_VVN extensively_RR throughout_II the_AT world_NN1 in_II both_DB2 seismically_RR active_JJ and_CC seismically_RR inactive_JJ regions_NN2 ._. 
+</s>
+<s>
+Overall_RR ,_, tunnels_NN2 and_CC underground_JJ structures_NN2 have_VH0 performed_VVN moderately_RR well_RR when_CS subjected_VVN to_II earthquakes_NN2 ground_NN1 motions_NN2 ._. 
+</s>
+<s>
+Moreover_RR ,_, tunnels_NN2 and_CC underground_JJ facilities_NN2 had_VHD experienced_VVN less_RGR structural_JJ damage_NN1 due_II21 to_II22 earthquake_NN1 ground_NN1 motions_NN2 when_CS compared_VVN to_II surface_NN1 structures_NN2 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA society_NN1 becomes_VVZ more_DAR and_CC more_RGR dependent_JJ on_II tunnels_NN2 and_CC underground_JJ facilities_NN2 to_TO perform_VVI everyday_JJ task_NN1 ,_, the_AT consequences_NN2 of_IO failure_NN1 tend_VV0 to_TO appreciate_VVI an_AT1 order_NN1 of_IO magnitude_NN1 ._. 
+</s>
+<s>
+Some_DD tunnels_NN2 and_CC large_JJ diameter_NN1 pipelines_NN2 are_VBR designated_JJ lifeline_NN1 structures_NN2 because_CS they_PPHS2 serve_VV0 critical_JJ functions_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, when_CS one_MC1 building_NN1 is_VBZ damaged_VVN in_II an_AT1 earthquake_NN1 only_RR the_AT direct_JJ tenants_NN2 and_CC neighboring_VVG structures_NN2 may_VM be_VBI affected_VVN ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, if_CS a_AT1 critical_JJ tunnel_NN1 is_VBZ damaged_VVN in_II an_AT1 earthquake_NN1 millions_NNO2 of_IO commuters_NN2 may_VM be_VBI isolated_VVN from_II their_APPGE homes_NN2 and_CC emergency_NN1 vehicles_NN2 may_VM not_XX be_VBI able_JK to_TO access_VVI injured_JJ people_NN on_II the_AT other_JJ side_NN1 of_IO the_AT damaged_JJ tunnel_NN1 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 summarizes_VVZ the_AT current_JJ state-of-the-practice_NN1 for_IF seismic_JJ design_NN1 of_IO tunnels_NN2 and_CC other_JJ underground_JJ structures_NN2 ._. 
+</s>
+<s>
+Current_JJ seismic_JJ design_NN1 procedures_NN2 for_IF tunnels_NN2 grew_VVD out_II21 of_II22 both_DB2 quantative_JJ and_CC qualitative_JJ observations_NN2 of_IO tunnel_NN1 performance_NN1 in_II historic_JJ earthquakes_NN2 ._. 
+</s>
+<s>
+Tunnel_NN1 design_NN1 presents_VVZ a_AT1 sizeable_JJ engineering_NN1 challenge_NN1 for_IF both_DB2 geotechnical_JJ and_CC structural_JJ engineers_NN2 ._. 
+</s>
+<s>
+Design_NN1 for_IF tunnels_NN2 ,_, and_CC their_APPGE associated_JJ underground_JJ facilities_NN2 ,_, is_VBZ a_AT1 highly_RR specialized_JJ area_NN1 of_IO engineering_NN1 practice_NN1 ._. 
+</s>
+<s>
+Because_II21 of_II22 the_AT variable_NN1 and_CC uncertain_JJ engineering_NN1 properties_NN2 of_IO geologic_JJ materials_NN2 ,_, tunnel_NN1 design_NN1 requires_VVZ an_AT1 iterative_JJ procedure_NN1 where_CS initial_JJ design_NN1 assumptions_NN2 must_VM be_VBI reevaluated_VVN based_VVN observed_JJ field_NN1 conditions_NN2 throughout_II construction_NN1 ._. 
+</s>
+<s>
+Many_DA2 times_NNT2 geologic_JJ conditions_NN2 will_VM vary_VVI substantially_RR along_II a_AT1 proposed_JJ tunnel_NN1 corridor_NN1 ._. 
+</s>
+<s>
+Seismic_JJ design_NN1 of_IO tunnels_NN2 adds_VVZ another_DD1 layer_NN1 of_IO uncertainty_NN1 to_II the_AT design_NN1 procedure_NN1 ._. 
+</s>
+<s>
+Seismic_JJ uncertainty_NN1 is_VBZ typically_RR quantified_VVN and_CC designed_VVN for_IF by_II using_VVG both_RR a_AT1 maximum_JJ design_NN1 earthquake_NN1 (_( MDE_NP1 )_) and_CC an_AT1 operating_NN1 design_NN1 earthquake_NN1 (_( ODE_NN1 )_) ._. 
+</s>
+<s>
+Tunnel_NN1 deformations_NN2 modes_NN2 ,_, due_II21 to_II22 either_DD1 design_NN1 earthquake_NN1 ,_, can_VM be_VBI analyzed_VVN using_VVG both_RR simple_JJ solutions_NN2 that_CST neglect_VV0 dynamic_JJ soil_NN1 structure_NN1 interaction_NN1 and_CC complex_JJ solutions_NN2 from_II numerical_JJ computer_NN1 simulations_NN2 ._. 
+</s>
+<s>
+However_RR ,_, both_RR analytical_JJ and_CC numerical_JJ approaches_NN2 need_VV0 to_TO be_VBI validated_VVN and_CC analyzed_VVN in_II31 light_II32 of_II33 historical_JJ performance_NN1 of_IO tunnels_NN2 during_II earthquakes_NN2 ._. 
+</s>
+<s>
+Tunnels_NN2 and_CC underground_JJ structures_NN2 are_VBR different_JJ than_CSN surface_NN1 structures_NN2 (_( i.e._REX building_NN1 )_) due_II21 to_II22 their_APPGE long_JJ length_NN1 and_CC complete_JJ enclosure_NN1 in_II either_RR a_AT1 soil_NN1 or_CC rock_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 ,_, seismic_JJ design_NN1 for_IF tunnels_NN2 and_CC underground_JJ structures_NN2 also_RR differs_VVZ from_II seismic_JJ design_NN1 for_IF surface_NN1 structures_NN2 ._. 
+</s>
+<s>
+Tunnels_NN2 ,_, like_II beams_NN2 ,_, have_VH0 a_AT1 length_NN1 that_CST is_VBZ much_RR greater_JJR than_CSN their_APPGE cross-sectional_JJ dimensions_NN2 ._. 
+</s>
+<s>
+Seismic_JJ performance_NN1 of_IO tunnels_NN2 tends_VVZ to_TO vary_VVI based_VVN on_II the_AT general_JJ type_NN1 of_IO tunnel_NN1 ._. 
+</s>
+<s>
+The_AT three_MC general_JJ types_NN2 of_IO tunnels_NN2 are_VBR :_: bored-or-mined_JJ tunnels_NN2 ,_, cut-and-cover_JJ tunnels_NN2 ,_, and_CC immersed_JJ tube_NN1 tunnels_NN2 (_( Powers_NP1 et_RA21 al_RA22 1996_MC )_) ._. 
+</s>
+<s>
+Bored-or-mined_JJ tunnels_NN2 are_VBR typically_RR constructed_VVN with_IW large_JJ tunnel_NN1 boring_JJ machines_NN2 (_( TBM_NN1 )_) in_BCL21 order_BCL22 to_TO remove_VVI soil_NN1 or_CC rock_NN1 and_CC advance_VVI the_AT tunnel_NN1 ._. 
+</s>
+<s>
+Different_JJ types_NN2 of_IO TBM_NN1 are_VBR used_VVN based_VVN on_II the_AT underground_JJ conditions_NN2 ._. 
+</s>
+<s>
+Under_II hard_JJ ground_NN1 conditions_NN2 ,_, TBM_NN1 cutterheads_NN2 must_VM be_VBI designed_VVN to_TO adequately_RR drill_VVI through_II dense_JJ soil_NN1 and_CC rock_NN1 ._. 
+</s>
+<s>
+Under_II saturated_JJ soft_JJ ground_NN1 tunneling_VVG conditions_NN2 ,_, either_RR an_AT1 Earth_NN1 Pressure_NN1 Balance_NN1 TBM_NN1 (_( EPBM_NP1 )_) or_CC a_AT1 Slurry_NN1 TBM_NN1 are_VBR used_VVN for_IF tunnel_NN1 construction_NN1 ._. 
+</s>
+<s>
+Bored-or-mined_JJ tunnels_NN2 are_VBR typically_RR circular_JJ because_CS TBM_NN1 are_VBR circular_JJ ._. 
+</s>
+<s>
+Moreover_RR ,_, circular_JJ bored-or-mined_JJ tunnels_NN2 tend_VV0 to_TO be_VBI a_AT1 more_RGR efficient_JJ use_NN1 of_IO material_NN1 because_CS the_AT circular_JJ shape_NN1 redistributes_VVZ the_AT soil_NN1 pressures_NN2 ._. 
+</s>
+<s>
+Bored-or-mined_JJ tunnels_NN2 are_VBR used_VVN on_II projects_NN2 where_RRQ the_AT vertical_JJ tunnel_NN1 alignment_NN1 is_VBZ too_RG deep_RR for_IF an_AT1 open_JJ cut_NN1 to_TO be_VBI feasible_JJ ._. 
+</s>
+<s>
+Additionally_RR ,_, bored-or-mined_JJ tunnels_NN2 are_VBR used_VVN on_II projects_NN2 where_RRQ the_AT existence_NN1 of_IO overlying_JJ surface_NN1 structures_NN2 makes_VVZ and_CC open_JJ cut_NN1 unfeasible_JJ (_( Hashash_NP1 et_RA21 al_RA22 2001_MC )_) ._. 
+</s>
+<s>
+Cut-and-cover_JJ tunnel_NN1 structures_NN2 is_VBZ an_AT1 efficient_JJ method_NN1 of_IO constructing_VVG relatively_RR shallow_JJ tunnels_NN2 where_RRQ the_AT existing_JJ soil_NN1 is_VBZ removed_VVN by_II making_VVG an_AT1 open_JJ cut_NN1 ,_, the_AT tunnels_NN2 structure_NN1 is_VBZ constructed_VVN within_II this_DD1 cut_NN1 ,_, and_CC then_RT soil_NN1 is_VBZ backfilled_VVN on_II31 top_II32 of_II33 the_AT structure_NN1 ._. 
+</s>
+<s>
+Many_DA2 subways_NN2 and_CC highway_NN1 tunnels_NN2 use_VV0 the_AT cut-and-cover_JJ tunnel_NN1 construction_NN1 method_NN1 ._. 
+</s>
+<s>
+Cut-and-cover_JJ tunnels_NN2 tend_VV0 to_TO be_VBI rectangular_JJ because_CS the_AT tunnel_NN1 structure_NN1 is_VBZ usually_RR built_VVN within_II a_AT1 nearly_RR vertical_JJ open_JJ cut_NN1 that_CST typically_RR utilizes_VVZ a_AT1 temporary_JJ earth_NN1 support_NN1 system_NN1 ,_, such_II21 as_II22 a_AT1 soldier_NN1 pile_NN1 and_CC lagging_VVG wall_NN1 ._. 
+</s>
+<s>
+Immersed_JJ tube_NN1 tunnels_NN2 are_VBR the_AT third_MD commonly_RR used_JJ tunnel_NN1 method_NN1 ._. 
+</s>
+<s>
+Immersed_JJ tube_NN1 tunnels_NN2 sections_NN2 are_VBR constructed_VVN when_CS a_AT1 tunnel_NN1 passes_VVZ through_II a_AT1 body_NN1 of_IO water_NN1 ._. 
+</s>
+<s>
+The_AT first_MD immersed_JJ tube_NN1 tunnel_NN1 was_VBDZ constructed_VVN for_IF a_AT1 railway_NN1 crossing_NN1 of_IO the_AT Detroit_NP1 River_NNL1 in_II 1906_MC (_( Liao_NP1 1991_MC )_) ._. 
+</s>
+<s>
+Hashash_VV0 et_RA21 al_RA22 (_( 2001_MC )_) summarizes_VVZ the_AT immersed_JJ tube_NN1 tunnel_NN1 construction_NN1 method_NN1 stating_VVG that_CST ,_, this_DD1 method_NN1 involves_VVZ constructing_VVG sections_NN2 of_IO the_AT structure_NN1 in_II a_AT1 dry_JJ dock_NN1 ,_, then_RT moving_VVG these_DD2 sections_NN2 ,_, sinking_VVG them_PPHO2 into_II position_NN1 ,_, and_CC ballasting_VVG or_CC anchoring_VVG the_AT tube_NN1 into_II place_NN1 ._. 
+</s>
+<s>
+Immersed_JJ tube_NN1 tunnels_NN2 rest_VV0 on_II the_AT seafloor_NN1 with_IW minimal_JJ soil_NN1 cover_NN1 ._. 
+</s>
+<s>
+Immersed_JJ tube_NN1 tunnels_NN2 tend_VV0 to_TO be_VBI the_AT most_RGT vulnerable_JJ type_NN1 of_IO tunnel_NN1 due_II21 to_II22 the_AT lack_NN1 of_IO soil_NN1 or_CC rock_NN1 confinement_NN1 ._. 
+</s>
+<s>
+Moreover_RR ,_, immersed_VVD tube_NN1 tunnels_NN2 must_VM be_VBI seismically_RR designed_VVN to_TO remain_VVI watertight_JJ after_II an_AT1 earthquake_NN1 ._. 
+</s>
+<s>
+Overall_RR ,_, the_AT engineering_NN1 understanding_NN1 and_CC methods_NN2 of_IO how_RRQ to_TO design_VVI earthquake-resistant_JJ surface_NN1 structures_NN2 (_( i.e._REX buildings_NN2 )_) is_VBZ more_RGR advanced_JJ and_CC refined_JJ than_CSN how_RRQ to_TO construct_VVI earthquake-resistant_JJ tunnels_NN2 and_CC other_JJ underground_JJ structures_NN2 ._. 
+</s>
+<s>
+St._NP1 John_NP1 and_CC Zarah_NP1 (_( 1987_MC )_) state_VV0 that_CST ,_, Some_DD of_IO these_DD2 general_JJ observations_NN2 are_VBR very_RG intuitive_JJ ,_, such_DA items_NN2 6_MC and_CC 7_MC ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ important_JJ to_TO recognize_VVI the_AT similarities_NN2 and_CC differences_NN2 of_IO earthquake_NN1 damage_NN1 to_II both_DB2 underground_RL and_CC above_JJ ground_NN1 structures_NN2 ._. 
+</s>
+<s>
+Moreover_RR ,_, it_PPH1 is_VBZ important_JJ to_TO note_VVI that_CST these_DD2 are_VBR general_JJ observations_NN2 and_CC given_CS21 that_CS22 ,_, site_VV0 specific_JJ geologic_JJ conditions_NN2 and_CC faulting_NN1 mechanism_NN1 for_IF a_AT1 specific_JJ project_NN1 may_VM or_CC may_VM not_XX follow_VVI all_DB of_IO these_DD2 observed_JJ trends_NN2 ._. 
+</s>
+<s>
+The_AT next_MD sections_NN2 present_VV0 brief_JJ summaries_NN2 of_IO the_AT seismic_JJ response_NN1 of_IO tunnels_NN2 and_CC underground_JJ infrastructure_NN1 ._. 
+</s>
+<s>
+The_AT performance_NN1 of_IO the_AT Bay_NN1 Area_NN1 Rapid_JJ Transit_NN1 System_NN1 (_( BART_NP1 )_) is_VBZ a_AT1 modern_JJ engineering_NN1 project_NN1 success_NN1 story_NN1 ._. 
+</s>
+<s>
+BART_NP1 was_VBDZ one_MC1 of_IO the_AT first_MD tunnel_NN1 systems_NN2 to_TO incorporate_VVI seismic_JJ design_NN1 when_CS it_PPH1 was_VBDZ built_VVN the_AT late_JJ 1960_MC 's_GE ._. 
+</s>
+<s>
+Dunn_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2001_MC )_) state_VV0 that_CST ,_, "_" BART_NP1 's_GE survival_NN1 of_IO the_AT Loma_NP1 Prieta_NP1 earthquake_NN1 is_VBZ largely_RR attributable_JJ to_II the_AT seismic_JJ design_NN1 criteria_NN2 developed_VVN in_II the_AT 1960_MC 's_GE and_CC applied_VVN throughout_II the_AT system_NN1 on_II both_DB2 elevated_VVN and_CC subway_NN1 structures_NN2 ._. "_" 
+</s>
+<s>
+BART_NP1 did_VDD not_XX sustain_VVI any_DD damage_NN1 during_II the_AT 1989_MC Loma_NP1 Prieta_NP1 Earthquake_NN1 and_CC was_VBDZ able_JK to_TO operate_VVI as_CSA scheduled_VVN the_AT day_NNT1 after_II the_AT earthquake_NN1 (_( Hashash_NP1 et_RA21 al_RA22 ._. 2001_MC )_) ._. 
+</s>
+<s>
+The_AT BART_NN1 System_NN1 includes_VVZ a_AT1 Transbay_NN1 Tube_NN1 is_VBZ a_AT1 steel_NN1 shell_NN1 immersed_VVD tube_NN1 structure_NN1 that_CST carries_VVZ traffic_NN1 from_II San_NP1 Francisco_NP1 to_II Oakland_NP1 ._. 
+</s>
+<s>
+Joints_NN2 in_II the_AT steel_NN1 were_VBDR made_VVN continuous_JJ by_II welding_NN1 (_( Laio_NP1 1991_MC )_) ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, two_MC special_JJ seismic_JJ joints_NN2 were_VBDR designed_VVN on_II the_AT San_NP1 Francisco_NP1 side_NN1 and_CC one_MC1 special_JJ seismic_JJ joint_NN1 was_VBDZ placed_VVN on_II the_AT Oakland_NP1 side_NN1 ._. 
+</s>
+<s>
+These_DD2 joints_NN2 were_VBDR able_JK to_TO accommodate_VVI differential_JJ movement_NN1 that_CST occur_VV0 at_II the_AT ventilation_NN1 buildings_NN2 due_II21 to_II22 different_JJ mass_NN1 and_CC stiffness_NN1 parameters_NN2 than_CSN the_AT rest_NN1 of_IO the_AT immersed_JJ tube_NN1 tunnel_NN1 (_( Liao_NP1 1991_MC )_) ._. 
+</s>
+<s>
+Earthquake_NN1 inspections_NN2 of_IO BART_NP1 's_GE Oakland_NP1 seismic_JJ joints_NN2 after_II the_AT 1989_MC Loma_NP1 Prieta_NP1 Earthquake_NN1 revealed_VVD scratch_NN1 marks_NN2 indicating_VVG that_CST the_AT joint_NN1 had_VHD moved_VVN about_II one_MC1 inch_NNU1 during_II and_CC then_RT back_RP to_II it_PPH1 original_JJ position_NN1 during_II the_AT Loma_NP1 Prieta_NP1 Earthquake_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, BART_NP1 's_GE 1960_MC 's_GE era_NN1 seismic_JJ design_NN1 procedures_NN2 were_VBDR able_JK to_TO withstand_VVI one_PN1 a_AT1 rare_JJ severe_JJ earthquake_NN1 ._. 
+</s>
+<s>
+Nevertheless_RR ,_, engineers_NN2 in_II California_NP1 continue_VV0 to_TO set_VVI high_JJ standards_NN2 for_IF their_APPGE infrastructure_NN1 ._. 
+</s>
+<s>
+Because_CS BART_NP1 is_VBZ such_DA a_AT1 critical_JJ piece_NN1 of_IO infrastructure_NN1 ,_, it_PPH1 has_VHZ recently_RR reanalyzed_VVN and_CC retrofitted_VVN based_VVN on_II the_AT current_JJ seismic_JJ design_NN1 codes_58 '_97 maximum_JJ design_NN1 earthquake_NN1 (_( MDE_NP1 )_) (_( Dunn_NP1 2001_MC )_) ._. 
+</s>
+<s>
+The_AT Daikai_JJ Subway_NN1 Station_NN1 ,_, located_VVN in_II Kobe_NP1 ,_, Japan_NP1 ,_, did_VDD not_XX perform_VVI well_RR in_II the_AT 1995_MC Kobe_NP1 Earthquake_NN1 (_( also_RR known_VVN as_II the_AT Hyogoken-Nambu_NP1 or_CC the_AT Great_JJ Hanshin_NN1 Earthquake_NN1 )_) ._. 
+</s>
+<s>
+The_AT 1995_MC Kobe_NP1 Earthquake_NN1 (_( M=6.9_FO )_) killed_VVD more_RRR 5,500_MC people_NN and_CC injured_VVN over_RG 26,000_MC people_NN (_( UW_NP1 2007_MC )_) ._. 
+</s>
+<s>
+Built_VVN in_II 1962_MC without_IW consideration_NN1 for_IF earthquake_NN1 loadings_NN2 ,_, the_AT Daikai_JJ Subway_NN1 station_NN1 represents_VVZ the_AT first_MD modern_JJ underground_JJ structure_NN1 to_TO fail_VVI during_II an_AT1 earthquake_NN1 ._. 
+</s>
+<s>
+The_AT Daikai_JJ Subway_NN1 was_VBDZ a_AT1 cut-and-cover_JJ tunnel_NN1 structure_NN1 with_IW a_AT1 roof_NN1 slab_NN1 supported_VVN by_II center_NN1 reinforced_VVD concrete_JJ columns_NN2 ._. 
+</s>
+<s>
+Some_DD of_IO the_AT center_NN1 columns_NN2 in_II the_AT station_NN1 completely_RR collapsed_VVN and_CC the_AT ceiling_NN1 slab_NN1 settled_VVN about_RG 2.5_MC meters_NN2 (_( Hashash_NP1 et_RA21 al_RA22 ._.  2001_MC )_) ._. 
+</s>
+<s>
+Less_DAR damage_NN1 occurred_VVD at_II some_DD of_IO the_AT center_NN1 columns_NN2 that_CST were_VBDR designed_VVN with_IW greater_JJR transverse_NN1 shear_VV0 reinforcement_NN1 ._. 
+</s>
+<s>
+Failure_NN1 analysis_NN1 experts_NN2 also_RR observed_VVN and_CC hypothesized_VVN that_CST inadequate_JJ compaction_NN1 of_IO the_AT backfill_NN1 between_II the_AT cut-and-cover_JJ tunnel_NN1 wall_NN1 and_CC the_AT construction_NN1 sheet-pile_NN1 wall_NN1 lead_NN1 to_II an_AT1 inability_NN1 for_IF the_AT structure_NN1 to_TO fully_RR mobilize_VVI passive_JJ earth_NN1 pressures_NN2 during_II the_AT earthquake_NN1 (_( Hashash_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2001_MC )_) ._. 
+</s>
+<s>
+Both_DB2 Parra-Montesinos_NN2 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2006_MC )_) and_CC Huo_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2005_MC )_) performed_VVD nonlinear_JJ finite_JJ element_NN1 modeling_VVG to_TO evaluate_VVI the_AT soil-structure_JJ interaction_NN1 of_IO the_AT Daikia_NP1 Subway_NP1 during_II the_AT 1995_MC Kobe_NP1 Earthquake_NN1 ._. 
+</s>
+<s>
+Moreover_RR ,_, both_DB2 Parra-Montesinos_NN2 et_RA21 al._RA22 (_( 2006_MC )_) and_CC Huo_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2005_MC )_) emphasized_VVD that_DD1 design_NN1 for_IF earthquake-induced_JJ displacements_NN2 should_VM include_VVI both_DB2 the_AT relative_JJ stiffness_NN1 between_II the_AT underground_JJ structure_NN1 and_CC the_AT degraded_JJ surrounding_JJ ground_NN1 ;_; and_CC the_AT frictional_JJ characteristics_NN2 of_IO the_AT interface_NN1 between_II the_AT structure_NN1 and_CC the_AT ground_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, analytical_JJ methods_NN2 ,_, which_DDQ neglect_VV0 the_AT soil_NN1 structure_NN1 interaction_NN1 ,_, may_VM be_VBI limited_VVN ._. 
+</s>
+<s>
+Parra-Montesinos_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2006_MC )_) and_CC Huo_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2005_MC )_) recommend_VV0 that_CST underground_JJ structures_NN2 be_VBI designed_VVN with_IW adequate_JJ ductility_NN1 ._. 
+</s>
+<s>
+Overall_RR ,_, the_AT 1995_MC Kobe_NP1 Earthquake_NN1 was_VBDZ one_MC1 of_IO the_AT most_RGT devastating_JJ earthquakes_NN2 ever_RR to_TO hit_VVI Japan_NP1 ._. 
+</s>
+<s>
+The_AT earthquakes_NN2 proximity_NN1 and_CC rupture_VV0 propagation_NN1 with_II31 respect_II32 to_II33 the_AT highly_RR populated_VVN Kobe_NP1 resulted_VVD in_II widespread_JJ loss_NN1 of_IO life_NN1 and_CC infrastructure_NN1 destruction_NN1 (_( UW_NP1 2007_MC )_) ._. 
+</s>
+<s>
+Construction_NN1 on_II the_AT Los_NP1 Angeles_NP1 County_NN1 Metropolitan_JJ Transportation_NN1 Authority_NN1 's_GE heavy_JJ rail_NN1 subway_NN1 first_MD broke_JJ ground_NN1 in_II 1982_MC ._. 
+</s>
+<s>
+This_DD1 subway_NN1 system_NN1 was_VBDZ constructed_VVN in_II phases_NN2 from_II 1982_MC to_II 1998_MC ._. 
+</s>
+<s>
+The_AT L.A._NP1 Metro_NP1 has_VHZ project_NN1 has_VHZ had_VHN to_TO overcome_VVI construction_NN1 and_CC operation_NN1 in_II areas_NN2 with_IW hazardous_JJ subsurface_NN1 gas_NN1 ,_, earthquakes_NN2 ,_, changing_VVG design_NN1 criteria_NN2 ,_, and_CC evaporating_VVG funding_NN1 (_( Monsees_NP1 and_CC Elioff_VV0 1999_MC )_) ._. 
+</s>
+<s>
+The_AT Los_NP1 Angeles_NP1 Metro_NP1 passed_VVD its_APPGE first_MD test_NN1 during_II the_AT 1994_MC Northridge_NP1 Earthquake_NN1 (_( MW_NNU 6.7_MC )_) ._. 
+</s>
+<s>
+Seismic_JJ design_NN1 conducted_VVN in_II the_AT 1980_MC utilized_VVD a_AT1 deterministic_JJ seismic_JJ hazard_NN1 analysis_NN1 to_TO account_VVI for_IF a_AT1 MW_NNU 6.7_MC maximum_JJ design_NN1 earthquake_NN1 that_CST was_VBDZ expected_VVN to_TO create_VVI maximum_JJ fault_NN1 displacements_NN2 of_IO 4.7_MC feet_NN2 at_II the_AT Santa_NP1 Monica_NP1 and_CC Hollywood_NP1 Fault_NN1 (_( Monsees_NP1 and_CC Merritt_NP1 1984_MC )_) ._. 
+</s>
+<s>
+Hashash_VV0 et_RA21 al_RA22 ._. (_( 2001_MC )_) states_VVZ that_CST ,_, "_" While_CS there_EX was_VBDZ damage_NN1 to_II water_NN1 pipelines_NN2 ,_, highway_NN1 bridges_NN2 ,_, and_CC buildings_NN2 ,_, the_AT earthquake_NN1 caused_VVD no_AT damage_NN1 to_II the_AT Metro_NP1 system_NN1 ._. "_" 
+</s>
+<s>
+However_RR ,_, seismic_JJ studies_NN2 carried_VVN out_RP in_II 1996_MC and_CC 1997_MC found_VVD a_AT1 new_JJ active_JJ fault_NN1 ,_, Coyote_NN1 Pass_NN1 ,_, in_II the_AT area_NN1 east_ND1 of_IO downtown_JJ Los_NP1 Angeles_NP1 ._. 
+</s>
+<s>
+The_AT final_JJ portions_NN2 of_IO the_AT L.A._NP1 Metro_NP1 used_VVD a_AT1 new_JJ design_NN1 criteria_NN2 based_VVN on_II a_AT1 probabilistic_JJ seismic_JJ hazard_NN1 analysis_NN1 (_( Monsees_NP1 and_CC Elioff_VV0 1999_MC )_) ._. 
+</s>
+<s>
+Overall_RR ,_, the_AT L.A._NP1 Metro_NP1 shows_VVZ the_AT importance_NN1 of_IO incorporating_VVG seismic_JJ design_NN1 procedures_NN2 for_IF underground_JJ construction_NN1 ._. 
+</s>
+<s>
+Moreover_RR ,_, this_DD1 project_NN1 also_RR shows_VVZ the_AT evolution_NN1 of_IO seismic_JJ design_NN1 criteria_NN2 over_II the_AT past_JJ thirty_MC years_NNT2 ._. 
+</s>
+<s>
+The_AT Chi_NP1 Chi_NP1 Earthquake_NN1 (_( ML_NNU 7.3_MC )_) shook_VVD central_JJ Taiwan_NP1 on_II September_NPM1 21_MC ,_, 1999_MC ._. 
+</s>
+<s>
+A_AT1 majority_NN1 of_IO the_AT damage_NN1 to_II tunnels_NN2 and_CC underground_JJ facilities_NN2 occurred_VVD due_JJ to_TO slope_VVI failures_NN2 at_II tunnel_NN1 portals_NN2 ._. 
+</s>
+<s>
+Minor_JJ cracking_JJ and_CC spalling_NN1 was_VBDZ also_RR observed_VVN ._. 
+</s>
+<s>
+Movement_NN1 on_II the_AT Chelungpu_NN1 fault_NN1 of_IO about_RG 4_MC meters_NN2 resulted_VVN in_II the_AT closure_NN1 of_IO one_MC1 tunnel_NN1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, the_AT Taipei_NP1 subway_NN1 was_VBDZ located_VVN about_RG 100_MC km_NNU from_II the_AT earthquake_NN1 source_NN1 and_CC no_AT damage_NN1 was_VBDZ reported_VVN (_( Hashash_NP1 et_RA21 al_RA22 ._. 2001_MC )_) ._. 
+</s>
+<s>
+Design_NN1 of_IO tunnels_NN2 in_II seismic_JJ regions_NN2 has_VHZ three_MC main_JJ steps_NN2 ._. 
+</s>
+<s>
+First_MD ,_, as_CSA with_IW all_DB seismic_JJ design_NN1 ,_, the_AT seismic_JJ environment_NN1 must_VM be_VBI defined_VVN through_II a_AT1 seismic_JJ hazard_NN1 analysis_NN1 ._. 
+</s>
+<s>
+Either_RR a_AT1 deterministic_JJ or_CC probabilistic_JJ seismic_JJ hazard_NN1 analysis_NN1 may_VM be_VBI performed_VVN ._. 
+</s>
+<s>
+However_RR ,_, probabilistic_JJ seismic_JJ hazard_NN1 analyses_NN2 are_VBR typically_RR specified_VVN on_II new_JJ projects_NN2 ._. 
+</s>
+<s>
+Both_RR a_AT1 maximum_JJ design_NN1 earthquake_NN1 and_CC an_AT1 operating_NN1 design_NN1 earthquake_NN1 are_VBR typically_RR specified_VVN to_TO be_VBI analyzed_VVN in_II the_AT design_NN1 of_IO tunnels_NN2 because_CS tunnels_NN2 are_VBR considered_VVN to_TO be_VBI critical_JJ lifelines_NN2 ._. 
+</s>
+<s>
+The_AT ground_NN1 motion_NN1 parameters_NN2 are_VBR then_RT evaluated_VVN ._. 
+</s>
+<s>
+The_AT second_MD main_JJ step_NN1 is_VBZ to_TO evaluate_VVI the_AT ground_NN1 response_NN1 to_II shaking_VVG ._. 
+</s>
+<s>
+This_DD1 involves_VVZ determining_JJ if_CS large_JJ displacements_NN2 will_VM occur_VVI due_II21 to_II22 liquefaction_NN1 ,_, slope_NN1 instability_NN1 ,_, or_CC fault_NN1 displacement_NN1 ._. 
+</s>
+<s>
+Assuming_VVG small_JJ displacements_NN2 occur_VV0 ,_, the_AT tunnels_NN2 should_VM be_VBI analyzed_VVN for_IF longitudinal_JJ extension_NN1 and_CC compression_NN1 ,_, longitudinal_JJ bending_NN1 ,_, and_CC racking_NN1 or_CC Ovaling_NP1 ._. 
+</s>
+<s>
+After_II performing_VVG a_AT1 seismic_JJ hazard_NN1 analysis_NN1 ,_, a_AT1 design_NN1 earthquake_NN1 must_VM be_VBI specified_VVN ._. 
+</s>
+<s>
+Hashash_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2001_MC )_) notes_VVZ that_CST current_JJ practice_NN1 is_VBZ to_TO use_VVI two_MC design_NN1 level_NN1 earthquakes_NN2 ,_, a_AT1 maximum_JJ design_NN1 earthquake_NN1 (_( MDE_NP1 )_) and_CC an_AT1 Operating_NN1 Design_NN1 Earthquake_NN1 (_( ODE_NN1 )_) for_IF seismic_JJ design_NN1 of_IO tunnels_NN2 and_CC underground_JJ structures_NN2 ._. 
+</s>
+<s>
+For_IF a_AT1 probabilistic_JJ seismic_JJ hazard_NN1 analysis_NN1 ,_, the_AT MDE_NN1 is_VBZ used_VVN is_VBZ an_AT1 event_NN1 with_IW 3_MC to_II 5_MC percent_NNU probability_NN1 of_IO exceedence_NN1 during_II the_AT design_NN1 lifespan_NN1 of_IO the_AT facility_NN1 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO designing_VVG for_IF such_DA an_AT1 extreme_JJ event_NN1 is_VBZ to_TO have_VHI the_AT tunnel_NN1 maintain_VV0 structural_JJ stability_NN1 during_II and_CC after_CS the_AT MDE_NN1 ._. 
+</s>
+<s>
+The_AT motivation_NN1 of_IO using_VVG an_AT1 MDE_NN1 is_VBZ to_TO ensure_VVI public_JJ safety_NN1 by_II preventing_VVG a_AT1 catastrophic_JJ collapse_NN1 of_IO a_AT1 tunnel_NN1 or_CC underground_JJ structure_NN1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, the_AT ODE_NN1 is_VBZ an_AT1 earthquake_NN1 that_CST is_VBZ expected_VVN to_TO occur_VVI at_RR21 least_RR22 once_RR during_II the_AT structure_NN1 's_GE design_NN1 life_NN1 (_( Hashash_NP1 et_RA21 al_RA22 ._. 2001_MC )_) ._. 
+</s>
+<s>
+An_AT1 ODE_NN1 is_VBZ typically_RR taken_VVN as_II an_AT1 event_NN1 with_IW a_AT1 40_MC to_II 50_MC percent_NNU probability_NN1 of_IO exceedence_NN1 in_II a_AT1 probabilistic_JJ seismic_JJ hazard_NN1 analysis_NN1 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO designing_VVG for_IF an_AT1 ODE_NN1 is_VBZ to_TO have_VHI the_AT tunnel_NN1 to_TO sustain_VVI minimal_JJ damage_NN1 so_CS21 that_CS22 normal_JJ operation_NN1 is_VBZ not_XX affected_VVN by_II the_AT ODE_NN1 ._. 
+</s>
+<s>
+The_AT behavior_NN1 of_IO the_AT tunnel_NN1 components_NN2 should_VM be_VBI designed_VVN to_TO be_VBI within_II the_AT linear_JJ elastic_JJ range_NN1 ._. 
+</s>
+<s>
+Tunnels_NN2 tend_VV0 to_TO sustain_VVI damage_NN1 from_II earthquakes_NN2 based_VVN on_II either_DD1 ground_NN1 failure_NN1 (_( large_JJ deformations_NN2 )_) or_CC ground_NN1 shaking_VVG (_( small_JJ deformations_NN2 )_) ._. 
+</s>
+<s>
+Examples_NN2 of_IO ground_NN1 failure_NN1 include_VV0 liquefaction_NN1 ,_, slope_NN1 instability_NN1 ,_, and_CC fault_NN1 displacement_NN1 ._. 
+</s>
+<s>
+Tunnels_NN2 that_CST are_VBR situated_VVN below_II the_AT ground_NN1 water_NN1 table_NN1 in_II loose_JJ ,_, liquefiable_JJ cohesionless_JJ soil_NN1 deposits_NN2 are_VBR at_II greatest_JJT risk_NN1 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO liquefaction_NN1 ,_, increased_VVD lateral_JJ pressure_NN1 combined_VVN with_IW a_AT1 loss_NN1 of_IO passive_JJ resistance_NN1 could_VM cause_VVI a_AT1 tunnel_NN1 section_NN1 to_TO float_VVI or_CC sink_NN1 ._. 
+</s>
+<s>
+Lateral_JJ displacement_NN1 of_IO the_AT tunnel_NN1 could_VM also_RR occur_VVI due_II21 to_II22 lateral_JJ spreading_NN1 during_II liquefaction_NN1 ._. 
+</s>
+<s>
+Soil_NN1 improvement_NN1 techniques_NN2 may_VM be_VBI used_VVN to_TO improve_VVI the_AT structural_JJ capacity_NN1 of_IO the_AT soil_NN1 surrounding_VVG the_AT tunnel_NN1 prior_II21 to_II22 ,_, during_II ,_, or_CC after_CS the_AT tunnel_NN1 is_VBZ constructed_VVN ._. 
+</s>
+<s>
+Slope_NN1 stability_NN1 problems_NN2 can_VM impact_NN1 a_AT1 tunnels_NN2 section_NN1 if_CS a_AT1 tunnel_NN1 intersects_VVZ the_AT slope_NN1 failure_NN1 surface_NN1 or_CC is_VBZ contained_VVN failed_JJ soil_NN1 mass_NN1 ._. 
+</s>
+<s>
+The_AT entrance_NN1 to_II a_AT1 tunnel_NN1 through_II a_AT1 mountain_NN1 or_CC hillside_NN1 many_DA2 times_NNT2 occurs_VVZ at_II steep_JJ slope_NN1 ._. 
+</s>
+<s>
+Landslide_NN1 damage_NN1 was_VBDZ prevalent_JJ at_II tunnel_NN1 entrances_NN2 during_II the_AT 1999_MC Chi_NP1 Chi_NP1 earthquake_NN1 (_( Hashash_NP1 et_RA21 al_RA22 ._. 2001_MC )_) ._. 
+</s>
+<s>
+Fault_NN1 displacement_NN1 across_II a_AT1 tunnels_NN2 section_NN1 is_VBZ not_XX desirable_JJ ._. 
+</s>
+<s>
+All_DB faults_NN2 need_VV0 to_TO be_VBI identified_VVN and_CC designed_VVN for_IF appropriately_RR ._. 
+</s>
+<s>
+Tunnels_NN2 that_CST cross_VV0 multiple_JJ active_JJ faults_NN2 may_VM not_XX be_VBI economically_RR feasible_JJ ._. 
+</s>
+<s>
+In_II summary_NN1 ,_, tunnel_NN1 projects_NN2 where_RRQ large_JJ deformation_NN1 ground_NN1 failure_NN1 is_VBZ expected_VVN require_VV0 special_JJ design_NN1 methods_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT L.A._NP1 metro_NN1 project_NN1 required_VVN special_JJ design_NN1 to_TO accommodate_VVI an_AT1 expected_JJ maximum_JJ fault_NN1 displacement_NN1 from_II the_AT MDE_NN1 of_IO 4.7_MC feet_NN2 at_II the_AT Santa_NP1 Monica_NP1 and_CC Hollywood_NP1 Fault_NN1 (_( Monsees_NP1 and_CC Merritt_NP1 1984_MC )_) ._. 
+</s>
+<s>
+Conversely_RR ,_, small_JJ deformation_NN1 ground_NN1 shaking_NN1 can_VM be_VBI designed_VVN for_IF directly_RR by_II comparing_VVG capacity_NN1 to_TO demand_VVI of_IO the_AT load_NN1 factor_NN1 combinations_NN2 on_II the_AT tunnel_NN1 or_CC underground_JJ structure_NN1 ._. 
+</s>
+<s>
+The_AT deformations_NN2 modes_NN2 of_IO compression-extension_NN1 ,_, longitudinal-bending_JJ ,_, and_CC Ovaling_VVG /_FO racking_NN1 are_VBR commonly_RR analyzed_VVN analytically_RR based_VVN on_II the_AT free_JJ field_NN1 deformation_NN1 assumption_NN1 ._. 
+</s>
+<s>
+Using_VVG some_DD engineering_NN1 judgment_NN1 and_CC assumptions_NN2 ,_, closed-form_JJ analytical_JJ solutions_NN2 can_VM be_VBI used_VVN to_TO analyze_VVI common_JJ modes_NN2 of_IO tunnel_NN1 deformation_NN1 ._. 
+</s>
+<s>
+Seismic_JJ design_NN1 loading_NN1 criteria_NN2 for_IF tunnels_NN2 and_CC underground_JJ structures_NN2 quantifies_VVZ the_AT effect_NN1 of_IO ground_NN1 shaking_VVG and_CC deformation_NN1 due_II21 to_II22 strong_JJ ground_NN1 motions_NN2 ._. 
+</s>
+<s>
+As_CSA is_VBZ typical_JJ in_II structural_JJ analysis_NN1 ,_, different_JJ load_NN1 combinations_NN2 are_VBR analyzed_VVN using_VVG load_NN1 factors_NN2 ._. 
+</s>
+<s>
+For_IF cut-and-cover_JJ tunnel_NN1 structures_NN2 ,_, the_AT required_JJ structural_JJ strength_NN1 capacity_NN1 is_VBZ determined_VVN from_II the_AT following_JJ equation_NN1 :_: (_( Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 )_) where_RRQ U_ZZ1 is_VBZ the_AT required_JJ structural_JJ capacity_NN1 ,_, D_ZZ1 is_VBZ dead_JJ load_NN1 of_IO the_AT structure_NN1 ,_, L_ZZ1 is_VBZ the_AT live_JJ loads_NN2 ,_, E1_FO is_VBZ the_AT vertical_JJ load_NN1 due_JJ to_TO soil_VVI and_CC pore_NN1 water_NN1 pressure_NN1 ,_, E2_FO is_VBZ the_AT horizontal_JJ load_NN1 due_JJ to_TO soil_VVI and_CC pore_NN1 water_NN1 pressure_NN1 ,_, and_CC EQ_NN1 is_VBZ the_AT design_NN1 earthquake_NN1 load_NN1 ._. 
+</s>
+<s>
+The_AT load_NN1 factors_NN2 to_TO determine_VVI the_AT required_JJ structural_JJ strength_NN1 capacity_NN1 for_IF a_AT1 circular_JJ bored-and-mined_JJ tunnel_NN1 are_VBR given_VVN in_II the_AT following_JJ equation_NN1 ._. 
+</s>
+<s>
+(_( Eq_NN1 ._. 2_MC )_) where_RRQ EX_NN1 is_VBZ the_AT static_JJ load_NN1 due_II21 to_II22 excavation_NN1 and_CC H_ZZ1 is_VBZ the_AT load_NN1 due_II21 to_II22 hydrostatic_JJ water_NN1 pressure_NN1 ._. 
+</s>
+<s>
+U_ZZ1 ,_, D_ZZ1 ,_, L_ZZ1 ,_, and_CC EQ_NN1 have_VH0 the_AT same_DA definition_NN1 ._. 
+</s>
+<s>
+The_AT EQ_NN1 term_NN1 in_II underground_JJ structures_NN2 is_VBZ governed_VVN by_II the_AT imposed_JJ deformation_NN1 of_IO the_AT surrounding_JJ soil_NN1 rather_II21 than_II22 inertial_JJ force_NN1 induced_VVD stresses_NN2 as_CSA in_II surface_NN1 structures_NN2 (_( Hashash_NP1 et_RA21 al_RA22 2001_MC )_) ._. 
+</s>
+<s>
+Seismic_JJ analysis_NN1 consists_VVZ of_IO the_AT following_JJ steps_NN2 ._. 
+</s>
+<s>
+First_MD ,_, the_AT tunnels_NN2 or_CC underground_JJ structure_NN1 is_VBZ initially_RR designed_VVN to_TO have_VHI adequate_JJ strength_NN1 under_II static_JJ ,_, gravity_NN1 loads_NN2 ._. 
+</s>
+<s>
+Second_MD ,_, the_AT tunnel_NN1 's_GE allowable_JJ deformation_NN1 should_VM be_VBI compared_VVN to_II the_AT maximum_JJ deformation_NN1 imposed_VVN by_II the_AT earthquake_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ also_RR referred_VVN to_II as_II the_AT tunnel_NN1 's_GE ductility_NN1 ._. 
+</s>
+<s>
+Third_MD ,_, the_AT structural_JJ capacity_NN1 is_VBZ computed_VVN by_II utilizing_VVG the_AT load_NN1 factor_NN1 design_NN1 procedure_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ where_RRQ the_AT EQ_NN1 in_II Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 and_CC 2_MC comes_VVZ into_II play_NN1 ._. 
+</s>
+<s>
+The_AT internal_JJ moments_NN2 and_CC forces_NN2 due_II21 to_II22 the_AT maximum_JJ design_NN1 earthquake_NN1 (_( MDE_NP1 )_) loading_NN1 are_VBR calculated_VVN from_II the_AT lining_NN1 deformations_NN2 of_IO the_AT surrounds_NN2 soil_NN1 ._. 
+</s>
+<s>
+If_CS the_AT structural_JJ capacity_NN1 of_IO the_AT tunnel_NN1 is_VBZ satisfied_JJ based_VVN Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 or_CC Eq_NN1 ._. 
+</s>
+<s>
+2_MC ,_, then_RT no_AT further_JJR analysis_NN1 is_VBZ required_VVN when_CS designing_VVG for_IF the_AT maximum_JJ design_NN1 earthquake_NN1 (_( MDE_NP1 )_) ._. 
+</s>
+<s>
+However_RR ,_, if_CS the_AT structural_JJ capacity_NN1 or_CC flexural_JJ strength_NN1 is_VBZ insufficient_JJ under_II MDE_NP1 ground_NN1 motions_NN2 ,_, then_RT further_JJR calculations_NN2 are_VBR required_VVN ._. 
+</s>
+<s>
+One_MC1 option_NN1 is_VBZ to_TO redesign_VVI the_AT tunnel_NN1 section_NN1 with_IW greater_JJR ductility_NN1 ._. 
+</s>
+<s>
+Greater_JJR ductility_NN1 will_VM allow_VVI the_AT tunnel_NN1 accommodate_VV0 the_AT deformations_NN2 imposed_VVN by_II the_AT MDE_NN1 ._. 
+</s>
+<s>
+The_AT redesigned_JJ tunnel_NN1 section_NN1 with_IW greater_JJR ductility_NN1 will_VM generally_RR experience_VVI a_AT1 reduction_NN1 in_II earthquake_NN1 forces_NN2 ._. 
+</s>
+<s>
+A_AT1 good_JJ rule_NN1 of_IO thumb_NN1 is_VBZ that_CST the_AT reduction_NN1 (_( force_NN1 reduction_NN1 factor_NN1 )_) of_IO the_AT EQ_NN1 forces_NN2 is_VBZ equal_JJ to_II the_AT ductility_NN1 factor_NN1 (_( Hashash_NP1 et_RA21 al_RA22 2001_MC )_) ._. 
+</s>
+<s>
+An_AT1 acceptable_JJ design_NN1 satisfies_VVZ structural_JJ capacity_NN1 expressed_VVN in_II Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 and_CC 2_MC ._. 
+</s>
+<s>
+An_AT1 alternative_JJ analysis_NN1 procedure_NN1 is_VBZ based_VVN on_II an_AT1 iterative_JJ analysis_NN1 of_IO plastic_NN1 hinges_NN2 which_DDQ will_VM cause_VVI moment_NN1 redistribution_NN1 in_II the_AT tunnel_NN1 structure_NN1 ._. 
+</s>
+<s>
+Areas_NN2 identified_VVN as_CSA plastic_NN1 hinges_NN2 need_VV0 to_TO be_VBI redesigned_VVN to_TO accommodate_VVI the_AT earthquake_NN1 imposed_VVD forces_NN2 and_CC deflections_NN2 ._. 
+</s>
+<s>
+To_TO analyze_VVI a_AT1 cut-and-cover_JJ tunnel_NN1 for_IF the_AT ODE_NN1 ,_, Hashash_NP1 recommends_VVZ the_AT following_JJ equation_NN1 ,_, (_( Eq_NN1 ._. 
+</s>
+<s>
+3_MC )_) where_RRQ (_( Eq_NN1 ._. 4_MC )_) where_RRQ D_ZZ1 ,_, L_ZZ1 ,_, EX_NN1 ,_, EQ_NN1 ,_, and_CC U_ZZ1 are_VBR the_AT same_DA as_CSA before_RT ._. 
+</s>
+<s>
+The_AT load_NN1 factor_NN1 The_AT behavior_NN1 of_IO a_AT1 tunnel_NN1 is_VBZ sometimes_RT approximated_VVN as_II an_AT1 elastic_JJ beam_NN1 that_CST is_VBZ subjected_VVN to_II the_AT earthquake_NN1 ground_NN1 deformations_NN2 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 depicts_VVZ common_JJ tunnel_NN1 deformation_NN1 modes_NN2 as_CSA originally_RR illustrated_VVN by_II Owen_NP1 and_CC Scholl_NP1 (_( 1981_MC )_) ._. 
+</s>
+<s>
+Assuming_VVG tunnel_NN1 deformations_NN2 are_VBR equivalent_JJ to_TO free_VVI field_NN1 deformations_NN2 is_VBZ a_AT1 common_JJ simplifying_JJ assumption_NN1 that_CST is_VBZ used_VVN to_TO analyze_VVI compression-extension_NN1 ,_, longitudinal_JJ bending_NN1 ,_, and_CC ovaling_VVG /_FO racking_NN1 ._. 
+</s>
+<s>
+Free_JJ field_NN1 deformations_NN2 are_VBR the_AT strains_NN2 that_CST are_VBR created_VVN in_II the_AT soil_NN1 or_CC rock_NN1 that_CST neglect_VV0 the_AT deformations_NN2 ._. 
+</s>
+<s>
+The_AT free_JJ field_NN1 deformations_NN2 assumption_NN1 ignores_VVZ the_AT effect_NN1 of_IO soilstructure_NN1 interaction_NN1 ._. 
+</s>
+<s>
+Hashash_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+(_( 2001_MC )_) stresses_VVZ that_CST the_AT free_JJ field_NN1 assumption_NN1 can_VM provide_VVI a_AT1 first_MD order_NN1 estimate_NN1 of_IO the_AT anticipated_JJ deformation_NN1 of_IO the_AT structure_NN1 ._. 
+</s>
+<s>
+Assuming_VVG free_JJ field_NN1 deformations_NN2 ,_, closed-form_JJ elastic_JJ solutions_NN2 have_VH0 been_VBN developed_VVN to_TO estimate_VVI tunnel_NN1 strains_NN2 and_CC deformations_NN2 ._. 
+</s>
+<s>
+These_DD2 solutions_NN2 further_RRR assume_VV0 that_CST the_AT seismic_JJ waves_NN2 are_VBR plane_JJ constant_JJ amplitude_NN1 waves_NN2 at_II all_DB tunnel_NN1 locations_NN2 (_( Hashash_NP1 et_RA21 al_RA22 ._. 2001_MC )_) ._. 
+</s>
+<s>
+Thus_RR ,_, these_DD2 methods_NN2 do_VD0 not_XX account_VVI for_IF the_AT real_JJ effects_NN2 of_IO complex_JJ three-dimensional_JJ wave_NN1 propagation_NN1 ._. 
+</s>
+<s>
+Newmark_NP1 (_( 1967_MC )_) proposed_VVD a_AT1 simplified_JJ method_NN1 for_IF calculating_VVG free_JJ field_NN1 strains_NN2 based_VVN on_II a_AT1 harmonic_JJ wave_NN1 propagating_VVG in_II a_AT1 homogeneous_JJ ,_, isotropic_JJ ,_, elastic_JJ soil_NN1 medium_NN1 ._. 
+</s>
+<s>
+Newmark_NP1 's_GE approach_NN1 was_VBDZ applied_VVN by_II Wang_NP1 (_( 1993_MC )_) to_II seismic_JJ design_NN1 of_IO tunnels_NN2 ,_, and_CC it_PPH1 is_VBZ shown_VVN below_RL as_CSA Figure_NN1 2_MC ._. 
+</s>
+<s>
+The_AT angle_NN1 The_AT variables_NN2 in_II Eq_NN1 ._. 
+</s>
+<s>
+5_MC through_II 23_MC are_VBR defined_VVN as_II the_AT following_JJ :_: 23_MC is_VBZ beyond_II the_AT scope_NN1 of_IO this_DD1 paper_NN1 ,_, and_CC the_AT interested_JJ reader_NN1 is_VBZ referred_VVN to_II St._NP1 John_NP1 and_CC Zarah_NP1 (_( 1987_MC )_) ._. 
+</s>
+<s>
+Ovaling_VVG deformations_NN2 develop_VV0 when_RRQ an_AT1 earthquake_NN1 wave_NN1 propagates_VVZ perpendicular_NN1 to_II the_AT longitudinal_JJ axis_NN1 of_IO the_AT tunnel_NN1 ._. 
+</s>
+<s>
+Ovaling_VVG deformations_NN2 can_VM be_VBI designed_VVN for_IF under_RG twodimensional_JJ plane-strain_JJ conditions_NN2 ._. 
+</s>
+<s>
+According_II21 to_II22 Wang_NP1 (_( 1993_MC )_) ,_, studies_NN2 show_VV0 that_CST vertically_RR propagating_VVG shear_VV0 waves_NN2 are_VBR the_AT predominant_JJ form_NN1 of_IO earthquake_NN1 loading_VVG that_CST causes_VVZ ovalling_VVG deformations_NN2 ._. 
+</s>
+<s>
+Ground_NN1 shear_VV0 distortions_NN2 can_VM be_VBI defined_VVN in_II31 terms_II32 of_II33 the_AT non-perforated_JJ ground_NN1 or_CC the_AT perforated_JJ ground_NN1 ._. 
+</s>
+<s>
+Eq_NN1 ._. 24_MC and_CC 25_MC define_VV0 the_AT maximum_JJ diametric_JJ strain_NN1 (_( ground_NN1 distortions_NN2 )_) as_II a_AT1 function_NN1 of_IO the_AT maximum_JJ free-field_NN1 shear_VV0 strain_NN1 (_( Hashash_NP1 et_RA21 al_RA22 ._. 2001_MC )_) ._. 
+</s>
+<s>
+(_( Eq_NN1 ._. 24_MC )_) (_( Eq_NN1 ._. 25_MC )_)
+</s>
+<s>
+Eq_NN1 ._. 24_MC and_CC 25_MC are_VBR defined_VVN with_IW The_AT Alaskan_JJ Way_NN1 Viaduct_NN1 (_( AWV_NP1 )_) is_VBZ a_AT1 2.1-mile_NNU1 double_JJ deck_NN1 elevated_JJ highway_NN1 structure_NN1 that_CST carries_VVZ North-South_ND1 traffic_NN1 on_II Washington_NP1 State_NN1 Route_NN1 99_MC through_II downtown_JJ Seattle_NP1 ,_, Washington_NP1 along_II the_AT waterfront_NN1 ._. 
+</s>
+<s>
+Carrying_VVG approximately_RR 110,000_MC vehicles_NN2 a_AT1 day_NNT1 ,_, which_DDQ is_VBZ equivalent_JJ to_II about_RG 25_MC percent_NNU of_IO all_RR north-south_ND1 traffic_NN1 through_II Seattle_NP1 ;_; the_AT AWV_NN1 is_VBZ a_AT1 vital_JJ part_NN1 of_IO the_AT region_NN1 's_GE transportation_NN1 infrastructure_NN1 (_( Kirandag_NP1 et_RA21 al_RA22 2007_MC )_) ._. 
+</s>
+<s>
+On_II February_NPM1 28_MC ,_, 2001_MC a_AT1 magnitude_NN1 6.8_MC subduction_NN1 zone_NN1 earthquake_NN1 ,_, struck_VVD the_AT Pacific_NP1 Northwest_ND1 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT University_NN1 of_IO Washington_NP1 Seismology_NP1 Laboratory_NN1 ,_, the_AT earthquake_NN1 had_VHD a_AT1 depth_NN1 of_IO 52_MC km_NNU and_CC a_AT1 hypocenter_JJR about_RG 17.8_MC km_NNU NE_ND1 of_IO Olympia_NP1 ,_, Washington_NP1 and_CC approximately_RR 56_MC km_NNU SW_ND1 of_IO Seattle_NP1 ,_, Washington_NP1 (_( NEC_NP1 2008_MC )_) ._. 
+</s>
+<s>
+The_AT earthquake_NN1 's_GE hypocenter_JJR was_VBDZ located_VVN in_II the_AT unpopulated_JJ Nisqually_NP1 Wildlife_NN1 Refuge_NN1 ;_; consequently_RR ,_, this_DD1 earthquake_NN1 is_VBZ commonly_RR referred_VVN to_II as_II the_AT Nisqually_NP1 Earthquake_NN1 of_IO 2001_MC ._. 
+</s>
+<s>
+The_AT AWV_NP1 sustained_VVD significant_JJ structural_JJ damage_NN1 from_II the_AT Nisqually_NP1 Earthquake_NN1 that_CST included_VVD spalling_VVG concrete_NN1 ,_, cracking_VVG ,_, exposed_JJ rebar_NN1 ,_, weakening_VVG column_NN1 connection_NN1 ,_, and_CC liquefaction_NN1 induced_VVD settlement_NN1 (_( Kirandag_NP1 et_RA21 al_RA22 2007_MC )_) ._. 
+</s>
+<s>
+Prior_II21 to_II22 the_AT Nisqually_NP1 Earthquake_NN1 ,_, WSDOT_NP1 had_VHD already_RR been_VBN working_VVG with_IW structural_JJ and_CC seismic_JJ design_NN1 experts_NN2 to_TO evaluate_VVI the_AT feasibility_NN1 of_IO seismically_RR retrofitting_VVG the_AT 1952_MC era_NN1 cast-in-place_NN1 reinforced_VVD concrete_JJ structure_NN1 (_( Kirandag_NP1 et_RA21 al_RA22 2007_MC )_) ._. 
+</s>
+<s>
+Following_VVG the_AT Nisqually_NP1 Earthquake_NN1 ,_, the_AT AWV_NN1 was_VBDZ closed_VVN for_IF months_NNT2 to_TO revaluate_VVI its_APPGE structural_JJ capacity_NN1 in_II31 light_II32 of_II33 cracking_VVG ,_, and_CC moderate_JJ liquefaction_NN1 induced_VVD settlement_NN1 of_IO portions_NN2 of_IO the_AT foundation_NN1 system_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO repair_VVI and_CC maintain_VVI such_DA an_AT1 important_JJ piece_NN1 of_IO transportation_NN1 infrastructure_NN1 ,_, the_AT Washington_NP1 State_NN1 Department_NN1 of_IO Transportation_NN1 (_( WSDOT_NP1 )_) performed_VVD 3.5_MC million_NNO dollar_NNU1 worth_NN1 of_IO seismic_JJ repairs_NN2 to_II the_AT AWV_NN1 in_II March_NPM1 of_IO 2001_MC (_( WSDOT_NP1 2008_MC )_) ._. 
+</s>
+<s>
+Currently_RR the_AT AWV_NN1 is_VBZ monitored_VVN at_RR21 least_RR22 semiannually_RR by_II WSDOT_NP1 ._. 
+</s>
+<s>
+These_DD2 and_CC other_JJ ad_JJ21 hoc_JJ22 repairs_NN2 resulting_VVG from_II the_AT semiannual_JJ inspections_NN2 of_IO the_AT structure_NN1 to_TO closely_RR monitor_VVI cracks_NN2 ,_, structural_JJ movement_NN1 and_CC foundation_NN1 integrity_NN1 have_VH0 kept_VVN the_AT viaduct_NN1 relatively_RR safe_JJ and_CC functional_JJ under_II gravity_NN1 and_CC normal_JJ traffic_NN1 loads_NN2 ._. 
+</s>
+<s>
+However_RR ,_, a_AT1 permanent_JJ transportation_NN1 solution_NN1 is_VBZ still_RR needed_VVN to_TO replace_VVI the_AT battered_JJ structure_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT anticipated_JJ project_NN1 cost_NN1 on_II the_AT order_NN1 of_IO 2_MC to_II 3_MC billion_NNO dollars_NNU2 ,_, the_AT project_NN1 has_VHZ become_VVN a_AT1 political_JJ hot_JJ potato_NN1 and_CC consensus_NN1 has_VHZ not_XX been_VBN reached_VVN by_II federal_JJ ,_, state_NN1 and_CC city_NN1 government_NN1 officials_NN2 ._. 
+</s>
+<s>
+The_AT three_MC options_NN2 currently_RR being_VBG discussed_VVN are_VBR a_AT1 replacement_NN1 double_JJ deck_NN1 viaduct_NN1 structure_NN1 ,_, attempting_VVG to_TO reroute_VVI SR_NN1 99_MC onto_II an_AT1 expanded_JJ surface_NN1 route_NN1 through_II downtown_JJ Seattle_NP1 ,_, or_CC a_AT1 replacing_VVG the_AT viaduct_NN1 with_IW a_AT1 cutand_NN1 cover-tunnel_NN1 with_IW expanded_JJ transportation_NN1 capacity_NN1 ._. 
+</s>
+<s>
+The_AT cut_NN1 and_CC cover_VV0 tunnel_NN1 option_NN1 will_VM also_RR require_VVI replacement_NN1 of_IO an_AT1 aging_JJ Seattle_NP1 Seawall_NP1 that_CST stabilizes_VVZ fill_NN1 soil_NN1 placed_VVN in_II the_AT in_II phases_NN2 between_II 1906_MC and_CC 1934_MC ._. 
+</s>
+<s>
+The_AT stability_NN1 of_IO the_AT Seattle_NP1 Seawall_NP1 was_VBDZ called_VVN into_II question_NN1 after_II the_AT part_NN1 of_IO the_AT surface_NN1 street_NN1 ,_, Alaskan_JJ Way_NN1 ,_, settled_VVN following_II the_AT Nisqually_NP1 Earthquake_NN1 (_( Kirandag_NP1 et_RA21 al_RA22 2007_MC )_) ._. 
+</s>
+<s>
+Currently_RR ,_, the_AT City_NN1 of_IO Seattle_NP1 favors_VVZ the_AT more_RGR expensive_JJ the_AT cut-and-cover_JJ tunnel_NN1 option_NN1 ;_; whereas_CS ,_, the_AT State_NN1 of_IO Washington_NP1 has_VHZ favored_VVN a_AT1 smaller_JJR tunnel_NN1 or_CC a_AT1 replacement_NN1 viaduct_NN1 structure_NN1 ._. 
+</s>
+<s>
+Recently_RR ,_, Washington_NP1 Governor_NNB Christine_NP1 Gregoire_NP1 set_VVD the_AT execution_NN1 date_NN1 for_IF the_AT aging_JJ AWV_NN1 ._. 
+</s>
+<s>
+The_AT existing_JJ AWV_NN1 is_VBZ planned_VVN to_TO be_VBI demolished_VVN in_II 2012_MC despite_II the_AT lack_NN1 of_IO a_AT1 consensus_NN1 by_II federal_JJ ,_, state_VV0 ,_, and_CC local_JJ government_NN1 officials_NN2 of_IO how_RRQ to_TO reroute_VVI the_AT traffic_NN1 (_( McGann_NP1 2008_MC )_) ._. 
+</s>
+<s>
+However_RR ,_, engineering_NN1 services_NN2 have_VH0 begun_VVN preliminary_JJ geotechnical_JJ ,_, structural_JJ and_CC seismic_JJ analyses_NN2 for_IF the_AT cut-and-cover_JJ tunnel_NN1 option_NN1 ._. 
+</s>
+<s>
+The_AT Washington_NP1 State_NN1 Department_NN1 of_IO Transportation_NN1 contracted_VVN with_IW Parsons_NP1 Brinckerhoff_NP1 to_TO do_VDI an_AT1 Environmental_JJ Impact_NN1 Study_NN1 and_CC to_TO perform_VVI conceptual_JJ and_CC preliminary_JJ engineering_NN1 for_IF the_AT proposed_JJ Alaskan_JJ Way_NN1 Tunnel_NN1 (_( Kirandag_NP1 2007_MC )_) ._. 
+</s>
+<s>
+A_AT1 1-mile_NNU1 cut-and-cover_JJ tunnel_NN1 ,_, representing_VVG the_AT most_RGT favored_JJ option_NN1 by_II the_AT City_NN1 of_IO Seattle_NP1 ,_, has_VHZ been_VBN analyzed_VVN by_II the_AT team_NN1 lead_NN1 by_II Parson_NP1 's_GE Brinckerhoff_NN1 ._. 
+</s>
+<s>
+Figure_NN1 5_MC shows_VVZ an_AT1 existing_JJ cross_NN1 section_NN1 of_IO the_AT AWV_NN1 ._. 
+</s>
+<s>
+Figures_NN2 6_MC and_CC 7_MC show_NN1 two_MC typical_JJ sections_NN2 of_IO the_AT proposed_JJ Alaskan_JJ Way_NN1 tunnel_NN1 (_( Kirandag_NP1 et_RA21 al_RA22 2007_MC )_) ._. 
+</s>
+<s>
+The_AT typical_JJ cross_NN1 section_NN1 involves_VVZ a_AT1 double_JJ stacked_JJ box_NN1 section_NN1 cut-and-cover_NN1 tunnel_NN1 ._. 
+</s>
+<s>
+The_AT tunnel_NN1 would_VM transitions_NN2 to_II a_AT1 side_NN1 by_II side_NN1 at_II grade_NN1 highway_NN1 just_RR south_ND1 of_IO the_AT existing_JJ AWV_NN1 ._. 
+</s>
+<s>
+The_AT seismic_JJ design_NN1 for_IF the_AT project_NN1 considers_VVZ a_AT1 MDE_NN1 corresponding_VVG to_II 3_MC percent_NNU probability_NN1 of_IO exceedence_NN1 in_II 75_MC years_NNT2 (_( return_VV0 period_NN1 of_IO 108_MC years_NNT2 )_) and_CC an_AT1 ODE_NN1 corresponding_VVG to_II a_AT1 50_MC percent_NNU probability_NN1 of_IO exceedence_NN1 in_II 75_MC years_NNT2 (_( return_VV0 period_NN1 of_IO 2475_MC years_NNT2 )_) ._. 
+</s>
+<s>
+The_AT design_NN1 life_NN1 of_IO the_AT structure_NN1 is_VBZ 75_MC years_NNT2 (_( Kirandag_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+2007_MC )_) ._. 
+</s>
+<s>
+A_AT1 probabilistic_JJ seismic_JJ hazard_NN1 analysis_NN1 has_VHZ been_VBN performed_VVN by_II Shannon_NP1 and_CC Wilson_NP1 Inc_JJ ._. 
+</s>
+<s>
+Seismic_JJ design_NN1 of_IO the_AT tunnel_NN1 for_IF 2,500-year_FO ground_NN1 motions_NN2 indicated_VVD that_CST the_AT primary_JJ contributor_NN1 to_II seismic_JJ hazard_NN1 for_IF this_DD1 level_NN1 of_IO risk_NN1 is_VBZ the_AT nearby_JJ Seattle_NP1 Fault_NN1 Zone_NN1 rather_II21 than_II22 the_AT Cascadia_NP1 Subduction_NN1 Zones_NN2 (_( Kirandag_NP1 et_RA21 al_RA22 ._. 2007_MC )_) ._. 
+</s>
+<s>
+Over_RG 150_MC soil_NN1 borings_NN2 and_CC monitoring_VVG wells_NN2 were_VBDR used_VVN to_TO characterize_VVI the_AT engineering_NN1 properties_NN2 of_IO the_AT existing_JJ project_NN1 site_NN1 ._. 
+</s>
+<s>
+Liquefaction_NN1 was_VBDZ found_VVN to_TO be_VBI a_AT1 major_JJ concern_NN1 because_CS the_AT average_NN1 N_ZZ1 values_NN2 was_VBDZ around_RG 10_MC blows_NN2 per_II foot_NN1 in_II the_AT loose_JJ to_II medium_JJ dense_JJ fill_NN1 ._. 
+</s>
+<s>
+The_AT geotechnical_JJ investigation_NN1 data_NN was_VBDZ used_VVN as_CSA input_NN1 parameters_NN2 to_II developing_JJ site_NN1 specific_JJ ground_NN1 motions_NN2 that_CST included_VVD liquefaction_NN1 ,_, non-linear_JJ soil_NN1 response_NN1 and_CC fault_NN1 directivity_NN1 effects_NN2 ._. 
+</s>
+<s>
+The_AT finite_JJ difference_NN1 program_NN1 FLAC_NN1 was_VBDZ used_VVN to_TO model_VVI the_AT soil-structure_JJ interaction_NN1 of_IO the_AT proposed_JJ design_NN1 ._. 
+</s>
+<s>
+This_DD1 project_NN1 illustrates_VVZ the_AT importance_NN1 of_IO performing_VVG site_NN1 specific_JJ design_NN1 and_CC advanced_JJ computer_NN1 modeling_VVG for_IF underground_JJ tunnels_NN2 in_II a_AT1 highly_RR active_JJ seismic_JJ region_NN1 ._. 
+</s>
+<s>
+My_APPGE original_JJ contribution_NN1 to_II this_DD1 project_NN1 is_VBZ to_TO compare_VVI analytical_JJ and_CC numerical_JJ solutions_NN2 the_AT ovaling_JJ deformation_NN1 mode_NN1 ._. 
+</s>
+<s>
+A_AT1 simplified_JJ finite_JJ element_NN1 analysis_NN1 of_IO an_AT1 unlined_JJ circular_JJ tunnel_NN1 was_VBDZ performed_VVN using_VVG ABAQUS_NN1 ._. 
+</s>
+<s>
+Figure_NN1 8_MC shows_VVZ the_AT model_NN1 inputs_NN2 ._. 
+</s>
+<s>
+Model_NN1 input_NN1 parameters_NN2 included_VVD the_AT following_JJ :_: Figure_NN1 9_MC shows_VVZ that_CST the_AT shear_VV0 stress_NN1 gradient_NN1 ._. 
+</s>
+<s>
+The_AT maximum_NN1 shear_VV0 stress_NN1 from_II the_AT finite_JJ element_NN1 model_NN1 was_VBDZ on_II the_AT order_NN1 of_IO 1,022_MC kPa_NN1 ._. 
+</s>
+<s>
+Moreover_RR ,_, I_PPIS1 used_VVD Eq_NN1 ._. 13_MC and_CC Eq_NN1 ._. 23_MC to_TO compute_VVI the_AT maximum_NN1 shear_VV0 stress_NN1 ._. 
+</s>
+<s>
+Calculations_NN2 are_VBR shown_VVN in_II Appendix_NN1 A._NP1 I_PPIS1 found_VVD that_CST the_AT analytical_JJ free-field_JJ solution_NN1 was_VBDZ 2,884_MC kPa_NN1 ._. 
+</s>
+<s>
+Further_JJR analysis_NN1 is_VBZ required_VVN to_TO compare_VVI analytical_JJ and_CC numerical_JJ finite_JJ element_NN1 solutions_NN2 ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 example_NN1 shows_VVZ that_CST both_DB2 solutions_NN2 were_VBDR on_II the_AT same_DA order_NN1 of_IO magnitude_NN1 ._. 
+</s>
+<s>
+Moreover_RR ,_, the_AT free-field_JJ analytical_JJ solution_NN1 was_VBDZ greater_JJR than_CSN the_AT numerical_JJ solution_NN1 as_CSA would_VM be_VBI expected_VVN ._. 
+</s>
+<s>
+In_II summary_NN1 ,_, this_DD1 paper_NN1 presented_VVD analytically_RR developed_JJ equations_NN2 to_TO analyze_VVI tunnels_NN2 and_CC underground_JJ structures_NN2 under_II strong_JJ ground_NN1 motions_NN2 ._. 
+</s>
+<s>
+Seismic_JJ design_NN1 of_IO tunnels_NN2 should_VM aim_VVI to_TO create_VVI ductile_JJ structures_NN2 that_CST are_VBR able_JK to_TO move_VVI with_IW the_AT subsurface_NN1 soil_NN1 under_II small_JJ deformation_NN1 ground_NN1 shaking_VVG ._. 
+</s>
+<s>
+The_AT historic_JJ performance_NN1 of_IO tunnels_NN2 in_II California_NP1 ,_, Japan_NP1 and_CC Taiwan_NP1 showed_VVD the_AT importance_NN1 of_IO including_VVG seismic_JJ design_NN1 considerations_NN2 in_II all_DB tunnels_NN2 and_CC underground_JJ constructed_JJ facilities_NN2 ._. 
+</s>
+<s>
+The_AT Alaskan_JJ Way_NN1 Viduct_NN1 case_NN1 study_NN1 showed_VVD the_AT importance_NN1 of_IO performing_VVG a_AT1 site_NN1 specific_JJ numerical_JJ analysis_NN1 for_IF significant_JJ projects_NN2 in_II highly_RR seismic_JJ regions_NN2 ._. 
+</s>
+<s>
+The_AT vast_JJ majority_NN1 of_IO tunnels_NN2 underground_JJ structures_NN2 improve_VV0 the_AT general_JJ population_NN1 's_GE quality_NN1 of_IO life_NN1 ._. 
+</s>
+<s>
+Geotechnical_JJ earthquake_NN1 engineers_NN2 play_VV0 an_AT1 important_JJ role_NN1 to_II designing_VVG safe_JJ underground_JJ infrastructure_NN1 for_IF the_AT future_NN1 ._. 
+</s>

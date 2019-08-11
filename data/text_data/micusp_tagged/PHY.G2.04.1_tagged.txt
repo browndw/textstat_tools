@@ -1,0 +1,129 @@
+<s>
+Our_APPGE group_NN1 is_VBZ examining_VVG stimulated_JJ Raman_NN1 adiabatic_JJ passage_NN1 (_( STIRAP_NP1 )_) ,_, its_APPGE applications_NN2 ,_, and_CC its_APPGE variants_NN2 ._. 
+</s>
+<s>
+STIRAP_NP1 is_VBZ an_AT1 effective_JJ method_NN1 of_IO population_NN1 transfer_NN1 ;_; it_PPH1 depends_VVZ on_II the_AT existence_NN1 of_IO a_AT1 dark_JJ state_NN1 ,_, one_PN1 that_CST can_56 not_56 radiatively_RR decay_VVI ._. 
+</s>
+<s>
+In_II a_AT1 three-level_JJ system_NN1 ,_, where_CS state_NN1 2_MC can_VM decay_VVI to_II states_NN2 1_MC1 and_CC 3_MC ,_, STIRAP_NP1 uses_VVZ a_AT1 counter-intuitive_JJ pulse_NN1 ordering_VVG to_TO transfer_VVI the_AT population_NN1 from_II an_AT1 initially_RR populated_VVN state_NN1 1_MC1 into_II a_AT1 target_NN1 state_NN1 3_MC ._. 
+</s>
+<s>
+State_VV0 2_MC is_VBZ surprisingly_RR never_RR populated_VVN ,_, and_CC therefore_RR allows_VVZ efficient_JJ transfer_NN1 when_CS the_AT decay_NN1 properties_NN2 of_IO state_NN1 2_MC would_VM otherwise_RR prohibit_VVI transfer_NN1 ._. 
+</s>
+<s>
+STIRAP_NP1 has_VHZ many_DA2 applications_NN2 including_II coherent_JJ control_NN1 in_II molecular_JJ reactions_NN2 and_CC quantum_NN1 information_NN1 ._. 
+</s>
+<s>
+While_CS rapid_JJ and_CC complete_JJ population_NN1 transfer_NN1 is_VBZ useful_JJ in_II an_AT1 of_IO itself_PPX1 ,_, we_PPIS2 may_VM also_RR want_VVI to_TO create_VVI coherent_JJ superpositions_NN2 of_IO states_NN2 for_IF use_NN1 in_II quantum_NN1 information_NN1 systems_NN2 ._. 
+</s>
+<s>
+Techniques_NN2 such_II21 as_II22 the_AT -pulse_JJ method_NN1 do_VD0 allow_VVI us_PPIO2 to_TO create_VVI these_DD2 superpositions_NN2 ;_; however_RR it_PPH1 requires_VVZ precise_JJ knowledge_NN1 of_IO the_AT transition_NN1 moment_NN1 and_CC exact_JJ control_NN1 of_IO the_AT pulse_NN1 area_NN1 ._. 
+</s>
+<s>
+Tripod-STIRAP_NP1 allows_VVZ us_PPIO2 to_TO create_VVI coherent_JJ populations_NN2 in_II a_AT1 much_RR more_RGR robust_JJ matter_NN1 ,_, one_PN1 that_CST is_VBZ relatively_RR insensitive_JJ to_II fluctuations_NN2 in_II the_AT pulse_NN1 amplitude_NN1 and_CC one_PN1 that_CST does_VDZ not_XX depend_VVI on_II previous_JJ knowledge_NN1 of_IO the_AT transition_NN1 dipole_NN1 ._. 
+</s>
+<s>
+Like_II STIRAP_NP1 ,_, its_APPGE four-level_JJ variant_NN1 also_RR does_VDZ not_XX depend_VVI on_II the_AT decay_NN1 characteristics_NN2 of_IO the_AT excited_JJ state_NN1 ._. 
+</s>
+<s>
+The_AT underlying_JJ theory_NN1 behind_II tripod-STIRAP_NP1 is_VBZ that_DD1 of_IO a_AT1 simple_JJ four-level_JJ system_NN1 :_: three_MC degenerate_JJ energy_NN1 levels_NN2 ,_, and_CC a_AT1 fourth_MD ,_, excited_JJ energy_NN1 level_NN1 ._. 
+</s>
+<s>
+Three_MC laser_NN1 pulses_NN2 separately_RR couple_VV0 each_DD1 one_PN1 of_IO the_AT degenerate_JJ atomic_JJ states_NN2 to_II the_AT excited_JJ state_NN1 ,_, as_CSA shown_VVN in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+This_DD1 section_NN1 follows_VVZ the_AT work_NN1 of_IO Unanyan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+and_CC recreates_VVZ their_APPGE results_NN2 for_IF a_AT1 given_JJ pulse_NN1 sequence_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+Starting_VVG with_IW a_AT1 system_NN1 in_II its_APPGE ground_NN1 state_NN1 ,_, we_PPIS2 desire_VV0 to_TO find_VVI a_AT1 pulse_NN1 sequence_NN1 such_CS21 that_CS22 we_PPIS2 end_VV0 up_RP in_II an_AT1 arbitrary_JJ superposition_NN1 of_IO states_NN2 given_VVN by_II a_AT1 mixing_NN1 angle_NN1 Ideally_RR ,_, we_PPIS2 would_VM also_RR be_VBI able_JK to_TO reverse_VVI the_AT process_NN1 as_RR21 well_RR22 ,_, such_CS21 that_CS22 we_PPIS2 could_VM measure_VVI the_AT coherence_NN1 of_IO the_AT superposition_NN1 ._. 
+</s>
+<s>
+When_CS we_PPIS2 first_MD consider_VV0 the_AT bare_JJ atomic_JJ states_NN2 ,_, the_AT evolution_NN1 is_VBZ governed_VVN by_II the_AT Schrodinger_JJR equation_NN1 :_: where_RRQ C(t)_NP1 is_VBZ a_AT1 column_NN1 vector_NN1 containing_VVG the_AT probability_NN1 amplitudes_NN2 ,_, andW(t)_NN1 is_VBZ an_AT1 evolution_NN1 matrix_NN1 ,_, where_CS P(t)_FO ,_, Q(t)_NP1 and_CC S(t)_NP1 are_NP1 the_AT pump_NN1 ,_, control_NN1 and_CC Stokes_NP1 Rabi_NP1 frequencies_NN2 :_: As_CSA we_PPIS2 can_VM see_VVI from_II the_AT evolution_NN1 matrix_NN1 ,_, the_AT lasers_NN2 provide_VV0 the_AT only_JJ coupling_NN1 between_II any_DD of_IO the_AT atomic_JJ states_NN2 ,_, and_CC we_PPIS2 ignore_VV0 the_AT radiative_JJ decay_NN1 from_II state_NN1 2_MC ._. 
+</s>
+<s>
+This_DD1 simplification_NN1 is_VBZ valid_JJ for_IF tripod-STIRAP_JJ sequences_NN2 since_CS ,_, throughout_II the_AT interaction_NN1 ,_, the_AT population_NN1 of_IO the_AT excited_JJ state_NN1 is_VBZ negligible_JJ ._. 
+</s>
+<s>
+For_IF a_AT1 given_JJ pulse_NN1 sequence_NN1 ,_, we_PPIS2 numerically_RR solve_VV0 these_DD2 differential_JJ equations_NN2 to_TO determine_VVI the_AT final_JJ populations_NN2 of_IO the_AT atomic_JJ states_NN2 ,_, where_CS the_AT population_NN1 in_II state_NN1 n_ZZ1 is_VBZ given_VVN by_II Cn2_FO ._. 
+</s>
+<s>
+By_II varying_VVG the_AT delay_NN1 of_IO the_AT control_NN1 pulse_NN1 ,_, we_PPIS2 can_VM create_VVI an_AT1 arbitrary_JJ superposition_NN1 of_IO states_NN2 1_MC1 and_CC 3_MC ._. 
+</s>
+<s>
+Much_DA1 as_CSA in_II the_AT standard_JJ STIRAP_NN1 scheme_NN1 ,_, we_PPIS2 can_VM form_VVI a_AT1 new_JJ basis_NN1 of_IO dressed_JJ states_NN2 from_II these_DD2 atomic_JJ states_NN2 ._. 
+</s>
+<s>
+In_II the_AT tripod_NN1 scheme_NN1 ,_, however_RR ,_, we_PPIS2 will_VM have_VHI two_MC dark_JJ states_NN2 that_CST are_VBR immune_JJ to_II radiative_JJ decay_NN1 ;_; that_REX21 is_REX22 ,_, they_PPHS2 contain_VV0 no_AT portion_NN1 of_IO the_AT atomic_JJ state_NN1 2._MC where_RRQ the_AT angles_NN2 are_VBR given_VVN in_II31 relation_II32 to_II33 the_AT applied_JJ pulses_NN2 :_: The_AT two_MC dark_JJ states_NN2 ,_, The_AT Schrodinger_JJR equation_NN1 transforms_VVZ in_II this_DD1 basis_NN1 to_II :_: where_RRQ We_PPIS2 can_VM see_VVI from_II this_DD1 new_JJ evolution_NN1 matrix_NN1 that_CST the_AT dark_JJ states_NN2 couple_VV0 to_II each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+When_CS we_PPIS2 consider_VV0 only_RR the_AT dark_JJ states_NN2 ,_, we_PPIS2 can_VM find_VVI the_AT general_JJ solution_NN1 to_TO be_VBI :_: where_RRQ To_TO calculate_VVI the_AT mixing_NN1 angle_NN1 ,_, we_PPIS2 simply_RR need_VV0 to_TO calculate_VVI Unanyan_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+show_VV0 that_CST the_AT mixing_NN1 angle_NN1 is_VBZ insensitive_JJ to_II the_AT amplitude_NN1 of_IO the_AT control_NN1 pulse_NN1 ,_, and_CC they_PPHS2 claim_VV0 that_CST similar_JJ insensitivity_NN1 holds_VVZ for_IF the_AT pump_NN1 and_CC Stokes_NP1 pulses_NN2 as_RR21 well_RR22 (_( 3_MC )_) ,_, which_DDQ I_PPIS1 show_VV0 in_II Figure_NN1 4_MC ._. 
+</s>
+<s>
+Even_CS21 when_CS22 techniques_NN2 work_VV0 well_RR in_II theory_NN1 ,_, it_PPH1 can_VM still_RR be_VBI difficult_JJ to_TO put_VVI them_PPHO2 into_II practice_NN1 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO tripod-STIRAP_NP1 ,_, one_MC1 first_MD needs_VVZ to_TO find_VVI an_AT1 atom_NN1 with_IW suitable_JJ energy_NN1 levels_NN2 ._. 
+</s>
+<s>
+Three_MC states_NN2 should_VM be_VBI metastable_JJ and_CC degenerate_JJ (_( or_CC nearly_RR so_RR )_) ,_, with_IW an_AT1 excited_JJ state_NN1 that_CST can_VM easily_RR and_CC individually_RR couple_VV0 to_II each_DD1 of_IO the_AT ground_NN1 states_NN2 ._. 
+</s>
+<s>
+Vewinger_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+chose_VVD 20Ne_FO ;_; the_AT couplings_NN2 between_II the_AT 3P0,1,2_FO levels_NN2 fit_VV0 the_AT criteria_NN2 well_RR ,_, as_CSA shown_VVN in_II Figure_NN1 5_MC (_( 5_MC )_) ._. 
+</s>
+<s>
+This_DD1 section_NN1 considers_VVZ their_APPGE experimental_JJ tripod-STIRAP_JJ scheme_NN1 ,_, and_CC briefly_RR discusses_VVZ how_RRQ they_PPHS2 measured_VVD the_AT superposition_NN1 they_PPHS2 created_VVD ._. 
+</s>
+<s>
+Since_CS the_AT tripod-STIRAP_JJ scheme_NN1 is_VBZ so_RG robust_JJ and_CC insensitive_JJ to_II small_JJ variations_NN2 in_II many_DA2 of_IO the_AT parameters_NN2 ,_, this_DD1 scheme_NN1 can_VM be_VBI used_VVN with_IW atomic_JJ beams_NN2 passing_VVG through_II transverse_JJ laser_NN1 beams_NN2 ._. 
+</s>
+<s>
+The_AT velocity_NN1 distribution_NN1 in_II the_AT atomic_JJ beam_NN1 will_VM only_RR result_VVI in_II a_AT1 rescaling_NN1 of_IO the_AT time_NNT1 axis_NN1 ,_, which_DDQ does_VDZ not_XX affect_VVI the_AT mixing_NN1 angle_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+In_II Vewinger_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+'s_VBZ experiment_NN1 ,_, the_AT Due_JJ to_II the_AT different_JJ pulses_NN2 needed_VVN to_TO create_VVI the_AT superposition_NN1 between_II the_AT where_RRQ In_II practice_NN1 ,_, however_RR ,_, it_PPH1 does_VDZ little_DA1 good_JJ to_TO create_VVI this_DD1 coherent_JJ superposition_NN1 of_IO states_NN2 without_IW a_AT1 way_NN1 to_TO measure_VVI it_PPH1 ._. 
+</s>
+<s>
+To_II that_DD1 end_NN1 ,_, after_CS the_AT beam_NN1 is_VBZ prepared_VVN in_II the_AT superposition_NN1 ,_, it_PPH1 travels_VVZ through_II a_AT1 filter_NN1 laser_NN1 that_CST is_VBZ polarized_VVN at_II an_AT1 angle_NN1 where_CS For_IF a_AT1 coherent_JJ superposition_NN1 ,_, we_PPIS2 see_VV0 a_AT1 modulation_NN1 of_IO the_AT signal_NN1 as_CSA we_PPIS2 vary_VV0 The_AT ability_NN1 to_TO create_VVI and_CC measure_VVI a_AT1 coherent_JJ superposition_NN1 has_VHZ clear_JJ applications_NN2 in_II quantum_NN1 information_NN1 ,_, especially_RR in_II areas_NN2 where_RRQ the_AT precise_JJ coupling_NN1 strength_NN1 is_VBZ n't_XX known_VVN and_CC the_AT However_RR ,_, quantum_NN1 information_NN1 is_VBZ not_XX the_AT only_JJ application_NN1 ._. 
+</s>
+<s>
+Theuer_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+demonstrated_VVN a_AT1 method_NN1 to_TO use_VVI tripod-STIRAP_JJ to_TO act_VVI as_II an_AT1 atomic_JJ beam_NN1 splitter_NN1 (_( 2_MC )_) ._. 
+</s>
+<s>
+They_PPHS2 use_VV0 an_AT1 experimental_JJ setup_NN1 very_RG similar_JJ to_II that_DD1 of_IO Vewinger_NP1 et_RA21 al._RA22 ,_, and_CC they_PPHS2 also_RR use_VV0 an_AT1 atomic_JJ beam_NN1 of_IO 20Ne_FO (_( 5_MC )_) ._. 
+</s>
+<s>
+In_II this_DD1 setup_NN1 ,_, however_RR ,_, the_AT Figure_NN1 10_MC :_: The_AT results_NN2 from_II using_VVG tripod-STIRAP_NN1 as_II an_AT1 atomic_JJ beam_NN1 splitter_NN1 ,_, as_CSA depicted_VVN in_II (_( 2_MC )_) ._. 
+</s>
+<s>
+The_AT two_MC peaks_NN2 correspond_VV0 to_II the_AT M_ZZ1 =_FO 1_MC1 states_VVZ ,_, and_CC the_AT multiple_JJ graphs_NN2 show_VV0 the_AT variation_NN1 in_II the_AT peaks_NN2 as_II the_AT As_CSA I_PPIS1 have_VH0 demonstrated_VVN ,_, tripod-STIRAP_NP1 is_VBZ a_AT1 useful_JJ scheme_NN1 for_IF creating_VVG an_AT1 arbitrary_JJ coherent_JJ superposition_NN1 of_IO states_NN2 in_II a_AT1 four-level_JJ system_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN demonstrated_VVN experimentally_RR with_IW 20Ne_FO ,_, and_CC techniques_NN2 for_IF measuring_VVG the_AT superposition_NN1 have_VH0 also_RR been_VBN shown_VVN ._. 
+</s>
+<s>
+This_DD1 technique_NN1 is_VBZ quite_RG robust_JJ and_CC insensitive_JJ to_II slight_JJ variations_NN2 in_II the_AT pulse_NN1 parameters_NN2 ._. 
+</s>
+<s>
+Since_CS it_PPH1 also_RR does_VDZ not_XX depend_VVI on_II precise_JJ knowledge_NN1 of_IO the_AT transition_NN1 dipoles_NN2 ,_, it_PPH1 can_VM be_VBI used_VVN in_II applications_NN2 where_RRQ the_AT couplings_NN2 are_VBR unknown_JJ and_CC the_AT -pulse_JJ method_NN1 is_VBZ not_XX feasible_JJ ._. 
+</s>
+<s>
+Tripod-STIRAP_NP1 is_VBZ also_RR useful_JJ in_II a_AT1 host_NN1 of_IO applications_NN2 ,_, from_II creating_VVG and_CC rotating_VVG qubits_NN2 ,_, with_IW a_AT1 potential_JJ extension_NN1 to_II other_JJ quantum_NN1 logic_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM also_RR be_VBI used_VVN as_II an_AT1 atomic_JJ beam_NN1 splitter_NN1 ._. 
+</s>

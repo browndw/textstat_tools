@@ -1,0 +1,216 @@
+<s>
+The_AT demands_NN2 of_IO large-scale_JJ human_JJ settlement_NN1 ,_, such_II21 as_II22 agricultural_JJ production_NN1 and_CC the_AT building_NN1 of_IO urban_JJ environments_NN2 ,_, often_RR come_VV0 into_II conflict_NN1 with_IW the_AT welfare_NN1 of_IO non-human_JJ natural_JJ systems_NN2 ._. 
+</s>
+<s>
+Human_JJ society_NN1 requires_VVZ a_AT1 constant_JJ stream_NN1 of_IO resource_NN1 inputs_NN2 from_II the_AT natural_JJ environment_NN1 and_CC also_RR creates_VVZ a_AT1 constant_JJ stream_NN1 of_IO waste_NN1 outputs_VVZ that_CST must_VM be_VBI dumped_VVN into_II one_MC1 environmental_JJ "_" sink_NN1 "_" or_CC another_DD1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT most_RGT problematic_JJ of_IO these_DD2 waste_VV0 streams_NN2 is_VBZ sewage_NN1 effluent_NN1 ,_, since_CS it_PPH1 can_VM cause_VVI significant_JJ damage_NN1 to_II the_AT environment_NN1 into_II which_DDQ it_PPH1 is_VBZ dumped_VVN if_CS left_JJ untreated_JJ ,_, and_CC it_PPH1 is_VBZ inevitable_JJ ._. 
+</s>
+<s>
+Thus_RR ,_, modern_JJ industrial_JJ societies_NN2 since_CS the_AT nineteenth_MD century_NNT1 have_VH0 developed_VVN increasingly_RR sophisticated_JJ treatment_NN1 systems_NN2 in_II order_NN1 to_II at_RR21 least_RR22 partially_RR mitigate_VV0 the_AT environmental_JJ damage_NN1 resulting_VVG from_II sewage_NN1 ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, the_AT impetus_NN1 for_IF sewage_NN1 treatment_NN1 has_VHZ largely_RR been_VBN government_NN1 regulation_NN1 ,_, since_CS the_AT benefits_NN2 of_IO treatment_NN1 (_( cleaner_JJR water_NN1 ,_, healthier_JJR natural_JJ systems_NN2 and_CC more_RGR robust_JJ fish_NN populations_NN2 )_) are_VBR widely_RR distributed_VVN within_II a_AT1 watershed_NN1 and_CC the_AT costs_NN2 are_VBR highly_RR concentrated_VVN in_II the_AT organization_NN1 responsible_JJ for_IF the_AT treatment_NN1 ._. 
+</s>
+<s>
+These_DD2 costs_NN2 are_VBR significant_JJ ,_, and_CC no_AT private_JJ entity_NN1 on_II its_APPGE own_DA has_VHZ an_AT1 incentive_NN1 to_TO guarantee_VVI clean_JJ water_NN1 for_IF everyone_PN1 else_RR ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, the_AT benefits_NN2 of_IO sewage_NN1 treatment_NN1 are_VBR public_JJ goods_NN2 ,_, and_CC economic_JJ theory_NN1 predicts_VVZ that_CST public_JJ goods_NN2 will_VM be_VBI inadequately_RR supplied_VVN unless_CS the_AT government_NN1 intervenes_VVZ and_CC requires_VVZ a_AT1 particular_JJ entity_NN1 to_TO provide_VVI them_PPHO2 ._. 
+</s>
+<s>
+Also_RR ,_, there_EX is_VBZ a_AT1 question_NN1 about_II exactly_RR what_DDQ minimum_JJ level_NN1 of_IO cleanliness_NN1 is_VBZ necessary_JJ to_TO maintain_VVI a_AT1 healthy_JJ environment_NN1 ,_, and_CC government_NN1 must_VM set_VVI a_AT1 common_JJ standard_NN1 throughout_II a_AT1 watershed_NN1 ._. 
+</s>
+<s>
+The_AT assumption_NN1 in_II the_AT case_NN1 of_IO sewage_NN1 is_VBZ that_CST it_PPH1 must_VM be_VBI treated_VVN in_BCL21 order_BCL22 to_TO ensure_VVI the_AT health_NN1 of_IO the_AT local_JJ and_CC downstream_JJ environment_NN1 ,_, and_CC that_CST some_DD form_NN1 of_IO regulation_NN1 is_VBZ required_VVN in_BCL21 order_BCL22 to_TO guarantee_VVI that_CST a_AT1 certain_JJ minimum_JJ amount_NN1 of_IO sewage_NN1 treatment_NN1 takes_VVZ place_NN1 ._. 
+</s>
+<s>
+This_DD1 lab_NN1 ,_, then_RT ,_, is_VBZ designed_VVN to_TO model_VVI the_AT costs_NN2 and_CC benefits_NN2 of_IO selecting_VVG various_JJ sewage_NN1 treatment_NN1 options_NN2 and_CC the_AT variables_NN2 which_DDQ affect_VV0 that_DD1 selection_NN1 ._. 
+</s>
+<s>
+By_II exploring_VVG the_AT effect_NN1 of_IO these_DD2 variables_NN2 on_II the_AT total_JJ costs_NN2 to_II society_NN1 from_II sewage_NN1 treatment_NN1 using_VVG a_AT1 mathematical_JJ model_NN1 ,_, one_PN1 can_VM make_VVI better-informed_JJR decisions_NN2 about_II which_DDQ sewage_NN1 treatment_NN1 options_NN2 are_VBR most_RGT cost-effective_JJ ._. 
+</s>
+<s>
+The_AT system_NN1 modeled_VVD in_II the_AT lab_NN1 is_VBZ the_AT case_NN1 of_IO a_AT1 sewage_NN1 treatment_NN1 plant_NN1 releasing_VVG effluent_NN1 into_II a_AT1 river_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 variables_NN2 considered_VVN in_II the_AT lab_NN1 :_: the_AT design_NN1 of_IO the_AT treatment_NN1 plant_NN1 ,_, the_AT strictness_NN1 of_IO regulation_NN1 ,_, the_AT rate_NN1 of_IO river_NN1 discharge_NN1 ,_, and_CC the_AT channel_NN1 flow_NN1 ._. 
+</s>
+<s>
+The_AT effects_NN2 of_IO manipulating_VVG each_DD1 variable_NN1 ,_, independently_RR of_IO the_AT others_NN2 ,_, are_VBR modeled_VVN in_II MathCAD_NP1 ._. 
+</s>
+<s>
+There_EX are_VBR four_MC possible_JJ treatment_NN1 plant_NN1 designs_NN2 to_TO be_VBI modeled_VVN :_: secondary_JJ treatment_NN1 (_( about_RG 90%_NNU of_IO (_( BOD_NP1 )_) removed_VVD ,_, with_IW about_RG 50_MC mg/L_NNU left_JJ )_) ;_; two_MC different_JJ levels_NN2 of_IO tertiary_JJ treatment_NN1 (_( which_DDQ reduce_VV0 (_( BOD_NP1 )_) to_II either_RR 30_MC mg/L_NNU or_CC 25_MC mg/L_NNU )_) ;_; and_CC a_AT1 newer_JJR technology_NN1 that_CST reduces_VVZ (_( BOD_NP1 )_) to_II about_RG 15_MC mg/L_NNU ._. 
+</s>
+<s>
+The_AT more_RRR that_DD1 (_( BOD_NP1 )_) is_VBZ reduced_VVN ,_, the_AT more_RGR expensive_JJ the_AT treatment_NN1 plant_NN1 is_VBZ ._. 
+</s>
+<s>
+All_DB other_JJ things_NN2 being_VBG equal_JJ ,_, rational_JJ choice_NN1 theory_NN1 predicts_VVZ that_DD1 society_NN1 would_VM prefer_VVI the_AT plant_NN1 with_IW the_AT lowest_JJT total_JJ cost_NN1 ._. 
+</s>
+<s>
+Regulation_NN1 in_II the_AT case_NN1 of_IO sewage_NN1 treatment_NN1 plants_NN2 is_VBZ assumed_VVN to_TO take_VVI the_AT form_NN1 of_IO a_AT1 fine_JJ for_IF non-compliance_NN1 with_IW water_NN1 quality_NN1 standards_NN2 ._. 
+</s>
+<s>
+These_DD2 water_NN1 quality_NN1 standards_NN2 require_VV0 that_CST the_AT waste_NN1 load_NN1 in_II sewage_NN1 effluent_NN1 not_XX cause_VV0 dissolved_JJ oxygen_NN1 (_( DO_VD0 )_) in_II the_AT river_NN1 to_TO drop_VVI below_II a_AT1 certain_JJ threshold_NN1 at_II which_DDQ the_AT ecosystem_NN1 would_VM be_VBI unacceptably_RR damaged_VVN ._. 
+</s>
+<s>
+There_EX are_VBR two_MC different_JJ fine_JJ levels_NN2 ,_, $5,000_NNU per_II violation_NN1 and_CC $5,000,000_NNU per_II violation_NN1 ;_; and_CC also_RR two_MC different_JJ (_( DO_VD0 )_) standards_NN2 ,_, 6_MC mg/L_NNU and_CC 4_MC mg/L_NNU ._. 
+</s>
+<s>
+The_AT higher_JJR standard_NN1 would_VM be_VBI necessary_JJ to_TO preserve_VVI all_DB fish_NN species_NN in_II the_AT river_NN1 ,_, whereas_CS the_AT lower_JJR standard_NN1 would_VM be_VBI required_VVN to_TO maintain_VVI only_JJ smallmouth_NN1 bass_NN1 and_CC carp_NN ._. 
+</s>
+<s>
+The_AT last_MD two_MC variables_NN2 are_VBR river_NN1 discharge_NN1 rate_NN1 and_CC channel_NN1 flow_NN1 ._. 
+</s>
+<s>
+These_DD2 both_RR affect_VV0 the_AT river_NN1 's_GE flow_NN1 and_CC therefore_RR the_AT (_( DO_VD0 )_) available_JJ in_II the_AT water_NN1 ._. 
+</s>
+<s>
+River_NN1 discharge_NN1 rate_NN1 can_VM either_RR be_VBI set_VVN at_II twice_RR the_AT normal_JJ flow_NN1 rate_NN1 in_BCL21 order_BCL22 to_TO model_VVI a_AT1 wet_JJ year_NNT1 ,_, or_CC at_II half_DB the_AT normal_JJ flow_NN1 rate_NN1 to_TO model_VVI a_AT1 dry_JJ year_NNT1 ._. 
+</s>
+<s>
+Channel_NN1 flow_NN1 ,_, a_AT1 measure_NN1 of_IO the_AT slope_NN1 of_IO a_AT1 river_NN1 and_CC therefore_RR of_IO water_NN1 speed_NN1 ,_, can_VM be_VBI set_VVN at_II 0.00001_MC to_TO model_VVI the_AT presence_NN1 of_IO a_AT1 dam_NN1 ,_, or_CC 0.0001_MC to_TO model_VVI the_AT removal_NN1 of_IO the_AT dam_NN1 ._. 
+</s>
+<s>
+The_AT lab_NN1 includes_VVZ four_MC different_JJ experiments_NN2 ,_, each_DD1 modeling_VVG the_AT effect_NN1 of_IO a_AT1 different_JJ variable_NN1 ._. 
+</s>
+<s>
+In_II each_DD1 experiment_NN1 ,_, one_MC1 variable_NN1 is_VBZ tested_VVN at_II two_MC different_JJ values_NN2 ,_, and_CC the_AT performance_NN1 of_IO each_DD1 plant_NN1 design_NN1 is_VBZ predicted_VVN at_II each_DD1 of_IO the_AT two_MC values_NN2 ._. 
+</s>
+<s>
+Plant_NN1 performance_NN1 is_VBZ measured_VVN by_II the_AT failure_NN1 rate_NN1 ,_, i.e._REX the_AT frequency_NN1 with_IW which_DDQ the_AT plant_NN1 fails_VVZ to_TO meet_VVI the_AT water_NN1 quality_NN1 standard_NN1 ._. 
+</s>
+<s>
+An_AT1 annualized_JJ plant_NN1 cost_NN1 is_VBZ then_RT calculated_VVN ,_, as_CSA a_AT1 sum_NN1 of_IO capital_NN1 and_CC operating_NN1 and_CC maintenance_NN1 costs_VVZ plus_II the_AT cost_NN1 of_IO any_DD fines_NN2 incurred_VVN as_II a_AT1 result_NN1 of_IO failure_NN1 to_TO meet_VVI water_NN1 quality_NN1 standards_NN2 ._. 
+</s>
+<s>
+This_DD1 total_JJ cost_NN1 is_VBZ used_VVN to_TO rank_VVI the_AT desirability_NN1 of_IO each_DD1 design_NN1 in_II each_DD1 experimental_JJ situation_NN1 ._. 
+</s>
+<s>
+In_II Experiment_NN1 1_MC1 ,_, the_AT effect_NN1 of_IO different_JJ fine_JJ levels_NN2 is_VBZ tested_VVN ;_; in_II Experiment_NN1 2_MC ,_, the_AT effect_NN1 of_IO different_JJ (_( DO_VD0 )_) standards_NN2 is_VBZ tested_VVN ;_; in_II Experiment_NN1 3_MC ,_, the_AT effect_NN1 of_IO different_JJ river_NN1 discharge_NN1 rates_NN2 is_VBZ tested_VVN ;_; and_CC in_II Experiment_NN1 4_MC ,_, the_AT effect_NN1 of_IO different_JJ channel_NN1 flows_NN2 are_VBR tested_VVN ._. 
+</s>
+<s>
+Since_CS it_PPH1 would_VM be_VBI extremely_RR costly_JJ and_CC time-consuming_JJ to_TO go_VVI out_RP into_II the_AT field_NN1 and_CC perform_VVI all_DB of_IO these_DD2 experiments_NN2 in_II the_AT real_JJ world_NN1 ,_, mathematical_JJ modeling_NN1 with_IW MathCAD_NN1 of_IO these_DD2 different_JJ sewage_NN1 treatment_NN1 options_NN2 is_VBZ perhaps_RR the_AT most_RGT direct_JJ way_NN1 to_TO explore_VVI the_AT question_NN1 of_IO sewage_NN1 treatment_NN1 ._. 
+</s>
+<s>
+So_RR long_RR as_CSA the_AT assumptions_NN2 ,_, variables_NN2 ,_, and_CC model_NN1 equations_NN2 themselves_PPX2 are_VBR sufficiently_RR sophisticated_JJ to_TO produce_VVI realistic_JJ results_NN2 ,_, this_DD1 approach_NN1 is_VBZ an_AT1 excellent_JJ way_NN1 to_TO enable_VVI students_NN2 to_TO make_VVI conclusions_NN2 about_II sewage_NN1 treatment_NN1 options_NN2 using_VVG hard_JJ data_NN ._. 
+</s>
+<s>
+The_AT only_JJ problem_NN1 encountered_VVN during_II the_AT lab_NN1 was_VBDZ the_AT minor_JJ hindrance_NN1 of_IO having_VHG difficulty_NN1 with_IW inputting_VVG values_NN2 in_II MathCAD_NP1 ._. 
+</s>
+<s>
+The_AT lab_NN1 itself_PPX1 yielded_VVD a_AT1 number_NN1 of_IO important_JJ results_NN2 ._. 
+</s>
+<s>
+From_II the_AT first_MD experiment_NN1 ,_, it_PPH1 is_VBZ clear_JJ that_CST the_AT level_NN1 of_IO the_AT fine_JJ imposed_VVN on_II the_AT sewage_NN1 treatment_NN1 plant_NN1 has_VHZ a_AT1 large_JJ impact_NN1 on_II the_AT total_JJ cost_NN1 of_IO treatment_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, comparing_VVG fines_NN2 of_IO $5,000_NNU and_CC $5,000,000_NNU ,_, the_AT higher_JJR fine_JJ actually_RR reverses_VVZ the_AT order_NN1 of_IO preference_NN1 for_IF the_AT plant_NN1 designs_NN2 ._. 
+</s>
+<s>
+Whereas_CS with_IW the_AT low_JJ fine_JJ Design_NN1 1_MC1 yielded_VVD lowest_RRT total_JJ costs_NN2 ,_, with_IW the_AT much_RR higher_JJR fine_JJ the_AT lowest_JJT total_JJ cost_NN1 is_VBZ generated_VVN by_II Design_NN1 4_MC (_( Figure_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT cost_NN1 of_IO the_AT fines_NN2 in_II this_DD1 case_NN1 greatly_RR outweighs_VVZ the_AT capital_NN1 and_CC O_ZZ1 and_CC M_ZZ1 costs_VVZ ._. 
+</s>
+<s>
+Such_DA a_AT1 result_NN1 suggests_VVZ that_CST ,_, if_CS it_PPH1 is_VBZ concluded_VVN that_CST it_PPH1 is_VBZ critically_RR important_JJ to_TO maintain_VVI water_NN1 quality_NN1 at_II a_AT1 certain_JJ level_NN1 and_CC keep_VV0 violations_NN2 below_II a_AT1 certain_JJ level_NN1 ,_, a_AT1 high_JJ fine_JJ will_VM provide_VVI a_AT1 powerful_JJ incentive_NN1 to_TO install_VVI the_AT best_JJT technology_NN1 for_IF (_( BOD_NP1 )_) reduction_NN1 ._. 
+</s>
+<s>
+From_II the_AT second_MD experiment_NN1 ,_, one_PN1 sees_VVZ that_CST even_RR at_II a_AT1 lower_JJR (_( DO_VD0 )_) standard_NN1 ,_, the_AT fine_JJ level_NN1 of_IO $5,000,000_NNU still_RR generates_VVZ total_JJ costs_NN2 such_CS21 that_CS22 Design_NN1 4_MC is_VBZ preferable_JJ (_( Figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+One_MC1 may_VM have_VHI predicted_VVN that_CST a_AT1 lower_JJR (_( DO_VD0 )_) standard_NN1 would_VM give_VVI results_NN2 that_CST make_VV0 a_AT1 less_RGR expensive_JJ plant_NN1 design_NN1 seem_VV0 preferable_JJ ,_, but_CCB that_DD1 is_VBZ not_XX the_AT case_NN1 here_RL ._. 
+</s>
+<s>
+This_DD1 may_VM not_XX be_VBI true_JJ at_RR21 all_RR22 (_( DO_VD0 )_) standards_NN2 --_NN1 for_REX21 example_REX22 ,_, at_II a_AT1 (_( DO_VD0 )_) standard_NN1 of_IO 1_MC1 mg/L_NNU Design_NN1 1_MC1 will_VM most_RGT likely_RR be_VBI preferred_VVN -- but_CCB at_RR21 least_RR22 for_IF the_AT two_MC values_NN2 tested_VVD it_PPH1 appears_VVZ that_CST the_AT effect_NN1 of_IO the_AT fine_JJ level_NN1 outweighs_VVZ the_AT effect_NN1 of_IO the_AT desired_JJ (_( DO_VD0 )_) value_NN1 ._. 
+</s>
+<s>
+Because_II21 of_II22 limited_JJ time_NNT1 in_II the_AT lab_NN1 ,_, there_EX is_VBZ not_XX very_RG comprehensive_JJ data_NN ,_, so_CS it_PPH1 would_VM be_VBI hard_JJ to_TO predict_VVI in_RR21 general_RR22 which_DDQ parameter_NN1 ,_, fine_JJ level_NN1 or_CC (_( DO_VD0 )_) standard_NN1 ,_, would_VM have_VHI the_AT greater_JJR effect_NN1 on_II total_JJ costs_NN2 for_IF each_DD1 increment_NN1 of_IO change_NN1 ._. 
+</s>
+<s>
+The_AT third_MD and_CC fourth_MD experiments_NN2 provide_VV0 a_AT1 different_JJ sort_NN1 of_IO information_NN1 than_CSN the_AT first_MD two_MC experiments_NN2 ._. 
+</s>
+<s>
+Rather_II21 than_II22 modeling_VVG the_AT effects_NN2 of_IO parameters_NN2 imposed_VVD solely_RR by_II humans_NN2 ,_, they_PPHS2 model_VV0 the_AT effects_NN2 of_IO natural_JJ parameters_NN2 (_( i.e._REX local_JJ conditions_NN2 )_) over_II which_DDQ humans_NN2 have_VH0 little_DA1 or_CC no_AT control_NN1 ._. 
+</s>
+<s>
+The_AT third_MD experiment_NN1 shows_VVZ that_CST ,_, though_CS the_AT flow_NN1 rate_NN1 does_VDZ not_XX affect_VVI the_AT order_NN1 of_IO preference_NN1 of_IO the_AT plant_NN1 designs_NN2 ,_, it_PPH1 does_VDZ affect_VVI the_AT total_JJ costs_NN2 (_( Figure_NN1 3_MC )_) ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT total_JJ cost_NN1 to_II society_NN1 will_VM change_VVI based_VVN not_XX on_II difference_NN1 in_II human_JJ choices_NN2 but_CCB on_II uncontrollable_JJ natural_JJ conditions_NN2 --_NN1 a_AT1 drought_NN1 year_NNT1 will_VM make_VVI it_PPH1 more_RGR difficult_JJ for_IF any_DD plant_NN1 design_NN1 to_TO maintain_VVI water_NN1 quality_NN1 ._. 
+</s>
+<s>
+If_CS there_EX is_VBZ still_RR a_AT1 preference_NN1 for_IF the_AT best_JJT technology_NN1 (_( Design_NN1 4_MC )_) under_II this_DD1 scenario_NN1 ,_, it_PPH1 may_VM make_VVI sense_NN1 to_TO lower_VVI the_AT fine_JJ in_II drier_JJR years_NNT2 ,_, because_CS the_AT purpose_NN1 of_IO incentivizing_VVG the_AT optimal_JJ technology_NN1 has_VHZ been_VBN achieved_VVN and_CC keeping_VVG the_AT fine_JJ high_JJ will_VM raise_VVI costs_NN2 unnecessarily_RR ._. 
+</s>
+<s>
+The_AT fourth_MD experiment_NN1 demonstrates_VVZ that_CST the_AT channel_NN1 flow_NN1 and_CC water_NN1 speed_NN1 have_VH0 a_AT1 significant_JJ impact_NN1 on_II the_AT water_NN1 quality_NN1 ._. 
+</s>
+<s>
+With_IW a_AT1 shallow_JJ slope_NN1 and_CC slower_JJR water_NN1 speed_NN1 ,_, the_AT most_RGT expensive_JJ plant_NN1 design_NN1 is_VBZ still_RR preferable_JJ (_( Figure_NN1 4_MC )_) ._. 
+</s>
+<s>
+A_AT1 steeper_JJR slope_NN1 and_CC faster_JJR speed_NN1 in_II this_DD1 experiment_NN1 meant_VVD that_CST no_AT violations_NN2 occurred_VVD with_IW any_DD of_IO the_AT plant_NN1 designs_NN2 --_NN1 in_II other_JJ words_NN2 ,_, the_AT choice_NN1 of_IO plant_NN1 design_NN1 would_VM have_VHI no_AT impact_NN1 on_II water_NN1 quality_NN1 and_CC therefore_RR one_PN1 could_VM choose_VVI the_AT lowest-cost_JJT design_NN1 (_( Design_NN1 1_MC1 )_) without_IW any_DD negative_JJ environmental_JJ consequences_NN2 ._. 
+</s>
+<s>
+This_DD1 lab_NN1 vividly_RR demonstrates_VVZ the_AT impacts_NN2 of_IO various_JJ variables_NN2 on_II the_AT desirability_NN1 of_IO different_JJ sewage_NN1 treatment_NN1 plant_NN1 designs_NN2 ._. 
+</s>
+<s>
+Before_II gathering_VVG data_NN ,_, one_PN1 may_VM have_VHI drawn_VVN widely_RR divergent_JJ conclusions_NN2 based_VVN on_II certain_JJ assumptions_NN2 ._. 
+</s>
+<s>
+For_REX21 instance_REX22 ,_, one_PN1 might_VM have_VHI assumed_VVN that_CST the_AT more_RGR expensive_JJ plant_NN1 design_NN1 (_( Design_NN1 4_MC )_) was_VBDZ always_RR best_JJT ,_, because_CS cleaner_JJR water_NN1 is_VBZ always_RR worth_II the_AT cost_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT lab_NN1 show_VV0 that_CST this_DD1 is_VBZ not_XX always_RR the_AT case_NN1 ._. 
+</s>
+<s>
+Assuming_VVG that_CST the_AT goal_NN1 of_IO sewage_NN1 treatment_NN1 is_VBZ to_TO optimize_VVI cost/benefit_NN1 ratios_NN2 for_IF both_DB2 human_JJ and_CC natural_JJ systems_NN2 (_( i.e._REX optimize_VV0 the_AT cost/benefit_NN1 ratio_NN1 for_IF the_AT whole_JJ human/non-human_JJ system_NN1 )_) ,_, it_PPH1 is_VBZ not_XX always_RR necessary_JJ to_TO choose_VVI the_AT most_RGT expensive_JJ treatment_NN1 option_NN1 ,_, because_CS this_DD1 may_VM impose_VVI unnecessary_JJ costs_NN2 on_II the_AT human_JJ system_NN1 which_DDQ provide_VV0 little_RR benefit_VV0 to_II non-human_JJ systems_NN2 ,_, creating_VVG a_AT1 sort_NN1 of_IO "_" deadweight_NN1 loss_NN1 ._. "_" 
+</s>
+<s>
+In_II certain_JJ cases_NN2 ,_, one_PN1 can_VM maintain_VVI a_AT1 high_JJ level_NN1 of_IO water_NN1 quality_NN1 even_RR with_IW the_AT cheapest_JJT treatment_NN1 plant_NN1 ._. 
+</s>
+<s>
+Experiment_NN1 4_MC suggests_VVZ that_CST one_MC1 must_VM first_MD examine_VVI local_JJ conditions_NN2 in_BCL21 order_BCL22 to_TO determine_VVI what_DDQ water_NN1 quality_NN1 standards_NN2 are_VBR necessary_JJ to_TO maintain_VVI environmental_JJ health_NN1 ,_, because_CS a_AT1 stream_NN1 with_IW a_AT1 steeper_JJR slope_NN1 and_CC faster_JJR water_NN1 speed_NN1 will_VM require_VVI less_RGR stringent_JJ regulations_NN2 on_II water_NN1 quality_NN1 ._. 
+</s>
+<s>
+The_AT thesis_NN1 that_CST a_AT1 regulatory_JJ system_NN1 with_IW substantive_JJ ,_, punitive_JJ fines_NN2 is_VBZ essential_JJ to_II the_AT protection_NN1 of_IO ecological_JJ values_NN2 in_II our_APPGE rivers_NN2 is_VBZ not_XX always_RR true_JJ ._. 
+</s>
+<s>
+Fines_NN2 are_VBR one_MC1 way_NN1 to_TO create_VVI a_AT1 disincentive_NN1 for_IF disposing_VVG of_IO untreated_JJ human_JJ sewage_NN1 ,_, but_CCB another_DD1 method_NN1 may_VM be_VBI for_IF downstream_JJ users_NN2 to_TO pay_VVI the_AT upstream_JJ sewage_NN1 treatment_NN1 operator_NN1 to_TO maintain_VVI clean_JJ river_NN1 water_NN1 ._. 
+</s>
+<s>
+Besides_RR financial_JJ incentives_NN2 like_II fines_NN2 or_CC ecosystem_VV0 services_NN2 payments_NN2 ,_, the_AT government_NN1 may_VM choose_VVI to_TO set_VVI water_NN1 quality_NN1 standards_NN2 and_CC institute_NN1 a_AT1 criminal_JJ penalty_NN1 (_( e.g._REX prison_NN1 sentences_NN2 )_) for_IF failing_VVG to_TO achieve_VVI them_PPHO2 ._. 
+</s>
+<s>
+Though_CS it_PPH1 may_VM not_XX be_VBI very_RG practical_JJ ,_, one_PN1 could_VM also_RR institute_VVI a_AT1 cap-and-trade_JJ program_NN1 for_IF sewage_NN1 dumping_VVG within_II a_AT1 particular_JJ watershed_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, there_EX are_VBR other_JJ methods_NN2 besides_II punitive_JJ fines_NN2 for_IF maintaining_VVG the_AT ecological_JJ value_NN1 of_IO rivers_NN2 ._. 
+</s>
+<s>
+If_CS one_PN1 does_VDZ choose_VVI to_TO use_VVI fines_NN2 ,_, Experiment_NN1 1_MC1 shows_VVZ that_CST they_PPHS2 must_VM be_VBI set_VVN high_RR enough_RR to_TO overcome_VVI other_JJ costs_NN2 ._. 
+</s>
+<s>
+Low_JJ fines_NN2 are_VBR not_XX any_DD more_DAR effective_JJ than_CSN no_AT fines_NN2 at_RR21 all_RR22 ._. 
+</s>
+<s>
+Experiment_NN1 3_MC demonstrates_VVZ that_CST it_PPH1 would_VM be_VBI wise_JJ to_TO allow_VVI for_IF an_AT1 adjustment_NN1 of_IO fines_NN2 based_VVN on_II environmental_JJ conditions_NN2 like_II flow_NN1 rate_NN1 ._. 
+</s>
+<s>
+As_CSA mentioned_VVN above_RL ,_, in_II a_AT1 drought_NN1 year_NNT1 even_RR the_AT most_RGT advanced_JJ treatment_NN1 plant_NN1 design_NN1 will_VM have_VHI a_AT1 higher_JJR violation_NN1 rate_NN1 and_CC this_DD1 will_VM create_VVI unnecessarily_RR high_JJ costs_NN2 for_IF treatment_NN1 through_II more_RGR frequent_JJ fines_NN2 ._. 
+</s>
+<s>
+The_AT goal_NN1 is_VBZ to_TO create_VVI an_AT1 incentive_NN1 for_IF the_AT most_RGT cost-effective_JJ way_NN1 to_TO maintain_VVI environmental_JJ quality_NN1 ,_, and_CC so_RG once_RR the_AT fine_JJ level_NN1 has_VHZ led_VVN to_II the_AT adoption_NN1 of_IO the_AT best_JJT technology_NN1 ,_, it_PPH1 is_VBZ no_RR21 longer_RR22 cost-effective_JJ to_TO allow_VVI the_AT cumulative_JJ amount_NN1 of_IO fines_NN2 to_TO increase_VVI further_RRR ._. 
+</s>
+<s>
+Flexible_JJ fine_JJ levels_NN2 ,_, which_DDQ would_VM decrease_VVI in_II dry_JJ years_NNT2 and_CC increase_VVI in_II wet_JJ years_NNT2 ,_, would_VM maintain_VVI water_NN1 quality_NN1 more_RGR cost-effectively_RR ._. 
+</s>
+<s>
+Through_II all_DB of_IO these_DD2 experiments_NN2 ,_, though_CS ,_, it_PPH1 is_VBZ clear_JJ that_CST water_NN1 quality_NN1 will_VM not_XX be_VBI maintained_VVN unless_CS local_JJ sewage_NN1 treatment_NN1 operations_NN2 are_VBR subject_II21 to_II22 some_DD form_NN1 of_IO external_JJ regulation_NN1 ,_, either_RR through_II government-imposed_JJ penalties_NN2 or_CC private_JJ ecosystem_NN1 services_NN2 payments_NN2 ._. 
+</s>
+<s>
+Regulation_NN1 ,_, then_RT ,_, in_II one_MC1 shape_NN1 or_CC another_DD1 is_VBZ essential_JJ to_II the_AT protection_NN1 of_IO ecological_JJ values_NN2 in_II our_APPGE rivers_NN2 ._. 
+</s>

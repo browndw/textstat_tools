@@ -1,0 +1,123 @@
+<s>
+Orientation_NN1 of_IO the_AT satellite_NN1 in_II space_NN1 is_VBZ called_VVN its_APPGE attitude_NN1 ._. 
+</s>
+<s>
+Attitude_NN1 control_NN1 is_VBZ required_VVN to_TO point_VVI the_AT instrument_NN1 or_CC antenna_NN1 to_II the_AT desired_JJ directions_NN2 ._. 
+</s>
+<s>
+The_AT difference_NN1 of_IO desired_JJ orientation_NN1 and_CC measured_JJ orientation_NN1 is_VBZ called_VVN attitude_NN1 error_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI represented_VVN either_RR by_II three_MC successive_JJ rotations_NN2 (_( Roll_VV0 ,_, Yaw_VV0 ,_, Pitch_NN1 )_) or_CC by_II Quaternion_NP1 The_AT scope_NN1 of_IO this_DD1 document_NN1 is_VBZ to_TO propose_VVI control_NN1 algorithms_NN2 for_IF Nadir_NP1 and_CC inertial_JJ pointing_JJ applications_NN2 after_II analyzing_VVG different_JJ cubesat_NN1 control_NN1 algorithms_NN2 ._. 
+</s>
+<s>
+The_AT list_NN1 of_IO small_JJ satellites_NN2 which_DDQ use_VV0 Magnetic_JJ torquers_NN2 or_CC torque_NN1 coils_NN2 as_CSA actuators_NN2 are_VBR listed_VVN in_II Appendix-A_NN1 Compilation_NN1 of_IO control_NN1 algorithms_NN2 used_VVN is_VBZ also_RR included_VVN in_II the_AT appendix_NN1 along_II21 with_II22 ADACS_NP2 hardware_NN1 components_NN2 used_VVD ._. 
+</s>
+<s>
+Picosat_NN1 is_VBZ equipped_VVN with_IW three_MC mutually_RR perpendicular_JJ magnetic_JJ torque_NN1 coils_NN2 as_CSA shown_VVN in_II the_AT figure-1a_FO ,_, coil_VV0 size_NN1 is_VBZ shown_VVN in_II the_AT figure-1b_FO ._. 
+</s>
+<s>
+Torque_NN1 coils_NN2 are_VBR the_AT only_JJ attitude_NN1 control_NN1 actuators_NN2 of_IO the_AT picosat_NN1 ._. 
+</s>
+<s>
+This_DD1 selection_NN1 is_VBZ made_VVN as_II a_AT1 trade_NN1 of_IO between_II weight_NN1 ,_, power_NN1 consumption_NN1 and_CC available_JJ power_NN1 ._. 
+</s>
+<s>
+Using_VVG Magnetic_JJ torque_NN1 coils_NN2 as_CSA actuators_NN2 ,_, it_PPH1 is_VBZ possible_JJ to_TO control_VVI only_JJ 2-axes_NN2 at_II a_AT1 time_NNT1 ,_, this_DD1 is_VBZ because_II21 of_II22 the_AT torque_NN1 produced_VVN by_II the_AT interaction_NN1 of_IO the_AT Earth_NN1 magnetic_JJ field_NN1 and_CC the_AT coil_NN1 magnetic_JJ field_NN1 ._. 
+</s>
+<s>
+The_AT generated_JJ torque_NN1 is_VBZ always_RR perpendicular_JJ to_II the_AT earth_NN1 magnetic_JJ field_NN1 ._. 
+</s>
+<s>
+Thus_RR one_MC1 axis_NN1 will_VM always_RR be_VBI parallel_RR to_II the_AT geomagnetic_JJ field_NN1 and_CC hence_RR it_PPH1 is_VBZ not_XX controllable_JJ ._. 
+</s>
+<s>
+The_AT variation_NN1 of_IO the_AT earth_NN1 magnetic_JJ field_NN1 over_II one_MC1 orbit_NN1 can_VM be_VBI used_VVN in_II the_AT design_NN1 of_IO the_AT controller_NN1 to_TO achieve_VVI the_AT third_MD axis_NN1 control_NN1 ._. 
+</s>
+<s>
+Mathematical_JJ modeling_NN1 of_IO this_DD1 requires_VVZ better_JJR understanding_NN1 of_IO Kinematics_NN2 and_CC Dynamics_NN ._. 
+</s>
+<s>
+This_DD1 requires_VVZ knowledge_NN1 of_IO Kinematics_NN2 and_CC dynamics_NN ._. 
+</s>
+<s>
+Dynamics_NN relates_VVZ the_AT torques_NN2 acting_VVG on_II the_AT satellite_NN1 's_GE angular_JJ velocity_NN1 in_II the_AT inertial_JJ co-ordinate_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT kinematics_NN1 is_VBZ expressed_VVN as_II the_AT integration_NN1 of_IO the_AT angular_JJ velocity_NN1 ._. 
+</s>
+<s>
+Linearization_NN1 of_IO dynamic_JJ and_CC kinematic_JJ equations_NN2 of_IO motion_NN1 should_VM be_VBI done_VDN for_IF two_MC different_JJ points_NN2 One_MC1 for_IF nadir_NN1 and_CC another_DD1 for_IF inertial_JJ pointing_JJ ._. 
+</s>
+<s>
+The_AT sequence_NN1 of_IO stabilization_NN1 after_II launch_NN1 or_CC in_II situations_NN2 when_RRQ satellite_NN1 lost_VVD AD_NN1 control_NN1 is_VBZ Rate_NN1 detumbling_VVG ,_, angle_NN1 detumbling_VVG and_CC stabilization_NN1 ._. 
+</s>
+<s>
+Different_JJ control_NN1 systems_NN2 are_VBR considered_VVN and_CC carried_VVN out_RP research_NN1 of_IO the_AT suitability_NN1 to_II the_AT picosat_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ two_MC algorithms_NN2 found_VVD to_TO be_VBI best_JJT fit_JJ for_IF the_AT Picosat_NN1 ._. 
+</s>
+<s>
+The_AT detumbling_JJ controller_NN1 should_VM slow_VVI down_RP the_AT satellite_NN1 after_II its_APPGE release_NN1 from_II the_AT launch_NN1 vehicle_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ based_VVN on_II the_AT rate_NN1 measurements_NN2 of_IO the_AT local_JJ magnetic_JJ field_NN1 by_II the_AT magnetometer_NN1 ._. 
+</s>
+<s>
+B-dot_JJ controller_NN1 minimizes_VVZ the_AT satellite_NN1 angular_JJ rate_NN1 change_NN1 in_II31 relation_II32 to_II33 the_AT local_JJ geomagnetic_JJ field_NN1 ._. 
+</s>
+<s>
+This_DD1 controller_NN1 only_RR requires_VVZ the_AT derivative_NN1 of_IO the_AT magnetic_JJ field_NN1 as_CSA input_VVN hence_RR it_PPH1 can_VM function_VVI even_CS21 when_CS22 all_DB other_JJ orbital_JJ information_NN1 is_VBZ not_XX available_JJ ._. 
+</s>
+<s>
+The_AT B-dot_JJ algorithm_NN1 was_VBDZ found_VVN to_TO be_VBI very_RG robust_JJ and_CC could_VM handle_VVI many_DA2 types_NN2 of_IO failure_NN1 with_IW little_DA1 drop_NN1 in_II performance_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 still_RR settled_VVN even_RR in_RP with_IW the_AT simultaneous_JJ introduction_NN1 of_IO high_JJ magnetometer_NN1 noise_NN1 ,_, large_JJ tip-off_NN1 velocities_NN2 ,_, and_CC an_AT1 inoperative_JJ torquer_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ also_RR found_VVN that_CST the_AT system_NN1 has_VHZ a_AT1 large_JJ range_NN1 of_IO stable_JJ gains_NN2 which_DDQ give_VV0 some_DD leeway_NN1 for_IF incorrect_JJ moment_NN1 of_IO inertia_NN1 determination_NN1 and_CC decreases_VVZ in_II available_JJ power_NN1 ._. 
+</s>
+<s>
+Very_RG simple_JJ ,_, popular_JJ algorithm_NN1 all_DB the_AT small_JJ satellites_NN2 use_VV0 this_DD1 control_NN1 system_NN1 algorithm_NN1 for_IF detumbling_VVG purpose_NN1 ._. 
+</s>
+<s>
+In_II Magnetic_JJ actuated_VVN satellites_NN2 only_RR two_MC axes_NN2 can_VM be_VBI controllable_JJ at_II any_DD given_JJ position_NN1 in_II the_AT orbit_NN1 ._. 
+</s>
+<s>
+The_AT variation_NN1 of_IO the_AT earth_NN1 magnetic_JJ field_NN1 over_II one_MC1 orbit_NN1 can_VM be_VBI used_VVN in_II the_AT design_NN1 of_IO the_AT controller_NN1 to_TO achieve_VVI the_AT third_MD axis_NN1 control_NN1 ._. 
+</s>
+<s>
+Periodic_JJ nature_NN1 of_IO earth_NN1 magnetic_JJ field_NN1 variation_NN1 brings_VVZ the_AT constraint_NN1 that_CST the_AT control_NN1 algorithms_NN2 should_VM be_VBI Time_NNT1 varying_VVG periodic_JJ linear_JJ control_NN1 systems_NN2 ._. 
+</s>
+<s>
+Traditionally_RR Linear_JJ Quadratic_JJ controllers_NN2 has_VHZ been_VBN used_VVN on_II magnetic_JJ actuated_VVN satellites_NN2 because_II21 of_II22 their_APPGE reliability_NN1 and_CC robustness_NN1 ._. 
+</s>
+<s>
+The_AT Linear_JJ Quadratic_JJ strategy_NN1 is_VBZ based_VVN on_II linearizing_VVG the_AT systems_NN2 dynamics_NN ,_, defining_VVG an_AT1 object_NN1 function_NN1 which_DDQ shall_VM be_VBI minimized_VVN and_CC generate_VV0 a_AT1 gain_NN1 matrix_NN1 which_DDQ is_VBZ used_VVN for_IF feedback_NN1 ._. 
+</s>
+<s>
+Nadir_NP1 pointing_VVG :_: system_NN1 is_VBZ stable_JJ only_RR with_IW integral_JJ action_NN1 (_( If_CS offset_VVN in_II the_AT principle_NN1 axes_NN2 )_) Table-1_MC1 shows_VVZ the_AT comparison_NN1 of_IO two_MC control_NN1 systems_NN2 namely_REX Constant_JJ Gain_NN1 Controller_NN1 and_CC Linear_JJ Matrix_NN1 Inequality_NN1 (_( LMI_NP1 )_) ._. 
+</s>
+<s>
+Lowlights_NN2 and_CC Highlights_NN2 of_IO both_DB2 these_DD2 control_VV0 systems_NN2 are_VBR listed_VVN in_II the_AT table_NN1 ._. 
+</s>
+<s>
+Survey_NN1 of_IO different_JJ satellites_NN2 control_VV0 algorithms_NN2 and_CC reviewing_VVG test_NN1 results_NN2 ,_, it_PPH1 is_VBZ recommended_VVN to_TO use_VVI B-dot_JJ controller_NN1 for_IF Detumbling_VVG and_CC Constant_JJ Gain_NN1 Controller_NN1 with_IW integrator_NN1 action_NN1 for_IF nadir_NN1 pointing_VVG and_CC 3-axis_JJ stabilization_NN1 ._. 
+</s>
+<s>
+Constant_JJ Gain_NN1 controller_NN1 with_IW integral_JJ action_NN1 is_VBZ the_AT suitable_JJ algorithm_NN1 for_IF PicoSat_NN1 ._. 
+</s>
+<s>
+It_PPH1 converges_VVZ from_II the_AT initial_JJ disturbed_JJ state_NN1 to_II the_AT reference_NN1 and_CC stays_VVZ at_II the_AT reference_NN1 with_IW small_JJ errors_NN2 ._. 
+</s>
+<s>
+Simulate_VV0 B-dot_JJ controller_NN1 and_CC Constant_JJ gain_NN1 controller_NN1 with_IW integration_NN1 action_NN1 and_CC the_AT evaluate_VV0 the_AT performance_NN1 of_IO each_DD1 controller_NN1 ._. 
+</s>
+<s>
+Convergence_NN1 to_II the_AT reference_NN1 point_NN1 and_CC stability_NN1 at_II the_AT converged_VVN point_NN1 are_VBR the_AT two_MC major_JJ criteria_NN2 for_IF the_AT final_JJ selection_NN1 ._. 
+</s>
+<s>
+Norway_NP1 's_GE NCUBE_NN1 ,_, AAU_NP1 cubesat_NN1 ,_, GURWIN-techsat_JJ satellites_NN2 are_VBR some_DD of_IO the_AT previous_JJ satellites_NN2 which_DDQ used_VVD above_II control_NN1 systems_NN2 ,_, use_VV0 as_CSA reference_NN1 
+</s>

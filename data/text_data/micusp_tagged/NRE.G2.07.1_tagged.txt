@@ -1,0 +1,108 @@
+<s>
+Atmospheric_JJ concentrations_NN2 of_IO greenhouse_NN1 gasses_NN2 (_( GHGs_NP1 )_) have_VH0 been_VBN steadily_RR rising_VVG since_II the_AT start_NN1 of_IO the_AT Industrial_JJ Revolution_NN1 due_II21 to_II22 anthropogenic_JJ emissions_NN2 ._. 
+</s>
+<s>
+This_DD1 has_VHZ caused_VVN global_JJ mean_JJ temperature_NN1 to_TO rise_VVI by_II an_AT1 estimated_JJ .5_MC degrees_NN2 Celsius_NP1 ,_, with_IW some_DD regions_NN2 experiencing_VVG much_RR higher_JJR increases_NN2 than_CSN the_AT average_NN1 (_( Agarwal_NP1 ,_, 2008_MC )_) ._. 
+</s>
+<s>
+Higher_JJR temperatures_NN2 have_VH0 ushered_VVN in_RP rising_VVG sea_NN1 levels_NN2 ,_, more_RGR erratic_JJ weather_NN1 patterns_NN2 ,_, and_CC adverse_JJ human_JJ health_NN1 impacts_NN2 ._. 
+</s>
+<s>
+This_DD1 trend_NN1 is_VBZ difficult_JJ to_TO reverse_VVI because_CS human_JJ emissions_NN2 are_VBR a_AT1 net_JJ addition_NN1 to_II the_AT carbon_NN1 cycle_NN1 ;_; they_PPHS2 represent_VV0 an_AT1 additional_JJ input_NN1 to_II the_AT global_JJ carbon_NN1 balance_NN1 which_DDQ has_VHZ led_VVN to_II ever-increasing_JJ net_JJ storage_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, GHGs_NP1 persist_VV0 in_II the_AT atmosphere_NN1 for_IF long_JJ periods_NN2 of_IO time_NNT1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO reduce_VVI atmospheric_JJ concentrations_NN2 of_IO GHGs_NP1 ,_, either_RR the_AT inputs_NN2 (_( primarily_RR emissions_NN2 )_) must_VM be_VBI lowered_VVN or_CC the_AT outputs_NN2 (_( primarily_RR carbon_NN1 sequestration_NN1 in_II forests_NN2 )_) must_VM be_VBI raised_VVN ._. 
+</s>
+<s>
+This_DD1 paper_NN1 looks_VVZ at_II the_AT relative_JJ efficacy_NN1 of_IO different_JJ approaches_NN2 to_II reducing_VVG the_AT concentration_NN1 of_IO carbon_NN1 dioxide_NN1 ,_, and_CC concludes_VVZ that_CST a_AT1 combination_NN1 of_IO measures_NN2 ,_, including_II both_DB2 emissions_NN2 reduction_NN1 and_CC sequestration_NN1 ,_, is_VBZ needed_VVN to_TO achieve_VVI stability_NN1 ._. 
+</s>
+<s>
+I_PPIS1 first_MD performed_VVD background_NN1 research_NN1 using_VVG lecture_NN1 notes_NN2 and_CC existing_JJ literature_NN1 to_TO determine_VVI how_RRQ climate_NN1 change_NN1 works_VVZ ,_, what_DDQ the_AT impacts_NN2 of_IO climate_NN1 change_NN1 are_VBR ,_, how_RRQ carbon_NN1 dioxide_NN1 is_VBZ cycled_VVN through_II the_AT oceans_NN2 and_CC atmosphere_NN1 ,_, and_CC how_RRQ carbon_NN1 dioxide_NN1 concentrations_NN2 have_VH0 changed_VVN over_II time_NNT1 ._. 
+</s>
+<s>
+Next_MD ,_, I_PPIS1 modeled_VVD these_DD2 flows_NN2 using_VVG the_AT upwelling-diffusion_JJ climate_NN1 model_NN1 from_II the_AT Intergovernmental_JJ Panel_NN1 on_II Climate_NN1 Change_NN1 (_( Harvey_NP1 et_NP1 ._. 
+</s>
+<s>
+al._NNU ,_, 1997_MC )_) ._. 
+</s>
+<s>
+This_DD1 model_NN1 is_VBZ shown_VVN in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+There_EX are_VBR three_MC "_" storage_NN1 "_" compartments_NN2 for_IF carbon_NN1 dioxide_NN1 :_: the_AT atmosphere_NN1 ,_, land_NN1 and_CC shallow_JJ oceans_NN2 ,_, and_CC deep_JJ oceans_NN2 ._. 
+</s>
+<s>
+The_AT IPCC_NP1 model_NN1 identifies_VVZ the_AT input_NN1 rates_NN2 and_CC output_NN1 rates_NN2 from_II each_DD1 of_IO these_DD2 storage_NN1 boxes_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT outputs_NN2 from_II land_NN1 and_CC shallow_JJ oceans_NN2 are_VBR downwelling_VVG into_II deep_JJ oceans_NN2 ,_, at_II a_AT1 rate_NN1 of_IO .11S_NNU gigatons_NN2 per_II year_NNT1 ,_, and_CC respiration_NN1 up_RP into_II the_AT atmosphere_NN1 ,_, at_II .27S_NNU per_II year_NNT1 ._. 
+</s>
+<s>
+Using_VVG this_DD1 model_NN1 ,_, I_PPIS1 simulated_VVD future_JJ scenarios_NN2 using_VVG IS92_FO data_NN as_CSA my_APPGE baseline_NN1 ._. 
+</s>
+<s>
+In_II these_DD2 scenarios_NN2 ,_, I_PPIS1 demonstrated_VVD the_AT impact_NN1 of_IO halving_VVG and_CC doubling_VVG each_DD1 of_IO the_AT six_MC flows_NN2 (_( emissions_NN2 ,_, fixation_NN1 ,_, respiration_NN1 ,_, downwelling_VVG ,_, upwelling_VVG ,_, and_CC deposition_NN1 )_) ,_, while_CS holding_VVG the_AT other_JJ flows_NN2 constant_JJ ._. 
+</s>
+<s>
+The_AT model_NN1 produced_VVD future_JJ projections_NN2 for_IF atmospheric_JJ carbon_NN1 dioxide_NN1 concentrations_NN2 based_VVN on_II these_DD2 parameters_NN2 for_IF the_AT year_NNT1 2200_MC and_CC the_AT maximum_JJ level_NN1 ._. 
+</s>
+<s>
+The_AT output_NN1 from_II this_DD1 scenario_NN1 modeling_NN1 allowed_VVD me_PPIO1 to_TO determine_VVI the_AT impact_NN1 of_IO each_DD1 "_" lever_NN1 "_" on_II achieving_VVG carbon_NN1 reductions_NN2 ._. 
+</s>
+<s>
+In_II my_APPGE analysis_NN1 ,_, I_PPIS1 assumed_VVD that_DD1 sequestration_NN1 is_VBZ equivalent_JJ to_II fixation_NN1 (_( as_CSA it_PPH1 represents_VVZ the_AT earth_NN1 's_GE ability_NN1 to_II sequester_NN1 carbon_NN1 in_II vegetation_NN1 )_) ._. 
+</s>
+<s>
+However_RR ,_, one_PN1 could_VM also_RR consider_VVI man-made_JJ carbon_NN1 sequestration_NN1 and_CC storage_NN1 (_( CCS_NP1 )_) techniques_NN2 in_II devising_VVG a_AT1 practical_JJ ,_, comprehensive_JJ strategy_NN1 to_TO reduce_VVI GHG_NP1 concentrations_NN2 (_( for_REX21 instance_REX22 ,_, the_AT possibility_NN1 of_IO trapping_VVG emissions_NN2 from_II coal-fired_JJ power_NN1 plants_NN2 and_CC burying_VVG them_PPHO2 underground_RL )_) ._. 
+</s>
+<s>
+I_PPIS1 also_RR applied_JJ learnings_NN2 from_II my_APPGE literature_NN1 review_NN1 to_TO assess_VVI which_DDQ levers_NN2 could_VM in_II fact_NN1 be_VBI altered_VVN and_CC by_II how_RGQ much_DA1 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT scenario_NN1 modeling_NN1 show_VV0 that_CST the_AT most_RGT effective_JJ lever_NN1 in_II altering_VVG atmospheric_JJ carbon_NN1 dioxide_NN1 levels_NN2 is_VBZ emissions_NN2 :_: the_AT range_NN1 in_II carbon_NN1 dioxide_NN1 concentrations_NN2 that_CST result_VV0 from_II halving_VVG or_CC doubling_VVG emissions_NN2 is_VBZ the_AT highest_JJT ,_, at_II 1,229.9_MC ppm_NNU in_II year_NNT1 2200_MC or_CC 2,072.5_MC ppm_NNU maximum_NN1 ._. 
+</s>
+<s>
+Fixation_NN1 is_VBZ a_AT1 close_JJ second_NNT1 ,_, with_IW a_AT1 range_NN1 of_IO 1,028.2_MC ppm_NNU in_II year_NNT1 2200_MC or_CC 1,684.6_MC ppm_NNU maximum_NN1 ._. 
+</s>
+<s>
+Respiration_NN1 is_VBZ still_RR somewhat_RR effective_JJ ,_, while_CS downwelling_VVG ,_, upwelling_VVG ,_, and_CC deposition_NN1 yield_VV0 smaller_JJR and_CC smaller_JJR changes_NN2 in_II storage_NN1 ._. 
+</s>
+<s>
+However_RR ,_, note_NN1 than_CSN even_RR a_AT1 halving_NN1 of_IO current_JJ emissions_NN2 still_RR leads_VVZ to_II atmospheric_JJ concentrations_NN2 of_IO 702.9_MC ppm_NNU CO2_FO by_II the_AT year_NNT1 2200_MC this_DD1 is_VBZ twice_RR the_AT level_NN1 deemed_VVN "_" safe_JJ "_" by_II Hansen_NP1 and_CC his_APPGE team_NN1 of_IO scientists_NN2 !_! 
+</s>
+<s>
+Doubling_VVG fixation_NN1 also_RR does_VDZ not_XX achieve_VVI our_APPGE goal_NN1 ,_, reaching_VVG only_RR 653.2_MC ppm_NNU CO2_FO ._. 
+</s>
+<s>
+Furthermore_RR ,_, this_DD1 simple_JJ model_NN1 omits_VVZ several_DA2 complicating_JJ variables_NN2 that_CST would_VM have_VHI to_TO be_VBI considered_VVN in_II crafting_VVG a_AT1 realistic_JJ response_NN1 to_II climate_NN1 change_NN1 ._. 
+</s>
+<s>
+Scientists_NN2 still_RR do_VD0 n't_XX fully_RR understand_VVI the_AT whole_JJ suite_NN1 of_IO "_" interactions_NN2 between_II the_AT terrestrial_JJ biosphere_NN1 and_CC climate_NN1 "_" (_( Harvey_NP1 et_NP1 ._. 
+</s>
+<s>
+al._NNU ,_, 1997_MC )_) ._. 
+</s>
+<s>
+For_REX21 instance_REX22 ,_, what_DDQ will_VM the_AT impact_NN1 of_IO melting_VVG permafrost_NN1 be_VBI on_II methane_NN1 emissions_NN2 ?_? 
+</s>
+<s>
+Additionally_RR ,_, cooling_VVG mechanisms_NN2 such_II21 as_II22 aerosols_NN2 and_CC cloud_NN1 cover_NN1 are_VBR poorly_RR understood_VVN and_CC not_XX reflected_VVN in_II the_AT model_NN1 above_RL ._. 
+</s>
+<s>
+Indeed_RR ,_, earth_NN1 scientists_NN2 are_VBR still_RR struggling_VVG to_TO create_VVI and_CC run_VVI models_NN2 which_DDQ incorporate_VV0 the_AT true_JJ complexities_NN2 of_IO climate_NN1 change_NN1 ._. 
+</s>
+<s>
+Carbon_NN1 sequestration_NN1 and_CC reduced_VVD emissions_NN2 are_VBR the_AT most_RGT viable_JJ strategies_NN2 for_IF reducing_VVG atmospheric_JJ concentrations_NN2 of_IO GHGs_NP1 ._. 
+</s>
+<s>
+But_CCB while_CS changes_NN2 in_II emissions_NN2 have_VH0 a_AT1 slightly_RR greater_JJR effect_NN1 on_II carbon_NN1 dioxide_NN1 storage_NN1 than_CSN fixation_NN1 ,_, neither_DD1 one_PN1 alone_RR can_VM reduce_VVI atmospheric_JJ concentrations_NN2 to_II a_AT1 level_JJ low_JJ enough_RR to_TO avoid_VVI runaway_JJ temperature_NN1 increases_NN2 resulting_VVG from_II the_AT initiation_NN1 of_IO positive_JJ feedback_NN1 loops_NN2 ._. 
+</s>
+<s>
+Earth_NN1 scientists_NN2 have_VH0 yet_RR to_TO derive_VVI completely_RR accurate_JJ models_NN2 ,_, but_CCB it_PPH1 is_VBZ clear_JJ that_CST a_AT1 multi-pronged_JJ strategy_NN1 is_VBZ needed_VVN to_TO curb_VVI and_CC hopefully_RR reverse_VVI the_AT accumulation_NN1 of_IO these_DD2 gasses_NN2 in_II the_AT atmosphere_NN1 ._. 
+</s>
+<s>
+Intensive_JJ reforestation_NN1 measures_NN2 must_VM be_VBI coupled_VVN with_IW rigorous_JJ efforts_NN2 to_TO reduce_VVI anthropogenic_JJ emissions_NN2 of_IO GHGs_NP1 ._. 
+</s>

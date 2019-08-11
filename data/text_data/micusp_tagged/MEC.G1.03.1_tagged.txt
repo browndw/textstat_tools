@@ -1,0 +1,666 @@
+<s>
+In_II the_AT United_NP1 States_NP1 in_II 2006_MC 4,784_MC pedestrians_NN2 were_VBDR killed_VVN in_II traffic_NN1 accidents_NN2 ._. 
+</s>
+<s>
+Because_CS a_AT1 larger_JJR percentage_NN1 of_IO Americans_NN2 use_VV0 private_JJ vehicles_NN2 than_CSN walk_NN1 or_CC use_VV0 public_JJ transportation_NN1 compared_VVN to_II people_NN in_II many_DA2 countries_NN2 in_II the_AT European_JJ Union_NN1 and_CC around_II the_AT world_NN1 ,_, less_DAR attention_NN1 is_VBZ given_VVN in_II the_AT U.S._NP1 to_II pedestrian_NN1 safety_NN1 than_CSN in_II these_DD2 more_DAR pedestrian-friendly_JJ countries_NN2 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, though_CS numerous_JJ efforts_NN2 have_VH0 been_VBN made_VVN to_TO improve_VVI vehicle_NN1 passenger_NN1 safety_NN1 (_( air_NN1 bags_NN2 ,_, crumple_VV0 zones_NN2 ,_, et_RR21 cetera_RR22 )_) ,_, no_AT similar_JJ effort_NN1 to_TO protect_VVI pedestrians_NN2 has_VHZ been_VBN initiated_VVN ._. 
+</s>
+<s>
+While_CS pedestrians_NN2 were_VBDR involved_JJ in_II just_RR over_RG 1%_NNU of_IO all_DB traffic_NN1 accidents_NN2 in_II 2006_MC ,_, these_DD2 vulnerable_JJ road_NN1 users_NN2 accounted_VVN for_IF over_RG 12%_NNU of_IO all_DB traffic_NN1 fatalities_NN2 ._. 
+</s>
+<s>
+Most_DAT of_IO the_AT accidents_NN2 in_II which_DDQ pedestrians_NN2 were_VBDR involved_VVN took_VVD place_NN1 at_II night_NNT1 in_II urban_JJ areas_NN2 under_II normal_JJ weather_NN1 conditions_NN2 ._. 
+</s>
+<s>
+In_II almost_RR half_DB of_IO all_DB fatal_JJ pedestrian_NN1 crashes_VVZ alcohol_NN1 was_VBDZ involved_VVN ,_, usually_RR on_II41 the_II42 part_II43 of_II44 the_AT pedestrian_NN1 ._. 
+</s>
+<s>
+(_( 1_MC1 )_) Motor_NN1 vehicle_NN1 collisions_NN2 are_VBR the_AT leading_JJ cause_NN1 of_IO fatal_JJ accidents_NN2 and_CC one_MC1 of_IO the_AT leading_JJ causes_NN2 of_IO non-fatal_JJ (_( but_CCB still_RR damage_VV0 or_CC injury_NN1 causing_VVG )_) accidents_NN2 in_II the_AT Army_NN1 ._. 
+</s>
+<s>
+Although_CS the_AT Army_NN1 is_VBZ making_VVG a_AT1 decided_JJ effort_NN1 to_TO decrease_VVI the_AT number_NN1 of_IO fatalities_NN2 from_II traffic_NN1 mishaps_NN2 65%_NNU of_IO fatalities_NN2 were_VBDR still_RR from_II driving_JJ accidents_NN2 in_II 2006_MC ._. 
+</s>
+<s>
+Under_II the_AT assumption_NN1 that_CST the_AT same_DA percentage_NN1 of_IO these_DD2 accidents_NN2 involves_VVZ pedestrians_NN2 as_CSA in_II civilian_JJ statistics_NN ,_, increased_JJ pedestrian_NN1 safety_NN1 would_VM greatly_RR benefit_VVI the_AT Army_NN1 and_CC save_VVI the_AT lives_NN2 of_IO many_DA2 soldiers_NN2 ._. 
+</s>
+<s>
+(_( 2_MC )_) A_ZZ1 much_RR larger_JJR percentage_NN1 of_IO traffic_NN1 accidents_NN2 in_II Europe_NP1 and_CC other_JJ nations_NN2 involve_VV0 pedestrians_NN2 than_CSN in_II the_AT United_NP1 States_NP1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ unsurprising_VVG given_VVN the_AT greater_JJR percentage_NN1 of_IO pedestrians_NN2 in_II many_DA2 other_JJ countries_NN2 ,_, especially_RR low_JJ income_NN1 countries_NN2 ,_, compared_VVN to_II most_DAT of_IO the_AT US_NP1 ._. 
+</s>
+<s>
+The_AT World_NN1 Bank_NN1 reports_VVZ that_CST globally_RR ,_, more_DAR than_CSN 0.76_MC million_NNO pedestrians_NN2 are_VBR killed_VVN in_II traffic_NN1 accidents_NN2 each_DD1 year_NNT1 ,_, 35%_NNU of_IO which_DDQ are_VBR children_NN2 ._. 
+</s>
+<s>
+(_( 3_MC )_) These_DD2 statistics_NN show_VV0 the_AT dire_JJ need_NN1 to_TO increase_VVI pedestrian_NN1 safety_NN1 but_CCB also_RR point_VV0 the_AT specific_JJ scenarios_NN2 (_( e.g._REX at_II night_NNT1 in_II urban_JJ areas_NN2 )_) where_CS targeted_VVN pedestrian_NN1 safety_NN1 improvements_NN2 would_VM benefit_VVI the_AT most_DAT people_NN ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO this_DD1 project_NN1 is_VBZ to_TO design_VVI and_CC implement_VVI a_AT1 pedestrian_NN1 detection_NN1 and_CC avoidance_NN1 system_NN1 for_IF use_NN1 in_II civilian_NN1 and_CC military_JJ applications_NN2 ._. 
+</s>
+<s>
+The_AT proposed_JJ system_NN1 will_VM function_VVI in_II both_DB2 structured_JJ environments_NN2 ,_, such_II21 as_II22 road_NN1 lanes_NN2 ,_, and_CC unstructured_JJ environments_NN2 ,_, such_II21 as_II22 fields_NN2 and_CC empty_JJ parking_NN1 lots_PN ._. 
+</s>
+<s>
+Both_DB2 of_IO these_DD2 environments_NN2 are_VBR encountered_VVN by_II civilians_NN2 and_CC military_JJ personnel_NN2 and_CC a_AT1 system_NN1 versatile_JJ enough_RR for_IF both_DB2 functions_NN2 would_VM be_VBI preferable_JJ to_II one_MC1 with_IW a_AT1 more_RGR limited_JJ range_NN1 of_IO use_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT statistics_NN mentioned_VVN above_RL ,_, the_AT system_NN1 will_VM be_VBI optimized_VVN for_IF nighttime_NNT1 driving_VVG in_II urban_JJ areas_NN2 under_II normal_JJ weather_NN1 conditions_NN2 ,_, as_CSA this_DD1 situation_NN1 is_VBZ the_AT most_RGT dangerous_JJ for_IF pedestrians_NN2 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT literature_NN1 surveyed_VVD ,_, a_AT1 sensor_NN1 suite_NN1 consisting_VVG of_IO a_AT1 far_JJ infrared_JJ camera_NN1 ,_, a_AT1 visible_JJ light_NN1 (_( CCD_NP1 )_) camera_NN1 and_CC a_AT1 scanning_NN1 laser_NN1 range_NN1 finder_NN1 appear_VV0 to_TO be_VBI the_AT most_RGT reliable_JJ and_CC accurate_JJ choice_NN1 of_IO sensors_NN2 for_IF the_AT cost_NN1 ._. 
+</s>
+<s>
+Sensor_NN1 fusion_NN1 performed_VVN between_II these_DD2 devices_NN2 will_VM lead_VVI to_II robust_JJ detection_NN1 and_CC tracking_NN1 under_II most_DAT weather_NN1 conditions_NN2 ._. 
+</s>
+<s>
+Pedestrians_NN2 ,_, stationary_JJ and_CC dynamic_JJ obstacles_NN2 ,_, and_CC road_NN1 markings_NN2 will_VM be_VBI detected_VVN by_II the_AT sensor_NN1 suite_NN1 and_CC tracked_VVD via_II a_AT1 Kalman_NN1 filter_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 will_VM respond_VVI to_II the_AT presence_NN1 of_IO obstacles_NN2 by_II appropriately_RR altering_VVG the_AT vehicle_NN1 's_GE velocity_NN1 in_II a_AT1 structured_JJ environment_NN1 and_CC planning_VVG a_AT1 path_NN1 to_TO avoid_VVI obstacles_NN2 when_CS in_II an_AT1 unstructured_JJ environment_NN1 ._. 
+</s>
+<s>
+From_II 2000_MC until_II 2005_MC ,_, the_AT European_JJ Union_NN1 partnered_VVN with_IW industry_NN1 to_TO fund_VVI vulnerable_JJ road_NN1 user_NN1 (_( VRU_NP1 )_) protection_NN1 projects_NN2 ._. 
+</s>
+<s>
+The_AT first_MD project_NN1 ,_, Preventive_JJ Safety_NN1 for_IF Unprotected_JJ Road_NN1 Users_NN2 (_( PROTECTOR_NN1 )_) ,_, took_VVD place_NN1 from_II 2000_MC until_II 2003_MC ._. 
+</s>
+<s>
+The_AT focus_NN1 of_IO this_DD1 project_NN1 was_VBDZ to_TO develop_VVI visible_JJ light_NN1 based_VVN pedestrian_NN1 detection_NN1 systems_NN2 that_CST could_VM asses_NN2 risk_VVI and_CC ,_, if_CS necessary_JJ ,_, alert_VVI the_AT driver_NN1 ._. 
+</s>
+<s>
+The_AT project_NN1 used_VVD a_AT1 system_NN1 based_VVN approach_NN1 to_TO locate_VVI and_CC identify_VVI pedestrians_NN2 ,_, track_VV0 them_PPHO2 and_CC determine_VV0 the_AT risk_NN1 of_IO a_AT1 collision_NN1 ._. 
+</s>
+<s>
+One_MC1 notable_JJ aspect_NN1 of_IO this_DD1 project_NN1 was_VBDZ the_AT use_NN1 of_IO over_RG forty_MC minutes_NNT2 of_IO real-world_JJ traffic_NN1 video_NN1 to_TO test_VVI the_AT algorithms_NN2 ._. 
+</s>
+<s>
+While_CS the_AT researches_NN2 admit_VV0 that_CST considerably_RR more_DAR work_NN1 needs_VVZ to_TO be_VBI done_VDN on_II the_AT system_NN1 ,_, they_PPHS2 did_VDD make_VVI many_DA2 technological_JJ gains_NN2 ._. 
+</s>
+<s>
+(_( 4_MC )_) PROTECTOR_NN1 's_GE successor_NN1 ,_, Sensors_NN2 and_CC System_NN1 Architecture_NN1 for_IF Vulnerable_JJ Road_NN1 Users_NN2 Protection_NN1 (_( SAVE-U_JJ )_) 2002-2005_MCMC ,_, built_VVN on_II some_DD of_IO the_AT research_NN1 from_II PROTECTOR_NN1 but_CCB greatly_RR enhanced_VVD the_AT pedestrian_NN1 detection_NN1 and_CC tracking_JJ system_NN1 by_II adding_VVG a_AT1 network_NN1 of_IO radar_NN1 sensors_NN2 and_CC an_AT1 infrared_JJ camera_NN1 to_II the_AT visible_JJ light_JJ sensor_NN1 ._. 
+</s>
+<s>
+The_AT SAVE-U_JJ system_NN1 uses_VVZ multi-level_JJ sensor_NN1 fusion_NN1 in_II order_NN1 to_TO initially_RR reduce_VVI the_AT amount_NN1 of_IO image_NN1 processing_VVG necessary_JJ by_II identifying_VVG regions_NN2 of_IO interest_NN1 (_( ROIs_NN2 )_) with_IW the_AT radar_NN1 and_CC ,_, later_RRR the_AT sensor_NN1 fusion_NN1 produces_VVZ data_NN to_TO positively_RR identify_VVI VRUs_NN1 for_IF tracking_NN1 and_CC characteristic_JJ determination_NN1 ._. 
+</s>
+<s>
+(_( 5_MC )_) Finally_RR ,_, the_AT DARPA_NP1 sponsored_VVD Grand_JJ and_CC Urban_JJ Challenges_NN2 have_VH0 spurred_VVN the_AT production_NN1 of_IO a_AT1 number_NN1 of_IO practical_JJ tools_NN2 for_IF autonomous_JJ vehicle_NN1 navigation_NN1 and_CC control_NN1 ._. 
+</s>
+<s>
+The_AT Urban_JJ Challenge_NN1 ,_, in_RR21 particular_RR22 ,_, required_VVN the_AT development_NN1 of_IO autonomous_JJ vehicles_NN2 that_CST could_VM follow_VVI traffic_NN1 laws_NN2 ,_, interact_VV0 safely_RR and_CC correctly_RR with_IW other_JJ vehicles_NN2 and_CC navigate_VV0 in_II an_AT1 urban_JJ environment_NN1 in_II the_AT same_DA manner_NN1 that_CST a_AT1 human_NN1 would_VM ._. 
+</s>
+<s>
+While_CS this_DD1 challenge_NN1 did_VDD not_XX directly_RR involve_VVI any_DD sort_NN1 of_IO pedestrian_NN1 protection_NN1 ,_, the_AT technology_NN1 that_CST was_VBDZ developed_VVN is_VBZ a_AT1 very_RG good_JJ compliment_NN1 to_II a_AT1 pedestrian_NN1 protection_NN1 system_NN1 ._. 
+</s>
+<s>
+(_( 6_MC )_) Researchers_NN2 have_VH0 developed_VVN an_AT1 astonishing_JJ number_NN1 of_IO methods_NN2 for_IF pedestrian_NN1 detection_NN1 that_CST use_VV0 different_JJ sensors_NN2 (_( or_CC sets_NN2 of_IO sensors_NN2 )_) with_IW varying_JJ degrees_NN2 of_IO success_NN1 ._. 
+</s>
+<s>
+The_AT most_RGT common_JJ methods_NN2 use_VV0 either_RR visible_JJ or_CC infrared_JJ light_JJ sensors_NN2 -- alone_JJ or_CC in_II stereo_NN1 pairs_NN2 --_NN1 or_CC they_PPHS2 pair_VV0 light_JJ sensors_NN2 with_IW a_AT1 range_NN1 finder_NN1 ,_, such_II21 as_II22 RADAR_NN1 ,_, sonar_NN1 or_CC a_AT1 laser_NN1 scanner_NN1 ._. 
+</s>
+<s>
+Visible_JJ light_NN1 appears_VVZ to_TO be_VBI a_AT1 logical_JJ method_NN1 for_IF pedestrian_NN1 detection_NN1 ._. 
+</s>
+<s>
+Such_DA cameras_NN2 are_VBR common_JJ ,_, relatively_RR inexpensive_JJ and_CC visible_JJ light_NN1 is_VBZ the_AT means_NN by_II which_DDQ a_AT1 human_JJ driver_NN1 would_VM detect_VVI and_CC avoid_VVI pedestrians_NN2 ._. 
+</s>
+<s>
+However_RR ,_, extracting_VVG information_NN1 from_II the_AT images_NN2 can_VM be_VBI a_AT1 complex_JJ ,_, time_NNT1 consuming_VVG and_CC inexact_JJ task_NN1 and_CC although_CS many_DA2 methods_NN2 for_IF detecting_VVG pedestrians_NN2 have_VH0 been_VBN developed_VVN ,_, no_AT single_JJ method_NN1 stands_VVZ out_RP as_RG superior_JJ in_II all_DB conditions_NN2 ._. 
+</s>
+<s>
+Locating_VVG pedestrians_NN2 based_VVN on_II the_AT unique_JJ shape_NN1 or_CC features_NN2 of_IO a_AT1 human_NN1 is_VBZ widespread_JJ method_NN1 of_IO pedestrian_NN1 detection_NN1 ._. 
+</s>
+<s>
+Papageorgiou_NN1 and_CC Poggio_NP1 (_( 7_MC )_) use_VV0 Haar_NN1 wavelet_NN1 features_NN2 classified_VVN via_II a_AT1 Support_NN1 Vector_NN1 Machine_NN1 (_( SVM_NP1 )_) to_TO locate_VVI faces_NN2 ,_, people_NN and_CC cars_NN2 in_II visible_JJ light_JJ images_NN2 ._. 
+</s>
+<s>
+Their_APPGE system_NN1 was_VBDZ integrated_VVN with_IW a_AT1 stereo_NN1 obstacle_NN1 detection_NN1 system_NN1 for_IF use_NN1 with_IW the_AT DaimlerChrysler_NP1 Urban_JJ Traffic_NN1 Assistant_NN1 (_( UTA_NP1 )_) ._. 
+</s>
+<s>
+Havasi_NP1 et_RA21 al_RA22 (_( 8_MC )_) use_VV0 the_AT symmetry_NN1 of_IO human_JJ legs_NN2 to_TO locate_VVI humans_NN2 in_II an_AT1 image_NN1 ,_, while_CS Abramson_NP1 and_CC Steux_NP1 (_( 9_MC )_) use_VV0 the_AT diagonal_JJ orientation_NN1 of_IO human_JJ legs_NN2 to_TO find_VVI people_NN in_II a_AT1 single_JJ image_NN1 ,_, albeit_CS with_IW a_AT1 higher_JJR rate_NN1 of_IO false_JJ positives_NN2 ._. 
+</s>
+<s>
+Another_DD1 common_JJ technique_NN1 is_VBZ to_TO use_VVI the_AT stereo_NN1 disparity_NN1 in_II the_AT visible_JJ light_JJ images_NN2 from_II two_MC cameras_NN2 to_TO locate_VVI pedestrians_NN2 ._. 
+</s>
+<s>
+Gandhi_NP1 and_CC Trivedi_NP1 (_( 10_MC )_) use_VV0 a_AT1 pair_NN of_IO omni_NN2 directional_JJ cameras_NN2 to_TO locate_VVI obstacle_NN1 in_II31 front_II32 of_II33 and_CC to_II the_AT side_NN1 of_IO a_AT1 vehicle_NN1 ._. 
+</s>
+<s>
+Grubb_NP1 et_RA21 al_RA22 (_( 11_MC )_) use_VV0 stereo_NN1 vision_NN1 to_TO locate_VVI obstacles_NN2 and_CC then_RT obstacle_NN1 size_NN1 and_CC SVMs_NP1 to_TO classify_VVI the_AT obstacles_NN2 as_CSA pedestrians_NN2 ._. 
+</s>
+<s>
+This_DD1 technique_NN1 can_VM also_RR be_VBI used_VVN for_IF preprocessing_VVG to_TO locate_VVI ROIs_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, some_DD researches_NN2 have_VH0 used_VVN the_AT periodic_JJ motion_NN1 of_IO a_AT1 pedestrians_NN2 gait_NN1 to_TO identify_VVI the_AT pedestrian_NN1 ._. 
+</s>
+<s>
+Niyogi_NN2 and_CC Adelson_NP1 (_( 12_MC )_) look_VV0 for_IF a_AT1 characteristic_JJ "_" braided_JJ "_" pattern_NN1 from_II the_AT movement_NN1 of_IO humans_NN2 ,_, from_II this_DD1 they_PPHS2 can_VM identify_VVI individuals_NN2 based_VVN on_II their_APPGE distinctive_JJ gait_NN1 ._. 
+</s>
+<s>
+Cutler_NN1 and_CC Davis_NP1 (_( 13_MC )_) use_VV0 periodic_JJ motion_NN1 to_TO classify_VVI moving_VVG objects_NN2 from_II both_RR static_JJ and_CC moving_VVG cameras_NN2 ._. 
+</s>
+<s>
+Once_RR a_AT1 potential_JJ pedestrian_NN1 is_VBZ located_VVN in_II an_AT1 image_NN1 ,_, most_DAT researches_NN2 use_VV0 additional_JJ algorithms_NN2 to_TO verify_VVI the_AT nature_NN1 of_IO the_AT potential_JJ pedestrians_NN2 ._. 
+</s>
+<s>
+Munder_VV0 and_CC Gavrila_NP1 (_( 14_MC )_) looked_VVD at_II multiple_JJ feature-classifier_JJ combinations_NN2 ;_; comparing_VVG Haar_NP1 Wavelets_NP1 and_CC local_JJ receptive_JJ fields_NN2 (_( LRF_NP1 )_) as_RR21 well_RR22 Support_VV0 Vector_NN1 Machines_NN2 (_( SVMs_NP1 )_) ,_, feed-forward_JJ networks_NN2 and_CC k-nearest_JJT neighbor_NN1 classifiers_NN2 to_TO find_VVI combinations_NN2 of_IO classifiers_NN2 that_CST reliably_RR detect_VV0 pedestrians_NN2 ._. 
+</s>
+<s>
+They_PPHS2 determined_VVD that_CST a_AT1 combination_NN1 of_IO SVMs_NP1 with_IW LRF_NP1 worked_VVD best_RRT ,_, though_CS a_AT1 boosted_JJ cascade_NN1 of_IO Haar_NP1 Wavelets_NP1 produced_VVD competitive_JJ results_NN2 at_II a_AT1 much_RR lower_JJR computational_JJ cost_NN1 ._. 
+</s>
+<s>
+Both_RR near_RL and_CC far_RR infrared_JJ (_( NIR_NP1 and_CC FIR_NP1 )_) sensors_NN2 have_VH0 been_VBN used_VVN for_IF pedestrian_NN1 detection_NN1 and_CC classification_NN1 ._. 
+</s>
+<s>
+Infrared_JJ sensors_NN2 ,_, especially_RR FIR_NP1 ,_, reduce_VV0 much_DA1 of_IO the_AT complexity_NN1 of_IO visible_JJ light_JJ images_NN2 as_CSA they_PPHS2 separate_VV0 warm_JJ objects_NN2 from_II neutral_JJ temperature_NN1 background_NN1 clutter_NN1 ._. 
+</s>
+<s>
+Humans_NN2 and_CC the_AT engine_NN1 blocks_NN2 of_IO moving_VVG vehicles_NN2 are_VBR usually_RR the_AT warmest_JJT objects_NN2 in_II any_DD environment_NN1 likely_JJ to_TO be_VBI encountered_VVN by_II vehicles_NN2 ._. 
+</s>
+<s>
+However_RR ,_, under_RG extremely_RR warm_JJ conditions_NN2 ,_, infrared_JJ sensors_NN2 can_VM lose_VVI some_DD to_II all_DB of_IO their_APPGE sensing_NN1 capability_NN1 as_CSA there_EX is_VBZ little_DA1 difference_NN1 between_II a_AT1 human_NN1 's_GE body_NN1 heat_NN1 and_CC the_AT background_NN1 temperature_NN1 ._. 
+</s>
+<s>
+Infrared_JJ sensors_NN2 are_VBR a_AT1 significant_JJ improvement_NN1 to_II visible_JJ light_JJ cameras_NN2 at_II night_NNT1 ._. 
+</s>
+<s>
+FIR_NP1 requires_VVZ no_AT illumination_NN1 and_CC the_AT generally_RR cooler_JJR nighttime_NNT1 temperatures_NN2 increase_VV0 the_AT contrast_NN1 between_II a_AT1 warm_JJ human_NN1 and_CC the_AT background_NN1 environment_NN1 ._. 
+</s>
+<s>
+FIR_NP1 also_RR does_VDZ not_XX get_VVI "_" dazzled_JJ "_" or_CC washed_VVD out_RP by_II approaching_VVG head_NN1 lights_NN2 or_CC other_JJ sudden_JJ change_NN1 in_II lighting_VVG the_AT way_NN1 human_NN1 eyes_NN2 or_CC visible_JJ light_JJ cameras_NN2 do_VD0 ._. 
+</s>
+<s>
+While_CS infrared_JJ cameras_NN2 are_VBR usually_RR more_RGR expensive_JJ then_RT visible_JJ light_JJ cameras_NN2 the_AT cost_NN1 has_VHZ decreased_VVN considerably_RR over_II the_AT years_NNT2 ,_, to_II the_AT point_NN1 that_CST some_DD luxury_JJ vehicles_NN2 are_VBR starting_VVG to_TO offer_VVI FIR_NN1 imaging_NN1 ._. 
+</s>
+<s>
+(_( 15_MC )_) One_MC1 common_JJ method_NN1 of_IO pedestrian_NN1 detection_NN1 with_IW infrared_JJ cameras_NN2 is_VBZ by_II human_JJ shape_NN1 recognition_NN1 ._. 
+</s>
+<s>
+Broggi_NP1 et_RA21 al_RA22 (_( 16_MC )_) use_VV0 a_AT1 single_JJ frame_NN1 from_II an_AT1 infrared_JJ camera_NN1 to_TO locate_VVI pedestrians_NN2 by_II looking_VVG for_IF symmetric_JJ ,_, warm_JJ shapes_NN2 with_IW certain_JJ aspect_NN1 ratios_NN2 ._. 
+</s>
+<s>
+Xu_NP1 et_RA21 al_RA22 (_( 17_MC )_) use_VV0 SVM_NP1 to_TO locate_VVI pedestrians_NN2 in_II the_AT images_NN2 from_II a_AT1 single_JJ night_NNT1 vision_NN1 camera_NN1 ._. 
+</s>
+<s>
+They_PPHS2 then_RT track_VV0 the_AT pedestrian_NN1 using_VVG mean_JJ shift_NN1 tracking_NN1 and_CC Kalmen_NP1 filter_NN1 prediction_NN1 ._. 
+</s>
+<s>
+Meis_NP1 et_RA21 al_RA22 (_( 18_MC )_) use_VV0 simple_JJ pixel_NN1 classification_NN1 for_IF head_NN1 detection_NN1 in_II31 addition_II32 to_II33 body_NN1 classification_NN1 in_BCL21 order_BCL22 to_TO improve_VVI precision_NN1 ._. 
+</s>
+<s>
+Another_DD1 method_NN1 that_CST is_VBZ becoming_VVG more_RGR common_JJ is_VBZ to_TO detect_VVI pedestrians_NN2 in_II infrared_JJ videos_NN2 by_II locating_VVG motion_NN1 that_CST is_VBZ inconsistent_JJ with_IW the_AT background_NN1 ._. 
+</s>
+<s>
+Liu_NP1 and_CC Fujimura_NP1 (_( 19_MC )_) use_VV0 stereo_NN1 infrared_JJ cameras_NN2 to_TO detect_VVI obstacles_NN2 and_CC then_RT examine_VVI motion_NN1 that_CST is_VBZ independent_JJ from_II the_AT background_NN1 in_BCL21 order_BCL22 to_TO classify_VVI obstacles_NN2 as_CSA pedestrians_NN2 ;_; this_DD1 method_NN1 could_VM be_VBI combined_VVN with_IW the_AT more_RGR traditional_JJ shape/texture_NN1 based_VVN detection_NN1 ._. 
+</s>
+<s>
+Sensor_NN1 fusion_NN1 has_VHZ been_VBN used_VVN frequently_RR and_CC with_IW a_AT1 great_JJ deal_NN1 of_IO success_NN1 ._. 
+</s>
+<s>
+The_AT combination_NN1 of_IO sensors_NN2 that_CST collect_VV0 data_NN from_II different_JJ spectrums_NN2 is_VBZ often_RR able_JK to_TO locate_VVI pedestrians_NN2 more_RGR consistently_RR ,_, accurately_RR and_CC with_IW significantly_RR less_RGR computational_JJ cost_NN1 then_RT a_AT1 single_JJ type_NN1 of_IO sensor_NN1 ._. 
+</s>
+<s>
+The_AT combinations_NN2 of_IO sensors_NN2 increase_VV0 the_AT equipment_NN1 cost_NN1 but_CCB greatly_RR enhance_VV0 that_DD1 reliability_NN1 of_IO a_AT1 system_NN1 ._. 
+</s>
+<s>
+Almost_RR every_AT1 autonomous_JJ vehicle_NN1 that_CST has_VHZ been_VBN developed_VVN to_II the_AT point_NN1 of_IO life-like_JJ testing_NN1 has_VHZ utilized_VVN multiple_JJ sensors_NN2 and_CC sensor_NN1 fusion_NN1 for_IF navigation_NN1 (_( 6_MC )_) ._. 
+</s>
+<s>
+As_CSA previously_RR mentioned_VVN ,_, a_AT1 frequent_JJ paring_NN1 of_IO sensors_NN2 is_VBZ a_AT1 range_NN1 sensor_NN1 with_IW a_AT1 light_JJ sensor_NN1 ._. 
+</s>
+<s>
+The_AT range_NN1 sensor_NN1 is_VBZ used_VVN to_TO detect_VVI obstacles_NN2 ,_, the_AT locations_NN2 of_IO which_DDQ are_VBR then_RT mapped_VVN to_II the_AT light_NN1 based_VVN images_NN2 as_CSA regions_NN2 of_IO interest_NN1 (_( ROIs_NN2 )_) ._. 
+</s>
+<s>
+By_II focusing_VVG on_II the_AT ROIs_NN2 ,_, the_AT amount_NN1 of_IO image_NN1 processing_NN1 needed_VVN for_IF pedestrian_NN1 detection_NN1 is_VBZ greatly_RR reduced_VVN and_CC the_AT system_NN1 can_VM respond_VVI more_RGR quickly_RR and_CC with_IW greater_JJR accuracy_NN1 ._. 
+</s>
+<s>
+Range_NN1 sensors_NN2 can_VM also_RR be_VBI used_VVN to_TO calibrate_VVI pedestrian_NN1 size_NN1 when_CS pedestrian_NN1 detection_NN1 is_VBZ done_VDN via_II shape_NN1 recognition_NN1 ._. 
+</s>
+<s>
+Milch_VV0 and_CC Behrens_NP1 (_( 20_MC )_) use_VV0 RADAR_NN1 and_CC vision_NN1 to_TO identify_VVI potential_JJ pedestrians_NN2 and_CC verify_VVI their_APPGE nature_NN1 using_VVG statistical_JJ shape_NN1 models_NN2 ._. 
+</s>
+<s>
+Fang_NN1 et_RA21 al_RA22 (_( 21_MC )_) use_VV0 visible_JJ light_NN1 and_CC FIR_NN1 to_TO find_VVI and_CC inspect_VVI ROIs_NN2 and_CC also_RR suggest_VV0 new_JJ features_NN2 for_IF segmentation_NN1 which_DDQ take_VV0 advantage_NN1 of_IO the_AT distinctive_JJ properties_NN2 of_IO FIR_NN1 ._. 
+</s>
+<s>
+Scheunert_VV0 et_RA21 al_RA22 (_( 22_MC )_) use_VV0 a_AT1 laser_NN1 scanner_NN1 for_IF ROI_NN1 identification_NN1 in_II an_AT1 infrared_JJ image_NN1 ._. 
+</s>
+<s>
+They_PPHS2 then_RT combine_VV0 the_AT sensor_NN1 information_NN1 via_II parallel_JJ Kalman_NN1 filters_NN2 in_BCL21 order_BCL22 to_TO sense_VVI and_CC track_NN1 multiple_NN1 objects_NN2 ._. 
+</s>
+<s>
+LIDAR_NP1 was_VBDZ used_VVN by_II Szarvas_NN2 et_RA21 al_RA22 (_( 23_MC )_) to_TO find_VVI ROIs_NN2 in_II visible_JJ light_JJ images_NN2 which_DDQ were_VBDR then_RT analyzed_VVN with_IW convolution_NN1 neural_NN1 networks_NN2 to_TO classify_VVI images_NN2 of_IO pedestrians_NN2 ._. 
+</s>
+<s>
+Other_JJ researchers_NN2 have_VH0 used_VVN a_AT1 combination_NN1 of_IO infrared_JJ and_CC visible_JJ sensors_NN2 ._. 
+</s>
+<s>
+This_DD1 combination_NN1 creates_VVZ a_AT1 system_NN1 that_CST is_VBZ reliable_JJ in_II a_AT1 larger_JJR range_NN1 of_IO environments_NN2 ._. 
+</s>
+<s>
+Information_NN1 can_VM be_VBI collected_VVN from_II both_DB2 sensors_NN2 under_II normal_JJ conditions_NN2 while_CS in_II low_JJ light_JJ conditions_NN2 the_AT infrared_JJ camera_NN1 provides_VVZ the_AT majority_NN1 of_IO the_AT information_NN1 and_CC in_II extreme_JJ weather_NN1 environments_NN2 the_AT visible_JJ light_JJ camera_NN1 would_VM be_VBI the_AT main_JJ source_NN1 of_IO data_NN ._. 
+</s>
+<s>
+Han_NP1 and_CC Bhanu_NP1 (_( 24_MC )_) use_VV0 color_NN1 and_CC infrared_JJ video_NN1 to_TO extract_VVI human_JJ silhouettes_NN2 from_II a_AT1 scene_NN1 using_VVG image_NN1 registration_NN1 ;_; silhouette_NN1 extraction_NN1 is_VBZ often_RR a_AT1 precursor_NN1 step_NN1 to_II human_JJ recognition_NN1 via_II gait_NN1 identification_NN1 ._. 
+</s>
+<s>
+While_CS the_AT infrared_JJ video_NN1 generally_RR provides_VVZ better_JJR human_NN1 silhouettes_NN2 ,_, it_PPH1 was_VBDZ occasionally_RR unreliable_JJ because_CS the_AT temperature_NN1 of_IO parts_NN2 of_IO the_AT human_JJ body_NN1 became_VVD close_RR to_II that_DD1 of_IO the_AT surrounding_JJ environment_NN1 ._. 
+</s>
+<s>
+Predicting_VVG the_AT motion_NN1 of_IO a_AT1 pedestrian_NN1 or_CC another_DD1 obstacle_NN1 can_VM be_VBI a_AT1 challenging_JJ task_NN1 ._. 
+</s>
+<s>
+Methods_NN2 for_IF predicting_VVG pedestrian_NN1 behavior_NN1 are_VBR dependent_JJ upon_II the_AT intended_JJ application_NN1 scenario_NN1 ._. 
+</s>
+<s>
+For_REX21 instance_REX22 ,_, a_AT1 control_NN1 system_NN1 for_IF a_AT1 quickly_RR moving_VVG vehicle_NN1 on_II a_AT1 straight_JJ road_NN1 would_VM only_RR have_VHI the_AT option_NN1 to_TO slow_VVI or_CC stop_VVI the_AT vehicle_NN1 to_TO avoid_VVI pedestrians_NN2 and_CC would_VM thus_RR only_RR require_VVI a_AT1 simple_JJ description_NN1 about_II the_AT projected_JJ path_NN1 of_IO the_AT pedestrian_NN1 --_NN1 if_CS the_AT path_NN1 was_VBDZ projected_VVN into_II the_AT road_NN1 and_CC when_RRQ ._. 
+</s>
+<s>
+However_RR ,_, a_AT1 control_NN1 system_NN1 for_IF a_AT1 robot_NN1 navigating_VVG around_RP a_AT1 less_RGR structured_JJ environment_NN1 ,_, such_II21 as_II22 a_AT1 parking_NN1 lot_NN1 ,_, might_VM need_VVI to_TO plan_VVI a_AT1 path_NN1 around_II multiple_NN1 moving_VVG people_NN and_CC would_VM thus_RR need_VVI to_TO make_VVI more_RGR detailed_JJ and_CC long_JJ term_NN1 predictions_NN2 about_II the_AT future_JJ motion_NN1 of_IO the_AT people_NN ._. 
+</s>
+<s>
+However_RR ,_, given_CS21 that_CS22 a_AT1 large_JJ percentage_NN1 of_IO pedestrians_NN2 involved_JJ in_II accidents_NN2 are_VBR inebriated_JJ ,_, one_PN1 wonders_VVZ about_II the_AT accuracy_NN1 of_IO detailed_JJ models_NN2 presumably_RR based_VVN on_II sober_JJ subjects_NN2 ._. 
+</s>
+<s>
+Linear_JJ estimators_NN2 track_VV0 an_AT1 obstacle_NN1 for_IF a_AT1 few_DA2 sensor_NN1 cycles_NN2 to_TO determine_VVI the_AT obstacle_NN1 's_GE velocity_NN1 ._. 
+</s>
+<s>
+Future_JJ movement_NN1 is_VBZ predicted_VVN to_TO continue_VVI at_II the_AT same_DA speed_NN1 and_CC direction_NN1 as_CSA the_AT previously_RR recorded_VVN motion_NN1 ._. 
+</s>
+<s>
+Tsuji_NP1 et_RA21 al_RA22 (_( 25_MC )_) estimate_VV0 the_AT relative_JJ movement_NN1 vector_NN1 ,_, between_II the_AT pedestrian_NN1 and_CC the_AT vehicle_NN1 ,_, based_VVN on_II principle_NN1 component_NN1 analysis_NN1 ._. 
+</s>
+<s>
+As_II the_AT vehicle_NN1 is_VBZ ,_, in_II this_DD1 case_NN1 ,_, confined_VVN to_II a_AT1 road_NN1 lane_NN1 where_CS motion_NN1 planning_NN1 will_VM consist_VVI only_RR of_IO speed_NN1 changes_NN2 along_II the_AT road_NN1 ,_, elaborate_JJ motion_NN1 prediction_NN1 models_NN2 for_IF the_AT vehicle_NN1 to_TO navigate_VVI around_RP are_VBR not_XX necessary_JJ ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, for_IF vehicles_NN2 traveling_VVG at_II high_JJ speeds_NN2 the_AT time_NNT1 between_II identification_NN1 of_IO a_AT1 pedestrian_NN1 and_CC a_AT1 possible_JJ collision_NN1 are_VBR not_XX usually_RR long_RR enough_RR for_IF the_AT pedestrian_NN1 to_TO significantly_RR change_VVI his_APPGE or_CC her_APPGE speed_NN1 or_CC direction_NN1 ._. 
+</s>
+<s>
+Modeling_NN1 or_CC clustering_NN1 methods_NN2 are_VBR two_MC stage_NN1 learning_NN1 techniques_NN2 ._. 
+</s>
+<s>
+Motion_NN1 patterns_NN2 are_VBR learned_VVN during_II the_AT first_MD ,_, observational_JJ ,_, stage_NN1 --_NN1 this_DD1 stage_NN1 can_VM be_VBI performed_VVN once_RR and_CC the_AT results_NN2 used_VVD repeatedly_RR during_II operation_NN1 ._. 
+</s>
+<s>
+Later_RRR the_AT motion_NN1 of_IO new_JJ obstacles_NN2 is_VBZ predicted_VVN based_VVN on_II which_DDQ pattern_VV0 it_PPH1 resembles_VVZ ._. 
+</s>
+<s>
+Large_JJ et_RA21 al_RA22 (_( 26_MC )_) use_VV0 a_AT1 two_MC stage_NN1 motion_NN1 predictor_NN1 ;_; the_AT first_MD stage_NN1 monitors_NN2 moving_VVG obstacles_NN2 in_II a_AT1 predefined_JJ environment_NN1 and_CC classifies_VVZ the_AT results_NN2 into_II clusters_NN2 of_IO typical_JJ motion_NN1 patterns_NN2 ._. 
+</s>
+<s>
+The_AT second_MD stage_NN1 estimates_VVZ the_AT future_JJ motion_NN1 of_IO new_JJ obstacles_NN2 based_VVN on_II the_AT cluster_NN1 with_IW the_AT maximum_JJ likelihood_NN1 of_IO the_AT obstacle_NN1 's_GE initial_JJ movements_NN2 ._. 
+</s>
+<s>
+Bennewitz_VV0 et_RA21 al_RA22 (_( 27_MC )_) learn_VV0 typical_JJ motion_NN1 patterns_NN2 of_IO people_NN using_VVG an_AT1 EM-algorithm_JJ to_TO cluster_VVI trajectories_NN2 ._. 
+</s>
+<s>
+Kalman_NN1 filtering_NN1 is_VBZ used_VVN to_TO track_VVI each_DD1 person_NN1 in_II the_AT environment_NN1 ._. 
+</s>
+<s>
+They_PPHS2 then_RT weight_VV0 an_AT1 occupancy_NN1 grid_NN1 ,_, with_IW the_AT probability_NN1 of_IO each_DD1 cell_NN1 being_VBG occupied_VVN ,_, and_CC use_VV0 A*_FO to_TO plan_VVI a_AT1 path_NN1 ._. 
+</s>
+<s>
+Zhu_NP1 (_( 28_MC )_) uses_VVZ Hidden_NP1 Markov_NP1 Models_NN2 to_II computational_JJ classify_VV0 the_AT motion_NN1 of_IO moving_VVG obstacles_NN2 as_CSA constant_JJ velocity_NN1 ,_, random_JJ motion_NN1 or_CC intentional_JJ motion_NN1 ._. 
+</s>
+<s>
+Wakim_VV0 et_RA21 al_RA22 (_( 29_MC )_) also_RR use_VV0 a_AT1 Hidden_NP1 Markov_NP1 Model_NN1 but_CCB with_IW the_AT four_MC motion_NN1 states_VVZ :_: run_VV0 ,_, jog_VV0 ,_, walk_NN1 and_CC static_JJ ._. 
+</s>
+<s>
+They_PPHS2 use_VV0 the_AT current_JJ state_NN1 to_TO estimate_VVI future_JJ movement_NN1 and_CC changes_NN2 in_II state_NN1 ._. 
+</s>
+<s>
+Schulz_VV0 et_RA21 al_RA22 (_( 30_MC )_) track_NN1 multiple_NN1 moving_VVG obstacles_NN2 using_VVG motion_NN1 models_NN2 and_CC sample-based_JJ Joint_JJ Probabilistic_JJ Data_NN Association_NN1 Filters_NN2 ,_, which_DDQ do_VD0 not_XX require_VVI a_AT1 Gaussian_JJ distribution_NN1 ,_, to_TO associate_VVI detected_JJ features_NN2 with_IW tracked_JJ obstacles_NN2 ._. 
+</s>
+<s>
+Shimizu_NN1 and_CC Poggio_NP1 (_( 31_MC )_) use_VV0 Haar_NN1 wavelet_NN1 features_NN2 from_II sequences_NN2 of_IO images_NN2 of_IO walking_VVG people_NN walking_VVG to_TO train_VVI SVMs_NP1 to_TO estimate_VVI the_AT walking_NN1 direction_NN1 of_IO people_NN ._. 
+</s>
+<s>
+The_AT actual_JJ estimation_NN1 of_IO walking_VVG direction_NN1 can_VM be_VBI performed_VVN with_IW a_AT1 single_JJ image_NN1 ._. 
+</s>
+<s>
+Antonini_NP1 et_RA21 al_RA22 (_( 32_MC )_) propose_VV0 a_AT1 discrete_JJ choice_NN1 model_NN1 to_TO predict_VVI a_AT1 pedestrian_NN1 's_GE future_JJ speed_NN1 and_CC direction_NN1 based_VVN on_II data_NN gathered_VVN from_II video_NN1 of_IO actual_JJ pedestrians_NN2 ._. 
+</s>
+<s>
+This_DD1 model_NN1 assumes_VVZ that_CST most_DAT pedestrians_NN2 move_VV0 directly_RR toward_II their_APPGE destination_NN1 with_IW predictable_JJ changes_NN2 in_II speed_NN1 or_CC direction_NN1 ._. 
+</s>
+<s>
+Antonini_NN2 and_CC Bierlaire_NP1 (_( 33_MC )_) later_RRR update_VV0 their_APPGE model_NN1 to_TO take_VVI pedestrian_NN1 interaction_NN1 into_II consideration_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR two_MC main_JJ types_NN2 of_IO configuration_NN1 space_NN1 path_NN1 planers_NN2 ,_, topological_JJ and_CC metric_JJ ._. 
+</s>
+<s>
+Topological_JJ path_NN1 planning_NN1 uses_VVZ landmarks_NN2 to_TO direct_VVI a_AT1 vehicle_NN1 ._. 
+</s>
+<s>
+As_II the_AT environment_NN1 assumed_VVN for_IF this_DD1 project_NN1 is_VBZ not_XX well_JJ enough_RR know_VV0 for_IF the_AT vehicle_NN1 to_TO navigate_VVI via_II landmarks_NN2 ,_, this_DD1 review_NN1 will_VM focus_VVI on_II metric_JJ path_NN1 planning_NN1 ,_, which_DDQ can_VM easily_RR be_VBI broken_VVN down_RP into_II sub_JJ goals_NN2 for_IF short_JJ term_NN1 path_NN1 planning_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR numerous_JJ types_NN2 of_IO metric_JJ path_NN1 planners_NN2 ,_, the_AT most_RGT common_JJ of_IO these_DD2 ,_, that_CST are_VBR applicable_JJ for_IF pedestrian_NN1 avoidance_NN1 with_IW limited_JJ knowledge_NN1 of_IO the_AT environment_NN1 ,_, are_VBR roadmap_NN1 ,_, cell_NN1 decomposition_NN1 and_CC artificial_JJ potential_JJ field_NN1 methods_NN2 ._. 
+</s>
+<s>
+Roadmap_VV0 and_CC cell_NN1 decomposition_NN1 path_NN1 planners_NN2 generally_RR consist_VV0 of_IO two_MC stages_NN2 ,_, representing_VVG the_AT environment_NN1 in_II configuration_NN1 space_NN1 and_CC then_RT an_AT1 algorithm_NN1 to_TO determine_VVI the_AT best_JJT path_NN1 or_CC roadmap_VV0 through_II that_DD1 space_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 commonly_RR used_JJ roadmap_NN1 representation_NN1 methods_NN2 ._. 
+</s>
+<s>
+Using_VVG the_AT generalized_JJ Voronoi_JJ diagram_NN1 ,_, points_NN2 are_VBR found_VVN that_CST are_VBR equidistant_JJ from_II nearby_JJ obstacles_NN2 ._. 
+</s>
+<s>
+A_AT1 path_NN1 along_II these_DD2 points_NN2 ,_, directed_VVN towards_II the_AT goal_NN1 location_NN1 ,_, is_VBZ an_AT1 extremely_RR conservative_JJ means_NN of_IO obstacle_NN1 avoidance_NN1 ._. 
+</s>
+<s>
+'dnlaing_VVG and_CC Yap_NP1 (_( 34_MC )_) described_VVD the_AT method_NN1 of_IO retracting_VVG free_JJ space_NN1 into_II a_AT1 Voronoi_JJ diagram_NN1 where_CS the_AT vehicle_NN1 is_VBZ a_AT1 disc_NN1 ._. 
+</s>
+<s>
+Latombe_NP1 (_( 35_MC )_) gives_VVZ a_AT1 good_JJ general_JJ description_NN1 of_IO the_AT Voronoi_JJ diagram_NN1 algorithm_NN1 and_CC possible_JJ variations_NN2 ._. 
+</s>
+<s>
+Choset_VV0 and_CC Burdick_NP1 (_( 36_MC )_) define_VV0 the_AT hierarchical_JJ generalized_JJ Voronoi_JJ diagram_NN1 and_CC show_VV0 how_RRQ it_PPH1 can_VM be_VBI used_VVN for_IF exploration_NN1 of_IO an_AT1 unknown_JJ environment_NN1 ._. 
+</s>
+<s>
+Unlike_II that_DD1 Voronoi_JJ diagram_NN1 which_DDQ maximizes_VVZ the_AT path_NN1 's_GE distance_NN1 from_II obstacles_NN2 ,_, a_AT1 Visibility_NN1 graph_NN1 (_( or_CC shortest-path_JJ roadmap_NN1 )_) creates_VVZ a_AT1 path_NN1 that_CST hugs_VVZ the_AT vertices_NN2 of_IO obstacles_NN2 in_BCL21 order_BCL22 to_TO find_VVI the_AT shortest_JJT path_NN1 from_II the_AT starting_NN1 location_NN1 to_II the_AT goal_NN1 ._. 
+</s>
+<s>
+As_II the_AT name_NN1 alludes_VVZ ,_, a_AT1 Visibility_NN1 graph_NN1 creates_VVZ path_NN1 segments_NN2 from_II a_AT1 vertex_NN1 of_IO an_AT1 obstacle_NN1 to_II all_DB other_JJ obstacle_NN1 vertices_VVZ that_CST are_VBR visible_JJ from_II the_AT initial_JJ vertex_NN1 ._. 
+</s>
+<s>
+The_AT path_NN1 planning_NN1 algorithm_NN1 will_VM then_RT select_VVI the_AT shortest_JJT set_NN1 of_IO segments_NN2 to_TO reach_VVI the_AT goal_NN1 ._. 
+</s>
+<s>
+Nilsson_NN1 first_MD introduced_VVD this_DD1 idea_NN1 in_II 1969_MC (_( 37_MC )_) ._. 
+</s>
+<s>
+Both_DB2 Edelsbrunner_NP1 (_( 38_MC )_) and_CC Latombe_NP1 (_( 35_MC )_) provide_VV0 a_AT1 through_JJ description_NN1 ._. 
+</s>
+<s>
+Oommen_NP1 et_RA21 al_RA22 (_( 39_MC )_) use_VV0 visibility_NN1 graphs_NN2 for_IF robot_NN1 navigation_NN1 in_II an_AT1 unexplored_JJ environment_NN1 ._. 
+</s>
+<s>
+After_CS the_AT roadmap_NN1 is_VBZ created_VVN using_VVG one_MC1 of_IO either_RR these_DD2 methods_NN2 ,_, or_CC the_AT countless_JJ other_JJ methods_NN2 mentioned_VVN in_II literature_NN1 ,_, a_AT1 variety_NN1 of_IO algorithms_NN2 exist_VV0 to_TO find_VVI the_AT best_JJT route_NN1 along_II the_AT roadmap_NN1 to_II the_AT goal_NN1 ._. 
+</s>
+<s>
+The_AT choice_NN1 of_IO these_DD2 algorithms_NN2 depends_VVZ greatly_RR on_II the_AT amount_NN1 and_CC reliability_NN1 of_IO the_AT information_NN1 available_JJ to_II the_AT path_NN1 planner_NN1 ._. 
+</s>
+<s>
+Dijkstra_NP1 's_GE algorithm_NN1 works_VVZ by_II finding_VVG the_AT lowest_JJT cost_NN1 path_NN1 from_II the_AT initial_JJ stare_NN1 to_II a_AT1 signal_NN1 state_NN1 ,_, assuming_VVG that_CST all_DB path_NN1 costs_NN2 are_VBR non_FU negative_JJ ._. 
+</s>
+<s>
+This_DD1 algorithm_NN1 does_VDZ not_XX require_VVI a_AT1 heuristic_JJ function_NN1 to_TO predict_VVI the_AT cost_NN1 from_II future_JJ states_NN2 to_II the_AT goal_NN1 state_NN1 ._. 
+</s>
+<s>
+Urdiales_NP1 et_RA21 al_RA22 (_( 40_MC )_) use_VV0 Dijkstra_NP1 's_GE algorithm_NN1 to_TO find_VVI the_AT shortest_JJT path_NN1 within_II a_AT1 multi-level_JJ path_NN1 planning_NN1 algorithm_NN1 ._. 
+</s>
+<s>
+Qin_NP1 et_RA21 al_RA22 (_( 41_MC )_) use_VV0 a_AT1 particle_NN1 swarm_NN1 optimization_NN1 algorithm_NN1 after_II Dijkstra_NP1 's_GE algorithm_NN1 to_TO find_VVI an_AT1 optimal_JJ path_NN1 ._. 
+</s>
+<s>
+A*_FO ,_, which_DDQ is_VBZ an_AT1 extension_NN1 of_IO Dijkstra_NP1 's_GE algorithm_NN1 ,_, is_VBZ often_RR considered_VVN one_MC1 of_IO the_AT best_JJT general_JJ planners_NN2 ._. 
+</s>
+<s>
+However_RR to_TO use_VVI A*_FO ,_, the_AT path_NN1 planner_NN1 must_VM have_VHI an_AT1 admissible_JJ heuristic_JJ function_NN1 to_TO estimate_VVI (_( without_IW overestimating_VVG )_) the_AT cost_NN1 to_TO move_VVI from_II every_AT1 state_NN1 to_II the_AT goal_NN1 state_NN1 ._. 
+</s>
+<s>
+As_II the_AT heuristic_JJ function_NN1 is_VBZ often_RR not_XX available_JJ for_IF unexplored_JJ territory_NN1 ,_, this_DD1 algorithm_NN1 ,_, while_CS powerful_JJ ,_, is_VBZ limited_VVN in_II its_APPGE application_NN1 and_CC can_VM often_RR only_RR be_VBI used_VVN for_IF path_NN1 planning_VVG in_II the_AT local_JJ region_NN1 of_IO an_AT1 unknown_JJ environment_NN1 ._. 
+</s>
+<s>
+Alexopoulos_NN2 and_CC Griffin_NP1 (_( 42_MC )_) use_VV0 a_AT1 variation_NN1 of_IO A*_FO to_TO find_VVI a_AT1 collision_NN1 free_JJ path_NN1 among_II moving_VVG obstacles_NN2 ._. 
+</s>
+<s>
+Oriolo_NP1 et_RA21 al_RA22 (_( 43_MC )_) use_VV0 iterative_JJ applications_NN2 of_IO A*_FO to_TO generate_VVI local_JJ paths_NN2 in_II an_AT1 unknown_JJ environment_NN1 ._. 
+</s>
+<s>
+The_AT environment_NN1 can_VM be_VBI also_RR be_VBI broken_VVN down_RP ,_, via_II cell_NN1 decomposition_NN1 ,_, into_II a_AT1 grid_NN1 of_IO either_RR regular_JJ or_CC irregular_JJ grid_NN1 elements_NN2 ._. 
+</s>
+<s>
+Depending_II21 on_II22 the_AT technique_NN1 used_VMK to_TO create_VVI the_AT grid_NN1 ,_, this_DD1 method_NN1 can_VM be_VBI referred_VVN to_II as_RG fixed_JJ ,_, adaptive_JJ ,_, approximate_JJ variable-cell_NN1 or_CC Quadtree_NP1 cell_NN1 decomposition_NN1 ,_, certainty_NN1 grids_NN2 or_CC occupancy_NN1 grids_NN2 ._. 
+</s>
+<s>
+For_IF basic_JJ fixed_JJ cell_NN1 decomposition_NN1 ,_, a_AT1 Cartesian_JJ grid_NN1 is_VBZ superimposed_VVN on_II the_AT environment_NN1 ._. 
+</s>
+<s>
+Grid_NN1 elements_NN2 are_VBR considered_VVN occupied_VVN if_CS an_AT1 obstacle_NN1 resides_VVZ in_II any_DD part_NN1 of_IO the_AT grid_NN1 element_NN1 ;_; the_AT path_NN1 planning_NN1 algorithm_NN1 finds_VVZ a_AT1 path_NN1 through_II unoccupied_JJ cells_NN2 ._. 
+</s>
+<s>
+Lozano-Perez_NP1 (_( 44_MC )_) use_VV0 cell_NN1 decomposition_NN1 for_IF automatic_JJ planning_NN1 of_IO manipulator_NN1 movement_NN1 ._. 
+</s>
+<s>
+Moravec_NN1 and_CC Elfes_NP2 (_( 45_MC )_) use_VV0 wide_JJ angle_NN1 sonar_NN1 to_TO map_VVI an_AT1 area_NN1 and_CC classify_VVI regions_NN2 as_CSA empty_JJ ,_, occupied_VVN or_CC unknown_JJ ._. 
+</s>
+<s>
+Thrun_NP1 (_( 46_MC )_) uses_VVZ data_NN from_II multiple_JJ robots_NN2 to_TO create_VVI a_AT1 three-dimensional_JJ map_NN1 using_VVG occupancy_NN1 grids_NN2 ._. 
+</s>
+<s>
+Jigong_VV0 et_RA21 al_RA22 (_( 47_MC )_) use_VV0 cell_NN1 decomposition_NN1 along_II21 with_II22 LGODAM_NP1 to_TO plan_VVI a_AT1 path_NN1 while_CS avoiding_VVG obstacle_NN1 traps_NN2 ._. 
+</s>
+<s>
+For_IF irregular_JJ grids_NN2 ,_, if_CS an_AT1 obstacle_NN1 falls_VVZ in_II part_NN1 of_IO a_AT1 grid_NN1 element_NN1 ,_, that_DD1 element_NN1 is_VBZ divided_VVN up_RP into_II smaller_JJR and_CC smaller_JJR segments_NN2 until_CS each_DD1 segment_NN1 is_VBZ either_RR fully_RR occupied_VVN by_II an_AT1 obstacle_NN1 or_CC completely_RR free_JJ ._. 
+</s>
+<s>
+Zhu_NN1 and_CC Latombe_NP1 (_( 48_MC )_) use_VV0 constraint_NN1 reformulation_NN1 with_IW hierarchical_JJ approximate_JJ cell_NN1 decomposition_NN1 to_TO reduce_VVI the_AT amount_NN1 of_IO area_NN1 that_CST contains_VVZ a_AT1 mix_NN1 of_IO occupied_JJ and_CC unoccupied_JJ space_NN1 ._. 
+</s>
+<s>
+They_PPHS2 also_RR modify_VV0 the_AT planner_NN1 to_TO take_VVI advantage_NN1 of_IO information_NN1 about_II previously_RR made_VVN mistakes_NN2 ._. 
+</s>
+<s>
+Potential_JJ Field_NN1 planners_NN2 create_VV0 a_AT1 field_NN1 or_CC a_AT1 gradient_NN1 throughout_II the_AT environment_NN1 based_VVN on_II an_AT1 attractive_JJ force_NN1 exerted_VVN by_II the_AT goal_NN1 location_NN1 and_CC a_AT1 localized_JJ repulsive_JJ force_NN1 created_VVN by_II obstacles_NN2 that_CST should_VM be_VBI avoided_VVN ._. 
+</s>
+<s>
+The_AT robot_NN1 is_VBZ then_RT treated_VVN as_II a_AT1 point_NN1 under_II the_AT influence_NN1 of_IO this_DD1 field_NN1 and_CC is_VBZ smoothly_RR guided_VVN to_II the_AT goal_NN1 ._. 
+</s>
+<s>
+O._NP1 Khatib_NP1 (_( 49_MC )_) first_MD introduce_VV0 the_AT artificial_JJ potential_JJ field_NN1 concept_NN1 and_CC use_VV0 it_PPH1 to_TO control_VVI a_AT1 manipulator_NN1 in_II a_AT1 complex_JJ environment_NN1 ._. 
+</s>
+<s>
+Borenstein_NN1 and_CC Koren_NP1 (_( 50_MC )_) produce_VV0 a_AT1 virtual_JJ force_NN1 field_NN1 by_II combining_VVG certainty_NN1 grids_NN2 with_IW an_AT1 artificial_JJ potential_JJ field_NN1 ._. 
+</s>
+<s>
+Hwang_VV0 and_CC Ahuja_NP1 (_( 51_MC )_) create_VV0 a_AT1 path_NN1 by_II searching_VVG a_AT1 graph_NN1 created_VVN from_II the_AT local_JJ minima_NN2 of_IO a_AT1 potential_JJ field_NN1 ._. 
+</s>
+<s>
+Montano_NN1 and_CC Asensio_NP1 (_( 52_MC )_) create_VV0 an_AT1 artificial_JJ potential_JJ field_NN1 using_VVG a_AT1 3D_NNU laser_NN1 range_NN1 rotating_VVG sensor_NN1 and_CC show_VV0 its_APPGE usefulness_NN1 on_II basic_JJ tasks_NN2 such_II21 as_II22 avoiding_VVG obstacles_NN2 or_CC following_VVG walls_NN2 ._. 
+</s>
+<s>
+Batavia_NN1 and_CC Nourbakhsh_NP1 (_( 53_MC )_) use_VV0 a_AT1 global_JJ potential_JJ field_NN1 to_TO perform_VVI the_AT planning_NN1 and_CC navigation_NN1 of_IO a_AT1 personal_JJ robot_NN1 ._. 
+</s>
+<s>
+M._NN1 Khatib_NP1 et_RA21 al_RA22 (_( 54_MC )_) introduce_VV0 the_AT rotation_NN1 and_CC task_NN1 potential_NN1 fields_NN2 ,_, which_DDQ they_PPHS2 refer_VV0 to_II as_II the_AT extended_JJ potential_JJ field_NN1 ._. 
+</s>
+<s>
+The_AT rotation_NN1 potential_NN1 field_NN1 takes_VVZ the_AT vehicles_NN2 orientation_NN1 into_II account_NN1 when_CS calculating_VVG an_AT1 obstacle_NN1 's_GE repulsive_JJ field_NN1 ,_, in_II this_DD1 was_VBDZ a_AT1 vehicles_NN2 traveling_VVG parallel_RR to_II an_AT1 obstacle_NN1 would_VM not_XX suffer_VVI from_II the_AT same_DA repulsion_NN1 as_CSA a_AT1 vehicle_NN1 directly_RR approaching_VVG an_AT1 obstacle_NN1 ._. 
+</s>
+<s>
+The_AT task_NN1 potential_NN1 field_NN1 allows_VVZ the_AT vehicle_NN1 to_TO ignore_VVI the_AT repulsive_JJ fields_NN2 of_IO obstacle_NN1 that_CST it_PPH1 will_VM not_XX be_VBI approaching_VVG while_CS completing_VVG its_APPGE tasks_NN2 ._. 
+</s>
+<s>
+Borenstein_NN1 and_CC Koren_NP1 (_( 55_MC )_) introduce_VV0 a_AT1 variation_NN1 on_II the_AT artificial_JJ potential_JJ field_NN1 method_NN1 and_CC the_AT occupancy_NN1 grid_NN1 method_NN1 ;_; the_AT Vector_NN1 Field_NN1 Histogram_NN1 ._. 
+</s>
+<s>
+The_AT vector_NN1 field_NN1 histogram_NN1 uses_VVZ polar_JJ coordinates_NN2 to_TO prevent_VVI the_AT vehicle_NN1 from_II assuming_VVG trajectories_NN2 that_CST will_VM approach_VVI obstacles_NN2 while_CS directing_VVG it_PPH1 to_II the_AT goal_NN1 ._. 
+</s>
+<s>
+This_DD1 method_NN1 allows_VVZ vehicles_NN2 to_TO be_VBI directed_VVN down_RP narrow_JJ corridors_NN2 or_CC between_II close_JJ obstacles_NN2 ,_, when_CS this_DD1 is_VBZ the_AT shortest_JJT path_NN1 ,_, a_AT1 path_NN1 that_CST is_VBZ usually_RR avoided_VVN with_IW traditional_JJ potential_JJ field_NN1 methods_NN2 ._. 
+</s>
+<s>
+Later_RRR ,_, Ulrich_NP1 and_CC Borenstein_NP1 introduce_VV0 VHF+_FO (_( 56_MC )_) ,_, to_TO improve_VVI reliability_NN1 and_CC smooth_VVI the_AT robot_NN1 trajectories_NN2 ,_, and_CC VHF*_FO (_( 57_MC )_) ,_, a_AT1 combination_NN1 of_IO VHF+_FO and_CC A*_FO ,_, to_TO deal_VVI with_IW traps_NN2 that_CST arise_VV0 from_II typical_JJ short_JJ term_NN1 planning_NN1 methods_NN2 ._. 
+</s>
+<s>
+The_AT ability_NN1 to_TO avoid_VVI moving_VVG obstacles_NN2 is_VBZ a_AT1 necessary_JJ for_IF robots_NN2 that_CST must_VM perform_VVI tasks_NN2 in_II environments_NN2 that_CST contain_VV0 vehicles_NN2 ,_, people_NN or_CC other_JJ non-stationary_JJ objects_NN2 ._. 
+</s>
+<s>
+Dynamic_JJ obstacle_NN1 avoidance_NN1 ,_, while_CS navigating_VVG to_II a_AT1 goal_NN1 ,_, is_VBZ a_AT1 rapidly_RR growing_JJ field_NN1 due_II21 to_II22 the_AT increasing_JJ number_NN1 of_IO situations_NN2 where_RRQ mobile_JJ robots_NN2 or_CC other_JJ autonomous_JJ systems_NN2 are_VBR present_JJ ._. 
+</s>
+<s>
+Numerous_JJ papers_NN2 and_CC a_AT1 few_DA2 books_NN2 have_VH0 been_VBN published_VVN on_II this_DD1 subject_NN1 ;_; however_RR no_AT single_JJ method_NN1 appears_VVZ to_TO be_VBI universally_RR preferred_VVN ,_, perhaps_RR due_JJ in_RR21 part_RR22 to_II the_AT wide_JJ variety_NN1 of_IO environments_NN2 and_CC applications_NN2 for_IF which_DDQ autonomous_JJ or_CC semi-autonomous_JJ robots_NN2 are_VBR being_VBG used_VVN ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT simplest_JJT forms_NN2 of_IO motion_NN1 planning_VVG in_II a_AT1 dynamic_JJ environment_NN1 involves_VVZ generating_VVG a_AT1 path_NN1 among_II any_DD static_JJ obstacles_NN2 using_VVG traditional_JJ path_NN1 planning_NN1 algorithms_NN2 (_( see_VV0 previous_JJ section_NN1 on_II static_JJ path_NN1 planning_NN1 )_) and_CC then_RT modifying_VVG the_AT robot_NN1 's_GE velocity_NN1 along_II that_DD1 path_NN1 ,_, in_II real-time_NN1 ,_, to_TO avoid_VVI dynamic_JJ obstacles_NN2 ._. 
+</s>
+<s>
+While_CS this_DD1 method_NN1 is_VBZ often_RR successful_JJ at_II reaching_VVG the_AT goal_NN1 without_IW encountering_VVG an_AT1 obstacle_NN1 ,_, it_PPH1 can_56 not_56 be_VBI guaranteed_VVN to_TO find_VVI a_AT1 time_NNT1 optimal_JJ path_NN1 and_CC in_II certain_JJ situations_NN2 proves_VVZ unable_JK to_TO avoid_VVI the_AT dynamic_JJ obstacles_NN2 ._. 
+</s>
+<s>
+It_PPH1 does_VDZ however_RR reduce_VVI the_AT computational_JJ time_NNT1 needed_VVN to_TO determine_VVI a_AT1 path_NN1 for_IF the_AT robot_NN1 as_CSA dynamic_JJ obstacles_NN2 that_CST do_VD0 not_XX intersect_VVI the_AT pre-planned_JJ path_NN1 can_VM be_VBI ignored_VVN and_CC obstacles_NN2 that_CST do_VD0 interest_NN1 the_AT path_NN1 need_VM only_RR be_VBI located_VVN a_AT1 short_JJ time_NNT1 in_II advance_NN1 and_CC considered_VVD only_RR in_II31 terms_II32 of_II33 speed_NN1 adjustment_NN1 ._. 
+</s>
+<s>
+Kant_NN1 and_CC Zucker_NP1 (_( 58_MC present_VV0 this_DD1 method_NN1 and_CC use_VV0 modified_JJ velocity_NN1 profiles_NN2 along_II an_AT1 original_JJ static_JJ path_NN1 which_DDQ was_VBDZ generated_VVN via_II a_AT1 visibility_NN1 graph_NN1 approach_NN1 ._. 
+</s>
+<s>
+Lee_NP1 and_CC Lee_NP1 (_( 59_MC )_) ,_, and_CC Fujimura_NP1 and_CC Samet_NP1 (_( 60_MC )_) also_RR use_VV0 a_AT1 combination_NN1 of_IO velocity_NN1 control_NN1 along_II a_AT1 visibility_NN1 graph_NN1 generated_VVD path_NN1 ._. 
+</s>
+<s>
+Another_DD1 method_NN1 that_CST uses_VVZ static_JJ obstacles_NN2 involves_VVZ planning_VVG a_AT1 path_NN1 ,_, using_VVG a_AT1 very_RG fast_JJ algorithm_NN1 ,_, around_II static_JJ obstacles_NN2 and_CC the_AT present_JJ location_NN1 of_IO dynamic_JJ obstacle_NN1 (_( treating_VVG them_PPHO2 as_CSA static_JJ )_) ._. 
+</s>
+<s>
+As_CSA time_NNT1 progresses_VVZ new_JJ paths_NN2 are_VBR planned_VVN to_TO take_VVI into_II account_NN1 any_DD change_NN1 in_II the_AT environment_NN1 ._. 
+</s>
+<s>
+While_CS these_DD2 paths_NN2 are_VBR not_XX always_RR optimal_JJ ,_, due_II21 to_II22 the_AT continuous_JJ re-planning_NN1 ,_, they_PPHS2 are_VBR well_RR suited_VVN for_IF environments_NN2 where_RRQ dynamic_JJ obstacles_NN2 move_VV0 infrequently_RR or_CC only_RR small_JJ distances_NN2 ,_, such_II21 as_II22 an_AT1 office_NN1 where_CS a_AT1 chair_NN1 may_VM be_VBI shifted_VVN or_CC a_AT1 draw_NN1 opened_VVD ._. 
+</s>
+<s>
+Konolige_NP1 (_( 61_MC )_) uses_VVZ a_AT1 gradient_NN1 field_NN1 to_TO locally_RR evaluate_VVI paths_NN2 and_CC determine_VV0 if_CSW they_PPHS2 are_VBR obstacle_NN1 free_JJ ._. 
+</s>
+<s>
+Oriolo_NP1 et_RA21 al_RA22 (_( 62_MC )_) generate_VV0 local_JJ paths_NN2 within_II an_AT1 explored_JJ area_NN1 and_CC terminate_VV0 robot_NN1 motion_NN1 for_IF unexpected_JJ (_( usually_RR dynamic_JJ )_) obstacles_NN2 ._. 
+</s>
+<s>
+Fujimori_NP1 et_RA21 al_RA22 (_( 63_MC )_) use_VV0 adaptive_JJ navigation_NN1 to_TO detect_VVI and_CC avoid_VVI obstacles_NN2 in_II real_JJ time_NNT1 while_CS respecting_II the_AT dynamic_JJ limitations_NN2 of_IO the_AT robot_NN1 ._. 
+</s>
+<s>
+Zhuang_VV0 et_RA21 al_RA22 (_( 64_MC )_) use_VV0 a_AT1 path_NN1 planner_NN1 with_IW a_AT1 Visibility_NN1 graph-like_JJ obstacle_NN1 avoidance_NN1 scheme_NN1 to_TO follow_VVI a_AT1 very_RG direct_JJ path_NN1 to_II a_AT1 goal_NN1 ._. 
+</s>
+<s>
+A_AT1 robot_NN1 ,_, under_II this_DD1 algorithm_NN1 ,_, follows_VVZ a_AT1 straight_JJ path_NN1 to_II a_AT1 goal_NN1 (_( without_IW any_DD static_JJ obstacle_NN1 pre-planning_NN1 )_) ._. 
+</s>
+<s>
+When_CS the_AT algorithm_NN1 detects_VVZ an_AT1 object_NN1 within_II the_AT current_JJ planning_NN1 window_NN1 the_AT algorithm_NN1 determines_VVZ if_CS it_PPH1 is_VBZ a_AT1 static_JJ or_CC dynamic_JJ obstacle_NN1 ._. 
+</s>
+<s>
+If_CS the_AT obstacle_NN1 is_VBZ static_JJ ,_, the_AT algorithm_NN1 plots_NN2 sub-goal(s)_NN2 to_TO allow_VVI the_AT robot_NN1 to_TO efficiently_RR circumnavigate_VVI the_AT obstacle_NN1 and_CC return_VV0 to_II its_APPGE original_JJ path_NN1 ._. 
+</s>
+<s>
+If_CS the_AT obstacle_NN1 is_VBZ dynamic_JJ then_RT the_AT algorithm_NN1 uses_VVZ auto-regression_NN1 to_TO predict_VVI the_AT obstacles_NN2 future_JJ position_NN1 and_CC the_AT robot_NN1 circumnavigates_VVZ that_DD1 position_NN1 ,_, updating_VVG its_APPGE path_NN1 in_II real_JJ time_NNT1 ._. 
+</s>
+<s>
+While_CS this_DD1 method_NN1 does_VDZ not_XX always_RR find_VVI a_AT1 time_NNT1 or_CC distance_NN1 optimal_JJ path_NN1 ,_, no_AT global_JJ knowledge_NN1 is_VBZ required_VVN which_DDQ drastically_RR reduces_VVZ computation_NN1 time_NNT1 ._. 
+</s>
+<s>
+The_AT short-term_JJ planning_NN1 limit_NN1 also_RR makes_VVZ the_AT path_NN1 planner_NN1 more_RGR flexible_JJ for_IF unknown_JJ and_CC poorly_RR know_VV0 obstacle_NN1 dynamics_NN ._. 
+</s>
+<s>
+However_RR ,_, modifications_NN2 would_VM have_VHI to_TO be_VBI made_VVN to_TO adapt_VVI the_AT planner_NN1 for_IF uncertainty_NN1 in_II the_AT location_NN1 of_IO immediate_JJ obstacles_NN2 ._. 
+</s>
+<s>
+Fraichard_NP1 (_( 65_MC )_) presents_VVZ a_AT1 way_NN1 to_TO plan_VVI trajectories_NN2 in_II a_AT1 dynamic_JJ workspace_NN1 which_DDQ he_PPHS1 entitles_VVZ the_AT "_" state-time_JJ space_NN1 "_" approach_NN1 ._. 
+</s>
+<s>
+If_CS the_AT current_JJ position_NN1 of_IO all_DB static_JJ and_CC dynamic_JJ obstacles_NN2 and_CC the_AT velocity_NN1 and_CC acceleration_NN1 of_IO all_DB dynamic_JJ obstacles_NN2 is_VBZ fully_RR know_VV0 before_II navigation_NN1 ,_, three_MC dimensional_JJ path_NN1 planners_NN2 can_VM plot_VVI an_AT1 obstacle_NN1 free_JJ path_NN1 through_II "_" state-time_JJ space_NN1 ,_, "_" in_II which_DDQ the_AT environment_NN1 at_II each_DD1 time_NNT1 step_NN1 is_VBZ treated_VVN as_II a_AT1 two_MC dimensional_JJ plane_NN1 with_IW time_NNT1 as_II a_AT1 third_MD dimension_NN1 ._. 
+</s>
+<s>
+Depending_II21 on_II22 the_AT path_NN1 planning_NN1 algorithm_NN1 used_VVN with_IW this_DD1 method_NN1 ,_, an_AT1 optimal_JJ path_NN1 to_II the_AT goal_NN1 (_( if_CS one_PN1 exists_VVZ )_) can_VM be_VBI guaranteed_VVN to_TO be_VBI found_VVN ._. 
+</s>
+<s>
+However_RR ,_, the_AT limitations_NN2 on_II this_DD1 method_NN1 make_VV0 it_PPH1 difficult_JJ to_TO apply_VVI to_II real-world_JJ scenarios_NN2 ._. 
+</s>
+<s>
+While_CS ,_, as_CSA previously_RR mentioned_VVN ,_, methods_NN2 exits_VVZ to_TO predict_VVI future_NN1 (_( specifically_RR )_) human_JJ movement_NN1 none_PN of_IO these_DD2 methods_NN2 has_VHZ nearly_RR the_AT certainty_NN1 of_IO performance_NN1 that_CST would_VM be_VBI needed_VVN in_BCL21 order_BCL22 to_TO use_VVI the_AT "_" state-time_JJ space_NN1 "_" approach_NN1 with_IW its_APPGE fullest_JJT advantage_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT cost_NN1 is_VBZ prohibitive_JJ to_TO completely_RR up-date_VVI the_AT path_NN1 as_CSA changes_NN2 in_II the_AT velocity_NN1 of_IO obstacles_NN2 are_VBR detected_VVN in_II the_AT three-dimensional_JJ world_NN1 ._. 
+</s>
+<s>
+Kindel_VV0 et_RA21 al_RA22 (_( 66_MC )_) apply_VV0 kinematic_JJ and_CC dynamic_JJ constraints_NN2 to_II the_AT robot_NN1 space-time_JJ planning_NN1 and_CC apply_VV0 their_APPGE results_NN2 to_II an_AT1 experimental_JJ robot_NN1 with_IW an_AT1 overhead_JJ vision_NN1 system_NN1 ._. 
+</s>
+<s>
+Yu_NP1 and_CC Su_NP1 (_( 67_MC )_) use_VV0 a_AT1 variation_NN1 of_IO "_" state-time_JJ space_NN1 "_" planning_NN1 but_CCB limit_VV0 the_AT region_NN1 of_IO planning_VVG by_II focusing_VVG on_II "_" observation_NN1 space_NN1 ,_, "_" the_AT area_NN1 that_CST the_AT robot_NN1 can_VM sense_VVI ,_, and_CC "_" work_VVI space_NN1 "_" the_AT obstacles_NN2 that_CST are_VBR close_JJ to_II the_AT robot_NN1 ._. 
+</s>
+<s>
+They_PPHS2 also_RR make_VV0 extensive_JJ use_NN1 of_IO path_NN1 repair_NN1 algorithms_NN2 to_TO deal_VVI with_IW dynamic_JJ obstacles_NN2 and_CC the_AT inability_NN1 to_TO completely_RR predict_VVI their_APPGE future_JJ movement_NN1 ._. 
+</s>
+<s>
+Wang_NP1 et_RA21 al_RA22 (_( 68_MC )_) use_VV0 genetic_JJ algorithms_NN2 to_TO generate_VVI a_AT1 path_NN1 around_II static_JJ obstacles_NN2 and_CC the_AT predicted_JJ collision_NN1 points_NN2 of_IO dynamic_JJ obstacles_NN2 based_VVN on_II a_AT1 polygon_NN1 representation_NN1 of_IO the_AT obstacles_NN2 ._. 
+</s>
+<s>
+They_PPHS2 reduce_VV0 the_AT calculation_NN1 time_NNT1 needed_VVN for_IF off-line_JJ planning_NN1 and_CC path_NN1 re-calculation_NN1 by_II considering_VVG only_RR the_AT vertices_NN2 of_IO obstacles_NN2 using_VVG vertex++_FO ._. 
+</s>
+<s>
+Xiao_NP1 et_RA21 al_RA22 (_( 69,70_MC )_) develop_VV0 and_CC revise_VV0 the_AT Evolutionary_JJ Planner/_NN1 Navigator_NN1 (_( EP/N_NP1 )_) ._. 
+</s>
+<s>
+This_DD1 planner/navigator_NN1 can_VM utilize_VVI specific_JJ environment_NN1 knowledge_NN1 to_TO enhance_VVI its_APPGE path_NN1 planning_NN1 performance_NN1 ._. 
+</s>
+<s>
+Han_NP1 et_RA21 al_RA22 (_( 71_MC )_) use_VV0 genetic_JJ search_NN1 algorithms_NN2 to_TO generate_VVI a_AT1 goal_NN1 directed_VVD dynamic_JJ path_NN1 ._. 
+</s>
+<s>
+Sugihara_NN1 and_CC Smith_NP1 (_( 72_MC )_) use_VV0 a_AT1 genetic_JJ algorithm_NN1 for_IF path_NN1 and_CC trajectory_NN1 planning_NN1 ._. 
+</s>
+<s>
+Their_APPGE method_NN1 is_VBZ suitable_JJ for_IF pre-planning_NN1 as_II31 well_II32 as_II33 real-time_JJ motion_NN1 planning_NN1 ._. 
+</s>
+<s>
+The_AT potential_JJ field_NN1 method_NN1 of_IO obstacle_NN1 avoidance_NN1 ,_, described_VVN by_II Borenstein_NP1 and_CC Koren_NP1 (_( 50_MC )_) in_II the_AT previous_JJ section_NN1 on_II static_JJ obstacle_NN1 avoidance_NN1 ,_, can_VM be_VBI adapted_VVN for_IF dynamic_JJ obstacle_NN1 avoidance_NN1 ._. 
+</s>
+<s>
+O._NP1 Khatib_NP1 (_( 49_MC )_) in_II his_APPGE initial_JJ artificial_JJ potential_JJ field_NN1 paper_NN1 ,_, surmises_VVZ that_CST a_AT1 combination_NN1 of_IO high_JJ level_NN1 (_( global_JJ )_) path_NN1 planning_VVG with_IW low_JJ level_NN1 (_( local_JJ goal_NN1 )_) planning_NN1 could_VM allow_VVI a_AT1 manipulator_NN1 to_TO avoid_VVI moving_VVG obstacles_NN2 ._. 
+</s>
+<s>
+Malik_NP1 (_( 73_MC )_) ,_, on_II the_AT other_JJ hand_NN1 ,_, develops_VVZ the_AT concept_NN1 of_IO the_AT Extrapolated_JJ Potential_JJ Field_NN1 ,_, which_DDQ predicts_VVZ an_AT1 obstacle_NN1 's_GE path_NN1 and_CC uses_VVZ a_AT1 time_NNT1 and_CC distance_NN1 weighting_NN1 scheme_NN1 to_TO generate_VVI a_AT1 path_NN1 ,_, for_IF the_AT robot_NN1 to_II the_AT goal_NN1 ,_, that_DD1 avoids_VVZ all_DB obstacles_NN2 ._. 
+</s>
+<s>
+Similar_JJ to_II the_AT static_JJ potential_JJ field_NN1 planners_NN2 ,_, this_DD1 method_NN1 is_VBZ usually_RR quite_RG fast_JJ at_II generating_VVG a_AT1 path_NN1 but_CCB will_VM often_RR miss_VVI potentially_RR shorter_JJR routes_NN2 between_II obstacles_NN2 that_CST are_VBR close_RR together_RL ._. 
+</s>
+<s>
+As_CSA Borenstein_NP1 and_CC Koren_NP1 mentioned_VVD for_IF the_AT static_JJ case_NN1 ,_, this_DD1 type_NN1 of_IO planner_NN1 is_VBZ also_RR subject_II21 to_II22 oscillation_NN1 and_CC can_VM run_VVI into_II problems_NN2 with_IW local_JJ minimum_NN1 when_CS confronted_VVN with_IW a_AT1 combination_NN1 of_IO static_JJ and_CC dynamic_JJ obstacles_NN2 ._. 
+</s>
+<s>
+The_AT Linear_JJ Programming_NN1 Navigation_NN1 gradient_NN1 method_NN1 (_( LPN_NP1 )_) was_VBDZ originally_RR developed_VVN for_IF static_JJ obstacles_NN2 by_II Konolige_NP1 (_( 61_MC )_) ,_, but_CCB Farinelli_NP1 and_CC Iocchi_NP1 (_( 74_MC )_) modify_VV0 this_DD1 method_NN1 for_IF environments_NN2 with_IW dynamic_JJ obstacles_NN2 ._. 
+</s>
+<s>
+The_AT LPN_NP1 method_NN1 uses_VVZ numerical_JJ artificial_JJ potential_JJ fields_NN2 that_CST take_VV0 both_RR intrinsic_JJ (_( situational_JJ )_) and_CC adjacency_NN1 (_( movement_NN1 )_) costs_VVZ into_II account_NN1 to_TO compute_VVI a_AT1 gradient_NN1 using_VVG a_AT1 generalization_NN1 of_IO the_AT wavefront_NN1 algorithm_NN1 ._. 
+</s>
+<s>
+The_AT dynamic_JJ variation_NN1 (_( LPN-DE_NP1 )_) computes_VVZ the_AT projected_JJ motion_NN1 of_IO the_AT obstacle_NN1 and_CC increases_VVZ the_AT weight_NN1 of_IO the_AT region_NN1 where_CS the_AT obstacle_NN1 is_VBZ predicted_VVN to_TO travel_VVI to_TO account_VVI for_IF future_JJ movement_NN1 ._. 
+</s>
+<s>
+Fiorini_NN2 and_CC Shiller&lsqb;75&rsqb;_FO develop_VV0 and_CC Fiorini_NP1 and_CC Shiller_NP1 (_( 76_MC )_) and_CC Shiller_NP1 et_RA21 al_RA22 (_( 77_MC )_) expand_VV0 upon_II the_AT notion_NN1 of_IO the_AT velocity_NN1 obstacle_NN1 ._. 
+</s>
+<s>
+Velocity_NN1 obstacles_NN2 are_VBR a_AT1 first-order_JJ method_NN1 of_IO motion_NN1 planning_VVG that_DD1 use_NN1 robot_NN1 and_CC obstacle_NN1 velocities_NN2 directly_RR to_TO avoid_VVI collisions_NN2 in_II time-varying_JJ environments_NN2 ._. 
+</s>
+<s>
+This_DD1 method_NN1 computes_VVZ a_AT1 collision_NN1 cone_NN1 of_IO robot_NN1 velocities_NN2 that_CST will_VM lead_VVI to_II probable_JJ collisions_NN2 with_IW an_AT1 obstacle_NN1 ,_, based_VVN on_II the_AT obstacle_NN1 's_GE current_JJ (_( and_CC in_II later_JJR works_NN )_) projected_JJ velocity_NN1 ._. 
+</s>
+<s>
+The_AT velocity_NN1 obstacle_NN1 method_NN1 takes_VVZ the_AT dynamic_JJ constraints_NN2 of_IO the_AT robot_NN1 into_II consideration_NN1 to_II narrow_JJ down_II the_AT field_NN1 of_IO potential_JJ robot_NN1 velocities_NN2 ._. 
+</s>
+<s>
+In_II later_JJR papers_NN2 ,_, Large_JJ et_RA21 al_RA22 (_( 78_MC )_) adapt_VV0 the_AT velocity_NN1 obstacle_NN1 concept_NN1 to_TO account_VVI for_IF risk_NN1 and_CC long_JJ obstacles_NN2 (_( such_II21 as_II22 hallway_NN1 walls_NN2 )_) ._. 
+</s>
+<s>
+Yamamoto_NP1 et_RA21 al_RA22 (_( 79_MC )_) apply_VV0 the_AT velocity_NN1 obstacle_NN1 concept_NN1 to_II situations_NN2 more_RGR likely_JJ to_TO be_VBI encountered_VVN in_II the_AT real_JJ world_NN1 including_II obstacles_NN2 that_CST change_VV0 velocity_NN1 during_II sensor_NN1 cycles_NN2 and_CC they_PPHS2 also_RR introduce_VV0 the_AT idea_NN1 of_IO a_AT1 collision_NN1 distance_NN1 index_NN1 to_TO prioritize_VVI the_AT avoidance_NN1 of_IO obstacles_NN2 that_CST are_VBR closer_RRR (_( and_CC thus_RR pose_VV0 a_AT1 more_RGR imminent_JJ threat_NN1 )_) to_II the_AT robot_NN1 ._. 
+</s>
+<s>
+The_AT dynamic_JJ window_NN1 approach_NN1 ,_, which_DDQ can_VM also_RR been_VBN used_VVN as_II a_AT1 simplifying_JJ adaptation_NN1 on_II other_JJ algorithms_NN2 ,_, reduces_VVZ the_AT complexity_NN1 of_IO path_NN1 planning_VVG by_II only_RR considering_VVG velocities_NN2 that_CST the_AT robot_NN1 can_VM reach_VVI safely_RR with_IW in_II a_AT1 short_JJ time_NNT1 interval_NN1 ._. 
+</s>
+<s>
+Using_VVG this_DD1 method_NN1 ,_, all_DB of_IO the_AT safe_JJ and_CC reachable_JJ velocities_NN2 of_IO the_AT robot_NN1 make_VV0 up_RP the_AT dynamic_JJ window_NN1 ,_, which_DDQ is_VBZ represented_VVN in_II velocity_NN1 space_NN1 ._. 
+</s>
+<s>
+On_II its_APPGE own_DA ,_, the_AT Dynamic_JJ Window_NN1 Method_NN1 is_VBZ best_RRT suited_VVN for_IF static_JJ environments_NN2 or_CC environments_NN2 that_CST have_VH0 few_DA2 ,_, slowly_RR moving_VVG dynamic_JJ obstacles_NN2 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 can_VM be_VBI a_AT1 very_RG powerful_JJ tool_NN1 when_CS combined_VVN with_IW other_JJ algorithms_NN2 ._. 
+</s>
+<s>
+Fox_NP1 et_RA21 al_RA22 (_( 80_MC )_) use_VV0 the_AT dynamic_JJ window_NN1 approach_NN1 to_TO account_VVI for_IF the_AT robot_NN1 's_GE dynamic_JJ constraints_NN2 and_CC applied_VVD the_AT algorithm_NN1 to_II their_APPGE robot_NN1 RHINO_NN ._. 
+</s>
+<s>
+Brock_NP1 and_CC O._NP1 Khatib_NP1 (_( 81_MC )_) propose_VV0 the_AT global_JJ dynamic_JJ window_NN1 approach_NN1 to_TO combine_VVI path_NN1 planning_VVG with_IW real-time_JJ obstacle_NN1 avoidance_NN1 in_II order_NN1 safely_RR navigate_VV0 in_II a_AT1 dynamic_JJ environment_NN1 while_CS approaching_VVG a_AT1 goal_NN1 ._. 
+</s>

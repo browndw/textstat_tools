@@ -1,0 +1,198 @@
+<s>
+A_AT1 viable_JJ system_NN1 for_IF the_AT implementation_NN1 of_IO a_AT1 quantum_NN1 computer_NN1 is_VBZ being_VBG actively_RR persued_VVN by_II a_AT1 number_NN1 of_IO research_NN1 groups_NN2 in_II varying_JJ shapes_NN2 and_CC forms_NN2 ._. 
+</s>
+<s>
+Trapped_JJ ions_NN2 have_VH0 proven_VVN to_TO be_VBI one_MC1 of_IO the_AT most_RGT promising_JJ of_IO these_DD2 systems_NN2 ,_, having_VHG already_RR demonstrated_VVN many_DA2 of_IO the_AT fundamental_JJ aspects_NN2 necessary_JJ for_IF a_AT1 quantum_NN1 information_NN1 processor_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Advances_NN2 in_II this_DD1 area_NN1 include_VV0 the_AT demonstration_NN1 of_IO two_MC quantum_NN1 bit_NN1 (_( qubit_NN1 )_) gates_NN2 ,_, and_CC multiqubit_VV0 entangled_JJ states_NN2 (_( 2,3,4_MC )_) ._. 
+</s>
+<s>
+These_DD2 essential_JJ components_NN2 have_VH0 been_VBN accomplished_VVN by_II coupling_VVG the_AT internal_JJ states_NN2 of_IO the_AT ions_NN2 via_II the_AT mutual_JJ Coulomb-coupled_JJ motion_NN1 of_IO ion_NN1 crystal_NN1 in_II the_AT harmonic_JJ potential_NN1 of_IO the_AT trap_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+The_AT basic_JJ quantum_NN1 computation_NN1 scheme_NN1 envisioned_VVD here_RL requires_VVZ the_AT ability_NN1 to_TO separate_VVI and_CC shuttle_NN1 pairs_NN2 (_( or_CC more_RRR )_) ions_NN2 in_II some_DD complex_JJ trap_NN1 array_NN1 ,_, while_CS keeping_VVG the_AT motional_JJ state_NN1 of_IO the_AT ions_NN2 at_II the_AT lowest_JJT possible_JJ levels_NN2 ._. 
+</s>
+<s>
+Recent_JJ results_NN2 (_( 6,7_MC )_) indicate_VV0 that_CST arbitrary_JJ shuttling_JJ protocols_NN2 may_VM be_VBI a_AT1 challenge_NN1 to_TO realize_VVI ._. 
+</s>
+<s>
+Moreover_RR ,_, anomalous_JJ heating_NN1 of_IO the_AT motional_JJ state_NN1 of_IO the_AT ions_NN2 continues_VVZ to_TO plague_VVI these_DD2 traps_NN2 and_CC is_VBZ a_AT1 constant_JJ source_NN1 of_IO decoherence_NN1 (_( 8_MC )_) ._. 
+</s>
+<s>
+As_CS21 though_CS22 making_VVG a_AT1 direct_JJ rebuttal_NN1 to_II these_DD2 limitations_NN2 ,_, a_AT1 remarkable_JJ scheme_NN1 for_IF achieving_VVG two-qubit_JJ gate_NN1 operations_NN2 with_IW trapped_JJ ions_NN2 was_VBDZ put_VVN forward_RL by_II Garcia-Ripoll_NP1 ,_, Zoller_NP1 ,_, and_CC Cirac_NP1 (_( 9_MC )_) ._. 
+</s>
+<s>
+This_DD1 new_JJ method_NN1 proposes_VVZ to_TO use_VVI ultrafast_NN1 laser_NN1 pulses_NN2 and_CC the_AT mechanical_JJ effects_NN2 these_DD2 can_VM have_VHI on_II an_AT1 ion_NN1 to_TO couple_VVI the_AT motion_NN1 and_CC internal_JJ states_NN2 ,_, in_II31 place_II32 of_II33 the_AT resolved_JJ sideband_NN1 technique_NN1 commonly_RR employed_VVN ._. 
+</s>
+<s>
+The_AT distinguishing_JJ characteristics_NN2 of_IO this_DD1 scheme_NN1 are_VBR :_: (_( 1_MC1 )_) gate_NN1 speeds_VVZ orders_NN2 of_IO magnitude_NN1 faster_RRR than_CSN the_AT trap_NN1 period_NN1 ;_; and_CC (_( 2_MC )_) insensitivity_NN1 to_II the_AT temperature_NN1 of_IO the_AT ion_NN1 ._. 
+</s>
+<s>
+The_AT scheme_NN1 was_VBDZ further_RRR expanded_VVN by_II Duan_NP1 (_( 10_MC )_) ,_, where_CS it_PPH1 was_VBDZ shown_VVN that_CST the_AT gate_NN1 explained_VVD above_RL could_VM be_VBI utilized_VVN in_II the_AT construction_NN1 of_IO a_AT1 scalable_JJ architecture_NN1 that_CST avoids_VVZ the_AT need_NN1 to_II shuttle_NN1 and_CC separate_JJ ions_NN2 ._. 
+</s>
+<s>
+In_II doing_VDG so_RR ,_, Duan_NP1 was_VBDZ able_JK to_TO remove_VVI what_DDQ many_DA2 view_NN1 as_II the_AT ultimate_JJ limiting_JJ factor_NN1 on_II the_AT total_JJ computation_NN1 time_NNT1 that_CST would_VM be_VBI required_VVN ._. 
+</s>
+<s>
+In_II the_AT rest_NN1 of_IO this_DD1 paper_NN1 ,_, we_PPIS2 seek_VV0 to_TO understand_VVI the_AT theory_NN1 that_CST has_VHZ led_VVN to_II this_DD1 incredible_JJ proposal_NN1 in_II quantum_NN1 computation_NN1 and_CC touch_VV0 on_II the_AT experimental_JJ progress_NN1 in_II its_APPGE implementation_NN1 ._. 
+</s>
+<s>
+We_PPIS2 begin_VV0 with_IW the_AT discussion_NN1 of_IO the_AT interaction_NN1 of_IO a_AT1 single_JJ ion_NN1 with_IW a_AT1 strong_JJ laser_NN1 pulse_NN1 ._. 
+</s>
+<s>
+In_II doing_VDG so_RR ,_, we_PPIS2 are_VBR able_JK to_TO disseminate_VVI the_AT general_JJ mathematical_JJ formulation_NN1 in_II a_AT1 simple_JJ context_NN1 ._. 
+</s>
+<s>
+The_AT concepts_NN2 expressed_VVN here_RL will_VM serve_VVI as_II the_AT foundation_NN1 for_IF our_APPGE discussion_NN1 of_IO the_AT full_JJ two_MC qubit_VV0 fast_JJ gate_NN1 ._. 
+</s>
+<s>
+Let_VV0 us_PPIO2 consider_VVI a_AT1 single_JJ ion_NN1 trapped_VVN in_II a_AT1 harmonic_JJ potential_NN1 ._. 
+</s>
+<s>
+For_IF the_AT sake_NN1 of_IO simplicity_NN1 ,_, we_PPIS2 consider_VV0 only_RR the_AT one_MC1 dimensional_JJ case_NN1 ,_, and_CC leave_VV0 the_AT higher_JJR order_NN1 extrapolation_NN1 as_II an_AT1 exercise_NN1 to_II the_AT reader_NN1 (_( besides_RR ,_, this_DD1 allows_VVZ the_AT writer_NN1 to_TO ignore_VVI a_AT1 bunch_NN1 of_IO subscripts_NN2 ,_, as_CSA everything_PN1 is_VBZ along_II the_AT z-axis_NN1 )_) ._. 
+</s>
+<s>
+The_AT Hamiltonian_JJ describing_VVG this_DD1 situation_NN1 is_VBZ then_RT given_VVN by_II where_RRQ the_AT first_MD term_NN1 simply_RR describes_VVZ the_AT motion_NN1 of_IO the_AT ion_NN1 in_II the_AT harmonic_JJ potential_NN1 ,_, and_CC the_AT second_MD term_NN1 accounts_VVZ for_IF the_AT interaction_NN1 between_II the_AT atom_NN1 and_CC the_AT light_JJ field_NN1 ._. 
+</s>
+<s>
+Assuming_VVG a_AT1 two_MC level_JJ system_NN1 ,_, a_AT1 single-mode_JJ laser_NN1 on_II resonance_NN1 ,_, and_CC using_VVG the_AT rotating_JJ wave_NN1 approximation_NN1 ,_, we_PPIS2 can_VM rewrite_VVI the_AT interaction_NN1 portion_NN1 of_IO the_AT Hamiltonian_JJ (_( in_II a_AT1 frame_NN1 that_CST rotates_VVZ at_II the_AT frequency_NN1 of_IO the_AT applied_JJ light_JJ field_NN1 )_) as_CSA where_CS we_PPIS2 have_VH0 defined_VVN the_AT Rabi_NP1 frequency_NN1 which_DDQ simply_RR illustrates_VVZ that_CST the_AT applied_JJ laser_NN1 field_NN1 couples_NN2 the_AT two_MC states_NN2 in_II the_AT atom_NN1 (_( this_DD1 is_VBZ why_RRQ the_AT only_JJ nonzero_NN1 terms_NN2 are_VBR the_AT off-diagonal_JJ elements_NN2 )_) ._. 
+</s>
+<s>
+We_PPIS2 would_VM now_RT like_VVI to_TO explore_VVI the_AT effect_NN1 of_IO a_AT1 laser_NN1 pulse_NN1 on_II a_AT1 given_JJ initial_JJ state_NN1 ._. 
+</s>
+<s>
+Here_RL on_II out_RP ,_, the_AT ground_NN1 state_NN1 will_VM be_VBI associated_VVN with_IW the_AT label_NN1 0i_FO ,_, while_CS the_AT excited_JJ state_NN1 will_VM be_VBI 1i_FO ._. 
+</s>
+<s>
+The_AT evolution_NN1 of_IO a_AT1 state_NN1 is_VBZ ,_, of_RR21 course_RR22 ,_, dictated_VVN by_II the_AT interaction_NN1 Hamiltonian_JJ (_( Eq_NN1 ._. 
+</s>
+<s>
+2_MC )_) ._. 
+</s>
+<s>
+As_CSA is_VBZ shown_VVN in_II Poyatos_NP1 ,_, et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+(_( 11_MC )_) ,_, the_AT evolution_NN1 can_VM be_VBI most_RGT easily_RR described_VVN if_CS we_PPIS2 first_MD perform_VV0 the_AT unitary_JJ operation_NN1 Using_VVG this_DD1 operator_NN1 ,_, the_AT Hamiltonian_JJ becomes_VVZ To_TO simplify_VVI this_DD1 expression_NN1 further_RRR ,_, we_PPIS2 will_VM need_VVI to_TO use_VVI the_AT operator_NN1 identity_NN1 a_AT1 consequence_NN1 of_IO the_AT Baker-Hausdorff_NP1 lemma_NN1 (_( see_VV0 ,_, for_REX21 instance_REX22 ,_, page_NN1 80_MC of_IO Meystre_NP1 )_) ._. 
+</s>
+<s>
+We_PPIS2 then_RT observe_VV0 that_DD1 and_CC Thus_RR ,_, as_CSA we_PPIS2 plug_VV0 in_II numbers_NN2 for_IF the_AT series_NN given_VVN by_II Eq_NN1 ._. 
+</s>
+<s>
+6_MC ,_, we_PPIS2 find_VV0 Following_VVG a_AT1 similar_JJ construction_NN1 for_IF the_AT Given_JJ this_DD1 remarkably_RR simple_JJ expression_NN1 for_IF the_AT Hamiltonian_JJ ,_, the_AT evolution_NN1 of_IO any_DD initial_JJ state_NN1 is_VBZ easily_RR derived_VVN ,_, obtaining_VVG where_CS in_II the_AT last_MD line_NN1 ,_, for_IF simplicity_NN1 ,_, we_PPIS2 have_VH0 made_VVN the_AT assumption_NN1 that_CST the_AT Rabi_NP1 frequency_NN1 is_VBZ time_NNT1 independent_JJ (_( this_DD1 would_VM correspond_VVI to_II a_AT1 square-wave_JJ laser_NN1 pulse_NN1 )_) ._. 
+</s>
+<s>
+Let_VM21 's_VM22 look_VVI at_II the_AT evolution_NN1 of_IO a_AT1 particular_JJ state_NN1 ._. 
+</s>
+<s>
+The_AT initial_JJ state_NN1 is_VBZ given_VVN as_II the_AT product_NN1 state_NN1 Thus_RR ,_, using_VVG Eq_NN1 ._. 
+</s>
+<s>
+8_MC ,_, after_II experiencing_VVG a_AT1 laser_NN1 pulse_NN1 of_IO length_NN1 The_AT last_MD line_NN1 of_IO the_AT above_JJ equation_NN1 is_VBZ the_AT result_NN1 we_PPIS2 have_VH0 sought_VVN !_! 
+</s>
+<s>
+For_IF any_DD pulse_NN1 length_NN1 Since_CS we_PPIS2 have_VH0 already_RR reviewed_VVN some_DD of_IO the_AT more_RGR technical_JJ (_( i.e._REX mathematical_JJ )_) details_NN2 of_IO ion-laser-pulse_JJ interaction_NN1 ,_, in_II this_DD1 section_NN1 we_PPIS2 will_VM not_XX attempt_VVI to_TO repeat_VVI the_AT complex_JJ mathematics_NN1 ._. 
+</s>
+<s>
+Instead_RR ,_, making_VVG use_NN1 of_IO the_AT previous_JJ section_NN1 as_CSA our_APPGE mathematical_JJ foundation_NN1 ,_, we_PPIS2 seek_VV0 a_AT1 qualitative_JJ understanding_NN1 of_IO the_AT two_MC qubit_NN1 gate_NN1 proposed_VVN by_II Garcia-Ripoll_NP1 ,_, Zoller_NP1 ,_, and_CC Cirac_NP1 (_( 9_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 now_RT consider_VV0 two_MC ions_NN2 in_II a_AT1 one-dimensional_JJ harmonic_JJ potential_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO justify_VVI our_APPGE claim_NN1 of_IO a_AT1 derivation_NN1 analogous_JJ to_II the_AT single_JJ ion_NN1 situation_NN1 ,_, we_PPIS2 note_VV0 that_CST the_AT Hamilitonian_NN1 describing_VVG the_AT dynamics_NN of_IO the_AT ions_NN2 in_II the_AT trap_NN1 with_IW a_AT1 laser_NN1 on_II resonance_NN1 is_VBZ given_VVN by_II (_( 9_MC ,_, Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 )_) :_: where_CS here_RL Let_VM21 's_VM22 compare_VVI Eq_NN1 ._. 
+</s>
+<s>
+9_MC to_II Eqs._NP1 1_MC1 and_CC 2_MC ._. 
+</s>
+<s>
+In_II both_DB2 the_AT single_JJ and_CC dual_JJ ion_NN1 scenarios_NN2 ,_, we_PPIS2 see_VV0 the_AT unperturbed_JJ Hamiltonian_JJ (_( The_AT crucial_JJ point_NN1 in_II this_DD1 scheme_NN1 is_VBZ illustrated_VVN in_II Fig._NN1 1_MC1 (_( copied_VVN from_II Fig._NN1 1_MC1 in_II (_( 9_MC )_) )_) ,_, which_DDQ shows_VVZ the_AT trajectory_NN1 of_IO the_AT center-of-mass_JJ state_NN1 during_II the_AT sequence_NN1 of_IO four_MC laser_NN1 pulses_NN2 ._. 
+</s>
+<s>
+Basically_RR ,_, each_DD1 laser_NN1 pulse_NN1 gives_VVZ the_AT ion_NN1 a_AT1 momentum_NN1 kick_NN1 (_( vertical_JJ lines_NN2 in_II the_AT figure_NN1 )_) ._. 
+</s>
+<s>
+If_CS the_AT timing_NN1 of_IO the_AT pulses_NN2 is_VBZ chosen_VVN appropriately_RR ,_, at_II the_AT end_NN1 of_IO the_AT sequence_NN1 ,_, the_AT ion_NN1 will_VM be_VBI returned_VVN to_II a_AT1 point_NN1 in_II phase_NN1 space_NN1 corresponding_VVG to_TO free_VVI harmonic_JJ oscillator_NN1 evolution_NN1 ;_; in_II other_JJ words_NN2 ,_, the_AT motional_JJ state_NN1 will_VM be_VBI the_AT same_DA as_CSA if_CS only_RR free_JJ evolution_NN1 had_VHD occurred_VVN ._. 
+</s>
+<s>
+However_RR ,_, during_II the_AT pulse_NN1 sequence_NN1 a_AT1 global_JJ phase_NN1 factor_NN1 appears_VVZ ,_, which_DDQ is_VBZ independent_JJ of_IO the_AT motional_JJ state_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, this_DD1 series_NN of_IO pulses_NN2 represents_VVZ a_AT1 controlled-phase_JJ gate_NN1 ,_, which_DDQ ,_, combined_VVN with_IW single_JJ qubit_NN1 rotations_NN2 ,_, represents_VVZ a_AT1 universal_JJ gate_NN1 scheme_NN1 (_( 12_MC )_) ._. 
+</s>
+<s>
+Another_DD1 incredible_JJ result_NN1 that_CST falls_VVZ out_II21 of_II22 the_AT derivation_NN1 of_IO the_AT gate_NN1 ,_, is_VBZ that_DD1 it_PPH1 can_VM be_VBI shown_VVN that_CST for_IF any_DD given_JJ value_NN1 of_IO the_AT total_JJ gate_NN1 time_NNT1 T_ZZ1 ,_, there_EX exists_VVZ a_AT1 sequence_NN1 of_IO laser_NN1 pulses_NN2 that_CST implements_VVZ the_AT gate_NN1 ._. 
+</s>
+<s>
+In_II principle_NN1 ,_, then_RT ,_, this_DD1 gate_NN1 can_VM be_VBI arbitrarily_RR fast_JJ !_! 
+</s>
+<s>
+Conventional_JJ gate_NN1 schemes_NN2 depend_VV0 on_II the_AT ability_NN1 to_TO resolve_VVI the_AT motional_JJ sidebands_NN2 of_IO the_AT ions_NN2 ,_, which_DDQ inherently_RR limits_VVZ your_APPGE gate_NN1 speed_NN1 to_II being_VBG less_RRR than_CSN the_AT trap_NN1 frequency_NN1 (_( typically_RR a_AT1 few_DA2 MHz_NNU )_) ._. 
+</s>
+<s>
+For_IF the_AT four_MC pulse_NN1 protocal_NN1 illustrated_VVN in_II Fig._NN1 1_MC1 ,_, was_VBDZ calculated_VVN for_IF a_AT1 (_( not_XX optimized_VVN )_) fixed_JJ gate_NN1 time_NNT1 of_IO The_AT gate_NN1 scheme_NN1 depicted_VVD here_RL has_VHZ advanced_VVN the_AT prospects_NN2 for_IF a_AT1 quantum_NN1 information_NN1 processor_NN1 based_VVN on_II trapped_JJ ions_NN2 ._. 
+</s>
+<s>
+It_PPH1 allows_VVZ one_PN1 to_TO avoid_VVI the_AT issues_NN2 associated_VVN with_IW cooling_VVG the_AT motion_NN1 of_IO the_AT ions_NN2 ,_, as_CSA the_AT protocal_NN1 is_VBZ independent_JJ of_IO the_AT motion_NN1 state_NN1 of_IO the_AT ions_NN2 ._. 
+</s>
+<s>
+Moreover_RR ,_, allows_VVZ for_IF arbitrarily_RR fast_JJ gates_NN2 ,_, overcoming_VVG what_DDQ was_VBDZ thought_VVN to_TO be_VBI a_AT1 fundamental_JJ limitation_NN1 on_II a_AT1 trap_NN1 frequency_NN1 ._. 
+</s>
+<s>
+Combined_VVN with_IW the_AT technique_NN1 of_IO put_VV0 forth_RR by_II Duan_NP1 (_( 10_MC )_) that_CST bypasses_VVZ the_AT need_NN1 for_IF shuttling_VVG ,_, we_PPIS2 have_VH0 an_AT1 incredible_JJ new_JJ scheme_NN1 for_IF scalable_JJ quantum_NN1 computation_NN1 ._. 
+</s>
+<s>
+While_CS the_AT theoretical_JJ work_NN1 outlined_VVN in_II the_AT previous_JJ sections_NN2 has_VHZ been_VBN impressive_JJ ,_, to_TO say_VVI the_AT least_RRT ,_, the_AT question_NN1 of_IO experimental_JJ implementation_NN1 remains_VVZ ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI directly_RR inferred_VVN from_II the_AT publication_NN1 dates_NN2 of_IO the_AT theory_NN1 work_VV0 we_PPIS2 have_VH0 thus_RR far_RR reviewed_VVN ,_, this_DD1 quantum_NN1 computation_NN1 scheme_NN1 is_VBZ still_RR very_RG new_JJ ._. 
+</s>
+<s>
+That_DD1 being_VBG the_AT case_NN1 ,_, it_PPH1 is_VBZ perhaps_RR not_XX so_RG surprising_JJ that_CST the_AT experimental_JJ work_NN1 to_II date_NN1 is_VBZ somewhat_RR scarce_JJ ._. 
+</s>
+<s>
+While_CS the_AT theoretical_JJ work_NN1 outlined_VVN in_II the_AT previous_JJ sections_NN2 has_VHZ been_VBN impressive_JJ ,_, to_TO say_VVI the_AT least_RRT ,_, the_AT question_NN1 of_IO experimental_JJ implementation_NN1 remains_VVZ ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI directly_RR inferred_VVN from_II the_AT publication_NN1 dates_NN2 of_IO the_AT theory_NN1 work_VV0 we_PPIS2 have_VH0 thus_RR far_RR reviewed_VVN ,_, this_DD1 quantum_NN1 computation_NN1 scheme_NN1 is_VBZ still_RR very_RG new_JJ ._. 
+</s>
+<s>
+That_DD1 being_VBG the_AT case_NN1 ,_, it_PPH1 is_VBZ perhaps_RR not_XX so_RG surprising_JJ that_CST the_AT experimental_JJ work_NN1 to_II date_NN1 is_VBZ somewhat_RR scarce_JJ ._. 
+</s>
+<s>
+Nevertheless_RR ,_, in_II a_AT1 recent_JJ article_NN1 on_II arXiv_NN1 ,_, Madsen_NP1 ,_, et_NP1 ._. 
+</s>
+<s>
+al_NP1 ._. 
+</s>
+<s>
+(_( 13_MC )_) announced_VVD that_CST they_PPHS2 have_VH0 used_VVN ultrafast_VV0 optical_JJ pulses_NN2 to_TO drive_VVI picosecond_NN1 Rabi_NP1 oscillations_NN2 in_II a_AT1 single_JJ trapped_JJ ion_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, two_MC counter-propagating_JJ laser_NN1 pulses_NN2 were_VBDR utilized_VVN to_TO first_MD excite_VVI ,_, then_RT coherently_RR deexcite_NN1 the_AT atom_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, the_AT pulse_NN1 pair_NN imparts_VVZ a_AT1 2k_FO momentum_NN1 kick_NN1 to_II the_AT ion_NN1 ._. 
+</s>
+<s>
+Clearly_RR ,_, this_DD1 is_VBZ the_AT first_MD step_NN1 towards_II realizing_VVG the_AT fast_JJ quantum_NN1 gate_NN1 scheme_NN1 detailed_VVD above_RL ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 completed_VVN a_AT1 detailed_JJ study_NN1 of_IO the_AT interaction_NN1 of_IO a_AT1 single_JJ trapped_JJ ion_NN1 with_IW laser_NN1 pulses_NN2 ._. 
+</s>
+<s>
+By_II analogy_NN1 ,_, we_PPIS2 were_VBDR then_RT able_JK to_TO put_VVI into_II context_NN1 the_AT fast_JJ gate_NN1 scheme_NN1 proposed_VVN by_II Garcia-Ripoll_NP1 ,_, Zoller_NP1 ,_, and_CC Cirac_NP1 ._. 
+</s>
+<s>
+The_AT remarkable_JJ results_NN2 of_IO this_DD1 scheme_NN1 were_VBDR presented_VVN ,_, as_II31 well_II32 as_II33 a_AT1 short_JJ look_NN1 at_II the_AT experimental_JJ progress_NN1 in_II realizing_VVG these_DD2 fast_JJ gates_NN2 ._. 
+</s>
+<s>
+Overall_RR ,_, we_PPIS2 have_VH0 been_VBN achieved_VVN a_AT1 greater_JJR understanding_NN1 of_IO the_AT promises_NN2 of_IO theory_NN1 ,_, and_CC an_AT1 appreciation_NN1 for_IF the_AT experimental_JJ work_NN1 still_RR ahead_RL ._. 
+</s>

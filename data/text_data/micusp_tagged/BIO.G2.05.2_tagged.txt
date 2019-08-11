@@ -1,0 +1,102 @@
+<s>
+In_II a_AT1 short_JJ word_NN1 ,_, TargetP_NP1 1.1_MC predicts_VVZ HWP1_FO will_VM go_VVI through_II the_AT secretory_JJ pathway_NN1 ,_, and_CC it_PPH1 contains_VVZ a_AT1 secretory_JJ pathway_NN1 signal_NN1 peptide_NN1 (_( SP_NN1 )_) ._. 
+</s>
+<s>
+Final_JJ Results_NN2 :_: 48.0_MC %_NNU :_: extracellular_JJ ,_, including_II cell_NN1 wall_NN1 12.0_MC %_NNU :_: cytoplasmic_JJ 12.0_MC %_NNU :_: nuclear_JJ 12.0_MC %_NNU :_: endoplasmic_JJ reticulum_NN1 8.0_MC %_NNU :_: vesicles_NN2 of_IO secretory_JJ system_NN1 4.0_MC %_NNU :_: plasma_NN1 membrane_NN1 4.0_MC %_NNU :_: mitochondrial_JJ prediction_NN1 for_IF queryProtein_NN1 is_VBZ exc_NN1 WOLFPSORT_NN1 is_VBZ an_AT1 updated_JJ version_NN1 of_IO PSORTII_NN2 ._. 
+</s>
+<s>
+Comparing_VVG the_AT results_NN2 from_II two_MC programs_NN2 ,_, we_PPIS2 can_VM see_VVI that_CST they_PPHS2 gave_VVD same/similar_FU results_NN2 in_II most_DAT aspects_NN2 ._. 
+</s>
+<s>
+Both_DB2 programs_NN2 said_VVD that_CST HWP1_FO does_VDZ n't_XX seem_VVI to_TO have_VHI an_AT1 N-terminal_JJ signal_NN1 peptide_NN1 ._. 
+</s>
+<s>
+HWP1_FO looks_VVZ more_RRR like_II a_AT1 peripheral_JJ protein_NN1 rather_II21 than_II22 an_AT1 integral_JJ one_PN1 ,_, with_IW single_JJ trans-membrane_JJ sequence_NN1 near_II its_APPGE C-terminus_NN1 and_CC its_APPGE N-terminus_NN1 facing_VVG inside_II the_AT cell_NN1 ._. 
+</s>
+<s>
+Nonetheless_RR ,_, those_DD2 two_MC programs_NN2 gave_VVD controversial_JJ results_NN2 of_IO HWP1_FO localization_NN1 ._. 
+</s>
+<s>
+PSORTII_NP1 suggests_VVZ that_CST HWP1_FO localizes_VVZ to_II nucleus_NN1 ,_, while_CS WOLFPSORT_NP1 predicts_VVZ HWP1_FO localizes_VVZ to_II extracellular_JJ space_NN1 or_CC cell_NN1 wall_NN1 ._. 
+</s>
+<s>
+Given_VVN adhesion_NN1 function_NN1 of_IO HWP1_FO ,_, the_AT result_NN1 of_IO WOLFPSORT_NP1 makes_VVZ more_DAR sense_NN1 ._. 
+</s>
+<s>
+And_CC it_PPH1 is_VBZ consistent_JJ with_IW the_AT result_NN1 of_IO TargetP_NP1 (_( Because_CS WOLFPSORT_NP1 has_VHZ been_VBN updated_VVN ?_? )_) 
+</s>
+<s>
+However_RR ,_, we_PPIS2 can_VM not_XX rule_VVI out_RP the_AT possibility_NN1 that_CST HWP1_FO may_VM localize_VVI to_II nucleus_NN1 ._. 
+</s>
+<s>
+5_MC ._. 
+</s>
+<s>
+HWP1_FO were_VBDR overall_RR predicted_VVN to_TO be_VBI a_AT1 peripheral_JJ membrane_NN1 protein_NN1 by_II all_DB the_AT programs_NN2 ._. 
+</s>
+<s>
+I_PPIS1 further_RRR used_JJ iPSORT_NN1 to_TO do_VDI an_AT1 AAindex_NN1 Analysis_NN1 ,_, and_CC got_VVD Based_VVN on_II this_DD1 Hydropathy_NN1 Index_NN1 of_IO HWP1_FO ,_, I_PPIS1 would_VM predict_VVI a_AT1 trans-membrane_JJ sequence_NN1 at_II its_APPGE N-terminus_NN1 ._. 
+</s>
+<s>
+(_( If_CS I_PPIS1 have_VH0 understood_VVN the_AT hydropathy_NN1 index_NN1 correctly_RR )_) I_PPIS1 do_VD0 n't_XX know_VVI why_RRQ both_RR PSORTII_JJ and_CC WOLFPSORT_NP1 predict_VV0 a_AT1 trans-membrane_JJ sequence_NN1 at_II the_AT C-terminus_NN1 of_IO HWP1._FO 6_MC ._. 
+</s>
+<s>
+Although_CS either_RR PSORTII_JJ or_CC WOLFPSORT_NP1 did_VDD not_XX find_VVI any_DD N-terminal_JJ signal_NN1 peptide_NN1 ,_, iPSORT_NN1 does_VDZ find_VVI a_AT1 signal_NN1 peptide_NN1 in_II the_AT N-terminus_NN1 of_IO HWP1_FO ._. 
+</s>
+<s>
+This_DD1 is_VBZ consistent_JJ with_IW and_CC further_RRR consolidates_VVZ the_AT result_NN1 of_IO TargetP_NP1 ,_, which_DDQ says_VVZ HWP1_FO has_VHZ a_AT1 signal_NN1 sequence_NN1 and_CC is_VBZ likely_RR a_AT1 secretory_JJ protein_NN1 ._. 
+</s>
+<s>
+7_MC ._. 
+</s>
+<s>
+Base_NN1 on_II the_AT results_NN2 of_IO prediction_NN1 programs_NN2 ,_, as_II31 well_II32 as_II33 previous_JJ data_NN in_II literature_NN1 ._. 
+</s>
+<s>
+I_PPIS1 would_VM propose_VVI that_CST HWP1_FO has_VHZ a_AT1 low_JJ expression_NN1 level_NN1 in_II the_AT yeast-form_JJ cells_NN2 of_IO Candida_NP1 ._. 
+</s>
+<s>
+The_AT expression_NN1 of_IO HWP1_FO will_VM be_VBI induced_VVN during_II Candida_NP1 cells_NN2 change_VV0 from_II yeast-form_NN1 to_II hyphae-form_NN1 ,_, and_CC HWP1_FO will_VM localize_VVI to_II the_AT cell_NN1 wall_NN1 ._. 
+</s>
+<s>
+8_MC ._. 
+</s>
+<s>
+Considering_CS the_AT expression_NN1 level_NN1 may_VM affect_VVI a_AT1 protein_NN1 's_GE subcellular_JJ localization_NN1 ,_, I_PPIS1 would_VM take_VVI the_AT advantage_NN1 of_IO homologous_JJ recombination_NN1 in_II Candida_NP1 ,_, and_CC replace_VV0 the_AT endogenous_JJ gene_NN1 of_IO HWP1_FO with_IW a_AT1 fusion_NN1 gene_NN1 in_II which_DDQ HWP1_FO being_VBG tagged_VVN with_IW a_AT1 fluorophore_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, the_AT fusion_NN1 gene_NN1 will_VM be_VBI expressed_VVN under_II endogenous_JJ promoter_NN1 of_IO HWP1_FO ,_, and_CC hopefully_RR has_VHZ a_AT1 similar_JJ expression_NN1 level_NN1 as_CSA HWP1_FO ._. 
+</s>
+<s>
+Some_DD better-known_JJR adhesion_NN1 (_( e.g._REX ALS3_FO )_) will_VM be_VBI used_VVN as_CSA cell_NN1 wall_NN1 marker_NN1 ._. 
+</s>
+<s>
+I_PPIS1 expected_VVD to_TO see_VVI dim_JJ or_CC no_AT fluorescence_NN1 from_II fusion_NN1 protein_NN1 in_II yeast-form_JJ cells_NN2 ._. 
+</s>
+<s>
+After_CS shifting_JJ conditions_NN2 and_CC cells_NN2 becoming_VVG hyphae_NN2 ,_, I_PPIS1 expect_VV0 to_TO see_VVI strong_JJ signal_NN1 and_CC the_AT fluorescence_NN1 localizes_VVZ to_II the_AT cells_58 '_97 surface_NN1 ._. 
+</s>
+<s>
+If_CS I_PPIS1 also_RR tagged_VVN ALS3_FO with_IW another_DD1 fluorophore_NN1 ,_, I_PPIS1 expect_VV0 to_TO see_VVI co-localization_NN1 of_IO HWP1_FO and_CC ALS3_FO ._. 
+</s>
+<s>
+A_AT1 possible_JJ problem_NN1 is_VBZ the_AT fluorophore_NN1 may_VM affect_VVI the_AT localization_NN1 of_IO HWP1_FO ._. 
+</s>
+<s>
+An_AT1 alternative_JJ way_NN1 to_TO get_VVI around_RP is_VBZ to_TO use_VVI HWP1_FO antibody_NN1 (_( which_DDQ we_PPIS2 already_RR have_VH0 )_) to_TO do_VDI immuno-staining_NN1 ._. 
+</s>
+<s>
+The_AT down-side_NN1 of_IO this_DD1 approach_NN1 is_VBZ non-specific_JJ binding_JJ and_CC staining_VVG ._. 
+</s>
+<s>
+Both_DB2 approaches_NN2 may_VM require_VVI certain_JJ amount_NN1 of_IO HWP1_FO to_TO exist_VVI inside_II cells_NN2 ._. 
+</s>
+<s>
+If_CS HWP1_FO keeps_VVZ being_VBG expressed_VVN at_II a_AT1 low_JJ level_NN1 ,_, we_PPIS2 can_VM make_VVI Candida_NP1 cultures_NN2 ,_, do_VD0 cell_NN1 fractionation_NN1 ._. 
+</s>
+<s>
+Use_VV0 HWP1_FO antibody_NN1 to_TO detect_VVI the_AT amount_NN1 of_IO HWP1_FO in_II each_DD1 fraction_NN1 ._. 
+</s>
+<s>
+Candida_NN1 albicans_NN2 hyphal_JJ wall_NN1 protein_NN1 1_MC1 (_( HWP1_FO )_) gene_NN1 ,_, complete_VV0 cds_NNU 
+</s>

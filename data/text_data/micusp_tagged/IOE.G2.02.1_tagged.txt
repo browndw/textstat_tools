@@ -1,0 +1,54 @@
+<s>
+In_II his_APPGE paper_NN1 A_ZZ1 simple_JJ proof_NN1 for_IF optimality_NN1 of_IO (_( S_ZZ1 ,_, s_ZZ1 )_) policies_NN2 ,_, Yu-Sheng_NP1 Zheng_NP1 calls_VVZ upon_II the_AT results_NN2 of_IO stationary_JJ optimal_JJ solutions_NN2 to_II infinite-horizon_JJ inventory_NN1 management_NN1 problems_NN2 to_TO simplify_VVI previously_RR complicated_JJ proofs_NN2 of_IO optimality_NN1 ._. 
+</s>
+<s>
+Referring_VVG mainly_RR to_II the_AT seminal_JJ work_NN1 of_IO Inglehart_NP1 ,_, Zheng_NP1 reports_VVZ that_CST earlier_JJR proofs_NN2 of_IO the_AT optimality_NN1 of_IO a_AT1 stationary_JJ (_( S_ZZ1 ,_, s_ZZ1 )_) policy_NN1 were_VBDR unnecessarily_RR tedious_JJ because_CS their_APPGE authors_NN2 depended_VVN upon_II the_AT results_NN2 of_IO the_AT finite-horizon_JJ case_NN1 ._. 
+</s>
+<s>
+The_AT problem_NN1 arose_VVD because_CS in_II the_AT finite_JJ horizon_NN1 case_NN1 ,_, one_PN1 must_VM account_VVI for_IF end-of-horizon_JJ effects_NN2 ,_, and_CC therefore_RR the_AT proofs_NN2 were_VBDR "_" capable_JJ of_IO characterizing_VVG only_RR the_AT form_NN1 of_IO an_AT1 optimal_JJ policy_NN1 ,_, rather_II21 than_II22 the_AT optimal_JJ policy_NN1 itself_PPX1 ._. "_" 
+</s>
+<s>
+Zheng_NN1 uses_VVZ Markov_NP1 decision_NN1 process_NN1 theory_NN1 to_TO show_VVI that_CST the_AT optimal_JJ policy_NN1 consists_VVZ of_IO just_RR two_MC parameters_NN2 :_: S*_FO and_CC s*_FO ,_, and_CC that_CST it_PPH1 holds_VVZ for_IF the_AT case_NN1 with_IW fixed-plus_JJ linear_JJ ordering_NN1 costs_NN2 and_CC quasiconvex_VV0 holding_VVG and_CC shortage_NN1 costs_NN2 ._. 
+</s>
+<s>
+He_PPHS1 is_VBZ able_JK to_TO derive_VVI the_AT proof_NN1 for_IF both_DB2 the_AT discounted_JJ and_CC the_AT average_JJ cost_NN1 models_NN2 ._. 
+</s>
+<s>
+An_AT1 (_( S_ZZ1 ,_, s_ZZ1 )_) policy_NN1 stipulates_VVZ that_CST a_AT1 decision_NN1 maker_NN1 need_VM not_XX order_VVI any_DD additional_JJ units_NN2 if_CS the_AT inventory_NN1 level_NN1 lies_VVZ between_II two_MC integers_NN2 s_ZZ1 and_CC S_ZZ1 ,_, S_ZZ1 s_ZZ1 ;_; if_CS the_AT inventory_NN1 level_NN1 falls_VVZ below_II s_ZZ1 ,_, then_RT he_PPHS1 should_VM reorder_VVI a_AT1 quantity_NN1 such_CS21 that_CS22 the_AT new_JJ inventory_NN1 level_NN1 becomes_VVZ S._NP1 Hence_RR ,_, the_AT range_NN1 of_IO possible_JJ inventory_NN1 positions_NN2 is_VBZ bounded_VVN above_RL by_II S_ZZ1 and_CC unbounded_JJ below_RL ._. 
+</s>
+<s>
+The_AT goal_NN1 of_IO such_DA a_AT1 policy_NN1 is_VBZ to_TO simultaneously_RR minimize_VVI the_AT costs_NN2 of_IO carrying_VVG too_RG much_DA1 or_CC too_RG little_DA1 inventory_NN1 and_CC the_AT cost_NN1 of_IO reordering_VVG ._. 
+</s>
+<s>
+Because_CS the_AT problem_NN1 is_VBZ over_II an_AT1 infinite_JJ horizon_NN1 ,_, it_PPH1 is_VBZ not_XX necessary_JJ to_TO formulate_VVI a_AT1 dynamic_JJ programming_NN1 functional_JJ equation_NN1 ._. 
+</s>
+<s>
+Rather_RR ,_, Zheng_NP1 gives_VVZ the_AT total_NN1 expected_VVN where_CS The_AT challenge_NN1 then_RT becomes_VVZ how_RRQ to_TO classify_VVI the_AT values_NN2 s_ZZ1 and_CC S_ZZ1 that_CST minimize_VV0 the_AT above_JJ function_NN1 ._. 
+</s>
+<s>
+Zheng_VV0 first_MD shows_VVZ that_CST there_RL do_VD0 exist_VVI parameters_NN2 S*_FO and_CC s*_FO which_DDQ bound_VVD a_AT1 region_NN1 of_IO inventory_NN1 levels_NN2 producing_VVG minimal_JJ expected_JJ costs_NN2 ._. 
+</s>
+<s>
+Then_RT ,_, using_VVG such_DA an_AT1 S*_FO and_CC s*_FO ,_, he_PPHS1 shows_VVZ case-wise_JJ (_( where_CS the_AT cases_NN2 are_VBR for_IF initial_JJ inventories_NN2 at_II or_CC below_II s*_FO ,_, between_II S*_FO and_CC s*_FO ,_, and_CC greater_JJR than_CSN S*_FO )_) that_CST After_II having_VHG then_RT shown_VVN that_CST He_PPHS1 lastly_RR turns_VVZ his_APPGE attention_NN1 to_II the_AT average_JJ cost_NN1 model_NN1 ._. 
+</s>
+<s>
+To_TO make_VVI the_AT costs_NN2 bounded_VVN ,_, he_PPHS1 relaxes_VVZ the_AT problem_NN1 to_II one_PN1 where_RRQ inventory_NN1 can_VM in_II fact_NN1 take_VV0 on_RP values_NN2 greater_JJR than_CSN S_ZZ1 and_CC thus_RR allowing_VVG for_IF negative_JJ orders_NN2 ._. 
+</s>
+<s>
+However_RR ,_, he_PPHS1 is_VBZ quick_JJ to_TO point_VVI out_RP that_CST intuitively_RR ,_, this_DD1 would_VM never_RR happen_VVI optimally_RR ._. 
+</s>
+<s>
+Personally_RR ,_, I_PPIS1 did_VDD n't_XX find_VVI Zheng_NP1 's_GE proofs_NN2 to_TO be_VBI "_" simple_JJ "_" as_CSA he_PPHS1 called_VVD them_PPHO2 ._. 
+</s>
+<s>
+Perhaps_RR that_DD1 is_VBZ because_CS we_PPIS2 skipped_VVD (_( S_ZZ1 ,_, s_ZZ1 )_) policies_NN2 and_CC spent_VVD little_DA1 time_NNT1 on_II average_JJ cost_NN1 models_NN2 in_II my_APPGE IOE_NP1 512_MC course_NN1 ._. 
+</s>
+<s>
+However_RR ,_, I_PPIS1 do_VD0 appreciate_VVI the_AT strength_NN1 of_IO the_AT arguments_NN2 that_CST come_VV0 by_II being_VBG able_JK to_TO use_VVI a_AT1 stationary_JJ policy_NN1 in_II the_AT infinite_JJ horizon_NN1 problem_NN1 ._. 
+</s>
+<s>
+The_AT paper_NN1 assumes_VVZ that_CST the_AT reader_NN1 is_VBZ familiar_JJ with_IW the_AT cost_NN1 models_NN2 used_VVN in_II a_AT1 paper_NN1 by_II Wagner_NP1 and_CC Veinott_NP1 ,_, which_DDQ I_PPIS1 was_VBDZ not_XX ,_, and_CC also_RR does_VDZ a_AT1 poor_JJ job_NN1 of_IO explaining_VVG the_AT relationships_NN2 between_II the_AT cost_NN1 models_NN2 ,_, which_DDQ makes_VVZ the_AT proofs_NN2 mildly_RR inaccessible_JJ in_II my_APPGE opinion_NN1 ._. 
+</s>
+<s>
+Nevertheless_RR ,_, if_CS Zheng_NP1 's_GE claim_NN1 that_CST all_DB previous_JJ attempts_NN2 at_II proofs_NN2 of_IO the_AT infinite_JJ horizon_NN1 (_( S_ZZ1 ,_, s_ZZ1 )_) model_NN1 rely_VV0 on_II finite_JJ horizon_NN1 results_NN2 ,_, then_RT this_DD1 paper_NN1 is_VBZ indeed_RR significant_JJ ._. 
+</s>

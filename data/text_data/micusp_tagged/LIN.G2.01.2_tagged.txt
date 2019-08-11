@@ -1,0 +1,438 @@
+<s>
+Word_NN1 sense_NN1 tagging_NN1 is_VBZ essentially_RR a_AT1 word_NN1 sense_NN1 disambiguation_NN1 (_( WSD_NP1 )_) process_VV0 ._. 
+</s>
+<s>
+Its_APPGE main_JJ task_NN1 is_VBZ to_TO assign_VVI a_AT1 proper_JJ word_NN1 sense_NN1 code_NN1 for_IF every_AT1 word_NN1 in_II the_AT input_NN1 sentences_NN2 according_II21 to_II22 word_NN1 sense_NN1 tagging_VVG set_NN1 and_CC the_AT context_NN1 ._. 
+</s>
+<s>
+This_DD1 sense_NN1 coding_NN1 can_VM take_VVI four_MC forms_NN2 :_: 1_MC1 )_) The_AT corresponding_JJ code_NN1 of_IO a_AT1 word_NN1 in_II a_AT1 semantic_JJ domain_NN1 dictionary_NN1 ._. 
+</s>
+<s>
+2_MC )_) The_AT sequence_NN1 number_NN1 of_IO an_AT1 explanation_NN1 text_NN1 for_IF a_AT1 word_NN1 in_II an_AT1 ordinary_JJ dictionary_NN1 ._. 
+</s>
+<s>
+3_MC )_) The_AT corresponding_JJ target_NN1 word_NN1 of_IO a_AT1 word_NN1 in_II a_AT1 translation_NN1 dictionary_NN1 ._. 
+</s>
+<s>
+4_MC )_) The_AT concept_NN1 definition_NN1 item_NN1 in_II a_AT1 concept_NN1 dictionary_NN1 (_( e.g._REX the_AT concept_NN1 definition_NN1 in_II How-Net_NN1 )_) ._. 
+</s>
+<s>
+Word_NN1 sense_NN1 tagging_NN1 includes_VVZ two_MC processes_NN2 which_DDQ are_VBR tagging_VVG assignment_NN1 and_CC tagging_VVG disambiguation_NN1 ._. 
+</s>
+<s>
+Tagging_VVG assignment_NN1 is_VBZ to_TO assign_VVI a_AT1 set_NN1 of_IO possible_JJ or_CC potential_JJ word_NN1 sense_NN1 tagging_VVG to_II every_AT1 word_NN1 ._. 
+</s>
+<s>
+Tagging_VVG disambiguation_NN1 is_VBZ to_TO choose_VVI a_AT1 proper_JJ word_NN1 sense_NN1 that_CST satisfies_VVZ the_AT context_NN1 ._. 
+</s>
+<s>
+Word_NN1 sense_NN1 tagging_NN1 is_VBZ considered_VVN to_TO be_VBI the_AT biggest_JJT unsolved_JJ issue_NN1 at_II word_NN1 level_NN1 in_II natural_JJ language_NN1 processing_NN1 ._. 
+</s>
+<s>
+Although_CS word_NN1 sense_NN1 tagging_NN1 is_VBZ similar_JJ to_II POS_NN2 tagging_VVG ,_, it_PPH1 is_VBZ more_RGR abstract_JJ and_CC difficult_JJ because_II21 of_II22 its_APPGE focus_NN1 on_II the_AT aggregation_NN1 relation_NN1 of_IO word_NN1 meanings_NN2 ._. 
+</s>
+<s>
+As_RG early_RR as_CSA 1950s_MC2 ,_, people_NN started_VVD to_TO work_VVI on_II the_AT research_NN1 of_IO WSD_NP1 ._. 
+</s>
+<s>
+A_AT1 large_JJ variety_NN1 of_IO methodologies_NN2 have_VH0 been_VBN put_VVN forwarded_VVN ._. 
+</s>
+<s>
+However_RR ,_, at_II present_JJ stage_NN1 ,_, most_DAT of_IO the_AT current_JJ systems_NN2 can_VM handle_VVI the_AT WSD_NP1 for_IF only_RR a_AT1 very_RG limited_JJ number_NN1 of_IO multi-sense_JJ words_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ still_RR long_JJ way_NN1 to_TO go_VVI for_IF WSD_NP1 to_TO reach_VVI the_AT present_JJ level_NN1 of_IO POS_NN2 tagging_VVG ._. 
+</s>
+<s>
+In_II Chinese_NP1 NLP_NP1 research_NN1 area_NN1 ,_, WSD_NP1 has_VHZ been_VBN a_AT1 rarely_RR touched_VVN topic_NN1 and_CC relatively_RR little_JJ effort_NN1 has_VHZ been_VBN paid_VVN to_II this_DD1 important_JJ issue_NN1 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 is_VBZ going_VVGK to_TO propose_VVI a_AT1 technically_RR feasible_JJ approach_NN1 to_TO improve_VVI the_AT WSD_NP1 of_IO Chinese_NN1 based_VVN on_II the_AT relative_JJ maturity_NN1 of_IO POS_NN2 tagging_VVG system_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO make_VVI the_AT computer_NN1 have_VH0 the_AT same_DA word_NN1 sense_NN1 discrimination_NN1 ability_NN1 as_CSA human_JJ ,_, we_PPIS2 must_VM store_VVI in_II computer_NN1 grammars_NN2 and_CC semantic_JJ and_CC pragmatic_JJ rules_NN2 as_RR21 well_RR22 ._. 
+</s>
+<s>
+WSD_NP1 methodologies_NN2 can_VM be_VBI grouped_VVN into_II four_MC categories_NN2 in_II31 terms_II32 of_II33 the_AT methodologies_NN2 used_VMK to_TO acquire_VVI knowledge_NN1 ._. 
+</s>
+<s>
+1_MC1 )_) WSD_NP1 based_VVN on_II dictionary_NN1 knowledge_NN1 ._. 
+</s>
+<s>
+Machine_VV0 readable_JJ dictionaries_NN2 and_CC semantic_JJ domain_NN1 dictionaries_NN2 provide_VV0 sufficient_JJ knowledge_NN1 on_II word_NN1 usages_NN2 and_CC word_NN1 senses_NN2 and_CC therefore_RR can_VM be_VBI used_VVN as_II a_AT1 resource_NN1 for_IF WSD_NP1 ._. 
+</s>
+<s>
+Machine_VV0 readable_JJ dictionary_NN1 has_VHZ become_VVN the_AT major_JJ knowledge_NN1 resource_NN1 for_IF WSD_NP1 since_II 80s_MC2 ._. 
+</s>
+<s>
+Typical_JJ machine_NN1 readable_JJ dictionary-based_JJ methodology_NN1 for_IF WSD_NP1 works_VVZ this_DD1 way_NN1 :_: It_PPH1 first_MD computes_VVZ the_AT coverage_NN1 of_IO each_DD1 word_NN1 sense_NN1 for_IF ambiguous_JJ words_NN2 and_CC the_AT senses_NN2 of_IO words_NN2 in_II the_AT context_NN1 and_CC then_RT it_PPH1 chooses_VVZ the_AT sense_NN1 with_IW maximum_NN1 overlapping_VVG as_II the_AT current_JJ word_NN1 sense_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, the_AT correctness_NN1 rate_NN1 for_IF this_DD1 methodology_NN1 is_VBZ only_RR 50%_NNU to_II 70%_NNU ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 reasons_NN2 for_IF this_DD1 comparatively_RR low_JJ accuracy_NN1 :_: Firstly_RR ,_, traditional_JJ machine_NN1 readable_JJ dictionary-based_JJ methodology_NN1 does_VDZ not_XX make_VVI full_JJ use_NN1 of_IO the_AT useful_JJ information_NN1 of_IO the_AT phrases_NN2 and_CC examples_NN2 in_II the_AT dictionary_NN1 ._. 
+</s>
+<s>
+Secondly_RR ,_, the_AT word_NN1 sense_NN1 definition_NN1 sentences_NN2 in_II machine_NN1 readable_JJ dictionaries_NN2 are_VBR normally_RR very_RG short_JJ ,_, and_CC it_PPH1 is_VBZ hence_RR difficult_JJ to_TO calculate_VVI the_AT overlapping_JJ of_IO those_DD2 two_MC kinds_NN2 of_IO definitions_NN2 ._. 
+</s>
+<s>
+In_II many_DA2 cases_NN2 ,_, there_EX are_VBR zero_MC overlapping_JJ between_II the_AT word_NN1 sense_NN1 definitions_NN2 of_IO the_AT ambiguous_JJ word_NN1 and_CC context_NN1 words_NN2 ._. 
+</s>
+<s>
+Thirdly_RR ,_, in_II practice_NN1 ,_, the_AT inevitable_JJ combination_NN1 explosion_NN1 also_RR greatly_RR restricts_VVZ the_AT application_NN1 of_IO this_DD1 method_NN1 ._. 
+</s>
+<s>
+Finally_RR ._. 
+</s>
+<s>
+the_AT dictionary_NN1 is_VBZ for_IF human_JJ use_NN1 and_CC not_XX for_IF machine_NN1 use_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, there_EX is_VBZ also_RR inconsistence_NN1 in_II the_AT dictionary_NN1 itself_PPX1 ,_, all_DB these_DD2 raise_VV0 difficulty_NN1 for_IF knowledge_NN1 retrieval_NN1 ._. 
+</s>
+<s>
+Knowledge_NN1 in_II semantic_JJ domain_NN1 dictionary_NN1 is_VBZ also_RR widely_RR used_VVN for_IF WSD_NP1 ._. 
+</s>
+<s>
+Unlike_II the_AT methodology_NN1 used_VVN by_II machine_NN1 readable_JJ dictionary_NN1 ,_, semantic_JJ domain_NN1 dictionary_NN1 organizes_VVZ the_AT words_NN2 into_II hierarchy_NN1 levels_NN2 in_II31 terms_II32 of_II33 word_NN1 senses_NN2 ,_, providing_VVG connections_NN2 between_II words_NN2 ._. 
+</s>
+<s>
+WordNet_NP1 (_( Miller_NP1 1990_MC )_) and_CC "_" Roget_NP1 's_GE Thesaurus_NN1 "_" are_VBR the_AT most_RGT famous_JJ English_JJ semantic_JJ domain_NN1 dictionaries_NN2 ;_; "_" Chinese_JJ Thesaurus_NN1 "_" (_( J.Mei_NP1 ,_, 1996_MC )_) and_CC "_" Knowledge_NN1 Net_NN1 "_" (_( Z.Dong_NP1 ,_, 1999_MC )_) are_VBR most_RGT commonly_RR used_JJ Chinese_JJ semantic_JJ resources_NN2 ._. 
+</s>
+<s>
+2_MC )_) WSD_NP1 based_VVN on_II rules_NN2 :_: This_DD1 methodology_NN1 depends_VVZ on_II the_AT language_NN1 knowledge_NN1 of_IO language_NN1 experts_NN2 ._. 
+</s>
+<s>
+It_NN1 constructs_NN2 rule_VV0 sets_NN2 ,_, analyzing_VVG the_AT ambiguous_JJ words_NN2 and_CC their_APPGE contexts_NN2 ,_, and_CC chooses_VVZ the_AT word_NN1 senses_VVZ that_CST satisfy_VV0 the_AT restriction_NN1 rules_NN2 ._. 
+</s>
+<s>
+Generally_RR speaking_VVG ,_, the_AT rules_NN2 describe_VV0 the_AT elements_NN2 that_CST are_VBR licensed_VVN to_TO modify_VVI the_AT ambiguous_JJ words_NN2 and_CC those_DD2 disallowed_VVN to_TO modify_VVI the_AT ambiguous_JJ words_NN2 ._. 
+</s>
+<s>
+3_MC )_) WSD_NP1 based_VVN on_II language_NN1 corpus_NN1 :_: The_AT advent_NN1 of_IO this_DD1 methodology_NN1 marks_VVZ a_AT1 new_JJ age_NN1 in_II NLP_NP1 and_CC gradually_RR becomes_VVZ indispensable_JJ for_IF WSD_NP1 research_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI categorized_VVN into_II supervised_JJ and_CC unsupervised_JJ WSD_NP1 ._. 
+</s>
+<s>
+The_AT former_DA collects_VVZ the_AT WSD_NP1 knowledge_NN1 from_II the_AT processed_JJ and_CC tagged_VVD material_NN1 ;_; The_AT latter_DA collects_VVZ WSD_NP1 knowledge_NN1 from_II the_AT raw_JJ and_CC tagged_VVD material_NN1 ._. 
+</s>
+<s>
+The_AT essence_NN1 of_IO the_AT corpus-based_JJ WSD_NP1 is_VBZ to_TO determine_VVI different_JJ meanings_NN2 of_IO words_NN2 in_II a_AT1 context_NN1 by_II automatic_JJ or_CC semi-automatic_JJ learning_NN1 of_IO the_AT corpus_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI either_RR statistics-based_JJ or_CC example-based_NN1 ._. 
+</s>
+<s>
+The_AT former_DA collects_VVZ statistical_JJ context_NN1 proof_NN1 that_CST support_VV0 the_AT specific_JJ sense_NN1 of_IO an_AT1 ambiguous_JJ word_NN1 in_II a_AT1 certain_JJ context_NN1 ,_, and_CC the_AT proof_NN1 is_VBZ used_VVN for_IF WSD_NP1 of_IO the_AT new_JJ input_NN1 sentences_NN2 ._. 
+</s>
+<s>
+This_DD1 method_NN1 usually_RR collects_VVZ statistical_JJ data_NN of_IO collocation_NN1 between_II words_NN2 and_CC word_NN1 senses_NN2 ._. 
+</s>
+<s>
+Example-based_JJ method_NN1 uses_VVZ statistics_NN almost_RR without_IW turning_VVG to_II any_DD language_NN1 structural_JJ knowledge_NN1 ._. 
+</s>
+<s>
+What_DDQ it_PPH1 needs_VVZ is_VBZ large_JJ quantity_NN1 of_IO regular_JJ parallel_JJ sentences_NN2 ._. 
+</s>
+<s>
+It_PPH1 's_VBZ easy_JJ to_TO implement_VVI but_CCB hard_RR to_TO obtain_VVI a_AT1 large_JJ number_NN1 of_IO parallel_JJ sentences_NN2 ._. 
+</s>
+<s>
+4_MC )_) WSD_NP1 based_VVN on_II combination_NN1 of_IO different_JJ methods_NN2 :_: After_CS several_DA2 years_58 '_97 efforts_NN2 ,_, more_RRR and_CC more_DAR researchers_NN2 now_RT tend_VV0 to_TO combine_VVI multiple_JJ methods_NN2 to_TO realize_VVI WSD_NP1 ._. 
+</s>
+<s>
+The_AT method_NN1 combines_VVZ a_AT1 variety_NN1 of_IO methods_NN2 to_TO get_VVI better_RRR WSD_NP1 performance_NN1 ._. 
+</s>
+<s>
+The_AT combination_NN1 of_IO knowledge_NN1 resources_NN2 will_VM extend_VVI the_AT potentially_RR useful_JJ knowledge_NN1 for_IF WSD_NP1 ,_, such_II21 as_II22 dictionary_NN1 information_NN1 ,_, collocation_NN1 information_NN1 ,_, domain_NN1 knowledge_NN1 ,_, syntactic_JJ restriction_NN1 and_CC all_DB of_IO the_AT other_JJ potential_JJ heuristic_JJ information_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT word_NN1 sense_NN1 system_NN1 in_II "_" Chinese_JJ Thesaurus_NN1 "_" ,_, C.Huang_NP1 and_CC J.Li_NP1 adopted_VVD the_AT unsupervised_JJ learning_NN1 method_NN1 to_TO process_VVI large_JJ scale_NN1 corpus_NN1 and_CC constructed_VVD the_AT "_" categorizing_JJ machine_NN1 "_" for_IF WSD_NP1 use_NN1 ._. 
+</s>
+<s>
+The_AT WSD_NP1 is_VBZ itself_PPX1 an_AT1 intermediate_JJ process_NN1 and_CC hence_RR an_AT1 indispensable_JJ middle_JJ layer_NN1 for_IF most_DAT NLP_NP1 tasks_NN2 ._. 
+</s>
+<s>
+Any_DD improvement_NN1 of_IO WSD_NP1 would_VM interest_NN1 people_NN employed_VVN in_II the_AT following_JJ fields_NN2 :_: The_AT WSD_NP1 in_II machine_NN1 translation_NN1 has_VHZ its_APPGE own_DA characteristics_NN2 in_II that_DD1 it_PPH1 uses_VVZ target_NN1 word_NN1 to_TO distinguish_VVI different_JJ word_NN1 senses_NN2 ._. 
+</s>
+<s>
+How_RRQ to_TO find_VVI the_AT target_NN1 word_NN1 in_II machine_NN1 translation_NN1 is_VBZ an_AT1 important_JJ issue_NN1 and_CC how_RRQ the_AT WSD_NP1 is_VBZ solved_VVN directly_RR affects_VVZ the_AT quality_NN1 of_IO the_AT translated_JJ text_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, in_II the_AT English-Chinese_JJ translation_NN1 system_NN1 ,_, the_AT word_NN1 "_" interest_NN1 "_" has_VHZ two_MC target_NN1 words_NN2 in_II Chinese_JJ "_" "_" and_CC "_" "_" ._. 
+</s>
+<s>
+When_CS translating_VVG this_DD1 word_NN1 ,_, the_AT system_NN1 should_VM use_VVI the_AT context_NN1 to_TO decide_VVI which_DDQ to_TO choose_VVI in_II a_AT1 specific_JJ context_NN1 ._. 
+</s>
+<s>
+In_II information_NN1 search_NN1 and_CC processing_NN1 ,_, due_II21 to_II22 the_AT multiple_JJ meanings_NN2 of_IO a_AT1 word_NN1 ,_, the_AT system_NN1 sometimes_RT would_VM come_VVI up_RP with_IW the_AT texts_NN2 that_CST containing_VVG the_AT same_DA word_NN1 with_IW different_JJ meaning_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, someone_PN1 may_VM use_VVI "_" "_" as_RG key_JJ word_NN1 if_CS he_PPHS1 is_VBZ searching_VVG for_IF some_DD reference_NN1 related_VVN to_II a_AT1 file_NN1 ._. 
+</s>
+<s>
+If_CS the_AT search_NN1 is_VBZ solely_RR based_VVN on_II these_DD2 characters_NN2 ,_, then_RT it_PPH1 will_VM give_VVI you_PPY all_DB the_AT papers_NN2 containing_VVG this_DD1 word_NN1 most_DAT of_IO which_DDQ are_VBR related_VVN to_II "_" manufacturing_NN1 material_NN1 "_" and_CC do_VD0 not_XX actually_RR mean_VVI "_" files_NN2 "_" ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT word_NN1 sense_NN1 is_VBZ important_JJ in_II information_NN1 search_NN1 ._. 
+</s>
+<s>
+The_AT word_NN1 sense_NN1 also_RR plays_VVZ a_AT1 big_JJ role_NN1 when_CS analyzing_VVG the_AT grammatical_JJ structure_NN1 of_IO sentences_NN2 ._. 
+</s>
+<s>
+Grammatical_JJ ambiguity_NN1 is_VBZ common_JJ in_II many_DA2 languages_NN2 and_CC solution_NN1 to_II the_AT problem_NN1 is_VBZ to_TO introduce_VVI word_NN1 sense_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, "_" (_( visiting_JJ library_NN1 's_GE hall_NN1 )_) "_" and_CC "_" (_( the_AT people_NN who_PNQS are_VBR visiting_JJ library_NN1 )_) "_" share_VV0 the_AT POS_NP2 sequence_NN1 of_IO "_" verb+noun+de+noun_FO "_" ,_, but_CCB they_PPHS2 have_VH0 very_RG different_JJ sentence_NN1 structures_NN2 ._. 
+</s>
+<s>
+When_CS defining_VVG the_AT semantic_JJ structure_NN1 of_IO a_AT1 sentence_NN1 ,_, we_PPIS2 have_VH0 to_TO consider_VVI the_AT word_NN1 sense_NN1 of_IO every_AT1 word_NN1 in_II the_AT sentence_NN1 ._. 
+</s>
+<s>
+The_AT semantic_JJ structure_NN1 of_IO a_AT1 sentence_NN1 (_( e.g_REX Case_NN1 structure_NN1 )_) can_VM be_VBI obtained_VVN only_RR when_CS the_AT word_NN1 sense_NN1 of_IO every_AT1 word_NN1 in_II the_AT sentence_NN1 is_VBZ known_VVN ._. 
+</s>
+<s>
+The_AT word-based_JJ N-yuan_JJ model_NN1 takes_VVZ into_II consideration_NN1 only_RR the_AT continuous_JJ relations_NN2 between_II words_NN2 ,_, thus_RR there_EX exists_VVZ sentences_NN2 with_IW no_AT meaning_NN1 connections_NN2 between_II words_NN2 in_II the_AT recognition_NN1 result_NN1 ._. 
+</s>
+<s>
+With_IW the_AT introduction_NN1 of_IO word_NN1 sense_NN1 ,_, the_AT continuous_JJ relations_NN2 on_II the_AT word_NN1 sense_NN1 level_NN1 are_VBR provided_VVN ;_; therefore_RR it_PPH1 avoids_VVZ this_DD1 kind_NN1 of_IO error_NN1 mentioned_VVN above_RL in_II some_DD sense_NN1 ._. 
+</s>
+<s>
+In_II summary_NN1 ,_, as_CSA an_AT1 important_JJ process_NN1 in_II NLP_NP1 ,_, the_AT WSD_NP1 research_NN1 has_VHZ great_JJ significance_NN1 both_RR theoretically_RR and_CC practically_RR ._. 
+</s>
+<s>
+The_AT result_NN1 of_IO WSD_NP1 research_NN1 can_VM be_VBI directly_RR applied_VVN in_II many_DA2 aspects_NN2 of_IO NLP_NP1 ._. 
+</s>
+<s>
+Like_II POS_NN2 tagging_VVG ,_, word_NN1 sense_NN1 tagging_VVG also_RR need_VV0 a_AT1 tagging_JJ system_NN1 which_DDQ can_VM provide_VVI a_AT1 description_NN1 of_IO the_AT word_NN1 sense_NN1 categorization_NN1 principles_NN2 ._. 
+</s>
+<s>
+Since_CS the_AT dictionary_NN1 is_VBZ the_AT basis_NN1 of_IO word_NN1 sense_NN1 definition_NN1 ,_, a_AT1 perfect_JJ dictionary_NN1 should_VM be_VBI the_AT precondition_NN1 of_IO WSD_NP1 ._. 
+</s>
+<s>
+"_" Chinese_JJ Thesaurus_NN1 "_" is_VBZ the_AT only_JJ machine-readable_JJ semantic_JJ dictionary_NN1 in_II current_JJ Chinese_JJ information_NN1 processing_NN1 ._. 
+</s>
+<s>
+The_AT compiler_NN1 of_IO "_" Chinese_JJ Thesaurus_NN1 "_" defines_VVZ the_AT word_NN1 categorizing_VVG rules_NN2 based_VVN on_II characteristics_NN2 of_IO usages_NN2 of_IO Chinese_JJ words_NN2 ._. 
+</s>
+<s>
+Technically_RR ,_, it_PPH1 adopts_VVZ the_AT coding_NN1 system_NN1 of_IO "_" The_AT Longman_NP1 Lexicon_NN1 of_IO Contemporary_JJ English_NN1 "_" ._. 
+</s>
+<s>
+"_" Thesaurus_NN1 "_" divides_VVZ word_NN1 senses_NN2 into_II large_JJ ,_, medium_NN1 ,_, and_CC small_JJ categories_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR 12_MC large_JJ categories_NN2 ,_, 94_MC medium_JJ categories_NN2 and_CC 1428_MC small_JJ categories_NN2 ._. 
+</s>
+<s>
+Uppercase_JJ letters_NN2 represent_VV0 large_JJ categories_NN2 ;_; Lowercase_JJ letters_NN2 and_CC numbers_NN2 represent_VV0 the_AT medium_NN1 and_CC small_JJ categories_NN2 respectively_RR ._. 
+</s>
+<s>
+The_AT twelve_MC large_JJ categories_NN2 include_VV0 :_: people(A)_NN1 ,_, object(B)_VV0 ,_, time_NNT1 and_CC space(C)_NN1 ,_, abstract_JJ object(D)_NN1 ,_, characteristics(E)_VV0 ,_, action(F)_VV0 ,_, psychological_JJ activity(G)_NN1 ,_, activity(H)_NN1 ,_, phenomenon_NN1 and_CC state(I)_NN2 ,_, connection(J)_VV0 ,_, auxillaries(K)_NN1 and_CC honorific(L)_NN1 ._. 
+</s>
+<s>
+It_PPH1 describe_VV0 a_AT1 word_NN1 sense_NN1 categorizing_VVG system_NN1 from_II up_II21 to_II22 down_NN1 ,_, from_II broad_JJ concept_NN1 to_II concrete_JJ word_NN1 senses_NN2 ._. 
+</s>
+<s>
+The_AT organization_NN1 of_IO the_AT word_NN1 sense_NN1 coding_NN1 system_NN1 is_VBZ as_CSA follows_VVZ :_: In_II the_AT small_JJ category_NN1 ,_, the_AT words_NN2 are_VBR further_RRR grouped_VVN into_II smaller_JJR word_NN1 clusters_NN2 synonyms_NN2 ._. 
+</s>
+<s>
+Every_AT1 word_NN1 cluster_NN1 has_VHZ a_AT1 title_NN1 word_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR totally_RR 3925_MC title_NN1 words_NN2 altogether_RR and_CC word_NN1 clusters_NN2 are_VBR further_RRR represented_VVN by_II a_AT1 two_MC digit_NN1 number_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT coding_NN1 of_IO the_AT word_NN1 "_" "_" is_VBZ "_" Ga15_FO "_" ._. 
+</s>
+<s>
+It_PPH1 is_VBZ represented_VVN in_II "_" Chinese_JJ Thesaurus_NN1 "_" as_II :_: There_EX are_VBR two_MC word_NN1 clusters_NN2 in_II "_" Ga15_FO "_" ._. 
+</s>
+<s>
+One_PN1 is_VBZ composed_VVN of_IO the_AT words_NN2 representing_VVG "_" conscious_JJ "_" and_CC the_AT other_NN1 is_VBZ composed_VVN of_IO words_NN2 representing_VVG "_" know_VV0 something_PN1 "_" ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT further_JJR word_NN1 sense_NN1 coding_VVG for_IF "_" "_" is_VBZ "_" Ga1501_FO "_" which_DDQ can_VM be_VBI called_VVN sub_JJ small_JJ category_NN1 coding_NN1 ._. 
+</s>
+<s>
+Multi-sense_JJ words_NN2 are_VBR grouped_VVN into_II different_JJ word_NN1 clusters_NN2 in_II31 terms_II32 of_II33 their_APPGE word_NN1 senses_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, has_VHZ three_MC word_NN1 senses_NN2 in_II "_" Thesaurus_NN1 "_" :_: (_( 1_MC1 )_) stuff_VV0 that_CST can_VM be_VBI made_VVN into_II product_NN1 ._. 
+</s>
+<s>
+(_( 2_MC )_) stuff_NN1 provided_VVN for_IF the_AT content_NN1 of_IO a_AT1 work_NN1 or_CC for_IF references_NN2 ._. 
+</s>
+<s>
+(_( 3_MC )_) a_AT1 person_NN1 that_CST has_VHZ talent_NN1 to_TO do_VDI something_PN1 ._. 
+</s>
+<s>
+The_AT corresponding_JJ coding_NN1 for_IF each_DD1 word_NN1 senses_NN2 are_VBR "_" Ba06_FO "_" ,_, "_" Dk17_FO "_" and_CC "_" A103_FO "_" ._. 
+</s>
+<s>
+In_II this_DD1 article_NN1 ,_, the_AT word_NN1 sense_NN1 coding_VVG in_II "_" Thesaurus_NN1 "_" is_VBZ directly_RR used_VVN to_TO represent_VVI word_NN1 sense_NN1 ._. 
+</s>
+<s>
+Multi-sense_JJ word_NN1 has_VHZ multiple_JJ word_NN1 sense_NN1 codings_NN2 and_CC the_AT length_NN1 of_IO the_AT coding_NN1 is_VBZ 4_MC ._. 
+</s>
+<s>
+The_AT statistics_NN above_RL shows_VVZ that_DD1 "_" Thesaurus_NN1 "_" has_VHZ 42724_MC mono-sense_NN1 words_NN2 and_CC 7370_MC multi-sense_JJ words_NN2 ._. 
+</s>
+<s>
+Besides_II that_DD1 ,_, it_PPH1 also_RR shows_VVZ that_CST 14.8%_FO of_IO the_AT words_NN2 are_VBR multi-sense_JJ words_NN2 ._. 
+</s>
+<s>
+We_PPIS2 note_VV0 also_RR that_CST shorter_JJR words_NN2 have_VH0 higher_JJR chance_NN1 to_TO be_VBI ambiguous_JJ and_CC also_RR tend_VV0 to_TO be_VBI more_RGR ambiguous_JJ ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT word_NN1 sense_NN1 and_CC ambiguity_NN1 type_NN1 of_IO the_AT word_NN1 sense_NN1 Chinese_JJ word_NN1 can_VM be_VBI categorized_VVN into_II mono-sense_NN1 word_NN1 ,_, category_NN1 ambiguous_JJ word_NN1 ,_, non-category_JJ ambiguous_JJ word_NN1 and_CC blending_VVG ambiguous_JJ word_NN1 ._. 
+</s>
+<s>
+Among_II these_DD2 types_NN2 ,_, the_AT WSD_NP1 of_IO the_AT non-category_JJ ambiguous_JJ word_NN1 is_VBZ most_RGT difficult_JJ because_CS it_PPH1 needs_VVZ more_DAR contexts_NN2 ._. 
+</s>
+<s>
+The_AT research_NN1 on_II the_AT distribution_NN1 of_IO these_DD2 different_JJ types_NN2 helps_VVZ to_TO adopt_VVI different_JJ tagging_JJ strategies_NN2 to_II different_JJ words_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO have_VHI a_AT1 better_JJR understanding_NN1 of_IO how_RRQ the_AT words_NN2 distribute_VV0 with_II31 respect_II32 to_II33 word_NN1 senses_NN2 ,_, we_PPIS2 collect_VV0 the_AT statistical_JJ data_NN on_II static_JJ distribution_NN1 of_IO word_NN1 sense_NN1 based_VVN on_II Chinese_JJ Thesaurus_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR in_II table2_FO as_CSA follows_VVZ :_: Table2_FO word_NN1 distribution_NN1 with_II31 respect_II32 to_II33 word_NN1 sense_NN1 in_II Chinese_JJ Thesaurus_NN1 Word_NN1 sense_NN1 distribution_NN1 is_VBZ in_II close_JJ relation_NN1 with_IW the_AT technical_JJ principles_NN2 of_IO a_AT1 dictionary_NN1 and_CC specific_JJ word_NN1 sense_NN1 category_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT data_NN in_II Table_NN1 2_MC and_CC Table_NN1 3_MC may_VM not_XX perfectly_RR reflect_VVI the_AT relations_NN2 among_II POS_NN2 ,_, word_NN1 sense_NN1 and_CC word_NN1 distribution_NN1 ,_, we_PPIS2 can_VM still_RR see_VVI clearly_RR the_AT following_JJ general_JJ trends_NN2 :_: Firstly_RR ,_, in_II Chinese_JJ ,_, most_DAT words_NN2 are_VBR mono-sense_NN1 words_NN2 ,_, with_IW a_AT1 dominating_JJ percentage_NN1 of_IO 81.46-87.69%_FO ._. 
+</s>
+<s>
+Secondly_RR ,_, multi-sense_JJ words_NN2 ,_, although_CS occupying_VVG only_RR around_RG a_AT1 quarter_NN1 of_IO the_AT whole_JJ vocabulary_NN1 ,_, are_VBR used_VVN much_RR more_RGR frequently_RR than_CSN mono-sense_NN1 words_NN2 ._. 
+</s>
+<s>
+More_RGR commonly_RR used_JJ words_NN2 usually_RR have_VH0 a_AT1 higher_JJR degree_NN1 of_IO ambiguity.1_FO Thirdly_RR ,_, multi-sense_JJ words_NN2 are_VBR not_XX evenly_RR distributed_VVN with_II31 respect_II32 to_II33 their_APPGE POS_NN2 ._. 
+</s>
+<s>
+Thirdly_RR ,_, the_AT granularity_NN1 of_IO word_NN1 sense_NN1 categorizing_NN1 has_VHZ great_JJ effects_NN2 on_II WSD_NP1 ._. 
+</s>
+<s>
+The_AT smaller_JJR the_AT granularity_NN1 ,_, the_AT higher_JJR percentage_NN1 of_IO the_AT multi-sense_JJ words_NN2 ,_, and_CC also_RR the_AT bigger_JJR average_JJ word_NN1 senses_NN2 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, the_AT smaller_JJR the_AT granularity_NN1 ,_, the_AT higher_JJR percentage_NN1 of_IO non-category_JJ multi-sense_JJ words_NN2 and_CC the_AT lower_JJR percentage_NN1 of_IO category_NN1 multi-sense_NN1 words_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ little_DA1 effect_NN1 on_II the_AT percentage_NN1 of_IO blending_VVG multi-sense_JJ words_NN2 though_RR ._. 
+</s>
+<s>
+In_II a_AT1 word_NN1 ,_, word_NN1 sense_NN1 ambiguity_NN1 becomes_VVZ more_RGR serious_JJ if_CS we_PPIS2 adopt_VV0 a_AT1 comparatively_RR smaller_JJR granularity_NN1 when_RRQ define_VV0 the_AT word_NN1 sense_NN1 tagging_VVG system_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, one_MC1 conspicuous_JJ characteristic_NN1 of_IO Chinese_JJ word_NN1 is_VBZ that_CST its_APPGE POS_NN2 is_VBZ morphologically_RR unmarked_JJ ._. 
+</s>
+<s>
+And_CC there_EX is_VBZ always_RR the_AT extreme_JJ claim_NN1 that_CST Chinese_JJ words_NN2 do_VD0 not_XX even_RR have_VHI POS_NN2 ,_, it_PPH1 only_RR gets_VVZ POS_NN2 when_CS it_PPH1 comes_VVZ into_II a_AT1 specific_JJ sentence_NN1 (_( "_" "_" )_) ._. 
+</s>
+<s>
+This_DD1 makes_VVZ WSD_NP1 more_RGR important_JJ and_CC complicated_JJ for_IF Chinese_JJ words_NN2 than_CSN for_IF English_JJ words_NN2 ._. 
+</s>
+<s>
+And_CC this_DD1 same_DA fact_NN1 leads_VVZ us_PPIO2 to_TO believe_VVI that_CST the_AT approach_NN1 we_PPIS2 are_VBR proposing_VVG in_II this_DD1 article_NN1 should_VM work_VVI much_RR better_JJR for_IF Chinese_JJ than_CSN for_IF English_NN1 ._. 
+</s>
+<s>
+Compared_VVN with_IW WSD_NP1 in_II English_NN1 ,_, the_AT research_NN1 of_IO WSD_NP1 in_II Chinese_NP1 has_VHZ been_VBN drawn_VVN much_DA1 less_DAR attention_NN1 ._. 
+</s>
+<s>
+The_AT method_NN1 we_PPIS2 put_VV0 forward_RL here_RL is_VBZ based_VVN on_II the_AT characteristic_NN1 of_IO Chinese_JJ words_NN2 ,_, we_PPIS2 see_VV0 that_CST POS_NN2 information_NN1 is_VBZ relatively_RR not_XX closely_RR related_VVN to_II lexicon_NN1 items_NN2 in_II dictionary_NN1 ,_, but_CCB once_RR recognized_VVN in_II a_AT1 given_JJ context_NN1 ,_, brings_VVZ much_DA1 information_NN1 which_DDQ will_VM be_VBI useful_JJ for_IF WSD_NP1 ._. 
+</s>
+<s>
+Our_APPGE basic_JJ idea_NN1 is_VBZ that_DD1 given_VVN the_AT high_JJ accuracy_NN1 of_IO present_JJ POS_NN2 tagging_VVG system_NN1 ,_, we_PPIS2 are_VBR going_VVGK to_TO count_VVI on_II the_AT output_NN1 of_IO POS_NN2 tagging_VVG of_IO a_AT1 text_NN1 we_PPIS2 are_VBR processing_VVG ._. 
+</s>
+<s>
+And_CC we_PPIS2 are_VBR going_VVGK to_TO let_VVI the_AT POS_NP2 information_NN1 take_VV0 over_RP the_AT WSD_NP1 task_NN1 in_II the_AT first_MD place_NN1 ._. 
+</s>
+<s>
+Given_VVN the_AT characteristics_NN2 of_IO Chinese_JJ words_NN2 we_PPIS2 discussed_VVD above_RL ,_, we_PPIS2 believe_VV0 it_PPH1 a_AT1 feasible_JJ and_CC effective_JJ way_NN1 of_IO improving_VVG the_AT WSD_NP1 of_IO Chinese_JJ text_NN1 processing_NN1 ._. 
+</s>
+<s>
+We_PPIS2 propose_VV0 the_AT following_JJ steps_NN2 of_IO this_DD1 approach_NN1 ._. 
+</s>
+<s>
+In_II current_JJ Chinese_JJ tagging_JJ systems_NN2 ,_, these_DD2 two_MC steps_NN2 can_VM be_VBI realized_VVN at_II the_AT same_DA time_NNT1 ._. 
+</s>
+<s>
+Among_II currently_RR existent_JJ systems_NN2 ,_, the_AT one_PN1 developed_VVN by_II the_AT Institute_NN1 of_IO Computational_JJ Linguistics_NN1 of_IO Peking_NP1 University_NN1 has_VHZ reached_VVN the_AT accuracy_NN1 of_IO 96.8%_FO ._. 
+</s>
+<s>
+And_CC in_II our_APPGE final_JJ evaluation_NN1 part_NN1 of_IO this_DD1 paper_NN1 ,_, we_PPIS2 are_VBR also_RR using_VVG this_DD1 system_NN1 ._. 
+</s>
+<s>
+The_AT label_NN1 assignment_NN1 of_IO word_NN1 sense_NN1 is_VBZ to_TO assign_VVI a_AT1 set_NN1 of_IO possible_JJ or_CC potential_JJ word_NN1 senses_NN2 to_II each_DD1 word_NN1 ._. 
+</s>
+<s>
+Since_CS we_PPIS2 have_VH0 tagged_VVN the_AT POS_NN2 for_IF the_AT input_NN1 sentences_NN2 before_II word_NN1 sense_NN1 tagging_VVG ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT word_NN1 sense_NN1 label_NN1 assigning_VVG process_NN1 can_VM be_VBI described_VVN as_II follows_VVZ :_: Firstly_RR ,_, to_TO input_VVI the_AT word_NN1 sequence_NN1 with_IW POS_NN2 tagging_VVG as_CSA In_II this_DD1 paper_NN1 ,_, the_AT process_NN1 of_IO automatic_JJ label_NN1 assignment_NN1 is_VBZ actually_RR the_AT process_NN1 of_IO link_NN1 search_NN1 and_CC dictionary_NN1 search_NN1 ._. 
+</s>
+<s>
+To_TO facilitate_VVI the_AT search_NN1 ,_, we_PPIS2 put_VV0 all_DB of_IO the_AT words_NN2 searched_VVN in_II the_AT dictionary_NN1 together_RL with_IW their_APPGE word_NN1 sense_NN1 codings_NN2 in_II a_AT1 link_NN1 ._. 
+</s>
+<s>
+The_AT structure_NN1 of_IO the_AT link_NN1 is_VBZ as_CSA follows_VVZ :_: We_PPIS2 can_VM further_RRR illustrate_VVI this_DD1 process_NN1 as_CSA follows_VVZ :_: The_AT technical_JJ process_NN1 of_IO this_DD1 word_NN1 sense_NN1 label_NN1 assignment_NN1 is_VBZ made_VVN up_RP of_IO three_MC steps_NN2 :_: 1_MC1 )_) Read_VVD in_II a_AT1 Chinese_JJ word_NN1 2_MC )_) Search_VV0 in_II the_AT link_NN1 ,_, if_CS information_NN1 about_II that_DD1 word_NN1 is_VBZ found_VVN there_RL ,_, then_RT use_VV0 the_AT information_NN1 do_VD0 the_AT tagging_NN1 and_CC get_VV0 the_AT output_NN1 ._. 
+</s>
+<s>
+When_CS this_DD1 is_VBZ over_RP ,_, go_VV0 back_RP to_II the_AT first_MD step_NN1 ._. 
+</s>
+<s>
+If_CS not_XX found_VVN ,_, then_RT go_VV0 to_TO step_VVI 3._MC 3_MC )_) Search_VV0 the_AT word_NN1 sense_NN1 information_NN1 in_II the_AT machine_NN1 readable_JJ dictionary_NN1 Thesaurus_NN1 ,_, if_CS found_VVN ,_, then_RT assign_VV0 all_DB of_IO its_APPGE word_NN1 senses_NN2 at_II the_AT output_NN1 ._. 
+</s>
+<s>
+If_CS not_XX found_VVN ,_, set_VVD the_AT word_NN1 sense_NN1 tagging_VVG to_II null_JJ and_CC then_RT go_VV0 to_TO step_VVI 1_MC1 ._. 
+</s>
+<s>
+We_PPIS2 mentioned_VVD earlier_RRR that_CST the_AT twelve_MC large_JJ upper-case_JJ letters_NN2 represent_VV0 twelve_MC semantic_JJ fields_NN2 that_CST word_NN1 senses_NN2 may_VM fall_VVI into_II ._. 
+</s>
+<s>
+"_" Thesaurus_NN1 "_" does_VDZ not_XX group_NN1 words_NN2 under_II the_AT name_NN1 of_IO POS_NN2 ,_, but_CCB by_II investigating_VVG into_II "_" Thesaurus_NN1 "_" and_CC comparing_VVG it_PPH1 with_IW "_" Modern_JJ Chinese_JJ Dictionary_NN1 "_" ,_, we_PPIS2 can_VM see_VVI the_AT correspondence_NN1 between_II word_NN1 sense_NN1 and_CC POS_NN2 as_CSA shown_VVN in_II Table_NN1 3_MC :_: We_PPIS2 can_VM see_VVI that_CST there_EX are_VBR strong_JJ relation_NN1 between_II word_NN1 sense_NN1 tagging_VVG and_CC POS_NN2 tagging_VVG ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, A_ZZ1 ,_, B_ZZ1 and_CC D_ZZ1 in_II "_" thesaurus_NN1 "_" are_VBR mostly_RR noun_NN1 ._. 
+</s>
+<s>
+This_DD1 correspondence_NN1 relation_NN1 is_VBZ very_RG useful_JJ for_IF WSD_NP1 improvement_NN1 ._. 
+</s>
+<s>
+Given_VVN the_AT correspondence_NN1 relation_NN1 between_II the_AT POS_NN2 and_CC word_NN1 sense_NN1 ,_, the_AT last_MD step_NN1 of_IO your_APPGE method_NN1 is_VBZ :_: Cross_VV0 out_RP all_DB of_IO the_AT word_NN1 senses_VVZ that_CST are_VBR not_XX included_VVN in_II the_AT correspondence_NN1 list_NN1 of_IO the_AT specific_JJ tagged_JJ POS_NN2 pi_NN1 of_IO that_DD1 word_NN1 ._. 
+</s>
+<s>
+And_CC for_IF some_DD words_NN2 ,_, if_CS the_AT results_NN2 are_VBR null_JJ ,_, then_RT just_RR keep_VV0 the_AT original_JJ word_NN1 sense_NN1 tagging_NN1 in_BCL21 order_BCL22 to_TO guarantee_VVI the_AT reliability_NN1 of_IO the_AT final_JJ accuracy_NN1 of_IO the_AT WSD_NP1 ._. 
+</s>
+<s>
+By_II this_DD1 final_JJ step_NN1 ,_, we_PPIS2 are_VBR descreasing_VVG the_AT average_NN1 sensed_VVN of_IO the_AT words_NN2 in_II the_AT text_NN1 to_II a_AT1 noticeable_JJ extent_NN1 and_CC hence_RR improve_VV0 the_AT WSD_NP1 performance_NN1 ._. 
+</s>
+<s>
+We_PPIS2 are_VBR expecting_VVG that_CST the_AT application_NN1 of_IO our_APPGE approach_NN1 at_II the_AT first_MD step_NN1 of_IO WSD_NP1 will_VM decrease_VVI the_AT average_JJ sense_NN1 numbers_NN2 of_IO the_AT words_NN2 in_II a_AT1 given_JJ text_NN1 ._. 
+</s>
+<s>
+For_IF the_AT sake_NN1 of_IO time_NNT1 ,_, we_PPIS2 tested_VVD our_APPGE approach_NN1 manually_RR on_II one_MC1 news_NN1 article_NN1 from_II bbs.mit.edu_NNU ._. 
+</s>
+<s>
+If_CS the_AT ambiguities_NN2 are_VBR well_RR decreased_VVN by_II our_APPGE approach_NN1 for_IF this_DD1 article_NN1 ,_, we_PPIS2 have_VH0 good_JJ reasons_NN2 to_TO believe_VVI that_CST this_DD1 approach_NN1 will_VM improve_VVI Chinese_JJ WSD_NP1 to_II a_AT1 considerable_JJ extent_NN1 ._. 
+</s>
+<s>
+And_CC the_AT advantage_NN1 of_IO this_DD1 approach_NN1 is_VBZ that_CST it_PPH1 is_VBZ easy_JJ to_TO apply_VVI and_CC can_VM be_VBI freely_RR combined_VVN with_IW any_DD other_JJ WSD_NP1 algorithms_NN2 ._. 
+</s>
+<s>
+We_PPIS2 segmented_VVD and_CC tagged_VVD the_AT news_NN1 article_NN1 using_VVG segmentation_NN1 and_CC tagging_VVG system_NN1 developed_VVN by_II the_AT Institute_NN1 of_IO Computational_JJ Linguistics_NN1 of_IO Peking_NP1 University_NN1 ,_, flowing_VVG is_VBZ the_AT output_NN1 of_IO the_AT tagging_NN1 :_: We_PPIS2 can_VM see_VVI that_CST before_CS this_DD1 dynamic_JJ POS-tagging-learned_NN2 WSD_NP1 ,_, there_EX are_VBR 118_MC words_NN2 in_II the_AT text_NN1 with_IW 225_MC large_JJ semantic_JJ categories_NN2 represented_VVN by_II the_AT 12_MC upper-case_JJ letters_NN2 ,_, 266_MC medium_JJ categories_NN2 and_CC 296_MC small_JJ categories_NN2 ._. 
+</s>
+<s>
+Before_CS WSD_NP1 ,_, there_EX are_VBR 37_MC mono-big-sense_JJ words_NN2 ,_, 34_MC mono-medium_JJ sense_NN1 words_NN2 and_CC 34_MC mono-small-sense_JJ words_NN2 ._. 
+</s>
+<s>
+After_CS WSD_NP1 ,_, there_EX are_VBR 166_MC large_JJ semantic_JJ categories_NN2 ,_, 191_MC medium_JJ categories_NN2 and_CC 207_MC small_JJ categories_NN2 ._. 
+</s>
+<s>
+And_CC after_II WSD_NP1 ,_, there_EX are_VBR 63_MC mono-large-sense_JJ words_NN2 ,_, 57_MC mono-medium-sense_JJ words_NN2 and_CC 62_MC mono-small-sense_JJ words_NN2 ._. 
+</s>
+<s>
+We_PPIS2 can_VM see_VVI from_II the_AT following_JJ table_NN1 that_CST the_AT average_JJ sense_NN1 number_NN1 is_VBZ greatly_RR decreased_VVN because_II21 of_II22 the_AT WSD_NP1 ._. 
+</s>

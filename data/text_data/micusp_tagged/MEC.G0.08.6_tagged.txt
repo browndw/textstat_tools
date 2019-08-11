@@ -1,0 +1,258 @@
+<s>
+Well-modeled_JJ heat_NN1 transfer_NN1 models_NN2 are_VBR required_VVN to_TO prevent_VVI microprocessor_NN1 failure_NN1 ._. 
+</s>
+<s>
+To_TO find_VVI how_RRQ a_AT1 microchip_NN1 's_GE heat_NN1 transfer_NN1 and_CC resistance_NN1 vary_VV0 with_IW changes_NN2 in_II temperature_NN1 ,_, we_PPIS2 conducted_VVD experiments_NN2 that_CST simulate_VV0 microprocessor_NN1 heating_NN1 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO this_DD1 report_NN1 is_VBZ to_TO find_VVI both_RR theoretical_JJ and_CC experimental_JJ values_NN2 of_IO the_AT thermal_JJ coefficient_NN1 of_IO our_APPGE chip_NN1 ,_, the_AT time_NNT1 constant_JJ to_TO reach_VVI steady_JJ state_NN1 temperature_NN1 ,_, the_AT chip-to-ambient_JJ resistance_NN1 (_( and_CC its_APPGE components_NN2 )_) ,_, and_CC then_RT to_TO develop_VVI a_AT1 heat_NN1 transfer_NN1 model_NN1 to_TO predict_VVI the_AT resistance_NN1 of_IO a_AT1 chip_NN1 to_II ambient_JJ air_NN1 as_II a_AT1 function_NN1 of_IO air_NN1 velocity_NN1 and_CC fin_NN1 length_NN1 ._. 
+</s>
+<s>
+Lastly_RR ,_, using_VVG our_APPGE data_NN and_CC knowledge_NN1 of_IO heat_NN1 transfer_NN1 ,_, we_PPIS2 would_VM like_VVI to_TO recommend_VVI different_JJ approaches_NN2 to_TO allow_VVI better_JJR cooling_NN1 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+(_( see_VV0 Appendix_NN1 A_ZZ1 on_II p._NNU 4_MC )_) In_II the_AT first_MD experiment_NN1 ,_, we_PPIS2 attempted_VVD to_TO calculate_VVI the_AT thermal_JJ coefficient_NN1 of_IO resistance_NN1 of_IO our_APPGE microprocessor_NN1 chip_NN1 (_( shown_VVN in_II Appendix_NN1 M_ZZ1 ,_, p._NN1 9_MC )_) by_II calibrating_VVG the_AT electrical_JJ resistance_NN1 of_IO the_AT sensor_NN1 on_II the_AT chip_NN1 as_II a_AT1 function_NN1 of_IO surface_NN1 temperature_NN1 ._. 
+</s>
+<s>
+The_AT chip_NN1 was_VBDZ fixed_VVN to_II a_AT1 hot_JJ plate_NN1 using_VVG thermal_JJ grease_NN1 and_CC electrical_JJ resistance_NN1 was_VBDZ measured_VVN using_VVG the_AT '4-point_JJ probe_NN1 method'_NN1 ._. 
+</s>
+<s>
+Surface_NN1 temperature_NN1 was_VBDZ measured_VVN using_VVG an_AT1 Omega_NN1 HHI2_FO thermocouple_NN1 ,_, placed_VVN on_II the_AT resistor_NN1 pattern_NN1 by_II the_AT researchers_NN2 ._. 
+</s>
+<s>
+Initial_JJ chip_NN1 resistance_NN1 was_VBDZ found_VVN after_II applying_VVG a_AT1 voltage_NN1 of_IO VDC_NP1 100_MC mV_NNU ._. 
+</s>
+<s>
+The_AT resistance_NN1 was_VBDZ then_RT measured_VVN at_II a_AT1 temperature_NN1 range_NN1 of_IO 30_MC C_NNU to_II 120_MC C_NP1 ,_, since_CS we_PPIS2 did_VDD not_XX want_VVI to_TO reach_VVI 150_MC C_NP1 ,_, the_AT estimated_JJ failure_NN1 temperature_NN1 of_IO the_AT chip_NN1 ._. 
+</s>
+<s>
+Because_II21 of_II22 the_AT unsatisfactory_JJ results_NN2 ,_, we_PPIS2 redesigned_VVD our_APPGE test_NN1 procedures_NN2 ._. 
+</s>
+<s>
+Our_APPGE improved_JJ test_NN1 setup_NN1 used_VVD an_AT1 integrated_JJ circuit_NN1 packaging_NN1 which_DDQ had_VHD mechanical_JJ support_NN1 ,_, electrical_JJ shielding_NN1 ,_, and_CC permanent_JJ connection_NN1 of_IO leads_NN2 for_IF robustness_NN1 ._. 
+</s>
+<s>
+Appendix_NN1 K_ZZ1 on_II p._NNU 9_MC shows_VVZ a_AT1 photo_NN1 of_IO the_AT setup_NN1 and_CC equipment_NN1 used_VVD ._. 
+</s>
+<s>
+We_PPIS2 repeated_VVD the_AT procedure_NN1 in_II Experiment_NN1 1with_FO a_AT1 smaller_JJR range_NN1 of_IO 22_MC C_ZZ1 and_CC a_AT1 smaller_JJR maximum_JJ temperature_NN1 to_TO avoid_VVI damaging_VVG the_AT chip_NN1 ._. 
+</s>
+<s>
+In_II Experiment_NN1 3_MC ,_, we_PPIS2 applied_VVD voltages_NN2 to_II the_AT on-chip_JJ resistor_NN1 pattern_NN1 ranging_VVG from_II 5_MC to_II 25V_NNU in_II increments_NN2 of_IO 5V_NNU and_CC determined_VVD the_AT surface_NN1 temperature_NN1 of_IO the_AT chip_NN1 by_II measuring_VVG its_APPGE current_JJ draw_NN1 ._. 
+</s>
+<s>
+The_AT heat-sink_JJ temperature_NN1 was_VBDZ measured_VVN using_VVG our_APPGE thermocouple_NN1 ._. 
+</s>
+<s>
+We_PPIS2 collected_VVD data_NN from_II three_MC trials_NN2 ._. 
+</s>
+<s>
+In_II the_AT last_MD experiment_NN1 ,_, we_PPIS2 tested_VVD our_APPGE chip_NN1 with_IW an_AT1 Alpha_NN1 Novatech_NN1 S-1530_MC 20W_NNU heat-sink_NN1 (_( cut_VV0 in_II quarters_NN2 )_) in_II a_AT1 model_NN1 wind_NN1 tunnel_NN1 (_( Appendix_NN1 J_ZZ1 ,_, p._NN1 8_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 measured_VVD different_JJ flow_NN1 rates_NN2 using_VVG an_AT1 anemometer_NN1 by_II varying_VVG the_AT voltage_NN1 ,_, from_II 6V_NNU to_II 12V_NNU in_II increments_NN2 of_IO 2V_NNU ,_, supplied_VVN to_II the_AT fan_NN1 and_CC measured_VVN corresponding_JJ current_JJ ._. 
+</s>
+<s>
+We_PPIS2 then_RT theoretically_RR estimated_VVD the_AT chip_NN1 temperature_NN1 ,_, Tchip_VV0 using_VVG results_NN2 from_II Experiment_NN1 2_MC when_RRQ the_AT chip_NN1 was_VBDZ held_VVN at_II voltages_NN2 of_IO 9.71_MC ,_, 14.55_MC and_CC 19.41V_NNU ._. 
+</s>
+<s>
+We_PPIS2 calibrated_VVD the_AT air_NN1 velocity_NN1 V_ZZ1 as_II a_AT1 function_NN1 of_IO power_NN1 input_NN1 to_II the_AT cooling_JJ fan_NN1 ._. 
+</s>
+<s>
+From_II Experiment_NN1 1_MC1 we_PPIS2 assumed_VVD a_AT1 proportional_JJ fractional_JJ change_NN1 in_II resistance_NN1 to_II the_AT temperature_NN1 change_NN1 by_II a_AT1 coefficient_NN1 ,_, ,_, as_CSA shown_VVN in_II Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 ._. 
+</s>
+<s>
+Using_VVG Eq_NN1 ._. 
+</s>
+<s>
+1_MC1 our_APPGE calculated_JJ had_VHD large_JJ errors_NN2 and_CC inconsistencies_NN2 between_II data_NN sets_NN2 ,_, and_CC was_VBDZ considered_VVN to_TO be_VBI skewed_VVN ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO Experiment_NN1 1_MC1 are_VBR shown_VVN in_II appendix_NN1 C_ZZ1 on_II p._NNU 6_MC ._. 
+</s>
+<s>
+From_II Experiment_NN1 2_MC ,_, with_IW the_AT ceramic_JJ wire-bonded_JJ chip_NN1 packaging_NN1 ,_, our_APPGE initial_JJ resistance_NN1 value_NN1 was_VBDZ 291.78_MC 0.02_MC at_II 22_MC C_ZZ1 and_CC was_VBDZ 0.00283_MC 0.00035_MC 1/C_FU ._. 
+</s>
+<s>
+Using_VVG Eq_NN1 ._. 
+</s>
+<s>
+2_MC ,_, where_CS i_ZZ1 represents_VVZ each_DD1 trial_NN1 and_CC is_VBZ the_AT mean_NN1 of_IO all_DB the_AT i_ZZ1 ,_, we_PPIS2 found_VVD =_FO 0.003437_MC 0.00085_MC 1/C_FU ._. 
+</s>
+<s>
+The_AT plot_NN1 of_IO R_ZZ1 vs_II ._. 
+</s>
+<s>
+T_ZZ1 is_VBZ shown_VVN in_II Appendix_NN1 D_ZZ1 on_II p._NNU 6_MC ._. 
+</s>
+<s>
+Heat_NN1 transfer_NN1 and_CC the_AT resistance_NN1 from_II the_AT chip_NN1 to_II the_AT heat-sink_NN1 was_VBDZ calculated_VVN using_VVG Eqs._NP1 3_MC and_CC 4_MC ._. 
+</s>
+<s>
+We_PPIS2 found_VVD Rchip-to-heat-sink_NP1 was_VBDZ 9.986_MC 1.154_MC W/K_NP1 ._. 
+</s>
+<s>
+Heat_NN1 transfer_NN1 vs_II ._. 
+</s>
+<s>
+T_ZZ1 is_VBZ plotted_VVN in_II Appendix_NN1 E_ZZ1 on_II p._NNU 7_MC ._. 
+</s>
+<s>
+To_TO determine_VVI the_AT time_NNT1 constant_JJ for_IF the_AT chip_NN1 to_TO reach_VVI steady_JJ state_NN1 temperature_NN1 we_PPIS2 used_VVD Eq_NN1 ._. 
+</s>
+<s>
+5._MC where_RRQ Cpackaging_NP1 is_VBZ the_AT capacitance_NN1 of_IO the_AT ceramic_NN1 (_( Appendix_NN1 B_ZZ1 ,_, p._NN1 5_MC )_) ._. 
+</s>
+<s>
+Experimentally_RR ,_, the_AT time_NNT1 constant_NN1 was_VBDZ 4.62_MC 0.53_MC s_ZZ1 ,_, which_DDQ was_VBDZ calculated_VVN using_VVG the_AT experimental_JJ resistance_NN1 value_NN1 and_CC the_AT theoretical_JJ capacitance_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ close_JJ to_II the_AT theoretical_JJ value_NN1 of_IO =_FO 3.95_MC s_ZZ1 ._. 
+</s>
+<s>
+Our_APPGE theoretical_JJ calculation_NN1 for_IF the_AT chip-to-ambient_JJ resistance_NN1 was_VBDZ modeled_VVN as_II a_AT1 sum_NN1 of_IO the_AT resistance_NN1 from_II the_AT conduction_NN1 in_II the_AT chip_NN1 (_( silicon_NN1 )_) the_AT contact_NN1 resistance_NN1 from_II the_AT silicon_NN1 to_II the_AT aluminum_NN1 ,_, the_AT resistance_NN1 from_II the_AT conduction_NN1 in_II the_AT base_NN1 of_IO the_AT aluminum_NN1 heat-sink_NN1 ,_, and_CC the_AT equivalent_JJ resistance_NN1 of_IO the_AT convection_NN1 from_II both_DB2 the_AT base_NN1 top_NN1 surface_NN1 and_CC the_AT fins_NN2 of_IO the_AT heat-sink_NN1 ._. 
+</s>
+<s>
+For_IF the_AT contact_NN1 resistance_NN1 ,_, we_PPIS2 used_VVD the_AT top_JJ surface_NN1 area_NN1 of_IO the_AT chip_NN1 ,_, which_DDQ was_VBDZ less_RRR than_CSN the_AT heat-sink_JJ base_NN1 area_NN1 ,_, and_CC a_AT1 contact_NN1 resistance_NN1 given_VVN in_II Appendix_NN1 F_ZZ1 on_II p._NNU 7_MC ._. 
+</s>
+<s>
+For_IF modeling_VVG the_AT resistance_NN1 of_IO the_AT heat-sink_NN1 ,_, we_PPIS2 approximated_VVD the_AT fins_NN2 as_CSA cylinders_NN2 because_CS we_PPIS2 were_VBDR unable_JK to_TO find_VVI square_JJ geometry_NN1 constants_NN2 at_II the_AT tested_JJ Reynolds_NP1 numbers_NN2 for_IF use_NN1 in_II calculating_VVG Nusselt_NN1 number_NN1 Nu_NN1 using_VVG the_AT Hilpert_NN1 correlation_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+Also_RR ,_, because_CS our_APPGE chip_NN1 had_VHD fewer_DAR than_CSN 20_MC fins_NN2 ,_, we_PPIS2 multiplied_VVD Nu_NN1 by_II a_AT1 correction_NN1 factor_NN1 C_ZZ1 ,_, as_CSA shown_VVN in_II Eq_NN1 ._. 
+</s>
+<s>
+6_MC ._. 
+</s>
+<s>
+The_AT electrical_JJ circuit_NN1 diagram_NN1 of_IO the_AT system_NN1 can_VM be_VBI seen_VVN in_II Appendix_NN1 H_ZZ1 on_II p_ZZ1 ._. 
+</s>
+<s>
+X_ZZ1 (_( all_DB physical_JJ constants_NN2 and_CC coefficients_NN2 used_VVN are_VBR given_VVN in_II Appendix_NN1 A_ZZ1 on_II p_ZZ1 ._. 
+</s>
+<s>
+X_ZZ1 )_) ._. 
+</s>
+<s>
+Reynolds_NP1 number_NN1 ReD_NN1 was_VBDZ calculated_VVN using_VVG Eq_NN1 ._. 
+</s>
+<s>
+7_MC below_RL ._. 
+</s>
+<s>
+where_CS uf_NN1 ,_, is_VBZ the_AT maximum_JJ velocity_NN1 between_II the_AT fin_NN1 cylinders_NN2 ._. 
+</s>
+<s>
+From_II Eq_NN1 ._. 
+</s>
+<s>
+5_MC we_PPIS2 were_VBDR able_JK to_TO find_VVI conduction_NN1 coefficients_NN2 ,_, the_AT heat-sink_JJ total_JJ efficiency_NN1 ,_, and_CC ultimately_RR the_AT heat-sink_JJ resistance_NN1 ._. 
+</s>
+<s>
+The_AT resistance_NN1 values_NN2 are_VBR summarized_VVN in_II Appendix_NN1 F_ZZ1 on_II p._NNU 7_MC ._. 
+</s>
+<s>
+Using_VVG our_APPGE data_NN from_II Experiment_NN1 4_MC ,_, we_PPIS2 used_VVD the_AT divided_JJ T_ZZ1 by_II QH_NP1 to_TO solve_VVI for_IF Rchip-to-ambient_NP1 ._. 
+</s>
+<s>
+In_II Fig._NN1 1_MC1 we_PPIS2 plot_VV0 the_AT Rchip-to-ambient_NP1 vs._II air_NN1 velocity_NN1 for_IF both_DB2 our_APPGE theoretical_JJ calculations_NN2 and_CC measurements_NN2 from_II Experiment_NN1 4_MC at_II chip_NN1 voltages_NN2 of_IO 9.71_MC ,_, 14.55_MC and_CC 19.41V_NNU ._. 
+</s>
+<s>
+The_AT experimental_JJ data_NN follows_VVZ the_AT same_DA trend_NN1 as_CSA the_AT theoretical_JJ data_NN as_II31 well_II32 as_II33 the_AT manufacturer_NN1 's_GE data_NN for_IF the_AT resistance_NN1 of_IO the_AT heat-sink_JJ alone_JJ (_( 2_MC )_) ._. 
+</s>
+<s>
+For_IF the_AT range_NN1 of_IO tested_JJ velocities_NN2 ,_, the_AT percent_NNU error_NN1 of_IO our_APPGE experimental_JJ versus_II theoretical_JJ resistances_NN2 never_RR exceeded_VVN 12.5%_FO ._. 
+</s>
+<s>
+In_II our_APPGE plot_NN1 ,_, uncertainty_NN1 is_VBZ due_II21 to_II22 error_NN1 in_II measurements_NN2 of_IO current_JJ and_CC voltage_NN1 and_CC to_II resolution_NN1 and_CC precision_NN1 error_NN1 in_II the_AT anemometer_JJR readings_NN2 ._. 
+</s>
+<s>
+Assuming_VVG fatal_JJ failure_NN1 occurs_VVZ at_II a_AT1 chip_NN1 temperature_NN1 Tchip_NN1 =_FO 150_MC C_NP1 ,_, we_PPIS2 calculated_VVD maximum_JJ allowable_JJ chip_NN1 heat_NN1 exchange_NN1 for_IF our_APPGE tested_JJ velocities_NN2 using_VVG Eq_NN1 ._. 
+</s>
+<s>
+6_MC ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR shown_VVN in_II Table_NN1 1_MC1 ._. 
+</s>
+<s>
+As_CSA expected_VVN ,_, maximum_JJ allowable_JJ chip_NN1 power_NN1 QHmax_NN1 increases_VVZ with_IW increasing_JJ air_NN1 velocity_NN1 ._. 
+</s>
+<s>
+(_( Eq_NN1 ._. 
+</s>
+<s>
+6_MC )_) The_AT alpha_NN1 obtained_VVN from_II experiment_NN1 2_MC was_VBDZ more_RGR accurate_JJ than_CSN from_II experiment_NN1 1_MC1 because_CS we_PPIS2 used_VVD a_AT1 proper_JJ 4-point_JJ probe_NN1 setup_NN1 ._. 
+</s>
+<s>
+This_DD1 decreased_VVD the_AT parasitic_JJ resistance_NN1 ,_, therefore_RR lowering_VVG the_AT initial_NN1 and_CC measured_JJ resistance_NN1 ._. 
+</s>
+<s>
+More_RGR importantly_RR ,_, we_PPIS2 obtained_VVD the_AT data_NN without_IW damaging_VVG the_AT chip_NN1 ._. 
+</s>
+<s>
+In_II experiment_NN1 1_MC1 ,_, we_PPIS2 scratched_VVD the_AT surface_NN1 of_IO the_AT resistor_NN1 of_IO the_AT chip_NN1 we_PPIS2 were_VBDR measuring_VVG ,_, sometimes_RT so_RG severely_RR that_CST the_AT resistance_NN1 would_VM increase_VVI dramatically_RR between_II different_JJ attempts_NN2 at_II the_AT same_DA temperature_NN1 ._. 
+</s>
+<s>
+The_AT large_JJ temperature_NN1 range_NN1 also_RR contributed_VVD the_AT larger_JJR discrepancies_NN2 from_II the_AT linear_JJ model_NN1 we_PPIS2 were_VBDR attempting_VVG to_TO validate_VVI ._. 
+</s>
+<s>
+We_PPIS2 found_VVD the_AT best_JJT alpha_NN1 value_NN1 for_IF the_AT second_MD experiment_NN1 using_VVG the_AT normalized_JJ slope_NN1 of_IO R_ZZ1 vs_II ._. 
+</s>
+<s>
+T_ZZ1 as_CSA it_PPH1 produced_VVD the_AT smallest_JJT error_NN1 ._. 
+</s>
+<s>
+The_AT theoretical_JJ time_NNT1 constant_NN1 ,_, =_FO 3.95_MC s_ZZ1 ,_, was_VBDZ smaller_JJR than_CSN the_AT experimental_JJ value_NN1 ,_, 4.62_MC 0.53_MC s_ZZ1 ,_, possibly_RR because_CS the_AT ceramic_JJ volume_NN1 used_VMK to_TO calculate_VVI ceramic_JJ resistance_NN1 was_VBDZ estimated_VVN as_CSA that_DD1 beneath_II the_AT chip_NN1 ._. 
+</s>
+<s>
+The_AT experimental_JJ resistance_NN1 was_VBDZ also_RR higher_JJR than_CSN the_AT theoretical_JJ one_PN1 which_DDQ could_VM contribute_VVI to_II the_AT larger_JJR experimental_JJ time_NNT1 constant_NN1 ._. 
+</s>
+<s>
+They_PPHS2 were_VBDR within_II 17%_NNU of_IO each_PPX221 other_PPX222 ,_, which_DDQ was_VBDZ considered_VVN satisfactory_JJ ._. 
+</s>
+<s>
+Our_APPGE theoretical_JJ results_NN2 imply_VV0 a_AT1 required_JJ time_NNT1 of_IO 20_MC s_ZZ1 to_TO reach_VVI 99%_NNU of_IO steady_JJ state_NN1 ._. 
+</s>
+<s>
+We_PPIS2 may_VM not_XX have_VHI waited_VVN this_DD1 long_JJ during_II the_AT experiment_NN1 ,_, which_DDQ may_VM have_VHI added_VVN error_NN1 to_II our_APPGE results_NN2 ._. 
+</s>
+<s>
+We_PPIS2 were_VBDR able_JK to_TO develop_VVI a_AT1 heat_NN1 transfer_NN1 model_NN1 which_DDQ could_VM predict_VVI Rchip-to-ambient_NP1 for_IF a_AT1 given_JJ air_NN1 velocity_NN1 with_IW increasing_JJ accuracy_NN1 as_II the_AT velocity_NN1 is_VBZ increased_VVN ._. 
+</s>
+<s>
+Our_APPGE experimental_JJ and_CC theoretical_JJ calculations_NN2 for_IF Rchip-to-ambient_NP1 vs_II ._. 
+</s>
+<s>
+V_ZZ1 are_VBR closely_RR related_VVN quantitatively_RR and_CC in_II trend_NN1 ,_, showing_VVG the_AT validity_NN1 of_IO our_APPGE model_NN1 ._. 
+</s>
+<s>
+They_PPHS2 also_RR agree_VV0 with_IW the_AT trend_NN1 given_VVN by_II the_AT manufacturer_NN1 :_: as_II the_AT air_NN1 velocity_NN1 is_VBZ increased_VVN ,_, so_RR does_VDZ the_AT maximum_JJ allowable_JJ chip_NN1 power_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ valid_JJ as_CSA increased_JJ velocities_NN2 would_VM increase_VVI heat_NN1 dissipation_NN1 from_II the_AT heat_NN1 sink_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, it_PPH1 was_VBDZ not_XX surprising_JJ that_CST the_AT experimental_JJ resistances_NN2 were_VBDR slightly_RR higher_JJR than_CSN the_AT theoretical_JJ calculations_NN2 which_DDQ could_VM be_VBI manufacturing_VVG inconsistencies_NN2 ._. 
+</s>
+<s>
+It_PPH1 appears_VVZ that_CST the_AT resistance_NN1 of_IO the_AT total_JJ system_NN1 was_VBDZ not_XX dependent_JJ on_II the_AT chip_NN1 voltage_NN1 ,_, which_DDQ makes_VVZ sense_NN1 physically_RR ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO our_APPGE experimental_JJ and_CC theoretical_JJ calculations_NN2 for_IF the_AT S1530_FO 20W_NNU heat-sink_NN1 have_VH0 close_JJ agreement_NN1 and_CC we_PPIS2 have_VH0 calculated_VVN maximum_JJ heat_NN1 transfers_NN2 to_TO prevent_VVI failure_NN1 versus_II velocity_NN1 (_( Table_NN1 2_MC on_II p._NNU 4_MC )_) ._. 
+</s>
+<s>
+For_IF increased_JJ chip_NN1 cooling_VVG ,_, resistance_NN1 can_VM be_VBI lowered_VVN by_II increasing_VVG the_AT fin_NN1 length_NN1 and/or_CC spacing_NN1 ,_, increasing_VVG the_AT profile_NN1 area_NN1 ,_, or_CC use_NN1 of_IO a_AT1 higher_JJR conductivity_NN1 fin_NN1 material_NN1 ,_, such_II21 as_II22 copper_NN1 or_CC graphite_NN1 (_( 4_MC )_) ._. 
+</s>
+<s>
+Our_APPGE studies_NN2 show_VV0 that_CST there_EX is_VBZ a_AT1 threshold_NN1 length_NN1 of_IO 120_MC mm_NNU beyond_II which_DDQ increasing_JJ fin_NN1 length_NN1 does_VDZ not_XX help_VVI (_( see_VV0 Appendix_NN1 L_ZZ1 on_II p._NNU 10_MC )_) ._. 
+</s>
+<s>
+Enhanced_JJ convection_NN1 from_II a_AT1 faster_JJR or_CC nearer_JJR fan_NN1 or_CC liquid_JJ cooling_NN1 can_VM also_RR help_VVI ._. 
+</s>
+<s>
+Other_JJ options_NN2 include_VV0 refrigeration/solid-state_NN1 refrigeration_NN1 if_CS packaging_NN1 space_NN1 is_VBZ not_XX a_AT1 limiting_JJ factor_NN1 ._. 
+</s>

@@ -1,0 +1,59 @@
+Quantum dots are nanometer-sized particles or islands of a semiconductor material embedded in another semiconductor material. They have electronic properties different from that of the bulk due to quantum confinement, and thus hold a promise for nanotechnology applications such as LED's, detectors, data memory devices, lasers, and single electron transistors. However, fabricating a regular, perfectly aligned dot structure is still a challenging issue. Rather than using an accurate positioning device, such as a focused ion beam, it is preferable to use the technique of self-organizing/assembling growth via a strain relaxation mechanism. This is done by depositing the vapor of a material onto a substrate made of a material with a different lattice parameter. It is found experimentally in many material systems that heteroepitaxial growth results in spontaneous self-organization and assembly of islands. [1,2]
+The driving force for the quantum dot formation is the reduction of the total energy with a contribution from the elastic strain energy. The elastic strain arises by the lattice misfit between the film and the substrate material. Initially, the combination of the surface/interfacial energies and the strain energy are such that the system favors wetting. Therefore, the film material forms a flat wetting layer over the substrate. As the film material is deposited, the thickness of the film increases and the strain relaxation mechanism will result in island formation, despite an increase in the surface energy. At the early stage of surface roughening, the material is more relaxed at the crest than at the valley. In other words, the area at the crest has a lower chemical potential. Consequently, the film material diffuses from the valley to the crest, which eventually leads to island formation.[3]
+In this project, we examine the formation of quantum dots by employing the finite element method formulated by Ref. 4, 5.
+Based on method developed by Ref. 4 and Ref. 5 and Ref. 6, we used the model for surface diffusion and evaporation/condensation. The weak statement can be written as
+where J is the mass flux, I is the mass displacement, M is the mobility of atom on the surface, j is the volume of matter added per unit area of the solid surface per unit time, i is the volume of matter added per unit area and m is the evaporation-condensation rate, and δ G is the energy change due to matter relocation and exchange on the surface. The first term in the integral associates with surface diffusion and the second term associates with the condensation/evaporation process.
+The quantity δ G can be obtained from the free energy consideration. Here we consider a) the surface energy, γ s , b) the elastic energy, w, due to a misfit between the film and the substrate, and c) free energy per unit volume of atoms in a bulk solid phase, g, to model deposition from the vapor phase. The expression
+where l is the length of the surface, δ rn is the normal displacement of the surface.
+Fig. 1 shows one element, with two nodes at the positions (x1 target="fn1"/>, y1) and (x2, y2). The element has length 1 and slope θ , which relate to the nodal positions by the expression
+with the linear interpolation coefficients being
+Also for velocity,
+However, for flux,
+where J1, J2 and Jm, are the fluxes at the two nodes and the mid-point of the element, respectively, we used the quadratic interpolation coefficients,
+(7)
+Writing the position and mass displacement in a column matrix δ q and the velocity and mass flux in a column matrix q'.
+We can write the integral Eq. 1 as
+where
+where we have used the shorthand notation
+Since we need velocities for more than one element, we have to generate global H matrix, which is diagonal and includes matrix for each element. And it also has overlapped part for the same node of two adjacent elements. Here is the part of MATLAB code for global matrix.
+The equation (2) can be express in term of force on the element
+where
+Equating Eq. 10 and Eq. 12 yields
+This equation is a set of linear algebraic equation for the generalized velocities. We use Matlab to solve for the velocity matrix. Note that taking an inverse of H is not possible since H is close to being a singular matrix. One way of suppressing the singularity is to add a small mass to the diagonal term of H matrix. In our program we use the command "psudoinverse", which also suppresses the singularity.
+Once solved, the nodal velocities can be used to update the nodal positions. Here we use Euler method for time evolution
+where xn is the current position and xn+1 is the new position. The accuracy of this method depends on the magnitude of time step. Since Euler method is an explicit method, the magnitude of time step has to be small compared with the magnitude of l. In our simulation we have dt/l =0.1.
+Calculating w can be a cumbersome task. Here, we use a finite element package, Abaqus, to automatically calculate w. We use Matlab as a main program to evolve the morphology and only call Abaqus when strain energy calculation is required.
+We model the effect of the misfit as a constant force applied at the edge of the film. This is equivalent to a film on a stiff and infinitely large substrate. This assumption is reasonable when the substrate is much thicker than the film.
+The workflow is as followed.
+a) Matlab generates initial positions of the nodes on the surface and write the data to a position-file.
+b) Matlab automatically calls a DOS batch file. In this batch file, Abaqus was called to read the position-file and a pre-programmed input file. It then generates meshes over the entire domain and, with specified boundary force, calculates the strain energy. Note that we add additional two 10 ×10 grids on both sides of the film so that the area of interest is far from the boundary. This avoids error due to edge effect.
+c) Abaqus then writes the strain energy associated with the nodes in the surface to the data file.
+d) Matlab reads the data file and evolves the node on the surface and write the updated nodal position to the new position-file.
+e) Repeat step b)
+In our simulation we didn't need to recalculate the strain energy density at every time step. If the position doesn't change too much, the strain energy from the previous step is still valid. We found that calculate strain energy at every 10 time steps is a compromise between speed and accuracy.
+The command for Matlab to call batch file is:
+system('callabaq.bat')
+The command in the batch file to call Abaqus is:
+where elasden.inp is the name of the pre-programmed input file.
+From Eq. 2, we have four contributions to the reduction of the free energy, which are surface energy, evaporation/condensation, elastic strain energy, and bulk free energy. Therefore, we would like to study each effect separately and we can combine them to simulate the quantum dot.
+To achieve this, we set the coefficient in front of term of interest in Eq. 13 to be non zero while multiplying other term with zero. However, to suppress the effect of evaporation-condensation, we have to further set
+In this simulation, we studied the effect of the surface energy. We set the initial perturbation,
+Fig. 3 shows that with only surface energy contribution, the lowest energy state is the flat film. This is expected because the flat film has the lower surface area.
+In this simulation, we study the effect of stress by setting the perturbation,
+From Fig. 4, the surface moves down almost uniformly. There exist a small amplitude increase but it is small and we are not sure whether this is due to the numerical error.
+The face that the surface moves down is reasonable. When including stress, the energy of atoms in the solid becomes higher relative to that in the environment. Therefore, evaporation becomes more significant.
+In this simulation, we study the competition between stress and surface tension contributions. We used the same initial surface profile with both misfit and surface tension term non-zero. We set g = 0 .
+Fig. 5. Shows that the surface moves downward as well as reduce the amplitude, which come from stress effect and surface tension effect, respectively.
+The remaining parameter is the bulk free energy, g. We use the same surface profile while setting the surface tension and stress contributions to zero. We experimented the value of g from negative to positive.
+Recalling Eq (2), the free energy variation can be written as:
+Because the free energy variation is associated with unit volume of solid grown on the surface, define a driving force:
+Then, if
+In this simulation, we increased the magnitude of stress contribution and adjust g to prevent phase change.
+Considering a dimensionless parameter which characterizing the relative significance of the elastic and surface energy:
+If we set s large enough, the stress effect will dominate the surface movement, the amplitude of surface will increase. In this simulation,
+If s is small enough, the surface tension dominate the surface movement, eventually, the surface will become flat. In this simulation,
+In experiments, quantum dots form by vapor depositing film material on the substrate. Any seemingly flat substrate is rough when looking at the atomic scale. Therefore, we would like to use simulate the quantum dot from a rough substrate. We introduce random perturbation on the surface and use the same parameter as that of the previous simulation.
+From Fig. 8, the amplitude of the surface increase, resulting in formation of 6 dots. The dots still look very rough since this is still very early in the evolution. Nevertheless, the simulation shows that the simulation of quantum dots is possible.
+We summarized the important contributions in each simulation in the table below.
+Table 1. Summary of significant contribution in each simulation
+We have employed the finite element method to study the contribution from the surface tension, the strain energy, and the bulk free energy as well as simulated quantum dot formation. With the surface tension dominating, the system will try to reduce the energy by reducing the surface area, which results in a flat surface. The role of the strain energy is to promote an increase in the amplitude of modulation. At the same time, the stress affects an evaporation rate, causing the surface to move downward. In order to simulate the quantum dot formation, the downward movement is counterbalanced by the bulk energy term which promotes the formation the solid phase from the vapor phase. We show that it is possible to simulate the quantum dot behavior although longer simulation time is needed.
