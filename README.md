@@ -15,7 +15,7 @@ For the purposes of this class, we will largely be using an R package called **q
 
 We are using quanteda because it handles metadata relatively well and doesn't rely on Java to do its tokenizing. It is also well documented:
 
-[https://quanteda.io/]()
+[https://quanteda.io/](https://quanteda.io/)
 
 However, it is a bit flabby. This shouldn't present much of a problem. However, you might want to mindful about installing and updating -- in the middle of a class activity probably not the best time.
 
