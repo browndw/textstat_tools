@@ -4,10 +4,10 @@
 # quanteda is a large package with text analysis functions (FYI it can be a bit
 # slow to load the first time!)
 #
-# ggplot2 is another popular package with data visualization functions
+# tidyverse is another popular package that includes ggplot2, which has important data visualization functions
 
 library(quanteda)
-library(ggplot2)
+library(tidyverse)
 
 # Let's begin by creating an object consisting of a character string. In this
 # case, the first sentence from _Sense and Sensibility_.
