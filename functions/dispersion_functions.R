@@ -15,7 +15,7 @@
 
 dispersions_token <- function(df_matrix, token) {
   
-  if (class(df_matrix) != "dfm") stop ("your target must be a quanteda tokens object")
+  if (class(df_matrix) != "dfm") stop ("your target must be a quanteda dfm object")
   if (class(token) != "character") stop ("your token must be a character string")
   
   #select the token counts from the dfm
@@ -83,7 +83,7 @@ dispersions_token <- function(df_matrix, token) {
 
 dispersions_all <- function(df_matrix) {
   
-  if (class(df_matrix) != "dfm") stop ("your target must be a quanteda tokens object")
+  if (class(df_matrix) != "dfm") stop ("your target must be a quanteda dfm object")
   #convert dfm to matrix object
   m <- as.matrix(df_matrix)
   #create a column index
