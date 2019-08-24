@@ -4,8 +4,11 @@
 # quanteda is a large package with text analysis functions (FYI it can be a bit
 # slow to load the first time!)
 #
+<<<<<<< HEAD
 # tidyverse is another popular package that includes ggplot2, 
 # which has important data visualization functions
+=======
+# tidyverse is another popular package that includes ggplot2, which has important data visualization functions
 
 library(quanteda)
 library(tidyverse)
