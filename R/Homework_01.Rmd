@@ -52,7 +52,7 @@ knitr::kable(token_counts[1:5, ], caption = 'A caption')
 
 ## Including Plots
 
-You can also embed tables. Here, for example, is a table of our token counts:
+Like tables, you can embed plots. Here is plot of token frequencies generated from the **token_counts** dataframe that we generated in the code chunk above. Note the **fig.cap** option is directed to a string in the code chunk called *my_cap*:
 ```{r, fig-chunk, echo=FALSE, fig.cap=my_cap, fig.align='left', fig.height=2.5}
 
 my_cap <- 'A caption'
