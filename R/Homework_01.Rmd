@@ -44,7 +44,7 @@ token_counts <- token_counts %>% mutate(freq_norm = frequency / sum(frequency))
 
 ## Including Tables
 
-You can also embed tables. Here, for example, is a table of our token counts:
+You can also embed tables. Here, for example, is a table of our token counts (rows 1-5):
 
 ```{r freq-table}
 knitr::kable(token_counts[1:5, ], caption = 'A caption')
@@ -52,8 +52,8 @@ knitr::kable(token_counts[1:5, ], caption = 'A caption')
 
 ## Including Plots
 
-Like tables, you can embed plots. Here is plot of token frequencies generated from the **token_counts** dataframe that we generated in the code chunk above. Note the **fig.cap** option is directed to a string in the code chunk called *my_cap*:
-```{r, fig-chunk, echo=FALSE, fig.cap=my_cap, fig.align='left', fig.height=2.5}
+Like tables, you can embed plots. Here is plot of token frequencies generated from the **token_counts** dataframe that we generated in the code chunk above:
+```{r, fig-chunk, echo=FALSE, fig.cap=my_cap, fig.align='left', fig.height=2.25}
 
 my_cap <- 'A caption'
 
@@ -61,6 +61,8 @@ ggplot(token_counts, aes(x = reorder(feature, freq_norm), y = freq_norm)) +
   geom_col() +
   coord_flip()
 ```
+
+Note the **fig.cap** option is directed to a string in the code chunk called *my_cap*.
 
 ## Your Homework
 
