@@ -139,7 +139,7 @@ View(token_counts)
 
 # Our graph will be very basic - we just want to plot the frequency of each
 # word, with words on the x axis and the frequency of each word on the y axis
-ggplot(token_counts, aes(x = feature, y = frequency)) + 
+ggplot(token_counts, aes(x = feature, y = freq_norm)) + 
   geom_col()
 
 # This looks a bit ugly to start out with, because our x axis values are whole
