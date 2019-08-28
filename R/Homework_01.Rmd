@@ -1,0 +1,75 @@
+---
+title: "Homework 1"
+output: pdf_document
+author: "My Name"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown Introduction
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+This document will generate a PDF when you knit it, as specified by the **output** at the top.
+
+Below is our first code chunk. Note the options. By setting **echo** to *FALSE* the code will not appear in the output. Likewise both **include** and **error** have been set to *FALSE* so that the results of code will be excluded as will any error warnings.
+
+```{r corpus-chunk, echo=FALSE, include=FALSE, error=FALSE}
+# load the quanteda and tidyverse libraries
+library(quanteda)
+library(tidyverse)
+
+# save our text
+text <- "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+
+# convert it into a corpus object
+small_corpus <- corpus(text)
+
+# tokenize it
+small_tokens <- tokens(small_corpus, what = "word", remove_punct = TRUE)
+
+# create a document frequency matrix
+small_dfm <- dfm(small_tokens)
+
+# make a table of token counts
+token_counts <- textstat_frequency(small_dfm)
+
+token_counts <- token_counts %>% mutate(freq_norm = frequency / sum(frequency))
+
+```
+
+## Including Tables
+
+You can also embed tables. Here, for example, is a table of our token counts (rows 1-5):
+
+```{r freq-table}
+knitr::kable(token_counts[1:5, ], caption = 'A caption')
+```
+
+## Including Plots
+
+Like tables, you can embed plots. Here is plot of token frequencies generated from the **token_counts** dataframe that we generated in the code chunk above:
+```{r, fig-chunk, echo=FALSE, fig.cap=my_cap, fig.align='left', fig.height=2.25}
+
+my_cap <- 'A caption'
+
+ggplot(token_counts, aes(x = reorder(feature, freq_norm), y = freq_norm)) +
+  geom_col() +
+  coord_flip()
+```
+
+Note the **fig.cap** option is directed to a string in the code chunk called *my_cap*.
+
+## Your Homework
+
+Fix a few things with the table and figure:
+
+1. Add your name to the header after **author:**
+2. The code chunk that is producing the table doesn't need to be visible in the output. Adjust the chunk options so that it's supressed.
+3. The captions only have placeholders. Replace those with well-crafted, descriptive captions.
+4. The figure's axis labels are not understandable and don't include units. Change the labels accordingly. If you don't know how, you can check here <http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles>
+5. The figure is also a little ugly. It includes a lot of non-data ink. Clean up the figure and make it a little more readable and better designed. You might start by changing the theme <http://www.sthda.com/english/wiki/ggplot2-themes-and-background-colors-the-3-elements>

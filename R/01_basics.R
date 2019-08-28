@@ -4,10 +4,11 @@
 # quanteda is a large package with text analysis functions (FYI it can be a bit
 # slow to load the first time!)
 #
-# ggplot2 is another popular package with data visualization functions
+# tidyverse is another popular package that includes ggplot2, 
+# which has important data visualization functions
 
 library(quanteda)
-library(ggplot2)
+library(tidyverse)
 
 # Let's begin by creating an object consisting of a character string. In this
 # case, the first sentence from _Sense and Sensibility_.
@@ -115,6 +116,12 @@ textstat_frequency(small_dfm)
 # object:
 token_counts <- textstat_frequency(small_dfm)
 
+# Finally, let's add a column of normalized frequencies
+token_counts <- token_counts %>% mutate(freq_norm = frequency / sum(frequency))
+
+# Before we move on, we should check our work.
+sum(token_counts$freq_norm)
+
 # Let's look at what we've created.
 View(token_counts)
 
@@ -132,14 +139,14 @@ View(token_counts)
 
 # Our graph will be very basic - we just want to plot the frequency of each
 # word, with words on the x axis and the frequency of each word on the y axis
-ggplot(token_counts, aes(x = feature, y = frequency)) + 
+ggplot(token_counts, aes(x = feature, y = freq_norm)) + 
   geom_col()
 
 # This looks a bit ugly to start out with, because our x axis values are whole
 # words that don't easily fit on the horizontal axis. ggplot allows a LOT of
 # visual customization, but for now we'll just use coord_flip() to flip the axes
 # and display the labels more comfortably
-ggplot(token_counts, aes(x = feature, y = frequency)) +
+ggplot(token_counts, aes(x = feature, y = freq_norm)) +
   geom_col() +
   coord_flip()
 
@@ -150,7 +157,7 @@ ggplot(token_counts, aes(x = feature, y = frequency)) +
 #
 # Reorder changes the ordering of the first variable you give it, ordering it
 # based on the second variable you give it
-ggplot(token_counts, aes(x = reorder(feature, frequency), y = frequency)) +
+ggplot(token_counts, aes(x = reorder(feature, freq_norm), y = freq_norm)) +
   geom_col() +
   coord_flip()
 
