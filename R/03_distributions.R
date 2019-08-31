@@ -43,6 +43,13 @@ library(tidyverse)
 # statistics from a document frequency matrix.
 source("functions/dispersion_functions.R")
 
+# Like quanteda, readtext is large and contains many functions we won't need to
+# use. So we created our own helper function that does what we need it to do a
+# little more efficiently. We can load this an another function that we will use
+# later by running the line below.
+source("functions/helper_functions.R")
+
+
 # In your Environment on the upper-left, you will see two functions: effect_size
 # and readtext_lite.
 #
@@ -80,7 +87,9 @@ View(doc_categories)
 # Because we have 170 text files to load into our corpus, we need to first read
 # them into a data frame. To do this, you can use the readtext package or the
 # lite function that we've already loaded into our environment.
-doc_df <- readtext::readtext(micusp_meta$file_path)
+# Note that you're free to install the readtext package and use
+# the readtext::readtext() function.
+doc_df <- readtext_lite(micusp_meta$file_path)
 
 # Our data frame (doc_df) has just two columns: doc_id and text.
 # Using the corpus function, we can now create a corpus from that data frame.
