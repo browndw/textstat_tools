@@ -19,7 +19,7 @@ collocates_by_MI <- function(quant_tokens, node_word, left, right){
   # Create a kwic object from quanteda tokens.
   # This takes the uses the maximum of our left and right values to
   # set the window.
-  df <- kwic(quant_tokens, "data", window = span, valuetype = "fixed")
+  df <- kwic(quant_tokens, node_word, window = span, valuetype = "fixed")
   
   # Generate total counts for all words in our corpus.
   totals <- textstat_frequency(dfm(quant_tokens))
