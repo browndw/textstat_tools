@@ -4,10 +4,10 @@
 # a data frame
 readtext_lite <- function(paths) {
   # Get a vector of the file basenames
-  doc_ids <- basename(micusp_meta$file_path)
+  doc_ids <- basename(paths)
   # Create a vector collapsing each text file into one element in a character
   # vector
-  texts <- vapply(micusp_meta$file_path, function(i) paste(readLines(i), collapse = "\n"), 
+  texts <- vapply(paths, function(i) paste(readLines(i), collapse = "\n"), 
                   FUN.VALUE = character(1))
   text_df <- data.frame(doc_id = doc_ids, text = texts, stringsAsFactors = FALSE)
   rownames(text_df) <- seq(1:nrow(text_df))
