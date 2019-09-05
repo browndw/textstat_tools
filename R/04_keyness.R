@@ -36,13 +36,13 @@ library(quanteda)
 library(tidyverse)
 
 # We'll load our helper functions
-source("functions/helper_functions.R")
+source("R/functions/helper_functions.R")
 
 # And our keyness functions
-source("functions/keyness_functions.R")
+source("R/functions/keyness_functions.R")
 
 # Read in our metadata.
-micusp_meta <- read_csv("data/meta_data/mini_meta.csv")
+micusp_meta <- read_csv("R/data/meta_data/mini_meta.csv")
 
 # Select our categories.
 doc_categories <- micusp_meta %>% 
@@ -62,7 +62,7 @@ micusp_tokens <- tokens(micusp_corpus, include_docvars=TRUE, remove_punct = TRUE
                         remove_numbers = TRUE, remove_symbols = TRUE, what = "word")
 
 # Load our multi-word expressions.
-multiword_expressions <- readLines("dictionaries/mwe_short.txt")
+multiword_expressions <- readLines("R/dictionaries/mwe_short.txt")
 
 # Compound tokens based on the list.
 micusp_tokens <- tokens_compound(micusp_tokens, pattern = phrase(multiword_expressions))
@@ -72,9 +72,6 @@ micusp_dfm <- dfm(micusp_tokens)
 
 # Make sure everything's working.
 textstat_frequency(micusp_dfm, n = 10)
-
-# Let's see what we've created.
-View(word_freq)
 
 # Now collect the word frequencies grouped by discipline
 word_freq_discipline <- textstat_frequency(micusp_dfm, groups = "discipline_cat")
