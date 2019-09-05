@@ -41,13 +41,13 @@ library(tidyverse)
 
 # Load a couple of handy functions that will calculate various dispersion
 # statistics from a document frequency matrix.
-source("R/functions/dispersion_functions.R")
+source("functions/dispersion_functions.R")
 
 # Like quanteda, readtext is large and contains many functions we won't need to
 # use. So we created our own helper function that does what we need it to do a
 # little more efficiently. We can load this an another function that we will use
 # later by running the line below.
-source("R/functions/helper_functions.R")
+source("functions/helper_functions.R")
 
 
 # In your Environment on the upper-left, you will see two functions: effect_size
@@ -56,7 +56,7 @@ source("R/functions/helper_functions.R")
 # Now we are going to load file containing all of the metadata for our corpus.
 # For this, we use one of R's many read functions. This one is a specific
 # implementation for comma-separated-value (or csv) files.
-micusp_meta <- read_csv("R/data/meta_data/mini_meta.csv")
+micusp_meta <- read_csv("data/meta_data/mini_meta.csv")
 
 # We can view the file to see what kinds of information it contains. The data
 # comes from the Michigan Corpus of Upper-Level Student Papers (or MICUSP). For
@@ -132,7 +132,7 @@ micusp_tokens <- tokens(micusp_corpus, include_docvars=TRUE, remove_punct = TRUE
 #
 # First, we need to load in a list of our expressions. Using readLines(), we
 # load in a text file containing a multi-word expression on each line.
-multiword_expressions <- readLines("R/dictionaries/mwe_short.txt")
+multiword_expressions <- readLines("dictionaries/mwe_short.txt")
 
 # This creates a character vector; in other words, multiple string values.
 multiword_expressions
