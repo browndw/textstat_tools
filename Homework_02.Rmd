@@ -53,19 +53,19 @@ knitr::kable(twitter_counts[1:10, ], caption = 'A caption')
 
 ## Homework
 
-1. Create a histogram of the token *the* from the twitter dfm. **Hint**: you can draw from the code that we used in 03_dispersions.R
+1. Create a histogram of the token *I* from the twitter dfm. **Hint**: you can draw from the code that we used in 03_dispersions.R
 
 ```{r}
 # code goes here
 ```
 
-2. Calculate the DP norm for the token *the* and report the result.
+2. Calculate the DP norm for the token *I* and report the result.
 
 ```{r, echo=TRUE}
 source("functions/dispersion_functions.R")
 ```
 
-3. Compare the distributions and dispersions of *the* in the Twitter corpus to those in MICUSP. Report the results.
+3. Compare the distributions and dispersions of *I* in the Twitter corpus to those in MICUSP. Report the results.
 
 ```{r}
 # code goes here
