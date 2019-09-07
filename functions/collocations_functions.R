@@ -49,11 +49,9 @@ collocates_by_MI <- function(quant_tokens, node_word, left, right){
   node_freq <- as.numeric(totals[stringr::str_detect(totals$feature, paste0("^", node_word, "$")), 2])
   corpus_total <- sum(totals$frequency)
   
-  # The function calculates 2 versions of Mutual Information.
-  # http://www.lexically.net/downloads/version5/HTML/index.html?mutualinformationdisplay.htm 
+  # The function calculates the most common type of Mutual Information.
   # http://corpus.byu.edu/mutualInformation.asp
   #
-  # AntConc uses
   # M. Stubbs, Collocations and Semantic Profiles, Functions of Language 2, 1 (1995)
   # MI: http://corpus.byu.edu/mutualInformation.asp
   
@@ -62,18 +60,18 @@ collocates_by_MI <- function(quant_tokens, node_word, left, right){
     return(mi_score)
   }
   
-  MI2_calc <- function (c_freq, c_total){
-    mi_score <- log10((c_freq*corpus_total) / (node_freq*c_total*(left+right))) / (log10(2))
-    return(mi_score)
-  }
+  ## Note that you can easily add your own calculations of other MI scores that Brezina discusses:
+  ##
+  ## MI2_calc <- function (c_freq, c_total){
+  ##
+  ##    }
   
   col_freq$MI_1 <- mapply(MI1_calc, col_freq$c_freq, col_freq$frequency)
-  col_freq$MI_2 <- mapply(MI2_calc, col_freq$c_freq, col_freq$frequency)
-  colnames(col_freq) <- c("feature", "col_freq", "total_freq", "MI_1", "MI_2")
+  #col_freq$MI_2 <- mapply(MI2_calc, col_freq$c_freq, col_freq$frequency)
+  colnames(col_freq) <- c("feature", "col_freq", "total_freq", "MI_1")
   col_freq <- col_freq[order(-col_freq$MI_1),]
   return(col_freq)
 }
-  
-  
-  
-  
+
+
+
