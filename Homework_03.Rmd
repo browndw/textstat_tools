@@ -1,0 +1,51 @@
+---
+title: "Homework_03"
+output: pdf_document
+author: "Our Names"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Comparing Authorial Style & Thematic Content
+
+For this homework assignment, you can work in pairs. You're going to be comparing two authors of wildly popular young-adult fiction: J.K. Rowling and Stephanie Meyers.
+
+The data for this homework is posted on Canvas in the **ya_corpus**. To complete this assignment, at least one person on your team will need a working installation of spacyr.
+
+## Corpus Composition Table
+
+Whenever we report out quantitative linguistic analysis it is common practice to include a table showing the composition of the corpus we've analyzed. The table usually shows not only the total counts (number of tokens, number of texts, etc.), but also counts broken out by salient categorical variables. In this case, that would be authors. So you should generate a table showing counts for Rowling, counts for Meyers, and total counts.
+
+Also, be sure to **exclude** any unnessary columns or information. It should be **clean**.
+
+```{r count_table}
+# code goes here
+```
+
+## Keyword Analysis
+
+Create a table showing the top 10 keywords using Rowling as the target corpus and Meyers and the reference, and another showing the top 10 keywords when Meyers is the target and Rowling is the reference. If you've been paying attention to how keyness works, this should only require a single comparision and then some data maniputation/organization.
+
+But there are couple of additional requirements:
+
+1. You need to sort out **all** proper nouns (people, places, etc.) from your results. Doing that means you'll need to use spacyr for either part-of-speech tagging or named entity recognition. Refer to the 05_keyness_pos.R script for help.
+
+2. You need to report out both significance and effect sizes.
+
+3. You need to account for/report distributions.
+
+```{r keywords, include=FALSE, error=FALSE}
+# load the quanteda and tidyverse libraries
+library(quanteda)
+library(tidyverse)
+library(spacyr)
+
+# code goes here
+
+```
+
+## Keywords Discussion
+
+From the tables of keywords (the **full** table not just the top 10), identify a cluster of features (that belong to the same semantic category like clothes, or the same lexical class like modal verbs). And breifly discuss why you think they're interesting and what they might suggest about the writers and/or their works.
