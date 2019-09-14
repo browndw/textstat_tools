@@ -101,9 +101,27 @@ rf
 # Save importance as a data.frame
 df_rf <- as.data.frame(rf$importance)
 
-# And order it by MeanDecreaseAccuracy
-df_rf <- df_rf[order(-df_rf$MeanDecreaseAccuracy),]
+# And order it by MeanDecreaseGini
+#
+# Mean Decrease in Gini is the average (mean) of a variable’s total
+# decrease in node impurity, weighted by the proportion of samples
+# reaching that node in each individual decision tree in the random forest.
+# This is effectively a measure of how important a variable is for
+# estimating the value of the target variable across all of the trees
+# that make up the forest. A higher Mean Decrease in Gini indicates
+# higher variable importance. Variables are sorted and displayed in the
+# Variable Importance Plot created for the Random Forest by this measure.
+# The most important variables to the model will be highest in the plot
+# and have the largest Mean Decrease in Gini Values, conversely, the
+# least important variable will be lowest in the plot, and have the
+# smallest Mean Decrease in Gini values. 
+df_rf <- df_rf[order(-df_rf$MeanDecreaseGini),]
 
 # View the result
 View(df_rf)
+
+# Plot the importance
+varImpPlot(rf,type=2)
+
+
 
