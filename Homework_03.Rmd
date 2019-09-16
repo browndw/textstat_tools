@@ -15,11 +15,15 @@ For this homework assignment, you can work in pairs. You're going to be comparin
 The data for this homework is posted on Canvas in the **ya_corpus**. To complete this assignment, at least one person on your team will need a working installation of spacyr.
 
 ```{r}
+# Set random seed. This is important to ensure that you are getting the same results when rerunning and/or knitting to pdf.
+set.seed(1)
+
 # These are long texts and require a lot of processing to parse.
 # To save time, I'll get you started on a way to randomly sample 500 hundred
 # sentences from each novel.
 
 # First you'll need to read in your texts like normal.
+ya_paths <- list.files("data/ya_corpus", full.names = TRUE, pattern = "*.txt", recursive = TRUE)
 ya_df <- readtext_lite(ya_paths)
 
 # And create a corpus object, as always.
