@@ -14,6 +14,42 @@ For this homework assignment, you can work in pairs. You're going to be comparin
 
 The data for this homework is posted on Canvas in the **ya_corpus**. To complete this assignment, at least one person on your team will need a working installation of spacyr.
 
+```{r}
+# These are long texts and require a lot of processing to parse.
+# To save time, I'll get you started on a way to randomly sample 500 hundred
+# sentences from each novel.
+
+# First you'll need to read in your texts like normal.
+ya_df <- readtext_lite(ya_paths)
+
+# And create a corpus object, as always.
+ya_corpus <- corpus(ya_df)
+
+# Now we tokenize by sentence. We're just going to use this for sampling.
+sent_toks <- tokens(ya_corpus, what = "sentence")
+
+# Create an index that we can use to iterate through our tokens object.
+idx <- seq(1:length(sent_toks))
+
+# Now we sample 500 sentences without replacement.
+ya_sample <- lapply(idx, function(i) sample(unlist(sent_toks[i]), 500))
+
+# We can now collapse all of those sampled sentences into a string.
+ya_sample <- lapply(idx, function(i) paste(unlist(ya_sample[i]), collapse = " "))
+
+# Put it into a data.frame.
+ya_sample <- data.frame(text = do.call(rbind, ya_sample), stringsAsFactors = F)
+
+# Add a column with the doc_ids
+ya_sample <- bind_cols(doc_id = rownames(ya_corpus$documents), ya_sample)
+
+# And make a new, smaller corpus from the random samples.
+# We can use this for carrying out the rest of the tagging, tokenizing, and analysis.
+ya_sample <- corpus(ya_sample)
+
+```
+
+
 ## Corpus Composition Table
 
 Whenever we report out quantitative linguistic analysis it is common practice to include a table showing the composition of the corpus we've analyzed. The table usually shows not only the total counts (number of tokens, number of texts, etc.), but also counts broken out by salient categorical variables. In this case, that would be authors. So you should generate a table showing counts for Rowling, counts for Meyers, and total counts.
