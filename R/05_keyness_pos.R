@@ -21,6 +21,13 @@ spacy_initialize(model = "en")
 # the virtual environment in which you've installed spacy.
 # On a Mac it will look something like:
 # python_executable = "/Users/MyName/.env/bin/python"
+# To find the path, you can run the following:
+# reticulate::py_config()
+#
+# That will return an output with executable paths at the end.
+# If you istalled spacy in a virtual envornment, one of those paths
+# will end with .env/bin/python
+# Otherwise, you can set the path to your specific installation.
 spacy_initialize(model = "en", python_executable = ".env/bin/python")
 
 # Load the helper functions
