@@ -1,0 +1,375 @@
+<s>
+System_NN1 identification_NN1 is_VBZ a_AT1 way_NN1 of_IO constructing_VVG mathematical_JJ models_NN2 for_IF dynamic_JJ systems_NN2 from_II experimental_JJ data_NN ._. 
+</s>
+<s>
+Recursive_JJ identification_NN1 is_VBZ useful_JJ for_IF adaptive_JJ control_NN1 ,_, adaptive_JJ estimation_NN1 and_CC adaptive_JJ signal_NN1 processing_NN1 ._. 
+</s>
+<s>
+The_AT examples_NN2 of_IO this_DD1 are_VBR pattern_NN1 recognition_NN1 ,_, linear_JJ prediction_NN1 ,_, adaptive_JJ filtering_NN1 ,_, monitoring_VVG and_CC fault_NN1 detection_NN1 ._. 
+</s>
+<s>
+In_II control_NN1 and_CC system_NN1 engineering_NN1 ,_, system_NN1 identification_NN1 techniques_NN2 are_VBR used_VVN to_TO obtain_VVI appropriate_JJ models_NN2 of_IO systems_NN2 ._. 
+</s>
+<s>
+Recursive_JJ identification_NN1 plays_VVZ a_AT1 vital_JJ role_NN1 in_II many_DA2 control_NN1 systems_NN2 such_II21 as_II22 aircrafts_NN2 ,_, missiles_NN2 ,_, automobiles_NN2 and_CC ships_NN2 ._. 
+</s>
+<s>
+Dynamic_JJ characteristics_NN2 of_IO such_DA system_NN1 depend_VV0 on_II many_DA2 factors_NN2 such_DA as_CSA speed_NN1 and_CC loading_NN1 ,_, which_DDQ might_VM change_VVI over_II time_NNT1 ._. 
+</s>
+<s>
+Adaptive_JJ control_NN1 is_VBZ the_AT area_NN1 concerned_JJ with_IW design_NN1 of_IO controllers_NN2 and_CC regulators_NN2 in_BCL21 order_BCL22 to_TO adjust_VVI controlled_JJ parameters_NN2 ._. 
+</s>
+<s>
+This_DD1 report_NN1 relating_VVG to_II the_AT use_NN1 of_IO least_DAT squares_NN2 system_NN1 identification_NN1 is_VBZ separated_VVN into_II three_MC parts_NN2 corresponding_VVG to_II the_AT questions_NN2 given_VVN and_CC a_AT1 condition_NN1 to_TO summarise_VVI the_AT report_NN1 ._. 
+</s>
+<s>
+In_RR21 part_RR22 A_ZZ1 ,_, a_AT1 test_NN1 system_NN1 is_VBZ created_VVN by_II producing_VVG MATLAB_NN1 code_NN1 which_DDQ can_VM perform_VVI the_AT recursive_JJ least_DAT squares_NN2 system_NN1 identification_NN1 for_IF any_DD given_JJ input_NN1 and_CC output_NN1 data_NN ._. 
+</s>
+<s>
+Some_DD real_JJ data_NN has_VHZ been_VBN given_VVN in_RR21 part_RR22 B_ZZ1 and_CC this_DD1 data_NN is_VBZ used_VVN to_TO identify_VVI the_AT system_NN1 parameters_NN2 for_IF a_AT1 mechanical_JJ "_" master_NN1 "_" robot_NN1 of_IO a_AT1 master/slave_NN1 telemanipulator_NN1 ._. 
+</s>
+<s>
+Part_NN1 C_ZZ1 is_VBZ the_AT extension_NN1 of_IO the_AT existing_JJ RLS_NP1 algorithm_NN1 by_II including_VVG Instrument_NN1 Variables_NN2 or_CC a_AT1 PLS_NN2 noise_NN1 model_NN1 which_DDQ is_VBZ based_VVN on_II the_AT moving_JJ average_JJ model_NN1 or_CC pseudo_JJ linear_JJ regression_NN1 ._. 
+</s>
+<s>
+The_AT task_NN1 of_IO part_NN1 A_ZZ1 is_VBZ to_TO complete_VVI the_AT MATLAB_NN1 code_NN1 which_DDQ is_VBZ given_VVN to_TO be_VBI able_JK to_TO use_VVI the_AT recursive_JJ least_DAT squares_NN2 system_NN1 identification_NN1 using_VVG ARX_NN1 model_NN1 on_II any_DD given_JJ input_NN1 and_CC output_NN1 data_NN ._. 
+</s>
+<s>
+In_II this_DD1 part_NN1 ,_, the_AT given_JJ skeleton_NN1 code_NN1 which_DDQ was_VBDZ given_VVN to_TO be_VBI able_JK to_TO represent_VVI the_AT ARX_NN1 model_NN1 in_II term_NN1 of_IO being_VBG able_JK to_TO identify_VVI a_AT1 model_NN1 of_IO any_DD given_JJ input_NN1 and_CC output_NN1 data_NN (_( u_ZZ1 and_CC y_ZZ1 )_) ._. 
+</s>
+<s>
+Any_DD input_NN1 signal_NN1 can_VM be_VBI generated_VVN in_BCL21 order_BCL22 to_TO test_VVI the_AT ARX_NN1 model_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ given_VVN in_II the_AT form_NN1 of_IO three_MC commands_NN2 such_II21 as_II22 a_AT1 step_NN1 input_NN1 ,_, sampled_VVD sine_NN1 wave_NN1 signal_NN1 and_CC random_JJ signal_NN1 ._. 
+</s>
+<s>
+The_AT filter_NN1 function_NN1 is_VBZ used_VVN to_TO filter_VVI a_AT1 data_NN sequence_NN1 by_II using_VVG a_AT1 second_MD order_NN1 system_NN1 model_NN1 which_DDQ is_VBZ stable_JJ ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 ,_, the_AT values_NN2 of_IO 'B'_NN1 and_CC 'A'_NN1 are_VBR the_AT numerator_NN1 and_CC denominator_NN1 coefficients_NN2 respectively_RR ._. 
+</s>
+<s>
+This_DD1 program_NN1 shown_VVN in_II Appendix_NN1 A_ZZ1 is_VBZ tested_VVN with_IW all_DB three_MC input_NN1 commands_NN2 ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II figure_NN1 1_MC1 to_II 3_MC and_CC table_NN1 1_MC1 ,_, the_AT results_NN2 of_IO this_DD1 program_NN1 seems_VVZ to_TO run_VVI correctly_RR because_CS the_AT coefficients_NN2 of_IO a_AT1 model_NN1 in_II theta_NN1 track_NN1 towards_II the_AT "_" true_JJ "_" values_NN2 &lsqb;_( A_ZZ1 B_ZZ1 &rsqb;_) and_CC the_AT final_JJ value_NN1 of_IO the_AT estimate_NN1 is_VBZ the_AT same_DA as_CSA the_AT "_" true_JJ "_" value_NN1 whether_CSW the_AT input_NN1 is_VBZ step_NN1 input_NN1 ,_, sine_FW wave_NN1 input_NN1 or_CC random_JJ input_NN1 data_NN ._. 
+</s>
+<s>
+Furthermore_RR ,_, this_DD1 program_NN1 is_VBZ confirmed_VVN that_CST it_PPH1 works_VVZ correctly_RR by_II testing_VVG the_AT response_NN1 using_VVG three_MC command_NN1 inputs_NN2 when_RRQ Gaussian_JJ noise_NN1 is_VBZ added_VVN to_II the_AT output_NN1 ._. 
+</s>
+<s>
+This_DD1 code_NN1 has_VHZ been_VBN shown_VVN in_II Appendix_NN1 B._NP1 As_CSA can_VM be_VBI seen_VVN from_II figure_NN1 4_MC ,_, 5_MC ,_, 6_MC and_CC table_NN1 2_MC ,_, Gaussian_JJ noise_NN1 has_VHZ an_AT1 effect_NN1 on_II the_AT coefficients_NN2 of_IO a_AT1 model_NN1 ._. 
+</s>
+<s>
+This_DD1 causes_VVZ that_CST the_AT final_JJ value_NN1 of_IO parameter_NN1 estimates_NN2 using_VVG different_JJ type_NN1 of_IO inputs_NN2 are_VBR different_JJ ._. 
+</s>
+<s>
+The_AT figure_NN1 4_MC shows_VVZ the_AT result_NN1 of_IO the_AT program_NN1 which_DDQ use_VV0 step_NN1 input_NN1 including_II Gaussian_JJ noise_NN1 ._. 
+</s>
+<s>
+This_DD1 result_NN1 illustrates_VVZ that_CST estimated_VVD parameters_NN2 converge_VV0 to_II final_JJ values_NN2 slowly_RR ,_, compared_VVN with_IW the_AT result_NN1 of_IO the_AT program_NN1 using_VVG step_NN1 input_NN1 without_IW Gaussian_JJ noise_NN1 (_( figure_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Similarly_RR ,_, the_AT coefficients_NN2 of_IO a_AT1 model_NN1 resulting_VVG from_II the_AT use_NN1 sine_NN1 wave_NN1 and_CC random_JJ data_NN input_VV0 also_RR converge_VV0 to_II final_JJ values_NN2 slowly_RR ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, if_CS the_AT lengths_NN2 of_IO each_DD1 input_NN1 data_NN are_VBR increased_VVN ,_, this_DD1 may_VM encourage_VVI the_AT adaptation_NN1 of_IO estimated_JJ parameters_NN2 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 ultimately_RR depends_VVZ on_II the_AT level_NN1 of_IO noise_NN1 ._. 
+</s>
+<s>
+The_AT modification_NN1 of_IO the_AT algorithm_NN1 including_II the_AT "_" Forgetting_VVG factor_NN1 "_" may_VM be_VBI the_AT way_NN1 to_TO improve_VVI the_AT performance_NN1 of_IO the_AT program_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT older_JJR data_NN has_VHZ less_DAR effect_NN1 on_II the_AT estimation_NN1 of_IO coefficients_NN2 of_IO a_AT1 model_NN1 ._. 
+</s>
+<s>
+The_AT new_JJ implemented_JJ algorithm_NN1 has_VHZ been_VBN shown_VVN in_II Appendix_NN1 C._NP1 The_AT sample_NN1 result_NN1 of_IO the_AT program_NN1 being_VBG tested_VVN with_IW a_AT1 step_NN1 input_NN1 will_VM be_VBI presented_VVN ._. 
+</s>
+<s>
+The_AT figure_NN1 7_MC shows_VVZ the_AT result_NN1 of_IO the_AT modified_JJ algorithm_NN1 including_II the_AT "_" Forgetting_VVG factor_NN1 "_" ._. 
+</s>
+<s>
+The_AT convergent_JJ rate_NN1 seems_VVZ to_TO be_VBI more_RGR efficient_JJ than_CSN the_AT previous_JJ result_NN1 (_( see_VV0 figure_NN1 4_MC )_) ._. 
+</s>
+<s>
+The_AT output_NN1 ,_, however_RR ,_, depends_VVZ on_II the_AT level_NN1 of_IO noise_NN1 ;_; consequently_RR ,_, it_PPH1 is_VBZ difficult_JJ to_TO compare_VVI the_AT results_NN2 with_IW different_JJ noise_NN1 level_NN1 in_BCL21 order_BCL22 to_TO know_VVI the_AT performance_NN1 of_IO the_AT "_" Forgetting_VVG factor_NN1 "_" ._. 
+</s>
+<s>
+The_AT task_NN1 of_IO Part_NN1 B_ZZ1 involves_VVZ identification_NN1 of_IO the_AT system_NN1 parameters_NN2 for_IF the_AT master_NN1 of_IO a_AT1 head_NN1 controlled_VVD telerobot_NN1 using_VVG the_AT program_NN1 called_VVN "_" loadass.m_NNU "_" in_BCL21 order_BCL22 to_TO load_VVI data_NN files_NN2 containing_VVG the_AT response_NN1 to_II a_AT1 60mm_NNU step_NN1 input_NN1 ._. 
+</s>
+<s>
+This_DD1 step_NN1 response_NN1 relates_VVZ to_II Kp_NP1 and_CC Kd_NP1 in_II a_AT1 PID_JJ controller_NN1 which_DDQ can_VM help_VVI to_TO determine_VVI the_AT accurate_JJ dynamics_NN model_NN1 of_IO the_AT telerobot_NN1 ._. 
+</s>
+<s>
+The_AT data_NN sets_NN2 used_VVN in_II this_DD1 assignment_NN1 are_VBR xp30d03.dat_FO and_CC xp50d20.dat_FO which_DDQ is_VBZ selected_VVN by_II the_AT loadass.m_NNU program_NN1 ._. 
+</s>
+<s>
+The_AT former_DA data_NN set_NN1 means_VVZ that_CST the_AT proportional_JJ gain_NN1 was_VBDZ set_VVN to_II 30_MC and_CC the_AT derivative_JJ gain_NN1 was_VBDZ set_VVN to_II 3_MC whereas_CS the_AT latter_DA dada_NN1 set_NN1 means_VVZ that_CST the_AT proportional_JJ gain_NN1 was_VBDZ set_VVN to_II 50_MC and_CC the_AT derivative_JJ gain_NN1 was_VBDZ set_VVN to_II 20_MC ._. 
+</s>
+<s>
+The_AT corresponding_JJ step_NN1 input_NN1 was_VBDZ generated_VVN by_II the_AT command_NN1 u_ZZ1 =_FO 60*ones_FO (_( size(y)_NN1 )_) ._. 
+</s>
+<s>
+The_AT MATLAB_NN1 code_NN1 has_VHZ been_VBN changed_VVN (_( see_VV0 Appendix_NN1 D_ZZ1 )_) before_II applying_VVG further_JJR parameters_NN2 to_TO generate_VVI tests_NN2 using_VVG both_RR data_NN sets_NN2 for_IF the_AT following_JJ four_MC models_NN2 to_TO evaluate_VVI which_DDQ the_AT best_JJT model_NN1 is_VBZ ._. 
+</s>
+<s>
+The_AT development_NN1 of_IO the_AT coefficients_NN2 of_IO each_DD1 model_NN1 has_VHZ been_VBN shown_VVN in_II each_DD1 data_NN set_VV0 ._. 
+</s>
+<s>
+The_AT best_JJT model_NN1 is_VBZ also_RR determined_VVN by_II comparing_VVG the_AT actual_JJ response_NN1 and_CC predicted_JJ response_NN1 simulated_VVD the_AT response_NN1 to_II a_AT1 step_NN1 input_NN1 of_IO 60mm_NNU ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 this_DD1 ,_, the_AT z_ZZ1 transform_VV0 of_IO all_DB models_NN2 have_VH0 been_VBN done_VDN in_BCL21 order_BCL22 to_TO find_VVI the_AT location_NN1 of_IO the_AT final_JJ poles_NN2 which_DDQ are_VBR plotted_VVN on_II the_AT unit_NN1 circle_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM show_VVI whether_CSW the_AT predicted_JJ model_NN1 is_VBZ stable_JJ or_CC not_XX and_CC also_RR determine_VV0 the_AT best_JJT model_NN1 for_IF predicting_VVG this_DD1 mechanical_JJ system_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO system_NN1 response_NN1 show_VV0 that_CST both_DB2 actual_JJ and_CC predicted_VVD responses_NN2 seem_VV0 relatively_RR similar_JJ for_IF all_DB four_MC models_NN2 in_II each_DD1 data_NN set_VV0 ,_, as_CSA can_VM be_VBI seen_VVN from_II the_AT figure_NN1 8_MC and_CC 9_MC ._. 
+</s>
+<s>
+The_AT actual_JJ and_CC predicted_VVD responses_NN2 are_VBR underdamped_JJ response_NN1 as_CSA shown_VVN in_II figure_NN1 8_MC ,_, whereas_CS the_AT figure_NN1 9_MC shows_VVZ that_CST the_AT actual_JJ and_CC predicted_VVD responses_NN2 are_VBR critically_RR damped_VVN response_NN1 ._. 
+</s>
+<s>
+Overall_RR ,_, these_DD2 predicted_JJ models_NN2 are_VBR effective_JJ in_II modelling_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 10_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA where_CS e(t)_NP1 is_VBZ a_AT1 white_JJ noise_NN1 with_IW zero_MC mean_JJ and_CC variance_NN1 2_MC ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT figure_NN1 11_MC shows_VVZ a_AT1 z_ZZ1 transform_VV0 of_IO predicted_JJ response_NN1 ,_, which_DDQ presents_VVZ the_AT stability_NN1 of_IO system_NN1 model_NN1 ._. 
+</s>
+<s>
+This_DD1 predicted_JJ response_NN1 seems_VVZ to_TO be_VBI stable_JJ because_CS the_AT two_MC poles_NN2 locate_VV0 inside_II the_AT unit_NN1 circle_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 12_MC the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT locations_NN2 of_IO two_MC poles_NN2 are_VBR inside_II the_AT unit_NN1 circle_NN1 of_IO the_AT z_ZZ1 transform_VV0 shown_VVN in_II figure13_FO ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST this_DD1 predicted_JJ response_NN1 is_VBZ stable_JJ ._. 
+</s>
+<s>
+This_DD1 model_NN1 uses_VVZ three_MC coefficient_NN1 of_IO 'a'_NN1 ,_, which_DDQ is_VBZ different_JJ from_II previous_JJ model_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 14_MC the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+The_AT z_ZZ1 transform_VV0 in_II figure_NN1 15_MC shows_VVZ that_CST the_AT predicted_JJ response_NN1 is_VBZ stable_JJ ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 14_MC the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+The_AT predicted_JJ response_NN1 is_VBZ also_RR stable_JJ ,_, but_CCB there_EX are_VBR two_MC poles_NN2 which_DDQ are_VBR complex_JJ values_NN2 (_( see_VV0 figure_NN1 17_MC )_) ._. 
+</s>
+<s>
+This_DD1 model_NN1 is_VBZ slightly_RR different_JJ from_II those_DD2 previous_JJ models_NN2 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, both_DB2 the_AT number_NN1 of_IO coefficients_NN2 of_IO 'a'_NN1 and_CC 'b'_NN1 are_VBR three_MC ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 18_MC the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+Moreover_RR ,_, the_AT predicted_JJ response_NN1 is_VBZ stable_JJ (_( see_VV0 figure_NN1 19_MC )_) ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 20_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+The_AT predicted_JJ response_NN1 is_VBZ also_RR stable_JJ (_( see_VV0 figure_NN1 21_MC )_) ._. 
+</s>
+<s>
+This_DD1 model_NN1 uses_VVZ 4_MC coefficients_NN2 of_IO 'a'_NN1 and_CC 3_MC coefficients_NN2 of_IO 'b'_JJ to_TO predict_VVI system_NN1 response_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 22_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+Furthermore_RR ,_, a_AT1 z_ZZ1 transform_VV0 shows_NN2 that_CST the_AT predicted_JJ response_NN1 is_VBZ stable_JJ (_( see_VV0 figure_NN1 23_MC )_) ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 24_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+The_AT predicted_JJ response_NN1 is_VBZ also_RR stable_JJ as_CSA shown_VVN by_II a_AT1 z_ZZ1 transform_VV0 from_II figure_NN1 25_MC ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO this_DD1 model_NN1 after_II changing_VVG in_II data_NN set_VV0 are_VBR similar_JJ to_II the_AT previous_JJ model_NN1 using_VVG the_AT same_DA data_NN set_VV0 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, both_RR actual_JJ and_CC predicted_VVD responses_NN2 are_VBR critically_RR damped_VVN response_NN1 and_CC the_AT predicted_JJ response_NN1 is_VBZ also_RR stable_JJ as_CSA can_VM be_VBI seen_VVN from_II the_AT figure_NN1 25_MC and_CC 26_MC ,_, respectively_RR ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II figure_NN1 26_MC ,_, this_DD1 figure_NN1 plotted_VVN in_II logarithm_NN1 scale_NN1 shows_VVZ the_AT loss_NN1 function_NN1 or_CC the_AT Mean_NP1 Square_NNL1 Error_NN1 for_IF each_DD1 model_NN1 ._. 
+</s>
+<s>
+The_AT values_NN2 of_IO the_AT loss_NN1 function_NN1 for_IF the_AT model1_FO and_CC 2_MC are_VBR far_RG higher_JJR than_CSN the_AT model3_FO and_CC 4_MC ._. 
+</s>
+<s>
+The_AT model3_FO and_CC 4_MC are_VBR ,_, therefore_RR ,_, more_RGR preferable_JJ as_II the_AT model1_FO and_CC 2_MC ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT model3_FO and_CC 4_MC are_VBR large_JJ enough_RR to_TO cover_VVI the_AT true_JJ system_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, the_AT model3_FO is_VBZ preferable_JJ as_II the_AT model4_FO ,_, but_CCB not_XX remarkably_RR better_RRR than_CSN the_AT model4_FO ._. 
+</s>
+<s>
+The_AT reason_NN1 for_IF this_DD1 is_VBZ that_CST the_AT model4_FO is_VBZ more_RGR complex_JJ than_CSN the_AT model3_FO ,_, but_CCB the_AT values_NN2 of_IO the_AT loss_NN1 function_NN1 resulting_VVG from_II both_RR data_NN sets_NN2 for_IF model4_FO are_VBR almost_RR the_AT same_DA that_CST for_CS% model3_FO ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI said_VVN that_CST the_AT model3_FO seems_VVZ to_TO be_VBI the_AT best_JJT model_NN1 for_IF these_DD2 data_NN set_VV0 ._. 
+</s>
+<s>
+The_AT task_NN1 of_IO Part_NN1 C_ZZ1 is_VBZ to_TO update_VVI RLS_NP1 algorithm_NN1 by_II including_VVG Instrument_NN1 Variables_NN2 (_( IV_MC )_) or_CC a_AT1 Moving_JJ Average_JJ noise_NN1 model_NN1 based_VVN on_II Pseudo_JJ Linear_JJ Regression_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 based_VVN on_II Model3_FO in_RR21 part_RR22 B_ZZ1 has_VHZ been_VBN modified_VVN by_II using_VVG the_AT instrumental_JJ variable_NN1 method_NN1 in_BCL21 order_BCL22 to_TO test_VVI in_II this_DD1 task_NN1 ._. 
+</s>
+<s>
+First_MD of_IO all_DB ,_, MATLAB_NP1 algorithm_NN1 was_VBDZ tested_VVN in_II the_AT same_DA way_NN1 with_IW part_NN1 A_ZZ1 ,_, as_CSA can_VM be_VBI seen_VVN this_DD1 code_NN1 in_II Appendix_NN1 E._NP1 The_AT algorithm_NN1 has_VHZ then_RT been_VBN modified_VVN in_BCL21 order_BCL22 to_TO test_VVI with_IW the_AT real_JJ data_NN set_VV0 as_CSA above_RL (_( see_VV0 the_AT code_NN1 in_II Appendix_NN1 F_ZZ1 )_) ._. 
+</s>
+<s>
+Moreover_RR ,_, two_MC ARMAX_NN1 models_NN2 were_VBDR developed_VVN based_VVN on_II Model3_FO in_RR21 part_RR22 B_ZZ1 because_CS this_DD1 model_NN1 seems_VVZ to_TO be_VBI the_AT best_JJT model_NN1 ._. 
+</s>
+<s>
+The_AT algorithms_NN2 for_IF these_DD2 models_NN2 have_VH0 been_VBN shown_VVN in_II Appendix_NN1 G._NP1 The_AT results_NN2 of_IO a_AT1 test_NN1 system_NN1 including_II instrument_NN1 variable_NN1 are_VBR the_AT same_DA results_NN2 as_CSA part_NN1 A._NNU This_DD1 means_VVZ that_CST the_AT modified_JJ MATLAB_NN1 algorithm_NN1 works_VVZ appropriately_RR with_IW a_AT1 test_NN1 system_NN1 ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II figure_NN1 27_MC and_CC 28_MC ,_, the_AT estimated_JJ parameters_NN2 resulting_VVG from_II the_AT instrumental_JJ variable_NN1 method_NN1 are_VBR slightly_RR different_JJ from_II Model3_FO (_( ARX_NP1 model_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 leads_VVZ to_II the_AT slight_JJ difference_NN1 in_II the_AT location_NN1 of_IO some_DD poles_NN2 ,_, but_CCB both_RR predicted_VVN responses_NN2 are_VBR stable_JJ and_CC they_PPHS2 are_VBR also_RR similar_JJ to_II the_AT predicted_JJ responses_NN2 of_IO other_JJ models_NN2 which_DDQ are_VBR underdamped_JJ response_NN1 (_( see_VV0 Appendix_NN1 H_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT estimated_JJ parameters_NN2 resulting_VVG from_II the_AT instrumental_JJ variable_NN1 method_NN1 also_RR seem_VV0 to_TO converge_VVI quickly_RR ,_, compared_VVN with_IW Model3_FO (_( see_VV0 figure_NN1 28_MC )_) ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, the_AT instrumental_JJ variable_NN1 method_NN1 leads_VVZ to_II higher_JJR rate_NN1 of_IO convergence_NN1 ,_, compared_VVN with_IW the_AT result_NN1 of_IO Model3_FO using_VVG ARX_NN1 model_NN1 (_( see_VV0 figure_NN1 18_MC and_CC 20_MC )_) ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 27_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+From_II figure_NN1 28_MC ,_, the_AT model_NN1 output_NN1 resulting_VVG from_II the_AT use_NN1 of_IO data_NN set_VV0 xp50d20.dat_FO can_VM be_VBI also_RR shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+v(t)_NNU is_VBZ system_NN1 noise_NN1 which_DDQ is_VBZ uncorrelated_JJ with_IW the_AT instrumental_JJ variable_NN1 (_( vector_NN1 z(t)_NNU )_) ._. 
+</s>
+<s>
+From_II figure_NN1 29_MC ,_, the_AT model_NN1 output_NN1 resulting_VVG from_II the_AT use_NN1 of_IO data_NN set_VV0 xp30d03.dat_FO can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+The_AT result_NN1 of_IO ARMAX1_FO model_NN1 is_VBZ slightly_RR different_JJ from_II that_DD1 of_IO ARX_NP1 model_NN1 ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II the_AT figure_NN1 30_MC ,_, some_DD values_NN2 of_IO predicted_JJ response_NN1 are_VBR negative_JJ in_II the_AT first_MD periods_NN2 of_IO estimation_NN1 ._. 
+</s>
+<s>
+This_DD1 results_VVZ from_II the_AT prediction_NN1 error_NN1 (_( t-1_FO )_) as_CSA shown_VVN in_II the_AT figure_NN1 31_MC ._. 
+</s>
+<s>
+However_RR ,_, both_RR actual_JJ and_CC predicted_VVD responses_NN2 are_VBR underdamped_JJ response_NN1 and_CC they_PPHS2 also_RR seem_VV0 similar_JJ ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, a_AT1 z_ZZ1 transform_VV0 shows_NN2 that_CST the_AT predicted_JJ responses_NN2 is_VBZ stable_JJ (_( see_VV0 figure_NN1 32_MC )_) ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT figure_NN1 33_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+From_II figure_NN1 34_MC ,_, both_DB2 of_IO them_PPHO2 are_VBR critically_RR damped_VVN response_NN1 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 this_DD1 ,_, the_AT predicted_JJ responses_NN2 are_VBR relatively_RR similar_JJ to_II actual_JJ response_NN1 ._. 
+</s>
+<s>
+The_AT z_ZZ1 transform_VV0 also_RR shows_VVZ that_CST this_DD1 predicted_JJ response_NN1 is_VBZ stable_JJ (_( see_VV0 figure_NN1 35_MC )_) ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II figure_NN1 36_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 ,_, the_AT predicted_JJ response_NN1 seems_VVZ better_JJR than_CSN ARMAX1_FO in_II the_AT first_MD period_NN1 ._. 
+</s>
+<s>
+Both_RR actual_JJ and_CC predicted_VVD responses_NN2 are_VBR underdamped_JJ response_NN1 ._. 
+</s>
+<s>
+Their_APPGE responses_NN2 are_VBR nearly_RR the_AT same_DA ,_, as_CSA shown_VVN in_II figure_NN1 37_MC ._. 
+</s>
+<s>
+The_AT z_ZZ1 transform_VV0 shows_NN2 that_CST predicted_VVD response_NN1 is_VBZ also_RR stable_JJ (_( see_VV0 figure_NN1 38_MC )_) ._. 
+</s>
+<s>
+From_II figure_NN1 39_MC ,_, the_AT model_NN1 output_NN1 can_VM be_VBI shown_VVN as_CSA below_RL ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 ,_, the_AT response_NN1 and_CC stability_NN1 are_VBR almost_RR the_AT same_DA as_CSA ARMAX1_FO model_NN1 ,_, except_CS the_AT pole_NN1 locations_NN2 ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II figure_NN1 29_MC to_II 41_MC ,_, pseudo_JJ linear_JJ regression_NN1 or_CC the_AT RLS_NP1 algorithm_NN1 for_IF ARMAX_NN1 model_NN1 works_VVZ appropriately_RR ,_, although_CS the_AT rate_NN1 of_IO convergence_NN1 of_IO estimated_JJ parameters_NN2 is_VBZ not_XX significantly_RR different_JJ from_II RLS_NP1 algorithm_NN1 for_IF ARX_NN1 model_NN1 ._. 
+</s>
+<s>
+As_II the_AT determination_NN1 of_IO model_NN1 structure_NN1 and_CC model_NN1 validation_NN1 are_VBR very_RG important_JJ for_IF system_NN1 identification_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT estimated_JJ model_NN1 should_VM be_VBI accurate_JJ enough_RR and_CC avoiding_VVG over-parameterization_NN1 should_VM also_RR be_VBI considered_VVN ._. 
+</s>
+<s>
+The_AT reason_NN1 for_IF this_DD1 is_VBZ that_CST an_AT1 over-parameterized_JJ model_NN1 structure_NN1 cause_VV0 complicated_JJ computations_NN2 ._. 
+</s>
+<s>
+In_II determining_VVG an_AT1 appropriate_JJ model_NN1 structure_NN1 ,_, the_AT loss_NN1 function_NN1 or_CC the_AT Mean_NP1 Square_NNL1 Error_NN1 are_VBR very_RG useful_JJ for_IF model_NN1 validation_NN1 ._. 
+</s>
+<s>
+The_AT loss_NN1 function_NN1 or_CC the_AT Mean_NP1 Square_NNL1 Error_NN1 was_VBDZ ,_, therefore_RR ,_, plotted_VVN in_BCL21 order_BCL22 to_TO investigate_VVI whether_CSW31 or_CSW32 not_CSW33 the_AT improvement_NN1 in_II the_AT fit_NN1 is_VBZ significant_JJ ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II figure_NN1 42_MC ,_, both_DB2 ARMAX_VV0 models_NN2 can_VM not_XX improve_VVI the_AT fit_JJ for_IF those_DD2 data_NN sets_NN2 ._. 
+</s>
+<s>
+The_AT instrumental_JJ variable_NN1 method_NN1 is_VBZ also_RR not_XX significantly_RR better_RRR than_CSN Model3_FO using_VVG ARX_NN1 model_NN1 in_II31 case_II32 of_II33 fitting_JJ model_NN1 for_IF those_DD2 data_NN sets_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 assignment_NN1 ,_, the_AT use_NN1 of_IO least_DAT squares_NN2 system_NN1 identification_NN1 was_VBDZ presented_VVN ._. 
+</s>
+<s>
+Recursive_JJ least_DAT squares_NN2 algorithm_NN1 was_VBDZ used_VVN for_IF the_AT tasks_NN2 ._. 
+</s>
+<s>
+The_AT test_NN1 system_NN1 in_RR21 part_RR22 A_ZZ1 demonstrated_VVD the_AT ability_NN1 of_IO these_DD2 algorithms_NN2 to_TO ensure_VVI that_CST the_AT program_NN1 will_VM work_VVI appropriately_RR with_IW the_AT given_JJ real_JJ data_NN collected_VVN from_II a_AT1 mechanical_JJ "_" master_NN1 "_" robot_NN1 of_IO a_AT1 master/slave_NN1 telemanipulator_NN1 ._. 
+</s>
+<s>
+Each_DD1 model_NN1 was_VBDZ then_RT tested_VVN with_IW the_AT same_DA two_MC data_NN sets_VVZ so_CS21 that_CS22 each_DD1 model_NN1 can_VM be_VBI compared_VVN in_II the_AT same_DA data_NN sets_VVZ in_RR21 part_RR22 B._NP1 In_RR21 general_RR22 ,_, the_AT test_NN1 results_NN2 illustrate_VV0 that_CST recursive_JJ least_DAT squares_NN2 algorithm_NN1 is_VBZ effective_JJ in_II parameter_NN1 estimation_NN1 and_CC modeling_NN1 ._. 
+</s>
+<s>
+Determining_VVG the_AT appropriate_JJ model_NN1 structure_NN1 and_CC model_NN1 validation_NN1 can_VM be_VBI achieved_VVN by_II using_VVG the_AT loss_NN1 function_NN1 or_CC the_AT Mean_NP1 Square_NNL1 Error_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II these_DD2 results_NN2 ,_, it_PPH1 seems_VVZ that_CST Model3_FO using_VVG ARX_NN1 model_NN1 is_VBZ optimal_JJ model_NN1 for_IF model_NN1 representation_NN1 of_IO this_DD1 dynamic_JJ system_NN1 ._. 
+</s>
+<s>
+In_RR21 part_RR22 C_ZZ1 ,_, the_AT algorithms_NN2 was_VBDZ implemented_VVN by_II using_VVG RLS_NP1 algorithm_NN1 including_II either_DD1 Instrument_NN1 Variables_NN2 (_( IV_MC )_) or_CC a_AT1 Moving_JJ Average_JJ noise_NN1 model_NN1 based_VVN on_II Pseudo_JJ Linear_JJ Regression_NN1 in_BCL21 order_BCL22 to_TO improve_VVI parameter_NN1 estimation_NN1 ._. 
+</s>
+<s>
+The_AT Model3_FO which_DDQ seem_VV0 to_TO be_VBI appropriate_JJ model_NN1 in_RR21 part_RR22 B_ZZ1 was_VBDZ compared_VVN with_IW all_DB models_NN2 in_RR21 part_RR22 C_NP1 called_VVD IV_MC model_NN1 ,_, ARMAX1_FO and_CC ARMAX2_FO model_NN1 ._. 
+</s>
+<s>
+The_AT result_NN1 of_IO this_DD1 is_VBZ that_CST the_AT IV_MC model_NN1 may_VM do_VDI well_RR on_II an_AT1 increase_NN1 in_II the_AT rate_NN1 of_IO convergence_NN1 ,_, but_CCB it_PPH1 is_VBZ difficult_JJ to_TO see_VVI a_AT1 noticeably_RR improvement_NN1 in_II performance_NN1 ._. 
+</s>
+<s>
+Pseudo_JJ linear_JJ regression_NN1 for_IF ARMAX_NN1 model_NN1 and_CC instrumental_JJ variable_NN1 method_NN1 may_VM overcome_VVI the_AT problems_NN2 which_DDQ the_AT disturbance_NN1 v(t)_NNU is_VBZ not_XX white_JJ noise_NN1 ._. 
+</s>
+<s>
+To_TO check_VVI this_DD1 ,_, autocorrelation_NN1 and_CC cross-correlation_JJ test_NN1 should_VM be_VBI implemented_VVN ,_, but_CCB such_DA tasks_NN2 are_VBR beyond_II the_AT scope_NN1 of_IO this_DD1 assignment_NN1 ._. 
+</s>

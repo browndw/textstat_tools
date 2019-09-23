@@ -1,0 +1,66 @@
+The objective of this exercise is to find, by experimental means, the moments of inertia of three steel discs. These values will be compared to those found using a known theoretical relationship. Estimates of errors incurred (by simplifications or otherwise) shall be made and their effects described and accounted for.
+The method used involves a falling mass turning an axle by unravelling a string as it descends. The torque generated shall be applied to the disc, which starts with zero angular velocity and acceleration. The falling mass will be timed on its journey over a fixed distance. With measurements of the time taken, distance fallen, radii of discs and applied torque, the moment of inertia of each discs can be calculated.
+The main conclusions drawn from this experiment will refer to the moments of inertia of the discs and the accuracy of those results. Their accuracy will be evaluated by comparing experimental results to theoretically derived values, and after scrutiny of the errors incurred.
+There are two strands to the purpose of the experiment. They are, firstly, to understand how the linear and rotational versions of Newton 's second law relate and, secondly, to gain experimental experience about the 2 nd moment of mass.
+The objectives of the experiment are;.
+Consideration will be given to the accuracy of the quantities measured following objective one, and the impact errors have on the moment of inertia calculated.
+The conclusions drawn will refer to the moments of inertia calculated from experimental results and the accuracy of those results in comparison to those calculated using mechanics theory.
+The illustration left shows the steel disc and falling mass arrangement with the quantities that are important in the experiment.
+From basic motion equations 1: (1) (where v is velocity and is angular speed).
+Differentiating with respect to time gives (where is angular acceleration).
+Therefore (2).
+Now using the constant acceleration equation it can be shown that with zero initial velocity (3).
+Newton 's second law states that.
+This law in angular terms converts to (where T is torque, I is inertia and angular acceleration - 'a' from the diagram).
+On inspection of the diagram, it can be seen that and therefore, using (2) (4).
+Using (3) in (4) gives hence.
+Now, given that the mass 'M' in the diagram falls much more slowly than it would do purely under the force of gravity, a good approximation of mg is (5).
+Rearrange (5) to give (6).
+Using (6) a good approximation for the moment of inertia of each of the discs can be obtained. The theoretical formula this experimental approximation will be compared with is (7)2.
+Where M is the mass of the disc and R is its radius.
+With this knowledge it is possible to devise a method to gather experimental data.
+On one side of the main support is a metal drum with a helical groove on its surface. The string is wound into the groove with a maximum of 9 revolutions. One end of the string is attached to the mass and the other is fixed to the drum at the end furthest from the support. This drum is free to rotate and is on a shaft which passes through the support and then turns a cog. On the other side of the support from the drum is a shaft with a fixture for a steel disc whereby a threaded section of shaft goes through the centre of the disc allowing it to be attached using a wing nut. There is a second cog concentric with and attached to the shaft with the steel disc on. The two cogs are the same size so no change in rotational speed takes place when they mesh. The falling mass attached to the drum causes the drum to rotate, driving the shaft and cogs, and hence turning the shaft with the steel disc attached.
+The diagram below shows this arrangement.
+The mass was dropped from the same height for each reading. Given that time or distance is the measured variable, it is wiser to fix distance since one end of that distance can be a surface which the mass strikes, providing visual and audible information to stop the stopwatch. If time were elected to be fixed then some method of viewing exactly where the mass had reached after the control time would need to be devised. This is more complicated than the former method.
+One person positioned the hanging mass with reference to the ruler, which was placed against the vertical support, by viewing them perpendicularly in an attempt to minimize any error due to parallax. The disc was clamped to the support, by hand, to ensure (near) zero initial rotation. The stopwatch was started upon the release of the steel disc and stopped at the instant when the mass struck the work surface. The same person who released the disc with one hand started the stopwatch with their other hand. These two tasks were combined since the simultaneity of those events is more likely to be achieved if only one person is involved.
+The height from which the mass fell was made as large as possible but not so large that the mass hanger was in contact with the drum. Neither was it so large that the string was displaced from the grooves in the drum. The height used was 300mm. A relatively large height is favourable because the time taken for the weight to fall will increase as height increases, thus making time measurements easier to take accurately (it reduces the error in percentage terms). A short distance, and hence short travel time, would mean starting and stopping the stopwatch in quick succession which is more prone to error.
+In order to collect a wide range and sufficient number of results all possible arrangements of the masses were used. This allowed 6 different masses to be experimented with; 0.1, 0.12, 0.15, 0.17, 0.2, 0.22 (all in kilograms). For each mass three readings were taken. This number compromises between a need for many results and the need to record a large number of accurate measurements in a short space of time.
+Since the two cogs on the steel disc 's side of the support merely translated the torque from the drum 's shaft to the disc 's shaft, the distance 'little r' shown on the diagram on page 6 is equal to the radius of the drum. The drum has a small radius ( 10mm) and the accuracy of its measurement is important. To obtain a precise measurement of the radius, the string was fully wound around the drum in 9 complete revolutions. The distance along the drum that the helical string occupied was measured with a ruler and named 'x'. The linear (unravelled) length of those 9 revolutions was then measured, again using a ruler, and named 'y'. The triangle below shows how x, y and r are linked.
+Where n is the number of revolutions on the drum. Using that triangle, r can be calculated as follows so therefore (8).
+With this information about the size of r, all the quantities that equation (6) requires (m, g, r, t and s) are known and so an experimental value for I can be calculated.
+In the model and with the manipulation of the results some simplifications have been made and they are summarised in the table below.
+All of the simplifications cause error in the calculated value of the second moment of Inertia. Most of them cause errors that decrease the calculated value of 'I'. So it is likely that the theoretical value of 'I' will be higher than the value calculated from experimental data.
+The results found from the three discs are shown below.
+In order to assess the accuracy of the final value of the moment of inertia calculated, some estimate of the errors of the measurements must be made. An estimate of the error in each of the measured quantities and justification for that estimate follow. 1 Disc radius.
+Estimate of error in measurement:   1mm.
+In percentage terms;.
+Worst case scenario (small disc)    2%.
+Average case (medium disc)    1.6%.
+The disc radius was measured using a ruler with divisions in mm. Care was taken when measuring but accuracy greater than to 1mm cannot be assumed.
+Time Measurement.
+Estimate of error in measurement:    0.15sec.
+In percentage terms;.
+Worst case scenario (fast drop)    7.5%.
+Average case   3.75%.
+Every effort was made to time each experiment accurately but human error is inevitable. An error of 0.15 seconds is a reasonable assessment of the reactions of a person timing such an event.
+Release height of mass.
+Estimate of error in measurement:    1.5mm.
+In percentage terms:
+All cases (300mm drop)    0.5%.
+Care was taken to view the mass hanger perpendicularly to the ruler to eliminate parallax as much as possible when positioning the mass for release. Using a ruler the accuracy of this positioning could not be within 1 mm and it would not be prudent to ignore the affects of parallax completely so an error estimate of 1.5 mm is reasonable.
+Some vibration was unavoidable under the conditions in the lab. Vibrations were only noticeable when one 's hand was in firm contact with the support frame and so the affects are likely to be negligible.
+Equations (6) and (7) were used to calculate experimental estimates and theoretical values for the moments of inertia of each of the discs. The results of those calculations are shown here.
+Graphically, an estimate of the moment of inertia can be estimated by plotting m (mass) against t -2 (inverse of time squared). The gradient of the line on that graph equals (9).
+And therefore.
+These graphs are shown in section 9. The line from which the gradient is measured is the bisector of the estimates of reasonable maximum and minimum gradient lines. This procedure is the fairest way of measuring the true gradient of a line of best fit through the data points.
+An estimate of the accuracy of the figures in the table can be made using the estimates of the error in the individually measured quantities in section 6.2. Errors in equation (6) are.
+With these, the uncertainty in the gradient can be estimated as the sum of the errors of its erroneous constituents. i.e. 0.5% + 2.56% + 14 =    17.06%. Hence a reasonable estimate of the error in the moment of inertia calculated from experimental data is   17%.
+The impacts of the errors chosen to be ignored generally lowered the value of the moment of inertia calculated. The expectation was, therefore, that the value for 'I' calculated from measured values would be lower than that found using a theoretical relationship. As the table on the previous page shows, this is indeed the case and the deficit is 25-30% of the theoretical value. Hence the results are consistent with my prediction. As discussed in section 7.1.3 the errors in measurements amount to some 17%; these may contribute to some of that 25-30% gap as well as the assumptions and simplifications.
+In order to reduce errors the method for timing the falling mass could be improved. Light gates could be positioned a set distance apart and the mass dropped such that its path activated each light gate. A computer could process the response from the light gates and a much more accurate time measurement could be achieved. This would reduce the error associated with time measurement to very close to zero. As described in section 5.3 on page 6, there is flexibility in method such that either the distance the mass falls is fixed and the time taken for it to fall that distance is measured or the time for which the mass is allowed to fall is fixed and the distance it travels in that time interval is measured. The former method was used but a completely new strategy could produce better results.
+In order to reduce the error associated with the inaccuracy of the measurement of the disc 's radii a better measuring device could be used. Callipers would be more accurate than a ruler. This simple device would decrease error to the order of 0.1mm; 0% in percentage terms.
+These two alterations to the method together have the potential to reduce the estimated error from 17% to just 0.5%.
+The individual discs showed calculated values of the moment of inertia of 70.9, 74.0 and 74.2 as percentages of the value produced using the theoretical relationship. These percentages have a spread of only 3.3 and so it is fair to say that there is good correlation between the different parts of the experiment. The small spread is testimony to the consistency of the method employed. It should be noted that where only three parts to an experiment exist, a strong correlation is not as persuasive evidence for consistency as when many parts can be compared.
+The estimated values for 'I' using equation (6) were used as an indicator of correlation because the numbers derived from the graph contain higher error. The extra error in the graphically derived values is the result of error in the line of best fit and gradient calculations made from it.
+In the experiment both objectives were achieved so further work would require new objectives to be set. As an interesting test, the three discs could be tested on an industrial machine to get a more reliable measure of their moments of inertia. Further comparisons could then be made between those values and ones found in this experiment.
+The experiment showed the discs to have moments of inertia:
+The accuracy of these numbers is good. They are all within 30% of the value found theoretically.

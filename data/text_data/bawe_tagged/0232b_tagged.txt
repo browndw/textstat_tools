@@ -1,0 +1,426 @@
+<s>
+The_AT University_NN1 of_IO library_NN1 has_VHZ in_II31 excess_II32 of_II33 twenty_MC five_MC thousand_NNO users_NN2 -_- students_NN2 ,_, lecturers_NN2 ,_, researchers_NN2 and_CC external_JJ visitors_NN2 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 providing_VVG access_NN1 to_II one_MC1 million_NNO printed_JJ volumes_NN2 ,_, ten_MC kilometres_NNU2 of_IO archives_NN2 and_CC five_MC thousand_NNO printed_JJ periodicals_NN2 ,_, the_AT library_NN1 serves_VVZ as_II a_AT1 self-study_JJ facility_NN1 accommodating_VVG 1600_MC study_NN1 spaces_NN2 and_CC 150_MC computer_NN1 workstations_NN2 ._. 
+</s>
+<s>
+Each_DD1 year_NNT1 approximately_RR one_MC1 million_NNO loans_NN2 are_VBR issued_VVN and_CC one_MC1 hundred_NNO thousand_NNO reservations_NN2 made_VVD ._. 
+</s>
+<s>
+At_II the_AT heart_NN1 of_IO this_DD1 sizable_JJ operation_NN1 lies_VVZ the_AT main_JJ issue_NN1 desk_NN1 located_VVN on_II the_AT first_MD floor_NN1 ._. 
+</s>
+<s>
+The_AT summer_NNT1 examination_NN1 season_NNT1 is_VBZ one_MC1 of_IO the_AT busiest_JJT for_IF the_AT library_NN1 with_IW up_RG21 to_RG22 seven_MC thousand_NNO users_NN2 entering_VVG each_DD1 day_NNT1 ._. 
+</s>
+<s>
+This_DD1 dramatic_JJ increase_NN1 in_II activity_NN1 places_VVZ a_AT1 huge_JJ burden_NN1 on_II the_AT issue_NN1 desk_NN1 and_CC ,_, consequently_RR ,_, the_AT period_NN1 is_VBZ traditionally_RR associated_VVN with_IW lengthy_JJ queues_NN2 and_CC prolonged_JJ service_NN1 times_NNT2 ._. 
+</s>
+<s>
+Based_VVN on_II statistics_NN submitted_VVN by_II the_AT library_NN1 to_II the_AT Society_NN1 of_IO National_JJ ,_, University_NN1 and_CC College_NN1 Libraries_NN2 (_( SCONUL_NP1 )_) for_IF the_AT year_NNT1 ending_VVG July_NPM1 2003_MC ._. 
+</s>
+<s>
+Earlier_RRR this_DD1 year_NNT1 ,_, six_MC new_JJ self-service_JJ machines_NN2 were_VBDR installed_VVN in_II an_AT1 attempt_NN1 to_TO reduce_VVI the_AT load_NN1 on_II the_AT issue_NN1 desk_NN1 and_CC free_VV0 up_RP valuable_JJ human_JJ resources_NN2 ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 project_NN1 was_VBDZ to_TO assess_VVI the_AT effect_NN1 that_CST these_DD2 machines_NN2 were_VBDR likely_JJ to_TO have_VHI on_II service_NN1 times_NNT2 during_II the_AT summer_NNT1 period_NN1 and_CC to_TO evaluate_VVI a_AT1 range_NN1 of_IO possible_JJ strategies_NN2 for_IF coping_VVG with_IW the_AT anticipated_JJ increase_NN1 in_II demand_NN1 ._. 
+</s>
+<s>
+Discrete_JJ event_NN1 simulation_NN1 techniques_NN2 were_VBDR employed_VVN to_TO build_VVI a_AT1 computer_NN1 model_NN1 of_IO the_AT system_NN1 ,_, which_DDQ was_VBDZ then_RT used_VVN to_TO conduct_VVI the_AT necessary_JJ experiments_NN2 ._. 
+</s>
+<s>
+The_AT main_JJ issue_NN1 desk_NN1 and_CC the_AT operations_NN2 associated_VVN with_IW it_PPH1 occupy_VV0 a_AT1 considerable_JJ amount_NN1 of_IO floor_NN1 space_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR six_MC counters_NN2 where_RRQ customers_NN2 can_VM check_VVI out_RP ,_, renew_VV0 and_CC return_VVI items_NN2 ,_, collect_VV0 reserved_JJ copies_NN2 and_CC settle_VV0 fines_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ also_RR a_AT1 seventh_MD counter_NN1 specialising_VVG in_II document_NN1 supply_NN1 ._. 
+</s>
+<s>
+Customers_NN2 are_VBR served_VVN by_II librarians_NN2 ,_, typically_RR two_MC or_CC three_MC at_RR21 present_RR22 ,_, who_PNQS also_RR handle_VV0 occasional_JJ transactions_NN2 over_II the_AT phone_NN1 ._. 
+</s>
+<s>
+The_AT six_MC new_JJ self-service_JJ machines_NN2 are_VBR located_VVN opposite_II the_AT desk_NN1 and_CC can_VM only_RR be_VBI used_VVN to_TO check_VVI out_RP ,_, renew_VV0 and_CC return_VVI items_NN2 ._. 
+</s>
+<s>
+Customers_NN2 can_VM also_RR return_VVI items_NN2 though_CS drop_NN1 boxes_NN2 located_VVN at_II the_AT entrance_NN1 to_II the_AT library_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR two_MC separate_JJ queues_NN2 -_- one_MC1 for_IF the_AT desk_NN1 and_CC one_PN1 for_IF the_AT machines_NN2 ._. 
+</s>
+<s>
+At_RR21 present_RR22 ,_, the_AT queue_NN1 for_IF the_AT machines_NN2 is_VBZ usually_RR empty_JJ and_CC there_EX are_VBR rarely_RR more_DAR than_CSN two_MC or_CC three_MC people_NN waiting_VVG to_TO be_VBI served_VVN at_II the_AT desk_NN1 ._. 
+</s>
+<s>
+The_AT aim_NN1 was_VBDZ to_TO keep_VVI the_AT model_NN1 as_RG simple_JJ and_CC efficient_JJ as_CSA possible_JJ without_IW compromising_VVG the_AT validity_NN1 of_IO the_AT results_NN2 ._. 
+</s>
+<s>
+Four_MC experimental_JJ factors_NN2 were_VBDR identified_VVN :_: The_AT number_NN1 of_IO counters_NN2 at_II the_AT issue_NN1 desk_NN1 was_VBDZ not_XX included_VVN as_II an_AT1 experimental_JJ factor_NN1 since_II adding_VVG additional_JJ counters_NN2 would_VM be_VBI a_AT1 comparatively_RR expensive_JJ and_CC disruptive_JJ exercise_NN1 ._. 
+</s>
+<s>
+Seven_MC response_NN1 variables_NN2 were_VBDR selected_VVN :_: Based_VVN on_II the_AT chosen_JJ inputs_NN2 and_CC outputs_NN2 ,_, a_AT1 small_JJ number_NN1 of_IO core_NN1 components_NN2 were_VBDR identified_VVN :_: Phone_NN1 transactions_NN2 were_VBDR also_RR initially_RR included_VVN on_II the_AT basis_NN1 that_CST they_PPHS2 can_VM interrupt_VVI other_JJ transactions_NN2 and_CC potentially_RR tie_VV0 up_RP librarians_NN2 ._. 
+</s>
+<s>
+The_AT issue_NN1 desk_NN1 and_CC self-service_JJ machines_NN2 associated_VVN with_IW the_AT short_JJ loan_NN1 collection_NN1 were_VBDR not_XX included_VVN since_CS they_PPHS2 operate_VV0 independently_RR on_II a_AT1 distinct_JJ set_NN1 of_IO loans_NN2 ._. 
+</s>
+<s>
+Similarly_RR ,_, the_AT document_NN1 supply_NN1 counter_NN1 at_II the_AT end_NN1 of_IO the_AT issue_NN1 desk_NN1 was_VBDZ excluded_VVN because_CS it_PPH1 handles_VVZ a_AT1 completely_RR unrelated_JJ set_NN1 of_IO transactions_NN2 and_CC has_VHZ its_APPGE own_DA ,_, usually_RR non-existent_JJ ,_, queue_VV0 ._. 
+</s>
+<s>
+The_AT drop_NN1 boxes_NN2 at_II the_AT entrance_NN1 to_II the_AT library_NN1 were_VBDR omitted_VVN on_II the_AT basis_NN1 that_CST their_APPGE effect_NN1 on_II transaction_NN1 numbers_NN2 would_VM already_RR be_VBI accounted_VVN for_IF in_II the_AT sampling_NN1 of_IO inter-arrival_JJ times_NNT2 ._. 
+</s>
+<s>
+The_AT differing_JJ nature_NN1 of_IO individual_JJ transactions_NN2 was_VBDZ deemed_VVN very_RG important_JJ -_- a_AT1 simple_JJ renewal_NN1 or_CC return_NN1 is_VBZ likely_JJ to_TO take_VVI much_DA1 less_DAR time_NNT1 to_TO complete_VVI than_CSN the_AT collection_NN1 of_IO a_AT1 reserved_JJ item_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, since_CS the_AT self-service_JJ machines_NN2 can_VM only_RR be_VBI used_VVN for_IF certain_JJ transactions_NN2 ,_, the_AT route_NN1 taken_VVN by_II a_AT1 customer_NN1 through_II the_AT system_NN1 is_VBZ determined_VVN ,_, in_RR21 part_RR22 ,_, by_II the_AT nature_NN1 of_IO their_APPGE transaction_NN1 ._. 
+</s>
+<s>
+The_AT time_NNT1 taken_VVN to_TO complete_VVI each_DD1 transaction_NN1 is_VBZ unlikely_JJ to_TO be_VBI directly_RR proportional_JJ to_II the_AT number_NN1 of_IO items_NN2 involved_VVD ._. 
+</s>
+<s>
+Therefore_RR ,_, instead_II21 of_II22 modelling_VVG the_AT number_NN1 of_IO items_NN2 involved_JJ in_II each_DD1 transaction_NN1 explicitly_RR ,_, it_PPH1 seemed_VVD more_RGR appropriate_JJ to_TO incorporate_VVI the_AT associated_JJ variability_NN1 in_II the_AT sampling_NN1 of_IO transaction_NN1 times_NNT2 ._. 
+</s>
+<s>
+Acceptance_NN1 of_IO the_AT new_JJ machines_NN2 ,_, and_CC ,_, in_RR21 particular_RR22 ,_, the_AT willingness_NN1 of_IO customers_NN2 to_TO use_VVI them_PPHO2 was_VBDZ identified_VVN as_II an_AT1 important_JJ experimental_JJ factor_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ decided_VVN that_CST the_AT most_RGT efficient_JJ way_NN1 to_TO model_VVI this_DD1 was_VBDZ to_TO have_VHI two_MC distinct_JJ types_NN2 of_IO customer_NN1 :_: the_AT self-service_JJ adverse_JJ ,_, who_PNQS always_RR go_VV0 to_II the_AT desk_NN1 ,_, and_CC the_AT indifferent_JJ ,_, who_PNQS join_VV0 whichever_DDQV queue_NN1 is_VBZ shortest_JJT ._. 
+</s>
+<s>
+Although_CS librarians_NN2 regularly_RR attend_VV0 to_II other_JJ tasks_NN2 around_II the_AT library_NN1 ,_, only_RR those_DD2 based_VVN at_II the_AT issue_NN1 desk_NN1 have_VH0 a_AT1 direct_JJ bearing_NN1 on_II the_AT modelling_NN1 objectives_NN2 ._. 
+</s>
+<s>
+Furthermore_RR ,_, since_CS librarians_NN2 regularly_RR step-in_JJ for_IF each_PPX221 other_PPX222 ,_, the_AT number_NN1 manning_VVG the_AT desk_NN1 remains_VVZ essentially_RR constant_JJ ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ therefore_RR unnecessary_JJ to_TO model_VVI staff_NN breaks_NN2 and_CC shift_VVI patterns_NN2 ._. 
+</s>
+<s>
+Machine_VV0 breakdowns_NN2 are_VBR rare_JJ and_CC data_NN describing_VVG their_APPGE frequency_NN1 and_CC duration_NN1 is_VBZ neither_RR obtainable_JJ ,_, nor_CC observable_JJ ._. 
+</s>
+<s>
+Similarly_RR ,_, although_CS the_AT return_NN1 boxes_NN2 placed_VVN next_II21 to_II22 the_AT machines_NN2 require_VV0 regular_JJ emptying_JJ ,_, the_AT process_NN1 is_VBZ reasonably_RR quick_JJ and_CC usually_RR takes_VVZ place_NN1 when_CS the_AT machines_NN2 are_VBR not_XX in_II use_NN1 ._. 
+</s>
+<s>
+Both_DB2 types_NN2 of_IO stoppage_NN1 were_VBDR therefore_RR omitted_VVN from_II the_AT model_NN1 ._. 
+</s>
+<s>
+Perhaps_RR the_AT riskiest_JJT assumption_NN1 made_VVD was_VBDZ that_CST arrivals_NN2 occur_VV0 randomly_RR ,_, independently_RR and_CC at_II a_AT1 constant_JJ average_JJ rate_NN1 ._. 
+</s>
+<s>
+In_II reality_NN1 ,_, a_AT1 surge_NN1 of_IO activity_NN1 could_VM be_VBI expected_VVN during_II the_AT last_MD few_DA2 minutes_NNT2 of_IO each_DD1 hour_NNT1 ,_, when_CS students_NN2 leave_VV0 in_II large_JJ numbers_NN2 to_TO attend_VVI lectures_NN2 and_CC seminars_NN2 ._. 
+</s>
+<s>
+Given_VVN the_AT importance_NN1 attached_VVN to_II the_AT arrival_NN1 rate_NN1 as_II an_AT1 experimental_JJ factor_NN1 ,_, together_RL with_IW the_AT potential_NN1 for_IF a_AT1 large_JJ discrepancy_NN1 ,_, it_PPH1 was_VBDZ necessary_JJ to_TO reassess_VVI the_AT validity_NN1 of_IO this_DD1 assumption_NN1 following_VVG the_AT data_NN collection_NN1 exercise_NN1 (_( see_VV0 section_NN1 4.1_MC )_) ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ also_RR assumed_VVN that_CST the_AT time_NNT1 taken_VVN to_TO complete_VVI a_AT1 transaction_NN1 at_II either_RR the_AT issue_NN1 desk_NN1 or_CC the_AT self-service_JJ machines_NN2 is_VBZ independent_JJ of_IO the_AT length_NN1 of_IO the_AT corresponding_JJ queue_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ unlikely_JJ to_TO be_VBI true_JJ in_II practice_NN1 -_- librarians_NN2 will_VM often_RR process_VVI transactions_NN2 faster_RRR when_CS they_PPHS2 see_VV0 a_AT1 queue_NN1 building_VVG up_RP and_CC customers_NN2 tend_VV0 to_TO spend_VVI less_DAR time_NNT1 at_II the_AT machines_NN2 if_CS others_NN2 are_VBR waiting_VVG behind_II them_PPHO2 ._. 
+</s>
+<s>
+Nonetheless_RR ,_, accurately_RR modelling_VVG this_DD1 behaviour_NN1 would_VM not_XX have_VHI been_VBN easy_JJ and_CC omitting_VVG it_PPH1 was_VBDZ unlikely_JJ to_TO significantly_RR affect_VVI the_AT performance_NN1 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+In_II real_JJ life_NN1 ,_, customers_NN2 may_VM abandon_VVI a_AT1 queue_NN1 if_CS their_APPGE patience_NN1 runs_VVZ out_RP ._. 
+</s>
+<s>
+However_RR ,_, given_VVN the_AT considerable_JJ hassle_NN1 involved_JJ in_II returning_VVG items_NN2 to_II the_AT upper_JJ floors_NN2 ,_, extremely_RR long_RR queuing_JJ times_NNT2 would_VM be_VBI required_VVN for_IF there_RL to_TO be_VBI a_AT1 significant_JJ number_NN1 of_IO customers_NN2 choosing_VVG to_TO do_VDI so_RR ._. 
+</s>
+<s>
+Since_CS one_MC1 of_IO the_AT objectives_NN2 was_VBDZ to_TO minimise_VVI service_NN1 times_NNT2 ,_, sufficiently_RR long_JJ queues_NN2 were_VBDR unlikely_JJ to_TO build_VVI up_RP in_II the_AT chosen_JJ scenarios_NN2 and_CC so_RR it_PPH1 seemed_VVD reasonable_JJ to_TO disregard_VVI this_DD1 possibility_NN1 ._. 
+</s>
+<s>
+Similarly_RR ,_, given_VVN the_AT substantial_JJ amount_NN1 of_IO free_JJ space_NN1 available_JJ between_II the_AT desk_NN1 and_CC machines_NN2 ,_, it_PPH1 was_VBDZ assumed_VVN that_CST there_EX is_VBZ effectively_RR no_AT constraint_NN1 on_II the_AT maximum_JJ length_NN1 of_IO either_DD1 queue_NN1 ._. 
+</s>
+<s>
+Each_DD1 transaction_NN1 is_VBZ composed_VVN from_II five_MC basic_JJ actions_NN2 :_: check_VV0 out_RP ,_, renewal_NN1 ,_, return_VV0 ,_, reserve_JJ collection_NN1 and_CC fine_JJ payment_NN1 ._. 
+</s>
+<s>
+Treating_VVG each_DD1 of_IO the_AT thirty-one_MC possible_JJ combinations_NN2 individually_RR would_VM have_VHI made_VVN the_AT model_NN1 somewhat_RR unwieldy_JJ ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ therefore_RR decided_VVN that_CST transactions_NN2 should_VM be_VBI categorised_VVN into_II two_MC abstract_JJ types_NN2 :_: type_NN1 A_ZZ1 for_IF those_DD2 that_CST can_VM be_VBI carried_VVN out_RP at_II either_RR the_AT issue_NN1 desk_NN1 or_CC the_AT self-service_JJ machines_NN2 ,_, and_CC type_NN1 B_ZZ1 for_IF those_DD2 that_CST can_VM only_RR be_VBI completed_VVN by_II a_AT1 librarian_NN1 at_II the_AT desk_NN1 (_( i.e._REX those_DD2 involving_VVG a_AT1 reserve_JJ collection_NN1 or_CC fine_JJ payment_NN1 )_) ._. 
+</s>
+<s>
+During_II the_AT early_JJ stages_NN2 of_IO data_NN collection_NN1 ,_, the_AT volume_NN1 of_IO phone_NN1 calls_NN2 made_VVN to_II the_AT issue_NN1 desk_NN1 was_VBDZ much_RR lower_JJR than_CSN anticipated_JJ ,_, to_II the_AT extent_NN1 that_CST these_DD2 calls_NN2 had_VHD little_DA1 or_CC no_AT effect_NN1 on_II service_NN1 times_NNT2 ._. 
+</s>
+<s>
+It_PPH1 therefore_RR seemed_VVD appropriate_JJ to_TO simplify_VVI the_AT model_NN1 further_RRR by_II removing_VVG them_PPHO2 from_II the_AT system_NN1 entirely_RR ._. 
+</s>
+<s>
+Furthermore_RR ,_, a_AT1 significant_JJ number_NN1 of_IO customers_NN2 were_VBDR observed_VVN rejoining_VVG the_AT queue_NN1 for_IF the_AT desk_NN1 after_II having_VHG used_VVN the_AT self-service_JJ machines_NN2 ._. 
+</s>
+<s>
+It_PPH1 transpired_VVD that_CST over_RG 10%_NNU of_IO the_AT transactions_NN2 attempted_VVN at_II the_AT machines_NN2 are_VBR unsuccessful_JJ -_- sometimes_RT due_II21 to_II22 damaged_JJ barcodes_NN2 and_CC unrecognised_JJ library_NN1 cards_NN2 ,_, but_CCB also_RR because_CS the_AT machines_NN2 can_VM not_XX be_VBI used_VVN to_TO return_VVI items_NN2 that_CST have_VH0 been_VBN reserved_VVN by_II another_DD1 user_NN1 ._. 
+</s>
+<s>
+Given_VVN the_AT relatively_RR large_JJ proportion_NN1 of_IO transactions_NN2 affected_VVN ,_, and_CC the_AT considerable_JJ amount_NN1 of_IO time_NNT1 lost_VVN as_II a_AT1 result_NN1 ,_, it_PPH1 was_VBDZ important_JJ to_TO add_VVI this_DD1 detail_NN1 to_II the_AT model_NN1 ._. 
+</s>
+<s>
+Diagrams_NN2 of_IO the_AT conceptual_JJ model_NN1 are_VBR given_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found_VVN ._. 
+</s>
+<s>
+._. A_ZZ1 substantial_JJ amount_NN1 of_IO empirical_JJ data_NN was_VBDZ required_VVN for_IF the_AT verification_NN1 of_IO assumptions_NN2 ,_, estimation_NN1 of_IO parameters_NN2 ,_, fitting_NN1 of_IO distributions_NN2 and_CC validation_NN1 of_IO output_NN1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ collected_VVN during_II the_AT first_MD two_MC weeks_NNT2 of_IO the_AT Easter_NNT1 break_NN1 and_CC is_VBZ included_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found_VVN ._. 
+</s>
+<s>
+._. As_CSA discussed_VVN in_II section_NN1 2.5_MC ,_, there_EX was_VBDZ some_DD uncertainty_NN1 as_II21 to_II22 whether_CSW31 or_CSW32 not_CSW33 arrivals_NN2 occur_VV0 independently_RR and_CC at_II a_AT1 constant_JJ average_JJ rate_NN1 ._. 
+</s>
+<s>
+To_TO help_VVI identify_VVI any_DD trends_NN2 ,_, a_AT1 histogram_NN1 was_VBDZ produced_VVN for_IF each_DD1 hour-long_JJ record_NN1 of_IO arrivals_NN2 ._. 
+</s>
+<s>
+The_AT first_MD (_( Figure_NN1 1a_FO )_) exhibits_VVZ some_DD periodicity_NN1 whereas_CS the_AT second_MD (_( Figure_NN1 1b_FO )_) suggests_VVZ a_AT1 relatively_RR constant_JJ rate_NN1 of_IO arrival_NN1 ._. 
+</s>
+<s>
+In_II the_AT absence_NN1 of_IO a_AT1 consistent_JJ pattern_NN1 ,_, the_AT assumption_NN1 was_VBDZ maintained_VVN ._. 
+</s>
+<s>
+Let_VV0 A_ZZ1 be_VBI shorthand_NN1 for_IF "_" transaction_NN1 was_VBDZ of_IO type_NN1 A_ZZ1 "_" ,_, D_ZZ1 for_IF "_" queued_VVN for_IF the_AT issue_NN1 desk_NN1 "_" and_CC S_ZZ1 for_IF "_" queued_VVN for_IF the_AT self-service_JJ machines_NN2 "_" ._. 
+</s>
+<s>
+From_II the_AT data_NN collected_VVD :_: ,_, ,_, ,_, ._. 
+</s>
+<s>
+Since_CS D_ZZ1 and_CC S_ZZ1 are_VBR mutually_RR exclusive_JJ ,_, the_AT proportion_NN1 of_IO transactions_NN2 that_CST were_VBDR of_IO type_NN1 A_ZZ1 is_VBZ given_VVN by_II :_: =_FO =_FO =_FO =_FO =_FO ._. 
+</s>
+<s>
+The_AT proportion_NN1 of_IO customers_NN2 with_IW type_NN1 A_ZZ1 transactions_NN2 that_CST chose_VVD to_TO carryout_VVI their_APPGE transaction_NN1 at_II the_AT desk_NN1 was_VBDZ estimated_VVN in_II a_AT1 similar_JJ manner_NN1 :_: =_FO =_FO =_FO =_FO =_FO ._. 
+</s>
+<s>
+Since_CS there_EX was_VBDZ barely_RR ever_RR a_AT1 queue_NN1 for_IF the_AT machines_NN2 ,_, this_DD1 was_VBDZ assumed_VVN to_II equal_JJ the_AT proportion_NN1 of_IO customers_NN2 that_CST were_VBDR self-service_JJ adverse_JJ ._. 
+</s>
+<s>
+Of_IO the_AT 167_MC self-service_JJ transactions_NN2 observed_VVD ,_, 22_MC were_VBDR unsuccessful_JJ ,_, implying_VVG a_AT1 failure_NN1 rate_NN1 of_IO 13%_NNU ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ decided_VVN that_CST parametric_JJ distributions_NN2 should_VM be_VBI used_VVN throughout_II the_AT model_NN1 since_CS ,_, unlike_JJ distributions_NN2 based_VVN exclusively_RR on_II empirical_JJ data_NN ,_, they_PPHS2 are_VBR easy_JJ to_TO adjust_VVI and_CC able_JK to_TO produce_VVI occasional_JJ extreme_JJ values_NN2 ._. 
+</s>
+<s>
+Since_CS arrivals_NN2 were_VBDR assumed_VVN to_TO occur_VVI randomly_RR ,_, independently_RR and_CC at_II a_AT1 constant_JJ average_JJ rate_NN1 ,_, they_PPHS2 could_VM be_VBI modelled_VVN using_VVG a_AT1 Poisson_NP1 distribution_NN1 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, inter-arrival_JJ times_NNT2 could_VM be_VBI sampled_VVN from_II a_AT1 negative_JJ exponential_NN1 distribution_NN1 ._. 
+</s>
+<s>
+The_AT two_MC lists_NN2 of_IO observed_JJ arrival_NN1 times_NNT2 were_VBDR combined_VVN to_TO produce_VVI a_AT1 single_JJ sample_NN1 of_IO 248_MC inter-arrival_JJ times_NNT2 ._. 
+</s>
+<s>
+The_AT sample_NN1 was_VBDZ then_RT imported_VVN into_II StatFit_NP1 ,_, a_AT1 distribution_NN1 fitting_NN1 package_NN1 ,_, which_DDQ recommended_VVD a_AT1 negative_JJ exponential_NN1 distribution_NN1 with_IW mean_JJ 28_MC ._. 
+</s>
+<s>
+Service_NN1 times_NNT2 are_VBR typically_RR sampled_VVN from_II a_AT1 triangular_JJ ,_, normal_JJ or_CC lognormal_JJ distribution_NN1 ._. 
+</s>
+<s>
+In_II each_DD1 sample_NN1 there_EX were_VBDR a_AT1 few_DA2 values_NN2 that_CST were_VBDR significantly_RR higher_JJR than_CSN average_JJ ._. 
+</s>
+<s>
+These_DD2 extreme_JJ values_NN2 represented_VVD the_AT occasional_JJ transactions_NN2 that_CST threw_VVD up_RP complications_NN2 ._. 
+</s>
+<s>
+Based_VVN on_II this_DD1 observation_NN1 ,_, a_AT1 lognormal_JJ distribution_NN1 seemed_VVD to_II particularly_RR appropriate_JJ ._. 
+</s>
+<s>
+Estimates_NN2 for_IF the_AT distribution_NN1 mean_VV0 and_CC standard_JJ deviation_NN1 were_VBDR obtained_VVN using_VVG StatFit_NN1 and_CC are_VBR presented_VVN in_II Table_NN1 1_MC1 ._. 
+</s>
+<s>
+A_AT1 plot_NN1 of_IO each_DD1 distribution_NN1 ,_, together_RL with_IW a_AT1 histogram_NN1 of_IO the_AT empirical_JJ data_NN used_VMK to_TO fit_VVI it_PPH1 ,_, can_VM be_VBI found_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found_VVN ._. 
+</s>
+<s>
+._. The_AT computer_NN1 model_NN1 was_VBDZ developed_VVN using_VVG Simul8_FO ,_, a_AT1 visual_JJ interactive_JJ modelling_NN1 environment_NN1 geared_VVD specifically_RR towards_II discrete_JJ event_NN1 business_NN1 simulation_NN1 ._. 
+</s>
+<s>
+Named_JJ distributions_NN2 and_CC global_JJ values_NN2 were_VBDR used_VVN to_TO keep_VVI the_AT simulation_NN1 data_NN separate_VV0 from_II the_AT logic_NN1 ._. 
+</s>
+<s>
+Structuring_VVG the_AT model_NN1 in_II this_DD1 way_NN1 ensured_VVD that_CST distributions_NN2 and_CC constants_NN2 could_VM be_VBI adjusted_VVN quickly_RR and_CC easily_RR ._. 
+</s>
+<s>
+Four_MC labels_NN2 were_VBDR assigned_VVN to_II each_DD1 customer_NN1 :_: one_PN1 for_IF recording_VVG the_AT customer_NN1 's_GE transaction_NN1 type_NN1 ,_, another_DD1 for_IF their_APPGE choice_NN1 of_IO queue_NN1 ,_, one_PN1 for_IF the_AT outcome_NN1 of_IO their_APPGE transaction_NN1 and_CC the_AT forth_RR to_TO implement_VVI the_AT label_NN1 based_VVN sampling_NN1 of_IO transaction_NN1 times_NNT2 at_II the_AT issue_NN1 desk_NN1 ._. 
+</s>
+<s>
+Complex_JJ routing_NN1 and_CC timing_NN1 rules_NN2 were_VBDR implemented_VVN using_VVG Visual_JJ Logic_NN1 ._. 
+</s>
+<s>
+A_AT1 dummy_JJ work_NN1 centre_NN1 named_VVD 'Choose_NN1 Queue'_NP1 was_VBDZ required_VVN to_TO implement_VVI the_AT queue_NN1 selection_NN1 routine_NN1 since_CS Simul8_FO 's_GE work_NN1 entry_NN1 points_NN2 do_VD0 not_XX support_VVI label_NN1 based_VVN routing_NN1 ._. 
+</s>
+<s>
+Routines_NN2 relating_VVG to_II the_AT sampling_NN1 of_IO service_NN1 times_NNT2 were_VBDR assigned_VVN to_II storage_NN1 bins_NN2 ,_, instead_II21 of_II22 individual_JJ work_NN1 centres_NN2 ,_, in_BCL21 order_BCL22 to_TO avoid_VVI code_NN1 duplication_NN1 ._. 
+</s>
+<s>
+Simul8_FO 's_GE memo_NN1 facility_NN1 was_VBDZ used_VVN extensively_RR to_TO describe_VVI the_AT role_NN1 of_IO each_DD1 component_NN1 in_II the_AT model_NN1 and_CC comments_NN2 were_VBDR added_VVN to_II Visual_JJ Logic_NN1 code_NN1 where_CS appropriate_JJ ._. 
+</s>
+<s>
+Some_DD of_IO this_DD1 documentation_NN1 is_VBZ included_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found_VVN ._. 
+</s>
+<s>
+._. Because_CS one_MC1 of_IO the_AT main_JJ experimental_JJ factors_NN2 was_VBDZ the_AT customer_NN1 arrival_NN1 rate_NN1 ,_, the_AT average_JJ inter-arrival_JJ time_NNT1 remained_VVD constant_JJ throughout_II each_DD1 run_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 was_VBDZ therefore_RR non-terminating_JJ ,_, essentially_RR simulating_VVG just_RR one_MC1 period_NN1 in_II the_AT day_NNT1 ._. 
+</s>
+<s>
+Appropriate_JJ initial_JJ conditions_NN2 would_VM have_VHI been_VBN very_RG hard_JJ to_TO determine_VVI ,_, especially_RR since_CS they_PPHS2 would_VM have_VHI depended_VVN on_II the_AT model_NN1 inputs_NN2 ._. 
+</s>
+<s>
+Giving_VVG each_DD1 run_VVN a_AT1 warm_JJ start_NN1 was_VBDZ therefore_RR not_XX an_AT1 option_NN1 ,_, and_CC so_RR a_AT1 suitable_JJ warm-up_NN1 period_NN1 had_VHD to_TO be_VBI found_VVN ._. 
+</s>
+<s>
+Simul8_FO 's_GE time_NNT1 check_NN1 feature_NN1 was_VBDZ used_VVN to_TO record_VVI the_AT value_NN1 of_IO three_MC key_JJ response_NN1 variables_NN2 at_II sixty-second_NNU intervals_NN2 ._. 
+</s>
+<s>
+The_AT data_NN obtained_VVN from_II three_MC separate_JJ runs_NN2 was_VBDZ then_RT exported_VVN to_TO Excel_VV0 and_CC plotted_VVD ._. 
+</s>
+<s>
+The_AT most_RGT valuable_JJ plots_NN2 were_VBDR of_IO the_AT average_JJ time_NNT1 in_II the_AT system_NN1 and_CC are_VBR given_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found_VVN ._. 
+</s>
+<s>
+._. In_II each_DD1 case_NN1 ,_, steady_JJ state_NN1 was_VBDZ reached_VVN within_II thirty_MC minutes_NNT2 and_CC so_RR the_AT warm-up_NN1 period_NN1 was_VBDZ set_VVN to_II 1800_MC seconds_NNT2 ._. 
+</s>
+<s>
+Steps_NN2 were_VBDR taken_VVN to_TO verify_VVI the_AT model_NN1 throughout_II the_AT development_NN1 cycle_NN1 ._. 
+</s>
+<s>
+Simul8_FO 's_GE step_NN1 function_NN1 was_VBDZ used_VVN to_TO follow_VVI individual_JJ customers_NN2 through_II the_AT system_NN1 ,_, the_AT utilisation_NN1 of_IO individual_JJ work_NN1 centres_NN2 was_VBDZ monitored_VVN to_TO check_VVI that_CST they_PPHS2 were_VBDR all_DB receiving_JJ work_NN1 items_NN2 ,_, and_CC a_AT1 number_NN1 of_IO extreme_JJ value_NN1 tests_NN2 were_VBDR carried_VVN out_RP ._. 
+</s>
+<s>
+These_DD2 tests_NN2 are_VBR listed_VVN in_II Table_NN1 2_MC ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 validating_VVG the_AT conceptual_JJ model_NN1 (_( see_VV0 sections_NN2 2.7_MC and_CC 4.1_MC )_) ,_, it_PPH1 was_VBDZ necessary_JJ to_TO check_VVI that_CST the_AT computer_NN1 model_NN1 simulated_VVD the_AT real_JJ system_NN1 with_IW sufficiently_RR accuracy_NN1 ._. 
+</s>
+<s>
+At_II an_AT1 informal_JJ level_NN1 ,_, the_AT simulation_NN1 was_VBDZ run_VVN at_II reduced_JJ speed_NN1 with_IW Simul8_FO 's_GE animation_NN1 facilities_NN2 enabled_VVD ._. 
+</s>
+<s>
+The_AT overall_JJ behaviour_NN1 of_IO the_AT model_NN1 ,_, including_II the_AT build_VV0 up_RP and_CC clearing_NN1 of_IO queues_NN2 and_CC occasional_JJ bursts_NN2 of_IO high_JJ activity_NN1 ,_, was_VBDZ very_RG similar_JJ to_II that_DD1 observed_VVD in_II the_AT real_JJ system_NN1 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, there_EX was_VBDZ hardly_RR ever_RR a_AT1 queue_NN1 for_IF the_AT self-service_JJ machines_NN2 ,_, and_CC when_CS there_EX was_VBDZ ,_, it_PPH1 was_VBDZ cleared_VVN within_II a_AT1 few_DA2 seconds_NNT2 ._. 
+</s>
+<s>
+Similarly_RR ,_, there_EX were_VBDR rarely_RR more_RRR that_DD1 two_MC or_CC three_MC people_NN waiting_VVG to_TO be_VBI served_VVN at_II the_AT issue_NN1 desk_NN1 and_CC ,_, as_CSA in_II reality_NN1 ,_, there_EX were_VBDR occasions_NN2 where_RRQ the_AT entire_JJ system_NN1 remained_VVD idle_JJ for_IF up_RG21 to_RG22 two_MC or_CC three_MC minutes_NNT2 ._. 
+</s>
+<s>
+For_IF a_AT1 more_RGR formal_JJ assessment_NN1 ,_, response_NN1 variables_NN2 relating_VVG to_II the_AT time_NNT1 spent_VVN by_II customers_NN2 in_II the_AT system_NN1 were_VBDR compared_VVN against_II equivalent_JJ statistics_NN for_IF the_AT empirical_JJ data_NN collected_VVN from_II the_AT real_JJ system_NN1 ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found_VVN ._. 
+</s>
+<s>
+,_, there_EX was_VBDZ the_AT averages_NN2 were_VBDR in_II close_JJ agreement_NN1 yet_RR there_EX was_VBDZ an_AT1 extremely_RR large_JJ discrepancy_NN1 between_II the_AT maximums_NN2 ._. 
+</s>
+<s>
+The_AT latter_DA was_VBDZ probably_RR due_II21 to_II22 the_AT relatively_RR small_JJ sample_NN1 of_IO times_NNT2 taken_VVN from_II the_AT real_JJ system_NN1 rather_II21 than_II22 a_AT1 fault_NN1 in_II the_AT model_NN1 -_- the_AT empirical_JJ maximum_NN1 was_VBDZ taken_VVN over_RG nineteen_MC values_NN2 compared_VVN to_II nearly_RR eight_MC hundred_NNO for_IF the_AT simulation_NN1 maximum_NN1 ._. 
+</s>
+<s>
+With_IW up_RG21 to_RG22 seven_MC thousand_NNO users_NN2 entering_VVG each_DD1 day_NNT1 ,_, the_AT library_NN1 is_VBZ approximately_RR three_MC times_NNT2 busier_JJR during_II the_AT summer_NNT1 term_NN1 than_CSN it_PPH1 is_VBZ now_RT ._. 
+</s>
+<s>
+Assuming_VVG that_CST demand_VV0 on_II the_AT issue_NN1 desk_NN1 and_CC self-service_JJ machines_NN2 is_VBZ roughly_RR proportional_JJ to_II the_AT number_NN1 people_NN using_VVG the_AT library_NN1 ,_, as_RG many_DA2 as_CSA 450_MC customers_NN2 could_VM be_VBI expected_VVN to_TO enter_VVI the_AT system_NN1 each_DD1 hour_NNT1 during_II peak_NN1 times_NNT2 ._. 
+</s>
+<s>
+Given_VVN the_AT large_JJ number_NN1 of_IO scenarios_NN2 potentially_RR worth_II simulating_VVG ,_, it_PPH1 was_VBDZ necessary_JJ to_TO concentrate_VVI on_RP just_RR a_AT1 couple_NN1 of_IO factors_NN2 ,_, namely_REX the_AT number_NN1 of_IO librarians_NN2 on_II duty_NN1 and_CC the_AT number_NN1 of_IO machines_NN2 available_JJ ._. 
+</s>
+<s>
+The_AT scenarios_NN2 chosen_VVN are_VBR listed_VVN in_II Table_NN1 3_MC ._. 
+</s>
+<s>
+The_AT relationship_NN1 between_II the_AT number_NN1 of_IO replications_NN2 per_II trial_NN1 and_CC the_AT accuracy_NN1 of_IO results_NN2 is_VBZ illustrated_VVN in_II Figure_NN1 2_MC ._. 
+</s>
+<s>
+Similar_JJ plots_NN2 were_VBDR produced_VVN for_IF three_MC of_IO the_AT five_MC scenarios_NN2 ._. 
+</s>
+<s>
+In_II each_DD1 case_NN1 ,_, the_AT desired_JJ level_NN1 of_IO accuracy_NN1 was_VBDZ achieved_VVN with_IW ten_MC or_CC less_DAR replications_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO minimise_VVI the_AT variation_NN1 between_II scenarios_NN2 ,_, the_AT same_DA random_JJ number_NN1 streams_NN2 were_VBDR used_VVN in_II each_DD1 trial_NN1 ._. 
+</s>
+<s>
+Results_NN2 for_IF each_DD1 scenario_NN1 are_VBR included_VVN in_II Error_NN1 !_! 
+</s>
+<s>
+Reference_NN1 source_NN1 not_XX found_VVN ._. 
+</s>
+<s>
+,_, a_AT1 summary_NN1 is_VBZ provided_VVN in_II Table_NN1 4_MC ._. 
+</s>
+<s>
+The_AT first_MD and_CC fourth_MD rows_NN2 of_IO Table_NN1 4_MC suggest_VV0 that_CST the_AT addition_NN1 of_IO both_DB2 librarians_NN2 and_CC self-service_JJ machines_NN2 generally_RR has_VHZ a_AT1 positive_JJ effect_NN1 on_II the_AT performance_NN1 of_IO the_AT system_NN1 ,_, which_DDQ is_VBZ quite_RG intuitive_JJ ._. 
+</s>
+<s>
+The_AT reduction_NN1 in_II the_AT average_JJ time_NNT1 spent_VVN by_II customers_NN2 in_II the_AT system_NN1 achieved_VVN by_II having_VHG five_MC librarians_NN2 on_II duty_NN1 instead_II21 of_II22 four_MC was_VBDZ particularly_RR striking_VVG ._. 
+</s>
+<s>
+This_DD1 is_VBZ clear_JJ to_TO see_VVI from_II Figure_NN1 3_MC ._. 
+</s>
+<s>
+The_AT comparatively_RR long_RR queuing_JJ times_NNT2 for_IF the_AT issue_NN1 desk_NN1 in_II scenario_NN1 1_MC1 are_VBR consistent_JJ with_IW idea_NN1 that_CST there_EX were_VBDR not_XX enough_DD librarians_NN2 on_II duty_NN1 ._. 
+</s>
+<s>
+Although_CS the_AT figures_NN2 given_VVN in_II Table_NN1 4_MC are_VBR useful_JJ for_IF obtaining_VVG a_AT1 feel_NN1% for_IF the_AT results_NN2 ,_, in_II the_AT absence_NN1 of_IO any_DD significance_NN1 tests_NN2 ,_, the_AT statistical_JJ validity_NN1 of_IO any_DD comparisons_NN2 made_VVN is_VBZ not_XX assured_VVN ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT Bonferroni_JJ inequality_NN1 ,_, in_II the_AT case_NN1 of_IO ten_MC comparisons_NN2 ,_, individual_JJ confidence_NN1 intervals_NN2 of_IO 99%_NNU are_VBR required_VVN for_IF an_AT1 overall_JJ significance_NN1 level_NN1 of_IO 10%_NNU ._. 
+</s>
+<s>
+With_IW this_DD1 principle_NN1 in_II mind_NN1 ,_, Excel_VV0 was_VBDZ used_VVN to_TO find_VVI 99%_NNU confidence_NN1 intervals_NN2 for_IF the_AT average_JJ difference_NN1 in_II the_AT average_JJ time_NNT1 spent_VVN in_II the_AT system_NN1 between_II runs_NN2 for_IF each_DD1 pair_NN of_IO trails_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR given_VVN in_II Table_NN1 5_MC ._. 
+</s>
+<s>
+As_CSA expected_VVN ,_, putting_VVG additional_JJ librarians_NN2 on_II duty_NN1 cut_VV0 the_AT average_JJ time_NNT1 spent_VVN by_II customers_NN2 in_II the_AT system_NN1 quite_RG considerably_RR ._. 
+</s>
+<s>
+Again_RT ,_, particularly_RR worthy_JJ of_IO note_NN1 was_VBDZ the_AT improvement_NN1 between_II scenarios_NN2 1_MC1 and_CC 2_MC corresponding_JJ to_II an_AT1 increase_NN1 in_II the_AT number_NN1 of_IO librarians_NN2 from_II four_MC to_II five_MC ._. 
+</s>
+<s>
+The_AT difference_NN1 between_II scenarios_NN2 2_MC and_CC 3_MC was_VBDZ less_RGR pronounced_JJ ,_, but_CCB nonetheless_RR significant_JJ ._. 
+</s>
+<s>
+The_AT results_NN2 also_RR show_VV0 that_CST adding_VVG self-service_JJ machines_NN2 had_VHD a_AT1 somewhat_RR limited_JJ effect_NN1 on_II the_AT time_NNT1 spent_VVN by_II customers_NN2 in_II the_AT system_NN1 ._. 
+</s>
+<s>
+Indeed_RR ,_, the_AT improvement_NN1 between_II scenarios_NN2 1_MC1 and_CC 4_MC ,_, corresponding_VVG to_II the_AT addition_NN1 of_IO one_MC1 self-service_JJ machine_NN1 ,_, was_VBDZ found_VVN to_TO be_VBI statistically_RR insignificant_JJ whereas_CS the_AT effect_NN1 of_IO adding_VVG two_MC self-service_JJ machines_NN2 (_( scenario_NN1 5_MC )_) was_VBDZ significantly_RR less_DAR than_CSN that_DD1 of_IO adding_VVG a_AT1 single_JJ librarian_NN1 (_( scenario_NN1 2_MC )_) ._. 
+</s>
+<s>
+The_AT validity_NN1 of_IO the_AT results_NN2 was_VBDZ somewhat_RR undermined_VVN by_II vague_JJ nature_NN1 of_IO the_AT assumptions_NN2 made_VVN during_II the_AT estimation_NN1 of_IO future_JJ demand_NN1 ._. 
+</s>
+<s>
+The_AT library_NN1 's_GE Customer_NN1 Service_NN1 Manager_NN1 was_VBDZ contacted_VVN and_CC enquiries_NN2 were_VBDR made_VVN concerning_II the_AT existence_NN1 of_IO historical_JJ records_NN2 and_CC future_JJ projections_NN2 for_IF the_AT number_NN1 of_IO loans_NN2 issued_VVN over_II the_AT summer_NNT1 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, no_AT such_DA data_NN was_VBDZ available_JJ ._. 
+</s>
+<s>
+Based_VVN on_II the_AT results_NN2 obtained_VVN from_II the_AT computer_NN1 model_NN1 ,_, scenario_NN1 2_MC appeared_VVD to_TO represent_VVI the_AT optimal_JJ trade-off_NN1 strategy_NN1 between_II system_NN1 performance_NN1 (_( service_NN1 times_NNT2 )_) and_CC efficiency_NN1 (_( librarian_NN1 utilisation_NN1 )_) ._. 
+</s>
+<s>
+The_AT results_NN2 also_RR showed_VVD that_CST there_EX were_VBDR no_AT significant_JJ gains_NN2 to_TO be_VBI made_VVN from_II the_AT installation_NN1 of_IO additional_JJ self-service_JJ machines_NN2 ._. 
+</s>

@@ -1,0 +1,609 @@
+<s>
+Gamma_NN1 ray_NN1 photons_NN2 are_VBR uncharged_JJ and_CC create_VV0 no_AT ionisation_NN1 or_CC excitation_NN1 of_IO any_DD material_NN1 they_PPHS2 pass_VV0 through_RP and_CC hence_RR the_AT methods_NN2 of_IO determining_VVG their_APPGE energies_NN2 are_VBR somewhat_RR limited_VVN ._. 
+</s>
+<s>
+Therefore_RR the_AT detection_NN1 of_IO such_DA gamma-rays_NN2 is_VBZ dependant_JJ on_II them_PPHO2 transferring_VVG all_DB or_CC part_NN1 of_IO their_APPGE energies_NN2 to_II an_AT1 electron_NN1 in_II the_AT absorbing_JJ material_NN1 ._. 
+</s>
+<s>
+From_II the_AT excitation_NN1 of_IO such_DA electrons_NN2 ,_, the_AT energies_NN2 of_IO the_AT incident_NN1 gamma-rays_NN2 can_VM be_VBI determined_VVN ._. 
+</s>
+<s>
+When_CS a_AT1 gamma_NN1 ray_NN1 interacts_VVZ with_IW another_DD1 particle_NN1 there_EX are_VBR three_MC significant_JJ ways_NN2 in_II which_DDQ that_DD1 interaction_NN1 may_VM occur_VVI :_: photoelectric_JJ absorption_NN1 ,_, Compton_NP1 scattering_VVG and_CC pair_NN production_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ from_II these_DD2 three_MC possible_JJ situations_NN2 that_CST the_AT photon_NN1 energies_NN2 can_VM be_VBI quantified_VVN ._. 
+</s>
+<s>
+Photoelectric_JJ absorption_NN1 is_VBZ where_RRQ a_AT1 gamma_NN1 ray_NN1 interacts_VVZ with_IW a_AT1 particle_NN1 and_CC disappears_VVZ ._. 
+</s>
+<s>
+Its_APPGE energy_NN1 is_VBZ transmitted_VVN to_II the_AT absorber_NN1 atom_NN1 and_CC is_VBZ converted_VVN into_II a_AT1 photoelectron_NN1 produced_VVN from_II one_MC1 of_IO the_AT atom_NN1 's_GE outer_JJ shells_NN2 ._. 
+</s>
+<s>
+This_DD1 photoelectron_NN1 has_VHZ kinetic_JJ energy_NN1 given_VVN by_II :_: Equation_NN1 1_MC1 where_CS is_VBZ the_AT kinetic_JJ energy_NN1 of_IO the_AT photoelectron_NN1 is_VBZ the_AT binding_JJ energy_NN1 of_IO the_AT electron_NN1 in_II its_APPGE original_JJ shell_NN1 ._. 
+</s>
+<s>
+This_DD1 binding_JJ energy_NN1 is_VBZ only_RR a_AT1 few_DA2 keV_NN1 for_IF low-Z_NP1 materials_NN2 ,_, increasing_VVG to_II tens_MC2 of_IO keV_NN1 for_IF materials_NN2 with_IW higher_JJR atomic_JJ number_NN1 ._. 
+</s>
+<s>
+Conservation_NN1 of_IO momentum_NN1 dictates_VVZ that_CST the_AT atom_NN1 must_VM recoil_VVI ,_, however_RRQV this_DD1 recoil_NN1 energy_NN1 is_VBZ nominal_JJ and_CC hence_RR usually_RR can_VM be_VBI neglected_VVN ._. 
+</s>
+<s>
+The_AT vacancy_NN1 that_CST arises_VVZ from_II the_AT ejection_NN1 of_IO the_AT photoelectron_NN1 from_II an_AT1 outer_JJ shell_NN1 is_VBZ then_RT quickly_RR filled_VVN via_II a_AT1 rearrangement_NN1 of_IO the_AT electron_NN1 configuration_NN1 ._. 
+</s>
+<s>
+This_DD1 yields_VVZ a_AT1 change_NN1 in_II the_AT binding_JJ energy_NN1 of_IO the_AT atom_NN1 which_DDQ manifests_VVZ itself_PPX1 as_II an_AT1 emitted_JJ X-ray_NN1 ._. 
+</s>
+<s>
+These_DD2 X-rays_NN2 travel_VV0 some_DD distance_NN1 before_II being_VBG reabsorbed_VVN by_II less_RGR tightly_RR bound_VVN electron_NN1 shells_NN2 of_IO neighbouring_JJ atoms_NN2 ._. 
+</s>
+<s>
+By_II this_DD1 form_NN1 of_IO interaction_NN1 ,_, the_AT energy_NN1 of_IO the_AT gamma-ray_NN1 is_VBZ transferred_VVN in_II its_APPGE entirety_NN1 and_CC so_RR the_AT photoelectron_NN1 energy_NN1 is_VBZ always_RR representative_JJ of_IO the_AT photon_NN1 energy_NN1 ._. 
+</s>
+<s>
+Hence_RR if_CS the_AT kinetic_JJ energies_NN2 of_IO electrons_NN2 entering_VVG a_AT1 detector_NN1 are_VBR measured_VVN ,_, the_AT resultant_JJ distribution_NN1 will_VM take_VVI the_AT form_NN1 of_IO a_AT1 delta_NN1 function_NN1 at_II the_AT point_NN1 ,_, known_VVN as_II the_AT photopeak_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX possible_JJ to_TO observe_VVI such_DA a_AT1 distinct_JJ delta_NN1 function_NN1 from_II experimental_JJ data_NN due_II21 to_II22 the_AT limitations_NN2 of_IO the_AT resolution_NN1 of_IO the_AT detector_NN1 that_CST is_VBZ used_VVN ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, the_AT single_JJ peak_NN1 will_VM look_VVI 'blurry'_NN1 -_- more_DAR like_II a_AT1 convolution_NN1 -_- and_CC have_VH0 a_AT1 finite_JJ width_NN1 that_CST is_VBZ reduced_VVN as_II the_AT resolution_NN1 is_VBZ increased_VVN ._. 
+</s>
+<s>
+Compton_NP1 scattering_NN1 occurs_VVZ when_RRQ only_JJ part_NN1 of_IO the_AT photon_NN1 energy_NN1 is_VBZ transferred_VVN to_II a_AT1 recoil_NN1 electron_NN1 and_CC as_II a_AT1 result_NN1 the_AT photon_NN1 still_RR has_VHZ some_DD energy_NN1 and_CC is_VBZ scattered_VVN ._. 
+</s>
+<s>
+Hence_RR the_AT energy_NN1 of_IO the_AT incident_NN1 photon_NN1 is_VBZ equivalent_JJ to_II the_AT sum_NN1 of_IO the_AT kinetic_JJ energies_NN2 of_IO the_AT recoil_NN1 electron_NN1 and_CC the_AT scattered_JJ photon_NN1 ._. 
+</s>
+<s>
+The_AT division_NN1 of_IO this_DD1 energy_NN1 between_II the_AT electron_NN1 and_CC the_AT scattered_JJ photon_NN1 is_VBZ dependant_JJ upon_II the_AT scattering_NN1 angle_NN1 ,_, ._. 
+</s>
+<s>
+The_AT energy_NN1 of_IO the_AT scattered_JJ gamma_NN1 ray_NN1 is_VBZ given_VVN by_II Equation_NN1 2_MC where_RRQ is_VBZ the_AT rest_NN1 mass_NN1 energy_NN1 of_IO the_AT electron_NN1 (_( 0.511MeV_NNU )_) ._. 
+</s>
+<s>
+Therefore_RR the_AT kinetic_JJ energy_NN1 of_IO the_AT recoil_NN1 electron_NN1 can_VM be_VBI expressed_VVN as_II :_: Equation_NN1 3_MC ._. 
+</s>
+<s>
+There_EX are_VBR two_MC extreme_JJ cases_NN2 :_: An_AT1 extremely_RR low_JJ scattering_NN1 angle_NN1 (_( )_) :_: from_II equation_NN1 1_MC1 and_CC from_II equation_NN1 2_MC ._. 
+</s>
+<s>
+The_AT incident_NN1 photon_NN1 barely_RR grazes_VVZ the_AT electron_NN1 ,_, retaining_VVG almost_RR all_DB of_IO its_APPGE energy_NN1 and_CC so_RR transferring_VVG minimal_JJ energy_NN1 to_II the_AT recoil_NN1 electron_NN1 ._. 
+</s>
+<s>
+A_AT1 head-on_JJ collision_NN1 (_( )_) ._. 
+</s>
+<s>
+The_AT incident_NN1 photon_NN1 is_VBZ scattered_VVN directly_RR backwards_RL and_CC transfers_VVZ the_AT maximum_JJ amount_NN1 of_IO energy_NN1 to_II the_AT recoil_NN1 electron_NN1 ,_, which_DDQ then_RT continues_VVZ along_II the_AT incidental_JJ path_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 scenario_NN1 equations_NN2 1_MC1 and_CC 2_MC become_VV0 :_: Equation_NN1 4_MC Equation_NN1 5_MC ._. 
+</s>
+<s>
+Scattering_NN1 occurs_VVZ across_II a_AT1 range_NN1 of_IO angles_NN2 between_II the_AT two_MC extreme_JJ situations_NN2 mentioned_VVN above_RL ._. 
+</s>
+<s>
+Hence_RR a_AT1 continuum_NN1 of_IO electron_NN1 energies_NN2 would_VM be_VBI received_VVN by_II the_AT detector_NN1 ,_, ranging_VVG from_II to_II a_AT1 maximum_NN1 defined_VVN by_II equation_NN1 4_MC above_RL ._. 
+</s>
+<s>
+The_AT electron_NN1 energy_NN1 distribution_NN1 takes_VVZ the_AT following_JJ form_NN1 :_: There_EX is_VBZ a_AT1 noticeable_JJ gap_NN1 between_II the_AT maximum_JJ Compton_NP1 energy_NN1 and_CC the_AT photon_NN1 energy_NN1 ._. 
+</s>
+<s>
+This_DD1 energy_NN1 gap_NN1 is_VBZ given_VVN by_II Equation_NN1 6_MC ._. 
+</s>
+<s>
+This_DD1 analysis_NN1 is_VBZ based_VVN upon_II the_AT notion_NN1 that_CST the_AT electrons_NN2 are_VBR free_JJ ._. 
+</s>
+<s>
+In_II detectors_NN2 where_RRQ the_AT electrons_NN2 are_VBR bound_VVN ,_, the_AT binding_JJ energy_NN1 of_IO the_AT material_NN1 may_VM alter_VVI the_AT shape_NN1 of_IO the_AT resultant_JJ Compton_NP1 continuum_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 involves_VVZ the_AT creation_NN1 of_IO an_AT1 electron-positron_JJ pair_NN from_II the_AT incident_NN1 photon_NN1 in_II the_AT intense_JJ electric_JJ field_NN1 near_II the_AT protons_NN2 in_II the_AT nuclei_NN2 of_IO the_AT absorbing_JJ material_NN1 ._. 
+</s>
+<s>
+The_AT photon_NN1 disappears_VVZ entirely_RR and_CC ,_, provided_CS21 that_CS22 an_AT1 energy_NN1 of_IO at_RR21 least_RR22 is_VBZ carried_VVN by_II the_AT photon_NN1 ,_, the_AT pair_NN is_VBZ generated_VVN with_IW any_DD excess_JJ energy_NN1 contributing_VVG to_II the_AT kinetic_JJ energies_NN2 of_IO both_DB2 the_AT positron_NN1 and_CC electron_NN1 ._. 
+</s>
+<s>
+This_DD1 energy_NN1 distribution_NN1 can_VM be_VBI modelled_VVN as_CSA follows_VVZ :_: Equation_NN1 7_MC ._. 
+</s>
+<s>
+The_AT contribution_NN1 of_IO pair_NN production_NN1 is_VBZ only_RR significant_JJ for_IF energies_NN2 greater_JJR than_CSN the_AT 1.02MeV_NNU threshold_NN1 and_CC so_RR this_DD1 interaction_NN1 mechanism_NN1 will_VM have_VHI less_DAR of_IO an_AT1 effect_NN1 on_II the_AT emission_NN1 spectrum_NN1 than_CSN photoelectric_JJ absorption_NN1 and_CC Compton_NP1 scattering_VVG ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 this_DD1 form_NN1 of_IO interaction_NN1 is_VBZ not_XX particularly_RR significant_JJ in_II this_DD1 experiment_NN1 ._. 
+</s>
+<s>
+Values_NN2 calculated_VVN from_II 19_MC repeat_VV0 integral_JJ readings_NN2 (_( discounting_VVG result_NN1 number_NN1 2_MC as_II an_AT1 outlier_JJR )_) :_: therefore_RR ._. 
+</s>
+<s>
+Error_NN1 in_II integral_JJ ,_, (_( 0.41%_FO )_) ._. 
+</s>
+<s>
+Error_NN1 in_II mean_JJ integral_JJ ,_, (_( 1.2%_FO )_) ._. 
+</s>
+<s>
+Error_NN1 in_RP ,_, (_( 0.8%_FO )_) ._. 
+</s>
+<s>
+The_AT experimental_JJ value_NN1 for_IF the_AT standard_JJ deviation_NN1 is_VBZ in_II agreement_NN1 with_IW the_AT theoretical_JJ value_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 discrepancy_NN1 of_IO only_JJ 1%_NNU which_DDQ is_VBZ encompassed_VVN by_II the_AT error_NN1 bounds_NN2 of_IO the_AT experimental_JJ value_NN1 ,_, however_RR there_EX will_VM always_RR be_VBI a_AT1 difference_NN1 in_II the_AT two_MC values_NN2 due_II21 to_II22 the_AT statistical_JJ nature_NN1 of_IO the_AT problem_NN1 ._. 
+</s>
+<s>
+The_AT 2_MC values_NN2 will_VM converge_VVI as_RG more_DAR readings_NN2 are_VBR taken_VVN but_CCB they_PPHS2 will_VM only_RR be_VBI equal_JJ when_RRQ ._. 
+</s>
+<s>
+As_CSA (_( time_NNT1 )_) ,_, then_RT t_ZZ1 -_- and_CC hence_RR n_ZZ1 -_- would_VM have_VHI to_TO be_VBI increased_VVN by_II a_AT1 factor_NN1 double_NN1 in_II size_NN1 to_II the_AT factor_NN1 by_II which_DDQ the_AT error_NN1 must_VM be_VBI reduced_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ due_II21 to_II22 the_AT fact_NN1 that_CST the_AT error_NN1 in_II measurement_NN1 =_FO ._. 
+</s>
+<s>
+For_REX21 example_REX22 to_II half_DB the_AT magnitude_NN1 of_IO the_AT error_NN1 4n_FO readings_NN2 would_VM have_VHI to_TO be_VBI taken_VVN ._. 
+</s>
+<s>
+A_AT1 scintillator_NN1 crystal_NN1 is_VBZ a_AT1 means_NN by_II which_DDQ to_TO linearly_RR convert_VVI the_AT kinetic_JJ energy_NN1 of_IO a_AT1 particle_NN1 into_II detectable_JJ light_NN1 such_CS21 that_CS22 by_II measuring_VVG the_AT light_NN1 from_II the_AT crystal_NN1 ,_, the_AT kinetic_JJ energy_NN1 of_IO the_AT particle_NN1 may_VM be_VBI ascertained_VVN ._. 
+</s>
+<s>
+With_IW a_AT1 refractive_JJ index_NN1 close_RR to_II that_DD1 of_IO glass_NN1 (_( 1.5_MC )_) ,_, the_AT crystal_NN1 can_VM be_VBI connected_VVN to_II a_AT1 photomultiplier_JJR tube_NN1 in_BCL21 order_BCL22 to_TO magnify_VVI the_AT light_JJ signal_NN1 for_IF clearer_JJR analysis_NN1 ._. 
+</s>
+<s>
+A_AT1 Sodium_NN1 Iodide_NN1 Thallium-doped_NN1 (_( NaI(Tl)_NP1 )_) scintillator_NN1 crystal_NN1 is_VBZ used_VVN in_II this_DD1 experiment_NN1 because_CS the_AT relatively_RR high_JJ atomic_JJ number_NN1 of_IO the_AT iodine_NN1 constituent_NN1 (_( Z=53_FO )_) ensures_VVZ that_CST the_AT photoelectric_JJ effect_NN1 is_VBZ the_AT most_RGT prominent_JJ form_NN1 of_IO interaction_NN1 between_II the_AT gamma-rays_NN2 and_CC the_AT electrons_NN2 in_II the_AT detector_NN1 ._. 
+</s>
+<s>
+Therefore_RR it_PPH1 has_VHZ high_RR intrinsic_JJ detection_NN1 efficiency_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ a_AT1 high_JJ light_JJ output_NN1 which_DDQ maximises_VVZ the_AT quality_NN1 of_IO the_AT output_NN1 signal_NN1 ._. 
+</s>
+<s>
+They_PPHS2 also_RR have_VH0 a_AT1 smaller_JJR decay_NN1 time_NNT1 -_- the_AT lower_JJR the_AT decay_NN1 time_NNT1 ,_, the_AT more_RGR frequently_RR the_AT light_JJ pulses_NN2 can_VM be_VBI sent_VVN and_CC so_RR measurements_NN2 can_VM be_VBI taken_VVN at_II a_AT1 greater_JJR rate_NN1 ._. 
+</s>
+<s>
+A_AT1 device_NN1 is_VBZ required_VVN to_TO convert_VVI the_AT relatively_RR weak_JJ light_JJ output_NN1 of_IO a_AT1 scintillation_NN1 pulse_NN1 into_II a_AT1 strong_JJ electrical_JJ signal_NN1 that_CST can_VM be_VBI analysed_VVN more_RGR easily_RR ._. 
+</s>
+<s>
+The_AT photomultiplier_JJR tube_NN1 is_VBZ particularly_RR adept_JJ at_II achieving_VVG this_DD1 ,_, converting_VVG light_JJ signals_NN2 of_IO only_RR a_AT1 few_DA2 hundred_NNO photons_NN2 into_II a_AT1 usable_JJ current_JJ pulse_NN1 without_IW adding_VVG large_JJ amounts_NN2 of_IO noise_NN1 to_II the_AT signal_NN1 ._. 
+</s>
+<s>
+The_AT entire_JJ system_NN1 is_VBZ sealed_VVN within_II a_AT1 glass_NN1 envelope_NN1 which_DDQ maintains_VVZ the_AT vacuum_NN1 conditions_NN2 required_VVN for_IF optimal_JJ acceleration_NN1 of_IO the_AT low-energy_JJ electrons_NN2 by_II the_AT internal_JJ electric_JJ fields_NN2 ._. 
+</s>
+<s>
+A_AT1 photocathode_NN1 converts_VVZ the_AT majority_NN1 of_IO photons_NN2 that_CST enter_VV0 the_AT PMT_NP1 into_II low-energy_JJ photoelectrons_NN2 ._. 
+</s>
+<s>
+When_CS such_DA a_AT1 photon_NN1 pulse_NN1 is_VBZ received_VVN from_II the_AT scintillator_NN1 crystal_NN1 ,_, a_AT1 pulse_NN1 of_IO equal_JJ duration_NN1 of_IO photoelectrons_NN2 is_VBZ transmitted_VVN ._. 
+</s>
+<s>
+However_RRQV the_AT charge_NN1 of_IO the_AT electrical_JJ signal_NN1 of_IO such_DA a_AT1 few_DA2 low-level_JJ electrons_NN2 (_( perhaps_RR only_RR a_AT1 few_DA2 hundred_NNO in_II a_AT1 single_JJ pulse_NN1 )_) is_VBZ not_XX sufficient_JJ and_CC so_CS they_PPHS2 are_VBR passed_VVN on_II21 to_II22 the_AT electron_NN1 multiplier_NN1 ._. 
+</s>
+<s>
+The_AT electron_NN1 multiplier_NN1 has_VHZ suitable_JJ geometry_NN1 to_TO efficiently_RR collect_VVI and_CC amplify_VVI the_AT number_NN1 of_IO electrons_NN2 in_II the_AT pulse_NN1 to_II a_AT1 level_NN1 where_RRQ the_AT signal_NN1 is_VBZ considerable_JJ enough_RR to_TO be_VBI useable_JJ (_( 10_MC 10_MC electrons_NN2 from_II a_AT1 single_JJ signal_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 charge_NN1 is_VBZ collected_VVN at_II the_AT anode_NN1 of_IO the_AT multiplier_NN1 structure_NN1 where_CS it_PPH1 is_VBZ then_RT transmitted_VVN on_II21 to_II22 the_AT MCA_NP1 for_IF analysis_NN1 ._. 
+</s>
+<s>
+A_AT1 configuration_NN1 comprising_VVG a_AT1 sodium_NN1 iodide_NN1 scintillator_NN1 crystal_NN1 and_CC photomultiplier_JJR tube_NN1 was_VBDZ set_VVN up_RP to_TO receive_VVI gamma-ray_JJ emissions_NN2 from_II a_AT1 sample_NN1 chamber_NN1 and_CC send_VV0 the_AT resultant_JJ electrical_JJ signal_NN1 to_II a_AT1 Multi-channel_JJ Analyser_NN1 (_( MCA_NP1 )_) ._. 
+</s>
+<s>
+The_AT MCA_NP1 displayed_VVD the_AT distribution_NN1 of_IO energy_NN1 levels_NN2 ,_, separating_VVG them_PPHO2 differentially_RR into_II discreet_JJ channels_NN2 in_BCL21 order_BCL22 to_TO create_VVI a_AT1 visual_JJ representation_NN1 of_IO the_AT response_NN1 function_NN1 which_DDQ was_VBDZ then_RT outputted_VVN to_II the_AT monitor_NN1 ._. 
+</s>
+<s>
+Aside_RL ._. 
+</s>
+<s>
+Throughout_II this_DD1 experiment_NN1 references_NN2 are_VBR made_VVN to_II flux_NN1 or_CC counts_NN2 measured_VVN by_II the_AT detector_NN1 ._. 
+</s>
+<s>
+This_DD1 refers_VVZ to_II the_AT actual_JJ reading_NN1 minus_II the_AT background_NN1 reading_NN1 (_( measured_VVN with_IW no_AT radioactive_JJ source_NN1 present_NN1 )_) ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO correct_VVI for_IF any_DD shifting_NN1 in_II the_AT spectrometer_NN1 (_( see_VV0 ##_FO )_) ,_, the_AT emission_NN1 spectra_NN2 of_IO three_MC known_JJ sample_NN1 were_VBDR analysed_VVN :_: Caesium-137_MC -_- main_JJ photopeak_NN1 at_II Americium-241_MC -_- main_JJ photopeak_NN1 at_II Radium-226_MC -_- many_DA2 peaks_NN2 (_( refer_VV0 to_II tables_NN2 &lsqb;_( 2_MC &rsqb;_) )_) ._. 
+</s>
+<s>
+Both_DB2 of_IO the_AT sources_NN2 with_IW specific_JJ photopeak_NN1 energy_NN1 levels_NN2 were_VBDR each_DD1 in_II turn_NN1 placed_VVN into_II the_AT source_NN1 chamber_NN1 and_CC the_AT program_NN1 was_VBDZ run_VVN for_IF a_AT1 period_NN1 of_IO 120_MC seconds_NNT2 ._. 
+</s>
+<s>
+The_AT emission_NN1 spectra_NN2 for_IF both_DB2 sources_NN2 were_VBDR displayed_VVN on_II the_AT same_DA axes_NN2 ,_, clearly_RR showing_VVG two_MC prominent_JJ photopeaks_NN2 -_- one_MC1 for_IF each_DD1 source_NN1 ._. 
+</s>
+<s>
+By_II highlighting_VVG the_AT main_JJ photopeak_NN1 relevant_JJ to_II each_DD1 of_IO the_AT first_MD two_MC sources_NN2 and_CC telling_VVG the_AT program_NN1 the_AT type_NN1 of_IO sources_NN2 that_CST they_PPHS2 corresponded_VVD to_II ,_, the_AT MCA_NP1 was_VBDZ able_JK to_TO adjust_VVI its_APPGE axis_NN1 labels_NN2 such_CS21 that_CS22 the_AT 661keV_FO point_NN1 on_II the_AT scale_NN1 corresponded_VVN to_II the_AT centre_NN1 of_IO the_AT Caesium-137_MC photopeak_NN1 and_CC the_AT 59.5keV_FO point_NN1 coincided_VVD with_IW the_AT centre_NN1 of_IO the_AT Americium-241_MC photopeak_NN1 ._. 
+</s>
+<s>
+The_AT program_NN1 then_RT used_VVD these_DD2 two_MC reference_NN1 points_VVZ to_TO plot_VVI a_AT1 linear_JJ relationship_NN1 and_CC hence_RR calibrate_VV0 the_AT MCA_NP1 in_BCL21 order_BCL22 to_TO measure_VVI the_AT energy_NN1 peaks_NN2 of_IO the_AT Radium-226_MC source_NN1 ._. 
+</s>
+<s>
+The_AT Radium-226_MC source_NN1 was_VBDZ then_RT used_VVN for_IF an_AT1 exposure_NN1 time_NNT1 of_IO 120_MC seconds_NNT2 and_CC the_AT peak_NN1 energy_NN1 values_NN2 ,_, along_II21 with_II22 those_DD2 of_IO the_AT two_MC other_JJ sources_NN2 ,_, were_VBDR plotted_VVN against_II the_AT theoretical_JJ values_NN2 &lsqb;_( 2_MC &rsqb;_) ._. 
+</s>
+<s>
+The_AT linear_JJ relationship_NN1 exhibited_VVN by_II the_AT data_NN demonstrates_VVZ that_CST the_AT MCA_NP1 was_VBDZ correctly_RR calibrated_VVN and_CC hence_RR ready_JJ to_TO use_VVI for_IF analysis_NN1 of_IO unknown_JJ sources_NN2 ._. 
+</s>
+<s>
+Radioactivity_NN1 is_VBZ in_II essence_NN1 a_AT1 process_NN1 of_IO random_JJ emission_NN1 and_CC is_VBZ therefore_RR governed_VVN by_II Poisson_NP1 's_GE distribution_NN1 law_NN1 ._. 
+</s>
+<s>
+The_AT probability_NN1 P(Y)_NN1 of_IO observing_VVG Y_ZZ1 counts_VVZ in_II a_AT1 given_JJ channel_NN1 is_VBZ given_VVN by_II Equation_NN1 8_MC where_RRQ is_VBZ the_AT average_JJ number_NN1 of_IO counts_NN2 which_DDQ accumulate_VV0 in_II the_AT channel_NN1 under_II consideration_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT Gaussian_JJ nature_NN1 of_IO the_AT distribution_NN1 peaks_NN2 ,_, the_AT standard_JJ deviation_NN1 is_VBZ equivalent_JJ to_II half_DB of_IO the_AT full_JJ width_NN1 at_II half_DB maximum_NN1 (_( FWHM_NP1 )_) ._. 
+</s>
+<s>
+By_II taking_VVG 20_MC repeat_VV0 measurements_NN2 of_IO the_AT integrated_JJ intensity_NN1 under_II the_AT full_JJ energy_NN1 peak_NN1 of_IO the_AT Caesium-137_MC on_II the_AT MCA_NP1 display_NN1 ,_, a_AT1 mean_JJ value_NN1 for_IF the_AT integral_JJ (_( )_) ,_, and_CC the_AT standard_JJ deviation_NN1 (_( )_) was_VBDZ calculated_VVN for_IF the_AT number_NN1 of_IO counts_NN2 accumulated_VVN at_II this_DD1 point_NN1 ._. 
+</s>
+<s>
+The_AT integral_JJ and_CC count_VV0 values_NN2 were_VBDR found_VVN using_VVG the_AT tabular_JJ output_NN1 from_II the_AT Region_NN1 of_IO Interest_NN1 (_( ROI_NN1 )_) function_NN1 in_II the_AT MCA_NP1 program_NN1 ._. 
+</s>
+<s>
+A_ZZ1 Caesium-137_MC spectrum_NN1 was_VBDZ accumulated_VVN for_IF 60_MC seconds_NNT2 with_IW significant_JJ counts_NN2 (_( 10_MC 4_MC )_) under_II the_AT full_JJ energy_NN1 peak_NN1 ._. 
+</s>
+<s>
+The_AT energy_NN1 levels_NN2 for_IF the_AT key_JJ features_NN2 of_IO the_AT spectrum_NN1 were_VBDR found_VVN and_CC the_AT theoretical_JJ energy_NN1 at_II which_DDQ the_AT Compton_NP1 edge_NN1 should_VM appear_VVI was_VBDZ calculated_VVN ._. 
+</s>
+<s>
+The_AT relative_JJ efficiency_NN1 is_VBZ defined_VVN as_II the_AT ratio_NN1 of_IO the_AT photopeak_NN1 flux_NN1 to_II the_AT total_JJ flux_NN1 recorded_VVN &lsqb;_( 3_MC &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 was_VBDZ calculated_VVN for_IF the_AT detector_NN1 ,_, along_II21 with_II22 the_AT energy_NN1 resolution_NN1 of_IO the_AT detector_NN1 at_II 661keV_FO ,_, where_CS at_II E._NP1 The_AT dead_JJ time_NNT1 of_IO the_AT detector_NN1 was_VBDZ the_AT calculated_JJ using_VVG the_AT relationship_NN1 Dead_JJ time_NNT1 =_FO Real_JJ time_NNT1 -_- Live_JJ time_NNT1 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, this_DD1 is_VBZ the_AT time_NNT1 for_IF which_DDQ the_AT detector_NN1 was_VBDZ activated_VVN less_RRR the_AT time_NNT1 that_CST the_AT detector_NN1 was_VBDZ actually_RR receiving_VVG pulses_NN2 ._. 
+</s>
+<s>
+These_DD2 time_NNT1 intervals_NN2 were_VBDR taken_VVN from_II the_AT MCA_NP1 display_NN1 ._. 
+</s>
+<s>
+The_AT attenuation_NN1 of_IO a_AT1 collimated_JJ beam_NN1 of_IO radiation_NN1 of_IO flux_NN1 passing_VVG through_II a_AT1 medium_NN1 of_IO thickness_NN1 t_ZZ1 and_CC emerging_VVG with_IW flux_NN1 is_VBZ governed_VVN by_II the_AT equation_NN1 Equation_NN1 9_MC where_RRQ ,_, the_AT attenuation_NN1 coefficient_NN1 ,_, is_VBZ characteristic_JJ of_IO the_AT absorber_NN1 and_CC the_AT photon_NN1 energy_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 the_AT detector_NN1 is_VBZ positioned_VVN behind_II the_AT material_NN1 as_CSA shown_VVN below_RL ._. 
+</s>
+<s>
+However_RR ,_, another_DD1 arrangement_NN1 is_VBZ possible_JJ whereby_RRQ the_AT detector_NN1 is_VBZ within_II the_AT material_NN1 ._. 
+</s>
+<s>
+The_AT equation_NN1 then_RT becomes_VVZ Equation_NN1 10_MC t_ZZ1 is_VBZ defined_VVN at_II the_AT right-hand_JJ side_NN1 of_IO the_AT material_NN1 ,_, increasing_VVG towards_II the_AT source_NN1 ._. 
+</s>
+<s>
+Equation_NN1 10_MC can_VM be_VBI applied_VVN to_II 2_MC different_JJ peaks_NN2 such_CS21 that_CS22 &;_NULL is_VBZ the_AT attenuation_NN1 coefficient_NN1 at_II peak_NN1 1_MC1 and_CC is_VBZ the_AT flux_NN1 for_IF peak_NN1 1_MC1 (_( analogous_JJ for_IF peak_NN1 2_MC )_) ._. 
+</s>
+<s>
+These_DD2 two_MC equations_NN2 can_VM be_VBI combined_VVN to_TO form_VVI a_AT1 single_JJ equation_NN1 involving_VVG t_ZZ1 Equation_NN1 11_MC and_CC are_VBR normalising_VVG coefficients_NN2 specific_JJ to_II energy_NN1 peaks_NN2 with_IW flux_NN1 and_CC ._. 
+</s>
+<s>
+The_AT 2_MC -values_NN2 were_VBDR found_VVN by_II fitting_VVG a_AT1 quartic_JJ equation_NN1 to_II the_AT values_NN2 given_VVN in_II the_AT lab_NN1 script_NN1 &lsqb;_( 3_MC &rsqb;_) ._. 
+</s>
+<s>
+These_DD2 were_VBDR then_RT inserted_VVN into_II equation_NN1 11_MC such_CS21 that_CS22 only_JJ t_ZZ1 remained_VVD unknown_JJ ._. 
+</s>
+<s>
+By_II rearranging_VVG and_CC setting_VVG the_AT exponential_NN1 component_NN1 of_IO the_AT equation_NN1 as_CSA y(t)_NN1 and_CC then_RT plotting_VVG y(t)_NN1 against_II t_ZZ1 ,_, a_AT1 simplified_JJ exponential_NN1 equation_NN1 containing_VVG only_RR one_MC1 t_ZZ1 was_VBDZ found_VVN ,_, which_DDQ could_VM be_VBI solved_VVN ._. 
+</s>
+<s>
+Equation_NN1 12_MC ._. 
+</s>
+<s>
+Hence_RR by_II taking_VVG the_AT flux_NN1 at_II two_MC specific_JJ energy_NN1 peaks_NN2 and_CC finding_VVG their_APPGE normalising_JJ coefficients_NN2 ,_, a_AT1 value_NN1 for_IF the_AT thickness_NN1 of_IO the_AT material_NN1 can_VM be_VBI found_VVN ._. 
+</s>
+<s>
+It_PPH1 is_VBZ therefore_RR possible_JJ to_TO find_VVI the_AT thickness_NN1 of_IO the_AT scintillator_NN1 crystal_NN1 ._. 
+</s>
+<s>
+The_AT Radium-226_MC source_NN1 was_VBDZ used_VVN for_IF an_AT1 exposure_NN1 time_NNT1 of_IO 300_MC seconds_NNT2 to_TO create_VVI a_AT1 detailed_JJ spectrum_NN1 ._. 
+</s>
+<s>
+ROI_NN1 's_GE were_VBDR set_VVN up_RP around_RG 2_MC high_JJ energy_NN1 lines_NN2 (_( 1MeV_NNU )_) and_CC 3_MC low_JJ energy_NN1 lines_NN2 (_( 1MeV_NNU )_) ._. 
+</s>
+<s>
+One_MC1 high-energy_NN1 and_CC one_MC1 low-energy_JJ peak_NN1 ROI_NN1 were_VBDR then_RT chosen_VVN and_CC the_AT ratio_NN1 of_IO their_APPGE integral_JJ flux_NN1 values_NN2 was_VBDZ used_VVN to_TO calculate_VVI the_AT thickness_NN1 of_IO the_AT crystal_NN1 ,_, t_ZZ1 as_CSA described_VVN above_RL ._. 
+</s>
+<s>
+Spectrums_NN2 were_VBDR obtained_VVN for_IF two_MC unknown_JJ sources_NN2 -_- "_" Sample_VV0 A_ZZ1 "_" and_CC "_" Sample_NN1 B_ZZ1 "_" ._. 
+</s>
+<s>
+Each_DD1 was_VBDZ exposed_VVN for_IF 300_MC seconds_NNT2 to_TO ensure_VVI that_CST the_AT resulting_JJ spectrums_NN2 were_VBDR highly_RR defined_VVN ._. 
+</s>
+<s>
+By_II identifying_VVG the_AT main_JJ energy_NN1 peaks_NN2 of_IO each_DD1 sample_NN1 and_CC comparing_VVG these_DD2 energy_NN1 values_NN2 to_II known_JJ materials_NN2 ,_, the_AT samples_NN2 were_VBDR identified_VVN ._. 
+</s>
+<s>
+By_II rearranging_VVG equation_NN1 9_MC (_( 2.4_MC )_) ,_, a_AT1 new_JJ equation_NN1 can_VM be_VBI obtained_VVN involving_VVG a_AT1 linear_JJ relationship_NN1 between_II the_AT flux_NN1 and_CC the_AT thickness_NN1 of_IO the_AT absorbing_JJ material_NN1 :_: Equation_NN1 12_MC ._. 
+</s>
+<s>
+Therefore_RR by_II varying_VVG the_AT thickness_NN1 of_IO the_AT material_NN1 and_CC measuring_VVG the_AT emerging_JJ flux_NN1 and_CC the_AT flux_NN1 for_IF t=0_FO ,_, the_AT attenuation_NN1 coefficient_NN1 for_IF a_AT1 material_NN1 can_VM be_VBI calculated_VVN from_II the_AT gradient_NN1 of_IO a_AT1 graph_NN1 of_IO equation_NN1 12_MC ._. 
+</s>
+<s>
+The_AT attenuation_NN1 coefficient_NN1 for_IF lead_NN1 (_( Pb_FO )_) could_VM therefore_RR be_VBI found_VVN using_VVG this_DD1 relationship_NN1 ._. 
+</s>
+<s>
+A_AT1 ROI_NN1 was_VBDZ set_VVN up_RP around_II the_AT main_JJ photopeak_NN1 for_IF sample_NN1 A_ZZ1 and_CC a_AT1 120_MC second_MD exposure_NN1 time_NNT1 was_VBDZ set_VVN ._. 
+</s>
+<s>
+Firstly_RR the_AT flux_NN1 was_VBDZ measured_VVN using_VVG the_AT MCA_NP1 ._. 
+</s>
+<s>
+Then_RT a_AT1 sheet_NN1 of_IO lead_NN1 with_IW known_JJ thickness_NN1 t1_FO was_VBDZ placed_VVN inbetween_NN1 the_AT source_NN1 and_CC the_AT detector_NN1 and_CC the_AT new_JJ flux_NN1 reaching_VVG the_AT detector_NN1 ,_, I1_FO ,_, was_VBDZ noted_VVN ._. 
+</s>
+<s>
+Another_DD1 lead_NN1 sheet_NN1 with_IW known_JJ thickness_NN1 t2_FO was_VBDZ then_RT placed_VVN behind_II the_AT first_MD sheet_NN1 and_CC the_AT new_JJ flux_NN1 value_NN1 was_VBDZ recorded_VVN ._. 
+</s>
+<s>
+This_DD1 process_NN1 continued_VVD until_II 6_MC lead_VV0 sheets_NN2 were_VBDR in_II place_NN1 ,_, with_IW the_AT combined_JJ thickness_NN1 of_IO the_AT plates_NN2 at_II any_DD one_MC1 time_NNT1 defined_VVN as_CSA t_ZZ1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ then_RT repeated_VVN for_IF sample_NN1 B_ZZ1 and_CC the_AT two_MC values_NN2 were_VBDR compared_VVN ._. 
+</s>
+<s>
+Compton_NP1 scattering_NN1 is_VBZ the_AT main_JJ interaction_NN1 method_NN1 due_II21 to_II22 the_AT abundance_NN1 of_IO lead_NN1 atoms_NN2 with_IW which_DDQ to_TO scatter_VVI the_AT incoming_JJ gamma-rays_NN2 ,_, as_II31 well_II32 as_II33 the_AT atoms_NN2 in_II the_AT scintillator_NN1 crystal_NN1 ._. 
+</s>
+<s>
+If_CS figure_NN1 11_MC is_VBZ magnified_VVN ,_, the_AT X-ray_NN1 peaks_NN2 become_VV0 more_RGR noticeable_JJ :_: From_II figures_NN2 11_MC and_CC 12_MC ,_, and_CC by_II consulting_VVG the_AT MCA_NP1 ,_, the_AT main_JJ features_NN2 of_IO the_AT spectrum_NN1 occurred_VVD at_II the_AT following_JJ energy_NN1 levels_NN2 :_: The_AT error_NN1 in_II determining_VVG the_AT exact_JJ position_NN1 of_IO each_DD1 feature_NN1 was_VBDZ taken_VVN to_TO be_VBI around_II channels_NN2 ,_, depending_VVG upon_II the_AT gradation_NN1 of_IO the_AT peak_NN1 (_( if_CS the_AT peak_NN1 is_VBZ steeper_JJR ,_, the_AT centre_NN1 is_VBZ more_RGR defined_JJ and_CC hence_RR the_AT range_NN1 of_IO channels_NN2 in_II which_DDQ it_PPH1 lies_VVZ is_VBZ less_RRR )_) ._. 
+</s>
+<s>
+This_DD1 equates_VVZ to_II an_AT1 error_NN1 range_NN1 of_IO ._. 
+</s>
+<s>
+i_ZZ1 )_) Full_JJ Energy_NN1 Photopeak_NN1 ii_MC )_) Compton_NP1 Continuum_NN1 The_AT Compton_NP1 continuum_NN1 can_VM be_VBI seen_VVN in_II both_DB2 figures_NN2 11_MC and_CC 12_MC as_II the_AT counts_NN2 distributed_VVN across_II the_AT energy_NN1 range_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ as_II a_AT1 result_NN1 of_IO Compton_NP1 scattering_NN1 of_IO photons_NN2 through_II a_AT1 range_NN1 of_IO angles_NN2 ._. 
+</s>
+<s>
+iii_MC )_) Compton_NP1 Edge_NN1 The_AT Compton_NP1 edge_NN1 represents_VVZ the_AT energy_NN1 of_IO a_AT1 Compton_NP1 scattering_VVG event_NN1 occurring_VVG at_II (_( see_VV0 1.1.2_MC )_) ._. 
+</s>
+<s>
+This_DD1 edge_NN1 is_VBZ more_RRR like_II a_AT1 slope_NN1 due_II21 to_II22 the_AT restricted_JJ energy_NN1 resolution_NN1 of_IO the_AT detector_NN1 limiting_VVG the_AT image_NN1 quality_NN1 ,_, causing_VVG the_AT image_NN1 to_TO be_VBI convoluted_VVN ._. 
+</s>
+<s>
+Equation_NN1 6_MC was_VBDZ used_VVN to_TO find_VVI the_AT energy_NN1 gap_NN1 between_II the_AT photopeak_NN1 and_CC the_AT Compton_NP1 edge_NN1 ,_, ._. 
+</s>
+<s>
+From_II this_DD1 the_AT theoretical_JJ energy_NN1 of_IO the_AT Compton_NP1 edge_NN1 was_VBDZ calculated_VVN iv_MC )_) Backscatter_VV0 Peak_NN1 This_DD1 backscatter_NN1 peak_NN1 occurs_VVZ as_II a_AT1 result_NN1 of_IO gamma-rays_NN2 undergoing_VVG Compton_NP1 scattering_VVG in_II one_MC1 of_IO the_AT materials_NN2 surrounding_VVG the_AT detector_NN1 ._. 
+</s>
+<s>
+If_CS the_AT angle_NN1 at_II which_DDQ they_PPHS2 interact_VV0 is_VBZ ,_, the_AT scattered_JJ photons_NN2 have_VH0 almost_RR identical_JJ energies_NN2 ._. 
+</s>
+<s>
+This_DD1 gives_VVZ rise_NN1 to_II many_DA2 scattered_JJ gamma-rays_NN2 with_IW energies_NN2 near_II21 to_II22 this_DD1 minimum_JJ value_NN1 ,_, and_CC hence_RR a_AT1 peak_NN1 appears_VVZ in_II the_AT recorded_JJ spectrum_NN1 at_II ._. 
+</s>
+<s>
+v_ZZ1 )_) X-ray_NN1 Peaks_NN2 &;_NULL ._. 
+</s>
+<s>
+The_AT location_NN1 of_IO these_DD2 two_MC X-ray_NN1 peaks_NN2 correspond_VV0 to_II the_AT energy_NN1 lost_VVN by_II the_AT atoms_NN2 in_II the_AT detector_NN1 because_CS the_AT X-rays_NN2 -_- emitted_VVD as_II a_AT1 result_NN1 of_IO the_AT change_NN1 in_II binding_JJ energy_NN1 -_- have_VH0 not_XX been_VBN reabsorbed_VVN (_( see_VV0 1.1.1_MC )_) ._. 
+</s>
+<s>
+Instead_RR they_PPHS2 have_VH0 escaped_VVN and_CC so_RR do_VD0 not_XX contribute_VVI any_DD energy_NN1 to_II the_AT atoms_NN2 in_II the_AT detector_NN1 ._. 
+</s>
+<s>
+The_AT resultant_JJ loss_NN1 in_II photon_NN1 energy_NN1 manifests_VVZ itself_PPX1 as_CSA these_DD2 two_MC smaller_JJR peaks_NN2 towards_II the_AT left-hand_JJ side_NN1 of_IO the_AT energy_NN1 spectrum_NN1 ._. 
+</s>
+<s>
+i_ZZ1 )_) Calculation_NN1 ._. 
+</s>
+<s>
+Relative_JJ efficiency_NN1 ,_, ii_MC )_) Error_NN1 ._. 
+</s>
+<s>
+Error_NN1 in_II flux_NN1 =_FO due_II21 to_II22 Poisson_NP1 nature_NN1 of_IO gamma-ray_JJ emission_NN1 i_ZZ1 )_) Calculation_NN1 ._. 
+</s>
+<s>
+Energy_NN1 resolution_NN1 ,_, where_CS ii_MC )_) Error_NN1 ._. 
+</s>
+<s>
+Error_NN1 in_II photopeak_NN1 energy_NN1 level_NN1 =_FO (_( small_JJ error_NN1 due_II21 to_II22 highly_RR defined_VVN peak_NN1 )_) ._. 
+</s>
+<s>
+The_AT resolution_NN1 of_IO the_AT detector_NN1 is_VBZ dependant_JJ upon_II the_AT amplification_NN1 of_IO the_AT signal_NN1 -_- as_CSA the_AT quality_NN1 of_IO the_AT amplifier_NN1 is_VBZ increased_VVN ;_; the_AT peaks_NN2 become_VV0 more_RGR well-defined_JJ and_CC so_RR (_( and_CC hence_RR )_) decreases_VVZ ._. 
+</s>
+<s>
+As_II the_AT peak_NN1 tends_VVZ to_II a_AT1 delta_NN1 function_NN1 (_( see_VV0 figure_NN1 1_MC1 ,_, 1.1.1_MC )_) ._. 
+</s>
+<s>
+The_AT dead_JJ time_NNT1 was_VBDZ calculated_VVN to_TO be_VBI Dead_JJ time_NNT1 =_FO Real_JJ time_NNT1 -_- Live_JJ time_NNT1 ._. 
+</s>
+<s>
+This_DD1 value_NN1 corresponds_VVZ to_II 74043_MC counts_NN2 taken_VVN for_IF a_AT1 period_NN1 of_IO 60_MC seconds_NNT2 ._. 
+</s>
+<s>
+The_AT error_NN1 in_II the_AT time_NNT1 values_NN2 given_VVN by_II the_AT MCA_NP1 display_NN1 was_VBDZ taken_VVN to_TO be_VBI around_RP and_CC hence_RR considered_VVN to_TO be_VBI negligible_JJ ._. 
+</s>
+<s>
+Dead_JJ time_NNT1 =_FO 0.74%_FO ._. 
+</s>
+<s>
+The_AT 5_MC ROI_NN1 's_GE were_VBDR set_VVN up_RP around_RG 5_MC energy_NN1 peaks_NN2 in_II the_AT Radium-226_MC energy_NN1 spectrum_NN1 ._. 
+</s>
+<s>
+Error_NN1 in_II Energy_NN1 value_NN1 =_FO ._. 
+</s>
+<s>
+ROI_NN1 's_GE 3_MC and_CC 5_MC used_JJ for_IF analysis_NN1 :_: &;_NULL &lsqb;_( 3_MC &rsqb;_) &lsqb;_( 4_MC &rsqb;_) ,_, hence_RR and_CC ._. 
+</s>
+<s>
+Plot_NN1 of_IO yields_NN2 exponential_NN1 equation_NN1 :_: Rearrange_VV0 and_CC solve_VV0 to_TO yield_VVI ._. 
+</s>
+<s>
+Let_VV0 ._. 
+</s>
+<s>
+Error_NN1 in_II t_ZZ1 ,_, ._. 
+</s>
+<s>
+There_EX are_VBR two_MC distinct_JJ peaks_NN2 in_II the_AT above_JJ spectrum_NN1 :_: (_( for_IF error_NN1 analysis_NN1 see_VV0 3.3.1ii_FO )_) ._. 
+</s>
+<s>
+These_DD2 two_MC energy_NN1 values_NN2 are_VBR comparable_JJ to_II those_DD2 of_IO Sodium-22_MC :_: The_AT values_NN2 are_VBR in_II agreement_NN1 as_II the_AT theoretical_JJ values_NN2 lie_VV0 within_II the_AT error_NN1 bounds_NN2 ._. 
+</s>
+<s>
+Hence_RR Source_NN1 A_ZZ1 is_VBZ Sodium-22_MC ._. 
+</s>
+<s>
+Again_RT there_EX are_VBR two_MC distinct_JJ peaks_NN2 in_II the_AT above_JJ spectrum_NN1 :_: Peak_VV0 1_MC1 at_II Peak_NN1 2_MC at_II ._. 
+</s>
+<s>
+Compton_NP1 Edge_NN1 at_II X-ray_NN1 Peak_NN1 at_II (_( for_IF error_NN1 analysis_NN1 see_VV0 3.3.1ii_FO )_) ._. 
+</s>
+<s>
+These_DD2 two_MC energy_NN1 values_NN2 are_VBR comparable_JJ to_II those_DD2 of_IO Cobalt-60_MC :_: The_AT values_NN2 are_VBR of_IO the_AT correct_JJ order_NN1 of_IO magnitude_NN1 and_CC in_II agreement_NN1 with_IW the_AT theoretical_JJ values_NN2 ;_; however_RR the_AT error_NN1 bounds_NN2 are_VBR not_XX sufficient_JJ enough_RR to_TO encompass_VVI them_PPHO2 ._. 
+</s>
+<s>
+Hence_RR Source_NN1 B_ZZ1 is_VBZ Cobalt-60_MC ._. 
+</s>
+<s>
+The_AT primary_JJ photopeak_NN1 was_VBDZ found_VVN at_II ._. 
+</s>
+<s>
+Flux_NN1 ,_, I_PPIS1 ,_, within_II ROI_NN1 Error_NN1 in_II t_ZZ1 ,_, ._. 
+</s>
+<s>
+Equation_NN1 12_MC plotted_VVD with_IW against_II (_( figure_NN1 18_MC )_) ._. 
+</s>
+<s>
+Gradient_NN1 yields_NN2 &lsqb;_( Error_NN1 given_VVN by_II Origin_NN1 &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 value_NN1 leads_VVZ to_II (_( error_NN1 10_MC -6_MC hence_RR negligible_JJ )_) =_FO statistical_JJ error_NN1 ._. 
+</s>
+<s>
+The_AT measured_JJ value_NN1 is_VBZ in_II agreement_NN1 with_IW the_AT theoretical_JJ value_NN1 as_CSA it_PPH1 is_VBZ of_IO the_AT correct_JJ order_NN1 of_IO magnitude_NN1 with_IW a_AT1 small_JJ statistical_JJ error_NN1 ._. 
+</s>
+<s>
+The_AT primary_JJ photopeak_NN1 was_VBDZ found_VVN at_II ._. 
+</s>
+<s>
+Flux_NN1 ,_, I_PPIS1 ,_, within_II ROI_NN1 =_FO Error_NN1 in_II t_ZZ1 ,_, (_( see_VV0 3.5.1_MC for_IF method_NN1 )_) ._. 
+</s>
+<s>
+Equation_NN1 12_MC plotted_VVD with_IW against_II (_( figure_NN1 19_MC )_) ._. 
+</s>
+<s>
+Gradient_NN1 yields_NN2 &lsqb;_( Error_NN1 given_VVN by_II Origin_NN1 &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 value_NN1 leads_VVZ to_II (_( error_NN1 10_MC -9_MC hence_RR negligible_JJ )_) =_FO statistical_JJ error_NN1 ._. 
+</s>
+<s>
+The_AT measured_JJ value_NN1 is_VBZ of_IO the_AT correct_JJ order_NN1 of_IO magnitude_NN1 ;_; however_RR there_EX is_VBZ a_AT1 significant_JJ statistical_JJ error_NN1 ._. 
+</s>
+<s>
+This_DD1 leads_VVZ me_PPIO1 to_TO believe_VVI that_CST the_AT quartic_JJ relationship_NN1 used_VMK to_TO predict_VVI the_AT attenuation_NN1 coefficient_NN1 at_II a_AT1 given_JJ energy_NN1 level_NN1 does_VDZ not_XX hold_VVI for_IF higher_JJR energy_NN1 levels_NN2 and_CC hence_RR this_DD1 result_NN1 is_VBZ skewed_VVN whilst_CS the_AT source_NN1 A_ZZ1 result_NN1 is_VBZ more_RGR accurate_JJ ._. 
+</s>
+<s>
+The_AT calibration_NN1 peaks_NN2 were_VBDR easily_RR identifiable_JJ and_CC when_CS the_AT peak_NN1 energy_NN1 values_NN2 were_VBDR plotted_VVN against_II the_AT theoretical_JJ values_NN2 a_AT1 clear_JJ linear_JJ relationship_NN1 was_VBDZ evident_JJ ._. 
+</s>
+<s>
+The_AT error_NN1 in_II this_DD1 peak_NN1 location_NN1 was_VBDZ minimised_VVN by_II the_AT MCA_NP1 program_NN1 locating_VVG the_AT maximum_NN1 of_IO the_AT peak_NN1 rather_II21 than_II22 using_VVG the_AT naked_JJ eye_NN1 ._. 
+</s>
+<s>
+By_II recalibrating_VVG the_AT equipment_NN1 each_DD1 time_NNT1 the_AT laboratory_NN1 was_VBDZ revisited_VVN this_DD1 prevented_VVD the_AT energy_NN1 scale_NN1 from_II shifting_VVG and_CC hence_RR avoided_VVN any_DD systematic_JJ error_NN1 appearing_VVG in_II the_AT results_NN2 ._. 
+</s>
+<s>
+The_AT mean_JJ and_CC the_AT 2_MC values_NN2 for_IF were_VBDR found_VVN :_: ,_, ,_, ._. 
+</s>
+<s>
+These_DD2 2_MC values_NN2 are_VBR in_II agreement_NN1 to_II within_II 1%_NNU -_- they_PPHS2 are_VBR of_IO the_AT same_DA order_NN1 of_IO magnitude_NN1 and_CC hence_RR Poisson_NP1 's_GE distribution_NN1 is_VBZ obeyed_VVN ._. 
+</s>
+<s>
+As_CSA mentioned_VVN in_II 3.1iii_FO ,_, these_DD2 values_NN2 will_VM only_RR be_VBI equal_JJ for_IF an_AT1 infinite_JJ number_NN1 of_IO readings_NN2 and_CC so_RR 1.5%_FO deviation_NN1 for_IF a_AT1 60_MC second_MD exposure_NN1 time_NNT1 is_VBZ acceptable_JJ ._. 
+</s>
+<s>
+The_AT spectral_JJ data_NN plot_VV0 for_IF Caesium-137_MC (_( figure_NN1 12_MC )_) clearly_RR shows_VVZ all_DB of_IO the_AT expected_JJ features_NN2 at_II energy_NN1 levels_NN2 that_CST are_VBR of_IO the_AT correct_JJ order_NN1 of_IO magnitude_NN1 and_CC whose_DDQGE error_NN1 bounds_NN2 encompass_VV0 the_AT theoretical_JJ values_NN2 ._. 
+</s>
+<s>
+The_AT clarity_NN1 of_IO the_AT spectrum_NN1 could_VM be_VBI improved_VVN by_II increasing_VVG the_AT exposure_NN1 time_NNT1 in_BCL21 order_BCL22 to_TO make_VVI the_AT key_JJ features_NN2 more_RRR defined_VVN ._. 
+</s>
+<s>
+An_AT1 example_NN1 of_IO where_RRQ this_DD1 would_VM have_VHI been_VBN useful_JJ is_VBZ around_II the_AT 2_MC X-ray_NN1 peaks_NN2 -_- a_AT1 considerable_JJ amount_NN1 of_IO each_DD1 peak_NN1 is_VBZ identified_VVN with_IW only_RR one_MC1 point_NN1 and_CC so_RR led_VVN to_II ambiguity_NN1 regarding_II the_AT exact_JJ location_NN1 of_IO the_AT centre_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ information_NN1 was_VBDZ calculated_VVN concerning_II the_AT detector_NN1 :_: These_DD2 are_VBR all_DB acceptable_JJ values_NN2 with_IW realistic_JJ error_NN1 bounds_NN2 associated_VVN with_IW them_PPHO2 ._. 
+</s>
+<s>
+This_DD1 value_NN1 is_VBZ of_IO the_AT correct_JJ order_NN1 of_IO magnitude_NN1 ;_; however_RR the_AT error_NN1 bounds_NN2 are_VBR small_JJ ._. 
+</s>
+<s>
+Although_CS this_DD1 is_VBZ partly_RR due_II21 to_II22 the_AT long_JJ exposure_NN1 time_NNT1 ,_, there_EX is_VBZ a_AT1 considerable_JJ difference_NN1 between_II the_AT upper_JJ error_NN1 bound_VVN and_CC the_AT true_JJ value_NN1 (_( &lsqb;_( 1_MC1 &rsqb;_) )_) ._. 
+</s>
+<s>
+These_DD2 two_MC should_VM overlap_VVI ,_, however_RRQV this_DD1 may_VM be_VBI as_II a_AT1 result_NN1 of_IO using_VVG incorrect_JJ -values_NN2 ._. 
+</s>
+<s>
+The_AT -values_NN2 were_VBDR taken_VVN from_II a_AT1 quartic_JJ equation_NN1 that_CST was_VBDZ constructed_VVN from_II 5_MC known_JJ values_NN2 in_BCL21 order_BCL22 to_TO ascertain_VVI values_NN2 in-between_II ._. 
+</s>
+<s>
+However_RR ,_, in_II approximating_VVG a_AT1 fit_JJ to_II the_AT data_NN there_EX may_VM be_VBI a_AT1 discrepancy_NN1 (_( as_CSA found_VVN later_RRR when_CS finding_VVG for_IF lead_NN1 )_) and_CC hence_RR the_AT theoretical_JJ values_NN2 taken_VVN as_CSA exact_JJ may_VM have_VHI some_DD error_NN1 associated_VVN with_IW them_PPHO2 ._. 
+</s>
+<s>
+Source_NN1 A_ZZ1 was_VBDZ identified_VVN as_CSA Sodium-22_MC ._. 
+</s>
+<s>
+The_AT photopeaks_NN2 matched_VVN up_RP well_RR within_II the_AT error_NN1 bounds_NN2 of_IO the_AT MCA_NP1 display_NN1 peaks_NN2 and_CC hence_RR it_PPH1 was_VBDZ possible_JJ to_TO easily_RR identify_VVI the_AT source_NN1 ._. 
+</s>
+<s>
+The_AT two_MC Compton_NP1 edges_NN2 are_VBR clearly_RR visible_JJ and_CC because_II21 of_II22 the_AT large_JJ gap_NN1 between_II photopeaks_NN2 there_EX is_VBZ no_AT superposition_NN1 of_IO features_NN2 ._. 
+</s>
+<s>
+Source_NN1 B_ZZ1 was_VBDZ identified_VVN as_CSA Cobalt-60_MC ._. 
+</s>
+<s>
+Again_RT the_AT photopeaks_NN2 matched_VVN the_AT theoretical_JJ energy_NN1 levels_NN2 given_VVN ,_, making_VVG identification_NN1 simple_JJ ._. 
+</s>
+<s>
+However_RR ,_, the_AT close_JJ proximity_NN1 of_IO the_AT 2_MC main_JJ photopeaks_NN2 led_VVN to_II superposition_NN1 of_IO the_AT first_MD Compton_NP1 edge_NN1 with_IW the_AT second_MD photopeak_NN1 ,_, making_VVG the_AT Compton_NP1 edge_NN1 difficult_JJ to_TO identify_VVI ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, the_AT Compton_NP1 continuum_NN1 raised_VVD the_AT photopeak_NN1 to_II a_AT1 greater_JJR counts_NN2 plateau_NN1 and_CC hence_RR gave_VVD a_AT1 higher_JJR value_NN1 for_IF the_AT integral_JJ under_II the_AT curve_NN1 than_CSN was_VBDZ caused_VVN solely_RR by_II photoelectric_JJ absorption_NN1 ._. 
+</s>
+<s>
+To_TO counter_VVI this_DD1 ,_, the_AT continuum_NN1 should_VM be_VBI treated_VVN as_CSA further_JJR background_NN1 radiation_NN1 and_CC removed_VVN from_II the_AT total_JJ integral_JJ ,_, leaving_VVG the_AT true_JJ counts_NN2 for_IF the_AT photopeak_NN1 alone_RR ._. 
+</s>
+<s>
+Two_MC values_NN2 for_IF the_AT attenuation_NN1 coefficient_NN1 of_IO lead_NN1 (_( Pb_FO )_) were_VBDR found_VVN :_: &.;_NULL Both_DB2 values_NN2 are_VBR in_II agreement_NN1 with_IW the_AT theoretical_JJ values_NN2 given_VVN in_II the_AT lab_NN1 script&lsqb;2&rsqb;_FO ,_, however_RRQV the_AT error_NN1 bounds_VVZ for_IF source_NN1 B_NP1 do_VD0 not_XX encompass_VVI the_AT theoretical_JJ value_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ due_II21 to_II22 the_AT use_NN1 of_IO an_AT1 approximation_NN1 fit_VV0 to_TO calculate_VVI the_AT theoretical_JJ -values_NN2 and_CC hence_RR provide_VV0 incorrect_JJ values_NN2 as_II the_AT approximation_NN1 breaks_VVZ down_RP for_IF higher_JJR energy_NN1 levels_NN2 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT statistical_JJ error_NN1 in_II the_AT source_NN1 A_ZZ1 value_NN1 being_VBG considerably_RR smaller_JJR than_CSN that_DD1 of_IO source_NN1 B_ZZ1 ,_, it_PPH1 is_VBZ logical_JJ to_TO suggest_VVI that_CST this_DD1 value_NN1 is_VBZ more_RGR accurate_JJ ,_, however_RRQV this_DD1 is_VBZ solely_RR dependant_JJ upon_II the_AT theoretical_JJ values_NN2 used_VVN for_IF comparison_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ considerable_JJ error_NN1 in_II the_AT method_NN1 for_IF this_DD1 section_NN1 of_IO the_AT experiment_NN1 ,_, mainly_RR due_II21 to_II22 the_AT irregular_JJ shape_NN1 of_IO the_AT lead_NN1 plates_NN2 ._. 
+</s>
+<s>
+The_AT plates_NN2 were_VBDR not_XX uniform_JJ and_CC so_RR the_AT thickness_NN1 measurement_NN1 was_VBDZ not_XX necessarily_RR true_JJ for_IF the_AT point_NN1 at_II which_DDQ the_AT gamma-rays_NN2 were_VBDR passing_VVG through_RP ._. 
+</s>
+<s>
+There_EX was_VBDZ no_AT apparatus_NN1 to_TO ensure_VVI that_CST they_PPHS2 were_VBDR all_DB aligned_VVD perpendicular_NN1 to_II the_AT gamma-ray_JJ beam_NN1 and_CC hence_RR the_AT thickness_NN1 of_IO lead_NN1 the_AT beam_NN1 actually_RR passed_VVN through_RP would_VM have_VHI an_AT1 angular_JJ component_NN1 no_RR21 longer_RR22 equal_JJ to_II t_ZZ1 ._. 
+</s>
+<s>
+These_DD2 effects_NN2 could_VM be_VBI reduced_VVN by_II minimising_VVG the_AT distance_NN1 from_II the_AT source_NN1 to_II the_AT plates_NN2 and_CC also_RR from_II the_AT plates_NN2 to_II the_AT detector_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM curtail_VVI any_DD angular_JJ deviation_NN1 that_CST may_VM occur_VVI over_RP larger_JJR distances_NN2 ._. 
+</s>
+<s>
+Key_JJ features_NN2 of_IO the_AT gamma-ray_JJ energy_NN1 spectra_NN2 were_VBDR identified_VVN as_II31 well_II32 as_II33 the_AT energy_NN1 levels_NN2 at_II which_DDQ they_PPHS2 appeared_VVD ._. 
+</s>
+<s>
+The_AT Poisson_NP1 nature_NN1 of_IO radioactive_JJ emission_NN1 was_VBDZ proven_VVN via_II calculating_VVG statistically_RR and_CC experimentally_RR :_: The_AT mean_JJ and_CC the_AT 2_MC values_NN2 for_IF were_VBDR found_VVN :_: ,_, ,_, ._. 
+</s>
+<s>
+These_DD2 2_MC values_NN2 are_VBR in_II agreement_NN1 to_II within_II 1%_NNU ._. 
+</s>
+<s>
+Features_NN2 of_IO the_AT detector_NN1 were_VBDR calculated_VVN that_CST affect_VV0 the_AT shape_NN1 of_IO the_AT spectrum_NN1 :_: The_AT errors_NN2 associated_VVN with_IW these_DD2 results_NN2 are_VBR small_JJ as_II a_AT1 result_NN1 of_IO a_AT1 long_JJ exposure_NN1 time_NNT1 and_CC hence_RR count_VV0 values_NN2 are_VBR large_JJ ._. 
+</s>
+<s>
+By_II comparison_NN1 of_IO the_AT energy_NN1 levels_NN2 of_IO the_AT key_JJ features_NN2 ,_, Source_NN1 A_ZZ1 was_VBDZ identified_VVN as_CSA Sodium-22_MC and_CC Source_NN1 B_ZZ1 was_VBDZ found_VVN to_TO be_VBI Cobalt-60_MC ._. 
+</s>
+<s>
+In_II each_DD1 case_NN1 the_AT two_MC photopeaks_NN2 were_VBDR easily_RR matched_VVN up_RP with_IW the_AT theoretical_JJ energies_NN2 ,_, making_VVG identification_NN1 straight-forward_JJ ._. 
+</s>
+<s>
+The_AT two_MC values_NN2 for_IF the_AT attenuation_NN1 coefficient_NN1 of_IO lead_NN1 (_( Pb_FO )_) found_VVD using_VVG these_DD2 two_MC sources_NN2 were_VBDR :_: &.;_NULL Although_CS these_DD2 values_NN2 seem_VV0 to_TO be_VBI of_IO the_AT correct_JJ order_NN1 of_IO magnitude_NN1 it_PPH1 is_VBZ difficult_JJ to_TO compare_VVI due_II21 to_II22 the_AT different_JJ energy_NN1 levels_NN2 ._. 
+</s>
+<s>
+The_AT problems_NN2 with_IW the_AT lead_NN1 plate_NN1 orientation_NN1 and_CC ambiguity_NN1 in_II the_AT theoretical_JJ values_NN2 that_CST arose_VVD from_II the_AT quartic_JJ equation_NN1 fit_NN1 have_VH0 limited_VVN the_AT accuracy_NN1 of_IO these_DD2 results_NN2 ._. 
+</s>

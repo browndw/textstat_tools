@@ -1,0 +1,402 @@
+<s>
+Patterning_NN1 of_IO the_AT vertebrate_JJ limb_NN1 involves_VVZ the_AT formation_NN1 of_IO three_MC axis_NN1 ,_, D-V_JJ ,_, Pr-D_NP1 and_CC A-P_NP1 to_TO produce_VVI complete_JJ and_CC correct_JJ morphology_NN1 ._. 
+</s>
+<s>
+Initially_RR a_AT1 limb_NN1 bud_NN1 is_VBZ induced_VVN via_II Wnt_NP1 and_CC Fgf_NP1 signalling_NN1 ,_, with_IW fore-_JJ verses_NN2 hindlimb_VV0 identity_NN1 proposed_VVN as_CSA specified_VVN by_II Tbx5_FO and_CC Tbx4_FO respectively_RR ._. 
+</s>
+<s>
+The_AT AER_NN1 is_VBZ positioned_VVN at_II the_AT dorsoventral_JJ boundary_NN1 as_II a_AT1 consequence_NN1 of_IO R-fng_JJ expression_NN1 ,_, and_CC through_II expression_NN1 of_IO Fgf4_FO and_CC Fgf8_FO gives_VVZ rise_NN1 to_II the_AT Pr-D_NP1 patterning_VVG and_CC outgrowth_NN1 of_IO the_AT limb_NN1 ._. 
+</s>
+<s>
+Signalling_VVG from_II dorsally_RR expressed_VVN Wnt7a_FO and_CC ventrally_RR expressed_VVN En-1_MC1 in_II the_AT ectoderm_NN1 gives_VVZ rise_NN1 to_II D-V_JJ patterning_NN1 of_IO the_AT limb_NN1 ._. 
+</s>
+<s>
+The_AT ZPA_NN1 appears_VVZ to_TO mediate_VVI A-P_NP1 patterning_NN1 of_IO the_AT digits_NN2 via_II expression_NN1 of_IO Shh_UH ,_, and_CC interacts_VVZ with_IW the_AT AER_NN1 in_II reciprocal_JJ regulation_NN1 and_CC maintenance_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 evolutionary_JJ conservation_NN1 ,_, the_AT mouse_NN1 and_CC chick_VV0 examples_NN2 discussed_VVN here_RL may_VM be_VBI applied_VVN broadly_RR to_II all_DB vertebrates_NN2 ,_, with_IW the_AT possibility_NN1 of_IO homologous_JJ genes_NN2 performing_VVG comparable_JJ functions_NN2 ._. 
+</s>
+<s>
+Pattern_NN1 formation_NN1 is_VBZ defined_VVN as_II the_AT "_" set_NN1 of_IO processes_NN2 by_II which_DDQ embryonic_JJ cells_NN2 form_VV0 ordered_JJ spatial_JJ arrangements_NN2 of_IO differentiated_JJ% tissues_NN2 ._. "_" 
+</s>
+<s>
+Patterning_NN1 of_IO the_AT limb_NN1 involves_VVZ the_AT formation_NN1 of_IO three_MC axes_NN2 ,_, the_AT proximal-distal_JJ axis_NN1 (_( Pr-D_NP1 )_) from_II close_JJ to_II far_JJ from_II the_AT body_NN1 ,_, the_AT anterior-posterior_NN1 (_( A-P_NP1 )_) axis_NN1 from_II thumb_NN1 to_II little_JJ finger_NN1 ,_, and_CC the_AT dorsal-ventral_JJ axis_NN1 (_( D-V_NNU )_) ,_, from_II knuckle_NN1 to_II palm_NN1 ._. 
+</s>
+<s>
+Correct_JJ patterning_NN1 leads_VVZ complete_JJ formation_NN1 of_IO the_AT proximal_JJ stylopod_NN1 ,_, the_AT intermediate_JJ zeugopod_NN1 ,_, and_CC the_AT distal_JJ autopod_NN1 ._. 
+</s>
+<s>
+Scott_NP1 F._NP1 Gilbert_NP1 Developmental_JJ Biology_NN1 2003_MC Sinauer_NP1 Associates_VVZ Inc._JJ 7th_MD Edition_NN1 ._. 
+</s>
+<s>
+The_AT vertebrate_JJ limb_NN1 is_VBZ not_XX essential_JJ to_II embryonic_JJ survival_NN1 ,_, so_RR grafting_VVG experiments_NN2 can_VM be_VBI performed_VVN to_TO understand_VVI its_APPGE patterning_NN1 ._. 
+</s>
+<s>
+Classical_JJ experiments_NN2 have_VH0 shown_VVN that_CST the_AT limb_NN1 does_VDZ not_XX develop_VVI when_RRQ certain_JJ cells_NN2 are_VBR removed_VVN ,_, and_CC that_CST a_AT1 limb_NN1 will_VM form_VVI when_RRQ groups_NN2 of_IO cells_NN2 are_VBR transplanted_VVN to_II an_AT1 alternative_NN1 location.1_FO These_DD2 observations_NN2 can_VM be_VBI explained_VVN in_II31 terms_II32 of_II33 the_AT limb_NN1 field_NN1 ,_, seen_VVN in_II figure_NN1 1_MC1 ._. 
+</s>
+<s>
+Classical_JJ experiments_NN2 also_RR identified_VVN several_DA2 important_JJ signalling_NN1 centres_VVZ involved_JJ in_II the_AT patterning_NN1 of_IO the_AT vertebrate_JJ limb_NN1 ,_, seen_VVN in_II figure_NN1 2_MC ._. 
+</s>
+<s>
+If_CS the_AT AER_NN1 is_VBZ removed_VVN ,_, distal_JJ limb_NN1 development_NN1 stops_VVZ ,_, 1_MC1 ,_, ,_, so_CS it_PPH1 seems_VVZ the_AT AER_NN1 is_VBZ vital_JJ to_II limb_NN1 outgrowth_NN1 ,_, and_CC Pr-D_NP1 patterning_VVG ._. 
+</s>
+<s>
+Transplantation_NN1 of_IO the_AT ZPA_NN1 to_II the_AT anterior_JJ of_IO another_DD1 limb_NN1 bud_NN1 causes_VVZ mirror-image_JJ digit_NN1 duplications_NN2 ,_, 1-3_MCMC suggesting_VVG its_APPGE involvement_NN1 in_II A-P_NP1 patterning_VVG ._. 
+</s>
+<s>
+When_CS the_AT ectoderm_NN1 of_IO the_AT limb_NN1 bud_NN1 is_VBZ rotated_VVN 180_MC o_ZZ1 with_II31 respect_II32 to_II33 the_AT mesenchyme_NN1 ,_, distal_JJ elements_NN2 are_VBR reversed_VVN ,_, 1_MC1 demonstrating_VVG a_AT1 role_NN1 in_II D-V_JJ patterning_NN1 ._. 
+</s>
+<s>
+This_DD1 essay_NN1 shall_VM consider_VVI the_AT how_RRQ these_DD2 signalling_VVG centres_NN2 set_VV0 up_RP their_APPGE corresponding_JJ axes_NN2 and_CC interact_VV0 with_IW each_PPX221 other_PPX222 to_TO bring_VVI about_RP the_AT patterning_NN1 of_IO the_AT vertebrate_JJ limb_NN1 ._. 
+</s>
+<s>
+Tickle_VV0 The_AT contribution_NN1 of_IO chicken_NN1 embryology_NN1 to_II the_AT understanding_NN1 of_IO vertebrate_JJ limb_NN1 development_NN1 2004_MC Mech_NP1 Dev_NP1 121:1019-1029_MCMC ._. 
+</s>
+<s>
+Niswander_VV0 ,_, L._NP1 Pattern_NN1 formation_NN1 :_: Old_JJ models_NN2 out_RP on_II a_AT1 limb_NN1 2003_MC Nat_NP1 Rev_NNB Genetics_NP1 4:133-143_MCMC ._. 
+</s>
+<s>
+The_AT induction_NN1 of_IO the_AT limb_NN1 begins_VVZ with_IW formation_NN1 of_IO the_AT limb_NN1 bud_NN1 ,_, where_CS lateral_JJ plate_NN1 mesoderm_NN1 (_( LPM_NP1 )_) proliferates_VVZ to_TO form_VVI a_AT1 circular_JJ bulge_NN1 ._. 
+</s>
+<s>
+Fgf8_FO was_VBDZ first_MD implicated_VVD as_II a_AT1 chick_NN1 limb_NN1 inducer_NN1 ._. 
+</s>
+<s>
+Fgf8_FO mRNA_NN1 localises_VVZ to_II the_AT intermediate_JJ mesoderm_NN1 (_( IM_NP1 )_) at_II the_AT level_NN1 of_IO the_AT prospective_JJ forelimb_NN1 and_CC hindlimb_VV0 territories_NN2 ,_, whilst_CS being_VBG absent_JJ from_II the_AT mesoderm_NN1 of_IO the_AT prospective_JJ inter-limb_JJ territory_NN1 ,_, at_II stages_NN2 13_MC to_II 15_MC in_II chicks_NN2 ._. 
+</s>
+<s>
+Chick_VV0 limb_NN1 bud_NN1 induction_NN1 occurs_VVZ over_RP stages_NN2 13_MC to_II 15,5_MC theredore_VV0 Fgf8_FO appears_VVZ to_TO be_VBI expressed_VVN at_II the_AT right_JJ time_NNT1 ,_, and_CC in_II the_AT right_JJ place_NN1 to_TO be_VBI a_AT1 limb_NN1 inducer_NN1 ._. 
+</s>
+<s>
+Fgf8_FO soaked_JJ beads_NN2 induce_VV0 a_AT1 limb-like_JJ structure_NN1 when_CS inserted_VVN into_II the_AT LPM_NP1 of_IO the_AT inter-limb_JJ region_NN1 ,_, 5_MC further_RRR indicating_VVG a_AT1 role_NN1 in_II limb_NN1 induction_NN1 ._. 
+</s>
+<s>
+Fgf8_FO expression_NN1 in_II the_AT IM_NN1 appears_VVZ to_TO induce_VVI its_APPGE own_DA expression_NN1 in_II the_AT overlying_JJ ectoderm_NN1 of_IO the_AT limb_NN1 bud_NN1 which_DDQ becomes_VVZ the_AT AER_NN1 ,_, as_CSA seen_VVN in_II figure_NN1 3_MC ._. 
+</s>
+<s>
+Crossley_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Roles_NN2 for_IF FGF8_FO in_II the_AT induction_NN1 ,_, inititation_NN1 and_CC maintenance_NN1 of_IO chick_NN1 limb_NN1 development_NN1 1996_MC Cell_NN1 84:127-136_MCMC ._. 
+</s>
+<s>
+Fgf10_FO has_VHZ also_RR been_VBN shown_VVN to_TO be_VBI important_JJ in_II limb_NN1 induction_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ initially_RR widely_RR expressed_VVN in_II the_AT segmental_JJ plate_NN1 ,_, IM_NP1 and_CC LPM_NP1 ,_, but_CCB its_APPGE expression_NN1 is_VBZ restricted_VVN to_II the_AT LPM_NP1 at_II stage_NN1 14_MC of_IO chick_NN1 development_NN1 ._. 
+</s>
+<s>
+Therefore_RR Fgf10_FO is_VBZ also_RR present_JJ at_II the_AT right_JJ time_NNT1 ,_, in_II the_AT right_JJ place_NN1 ._. 
+</s>
+<s>
+Fgf10_FO expressing_VVG cells_NN2 can_VM cause_VVI ectopic_JJ limb_NN1 formation_NN1 when_CS implanted_VVN into_II the_AT inter-limb_JJ region_NN1 ,_, 6_MC and_CC Fgf10_FO -_- /_FO -_- mice_NN2 show_VV0 complete_JJ truncation_NN1 of_IO both_RR fore-_JJ and_CC hindlimbs_NN2 ,_, seen_VVN in_II figure_NN1 4_MC ._. 
+</s>
+<s>
+No_AT Fgf8_FO expression_NN1 was_VBDZ detected_VVN in_II the_AT small_JJ limb_NN1 buds_NN2 formed_VVD ,_, 7_MC suggesting_VVG Fgf10_FO is_VBZ upstream_JJ of_IO Fgf8_FO in_II limb_NN1 bud_NN1 induction_NN1 ._. 
+</s>
+<s>
+Kawakami_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Wnt_NP1 signals_NN2 control_VV0 FGF-dependant_JJ limb_NN1 initiation_NN1 and_CC AER_NN1 induction_NN1 in_II the_AT chick_NN1 embryo_NN1 2001_MC Cell_NN1 104:891-900_MCMC ._. 
+</s>
+<s>
+Sekine_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Fgf10_FO is_VBZ essential_JJ for_IF limb_NN1 and_CC lung_NN1 formation_NN1 1999_MC Nature_NN1 Genetics_NN1 21:138-141_MCMC ._. 
+</s>
+<s>
+Together_RL this_DD1 produces_VVZ a_AT1 model_NN1 where_CS Fgf-8_MC from_II the_AT IM_NN1 restricts_VVZ Fgf10_FO expression_NN1 to_II the_AT LPM_NP1 at_II the_AT level_NN1 of_IO the_AT prospective_JJ limbs_NN2 ,_, and_CC then_RT Fgf10_FO induces_VVZ Fgf8_FO expression_NN1 in_II the_AT overlying_JJ ectoderm.6_FO However_RR ,_, limb_NN1 bud_NN1 initiation_NN1 is_VBZ seen_VVN in_II the_AT Fgf10_FO -_- /_FO -_- mutant_NN1 mice_NN2 ,_, so_CS it_PPH1 appears_VVZ expression_NN1 of_IO upstream_JJ gene_NN1 or_CC genes_NN2 are_VBR required_VVN earlier_RRR on_RP in_II limb_NN1 bud_NN1 induction_NN1 ._. 
+</s>
+<s>
+Expression_NN1 of_IO Wnt2b_FO ,_, belonging_VVG to_II the_AT Wnt_NP1 family_NN1 of_IO secreted_JJ% factors_NN2 ,_, is_VBZ found_VVN in_II the_AT LPM_NP1 of_IO the_AT prospective_JJ forelimb_NN1 at_II stage_NN1 14_MC in_II chicks_NN2 ,_, 6_MC seen_VVN in_II figure_NN1 5_MC ._. 
+</s>
+<s>
+When_CS Wnt2b_FO expressing_VVG cells_NN2 are_VBR implanted_VVN into_II the_AT inter-limb_JJ region_NN1 ,_, a_AT1 limb_NN1 bud_NN1 is_VBZ induced_VVN ,_, and_CC Fgf10_FO is_VBZ expressed_VVN in_II the_AT LPM_NP1 after_II 8_MC hours_NNT2 ,_, and_CC Fgf8_FO induction_NN1 occurs_VVZ at_II around_RG 20_MC hours.6_FO This_DD1 suggests_VVZ Wnt2b_FO acts_VVZ upstream_JJ of_IO Fgf10_FO and_CC Fgf8_FO in_II limb_NN1 bud_NN1 induction_NN1 in_II the_AT chick_NN1 ._. 
+</s>
+<s>
+Wnt2b_FO is_VBZ however_RR not_XX detected_VVN in_II the_AT prospective_JJ hindlimb_NN1 region_NN1 ,_, however_RR ,_, Wnt8c_FO is_VBZ expressed_VVN in_II the_AT LPM_NP1 of_IO the_AT prospective_JJ hindlimb_NN1 until_CS stage_NN1 12_MC in_II the_AT chick_NN1 ,_, when_CS Fgf10_FO expression_NN1 becomes_VVZ localised_JJ to_II the_AT LPM_NP1 of_IO the_AT prospective_JJ hind-limb_NN1 region.6_FO Wnt8c_FO expressing_VVG cells_NN2 can_VM also_RR induce_VVI an_AT1 ectopic_JJ limb_NN1 bud_NN1 when_CS implanted_VVN into_II the_AT inter-limb_NN1 region.6_FO This_DD1 suggests_VVZ Wnt2b_FO and_CC Wnt8c_FO in_II the_AT forelimb_NN1 and_CC hindlimb_VV0 respectively_RR ,_, contribute_VV0 to_II the_AT restriction_NN1 of_IO Fgf10_FO expression_NN1 in_II LPM_NP1 to_II the_AT prospective_JJ limb_NN1 regions_NN2 ._. 
+</s>
+<s>
+Some_DD Wnt_NP1 proteins_NN2 ,_, such_II21 as_II22 Wnt3a_FO ,_, have_VH0 been_VBN shown_VVN to_TO function_VVI via_II the_AT activation_NN1 of_IO the_AT intracellular_JJ mediator_NN1 -catenin_NN1 ,_, which_DDQ as_II part_NN1 of_IO a_AT1 multiprotein_NN1 complex_NN1 ,_, regulates_VVZ transcription_NN1 of_IO target_NN1 genes.6_FO Evidence_NN1 in_II figure_NN1 6_MC ,_, strongly_RR suggests_VVZ that_CST Wnt2b_FO and_CC Wnt8c_FO signalling_NN1 is_VBZ mediated_VVN via_II -catenin_JJ activation_NN1 in_II the_AT fore-_NN1 and_CC hindlimb_VV0 respectively_RR ._. 
+</s>
+<s>
+As_CSA discussed_VVN above_RL ,_, it_PPH1 is_VBZ proposed_VVN that_CST Fgf10_FO induces_VVZ Fgf8_FO expression_NN1 in_II the_AT overlying_JJ surface_NN1 ectoderm_NN1 ,_, which_DDQ becomes_VVZ the_AT AER.6_FO Wnt3a_FO expression_NN1 has_VHZ been_VBN shown_VVN to_TO be_VBI an_AT1 upstream_JJ regulator_NN1 of_IO Fgf8_FO expression_NN1 in_II the_AT chick_NN1 ,_, and_CC Wnt3a_FO appears_VVZ to_TO mediate_VVI its_APPGE affects_NN2% via_II activation_NN1 of_IO -catenin.6_JJ Figure_NN1 6_MC shows_VVZ that_DD1 antagonism_NN1 of_IO -catenin_NN1 at_II stage_NN1 15-16_MCMC does_VDZ not_XX affect_VVI Fgf10_FO expression_NN1 ,_, however_RRQV the_AT limbs_NN2 that_CST develop_VV0 are_VBR truncated_VVN ,_, as_CSA Fgf8_FO expression_NN1 is_VBZ down-regulated_JJ in_II the_AT ectoderm_NN1 ,_, and_CC there_EX is_VBZ disruption_NN1 of_IO AER_NN1 formation_NN1 ._. 
+</s>
+<s>
+6_MC This_DD1 indicates_VVZ the_AT induction_NN1 of_IO Fgf8_FO in_II the_AT ectoderm_NN1 by_II Fgf10_FO occurs_VVZ via_II Wnt3a_FO and_CC is_VBZ -catenin_JJ dependant_NN1 ._. 
+</s>
+<s>
+Figure_NN1 7_MC summarises_VVZ limb_NN1 bud_NN1 induction_NN1 in_II a_AT1 proposed_JJ model_NN1 ._. 
+</s>
+<s>
+Tbx4_FO and_CC Tbx5_FO are_VBR members_NN2 of_IO the_AT T-box_JJ transcription_NN1 factor_NN1 family_NN1 ,_, and_CC are_VBR specifically_RR expressed_VVN in_II the_AT hindlimb_NN1 and_CC forelimb_VV0 respectively_RR ._. &;_NULL 
+</s>
+<s>
+When_CS a_AT1 conditional_NN1 Tbx5_FO allele_NN1 is_VBZ expressed_VVN in_II mice_NN2 ,_, forelimbs_NN2 are_VBR completely_RR absent_JJ ,_, while_CS hindlimbs_NN2 are_VBR unaffected_JJ ,_, 9_MC seen_VVN in_II figure_NN1 8_MC ._. 
+</s>
+<s>
+This_DD1 demonstrates_VVZ Tbx5_FO is_VBZ vital_JJ in_II early_JJ limb_NN1 development_NN1 ,_, and_CC illustrates_VVZ specificity_NN1 to_II the_AT forelimb_NN1 ._. 
+</s>
+<s>
+In_II Fgf10_FO null_JJ mice_NN2 ,_, there_EX is_VBZ expression_NN1 of_IO Tbx4_FO and_CC Tbx5_FO ,_, and_CC initiation_NN1 of_IO limb_NN1 bud_NN1 formation_NN1 ,_, suggesting_VVG these_DD2 genes_NN2 are_VBR upstream_JJ of_IO Fgf10_FO ._. 
+</s>
+<s>
+Rodrigues-Esteban_NN1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+The_AT T-box_JJ genes_NN2 Tbx4_FO and_CC Tbx5_FO regulate_VV0 limb_NN1 outgrowth_NN1 and_CC identity_NN1 1999_MC Nature_NN1 398:814-818_MCMC ._. 
+</s>
+<s>
+Rallis_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Tbx5_FO is_VBZ required_VVN for_IF forelimb_NN1 bud_NN1 formation_NN1 and_CC continued_JJ outgrowth_NN1 2002_MC Development_NN1 130:2741-2751_MCMC ._. 
+</s>
+<s>
+Takeuchi_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Tbx5_FO and_CC Tbx4_FO trigger_NN1 limb_NN1 bud_NN1 formation_NN1 through_II activation_NN1 of_IO the_AT Wnt/Fgf_NN1 signalling_NN1 cascade_NN1 2003_MC Development_NN1 130:2729-2739_MCMC ._. 
+</s>
+<s>
+Misexpression_NN1 of_IO dominant_JJ negative_JJ Tbx5_FO and_CC Tbx4_FO induces_VVZ limb-less_DAR phenotypes_NN2 ,_, and_CC repression_NN1 of_IO Wnt_NP1 and_CC Fgf_NP1 genes_NN2 ,_, shown_VVN in_II figure_NN1 9_MC ,_, with_IW a_AT1 critical_JJ time_NNT1 period_NN1 between_II stages_NN2 7_MC and_CC 10_MC to_TO induce_VVI the_AT limb-less_RGR phenotype.10_FO This_DD1 suggests_VVZ Tbx4_FO and_CC Tbx5_FO function_NN1 before_II the_AT Wnt_NP1 and_CC Fgf_NP1 signals_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ also_RR supported_VVN by_II the_AT fact_NN1 that_CST their_APPGE expression_NN1 is_VBZ first_MD detected_VVN in_II the_AT prospective_JJ limb_NN1 mesenchyme_NN1 prior_II21 to_II22 overt_JJ limb_NN1 outgrowth.9_FO ._. 
+</s>
+<s>
+In_II chick_NN1 embryos_NN2 leg_NN1 grafts_NN2 expressing_VVG Tbx4_FO can_VM develop_VVI into_II toe-like_JJ digits_NN2 when_CS placed_VVN into_II the_AT wing_NN1 ,_, 8_MC suggesting_VVG a_AT1 role_NN1 for_IF Tbx4_FO in_II specification_NN1 of_IO the_AT hindlimb_NN1 ._. 
+</s>
+<s>
+A_AT1 recent_JJ study_NN1 by_II Takeuchi_NP1 et_RA21 al_RA22 10_MC provided_CS significant_JJ evidence_NN1 for_IF the_AT role_NN1 of_IO Tbx4_FO and_CC Tbx5_FO in_II specification_NN1 of_IO limb_NN1 identity_NN1 ._. 
+</s>
+<s>
+When_CS Tbx5_FO was_VBDZ misexpressed_VVN in_II the_AT inter-limb_JJ region_NN1 ,_, a_AT1 wing-like_JJ limb_NN1 formed_VVD ,_, and_CC Wnt2b_FO was_VBDZ expressed_VVN ,_, and_CC conversely_RR with_IW Tbx4_FO misexpression_NN1 a_AT1 leg-like_JJ limb_NN1 formed_VVD ,_, and_CC Wnt8c_FO was_VBDZ expressed.10_FO It_PPH1 seems_VVZ therefore_RR that_CST Tbx4_FO and_CC Tbx5_FO operate_VV0 in_II the_AT gap_NN1 between_II the_AT Hox_NN1 genes_NN2 that_CST specify_VV0 the_AT primary_JJ A-P_NN1 axis_NN1 and_CC the_AT Wnt/Fgf_NN1 network_NN1 ,_, in_II specification_NN1 of_IO limb_NN1 identity_NN1 and_CC limb_NN1 induction.10_FO ._. 
+</s>
+<s>
+The_AT AER_NN1 is_VBZ situated_VVN at_II the_AT dorsoventral_JJ limb_NN1 boundary_NN1 ,_, and_CC is_VBZ vital_JJ for_IF limb_NN1 bud_NN1 outgrowth_NN1 ._. 
+</s>
+<s>
+Rodriguez-Esteban_NN1 et_RA21 al_RA22 11_MC found_VVD that_CST chick_VV0 Radical_JJ fringe_NN1 (_( R-fng_NN1 )_) ,_, homologous_JJ to_II the_AT Drosophila_NP1 fng_NNU gene_NN1 ,_, encodes_VVZ a_AT1 secreted_JJ% signalling_NN1 molecule_NN1 ,_, with_IW expression_NN1 as_CSA seen_VVN in_II figure_NN1 10.11_MC Ectopic_JJ expression_NN1 of_IO R-fng_NN1 in_II the_AT ventral_JJ side_NN1 of_IO the_AT limb_NN1 resulted_VVN in_II limb_NN1 bud_NN1 phenotypes_NN2 lacking_VVG a_AT1 defined_JJ AER_NN1 ,_, having_VHG a_AT1 divided_JJ AER_NN1 ,_, having_VHG additional_JJ ventral_JJ or_CC ventrally_RR expanded_JJ AERs_NN2 and_CC having_VHG a_AT1 lengthwise_JJ expansion_NN1 of_IO the_AT anterior_JJ AER.11_FO This_DD1 suggests_VVZ that_CST R-fng_JJ functions_NN2 in_II the_AT normal_JJ formation_NN1 of_IO the_AT AER_NN1 ._. 
+</s>
+<s>
+Rodriguez-Esteban_NN1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Radical_JJ fringe_NN1 position_NN1 the_AT apical_JJ ectodermal_JJ ridge_NN1 at_II the_AT dorsoventral_JJ boundary_NN1 of_IO the_AT vertebrate_JJ limb_NN1 1997Nature_FO 386:360-366_MCMC ._. 
+</s>
+<s>
+It_PPH1 appears_VVZ that_DD1 R-fng_NN1 requires_VVZ previous_JJ establishment_NN1 of_IO the_AT D-V_JJ axis_NN1 since_CS its_APPGE expression_NN1 is_VBZ dorsally_RR restricted_VVN as_CSA seen_VVN in_II figure_NN1 10_MC ._. 
+</s>
+<s>
+Dorsal_JJ misexpression_NN1 of_IO ectodermal_JJ gene_NN1 ._. 
+</s>
+<s>
+En-1_MC1 ,_, results_NN2 in_II severe_JJ truncations_NN2 with_IW AERs_NN2 that_CST are_VBR undefined_JJ ,_, discontinuous_JJ AERs_NN2 ,_, and_CC additional_JJ dorsal_JJ AERs.11_FO Therefore_RR it_PPH1 is_VBZ suggested_VVN that_CST ventrally_RR expressed_VVD En-1_MC1 in_II the_AT ectoderm_NN1 represses_VVZ R-fng_JJ expression_NN1 ,_, restricting_VVG it_PPH1 to_II the_AT dorsal_JJ ectoderm_NN1 ,_, creating_VVG a_AT1 'R-fng_JJ boundary'_NN1 and_CC resulting_VVG in_II the_AT formation_NN1 of_IO the_AT AER_NN1 at_II the_AT dorsoventral_NN1 boundary.11_FO ._. 
+</s>
+<s>
+As_CSA seen_VVN in_II figure_NN1 7_MC ,_, Fgf10_FO in_II the_AT LPM_NP1 is_VBZ proposed_VVN to_TO induce_VVI expression_NN1 of_IO Fgf8_FO in_II the_AT ectoderm_NN1 via_II Wnt3a_FO and_CC -catenin_NN1 ._. 
+</s>
+<s>
+Wnt3a_FO is_VBZ detected_VVN before_II Fgf8_FO in_II the_AT limb_NN1 field_NN1 ectoderm_NN1 ,_, and_CC is_VBZ up-regulated_JJ in_II cells_NN2 near_II the_AT dorsoventral_JJ boundary_NN1 ._. 
+</s>
+<s>
+Misexpression_NN1 of_IO Wnt3a_FO induces_VVZ ectopic_JJ expression_NN1 of_IO AER-specific_JJ genes_NN2 ,_, and_CC application_NN1 of_IO Wnt3a-expressing_JJ cells_NN2 to_II limbs_NN2 with_IW the_AT AER_NN1 removed_VVN induces_VVZ Fgf8_FO expression.12_FO It_PPH1 therefore_RR appears_VVZ Wnt3a_FO is_VBZ involved_JJ in_II the_AT formation_NN1 of_IO the_AT AER_NN1 and_CC induces_VVZ AER-specific_JJ genes_NN2 ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II figure_NN1 6_MC ,_, Wnt3a_FO signals_VVZ via_II -catenin_NN1 ,_, which_DDQ forms_VVZ a_AT1 complex_JJ with_IW members_NN2 of_IO the_AT LEF/XTCF_NN1 family_NN1 to_TO activate_VVI transcription_NN1 of_IO target_NN1 genes.12_FO A_ZZ1 member_NN1 of_IO this_DD1 family_NN1 ,_, Lef1_FO ,_, is_VBZ strongly_RR expressed_VVN in_II the_AT AER_NN1 ,_, and_CC misexpression_NN1 of_IO Wnt3a_FO enhances_VVZ Lef1_FO expression_NN1 ._. 
+</s>
+<s>
+It_PPH1 therefore_RR appears_VVZ Wnt3a_FO requires_VVZ -catenin/Lef1_JJ signalling_NN1 to_TO induce_VVI its_APPGE response_NN1 ._. 
+</s>
+<s>
+Kengakuet_NP1 al_NP1 ._. 
+</s>
+<s>
+Distinct_JJ WNT_NP1 pathways_NN2 regulating_VVG the_AT AER_NN1 formatio_NN1 and_CC dorsoventral_JJ polarity_NN1 in_II the_AT chick_NN1 limb_NN1 bud_NN1 1998_MC Science_NN1 280:1274-1277_MCMC ._. 
+</s>
+<s>
+The_AT signals_NN2 that_CST regulate_VV0 dorsal-ventral_JJ identity_NN1 are_VBR derived_VVN from_II the_AT ectoderm_NN1 ._. &;_NULL 
+</s>
+<s>
+Wnt7a_FO expression_NN1 is_VBZ present_JJ in_II the_AT ectoderm_NN1 at_II the_AT level_NN1 of_IO the_AT both_RR the_AT presumptive_JJ fore-_NN1 and_CC hindlimb_VV0 in_II mice_NN2 ,_, and_CC during_II the_AT initial_JJ stages_NN2 of_IO limb_NN1 bud_NN1 outgrowth_NN1 ,_, expression_NN1 is_VBZ uniform_JJ throughout_II the_AT dorsal_JJ limb_NN1 ectoderm.13_FO &14;_NULL It_PPH1 is_VBZ therefore_RR thought_VVN to_TO be_VBI involved_JJ in_II determining_VVG the_AT D-V_JJ axis_NN1 ._. 
+</s>
+<s>
+Wnt7a_FO -_- /_FO -_- mice_NN2 show_VV0 normal_JJ ventral_JJ structures_NN2 in_II the_AT limbs_NN2 ,_, however_RGQV many_DA2 dorsal-to-ventral_JJ transformations_NN2 of_IO mesenchyme_NN1 cell_NN1 fates_NN2 are_VBR observed.13_FO This_DD1 phenotype_NN1 is_VBZ more_RGR severe_JJ in_II distally_RR ,_, 13_MC suggesting_VVG other_JJ factors_NN2 are_VBR also_RR involved_JJ in_II D-V_JJ patterning_NN1 ._. 
+</s>
+<s>
+Ventrally_RR restricted_JJ expression_NN1 of_IO genes_NN2 such_II21 as_II22 En-1_MC1 and_CC Bmp-2_MC remains_VVZ intact_JJ ,_, so_CS it_PPH1 seems_VVZ the_AT cell_NN1 fate_NN1 changes_NN2 observed_VVN occur_VV0 to_II the_AT underlying_JJ dorsal_JJ mesenchyme.13_FO Overall_RR ,_, this_DD1 demonstrates_VVZ that_CST Wnt7a_FO is_VBZ required_VVN in_II dorsal_JJ patterning_NN1 of_IO the_AT limb_NN1 ._. 
+</s>
+<s>
+Parr_NN1 ,_, B._NP1 and_CC McMahon_NP1 ,_, A._NP1 Dorsalizing_NP1 signal_NN1 Wnt7a_FO required_VVN for_IF normal_JJ polarity_NN1 of_IO D-V_JJ and_CC A-P_NP1 axes_NN2 of_IO mouse_NN1 limb_NN1 1995_MC Nature_NN1 374:350-353_MCMC ._. 
+</s>
+<s>
+Riddle_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Induction_NN1 of_IO the_AT LIM_NN1 homeobox_NN1 gene_NN1 Lmx-1_MC1 by_II WNT7a_FO establishes_VVZ dorsoventral_JJ pattern_NN1 in_II the_AT vertebrate_JJ limb_NN1 1995_MC Cell_NN1 83:631-640_MCMC ._. 
+</s>
+<s>
+Lmx1_FO ,_, belonging_VVG to_II the_AT LIM_NN1 homeobox_NN1 gene_NN1 family_NN1 ,_, is_VBZ expressed_VVN in_II the_AT dorsal_JJ mesoderm_NN1 of_IO the_AT limb_NN1 bud_NN1 ,_, seen_VVN in_II figure_NN1 11.14_MC It_PPH1 is_VBZ restricted_VVN to_II the_AT mesoderm_NN1 adjacent_II21 to_II22 the_AT Wnt7a_FO expressing_VVG ectoderm_NN1 ,_, in_II both_DB2 the_AT fore-_NN1 and_CC hind_JJ limb.14_FO Its_APPGE timing_NN1 of_IO expression_NN1 shows_VVZ great_JJ similarity_NN1 to_II that_DD1 of_IO Wnt7a_FO in_II the_AT ectoderm_NN1 ,_, and_CC ventral_JJ misexpression_NN1 of_IO Wnt7a_FO leads_VVZ to_II ectopic_JJ expression_NN1 of_IO Lmx1_FO in_II the_AT ventral_JJ limb_NN1 mesoderm_NN1 ,_, seen_VVN in_II figure_NN1 11.14_MC This_DD1 suggests_VVZ that_CST dorsal_JJ expression_NN1 of_IO Wnt7a_FO in_II the_AT ectoderm_NN1 induces_VVZ dorsal_JJ expression_NN1 of_IO Lmx1_FO in_II the_AT mesoderm_NN1 ,_, which_DDQ gives_VVZ the_AT mesoderm_NN1 dorsal_JJ identity_NN1 ._. 
+</s>
+<s>
+In_II the_AT absence_NN1 of_IO surrounding_JJ ectoderm_NN1 ,_, dorsal_JJ Lmx1_FO expression_NN1 is_VBZ still_RR detected_VVN proximally_RR ,_, suggesting_VVG continuous_JJ signalling_NN1 from_II the_AT ectoderm_NN1 is_VBZ not_XX required_VVN to_TO maintain_VVI Lmx1_FO expression_NN1 in_II proximal_JJ limb_NN1 mesenchyme.14_FO Wnt7a_FO appears_VVZ to_TO induce_VVI Lmx1_FO expression_NN1 via_II a_AT1 -catenin_JJ independent_JJ pathway.12_FO ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 seen_VVN that_CST En-1_MC1 is_VBZ expressed_VVN in_II the_AT ventral_JJ ectoderm_NN1 ,_, and_CC functions_NN2 in_II positioning_NN1 of_IO the_AT AER.11_FO En-1_MC1 is_VBZ thought_VVN to_TO be_VBI involved_JJ in_II specifying_VVG ventral_JJ cell_NN1 fate_NN1 ,_, as_CSA misexpression_NN1 of_IO En-1_MC1 represses_VVZ the_AT expression_NN1 of_IO the_AT dorsally_RR restricted_VVN Wnt7a_FO and_CC Lmx1_FO genes.11_FO Therefore_RR it_PPH1 appears_VVZ that_CST correct_JJ spatial_JJ expression_NN1 and_CC interaction_NN1 of_IO Wnt7a_FO and_CC En-1_MC1 in_II the_AT ectoderm_NN1 are_VBR key_JJ to_II D-V_JJ patterning_NN1 of_IO the_AT limb_NN1 ,_, although_CS other_JJ genes_NN2 are_VBR also_RR likely_JJ to_TO be_VBI involved_VVN ._. 
+</s>
+<s>
+The_AT progress_NN1 zone_NN1 is_VBZ a_AT1 region_NN1 of_IO proliferation_NN1 of_IO undifferentiated_JJ cells_NN2 ._. 
+</s>
+<s>
+Cartilage_NN1 staining_NN1 shows_VVZ that_CST the_AT limb_NN1 develops_VVZ along_II the_AT Pr-D_NP1 axis_NN1 ,_, and_CC outgrowth_NN1 is_VBZ thought_VVN to_TO occur_VVI as_CSA in_II the_AT progress_NN1 zone_NN1 (_( PZ_NP1 )_) model_NN1 ._. 
+</s>
+<s>
+2,3_MC This_DD1 is_VBZ where_RRQ cells_NN2 in_II the_AT progress_NN1 zone_NN1 are_VBR maintained_VVN in_II a_AT1 proliferative_JJ and_CC undifferentiated_JJ state_NN1 ,_, and_CC their_APPGE fate_NN1 is_VBZ dependant_JJ upon_II the_AT time_NNT1 spent_VVN in_II the_AT PZ_NP1 ._. 
+</s>
+<s>
+The_AT longer_JJR the_AT time_NNT1 spent_VVN in_II the_AT PZ_NP1 ,_, the_AT more_RGR distal_JJ the_AT cell_NN1 fate_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ thought_VVN that_CST the_AT AER_NN1 regulates_VVZ outgrowth_NN1 through_II maintaining_VVG the_AT undifferentiated_JJ and_CC proliferative_JJ state_NN1 of_IO cells_NN2 in_II the_AT PZ_NP1 ._. 
+</s>
+<s>
+Niswander_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+FGF-4_MC replaces_VVZ the_AT apical_JJ ectodermal_JJ ridge_NN1 and_CC directs_VVZ outgrowth_NN1 and_CC patterning_NN1 of_IO the_AT limb_NN1 1993_MC Cell_NN1 75:579-587_MCMC ._. 
+</s>
+<s>
+Mahmood_VV0 et_RA21 al_RA22 ._. 
+</s>
+<s>
+A_AT1 role_NN1 for_IF FGF8_FO in_II the_AT initiation_NN1 and_CC maintenance_NN1 of_IO vertebrate_JJ limb_NN1 bud_NN1 outgrowth_NN1 1995_MC Current_JJ Biology_NN1 5:797-806_MCMC ._. 
+</s>
+<s>
+Application_NN1 of_IO Fgf4_FO soaked_JJ beads_NN2 to_TO chick_VVI limb_NN1 buds_NN2 with_IW the_AT AER_NN1 removed_VVD results_NN2 in_II stimulation_NN1 of_IO limb_NN1 bud_NN1 outgrowth_NN1 and_CC almost_RR normal_JJ proximodistal_JJ pattern_NN1 and_CC limb_NN1 length_NN1 ,_, although_CS with_IW some_DD abnormalities_NN2 in_II shape_NN1 ,_, compared_VVN to_II truncation_NN1 in_II the_AT controls.15_FO Simultaneous_JJ application_NN1 of_IO Fgf4_FO beads_NN2 to_II the_AT apical_JJ and_CC posterior_JJ wing_NN1 bud_NN1 mesenchyme_NN1 following_VVG AER_NN1 removal_NN1 ,_, leads_VVZ to_II virtually_RR complete_JJ skeletal_JJ elements_NN2 of_IO the_AT limb_NN1 ,_, with_IW only_RR some_DD digit_NN1 abnormalities_NN2 seen_VVN in_II figure_NN1 12.15_MC This_DD1 suggests_VVZ Fgf4_FO is_VBZ involved_JJ in_II the_AT stimulation_NN1 of_IO limb_NN1 bud_NN1 outgrowth_NN1 ,_, and_CC for_IF complete_JJ formation_NN1 of_IO the_AT Pr-D_NP1 axis_NN1 Fgf4_FO may_VM stimulate_VVI posterior_JJ mesenchyme_NN1 cells_NN2 to_TO produce_VVI a_AT1 signal_NN1 which_DDQ maintains_VVZ the_AT active_JJ progress_NN1 zone.15_FO However_RR ,_, Fgf4_FO mRNA_NN1 is_VBZ restricted_VVN to_II the_AT posterior_JJ part_NN1 of_IO the_AT AER_NN1 ,_, 16_MC and_CC Fgfs_NP1 are_VBR thought_VVN to_TO act_VVI over_RP only_RR short_JJ distances_NN2 ,_, so_CS it_PPH1 seems_VVZ other_JJ factors_NN2 are_VBR likely_JJ to_TO be_VBI involved_JJ in_II Pr-D_NP1 development_NN1 ._. 
+</s>
+<s>
+Fgf_NP1 signals_NN2 are_VBR transduced_VVN via_II Fgf_NP1 receptors_NN2 (_( Fgfr_NP1 )_) ._. 
+</s>
+<s>
+Fgfr2_FO is_VBZ expressed_VVN in_II the_AT LPM_NP1 during_II limb_NN1 bud_NN1 initiation_NN1 ,_, and_CC then_RT concentrates_VVZ to_II the_AT surface_NN1 ectoderm_NN1 ,_, and_CC at_II lower_JJR levels_NN2 in_II the_AT adjacent_JJ mesenchyme.17_FO Its_APPGE pattern_NN1 of_IO expression_NN1 therefore_RR overlaps_VVZ the_AT domains_NN2 of_IO Fgf10_FO and_CC Fgf8_FO expression_NN1 discussed_VVN in_II section_NN1 2_MC ._. 
+</s>
+<s>
+Xu_NP1 et_NP1 al17_FO found_VVN that_CST mice_NN2 with_IW a_AT1 deletion_NN1 of_IO a_AT1 domain_NN1 of_IO Fgfr2_FO ,_, show_VV0 failure_NN1 of_IO limb_NN1 induction_NN1 ,_, with_IW no_AT staining_NN1 for_IF Fgf8_FO ,_, and_CC Fgf10_FO staining_VVG weaker_JJR than_CSN in_II the_AT wild-type_NN1 which_DDQ gradually_RR reduced_VVN and_CC disappeared_VVN ,_, in_II both_DB2 fore-_JJ and_CC hindlimbs.17_FO This_DD1 suggests_VVZ that_CST Fgfr2_FO ,_, which_DDQ is_VBZ present_JJ in_II limb_NN1 bud_NN1 as_CSA two_MC major_JJ isoforms_NN2 ,_, is_VBZ involved_JJ in_II induction_NN1 of_IO Fgf8_FO by_II Fgf10_FO ,_, and_CC in_II turn_NN1 the_AT maintenance_NN1 of_IO Fgf10_FO by_II Fgf8_FO ,_, and_CC this_DD1 reciprocal_JJ interaction_NN1 is_VBZ vital_JJ for_IF limb_NN1 bud_NN1 formation_NN1 and_CC outgrowth.17_FO ._. 
+</s>
+<s>
+Xu_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Fibroblast_VV0 growth_NN1 factor_NN1 receptor_NN1 2_MC (_( FGFR2_FO )_) -mediated_JJ reciprocal_JJ regulation_NN1 loop_NN1 between_II FGF8_FO and_CC FGF10_FO is_VBZ essential_JJ for_IF limb_NN1 induction_NN1 1998_MC Development_NN1 125:753-765_MCMC ._. 
+</s>
+<s>
+Fgf8_FO expression_NN1 induced_VVN in_II the_AT ectoderm_NN1 by_II the_AT expression_NN1 of_IO Fgf10_FO ,_, persists_VVZ in_II the_AT limb_NN1 bud_NN1 and_CC is_VBZ found_VVN to_TO be_VBI restricted_VVN uniformly_RR to_II cells_NN2 of_IO the_AT AER_NN1 ,_, before_CS the_AT expression_NN1 of_IO Fgf4.16_FO Mice_NN2 forelimbs_NN2 maintain_VV0 limb_NN1 bud_NN1 growth_NN1 after_II AER_NN1 removal_NN1 and_CC incubation_NN1 with_IW Fgf8.16_FO This_DD1 shows_VVZ that_CST along_II21 with_II22 Fgf4_FO ,_, Fgf8_FO may_VM also_RR perform_VVI most_DAT of_IO the_AT functions_NN2 of_IO the_AT AER_NN1 when_CS it_PPH1 is_VBZ removed_VVN ._. 
+</s>
+<s>
+Conditional_JJ inactivation_NN1 of_IO Fgf8_FO determined_VVN that_CST it_PPH1 is_VBZ only_RR absolutely_RR required_VVN in_II the_AT anterior_JJ AER_NN1 ,_, as_CSA only_RR anterior_JJ forelimb_NN1 elements_NN2 were_VBDR absent_JJ ._. 
+</s>
+<s>
+Fgf4_FO levels_NN2 had_VHD increased_VVN ,_, suggesting_VVG that_CST the_AT two_MC are_VBR co-regulated_VVN ,_, and_CC Fgf4_FO compensates_VVZ for_IF the_AT loss_NN1 of_IO Fgf8_FO ._. 
+</s>
+<s>
+Overall_RR it_PPH1 appears_VVZ that_CST both_DB2 Fgf4_FO and_CC Fgf8_FO are_VBR vital_JJ for_IF the_AT correct_JJ outgrowth_NN1 and_CC Pr-D_NP1 patterning_NN1 of_IO the_AT vertebrate_JJ limb_NN1 ._. 
+</s>
+<s>
+Moon_NN1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+FGF8_FO is_VBZ involved_VVN for_IF outgrowth_NN1 and_CC patterning_NN1 of_IO the_AT limbs_NN2 2000_MC Nature_NN1 Genetics_NN1 26:455-459_MCMC ._. 
+</s>
+<s>
+Early_JJ experiments_NN2 found_VVD that_CST the_AT A-P_NP1 axis_NN1 involved_VVD ZPA_NP1 ,_, as_CSA seen_VVN in_II figure_NN1 13_MC ._. 
+</s>
+<s>
+Riddle_VV0 at_II al_NP1 19_MC isolated_VVD a_AT1 Drosophila_NN1 hedgehog_NN1 homolog_NN1 ,_, Sonic_JJ hedgehog_NN1 (_( Shh_UH )_) and_CC via_II in_RR21 situ_RR22 hybridisation_NN1 found_VVD that_CST Shh_UH is_VBZ expressed_VVN in_II the_AT posterior_JJ regions_NN2 of_IO the_AT fore-_NN1 and_CC hindlimb_VV0 corresponding_VVG in_RP both_RR position_NN1 and_CC intensity_NN1 to_II the_AT polarising_JJ activity_NN1 of_IO the_AT ZPA.19_FO Ectopic_JJ expression_NN1 of_IO Shh_UH was_VBDZ found_VVN to_TO result_VVI in_II mirror-image_JJ digit_NN1 duplications_NN2 similar_JJ to_II those_DD2 with_IW an_AT1 ectopic_JJ ZPA.19_FO This_DD1 suggests_VVZ that_CST the_AT polarising_JJ activity_NN1 of_IO the_AT ZPA_NN1 is_VBZ mediated_VVN by_II Shh_UH ._. 
+</s>
+<s>
+Ectopic_JJ Shh_UH expression_NN1 in_II the_AT anterior_JJ could_VM induce_VVI mirror-image_JJ activation_NN1 of_IO Hoxd_NP1 gene_NN1 expression_NN1 ,_, as_CSA occurred_VVN when_CS the_AT ZPA_NN1 is_VBZ transplanted.19_FO This_DD1 implicates_VVZ Hoxd_NP1 gene_NN1 expression_NN1 as_II a_AT1 downstream_JJ target_NN1 of_IO Shh_UH in_II limb_NN1 A-P_NP1 patterning_VVG ._. 
+</s>
+<s>
+Riddle_VV0 at_II al_NP1 ._. 
+</s>
+<s>
+Sonic_JJ hedgehog_NN1 mediates_VVZ the_AT polarising_JJ activity_NN1 of_IO the_AT ZPA_NN1 1993_MC 75:1401-1416_MCMC ._. 
+</s>
+<s>
+In_RR21 situ_RR22 hybridisation_NN1 shows_VVZ Hoxb-8_MC is_VBZ expressed_VVN in_II the_AT posterior_NN1 of_IO the_AT chick_NN1 forelimb_NN1 ,_, with_IW position_NN1 and_CC intensity_NN1 corresponding_VVG to_II the_AT ZPA_NN1 ._. 
+</s>
+<s>
+It_PPH1 seems_VVZ Hoxb-8_MC is_VBZ involved_JJ in_II establishing_VVG the_AT position_NN1 of_IO the_AT forelimb_NN1 ZPA_NN1 ._. 
+</s>
+<s>
+The_AT expression_NN1 of_IO Hoxb-8_MC can_VM be_VBI regulated_VVN in_II a_AT1 dose-dependant_JJ response_NN1 to_II retinoic_JJ acid_NN1 (_( RA_NP1 )_) ,_, suggesting_VVG RA_NP1 lies_VVZ upstream_JJ of_IO Hoxb-8_MC in_II specifying_VVG the_AT position_NN1 of_IO the_AT ZPA_NN1 according_II21 to_II22 the_AT primary_NN1 axis.20_FO The_AT loss_NN1 of_IO Hoxb-8_MC expression_NN1 at_II stage_NN1 18_MC in_II the_AT chick_NN1 appears_VVZ to_TO be_VBI as_II a_AT1 result_NN1 of_IO inhibition_NN1 from_II the_AT ZPA_NN1 and_CC AER_NN1 ,_, 20_MC seen_VVN in_II figure_NN1 14_MC ._. 
+</s>
+<s>
+Hoxb-8_MC is_VBZ not_XX expressed_VVN in_II the_AT hindlimb_NN1 ,_, however_RR ,_, a_AT1 more_RGR 5'_FO Hox_NN1 gene_NN1 ,_, with_IW a_AT1 more_RGR posterior_JJ boundary_NN1 is_VBZ predicted_VVN to_TO perform_VVI a_AT1 similar_JJ function_NN1 in_II the_AT hindlimb.20_FO ._. 
+</s>
+<s>
+Stratford_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Hoxb-8_MC has_VHZ a_AT1 role_NN1 in_II establishing_VVG early_RR anterior-posterior_JJ polarity_NN1 in_II chick_NN1 forelimb_NN1 but_CCB not_XX hindlimb_VV0 1997_MC Development_NN1 124:4224-4234_MCMC ._. 
+</s>
+<s>
+Gli3_FO has_VHZ been_VBN suggested_VVN as_II a_AT1 target_NN1 of_IO Shh_UH signalling_NN1 in_II A-P_NP1 limb_NN1 patterning_VVG ._. 
+</s>
+<s>
+Shh_UH -_- /_FO -_- limbs_NN2 have_VH0 severe_JJ distal_JJ skeletal_JJ deficiencies_NN2 ,_, with_IW zeugopod_NN1 and_CC autopod_VV0 elements_NN2 missing_VVG ,_, fused_VVN or_CC lacking_VVG identity_NN1 ._. 
+</s>
+<s>
+Gli3_FO -_- /_FO -_- limbs_NN2 exhibit_VV0 severe_JJ polydactyly.21_FO Shh_UH -_- /_FO -_- Gli3_FO -_- /_FO -_- mice_NN2 ,_, develop_VV0 virtually_RR normal_JJ stylopod_NN1 and_CC zeugopod_VV0 elements_NN2 ,_, however_RRQV the_AT autopod_NN1 is_VBZ polydactylous.21_FO This_DD1 suggests_VVZ the_AT two_MC are_VBR required_VVN for_IF constraining_VVG the_AT polydactylous_JJ potential_NN1 of_IO the_AT autopod_NN1 and_CC specifying_VVG digit_NN1 identity_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT Gli3_FO -_- /_FO -_- and_CC Shh_UH -_- /_FO -_- Gli3_FO -_- /_FO -_- limbs_NN2 are_VBR almost_RR indistinguishable_JJ ,_, this_DD1 would_VM suggest_VVI Shh_UH has_VHZ no_AT effect_NN1 in_II the_AT absence_NN1 of_IO Gli3_FO ,_, and_CC Gli3_FO is_VBZ therefore_RR required_VVN for_IF Shh_UH to_TO function_VVI in_II A-P_NP1 patterning.21_FO ._. 
+</s>
+<s>
+Litingtung_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Shh_UH and_CC Gli3_FO are_VBR dispensible_JJ for_IF limb_NN1 skeleton_NN1 formation_NN1 but_CCB regulate_VV0 digit_NN1 number_NN1 and_CC identity_NN1 2002_MC Nature_NN1 418:979-983_MCMC ._. 
+</s>
+<s>
+Gli3_FO is_VBZ a_AT1 transcription_NN1 factor_NN1 thought_VVD to_TO be_VBI present_JJ in_II the_AT limb_NN1 in_II transcriptional_JJ activator_NN1 (_( Gli3A_FO )_) and_CC repressor_NN1 (_( Gli3R_FO )_) forms_NN2 ,_, with_IW a_AT1 proteolytic_JJ cleavage_NN1 generating_VVG the_AT repressor_NN1 form.3,4,21_FO Shh_UH is_VBZ proposed_VVN to_TO inhibit_VVI this_DD1 cleavage_NN1 ,_, therefore_RR generating_VVG the_AT activator_NN1 form_NN1 ,_, and_CC creating_VVG an_AT1 A-P_NN1 gradient_NN1 of_IO Gli3A:Gli3R._FO 3,4,21_MC The_AT expression_NN1 of_IO target_NN1 genes_NN2 then_RT leads_VVZ to_II the_AT A-P_NP1 patterning_NN1 of_IO digits_NN2 ._. 
+</s>
+<s>
+As_CSA reviewed_VVN by_II Niswander_NP1 ,_, 3_MC early_JJ A-P_NN1 patterning_VVG in_II the_AT stylopod_NN1 and_CC zeugopod_NN1 is_VBZ thought_VVN to_TO be_VBI a_AT1 result_NN1 of_IO Gli3_FO expression_NN1 in_II the_AT anterior_JJ mesenchyme_NN1 and_CC dHand_JJ expression_NN1 in_II the_AT posterior_JJ mesenchyme_NN1 ._. 
+</s>
+<s>
+The_AT transcription_NN1 factor_NN1 dHand_RR is_VBZ also_RR thought_VVN to_TO be_VBI required_VVN to_TO activate_VVI Shh_UH expression_NN1 in_II the_AT ZPA_NN1 ._. 
+</s>
+<s>
+The_AT ZPA_NN1 requires_VVZ a_AT1 signal_NN1 from_II the_AT AER_NN1 for_IF establishment_NN1 and_CC maintenance_NN1 of_IO Shh_UH expression_NN1 ,_, and_CC it_PPH1 appears_VVZ that_CST the_AT AER_NN1 requires_VVZ the_AT ZPA_NN1 for_IF maintenance_NN1 of_IO Fgf4_FO expression.15_FO This_DD1 has_VHZ been_VBN examined_VVN by_II looking_VVG at_II limb_NN1 deformed_JJ (_( ld_NNU )_) mutants_NN2 ,_, which_DDQ show_VV0 normal_JJ activation_NN1 of_IO Shh_UH expression_NN1 ,_, but_CCB subsequent_JJ up-regulation_NN1 does_VDZ not_XX occur.22_FO Grafts_NN2 of_IO Shh_UH expressing_VVG cells_NN2 in_II the_AT wild-type_NN1 induce_VV0 ectopic_JJ Fgf4_FO expression_NN1 ,_, however_RR in_II the_AT ld_NNU mutant_NN1 this_DD1 does_VDZ not_XX occur.22_FO Further_RRR evidence_NN1 as_CSA seen_VVN in_II figure_NN1 15_MC ,_, has_VHZ lead_VVN to_II a_AT1 model_NN1 for_IF a_AT1 proposed_JJ Shh/Fgf4_FU feedback_NN1 loop_NN1 ._. 
+</s>
+<s>
+Zuniga_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Signal_NN1 relay_NN1 by_II BMP_NP1 antagonism_NN1 controls_VVZ the_AT SHH/FGF4_FU feedback_NN1 loop_NN1 in_II vertebrate_JJ limb_NN1 buds_NN2 1999_MC Nature_NN1 401:598-602_MCMC ._. 
+</s>
+<s>
+Khokha_NP1 et_RA21 al_RA22 ._. 
+</s>
+<s>
+Gremlin_NN1 is_VBZ the_AT BMP_NP1 antagonist_NN1 required_VVN for_IF maintenance_NN1 of_IO Shh_UH and_CC Fgf_NP1 signals_NN2 during_II limb_NN1 patterning_VVG 2003_MC Nature_NN1 Genetics_NN1 34:303-307_MCMC ._. 
+</s>
+<s>
+The_AT D-V_JJ ,_, Pr-D_NP1 and_CC A-P_NP1 patterning_VVG systems_NN2 are_VBR highly_RR interlinked_VVN ,_, with_IW grey_JJ areas_NN2 in_II understanding_VVG that_CST may_VM be_VBI clarified_VVN with_IW future_JJ experimentation_NN1 ._. 
+</s>
+<s>
+The_AT progress_NN1 zone_NN1 model_NN1 of_IO progressive_JJ Pr-D_NP1 specification_NN1 for_REX21 example_REX22 ,_, has_VHZ recently_RR been_VBN challenged_VVN by_II an_AT1 alternative_JJ model_NN1 based_VVN on_II early_JJ specification_NN1 of_IO Pr-D_NP1 fates_NN2 in_II the_AT limb_NN1 bud.3_FO Therefore_RR it_PPH1 seems_VVZ questions_NN2 are_VBR still_JJ to_TO be_VBI answered_VVN concerning_II when_RRQ specification_NN1 actually_RR occurs_VVZ ._. 
+</s>
+<s>
+The_AT chick_NN1 and_CC mice_NN2 models_NN2 discussed_VVN in_II the_AT essay_NN1 may_VM be_VBI related_VVN to_II the_AT limb_NN1 patterning_VVG in_II other_JJ vertebrates_NN2 ,_, due_II21 to_II22 high_JJ levels_NN2 of_IO evolutionary_JJ conservation_NN1 ._. 
+</s>
+<s>
+Parallels_NN2 have_VH0 also_RR often_RR been_VBN drawn_VVN with_IW Drosophila_NP1 ._. 
+</s>
+<s>
+Overall_RR the_AT patterning_NN1 of_IO the_AT vertebrate_JJ limb_NN1 is_VBZ produced_VVN by_II complex_JJ and_CC interacting_JJ signalling_NN1 cascades_NN2 ,_, which_DDQ set_VV0 up_RP the_AT axes_NN2 that_CST are_VBR essential_JJ in_II producing_VVG complete_JJ and_CC correct_JJ morphology_NN1 ._. 
+</s>

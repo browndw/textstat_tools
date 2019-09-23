@@ -1,0 +1,327 @@
+<s>
+Planck_NP1 's_GE constant_NN1 was_VBDZ calculated_VVN by_II use_NN1 of_IO the_AT photoelectric_JJ effect_NN1 and_CC found_VVD to_TO be_VBI h_ZZ1 =_FO 5.1_MC (_( 0.1_MC x_ZZ1 10-34_MCMC J_NP1 s_ZZ1 ._. 
+</s>
+<s>
+This_DD1 result_NN1 is_VBZ inconsistent_JJ with_IW the_AT 2002_MC CODATA_NP1 recommended_VVD value_NN1 of_IO h_ZZ1 =_FO 6.6260693_MC (_( 0.0000011_MC x_ZZ1 10-34_MCMC J_NP1 s_ZZ1 ._. 
+</s>
+<s>
+Suggestions_NN2 of_IO a_AT1 limited_JJ data_NN spread_VV0 and_CC errors_NN2 in_II the_AT measurement_NN1 of_IO the_AT stopping_VVG voltage_NN1 are_VBR put_VVN forward_RL as_CSA possible_JJ reasons_NN2 for_IF this_DD1 discrepancy_NN1 ._. 
+</s>
+<s>
+Investigations_NN2 into_II the_AT effect_NN1 of_IO varying_VVG the_AT intensity_NN1 of_IO the_AT incident_NN1 light_NN1 and_CC the_AT values_NN2 of_IO h_ZZ1 derived_VVN under_II these_DD2 conditions_NN2 prove_VV0 inconclusive_JJ in_II confirming_VVG that_CST the_AT energy_NN1 of_IO light_NN1 is_VBZ independent_JJ of_IO its_APPGE intensity_NN1 as_CSA suggested_VVN by_II theory_NN1 ._. 
+</s>
+<s>
+In_II the_AT latter_DA part_NN1 of_IO the_AT nineteenth_MD century_NNT1 the_AT general_JJ scientific_JJ consensus_NN1 was_VBDZ that_CST a_AT1 firm_JJ grasp_NN1 had_VHD been_VBN obtained_VVN on_II all_DB the_AT laws_NN2 of_IO nature_NN1 and_CC that_DD1 only_JJ patience_NN1 and_CC perseverance_NN1 were_VBDR required_VVN to_TO complete_VVI our_APPGE understanding_NN1 of_IO all_DB physical_JJ phenomena_NN2 ._. 
+</s>
+<s>
+Two_MC notable_JJ exceptions_NN2 to_II this_DD1 were_VBDR the_AT phenomena_NN2 of_IO blackbody_NN1 radiation_NN1 and_CC the_AT photoelectric_JJ effect_NN1 ,_, which_DDQ had_VHD yet_RR to_TO be_VBI explained_VVN in_II a_AT1 manner_NN1 consistent_JJ with_IW classical_JJ theory_NN1 ._. 
+</s>
+<s>
+The_AT term_NN1 blackbody_NN1 radiation_NN1 is_VBZ used_VVN to_TO describe_VVI the_AT temperature_NN1 dependant_NN1 radiation_NN1 spectrum_NN1 emitted_VVD by_II a_AT1 perfect_JJ absorber_NN1 ,_, an_AT1 ideal_JJ black_JJ material_NN1 that_CST absorbs_VVZ all_DB and_CC reflects_VVZ none_PN of_IO the_AT radiant_JJ energy_NN1 falling_VVG on_II it_PPH1 ._. 
+</s>
+<s>
+The_AT laws_NN2 of_IO thermodynamics_NN1 and_CC Maxwell_NP1 's_GE equations_NN2 had_VHD been_VBN successfully_RR used_VVN to_TO describe_VVI several_DA2 features_NN2 associated_VVN with_IW blackbody_NN1 radiation_NN1 ,_, and_CC models_NN2 explaining_VVG the_AT phenomena_NN2 were_VBDR found_VVN for_IF certain_JJ wavelength_NN1 ranges_NN2 ,_, although_CS attempts_NN2 at_II describing_VVG the_AT entire_JJ form_NN1 of_IO the_AT blackbody_NN1 spectrum_NN1 using_VVG classical_JJ theory_NN1 alone_RR failed_VVN ._. 
+</s>
+<s>
+Planck_NP1 first_MD introduced_VVD the_AT parameter_NN1 h_ZZ1 ,_, which_DDQ is_VBZ now_RT associated_VVN with_IW his_APPGE name_NN1 ,_, in_II his_APPGE theory_NN1 on_II blackbody_NN1 radiation_NN1 (_( Planck_NP1 1900_MC )_) for_IF which_DDQ he_PPHS1 was_VBDZ later_RRR awarded_VVN a_AT1 Nobel_NP1 Prize_NN1 in_II 1918_MC ._. 
+</s>
+<s>
+In_II this_DD1 theory_NN1 Planck_NP1 presented_VVD a_AT1 model_NN1 that_CST explained_VVD the_AT entire_JJ form_NN1 of_IO the_AT blackbody_NN1 spectrum_NN1 ,_, consistent_JJ at_II all_DB wavelengths_NN2 with_IW experimental_JJ results_NN2 ._. 
+</s>
+<s>
+Planck_NP1 had_VHD started_VVN with_IW an_AT1 empirical_JJ model_NN1 that_CST matched_VVD the_AT data_NN and_CC had_VHD then_RT developed_VVN a_AT1 physical_JJ model_NN1 that_CST physically_RR justified_VVN it_PPH1 ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 atoms_NN2 on_II the_AT inside_JJ surface_NN1 of_IO the_AT blackbody_NN1 where_CS described_VVN as_CSA electric_JJ oscillators_NN2 which_DDQ absorbed_VVD and_CC emitted_JJ radiation_NN1 over_II all_DB frequencies_NN2 ._. 
+</s>
+<s>
+Critically_RR he_PPHS1 stated_VVD that_CST the_AT energy_NN1 of_IO the_AT electric_JJ oscillating_JJ atoms_NN2 could_VM only_RR be_VBI changed_VVN by_II discrete_JJ prescribed_JJ amounts_NN2 ,_, which_DDQ he_PPHS1 named_VVD light_JJ quanta_NN1 ._. 
+</s>
+<s>
+The_AT amount_NN1 of_IO energy_NN1 exchanged_VVN by_II one_MC1 light_JJ quantum_NN1 (_( )_) is_VBZ given_VVN by_II the_AT equation_NN1 (_( 1_MC1 )_) where_RRQ h_ZZ1 is_VBZ Planck_NP1 's_GE constant_JJ and_CC f_ZZ1 is_VBZ the_AT oscillator_NN1 frequency_NN1 ._. 
+</s>
+<s>
+Later_RRR ,_, in_II 1905_MC ,_, Einstein_NP1 resolved_VVD the_AT many_DA2 puzzling_JJ problems_NN2 surrounding_VVG the_AT photoelectric_JJ effect_NN1 by_II developing_VVG upon_II the_AT ideas_NN2 put_VVN forward_RL by_II Planck_NP1 ._. 
+</s>
+<s>
+In_II this_DD1 work_NN1 ,_, for_IF which_DDQ he_PPHS1 received_VVD the_AT Nobel_NP1 Prize_NN1 in_II Physics_NN1 in_II 1921_MC ,_, Einstein_NP1 theorized_VVD that_CST just_RR as_CSA the_AT atomic_JJ oscillators_NN2 in_II blackbody_NN1 radiation_NN1 can_VM only_RR change_VVI their_APPGE energy_NN1 in_II discrete_JJ jumps_NN2 ,_, the_AT energy_NN1 in_II an_AT1 electromagnetic_JJ field_NN1 is_VBZ also_RR quantized_VVN and_CC can_VM only_RR take_VVI on_RP a_AT1 set_NN1 of_IO discrete_JJ values_NN2 proportional_JJ to_II the_AT field_NN1 's_GE frequency_NN1 ._. 
+</s>
+<s>
+We_PPIS2 now_RT call_VV0 the_AT discrete_JJ amounts_NN2 of_IO energy_NN1 that_CST make_VV0 up_RP the_AT electromagnetic_JJ field_NN1 photons_NN2 ._. 
+</s>
+<s>
+Relating_VVG to_II the_AT photoelectric_JJ effect_NN1 ,_, electrons_NN2 in_II an_AT1 illuminated_JJ metal_NN1 surface_NN1 will_VM absorb_VVI photons_NN2 one_PN1 at_II a_AT1 time_NNT1 ,_, and_CC if_CS the_AT energy_NN1 transferred_VVN to_II the_AT electron_NN1 is_VBZ sufficient_JJ to_TO rip_VVI it_PPH1 free_JJ from_II the_AT metal_NN1 's_GE surface_NN1 it_PPH1 is_VBZ emitted_VVN as_II a_AT1 photoelectron_NN1 with_IW kinetic_JJ energy_NN1 (_( 2_MC )_) the_AT difference_NN1 in_II the_AT incoming_JJ photons_NN2 energy_NN1 (_( hf_NNU )_) and_CC the_AT work_NN1 function_NN1 of_IO the_AT metal_NN1 (_( )_) ._. 
+</s>
+<s>
+Einstein_NP1 's_GE theory_NN1 supported_VVD the_AT observations_NN2 that_CST a_AT1 photocurrent_NN1 appears_VVZ without_IW delay_NN1 ,_, here_RL a_AT1 single_JJ electron_NN1 absorbs_VVZ each_DD1 incident_NN1 photon_NN1 ,_, transferring_VVG energy_NN1 to_II the_AT electron_NN1 that_CST is_VBZ either_RR sufficient_JJ to_TO overcome_VVI the_AT work_NN1 function_NN1 of_IO the_AT cathode_NN1 leading_VVG to_II a_AT1 photoelectric_JJ emission_NN1 material_NN1 or_CC insufficient_JJ in_II which_DDQ case_VV0% the_AT energy_NN1 is_VBZ dissipated_VVN ._. 
+</s>
+<s>
+The_AT intensity_NN1 of_IO the_AT incident_NN1 light_NN1 has_VHZ a_AT1 direct_JJ effect_NN1 on_II the_AT emitted_JJ photocurrent_NN1 since_CS it_PPH1 varies_VVZ the_AT number_NN1 of_IO photons_NN2 incident_NN1 on_II the_AT metal_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT energy_NN1 of_IO the_AT photons_NN2 (_( determined_VVN by_II their_APPGE frequency_NN1 )_) that_CST determines_VVZ the_AT energy_NN1 of_IO these_DD2 photoelectrons_NN2 ._. 
+</s>
+<s>
+These_DD2 were_VBDR observations_NN2 previously_RR unexplained_JJ by_II classical_JJ theory_NN1 ._. 
+</s>
+<s>
+The_AT maximum_JJ energy_NN1 of_IO emitted_JJ photoelectrons_NN2 can_VM be_VBI measured_VVN by_II applying_VVG a_AT1 voltage_NN1 to_II the_AT emitted_JJ photocurrent_NN1 ._. 
+</s>
+<s>
+The_AT minimum_JJ voltage_NN1 required_VVN to_TO reduce_VVI the_AT photocurrent_JJ to_TO zero_VVI is_VBZ known_VVN as_II the_AT stopping_VVG voltage_NN1 (_( V0_FO )_) where_RRQ (_( 3_MC )_) where_RRQ e_ZZ1 is_VBZ the_AT charge_NN1 on_II an_AT1 electron_NN1 ._. 
+</s>
+<s>
+If_CS the_AT stopping_VVG voltage_NN1 is_VBZ measured_VVN for_IF a_AT1 range_NN1 of_IO different_JJ monochromatic_JJ light_JJ sources_NN2 a_AT1 plot_NN1 of_IO the_AT stopping_VVG voltage_NN1 against_II the_AT frequency_NN1 of_IO the_AT incoming_JJ light_JJ source_NN1 will_VM yield_VVI a_AT1 straight_JJ line_NN1 of_IO gradient_NN1 (_( 4_MC )_) ._. 
+</s>
+<s>
+Analysis_NN1 of_IO the_AT slope_NN1 of_IO this_DD1 graph_NN1 permits_VVZ a_AT1 value_NN1 for_IF Planck_NP1 's_GE constant_JJ to_TO be_VBI derived_VVN ._. 
+</s>
+<s>
+The_AT value_NN1 of_IO Planck_NP1 's_GE constant_NN1 is_VBZ an_AT1 important_JJ quantity_NN1 because_CS the_AT constant_NN1 is_VBZ fundamentally_RR related_VVN to_II the_AT rate_NN1 and_CC quantum_NN1 amounts_NN2 by_II which_DDQ energy_NN1 can_VM be_VBI transferred_VVN ,_, and_CC it_PPH1 is_VBZ also_RR critical_JJ to_II the_AT argument_NN1 for_IF the_AT wave_NN1 particle_NN1 duality_NN1 of_IO light_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT fundamental_JJ constant_NN1 which_DDQ underlies_VVZ Quantum_NN1 Theory_NN1 ,_, described_VVN as_II one_MC1 of_IO the_AT two_MC great_JJ revolutionary_JJ theories_NN2 that_CST changed_VVD the_AT face_NN1 of_IO physics_NN1 in_II the_AT early_JJ twentieth_MD century_NNT1 (_( Gamow_NP1 1972_MC )_) ,_, the_AT other_NN1 being_VBG Einstein_NP1 's_GE Theory_NN1 of_IO Relativity_NN1 ._. 
+</s>
+<s>
+Quantum_NN1 Theory_NN1 has_VHZ since_RR been_VBN through_II many_DA2 evolutionary_JJ stages_NN2 and_CC today_RT gives_VVZ us_PPIO2 a_AT1 deep_JJ insight_NN1 into_II the_AT behavior_NN1 of_IO systems_NN2 on_II a_AT1 nanometer_JJR scale_NN1 ._. 
+</s>
+<s>
+Planck_NP1 's_GE constant_NN1 was_VBDZ obtained_VVN by_II the_AT use_NN1 of_IO a_AT1 method_NN1 first_MD performed_VVN by_II Millikan_NP1 (_( 1916_MC )_) ,_, which_DDQ involves_VVZ exposing_VVG a_AT1 photocell_NN1 to_II a_AT1 monochromatic_JJ light_JJ source_NN1 and_CC measuring_VVG the_AT maximum_JJ kinetic_JJ energy_NN1 of_IO the_AT resultant_JJ ejected_JJ% photoelectrons_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO use_VVI the_AT photoelectric_JJ effect_NN1 to_TO determine_VVI a_AT1 value_NN1 for_IF Planck_NP1 's_GE constant_JJ h_ZZ1 we_PPIS2 used_VVD a_AT1 high-pressure_JJ mercury_NN1 lamp_NN1 and_CC a_AT1 range_NN1 of_IO five_MC narrow-band_JJ interference_NN1 filters_VVZ to_TO create_VVI five_MC different_JJ monochromatic_JJ light_JJ sources_NN2 ._. 
+</s>
+<s>
+Each_DD1 interference_NN1 filter_NN1 selects_VVZ one_MC1 spectral_JJ line_NN1 from_II the_AT light_NN1 emitted_VVD by_II the_AT mercury_NN1 lamp_NN1 ;_; the_AT frequencies_NN2 of_IO the_AT transmitted_JJ mercury_NN1 lines_NN2 are_VBR shown_VVN in_II Figure_NN1 2_MC ._. 
+</s>
+<s>
+The_AT light_NN1 was_VBDZ focused_VVN onto_II the_AT photocell_NN1 using_VVG a_AT1 lens_NN1 of_IO focal_JJ length_NN1 100mm_NNU ,_, with_IW the_AT heights_NN2 of_IO the_AT optical_JJ riders_NN2 adjusted_VVN until_CS the_AT light_NN1 was_VBDZ incident_NN1 only_RR on_II the_AT sensitive_JJ area_NN1 of_IO the_AT photocell_NN1 ._. 
+</s>
+<s>
+A_AT1 tight_JJ fit_NN1 between_II the_AT photocell_NN1 cover_NN1 and_CC the_AT photocell_NN1 was_VBDZ ensured_VVN so_BCL21 as_BCL22 to_TO minimise_VVI the_AT effect_NN1 of_IO any_DD remaining_JJ background_NN1 light_NN1 falling_VVG on_II the_AT photocell_NN1 after_II semi-blackout_NN1 conditions_NN2 were_VBDR introduced_VVN ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO vary_VVI the_AT intensity_NN1 of_IO light_NN1 falling_VVG on_II the_AT photocell_NN1 the_AT size_NN1 of_IO the_AT iris_NN1 diaphragm_NN1 was_VBDZ altered_VVN ._. 
+</s>
+<s>
+The_AT light_JJ incident_NN1 on_II a_AT1 potassium_NN1 surface_NN1 ,_, chosen_VVN for_IF its_APPGE low_JJ work_NN1 function_NN1 (_( a_AT1 property_NN1 caused_VVN by_II the_AT weakly_RR bound_VVN valence_NN1 electrons_NN2 of_IO alkali_NN1 metals_NN2 )_) ,_, caused_VVD the_AT emission_NN1 of_IO photoelectrons_NN2 ,_, some_DD of_IO which_DDQ travelled_VVD to_II the_AT anode_NN1 of_IO the_AT photocell_NN1 in_II the_AT form_NN1 of_IO a_AT1 photoelectric_JJ current_JJ ._. 
+</s>
+<s>
+This_DD1 photoelectric_JJ current_JJ charges_NN2 the_AT capacitor_NN1 ,_, until_CS the_AT voltage_NN1 is_VBZ sufficient_JJ to_TO reduce_VVI the_AT incident_NN1 current_NN1 to_II precisely_RR zero_MC ._. 
+</s>
+<s>
+This_DD1 value_NN1 of_IO the_AT voltage_NN1 was_VBDZ the_AT stopping_VVG potential_NN1 (_( V0_FO )_) ._. 
+</s>
+<s>
+At_II this_DD1 value_NN1 even_RR the_AT electrons_NN2 with_IW the_AT greatest_JJT energy_NN1 (_( i.e._REX the_AT lowest_JJT work_NN1 function_NN1 and_CC the_AT greatest_JJT kinetic_JJ energy_NN1 ,_, see_VV0 equation_NN1 2_MC )_) can_VM no_RR21 longer_RR22 overcome_VVI the_AT capacitor_NN1 voltage_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ noted_VVN that_CST the_AT work_NN1 function_NN1 in_II this_DD1 experiment_NN1 includes_VVZ in_II the_AT energy_NN1 balance_NN1 the_AT contact_NN1 potential_NN1 between_II the_AT cathode_NN1 and_CC the_AT anode_NN1 ._. 
+</s>
+<s>
+A_AT1 capacitor_NN1 was_VBDZ used_VVN to_TO determine_VVI V0_FO since_CS it_PPH1 eliminated_VVD the_AT necessity_NN1 to_TO search_VVI for_IF V0_FO manually_RR by_II observing_VVG the_AT value_NN1 at_II which_DDQ the_AT photocurrent_NN1 is_VBZ reduced_VVN to_TO zero_VVI ,_, this_DD1 method_NN1 would_VM likely_RR have_VHI reduced_VVN the_AT accuracy_NN1 in_II a_AT1 V0_FO measurement_NN1 ._. 
+</s>
+<s>
+Each_DD1 interference_NN1 filter_NN1 was_VBDZ cycled_VVN through_II three_MC times_NNT2 in_BCL21 order_BCL22 to_TO obtain_VVI repeat_VV0 measurements_NN2 of_IO the_AT V0_FO stopping_VVG potential_NN1 ._. 
+</s>
+<s>
+Between_II each_DD1 measurement_NN1 the_AT capacitor_NN1 was_VBDZ discharged_VVN completely_RR ._. 
+</s>
+<s>
+Once_CS the_AT interference_NN1 filter_NN1 was_VBDZ in_II place_NN1 the_AT capacitor_NN1 was_VBDZ charged_VVN by_II the_AT photocurrent_NN1 for_IF 60_MC seconds_NNT2 ._. 
+</s>
+<s>
+The_AT Vo_NN1 value_NN1 was_VBDZ recorded_VVN from_II the_AT display_NN1 on_II the_AT multimeter_NN1 ,_, which_DDQ is_VBZ connected_VVN in_II parallel_NN1 with_IW the_AT capacitor_NN1 ._. 
+</s>
+<s>
+Care_NN1 was_VBDZ taken_VVN to_TO avoid_VVI parallax_NN1 error_NN1 by_II making_VVG each_DD1 reading_NN1 at_II the_AT same_DA incidence_NN1 angle_NN1 to_II the_AT display_NN1 ;_; this_DD1 measurement_NN1 was_VBDZ conducted_VVN at_II right_JJ angles_NN2 to_II the_AT display_NN1 ._. 
+</s>
+<s>
+For_IF the_AT yellow_JJ and_CC green_JJ interference_NN1 filters_VVZ the_AT multimeter_JJR display_NN1 could_VM be_VBI read_VVN to_II an_AT1 accuracy_NN1 of_IO 0.005V_NNU ,_, whereas_CS for_IF the_AT blue_JJ ,_, violet_JJ and_CC ultraviolet_JJ interference_NN1 filters_VVZ the_AT scale_NN1 of_IO the_AT multimeter_JJR required_JJ changing_JJ ,_, leading_VVG to_II an_AT1 increase_NN1 in_II the_AT error_NN1 of_IO the_AT measurement_NN1 to_II 0.01V_NNU ._. 
+</s>
+<s>
+In_II both_DB2 cases_NN2 these_DD2 errors_NN2 equated_VVN to_II a_AT1 percentage_NN1 error_NN1 1%_NNU ._. 
+</s>
+<s>
+The_AT interference_NN1 filters_NN2 have_VH0 been_VBN tested_VVN and_CC errors_NN2 can_VM be_VBI ignored_VVN ,_, while_CS the_AT value_NN1 of_IO e_ZZ1 ,_, the_AT charge_NN1 on_II an_AT1 electron_NN1 ,_, has_VHZ been_VBN obtained_VVN experimentally_RR on_II numerous_JJ occasions_NN2 to_II a_AT1 very_RG high_JJ accuracy_NN1 and_CC therefore_RR can_VM be_VBI assumed_VVN to_TO have_VHI negligible_JJ error_NN1 ._. 
+</s>
+<s>
+Figure_NN1 4_MC shows_VVZ a_AT1 linear_JJ fit_NN1 to_II the_AT five_MC data_NN points_NN2 ,_, each_DD1 corresponding_JJ to_II a_AT1 different_JJ interference_NN1 filter_NN1 and_CC thus_RR a_AT1 specific_JJ frequency_NN1 of_IO incident_NN1 light_NN1 ._. 
+</s>
+<s>
+The_AT value_NN1 of_IO the_AT gradient_NN1 for_IF this_DD1 weighted_JJ fit_NN1 was_VBDZ analyzed_VVN using_VVG equation_NN1 4_MC to_TO derive_VVI a_AT1 value_NN1 of_IO Planck_NP1 's_GE constant_NN1 of_IO :_: ._. 
+</s>
+<s>
+From_II the_AT fit_NN1 shown_VVN in_II figure_NN1 4_MC the_AT work_NN1 function_NN1 for_IF the_AT cathode_NN1 can_VM also_RR be_VBI obtained_VVN :_: although_CS as_CSA noted_VVN in_II section_NN1 4_MC this_DD1 value_NN1 includes_VVZ the_AT contact_NN1 potential_NN1 between_II the_AT cathode_NN1 and_CC the_AT anode_NN1 in_II the_AT energy_NN1 balance_NN1 and_CC therefore_RR it_PPH1 can_VM not_XX be_VBI compared_VVN to_II any_DD standard_JJ values_NN2 ._. 
+</s>
+<s>
+Planck_NP1 's_GE constant_NN1 was_VBDZ obtained_VVN by_II experimental_JJ method_NN1 and_CC is_VBZ calculated_VVN as_II :_: ._. 
+</s>
+<s>
+This_DD1 compares_VVZ with_IW the_AT 2002_MC CODATA_NP1 (_( Committee_NN1 on_II Data_NN for_IF Science_NN1 and_CC Technology_NN1 )_) recommended_VVD value_NN1 of_IO :_: ._. 
+</s>
+<s>
+Since_CS the_AT first_MD experimental_JJ calculation_NN1 of_IO h_ZZ1 Millikan_NP1 (_( 1916_MC )_) ,_, the_AT value_NN1 has_VHZ been_VBN progressively_RR refined_VVN by_II ever_RR more_RGR accurate_JJ experimental_JJ techniques_NN2 ._. 
+</s>
+<s>
+A_AT1 recently_RR employed_VVN technique_NN1 involves_VVZ a_AT1 comparison_NN1 of_IO the_AT electric_JJ power_NN1 ,_, measured_VVN in_II31 terms_II32 of_II33 the_AT Josephson_NP1 and_CC quantum_NN1 Hall_NN1 effects_NN2 ,_, with_IW mechanical_JJ power_NN1 ,_, measured_VVN in_II31 terms_II32 of_II33 the_AT meter_NN1 ,_, kilogram_NNU1 and_CC second_NNT1 ,_, of_IO a_AT1 moving_JJ coil_NN1 watt_NNU1 balance_NN1 (_( Williamsal._NP1 1998_MC )_) ._. 
+</s>
+<s>
+The_AT value_NN1 derived_VVD using_VVG here_RL using_VVG the_AT photoelectric_JJ effect_NN1 is_VBZ of_IO the_AT right_JJ order_NN1 of_IO magnitude_NN1 ,_, but_CCB far_RR outside_II the_AT current_JJ recommended_JJ value_NN1 ._. 
+</s>
+<s>
+At_II this_DD1 point_NN1 it_PPH1 is_VBZ pertinent_JJ to_TO analyze_VVI the_AT limitations_NN2 of_IO the_AT experimental_JJ set_NN1 up_RP employed_VVD here_RL in_BCL21 order_BCL22 to_TO understand_VVI why_RRQ this_DD1 reported_JJ discrepancy_NN1 has_VHZ occurred_VVN ._. 
+</s>
+<s>
+The_AT derivation_NN1 of_IO h_ZZ1 in_II this_DD1 experiment_NN1 relies_VVZ heavily_RR upon_II graphical_JJ analysis_NN1 ,_, in_II this_DD1 case_NN1 the_AT computation_NN1 of_IO the_AT slope_NN1 of_IO a_AT1 linear_JJ fit_NN1 to_II a_AT1 plot_NN1 comparing_VVG the_AT stopping_VVG voltage_NN1 of_IO a_AT1 photocurrent_NN1 induced_VVN by_II incident_NN1 light_NN1 of_IO differing_JJ frequencies_NN2 ._. 
+</s>
+<s>
+The_AT accuracy_NN1 of_IO such_DA a_AT1 measurement_NN1 is_VBZ strongly_RR related_VVN to_II the_AT number_NN1 of_IO data_NN points_NN2 analyzed_VVD ._. 
+</s>
+<s>
+Here_RL ,_, with_IW only_RR five_MC different_JJ interference_NN1 filters_NN2 ,_, h_ZZ1 is_VBZ calculated_VVN based_VVN on_II the_AT gradient_NN1 of_IO a_AT1 fit_JJ to_TO only_RR five_MC data_NN points_NN2 ._. 
+</s>
+<s>
+Although_CS ,_, in_II theory_NN1 ,_, it_PPH1 is_VBZ possible_JJ for_IF two_MC data_NN points_VVZ to_TO be_VBI sufficient_JJ for_IF an_AT1 accurate_JJ gradient_NN1 to_TO be_VBI calculated_VVN (_( assuming_VVG a_AT1 linear_JJ fit_JJ )_) ,_, it_PPH1 is_VBZ likely_JJ that_CST experimentally_RR this_DD1 would_VM be_VBI very_RG hard_JJ to_TO achieve_VVI ._. 
+</s>
+<s>
+Figure_NN1 4_MC presents_VVZ a_AT1 linear_JJ fit_NN1 whose_DDQGE gradient_NN1 is_VBZ influenced_VVN significantly_RR by_II the_AT accuracy_NN1 of_IO each_DD1 separate_JJ individual_JJ data_NN point_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ suggested_VVN that_CST a_AT1 larger_JJR range_NN1 of_IO interference_NN1 filters_NN2 would_VM have_VHI reduced_VVN the_AT dependence_NN1 of_IO the_AT linear_JJ fit_NN1 on_II individual_JJ results_NN2 and_CC thus_RR would_VM give_VVI a_AT1 more_RGR reliable_JJ fit_JJ ._. 
+</s>
+<s>
+With_IW such_DA limited_JJ data_NN it_PPH1 is_VBZ difficult_JJ to_TO discern_VVI whether_CSW any_DD points_NN2 are_VBR anomalous_JJ ,_, although_CS the_AT strong_JJ correlation_NN1 observed_VVN in_II figure_NN1 4_MC would_VM suggest_VVI against_II this_DD1 ._. 
+</s>
+<s>
+A_AT1 systematic_JJ error_NN1 however_RR ,_, would_VM be_VBI very_RG difficult_JJ to_TO identify_VVI ._. 
+</s>
+<s>
+The_AT kinetic_JJ energy_NN1 of_IO photoelectrons_NN2 emitted_VVD by_II the_AT photoelectric_JJ effect_NN1 is_VBZ in_II practice_NN1 difficult_JJ to_TO measure_VVI directly_RR ._. 
+</s>
+<s>
+Instead_RR this_DD1 can_VM be_VBI obtained_VVN using_VVG the_AT relationship_NN1 K.E._NP1 =_FO eV0_FO ,_, as_CSA used_VVN in_II the_AT derivation_NN1 of_IO equation_NN1 3_MC ._. 
+</s>
+<s>
+The_AT stopping_VVG potential_NN1 for_IF the_AT emitted_JJ photocurrent_NN1 in_II this_DD1 experiment_NN1 is_VBZ measured_VVN directly_RR from_II the_AT potential_JJ difference_NN1 (_( V_ZZ1 )_) across_II the_AT capacitor_NN1 when_CS it_PPH1 is_VBZ fully_RR charged_VVN by_II the_AT photocurrent_NN1 ._. 
+</s>
+<s>
+V0_FO was_VBDZ defined_VVN as_II the_AT maximum_JJ value_NN1 of_IO V_ZZ1 ,_, assumed_VVD reached_VVN after_II a_AT1 charging_JJ time_NNT1 interval_NN1 of_IO 60_MC seconds_NNT2 ._. 
+</s>
+<s>
+Elementary_JJ knowledge_NN1 of_IO a_AT1 capacitor_NN1 shows_VVZ that_CST the_AT charge_NN1 (_( Q_ZZ1 )_) on_II a_AT1 charging_JJ capacitor_NN1 increases_VVZ exponentially_RR with_II31 respect_II32 to_II33 time_NNT1 ._. 
+</s>
+<s>
+The_AT relationship_NN1 Q_ZZ1 (_( V_ZZ1 indicates_VVZ that_CST ,_, for_IF a_AT1 given_JJ fixed_JJ capacitance_NN1 ,_, V_ZZ1 also_RR increases_VVZ exponentially_RR ._. 
+</s>
+<s>
+During_II the_AT charging_NN1 process_VV0 the_AT initial_JJ growth_NN1 in_II V_ZZ1 is_VBZ very_RG rapid_JJ but_CCB this_DD1 growth_NN1 gradually_RR reduces_VVZ as_II the_AT photocurrent_NN1 is_VBZ reduced_VVN ._. 
+</s>
+<s>
+V_ZZ1 eventually_RR approaches_VVZ V0_FO asymptotically_RR with_IW no_AT well-defined_JJ cut_NN1 off_II point_NN1 for_IF where_RRQ V0_FO is_VBZ definitely_RR reached_VVN ._. 
+</s>
+<s>
+Measurements_NN2 of_IO V_ZZ1 were_VBDR made_VVN at_II inconsistent_JJ times_NNT2 after_II the_AT minimum_NN1 60_MC seconds_NNT2 of_IO charging_NN1 and_CC it_PPH1 is_VBZ therefore_RR suggested_VVN that_CST since_CS the_AT final_JJ increase_NN1 in_II V_ZZ1 to_II V0_FO takes_VVZ a_AT1 larger_JJR respective_JJ time_NNT1 than_CSN the_AT initial_JJ growth_NN1 in_II V_ZZ1 it_PPH1 is_VBZ possible_JJ that_CST significant_JJ underestimates_VVZ of_IO V0_FO may_VM have_VHI been_VBN made_VVN for_IF certain_JJ data_NN points_NN2 if_CS the_AT capacitor_NN1 was_VBDZ still_RR in_II the_AT process_NN1 of_IO charging_NN1 ._. 
+</s>
+<s>
+However_RR ,_, although_CS this_DD1 may_VM have_VHI shifted_VVN the_AT position_NN1 of_IO individual_JJ data_NN points_NN2 and_CC thus_RR changed_VVD the_AT uncertainty_NN1 in_II the_AT gradient_NN1 of_IO the_AT linear_JJ fit_JJ ,_, it_PPH1 is_VBZ unlikely_JJ to_TO have_VHI caused_VVN a_AT1 concerted_JJ shift_NN1 in_II the_AT value_NN1 determined_VVN for_IF the_AT gradient_NN1 ,_, and_CC thus_RR the_AT value_NN1 calculated_VVN for_IF Planck_NP1 's_VBZ constant_JJ ._. 
+</s>
+<s>
+However_RRQV a_AT1 larger_JJR experimental_JJ error_NN1 may_VM have_VHI brought_VVN the_AT calculated_JJ value_NN1 in_II31 line_II32 with_II33 the_AT 2002_MC CODATA_NP1 recommended_VVD value_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ suggested_VVN that_CST either_RR leaving_VVG a_AT1 longer_JJR period_NN1 of_IO time_NNT1 before_II measurement_NN1 ,_, or_CC taking_VVG a_AT1 measurement_NN1 of_IO V0_FO after_CS a_AT1 fixed_JJ time_NNT1 interval_NN1 would_VM have_VHI improved_VVN the_AT reliability_NN1 of_IO the_AT data_NN set_VV0 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ noted_VVN that_CST underestimations_NN2 in_II the_AT stopping_VVG voltage_NN1 would_VM have_VHI reduced_VVN the_AT gradient_NN1 of_IO the_AT fit_JJ ,_, thus_RR consequently_RR reducing_VVG the_AT derived_JJ value_NN1 for_IF h_ZZ1 ._. 
+</s>
+<s>
+Planck_NP1 's_GE constant_NN1 calculated_VVD experimentally_RR here_RL is_VBZ indeed_RR smaller_JJR than_CSN the_AT recommended_JJ value_NN1 ._. 
+</s>
+<s>
+If_CS the_AT value_NN1 of_IO determined_JJ from_II the_AT data_NN set_NN1 was_VBDZ compared_VVN with_IW a_AT1 reference_NN1 value_NN1 for_IF potassium_NN1 it_PPH1 would_VM be_VBI possible_JJ to_TO deduce_VVI from_II this_DD1 comparison_NN1 whether_CSW the_AT error_NN1 in_II V0_FO mentioned_VVN above_RL was_VBDZ likely_JJ to_TO have_VHI affected_VVN the_AT gradient_NN1 of_IO the_AT linear_JJ fit_JJ ,_, or_CC solely_RR the_AT uncertainty_NN1 in_II this_DD1 value_NN1 ._. 
+</s>
+<s>
+A_AT1 close_JJ match_NN1 between_II the_AT calculated_JJ value_NN1 and_CC a_AT1 reference_NN1 value_NN1 would_VM indicate_VVI that_CST the_AT intercept_VV0 of_IO the_AT linear_JJ fit_NN1 was_VBDZ correct_JJ and_CC therefore_RR any_DD experimental_JJ errors_NN2 would_VM most_RGT likely_JJ only_RR have_VHI affected_VVN the_AT gradient_NN1 of_IO the_AT fit_JJ ,_, and_CC thus_RR directly_RR the_AT calculation_NN1 of_IO Planck_NP1 's_VBZ constant_JJ ._. 
+</s>
+<s>
+However_RR as_CSA mentioned_VVN in_II section_NN1 2_MC the_AT work_NN1 function_NN1 in_II this_DD1 experiment_NN1 includes_VVZ in_II the_AT energy_NN1 balance_NN1 the_AT contact_NN1 potential_NN1 between_II the_AT cathode_NN1 and_CC the_AT anode_NN1 and_CC therefore_RR it_PPH1 is_VBZ unsuitable_JJ to_TO compare_VVI with_IW recommended_JJ values_NN2 of_IO for_IF potassium_NN1 ._. 
+</s>
+<s>
+The_AT effects_NN2 of_IO a_AT1 reverse_JJ current_NN1 induced_VVN at_II the_AT anode_NN1 by_II the_AT incident_NN1 light_NN1 ,_, which_DDQ would_VM be_VBI accelerated_VVN by_II the_AT stopping_VVG voltage_NN1 produced_VVN at_II the_AT capacitor_NN1 ,_, also_RR deserves_VVZ further_JJR investigation_NN1 ._. 
+</s>
+<s>
+No_AT attempt_NN1 to_TO quantify_VVI the_AT results_NN2 of_IO a_AT1 reverse_JJ current_NN1 has_VHZ been_VBN investigated_VVN ,_, and_CC therefore_RR it_PPH1 is_VBZ difficult_JJ to_TO discern_VVI what_DDQ effect_VV0 they_PPHS2 would_VM have_VHI on_II the_AT calculation_NN1 of_IO h_ZZ1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT fundamental_JJ concepts_NN2 surrounding_VVG Einstein_NP1 's_GE work_NN1 on_II the_AT photoelectric_JJ effect_NN1 was_VBDZ the_AT conclusion_NN1 that_CST when_CS viewing_VVG light_JJ as_CSA particles_NN2 ,_, the_AT energy_NN1 of_IO light_NN1 was_VBDZ independent_JJ of_IO its_APPGE intensity_NN1 and_CC solely_RR dependant_JJ on_II it_PPH1 frequency_NN1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ investigated_VVN by_II determining_VVG a_AT1 value_NN1 of_IO Planck_NP1 's_VBZ constant_JJ for_IF light_NN1 of_IO different_JJ intensities_NN2 ._. 
+</s>
+<s>
+Theory_NN1 ,_, as_CSA seen_VVN in_II equation_NN1 3_MC ,_, clearly_RR shows_VVZ that_CST the_AT value_NN1 of_IO h_ZZ1 should_VM not_XX change_VVI ._. 
+</s>
+<s>
+._. ._. The_AT results_NN2 given_VVN above_RL are_VBR inconclusive_JJ in_II determining_VVG whether_CSW intensity_NN1 affects_VVZ the_AT value_NN1 of_IO Planck_NP1 's_VBZ constant_JJ ._. 
+</s>
+<s>
+If_CS the_AT intensity_NN1 of_IO light_NN1 were_VBDR to_TO affect_VVI the_AT energy_NN1 of_IO the_AT photons_NN2 it_PPH1 would_VM be_VBI expected_VVN that_CST a_AT1 higher_JJR intensity_NN1 light_NN1 would_VM increase_VVI the_AT value_NN1 calculated_VVN for_IF h_ZZ1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ not_XX the_AT case_NN1 ;_; both_DB2 results_NN2 are_VBR lower_JJR than_CSN the_AT original_JJ calculated_JJ value_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ noted_VVN that_CST a_AT1 very_RG weak_JJ correlation_NN1 was_VBDZ obtained_VVN for_IF the_AT lower_JJR intensity_NN1 readings_NN2 ._. 
+</s>
+<s>
+Einstein_NP1 's_GE work_NN1 on_II the_AT photoelectric_JJ effect_NN1 showed_VVD that_DD1 intensity_NN1 was_VBDZ related_VVN to_II the_AT number_NN1 of_IO photons_NN2 incident_NN1 on_II the_AT photocell_NN1 in_II a_AT1 given_JJ time_NNT1 ._. 
+</s>
+<s>
+A_AT1 lower_JJR intensity_NN1 would_VM result_VVI in_II less_DAR photons_NN2 per_II unit_NN1 time_NNT1 incident_NN1 on_II the_AT cathode_NN1 ,_, and_CC the_AT net_JJ effect_NN1 would_VM be_VBI less_DAR photoelectrons_NN2 and_CC a_AT1 smaller_JJR photocurrent_NN1 charging_VVG the_AT capacitor_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM results_NN2 in_II longer_JJR charge_NN1 time_NNT1 in_II the_AT capacitor_NN1 ,_, it_PPH1 is_VBZ suggested_VVN that_CST this_DD1 would_VM amplify_VVI the_AT effect_NN1 of_IO the_AT error_NN1 previously_RR suggested_VVN in_II the_AT measurement_NN1 for_IF V0_FO ._. 
+</s>
+<s>
+A_AT1 longer_JJR charge_NN1 time_NNT1 would_VM mean_VVI the_AT capacitor_NN1 was_VBDZ even_RR less_RGR likely_JJ to_TO have_VHI reached_VVN V0_FO in_II the_AT 60_MC second_MD time_NNT1 interval_NN1 ,_, leading_VVG to_II possible_JJ underestimations_NN2 in_II the_AT stopping_VVG voltage_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM explain_VVI the_AT larger_JJR uncertainty_NN1 in_II the_AT value_NN1 quoted_VVN for_IF h_ZZ1 for_IF this_DD1 intensity_NN1 ._. 
+</s>
+<s>
+Since_CS a_AT1 set_NN1 up_RP amplified_VVD to_II the_AT error_NN1 in_II V0_FO indicates_VVZ that_CST this_DD1 error_NN1 is_VBZ likely_JJ ,_, it_PPH1 is_VBZ not_XX unreasonable_JJ to_TO suggest_VVI that_CST this_DD1 error_NN1 was_VBDZ also_RR in_II effect_NN1 in_II the_AT original_JJ set_NN1 up_RP ._. 
+</s>
+<s>
+The_AT photoelectric_JJ effect_NN1 was_VBDZ investigated_VVN at_II a_AT1 potassium_NN1 cathode_NN1 illuminated_VVN with_IW different_JJ frequencies_NN2 of_IO light_NN1 from_II a_AT1 mercury_NN1 lamp_NN1 and_CC interference_NN1 filter_NN1 setup_NN1 to_TO determine_VVI a_AT1 value_NN1 for_IF Planck_NP1 's_GE constant_JJ h_ZZ1 ._. 
+</s>
+<s>
+By_II use_NN1 of_IO a_AT1 graphical_JJ method_NN1 ,_, which_DDQ involved_VVD analyzing_VVG the_AT slope_NN1 of_IO a_AT1 fit_JJ to_II data_NN points_NN2 comparing_VVG stopping_VVG voltage_NN1 against_II frequency_NN1 of_IO incident_NN1 light_NN1 ,_, a_AT1 value_NN1 of_IO h_ZZ1 was_VBDZ calculated_VVN as_II :_: ._. 
+</s>
+<s>
+This_DD1 result_NN1 was_VBDZ found_VVN to_TO be_VBI inconsistent_JJ with_IW recommended_JJ values_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ suggested_VVN that_CST the_AT limited_JJ data_NN range_NN1 puts_VVZ a_AT1 large_JJ emphasis_NN1 on_II the_AT accuracy_NN1 of_IO individual_JJ results_NN2 and_CC thus_RR there_EX is_VBZ little_DA1 tolerance_NN1 to_II anomalies_NN2 ._. 
+</s>
+<s>
+Possible_JJ errors_NN2 in_II the_AT measurement_NN1 of_IO the_AT stopping_VVG voltage_NN1 are_VBR also_RR discussed_VVN ,_, it_PPH1 is_VBZ noted_VVN that_CST the_AT asymptotic_JJ nature_NN1 of_IO voltage_NN1 across_II the_AT capacitor_NN1 as_CSA it_PPH1 reaches_VVZ the_AT stopping_VVG voltage_NN1 means_VVZ that_CST it_PPH1 is_VBZ critical_JJ that_CST sufficient_JJ time_NNT1 is_VBZ left_VVN for_IF the_AT capacitor_NN1 to_TO fully_RR charge_VVI ._. 
+</s>
+<s>
+It_PPH1 is_VBZ commented_VVN that_CST if_CS the_AT stopping_VVG voltage_NN1 was_VBDZ recorded_VVN too_RG soon_RR ,_, it_PPH1 is_VBZ likely_JJ to_TO have_VHI affected_VVN the_AT uncertainty_NN1 in_II the_AT h_ZZ1 value_NN1 rather_II21 than_II22 have_VH0 changed_VVN the_AT value_NN1 itself_PPX1 ._. 
+</s>
+<s>
+Investigations_NN2 into_II possible_JJ reverse_JJ currents_NN2 at_II the_AT anode_NN1 are_VBR suggested_VVN ,_, since_CS these_DD2 errors_NN2 have_VH0 not_XX been_VBN quantified_VVN in_II this_DD1 technique_NN1 and_CC their_APPGE influence_NN1 on_II the_AT calculated_JJ h_ZZ1 value_NN1 can_VM not_XX be_VBI accounted_VVN for_IF ._. 
+</s>
+<s>
+Values_NN2 of_IO h_ZZ1 are_VBR derived_VVN under_II conditions_NN2 of_IO higher_JJR and_CC lower_JJR intensity_NN1 incident_NN1 light_NN1 ._. 
+</s>
+<s>
+Results_NN2 of_IO these_DD2 experiments_NN2 prove_VV0 inconclusive_JJ in_II determining_VVG whether_CSW the_AT energy_NN1 of_IO light_NN1 is_VBZ independent_JJ of_IO its_APPGE intensity_NN1 as_CSA suggested_VVN by_II theory_NN1 ,_, since_CS no_AT agreement_NN1 is_VBZ found_VVN between_II the_AT values_NN2 of_IO h_ZZ1 for_IF these_DD2 conditions_NN2 ._. 
+</s>
+<s>
+Lower_JJR intensity_NN1 light_NN1 shows_VVZ a_AT1 very_RG poor_JJ correlation_NN1 of_IO data_NN points_NN2 indicating_VVG a_AT1 large_JJ uncertainty_NN1 in_II the_AT value_NN1 of_IO h_ZZ1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ reasoned_JJ that_CST this_DD1 is_VBZ due_II21 to_II22 the_AT longer_JJR charging_JJ time_NNT1 of_IO the_AT capacitor_NN1 ,_, because_II21 of_II22 the_AT smaller_JJR photocurrent_NN1 under_II these_DD2 circumstances_NN2 ,_, which_DDQ amplifies_VVZ the_AT error_NN1 in_II the_AT measurement_NN1 of_IO V0_FO previously_RR discussed_VVN ._. 
+</s>

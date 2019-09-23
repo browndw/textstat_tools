@@ -1,0 +1,213 @@
+<s>
+A_AT1 computer_NN1 model_NN1 was_VBDZ used_VVN to_TO characterise_VVI the_AT evolution_NN1 of_IO urban_JJ and_CC rural_JJ boundary_NN1 layers_NN2 ._. 
+</s>
+<s>
+Physical_JJ mechanisms_NN2 are_VBR proposed_VVN for_IF the_AT observed_JJ boundary_NN1 layer_NN1 evolutions_NN2 ._. 
+</s>
+<s>
+Vertical_JJ distribution_NN1 of_IO a_AT1 pollutant_NN1 was_VBDZ also_RR calculated_VVN for_IF each_DD1 environment_NN1 ,_, and_CC links_VVZ with_IW boundary_NN1 layer_NN1 evolution_NN1 suggested_VVD ._. 
+</s>
+<s>
+The_AT practical_JJ implications_NN2 of_IO the_AT findings_NN2 are_VBR considered_VVN ._. 
+</s>
+<s>
+This_DD1 practical_NN1 shall_VM investigate_VVI the_AT diurnal_JJ evolution_NN1 of_IO the_AT atmospheric_JJ boundary_NN1 layer_NN1 and_CC the_AT vertical_JJ distribution_NN1 of_IO a_AT1 pollutant_NN1 emitted_VVD at_II a_AT1 constant_JJ rate_NN1 from_II the_AT surface_NN1 within_II the_AT boundary_NN1 layer_NN1 ._. 
+</s>
+<s>
+The_AT boundary_NN1 layer_NN1 is_VBZ simulated_VVN using_VVG a_AT1 1D_NNU computer_NN1 model_NN1 driven_VVN by_II surface_NN1 sensible_JJ heat_NN1 fluxes_NN2 and_CC geostrophic_JJ winds_NN2 ._. 
+</s>
+<s>
+The_AT model_NN1 calculates_VVZ vertical_JJ profiles_NN2 of_IO potential_JJ temperature_NN1 (_( )_) ,_, pollutant_JJ mixing_NN1 ratio_NN1 and_CC the_AT east-west_ND1 (_( u_ZZ1 )_) and_CC north-south_ND1 (_( v_ZZ1 )_) components_NN2 of_IO the_AT horizontal_JJ wind_NN1 speed_NN1 ._. 
+</s>
+<s>
+These_DD2 outputs_NN2 are_VBR displayed_VVN on_II a_AT1 series_NN of_IO graphs_NN2 ,_, some_DD of_IO which_DDQ shall_VM be_VBI used_VVN within_II this_DD1 report_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR possible_JJ for_IF the_AT user_NN1 to_TO vary_VVI certain_JJ non-meteorological_JJ physical_JJ parameters_NN2 such_II21 as_II22 roughness_NN1 length_NN1 ,_, latitude_NN1 ,_, and_CC pollutant_JJ lifetime_NNT1 ._. 
+</s>
+<s>
+Within_II this_DD1 investigation_NN1 ,_, most_DAT of_IO the_AT parameters_NN2 shall_VM remain_VVI constant_JJ ._. 
+</s>
+<s>
+Appendix_NN1 1_MC1 shows_VVZ those_DD2 parameters_NN2 used_VMK to_TO define_VVI a_AT1 rural_JJ environment_NN1 ._. 
+</s>
+<s>
+Alterations_NN2 to_II any_DD of_IO these_DD2 parameters_NN2 will_VM be_VBI explicitly_RR noted_VVN within_II the_AT text_NN1 of_IO the_AT report_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 was_VBDZ run_VVN using_VVG the_AT input_NN1 parameters_NN2 as_CSA listed_VVN in_II Appendix_NN1 1_MC1 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 shows_VVZ the_AT diurnal_JJ evolution_NN1 of_IO the_AT vertical_JJ potential_JJ temperature_NN1 profile_NN1 as_CSA predicted_VVN by_II the_AT model_NN1 ._. 
+</s>
+<s>
+Within_II the_AT boundary_NN1 layer_NN1 ,_, structure_NN1 becomes_VVZ apparent_JJ as_CSA shown_VVN in_II figure_NN1 1_MC1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT result_NN1 of_IO surface_NN1 emission_NN1 of_IO sensible_JJ heat_NN1 creating_VVG unstable_JJ conditions_NN2 conducive_JJ to_II convective_JJ uplift_NN1 ,_, and_CC turbulent_JJ processes_NN2 arising_VVG from_II vertical_JJ wind_NN1 shear_VV0 ._. 
+</s>
+<s>
+These_DD2 two_MC effects_NN2 combine_VV0 during_II daylight_NN1 hours_NNT2 to_TO promote_VVI the_AT formation_NN1 of_IO large_JJ turbulent_JJ eddies_NN2 ,_, resulting_VVG in_II the_AT formation_NN1 of_IO a_AT1 well-mixed_JJ layer_NN1 (_( 1_MC1 )_) above_II a_AT1 convectively_RR unstable_JJ surface_NN1 layer_NN1 (_( 2_MC )_) ._. 
+</s>
+<s>
+The_AT upper_JJ limit_NN1 of_IO the_AT boundary_NN1 layer_NN1 is_VBZ marked_VVN by_II a_AT1 sharp_JJ inversion_NN1 in_II (_( 3_MC )_) ,_, representing_VVG a_AT1 region_NN1 of_IO stability_NN1 inhibiting_VVG further_JJR ascent_NN1 of_IO air_NN1 parcels_NN2 ._. 
+</s>
+<s>
+Above_II the_AT inversion_NN1 is_VBZ the_AT free_JJ atmosphere_NN1 (_( 4_MC )_) ,_, which_DDQ is_VBZ also_RR convectively_RR stable_JJ ._. 
+</s>
+<s>
+During_II daylight_NN1 hours_NNT2 ,_, progressively_RR more_DAR energy_NN1 enters_VVZ the_AT system_NN1 as_CSA sensible_JJ heat_NN1 ,_, and_CC so_RR the_AT boundary_NN1 layer_NN1 extends_VVZ upward_RL ._. 
+</s>
+<s>
+At_II night_NNT1 ,_, the_AT air_NN1 above_II the_AT surface_NN1 is_VBZ warmer_JJR than_CSN the_AT surface_NN1 ,_, and_CC so_RR there_EX is_VBZ a_AT1 sensible_JJ heat_NN1 flux_NN1 to_II the_AT ground_NN1 ,_, resulting_VVG in_II radiative_JJ cooling_NN1 of_IO the_AT air_NN1 ._. 
+</s>
+<s>
+This_DD1 forms_VVZ a_AT1 region_NN1 of_IO stability_NN1 near_II the_AT surface_NN1 ,_, known_VVN as_II the_AT nocturnal_JJ boundary_NN1 layer_NN1 (_( NBL_NP1 )_) which_DDQ inhibits_VVZ the_AT mixing_NN1 observed_VVN during_II daylight_NN1 hours_NNT2 (_( 5_MC )_) ._. 
+</s>
+<s>
+The_AT well_JJ mixed-layer_NN1 remains_VVZ above_II the_AT NBL_NP1 as_II a_AT1 residual_JJ layer_NN1 (_( 6_MC )_) ,_, with_IW a_AT1 gradually_RR weakening_VVG capping_NN1 inversion_NN1 ._. 
+</s>
+<s>
+Following_VVG sunrise_NN1 ,_, there_EX is_VBZ once_RR21 again_RR22 a_AT1 sensible_JJ heat_NN1 flux_NN1 from_II the_AT surface_NN1 ,_, and_CC the_AT NBL_NP1 is_VBZ eroded_VVN by_II the_AT formation_NN1 of_IO a_AT1 new_JJ surface_NN1 layer_NN1 (_( 7_MC )_) ,_, ultimately_RR forming_VVG a_AT1 boundary_NN1 layer_NN1 similar_JJ to_II that_DD1 of_IO the_AT preceding_JJ day_NNT1 ._. 
+</s>
+<s>
+The_AT height_NN1 of_IO the_AT boundary_NN1 layer_NN1 therefore_RR varies_VVZ over_RP a_AT1 diurnal_JJ cycle_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ illustrated_VVN in_II figure_NN1 2_MC ,_, and_CC arises_VVZ due_II% the_AT processes_NN2 described_VVN above_RL ._. 
+</s>
+<s>
+So_BCL21 as_BCL22 to_TO simulate_VVI an_AT1 urban_JJ environment_NN1 ,_, the_AT following_JJ values_NN2 were_VBDR altered_VVN from_II the_AT values_NN2 shown_VVN in_II Appendix_NN1 1_MC1 :_: The_AT model_NN1 output_NN1 is_VBZ shown_VVN in_II figure_NN1 3_MC ._. 
+</s>
+<s>
+Figure_NN1 3_MC demonstrates_VVZ that_CST the_AT urban_JJ boundary_NN1 layer_NN1 is_VBZ typically_RR deeper_RRR than_CSN rural_JJ boundary_NN1 layers_NN2 (_( figure_NN1 2_MC )_) during_II the_AT day_NNT1 and_CC that_CST the_AT urban_JJ NBL_NP1 is_VBZ deeper_JJR than_CSN the_AT rural_JJ NBL_NP1 ,_, with_IW a_AT1 weaker_JJR stable_JJ surface_NN1 layer_NN1 characterising_VVG the_AT urban_JJ NBL_NP1 ._. 
+</s>
+<s>
+This_DD1 must_VM be_VBI due_II21 to_II22 the_AT effects_NN2 of_IO increased_JJ surface_NN1 roughness_NN1 and/or_CC increased_JJ daytime_NNT1 and_CC nightime_NNT1 sensible_JJ heat_NN1 fluxes_NN2 ,_, as_CSA these_DD2 were_VBDR the_AT only_JJ model_NN1 parameters_NN2 altered_VVD ._. 
+</s>
+<s>
+The_AT model_NN1 was_VBDZ re-run_VVN for_IF each_DD1 adjusted_JJ parameter_NN1 so_BCL21 as_BCL22 to_TO attempt_VVI to_TO determine_VVI how_RRQ each_DD1 factor_NN1 contributes_VVZ to_II the_AT evolution_NN1 of_IO the_AT urban_JJ boundary_NN1 layer_NN1 ._. 
+</s>
+<s>
+Increasing_JJ surface_NN1 roughness_NN1 is_VBZ analogous_JJ to_II introducing_VVG tall_JJ urban_JJ structures_NN2 into_II the_AT model_NN1 ._. 
+</s>
+<s>
+This_DD1 modification_NN1 of_IO the_AT initial_JJ parameters_NN2 deepens_VVZ the_AT daytime_NNT1 BL_FO typically_RR by_II approximately_RR 200-300m_NNU relative_II21 to_II22 the_AT rural_JJ case_NN1 ._. 
+</s>
+<s>
+This_DD1 may_VM be_VBI physically_RR explained_VVN by_II the_AT wind_NN1 shear_VV0 being_VBG vertically_RR displaced_VVN (_( see_VV0 figure_NN1 4a_FO )_) ,_, as_CSA surface_NN1 roughness_NN1 represents_VVZ the_AT height_NN1 at_II which_DDQ the_AT horizontal_JJ wind_NN1 speed_NN1 is_VBZ 0_MC ms_NN1 -1_MC according_II21 to_II22 the_AT logarithmic_JJ wind_NN1 profile_NN1 calculation_NN1 ._. 
+</s>
+<s>
+This_DD1 typically_RR occurs_VVZ at_II 10%_NNU of_IO the_AT height_NN1 of_IO the_AT roughness_NN1 elements_NN2 (_( Arya_NP1 ,_, 1999_MC ;_; Holton_NP1 ,_, 2004_MC )_) ._. 
+</s>
+<s>
+This_DD1 will_VM result_VVI in_II the_AT vertical_JJ displacement_NN1 of_IO turbulent_JJ eddies_NN2 (_( see_VV0 figure_NN1 4a_FO )_) ._. 
+</s>
+<s>
+Surface_NN1 roughness_NN1 also_RR deepens_VVZ the_AT NBL_NP1 ,_, and_CC results_NN2 in_II a_AT1 shallower_JJR profile_NN1 ._. 
+</s>
+<s>
+This_DD1 implies_VVZ that_CST nocturnal_JJ radiative_JJ cooling_NN1 of_IO the_AT air_NN1 is_VBZ less_RGR intense_JJ when_CS surface_NN1 roughness_NN1 is_VBZ increased_VVN ._. 
+</s>
+<s>
+Physically_RR ,_, this_DD1 may_VM be_VBI understood_VVN as_II the_AT surface_NN1 having_VHG elements_NN2 that_CST penetrate_VV0 further_RRR into_II the_AT troposphere_NN1 ._. 
+</s>
+<s>
+This_DD1 causes_VVZ cooling_VVG across_II a_AT1 deeper_JJR slab_NN1 of_IO atmosphere_NN1 than_CSN observed_VVN over_II a_AT1 'smoother'_JJ surface_NN1 ._. 
+</s>
+<s>
+Since_CS there_EX is_VBZ a_AT1 greater_JJR volume_NN1 of_IO air_NN1 being_VBG cooled_VVN than_CSN previously_RR (_( but_CCB at_II the_AT same_DA rate_NN1 )_) ,_, the_AT resulting_JJ decrease_NN1 in_RP is_VBZ less_DAR than_CSN that_DD1 observed_VVD for_IF the_AT smoother'_JJ surface_NN1 ._. 
+</s>
+<s>
+Figure_NN1 4b_FO illustrates_VVZ this_DD1 concept_NN1 schematically_RR ._. 
+</s>
+<s>
+The_AT sensible_JJ heat_NN1 fluxes_NN2 were_VBDR then_RT changed_VVN to_II the_AT values_NN2 shown_VVN on_II page_NN1 3_MC whilst_CS holding_VVG the_AT surface_NN1 roughness_NN1 constant_NN1 (_( 0.01m_NNU )_) ._. 
+</s>
+<s>
+This_DD1 simulates_VVZ a_AT1 lower_JJR proportion_NN1 of_IO surface_NN1 area_NN1 covered_VVN by_II vegetation_NN1 (_( as_CSA would_VM be_VBI expected_VVN in_II an_AT1 urban_JJ area_NN1 )_) ,_, resulting_VVG in_II less_RGR emitted_JJ energy_NN1 being_VBG used_VVN to_TO evaporate_VVI water_NN1 ,_, and_CC thus_RR a_AT1 higher_JJR sensible_JJ heat_NN1 flux_NN1 ._. 
+</s>
+<s>
+Higher_JJR nightime_NNT1 minima_NN2 correspond_VV0 to_II the_AT accumulation_NN1 of_IO heat_NN1 by_II materials_NN2 in_II urban_JJ environments_NN2 ,_, which_DDQ have_VH0 higher_JJR thermal_JJ capacities_NN2 than_CSN the_AT natural_JJ materials_NN2 of_IO rural_JJ environments_NN2 (_( Hogan_NP1 ,_, 2007_MC )_) ._. 
+</s>
+<s>
+These_DD2 factors_NN2 resulted_VVN in_II a_AT1 deepening_JJ of_IO the_AT daytime_NNT1 BL_FO (_( approaching_VVG 2km_NNU )_) ,_, and_CC a_AT1 deepening_JJ of_IO the_AT NBL_NP1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 the_AT higher_JJR daytime_NNT1 surface_NN1 flux_NN1 creates_VVZ a_AT1 more_RGR unstable_JJ surface_NN1 layer_NN1 ,_, promoting_VVG buoyancy_NN1 and_CC thus_RR the_AT production_NN1 of_IO larger_JJR turbulent_JJ eddies_NN2 ._. 
+</s>
+<s>
+The_AT higher_JJR value_NN1 for_IF nightime_NNT1 flux_NN1 results_NN2 in_II less_RGR vigorous_JJ cooling_NN1 of_IO the_AT air_NN1 ,_, and_CC therefore_RR a_AT1 shallower_JJR temperature_NN1 gradient_NN1 ,_, implying_VVG a_AT1 weaker_JJR region_NN1 of_IO stability_NN1 and_CC thus_RR a_AT1 deeper_JJR NBL_NP1 ._. 
+</s>
+<s>
+The_AT urban_JJ BL_FO characteristics_NN2 therefore_RR represent_VV0 the_AT cumulative_JJ effects_NN2 of_IO increasing_JJ maximum_NN1 and_CC minimum_JJ heat_NN1 fluxes_NN2 and_CC surface_NN1 roughness_NN1 ._. 
+</s>
+<s>
+The_AT net_JJ effect_NN1 is_VBZ a_AT1 deeper_JJR day_NNT1 and_CC nightime_NNT1 BL_FO in_II urban_JJ areas_NN2 relative_II21 to_II22 the_AT BL_FO of_IO rural_JJ areas_NN2 ._. 
+</s>
+<s>
+Figure_NN1 5_MC shows_VVZ the_AT typical_JJ diurnal_JJ evolution_NN1 of_IO the_AT pollutant_JJ mixing_NN1 ratio_NN1 within_II the_AT rural_JJ boundary_NN1 layer_NN1 ._. 
+</s>
+<s>
+These_DD2 results_NN2 represent_VV0 the_AT effects_NN2 of_IO a_AT1 long-lived_JJ pollutant_NN1 ,_, using_VVG the_AT rural_JJ model_NN1 parameters_NN2 listed_VVN in_II Appendix_NN1 1_MC1 ._. 
+</s>
+<s>
+Figure_NN1 5_MC shows_VVZ that_CST the_AT pollutant_NN1 is_VBZ confined_VVN within_II the_AT boundary_NN1 layer_NN1 throughout_II the_AT day_NNT1 ,_, demonstrating_VVG that_CST there_EX is_VBZ negligible_JJ exchange_NN1 between_II the_AT boundary_NN1 layer_NN1 and_CC the_AT free_JJ atmosphere_NN1 ._. 
+</s>
+<s>
+During_II the_AT day_NNT1 ,_, the_AT pollutant_NN1 is_VBZ distributed_VVN evenly_RR throughout_II the_AT depth_NN1 of_IO the_AT boundary_NN1 layer_NN1 (_( 1_MC1 )_) ,_, with_IW a_AT1 minor_JJ peak_NN1 in_II concentrations_NN2 near_II the_AT surface_NN1 (_( taken_VVN as_II the_AT pollutant_JJ source_NN1 in_II the_AT model_NN1 )_) (_( 2_MC )_) ._. 
+</s>
+<s>
+As_II the_AT boundary_NN1 layer_NN1 deepens_VVZ throughout_II the_AT day_NNT1 ,_, the_AT pollutant_NN1 is_VBZ dispersed_VVN across_II a_AT1 greater_JJR volume_NN1 by_II turbulent_JJ eddies_NN2 ,_, resulting_VVG in_II progressively_RR lower_JJR concentrations_NN2 -_- for_REX21 example_REX22 a_AT1 typical_JJ well-mixed_JJ layer_NN1 ratio_NN1 of_IO 1.2_MC g/kg_NNU at_II 1230_MC ,_, compared_VVN with_IW a_AT1 ratio_NN1 of_IO 1.05_MC g/kg_NNU at_II 1630_MC (_( figure_NN1 5_MC )_) ._. 
+</s>
+<s>
+This_DD1 effect_NN1 is_VBZ most_RGT notable_JJ during_II the_AT morning_NNT1 ._. 
+</s>
+<s>
+At_II night_NNT1 ,_, the_AT formation_NN1 of_IO the_AT stable_JJ NBL_NP1 confines_NN2 the_AT pollutant_NN1 within_II a_AT1 shallower_JJR portion_NN1 of_IO the_AT atmosphere_NN1 ,_, resulting_VVG in_II progressively_RR higher_JJR concentrations_NN2 at_II lower_JJR levels_NN2 as_II the_AT pollutant_NN1 accumulates_VVZ ,_, peaking_VVG before_II dawn_NNT1 (_( 5_MC )_) ._. 
+</s>
+<s>
+The_AT pollution_NN1 model_NN1 was_VBDZ re-run_VVN for_IF the_AT urban_JJ boundary_NN1 layer_NN1 ,_, using_VVG the_AT urban_JJ parameters_NN2 from_II section_NN1 2.2_MC ,_, and_CC the_AT same_DA pollutant_JJ lifetime_NNT1 as_CSA the_AT rural_JJ case_NN1 ._. 
+</s>
+<s>
+The_AT resulting_JJ pollution_NN1 mixing_NN1 ratio_NN1 profiles_NN2 are_VBR shown_VVN in_II figure_NN1 6_MC ._. 
+</s>
+<s>
+In_II the_AT urban_JJ case_NN1 ,_, the_AT pollution_NN1 concentrations_NN2 are_VBR generally_RR lower_JJR due_II21 to_II22 the_AT greater_JJR depth_NN1 of_IO the_AT atmosphere_NN1 through_II which_DDQ the_AT pollutant_NN1 is_VBZ mixed_VVN (_( see_VV0 section_NN1 2.2_MC )_) ._. 
+</s>
+<s>
+During_II the_AT nightime_NNT1 ,_, the_AT weaker_JJR NBL_NP1 results_NN2 in_II a_AT1 less_RGR well-defined_JJ surface_NN1 peak_NN1 in_II concentrations_NN2 than_CSN the_AT rural_JJ case_NN1 ,_, with_IW typical_JJ values_NN2 of_IO about_RG half_DB those_DD2 of_IO the_AT rural_JJ boundary_NN1 layer_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 used_VVN within_II this_DD1 study_NN1 shows_VVZ that_CST the_AT boundary_NN1 layer_NN1 of_IO an_AT1 urban_JJ area_NN1 is_VBZ generally_RR deeper_RRR than_CSN that_DD1 of_IO a_AT1 rural_JJ area_NN1 in_II similar_JJ synoptic_JJ conditions_NN2 ._. 
+</s>
+<s>
+This_DD1 finding_NN1 is_VBZ consistent_JJ for_IF both_RR daytime_NNT1 and_CC nocturnal_JJ boundary_NN1 layers_NN2 ._. 
+</s>
+<s>
+This_DD1 effect_NN1 is_VBZ believed_VVN to_TO arise_VVI as_II a_AT1 result_NN1 of_IO the_AT larger_JJR sensible_JJ heat_NN1 fluxes_NN2 and_CC greater_JJR surface_NN1 roughness_NN1 that_CST characterises_VVZ urban_JJ areas_NN2 ._. 
+</s>
+<s>
+The_AT diurnal_JJ evolution_NN1 of_IO vertical_JJ pollution_NN1 mixing_NN1 profiles_NN2 was_VBDZ also_RR shown_VVN to_TO differ_VVI between_II urban_JJ and_CC rural_JJ environments_NN2 ._. 
+</s>
+<s>
+Concentrations_NN2 tend_VV0 to_TO be_VBI higher_JJR in_II the_AT shallower_JJR rural_JJ boundary_NN1 layer_NN1 ._. 
+</s>
+<s>
+This_DD1 effect_NN1 is_VBZ especially_RR pronounced_VVN in_II the_AT rural_JJ nocturnal_JJ boundary_NN1 layer_NN1 due_II21 to_II22 this_DD1 being_VBG significantly_RR shallower_JJR than_CSN the_AT urban_JJ nocturnal_JJ boundary_NN1 layer_NN1 ._. 
+</s>
+<s>
+These_DD2 findings_NN2 suggest_VV0 that_CST the_AT urban_JJ boundary_NN1 layer_NN1 is_VBZ more_RGR efficient_JJ than_CSN the_AT rural_JJ boundary_NN1 layer_NN1 at_II vertically_RR dispersing_VVG pollutants_NN2 ,_, given_VVN similar_JJ synoptic_JJ conditions_NN2 pollution_NN1 emission_NN1 rate_NN1 (_( and_CC lifetime_NNT1 )_) and_CC latitude_NN1 in_II both_DB2 cases_NN2 ._. 
+</s>
+<s>
+This_DD1 will_VM have_VHI health_NN1 implications_NN2 for_IF those_DD2 susceptible_JJ to_II the_AT effects_NN2 of_IO pollutants_NN2 ,_, and_CC suggests_VVZ that_CST urban_JJ residence_NN1 may_VM be_VBI more_RGR beneficial_JJ than_CSN rural_JJ residence_NN1 if_CS health_NN1 were_VBDR the_AT only_JJ factor_NN1 under_II consideration_NN1 ._. 
+</s>
+<s>
+These_DD2 findings_NN2 may_VM also_RR be_VBI of_IO interest_NN1 to_II planners_NN2 ,_, suggesting_VVG that_CST polluting_VVG industrial_JJ activities_NN2 will_VM have_VHI a_AT1 lesser_JJ environmental_JJ impact_NN1 in_II urban_JJ areas_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO evaluate_VVI these_DD2 findings_NN2 ,_, it_PPH1 is_VBZ recommended_VVN that_DD1 pollution_NN1 dispersion_NN1 be_VBI examined_VVN in_II a_AT1 3-dimensional_JJ model_NN1 under_II a_AT1 range_NN1 of_IO synoptic_JJ conditions_NN2 ._. 
+</s>
+<s>
+This_DD1 would_VM result_VVI in_II a_AT1 more_RGR accurate_JJ representation_NN1 of_IO reality_NN1 and_CC would_VM test_VVI the_AT validity_NN1 of_IO these_DD2 preliminary_JJ findings_NN2 ._. 
+</s>

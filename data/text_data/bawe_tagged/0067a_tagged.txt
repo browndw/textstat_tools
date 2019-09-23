@@ -1,0 +1,276 @@
+<s>
+A_ZZ1 5kb_FO sequence_NN1 from_II a_AT1 bacteriophage_NN1 that_CST infects_VVZ Synechococcus_NP1 was_VBDZ analysed_VVN and_CC found_VVN to_TO contain_VVI five_MC open_JJ reading_NN1 frames_NN2 whose_DDQGE translated_JJ products_NN2 showed_VVD homology_NN1 to_II other_JJ proteins_NN2 in_II the_AT databases_NN2 ._. 
+</s>
+<s>
+Genes_NN2 homologous_JJ to_II gp13_FO ,_, gp14_FO ,_, gp15_FO and_CC gp16_FO from_II bacteriophage_NN1 T4_FO were_VBDR identified_VVN ,_, of_IO which_DDQ gps13-15_MC are_VBR structural_JJ proteins_NN2 and_CC gp16_FO is_VBZ the_AT small_JJ subunit_NN1 of_IO the_AT DNA_NN1 transferase_NN1 enzyme_NN1 ._. 
+</s>
+<s>
+A_AT1 gene_NN1 that_CST is_VBZ likely_JJ to_TO encode_VVI a_AT1 transcriptional_JJ regulatory_JJ protein_NN1 was_VBDZ also_RR identified_VVN ._. 
+</s>
+<s>
+Structural_JJ elements_NN2 of_IO these_DD2 proteins_NN2 were_VBDR predicted_VVN ._. 
+</s>
+<s>
+"_" Bioinformatics_NN1 is_VBZ a_AT1 new_JJ area_NN1 ,_, comprising_VVG the_AT analysis_NN1 of_IO biological_JJ sequence_NN1 information_NN1 ,_, recovery_NN1 of_IO evolutionary_JJ patterns_NN2 ,_, prediction_NN1 of_IO gene_NN1 function_NN1 ,_, biological_JJ data_NN mining_VVG and_CC "_" silicon-based_JJ biology_NN1 "_" ._. "_" 
+</s>
+<s>
+There_EX are_VBR now_RT many_DA2 freely_RR available_JJ tools_NN2 for_IF the_AT study_NN1 of_IO Bioinformatics_NP1 available_JJ on_II the_AT Internet_NN1 that_CST are_VBR useful_JJ for_IF analysing_VVG newly_RR sequenced_JJ genomes_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 project_NN1 ,_, I_PPIS1 perform_VV0 a_AT1 series_NN of_IO analyses_NN2 on_II a_AT1 5kb_FO DNA_NN1 sequence_NN1 from_II a_AT1 bacteriophage_NN1 that_CST infects_VVZ marine_JJ cyanobacteria_NN1 of_IO the_AT genus_NN1 Synechococcus_NN1 in_BCL21 order_BCL22 to_TO identify_VVI the_AT genes_NN2 present_NN1 and_CC predict_VVI their_APPGE function_NN1 ._. 
+</s>
+<s>
+Mann_NP1 NH_NP1 (_( 2004_MC )_) ._. 
+</s>
+<s>
+Many_DA2 viruses_NN2 are_VBR found_VVN in_II marine_JJ ecosystems_NN2 and_CC one_MC1 of_IO those_DD2 is_VBZ known_VVN as_II S-PM2_JJ ,_, which_DDQ is_VBZ studied_VVN by_II Mann_NP1 et_RA21 al_RA22 at_II the_AT University_NN1 of_IO ._. 
+</s>
+<s>
+"_" S-PM2_NN1 is_VBZ a_AT1 lytic_JJ cyanomyovirus_NN1 virus_NN1 with_IW an_AT1 icosahedral_JJ head_NN1 and_CC long_RR contractile_JJ tail_NN1 ,_, which_DDQ infects_VVZ marine_JJ Synechococcus_NN1 strains_NN2 and_CC has_VHZ been_VBN shown_VVN to_TO have_VHI a_AT1 genome_NN1 of_IO 194_MC kb_NNU ._. "_" 
+</s>
+<s>
+S-PM2_JJ shares_NN2 a_AT1 conserved_JJ genetic_JJ module_NN1 with_IW its_APPGE archetypal_JJ bacteriophage_NN1 T4_FO ,_, which_DDQ infects_VVZ Escherichia_NP1 coli_NN2 ,_, and_CC this_DD1 module_NN1 encodes_VVZ major_JJ virion_NN1 proteins2_FO ._. 
+</s>
+<s>
+It_PPH1 is_VBZ therefore_RR possible_JJ that_CST any_DD proteins_NN2 in_II our_APPGE assessment_NN1 sequence_NN1 will_VM have_VHI significant_JJ homology_NN1 with_IW bacteriophage_NN1 T4_FO ._. 
+</s>
+<s>
+Interestingly_RR ,_, S-PM2_NN1 has_VHZ also_RR been_VBN shown_VVN by_II Mann_NP1 et_RA21 al_RA22 to_TO encode_VVI versions_NN2 of_IO the_AT photosynthetic_JJ proteins_NN2 D1_FO and_CC D2_FO ,_, which_DDQ make_VV0 up_RP photosystem_NN1 II_MC that_CST are_VBR similar_JJ to_II those_DD2 found_VVN in_II Synechococcus_NP1 but_CCB have_VH0 better_JJR resistance_NN1 to_II photoinhibition_NN1 ._. 
+</s>
+<s>
+Mann_NP1 NH_NP1 (_( unknown_JJ date_NN1 )_) Impact_NN1 of_IO bacteriophages_NN2 on_II photosynthesis_NN1 in_II the_AT oceans_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 paper_NN1 ,_, I_PPIS1 run_VV0 analyses_NN2 on_II the_AT assessment_NN1 sequence_NN1 to_TO identify_VVI the_AT open_JJ reading_NN1 frames_NN2 (_( potential_JJ genes_NN2 )_) and_CC compare_VV0 the_AT translations_NN2 of_IO these_DD2 to_II known_JJ proteins_NN2 in_BCL21 order_BCL22 to_TO draw_VVI reasonable_JJ conclusions_NN2 about_II their_APPGE function_NN1 and_CC predict_VV0 their_APPGE three-dimensional_JJ structure_NN1 ._. 
+</s>
+<s>
+The_AT READSEQ_JJ program_NN1 at_II the_AT NIH_NN1 was_VBDZ used_VVN to_TO convert_VVI the_AT sequence_NN1 between_II file_NN1 formats_NN2 when_CS needed_VVN ._. 
+</s>
+<s>
+The_AT ORFinder_NN1 program_NN1 at_II the_AT National_JJ Centre_NN1 for_IF Biotechnology_NN1 Information_NN1 (_( NCBI_NP1 )_) was_VBDZ used_VVN to_TO identify_VVI open_JJ reading_NN1 frames_VVZ in_II the_AT assessment_NN1 sequence_NN1 using_VVG the_AT bacterial_JJ code_NN1 ._. 
+</s>
+<s>
+The_AT blastp_NN1 program_NN1 at_II the_AT NCBI_NN1 was_VBDZ then_RT used_VVN to_TO translate_VVI each_DD1 potential_JJ gene_NN1 and_CC compare_VVI it_PPH1 to_II all_DB proteins_NN2 in_II the_AT nr_II database_NN1 ._. 
+</s>
+<s>
+The_AT MACAW_NN1 program_NN1 was_VBDZ downloaded_VVN and_CC used_VVN to_TO produce_VVI motif-based_JJ local_JJ multiple_JJ alignments_NN2 of_IO each_DD1 translated_JJ ORF_NN1 with_IW its_APPGE top_JJ blast_NN1 results_NN2 using_VVG the_AT BLOSUM_NN1 62_MC matrix_NN1 for_IF scoring_NN1 ._. 
+</s>
+<s>
+MACAW_NP1 :_: Multiple_JJ Alignment_NN1 Construction_NN1 &;_NULL Analysis_NN1 Workbench_NN1 ._. 
+</s>
+<s>
+Schuler_NP1 G_ZZ1 (_( 1995_MC )_) NCBI_NN2 ._. 
+</s>
+<s>
+Each_DD1 protein_NN1 product_NN1 was_VBDZ submitted_VVN to_II the_AT "_" Compute_VV0 pI/Mw_FU tool_NN1 "_" at_II ExPaSy_NP1 ._. 
+</s>
+<s>
+The_AT SMART_JJ suite_NN1 at_II the_AT EMBL_NN1 was_VBDZ used_VVN to_TO search_VVI for_IF common_JJ protein_NN1 domains_NN2 within_II my_APPGE translated_JJ ORFs_NN2 such_II21 as_II22 transmembrane_NN1 helices_NN2 ,_, coiled_VVD coils_NN2 ,_, segments_NN2 of_IO low_JJ complexity_NN1 ,_, signal_NN1 peptides_NN2 and_CC GPI_JJ anchors_NN2 ._. 
+</s>
+<s>
+Schultzal._NP1 (_( 1998_MC )_) Proc_NP1 ._. 
+</s>
+<s>
+Natl_VV0 ._. 
+</s>
+<s>
+Acad_NN1 ._. 
+</s>
+<s>
+Sci_NN2 ._. 
+</s>
+<s>
+USA95_FO ,_, 5857-5864_MCMC ._. 
+</s>
+<s>
+Each_DD1 sequence_NN1 was_VBDZ then_RT submitted_VVN to_II the_AT Predict_VV0 Protein_NN1 suite_NN1 ,_, which_DDQ predicted_VVD the_AT secondary_NN1 and_CC tertiary_JJ structures_NN2 of_IO each_DD1 protein_NN1 ._. 
+</s>
+<s>
+The_AT PHD_NN1 program_NN1 predicted_VVD -helices_NN2 ,_, -sheets_NN2 and_CC loops_NN2 and_CC the_AT "_" GLOBE_NN1 :_: prediction_NN1 of_IO protein_NN1 globularity_NN1 "_" results_NN2 were_VBDR noted_VVN ._. 
+</s>
+<s>
+Rost_VV0 B_ZZ1 and_CC Liu_NP1 J_ZZ1 (_( 2003_MC )_) The_AT PredictProtein_NP1 Server_NN1 ._. 
+</s>
+<s>
+Nucleic_JJ Acids_NN2 Research31(13)_FO :_: 3300-3304_MCMC ._. 
+</s>
+<s>
+Rost_VV0 B_ZZ1 (_( 1996_MC )_) Methods_NN2 in_II Enzymology_NP1 ,_, 266:525-539_MCMC ._. 
+</s>
+<s>
+The_AT ORFinder_NP1 located_VVD 14_MC ORFs_NP2 (_( Open_JJ Reading_NP1 Frames_VVZ )_) ,_, which_DDQ are_VBR potential_JJ genes_NN2 (_( below_RL )_) :_: Of_IO these_DD2 ORFs_NN2 ,_, five_MC sequences_NN2 conferred_VVD proteins_NN2 that_CST showed_VVD significant_JJ sequence_NN1 similarity_NN1 to_II other_JJ known_JJ proteins_NN2 after_II the_AT blast_NN1 ,_, as_CSA summarised_VVN in_II Table_NN1 1_MC1 ._. 
+</s>
+<s>
+ORF_NP1 244_MC -_- 1074_MC :_: Product_NN1 Isoelectric_JJ point_NN1 (_( pI_NN1 )_) =_FO 4.64_MC ,_, molecular_JJ weight_NN1 (_( Mw_NNU )_) =_FO 32316.10_MC ._. 
+</s>
+<s>
+Translation=_FO "_" MAKPSSKQELIDYCKRQLGAPVLQINTDSAQDDDIIDQAIQYYHEYHFDGIERMYLKHQFTADDVTRFTSSDQLTTAPNNDDWENRNNYIQVPDAVIGISKVFGVSSNFLRNNLFGLSNQYYLMDLFSFSTGSAFSFGNFDLTNYYMIKQHFETIDMIINTGSLIEYRFNKRQDRLYIDIDTSRIVEDQYLLIDCYRYLNPDDFTQVYDDSFVKRYATALLKRQWGQNLIKYNSVQLPGGITLNGRQIWEDGNNEVRELESRMMTDYSLPPMDMIG_NN1 "_" ._. 
+</s>
+<s>
+There_EX is_VBZ considerable_JJ identity_NN1 between_II this_DD1 translated_JJ sequence_NN1 and_CC the_AT T4_FO gene_NN1 product_NN1 13_MC (_( gp13_FO )_) ,_, which_DDQ is_VBZ part_NN1 of_IO the_AT neck_NN1 of_IO the_AT virion_NN1 :_: NP049772_FO gp13_FO neck_NN1 protein_NN1 &lsqb;_( Enterobacteria_NP1 phage_NN1 T4_FO &rsqb;_) ._. 
+</s>
+<s>
+Score_VV0 =_FO 58.5_MC bits_NN2 (_( 140_MC )_) ,_, Expect_VV0 =_FO 1e-08_MC ._. 
+</s>
+<s>
+Identities_NN2 =_FO 76/319_MF (_( 23%_NNU )_) ,_, Positives_NP1 =_FO 122/319_MF (_( 38%_NNU )_) ,_, Gaps_NN2 =_FO 73/319_MF (_( 22%_NNU )_) ._. 
+</s>
+<s>
+The_AT MACAW_NN1 alignment_NN1 shown_VVN below_RL confirms_VVZ homology_NN1 of_IO this_DD1 protein_NN1 to_II the_AT gp13_FO neck_NN1 protein_NN1 family_NN1 ._. 
+</s>
+<s>
+The_AT sequences_NN2 all_DB show_VV0 similar_JJ identity_NN1 motifs_NN2 for_IF the_AT first_MD 70_MC amino_NN1 acid_NN1 residues_NN2 but_CCB appear_VV0 to_TO vary_VVI considerably_RR after_II that_DD1 ._. 
+</s>
+<s>
+Pair_NN scores_NN2 are_VBR shaded_JJ ,_, with_IW scores_NN2 50%_NNU showing_VVG blue_JJ and_CC scores_VVZ 90%_NNU appearing_VVG indigo_NN1 ._. 
+</s>
+<s>
+Fig.1The_FO PHD_NN1 results_NN2 for_IF this_DD1 protein_NN1 from_II the_AT predict_VV0 protein_NN1 program_NN1 (_( below_RL )_) show_VV0 five_MC predicted_JJ -helices_NN2 (_( highlighted_JJ red_NN1 )_) ,_, a_AT1 few_DA2 short_JJ -strands_NN2 (_( blue_JJ )_) and_CC many_DA2 loop_NN1 regions_NN2 (_( green_NN1 )_) ._. 
+</s>
+<s>
+ORF_NP1 1076_MC -_- 1954_MC :_: Product_NN1 pI_NN1 =_FO 3.98_MC ,_, Mw_NNU =_FO 33141.23_MC ._. 
+</s>
+<s>
+Translation=_FO "_" MPTSPYFPSYYSGYSGEQNLVQDLVDEQIKLFGTDIYYLPRTILRDNTLDDVIYNKFERQFQVEMLLQNVEGFGSPSEFISKFGLRITDEVRFIVSQRRWDEEAVNYDLNVNGRPNEGDLLYFPLTQDIYEIKFVEREDPFYQLGKNYFYIMTAEIYEYGSDNISTGVEEIDELETLFSSAIAIALSIGGTGDFDLGEIVTGGISGTEAEVKSWDSSSRILQVINRTGTFEEGESVTGNDSGSVWVVDSFDTLNNTNSEYDQNREIESTADTIIDWSESNPFGEYGNFTGSI_NN2 "_" ._. 
+</s>
+<s>
+This_DD1 sequence_NN1 shows_VVZ homology_NN1 with_IW the_AT T4_FO gp14_FO neck_NN1 protein_NN1 -_- it_PPH1 has_VHZ a_AT1 score_NN1 of_IO 85.9_MC bits_NN2 and_CC 34%_NNU identity_NN1 ._. 
+</s>
+<s>
+This_DD1 homology_NN1 was_VBDZ confirmed_VVN by_II the_AT MACAW_NN1 alignment_NN1 ,_, the_AT resulting_JJ schematic_JJ of_IO which_DDQ is_VBZ below_RL ._. 
+</s>
+<s>
+The_AT mean_JJ scores_NN2 are_VBR shaded_JJ ._. 
+</s>
+<s>
+The_AT alignment_NN1 behind_II the_AT MACAW_NN1 schematics_NN1 is_VBZ shown_VVN below_RL with_IW the_AT pair-score_JJ shading_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 protein_NN1 ,_, PHD_NN1 predicted_VVD three_MC short_JJ -helices_NN2 from_II six_MC to_II nine_MC residues_NN2 and_CC nine_MC -strand_JJ regions_NN2 with_IW many_DA2 loops_NN2 ._. 
+</s>
+<s>
+GLOBE_NN1 predicted_VVD the_AT protein_NN1 to_TO be_VBI compact_JJ and_CC globular_JJ with_IW an_AT1 expected_JJ 123_MC exposed_JJ residues_NN2 ._. 
+</s>
+<s>
+ORF_NP1 1954_MC -_- 2754_MC :_: Product_NN1 pI_NN1 =_FO 4.61_MC ,_, Mw_NNU =_FO 30458.57_MC ._. 
+</s>
+<s>
+Translation=_FO "_" MLGPHFYNEIIRKNIIGFGTLFNNISLVKKDPSTGDVLEEEKVPLAYGPKSKFLTRLEQNPDVDRKIAITLPRLYFEMTGINYDAQRKTSPIQKYRTIIQDDGTQVKEQYVPVPYNIEFELGIIAKSQDDGLQILEQILPYFQPVFNITLNMIPDMNEKRDVAIILNSVQYDDAWDDDFLERRFINWTLSFTSKTYLYGPYDQASVIKKAIVYEGINDAVPSRLTKVTYTPKALEDKNNDGVIDSADDALVIATDDFGFNEGIEFL_NN1 "_" ._. 
+</s>
+<s>
+The_AT blast_NN1 scores_NN2 for_IF this_DD1 protein_NN1 are_VBR very_RG high_JJ and_CC the_AT highest_JJT identity_NN1 of_IO 32%_NNU indicates_VVZ that_CST this_DD1 gene_NN1 codes_NN2 for_IF a_AT1 protein_NN1 homologous_JJ to_II the_AT following_JJ T4_FO gene_NN1 gp15_FO ,_, which_DDQ is_VBZ a_AT1 tail_NN1 sheath_NN1 stabilizing_VVG protein_NN1 ._. 
+</s>
+<s>
+The_AT MACAW_NN1 alignment_NN1 for_IF this_DD1 protein_NN1 shows_VVZ many_DA2 conserved_JJ motifs_NN2 ,_, of_IO which_DDQ most_DAT are_VBR present_JJ in_II this_DD1 translated_VVD ORF_NP1 ._. 
+</s>
+<s>
+The_AT different_JJ links_NN2 generated_VVN by_II MACAW_NP1 are_VBR shaded_VVN in_II this_DD1 alignment_NN1 with_IW the_AT darker_JJR shading_NN1 indicating_VVG higher_JJR identity_NN1 in_II that_DD1 region_NN1 ._. 
+</s>
+<s>
+You_PPY can_VM see_VVI that_DD1 PHD_NN1 predicted_VVD three_MC -helices_NN2 and_CC several_DA2 short_JJ -strands_NN2 for_IF this_DD1 protein_NN1 with_IW many_DA2 loop_NN1 regions_NN2 ._. 
+</s>
+<s>
+There_EX was_VBDZ a_AT1 larger_JJR amount_NN1 of_IO random_JJ coiling_NN1 (_( blanks_NN2 )_) in_II this_DD1 protein_NN1 ._. 
+</s>
+<s>
+GLOBE_NN1 also_RR predicted_VVN this_DD1 protein_NN1 to_TO be_VBI globular_JJ ._. 
+</s>
+<s>
+ORF_NP1 2745_MC -_- 3170_MC :_: Product_NN1 pI_NN1 =_FO 4.80_MC ,_, Mw_NNU =_FO 15931.94_MC ._. 
+</s>
+<s>
+Translation=_FO "_" ILMKNNFEKNMEEIFDIEVESTDVEKPPLPVKKEDKSDQQKDYEFTRGELYALLSKGQEALDGALEVAQESGHPRAYEVAVNAMKQVADVADKLIDLQQKMKNLDAPTKKETNNTTNNLFVGSTADLQKMLKEINKNKAED_NP1 "_" ._. 
+</s>
+<s>
+This_DD1 ORF_NN1 showed_VVD identity_NN1 with_IW the_AT small_JJ subunits_NN2 of_IO several_DA2 terminase_VV0 DNA_NN1 packaging_NN1 enzymes_NN2 ,_, of_IO which_DDQ the_AT highest_JJT was_VBDZ this_DD1 gp16_FO from_II bacteriophage_NN1 44RR2.8t_FO :_: The_AT PHD_NN1 results_NN2 for_IF this_DD1 translated_VVD ORF_NP1 show_NN1 two_MC large_JJ -helices_NN2 joined_VVN by_II a_AT1 turn_NN1 and_CC three_MC smaller_JJR ones_NN2 ,_, with_IW several_DA2 loops_NN2 ._. 
+</s>
+<s>
+Again_RT GLOBE_NN1 predicted_VVD the_AT protein_NN1 to_TO be_VBI compact_JJ and_CC globular_JJ ._. 
+</s>
+<s>
+SMART_NP1 found_VVD a_AT1 coiled-coil_JJ region_NN1 between_II amino_NN1 acid_NN1 residues_NN2 80_MC and_CC 106_MC of_IO this_DD1 gene_NN1 product_NN1 ._. 
+</s>
+<s>
+ORF_NP1 3170_MC -_- 3712_MC :_: Product_NN1 pI_NN1 =_FO 5.50_MC ,_, Mw_NNU =_FO 18412.46_MC ._. 
+</s>
+<s>
+Translation=_FO "_" MTVFKIVQHVDDLTDNSDDVVTTPGHIIKTGIYRVSNAASTSAHFSINGNPNASTDVDAGHILANHEVIVKGLHGPKKAKVVSITAANPCVVTFEGNGQPFEVGDYVTLTGSSVAGYNTQISHALISAVSGNTATITANCSALAAFTGSATLSRSGKISAQGDTNNGLEIYVDEVAIVGG_NN1 "_" ._. 
+</s>
+<s>
+This_DD1 protein_NN1 was_VBDZ shown_VVN to_TO have_VHI 36%_NNU identity_NN1 with_IW Transcriptional_JJ Regulatory_JJ protein_NN1 rtcR_NNU from_II E.coli_NP1 and_CC SOS-response_JJ transcriptional_JJ repressors_NN2 (_( RecA-mediated_JJ autopeptidases_NN2 )_) from_II Rhodospirillum_NP1 rubrum_JJ ._. 
+</s>
+<s>
+PHD_NN1 predicted_VVD one_MC1 11-residue_JJ -helix_NN1 and_CC seven_MC short_JJ -strands_NN2 for_IF this_DD1 protein_NN1 ._. 
+</s>
+<s>
+GLOBE_NN1 predicted_VVD that_CST this_DD1 protein_NN1 "_" appears_VVZ not_XX as_RG globular_JJ ,_, as_CSA a_AT1 domain_NN1 "_" ._. 
+</s>
+<s>
+No_AT other_JJ ORFs_NN2 returned_VVD blast_NN1 results_VVZ that_CST showed_VVD significant_JJ similarity_NN1 to_II any_DD sequences_NN2 in_II any_DD of_IO the_AT databases_NN2 ._. 
+</s>
+<s>
+I_PPIS1 also_RR used_VVD the_AT more_RGR sensitive_JJ Smith-Waterman_NP1 Homology_NP1 search_NN1 at_II DISC_NN1 to_TO confirm_VVI blast_NN1 results_NN2 and_CC check_VVI the_AT smaller_JJR translated_JJ polypeptides_NN2 for_IF similar_JJ proteins_NN2 ._. 
+</s>
+<s>
+From_II my_APPGE analysis_NN1 ,_, I_PPIS1 feel_VV0 I_PPIS1 can_VM reasonably_RR confidently_RR conclude_VVI that_CST the_AT assessment_NN1 DNA_NN1 sequence_NN1 was_VBDZ obtained_VVN from_II a_AT1 T4-like_JJ bacteriophage_NN1 such_II21 as_II22 S-PM2_NN1 ,_, since_CS it_PPH1 appears_VVZ to_TO contain_VVI many_DA2 homologous_JJ genes_NN2 to_II those_DD2 found_VVN in_II T4_FO ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ previously_RR known_VVN that_DD1 S-PM2_NN1 shares_VVZ a_AT1 conserved_JJ genetic_JJ module_NN1 with_IW T4_FO that_DD1 contains_VVZ genes_NN2 for_IF structural_JJ proteins_NN2 that_CST make_VV0 up_RP the_AT virion_NN1 ,_, so_CS it_PPH1 is_VBZ not_XX surprising_JJ to_TO find_VVI genes_NN2 for_IF two_MC neck/collar_NN1 proteins_NN2 and_CC a_AT1 tail_NN1 sheath_NN1 protein_NN1 in_II this_DD1 sequence_NN1 ._. 
+</s>
+<s>
+Interestingly_RR ,_, genes_NN2 similar_JJ to_II T4_FO 's_VBZ gp13_FO to_II gp16_FO were_VBDR found_VVN in_II the_AT assessment_NN1 sequence_NN1 in_II the_AT same_DA order_NN1 ._. 
+</s>
+<s>
+12The_FO structure_NN1 of_IO bacteriophage_NN1 T4_FO is_VBZ shown_VVN to_II the_AT right_NN1 ._. 
+</s>
+<s>
+Gp13_FO and_CC gp14_FO are_VBR neck_NN1 proteins_NN2 that_CST protrude_VV0 from_II the_AT head/tail_NN1 connection_NN1 ._. 
+</s>
+<s>
+Gp15_FO is_VBZ a_AT1 protein_NN1 that_CST is_VBZ required_VVN to_TO complete_VVI assembly_NN1 of_IO the_AT T4_FO tail_NN1 as_CSA it_PPH1 forms_VVZ the_AT connector_NN1 ,_, which_DDQ allows_VVZ it_PPH1 to_TO bind_VVI to_II the_AT head_NN1 ._. 
+</s>
+<s>
+Zhao_NN1 L_ZZ1 ,_, Kanamaru_NP1 S_ZZ1 ,_, Chaidirek_NP1 C_NP1 ,_, &;_NULL Arisaka_NP1 F_ZZ1 (_( 2003_MC )_) P15_FO and_CC P3_FO ,_, the_AT Tail_NN1 Completion_NN1 Proteins_NN2 of_IO Bacteriophage_NP1 T4_FO ,_, Both_DB2 Form_VV0 Hexameric_JJ Rings_NN2 ._. 
+</s>
+<s>
+Journal_NN1 of_IO Bacteriology._NP1 185(5)_FO :_: 1693-1700_MCMC ._. 
+</s>
+<s>
+Gp16_FO and_CC gp17_FO make_VV0 up_RP the_AT small_JJ and_CC large_JJ subunits_NN2 respectively_RR of_IO the_AT T4_FO enzyme_NN1 terminase_NN1 ,_, which_DDQ is_VBZ required_VVN for_IF DNA_NN1 packaging_NN1 ._. 
+</s>
+<s>
+The_AT assessment_NN1 sequence_NN1 contained_VVD an_AT1 ORF_NN1 that_CST probably_RR encodes_VVZ the_AT small_JJ subunit_NN1 for_IF a_AT1 terminase_NN1 enzyme_NN1 in_II the_AT Synechococcus-infecting_JJ bacteriophage_NN1 ._. 
+</s>
+<s>
+Horizontal_JJ gene_NN1 transfer_NN1 is_VBZ important_JJ for_IF evolution_NN1 of_IO marine_JJ Synechococcus_NN1 and_CC it_PPH1 has_VHZ been_VBN shown_VVN that_CST this_DD1 process_NN1 is_VBZ mediated_VVN by_II bacteriophages_NN2 ._. 
+</s>
+<s>
+I_PPIS1 predict_VV0 that_CST the_AT helix-turn-helix_JJ motif_NN1 predicted_VVN by_II PHD_NN1 between_II residues_NN2 44_MC and_CC 105_MC is_VBZ a_AT1 DNA-binding_JJ finger_NN1 motif14_FO ._. 
+</s>
+<s>
+The_AT predicted_JJ coiled-coil_NN1 in_II this_DD1 region_NN1 would_VM also_RR be_VBI evidence_NN1 for_IF this_DD1 ._. 
+</s>
+<s>
+The_AT gene_NN1 for_IF the_AT large_JJ subunit_NN1 ,_, gp17_FO ,_, which_DDQ contains_VVZ 610_MC amino_NN1 acid_NN1 residues_NN2 ,_, is_VBZ not_XX present_JJ in_II the_AT assessment_NN1 sequence_NN1 ._. 
+</s>
+<s>
+Lin_NP1 H_ZZ1 ,_, Simon_NP1 MN_FO &;_NULL Black_JJ LW_NN1 (_( 1997_MC )_) Purification_NN1 and_CC characterization_NN1 of_IO the_AT small_JJ subunit_NN1 of_IO phage_NN1 T4_FO terminase_NN1 ,_, gp16_FO ,_, required_VVN for_IF DNA_NN1 packaging_NN1 ._. 
+</s>
+<s>
+J_NP1 Biol_NP1 Chem._NP1 272(6):3495-501_FO ._. 
+</s>
+<s>
+Clokie_NP1 MRJ_NP1 ,_, Millard_NP1 AD_RA ,_, Wilson_NP1 WH_NP1 &;_NULL Mann_NP1 NH_NP1 (_( 2003_MC )_) Encapsidation_NN1 of_IO host_NN1 DNA_NN1 by_II bacteriophages_NN2 infecting_VVG marine_JJ Synechococcus_NN1 strains_NN2 ._. 
+</s>
+<s>
+FEMS_NN2 Microbiol_VV0 ._. 
+</s>
+<s>
+Ecol._NP1 46_MC :_: 349-352_MCMC ._. 
+</s>
+<s>
+The_AT ORF_NN1 between_II nucleotides_NN2 3170_MC and_CC 3712_MC is_VBZ likely_JJ to_TO code_VVI for_IF a_AT1 transcriptional_JJ regulatory_JJ protein_NN1 because_II21 of_II22 its_APPGE homology_NN1 with_IW those_DD2 from_II E.coli_NP1 and_CC R.rubrum_NP1 and_CC because_CS it_PPH1 was_VBDZ not_XX predicted_VVN to_TO be_VBI globular_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX possible_JJ to_TO tell_VVI ,_, however_RR ,_, which_DDQ genes_NN2 it_PPH1 regulates_VVZ from_II sequence_NN1 data_NN alone_RR ._. 
+</s>

@@ -1,0 +1,396 @@
+<s>
+The_AT objective_NN1 of_IO this_DD1 exercise_NN1 is_VBZ to_TO find_VVI ,_, by_II experimental_JJ means_NN ,_, the_AT moments_NN2 of_IO inertia_NN1 of_IO three_MC steel_NN1 discs_NN2 ._. 
+</s>
+<s>
+These_DD2 values_NN2 will_VM be_VBI compared_VVN to_II those_DD2 found_VVN using_VVG a_AT1 known_JJ theoretical_JJ relationship_NN1 ._. 
+</s>
+<s>
+Estimates_NN2 of_IO errors_NN2 incurred_VVN (_( by_II simplifications_NN2 or_CC otherwise_RR )_) shall_VM be_VBI made_VVN and_CC their_APPGE effects_NN2 described_VVN and_CC accounted_VVN for_IF ._. 
+</s>
+<s>
+The_AT method_NN1 used_VVN involves_VVZ a_AT1 falling_JJ mass_NN1 turning_VVG an_AT1 axle_NN1 by_II unravelling_VVG a_AT1 string_NN1 as_CSA it_PPH1 descends_VVZ ._. 
+</s>
+<s>
+The_AT torque_NN1 generated_VVN shall_VM be_VBI applied_VVN to_II the_AT disc_NN1 ,_, which_DDQ starts_VVZ with_IW zero_MC angular_JJ velocity_NN1 and_CC acceleration_NN1 ._. 
+</s>
+<s>
+The_AT falling_JJ mass_NN1 will_VM be_VBI timed_VVN on_II its_APPGE journey_NN1 over_II a_AT1 fixed_JJ distance_NN1 ._. 
+</s>
+<s>
+With_IW measurements_NN2 of_IO the_AT time_NNT1 taken_VVN ,_, distance_NN1 fallen_VVN ,_, radii_NN2 of_IO discs_NN2 and_CC applied_JJ torque_NN1 ,_, the_AT moment_NN1 of_IO inertia_NN1 of_IO each_DD1 discs_NN2 can_VM be_VBI calculated_VVN ._. 
+</s>
+<s>
+The_AT main_JJ conclusions_NN2 drawn_VVN from_II this_DD1 experiment_NN1 will_VM refer_VVI to_II the_AT moments_NN2 of_IO inertia_NN1 of_IO the_AT discs_NN2 and_CC the_AT accuracy_NN1 of_IO those_DD2 results_NN2 ._. 
+</s>
+<s>
+Their_APPGE accuracy_NN1 will_VM be_VBI evaluated_VVN by_II comparing_VVG experimental_JJ results_NN2 to_II theoretically_RR derived_VVN values_NN2 ,_, and_CC after_II scrutiny_NN1 of_IO the_AT errors_NN2 incurred_VVN ._. 
+</s>
+<s>
+There_EX are_VBR two_MC strands_NN2 to_II the_AT purpose_NN1 of_IO the_AT experiment_NN1 ._. 
+</s>
+<s>
+They_PPHS2 are_VBR ,_, firstly_RR ,_, to_TO understand_VVI how_RRQ the_AT linear_JJ and_CC rotational_JJ versions_NN2 of_IO Newton_NP1 's_GE second_MD law_NN1 relate_VV0 and_CC ,_, secondly_RR ,_, to_TO gain_VVI experimental_JJ experience_NN1 about_II the_AT 2_MC nd_NNU moment_NN1 of_IO mass_NN1 ._. 
+</s>
+<s>
+The_AT objectives_NN2 of_IO the_AT experiment_NN1 are_VBR ;_; ._. 
+</s>
+<s>
+Consideration_NN1 will_VM be_VBI given_VVN to_II the_AT accuracy_NN1 of_IO the_AT quantities_NN2 measured_VVD following_VVG objective_JJ one_PN1 ,_, and_CC the_AT impact_NN1 errors_NN2 have_VH0 on_II the_AT moment_NN1 of_IO inertia_NN1 calculated_VVD ._. 
+</s>
+<s>
+The_AT conclusions_NN2 drawn_VVN will_VM refer_VVI to_II the_AT moments_NN2 of_IO inertia_NN1 calculated_VVN from_II experimental_JJ results_NN2 and_CC the_AT accuracy_NN1 of_IO those_DD2 results_NN2 in_II comparison_NN1 to_II those_DD2 calculated_VVN using_VVG mechanics_NN2 theory_NN1 ._. 
+</s>
+<s>
+The_AT illustration_NN1 left_NN1 shows_VVZ the_AT steel_NN1 disc_NN1 and_CC falling_VVG mass_JJ arrangement_NN1 with_IW the_AT quantities_NN2 that_CST are_VBR important_JJ in_II the_AT experiment_NN1 ._. 
+</s>
+<s>
+From_II basic_JJ motion_NN1 equations_NN2 1_MC1 :_: (_( 1_MC1 )_) (_( where_CS v_ZZ1 is_VBZ velocity_NN1 and_CC is_VBZ angular_JJ speed_NN1 )_) ._. 
+</s>
+<s>
+Differentiating_VVG with_II31 respect_II32 to_II33 time_NNT1 gives_VVZ (_( where_RRQ is_VBZ angular_JJ acceleration_NN1 )_) ._. 
+</s>
+<s>
+Therefore_RR (_( 2_MC )_) ._. 
+</s>
+<s>
+Now_RT using_VVG the_AT constant_JJ acceleration_NN1 equation_NN1 it_PPH1 can_VM be_VBI shown_VVN that_CST with_IW zero_MC initial_JJ velocity_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+Newton_NP1 's_GE second_MD law_NN1 states_VVZ that_DD1 ._. 
+</s>
+<s>
+This_DD1 law_NN1 in_II angular_JJ terms_NN2 converts_VVZ to_II (_( where_CS T_ZZ1 is_VBZ torque_NN1 ,_, I_ZZ1% is_VBZ inertia_NN1 and_CC angular_JJ acceleration_NN1 -_- 'a'_VV0 from_II the_AT diagram_NN1 )_) ._. 
+</s>
+<s>
+On_II inspection_NN1 of_IO the_AT diagram_NN1 ,_, it_PPH1 can_VM be_VBI seen_VVN that_DD1 and_CC therefore_RR ,_, using_VVG (_( 2_MC )_) (_( 4_MC )_) ._. 
+</s>
+<s>
+Using_VVG (_( 3_MC )_) in_II (_( 4_MC )_) gives_VVZ hence_RR ._. 
+</s>
+<s>
+Now_RT ,_, given_CS21 that_CS22 the_AT mass_JJ 'M'_NN1 in_II the_AT diagram_NN1 falls_VVZ much_RR more_RGR slowly_RR than_CSN it_PPH1 would_VM do_VDI purely_RR under_II the_AT force_NN1 of_IO gravity_NN1 ,_, a_AT1 good_JJ approximation_NN1 of_IO mg_NNU is_VBZ (_( 5_MC )_) ._. 
+</s>
+<s>
+Rearrange_VV0 (_( 5_MC )_) to_TO give_VVI (_( 6_MC )_) ._. 
+</s>
+<s>
+Using_VVG (_( 6_MC )_) a_AT1 good_JJ approximation_NN1 for_IF the_AT moment_NN1 of_IO inertia_NN1 of_IO each_DD1 of_IO the_AT discs_NN2 can_VM be_VBI obtained_VVN ._. 
+</s>
+<s>
+The_AT theoretical_JJ formula_NN1 this_DD1 experimental_JJ approximation_NN1 will_VM be_VBI compared_VVN with_IW is_VBZ (_( 7_MC )_) 2_MC ._. 
+</s>
+<s>
+Where_CS M_ZZ1 is_VBZ the_AT mass_NN1 of_IO the_AT disc_NN1 and_CC R_ZZ1 is_VBZ its_APPGE radius_NN1 ._. 
+</s>
+<s>
+With_IW this_DD1 knowledge_NN1 it_PPH1 is_VBZ possible_JJ to_TO devise_VVI a_AT1 method_NN1 to_TO gather_VVI experimental_JJ data_NN ._. 
+</s>
+<s>
+On_II one_MC1 side_NN1 of_IO the_AT main_JJ support_NN1 is_VBZ a_AT1 metal_NN1 drum_NN1 with_IW a_AT1 helical_JJ groove_NN1 on_II its_APPGE surface_NN1 ._. 
+</s>
+<s>
+The_AT string_NN1 is_VBZ wound_VVN into_II the_AT groove_NN1 with_IW a_AT1 maximum_NN1 of_IO 9_MC revolutions_NN2 ._. 
+</s>
+<s>
+One_MC1 end_NN1 of_IO the_AT string_NN1 is_VBZ attached_VVN to_II the_AT mass_NN1 and_CC the_AT other_NN1 is_VBZ fixed_VVN to_II the_AT drum_NN1 at_II the_AT end_NN1 furthest_RRT from_II the_AT support_NN1 ._. 
+</s>
+<s>
+This_DD1 drum_NN1 is_VBZ free_JJ to_TO rotate_VVI and_CC is_VBZ on_II a_AT1 shaft_NN1 which_DDQ passes_VVZ through_II the_AT support_NN1 and_CC then_RT turns_VVZ a_AT1 cog_NN1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ side_NN1 of_IO the_AT support_NN1 from_II the_AT drum_NN1 is_VBZ a_AT1 shaft_NN1 with_IW a_AT1 fixture_NN1 for_IF a_AT1 steel_NN1 disc_NN1 whereby_RRQ a_AT1 threaded_JJ section_NN1 of_IO shaft_NN1 goes_VVZ through_II the_AT centre_NN1 of_IO the_AT disc_NN1 allowing_VVG it_PPH1 to_TO be_VBI attached_VVN using_VVG a_AT1 wing_NN1 nut_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 second_NNT1 cog_VV0 concentric_JJ with_IW and_CC attached_VVN to_II the_AT shaft_NN1 with_IW the_AT steel_NN1 disc_NN1 on_RP ._. 
+</s>
+<s>
+The_AT two_MC cogs_NN2 are_VBR the_AT same_DA size_NN1 so_CS no_AT change_NN1 in_II rotational_JJ speed_NN1 takes_VVZ place_NN1 when_CS they_PPHS2 mesh_VV0% ._. 
+</s>
+<s>
+The_AT falling_JJ mass_NN1 attached_VVN to_II the_AT drum_NN1 causes_VVZ the_AT drum_NN1 to_TO rotate_VVI ,_, driving_VVG the_AT shaft_NN1 and_CC cogs_NN2 ,_, and_CC hence_RR turning_VVG the_AT shaft_NN1 with_IW the_AT steel_NN1 disc_NN1 attached_VVN ._. 
+</s>
+<s>
+The_AT diagram_NN1 below_RL shows_VVZ this_DD1 arrangement_NN1 ._. 
+</s>
+<s>
+The_AT mass_NN1 was_VBDZ dropped_VVN from_II the_AT same_DA height_NN1 for_IF each_DD1 reading_NN1 ._. 
+</s>
+<s>
+Given_CS21 that_CS22 time_NNT1 or_CC distance_NN1 is_VBZ the_AT measured_JJ variable_NN1 ,_, it_PPH1 is_VBZ wiser_JJR to_TO fix_VVI distance_NN1 since_CS one_MC1 end_NN1 of_IO that_DD1 distance_NN1 can_VM be_VBI a_AT1 surface_NN1 which_DDQ the_AT mass_JJ strikes_NN2 ,_, providing_VVG visual_JJ and_CC audible_JJ information_NN1 to_TO stop_VVI the_AT stopwatch_NN1 ._. 
+</s>
+<s>
+If_CS time_NNT1 were_VBDR elected_VVN to_TO be_VBI fixed_VVN then_RT some_DD method_NN1 of_IO viewing_VVG exactly_RR where_CS the_AT mass_NN1 had_VHD reached_VVN after_II the_AT control_NN1 time_NNT1 would_VM need_VVI to_TO be_VBI devised_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ more_RGR complicated_JJ than_CSN the_AT former_DA method_NN1 ._. 
+</s>
+<s>
+One_MC1 person_NN1 positioned_VVN the_AT hanging_JJ mass_NN1 with_II31 reference_II32 to_II33 the_AT ruler_NN1 ,_, which_DDQ was_VBDZ placed_VVN against_II the_AT vertical_JJ support_NN1 ,_, by_II viewing_VVG them_PPHO2 perpendicularly_RR in_II an_AT1 attempt_NN1 to_TO minimize_VVI any_DD error_NN1 due_JJ to_TO parallax_VVI ._. 
+</s>
+<s>
+The_AT disc_NN1 was_VBDZ clamped_VVN to_II the_AT support_NN1 ,_, by_II hand_NN1 ,_, to_TO ensure_VVI (_( near_RL )_) zero_MC initial_JJ rotation_NN1 ._. 
+</s>
+<s>
+The_AT stopwatch_NN1 was_VBDZ started_VVN upon_II the_AT release_NN1 of_IO the_AT steel_NN1 disc_NN1 and_CC stopped_VVN at_II the_AT instant_NNT1 when_RRQ the_AT mass_NN1 struck_VVD the_AT work_NN1 surface_NN1 ._. 
+</s>
+<s>
+The_AT same_DA person_NN1 who_PNQS released_VVD the_AT disc_NN1 with_IW one_MC1 hand_NN1 started_VVD the_AT stopwatch_NN1 with_IW their_APPGE other_JJ hand_NN1 ._. 
+</s>
+<s>
+These_DD2 two_MC tasks_NN2 were_VBDR combined_VVN since_CS the_AT simultaneity_NN1 of_IO those_DD2 events_NN2 is_VBZ more_RGR likely_JJ to_TO be_VBI achieved_VVN if_CS only_RR one_MC1 person_NN1 is_VBZ involved_VVN ._. 
+</s>
+<s>
+The_AT height_NN1 from_II which_DDQ the_AT mass_JJ fell_NN1 was_VBDZ made_VVN as_RG large_JJ as_CSA possible_JJ but_CCB not_XX so_RG large_JJ that_CST the_AT mass_JJ hanger_NN1 was_VBDZ in_II31 contact_II32 with_II33 the_AT drum_NN1 ._. 
+</s>
+<s>
+Neither_DD1 was_VBDZ it_PPH1 so_RG large_JJ that_CST the_AT string_NN1 was_VBDZ displaced_VVN from_II the_AT grooves_NN2 in_II the_AT drum_NN1 ._. 
+</s>
+<s>
+The_AT height_NN1 used_VVD was_VBDZ 300mm_NNU ._. 
+</s>
+<s>
+A_AT1 relatively_RR large_JJ height_NN1 is_VBZ favourable_JJ because_CS the_AT time_NNT1 taken_VVN for_IF the_AT weight_NN1 to_TO fall_VVI will_VM increase_VVI as_II height_NN1 increases_NN2 ,_, thus_RR making_VVG time_NNT1 measurements_NN2 easier_RRR to_TO take_VVI accurately_RR (_( it_PPH1 reduces_VVZ the_AT error_NN1 in_II percentage_NN1 terms_NN2 )_) ._. 
+</s>
+<s>
+A_AT1 short_JJ distance_NN1 ,_, and_CC hence_RR short_JJ travel_NN1 time_NNT1 ,_, would_VM mean_VVI starting_NN1 and_CC stopping_VVG the_AT stopwatch_NN1 in_II quick_JJ succession_NN1 which_DDQ is_VBZ more_RGR prone_JJ to_II error_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO collect_VVI a_AT1 wide_JJ range_NN1 and_CC sufficient_JJ number_NN1 of_IO results_NN2 all_DB possible_JJ arrangements_NN2 of_IO the_AT masses_NN2 were_VBDR used_VVN ._. 
+</s>
+<s>
+This_DD1 allowed_VVD 6_MC different_JJ masses_NN2 to_TO be_VBI experimented_VVN with_IW ;_; 0.1_MC ,_, 0.12_MC ,_, 0.15_MC ,_, 0.17_MC ,_, 0.2_MC ,_, 0.22_MC (_( all_DB in_II kilograms_NNU2 )_) ._. 
+</s>
+<s>
+For_IF each_DD1 mass_NN1 three_MC readings_NN2 were_VBDR taken_VVN ._. 
+</s>
+<s>
+This_DD1 number_NN1 compromises_NN2 between_II a_AT1 need_NN1 for_IF many_DA2 results_NN2 and_CC the_AT need_NN1 to_TO record_VVI a_AT1 large_JJ number_NN1 of_IO accurate_JJ measurements_NN2 in_II a_AT1 short_JJ space_NN1 of_IO time_NNT1 ._. 
+</s>
+<s>
+Since_CS the_AT two_MC cogs_NN2 on_II the_AT steel_NN1 disc_NN1 's_GE side_NN1 of_IO the_AT support_NN1 merely_RR translated_VVD the_AT torque_NN1 from_II the_AT drum_NN1 's_GE shaft_NN1 to_II the_AT disc_NN1 's_GE shaft_NN1 ,_, the_AT distance_NN1 'little_NN1 r'_NN1 shown_VVN on_II the_AT diagram_NN1 on_II page_NN1 6_MC is_VBZ equal_JJ to_II the_AT radius_NN1 of_IO the_AT drum_NN1 ._. 
+</s>
+<s>
+The_AT drum_NN1 has_VHZ a_AT1 small_JJ radius_NN1 (_( 10mm_NNU )_) and_CC the_AT accuracy_NN1 of_IO its_APPGE measurement_NN1 is_VBZ important_JJ ._. 
+</s>
+<s>
+To_TO obtain_VVI a_AT1 precise_JJ measurement_NN1 of_IO the_AT radius_NN1 ,_, the_AT string_NN1 was_VBDZ fully_RR wound_VVN around_II the_AT drum_NN1 in_II 9_MC complete_JJ revolutions_NN2 ._. 
+</s>
+<s>
+The_AT distance_NN1 along_II the_AT drum_NN1 that_CST the_AT helical_JJ string_NN1 occupied_VVN was_VBDZ measured_VVN with_IW a_AT1 ruler_NN1 and_CC named_JJ 'x'_NN1 ._. 
+</s>
+<s>
+The_AT linear_JJ (_( unravelled_VVN )_) length_NN1 of_IO those_DD2 9_MC revolutions_NN2 was_VBDZ then_RT measured_VVN ,_, again_RT using_VVG a_AT1 ruler_NN1 ,_, and_CC named_JJ 'y'_NN1 ._. 
+</s>
+<s>
+The_AT triangle_NN1 below_II shows_NN2 how_RRQ x_ZZ1 ,_, y_ZZ1 and_CC r_ZZ1 are_VBR linked_VVN ._. 
+</s>
+<s>
+Where_CS n_ZZ1 is_VBZ the_AT number_NN1 of_IO revolutions_NN2 on_II the_AT drum_NN1 ._. 
+</s>
+<s>
+Using_VVG that_DD1 triangle_NN1 ,_, r_ZZ1 can_VM be_VBI calculated_VVN as_CSA follows_VVZ so_RG therefore_RR (_( 8_MC )_) ._. 
+</s>
+<s>
+With_IW this_DD1 information_NN1 about_II the_AT size_NN1 of_IO r_ZZ1 ,_, all_DB the_AT quantities_NN2 that_CST equation_NN1 (_( 6_MC )_) requires_VVZ (_( m_ZZ1 ,_, g_ZZ1 ,_, r_ZZ1 ,_, t_ZZ1 and_CC s_ZZ1 )_) are_VBR known_VVN and_CC so_RR an_AT1 experimental_JJ value_NN1 for_CS I_PPIS1 can_VM be_VBI calculated_VVN ._. 
+</s>
+<s>
+In_II the_AT model_NN1 and_CC with_IW the_AT manipulation_NN1 of_IO the_AT results_NN2 some_DD simplifications_NN2 have_VH0 been_VBN made_VVN and_CC they_PPHS2 are_VBR summarised_VVN in_II the_AT table_NN1 below_RL ._. 
+</s>
+<s>
+All_DB of_IO the_AT simplifications_NN2 cause_VV0 error_NN1 in_II the_AT calculated_JJ value_NN1 of_IO the_AT second_MD moment_NN1 of_IO Inertia_NN1 ._. 
+</s>
+<s>
+Most_DAT of_IO them_PPHO2 cause_VV0 errors_NN2 that_CST decrease_VV0 the_AT calculated_JJ value_NN1 of_IO 'I'_NN1 ._. 
+</s>
+<s>
+So_RR it_PPH1 is_VBZ likely_JJ that_CST the_AT theoretical_JJ value_NN1 of_IO 'I'_NN1 will_VM be_VBI higher_JJR than_CSN the_AT value_NN1 calculated_VVN from_II experimental_JJ data_NN ._. 
+</s>
+<s>
+The_AT results_NN2 found_VVN from_II the_AT three_MC discs_NN2 are_VBR shown_VVN below_RL ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO assess_VVI the_AT accuracy_NN1 of_IO the_AT final_JJ value_NN1 of_IO the_AT moment_NN1 of_IO inertia_NN1 calculated_VVD ,_, some_DD estimate_NN1 of_IO the_AT errors_NN2 of_IO the_AT measurements_NN2 must_VM be_VBI made_VVN ._. 
+</s>
+<s>
+An_AT1 estimate_NN1 of_IO the_AT error_NN1 in_II each_DD1 of_IO the_AT measured_JJ quantities_NN2 and_CC justification_NN1 for_IF that_DD1 estimate_NN1 follow_VV0 ._. 
+</s>
+<s>
+1_MC1 Disc_NN1 radius_NN1 ._. 
+</s>
+<s>
+Estimate_NN1 of_IO error_NN1 in_II measurement_NN1 :_: 1mm_NNU ._. 
+</s>
+<s>
+In_II percentage_NN1 terms_NN2 ;_; ._. 
+</s>
+<s>
+Worst_JJT case_NN1 scenario_NN1 (_( small_JJ disc_NN1 )_) 2%_NNU ._. 
+</s>
+<s>
+Average_JJ case_NN1 (_( medium_JJ disc_NN1 )_) 1.6%_FO ._. 
+</s>
+<s>
+The_AT disc_NN1 radius_NN1 was_VBDZ measured_VVN using_VVG a_AT1 ruler_NN1 with_IW divisions_NN2 in_II mm_NNU ._. 
+</s>
+<s>
+Care_NN1 was_VBDZ taken_VVN when_CS measuring_VVG but_CCB accuracy_NN1 greater_JJR than_CSN to_II 1mm_NNU can_VM not_XX be_VBI assumed_VVN ._. 
+</s>
+<s>
+Time_NNT1 Measurement_NN1 ._. 
+</s>
+<s>
+Estimate_NN1 of_IO error_NN1 in_II measurement_NN1 :_: 0.15sec_NNU ._. 
+</s>
+<s>
+In_II percentage_NN1 terms_NN2 ;_; ._. 
+</s>
+<s>
+Worst_JJT case_NN1 scenario_NN1 (_( fast_JJ drop_NN1 )_) 7.5%_FO ._. 
+</s>
+<s>
+Average_JJ case_NN1 3.75%_FO ._. 
+</s>
+<s>
+Every_AT1 effort_NN1 was_VBDZ made_VVN to_II time_NNT1 each_DD1 experiment_NN1 accurately_RR but_CCB human_JJ error_NN1 is_VBZ inevitable_JJ ._. 
+</s>
+<s>
+An_AT1 error_NN1 of_IO 0.15_MC seconds_NNT2 is_VBZ a_AT1 reasonable_JJ assessment_NN1 of_IO the_AT reactions_NN2 of_IO a_AT1 person_NN1 timing_VVG such_DA an_AT1 event_NN1 ._. 
+</s>
+<s>
+Release_VV0 height_NN1 of_IO mass_NN1 ._. 
+</s>
+<s>
+Estimate_NN1 of_IO error_NN1 in_II measurement_NN1 :_: 1.5mm_NNU ._. 
+</s>
+<s>
+In_II percentage_NN1 terms_NN2 :_: All_DB cases_NN2 (_( 300mm_NNU drop_NN1 )_) 0.5%_FO ._. 
+</s>
+<s>
+Care_NN1 was_VBDZ taken_VVN to_TO view_VVI the_AT mass_JJ hanger_NN1 perpendicularly_RR to_II the_AT ruler_NN1 to_TO eliminate_VVI parallax_VV0 as_RG much_DA1 as_CSA possible_JJ when_CS positioning_VVG the_AT mass_NN1 for_IF release_NN1 ._. 
+</s>
+<s>
+Using_VVG a_AT1 ruler_NN1 the_AT accuracy_NN1 of_IO this_DD1 positioning_NN1 could_VM not_XX be_VBI within_II 1_MC1 mm_NNU and_CC it_PPH1 would_VM not_XX be_VBI prudent_JJ to_TO ignore_VVI the_AT affects_NN2% of_IO parallax_NN1 completely_RR so_RG an_AT1 error_NN1 estimate_NN1 of_IO 1.5_MC mm_NNU is_VBZ reasonable_JJ ._. 
+</s>
+<s>
+Some_DD vibration_NN1 was_VBDZ unavoidable_JJ under_II the_AT conditions_NN2 in_II the_AT lab_NN1 ._. 
+</s>
+<s>
+Vibrations_NN2 were_VBDR only_RR noticeable_JJ when_CS one_PN1 's_GE hand_NN1 was_VBDZ in_II firm_JJ contact_NN1 with_IW the_AT support_NN1 frame_NN1 and_CC so_RR the_AT affects_NN2% are_VBR likely_JJ to_TO be_VBI negligible_JJ ._. 
+</s>
+<s>
+Equations_NN2 (_( 6_MC )_) and_CC (_( 7_MC )_) were_VBDR used_VVN to_TO calculate_VVI experimental_JJ estimates_NN2 and_CC theoretical_JJ values_NN2 for_IF the_AT moments_NN2 of_IO inertia_NN1 of_IO each_DD1 of_IO the_AT discs_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO those_DD2 calculations_NN2 are_VBR shown_VVN here_RL ._. 
+</s>
+<s>
+Graphically_RR ,_, an_AT1 estimate_NN1 of_IO the_AT moment_NN1 of_IO inertia_NN1 can_VM be_VBI estimated_VVN by_II plotting_VVG m_ZZ1 (_( mass_NN1 )_) against_II t_ZZ1 -2_MC (_( inverse_NN1 of_IO time_NNT1 squared_VVN )_) ._. 
+</s>
+<s>
+The_AT gradient_NN1 of_IO the_AT line_NN1 on_II that_DD1 graph_NN1 equals_NN2 (_( 9_MC )_) ._. 
+</s>
+<s>
+And_CC therefore_RR ._. 
+</s>
+<s>
+These_DD2 graphs_NN2 are_VBR shown_VVN in_II section_NN1 9_MC ._. 
+</s>
+<s>
+The_AT line_NN1 from_II which_DDQ the_AT gradient_NN1 is_VBZ measured_VVN is_VBZ the_AT bisector_NN1 of_IO the_AT estimates_NN2 of_IO reasonable_JJ maximum_NN1 and_CC minimum_JJ gradient_NN1 lines_NN2 ._. 
+</s>
+<s>
+This_DD1 procedure_NN1 is_VBZ the_AT fairest_JJT way_NN1 of_IO measuring_VVG the_AT true_JJ gradient_NN1 of_IO a_AT1 line_NN1 of_IO best_RRT fit_VV0 through_II the_AT data_NN points_NN2 ._. 
+</s>
+<s>
+An_AT1 estimate_NN1 of_IO the_AT accuracy_NN1 of_IO the_AT figures_NN2 in_II the_AT table_NN1 can_VM be_VBI made_VVN using_VVG the_AT estimates_NN2 of_IO the_AT error_NN1 in_II the_AT individually_RR measured_VVN quantities_NN2 in_II section_NN1 6.2_MC ._. 
+</s>
+<s>
+Errors_NN2 in_II equation_NN1 (_( 6_MC )_) are_VBR ._. 
+</s>
+<s>
+With_IW these_DD2 ,_, the_AT uncertainty_NN1 in_II the_AT gradient_NN1 can_VM be_VBI estimated_VVN as_II the_AT sum_NN1 of_IO the_AT errors_NN2 of_IO its_APPGE erroneous_JJ constituents_NN2 ._. 
+</s>
+<s>
+i.e._REX 0.5%_FO +_FO 2.56%_FO +_FO 14_MC =_FO 17.06%_FO ._. 
+</s>
+<s>
+Hence_RR a_AT1 reasonable_JJ estimate_NN1 of_IO the_AT error_NN1 in_II the_AT moment_NN1 of_IO inertia_NN1 calculated_VVN from_II experimental_JJ data_NN is_VBZ 17%_NNU ._. 
+</s>
+<s>
+The_AT impacts_NN2 of_IO the_AT errors_NN2 chosen_VVN to_TO be_VBI ignored_VVN generally_RR lowered_VVD the_AT value_NN1 of_IO the_AT moment_NN1 of_IO inertia_NN1 calculated_VVD ._. 
+</s>
+<s>
+The_AT expectation_NN1 was_VBDZ ,_, therefore_RR ,_, that_CST the_AT value_NN1 for_IF 'I'_NN1 calculated_VVN from_II measured_JJ values_NN2 would_VM be_VBI lower_JJR than_CSN that_DD1 found_VVD using_VVG a_AT1 theoretical_JJ relationship_NN1 ._. 
+</s>
+<s>
+As_II the_AT table_NN1 on_II the_AT previous_JJ page_NN1 shows_NN2 ,_, this_DD1 is_VBZ indeed_RR the_AT case_NN1 and_CC the_AT deficit_NN1 is_VBZ 25-30%_FO of_IO the_AT theoretical_JJ value_NN1 ._. 
+</s>
+<s>
+Hence_RR the_AT results_NN2 are_VBR consistent_JJ with_IW my_APPGE prediction_NN1 ._. 
+</s>
+<s>
+As_CSA discussed_VVN in_II section_NN1 7.1.3_MC the_AT errors_NN2 in_II measurements_NN2 amount_NN1 to_II some_DD 17%_NNU ;_; these_DD2 may_VM contribute_VVI to_II some_DD of_IO that_DD1 25-30%_FO gap_NN1 as_II31 well_II32 as_II33 the_AT assumptions_NN2 and_CC simplifications_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO reduce_VVI errors_NN2 the_AT method_NN1 for_IF timing_VVG the_AT falling_JJ mass_NN1 could_VM be_VBI improved_VVN ._. 
+</s>
+<s>
+Light_JJ gates_NN2 could_VM be_VBI positioned_VVN a_AT1 set_NN1 distance_NN1 apart_RL and_CC the_AT mass_NN1 dropped_VVN such_CS21 that_CS22 its_APPGE path_NN1 activated_VVD each_DD1 light_JJ gate_NN1 ._. 
+</s>
+<s>
+A_AT1 computer_NN1 could_VM process_VVI the_AT response_NN1 from_II the_AT light_JJ gates_NN2 and_CC a_AT1 much_RR more_RGR accurate_JJ time_NNT1 measurement_NN1 could_VM be_VBI achieved_VVN ._. 
+</s>
+<s>
+This_DD1 would_VM reduce_VVI the_AT error_NN1 associated_VVN with_IW time_NNT1 measurement_NN1 to_II very_RG close_JJ to_TO zero_VVI ._. 
+</s>
+<s>
+As_CSA described_VVN in_II section_NN1 5.3_MC on_II page_NN1 6_MC ,_, there_EX is_VBZ flexibility_NN1 in_II method_NN1 such_CS21 that_CS22 either_RR the_AT distance_NN1 the_AT mass_JJ falls_NN2 is_VBZ fixed_VVN and_CC the_AT time_NNT1 taken_VVN for_IF it_PPH1 to_TO fall_VVI that_DD1 distance_NN1 is_VBZ measured_VVN or_CC the_AT time_NNT1 for_IF which_DDQ the_AT mass_NN1 is_VBZ allowed_VVN to_TO fall_VVI is_VBZ fixed_VVN and_CC the_AT distance_NN1 it_PPH1 travels_VVZ in_II that_DD1 time_NNT1 interval_NN1 is_VBZ measured_VVN ._. 
+</s>
+<s>
+The_AT former_DA method_NN1 was_VBDZ used_VVN but_CCB a_AT1 completely_RR new_JJ strategy_NN1 could_VM produce_VVI better_JJR results_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO reduce_VVI the_AT error_NN1 associated_VVN with_IW the_AT inaccuracy_NN1 of_IO the_AT measurement_NN1 of_IO the_AT disc_NN1 's_GE radii_NN2 a_AT1 better_JJR measuring_JJ device_NN1 could_VM be_VBI used_VVN ._. 
+</s>
+<s>
+Callipers_NN2 would_VM be_VBI more_RGR accurate_JJ than_CSN a_AT1 ruler_NN1 ._. 
+</s>
+<s>
+This_DD1 simple_JJ device_NN1 would_VM decrease_VVI error_NN1 to_II the_AT order_NN1 of_IO 0.1mm_NNU ;_; 0%_NNU in_II percentage_NN1 terms_NN2 ._. 
+</s>
+<s>
+These_DD2 two_MC alterations_NN2 to_II the_AT method_NN1 together_RL have_VH0 the_AT potential_JJ to_TO reduce_VVI the_AT estimated_JJ error_NN1 from_II 17%_NNU to_II just_RR 0.5%_FO ._. 
+</s>
+<s>
+The_AT individual_JJ discs_NN2 showed_VVD calculated_JJ values_NN2 of_IO the_AT moment_NN1 of_IO inertia_NN1 of_IO 70.9_MC ,_, 74.0_MC and_CC 74.2_MC as_CSA percentages_NN2 of_IO the_AT value_NN1 produced_VVD using_VVG the_AT theoretical_JJ relationship_NN1 ._. 
+</s>
+<s>
+These_DD2 percentages_NN2 have_VH0 a_AT1 spread_NN1 of_IO only_RR 3.3_MC and_CC so_RR it_PPH1 is_VBZ fair_JJ to_TO say_VVI that_CST there_EX is_VBZ good_JJ correlation_NN1 between_II the_AT different_JJ parts_NN2 of_IO the_AT experiment_NN1 ._. 
+</s>
+<s>
+The_AT small_JJ spread_NN1 is_VBZ testimony_NN1 to_II the_AT consistency_NN1 of_IO the_AT method_NN1 employed_VVD ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI noted_VVN that_CST where_CS only_RR three_MC parts_NN2 to_II an_AT1 experiment_NN1 exist_VV0 ,_, a_AT1 strong_JJ correlation_NN1 is_VBZ not_XX as_RG persuasive_JJ evidence_NN1 for_IF consistency_NN1 as_CSA when_CS many_DA2 parts_NN2 can_VM be_VBI compared_VVN ._. 
+</s>
+<s>
+The_AT estimated_JJ values_NN2 for_IF 'I'_NN1 using_VVG equation_NN1 (_( 6_MC )_) were_VBDR used_VVN as_II an_AT1 indicator_NN1 of_IO correlation_NN1 because_CS the_AT numbers_NN2 derived_VVN from_II the_AT graph_NN1 contain_VV0 higher_JJR error_NN1 ._. 
+</s>
+<s>
+The_AT extra_JJ error_NN1 in_II the_AT graphically_RR derived_VVN values_NN2 is_VBZ the_AT result_NN1 of_IO error_NN1 in_II the_AT line_NN1 of_IO best_RRT fit_VV0 and_CC gradient_NN1 calculations_NN2 made_VVN from_II it_PPH1 ._. 
+</s>
+<s>
+In_II the_AT experiment_NN1 both_DB2 objectives_NN2 were_VBDR achieved_VVN so_RR further_JJR work_NN1 would_VM require_VVI new_JJ objectives_NN2 to_TO be_VBI set_VVN ._. 
+</s>
+<s>
+As_II an_AT1 interesting_JJ test_NN1 ,_, the_AT three_MC discs_NN2 could_VM be_VBI tested_VVN on_II an_AT1 industrial_JJ machine_NN1 to_TO get_VVI a_AT1 more_RGR reliable_JJ measure_NN1 of_IO their_APPGE moments_NN2 of_IO inertia_NN1 ._. 
+</s>
+<s>
+Further_JJR comparisons_NN2 could_VM then_RT be_VBI made_VVN between_II those_DD2 values_NN2 and_CC ones_NN2 found_VVN in_II this_DD1 experiment_NN1 ._. 
+</s>
+<s>
+The_AT experiment_NN1 showed_VVD the_AT discs_NN2 to_TO have_VHI moments_NN2 of_IO inertia_NN1 :_: The_AT accuracy_NN1 of_IO these_DD2 numbers_NN2 is_VBZ good_JJ ._. 
+</s>
+<s>
+They_PPHS2 are_VBR all_DB within_II 30%_NNU of_IO the_AT value_NN1 found_VVD theoretically_RR ._. 
+</s>

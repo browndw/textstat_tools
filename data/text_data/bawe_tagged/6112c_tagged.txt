@@ -1,0 +1,210 @@
+<s>
+Breast_NN1 cancer_NN1 is_VBZ the_AT most_RGT common_JJ form_NN1 of_IO cancer_NN1 found_VVN in_II women_NN2 ;_; it_PPH1 is_VBZ on_II the_AT increase_NN1 and_CC is_VBZ therefore_RR a_AT1 serious_JJ concern_NN1 ._. 
+</s>
+<s>
+The_AT lifetime_NNT1 risk_NN1 of_IO developing_JJ breast_NN1 cancer_NN1 is_VBZ 1:11_MC for_IF women_NN2 and_CC 1:1000_MC for_IF men_NN2 ._. 
+</s>
+<s>
+Tumors_NN2 mainly_RR develop_VV0 in_II ductal_JJ endothelial_JJ cells_NN2 (_( 80%_NNU )_) but_CCB can_VM also_RR develop_VVI in_II lobular_JJ epithelium_NN1 (_( 20%_NNU )_) ._. 
+</s>
+<s>
+But_CCB what_DDQ causes_VVZ breast_NN1 cancer_NN1 and_CC what_DDQ are_VBR the_AT underlying_JJ molecular_JJ mechanisms_NN2 that_CST lead_VV0 to_II a_AT1 tumor_NN1 ?_? 
+</s>
+<s>
+Cancer_NN1 is_VBZ a_AT1 collection_NN1 of_IO diseases_NN2 with_IW the_AT common_JJ features_NN2 of_IO uncontrolled_JJ cell_NN1 growth_NN1 followed_VVN by_II metastasis_NN1 to_II surrounding_JJ tissues_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ this_DD1 metastasis_NN1 of_IO the_AT cancer_NN1 to_II sensitive_JJ areas_NN2 ,_, such_II21 as_II22 the_AT lymph_NN1 nodes_NN2 ,_, that_DD1 makes_VVZ breast_NN1 cancer_NN1 lethal_JJ ,_, as_CSA a_AT1 tumor_NN1 in_II the_AT breast_NN1 is_VBZ not_XX lethal_JJ in_II itself_PPX1 ._. 
+</s>
+<s>
+Other_JJ areas_NN2 breast_NN1 cancers_NN2 can_VM metastasise_VVI to_TO include_VVI the_AT bone_NN1 marrow_NN1 and_CC locally_RR to_II other_JJ areas_NN2 of_IO the_AT breast_NN1 ._. 
+</s>
+<s>
+The_AT formation_NN1 of_IO a_AT1 cancer_NN1 is_VBZ not_XX triggered_VVN by_II any_DD single_JJ event_NN1 ;_; cancers_NN2 are_VBR the_AT result_NN1 of_IO an_AT1 accumulation_NN1 of_IO errors_NN2 in_II vital_JJ regulatory_JJ pathways_NN2 ._. 
+</s>
+<s>
+(_( It_PPH1 is_VBZ thought_VVN that_CST between_II 4_MC and_CC 7_MC pathways_NN2 have_VH0 to_TO be_VBI disrupted_VVN for_IF a_AT1 cancer_NN1 to_TO develop_VVI in_II humans_NN2 ._. )_) 
+</s>
+<s>
+Gene_NN1 changes_NN2 play_VV0 a_AT1 major_JJ role_NN1 in_II disruption_NN1 of_IO cell_NN1 signaling_VVG pathways_NN2 and_CC fall_VV0 into_II two_MC groups_NN2 ;_; inherited_VVN and_CC sporadic_JJ ._. 
+</s>
+<s>
+Inherited_JJ gene_NN1 changes_NN2 leading_VVG to_II breast_NN1 cancer_NN1 account_NN1 for_IF 5_MC to_II 10_MC %_NNU of_IO all_DB breast_NN1 cancer_NN1 cases_NN2 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ important_JJ to_TO note_VVI that_CST expressing_VVG an_AT1 inherited_JJ defective_JJ gene_NN1 will_VM not_XX cause_VVI a_AT1 tumor_NN1 to_TO develop_VVI in_II itself_PPX1 ,_, but_CCB people_NN with_IW these_DD2 mutated_JJ genes_NN2 will_VM have_VHI an_AT1 increased_JJ susceptibility_NN1 to_II developing_JJ cancer_NN1 in_II their_APPGE breast_NN1 tissue_NN1 ._. 
+</s>
+<s>
+The_AT three_MC main_JJ mutated_JJ genes_NN2 that_CST are_VBR inherited_VVN through_II the_AT germline_NN1 are_VBR BRCA_NN1 1_MC1 ,_, BRCA_NP1 2_MC and_CC p53_FO ._. 
+</s>
+<s>
+They_PPHS2 are_VBR all_DB tumor_NN1 suppressor_NN1 genes_NN2 ._. 
+</s>
+<s>
+Mutated_JJ forms_NN2 of_IO the_AT BRCA_NN1 1_MC1 gene_NN1 (_( BReast_NN1 CAncer_NN1 1_MC1 )_) are_VBR found_VVN in_II half_DB of_IO the_AT familial_JJ breast_NN1 cancer_NN1 cases_NN2 and_CC 80%_NNU of_IO early_JJ onset_NN1 breast_NN1 cancer_NN1 cases_NN2 ._. 
+</s>
+<s>
+Women_NN2 who_PNQS possess_VV0 mutated_JJ alleles_NN2 of_IO BRCA_NN1 1_MC1 have_VH0 a_AT1 60%_NNU possibility_NN1 of_IO developing_JJ breast_NN1 cancer_NN1 ,_, compared_VVN to_II just_RR 2_MC %_NNU in_II women_NN2 with_IW wild-type_JJ BRCA_NN1 1_MC1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ located_VVN in_II the_AT "_" q_ZZ1 "_" arm_NN1 of_IO chromosome_NN1 17_MC and_CC the_AT protein_NN1 product_NN1 is_VBZ 1,863_MC amino_NN1 acids_NN2 in_II length_NN1 ._. 
+</s>
+<s>
+Under_II normal_JJ circumstance_NN1 this_DD1 protein_NN1 that_CST BRCA_NP1 1_MC1 codes_NN2 for_IF is_VBZ an_AT1 accessory_JJ protein_NN1 for_IF Rad51_FO (_( 2_MC )_) ._. 
+</s>
+<s>
+Rad51_FO is_VBZ one_MC1 of_IO seven_MC homologes_NN2 of_IO the_AT Rec_NP1 A_ZZ1 protein_NN1 ,_, its_APPGE function_NN1 ,_, which_DDQ is_VBZ dependent_JJ on_II BRCA_NP1 1_MC1 ,_, involves_VVZ the_AT repair_NN1 of_IO replication_NN1 forks_NN2 accidentally_RR damaged_VVN during_II the_AT S_NP1 Phase_NN1 of_IO the_AT cell_NN1 cycle_NN1 ._. 
+</s>
+<s>
+The_AT removal_NN1 of_IO the_AT Rad51_FO protein_NN1 results_NN2 in_II cell_NN1 death_NN1 whereas_CS the_AT removal_NN1 or_CC disruption_NN1 of_IO BRCA_NN1 1_MC1 leads_VVZ to_II the_AT accumulation_NN1 of_IO DNA_NN1 damage_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR 31_MC positions_NN2 along_II the_AT BRCA_NN1 1_MC1 gene_NN1 that_CST are_VBR known_VVN to_TO have_VHI mutated_VVN (_( 3_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ clear_JJ to_TO see_VVI that_CST any_DD of_IO these_DD2 mutations_NN2 ,_, which_DDQ affect_VV0 the_AT efficiency_NN1 of_IO BRCA_NN1 1_MC1 ,_, can_VM lead_VVI to_II the_AT development_NN1 of_IO breast_NN1 cancer_NN1 ._. 
+</s>
+<s>
+Another_DD1 important_JJ gene_NN1 that_CST is_VBZ commonly_RR mutated_VVN in_II breast_NN1 cancer_NN1 is_VBZ BRCA_NP1 2_MC (_( found_VVN on_II the_AT "_" q_ZZ1 "_" arm_NN1 of_IO chromosome_NN1 13_MC )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ another_DD1 tumor_NN1 suppressor_NN1 gene_NN1 the_AT protein_NN1 product_NN1 of_IO which_DDQ functions_VVZ in_RP much_RR the_AT same_DA way_NN1 as_CSA BRCA_NP1 1_MC1 ,_, ensuring_VVG the_AT DNA_NN1 repair_NN1 protein_NN1 Rad51_FO functions_VVZ properly_RR ._. 
+</s>
+<s>
+Mutations_NN2 in_II BRCA_NP1 2_MC account_VV0 for_IF almost_RR as_RG much_DA1 inherited_JJ susceptibility_NN1 to_II early_JJ onset_NN1 breast_NN1 cancer_NN1 as_CSA mutations_NN2 in_II BRCA_NP1 1_MC1 ._. 
+</s>
+<s>
+A_AT1 third_MD gene_NN1 involved_JJ in_II breast_NN1 cancer_NN1 is_VBZ the_AT p53_FO gene_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ another_DD1 tumor_NN1 suppressor_NN1 gene_NN1 and_CC is_VBZ found_VVN to_TO be_VBI mutated_VVN in_II at_RR21 least_RR22 50%_NNU of_IO all_DB cancer_NN1 cases_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ found_VVN in_II all_DB cells_NN2 in_II the_AT body_NN1 and_CC has_VHZ 3_MC main_JJ roles_NN2 ;_; controlling_VVG the_AT cell_NN1 cycle_NN1 ,_, triggering_VVG apoptosis_NN1 and_CC ensuring_VVG genetic_JJ stability_NN1 ._. 
+</s>
+<s>
+A_AT1 cell_NN1 with_IW either_RR a_AT1 mutated_JJ form_NN1 of_IO p53_FO ,_, or_CC with_IW the_AT p53_FO protein_NN1 absent_VV0 altogether_RR ,_, will_VM grow_VVI uncontrollably_RR ._. 
+</s>
+<s>
+Wild_JJ type_NN1 p53_FO is_VBZ activated_VVN when_CS there_EX is_VBZ damage_NN1 to_II the_AT DNA_NN1 of_IO a_AT1 cell_NN1 ._. 
+</s>
+<s>
+The_AT effect_NN1 p53_FO has_VHZ on_II the_AT cell_NN1 depends_VVZ on_II its_APPGE current_JJ position_NN1 in_II the_AT cell_NN1 cycle_NN1 ._. 
+</s>
+<s>
+If_CS the_AT DNA_NN1 damage_NN1 is_VBZ detected_VVN during_II the_AT G1_FO phase_NN1 then_RT p53_FO prevents_VVZ further_JJR progress_NN1 until_CS the_AT DNA_NN1 has_VHZ been_VBN repaired_VVN ._. 
+</s>
+<s>
+If_CS the_AT DNA_NN1 damage_NN1 is_VBZ detected_VVN during_II the_AT G2_FO phase_NN1 then_RT p53_FO triggers_VVZ apoptosis_NN1 (_( programmed_JJ cell_NN1 death_NN1 )_) (_( 4_MC )_) ._. 
+</s>
+<s>
+P53_FO exert_VV0 this_DD1 effect_NN1 on_II the_AT cell_NN1 cycle_NN1 in_II an_AT1 indirect_JJ way_NN1 ._. 
+</s>
+<s>
+It_PPH1 first_MD binds_VVZ to_II damaged_JJ DNA_NN1 ,_, through_II a_AT1 non-sequence_JJ specific_JJ binding_JJ site_NN1 ,_, which_DDQ activates_VVZ the_AT p53_FO ._. 
+</s>
+<s>
+A_AT1 second_MD binding_JJ domain_NN1 on_II the_AT protein_NN1 then_RT binds_VVZ to_II a_AT1 pallindromic_JJ 10_MC base_NN1 pair_NN sequence_NN1 on_II the_AT DNA_NN1 that_CST activates_VVZ either_RR cell_NN1 cycle_NN1 inhibitors_NN2 or_CC repair_VV0 proteins_NN2 ._. 
+</s>
+<s>
+Two_MC important_JJ genes_NN2 that_CST are_VBR regulated_VVN by_II p53_FO in_II this_DD1 way_NN1 (_( i.e._REX who_PNQS have_VH0 this_RG% 10_MC base_NN1 pair_NN sequence_NN1 in_II their_APPGE promoter_NN1 region_NN1 )_) are_VBR p21_FO and_CC GADD45._FO p21_FO is_VBZ a_AT1 cdk_NNU protein_NN1 (_( cyclin_NN1 dependent_JJ kinase_NN1 )_) that_CST inhibits_VVZ the_AT cell_NN1 cycle_NN1 and_CC GADD45_FO is_VBZ a_AT1 DNA_NN1 repair_NN1 protein_NN1 (_( 4_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ easy_JJ to_TO see_VVI ,_, therefore_RR ,_, that_DD1 loss_NN1 of_IO p53_FO function_NN1 in_II a_AT1 cell_NN1 gives_VVZ it_PPH1 a_AT1 growth_NN1 advantage_NN1 over_II other_JJ cells_NN2 ._. 
+</s>
+<s>
+Mutations_NN2 in_II p53_FO ,_, as_II31 well_II32 as_II33 the_AT BRCA_NN1 genes_NN2 ,_, encourage_VV0 cancers_NN2 by_II inhibiting_VVG DNA_NN1 repair_NN1 and_CC by_II allowing_VVG cells_NN2 with_IW mutated_JJ DNA_NN1 to_TO proliferate_VVI ._. 
+</s>
+<s>
+These_DD2 are_VBR major_JJ problems_NN2 but_CCB ,_, as_CSA has_VHZ been_VBN mentioned_VVN ,_, will_VM not_XX alone_RR cause_VVI a_AT1 cancer_NN1 to_TO grow_VVI ._. 
+</s>
+<s>
+People_NN without_IW these_DD2 genetic_JJ mutations_NN2 will_VM be_VBI just_RR as_RG vulnerable_JJ to_II carcinogens_NN2 and_CC mutagens_NN2 as_CSA people_NN with_IW these_DD2 mutations_NN2 ,_, but_CCB will_VM be_VBI far_RR more_RRR able_JK to_TO repair_VVI the_AT damage_NN1 these_DD2 carcinogens_NN2 are_VBR capable_JJ of_IO doing_VDG ,_, and_CC therefore_RR be_VBI at_II much_DA1 less_DAR risk_NN1 of_IO developing_JJ breast_NN1 cancer_NN1 ._. 
+</s>
+<s>
+Sporadic_JJ gene_NN1 changes_NN2 account_VV0 for_IF the_AT remaining_JJ 90_MC to_II 95%_NNU of_IO breast_NN1 cancer_NN1 cases_NN2 and_CC include_VV0 changes_NN2 in_II the_AT EGF_NN1 receptor_NN1 family_NN1 (_( epidermal_JJ growth_NN1 factor_NN1 )_) ,_, changes_NN2 in_II the_AT oestrogen_NN1 receptor_NN1 (_( ER_FU )_) and_CC changes_NN2 in_II the_AT cyclin_NN1 D_ZZ1 gene_NN1 ._. 
+</s>
+<s>
+The_AT cyclin_NN1 D_ZZ1 gene_NN1 has_VHZ been_VBN found_VVN to_TO be_VBI amplified_VVN in_II 15_MC to_II 20%_NNU of_IO breast_NN1 cancer_NN1 cases_NN2 (_( 5_MC )_) ._. 
+</s>
+<s>
+The_AT relevance_NN1 of_IO this_DD1 protein_NN1 in_II breast_NN1 cancer_NN1 comes_VVZ from_II the_AT role_NN1 cyclin_NN1 D_ZZ1 plays_VVZ in_II regulation_NN1 of_IO the_AT cell_NN1 cycle_NN1 ._. 
+</s>
+<s>
+Cyclin_NN1 D_ZZ1 phosphorylates_VVZ the_AT protein_NN1 Rb_NP1 ._. 
+</s>
+<s>
+Rb_NP1 is_VBZ a_AT1 tumor_NN1 suppressor_NN1 gene_NN1 ,_, the_AT protein_NN1 product_NN1 of_IO which_DDQ regulates_VVZ whether_CSW a_AT1 cell_NN1 should_VM enter_VVI the_AT cell_NN1 division_NN1 cycle_NN1 or_CC not_XX ,_, (_( i.e._REX it_PPH1 inhibits_VVZ entry_NN1 of_IO a_AT1 cell_NN1 into_II the_AT S_NP1 phase_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 inhibition_NN1 is_VBZ relieved_VVN by_II phosphorylation_NN1 of_IO Rb_NP1 ,_, a_AT1 reaction_NN1 undertaken_VVN by_II cyclin_NN1 D_ZZ1 (_( other_JJ kinases_NN2 are_VBR also_RR able_JK to_TO phosphorylate_VVI Rb_NP1 )_) (_( 2_MC )_) ._. 
+</s>
+<s>
+Mutations_NN2 in_II the_AT EGF_NN1 receptor_NN1 can_VM promote_VVI cancer_NN1 by_II being_VBG inappropriately_RR active_JJ ,_, this_DD1 means_VVZ certain_JJ cells_NN2 are_VBR receiving_VVG a_AT1 signal_NN1 to_TO grow_VVI and_CC proliferate_VVI even_CS21 when_CS22 they_PPHS2 are_VBR not_XX required_VVN ._. 
+</s>
+<s>
+This_DD1 results_VVZ in_II inappropriate_JJ DNA_NN1 replication_NN1 ,_, cell_NN1 growth_NN1 and_CC cell_NN1 division_NN1 (_( 2_MC )_) ._. 
+</s>
+<s>
+It_PPH1 has_VHZ also_RR been_VBN found_VVN that_CST 25%_NNU of_IO breast_NN1 cancers_NN2 express_VV0 high_JJ levels_NN2 of_IO the_AT Her2_FO protein_NN1 ,_, a_AT1 tyrosine_NN1 kinase_NN1 receptor_NN1 similar_JJ to_II the_AT EGF_NN1 receptor_NN1 ,_, which_DDQ plays_VVZ a_AT1 part_NN1 in_II the_AT normal_JJ development_NN1 of_IO the_AT mammary_JJ epithelium_NN1 (_( 6_MC )_) ._. 
+</s>
+<s>
+The_AT oestrogen_NN1 receptor_NN1 plays_VVZ a_AT1 major_JJ role_NN1 in_II breast_NN1 cancer_NN1 as_CSA most_DAT breast_NN1 cancers_NN2 are_VBR oestrogen_NN1 dependent_NN1 (_( ER+_FO )_) ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT cancerous_JJ cells_NN2 rely_VV0 on_II oestrogen_NN1 to_TO grow_VVI and_CC proliferate_NN1 ._. 
+</s>
+<s>
+Therefore_RR changes_VVZ in_II the_AT oestrogen_NN1 receptor_NN1 (_( ER_FU )_) ,_, and_CC chemicals_NN2 that_CST mimic_VV0 oestrogen_NN1 (_( oestrogenic_JJ chemicals_NN2 )_) ,_, are_VBR a_AT1 concern_NN1 ._. 
+</s>
+<s>
+If_CS oestrogenic_JJ chemicals_NN2 ,_, such_II21 as_II22 parabens_NN2 and_CC polychlorinated_JJ biphenyls_NN2 ,_, find_VV0 their_APPGE way_NN1 into_II the_AT adipose_VV0 tissue_NN1 of_IO the_AT breast_NN1 then_RT they_PPHS2 may_VM have_VHI the_AT effect_NN1 of_IO stimulating_JJ cells_NN2 to_TO grow_VVI and_CC proliferate_VVI at_II a_AT1 faster_JJR rate_NN1 ._. 
+</s>
+<s>
+These_DD2 oestrogenic_JJ chemicals_NN2 therefore_RR have_VH0 the_AT ability_NN1 to_TO promote_VVI the_AT growth_NN1 of_IO cells_NN2 in_II a_AT1 tumor_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT majority_NN1 of_IO breast_NN1 tumors_NN2 being_NN1% ER+_FO most_DAT of_IO the_AT treatments_NN2 available_JJ aim_NN1 to_TO either_RR block_VVI the_AT oestrogen_NN1 receptor_NN1 or_CC to_TO reduce_VVI the_AT concentration_NN1 of_IO oestrogen_NN1 in_II or_CC around_II the_AT cancerous_JJ cells_NN2 ._. 
+</s>
+<s>
+A_AT1 group_NN1 of_IO drugs_NN2 used_VVD ,_, called_VVN anti-oestrogens_NN2 ,_, act_VV0 as_CSA oestrogen_NN1 antagonists_NN2 ,_, and_CC include_VV0 drugs_NN2 such_II21 as_II22 Tamoxifen_NP1 and_CC Raloxifen_NP1 (_( 7_MC )_) ._. 
+</s>
+<s>
+Tamoxifen_NN1 binds_VVZ to_II the_AT ER_NP1 and_CC disrupts_VVZ its_APPGE function_NN1 ._. 
+</s>
+<s>
+It_PPH1 does_VDZ not_XX completely_RR inhibit_VVI the_AT ER_NP1 and_CC is_VBZ therefore_RR considered_VVN a_AT1 partial_JJ anti-oestrogen_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+A_AT1 group_NN1 of_IO drugs_NN2 that_CST are_VBR widely_RR used_VVN are_VBR the_AT aromatase_NN1 inhibitors_NN2 (_( AIs_NN2 )_) ._. 
+</s>
+<s>
+These_DD2 drugs_NN2 aim_VV0 to_TO reduce_VVI the_AT concentration_NN1 of_IO oestrogen_NN1 in_II cancerous_JJ cells_NN2 ._. 
+</s>
+<s>
+Their_APPGE mechanism_NN1 involves_VVZ the_AT blocking_NN1 of_IO the_AT aromatase_NN1 enzyme_NN1 that_CST is_VBZ responsible_JJ for_IF converting_VVG androgens_NN2 to_II oestrogens_NN2 ._. 
+</s>
+<s>
+AIs_NN2 are_VBR traditionally_RR used_VVN to_TO treat_VVI breast_NN1 cancer_NN1 in_II premenopausal_NN1 women_NN2 ,_, as_CSA oestrogen_NN1 activity_NN1 is_VBZ restricted_VVN to_II the_AT breast_NN1 and_CC ovaries_NN2 during_II this_DD1 time_NNT1 ,_, but_CCB trials_NN2 are_VBR currently_RR underway_RR to_TO investigate_VVI the_AT effectiveness_NN1 of_IO using_VVG AIs_NN2 on_II postmenopausal_NN1 women_NN2 ._. 
+</s>
+<s>
+AIs_NN2 are_VBR not_XX prescribed_VVN to_II postmenopausal_NN1 women_NN2 due_II21 to_II22 the_AT wide_JJ distribution_NN1 of_IO oestrogen_NN1 throughout_II the_AT body_NN1 during_II this_DD1 time_NNT1 ._. 
+</s>
+<s>
+Herceptin_NN1 ,_, a_AT1 relatively_RR new_JJ anti-cancer_JJ drug_NN1 ,_, works_VVZ by_II binding_VVG to_II a_AT1 growth_NN1 factor_NN1 receptor_NN1 ,_, reducing_VVG the_AT stimulus_NN1 for_IF the_AT cancer_NN1 cells_NN2 to_TO proliferate_VVI (_( 8_MC )_) ._. 
+</s>
+<s>
+These_DD2 treatments_NN2 are_VBR effective_JJ ,_, but_CCB only_RR if_CS the_AT tumor_NN1 remains_VVZ oestrogen_NN1 dependent_NN1 ._. 
+</s>
+<s>
+Most_DAT breast_NN1 tumors_NN2 develop_VV0 oestrogen_NN1 resistance_NN1 though_CS ,_, making_VVG endocrine_JJ treatment_NN1 useless_JJ and_CC therefore_RR relying_VVG on_II the_AT more_RGR traditional_JJ methods_NN2 ,_, such_II21 as_II22 radiotherapy_NN1 and_CC possibly_RR surgery_NN1 ._. 
+</s>
+<s>
+So_RR it_PPH1 can_VM be_VBI seen_VVN that_CST for_IF a_AT1 tumor_NN1 to_TO develop_VVI in_II breast_NN1 tissue_NN1 there_EX has_VHZ to_TO be_VBI a_AT1 series_NN of_IO errors_NN2 ,_, involving_VVG damage_NN1 to_II DNA_NN1 ,_, damage_VV0 to_II genes_NN2 controlling_VVG aspects_NN2 of_IO the_AT cell_NN1 (_( such_II21 as_II22 DNA_NN1 repair_NN1 and_CC replication_NN1 )_) and_CC an_AT1 increased_JJ stimulus_NN1 for_IF cells_NN2 to_TO proliferate_VVI ._. 
+</s>
+<s>
+These_DD2 errors_NN2 can_VM culminate_VVI in_II a_AT1 tumor_NN1 that_CST has_VHZ the_AT ability_NN1 to_TO metastasise_VVI to_II other_JJ areas_NN2 of_IO the_AT body_NN1 with_IW possibly_RR lethal_JJ consequences_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, oestrogenic_JJ chemicals_NN2 in_II our_APPGE environment_NN1 ,_, which_DDQ have_VH0 the_AT potential_JJ to_TO encourage_VVI the_AT growth_NN1 of_IO breast_NN1 tumors_NN2 ,_, need_VV0 to_TO be_VBI identified_VVN and_CC assessed_VVN for_IF the_AT potential_JJ threat_NN1 they_PPHS2 present_VV0 ._. 
+</s>

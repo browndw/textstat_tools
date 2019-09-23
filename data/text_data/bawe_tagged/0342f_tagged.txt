@@ -1,0 +1,147 @@
+<s>
+The_AT main_JJ objective_NN1 of_IO this_DD1 report_NN1 is_VBZ for_IF me_PPIO1 to_TO understand_VVI how_RRQ the_AT two_MC seven_MC segment_NN1 displays_VVZ on_II the_AT M16C_FO microprocessor_NN1 are_VBR driven_VVN on_II a_AT1 time_NNT1 multiplexed_VVD basis_NN1 ,_, which_DDQ output_VV0 pins_NN2 of_IO the_AT microprocessor_NN1 are_VBR required_VVN to_TO activate_VVI both_DB2 the_AT individual_JJ segments_NN2 of_IO the_AT seven_MC segment_NN1 displays_NN2 and_CC how_RRQ to_TO activate_VVI a_AT1 particular_JJ display_NN1 device_NN1 along_II21 with_II22 the_AT required_JJ voltage_NN1 levels_NN2 ._. 
+</s>
+<s>
+As_II31 well_II32 as_II33 this_DD1 I_PPIS1 must_VM understand_VVI how_RRQ manipulate_VV0 code_NN1 to_TO rotate_VVI one_MC1 segment_NN1 of_IO the_AT LED1display_FO clockwise_RR ,_, then_RT displaying_VVG all_DB of_IO the_AT segments_NN2 simultaneously_RR and_CC then_RT displaying_VVG only_RR the_AT decimal_JJ point_NN1 ._. 
+</s>
+<s>
+I_PPIS1 achieved_VVD this_DD1 by_II investigating_VVG how_RRQ to_TO use_VVI HEX_NN1 code_NN1 in_II a_AT1 lookup_NN1 table_NN1 to_TO display_VVI the_AT desired_JJ segments_NN2 at_II the_AT correct_JJ time_NNT1 ._. 
+</s>
+<s>
+I_PPIS1 managed_VVD to_TO display_VVI the_AT output_NN1 specified_VVN in_II the_AT briefing_NN1 sheet_NN1 ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 laboratory_NN1 was_VBDZ to_TO write_VVI a_AT1 program_NN1 for_IF the_AT M16C_FO microcontroller_NN1 to_TO rotate_VVI one_MC1 segment_NN1 of_IO the_AT LED1_FO clockwise_RR then_RT output_VV0 all_DB of_IO the_AT segments_NN2 simultaneously_RR then_RT displays_VVZ only_RR the_AT decimal_JJ point_NN1 and_CC repeats_NN2 ._. 
+</s>
+<s>
+Code_NN1 was_VBDZ written_VVN using_VVG the_AT IAR_NN1 Embedded_JJ Workbench_NN1 software_NN1 ._. 
+</s>
+<s>
+A_AT1 look-up_NN1 table_NN1 for_IF the_AT LEDs_NN2 in_II31 terms_II32 of_II33 bytes_NNU2 was_VBDZ required_VVN as_II31 well_II32 as_II33 defining_VVG the_AT input/output_NN1 ports_NN2 and_CC code_NN1 to_TO switch_VVI the_AT correct_JJ LED_NN1 on_RP ._. 
+</s>
+<s>
+The_AT objective_NN1 of_IO the_AT report_NN1 was_VBDZ to_TO enhance_VVI knowledge_NN1 of_IO extended_JJ C_NP1 programming_NN1 code_NN1 ,_, specifically_RR in_II this_DD1 case_NN1 the_AT code_NN1 required_VVN to_TO control_VVI the_AT M16C_FO microcontroller_NN1 ._. 
+</s>
+<s>
+The_AT two_MC LED_NN1 segment_NN1 displays_NN2 are_VBR both_RR run_VVN from_II the_AT same_DA eight_MC output_NN1 pins_NN2 of_IO the_AT microprocessor_NN1 ._. 
+</s>
+<s>
+If_CS both_DB2 LED_NN1 segments_NN2 are_VBR set_VVN to_TO display_VVI information_NN1 from_II these_DD2 ports_NN2 at_II the_AT same_DA time_NNT1 ,_, they_PPHS2 will_VM display_VVI the_AT same_DA data_NN ._. 
+</s>
+<s>
+The_AT eight_MC output_NN1 pins_NN2 change_VV0 state_NN1 at_II a_AT1 very_RG fast_JJ rate_NN1 ._. 
+</s>
+<s>
+Alongside_II these_DD2 eight_MC pins_NN2 are_VBR two_MC more_DAR output_NN1 pins_NN2 ._. 
+</s>
+<s>
+These_DD2 select_VV0 which_DDQ LED_NN1 segment_NN1 display_NN1 information_NN1 ._. 
+</s>
+<s>
+At_II one_MC1 moment_NN1 in_II time_NNT1 ,_, one_MC1 LED_NN1 segment_NN1 shall_VM be_VBI displaying_VVG information_NN1 from_II the_AT eight_MC output_NN1 pins_NN2 ;_; milliseconds_NNT2 after_CS this_DD1 ,_, the_AT other_JJ segment_NN1 shall_VM display_VVI information_NN1 (_( which_DDQ has_VHZ now_RT changed_VVN )_) from_II the_AT same_DA pins_NN2 ._. 
+</s>
+<s>
+To_II the_AT user_NN1 this_DD1 has_VHZ the_AT effect_NN1 of_IO both_DB2 LED_NN1 segments_NN2 being_VBG controlled_VVN separately_RR at_II the_AT same_DA time_NNT1 from_II only_RR eight_MC output_NN1 pins_NN2 and_CC two_MC LED_NN1 selector_NN1 pins_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ due_II21 to_II22 the_AT fact_NN1 that_CST the_AT human_JJ eye_NN1 can_VM not_XX respond_VVI to_II the_AT difference_NN1 in_II the_AT displays_NN2 fast_RR enough_RR ._. 
+</s>
+<s>
+If_CS a_AT1 slow_JJ motion_NN1 camera_NN1 was_VBDZ to_TO capture_VVI information_NN1 displayed_VVN on_II the_AT two_MC different_JJ segments_NN2 they_PPHS2 would_VM seem_VVI to_TO flash_VVI on_RP and_CC off_II one_PN1 after_II the_AT other_JJ ._. 
+</s>
+<s>
+The_AT seven_MC segment_NN1 LED_NN1 display_VV0 below_RL shows_VVZ the_AT arrangement_NN1 of_IO the_AT different_JJ segments_NN2 corresponding_VVG to_II the_AT different_JJ output_NN1 ports_NN2 shown_VVN in_II the_AT table_NN1 below_RL ._. 
+</s>
+<s>
+For_IF a_AT1 segment_NN1 to_TO be_VBI displayed_VVN ,_, the_AT corresponding_JJ output_NN1 port_NN1 must_VM be_VBI low_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, to_TO display_VVI zero_NN1 ,_, ports_NN2 corresponding_VVG to_II segments_NN2 A_ZZ1 ,_, B_ZZ1 ,_, C_ZZ1 ,_, D_ZZ1 ,_, E_ZZ1 and_CC F_ZZ1 would_VM all_DB have_VHI to_TO be_VBI low_JJ ,_, whilst_CS G_ZZ1 and_CC DP_NP1 would_VM need_VVI to_TO be_VBI high_JJ (_( any_DD values_NN2 referred_VVN to_II as_RG "_" high_JJ "_" or_CC "_" 1_MC1 "_" are_VBR above_II 5V_NNU DC_NP1 ,_, "_" low_JJ "_" or_CC "_" 0_MC "_" values_NN2 are_VBR 0V_NNU DC_NP1 )_) ._. 
+</s>
+<s>
+Ports_NN2 P1.0_FO and_CC P1.1_FO state_VV0 which_DDQ LED_NN1 display_NN1 is_VBZ receiving_VVG data_NN and_CC therefore_RR which_DDQ LED_NN1 segment_NN1 is_VBZ on_RP ._. 
+</s>
+<s>
+A_AT1 high_JJ output_NN1 from_II P1.0_FO causes_VVZ LED1_FO to_TO display_VVI all_DB P0_FO bits_NN2 ._. 
+</s>
+<s>
+A_AT1 high_JJ output_NN1 from_II P1.1_FO causes_VVZ LED2_FO to_TO display_VVI all_DB P0_FO bits_NN2 ._. 
+</s>
+<s>
+If_CS the_AT LED_NN1 segment_NN1 was_VBDZ to_TO display_VVI 0_MC ,_, in_II binary_NN1 the_AT output_NN1 ports_NN2 would_VM be_VBI displayed_VVN as_CSA follows_VVZ :_: The_AT look-up_NN1 table_NN1 for_IF the_AT program_NN1 is_VBZ displayed_VVN in_II HEX_NP1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT binary_JJ numbers_NN2 equivalent_JJ to_II the_AT desired_JJ output_NN1 display_NN1 of_IO the_AT LED_NN1 display_NN1 must_VM be_VBI converted_VVN into_II HEX_NP1 to_TO be_VBI inserted_VVN into_II the_AT lookup_NN1 table_NN1 ._. 
+</s>
+<s>
+The_AT table_NN1 below_II shows_NN2 how_RRQ to_TO convert_VVI binary_JJ digits_NN2 into_II hex_NN1 ._. 
+</s>
+<s>
+To_TO display_VVI 0_MC (_( as_CSA shown_VVN in_II binary_NN1 above_RL )_) ,_, the_AT binary_JJ code_NN1 to_TO control_VVI the_AT LED_NN1 display_NN1 would_VM have_VHI to_TO be_VBI split_VVN in_RP into_II 2_MC HEX_NN1 digits_NN2 ._. 
+</s>
+<s>
+The_AT HEX_NN1 code_NN1 to_TO display_VVI "_" 0_MC "_" on_II the_AT LED_NN1 segment_NN1 would_VM therefore_RR be_VBI C0_FO (_( binary_JJ code_NN1 =_FO 11000000_MC )_) ._. 
+</s>
+<s>
+The_AT desired_JJ lookup_NN1 table_NN1 has_VHZ the_AT effect_NN1 of_IO rotating_VVG one_MC1 segment_NN1 of_IO the_AT LED1_FO clockwise_RR ,_, then_RT displaying_VVG all_DB of_IO the_AT segments_NN2 simultaneously_RR and_CC then_RT displaying_VVG only_RR the_AT decimal_JJ point_NN1 ._. 
+</s>
+<s>
+From_II the_AT code_NN1 provided_VVN in_II appendix_NN1 C_ZZ1 of_IO the_AT briefing_NN1 sheet_NN1 (_( see_VV0 appendix_NN1 )_) for_IF the_AT laboratory_NN1 we_PPIS2 can_VM see_VVI the_AT first_MD HEX_NN1 digits_NN2 in_II the_AT lookup_NN1 table_NN1 is_VBZ C0_FO ._. 
+</s>
+<s>
+This_DD1 causes_VVZ A_ZZ1 to_TO be_VBI lit_VVN on_II the_AT seven_MC segment_NN1 display_NN1 (_( binary_JJ code_NN1 111111110_MC )_) ._. 
+</s>
+<s>
+FD_NP1 are_VBR the_AT next_MD digits_NN2 given_VVN ,_, causing_VVG B_ZZ1 to_TO be_VBI lit_VVN on_II the_AT seven_MC segment_NN1 display_NN1 (_( binary_JJ code_NN1 11111101_MC )_) ._. 
+</s>
+<s>
+The_AT next_MD HEX_NN1 digits_NN2 for_IF the_AT lookup_NN1 table_NN1 are_VBR not_XX defined_VVN in_II the_AT code_NN1 given_VVN in_II the_AT briefing_NN1 sheet_NN1 ._. 
+</s>
+<s>
+The_AT next_MD HEX_NN1 digits_NN2 would_VM need_VVI to_TO display_VVI the_AT segment_NN1 equivalent_NN1 to_II C_NP1 ,_, D_ZZ1 and_CC E_ZZ1 on_II the_AT seven_MC segment_NN1 display_NN1 ._. 
+</s>
+<s>
+The_AT binary_JJ code_NN1 required_VVN to_TO display_VVI C_NP1 ,_, D_ZZ1 and_CC E_ZZ1 is_VBZ shown_VVN below_RL :_: Using_VVG the_AT table_NN1 provided_VVN in_II page_NN1 1_MC1 of_IO the_AT appendix_NN1 ,_, it_PPH1 can_VM be_VBI shown_VVN that_CST the_AT binary_JJ number_NN1 to_TO display_VVI C_ZZ1 is_VBZ equivalent_JJ to_II FB_NP1 ,_, the_AT binary_JJ number_NN1 to_TO display_VVI D_ZZ1 is_VBZ equivalent_JJ to_II F7_FO and_CC the_AT binary_JJ number_NN1 to_TO display_VVI C_ZZ1 is_VBZ equivalent_JJ to_II EF_NP1 ._. 
+</s>
+<s>
+The_AT code_NN1 provided_VVN in_II appendix_NN1 C_ZZ1 of_IO the_AT briefing_NN1 sheet_NN1 (_( see_VV0 appendix_NN1 )_) then_RT shows_VVZ DF_NN1 ,_, BF_NP1 ,_, 7F_FO ,_, 00_MC ,_, 00_MC in_II the_AT lookup_NN1 table_NN1 ,_, these_DD2 HEX_VV0 decimals_NN2 display_VV0 (_( in_II consecutive_JJ order_NN1 )_) F_ZZ1 ,_, G_ZZ1 ,_, DP_NP1 and_CC all_DB segments_NN2 twice_RR ._. 
+</s>
+<s>
+This_DD1 has_VHZ the_AT desired_JJ effect_NN1 of_IO rotating_VVG one_MC1 segment_NN1 of_IO the_AT LED1_FO display_VV0 clockwise_RR ,_, then_RT displaying_VVG all_DB of_IO the_AT segments_NN2 simultaneously_RR and_CC then_RT displaying_VVG only_RR the_AT decimal_JJ point_NN1 ._. 
+</s>
+<s>
+It_PPH1 does_VDZ not_XX however_RR cause_VVI the_AT segments_NN2 to_TO be_VBI displayed_VVN in_II the_AT correct_JJ order_NN1 ._. 
+</s>
+<s>
+The_AT lookup_NN1 table_NN1 would_VM display_VVI one_PN1 rotating_VVG segment_NN1 ,_, then_RT display_VV0 the_AT decimal_JJ point_NN1 and_CC then_RT display_VV0 all_DB segments_NN2 for_IF twice_RR as_RG long_RR as_CSA any_DD other_JJ segments_NN2 are_VBR displayed_VVN ._. 
+</s>
+<s>
+The_AT required_JJ lookup_NN1 table_NN1 with_IW the_AT correct_JJ segments_NN2 being_VBG displayed_VVN in_II the_AT correct_JJ order_NN1 is_VBZ displayed_VVN below_RL :_: This_DD1 has_VHZ the_AT desired_JJ effect_NN1 of_IO rotating_VVG one_MC1 segment_NN1 of_IO the_AT LED1_FO display_VV0 clockwise_RR ,_, then_RT displaying_VVG all_DB of_IO the_AT segments_NN2 simultaneously_RR and_CC then_RT displaying_VVG only_RR the_AT decimal_JJ point_NN1 ._. 
+</s>
+<s>
+Detailed_JJ instructions_NN2 of_IO how_RRQ to_TO use_VVI the_AT IAR_NN1 embedded_JJ workbench_NN1 program_NN1 to_TO allow_VVI the_AT code_NN1 to_TO communicate_VVI with_IW the_AT M16C_FO microcontroller_NN1 is_VBZ provided_VVN in_II the_AT "_" Procedure_NN1 "_" section_NN1 of_IO the_AT laboratory_NN1 briefing_NN1 sheet_NN1 (_( see_VV0 appendix_NN1 )_) ._. 
+</s>
+<s>
+When_CS the_AT program_NN1 is_VBZ run_VVN ,_, LED1_FO displays_VVZ segments_NN2 A_ZZ1 on_II LED1_FO ,_, but_CCB not_XX on_II LED2_FO ._. 
+</s>
+<s>
+The_AT segment_NN1 rotates_VVZ clockwise_RR around_II the_AT seven_MC segment_NN1 display_NN1 ._. 
+</s>
+<s>
+All_DB LED_NN1 segments_NN2 are_VBR then_RT displayed_VVN for_IF twice_RR as_RG long_RR ._. 
+</s>
+<s>
+The_AT decimal_JJ point_NN1 is_VBZ then_RT lit_VVN ._. 
+</s>
+<s>
+Segment_NN1 A_ZZ1 is_VBZ then_RT lit_VVN again_RT and_CC the_AT process_NN1 repeats_NN2 ._. 
+</s>
+<s>
+During_II this_DD1 laboratory_NN1 I_PPIS1 have_VH0 learnt_VVN how_RRQ the_AT two_MC seven_MC segment_NN1 displays_NN2 are_VBR driven_VVN on_II a_AT1 time_NNT1 multiplexed_VVD basis_NN1 ._. 
+</s>
+<s>
+I_PPIS1 have_VH0 also_RR learnt_VVN which_DDQ output_VV0 pins_NN2 of_IO the_AT microprocessor_NN1 are_VBR required_VVN to_TO activate_VVI both_DB2 the_AT individual_JJ segments_NN2 of_IO the_AT seven_MC segment_NN1 displays_NN2 and_CC activate_VV0 the_AT particular_JJ display_NN1 device_NN1 along_II21 with_II22 the_AT required_JJ voltage_NN1 levels_NN2 ._. 
+</s>
+<s>
+I_PPIS1 now_RT know_VV0 how_RRQ to_TO manipulate_VVI the_AT output_NN1 ports_NN2 of_IO the_AT M16C_FO microprocessor_NN1 to_TO display_VVI anything_PN1 I_PPIS1 want_VV0 to_TO on_RP the_AT seven_MC segment_NN1 LED_NN1 displays_NN2 and_CC the_AT theory_NN1 behind_II it_PPH1 ._. 
+</s>

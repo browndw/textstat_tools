@@ -1,0 +1,423 @@
+<s>
+Legionella_NN1 pneumophila_NN1 ,_, a_AT1 natural_JJ parasite_NN1 of_IO amoebae_NN2 is_VBZ an_AT1 opportunistic_JJ pathogen_NN1 of_IO humans_NN2 when_CS inhaled_VVN in_II water_NN1 droplets_NN2 ._. 
+</s>
+<s>
+The_AT pathway_NN1 taken_VVN in_II amoebae_NN2 is_VBZ the_AT same_DA as_CSA macrophage_NN1 ,_, with_IW differences_NN2 only_RR in_II the_AT entry_NN1 ._. 
+</s>
+<s>
+This_DD1 ,_, along_II21 with_II22 virulence_NN1 factors_NN2 expressed_VVN ,_, is_VBZ thought_VVN to_TO be_VBI important_JJ to_II the_AT survival_NN1 in_II humans_NN2 ,_, a_AT1 host_NN1 that_CST would_VM usually_RR kill_VVI the_AT organism_NN1 ._. 
+</s>
+<s>
+It_PPH1 survives_VVZ by_II creating_VVG conditions_NN2 ideal_JJ for_IF its_APPGE growth_NN1 and_CC replication_NN1 in_II its_APPGE phagosome_JJ ,_, then_RT by_II induced_JJ factors_NN2 fuses_VVZ with_IW the_AT host_NN1 lysosomes_NN2 ,_, creating_VVG another_DD1 niche_NN1 ,_, and_CC finally_RR upon_II exhaustion_NN1 of_IO nutrient_NN1 supply_NN1 ,_, lyses_VVZ the_AT host_NN1 cell_NN1 and_CC moves_VVZ onto_II another_DD1 ,_, causing_VVG pneumonias_NN2 ._. 
+</s>
+<s>
+Legionellosis_NN1 is_VBZ a_AT1 recently_RR emerged_VVD disease_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ first_MD found_VVN in_II humans_NN2 in_II an_AT1 outbreak_NN1 of_IO pneumonia_NN1 at_II a_AT1 meeting_NN1 of_IO the_AT American_JJ Legion_NN1 in_II 1976_MC ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 major_JJ concern_NN1 with_IW the_AT 1000_MC US_NP1 cases_NN2 reported_VVD each_DD1 year_NNT1 thought_VVD to_TO constitute_VVI only_RR 10%_NNU of_IO the_AT actual_JJ cases_NN2 ,_, which_DDQ is_VBZ steadily_RR rising_VVG ._. 
+</s>
+<s>
+Legionellosis_NN1 accounts_VVZ for_IF about_II 2-15%_FO of_IO all_DB community_NN1 obtained_VVD pneumonias_NN2 ._. 
+</s>
+<s>
+Cell_NN1 mediated_VVD immunity_NN1 in_II healthy_JJ individuals_NN2 is_VBZ able_JK to_TO control_VVI L._NP1 pneumophila_NN1 lung_NN1 infections_NN2 ._. 
+</s>
+<s>
+However_RR ,_, being_VBG the_AT opportunistic_JJ pathogen_NN1 that_CST it_PPH1 is_VBZ ,_, in_II the_AT elderly_JJ and_CC those_DD2 with_IW previously_RR compromised_JJ immune_JJ systems_NN2 ,_, pneumonias_NN2 known_VVN as_II Legionnaires_NP1 disease_NN1 can_VM arise_VVI ._. 
+</s>
+<s>
+In_II these_DD2 individuals_NN2 it_PPH1 has_VHZ the_AT opportunity_NN1 to_TO replicate_VVI and_CC consequently_RR kill_VVI human_JJ macrophage_NN1 ._. 
+</s>
+<s>
+Initial_JJ symptoms_NN2 include_VV0 intestinal_JJ disorders_NN2 ,_, high_JJ fever_NN1 ,_, chills_NN2 and_CC muscle_NN1 aches_NN2 ,_, which_DDQ are_VBR closely_RR followed_VVN by_II pneumonia_NN1 ._. 
+</s>
+<s>
+When_CS pneumonia_NN1 arises_VVZ respiratory_JJ failure_NN1 is_VBZ the_AT major_JJ cause_NN1 of_IO death_NN1 ,_, in_RP about_RG five_MC to_II fifteen_MC percent_NNU of_IO cases_NN2 ._. 
+</s>
+<s>
+However_RRQV pneumonia_NN1 is_VBZ not_XX always_RR the_AT result_NN1 of_IO infection_NN1 ._. 
+</s>
+<s>
+In_II many_DA2 cases_NN2 ,_, the_AT result_NN1 is_VBZ Pontiac_JJ fever_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM have_VHI either_RR no_AT symptoms_NN2 ,_, or_CC brief_JJ mild_JJ headaches_NN2 and_CC fever_NN1 ._. 
+</s>
+<s>
+Without_IW treatment_NN1 this_DD1 is_VBZ self-limiting_JJ and_CC clears_VVZ in_II two_MC to_II five_MC days_NNT2 ,_, and_CC is_VBZ thought_VVN to_TO account_VVI for_IF many_DA2 of_IO the_AT undiagnosed_JJ infections_NN2 due_II21 to_II22 its_APPGE high_JJ attack_NN1 rate_NN1 ,_, but_CCB zero_NN1 mortality_NN1 rate_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX known_VVN whether_CSW this_DD1 is_VBZ caused_VVN by_II bacterial_JJ toxin_NN1 or_CC the_AT result_NN1 of_IO a_AT1 strong_JJ immune_JJ response_NN1 to_II the_AT pathogen_NN1 ._. 
+</s>
+<s>
+Industrial_JJ settings_NN2 and_CC larger_JJR populations_NN2 of_IO immunocompromised_JJ people_NN have_VH0 brought_VVN about_RP increased_JJ numbers_NN2 of_IO infections_NN2 ._. 
+</s>
+<s>
+The_AT disease_NN1 is_VBZ usually_RR caused_VVN by_II altering_VVG the_AT environment_NN1 for_IF human_JJ benefit_NN1 ,_, so_RR work_VV0 to_TO improve_VVI the_AT water_NN1 sources_NN2 containing_VVG L._NP1 pneumophila_NN1 could_VM cause_VVI the_AT occurrence_NN1 of_IO other_JJ opportunistic_JJ pathogens_NN2 in_II human_JJ hosts_NN2 ._. 
+</s>
+<s>
+Patients_NN2 with_IW Legionnaires_NP1 disease_NN1 are_VBR seen_VVN to_TO have_VHI significant_JJ amounts_NN2 of_IO cell_NN1 debris_NN1 ,_, and_CC the_AT organism_NN1 can_VM be_VBI detected_VVN ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 is_VBZ sensitive_JJ to_II the_AT antibiotics_NN2 rifamycin_NN1 and_CC erythromycin_NN1 ,_, and_CC treatment_NN1 is_VBZ usually_RR by_II erythromycin_NN1 ._. 
+</s>
+<s>
+Legionella_NN1 pneumophila_NN1 is_VBZ a_AT1 thin_JJ gram-negative_JJ rod_NN1 ,_, of_IO about_RG 0.6m_NNU in_II diameter_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ complex_JJ nutritional_JJ requirements_NN2 ,_, including_II the_AT need_NN1 for_IF large_JJ amounts_NN2 of_IO iron_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 motile_JJ bacterium_NN1 with_IW one_MC1 flagellum_NN1 (_( either_RR polar_JJ or_CC subpolar_JJ )_) ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 shows_VVZ a_AT1 cell_NN1 infected_VVN with_IW L._NP1 pneumophila_NN1 ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 lives_VVZ naturally_RR ,_, and_CC multiplies_VVZ in_II high_JJ numbers_NN2 in_II fresh_JJ and_CC potable_JJ water_NN1 worldwide_RL ._. 
+</s>
+<s>
+The_AT water_NN1 must_VM be_VBI warm_JJ (_( 35-45_MCMC oC_NN1 )_) ,_, and_CC stagnant_JJ ._. 
+</s>
+<s>
+Places_NN2 it_PPH1 can_VM be_VBI found_VVN include_VV0 heated_JJ reservoirs_NN2 ,_, cooling_VVG towers_NN2 ,_, evaporative_JJ condensers_NN2 ,_, large_JJ air_NN1 conditioning_NN1 systems_NN2 ,_, hot_JJ tanks_NN2 ,_, clinical_JJ respiratory_JJ devices_NN2 ,_, showers_NN2 ,_, mist_NN1 machines_NN2 in_II grocery_NN1 stores_NN2 and_CC whirlpool_NN1 spas_NN2 ._. 
+</s>
+<s>
+The_AT water_NN1 in_II each_DD1 of_IO these_DD2 sources_NN2 is_VBZ nutrient_JJ poor_JJ for_IF L._NP1 pneumophila_NN1 and_CC induces_VVZ the_AT bacterium_NN1 into_II stationary_JJ phase_NN1 ._. 
+</s>
+<s>
+The_AT organisms_NN2 are_VBR carried_VVN in_II contaminated_JJ water_NN1 droplets_NN2 ,_, from_II which_DDQ they_PPHS2 are_VBR inhaled_VVN and_CC consequently_RR cause_VV0 disease_NN1 ,_, however_RGQV human-to-human_JJ transmission_NN1 has_VHZ not_XX been_VBN observed_VVN ._. 
+</s>
+<s>
+Part_NN1 of_IO the_AT support_NN1 of_IO transmission_NN1 from_II water_NN1 supplies_VVZ to_II humans_NN2 by_II aerosol_NN1 droplets_NN2 arises_VVZ from_II the_AT correlation_NN1 of_IO the_AT peaks_NN2 in_II disease_NN1 in_II mid_JJ to_II late_JJ summer_NNT1 to_II the_AT peaks_NN2 in_II air_NN1 conditioning_NN1 use_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 is_VBZ a_AT1 parasite_NN1 of_IO amoebae_NN2 ,_, and_CC the_AT largest_JJT genus_NN1 of_IO bacteria_NN2 to_II almost_RR exclusively_RR live_VV0 as_RG single-celled_JJ protozoa_NN1 parasites_NN2 ._. 
+</s>
+<s>
+Amoebae_NN2 are_VBR protozoa_NN1 that_CST inhibit_VV0 bottom_JJ vegetation_NN1 and_CC moist_JJ soils_NN2 in_II water_NN1 ._. 
+</s>
+<s>
+The_AT life_NN1 cycle_NN1 of_IO L._NP1 Pneumophila_NP1 in_II amoebae_NN2 strongly_RR resembles_VVZ that_CST observed_VVD in_II macrophages_NN2 ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 are_VBR very_RG susceptible_JJ to_TO dry_VVI conditions_NN2 ,_, but_CCB their_APPGE encapsulation_NN1 in_II cysts_NN2 allows_VVZ their_APPGE transmission_NN1 in_II water_NN1 droplets_NN2 ._. 
+</s>
+<s>
+These_DD2 cysts_NN2 are_VBR very_RG resistant_JJ to_II both_DB2 chemical_JJ and_CC physical_JJ agents_NN2 ,_, increasing_VVG their_APPGE persistence_NN1 in_II water_NN1 supplies_VVZ despite_II human_JJ attempts_NN2 to_TO eradicate_VVI them_PPHO2 ._. 
+</s>
+<s>
+The_AT entry_NN1 of_IO L._NP1 pneumophila_NN1 into_II amoebae_NN2 and_CC macrophage_NN1 appears_VVZ to_TO be_VBI the_AT only_JJ part_NN1 of_IO the_AT infection_NN1 cycle_NN1 that_CST differs_VVZ between_II the_AT two_MC hosts_NN2 (_( 3_MC )_) ._. 
+</s>
+<s>
+Infection_NN1 of_IO amoebae_NN2 appears_VVZ to_TO be_VBI initiated_VVN solely_RR by_II L._NP1 Pneumophila_NP1 ,_, however_RRQV entry_NN1 into_II human_JJ macrophage_NN1 is_VBZ dependent_JJ on_II the_AT phagocyte_NN1 cells_NN2 to_TO assist_VVI infection_NN1 ._. 
+</s>
+<s>
+Figure_NN1 2_MC shows_VVZ the_AT model_NN1 of_IO infection_NN1 for_IF macrophage_NN1 ,_, the_AT difference_NN1 to_II amoebae_NN2 being_VBG the_AT coiling_JJ phagocytosis_NN1 ._. 
+</s>
+<s>
+Attachment_NN1 via_II a_AT1 complement-mediated_JJ route_NN1 has_VHZ been_VBN proven_VVN feasible_JJ but_CCB is_VBZ thought_VVN to_TO be_VBI unlikely_JJ in_II macrophage_NN1 ,_, due_II21 to_II22 the_AT low_JJ levels_NN2 of_IO complement_NN1 in_II the_AT human_JJ lung_NN1 ._. 
+</s>
+<s>
+Another_DD1 possible_JJ method_NN1 is_VBZ the_AT pili_NN2 of_IO L._NP1 pneumophila_NN1 acting_VVG as_II a_AT1 ligand_NN1 to_TO bind_VVI to_II lectin_NN1 on_II the_AT protozoa_NN1 (_( 7_MC )_) supported_VVD by_II an_AT1 insertional_JJ mutation_NN1 in_II the_AT structural_JJ gene_NN1 for_IF pili_NN2 (_( pilE_NN1 L_ZZ1 )_) ,_, reducing_VVG adhesion_NN1 in_II both_RR amoebae_NN2 and_CC human_JJ monocytes_NN2 by_II about_RG half_DB (_( 12_MC )_) ,_, and_CC type_NN1 IV_MC pili_NN2 being_VBG known_VVN to_TO mediate_VVI host-cell_JJ attachment_NN1 by_II the_AT pathogenic_JJ Neisseria_NN1 species_NN (_( 13_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ therefore_RR thought_VVN to_TO be_VBI a_AT1 legitimate_JJ candidate_NN1 for_IF the_AT job_NN1 in_II L._NP1 pneumophila_NN1 ._. 
+</s>
+<s>
+The_AT entry_NN1 is_VBZ thought_VVN to_TO differ_VVI between_II hosts_NN2 ._. 
+</s>
+<s>
+Coiling_VVG phagocytosis_NN1 (_( figure_NN1 2a_FO )_) occurs_VVZ in_II macrophage_NN1 ,_, when_CS the_AT plasma_NN1 membrane_NN1 engulfs_VVZ the_AT bacteria_NN2 within_II coils_NN2 of_IO itself_PPX1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT receptors_NN2 involved_VVN are_VBR known_VVN to_TO be_VBI CR1_FO and_CC CR3_FO (_( complement_NN1 receptors_NN2 )_) ._. 
+</s>
+<s>
+Coiling_VVG phagocytosis_NN1 has_VHZ not_XX been_VBN observed_VVN in_II amoebae_NN2 and_CC so_RR entry_NN1 here_RL is_VBZ thought_VVN to_TO be_VBI independent_JJ of_IO microfilaments_NN2 ,_, and_CC possibly_RR receptor_NN1 mediated_VVD ,_, although_CS these_DD2 receptors_NN2 are_VBR unknown_JJ ._. 
+</s>
+<s>
+Once_RR entered_VVN into_II the_AT host_NN1 cell_NN1 (_( either_RR 1_MC1 or_CC 2_MC at_II a_AT1 time_NNT1 (_( 20_MC )_) )_) ,_, L_ZZ1 pneumophila_NN1 are_VBR inside_II a_AT1 nascent_JJ (_( non-acidifying_NN1 )_) phagosome_JJ with_IW a_AT1 single_JJ membrane_NN1 ._. 
+</s>
+<s>
+They_PPHS2 export_VV0 factors_NN2 locally_RR (_( demonstrated_VVN by_II other_JJ cellular_JJ phagosomes_NN2 still_RR fusing_VVG lysosomes_NN2 )_) via_II the_AT Dot/Icm_NP1 secretion_NN1 system_NN1 ,_, which_DDQ cause_VV0 modifications_NN2 ,_, most_RGT likely_JJ to_II the_AT membrane_NN1 of_IO the_AT phagosome_JJ ,_, and_CC prevent_VV0 it_PPH1 from_II fusing_VVG with_IW the_AT endocytic_JJ pathway_NN1 :_: vital_JJ for_IF their_APPGE survival_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN seen_VVN that_CST this_DD1 replicative_JJ phagosome_JJ is_VBZ missing_VVG the_AT glycoprotein_NN1 LAMP-1_MC1 on_II its_APPGE membrane_NN1 ,_, which_DDQ is_VBZ seen_VVN on_II normal_JJ phagosomes_NN2 as_II an_AT1 endocytic_JJ pathway_NN1 marker_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+The_AT bacteria_NN2 in_II these_DD2 phagosomes_NN2 are_VBR in_II stationary_JJ phase_NN1 ._. 
+</s>
+<s>
+This_DD1 isolated_JJ phagosome_JJ then_RT interacts_VVZ with_IW the_AT mitochondria_NN1 ,_, and_CC is_VBZ engulfed_VVN by_II rough_JJ endoplasmic_JJ reticulum_NN1 ,_, becoming_VVG an_AT1 autophagosomal_JJ vacuole_NN1 ._. 
+</s>
+<s>
+Inside_II this_DD1 protected_JJ phagosome_JJ it_PPH1 converts_VVZ to_II its_APPGE replicative_JJ form_NN1 ,_, where_CS it_PPH1 is_VBZ acid_JJ% tolerant_JJ and_CC does_VDZ not_XX require_VVI the_AT assistance_NN1 of_IO Icm/Dot_NP1 ._. 
+</s>
+<s>
+Furthermore_RR numerous_JJ virulence_NN1 traits_NN2 are_VBR not_XX expressed_VVN ,_, the_AT key_JJ trait_NN1 being_VBG the_AT ability_NN1 being_VBG able_JK to_TO block_VVI membrane_NN1 fusion_NN1 ._. 
+</s>
+<s>
+This_DD1 allows_VVZ the_AT phagosome_JJ to_TO bind_VVI with_IW the_AT lysosomal_JJ compartment_NN1 proving_VVG a_AT1 harsh_JJ but_CCB nutrient_JJ rich_JJ replication_NN1 niche_NN1 ._. 
+</s>
+<s>
+When_CS replication_NN1 is_VBZ complete_JJ ,_, and_CC amino_NN1 acids_NN2 are_VBR depleted_VVN ,_, the_AT progeny_NN1 of_IO L._NP1 pneumophila_NN1 collect_VV0 in_II the_AT secondary_JJ messenger_NN1 guanosine_NN1 3'_FO ,_, 5'_FO -_- bispyrophosphate_NN1 (_( ppGpp_NNU )_) ._. 
+</s>
+<s>
+This_DD1 induces_VVZ the_AT expression_NN1 of_IO virulence_NN1 factors_NN2 causing_VVG its_APPGE new_JJ virulent_JJ phenotype_NN1 ,_, promoting_VVG transmission_NN1 of_IO L._NP1 pneumophila_NN1 to_II a_AT1 new_JJ phagocyte_NN1 ._. 
+</s>
+<s>
+This_DD1 has_VHZ been_VBN seen_VVN by_II cells_NN2 in_II their_APPGE post-exponential_JJ state_NN1 converting_VVG to_II the_AT virulent_JJ phenotype_NN1 only_RR when_CS incubated_VVN in_II post-exponential_JJ phase_NN1 culture_NN1 supernatant_NN1 lacking_VVG amino_NN1 acids_NN2 ._. 
+</s>
+<s>
+Important_JJ traits_NN2 include_VV0 osmotic_JJ resistance_NN1 ,_, which_DDQ increases_VVZ survival_NN1 in_II the_AT extracellular_JJ environment_NN1 ,_, motility_NN1 ,_, which_DDQ helps_VVZ dispersal_NN1 and_CC contact_VV0 with_IW a_AT1 new_JJ host_NN1 cell_NN1 ,_, a_AT1 cytotoxin_NN1 ,_, which_DDQ promotes_VVZ escape_NN1 from_II the_AT current_JJ host_NN1 ,_, and_CC the_AT ability_NN1 to_TO evade_VVI phagosome-lysosome_NN1 gives_VVZ it_PPH1 a_AT1 better_JJR chance_NN1 for_IF survival_NN1 in_II the_AT next_MD phagosome_JJ ,_, where_CS the_AT cycle_NN1 repeats_NN2 (_( 7_MC )_) ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 have_VH0 been_VBN observed_VVN in_II the_AT host_NN1 cell_NN1 swimming_VVG away_II21 from_II22 ruptured_JJ hosts_NN2 ,_, however_RGQV approximately_RR 24_MC hours_NNT2 later_RRR ,_, no_AT motility_NN1 is_VBZ detected_VVN (_( 3_MC )_) ._. 
+</s>
+<s>
+This_DD1 demonstrates_VVZ the_AT induction_NN1 of_IO the_AT virulence_NN1 factors_NN2 just_RR for_IF the_AT short_JJ period_NN1 when_RRQ it_PPH1 is_VBZ necessary_JJ to_TO enable_VVI it_PPH1 to_TO find_VVI a_AT1 new_JJ host_NN1 ._. 
+</s>
+<s>
+The_AT promotion_NN1 of_IO escape_NN1 from_II the_AT current_JJ host_NN1 occurs_VVZ by_II the_AT development_NN1 of_IO pores_NN2 in_II the_AT host_NN1 membrane_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI seen_VVN in_II macrophages_NN2 in_II the_AT form_NN1 of_IO tissue_NN1 damage_NN1 ,_, however_RRQV it_PPH1 has_VHZ not_XX been_VBN observed_VVN in_II amoebae_NN2 ,_, where_CS the_AT pores_NN2 are_VBR thought_VVN to_TO exist_VVI in_II the_AT membrane_NN1 of_IO the_AT single_JJ celled_JJ organism_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+Through_II these_DD2 pores_NN2 effector_NN1 molecules_NN2 are_VBR sent_VVN to_TO help_VVI evade_VVI phagosome-lysosome_JJ fusion_NN1 ._. 
+</s>
+<s>
+For_IF up_II21 to_II22 a_AT1 limited_JJ number_NN1 of_IO pores_NN2 eukaryotic_JJ cells_NN2 can_VM survive_VVI (_( possibly_RR by_II blocking_VVG them_PPHO2 (_( 5_MC )_) )_) ,_, but_CCB any_DD more_DAR and_CC lysis_NN1 occurs_VVZ ._. 
+</s>
+<s>
+Pore_NN1 formation_NN1 requires_VVZ the_AT presence_NN1 of_IO the_AT Dot/Icm_NP1 complex_NN1 ,_, which_DDQ mediates_VVZ the_AT activation_NN1 of_IO caspase_NN1 3_MC (_( 8_MC )_) ._. 
+</s>
+<s>
+Caspase_VV0 3_MC induces_VVZ nuclear_JJ apoptosis_NN1 by_II cleavage_NN1 of_IO a_AT1 specific_JJ substrate_NN1 (_( 7_MC )_) ._. 
+</s>
+<s>
+Another_DD1 Dot_NN1 region_NN1 is_VBZ also_RR involved_VVN ,_, with_IW a_AT1 very_RG similar_JJ function_NN1 but_CCB located_VVD in_II a_AT1 separate_JJ but_CCB unknown_JJ loci_NN2 (_( 6_MC )_) ._. 
+</s>
+<s>
+The_AT genes_NN2 in_II this_DD1 region_NN1 are_VBR called_VVN dotH_VDZ ,_, dotI_NN2 and_CC dotO_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+Apoptosis_NN1 allows_VVZ L._NP1 pneumophila_NN1 to_TO rapidly_RR infect_VVI an_AT1 increasing_JJ number_NN1 of_IO cells_NN2 ,_, in_II each_DD1 using_VVG up_RP the_AT nutrient_NN1 supply_NN1 ,_, and_CC causing_VVG them_PPHO2 to_TO die_VVI ._. 
+</s>
+<s>
+It_PPH1 is_VBZ therefore_RR extremely_RR important_JJ to_II the_AT cytopathogenicity_NN1 in_II the_AT early_JJ stages_NN2 of_IO infection_NN1 (_( 8_MC )_) ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 exploit_VV0 the_AT host_NN1 mechanisms_NN2 that_CST usually_RR result_VV0 in_II the_AT degradation_NN1 of_IO invading_JJ microorganisms_NN2 ._. 
+</s>
+<s>
+Speculations_NN2 are_VBR made_VVN ,_, however_RRQV the_AT precise_JJ processes_NN2 in_II which_DDQ lysosome_NN1 fusion_NN1 is_VBZ avoided_VVN are_VBR still_RR obscure_VV0 (_( 7_MC )_) ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 is_VBZ resistant_JJ to_II complement-mediated_JJ killing_NN1 ._. 
+</s>
+<s>
+The_AT presence_NN1 of_IO specific_JJ antibody_NN1 ,_, and_CC polymorphonuclear_JJ cells_NN2 ,_, are_VBR also_RR unsuccessful_JJ in_II clearing_VVG the_AT disease_NN1 ._. 
+</s>
+<s>
+A_AT1 toxin_NN1 has_VHZ been_VBN found_VVN from_II the_AT supernatant_NN1 of_IO E.coli_NP1 with_IW inhibited_JJ polymorphonuclear_JJ cell_NN1 killing_NN1 ,_, which_DDQ reduced_VVD the_AT oxidative_JJ capacity_NN1 of_IO the_AT cells_NN2 and_CC consequently_RR directly_RR prevented_VVD the_AT oxidative_JJ killing_NN1 (_( 14_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ possible_JJ that_CST a_AT1 similar_JJ toxin_NN1 is_VBZ present_JJ in_II L._NP1 pneumophila_NN1 ._. 
+</s>
+<s>
+Reactive_JJ oxygen_NN1 species_NN are_VBR present_JJ in_II the_AT cells_NN2 ,_, generated_VVN by_II either_RR bacterial_JJ metabolism_NN1 or_CC were_VBDR present_JJ before_II infection_NN1 ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 produces_VVZ several_DA2 antioxidants_NN2 that_CST can_VM catalyse_VVI the_AT decomposition_NN1 of_IO these_DD2 species_NN ,_, although_CS it_PPH1 has_VHZ not_XX been_VBN proven_VVN whether_CSW these_DD2 are_VBR compulsory_JJ for_IF transmission_NN1 ._. 
+</s>
+<s>
+Iron_NN1 transferrin_NN1 transports_VVZ iron_NN1 around_II the_AT body_NN1 and_CC therefore_RR only_RR made_VVN when_CS iron_NN1 is_VBZ present_JJ ._. 
+</s>
+<s>
+In_II its_APPGE presence_NN1 IFN--activated_NP1 human_JJ peripheral_JJ blood_NN1 monocytes_NN2 are_VBR not_XX able_JK to_TO inhibit_VVI replication_NN1 of_IO L._NP1 pneumophila_NN1 as_CSA they_PPHS2 usually_RR would_VM ._. 
+</s>
+<s>
+Therefore_RR it_PPH1 is_VBZ vital_JJ that_CST the_AT iron_NN1 pool_NN1 in_II the_AT pathogen_NN1 vacuole_NN1 is_VBZ of_IO reasonable_JJ size_NN1 to_TO prevent_VVI L._NP1 pneumophila_NN1 replication_NN1 inhibition_NN1 ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 is_VBZ thought_VVN to_TO alter_VVI its_APPGE pattern_NN1 of_IO gene_NN1 expression_NN1 in_II limited_JJ iron_NN1 supplies_NN2 ._. 
+</s>
+<s>
+The_AT ability_NN1 of_IO L._NP1 pneumophila_NN1 to_TO control_VVI the_AT fusion_NN1 of_IO its_APPGE phagosome_JJ with_IW lysosomes_NN2 enables_VVZ it_PPH1 to_TO take_VVI advantage_NN1 of_IO two_MC distinctive_JJ niches_NN2 ._. 
+</s>
+<s>
+The_AT first_MD apart_II21 from_II22 lysosome_NN1 ,_, and_CC the_AT second_NNT1 after_II fusion_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ thought_VVN that_DD1 fusion_NN1 of_IO the_AT phagosome_JJ with_IW lysosomes_NN2 is_VBZ blocked_VVN only_RR temporarily_RR (_( few_DA2 hours_NNT2 )_) whilst_CS it_PPH1 converts_VVZ to_II it_PPH1 replicative_JJ form_NN1 (_( as_CSA shown_VVN diagrammatically_RR in_II figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+Avoidance_NN1 of_IO the_AT lysosome_NN1 is_VBZ achieved_VVN by_II a_AT1 formulin-resistant_JJ surface_NN1 component_NN1 being_VBG added_VVN to_II the_AT phagosomal_JJ membrane_NN1 ._. 
+</s>
+<s>
+Changes_NN2 in_II macrophages_NN2 are_VBR thought_VVN to_TO involve_VVI lectins_NN2 and_CC weak_JJ bases_NN2 (_( brought_VVN about_RP by_II phospholipases_NN2 (_( 22_MC )_) and_CC a_AT1 cytotoxin_NN1 (_( 7_MC )_) )_) ._. 
+</s>
+<s>
+The_AT lectins_NN2 induce_VV0 cross-linking_NN1 of_IO glycoproteins_NN2 bringing_VVG about_RP endocytic_JJ vacuoles_NN2 that_CST do_VD0 n't_XX fuse_VVI with_IW lysosomes_NN2 ._. 
+</s>
+<s>
+Once_CS the_AT phagosome_JJ is_VBZ in_II its_APPGE replicative_JJ form_NN1 ,_, virulence_NN1 traits_NN2 blocking_VVG membrane_NN1 fusion_NN1 are_VBR lost_VVN and_CC so_RR it_PPH1 is_VBZ able_JK to_TO fuse_VVI with_IW lysosomes_NN2 to_TO form_VVI phagolysosomes_NN2 ._. 
+</s>
+<s>
+This_DD1 structure_NN1 promotes_VVZ growth_NN1 and_CC the_AT acidic_JJ ,_, hydrolytic_JJ ,_, nutrient_JJ rich_JJ ,_, dynamic_JJ environment_NN1 is_VBZ exploited_VVN for_IF replication_NN1 to_TO take_VVI place_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN presumed_VVN (_( 7_MC )_) that_CST autophagy_JJ machinery_NN1 recognises_VVZ these_DD2 nonfusigenic_JJ phagosomes_NN2 and_CC delivers_VVZ them_PPHO2 to_II lysosomes_NN2 ._. 
+</s>
+<s>
+The_AT following_JJ evidence_NN1 generated_VVN by_II Swanson_NP1 et_RA21 al_RA22 (_( 7_MC )_) supports_VVZ the_AT fusion_NN1 with_IW lysosomes_NN2 :_: The_AT time_NNT1 at_II which_DDQ lysosomal_JJ proteins_NN2 can_VM be_VBI seen_VVN correlates_VVZ with_IW when_RRQ replication_NN1 was_VBDZ observed_VVN ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 in_II endocytic_JJ vacuoles_NN2 are_VBR seen_VVN to_TO be_VBI metabolically_RR active_JJ ._. 
+</s>
+<s>
+If_CS acidification_NN1 and_CC maturation_NN1 of_IO the_AT replication_NN1 vacuole_NN1 is_VBZ blocked_VVN ,_, bacterial_JJ replication_NN1 is_VBZ unable_JK to_TO continue_VVI ._. 
+</s>
+<s>
+Replicating_VVG bacteria_NN2 taken_VVN from_II macrophages_NN2 are_VBR acid_JJ% tolerant_JJ (_( lysosomes_NN2 are_VBR acidic_JJ )_) ._. 
+</s>
+<s>
+A_AT1 change_NN1 in_II pH_NN1 from_II early_JJ in_II infection_NN1 is_VBZ seen_VVN from_II neutral_JJ to_II an_AT1 average_NN1 of_IO pH_NN1 5.5_MC ._. 
+</s>
+<s>
+Organelles_NP1 resident_NN1 in_II the_AT vacuole_NN1 later_RRR in_II infection_NN1 lack_NN1 the_AT ribosome_JJ and_CC ER_NP1 protein_NN1 BiP_NN1 components_NN2 ,_, yet_RR granular_JJ and_CC membranous_JJ material_NN1 like_II that_DD1 of_IO endocytic_NN1 is_VBZ often_RR seen_VVN (_( 23_MC )_) ._. 
+</s>
+<s>
+Many_DA2 of_IO the_AT genes_NN2 expressed_VVN by_II L._NP1 pneumophila_NN1 contribute_VV0 to_II its_APPGE virulence_NN1 ._. 
+</s>
+<s>
+Some_DD of_IO them_PPHO2 are_VBR shown_VVN in_II table_NN1 1_MC1 ._. 
+</s>
+<s>
+Mutations_NN2 in_II either_RR the_AT icm_NN1 or_CC dot_NN1 loci_NN2 lead_VV0 to_II defects_NN2 in_II intracellular_JJ growth_NN1 ,_, recruitment_NN1 of_IO host_NN1 cell_NN1 organelles_NN2 ,_, and_CC inhibition_NN1 of_IO phagosome-lysosome_JJ fusion_NN1 in_II both_RR mammals_NN2 and_CC amoebae_NN2 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT dot/icm_NN1 are_VBR gene_NN1 clusters_NN2 consisting_VVG (_( not_XX exclusively_RR )_) of_IO dotA_NN1 and_CC dotB_NN1 ,_, of_IO which_DDQ dotA_NN1 is_VBZ next_II21 to_II22 icm_NN1 and_CC DotB_NP1 about_RG 10_MC kilobases_NN2 away_RL ._. 
+</s>
+<s>
+Dot/Icm_NP1 appears_VVZ to_TO be_VBI vital_JJ only_RR in_II the_AT early_JJ stages_NN2 of_IO infection_NN1 (_( phagocytosis_NN1 )_) to_TO establish_VVI the_AT isolated_JJ phagosome_JJ (_( avoiding_VVG the_AT endocytic_JJ pathway_NN1 (_( 5_MC )_) )_) ,_, and_CC is_VBZ involved_JJ in_II the_AT assembly_NN1 and_CC activation_NN1 of_IO the_AT type_NN1 IV_MC secretion_NN1 system_NN1 ._. 
+</s>
+<s>
+This_DD1 system_NN1 works_VVZ in_II the_AT cell_NN1 membrane_NN1 to_TO transport_VVI DNA_NN1 and_CC virulence_NN1 factors_NN2 out_II21 of_II22 the_AT cell_NN1 (_( 6_MC )_) ._. 
+</s>
+<s>
+These_DD2 loci_NN2 work_VV0 together_RL with_IW the_AT lvh_NNU locus_NN1 (_( Legionella_NP1 vir_FW homologs_VVZ )_) ,_, of_IO which_DDQ components_NN2 may_VM be_VBI able_JK to_TO substitute_VVI for_IF dotB_NN1 and_CC icmE_NN1 functions_NN2 for_IF conjugation_NN1 (_( not_XX virulence_NN1 )_) (_( 15_MC )_) ._. 
+</s>
+<s>
+In_II cultured_JJ replicating_NN1 macrophages_VVZ Mip_NN1 is_VBZ seen_VVN to_TO promote_VVI efficient_JJ establishment_NN1 of_IO infection_NN1 ,_, and_CC contribute_VV0 to_II virulence_NN1 ._. 
+</s>
+<s>
+Without_IW Mip_NP1 ,_, infection_NN1 of_IO neither_DD1 mammalian_JJ of_IO protozoan_JJ cells_NN2 can_VM occur_VVI ._. 
+</s>
+<s>
+This_DD1 was_VBDZ found_VVN by_II the_AT work_NN1 of_IO B.S_NP1 Fields_NN2 (_( 3_MC )_) ._. 
+</s>
+<s>
+KatB_NN1 is_VBZ expressed_VVN during_II the_AT exponential_NN1 growth_NN1 phase_NN1 to_TO encode_VVI the_AT cytoplasmic_JJ catalase_NN1 ,_, peroxidase_VV0 ._. 
+</s>
+<s>
+This_DD1 enzyme_NN1 is_VBZ responsible_JJ for_IF the_AT stationary_JJ phase_NN1 that_CST follows_VVZ ,_, and_CC may_VM be_VBI important_JJ in_II intracellular_JJ lifestyle_NN1 (_( 24_MC )_) ._. 
+</s>
+<s>
+Prior_II21 to_II22 replication_NN1 there_EX is_VBZ a_AT1 lag_NN1 phase_NN1 ,_, which_DDQ has_VHZ been_VBN suspected_VVN to_TO represent_VVI the_AT induction_NN1 of_IO an_AT1 activity_NN1 that_CST allows_VVZ replication_NN1 before_II katB_NN1 is_VBZ induced_VVN ._. 
+</s>
+<s>
+katB_VV0 also_RR plays_VVZ a_AT1 role_NN1 in_II hydrogen_NN1 peroxide_NN1 resistance_NN1 and_CC defence_NN1 against_II H_ZZ1 2O_FO 2_MC ._. 
+</s>
+<s>
+Although_CS their_APPGE specific_JJ function_NN1 is_VBZ unknown_JJ mil_NN1 (_( macrophage-specific_JJ infectivity_NN1 loci_NN2 )_) ,_, mak_NN1 and_CC pmi_NN2 are_VBR 3_MC further_JJR loci_NN2 that_CST are_VBR known_VVN to_TO be_VBI involved_JJ in_II intracellular_JJ multiplication_NN1 and_CC growth_NN1 ._. 
+</s>
+<s>
+Lastly_RR a_AT1 General_JJ Stress_NN1 protein_NN1 (_( GspA_NP1 )_) is_VBZ expressed_VVN after_II L._NP1 pneumophila_NN1 's_GE entry_NN1 ,_, however_RRQV it_PPH1 has_VHZ been_VBN found_VVN not_XX to_TO be_VBI compulsory_JJ for_IF the_AT survival_NN1 and_CC growth_NN1 in_II macrophages_NN2 (_( 21_MC )_) ._. 
+</s>
+<s>
+The_AT virulence_NN1 factors_NN2 expressed_VVN of_IO part_NN1 f_ZZ1 of_IO figure_NN1 2_MC ,_, all_DB play_VV0 a_AT1 role_NN1 in_II surviving_VVG in_II the_AT human_JJ host_NN1 cells_NN2 that_CST would_VM usually_RR kill_VVI L._NP1 pneumophila_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN shown_VVN that_CST at_RR21 least_RR22 35_MC proteins_NN2 are_VBR induced_VVN at_II this_DD1 stage_NN1 and_CC 32_MC repressed_JJ in_II U937_FO cells_NN2 (_( 9_MC )_) ._. 
+</s>
+<s>
+Virulence_NN1 proteins_NN2 are_VBR expressed_VVN by_II the_AT organism_NN1 in_II31 response_II32 to_II33 depleted_JJ amino_NN1 acid_NN1 supplies_NN2 ._. 
+</s>
+<s>
+The_AT factors_NN2 include_VV0 type_NN1 II_MC and_CC type_NN1 IV_MC secretion_NN1 systems_NN2 ,_, a_AT1 pore_NN1 forming_VVG toxin_NN1 ,_, type_NN1 IV_MC pili_NN2 and_CC flagella_NN1 ._. 
+</s>
+<s>
+The_AT type_NN1 II_MC secretion_NN1 system_NN1 ,_, not_XX previously_RR mentioned_VVN ,_, like_II the_AT type_NN1 IV_MC ,_, exports_VVZ proteins_NN2 ._. 
+</s>
+<s>
+However_RRQV it_PPH1 is_VBZ significant_JJ as_CSA L._NP1 pneumophila_NN1 is_VBZ the_AT first_MD intracellular_JJ pathogen_NN1 to_TO contain_VVI the_AT chromosomal_JJ locus_NN1 for_IF this_DD1 protein_NN1 (_( 17,18_MC )_) and_CC the_AT secreted_JJ% proteins_NN2 are_VBR predicted_VVN to_TO be_VBI used_VVN for_IF intracellular_JJ growth_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ thanks_NN2 to_II their_APPGE natural_JJ host_NN1 ,_, amoebae_NN2 ,_, that_CST L._NP1 pneumophila_NN1 are_VBR able_JK to_TO evade_VVI the_AT immune_JJ system_NN1 of_IO human_JJ macrophages_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ though_RR very_RG unlikely_JJ that_CST it_PPH1 is_VBZ linked_VVN to_II human_JJ selection_NN1 pressures_NN2 ,_, as_CSA human-to-human_JJ transmission_NN1 does_VDZ not_XX occur_VVI ._. 
+</s>
+<s>
+The_AT virulence_NN1 function_NN1 induced_VVN is_VBZ therefore_RR likely_JJ to_TO be_VBI for_IF safe_JJ entry_NN1 ,_, robust_JJ intracellular_JJ replication_NN1 ,_, survival_NN1 in_II fresh_JJ water_NN1 ,_, and_CC efficient_JJ transmission_NN1 from_II one_MC1 phagocyte_NN1 to_II another_DD1 ._. 
+</s>
+<s>
+These_DD2 factors_NN2 are_VBR then_RT transferred_VVN to_II human_JJ macrophage_NN1 ,_, and_CC allow_VV0 infection_NN1 ._. 
+</s>
+<s>
+Experimental_JJ evidence_NN1 from_II Gao_NP1 et_RA21 al_RA22 (_( 4_MC )_) compared_VVD the_AT growth_NN1 kinetics_NN1 in_II 89_MC mutants_NN2 with_IW similar_JJ phenotypic_JJ defects_NN2 in_II virulence_NN1 traits_NN2 and_CC found_VVD very_RG similar_JJ patterns_NN2 arise_VV0 for_IF both_DB2 hosts_NN2 ._. 
+</s>
+<s>
+This_DD1 shows_VVZ that_CST similar_JJ mechanisms_NN2 are_VBR involved_JJ in_II replication_NN1 in_II the_AT protozoan_NN1 and_CC human_JJ hosts_NN2 ._. 
+</s>
+<s>
+Growth_NN1 in_II amoebae_NN2 prior_II21 to_II22 human_JJ infection_NN1 is_VBZ shown_VVN to_TO enhance_VVI entry_NN1 into_II macrophage_NN1 by_II 100_MC to_II 1000_MC fold_NN1 (_( 11_MC )_) ._. 
+</s>
+<s>
+Growth_NN1 in_II amoebae_NN2 also_RR makes_VVZ the_AT bacteria_NN2 more_RGR resistant_JJ to_II antimicrobial_JJ agents_NN2 ,_, and_CC alters_VVZ fatty_JJ acids_NN2 and_CC surface_NN1 proteins_NN2 ,_, although_CS it_PPH1 is_VBZ not_XX known_VVN if_CS these_DD2 affect_VV0 the_AT virulence_NN1 (_( 3_MC )_) ._. 
+</s>
+<s>
+At_II different_JJ temperatures_NN2 the_AT virulence_NN1 of_IO L._NP1 pneumophila_NN1 differs_VVZ ._. 
+</s>
+<s>
+At_II 30_MC oC_NN1 there_EX are_VBR more_DAR flagella_NN1 (_( 19_MC )_) ,_, higher_JJR production_NN1 of_IO factors_NN2 inducing_VVG piliation_NN1 ,_, and_CC a_AT1 greater_JJR rate_NN1 of_IO adherence_NN1 than_CSN at_II 37_MC oC_NN1 in_II both_RR aquatic_JJ and_CC alveolar_JJ environments_NN2 ._. 
+</s>
+<s>
+However_RR ,_, when_CS cultured_VVN at_II 24_MC oC_NN1 L._NP1 pneumophila_NN1 were_VBDR less_RGR virulent_JJ than_CSN when_CS cultured_VVN at_II the_AT warmer_JJR 37_MC oC_NN1 ._. 
+</s>
+<s>
+(_( As_CSA observed_VVN in_II a_AT1 guinea_NN1 pig_NN1 model_NN1 of_IO infection_NN1 by_II measuring_VVG 50%_NNU lethal_JJ dose_NN1 (_( TD_NN1 50_MC )_) (_( 16_MC )_) )_) It_PPH1 is_VBZ thought_VVN that_CST the_AT higher_JJR virulence_NN1 at_II higher_JJR temperatures_NN2 is_VBZ the_AT result_NN1 of_IO environmental_JJ stress_NN1 that_CST L._NP1 pneumophila_NN1 may_VM sporadically_RR encounter_VVI in_II their_APPGE natural_JJ host_NN1 ._. 
+</s>
+<s>
+In_II31 view_II32 of_II33 the_AT evidential_JJ studies_NN2 it_PPH1 can_VM be_VBI said_VVN that_CST L._NP1 pneumophila_NN1 is_VBZ a_AT1 problem_NN1 organism_NN1 in_II a_AT1 number_NN1 of_IO ways_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 problem_NN1 organism_NN1 due_II21 to_II22 its_APPGE ability_NN1 to_TO replicate_VVI in_II the_AT human_JJ macrophage_NN1 ,_, despite_II this_DD1 not_XX serving_VVG as_CSA its_APPGE natural_JJ host_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ convenient_JJ for_IF the_AT organism_NN1 that_CST the_AT pathway_NN1 used_VVD ,_, and_CC virulence_NN1 factors_NN2 expressed_VVN in_II amoebae_NN2 ,_, work_VV0 incredibly_RR well_RR upon_II infection_NN1 in_II alveolar_JJ monocytes_NN2 ._. 
+</s>
+<s>
+L._NP1 pneumophila_NN1 are_VBR able_JK to_TO exploit_VVI mechanisms_NN2 of_IO their_APPGE host_NN1 to_TO evade_VVI the_AT immune_JJ system_NN1 in_II multiple_JJ ways_NN2 ._. 
+</s>
+<s>
+Firstly_RR L._NNU pneumophila_NN1 is_VBZ capable_JJ of_IO avoiding_VVG fusion_NN1 with_IW lysosomes_NN2 that_CST usually_RR follows_VVZ phagocytosis_NN1 ._. 
+</s>
+<s>
+This_DD1 allows_VVZ the_AT phagosome_JJ to_TO express_VVI the_AT ideal_JJ conditions_NN2 for_IF converting_VVG to_II its_APPGE replicative_JJ form_NN1 ._. 
+</s>
+<s>
+Upon_II completion_NN1 of_IO conversion_NN1 ,_, loss_NN1 of_IO virulence_NN1 traits_NN2 blocking_VVG membrane_NN1 fusion_NN1 and_CC lysosome_NN1 fusion_NN1 occurrence_NN1 enables_VVZ it_PPH1 to_TO take_VVI advantage_NN1 of_IO a_AT1 second_MD niche_NN1 for_IF replication_NN1 ._. 
+</s>
+<s>
+Expression_NN1 of_IO an_AT1 autophagy-like_JJ process_NN1 facilitates_VVZ host_NN1 cells_NN2 lyses_VVZ by_II the_AT high_JJ production_NN1 of_IO pores_NN2 ,_, and_CC L._NP1 pneumophila_NN1 has_VHZ once_RR21 again_RR22 taken_VVN advantage_NN1 of_IO that_DD1 host_NN1 ._. 
+</s>
+<s>
+The_AT surveillance_NN1 of_IO the_AT intracellular_JJ environment_NN1 to_TO react_VVI to_II pH_NN1 ,_, iron_NN1 and_CC amino_NN1 acid_NN1 levels_NN2 etc_RA ,_, enable_VV0 L._NP1 pneumophila_NN1 to_TO express_VVI virulent_JJ traits_NN2 such_II21 as_II22 motility_NN1 and_CC gene_NN1 expression_NN1 at_II the_AT appropriate_JJ times_NNT2 to_TO take_VVI full_JJ advantage_NN1 of_IO the_AT host_NN1 ,_, including_II transmission_NN1 between_II hosts_NN2 on_II exhaustion_NN1 of_IO the_AT nutrient_NN1 supply_NN1 ._. 
+</s>

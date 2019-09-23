@@ -1,0 +1,246 @@
+<s>
+The_AT oximeter_NN1 is_VBZ used_VVN by_II passing_JJ light_NN1 of_IO two_MC different_JJ wavelengths_NN2 through_II the_AT fingertip_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ received_VVN and_CC input_NN1 into_II a_AT1 computerized_JJ system_NN1 to_TO represent_VVI the_AT oxygen_NN1 saturation_NN1 and_CC pulse_NN1 of_IO the_AT patient_NN1 ._. 
+</s>
+<s>
+Oximetry_NN1 is_VBZ an_AT1 important_JJ device_NN1 to_TO monitor_VVI patients_NN2 within_II a_AT1 medical_JJ environment_NN1 ._. 
+</s>
+<s>
+From_II investigation_NN1 ,_, we_PPIS2 have_VH0 proved_VVN that_CST the_AT oximeter_NN1 picks_VVZ up_RP on_II variations_NN2 in_II pulse_NN1 due_JJ to_TO exercise_VVI ,_, markedly_RR an_AT1 increase_NN1 in_II heart_NN1 rate_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ vital_JJ to_TO remember_VVI that_CST the_AT oximeter_JJR probe_NN1 is_VBZ affected_VVN by_II movements_NN2 ,_, and_CC by_II circulation_NN1 issues_NN2 such_II21 as_II22 vasoconstriction_NN1 ._. 
+</s>
+<s>
+People_NN with_IW poor_JJ circulation_NN1 to_II the_AT extremities_NN2 may_VM show_VVI up_RP differently_RR on_II the_AT computer_NN1 screen_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT oximeters_NN2 are_VBR heavily_RR used_VVN in_II surgery_NN1 ,_, to_TO ensure_VVI that_CST a_AT1 patient_NN1 under_II general_JJ anaesthetic_NN1 is_VBZ receiving_VVG enough_DD oxygen_NN1 ,_, and_CC not_XX going_VVG into_II hypoxia_NN1 ._. 
+</s>
+<s>
+The_AT oximeter_NN1 can_VM also_RR be_VBI used_VVN in_II conjunction_NN1 to_II an_AT1 ECG_NN1 machine_NN1 ,_, that_DD1 measures_VVZ heart_NN1 signals_NN2 directly_RR ._. 
+</s>
+<s>
+Oximetry_NN1 is_VBZ a_AT1 non-invasive_JJ method_NN1 of_IO monitoring_VVG the_AT saturation_NN1 of_IO oxygen_NN1 in_II the_AT blood_NN1 ,_, which_DDQ is_VBZ important_JJ in_II medicine_NN1 to_TO notice_VVI the_AT development_NN1 of_IO hypoxia_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR used_VVN during_II anaesthesia_NN1 to_TO ensure_VVI that_DD1 sufficient_JJ oxygen_NN1 is_VBZ getting_VVG into_II the_AT bloodstream_NN1 ._. 
+</s>
+<s>
+The_AT oximeter_NN1 is_VBZ a_AT1 probe_NN1 ,_, which_DDQ is_VBZ linked_VVN to_II a_AT1 computer_NN1 ,_, and_CC is_VBZ attached_VVN either_RR to_II the_AT patient_NN1 's_GE finger_NN1 or_CC ear_NN1 lobe_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 experiment_NN1 ,_, a_AT1 finger_NN1 oximeter_NN1 will_VM be_VBI used_VVN to_TO produce_VVI a_AT1 graphical_JJ display_NN1 of_IO heart_NN1 rate_NN1 ._. 
+</s>
+<s>
+This_DD1 report_NN1 will_VM examine_VVI the_AT differences_NN2 in_II pulse_NN1 rate_NN1 as_CSA recorded_VVN by_II the_AT oximeter_NN1 ,_, when_CS the_AT patient_NN1 is_VBZ submitted_VVN to_TO rest_VVI or_CC exercise_NN1 ,_, whilst_CS becoming_VVG familiarized_JJ with_IW the_AT calculations_NN2 and_CC mechanism_NN1 of_IO the_AT probe_NN1 ._. 
+</s>
+<s>
+There_EX will_VM also_RR be_VBI a_AT1 brief_JJ look_NN1 at_II what_DDQ factors_NN2 affect_VV0 the_AT accuracy_NN1 of_IO the_AT recording_NN1 ._. 
+</s>
+<s>
+The_AT oximeter_NN1 works_VVZ by_II the_AT detection_NN1 of_IO light_NN1 through_II the_AT fingertip_NN1 or_CC earlobe_NN1 ,_, which_DDQ changes_VVZ with_IW the_AT pulsatile_JJ flow_NN1 of_IO blood_NN1 through_II the_AT body_NN1 ._. 
+</s>
+<s>
+Two_MC wavelengths_NN2 of_IO light_NN1 are_VBR omitted_VVN and_CC received_VVN by_II the_AT device_NN1 's_GE IR_NN1 diodes_NN2 :_: 650nm_FO and_CC 805nm_FO ,_, which_DDQ is_VBZ partially_RR absorbed_VVN by_II the_AT Haemoglobin_NN1 in_II the_AT red_JJ blood_NN1 cells_NN2 by_II varying_JJ amounts_NN2 ,_, depending_II21 on_II22 levels_NN2 of_IO oxygen_NN1 saturation_NN1 ._. 
+</s>
+<s>
+Some_DD factors_NN2 affect_VV0 the_AT reception_NN1 of_IO light_NN1 ,_, including_II vasoconstriction_NN1 and_CC movement_NN1 ._. 
+</s>
+<s>
+The_AT oximeter_JJR to_TO be_VBI used_VVN for_IF this_DD1 report_NN1 is_VBZ the_AT IPOD_NP1 Oximeter_NP1 ,_, which_DDQ has_VHZ integrated_VVN electronics_NN1 combined_VVN within_II the_AT clip_NN1 ,_, so_CS21 that_CS22 the_AT only_JJ connection_NN1 to_TO be_VBI made_VVN is_VBZ a_AT1 serial_JJ link_NN1 direct_JJ to_II the_AT receptive_JJ computer_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT results_NN2 will_VM appear_VVI in_II a_AT1 spreadsheet_NN1 for_IF analysis_NN1 ._. 
+</s>
+<s>
+The_AT Oximeter_NP1 can_VM be_VBI used_VVN in_II the_AT diagnosis_NN1 and_CC monitoring_NN1 of_IO many_DA2 disorders_NN2 involving_VVG oxygen_NN1 absorption_NN1 ._. 
+</s>
+<s>
+The_AT most_RGT common_JJ use_NN1 is_VBZ during_II general_JJ anaesthesia_NN1 ,_, to_TO ensure_VVI that_DD1 sufficient_JJ oxygen_NN1 is_VBZ being_VBG ventilated_VVN ._. 
+</s>
+<s>
+After_CS surgery_NN1 ,_, it_PPH1 is_VBZ also_RR used_VVN to_TO sense_VVI hypoxia_NN1 ._. 
+</s>
+<s>
+Another_DD1 frequent_JJ use_NN1 is_VBZ in_II the_AT treatment_NN1 of_IO Obstructive_JJ Sleep_NN1 Apnea_NP1 Syndrome_NN1 ,_, which_DDQ occurs_VVZ in_II a_AT1 small_JJ proportion_NN1 of_IO the_AT population_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ where_RRQ ,_, during_II sleep_NN1 ,_, the_AT muscles_NN2 of_IO the_AT diaphragm_NN1 can_VM stop_VVI working_VVG ,_, and_CC so_RR there_EX is_VBZ a_AT1 risk_NN1 of_IO death_NN1 due_JJ to_TO lack_VVI of_IO oxygen_NN1 circulating_VVG to_II the_AT brain_NN1 ._. 
+</s>
+<s>
+Hypoperfusion_NN1 ,_, or_CC shock_NN1 ,_, can_VM be_VBI prevented_VVN if_CS there_EX is_VBZ sufficient_JJ monitoring_NN1 of_IO the_AT blood_NN1 ._. 
+</s>
+<s>
+The_AT Oximeter_NP1 is_VBZ occasionally_RR used_VVN in_II the_AT determination_NN1 of_IO carbon_NN1 monoxide_NN1 poisoning_NN1 ,_, although_CS it_PPH1 must_VM be_VBI noted_VVN ,_, that_DD1 only_JJ levels_NN2 of_IO oxygen_NN1 can_VM be_VBI detected_VVN due_II21 to_II22 the_AT form_NN1 of_IO haemoglobin_NN1 that_CST is_VBZ only_RR formed_VVN with_IW oxygen_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, carboxyhaemoglobin_NN1 ,_, which_DDQ is_VBZ the_AT fusion_NN1 of_IO haemoglobin_NN1 with_IW carbon_NN1 dioxide_NN1 ,_, can_VM not_XX be_VBI sensed_VVN with_IW the_AT oximeter_NN1 ._. 
+</s>
+<s>
+The_AT sensor_NN1 that_CST will_VM be_VBI used_VVN is_VBZ the_AT IPOD_NP1 Oximeter_NP1 finger_NN1 clip_NN1 ._. 
+</s>
+<s>
+Widely_RR found_VVN in_II hospitals_NN2 as_II a_AT1 basic_JJ piece_NN1 of_IO monitoring_VVG equipment_NN1 ,_, it_PPH1 proves_VVZ to_TO be_VBI very_RG useful_JJ in_II the_AT diagnosis_NN1 and_CC monitoring_NN1 of_IO a_AT1 number_NN1 of_IO maladies_NN2 ._. 
+</s>
+<s>
+The_AT IPOD_NP1 Oximeter_NP1 module_NN1 consists_VVZ of_IO a_AT1 peripheral_JJ probe_NN1 ,_, with_IW a_AT1 microprocessor_NN1 unit_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, the_AT peripheral_JJ probe_NN1 contains_VVZ two_MC IR_NN1 sensors_NN2 ,_, and_CC the_AT trace_NN1 is_VBZ displayed_VVN on_II a_AT1 computer_NN1 screen_NN1 ._. 
+</s>
+<s>
+The_AT oximeter_JJR unit_NN1 is_VBZ attached_VVN to_II the_AT computer_NN1 via_II a_AT1 serial_JJ link_NN1 ,_, plugged_VVN into_II the_AT serial_JJ port_NN1 COM1_FO ,_, and_CC is_VBZ connected_VVN to_II a_AT1 9V_NNU battery_NN1 link_NN1 ._. 
+</s>
+<s>
+The_AT patient_NN1 should_VM be_VBI sat_VVN down_RP ,_, and_CC the_AT oximeter_NN1 is_VBZ clipped_VVN over_II the_AT index_NN1 ,_, middle_JJ or_CC ring_VV0 finger_NN1 ._. 
+</s>
+<s>
+The_AT measurements_NN2 will_VM be_VBI more_RGR accurate_JJ if_CS the_AT oximeter_NN1 is_VBZ kept_VVN still_RR ,_, and_CC the_AT finger_NN1 is_VBZ clean_JJ ._. 
+</s>
+<s>
+Nail_NN1 Varnish_NN1 ,_, for_REX21 example_REX22 ,_, will_VM interfere_VVI with_IW the_AT light_NN1 that_CST is_VBZ passed_VVN through_II the_AT fingertip_NN1 ._. 
+</s>
+<s>
+Ultimately_RR ,_, it_PPH1 will_VM be_VBI better_JJR to_TO analyse_VVI results_NN2 that_CST were_VBDR produced_VVN as_II a_AT1 set_NN1 for_IF each_DD1 patient_NN1 ._. 
+</s>
+<s>
+The_AT aimed_JJ% results_NN2 therefore_RR are_VBR for_IF the_AT patient_NN1 at_II rest_NN1 ,_, the_AT patient_NN1 after_II exercise_NN1 ,_, and_CC after_II having_VHG cooled_VVN the_AT fingertip_NN1 by_II running_VVG under_II cold_JJ water_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM show_VVI the_AT differences_NN2 between_II the_AT control_NN1 heart_NN1 rate_NN1 ,_, and_CC the_AT heart_NN1 rate_NN1 at_II a_AT1 higher_JJR speed_NN1 and_CC pressure_NN1 ,_, and_CC will_VM demonstrate_VVI how_RRQ the_AT recording_NN1 is_VBZ affected_VVN by_II vasoconstriction_NN1 of_IO the_AT capillaries_NN2 ._. 
+</s>
+<s>
+It_PPH1 will_VM be_VBI aimed_VVN that_CST at_RR21 least_RR22 three_MC patients_NN2 are_VBR selected_VVN ,_, to_TO allow_VVI for_IF individual_JJ differences_NN2 ,_, and_CC for_IF possible_JJ inaccuracies_NN2 or_CC mistakes_NN2 that_CST are_VBR incurred_VVN ._. 
+</s>
+<s>
+Three_MC sets_NN2 of_IO tests_NN2 were_VBDR performed_VVN by_II three_MC patients_NN2 of_IO similar_JJ physical_JJ description_NN1 :_: Male_JJ ,_, age_NN1 18-20_MCMC ._. 
+</s>
+<s>
+This_DD1 is_VBZ to_TO allow_VVI for_IF some_DD level_NN1 of_IO control_NN1 over_II differences_NN2 in_II results_NN2 ._. 
+</s>
+<s>
+All_DB three_MC are_VBR non-smokers_NN2 ,_, and_CC take_VV0 part_NN1 in_II exercise_NN1 on_II a_AT1 regular_JJ basis_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT irregular_JJ format_NN1 of_IO the_AT document_NN1 that_CST the_AT results_NN2 came_VVD in_RP ,_, it_PPH1 is_VBZ very_RG difficult_JJ to_TO read_VVI the_AT pulse_NN1 rates_NN2 straight_RR off_RP ._. 
+</s>
+<s>
+Therefore_RR ,_, there_EX is_VBZ significant_JJ working_VVG that_CST must_VM be_VBI done_VDN in_BCL21 order_BCL22 to_TO come_VVI up_RP with_IW the_AT correct_JJ heart_NN1 rates_NN2 for_IF each_DD1 set_NN1 of_IO data_NN ._. 
+</s>
+<s>
+The_AT way_NN1 in_II which_DDQ this_DD1 calculation_NN1 was_VBDZ performed_VVN ,_, goes_VVZ that_CST the_AT time_NNT1 for_IF each_DD1 recording_NN1 was_VBDZ taken_VVN down_RP ,_, and_CC the_AT set_NN1 of_IO figures_NN2 put_VVN into_II a_AT1 graph_NN1 ._. 
+</s>
+<s>
+This_DD1 graph_NN1 has_VHZ many_DA2 peaks_NN2 ,_, although_CS the_AT axis_NN1 are_VBR insignificant_JJ ,_, as_CSA seen_VVN in_II Graphs_NN2 1_MC1 -_- 6_MC on_II the_AT following_JJ page_NN1 ._. 
+</s>
+<s>
+From_II our_APPGE knowledge_NN1 ,_, we_PPIS2 know_VV0 the_AT time_NNT1 of_IO the_AT sample_NN1 ,_, so_RR if_CS this_DD1 time_NNT1 is_VBZ taken_VVN and_CC divided_VVN by_II 60_MC (_( seconds_NNT2 in_II a_AT1 minute_NNT1 )_) ,_, then_RT multiplied_VVN by_II the_AT number_NN1 of_IO peaks_NN2 on_II the_AT graph_NN1 ,_, the_AT heart_NN1 rates_NN2 come_VV0 out_RP as_CSA in_II Table_NN1 ._. 
+</s>
+<s>
+1_MC1 ._. 
+</s>
+<s>
+Graph_NN1 6_MC ._. 
+</s>
+<s>
+Tom_NP1 after_II ExerciseGraph_NP1 5_MC ._. 
+</s>
+<s>
+Tom_NP1 at_II Rest_NN1 ._. 
+</s>
+<s>
+The_AT differences_NN2 between_II the_AT three_MC sets_NN2 of_IO results_NN2 are_VBR quite_RG high_JJ considering_II the_AT three_MC patients_NN2 are_VBR superficially_RR similar_JJ ._. 
+</s>
+<s>
+Rich_NP1 's_GE heart_NN1 rate_NN1 is_VBZ the_AT lowest_RRT on_II both_DB2 accounts_NN2 ._. 
+</s>
+<s>
+Whereas_CS ,_, Sam_NP1 's_GE heart_NN1 rate_NN1 seems_VVZ unhealthily_RR high_JJ for_IF a_AT1 person_NN1 at_II rest_NN1 ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI due_II21 to_II22 a_AT1 number_NN1 of_IO reasons_NN2 ,_, including_II exercise_NN1 prior_II21 to_II22 the_AT experiment_NN1 ._. 
+</s>
+<s>
+Tom_NP1 's_GE heart_NN1 rates_NN2 are_VBR somewhat_RR in_II the_AT middle_NN1 ;_; this_DD1 indicates_VVZ that_CST he_PPHS1 is_VBZ a_AT1 sportsman_NN1 who_PNQS participates_VVZ in_II stamina_NN1 sports_NN2 ,_, where_CS the_AT working_JJ heart_NN1 rate_NN1 must_VM be_VBI kept_VVN in_II the_AT middle_JJ range_NN1 to_TO maintain_VVI aerobic_JJ respiration_NN1 ._. 
+</s>
+<s>
+Before_CS the_AT results_NN2 were_VBDR taken_VVN ,_, the_AT heart_NN1 rates_NN2 of_IO the_AT three_MC patients_NN2 were_VBDR taken_VVN ._. 
+</s>
+<s>
+Rich_NP1 ,_, whose_DDQGE apparent_JJ heart_NN1 rate_NN1 is_VBZ 72bpm_FO actually_RR has_VHZ a_AT1 heart_NN1 rate_NN1 of_IO 58_MC ._. 
+</s>
+<s>
+Sam_NP1 's_GE actual_JJ heart_NN1 rate_NN1 is_VBZ 86_MC ,_, and_CC Tom_NP1 's_GE is_VBZ 65_MC ._. 
+</s>
+<s>
+This_DD1 demonstrates_VVZ that_CST the_AT oximeter_NN1 has_VHZ an_AT1 inaccurate_JJ process_NN1 for_IF analysis_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ probably_RR due_II21 to_II22 the_AT spreadsheet_NN1 format_VV0 that_CST it_PPH1 was_VBDZ converted_VVN into_II ._. 
+</s>
+<s>
+It_PPH1 must_VM also_RR be_VBI taken_VVN into_II account_NN1 that_CST this_DD1 device_NN1 is_VBZ not_XX primarily_RR used_VVN for_IF measuring_VVG heart_NN1 rate_NN1 ,_, but_CCB oxygen_NN1 saturation_NN1 ._. 
+</s>
+<s>
+The_AT sample_NN1 candidates_NN2 were_VBDR not_XX regulated_VVN enough_RR to_TO maintain_VVI control_NN1 ._. 
+</s>
+<s>
+Exercise_VV0 prior_II21 to_II22 the_AT experiment_NN1 may_VM have_VHI been_VBN carried_VVN out_RP ,_, and_CC the_AT exercise_NN1 during_II was_VBDZ not_XX regulated_VVN ._. 
+</s>
+<s>
+It_PPH1 seems_VVZ that_CST this_DD1 could_VM be_VBI made_VVN into_II a_AT1 larger_JJR and_CC more_RGR thorough_JJ investigation_NN1 if_CS multiple_JJ candidates_NN2 were_VBDR used_VVN ,_, and_CC better_JJR control_NN1 was_VBDZ maintained_VVN ._. 
+</s>
+<s>
+Other_JJ tests_NN2 were_VBDR briefly_RR carried_VVN out_RP ,_, including_II the_AT introduction_NN1 of_IO vasoconstriction_NN1 to_II the_AT fingertips_NN2 due_II21 to_II22 cold_JJ water_NN1 ,_, and_CC movement_NN1 artifacts_NN2 of_IO the_AT probe_NN1 ._. 
+</s>
+<s>
+On_II both_DB2 of_IO these_DD2 ,_, the_AT results_NN2 were_VBDR severely_RR hindered_VVN ,_, and_CC inaccurate_JJ ._. 
+</s>
+<s>
+Which_DDQ goes_VVZ to_TO show_VVI that_CST the_AT oximeter_NN1 can_VM not_XX be_VBI used_VVN in_II all_DB medical_JJ situations_NN2 ,_, because_CS the_AT patient_NN1 frequently_RR has_VHZ poor_JJ circulation_NN1 or_CC movement_NN1 due_II21 to_II22 shivering_VVG or_CC shaking_VVG ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, the_AT oximeter_NN1 is_VBZ not_XX normally_RR solely_RR responsible_JJ for_IF the_AT monitoring_NN1 of_IO a_AT1 patient_NN1 ._. 
+</s>
+<s>
+Often_RR ,_, it_PPH1 is_VBZ combined_VVN with_IW an_AT1 ECG_NN1 machine_NN1 to_TO directly_RR measure_VVI heart_NN1 signal_NN1 electronically_RR ,_, as_II31 well_II32 as_II33 typical_JJ response_NN1 testing_VVG to_TO ensure_VVI that_CST the_AT patient_NN1 is_VBZ constantly_RR under_II observation_NN1 ._. 
+</s>
+<s>
+The_AT oximeter_NN1 is_VBZ used_VVN by_II passing_JJ light_NN1 of_IO two_MC different_JJ wavelengths_NN2 through_II the_AT fingertip_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ received_VVN and_CC input_NN1 into_II a_AT1 computerized_JJ system_NN1 to_TO represent_VVI the_AT oxygen_NN1 saturation_NN1 and_CC pulse_NN1 of_IO the_AT patient_NN1 ._. 
+</s>
+<s>
+Oximetry_NN1 is_VBZ an_AT1 important_JJ device_NN1 to_TO monitor_VVI patients_NN2 within_II a_AT1 medical_JJ environment_NN1 ._. 
+</s>
+<s>
+From_II investigation_NN1 ,_, we_PPIS2 have_VH0 proved_VVN that_CST the_AT oximeter_NN1 picks_VVZ up_RP on_II variations_NN2 in_II pulse_NN1 due_JJ to_TO exercise_VVI ,_, markedly_RR an_AT1 increase_NN1 in_II heart_NN1 rate_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ vital_JJ to_TO remember_VVI that_CST the_AT oximeter_JJR probe_NN1 is_VBZ affected_VVN by_II movements_NN2 ,_, and_CC by_II circulation_NN1 issues_NN2 such_II21 as_II22 vasoconstriction_NN1 ._. 
+</s>
+<s>
+People_NN with_IW poor_JJ circulation_NN1 to_II the_AT extremities_NN2 may_VM show_VVI up_RP differently_RR on_II the_AT computer_NN1 screen_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT oximeters_NN2 are_VBR heavily_RR used_VVN in_II surgery_NN1 ,_, to_TO ensure_VVI that_CST a_AT1 patient_NN1 under_II general_JJ anaesthetic_NN1 is_VBZ receiving_VVG enough_DD oxygen_NN1 ,_, and_CC not_XX going_VVG into_II hypoxia_NN1 ._. 
+</s>
+<s>
+The_AT oximeter_NN1 can_VM also_RR be_VBI used_VVN in_II conjunction_NN1 to_II an_AT1 ECG_NN1 machine_NN1 ,_, that_DD1 measures_VVZ heart_NN1 signals_NN2 directly_RR ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN suggested_VVN that_CST the_AT pulse_NN1 oximeter_NN1 will_VM be_VBI developed_VVN in_II the_AT future_JJ to_TO rely_VVI on_II light_JJ reflectance_NN1 instead_II21 of_II22 transmittance_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM mean_VVI that_CST the_AT light_NN1 would_VM not_XX need_VVI to_TO pass_VVI completely_RR through_II a_AT1 body_NN1 part_NN1 ,_, and_CC so_RR it_PPH1 would_VM not_XX be_VBI restricted_VVN to_TO use_VVI on_II the_AT fingertip_NN1 or_CC earlobe_NN1 ._. 
+</s>
+<s>
+This_DD1 could_VM help_VVI in_II measurement_NN1 of_IO oxygen_NN1 saturation_NN1 across_II the_AT body_NN1 ,_, so_CS it_PPH1 could_VM be_VBI determined_VVN if_CS there_EX are_VBR blood_NN1 flow_NN1 restrictions_NN2 elsewhere_RL ._. 
+</s>
+<s>
+This_DD1 would_VM also_RR lead_VVI to_II the_AT development_NN1 of_IO an_AT1 oximeter_JJR sensor_NN1 to_TO use_VVI within_II the_AT uterus_NN1 to_TO monitor_VVI unborn_JJ baby_NN1 's_GE oxygen_NN1 levels_NN2 ,_, which_DDQ would_VM be_VBI highly_RR useful_JJ in_II the_AT future_NN1 ._. 
+</s>

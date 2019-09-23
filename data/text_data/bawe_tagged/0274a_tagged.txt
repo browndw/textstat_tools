@@ -1,0 +1,165 @@
+<s>
+"_" Why_RRQ do_VD0 people_NN not_XX walk_NN1 or_CC even_RR run_VVN with_IW a_AT1 smooth_JJ level_JJ gait_NN1 ,_, like_II a_AT1 waiter_NN1 holding_VVG two_MC cups_VVZ brim-full_JJ of_IO boiling_JJ coffee_NN1 ?_? 
+</s>
+<s>
+Why_RRQ do_VD0 people_NN select_JJ walking_NN1 and_CC running_VVG from_II the_AT other_JJ possibilities_NN2 ?_? 
+</s>
+<s>
+We_PPIS2 address_VV0 such_DA questions_NN2 by_II modelling_VVG a_AT1 person_NN1 as_CSA a_AT1 machine_NN1 describable_JJ with_IW the_AT equations_NN2 of_IO Newtonian_JJ mechanics_NN2 ._. 
+</s>
+<s>
+"_" Although_CS people_NN 's_GE legs_NN2 are_VBR capable_JJ of_IO a_AT1 broad_JJ range_NN1 of_IO muscle-use_NN1 and_CC gait_NN1 patterns_NN2 ,_, they_PPHS2 generally_RR prefer_VV0 just_RR two_MC ._. 
+</s>
+<s>
+They_PPHS2 walk_VV0 ,_, swinging_VVG their_APPGE body_NN1 over_II a_AT1 relatively_RR straight_JJ leg_NN1 with_IW each_DD1 step_NN1 ,_, or_CC run_NN1 ,_, bouncing_VVG up_RP off_II a_AT1 bent_JJ leg_NN1 between_II aerial_NN1 phases_NN2 ._. 
+</s>
+<s>
+Walking_NN1 feels_VVZ easiest_JJT when_CS going_VVG slowly_RR ,_, and_CC running_NN1 feels_VVZ easiest_JJT when_CS going_VVG faster_RRR ._. 
+</s>
+<s>
+More_RGR unusual_JJ gaits_NN2 seem_VV0 more_RGR tiring_JJ ._. 
+</s>
+<s>
+Perhaps_RR this_DD1 is_VBZ because_CS walking_VVG and_CC running_VVG use_VV0 the_AT least_DAT energy_NN1 ._. 
+</s>
+<s>
+Addressing_VVG this_DD1 classic_JJ conjecture_NN1 with_IW experiments_NN2 requires_VVZ comparing_VVG walking_NN1 and_CC running_VVG with_IW many_DA2 other_JJ strange_JJ and_CC unpractised_JJ gaits_NN2 ._. 
+</s>
+<s>
+"_" As_II an_AT1 alternative_NN1 ,_, a_AT1 basic_JJ understanding_NN1 of_IO gait_NN1 choice_NN1 might_VM be_VBI obtained_VVN by_II calculating_VVG energy_NN1 cost_NN1 by_II using_VVG mechanics-based_JJ models_NN2 ._. 
+</s>
+<s>
+Here_RL we_PPIS2 use_VV0 a_AT1 minimal_JJ model_NN1 that_CST can_VM describe_VVI walking_NN1 and_CC running_VVG as_CSA well_RR as_II an_AT1 infinite_JJ variety_NN1 of_IO other_JJ gaits_NN2 ._. 
+</s>
+<s>
+We_PPIS2 &lsqb;_( can_NN1% &rsqb;_) use_VV0 computer_NN1 optimization_NN1 to_TO find_VVI which_DDQ gaits_NN2 are_VBR indeed_RR energetically_RR optimal_JJ for_IF this_DD1 model_NN1 ._. 
+</s>
+<s>
+At_II low_NN1 speeds_VVZ the_AT optimization_NN1 discovers_VVZ the_AT classic_JJ inverted-pendulum_JJ walk_NN1 ,_, at_II high_JJ speeds_NN2 it_PPH1 discovers_VVZ a_AT1 bouncing_JJ run_NN1 ,_, even_RR without_IW springs_NN2 ,_, and_CC at_II intermediate_JJ speeds_NN2 it_PPH1 finds_VVZ a_AT1 new_JJ pendular-running_JJ gait_NN1 that_CST includes_VVZ walking_NN1 and_CC running_VVG as_RG extreme_JJ cases_NN2 ._. 
+</s>
+<s>
+"_" One_MC1 way_NN1 of_IO characterizing_VVG gaits_NN2 is_VBZ by_II the_AT motions_NN2 of_IO the_AT body_NN1 ._. 
+</s>
+<s>
+In_II these_DD2 terms_NN2 ,_, walking_NN1 seems_VVZ well_RR caricatured_VVN (_( Fig._NN1 1_MC1 )_) by_II the_AT hip_NN1 joint_NN1 going_VVG from_II one_MC1 circular_JJ arc_NN1 to_II the_AT next_MD with_IW push-off_JJ and_CC heel-strike_JJ impulses_NN2 in_RL21 between_RL22 ._. "_" ._. 
+</s>
+<s>
+This_DD1 analysis_NN1 will_VM examine_VVI assumptions_NN2 that_CST can_VM be_VBI used_VVN to_TO model_VVI the_AT bipedal_JJ gait_NN1 ,_, analysis_NN1 of_IO the_AT bipedal_JJ model_NN1 ,_, and_CC how_RRQ the_AT model_NN1 may_VM be_VBI generalised_VVN to_TO consider_VVI the_AT quadrupedal_JJ gait_NN1 ._. 
+</s>
+<s>
+People_NN have_VH0 compact_JJ bodies_NN2 ;_; legs_NN2 are_VBR massless_JJ ._. 
+</s>
+<s>
+Gait_NP1 choice_NN1 is_VBZ based_VVN on_II energy_NN1 optimisation_NN1 ._. 
+</s>
+<s>
+Energy_NN1 cost_NN1 muscle_NN1 work_NN1 ._. 
+</s>
+<s>
+Treat_VV0 the_AT body_NN1 as_II a_AT1 point_NN1 mass_NN1 m_ZZ1 at_II a_AT1 position_NN1 (_( x_ZZ1 ,_, y_ZZ1 )_) at_II a_AT1 time_NNT1 t_ZZ1 (_( figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+Assume_VV0 no_AT dependence_NN1 on_II elastic_JJ storage_NN1 ;_; assume_VV0 no_AT springs_NN2 (_( tendons_NN2 )_) ._. 
+</s>
+<s>
+Stance_NN1 phase_NN1 is_VBZ when_RRQ at_RR21 most_RR22 one_MC1 foot_NN1 can_VM be_VBI in_II31 contact_II32 with_II33 the_AT ground_NN1 at_II a_AT1 time_NNT1 (_( figure_NN1 3_MC )_) ._. 
+</s>
+<s>
+Flight_NN1 phase_NN1 is_VBZ when_RRQ neither_DD1 leg_NN1 touches_VVZ the_AT ground_NN1 (_( figure_NN1 3_MC )_) ._. 
+</s>
+<s>
+The_AT left_JJ and_CC right_JJ legs_NN2 have_VH0 identical_JJ force_NN1 and_CC length_NN1 ._. 
+</s>
+<s>
+A_AT1 single_JJ step_NN1 is_VBZ defined_VVN by_II one_MC1 stance_NN1 phase_NN1 and_CC one_MC1 flight_NN1 phase_NN1 ._. 
+</s>
+<s>
+Thus_RR running_VVG would_VM consist_VVI of_IO a_AT1 short_JJ stance_NN1 phase_NN1 ,_, whilst_CS walking_NN1 would_VM have_VHI a_AT1 flight_NN1 phase_NN1 of_IO zero_NN1 duration_NN1 ._. 
+</s>
+<s>
+A_AT1 gait_NN1 is_VBZ characterized_VVN by_II the_AT position_NN1 and_CC velocity_NN1 of_IO the_AT body_NN1 at_II the_AT start_NN1 of_IO a_AT1 stance_NN1 phase_NN1 relative_II21 to_II22 the_AT stance_NN1 foot_NN1 ,_, the_AT step_NN1 period_NN1 ,_, and_CC F(t)_NNU ;_; the_AT force_NN1 along_II the_AT leg_NN1 (_( figure_NN1 4_MC )_) ._. 
+</s>
+<s>
+Resolving_VVG forces_NN2 vertically_RR and_CC horizontally_RR ,_, Newton_NP1 's_GE Law_NN1 gives_VVZ ,_, for_IF stance_NN1 (_( i.e._REX when_CS at_RR21 least_RR22 one_MC1 foot_NN1 is_VBZ in_II31 contact_II32 with_II33 the_AT ground_NN1 )_) with_IW duration_NN1 t_ZZ1 s_ZZ1 ,_, where_RRQ ._. 
+</s>
+<s>
+Time_NNT1 t_ZZ1 =_FO 0_MC is_VBZ the_AT beginning_NN1 of_IO a_AT1 stance_NN1 phase_NN1 with_IW foot-contact_JJ point_NN1 x_ZZ1 c_ZZ1 =_FO 0_MC ._. 
+</s>
+<s>
+The_AT initial_JJ conditions_NN2 are_VBR ,_, ,_, ,_, and_CC ._. 
+</s>
+<s>
+At_II ,_, periodicity_NN1 requires_VVZ that_CST ,_, ,_, and_CC ._. 
+</s>
+<s>
+For_IF given_JJ l_ZZ1 max_NN1 ,_, d_ZZ1 and_CC v_ZZ1 ,_, we_PPIS2 need_VV0 to_TO find_VVI the_AT optimal_JJ strategy_NN1 that_CST minimizes_VVZ work_NN1 ._. 
+</s>
+<s>
+Now_RT mechanical_JJ work_NN1 is_VBZ given_VVN by_II d_ZZ1 W_ZZ1 =_FO Fd_NP1 l_ZZ1 ,_, giving_VVG effective_JJ cost_NN1 :_: ._. 
+</s>
+<s>
+where_RRQ &lsqb;_( &rsqb;_) +_FO is_VBZ non-zero_JJ only_RR for_IF positive_JJ values_NN2 ,_, i.e._REX &lsqb;_( p_ZZ1 &rsqb;_) +_FO =_FO p_ZZ1 if_CS p_ZZ1 0_MC and_CC &lsqb;_( p_ZZ1 &rsqb;_) +_FO =_FO 0_MC if_CS p_ZZ1 0_MC ._. 
+</s>
+<s>
+This_DD1 problem_NN1 can_VM not_XX be_VBI solved_VVN by_II elementary_JJ methods_NN2 since_CS l_ZZ1 depends_VVZ on_II x_ZZ1 ,_, y_ZZ1 and_CC t_ZZ1 ,_, but_CCB can_VM be_VBI solved_VVN using_VVG numerical_JJ methods_NN2 (_( Srinivasan_NP1 and_CC Ruina_NP1 ,_, Nature_NN1 439_MC )_) ._. 
+</s>
+<s>
+The_AT resulting_JJ solution_NN1 (_( Figure_NN1 6_MC )_) shows_VVZ that_CST inverted_JJ pendulum_NN1 walking_NN1 is_VBZ the_AT preferred_JJ gait_NN1 for_IF low_JJ speeds_NN2 and_CC running_NN1 is_VBZ preferred_VVN at_II high_JJ speeds_NN2 ,_, as_CSA expected_VVN ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT article_NN1 ,_, real_JJ biological_JJ legs_NN2 approximately_RR simulate_VV0 an_AT1 elastic_JJ spring_NN1 during_II running_VVG ._. 
+</s>
+<s>
+Define_VV0 e_ZZ1 to_TO be_VBI the_AT extension_NN1 of_IO a_AT1 leg_NN1 ._. 
+</s>
+<s>
+Then_RT e_ZZ1 can_VM be_VBI modelled_VVN as_II a_AT1 simple_JJ harmonic_JJ oscillator_NN1 :_: ,_, with_IW a_AT1 frequency_NN1 ._. 
+</s>
+<s>
+Since_CS k_ZZ1 and_CC m_ZZ1 are_VBR constant_JJ ,_, this_DD1 is_VBZ independent_JJ of_IO e_ZZ1 ._. 
+</s>
+<s>
+Solving_VVG this_DD1 gives_VVZ ,_, ._. 
+</s>
+<s>
+Now_RT ,_, given_VVN l_ZZ1 =_FO l_ZZ1 0_MC at_II t_ZZ1 =_FO 0_MC ,_, ._. 
+</s>
+<s>
+The_AT biped_JJ gait_NN1 can_VM also_RR be_VBI linked_VVN to_II the_AT quadruped_JJ gait_NN1 ._. 
+</s>
+<s>
+While_CS the_AT pronk_NN1 is_VBZ similar_JJ to_II standing_VVG in_II31 terms_II32 of_II33 leg_NN1 movement_NN1 ,_, the_AT gaits_NN2 with_IW a_AT1 single_JJ line_NN1 of_IO symmetry_NN1 can_VM be_VBI modelled_VVN to_II the_AT biped_JJ gait_NN1 ._. 
+</s>
+<s>
+Imagine_VV0 two_MC bipeds_NN2 of_IO equal_JJ mass_NN1 and_CC height_NN1 moving_VVG alongside_II each_PPX221 other_PPX222 at_II constant_JJ distance_NN1 ._. 
+</s>
+<s>
+Pair_VV0% the_AT legs_NN2 of_IO the_AT quadruped_JJ that_CST are_VBR 0.5_MC ,_, i.e._REX half_DB a_AT1 phase_NN1 out_RP ._. 
+</s>
+<s>
+These_DD2 are_VBR the_AT legs_NN2 of_IO the_AT bipeds_NN2 ._. 
+</s>
+<s>
+By_II taking_VVG the_AT average_NN1 of_IO their_APPGE leg_NN1 positions_NN2 ,_, we_PPIS2 can_VM find_VVI the_AT position_NN1 of_IO the_AT centre_NN1 of_IO mass_NN1 that_CST we_PPIS2 need_VV0 to_TO model_VVI the_AT quadruped_JJ to_II the_AT biped_JJ ._. 
+</s>
+<s>
+We_PPIS2 can_VM model_VVI the_AT transverse_JJ gallop_NN1 ,_, the_AT rotary_JJ gallop_NN1 ,_, and_CC the_AT walk_NN1 in_II the_AT same_DA way_NN1 ,_, but_CCB the_AT two_MC 'bipeds_NN2 '_GE would_VM be_VBI moving_VVG out_II21 of_II22 sync_NN1 with_IW each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+The_AT canter_NN1 ,_, on_II the_AT other_JJ hand_NN1 ,_, is_VBZ more_RGR difficult_JJ as_II the_AT legs_NN2 move_VV0 in_II unequal_JJ periods_NN2 ._. 
+</s>
+<s>
+Combining_VVG these_DD2 models_NN2 we_PPIS2 believe_VV0 that_CST the_AT optimal_JJ gait_NN1 will_VM still_RR be_VBI walking_VVG for_IF low_JJ speeds_NN2 and_CC galloping_VVG for_IF higher_JJR speeds_NN2 ,_, with_IW the_AT bound_NN1 ,_, pace_NN1 and_CC trot_VV0 being_VBG energy_NN1 inefficient_JJ ._. 
+</s>
+<s>
+Our_APPGE model_NN1 ,_, by_II definition_NN1 ,_, is_VBZ a_AT1 simplification_NN1 of_IO the_AT real_JJ life_NN1 situation_NN1 and_CC so_RR we_PPIS2 have_VH0 ignored_VVN several_DA2 factors_NN2 ._. 
+</s>
+<s>
+These_DD2 include_VV0 the_AT energy_NN1 cost_NN1 of_IO leg_NN1 swinging_VVG ,_, the_AT possibility_NN1 of_IO higher_JJR period_NN1 gaits_NN2 such_II21 as_II22 skipping_VVG ,_, and_CC the_AT assumption_NN1 of_IO inelasticity_NN1 in_II human_JJ legs_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT elasticity_NN1 we_PPIS2 assumed_VVD in_II the_AT legs_NN2 of_IO running_JJ bipeds_NN2 ,_, reducing_VVG the_AT effective_JJ cost_NN1 at_II high_JJ speeds_NN2 ,_, can_VM be_VBI generalised_VVN to_II quadrupeds_NN2 ._. 
+</s>
+<s>
+While_CS we_PPIS2 have_VH0 applied_VVN these_DD2 assumptions_NN2 ,_, using_VVG our_APPGE model_NN1 we_PPIS2 can_VM see_VVI that_CST a_AT1 smooth_JJ level_JJ gait_NN1 will_VM be_VBI energy_NN1 inefficient_JJ ._. 
+</s>

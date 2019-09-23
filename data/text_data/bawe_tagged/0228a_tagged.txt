@@ -1,0 +1,558 @@
+<s>
+The_AT objective_NN1 of_IO the_AT report_NN1 was_VBDZ to_TO investigate_VVI the_AT feasibility_NN1 of_IO implementing_VVG a_AT1 low_JJ cost_NN1 barcode_NN1 reader_NN1 for_IF a_AT1 sales_NN counter_VV0 ._. 
+</s>
+<s>
+Many_DA2 user_NN1 requirements_NN2 were_VBDR considered_VVN and_CC a_AT1 system_NN1 specification_NN1 was_VBDZ developed_VVN ._. 
+</s>
+<s>
+The_AT functions_NN2 considered_VVN were_VBDR transaction_NN1 operations_NN2 ,_, quantity_NN1 input_NN1 and_CC barcode_VV0 reading_NN1 ,_, decoding_VVG ,_, processing_VVG and_CC database_NN1 matching_NN1 ._. 
+</s>
+<s>
+When_CS designing_VVG the_AT system_NN1 these_DD2 factors_NN2 and_CC functions_NN2 were_VBDR taken_VVN into_II account_NN1 ._. 
+</s>
+<s>
+A_AT1 system_NN1 was_VBDZ preliminary_JJ designed_VVN which_DDQ currently_RR meets_VVZ the_AT user_NN1 requirements_NN2 and_CC system_NN1 specification_NN1 ._. 
+</s>
+<s>
+In_II total_NN1 it_PPH1 cost_VVD 500_MC for_IF all_DB the_AT hardware_NN1 requirements_NN2 and_CC 8760_MC for_IF software_NN1 development_NN1 ._. 
+</s>
+<s>
+For_IF 100_MC hundred_NNO systems_NN2 the_AT cost_NN1 per_II system_NN1 would_VM be_VBI 588_MC ._. 
+</s>
+<s>
+The_AT performance_NN1 speed_NN1 is_VBZ suitable_JJ at_II 9ms_FO and_CC the_AT memory_NN1 burdens_NN2 are_VBR not_XX high_RR at_II 16kb_FO ._. 
+</s>
+<s>
+The_AT software_NN1 for_IF the_AT system_NN1 could_VM be_VBI written_VVN and_CC fully_RR tested_VVN within_II 45_MC days_NNT2 ._. 
+</s>
+<s>
+The_AT user_NN1 requirements_NN2 and_CC system_NN1 specification_NN1 will_VM need_VVI to_TO be_VBI revised_VVN in_BCL21 order_BCL22 to_TO produce_VVI a_AT1 better_JJR ,_, more_RGR efficient_JJ ,_, barcode_VV0 reader_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT implementation_NN1 of_IO a_AT1 low-cost_JJ barcode_NN1 reader_NN1 for_IF sales_NN counters_NN2 is_VBZ feasible_JJ ._. 
+</s>
+<s>
+This_DD1 report_NN1 will_VM investigate_VVI the_AT feasibility_NN1 of_IO implementing_VVG a_AT1 low-cost_JJ barcode_NN1 reader_NN1 at_II sales_NN counters_NN2 in_II a_AT1 high_JJ street_NN1 shopping_NN1 area_NN1 ._. 
+</s>
+<s>
+Many_DA2 stores_NN2 or_CC shops_NN2 have_VH0 a_AT1 large_JJ number_NN1 of_IO items_NN2 that_CST they_PPHS2 sell_VV0 ,_, some_DD stores_NN2 selling_VVG tens_MC2 of_IO thousands_NNO2 of_IO products_NN2 ._. 
+</s>
+<s>
+This_DD1 makes_VVZ it_PPH1 difficult_JJ for_IF staff_NN to_TO remember_VVI all_DB the_AT prices_NN2 of_IO each_DD1 individual_JJ item_NN1 ._. 
+</s>
+<s>
+Most_DAT of_IO the_AT product_NN1 information_NN1 ,_, including_II its_APPGE price_NN1 ,_, is_VBZ stored_VVN on_II a_AT1 computer_NN1 somewhere_RL within_II the_AT store_NN1 where_CS the_AT price_NN1 can_VM be_VBI accessed_VVN with_IW ease_NN1 ._. 
+</s>
+<s>
+However_RRQV it_PPH1 would_VM take_VVI a_AT1 long_JJ time_NNT1 for_IF a_AT1 staff_NN member_NN1 to_TO enter_VVI the_AT name_NN1 of_IO each_DD1 product_NN1 to_TO find_VVI out_RP its_APPGE price_NN1 ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI better_RRR if_CS there_EX was_VBDZ a_AT1 system_NN1 in_II which_DDQ a_AT1 computer_NN1 itself_PPX1 could_VM identify_VVI the_AT product_NN1 and_CC then_RT give_VV0 all_DB the_AT necessary_JJ information_NN1 relating_VVG to_II that_DD1 product_NN1 ._. 
+</s>
+<s>
+This_DD1 system_NN1 would_VM be_VBI the_AT barcode_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT barcode_NN1 system_NN1 involves_VVZ each_DD1 product_NN1 being_VBG labelled_VVN by_II a_AT1 series_NN of_IO lines_NN2 varying_VVG in_II width_NN1 ._. 
+</s>
+<s>
+E.g._REX These_DD2 lines_NN2 represent_VV0 bits_NN2 which_DDQ can_VM be_VBI read_VVN by_II a_AT1 high-resolution_JJ barcode_NN1 wand_NN1 ;_; the_AT black_JJ lines_NN2 represent_VV0 logic_NN1 1_MC1 and_CC the_AT white_JJ spaces_NN2 represent_VV0 logic_NN1 0_MC ._. 
+</s>
+<s>
+The_AT barcode_NN1 can_VM be_VBI scanned_VVN by_II the_AT wand_NN1 ,_, giving_VVG a_AT1 bit_NN1 pattern_NN1 which_DDQ corresponds_VVZ to_II an_AT1 item_NN1 in_II the_AT database_NN1 ._. 
+</s>
+<s>
+In_II theory_NN1 this_DD1 works_VVZ well_RR however_RRQV when_CS dealing_VVG with_IW a_AT1 real_JJ time_NNT1 system_NN1 there_EX are_VBR other_JJ factors_NN2 to_TO be_VBI considered_VVN ._. 
+</s>
+<s>
+The_AT system_NN1 would_VM need_VVI to_TO work_VVI well_RR with_IW the_AT database_NN1 of_IO the_AT store_NN1 ;_; it_PPH1 would_VM need_VVI to_TO be_VBI fast_RR enough_RR so_CS21 that_CS22 customers_NN2 are_VBR not_XX left_VVN waiting_VVG for_IF too_RG long_RR ;_; the_AT system_NN1 has_VHZ to_TO be_VBI cheap_JJ ._. 
+</s>
+<s>
+Overall_RR the_AT barcode_NN1 system_NN1 should_VM be_VBI able_JK to_TO read_VVI a_AT1 barcode_NN1 ,_, convert_NN1 and_CC send_VVI it_PPH1 to_II a_AT1 database_NN1 where_RRQ it_PPH1 is_VBZ matched_VVN and_CC then_RT related_JJ information_NN1 sent_VVN back_RP to_II a_AT1 display_NN1 where_CS the_AT user_NN1 can_VM obtain_VVI all_DB the_AT information_NN1 needed_VVD ._. 
+</s>
+<s>
+This_DD1 report_NN1 will_VM investigate_VVI the_AT factors_NN2 involved_VVN and_CC decide_VVI whether_CSW it_PPH1 is_VBZ feasible_JJ to_TO implement_VVI a_AT1 low-cost_JJ barcode_NN1 reader_NN1 for_IF sales_NN counters_NN2 ._. 
+</s>
+<s>
+The_AT system_NN1 is_VBZ to_TO be_VBI used_VVN in_II a_AT1 store_NN1 or_CC a_AT1 shop_NN1 ._. 
+</s>
+<s>
+Therefore_RR the_AT requirements_NN2 of_IO this_DD1 system_NN1 will_VM have_VHI to_TO be_VBI most_RGT suited_JJ for_IF a_AT1 store_NN1 or_CC a_AT1 shop_NN1 ._. 
+</s>
+<s>
+The_AT focus_NN1 of_IO the_AT system_NN1 will_VM have_VHI to_TO lean_VVI towards_II customer_NN1 efficiency_NN1 ,_, low_JJ cost_NN1 and_CC customer_NN1 satisfaction_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 will_VM use_VVI the_AT barcode_NN1 reader_NN1 as_II the_AT input_NN1 ._. 
+</s>
+<s>
+However_RR to_TO perform_VVI the_AT functions_NN2 described_VVN below_RL the_AT barcode_NN1 reader_NN1 would_VM need_VVI to_TO have_VHI the_AT following_JJ controls_NN2 :_: ADD_VV0 button_NN1 :_: Button_NN1 indicating_VVG products_NN2 will_VM be_VBI added_VVN to_II the_AT current_JJ bill_NN1 ._. 
+</s>
+<s>
+WITHDRAW_VV0 button_NN1 :_: Button_NN1 indicating_VVG products_NN2 will_VM be_VBI removed_VVN from_II the_AT current_JJ bill_NN1 ._. 
+</s>
+<s>
+SCAN_VV0 button_NN1 :_: Button_NN1 used_VMK to_TO begin_VVI scan_NN1 ._. 
+</s>
+<s>
+10_MC digit_NN1 Number_NN1 pad_NN1 :_: Number_NN1 pad_NN1 would_VM be_VBI used_VVN to_TO enter_VVI quantity_NN1 of_IO items_NN2 ._. 
+</s>
+<s>
+The_AT outputs_NN2 from_II the_AT system_NN1 are_VBR mainly_RR through_II displays_NN2 presenting_VVG product_NN1 information_NN1 ._. 
+</s>
+<s>
+LCD_NN1 screen_NN1 :_: This_DD1 would_VM be_VBI a_AT1 LCD_NN1 screen_NN1 on_II the_AT barcode_NN1 reader_NN1 displaying_VVG the_AT quantity_NN1 of_IO items_NN2 to_TO be_VBI scanned_VVN ._. 
+</s>
+<s>
+Audio_JJ tweeter_NN1 :_: To_TO be_VBI used_VVN as_CSA feedback_NN1 during_II successful_JJ and_CC unsuccessful_JJ scans_NN2 ._. 
+</s>
+<s>
+Display_VV0 Unit_NN1 :_: A_ZZ1 CRT_NP1 or_CC TFT_NP1 screen_NN1 displaying_VVG information_NN1 related_VVN to_II the_AT product_NN1 scanned_VVD ._. 
+</s>
+<s>
+It_PPH1 would_VM also_RR display_VVI the_AT current_JJ shopping_NN1 bill_NN1 and_CC the_AT related_JJ details_NN2 ._. 
+</s>
+<s>
+Transaction_NN1 -_- The_AT system_NN1 will_VM be_VBI able_JK to_TO carry_VVI out_RP two_MC main_JJ operations_NN2 when_CS encountering_VVG businesses_NN2 ._. 
+</s>
+<s>
+These_DD2 are_VBR selling_VVG and_CC returning_VVG goods_NN2 ._. 
+</s>
+<s>
+To_TO put_VVI these_DD2 into_II the_AT context_NN1 of_IO the_AT system_NN1 they_PPHS2 can_VM be_VBI described_VVN as_CSA adding_VVG an_AT1 item_NN1 to_II a_AT1 current_JJ bill_NN1 and_CC withdrawing_VVG an_AT1 item_NN1 from_II a_AT1 current_JJ bill_NN1 ._. 
+</s>
+<s>
+Quantity_NN1 -_- The_AT system_NN1 would_VM be_VBI able_JK to_TO allow_VVI users_NN2 to_TO enter_VVI a_AT1 quantity_NN1 to_TO be_VBI associated_VVN with_IW the_AT product_NN1 being_VBG added_VVN or_CC withdrawn_VVN ._. 
+</s>
+<s>
+This_DD1 will_VM speed_VVI up_RP transactions_NN2 of_IO repeat_VV0 items_NN2 ._. 
+</s>
+<s>
+Scan_VV0 -_- The_AT system_NN1 will_VM be_VBI able_JK to_TO scan_VVI ,_, decode_NN1 and_CC process_VVI barcodes_NN2 ._. 
+</s>
+<s>
+These_DD2 barcodes_NN2 will_VM be_VBI matched_VVN up_RP with_IW data_NN in_II the_AT servers_NN2 and_CC the_AT appropriate_JJ information_NN1 will_VM be_VBI sent_VVN back_RP to_II the_AT user_NN1 ._. 
+</s>
+<s>
+This_DD1 function_NN1 would_VM be_VBI used_VVN in_II31 conjunction_II32 with_II33 the_AT functions_NN2 mentioned_VVN above_RL ._. 
+</s>
+<s>
+Hardware_NN1 requirements_NN2 -_- The_AT hardware_NN1 requirements_NN2 of_IO the_AT barcode_NN1 system_NN1 will_VM involve_VVI :_: Within_II barcode_NN1 system_NN1 :_: The_AT barcode_NN1 wand_NN1 or_CC reader_NN1 -_- Used_VVN to_TO read_VVI or_CC scan_VVI barcodes_NN2 ._. 
+</s>
+<s>
+This_DD1 should_VM be_VBI accurate_JJ enough_RR to_TO read_VVI the_AT narrowest_JJT bars_NN2 of_IO 0.19mm_NNU ._. 
+</s>
+<s>
+An_AT1 audio_JJ tweeter_NN1 -_- Used_VVN as_CSA feedback_NN1 during_II successful_JJ and_CC unsuccessful_JJ scans_NN2 ._. 
+</s>
+<s>
+Direct_JJ communication_NN1 with_IW barcode_NN1 system_NN1 :_: Display_VV0 Unit_NN1 -_- The_AT information_NN1 relating_VVG to_II the_AT product_NN1 would_VM be_VBI shown_VVN on_II a_AT1 display_NN1 unit_NN1 ._. 
+</s>
+<s>
+The_AT display_NN1 unit_NN1 should_VM be_VBI able_JK to_TO receive_VVI information_NN1 from_II the_AT server_NN1 ,_, through_II the_AT barcode_NN1 system_NN1 ,_, and_CC display_VV0 it_PPH1 appropriately_RR ._. 
+</s>
+<s>
+The_AT display_NN1 unit_NN1 would_VM typically_RR be_VBI a_AT1 CRT_NP1 (_( Cathode_NN1 Ray_NP1 Tube_NN1 )_) or_CC TFT_NP1 (_( Thin_JJ Film_NN1 Transistor_NN1 )_) display_VV0 ._. 
+</s>
+<s>
+A_AT1 server_NN1 -_- This_DD1 would_VM contain_VVI the_AT database_NN1 of_IO products_NN2 with_IW their_APPGE bit_NN1 pattern_NN1 recognition_NN1 ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI able_JK to_TO interface_VVI quickly_RR and_CC efficiently_RR with_IW the_AT barcode_NN1 reader_NN1 and_CC the_AT display_NN1 unit_NN1 ._. 
+</s>
+<s>
+Software_NN1 requirements_NN2 -_- The_AT software_NN1 requirements_NN2 of_IO the_AT barcode_NN1 system_NN1 will_VM involve_VVI :_: Written_VVN in_II a_AT1 high_JJ level_JJ language_NN1 -_- Using_VVG C_ZZ1 ,_, Ada_NP1 or_CC Modula2_FO which_DDQ have_VH0 been_VBN fully_RR tried_JJ and_CC tested_JJ languages_NN2 and_CC are_VBR frequently_RR used_VVN for_IF hardware_NN1 interfacing_NN1 ._. 
+</s>
+<s>
+High_JJ level_JJ languages_NN2 also_RR use_VV0 less_DAR code_NN1 and_CC are_VBR more_RGR flexible_JJ than_CSN assembly_NN1 code_NN1 ._. 
+</s>
+<s>
+The_AT code_NN1 should_VM be_VBI well_RR written_VVN and_CC tested_VVN thoroughly_RR -_- If_CS the_AT code_NN1 is_VBZ badly_RR written_VVN it_PPH1 could_VM cause_VVI the_AT entire_JJ barcode_NN1 system_NN1 to_TO hang_VVI in_II the_AT middle_NN1 of_IO operation_NN1 ._. 
+</s>
+<s>
+This_DD1 could_VM have_VHI disastrous_JJ consequences_NN2 for_IF a_AT1 business_NN1 ._. 
+</s>
+<s>
+The_AT barcode_NN1 system_NN1 should_VM process_VVI barcodes_NN2 in_II real_JJ time_NNT1 -_- The_AT barcode_NN1 system_NN1 will_VM receive_VVI the_AT input_NN1 of_IO a_AT1 barcode_NN1 bit_NN1 pattern_NN1 ,_, through_II the_AT barcode_NN1 wand_NN1 ,_, match_VV0 the_AT pattern_NN1 with_IW the_AT product_NN1 in_II the_AT database_NN1 ,_, and_CC return_VV0 the_AT associated_JJ information_NN1 to_II the_AT user_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM involve_VVI interfacing_NN1 with_IW the_AT server_NN1 ,_, sending_VVG data_NN via_II cables_NN2 and_CC displaying_VVG the_AT information_NN1 on_II a_AT1 display_NN1 unit_NN1 ._. 
+</s>
+<s>
+All_DB of_IO this_DD1 has_VHZ to_TO be_VBI done_VDN within_II a_AT1 1_MC1 or_CC 2_MC seconds_NNT2 so_CS21 that_CS22 customers_NN2 and_CC staff_NN are_VBR not_XX left_JJ waiting_NN1 ._. 
+</s>
+<s>
+Desirably_RR ,_, as_CS31 soon_CS32 as_CS33 the_AT barcode_NN1 is_VBZ scanned_VVN the_AT information_NN1 is_VBZ displayed_VVN ._. 
+</s>
+<s>
+The_AT system_NN1 should_VM be_VBI compatible_JJ with_IW all_DB variations_NN2 of_IO barcode_NN1 -_- There_EX are_VBR different_JJ formats_NN2 of_IO barcode_NN1 including_II UPC_NP1 ,_, JAN_NPM1 and_CC EAN_NP1 ._. 
+</s>
+<s>
+There_EX are_VBR variations_NN2 in_II the_AT space_NN1 between_II the_AT lines_NN2 ,_, the_AT narrowest_JJT being_NN1% 0.19mm_NNU ._. 
+</s>
+<s>
+The_AT barcode_NN1 system_NN1 should_VM be_VBI able_JK to_TO process_VVI the_AT barcode_NN1 of_IO any_DD format_NN1 ._. 
+</s>
+<s>
+The_AT barcode_NN1 reader_NN1 should_VM be_VBI robust_JJ -_- The_AT barcode_NN1 reader_NN1 will_VM be_VBI handled_VVN on_II a_AT1 constant_JJ basis_NN1 meaning_NN1 that_CST it_PPH1 may_VM be_VBI dropped_VVN or_CC take_VV0 some_DD knocks_NN2 during_II normal_JJ use_NN1 ._. 
+</s>
+<s>
+The_AT reader_NN1 should_VM be_VBI able_JK to_TO sustain_VVI small_JJ damage_NN1 ,_, for_REX21 example_REX22 ,_, dropping_VVG it_PPH1 ,_, and_CC still_JJ function_NN1 at_II near_RL full_JJ efficiency_NN1 ._. 
+</s>
+<s>
+The_AT barcode_NN1 system_NN1 should_VM be_VBI simple_JJ to_TO operate_VVI -_- The_AT user_NN1 should_VM not_XX have_VHI to_TO input_VVI any_DD lines_NN2 of_IO code_NN1 or_CC use_VV0 a_AT1 command_NN1 prompt_NN1 operation_NN1 system_NN1 :_: this_DD1 would_VM take_VVI a_AT1 long_JJ time_NNT1 and_CC can_VM also_RR be_VBI quite_RG complex_JJ ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT key_JJ factors_NN2 of_IO this_DD1 system_NN1 is_VBZ the_AT speed_NN1 with_IW which_DDQ it_PPH1 can_VM operate_VVI ._. 
+</s>
+<s>
+By_II allowing_VVG the_AT user_NN1 to_TO do_VDI a_AT1 minimal_JJ amount_NN1 of_IO work_NN1 will_VM speed_VVI up_RP the_AT process_NN1 ._. 
+</s>
+<s>
+The_AT user_NN1 should_VM only_RR select_VVI a_AT1 button_NN1 desiring_VVG to_TO scan_VVI and_CC then_RT scan_VVI the_AT barcode_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM remove_VVI human_JJ error_NN1 from_II the_AT system_NN1 while_CS also_RR increasing_JJ speed_NN1 with_IW which_DDQ operations_NN2 can_VM be_VBI performed_VVN ._. 
+</s>
+<s>
+The_AT barcode_NN1 system_NN1 should_VM have_VHI a_AT1 backup_NN1 -_- If_CS the_AT something_PN1 went_VVD wrong_RR ,_, perhaps_RR the_AT barcode_NN1 wand_NN1 broke_VVD ,_, there_EX should_VM be_VBI an_AT1 alternative_JJ method_NN1 of_IO number_NN1 entry_NN1 so_CS21 that_CS22 operations_NN2 could_VM still_RR be_VBI carried_VVN out_RP ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI in_II the_AT form_NN1 of_IO a_AT1 keyboard_NN1 at_II the_AT counter_NN1 or_CC a_AT1 special_JJ barcode_NN1 reader_NN1 which_DDQ had_VHD a_AT1 keypad_NN1 on_II the_AT reader_NN1 itself_PPX1 ._. 
+</s>
+<s>
+Also_RR if_CS the_AT server_NN1 was_VBDZ to_II breakdown_NN1 there_EX should_VM be_VBI a_AT1 backup_NN1 server_NN1 to_TO take_VVI its_APPGE place_NN1 while_CS the_AT main_JJ server_NN1 was_VBDZ being_VBG repaired_VVN ._. 
+</s>
+<s>
+The_AT backup_NN1 server_NN1 could_VM also_RR act_VVI as_II a_AT1 data_NN backup_VV0 where_RRQ all_DB the_AT product_NN1 data_NN could_VM be_VBI backed_VVN up_RP once_RR a_AT1 week_NNT1 ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 few_DA2 constraints_NN2 to_II the_AT system_NN1 discussed_VVD so_RG far_RR :_: The_AT system_NN1 can_VM only_RR send_VVI one_MC1 barcode_NN1 at_II a_AT1 time_NNT1 -_- It_PPH1 would_VM be_VBI good_JJ if_CS many_DA2 barcodes_NN2 could_VM be_VBI scanned_VVN and_CC then_RT all_RR sent_VVN together_RL at_II the_AT same_DA time_NNT1 ._. 
+</s>
+<s>
+This_DD1 would_VM speed_VVI up_RP counter_NN1 transactions_NN2 however_RRQV it_PPH1 would_VM add_VVI to_II the_AT complexity_NN1 of_IO the_AT hardware_NN1 and_CC software_NN1 ._. 
+</s>
+<s>
+The_AT user_NN1 will_VM have_VHI to_TO wait_VVI for_IF the_AT feedback_NN1 before_II scanning_VVG a_AT1 new_JJ item_NN1 -_- If_CS the_AT user_NN1 scans_VVZ too_RG many_DA2 barcodes_NN2 before_II the_AT previous_JJ ones_NN2 are_VBR returned_VVN the_AT system_NN1 would_VM slow_VVI down_RP ,_, increasing_JJ usage_NN1 time_NNT1 which_DDQ would_VM be_VBI unacceptable_JJ ._. 
+</s>
+<s>
+A_AT1 possible_JJ solution_NN1 to_II this_DD1 would_VM be_VBI to_TO increase_VVI memory_NN1 and_CC store_NN1 barcodes_VVZ in_II a_AT1 temporary_JJ memory_NN1 area_NN1 but_CCB this_DD1 would_VM increase_VVI costs_NN2 ._. 
+</s>
+<s>
+With_IW more_DAR research_NN1 it_PPH1 could_VM be_VBI possible_JJ to_TO perform_VVI all_DB store_NN1 operations_NN2 from_II the_AT barcode_NN1 reader_NN1 ._. 
+</s>
+<s>
+This_DD1 would_VM include_VVI functions_NN2 such_II21 as_II22 update_NN1 of_IO stock_NN1 ,_, returning_VVG of_IO goods_NN2 through_II customer_NN1 representatives_NN2 ,_, current_JJ bill_NN1 calculation_NN1 etc_RA ._. 
+</s>
+<s>
+The_AT barcode_NN1 system_NN1 could_VM be_VBI in_II constant_JJ communication_NN1 with_IW the_AT server_NN1 and_CC automatically_RR order_VV0 new_JJ stock_NN1 ,_, through_II an_AT1 internet_NN1 connection_NN1 ,_, when_CS stock_NN1 levels_NN2 are_VBR too_RG low_JJ ._. 
+</s>
+<s>
+There_EX are_VBR many_DA2 features_NN2 that_CST could_VM be_VBI added_VVN however_RRQV it_PPH1 would_VM add_VVI to_II the_AT complexity_NN1 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+This_DD1 section_NN1 will_VM go_VVI through_II how_RRQ the_AT barcode_NN1 system_NN1 should_VM operate_VVI and_CC its_APPGE functions_NN2 ._. 
+</s>
+<s>
+The_AT barcode_NN1 system_NN1 will_VM have_VHI the_AT following_JJ operations_NN2 :_: The_AT system_NN1 will_VM have_VHI the_AT following_JJ inputs_NN2 :_: The_AT system_NN1 will_VM have_VHI the_AT following_JJ outputs_NN2 :_: The_AT ADD_VV0 and_CC WITHDRAW_VV0 operations_NN2 are_VBR fairly_RR similar_JJ with_IW the_AT exception_NN1 of_IO which_DDQ buttons_VVZ is_VBZ pressed_VVN to_TO initiate_VVI the_AT command_NN1 and_CC the_AT result_NN1 of_IO the_AT operation_NN1 ._. 
+</s>
+<s>
+Because_II21 of_II22 this_DD1 they_PPHS2 will_VM be_VBI treated_VVN in_II the_AT same_DA manner_NN1 under_II the_AT TRANSACTION_NN1 operation_NN1 ._. 
+</s>
+<s>
+During_II a_AT1 TRANSACTION_NN1 :_: The_AT ADD_VV0 or_CC WITHDRAW_VV0 button_NN1 is_VBZ pressed_VVN ._. 
+</s>
+<s>
+The_AT system_NN1 then_RT waits_VVZ for_IF the_AT quantity_NN1 value_NN1 to_TO be_VBI entered_VVN using_VVG the_AT keypad_NN1 on_II the_AT barcode_NN1 reader_NN1 ._. 
+</s>
+<s>
+If_CS there_EX is_VBZ no_AT quantity_NN1 value_NN1 entered_VVD the_AT default_NN1 value_NN1 of_IO 1_MC1 is_VBZ used_VVN ._. 
+</s>
+<s>
+Otherwise_RR a_AT1 quantity_NN1 is_VBZ entered_VVN and_CC this_DD1 number_NN1 appears_VVZ on_II the_AT LCD_NN1 display_NN1 screen_NN1 on_II the_AT barcode_NN1 reader_NN1 ._. 
+</s>
+<s>
+The_AT scan_NN1 point_NN1 is_VBZ then_RT placed_VVN over_II the_AT barcode_NN1 to_TO be_VBI read_VVN ._. 
+</s>
+<s>
+When_CS the_AT SCAN_NN1 button_NN1 is_VBZ pressed_VVN the_AT barcode_NN1 is_VBZ read_VVN by_II the_AT barcode_NN1 reader_NN1 ._. 
+</s>
+<s>
+If_CS the_AT scan_NN1 was_VBDZ unsuccessful_JJ then_RT the_AT barcode_NN1 will_VM emit_VVI three_MC short_JJ beeps_NN2 ._. 
+</s>
+<s>
+The_AT process_NN1 will_VM then_RT have_VHI to_TO be_VBI started_VVN from_II the_AT beginning_NN1 ._. 
+</s>
+<s>
+If_CS there_EX is_VBZ a_AT1 successful_JJ scan_NN1 then_RT the_AT barcode_NN1 reader_NN1 emits_VVZ a_AT1 single_JJ short_JJ beep_NN1 ._. 
+</s>
+<s>
+During_II a_AT1 successful_JJ scan_NN1 the_AT barcode_NN1 input_NN1 is_VBZ decoded_VVN ._. 
+</s>
+<s>
+The_AT decoded_JJ data_NN is_VBZ sent_VVN with_IW the_AT ADD_VV0 or_CC WITHDRAW_VV0 command_NN1 and_CC the_AT quantity_NN1 to_II a_AT1 temporary_JJ memory_NN1 area_NN1 of_IO the_AT barcode_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT memory_NN1 indicator_NN1 will_VM light_VVI up_RP showing_VVG one_MC1 memory_NN1 slot_NN1 is_VBZ taken_VVN ._. 
+</s>
+<s>
+A_AT1 maximum_NN1 of_IO three_MC barcodes_NN2 may_VM be_VBI processed_VVN at_II the_AT same_DA time_NNT1 ._. 
+</s>
+<s>
+This_DD1 will_VM allow_VVI for_IF the_AT possibility_NN1 of_IO scanning_VVG barcodes_NN2 more_RGR quickly_RR ._. 
+</s>
+<s>
+The_AT earliest_JJT scanned_JJ barcode_NN1 is_VBZ taken_VVN from_II the_AT memory_NN1 and_CC sent_VVN to_II the_AT main_JJ server_NN1 via_II high_JJ speed_NN1 cables_NN2 ._. 
+</s>
+<s>
+The_AT decoded_JJ data_NN is_VBZ matched_VVN in_II the_AT database_NN1 server_NN1 and_CC the_AT item_NN1 is_VBZ then_RT added_VVN to_II or_CC withdrawn_VVN from_II the_AT current_JJ bill_NN1 ._. 
+</s>
+<s>
+The_AT quantity_NN1 value_NN1 will_VM determine_VVI the_AT number_NN1 of_IO items_NN2 to_TO be_VBI added_VVN or_CC withdrawn_VVN ._. 
+</s>
+<s>
+The_AT information_NN1 will_VM be_VBI sent_VVN back_RP through_II the_AT system_NN1 and_CC shown_VVN on_II the_AT display_NN1 unit_NN1 ._. 
+</s>
+<s>
+The_AT TRANSACTION_NN1 operation_NN1 (_( from_II successful_JJ scan_NN1 to_II sending_VVG information_NN1 back_RP to_II displays_NN2 )_) should_VM be_VBI completed_VVN normally_RR in_II 1_MC1 second_NNT1 ;_; it_PPH1 must_VM never_RR take_VVI longer_RRR than_CSN 2_MC seconds_NNT2 ._. 
+</s>
+<s>
+To_TO carry_VVI out_RP these_DD2 functions_NN2 the_AT barcode_NN1 reader_NN1 must_VM be_VBI specially_RR designed_VVN ._. 
+</s>
+<s>
+The_AT barcode_NN1 reader_NN1 would_VM have_VHI a_AT1 10-digit_JJ number_NN1 pad_NN1 on_II the_AT top_NN1 of_IO it_PPH1 ,_, three_MC buttons_NN2 ,_, and_CC a_AT1 small_JJ LCD_NN1 display_NN1 screen_NN1 ._. 
+</s>
+<s>
+One_MC1 button_NN1 would_VM be_VBI an_AT1 'add_NN1 product'_NN1 button_NN1 and_CC another_DD1 would_VM be_VBI a_AT1 'withdraw_NN1 product'_NN1 button_NN1 ._. 
+</s>
+<s>
+The_AT final_JJ button_NN1 would_VM be_VBI the_AT 'scan'_JJ button_NN1 ._. 
+</s>
+<s>
+On_II the_AT side_NN1 of_IO the_AT reader_NN1 would_VM be_VBI an_AT1 indicator_NN1 ,_, showing_VVG how_RGQ many_DA2 barcodes_NN2 are_VBR stored_VVN in_II the_AT temporary_JJ memory_NN1 area_NN1 ._. 
+</s>
+<s>
+There_EX would_VM also_RR be_VBI an_AT1 audio_JJ tweeter_NN1 inside_II the_AT reader_NN1 ._. 
+</s>
+<s>
+The_AT display_NN1 unit_NN1 would_VM be_VBI a_AT1 monitor_NN1 or_CC some_DD sort_NN1 of_IO screen_NN1 where_CS information_NN1 about_II scanned_JJ items_NN2 and_CC current_JJ shopping_NN1 bills_NN2 could_VM be_VBI displayed_VVN ._. 
+</s>
+<s>
+These_DD2 are_VBR the_AT basic_JJ functions_NN2 and_CC operations_NN2 that_CST can_VM be_VBI carried_VVN out_RP by_II the_AT staff_NN member_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 fairly_RR simple_JJ process_NN1 with_IW few_DA2 steps_NN2 to_TO be_VBI performed_VVN by_II the_AT user_NN1 ._. 
+</s>
+<s>
+To_TO make_VVI operations_NN2 this_DD1 simple_JJ the_AT software_NN1 and_CC hardware_NN1 of_IO the_AT system_NN1 will_VM have_VHI to_TO be_VBI designed_VVN very_RG well_RR ._. 
+</s>
+<s>
+The_AT hardware_NN1 will_VM have_VHI to_TO be_VBI able_JK to_TO scan_VVI the_AT barcodes_NN2 efficiently_RR and_CC accurately_RR ;_; the_AT software_NN1 will_VM have_VHI to_TO be_VBI able_JK to_TO decode_VVI the_AT barcodes_NN2 and_CC match_VVI them_PPHO2 quickly_RR with_IW the_AT database_NN1 values_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR a_AT1 few_DA2 environmental_JJ and_CC physical_JJ constraints_NN2 to_II the_AT system_NN1 discussed_VVD so_RG far_RR ._. 
+</s>
+<s>
+The_AT main_JJ problems_NN2 are_VBR with_IW the_AT barcode_NN1 reader_NN1 ._. 
+</s>
+<s>
+The_AT barcode_NN1 reader_NN1 may_VM become_VVI damaged_VVN to_II due_JJ water_NN1 or_CC humidity_NN1 ._. 
+</s>
+<s>
+If_CS the_AT internal_JJ circuits_NN2 were_VBDR to_TO come_VVI into_II contact_NN1 with_IW any_DD moisture_NN1 the_AT circuits_NN2 may_VM become_VVI short_JJ circuited_JJ and_CC therefore_RR become_VV0 unusable_JJ ._. 
+</s>
+<s>
+Heat_NN1 can_VM also_RR affect_VVI the_AT barcode_NN1 reader_NN1 ._. 
+</s>
+<s>
+If_CS the_AT reader_NN1 were_VBDR to_TO be_VBI left_VVN in_II direct_JJ sunlight_NN1 ,_, or_CC placed_VVN next_II21 to_II22 a_AT1 heater_NN1 ,_, the_AT plastic_NN1 could_VM melt_VVI damaging_VVG the_AT circuits_NN2 ._. 
+</s>
+<s>
+The_AT final_JJ problem_NN1 with_IW the_AT barcode_NN1 reader_NN1 is_VBZ that_CST if_CS it_PPH1 is_VBZ not_XX designed_VVN well_RR it_PPH1 could_VM become_VVI too_RG heavy_JJ for_IF regular_JJ use_NN1 ._. 
+</s>
+<s>
+Staff_NN members_NN2 would_VM not_XX be_VBI able_JK to_TO use_VVI the_AT reader_NN1 over_II extended_JJ periods_NN2 of_IO time_NNT1 making_VVG it_PPH1 useless_JJ ._. 
+</s>
+<s>
+If_CS the_AT barcode_NN1 reader_NN1 ever_RR did_VDD malfunction_NN1 there_EX needs_VVZ to_TO be_VBI an_AT1 alternate_JJ method_NN1 of_IO data_NN entry_NN1 since_CS a_AT1 store_NN1 would_VM be_VBI unable_JK to_TO sell_VVI goods_NN2 ._. 
+</s>
+<s>
+This_DD1 should_VM be_VBI in_II the_AT form_NN1 of_IO a_AT1 keyboard_NN1 which_DDQ had_VHD a_AT1 connection_NN1 ,_, direct_JJ or_CC indirect_JJ ,_, to_II the_AT server_NN1 ._. 
+</s>
+<s>
+The_AT keyboard_NN1 could_VM be_VBI used_VVN to_TO load_VVI up_RP some_DD software_NN1 which_DDQ would_VM take_VVI barcode_NN1 numbers_NN2 and_CC match_VVI them_PPHO2 in_II the_AT database_NN1 as_RR21 usual_RR22 ._. 
+</s>
+<s>
+This_DD1 would_VM be_VBI slower_RRR however_RR it_PPH1 does_VDZ provide_VVI a_AT1 backup_NN1 when_CS emergency_NN1 situations_NN2 arise_VV0 ._. 
+</s>
+<s>
+A_AT1 system_NN1 block_NN1 diagram_NN1 represents_VVZ all_DB the_AT inputs_NN2 and_CC outputs_NN2 of_IO a_AT1 system_NN1 and_CC how_RRQ they_PPHS2 relate_VV0 to_II each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+Designing_VVG this_DD1 sort_NN1 of_IO system_NN1 will_VM take_VVI time_NNT1 and_CC money_NN1 ._. 
+</s>
+<s>
+Because_CS in_II all_DB projects_NN2 there_EX are_VBR deadlines_NN2 and_CC budgets_VVZ it_PPH1 is_VBZ important_JJ to_TO have_VHI an_AT1 estimate_NN1 of_IO time_NNT1 and_CC money_NN1 so_CS it_PPH1 can_VM be_VBI considered_VVN whether_CSW a_AT1 project_NN1 is_VBZ feasible_JJ or_CC not_XX ._. 
+</s>
+<s>
+The_AT total_JJ hardware_NN1 cost_NN1 estimate_NN1 is_VBZ 500_MC ._. 
+</s>
+<s>
+First_MD we_PPIS2 must_VM calculate_VVI the_AT total_JJ number_NN1 of_IO operands_NN2 and_CC operators_NN2 ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI calculated_VVN from_II the_AT following_JJ equation_NN1 :_: where_RRQ N_ZZ1 is_VBZ the_AT total_JJ number_NN1 of_IO operands_NN2 and_CC operators_NN2 and_CC k_ZZ1 is_VBZ the_AT sum_NN1 of_IO the_AT individual_JJ operators_NN2 and_CC operands_NN2 ._. 
+</s>
+<s>
+In_II the_AT requirements_NN2 it_PPH1 was_VBDZ stated_VVN that_CST the_AT code_NN1 be_VBI written_VVN in_II a_AT1 high_JJ level_JJ language_NN1 ._. 
+</s>
+<s>
+For_IF a_AT1 typical_JJ high_JJ level_JJ language_NN1 there_EX are_VBR about_II 30-40_MCMC distinct_JJ operators_NN2 ._. 
+</s>
+<s>
+To_TO make_VVI this_DD1 a_AT1 safe_JJ estimate_NN1 we_PPIS2 will_VM assume_VVI there_RL are_VBR 40_MC distinct_JJ operators_NN2 ._. 
+</s>
+<s>
+From_II previous_JJ lab_NN1 work_VV0 it_PPH1 was_VBDZ found_VVN that_CST the_AT system_NN1 will_VM at_RR21 least_RR22 require_VVI the_AT following_JJ operands_NN2 :_: This_DD1 gives_VVZ a_AT1 total_NN1 of_IO 120_MC operands_NN2 ._. 
+</s>
+<s>
+However_RRQV this_DD1 is_VBZ probably_RR a_AT1 conservative_JJ estimate_NN1 considering_CS it_PPH1 was_VBDZ based_VVN on_II a_AT1 small_JJ amount_NN1 of_IO lab_NN1 work_NN1 ._. 
+</s>
+<s>
+To_TO make_VVI this_DD1 estimate_NN1 more_RGR useful_JJ we_PPIS2 should_VM add_VVI 50%_NNU making_VVG a_AT1 total_NN1 of_IO 180_MC operands_NN2 ._. 
+</s>
+<s>
+Hence_RR ,_, k_ZZ1 =_FO 40_MC operators_NN2 +_FO 180_MC operands_NN2 =_FO 220_MC ._. 
+</s>
+<s>
+Therefore_RR ,_, N_ZZ1 =_FO 220_MC (_( 0.5772_MC +_FO ln_NNU 220_MC )_) =_FO 1313.6_MC (_( total_JJ number_NN1 of_IO operands_NN2 and_CC operators_NN2 in_II software_NN1 )_) ._. 
+</s>
+<s>
+There_EX are_VBR approximately_RR 3_MC to_II 5_MC operators_NN2 and_CC operands_NN2 per_II line_NN1 of_IO code_NN1 ._. 
+</s>
+<s>
+Approximately_RR ,_, ._. 
+</s>
+<s>
+Number_NN1 of_IO lines_NN2 in_II program_NN1 =_FO N/3_FU =_FO 1314/3_MC =_FO 438_MC lines_NN2 of_IO code_NN1 (_( can_VV0% safely_RR say_VVI between_II 300_MC and_CC 600_MC lines_NN2 of_IO code_NN1 )_) ._. 
+</s>
+<s>
+On_II average_NN1 it_PPH1 costs_VVZ 20_MC per_II line_NN1 of_IO code_NN1 and_CC there_EX are_VBR only_RR 10_MC lines_NN2 of_IO code_NN1 produced_VVD each_DD1 day_NNT1 ._. 
+</s>
+<s>
+These_DD2 maybe_RR seem_VV0 like_II a_AT1 high_JJ price_NN1 and_CC take_VV0 a_AT1 long_JJ time_NNT1 ,_, however_RR ,_, a_AT1 requirement_NN1 was_VBDZ that_CST the_AT code_NN1 was_VBDZ highly_RR tested_VVN and_CC well_RR written_VVN ._. 
+</s>
+<s>
+These_DD2 prices_NN2 and_CC productivity_NN1 includes_VVZ all_DB design_NN1 ,_, testing_VVG and_CC all_DB process_NN1 related_VVN to_II the_AT writing_NN1 of_IO code_NN1 ._. 
+</s>
+<s>
+Under_II this_DD1 price_NN1 and_CC time_NNT1 system_NN1 the_AT software_NN1 would_VM cost_VVI :_: 438_MC x_ZZ1 20_MC =_FO 8760_MC ._. 
+</s>
+<s>
+The_AT time_NNT1 taken_VVN to_TO produce_VVI this_DD1 software_NN1 would_VM be_VBI :_: 438/10_MF =_FO 43.8_MC =_FO approx_RR 45_MC days_NNT2 ._. 
+</s>
+<s>
+Memory_NN1 :_: In_II a_AT1 high_JJ level_JJ language_NN1 each_DD1 line_NN1 takes_VVZ 5_MC to_II 20_MC bytes_NNU2 ._. 
+</s>
+<s>
+A_ZZ1 worst_JJT case_NN1 estimate_NN1 for_IF the_AT proposed_JJ system_NN1 would_VM be_VBI :_: 20_MC x_ZZ1 438_MC =_FO 8760_MC bytes_NNU2 ._. 
+</s>
+<s>
+Add_VV0 to_II this_DD1 500bytes_NNU for_IF the_AT storage_NN1 of_IO barcodes_NN2 in_II the_AT temporary_JJ memory_NN1 would_VM give_VVI a_AT1 total_NN1 of_IO 9260_MC bytes_NNU2 or_CC 9kb_FO ._. 
+</s>
+<s>
+A_AT1 system_NN1 with_IW 16kb_FO of_IO memory_NN1 would_VM sufficient_JJ to_TO run_VVI the_AT system_NN1 without_IW any_DD program_NN1 hanging_NN1 ._. 
+</s>
+<s>
+Execution_NN1 speed_NN1 :_: For_IF a_AT1 high_JJ level_JJ language_NN1 it_PPH1 would_VM take_VVI between_II 5_MC to_II 20_MC s_ZZ1 to_TO perform_VVI each_DD1 line_NN1 of_IO code_NN1 ._. 
+</s>
+<s>
+A_ZZ1 worst_JJT case_NN1 estimate_NN1 for_IF an_AT1 8-bit_NN1 processor_NN1 would_VM be_VBI :_: (_( 20_MC x_ZZ1 438_MC )_) /2_MF =_FO 4.4_MC ms_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 may_VM perform_VVI some_DD floating_JJ point_NN1 calculations_NN2 when_CS calculating_VVG prices_NN2 therefore_RR the_AT performance_NN1 speed_NN1 may_VM be_VBI reduced_VVN by_II up_RG21 to_RG22 half_DB in_II some_DD cases_NN2 ._. 
+</s>
+<s>
+This_DD1 would_VM give_VVI a_AT1 worst_JJT case_NN1 estimate_NN1 of_IO system_NN1 execution_NN1 speed_NN1 of_IO 9ms_FO ._. 
+</s>
+<s>
+After_II considering_VVG the_AT system_NN1 design_NN1 ,_, performance_NN1 and_CC costs_VVZ it_PPH1 can_VM be_VBI seen_VVN that_CST a_AT1 relatively_RR useful_JJ system_NN1 can_VM be_VBI made_VVN within_II a_AT1 good_JJ cost_NN1 and_CC time_NNT1 boundary_NN1 ._. 
+</s>
+<s>
+The_AT execution_NN1 time_NNT1 is_VBZ very_RG fast_RR suggesting_VVG that_CST there_EX may_VM not_XX be_VBI a_AT1 need_NN1 for_IF temporary_JJ memory_NN1 storage_NN1 of_IO barcodes_NN2 ._. 
+</s>
+<s>
+The_AT design_NN1 of_IO the_AT system_NN1 may_VM be_VBI finalised_VVN after_II a_AT1 thorough_JJ review_NN1 of_IO the_AT user_NN1 requirements_NN2 and_CC the_AT system_NN1 specification_NN1 ._. 
+</s>
+<s>
+This_DD1 may_VM reveal_VVI more_DAR capabilities_NN2 and_CC may_VM remove_VVI redundant_JJ requirements_NN2 ._. 
+</s>
+<s>
+However_RRQV a_AT1 preliminary_JJ design_NN1 of_IO the_AT system_NN1 would_VM have_VHI the_AT software_NN1 written_VVN in_II Modula_NP1 2_MC ._. 
+</s>
+<s>
+This_DD1 was_VBDZ chosen_VVN over_II Ada_NP1 or_CC C_ZZ1 because_CS 'Of_VV0 the_AT three_MC ,_, Modula-2_MC is_VBZ the_AT smallest_JJT ,_, easiest_JJT to_TO read_VVI ,_, easiest_JJT to_TO learn_VVI ,_, and_CC cleanest_JJT designed_VVN ,_, both_RR syntactically_RR and_CC conceptually_RR ._. '_" 
+</s>
+<s>
+&lsqb;_( &rsqb;_) This_DD1 will_VM allow_VVI for_IF the_AT best_JJT program_NN1 design_NN1 and_CC most_RGT efficient_JJ use_NN1 of_IO memory_NN1 ._. 
+</s>
+<s>
+If_CS the_AT business_NN1 requiring_VVG the_AT system_NN1 were_VBDR a_AT1 chain_NN1 store_NN1 and_CC had_VHD many_DA2 stores_NN2 the_AT software_NN1 costs_NN2 would_VM be_VBI divided_VVN across_II all_DB stores_NN2 making_VVG the_AT system_NN1 cheaper_JJR than_CSN first_MD realised_VVD ._. 
+</s>
+<s>
+&lsqb;_( &rsqb;_) ._. The_AT hardware_NN1 is_VBZ all_DB relatively_RR simple_JJ and_CC cheap_JJ ._. 
+</s>
+<s>
+The_AT barcode_NN1 reader_NN1 may_VM need_VVI some_DD designing_VVG however_RR ,_, there_EX are_VBR currently_RR many_DA2 similar_JJ barcode_NN1 readers_NN2 already_RR available_JJ on_II the_AT market_NN1 ._. 
+</s>
+<s>
+The_AT implementation_NN1 of_IO the_AT device_NN1 into_II the_AT desired_JJ environment_NN1 can_VM reveal_VVI more_DAR changes_NN2 that_CST are_VBR needed_VVN to_II the_AT system_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 would_VM have_VHI to_TO be_VBI installed_VVN by_II professionals_NN2 into_II each_DD1 individual_JJ store_NN1 ._. 
+</s>
+<s>
+The_AT business_NN1 would_VM need_VVI to_TO supply_VVI their_APPGE own_DA server_NN1 of_IO data_NN and_CC ouput_VV0 screens_NN2 ._. 
+</s>
+<s>
+The_AT setup_NN1 would_VM involve_VVI connecting_VVG the_AT server_NN1 and_CC outputs_VVZ to_II the_AT system_NN1 and_CC the_AT barcode_NN1 reader_NN1 ._. 
+</s>
+<s>
+Each_DD1 store_NN1 would_VM require_VVI as_RG many_DA2 barcode_VV0 readers_NN2 as_CSA there_EX are_VBR tills_NN2 thus_RR increasing_VVG the_AT price_NN1 of_IO the_AT hardware_NN1 costs_NN2 ._. 
+</s>
+<s>
+However_RRQV the_AT system_NN1 could_VM be_VBI run_VVN off_II the_AT same_DA software_NN1 keeping_VVG the_AT software_NN1 costs_VVZ the_AT same_DA ._. 
+</s>
+<s>
+If_CS the_AT system_NN1 was_VBDZ to_TO be_VBI implemented_VVN there_RL would_VM need_VVI to_TO be_VBI consideration_NN1 for_IF wires_NN2 and_CC cables_NN2 ._. 
+</s>
+<s>
+There_EX would_VM be_VBI many_DA2 cables_NN2 going_VVG from_II barcode_NN1 reader_NN1 to_II system_NN1 controller_NN1 to_II server_NN1 ._. 
+</s>
+<s>
+Any_DD of_IO these_DD2 could_VM become_VVI damaged_VVN if_CS not_XX carefully_RR arranged_VVN and_CC precautions_NN2 taken_VVN ._. 
+</s>
+<s>
+The_AT report_NN1 covered_VVD many_DA2 factors_NN2 and_CC aspects_NN2 of_IO implementing_VVG a_AT1 real_JJ time_NNT1 barcode_NN1 system_NN1 into_II a_AT1 business_NN1 ._. 
+</s>
+<s>
+The_AT user_NN1 requirements_NN2 and_CC system_NN1 specification_NN1 have_VH0 been_VBN fulfilled_VVN thus_RR far_JJ ;_; the_AT design_NN1 suggests_VVZ they_PPHS2 will_VM still_RR be_VBI fulfilled_VVN at_II completion_NN1 of_IO project_NN1 ._. 
+</s>
+<s>
+In_II total_NN1 it_PPH1 cost_VVD 500_MC for_IF all_DB the_AT hardware_NN1 requirements_NN2 and_CC 8760_MC for_IF software_NN1 development_NN1 ._. 
+</s>
+<s>
+If_CS many_DA2 systems_NN2 were_VBDR to_TO be_VBI produced_VVN the_AT software_NN1 cost_NN1 would_VM be_VBI divided_VVN across_II all_DB systems_NN2 made_VVD ._. 
+</s>
+<s>
+For_IF 20_MC systems_NN2 the_AT cost_NN1 would_VM be_VBI 938_MC per_II system_NN1 ._. 
+</s>
+<s>
+For_IF 100_MC hundred_NNO systems_NN2 the_AT cost_NN1 per_II system_NN1 would_VM be_VBI reduced_VVN to_II 588_MC ._. 
+</s>
+<s>
+The_AT performance_NN1 speed_NN1 is_VBZ suitable_JJ at_II 9ms_FO and_CC the_AT memory_NN1 burdens_NN2 are_VBR not_XX high_RR at_II 16kb_FO ._. 
+</s>
+<s>
+The_AT implementation_NN1 of_IO a_AT1 low-cost_JJ barcode_NN1 reader_NN1 for_IF sales_NN counters_NN2 is_VBZ feasible_JJ ._. 
+</s>

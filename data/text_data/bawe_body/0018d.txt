@@ -1,0 +1,95 @@
+The report consisted of the design and analysis of a commercial meat slicer, which connected between an AC motor with speed of 1800rpm and a grinder with an output speed of ~90rpm. A variety of calculations would be performed for different major components. Computer program would also be used in order to compare the results from computer modeling to manual calculations. A computer aid design drawing would be conducted and presented near the final stage and an appropriate size of gearbox housing would be designed.
+After the analysis the optimal gearbox should have a double reduction system with gear ratios of 4.472. Optimal gears would have a size of 36mm and 161mm gear diameters with 27mm thickness and the optimal shafts would have a diameter of 12mm and 25mm with a length of 100mm. Bearings would be selected based on the size of the shaft, the revolution speed and the maximum loading, diameter of 12mm and 25mm bearings with thickness of 18mm and 37.5 respectively were finally considered in order to achieve the optimal performance. Finally, the optimal size of gearbox housing was set to be in order to enable the operation effective and safe.
+Unfortunately the computer program did not operate as expected so that the comparison between computer results and manual calculations could not be conducted. However, the variation of parameters in the computer program was limited so that only a limited number of comparisons could be done even though the programs were working properly. More developments and improvements were required in gear and shaft program so that a variety of variables could be selected for analysis.
+The assignment consisted of the design and analysis of a reduction gearbox which would be used for a commercial meat slicer. Appropriate components such as gears, shafts, bearings and housing would be selected and investigated in order to satisfy the requirement. A variety of calculations would firstly be performed in order to ensure the bending and surface stress conditions were within the safety limit, different dimensions would also be examined so that the optimal output could be achieved. A spreadsheet would be created in order to summarize all the possible arrangements. On the other hand, the shaft would be designed based on the optimal gear parameters, bending moment diagrams and shear force diagrams were constructed in order to perform analysis on bending. Computer program would also be used in order to determine and compare results of shaft between computer outcome and calculating results. Finally, bearings for corresponding shafts would also be selected based on their rotating speed and maximum load. A computer aid design (CAD) drawing would also be presented in order to recognize any constraints for the physical arrangement in the gearbox and hence the smallest possible gearbox housing could be constructed.
+The input of the meat slicer was a constant speed AC motor running at 1800 rev/min and delivering 1.2kW power. A gearbox was connected to the motor in order to provide speed reduction and meet the functional requirements. Rotating speed of the final shaft was expected at between 80 and 100 rev/min and the duty (utilization) each day was expected to be up to 6 hr. Severe constraint on size was required as the slicer required to go onto a work surface where space was limited. In conclusion, the initial specification could be summarized as follows:
+Hence the gear ratio U = = 20.
+Since the reduction gear ratio was enormous (20:1), a double reduction gearbox was selected so that a higher reliability could be achieved. The gearbox was connected between the motor and grinder and bearings would be placed at both ends of shaft. Straight spur gears would be the best combination to employ as such arrangement could provide a more convenient procedure in further analysis.
+Before the commencement of design analysis process, the initial layout of the product was illustrated (Figure 1) and the gearbox housing was represented by the grey rectangle. From the diagram, power was transmitted from the AC motor to gear 2 through the shaft and gear 2 was then connected to gear 3. Again, power was transmitted through the shaft from gear 3 to 4 and gear 4 was connected to gear 5. Finally, power was transmitted from gear 5 to the grinder through the shaft.
+In order to select the most suitable component, a range of analysis was performed and the limitation was identified so that the gearbox could be operated under safety condition. 1) First of all, the nominal velocity ratio U was determined: (Single reduction).
+However, a double reduction arrangement was employed, therefore: 2) As the material used in both the pinion and the gear were identical, the pinion was always weaker since more undercutting could be found from the smaller gear. In order to avoid any undercutting appear in the operation, a high pressure angle was selected (25  ). To ensure no interference could be found within the gearbox, a minimum number of 12 teeth were required in the pinion (Appendix A). Hence the number of teeth could be determined for the gear:
+If , then , hence (Within the required range).
+After that, the modulus m was assumed to be 3 and the pitch diameters were determined: (Pinion) (Gear).
+Since D P and D G were defined, the centre distance c could then be calculated: 3) Moreover, the pitch line speed was computed:
+Since 4) As power P was provided, the transmitted load F t could also be determined: 5) On the other hand, the dynamic factor K v was identified: 6) In order to avoid torsional distortion, the face width b was required to lie between 9m and 15m (when m=module in mm/tooth) and should be less than or equal to D P: and if b was assumed to be 11m,, in which and 7) Since the bending stress within the gear depended on the torque, geometry and the form factor, the expected bending stress   b in the pinion and gear could be determined:
+The Lewis form factor Y could be identified (Appendix B).
+For the pinion, Y P=0.27677.
+For the gear,.
+Hence,.
+Therefore the maximum bending stress occurred at the pinion with the value of 20.21MPa. However, in order to achieve a safety and reliable operation, the allowable bending stress S at could be calculated based on the maximum bending stress   b. 8) where and ,1 would be taken if the corresponding factor was not concerned.
+Hence assumptions of factors were made for a meat slicer: k a=0.9, k b=0.8, k c=0.7, k d=0.9, k e=1, k f=0.9.
+As.
+Gray cast iron was selected as the ultimate tensile strength was approximately 160MPa, in which the bending stress could be covered sufficiently.
+Further analysis would be carried out in order to investigate the contact stress between gears. The contact stress (Modified Hertzian stress)   c on the surface of teeth could be identified as: where and.
+Similarly, the allowable fatigue strength S ac was determined: where.
+Therefore.
+Since the yield strength of gray cast iron was approximately 620MPa, the contact stress could be fully covered.
+The above manual calculation represented the detailed procedure of the gear analysis. A spreadsheet (Appendix D) was also created in order to simplify the calculation process and results of alternative trials could be summarized.
+According to the table, the fatigue strength and bending stress could be affected by variables such as life factor C L, reliability factors C R and k c, face width b and other miscellaneous factors. In general, bending stress was relatively small compared to the fatigue strength and the gear should firstly be failed by fatigue.
+The allowable bending stress and fatigue strength would decrease as the reliability (factor) decrease, which meant a gear with high reliability would require a material with high UTS and fatigue strength. Besides, the fatigue strength would increase as the life factor reduced. Therefore a gear with large life cycle (hence low cycle factor) could be manufactured using a high fatigue strength material. Moreover, both the bending stress and fatigue strength would become higher as the face width decreased, which represented a larger face width would have a lower bending stress and fatigue strength.
+On the other hand, alternative materials were compared in order to identify the optimal material to be employed in the gearbox. Since grey cast iron, case hardening carbon steel and aluminium bronze were mostly utilized, a number of trials based on those materials were performed. A larger flexibility could be achieved by using grey cast iron as the minimum module size for carbon steel and aluminium bronze were 4mm and 5mm respectively.
+In conclusion, an ideal gear would be manufactured by grey cast iron with 3mm module, with extremely high reliability and low life cycle factor. Since a larger face width would occupy a larger volume, low face width would be beneficial when size was significant. Although a high m or b would reduce the bending stress, both parameters were relatively small, which might due to volume was also one of the significant parameters to consider. Moreover, the UTS of the corresponding material might also be able to compensate the change of bending stress so that a small module and low face width could be selected. The ideal combination was attached at the bottom of the spreadsheet and detailed specifications were presented below (Table 1):
+Gear program was employed afterwards and the above parameters were inserted. Commercial cut gear class was selected and metric module definition was considered. A number of figures were attached in Appendix E in order to show the calculation results with relevant specifications using gear program.
+Since a double reduction process could not be performed in the program and both reduction stages were identical (with U=4.472), only the first reduction stage was analysis. However, the minimum number of pinion teeth N P could not be amended in the program and could only be 18, which might possibly due to either gear design failure or computational problems.
+A test was performed in order to lower the value of N P, however a gear ratio of 1 was required in order to reduce N P to 13 in the gear program. Although the face width calculation was successful, the module and the face width were different to the original specifications. Therefore the program could only be used as a supplementary element for gear analysis since a variety of parameters such as available materials and class of gears were limited.
+The design and analysis of shafts could be performed using bending moment diagrams and shear force diagrams. An initial design layout was drawn in order to perform further analysis in the shafts(Figure 2).
+In this design, three shafts would be employed in the gearbox in order to perform double reduction effect. Each shaft was assumed to be 100mm long. First of all, the power was transmitted from the motor to gear A, then to gear B on shaft 2. Since the contact force between gears was acting in two directions, the vertical and horizontal analysis of three shafts would be carried out sequentially. Initially, the arrangement of shaft 1(Figure 3) was shown and the analysis for horizontal and vertical axis of shaft 1 was also carried out.
+Therefore, on vertical plane X-Y (left):
+M(R 1V):
+Similarly, on horizontal plane X-Z:
+M(R 1H):
+The relevant shear force and bending moment diagram for both planes were shown.
+Therefore the maximum bending moment M B:
+Since where.
+Therefore the minimum shaft diameter should be about 12-20mm.
+The power was then transmitted from gear B to C via shaft 2, followed by gear D on shaft 3. The design arrangement of shaft 2 was shown(Figure 4).
+Again, analysis was carried out in order to investigate the vertical and horizontal axis of shaft 2. First of all, the corresponding axial components of F B were determined.
+Moreover, torque T at gear B was found:
+As the torque was constant along shaft 2, the torque at gear C was equal to at gear B.
+The vertical (XY-plane) and horizontal (XZ-plane) analysis of shaft 2 were then performed. Since point 3 & 4 were the reaction force, they required to act towards the resultant force together.
+Therefore for vertical plane (XY):
+M(R 3V):
+Hence:
+Similarly, for horizontal plane(XZ):
+M(R 3H):
+So:
+Therefore the maximum bending moment M B:
+Again: where.
+Therefore the minimum diameter for shaft 2 should be around 20-25mm.
+Finally, the arrangement of shaft 3 was shown(Figure 5):
+Firstly, the value of F DY and F DZ were determined:
+The vertical (XY-plane) and horizontal (XZ-plane) analysis was performed:
+Therefore, on vertical plane X-Y:
+M(R 5V):
+Similarly, on horizontal plane X-Z:
+M(R 5H):
+The relative shear force diagram and bending moment diagram for both planes were shown.
+Maximum bending moment M B:
+Since where.
+Therefore the minimum shaft diameter for shaft 3 should be between 22-30mm.
+A table was shown in order to summarize the specifications of three shafts:
+On the other hand, the face width of the larger gear was relatively small compared to the pitch diameter. Therefore a reasonable size of boss (20mm) would be placed with the large gear on shaft 2 (10mm each side) and shaft 3 in order to enhance the contact length between the shaft and gear. Since a rectangular housing would be used for the gearbox, the bearings would be positioned at both ends of the shaft and through the housing wall.
+In order to investigate the correct size of bearings placed at the end of shafts in the gearbox, a number of calculations were performed. Firstly, the resultant forces at all 6 bearings were determined:
+Bearing 1: Bearing 2:
+Bearing 3: Bearing 4:
+Bearing 5: Bearing 6:
+After all the resultant forces were determined, the type and size of bearings would be selected based on the maximum load on each shaft using Appendix F (i.e. the higher load would be chosen as the typical maximum load for each shaft).
+Bearing 1 & 2) 253N @ 1800rpm = 12mm ball rolling bearings.
+Bearing 3 & 4) 1213N @ = 25mm ball rolling bearings.
+Bearing 5 & 6) 1133N @ 90rpm = 12mm ball rolling bearings.
+Since such corresponding points in the graph was close to the rolling bearings line, therefore they were used for the bearings at the end of the shaft. The purposed diameter of shaft 3 was 25mm, so the size of bearing 5 & 6 should be larger than 25mm. Besides, the bearing ratio BR should also be aware since the ratio should be greater than 1.5 and not less than 1 for any smooth operations. Assumed ratio=1.5, since.
+Bearing 1, 2).
+Bearing 3, 4).
+Bearing 5, 6).
+Finally, a summary of specifications for bearings and shafts was produced:
+Although the bearings were slight long compared to the available spaces on the shaft, the shaft would be extended in order to be surrounded by the bearings.
+Nevertheless, the shaft program was also an alternative way to simulate the outcome. However, errors occurred once all the data were entered each time (Appendix G), therefore a computational comparison could not be conducted.
+Since roomage was also a particular factor to consider in design process, the smallest possible gear size was selected. Grey cast iron was chosen to be the production material of gear and shaft as the yield strength of grey cast iron was fairly high, so that a long lifespan could be expected. Besides, the module was also the smallest size within the range as any modules smaller than 3 would not be able to perform their duties effectively and endurably.
+On the other hand, bearings were selected based on the maximum load and the speed of the shaft. However, a prudent decision was made and a larger bearing was used for some shafts as the corresponding point on graph was too closed to the upper boundary. Die-cast aluminium would be used for the housing and lubricated ball bearings would be used for shaft supports. A final specification was constructed in order to summarize the parameters of each component.
+The final version of the gearbox was plotted in SolidWorks and a CAD drawing was attached (Appendix G). All the dimensions were shown in millimeters and an isometric view was shown below (Figure 5).
+In comparison of manual calculation with computer program, the computer program were not as convenient as expected, which might due to outdated operating system in the program or even bugs. Therefore manual calculation would be desired if the actual design parameters were given. However, the computer program will enhance the effectiveness and also provide a more convenient analytical procedure if further development was carried out.
+Alternatively, the operation environment would also change the requirements and hence the specification. For instance the temperature factor would be increased if the operation temperature was higher than room temperature. Reliability factor would also increase if the precision of cutting is important.
+Developments could also be performed in order to improve the performance. Alternative materials could be used if the fatigue strength was not sufficient enough. Increasing the number of shaft sample would also improve the reliability of the analysis, which may also increase the variety of effective design.
+In the design process, a number of analyses were carried out in order to achieve an optimal gearbox design for a commercial meat slicer. The manual calculations were carried out smoothly and a number of gear combinations were investigated. Unfortunately the computer program did not operate as expected so that both results could not be compared. However, the computer program only offered a limited number of variables which meant the flexibility was limited even such program run normally.
+Nevertheless, manual calculations enable a more flexible and reliable analysis during design process, hence the volume of the gear box could be minimized more easily. After a range of manual calculations, the gearbox could be operated as requested from 1800rpm to ~90rpm, using a double reduction gearbox with gear ratios of ~4.472. After that, the minimal gear diameters of 36mm and 161mm with 27mm thickness were selected for small and large gears respectively. Such values were then utilized for shaft analysis and hence bearing analysis near the final stage. Finally, two 25mm and one 12mm diameter shafts with 100mm length were chosen for gearbox shafts and 6 bearings (25mm and 12mm diameter with 37.5mm and 18mm thickness respectively) were selected to support the corresponding shafts.
+The gearbox design was then constructed in SolidWorks, CAD drawing was then produced in order to minimize the required gearbox housing. A size of was used for the housing and a thickness of 12mm was reserved as a safety basis.

@@ -1,0 +1,390 @@
+<s>
+This_DD1 report_NN1 details_NN2 the_AT specification_NN1 ,_, design_NN1 ,_, implementation_NN1 and_CC testing_NN1 of_IO software_NN1 written_VVN to_TO control_VVI a_AT1 buggy_NN1 and_CC allow_VVI it_PPH1 to_TO follow_VVI an_AT1 optically_RR marked_JJ track_NN1 ._. 
+</s>
+<s>
+The_AT software_NN1 was_VBDZ written_VVN in_II the_AT C_NP1 programming_NN1 language_NN1 and_CC three_MC variants_NN2 were_VBDR produced_VVN :_: one_PN1 to_TO allow_VVI the_AT buggy_NN1 to_TO follow_VVI a_AT1 square_JJ track_NN1 -_- alternately_RR clockwise_JJ and_CC anticlockwise_RR -_- one_PN1 to_TO allow_VVI it_PPH1 to_TO follow_VVI a_AT1 maze_NN1 track_NN1 and_CC one_PN1 to_TO allow_VVI it_PPH1 to_TO follow_VVI any_DD other_JJ suitably_RR marked_JJ track_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 performed_VVD excellently_RR in_II all_DB cases_NN2 ,_, following_VVG the_AT track_NN1 accurately_RR and_CC searching_VVG efficiently_RR when_CS the_AT track_NN1 was_VBDZ lost_VVN ._. 
+</s>
+<s>
+The_AT objective_NN1 is_VBZ to_TO write_VVI software_NN1 that_CST controls_VVZ a_AT1 mobile_JJ buggy_NN1 robot_NN1 ,_, enabling_VVG it_PPH1 to_TO follow_VVI an_AT1 optically_RR marked_JJ track_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT above_JJ and_CC our_APPGE knowledge_NN1 of_IO the_AT buggy_NN1 ,_, it_PPH1 is_VBZ possible_JJ to_TO expand_VVI a_RR21 little_RR22 on_II how_RRQ the_AT software_NN1 should_VM be_VBI implemented_VVN ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, if_CS the_AT track_NN1 is_VBZ lost_VVN at_II any_DD point_NN1 ,_, the_AT buggy_NN1 should_VM 'scan'_VVI to_TO find_VVI the_AT track_NN1 again_RT ._. 
+</s>
+<s>
+Also_RR ,_, if_CS the_AT track_NN1 is_VBZ not_XX found_VVN during_II this_DD1 scan_NN1 ,_, the_AT buggy_NN1 should_VM move_VVI forwards_RL and_CC scan_VVI again_RT until_CS the_AT track_NN1 is_VBZ found_VVN ._. 
+</s>
+<s>
+After_II accomplishing_VVG the_AT task_NN1 of_IO writing_VVG software_NN1 to_TO fit_VVI the_AT above_JJ specification_NN1 ,_, two_MC further_JJR adaptations_NN2 of_IO the_AT specification_NN1 were_VBDR produced_VVN to_TO give_VVI a_AT1 total_NN1 of_IO three_MC slightly_RR different_JJ specifications_NN2 ,_, each_DD1 applicable_JJ to_II a_AT1 different_JJ type_NN1 of_IO board_NN1 ._. 
+</s>
+<s>
+The_AT above_JJ specification_NN1 produced_VVD a_AT1 piece_NN1 of_IO software_NN1 which_DDQ allows_VVZ the_AT buggy_NN1 to_TO run_VVI on_II any_DD board_NN1 marked_VVN out_RP in_II a_AT1 suitable_JJ width_NN1 of_IO black_JJ tape_NN1 on_II a_AT1 white_JJ background_NN1 with_IW gaps_NN2 at_II junctions_NN2 ._. 
+</s>
+<s>
+A_AT1 further_JJR specification_NN1 allows_VVZ the_AT buggy_NN1 to_TO run_VVI on_II a_AT1 square_JJ board_NN1 and_CC another_DD1 allows_VVZ it_PPH1 to_TO run_VVI on_II a_AT1 maze_NN1 board_NN1 ,_, as_CSA described_VVN below_RL ._. 
+</s>
+<s>
+The_AT objective_NN1 is_VBZ to_TO write_VVI software_NN1 that_CST controls_VVZ a_AT1 mobile_JJ buggy_NN1 robot_NN1 ,_, enabling_VVG it_PPH1 to_TO follow_VVI an_AT1 optically_RR marked_JJ track_NN1 in_II the_AT shape_NN1 of_IO a_AT1 square_NN1 with_IW gaps_NN2 at_II the_AT corners_NN2 ._. 
+</s>
+<s>
+After_II completing_VVG a_AT1 circuit_NN1 of_IO the_AT board_NN1 ,_, the_AT robot_NN1 should_VM turn_VVI round_RP and_CC follow_VVI the_AT track_NN1 in_II the_AT opposite_JJ direction_NN1 ._. 
+</s>
+<s>
+As_CSA before_RT ,_, if_CS the_AT track_NN1 is_VBZ lost_VVN ,_, the_AT buggy_NN1 should_VM scan_VVI to_TO find_VVI the_AT track_NN1 again_RT ._. 
+</s>
+<s>
+If_CS the_AT track_NN1 is_VBZ not_XX found_VVN during_II this_DD1 scan_NN1 (_( i.e._REX the_AT buggy_NN1 is_VBZ at_II a_AT1 corner_NN1 )_) a_AT1 'corner_NN1 counter'_NN1 should_VM be_VBI incremented_VVN and_CC the_AT buggy_NN1 should_VM move_VVI forwards_RL and_CC scan_VVI again_RT to_TO find_VVI the_AT track_NN1 ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT distance_NN1 the_AT buggy_NN1 moves_NN2 will_VM be_VBI dictated_VVN by_II the_AT size_NN1 of_IO the_AT gaps_NN2 in_II the_AT board_NN1 ._. 
+</s>
+<s>
+If_CS the_AT corner_NN1 counter_NN1 is_VBZ divisible_JJ by_II 4_MC (_( i.e._REX the_AT buggy_NN1 has_VHZ passed_VVN a_AT1 multiple_NN1 of_IO 4_MC corners_NN2 and_CC has_VHZ therefore_RR just_RR completed_VVN a_AT1 circuit_NN1 )_) ,_, the_AT buggy_NN1 should_VM rotate_VVI round_RP through_RP about_RG 180_MC until_CS it_PPH1 finds_VVZ the_AT track_NN1 again_RT and_CC should_VM continue_VVI following_VVG the_AT track_NN1 in_II the_AT opposite_JJ direction_NN1 (_( i.e._REX if_CS it_PPH1 was_VBDZ traveling_VVG clockwise_RR ,_, it_PPH1 should_VM turn_VVI and_CC follow_VVI the_AT track_NN1 anticlockwise_RR )_) ._. 
+</s>
+<s>
+The_AT objective_NN1 is_VBZ to_TO write_VVI software_NN1 that_CST controls_VVZ a_AT1 mobile_JJ buggy_NN1 robot_NN1 ,_, enabling_VVG it_PPH1 to_TO follow_VVI an_AT1 optically_RR marked_JJ maze_NN1 track_NN1 by_II following_VVG the_AT left_JJ wall_NN1 ._. 
+</s>
+<s>
+Again_RT ,_, if_CS the_AT track_NN1 is_VBZ lost_VVN ,_, the_AT buggy_NN1 should_VM scan_VVI to_TO find_VVI the_AT track_NN1 ._. 
+</s>
+<s>
+If_CS the_AT track_NN1 is_VBZ not_XX found_VVN during_II this_DD1 scan_NN1 (_( i.e._REX the_AT buggy_NN1 is_VBZ at_II a_AT1 junction_NN1 or_CC dead_JJ end_NN1 )_) ,_, it_PPH1 must_VM use_VVI a_AT1 'left_NN1 wall_NN1 following'_NN1 algorithm_NN1 ._. 
+</s>
+<s>
+It_PPH1 must_VM first_MD check_VVI to_TO see_VVI if_CSW there_EX is_VBZ a_AT1 track_NN1 at_II 90_MC to_II its_APPGE left_JJ ;_; if_CS not_XX then_RT it_PPH1 checks_VVZ 90_MC to_II the_AT right_NN1 of_IO this_DD1 ,_, then_RT 90_MC to_II the_AT right_NN1 of_IO this_DD1 and_CC finally_RR 90_MC to_II the_AT right_NN1 of_IO this_DD1 ,_, returning_VVG it_PPH1 to_II the_AT original_JJ track_NN1 and_CC sending_VVG it_PPH1 back_RP in_II the_AT direction_NN1 it_PPH1 came_VVD from_II (_( i.e._REX having_VHG reached_VVN a_AT1 dead_JJ end_NN1 ,_, the_AT buggy_NN1 backtracks_VVZ )_) ._. 
+</s>
+<s>
+Using_VVG this_DD1 algorithm_NN1 allows_VVZ it_PPH1 to_TO solve_VVI a_AT1 maze_NN1 providing_CS there_EX are_VBR no_AT loops_NN2 within_II the_AT maze_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO design_VVI the_AT required_JJ software_NN1 ,_, the_AT requirements_NN2 were_VBDR analysed_VVN and_CC then_RT broken_VVN down_RP into_II progressively_RR smaller_JJR modules_NN2 which_DDQ could_VM then_RT be_VBI designed_VVN and_CC implemented_VVN ._. 
+</s>
+<s>
+Each_DD1 board_NN1 was_VBDZ designed_VVN then_RT implemented_VVN before_II moving_VVG on_RP to_II the_AT design_NN1 for_IF the_AT next_MD board_NN1 ._. 
+</s>
+<s>
+This_DD1 allowed_VVD techniques_NN2 learnt_VVN during_II the_AT implementation_NN1 of_IO one_MC1 board_NN1 to_TO be_VBI applied_VVN to_II the_AT design_NN1 of_IO the_AT software_NN1 for_IF the_AT next_MD type_NN1 of_IO board_NN1 ._. 
+</s>
+<s>
+For_IF the_AT general_JJ specification_NN1 ,_, two_MC basic_JJ functions_NN2 were_VBDR required_VVN :_: movement_NN1 and_CC detection_NN1 ._. 
+</s>
+<s>
+Movement_NN1 covers_VVZ motion_NN1 in_II all_DB required_JJ directions_NN2 (_( i.e._REX forwards_NN2% ,_, left_VVD ,_, right_JJ and_CC backwards_RL )_) ._. 
+</s>
+<s>
+A_AT1 combination_NN1 of_IO movements_NN2 was_VBDZ required_VVN to_TO follow_VVI the_AT track_NN1 ,_, scan_VV0 for_IF the_AT track_NN1 when_CS lost_VVN and_CC react_VV0 to_II the_AT result_NN1 of_IO a_AT1 scan_NN1 ._. 
+</s>
+<s>
+Detection_NN1 covers_NN2 detecting_VVG when_RRQ the_AT paths_NN2 has_VHZ been_VBN lost_VVN and_CC when_CS the_AT path_NN1 has_VHZ been_VBN found_VVN during_II a_AT1 scan_NN1 ._. 
+</s>
+<s>
+From_II these_DD2 basic_JJ functions_NN2 ,_, it_PPH1 was_VBDZ possible_JJ to_TO create_VVI a_AT1 general_JJ method_NN1 for_IF following_VVG a_AT1 track_NN1 ._. 
+</s>
+<s>
+Here_RL ,_, x_ZZ1 denotes_VVZ a_AT1 variable_NN1 whose_DDQGE size_NN1 is_VBZ dictated_VVN by_II the_AT size_NN1 of_IO the_AT gaps_NN2 at_II junctions_NN2 on_II the_AT board_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ also_RR possible_JJ to_TO define_VVI a_AT1 scanning_NN1 method_NN1 which_DDQ allowed_VVD the_AT buggy_NN1 to_TO search_VVI for_IF the_AT line_NN1 when_CS it_PPH1 is_VBZ lost_VVN ._. 
+</s>
+<s>
+Here_RL ,_, y_ZZ1 denotes_VVZ a_AT1 variable_NN1 whose_DDQGE size_NN1 is_VBZ dictated_VVN by_II the_AT size_NN1 of_IO the_AT gaps_NN2 between_II lines_NN2 of_IO track_NN1 on_II the_AT board_NN1 ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT method_NN1 here_RL is_VBZ a_AT1 left_JJ scanner_NN1 ,_, a_AT1 right_JJ scanner_NN1 can_VM also_RR be_VBI made_VVN simply_RR by_II swapping_VVG 'left'_JJ and_CC 'right'_NN1 ._. 
+</s>
+<s>
+From_II the_AT above_JJ ,_, it_PPH1 can_VM be_VBI seen_VVN that_CST further_JJR methods_NN2 could_VM be_VBI written_VVN to_TO move_VVI the_AT buggy_NN1 forwards_RL ,_, left_VVD ,_, right_JJ and_CC to_TO scan_VVI for_IF track_NN1 ._. 
+</s>
+<s>
+These_DD2 methods_NN2 ,_, however_RR ,_, were_VBDR found_VVN to_TO be_VBI trivial_JJ (_( i.e._REX can_VM be_VBI done_VDN in_II just_RR one_MC1 or_CC two_MC lines_NN2 of_IO code_NN1 )_) so_RG separate_JJ methods_NN2 were_VBDR not_XX designed_VVN or_CC implemented_VVN ._. 
+</s>
+<s>
+On_II31 top_II32 of_II33 the_AT methods_NN2 described_VVN above_RL ,_, code_NN1 was_VBDZ required_VVN to_TO define_VVI the_AT VIA_FW and_CC to_TO declare_VVI and_CC initialise_VVI global_JJ variables_NN2 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ included_VVN at_II the_AT beginning_NN1 of_IO the_AT code_NN1 and_CC was_VBDZ similar_JJ to_II the_AT code_NN1 at_II the_AT beginning_NN1 of_IO buggytimertest.c_NNU ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 the_AT methods_NN2 described_VVN above_RL ,_, a_AT1 corner_NN1 counter_NN1 was_VBDZ needed_VVN to_TO keep_VVI track_NN1 of_IO how_RGQ many_DA2 corners_NN2 had_VHD been_VBN passed_VVN and_CC a_AT1 method_NN1 to_TO reverse_VVI the_AT direction_NN1 of_IO travel_NN1 ._. 
+</s>
+<s>
+These_DD2 additional_JJ requirements_NN2 resulted_VVN in_II the_AT following_JJ software_NN1 design_NN1 :_: Carefully_RR choosing_VVG x_ZZ1 and_CC y_ZZ1 ensures_VVZ that_CST ,_, at_II corners_NN2 ,_, a_AT1 scan_NN1 fails_VVZ exactly_RR once_RR ._. 
+</s>
+<s>
+Therefore_RR ,_, counting_VVG corners_NN2 was_VBDZ equivalent_JJ to_II counting_VVG failed_JJ sweeps_NN2 ,_, greatly_RR simplifying_VVG both_RR design_VV0 and_CC implementation_NN1 for_IF the_AT square_JJ board_NN1 method_NN1 ._. 
+</s>
+<s>
+The_AT intended_JJ algorithm_NN1 for_IF using_VVG the_AT buggy_NN1 to_TO solve_VVI a_AT1 maze_NN1 was_VBDZ a_AT1 'left_NN1 wall_NN1 follower'_NN1 ._. 
+</s>
+<s>
+The_AT main_JJ reasons_NN2 for_IF this_DD1 choice_NN1 were_VBDR that_CST it_PPH1 is_VBZ a_AT1 nice_JJ simple_JJ way_NN1 of_IO solving_VVG a_AT1 maze_NN1 and_CC also_RR that_CST some_DD previous_JJ work_NN1 with_IW this_DD1 algorithm_NN1 had_VHD been_VBN done_VDN in_II another_DD1 programming_NN1 module_NN1 (_( CS118_FO )_) ._. 
+</s>
+<s>
+The_AT principle_NN1 is_VBZ that_CST by_II imagining_VVG the_AT tracks_NN2 to_TO have_VHI 'walls_NN2 '_GE on_II the_AT left_JJ and_CC right_RR ,_, following_VVG round_RP one_MC1 of_IO the_AT walls_NN2 (_( in_II this_DD1 case_NN1 the_AT left_JJ one_PN1 )_) allows_VVZ the_AT buggy_NN1 eventually_RR to_TO get_VVI to_II the_AT end_NN1 of_IO the_AT maze_NN1 ._. 
+</s>
+<s>
+Unfortunately_RR there_EX was_VBDZ not_XX enough_DD time_NNT1 to_TO develop_VVI a_AT1 way_NN1 of_IO marking_VVG the_AT end_NN1 of_IO the_AT maze_NN1 and_CC making_VVG the_AT buggy_NN1 stop_NN1 when_CS it_PPH1 reached_VVD the_AT end_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT algorithm_NN1 was_VBDZ designed_VVN and_CC implemented_VVN to_TO enable_VVI the_AT buggy_NN1 to_TO follow_VVI the_AT maze_NN1 indefinitely_RR ,_, eventually_RR exploring_VVG the_AT whole_NN1 of_IO the_AT maze_NN1 ._. 
+</s>
+<s>
+Methods_NN2 for_IF turning_VVG 90_MC left_JJ and_CC right_NN1 were_VBDR also_RR needed_VVN ._. 
+</s>
+<s>
+These_DD2 were_VBDR initially_RR relatively_RR simple_JJ but_CCB used_VVD frequently_RR so_RR were_VBDR designed_VVN and_CC implemented_VVN separately_RR ._. 
+</s>
+<s>
+However_RR ,_, during_II implementation_NN1 ,_, it_PPH1 was_VBDZ discovered_VVN that_CST these_DD2 simple_JJ methods_NN2 were_VBDR inappropriate_JJ ._. 
+</s>
+<s>
+The_AT buggy_NN1 had_VHD to_TO be_VBI manoeuvred_VVN differently_RR to_TO ensure_VVI the_AT optodetector_NN1 was_VBDZ correctly_RR positioned_VVN at_II a_AT1 junction_NN1 ._. 
+</s>
+<s>
+Here_RL ,_, w_ZZ1 denotes_VVZ a_AT1 variable_NN1 whose_DDQGE size_NN1 is_VBZ dictated_VVN by_II the_AT size_NN1 of_IO the_AT buggy_NN1 ._. 
+</s>
+<s>
+Before_II beginning_VVG the_AT actual_JJ coding_NN1 of_IO the_AT software_NN1 ,_, it_PPH1 was_VBDZ important_JJ to_TO understand_VVI how_RRQ the_AT sample_NN1 code_NN1 worked_VVD ,_, and_CC to_TO ensure_VVI the_AT buggy_NN1 was_VBDZ functioning_VVG correctly_RR ._. 
+</s>
+<s>
+The_AT tester_NN1 program_NN1 was_VBDZ loaded_VVN into_II the_AT SWET_NN1 and_CC executed_VVN (_( exact_JJ details_NN2 of_IO how_RRQ this_DD1 was_VBDZ done_VDN can_VM be_VBI found_VVN in_II Appendix_NN1 A_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT buggy_NN1 functioned_VVD correctly_RR so_RR the_AT buggytimertest.c_NNU code_NN1 was_VBDZ compiled_VVN ,_, loaded_JJ and_CC executed_VVN ._. 
+</s>
+<s>
+Watching_VVG the_AT buggy_NN1 's_GE actions_NN2 ,_, examining_VVG the_AT code_NN1 and_CC reading_VVG the_AT accompanying_JJ lab_NN1 sheet_NN1 (_( see_VV0 Appendix_NN1 A_ZZ1 )_) made_VVD it_PPH1 easy_JJ to_TO see_VVI which_DDQ lines_NN2 did_VDD what_DDQ ._. 
+</s>
+<s>
+The_AT next_MD stage_NN1 was_VBDZ deciding_VVG which_DDQ method_NN1 of_IO driving_VVG the_AT motors_NN2 was_VBDZ best_JJT :_: signalling_VVG the_AT motor_NN1 drive_NN1 pulse_NN1 controls_NN2 or_CC using_VVG the_AT timer_NN1 ._. 
+</s>
+<s>
+Code_NN1 was_VBDZ copied_VVN from_II buggytimertest.c_NNU to_TO develop_VVI two_MC short_JJ programs_NN2 which_DDQ moved_VVD the_AT buggy_NN1 in_II all_DB directions_NN2 ._. 
+</s>
+<s>
+There_EX was_VBDZ a_AT1 small_JJ problem_NN1 at_II this_DD1 stage_NN1 as_II the_AT buggy_NN1 was_VBDZ making_VVG strange_JJ grinding_JJ noises_NN2 as_CSA it_PPH1 moved_VVD ,_, which_DDQ had_VHD n't_XX happened_VVN when_CS the_AT test_NN1 program_NN1 was_VBDZ run_VVN ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ discovered_VVN that_CST this_DD1 was_VBDZ due_II21 to_II22 the_AT fact_NN1 that_CST the_AT delay_NN1 between_II pulsing_VVG the_AT motors_NN2 was_VBDZ too_RG short_JJ so_CS they_PPHS2 were_VBDR slipping_VVG ;_; simply_RR making_VVG the_AT delay_NN1 a_RR21 little_RR22 longer_RRR sorted_VVD this_DD1 problem_NN1 ._. 
+</s>
+<s>
+Having_VHG sorted_VVN this_DD1 problem_NN1 ,_, it_PPH1 was_VBDZ decided_VVN that_CST the_AT best_JJT way_NN1 to_TO drive_VVI the_AT buggy_NN1 was_VBDZ to_TO use_VVI the_AT timer_NN1 ._. 
+</s>
+<s>
+During_II the_AT testing_NN1 ,_, it_PPH1 was_VBDZ also_RR discovered_VVN that_CST simply_RR pulsing_VVG the_AT left_JJ or_CC right_JJ motor_NN1 was_VBDZ not_XX a_AT1 very_RG good_JJ way_NN1 of_IO turning_NN1 and_CC resulted_VVD in_II a_AT1 very_RG large_JJ turning_NN1 circle_NN1 for_IF the_AT buggy_NN1 ._. 
+</s>
+<s>
+However_RR ,_, rotating_VVG one_MC1 motor_NN1 clockwise_RR and_CC the_AT other_JJ anticlockwise_RR provided_VVN a_AT1 much_RR tighter_JJR turning_NN1 circle_NN1 -_- the_AT buggy_NN1 pivots_VVZ about_II the_AT centre_NN1 of_IO its_APPGE back_NN1 end_NN1 ,_, rather_II21 than_II22 a_AT1 wheel_NN1 ._. 
+</s>
+<s>
+This_DD1 discovery_NN1 was_VBDZ duly_RR noted_VVN and_CC this_DD1 method_NN1 was_VBDZ used_VVN throughout_II when_RRQ rotation_NN1 was_VBDZ required_VVN ._. 
+</s>
+<s>
+Having_VHG done_VDN the_AT above_JJ preliminary_JJ work_NN1 to_TO understand_VVI how_RRQ the_AT buggy_NN1 worked_VVD ,_, coding_NN1 of_IO the_AT actual_JJ software_NN1 could_VM begin_VVI ._. 
+</s>
+<s>
+The_AT first_MD stage_NN1 of_IO implementation_NN1 was_VBDZ setting_VVG up_RP the_AT signals_NN2 on_II the_AT VIA_FW ._. 
+</s>
+<s>
+This_DD1 task_NN1 was_VBDZ relatively_RR simple_JJ as_II the_AT sample_NN1 file_NN1 buggytimertest.c_NNU required_VVN very_RG similar_JJ signals_NN2 to_TO be_VBI set_VVN up_RP so_RR the_AT project_NN1 software_NN1 was_VBDZ based_VVN on_II this_DD1 ._. 
+</s>
+<s>
+Global_JJ variables_NN2 were_VBDR also_RR declared_VVN at_II the_AT beginning_NN1 of_IO the_AT code_NN1 along_II21 with_II22 the_AT delay_NN1 method_NN1 ._. 
+</s>
+<s>
+The_AT main_JJ method_NN1 was_VBDZ implemented_VVN next_MD ._. 
+</s>
+<s>
+This_DD1 sets_VVZ bits_NN2 on_II the_AT VIA_FW appropriately_RR ,_, makes_VVZ the_AT timer_NN1 generate_VVI a_AT1 drive_NN1 pulse_NN1 for_IF the_AT motors_NN2 and_CC calls_VVZ the_AT method_NN1 which_DDQ allows_VVZ the_AT buggy_NN1 to_TO follow_VVI the_AT track_NN1 ,_, move_VV0 ._. 
+</s>
+<s>
+These_DD2 lines_NN2 of_IO code_NN1 (_( which_DDQ can_VM be_VBI seen_VVN in_II Appendix_NN1 B_ZZ1 )_) were_VBDR then_RT tested_VVN together_RL by_II defining_VVG a_AT1 simple_JJ move_NN1 method_NN1 ._. 
+</s>
+<s>
+Copying_VVG from_II the_AT (_( already_RR tested_VVN )_) buggytimertest.c_NNU program_NN1 allowed_VVD the_AT creation_NN1 of_IO a_AT1 move_NN1 method_NN1 which_DDQ simply_RR makes_VVZ the_AT buggy_NN1 move_VVI forward_RL ._. 
+</s>
+<s>
+An_AT1 additional_JJ delay_NN1 method_NN1 was_VBDZ also_RR required_VVN ,_, which_DDQ was_VBDZ copied_VVN from_II buggytimertest.c_NNU too_RR ._. 
+</s>
+<s>
+Having_VHG put_VVN these_DD2 methods_NN2 together_RL in_II order_NN1 ,_, the_AT program_NN1 was_VBDZ compiled_VVN then_RT loaded_VVN into_II the_AT SWET_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ then_RT executed_VVN and_CC ,_, as_CSA expected_VVN ,_, the_AT buggy_NN1 moved_VVD forwards_RL until_CS the_AT reset_JJ button_NN1 was_VBDZ pressed_VVN ._. 
+</s>
+<s>
+This_DD1 showed_VVD that_CST the_AT code_NN1 was_VBDZ performing_VVG correctly_RR ._. 
+</s>
+<s>
+The_AT next_MD stage_NN1 was_VBDZ to_TO test_VVI the_AT optodetector_NN1 and_CC begin_VVI to_TO implement_VVI the_AT basic_JJ track_NN1 following_VVG method_NN1 described_VVN above_RL in_II the_AT general_JJ system_NN1 design_NN1 ._. 
+</s>
+<s>
+A_AT1 simplified_JJ version_NN1 was_VBDZ used_VVN first_MD to_TO allow_VVI the_AT method_NN1 to_TO be_VBI tested_VVN without_IW implementing_VVG a_AT1 sweep_NN1 method_NN1 ._. 
+</s>
+<s>
+This_DD1 method_NN1 replaced_VVD the_AT move_NN1 method_NN1 which_DDQ was_VBDZ defined_VVN to_TO test_VVI the_AT code_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ then_RT tested_VVN by_II compiling_VVG ,_, loading_VVG into_II the_AT SWET_NN1 and_CC executing_VVG ._. 
+</s>
+<s>
+As_CSA expected_VVN ,_, the_AT robot_NN1 moved_VVD forwards_RL and_CC ,_, when_CS it_PPH1 went_VVD off_II the_AT track_NN1 ,_, printed_VVN the_AT message_NN1 'I_JJ% 've_VH0 lost_VVN the_AT track_NN1 ._. '_" 
+</s>
+<s>
+on_II the_AT screen_NN1 ._. 
+</s>
+<s>
+Having_VHG tested_VVN it_PPH1 and_CC shown_VVN that_CST the_AT code_NN1 worked_VVD ,_, it_PPH1 was_VBDZ then_RT altered_VVN to_TO include_VVI the_AT additional_JJ lines_NN2 required_VVN to_TO call_VVI a_AT1 sweep_NN1 method_NN1 and_CC to_TO react_VVI to_II the_AT result_NN1 of_IO a_AT1 sweep_NN1 ._. 
+</s>
+<s>
+A_AT1 variable_NN1 found_VVD was_VBDZ used_VVN to_TO store_VVI whether_CSW the_AT sweep_NN1 was_VBDZ successful_JJ or_CC not_XX (_( i.e._REX if_CS the_AT track_NN1 was_VBDZ found_VVN or_CC not_XX )_) ._. 
+</s>
+<s>
+Another_DD1 variable_NN1 ,_, count_VV0 ,_, was_VBDZ also_RR declared_VVN at_II the_AT beginning_NN1 to_TO be_VBI used_VVN later_RRR in_II a_AT1 while_NNT1 loop_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO test_VVI this_DD1 piece_NN1 of_IO code_NN1 ,_, it_PPH1 was_VBDZ necessary_JJ to_TO create_VVI a_AT1 test_NN1 method_NN1 to_TO act_VVI as_II leftsweep_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ necessary_JJ to_TO test_VVI the_AT response_NN1 with_IW found_VV0% being_VBG both_RR 0_MC and_CC 1_MC1 so_RG two_MC separate_JJ methods_NN2 were_VBDR used_VVN ._. 
+</s>
+<s>
+Lines_NN2 were_VBDR printed_VVN out_RP using_VVG prf_NNU to_TO allow_VVI determination_NN1 of_IO exactly_RR which_DDQ pieces_NN2 of_IO code_NN1 were_VBDR being_VBG executed_VVN (_( they_PPHS2 are_VBR underlined_VVN above_RL )_) ._. 
+</s>
+<s>
+The_AT two_MC leftsweep_NN1 methods_NN2 were_VBDR defined_VVN as_CSA follows_VVZ ,_, each_DD1 being_VBG substituted_VVN into_II the_AT program_NN1 then_RT compiled_VVD ,_, loaded_VVN into_II the_AT SWET_NN1 and_CC executed_VVN to_TO test_VVI whether_CSW the_AT code_NN1 functioned_VVD correctly_RR ._. 
+</s>
+<s>
+The_AT program_NN1 performed_VVN as_CSA expected_VVN under_II both_DB2 sets_NN2 of_IO circumstances_NN2 ._. 
+</s>
+<s>
+The_AT correct_JJ lines_NN2 were_VBDR displayed_VVN in_II each_DD1 execution_NN1 of_IO the_AT code_NN1 ._. 
+</s>
+<s>
+Having_VHG tested_VVN the_AT code_NN1 and_CC shown_VVN that_CST it_PPH1 worked_VVD correctly_RR ,_, a_AT1 proper_JJ leftsweep_NN1 method_NN1 was_VBDZ required_VVN ._. 
+</s>
+<s>
+The_AT code_NN1 written_VVN (_( according_II21 to_II22 the_AT design_NN1 above_RL )_) can_VM be_VBI seen_VVN below_RL :_: This_DD1 method_NN1 was_VBDZ then_RT substituted_VVN into_II the_AT program_NN1 in_II31 place_II32 of_II33 the_AT tester_NN1 leftsweep_NN1 method_NN1 ._. 
+</s>
+<s>
+The_AT whole_JJ program_NN1 was_VBDZ then_RT compiled_VVN ,_, loaded_VVN into_II the_AT SWET_NN1 and_CC executed_VVN ._. 
+</s>
+<s>
+The_AT buggy_NN1 ran_VVD as_CSA expected_VVN and_CC followed_VVN the_AT line_NN1 correctly_RR ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ noted_VVN ,_, however_RR ,_, that_CST the_AT buggy_NN1 ran_VVD much_RR better_JJR clockwise_JJ than_CSN anti-clockwise_JJ ._. 
+</s>
+<s>
+This_DD1 was_VBDZ due_II21 to_II22 the_AT fact_NN1 that_CST when_CS it_PPH1 came_VVD to_II a_AT1 corner_NN1 ,_, although_CS the_AT line_NN1 was_VBDZ to_II the_AT right_NN1 ,_, it_PPH1 swept_VVD to_II the_AT left_JJ first_MD ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ decided_VVN that_CST a_AT1 rightsweep_NN1 method_NN1 should_VM be_VBI included_VVN ,_, along_II21 with_II22 a_AT1 variable_NN1 to_TO store_VVI the_AT result_NN1 of_IO the_AT last_MD sweep_NN1 ,_, i.e._REX if_CS the_AT line_NN1 was_VBDZ found_VVN during_II a_AT1 sweep_NN1 to_II the_AT left_JJ ,_, the_AT next_MD sweep_NN1 would_VM be_VBI a_AT1 leftsweep_NN1 ;_; if_CS the_AT line_NN1 was_VBDZ found_VVN during_II a_AT1 sweep_NN1 to_II the_AT right_NN1 ,_, the_AT next_MD sweep_NN1 would_VM be_VBI a_AT1 rightsweep_NN1 ._. 
+</s>
+<s>
+The_AT rightsweep_NN1 method_NN1 was_VBDZ implemented_VVN in_II the_AT same_DA way_NN1 as_CSA the_AT leftsweep_NN1 but_CCB with_IW the_AT direction_NN1 lines_NN2 interchanged_VVD (_( i.e._REX *VIAORA_FO =_FO 0x31_FO *VIAORA_FO =_FO 0x32_FO )_) ._. 
+</s>
+<s>
+Also_RR ,_, a_AT1 return_NN1 value_NN1 of_IO 1_MC1 was_VBDZ used_VVN to_TO indicate_VVI a_AT1 leftsweep_NN1 should_VM be_VBI used_VVN and_CC a_AT1 value_NN1 of_IO 2_MC was_VBDZ used_VVN to_TO indicate_VVI a_AT1 rightsweep_NN1 should_VM be_VBI used_VVN ._. 
+</s>
+<s>
+The_AT move_NN1 method_NN1 was_VBDZ altered_VVN to_TO include_VVI a_AT1 direction_NN1 variable_NN1 and_CC to_TO have_VHI different_JJ behaviours_NN2 depending_II21 on_II22 the_AT value_NN1 of_IO found_VVN ._. 
+</s>
+<s>
+The_AT final_JJ alteration_NN1 to_II the_AT general_JJ board_NN1 code_NN1 was_VBDZ to_TO add_VVI in_II a_AT1 few_DA2 lines_NN2 to_TO print_VVI out_RP (_( on_II the_AT terminal_JJ screen_NN1 )_) how_RGQ many_DA2 unsuccessful_JJ sweeps_NN2 had_VHD occurred_VVN during_II a_AT1 run_NN1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ useful_JJ for_IF deciding_VVG on_II the_AT size_NN1 of_IO STEPS_NN2 -_- if_CS there_EX was_VBDZ a_AT1 large_JJ number_NN1 of_IO unsuccessful_JJ sweeps_NN2 in_II a_AT1 short_JJ period_NN1 of_IO time_NNT1 ,_, STEPS_NN2 should_VM be_VBI increased_VVN as_II the_AT buggy_NN1 was_VBDZ probably_RR not_XX moving_VVG forwards_RL far_RR enough_RR after_II a_AT1 failed_JJ sweep_NN1 ._. 
+</s>
+<s>
+The_AT whole_JJ program_NN1 can_VM be_VBI seen_VVN in_II Appendix_NN1 B_ZZ1 and_CC is_VBZ called_VVN buggy.c_NNU ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI used_VVN on_II any_DD board_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ tested_VVN (_( successfully_RR )_) on_II both_DB2 the_AT square_JJ board_NN1 and_CC the_AT general_JJ board_NN1 ._. 
+</s>
+<s>
+The_AT implementation_NN1 of_IO the_AT square_JJ board_NN1 software_NN1 was_VBDZ strongly_RR based_VVN on_II the_AT general_JJ board_NN1 software_NN1 ,_, which_DDQ required_VVD only_RR small_JJ alterations_NN2 ._. 
+</s>
+<s>
+Having_VHG included_VVN a_AT1 'failed_JJ sweep'_JJ counter_NN1 in_II the_AT general_JJ board_NN1 software_NN1 made_VVD counting_VVG corners_NN2 very_RG easy_JJ as_CSA ,_, on_II the_AT square_JJ board_NN1 ,_, failed_VVD sweeps_NN2 represented_VVD corners_NN2 ._. 
+</s>
+<s>
+A_AT1 few_DA2 lines_NN2 were_VBDR added_VVN to_TO check_VVI if_CSW this_DD1 number_NN1 was_VBDZ divisible_JJ by_II 4_MC (_( i.e._REX a_AT1 whole_JJ circuit_NN1 had_VHD been_VBN completed_VVN )_) and_CC ,_, if_CS so_RR ,_, to_TO rotate_VVI through_II 180_MC ._. 
+</s>
+<s>
+The_AT rotation_NN1 through_II 180_MC was_VBDZ accomplished_VVN by_II doing_VDG in_II a_AT1 sweep_NN1 in_II the_AT opposite_JJ direction_NN1 to_II the_AT corner_NN1 with_IW a_AT1 very_RG large_JJ sweep_NN1 size_NN1 ._. 
+</s>
+<s>
+The_AT modified_JJ code_NN1 can_VM be_VBI seen_VVN in_II the_AT program_NN1 listing_NN1 ._. 
+</s>
+<s>
+As_CSA so_RG much_DA1 of_IO the_AT code_NN1 was_VBDZ reused_VVN from_II the_AT general_JJ board_NN1 software_NN1 ,_, testing_NN1 was_VBDZ relatively_RR simple_JJ as_II the_AT whole_JJ program_NN1 could_VM be_VBI tested_VVN together_RL ._. 
+</s>
+<s>
+The_AT code_NN1 was_VBDZ compiled_VVN ,_, loaded_VVN into_II the_AT SWET_NN1 and_CC executed_VVN ._. 
+</s>
+<s>
+As_CSA expected_VVN ,_, the_AT buggy_NN1 followed_VVD the_AT square_NN1 round_RP for_IF one_MC1 rotation_NN1 then_RT turned_VVD round_RP and_CC followed_VVD back_RP in_II the_AT other_JJ direction_NN1 repeatedly_RR ,_, until_CS the_AT reset_JJ button_NN1 was_VBDZ pressed_VVN ._. 
+</s>
+<s>
+The_AT full_JJ program_NN1 listing_NN1 for_IF buggysquare.c_NNU can_VM be_VBI seen_VVN in_II Appendix_NN1 B._NP1 The_AT final_JJ piece_NN1 of_IO software_NN1 implemented_VVN was_VBDZ to_TO allow_VVI the_AT buggy_NN1 to_TO follow_VVI a_AT1 maze_NN1 ._. 
+</s>
+<s>
+The_AT first_MD stage_NN1 in_II this_DD1 implementation_NN1 was_VBDZ ,_, in_II fact_NN1 ,_, to_TO build_VVI the_AT maze_NN1 board_NN1 as_CSA there_EX was_VBDZ not_XX an_AT1 existing_JJ one_PN1 ._. 
+</s>
+<s>
+Having_VHG created_VVN a_AT1 simple_JJ maze_NN1 from_II the_AT black_JJ tape_NN1 and_CC white_JJ board_NN1 provided_VVD ,_, software_NN1 coding_NN1 was_VBDZ started_VVN ._. 
+</s>
+<s>
+Like_II the_AT square_JJ board_NN1 software_NN1 ,_, the_AT maze_NN1 board_NN1 software_NN1 was_VBDZ heavily_RR based_VVN on_II the_AT general_JJ board_NN1 software_NN1 ._. 
+</s>
+<s>
+Firstly_RR ,_, alterations_NN2 were_VBDR made_VVN to_II the_AT move_NN1 method_NN1 ._. 
+</s>
+<s>
+This_DD1 involved_VVD altering_VVG the_AT response_NN1 to_II a_AT1 failed_JJ sweep_NN1 to_TO make_VVI the_AT buggy_NN1 turn_NN1 90_MC left_JJ ,_, then_RT if_CS this_DD1 failed_VVD to_TO turn_VVI 90_MC right_JJ until_CS the_AT track_NN1 was_VBDZ found_VVN ._. 
+</s>
+<s>
+The_AT rightsweep_NN1 method_NN1 was_VBDZ not_XX required_VVN so_CS it_PPH1 was_VBDZ removed_VVN and_CC leftsweep_NN1 was_VBDZ renamed_VVN as_CSA just_RR sweep_VV0 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO test_VVI this_DD1 code_NN1 ,_, methods_NN2 for_IF turn90left_FO and_CC turn90right_FO were_VBDR required_VVN ._. 
+</s>
+<s>
+However_RR ,_, the_AT design_NN1 for_IF this_DD1 code_NN1 was_VBDZ so_RG simple_JJ that_CST it_PPH1 was_VBDZ possible_JJ to_TO create_VVI these_DD2 methods_NN2 entirely_RR from_II code_NN1 which_DDQ was_VBDZ already_RR known_VVN to_TO work_VVI ._. 
+</s>
+<s>
+The_AT implementation_NN1 of_IO these_DD2 methods_NN2 can_VM be_VBI seen_VVN in_II the_AT program_NN1 listing_NN1 ._. 
+</s>
+<s>
+This_DD1 code_NN1 was_VBDZ then_RT compiled_VVN ,_, loaded_VVN into_II the_AT SWET_NN1 and_CC executed_VVN ._. 
+</s>
+<s>
+As_CSA was_VBDZ explained_VVN in_II the_AT design_NN1 section_NN1 ,_, however_RR ,_, it_PPH1 was_VBDZ discovered_VVN that_CST the_AT distance_NN1 the_AT optodetector_NN1 was_VBDZ much_RR too_RG large_JJ to_TO make_VVI the_AT rotation_NN1 effective_JJ ._. 
+</s>
+<s>
+The_AT buggy_NN1 rotated_VVD left_JJ but_CCB would_VM be_VBI a_AT1 buggy_NN1 length_NN1 to_II the_AT left_NN1 of_IO the_AT line_NN1 at_II the_AT junction_NN1 so_RR would_VM never_RR find_VVI the_AT line_NN1 ._. 
+</s>
+<s>
+To_TO remedy_VVI this_DD1 situation_NN1 ,_, the_AT second_MD design_NN1 was_VBDZ developed_VVN ._. 
+</s>
+<s>
+New_JJ constants_NN2 STEPSII_NN2 and_CC STEPSIII_NN2 were_VBDR defined_VVN and_CC ,_, through_II experimentation_NN1 ,_, new_JJ suitable_JJ values_NN2 were_VBDR determined_VVN as_CSA follows_VVZ ._. 
+</s>
+<s>
+The_AT new_JJ program_NN1 (_( which_DDQ can_VM be_VBI seen_VVN in_II the_AT program_NN1 listings_NN2 )_) was_VBDZ then_RT compiled_VVN ,_, loaded_VVN into_II the_AT SWET_NN1 and_CC finally_RR executed_VVN on_II the_AT maze_NN1 board_NN1 ._. 
+</s>
+<s>
+The_AT buggy_NN1 successfully_RR followed_VVD the_AT maze_NN1 round_RP until_CS the_AT reset_JJ button_NN1 was_VBDZ pressed_VVN ._. 
+</s>
+<s>
+The_AT full_JJ program_NN1 listing_NN1 for_IF buggymaze.c_NNU can_VM be_VBI seen_VVN in_II Appendix_NN1 B._NP1 
+</s>

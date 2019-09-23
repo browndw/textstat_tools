@@ -1,0 +1,180 @@
+<s>
+Program_VV0 to_TO calculate_VVI the_AT cost_NN1 of_IO an_AT1 order_NN1 off_RP from_II an_AT1 array_NN1 of_IO records_NN2 of_IO 3_MC items_NN2 ._. 
+</s>
+<s>
+Declare_VV0 records_NN2 and_CC array_NN1 ._. 
+</s>
+<s>
+Declare_VV0 procedure_NN1 to_TO ask_VVI for_IF details_NN2 of_IO record_NN1 ._. 
+</s>
+<s>
+Ask_VV0 user_NN1 if_CS they_PPHS2 want_VV0 to_TO place_VVI an_AT1 order_NN1 ._. 
+</s>
+<s>
+If_CS they_PPHS2 want_VV0 to_TO ,_, ask_VV0 which_DDQ product_NN1 ._. 
+</s>
+<s>
+Search_NN1 for_IF product_NN1 in_II database_NN1 ._. 
+</s>
+<s>
+If_CS found_VVN ,_, display_VV0 details_NN2 of_IO products_NN2 ._. 
+</s>
+<s>
+Ask_VV0 if_CSW they_PPHS2 want_VV0 to_TO place_VVI an_AT1 order_NN1 for_IF that_DD1 product_NN1 ._. 
+</s>
+<s>
+If_CS yes_UH ,_, Ask_VV0 how_RGQ many_DA2 they_PPHS2 want_VV0 to_TO order_VVI ._. 
+</s>
+<s>
+Calculate_VV0 cost_NN1 ,_, Decrease_VV0 stock_NN1 ._. 
+</s>
+<s>
+Ask_VV0 if_CSW they_PPHS2 want_VV0 to_TO add_VVI another_DD1 product_NN1 ._. 
+</s>
+<s>
+Add_VV0 until_CS they_PPHS2 say_VV0 that_CST they_PPHS2 do_VD0 not_XX want_VVI to_TO add_VVI another_DD1 product_NN1 ,_, incrementing_VVG cost_NN1 ,_, and_CC decreasing_JJ stock_NN1 also_RR ._. 
+</s>
+<s>
+Output_NN1 Cost_NN1 of_IO Order_NN1 ._. 
+</s>
+<s>
+Ask_VV0 if_CSW they_PPHS2 want_VV0 to_TO place_VVI another_DD1 order_NN1 1_MC1 ._. 
+</s>
+<s>
+Declare_VV0 records_NN2 and_CC array_NN1 2_MC ._. 
+</s>
+<s>
+Procedure_NN1 which_DDQ gets_VVZ all_DB details_NN2 about_II the_AT products_NN2 and_CC store_VV0 it_PPH1 in_II array_NN1 2.1_MC Ask_VV0 for_IF the_AT details_NN2 for_IF 3_MC products_NN2 3_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO determine_VVI if_CSW the_AT user_NN1 wants_VVZ to_TO place_VVI an_AT1 order_NN1 and_CC to_TO validate_VVI the_AT answer_NN1 3.1_MC Ask_VV0 if_CS user_NN1 wants_VVZ to_TO place_VVI an_AT1 order_NN1 4_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO ask_VVI which_DDQ product_NN1 the_AT user_NN1 wants_VVZ to_TO supposedly_RR order_VVI 4.1_MC Get_VV0 product_NN1 name_NN1 from_II user_NN1 5_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO search_VVI the_AT array_NN1 for_IF product_NN1 name_NN1 entered_VVN by_II user_NN1 5.1_MC Compare_VV0 product_NN1 in_II array_NN1 with_IW product_NN1 name_NN1 input_NN1 by_II user_NN1 5.1.1When_FO they_PPHS2 match_VV0 ,_, call_VV0 procedure_NN1 to_TO display_VVI details_NN2 of_IO that_DD1 product_NN1 call_NN1 procedure_NN1 to_TO process_VVI order_NN1 about_II that_DD1 product_NN1 else_RR 5.1.2_MC loop_NN1 procedure_NN1 to_TO search_VVI array_NN1 again_RT 5.2_MC Procedure_NN1 used_VMK to_TO do_VDI part_NN1 of_IO statement_NN1 when_CS product_NN1 is_VBZ not_XX in_II array_NN1 5.2.1_MC display_NN1 error_NN1 message_NN1 -_- record_VV0 not_XX found_VVN 5.2.2_MC ask_VV0 for_IF product_NN1 name_NN1 again_RT 5.2.3_MC call_NN1 procedure_NN1 to_TO search_VVI the_AT array_NN1 again_RT 6_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO display_VVI details_NN2 of_IO products_NN2 6.1_MC Display_NN1 Product_NN1 details_NN2 7_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO get_VVI order_NN1 amount_NN1 for_IF product_NN1 displayed_VVD ,_, calculate_VV0 the_AT cost_NN1 of_IO the_AT order_NN1 ,_, and_CC adjust_VV0 stock_NN1 level_NN1 7.1_MC Ask_VV0 user_NN1 if_CS they_PPHS2 want_VV0 to_TO order_VVI the_AT product_NN1 7.2_MC If_CS answer_NN1 =_FO 'N'_CC 7.3_MC Make_VV0 loop_NN1 exit_NN1 7.4_MC Else_RR 7.5_MC Call_NN1 procedure_NN1 to_TO obtain_VVI number_NN1 of_IO products_NN2 that_CST user_NN1 wants_VVZ to_TO order_VVI 7.6_MC Process_NN1 Order_NN1 -_- Calculate_VV0 cost_NN1 ,_, new_JJ stock_NN1 number_NN1 (_( procedure_NN1 9_MC )_) 8_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO ask_VVI user_NN1 how_RRQ many_DA2 of_IO the_AT product_NN1 displayed_VVD they_PPHS2 want_VV0 to_TO order_VVI and_CC validate_VVI the_AT 8.1_MC Ask_VV0 user_NN1 how_RRQ many_DA2 he_PPHS1 wants_VVZ to_TO order_VVI 9_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO determine_VVI whether_CSW user_NN1 wants_VVZ to_TO add_VVI another_DD1 product_NN1 to_II the_AT order_NN1 9.1_MC call_NN1 procedure_NN1 to_TO ask_VVI for_IF product_NN1 user_NN1 wants_VVZ to_TO order_VVI 9.2_MC call_NN1 procedure_NN1 to_TO search_VVI for_IF item_NN1 in_II array_NN1 9.3_MC call_NN1 procedure_NN1 to_TO check_VVI if_CSW item_NN1 has_VHZ been_VBN found_VVN in_II the_AT array_NN1 9.4_MC Call_NN1 Procedure_NN1 to_TO ask_VVI whether_CSW to_TO order_VVI again_RT ._. 
+</s>
+<s>
+Procedure_NN1 which_DDQ coordinate_VV0 the_AT other_JJ procedure_NN1 when_CS the_AT user_NN1 wants_VVZ to_TO order_VVI 10_MC ._. 
+</s>
+<s>
+Call_VV0 procedure_NN1 to_TO ask_VVI whether_CSW user_NN1 wants_VVZ to_TO order_VVI something_PN1 or_CC not_XX 10.1_MC ask_VVI if_CSW the_AT user_NN1 wants_VVZ to_TO add_VVI another_DD1 product_NN1 to_II the_AT order_NN1 11._MC call_NN1 procedure_NN1 that_CST deals_VVZ with_IW adding_VVG product_NN1 to_TO order_VVI 12._MC output_NN1 cost_NN1 of_IO order_NN1 13._MC loop_NN1 and_CC ask_VV0 if_CS user_NN1 wants_VVZ to_TO place_VVI another_DD1 order_NN1 ._. 
+</s>
+<s>
+Introduce_VV0 program_NN1 ._. 
+</s>
+<s>
+Call_VV0 procedure_NN1 to_TO take_VVI product_NN1 details_NN2 from_II the_AT user_NN1 ._. 
+</s>
+<s>
+Process_VV0 the_AT order_NN1 if_CS user_NN1 wants_VVZ to_TO order_VVI 1_MC1 ._. 
+</s>
+<s>
+Declare_VV0 records_NN2 and_CC array_NN1 2_MC ._. 
+</s>
+<s>
+Procedure_NN1 which_DDQ gets_VVZ all_DB details_NN2 about_II the_AT products_NN2 and_CC store_VV0 it_PPH1 in_II array_NN1 -_- EnterProdDetails_NP1 2.1_MC ask_VV0 for_IF the_AT details_NN2 for_IF 3_MC products_NN2 2.1.1_MC store_NN1 Product_NN1 Name_NN1 in_II array_NN1 2.1.2_MC Call_NN1 procedure_NN1 to_TO get_VVI Product_NN1 ID_NN1 -_- InputProdID_NP1 2.1.3_MC Check_NN1 range_NN1 of_IO Product_NN1 ID_NN1 2.1.4_MC Call_NN1 procedure_NN1 to_TO get_VVI Cost_NN1 of_IO Product_NN1 -_- InputProdCost_VV0 2.1.5_MC Check_NN1 Range_NN1 of_IO Cost_NN1 of_IO Product_NN1 2.1.6_MC Call_NN1 procedure_NN1 to_TO get_VVI Stock_NN1 Level_NN1 -_- InputProdStkLevel_NP1 2.1.7_MC Check_NN1 Range_NN1 of_IO Stock_NP1 Level_NN1 3_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO determine_VVI if_CSW the_AT user_NN1 wants_VVZ to_TO place_VVI an_AT1 order_NN1 and_CC to_TO validate_VVI the_AT answer_NN1 QuestionWhethertoplaceorderornot_NN1 3.1_MC Ask_VV0 if_CS user_NN1 wants_VVZ to_TO place_VVI an_AT1 order_NN1 3.1.1_MC Store_NN1 Answer_NN1 (_( y/n_ZZ1 )_) 3.1.2_MC Validate_NP1 user_NN1 answer_NN1 4_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO ask_VVI which_DDQ product_NN1 the_AT user_NN1 wants_VVZ to_TO supposedly_RR order_VVI -_- AskProdName_VV0 4.1_MC get_VV0 product_NN1 name_NN1 from_II user_NN1 5_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO search_VVI the_AT array_NN1 for_IF product_NN1 name_NN1 entered_VVN by_II user_NN1 -_- SearchArray_VV0 5.0_MC While_CS Counter_NN1 =_FO 3_MC 5.1_MC Compare_VV0 product_NN1 in_II array_NN1 with_IW product_NN1 name_NN1 input_NN1 by_II user_NN1 5.1.3_MC if_CS they_PPHS2 match_VV0 ,_, call_VV0 procedure_NN1 to_TO display_VVI details_NN2 of_IO that_DD1 product_NN1 -_- DisplayProdDetails_NP1 call_NN1 procedure_NN1 to_TO process_VVI order_NN1 about_II that_DD1 product_NN1 -_- ProcessOrderForDisplayedProd_NP1 else_RR 5.1.4_MC increment_NN1 counter_NN1 so_BCL21 as_BCL22 to_TO search_VVI next_MD item_NN1 in_II array_NN1 5.1.5_MC loop_NN1 procedure_NN1 to_TO search_VVI array_NN1 again_RT 5.2_MC Procedure_NN1 used_VMK to_TO do_VDI part_NN1 of_IO statement_NN1 when_CS product_NN1 is_VBZ not_XX in_II array_NN1 -_- ProdNotInArray_VV0 5.2.1_MC display_NN1 error_NN1 message_NN1 -_- record_VV0 not_XX found_VVN 5.2.2_MC ask_VV0 for_IF product_NN1 name_NN1 again_RT 5.2.3_MC call_NN1 procedure_NN1 to_TO search_VVI the_AT array_NN1 again_RT -_- SearchArray_VV0 6_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO display_VVI details_NN2 of_IO products_NN2 -_- DisplayProdDetails_NP1 6.1_MC Display_NN1 Product_NN1 details_NN2 7_MC Procedure_NN1 to_TO get_VVI order_NN1 amount_NN1 for_IF product_NN1 displayed_VVD ,_, calculate_VV0 the_AT cost_NN1 of_IO the_AT order_NN1 ,_, and_CC adjust_VV0 stock_NN1 level_NN1 -_- ProcessOrderForDisplayedProd_NP1 7.1_MC Ask_VV0 user_NN1 if_CS they_PPHS2 want_VV0 to_TO order_VVI the_AT product_NN1 7.1.1_MC Store_NN1 Answer_NN1 (_( y/n_ZZ1 )_) 7.2_MC If_CS answer_NN1 =_FO 'N'_CC 7.3_MC Make_VV0 loop_NN1 exit_NN1 7.4_MC Else_RR 7.5_MC Call_NN1 procedure_NN1 to_TO obtain_VVI number_NN1 of_IO products_NN2 that_CST user_NN1 wants_VVZ to_TO order_VVI -_- Asknumberofproductstobeordered_JJ 7.6_MC Calculate_VV0 cost_NN1 ,_, and_CC new_JJ stock_NN1 7.6.1_MC Increase_NN1 amount_NN1 in_II stock_NN1 7.6.2_MC calculate_VV0 ,_, increment_NN1 cost_NN1 of_IO order_NN1 8Procedure_FO to_TO ask_VVI user_NN1 how_RRQ many_DA2 of_IO the_AT porduct_NN1 displayed_VVD they_PPHS2 want_VV0 to_TO order_VVI and_CC validate_VVI the_AT answer_NN1 -_- 8.1_MC Asknumberofproductstobeordered_JJ 8.1.1_MC Ask_VV0 user_NN1 how_RRQ many_DA2 he_PPHS1 wants_VVZ to_TO order_VVI -_- NumOrdered_JJ 8.1.2_MC Validate_NP1 answer_NN1 of_IO user_NN1 9_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO determine_VVI whether_CSW user_NN1 wants_VVZ to_TO add_VVI another_DD1 product_NN1 to_II the_AT order_NN1 -_- Userwantstoaddmoreproductstoorder_VV0 9.0_MC loop_NN1 when_CS the_AT answer_NN1 in_II the_AT procedure_NN1 Process_NN1 order_NN1 =_FO y_ZZ1 9.1_MC call_NN1 procedure_NN1 to_TO ask_VVI for_IF product_NN1 user_NN1 wants_VVZ to_TO order_VVI -_- AskProdName_VV0 9.2_MC call_NN1 procedure_NN1 to_TO search_VVI for_IF item_NN1 in_II array_NN1 -_- SearchArray_VV0 9.3_MC call_NN1 procedure_NN1 to_TO check_VVI if_CSW item_NN1 has_VHZ been_VBN found_VVN in_II the_AT array_NN1 -_- ProdNotInArray_VV0 9.4_MC Call_NN1 Procedure_NN1 to_TO ask_VVI whether_CSW to_TO order_VVI again_RT -_- QuestionWhethertoplaceorderornot_VV0 10_MC ._. 
+</s>
+<s>
+Procedure_NN1 which_DDQ coordinate_VV0 the_AT other_JJ procedure_NN1 when_CS the_AT user_NN1 wants_VVZ to_TO order_VVI -_- ProcessOrder_NP1 ;_; 10.1_MC declare_VV0 local_JJ variables_NN2 10.2_MC Call_NN1 procedure_NN1 to_TO ask_VVI whether_CSW user_NN1 wants_VVZ to_TO order_VVI something_PN1 or_CC not_XX -_- QestionWhethertoplaceorderornot_VV0 10.2.1ask_FO if_CS the_AT user_NN1 wants_VVZ to_TO add_VVI another_DD1 product_NN1 to_II the_AT order_NN1 10.2.2_MC call_NN1 procedure_NN1 that_CST deals_VVZ with_IW adding_VVG product_NN1 to_TO order_VVI -_- UserWantstoAddMoreproductstoorder_VV0 10.2.3_MC output_NN1 cost_NN1 of_IO order_NN1 10.2.4_MC loop_NN1 and_CC ask_VV0 if_CS user_NN1 wants_VVZ to_TO place_VVI another_DD1 order_NN1 -_- QuestionWhethertoplaceorderornot_NP1 ._. 
+</s>
+<s>
+Introduce_VV0 program_NN1 call_NN1 procedure_NN1 to_TO take_VVI product_NN1 details_NN2 from_II the_AT user_NN1 -_- EnterProdDetails_NP1 ;_; ._. 
+</s>
+<s>
+Process_VV0 the_AT order_NN1 if_CS user_NN1 wants_VVZ to_TO order_VVI (_( loops_NN2 on_II true_JJ )_) -_- ProcessOrder_NP1 ;_; 1_MC1 ._. 
+</s>
+<s>
+Declare_VV0 records_NN2 and_CC array_NN1 2.2.4.1_MC Procedure_NN1 to_TO input_VVI the_AT ID_NN1 of_IO the_AT product_NN1 -_- InputProdID_NP1 2.2.4.2Get_FO Product_NN1 Id_NN1 from_II user_NN1 2.2.8.1_MC Procedure_NN1 to_TO input_VVI Cost_NN1 of_IO product_NN1 -_- InputProdCost_VV0 2.2.8.2_MC get_VV0 cost_NN1 of_IO product_NN1 from_II user_NN1 2.2.1.12.1_MC Procedure_NN1 to_TO get_VVI quantity_NN1 in_II stock_NN1 from_II the_AT user_NN1 -_- InputProdStkLevel_NP1 2.1.12.2_MC get_VV0 quantity_NN1 in_II stock_NN1 from_II user_NN1 2_MC ._. 
+</s>
+<s>
+Procedure_NN1 which_DDQ gets_VVZ all_DB details_NN2 about_II the_AT products_NN2 and_CC store_VV0 it_PPH1 in_II array_NN1 -_- EnterProdDetails_NP1 2.1_MC ask_VV0 for_IF the_AT details_NN2 for_IF 3_MC products_NN2 2.2_MC store_NN1 Product_NN1 Name_NN1 in_II array_NN1 2.2.1_MC Call_NN1 procedure_NN1 to_TO get_VVI Product_NN1 ID_NN1 -_- InputProdID_NP1 2.2.2If_FO Product_NN1 ID_NN1 is_VBZ not_XX in_II range_NN1 2.2.3Display_FO error_NN1 message_NN1 2.2.4_MC Loop_NN1 to_TO ask_VVI for_IF ID_NN1 again_RT -_- call_VV0 InputProdID_NP1 2.2.5Call_FO procedure_NN1 to_TO get_VVI Cost_NN1 of_IO Product_NN1 -_- InputProdCost_VV0 2.2.6If_FO Product_NN1 Cost_NN1 is_VBZ not_XX in_II range_NN1 -_- ProdCost_VV0 0_MC 2.2.7Display_FO error_NN1 message_NN1 2.2.8Loop_FO to_TO Ask_VV0 for_IF Product_NN1 Cost_NN1 again_RT -_- call_VV0 InputProdCost_NP1 2.2.9Call_FO procedure_NN1 to_TO get_VVI Stock_NN1 Level_NN1 -_- InputProdStkLevel_NP1 2.2.10_MC If_CS StockLevel_NP1 is_VBZ not_XX in_II range_NN1 -_- ProdStkLEvel_NP1 0_MC 2.2.11_MC display_NN1 error_NN1 message_NN1 2.2.12_MC Loop_NN1 to_TO ask_VVI for_IF stock_NN1 level_NN1 again_RT -_- Call_VV0 InputProdStkLevel_NP1 3_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO determine_VVI if_CSW the_AT user_NN1 wants_VVZ to_TO place_VVI an_AT1 order_NN1 and_CC to_TO validate_VVI the_AT answer_NN1 -_- QuestionWhethertoplaceorderornot_VV0 3.1_MC Ask_VV0 if_CS user_NN1 wants_VVZ to_TO place_VVI an_AT1 order_NN1 3.1.1_MC Store_NN1 Answer_NN1 (_( y/n_ZZ1 )_) 3.1.2._MC validate_NN1 user_NN1 answer_NN1 3.1.2.1_MC If_CS not_XX valid_JJ ,_, (_( not_XX Y/N_NP1 or_CC y/n_ZZ1 )_) 3.1.2.2_MC Display_NN1 error_NN1 message_NN1 3.1.2.3_MC loop_NN1 statement_NN1 to_TO ask_VVI for_IF answer_NN1 again_RT -_- call_VV0 QuestionWhethertoplaceorderornot_NN1 4_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO ask_VVI which_DDQ product_NN1 the_AT user_NN1 wants_VVZ to_TO supposedly_RR order_VVI -_- AskProdName_VV0 4.1_MC get_VV0 product_NN1 name_NN1 from_II user_NN1 5_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO search_VVI the_AT array_NN1 for_IF product_NN1 name_NN1 entered_VVN by_II user_NN1 -_- SearchArray_VV0 5.0_MC Initialise_VV0 local_JJ variables_NN2 5.0.1_MC While_CS Counter_NN1 =_FO 3_MC 5.1_MC Compare_VV0 product_NN1 in_II array_NN1 with_IW product_NN1 name_NN1 input_NN1 by_II user_NN1 5.1.1_MC if_CS they_PPHS2 match_VV0 ,_, 5.1.2call_FO procedure_NN1 to_TO display_VVI details_NN2 of_IO that_DD1 product_NN1 5.1.3_MC call_NN1 procedure_NN1 to_TO process_VVI order_NN1 about_II that_DD1 product_NN1 -_- ProcessOrderForDisplayedProd_NP1 5.1.4_MC else_RR 5.1.5_MC increment_NN1 counter_NN1 so_BCL21 as_BCL22 to_TO search_VVI next_MD item_NN1 in_II array_NN1 5.1.6_MC loop_NN1 procedure_NN1 to_TO search_VVI array_NN1 again_RT 5.2_MC Procedure_NN1 used_VMK to_TO do_VDI part_NN1 of_IO statement_NN1 when_CS product_NN1 is_VBZ not_XX in_II array_NN1 -_- ProdNotInArray_NP1 ._. 
+</s>
+<s>
+Note_VV0 :_: ocounter_VV0 =_FO 4_MC means_VVZ that_CST we_PPIS2 are_VBR already_RR out_II21 of_II22 the_AT array_NN1 (_( array_NN1 of_IO 3_MC )_) 5.2.0_MC Set_JJ resultname_NN1 :_: =_FO 'n'_CC ;_; 5.2.0.1_MC If_CS OCounter_NP1 =_FO 4_MC then_RT 5.2.1_MC display_NN1 error_NN1 message_NN1 -_- record_VV0 not_XX found_VVN 5.2.1.1_MC reset_JJ counter_NN1 5.2.2_MC ask_VV0 for_IF product_NN1 name_NN1 again_RT 5.2.3_MC call_NN1 procedure_NN1 to_TO search_VVI the_AT array_NN1 again_RT -_- SearchArray_VV0 6_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO display_VVI details_NN2 of_IO products_NN2 -_- DisplayProdDetails_NP1 6.1_MC Diplay_NP1 'Product_NN1 details_NN2 are_VBR :_: '_GE 6.1.1_MC Display_NN1 'product_NN1 id_NN1 :_: '_GE 6.1.2_MC Display_NN1 'product_NN1 cost_NN1 :_: '_GE 6.1.3_MC Display_NN1 'amount_NN1 in_II stock'_NN1 7_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO get_VVI order_NN1 amount_NN1 for_IF product_NN1 displayed_VVD ,_, calculate_VV0 the_AT cost_NN1 of_IO the_AT order_NN1 ,_, and_CC adjust_VV0 stock_NN1 level_NN1 ._. 
+</s>
+<s>
+ProcessOrderForDisplayedProd_VV0 7.0_MC initialise_VV0 local_JJ variables_NN2 7.1_MC Ask_VV0 user_NN1 if_CS they_PPHS2 want_VV0 to_TO order_VVI the_AT product_NN1 7.1.0Ask_FO user_NN1 if_CS they_PPHS2 want_VV0 to_TO order_VVI product_NN1 7.1.1_MC Store_NN1 Answer_NN1 (_( y/n_ZZ1 )_) 7.2_MC If_CS answer_NN1 =_FO 'N'_CC 7.3_MC Set_JJ counter_NN1 to_II 5_MC so_CS21 that_CS22 the_AT loop_NN1 exits_VVZ 7.4_MC Else_RR 7.5_MC Call_NN1 procedure_NN1 to_TO obtain_VVI number_NN1 of_IO products_NN2 that_CST user_NN1 wants_VVZ to_TO order_VVI -_- Asknumberofproductstobeordered_JJ 7.6.1_MC decrease_NN1 amount_NN1 in_II stock_NN1 7.6.2_MC calculate_VV0 ,_, increment_NN1 cost_NN1 of_IO order_NN1 7.6.3_MC set_JJ counter_NN1 to_II 5_MC so_RR that_DD1 loop_NN1 exits_VVZ 7.6.4_MC set_JJ answer_NN1 to_II 'n'_CC so_RR that_DD1 loop_NN1 exits_VVZ 8_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO ask_VVI user_NN1 how_RRQ many_DA2 of_IO the_AT product_NN1 displayed_VVD they_PPHS2 want_VV0 to_TO order_VVI and_CC validate_VVI the_AT answer_NN1 -_- ._. 
+</s>
+<s>
+Asknumberofproductstobeordered_NP1 8.1.1_MC Ask_VV0 user_NN1 how_RRQ many_DA2 he_PPHS1 wants_VVZ to_TO order_VVI -_- NumOrdered_JJ 8.1.2_MC Validate_NP1 answer_NN1 of_IO user_NN1 8.1.2.1_MC ._. 
+</s>
+<s>
+If_CS NumOrdered_JJ Stklevel_NN1 for_IF that_DD1 product_NN1 or_CC if_CS NumOrdered_JJ 0_MC 8.1.2.2_MC Display_NN1 error_NN1 message_NN1 8.1.2.3_MC Loop_NN1 procedure_NN1 again_RT -_- Asknumberofproductstobeordered_JJ 9_MC ._. 
+</s>
+<s>
+Procedure_NN1 to_TO determine_VVI whether_CSW user_NN1 wants_VVZ to_TO add_VVI another_DD1 product_NN1 to_II the_AT order_NN1 -_- Userwantstoaddmoreproductstoorder_VV0 9.0_MC loop_NN1 when_CS the_AT answer_NN1 in_II the_AT procedure_NN1 Process_NN1 order_NN1 =_FO y_ZZ1 9.1_MC call_NN1 procedure_NN1 to_TO ask_VVI for_IF product_NN1 user_NN1 wants_VVZ to_TO order_VVI -_- AskProdName_VV0 9.2_MC call_NN1 procedure_NN1 to_TO search_VVI for_IF item_NN1 in_II array_NN1 -_- SearchArray_VV0 9.3_MC call_NN1 procedure_NN1 to_TO check_VVI if_CSW item_NN1 has_VHZ been_VBN found_VVN in_II the_AT array_NN1 -_- ProdNotInArray_VV0 9.3.1_MC If_CS Resultname_NP1 =_FO 'n'_CC then_RT 9.3.2_MC ProdAnswer_NP1 :_: =_FO 'n'_CC ;_; 9.4_MC Call_NN1 Procedure_NN1 to_TO ask_VVI whether_CSW to_TO order_VVI again_RT -_- QuestionWhethertoplaceorderornot_VV0 10_MC ._. 
+</s>
+<s>
+Procedure_NN1 which_DDQ coordinate_VV0 the_AT other_JJ procedure_NN1 when_CS the_AT user_NN1 wants_VVZ to_TO order_VVI -_- ProcessOrder_NP1 ;_; 10.1_MC declare_VV0 local_JJ variables_NN2 10.2_MC Call_NN1 procedure_NN1 to_TO ask_VVI whether_CSW user_NN1 wants_VVZ to_TO order_VVI something_PN1 or_CC not_XX -_- QuestionWhethertoplaceorderornot_VV0 10.2.0_MC Loop_NN1 only_RR if_CS answer_NN1 to_TO question_VVI in_RP above_II procedure_NN1 is_VBZ true_JJ 10.2.1_MC ask_VV0 if_CSW the_AT user_NN1 wants_VVZ to_TO add_VVI another_DD1 product_NN1 to_II the_AT order_NN1 10.2.1.1_MC Reset_JJ Counter_NN1 10.2.2_MC call_NN1 procedure_NN1 that_CST deals_VVZ with_IW adding_VVG product_NN1 to_TO order_VVI -_- UserWantstoAddMoreproductstoorder_VV0 10.2.3_MC output_NN1 cost_NN1 of_IO order_NN1 10.2.4_MC loop_NN1 and_CC ask_VV0 if_CS user_NN1 wants_VVZ to_TO place_VVI another_DD1 order_NN1 -_- QuestionWhethertoplaceorderornot_NP1 ._. 
+</s>
+<s>
+Introduce_VV0 program_NN1 call_NN1 procedure_NN1 to_TO take_VVI product_NN1 details_NN2 from_II the_AT user_NN1 -_- EnterProdDetails_NP1 ;_; ._. 
+</s>
+<s>
+Process_VV0 the_AT order_NN1 if_CS user_NN1 wants_VVZ to_TO order_VVI (_( loops_NN2 on_II true_JJ )_) -_- ProcessOrder_NP1 ;_; ._. 
+</s>
+<s>
+Notes_NN2 :_: As_CSA can_VM be_VBI seen_VVN only_RR 2_MC main_JJ procedures_NN2 are_VBR used_VVN ,_, this_DD1 is_VBZ because_CS ,_, the_AT primary_JJ aim_NN1 of_IO the_AT program_NN1 is_VBZ for_IF the_AT program_NN1 is_VBZ to_TO capture_VVI input_NN1 to_TO put_VVI in_II the_AT array_NN1 and_CC then_RT know_VV0 if_CSW the_AT user_NN1 wants_VVZ to_TO order_VVI something_PN1 only_RR happens_VVZ if_CS the_AT user_NN1 wants_VVZ to_TO order_VVI ,_, so_CS the_AT program_NN1 can_VM then_RT loop_VVI on_II true_JJ and_CC just_RR end_VV0 when_RRQ they_PPHS2 do_VD0 not_XX want_VVI to_TO order_VVI anymore_RR end_VV0 ._. 
+</s>
+<s>
+Set_VV0 1_MC1 :_: 1001_MC ,_, 50_MC ,_, 12_MC ,_, 99_MC ,_, 10099_MC ,_, 175_MC ,_, 9_MC ,_, 1023_MC ,_, 100_MC ,_, 34_MC ,_, y_ZZ1 ,_, n_ZZ1 ,_, y_ZZ1 ,_, y_ZZ1 mini-widgit_JJ ,_, 14_MC ,_, 7_MC ,_, y_ZZ1 ,_, average_JJ widgit_NN1 ,_, 0_MC ,_, y_ZZ1 ,_, mini-widgit_NN1 ,_, 2_MC ,_, n_ZZ1 ._. 
+</s>
+<s>
+Unable_JK to_TO make_VVI the_AT program_NN1 accept_VVI only_RR Y_ZZ1 or_CC N._NP1 Weirdly_NP1 the_AT logic_NN1 was_VBDZ not_XX good_JJ or_CC I_PPIS1 did_VDD not_XX know_VVI the_AT right_JJ syntax_NN1 ._. 
+</s>
+<s>
+Parameter_NN1 passing_NN1 had_VHD to_TO be_VBI done_VDN really_RR carefully_RR ._. 
+</s>
+<s>
+But_CCB at_II the_AT end_NN1 ,_, got_VVD the_AT hang_NN1% of_IO it_PPH1 ._. 
+</s>
+<s>
+Tell_VV0 the_AT user_NN1 when_CS the_AT item_NN1 is_VBZ out_II21 of_II22 stock_NN1 ._. 
+</s>

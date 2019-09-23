@@ -1,0 +1,159 @@
+<s>
+We_PPIS2 all_DB know_VV0 that_DD1 water_NN1 masses_NN2 in_II the_AT ocean_NN1 are_VBR thought_VVN to_TO be_VBI transferred_VVN by_II the_AT wind_NN1 ._. 
+</s>
+<s>
+However_RR ,_, there_EX are_VBR actually_RR two_MC ways_NN2 that_CST water_NN1 is_VBZ transferred_VVN in_II the_AT ocean_NN1 ,_, one_PN1 is_VBZ by_II wind_NN1 driven_JJ currents_NN2 ,_, the_AT other_NN1 is_VBZ by_II wave_NN1 driven_JJ currents_NN2 which_DDQ depend_VV0 on_II the_AT nonlinear_JJ interaction_NN1 of_IO waves_NN2 with_IW water_NN1 parcels_NN2 ._. 
+</s>
+<s>
+Understanding_VVG the_AT relationship_NN1 between_II these_DD2 two_MC currents_NN2 is_VBZ important_JJ for_IF understanding_VVG the_AT movement_NN1 of_IO water_NN1 masses_NN2 in_II the_AT oceans_NN2 ._. 
+</s>
+<s>
+The_AT average_JJ effect_NN1 of_IO the_AT wave_NN1 driven_JJ current_NN1 is_VBZ defined_VVN as_CSA Stokes_NP1 drift_NN1 ._. 
+</s>
+<s>
+Stokes_NP1 drift_NN1 is_VBZ a_AT1 subtle_JJ but_CCB effective_JJ operation_NN1 which_DDQ can_VM be_VBI just_RR as_RG important_JJ to_II the_AT total_JJ drift_NN1 of_IO a_AT1 water_NN1 mass_NN1 as_CSA that_DD1 of_IO the_AT wind_NN1 driven_JJ component_NN1 ._. 
+</s>
+<s>
+Lets_VVZ consider_VVI parcel_NN1 motion_NN1 is_VBZ limited_VVN in_II just_RR the_AT x_ZZ1 direction_NN1 (_( for_IF simplicity_NN1 )_) ._. 
+</s>
+<s>
+The_AT water_NN1 parcel_NN1 is_VBZ advected_VVN by_II a_AT1 velocity_NN1 field_NN1 ,_, u_ZZ1 ,_, so_CS the_AT x-coordinate_NN1 of_IO the_AT parcel_NN1 satisfies_VVZ :_: (_( 1_MC1 )_) ._. 
+</s>
+<s>
+We_PPIS2 know_VV0 that_CST the_AT velocity_NN1 field_NN1 has_VHZ two_MC components_NN2 ,_, a_AT1 constant_JJ wind_NN1 driven_JJ part_NN1 and_CC a_AT1 wave_NN1 driven_JJ part_NN1 which_DDQ is_VBZ periodic_JJ in_II space_NN1 and_CC time_NNT1 :_: where_RRQ (_( 2_MC )_) ._. 
+</s>
+<s>
+The_AT differential_JJ equation_NN1 above_RL ,_, (_( 1_MC1 )_) ,_, is_VBZ different_JJ to_II ordinary_JJ differential_JJ equations_NN2 as_II the_AT right_JJ hand_NN1 side_NN1 is_VBZ a_AT1 function_NN1 of_IO x_ZZ1 as_II31 well_II32 as_II33 t_ZZ1 ._. 
+</s>
+<s>
+We_PPIS2 therefore_RR need_VV0 to_TO evolve_VVI the_AT solution_NN1 x(t)_NNU explicitly_RR forward_RL in_II time_NNT1 over_II one_MC1 step_NN1 ._. 
+</s>
+<s>
+Therefore_RR this_DD1 gives_VVZ us_PPIO2 :_: (_( 3_MC )_) ._. 
+</s>
+<s>
+Then_RT by_II substituting_VVG in_II equation_NN1 (_( 2_MC )_) we_PPIS2 can_VM come_VVI to_II a_AT1 more_RGR useful_JJ differential_JJ equation_NN1 ._. 
+</s>
+<s>
+(_( 4_MC )_) ._. 
+</s>
+<s>
+This_DD1 equation_NN1 gives_VVZ us_PPIO2 a_AT1 foundation_NN1 for_IF exploring_VVG different_JJ aspects_NN2 of_IO Stokes_NP1 drift_NN1 and_CC an_AT1 opportunity_NN1 to_TO see_VVI how_RRQ its_APPGE characteristics_NN2 depend_VV0 on_II parameters_NN2 such_II21 as_II22 wave_NN1 amplitude_NN1 ._. 
+</s>
+<s>
+This_DD1 equation_NN1 represents_VVZ the_AT total_JJ drift_NN1 as_II a_AT1 function_NN1 of_IO time_NNT1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM write_VVI a_AT1 computer_NN1 program_NN1 that_CST solves_VVZ this_DD1 equation_NN1 for_IF a_AT1 parcel_NN1 that_CST is_VBZ released_VVN when_CS x(t)_NNU equals_VVZ zero_MC and_CC then_RT continues_VVZ to_TO solve_VVI the_AT equation_NN1 for_IF varying_JJ values_NN2 of_IO x(t)_NNU and_CC t_ZZ1 ,_, to_TO show_VVI how_RRQ the_AT x-coordinate_NN1 varies_VVZ as_II a_AT1 function_NN1 of_IO time_NNT1 ._. 
+</s>
+<s>
+Appendix_NN1 1_MC1 shows_VVZ the_AT program_NN1 code_NN1 for_IF this_DD1 particular_JJ operation_NN1 and_CC the_AT resultant_JJ graph_NN1 below_RL ,_, (_( graph_NN1 1_MC1 )_) ,_, shows_VVZ the_AT total_JJ drift_NN1 over_II time_NNT1 t_ZZ1 (_( seconds_NNT2 )_) ._. 
+</s>
+<s>
+The_AT x_ZZ1 axis_NN1 signifies_VVZ time_NNT1 and_CC the_AT y_ZZ1 axis_NN1 represents_VVZ the_AT total_JJ drift_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 can_VM see_VVI from_II this_DD1 graph_NN1 ,_, the_AT total_NN1 or_CC actual_JJ drift_NN1 varies_VVZ in_II a_AT1 periodic_JJ motion_NN1 with_IW time_NNT1 ,_, with_IW the_AT 'wave'_JJ type_NN1 quality_NN1 originating_VVG from_II the_AT wave_NN1 driven_JJ component_NN1 of_IO equation_NN1 (_( 4_MC )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 superposition_NN1 of_IO both_DB2 components_NN2 and_CC now_RT we_PPIS2 shall_VM compare_VVI the_AT actual_JJ drift_NN1 of_IO the_AT parcel_NN1 to_II the_AT drift_NN1 due_II21 to_II22 the_AT wind_NN1 driven_JJ part_NN1 u_ZZ1 0_MC alone_JJ ._. 
+</s>
+<s>
+If_CS we_PPIS2 were_VBDR to_TO set_VVI the_AT wave_NN1 driven_JJ component_NN1 to_TO zero_VVI we_PPIS2 should_VM arrive_VVI at_II a_AT1 linear_JJ relationship_NN1 with_IW drift_NN1 and_CC time_NNT1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ to_TO be_VBI expected_VVN as_CSA we_PPIS2 are_VBR removing_VVG the_AT wave_NN1 driven_JJ component_NN1 which_DDQ is_VBZ periodic_JJ in_II both_RR space_NN1 and_CC time_NNT1 ._. 
+</s>
+<s>
+To_TO compare_VVI the_AT actual_JJ drift_NN1 of_IO the_AT parcel_NN1 to_II the_AT drift_NN1 due_II21 to_II22 the_AT wind_NN1 driven_JJ part_NN1 alone_RR we_PPIS2 need_VV0 to_TO modify_VVI our_APPGE original_JJ program_NN1 and_CC plot_VVI the_AT two_MC relationships_NN2 on_II the_AT same_DA graph_NN1 ._. 
+</s>
+<s>
+In_II Appendix_NN1 2_MC I_PPIS1 have_VH0 set_VVN u_ZZ1 1_MC1 to_TO zero_VVI (_( i.e._REX the_AT wave_NN1 driven_JJ component_NN1 )_) and_CC this_DD1 has_VHZ given_VVN me_PPIO1 the_AT straight_JJ line_NN1 depicted_VVN in_II Graph_NN1 2_MC (_( green_NN1 one_MC1 )_) ._. 
+</s>
+<s>
+I_PPIS1 have_VH0 also_RR plotted_VVN the_AT result_NN1 from_II Graph_NN1 1_MC1 onto_II the_AT same_DA set_NN1 of_IO axis_NN1 so_CS I_PPIS1 can_VM compare_VVI the_AT two_MC ._. 
+</s>
+<s>
+As_CSA you_PPY can_VM see_VVI there_RL is_VBZ only_RR slight_JJ deviance_NN1 from_II the_AT linear_JJ relationship_NN1 and_CC increases_VVZ only_RR slightly_RR over_II time_NNT1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT deviance_NN1 is_VBZ enough_DD to_TO show_VVI that_CST the_AT wave_NN1 driven_JJ component_NN1 is_VBZ an_AT1 important_JJ factor_NN1 in_II the_AT total_JJ drift_NN1 and_CC that_CST the_AT movement_NN1 of_IO water_NN1 is_VBZ not_XX totally_RR governed_VVN by_II the_AT wind_NN1 ._. 
+</s>
+<s>
+The_AT next_MD step_NN1 is_VBZ to_TO set_VVI c_ZZ1 ,_, the_AT phase_NN1 speed_NN1 ,_, to_TO zero_VVI and_CC repeat_VVI the_AT experiment_NN1 for_IF varying_JJ amplitude_NN1 of_IO the_AT wave_NN1 field_NN1 u_ZZ1 1_MC1 ._. 
+</s>
+<s>
+The_AT result_NN1 is_VBZ represented_VVN in_II the_AT above_JJ graph_NN1 (_( Graph_NN1 3_MC )_) ._. 
+</s>
+<s>
+This_DD1 graph_NN1 represents_VVZ the_AT drift_NN1 varying_VVG with_IW the_AT amplitude_NN1 of_IO the_AT wave_NN1 field_NN1 u_ZZ1 1_MC1 ._. 
+</s>
+<s>
+u_ZZ1 1_MC1 is_VBZ on_II the_AT x_ZZ1 axis_NN1 and_CC varies_VVZ between_II 0.0_MC and_CC 1.5_MC ._. 
+</s>
+<s>
+Notice_VV0 that_CST the_AT graph_NN1 is_VBZ linear_JJ up_II21 to_II22 the_AT point_NN1 where_RRQ u_ZZ1 1_MC1 equals_VVZ 1.0_MC ._. 
+</s>
+<s>
+This_DD1 shows_VVZ that_CST beyond_II this_DD1 point_NN1 the_AT total_JJ drift_NN1 is_VBZ mainly_RR responsible_JJ by_II the_AT wind_NN1 driven_JJ component_NN1 of_IO the_AT drift_NN1 i.e._REX u_ZZ1 1_MC1 becomes_VVZ negligible_JJ for_IF a_AT1 certain_JJ amount_NN1 of_IO time_NNT1 ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI unreasonable_JJ to_TO plot_VVI different_JJ values_NN2 of_IO u_ZZ1 1_MC1 against_II time_NNT1 because_CS we_PPIS2 are_VBR interested_JJ in_II how_RRQ the_AT drift_NN1 varies_VVZ with_IW amplitude_NN1 at_II each_DD1 value_NN1 of_IO t_ZZ1 ._. 
+</s>
+<s>
+This_DD1 hereby_RR is_VBZ my_APPGE justification_NN1 of_IO rewriting_VVG my_APPGE original_JJ program_NN1 so_CS21 that_CS22 the_AT graph_NN1 represents_VVZ axes_NN2 of_IO amplitude_NN1 and_CC total_JJ drift_NN1 ._. 
+</s>
+<s>
+The_AT details_NN2 of_IO this_DD1 modification_NN1 plus_II a_AT1 brief_JJ explanation_NN1 can_VM be_VBI found_VVN in_II Appendix_NN1 3_MC ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 been_VBN told_VVN that_CST for_IF small_JJ amplitudes_NN2 u_ZZ1 1_MC1 of_IO the_AT wave_NN1 field_NN1 an_AT1 approximate_JJ theory_NN1 for_IF Stokes_NP1 drift_NN1 exists_VVZ ._. 
+</s>
+<s>
+It_PPH1 states_VVZ that_CST the_AT total_JJ drift_NN1 of_IO the_AT parcel_NN1 relative_II21 to_II22 the_AT drift_NN1 due_II21 to_II22 the_AT wind_NN1 field_NN1 u_ZZ1 0_MC is_VBZ approximately_RR equal_JJ to_TO ,_, (_( 5_MC )_) so_CS21 that_CS22 it_PPH1 varies_VVZ with_IW the_AT squared_JJ amplitude_NN1 of_IO the_AT wave_NN1 field_NN1 ._. 
+</s>
+<s>
+To_TO show_VVI this_DD1 we_PPIS2 can_VM again_RT modify_VVI our_APPGE original_JJ program_NN1 to_TO fit_VVI in_RP with_IW our_APPGE new_JJ equation_NN1 (_( 5_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 are_VBR now_RT varying_VVG u_ZZ1 1_MC1 squared_JJ with_IW total_JJ drift_NN1 to_TO show_VVI this_DD1 approximate_JJ theory_NN1 for_IF Stokes_NP1 drift_NN1 exists_VVZ for_IF small_JJ amplitudes_NN2 of_IO u_ZZ1 1_MC1 i.e._REX u_ZZ1 1_MC1 is_VBZ less_DAR than_CSN 1_MC1 ._. 
+</s>
+<s>
+To_TO observe_VVI this_DD1 relationship_NN1 our_APPGE program_NN1 should_VM yield_VVI a_AT1 linear_JJ correlation_NN1 between_II total_JJ drift_NN1 and_CC the_AT square_NN1 of_IO the_AT amplitude_NN1 ._. 
+</s>
+<s>
+The_AT x_ZZ1 axis_NN1 on_II the_AT above_JJ graph_NN1 is_VBZ the_AT square_NN1 of_IO the_AT amplitude_NN1 and_CC the_AT y_ZZ1 axis_NN1 is_VBZ the_AT total_JJ drift_NN1 ._. 
+</s>
+<s>
+This_DD1 graph_NN1 therefore_RR proves_VVZ that_CST for_IF small_JJ amplitudes_NN2 of_IO the_AT wave_NN1 field_NN1 ,_, equation_NN1 (_( 5_MC )_) holds_VVZ up_RP and_CC proves_VVZ that_CST this_DD1 approximate_JJ theory_NN1 for_IF Stokes_NP1 drift_NN1 exists_VVZ ._. 
+</s>
+<s>
+This_DD1 can_VM be_VBI supplemented_VVN further_RRR by_II computing_VVG another_DD1 graph_NN1 of_IO u_ZZ1 1_MC1 and_CC total_JJ drift_NN1 using_VVG equation_NN1 5_MC ._. 
+</s>
+<s>
+This_DD1 time_NNT1 the_AT relationship_NN1 should_VM resemble_VVI a_AT1 curve_NN1 very_RG similar_JJ to_II a_AT1 parabola_NN1 but_CCB only_RR in_II the_AT positive_JJ quadrant_NN1 as_CSA both_RR total_JJ drift_NN1 and_CC amplitude_NN1 are_VBR kept_VVN positive_JJ ._. 
+</s>
+<s>
+The_AT x_ZZ1 axis_NN1 represents_VVZ the_AT amplitude_NN1 and_CC the_AT y_ZZ1 axis_NN1 represents_VVZ the_AT total_JJ drift_NN1 ._. 
+</s>
+<s>
+This_DD1 report_NN1 shows_VVZ that_CST these_DD2 wave_VV0 driven_JJ components_NN2 have_VH0 just_RR as_RG much_DA1 influence_NN1 on_II the_AT movement_NN1 of_IO water_NN1 masses_NN2 as_II the_AT wind_NN1 driven_JJ components_NN2 ._. 
+</s>
+<s>
+The_AT model_NN1 has_VHZ firstly_RR shown_VVN that_CST the_AT actual_JJ drift_NN1 of_IO a_AT1 wave_NN1 is_VBZ made_VVN up_RP of_IO two_MC components_NN2 ,_, each_DD1 yielding_JJ different_JJ graphical_JJ forms_NN2 when_RRQ separated_JJ i.e._REX the_AT wind_NN1 driven_JJ component_NN1 is_VBZ linear_JJ whereas_CS the_AT wave_NN1 driven_VVN is_VBZ periodic_JJ ._. 
+</s>
+<s>
+It_PPH1 has_VHZ also_RR shown_VVN that_CST the_AT wave_NN1 driven_JJ component_NN1 is_VBZ limited_VVN up_II21 to_II22 the_AT point_NN1 where_RRQ the_AT amplitude_NN1 is_VBZ 1.0_MC ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI because_II21 of_II22 the_AT periodic_JJ nature_NN1 of_IO the_AT component_NN1 but_CCB it_PPH1 shows_VVZ that_CST there_EX is_VBZ some_DD threshold_NN1 amplitude_NN1 of_IO the_AT wave_NN1 component_NN1 where_CS its_APPGE effect_NN1 becomes_VVZ irrelevant_JJ and_CC the_AT actual_JJ drift_NN1 is_VBZ determined_VVN by_II the_AT wind_NN1 alone_RR ._. 
+</s>
+<s>
+The_AT model_NN1 has_VHZ finally_RR shown_VVN that_CST for_IF small_JJ amplitudes_NN2 of_IO u_ZZ1 1_MC1 an_AT1 approximate_JJ theory_NN1 for_IF Stokes_NP1 drift_NN1 exists_VVZ ._. 
+</s>
+<s>
+This_DD1 approximation_NN1 is_VBZ important_JJ because_CS we_PPIS2 have_VH0 already_RR seen_VVN the_AT consequences_NN2 of_IO when_RRQ the_AT amplitude_NN1 of_IO the_AT wave_NN1 driven_JJ component_NN1 equals_VVZ zero_NN1 because_CS its_APPGE effect_NN1 becomes_VVZ negligible_JJ ._. 
+</s>
+<s>
+Therefore_RR this_DD1 approximation_NN1 for_IF when_RRQ the_AT amplitude_NN1 is_VBZ small_JJ is_VBZ important_JJ to_II the_AT total_JJ drift_NN1 of_IO the_AT parcels_NN2 because_CS without_IW this_DD1 ,_, the_AT wave_NN1 driven_JJ component_NN1 would_VM not_XX contribute_VVI at_RR21 all_RR22 and_CC it_PPH1 would_VM seem_VVI as_CS21 if_CS22 the_AT wind_NN1 driven_JJ component_NN1 was_VBDZ the_AT only_JJ variable_JJ important_JJ in_II the_AT movement_NN1 of_IO water_NN1 masses_NN2 in_II the_AT ocean_NN1 ._. 
+</s>

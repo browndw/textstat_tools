@@ -1,0 +1,465 @@
+<s>
+Economists_NN2 have_VH0 always_RR expected_VVN the_AT "_" convergence_NN1 "_" of_IO national_JJ productivity_NN1 levels_NN2 ._. 
+</s>
+<s>
+The_AT theoretical_JJ logic_NN1 behind_II this_DD1 belief_NN1 is_VBZ powerful_JJ ._. 
+</s>
+<s>
+The_AT higher_JJR per_JJ21 capita_JJ22 income_NN1 in_II western_JJ countries_NN2 is_VBZ based_VVN on_II its_APPGE applications_NN2 of_IO the_AT waste_NN1 stock_NN1 of_IO industrial_JJ and_CC administrative_JJ technology_NN1 of_IO the_AT Industrial_JJ Revolution_NN1 ._. 
+</s>
+<s>
+This_DD1 stock_NN1 is_VBZ open_JJ to_II all_DB :_: modern_JJ technology_NN1 is_VBZ a_AT1 'public_JJ good'_NN1 ._. 
+</s>
+<s>
+The_AT benefits_NN2 of_IO tapping_VVG this_DD1 technology_NN1 and_CC knowledge_NN1 are_VBR great_JJ ,_, and_CC thus_RR nations_NN2 will_VM strive_VVI to_TO accumulate_VVI modern_JJ technology_NN1 and_CC their_APPGE incomes_NN2 will_VM converge_VVI to_II those_DD2 of_IO industrial_JJ nations_NN2 ._. 
+</s>
+<s>
+Baumol_NP1 (_( 1986_MC )_) ._. 
+</s>
+<s>
+This_DD1 hypothesis_NN1 is_VBZ known_VVN as_II 'convergence_NN1 hypothesis_NN1 '_GE and_CC predicts_VVZ that_CST the_AT backward_JJ economy_NN1 has_VHZ a_AT1 potential_NN1 for_IF vast_JJ advancement_NN1 and_CC to_TO 'catch_VVI up'_NN1 ._. 
+</s>
+<s>
+So_RR essentially_RR we_PPIS2 need_VV0 to_TO ask_VVI the_AT question_NN1 :_: Do_VD0 poorer_JJR countries_NN2 (_( after_II accumulating_VVG a_AT1 knowledge_NN1 base_NN1 and_CC technology_NN1 )_) grow_VV0 faster_RRR than_CSN richer_JJR ones_NN2 ?_? ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 essay_NN1 is_VBZ to_II through_II the_AT techniques_NN2 of_IO econometric_JJ try_VV0 and_CC answer_VV0 this_DD1 very_JJ question_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM first_MD elaborate_VVI on_II the_AT theory_NN1 behind_II convergence_NN1 ,_, then_RT extend_VV0 the_AT theory_NN1 to_TO analyze_VVI to_II seminal_JJ papers_NN2 on_II the_AT subject_NN1 by_II Baumol_NP1 (_( 1986_MC )_) and_CC De_NP1 Long_RR respectively_RR ._. 
+</s>
+<s>
+In_II the_AT next_MD section_NN1 ,_, I_PPIS1 will_VM 'build'_VVI my_APPGE own_DA model_NN1 and_CC apply_VVI it_PPH1 the_AT most_RGT relevant_JJ and_CC exhaustive_JJ data_NN available_JJ from_II the_AT Penn_NP1 World_NN1 Table_NN1 and_CC compare_VV0 it_PPH1 with_IW the_AT Baumol_NP1 's_GE and_CC De_NP1 Long_RR 's_GE model_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM go_VVI on_RP to_TO analyze_VVI my_APPGE results_NN2 and_CC conclude_VV0 with_IW possible_JJ policy_NN1 suggestions_NN2 to_TO induce_VVI convergence_NN1 and_CC growth_NN1 where_CS missing_VVG ._. 
+</s>
+<s>
+Penn_NP1 World_NN1 Tables_NN2 ,_, PW1.6_FO ._. 
+</s>
+<s>
+See_VV0 pwt.econ.upenn.edu_NNU ._. 
+</s>
+<s>
+The_AT main_JJ reason_NN1 why_RRQ we_PPIS2 might_VM expect_VVI the_AT convergence_NN1 phenomena_NN2 to_TO take_VVI place_NN1 is_VBZ because_II21 of_II22 the_AT Solow_NP1 Model_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 predicts_VVZ that_CST countries_NN2 will_VM converge_VVI to_II their_APPGE balanced_JJ growth_NN1 paths_NN2 where_RRQ growth_NN1 of_IO output_NN1 per_II worker_NN1 is_VBZ solely_RR determined_VVN by_II the_AT rate_NN1 of_IO technological_JJ progress_NN1 ._. 
+</s>
+<s>
+Thus_RR to_II the_AT extent_NN1 that_CST differences_NN2 in_II output_NN1 per_II worker_NN1 will_VM be_VBI due_II21 to_II22 countries_NN2 being_VBG at_II different_JJ points_NN2 relative_II21 to_II22 their_APPGE growth_NN1 paths_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, one_PN1 would_VM expect_VVI poorer_JJR countries_NN2 to_TO catch_VVI up_RP with_IW the_AT rich_JJ ones_NN2 ._. 
+</s>
+<s>
+Solow_NP1 also_RR argues_VVZ that_CST the_AT rate_NN1 of_IO return_NN1 on_II capital_NN1 is_VBZ lower_JJR in_II countries_NN2 with_IW higher_JJR capital_NN1 stock_NN1 per_RR21 capita_RR22 ._. 
+</s>
+<s>
+Hence_RR as_II a_AT1 result_NN1 of_IO arbitrage_NN1 ,_, capital_NN1 will_VM flow_VVI from_II the_AT rich_JJ to_II the_AT poorer_JJR countries_NN2 ._. 
+</s>
+<s>
+This_DD1 capital_NN1 accumulation_NN1 will_VM assist_VVI the_AT countries_NN2 to_TO converge_VVI ._. 
+</s>
+<s>
+Additionally_RR ,_, there_EX might_VM be_VBI disparity_NN1 in_II the_AT extent_NN1 of_IO knowledge_NN1 between_II rich_JJ and_CC poor_JJ countries_NN2 which_DDQ would_VM result_VVI in_II turn_NN1 result_NN1 in_II richer_JJR countries_NN2 growing_VVG faster_JJR than_CSN the_AT poorer_JJR ones_NN2 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA poorer_JJR countries_NN2 gain_VV0 access_NN1 to_II new_JJ technology_NN1 ,_, they_PPHS2 will_VM soon_RR be_VBI able_JK to_TO catch_VVI up_RP with_IW the_AT richer_JJR countries_NN2 and_CC this_DD1 may_VM also_RR assist_VVI in_II convergence_NN1 ._. 
+</s>
+<s>
+Ibid._RR ,_, Baumol_NP1 (_( 1986_MC )_) ._. 
+</s>
+<s>
+William_NP1 Baumol_NP1 conducted_VVD one_MC1 of_IO the_AT most_RGT important_JJ empirical_JJ analyses_NN2 of_IO the_AT convergence_NN1 hypothesis_NN1 ._. 
+</s>
+<s>
+He_PPHS1 argued_VVD that_DD1 convergence_NN1 has_VHZ shown_VVN itself_PPX1 strongly_RR growth_NN1 of_IO industrial_JJ nations_NN2 since_II 1870_MC ._. 
+</s>
+<s>
+According_II21 to_II22 Baumol_NP1 ,_, those_DD2 nations_NN2 positioned_VVN to_TO industrialize_VVI are_VBR much_RR closer_RRR together_RL in_II productivity_NN1 now_RT than_CSN a_AT1 century_NNT1 ago_RA ._. 
+</s>
+<s>
+He_PPHS1 based_VVD this_DD1 conclusion_NN1 on_II the_AT data_NN for_IF 16_MC industrialized_JJ countries_NN2 from_II 1870_MC to_II 1979_MC for_IF which_DDQ Maddison_NP1 (_( 1982_MC )_) provided_CS data_NN ._. 
+</s>
+<s>
+These_DD2 countries_NN2 were_VBDR Australia_NP1 ,_, United_NP1 Kingdom_NP1 ,_, Switzerland_NP1 ,_, Belgium_NP1 ,_, Netherlands_NP1 ,_, Canada_NP1 ,_, United_NP1 States_NP1 ,_, Denmark_NP1 ,_, Italy_NP1 ,_, Austria_NP1 ,_, Germany_NP1 ,_, Norway_NP1 ,_, France_NP1 ,_, Finland_NP1 ,_, Sweden_NP1 and_CC Japan_NP1 ._. 
+</s>
+<s>
+Maddison_NP1 (_( 1982_MC )_) ._. 
+</s>
+<s>
+Baumol_NP1 regressed_JJ growth_NN1 of_IO real_JJ output_NN1 per_RR21 capita_RR22 over_II this_DD1 period_NN1 on_II a_AT1 constant_JJ and_CC the_AT initial_JJ output_NN1 per_RR21 capita_RR22 (_( i.e._REX In_II 1870_MC )_) ._. 
+</s>
+<s>
+Following_NN1 was_VBDZ his_APPGE model_NN1 :_: Adjusted_VVN for_IF PPP_NP1 ._. 
+</s>
+<s>
+Where_RRQ ,_, ln_NNU &lsqb;_( (_( Y/N_ZZ1 )_) i_ZZ1 ,_, 1870_MC &rsqb;_) :_: natural_JJ log_NN1 of_IO output_NN1 per_RR21 capita_RR22 in_II the_AT year_NNT1 1870._MC ln_NNU &lsqb;_( (_( Y/N_ZZ1 )_) i_ZZ1 ,_, 1979_MC &rsqb;_) -_- ln_NNU &lsqb;_( (_( Y/N_ZZ1 )_) i_ZZ1 ,_, 1870_MC &rsqb;_) :_: annual_JJ average_JJ growth_NN1 of_IO output_NN1 per_RR21 capita_RR22 between_II 1870-1979_MCMC i_ZZ1 :_: is_VBZ the_AT error_NN1 term_NN1 and_CC i_ZZ1 indexes_NN2 the_AT countries_NN2 ._. 
+</s>
+<s>
+If_CS there_EX is_VBZ convergence_NN1 then_RT will_VM be_VBI negative_JJ and_CC greater_JJR the_AT value_NN1 of_IO the_AT greater_JJR the_AT convergence_NN1 :_: countries_NN2 with_IW lower_JJR initial_JJ income_NN1 have_VH0 a_AT1 higher_JJR growth_NN1 and_CC vice_RR21 versa_RR22 ._. 
+</s>
+<s>
+If_CS is_VBZ -_- 1_MC1 then_RT there_EX is_VBZ perfect_JJ convergence_NN1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, if_CS is_VBZ 0_MC then_RT there_EX is_VBZ no_AT convergence_NN1 ._. 
+</s>
+<s>
+Baumol_NP1 's_GE results_NN2 were_VBDR :_: Here_RL ,_, takes_VVZ the_AT value_NN1 of_IO -_- 0.995_MC ,_, which_DDQ indicates_VVZ almost_RR perfect_JJ convergence_NN1 ._. 
+</s>
+<s>
+This_DD1 implies_VVZ that_CST the_AT higher_JJR the_AT country_NN1 's_GE productivity_NN1 was_VBDZ in_II 1870_MC ,_, the_AT slower_JJR was_VBDZ the_AT growth_NN1 for_IF the_AT country_NN1 in_II subsequent_JJ years_NNT2 (_( See_VV0 Fig_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Additionally_RR R_ZZ1 2_MC is_VBZ high_RR implying_VVG that_CST 87%_NNU of_IO his_APPGE data_NN was_VBDZ explained_VVN by_II the_AT explanatory_JJ variable_NN1 ._. 
+</s>
+<s>
+Baumol_NP1 's_GE finding_NN1 of_IO convergence_NN1 might_VM support_VVI two_MC further_JJR conclusions_NN2 ._. 
+</s>
+<s>
+Firstly_RR based_VVN on_II the_AT convergence_NN1 hypothesis_NN1 ,_, the_AT slow_JJ relative_JJ growth_NN1 in_II the_AT United_NP1 States_NP1 since_CS World_NN1 War_NN1 II_MC was_VBDZ inevitable_JJ ._. 
+</s>
+<s>
+Secondly_RR ,_, one_PN1 can_VM be_VBI optimistic_JJ about_II future_JJ development_NN1 ._. 
+</s>
+<s>
+Maddison_NP1 's_GE 16_MC all_DB accumulated_JJ modern_JJ technology_NN1 and_CC converged_VVD :_: maybe_RR all_DB developing_JJ nations_NN2 will_VM converge_VVI to_II western_JJ living_NN1 standards_NN2 once_CS they_PPHS2 acquire_VV0 the_AT technological_JJ foundation_NN1 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 according_II21 to_II22 Delong_NP1 (_( 19_MC )_) Baumol_NP1 himself_PPX1 does_VDZ not_XX believe_VVI that_CST it_PPH1 should_VM ._. 
+</s>
+<s>
+Nineteenth_MD century_NNT1 economists_NN2 like_II Mills_NP1 and_CC Karl_NP1 Marx_NP1 were_VBDR extremely_RR optimistic_JJ about_II future_JJ convergence_NN1 ._. 
+</s>
+<s>
+However_RR ,_, properly_RR analyzed_VVD Baumol_NP1 's_GE finding_NN1 is_VBZ less_RGR informative_JJ than_CSN first_MD thought_NN1 ._. 
+</s>
+<s>
+Moses_NP1 Abramovitz_NP1 (_( 1986_MC )_) follows_VVZ the_AT behaviour_NN1 of_IO these_DD2 16_MC over_II time_NNT1 and_CC notes_VVZ that_CST even_RR among_II these_DD2 nations_NN2 "_" convergence_NN1 "_" is_VBZ almost_RR entirely_RR a_AT1 post-World_JJ War_NN1 II_MC phenomenon_NN1 ._. 
+</s>
+<s>
+Abramovitz_NP1 (_( 1986_MC )_) ._. 
+</s>
+<s>
+Additionally_RR ,_, in_II a_AT1 seminal_JJ paper_NN1 Bradford_NP1 Delong_NP1 finds_VVZ that_CST Baumol_NP1 's_GE findings_NN2 are_VBR highly_RR spurious_JJ ._. 
+</s>
+<s>
+Baumol_NP1 's_GE regression_NN1 uses_VVZ an_AT1 'ex_NN1 post'_NN1 sample_NN1 of_IO countries_NN2 that_CST are_VBR now_RT rich_JJ and_CC have_VH0 successfully_RR developed_VVN ._. 
+</s>
+<s>
+Countries_NN2 which_DDQ did_VDD n't_XX grow_VVI rapidly_RR over_II the_AT period_NN1 of_IO 1870_MC to_II 1970_MC were_VBDR excluded_VVN and_CC only_JJ countries_NN2 which_DDQ showed_VVD immense_JJ growth_NN1 and_CC rich_JJ countries_NN2 with_IW moderate_JJ growth_NN1 were_VBDR included_VVN -_- thus_RR there_EX was_VBDZ obvious_JJ convergence_NN1 ._. 
+</s>
+<s>
+De_NP1 Long_JJ (_( 1988_MC )_) ._. 
+</s>
+<s>
+De_NP1 Long_RR suggest_VV0 to_TO run_VVI a_AT1 regression_NN1 on_II an_AT1 ex_JJ21 ante_JJ22 sample_NN1 ,_, a_AT1 sample_NN1 not_XX of_IO nations_NN2 that_CST converged_VVD but_CCB seemed_VVD in_II 1870_MC likely_JJ to_TO converge_VVI to_TO correct_VVI for_IF this_DD1 'selectivity_NN1 bias_NN1 '_GE ._. 
+</s>
+<s>
+Furthermore_RR De-Long_RR says_VVZ that_CST estimates_NN2 of_IO GDP_NN1 per_RR21 capita_RR22 in_II 1870_MC are_VBR likely_JJ to_TO be_VBI quite_RG incorrect_JJ or_CC imprecise_JJ (_( i.e._REX measurement_NN1 error_NN1 )_) in_II the_AT least_RRT ._. 
+</s>
+<s>
+When_CS the_AT 1870_MC income_NN1 is_VBZ overstated_VVN this_DD1 leads_VVZ to_II a_AT1 bias_NN1 in_II31 favor_II32 of_II33 convergence_NN1 as_CSA it_PPH1 understates_VVZ the_AT growth_NN1 between_II 1870_MC to_II 1979_MC and_CC vice_RR21 versa_RR22 ._. 
+</s>
+<s>
+De_NP1 Long_RR corrected_VVD these_DD2 errors_NN2 to_II an_AT1 extent_NN1 by_II adding_VVG 7_MC more_DAR countries_NN2 (_( and_CC removing_VVG Japan_NP1 )_) and_CC including_II an_AT1 error_NN1 variable_NN1 :_: East_NP1 Germany_NP1 ,_, Spain_NP1 ,_, Ireland_NP1 ,_, Chile_NP1 ,_, Portugal_NP1 ,_, Argentina_NP1 and_CC New_NP1 Zealand_NP1 ._. 
+</s>
+<s>
+Thus_RR using_VVG a_AT1 sample_NN1 of_IO 22_MC ,_, he_PPHS1 gets_VVZ a_AT1 value_NN1 of_IO -_- 0.566_MC ,_, which_DDQ is_VBZ only_RR around_RG 56%_NNU convergence_NN1 as_II31 opposed_II32 to_II33 Baumol_NP1 's_GE value_NN1 of_IO -_- 0.955_MC ._. 
+</s>
+<s>
+De_NP1 Long_RR though_RR gets_VVZ a_AT1 lower_JJR R_ZZ1 2_MC value_NN1 implying_VVG that_DD1 lesser_JJ of_IO the_AT data_NN is_VBZ explained_VVN but_CCB this_DD1 is_VBZ often_RR the_AT case_NN1 in_II standard_JJ cross-section_NN1 data_NN ._. 
+</s>
+<s>
+Using_VVG a_AT1 wider_JJR sample_NN1 of_IO data_NN for_IF the_AT more_RGR recent_JJ period_NN1 of_IO economic_JJ history_NN1 ,_, I_PPIS1 will_VM attempt_VVI to_TO analyse_VVI how_RRQ ,_, in_II today_RT 's_GE world_NN1 ,_, De_NP1 Long_RR 's_GE findings_NN2 are_VBR more_RGR accurate_JJ than_CSN Baumol_NP1 's_GE ._. 
+</s>
+<s>
+Specifically_RR ,_, this_DD1 will_VM be_VBI done_VDN by_II looking_VVG at_II a_AT1 data_NN set_VV0 consisting_VVG of_IO GDP_NN1 per_RR21 capita_RR22 for_IF 64_MC different_JJ countries_NN2 from_II the_AT years_NNT2 1960_MC to_II 2000_MC ._. 
+</s>
+<s>
+(_( See_VV0 Appendix_NN1 I_ZZ1% )_) ._. 
+</s>
+<s>
+The_AT data_NN is_VBZ extracted_VVN from_II the_AT Penn_NP1 World_NN1 Tables_NN2 and_CC is_VBZ adjusted_VVN for_IF PPP_NP1 ._. 
+</s>
+<s>
+The_AT figures_NN2 are_VBR at_II 1996_MC US_NP1 $_NN Constant_JJ Prices_NN2 ._. 
+</s>
+<s>
+For_IF analysis_NN1 ,_, I_PPIS1 will_VM divide_VVI the_AT 64_MC different_JJ countries_NN2 into_II two_MC groups_NN2 :_: This_DD1 division_NN1 is_VBZ consistent_JJ and_CC along_II the_AT lines_NN2 of_IO the_AT OECD_NP1 division_NN1 ._. 
+</s>
+<s>
+See_VV0 ._. 
+</s>
+<s>
+and_CC show_VV0 that_CST on_II examining_VVG the_AT two_MC groups_NN2 of_IO countries_NN2 ,_, one_PN1 will_VM find_VVI a_AT1 greater_JJR degree_NN1 of_IO convergence_NN1 among_II developed_JJ countries_NN2 than_CSN among_II emerging_JJ countries_NN2 ._. 
+</s>
+<s>
+Which_DDQ is_VBZ in_II agreement_NN1 with_IW De_NP1 Long_RR 's_GE conclusion_NN1 ._. 
+</s>
+<s>
+We_PPIS2 use_VV0 annual_JJ per_JJ21 capita_JJ22 GDP_NN1 because_CS standard_NN1 of_IO living_NN1 is_VBZ given_VVN by_II the_AT evolution_NN1 of_IO output_NN1 per_RR21 capita_RR22 rather_II21 than_II22 the_AT numbers_NN2 of_IO total_JJ output_NN1 ._. 
+</s>
+<s>
+Secondly_RR when_CS comparing_VVG countries_NN2 with_IW different_JJ populations_NN2 ,_, output_NN1 numbers_NN2 must_VM be_VBI adjusted_VVN to_TO take_VVI into_II account_NN1 these_DD2 differences_NN2 in_II population_NN1 size_NN1 ._. 
+</s>
+<s>
+One_PN1 must_VM also_RR note_VVI that_CST the_AT dependant_NN1 and_CC the_AT independent_JJ variables_NN2 have_VH0 been_VBN expressed_VVN in_II logs_NN2 to_TO reduce_VVI the_AT value_NN1 of_IO the_AT coefficients_NN2 ,_, which_DDQ aids_VVZ% economic_JJ interpretation_NN1 ._. 
+</s>
+<s>
+Growth_NN1 in_II output_NN1 per_RR21 capita_RR22 from_II the_AT year_NNT1 1960-2000_MCMC will_NN1 be_VBI regressed_VVN on_II a_AT1 constant_JJ and_CC GDP_NN1 per_RR21 capita_RR22 in_II 1960_MC i.e._REX initial_JJ income_NN1 ._. 
+</s>
+<s>
+The_AT variables_NN2 and_CC coefficients_NN2 above_RL have_VH0 exactly_RR the_AT same_DA meaning_NN1 and_CC interpretation_NN1 as_CSA in_II Baumol_NP1 's_GE Model_NN1 ._. 
+</s>
+<s>
+Initially_RR for_IF the_AT purpose_NN1 of_IO comparison_NN1 ,_, I_PPIS1 look_VV0 at_II the_AT same_DA countries_NN2 as_CSA Baumol_NP1 and_CC De_NP1 Long_RR did_VDD but_CCB looks_VVZ at_II years_NNT2 1960-2000_MCMC instead_II21 of_II22 years_NNT2 1870-1979_MCMC ._. 
+</s>
+<s>
+Data_NN was_VBDZ not_XX available_JJ for_IF Germany_NP1 ,_, so_CS I_PPIS1 was_VBDZ forced_VVN to_TO ignore_VVI that_CST in_II my_APPGE analysis_NN1 ._. 
+</s>
+<s>
+From_II the_AT table_NN1 above_RL we_PPIS2 can_VM see_VVI that_CST the_AT coefficient_NN1 of_IO initial_JJ income_NN1 is_VBZ -0.7698_MC ,_, (_( i.e._REX a_AT1 convergence_NN1 of_IO 76%_NNU )_) which_DDQ is_VBZ not_XX close_JJ to_II Baumol_NP1 's_GE coefficient_NN1 of_IO -0.995_MC (_( i.e._REX a_AT1 convergence_NN1 of_IO 99.5%_FO )_) considering_CS21 that_CS22 data_NN for_IF the_AT same_DA 16_MC countries_NN2 was_VBDZ looked_VVN at_II ._. 
+</s>
+<s>
+Thus_RR ,_, convergence_NN1 is_VBZ not_XX as_RG high_JJ as_CSA Baumol_NP1 estimated_VVD but_CCB is_VBZ closer_JJR to_II De_NP1 Long_RR 's_GE estimation_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, from_II the_AT previous_JJ table_NN1 ,_, the_AT absolute_JJ value_NN1 of_IO the_AT t_ZZ1 statistic_NN1 is_VBZ 3.012_MC ,_, thus_RR the_AT null_JJ must_VM be_VBI rejected_VVN which_DDQ implies_VVZ that_CST the_AT coefficient_NN1 is_VBZ significant_JJ at_II the_AT 5%_NNU level_NN1 ._. 
+</s>
+<s>
+Moreover_RR ,_, looking_VVG at_II the_AT F_NP1 statistic_NN1 value_NN1 ,_, we_PPIS2 can_VM further_RRR conclude_VVI that_CST the_AT coefficient_NN1 is_VBZ in_II fact_NN1 significant_JJ ._. 
+</s>
+<s>
+Finally_RR ,_, The_AT R_ZZ1 2_MC value_NN1 is_VBZ 0.80_MC ,_, indicating_VVG that_CST the_AT 80%_NNU of_IO the_AT data_NN is_VBZ explained_VVN by_II log_NN1 of_IO the_AT initial_JJ level_NN1 of_IO output_NN1 per_RR21 capita_RR22 ._. 
+</s>
+<s>
+(_( See_VV0 Appendix_NN1 II_MC )_) Data_NN on_II East_NP1 Germany_NP1 could_VM not_XX be_VBI obtained_VVN ._. 
+</s>
+<s>
+So_RR I_PPIS1 am_VBM forced_VVN to_TO ignore_VVI that_CST in_II my_APPGE analysis_NN1 ._. 
+</s>
+<s>
+Looking_VVG at_II the_AT same_DA countries_NN2 that_CST De_NP1 Long_RR looked_VVN at_II ,_, the_AT coefficient_NN1 in_II the_AT table_NN1 above_RL is_VBZ -_- 0.508_MC ,_, which_DDQ is_VBZ close_JJ to_II the_AT coefficient_NN1 that_CST De_NP1 Long_RR got_VVN in_II 1988_MC (_( -0.566_MC )_) after_CS he_PPHS1 took_VVD a_AT1 sample_NN1 correction_NN1 of_IO Baumol_NP1 's_GE list_NN1 of_IO countries_NN2 ._. 
+</s>
+<s>
+Thus_RR a_AT1 1%_NNU change_NN1 in_II initial_JJ output_NN1 per_RR21 capita_RR22 will_VM affect_VVI ouput_NN1 per_RR21 capita_RR22 negatively_RR by_II 50.8%_FO in_II the_AT subsequent_JJ years_NNT2 ._. 
+</s>
+<s>
+This_DD1 indicates_VVZ a_AT1 convergence_NN1 of_IO 50.8%_FO ._. 
+</s>
+<s>
+Moreover_RR ,_, looking_VVG at_II the_AT t_ZZ1 statistic_NN1 and_CC the_AT F_ZZ1 test_VV0 value_NN1 we_PPIS2 can_VM conclude_VVI that_CST the_AT coefficient_NN1 is_VBZ significant_JJ at_II the_AT 5%_NNU level_NN1 ._. 
+</s>
+<s>
+The_AT R_ZZ1 2_MC value_NN1 here_RL is_VBZ 0.41_MC ,_, which_DDQ is_VBZ lower_JJR than_CSN what_DDQ De_NP1 Long_RR originally_RR got_VVN ._. 
+</s>
+<s>
+This_DD1 may_VM be_VBI excused_VVN ,_, as_CSA a_AT1 low_JJ R-squared_JJ value_NN1 is_VBZ common_JJ in_II cross_NN1 section_NN1 analysis_NN1 ,_, specially_RR in_II this_DD1 case_NN1 ,_, where_RRQ data_NN only_RR for_IF the_AT last_MD 41_MC years_NNT2 was_VBDZ available_JJ whereas_CS De_NP1 Long_RR had_VHD examined_VVN data_NN over_RG 100_MC years_NNT2 ._. 
+</s>
+<s>
+(_( See_VV0 Appendix_NN1 III_MC )_) ._. 
+</s>
+<s>
+Therefore_RR applying_VVG Baumol_NP1 and_CC De_NP1 Long_RR to_II an_AT1 extended_JJ list_NN1 of_IO 64_MC countries_NN2 from_II 1960-2000_MCMC leads_VVZ us_PPIO2 to_TO conclude_VVI that_CST the_AT data_NN conforms_VVZ with_IW De_NP1 Long_RR to_II a_AT1 larger_JJR extent_NN1 and_CC therefore_RR shows_VVZ a_AT1 'slower'_JJ convergence_NN1 than_CSN Baumol_NP1 estimated_VVD ._. 
+</s>
+<s>
+Having_VHG applied_VVN both_RR Baumol_NP1 and_CC De_NP1 Long_RR 's_GE approaches_NN2 to_II my_APPGE data_NN ,_, I_PPIS1 now_RT analyze_VV0 the_AT data_NN according_II21 to_II22 my_APPGE own_DA model_NN1 and_CC method_NN1 ._. 
+</s>
+<s>
+Looking_VVG at_II 26_MC developed_JJ countries_NN2 and_CC running_VVG the_AT regression_NN1 :_: growth_NN1 in_II output_NN1 per_RR21 capita_RR22 ,_, upon_II a_AT1 constant_JJ and_CC initial_JJ level_NN1 of_IO output_NN1 per_RR21 capita_RR22 ,_, the_AT equation_NN1 is_VBZ as_CSA follows_VVZ :_: The_AT table_NN1 above_RL shows_VVZ us_PPIO2 that_CST the_AT coefficient_NN1 is_VBZ -_- 0.52_MC ,_, so_RR ,_, a_AT1 1%_NNU change_NN1 in_II initial_JJ output_NN1 per_RR21 capita_RR22 will_VM affect_VVI per_JJ21 capita_JJ22 GDP_NN1 negatively_RR by_II 52%_NNU in_II the_AT subsequent_JJ years_NNT2 ._. 
+</s>
+<s>
+This_DD1 indicates_VVZ a_AT1 convergence_NN1 of_IO 52%_NNU which_DDQ is_VBZ closer_JJR to_TO moderate_VVI convergence_NN1 estimated_VVN by_II De_NP1 long_JJ (_( after_II sample_NN1 correction_NN1 )_) as_II31 opposed_II32 to_II33 the_AT almost_RR perfect_JJ convergence_NN1 estimated_VVN by_II Baumol_NP1 ._. 
+</s>
+<s>
+The_AT t_ZZ1 statistic_NN1 and_CC the_AT F_NP1 statistic_NN1 value_NN1 conform_VV0 that_CST the_AT coefficient_NN1 is_VBZ significant_JJ at_II the_AT 5%_NNU level_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, R_ZZ1 2_MC value_NN1 is_VBZ 0.476_MC indicating_VVG that_CST 47%_NNU of_IO the_AT data_NN is_VBZ explained_VVN by_II log_NN1 of_IO the_AT initial_JJ level_NN1 of_IO output_NN1 per_RR21 capita_RR22 ._. 
+</s>
+<s>
+A_AT1 higher_JJR level_NN1 of_IO R_ZZ1 2_MC could_VM have_VHI been_VBN reached_VVN by_II expanding_VVG the_AT duration_NN1 under_II study_NN1 ._. 
+</s>
+<s>
+However_RR ,_, there_EX were_VBDR no_AT historical_JJ data_NN available_JJ ._. 
+</s>
+<s>
+Generally_RR 47%_NNU is_VBZ a_AT1 reasonable_JJ R_ZZ1 2_MC when_CS conducting_VVG cross-sectional_JJ analysis_NN1 ._. 
+</s>
+<s>
+Now_RT we_PPIS2 need_VV0 to_TO carry_VVI out_RP a_AT1 few_DA2 tests_NN2 to_TO check_VVI for_IF the_AT viability_NN1 and_CC soundness_NN1 of_IO our_APPGE model_NN1 ._. 
+</s>
+<s>
+I_PPIS1 first_MD test_NN1 to_TO see_VVI if_CSW the_AT residuals_NN2 indicate_VV0 heteroskedasticity_NN1 ._. 
+</s>
+<s>
+In_II the_AT graph_NN1 above_RL we_PPIS2 can_VM see_VVI the_AT residual_JJ plotted_VVN against_II the_AT dependent_JJ variable_NN1 and_CC shows_VVZ random_JJ variance_NN1 in_II residuals_NN2 ,_, thus_RR indicating_VVG that_CST there_EX is_VBZ no_AT heteroskedasticity_NN1 ._. 
+</s>
+<s>
+However_RR ,_, I_PPIS1 also_RR check_VV0 for_IF heteroskedasticity_NN1 using_VVG White_NP1 's_GE Heteroskedasticity_NN1 test_NN1 :_: From_II this_DD1 ,_, we_PPIS2 can_VM see_VVI that_CST there_EX is_VBZ a_AT1 slight_JJ problem_NN1 of_IO heteroskedasticity_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM say_VVI this_DD1 because_CS the_AT null_JJ hypothesis_NN1 is_VBZ that_CST there_EX is_VBZ no_AT heteroskedasticity_NN1 ,_, and_CC by_II looking_VVG at_II the_AT F_NP1 statistic_NN1 value_NN1 ,_, and_CC the_AT corresponding_JJ P_ZZ1 value_NN1 we_PPIS2 can_VM reject_VVI the_AT null_JJ at_II both_DB2 the_AT 1%_NNU and_CC at_II the_AT 5%_NNU levels_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, there_EX is_VBZ a_AT1 problem_NN1 of_IO heteroskedasticity_NN1 ._. 
+</s>
+<s>
+(_( We_PPIS2 must_VM note_VVI that_CST since_CS the_AT sample_NN1 size_NN1 is_VBZ small_JJ at_II 26_MC ,_, a_AT1 more_RGR reliable_JJ measure_NN1 of_IO heteroskedasticity_NN1 is_VBZ to_TO look_VVI at_II the_AT F-Statistic_NP1 value_NN1 and_CC not_XX the_AT Obs*R-squared_FO value_NN1 ._. )_) ._. 
+</s>
+<s>
+Thus_RR ,_, even_CS21 though_CS22 the_AT residual_JJ plot_NN1 does_VDZ n't_XX show_VVI that_CST there_EX is_VBZ a_AT1 problem_NN1 of_IO heteroskedasticity_NN1 ,_, on_II carrying_VVG out_RP the_AT White_NP1 's_GE Heteroskedasticity_NN1 Test_VV0 we_PPIS2 can_VM see_VVI that_CST there_EX is_VBZ a_AT1 problem_NN1 of_IO heteroskedasticity_NN1 ,_, but_CCB to_II a_AT1 very_RG marginal_JJ extent_NN1 ._. 
+</s>
+<s>
+This_DD1 problem_NN1 of_IO heteroskedasticity_NN1 is_VBZ usually_RR corrected_VVN by_II method_NN1 of_IO weighted_JJ least_DAT squares_NN2 ._. 
+</s>
+<s>
+However_RR ,_, since_CS the_AT form_NN1 of_IO heteroskedasticity_NN1 is_VBZ not_XX known_VVN ,_, it_PPH1 may_VM not_XX be_VBI possible_JJ to_TO obtain_VVI efficient_JJ estimates_NN2 of_IO the_AT parameters_NN2 using_VVG weighted_VVN least_DAT squares_NN2 ._. 
+</s>
+<s>
+OLS_NN2 provides_VVZ consistent_JJ parameter_NN1 estimates_VVZ in_II the_AT presence_NN1 of_IO heteroskedasticity_NN1 but_CCB the_AT usual_JJ OLS_NN2 standard_JJ errors_NN2 here_RL will_VM be_VBI incorrect_JJ and_CC should_VM not_XX be_VBI used_VVN for_IF inference_NN1 ._. 
+</s>
+<s>
+This_DD1 problem_NN1 of_IO incorrect_JJ standard_JJ errors_NN2 can_VM be_VBI corrected_VVN and_CC t-statistic_JJ vales_NN2 can_VM be_VBI fixed_VVN by_II the_AT robust_JJ standard_JJ error_NN1 method_NN1 ._. 
+</s>
+<s>
+On_II using_VVG this_DD1 method_NN1 ,_, the_AT table_NN1 for_IF developed_JJ countries_NN2 now_RT looks_VVZ like_II :_: The_AT coefficient_NN1 of_IO initial_JJ income_NN1 is_VBZ still_RR significant_JJ ,_, but_CCB less_RGR significant_JJ than_CSN it_PPH1 was_VBDZ before_RT as_CSA the_AT p_NN1 values_NN2 have_VH0 increased_VVN marginally_RR and_CC the_AT absolute_JJ value_NN1 of_IO t-statistic_NN1 has_VHZ fallen_VVN with_IW an_AT1 increase_NN1 in_II standard_JJ error_NN1 values_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 way_NN1 ,_, the_AT problem_NN1 of_IO heteroskedasticity_NN1 has_VHZ been_VBN accounted_VVN for_IF but_CCB not_XX corrected_VVN ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT table_NN1 above_RL is_VBZ now_RT more_RGR accurate_JJ and_CC reliable_JJ than_CSN the_AT one_PN1 before_II heteroskedasticity_NN1 was_VBDZ detected_VVN ._. 
+</s>
+<s>
+After_II accounting_VVG for_IF the_AT problem_NN1 of_IO heteroskedasticity_NN1 we_PPIS2 can_VM still_RR see_VVI from_II the_AT t_ZZ1 statistic_NN1 and_CC the_AT F_ZZ1 values_VVZ that_CST the_AT coefficient_NN1 on_II the_AT 1960_MC GDP_NN1 per_RR21 capita_RR22 is_VBZ significant_JJ at_II the_AT 5%_NNU level_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, I_PPIS1 need_VV0 to_TO test_VVI for_IF Normality_NN1 of_IO the_AT residuals_NN2 in_II the_AT model_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ results_NN2 cropped_VVD up_RP when_CS testing_VVG for_IF normality_NN1 :_: Thus_RR ,_, we_PPIS2 do_VD0 not_XX reject_VVI the_AT null_JJ hypothesis_NN1 of_IO the_AT residuals_NN2 being_VBG normally_RR distributed_VVN ._. 
+</s>
+<s>
+This_DD1 fact_NN1 is_VBZ further_RRR strengthened_VVN by_II the_AT graph_NN1 below_RL :_: Finally_RR ,_, since_CS my_APPGE model_NN1 is_VBZ based_VVN on_II Baumol_NP1 and_CC De_NP1 Lonng_NP1 's_GE idea_NN1 ,_, it_PPH1 would_VM be_VBI a_AT1 wasteful_JJ exercise_NN1 to_TO check_VVI for_IF any_DD omitted_JJ relevant_JJ variable_NN1 or_CC incorrect_JJ functional_JJ form_NN1 via_II the_AT RESET_JJ test_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, since_CS this_DD1 is_VBZ a_AT1 purely_RR a_AT1 cross_JJ sectional_JJ analysis_NN1 in_II the_AT absence_NN1 of_IO any_DD time_NNT1 series_NN ,_, I_PPIS1 do_VD0 not_XX need_VVI to_TO check_VVI for_IF serial_JJ correlation_NN1 ,_, stationarity_NN1 or_CC co-integration_NN1 ._. 
+</s>
+<s>
+Ibid._RR ,_, OECD_NP1 ._. 
+</s>
+<s>
+For_IF developing_JJ countries_NN2 ,_, data_NN for_IF 38_MC emerging_JJ countries_NN2 was_VBDZ looked_VVN at_II and_CC growth_NN1 in_II output_NN1 per_RR21 capita_RR22 between_II 1960_MC and_CC 2000_MC was_VBDZ regressed_VVN upon_II a_AT1 constant_JJ and_CC initial_JJ output_NN1 levels_NN2 and_CC the_AT following_JJ results_NN2 were_VBDR obtained_VVN :_: The_AT coefficient_NN1 on_II initial_JJ output_NN1 levels_NN2 here_RL is_VBZ -_- 0.199_MC which_DDQ means_VVZ that_CST a_AT1 1%_NNU increase_NN1 in_II initial_JJ output_NN1 level_NN1 would_VM result_VVI in_II a_AT1 decrease_NN1 in_II growth_NN1 in_II output_NN1 per_RR21 capita_RR22 by_II 19.9%_FO in_II the_AT subsequent_JJ years_NNT2 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT convergence_NN1 in_II developing_JJ countries_NN2 is_VBZ much_RR slower_RRR than_CSN the_AT convergence_NN1 in_II developed_JJ countries.Therefore_NNU ,_, convergence_NN1 among_II developing_JJ countries_NN2 might_VM be_VBI slow_JJ in_II the_AT long_JJ run_NN1 ._. 
+</s>
+<s>
+The_AT data_NN in_II this_DD1 project_NN1 goes_VVZ only_RR as_RG far_RR behind_RL as_CSA 41_MC years_NNT2 ,_, if_CS data_NN for_IF the_AT last_MD 150_MC years_NNT2 had_VHD been_VBN available_JJ ,_, perhaps_RR convergence_NN1 would_VM have_VHI been_VBN more_RGR apparent_JJ ._. 
+</s>
+<s>
+Therefore_RR we_PPIS2 have_VH0 seen_VVN that_CST the_AT speed_NN1 of_IO convergence_NN1 is_VBZ much_RR higher_JJR in_II developed_JJ economies_NN2 as_CSA compared_VVN to_II developing_VVG and_CC emerging_JJ economies_NN2 ._. 
+</s>
+<s>
+So_RR why_RRQ is_VBZ convergence_NN1 more_RGR likely_JJ amongst_II developed_JJ countries_NN2 rather_II21 than_II22 amongst_II developing_JJ countries_NN2 ,_, when_CS Solow_NP1 predicted_VVD otherwise_RR ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT main_JJ reasons_NN2 for_IF this_DD1 contradictory_JJ result_NN1 is_VBZ that_CST ,_, in_II the_AT Solow_NP1 Model_NN1 it_PPH1 was_VBDZ assumed_VVN that_CST all_DB economies_NN2 merely_RR are_VBR at_II different_JJ points_NN2 in_II the_AT same_DA balanced_JJ growth_NN1 path_NN1 and_CC will_VM eventually_RR converge_VVI when_RRQ they_PPHS2 achieve_VV0 the_AT same_DA steady_JJ state_NN1 level_NN1 of_IO capital_NN1 stock_NN1 ._. 
+</s>
+<s>
+But_CCB this_DD1 maybe_RR far_RR from_II reality_NN1 as_CSA developing_JJ countries_NN2 have_VH0 a_AT1 lower_JJR steady_JJ state_NN1 in_II31 comparison_II32 with_II33 developed_JJ countries_NN2 ._. 
+</s>
+<s>
+Additionally_RR ,_, developed_JJ countries_NN2 have_VH0 a_AT1 steady_JJ state_NN1 level_JJ similar_JJ to_II the_AT economic_JJ leaders_NN2 and_CC thus_RR have_VH0 a_AT1 higher_JJR chance_NN1 of_IO converging_VVG faster_RRR with_IW world_NN1 economic_JJ leaders_NN2 ._. 
+</s>
+<s>
+Now_RT ,_, there_EX can_VM be_VBI steady_JJ state_NN1 differentials_NN2 due_II21 to_II22 the_AT fact_NN1 that_CST countries_NN2 with_IW lower_JJR incomes_NN2 have_VH0 a_AT1 lower_JJR savings_NN2 rate_NN1 ._. 
+</s>
+<s>
+Now_RT the_AT investment_NN1 rate_NN1 is_VBZ determined_VVN by_II the_AT savings_NN2 rate_NN1 and_CC as_II a_AT1 result_NN1 less_RGR developed_JJ countries_NN2 will_VM tend_VVI towards_II a_AT1 lower_JJR steady_JJ state_NN1 ._. 
+</s>
+<s>
+Another_DD1 reason_NN1 for_IF the_AT contradictory_JJ result_NN1 could_VM be_VBI the_AT fact_NN1 that_CST population_NN1 growth_NN1 hampers_NN2 growth_NN1 of_IO per_JJ21 capita_JJ22 GDP_NN1 ._. 
+</s>
+<s>
+Carrying_VVG out_RP a_AT1 regression_NN1 ,_, I_PPIS1 find_VV0 that_CST a_AT1 1%_NNU increase_NN1 in_II population_NN1 growth_NN1 would_VM decrease_VVI the_AT GDP_NN1 growth_NN1 by_II 0.57%_FO ._. 
+</s>
+<s>
+This_DD1 explains_VVZ why_RRQ several_DA2 countries_NN2 ,_, despite_II increased_JJ economic_JJ activity_NN1 ,_, do_VD0 n't_XX have_VHI a_AT1 high_JJ growth_NN1 rate_NN1 ._. 
+</s>
+<s>
+I_PPIS1 also_RR find_VV0 ,_, that_CST two_MC emerging_JJ countries_NN2 ,_, India_NP1 and_CC Brazil_NP1 who_PNQS have_VH0 different_JJ population_NN1 levels_NN2 but_CCB are_VBR at_II more_DAR or_CC less_RRR at_II similar_JJ development_NN1 paths_NN2 have_VH0 different_JJ growth_NN1 in_II GDP_NN1 per_RR21 capita_RR22 as_CSA well_RR ._. 
+</s>
+<s>
+(_( See_VV0 Appendix_NN1 VI_MC )_) )_) ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 above_RL mentioned_VVD ,_, there_EX may_VM be_VBI other_JJ factors_NN2 hindering_VVG convergence_NN1 :_: transfer_NN1 of_IO technology_NN1 between_II developed_JJ and_CC developing_JJ countries_NN2 may_VM take_VVI a_AT1 long_JJ while_NNT1 due_JJ lack_NN1 of_IO infrastructure_NN1 and_CC technical_JJ know-how_NN1 in_II the_AT developing_JJ countries_NN2 ._. 
+</s>
+<s>
+Thus_RR convergence_NN1 may_VM get_VVI delayed_VVN ._. 
+</s>
+<s>
+The_AT 'Convergence_NN1 Hypothesis_NN1 '_GE seems_VVZ to_TO hold_VVI strongly_RR only_RR for_IF developed_JJ nations_NN2 ;_; developing_JJ countries_NN2 seem_VV0 to_TO be_VBI crawling_VVG towards_II the_AT path_NN1 of_IO convergence_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 found_VVN that_CST the_AT problem_NN1 of_IO a_AT1 high_JJ population_NN1 growth_NN1 rate_NN1 tremendously_RR hampers_NN2 output_VV0 growth_NN1 and_CC convergence_NN1 ._. 
+</s>
+<s>
+Hence_RR policies_NN2 that_CST encourage_VV0 a_AT1 lower_JJR birth_NN1 rate_NN1 ,_, such_II21 as_II22 education_NN1 about_II contraception_NN1 may_VM be_VBI a_AT1 solution_NN1 ._. 
+</s>
+<s>
+In_II India_NP1 ,_, such_DA a_AT1 policy_NN1 was_VBDZ aggressively_RR followed_VVN with_IW success_NN1 under_II the_AT reign_NN1 on_II Prime_JJ Minister_NN1 Indira_NP1 Gandhi_NP1 ._. 
+</s>
+<s>
+However_RR ,_, too_RG low_RR a_AT1 birth_NN1 rate_NN1 is_VBZ also_RR not_XX desirable_JJ as_CSA is_VBZ witnessed_VVN from_II the_AT experience_NN1 of_IO certain_JJ 'ageing'_JJ European_JJ countries_NN2 ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT saving_NN1 rate_NN1 is_VBZ also_RR vital_JJ in_II determining_VVG a_AT1 nation_NN1 's_GE propensity_NN1 to_TO grow_VVI and_CC converge_VVI ._. 
+</s>
+<s>
+The_AT Japanese_JJ 'growth_NN1 miracle'_NN1 from_II 1953-73_MCMC is_VBZ a_AT1 case_NN1 in_II point_NN1 for_IF the_AT massive_JJ advantages_NN2 of_IO a_AT1 high_JJ savings_NN2 rate_NN1 ._. 
+</s>
+<s>
+During_II the_AT time_NNT1 her_APPGE per_JJ21 capita_JJ22 GDP_NN1 grew_VVD at_II a_AT1 spectacular_JJ rate_NN1 of_IO over_II 8.1%_FO per_RA21 annum_RA22 ._. 
+</s>
+<s>
+To_TO achieve_VVI this_DD1 growth_NN1 rate_NN1 itself_PPX1 required_VVN large_JJ increases_NN2 in_II annual_JJ gross_JJ investment_NN1 ,_, which_DDQ was_VBDZ made_VVN possible_JJ by_II an_AT1 increase_NN1 in_II output_NN1 available_JJ for_IF division_NN1 between_II consumption_NN1 and_CC saving_NN1 ,_, a_AT1 higher_JJR saving_NN1 rate_NN1 ._. 
+</s>
+<s>
+Both_RR corporations_NN2 and_CC households_NN2 contributed_VVN to_II the_AT high_JJ rate_NN1 of_IO private_JJ saving_NN1 ,_, which_DDQ rose_VVD from_II 16.5%_FO of_IO GNP_NN1 in_II 1952-54_MCMC to_II 31.9%_FO of_IO GNP_NN1 in_II 1970-71_MCMC ._. 
+</s>
+<s>
+See_VV0 How_RRQ Japan_NP1 's_GE Economy_NN1 Grew_VVD So_RG Fast-_JJ The_AT Sources_NN2 of_IO Postwar_JJ Expansion'_NP1 ,_, Edward_NP1 F._NP1 Denison_NP1 and_CC William_NP1 K._NP1 Chung_NP1 ,_, The_AT Brookings_NP1 Institution_NN1 ,_, 1976_MC ._. 
+</s>
+<s>
+Policy_NN1 should_VM therefore_RR encourage_VVI the_AT development_NN1 of_IO stable_JJ financial_JJ to_II institutions_NN2 to_TO encourage_VVI saving_NN1 ._. 
+</s>
+<s>
+Additionally_RR ,_, the_AT most_RGT direct_JJ way_NN1 for_IF government_NN1 to_TO influence_VVI national_JJ saving_NN1 is_VBZ through_II public_JJ saving_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM increase_VVI public_JJ saving_NN1 by_II following_VVG a_AT1 'contractionary'_JJ fiscal_JJ policy_NN1 ._. 
+</s>
+<s>
+However_RR ,_, if_CS reducing_VVG the_AT budget_NN1 deficit_NN1 via_II a_AT1 tax_NN1 rise_NN1 ,_, it_PPH1 must_VM be_VBI careful_JJ as_CSA higher_JJR tax_NN1 on_II saving_NN1 and_CC investment_NN1 actually_RR discourage_VV0 savings_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, a_AT1 country_NN1 can_VM achieve_VVI high_JJ rates_NN2 of_IO growth_NN1 by_II a_AT1 careful_JJ restructuring_NN1 of_IO its_APPGE social_JJ institutions_NN2 ._. 
+</s>
+<s>
+In_II doing_VDG so_RR ,_, it_PPH1 will_VM be_VBI able_JK to_TO efficiently_RR extract_VVI from_II the_AT world_NN1 pool_NN1 of_IO technology_NN1 ._. 
+</s>
+<s>
+For_IF "_" the_AT storehouse_NN1 of_IO modern_JJ technology_NN1 is_VBZ great_JJ "_" and_CC nations_NN2 would_VM greatly_RR benefit_VVI from_II tapping_VVG this_DD1 vast_JJ accumulation_NN1 ._. 
+</s>
+<s>
+Opp_II Cit_FW ._. 
+</s>
+<s>
+Baumol_NP1 ._. 
+</s>

@@ -1,0 +1,216 @@
+<s>
+Since_CS the_AT first_MD formal_JJ deductive_JJ reasoning_NN1 system_NN1 -_- syllogistic_JJ logic_NN1 invented_VVN by_II Aristotle_NP1 in_II the_AT 5_MC th_NNU century_NNT1 (_( Wikipedia_NP1 )_) ,_, the_AT artificial_JJ intelligence_NN1 (_( AI_NN1 )_) has_VHZ been_VBN developing_VVG for_IF a_AT1 quite_RG long_JJ time_NNT1 ._. 
+</s>
+<s>
+Before_CS the_AT formal_JJ concept_NN1 of_IO AI_NN1 was_VBDZ proposed_VVN ,_, it_PPH1 was_VBDZ only_RR a_AT1 dream_NN1 or_CC even_RR a_AT1 myth_NN1 in_II people_NN 's_GE life_NN1 ._. 
+</s>
+<s>
+Although_CS AI_NN1 has_VHZ a_AT1 strong_JJ science_NN1 fiction_NN1 connotation_NN1 ,_, it_PPH1 forms_VVZ a_AT1 crucial_JJ branch_NN1 of_IO computer_NN1 science_NN1 ,_, which_DDQ are_VBR dealing_VVG with_IW intelligent_JJ behavior_NN1 ,_, learning_VVG and_CC adaptation_NN1 in_II machines_NN2 ._. 
+</s>
+<s>
+Humanoid_JJ robot_NN1 is_VBZ one_MC1 of_IO the_AT greatest_JJT inventions_NN2 in_II the_AT field_NN1 of_IO AI_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 robot_NN1 with_IW its_APPGE appearance_NN1 based_VVN on_II the_AT human_JJ body_NN1 ._. 
+</s>
+<s>
+Not_XX just_RR head_VV0 ,_, eyes_NN2 ,_, arms_NN2 and_CC legs_NN2 as_II the_AT old_JJ generation_NN1 ,_, the_AT latest_JJT humanoid_JJ robots_NN2 have_VH0 mouth_NN1 ,_, neck_NN1 ,_, feet_NN2 ,_, and_CC even_RR hips_NN2 ,_, which_DDQ make_VV0 robots_NN2 much_RR agiler_JJR and_CC become_VV0 more_RRR like_II a_AT1 human_JJ being_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR call_VV0 the_AT robots_NN2 with_IW humanoid_JJ feature_NN1 as_CSA autonomous_JJ robots_NN2 ._. 
+</s>
+<s>
+They_PPHS2 can_VM adapt_VVI to_TO change_VVI in_II their_APPGE environment_NN1 or_CC themselves_PPX2 and_CC continue_VV0 to_TO reach_VVI their_APPGE goals_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT main_JJ difference_NN1 between_II humanoid_JJ robots_NN2 and_CC industrial_JJ robots_NN2 ._. 
+</s>
+<s>
+Humanoid_JJ robot_NN1 is_VBZ capable_JJ of_IO moving_VVG ,_, recognizing_VVG ,_, and_CC memorizing_VVG ._. 
+</s>
+<s>
+By_II doing_VDG those_DD2 ,_, in_II humanoid_JJ robotics_NN2 ,_, mapping_VVG ,_, navigation_NN1 ,_, and_CC the_AT ability_NN1 to_TO learn_VVI to_TO recognize_VVI and_CC remember_VVI things_NN2 about_II people_NN it_PPH1 interacts_VVZ with_IW ,_, are_VBR crucial_JJ to_II humanoid_JJ robot_NN1 systems_NN2 (_( Kortenkamp_NP1 ,_, 1998_MC )_) ._. 
+</s>
+<s>
+Levitt_VV0 and_CC Lawton_NP1 (_( 1990_MC )_) posited_VVD three_MC basic_JJ questions_NN2 that_CST define_VV0 robot_NN1 mapping_NN1 and_CC navigation_NN1 :_: Most_DAT of_IO the_AT humanoid_JJ robotics_NN2 are_VBR focusing_VVG on_II one_MC1 or_CC more_DAR of_IO these_DD2 questions_NN2 ,_, and_CC these_DD2 robots_NN2 use_VV0 the_AT spectrum_NN1 of_IO options_NN2 for_IF mapping_VVG and_CC navigation_NN1 ._. 
+</s>
+<s>
+On_II the_AT side_NN1 of_IO the_AT spectrum_NN1 are_VBR completely_RR metric_JJ maps_NN2 ._. 
+</s>
+<s>
+In_II these_DD2 representations_NN2 ,_, the_AT robot_NN1 's_GE environment_NN1 is_VBZ defined_VVN by_II a_AT1 single_JJ ,_, global_JJ coordinate_NN1 system_NN1 in_II which_DDQ all_DB mapping_NN1 and_CC navigation_NN1 takes_VVZ place_NN1 ._. 
+</s>
+<s>
+Typically_RR ,_, the_AT map_NN1 is_VBZ a_AT1 grid_NN1 with_IW each_DD1 cell_NN1 of_IO the_AT grid_NN1 representing_VVG some_DD amount_NN1 of_IO space_NN1 in_II the_AT real_JJ world_NN1 ._. 
+</s>
+<s>
+Base_NN1 on_II this_DD1 ,_, some_DD robots_NN2 use_VV0 grid-based_JJ approach_NN1 to_II mapping_NN1 and_CC navigation_NN1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ side_NN1 of_IO the_AT spectrum_NN1 are_VBR qualitative_JJ maps_NN2 ,_, in_II which_DDQ the_AT robot_NN1 's_GE environment_NN1 is_VBZ represented_VVN as_CSA places_NN2 and_CC connections_NN2 between_II places_NN2 ._. 
+</s>
+<s>
+These_DD2 maps_NN2 contain_VV0 no_AT metric_JJ or_CC geometric_JJ information_NN1 ,_, but_CCB only_RR the_AT notions_NN2 of_IO proximity_NN1 and_CC order_NN1 ._. 
+</s>
+<s>
+This_DD1 idea_NN1 makes_VVZ the_AT approach_NN1 eliminate_VVI the_AT inevitable_JJ problems_NN2 of_IO dealing_VVG with_IW uncertain_JJ movement_NN1 in_II robots_NN2 ._. 
+</s>
+<s>
+Qualitative_JJ maps_NN2 can_VM also_RR be_VBI more_RGR compact_JJ in_II their_APPGE representation_NN1 of_IO space_NN1 ,_, only_RR represent_VV0 interesting_JJ places_NN2 and_CC not_XX the_AT entire_JJ environment_NN1 ._. 
+</s>
+<s>
+Qualitative_JJ maps_NN2 are_VBR very_RG popular_JJ in_II humanoid_JJ robotics_NN2 now_RT ._. 
+</s>
+<s>
+The_AT concept_NN1 of_IO robot_NN1 mapping_NN1 is_VBZ fairly_RR simple_JJ :_: the_AT robot_NN1 is_VBZ to_TO depict_VVI its_APPGE world_NN1 electronically_RR by_II using_VVG its_APPGE sonar_NN1 sensors_NN2 and_CC the_AT cameras_NN2 devices_NN2 ._. 
+</s>
+<s>
+The_AT mapping_NN1 ,_, it_PPH1 refers_VVZ to_II the_AT process_NN1 of_IO constructing_VVG a_AT1 model_NN1 of_IO the_AT environment_NN1 based_VVN on_II sensor_NN1 measurements_NN2 ,_, and_CC artificial_JJ neural_JJ networks_NN2 are_VBR used_VVN to_TO interpret_VVI the_AT sensor_NN1 measurements_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR two_MC typical_JJ elements_NN2 which_DDQ are_VBR quite_RG important_JJ in_II the_AT mapping_NN1 ._. 
+</s>
+<s>
+They_PPHS2 are_VBR grid-based_JJ approach_NN1 and_CC topological_JJ approach_NN1 ._. 
+</s>
+<s>
+Grid-based_JJ approach_NN1 represents_VVZ environments_NN2 by_II evenly-spaced_JJ grids_NN2 ._. 
+</s>
+<s>
+Each_DD1 grid_NN1 cell_NN1 contains_VVZ a_AT1 value_NN1 which_DDQ indicates_VVZ the_AT presence_NN1 or_CC absence_NN1 of_IO an_AT1 obstacle_NN1 in_II the_AT corresponding_JJ place_NN1 ._. 
+</s>
+<s>
+Topological_JJ approach_NN1 represents_VVZ robot_NN1 environments_NN2 as_CSA graphs_NN2 ._. 
+</s>
+<s>
+In_II graphs_NN2 ,_, there_EX are_VBR nodes_NN2 correspond_VV0 to_II distinct_JJ places_NN2 ,_, and_CC arcs_NN2 represent_VV0 adjacency_NN1 ._. 
+</s>
+<s>
+Not_XX just_RR grid-based_JJ and_CC topological_JJ approach_NN1 ,_, sonar_NN1 sensor_NN1 interpretation_NN1 ,_, which_DDQ measures_VVZ approximate_JJ echo_NN1 distances_NN2 to_II nearby_JJ obstacles_NN2 ,_, and_CC stereo_NN1 camera_NN1 interpretation_NN1 ,_, which_DDQ provides_VVZ images_NN2 from_II special_JJ objects_NN2 ,_, are_VBR also_RR combined_VVN in_II the_AT mapping_NN1 system_NN1 ._. 
+</s>
+<s>
+In_II robots_NN2 navigation_NN1 ,_, path_NN1 planning_NN1 and_CC collision_NN1 avoidance_NN1 technologies_NN2 are_VBR key_JJ factors_NN2 in_II humanoid_JJ robotics_NN2 ._. 
+</s>
+<s>
+As_CSA mentioned_VVN in_II the_AT mapping_NN1 ,_, the_AT grid-based_JJ maps_NN2 and_CC topological_JJ maps_NN2 are_VBR used_VVN in_II the_AT mapping_NN1 system_NN1 ,_, and_CC they_PPHS2 are_VBR the_AT bases_NN2 of_IO robot_NN1 navigation_NN1 as_RR21 well_RR22 ._. 
+</s>
+<s>
+Path_NN1 planning_VVG within_II the_AT grid-based_JJ maps_NN2 ,_, the_AT idea_NN1 for_IF this_DD1 is_VBZ to_TO let_VVI the_AT robot_NN1 always_RR move_VVI on_II a_AT1 minimum-cost_JJ path_NN1 to_II the_AT goal_NN1 ,_, or_CC the_AT nearest_JJT goal_NN1 ,_, if_CS multiple_JJ goals_NN2 exist_VV0 ._. 
+</s>
+<s>
+The_AT cost_NN1 for_IF traversing_VVG a_AT1 grid_NN1 cell_NN1 is_VBZ determined_VVN by_II its_APPGE occupancy_NN1 value_NN1 ._. 
+</s>
+<s>
+Path_NN1 planning_NN1 is_VBZ also_RR used_VVN in_II the_AT topological_JJ maps_NN2 ._. 
+</s>
+<s>
+Compared_VVN to_II the_AT grid-based_JJ maps_NN2 ,_, the_AT enormous_JJ compactness_NN1 of_IO topological_JJ maps_NN2 increases_VVZ the_AT efficiency_NN1 of_IO planning_NN1 ._. 
+</s>
+<s>
+These_DD2 path_NN1 planning_NN1 are_VBR generally_RR used_VVN in_II 1990s_MC2 ,_, and_CC still_RR being_VBG improved_VVN in_BCL21 order_BCL22 to_TO be_VBI used_VVN in_II new_JJ generation_NN1 robotics_NN2 ._. 
+</s>
+<s>
+Obstacle_NN1 avoidance_NN1 is_VBZ one_MC1 of_IO the_AT goals_NN2 of_IO robot_NN1 navigation_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ relatively_RR easy_RR using_VVG the_AT mapping_NN1 technique_NN1 described_VVN above_RL ._. 
+</s>
+<s>
+Once_CS the_AT map_NN1 is_VBZ updated_VVN ,_, the_AT software_NN1 which_DDQ is_VBZ used_VVN in_II the_AT robot_NN1 system_NN1 ,_, will_VM determine_VVI the_AT next_MD move_NN1 ._. 
+</s>
+<s>
+And_CC for_IF obvious_JJ reasons_NN2 ,_, the_AT collision_NN1 avoidance_NN1 must_VM operate_VVI in_II real-time_NN1 ._. 
+</s>
+<s>
+Individual_JJ recognition_NN1 is_VBZ a_AT1 widely_RR reported_VVN phenomenon_NN1 in_II the_AT world_NN1 ,_, the_AT ability_NN1 to_TO recognize_VVI and_CC remember_VVI individuals_NN2 is_VBZ crucial_JJ for_IF complex_JJ interactions_NN2 among_II social_JJ animals_NN2 include_VV0 human_JJ being_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT key_JJ function_NN1 while_CS people_NN communicate_VV0 with_IW others_NN2 ._. 
+</s>
+<s>
+In_II robots_NN2 '_GE world_NN1 ,_, humanoid_JJ robots_NN2 must_VM be_VBI able_JK to_TO recognize_VVI people_NN and_CC learn_VVI about_II various_JJ characteristics_NN2 through_II embodied_VVD social_JJ interaction_NN1 ._. 
+</s>
+<s>
+Among_II these_DD2 individual_JJ recognitions_NN2 ,_, face_VV0 recognition_NN1 in_II the_AT humanoid_JJ robotics_NN1 is_VBZ widely_RR being_VBG developed_VVN all_DB the_AT time_NNT1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO recognize_VVI and_CC remember_VVI characteristics_NN2 of_IO various_JJ people_NN ,_, the_AT robot_NN1 must_VM be_VBI able_JK to_TO identify_VVI people_NN and_CC link_VVI relative_JJ information_NN1 ,_, for_REX21 instance_REX22 ,_, people_NN 's_GE past_JJ behavior_NN1 ,_, beliefs_NN2 ,_, habits_NN2 ,_, etc_RA ._. 
+</s>
+<s>
+A_AT1 substantial_JJ amount_NN1 of_IO research_NN1 has_VHZ been_VBN carried_VVN out_RP in_II person_NN1 identification_NN1 technology_NN1 in_II the_AT past_JJ 10_MC years_NNT2 (_( Nakajima_NP1 ,_, Pontil_NP1 ,_, 2000_MC )_) ._. 
+</s>
+<s>
+Most_DAT of_IO these_DD2 works_NN attempted_VVD to_TO solve_VVI the_AT identification_NN1 problem_NN1 which_DDQ is_VBZ like_II ,_, given_VVN a_AT1 set_NN1 of_IO labeled_JJ training_NN1 data_NN and_CC test_VV0 data_NN ,_, find_VV0 the_AT correct_JJ person_NN1 label_NN1 for_IF the_AT test_NN1 data_NN ._. 
+</s>
+<s>
+In_II some_DD of_IO the_AT face_NN1 recognition_NN1 systems_NN2 ,_, the_AT training_NN1 images_NN2 are_VBR collected_VVN and_CC labeled_VVN manually_RR ,_, which_DDQ is_VBZ not_XX done_VDN by_II robot_NN1 itself_PPX1 ._. 
+</s>
+<s>
+The_AT robot_NN1 with_IW humanoid_JJ features_NN2 should_VM be_VBI capable_JJ of_IO collecting_VVG training_NN1 data_NN for_IF learning_NN1 ,_, and_CC directly_RR perceive_VV0 the_AT environment_NN1 on_II its_APPGE own_DA ._. 
+</s>
+<s>
+The_AT basic_JJ idea_NN1 for_IF face_NN1 recognition_NN1 is_VBZ ,_, camera_NN1 receives_VVZ the_AT visual_JJ and_CC passes_VVZ it_PPH1 as_II an_AT1 input_NN1 to_II the_AT face_NN1 detector_NN1 system_NN1 ._. 
+</s>
+<s>
+Then_RT face_VV0 detector_NN1 sends_VVZ information_NN1 regarding_II location_NN1 of_IO faces_NN2 found_VVN within_II the_AT robot_NN1 's_GE visual_JJ range_NN1 ,_, if_CS any_DD ,_, for_IF further_JJR pre-processing_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT training_NN1 set_NN1 ,_, the_AT pre-processed_JJ image_NN1 is_VBZ then_RT recognized_VVN to_TO generate_VVI an_AT1 initial_JJ hypothesis_NN1 ._. 
+</s>
+<s>
+After_CS the_AT recognition_NN1 process_NN1 ,_, post-processing_NN1 might_VM be_VBI performed_VVN on_II the_AT test_NN1 image_NN1 in_II order_NN1 to_TO either_RR include_VVI unknown_JJ individuals_NN2 or_CC incrementally_RR improve_VV0 the_AT existing_JJ training_NN1 set_NN1 (_( Aryananda_NP1 ,_, 2001_MC )_) ._. 
+</s>
+<s>
+There_EX was_VBDZ a_AT1 face_NN1 recognition_NN1 system_NN1 created_VVN in_II artificial_JJ intelligence_NN1 laboratory_NN1 in_II MIT_NP1 ._. 
+</s>
+<s>
+It_PPH1 includes_VVZ face_NN1 detector_NN1 ,_, pre-processing_JJ and_CC etc_RA ._. 
+</s>
+<s>
+Face_VV0 detector_NN1 ,_, which_DDQ is_VBZ given_VVN periodic_JJ camera_NN1 input_NN1 ,_, the_AT face_NN1 detector_NN1 outputs_VVZ the_AT location_NN1 of_IO existing_JJ faces_NN2 ._. 
+</s>
+<s>
+By_II doing_VDG so_RR ,_, precise_JJ and_CC speedy_JJ face_NN1 detector_NN1 is_VBZ the_AT key_JJ element_NN1 in_II this_DD1 system_NN1 ._. 
+</s>
+<s>
+Because_II21 of_II22 the_AT variation_NN1 in_II distance_NN1 ,_, viewing_VVG angle_NN1 ,_, and_CC lighting_NN1 factors_NN2 in_II the_AT environment_NN1 ,_, and_CC since_CS both_RR camera_NN1 and_CC target_NN1 move_VV0 around_RP ,_, the_AT face_NN1 detector_NN1 's_GE output_NN1 is_VBZ relatively_RR noisy_JJ ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO avoid_VVI these_DD2 situations_NN2 and_CC get_VVI higher_JJR detection_NN1 accuracy_NN1 ,_, the_AT skin_NN1 tone_NN1 detector_NN1 was_VBDZ used_VVN in_II the_AT face_NN1 recognition_NN1 system_NN1 ._. 
+</s>
+<s>
+After_II being_VBG detected_VVN by_II face_NN1 detector_NN1 ,_, each_DD1 face_NN1 image_NN1 needs_VVZ to_TO be_VBI processed_VVN and_CC be_VBI scaled_VVN to_II a_AT1 specific_JJ pixel_NN1 image_NN1 ._. 
+</s>
+<s>
+Each_DD1 pixel_NN1 in_II the_AT image_NN1 is_VBZ normalized_VVN in_BCL21 order_BCL22 to_TO alleviate_VVI lighting_NN1 variations_NN2 ,_, which_DDQ is_VBZ mentioned_VVN in_II the_AT face_NN1 detector_NN1 above_RL ._. 
+</s>
+<s>
+After_CS this_DD1 ,_, each_DD1 face_NN1 image_NN1 is_VBZ masked_VVN by_II using_VVG 2D_NNU Gaussian_JJ to_TO diminish_VVI background_NN1 variations_NN2 ._. 
+</s>
+<s>
+The_AT artificial_JJ intelligence_NN1 technology_NN1 is_VBZ being_VBG used_VVN in_II many_DA2 fields_NN2 in_II the_AT world_NN1 ,_, especially_RR in_II the_AT humanoid_JJ robotics_NN2 ._. 
+</s>
+<s>
+The_AT technologies_NN2 of_IO mapping_NN1 ,_, navigation_NN1 and_CC face_VV0 recognition_NN1 mentioned_VVN in_II this_DD1 essay_NN1 are_VBR just_RR general_JJ knowledge_NN1 ._. 
+</s>
+<s>
+Beside_II these_DD2 ,_, mechanics_NN2 ,_, anatomy_NN1 and_CC etc_RA ,_, are_VBR also_RR used_VVN in_II robotic_JJ system_NN1 ._. 
+</s>
+<s>
+They_PPHS2 could_VM be_VBI more_RGR specific_JJ if_CS they_PPHS2 are_VBR used_VVN in_II different_JJ types_NN2 of_IO robots_NN2 with_IW humanoid_JJ features_NN2 ._. 
+</s>
+<s>
+Like_II the_AT humanoid_JJ robot_NN1 ASIMO_NN1 ,_, which_DDQ is_VBZ created_VVN by_II Honda_NP1 ,_, it_PPH1 could_VM only_RR walked_VVD and_CC did_VDD some_DD simply_RR work_VVI at_II the_AT beginning_NN1 ._. 
+</s>
+<s>
+Few_DA2 years_NNT2 ago_RA ,_, it_PPH1 started_VVD to_TO walk_VVI faster_RRR than_CSN before_RT at_II 3km/h_FU and_CC started_VVD to_TO do_VDI more_DAR difficult_JJ tasks_NN2 ._. 
+</s>
+<s>
+The_AT new_JJ generation_NN1 of_IO ASIMO_NP1 ,_, it_PPH1 is_VBZ amazingly_RR running_VVG at_II 6km/h_FU and_CC even_RR being_VBG able_JK to_TO turn_VVI direction_NN1 while_CS running_VVG at_II 3km/h_FU ,_, and_CC also_RR be_VBI able_JK to_TO greet_VVI the_AT people_NN it_PPH1 learns_VVZ and_CC recognizes_VVZ by_II itself_PPX1 ._. 
+</s>
+<s>
+The_AT technologies_NN2 of_IO mapping_NN1 ,_, navigation_NN1 and_CC face_VV0 recognition_NN1 used_VVN by_II Honda_NP1 ,_, SONY_NP1 and_CC etc_RA ,_, are_VBR developed_VVN very_RG quickly_RR in_II the_AT recent_JJ years_NNT2 ,_, and_CC becoming_VVG more_RGR professional_JJ and_CC perfect_JJ ._. 
+</s>
+<s>
+More_RRR and_CC more_DAR people_NN believe_VV0 that_CST ,_, humanoid_JJ robots_NN2 will_VM be_VBI part_NN1 of_IO people_NN 's_GE life_NN1 and_CC help_VV0 people_NN do_VDI things_NN2 ,_, which_DDQ make_VV0 human_NN1 have_VHI more_RGR free_JJ time_NNT1 to_TO enjoy_VVI their_APPGE own_DA life_NN1 in_II the_AT future_NN1 ._. 
+</s>

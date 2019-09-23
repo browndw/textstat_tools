@@ -1,0 +1,120 @@
+<s>
+In_II this_DD1 coursework_NN1 the_AT problem_NN1 to_TO be_VBI solved_VVN is_VBZ based_VVN on_II the_AT analogy_NN1 of_IO a_AT1 rat_NN1 navigating_VVG a_AT1 maze_NN1 ,_, trying_VVG to_TO get_VVI from_II the_AT entrance_NN1 to_II the_AT exit_NN1 ._. 
+</s>
+<s>
+Essentially_RR ,_, the_AT aim_NN1 is_VBZ to_TO develop_VVI a_AT1 solution_NN1 to_II the_AT maze-_NN1 i.e._REX find_VV0 the_AT path_NN1 from_II the_AT entrance_NN1 to_TO exit_VVI :_: A_AT1 LIFO_NN1 stack_NN1 can_VM be_VBI used_VVN to_TO store_VVI the_AT path_NN1 taken_VVN ._. 
+</s>
+<s>
+It_PPH1 will_VM model_VVI the_AT movements_NN2 of_IO the_AT rat_NN1 and_CC allow_VV0 retracing_NN1 of_IO steps_NN2 in_II the_AT case_NN1 that_CST a_AT1 wall_NN1 or_CC "_" dead_JJ end_NN1 "_" is_VBZ encountered_VVN ._. 
+</s>
+<s>
+On_II the_AT assignment_NN1 handout_NN1 sheets_NN2 ,_, the_AT maze_NN1 is_VBZ depicted_VVN in_II a_AT1 form_NN1 such_CS21 that_CS22 it_PPH1 appears_VVZ that_DD1 grid_NN1 references_NN2 are_VBR given_VVN in_II (_( Y_ZZ1 ,_, X_ZZ1 )_) form_VV0 rather_II21 than_II22 the_AT conventional_JJ (_( X_ZZ1 ,_, Y_ZZ1 )_) ._. 
+</s>
+<s>
+Also_RR ,_, the_AT grid_NN1 references_NN2 are_VBR zero-based_JJ ,_, i.e._REX the_AT first_MD cell_NN1 is_VBZ (_( 0,0_MC )_) ._. 
+</s>
+<s>
+Both_DB2 these_DD2 features_NN2 indicate_VV0 that_CST the_AT maze_NN1 should_VM be_VBI modelled_VVN using_VVG a_AT1 two-dimensional_JJ array_NN1 (_( as_CSA in_II C_NP1 programming_NN1 )_) because_CS such_DA an_AT1 array_NN1 has_VHZ exactly_RR the_AT same_DA properties_NN2 ._. 
+</s>
+<s>
+For_IF any_DD model_NN1 ,_, assumptions_NN2 must_VM be_VBI made_VVN ._. 
+</s>
+<s>
+The_AT assumptions_NN2 provided_VVN on_II the_AT Exercise_NN1 sheet_NN1 shall_VM be_VBI used_VVN :_: Mazes_NN2 consist_VV0 of_IO walls_NN2 and_CC paths_NN2 ._. 
+</s>
+<s>
+Walls_NP1 can_VM not_XX be_VBI crossed_VVN and_CC it_PPH1 is_VBZ unknown_JJ what_DDQ is_VBZ on_II the_AT other_JJ side_NN1 ._. 
+</s>
+<s>
+Movement_NN1 is_VBZ possible_JJ in_II four_MC directions-_JJ North_ND1 (_( N_ZZ1 )_) ,_, South_ND1 (_( S_ZZ1 )_) ,_, East_ND1 (_( E_ZZ1 )_) ,_, West_ND1 (_( W_ZZ1 )_) ._. 
+</s>
+<s>
+At_II a_AT1 junction_NN1 ,_, N_ZZ1 ,_, S_ZZ1 ,_, E_ZZ1 ,_, W_ZZ1 directions_NN2 are_VBR tried_VVN in_II that_DD1 order_NN1 ._. 
+</s>
+<s>
+The_AT entry_NN1 and_CC exit_VV0 co-ordinates_NN2 are_VBR given_VVN ._. 
+</s>
+<s>
+Other_JJ ._. 
+</s>
+<s>
+I_PPIS1 make_VV0 a_AT1 further_JJR assumption_NN1 and_CC assume_VV0 a_AT1 Peek()_NN1 function_NN1 is_VBZ available_JJ to_TO read_VVI the_AT last_MD pushed_VVD value_NN1 without_IW removing_VVG it_PPH1 from_II the_AT stack_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ assumed_VVN that_CST functions/methods_NN2 for_IF finding_VVG the_AT number_NN1 of_IO elements_NN2 in_II an_AT1 array_NN1 and_CC the_AT sum_NN1 of_IO an_AT1 array_NN1 are_VBR already_RR defined_VVN ._. 
+</s>
+<s>
+The_AT algorithm_NN1 must_VM solve_VVI the_AT maze_NN1 and_CC the_AT solution_NN1 should_VM involve_VVI the_AT Pop()_NN1 ,_, Push()_VV0 and_CC IsEmpty()_JJ operations_NN2 ._. 
+</s>
+<s>
+When_CS this_DD1 is_VBZ achieved_VVN ,_, the_AT algorithm_NN1 is_VBZ complete_JJ and_CC should_VM terminate_VVI ._. 
+</s>
+<s>
+Ideally_RR ,_, the_AT algorithm_NN1 should_VM avoid_VVI revisiting_VVG squares_NN2 unless_CS a_AT1 dead_JJ end_NN1 has_VHZ been_VBN encountered_VVN and_CC it_PPH1 is_VBZ attempting_VVG to_TO find_VVI a_AT1 valid_JJ path_NN1 ._. 
+</s>
+<s>
+When_CS a_AT1 dead_JJ end_NN1 is_VBZ encountered_VVN ,_, Pop()_NN1 should_VM be_VBI used_VVN until_CS it_PPH1 arrives_VVZ back_RP at_II a_AT1 position_NN1 that_CST offers_VVZ an_AT1 alternate_JJ path_NN1 ._. 
+</s>
+<s>
+The_AT two-dimensional_JJ input_NN1 array_NN1 M_NN1 models_NN2 the_AT maze_NN1 ._. 
+</s>
+<s>
+"_" Wall_NN1 "_" elements_NN2 will_VM be_VBI assigned_VVN the_AT value_NN1 of_IO 1_MC1 ,_, while_CS "_" Path_NN1 "_" elements_NN2 have_VH0 the_AT value_NN1 zero_NN1 :_: The_AT LIFO_NN1 stack_NN1 P_ZZ1 will_VM store_VVI the_AT path_NN1 ,_, it_PPH1 is_VBZ initially_RR empty_JJ ._. 
+</s>
+<s>
+Positions_NN2 are_VBR stored_VVN in_II the_AT form_NN1 (_( I_ZZ1% ,_, J_ZZ1 ,_, dir_NN1 )_) ._. 
+</s>
+<s>
+Where_RRQ &lsqb;_( I_ZZ1% &rsqb;_) &lsqb;_( J_ZZ1 &rsqb;_) is_VBZ the_AT array_NN1 reference_NN1 of_IO the_AT current_JJ element_NN1 that_CST the_AT algorithm_NN1 has_VHZ arrived_VVN at_II ._. 
+</s>
+<s>
+The_AT LIFO_NN1 stack_NN1 D_ZZ1 to_TO store_VVI possible_JJ directions_NN2 is_VBZ initially_RR empty_JJ .._... 
+</s>
+<s>
+The_AT variable_NN1 DSize_NP1 will_VM be_VBI used_VVN to_TO store_VVI the_AT number_NN1 of_IO elements_NN2 in_II stack_NN1 D_ZZ1 dir_NN1 will_VM be_VBI initialised_VVN to_II 0_MC ._. 
+</s>
+<s>
+During_II run-time_NN1 ,_, it_PPH1 will_VM take_VVI one_MC1 of_IO four_MC values_NN2 1,2,3,4-_FO corresponding_VVG to_II the_AT 4_MC possible_JJ directions_NN2 North_ND1 ,_, South_ND1 ,_, East_ND1 and_CC West_ND1 ._. 
+</s>
+<s>
+The_AT Entry_NN1 co-ordinate_NN1 is_VBZ A_ZZ1 (_( I_ZZ1% A_ZZ1 ,_, J_ZZ1 A_ZZ1 )_) and_CC the_AT Exit_NN1 co-ordinate_NN1 is_VBZ B_ZZ1 (_( I_ZZ1% B_ZZ1 ,_, J_ZZ1 B_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT following_JJ is_VBZ designed_VVN as_II a_AT1 general_JJ solution_NN1 to_TO work_VVI for_IF any_DD maze_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT more_RGR complex_JJ the_AT maze_NN1 is_VBZ ,_, the_AT longer_JJR the_AT running_JJ time_NNT1 ._. 
+</s>
+<s>
+In_II this_DD1 section_NN1 I_PPIS1 make_VV0 comments_NN2 in_II italics_NN2 ._. 
+</s>
+<s>
+Here_RL I_PPIS1 refer_VV0 to_II the_AT I_ZZ1% or_CC J_ZZ1 parts_NN2 of_IO the_AT co-ordinates_NN2 in_II the_AT form_NN1 A.I_NN1 and_CC A.J_NP1 ,_, like_II this_DD1 :_: Peek(P).I_NP1 and_CC Peek(P).J_NP1 ,_, where_CS A_ZZ1 is_VBZ the_AT co-ordinate_NN1 ._. 
+</s>
+<s>
+Assume_VV0 the_AT starting_NN1 values_NN2 :_: In_II an_AT1 actual_JJ program_NN1 ,_, the_AT co-ordinates_NN2 would_VM probably_RR be_VBI represented_VVN by_II a_AT1 pair_NN of_IO linked-lists_NN2 ._. 
+</s>
+<s>
+LOOK_VV0 function_NN1 defined_VVD to_TO provide_VVI information_NN1 about_II surroundings_NN2 :_: For_IF easier_JJR reading_NN1 I_PPIS1 will_VM refer_VVI to_II the_AT lengthy_JJ LOOK_NN1 function_NN1 calls_VVZ as_CSA follows_VVZ :_: Each_DD1 cycle_NN1 of_IO while_NNT1 loop_NN1 updates_NN2 stack_VV0 so_RR that_DD1 top_NN1 of_IO the_AT stack_NN1 shows_VVZ the_AT co-ordinates_NN2 and_CC direction_NN1 of_IO next_MD square_NN1 ._. 
+</s>
+<s>
+Pseudocode_VV0 program_NN1 begins_VVZ here_RL :_: End_NN1 of_IO Algorithm_NN1 ._. 
+</s>
+<s>
+Pseudocode_VV0 program_NN1 ends_NN2 ._. 
+</s>
+<s>
+The_AT starting_NN1 square_NN1 is_VBZ given_VVN by_II the_AT position_NN1 (_( 3,0,0_MC )_) ._. 
+</s>
+<s>
+The_AT following_JJ is_VBZ a_AT1 trace_NN1 of_IO the_AT "_" state_NN1 "_" space_NN1 of_IO the_AT algorithm_NN1 showing_VVG all_DB the_AT positions_NN2 that_CST are_VBR recorded_VVN in_II the_AT LIFO_NN1 from_II start_NN1 to_II finish_NN1 ._. 
+</s>
+<s>
+Reminder_NN1 ,_, the_AT third_MD figures_NN2 mean_VV0 as_CSA follows_VVZ :_: 1=North_FO ,_, 2=South_FO ,_, 3=East_FO ,_, 4=West_FO ._. 
+</s>
+<s>
+Note_VV0 that_CST for_IF my_APPGE own_DA maze_NN1 in_RR21 particular_RR22 ,_, the_AT table_NN1 is_VBZ a_AT1 complete_JJ transcript_NN1 of_IO the_AT actual_JJ route_NN1 taken_VVN ._. 
+</s>
+<s>
+The_AT P_ZZ1 stack_VV0 that_CST the_AT program_NN1 produces_VVZ will_VM be_VBI more_RGR concise_JJ and_CC will_VM not_XX have_VHI repeated_VVN co-ordinates_NN2 ._. 
+</s>

@@ -1,0 +1,369 @@
+<s>
+Our_APPGE task_NN1 is_VBZ to_TO propose_VVI a_AT1 model_NN1 that_CST provides_VVZ a_AT1 theoretical_JJ rationale_NN1 linking_VVG two_MC economic_JJ variables_NN2 and_CC investigate_VV0 their_APPGE relationship_NN1 ._. 
+</s>
+<s>
+The_AT two_MC variables_NN2 we_PPIS2 have_VH0 chosen_VVN are_VBR investment_NN1 and_CC interest_NN1 rates_NN2 ._. 
+</s>
+<s>
+In_II finding_VVG time_NNT1 series_NN data_NN for_IF these_DD2 variables_NN2 we_PPIS2 used_VVD gross_JJ fixed_JJ capital_NN1 formation_NN1 for_IF investment_NN1 and_CC interest_NN1 rates_NN2 on_II 10-year_JJ government_NN1 bonds_NN2 for_IF interest_NN1 rates_NN2 ._. 
+</s>
+<s>
+Gross_JJ fixed_JJ capital_NN1 formation_NN1 is_VBZ the_AT addition_NN1 to_II capital_NN1 stock_NN1 minus_II depreciation_NN1 ._. 
+</s>
+<s>
+Interest_NN1 rates_NN2 on_II 10-year_JJ government_NN1 bonds_NN2 were_VBDR used_VVN because_CS they_PPHS2 represent_VV0 interest_NN1 rates_NN2 over_II a_AT1 time_NNT1 period_NN1 sufficient_JJ for_IF completion_NN1 of_IO investment_NN1 projects_NN2 ._. 
+</s>
+<s>
+The_AT countries_NN2 we_PPIS2 chose_VVD for_IF analysis_NN1 are_VBR the_AT United_NP1 Kingdom_NP1 ,_, Netherlands_NP1 and_CC Denmark_NP1 ,_, all_DB members_NN2 of_IO the_AT EU_NP1 and_CC OECD_NP1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 collected_VVN quarterly_JJ time_NNT1 series_NN data_NN for_IF the_AT period_NN1 1992-2003_MCMC as_CSA shown_VVN below_RL :_: Investment_NN1 spending_VVG by_II firms_NN2 depends_VVZ on_II two_MC factors_NN2 :_: the_AT level_NN1 of_IO sales_NN and_CC the_AT real_JJ interest_NN1 rate_NN1 ._. 
+</s>
+<s>
+A_AT1 country_NN1 facing_VVG an_AT1 increase_NN1 in_II sales_NN needs_VVZ to_TO increase_VVI production_NN1 to_TO meet_VVI increasing_JJ demand_NN1 ._. 
+</s>
+<s>
+To_TO do_VDI so_RR it_PPH1 may_VM need_VVI to_TO buy_VVI additional_JJ machines_NN2 or_CC build_VV0 additional_JJ plants_NN2 ._. 
+</s>
+<s>
+Conversely_RR a_AT1 country_NN1 facing_VVG low_JJ sales_NN has_VHZ no_AT need_NN1 to_TO spend_VVI on_II investment_NN1 ._. 
+</s>
+<s>
+Similarly_RR ,_, since_CS most_DAT investment_NN1 projects_NN2 are_VBR financed_VVN through_II loans_NN2 ,_, the_AT higher_JJR the_AT interest_NN1 rate_NN1 ,_, the_AT less_RGR attractive_JJ it_PPH1 is_VBZ to_TO borrow_VVI for_IF investment_NN1 ._. 
+</s>
+<s>
+At_II a_AT1 high_JJ enough_DD interest_NN1 rate_NN1 ,_, the_AT incremental_JJ profits_NN2 will_VM not_XX be_VBI sufficient_JJ to_II equal_JJ the_AT cost_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+In_II our_APPGE model_NN1 we_PPIS2 assume_VV0 that_CST nominal_JJ interest_NN1 rates_NN2 are_VBR equal_JJ to_II real_JJ interest_NN1 rates_NN2 since_CS inflation_NN1 is_VBZ kept_VVN at_II low_JJ and_CC stable_JJ levels_NN2 in_II most_DAT developed_JJ countries_NN2 ,_, however_RR higher_JJR inflation_NN1 can_VM affect_VVI the_AT level_NN1 of_IO investment_NN1 ._. 
+</s>
+<s>
+The_AT investment_NN1 relation_NN1 states_VVZ that_DD1 investment_NN1 ,_, I_PPIS1 ,_, depends_VVZ on_II production_NN1 Y_ZZ1 and_CC interest_NN1 rate_NN1 ._. 
+</s>
+<s>
+The_AT positive_JJ sign_NN1 under_II Y_ZZ1 indicates_VVZ that_CST an_AT1 increase_NN1 in_II production_NN1 leads_VVZ to_II an_AT1 increase_NN1 in_II investment_NN1 ._. 
+</s>
+<s>
+The_AT negative_JJ sign_NN1 under_II the_AT interest_NN1 rate_NN1 ,_, ,_, indicates_VVZ that_CST an_AT1 increase_NN1 in_II the_AT interest_NN1 rate_NN1 leads_VVZ to_II a_AT1 decrease_NN1 in_II investment_NN1 ._. 
+</s>
+<s>
+The_AT negative_JJ relation_NN1 between_II interest_NN1 rates_NN2 and_CC investment_NN1 as_CSA proposed_VVN by_II theory_NN1 can_VM be_VBI seen_VVN in_II the_AT scatter_NN1% diagrams_NN2 below_RL for_IF our_APPGE countries_NN2 ._. 
+</s>
+<s>
+The_AT interest_NN1 rate_NN1 ,_, the_AT independent_JJ variable_NN1 ,_, is_VBZ plotted_VVN on_II the_AT x-axis_NN1 and_CC gross_JJ capital_NN1 formation_NN1 ,_, the_AT dependent_JJ variable_NN1 ,_, is_VBZ plotted_VVN on_II the_AT y-axis_NN1 ._. 
+</s>
+<s>
+The_AT British_JJ economy_NN1 experienced_VVD nine_MC years_NNT2 of_IO economic_JJ growth_NN1 after_II the_AT last_MD recession_NN1 in_II autumn_NNT1 of_IO 1992_MC ._. 
+</s>
+<s>
+Since_II 1996_MC the_AT level_NN1 of_IO real_JJ national_JJ output_NN1 has_VHZ grown_VVN in_II31 excess_II32 of_II33 2%_NNU each_DD1 year_NNT1 ,_, investment_NN1 in_II the_AT UK_NP1 grew_VVD uniformly_RR throughout_II this_DD1 period_NN1 ._. 
+</s>
+<s>
+Under_II the_AT Thatcher_NP1 government_NN1 in_II 1990_MC the_AT UK_NP1 joined_VVD the_AT Exchange_NN1 Rate_NN1 Mechanism_NN1 (_( ERM_FU )_) at_II a_AT1 high_JJ rate_NN1 as_CSA predicted_VVN ._. 
+</s>
+<s>
+The_AT pound_NN1 was_VBDZ fixed_VVN to_II the_AT Deutschemark_NN1 and_CC from_II 1990_MC until_II 1993_MC the_AT main_JJ concern_NN1 of_IO the_AT British_JJ authorities_NN2 was_VBDZ to_TO keep_VVI the_AT parity_NN1 with_IW the_AT Deutschmark_NNU1 ._. 
+</s>
+<s>
+This_DD1 resulted_VVD in_II increases_NN2 in_II interest_NN1 rates_NN2 to_TO keep_VVI the_AT pound_NN1 within_II the_AT ERM_NN1 ._. 
+</s>
+<s>
+Although_CS the_AT British_JJ economy_NN1 was_VBDZ entering_VVG recession_NN1 and_CC lower_JJR interest_NN1 rates_NN2 would_VM have_VHI helped_VVN ._. 
+</s>
+<s>
+On_II Black_JJ Wednesday_NPD1 (_( 16/9/1992_MF )_) the_AT UK_NP1 left_VVD the_AT ERM_NN1 and_CC allowed_VVD the_AT pound_NN1 to_TO float_VVI freely_RR ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO recover_VVI interest_NN1 rates_NN2 were_VBDR reduced_VVN by_II 4%_NNU then_RT onwards_RR interest_NN1 rates_NN2 were_VBDR used_VVN as_II a_AT1 monetary_JJ tool_NN1 to_TO maintain_VVI inflation_NN1 within_II 1-4%_FO ._. 
+</s>
+<s>
+Since_II 1994_MC UK_NP1 economy_NN1 has_VHZ experienced_VVN increases_NN2 in_II economic_JJ growth_NN1 ._. 
+</s>
+<s>
+Interest_NN1 rates_NN2 were_VBDR raised_VVN in_II 1994-1995_MCMC to_TO keep_VVI inflation_NN1 within_II targets_NN2 ._. 
+</s>
+<s>
+In_II 1997_MC the_AT Bank_NN1 of_IO England_NP1 was_VBDZ made_VVN independent_JJ ;_; since_II then_RT ,_, the_AT Monetary_JJ Policy_NN1 Committee_NN1 (_( MPC_NP1 )_) has_VHZ been_VBN free_JJ to_TO set_VVI interest_NN1 rates_NN2 to_TO keep_VVI inflation_NN1 around_II 2.5%_FO ._. 
+</s>
+<s>
+Monetary_JJ independence_NN1 decreased_VVD long-term_JJ interest_NN1 rates_NN2 reducing_VVG the_AT cost_NN1 of_IO borrowing_NN1 ,_, resulting_VVG in_II steady_JJ increases_NN2 in_II investment_NN1 between_II 1997_MC and_CC 2003_MC ._. 
+</s>
+<s>
+At_II the_AT end_NN1 of_IO 1999_MC the_AT house_NN1 booms_NN2 lead_VV0 the_AT MPC_NP1 to_TO raise_VVI interest_NN1 rates_NN2 to_TO maintain_VVI the_AT low_JJ inflation_NN1 performance_NN1 that_CST the_AT UK_NP1 had_VHD enjoyed_VVN ._. 
+</s>
+<s>
+Investment_NN1 remained_VVD at_II similar_JJ levels_NN2 mostly_RR due_II21 to_II22 the_AT credibility_NN1 of_IO monetary_JJ policy_NN1 ._. 
+</s>
+<s>
+From_II 2000_MC to_II 2003_MC the_AT UK_NP1 experienced_VVD positive_JJ economic_JJ growth_NN1 but_CCB was_VBDZ slowed_VVN by_II the_AT central_JJ European_JJ deceleration_NN1 ._. 
+</s>
+<s>
+Despite_II this_DD1 investment_NN1 showed_VVD positive_JJ growth_NN1 throughout_II this_DD1 period_NN1 ._. 
+</s>
+<s>
+Loss_NN1 in_II competitiveness_NN1 in_II the_AT 1990s_MC2 ,_, high_JJ growth_NN1 with_IW low_JJ interest_NN1 rates_NN2 between_II 1995_MC and_CC 2000_MC led_VVD to_TO labour_VVI shortages_NN2 which_DDQ affected_VVD the_AT price/wage_NN1 setting_NN1 curve_NN1 ._. 
+</s>
+<s>
+During_II the_AT period_NN1 of_IO 1995_MC to_II 2000_MC there_EX were_VBDR steady_JJ increases_NN2 in_II investment_NN1 ,_, from_II 15000m_NNU to_II 22000m_NNU ._. 
+</s>
+<s>
+Since_II then_RT labour_VV0 problems_NN2 have_VH0 been_VBN partly_RR solved_VVN ,_, fixed_JJ term_NN1 contracts_NN2 were_VBDR liberalised_VVN ,_, dismissals_NN2 made_VVD easier_RRR and_CC tax_NN1 credits_VVZ to_II the_AT lower_JJR earners_NN2 increased_VVN ,_, which_DDQ have_VH0 made_VVN the_AT Dutch_JJ labour_NN1 force_NN1 more_RGR flexible_JJ resulting_JJ in_II 3%_NNU unemployment_NN1 in_II 2002_MC ._. 
+</s>
+<s>
+Private_JJ consumption_NN1 contracted_VVN in_II 2003_MC because_II21 of_II22 stagnation_NN1 in_II the_AT house_NN1 market_NN1 and_CC ends_VVZ to_II mortgage_NN1 equity_NN1 withdrawals_NN2 ._. 
+</s>
+<s>
+This_DD1 may_VM have_VHI contributed_VVN to_II the_AT slump_NN1 in_II investment_NN1 in_II 2003_MC ._. 
+</s>
+<s>
+The_AT Netherlands_NP1 has_VHZ an_AT1 export-reliant_JJ economy_NN1 and_CC is_VBZ particularly_RR attractive_JJ to_II foreign_JJ investment_NN1 ,_, so_CS it_PPH1 depends_VVZ on_II foreign_JJ capital_NN1 flowing_VVG into_II the_AT country_NN1 ._. 
+</s>
+<s>
+The_AT Netherlands_NP1 participated_VVD in_II the_AT EMU_NN1 and_CC since_II 1994_MC pursued_VVD a_AT1 budgetary_JJ policy_NN1 that_CST must_VM satisfy_VVI European_JJ requirements_NN2 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ also_RR pegged_VVN with_IW the_AT Deutschemark_NN1 until_II 1999_MC when_RRQ the_AT EMU_NN1 was_VBDZ introduced_VVN ._. 
+</s>
+<s>
+The_AT trends_NN2 show_VV0 that_CST the_AT variables_NN2 move_VV0 inversely_RR ._. 
+</s>
+<s>
+There_EX is_VBZ ,_, however_RR ,_, a_AT1 delay_NN1 of_IO two_MC or_CC three_MC months_NNT2 after_II an_AT1 interest_NN1 rate_NN1 change_NN1 before_II investment_NN1 responds_VVZ ._. 
+</s>
+<s>
+At_II the_AT beginning_NN1 of_IO our_APPGE time_NNT1 interval_NN1 ,_, Dutch_JJ rates_NN2 were_VBDR over_RG 8%_NNU and_CC investment_NN1 was_VBDZ at_II 15,000m_NNU ,_, up_II21 until_II22 1995_MC the_AT investment_NN1 level_NN1 stayed_VVD fairly_RR constant_JJ ,_, although_CS it_PPH1 varied_VVD each_DD1 quarter_NN1 it_PPH1 stayed_VVD between_II 14,000m_NNU and_CC 17,000m_NNU ._. 
+</s>
+<s>
+At_II the_AT same_DA time_NNT1 interest_NN1 rates_NN2 were_VBDR falling_VVG and_CC dipped_VVD below_RG 6%_NNU in_II Q4_FO 1993_MC before_II climbing_VVG to_II 7.5%_FO in_II Q1_FO 1995_MC ._. 
+</s>
+<s>
+Between_II 1995_MC and_CC 1999_MC shows_VVZ the_AT clearest_JJT relationship_NN1 between_II the_AT variables_NN2 ._. 
+</s>
+<s>
+There_EX were_VBDR constant_JJ declines_VVZ in_II interest_NN1 rates_NN2 ,_, reduced_VVN from_II 7.5%_FO in_II 1995_MC to_II 4%_NNU in_II 1999_MC ;_; simultaneously_RR investment_NN1 rose_VVD from_II 16,000_MC in_II 1995_MC to_II 20,000_MC by_II Q1_FO 1999_MC and_CC to_II 22,300_MC by_II Q4_FO ._. 
+</s>
+<s>
+After_II 1999_MC interest_NN1 rates_NN2 began_VVD to_TO rise_VVI and_CC hovered_VVD around_RG 5%_NNU until_CS mid_JJ 2002_MC ._. 
+</s>
+<s>
+By_II the_AT beginning_NN1 of_IO 2003_MC they_PPHS2 had_VHD dropped_VVN to_II 4%_NNU ._. 
+</s>
+<s>
+In_II the_AT same_DA period_NN1 investment_NN1 reduced_VVN from_II 22,000_MC to_II 20,000_MC ._. 
+</s>
+<s>
+The_AT Danish_JJ economy_NN1 is_VBZ very_RG dependent_JJ on_II trade_NN1 with_IW other_JJ countries_NN2 and_CC lacks_VVZ the_AT possibility_NN1 to_TO influence_VVI international_JJ economic_JJ factors_NN2 ,_, e.g._REX interest_NN1 rates_NN2 ._. 
+</s>
+<s>
+Denmark_NP1 has_VHZ experienced_VVN moderate_JJ economic_JJ growth_NN1 since_CS the_AT slowdown_NN1 of_IO the_AT 1990_MC 's_GE ._. 
+</s>
+<s>
+Economic_JJ growth_NN1 from_II 1987_MC to_II 1993_MC averaged_VVD less_DAR than_CSN 1%_NNU a_AT1 year_NNT1 ._. 
+</s>
+<s>
+In_II 1994-1996_MCMC growth_NN1 averaged_VVN 3.4%_FO ,_, in_II 1997-1998_MCMC 3%_NNU and_CC in_II 2000_MC GDP_NN1 increased_VVN to_II 3.6%_FO ._. 
+</s>
+<s>
+In_II 1993_MC ,_, as_CSA Finland_NP1 and_CC Sweden_NP1 were_VBDR applying_VVG for_IF EU_NP1 membership_NN1 ,_, Denmark_NP1 negotiated_VVD separate_JJ terms_NN2 for_IF their_APPGE existing_JJ membership_NN1 ._. 
+</s>
+<s>
+Denmark_NP1 had_VHD joined_VVN the_AT European_JJ Community_NN1 (_( pre-form_NN1 of_IO EU_NP1 )_) in_II 1973_MC ._. 
+</s>
+<s>
+In_II the_AT Edinburgh_NP1 summit_NN1 ,_, December_NPM1 1992_MC ,_, Denmark_NP1 excluded_VVD themselves_PPX2 from_II the_AT third_MD phase_NN1 of_IO the_AT EMU_NN1 (_( European_JJ Monetary_JJ Union_NN1 )_) thus_RR not_XX taking_VVG the_AT Euro_JJ as_CSA their_APPGE currency_NN1 ._. 
+</s>
+<s>
+Denmark_NP1 allowed_VVD the_AT currency_NN1 to_TO be_VBI pegged_VVN to_II Euro_JJ later_RRR on_RP with_IW a_AT1 somewhat_RR fixed_JJ rate_NN1 ,_, within_II a_AT1 band_NN1 of_IO +/-_FU 2_MC ,_, 25%_NNU ._. 
+</s>
+<s>
+Interest_NN1 rates_NN2 in_II Denmark_NP1 follow_VV0 a_AT1 similar_JJ pattern_NN1 to_II the_AT UK_NP1 and_CC Netherlands_NP1 ._. 
+</s>
+<s>
+The_AT beginning_NN1 of_IO the_AT period_NN1 was_VBDZ characterised_VVN by_II the_AT European_JJ Monetary_JJ System_NN1 crisis_NN1 ._. 
+</s>
+<s>
+When_CS DEK_NP1 was_VBDZ pegged_VVN to_II Deutschmark_NNU1 and_CC Germany_NP1 raised_VVD their_APPGE interest_NN1 rates_NN2 ,_, Denmark_NP1 had_VHD to_TO follow_VVI ,_, even_CS21 though_CS22 this_DD1 harmed_VVD their_APPGE economy_NN1 ._. 
+</s>
+<s>
+This_DD1 crisis_NN1 resulted_VVN in_II Denmark_NP1 leaving_VVG the_AT ERM_NN1 and_CC reducing_VVG their_APPGE interest_NN1 rates_NN2 to_II 6%_NNU ._. 
+</s>
+<s>
+After_CS this_DD1 point_NN1 started_VVD the_AT "_" consumer-lead_JJ growth_NN1 "_" lasting_VVG until_II the_AT end_NN1 of_IO the_AT decade_NNT1 ._. 
+</s>
+<s>
+In_II 1994-1995_MCMC Denmark_NP1 raised_VVD their_APPGE interest_NN1 rates_NN2 following_VVG the_AT Federal_JJ Reserve_JJ Bank_NN1 in_II United_NP1 States_NP1 ._. 
+</s>
+<s>
+In_II March_NPM1 1995_MC Denmark_NP1 realigned_VVD with_IW the_AT ERM_NN1 and_CC followed_VVD the_AT interest_NN1 rates_NN2 of_IO other_JJ ERM_NN1 countries_NN2 ._. 
+</s>
+<s>
+In_II 1999_MC the_AT actual_JJ exchange_NN1 rates_NN2 were_VBDR fixed_VVN between_II the_AT ERM_NN1 countries_NN2 and_CC from_II this_DD1 point_NN1 the_AT Danish_JJ interest_NN1 rates_NN2 have_VH0 been_VBN almost_RR exactly_RR equal_JJ to_II the_AT Euro_JJ zone_NN1 ones_NN2 ._. 
+</s>
+<s>
+From_II the_AT graph_NN1 above_RL we_PPIS2 can_VM see_VVI that_CST the_AT countries_NN2 have_VH0 similar_JJ interest_NN1 rate_NN1 trends_NN2 ,_, conducting_VVG a_AT1 hypothesis_NN1 test_NN1 will_VM see_VVI if_CSW their_APPGE respective_JJ population_NN1 means_NN are_VBR equal_JJ within_II a_AT1 5%_NNU significance_NN1 level_NN1 ._. 
+</s>
+<s>
+We_PPIS2 will_VM test_VVI each_DD1 nation_NN1 with_IW each_PPX221 other_PPX222 but_CCB not_XX their_APPGE investment_NN1 means_VVZ due_II21 to_II22 the_AT different_JJ relative_JJ sizes_NN2 of_IO the_AT economies_NN2 ._. 
+</s>
+<s>
+The_AT UK_NP1 has_VHZ a_AT1 significantly_RR higher_JJR level_NN1 of_IO investment_NN1 than_CSN both_RR the_AT Netherlands_NP1 and_CC Denmark_NP1 simply_RR due_II21 to_II22 the_AT size_NN1 of_IO the_AT economy_NN1 ._. 
+</s>
+<s>
+We_PPIS2 will_VM use_VVI central_JJ limit_NN1 theorem_NN1 (_( n_ZZ1 30_MC )_) to_TO approximate_VVI a_AT1 normal_JJ distribution_NN1 and_CC decipher_VVI if_CSW the_AT null_JJ hypothesis_NN1 can_VM be_VBI rejected_VVN or_CC not_XX within_II a_AT1 5%_NNU significance_NN1 level_NN1 ._. 
+</s>
+<s>
+At_II the_AT 5%_NNU significant_JJ level_NN1 we_PPIS2 reject_VV0 if_CS OR_CC ._. 
+</s>
+<s>
+Given_CS21 that_CS22 Z1_FO =_FO 0.730548172_MC 1.96_MC we_PPIS2 do_VD0 not_XX reject_VVI at_II the_AT set_NN1 significance_NN1 level_NN1 of_IO 5%_NNU ._. 
+</s>
+<s>
+Therefore_RR the_AT mean_JJ interest_NN1 rates_NN2 of_IO the_AT United_NP1 Kingdom_NP1 and_CC those_DD2 of_IO Denmark_NP1 are_VBR equal_JJ within_II our_APPGE set_NN1 accuracy_NN1 criteria_NN2 ._. 
+</s>
+<s>
+Now_RT a_AT1 similar_JJ hypothesis_NN1 regarding_II the_AT United_NP1 Kingdom_NP1 and_CC the_AT Netherlands_NP1 ;_; ._. 
+</s>
+<s>
+At_II the_AT 5%_NNU significant_JJ level_NN1 we_PPIS2 reject_VV0 if_CS OR_CC ._. 
+</s>
+<s>
+We_PPIS2 find_VV0 that_CST Z2_FO =_FO 2.8742665_MC 1.96_MC and_CC so_RR we_PPIS2 reject_VV0 ._. 
+</s>
+<s>
+So_RR ,_, mean_JJ interest_NN1 rates_NN2 of_IO the_AT United_NP1 Kingdom_NP1 and_CC the_AT Netherlands_NP1 are_VBR not_XX equal_JJ taking_VVG the_AT significance_NN1 level_NN1 to_TO be_VBI 5%_NNU ._. 
+</s>
+<s>
+Lastly_RR we_PPIS2 will_VM compare_VVI the_AT final_JJ combination_NN1 from_II the_AT countries_NN2 :_: At_II the_AT 5%_NNU significant_JJ level_NN1 we_PPIS2 reject_VV0 if_CS OR_CC ._. 
+</s>
+<s>
+Here_RL Z3_FO =_FO 2.10177323_MC 1.96_MC and_CC so_RR we_PPIS2 reject_VV0 ._. 
+</s>
+<s>
+The_AT population_NN1 mean_VV0 for_IF interest_NN1 rates_NN2 in_II Demark_NP1 is_VBZ not_XX equal_JJ with_IW that_DD1 of_IO the_AT Netherlands_NP1 when_CS using_VVG a_AT1 5%_NNU significance_NN1 level_NN1 ._. 
+</s>
+<s>
+We_PPIS2 tested_VVD the_AT hypotheses_NN2 using_VVG an_AT1 average_NN1 of_IO the_AT interest_NN1 rate_NN1 over_II the_AT twelve_MC years_NNT2 ._. 
+</s>
+<s>
+If_CS we_PPIS2 look_VV0 closer_RRR there_EX is_VBZ a_AT1 divergence_NN1 of_IO the_AT rates_NN2 starting_VVG from_II September_NPM1 1992_MC caused_VVN by_II crisis_NN1 within_II the_AT ERM_NN1 and_CC subsequently_RR certain_JJ nations_NN2 including_II Britain_NP1 and_CC Italy_NP1 leaving_VVG it_PPH1 ._. 
+</s>
+<s>
+At_II its_APPGE peak_NN1 the_AT difference_NN1 between_II the_AT rates_NN2 of_IO the_AT nations_NN2 was_VBDZ 2%_NNU in_II 1996_MC ,_, after_CS that_CST they_PPHS2 began_VVD converging_JJ and_CC moved_VVD together_RL up_RP until_CS they_PPHS2 reached_VVD a_AT1 common_JJ point_NN1 with_IW the_AT introduction_NN1 of_IO the_AT EMU_NN1 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 Great_NP1 Britain_NP1 and_CC Denmark_NP1 did_VDD not_XX join_VVI the_AT new_JJ currency_NN1 they_PPHS2 were_VBDR within_II a_AT1 half_DB a_AT1 percentage_NN1 point_NN1 of_IO Holland_NP1 from_II Q1_FO 1999_MC until_CS Q4_FO 2003_MC ._. 
+</s>
+<s>
+We_PPIS2 backed_VVD up_RP our_APPGE rationale_NN1 by_II mathematical_JJ tools_NN2 ,_, using_VVG regression_NN1 ,_, correlation_NN1 and_CC descriptive_JJ statistics_NN ._. 
+</s>
+<s>
+Descriptive_JJ statistics_NN show_VV0 information_NN1 on_II each_DD1 country_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 from_II Excel_VV0 :_: We_PPIS2 compared_VVD how_RRQ interest_NN1 rates_NN2 and_CC investment_NN1 varied_VVN across_II countries_NN2 ._. 
+</s>
+<s>
+With_IW interest_NN1 rates_NN2 :_: By_II taking_VVG the_AT mean_JJ ,_, the_AT UK_NP1 had_VHD the_AT highest_JJT interest_NN1 rates_NN2 (_( 6.55%_FO )_) ,_, then_RT Denmark_NP1 (_( 6.32%_FO )_) and_CC tailed_VVD by_II Netherlands_NP1 (_( 5.72%_FO )_) ._. 
+</s>
+<s>
+Now_RT ,_, we_PPIS2 see_VV0 how_RRQ spread_VV0 out_RP interest_NN1 rates_NN2 are_VBR in_II each_DD1 country_NN1 ._. 
+</s>
+<s>
+Dispersion_NN1 is_VBZ similar_JJ in_II the_AT UK_NP1 and_CC Denmark_NP1 (_( found_VVN by_II comparing_VVG the_AT standard_JJ deviations_NN2 and_CC sample_NN1 variances_NN2 )_) ,_, whilst_CS rates_NN2 were_VBDR less_RRR dispersed_VVN in_II Netherlands_NP1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR compared_VVD dispersion_NN1 by_II looking_VVG at_II the_AT range_NN1 ._. 
+</s>
+<s>
+It_PPH1 confirms_VVZ that_CST the_AT UK_NP1 and_CC Denmark_NP1 had_VHD a_AT1 greater_JJR range_NN1 (_( hence_RR more_DAR dispersion_NN1 )_) than_CSN Netherlands_NP1 ._. 
+</s>
+<s>
+We_PPIS2 wanted_VVD to_TO see_VVI how_RRQ skewed_VVD the_AT data_NN was_VBDZ ._. 
+</s>
+<s>
+Skewness_NN1 shows_VVZ us_PPIO2 the_AT degree_NN1 of_IO asymmetry_NN1 of_IO a_AT1 distribution_NN1 around_II its_APPGE mean_JJ ._. 
+</s>
+<s>
+In_II Denmark_NP1 and_CC Netherlands_NP1 ,_, interest_NN1 rates_NN2 were_VBDR more_RGR positively_RR skewed_VVN ,_, indicating_VVG that_CST they_PPHS2 tended_VVD to_TO be_VBI of_IO higher_JJR values_NN2 ,_, whilst_CS in_II the_AT UK_NP1 ,_, rates_NN2 were_VBDR also_RR positively_RR skewed_VVN but_CCB tended_VVD to_TO be_VBI very_RG close_JJ to_II the_AT mean_JJ ._. 
+</s>
+<s>
+We_PPIS2 now_RT look_VV0 at_II investment_NN1 :_: In_II absolute_JJ terms_NN2 ,_, we_PPIS2 can_VM not_XX draw_VVI any_DD conclusions_NN2 from_II the_AT total_JJ value_NN1 of_IO investment_NN1 in_II31 relation_II32 to_II33 interest_NN1 rates_NN2 ,_, because_II21 of_II22 the_AT different_JJ sizes_NN2 of_IO countries_NN2 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ useful_JJ to_TO see_VVI how_RGQ widely_RR dispersed_JJ investment_NN1 is_VBZ ._. 
+</s>
+<s>
+By_II looking_VVG at_II the_AT standard_JJ deviation_NN1 and_CC sample_NN1 variance_NN1 ,_, the_AT UK_NP1 has_VHZ the_AT largest_JJT dispersion_NN1 in_II investment_NN1 ,_, followed_VVN by_II the_AT Netherlands_NP1 and_CC Denmark_NP1 ._. 
+</s>
+<s>
+It_PPH1 seems_VVZ that_CST more_DAR dispersion_NN1 in_II interest_NN1 rates_NN2 does_VDZ not_XX necessarily_RR mean_VVI more_DAR dispersion_NN1 in_II investment_NN1 levels_NN2 ,_, Netherlands_NP1 and_CC Denmark_NP1 show_NN1 ._. 
+</s>
+<s>
+In_II the_AT UK_NP1 and_CC Denmark_NP1 ,_, investment_NN1 is_VBZ almost_RR non-skewed_JJ ,_, whilst_CS in_II the_AT Netherlands_NP1 ,_, investment_NN1 is_VBZ negatively_RR skewed_VVN ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ to_TO identify_VVI and_CC prove_VVI which_DDQ variable_NN1 depends_VVZ on_II which_DDQ (_( i.e._REX causation_NN1 )_) ._. 
+</s>
+<s>
+Regression_NN1 analysis_NN1 will_VM help_VVI us_PPIO2 do_VDI this_DD1 ._. 
+</s>
+<s>
+Assuming_VVG a_AT1 linear_JJ relationship_NN1 between_II interest_NN1 rates_NN2 and_CC investment_NN1 ,_, the_AT mathematical_JJ relationship_NN1 between_II the_AT interest_NN1 rates_NN2 and_CC investment_NN1 is_VBZ a_AT1 regression_NN1 function_NN1 of_IO investment_NN1 on_II interest_NN1 rates_NN2 ._. 
+</s>
+<s>
+A_AT1 linear_JJ regression_NN1 model_NN1 takes_VVZ the_AT form_NN1 of_IO where_RRQ :_: x_ZZ1 represents_VVZ the_AT independent_JJ variable_NN1 ;_; the_AT interest_NN1 rates_NN2 of_IO 10-year_JJ government_NN1 bonds_NN2 ._. 
+</s>
+<s>
+represents_VVZ the_AT gradient_NN1 of_IO the_AT line_NN1 ,_, also_RR known_VVN as_II the_AT regression_NN1 coefficient_NN1 of_IO y_ZZ1 on_II x_ZZ1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ calculated_VVN by_II :_: ._. 
+</s>
+<s>
+Should_VM b_ZZ1 be_VBI positive_JJ ,_, a_AT1 direct_JJ relationship_NN1 would_VM exist_VVI between_II x_ZZ1 and_CC y_ZZ1 ;_; should_VM b_ZZ1 be_VBI negative_JJ ,_, x_ZZ1 and_CC y_ZZ1 will_VM be_VBI inversely_RR proportional_JJ ._. 
+</s>
+<s>
+represents_VVZ the_AT y-intercept_VV0 ;_; the_AT level_NN1 of_IO investment_NN1 undertaken_VVN when_CS interest_NN1 rates_NN2 are_VBR zero_MC ._. 
+</s>
+<s>
+y_ZZ1 represents_VVZ the_AT dependant_JJ variable_NN1 ;_; the_AT level_NN1 of_IO investment_NN1 for_IF a_AT1 given_JJ interest_NN1 rate_NN1 ._. 
+</s>
+<s>
+represents_VVZ the_AT error_NN1 term_NN1 which_DDQ accounts_VVZ for_IF the_AT variability_NN1 in_II y_ZZ1 that_CST can_VM not_XX be_VBI explained_VVN by_II the_AT linear_JJ relationship_NN1 between_II x_ZZ1 and_CC y_ZZ1 ._. 
+</s>
+<s>
+Let_VM21 's_VM22 look_VVI at_II the_AT regression_NN1 lines_NN2 generated_VVN for_IF the_AT countries_NN2 :_: The_AT regression_NN1 lines_NN2 portray_VV0 an_AT1 inverse_JJ relationship_NN1 between_II interest_NN1 rates_NN2 and_CC investment_NN1 ._. 
+</s>
+<s>
+However_RR ,_, we_PPIS2 can_VM not_XX tell_VVI in_II which_DDQ country_NN1 this_DD1 relationship_NN1 is_VBZ more_RGR pronounced_JJ ._. 
+</s>
+<s>
+So_RR ,_, correlation_NN1 must_VM be_VBI introduced_VVN ._. 
+</s>
+<s>
+The_AT product-moment_JJ correlation_NN1 coefficient_NN1 (_( r_ZZ1 )_) indicates_VVZ the_AT linear_JJ degree_NN1 of_IO scatter_NN1% ;_; how_RGQ strongly_RR the_AT variables_NN2 are_VBR linked_VVN ._. 
+</s>
+<s>
+It_PPH1 takes_VVZ a_AT1 value_NN1 between_II -1_MC and_CC 1_MC1 ._. 
+</s>
+<s>
+The_AT closer_JJR r_ZZ1 is_VBZ to_II -1_MC or_CC 1_MC1 ,_, the_AT closer_JJR the_AT points_NN2 on_II the_AT scatter_NN1% diagram_NN1 are_VBR to_II the_AT regression_NN1 line_NN1 and_CC hence_RR the_AT stronger_JJR the_AT relationship_NN1 between_II the_AT variables_NN2 ._. 
+</s>
+<s>
+We_PPIS2 conclude_VV0 that_CST the_AT variables_NN2 are_VBR inversely_RR proportional_JJ ,_, and_CC the_AT relationship_NN1 between_II the_AT level_NN1 of_IO investment_NN1 and_CC interest_NN1 rates_NN2 is_VBZ most_RGT strongly_RR felt_VVN in_II the_AT UK_NP1 ,_, followed_VVN by_II Denmark_NP1 and_CC lastly_RR in_II Netherlands_NP1 ._. 
+</s>
+<s>
+Through_II using_VVG theoretical_JJ and_CC mathematical_JJ tools_NN2 we_PPIS2 have_VH0 verified_VVN the_AT relationship_NN1 between_II interest_NN1 rates_NN2 (_( exogenous_JJ variable_NN1 )_) and_CC investment_NN1 levels_NN2 (_( endogenous_JJ variable_NN1 )_) ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 clear_JJ and_CC evident_JJ inverse_JJ relationship_NN1 between_II the_AT two_MC which_DDQ varies_VVZ across_II the_AT countries_NN2 ._. 
+</s>
+<s>
+As_CSA interest_NN1 rates_NN2 increase_VV0 investment_NN1 falls_NN2 ._. 
+</s>
+<s>
+However_RR ,_, investment_NN1 is_VBZ not_XX solely_RR affected_VVN by_II interest_NN1 rates_NN2 ;_; there_EX are_VBR other_JJ factors_NN2 which_DDQ influence_VV0 it_PPH1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ not_XX instantaneous_JJ either_RR as_CSA there_EX are_VBR lags_NN2 delaying_VVG the_AT response_NN1 of_IO investment_NN1 after_II interest_NN1 rate_NN1 changes_NN2 ._. 
+</s>

@@ -1,0 +1,267 @@
+<s>
+In_II any_DD software_NN1 involved_VVD safety-critical_JJ project_NN1 development_NN1 ,_, chose_VVD a_AT1 suitable_JJ programming_NN1 language_NN1 is_VBZ very_JJ importance_NN1 ,_, using_VVG an_AT1 unsuitable_JJ programming_NN1 language_NN1 would_VM lead_VVI to_II extra_JJ cost_NN1 or_CC even_RR a_AT1 project_NN1 failure_NN1 ._. 
+</s>
+<s>
+The_AT considerations_NN2 to_TO determine_VVI the_AT suitability_NN1 of_IO a_AT1 programming_NN1 languages_NN2 includes_VVZ the_AT characteristics_NN2 and_CC the_AT common_JJ problems_NN2 of_IO the_AT programming_NN1 languages_NN2 ,_, the_AT comparison_NN1 of_IO computer_NN1 languages_NN2 ,_, the_AT supporting_JJ tools_NN2 and_CC the_AT expertise_NN1 on_II the_AT programming_NN1 languages_NN2 ._. 
+</s>
+<s>
+Carr_NP1 (_( Carr_NP1 et_RA21 al._RA22 ,_, 1990_MC )_) has_VHZ listed_VVN six_MC factors_NN2 to_TO help_VVI in_II comparison_NN1 of_IO the_AT suitability_NN1 of_IO a_AT1 programming_NN1 language_NN1 for_IF use_NN1 in_II a_AT1 high_JJ integrity_NN1 system_NN1 ._. 
+</s>
+<s>
+This_DD1 includes_VVZ :_: &lsqb;_( The_AT detailed_JJ descriptions_NN2 for_IF each_DD1 of_IO them_PPHO2 in_II my_APPGE understanding_NN1 are_VBR attached_VVN in_II the_AT appendix_NN1 1_MC1 Page_NN1 15_MC ._. &rsqb;_) ._. 
+</s>
+<s>
+In_II some_DD researches_NN2 found_VVD that_CST no_AT standard_JJ programming_NN1 languages_NN2 performs_VVZ well_RR in_II all_DB of_IO these_DD2 areas_NN2 ,_, it_PPH1 is_VBZ clear_JJ that_CST no_AT standard_JJ programming_NN1 languages_NN2 is_VBZ suitable_JJ to_TO develop_VVI a_AT1 high_JJ integrity_NN1 system_NN1 and_CC some_DD special_JJ purpose_NN1 programming_NN1 languages_NN2 should_VM be_VBI introduced_VVN for_IF use_NN1 in_II high_JJ integrity_NN1 system_NN1 development_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR four_MC common_JJ problems_NN2 identified_VVN by_II Clutterbuck_NP1 (_( Clutterbuck_NP1 ,_, 1992_MC )_) that_CST commonly_RR occurs_VVZ in_II programs_NN2 that_CST written_VVN in_II a_AT1 number_NN1 of_IO languages_NN2 ._. 
+</s>
+<s>
+&lsqb;_( The_AT detailed_JJ descriptions_NN2 for_IF each_DD1 of_IO them_PPHO2 in_II my_APPGE understanding_NN1 are_VBR attached_VVN in_II the_AT appendix_NN1 2_MC Page_NN1 16_MC ._. &rsqb;_) ._. 
+</s>
+<s>
+From_II these_DD2 problems_NN2 ,_, it_PPH1 is_VBZ clear_JJ that_CST why_RRQ the_AT assembly_NN1 language_NN1 has_VHZ forbidden_VVN in_II early_JJ draft_NN1 of_IO the_AT UK_NP1 Defence_NN1 Standard_NN1 00-55_MCMC (_( MOD_NN1 ,_, 1991_MC )_) ._. 
+</s>
+<s>
+Because_CS such_DA low_JJ level_JJ language_NN1 provide_VV0 no_AT checking_NN1 that_CST only_RR rely_VV0 on_II programmer_NN1 to_TO avoid_VVI making_VVG these_DD2 error_NN1 ._. 
+</s>
+<s>
+Cullyer_NP1 et_RA21 al_RA22 &lsqb;_( Cullyer_NP1 ,_, 1991_MC &rsqb;_) define_VV0 a_AT1 checklist_NN1 of_IO factors_NN2 to_TO help_VVI establish_VVI if_CSW a_AT1 language_NN1 has_VHZ appropriate_JJ characteristics_NN2 ._. 
+</s>
+<s>
+The_AT factors_NN2 or_CC questions_NN2 to_TO ask_VVI are_VBR :_: &lsqb;_( The_AT detailed_JJ descriptions_NN2 for_IF each_DD1 of_IO them_PPHO2 are_VBR attached_VVN in_II the_AT appendix_NN1 3_MC Page_NN1 17_MC ._. &rsqb;_) ._. 
+</s>
+<s>
+Cullyer_NP1 compared_VVD C_NP1 ;_; CORAL-66_MC ,_, Pascal_NP1 ;_; Modula-2_MC ;_; Ada_NP1 and_CC Assembler_NN1 by_II these_DD2 characteristics_NN2 and_CC none_PN of_IO these_DD2 programming_VVG languages_NN2 provides_VVZ all_DB the_AT features_NN2 for_IF developing_JJ safety_NN1 critical_JJ software_NN1 ._. 
+</s>
+<s>
+From_II the_AT comparison_NN1 ,_, Modula-2_MC seems_VVZ provides_VVZ the_AT best_JJT suitability_NN1 and_CC Ada_NP1 is_VBZ the_AT next_MD ,_, C_ZZ1 is_VBZ the_AT least_RGT suitable_JJ one_PN1 ._. 
+</s>
+<s>
+To_TO improve_VVI the_AT suitability_NN1 by_II reducing_VVG the_AT weaknesses_NN2 ,_, use_VV0 a_AT1 subset_NN1 of_IO the_AT programming_NN1 languages_NN2 ,_, like_II SPADE-Pascal_JJ ,_, Ada_NP1 Subset_NN1 ..._... etc_RA ,_, can_VM give_VVI a_AT1 great_JJ improved_JJ result_NN1 on_II the_AT previous_JJ comparison_NN1 ._. 
+</s>
+<s>
+The_AT subset_NN1 of_IO a_AT1 programming_NN1 language_NN1 can_VM make_VVI the_AT language_NN1 simpler_JJR and_CC reduce_VVI some_DD features_NN2 to_TO be_VBI implemented_VVN by_II removing_VVG the_AT features_NN2 that_CST can_VM not_XX be_VBI verified_VVN ,_, so_CS21 that_CS22 it_PPH1 may_VM reduce_VVI the_AT risk_NN1 of_IO error_NN1 contains_VVZ in_II the_AT product_NN1 ._. 
+</s>
+<s>
+In_II the_AT verification_NN1 process_NN1 ,_, by_II using_VVG annotation_NN1 which_DDQ adding_JJ formal_JJ comments_NN2 to_II a_AT1 program_NN1 to_TO define_VVI the_AT functions_NN2 and_CC operations_NN2 of_IO the_AT module_NN1 ,_, would_VM used_VMK to_TO be_VBI an_AT1 input_NN1 of_IO verification_NN1 tools_NN2 associated_VVN with_IW the_AT programming_NN1 languages_NN2 ._. 
+</s>
+<s>
+(_( USDoD_VV0 ,_, 1990_MC )_) also_RR gave_VVD a_AT1 set_NN1 of_IO new_JJ and_CC revised_JJ requirements_NN2 for_IF Ada9X_FO ,_, based_VVN on_II long_JJ industrial_JJ experiences_NN2 with_IW the_AT original_JJ Ada83_FO ._. 
+</s>
+<s>
+It_PPH1 incorporates_VVZ new_JJ language_NN1 features_NN2 and_CC support_VV0 for_IF real-time_NN1 ,_, safety-critical_JJ ,_, distributed_JJ systems_NN2 by_II31 means_II32 of_II33 additional_JJ annexes_NN2 ._. 
+</s>
+<s>
+Major_JJ areas_NN2 cover_VV0 :_: Some_DD of_IO the_AT requirements_NN2 above_RL are_VBR specific_JJ to_II Ada_NP1 ,_, and_CC may_VM not_XX be_VBI applicable_JJ to_II other_JJ languages_NN2 ._. 
+</s>
+<s>
+When_CS considering_VVG the_AT suitability_NN1 of_IO a_AT1 programming_NN1 language_NN1 ,_, the_AT supporting_JJ tool_NN1 is_VBZ a_AT1 factor_NN1 that_CST involved_VVD the_AT enhancements_NN2 established_VVN on_II the_AT programming_NN1 languages_NN2 to_TO deliver_VVI a_AT1 higher_JJR suitability_NN1 to_II the_AT critical-safety_JJ software_NN1 development_NN1 ._. 
+</s>
+<s>
+SPARK-Ada_NP1 subset_NN1 and_CC SPADE-Pascal_JJ enable_VV0 programmer_NN1 to_TO use_VVI part_NN1 of_IO features_NN2 of_IO the_AT original_JJ programming_NN1 language_NN1 so_RR that_CST giving_VVG a_AT1 higher_JJR suitability_NN1 on_II safety-critical_JJ software_NN1 development_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT tools_NN2 would_VM also_RR lead_VVI to_II another_DD1 issue_NN1 which_DDQ will_VM not_XX be_VBI discussed_VVN in_II this_DD1 release_NN1 ,_, such_II21 as_II22 the_AT tool_NN1 reliability_NN1 ._. 
+</s>
+<s>
+The_AT popularity_NN1 of_IO a_AT1 programming_NN1 language_NN1 is_VBZ also_RR a_AT1 factor_NN1 to_TO be_VBI considered_VVN ,_, the_AT programming_NN1 language_NN1 with_IW a_AT1 higher_JJR popularity_NN1 implies_VVZ the_AT errors_NN2 of_IO the_AT complier_NN1 is_VBZ more_RGR likely_JJ to_TO be_VBI found_VVN ,_, it_PPH1 is_VBZ not_XX only_RR apply_VV0 to_II safety-critical_JJ programming_NN1 languages_NN2 but_CCB also_RR apply_VV0 to_II standard_JJ programming_NN1 languages_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 very_RG natural_JJ that_CST the_AT availability_NN1 of_IO expertise_NN1 is_VBZ a_AT1 very_RG important_JJ factor_NN1 of_IO the_AT determination_NN1 of_IO programming_VVG languages_NN2 ._. 
+</s>
+<s>
+Here_RL is_VBZ an_AT1 example_NN1 ._. 
+</s>
+<s>
+Firstly_RR ,_, it_PPH1 is_VBZ easy_JJ to_TO understand_VVI that_DD1 to_TO find_VVI an_AT1 experienced_JJ programmer_NN1 of_IO a_AT1 high_JJ popularity_NN1 programming_NN1 language_NN1 is_VBZ easier_JJR than_CSN which_DDQ lower_VV0 one_PN1 ,_, so_CS this_DD1 also_RR indirectly_RR have_VH0 an_AT1 influence_NN1 on_II the_AT availability_NN1 of_IO expertise_NN1 ._. 
+</s>
+<s>
+An_AT1 experienced_JJ programmer_NN1 is_VBZ likely_JJ to_TO make_VVI fewer_DAR mistakes_NN2 to_II the_AT program_NN1 as_II31 well_II32 as_II33 the_AT productivity_NN1 is_VBZ likely_RR higher_JJR ._. 
+</s>
+<s>
+Therefore_RR ,_, more_RGR available_JJ expertise_NN1 would_VM able_JK to_TO reduce_VVI the_AT difficulty_NN1 of_IO the_AT software_NN1 development_NN1 ._. 
+</s>
+<s>
+Although_CS it_PPH1 is_VBZ much_RR easier_JJR to_TO find_VVI an_AT1 experienced_JJ programmer_NN1 in_II normal_JJ commercial_JJ programming_NN1 language_NN1 ,_, it_PPH1 is_VBZ still_RR no_AT point_NN1 to_TO select_VVI a_AT1 standard_JJ programming_NN1 language_NN1 for_IF safety-critical_JJ system_NN1 software_NN1 since_CS it_PPH1 is_VBZ not_XX adequate_JJ reason_NN1 for_IF not_XX using_VVG a_AT1 higher_JJR reliability_NN1 programming_NN1 language_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ impossible_JJ to_TO surely_RR say_VVI which_DDQ programming_NN1 language_NN1 is_VBZ best_JJT for_IF developing_VVG safety-critical_JJ software_NN1 ,_, since_CS different_JJ environment_NN1 and_CC situation_NN1 have_VH0 their_APPGE unique_JJ reasons_NN2 on_II choosing_VVG a_AT1 certain_JJ language_NN1 ._. 
+</s>
+<s>
+That_DD1 's_VBZ why_RRQ some_DD aircraft_NN manufacturer_NN1 using_VVG many_DA2 languages_NN2 for_IF a_AT1 single_JJ type_NN1 of_IO aircraft_NN ,_, and_CC even_RR Boeing_NP1 build_VV0 their_APPGE B777_FO by_II nearly_RR all_DB using_VVG Ada_NP1 ,_, but_CCB not_XX achieve_VV0 100%_NNU ._. 
+</s>
+<s>
+Using_VVG only_RR one_MC1 programming_NN1 language_NN1 for_IF safety-critical_JJ system_NN1 may_VM also_RR block_VVI the_AT whole_JJ development_NN1 of_IO safety-critical_JJ programming_NN1 languages_NN2 as_II no_AT enhancement_NN1 ,_, no_AT expertise_NN1 to_II other_JJ language_NN1 and_CC lead_VV0 to_II no_AT choice_NN1 to_II developer_NN1 in_II the_AT future_NN1 ._. 
+</s>
+<s>
+Although_CS there_EX is_VBZ no_AT exact_JJ right_JJ choice_NN1 to_II developer_NN1 to_TO skip_VVI thinking_VVG on_II which_DDQ programming_NN1 language_NN1 they_PPHS2 should_VM adopt_VVI ,_, Neil_NP1 (_( Neil_NP1 Storey_NP1 ,_, 1996_MC )_) gave_VVD a_AT1 very_RG good_JJ suggestion_NN1 to_II some_DD companies_NN2 ._. 
+</s>
+<s>
+"_" Companies_NN2 not_XX yet_RR committed_VVN to_II a_AT1 programming_NN1 language_NN1 would_VM be_VBI well_RR advised_VVN to_TO strongly_RR consider_VVI adopting_VVG Ada_NP1 for_IF all_DB projects_NN2 requiring_VVG a_AT1 high_JJ integrity_NN1 "_" ._. 
+</s>
+<s>
+Since_CS Ada_NP1 can_VM fit_VVI with_IW most_DAT of_IO safety-critical_JJ applications_NN2 ,_, the_AT companies_NN2 not_XX yet_RR have_VH0 experience_NN1 and_CC confidence_NN1 to_TO select_VVI a_AT1 programming_NN1 language_NN1 would_VM strongly_RR recommended_VVN to_TO start_VVI from_II Ada_NP1 ._. 
+</s>
+<s>
+The_AT top_JJ level_JJ design_NN1 is_VBZ aimed_VVN to_TO divide_VVI the_AT whole_JJ solution_NN1 into_II a_AT1 number_NN1 of_IO components_NN2 ._. 
+</s>
+<s>
+After_CS a_AT1 number_NN1 of_IO components_NN2 have_VH0 been_VBN properly_RR defined_VVN ,_, the_AT architectural_JJ design_NN1 will_VM then_RT used_VVN to_TO define_VVI the_AT specifications_NN2 of_IO the_AT software_NN1 architecture_NN1 and_CC the_AT interfaces_NN2 between_II components_NN2 as_II31 well_II32 as_II33 the_AT data_NN structure_NN1 of_IO the_AT components_NN2 ._. 
+</s>
+<s>
+Since_CS the_AT components_NN2 will_VM connect_VVI up_RP each_PPX221 other_PPX222 ,_, the_AT component_NN1 interface_NN1 designs_NN2 must_VM always_RR compatible_JJ ._. 
+</s>
+<s>
+Before_RT advance_VV0 to_TO detail_VVI design_NN1 ,_, the_AT software_NN1 partitioning_NN1 technique_NN1 will_VM be_VBI used_VVN to_TO further_RRR divide_VVI the_AT design_NN1 into_II layers_NN2 ._. 
+</s>
+<s>
+The_AT top_JJ layer_NN1 of_IO the_AT software_NN1 layered_JJ structure_NN1 is_VBZ the_AT overall_JJ control_NN1 and_CC high_JJ level_JJ command_NN1 functions_NN2 ._. 
+</s>
+<s>
+The_AT middle_JJ layer_NN1 is_VBZ the_AT various_JJ features_NN2 of_IO the_AT software_NN1 ._. 
+</s>
+<s>
+The_AT lowest_JJT layer_NN1 will_VM be_VBI the_AT input_NN1 output_NN1 controls_NN2 ._. 
+</s>
+<s>
+A_AT1 good_JJ designed_JJ% structure_NN1 system_NN1 would_VM have_VHI a_AT1 better_JJR resistance_NN1 to_II error_NN1 as_II the_AT error_NN1 occurs_VVZ in_II certain_JJ layer_NN1 would_VM not_XX easy_JJ to_TO affect_VVI another_DD1 layer_NN1 's_GE operation_NN1 ,_, the_AT complexity_NN1 of_IO each_DD1 components_NN2 are_VBR also_RR likely_RR simpler_JJR ._. 
+</s>
+<s>
+Hence_RR ,_, the_AT verification_NN1 process_NN1 would_VM easier_RRR to_TO be_VBI performed_VVN and_CC the_AT safety-critical_JJ routines_NN2 are_VBR also_RR minimized_VVN ._. 
+</s>
+<s>
+For_IF a_AT1 poor_JJ structured_JJ system_NN1 ,_, since_CS the_AT triggering_VVG mechanism_NN1 would_VM throughout_RL from_II lowest_JJT level_NN1 to_II highest_JJT level_NN1 and_CC from_II highest_JJT to_II lowest_JJT level_NN1 ,_, any_DD layer_NN1 have_VH0 fault_NN1 would_VM cause_VVI the_AT whole_JJ system_NN1 be_VBI affected_VVN ,_, it_PPH1 is_VBZ less_DAR tolerance_NN1 to_II error_NN1 ._. 
+</s>
+<s>
+Neil_NP1 (_( Neil_NP1 Storey_NP1 ,_, 1996_MC ,_, P.231_FO )_) has_VHZ given_VVN a_AT1 good_JJ example_NN1 on_II using_VVG a_AT1 safety_NN1 switch_NN1 to_TO control_VVI the_AT actuator_NN1 with_IW illustration_NN1 ._. 
+</s>
+<s>
+After_CS the_AT software_NN1 are_VBR partitioned_VVN to_II a_AT1 certain_JJ level_NN1 ,_, the_AT detailed_JJ design_NN1 can_VM be_VBI performed_VVN to_II determinate_JJ what_DDQ the_AT module_NN1 is_VBZ to_TO do_VDI ._. 
+</s>
+<s>
+It_PPH1 should_VM firstly_RR define_VVI the_AT purpose_NN1 of_IO each_DD1 function_NN1 ,_, the_AT data_NN use_VV0 in_II the_AT component_NN1 interfaces_NN2 ,_, the_AT performance_NN1 requirement_NN1 ,_, the_AT failure_NN1 mode_NN1 identification_NN1 ,_, the_AT integrity_NN1 level_NN1 and_CC the_AT acceptance_NN1 test_NN1 criteria_NN2 ,_, then_RT further_RRR divide_VV0 it_PPH1 to_II a_AT1 manageable_JJ procedures_NN2 ,_, subroutines_NN2 and_CC data_NN types_NN2 ._. 
+</s>
+<s>
+The_AT major_JJ advantage_NN1 of_IO software_NN1 isolation_NN1 is_VBZ preventing_VVG the_AT problem_NN1 of_IO "_" Aliasing_VVG "_" that_CST discussed_VVD in_II the_AT earlier_JJR section_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM prevent_VVI the_AT unexpected_JJ overwrite_VV0 occur_VV0 to_II inappropriate_JJ memory_NN1 location_NN1 which_DDQ may_VM lead_VVI to_II delaying_VVG the_AT process_NN1 or_CC even_RR enter_VV0 an_AT1 infinite_JJ loop_NN1 ._. 
+</s>
+<s>
+Using_VVG non-structured_JJ assemblers_NN2 and_CC C_NP1 language_NN1 will_VM have_VHI no_AT protection_NN1 from_II these_DD2 problems_NN2 ._. 
+</s>
+<s>
+In_II a_AT1 critical_JJ real_JJ time_NNT1 system_NN1 ,_, using_VVG operation_NN1 system_NN1 to_TO provide_VVI protection_NN1 on_II memory_NN1 management_NN1 is_VBZ not_XX practical_JJ ,_, since_CS to_TO verify_VVI an_AT1 OS_NP2 already_RR extremely_RR hard_JJ to_TO achieve_VVI ,_, may_VM even_RR harder_RRR than_CSN verify_VV0 the_AT application_NN1 itself_PPX1 ._. 
+</s>
+<s>
+Secondly_RR ,_, the_AT OS_NP2 itself_PPX1 may_VM also_RR cause_VVI delay_NN1 to_II the_AT system_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR many_DA2 features_NN2 for_IF the_AT application_NN1 using_VVG Object-Oriented_JJ (_( OO_UH )_) design_NN1 ,_, as_CSA normal_JJ commercial_JJ software_NN1 consideration_NN1 ,_, OO_UH design_NN1 giving_VVG the_AT advantage_NN1 of_IO inheritance_NN1 ,_, components_NN2 reuse_VV0 and_CC data_NN hiding_VVG ..._... etc_RA ._. 
+</s>
+<s>
+However_RR ,_, programmer_NN1 must_VM aware_JJ the_AT runtime_NNT1 error_NN1 which_DDQ can_VM not_XX be_VBI detected_VVN before_RT execute_VV0 the_AT program_NN1 ,_, it_PPH1 caused_VVD by_II use_NN1 of_IO dynamic_JJ dispatching_NN1% ._. 
+</s>
+<s>
+As_II OO_UH design_NN1 having_VHG the_AT feature_NN1 of_IO reuse_NN1 of_IO components_NN2 which_DDQ is_VBZ a_AT1 very_RG attractive_JJ point_NN1 especially_RR in_II a_AT1 high_JJ cost_NN1 safety-critical_JJ system_NN1 development_NN1 ,_, because_CS it_PPH1 involved_VVD saving_VVG cost_NN1 on_II writing_VVG code_NN1 as_II31 well_II32 as_II33 saving_VVG cost_NN1 on_II verify_VV0 the_AT components_NN2 ._. 
+</s>
+<s>
+However_RR ,_, a_AT1 light_JJ change_NN1 of_IO the_AT reused_JJ code_NN1 may_VM require_VVI in_II some_DD case_NN1 ,_, and_CC a_AT1 certain_JJ degree_NN1 of_IO verification_NN1 is_VBZ hence_RR required_VVN ._. 
+</s>
+<s>
+Moreover_RR ,_, in_BCL21 order_BCL22 to_TO enable_VVI the_AT component_NN1 to_TO be_VBI reuse_NN1 in_II the_AT future_NN1 ,_, a_AT1 full_JJ documentation_NN1 and_CC verification_NN1 must_VM be_VBI obtained_VVN ._. 
+</s>
+<s>
+The_AT Human-Computer_NP1 Interface_NN1 (_( HCI_NP1 )_) Design_NN1 would_VM directly_RR related_VVN to_II the_AT ease_NN1 of_IO use_NN1 of_IO the_AT system_NN1 ,_, a_AT1 good_JJ HCI_JJ design_NN1 would_VM help_VVI to_TO reduce_VVI the_AT chance_NN1 of_IO making_VVG error_NN1 and_CC giving_VVG a_AT1 wrong_JJ input_NN1 since_CS many_DA2 safety-critical_JJ systems_NN2 involved_VVD direct_JJ or_CC indirect_JJ controlled_VVN by_II human_JJ input_NN1 ._. 
+</s>
+<s>
+To_TO test_VVI weather_NN1 the_AT design_NN1 will_NN1 success_NN1 or_CC otherwise_RR ,_, trial_NN1 software_NN1 can_VM be_VBI develop_VV0 to_TO simulate_VVI the_AT working_JJ environment_NN1 ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 technique_NN1 is_VBZ not_XX always_RR giving_VVG the_AT result_NN1 as_CSA same_DA as_CSA the_AT final_JJ product_NN1 since_CS the_AT prototype_NN1 is_VBZ far_RG less_RGR formal_JJ than_CSN the_AT final_JJ one_PN1 ._. 
+</s>
+<s>
+In_II the_AT conclusion_NN1 of_IO last_MD section_NN1 talked_VVN about_II the_AT Ada_NP1 is_VBZ suggested_VVN for_IF some_DD companies_NN2 ._. 
+</s>
+<s>
+After_CS the_AT discussion_NN1 of_IO design_NN1 methodology_NN1 ,_, Ada_NP1 is_VBZ likely_JJ again_RT being_VBG a_AT1 good_JJ choice_NN1 in_II most_DAT case_NN1 of_IO developing_VVG a_AT1 safety-critical_JJ system_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, Ada95_FO have_VH0 the_AT features_NN2 from_II object-oriented_JJ design_NN1 methodology_NN1 but_CCB also_RR have_VH0 ability_NN1 to_TO disable_VVI the_AT dynamic_NN1 dispatching_VVG which_DDQ avoid_VV0 the_AT demerit_NN1 of_IO object-oriented_JJ design_NN1 ._. 
+</s>
+<s>
+Although_CS trial_NN1 software_NN1 /_FO prototyping_NN1 is_VBZ a_AT1 very_RG successful_JJ methodology_NN1 in_II many_DA2 studies_NN2 such_II21 as_II22 human-computer_JJ interface_NN1 design_NN1 ,_, it_PPH1 seems_VVZ not_XX a_AT1 good_JJ choice_NN1 of_IO design_NN1 methodology_NN1 in_II safety-critical_JJ system_NN1 development_NN1 ,_, since_CS trial_NN1 software_NN1 method_NN1 is_VBZ not_XX adequately_RR reliable_JJ and_CC also_RR increase_VV0 the_AT development_NN1 cost_NN1 ,_, it_PPH1 is_VBZ not_XX recommended_VVN unless_CS in_II some_DD special_JJ situation_NN1 ._. 
+</s>
+<s>
+Quality_NN1 Assurance_NN1 is_VBZ focus_NN1 whether_CSW the_AT manufacturing_NN1 process_NN1 is_VBZ performed_VVN correctly_RR ._. 
+</s>
+<s>
+International_JJ Standards_NN2 Organization_NN1 defined_VVD standards_NN2 and_CC some_DD of_IO them_PPHO2 are_VBR used_VVN for_IF quality_NN1 assurance_NN1 in_II software_NN1 development_NN1 ,_, such_II21 as_II22 ISO9000_FO ._. 
+</s>
+<s>
+ISO_NP1 9000_MC defines_VVZ quality_NN1 assurance_NN1 as_II :_: Neil_NP1 (_( Neil_NP1 Storey_NP1 ,_, 1996_MC )_) defines_VVZ the_AT quality_NN1 assurance_NN1 system_NN1 are_VBR :_: The_AT quality_NN1 assurance_NN1 process_NN1 evaluate_VV0 the_AT quality_NN1 and_CC determine_VV0 the_AT acceptance_NN1 of_IO product_NN1 ,_, the_AT information_NN1 will_VM be_VBI analyzed_VVN for_IF modify_VV0 process_NN1 and_CC the_AT result_NN1 will_VM feed_VVI into_II the_AT product_NN1 development_NN1 as_II an_AT1 input_NN1 ._. 
+</s>
+<s>
+Quality_NN1 assurance_NN1 involved_VVD listing_VVG the_AT tasks_NN2 of_IO the_AT project_NN1 and_CC identifying_VVG who_PNQS to_TO perform_VVI them_PPHO2 ._. 
+</s>
+<s>
+It_PPH1 also_RR involved_VVD using_VVG the_AT semiformal_JJ technique_NN1 which_DDQ includes_VVZ diagrammatic_JJ tools_NN2 to_TO define_VVI activities_NN2 ,_, to_TO show_VVI the_AT human_JJ resource_NN1 allocation_NN1 as_II31 well_II32 as_II33 ensure_VV0 adequate_JJ manpower_NN1 of_IO the_AT activities_NN2 ,_, and_CC reporting_VVG structure_NN1 ._. 
+</s>
+<s>
+The_AT auditing_NN1 process_NN1 would_VM check_VVI whether_CSW the_AT quality_NN1 assurance_NN1 procedure_NN1 performed_VVD correctly_RR ._. 
+</s>
+<s>
+A_AT1 quality_NN1 plan_NN1 contains_VVZ the_AT quality_NN1 assurance_NN1 activities_NN2 in_II a_AT1 project_NN1 are_VBR formalized_VVN ,_, and_CC a_AT1 good_JJ quality_NN1 plan_NN1 can_VM lead_VVI to_II a_AT1 high-quality_JJ development_NN1 and_CC consistent_JJ output_NN1 ._. 
+</s>
+<s>
+Indeed_RR ,_, quality_NN1 assurance_NN1 is_VBZ insufficient_JJ to_TO guarantee_VVI the_AT quality_NN1 of_IO the_AT final_JJ product_NN1 ,_, a_AT1 quality_NN1 control_NN1 is_VBZ therefore_RR needed_VVN to_TO compensate_VVI this_DD1 problem_NN1 ._. 
+</s>
+<s>
+Quality_NN1 Control_NN1 is_VBZ focusing_VVG the_AT correctness_NN1 of_IO the_AT product_NN1 or_CC service_NN1 to_TO conform_VVI the_AT requirements_NN2 of_IO the_AT customer_NN1 ._. 
+</s>
+<s>
+ISO_NP1 9000_MC defines_VVZ quality_NN1 control_NN1 as_II :_: Unlike_II the_AT quality_NN1 assurance_NN1 process_NN1 ,_, quality_NN1 control_NN1 checks_VVZ the_AT final_JJ product_NN1 and_CC performs_VVZ measurement_NN1 and_CC analysis_NN1 ,_, the_AT result_NN1 from_II the_AT analysis_NN1 will_VM then_RT compare_VVI with_IW the_AT specification_NN1 ._. 
+</s>
+<s>
+The_AT compared_JJ% result_NN1 will_VM then_RT used_VVN to_II fine_JJ tune_NN1 the_AT production_NN1 process_NN1 ,_, the_AT final_JJ result_NN1 will_VM then_RT have_VHI the_AT decreased_JJ number_NN1 of_IO defect_NN1 units_NN2 and_CC have_VH0 an_AT1 improved_JJ tolerance_NN1 of_IO a_AT1 component_NN1 ._. 
+</s>
+<s>
+However_RR ,_, to_TO test_VVI ,_, for_REX21 example_REX22 ,_, the_AT reliability_NN1 of_IO software_NN1 is_VBZ not_XX practical_JJ ._. 
+</s>
+<s>
+Quality_NN1 Control_NN1 in_II software_NN1 industry_NN1 is_VBZ often_RR extremely_RR difficult_JJ to_TO quantify_VVI in_II measurement_NN1 ,_, the_AT covering_NN1 area_NN1 is_VBZ also_RR hard_JJ to_TO complete_VVI ._. 
+</s>
+<s>
+This_DD1 does_VDZ not_XX mean_VVI the_AT quality_NN1 control_NN1 process_NN1 is_VBZ not_XX valuable_JJ ,_, it_PPH1 cooperate_VV0 with_IW quality_NN1 assurance_NN1 to_TO play_VVI an_AT1 important_JJ role_NN1 in_II the_AT development_NN1 lifecycle_NN1 to_TO greatly_RR improve_VVI the_AT quality_NN1 of_IO deliverables_NN2 ._. 
+</s>
+<s>
+ISO_NP1 9000_MC is_VBZ the_AT most_RGT popular_JJ used_JJ standard_NN1 in_II many_DA2 industries_NN2 ,_, it_PPH1 relates_VVZ to_II the_AT management_NN1 of_IO quality_NN1 ._. 
+</s>
+<s>
+The_AT series_NN of_IO documents_NN2 with_IW descriptions_NN2 are_VBR attached_VVN in_II the_AT appendix_NN1 4_MC page_NN1 18_MC ._. 
+</s>
+<s>
+ISO9000_FO is_VBZ a_AT1 generic_JJ quality_NN1 assurance_NN1 standard_NN1 that_CST originated_VVD in_II Europe_NP1 ;_; ISO9000-3_MC is_VBZ specialized_VVN for_IF software_NN1 ._. 
+</s>
+<s>
+ISO_NP1 9000_MC TickIT_NP1 is_VBZ a_AT1 certification_NN1 system_NN1 to_TO specially_RR design_VVI to_TO certify_VVI the_AT software_NN1 industries_NN2 based_VVN on_II the_AT quality_NN1 management_NN1 system_NN1 ._. 
+</s>
+<s>
+ISO/IEC9_NP1 126_MC is_VBZ specially_RR designed_VVN for_IF software_NN1 development_NN1 and_CC focus_VV0 on_II the_AT quality_NN1 control_NN1 ._. 
+</s>
+<s>
+(_( ISO_NP1 ,_, 1991_MC )_) defined_VVD a_AT1 number_NN1 of_IO criteria_NN2 to_TO determine_VVI how_RGQ well_RR is_VBZ the_AT software_NN1 quality_NN1 ._. 
+</s>
+<s>
+However_RR ,_, these_DD2 criteria_NN2 are_VBR not_XX involved_VVN of_IO using_VVG quantitative_JJ method_NN1 to_TO measure_VVI the_AT product_NN1 ._. 
+</s>
+<s>
+The_AT six_MC criteria_NN2 are_VBR :_: You_PPY may_VM note_VVI that_CST there_EX are_VBR many_DA2 standards_NN2 above_RL to_TO increase_VVI the_AT quality_NN1 of_IO software_NN1 development_NN1 ._. 
+</s>
+<s>
+However_RR ,_, intuitively_RR it_PPH1 is_VBZ insufficient_JJ to_TO ensure_VVI the_AT safety_NN1 of_IO safety-critical_JJ system_NN1 ,_, since_CS safety-critical_JJ software_NN1 must_VM have_VHI a_AT1 very_RG low_JJ probability_NN1 of_IO failure_NN1 -_- typically_RR 10_MC -8_MC to_II 10_MC -9_MC ._. 
+</s>
+<s>
+The_AT leak_NN1 of_IO not_XX using_VVG a_AT1 metrics_NN1 or_CC quantitative_JJ method_NN1 in_II the_AT measurement_NN1 is_VBZ the_AT remaining_JJ concern_NN1 of_IO safety-critical_JJ system_NN1 designer_NN1 and_CC user_NN1 ._. 
+</s>

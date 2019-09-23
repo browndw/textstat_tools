@@ -1,0 +1,135 @@
+<s>
+Table_NN1 1_MC1 contains_VVZ the_AT data_NN used_VVN in_II this_DD1 exercise_NN1 ,_, which_DDQ consists_VVZ of_IO five_MC assemblages_NN2 of_IO Upper_JJ Palaeolithic_JJ endscrapers_NN2 recovered_VVN from_II the_AT rockshelter_NN1 site_NN1 of_IO No'kulchaear_NN1 ._. 
+</s>
+<s>
+Table_NN1 2_MC shows_VVZ the_AT summary_NN1 statistics_NN for_IF each_DD1 assemblage_NN1 (_( mean_VV0 ,_, median_NN1 ,_, mode_NN1 ,_, standard_JJ error_NN1 ,_, standard_JJ deviation_NN1 ,_, sum_NN1 ,_, sample_NN1 size_NN1 )_) ._. 
+</s>
+<s>
+The_AT mean_JJ lengths_NN2 of_IO the_AT endscrapers_NN2 in_II each_DD1 assemblage_NN1 have_VH0 been_VBN compared_VVN in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT five_MC assemblages_NN2 were_VBDR tested_VVN for_IF normality_NN1 in_II three_MC ways_NN2 -_- production_NN1 of_IO a_AT1 histogram_NN1 for_IF each_DD1 assemblage_NN1 (_( Figures_NN2 2-6_MCMC )_) ,_, and_CC two_MC calculations_NN2 ,_, which_DDQ are_VBR summarised_VVN in_II Table_NN1 3_MC ._. 
+</s>
+<s>
+In_II the_AT skewness/standard_NN1 error_NN1 and_CC kurtosis/standard_NN1 error_NN1 tests_NN2 ,_, the_AT data_NN is_VBZ normal_JJ if_CS the_AT values_NN2 for_IF both_DB2 tests_NN2 lies_VVZ between_II -1.99_MC and_CC +1.99_MC ._. 
+</s>
+<s>
+As_CSA Table_NN1 3_MC shows_NN2 ,_, all_DB the_AT assemblages_NN2 have_VH0 values_NN2 in_II this_DD1 range_NN1 and_CC are_VBR therefore_RR normal_JJ ._. 
+</s>
+<s>
+The_AT histograms_NN2 show_VV0 that_CST all_DB the_AT data_NN have_VH0 a_AT1 fairly_RR normal_JJ distribution_NN1 ,_, although_CS Assemblage_NN1 D_ZZ1 has_VHZ an_AT1 anomalous_JJ peak_NN1 at_II 45-50mm_NNU ,_, and_CC B_ZZ1 and_CC C_NP1 have_VH0 no_AT data_NN in_II one_MC1 range_NN1 ._. 
+</s>
+<s>
+The_AT ANOVA_NP1 (_( analysis_NN1 of_IO variance_NN1 )_) test_NN1 will_VM compare_VVI the_AT mean_JJ lengths_NN2 of_IO all_DB five_MC assemblages_NN2 to_TO see_VVI if_CSW the_AT differences_NN2 between_II the_AT assemblages_NN2 are_VBR statistically_RR significant_JJ ._. 
+</s>
+<s>
+The_AT significance_NN1 level_NN1 is_VBZ set_VVN at_II 0.05_MC ._. 
+</s>
+<s>
+Two_MC hypotheses_NN2 may_VM be_VBI established_VVN ._. 
+</s>
+<s>
+H_ZZ1 0_MC -_- the_AT differences_NN2 between_II the_AT mean_JJ lengths_NN2 of_IO the_AT endscrapers_NN2 of_IO the_AT five_MC assemblages_NN2 are_VBR not_XX statistically_RR significant_JJ ._. 
+</s>
+<s>
+H_ZZ1 1_MC1 -_- the_AT differences_NN2 between_II the_AT mean_JJ lengths_NN2 of_IO the_AT endscrapers_NN2 of_IO the_AT five_MC assemblages_NN2 are_VBR statistically_RR significant_JJ ._. 
+</s>
+<s>
+The_AT ANOVA_NN1 test_NN1 produced_VVD a_AT1 P-value_NN1 of_IO 9.09_MC x10_FO -6_MC (_( Table_NN1 4_MC )_) ._. 
+</s>
+<s>
+This_DD1 exceeds_VVZ the_AT significance_NN1 value_NN1 (_( i.e._REX is_VBZ less_DAR than_CSN 0.05_MC )_) ,_, and_CC therefore_RR the_AT null_JJ hypothesis_NN1 (_( H_ZZ1 0_MC )_) can_VM be_VBI rejected_VVN in_II31 favour_II32 of_II33 H_ZZ1 1_MC1 ,_, that_CST the_AT difference_NN1 in_II the_AT mean_JJ lengths_NN2 of_IO the_AT five_MC assemblages_NN2 is_VBZ statistically_RR significant_JJ ._. 
+</s>
+<s>
+The_AT ANOVA_NN1 test_NN1 was_VBDZ also_RR applied_VVN to_TO test_VVI the_AT significance_NN1 of_IO the_AT differences_NN2 between_II mean_JJ lengths_NN2 of_IO Assemblages_NN2 X_ZZ1 and_CC B_ZZ1 ,_, again_RT at_II 0.05_MC significance_NN1 ._. 
+</s>
+<s>
+The_AT hypotheses_NN2 are_VBR given_VVN below_RL ,_, and_CC the_AT results_NN2 are_VBR in_II Table_NN1 5_MC ._. 
+</s>
+<s>
+H_ZZ1 0_MC -_- the_AT differences_NN2 between_II the_AT mean_JJ lengths_NN2 of_IO the_AT endscrapers_NN2 of_IO Assemblages_NN2 X_ZZ1 and_CC B_ZZ1 are_VBR not_XX statistically_RR significant_JJ ._. 
+</s>
+<s>
+H_ZZ1 1_MC1 -_- the_AT differences_NN2 between_II the_AT mean_JJ lengths_NN2 of_IO the_AT endscrapers_NN2 of_IO Assemblages_NN2 X_ZZ1 and_CC B_ZZ1 are_VBR statistically_RR significant_JJ ._. 
+</s>
+<s>
+The_AT P-value_NN1 exceeds_VVZ the_AT significance_NN1 value_NN1 (_( 0.05_MC )_) and_CC therefore_RR the_AT null_JJ hypothesis_NN1 is_VBZ rejected_VVN in_II31 favour_II32 of_II33 the_AT hypothesis_NN1 that_CST the_AT differences_NN2 in_II mean_JJ endscraper_NN1 length_NN1 between_II the_AT two_MC assemblages_NN2 are_VBR significant_JJ (_( H_ZZ1 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT same_DA test_NN1 was_VBDZ carried_VVN out_RP to_TO compare_VVI Assemblages_NN2 X_ZZ1 and_CC E._NP1 The_AT same_DA parameters_NN2 were_VBDR used_VVN ,_, and_CC the_AT results_NN2 are_VBR in_II Table_NN1 6_MC ._. 
+</s>
+<s>
+H_ZZ1 0_MC -_- the_AT differences_NN2 between_II the_AT mean_JJ lengths_NN2 of_IO the_AT endscrapers_NN2 of_IO Assemblages_NN2 X_ZZ1 and_CC E_ZZ1 are_VBR not_XX statistically_RR significant_JJ ._. 
+</s>
+<s>
+H_ZZ1 1_MC1 -_- the_AT differences_NN2 between_II the_AT mean_JJ lengths_NN2 of_IO the_AT endscrapers_NN2 of_IO Assemblages_NN2 X_ZZ1 and_CC E_ZZ1 are_VBR statistically_RR significant_JJ ._. 
+</s>
+<s>
+The_AT P-value_NN1 for_IF these_DD2 assemblages_NN2 does_VDZ not_XX exceed_VVI the_AT significance_NN1 value_NN1 (_( 0.05_MC )_) ,_, therefore_RR the_AT null_JJ hypothesis_NN1 is_VBZ upheld_VVN ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT statistically_RR significant_JJ difference_NN1 between_II the_AT mean_JJ length_NN1 of_IO the_AT endscrapers_NN2 in_II assemblages_NN2 X_ZZ1 and_CC E._NP1 The_AT chi-squared_JJ test_NN1 is_VBZ used_VVN to_TO test_VVI the_AT distribution_NN1 of_IO the_AT endscrapers_NN2 in_II31 relation_II32 to_II33 the_AT distribution_NN1 of_IO animal_NN1 bones_NN2 on_II the_AT site_NN1 ._. 
+</s>
+<s>
+This_DD1 test_NN1 was_VBDZ performed_VVN on_II Assemblage_NN1 A_ZZ1 ,_, and_CC the_AT null_JJ and_CC alternative_JJ hypotheses_NN2 are_VBR given_VVN below_RL ._. 
+</s>
+<s>
+The_AT observed_JJ values_NN2 are_VBR given_VVN in_II Table_NN1 7_MC and_CC the_AT expected_JJ values_NN2 calculated_VVN in_II Table_NN1 8_MC by_II multiplying_VVG the_AT sum_NN1 for_IF the_AT row_NN1 with_IW the_AT sum_NN1 for_IF the_AT column_NN1 and_CC dividing_VVG by_II the_AT total_JJ number_NN1 of_IO observations_NN2 ._. 
+</s>
+<s>
+The_AT significance_NN1 level_NN1 of_IO this_DD1 test_NN1 is_VBZ 0.05_MC ,_, and_CC there_EX is_VBZ 1_MC1 degree_NN1 of_IO freedom_NN1 ._. 
+</s>
+<s>
+H_ZZ1 0_MC =_FO the_AT observed_JJ distribution_NN1 of_IO the_AT endscrapers_NN2 and_CC animal_NN1 bones_NN2 in_II Assemblage_NN1 A_ZZ1 is_VBZ not_XX statistically_RR significant_JJ ._. 
+</s>
+<s>
+H_ZZ1 1_MC1 =_FO the_AT observed_JJ distribution_NN1 of_IO the_AT endscrapers_NN2 and_CC animal_NN1 bones_NN2 in_II Assemblage_NN1 A_ZZ1 is_VBZ statistically_RR significant_JJ ._. 
+</s>
+<s>
+For_IF Assemblage_NN1 A_ZZ1 ,_, the_AT calculated_JJ X_ZZ1 2_MC value_NN1 exceeds_VVZ the_AT X_ZZ1 2_MC value_NN1 of_IO 3.84_MC at_II 1_MC1 degree_NN1 of_IO freedom_NN1 at_II the_AT 0.05_MC significance_NN1 level_NN1 (_( Table_NN1 9_MC )_) ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT null_JJ hypothesis_NN1 is_VBZ rejected_VVN in_II31 favour_II32 of_II33 H_ZZ1 1_MC1 ,_, that_CST there_EX is_VBZ a_AT1 statistical_JJ significance_NN1 to_II the_AT observed_JJ distribution_NN1 of_IO endscrapers_NN2 and_CC animal_NN1 bones_NN2 in_II this_DD1 assemblage_NN1 ._. 
+</s>
+<s>
+The_AT same_DA calculations_NN2 were_VBDR performed_VVN for_IF Assemblage_NN1 C_ZZ1 ,_, for_IF which_DDQ the_AT observed_JJ values_NN2 are_VBR given_VVN in_II Table_NN1 10_MC and_CC the_AT expected_JJ values_NN2 in_II Table_NN1 11_MC ._. 
+</s>
+<s>
+H_ZZ1 0_MC =_FO the_AT observed_JJ distribution_NN1 of_IO the_AT endscrapers_NN2 and_CC animal_NN1 bones_NN2 in_II Assemblage_NN1 C_ZZ1 is_VBZ not_XX statistically_RR significant_JJ ._. 
+</s>
+<s>
+H_ZZ1 1_MC1 =_FO the_AT observed_JJ distribution_NN1 of_IO the_AT endscrapers_NN2 and_CC animal_NN1 bones_NN2 in_II Assemblage_NN1 C_ZZ1 is_VBZ statistically_RR significant_JJ ._. 
+</s>
+<s>
+For_IF Assemblage_NN1 C_ZZ1 ,_, the_AT calculated_JJ X_ZZ1 2_MC value_NN1 does_VDZ not_XX exceed_VVI the_AT X_ZZ1 2_MC value_NN1 of_IO 3.84_MC at_II 1_MC1 degree_NN1 of_IO freedom_NN1 at_II 0.05_MC significance_NN1 level_NN1 (_( Table_NN1 12_MC )_) ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT null_JJ hypothesis_NN1 is_VBZ upheld_VVN ._. 
+</s>
+<s>
+This_DD1 test_NN1 establishes_VVZ whether_CSW there_EX is_VBZ a_AT1 correlation_NN1 between_II two_MC variables_NN2 ,_, in_II this_DD1 case_NN1 the_AT tools:waste_FO flake_NN1 ratio_NN1 and_CC the_AT distance_NN1 to_II the_AT flint_NN1 source_NN1 ._. 
+</s>
+<s>
+This_DD1 data_NN is_VBZ presented_VVN in_II Table_NN1 14_MC ,_, and_CC the_AT two_MC variables_NN2 are_VBR plotted_VVN against_II each_PPX221 other_PPX222 in_II Figure_NN1 7_MC ._. 
+</s>
+<s>
+The_AT correlation_NN1 value_NN1 is_VBZ calculated_VVN in_II Table_NN1 15_MC ,_, and_CC shows_VVZ a_AT1 very_RG strong_JJ correlation_NN1 (_( 0.8_MC )_) between_II the_AT two_MC variables_NN2 ._. 
+</s>
+<s>
+The_AT tools:waste_FO flake_NN1 ratio_NN1 and_CC the_AT mean_JJ endscraper_NN1 length_NN1 were_VBDR also_RR tested_VVN for_IF correlation_NN1 ._. 
+</s>
+<s>
+A_AT1 correlation_NN1 value_NN1 of_IO -_- 0.14_MC (_( Table_NN1 16_MC )_) suggests_VVZ that_CST there_EX is_VBZ no_AT apparent_JJ correlation_NN1 between_II the_AT two_MC variables_NN2 ,_, and_CC this_DD1 is_VBZ supported_VVN by_II the_AT appearance_NN1 of_IO the_AT scattergram_NN1 (_( Figure_NN1 8_MC )_) ._. 
+</s>
+<s>
+The_AT linear_JJ regression_NN1 equation_NN1 is_VBZ ._. 
+</s>
+<s>
+The_AT regression_NN1 equation_NN1 for_IF the_AT correlation_NN1 between_II tools:waste_FO flake_NN1 ratio_NN1 and_CC distance_NN1 to_II the_AT source_NN1 (_( Figure_NN1 7_MC )_) is_VBZ ._. 
+</s>
+<s>
+Using_VVG this_DD1 equation_NN1 ,_, the_AT number_NN1 of_IO waste_NN1 flakes_NN2 in_II a_AT1 new_JJ set_NN1 of_IO assemblages_NN2 (_( F-J_NP1 )_) can_VM be_VBI predicted_VVN from_II the_AT distance_NN1 to_II the_AT source_NN1 of_IO the_AT raw_JJ material_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT ratio_NN1 is_VBZ calculated_VVN ,_, the_AT actual_JJ number_NN1 of_IO waste_NN1 flakes_NN2 can_VM be_VBI predicted_VVN using_VVG the_AT formula_NN1 :_: The_AT results_NN2 of_IO these_DD2 calculations_NN2 for_IF the_AT new_JJ assemblages_NN2 are_VBR presented_VVN in_II Table_NN1 17_MC ._. 
+</s>

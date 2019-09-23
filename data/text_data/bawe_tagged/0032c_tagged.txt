@@ -1,0 +1,180 @@
+<s>
+Sulphur_NN1 containing_VVG amino_NN1 acids_NN2 have_VH0 thiol_NN1 groups_NN2 in_II their_APPGE side_NN1 chains_NN2 ._. 
+</s>
+<s>
+These_DD2 thiol_VV0 groups_NN2 react_VV0 with_IW DTNB_NP1 ,_, which_DDQ causes_VVZ an_AT1 increase_NN1 in_II absorbance_NN1 at_II 412nm_FO ._. 
+</s>
+<s>
+This_DD1 characteristic_NN1 means_VVZ the_AT number_NN1 of_IO thiol_NN1 groups_NN2 can_VM be_VBI calculated_VVN ._. 
+</s>
+<s>
+This_DD1 will_VM be_VBI done_VDN for_IF the_AT protein_NN1 ovalbumin_NN1 ,_, extracted_VVN from_II egg_NN1 white_NN1 ._. 
+</s>
+<s>
+The_AT reaction_NN1 between_II the_AT protein_NN1 ovalbumin_NN1 and_CC DTNB_NP1 does_VDZ not_XX occur_VVI without_IW the_AT presence_NN1 of_IO the_AT detergent_NN1 Sodium_NN1 Dodecyl_NN1 Sulphate_NN1 (_( SDS_NP1 )_) ._. 
+</s>
+<s>
+The_AT detergent_NN1 must_VM denature_VVI the_AT protein_NN1 ,_, in_BCL21 order_BCL22 for_IF the_AT DTNB_NP1 to_TO be_VBI able_JK to_TO react_VVI with_IW the_AT thiol_NN1 groups_NN2 ._. 
+</s>
+<s>
+Methionine_NN1 and_CC cysteine_NN1 are_VBR both_DB2 sulphur_NN1 containing_VVG amino_NN1 acids_NN2 ._. 
+</s>
+<s>
+Most_DAT proteins_NN2 will_VM contain_VVI one_PN1 ,_, or_CC both_DB2 of_IO them_PPHO2 at_II some_DD point_NN1 in_II the_AT polypeptide_NN1 chain_NN1 ._. 
+</s>
+<s>
+As_II such_DA ,_, many_DA2 amino_NN1 acids_NN2 contain_VV0 sulphur_NN1 in_II some_DD form_NN1 ,_, which_DDQ is_VBZ required_VVN in_II small_JJ amounts_NN2 in_II the_AT mammalian_JJ diet_NN1 ._. 
+</s>
+<s>
+Methionine_NN1 has_VHZ a_AT1 thioether_VV0 side_NN1 chain_NN1 ,_, and_CC cysteine_NN1 's_GE contains_VVZ a_AT1 thiol_NN1 group_NN1 ._. 
+</s>
+<s>
+These_DD2 side_NN1 chains_NN2 exist_VV0 as_RG free_JJ thiols_NN2 inside_II the_AT cell_NN1 ,_, and_CC are_VBR oxidised_VVN causing_VVG them_PPHO2 to_II pair_NN up_RP and_CC form_VV0 disulphide_NN1 bonds_NN2 in_II an_AT1 extracellular_JJ environment_NN1 ._. 
+</s>
+<s>
+Thiols_NN2 are_VBR more_RGR reactive_JJ than_CSN hydroxyl_NN1 groups_NN2 and_CC react_VV0 easily_RR with_IW mercurails_NN2 and_CC heavy_JJ metal_NN1 salts_NN2 ._. 
+</s>
+<s>
+The_AT reaction_NN1 with_IW p-chloro-mercuribenzoate_NN1 (_( PCMB_NP1 )_) can_VM be_VBI used_JJ to_II measure_NN1 thiol_NN1 groups_NN2 ,_, as_CSA there_EX are_VBR changes_NN2 in_II the_AT ultraviolet_JJ spectrum_NN1 of_IO the_AT compound_NN1 ._. 
+</s>
+<s>
+As_CSA proteins_NN2 absorb_VV0 strongly_RR in_II the_AT ultraviolet_JJ spectrum_NN1 it_PPH1 is_VBZ better_JJR to_TO use_VVI reagents_NN2 with_IW absorption_NN1 peaks_NN2 in_II the_AT visible_JJ spectrum_NN1 ._. 
+</s>
+<s>
+5,5'-bisdithio-2-nitrobenzoate_FU (_( DTNB_NP1 )_) is_VBZ highly_RR specific_JJ for_IF free_JJ thiol_NN1 groups_NN2 ._. 
+</s>
+<s>
+Usually_RR neither_DD1 reagent_NN1 absorbs_VVZ in_II the_AT significantly_RR in_II the_AT visible_JJ region_NN1 ._. 
+</s>
+<s>
+Thionitrobenzoate_NN1 has_VHZ a_AT1 maximal_JJ extinction_NN1 at_II 412nm_FO and_CC is_VBZ bright_JJ yellow_JJ ._. 
+</s>
+<s>
+The_AT yellow_JJ colour_NN1 is_VBZ due_II21 to_II22 the_AT presence_NN1 of_IO S-_NN1 ._. 
+</s>
+<s>
+The_AT increase_NN1 in_II extinction_NN1 at_II 412nm_FO can_VM be_VBI used_JJ to_II measure_NN1 reactive_JJ thiol_NN1 groups_NN2 ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO the_AT experiment_NN1 is_VBZ to_TO purify_VVI the_AT protein_NN1 ovalbumin_NN1 from_II egg_NN1 white_NN1 by_II precipitation_NN1 at_II high_JJ salt_NN1 concentrations_NN2 ._. 
+</s>
+<s>
+The_AT number_NN1 of_IO thiol_NN1 groups_NN2 will_VM be_VBI determined_VVN ,_, this_DD1 will_VM then_RT be_VBI compared_VVN to_II a_AT1 standard_JJ preparation_NN1 of_IO the_AT purified_JJ protein_NN1 ._. 
+</s>
+<s>
+The_AT method_NN1 followed_VVN is_VBZ as_CSA described_VVN in_II the_AT laboratory_NN1 manual_NN1 ._. 
+</s>
+<s>
+In_II estimating_VVG the_AT concentration_NN1 of_IO the_AT prepared_JJ ovalbumin_NN1 0.01ml_NNU of_IO the_AT preparation_NN1 was_VBDZ taken_VVN ,_, rather_II21 than_II22 the_AT suggested_JJ 0.1ml_NNU ._. 
+</s>
+<s>
+This_DD1 was_VBDZ because_CS at_II the_AT suggested_JJ concentration_NN1 ,_, the_AT absorbance_NN1 at_II 280nm_FO was_VBDZ off_II the_AT scale_NN1 of_IO the_AT machine_NN1 ._. 
+</s>
+<s>
+In_II the_AT purification_NN1 of_IO ovalbumin_NN1 procedure_NN1 0.25g_NNU of_IO powdered_JJ ammonium_NN1 sulphate_NN1 were_VBDR added_VVN per_II ml_NNU of_IO filtrate._NNU 27ml_NNU of_IO filtrate_NN1 was_VBDZ produced_VVN 27_MC x_ZZ1 0.25_MC =_FO 6.75g_NNU 6.75g_NNU of_IO powdered_JJ ammonium_NN1 sulphate_NN1 were_VBDR added_VVN ._. 
+</s>
+<s>
+There_EX are_VBR two_MC additional_JJ results_NN2 sheets_NN2 from_II the_AT laboratory_NN1 manual_NN1 that_CST are_VBR included_VVN after_II this_DD1 page_NN1 ._. 
+</s>
+<s>
+The_AT absorbance_NN1 with_IW SDS_NP1 shows_VVZ a_AT1 rapid_JJ increase_NN1 ,_, before_CS the_AT graph_NN1 begins_VVZ to_TO increase_VVI more_RGR slowly_RR and_CC uniformly_RR ._. 
+</s>
+<s>
+The_AT absorbance_NN1 levels_NN2 off_RP at_II 0.3nm_FO ._. 
+</s>
+<s>
+The_AT absorbance_NN1 with_IW no_AT SDS_NP1 remains_VVZ at_II a_AT1 constant_JJ level_NN1 of_IO 0.1nm_FO for_IF the_AT entire_JJ experiment_NN1 ._. 
+</s>
+<s>
+The_AT absorbance_NN1 of_IO the_AT control_NN1 solution_NN1 is_VBZ also_RR constant_JJ throughout_II the_AT experiment_NN1 ._. 
+</s>
+<s>
+This_DD1 shows_VVZ the_AT absorbance_NN1 of_IO the_AT compounds_NN2 in_II the_AT solution_NN1 without_IW the_AT ovalbumin_NN1 ,_, by_II taking_VVG this_DD1 figure_NN1 away_II21 from_II22 the_AT other_JJ recordings_NN2 ,_, it_PPH1 is_VBZ possible_JJ to_TO discover_VVI the_AT absorbance_NN1 for_IF ovalbumin_NN1 alone_RR ._. 
+</s>
+<s>
+The_AT absorbance_NN1 with_IW SDS_NP1 shows_VVZ a_AT1 rapid_JJ increase_NN1 ,_, before_CS the_AT graph_NN1 begins_VVZ to_TO increase_VVI more_RGR slowly_RR and_CC uniformly_RR ._. 
+</s>
+<s>
+The_AT absorbance_NN1 levels_NN2 off_RP at_II 0.9nm_FO ._. 
+</s>
+<s>
+The_AT absorbance_NN1 with_IW no_AT SDS_NP1 remains_VVZ at_II a_AT1 constant_JJ level_NN1 of_IO 0.01nm_FO for_IF the_AT entire_JJ experiment_NN1 ._. 
+</s>
+<s>
+The_AT absorbance_NN1 of_IO the_AT control_NN1 solution_NN1 is_VBZ also_RR constant_JJ throughout_II the_AT experiment_NN1 ._. 
+</s>
+<s>
+This_DD1 shows_VVZ the_AT absorbance_NN1 of_IO the_AT compounds_NN2 in_II the_AT solution_NN1 without_IW the_AT ovalbumin_NN1 ,_, by_II taking_VVG this_DD1 figure_NN1 away_II21 from_II22 the_AT other_JJ recordings_NN2 ,_, it_PPH1 is_VBZ possible_JJ to_TO discover_VVI the_AT absorbance_NN1 for_IF ovalbumin_NN1 alone_RR ._. 
+</s>
+<s>
+This_DD1 graph_NN1 shows_VVZ the_AT absorbance_NN1 curves_NN2 for_IF both_DB2 the_AT purified_JJ ovalbumin_NN1 and_CC the_AT standard_JJ ovalbumin_NN1 against_II time_NNT1 ,_, allowing_VVG direct_JJ comparison_NN1 between_II the_AT two_MC ._. 
+</s>
+<s>
+Whilst_CS both_DB2 graphs_NN2 have_VH0 a_AT1 very_RG similar_JJ shape_NN1 ,_, the_AT purified_JJ ovalbumin_NN1 has_VHZ a_AT1 final_JJ absorbance_NN1 level_NN1 nearly_RR three_MC times_NNT2 that_DD1 of_IO the_AT standard_JJ ovalbumin_NN1 ._. 
+</s>
+<s>
+Our_APPGE standard_JJ ovalbumin_NN1 and_CC purified_JJ ovalbumin_NN1 had_VHD differing_JJ numbers_NN2 reactive_JJ thiol_NN1 groups_NN2 in_II the_AT presence_NN1 of_IO SDS_NP1 ._. 
+</s>
+<s>
+This_DD1 may_VM well_RR be_VBI due_II21 to_II22 the_AT accuracy_NN1 of_IO purification_NN1 of_IO the_AT ovalbumin_NN1 ._. 
+</s>
+<s>
+With_IW contamination_NN1 of_IO the_AT purified_JJ ovalbumin_NN1 by_II other_JJ proteins_NN2 from_II the_AT original_JJ egg_NN1 white_NN1 compound_VV0 the_AT absorbance_NN1 figures_NN2 may_VM have_VHI been_VBN altered_VVN ._. 
+</s>
+<s>
+This_DD1 in_II turn_NN1 would_VM have_VHI led_VVN to_II inaccuracies_NN2 in_II the_AT calculation_NN1 of_IO the_AT number_NN1 of_IO reactive_JJ thiol_NN1 groups_NN2 ._. 
+</s>
+<s>
+Both_DB2 figures_NN2 1_MC1 and_CC 2_MC show_VV0 differing_JJ ,_, but_CCB constant_JJ absorbencies_NN2 for_IF ovalbumin_NN1 without_IW SDS_NP1 present_NN1 ,_, this_DD1 indicates_VVZ that_CST there_EX is_VBZ no_AT reaction_NN1 occurring_VVG ._. 
+</s>
+<s>
+In_II the_AT presence_NN1 of_IO SDS_NP1 both_DB2 solutions_NN2 show_VV0 a_AT1 large_JJ increase_NN1 in_II absorbency_NN1 as_II the_AT reaction_NN1 time_NNT1 increases_NN2 ,_, showing_VVG it_PPH1 must_VM be_VBI SDS_NP1 that_CST causes_VVZ the_AT reaction_NN1 to_TO take_VVI place_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR shown_VVN by_II the_AT fact_NN1 that_CST our_APPGE standard_JJ ovalbumin_NN1 and_CC purified_JJ ovalbumin_NN1 had_VHD 0_MC reactive_JJ thiol_NN1 groups_NN2 in_II the_AT absence_NN1 of_IO SDS_NP1 ._. 
+</s>
+<s>
+Sodium_NN1 dodecyl_NN1 sulphate_NN1 is_VBZ an_AT1 anionic_JJ detergent_NN1 ,_, which_DDQ denatures_VVZ proteins_NN2 by_II wrapping_VVG around_II the_AT polypeptide_NN1 backbone_NN1 ._. 
+</s>
+<s>
+Detergents_NN2 are_VBR surfactants_NN2 that_CST contain_VV0 a_AT1 hydrophobic_JJ portion_NN1 ,_, which_DDQ is_VBZ soluble_JJ in_II oil-like_JJ solutions_NN2 ,_, and_CC a_AT1 hydrophilic_JJ portion_NN1 ,_, which_DDQ is_VBZ soluble_JJ in_II water_NN1 ._. 
+</s>
+<s>
+This_DD1 characteristic_JJ results_NN2 in_II the_AT formation_NN1 of_IO stable_JJ micelles_NN2 with_IW hydrophobic_JJ cores_NN2 in_II an_AT1 aqueous_JJ solution_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 reaction_NN1 ,_, the_AT presence_NN1 of_IO SDS_NP1 denatures_VVZ the_AT ovalbumin_NN1 by_II disrupting_VVG the_AT electrostatic_JJ interactions_NN2 and_CC hydrophobic_JJ interactions_NN2 ,_, therefore_RR breaking_VVG down_RP the_AT quaternary_JJ structure_NN1 of_IO the_AT protein_NN1 ._. 
+</s>
+<s>
+This_DD1 allows_VVZ the_AT DTNB_NP1 to_TO bind_VVI to_II the_AT free_JJ thiol_NN1 groups_NN2 ,_, causing_VVG the_AT increase_NN1 in_II absorbance_NN1 as_II the_AT solution_NN1 becomes_VVZ more_DAR and_CC more_RGR yellow_JJ in_II appearance_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO determine_VVI if_CSW the_AT denaturation_NN1 of_IO ovalbumin_NN1 by_II urea_NN1 or_CC SDS_NP1 is_VBZ a_AT1 reversible_JJ reaction_NN1 ,_, the_AT denaturation_NN1 agent_NN1 must_VM first_MD be_VBI removed_VVN from_II the_AT solution_NN1 ._. 
+</s>
+<s>
+Conventional_JJ methods_NN2 for_IF detergent_NN1 removal_NN1 include_VV0 hydrophobic_JJ adsorption_NN1 ,_, gel_NN1 chromatography_NN1 ,_, dialysis_NN1 ,_, ion-exchange_JJ chromatography_NN1 ,_, and_CC precipitation_NN1 techniques_NN2 ._. 
+</s>
+<s>
+Having_VHG removed_VVN the_AT detergent_NN1 ,_, the_AT protein_NN1 will_VM refold_RR ._. 
+</s>
+<s>
+As_CSA shown_VVN by_II the_AT Anfinsen_NP1 experiment_VV0 the_AT polypeptide_NN1 sequence_NN1 determines_VVZ the_AT folding_NN1 and_CC therefore_RR the_AT three_MC dimensional_JJ structure_NN1 ._. 
+</s>
+<s>
+As_II the_AT polypeptide_NN1 sequence_NN1 is_VBZ unaltered_JJ refolding_NN1 can_VM occur_VVI through_II the_AT process_NN1 of_IO nucleation_NN1 aggregation_NN1 and_CC compaction_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO test_VVI that_CST the_AT protein_NN1 was_VBDZ no_RR21 longer_RR22 denatured_VVN ,_, the_AT absorbency_NN1 of_IO the_AT solution_NN1 at_II 412nm_FO could_VM be_VBI measured_VVN and_CC compared_VVN with_IW the_AT graph_NN1 in_II figure_NN1 1_MC1 above_RL ,_, it_PPH1 should_VM match_VVI the_AT plot_NN1 of_IO standard_JJ ovalbumin_NN1 in_II the_AT absence_NN1 of_IO SDS_NP1 ._. 
+</s>
+<s>
+To_TO measure_VVI the_AT concentration_NN1 of_IO DTNB_NP1 in_II a_AT1 solution_NN1 of_IO unknown_JJ concentration_NN1 ,_, the_AT above_JJ experiment_NN1 could_VM be_VBI carried_VVN out_RP using_VVG a_AT1 known_JJ concentration_NN1 of_IO thiol_NN1 groups_NN2 ._. 
+</s>
+<s>
+This_DD1 would_VM allow_VVI the_AT concentration_NN1 of_IO DTNB_NP1 to_TO be_VBI calculated_VVN ,_, as_CSA there_EX is_VBZ a_AT1 1:1_MC ratio_NN1 of_IO DTNB_NP1 molecules_NN2 (_( and_CC therefore_RR concentration_NN1 )_) to_II the_AT number_NN1 of_IO thiol_NN1 molecules_NN2 ._. 
+</s>
+<s>
+The_AT determination_NN1 of_IO the_AT number_NN1 of_IO thiol_NN1 groups_NN2 by_II DTNB_NP1 is_VBZ carried_VVN out_RP at_II pH_NN1 7.5_MC because_CS the_AT extinction_NN1 coefficient_NN1 is_VBZ strongly_RR pH_NN1 dependent_NN1 at_II pH_NN1 values_NN2 more_RGR acidic_JJ than_CSN 7.5_MC ._. 
+</s>
+<s>
+With_IW an_AT1 altered_JJ pH_NN1 the_AT maximal_JJ extinction_NN1 may_VM be_VBI altered_VVN ,_, meaning_VVG that_CST the_AT absorbency_NN1 figures_NN2 will_VM be_VBI wrong_JJ ._. 
+</s>

@@ -1,0 +1,258 @@
+<s>
+Abstract:The_FO organisation_NN1 of_IO the_AT semantic_JJ mental_JJ lexicon_NN1 is_VBZ still_RR an_AT1 open_JJ question_NN1 ._. 
+</s>
+<s>
+Two_MC opposing_JJ views_NN2 have_VH0 emerged_VVN :_: one_PN1 emphasises_VVZ similarities_NN2 among_II objects_NN2 ;_; the_AT other_JJ highlights_NN2 associations_NN2 of_IO these_DD2 objects_NN2 in_II the_AT environment_NN1 ._. 
+</s>
+<s>
+Previous_JJ studies_NN2 have_VH0 also_RR found_VVN a_AT1 hemispheric_JJ asymmetry_NN1 in_II the_AT mental_JJ lexicon_NN1 :_: left_JJ hemisphere_NN1 stores_NN2 categorical_JJ information_NN1 and_CC right_JJ hemisphere_NN1 organises_VVZ association_NN1 networks_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 ,_, however_RR ,_, have_VH0 been_VBN mixed_VVN ._. 
+</s>
+<s>
+This_DD1 study_NN1 aims_VVZ at_II testing_VVG the_AT hemispheric_JJ asymmetry_NN1 hypothesis_NN1 in_II a_AT1 single_JJ subject_NN1 (_( split-brain_JJ patient_NN1 )_) ,_, holding_VVG constant_JJ several_DA2 variables_NN2 that_CST varied_VVD in_II previous_JJ research_NN1 ._. 
+</s>
+<s>
+The_AT mental_JJ organisation_NN1 of_IO the_AT semantic_JJ lexicon_NN1 is_VBZ an_AT1 important_JJ question_NN1 in_II cognitive_JJ science_NN1 ._. 
+</s>
+<s>
+Two_MC views_NN2 have_VH0 emerged_VVN (_( Buchanan_NP1 et_RA21 al._RA22 ,_, 1999_MC )_) :_: one_MC1 assumes_VVZ that_CST objects_NN2 in_II the_AT world_NN1 are_VBR represented_VVN in_II the_AT mind_NN1 according_II21 to_II22 the_AT similarities_NN2 they_PPHS2 share_VV0 ;_; the_AT alternative_JJ view_NN1 posits_VVZ that_CST it_PPH1 is_VBZ the_AT co-occurrence_NN1 ,_, not_XX the_AT similarities_NN2 ,_, of_IO objects_NN2 in_II the_AT environment_NN1 that_CST organises_VVZ the_AT semantic_JJ space_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT first_MD view_NN1 (_( henceforth_RT feature-based_JJ )_) ,_, the_AT more_DAR features_NN2 two_MC objects_NN2 share_VV0 ,_, the_AT closer_JJR they_PPHS2 are_VBR in_II the_AT semantic_JJ space_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, 'apple'_JJ and_CC 'plum'_JJ share_NN1 several_DA2 features_NN2 ;_; both_DB2 are_VBR round_JJ ,_, juicy_JJ and_CC grow_VV0 in_II trees_NN2 ._. 
+</s>
+<s>
+'Apple'_VV0 and_CC 'basket'_NN1 ,_, on_II the_AT other_JJ hand_NN1 ,_, share_VV0 much_DA1 less_DAR features_NN2 (_( not_XX round_JJ ,_, not_XX juicy_JJ ,_, not_XX in_II trees_NN2 )_) ._. 
+</s>
+<s>
+Thus_RR ,_, 'apple'_JJ and_CC 'plum'_NN1 are_VBR closer_JJR neighbours_NN2 in_II the_AT semantic_JJ space_NN1 than_CSN 'apple'_JJ and_CC 'basket'_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, if_CS a_AT1 feature_NN1 (_( e.g._REX ,_, 'roundness_NN1 '_GE )_) is_VBZ activated_VVN in_II the_AT mental_JJ lexicon_NN1 ,_, then_RT ,_, all_DB objects_NN2 sharing_VVG that_DD1 feature_NN1 (_( e.g._REX ,_, 'apple'_VV0 ,_, 'plum'_NN1 )_) should_VM also_RR be_VBI activated_VVN ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT more_DAR features_NN2 two_MC objects_NN2 share_VV0 ,_, the_AT more_RGR simultaneous_JJ activation_NN1 they_PPHS2 should_VM experience_VVI ._. 
+</s>
+<s>
+Thus_RR ,_, 'apple'_NN1 should_VM strongly_RR activate_VVI representations_NN2 of_IO 'plum'_NN1 ,_, but_CCB not_XX of_IO 'basket'_NN1 ._. 
+</s>
+<s>
+The_AT second_MD view_NN1 on_II semantic_JJ organisation_NN1 (_( henceforth_RT association-based_JJ )_) posits_VVZ that_CST words_NN2 are_VBR arranged_VVN in_II the_AT mental_JJ lexicon_NN1 according_II21 to_II22 the_AT frequency_NN1 that_CST they_PPHS2 co-occur_VV0 in_II the_AT environment_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, if_CS 'apple'_JJ and_CC 'basket'_VV0 occur_VV0 together_RL more_DAR often_RR than_CSN 'apple'_JJ and_CC 'plum'_NN1 ,_, the_AT former_DA should_VM be_VBI closer_JJR neighbours_NN2 in_II the_AT semantic_JJ space_NN1 than_CSN the_AT latter_DA ._. 
+</s>
+<s>
+Indeed_RR ,_, when_CS asked_VVN to_TO generate_VVI words_NN2 related_VVD to_TO 'fruit'_VVI ,_, people_NN usually_RR mention_VV0 'apple'_JJ and_CC 'basket'_VV0 among_II the_AT first_MD 15_MC associates_NN2 but_CCB not_XX 'plum'_JJ ._. 
+</s>
+<s>
+According_II21 to_II22 this_DD1 view_NN1 ,_, if_CS 'fruit'_NN1 is_VBZ presented_VVN as_II a_AT1 stimulus_NN1 ,_, closer_JJR associates_NN2 (_( e.g._REX ,_, 'apple'_VV0 ,_, 'basket'_NN1 )_) should_VM be_VBI concurrently_RR activated_VVN more_RGR strongly_RR than_CSN remote_JJ associates_NN2 (_( e.g._REX ,_, 'apple'_VV0 ,_, 'plum'_NN1 )_) ,_, regardless_RR of_IO their_APPGE similarities_NN2 (_( e.g._REX ,_, 'apple'_JJ and_CC 'basket'_JJ small_JJ feature_NN1 overlap_NN1 )_) ._. 
+</s>
+<s>
+Stadleral._NP1 (_( 1999_MC )_) laid_VVD out_RP norms_NN2 for_IF association_NN1 lists_NN2 ._. 
+</s>
+<s>
+For_IF 'fruit'_NN1 ,_, the_AT free_JJ associates_NN2 are_VBR (_( strongest_JJT to_II weakest_JJT link_NN1 )_) :_: apple_NN1 ,_, vegetable_NN1 ,_, orange_NN1 ,_, kiwi_NN1 ,_, citrus_NN1 ,_, ripe_JJ ,_, pear_NN1 ,_, banana_NN1 ,_, berry_NN1 ,_, cherry_NN1 ,_, basket_NN1 ,_, juice_NN1 ,_, salad_NN1 ,_, bowl_NN1 and_CC cocktail_NN1 ._. 
+</s>
+<s>
+The_AT false_JJ memory_NN1 paradigm_NN1 (_( Roediger_NP1 &;_NULL McDermott_NP1 ,_, 1995_MC )_) is_VBZ particularly_RR useful_JJ to_TO test_VVI the_AT different_JJ predictions_NN2 yielded_VVN by_II each_DD1 theory_NN1 ._. 
+</s>
+<s>
+In_II its_APPGE original_JJ form_NN1 ,_, this_DD1 paradigm_NN1 refers_VVZ to_II the_AT fact_NN1 that_CST people_NN tend_VV0 to_TO falsely_RR remember_VVI words_NN2 ,_, in_II a_AT1 recognition_NN1 test_NN1 ,_, that_CST were_VBDR not_XX previously_RR shown_VVN during_II a_AT1 study_NN1 phase_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, after_II being_VBG exposed_VVN to_II a_AT1 list_NN1 of_IO words_NN2 associated_VVN with_IW 'fruit'_NN1 ,_, but_CCB not_XX including_VVG it_PPH1 ,_, participants_NN2 wrongly_RR claim_VV0 that_CST the_AT word_NN1 was_VBDZ present_JJ in_II the_AT study_NN1 list_NN1 ._. 
+</s>
+<s>
+Words_NN2 such_II21 as_II22 'fruit'_NN1 (_( non-presented_JJ word_NN1 heading_NN1 list_NN1 of_IO free-associates_NN2 )_) are_VBR called_VVN critical_JJ lures_NN2 ._. 
+</s>
+<s>
+Although_CS developed_VVN for_IF use_NN1 with_IW lists_NN2 of_IO free_JJ associates_NN2 ,_, the_AT paradigm_NN1 can_VM be_VBI adapted_VVN to_TO use_VVI lists_NN2 of_IO category-related_JJ words_NN2 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, the_AT critical_JJ lure_NN1 is_VBZ the_AT first_MD exemplar_JJ of_IO the_AT category_NN1 (_( e.g._REX ,_, 'apple'_VV0 for_IF the_AT category_NN1 'fruit'_NN1 ;_; see_VV0 Battig_NP1 &;_NULL Montague_NP1 ,_, 1969_MC )_) ._. 
+</s>
+<s>
+The_AT false_JJ memory_NN1 paradigm_NN1 and_CC its_APPGE variation_NN1 have_VH0 been_VBN used_VVN to_TO provide_VVI support_NN1 for_IF both_DB2 theories_NN2 of_IO semantic_JJ organisation_NN1 ._. 
+</s>
+<s>
+Buchananal._NP1 (_( 1999_MC )_) showed_VVD that_CST both_RR category-_JJ and_CC association-based_JJ lists_NN2 produced_VVD false_JJ memories_NN2 in_II participants_NN2 ._. 
+</s>
+<s>
+Association_NN1 lists_NN2 ,_, however_RR ,_, yielded_VVD the_AT larger_JJR effects_NN2 ,_, bringing_VVG support_NN1 to_II the_AT view_NN1 that_CST association_NN1 is_VBZ a_AT1 major_JJ driving_JJ force_NN1 in_II semantic_JJ organisation_NN1 ._. 
+</s>
+<s>
+Building_NN1 on_II findings_NN2 of_IO cerebral_JJ hemispheric_JJ specialisation_NN1 (_( Gazzaniga_NP1 ,_, 1998_MC )_) ,_, recent_JJ research_NN1 suggests_VVZ that_CST the_AT mental_JJ lexicon_NN1 may_VM be_VBI lateralised_VVN :_: the_AT left_JJ hemisphere_NN1 (_( LH_NP1 )_) arranges_VVZ information_NN1 in_II a_AT1 category-specific_JJ manner_NN1 ,_, whereas_CS the_AT right_JJ hemisphere_NN1 (_( RH_FO )_) organises_VVZ data_NN through_II association_NN1 networks_NN2 (_( henceforth_RT hemispheric_JJ asymmetry_NN1 hypothesis_NN1 )_) ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, Metcalfeal._NP1 (_( 1995_MC )_) found_VVD that_CST a_AT1 split-brain_JJ patient_NN1 's_GE LH_NP1 falsely_RR recognised_VVD more_DAR words_NN2 than_CSN its_APPGE RH_FO when_CS presented_VVN with_IW category-based_JJ lists_NN2 of_IO words_NN2 ._. 
+</s>
+<s>
+This_DD1 suggests_VVZ that_CST category-specific_JJ information_NN1 in_II spread_NN1 more_RGR intensely_RR in_II the_AT LH_NP1 than_CSN in_II the_AT RH_FO ._. 
+</s>
+<s>
+By_II contrast_NN1 ,_, Westerberg_NP1 and_CC Marsolek_NP1 (_( 2003_MC )_) found_VVD that_CST normal_JJ subjects_NN2 falsely_RR recognised_VVN critical_JJ lures_NN2 more_RGR often_RR in_II the_AT RH_FO than_CSN in_II the_AT LH_NP1 when_CS presented_VVN with_IW associations-based_JJ lists_NN2 of_IO words_NN2 ._. 
+</s>
+<s>
+This_DD1 suggests_VVZ that_CST RH_FO may_VM organize_VVI the_AT mental_JJ lexicon_NN1 in_II an_AT1 associative_JJ way_NN1 (_( non-feature-based_NN1 )_) ,_, since_CS association-specific_JJ information_NN1 spread_VVD more_RGR intensely_RR in_II the_AT RH_FO than_CSN it_PPH1 did_VDD in_II the_AT LH_NP1 ._. 
+</s>
+<s>
+At_II face_NN1 value_NN1 ,_, these_DD2 results_NN2 appear_VV0 clear-cut_JJ ._. 
+</s>
+<s>
+A_AT1 closer_JJR look_NN1 ,_, however_RR ,_, reveals_VVZ flaws_NN2 that_CST impair_VV0 comparability_NN1 across_II experiments_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 from_II Metcalfeal._NP1 (_( 1995_MC )_) are_VBR based_VVN on_II data_NN from_II a_AT1 single_JJ split-brain_JJ patient_NN1 called_VVN J.W._NP1 Consequently_RR ,_, the_AT result_NN1 may_VM not_XX be_VBI general_JJ :_: the_AT lateralization_NN1 pattern_NN1 of_IO that_DD1 patient_NN1 may_VM differ_VVI from_II average_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, Westerberg_NP1 and_CC Marsolek_NP1 (_( 2003_MC )_) pointed_VVD out_RP that_CST J.W._NP1 's_GE lateralization_NN1 performance_NN1 for_IF spatial_JJ processing_NN1 was_VBDZ opposite_JJ to_II normal_JJ ._. 
+</s>
+<s>
+Thus_RR ,_, it_PPH1 is_VBZ important_JJ to_TO validate_VVI those_DD2 results_NN2 on_II a_AT1 different_JJ patient_NN1 ._. 
+</s>
+<s>
+Two_MC brain_NN1 lesions_NN2 are_VBR rarely_RR the_AT same_DA ._. 
+</s>
+<s>
+Moreover_RR ,_, injured_JJ brains_NN2 may_VM undergo_VVI functional_JJ rearrangement_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, in_BCL21 order_BCL22 to_TO validate_VVI results_NN2 from_II lesion_NN1 studies_NN2 ,_, one_PN1 has_VHZ to_TO look_VVI for_IF similarities_NN2 across_II patients_NN2 (_( Gazzaniga_NP1 et_RA21 al._RA22 ,_, 1998_MC ,_, p._NN1 105_MC )_) ._. 
+</s>
+<s>
+Likewise_RR ,_, Westerberg_NP1 and_CC Marsolek_NP1 (_( 2003_MC )_) did_VDD not_XX control_VVI for_IF hemispheric_JJ word_NN1 recognition_NN1 ._. 
+</s>
+<s>
+What_DDQ if_CS the_AT RH_FO of_IO most_DAT participants_NN2 did_VDD not_XX recognise_VVI the_AT words_NN2 in_II the_AT first_MD place_NN1 ?_? 
+</s>
+<s>
+This_DD1 could_VM have_VHI given_VVN an_AT1 advantage_NN1 to_II the_AT participant_NN1 's_GE LH_NP1 that_DD1 was_VBDZ not_XX related_VVN to_II association_NN1 ._. 
+</s>
+<s>
+The_AT fact_NN1 that_CST subjects_NN2 were_VBDR less_RGR confident_JJ in_II judgements_NN2 of_IO words_NN2 presented_VVN to_II the_AT RH_FO than_CSN to_II the_AT LH_NP1 supports_VVZ this_DD1 observation_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, when_CS comparing_VVG hemispheres_NN2 ,_, it_PPH1 is_VBZ important_JJ to_TO control_VVI for_IF 'word_NN1 knowledge'_NN1 ._. 
+</s>
+<s>
+Those_DD2 findings_NN2 were_VBDR also_RR produced_VVN in_II different_JJ experiments_NN2 ,_, using_VVG different_JJ paradigms_NN2 ,_, analyses_NN2 (_( group_NN1 vs._II case_NN1 study_NN1 )_) and_CC participants_NN2 (_( normal_JJ vs._II split-brain_NN1 )_) ._. 
+</s>
+<s>
+While_CS previous_JJ experiments_NN2 found_VVD single_JJ dissociations_NN2 for_IF semantic_JJ organisation_NN1 (_( different_JJ neural_NN1 correlates_VVZ for_IF different_JJ semantic_JJ arrangements_NN2 in_II different_JJ groups_NN2 )_) ,_, no_AT study_NN1 has_VHZ set_VVN out_RP to_TO find_VVI a_AT1 double_JJ dissociation_NN1 (_( different_JJ neural_NN1 correlates_VVZ for_IF different_JJ semantic_JJ arrangements_NN2 in_II the_AT same_DA group_NN1 )_) ._. 
+</s>
+<s>
+We_PPIS2 aim_VV0 at_II finding_VVG a_AT1 double_JJ dissociation_NN1 by_II testing_VVG the_AT hemispheric_JJ asymmetry_NN1 hypothesis_NN1 in_II a_AT1 single_JJ split-brain_JJ patient_NN1 ._. 
+</s>
+<s>
+By_II holding_VVG constant_JJ participant_NN1 and_CC varying_JJ list_NN1 type_NN1 (_( category-based_NN1 and_CC association-based_NN1 )_) and_CC hemisphere_NN1 (_( left_JJ and_CC right_RR )_) we_PPIS2 believe_VV0 we_PPIS2 can_VM test_VVI more_RGR directly_RR whether_CSW31 or_CSW32 not_CSW33 there_EX is_VBZ a_AT1 hemispheric_JJ specialization_NN1 concerning_II semantic_JJ lexicon_NN1 organisation_NN1 ._. 
+</s>
+<s>
+J.S._NP2 is_VBZ a_AT1 45-year-old_JJ ,_, right-handed_JJ male_NN1 who_PNQS underwent_VVD a_AT1 complete_JJ callosotomy_NN1 10_MC year_NNT1 ago_RA to_TO treat_VVI intractable_JJ epilepsy_NN1 ._. 
+</s>
+<s>
+Magnetic_JJ resonance_NN1 imaging_NN1 confirmed_VVD complete_JJ callosal_NN1 section_NN1 ._. 
+</s>
+<s>
+Testing_VVG in_II 2000_MC showed_VVD IQ_NN1 score_NN1 of_IO 98_MC ,_, verbal_JJ score_NN1 of_IO 99_MC and_CC Memory_NN1 Quotient_NN1 of_IO 102_MC ._. 
+</s>
+<s>
+J.S._NP2 also_RR presents_VVZ normal_JJ visual_JJ and_CC hearing_VVG abilities_NN2 ._. 
+</s>
+<s>
+Category-based_NN1 and_CC free-association_NN1 lists_NN2 were_VBDR presented_VVN to_II the_AT participant_NN1 auditorily_RR over_II headphones_NN2 to_II both_DB2 ears_NN2 during_II the_AT study_NN1 phase_NN1 at_II a_AT1 rate_NN1 of_IO 1.5s_NNU per_II word_NN1 ._. 
+</s>
+<s>
+Twenty_MC lists_NN2 of_IO words_NN2 were_VBDR used_VVN :_: 10_MC association-based_JJ lists_NN2 (_( Stadler_NP1 et_RA21 al._RA22 ,_, 1999_MC )_) ,_, 10_MC category-based_JJ lists_NN2 (_( Battig_NP1 &;_NULL Montague_NP1 ,_, 1969_MC )_) ._. 
+</s>
+<s>
+Each_DD1 list_NN1 contained_VVD 9_MC words_NN2 ._. 
+</s>
+<s>
+To_TO increase_VVI power_NN1 ,_, words_NN2 sharing_VVG many_DA2 features_NN2 in_II association_NN1 lists_NN2 and_CC words_NN2 sharing_VVG few_DA2 features_NN2 in_II category_NN1 lists_NN2 were_VBDR filtered_VVN out_RP ._. 
+</s>
+<s>
+False_JJ memories_NN2 are_VBR stronger_JJR when_CS stimuli_NN2 are_VBR presented_VVN auditorily_RR rather_II21 than_II22 visually_RR during_II the_AT study_NN1 phase_NN1 (_( see_VV0 Westerberg_NP1 et_RA21 al._RA22 ,_, 2003_MC )_) ._. 
+</s>
+<s>
+Nonetheless_RR ,_, Buchananal._NP1 (_( 1999_MC )_) and_CC Metcalfeal._NP1 (_( 1995_MC )_) used_VVD visual_JJ stimuli_NN2 on_II training_NN1 ._. 
+</s>
+<s>
+Word_NN1 lists_NN2 were_VBDR presented_VVN visually_RR to_II either_RR left_VVN or_CC right_RR visual_JJ hemifield_NN1 field_NN1 for_IF recognition_NN1 ._. 
+</s>
+<s>
+Sixteen_MC lists_NN2 were_VBDR presented_VVN in_II the_AT test_NN1 phase_NN1 (_( 4_MC filler_NN1 lists_NN2 left_VVD out_RP )_) ._. 
+</s>
+<s>
+Each_DD1 list_NN1 contained_VVD 7_MC words_NN2 :_: 5_MC previously_RR presented_VVN words_NN2 ,_, one_MC1 unrelated_JJ word_NN1 and_CC the_AT critical_JJ lure_NN1 ._. 
+</s>
+<s>
+Unrelated_JJ words_NN2 were_VBDR included_VVN to_TO test_VVI whether_CSW false_JJ memories_NN2 in_II J.S._NP2 are_VBR related_VVN to_II lures_NN2 or_CC to_II a_AT1 general_JJ memory_NN1 problem_NN1 ._. 
+</s>
+<s>
+A_AT1 button_NN1 box_NN1 with_IW the_AT two_MC buttons_NN2 (_( 'old'_VV0 ,_, 'new'_NN1 )_) was_VBDZ used_VVN to_TO assess_VVI recognition_NN1 memory_NN1 ._. 
+</s>
+<s>
+Two_MC sessions_NNT2 were_VBDR held_VVN on_II consecutive_JJ weeks_NNT2 :_: 10_MC lists_NN2 (_( 5_MC category_NN1 ,_, 5_MC association_NN1 )_) were_VBDR studied_VVN per_II session_NNT1 ._. 
+</s>
+<s>
+The_AT first_MD and_CC the_AT last_MD lists_NN2 (_( in_II each_DD1 condition_NN1 )_) were_VBDR used_VVN as_CSA fillers_NN2 to_TO attenuate_VVI primacy_NN1 and_CC recency_NN1 effects_NN2 ._. 
+</s>
+<s>
+After_CS the_AT 10_MC lists_NN2 were_VBDR presented_VVN ,_, the_AT participant_NN1 was_VBDZ asked_VVN to_TO execute_VVI a_AT1 2-minute_JJ nonverbal_JJ maze_NN1 task_NN1 (_( to_TO avoid_VVI covert_JJ rehearsal_NN1 )_) ._. 
+</s>
+<s>
+Next_MD ,_, 8_MC test_NN1 lists_NN2 were_VBDR presented_VVN (_( 4_MC per_II hemifield_NN1 ;_; 2_MC category-_JJ and_CC 2_MC association-based_JJ lists_NN2 in_II random_JJ order_NN1 )_) ._. 
+</s>
+<s>
+Table_NN1 1_MC1 summarises_VVZ the_AT procedure_NN1 ._. 
+</s>
+<s>
+The_AT words_NN2 were_VBDR presented_VVN in_II a_AT1 computer_NN1 screen_NN1 during_II the_AT test_NN1 phase_NN1 ._. 
+</s>
+<s>
+A_ZZ1 2mm_NNU black_JJ dot_NN1 was_VBDZ used_VVN as_II a_AT1 fixation_NN1 point_NN1 in_II the_AT centre_NN1 of_IO the_AT screen_NN1 and_CC a_AT1 chin_NN1 rest_NN1 was_VBDZ used_VVN to_TO control_VVI for_IF the_AT participant_NN1 's_GE distance_NN1 from_II the_AT monitor_NN1 ._. 
+</s>
+<s>
+The_AT words_NN2 were_VBDR flashed_VVN at_RR21 least_RR22 2_MC from_II the_AT fixation_NN1 point_NN1 for_IF 150ms_FO ._. 
+</s>
+<s>
+The_AT participant_NN1 was_VBDZ asked_VVN to_TO look_VVI at_II the_AT fixation_NN1 point_NN1 while_CS the_AT words_NN2 were_VBDR flashed_VVN either_RR to_II the_AT left_JJ or_CC to_II the_AT right_NN1 of_IO the_AT central_JJ dot_NN1 ._. 
+</s>
+<s>
+The_AT participant_NN1 should_VM then_RT press_VVI a_AT1 button_NN1 (_( 'old'/'new'_NN1 )_) in_II the_AT button_NN1 box_NN1 with_IW the_AT hand_NN1 ipsilateral_NN1 to_II the_AT hemifield_NN1 where_CS the_AT word_NN1 was_VBDZ presented_VVN ._. 
+</s>
+<s>
+Only_JJ words_NN2 recognised_VVN by_II both_DB2 cerebral_JJ hemispheres_NN2 were_VBDR included_VVN in_II the_AT study_NN1 and_CC test_VV0 lists_NN2 ._. 
+</s>
+<s>
+To_TO assess_VVI J.S._NP2 's_GE hemispheric_JJ word_NN1 knowledge_NN1 a_AT1 match/no-match_NN1 task_NN1 was_VBDZ carried_VVN out_RP ._. 
+</s>
+<s>
+He_PPHS1 was_VBDZ presented_VVN with_IW 1,500_MC pictures_NN2 representing_VVG 500_MC words_NN2 ._. 
+</s>
+<s>
+Following_VVG each_DD1 picture_NN1 ,_, a_AT1 word_NN1 was_VBDZ shown_VVN to_II either_DD1 hemisphere_NN1 ._. 
+</s>
+<s>
+He_PPHS1 was_VBDZ then_RT asked_VVN to_TO decide_VVI whether_CSW31 or_CSW32 not_CSW33 the_AT word_NN1 matched_VVN the_AT picture_NN1 ._. 
+</s>
+<s>
+Only_JJ words_NN2 for_IF which_DDQ J.S._NP2 made_VVD at_RR21 most_RR22 one_MC1 mistake_NN1 were_VBDR considered_VVN for_IF the_AT study_NN1 and_CC test_VV0 lists_NN2 ._. 
+</s>
+<s>
+The_AT design_NN1 was_VBDZ a_AT1 three-way_NN1 &lsqb;_( 2_MC (_( list_NN1 type_NN1 :_: category_NN1 vs._II association_NN1 )_) x_ZZ1 2_MC (_( hemisphere_NN1 :_: left_VVN vs._II right_NN1 )_) x_ZZ1 2_MC (_( word_NN1 type_NN1 :_: unrelated_JJ word_NN1 vs._II critical_JJ lure_NN1 )_) &rsqb;_) within-subject_NN1 ANOVA_NN1 ._. 
+</s>
+<s>
+The_AT dependent_JJ variable_NN1 was_VBDZ the_AT proportion_NN1 of_IO unrelated_JJ words_NN2 and_CC critical_JJ lures_NN2 that_CST were_VBDR falsely_RR recognised_VVN ._. 
+</s>
+<s>
+Table_NN1 2_MC shows_VVZ a_AT1 hypothetical_JJ result_NN1 table_NN1 for_IF this_DD1 experiment_NN1 ._. 
+</s>
+<s>
+If_CS the_AT hemispheric_JJ asymmetry_NN1 hypothesis_NN1 is_VBZ correct_JJ ,_, we_PPIS2 expect_VV0 to_TO find_VVI at_RR21 least_RR22 two_MC major_JJ interactions_NN2 between_II list_NN1 type_NN1 and_CC hemisphere_NN1 (_( critical_JJ lures_NN2 falsely_RR recognised_VVN more_RGR often_RR in_II the_AT :_: i_ZZ1 )_) LH_NP1 than_CSN RH_FO when_RRQ list_NN1 is_VBZ category-based_JJ ,_, ii_MC )_) RH_FO than_CSN LH_NP1 when_RRQ list_NN1 is_VBZ association-based_JJ )_) ._. 
+</s>

@@ -1,0 +1,261 @@
+<s>
+The_AT objective_NN1 of_IO this_DD1 assignment_NN1 is_VBZ to_TO investigate_VVI the_AT determinants_NN2 of_IO examination_NN1 results_NN2 ._. 
+</s>
+<s>
+To_TO do_VDI so_RR ,_, we_PPIS2 are_VBR given_VVN data_NN that_CST contains_VVZ observations_NN2 on_II econometrics_NN1 students_NN2 '_GE survey_NN1 responses_NN2 ,_, across_II 3_MC years_NNT2 (_( 2002-2004_MCMC )_) ._. 
+</s>
+<s>
+I_PPIS1 plotted_VVD a_AT1 scatter_NN1% graph_NN1 showing_VVG the_AT relation_NN1 between_II qtmark_NN1 and_CC hrsqt_NNU (_( Graph_NN1 1_MC1 ;_; appendix_NN1 p1_FO )_) ._. 
+</s>
+<s>
+From_II the_AT graph_NN1 ,_, we_PPIS2 can_VM see_VVI that_DD1 qtmark_NN1 and_CC hrsqt_NNU have_VH0 a_AT1 poitive_JJ relationship_NN1 ,_, with_IW students_NN2 doing_VDG better_RRR the_AT more_DAR time_NNT1 spent_VVN on_II statistics_NN ._. 
+</s>
+<s>
+The_AT variable_NN1 ,_, hrsqt_NNU shows_VVZ a_AT1 positive_JJ skew_NN1 with_IW students_NN2 spending_VVG on_II average_NN1 3.6_MC hours_NNT2 a_AT1 week_NNT1 on_II statistics_NN ._. 
+</s>
+<s>
+As_CSA it_PPH1 is_VBZ a_AT1 positive_JJ skew_NN1 ,_, most_DAT of_IO the_AT data_NN lies_VVZ on_II the_AT left_JJ hand_NN1 side_NN1 of_IO the_AT graph_NN1 (_( more_DAR students_NN2 spend_VV0 less_DAR hours_NNT2 on_II statistics_NN )_) ._. 
+</s>
+<s>
+I_PPIS1 also_RR plotted_VVD a_AT1 scatter_NN1% graph_NN1 to_TO analyse_VVI the_AT relation_NN1 between_II the_AT qtmark_NN1 and_CC the_AT proportion_NN1 of_IO classes_NN2 attended_VVN (_( attc_NN1 )_) (_( Graph_NN1 2_MC ;_; appendix_NN1 p1_FO )_) ._. 
+</s>
+<s>
+Graph_NN1 shows_VVZ that_CST most_DAT students_NN2 attend_VV0 most_DAT of_IO the_AT classes_NN2 as_II the_AT most_DAT of_IO the_AT data_NN is_VBZ grouped_VVN on_II the_AT right_JJ hand_NN1 side_NN1 of_IO the_AT graph_NN1 ._. 
+</s>
+<s>
+As_II the_AT graph_NN1 is_VBZ only_RR mildly_RR upward_JJ sloping_JJ ,_, the_AT relationship_NN1 between_II qtmark_NN1 and_CC attc_NN1 is_VBZ not_XX very_RG strong_JJ ._. 
+</s>
+<s>
+From_II the_AT correlation_NN1 calculations_NN2 ,_, we_PPIS2 find_VV0 that_CST the_AT correlation_NN1 is_VBZ only_RR 0.18_MC ,_, which_DDQ shows_VVZ that_CST it_PPH1 is_VBZ only_RR slightly_RR positively_RR correlated_VVN ._. 
+</s>
+<s>
+From_II the_AT correlation_NN1 tables_NN2 ,_, we_PPIS2 can_VM see_VVI that_CST the_AT strongest_JJT correlation_NN1 is_VBZ between_II qtmark_NN1 and_CC attl_NN1 ,_, where_CS the_AT correlation_NN1 of_IO results_NN2 and_CC the_AT proportion_NN1 of_IO lectures_NN2 attended_VVN is_VBZ strong_JJ and_CC positive_JJ (_( 0.3739_MC )_) ._. 
+</s>
+<s>
+This_DD1 reading_NN1 should_VM be_VBI somewhat_RR expected_VVN as_CSA students_NN2 who_PNQS attend_VV0 more_DAR lectures_NN2 will_VM naturally_RR attain_VVI higher_JJR results_NN2 during_II examinations_NN2 ._. 
+</s>
+<s>
+The_AT strongest_JJT correlation_NN1 is_VBZ between_II attc_NN1 and_CC attr_NN1 (_( 0.74998_MC )_) ._. 
+</s>
+<s>
+Such_DA strong_JJ correlation_NN1 between_II the_AT two_MC may_VM be_VBI a_AT1 sign_NN1 of_IO imperfect_JJ multicollinearity_NN1 and_CC should_VM not_XX be_VBI taken_VVN together_RL when_CS running_VVG regressions_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS it_PPH1 becomes_VVZ increasingly_RR harder_JJR to_TO identify_VVI their_APPGE separate_JJ effects_NN2 and_CC one_MC1 of_IO the_AT variables_NN2 should_VM be_VBI dropped_VVN ._. 
+</s>
+<s>
+(_( table_NN1 2.1_MC ,_, appendix_NN1 p2_FO )_) ._. 
+</s>
+<s>
+The_AT C_NP1 value_NN1 in_II table_NN1 2.1_MC ,_, 64.73999_MC shows_VVZ the_AT average_JJ mark_NN1 in_II first_MD year_NNT1 statistics_NN exam_NN1 (_( percent_NNU )_) obtained_VVD by_II students_NN2 when_RRQ ATTR_NP1 (_( proportion_NN1 of_IO revision_NN1 lectures_NN2 attended_VVN )_) is_VBZ zero_MC ._. 
+</s>
+<s>
+The_AT coefficient_NN1 of_IO ATTR_NP1 ,_, b_ZZ1 =_FO 0.002263%_FO ._. 
+</s>
+<s>
+This_DD1 is_VBZ means_NN that_CST there_EX is_VBZ a_AT1 0.002263%_FO increase_VV0 in_II the_AT mark_NN1 obtained_VVN for_IF every_AT1 1%_NNU proportion_NN1 of_IO revision_NN1 lectures_NN2 attended_VVD ._. 
+</s>
+<s>
+The_AT t-statistic_NN1 of_IO the_AT coefficient_NN1 of_IO ATTR_NN1 is_VBZ ,_, t(b)_NN1 =_FO 0.0129684_MC ._. 
+</s>
+<s>
+Probability_NN1 of_IO observing_VVG a_AT1 t-statistic_NN1 as_RG big_JJ as_CSA the_AT one_MC1 observed_JJ (_( 0.129684_MC )_) under_II the_AT null_JJ hypothesis_NN1 H_ZZ1 0_MC :_: (_( table_NN1 2.2_MC ;_; appendix_NN1 p2_FO )_) ._. 
+</s>
+<s>
+The_AT coefficient_NN1 of_IO attr_NN1 ,_, 0.105949_MC shows_VVZ that_CST the_AT average_JJ mark_NN1 will_VM increase_VVI by_II 0.105949%_FO with_IW every_AT1 1%_NNU point_NN1 increase_NN1 in_II proportion_NN1 of_IO revision_NN1 lectures_NN2 attended_VVN (_( compared_VVN to_II 0.002_MC in_II the_AT bivariate_JJ model_NN1 )_) ._. 
+</s>
+<s>
+From_II the_AT data_NN we_PPIS2 also_RR obtain_VV0 the_AT coefficients_NN2 for_IF abilty_NN1 and_CC hrsqt_NNU ._. 
+</s>
+<s>
+The_AT coefficient_NN1 for_IF ability_NN1 shows_VVZ that_DD1 qtmark_NN1 will_VM increase_VVI by_II 0.849900%_FO with_IW 1_MC1 unit_NN1 increase_NN1 in_II ability_NN1 ._. 
+</s>
+<s>
+While_CS for_IF hrsqt_NNU ,_, qtmark_NN1 will_VM increase_VVI by_II 0.417658%_FO with_IW a_AT1 1_MC1 unit_NN1 increase_NN1 in_II the_AT average_JJ hours_NNT2 spent_VVN per_II week_NNT1 working_VVG on_II statistics_NN during_II the_AT year_NNT1 ._. 
+</s>
+<s>
+The_AT t-Stat_NN1 for_IF attr_NN1 in_II this_DD1 model_NN1 is_VBZ 5.356408_NNU (_( 1.96_MC )_) and_CC therefore_RR ,_, we_PPIS2 reject_VV0 the_AT null_JJ hypothesis_NN1 ,_, H_ZZ1 0_MC :_: =_FO 0_MC ,_, as_CSA compared_VVN to_II the_AT t-Statistic_NN1 in_II table_NN1 2.1_MC where_RRQ we_PPIS2 are_VBR not_XX able_JK to_TO reject_VVI the_AT null_JJ hypothesis_NN1 ._. 
+</s>
+<s>
+This_DD1 shows_VVZ that_CST the_AT attr_NN1 coefficient_NN1 in_II the_AT multivariate_JJ regression_NN1 model_NN1 is_VBZ now_RT significant_JJ ,_, having_VHG the_AT additional_JJ variables_NN2 ,_, ability_NN1 and_CC hrsqt_NNU ._. 
+</s>
+<s>
+At_II 5%_NNU significance_NN1 level_NN1 ,_, critical_JJ value_NN1 =_FO 1.96_MC ._. 
+</s>
+<s>
+At_II 5%_NNU significance_NN1 level_NN1 ,_, critical_JJ value_NN1 =_FO ._. 
+</s>
+<s>
+F-statistic_NN1 =_FO 32.61029_MC ._. 
+</s>
+<s>
+Since_CS F-statistic_JJ ,_, we_PPIS2 reject_VV0 the_AT null_JJ hypothesis_NN1 H_ZZ1 ._. 
+</s>
+<s>
+From_II table_NN1 2.2_MC ,_, we_PPIS2 can_VM see_VVI that_CST we_PPIS2 have_VH0 observed_VVN an_AT1 event_NN1 which_DDQ occurs_VVZ with_IW a_AT1 probability_NN1 0.000_MC (_( 0.05_MC )_) and_CC should_VM also_RR therefore_RR ,_, reject_VV0 H_ZZ1 0_MC ._. 
+</s>
+<s>
+(_( table_NN1 2.3_MC ;_; appendix_NN1 p3_FO )_) ._. 
+</s>
+<s>
+I_PPIS1 have_VH0 ran_VVN a_AT1 regression_NN1 based_VVN on_II hrsqt_NNU divided_VVN into_II three_MC subsamples_NN2 ,_, between_II 0_MC and_CC 3_MC hours_NNT2 a_AT1 week_NNT1 (_( hrsqt2_FO )_) ,_, between_II 3_MC and_CC 6_MC hours_NNT2 a_AT1 week_NNT1 (_( hrsqt3_FO )_) and_CC more_DAR than_CSN 6_MC hours_NNT2 a_AT1 week_NNT1 (_( hrsqt4_FO )_) ,_, taking_VVG hrsqt4_FO as_II the_AT default_NN1 ._. 
+</s>
+<s>
+By_II observation_NN1 ,_, we_PPIS2 can_VM see_VVI that_CST hrsqt2_FO and_CC hrsqt3_FO are_VBR both_RR negative_JJ numbers_NN2 and_CC as_CSA hrsqt3_FO (_( -2.13_MC )_) is_VBZ less_DAR than_CSN hrsqt2_FO (_( -1.82_MC )_) ,_, we_PPIS2 know_VV0 that_CST it_PPH1 is_VBZ downward_JJ sloping_JJ ._. 
+</s>
+<s>
+However_RR ,_, hrsqt4_FO is_VBZ zero_NN1 as_CSA it_PPH1 is_VBZ a_AT1 default_NN1 and_CC will_VM cause_VVI the_AT line_NN1 to_TO move_VVI upwards_RL from_II -2.13_MC ._. 
+</s>
+<s>
+This_DD1 is_VBZ evidence_NN1 of_IO nonlinearity_NN1 (_( table_NN1 3_MC ;_; appendix_NN1 p3_FO )_) ._. 
+</s>
+<s>
+Coefficient_NN1 of_IO year2002_FO ,_, -5.203399_MC is_VBZ the_AT proportionate_JJ change_NN1 in_II marks_NN2 (_( all_DB else_RR constant_JJ )_) for_IF student_NN1 in_II year_NNT1 2002_MC relative_II21 to_II22 student_NN1 in_II year_NNT1 2004_MC ._. 
+</s>
+<s>
+Coefficient_NN1 of_IO year2003_FO ,_, -7.195910_MC is_VBZ the_AT proportionate_JJ change_NN1 in_II marks_NN2 (_( all_DB else_RR constant_JJ )_) for_IF student_NN1 in_II year_NNT1 2003_MC relative_II21 to_II22 student_NN1 in_II year_NNT1 2004_MC ._. 
+</s>
+<s>
+At_II 5%_NNU significance_NN1 level_NN1 ,_, critical_JJ value_NN1 =_FO ._. 
+</s>
+<s>
+T-statistic_NN1 =_FO -3.792496_MC ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 not_XX reject_VVI the_AT null_JJ hypothesis_NN1 as_II the_AT test_NN1 statistic_NN1 (_( two-tailed_JJ test_NN1 )_) ._. 
+</s>
+<s>
+At_II 5%_NNU significance_NN1 level_NN1 ,_, critical_JJ value_NN1 =_FO ._. 
+</s>
+<s>
+T-statistic_NN1 =_FO -4.391016_MC ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 not_XX reject_VVI the_AT null_JJ hypothesis_NN1 as_II the_AT test_NN1 statistic_NN1 (_( two-tailed_JJ test_NN1 )_) ._. 
+</s>
+<s>
+There_EX is_VBZ insufficient_JJ evidence_NN1 to_TO suggest_VVI that_CST both_DB2 additive_JJ variables_NN2 year2002_FO and_CC year2003_FO are_VBR statistically_RR significant_JJ in_II the_AT model_NN1 ._. 
+</s>
+<s>
+(_( table_NN1 4.1_MC ,_, 4.2_MC ,_, 4.3_MC ,_, 4.4_MC ;_; appendix_NN1 p4_FO ,_, 5_MC )_) ._. 
+</s>
+<s>
+Test_NN1 of_IO coefficient_NN1 constancy_NN1 across_II the_AT three_MC subsamples_NN2 ._. 
+</s>
+<s>
+Restricted_JJ model_NN1 :_: Unrestricted_JJ model_NN1 :_: Where_RRQ ,_, d_ZZ1 =_FO 8_MC (_( no._NN1 of_IO equality_NN1 signs_NN2 )_) ._. 
+</s>
+<s>
+Therefore_RR ,_, ._. 
+</s>
+<s>
+Where_RRQ ,_, Therefore_RR ,_, we_PPIS2 reject_VV0 the_AT null_JJ and_CC this_DD1 shows_VVZ that_CST there_EX is_VBZ structural_JJ inconsistency_NN1 and_CC that_CST it_PPH1 is_VBZ better_JJR to_TO split_VVI samples_NN2 into_II subsamples_NN2 than_CSN to_TO estimate_VVI observations_NN2 together_RL ._. 
+</s>
+<s>
+Null_JJ hypothesis_NN1 that_CST the_AT slope_NN1 coefficients_NN2 in_II the_AT model_NN1 in_II question4_FO are_VBR constant_JJ across_II the_AT three_MC regression_NN1 equations_NN2 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA we_PPIS2 are_VBR testing_VVG that_CST the_AT slope_NN1 coefficients_NN2 in_II this_DD1 model_NN1 are_VBR constant_JJ ,_, we_PPIS2 use_VV0 the_AT regression_NN1 ran_VVD on_II the_AT two_MC dummy_JJ variables_NN2 2002_MC and_CC 2003_MC (_( Question_NN1 3_MC )_) ._. 
+</s>
+<s>
+Unrestricted_JJ model_NN1 is_VBZ the_AT same_DA as_CSA Question_NN1 4_MC ._. 
+</s>
+<s>
+Where_RRQ ._. 
+</s>
+<s>
+Therefore_RR ,_, ._. 
+</s>
+<s>
+This_DD1 shows_VVZ that_CST we_PPIS2 accept_VV0 the_AT null_JJ hypothesis_NN1 and_CC that_CST the_AT model_NN1 is_VBZ structurally_RR stable_JJ ._. 
+</s>
+<s>
+The_AT slope_NN1 coefficients_NN2 are_VBR the_AT same_DA for_IF all_DB three_MC years_NNT2 ._. 
+</s>
+<s>
+At_II this_DD1 stage_NN1 of_IO the_AT work_NN1 ,_, we_PPIS2 have_VH0 collected_VVN some_DD important_JJ statistical_JJ information_NN1 about_II the_AT relationship_NN1 between_II the_AT dependent_JJ variable_NN1 ,_, qtmark_VV0 ,_, and_CC its_APPGE hypothetical_JJ determinants_NN2 ,_, the_AT independent_JJ variables_NN2 ._. 
+</s>
+<s>
+To_TO do_VDI so_RR ,_, I_PPIS1 have_VH0 created_VVN several_DA2 models_NN2 for_IF varying_VVG independent_JJ variables_NN2 and_CC sometimes_RT even_RR adding_VVG dummy_JJ variables_NN2 to_TO identify_VVI significance_NN1 levels_NN2 ._. 
+</s>
+<s>
+The_AT previous_JJ results_NN2 will_VM facilitate_VVI the_AT next_MD task_NN1 that_CST is_VBZ to_TO try_VVI and_CC create_VVI a_AT1 model_NN1 which_DDQ includes_VVZ the_AT independent_JJ variables_NN2 that_CST have_VH0 a_AT1 strong_JJ influence_NN1 on_II exam_NN1 performance_NN1 ._. 
+</s>
+<s>
+To_TO formulate_VVI such_DA a_AT1 model_NN1 ,_, all_DB the_AT independent_JJ variables_NN2 included_VVN will_VM have_VHI to_TO be_VBI strongly_RR significant_JJ ,_, not_XX only_RR independently_RR but_CCB also_RR jointly_RR ._. 
+</s>
+<s>
+We_PPIS2 should_VM also_RR take_VVI into_II account_NN1 the_AT value_NN1 of_IO the_AT coefficient_NN1 of_IO determination_NN1 (_( R2_FO )_) ,_, as_CSA it_PPH1 gives_VVZ us_PPIO2 an_AT1 idea_NN1 of_IO how_RGQ much_DA1 the_AT performance_NN1 (_( percentage_NN1 )_) is_VBZ explained_VVN by_II that_DD1 model_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 looked_VVN at_II a_AT1 number_NN1 of_IO variables_NN2 and_CC they_PPHS2 include_VV0 attr_NN1 ,_, ability_NN1 ,_, hrsqt_NNU ,_, attc_NN1 and_CC alevelsa_NN1 ._. 
+</s>
+<s>
+From_II previous_JJ questions_NN2 ,_, I_PPIS1 have_VH0 learnt_VVN that_DD1 attr_NN1 is_VBZ a_AT1 significant_JJ variable_NN1 to_TO qtmark_VVI ._. 
+</s>
+<s>
+Thereby_RR ,_, at_II this_DD1 point_NN1 ,_, the_AT explanatory_JJ variable_NN1 that_CST my_APPGE model_NN1 shall_VM definitely_RR include_VVI is_VBZ attr_NN1 ._. 
+</s>
+<s>
+The_AT high_JJ correlation_NN1 (_( 0.37_MC )_) observed_VVD between_II ability_NN1 and_CC qtmark_NN1 could_VM be_VBI a_AT1 sufficient_JJ reason_NN1 for_IF also_RR including_II ability_NN1 into_II the_AT model_NN1 ._. 
+</s>
+<s>
+This_DD1 sufficient_JJ reason_NN1 to_TO include_VVI it_PPH1 as_RR21 well_RR22 in_II the_AT model_NN1 is_VBZ reinforced_VVN by_II the_AT conclusions_NN2 of_IO the_AT experiment_NN1 made_VVN by_II Romer_NP1 about_II whether_CSW students_NN2 should_VM attend_VVI classes_NN2 ._. 
+</s>
+<s>
+I_PPIS1 went_VVD on_RP and_CC analysed_VVD the_AT variables_NN2 ,_, attc_NN1 and_CC alevelsa_NN1 in_II question_NN1 3_MC and_CC found_VVD out_RP that_CST they_PPHS2 are_VBR both_RR significant_JJ as_CSA we_PPIS2 are_VBR able_JK to_TO reject_VVI the_AT null_JJ (_( t-statistic_NN1 that_CST is_VBZ greater_JJR than_CSN 1.96_MC with_IW a_AT1 probability_NN1 equal_JJ to_TO zero_VVI )_) ._. 
+</s>
+<s>
+Since_CS attc_NN1 is_VBZ higher_JJR than_CSN alevelsa_NN1 ,_, I_PPIS1 have_VH0 decided_VVN to_TO include_VVI it_PPH1 in_II my_APPGE model_NN1 ._. 
+</s>
+<s>
+I_PPIS1 am_VBM now_RT left_VVN now_RT with_IW alevelsa_NN1 and_CC hrsqt_NNU ._. 
+</s>
+<s>
+Since_CS it_PPH1 is_VBZ not_XX straightforward_JJ whether_CSW to_TO include_VVI them_PPHO2 in_II the_AT model_NN1 as_RR21 well_RR22 ,_, my_APPGE first_MD tentative_JJ best_JJT model_NN1 ,_, let_VM21 's_VM22 call_VVI it_PPH1 model_NN1 A_ZZ1 ,_, is_VBZ one_PN1 including_VVG ,_, ability_NN1 ,_, attr_VV0 ,_, and_CC attc_NN1 ._. 
+</s>
+<s>
+I_PPIS1 then_RT ran_VVD a_AT1 regression_NN1 on_II variables_NN2 ,_, ability_NN1 ,_, attr_VV0 ,_, attc_NN1 ,_, alevelsa_NN1 and_CC hrsqt_NNU ._. 
+</s>
+<s>
+As_CSA table_NN1 6.1_MC (_( appendix_NN1 p7_FO )_) shows_VVZ ,_, the_AT t-prob_NN1 of_IO variables_NN2 are_VBR very_RG close_JJ to_II zero_MC (_( if_CS not_XX zero_MC )_) ,_, except_II21 for_II22 hrsqt_NNU where_CS it_PPH1 is_VBZ 0.0325_MC ._. 
+</s>
+<s>
+We_PPIS2 then_RT reject_VV0 the_AT null_JJ hypothesis_NN1 for_IF each_DD1 of_IO the_AT variables_NN2 ability_NN1 ,_, attc_NN1 ,_, attr_NN1 and_CC alevelsa_NN1 at_II 1%_NNU level_NN1 of_IO significance_NN1 ,_, as_II31 well_II32 as_II33 the_AT null_JJ for_IF hrsqt_NNU at_II 5%_NNU significance_NN1 level_NN1 ._. 
+</s>
+<s>
+The_AT t-prob_NN1 of_IO the_AT f-test_NN1 is_VBZ also_RR zero_MC meaning_NN1 that_CST we_PPIS2 also_RR reject_VV0 the_AT null_JJ hypothesis_NN1 of_IO joint_JJ significance_NN1 ._. 
+</s>
+<s>
+All_DB the_AT independent_JJ variables_NN2 within_II the_AT model_NN1 are_VBR statistically_RR significant_JJ ,_, and_CC thus_RR it_PPH1 could_VM be_VBI a_AT1 potential_JJ best_JJT model_NN1 ._. 
+</s>
+<s>
+My_APPGE second_MD best_JJT guess_NN1 of_IO the_AT best_JJT model_NN1 ,_, model_NN1 B_ZZ1 is_VBZ then_RT :_: Having_VHG data_NN for_IF some_DD relevant_JJ dummy_JJ variables_NN2 which_DDQ might_VM influence_VVI performance_NN1 ,_, the_AT next_MD step_NN1 would_VM be_VBI to_TO include_VVI a_AT1 dummy_JJ variable_NN1 in_II the_AT model_NN1 above_RL and_CC see_VV0 whether_CSW it_PPH1 affects_VVZ the_AT model_NN1 ._. 
+</s>
+<s>
+The_AT dummy_NN1 I_PPIS1 chose_VVD to_TO add_VVI is_VBZ uk_NN1 ._. 
+</s>
+<s>
+With_IW the_AT exchange_NN1 rate_NN1 of_IO the_AT pound_NN1 high_JJ ,_, not_XX many_DA2 international_JJ students_NN2 are_VBR able_JK to_TO afford_VVI studying_VVG here_RL in_II the_AT UK_NP1 and_CC therefore_RR ,_, most_DAT of_IO them_PPHO2 are_VBR scholarship_NN1 holders_NN2 ,_, sponsored_VVN by_II their_APPGE home_NN1 government_NN1 and_CC private_JJ companies_NN2 ._. 
+</s>
+<s>
+Consequently_RR ,_, we_PPIS2 can_VM expect_VVI to_TO see_VVI international_JJ students_NN2 performing_VVG better_JJR than_CSN local_JJ students_NN2 as_CSA international_JJ students_NN2 are_VBR probably_RR top_JJ students_NN2 in_II their_APPGE country_NN1 ,_, chosen_VVN to_TO study_VVI abroad_RL ._. 
+</s>
+<s>
+My_APPGE third_MD best_JJT guess_NN1 of_IO the_AT best_JJT model_NN1 ,_, model_NN1 C_ZZ1 is_VBZ then_RT :_: From_II table_NN1 6.2_MC (_( appendix_NN1 p7_FO )_) ,_, we_PPIS2 observe_VV0 that_CST the_AT t-prob_JJ values_NN2 of_IO each_DD1 variable_NN1 including_II the_AT dummy_NN1 in_II this_DD1 new_JJ regression_NN1 (_( table_NN1 6.2_MC )_) ,_, all_DB the_AT previous_JJ independent_JJ variables_NN2 tested_VVN in_II model_NN1 A_ZZ1 ,_, are_VBR still_RR significant_JJ (_( 0_MC =t-prob_FO =5%_FO )_) and_CC the_AT null_JJ of_IO insignificance_NN1 for_IF the_AT dummy_JJ variable_NN1 is_VBZ also_RR rejected_VVN at_II a_AT1 5%_NNU significance_NN1 level_NN1 ._. 
+</s>
+<s>
+Again_RT ,_, the_AT t-prob_NN1 of_IO zero_NN1 in_II the_AT F-test_NN1 suggests_VVZ we_PPIS2 reject_VV0 the_AT null_JJ of_IO joint_JJ significance_NN1 ._. 
+</s>
+<s>
+By_II looking_VVG at_II R_ZZ1 2_MC values_NN2 for_IF both_DB2 models_NN2 ,_, we_PPIS2 may_VM say_VVI that_DD1 model_NN1 in_II which_DDQ I_PPIS1 added_VVD the_AT uk_NN1 dummy_NN1 variable_NN1 (_( model_NN1 B_ZZ1 )_) is_VBZ a_AT1 better_JJR one_PN1 :_: while_CS the_AT independent_JJ variables_NN2 in_II model_NN1 A_ZZ1 explains_VVZ about_RG 27%_NNU of_IO the_AT variation_NN1 in_II performance_NN1 ,_, the_AT independent_JJ variables_NN2 in_II model_NN1 B_ZZ1 explains_VVZ about_RG 28%_NNU of_IO the_AT variation_NN1 in_II performance_NN1 ,_, that_DD1 is_VBZ an_AT1 increase_NN1 of_IO around_RG 1.4%_FO ._. 
+</s>
+<s>
+To_TO increasingly_RR improve_VVI model_NN1 C_ZZ1 ,_, we_PPIS2 could_VM think_VVI about_II other_JJ variables_NN2 that_CST may_VM also_RR affect_VVI the_AT outcome_NN1 of_IO exam_NN1 performance_NN1 ._. 
+</s>
+<s>
+As_CSA Romer_NP1 's_GE experiment_NN1 suggested_VVD a_AT1 higher_JJR quality_NN1 of_IO instruction_NN1 may_VM encourage_VVI students_NN2 to_TO attend_VVI more_DAR classes_NN2 and_CC by_II doing_VDG that_DD1 ,_, increasing_VVG their_APPGE chances_NN2 to_TO improve_VVI exam_NN1 performance_NN1 ._. 
+</s>
+<s>
+Such_DA a_AT1 variable_NN1 could_VM be_VBI treated_VVN as_CSA a_AT1 dummy_NN1 :_: it_PPH1 would_VM take_VVI the_AT value_NN1 1_MC1 for_IF good_JJ quality_NN1 of_IO instruction_NN1 and_CC zero_NN1 otherwise_RR ,_, where_CS a_AT1 good_JJ quality_NN1 instruction_NN1 is_VBZ one_PN1 that_CST successfully_RR gets_VVZ students_NN2 to_TO attend_VVI classes_NN2 ._. 
+</s>

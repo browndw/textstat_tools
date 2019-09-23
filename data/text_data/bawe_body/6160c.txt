@@ -1,0 +1,30 @@
+In this coursework the problem to be solved is based on the analogy of a rat navigating a maze, trying to get from the entrance to the exit. Essentially, the aim is to develop a solution to the maze- i.e. find the path from the entrance to exit:
+A LIFO stack can be used to store the path taken. It will model the movements of the rat and allow retracing of steps in the case that a wall or "dead end" is encountered.
+On the assignment handout sheets, the maze is depicted in a form such that it appears that grid references are given in (Y, X) form rather than the conventional (X, Y). Also, the grid references are zero-based, i.e. the first cell is (0,0). Both these features indicate that the maze should be modelled using a two-dimensional array (as in C programming) because such an array has exactly the same properties.
+For any model, assumptions must be made. The assumptions provided on the Exercise sheet shall be used:
+Mazes consist of walls and paths. Walls cannot be crossed and it is unknown what is on the other side.
+Movement is possible in four directions- North (N), South (S), East (E), West (W).
+At a junction, N,S,E,W directions are tried in that order.
+The entry and exit co-ordinates are given.
+Other.
+I make a further assumption and assume a Peek() function is available to read the last pushed value without removing it from the stack.
+It is assumed that functions/methods for finding the number of elements in an array and the sum of an array are already defined.
+The algorithm must solve the maze and the solution should involve the Pop(), Push() and IsEmpty() operations. When this is achieved, the algorithm is complete and should terminate.
+Ideally, the algorithm should avoid revisiting squares unless a dead end has been encountered and it is attempting to find a valid path. When a dead end is encountered, Pop() should be used until it arrives back at a position that offers an alternate path.
+The two-dimensional input array M models the maze. "Wall" elements will be assigned the value of 1, while "Path" elements have the value zero:
+The LIFO stack P will store the path, it is initially empty. Positions are stored in the form (I,J, dir). Where [I][J] is the array reference of the current element that the algorithm has arrived at.
+The LIFO stack D to store possible directions is initially empty..
+The variable DSize will be used to store the number of elements in stack D dir will be initialised to 0. During run-time, it will take one of four values 1,2,3,4- corresponding to the 4 possible directions North, South, East and West.
+The Entry co-ordinate is A(I A,J A) and the Exit co-ordinate is B(I B,J B).
+The following is designed as a general solution to work for any maze. However, the more complex the maze is, the longer the running time.
+In this section I make comments in italics.
+Here I refer to the I or J parts of the co-ordinates in the form A.I and A.J, like this: Peek(P).I and Peek(P).J, where A is the co-ordinate.
+Assume the starting values:
+In an actual program, the co-ordinates would probably be represented by a pair of linked-lists.
+LOOK function defined to provide information about surroundings:
+For easier reading I will refer to the lengthy LOOK function calls as follows:
+Each cycle of while loop updates stack so that top of the stack shows the co-ordinates and direction of next square.
+Pseudocode program begins here:
+End of Algorithm.
+Pseudocode program ends.
+The starting square is given by the position (3,0,0). The following is a trace of the "state" space of the algorithm showing all the positions that are recorded in the LIFO from start to finish. Reminder, the third figures mean as follows: 1=North, 2=South, 3=East, 4=West. Note that for my own maze in particular, the table is a complete transcript of the actual route taken. The P stack that the program produces will be more concise and will not have repeated co-ordinates.

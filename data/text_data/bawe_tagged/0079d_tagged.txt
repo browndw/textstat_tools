@@ -1,0 +1,549 @@
+<s>
+The_AT phenomenon_NN1 of_IO Currency_NN1 Substitution_NN1 (_( CS_NP2 )_) has_VHZ a_AT1 long_JJ tradition_NN1 in_II economic_JJ literature_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT term_NN1 refers_VVZ to_II a_AT1 situation_NN1 where_RRQ a_AT1 foreign_JJ currency_NN1 is_VBZ utilized_VVN as_II a_AT1 medium_NN1 of_IO exchange_NN1 by_II agents_NN2 in_II a_AT1 particular_JJ economy_NN1 (_( Calvo_NP1 and_CC V_ZZ1 gh_NNU 1996_MC ,_, p.153_FO )_) ._. 
+</s>
+<s>
+This_DD1 phenomenon_NN1 is_VBZ particularly_RR important_JJ when_CS the_AT domestic_JJ currency_NN1 is_VBZ not_XX fully_RR credible_JJ ,_, probably_RR associated_VVN with_IW a_AT1 lack_NN1 of_IO confidence_NN1 in_II the_AT monetary_JJ policies_NN2 applied_VVN in_II the_AT country_NN1 ._. 
+</s>
+<s>
+If_CS CS_NP2 holds_VVZ ,_, agents_NN2 will_VM swap_VVI the_AT domestic_JJ for_IF foreign_JJ currency_NN1 as_II the_AT domestic_JJ exchange_NN1 rate_NN1 tends_VVZ to_TO depreciate_VVI ._. 
+</s>
+<s>
+This_DD1 approach_NN1 has_VHZ been_VBN utilized_VVN in_II the_AT empirical_JJ literature_NN1 on_II CS_NP2 ,_, where_CS a_AT1 demand_NN1 for_IF money_NN1 function_NN1 is_VBZ augmented_VVN with_IW the_AT introduction_NN1 of_IO the_AT exchange_NN1 rate_NN1 (_( Arango_NP1 and_CC Nadiri_NP1 ,_, 1981_MC )_) ._. 
+</s>
+<s>
+The_AT econometric_JJ testing_NN1 of_IO CS_NP2 with_IW a_AT1 vector_NN1 error_NN1 correction_NN1 (_( VEC_NP1 )_) model_NN1 has_VHZ been_VBN applied_VVN in_II different_JJ developing_JJ countries_NN2 with_IW diverse_JJ results_NN2 ._. 
+</s>
+<s>
+For_REX21 instance_REX22 ,_, Pozo_NP1 and_CC Wheeler_NP1 (_( 2000_MC )_) did_VDD not_XX find_VVI evidence_NN1 of_IO CS_NP2 in_II Singapore_NP1 against_II the_AT US_NP1 dollar_NNU1 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, Bahmani-Oskooee_NP1 and_CC Techaratanachai_NP1 (_( 2001_MC )_) and_CC Prockal._NP1 (_( 2003_MC )_) found_VVD evidence_NN1 of_IO CS_NP2 in_II Thailand_NP1 and_CC Latin-America_NP1 ,_, 2_MC respectively_RR ,_, also_RR against_II the_AT US_NP1 dollar_NNU1 ._. 
+</s>
+<s>
+The_AT objective_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO test_VVI the_AT CS_NP2 phenomenon_NN1 in_II Argentina_NP1 with_IW a_AT1 VEC_NN1 model_NN1 utilizing_VVG a_AT1 simple_JJ open-economy_JJ money_NN1 demand_NN1 function_NN1 ._. 
+</s>
+<s>
+As_RR21 usual_RR22 in_II the_AT literature_NN1 on_II VEC_NP1 models_NN2 ,_, the_AT technique_NN1 developed_VVN in_II Johansen_NP1 (_( 1988_MC )_) and_CC Johansen_NP1 and_CC Juselius_NP1 (_( 1990_MC )_) to_TO determine_VVI the_AT cointegration_NN1 relations_NN2 is_VBZ applied_VVN ._. 
+</s>
+<s>
+As_CSA non-normalities_NN2 in_II the_AT residuals_NN2 of_IO the_AT first_MD vector_NN1 autoregressive_JJ (_( VAR_NP1 )_) formulation_NN1 were_VBDR found_VVN ,_, the_AT nonparametric_JJ test_NN1 proposed_VVN by_II Bierens_NP1 (_( 1997_MC )_) is_VBZ also_RR introduced_VVN ._. 
+</s>
+<s>
+Both_DB2 approaches_NN2 confirmed_VVD the_AT existence_NN1 of_IO one_MC1 long-run_JJ relation_NN1 in_II the_AT demand_NN1 for_IF money_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT results_NN2 obtained_VVN through_II the_AT estimation_NN1 of_IO the_AT cointegration_NN1 vector_NN1 suggest_VV0 the_AT absence_NN1 of_IO the_AT CS_NP2 phenomenon_NN1 in_II Argentina_NP1 from_II 1991:04_MC to_II 2003:12_MC ._. 
+</s>
+<s>
+The_AT paper_NN1 is_VBZ organized_VVN as_CSA follows_VVZ ._. 
+</s>
+<s>
+Section_NN1 I_PPIS1 introduces_VVZ the_AT data_NN ._. 
+</s>
+<s>
+Section_NN1 II_MC discusses_VVZ the_AT demand_NN1 for_IF money_NN1 equation_NN1 ._. 
+</s>
+<s>
+Section_NN1 III_MC explains_VVZ the_AT VEC_NN1 formulation_NN1 and_CC the_AT cointegration_NN1 analysis_NN1 ._. 
+</s>
+<s>
+Section_NN1 IV_MC briefly_RR describes_VVZ an_AT1 extension_NN1 to_TO analyse_VVI the_AT model_NN1 's_GE short-run_JJ dynamics_NN ._. 
+</s>
+<s>
+Section_NN1 V_ZZ1 concludes_VVZ ._. 
+</s>
+<s>
+After_CS the_AT implementation_NN1 of_IO the_AT Convertibility_NN1 Plan_NN1 in_II April_NPM1 1991_MC 3_MC ,_, real_JJ cash_NN1 balances_VVZ holdings_NN2 in_II Argentina_NP1 increased_VVD markedly_RR ._. 
+</s>
+<s>
+The_AT economic_JJ authorities_NN2 '_GE commitment_NN1 to_II following_VVG strict_JJ monetary_JJ policy_NN1 rules_NN2 during_II the_AT 1990s_MC2 enhanced_JJ confidence_NN1 in_II the_AT domestic_JJ currency_NN1 ,_, showing_VVG a_AT1 break_NN1 with_IW the_AT unstable_JJ pattern_NN1 of_IO the_AT 1980s_MC2 4_MC ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 shows_VVZ the_AT positive_JJ evolution_NN1 of_IO real_JJ cash_NN1 balances_VVZ during_II the_AT 1990s_MC2 ._. 
+</s>
+<s>
+The_AT relative_JJ stability_NN1 of_IO the_AT velocity_NN1 of_IO money_NN1 during_II the_AT period_NN1 also_RR reflects_VVZ the_AT improvements_NN2 on_II the_AT monetary_JJ side_NN1 of_IO the_AT economy_NN1 ._. 
+</s>
+<s>
+I_PPIS1 constructed_VVD a_AT1 pseudo-velocity_JJ variable_NN1 ,_, replacing_VVG the_AT corresponding_JJ level_NN1 of_IO prices_NN2 with_IW the_AT nominal_JJ effective_JJ exchange_NN1 rate_NN1 (_( See_VV0 figure_NN1 2_MC )_) ._. 
+</s>
+<s>
+The_AT empirical_JJ evidence_NN1 on_II the_AT validity_NN1 of_IO the_AT PPP_NP1 in_II the_AT long_JJ run_NN1 supports_VVZ this_DD1 assumption_NN1 5_MC ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT evolution_NN1 of_IO the_AT pseudo-velocity_NN1 was_VBDZ plotted_VVN with_IW the_AT interest_NN1 rate_NN1 in_BCL21 order_BCL22 to_TO appreciate_VVI the_AT long-run_JJ behaviour_NN1 of_IO these_DD2 variables_NN2 ._. 
+</s>
+<s>
+Figure_NN1 2_MC shows_VVZ a_AT1 similar_JJ trend_NN1 in_II the_AT pseudo-velocity_NN1 of_IO money_NN1 and_CC in_II the_AT interest_NN1 rate_NN1 ,_, suggesting_VVG the_AT existence_NN1 of_IO a_AT1 long-run_JJ relationship_NN1 between_II them_PPHO2 ._. 
+</s>
+<s>
+In_II Figure_NN1 3_MC the_AT evolution_NN1 of_IO the_AT Industrial_JJ Production_NN1 Index_NN1 was_VBDZ plotted_VVN ,_, showing_VVG important_JJ variability_NN1 during_II the_AT 1990s_MC2 ._. 
+</s>
+<s>
+The_AT variables_NN2 included_VVN in_II the_AT model_NN1 are_VBR the_AT real_JJ demand_NN1 for_IF money_NN1 M_ZZ1 ,_, the_AT real_JJ income_NN1 Y_ZZ1 ,_, a_AT1 short-run_JJ interest_NN1 rate_NN1 R_ZZ1 and_CC the_AT nominal_JJ effective_JJ exchange_NN1 rate_NN1 E._NP1 The_AT monetary_JJ aggregate_NN1 is_VBZ real_JJ M1_FO 6_MC ._. 
+</s>
+<s>
+As_II a_AT1 proxy_NN1 of_IO the_AT real_JJ income_NN1 the_AT monthly_JJ industrial_JJ production_NN1 index_NN1 was_VBDZ utilized_VVN (_( IP_NP1 )_) ._. 
+</s>
+<s>
+Both_RR ,_, M1_FO and_CC IP_NP1 are_VBR seasonally_RR adjusted_VVN ._. 
+</s>
+<s>
+R_ZZ1 is_VBZ the_AT interest_NN1 rate_NN1 on_II time_NNT1 deposits_NN2 up_RG21 to_RG22 60_MC days_NNT2 and_CC represents_VVZ the_AT opportunity_NN1 cost_NN1 agents_NN2 face_VV0 when_CS holding_VVG cash_NN1 ._. 
+</s>
+<s>
+The_AT exchange_NN1 rate_NN1 is_VBZ the_AT effective_JJ market_NN1 exchange_NN1 rate_NN1 measured_VVN as_CSA units_NN2 of_IO Argentine_JJ pesos_NNU2 per_II unit_NN1 of_IO US_NP1 dollars_NNU2 ._. 
+</s>
+<s>
+All_DB the_AT variables_NN2 are_VBR in_II logarithms_NN2 ,_, the_AT sample_NN1 period_NN1 is_VBZ 1991:04_MC to_II 2003:12_MC and_CC the_AT data_NN were_VBDR obtained_VVN from_II the_AT Central_JJ Bank_NN1 and_CC the_AT Ministry_NN1 of_IO Economy_NN1 of_IO Argentina_NP1 ._. 
+</s>
+<s>
+Table_NN1 1_MC1 summarizes_VVZ the_AT descriptive_JJ statistics_NN of_IO the_AT data_NN ._. 
+</s>
+<s>
+Non-normality_NN1 in_II the_AT variables_NN2 is_VBZ remarkable_JJ ._. 
+</s>
+<s>
+Also_RR important_JJ is_VBZ the_AT high_JJ volatility_NN1 present_NN1 in_II R_ZZ1 and_CC Y_ZZ1 ,_, a_AT1 fact_NN1 that_CST may_VM affect_VVI the_AT results_NN2 of_IO the_AT econometric_JJ analysis_NN1 ._. 
+</s>
+<s>
+The_AT number_NN1 of_IO observations_NN2 is_VBZ considerable_JJ ,_, which_DDQ supports_VVZ testing_VVG for_IF long-run_JJ relations_NN2 7_MC ._. 
+</s>
+<s>
+Following_VVG Prockal._NP1 (_( 2003_MC )_) a_AT1 log-linear_JJ model_NN1 of_IO demand_NN1 for_IF domestic_JJ currency_NN1 in_II open_JJ economies_NN2 will_VM be_VBI tested_VVN ._. 
+</s>
+<s>
+The_AT money_NN1 demand_NN1 function_NN1 takes_VVZ the_AT following_JJ form_NN1 :_: (_( 1_MC1 )_) where_RRQ the_AT only_JJ variable_NN1 not_XX defined_VVN previously_RR is_VBZ ,_, representing_VVG the_AT error_NN1 term_NN1 ._. 
+</s>
+<s>
+As_RR21 usual_RR22 ,_, the_AT sign_NN1 of_IO b_ZZ1 (_( i.e._REX ,_, income_NN1 elasticity_NN1 )_) is_VBZ expected_VVN to_TO be_VBI positive_JJ and_CC the_AT interest_NN1 rate_NN1 elasticity_NN1 reflected_VVN in_II c_ZZ1 is_VBZ expected_VVN to_TO be_VBI negative_JJ ._. 
+</s>
+<s>
+Finally_RR ,_, the_AT sign_NN1 of_IO d_ZZ1 (_( i.e._REX ,_, exchange_NN1 rate_NN1 elasticity_NN1 )_) will_VM depend_VVI on_II the_AT existence_NN1 of_IO the_AT CS_NP2 phenomenon_NN1 ._. 
+</s>
+<s>
+If_CS CS_NP2 holds_VVZ ,_, as_CSA the_AT exchange_NN1 rate_NN1 increases_NN2 (_( i.e._REX ,_, depreciation_NN1 of_IO domestic_JJ currency_NN1 )_) ,_, agents_NN2 will_VM substitute_VVI domestic_JJ for_IF foreign_JJ currency_NN1 (_( Prockal._NP1 2003_MC ,_, p.421_FO )_) ._. 
+</s>
+<s>
+In_II this_DD1 situation_NN1 d_ZZ1 is_VBZ expected_VVN to_TO be_VBI negative_JJ ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, a_AT1 positive_JJ value_NN1 of_IO d_ZZ1 means_VVZ that_CST CS_NP2 does_VDZ not_XX hold_VVI 8_MC ._. 
+</s>
+<s>
+The_AT cointegration_NN1 analysis_NN1 followed_VVN in_II this_DD1 paper_NN1 corresponds_VVZ to_II the_AT Johansen_NP1 (_( 1988_MC )_) and_CC Johansen_NP1 and_CC Juselius_NP1 (_( 1990_MC )_) approach_NN1 (_( hereafter_RT Johansen_NP1 technique_NN1 )_) ._. 
+</s>
+<s>
+Among_II other_JJ benefits_NN2 ,_, the_AT Johansen_NP1 maximum_JJ likelihood_NN1 (_( ML_NNU )_) technique_NN1 is_VBZ easily_RR applicable_JJ in_II multivariate_JJ frameworks_NN2 ,_, but_CCB is_VBZ based_VVN on_II the_AT assumption_NN1 of_IO Gaussian_JJ errors_NN2 in_II the_AT VEC_NN1 specification_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 ,_, as_CSA a_AT1 last_MD step_NN1 in_II the_AT analysis_NN1 the_AT non-parametric_JJ Bierens_NN2 (_( 1997_MC )_) test_VV0 for_IF cointegration_NN1 will_VM be_VBI addressed_VVN ._. 
+</s>
+<s>
+The_AT Johansen_NP1 technique_NN1 only_RR holds_VVZ if_CS the_AT variables_NN2 included_VVN in_II the_AT model_NN1 are_VBR non-stationary_JJ with_IW the_AT same_DA order_NN1 of_IO integration_NN1 ._. 
+</s>
+<s>
+I_PPIS1 tested_VVD the_AT order_NN1 of_IO integration_NN1 of_IO the_AT variables_NN2 in_II equation_NN1 (_( 1_MC1 )_) with_IW the_AT augmented_JJ% Dickey-Fuller_NP1 (_( ADF_NP1 )_) and_CC the_AT Phillips-Perron_NP1 (_( PP_NN1 )_) tests_VVZ 9,10_MC ._. 
+</s>
+<s>
+As_CSA is_VBZ suggested_VVN in_II Harris_NP1 (_( 1995_MC ,_, pp.31-32_MC )_) under_II data_NN generation_NN1 process_NN1 (_( DGP_NP1 )_) of_IO unknown_JJ form_NN1 ,_, it_PPH1 is_VBZ recommended_VVN to_II first_MD test_NN1 with_IW the_AT less-restrictive_JJ specifications_NN2 of_IO the_AT tests_NN2 and_CC continue_VV0 with_IW the_AT more_RGR restrictive_JJ forms_NN2 11_MC ._. 
+</s>
+<s>
+Following_VVG Table_NN1 2_MC ,_, I_PPIS1 conclude_VV0 that_CST the_AT variables_NN2 stated_VVN in_II (_( 1_MC1 )_) are_VBR integrated_VVN of_IO order_NN1 1_MC1 12_MC and_CC thus_RR it_PPH1 is_VBZ possible_JJ to_TO proceed_VVI with_IW the_AT Johansen_NP1 technique_NN1 ._. 
+</s>
+<s>
+The_AT notation_NN1 is_VBZ based_VVN on_II Johansen_NP1 and_CC Juselius_NP1 (_( 1992_MC )_) and_CC Favero_NP1 (_( 2001_MC )_) ._. 
+</s>
+<s>
+Consider_VV0 the_AT m-dimensional_JJ VAR_NP1 model_NN1 of_IO order_NN1 p_ZZ1 :_: (_( 2_MC )_) ._. 
+</s>
+<s>
+Where_RRQ ,_, X_ZZ1 is_VBZ a_AT1 vector_NN1 of_IO m_ZZ1 variables_NN2 I(1)_FO ,_, is_VBZ a_AT1 constant_JJ ,_, are_VBR i.i.d._NNU ,_, and_CC are_VBR variables_NN2 included_VVD to_TO take_VVI into_II account_NN1 short-run_JJ shocks_NN2 to_II the_AT system_NN1 as_II31 well_II32 as_II33 seasonal_JJ dummies_NN2 ._. 
+</s>
+<s>
+By_II differencing_VVG (_( 2_MC )_) ,_, the_AT error_NN1 correction_NN1 formulation_NN1 takes_VVZ the_AT form_NN1 :_: (_( 3_MC )_) ._. 
+</s>
+<s>
+Where_RRQ and_CC ._. 
+</s>
+<s>
+If_CS the_AT rank_NN1 of_IO (_( hereafter_RT r_ZZ1 )_) is_VBZ m_ZZ1 ,_, then_RT n_ZZ1 can_VM be_VBI factored_VVN into_II ,_, where_CS a_AT1 is_VBZ an_AT1 (_( m_ZZ1 x_ZZ1 r_ZZ1 )_) matrix_NN1 of_IO weights_NN2 and_CC is_VBZ an_AT1 (_( m_ZZ1 x_ZZ1 r_ZZ1 )_) matrix_NN1 of_IO parameters_NN2 determining_VVG the_AT r_ZZ1 cointegration_NN1 relations_NN2 ._. 
+</s>
+<s>
+The_AT Johansen_NP1 technique_NN1 consists_VVZ of_IO estimating_VVG n_ZZ1 using_VVG the_AT procedure_NN1 known_VVN as_II "_" (_( ..._... )_) reduced_VVD rank_JJ regression_NN1 (_( ..._... )_) "_" 
+</s>
+<s>
+(_( Harris_NP1 1995_MC ,_, p.79_FO )_) ._. 
+</s>
+<s>
+To_TO determine_VVI the_AT rank_NN1 of_IO ,_, two_MC tests_NN2 proposed_VVN by_II Johansen_NP1 (_( 1988_MC )_) will_VM be_VBI considered_VVN :_: (_( 4_MC )_) (_( 5_MC )_) where_RRQ are_VBR the_AT estimated_JJ characteristic_JJ roots_NN2 of_IO the_AT matrix_NN1 ._. 
+</s>
+<s>
+To_TO specify_VVI the_AT number_NN1 of_IO lags_NN2 to_TO include_VVI in_II the_AT VEC_NN1 system_NN1 ,_, a_AT1 VAR_NP1 model_NN1 was_VBDZ tested_VVN with_IW the_AT variables_NN2 included_VVN in_II (_( 1_MC1 )_) ._. 
+</s>
+<s>
+To_TO determine_VVI the_AT lags_NN2 ,_, different_JJ information_NN1 criteria_NN2 were_VBDR utilized_VVN up_II21 to_II22 a_AT1 maximum_JJ VAR_NP1 order_NN1 equal_JJ to_II 12_MC 13_MC ._. 
+</s>
+<s>
+I_PPIS1 decided_VVD to_TO utilize_VVI the_AT 6_MC lags_NN2 suggested_VVN by_II the_AT AIC_NP1 and_CC FPE_NN1 criteria_NN2 after_II analysing_VVG the_AT residuals_NN2 with_IW an_AT1 autocorrelation_NN1 LM_NP1 test_NN1 14_MC ._. 
+</s>
+<s>
+Furthermore_RR ,_, L_ZZ1 tkepohl_JJ (_( 1993_MC ,_, p.133_FO )_) argued_VVD that_CST "_" (_( ..._... )_) in_II small_JJ samples_NN2 AIC_NP1 and_CC FPE_NN1 may_VM have_VHI better_JJR properties_NN2 (_( choose_VV0 the_AT correct_JJ order_NN1 more_RGR often_RR )_) than_CSN HQ_NN1 and_CC SC_FO (_( ..._... )_) "_" ._. 
+</s>
+<s>
+A_AT1 first_MD estimation_NN1 of_IO the_AT VAR_NP1 model_NN1 formulated_VVN in_II (_( 2_MC )_) considering_II 6_MC lags_NN2 ,_, the_AT variables_NN2 introduced_VVN in_II (_( 1_MC1 )_) and_CC none_PN exogenous_JJ variables_NN2 gives_VVZ strong_JJ evidence_NN1 of_IO non-normalities_NN2 in_II the_AT residuals_NN2 (_( Table_NN1 4_MC )_) ._. 
+</s>
+<s>
+Since_CS the_AT ML_NNU approach_NN1 of_IO the_AT Johansen_NP1 technique_NN1 requires_VVZ the_AT approximate_JJ normality_NN1 of_IO the_AT residuals_NN2 (_( Johansen_NP1 and_CC Juselius_NP1 1990_MC ,_, p._NN1 176_MC )_) ,_, further_JJR improvements_NN2 in_II the_AT VAR_NP1 specification_NN1 were_VBDR needed_VVN ._. 
+</s>
+<s>
+Following_VVG Clements_NP1 and_CC Mizon_NP1 (_( 1991_MC ,_, pp.901-903_MC )_) ,_, I_PPIS1 decided_VVD to_TO introduce_VVI a_AT1 number_NN1 of_IO Dummy_JJ interventions_NN2 as_CSA exogenous_JJ variables_NN2 in_II the_AT model_NN1 to_TO reduce_VVI this_DD1 problem_NN1 15_MC ._. 
+</s>
+<s>
+Most_DAT of_IO these_DD2 dummies_NN2 are_VBR concentrated_VVN between_II 2000_MC and_CC 2002_MC as_II a_AT1 consequence_NN1 of_IO the_AT high_JJ political_JJ instability_NN1 that_CST Argentina_NP1 suffered_VVD during_II that_DD1 period_NN1 ._. 
+</s>
+<s>
+A_AT1 brief_JJ description_NN1 is_VBZ presented_VVN in_II Table_NN1 3_MC ._. 
+</s>
+<s>
+Following_VVG Table_NN1 4_MC ,_, it_PPH1 is_VBZ possible_JJ to_TO observe_VVI a_AT1 deterioration_NN1 of_IO the_AT LM_NP1 test_NN1 after_II introducing_VVG the_AT dummies_NN2 ,_, but_CCB the_AT null_JJ hypothesis_NN1 of_IO no_AT serial_JJ correlation_NN1 is_VBZ not_XX rejected_VVN ._. 
+</s>
+<s>
+However_RR ,_, there_EX is_VBZ still_RR some_DD evidence_NN1 of_IO non-normalities_NN2 in_II the_AT residuals_NN2 individually_RR analysing_VVG each_DD1 series_NN (_( Figure_NN1 5_MC )_) ,_, which_DDQ suggests_VVZ the_AT possibility_NN1 of_IO further_JJR improvements_NN2 in_II the_AT specification_NN1 of_IO the_AT model_NN1 ._. 
+</s>
+<s>
+Figures_NN2 4_MC and_CC 5_MC report_NN1 graphically_RR the_AT residuals_NN2 without_IW and_CC with_IW the_AT dummies_NN2 ,_, respectively_RR 16_MC ._. 
+</s>
+<s>
+Nevertheless_RR ,_, I_PPIS1 decided_VVD to_TO proceed_VVI with_IW the_AT Johansen_NP1 technique_NN1 as_II the_AT multivariate_JJ tests_NN2 after_CS including_II the_AT dummies_NN2 do_VD0 not_XX reject_VVI the_AT null_JJ hypothesis_NN1 of_IO normality_NN1 (_( see_VV0 table_NN1 4_MC )_) ._. 
+</s>
+<s>
+The_AT next_MD step_NN1 consists_VVZ of_IO deciding_VVG which_DDQ deterministic_JJ components_NN2 to_TO include_VVI in_II the_AT VEC_NN1 model_NN1 ._. 
+</s>
+<s>
+Table_NN1 5_MC shows_VVZ the_AT different_JJ alternatives_NN2 considered_VVN ._. 
+</s>
+<s>
+Model_VV0 1_MC1 was_VBDZ not_XX considered_VVN since_CS "_" (_( ..._... )_) the_AT intercept_VV0 is_VBZ generally_RR needed_VVN to_TO account_VVI for_IF the_AT units_NN2 of_IO measurements_NN2 of_IO the_AT variables_NN2 (_( ..._... )_) "_" 
+</s>
+<s>
+(_( Harris_NP1 1995_MC ,_, p.96_FO )_) ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO select_VVI one_MC1 of_IO the_AT remaining_JJ models_NN2 ,_, the_AT Pantula_JJ principle_NN1 was_VBDZ applied_VVN (_( Harris_NP1 op_RR21 cit._RR22 ,_, p.97_FO )_) 17_MC ._. 
+</s>
+<s>
+From_II Table_NN1 6_MC ,_, one_MC1 may_VM appreciate_VVI that_DD1 with_IW the_AT Pantula_JJ principle_NN1 the_AT trace_NN1 and_CC the_AT max_NN1 tests_VVZ selected_JJ Model_NN1 2_MC ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT data_NN seem_VV0 to_TO support_VVI the_AT selection_NN1 of_IO this_DD1 model_NN1 ._. 
+</s>
+<s>
+Table_NN1 7_MC presents_VVZ the_AT cointegration_NN1 tests_VVZ results_NN2 considering_II the_AT deterministic_JJ components_NN2 of_IO Model_NN1 2_MC with_IW 6_MC lags_NN2 and_CC 10_MC exogenous_JJ dummies_NN2 18_MC ._. 
+</s>
+<s>
+From_II these_DD2 tests_NN2 ,_, I_PPIS1 conclude_VV0 that_CST there_EX is_VBZ one_MC1 cointegration_NN1 relation_NN1 in_II the_AT VEC_NN1 model_NN1 (_( Table_NN1 7_MC )_) ._. 
+</s>
+<s>
+Bierens_NN2 (_( 1997_MC )_) proposed_VVD a_AT1 nonparametric_JJ test_NN1 for_IF cointegration_NN1 as_II a_AT1 complement_NN1 to_II the_AT Johansen_NP1 technique_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, deviations_NN2 from_II Johansen_NP1 's_GE test_NN1 may_VM indicate_VVI misspecification_NN1 of_IO the_AT VEC_NN1 model_NN1 (_( Bierens_NP1 op_RR21 cit._RR22 ,_, p.403_FO )_) ._. 
+</s>
+<s>
+This_DD1 method_NN1 gives_VVZ consistent_JJ cointegration_NN1 tests_VVZ that_CST do_VD0 not_XX need_VVI DGP_NP1 specification_NN1 (_( Bierens_NP1 ,_, op_RR21 cit._RR22 ,_, p.380_FO )_) 19_MC ._. 
+</s>
+<s>
+Only_RR the_AT test_NN1 for_IF cointegration_NN1 obtained_VVN with_IW this_DD1 method_NN1 is_VBZ presented_VVN (_( Table_NN1 8_MC )_) 20_MC ._. 
+</s>
+<s>
+The_AT result_NN1 of_IO this_DD1 nonparametric_JJ test_NN1 also_RR suggests_VVZ the_AT existence_NN1 of_IO one_MC1 cointegration_NN1 relation_NN1 ._. 
+</s>
+<s>
+This_DD1 fact_NN1 gives_VVZ additional_JJ support_NN1 to_II the_AT existence_NN1 of_IO a_AT1 one_MC1 long-run_JJ relation_NN1 between_II the_AT variables_NN2 defined_VVN in_II (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Table_NN1 9_MC reproduces_VVZ the_AT results_NN2 obtained_VVN with_IW the_AT Johansen_NP1 technique_NN1 ._. 
+</s>
+<s>
+As_CSA there_EX is_VBZ only_RR one_MC1 cointegration_NN1 relation_NN1 ,_, no_AT restrictions_NN2 were_VBDR imposed_VVN on_II the_AT cointegration_NN1 vectors_NN2 ._. 
+</s>
+<s>
+The_AT normalisation_NN1 is_VBZ such_CS21 that_CS22 M_ZZ1 equals_VVZ 1_MC1 ._. 
+</s>
+<s>
+The_AT cointegration_NN1 relation_NN1 can_VM be_VBI interpreted_VVN from_II equation_NN1 (_( 1_MC1 )_) as_CSA follows_VVZ :_: (_( 6_MC )_) ._. 
+</s>
+<s>
+As_CSA expected_VVN ,_, income_NN1 elasticity_NN1 is_VBZ positive_JJ while_CS interest_NN1 rate_NN1 elasticity_NN1 is_VBZ negative_JJ ._. 
+</s>
+<s>
+Interestingly_RR ,_, income_NN1 elasticity_NN1 was_VBDZ found_VVN to_TO be_VBI higher_JJR than_CSN in_II studies_NN2 on_II the_AT demand_NN1 for_IF money_NN1 in_II Argentina_NP1 in_II the_AT 1980s_MC2 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, Ahumada_NP1 (_( 1992_MC )_) obtained_VVD a_AT1 coefficient_NN1 of_IO 0.482_MC ,_, well_RR below_II the_AT 1.116_MC obtained_VVN in_II the_AT present_JJ study_NN1 ._. 
+</s>
+<s>
+Several_DA2 improvements_NN2 in_II the_AT macroeconomic_JJ and_CC monetary_JJ environment_NN1 during_II the_AT 1990s_MC2 may_VM explain_VVI this_DD1 fact_NN1 ._. 
+</s>
+<s>
+The_AT low_JJ interest-rate_NN1 elasticity_NN1 coefficient_NN1 probably_RR reflects_VVZ the_AT importance_NN1 of_IO the_AT transactional_JJ demand_NN1 for_IF money_NN1 which_DDQ is_VBZ not_XX very_RG sensitive_JJ to_II interest_NN1 rate_NN1 movements_NN2 ._. 
+</s>
+<s>
+The_AT most_RGT relevant_JJ finding_NN1 is_VBZ the_AT positive_JJ effect_NN1 of_IO the_AT exchange_NN1 rate_NN1 on_II the_AT real_JJ demand_NN1 for_IF money_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST as_II the_AT currency_NN1 depreciates_VVZ the_AT public_NN1 increases_VVZ real_JJ cash_NN1 balances_NN2 ,_, in_II opposition_NN1 to_II the_AT CS_NP2 hypothesis_NN1 21_MC ._. 
+</s>
+<s>
+A_AT1 possible_JJ economic_JJ explanation_NN1 is_VBZ suggested_VVN in_II Arango_NP1 and_CC Nadiri_NP1 (_( 1981_MC ,_, pp.72-73_MC )_) ,_, where_CS they_PPHS2 argued_VVD that_CST the_AT positive_JJ wealth_NN1 effect_NN1 generated_VVN by_II holdings_NN2 of_IO foreign_JJ assets_NN2 measured_VVN in_II domestic_JJ currency_NN1 after_II the_AT domestic_JJ exchange_NN1 rate_NN1 depreciation_NN1 may_VM generate_VVI the_AT rise_NN1 in_II the_AT real_JJ demand_NN1 for_IF money_NN1 22_MC ._. 
+</s>
+<s>
+Observing_VVG the_AT elements_NN2 of_IO vector_NN1 in_II Table_NN1 9_MC ,_, one_MC1 may_VM appreciate_VVI that_DD1 real_JJ money_NN1 reacts_VVZ very_RG little_DA1 to_II disequilibrium_NN1 in_II the_AT cointegration_NN1 vector_NN1 ._. 
+</s>
+<s>
+Interestingly_RR ,_, Ahumada_NP1 (_( 1992_MC ,_, p.343_FO )_) found_VVD a_AT1 greater_JJR speed_NN1 of_IO adjustment_NN1 with_IW a_AT1 similar_JJ model_NN1 for_IF the_AT period_NN1 1977_MC to_II 1988_MC ._. 
+</s>
+<s>
+This_DD1 fact_NN1 may_VM suggest_VVI that_CST the_AT economic_JJ reforms_NN2 implemented_VVN in_II Argentina_NP1 in_II the_AT 1990s_MC2 affected_VVD the_AT speed_NN1 of_IO adjustment_NN1 of_IO real_JJ cash_NN1 balances_VVZ to_II disequilibrium_NN1 in_II the_AT long_JJ run_NN1 relation_NN1 of_IO the_AT demand_NN1 for_IF money_NN1 ._. 
+</s>
+<s>
+Up_II21 to_II22 now_RT I_PPIS1 have_VH0 discussed_VVN and_CC found_VVN a_AT1 long-run_JJ relation_NN1 in_II the_AT demand_NN1 for_IF money_NN1 where_CS the_AT CS_NP2 phenomenon_NN1 does_VDZ not_XX hold_VVI ._. 
+</s>
+<s>
+An_AT1 interesting_JJ question_NN1 arises_VVZ about_II the_AT implications_NN2 of_IO this_DD1 finding_NN1 in_II31 terms_II32 of_II33 the_AT short-run_JJ dynamics_NN of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+Intuitively_RR ,_, as_II CS_NP2 does_VDZ not_XX hold_VVI ,_, it_PPH1 seems_VVZ plausible_JJ to_TO find_VVI an_AT1 important_JJ short-run_JJ effect_NN1 of_IO shocks_NN2 to_II M_NN1 on_II Y_ZZ1 23_MC ._. 
+</s>
+<s>
+A_AT1 brief_JJ analysis_NN1 of_IO the_AT short-run_JJ dynamics_NN with_IW a_AT1 slightly_RR different_JJ formulation_NN1 of_IO the_AT model_NN1 discussed_VVN in_II the_AT previous_JJ sections_NN2 is_VBZ presented_VVN as_II an_AT1 extension_NN1 of_IO the_AT paper_NN1 ._. 
+</s>
+<s>
+Following_VVG the_AT empirical_JJ work_NN1 on_II the_AT monetary_JJ transmission_NN1 mechanisms_NN2 24_MC ,_, the_AT study_NN1 of_IO the_AT short-run_JJ dynamics_NN of_IO the_AT system_NN1 will_VM be_VBI addressed_VVN with_IW the_AT VAR_NP1 formulation_NN1 stated_VVN in_II equation_NN1 (_( 2_MC )_) ._. 
+</s>
+<s>
+After_CS considered_VVN this_DD1 VAR_NP1 formulation_NN1 with_IW the_AT endogenous_JJ variables_NN2 defined_VVN in_II (_( 1_MC1 )_) and_CC 6_MC lags_NN2 ,_, a_AT1 number_NN1 of_IO empirical_JJ anomalies_NN2 were_VBDR found_VVN in_II the_AT IRFs_NP2 ._. 
+</s>
+<s>
+Most_DAT of_IO these_DD2 non-well_NN1 behaved_VVD results_NN2 are_VBR associated_VVN with_IW the_AT broadly-denominated_JJ economic_JJ puzzles25,26_FO ._. 
+</s>
+<s>
+These_DD2 puzzles_NN2 have_VH0 been_VBN solved_VVN in_II the_AT empirical_JJ work_NN1 introducing_VVG exogenous_JJ variables_NN2 which_DDQ control_VV0 for_IF autonomous_JJ monetary_JJ policy_NN1 movements_NN2 (_( Favero_NP1 2001_MC ,_, pp.176-180_MC )_) ._. 
+</s>
+<s>
+Peersman_NN1 and_CC Smets_NP1 (_( 2001_MC )_) proposed_VVD focusing_VVG on_II certain_JJ exogenous_JJ variables_NN2 to_TO solve_VVI these_DD2 problems_NN2 ,_, the_AT discussion_NN1 of_IO this_DD1 framework_NN1 being_VBG the_AT objective_NN1 of_IO the_AT next_MD subsections_NN2 ._. 
+</s>
+<s>
+Peersman_NN1 and_CC Smets_NP1 (_( 2001_MC )_) analysed_VVD the_AT Monetary_JJ Transmission_NN1 in_II the_AT Euro_JJ Area_NN1 through_II different_JJ VAR_NP1 specifications_NN2 27_MC ._. 
+</s>
+<s>
+They_PPHS2 found_VVD that_CST in_II the_AT "_" benchmark_NN1 "_" case_NN1 ,_, which_DDQ included_VVD a_AT1 Choleski_JJ decomposition_NN1 ,_, the_AT IRFs_NP2 were_VBDR practically_RR equal_JJ to_II those_DD2 obtained_VVN with_IW the_AT other_JJ identification_NN1 approaches_NN2 (_( Peersman_NP1 and_CC Smets_NP1 2001_MC ,_, pp.9-19_MC )_) ._. 
+</s>
+<s>
+In_II what_DDQ follows_VVZ ,_, an_AT1 adaptation_NN1 of_IO the_AT "_" benchmark_NN1 "_" case_NN1 proposed_VVN in_II Peersman_NP1 and_CC Smets_NP1 (_( 2001_MC )_) with_IW the_AT endogenous_JJ variables_NN2 stated_VVN in_II equation_NN1 (_( 1_MC1 )_) and_CC the_AT VAR_NP1 formulation_NN1 presented_VVN in_II equation_NN1 (_( 2_MC )_) will_VM be_VBI applied_VVN to_II the_AT Argentine_JJ case_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT endogenous_JJ variables_NN2 included_VVN in_II the_AT VAR_NP1 are_VBR :_: Y_ZZ1 ,_, M_ZZ1 ,_, R_ZZ1 ,_, E._NP1 Peersman_NP1 and_CC Smets_NP1 (_( 2001_MC ,_, p.8_FO )_) suggest_VV0 including_II the_AT World_NN1 Commodity_NN1 Price_NN1 Index_NN1 (_( CPW_NP1 )_) ,_, the_AT US_NP1 Monthly_JJ Industrial_JJ Estimator_NN1 (_( YUS_NP1 )_) and_CC the_AT short-run_JJ Treasury_NN1 Interest_NN1 Rate_NN1 (_( SUS_NP1 )_) as_CSA exogenous_JJ variables_NN2 to_TO control_VVI for_IF changes_NN2 in_II world_NN1 demand_NN1 and_CC inflation_NN1 28_MC ._. 
+</s>
+<s>
+All_DB the_AT variables_NN2 are_VBR in_II logarithms_NN2 and_CC the_AT sample_NN1 data_NN cover_VV0 the_AT period_NN1 1991:04_MC to_II 2003:12_MC ._. 
+</s>
+<s>
+The_AT identification_NN1 scheme_NN1 corresponds_VVZ to_II a_AT1 standard_JJ Choleski_JJ decomposition_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT residuals_NN2 and_CC the_AT structural_JJ shocks_NN2 can_VM be_VBI related_VVN as_CSA follows_VVZ :_: (_( 7_MC )_) ._. 
+</s>
+<s>
+Perfect_JJ identification_NN1 is_VBZ achieved_VVN since_CS there_EX are_VBR 10_MC parameters_NN2 to_TO estimate_VVI out_II21 of_II22 10_MC obtained_VVN in_II the_AT VAR_NP1 estimation_NN1 ._. 
+</s>
+<s>
+To_TO obtain_VVI a_AT1 suitable_JJ economic_JJ interpretation_NN1 ,_, the_AT endogenous_JJ variables_NN2 were_VBDR ordered_VVN as_CSA Y_ZZ1 ,_, M_ZZ1 ,_, R_ZZ1 ,_, E._NP1 As_CSA commonly_RR assumed_VVN in_II the_AT literature_NN1 ,_, output_NN1 is_VBZ only_RR contemporaneously_RR affected_VVN by_II its_APPGE own_DA innovations_NN2 ._. 
+</s>
+<s>
+Considerations_NN2 about_II arbitrage_NN1 conditions_NN2 in_II the_AT foreign_JJ exchange_NN1 spot_NN1 markets_NN2 support_VV0 ordering_VVG the_AT exchange_NN1 rate_NN1 as_II the_AT most_RGT endogenous_JJ variable_NN1 29_MC ._. 
+</s>
+<s>
+Finally_RR ,_, 6_MC lags_NN2 were_VBDR considered_VVN for_IF the_AT estimation_NN1 of_IO the_AT VAR_NP1 model_NN1 30_MC ._. 
+</s>
+<s>
+After_CS a_AT1 positive_JJ shock_NN1 to_II M_ZZ1 ,_, the_AT pattern_NN1 of_IO the_AT endogenous_JJ variables_NN2 is_VBZ in_II31 line_II32 with_II33 the_AT economic_JJ theory_NN1 ._. 
+</s>
+<s>
+The_AT output_NN1 response_NN1 is_VBZ positive_JJ ,_, with_IW the_AT highest_JJT impact_NN1 reached_VVN after_II 5-6_MCMC months_NNT2 (_( Figure_NN1 6_MC )_) ._. 
+</s>
+<s>
+This_DD1 pattern_NN1 is_VBZ also_RR found_VVN in_II Peersman_NP1 and_CC Smets_NP1 (_( 2001_MC )_) in_II the_AT Euro_JJ Area_NN1 case_NN1 and_CC may_VM indicate_VVI that_CST the_AT real_JJ monetary_JJ policy_NN1 effects_NN2 are_VBR not_XX reached_VVN immediately_RR ._. 
+</s>
+<s>
+Furthermore_RR ,_, in_II the_AT Argentine_JJ case_NN1 the_AT real_JJ monetary_JJ shocks_NN2 seem_VV0 to_TO have_VHI an_AT1 important_JJ degree_NN1 of_IO persistence_NN1 (_( Figure_NN1 6_MC )_) ._. 
+</s>
+<s>
+The_AT highest_JJT effects_NN2 on_II R_ZZ1 and_CC E_ZZ1 of_IO the_AT shock_NN1 on_II M_ZZ1 are_VBR reached_VVN in_II shorter_JJR periods_NN2 than_CSN in_II the_AT case_NN1 of_IO Y._NP1 This_DD1 fact_NN1 seems_VVZ reasonable_JJ since_CS R_ZZ1 and_CC E_ZZ1 are_VBR variables_NN2 with_IW high_JJ short-run_JJ sensitivity_NN1 to_II changes_NN2 in_II economic_JJ variables_NN2 ._. 
+</s>
+<s>
+Table_NN1 10_MC shows_VVZ the_AT limited_JJ contribution_NN1 of_IO the_AT monetary_JJ shock_NN1 to_II the_AT forecast_NN1 variance_NN1 error_NN1 of_IO output_NN1 and_CC exchange_NN1 rate_NN1 ._. 
+</s>
+<s>
+This_DD1 result_NN1 suggests_VVZ that_CST monetary_JJ shocks_NN2 are_VBR not_XX an_AT1 important_JJ source_NN1 of_IO output_NN1 or_CC exchange_NN1 rate_NN1 fluctuations_NN2 in_II Argentina_NP1 31_MC ._. 
+</s>
+<s>
+On_II the_AT contrary_NN1 ,_, monetary_JJ shocks_NN2 seem_VV0 to_TO contribute_VVI markedly_RR to_II exchange_NN1 rate_NN1 fluctuations_NN2 ._. 
+</s>
+<s>
+The_AT CS_NP2 phenomenon_NN1 may_VM have_VHI important_JJ implications_NN2 in_II31 terms_II32 of_II33 monetary_JJ policy_NN1 since_CS it_PPH1 implies_VVZ a_AT1 swap_NN1 from_II domestic_JJ to_II foreign_JJ currency_NN1 as_II the_AT exchange_NN1 rate_NN1 tends_VVZ to_TO depreciate_VVI ._. 
+</s>
+<s>
+A_AT1 number_NN1 of_IO empirical_JJ studies_NN2 of_IO CS_NP2 in_II developing_JJ countries_NN2 have_VH0 been_VBN carried_VVN out_RP through_II VEC_NP1 models_NN2 ,_, obtaining_VVG results_NN2 which_DDQ support_VV0 or_CC not_XX the_AT CS_NP2 hypothesis_NN1 ._. 
+</s>
+<s>
+To_TO analyse_VVI the_AT CS_NP2 phenomenon_NN1 in_II Argentina_NP1 between_II 1991:04_MC and_CC 2003:12_MC ,_, I_PPIS1 followed_VVD the_AT VEC_NN1 approach_NN1 addressed_VVN in_II Prock_NP1 et_RA21 al_RA22 (_( 2003_MC )_) ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO test_VVI for_IF cointegration_NN1 the_AT well-known_JJ Johansen_NP1 technique_NN1 was_VBDZ followed_VVN ,_, but_CCB several_DA2 issues_NN2 arose_VVD when_CS this_DD1 method_NN1 was_VBDZ implemented_VVN ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, as_CSA a_AT1 possible_JJ consequence_NN1 of_IO the_AT Argentine_JJ data_NN 's_GE high_JJ fluctuations_NN2 ,_, the_AT residuals_NN2 of_IO the_AT first_MD VAR_NP1 formulation_NN1 showed_VVD strong_JJ evidence_NN1 of_IO non-normalities_NN2 ._. 
+</s>
+<s>
+Since_CS these_DD2 non-normalities_NN2 affect_VV0 the_AT inference_NN1 in_II the_AT Johansen_NP1 technique_NN1 ,_, I_PPIS1 incorporated_VVD 10_MC dummies_NN2 in_II the_AT VAR_NP1 specification_NN1 to_TO obtain_VVI normal_JJ multivariate_JJ residuals_NN2 ._. 
+</s>
+<s>
+Nevertheless_RR ,_, inspection_NN1 of_IO the_AT residuals_NN2 of_IO each_DD1 variable_NN1 indicated_VVD the_AT possibility_NN1 of_IO further_JJR improvements_NN2 in_II the_AT specification_NN1 ._. 
+</s>
+<s>
+Concerned_JJ about_II this_DD1 problem_NN1 ,_, the_AT non-parametric_JJ test_NN1 of_IO cointegration_NN1 proposed_VVN by_II Bierens_NP1 (_( 1997_MC )_) was_VBDZ introduced_VVN ._. 
+</s>
+<s>
+Furthermore_RR ,_, since_CS the_AT results_NN2 of_IO both_DB2 approaches_NN2 indicated_VVD the_AT existence_NN1 of_IO one_MC1 cointegration_NN1 relation_NN1 and_CC the_AT multivariate_JJ residuals_NN2 behaved_VVD approximately_RR normally_RR ,_, I_PPIS1 continue_VV0 with_IW the_AT Johansen_NP1 technique_NN1 to_TO estimate_VVI the_AT cointegration_NN1 vector_NN1 ._. 
+</s>
+<s>
+Curiously_RR ,_, the_AT normalised_JJ cointegration_NN1 vector_NN1 obtained_VVN with_IW the_AT Johansen_NP1 technique_NN1 does_VDZ not_XX show_VVI evidence_NN1 of_IO CS_NP2 in_II Argentina_NP1 for_IF the_AT period_NN1 1991:04_MC to_II 2003:12_MC ._. 
+</s>
+<s>
+Several_DA2 improvements_NN2 in_II the_AT monetary_JJ policies_NN2 implemented_VVN during_II the_AT 1990s_MC2 may_VM explain_VVI the_AT differences_NN2 with_IW the_AT results_NN2 obtained_VVN by_II Prock_NP1 et_RA21 al_RA22 (_( 2003_MC )_) with_IW data_NN from_II mid-1980s_NN2 ._. 
+</s>
+<s>
+Interesting_JJ extensions_NN2 of_IO this_DD1 paper_NN1 are_VBR postponed_VVN for_IF further_JJR research_NN1 ._. 
+</s>
+<s>
+Firstly_RR ,_, the_AT estimation_NN1 of_IO the_AT cointegrating_JJ vector_NN1 with_IW the_AT nonparametric_JJ approach_NN1 of_IO Bierens_NP1 (_( 1997_MC )_) and_CC the_AT comparison_NN1 of_IO the_AT results_NN2 with_IW those_DD2 obtained_VVN by_II the_AT Johansen_NP1 technique_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, as_II a_AT1 consequence_NN1 of_IO the_AT high_JJ instability_NN1 of_IO the_AT Argentine_JJ data_NN ,_, nonparametric_JJ methods_NN2 for_IF analysis_NN1 cointegration_NN1 seem_VV0 to_TO be_VBI an_AT1 interesting_JJ avenue_NN1 for_IF future_JJ research_NN1 ._. 
+</s>
+<s>
+Secondly_RR ,_, it_PPH1 seems_VVZ interesting_JJ to_TO analyse_VVI the_AT CS_NP2 phenomenon_NN1 in_II Argentina_NP1 during_II the_AT 1980s_MC2 ._. 
+</s>
+<s>
+Such_DA an_AT1 analysis_NN1 may_VM provide_VVI an_AT1 important_JJ reference_NN1 to_TO compare_VVI the_AT effects_NN2 of_IO the_AT economic_JJ policies_NN2 implemented_VVN during_II the_AT 1990s_MC2 on_II the_AT long-run_JJ demand_NN1 for_IF money_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, it_PPH1 might_VM be_VBI interesting_JJ to_TO continue_VVI the_AT analysis_NN1 of_IO the_AT short-run_JJ dynamics_NN of_IO the_AT model_NN1 considering_II different_JJ VAR_NP1 identification_NN1 approaches_NN2 ._. 
+</s>
+<s>
+1_MC1 See_NN1 Calvo_NN1 and_CC V_ZZ1 gh_NNU (_( 1996_MC )_) for_IF a_AT1 discussion_NN1 ._. 
+</s>
+<s>
+2_MC Prockal._NP1 (_( 2003_MC )_) considered_VVD the_AT cases_NN2 of_IO Argentina_NP1 ,_, Brazil_NP1 and_CC Mexico_NP1 ._. 
+</s>
+<s>
+3_MC See_VV0 Cavallo_NP1 and_CC Cottani_NP1 (_( 1997_MC )_) for_IF a_AT1 review_NN1 ._. 
+</s>
+<s>
+4_MC From_II the_AT analysis_NN1 by_II Ahumada_NP1 (_( 1992_MC )_) for_IF the_AT period_NN1 1977_MC and_CC 1988_MC it_PPH1 is_VBZ possible_JJ to_TO appreciate_VVI that_CST "_" (_( ..._... )_) 
+</s>
+<s>
+Real_JJ holdings_NN2 ofmoney_NN1 declined_VVN during_II the_AT early_JJ 1980s_MC2 ,_, increased_VVD sharply_RR after_II June_NPM1 1985_MC ,_, ..._... followed_VVN by_II a_AT1 new_JJ demonetization_NN1 period_NN1 withpartial_JJ recoveries_NN2 in_II 1987_MC and_CC 1988_MC (_( ..._... )_) "_" (_( op_RR21 cit._RR22 ,_, p.337_FO )_) ._. 
+</s>
+<s>
+5_MC For_IF a_AT1 discussion_NN1 on_II the_AT empirical_JJ evidence_NN1 of_IO the_AT PPP_NP1 in_II the_AT Long-Run_JJ see_VV0 Sarno_NN1 and_CC Taylor_NP1 (_( 2002_MC )_) ._. 
+</s>
+<s>
+6_MC To_TO obtain_VVI the_AT real_JJ demand_NN1 for_IF money_NN1 the_AT nominal_JJ quantity_NN1 of_IO M1_FO was_VBDZ deflated_VVN by_II the_AT consumer_NN1 price_NN1 index_NN1 (_( CPI_NNU )_) ._. 
+</s>
+<s>
+7_MC The_AT EViews_NN2 econometric_JJ software_NN1 (_( version_NN1 4.1_MC )_) will_VM be_VBI utilized_VVN to_TO perform_VVI the_AT cointegration_NN1 analysis_NN1 ._. 
+</s>
+<s>
+8_MC The_AT economic_JJ interpretation_NN1 of_IO a_AT1 positive_JJ value_NN1 of_IO d_ZZ1 will_VM be_VBI discussed_VVN in_II subsection_NN1 F._NP1 9_MC While_CS the_AT ADF_NN1 test_NN1 corrects_VVZ for_IF higher_JJR serial_JJ correlation_NN1 adding_VVG lagged_JJ terms_NN2 ,_, the_AT PP_NN1 test_NN1 makes_VVZ a_AT1 nonparametric_JJ correctionwhich_NN1 is_VBZ more_RGR robust_JJ under_II a_AT1 serial_JJ correlation_NN1 and_CC time-dependent_JJ heteroskedasticity_NN1 of_IO unknown_JJ form_NN1 (_( Chenal._NP1 2002_MC ,_, p.1122_FO )_) ._. 
+</s>
+<s>
+10_MC To_TO determine_VVI the_AT number_NN1 of_IO lags_NN2 included_VVN in_II the_AT tests_NN2 ,_, the_AT Akaike_NP1 (_( AIC_NP1 )_) and_CC Schwarz_NP1 (_( SC_FO )_) information_NN1 criteria_NN2 were_VBDR utilized.In_NNU case_NN1 of_IO divergence_NN1 ,_, the_AT SC_FO criterion_NN1 was_VBDZ considered_VVN since_CS it_PPH1 tends_VVZ to_TO select_VVI a_AT1 more_RGR parsimonious_JJ model_NN1 (_( Enders_NN2 2004_MC ,_, p.193_FO )_) ._. 
+</s>
+<s>
+11_MC In_II fact_NN1 ,_, the_AT tests_NN2 '_GE power_NN1 for_IF unit_NN1 roots_NN2 might_VM be_VBI reduced_VVN if_CS deterministic_JJ components_NN2 not_XX present_JJ in_II the_AT DGP_NP1 are_VBR included_VVN in_II thetest_JJT (_( Harris_NP1 op_RR21 cit._RR22 ,_, p.31_FO )_) ._. 
+</s>
+<s>
+12_MC The_AT only_JJ exception_NN1 is_VBZ in_II the_AT ADF_NN1 test_NN1 including_II the_AT intercept_VV0 for_IF R_ZZ1 in_II levels_NN2 ,_, where_CS the_AT null_JJ hypothesis_NN1 is_VBZ rejected_VVN at_II asignificance_NN1 level_NN1 of_IO 5%_NNU ._. 
+</s>
+<s>
+Nevertheless_RR ,_, when_CS R_ZZ1 is_VBZ tested_VVN under_II other_JJ specifications_NN2 or_CC in_II all_DB cases_NN2 with_IW the_AT PP_NN1 test_NN1 ,_, the_AT nullhypothesis_NN1 is_VBZ not_XX rejected_VVN in_II levels_NN2 ._. 
+</s>
+<s>
+13_MC The_AT information_NN1 criteria_NN2 utilised_VVN in_II the_AT paper_NN1 are_VBR :_: Akaike_NP1 (_( AIC_NP1 )_) ,_, Schwarz_NP1 (_( SC_FO )_) ,_, Final_JJ Prediction_NN1 Error_NN1 (_( FPE_NP1 )_) and_CC Hannan_NP1 and_CC Quinn_NP1 (_( HQ_NN1 )_) ._. 
+</s>
+<s>
+14_MC In_II fact_NN1 ,_, in_II the_AT case_NN1 of_IO the_AT 3_MC lags_NN2 suggested_VVN by_II the_AT most_RGT parsimonious_JJ SC_FO criterion_NN1 there_RL still_RR was_VBDZ evidence_NN1 of_IO serial_JJ correlation.On_NNU the_AT other_JJ hand_NN1 ,_, considering_II 6_MC lags_NN2 in_II the_AT VAR_NP1 model_VV0 the_AT LM_NP1 test_NN1 for_IF autocorrelation_NN1 did_VDD not_XX show_VVI evidence_NN1 of_IO serialcorrelation._NNU 15_MC I_PPIS1 included_VVD a_AT1 total_NN1 of_IO 10_MC dummies_NN2 which_DDQ adopt_VV0 a_AT1 value_NN1 equal_JJ to_II 1_MC1 in_II a_AT1 particular_JJ observation_NN1 and_CC otherwise_RR ._. 
+</s>
+<s>
+16_MC The_AT possibility_NN1 of_IO a_AT1 misspecification_NN1 will_VM be_VBI introduced_VVN later_RRR in_II the_AT paper_NN1 and_CC a_AT1 nonparametric_JJ test_NN1 for_IF cointegration_NN1 will_VM be_VBI addressed_VVN ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, it_PPH1 is_VBZ worth_II noting_VVG the_AT noise_NN1 in_II the_AT exchange_NN1 rate_NN1 residuals_NN2 after_II the_AT exchange_NN1 rate_NN1 correction_NN1 in_II January_NPM1 2002_MC ,_, not_XX solved_VVN with_IW the_AT introduction_NN1 of_IO the_AT dummies_NN2 ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT analysis_NN1 of_IO the_AT model_NN1 considering_II the_AT possibility_NN1 of_IO a_AT1 structural_JJ break_NN1 after_II January_NPM1 2002_MC needs_VVZ further_JJR research_NN1 ._. 
+</s>
+<s>
+17_MC This_DD1 method_NN1 consists_VVZ of_IO estimating_VVG all_DB the_AT specified_JJ forms_NN2 from_II the_AT most_RGT restrictive_JJ Model_NN1 2_MC to_II the_AT least_RGT restrictive_JJ Model_NN1 5_MC ,_, under_II different_JJ cointegration_NN1 relations_NN2 ._. 
+</s>
+<s>
+The_AT selected_JJ model_NN1 is_VBZ determined_VVN the_AT first_MD time_NNT1 that_CST the_AT null_JJ hypothesis_NN1 is_VBZ not_XX rejectedutilising_VVG both_RR ,_, the_AT trace_NN1 and_CC the_AT max_NN1 tests_NN2 ._. 
+</s>
+<s>
+18_MC The_AT inclusion_NN1 of_IO the_AT dummies_NN2 modifies_VVZ the_AT deterministic_JJ nucleus_NN1 of_IO the_AT model_NN1 and_CC the_AT appropriate_JJ critical_JJ values_NN2 for_IF the_AT testsshould_NN1 be_VBI re-computed_VVN (_( Favero_NP1 2001_MC ,_, p.74_FO )_) ._. 
+</s>
+<s>
+Nevertheless_RR ,_, I_PPIS1 decided_VVD to_TO follow_VVI Favero_NP1 (_( op_RR21 cit._RR22 ,_, p.76_FO )_) ,_, and_CC ignore_VV0 the_AT modificationof_NN1 the_AT relevant_JJ distributions_NN2 generated_VVN by_II the_AT inclusion_NN1 of_IO dummies._NNU 19_MC This_DD1 test_NN1 was_VBDZ constructed_VVN with_IW the_AT EasyReg_NN1 software_NN1 obtainable_JJ from_II Bierens_NP1 's_GE official_JJ web_NN1 page_NN1 :_: 20_MC The_AT comparison_NN1 of_IO the_AT normalised_JJ vectors_NN2 obtained_VVN through_II the_AT Johansen_NP1 and_CC Bierenes_NP2 approaches_NN2 will_VM be_VBI left_VVN for_IF furtherresearch._NNU 21_MC Interestingly_RR ,_, this_DD1 result_NN1 is_VBZ contrary_II21 to_II22 the_AT findings_NN2 by_II Prockal._NP1 (_( 2003_MC )_) for_IF the_AT period_NN1 1986:10-2001:06._MCMC 22_MC However_RR ,_, this_DD1 explanation_NN1 does_VDZ not_XX emphasise_VVI the_AT importance_NN1 of_IO the_AT domestic_JJ currency_NN1 's_GE expected_JJ depreciation_NN1 to_TO explain_VVI theresult_NN1 ._. 
+</s>
+<s>
+I_PPIS1 sustain_VV0 ,_, following_VVG models_NN2 such_II21 as_II22 Krugman_NP1 (_( 1979_MC )_) ,_, that_CST agents_NN2 increase_VV0 real_JJ cash_NN1 balances_VVZ after_II a_AT1 depreciation_NN1 of_IO thedomestic_JJ currency_NN1 only_RR if_CS they_PPHS2 do_VD0 not_XX expect_VVI further_JJR depreciations_NN2 ._. 
+</s>
+<s>
+Following_VVG this_DD1 statement_NN1 ,_, it_PPH1 is_VBZ possible_JJ to_TO suggest_VVI that_CST after1991:04_FO agents_NN2 perceive_VV0 exchange_NN1 rate_NN1 corrections_NN2 as_II a_AT1 once-and-for-all_DB phenomena_NN2 ._. 
+</s>
+<s>
+Thus_RR ,_, this_DD1 could_VM be_VBI a_AT1 symptom_NN1 of_IO theconfidence_NN1 that_CST agents_NN2 have_VH0 in_II the_AT monetary_JJ policies_NN2 carried_VVD out_RP recently_RR by_II the_AT economic_JJ authorities_NN2 and_CC ,_, indirectly_RR ,_, in_II thedomestic_JJ currency_NN1 ._. 
+</s>
+<s>
+The_AT validity_NN1 of_IO this_DD1 hypothesis_NN1 is_VBZ an_AT1 interesting_JJ issue_NN1 for_IF further_JJR research_NN1 ._. 
+</s>
+<s>
+23_MC Assuming_VVG the_AT existence_NN1 of_IO a_AT1 flexible_JJ exchange_NN1 rate_NN1 in_II the_AT economy_NN1 and_CC some_DD degree_NN1 of_IO capital_NN1 mobility_NN1 ,_, a_AT1 positive_JJ monetaryshock_NN1 will_VM tend_VVI to_TO depreciate_VVI the_AT domestic_JJ currency_NN1 ._. 
+</s>
+<s>
+As_CSA agents_NN2 tend_VV0 to_TO increase_VVI real_JJ balance_NN1 holdings_NN2 in_II this_DD1 scenario_NN1 ,_, it_PPH1 ispossible_JJ to_TO have_VHI a_AT1 reinforcement_NN1 of_IO the_AT original_JJ monetary_JJ shock_NN1 and_CC ,_, thus_RR ,_, the_AT effect_NN1 on_II Y_ZZ1 could_VM be_VBI more_RGR persistent_JJ ._. 
+</s>
+<s>
+24_MC See_VV0 Christianoal._NP1 (_( 1998_MC )_) for_IF a_AT1 review_NN1 ._. 
+</s>
+<s>
+25_MC In_RR21 particular_RR22 ,_, I_PPIS1 found_VVD the_AT interest_NN1 rate_NN1 puzzle_NN1 ,_, which_DDQ refers_VVZ to_II a_AT1 situation_NN1 in_II which_DDQ an_AT1 increase_NN1 (_( decrease_NN1 )_) in_II the_AT money_NN1 supplypositively_RR (_( negatively_RR )_) affects_VVZ the_AT interest_NN1 rate_NN1 ._. 
+</s>
+<s>
+26_MC For_IF a_AT1 review_NN1 of_IO the_AT economic_JJ puzzles_NN2 see_VV0 Christianoal._NP1 (_( 1998_MC )_) ._. 
+</s>
+<s>
+27_MC This_DD1 paper_NN1 's_GE main_JJ contributions_NN2 are_VBR :_: (_( i_ZZ1 )_) The_AT model_NN1 includes_VVZ the_AT exchange_NN1 rate_NN1 from_II an_AT1 individual_JJ country_NN1 perspective_NN1 ,_, and_CC (_( ii_MC )_) The_AT results_NN2 found_VVD were_VBDR robust_JJ through_II different_JJ identification_NN1 schemes_NN2 ._. 
+</s>
+<s>
+28_MC The_AT exogenous_JJ series_NN were_VBDR obtained_VVN from_II the_AT International_JJ Financial_JJ Statistics_NN made_VVD available_JJ from_II DataStream._NP1 29_MC Peersman_NP1 and_CC Smets_NP1 (_( 2001_MC ,_, p.16_FO )_) specifically_RR indicated_VVN that_CST "_" (_( ..._... )_) the_AT exchange_NN1 rate_NN1 ,_, being_VBG an_AT1 asset_NN1 price_NN1 ,_, reacts_VVZ immediately_RR toall_VV0 the_AT other_JJ innovations_NN2 (_( ..._... )_) ,_, "_" which_DDQ supports_VVZ the_AT previous_JJ interpretation_NN1 ._. 
+</s>
+<s>
+30_MC The_AT response_NN1 standard_NN1 errors_NN2 of_IO each_DD1 IRF_NN1 were_VBDR constructed_VVN considering_II 3000_MC draws_NN2 by_II Monte_NP1 Carlo_NP1 Integration_NP1 ._. 
+</s>

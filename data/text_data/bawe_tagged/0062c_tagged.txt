@@ -1,0 +1,351 @@
+<s>
+Establishment_NN1 of_IO asymmetry_NN1 and_CC specification_NN1 of_IO cell_NN1 fate_NN1 in_II the_AT C._NP1 elegans_NP1 embryo_NN1 are_VBR processes_NN2 occurring_VVG at_II a_AT1 very_RG early_JJ stage_NN1 of_IO embryogenesis_NN1 ._. 
+</s>
+<s>
+Maternal_JJ effect_NN1 genes_NN2 play_VV0 a_AT1 predominant_JJ role_NN1 in_II initiating_VVG asymmetrical_JJ divisions_NN2 and_CC certain_JJ cell-cell_JJ interactions_NN2 that_CST influence_VV0 cell_NN1 fate_NN1 ,_, and_CC mutations_NN2 in_II these_DD2 genes_NN2 often_RR have_VH0 detrimental_JJ results_NN2 concerning_II the_AT embryonic_JJ phenotype_NN1 ._. 
+</s>
+<s>
+The_AT functions_NN2 and_CC mechanisms_NN2 of_IO regulation_NN1 of_IO maternal_JJ effect_NN1 genes_NN2 have_VH0 been_VBN extensively_RR studied_VVN in_II the_AT last_MD two_MC decades_NNT2 ,_, mainly_RR by_II investigating_VVG the_AT effects_NN2 of_IO genetic_JJ modifications_NN2 on_II young_JJ C._NP1 elegans_NP1 embryos_NN2 ._. 
+</s>
+<s>
+The_AT invertebrate_JJ Caenorhabditis_NP1 elegans_NP1 is_VBZ a_AT1 small_JJ nematode_NN1 worm_NN1 ,_, which_DDQ normally_RR lives_VVZ in_II soil_NN1 ,_, feeds_VVZ on_II micro-organisms_NN2 and_CC measures_NN2 only_RR 1_MC1 mm_NNU in_II length_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ several_DA2 properties_NN2 that_CST made_VVD it_PPH1 very_RG popular_JJ among_II developmental_JJ biologists_NN2 as_II a_AT1 model_NN1 organism_NN1 after_II being_VBG discovered_VVN as_CSA such_DA by_II Sydney_NP1 Brenner_NP1 in_II the_AT 1960s_MC2 ._. 
+</s>
+<s>
+Embryogenesis_NN1 only_RR takes_VVZ 16_MC hours_NNT2 and_CC can_VM be_VBI accomplished_VVN in_RR21 vitro_RR22 ._. 
+</s>
+<s>
+Furthermore_RR the_AT embryos_NN2 are_VBR transparent_JJ ,_, thus_RR development_NN1 can_VM be_VBI monitored_VVN easily_RR ._. 
+</s>
+<s>
+Adults_NN2 can_VM be_VBI stored_VVN as_CSA frozen_JJ stocks_NN2 and_CC recover_VV0 upon_II thawing_VVG ._. 
+</s>
+<s>
+And_CC because_CS the_AT species_NN consists_VVZ of_IO few_DA2 males_NN2 and_CC mostly_RR hermaphrodites_NN2 ,_, one_MC1 hermaphrodite_NN1 individual_NN1 can_VM seed_VVI a_AT1 whole_JJ population_NN1 by_II self-fertilisation_NN1 since_CS it_PPH1 produces_VVZ both_RR sperm_NN and_CC eggs_NN2 ._. 
+</s>
+<s>
+Also_RR ,_, C._NP1 elegans_NP1 has_VHZ a_AT1 small_JJ genome_NN1 with_IW less_DAR than_CSN 20000_MC genes_NN2 ,_, which_DDQ has_VHZ been_VBN entirely_RR sequenced_VVN ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI easily_RR genetically_RR manipulated_VVN with_IW techniques_NN2 common_JJ in_II developmental_JJ biology_NN1 to_TO identify_VVI important_JJ genes_NN2 ._. 
+</s>
+<s>
+Because_CS C._NP1 elegans_NP1 is_VBZ remarkably_RR simple_JJ ,_, with_IW an_AT1 invariant_JJ somatic_JJ cell_NN1 lineage_NN1 ,_, all_DB cell_NN1 divisions_NN2 and_CC any_DD inductive_JJ interactions_NN2 between_II cells_NN2 are_VBR programmed_VVN and_CC predictable_JJ ._. 
+</s>
+<s>
+Thus_RR the_AT origin_NN1 of_IO the_AT 959_MC somatic_JJ cells_NN2 within_II each_DD1 adult_NN1 organism_NN1 is_VBZ exactly_RR known_VVN ._. 
+</s>
+<s>
+Therefore_RR ,_, C._NP1 elegans_NP1 serves_VVZ as_II an_AT1 excellent_JJ example_NN1 for_IF the_AT determinate_JJ mode_NN1 of_IO development_NN1 exhibited_VVN by_II various_JJ ,_, albeit_CS rather_RG simple_JJ ,_, species_NN ._. 
+</s>
+<s>
+Cell_NN1 fate_NN1 is_VBZ specified_VVN by_II two_MC processes_NN2 very_RG early_RR on_RP in_II embryogenesis_NN1 ._. 
+</s>
+<s>
+Firstly_RR ,_, a_AT1 number_NN1 of_IO invariant_JJ asymmetric_JJ cell_NN1 divisions_NN2 ,_, in_II which_DDQ important_JJ regulatory_JJ molecules_NN2 are_VBR being_VBG unequally_RR distributed_VVN along_II the_AT cleavage_NN1 furrow_NN1 ,_, thus_RR creating_VVG daughter_NN1 blastomeres_NN2 with_IW different_JJ developmental_JJ fates_NN2 ._. 
+</s>
+<s>
+Secondly_RR ,_, there_EX are_VBR different_JJ cell-cell_JJ interactions_NN2 which_DDQ have_VH0 reproducible_JJ invariant_JJ patterns_NN2 in_II every_AT1 individual_JJ as_RR21 well_RR22 ._. 
+</s>
+<s>
+In_II cell-cell_JJ interactions_NN2 ,_, a_AT1 certain_JJ cell_NN1 's_GE signal_NN1 will_VM either_RR alter_VVI the_AT fate_NN1 of_IO an_AT1 adjacent_JJ cell_NN1 ,_, or_CC it_PPH1 will_VM trigger_VVI polarisation_NN1 of_IO this_DD1 cell_NN1 ,_, resulting_VVG in_II asymmetric_JJ division.1_FO ._. 
+</s>
+<s>
+The_AT majority_NN1 of_IO genes_NN2 involved_JJ in_II early_JJ cell_NN1 fate_NN1 specification_NN1 are_VBR maternal_JJ effect_NN1 genes_NN2 ;_; so_JJ21 called_JJ22 because_CS these_DD2 genes_NN2 are_VBR transcribed_VVN from_II the_AT maternal_JJ genome_NN1 and_CC are_VBR delivered_VVN to_II the_AT early_JJ embryo_NN1 by_II its_APPGE mother_NN1 instead_II21 of_II22 being_VBG transcribed_VVN from_II the_AT zygotic_JJ genome_NN1 ._. 
+</s>
+<s>
+And_CC while_CS the_AT effects_NN2 of_IO mutations_NN2 in_II these_DD2 genes_NN2 are_VBR not_XX visible_JJ in_II the_AT mother_NN1 ,_, the_AT offspring_NN will_VM often_RR have_VHI an_AT1 easily_RR distinguishable_JJ phenotype_NN1 ._. 
+</s>
+<s>
+This_DD1 essay_NN1 focuses_VVZ on_II a_AT1 number_NN1 of_IO these_DD2 genes_NN2 and_CC their_APPGE protein_NN1 products_NN2 ,_, as_II31 well_II32 as_II33 regulation_NN1 of_IO their_APPGE expression_NN1 ._. 
+</s>
+<s>
+The_AT first_MD cell_NN1 division_NN1 of_IO the_AT P0_FO zygote_NN1 is_VBZ already_RR asymmetrical_JJ ,_, resulting_VVG in_II a_AT1 bigger_JJR anterior_JJ founder_NN1 cell_NN1 called_VVN AB_FO and_CC a_AT1 smaller_JJR posterior_JJ stem_NN1 cell_NN1 called_VVN P1_FO ._. 
+</s>
+<s>
+Each_DD1 of_IO the_AT early_JJ cell_NN1 divisions_NN2 produces_VVZ one_MC1 somatic_JJ founder_NN1 cell_NN1 ,_, denoted_VVN AB_FO ,_, EMS_NP1 etc_RA ,_, and_CC one_MC1 stem_NN1 cell_NN1 ,_, denoted_VVN P1_FO to_II P4_FO ,_, which_DDQ is_VBZ a_AT1 germline_NN1 precursor_NN1 ._. 
+</s>
+<s>
+The_AT stem_NN1 cell_NN1 lineage_NN1 always_RR divides_VVZ so_RR at_II to_TO produce_VVI another_DD1 stem_NN1 cell_NN1 and_CC a_AT1 new_JJ anterior_JJ founder_NN1 cell_NN1 ,_, as_CSA can_VM be_VBI seen_VVN in_II fig._NN1 1_MC1 ._. :_: 
+</s>
+<s>
+There_EX are_VBR two_MC autonomous_JJ processes_NN2 that_CST take_VV0 place_NN1 at_II the_AT one-cell_JJ stage_NN1 ,_, which_DDQ are_VBR important_JJ in_II asymmetrical_JJ division_NN1 ._. 
+</s>
+<s>
+One_PN1 is_VBZ determination_NN1 of_IO the_AT posterior_JJ pole_NN1 of_IO the_AT P0_FO blastomere_NN1 and_CC the_AT second_MD concerns_VVZ asymmetrical_JJ localisation_NN1 of_IO the_AT PAR_NN1 proteins_NN2 ,_, which_DDQ are_VBR vital_JJ for_IF maintaining_VVG the_AT initially_RR established_VVN asymmetry_NN1 and_CC cell_NN1 fate_NN1 specification_NN1 of_IO the_AT daughter_NN1 blastomeres_NN2 AB_FO and_CC P1_FO ._. 
+</s>
+<s>
+One_MC1 sign_NN1 of_IO asymmetry_NN1 is_VBZ the_AT migration_NN1 of_IO P_ZZ1 granules_NN2 ,_, which_DDQ are_VBR ribonucleoprotein_NN1 complexes_NN2 involved_JJ in_II specifying_VVG the_AT germline_NN1 and_CC are_VBR randomly_RR dispersed_VVN throughout_II the_AT cytoplasm_NN1 at_II the_AT early_JJ one-cell_JJ stage_NN1 ._. 
+</s>
+<s>
+The_AT P_ZZ1 granules_NN2 can_VM be_VBI found_VVN migrating_VVG to_II the_AT posterior_JJ axis_NN1 shortly_RR after_II fertilisation_NN1 ,_, so_CS21 that_CS22 they_PPHS2 enter_VV0 only_RR the_AT P1_FO blastomere_NN1 formed_VVN from_II the_AT posterior_JJ cytoplasm_NN1 ._. 
+</s>
+<s>
+When_CS a_AT1 sperm_NN enters_VVZ the_AT oocyte_NN1 in_II the_AT spermathecum_NN1 ,_, the_AT centrosome_JJ associated_JJ with_IW its_APPGE pronucleus_NN initiates_VVZ cytoplasmic_JJ streaming_NN1 which_DDQ localises_VVZ the_AT paternal_JJ pronucleus_NN to_II the_AT nearest_JJT end_NN1 of_IO the_AT oocyte_NN1 ,_, which_DDQ adopts_VVZ an_AT1 oval_JJ shape_NN1 due_II21 to_II22 egg_NN1 shell_NN1 constraints_NN2 ,_, thus_RR determining_VVG the_AT posterior_JJ pole_NN1 of_IO the_AT zygote_NN1 ._. 
+</s>
+<s>
+Both_RR maternal_JJ and_CC paternal_JJ pronuclei_NN2 move_VV0 to_II the_AT zygote_NN1 's_GE centre_NN1 and_CC the_AT first_MD mitotic_JJ spindle_NN1 is_VBZ formed_VVN ._. 
+</s>
+<s>
+During_II anaphase_NN1 ,_, the_AT spindle_NN1 becomes_VVZ displaced_JJ to_II the_AT posterior_NN1 ,_, resulting_VVG in_II an_AT1 unequal_JJ division.2_FO ._. 
+</s>
+<s>
+The_AT sperm_NN pronucleus/centrosome_FU complex_JJ (_( SPCC_NP1 )_) seems_VVZ to_TO specify_VVI the_AT anteroposterior_JJ axis_NN1 ,_, involving_VVG NMY-2_MC ,_, a_AT1 nonmuscle_NN1 myosin_NN1 II_MC heavy_JJ chain_NN1 and_CC MLC-4_MC ,_, a_AT1 myosin_NN1 light_NN1 chain_NN1 ,_, by_II inducing_VVG cytoplasmic_JJ streaming_NN1 and_CC a_AT1 process_NN1 called_VVN pseudocleavage_VV0 that_CST involves_VVZ ruffling_NN1 of_IO the_AT anterior_JJ cortex_NN1 of_IO the_AT embryo_NN1 while_CS the_AT posterior_JJ cortex_NN1 remains_VVZ smooth_JJ ._. 
+</s>
+<s>
+These_DD2 processes_NN2 are_VBR thought_VVN to_TO localise_VVI the_AT PAR_NN1 proteins_NN2 (_( see_VV0 fig._NN1 2_MC )_) to_II specific_JJ areas_NN2 of_IO the_AT zygote_NN1 ,_, which_DDQ is_VBZ important_JJ for_IF establishing_VVG and_CC maintaining_VVG the_AT anteroposterior_JJ axis_NN1 ,_, but_CCB it_PPH1 is_VBZ not_XX known_VVN how_RRQ PAR_NP1 proteins_NN2 interact_VV0 with_IW the_AT actin_NN1 cytoskeleton_NN1 or_CC the_AT myosin_NN1 ._. 
+</s>
+<s>
+But_CCB it_PPH1 has_VHZ been_VBN found_VVN ,_, that_CST the_AT C_NP1 terminus_NN1 of_IO PAR-1_MC1 binds_VVZ NMY-2_MC ,_, so_CS there_EX must_VM clearly_RR be_VBI some_DD sort_NN1 of_IO interaction_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, mutations_NN2 of_IO nmy-2_MC or_CC mlc-4_MC result_VV0 in_II defects_NN2 in_II the_AT localisation_NN1 of_IO PAR-3_MC ,_, PAR-2_MC and_CC P_ZZ1 granules.1_FO ._. 
+</s>
+<s>
+Mitotic_JJ spindle_NN1 alignment_NN1 with_IW the_AT anteroposterior_JJ axis_NN1 in_II P0_FO is_VBZ also_RR dyein_NN1 and_CC dynactin_NN1 dependant_NN1 ._. 
+</s>
+<s>
+Posterior_JJ displacement_NN1 results_NN2 from_II unequal_JJ pulling_JJ forces_NN2 and_CC requires_VVZ the_AT PAR-2_MC and_CC PAR-3_MC proteins_NN2 since_CS these_DD2 seem_VV0 to_TO position_VVI the_AT DEP_NN1 domain_NN1 protein_NN1 LET-99_MC ._. 
+</s>
+<s>
+LET-99_MC is_VBZ localised_VVN in_II a_AT1 narrow_JJ band_NN1 along_II the_AT posterior_JJ cortex_NN1 and_CC it_PPH1 has_VHZ been_VBN shown_VVN that_CST LET-99_MC weakens_VVZ microtubule_NN1 interactions_NN2 with_IW the_AT cortex_NN1 via_II dyein_NN1 ,_, resulting_VVG in_II a_AT1 stronger_JJR net_NN1 pull_VV0 from_II the_AT posterior_JJ cortex_NN1 on_II the_AT posterior_JJ centrosome_JJ ,_, which_DDQ contributes_VVZ to_II posterior_JJ displacement_NN1 of_IO the_AT P0_FO spindle_NN1 ._. 
+</s>
+<s>
+The_AT DEP_NN1 domain_NN1 in_II LET-99_MC might_VM also_RR spatially_RR regulate_VVI the_AT uniformly_RR cortical_JJ and_CC centrosomal_JJ G_ZZ1 subunits_VVZ GOA-1_MC1 and_CC GPA-16_MC to_TO influence_VVI asymmetric_JJ spindle_NN1 movement.3_FO ._. 
+</s>
+<s>
+During_II the_AT first_MD phase_NN1 ,_, the_AT sperm_NN asters_NN2 at_II one_MC1 end_NN1 of_IO the_AT embryo_NN1 exclude_VV0 the_AT PAR-3/PAR-6/PKC3_JJ complex_NN1 from_II the_AT posterior_JJ cortex_NN1 ._. 
+</s>
+<s>
+Close_JJ association_NN1 of_IO the_AT centrosome_JJ and_CC astral_JJ microtubules_NN2 with_IW the_AT cortex_NN1 excludes_VVZ PAR-3_MC from_II the_AT posterior_JJ pole_NN1 ._. 
+</s>
+<s>
+The_AT exclusion_NN1 of_IO PAR-6_MC from_II the_AT posterior_NN1 also_RR involves_VVZ PAR-5_MC and_CC the_AT non-muscle_JJ myosin_NN1 NMY-2_MC ,_, which_DDQ prevents_VVZ PAR-6_MC from_II sensing_VVG the_AT sperm_NN cue_NN1 ._. 
+</s>
+<s>
+It_PPH1 allows_VVZ PAR-2_MC to_TO sense_VVI this_DD1 displacement_NN1 and_CC accumulate_VVI at_II the_AT posterior_JJ pole_NN1 ._. 
+</s>
+<s>
+Subsequently_RR PAR-1_MC1 accumulates_VVZ ,_, which_DDQ is_VBZ responsible_JJ for_IF the_AT correct_JJ asymmetrical_JJ distribution_NN1 of_IO MEX-5_MC ,_, MEX-6_MC and_CC PIE-1_MC1 during_II the_AT establishment_NN1 phase_NN1 ._. 
+</s>
+<s>
+PAR-4_MC ,_, whose_DDQGE function_NN1 is_VBZ not_XX known_VVN as_II21 of_II22 yet_RR ,_, is_VBZ not_XX polarised_VVN in_II distribution_NN1 but_CCB found_VVD mainly_RR in_II the_AT cortex_NN1 ._. 
+</s>
+<s>
+A_AT1 summary_NN1 of_IO this_DD1 can_VM be_VBI seen_VVN in_II fig._NN1 3.4_MC ._. 
+</s>
+<s>
+The_AT second_MD phase_NN1 begins_VVZ after_II pronuclear_JJ meeting_NN1 ._. 
+</s>
+<s>
+During_II this_DD1 phase_NN1 ,_, PAR-2_MC maintains_VVZ anteroposterior_JJ polarity_NN1 by_II excluding_VVG the_AT PAR-3/PAR-6/PKC3_JJ complex_NN1 from_II the_AT posterior_NN1 when_CS the_AT sperm_NN dependant_JJ polarity_NN1 ends_NN2 ._. 
+</s>
+<s>
+The_AT conserved_JJ small_JJ G_ZZ1 protein_NN1 ,_, CDC-42_MC is_VBZ thought_VVN to_TO be_VBI necessary_JJ to_TO maintain_VVI polarity_NN1 as_RR21 well_RR22 ,_, by_II binding_VVG to_II PAR-6_MC and_CC activating_VVG the_AT PAR-3/PAR-6/PKC-3_JJ complex_NN1 by_II promoting_VVG PKC-3_MC kinase_NN1 activity.2_FO ,_, 4_MC ._. 
+</s>
+<s>
+MEX-5_MC and_CC MEX-6_MC are_VBR some_DD of_IO the_AT proteins_NN2 that_CST act_VV0 downstream_RL of_IO the_AT PAR_NN1 proteins_NN2 in_II establishing_VVG protein_NN1 asymmetries_NN2 ,_, but_CCB do_VD0 not_XX affect_VVI spindle_NN1 asymmetry_NN1 in_II one-cell_JJ embryos_NN2 ._. 
+</s>
+<s>
+MEX-5_MC is_VBZ localised_VVN towards_II the_AT anterior_JJ ,_, which_DDQ is_VBZ complementary_JJ to_II the_AT posterior_JJ localisation_NN1 of_IO a_AT1 group_NN1 of_IO posterior-localised_JJ germline_NN1 proteins_NN2 ._. 
+</s>
+<s>
+Normal_JJ protein_NN1 asymmetries_NN2 appear_VV0 to_TO depend_VVI on_II a_AT1 balance_NN1 between_II MEX-5-MEX-6_NP1 function_NN1 and_CC the_AT level_NN1 of_IO Ras-MAP_JJ kinase_NN1 activity.2_FO ._. 
+</s>
+<s>
+A_AT1 maternally_RR contributed_VVN transcription_NN1 factor_NN1 ,_, SKN-1_MC1 ,_, is_VBZ required_VVN to_TO specify_VVI the_AT identity_NN1 of_IO EMS_NP1 ,_, thus_RR also_RR establishing_VVG the_AT dorsoventral_JJ axis_NN1 in_II the_AT C._NP1 elegans_NP1 embryo_NN1 at_II the_AT 4-cell_JJ stage_NN1 ._. 
+</s>
+<s>
+Mutations_NN2 in_II skn-1_MC1 lead_NN1 to_II MS_NN1 and_CC E_ZZ1 taking_VVG up_RP a_AT1 C-like_JJ fate_NN1 ,_, thus_RR skn-1_MC1 mutants_NN2 have_VH0 an_AT1 excessive_JJ number_NN1 of_IO hypodermal_JJ cells_NN2 on_II their_APPGE ventral_JJ surfaces_NN2 and_CC inside_II their_APPGE bodies_NN2 ,_, where_CS the_AT pharynx_NN1 and_CC intestine_NN1 would_VM form_VVI in_II wild-type_JJ embryos_NN2 ,_, while_CS the_AT muscle_NN1 ,_, pharynx_VV0 ,_, and_CC intestine_NN1 normally_RR produced_VVN by_II MS_NN1 and_CC E_ZZ1 are_VBR absent_JJ ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, skn-1_MC1 mutant_NN1 MS_NN1 blastomeres_NN2 are_VBR unable_JK to_TO induce_VVI pharyngeal_JJ cell_NN1 fate_NN1 in_II AB_FO descendants_NN2 at_II the_AT 12-cell_NN1 stage.5_FO ._. 
+</s>
+<s>
+The_AT maternal_JJ skn-1_MC1 mRNA_NN1 encodes_VVZ a_AT1 nuclear-localised_JJ protein_NN1 that_CST is_VBZ distributed_VVN unequally_RR in_II early_JJ C._NP1 elegans_NP1 embryos_NN2 ._. 
+</s>
+<s>
+At_RR21 present_RR22 the_AT embryonic_JJ distribution_NN1 of_IO skn-1_MC1 mRNA_NN1 could_VM not_XX be_VBI determined_VVN ._. 
+</s>
+<s>
+Yet_RR the_AT SKN-1_MC1 protein_NN1 is_VBZ localised_VVN in_II specific_JJ cells_NN2 as_CSA can_VM be_VBI seen_VVN in_II fig.4_FO ._. 
+</s>
+<s>
+This_DD1 localisation_NN1 involves_VVZ the_AT maternal_JJ MEX-1_MC1 protein_NN1 as_II31 well_II32 as_II33 the_AT PAR-1_MC1 protein_NN1 ,_, as_CSA mex-1_MC1 or_CC par-1_MC1 mutants_NN2 show_VV0 a_AT1 more_RGR or_CC less_RGR equal_JJ distribution_NN1 of_IO SKN-1_MC1 between_II AB_FO and_CC P1_FO and_CC their_APPGE respective_JJ descendants.6_FO ._. 
+</s>
+<s>
+SKN-1_MC1 activity_NN1 is_VBZ regulated_VVN by_II several_DA2 different_JJ signals_NN2 depending_II21 on_II22 the_AT particular_JJ cell_NN1 type_NN1 since_CS SKN-1_MC1 is_VBZ found_VVN in_II P2_FO ,_, MS_NN1 and_CC E_ZZ1 blastomeres_NN2 ,_, but_CCB only_RR E_ZZ1 expresses_VVZ genes_NN2 specifying_VVG its_APPGE descendants_NN2 to_TO take_VVI up_RP an_AT1 intestinal_JJ fate_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN proposed_VVN that_CST in_II P2_FO ,_, SKN-1_MC1 is_VBZ repressed_VVN by_II PIE-1_MC1 ,_, which_DDQ is_VBZ differentially_RR segregated_VVN to_II P2_FO during_II the_AT first_MD 2_MC cell_NN1 divisions_NN2 by_II associating_VVG with_IW the_AT P_ZZ1 granules_NN2 ,_, and_CC a_AT1 general_JJ inhibitor_NN1 of_IO transcription_NN1 ._. 
+</s>
+<s>
+In_II MS_NN1 ,_, SKN-1_MC1 activity_NN1 is_VBZ repressed_VVN by_II the_AT maternal_JJ POP-1_MC1 protein_NN1 ._. 
+</s>
+<s>
+But_CCB in_II E_ZZ1 ,_, both_RR SKN-1_MC1 and_CC POP-1_MC1 are_VBR required_VVN to_TO express_VVI endodermal_JJ genes_NN2 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ found_VVN that_CST two_MC convergent_JJ signalling_NN1 systems_NN2 ,_, a_AT1 Wnt-type_NN1 and_CC a_AT1 MAP_NN1 kinase_NN1 pathway_NN1 ,_, both_DB2 originate_VV0 from_II P2_FO and_CC participate_VV0 in_II the_AT interaction_NN1 that_CST activates_VVZ endoderm_NN1 development_NN1 by_II inactivating_VVG the_AT endoderm-repressor_JJ function_NN1 of_IO POP-1_MC1 ,_, possibly_RR converting_VVG it_PPH1 into_II an_AT1 activator.7_FO ._. 
+</s>
+<s>
+Targets_NN2 of_IO SKN-1_MC1 include_VV0 the_AT zygotic_JJ med-1_MC1 and_CC med-2_MC genes_NN2 ,_, which_DDQ both_DB2 encode_VV0 similar_JJ GATA-type_JJ transcription_NN1 factors_NN2 that_CST then_RT continue_VV0 to_TO activate_VVI transcription_NN1 of_IO endodermal_JJ genes_NN2 ._. 
+</s>
+<s>
+SKN-1_MC1 contains_VVZ a_AT1 basic_JJ region_NN1 similar_JJ to_II those_DD2 of_IO basic_JJ Leucine_NN1 zipper_NN1 (_( bZIP_NN1 )_) proteins_NN2 ,_, but_CCB paradoxically_RR ,_, it_PPH1 lacks_VVZ a_AT1 leucine_NN1 zipper_NN1 dimerisation_NN1 domain_NN1 ._. 
+</s>
+<s>
+Thus_RR SKN-1_MC1 binds_VVZ to_II specific_JJ DNA_NN1 sequences_NN2 as_II a_AT1 monomer_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ found_VVN that_CST SKN-1_MC1 binds_VVZ directly_RR to_II the_AT med-1_MC1 promoter_NN1 ,_, thus_RR activating_VVG transcription_NN1 ._. 
+</s>
+<s>
+But_CCB SKN-1_MC1 also_RR performs_VVZ a_AT1 function_NN1 similar_JJ to_II that_DD1 of_IO PIE-1_MC1 ,_, namely_REX transcriptional_JJ silencing_NN1 of_IO PAL-1_MC1 ._. 
+</s>
+<s>
+A_AT1 transcriptional_JJ regulator_NN1 called_VVN PAL-1_MC1 is_VBZ found_VVN in_II several_DA2 nuclei_NN2 of_IO the_AT germline_NN1 (_( see_VV0 fig.4_FO )_) ,_, but_CCB it_PPH1 is_VBZ only_RR responsible_JJ for_IF determining_JJ cell_NN1 fate_NN1 of_IO the_AT C_NP1 and_CC D_ZZ1 blastomeres_NN2 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN shown_VVN that_CST SKN-1_MC1 activity_NN1 inhibits_VVZ PAL-1_MC1 activity_NN1 in_II the_AT EMS_NP1 ,_, thus_RR promoting_VVG E_ZZ1 and_CC MS_NN1 cell_NN1 fates_NN2 ._. 
+</s>
+<s>
+In_II germline_NN1 precursors_NN2 ,_, PIE-1_MC1 could_VM prevent_VVI PAL-1_MC1 function_NN1 in_II the_AT same_DA way_NN1 that_CST it_PPH1 inhibits_VVZ the_AT action_NN1 of_IO SKN-1._MC 1_MC1 ,_, 8_MC ._. 
+</s>
+<s>
+Mutations_NN2 in_II the_AT maternal_JJ pie-1_MC1 gene_NN1 lead_NN1 to_II abnormal_JJ division_NN1 of_IO the_AT P2_FO stem_NN1 cell_NN1 ,_, resulting_VVG in_II daughter_NN1 cells_NN2 C_ZZ1 and_CC P3_FO ,_, which_DDQ are_VBR very_RG similar_JJ to_II wild-type_JJ MS_NN1 and_CC E_ZZ1 blastomeres_NN2 ._. 
+</s>
+<s>
+Thus_RR pie-1_MC1 mutations_NN2 lead_VV0 to_II loss_NN1 of_IO the_AT stem_NN1 cell_NN1 lineage_NN1 ,_, which_DDQ is_VBZ necessary_JJ for_IF development_NN1 of_IO the_AT germline_NN1 ,_, and_CC are_VBR usually_RR fatal.9_FO ._. 
+</s>
+<s>
+Maternal_JJ pie-1_MC1 mRNA_NN1 can_VM be_VBI found_VVN in_II the_AT gonads_NN2 ,_, oocyte_NN1 and_CC blastomeres_NN2 up_II21 to_II22 the_AT 4-cell_JJ stage_NN1 of_IO embryogenesis_NN1 ._. 
+</s>
+<s>
+The_AT PIE-1_MC1 protein_NN1 has_VHZ two_MC CCCH_NP1 zinc_NN1 finger_NN1 motifs_NN2 and_CC can_VM be_VBI found_VVN in_II both_DB2 the_AT nucleus_NN1 and_CC the_AT cytoplasm_NN1 of_IO P1_FO to_II P4_FO blastomeres_NN2 (_( see_VV0 fig.4_FO )_) ._. 
+</s>
+<s>
+During_II division_NN1 of_IO each_DD1 germline_NN1 blastomere_NN1 ,_, PIE-1_MC1 initially_RR associates_VVZ with_IW both_DB2 centrosomes_NN2 of_IO the_AT mitotic_JJ spindle_NN1 ._. 
+</s>
+<s>
+However_RR ,_, as_CSA the_AT mitotic_JJ spindle_NN1 rotates_VVZ 90_MC ,_, PIE-1_MC1 disappears_VVZ from_II the_AT centrosome_JJ destined_VVN for_IF the_AT somatic_JJ daughter_NN1 ,_, and_CC persists_VVZ only_RR in_II the_AT other_JJ ._. 
+</s>
+<s>
+The_AT rotation_NN1 brings_VVZ the_AT centrosome_JJ into_II a_AT1 different_JJ cellular_JJ environment_NN1 ,_, this_DD1 affects_VVZ PIE-1_MC1 stability_NN1 and/or_CC binding.9_FO ,_, 10_MC Interaction_NN1 between_II a_AT1 certain_JJ ubiquitin_NN1 ligase_NN1 and_CC the_AT first_MD zinc_NN1 finger_NN1 of_IO PIE-1_MC1 is_VBZ responsible_JJ for_IF degradation_NN1 of_IO PIE-1_MC1 in_II somatic_JJ blastomeres_NN2 ,_, as_CSA this_DD1 ligase_NN1 marks_VVZ proteins_NN2 for_IF proteolysis_NN1 ._. 
+</s>
+<s>
+MEX-5_MC and_CC MEX-6_MC are_VBR also_RR necessary_JJ for_IF partitioning_NN1 PIE-1_MC1 into_II germline_NN1 destined_VVN cytoplasm_NN1 just_RR before_II cell_NN1 division_NN1 as_II31 well_II32 as_II33 localising_VVG it_PPH1 to_II P_ZZ1 granules_NN2 ,_, and_CC this_DD1 localisation_NN1 somehow_RR involves_VVZ the_AT second_MD zinc_NN1 finger_NN1 of_IO PIE-1.14_MC ._. 
+</s>
+<s>
+The_AT localization_NN1 and_CC the_AT genetic_JJ properties_NN2 of_IO PIE-1_MC1 suggest_VV0 that_CST it_PPH1 represses_VVZ the_AT establishment_NN1 of_IO somatic_JJ cell_NN1 fate_NN1 and_CC preserves_VVZ the_AT totipotency_NN1 of_IO the_AT germ_NN1 cell_NN1 lineage.10_FO In_RR21 general_RR22 ,_, germline_VV0 cells_NN2 are_VBR thought_VVN to_TO show_VVI a_AT1 reduced_JJ level_NN1 of_IO transcription_NN1 compared_VVN to_II somatic_JJ cells_NN2 on_II the_AT basis_NN1 of_IO transcriptional_JJ inhibition_NN1 by_II PIE-1_MC1 ._. 
+</s>
+<s>
+Thus_RR PIE-1_MC1 protects_VVZ the_AT germline_NN1 cells_NN2 from_II somatic_JJ differentiation_NN1 pathways_NN2 ,_, by_II preventing_VVG transcription_NN1 of_IO factors_NN2 such_II21 as_II22 SKN-1_MC1 and_CC PAL-1_MC1 ._. 
+</s>
+<s>
+PIE-1_MC1 is_VBZ thought_VVN to_TO prevent_VVI transcription_NN1 via_II interfering_VVG with_IW a_AT1 CTD_NP1 kinase_NN1 ,_, which_DDQ phosphorylates_VVZ the_AT CTD_NP1 domain_NN1 of_IO RNA_NN1 polymerase_NN1 II_MC ,_, a_AT1 process_NN1 normally_RR necessary_JJ for_IF transcription_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, the_AT stability_NN1 and_CC expression_NN1 of_IO maternal_JJ effect_NN1 genes_NN2 depends_VVZ on_II PIE-1_MC1 activity.12_FO But_CCB PIE-1_MC1 is_VBZ said_VVN to_TO be_VBI bifunctional_JJ ,_, since_CS it_PPH1 has_VHZ shown_VVN to_TO be_VBI important_JJ in_II regulation_NN1 of_IO both_DB2 maternal_JJ and_CC zygotic_JJ gene_NN1 expression_NN1 ,_, as_CSA it_PPH1 not_XX only_RR inhibits_VVZ transcription_NN1 of_IO zygotic_JJ genes_NN2 but_CCB also_RR promotes_VVZ transcription_NN1 of_IO maternal_JJ genes_NN2 ._. 
+</s>
+<s>
+One_MC1 example_NN1 is_VBZ nos-1_MC1 ,_, a_AT1 Nanos_NP1 homologue_NN1 that_CST is_VBZ needed_VVN for_IF the_AT correct_JJ localisation_NN1 of_IO the_AT Z2_FO and_CC Z3_FO germ_VV0 cells.9_FO ,_, 13_MC ._. 
+</s>
+<s>
+MEX-1_MC1 is_VBZ essential_JJ for_IF maintenance_NN1 of_IO the_AT germline_NN1 but_CCB does_VDZ not_XX directly_RR control_VVI gene_NN1 transcription_NN1 ._. 
+</s>
+<s>
+The_AT mex-1_MC1 mutant_NN1 phenotype_NN1 is_VBZ similar_JJ to_II par_NN1 mutant_NN1 phenotypes_NN2 ,_, but_CCB a_RR21 bit_RR22 weaker_JJR ,_, and_CC mex-1_MC1 mutants_NN2 exhibit_VV0 cell_NN1 fate_NN1 changes_NN2 ,_, defects_NN2 in_II localisation_NN1 of_IO P_ZZ1 granules_NN2 ,_, SKN-1_MC1 and_CC PIE-1_MC1 proteins_NN2 as_II31 well_II32 as_II33 defects_NN2 in_II asymmetrical_JJ cell_NN1 division_NN1 ._. 
+</s>
+<s>
+The_AT MEX-1_MC1 protein_NN1 has_VHZ two_MC zinc_NN1 finger_NN1 motifs_NN2 similar_JJ to_II the_AT ones_NN2 found_VVN in_II PIE-1_MC1 and_CC is_VBZ localised_VVN in_II a_AT1 similar_JJ pattern_NN1 to_II that_DD1 of_IO PIE-1_MC1 ._. 
+</s>
+<s>
+MEX-1_MC1 is_VBZ localised_VVN to_II the_AT cytoplasm_NN1 of_IO germline_NN1 blastomeres_NN2 and_CC P_ZZ1 granules_NN2 until_CS the_AT birth_NN1 of_IO the_AT P4_FO daughters_NN2 ,_, but_CCB in_II contrast_NN1 to_II PIE-1_MC1 ,_, it_PPH1 is_VBZ not_XX found_VVN in_II the_AT nucleus.9_FO ,_, 11_MC ._. 
+</s>
+<s>
+In_II the_AT C._NP1 elegans_NP1 embryo_NN1 ,_, the_AT first_MD cell_NN1 division_NN1 generates_VVZ two_MC unequal_JJ cells_NN2 with_IW distinct_JJ developmental_JJ potentials_NN2 :_: The_AT founder_NN1 cell_NN1 AB_FO and_CC the_AT stem_NN1 cell_NN1 P1_FO ._. 
+</s>
+<s>
+AB_FO divides_VVZ into_II two_MC developmentally_RR equivalent_JJ daughter_NN1 cells_NN2 ,_, ABa_NP1 and_CC ABp_NP1 ,_, which_DDQ have_VH0 asymmetrical_JJ contacts_NN2 with_IW the_AT neighbouring_JJ blastomeres_NN2 EMS_NP1 and_CC P2_FO ._. 
+</s>
+<s>
+This_DD1 enables_VVZ a_AT1 cell-cell_JJ interaction_NN1 between_II ABp_NP1 and_CC P2_FO by_II the_AT late_JJ 4-cell_JJ stage_NN1 of_IO embryogenesis_NN1 that_CST is_VBZ essential_JJ for_IF formation_NN1 of_IO a_AT1 dorsoventral_JJ axis_NN1 and_CC causes_NN2 ABp_VV0 to_TO adopt_VVI a_AT1 different_JJ developmental_JJ fate_NN1 from_II ABa.15_FO ._. 
+</s>
+<s>
+Translation_NN1 of_IO maternal_JJ glp-1_MC1 and_CC expression_NN1 of_IO GLP-1_MC1 ,_, a_AT1 transmembrane_NN1 receptor_NN1 similar_JJ to_II the_AT Drosophila_NP1 Notch_VV0 receptor_NN1 ,_, by_II ABp_NP1 and_CC expression_NN1 of_IO maternal_JJ APX-1_MC1 by_II P2_FO is_VBZ essential_JJ for_IF this_DD1 interaction_NN1 ._. 
+</s>
+<s>
+When_CS glp-1_MC1 mRNA_NN1 is_VBZ delivered_VVN to_II the_AT embryo_NN1 by_II the_AT oocyte_NN1 ,_, it_PPH1 is_VBZ distributed_VVN to_II both_DB2 anterior_JJ and_CC posterior_JJ blastomeres_NN2 but_CCB GLP-1_MC1 protein_NN1 expression_NN1 is_VBZ restricted_VVN to_II the_AT anterior_JJ AB_FO descendants_NN2 of_IO 2-28_MCMC cell_NN1 embryos_NN2 ._. 
+</s>
+<s>
+As_RG many_DA2 other_JJ maternal_JJ mRNAs_NN2 ,_, glp-1_MC1 is_VBZ regulated_VVN by_II its_APPGE 3'_FO untranslated_JJ region_NN1 (_( UTR_NP1 )_) ._. 
+</s>
+<s>
+Two_MC regions_NN2 within_II the_AT glp-1_MC1 3'_FO UTR_NP1 mediate_VV0 control_NN1 of_IO translation_NN1 :_: a_AT1 temporal_JJ control_NN1 region_NN1 (_( TCR_NP1 )_) represses_VVZ translation_NN1 until_CS the_AT 2-4_MCMC cell_NN1 stage_NN1 ,_, and_CC a_AT1 spatial_JJ control_NN1 region_NN1 (_( SCR_NP1 )_) is_VBZ required_VVN to_TO repress_VVI translation_NN1 in_II P2_FO and_CC its_APPGE descendants.16_FO ._. 
+</s>
+<s>
+The_AT balance_NN1 between_II POS-1_MC1 and_CC SPN-4_MC is_VBZ thought_VVN to_TO control_VVI the_AT translation_NN1 of_IO maternal_JJ glp-1_MC1 ._. 
+</s>
+<s>
+POS-1_MC1 is_VBZ a_AT1 protein_NN1 that_CST binds_VVZ to_II the_AT SCR_NP1 of_IO glp-1_MC1 and_CC is_VBZ thought_VVN to_TO negatively_RR regulate_VVI the_AT translation_NN1 of_IO glp-1_MC1 in_II P2_FO by_II shortening_VVG its_APPGE poly(A)_NN1 tail_NN1 ._. 
+</s>
+<s>
+SPN-4_MC is_VBZ an_AT1 RNP-type_JJ RNA-binding_JJ protein_NN1 whose_DDQGE interaction_NN1 with_IW the_AT TCR_NP1 seems_VVZ required_JJ for_IF the_AT translation_NN1 of_IO glp-1_MC1 ._. 
+</s>
+<s>
+The_AT translation_NN1 of_IO maternal_JJ glp-1_MC1 mRNA_NN1 is_VBZ suppressed_VVN in_II posterior_JJ parts_NN2 of_IO the_AT embryo_NN1 where_CS POS-1_MC1 is_VBZ very_RG abundant_JJ ,_, but_CCB it_PPH1 is_VBZ turned_VVN on_RP in_II the_AT anterior_JJ half_NN1 ,_, where_CS the_AT concentration_NN1 of_IO SPN-4_MC ,_, which_DDQ is_VBZ abundant_JJ in_II both_DB2 the_AT posterior_NN1 and_CC anterior_JJ parts_NN2 of_IO the_AT embryo_NN1 ,_, predominates_VVZ over_II the_AT abundance_NN1 of_IO POS-1_MC1 ._. 
+</s>
+<s>
+Interestingly_RR ,_, GLP-1_MC1 is_VBZ not_XX translated_VVN in_II oocytes_NN2 or_CC one-cell_JJ embryos_NN2 which_DDQ do_VD0 have_VHI abundant_JJ SPN-4_MC but_CCB not_XX POS-1_MC1 ,_, thus_RR there_EX must_VM be_VBI yet_RR another_DD1 type_NN1 of_IO temporal_JJ regulation_NN1 preventing_VVG SPN-4_MC from_II activating_VVG translation_NN1 at_II this_DD1 early_JJ stage.17_FO ._. 
+</s>
+<s>
+APX-1_MC1 is_VBZ a_AT1 membrane-bound_JJ protein_NN1 similar_JJ to_II the_AT Drosophila_NP1 Delta_NN1 protein_NN1 and_CC the_AT C._NP1 elegans_NP1 LAG-2_MC protein_NN1 ,_, and_CC was_VBDZ found_VVN to_TO be_VBI one_MC1 of_IO the_AT ligands_NN2 of_IO GLP-1_MC1 involved_JJ in_II P2_FO signalling_VVG at_II the_AT 4-cell_JJ stage_NN1 ._. 
+</s>
+<s>
+While_CS the_AT maternal_JJ apx-1_MC1 mRNA_NN1 is_VBZ present_JJ in_II nearly_RR every_AT1 blastomere_NN1 at_II this_DD1 stage_NN1 ,_, its_APPGE expression_NN1 is_VBZ restricted_VVN to_II P1_FO and_CC P2_FO blastomeres_NN2 ,_, in_II a_AT1 way_NN1 similar_JJ to_II the_AT localisation_NN1 of_IO the_AT PAR-3_MC protein_NN1 ,_, thus_RR it_PPH1 could_VM be_VBI regulated_VVN in_II a_AT1 similar_JJ fashion_NN1 ._. 
+</s>
+<s>
+POS-1_MC1 seems_VVZ to_TO be_VBI positively_RR involved_JJ in_II the_AT translational_JJ regulation_NN1 ,_, while_CS SPN-4_MC acts_VVZ negatively_RR on_II apx-1_MC1 expression_NN1 ._. 
+</s>
+<s>
+GLP-1_MC1 and_CC APX-1_MC1 have_VH0 nearly_RR reciprocal_JJ patterns_NN2 of_IO expression_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, pie-1_MC1 mutants_NN2 ,_, which_DDQ can_VM fail_VVI to_TO specify_VVI the_AT fate_NN1 of_IO ABp_NP1 ,_, have_VH0 defects_NN2 in_II the_AT localisation_NN1 of_IO APX-1.17_MC ,_, 18_MC ._. 
+</s>
+<s>
+At_II the_AT 12-cell_JJ stage_NN1 ,_, the_AT MS_NN1 blastomere_NN1 provides_VVZ a_AT1 signal_NN1 that_CST is_VBZ necessary_JJ for_IF determining_VVG left-right_JJ asymmetry_NN1 in_II cell_NN1 fate_NN1 and_CC the_AT development_NN1 of_IO neighbouring_JJ ABa_NN1 descendants_NN2 ,_, which_DDQ form_VV0 most_DAT of_IO the_AT anterior_JJ half_NN1 of_IO the_AT pharynx_NN1 ._. 
+</s>
+<s>
+Since_CS both_DB2 P2_FO and_CC MS_NN1 signal_NN1 to_II GLP-1_MC1 ,_, which_DDQ has_VHZ to_TO be_VBI expressed_VVN by_II ABa_NP1 descendants_NN2 ,_, it_PPH1 was_VBDZ thought_VVN that_CST the_AT signals_NN2 originating_VVG from_II P2_FO and_CC MS_NN1 might_VM be_VBI identical_JJ or_CC at_RR21 least_RR22 related_JJ proteins_NN2 ._. 
+</s>
+<s>
+But_CCB while_CS APX-1_MC1 is_VBZ present_JJ at_II high_JJ levels_NN2 in_II P2_FO at_II the_AT 4-cell_JJ stage_NN1 ,_, neither_RR embryonic_JJ nor_CC maternal_JJ APX-1_MC1 was_VBDZ detected_VVN in_II the_AT MS_NN1 blastomere_NN1 at_II any_DD stage_NN1 of_IO embryogenesis_NN1 ._. 
+</s>
+<s>
+Other_JJ related_JJ proteins_NN2 could_VM not_XX be_VBI assigned_VVN as_CSA MS_NN1 signals_NN2 either_RR ,_, and_CC as_II21 of_II22 yet_RR the_AT ligand_NN1 for_IF GLP-1_MC1 in_II MS_NN1 signalling_NN1 has_VHZ not_XX been_VBN identified_VVN ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 possibility_NN1 that_CST zygotic_JJ instead_II21 of_II22 maternal_JJ gene_NN1 activity_NN1 in_II the_AT MS_NN1 blastomere_NN1 is_VBZ needed_VVN for_IF the_AT expression_NN1 or_CC activation_NN1 of_IO a_AT1 ligand_NN1 for_IF GLP-1_MC1 at_II this_DD1 stage.15_FO ,_, 16_MC ._. 
+</s>
+<s>
+A_AT1 lot_NN1 of_IO research_NN1 has_VHZ been_VBN done_VDN in_BCL21 order_BCL22 to_TO understand_VVI the_AT mechanisms_NN2 that_CST establish_VV0 asymmetry_NN1 and_CC specify_VV0 cell_NN1 fate_NN1 in_II the_AT early_JJ C._NP1 elegans_NP1 embryo_NN1 ._. 
+</s>
+<s>
+The_AT major_JJ conclusion_NN1 the_AT processes_NN2 are_VBR achieved_VVN via_II arises_VVZ through_II a_AT1 combination_NN1 of_IO asymmetric_JJ cell_NN1 divisions_NN2 and_CC cell-cell_JJ interactions_NN2 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN found_VVN that_CST a_AT1 whole_JJ range_NN1 of_IO maternal_JJ effect_NN1 genes_NN2 play_VV0 a_AT1 vital_JJ role_NN1 in_II early_JJ embryogenesis_NN1 but_CCB it_PPH1 is_VBZ not_XX clear_JJ in_II all_DB cases_NN2 exactly_RR how_RRQ the_AT maternal_JJ information_NN1 acts_VVZ on_II the_AT expression_NN1 of_IO zygotic_JJ genes_NN2 and_CC in_II which_DDQ way_NN1 these_DD2 genes_NN2 participate_VV0 in_II the_AT processes_NN2 described_VVN ._. 
+</s>
+<s>
+Further_JJR analysis_NN1 of_IO zygotic_JJ gene_NN1 mutations_NN2 is_VBZ needed_VVN to_TO elucidate_VVI this_DD1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, there_RL remain_VV0 several_DA2 gaps_NN2 in_II our_APPGE knowledge_NN1 about_II how_RRQ the_AT various_JJ maternal_JJ factors_NN2 interact_VV0 with_IW one_PPX121 another_PPX122 ._. 
+</s>
+<s>
+The_AT spatial_JJ and_CC temporal_JJ regulation_NN1 of_IO expression_NN1 of_IO any_DD given_JJ maternal_JJ effect_NN1 gene_NN1 often_RR seems_VVZ to_TO be_VBI dependant_JJ on_II a_AT1 number_NN1 of_IO other_JJ maternal_JJ effect_NN1 gene_NN1 products_NN2 ,_, so_CS it_PPH1 should_VM be_VBI interesting_JJ to_TO shed_VVI light_NN1 on_II the_AT connections_NN2 between_II regulation_NN1 of_IO different_JJ maternal_JJ genes_NN2 in_II different_JJ stages_NN2 of_IO early_JJ embryogenesis.1_FO ._. 
+</s>

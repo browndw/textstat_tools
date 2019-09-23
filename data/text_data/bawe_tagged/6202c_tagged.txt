@@ -1,0 +1,228 @@
+<s>
+In_BCL21 order_BCL22 to_TO understand_VVI and_CC closely_RR predict_VVI abnormal_JJ spontaneous_JJ electrical_JJ activity_NN1 in_II brains_NN2 of_IO patients_NN2 suffering_VVG from_II movement_NN1 disorders_NN2 (_( PD_NP1 in_II our_APPGE case_NN1 )_) this_DD1 report_NN1 shows_VVZ how_RRQ Artificial_JJ Neural_JJ Networks_NN2 are_VBR employed_VVN to_TO achieve_VVI this_DD1 goal_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 assignment_NN1 I_PPIS1 have_VH0 used_VVN MatLab_NP1 's_GE Neural_JJ Network_NN1 Toolbox_NN1 to_TO extract_VVI relevant_JJ portions_NN2 of_IO data_NN provided_VVN to_II us_PPIO2 and_CC work_VV0 upon_II it_PPH1 by_II testing_VVG it_PPH1 on_II two_MC different_JJ Artificial_JJ Neural_JJ Networks_NN2 as_CSA required_VVN ._. 
+</s>
+<s>
+PD_NP1 is_VBZ a_AT1 degenerative_JJ disorder_NN1 of_IO the_AT central_JJ nervous_JJ system_NN1 that_CST often_RR impairs_VVZ the_AT sufferer_NN1 's_GE motor_NN1 skills_NN2 and_CC speech_NN1 ._. 
+</s>
+<s>
+This_DD1 takes_VVZ place_NN1 as_II a_AT1 result_NN1 of_IO degeneration_NN1 of_IO neurons_NN2 in_II a_AT1 region_NN1 of_IO the_AT brain_NN1 that_CST controls_VVZ movement_NN1 ,_, causing_VVG shortage_NN1 of_IO brain_NN1 signaling_VVG chemical_JJ dopamine_NN1 ._. 
+</s>
+<s>
+Although_CS formally_RR recognized_VVN and_CC documented_VVN in_II the_AT early_JJ nineteenth_MD century_NNT1 by_II British_JJ Physician_NN1 James_NP1 Parkinson_NP1 ,_, The_AT oldest_JJT description_NN1 of_IO it_PPH1 is_VBZ found_VVN in_II the_AT ancient_JJ Indian_JJ medical_JJ system_NN1 of_IO Ayurveda_NP1 under_II the_AT name_NN1 Kampavata_NP1 around_RG 2500_MC BC_RA ._. 
+</s>
+<s>
+The_AT first_MD and_CC most_RGT common_JJ symptom_NN1 of_IO PD_NP1 is_VBZ tremor_NN1 (_( trembling_VVG or_CC shaking_VVG )_) of_IO a_AT1 limb_NN1 ,_, especially_RR when_CS the_AT body_NN1 is_VBZ at_II rest_NN1 ._. 
+</s>
+<s>
+Tremor_NN1 often_RR begins_VVZ on_II one_MC1 side_NN1 of_IO the_AT body_NN1 ,_, frequently_RR in_II one_MC1 hand_NN1 ._. 
+</s>
+<s>
+Other_JJ symptoms_NN2 include_VV0 slow_JJ movement_NN1 (_( Bradykinesia_NP1 )_) ,_, an_AT1 inability_NN1 to_TO move_VVI (_( Akinesia_NP1 )_) ,_, rigid_JJ limbs_NN2 ,_, a_AT1 shuffling_NN1 gait_NN1 and_CC a_AT1 stooped_JJ posture_NN1 ._. 
+</s>
+<s>
+People_NN with_IW PD_NP1 often_RR show_VV0 reduced_JJ facial_JJ expressions_NN2 and_CC speak_VV0 in_II a_AT1 soft_JJ voice_NN1 ._. 
+</s>
+<s>
+The_AT disease_NN1 also_RR causes_VVZ depression_NN1 ,_, personality_NN1 changes_NN2 ,_, dementia_NN1 ,_, sleep_VV0 disturbances_NN2 ,_, speech_NN1 impairments_NN2 and_CC sexual_JJ difficulties_NN2 ._. 
+</s>
+<s>
+Severity_NN1 of_IO PD_NP1 related_VVD symptoms_NN2 worsen_VV0 over_II time_NNT1 ._. 
+</s>
+<s>
+Dopamine_NN1 is_VBZ a_AT1 Naturally_RR produced_VVN Chemical_NN1 in_II the_AT body_NN1 and_CC functions_NN2 as_II a_AT1 neurotransmitter_NN1 activating_VVG receptors_NN2 helping_VVG us_PPIO2 "_" command_VV0 "_" our_APPGE body_NN1 ._. 
+</s>
+<s>
+An_AT1 Essay_NN1 on_II the_AT Shaking_NN1 Palsy_NN1 -_- JP_NN1 ,_, Royal_JJ College_NN1 of_IO Surgeons_NN2 1817_MC ._. 
+</s>
+<s>
+There_EX are_VBR many_DA2 theories_NN2 about_II the_AT causes_NN2 of_IO PD_NP1 ranging_VVG from_II Environmental_JJ factors_NN2 to_II Inherited_JJ susceptibility_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT test_NN1 that_CST can_VM clearly_RR identify_VVI the_AT disease_NN1 Although_CS Tests_NN2 such_II21 as_II22 brain_NN1 scans_NN2 ,_, can_VM help_VVI doctors_NN2 decide_VVI if_CSW a_AT1 patient_NN1 has_VHZ true_JJ Parkinson_NP1 's_GE Disease_NN1 or_CC some_DD other_JJ disorder_NN1 that_CST resembles_VVZ it_PPH1 ._. 
+</s>
+<s>
+Some_DD experts_NN2 also_RR believe_VV0 that_CST PD_NP1 is_VBZ something_PN1 of_IO an_AT1 "_" iceberg_NN1 ;_; phenomenon_NN1 "_" lurking_VVG in_RP as_RG many_DA2 as_CSA 20_MC people_NN for_IF each_DD1 known_VVN to_TO have_VHI PD_NP1 ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT cure_NN1 for_IF PD_NP1 and_CC hence_RR can_VM only_RR be_VBI controlled_VVN (_( partially_RR )_) ._. 
+</s>
+<s>
+In_II this_DD1 assignment_NN1 we_PPIS2 have_VH0 been_VBN provided_VVN with_IW a_AT1 data_NN file_NN1 (_( from_II hereon_NN1 referred_VVN to_II as_CSA dat_DD1 )_) containing_VVG actual_JJ statistics_NN (_( split_VV0 into_II two_MC columns_NN2 for_IF convenience_NN1 )_) from_II a_AT1 patient_NN1 with_IW the_AT dat_DD1 is_VBZ recorded_VVN over_RG 100_MC seconds_NNT2 (_( as_CSA it_PPH1 has_VHZ a_AT1 frequency_NN1 of_IO 800_MC Hz_NNU and_CC has_VHZ a_AT1 total_NN1 of_IO 80000_MC observations_NN2 )_) with_IW both_DB2 variable_NN1 having_VHG a_AT1 diverse_JJ range_NN1 of_IO amplitudes_NN2 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 the_AT way_NN1 we_PPIS2 load_VV0 any_DD data_NN into_II a_AT1 Neural_JJ Network_NN1 would_VM be_VBI dependent_JJ on_II how_RRQ we_PPIS2 would_VM want_VVI to_TO Interpret_VV0 it_PPH1 as_CSA ._. 
+</s>
+<s>
+This_DD1 will_VM not_XX only_RR help_VVI us_PPIO2 in_II getting_VVG a_AT1 good_JJ response_NN1 but_CCB will_VM also_RR aid_VVI our_APPGE understanding_NN1 of_IO the_AT whole_JJ procedure_NN1 ._. 
+</s>
+<s>
+Our_APPGE Purpose_NN1 here_RL is_VBZ to_TO devise_VVI a_AT1 neural_JJ network_NN1 such_CS21 that_CS22 when_CS trained_VVN with_IW a_AT1 certain_JJ occurrence(s)_NN2 of_IO input_NN1 LFP_NP1 with_IW target_NN1 EMG_NP1 ,_, it_PPH1 is_VBZ able_JK to_TO correctly_RR predict_VVI EMG_NP1 if_CS provided_VVN with_IW just_RR the_AT LFP_NP1 when_CS running_VVG ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 we_PPIS2 need_VV0 to_TO model_VVI an_AT1 autonomous_JJ system_NN1 in_II which_DDQ only_RR the_AT input_NN1 LFP_NP1 is_VBZ enough_DD to_TO predict_VVI when_RRQ an_AT1 EMG_NP1 change_NN1 will_VM occur_VVI so_CS21 that_CS22 a_AT1 countering_JJ action_NN1 is_VBZ generated_VVN to_TO reduce_VVI the_AT amplitude_NN1 of_IO EMG_NP1 so_CS21 that_CS22 a_AT1 large_JJ tremor_NN1 does_VDZ n't_XX take_VVI place_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 ways_NN2 by_II which_DDQ we_PPIS2 can_VM bring_VVI the_AT participating_JJ data_NN up-to_NN1 a_AT1 consistent_JJ standard_NN1 that_CST is_VBZ easy_JJ to_TO manipulate_VVI ,_, recognizable_JJ and_CC is_VBZ comparatively_RR smaller_JJR ._. 
+</s>
+<s>
+The_AT best_JJT way_NN1 that_CST would_VM suit_VVI this_DD1 purpose_NN1 initially_RR is_VBZ to_TO create_VVI a_AT1 mean_JJ value_NN1 for_IF each_DD1 participant_NN1 for_IF every_AT1 certain_JJ number_NN1 of_IO occurrences_NN2 ._. 
+</s>
+<s>
+The_AT main_JJ factors_NN2 needs_VVZ to_TO be_VBI taken_VVN into_II consideration_NN1 are_VBR ._. 
+</s>
+<s>
+That_CST it_PPH1 acknowledges_VVZ that_CST LFP_NP1 has_VHZ both_RR positive_JJ and_CC negative_JJ value_NN1 and_CC hence_RR there_EX is_VBZ a_AT1 strong_JJ possibility_NN1 that_CST means_VVZ at_II some_DD interval_NN1 would_VM be_VBI 0_MC leading_JJ to_II inconsistencies_NN2 ._. 
+</s>
+<s>
+(_( That_DD1 is_VBZ a_AT1 reason_NN1 we_PPIS2 would_VM have_VHI to_TO use_VVI a_AT1 variance_NN1 (_( 2_MC )_) based_VVN approach_NN1 for_IF LFP_NP1 ._. 
+</s>
+<s>
+This_DD1 ensures_VVZ that_CST there_EX is_VBZ a_AT1 "_" visible_JJ accentuated_JJ difference_NN1 "_" between_II the_AT two_MC participant_NN1 ._. )_) ._. 
+</s>
+<s>
+EMG_NP1 (_( green_JJ line_NN1 in_II Fig_NN1 2_MC )_) is_VBZ something_PN1 which_DDQ would_VM suit_VVI us_PPIO2 best_RRT if_CS it_PPH1 is_VBZ 'fuzzified'_JJ ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, rather_RR that_DD1 having_VHG an_AT1 intensity_NN1 based_VVN EMG_NP1 model_NN1 ,_, It_PPH1 is_VBZ far_RR more_RGR simpler_JJR to_TO have_VHI and_CC implement_VVI it_PPH1 based_VVN on_II an_AT1 'on-off'_JJ approach_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 tiny_JJ 'blip'_NN1 in_II our_APPGE observation_NN1 at_II the_AT beginning_NN1 where_CS our_APPGE EMG_NP1 slightly_RR increases_VVZ at_II the_AT 15_MC second_MD mark_NN1 (_( around_II the_AT 13000th_MD observation_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST it_PPH1 would_VM have_VHI to_TO be_VBI appropriately_RR thresholded_VVN ._. 
+</s>
+<s>
+We_PPIS2 then_RT plot_VV0 the_AT simplest_JJT way_NN1 in_II which_DDQ the_AT data_NN can_VM be_VBI plotted_VVN with_IW a_AT1 total_NN1 of_IO 80,000/800_MF =_FO 100_MC observations_NN2 ._. 
+</s>
+<s>
+Visually_RR we_PPIS2 are_VBR able_JK to_TO observe_VVI in_II this_DD1 case_NN1 that_CST as_CSA LFP_NP1 goes_VVZ down_RP EMG_NP1 activates_VVZ ._. 
+</s>
+<s>
+Our_APPGE main_JJ focus_NN1 now_RT is_VBZ to_TO have_VHI an_AT1 appropriate_JJ approach_NN1 to_TO realize_VVI a_AT1 solution_NN1 ._. 
+</s>
+<s>
+Artificial_JJ Neural_JJ Networks_NN2 can_VM be_VBI summarized_VVN as_CSA connectionist_NN1 paradigm_NN1 based_VVN programming_VVG on_II interconnecting_JJ neurons_NN2 (_( or_CC information_NN1 processing_NN1 units_NN2 )_) in_BCL21 order_BCL22 to_TO arrive_VVI at_II an_AT1 overall_JJ response_NN1 ._. 
+</s>
+<s>
+An_AT1 ANN_NP1 is_VBZ usually_RR designed_VVN to_TO change_VVI its_APPGE structure_NN1 based_VVN on_II external_JJ or_CC internal_JJ information_NN1 flowing_VVG through_II it_PPH1 to_TO get_VVI a_AT1 'desirable'_JJ output_NN1 ._. 
+</s>
+<s>
+Understanding_VVG ways_NN2 in_II which_DDQ ANNs_NP2 work_NN1 is_VBZ beyond_II the_AT scope_NN1 of_IO this_DD1 assignment_NN1 (_( as_CSA the_AT report_NN1 assumes_VVZ reader_NN1 to_TO have_VHI prior_JJ knowledge_NN1 )_) and_CC the_AT report_NN1 focusses_VVZ on_II how_RGQ accurately_RR is_VBZ a_AT1 tremor_NN1 predicted_VVN ._. 
+</s>
+<s>
+Normalised_VVN dat_DD1 is_VBZ split_VVN into_II a_AT1 ratio_NN1 of_IO 1:1:1_MC (_( Fig_NN1 3_MC )_) with_IW each_DD1 being_VBG for_IF training_NN1 ,_, validation_NN1 and_CC testing_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR several_DA2 ways_NN2 in_II which_DDQ the_AT data_NN can_VM be_VBI split_VVN for_IF this_DD1 purpose_NN1 but_CCB the_AT reason_NN1 I_PPIS1 employed_VVD this_DD1 approach_NN1 was_VBDZ because_CS the_AT initial_JJ blip_NN1 is_VBZ capable_JJ of_IO training_VVG the_AT network_NN1 well_RR so_CS21 that_CS22 it_PPH1 is_VBZ adjusted_VVN according_II21 to_II22 its_APPGE error_NN1 also_RR the_AT validation_NN1 bit_NN1 is_VBZ used_JJ to_II measure_NN1 network_NN1 generalisation_NN1 ,_, and_CC to_TO halt_VVI training_NN1 when_CS generalisation_NN1 stops_VVZ improving_JJ ._. 
+</s>
+<s>
+Testing_NN1 has_VHZ no_AT effect_NN1 on_II training_NN1 and_CC so_RR provide_VV0 an_AT1 independent_JJ measure_NN1 of_IO network_NN1 performance_NN1 during_II and_CC after_II training_NN1 ._. 
+</s>
+<s>
+The_AT intention_NN1 is_VBZ to_TO have_VHI final_JJ plots_NN2 with_IW the_AT prediction_NN1 for_IF all_DB the_AT three_MC portions_NN2 (_( even_CS21 if_CS22 they_PPHS2 have_VH0 been_VBN trained_VVN with_IW )_) ._. 
+</s>
+<s>
+Back_NN1 propagation_NN1 is_VBZ a_AT1 somewhat_RR ad_JJ21 hoc_JJ22 process_NN1 ._. 
+</s>
+<s>
+The_AT initial_JJ step_NN1 is_VBZ to_TO check_VVI that_CST the_AT output_NN1 is_VBZ correct_JJ ._. 
+</s>
+<s>
+If_CS it_PPH1 is_VBZ not_XX correct_JJ ,_, an_AT1 algorithm_NN1 goes_VVZ back_RP and_CC modifies_VVZ the_AT weights_NN2 of_IO the_AT inputs_NN2 to_II the_AT output_NN1 layer_NN1 ,_, such_CS21 that_CS22 a_AT1 correct_JJ response_NN1 would_VM have_VHI been_VBN received_VVN ._. 
+</s>
+<s>
+These_DD2 inputs_NN2 are_VBR ,_, in_II turn_NN1 ,_, outputs_NN2 of_IO a_AT1 middle_JJ layer_NN1 ,_, and_CC the_AT weighted_JJ inputs_NN2 of_IO the_AT middle_JJ layer_NN1 must_VM now_RT also_RR change_VVI to_TO reflect_VVI the_AT new_JJ output_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 continues_VVZ successively_RR until_CS input_NN1 weights_NN2 in_II each_DD1 of_IO the_AT layers_NN2 have_VH0 changed_VVN ._. 
+</s>
+<s>
+There_EX are_VBR essentially_RR two_MC passes_NN2 through_II a_AT1 neural_JJ network_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 continues_VVZ until_CS the_AT input_NN1 weights_NN2 no_RR21 longer_RR22 change_VV0 ._. 
+</s>
+<s>
+Back_NN1 propagation_NN1 is_VBZ a_AT1 common_JJ technique_NN1 ;_; however_RR this_DD1 is_VBZ not_XX a_AT1 method_NN1 that_CST biological_JJ systems_NN2 utilize_VV0 ._. 
+</s>
+<s>
+The_AT rough_JJ figure_NN1 shows_VVZ a_AT1 simple_JJ BPN_NP1 Feed-forward_NN1 (_( with_IW one_MC1 hidden_JJ layer_NN1 trained_VVN with_IW gradient_NN1 descent_NN1 Backpropagation_NN1 )_) used_VVD for_IF this_DD1 purpose_NN1 ._. 
+</s>
+<s>
+Learning_VVG mode_NN1 used_VVD was_VBDZ Gradient_NN1 descent_NN1 with_IW momentum_NN1 weight_NN1 and_CC bias_NN1 learning_NN1 function_NN1 ._. 
+</s>
+<s>
+Fig_NN1 4_MC Shows_VVZ that_CST the_AT Prediction_NN1 (_( shown_VVN in_II blue_JJ )_) and_CC the_AT original_JJ value_NN1 (_( red_JJ dash_NN1 dot_NN1 lines_NN2 )_) are_VBR close_JJ ._. 
+</s>
+<s>
+The_AT arrows_NN2 marked_VVN on_II the_AT Fig_NN1 show_VV0 that_CST :_: i_ZZ1 )_) Although_CS not_XX visible_JJ (_( due_II21 to_II22 printing_VVG constraints_NN2 )_) the_AT Prediction_NN1 is_VBZ very_RG close_JJ to_II the_AT desired_JJ target_NN1 value_NN1 ._. 
+</s>
+<s>
+ii_MC )_) The_AT twin_NN1 peaks_NN2 are_VBR a_AT1 result_NN1 of_IO momentum_NN1 and_CC are_VBR a_AT1 common_JJ problem_NN1 when_CS using_VVG simple_JJ BPNs_NP1 ._. 
+</s>
+<s>
+iii_MC )_) Due_II21 to_II22 no_AT limits_NN2 being_VBG present_JJ the_AT momentum_NN1 causes_VVZ the_AT plot_NN1 to_TO go_VVI down_RP into_II a_AT1 negative_JJ area_NN1 ._. 
+</s>
+<s>
+iv_MC )_) &;_NULL v_ZZ1 )_) are_VBR due_II21 to_II22 overfitting_VVG ._. 
+</s>
+<s>
+A_AT1 Multilayer_NN1 Perceptron_NN1 can_VM be_VBI considered_VVN as_II a_AT1 advanced_JJ Feedforward_JJ Backpropagation_NN1 model_NN1 but_CCB this_DD1 is_VBZ where_RRQ the_AT similarity_NN1 ends_VVZ as_II a_AT1 MLP_NP1 has_VHZ high_JJ capacity_NN1 of_IO input-output_NN1 mapping_NN1 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 this_DD1 MLPs_NP1 can_VM far_RR outperform_VVI other_JJ neural_JJ networks_NN2 (_( such_II21 as_II22 RBF_NP1 )_) and_CC also_RR requires_VVZ smaller_JJR number_NN1 of_IO parameters_NN2 in_II31 case_II32 of_II33 nonlinear_JJ input-output_NN1 mapping_NN1 for_IF the_AT same_DA degree_NN1 of_IO accuracy_NN1 ._. 
+</s>
+<s>
+As_CSA a_AT1 consequence_NN1 MLPs_NP1 tend_VV0 to_TO be_VBI far_RG more_RGR accurate_JJ than_CSN other_JJ complex_JJ ANNs_NP2 (_( although_CS there_EX is_VBZ a_AT1 tradeoff_NN1 as_CS31 far_CS32 as_CS33 training_VVG time_NNT1 concerned_JJ as_CSA MLPs_NP1 take_VV0 the_AT longest_JJT to_TO train_VVI )_) ._. 
+</s>
+<s>
+Architecture_NN1 of_IO MLPs_NP1 are_VBR not_XX completely_RR constrained_VVN by_II the_AT problem_NN1 in_II focus.This_NNU is_VBZ because_CS the_AT number_NN1 of_IO inputs_NN2 nodes_NN2 is_VBZ constrained_VVN by_II the_AT problem_NN1 and_CC the_AT number_NN1 of_IO neurons_NN2 in_II the_AT output_NN1 layer_NN1 is_VBZ constrained_VVN by_II the_AT number_NN1 of_IO outputs_NN2 which_DDQ is_VBZ required_VVN by_II the_AT problem_NN1 ,_, whereas_CS the_AT number_NN1 of_IO hidden_JJ layers_NN2 and_CC the_AT number_NN1 of_IO neurons_NN2 in_II the_AT hidden_JJ layers_NN2 depend_VV0 on_II designer_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 know_VV0 that_CST there_EX will_VM be_VBI one_MC1 input_NN1 node_NN1 in_II the_AT input_NN1 layer_NN1 one_MC1 output_NN1 neuron_NN1 corresponding_VVG to_II a_AT1 target_NN1 vector_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ n't_XX a_AT1 set_NN1 procedure_NN1 to_TO arrive_VVI at_II a_AT1 suitable_JJ number_NN1 of_IO hidden_JJ layers_NN2 but_CCB after_II experimenting_VVG this_DD1 was_VBDZ set_VVN at_II two_MC ._. 
+</s>
+<s>
+The_AT activation_NN1 function_NN1 selected_VVN for_IF this_DD1 purpose_NN1 is_VBZ a_AT1 logistic_JJ activation_NN1 function_NN1 ._. 
+</s>
+<s>
+A_AT1 modified_JJ conjugate_NN1 gradient_NN1 algorithm_NN1 based_VVN on_II the_AT Levenberg-Marquart_NP1 approach_NN1 is_VBZ utilized_VVN as_II the_AT preferred_JJ learning_NN1 algorithm_NN1 ._. 
+</s>
+<s>
+Fig_NN1 5_MC shows_VVZ the_AT result_NN1 observed_VVN in_II this_DD1 case_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 two_MC interesting_JJ observations_NN2 are_VBR made_VVN as_CSA (_( i_ZZ1 )_) is_VBZ very_RG close_JJ to_II the_AT predicted_JJ error_NN1 but_CCB (_( ii_MC )_) makes_VVZ for_IF an_AT1 erratic_JJ viewing_NN1 this_DD1 is_VBZ a_AT1 trend_NN1 we_PPIS2 observed_VVD in_II the_AT previous_JJ ANN_NP1 ._. 
+</s>
+<s>
+The_AT peaks_NN2 are_VBR generated_VVN due_II21 to_II22 overfitting_VVG ._. 
+</s>
+<s>
+When_CS comparing_VVG the_AT errors_NN2 in_II the_AT networks_NN2 (_( Fig_NN1 6._MC )_) we_PPIS2 get_VV0 an_AT1 expected_JJ result_NN1 ._. 
+</s>
+<s>
+An_AT1 MLP_NP1 implementation_NN1 of_IO the_AT problem_NN1 is_VBZ roughly_RR 22_MC times_NNT2 more_RRR accurate_JJ than_CSN a_AT1 conventional_JJ BPN_NP1 one_MC1 ._. 
+</s>
+<s>
+The_AT conclusion_NN1 can_VM be_VBI summarized_VVN in_II the_AT following_JJ points_NN2 :_: A_RR21 lot_RR22 actually_RR depends_VVZ on_II the_AT way_NN1 we_PPIS2 manipulate_VV0 and_CC work_VV0 with_IW the_AT given_JJ data_NN ._. 
+</s>
+<s>
+This_DD1 means_VVZ what_DDQ we_PPIS2 decide_VV0 to_TO partition_VVI and_CC where_RRQ has_VHZ a_AT1 major_JJ impact_NN1 on_II the_AT overall_JJ decision_NN1 (_( in_II this_DD1 case_NN1 at_RR21 least_RR22 )_) ._. 
+</s>
+<s>
+The_AT solution_NN1 discussed_VVN in_II this_DD1 report_NN1 is_VBZ highly_RR context_NN1 specific_JJ and_CC can_VM not_XX be_VBI generalized_VVN whatsoever_DDQV unless_CS we_PPIS2 have_VH0 a_AT1 training_NN1 data_NN from_II either_RR several_DA2 patients_NN2 or_CC different_JJ plots_NN2 from_II the_AT same_DA patient_NN1 ._. 
+</s>
+<s>
+ANNs_NP2 at_II this_DD1 stage_NN1 are_VBR not_XX very_RG reliable_JJ ,_, In_II31 addition_II32 to_II33 that_DD1 any_DD response_NN1 needs_VVZ to_TO be_VBI thresholded_VVN properly_RR ._. 
+</s>
+<s>
+Although_CS we_PPIS2 got_VVD a_AT1 MLP_NP1 to_TO work_VVI relatively_RR well_RR ,_, Its_APPGE use_NN1 in_II a_AT1 real_JJ situation_NN1 depends_VVZ upon_II several_DA2 factors_NN2 such_II21 as_II22 criticality_NN1 of_IO the_AT system_NN1 or_CC whether_CSW an_AT1 ANN_NP1 is_VBZ used_VVN as_II the_AT sole_JJ method_NN1 used_VVN for_IF prediction_NN1 or_CC an_AT1 aid_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 strong_JJ possibility_NN1 that_CST such_DA a_AT1 system_NN1 can_VM be_VBI put_VVN into_II use_NN1 in_II the_AT future_NN1 as_CSA it_PPH1 is_VBZ fairly_RR reliable_JJ at_II the_AT moment_NN1 ._. 
+</s>

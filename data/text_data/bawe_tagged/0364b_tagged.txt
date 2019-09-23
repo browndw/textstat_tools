@@ -1,0 +1,222 @@
+<s>
+A_AT1 suitable_JJ structural_JJ section_NN1 is_VBZ required_VVN for_IF a_AT1 roof_NN1 member_NN1 that_CST is_VBZ to_TO be_VBI pre-fabricated_JJ and_CC used_VVN in_II an_AT1 interior_JJ space_NN1 that_CST will_VM be_VBI divided_VVN by_II glass_NN1 curtain_NN1 walls_NN2 and_CC the_AT roof_NN1 to_TO be_VBI a_AT1 pedestrian_NN1 area_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT poor_JJ deflection_NN1 tolerance_NN1 of_IO glass_NN1 ,_, the_AT primary_JJ design_NN1 consideration_NN1 for_IF the_AT roof_NN1 member_NN1 is_VBZ that_CST it_PPH1 should_VM have_VHI minimal_JJ deflection_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT primary_JJ design_NN1 specifications_NN2 are_VBR limited_VVN ,_, a_AT1 performance_NN1 index_NN1 ,_, M_ZZ1 1_MC1 ,_, is_VBZ used_VVN to_TO make_VVI a_AT1 suitable_JJ selection_NN1 for_IF the_AT roof_NN1 member_NN1 ._. 
+</s>
+<s>
+A_AT1 Glulam_NN1 Softwood_NN1 rectangular_JJ section_NN1 (_( 720x90x32.53_FO )_) provides_VVZ the_AT most_RGT appropriate_JJ section_NN1 for_IF the_AT member_NN1 to_TO be_VBI designed_VVN to_II under_II the_AT M_NN1 1_MC1 performance_NN1 index_NN1 ._. 
+</s>
+<s>
+Further_JJR characteristics_NN2 can_VM be_VBI taken_VVN into_II consideration_NN1 to_TO ensure_VVI that_CST the_AT most_RGT suitable_JJ section_NN1 is_VBZ chosen_VVN ,_, these_DD2 include_VV0 ;_; price_NN1 ,_, visual_JJ impact_NN1 and_CC availability_NN1 ._. 
+</s>
+<s>
+The_AT performance_NN1 index_NN1 M_ZZ1 1_MC1 can_VM be_VBI modified_VVN to_TO create_VVI the_AT performance_NN1 index_NN1 M_ZZ1 2_MC ._. 
+</s>
+<s>
+This_DD1 index_NN1 avoids_VVZ the_AT problems_NN2 associated_VVN with_IW M_ZZ1 1_MC1 as_II the_AT use_NN1 of_IO weighting_VVG factors_NN2 allows_VVZ the_AT designer_NN1 to_TO make_VVI one_MC1 property_NN1 more_RGR dominant_JJ if_CS necessary_JJ ._. 
+</s>
+<s>
+M_ZZ1 2_MC provides_VVZ an_AT1 improved_JJ performance_NN1 index_NN1 for_IF which_DDQ to_TO make_VVI an_AT1 appropriate_JJ structural_JJ section_NN1 from_II ._. 
+</s>
+<s>
+In_II this_DD1 instance_NN1 the_AT CES_NP2 selector_NN1 will_VM be_VBI used_VVN to_TO choose_VVI an_AT1 optimum_JJ structural_JJ section_NN1 from_II the_AT considerable_JJ variety_NN1 available_JJ within_II the_AT database_NN1 ._. 
+</s>
+<s>
+The_AT selection_NN1 is_VBZ chosen_VVN by_II producing_VVG a_AT1 combination_NN1 of_IO the_AT optimal_JJ selection_NN1 parameters_NN2 using_VVG the_AT 'advanced'_JJ functions_NN2 available_JJ within_II the_AT programme_NN1 ._. 
+</s>
+<s>
+A_AT1 suitable_JJ structural_JJ section_NN1 is_VBZ required_VVN for_IF a_AT1 roof_NN1 member_NN1 that_CST is_VBZ to_TO be_VBI pre-fabricated_JJ and_CC used_VVN in_II an_AT1 interior_JJ space_NN1 that_CST will_VM be_VBI divided_VVN by_II glass_NN1 curtain_NN1 walls_NN2 and_CC the_AT roof_NN1 to_TO be_VBI a_AT1 pedestrian_NN1 area_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT poor_JJ deflection_NN1 tolerance_NN1 of_IO glass_NN1 ,_, the_AT primary_JJ design_NN1 consideration_NN1 for_IF the_AT roof_NN1 member_NN1 is_VBZ that_CST it_PPH1 should_VM have_VHI minimal_JJ deflection_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ specification_NN1 for_IF the_AT member_NN1 will_VM need_VVI to_TO be_VBI met_VVN :_: Performance_NN1 indices_NN2 use_VV0 several_DA2 factors_NN2 to_TO determine_VVI which_DDQ section_NN1 would_VM be_VBI most_RGT appropriate_JJ for_IF the_AT particular_JJ application_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 the_AT specification_NN1 states_VVZ that_CST torsional_JJ rigidity_NN1 and_CC recycle_VV0 fraction_NN1 to_TO be_VBI maximised_VVN and_CC energy_NN1 content_NN1 to_TO be_VBI minimised_VVN ,_, the_AT performance_NN1 index_NN1 M_ZZ1 1_MC1 (_( Equation_NN1 1_MC1 )_) can_VM be_VBI used_VVN to_TO select_VVI a_AT1 suitable_JJ section_NN1 for_IF the_AT beam_NN1 ._. 
+</s>
+<s>
+Equation_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT most_RGT appropriate_JJ section_NN1 will_VM have_VHI the_AT maximum_JJ value_NN1 of_IO M_ZZ1 1_MC1 ,_, and_CC a_AT1 value_NN1 as_RG close_RR to_II 1_MC1 as_CSA possible_JJ ._. 
+</s>
+<s>
+From_II the_AT specification_NN1 the_AT maximum_JJ deflection_NN1 of_IO the_AT roof_NN1 member_NN1 can_VM be_VBI calculated_VVN :_: The_AT applied_JJ load_NN1 in_II N/m_ZZ1 is_VBZ calculated_VVN from_II the_AT equivalent_NN1 factored_VVD live_JJ roof_NN1 load_NN1 of_IO 100_MC Kg/m_NNU ._. 
+</s>
+<s>
+The_AT maximum_JJ deflection_NN1 of_IO the_AT beam_NN1 ,_, ,_, can_VM also_RR be_VBI give_VV0 by_II Equation_NN1 2_MC where_RRQ q_ZZ1 is_VBZ the_AT load_NN1 applied_VVN in_II N/m_NNU ,_, L_ZZ1 is_VBZ the_AT length_NN1 of_IO the_AT beam_NN1 in_II meters_NN2 and_CC EI_NP1 is_VBZ the_AT flexural_JJ stiffness_NN1 of_IO the_AT beam_NN1 ._. 
+</s>
+<s>
+The_AT resistance_NN1 of_IO the_AT beam_NN1 to_II lateral_JJ bending_NN1 depends_VVZ upon_II the_AT flexural_JJ stiffness_NN1 of_IO the_AT beam_NN1 ._. 
+</s>
+<s>
+Equation_NN1 2_MC ._. 
+</s>
+<s>
+A_AT1 suitable_JJ structural_JJ section_NN1 for_IF the_AT beam_NN1 to_TO be_VBI constructed_VVN from_II is_VBZ identified_VVN by_II setting_VVG the_AT structural_JJ sections_NN2 selection_NN1 within_II the_AT CES_NP2 program_NN1 to_II the_AT following_JJ parameters_NN2 :_: The_AT maximum_JJ capacity_NN1 of_IO the_AT lifting_NN1 gear_NN1 that_CST is_VBZ available_JJ for_IF use_NN1 on_II site_NN1 is_VBZ 400kg_NNU ,_, it_PPH1 is_VBZ therefore_RR necessary_JJ for_IF the_AT weight_NN1 of_IO the_AT beam_NN1 to_TO be_VBI less_DAR than_CSN 400kg_NNU ._. 
+</s>
+<s>
+A_AT1 limit_NN1 state_NN1 is_VBZ created_VVN within_II the_AT CES_NP2 programme_NN1 to_TO ensure_VVI that_CST all_DB sections_NN2 selected_VVN will_VM have_VHI a_AT1 mass_NN1 per_II unit_NN1 length_NN1 that_CST is_VBZ appropriate_JJ for_IF the_AT application_NN1 :_: To_TO further_RRR limit_VVI the_AT possible_JJ sections_NN2 a_AT1 graphical_JJ Ashby_NP1 diagram_NN1 of_IO deflection_NN1 against_II M_ZZ1 1_MC1 (_( Appendix_NN1 1_MC1 )_) is_VBZ used_VVN ._. 
+</s>
+<s>
+The_AT flexural_JJ stiffness_NN1 is_VBZ used_VVN as_II a_AT1 variable_NN1 and_CC the_AT deflection_NN1 criteria_NN2 (_( )_) is_VBZ applied_VVN along_II21 with_II22 the_AT lifting_NN1 gear_NN1 limitations_NN2 ._. 
+</s>
+<s>
+The_AT following_JJ list_NN1 of_IO sections_NN2 passes_VVZ the_AT selection_NN1 criteria_NN2 :_: The_AT Ashby_NP1 diagram_NN1 in_II Appendix_NN1 1_MC1 shows_VVZ that_CST the_AT Glulam_NN1 Softwood_NN1 rectangular_JJ section_NN1 (_( 720x90x32.53_FO )_) has_VHZ the_AT highest_JJT M_NN1 1_MC1 value_NN1 out_II21 of_II22 the_AT short-listed_NN1 13_MC sections_NN2 ._. 
+</s>
+<s>
+Using_VVG the_AT performance_NN1 index_NN1 M_ZZ1 1_MC1 this_DD1 would_VM be_VBI the_AT most_RGT appropriate_JJ section_NN1 for_IF the_AT application_NN1 of_IO use_NN1 as_II a_AT1 pre-fabricated_JJ structural_JJ roof_NN1 member_NN1 ._. 
+</s>
+<s>
+The_AT diagram_NN1 in_II Appendix_NN1 2_MC shows_VVZ the_AT schematic_JJ of_IO the_AT Glulam_NN1 Softwood_NN1 rectangular_JJ section_NN1 (_( 720x90x32.53_FO )_) ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT architects_NN2 '_GE requirements_NN2 was_VBDZ that_CST the_AT beam_NN1 should_VM be_VBI partially_RR exposed_VVN ;_; the_AT Glulam_NN1 section_NN1 would_VM able_JK to_TO be_VBI partially_RR exposed_VVN and_CC add_VV0 to_II the_AT aesthetic_JJ appearance_NN1 of_IO the_AT building_NN1 ._. 
+</s>
+<s>
+Glulam_NN1 is_VBZ softwood_NN1 which_DDQ might_VM me_PPIO1 more_RRR aesthetically_RR pleasing_JJ within_II the_AT architects_NN2 '_GE design_NN1 rather_II21 than_II22 the_AT Steel_NN1 beams_NN2 ._. 
+</s>
+<s>
+The_AT sections_NN2 manufactured_VVN from_II Hot_JJ Rolled_JJ Steel_NN1 and_CC the_AT Pultruded_JJ GFRF_NP1 Vinyl_NP1 Ester_NP1 are_VBR I_MC1% beam_NN1 sections_NN2 ,_, whereas_CS the_AT Glulam_NN1 section_NN1 has_VHZ a_AT1 rectangular_JJ section_NN1 ._. 
+</s>
+<s>
+There_EX could_VM be_VBI other_JJ structural_JJ sections_NN2 that_CST are_VBR not_XX included_VVN in_II the_AT database_NN1 that_CST could_VM be_VBI suitable_JJ for_IF use_NN1 as_CSA this_DD1 structural_JJ roof_NN1 member_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ continuing_JJ development_NN1 of_IO types_NN2 of_IO materials_NN2 which_DDQ inevitably_RR means_VVZ that_CST new_JJ suitable_JJ structural_JJ sections_NN2 could_VM be_VBI developed_VVN from_II these_DD2 materials_NN2 ._. 
+</s>
+<s>
+These_DD2 sections_NN2 would_VM not_XX be_VBI included_VVN in_II the_AT current_JJ Cambridge_NP1 Engineering_NN1 Selector_NN1 so_RR would_VM not_XX be_VBI able_JK to_TO be_VBI considered_VVN ._. 
+</s>
+<s>
+All_DB thirteen_MC of_IO the_AT materials_NN2 on_II the_AT previous_JJ page_NN1 meet_VV0 the_AT original_JJ specification_NN1 for_IF the_AT possible_JJ structural_JJ sections_NN2 that_CST the_AT pre-fabricated_JJ roof_NN1 member_NN1 could_VM be_VBI designed_VVN to_II ._. 
+</s>
+<s>
+There_EX are_VBR though_RR further_JJR characteristics_NN2 that_CST can_VM be_VBI taken_VVN into_II consideration_NN1 to_TO ensure_VVI that_CST the_AT most_RGT suitable_JJ section_NN1 is_VBZ chosen_VVN :_: The_AT price_NN1 of_IO the_AT section_NN1 is_VBZ also_RR an_AT1 important_JJ factor_NN1 to_TO consider_VVI ._. 
+</s>
+<s>
+The_AT price_NN1 needs_VVZ to_TO be_VBI appropriate_JJ for_IF the_AT design_NN1 and_CC in_II this_DD1 case_NN1 the_AT beam_NN1 will_VM be_VBI a_AT1 one-off_NN1 ,_, the_AT price_NN1 is_VBZ therefore_RR not_XX as_II an_AT1 important_JJ as_CS21 if_CS22 in_II the_AT manufacture_NN1 of_IO mass_NN1 produced_VVD items_NN2 for_IF retail_JJ ._. 
+</s>
+<s>
+The_AT Pultruded_JJ GFRF_NP1 Vinyl_NP1 Ester_NP1 I-section_NN1 has_VHZ a_AT1 price_NN1 of_IO 3.33_MC -_- 3.68_MC ,_, the_AT Hot_JJ Rolled_JJ Steel_NN1 Sections_NN2 0.38_MC -_- 0.42_MC and_CC the_AT Glulam_NN1 Softwood_NN1 rectangular_JJ section_NN1 has_VHZ a_AT1 price_NN1 of_IO 1.31_MC -_- 1.44_MC ._. 
+</s>
+<s>
+The_AT Glulam_NN1 section_NN1 has_VHZ a_AT1 high_JJ price_NN1 (_( but_CCB still_RR a_RR21 lot_RR22 less_DAR than_CSN the_AT GFRF_NP1 )_) but_CCB if_CS it_PPH1 meets_VVZ the_AT all_DB the_AT other_JJ criteria_NN2 it_PPH1 still_RR may_VM be_VBI an_AT1 appropriate_JJ choice_NN1 for_IF the_AT structural_JJ section_NN1 ._. 
+</s>
+<s>
+The_AT section_NN1 that_CST is_VBZ chosen_VVN needs_NN2 to_TO be_VBI readily_RR available_JJ at_II the_AT time_NNT1 of_IO construction_NN1 ,_, or_CC be_VBI able_JK to_TO be_VBI pre-ordered_JJ in_II advance_NN1 ._. 
+</s>
+<s>
+If_CS an_AT1 unusual_JJ section_NN1 is_VBZ used_VVN it_PPH1 may_VM delay_VVI the_AT construction_NN1 and_CC at_II to_II the_AT cost_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+If_CS the_AT section_NN1 is_VBZ not_XX available_JJ easily_RR it_PPH1 is_VBZ likely_JJ that_CST the_AT price_NN1 of_IO the_AT section_NN1 will_VM also_RR be_VBI higher_JJR ._. 
+</s>
+<s>
+Within_II the_AT architects_NN2 '_GE design_NN1 the_AT visual_JJ impact_NN1 of_IO the_AT member_NN1 of_IO the_AT environment_NN1 is_VBZ an_AT1 important_JJ criterion_NN1 ._. 
+</s>
+<s>
+In_II modern_JJ society_NN1 environmental_JJ impact_NN1 of_IO a_AT1 new_JJ development_NN1 is_VBZ extremely_RR important_JJ ,_, in_BCL21 order_BCL22 to_TO get_VVI planning_NN1 permission_NN1 the_AT selection_NN1 of_IO the_AT structural_JJ member_NN1 maybe_RR a_AT1 central_JJ factor_NN1 ._. 
+</s>
+<s>
+The_AT Glulam_NN1 section_NN1 will_VM have_VHI less_DAR impact_NN1 on_II the_AT environment_NN1 as_CSA it_PPH1 is_VBZ made_VVN from_II a_AT1 natural_JJ material_NN1 rather_II21 than_II22 the_AT made-made_JJ steel_NN1 ._. 
+</s>
+<s>
+As_II the_AT section_NN1 will_VM be_VBI used_VVN within_II a_AT1 building_NN1 it_PPH1 is_VBZ important_JJ that_CST the_AT flammability_NN1 is_VBZ low_JJ ._. 
+</s>
+<s>
+This_DD1 is_VBZ not_XX a_AT1 highly_RR important_JJ factor_NN1 when_CS considering_VVG which_DDQ section_NN1 to_TO select_VVI but_CCB it_PPH1 is_VBZ vital_JJ that_CST it_PPH1 is_VBZ considered_VVN ._. 
+</s>
+<s>
+The_AT steel_NN1 will_VM be_VBI less_RGR flammable_JJ than_CSN the_AT Glulam_NN1 section_NN1 ,_, but_CCB the_AT Glulam_NN1 can_VM be_VBI treated_VVN to_TO make_VVI it_PPH1 flame_NN1 retardant_NN1 ._. 
+</s>
+<s>
+The_AT material_NN1 that_CST the_AT beam_NN1 in_II manufactured_JJ from_II will_VM need_VVI to_TO be_VBI corrosion_NN1 resistance_NN1 ._. 
+</s>
+<s>
+There_EX will_VM be_VBI environmental_JJ attack_NN1 from_II the_AT atmosphere_NN1 and_CC other_JJ pollutants_NN2 ,_, so_RR to_TO ensure_VVI a_AT1 long_JJ service_NN1 life_NN1 ;_; the_AT beam_NN1 will_VM be_VBI required_VVN to_TO have_VHI a_AT1 high_JJ resistance_NN1 to_II corrosion_NN1 ._. 
+</s>
+<s>
+The_AT Glulam_NN1 section_NN1 would_VM need_VVI to_TO be_VBI resistant_JJ to_II rotting_NN1 or_CC degrading_VVG in_II the_AT atmosphere_NN1 and_CC the_AT Hot-Rolled_JJ Steel_NN1 sections_NN2 would_VM also_RR need_VVI to_TO be_VBI corrosion_NN1 resistant_JJ ._. 
+</s>
+<s>
+This_DD1 selection_NN1 criterion_NN1 is_VBZ important_JJ as_CSA corrosion/rusting_NN1 could_VM cause_VVI failures_NN2 within_II the_AT beam_NN1 and_CC lead_VVI to_II injuries_NN2 being_VBG caused_VVN ._. 
+</s>
+<s>
+Glulam_NN1 has_VHZ a_AT1 higher_JJR safety_NN1 factor_NN1 (_( 1.06-1.16_MCMC )_) than_CSN the_AT hot_JJ rolled_JJ steel_NN1 (_( 1-1.05_MCMC )_) ._. 
+</s>
+<s>
+If_CS these_DD2 other_JJ criteria_NN2 are_VBR used_VVN along_II21 with_II22 the_AT original_JJ specification_NN1 and_CC performance_NN1 index_NN1 M_ZZ1 1_MC1 ,_, Glulam_NP1 Softwood_NN1 rectangular_JJ section_NN1 (_( 720x90x32.53_FO )_) would_VM still_RR be_VBI the_AT most_RGT appropriate_JJ section_NN1 for_IF the_AT use_NN1 as_II a_AT1 pre-fabricated_JJ structural_JJ roof_NN1 member_NN1 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 the_AT Glulam_NN1 is_VBZ more_RGR expensive_JJ than_CSN the_AT hot-rolled_JJ steel_NN1 sections_NN2 ,_, the_AT other_JJ advantages_NN2 ,_, for_REX21 example_REX22 ,_, high_JJ torsional_JJ stiffness_NN1 and_CC low_JJ deflection_NN1 means_VVZ that_CST it_PPH1 is_VBZ most_RGT suitable_JJ for_IF use_NN1 in_II this_DD1 application_NN1 ._. 
+</s>
+<s>
+The_AT performance_NN1 index_NN1 ,_, M_ZZ1 2_MC ,_, (_( Equation_NN1 3_MC )_) is_VBZ another_DD1 quantitative_JJ criterion_NN1 from_II which_DDQ a_AT1 suitable_JJ structural_JJ section_NN1 could_VM be_VBI selected_VVN ._. 
+</s>
+<s>
+M_ZZ1 2_MC is_VBZ a_AT1 fraction_NN1 of_IO 1_MC1 ,_, so_CS the_AT ideal_JJ section_NN1 would_VM have_VHI a_AT1 value_NN1 of_IO 1_MC1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 the_AT closer_JJR to_II 1_MC1 the_AT performance_NN1 index_NN1 is_VBZ better_JJR the_AT structural_JJ section_NN1 is_VBZ compared_VVN to_II the_AT specification_NN1 of_IO the_AT section_NN1 ._. 
+</s>
+<s>
+Equation_NN1 3_MC ._. 
+</s>
+<s>
+With_IW ._. 
+</s>
+<s>
+Where_RRQ ,_, are_VBR weighting_VVG factors_NN2 and_CC are_VBR the_AT maximum_JJ values_NN2 for_IF the_AT properties_NN2 ._. 
+</s>
+<s>
+The_AT performance_NN1 index_NN1 M_ZZ1 1_MC1 provides_VVZ a_AT1 basic_JJ method_NN1 of_IO quantifying_VVG the_AT selection_NN1 criteria_NN2 ,_, but_CCB it_PPH1 is_VBZ biased_VVN against_II recycle_VV0 fraction_NN1 as_II recycle_VV0 fraction_NN1 is_VBZ only_RR a_AT1 value_NN1 between_II 0_MC and_CC 1_MC1 ._. 
+</s>
+<s>
+M_ZZ1 1_MC1 also_RR assumes_VVZ that_CST the_AT three_MC properties_NN2 are_VBR all_DB of_IO equal_JJ importance_NN1 ._. 
+</s>
+<s>
+The_AT problems_NN2 associated_VVN with_IW M_ZZ1 1_MC1 are_VBR overcome_VVN by_II the_AT use_NN1 of_IO weighting_VVG factors_NN2 in_II M_ZZ1 2_MC and_CC dividing_VVG each_DD1 property_NN1 by_II its_APPGE maximum_JJ value_NN1 ._. 
+</s>
+<s>
+The_AT weighting_NN1 factors_NN2 allow_VV0 one_MC1 of_IO the_AT properties_NN2 ,_, either_RR recycle_VV0 fraction_NN1 ,_, energy_NN1 content_NN1 or_CC torsional_JJ stiffness_NN1 to_TO be_VBI made_VVN more_RGR dominant_JJ if_CS the_AT designer_NN1 decides_VVZ that_CST this_DD1 property_NN1 of_IO the_AT section_NN1 should_VM take_VVI priority_NN1 over_II another_DD1 ._. 
+</s>
+<s>
+If_CS a_AT1 greater_JJR importance_NN1 is_VBZ placed_VVN on_II the_AT recycle_VV0 fraction_NN1 i.e._REX is_VBZ made_VVN larger_JJR than_CSN ._. 
+</s>
+<s>
+and_CC ,_, the_AT Hot_JJ Rolled_JJ Steel_NN1 sections_NN2 may_VM provide_VVI a_AT1 more_RGR suitable_JJ selection_NN1 for_IF the_AT beam_NN1 ._. 
+</s>
+<s>
+The_AT Glulam_NN1 Softwood_NN1 rectangular_JJ section_NN1 (_( 720x90x32.53_FO )_) has_VHZ a_AT1 recycle_VV0 fraction_NN1 of_IO 0.3_MC -_- 0.4_MC whereas_CS the_AT sections_NN2 manufactured_VVN from_II Hot_JJ Rolled_JJ Steel_NN1 have_VH0 a_AT1 recycle_VV0 fraction_NN1 of_IO 0.9_MC -_- 0.95_MC ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST if_CS the_AT highest_RRT recycle_VV0 fraction_NN1 possible_JJ is_VBZ the_AT most_RGT important_JJ property_NN1 then_RT it_PPH1 maybe_RR appropriate_JJ to_TO select_VVI the_AT hot-rolled_JJ steel_NN1 over_II the_AT Glulam_NN1 section_NN1 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 Glulam_NP1 has_VHZ a_AT1 lower_RRR recycle_VV0 fraction_NN1 than_CSN Hot-Rolled_JJ Steel_NN1 ,_, if_CS the_AT wood_NN1 that_CST the_AT Glulam_NN1 is_VBZ manufactured_VVN from_II is_VBZ obtained_VVN from_II a_AT1 sustainable_JJ source_NN1 ,_, it_PPH1 makes_VVZ the_AT Glulam_NN1 more_RGR environmentally_RR friendly_JJ ,_, whereas_CS hot-rolled_JJ steel_NN1 is_VBZ manufactured_VVN from_II a_AT1 non-renewable_JJ source_NN1 ._. 
+</s>
+<s>
+The_AT structural_JJ selection_NN1 chosen_VVN if_CS the_AT performance_NN1 index_NN1 M_ZZ1 2_MC is_VBZ used_VVN will_VM depend_VVI on_II the_AT weighting_NN1 factors_NN2 chosen_VVN in_II the_AT equation_NN1 ._. 
+</s>
+<s>
+The_AT same_DA 13_MC sections_NN2 will_VM always_RR be_VBI the_AT structural_JJ sections_NN2 to_TO be_VBI selected_VVN from_II as_CSA these_DD2 are_VBR the_AT only_JJ sections_NN2 that_CST meet_VV0 the_AT original_JJ selection_NN1 criteria_NN2 for_IF defection_NN1 and_CC the_AT applied_JJ load_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT first_MD performance_NN1 index_NN1 ,_, M_ZZ1 1_MC1 ,_, the_AT Glulam_NN1 section_NN1 is_VBZ the_AT structural_JJ section_NN1 of_IO choice_NN1 ._. 
+</s>
+<s>
+Out_II21 of_II22 the_AT 13_MC sections_NN2 that_CST pass_VV0 the_AT selection_NN1 criteria_NN2 of_IO deflection_NN1 and_CC load_VV0 per_II unit_NN1 length_NN1 the_AT Glulam_NN1 section_NN1 has_VHZ the_AT highest_JJT M_NN1 1_MC1 ._. 
+</s>
+<s>
+M_ZZ1 2_MC provides_VVZ an_AT1 improved_JJ performance_NN1 index_NN1 for_IF which_DDQ to_TO make_VVI an_AT1 appropriate_JJ structural_JJ section_NN1 from_II ._. 
+</s>
+<s>
+The_AT Glulam_NN1 Softwood_NN1 rectangular_JJ section_NN1 with_IW designation_NN1 720x90x32.53mm_FO is_VBZ the_AT recommended_JJ structural_JJ section_NN1 for_IF the_AT pre-fabricated_JJ roof_NN1 member_NN1 to_TO be_VBI constructed_VVN from_II ._. 
+</s>

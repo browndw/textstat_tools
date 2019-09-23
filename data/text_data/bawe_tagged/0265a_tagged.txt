@@ -1,0 +1,348 @@
+<s>
+Isolated_JJ chloroplasts_NN2 and_CC an_AT1 oxygen_NN1 electrode_NN1 were_VBDR used_VVN to_TO investigate_VVI photosynthetic_JJ control_NN1 ,_, P/O_NP1 ratio_NN1 and_CC the_AT effect_NN1 of_IO uncoupling_VVG agents_NN2 such_II21 as_II22 ammonium_NN1 chloride_NN1 on_II them_PPHO2 ._. 
+</s>
+<s>
+Uncoupling_VVG agents_NN2 such_II21 as_II22 ammonium_NN1 chloride_NN1 prevent_VV0 the_AT formation_NN1 of_IO a_AT1 proton_NN1 gradient_NN1 across_II the_AT thylakoid_JJ membrane_NN1 and_CC mechanisms_NN2 such_II21 as_II22 ATP_NN1 synthesis_NN1 that_CST diminish_VV0 the_AT proton_NN1 gradient_NN1 ,_, remove_VV0 a_AT1 constraint_NN1 on_II the_AT rate_NN1 of_IO electron_NN1 transport_NN1 ._. 
+</s>
+<s>
+Hence_RR the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 is_VBZ enhanced_VVN by_II a_AT1 smaller_JJR proton_NN1 gradient_NN1 ._. 
+</s>
+<s>
+Non-cyclic_JJ photophosphorylation_NN1 alone_RR is_VBZ capable_JJ of_IO providing_VVG sufficient_JJ ATP_NN1 per_II molecule_NN1 of_IO NADPH_NN1 to_TO satisfy_VVI the_AT demands_NN2 of_IO the_AT Calvin_NP1 cycle_NN1 ._. 
+</s>
+<s>
+The_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 is_VBZ dependent_JJ on_II the_AT irradiance_NN1 level_NN1 that_CST the_AT chloroplast_NN1 are_VBR exposed_VVN to_II ._. 
+</s>
+<s>
+Research_NN1 into_II photosynthesis_NN1 is_VBZ often_RR carried_VVN out_RP on_II suspensions_NN2 of_IO isolated_JJ chloroplasts_NN2 ,_, for_REX21 example_REX22 photophosphorylation_NN1 ._. 
+</s>
+<s>
+This_DD1 reaction_NN1 is_VBZ part_NN1 of_IO the_AT light_JJ reaction_NN1 and_CC is_VBZ studied_VVN in_II broken_JJ chloroplast_NN1 therefore_RR allowing_VVG the_AT access_NN1 of_IO artificially_RR added_VVN hydrophilic_JJ reagents_NN2 such_II21 as_II22 electron_NN1 acceptors_NN2 to_II the_AT thylakoid_JJ membrane_NN1 ._. 
+</s>
+<s>
+The_AT oxygen_NN1 electrode_NN1 is_VBZ a_AT1 tool_NN1 in_II31 conjunction_II32 with_II33 a_AT1 light_JJ source_NN1 that_CST allows_VVZ the_AT continuous_JJ measurement_NN1 of_IO photosynthetic_JJ activity_NN1 in_II such_DA research_NN1 ._. 
+</s>
+<s>
+The_AT Hill_NN1 reaction_NN1 (_( 2H_FO 20_MC +_FO 4Fd_FO ox_NN1 O_ZZ1 2_MC +_FO 4Fd_FO red_NN1 +_FO 4H+_FO )_) is_VBZ a_AT1 light-dependent_JJ oxygen_NN1 evolution_NN1 in_II the_AT absence_NN1 of_IO NADP+_FO reaction_NN1 ,_, which_DDQ requires_VVZ the_AT non-physiological_JJ electron_NN1 acceptor_NN1 ferricyanide_NN1 to_TO be_VBI present_JJ for_IF it_PPH1 to_TO proceed_VVI ._. 
+</s>
+<s>
+Plastocyanin_NN1 is_VBZ located_VVN on_II the_AT luminal_NN1 side_NN1 of_IO the_AT ferricyanide_NN1 -_- impermeable_JJ membrane_NN1 therefore_RR ferricyanide_VV0 can_VM only_RR accept_VVI electrons_NN2 from_II a_AT1 donor_NN1 on_II the_AT stromal_JJ side_NN1 of_IO the_AT PSI_NN1 complex_NN1 ._. 
+</s>
+<s>
+Hence_RR the_AT evolution_NN1 of_IO oxygen_NN1 in_II the_AT Hill_NN1 reaction_NN1 with_IW only_JJ ferricyanide_NN1 present_NN1 as_II the_AT electron_NN1 acceptor_NN1 requires_VVZ the_AT activity_NN1 of_IO both_DB2 photosystems_NN2 (_( Figure_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Cyclic_JJ phosphorylation_NN1 (_( ADP_NN1 +_FO P_ZZ1 i_ZZ1 ATP_NN1 )_) as_II the_AT name_NN1 suggests_VVZ is_VBZ driven_VVN by_II cyclic_JJ electron_NN1 transport_NN1 in_II which_DDQ the_AT electron_NN1 in_II the_AT reduced_JJ ferredoxin_NN1 molecule_NN1 is_VBZ transferred_VVN to_II the_AT cytochrome_JJ bf_NNU complex_NN1 rather_II21 than_II22 to_II NADP+_FO ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 there_EX is_VBZ no_AT net_JJ oxidation-reduction_NN1 or_CC oxygen_NN1 evolution_NN1 ._. 
+</s>
+<s>
+In_II contrast_NN1 to_II this_DD1 ,_, non-cyclic_JJ photophosphorylation_NN1 (_( H_ZZ1 20_MC +_FO Fd_NP1 ox_NN1 +_FO nADP_VV0 +_FO nP_NNU i_ZZ1 1/2O_FU 2_MC +_FO Fd_NP1 red_NN1 +_FO 2H+_FO +_FO nATP_NN1 )_) involves_VVZ the_AT non-cyclic_JJ electron_NN1 transport_NN1 in_II a_AT1 similar_JJ form_NN1 to_II that_DD1 of_IO the_AT Hill_NN1 reaction_NN1 ._. 
+</s>
+<s>
+Much_DA1 controversy_NN1 over_II the_AT real_JJ value_NN1 of_IO n_ZZ1 exists_VVZ ._. 
+</s>
+<s>
+n_ZZ1 is_VBZ often_RR referred_VVN to_II as_II the_AT P/2e-_NN1 ratio_NN1 or_CC P/O_NP1 ratio_NN1 (_( i.e._REX number_NN1 of_IO ATP_NN1 molecules_NN2 synthesised_VVN per_II pair_NN of_IO electrons_NN2 transferred_VVN or_CC per_II oxygen_NN1 atom_NN1 equivalent_JJ evolved_JJ )_) ._. 
+</s>
+<s>
+The_AT value_NN1 of_IO n_ZZ1 though_CS must_VM be_VBI greater_JJR than_CSN 1.5_MC if_CS non-cyclic_JJ photophosphorylation_NN1 alone_RR is_VBZ to_TO provide_VVI enough_DD ATP_NN1 per_II molecule_NN1 of_IO NADPH_NN1 to_TO satisfy_VVI the_AT demands_NN2 of_IO the_AT Calvin_NP1 cycle_NN1 ._. 
+</s>
+<s>
+Otherwise_RR cyclic_JJ phosphorylation_NN1 would_VM be_VBI required_VVN to_TO fulfill_VVI the_AT deficit_NN1 that_CST a_AT1 situation_NN1 of_IO n_ZZ1 less_DAR than_CSN 1.5_MC would_VM create_VVI ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO the_AT experiment_NN1 was_VBDZ firstly_RR to_TO demonstrate_VVI the_AT Hill_NN1 reaction_NN1 ._. 
+</s>
+<s>
+Secondly_RR to_TO calculate_VVI a_AT1 value_NN1 for_IF the_AT P/2e-_NN1 ratio_NN1 and_CC investigate_VV0 the_AT effect_NN1 of_IO uncoupling_VVG agents_NN2 such_II21 as_II22 ammonium_NN1 chloride_NN1 and_CC decreasing_JJ chlorophyll_NN1 concentration_NN1 have_VH0 on_II photosynthetic_JJ control_NN1 and_CC the_AT P/2e-_NN1 ratio_NN1 ._. 
+</s>
+<s>
+The_AT method_NN1 was_VBDZ adhered_VVN to_II as_CSA stated_VVN in_II the_AT laboratory_NN1 manual_NN1 'Experiment_NN1 :_: Photosynthetic_JJ electron_NN1 transport_NN1 in_II isolated_JJ chloroplast_NN1 using_VVG the_AT oxygen_NN1 electrode_NN1 ._. '_" 
+</s>
+<s>
+With_IW the_AT exception_NN1 that_CST in_RR21 part_RR22 3_MC (_( ii_MC )_) the_AT amount_NN1 of_IO chlorophyll_NN1 in_II the_AT reaction_NN1 vessel_NN1 was_VBDZ halved_VVN to_II that_DD1 of_IO 75_MC g_NNU ._. 
+</s>
+<s>
+When_CS the_AT external_JJ light_NN1 from_II the_AT two_MC LED_NN1 's_GE was_VBDZ turned_VVN off_II the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 decreased_VVN from_II 23.41_MC to_II 4.81_MC mol/O_FU 2/mgchl._FU /hour_FU a_AT1 reduction_NN1 of_IO 79%_NNU (_( rates_VVZ 1_MC1 and_CC 2_MC respectively_RR )_) ._. 
+</s>
+<s>
+Upon_II turning_VVG back_RP on_II the_AT 2_MC external_JJ lights_NN2 the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 returned_VVD back_RP to_II approximately_RR what_DDQ it_PPH1 was_VBDZ before_II the_AT lights_NN2 were_VBDR turned_VVN off_RP (_( though_RR 26%_NNU higher_JJR )_) ._. 
+</s>
+<s>
+Upon_II addition_NN1 of_IO DCMU_NP1 (_( rate_NN1 4_MC )_) the_AT rate_NN1 of_IO O_ZZ1 2_MC evolution_NN1 decreased_VVN to_II 8.93_MC mol/O_FU 2/mgchl._FU /hour_FU ;_; a_AT1 reduction_NN1 of_IO 62%_NNU ._. 
+</s>
+<s>
+Upon_II addition_NN1 of_IO ADP_NN1 +_FO P_ZZ1 i_ZZ1 the_AT rate_NN1 of_IO reaction_NN1 increased_VVN from_II 0.78_MC (_( rate_NN1 5_MC )_) to_II 1.45_MC c.u._NNU /min_FU (_( rate_NN1 6_MC )_) an_AT1 increase_NN1 of_IO 87%_NNU this_DD1 increase_NN1 lasted_VVD 2.2_MC minutes_NNT2 after_II which_DDQ the_AT rate_NN1 (_( rate_NN1 7_MC )_) reduced_VVD back_RP to_II that_DD1 of_IO the_AT rate_NN1 before_II the_AT addition_NN1 of_IO ADP_NN1 +_FO P_ZZ1 i_ZZ1 ._. 
+</s>
+<s>
+From_II this_DD1 ,_, one_PN1 is_VBZ able_JK to_TO calculate_VVI the_AT P:O_FO ratio_NN1 of_IO the_AT reaction_NN1 to_TO be_VBI calculated_VVN as_CSA 2.68_MC ._. 
+</s>
+<s>
+Also_RR one_MC1 is_VBZ able_JK to_TO calculate_VVI the_AT number_NN1 of_IO "_" extra_JJ "_" oxygen_NN1 atoms_NN2 evolved_VVN as_II a_AT1 result_NN1 of_IO having_VHG added_VVN 0.64_MC moles_NN2 of_IO ADP_NN1 which_DDQ is_VBZ equal_JJ to_II 1.43x10_FO 14_MC ._. 
+</s>
+<s>
+Addition_NN1 of_IO NH_NP1 4Cl_FO increased_VVD the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 from_II 24.64_MC (_( rate_NN1 8_MC )_) to_II 92.40_MC mol/O_FU 2/mgchl._FU /hour_FU (_( rate_NN1 9_MC )_) an_AT1 increase_NN1 of_IO 275%_NNU ,_, subsequent_JJ addition_NN1 of_IO ADP_NN1 +P_FO i_ZZ1 (_( rate_NN1 10_MC )_) further_RRR increased_VVN this_DD1 rate_NN1 to_II 117.04_MC mol/O_FU 2/mgchl._FU /hour_FU an_AT1 increase_NN1 of_IO 27%_NNU ._. 
+</s>
+<s>
+When_CS the_AT amount_NN1 of_IO chlorophyll_NN1 in_II the_AT reaction_NN1 mixture_NN1 (_( rate_NN1 15_MC )_) was_VBDZ halved_VVN to_II that_DD1 of_IO 75_MC g_ZZ1 the_AT rate_NN1 of_IO the_AT reaction_NN1 was_VBDZ reduced_VVN by_II 33%_NNU in_II comparison_NN1 to_II rate_NN1 1_MC1 while_NNT1 the_AT rate_NN1 of_IO oxygen_NN1 evolved_VVD increased_VVN by_II 35%_NNU in_II comparison_NN1 to_II rate_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT reaction_NN1 mixture_NN1 containing_VVG the_AT limiting_JJ quantity_NN1 of_IO potassium_NN1 ferricyanide_NN1 (_( 1.5_MC mol_NN1 )_) did_VDD not_XX become_VVI a_AT1 limiting_JJ factor_NN1 on_II the_AT reaction_NN1 until_CS after_CS 2.2minutes_FO ._. 
+</s>
+<s>
+This_DD1 is_VBZ confirmed_VVN by_II the_AT fact_NN1 that_CST the_AT rate_NN1 reaction_NN1 and_CC rate_NN1 of_IO O_ZZ1 2_MC evolution_NN1 pre_II and_CC post_NN1 addition_NN1 of_IO ADP_NN1 (_( rates_VVZ 13_MC +14_MC )_) was_VBDZ equal_JJ to_II that_DD1 of_IO the_AT reactions_NN2 in_II which_DDQ potassium_NN1 ferricyanide_NN1 was_VBDZ in_II excess_NN1 (_( rates_NN2 5+6_FO )_) ._. 
+</s>
+<s>
+After_II 2.2_MC minutes_NNT2 the_AT rate_NN1 of_IO reaction_NN1 and_CC evolution_NN1 of_IO O_ZZ1 2_MC rapidly_RR decrease_VV0 to_TO zero_VVI within_II 1_MC1 minute_NNT1 ._. 
+</s>
+<s>
+From_II this_DD1 one_PN1 is_VBZ able_JK to_TO calculate_VVI the_AT number_NN1 of_IO moles_NN2 of_IO oxygen_NN1 present_NN1 in_II the_AT 3ml_NNU reaction_NN1 volume_NN1 as_CSA 0.246_MC molO_NN1 2_MC ,_, the_AT reaction_NN1 mixture_NN1 contained_VVD a_AT1 supply_NN1 of_IO FeCN_NP1 6_MC 3-_NN1 which_DDQ would_VM be_VBI exhausted_VVN after_II the_AT evolution_NN1 of_IO 0.375_MC mol_NN1 of_IO oxygen_NN1 ._. 
+</s>
+<s>
+The_AT proximity_NN1 of_IO these_DD2 two_MC values_NN2 (_( 34%_NNU )_) gives_VVZ a_AT1 measure_NN1 off_II the_AT accuracy_NN1 of_IO the_AT calibration_NN1 of_IO the_AT electrode_NN1 ._. 
+</s>
+<s>
+The_AT addition_NN1 of_IO ADP_NN1 but_CCB no_AT P_ZZ1 i_ZZ1 increased_VVD the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 from_II 21.74_MC to_II 30.01_MC mol/O_FU 2/mgchl._FU /hour_FU an_AT1 increase_NN1 of_IO 38%_NNU (_( rates_NN2 11+12_FO )_) ._. 
+</s>
+<s>
+This_DD1 increase_NN1 in_II oxygen_NN1 evolution_NN1 post_II the_AT addition_NN1 of_IO ADP_NN1 but_CCB no_AT P_ZZ1 i_ZZ1 is_VBZ 33%_NNU lower_JJR than_CSN that_DD1 of_IO the_AT corresponding_JJ reaction_NN1 (_( rate_NN1 6_MC )_) in_II which_DDQ inorganic_JJ phosphate_NN1 was_VBDZ added_VVN in_II31 addition_II32 to_II33 that_DD1 of_IO ADP_NN1 ._. 
+</s>
+<s>
+Photosystem_VV0 II_MC contains_VVZ 2_MC chlorophyll_NN1 molecules_NN2 ;_; they_PPHS2 are_VBR often_RR referred_VVN to_II as_RG P680_FO since_CS they_PPHS2 absorb_VV0 light_NN1 at_II a_AT1 maximum_JJ wavelength_NN1 680nm_FO ._. 
+</s>
+<s>
+On_II excitation_NN1 by_II a_AT1 photon_NN1 ,_, P680_FO rapidly_RR transfers_VVZ an_AT1 electron_NN1 to_II the_AT nearby_JJ pheophytin_NN1 from_II which_DDQ the_AT electron_NN1 is_VBZ transferred_VVN firstly_RR to_II the_AT tightly_RR bound_VVN plastiquinone_NN1 at_II the_AT Q_ZZ1 A_ZZ1 site_NN1 and_CC secondly_RR to_II the_AT Q_ZZ1 B_ZZ1 site_NN1 at_II which_DDQ an_AT1 exchangeable_JJ plastiquinone_NN1 is_VBZ located_VVN ._. 
+</s>
+<s>
+A_AT1 second_MD electron_NN1 and_CC the_AT uptake_NN1 of_IO 2_MC protons_NN2 are_VBR required_VVN to_TO reduce_VVI the_AT plastiquinone_NN1 to_II QH_NP1 2_MC at_II the_AT Q_ZZ1 B_ZZ1 site_NN1 ._. 
+</s>
+<s>
+The_AT source_NN1 of_IO electrons_NN2 that_CST neutralise_VV0 the_AT positive_JJ charge_NN1 formed_VVN on_II the_AT P680_FO is_VBZ that_DD1 of_IO water_NN1 molecules_NN2 bound_VVN at_II the_AT manganese_NN1 center_NN1 ._. 
+</s>
+<s>
+The_AT center_NN1 is_VBZ oxidised_VVN one_MC1 electron_NN1 at_II a_AT1 time_NNT1 until_CS 2_MC bound_JJ water_NN1 molecules_NN2 are_VBR linked_VVN together_RL to_TO form_VVI a_AT1 molecule_NN1 of_IO oxygen_NN1 which_DDQ is_VBZ then_RT released_VVN from_II the_AT centre_NN1 into_II the_AT luminal_NN1 side_NN1 of_IO the_AT thylakoid_NN1 membrane.2_FO ._. 
+</s>
+<s>
+DCMU_NP1 is_VBZ an_AT1 electron_NN1 transport_NN1 inhibitor_NN1 and_CC binds_VVZ between_II the_AT two_MC plastiquinone_NN1 molecule_NN1 sites_NN2 (_( Q_ZZ1 A_ZZ1 and_CC Q_ZZ1 B_ZZ1 )_) ,_, therefore_RR inhibiting_VVG the_AT flow_NN1 of_IO electrons_NN2 in_II photosystem_NN1 II_MC ._. 
+</s>
+<s>
+Thus_RR after_II one_MC1 flash_NN1 of_IO light_JJ only_JJ one-electron_JJ reduction_NN1 of_IO Q_ZZ1 A_ZZ1 to_II a_AT1 semiquinone_NN1 occurs_VVZ since_CS DCMU_NP1 will_VM block_VVI the_AT transfer_NN1 of_IO the_AT electron_NN1 to_II the_AT Q_ZZ1 B_ZZ1 site_NN1 and_CC thus_RR prevent_VV0 QH_NP1 2_MC production_NN1 ._. 
+</s>
+<s>
+Since_CS QH_NP1 2_MC can_VM not_XX be_VBI produced_VVN ,_, a_AT1 semiquinone_NN1 will_VM accumulate_VVI at_II Q_ZZ1 A_ZZ1 and_CC the_AT reaction_NN1 centre_NN1 can_VM not_XX be_VBI oxidized_VVN and_CC reduced_VVN on_II later_JJR flashes_NN2 of_IO light_NN1 ._. 
+</s>
+<s>
+However_RR with_IW no_AT oxidation_NN1 of_IO P680_FO the_AT manganese_NN1 center_NN1 will_VM not_XX be_VBI a_AT1 strong_JJ reducing_JJ agent_NN1 and_CC so_RR will_VM not_XX extract_VVI an_AT1 electron_NN1 from_II water_NN1 molecules_NN2 and_CC so_RR no_AT oxygen_NN1 will_VM be_VBI evolved.1,2_FO ._. 
+</s>
+<s>
+Plastiquinol_NN1 produced_VVN by_II PSII_NP1 transfers_VVZ its_APPGE electrons_NN2 one_PN1 at_II a_AT1 time_NNT1 to_II a_AT1 plastocyanin_NN1 in_II the_AT thylakoid_JJ lumen_NN1 ;_; the_AT two_MC protons_NN2 released_VVN from_II plastoquinol_NN1 are_VBR released_VVN into_II the_AT thylakoid_JJ lumen_NN1 further_RRR enhancing_VVG the_AT proton_NN1 gradient_NN1 across_II the_AT thylakoid_JJ membrane_NN1 ._. 
+</s>
+<s>
+Photosystem_VV0 I_PPIS1 contains_VVZ a_AT1 special_JJ pair_NN of_IO chlorophyll_NN1 a_AT1 molecules_NN2 P700_FO that_CST initiate_VV0 photoinduced_JJ charge_NN1 separation_NN1 ._. 
+</s>
+<s>
+The_AT electron_NN1 is_VBZ transferred_VVN first_MD to_II a_AT1 chlorophyll_NN1 at_II site_NN1 A_ZZ1 o_ZZ1 and_CC then_RT to_II a_AT1 quinone_NN1 at_II site_NN1 A_ZZ1 1_MC1 and_CC then_RT to_II a_AT1 set_NN1 of_IO 4Fe-4S_MC2 clusters_NN2 ._. 
+</s>
+<s>
+From_II which_DDQ the_AT electron_NN1 is_VBZ transferred_VVN to_II ferredoxin_NN1 ,_, the_AT positive_JJ charge_NN1 on_II the_AT P700+_FO is_VBZ neutralised_VVN by_II the_AT transfer_NN1 of_IO an_AT1 electron_NN1 from_II the_AT reduced_JJ plastocyanin_NN1 ._. 
+</s>
+<s>
+As_CSA described_VVN both_RR photosystems_VVZ I_MC1% and_CC II_MC centers_NN2 P680_FO and_CC P700_FO respectively_RR utilize_VV0 light_JJ energy_NN1 to_TO initiate_VVI charge_NN1 separation_NN1 i.e._REX photoinduced_JJ charge_NN1 separation_NN1 ._. 
+</s>
+<s>
+The_AT source_NN1 of_IO the_AT electrons_NN2 that_CST are_VBR used_VVN to_TO neutralize_VVI the_AT positive_JJ charge_NN1 formed_VVN on_II P680_FO and_CC P700_FO is_VBZ that_CST from_II water_NN1 molecules_NN2 bound_VVN at_II the_AT manganese_NN1 centre_NN1 and_CC reduced_JJ plastocyanin_NN1 respectively_RR ._. 
+</s>
+<s>
+In_II the_AT absence_NN1 of_IO light_NN1 ,_, photoinduced_VVD charge_NN1 separation_NN1 can_VM not_XX occur_VVI ,_, thus_RR there_EX will_VM be_VBI no_AT positive_JJ charge_NN1 on_II either_RR P680_FO or_CC P700_FO to_TO neutralize_VVI ._. 
+</s>
+<s>
+Thus_RR no_AT oxygen_NN1 will_VM be_VBI evolved_VVN and_CC no_AT oxidation_NN1 of_IO plastocyanin_NN1 by_II photosystem_NN1 I_ZZ1% and_CC hence_RR no_AT reduction_NN1 of_IO ferredoxin_NN1 ._. 
+</s>
+<s>
+However_RR in_II the_AT experiment_NN1 oxygen_NN1 evolution_NN1 was_VBDZ greatly_RR reduced_VVN 79%_NNU ,_, therefore_RR indicating_VVG that_CST photoinduced_VVD charge_NN1 separation_NN1 was_VBDZ still_RR occurring_VVG ._. 
+</s>
+<s>
+The_AT reason_NN1 for_IF this_DD1 lies_VVZ in_II the_AT experimental_JJ procedure_NN1 ._. 
+</s>
+<s>
+The_AT external_JJ LED_NN1 light_NN1 source_NN1 was_VBDZ turned_VVN off_RP but_CCB the_AT reaction_NN1 vessel_NN1 was_VBDZ still_RR exposed_VVN to_TO light_VVI from_II the_AT windows_NN2 and_CC ceiling_NN1 lights_NN2 ._. 
+</s>
+<s>
+Therefore_RR at_II the_AT greatly_RR reduced_VVN photon_NN1 level_NN1 the_AT rate_NN1 limiting_JJ step_NN1 of_IO oxygen_NN1 evolution_NN1 is_VBZ that_DD1 of_IO light_JJ absorption_NN1 rather_II21 than_II22 the_AT oxidation_NN1 of_IO plastoquinones_NN2 ._. 
+</s>
+<s>
+The_AT potential_JJ energy_NN1 in_II the_AT proton_NN1 gradient_NN1 is_VBZ used_VVN to_TO convert_VVI ADP_NN1 and_CC P_ZZ1 i_ZZ1 to_II ATP_NN1 by_II allowing_VVG the_AT protons_NN2 to_TO return_VVI to_II the_AT stroma_NN1 through_II the_AT CF_VV0 oCF_NN1 1_MC1 complexes_NN2 located_VVN in_II the_AT thylakoid_JJ membrane_NN1 ._. 
+</s>
+<s>
+Potassium_NN1 phosphate_NN1 is_VBZ the_AT source_NN1 of_IO inorganic_JJ phosphate_NN1 required_VVN in_II31 addition_II32 to_II33 ADP_NN1 to_TO allow_VVI ATP_NN1 synthesis_NN1 to_TO occur_VVI in_II the_AT chloroplasts_NN2 given_CS21 that_CS22 a_AT1 sufficient_JJ proton_NN1 gradient_NN1 exists_VVZ across_II the_AT thylakoid_JJ membrane_NN1 ._. 
+</s>
+<s>
+ATP_NN1 synthesis_NN1 is_VBZ therefore_RR described_VVN as_II being_VBG coupled_VVN to_II electron_NN1 transport_NN1 in_II the_AT thylakoid_JJ membrane_NN1 ._. 
+</s>
+<s>
+A_AT1 reduction_NN1 in_II the_AT proton_NN1 gradient_NN1 across_II the_AT thylakoid_JJ membrane_NN1 increases_VVZ the_AT rate_NN1 of_IO electron_NN1 efflux_NN1 from_II PSII_NP1 and_CC that_DD1 of_IO oxygen_NN1 evolution_NN1 ._. 
+</s>
+<s>
+Since_CS at_II a_AT1 high_JJ proton_NN1 gradient_NN1 ,_, it_PPH1 is_VBZ more_RGR difficult_JJ for_IF the_AT reduced_JJ plastoquinones_NN2 within_II the_AT membrane_NN1 to_TO become_VVI oxidised_JJ for_CS they_PPHS2 must_VM give_VVI up_RP protons_NN2 against_II a_AT1 concentration_NN1 gradient_NN1 ._. 
+</s>
+<s>
+Thus_RR as_CSA the_AT percentage_NN1 of_IO reduced_JJ plastoquinones_NN2 in_II the_AT membrane_NN1 increases_NN2 and_CC the_AT number_NN1 of_IO oxidised_JJ plastoquinones_NN2 which_DDQ are_VBR capable_JJ of_IO accepting_VVG electrons_NN2 form_VV0 Photosystem_NN1 II_MC decreases_VVZ ._. 
+</s>
+<s>
+The_AT rate_NN1 of_IO electron_NN1 efflux_NN1 from_II Photosystem_NP1 II_MC decreases_VVZ however_RR if_CS the_AT proton_NN1 gradient_NN1 is_VBZ diminished_VVN the_AT situation_NN1 is_VBZ reversed_VVN ._. 
+</s>
+<s>
+A_AT1 greater_JJR percentage_NN1 of_IO oxidised_JJ plastoquinones_NN2 in_II the_AT membrane_NN1 will_VM exist_VVI capable_JJ of_IO accepting_VVG electrons_NN2 ,_, thus_RR the_AT rate_NN1 of_IO electron_NN1 efflux_NN1 no_RR21 longer_RR22 becomes_VVZ the_AT limiting_JJ factor_NN1 in_II oxygen_NN1 evolution_NN1 but_CCB rather_RR that_DD1 of_IO light_NN1 in_II the_AT case_NN1 of_IO non-light_JJ saturated_JJ photosynthesis.3_FO ._. 
+</s>
+<s>
+Agents_NN2 that_CST reduce_VV0 the_AT proton_NN1 gradient_NN1 across_II the_AT proton_NN1 gradient_NN1 drive_VV0 a_AT1 greater_JJR rate_NN1 of_IO electron_NN1 efflux_NN1 and_CC therefore_RR oxygen_NN1 evolution_NN1 from_II PSII_NP1 ,_, examples_NN2 of_IO such_DA agents_NN2 are_VBR ammonium_NN1 chloride_NN1 and_CC ADP+_FO P_ZZ1 i_ZZ1 ._. 
+</s>
+<s>
+Addition_NN1 of_IO ADP_NN1 and_CC P_ZZ1 i_ZZ1 and_CC the_AT presence_NN1 of_IO a_AT1 proton_NN1 gradient_NN1 across_II the_AT thylakoid_JJ membrane_NN1 drives_VVZ ATP_NN1 synthesis_NN1 ._. 
+</s>
+<s>
+ADP_NN1 and_CC P_ZZ1 i_ZZ1 are_VBR condensed_VVN together_RL to_TO form_VVI ATP_NN1 by_II the_AT movement_NN1 of_IO protons_NN2 through_II ATP_NN1 synthase_NN1 ,_, thus_RR ATP_NN1 synthesis_NN1 decreases_VVZ the_AT proton_NN1 gradient_NN1 across_II the_AT membrane_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT source_NN1 of_IO ADP_NN1 and_CC or_CC P_ZZ1 i_ZZ1 is_VBZ exhausted_VVN ,_, ATP_NN1 synthesis_NN1 will_VM no_RR% longer_RRR be_VBI able_JK to_TO occur_VVI ._. 
+</s>
+<s>
+Therefore_RR the_AT proton_NN1 gradient_NN1 will_VM no_RR% longer_RRR be_VBI dissipated_VVN and_CC the_AT proton_NN1 translocation_NN1 action_NN1 of_IO PSII_NN2 and_CC cytochrome_JJ bf_NNU will_VM increase_VVI the_AT proton_NN1 gradient_NN1 across_II the_AT thylakoid_JJ membrane_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 of_IO the_AT increased_JJ proton_NN1 gradient_NN1 the_AT flow_NN1 of_IO electrons_NN2 through_II PSII_NP1 will_VM reduce_VVI along_II21 with_II22 the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 to_II that_DD1 of_IO the_AT rate_NN1 before_II the_AT addition_NN1 of_IO ADP_NN1 +_FO P_ZZ1 i_ZZ1 ._. 
+</s>
+<s>
+Ammonium_NN1 chloride_NN1 is_VBZ described_VVN as_II an_AT1 uncoupler_NN1 since_CS it_PPH1 dissipates_VVZ the_AT proton_NN1 gradient_NN1 and_CC thus_RR the_AT potential_JJ energy_NN1 for_IF ATP_NN1 synthesis_NN1 ._. 
+</s>
+<s>
+Ammonium_NN1 chloride_NN1 is_VBZ able_JK to_TO do_VDI this_DD1 since_CS in_II solution_NN1 it_PPH1 dissociates_VVZ to_II NH_NP1 3_MC and_CC H+_FO ._. 
+</s>
+<s>
+Since_CS ammonia_NN1 is_VBZ uncharged_JJ it_PPH1 is_VBZ able_JK to_TO cross_VVI freely_RR the_AT thylakoid_JJ membrane_NN1 and_CC enter_VVI the_AT lumen_NN1 where_CS it_PPH1 re-associates_VVZ with_IW protons_NN2 again_RT to_TO form_VVI an_AT1 ammonium_NN1 ion_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, protons_NN2 in_II the_AT lumen_NN1 are_VBR removed_VVN without_IW passing_VVG through_II the_AT CF_VV0 oCF_NN1 1_MC1 complex_NN1 and_CC so_RR the_AT proton_NN1 gradient_NN1 is_VBZ destroyed_VVN without_IW being_VBG utilised_VVN for_IF ATP_NN1 synthesis_NN1 3_MC ._. 
+</s>
+<s>
+Addition_NN1 of_IO ADP_NN1 and_CC P_ZZ1 i_ZZ1 in_II31 addition_II32 to_II33 that_DD1 of_IO ammonium_NN1 chloride_NN1 further_RRR decreased_VVD the_AT proton_NN1 gradient_NN1 and_CC thus_RR further_RRR increased_JJ electron_NN1 flow_NN1 through_II PSII_NN2 resulting_VVG in_II a_AT1 further_JJR increase_NN1 in_II the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 ._. 
+</s>
+<s>
+Upon_II addition_NN1 of_IO ADP_NN1 but_CCB no_AT P_ZZ1 i_ZZ1 the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 increased_VVD ,_, though_CS at_II a_AT1 reduced_JJ rate_NN1 than_CSN the_AT corresponding_JJ reaction_NN1 in_II the_AT presence_NN1 of_IO both_DB2 ADP_NN1 +_FO P_ZZ1 i_ZZ1 ._. 
+</s>
+<s>
+One_PN1 would_VM expect_VVI no_AT increase_NN1 in_II the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 ,_, since_CS ATP_NN1 synthesis_NN1 will_VM not_XX occur_VVI and_CC so_RR the_AT proton_NN1 gradient_NN1 will_VM not_XX be_VBI dissipated_VVN either_RR ._. 
+</s>
+<s>
+Therefore_RR suggesting_VVG contamination_NN1 of_IO the_AT reaction_NN1 vessel_NN1 by_II inorganic_JJ phosphate_NN1 and_CC or_CC alternatively_RR residual_JJ inorganic_JJ phosphate_NN1 in_II the_AT chloroplast_NN1 which_DDQ was_VBDZ at_II a_AT1 sufficient_JJ concentration_NN1 to_TO drive_VVI ATP_NN1 synthesis_NN1 and_CC thus_RR increase_VV0 in_II the_AT rate_NN1 of_IO electron_NN1 flow_NN1 in_II PSII_NP1 ._. 
+</s>
+<s>
+Contamination_NN1 by_II ammonium_NN1 chloride_NN1 another_DD1 agent_NN1 that_CST could_VM possibly_RR decrease_VVI the_AT proton_NN1 gradient_NN1 is_VBZ unlikely_JJ ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS the_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 pre_II addition_NN1 of_IO ADP_NN1 is_VBZ 6%_NNU less_DAR than_CSN that_DD1 of_IO the_AT corresponding_JJ rate_NN1 i.e._REX 1_MC1 which_DDQ was_VBDZ conducted_VVN before_II ammonium_NN1 chloride_NN1 was_VBDZ added_VVN to_II the_AT reaction_NN1 vessel_NN1 for_IF the_AT first_MD time_NNT1 ._. 
+</s>
+<s>
+In_II previous_JJ reactions_NN2 it_PPH1 was_VBDZ shown_VVN that_CST the_AT concentration_NN1 of_IO inorganic_JJ phosphate_NN1 was_VBDZ the_AT limiting_JJ factor_NN1 on_II the_AT rate_NN1 of_IO ATP_NN1 synthesis_NN1 and_CC thus_RR oxygen_NN1 evolution_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT conditions_NN2 at_II which_DDQ the_AT experiment_NN1 was_VBDZ run_VVN in_II comparison_NN1 to_II that_DD1 where_CS inorganic_JJ phosphate_NN1 was_VBDZ artificially_RR added_VVN were_VBDR the_AT same_DA ._. 
+</s>
+<s>
+Any_DD residual_JJ concentration_NN1 of_IO inorganic_JJ phosphate_NN1 in_II the_AT chloroplasts_NN2 would_VM be_VBI at_II such_DA a_AT1 low_JJ concentration_NN1 in_II comparison_NN1 to_II the_AT reaction_NN1 in_II which_DDQ it_PPH1 was_VBDZ artificially_RR added_VVN would_VM result_VVI in_II a_AT1 reduced_JJ rate_NN1 of_IO ATP_NN1 synthase_NN1 activity_NN1 and_CC thus_RR proton_NN1 gradient_NN1 dissipation_NN1 ._. 
+</s>
+<s>
+With_IW a_AT1 higher_JJR proton_NN1 gradient_NN1 than_CSN the_AT reaction_NN1 in_II the_AT presence_NN1 of_IO both_RR ADP_NN1 and_CC P_ZZ1 i_ZZ1 the_AT rate_NN1 of_IO electron_NN1 of_IO flow_NN1 through_II PSII_NP1 will_VM be_VBI less_RGR thus_RR explaining_VVG the_AT lower_JJR rate_NN1 of_IO oxygen_NN1 evolution_NN1 ._. 
+</s>
+<s>
+Halving_VVG the_AT concentration_NN1 of_IO chlorophyll_NN1 in_II conditions_NN2 which_DDQ are_VBR known_VVN not_XX to_TO be_VBI limiting_JJ and_CC to_TO produce_VVI a_AT1 recordable_JJ amount_NN1 of_IO oxygen_NN1 evolution_NN1 one_PN1 would_VM logically_RR expect_VVI half_DB the_AT amount_NN1 of_IO oxygen_NN1 to_TO be_VBI evolved_VVN over_II a_AT1 set_NN1 period_NN1 of_IO time_NNT1 ._. 
+</s>
+<s>
+This_DD1 would_VM occur_VVI since_CS there_EX are_VBR half_DB the_AT number_NN1 of_IO chlorophyll_NN1 capable_JJ of_IO producing_VVG oxygen_NN1 ,_, a_AT1 reduction_NN1 of_IO 33%_NNU was_VBDZ observed_VVN ._. 
+</s>
+<s>
+Experimental_JJ error_NN1 such_II21 as_II22 dilution_NN1 ,_, light_JJ differences_NN2 and_CC differing_JJ rates_NN2 in_II the_AT activity_NN1 of_IO the_AT isolated_JJ chloroplasts_NN2 due_II21 to_II22 their_APPGE condition_NN1 are_VBR the_AT most_RGT likely_JJ reasons_NN2 for_IF the_AT deviation_NN1 of_IO this_DD1 value_NN1 from_II a_AT1 theoretical_JJ 50%_NNU reduction_NN1 ._. 
+</s>
+<s>
+The_AT rate_NN1 of_IO oxygen_NN1 evolution_NN1 is_VBZ greater_JJR than_CSN when_CS the_AT amount_NN1 of_IO chlorophyll_NN1 present_NN1 was_VBDZ double_JJ even_CS21 though_CS22 the_AT rate_NN1 takes_VVZ into_II account_NN1 the_AT amount_NN1 of_IO chlorophyll_NN1 involved_JJ in_II the_AT reaction_NN1 ._. 
+</s>
+<s>
+Three_MC possible_JJ reasons_NN2 for_IF this_DD1 exist_VV0 ,_, firstly_RR the_AT second_MD sample_NN1 of_IO chloroplasts_NN2 were_VBDR in_II a_AT1 better_JJR condition_NN1 following_VVG extraction_NN1 than_CSN those_DD2 used_VVN in_II the_AT first_MD rate_NN1 calculation_NN1 ._. 
+</s>
+<s>
+Secondly_RR the_AT chloroplasts_NN2 suffered_VVD less_DAR diffraction_NN1 of_IO light_NN1 since_CS less_DAR chloroplast_NN1 were_VBDR present_JJ therefore_RR the_AT rate_NN1 of_IO photosynthesis_NN1 was_VBDZ greater_JJR ._. 
+</s>
+<s>
+The_AT third_MD and_CC most_RGT likely_JJ reason_NN1 is_VBZ that_DD1 of_IO the_AT accuracy_NN1 of_IO instrument_NN1 in_II its_APPGE ability_NN1 to_TO measure_VVI oxygen_NN1 evolution_NN1 ,_, evidence_NN1 for_IF this_DD1 lies_VVZ in_II rates_NN2 1_MC1 and_CC 3_MC ._. 
+</s>
+<s>
+These_DD2 rates_NN2 are_VBR from_II a_AT1 chloroplast_NN1 reaction_NN1 mixture_NN1 that_CST was_VBDZ subjected_VVN to_II the_AT same_DA conditions_NN2 ,_, but_CCB were_VBDR separated_VVN by_II a_AT1 period_NN1 of_IO darkness_NN1 ._. 
+</s>
+<s>
+The_AT third_MD rate_NN1 was_VBDZ calculated_VVN once_RR the_AT chloroplast_NN1 had_VHD equilibrated_VVN to_II the_AT light_NN1 following_VVG a_AT1 period_NN1 of_IO darkness_NN1 however_RRQV this_DD1 rate_NN1 of_IO oxygen_NN1 evolution_NN1 was_VBDZ 26%_NNU greater_JJR than_CSN rate_NN1 1_MC1 ._. 
+</s>
+<s>
+Ferricyanide_NN1 allows_VVZ the_AT Hill_NN1 reaction_NN1 a_AT1 light_JJ dependent_JJ oxygen_NN1 evolution_NN1 in_II the_AT absence_NN1 of_IO NADP+_FO to_TO occur_VVI ._. 
+</s>
+<s>
+Plastocyanin_NN1 is_VBZ found_VVN on_II the_AT luminal_NN1 side_NN1 of_IO the_AT ferricyanide_NN1 impermeable_JJ membrane_NN1 thus_RR ferricyanide_VV0 can_VM therefore_RR only_RR accept_VVI electron_NN1 from_II the_AT donor_NN1 on_II the_AT stromal_JJ side_NN1 of_IO PSI_NN1 ._. 
+</s>
+<s>
+Therefore_RR oxygen_NN1 evolution_NN1 with_IW ferricyanide_NN1 requires_VVZ the_AT activity_NN1 of_IO both_DB2 photosystems_NN2 i.e._REX non_FU cyclic_JJ phosphorylation_NN1 ._. 
+</s>
+<s>
+The_AT P/0_FU ratio_NN1 from_II the_AT experiment_NN1 is_VBZ equal_JJ to_II 2.7_MC indicating_VVG that_CST the_AT non-cyclic_JJ photophosphorylation_NN1 will_VM make_VVI enough_DD ATP_NN1 per_II molecule_NN1 of_IO NADPH_NN1 to_TO meet_VVI the_AT requirements_NN2 of_IO the_AT Calvin_NP1 cycle_NN1 ._. 
+</s>
+<s>
+The_AT minimum_JJ value_NN1 that_CST the_AT P/O_NP1 ratio_NN1 can_VM take_VVI to_TO fulfill_VVI the_AT requirements_NN2 of_IO the_AT Calvin_NP1 cycle_NN1 is_VBZ that_DD1 of_IO 1.5_MC ._. 
+</s>
+<s>
+Ammonium_NN1 chloride_NN1 as_CSA discussed_VVN destroys_VVZ the_AT proton_NN1 gradient_NN1 and_CC increases_VVZ the_AT concentration_NN1 of_IO oxidised_JJ plastoquinones_NN2 ._. 
+</s>
+<s>
+Thus_RR the_AT rate_NN1 of_IO ATP_NN1 synthesis_NN1 decreases_VVZ however_RR the_AT rate_NN1 of_IO flow_NN1 of_IO electron_NN1 through_II PSII_NP1 and_CC hence_RR concentration_NN1 of_IO reduced_JJ plastocyanin_NN1 increases_NN2 ._. 
+</s>
+<s>
+Reduced_JJ plastocyanin_NN1 no_RR21 longer_RR22 becomes_VVZ a_AT1 limiting_JJ factor_NN1 for_IF PSI_NN1 in_II the_AT process_NN1 of_IO producing_VVG reduced_JJ ferredoxin_NN1 which_DDQ is_VBZ utilised_VVN in_II the_AT conversion_NN1 of_IO NADP+_FO to_II NADPH_NP1 ._. 
+</s>
+<s>
+The_AT number_NN1 of_IO ATP_NN1 molecules_NN2 synthesised_VVN per_II oxygen_NN1 atom_NN1 equivalent_NN1 evolved_VVN will_VM decrease_VVI i.e._REX the_AT P/O_NP1 value_NN1 will_VM decrease_VVI ._. 
+</s>
+<s>
+Thus_RR non-cyclic_JJ phosphorylation_NN1 would_VM be_VBI insufficient_JJ to_TO provide_VVI sufficient_JJ ATP_NN1 per_II molecule_NN1 of_IO NADPH_NN1 to_TO satisfy_VVI the_AT demands_NN2 of_IO the_AT Calvin_NP1 cycle_NN1 ._. 
+</s>
+<s>
+Cyclic_JJ phosphorylation_NN1 would_VM therefore_RR have_VHI to_TO occur_VVI to_TO produce_VVI enough_DD ATP_NN1 to_TO cover_VVI the_AT deficit_NN1 and_CC the_AT high_JJ concentration_NN1 of_IO reduced_JJ plastocyanin_NN1 would_VM permit_VVI this_DD1 to_TO happen_VVI ._. 
+</s>
+<s>
+4FeCN_FO 6_MC 3-_NN1 are_VBR reduced_VVN per_II O_ZZ1 2_MC molecule_NN1 that_CST is_VBZ evolved_VVN ,_, the_AT concentration_NN1 of_IO potassium_NN1 ferricyanide_NN1 added_VVN in_II reaction_NN1 3(i)_FO is_VBZ equal_JJ to_II 1.5_MC mol_NN1 thus_RR the_AT supply_NN1 of_IO FeCN_NP1 6_MC 3-_NN1 will_VM be_VBI exhausted_VVN after_II 0.375_MC mol_NN1 of_IO oxygen_NN1 have_VH0 been_VBN evolved_VVN ._. 
+</s>
+<s>
+After_II which_DDQ point_NN1 ,_, oxygen_NN1 evolution_NN1 will_VM cease_VVI because_CS the_AT pool_NN1 of_IO oxidized_JJ plastoquinones_NN2 to_TO accept_VVI electrons_NN2 from_II PSII_NP1 decreases_VVZ to_II such_DA a_AT1 low_JJ level_NN1 and_CC so_RR will_VM that_DD1 of_IO the_AT flow_NN1 of_IO electrons_NN2 through_II the_AT system_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM occur_VVI since_CS the_AT reduced_JJ plastocyanin_NN1 becomes_VVZ oxidised_JJ by_II PSI_NN1 by_II donating_VVG its_APPGE electron_NN1 to_II the_AT positively_RR charged_VVN centre_NN1 (_( P700+_FO )_) ._. 
+</s>
+<s>
+However_RRQV if_CS the_AT supply_NN1 of_IO oxidised_JJ ferredoxin_NN1 is_VBZ exhausted_VVN then_RT there_EX will_VM be_VBI no_AT flow_NN1 of_IO electrons_NN2 through_II PSI_NN1 and_CC so_RR the_AT reaction_NN1 centre_NN1 can_VM not_XX be_VBI oxidized_VVN and_CC reduced_VVN on_II later_JJR flashes_NN2 of_IO light_NN1 ._. 
+</s>
+<s>
+With_IW no_AT oxidation_NN1 of_IO P700_FO ,_, the_AT centre_NN1 will_VM no_RR% longer_RRR be_VBI able_JK to_TO extract_VVI an_AT1 electron_NN1 from_II plastocyanin_NN1 and_CC the_AT concentration_NN1 of_IO which_DDQ will_VM grow_VVI ._. 
+</s>
+<s>
+Hence_RR when_CS the_AT supply_NN1 of_IO oxidized_JJ ferredoxin_NN1 becomes_VVZ exhausted_VVN no_AT oxygen_NN1 evolution_NN1 can_VM occur_VVI ._. 
+</s>
+<s>
+Reduced_JJ ferredoxin_NN1 can_VM not_XX be_VBI regenerated_VVN become_VV0 the_AT experiment_NN1 was_VBDZ carried_VVN out_RP in_II the_AT absence_NN1 of_IO NADP+_FO ._. 
+</s>
+<s>
+Having_VHG a_AT1 known_JJ concentration_NN1 of_IO potassium_NN1 ferricyanide_NN1 and_CC a_AT1 known_JJ amount_NN1 of_IO oxygen_NN1 that_CST can_VM be_VBI evolved_VVN ,_, one_PN1 can_VM test_VVI the_AT accuracy_NN1 of_IO the_AT calibration_NN1 of_IO the_AT oxygen_NN1 electrode_NN1 ._. 
+</s>
+<s>
+The_AT data_NN from_II the_AT experiment_NN1 indicates_VVZ that_CST the_AT calibration_NN1 of_IO the_AT curve_NN1 is_VBZ -34%_FO the_AT actual_JJ amount_NN1 of_IO oxygen_NN1 evolved_VVD ._. 
+</s>
+<s>
+Thus_RR the_AT rates_NN2 measured_VVN in_II the_AT course_NN1 of_IO this_DD1 experiment_NN1 could_VM be_VBI up_RG21 to_RG22 34%_NNU lower_JJR than_CSN what_DDQ they_PPHS2 actually_RR are_VBR ._. 
+</s>

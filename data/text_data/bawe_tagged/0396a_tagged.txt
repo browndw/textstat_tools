@@ -1,0 +1,135 @@
+<s>
+Note_VV0 in_II red_JJ that_CST the_AT variance_NN1 of_IO V3_FO (_( liver_NN1 weight_NN1 )_) seems_VVZ to_TO be_VBI significantly_RR larger_JJR ,_, as_II31 well_II32 as_II33 its_APPGE covariance_NN1 with_IW other_JJ organ_NN1 weights_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ evidence_NN1 that_CST the_AT scale_NN1 of_IO variation_NN1 in_II the_AT data_NN might_VM be_VBI different_JJ ,_, largely_RR explained_VVN by_II the_AT age_NN1 factor_NN1 of_IO hamsters_NN2 ._. 
+</s>
+<s>
+Now_RT both_DB2 the_AT sample_NN1 variance_NN1 and_CC standard_JJ deviation_NN1 are_VBR of_IO a_AT1 similar_JJ scale_NN1 (_( 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT log-scale_JJ ,_, particularly_RR of_IO base_NN1 2_MC in_II this_DD1 case_NN1 ,_, helps_VVZ a_RR21 lot_RR22 mainly_RR because_CS the_AT growth_NN1 of_IO hamsters_NN2 is_VBZ achieved_VVN primarily_RR by_II every_AT1 cell_NN1 dividing_VVG into_II two_MC ,_, i.e._REX an_AT1 exponential_NN1 growth_NN1 of_IO base_NN1 2_MC ._. 
+</s>
+<s>
+So_RR the_AT log-scale_NN1 can_VM reduce_VVI a_AT1 great_JJ deal_NN1 of_IO variation_NN1 due_II21 to_II22 the_AT age_NN1 factor_NN1 and_CC hopefully_RR bring_VV0 the_AT data_NN to_II a_AT1 comparable_JJ scale_NN1 ._. 
+</s>
+<s>
+But_CCB there_EX can_VM still_RR be_VBI other_JJ factors_NN2 that_CST are_VBR left_VVN unaccounted_JJ for_IF ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, scaling_NN1 can_VM be_VBI quite_RG subjective_JJ and_CC had_VHD a_AT1 different_JJ scaling_NN1 been_VBN adopted_VVN ,_, the_AT result_NN1 would_VM have_VHI been_VBN different_JJ ._. 
+</s>
+<s>
+So_RR the_AT first_MD two_MC principal_JJ components_NN2 explain_VV0 about_II 84.9%_FO of_IO the_AT total_JJ variation_NN1 in_II the_AT data_NN ._. 
+</s>
+<s>
+The_AT first_MD component_NN1 has_VHZ all_DB positive_JJ entries_NN2 ,_, so_CS it_PPH1 can_VM be_VBI regarded_VVN as_II a_AT1 size_NN1 vector_NN1 ._. 
+</s>
+<s>
+Large_JJ values_NN2 along_II this_DD1 direction_NN1 in_II the_AT graph_NN1 would_VM mean_VVI a_AT1 general_JJ large_JJ size_NN1 of_IO all_DB organs_NN2 ._. 
+</s>
+<s>
+The_AT second_MD component_NN1 displays_VVZ the_AT contrast_NN1 between_II V2_FO (_( heart_NN1 )_) and_CC V6_FO (_( testes_NN2 )_) ._. 
+</s>
+<s>
+The_AT actual_JJ direction_NN1 of_IO axes_NN2 could_VM be_VBI different_JJ from_II what_DDQ SPLUS_NP1 command_NN1 princomp()_NN1 produces_VVZ ._. 
+</s>
+<s>
+But_CCB in_II this_DD1 case_NN1 ,_, a_AT1 positive_JJ value_NN1 along_II the_AT direction_NN1 of_IO the_AT second_MD component_NN1 means_VVZ relatively_RR heavy_JJ testes_NN2 compared_VVN to_II heart_NN1 and_CC vice_RR21 versa_RR22 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ interesting_JJ to_TO observe_VVI the_AT slight_JJ variation_NN1 between_II what_DDQ SPLUS_NP1 princomp()_NN1 produces_VVZ and_CC what_DDQ the_AT real_JJ eigenvalues_NN2 and_CC eigenvectors_NN2 are_VBR ._. 
+</s>
+<s>
+Three_MC things_NN2 that_CST seem_VV0 to_TO be_VBI observed_VVN about_II the_AT SPLUS_NN1 command_NN1 princomp()_NN1 are_VBR :_: It_PPH1 centres_VVZ the_AT data_NN automatically_RR ._. 
+</s>
+<s>
+The_AT directions_NN2 of_IO the_AT new_JJ axes_NN2 are_VBR automatically_RR decided_VVN although_CS they_PPHS2 could_VM be_VBI set_VVN in_II other_JJ directions_NN2 ._. 
+</s>
+<s>
+Loadings_NN2 are_VBR selected_VVN to_TO reflect_VVI their_APPGE relative_JJ importance_NN1 ,_, i.e._REX some_DD small_JJ and_CC non-_JJ influential_JJ values_NN2 are_VBR set_VVN as_CSA zero_MC ._. 
+</s>
+<s>
+The_AT plot_NN1 is_VBZ the_AT 'best'_JJ 2-D_JJ summary_NN1 of_IO the_AT data_NN in_II the_AT sense_NN1 that_CST the_AT 2-D_JJ plane_NN1 captures_VVZ 84.9%_FO of_IO the_AT variation_NN1 in_II the_AT data_NN ,_, i.e._REX it_PPH1 displays_VVZ a_AT1 2-D_JJ slice_NN1 of_IO the_AT 6-D_NP1 data_NN with_IW the_AT largest_JJT area_NN1 covered_VVD ._. 
+</s>
+<s>
+The_AT Q_NN1 matrix_NN1 is_VBZ just_RR the_AT sample_NN1 variance_NN1 matrix_NN1 and_CC hence_RR symmetrical_JJ ._. 
+</s>
+<s>
+So_RR one_MC1 way_NN1 of_IO recovering_VVG the_AT centred_JJ% data_NN matrix_NN1 HX_NP1 is_VBZ to_TO use_VVI metric_JJ scaling_NN1 -_- orientating_VVG the_AT recovered_JJ HX_NP1 in_II the_AT same_DA way_NN1 as_CSA PCA_NP1 does_VDZ ._. 
+</s>
+<s>
+In_II theory_NN1 ,_, Q_ZZ1 here_RL should_VM be_VBI positive_JJ semi-definite_JJ with_IW all_DB its_APPGE eigenvalues_NN2 non-negative_JJ ._. 
+</s>
+<s>
+However_RR in_II this_DD1 case_NN1 ,_, some_DD eigenvalues_NN2 are_VBR computed_VVN by_II SPLUS_NP1 to_TO be_VBI negative_JJ but_CCB very_RG close_JJ to_II 0_MC ._. 
+</s>
+<s>
+So_RR this_DD1 causes_VVZ a_AT1 little_JJ problem_NN1 when_CS producing_VVG HX1_FO and_CC its_APPGE covariance_NN1 matrix_NN1 -_- there_EX are_VBR many_DA2 NA_FW values_NN2 ._. 
+</s>
+<s>
+By_II treating_VVG the_AT NA_FU values_NN2 as_CSA just_JJ 0_MC221% 's_MC222% ,_, I_PPIS1 can_VM still_RR find_VVI the_AT proportion_NN1 of_IO total_JJ variation_NN1 in_II the_AT data_NN explained_VVN by_II the_AT first_MD two_MC columns_NN2 of_IO HX1_FO to_TO be_VBI 84.9%_FO -_- same_DA as_CSA PCA_NP1 result_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 can_VM see_VVI ,_, the_AT two_MC graphs_NN2 are_VBR identical_JJ ,_, but_CCB with_IW a_AT1 180-degree_JJ rotation_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ only_RR because_II21 of_II22 a_AT1 different_JJ definition_NN1 for_IF directions_NN2 of_IO the_AT eigenvectors_NN2 (_( axes_NN2 )_) ._. 
+</s>
+<s>
+Again_RT ,_, it_PPH1 confirms_VVZ the_AT fact_NN1 that_CST PCA_NP1 and_CC metric_JJ scaling_NN1 are_VBR related_JJ processes_NN2 ._. 
+</s>
+<s>
+Clearly_RR there_EX are_VBR some_DD (_( far-from-zero_NN1 )_) negative_JJ eigenvalues_NN2 which_DDQ prohibit_VV0 Q1_FO from_II being_VBG positive_JJ semi-definite_JJ by_II definition_NN1 ._. 
+</s>
+<s>
+Now_RT the_AT matrix_NN1 Q2_FO is_VBZ positive_JJ semi-definite_JJ by_II checking_VVG that_CST all_DB its_APPGE eigenvalues_NN2 are_VBR non-_JJ negative_JJ ._. 
+</s>
+<s>
+So_RR we_PPIS2 can_VM apply_VVI metric_JJ scaling_NN1 to_TO obtain_VVI a_AT1 newly_RR recovered_VVN HX2_FO ._. 
+</s>
+<s>
+The_AT new_JJ 2-D_JJ summary_NN1 of_IO the_AT data_NN quite_RG clearly_RR shows_VVZ four_MC clusters_NN2 of_IO points_NN2 ._. 
+</s>
+<s>
+And_CC the_AT density_NN1 plots_NN2 along_II both_DB2 axes_NN2 just_RR double_RR confirms_VVZ this_DD1 special_JJ pattern_NN1 ._. 
+</s>
+<s>
+Clearly_RR some_DD hidden_JJ features_NN2 in_II the_AT Euclidean_JJ distance_NN1 have_VH0 been_VBN picked_VVN up_RP by_II the_AT new_JJ proximity_NN1 matrix_NN1 ._. 
+</s>
+<s>
+This_DD1 time_NNT1 the_AT first_MD two_MC columns_NN2 of_IO HX1_FO only_RR explain_VV0 59.2%_FO of_IO variation_NN1 in_II the_AT new_JJ data_NN sampled_VVN from_II a_AT1 normal_JJ distribution_NN1 ._. 
+</s>
+<s>
+This_DD1 plot_NN1 seems_VVZ to_TO be_VBI more_RGR evenly_RR spread_VVN out_RP than_CSN the_AT one_PN1 obtained_VVN from_II the_AT original_JJ data_NN matrix_NN1 ,_, also_RR with_IW a_AT1 larger_JJR scale_NN1 on_II both_DB2 axes_NN2 (_( this_DD1 time_NNT1 the_AT matrix_NN1 has_VHZ not_XX been_VBN log-scaled_JJ before_II centering_VVG )_) ._. 
+</s>
+<s>
+But_CCB the_AT fact_NN1 that_CST it_PPH1 explains_VVZ much_DA1 less_DAR variation_NN1 in_II the_AT data_NN implies_VVZ that_CST the_AT original_JJ data_NN matrix_NN1 might_VM be_VBI quite_RG far_RR from_II a_AT1 truly_RR normal_JJ sample_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST apart_II21 from_II22 the_AT age_NN1 factor_NN1 that_CST has_VHZ been_VBN reduced_VVN by_II the_AT log-scaling_NN1 ,_, there_EX might_VM still_RR be_VBI some_DD linear_JJ age_NN1 factor_NN1 or_CC other_JJ different_JJ factors_NN2 left_VVN such_CS21 that_CS22 the_AT scaled_JJ data_NN is_VBZ still_RR not_XX quite_RG normally_RR distributed_VVN ._. 
+</s>
+<s>
+Compared_VVN with_IW the_AT previous_JJ results_NN2 ,_, there_EX is_VBZ much_DA1 less_DAR clustering_NN1 in_II the_AT 2-D_JJ summary_NN1 with_IW a_AT1 normal_JJ sample_NN1 ._. 
+</s>
+<s>
+The_AT two_MC peaks_NN2 displayed_VVN in_II the_AT density_NN1 plot_NN1 of_IO HX2&lsqb;_FO ,_, 2_MC &rsqb;_) (_( above_RL right_RR )_) is_VBZ only_RR a_AT1 special_JJ case_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT random_JJ sampling_NN1 is_VBZ repeated_VVN ,_, I_PPIS1 found_VVD that_CST it_PPH1 does_VDZ not_XX normally_RR show_VVI this_DD1 kind_NN1 of_IO peaks_NN2 ._. 
+</s>
+<s>
+Overall_RR ,_, the_AT plots_NN2 are_VBR suggesting_VVG that_CST a_AT1 truly_RR normally_RR sampled_VVN data_NN matrix_NN1 should_VM n't_XX display_VVI unusual_JJ clustering_NN1 that_CST our_APPGE data_NN shows_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ interesting_JJ to_TO see_VVI that_CST using_VVG the_AT Euclidean_JJ distances_NN2 does_VDZ n't_XX extract_VVI this_DD1 kind_NN1 of_IO pattern_NN1 as_RG clearly_RR as_CSA the_AT 'better-defined'_JJ proximity_NN1 matrix_NN1 does_VDZ ._. 
+</s>
+<s>
+So_RR the_AT metric_JJ scaling_NN1 with_II31 respect_II32 to_II33 (_( *_FU )_) in_II the_AT question_NN1 sheet_NN1 somehow_RR enlarges_VVZ the_AT hidden_JJ factors_NN2 that_CST are_VBR left_VVN out_RP after_II log-scaling_NN1 and_CC are_VBR causing_VVG the_AT sample_NN1 to_TO be_VBI non-normal_JJ ._. 
+</s>
+<s>
+My_APPGE understanding_NN1 is_VBZ that_CST d_ZZ1 ij_NN1 is_VBZ :_: This_DD1 essentially_RR causes_VVZ the_AT grouping_NN1 /_FO clustering_NN1 of_IO grown-up_NN1 and_CC baby_NN1 hamsters_NN2 in_II the_AT 2-D_JJ summary_NN1 plot_NN1 ._. 
+</s>
+<s>
+And_CC therefore_RR this_DD1 'better'_JJ proximity_NN1 matrix_NN1 is_VBZ able_JK to_TO pick_VVI up_RP the_AT hidden_JJ age_NN1 factor_NN1 that_CST is_VBZ still_RR left_VVN in_II the_AT data_NN after_II log-scaling_JJ but_CCB is_VBZ not_XX detectable_JJ using_VVG the_AT normal_JJ Euclidean_JJ metric_JJ scaling_NN1 ._. 
+</s>

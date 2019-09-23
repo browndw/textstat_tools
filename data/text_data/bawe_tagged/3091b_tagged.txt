@@ -1,0 +1,525 @@
+<s>
+The_AT purpose_NN1 of_IO this_DD1 report_NN1 is_VBZ to_TO determine_VVI the_AT most_RGT effective_JJ method_NN1 for_IF analysing_VVG mechanisms_NN2 ._. 
+</s>
+<s>
+Three_MC methods_NN2 are_VBR critically_RR evaluated_VVN by_II applying_VVG relevant_JJ analytical_JJ theory_NN1 where_RRQ necessary_JJ to_TO build_VVI up_RP a_AT1 complete_JJ mechanism_NN1 solution_NN1 consisting_VVG of_IO kinematic_JJ and_CC Force_NN1 data_NN ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR compared_VVN and_CC the_AT most_RGT suitable_JJ method_NN1 chosen_VVN for_IF use_NN1 within_II the_AT company_NN1 ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 report_NN1 is_VBZ to_TO evaluate_VVI various_JJ methods_NN2 used_VVN in_II the_AT analysis_NN1 of_IO mechanisms_NN2 ,_, with_IW the_AT intension_NN1 of_IO employing_VVG the_AT use_NN1 of_IO the_AT most_RGT suitable_JJ method_NN1 within_II the_AT company_NN1 ._. 
+</s>
+<s>
+The_AT primary_JJ requirement_NN1 is_VBZ to_TO cut_VVI production_NN1 cost_NN1 by_II reducing_VVG the_AT amount_NN1 of_IO work_NN1 sub-contacted_NN1 to_II other_JJ companies_NN2 ._. 
+</s>
+<s>
+To_II this_DD1 end_NN1 the_AT chosen_JJ method_NN1 of_IO analysis_NN1 will_VM be_VBI used_VVN by_II the_AT design_NN1 engineers_NN2 of_IO the_AT company_NN1 to_TO complete_VVI calculations_NN2 regarding_II velocity_NN1 ,_, acceleration_NN1 and_CC force_NN1 analysis_NN1 for_IF the_AT mechanisms_NN2 ._. 
+</s>
+<s>
+The_AT chosen_JJ analytical_JJ method_NN1 should_VM therefore_RR meet_VVI the_AT following_JJ requirements_NN2 :_: The_AT methods_NN2 that_CST will_VM be_VBI evaluated_VVN in_II this_DD1 report_NN1 are_VBR :_: In_II order_NN1 to_TO effectively_RR evaluate_VVI each_DD1 method_NN1 for_IF analyzing_VVG mechanisms_NN2 a_AT1 simple_JJ four_MC bar_NN1 mechanism_NN1 has_VHZ been_VBN chosen_VVN ,_, shown_VVN in_II Figure_NN1 1.1_MC ._. 
+</s>
+<s>
+For_IF each_DD1 method_NN1 a_AT1 detailed_JJ analysis_NN1 will_VM be_VBI done_VDN of_IO the_AT mechanism_NN1 and_CC the_AT results_NN2 compared_VVN from_II the_AT other_JJ methods_NN2 ._. 
+</s>
+<s>
+Before_II discussing_VVG what_DDQ methods_NN2 were_VBDR used_VVN to_TO analyse_VVI the_AT various_JJ methods_NN2 it_PPH1 is_VBZ necessary_JJ to_TO highlight_VVI some_DD of_IO the_AT equations_NN2 that_CST will_VM be_VBI used_VVN ._. 
+</s>
+<s>
+This_DD1 section_NN1 is_VBZ not_XX intended_VVN to_TO cover_VVI how_RRQ the_AT equations_NN2 are_VBR derived_VVN ,_, this_DD1 can_VM be_VBI seen_VVN either_RR in_II the_AT Appendices_NN2 at_II the_AT end_NN1 of_IO the_AT report_NN1 or_CC in_II the_AT reference_NN1 sources_NN2 where_CS indicated_VVN ._. 
+</s>
+<s>
+Below_RL is_VBZ a_AT1 summary_NN1 of_IO the_AT equations_NN2 used_VVN in_II the_AT graphical_JJ analysis_NN1 method_NN1 ._. 
+</s>
+<s>
+Equation_NN1 2.1_MC -_- Velocity_NN1 ._. 
+</s>
+<s>
+Equation_NN1 2.2_MC -_- Acceleration_NN1 ._. 
+</s>
+<s>
+Equation_NN1 2.3_MC -_- Acceleration_NN1 vectors_NN2 ._. 
+</s>
+<s>
+The_AT analytical_JJ analysis_NN1 of_IO the_AT mechanism_NN1 shown_VVN in_II Figure_NN1 1.1_MC is_VBZ divided_VVN into_II 2_MC separate_JJ four_MC bar_NN1 linkages_NN2 ._. 
+</s>
+<s>
+The_AT first_MD 4_MC bar_NN1 linkage_NN1 can_VM be_VBI seen_VVN in_II Figure_NN1 2.1_MC ,_, the_AT complex_JJ exponential_NN1 vector_NN1 loop_NN1 equation_NN1 for_IF the_AT linkage_NN1 can_VM be_VBI written_VVN out_RP ,_, this_DD1 can_VM then_RT be_VBI expanded_VVN using_VVG the_AT Euler_NN1 expansion_NN1 and_CC separated_VVN into_II real_JJ and_CC imaginary_JJ parts_NN2 to_TO get_VVI simultaneous_JJ equations_NN2 ._. 
+</s>
+<s>
+The_AT simultaneous_JJ equations_NN2 can_VM then_RT be_VBI solved_VVN to_TO determine_VVI the_AT unknowns_NN2 ._. 
+</s>
+<s>
+The_AT full_JJ derivation_NN1 of_IO these_DD2 equations_NN2 can_VM be_VBI found_VVN in_II the_AT following_JJ text_NN1 ,_, ._. 
+</s>
+<s>
+R.L.NORTON_NP1 ,_, Design_NN1 of_IO Machinery_NN1 ,_, 1st_MD Edition_NN1 :_: Position_VV0 analysis_NN1 -_- Ch_NN1 5_MC ,_, p176-177_MC ._. 
+</s>
+<s>
+The_AT resulting_JJ quadratic_JJ equations_NN2 found_VVN by_II solving_VVG the_AT simultaneous_JJ equations_NN2 indicate_VV0 whether_CSW the_AT linkage_NN1 is_VBZ in_II its_APPGE 'open'_NN1 or_CC 'closed'_NN1 (_( crossed_VVN )_) configuration_NN1 ,_, this_DD1 is_VBZ indicated_VVN by_II real_JJ and_CC distinct_JJ quadratic_JJ roots_NN2 ._. 
+</s>
+<s>
+It_PPH1 also_RR indicates_VVZ if_CS the_AT mechanism_NN1 is_VBZ bordering_VVG on_II stability_NN1 of_IO two_MC configurations_NN2 ,_, that_DD1 is_VBZ the_AT mechanism_NN1 is_VBZ able_JJ change_NN1 from_II open_JJ to_II closed_JJ configuration_NN1 whilst_CS running_VVG ,_, this_DD1 is_VBZ indicated_VVN by_II the_AT quadratic_JJ roots_NN2 being_VBG real_JJ and_CC repeated_VVD ._. 
+</s>
+<s>
+Lastly_RR if_CS the_AT quadratic_JJ roots_NN2 are_VBR complex_JJ conjugates_NN2 then_RT the_AT mechanism_NN1 is_VBZ said_VVN to_TO be_VBI non-Grashof_JJ ._. 
+</s>
+<s>
+The_AT Grashof_NN1 condition_NN1 is_VBZ a_AT1 simple_JJ relationship_NN1 that_CST predicts_VVZ the_AT rotation_NN1 behavior_NN1 of_IO a_AT1 mechanism_NN1 ,_, non-Grashof_NP1 is_VBZ where_RRQ "_" no_AT link_NN1 is_VBZ capable_JJ of_IO making_VVG a_AT1 full_JJ revolution_NN1 with_II31 respect_II32 to_II33 the_AT ground_NN1 plane_NN1 "_" ._. 
+</s>
+<s>
+Grashof_VV0 Condition_NN1 ,_, R.L.NORTON_NP1 ,_, "_" Design_NN1 of_IO Machinery_NN1 "_" ,_, 1st_MD Edition_NN1 ,_, Page_NN1 44_MC ._. 
+</s>
+<s>
+The_AT second_MD four_MC bar_NN1 linkage_NN1 can_VM be_VBI seen_VVN in_II Figure_NN1 2.2_MC ._. 
+</s>
+<s>
+The_AT complex_JJ exponential_NN1 vector_NN1 loop_NN1 equation_NN1 is_VBZ then_RT derived_VVN ,_, and_CC using_VVG the_AT same_DA process_NN1 as_CSA the_AT first_MD four_MC bar_NN1 linkage_NN1 ,_, two_MC simultaneous_JJ equations_NN2 are_VBR developed_VVN for_IF the_AT two_MC unknown_JJ values_NN2 ,_, the_AT angle_NN1 of_IO the_AT link_NN1 DP_NP1 ,_, and_CC the_AT sliding_JJ link_NN1 length_NN1 of_IO link_NN1 CA_VM ._. 
+</s>
+<s>
+Below_RL is_VBZ a_AT1 summary_NN1 of_IO the_AT five_MC equations_NN2 used_VVN in_II the_AT spreadsheet_NN1 analysis_NN1 of_IO the_AT second_MD four_MC bar_NN1 linkage_NN1 ._. 
+</s>
+<s>
+A_AT1 full_JJ derivation_NN1 of_IO the_AT 2_MC nd_NNU four_MC bar_NN1 linkage_NN1 can_VM be_VBI found_VVN in_II R.L.NORTON_NP1 ,_, "_" Design_NN1 of_IO Machinery_NN1 "_" ,_, 1_MC1 st_NNU Edition_NN1 ,_, sections_NN2 4.7_MC -_- Position_VV0 ,_, 6.7_MC -_- Velocity_NN1 &;_NULL 7.3_MC -_- Acceleration_NN1 ._. 
+</s>
+<s>
+Equation_NN1 2.4_MC -_- Euler_NP1 Identity_NN1 ._. 
+</s>
+<s>
+The_AT Euler_NN1 Identity_NN1 is_VBZ used_VVN when_CS a_AT1 complex_JJ vector_NN1 equation_NN1 exists_VVZ ,_, since_CS is_VBZ splits_NN2 the_AT equation_NN1 into_II it_PPH1 's_VBZ real_JJ and_CC imaginary_JJ parts_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ known_VVN as_II Euler_NP1 Expansion_NN1 ._. 
+</s>
+<s>
+Equation_NN1 2.5-_NN1 Theta_NN1 Five_MC (_( 5_MC )_) ._. 
+</s>
+<s>
+Equation_NN1 2.6_MC -_- Angular_JJ Velocity_NN1 Omega_NN1 five_MC (_( 5_MC )_) ._. 
+</s>
+<s>
+Equation_NN1 2.7_MC -_- Angular_JJ Acceleration_NN1 ,_, Alpha_NN1 Five_MC (_( 5_MC )_) ._. 
+</s>
+<s>
+Equation_NN1 2.8_MC -_- Variable_JJ Link_NN1 Length_NN1 ,_, b(t)_NNU ._. 
+</s>
+<s>
+Equation_NN1 2.9_MC -_- Linear_JJ Velocity_NN1 b(t)_NNU ._. 
+</s>
+<s>
+Equation_NN1 2.10_MC -_- Linear_JJ Acceleration_NN1 b(t)_NNU ._. 
+</s>
+<s>
+Working_VVG model_NN1 is_VBZ a_AT1 2D_NNU analysis_NN1 software_NN1 package_NN1 that_CST allows_VVZ linkages_NN2 to_TO be_VBI modelled_VVN ,_, and_CC then_RT analysed_VVD using_VVG the_AT inbuilt_JJ measuring_JJ features_NN2 ._. 
+</s>
+<s>
+The_AT links_NN2 are_VBR modelled_VVN using_VVG simple_JJ CAD_NN1 tools_NN2 ._. 
+</s>
+<s>
+The_AT links_NN2 can_VM be_VBI drawn_VVN as_CSA simple_JJ rectangular_JJ shapes_NN2 scaled_VVN according_II21 to_II22 the_AT mechanism_NN1 dimensions_NN2 ,_, each_DD1 link_NN1 is_VBZ assigned_VVN an_AT1 appropriate_JJ name_NN1 to_TO make_VVI object_NN1 selection_NN1 easier_RRR when_CS it_PPH1 comes_VVZ to_II getting_VVG analysis_NN1 data_NN from_II the_AT required_JJ links_NN2 ._. 
+</s>
+<s>
+Pin_NN1 joints_NN2 either_RR fix_VV0 links_NN2 to_II one_PPX121 another_PPX122 or_CC fix_VV0 the_AT link_NN1 to_II an_AT1 anchor_NN1 end_NN1 point_NN1 ,_, such_II21 as_II22 points_NN2 O_ZZ1 ,_, Q_ZZ1 ,_, P_ZZ1 on_II Figure_NN1 1.1_MC ._. 
+</s>
+<s>
+As_II31 well_II32 as_II33 specifying_VVG the_AT links_NN2 dimensions_NN2 ,_, the_AT angle_NN1 of_IO the_AT link_NN1 can_VM also_RR be_VBI specified_VVN ._. 
+</s>
+<s>
+This_DD1 allows_VVZ the_AT linkage_NN1 to_TO be_VBI drawn_VVN according_II21 to_II22 the_AT specified_JJ initial_JJ crank_NN1 angle_NN1 ._. 
+</s>
+<s>
+Figure_NN1 3.1_MC shows_VVZ the_AT naming_NN1 convention_NN1 that_CST was_VBDZ used_VVN for_IF the_AT mechanism_NN1 in_II working_VVG model_NN1 ._. 
+</s>
+<s>
+Note_VV0 there_EX are_VBR two_MC points_NN2 for_IF each_DD1 link_NN1 pin_NN1 ._. 
+</s>
+<s>
+A_AT1 motor_NN1 is_VBZ attached_VVN to_TO link_VVI AO_NP1 and_CC a_AT1 rotational_JJ velocity_NN1 is_VBZ then_RT specified_VVN ._. 
+</s>
+<s>
+The_AT simulation_NN1 settings_NN2 in_II working_VVG model_NN1 can_VM be_VBI used_VVN to_TO set_VVI the_AT step_NN1 size_NN1 for_IF the_AT analysis_NN1 ,_, in_II this_DD1 instance_NN1 the_AT step_NN1 size_NN1 was_VBDZ set_VVN to_II 5_MC ._. 
+</s>
+<s>
+This_DD1 is_VBZ done_VDN by_II converting_VVG the_AT angular_JJ velocity_NN1 in_RP to_II degrees_NN2 per_II second_NNT1 ,_, then_RT calculating_VVG the_AT time_NNT1 taken_VVN for_IF the_AT crank_NN1 to_TO rotate_VVI 5_MC ._. 
+</s>
+<s>
+Working_VVG model_NN1 also_RR allows_VVZ "_" meters_NN2 "_" to_TO be_VBI placed_VVN on_II Linkages_NN2 and_CC points_NN2 which_DDQ can_VM measure_VVI either_DD1 position_NN1 ,_, velocity_NN1 ,_, acceleration_NN1 or_CC force_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR possible_JJ for_IF the_AT software_NN1 to_TO record_VVI these_DD2 values_NN2 after_II each_DD1 simulation_NN1 step_NN1 and_CC export_VV0 this_DD1 data_NN as_II a_AT1 tab-delimited_JJ data_NN file_NN1 ._. 
+</s>
+<s>
+This_DD1 data_NN can_VM then_RT be_VBI imported_VVN into_II a_AT1 spread_NN1 sheet_NN1 such_II21 as_II22 excel_VV0 ,_, for_IF further_JJR analysis_NN1 ._. 
+</s>
+<s>
+Any_DD physical_JJ property_NN1 can_VM be_VBI measured_VVN in_II the_AT Working_JJ Model_NN1 simulation_NN1 software_NN1 ._. 
+</s>
+<s>
+Meters_NN2 allow_VV0 the_AT user_NN1 to_TO measure_VVI the_AT physical_JJ property_NN1 of_IO any_DD component_NN1 of_IO the_AT mechanism_NN1 ._. 
+</s>
+<s>
+To_TO measure_VVI the_AT velocity_NN1 of_IO Link_NN1 AO_NP1 for_REX21 example_REX22 ,_, the_AT following_JJ sequence_NN1 can_VM be_VBI done_VDN :_: Select_JJ link_NN1 ,_, either_RR by_II clicking_VVG directly_RR on_II it_PPH1 ,_, or_CC via_II any_DD of_IO the_AT selection_NN1 windows_NN2 found_VVN under_II the_AT "_" Window_NN1 "_" menu_NN1 (_( Properties_NN2 ,_, Appearance_NN1 ,_, Geometry_NN1 )_) ._. 
+</s>
+<s>
+Next_MD click_NN1 on_II the_AT "_" Measure_NN1 "_" menu_NN1 and_CC extend_VV0 the_AT "_" Velocity_NN1 "_" menu_NN1 option_NN1 ._. 
+</s>
+<s>
+Select_VV0 how_RRQ the_AT information_NN1 is_VBZ to_TO be_VBI presented_VVN ,_, either_RR X_ZZ1 graph_NN1 ,_, Y_ZZ1 graph_NN1 ,_, Rotational_JJ graph_NN1 ,_, or_CC all_DB of_IO the_AT above_JJ ._. 
+</s>
+<s>
+This_DD1 data_NN is_VBZ displayed_VVN in_II a_AT1 meter_NN1 window_NN1 as_CSA shown_VVN in_II Figure_NN1 3.3_MC which_DDQ shows_VVZ the_AT velocity_NN1 in_II both_DB2 polar_JJ and_CC Cartesian_JJ formats_NN2 ._. 
+</s>
+<s>
+The_AT accuracy_NN1 of_IO the_AT results_NN2 can_VM be_VBI changed_VVN in_II working_VVG under_II the_AT menu_NN1 view_NN1 numbers_NN2 &;_NULL units_NN2 ._. 
+</s>
+<s>
+Measuring_VVG the_AT position_NN1 ,_, velocity_NN1 and_CC acceleration_NN1 of_IO point_NN1 C_ZZ1 on_II Link_NP1 BA_NNA is_VBZ slightly_RR more_RRR involved_VVN ,_, and_CC is_VBZ described_VVN in_II Appendix_NN1 3_MC ._. 
+</s>
+<s>
+Posted_VVN on_II WebCT_NP1 08/11/04_MF message_NN1 no._NN1 1573_MC ,_, by_II Nicolas_NP1 Brooks_NP1 ,_, Title_NN1 :_: Point_VV0 C_ZZ1 in_II WM_NP1 ._. 
+</s>
+<s>
+The_AT velocity_NN1 and_CC acceleration_NN1 vector_NN1 diagrams_NN2 can_VM be_VBI drawn_VVN to_TO scale_VVI using_VVG a_AT1 suitable_JJ CAD_NN1 system_NN1 ,_, allowing_VVG the_AT relative_JJ values_NN2 to_TO be_VBI read_VVN off_RP directly_RR ._. 
+</s>
+<s>
+In_II this_DD1 report_NN1 AutoCAD_NP1 2002_MC was_VBDZ used_VVN to_TO draw_VVI the_AT velocity_NN1 and_CC acceleration_NN1 diagrams_NN2 for_IF the_AT 4_MC bar_NN1 linkage_NN1 ._. 
+</s>
+<s>
+The_AT velocity_NN1 diagram_NN1 for_IF the_AT 4_MC bar_NN1 linkage_NN1 (_( Figure_NN1 2.2_MC )_) was_VBDZ drawn_VVN graphically_RR ,_, with_IW the_AT velocity_NN1 vector_NN1 of_IO each_DD1 bar_NN1 being_VBG calculated_VVN using_VVG Equation_NN1 2.1_MC ,_, this_DD1 vector_NN1 quantity_NN1 can_VM then_RT be_VBI drawn_VVN to_TO scale_VVI using_VVG the_AT CAD_NN1 functions_NN2 in_II AutoCAD_NP1 ._. 
+</s>
+<s>
+When_CS vector_NN1 quantities_NN2 can_VM not_XX be_VBI calculated_VVN due_II21 to_II22 unknown_JJ rotational_JJ velocities_NN2 then_RT Lines_NN2 of_IO Action_NN1 (_( LOA_NP1 )_) are_VBR used_VVN ._. 
+</s>
+<s>
+The_AT vector_NN1 quantity_NN1 of_IO the_AT links_NN2 with_IW unknown_JJ rotational_JJ velocities_NN2 can_VM be_VBI found_VVN where_CS their_APPGE relevant_JJ LOA_NN1 's_GE intersect_VV0 on_II the_AT vector_NN1 diagram_NN1 ._. 
+</s>
+<s>
+To_TO determine_VVI the_AT vector_NN1 quantity_NN1 and_CC direction_NN1 for_IF Link_NN1 AO_NP1 ,_, the_AT following_JJ procedure_NN1 was_VBDZ used_VVN ;_; with_II31 reference_II32 to_II33 Equation_NN1 2.1_MC ,_, Velocity_NN1 for_IF link_NN1 AO_NP1 can_VM be_VBI found_VVN ._. 
+</s>
+<s>
+where_RRQ ,_, AO_NP1 is_VBZ rotational_JJ velocity_NN1 of_IO link_NN1 AO_NP1 ,_, 95rpm_NNU ,_, this_DD1 value_NN1 needs_VVZ to_TO be_VBI converted_VVN into_II radians_NN2 for_IF the_AT quantity_NN1 calculation_NN1 ._. 
+</s>
+<s>
+The_AT rotation_NN1 direction_NN1 is_VBZ anticlockwise_RR using_VVG the_AT right_JJ hand_NN1 co-ordinate_VV0 system_NN1 where_CS a_AT1 positive_JJ rotation_NN1 goes_VVZ from_II +X_FO to_II +Y_FO ._. 
+</s>
+<s>
+The_AT quantity_NN1 V_II AO_NP1 can_VM be_VBI found_VVN ;_; ._. 
+</s>
+<s>
+Its_APPGE direction_NN1 is_VBZ at_II 90_MC to_II the_AT links_NN2 direction_NN1 since_CS point_NN1 O_ZZ1 of_IO the_AT Link_NN1 AO_NP1 is_VBZ fixed_VVN ._. 
+</s>
+<s>
+A_AT1 complete_JJ vector_NN1 diagram_NN1 of_IO the_AT linkage_NN1 can_VM be_VBI drawn_VVN using_VVG these_DD2 techniques_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ to_TO note_VVI here_RL that_CST this_DD1 vector_NN1 diagram_NN1 and_CC therefore_RR velocities_NN2 are_VBR relevant_JJ only_RR at_II the_AT specified_JJ input_NN1 angle_NN1 ._. 
+</s>
+<s>
+Changing_VVG the_AT angle_NN1 would_VM necessitate_VVI a_AT1 rework_NN1% of_IO the_AT vector_NN1 diagram_NN1 ._. 
+</s>
+<s>
+Full_JJ working_NN1% of_IO the_AT velocity_NN1 diagram_NN1 can_VM be_VBI seen_VVN in_RP ._. 
+</s>
+<s>
+Appendix_NN1 1_MC1 ._. 
+</s>
+<s>
+The_AT acceleration_NN1 vector_NN1 diagram_NN1 is_VBZ done_VDN in_II the_AT same_DA manner_NN1 as_CSA that_DD1 of_IO the_AT velocity_NN1 equation_NN1 ,_, using_VVG CAD_NN1 to_TO draw_VVI a_AT1 diagram_NN1 that_CST graphically_RR represents_VVZ the_AT acceleration_NN1 vectors_NN2 of_IO the_AT linkage_NN1 ._. 
+</s>
+<s>
+To_TO calculate_VVI the_AT acceleration_NN1 vector_NN1 quantities_NN2 Equation_NN1 2.2_MC is_VBZ used_VVN ._. 
+</s>
+<s>
+Each_DD1 acceleration_NN1 vector_NN1 can_VM consist_VVI of_IO up_RG21 to_RG22 4_MC separate_JJ components_NN2 shown_VVN in_II Equation_NN1 3.1_MC ._. 
+</s>
+<s>
+Equation_NN1 3.1_MC -_- Acceleration_NN1 Components_NN2 ._. 
+</s>
+<s>
+The_AT full_JJ working_VVG for_IF the_AT acceleration_NN1 diagram_NN1 can_VM be_VBI seen_VVN in_II Appendix_NN1 2_MC ._. 
+</s>
+<s>
+To_TO analyse_VVI the_AT four_MC bar_NN1 mechanism_NN1 using_VVG the_AT equations_NN2 derived_VVN from_II the_AT vector_NN1 loop_NN1 equations_NN2 the_AT spread_NN1 sheet_NN1 package_NN1 Excel_VV0 can_VM be_VBI used_VVN ._. 
+</s>
+<s>
+This_DD1 package_NN1 allows_VVZ complex_JJ mathematical_JJ functions_NN2 to_TO be_VBI evaluated_VVN according_II21 to_II22 the_AT data_NN input_NN1 into_II the_AT equations_NN2 ._. 
+</s>
+<s>
+This_DD1 allows_VVZ the_AT mechanism_NN1 to_TO be_VBI evaluated_VVN for_IF any_DD crank_NN1 angle_NN1 ,_, velocity_NN1 ,_, acceleration_NN1 or_CC force_NN1 by_II changing_VVG the_AT initial_JJ input_NN1 values_NN2 ._. 
+</s>
+<s>
+The_AT Microsoft_NP1 Excel_VV0 software_NN1 uses_VVZ cells_NN2 references_NN2 rather_II21 than_II22 constant_JJ values_NN2 ,_, this_DD1 allows_VVZ equations_NN2 to_TO reference_VVI the_AT contents_NN2 of_IO a_AT1 cell_NN1 rather_II21 than_II22 a_AT1 constant_JJ value_NN1 which_DDQ updates_VVZ each_DD1 time_NNT1 data_NN input_NN1 into_II a_AT1 cell_NN1 is_VBZ changed_VVN ._. 
+</s>
+<s>
+Figure_NN1 3.5_MC shows_VVZ a_AT1 typical_JJ screen_NN1 shot_VVN from_II the_AT Acceleration_NN1 page_NN1 of_IO the_AT mechanism_NN1 analysis_NN1 ._. 
+</s>
+<s>
+Each_DD1 cell_NN1 can_VM be_VBI assigned_VVN a_AT1 name_NN1 which_DDQ can_VM be_VBI used_VVN in_II the_AT formulas_NN2 to_TO reference_VVI a_AT1 particular_JJ cell_NN1 ._. 
+</s>
+<s>
+This_DD1 makes_VVZ the_AT spread_NN1 sheet_NN1 easier_RRR to_TO work_VVI on_RP since_CS the_AT cells_NN2 name_NN1 describes_VVZ what_DDQ value_VV0% the_AT cell_NN1 is_VBZ for_IF ._. 
+</s>
+<s>
+The_AT Kinematic_JJ data_NN for_IF position_NN1 ,_, velocity_NN1 and_CC acceleration_NN1 for_IF the_AT mechanism_NN1 can_VM be_VBI evaluated_VVN using_VVG the_AT mathematical_JJ functions_NN2 of_IO excel_VV0 such_II21 as_II22 COS_NP2 ,_, SIN_NN1 ,_, ATAN_NP1 ,_, IF_CS ,_, RADIANS_NN2 ,_, DEGREES_NN2 functions_NN2 ._. 
+</s>
+<s>
+A_AT1 description_NN1 of_IO how_RRQ these_DD2 functions_NN2 are_VBR used_VVN can_VM be_VBI found_VVN in_II the_AT help_NN1 menu_NN1 in_II Excel_VV0 ._. 
+</s>
+<s>
+The_AT force_NN1 and_CC torques_NN2 of_IO the_AT mechanism_NN1 can_VM be_VBI determined_VVN using_VVG inverse_JJ dynamic_JJ solutions_NN2 ._. 
+</s>
+<s>
+This_DD1 uses_VVZ the_AT previously_RR calculated_VVN kinematic_JJ analysis_NN1 of_IO position_NN1 ,_, velocity_NN1 and_CC acceleration_NN1 to_TO determine_VVI the_AT forces_NN2 and_CC torques_NN2 that_CST provide_VV0 the_AT designed_JJ% accelerations_NN2 ._. 
+</s>
+<s>
+A_AT1 free_JJ body_NN1 diagram_NN1 of_IO each_DD1 link_NN1 is_VBZ produced_VVN by_II applying_VVG Newton_NP1 's_GE Second_MD Law_NN1 of_IO physics_NN1 to_TO identify_VVI the_AT forces_NN2 and_CC torques_NN2 acting_VVG on_II the_AT link_NN1 ._. 
+</s>
+<s>
+From_II these_DD2 free_JJ body_NN1 diagrams_NN2 the_AT force_NN1 and_CC torque_NN1 equations_NN2 can_VM be_VBI determined_VVN ._. 
+</s>
+<s>
+These_DD2 equations_NN2 along_II21 with_II22 the_AT kinematic_JJ data_NN can_VM be_VBI put_VVN into_II a_AT1 matrix_NN1 and_CC the_AT unknown_JJ forces_NN2 and_CC torques_NN2 can_VM be_VBI solved_VVN for_IF by_II using_VVG the_AT inverse_JJ matrix_NN1 solution_NN1 ._. 
+</s>
+<s>
+The_AT inverse_JJ matrix_NN1 solution_NN1 can_VM be_VBI seen_VVN in_II Figure_NN1 3.4_MC ._. 
+</s>
+<s>
+Since_CS a_AT1 matrix_NN1 can_VM not_XX be_VBI divided_VVN ,_, the_AT inverse_NN1 is_VBZ found_VVN ,_, and_CC then_RT used_VVN to_TO multiply_VVI by_RP% ._. 
+</s>
+<s>
+The_AT full_JJ free_JJ body_NN1 diagrams_NN2 and_CC force_NN1 &;_NULL torque_NN1 equations_NN2 can_VM be_VBI seen_VVN in_II Appendix_NN1 4_MC ._. 
+</s>
+<s>
+Figure_NN1 3.4_MC -_- Inverse_JJ Matrix_NN1 Solution_NN1 ._. 
+</s>
+<s>
+Excel_VV0 has_VHZ inbuilt_JJ functions_NN2 for_IF use_NN1 in_II matrix_NN1 arithmetic_NN1 ,_, such_II21 as_II22 MINVERSE_NP1 which_DDQ returns_VVZ the_AT inverse_NN1 of_IO a_AT1 preset_JJ matrix_NN1 and_CC MMULT_VV0 which_DDQ multiplies_VVZ two_MC matrix_NN1 together_RL ._. 
+</s>
+<s>
+A_AT1 matrix_NN1 also_RR known_VVN as_II an_AT1 "_" array_NN1 "_" in_II Excel_VV0 is_VBZ a_AT1 defined_JJ set_NN1 of_IO cells_NN2 ._. 
+</s>
+<s>
+Some_DD examples_NN2 of_IO the_AT name_NN1 scheme_NN1 can_VM be_VBI seen_VVN below_RL :_: Omega3RadCross_FO This_DD1 is_VBZ the_AT angular_JJ velocity_NN1 for_IF link_NN1 3_MC or_CC BA_NN1 in_II radians_NN2 for_IF the_AT crossed_JJ configuration_NN1 ._. 
+</s>
+<s>
+Theta51RadCrossShift_FO This_DD1 is_VBZ the_AT angle_NN1 for_IF link_NN1 5_MC or_CC DP_NP1 for_IF the_AT crossed_JJ configuration_NN1 ,_, in_II radians_NN2 ,_, plus_RR% shifted_VVN by_II 90_MC (_( necessary_JJ for_IF the_AT equation_NN1 analysis_NN1 )_) ._. 
+</s>
+<s>
+AccCAcentOpen_VV0 This_DD1 is_VBZ the_AT centripetal_JJ acceleration_NN1 ,_, component_NN1 for_IF point_NN1 C_ZZ1 with_II31 respect_II32 to_II33 A_ZZ1 in_II the_AT open_JJ configuration_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR possible_JJ to_TO plot_VVI the_AT results_NN2 of_IO the_AT calculations_NN2 which_DDQ gives_VVZ a_AT1 graphical_JJ representation_NN1 of_IO mechanism_NN1 ._. 
+</s>
+<s>
+This_DD1 section_NN1 displays_VVZ the_AT results_NN2 found_VVD using_VVG all_DB three_MC methods_NN2 ,_, with_IW a_AT1 comparison_NN1 of_IO the_AT results_NN2 section_NN1 in_II Table_NN1 4.1_MC ._. 
+</s>
+<s>
+Working_VVG model_NN1 allows_VVZ each_DD1 element_NN1 of_IO the_AT model_NN1 to_TO be_VBI measured_VVN in_II various_JJ ways_NN2 ,_, such_II21 as_II22 it_PPH1 's_VBZ X-Y_FO components_NN2 ,_, link_VV0 angle_NN1 ,_, force_NN1 on_II link_NN1 etc_RA ._. 
+</s>
+<s>
+Screen_NN1 shots_NN2 of_IO the_AT complete_JJ set_NN1 of_IO results_NN2 taken_VVN from_II working_VVG model_NN1 can_VM be_VBI seen_VVN in_II Appendix_NN1 5_MC ,_, and_CC are_VBR summarised_VVN in_II Table_NN1 4.1_MC ._. 
+</s>
+<s>
+The_AT results_NN2 for_IF the_AT graphical_JJ method_NN1 were_VBDR measured_VVN using_VVG the_AT dimension_NN1 command_NN1 in_II AutoCAD_NP1 ._. 
+</s>
+<s>
+For_IF the_AT purpose_NN1 of_IO this_DD1 report_NN1 the_AT dimension_NN1 accuracy_NN1 was_VBDZ set_VVN to_II 4_MC decimal_JJ places_NN2 ._. 
+</s>
+<s>
+Figure_NN1 4.1_MC &;_NULL Figure_NN1 4.2_MC show_VV0 the_AT velocity_NN1 and_CC acceleration_NN1 diagrams_NN2 respectively_RR ,_, with_IW the_AT quantitive_JJ values_NN2 relative_II21 to_II22 stationary_JJ points_NN2 O_ZZ1 ,_, P_ZZ1 or_CC Q._NP1 Note_VV0 that_CST these_DD2 diagrams_NN2 allow_VV0 measurements_NN2 between_II relative_JJ points_NN2 very_RG easily_RR by_II simply_RR measuring_VVG the_AT distance_NN1 between_II the_AT two_MC points_NN2 ._. 
+</s>
+<s>
+Since_CS the_AT distances_NN2 are_VBR a_AT1 scalar_JJ representative_NN1 of_IO the_AT point_NN1 value_NN1 ._. 
+</s>
+<s>
+All_DB the_AT relevant_JJ data_NN calculated_VVN in_II the_AT excel_VV0 workbook_NN1 are_VBR summaries_NN2 on_II the_AT first_MD sheet_NN1 of_IO the_AT workbook_NN1 ,_, a_AT1 print_NN1 of_IO these_DD2 results_NN2 can_VM be_VBI found_VVN in_II Appendix_NN1 6_MC ._. 
+</s>
+<s>
+The_AT results_NN2 from_II the_AT 3_MC different_JJ methods_NN2 have_VH0 been_VBN gathered_VVN together_RL and_CC are_VBR displayed_VVN in_II Table_NN1 4.1_MC ._. 
+</s>
+<s>
+AutoCAD_NN1 2D_NNU software_NN1 is_VBZ almost_RR an_AT1 industry_NN1 standard_NN1 cad_NN1 package_NN1 marketed_VVN by_II AutoDesk_NP1 ._. 
+</s>
+<s>
+Many_DA2 thousands_NNO2 of_IO seats_NN2 have_VH0 been_VBN sold_VVN for_IF the_AT software_NN1 ,_, which_DDQ is_VBZ used_VVN in_II a_AT1 wide_JJ variety_NN1 of_IO applications_NN2 ._. 
+</s>
+<s>
+The_AT software_NN1 was_VBDZ used_VVN in_II31 conjunction_II32 with_II33 basic_JJ velocity_NN1 and_CC acceleration_NN1 theory_NN1 to_TO produce_VVI Velocity_NN1 and_CC Acceleration_NN1 vector_NN1 diagrams_NN2 with_IW scalar_JJ lengths_NN2 that_CST represented_VVD the_AT velocity_NN1 or_CC acceleration_NN1 of_IO the_AT relevant_JJ link_NN1 ._. 
+</s>
+<s>
+Only_RR a_AT1 basic_JJ working_JJ knowledge_NN1 is_VBZ needed_VVN in_BCL21 order_BCL22 to_TO produce_VVI the_AT relevant_JJ diagrams_NN2 ._. 
+</s>
+<s>
+The_AT CAD_NN1 system_NN1 allows_VVZ configurations_NN2 to_TO be_VBI drawn_VVN quickly_RR and_CC efficiently_RR with_IW minimum_NN1 of_IO configuration_NN1 data_NN ._. 
+</s>
+<s>
+Link_VV0 lengths_NN2 and_CC angles_NN2 can_VM be_VBI measured_VVN off_RP easily_RR using_VVG the_AT inbuilt_JJ measurement_NN1 tools_NN2 ._. 
+</s>
+<s>
+The_AT simple_JJ graphical_JJ interface_NN1 allows_VVZ the_AT user_NN1 to_TO create_VVI kinematic_JJ vector_NN1 diagrams_NN2 that_CST accurately_RR represent_VV0 the_AT mechanism_NN1 characteristics_NN2 and_CC display_VV0 it_PPH1 in_II a_AT1 simple_JJ and_CC easy_JJ to_TO comprehend_VVI graphical_JJ layout_NN1 ._. 
+</s>
+<s>
+However_RRQV the_AT diagrams_NN2 only_RR represent_VV0 the_AT kinematic_JJ data_NN for_IF that_DD1 specific_JJ mechanism_NN1 configuration_NN1 ._. 
+</s>
+<s>
+This_DD1 necessitates_VVZ redrawing_VVG the_AT vector_NN1 diagrams_NN2 for_IF different_JJ system_NN1 configurations_NN2 ._. 
+</s>
+<s>
+Studying_VVG the_AT AutoCAD_NP1 results_NN2 summarised_VVN in_II Table_NN1 4.1_MC indicate_VV0 that_CST the_AT graphical_JJ method_NN1 is_VBZ indeed_RR an_AT1 acceptable_JJ method_NN1 in_II31 terms_II32 of_II33 accuracy_NN1 ._. 
+</s>
+<s>
+This_DD1 method_NN1 is_VBZ the_AT least_RGT accurate_JJ of_IO the_AT three_MC methods_NN2 ,_, primarily_RR due_II21 to_II22 the_AT measurements_NN2 being_VBG graphically_RR based_VVN and_CC therefore_RR is_VBZ only_RR as_CSA accurate_JJ the_AT person_NN1 constructing_VVG the_AT diagram_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ however_RR still_RR accurate_JJ typical_JJ to_II 1_MC1 decimal_JJ place_NN1 compared_VVN to_II the_AT other_JJ two_MC methods_NN2 ._. 
+</s>
+<s>
+Note_VV0 also_RR that_CST this_DD1 method_NN1 is_VBZ unable_JK to_TO predict_VVI the_AT forces_NN2 acting_VVG on_II the_AT mechanism_NN1 linkages/joints_NN2 which_DDQ is_VBZ a_AT1 major_JJ disadvantage_NN1 in_II31 terms_II32 of_II33 overall_JJ mechanism_NN1 analysis_NN1 as_CSA it_PPH1 provides_VVZ no_AT information_NN1 on_II the_AT likely_JJ required_JJ strength_NN1 of_IO the_AT mechanism_NN1 components_NN2 ._. 
+</s>
+<s>
+The_AT software_NN1 would_VM require_VVI training_NN1 for_IF the_AT employees_NN2 to_TO be_VBI able_JK to_TO produce_VVI the_AT vector_NN1 diagrams_NN2 and_CC the_AT purchase_NN1 of_IO the_AT software_NN1 would_VM necessitate_VVI a_AT1 large_JJ initial_JJ outlay_NN1 for_IF the_AT company_NN1 ._. 
+</s>
+<s>
+The_AT software_NN1 that_CST was_VBDZ used_VVN in_II this_DD1 report_NN1 was_VBDZ Microsoft_NP1 Excel_VV0 which_DDQ is_VBZ a_AT1 component_NN1 of_IO Microsoft_NP1 Office_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT software_NN1 is_VBZ available_JJ in_II a_AT1 vast_JJ majority_NN1 of_IO companies_NN2 ._. 
+</s>
+<s>
+The_AT software_NN1 is_VBZ powerful_JJ spread_NN1 sheet_NN1 package_NN1 that_CST is_VBZ well_RR suited_VVN to_II the_AT kinematic_JJ and_CC Force_NN1 analysis_NN1 for_IF the_AT mechanisms_NN2 ._. 
+</s>
+<s>
+The_AT software_NN1 implements_VVZ the_AT complex_JJ vector_NN1 equations_NN2 to_TO calculate_VVI the_AT various_JJ kinematic_JJ data_NN for_IF the_AT four_MC bar_NN1 mechanism_NN1 ._. 
+</s>
+<s>
+These_DD2 equations_NN2 are_VBR mathematically_RR modelled_VVN using_VVG the_AT inbuilt_JJ math_NN1 functions_NN2 of_IO Excel_VV0 ._. 
+</s>
+<s>
+The_AT software_NN1 also_RR allows_VVZ data_NN to_TO be_VBI represented_VVN graphically_RR with_IW the_AT use_NN1 of_IO various_JJ chart_NN1 types_NN2 (_( see_VV0 Figure_NN1 3.6_MC )_) ._. 
+</s>
+<s>
+The_AT software_NN1 can_VM also_RR perform_VVI a_AT1 complete_JJ force_NN1 analysis_NN1 by_II solving_VVG the_AT simultaneous_JJ equations_NN2 derived_VVN by_II applying_VVG Newton_NP1 's_GE 2_MC nd_NNU Law_NN1 to_II the_AT four_MC bar_NN1 mechanism_NN1 ._. 
+</s>
+<s>
+The_AT simultaneous_JJ equations_NN2 can_VM be_VBI solved_VVN by_II matrix_NN1 methods_NN2 ,_, which_DDQ Excel_VV0 has_VHZ inbuilt_JJ commands_NN2 for_IF ._. 
+</s>
+<s>
+Comparing_VVG the_AT result_NN1 from_II the_AT spread_NN1 sheet_NN1 to_II the_AT other_JJ two_MC methods_NN2 shows_VVZ high_JJ accuracy_NN1 ._. 
+</s>
+<s>
+The_AT values_NN2 agree_VV0 with_IW the_AT working_JJ model_NN1 results_NN2 typically_RR to_II within_II 2_MC decimal_JJ places_NN2 ,_, with_IW the_AT exception_NN1 of_IO the_AT acceleration_NN1 of_IO point_NN1 D_ZZ1 which_DDQ varies_VVZ from_II the_AT other_JJ two_MC methods_NN2 value_NN1 by_II approximately_RR 0.945rads_FO -2_MC ._. 
+</s>
+<s>
+This_DD1 variation_NN1 is_VBZ most_RGT likely_RR caused_VVN by_II a_AT1 calculation_NN1 error_NN1 somewhere_RL within_II the_AT worksheet_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT values_NN2 given_VVN by_II other_JJ two_MC methods_NN2 (_( working_VVG model_NN1 &;_NULL AutoCAD_NP1 )_) are_VBR very_RG similar_JJ ._. 
+</s>
+<s>
+Unfortunately_RR at_II the_AT time_NNT1 of_IO writing_VVG this_DD1 error_NN1 had_VHD not_XX been_VBN resolved_VVN ._. 
+</s>
+<s>
+The_AT construction_NN1 of_IO the_AT spread_NN1 sheet_NN1 is_VBZ very_JJ labour_NN1 intensive_JJ ,_, requiring_VVG an_AT1 in_II depth_NN1 knowledge_NN1 of_IO the_AT theory_NN1 of_IO kinematic_JJ &;_NULL force_NN1 analysis_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR prone_JJ to_II errors_NN2 and_CC can_VM be_VBI long_RR winded_VVN to_TO find_VVI bugs_NN2 in_II the_AT program_NN1 ._. 
+</s>
+<s>
+However_RGQV once_RR the_AT spread_NN1 sheet_NN1 has_VHZ been_VBN constructed_VVN and_CC tested_VVN the_AT software_NN1 is_VBZ possibly_RR the_AT easiest_JJT of_IO the_AT 3_MC methods_NN2 to_TO implement_VVI ,_, since_CS all_DB that_DD1 is_VBZ required_VVN by_II the_AT user_NN1 to_TO perform_VVI a_AT1 detailed_JJ analysis_NN1 of_IO the_AT system_NN1 is_VBZ so_RG simply_RR input_VV0 the_AT mechanism_NN1 configuration_NN1 data_NN ._. 
+</s>
+<s>
+The_AT spread_NN1 sheet_NN1 can_VM be_VBI configured_VVN to_TO only_RR allow_VVI input_NN1 data_NN cells_NN2 to_TO be_VBI accessible_JJ to_II the_AT user_NN1 ._. 
+</s>
+<s>
+Once_CS the_AT input_NN1 data_NN is_VBZ entered_VVN in_RP to_II the_AT relevant_JJ cells_NN2 in_II the_AT spread_NN1 sheet_NN1 the_AT analysis_NN1 of_IO the_AT mechanism_NN1 is_VBZ done_VDN instantaneously_RR and_CC the_AT results_NN2 can_VM be_VBI printed_VVN out_RP within_II seconds_NNT2 of_IO entering_VVG the_AT data_NN ._. 
+</s>
+<s>
+This_DD1 is_VBZ something_PN1 that_CST the_AT other_JJ methods_NN2 are_VBR not_XX capable_JJ of_IO doing_VDG ._. 
+</s>
+<s>
+The_AT software_NN1 used_VVN for_IF the_AT analysis_NN1 of_IO the_AT mechanism_NN1 was_VBDZ Working_VVG Model_NN1 ._. 
+</s>
+<s>
+This_DD1 a_AT1 2D_NNU motion_NN1 simulation_NN1 package_NN1 ._. 
+</s>
+<s>
+It_PPH1 allows_VVZ the_AT designer_NN1 to_TO create_VVI simulations_NN2 of_IO real_JJ life_NN1 mechanical_JJ systems_NN2 ._. 
+</s>
+<s>
+The_AT software_NN1 utilises_VVZ a_AT1 graphical_JJ CAD_NN1 user_NN1 interface_NN1 which_DDQ is_VBZ used_VVN to_TO build_VVI up_RP a_AT1 2D_NNU model_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 can_VV0% them_PPHO2 be_VBI analysed_VVN with_IW fully_RR configurable_JJ input_NN1 conditions_NN2 such_II21 as_II22 external_JJ Masses_NN2 ,_, Forces_NN2 ,_, Torques_NN2 etc_RA ._. 
+</s>
+<s>
+Input_NN1 conditions_NN2 such_II21 as_II22 input_NN1 velocity_NN1 and_CC acceleration_NN1 can_VM also_RR be_VBI applied_VVN to_II the_AT system_NN1 which_DDQ is_VBZ then_RT analysed_VVN by_II the_AT software_NN1 ._. 
+</s>
+<s>
+Each_DD1 component_NN1 of_IO the_AT model_NN1 can_VM then_RT be_VBI analysed_VVN by_II measuring_VVG the_AT required_JJ data_NN via_II the_AT inbuilt_JJ measurement_NN1 tools_NN2 ._. 
+</s>
+<s>
+This_DD1 data_NN is_VBZ presented_VVN in_II a_AT1 small_JJ results_NN2 dialogue_NN1 box_NN1 in_II the_AT CAD_NN1 window_NN1 ._. 
+</s>
+<s>
+The_AT data_NN output_NN1 type_NN1 is_VBZ user_NN1 selectable_JJ (_( e.g_REX X_ZZ1 &;_NULL Y_ZZ1 components_NN2 ,_, Vector_NN1 &;_NULL angular_JJ components_NN2 etc_RA )_) along_II this_DD1 the_AT displayed_JJ units_NN2 ._. 
+</s>
+<s>
+The_AT data_NN can_VM also_RR be_VBI exported_VVN to_TO enable_VVI data_NN analysis_NN1 outside_II21 of_II22 the_AT software_NN1 ._. 
+</s>
+<s>
+The_AT software_NN1 is_VBZ able_JK to_TO step_VVI through_II each_DD1 mechanism_NN1 configuration_NN1 and_CC readout_VVI the_AT kinematic_JJ and_CC force_NN1 data_NN for_IF that_DD1 given_JJ configuration_NN1 ._. 
+</s>
+<s>
+The_AT resolution_NN1 of_IO the_AT analysis_NN1 is_VBZ user_NN1 configurable_JJ ,_, (_( i.e_REX in_II the_AT case_NN1 of_IO the_AT four_MC bar_NN1 mechanism_NN1 the_AT step_NN1 increment_NN1 for_IF the_AT driven_JJ link_NN1 can_VM be_VBI varied_VVN ,_, as_CSA described_VVN in_II section_NN1 3.1.2_MC )_) ._. 
+</s>
+<s>
+It_PPH1 is_VBZ advantageous_JJ to_TO keep_VVI different_JJ files_NN2 for_IF each_DD1 component_NN1 being_VBG measure_NN1 on_II the_AT mechanism_NN1 to_TO prevent_VVI the_AT CAD_NN1 window_NN1 from_II becoming_VVG cluttered_JJ ._. 
+</s>
+<s>
+The_AT software_NN1 is_VBZ simple_JJ to_TO use_VVI due_II21 to_II22 its_APPGE simple_JJ user_NN1 interface_NN1 ,_, the_AT inbuilt_JJ help_NN1 files_NN2 provide_VVI useful_JJ descriptions_NN2 of_IO the_AT various_JJ functions_NN2 of_IO the_AT software_NN1 in_II a_AT1 easily_RR comprehendible_JJ manner_NN1 ._. 
+</s>
+<s>
+An_AT1 advantage_NN1 of_IO the_AT software_NN1 is_VBZ that_CST the_AT user_NN1 does_VDZ not_XX need_VVI an_AT1 in_II depth_NN1 knowledge_NN1 of_IO mechanism_NN1 analysis_NN1 in_BCL21 order_BCL22 to_TO perform_VVI a_AT1 detailed_JJ analysis_NN1 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ minimal_JJ amount_NN1 of_IO training_NN1 is_VBZ required_VVN ._. 
+</s>
+<s>
+The_AT cost_NN1 of_IO purchasing_NN1 and_CC further_JJR training_NN1 would_VM be_VBI a_AT1 major_JJ factor_NN1 in_II the_AT decision_NN1 of_IO which_DDQ method_NN1 to_TO employ_VVI within_II the_AT company_NN1 ._. 
+</s>
+<s>
+The_AT Force_NN1 &;_NULL Torque_NN1 values_NN2 from_II Working_VVG Model_NN1 and_CC Excel_VV0 summarised_VVN in_II Table_NN1 4.1_MC ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI seen_VVN that_CST the_AT results_NN2 vary_VV0 greatly_RR between_II the_AT two_MC methods_NN2 ,_, the_AT free_JJ body_NN1 diagrams_NN2 derived_VVN for_IF the_AT first_MD four_MC bar_NN1 linkage_NN1 shown_VVN in_II Appendix_NN1 4_MC have_VH0 been_VBN solved_VVN using_VVG matrix_NN1 solutions_NN2 ._. 
+</s>
+<s>
+Although_CS the_AT resultant_JJ force_NN1 data_NN is_VBZ deemed_VVN to_TO be_VBI incorrect_JJ the_AT theory_NN1 has_VHZ been_VBN applied_VVN correctly_RR ,_, therefore_RR the_AT errors_NN2 must_VM results_NN2 from_II the_AT transferring_NN1 of_IO theoretical_JJ equations_NN2 into_II the_AT spread_NN1 sheet_NN1 itself_PPX1 ._. 
+</s>
+<s>
+Additional_JJ time_NNT1 spent_VVN debugging_VVG the_AT separate_JJ sections_NN2 to_TO resolve_VVI these_DD2 errors_NN2 would_VM produce_VVI a_AT1 powerful_JJ mechanism_NN1 analysis_NN1 tool_NN1 ._. 
+</s>
+<s>
+Having_VHG critically_RR examined_VVN each_DD1 method_NN1 for_IF the_AT purpose_NN1 of_IO mechanism_NN1 analysis_NN1 it_PPH1 is_VBZ the_AT conclusion_NN1 of_IO this_DD1 report_NN1 that_CST the_AT most_RGT suitable_JJ method_NN1 is_VBZ the_AT Excel_VV0 spread_NN1 sheet_NN1 ._. 
+</s>
+<s>
+Provided_CS21 that_CS22 the_AT spread_NN1 sheet_NN1 is_VBZ constructed_VVN correctly_RR ,_, thoroughly_RR tested_VVN and_CC proved_VVN to_TO be_VBI correct_JJ ,_, this_DD1 is_VBZ a_AT1 very_RG effective_JJ method_NN1 ._. 
+</s>
+<s>
+This_DD1 method_NN1 meets_VVZ all_DB the_AT requirements_NN2 specified_VVN from_II the_AT out_RP set_NN1 which_DDQ were_VBDR :_: Good_JJ accuracy_NN1 ._. 
+</s>
+<s>
+Easy_JJ to_TO use_VVI ._. 
+</s>
+<s>
+Minimal_JJ training_NN1 requirements_NN2 -_- The_AT spread_NN1 sheet_NN1 requires_VVZ little_DA1 previous_JJ engineering_NN1 knowledge_NN1 of_IO mechanisms_NN2 and_CC only_RR very_RG minimal_JJ training_NN1 in_II the_AT use_NN1 of_IO Excel_VV0 itself_PPX1 ._. 
+</s>
+<s>
+Cost_VV0 effective_JJ -_- Most_DAT companies_NN2 own_VV0 the_AT software_NN1 as_II part_NN1 of_IO Microsoft_NP1 office_NN1 ,_, however_RRQV it_PPH1 can_VM be_VBI purchased_VVN as_II a_AT1 separate_JJ module_NN1 for_IF a_AT1 small_JJ initial_JJ cost_NN1 ._. 
+</s>
+<s>
+No_AT further_JJR charges_NN2 would_VM be_VBI necessary_JJ ._. 
+</s>
+<s>
+Quick_JJ mechanism_NN1 analysis_NN1 -_- Only_RR the_AT mechanism_NN1 configuration_NN1 needs_VVZ to_TO be_VBI entered_VVN into_II the_AT configuration_NN1 sheet_NN1 in_II the_AT workbook_NN1 ,_, from_II which_DDQ a_AT1 full_JJ and_CC in-depth_JJ mechanism_NN1 analysis_NN1 is_VBZ produced_VVN ,_, all_RR collected_VVN in_II the_AT summary_NN1 sheet_NN1 of_IO the_AT workbook_NN1 ._. 
+</s>

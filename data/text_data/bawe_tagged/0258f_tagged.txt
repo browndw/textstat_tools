@@ -1,0 +1,867 @@
+<s>
+Fraud_NN1 is_VBZ increasing_VVG dramatically_RR with_IW the_AT expansion_NN1 of_IO modern_JJ technology_NN1 and_CC the_AT global_JJ superhighways_NN2 of_IO communication_NN1 ,_, resulting_VVG in_II the_AT loss_NN1 of_IO billions_NNO2 of_IO pounds_NN2 worldwide_RL each_DD1 year_NNT1 ._. 
+</s>
+<s>
+Although_CS prevention_NN1 technologies_NN2 are_VBR the_AT best_JJT way_NN1 to_TO reduce_VVI fraud_NN1 ,_, fraudsters_NN2 are_VBR adaptive_JJ and_CC ,_, given_JJ time_NNT1 ,_, will_VM usually_RR find_VVI ways_NN2 to_TO circumvent_VVI such_DA measures_NN2 ._. 
+</s>
+<s>
+Methodologies_NN2 for_IF the_AT detection_NN1 of_IO fraud_NN1 are_VBR essential_JJ if_CS we_PPIS2 are_VBR to_TO catch_VVI fraudsters_NN2 once_RR fraud_NN1 prevention_NN1 has_VHZ failed_VVN ._. 
+</s>
+<s>
+Authorisation_NN1 and_CC Validation_NN1 of_IO online_JJ payments_NN2 has_VHZ always_RR been_VBN a_AT1 week_NNT1 process_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 project_NN1 ,_, my_APPGE aim_NN1 was_VBDZ to_TO design_VVI a_AT1 new_JJ model_NN1 to_TO carry_VVI out_RP online_JJ transactions_NN2 in_II a_AT1 most_RGT secure_JJ and_CC user-friendly_JJ environment_NN1 ._. 
+</s>
+<s>
+It_PPH1 includes_VVZ strong_JJ authentication_NN1 and_CC fraud_NN1 detection_NN1 capabilities_NN2 aiming_VVG to_TO detect_VVI fraudulent_JJ transaction_NN1 at_II early_JJ stages_NN2 ._. 
+</s>
+<s>
+It_PPH1 also_RR provides_VVZ a_AT1 transactional_JJ management_NN1 system_NN1 aimed_VVD to_TO provide_VVI transaction_NN1 management_NN1 features_NN2 to_II merchants_NN2 ._. 
+</s>
+<s>
+Keywords_NN2 -_- Fraud_NN1 detection_NN1 ,_, fraud_NN1 prevention_NN1 ,_, statistics_NN ,_, machine_NN1 learning_NN1 ,_, money_NN1 laundering_NN1 ,_, computer_NN1 intrusion_NN1 ,_, e-commerce_NN1 ,_, credit_NN1 cards_NN2 ._. 
+</s>
+<s>
+The_AT report_NN1 documents_VVZ the_AT design_NN1 ,_, development_NN1 ,_, testing_VVG and_CC deployment_NN1 stages_NN2 of_IO the_AT model_NN1 Secure_JJ Transactions_NN2 Framework_NN1 ._. 
+</s>
+<s>
+This_DD1 report_NN1 is_VBZ detailed_JJ account_NN1 of_IO how_RRQ the_AT project_NN1 was_VBDZ conducted_VVN and_CC the_AT chronological_JJ stages_NN2 of_IO the_AT software_NN1 development_NN1 process_NN1 ._. 
+</s>
+<s>
+This_DD1 report_NN1 is_VBZ not_XX a_AT1 manual_NN1 for_IF the_AT correct_JJ use_NN1 of_IO the_AT model_NN1 parts_NN2 but_CCB a_AT1 scientific_JJ document_NN1 that_CST outlines_NN2 the_AT development_NN1 of_IO the_AT project_NN1 from_II beginning_VVG till_II the_AT end_NN1 ._. 
+</s>
+<s>
+The_AT report_NN1 firstly_RR explains_VVZ the_AT e-commerce_NN1 and_CC online_JJ shopping_NN1 background_NN1 and_CC moving_VVG further_RRR to_II what_DDQ do_VD0 we_PPIS2 understand_VVI by_II the_AT terms_NN2 Fraud_NN1 ,_, Fraud_NN1 Prevention_NN1 and_CC Fraud_NN1 Detection_NN1 techniques_NN2 ._. 
+</s>
+<s>
+The_AT report_NN1 then_RT shows_VVZ information_NN1 from_II various_JJ sources_NN2 to_TO provide_VVI the_AT reader_NN1 with_IW the_AT necessary_JJ information_NN1 to_TO appreciate_VVI the_AT need_NN1 of_IO this_DD1 new_JJ system_NN1 ._. 
+</s>
+<s>
+The_AT report_NN1 then_RT proceeds_VVZ to_TO describe_VVI the_AT current_JJ transactional_JJ model_NN1 and_CC the_AT new_JJ transactional_JJ model_NN1 designed_VVN in_II the_AT project_NN1 ._. 
+</s>
+<s>
+It_PPH1 also_RR discusses_VVZ the_AT technology_NN1 used_VVN behind_II implementation_NN1 of_IO the_AT model_NN1 ._. 
+</s>
+<s>
+The_AT report_NN1 then_RT outlines_NN2 the_AT database_NN1 design_NN1 used_VVN in_II the_AT project_NN1 ,_, providing_VVG design_NN1 views_NN2 of_IO each_DD1 database_NN1 structure_NN1 ._. 
+</s>
+<s>
+It_PPH1 then_RT proceeds_VVZ on_II discussing_VVG the_AT online_JJ system_NN1 ,_, fraud_NN1 management_NN1 system_NN1 and_CC security_NN1 features_NN2 implemented_VVN in_II this_DD1 project_NN1 ._. 
+</s>
+<s>
+It_PPH1 then_RT provides_VVZ information_NN1 on_II features_NN2 designed_VVN in_II desktop_NN1 application_NN1 for_IF the_AT merchants_NN2 ._. 
+</s>
+<s>
+The_AT report_NN1 closes_VVZ with_IW a_AT1 self-assessment_NN1 of_IO the_AT planning_NN1 ,_, management_NN1 and_CC overall_JJ development_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+This_DD1 sheds_VVZ light_NN1 on_II what_DDQ has_VHZ been_VBN learnt_VVN throughout_II the_AT project_NN1 in_II31 terms_II32 of_II33 developed_JJ skills_NN2 ,_, acquired_VVD knowledge_NN1 and_CC the_AT personal_JJ opinion_NN1 and_CC perspective_NN1 of_IO the_AT modern_JJ day_NNT1 computing_NN1 that_CST has_VHZ been_VBN challenged_VVN ._. 
+</s>
+<s>
+In_II recent_JJ years_NNT2 ,_, the_AT online_JJ computing_NN1 environment_NN1 has_VHZ afforded_VVN exciting_JJ new_JJ opportunities_NN2 to_TO buy_VVI and_CC sell_VVI goods_NN2 and_CC services_NN2 for_IF both_RR businesses_NN2 and_CC individuals_NN2 ._. 
+</s>
+<s>
+In_II the_AT United_NP1 Kingdom_NP1 ,_, the_AT number_NN1 of_IO people_NN making_VVG Internet_NN1 card_NN1 payments_NN2 (_( using_VVG credit_NN1 or_CC debit_VV0 card_NN1 )_) increased_VVD 50_MC percent_NNU between_II 2003_MC and_CC 2004_MC to_II 20_MC million_NNO (_( APACS_NN2 2004_MC )_) ._. 
+</s>
+<s>
+Nearly_RR 15_MC million_NNO people_NN in_II the_AT UK_NP1 now_RT use_VV0 the_AT Internet_NN1 to_TO access_VVI their_APPGE bank_NN1 accounts_NN2 ,_, and_CC millions_NNO2 more_RGR regularly_RR shop_VV0 online_RR ._. 
+</s>
+<s>
+This_DD1 growing_JJ customer_NN1 use_NN1 of_IO the_AT Internet_NN1 and_CC credit_NN1 cards_NN2 has_VHZ provided_VVN businesses_NN2 with_IW chance_NN1 to_TO expand_VVI their_APPGE customer_NN1 bases_NN2 provide_VV0 quicker_RRR and_CC more_RGR efficient_JJ services_NN2 and_CC reduce_VV0 overheads_NN2 ._. 
+</s>
+<s>
+With_IW such_DA a_AT1 dramatic_JJ uptake_NN1 of_IO online_JJ shopping_NN1 ,_, however_RR ,_, have_VH0 come_VVN increased_JJ risks_NN2 of_IO online_JJ credit_NN1 card_NN1 fraud_NN1 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, businesses_NN2 that_CST provide_VV0 online_JJ shopping_NN1 are_VBR more_RGR vulnerable_JJ than_CSN ever_RR before_RT to_II the_AT risk_NN1 of_IO credit_NN1 card_NN1 fraud_NN1 and_CC associated_JJ loose_JJ ._. 
+</s>
+<s>
+According_II21 to_II22 Card_NN1 Watch_VV0 the_AT Plastic_NN1 card_NN1 fraud_NN1 losses_NN2 on_II UK-issued_JJ cards_NN2 from_II 1995_MC -_- 2004_MC have_VH0 risen_VVN to_II 504.8_MC million_NNO ._. 
+</s>
+<s>
+The_AT financial_JJ cost_NN1 to_II cardholders_NN2 of_IO card_NN1 fraud_NN1 is_VBZ largely_RR borne_VVN by_II the_AT banking_NN1 industry_NN1 ,_, but_CCB the_AT personal_JJ cost_NN1 in_II time_NNT1 ,_, inconvenience_NN1 and_CC frustration_NN1 while_CS an_AT1 incident_NN1 is_VBZ investigated_VVN -_- being_VBG without_IW cards_NN2 ,_, waiting_VVG for_IF fraudulent_JJ expenditure_NN1 to_TO be_VBI reversed_VVN or_CC offset_VVD ,_, the_AT sense_NN1 of_IO violation_NN1 -_- is_VBZ immeasurable_JJ ._. 
+</s>
+<s>
+So_RR ,_, I_PPIS1 believe_VV0 there_EX is_VBZ a_AT1 need_NN1 for_IF a_AT1 new_JJ system_NN1 which_DDQ could_VM reduce_VVI the_AT amount_NN1 of_IO money_NN1 lost_VVN due_II21 to_II22 online_JJ fraud_NN1 and_CC make_VV0 online_JJ shoppers_NN2 more_RGR confident_JJ while_CS doing_VDG online_RR shopping_VVG from_II anywhere_RL in_II the_AT world_NN1 ._. 
+</s>
+<s>
+Even_RR as_CSA innovative_JJ business_NN1 models_NN2 and_CC impressive_JJ advances_NN2 in_II technology_NN1 fuel_NN1 industry_NN1 's_GE vision_NN1 of_IO the_AT Internet_NN1 as_II a_AT1 dynamic_JJ medium_NN1 of_IO commerce_NN1 and_CC communication_NN1 ,_, security_NN1 issues_NN2 continues_VVZ to_TO weaken_VVI confidence_NN1 in_II online_JJ business_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT most_RGT vexing_JJ and_CC serious_JJ security_NN1 issues_NN2 is_VBZ related_VVN to_II identity_NN1 verification_NN1 ._. 
+</s>
+<s>
+If_CS users_NN2 and_CC devices_NN2 accessing_VVG the_AT networks_NN2 are_VBR not_XX properly_RR identified_VVN ,_, enterprise_NN1 risk_NN1 exposure_NN1 to_II threats_NN2 like_II fraud_NN1 ,_, identity_NN1 theft_NN1 etc_RA ._. 
+</s>
+<s>
+The_AT project_NN1 aims_VVZ to_TO solve_VVI this_DD1 problem_NN1 by_II offer_NN1 strong_JJ authentication_NN1 methods_NN2 using_VVG Windows_NP1 Forms_NN2 and_CC SMS_NP1 technology_NN1 to_TO identify_VVI the_AT user_NN1 ._. 
+</s>
+<s>
+After_CS in-depth_JJ research_NN1 Neural_NN1 Networks_NN2 algorithms_NN2 combined_VVN with_IW Data_NN Mining_NN1 has_VHZ been_VBN used_VVN to_TO identify_VVI fraudulent_JJ transactions_NN2 at_II early_JJ stages_NN2 ._. 
+</s>
+<s>
+To_TO accommodate_VVI diverse_JJ usage_NN1 scenarios_NN2 ,_, enterprises_NN2 frequently_RR deploy_VV0 multiple_JJ authentication_NN1 and_CC detection_NN1 mechanism_NN1 ._. 
+</s>
+<s>
+Because_CS these_DD2 solutions_NN2 rely_VV0 on_II proprietary_JJ hardware_NN1 ,_, protocols_NN2 and_CC middleware_NN1 ,_, they_PPHS2 do_VD0 not_XX interoperate_VVI easily_RR with_IW other_JJ products_NN2 ._. 
+</s>
+<s>
+The_AT project_NN1 aims_VVZ to_TO offer_VVI an_AT1 interoperable_JJ solution_NN1 to_II online_JJ problem_NN1 ,_, so_CS21 that_CS22 solution_NN1 can_VM easily_RR be_VBI integrated_VVN with_IW any_DD other_JJ solutions_NN2 to_TO further_RRR extend_VVI the_AT model_NN1 ._. 
+</s>
+<s>
+Financial_JJ sector_NN1 and_CC the_AT use_NN1 of_IO technology_NN1 in_II that_DD1 sector_NN1 has_VHZ been_VBN a_AT1 personal_JJ interest_NN1 since_CS I_PPIS1 was_VBDZ a_AT1 kid_NN1 ._. 
+</s>
+<s>
+I_PPIS1 have_VH0 always_RR been_VBN impressed_VVN with_IW the_AT way_NN1 technology_NN1 have_VH0 transformed_VVN this_DD1 sector_NN1 from_II those_DD2 fish-market_JJ like_II trading_VVG floors_NN2 to_II tranquil_JJ floors_NN2 ._. 
+</s>
+<s>
+I_PPIS1 have_VH0 also_RR been_VBN interested_JJ in_II technical_JJ challenges_NN2 the_AT financial_JJ industry_NN1 been_VBN facing_VVG these_DD2 days_NNT2 ._. 
+</s>
+<s>
+The_AT project_NN1 idea_NN1 was_VBDZ conceived_VVN when_CS I_PPIS1 was_VBDZ working_VVG in_II British_JJ Telecommunication_NN1 ._. 
+</s>
+<s>
+For_IF academic_JJ year_NNT1 2004-2005_MCMC I_PPIS1 did_VDD an_AT1 Industrial_JJ placement_NN1 ,_, which_DDQ has_VHZ been_VBN a_AT1 great_JJ learning_NN1 exposure_NN1 for_IF me_PPIO1 ._. 
+</s>
+<s>
+The_AT year_NNT1 gave_VVD me_PPIO1 sufficient_JJ time_NNT1 to_TO decide_VVI upon_II my_APPGE project_NN1 topic_NN1 and_CC work_VVI on_II something_PN1 in_II which_DDQ I_PPIS1 had_VHD genuine_JJ interest_NN1 ._. 
+</s>
+<s>
+Another_DD1 motivation_NN1 while_CS working_VVG was_VBDZ to_TO do_VDI a_AT1 project_NN1 which_DDQ in_II some_DD ways_NN2 provided_VVN solution_NN1 to_II some_DD current_JJ problems_NN2 prevalent_JJ in_II the_AT market_NN1 ._. 
+</s>
+<s>
+Having_VHG keen_JJ interest_NN1 in_II transactional_JJ modelling_NN1 and_CC especially_RR authorisation_NN1 phase_NN1 of_IO the_AT process_NN1 that_CST involves_VVZ authentication_NN1 and_CC identity_NN1 checks_NN2 of_IO the_AT users_NN2 ,_, I_PPIS1 started_VVD to_TO research_VVI the_AT market_NN1 and_CC closely_RR understand_VV0 the_AT problem_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ after_II that_DD1 research_NN1 I_PPIS1 realised_VVD that_CST the_AT credit_NN1 card_NN1 fraud_NN1 problem_NN1 is_VBZ not_XX just_RR for_IF UK_NP1 but_CCB the_AT situation_NN1 is_VBZ even_RR worst_JJT in_II countries_NN2 such_II21 as_II22 Australia_NP1 ,_, United_VVD Stated_VVN of_IO America_NP1 etc_RA ._. 
+</s>
+<s>
+So_RR ,_, It_PPH1 was_VBDZ the_AT time_NNT1 when_RRQ I_PPIS1 knew_VVD what_DDQ I_PPIS1 wanted_VVD to_TO do_VDI for_IF my_APPGE final_JJ year_NNT1 project_NN1 and_CC come_VV0 up_RP with_IW a_AT1 solution_NN1 which_DDQ is_VBZ practical_JJ and_CC with_IW right_JJ amount_NN1 of_IO resources_NN2 and_CC funding_NN1 could_VM be_VBI implemented_VVN in_II real-life_JJ scenario_NN1 ._. 
+</s>
+<s>
+My_APPGE next_MD aim_NN1 was_VBDZ to_TO design_VVI the_AT project_NN1 in_II a_AT1 most_RGT sophisticated_JJ and_CC state_NN1 of_IO art_NN1 technology_NN1 ._. 
+</s>
+<s>
+While_CS doing_VDG my_APPGE research_NN1 I_PPIS1 came_VVD across_II various_JJ technologies_NN2 that_CST I_PPIS1 could_VM have_VHI used_VVN but_CCB I_PPIS1 went_VVD with_IW ._. 
+</s>
+<s>
+NET_NN1 because_II21 of_II22 it_PPH1 's_VBZ benefits_NN2 and_CC its_APPGE upcoming_JJ attracting_JJ in_II financial_JJ firms_NN2 ._. 
+</s>
+<s>
+After_II all_DB careful_JJ considerations_NN2 I_PPIS1 decided_VVD to_II implemented_JJ the_AT project_NN1 in_RP ._. 
+</s>
+<s>
+NET_JJ technology_NN1 supported_VVN by_II SQL_NN1 Database_NN1 ._. 
+</s>
+<s>
+Before_II starting_VVG the_AT final_JJ year_NNT1 I_PPIS1 did_VDD an_AT1 intensive_JJ course_NN1 in_RP ._. 
+</s>
+<s>
+NET_NN1 for_IF three_MC months_NNT2 to_TO have_VHI in-depth_JJ understanding_NN1 of_IO the_AT technology_NN1 and_CC successfully_RR gained_VVD the_AT accreditations_NN2 of_IO Microsoft_NP1 Certified_JJ Solution_NN1 Developer_NN1 ._. 
+</s>
+<s>
+The_AT technology_NN1 aspect_NN1 is_VBZ covered_VVN in_II more_DAR detail_NN1 in_II Appendix_NN1 B._NP1 The_AT purpose_NN1 of_IO this_DD1 project_NN1 is_VBZ to_TO demonstrate_VVI the_AT advantage_NN1 of_IO bringing_VVG together_RL various_JJ methods_NN2 together_RL to_TO design_VVI a_AT1 single_JJ model_NN1 to_TO carry_VVI out_RP online_JJ transactions_NN2 in_II a_AT1 most_RGT efficient_JJ manner_NN1 ._. 
+</s>
+<s>
+The_AT following_JJ are_VBR the_AT objectives_NN2 to_TO be_VBI achieved_VVN by_II the_AT end_NN1 of_IO the_AT project_NN1 -_- ._. 
+</s>
+<s>
+Design_VV0 a_AT1 new_JJ model_NN1 for_IF electronic_JJ commerce_NN1 with_IW high_JJ speed_NN1 and_CC efficient_JJ verification_NN1 and_CC strong_JJ authentication_NN1 mechanisms_NN2 that_CST would_VM allow_VVI legitimate_JJ users_NN2 easy_JJ access_NN1 to_TO carry_VVI out_RP online_JJ shopping_NN1 payments_NN2 and_CC thwarting_VVG fraudulent_JJ transactions_NN2 attempt_VV0 by_II others_NN2 ._. 
+</s>
+<s>
+The_AT project_NN1 aims_VVZ to_TO provide_VVI reliable_JJ and_CC a_AT1 user-friendly_JJ environment_NN1 involving_VVG various_JJ phases_NN2 ._. 
+</s>
+<s>
+This_DD1 feature_NN1 has_VHZ been_VBN covered_VVN in_II Section_NN1 3_MC of_IO the_AT report_NN1 ._. 
+</s>
+<s>
+A_AT1 Fraud_NN1 Detection_NN1 Engine_NN1 built_VVN in_II modules_NN2 using_VVG the_AT concept_NN1 of_IO "_" Neural_JJ Networks_NN2 "_" and_CC "_" Data_NN Mining_VVG "_" where_RRQ fraud_NN1 detection_NN1 rules_NN2 with_IW certain_JJ general_JJ characteristics_NN2 are_VBR included_VVN in_II standard_JJ model_NN1 and_CC modules_NN2 with_IW merchant_NN1 requirements_NN2 are_VBR added_VVN as_CSA needed_VVN ._. 
+</s>
+<s>
+This_DD1 feature_NN1 has_VHZ been_VBN covered_VVN in_II Section_NN1 5_MC of_IO the_AT report_NN1 ._. 
+</s>
+<s>
+Reduce_VV0 the_AT probability_NN1 of_IO fraud_NN1 ,_, by_II sending_VVG a_AT1 random_JJ four-digit_JJ number_NN1 on_II21 to_II22 customer_NN1 's_GE mobile_JJ phone_NN1 in_BCL21 order_BCL22 to_TO identify_VVI the_AT real_JJ customer_NN1 ._. 
+</s>
+<s>
+The_AT implementation_NN1 would_VM make_VVI it_PPH1 difficult_JJ for_IF fraudster_NN1 to_TO successfully_RR complete_VVI the_AT transaction_NN1 ,_, as_CSA with_IW stolen_JJ card_NN1 they_PPHS2 would_VM also_RR need_VVI that_DD1 person_NN1 mobile_NN1 phone_NN1 to_TO clear_VVI to_II initial_JJ validations_NN2 process_VV0 ._. 
+</s>
+<s>
+This_DD1 feature_NN1 has_VHZ been_VBN covered_VVN in_II Section_NN1 5_MC of_IO the_AT report_NN1 ._. 
+</s>
+<s>
+Design_VV0 a_AT1 transaction_NN1 management_NN1 application_NN1 for_IF merchants_NN2 to_TO manage_VVI transactional_JJ activities_NN2 ._. 
+</s>
+<s>
+This_DD1 involves_VVZ the_AT system_NN1 for_IF manual_JJ review_NN1 of_IO the_AT transactions_NN2 that_DD1 being_VBG referred_VVN by_II the_AT system_NN1 ._. 
+</s>
+<s>
+It_PPH1 provides_VVZ all_DB essential_JJ features_NN2 ,_, which_DDQ would_VM be_VBI present_JJ in_II a_AT1 management_NN1 application_NN1 in_II real-life_JJ scenario_NN1 ._. 
+</s>
+<s>
+This_DD1 feature_NN1 has_VHZ been_VBN covered_VVN in_II Section_NN1 8_MC of_IO the_AT report_NN1 ._. 
+</s>
+<s>
+Reduce_VV0 major_JJ security_NN1 threats_NN2 available_JJ in_II Online_JJ Transactional_JJ Model_NN1 such_II21 as_II22 spoofing_VVG ,_, unauthorised_JJ disclose_VV0 ,_, unauthorised_JJ action_NN1 and_CC data_NN alteration_NN1 by_II implementing_VVG authenticated_JJ Secure_JJ Socket_NN1 Layer_NN1 (_( SSL_NP1 )_) digital_JJ certificates_NN2 to_TO provide_VVI crucial_JJ online_JJ identity_NN1 and_CC security_NN1 to_TO establish_VVI trust_NN1 between_II parties_NN2 involved_JJ in_II online_JJ transactions_NN2 over_II digital_JJ network_NN1 ._. 
+</s>
+<s>
+Also_RR including_II Encryption_NN1 of_IO data_NN ,_, process_NN1 of_IO transforming_VVG information_NN1 to_TO make_VVI it_PPH1 unintelligible_JJ to_TO all_RR21 but_RR22 the_AT intended_JJ recipient_NN1 ._. 
+</s>
+<s>
+It_PPH1 also_RR includes_VVZ other_JJ security_NN1 features_NN2 such_II21 as_II22 code-access_NN1 ,_, database_NN1 and_CC web-service_JJ security_NN1 implemented_VVN in_RP ._. 
+</s>
+<s>
+NET_NN1 ,_, IIS_MC2 (_( Internet_NP1 Information_NN1 Service_NN1 )_) and_CC SQL_NN1 Database_NN1 ._. 
+</s>
+<s>
+This_DD1 feature_NN1 has_VHZ been_VBN covered_VVN in_II Section_NN1 9_MC of_IO the_AT report_NN1 ._. 
+</s>
+<s>
+The_AT system_NN1 was_VBDZ developed_VVN based_VVN on_II software_NN1 development_NN1 life_NN1 cycle_NN1 ,_, which_DDQ is_VBZ outlined_VVN by_II the_AT following_JJ phases_NN2 :_: Problem_NN1 identification_NN1 :_: Establishing_VVG why_RRQ there_EX is_VBZ need_NN1 for_IF the_AT system_NN1 ._. 
+</s>
+<s>
+Requirements_NN2 determination_NN1 :_: Specify_VV0 what_DDQ the_AT system_NN1 needs_VVZ to_TO do_VDI and_CC what_DDQ information_NN1 it_PPH1 needs_VVZ to_TO store_VVI ._. 
+</s>
+<s>
+Feasibility_NN1 study_NN1 :_: Ensure_VV0 the_AT system_NN1 is_VBZ a_AT1 feasible_JJ option_NN1 ._. 
+</s>
+<s>
+Systems_NN2 analysis_NN1 :_: Determine_VV0 the_AT functionalities_NN2 of_IO the_AT system_NN1 and_CC create_VV0 a_AT1 model_NN1 of_IO the_AT system_NN1 processes_NN2 needed_VVN to_TO meet_VVI the_AT requirements_NN2 ._. 
+</s>
+<s>
+System_NN1 design_NN1 :_: Define_VV0 the_AT classes_NN2 and_CC methods_NN2 needed_VVN to_TO meet_VVI the_AT system_NN1 functionalities_NN2 ._. 
+</s>
+<s>
+Construction_NN1 :_: Write_VV0 and_CC test_VV0 the_AT code_NN1 ,_, modify_VV0 as_CSA required_VVN until_II testing_NN1 reveals_VVZ no_AT errors_NN2 ._. 
+</s>
+<s>
+Implementation_NN1 :_: Put_VV0 the_AT completed_JJ solution_NN1 into_II use_NN1 ._. 
+</s>
+<s>
+Maintenance_NN1 :_: Make_VV0 any_DD changes_NN2 ,_, corrections_NN2 and_CC additions_NN2 to_II the_AT system_NN1 ._. 
+</s>
+<s>
+This_DD1 stage_NN1 was_VBDZ not_XX included_VVN as_CSA this_DD1 is_VBZ not_XX a_AT1 real_JJ life_NN1 project_NN1 ._. 
+</s>
+<s>
+Evaluation_NN1 :_: Verify_VV0 that_DD1 system_NN1 meets_VVZ the_AT specification_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 section_NN1 the_AT effort_NN1 (_( labour_NN1 required_VVN to_TO complete_VVI a_AT1 task_NN1 )_) and_CC the_AT schedule_NN1 (_( time_NNT1 frame_NN1 required_VVN to_TO complete_VVI the_AT task_NN1 )_) for_IF each_DD1 phase_NN1 of_IO the_AT systems_NN2 life_NN1 cycle_NN1 are_VBR calculated_VVN ._. 
+</s>
+<s>
+Since_CS the_AT project_NN1 report_NN1 was_VBDZ due_JJ in_II on_II 28_MC th_NNU April_NPM1 2006_MC and_CC the_AT project_NN1 presentation_NN1 was_VBDZ in_II first_MD week_NNT1 of_IO March_NPM1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ essential_JJ to_TO have_VHI the_AT project_NN1 completed_VVN and_CC tested_VVN by_II 28_MC th_NNU February_NPM1 ._. 
+</s>
+<s>
+I_PPIS1 split_VV0 the_AT project_NN1 into_II following_VVG milestones_NN2 in_BCL21 order_BCL22 to_TO ensure_VVI the_AT project_NN1 was_VBDZ completed_VVN on_II time_NNT1 ._. 
+</s>
+<s>
+I_PPIS1 also_RR created_VVD a_AT1 project_NN1 website_NN1 which_DDQ was_VBDZ useful_JJ in_II keeping_VVG the_AT supervisor_NN1 informed_VVN about_II the_AT project_NN1 progress_NN1 at_II all_DB time_NNT1 (_( .._... ac.uk/csuchj_FU )_) ._. 
+</s>
+<s>
+An_AT1 online_JJ store_NN1 allows_VVZ you_PPY to_TO be_VBI open_JJ for_IF business_NN1 24_MC hours_NNT2 a_AT1 day_NNT1 ,_, 7_MC days_NNT2 a_AT1 week_NNT1 ._. 
+</s>
+<s>
+Not_XX only_RR is_VBZ this_DD1 an_AT1 important_JJ convenience_NN1 for_IF the_AT customers_NN2 ,_, it_PPH1 also_RR means_VVZ more_DAR revenue_NN1 for_IF the_AT merchants_NN2 ._. 
+</s>
+<s>
+Many_DA2 merchants_NN2 say_VV0 that_CST 20%_NNU of_IO their_APPGE revenue_NN1 is_VBZ through_II online_JJ stores_NN2 ._. 
+</s>
+<s>
+Another_DD1 benefit_NN1 that_CST merchants_NN2 gain_VV0 from_II online_JJ store_NN1 is_VBZ the_AT reduction_NN1 in_II overhead_JJ costs_NN2 ,_, as_CSA the_AT merchants_NN2 do_VD0 n't_XX need_VVI to_TO employ_VVI staff_NN to_TO take_VVI orders_NN2 ._. 
+</s>
+<s>
+With_IW the_AT right_JJ payment_NN1 processing_NN1 tools_NN2 ,_, these_DD2 functions_NN2 are_VBR all_DB done_VDN automatically_RR ._. 
+</s>
+<s>
+And_CC lastly_RR an_AT1 online_JJ store_NN1 helps_VVZ merchants_NN2 to_TO reach_VVI markets_NN2 across_II the_AT countries_NN2 ._. 
+</s>
+<s>
+It_PPH1 's_VBZ often_RR seen_VVN customers_NN2 from_II United_NP1 Kingdom_NP1 doing_VDG online_RR shopping_VVG from_II merchants_NN2 based_VVN in_II United_NP1 States_NP1 of_IO America_NP1 or_CC other_JJ parts_NN2 of_IO Europe_NP1 ._. 
+</s>
+<s>
+The_AT most_RGT important_JJ part_NN1 of_IO selling_VVG online_RR is_VBZ accepting_VVG payments_NN2 from_II customers_NN2 ._. 
+</s>
+<s>
+Online_JJ payment_NN1 processing_NN1 offers_VVZ customers_NN2 the_AT convenience_NN1 of_IO submitting_VVG their_APPGE card_NN1 details_NN2 on_II the_AT merchant_NN1 website_NN1 and_CC get_VV0 there_RL goods_NN2 delivered_VVN at_II their_APPGE door_NN1 steps_NN2 ._. 
+</s>
+<s>
+But_CCB ,_, as_CSA e-commerce_NN1 has_VHZ been_VBN an_AT1 extra_JJ source_NN1 of_IO income_NN1 for_IF online_JJ traders_NN2 ,_, it_PPH1 has_VHZ also_RR been_VBN a_AT1 source_NN1 of_IO income_NN1 for_IF people_NN who_PNQS make_VV0 revenue_NN1 by_II using_VVG stolen_JJ cards_NN2 and_CC information_NN1 ._. 
+</s>
+<s>
+Fraud_NN1 is_VBZ increasing_VVG dramatically_RR these_DD2 days_NNT2 with_IW expansion_NN1 of_IO modern_JJ technology_NN1 ,_, resulting_VVG in_II the_AT loss_NN1 of_IO billion_NNO of_IO pounds_NN2 each_DD1 year_NNT1 ._. 
+</s>
+<s>
+Revenue_NN1 lost_VVN through_II Credit_NN1 Card_NN1 fraud_NN1 in_II the_AT United_NP1 Kingdom_NP1 has_VHZ been_VBN growing_VVG rapidly_RR over_II last_MD five_MC years_NNT2 with_IW 504.8_MC million_NNO lost_VVN in_II 2005_MC (_( Report_NN1 by_II Association_NN1 of_IO Payment_NN1 Clearing_NN1 Services_NN2 ,_, London_NP1 APACS_NP2 )_) ._. 
+</s>
+<s>
+The_AT Concise_JJ Oxford_NP1 Dictionary_NN1 defines_VVZ fraud_NN1 as_CSA "_" criminal_JJ deception_NN1 ;_; the_AT use_NN1 of_IO false_JJ representations_NN2 to_TO gain_VVI an_AT1 unjust_JJ advantage_NN1 ._. "_" 
+</s>
+<s>
+Fraud_NN1 is_VBZ as_RG old_JJ as_CSA humanity_NN1 itself_PPX1 and_CC can_VM take_VVI an_AT1 unlimited_JJ variety_NN1 of_IO different_JJ forms_NN2 ._. 
+</s>
+<s>
+However_RR ,_, in_II recent_JJ years_NNT2 ,_, the_AT development_NN1 of_IO new_JJ technologies_NN2 (_( which_DDQ have_VH0 made_VVN it_PPH1 easier_JJR for_IF us_PPIO2 to_TO communicate_VVI and_CC helped_VVN increase_VVI our_APPGE spending_NN1 power_NN1 )_) has_VHZ also_RR provided_VVN yet_RR further_JJR ways_NN2 in_II which_DDQ criminals_NN2 may_VM commit_VVI fraud_NN1 ._. 
+</s>
+<s>
+Traditional_JJ forms_NN2 of_IO fraudulent_JJ behavior_NN1 such_II21 as_II22 money_NN1 laundering_NN1 have_VH0 become_VVN easier_RRR to_TO perpetrate_VVI and_CC have_VHI been_VBN joined_VVN by_II new_JJ kinds_NN2 of_IO fraud_NN1 such_II21 as_II22 mobile_JJ telecommunications_NN2 fraud_NN1 and_CC computer_NN1 intrusion_NN1 ._. 
+</s>
+<s>
+Credit_NN1 Card_NN1 fraud_NN1 can_VM be_VBI divided_VVN into_II two_MC types_NN2 :_: Offline_JJ and_CC Online_JJ Fraud_NN1 ._. 
+</s>
+<s>
+Offline_JJ Fraud_NN1 is_VBZ committed_VVN by_II using_VVG a_AT1 stolen_JJ physical_JJ card_NN1 at_II storefront_NN1 or_CC call_VV0 center_NN1 ._. 
+</s>
+<s>
+Online_JJ Fraud_NN1 commonly_RR known_VVN as_II cardholder_NN1 -_- not_XX present_JJ fraud_NN1 occurs_VVZ ,_, when_CS the_AT transaction_NN1 is_VBZ made_VVN remotely_RR ,_, which_DDQ means_VVZ customer_NN1 is_VBZ not_XX physically_RR present_JJ at_II the_AT merchant_NN1 's_GE shop_NN1 but_CCB either_DD1 is_VBZ doing_VDG a_AT1 telephone_NN1 purchase_NN1 or_CC an_AT1 online_JJ transaction_NN1 ._. 
+</s>
+<s>
+In_II an_AT1 online_JJ transaction_NN1 ,_, no_AT signatures_NN2 or_CC card_NN1 imprints_NN2 are_VBR required_VVN ,_, only_JJ need_NN1 is_VBZ of_IO a_AT1 valid_JJ payment_NN1 card_NN1 details_NN2 ._. 
+</s>
+<s>
+Online_JJ Fraud_NN1 accounts_VVZ for_IF most_DAT proportion_NN1 of_IO money_NN1 lost_VVN because_II21 of_II22 Credit_NN1 Card_NN1 Frauds_NN2 ._. 
+</s>
+<s>
+It_PPH1 's_VBZ due_II21 to_II22 week_NNT1 authentication_NN1 methods_NN2 ,_, which_DDQ makes_VVZ it_PPH1 easier_JJR to_TO commit_VVI online_JJ fraud_NN1 as_CSA compared_VVN to_II Offline_JJ fraud_NN1 where_CS new_JJ technologies_NN2 have_VH0 really_RR helped_VVN in_II reducing_VVG the_AT amount_NN1 of_IO revenue_NN1 lost_VVD each_DD1 year_NNT1 ._. 
+</s>
+<s>
+To_TO undertake_VVI Online_JJ Fraud_NN1 it_PPH1 is_VBZ necessary_JJ to_TO obtain_VVI the_AT details_NN2 of_IO the_AT card_NN1 without_IW the_AT cardholder_NN1 's_GE knowledge_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR various_JJ ways_NN2 through_II which_DDQ card_NN1 details_NN2 can_VM be_VBI obtained_VVN illegally_RR :_: Skimming_VVG :_: This_DD1 is_VBZ the_AT most_RGT common_JJ way_NN1 of_IO getting_VVG someone_PN1 's_GE details_NN2 where_RRQ employees_NN2 illegally_RR copy_VV0 the_AT magnetic_JJ strip_NN1 on_II a_AT1 credit_NN1 card_NN1 by_II swiping_VVG it_PPH1 through_II a_AT1 small_JJ handheld_JJ card_NN1 reader_NN1 ._. 
+</s>
+<s>
+Skimming_VVG could_VM be_VBI done_VDN quiet_JJ easily_RR in_II shops_NN2 and_CC restaurants_NN2 without_IW customer_NN1 's_GE knowledge_NN1 ._. 
+</s>
+<s>
+Shoulder_VV0 Surfer_NP1 :_: They_PPHS2 are_VBR the_AT one_PN1 who_PNQS enter_VV0 card_NN1 details_NN2 into_II a_AT1 mobile_JJ phone_NN1 while_CS standing_VVG behind_II a_AT1 purchaser_NN1 in_II a_AT1 queue_NN1 ._. 
+</s>
+<s>
+Scam_VV0 Companies_NN2 :_: Very_RG often_RR we_PPIS2 hear_VV0 the_AT news_NN1 these_DD2 days_NNT2 of_IO people_NN posing_VVG as_II credit_NN1 card_NN1 company_NN1 employees_NN2 taking_VVG details_NN2 of_IO credit_NN1 card_NN1 transactions_NN2 from_II customers_NN2 over_II the_AT phone_NN1 ._. 
+</s>
+<s>
+Counterfeit_JJ cards_NN2 ,_, currently_RR the_AT largest_JJT source_NN1 of_IO credit_NN1 card_NN1 fraud_NN1 in_II the_AT United_NP1 Kingdom_NP1 (_( source_NN1 :_: APACS_NP2 )_) ,_, can_VM also_RR be_VBI created_VVN using_VVG this_DD1 information_NN1 ._. 
+</s>
+<s>
+Transactions_NN2 made_VVN by_II fraudsters_NN2 using_VVG counterfeit_JJ cards_NN2 and_CC making_VVG cardholder-not-present_JJ purchases_NN2 can_VM be_VBI detected_VVN through_II methods_NN2 that_CST seek_VV0 changes_NN2 in_II transaction_NN1 patterns_NN2 ,_, as_II31 well_II32 as_II33 checking_VVG for_IF particular_JJ patterns_NN2 that_CST are_VBR known_VVN to_TO be_VBI indicative_JJ of_IO counterfeiting_VVG ._. 
+</s>
+<s>
+Financial_JJ institutions_NN2 are_VBR unwilling_JJ to_TO accept_VVI the_AT additional_JJ risks_NN2 associated_VVN with_IW online_JJ credit_NN1 card_NN1 fraud_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT losses_NN2 associated_VVN with_IW fraudulent_JJ online_JJ purchases_NN2 are_VBR borne_VVN by_II online_JJ traders_NN2 who_PNQS accept_VV0 payment_NN1 for_IF goods_NN2 online_RR ._. 
+</s>
+<s>
+When_CS a_AT1 cardholder_NN1 claims_VVZ that_CST a_AT1 purchase_NN1 was_VBDZ fraudulent_JJ and_CC not_XX undertaken_VVN by_II them_PPHO2 or_CC an_AT1 authorised_JJ party_NN1 ,_, their_APPGE financial_JJ institution_NN1 generally_RR takes_VVZ them_PPHO2 at_II their_APPGE word_NN1 and_CC the_AT retailer_NN1 is_VBZ required_VVN to_TO submit_VVI to_II a_AT1 charge_NN1 back_NN1 (_( a_AT1 refund_NN1 of_IO the_AT price_NN1 of_IO the_AT goods_NN2 from_II their_APPGE bank_NN1 account_NN1 to_II the_AT cardholder_NN1 's_GE )_) even_CS21 though_CS22 they_PPHS2 do_VD0 not_XX receive_VVI the_AT goods_NN2 back_RP in_II return_NN1 ._. 
+</s>
+<s>
+The_AT only_JJ recourse_NN1 for_IF online_JJ traders_NN2 who_PNQS receive_VV0 a_AT1 charge_NN1 back_NN1 is_VBZ to_TO try_VVI and_CC pursue_VVI the_AT matter_NN1 privately_RR with_IW the_AT customer_NN1 -_- a_AT1 difficult_JJ ,_, costly_JJ and_CC time-consuming_JJ process_NN1 ._. 
+</s>
+<s>
+Today_RT nearly_RR 15_MC million_NNO people_NN in_II the_AT UK_NP1 use_VV0 the_AT Internet_NN1 to_TO access_VVI their_APPGE bank_NN1 accounts_NN2 ,_, and_CC millions_NNO2 more_RGR regularly_RR shop_VV0 online_RR ._. 
+</s>
+<s>
+Resources_NN2 tell_VV0 that_CST :_: One_MC1 in_II eight_MC online_JJ shoppers_NN2 have_VH0 failed_VVN to_TO log_VVI out_RP when_CS shopping_VVG online_RR ,_, leaving_VVG there_RL financial_JJ details_NN2 available_JJ to_II others_NN2 ._. 
+</s>
+<s>
+One_MC1 in_II four_MC online_JJ shoppers_NN2 do_VD0 not_XX check_VVI whether_CSW a_AT1 website_NN1 is_VBZ safe_JJ and_CC secure_VV0 ._. 
+</s>
+<s>
+The_AT extent_NN1 of_IO credit_NN1 card_NN1 fraud_NN1 is_VBZ difficult_JJ to_TO quantify_VVI ,_, partly_RR because_CS companies_NN2 do_VD0 n't_XX like_VVI to_TO reveal_VVI the_AT exact_JJ amount_NN1 of_IO money_NN1 lost_VVN on_II their_APPGE online_JJ stores_NN2 as_CSA this_DD1 might_VM lead_VVI to_TO lack_VVI of_IO confidence_NN1 in_II the_AT online_JJ buyers_NN2 in_II doing_VDG future_JJ shopping_NN1 on_II their_APPGE websites_NN2 and_CC partly_RR because_CS the_AT figures_NN2 changes_NN2 over_II time_NNT1 ._. 
+</s>
+<s>
+Various_JJ estimates_NN2 have_VH0 been_VBN given_VVN ._. 
+</s>
+<s>
+Total_JJ looses_NN2 through_II credit_NN1 card_NN1 fraud_NN1 in_II the_AT United_NP1 Kingdom_NP1 has_VHZ been_VBN growing_VVG rapidly_RR over_II the_AT last_MD 4_MC years_NNT2 &lsqb;_( 1997_MC ,_, 122_MC million_NNO ;_; 1998_MC 135_MC million_NNO ;_; 1999_MC 188million_FO ;_; 2000_MC 293_MC million_NNO Source_NN1 APACS_NN2 &rsqb;_) ._. 
+</s>
+<s>
+The_AT amount_NN1 of_IO money_NN1 lost_VVN for_IF 2004_MC been_VBN reported_VVN as_CSA 504.8_MC million_NNO ._. 
+</s>
+<s>
+Fraud_NN1 prevention_NN1 outlines_NN2 measures_VVZ to_TO prevent_VVI fraud_NN1 from_II occurring_VVG in_II the_AT first_MD place_NN1 ._. 
+</s>
+<s>
+These_DD2 include_VV0 elaborate_JJ graphics_NN ,_, fluorescent_JJ fibres_NN2 ,_, multitone_VV0 pictures_NN2 ,_, watermarks_NN2 ,_, laminated_JJ metal_NN1 strips_NN2 and_CC holographs_VVZ on_II banknotes_NN2 ,_, personal_JJ identification_NN1 numbers_NN2 for_IF bankcards_NN2 ,_, Internet_NP1 security_NN1 systems_NN2 for_IF credit_NN1 card_NN1 transactions_NN2 ,_, and_CC passwords_NN2 on_II computer_NN1 systems_NN2 and_CC telephone_NN1 bank_NN1 accounts_NN2 ._. 
+</s>
+<s>
+Unfortunately_RR ,_, none_PN of_IO these_DD2 methods_NN2 are_VBR foolproof_JJ and_CC ,_, in_RR21 general_RR22 ,_, a_AT1 balance_NN1 has_VHZ to_TO be_VBI reached_VVN between_II cost_NN1 and_CC inconvenience_NN1 (_( e.g._REX ,_, to_II a_AT1 customer_NN1 )_) on_II the_AT one_MC1 side_NN1 ,_, and_CC effectiveness_NN1 on_II the_AT other_JJ ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT commonest_JJT reasons_NN2 for_IF all_DB the_AT losses_NN2 is_VBZ weak_JJ fraud_NN1 prevention_NN1 methods_NN2 partly_RR blamed_VVN onto_II the_AT customers_NN2 ._. 
+</s>
+<s>
+Many_DA2 customers_NN2 are_VBR not_XX very_RG confident_JJ in_II progressing_VVG steps_NN2 in_BCL21 order_BCL22 to_TO carry_VVI out_RP transactions_NN2 online_RR ,_, Until_CS their_APPGE card_NN1 has_VHZ been_VBN misused_VVN they_PPHS2 are_VBR unaware_JJ of_IO the_AT stronger_JJR fraud_NN1 prevention_NN1 techniques_NN2 which_DDQ should_VM be_VBI adopted_VVN ._. 
+</s>
+<s>
+The_AT most_RGT basic_JJ form_NN1 of_IO fraud_NN1 prevention_NN1 is_VBZ electronic_JJ authorisation_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 verifies_VVZ that_CST the_AT credit_NN1 card_NN1 being_VBG used_VVN to_TO purchase_VVI goods_NN2 is_VBZ valid_JJ and_CC has_VHZ sufficient_JJ monetary_JJ funds_NN2 attached_VVN to_II it_PPH1 ._. 
+</s>
+<s>
+That_DD1 said_VVD ,_, there_EX are_VBR significant_JJ limitations_NN2 connected_VVN with_IW this_DD1 process_NN1 ,_, principally_RR that_CST it_PPH1 provides_VVZ no_AT assurance_NN1 that_CST the_AT person_NN1 using_VVG the_AT card_NN1 has_VHZ authority_NN1 to_TO make_VVI the_AT purchase_NN1 ._. 
+</s>
+<s>
+Technology_NN1 is_VBZ being_VBG rapidly_RR developed_VVN to_TO ensure_VVI retailers_NN2 have_VH0 added_VVN protection_NN1 ._. 
+</s>
+<s>
+For_IF credit_NN1 card_NN1 transactions_NN2 conducted_VVN in_II person_NN1 ,_, a_AT1 system_NN1 involving_VVG microchips_NN2 and_CC personal_JJ identification_NN1 numbers_NN2 (_( PINs_NN2 )_) has_VHZ now_RT been_VBN adopted_VVN in_II the_AT United_NP1 Kingdom_NP1 ._. 
+</s>
+<s>
+This_DD1 has_VHZ utilizes_VVZ a_AT1 microchip_NN1 attached_VVN to_TO bank_VVI cards_NN2 to_TO ensure_VVI data_NN securely_RR ,_, and_CC the_AT inputting_NN1 of_IO a_AT1 PIN_NN1 as_II31 opposed_II32 to_II33 a_AT1 signature_NN1 at_II the_AT point_NN1 of_IO sale_NN1 (_( APACS_NP2 )_) ._. 
+</s>
+<s>
+This_DD1 procedure_NN1 has_VHZ necessitated_VVN traders_NN2 to_TO install_VVI special_JJ terminals_NN2 to_TO implement_VVI the_AT chip_NN1 and_CC PIN_NN1 system_NN1 ._. 
+</s>
+<s>
+The_AT occurrence_NN1 of_IO over-the-counter_JJ credit_NN1 card_NN1 fraud_NN1 should_VM be_VBI substantially_RR reduced_VVN with_IW this_DD1 process_NN1 ._. 
+</s>
+<s>
+Credit_NN1 card_NN1 transactions_NN2 conducted_VVN over_II the_AT internet_NN1 ,_, are_VBR however_RR still_RR prone_JJ to_II problems_NN2 of_IO card_NN1 and_CC cardholder_VV0 authentication_NN1 ._. 
+</s>
+<s>
+Chip_NN1 and_CC PIN_NN1 cards_NN2 should_VM have_VHI the_AT potential_NN1 at_II some_DD point_NN1 in_II the_AT future_JJ to_TO utilise_VVI more_RGR secure_JJ transaction_NN1 technology_NN1 by_II using_VVG readers_NN2 and_CC PIN_NN1 pads_NN2 attached_VVN to_II computers_NN2 ._. 
+</s>
+<s>
+At_II this_DD1 early_JJ stage_NN1 ,_, however_RR ,_, their_APPGE application_NN1 is_VBZ very_RG limited_JJ ._. 
+</s>
+<s>
+In_II the_AT UK_NP1 and_CC USA_NP1 ,_, two_MC extra_JJ online_JJ fraud_NN1 prevention_NN1 strategies_NN2 have_VH0 been_VBN developed_VVN in_II31 conjunction_II32 with_II33 financial_JJ institutions_NN2 and_CC card_NN1 issuers_NN2 :_: The_AT AVS_NN2 uses_VVZ information_NN1 obtained_VVN through_II the_AT cardholder_NN1 's_GE issuing_JJ financial_JJ institution_NN1 ._. 
+</s>
+<s>
+It_PPH1 ensures_VVZ that_CST the_AT billing_NN1 address_NN1 provided_VVN by_II the_AT customer_NN1 crosschecks_NN2 ._. 
+</s>
+<s>
+This_DD1 process_NN1 is_VBZ not_XX totally_RR accurate_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, there_EX could_VM be_VBI instances_NN2 where_RRQ the_AT customer_NN1 has_VHZ moved_VVN and_CC changed_JJ address_NN1 but_CCB has_VHZ n't_XX updated_VVN the_AT details_NN2 with_IW the_AT financial_JJ institution_NN1 ._. 
+</s>
+<s>
+This_DD1 has_VHZ the_AT potential_JJ to_TO cause_VVI problems_NN2 when_RRQ a_AT1 genuine_JJ transaction_NN1 is_VBZ referred_VVN or_CC classified_VVN as_CSA fraudulent_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ nevertheless_RR a_AT1 tool_NN1 which_DDQ can_VM be_VBI used_VVN by_II traders_NN2 to_TO determine_VVI their_APPGE risk_NN1 in_II processing_VVG any_DD order_NN1 ._. 
+</s>
+<s>
+In_II a_AT1 similar_JJ way_NN1 ,_, online_JJ traders_NN2 can_VM request_VVI that_CST the_AT customer_NN1 confirm_VV0 or_CC enter_VV0 the_AT CVN_NP1 ,_, usually_RR a_AT1 three-_NN1 or_CC four-digit_JJ number_NN1 now_RT printed_VVN on_II the_AT back_NN1 of_IO the_AT majority_NN1 of_IO credit_NN1 cards_NN2 ._. 
+</s>
+<s>
+Again_RT ,_, while_CS this_DD1 does_VDZ not_XX necessarily_RR prevent_VVI fraud_NN1 ,_, it_PPH1 should_VM reduce_VVI the_AT likelihood_NN1 of_IO fraud_NN1 occurring_VVG by_II the_AT provision_NN1 of_IO additional_JJ information_NN1 which_DDQ is_VBZ available_JJ only_RR from_II viewing_VVG the_AT card_NN1 itself_PPX1 and_CC is_VBZ never_RR shown_VVN on_II items_NN2 such_II21 as_II22 discarded_JJ receipts_NN2 ._. 
+</s>
+<s>
+A_AT1 further_JJR option_NN1 currently_RR available_JJ to_II online_JJ purchasers_NN2 is_VBZ payer_NN1 authentication_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ offered_VVN through_II both_DB2 MasterCard_NP1 (_( 'MasterCard_NN1 Securecode'_NP1 )_) and_CC Visa_NN1 (_( 'Verified_VVN by_II VISA'_NP1 )_) ._. 
+</s>
+<s>
+These_DD2 are_VBR password-based_JJ programs_NN2 that_CST permit_VV0 registered_JJ cardholders_NN2 to_TO verify_VVI their_APPGE order_NN1 by_II entering_VVG a_AT1 password_NN1 in_II a_AT1 pop-up_NN1 box_NN1 on_II the_AT computer_NN1 screen_NN1 ._. 
+</s>
+<s>
+This_DD1 does_VDZ ,_, however_RR ,_, require_VVI the_AT cardholder_NN1 to_TO register_VVI for_IF the_AT program_NN1 with_IW the_AT participating_JJ card_NN1 issuers_NN2 ._. 
+</s>
+<s>
+It_PPH1 also_RR requires_VVZ businesses_NN2 that_CST trade_VV0 online_RR to_TO be_VBI registered_VVN and_CC to_TO be_VBI able_JK to_TO utilise_VVI a_AT1 "_" Verified_JJ by_II Visa_NN1 or_CC MasterCard_NP1 "_" securecode_NN1 merchant_NN1 plug-in_JJ installed_VVN on_II their_APPGE processor_NN1 ._. 
+</s>
+<s>
+Currently_RR ,_, there_EX are_VBR a_AT1 number_NN1 of_IO ways_NN2 in_II which_DDQ retailers_NN2 can_VM authorise_VVI a_AT1 credit_NN1 card_NN1 payment_NN1 for_IF an_AT1 online_JJ purchase_NN1 ._. 
+</s>
+<s>
+One_MC1 way_NN1 is_VBZ to_TO use_VVI a_AT1 web_NN1 link_NN1 to_II a_AT1 bank-operated_JJ Internet_NN1 payment_NN1 service_NN1 (_( AIIA_NP1 1999_MC )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ where_RRQ the_AT card_NN1 details_NN2 are_VBR entered_VVN direct_JJ onto_II the_AT web_NN1 site_NN1 of_IO the_AT company_NN1 and_CC the_AT details_NN2 of_IO the_AT purchase_NN1 are_VBR automatically_RR submitted_VVN for_IF bank_NN1 authorisation_NN1 ._. 
+</s>
+<s>
+Authorisation_NN1 is_VBZ given_VVN almost_RR instantaneously_RR ,_, and_CC ,_, if_CS approved_VVN ,_, the_AT customer_NN1 can_VM receive_VVI an_AT1 approval_NN1 notice_NN1 while_CS they_PPHS2 are_VBR still_RR online_JJ ._. 
+</s>
+<s>
+Alternative_JJ methods_NN2 include_VV0 electronic_JJ authorisation_NN1 where_CS the_AT credit_NN1 card_NN1 details_NN2 are_VBR entered_VVN onto_II the_AT retailer_NN1 's_GE web_NN1 site_NN1 and_CC the_AT details_NN2 are_VBR later_RRR entered_VVN into_II an_AT1 EFTPOS_NN2 terminal_NN1 ;_; or_CC where_CS the_AT retailer_NN1 contacts_NN2 the_AT bank_NN1 or_CC a_AT1 merchant_NN1 authorisation_NN1 service_NN1 to_TO obtain_VVI appropriate_JJ authorization_NN1 for_IF the_AT purchase_NN1 ._. 
+</s>
+<s>
+However_RR ,_, there_EX is_VBZ also_RR the_AT likelihood_NN1 that_CST some_DD online_JJ traders_NN2 may_VM simply_RR take_VVI the_AT credit_NN1 card_NN1 details_NN2 for_IF the_AT purchase_NN1 at_II face_NN1 value_NN1 and_CC not_XX seek_VV0 further_JJR verification_NN1 or_CC bank_NN1 authorisation_NN1 ._. 
+</s>
+<s>
+Instead_II21 of_II22 utilizing_VVG more_RGR technologically_RR advanced_JJ prevention_NN1 techniques_NN2 ,_, online_JJ traders_NN2 are_VBR generally_RR provided_VVN with_IW numerous_JJ recommendations_NN2 for_IF fraud_NN1 prevention_NN1 strategies_NN2 by_II their_APPGE financial_JJ institution_NN1 ._. 
+</s>
+<s>
+These_DD2 are_VBR intended_VVN to_TO reduce_VVI the_AT risk_NN1 to_II those_DD2 businesses_NN2 of_IO accepting_VVG fraudulent_JJ online_JJ transactions_NN2 ._. 
+</s>
+<s>
+Retailers_NN2 are_VBR also_RR warned_VVN about_II :_: Orders_NN2 comprising_VVG duplicate_JJ items_NN2 (_( which_DDQ could_VM be_VBI sold_VVN on_RP )_) ;_; ._. 
+</s>
+<s>
+Orders_NN2 placed_VVN hurriedly_RR or_CC with_IW immediate_JJ delivery_NN1 (_( fraudsters_NN2 are_VBR not_XX bothered_VVN about_II delivery_NN1 costs_NN2 and_CC want_VV0 the_AT items_NN2 quickly_RR )_) ;_; ._. 
+</s>
+<s>
+Cards_NN2 that_CST have_VH0 been_VBN fraudulently_RR used_VVN previously_RR ;_; and_CC customers_NN2 who_PNQS provide_VV0 an_AT1 email_NN1 address_NN1 from_II a_AT1 free_JJ email_NN1 service_NN1 (_( Tomlinson_NP1 2002_MC )_) ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 being_VBG careful_JJ when_CS these_DD2 'warning_VVG signs_NN2 '_GE occur_VV0 on_II an_AT1 order_NN1 ,_, online_JJ traders_NN2 are_VBR recommended_VVN to_II :_: Verify_VV0 the_AT order_NN1 with_IW the_AT customer_NN1 over_II the_AT telephone_NN1 or_CC by_II email_NN1 ._. 
+</s>
+<s>
+Confirm_VV0 the_AT address_NN1 with_IW the_AT financial_JJ institution_NN1 ,_, recent_JJ telephone_NN1 directory_NN1 ,_, or_CC another_DD1 address_NN1 verification_NN1 system_NN1 ._. 
+</s>
+<s>
+Establish_VV0 a_AT1 database_NN1 with_IW a_AT1 record_NN1 of_IO good_JJ and_CC bad_JJ customers_NN2 (_( to_TO ensure_VVI speedy_JJ approval_NN1 and_CC without_IW unnecessary_JJ screening_NN1 )_) ._. 
+</s>
+<s>
+Request_VV0 information_NN1 from_II the_AT customer_NN1 that_CST only_RR the_AT individual_JJ cardholder_NN1 would_VM know_VVI eg_REX :_: address_NN1 ,_, digits_NN2 on_II back_NN1 of_IO card_NN1 ,_, bank_NN1 who_PNQS offers_VVZ the_AT card_NN1 ,_, etc_RA ._. 
+</s>
+<s>
+Fraud_NN1 detection_NN1 is_VBZ identifying_VVG fraud_NN1 as_RG soon_RR as_CSA possible_JJ after_CS it_PPH1 has_VHZ been_VBN perpetrated_VVN ._. 
+</s>
+<s>
+Fraud_NN1 detection_NN1 becomes_VVZ necessary_JJ once_CS fraud_NN1 prevention_NN1 has_VHZ failed_VVN ._. 
+</s>
+<s>
+In_II practice_NN1 ,_, of_RR21 course_RR22 fraud_NN1 detection_NN1 must_VM be_VBI a_AT1 continuous_JJ process_NN1 ,_, as_CSA one_PN1 will_VM not_XX often_RR be_VBI aware_JJ when_CS fraud_NN1 prevention_NN1 has_VHZ failed_VVN ._. 
+</s>
+<s>
+Individuals_NN2 can_VM attempt_VVI to_TO prevent_VVI credit_NN1 card_NN1 fraud_NN1 by_II guarding_VVG their_APPGE cards_NN2 diligently_RR ,_, but_CCB if_CS in_II31 spite_II32 of_II33 this_DD1 the_AT card_NN1 's_GE details_NN2 are_VBR stolen_VVN ,_, then_RT the_AT ability_NN1 to_TO detect_VVI ,_, as_RG soon_RR as_CSA possible_JJ ,_, that_DD1 fraud_NN1 is_VBZ imperative_JJ ._. 
+</s>
+<s>
+Fraud_NN1 detection_NN1 is_VBZ continuously_RR evolving_VVG ._. 
+</s>
+<s>
+Whenever_RRQV criminals_NN2 become_VV0 aware_JJ that_CST one_MC1 detection_NN1 method_NN1 is_VBZ in_II place_NN1 ,_, they_PPHS2 will_VM adapt_VVI their_APPGE strategies_NN2 and_CC try_VVI other_JJ methods_NN2 ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, new_JJ criminals_NN2 are_VBR also_RR constantly_RR entering_VVG the_AT field_NN1 ._. 
+</s>
+<s>
+Many_DA2 of_IO them_PPHO2 will_VM not_XX be_VBI aware_JJ of_IO past_JJ fraud_NN1 detection_NN1 methods_NN2 that_CST have_VH0 been_VBN successful_JJ and_CC will_VM adopt_VVI strategies_NN2 ,_, which_DDQ can_VM lead_VVI to_II identifiable_JJ frauds_NN2 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT earlier_JJR detection_NN1 tools_NN2 need_VV0 to_TO be_VBI applied_VVN as_II31 well_II32 as_II33 more_RGR recent_JJ strategies_NN2 ._. 
+</s>
+<s>
+The_AT development_NN1 of_IO new_JJ fraud_NN1 detection_NN1 methods_NN2 is_VBZ hampered_VVN by_II the_AT fact_NN1 that_CST the_AT exchange_NN1 of_IO ideas_NN2 in_II fraud_NN1 detection_NN1 is_VBZ severely_RR restricted_VVN ._. 
+</s>
+<s>
+It_PPH1 makes_VVZ no_AT sense_NN1 to_TO detail_VVI fraud_NN1 detection_NN1 techniques_NN2 to_II any_DD extent_NN1 in_II the_AT public_JJ domain_NN1 ,_, as_CSA this_DD1 enables_VVZ criminals_NN2 to_TO work_VVI out_RP what_DDQ strategies_NN2 they_PPHS2 need_VV0 to_TO evade_VVI detection_NN1 ._. 
+</s>
+<s>
+Many_DA2 fraud_NN1 detection_NN1 problems_NN2 involve_VV0 huge_JJ data_NN sets_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT credit_NN1 card_NN1 holders_NN2 with_IW Barclaycard_NP1 carry_VV0 out_RP approximately_RR 350_MC million_NNO transactions_NN2 a_AT1 year_NNT1 in_II the_AT United_NP1 Kingdom_NP1 alone_JJ (_( Hand_NN1 ,_, Blunt_NP1 ,_, Kelly_NP1 and_CC Adams_NP1 ,_, 2000_MC )_) ,_, The_AT Royal_JJ Bank_NN1 of_IO Scotland_NP1 ,_, which_DDQ has_VHZ the_AT largest_JJT credit_NN1 card_NN1 merchant_NN1 acquiring_VVG business_NN1 in_II Europe_NP1 ,_, carries_VVZ over_RG a_AT1 billion_NNO transactions_NN2 a_AT1 year_NNT1 and_CC AT_II &T;_NULL carries_NN2% around_RG 275_MC million_NNO calls_NN2 each_DD1 weekday_NNT1 (_( Cortes_NP1 and_CC Pregibon_NP1 ,_, 1998_MC )_) ._. 
+</s>
+<s>
+Processing_VVG these_DD2 data_NN sets_VVZ to_TO identify_VVI fraudulent_JJ transactions_NN2 or_CC calls_NN2 requires_VVZ more_DAR than_CSN mere_JJ novelty_NN1 of_IO statistical_JJ model_NN1 ,_, and_CC also_RR needs_VVZ fast_JJ and_CC efficient_JJ algorithms_NN2 ._. 
+</s>
+<s>
+These_DD2 numbers_NN2 also_RR indicate_VV0 the_AT potential_JJ value_NN1 of_IO fraud_NN1 detection_NN1 :_: if_CS 0.1%_FO of_IO a_AT1 100_MC million_NNO transactions_NN2 are_VBR fraudulent_JJ ,_, each_DD1 losing_VVG the_AT company_NN1 just_RR 10_MC ,_, then_RT overall_RR the_AT company_NN1 loses_VVZ 1_MC1 million_NNO ._. 
+</s>
+<s>
+Fraud_NN1 detection_NN1 methods_NN2 may_VM be_VBI supervised_VVN or_CC unsupervised_JJ ._. 
+</s>
+<s>
+In_II supervised_JJ% systems_NN2 ,_, samples_NN2 of_IO both_DB2 fraudulent_JJ and_CC non-fraudulent_JJ records_NN2 are_VBR taken_VVN as_CSA examples_NN2 on_II which_DDQ to_TO construct_VVI models_NN2 ._. 
+</s>
+<s>
+These_DD2 allow_VV0 one_PN1 to_TO reclassify_VVI the_AT examples_NN2 into_II one_MC1 of_IO two_MC classes_NN2 ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, this_DD1 requires_VVZ confidence_NN1 in_II trying_VVG to_TO classify_VVI the_AT original_JJ data_NN used_VMK to_TO build_VVI the_AT models_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO plan_VVI a_AT1 supervised_JJ% model_NN1 ,_, both_RR fraudulent_JJ and_CC non-fraudulent_JJ example_NN1 transactions_NN2 would_VM be_VBI required_VVN ,_, so_CS21 that_CS22 the_AT model_NN1 could_VM be_VBI trained_VVN to_TO classify_VVI between_II the_AT two_MC models_NN2 ._. 
+</s>
+<s>
+The_AT only_JJ drawback_NN1 of_IO supervised_JJ% models_NN2 is_VBZ that_CST they_PPHS2 can_VM only_RR be_VBI used_VVN to_TO detect_VVI fraud_NN1 of_IO a_AT1 type_NN1 that_CST are_VBR already_RR known_VVN ._. 
+</s>
+<s>
+In_II contrast_NN1 ,_, unsupervised_JJ methods_NN2 simply_RR identify_VV0 those_DD2 accounts_NN2 etc._RA ,_, which_DDQ differ_VV0 most_RRT from_II the_AT average_JJ transaction_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT fundamental_JJ point_NN1 is_VBZ that_CST we_PPIS2 can_VM rarely_RR be_VBI certain_JJ ,_, by_II the_AT sole_JJ use_NN1 of_IO statistical_JJ analysis_NN1 ,_, whether_CSW a_AT1 fraud_NN1 has_VHZ occurred_VVN ._. 
+</s>
+<s>
+Rather_RR ,_, the_AT analysis_NN1 should_VM be_VBI regarded_VVN as_II a_AT1 tool_NN1 which_DDQ alerts_NN2 us_PPIO2 to_II the_AT fact_NN1 that_CST observations_NN2 are_VBR anomalous_JJ ,_, or_CC more_RGR likely_JJ to_TO be_VBI suspect_JJ than_CSN others_NN2 ,_, so_CS21 that_CS22 they_PPHS2 can_VM then_RT be_VBI investigated_VVN in_II more_DAR detail_NN1 ._. 
+</s>
+<s>
+One_PN1 can_VM consider_VVI the_AT objective_NN1 of_IO this_DD1 statistical_JJ analysis_NN1 as_CSA being_VBG to_TO allocate_VVI a_AT1 suspicion_NN1 score_NN1 (_( where_CS a_AT1 higher_JJR score_NN1 is_VBZ regarded_VVN as_II more_RGR suspicious_JJ than_CSN a_AT1 lower_JJR one_PN1 )_) ._. 
+</s>
+<s>
+Suspicion_NN1 scores_NN2 can_VM be_VBI given_VVN for_IF each_DD1 record_NN1 held_VVN in_II the_AT database_NN1 and_CC these_DD2 scores_NN2 can_VM be_VBI constantly_RR reassessed_VVN ._. 
+</s>
+<s>
+These_DD2 scores_NN2 can_VM then_RT be_VBI put_VVN in_II order_NN1 and_CC can_VM be_VBI further_RRR investigate_VV0 those_DD2 with_IW the_AT highest_JJT scores_NN2 or_CC on_II those_DD2 that_CST indicate_VV0 a_AT1 sudden_JJ increase_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ too_RG expensive_JJ to_TO undertake_VVI a_AT1 detailed_JJ investigation_NN1 of_IO all_DB records_NN2 ,_, so_RR for_IF cost-effectiveness_JJ investigation_NN1 is_VBZ concentrated_VVN on_II those_DD2 transactions_NN2 considered_VVD most_RGT likely_JJ to_TO be_VBI fraudulent_JJ ._. 
+</s>
+<s>
+The_AT diversity_NN1 of_IO fraudulent_JJ activity_NN1 as_CSA indicated_VVN by_II the_AT numerous_JJ types_NN2 of_IO fraud_NN1 makes_VVZ the_AT detection_NN1 of_IO fraudulent_JJ behaviour_NN1 an_AT1 important_JJ task_NN1 ._. 
+</s>
+<s>
+At_II most_DAT banks_NN2 ,_, to_TO identify_VVI potential_JJ fraudulent_JJ at_II source_NN1 ,_, part_NN1 of_IO the_AT review_NN1 process_NN1 of_IO applications_NN2 for_IF new_JJ credit_NN1 cards_NN2 involves_VVZ routine_JJ information_NN1 checks_NN2 ._. 
+</s>
+<s>
+(_( In_II some_DD cases_NN2 ,_, the_AT scrutinising_NN1 of_IO application_NN1 forms_NN2 for_IF telltale_NN1 types_NN2 of_IO handwriting_NN1 has_VHZ led_VVN investigators_NN2 to_TO identify_VVI fraudulent_JJ applications_NN2 submitted_VVN by_II organized_JJ criminal_JJ groups_NN2 ._. 
+</s>
+<s>
+A_AT1 number_NN1 of_IO fraudulent_JJ applications_NN2 submitted_VVN by_II a_AT1 Nigerian_JJ fraud_NN1 cartel_NN1 have_VH0 been_VBN identified_VVN in_II this_DD1 way_NN1 ._. )_) ._. 
+</s>
+<s>
+Following_VVG issue_NN1 ,_, however_RR ,_, most_DAT banks_NN2 depend_VV0 upon_II periodic_JJ scrutiny_NN1 of_IO account_NN1 behaviour_NN1 to_TO assess_VVI if_CSW there_EX is_VBZ suspicion_NN1 of_IO fraud_NN1 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, banks_NN2 have_VH0 devised_VVN a_AT1 series_NN of_IO rule-based_JJ checks_NN2 against_II which_DDQ all_DB portfolio_NN1 activity_NN1 is_VBZ reviewed_VVN ._. 
+</s>
+<s>
+Such_DA checks_NN2 could_VM specify_VVI a_AT1 ceiling_NN1 on_II the_AT number_NN1 of_IO transactions_NN2 that_CST should_VM reasonably_RR be_VBI expected_VVN to_TO occur_VVI in_II a_AT1 single_JJ day_NNT1 ._. 
+</s>
+<s>
+Thus_RR ,_, an_AT1 excessive_JJ transaction_NN1 report_NN1 might_VM also_RR be_VBI utilised_VVN to_TO count_VVI the_AT number_NN1 of_IO transactions_NN2 above_II some_DD threshold_NN1 on_II purchase_NN1 amount_NN1 ._. 
+</s>
+<s>
+These_DD2 guidelines_NN2 have_VH0 been_VBN developed_VVN as_II a_AT1 result_NN1 of_IO analyses_NN2 of_IO historical_JJ fraudulent_JJ behaviour_NN1 in_II the_AT portfolio_NN1 ._. 
+</s>
+<s>
+However_RR ,_, most_DAT banks_NN2 tend_VV0 to_TO use_VVI only_RR the_AT most_RGT basic_JJ of_IO statistical_JJ analyses_NN2 to_TO develop_VVI these_DD2 guidelines_NN2 ,_, meaning_VVG that_CST in_II most_DAT cases_NN2 the_AT rule_NN1 sets_NN2 consist_VV0 of_IO a_AT1 set_NN1 of_IO simple_JJ threshold_NN1 conditions_NN2 on_II account_NN1 variables_NN2 ._. 
+</s>
+<s>
+It_PPH1 follows_VVZ that_CST the_AT use_NN1 of_IO more_RGR sophisticated_JJ technologies_NN2 for_IF fraud_NN1 detection_NN1 can_VM result_VVI in_II dramatically_RR improved_JJ results_NN2 and_CC detection_NN1 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, when_CS pattern_NN1 recognition_NN1 is_VBZ utilised_VVN ,_, the_AT problem_NN1 of_IO fraud_NN1 detection_NN1 is_VBZ an_AT1 obvious_JJ application_NN1 for_IF an_AT1 appropriately_RR chosen_VVN neural_JJ network_NN1 solution_NN1 ._. 
+</s>
+<s>
+Some_DD of_IO the_AT techniques_NN2 used_VVN for_IF fraud_NN1 detection_NN1 :_: An_AT1 outlier_JJR is_VBZ an_AT1 observation_NN1 that_CST deviates_VVZ so_RG much_DA1 from_II other_JJ observations_NN2 as_II21 to_II22 arouse_VV0 suspicion_NN1 that_CST it_PPH1 was_VBDZ generated_VVN by_II a_AT1 different_JJ mechanism_NN1 ._. 
+</s>
+<s>
+Unsupervised_JJ learning_NN1 approach_NN1 is_VBZ employed_VVN to_II this_DD1 model_NN1 ._. 
+</s>
+<s>
+Usually_RR ,_, the_AT result_NN1 of_IO unsupervised_JJ learning_NN1 is_VBZ a_AT1 new_JJ explanation_NN1 or_CC representation_NN1 of_IO the_AT observation_NN1 data_NN ,_, which_DDQ will_VM then_RT lead_VVI to_II improved_JJ future_JJ responses_NN2 or_CC decisions_NN2 ._. 
+</s>
+<s>
+Unsupervised_JJ methods_NN2 do_VD0 not_XX utilise_VVI the_AT prior_JJ knowledge_NN1 of_IO fraudulent_JJ and_CC non-fraudulent_JJ transactions_NN2 in_II an_AT1 historical_JJ database_NN1 ,_, but_CCB rather_RR identify_VV0 changes_NN2 in_II behaviour_NN1 or_CC unusual_JJ transactions_NN2 ._. 
+</s>
+<s>
+These_DD2 detection_NN1 utilise_VV0 a_AT1 baseline_NN1 distribution_NN1 that_CST indicates_VVZ normal_JJ behaviour_NN1 and_CC then_RT identify_VV0 observed_JJ cases_NN2 that_CST show_NN1 highest_JJT variance_NN1 from_II this_DD1 norm_NN1 ._. 
+</s>
+<s>
+Outliers_NP1 are_VBR a_AT1 basic_JJ form_NN1 of_IO non-standard_JJ observation_NN1 that_CST can_VM be_VBI implemented_VVN used_JJ for_IF fraud_NN1 identification_NN1 ._. 
+</s>
+<s>
+In_II supervised_JJ% detection_NN1 methods_NN2 ,_, a_AT1 system_NN1 is_VBZ in_II place_NN1 to_TO discriminate_VVI between_II fraudulent_JJ and_CC non-fraudulent_JJ behaviour_NN1 so_CS21 that_CS22 new_JJ observations_NN2 can_VM be_VBI classified_VVN ._. 
+</s>
+<s>
+Supervised_VVN detections_NN2 require_VV0 accurate_JJ identification_NN1 of_IO fraudulent_JJ transactions_NN2 in_II historical_JJ databases_NN2 and_CC are_VBR only_RR able_JK to_TO detect_VVI frauds_NN2 of_IO a_AT1 retrospective_JJ type_NN1 ._. 
+</s>
+<s>
+An_AT1 advantage_NN1 of_IO using_VVG unsupervised_JJ methods_NN2 as_II31 opposed_II32 to_II33 supervised_JJ% methods_NN2 is_VBZ that_CST previously_RR unknown_JJ types_NN2 of_IO fraud_NN1 may_VM be_VBI identified_VVN ._. 
+</s>
+<s>
+A_AT1 neural_JJ network_NN1 is_VBZ a_AT1 set_NN1 of_IO interlinked_JJ nodes_NN2 devised_VVD to_TO mimic_VVI the_AT functioning_NN1 of_IO the_AT human_JJ brain_NN1 ._. 
+</s>
+<s>
+Each_DD1 node_NN1 has_VHZ a_AT1 weighted_JJ link_NN1 to_II several_DA2 other_JJ nodes_NN2 in_II adjacent_JJ levels_NN2 ._. 
+</s>
+<s>
+Individual_JJ nodes_NN2 receive_VV0 input_NN1 from_II linked_JJ nodes_NN2 and_CC use_VV0 the_AT weighting_NN1 as_II an_AT1 integral_JJ part_NN1 of_IO a_AT1 simple_JJ function_NN1 to_TO compute_VVI output_NN1 values_NN2 ._. 
+</s>
+<s>
+Neural_JJ networks_NN2 come_VV0 in_II a_AT1 variety_NN1 of_IO types_NN2 and_CC can_VM be_VBI devised_VVN for_IF supervised_VVN or_CC unsupervised_JJ detection_NN1 ._. 
+</s>
+<s>
+The_AT user_NN1 can_VM specify_VVI the_AT number_NN1 of_IO hidden_JJ levels_NN2 as_II31 well_II32 as_II33 the_AT number_NN1 of_IO nodes_NN2 within_II each_DD1 specific_JJ hidden_JJ layer_NN1 ._. 
+</s>
+<s>
+Depending_II21 on_II22 the_AT application_NN1 ,_, the_AT output_NN1 layer_NN1 of_IO the_AT neural_JJ network_NN1 may_VM contain_VVI any_DD number_NN1 of_IO nodes_NN2 ._. 
+</s>
+<s>
+The_AT typical_JJ Internet_NN1 Payment_NN1 Processing_NN1 systems_NN2 have_VH0 following_JJ actors_NN2 :_: Acquiring_VVG Bank_NN1 :_: In_II the_AT online_JJ payment-processing_JJ world_NN1 ,_, an_AT1 acquiring_VVG bank_NN1 provides_VVZ Internet_NN1 Merchant_NN1 Accounts_NN2 ._. 
+</s>
+<s>
+A_AT1 Merchant_NN1 must_VM open_VVI an_AT1 Internet_NN1 Merchant_NN1 Account_NN1 with_IW an_AT1 Acquiring_VVG Bank_NN1 to_TO enable_VVI online_JJ credit_NN1 card_NN1 authorisation_NN1 and_CC payment_NN1 processing_NN1 ._. 
+</s>
+<s>
+Credit_NN1 Card_NN1 Association_NN1 :_: A_ZZ1 financial_JJ institution_NN1 that_CST provides_VVZ credit_NN1 card_NN1 services_NN2 that_CST are_VBR branded_VVN and_CC distributed_VVN by_II customer_NN1 Issuing_NN1 Banks_NN2 ,_, Example_NN1 include_VV0 Visa_NN1 and_CC MasterCard_NP1 ._. 
+</s>
+<s>
+Customer_NN1 Issuing_NN1 Bank_NN1 :_: A_ZZ1 financial_JJ institution_NN1 ,_, such_II21 as_II22 a_AT1 bank_NN1 ,_, that_DD1 provides_VVZ your_APPGE customer_NN1 with_IW a_AT1 payment_NN1 instrument_NN1 ._. 
+</s>
+<s>
+The_AT issuer_NN1 is_VBZ responsible_JJ for_IF the_AT cardholder_NN1 's_GE debt_NN1 payment_NN1 ._. 
+</s>
+<s>
+Internet_NN1 Merchant_NN1 Account_NN1 :_: A_ZZ1 special_JJ account_NN1 with_IW an_AT1 Acquiring_VVG Bank_NN1 that_CST allows_VVZ the_AT merchant_NN1 to_TO accept_VVI credit_NN1 cards_NN2 over_II the_AT Internet_NN1 ._. 
+</s>
+<s>
+The_AT merchant_NN1 is_VBZ typically_RR pays_VVZ a_AT1 processing_NN1 fee_NN1 for_IF each_DD1 transaction_NN1 processed_VVN ,_, also_RR known_VVN as_II discount_NN1 rate_NN1 ._. 
+</s>
+<s>
+A_AT1 merchant_NN1 applies_VVZ for_IF an_AT1 Internet_NN1 Merchant_NN1 Account_NN1 in_II a_AT1 process_NN1 similar_JJ to_II applying_VVG for_IF a_AT1 commercial_JJ loan_NN1 ._. 
+</s>
+<s>
+The_AT fees_NN2 charged_VVN by_II the_AT acquiring_VVG bank_NN1 usually_RR vary_VV0 ._. 
+</s>
+<s>
+Payment_NN1 Gateway_NP1 :_: A_AT1 service_NN1 that_CST provides_VVZ connectivity_NN1 among_II merchants_NN2 ,_, customer_NN1 and_CC financial_JJ networks_NN2 to_TO process_VVI authorisation_NN1 and_CC payments_NN2 ._. 
+</s>
+<s>
+The_AT service_NN1 is_VBZ usually_RR operated_VVN by_II a_AT1 third-party_JJ such_II21 as_II22 Verisign_NP1 ._. 
+</s>
+<s>
+Processor_NN1 :_: A_ZZ1 large_JJ data_NN center_NN1 that_CST processes_VVZ credit_NN1 card_NN1 transactions_NN2 and_CC settles_VVZ funds_NN2 to_II merchants_NN2 ._. 
+</s>
+<s>
+The_AT processor_NN1 is_VBZ connected_VVN to_II merchant_NN1 's_GE site_NN1 on_II31 behalf_II32 of_II33 an_AT1 acquiring_VVG Bank_NN1 via_II Payment_NN1 Gateway_NP1 ._. 
+</s>
+<s>
+Payment_NN1 processing_NN1 can_VM be_VBI divided_VVN into_II two_MC major_JJ phases_NN2 :_: During_II authorisation_NN1 phase_NN1 ,_, verification_NN1 is_VBZ made_VVN that_CST the_AT credit_NN1 card_NN1 is_VBZ active_JJ and_CC the_AT customer_NN1 has_VHZ sufficient_JJ credit_NN1 available_JJ to_TO make_VVI the_AT purchase_NN1 ._. 
+</s>
+<s>
+Authorisation_NN1 Steps_NN2 :_: Customer_NN1 decides_VVZ to_TO make_VVI a_AT1 purchase_NN1 on_II a_AT1 merchant_NN1 's_GE Web_NN1 site_NN1 ,_, proceeds_VVZ to_TO checkout_VVI and_CC input_NN1 credit_NN1 card_NN1 information_NN1 ._. 
+</s>
+<s>
+The_AT Merchant_NN1 's_GE Web_NN1 site_NN1 receives_VVZ customer_NN1 information_NN1 and_CC sends_VVZ transaction_NN1 information_NN1 to_II the_AT Payment_NN1 Gateway_NP1 ._. 
+</s>
+<s>
+The_AT Payment_NN1 Gateway_NP1 routes_VVZ% the_AT information_NN1 to_II the_AT Processor_NN1 ._. 
+</s>
+<s>
+The_AT Processor_NN1 sends_VVZ information_NN1 to_II the_AT Issuing_JJ Bank_NN1 of_IO the_AT Customer_NN1 's_GE credit_NN1 card_NN1 ._. 
+</s>
+<s>
+The_AT Processor_NN1 routes_NN2 transactions_NN2 result_VV0 to_II the_AT Payment_NN1 Gateway_NP1 ._. 
+</s>
+<s>
+The_AT Payment_NN1 Gateway_NP1 passes_VVZ result_NN1 information_NN1 to_II the_AT Merchant_NN1 ._. 
+</s>
+<s>
+The_AT Merchant_NN1 accepts_VVZ or_CC rejects_VVZ transactions_NN2 and_CC ships_NN2 goods_NN2 if_CS necessary_JJ ._. 
+</s>
+<s>
+The_AT second_MD phase_NN1 is_VBZ the_AT settlement_NN1 phase_NN1 during_II which_DDQ money_NN1 is_VBZ transferred_VVN from_II the_AT customer_NN1 's_GE account_NN1 to_II the_AT merchant_NN1 's_GE account_NN1 ._. 
+</s>
+<s>
+Settlement_NN1 Steps_NN2 :_: Merchant_NN1 request_VV0 the_AT Payment_NN1 Gateway_NP1 to_TO settle_VVI a_AT1 transaction_NN1 ._. 
+</s>
+<s>
+The_AT Payment_NN1 Gateway_NP1 sends_VVZ all_DB transactions_NN2 to_TO be_VBI settled_VVN to_II the_AT Processor_NN1 ._. 
+</s>
+<s>
+The_AT Processor_NN1 sends_VVZ settlement_NN1 payment_NN1 details_NN2 to_II customer_NN1 's_GE credit_NN1 card_NN1 Issuing_NN1 Bank_NN1 :_: at_II the_AT same_DA time_NNT1 the_AT processor_NN1 sends_VVZ payment_NN1 details_NN2 to_II merchant_NN1 's_VBZ Acquiring_VVG Bank_NN1 ._. 
+</s>
+<s>
+The_AT Issuing_JJ Bank_NN1 includes_VVZ the_AT Merchant_NN1 's_GE charge_NN1 on_II the_AT Customer_NN1 's_GE credit_NN1 card_NN1 statement_NN1 while_CS the_AT Acquiring_VVG Bank_NN1 credits_VVZ the_AT Merchant_NN1 's_GE account_NN1 ._. 
+</s>
+<s>
+Figure_NN1 4_MC shows_VVZ various_JJ methods_NN2 that_CST have_VH0 been_VBN adopted_VVN in_BCL21 order_BCL22 to_TO reduce_VVI the_AT fraud_NN1 ._. 
+</s>
+<s>
+Facts_NN2 infers_VVZ ,_, that_CST the_AT methods_NN2 which_DDQ are_VBR being_VBG used_VVN are_VBR not_XX sufficient_JJ enough_RR to_TO bring_VVI down_RP the_AT fraud_NN1 rate_NN1 ,_, but_CCB helpful_JJ in_II detecting_VVG fraud_NN1 ._. 
+</s>
+<s>
+The_AT new_JJ Internet_NN1 Payment_NN1 Processing_NN1 systems_NN2 have_VH0 following_JJ new_JJ actors_NN2 :_: An_AT1 application_NN1 server_NN1 is_VBZ a_AT1 software_NN1 platform_NN1 that_CST delivers_VVZ content_NN1 to_II the_AT Web_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST an_AT1 application_NN1 server_NN1 interprets_VVZ site_NN1 traffic_NN1 and_CC constructs_NN2 pages_NN2 based_VVN on_II a_AT1 dynamic_JJ content_JJ repository_NN1 ._. 
+</s>
+<s>
+This_DD1 content_NN1 is_VBZ typically_RR personalized_VVN based_VVN on_II site_NN1 visitor_NN1 information_NN1 ,_, such_II21 as_II22 the_AT content_NN1 he/she_PPHS1 has_VHZ viewed_VVN up_II21 to_II22 that_DD1 point_NN1 ,_, his/her_APPGE past_JJ buying_NN1 history_NN1 ,_, or_CC preferences_NN2 he/she_PPHS1 has_VHZ set_VVN during_II previous_JJ visits_NN2 ._. 
+</s>
+<s>
+These_DD2 changes_NN2 based_VVN on_II site_NN1 visitor_NN1 preferences_NN2 and_CC buying_VVG history_NN1 fall_NN1 under_II the_AT classification_NN1 of_IO site_NN1 Personalization_NN1 ._. 
+</s>
+<s>
+An_AT1 application_NN1 server_NN1 mainly_RR manages_VVZ the_AT connection_NN1 between_II the_AT database_NN1 and_CC other_JJ components_NN2 such_II21 as_II22 web-service_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 the_AT application_NN1 server_NN1 provides_VVZ a_AT1 method_NN1 of_IO communication_NN1 between_II the_AT merchant_NN1 and_CC the_AT buyers_NN2 ._. 
+</s>
+<s>
+It_PPH1 offers_VVZ a_AT1 web-based_JJ application_NN1 through_II which_DDQ user_NN1 provides_VVZ their_APPGE payment_NN1 details_NN2 ._. 
+</s>
+<s>
+To_TO better_RRR understand_VVI the_AT concept_NN1 of_IO Application_NN1 Server_NN1 lets_VVZ look_NN1 at_II a_AT1 small_JJ example_NN1 :_: Let_VM21 's_VM22 say_VVI that_CST you_PPY have_VH0 found_VVN an_AT1 exclusive_JJ designer_NN1 shirt_NN1 which_DDQ you_PPY would_VM like_VVI to_TO buy_VVI for_IF yourself_PPX1 on_II a_AT1 website_NN1 ._. 
+</s>
+<s>
+You_PPY go_VV0 to_II the_AT website_NN1 fill_VV0 out_RP the_AT shipping_NN1 and_CC billing_NN1 information_NN1 and_CC click_VV0 on_II the_AT button_NN1 to_TO confirm_VVI the_AT purchase_NN1 ._. 
+</s>
+<s>
+That_DD1 click_NN1 sends_VVZ the_AT message_NN1 from_II your_APPGE machine_NN1 through_II an_AT1 application_NN1 server_NN1 to_II the_AT merchants_NN2 inventory_NN1 and_CC accounting_VVG system_NN1 ._. 
+</s>
+<s>
+It_PPH1 then_RT feeds_VVZ all_DB the_AT transaction_NN1 details_NN2 into_II the_AT merchant_NN1 database_NN1 and_CC do_VD0 the_AT authentication_NN1 ._. 
+</s>
+<s>
+At_II this_DD1 stage_NN1 ,_, one_MC1 of_IO the_AT many_DA2 things_NN2 the_AT application_NN1 server_NN1 is_VBZ doing_VDG is_VBZ managing_VVG the_AT connection_NN1 between_II databases_NN2 ._. 
+</s>
+<s>
+The_AT information_NN1 from_II the_AT inventory_NN1 system_NN1 along_II21 with_II22 the_AT information_NN1 that_CST you_PPY submitted_VVD pass_NN1 through_II the_AT application_NN1 server_NN1 and_CC you_PPY see_VV0 the_AT message_NN1 on_II the_AT screen_NN1 that_CST the_AT transactions_NN2 is_VBZ complete_JJ and_CC goods_NN2 would_VM be_VBI dispatched_VVN in_II usually_RR 1-2_MCMC weeks_NNT2 time_NNT1 ._. 
+</s>
+<s>
+XML_NP1 Web_NN1 services_NN2 are_VBR a_AT1 category_NN1 of_IO software_NN1 components_NN2 that_CST provide_VV0 functionality_NN1 over_II the_AT network_NN1 ._. 
+</s>
+<s>
+Interaction_NN1 with_IW XML_NP1 Web_NN1 Services_NN2 is_VBZ usually_RR performed_VVN using_VVG standard_JJ Internet_NN1 Protocols_NN2 ._. 
+</s>
+<s>
+These_DD2 include_VV0 well-established_JJ Internet_NN1 standards_NN2 such_II21 as_II22 TCP/IP_NP1 ,_, HTTP_NP1 ,_, HTTPS_NP1 and_CC XML_NP1 ._. 
+</s>
+<s>
+An_AT1 XML_NP1 Web_NN1 Service_NN1 is_VBZ rarely_RR a_AT1 complete_JJ application_NN1 and_CC is_VBZ most_RGT frequently_RR a_AT1 functional_JJ component_NN1 of_IO a_AT1 larger_JJR solution_NN1 ._. 
+</s>
+<s>
+As_II such_DA ,_, XML_NP1 Web_NN1 services_NN2 are_VBR primarily_RR oriented_VVN toward_II program-to-program_JJ interaction_NN1 ._. 
+</s>
+<s>
+With_IW an_AT1 XML_NP1 Web_NN1 service_NN1 the_AT information_NN1 is_VBZ available_JJ through_II a_AT1 well-defined_JJ interface_NN1 and_CC is_VBZ accessed_VVN using_VVG standard_JJ protocols_NN2 ._. 
+</s>
+<s>
+Any_DD device_NN1 or_CC program_NN1 regardless_RR of_IO platform_NN1 or_CC implementation_NN1 languages_NN2 ,_, can_VM communicate_VVI with_IW the_AT XML_NP1 Web_NN1 service_NN1 across_II the_AT network_NN1 to_TO access_VVI the_AT information_NN1 ._. 
+</s>
+<s>
+This_DD1 was_VBDZ the_AT main_JJ motivation_NN1 behind_II implementing_VVG web-service_JJ as_CSA it_PPH1 helped_VVD making_VVG the_AT model_NN1 robust_JJ and_CC platform_NN1 independent_NN1 in_II31 terms_II32 of_II33 information_NN1 sharing_VVG ._. 
+</s>
+<s>
+Whether_CSW it_PPH1 's_VBZ a_AT1 Windows_NN2 Machine_VV0 or_CC Unix_NN1 or_CC a_AT1 handheld_JJ device_NN1 such_II21 as_II22 PDA_NP1 ,_, XML_NP1 Web_NN1 services_NN2 could_VM communicate_VVI with_IW all_DB of_IO them_PPHO2 ._. 
+</s>
+<s>
+The_AT Web-_JJ Service_NN1 server_NN1 is_VBZ the_AT server_NN1 where_CS the_AT web-service_NN1 physically_RR exists_VVZ ._. 
+</s>
+<s>
+The_AT Web_NN1 application_NN1 on_II the_AT Web_NN1 server_NN1 communicates_VVZ with_IW the_AT Web-service_JJ to_TO request_VVI user_NN1 details_NN2 and_CC send_VVI all_DB the_AT transaction_NN1 details_NN2 to_II the_AT database_NN1 ._. 
+</s>
+<s>
+In_II simple_JJ terms_NN2 web-services_NN2 is_VBZ providing_VVG a_AT1 bridge_NN1 between_II the_AT client_NN1 browser_NN1 and_CC database_NN1 that_CST increases_VVZ the_AT database_NN1 security_NN1 ._. 
+</s>
+<s>
+The_AT web-service_NN1 only_RR provides_VVZ definition_NN1 of_IO the_AT implementation_NN1 of_IO all_DB the_AT methods_NN2 and_CC hiding_VVG all_DB the_AT process_NN1 that_CST is_VBZ designed_VVN in_II accessing_VVG the_AT information_NN1 ._. 
+</s>
+<s>
+The_AT database_NN1 Server_NN1 used_VVN in_II this_DD1 model_NN1 is_VBZ the_AT Microsoft_NP1 SQL_NN1 Server_NN1 that_CST is_VBZ a_AT1 comprehensive_JJ database_NN1 platform_NN1 providing_VVG enterprise-class_JJ data_NN management_NN1 with_IW integrated_JJ business_NN1 intelligence_NN1 (_( BI_NP1 )_) tools_NN2 ._. 
+</s>
+<s>
+The_AT SQL_NN1 Server_NN1 database_NN1 engine_NN1 provides_VVZ more_RGR secure_JJ ,_, reliable_JJ storage_NN1 for_IF both_DB2 relational_JJ and_CC structured_JJ data_NN ,_, enabling_VVG to_TO build_VVI and_CC manage_VVI highly_RR available_JJ ,_, performance_NN1 data_NN applications_NN2 ._. 
+</s>
+<s>
+The_AT Database_NN1 design_NN1 is_VBZ discussed_VVN detailed_JJ in_II Section_NN1 4_MC ._. 
+</s>
+<s>
+The_AT new_JJ transactional_JJ model_NN1 has_VHZ been_VBN designed_VVN to_TO overcome_VVI the_AT weaknesses_NN2 present_VV0 in_II the_AT current_JJ model_NN1 ._. 
+</s>
+<s>
+A_AT1 lot_NN1 of_IO effort_NN1 has_VHZ been_VBN put_VVN into_II selecting_VVG one_MC1 of_IO the_AT best_JJT possible_JJ solutions_NN2 to_II the_AT problem_NN1 ._. 
+</s>
+<s>
+The_AT new_JJ model_NN1 aims_VVZ to_TO offer_VVI a_AT1 transactional_JJ model_NN1 with_IW strong_JJ authentication_NN1 and_CC fraud_NN1 detection_NN1 capability_NN1 alongside_RL with_IW implementation_NN1 of_IO security_NN1 features_NN2 make_VV0 it_PPH1 least_RRT vulnerable_JJ to_II any_DD sorts_NN2 of_IO attack_NN1 ._. 
+</s>
+<s>
+The_AT new_JJ authorisation_NN1 process_NN1 includes_VVZ more_DAR steps_NN2 as_CSA compared_VVN to_II one_PN1 already_RR present_JJ ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ essential_JJ to_TO introduce_VVI more_DAR stages_NN2 in_II the_AT authorisation_NN1 phase_NN1 to_TO achieve_VVI all_DB the_AT objectives_NN2 ._. 
+</s>

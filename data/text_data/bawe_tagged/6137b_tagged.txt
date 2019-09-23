@@ -1,0 +1,420 @@
+<s>
+A_AT1 program_NN1 was_VBDZ written_VVN to_TO discover_VVI whether_CSW the_AT atomic_JJ structure_NN1 of_IO melt-spun_JJ amorphous_JJ Dy7Ni3_FO could_VM be_VBI modelled_VVN by_II a_AT1 random_JJ atomic_JJ packing_NN1 ,_, with_IW the_AT nickel_NN1 atoms_NN2 forced_VVN apart_RL to_II the_AT minimum_JJ distance_NN1 found_VVD experimentally_RR ._. 
+</s>
+<s>
+The_AT program_NN1 was_VBDZ based_VVN on_II the_AT Metropolis_NN1 Monte_NP1 Carlo_NP1 method_NN1 and_CC used_VVD the_AT Lennard-Jones_NP1 potential_NN1 ._. 
+</s>
+<s>
+Program_NN1 results_NN2 with_IW nickel_NN1 contacts_NN2 permitted_VVD were_VBDR checked_VVN against_II Percus-Yevick_NP1 data_NN ,_, confirming_VVG that_CST the_AT program_NN1 was_VBDZ working_VVG correctly_RR ._. 
+</s>
+<s>
+Data_NN from_II the_AT generated_JJ structure_NN1 with_IW nickel_NN1 contacts_NN2 prevented_VVD was_VBDZ very_RG similar_JJ to_II the_AT experimental_JJ results_NN2 ,_, but_CCB did_VDD not_XX give_VVI a_AT1 close_JJ enough_RR match_VV0 to_TO represent_VVI a_AT1 possible_JJ structure_NN1 ._. 
+</s>
+<s>
+No_AT common_JJ atomic_JJ configurations_NN2 could_VM be_VBI found_VVN in_II the_AT generated_JJ structure_NN1 ;_; the_AT atoms_NN2 appeared_VVD to_TO be_VBI randomly_RR arranged_VVN ._. 
+</s>
+<s>
+Using_VVG the_AT correct_JJ radius_NN1 ratio_NN1 ,_, a_AT1 spherically_RR symmetric_JJ potential_NN1 and_CC forcing_VVG the_AT nickel_NN1 atoms_NN2 apart_RL is_VBZ therefore_RR not_XX sufficient_JJ to_TO find_VVI a_AT1 possible_JJ structure_NN1 ;_; it_PPH1 appears_VVZ that_CST a_AT1 more_RGR sophisticated_JJ potential_NN1 involving_VVG directionality_NN1 is_VBZ required_VVN ._. 
+</s>
+<s>
+A_AT1 study_NN1 of_IO the_AT atomic_JJ and_CC magnetic_JJ structure_NN1 of_IO melt-spun_JJ amorphous_JJ Dy_NN1 7Ni_FO 3_MC was_VBDZ carried_VVN out_RP by_II Alex_NP1 Hannon_NP1 in_II 1991.1_MC It_PPH1 may_VM initially_RR be_VBI thought_VVN that_CST the_AT structure_NN1 of_IO an_AT1 amorphous_JJ material_NN1 could_VM be_VBI modelled_VVN by_II a_AT1 random_JJ atomic_JJ packing_NN1 ;_; however_RR ,_, it_PPH1 was_VBDZ found_VVN that_CST there_EX were_VBDR no_AT Ni-Ni_NP1 contacts_NN2 in_II the_AT material_NN1 ,_, which_DDQ would_VM not_XX be_VBI expected_VVN from_II such_DA a_AT1 model_NN1 ._. 
+</s>
+<s>
+A_AT1 more_RGR ordered_JJ structural_JJ model_NN1 is_VBZ therefore_RR needed_VVN which_DDQ takes_VVZ this_DD1 into_II account_NN1 ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 project_NN1 was_VBDZ to_TO discover_VVI whether_CSW a_AT1 possible_JJ atomic_JJ structure_NN1 for_IF melt-spun_JJ amorphous_JJ Dy_NN1 7Ni_FO 3_MC could_VM be_VBI found_VVN using_VVG a_AT1 model_NN1 based_VVN on_II a_AT1 random_JJ atomic_JJ packing_NN1 ,_, with_IW a_AT1 spherically_RR symmetric_JJ potential_NN1 ,_, but_CCB including_II forcing_VVG the_AT nickel_NN1 atoms_NN2 apart_RL to_II the_AT minimum_JJ distance_NN1 found_VVN in_II the_AT above_JJ experiment_NN1 ;_; or_CC whether_CSW further_JJR modifications_NN2 to_II this_DD1 model_NN1 would_VM be_VBI needed_VVN to_TO find_VVI a_AT1 structure_NN1 ._. 
+</s>
+<s>
+The_AT topic_NN1 is_VBZ of_IO interest_NN1 because_CS rare_JJ earth-transition_JJ metal_NN1 glasses_NN2 such_II21 as_II22 this_DD1 have_VH0 been_VBN studied_VVN little_RR 1_MC1 ,_, and_CC the_AT structure_NN1 of_IO this_DD1 material_NN1 is_VBZ still_RR not_XX understood_VVN ._. 
+</s>
+<s>
+Amorphous_JJ metals_NN2 were_VBDR first_MD discovered_VVD in_II 1959_MC by_II Duwez_NP1 and_CC associates_NN2 2,3_MC ,_, who_PNQS formed_VVD glassy_JJ alloys_NN2 by_II quenching_VVG mixtures_NN2 of_IO liquid_JJ metals_NN2 ._. 
+</s>
+<s>
+Since_II then_RT many_DA2 different_JJ amorphous_JJ metals_NN2 (_( also_RR called_VVN metallic_JJ glasses_NN2 if_CS they_PPHS2 have_VH0 been_VBN cooled_VVN from_II the_AT liquid_JJ state_NN1 4_MC )_) have_VH0 been_VBN created_VVN ._. 
+</s>
+<s>
+The_AT liquid_JJ metal_NN1 must_VM be_VBI cooled_VVN very_RG rapidly_RR to_TO prevent_VVI crystallisation_NN1 ._. 
+</s>
+<s>
+In_II the_AT melt-spinning_JJ technique_NN1 ,_, this_DD1 is_VBZ done_VDN by_II a_AT1 jet_NN1 of_IO molten_JJ metal_NN1 hitting_VVG a_AT1 rapidly_RR rotating_VVG copper_NN1 wheel_NN1 ;_; it_PPH1 is_VBZ cooled_VVN at_II a_AT1 rate_NN1 of_IO around_RG 10_MC 6_MC K_ZZ1 s_ZZ1 -1_MC ,_, producing_VVG a_AT1 very_RG thin_JJ ribbon_NN1 of_IO metallic_JJ glass.2_FO ._. 
+</s>
+<s>
+Amorphous_JJ metals_NN2 were_VBDR the_AT focus_NN1 of_IO considerable_JJ interest_NN1 during_II the_AT late_JJ 1970s_MC2 and_CC 1980s_MC2 4_MC ,_, because_II21 of_II22 their_APPGE unusual_JJ physical_JJ properties_NN2 :_: they_PPHS2 are_VBR hard_JJ ,_, ductile_JJ ,_, not_XX brittle_JJ and_CC are_VBR relatively_RR good_JJ electrical_JJ conductors_NN2 3_MC ._. 
+</s>
+<s>
+Despite_II this_DD1 ,_, they_PPHS2 have_VH0 not_XX yet_RR found_VVN widespread_JJ practical_JJ application_NN1 ;_; the_AT reasons_NN2 for_IF this_DD1 include_VV0 problems_NN2 with_IW cost_NN1 and_CC the_AT difficulty_NN1 of_IO producing_VVG bulk_NN1 blocks_NN2 of_IO the_AT material_NN1 ._. 
+</s>
+<s>
+However_RR ,_, amorphous_JJ metals_NN2 may_VM yet_RR be_VBI put_VVN to_II wider_JJR use_NN1 ,_, and_CC the_AT field_NN1 is_VBZ still_RR one_MC1 of_IO interest_NN1 which_DDQ is_VBZ not_XX fully_RR understood_VVN ._. 
+</s>
+<s>
+X-ray_NN1 and_CC neutron_NN1 diffraction_NN1 are_VBR used_VVN to_TO study_VVI the_AT structure_NN1 of_IO amorphous_JJ metals.5_FO The_AT number_NN1 of_IO neighbours_NN2 to_II an_AT1 atom_NN1 between_II distances_NN2 r_ZZ1 and_CC r+dr_FO is_VBZ given_VVN by_II the_AT radial_JJ distribution_NN1 function_NN1 ,_, g(r)_NNU :_: (_( 1_MC1 )_) where_RRQ (_( r_ZZ1 )_) is_VBZ the_AT average_JJ number_NN1 density_NN1 of_IO relevant_JJ atoms_NN2 at_II a_AT1 distance_NN1 r_ZZ1 from_II any_DD atom_NN1 randomly_RR chosen_VVN as_II the_AT origin.3,5_FO This_DD1 gives_VVZ a_AT1 one-dimensional_JJ representation_NN1 of_IO the_AT structure_NN1 ,_, with_IW broad_JJ peaks_NN2 indicating_VVG the_AT positions_NN2 of_IO ,_, and_CC numbers_NN2 of_IO atoms_NN2 in_RP ,_, shells_NN2 of_IO atoms_NN2 surrounding_VVG any_DD given_JJ atom_NN1 ._. 
+</s>
+<s>
+Diffraction_NN1 data_NN is_VBZ generally_RR analysed_VVN using_VVG the_AT partial_JJ correlation_NN1 function_NN1 for_IF particular_JJ combinations_NN2 of_IO atoms_NN2 ,_, t(r)_JJ :_: (_( 2_MC )_) because_CS in_II this_DD1 function_NN1 the_AT experimental_JJ broadening_NN1 is_VBZ independent_JJ of_IO r.5_FO As_II the_AT experimental_JJ data_NN is_VBZ one-dimensional_JJ it_PPH1 is_VBZ impossible_JJ to_TO find_VVI a_AT1 conclusive_JJ three-dimensional_JJ structure_NN1 ,_, but_CCB a_AT1 possible_JJ structure_NN1 may_VM be_VBI found.5_FO ._. 
+</s>
+<s>
+These_DD2 studies_NN2 have_VH0 shown_VVN that_CST metallic_JJ glasses_NN2 are_VBR very_RG densely_RR packed_VVN ,_, and_CC that_CST they_PPHS2 have_VH0 a_AT1 higher_JJR degree_NN1 of_IO short-range_JJ order_NN1 than_CSN liquids_NN2 ;_; this_DD1 is_VBZ shown_VVN by_II the_AT second_MD peaks_NN2 of_IO the_AT radial_JJ distribution_NN1 or_CC correlation_NN1 functions_NN2 splitting_VVG into_II two_MC 'shoulders'.3,6_FO Studies_NN2 of_IO metal-metalloid_JJ glasses_NN2 have_VH0 shown_VVN that_CST metalloid-metalloid_JJ nearest_JJT neighbours_NN2 do_VD0 not_XX occur_VVI ,_, as_CSA would_VM be_VBI expected_VVN in_II a_AT1 dense_JJ random_JJ packing_NN1 structure.7_FO An_AT1 equivalent_JJ feature_NN1 was_VBDZ found_VVN by_II Hannon_NP1 's_GE experiment_NN1 ,_, with_IW no_AT contact_NN1 between_II transition_NN1 metal_NN1 atoms_NN2 ._. 
+</s>
+<s>
+One_MC1 suggestion_NN1 for_IF the_AT structure_NN1 of_IO amorphous_JJ Dy_NN1 7Ni_FO 3_MC is_VBZ that_CST the_AT dysprosium_NN1 atoms_NN2 may_VM be_VBI arranged_VVN in_II trigonal_JJ prisms_NN2 ,_, as_CSA occurs_VVZ in_II the_AT crystal_NN1 form_NN1 of_IO dysprosium_NN1 nickel_NN1 8_MC ._. 
+</s>
+<s>
+Trigonal_JJ prisms_NN2 also_RR occur_VV0 in_II many_DA2 transition_NN1 metal-metalloid_NN1 glasses_NN2 7_MC ,_, and_CC the_AT radius_NN1 ratio_NN1 of_IO nickel_NN1 and_CC dysprosium_NN1 atoms_NN2 suggests_VVZ formation_NN1 of_IO trigonal_JJ prisms_NN2 5_MC ._. 
+</s>
+<s>
+If_CS trigonal_JJ prisms_NN2 were_VBDR present_JJ ,_, the_AT nickel_NN1 atoms_NN2 would_VM be_VBI in_II the_AT centres_NN2 of_IO the_AT prisms_NN2 ,_, and_CC hence_RR not_XX in_II31 contact_II32 with_II33 each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+A_AT1 program_NN1 was_VBDZ written_VVN in_II fortran_NN1 95_MC to_TO try_VVI to_TO find_VVI a_AT1 possible_JJ structure_NN1 for_IF melt-spun_JJ amorphous_JJ Dy_NN1 7Ni_FO 3_MC ._. 
+</s>
+<s>
+The_AT finished_JJ program_NN1 used_VVN for_IF many_DA2 of_IO the_AT program_NN1 runs_VVZ is_VBZ shown_VVN in_II Appendix_NN1 A._NP1 The_AT program_NN1 was_VBDZ initially_RR run_VVN with_IW contacts_NN2 between_II all_DB atoms_NN2 permitted_VVD ._. 
+</s>
+<s>
+Data_NN from_II this_DD1 model_NN1 could_VM be_VBI compared_VVN with_IW the_AT Percus-Yevick_NP1 data_NN 1_MC1 for_IF a_AT1 random_JJ packing_NN1 of_IO hard_JJ spheres_NN2 ,_, allowing_VVG the_AT program_NN1 results_NN2 to_TO be_VBI checked_VVN independently_RR of_IO the_AT experimental_JJ data_NN ._. 
+</s>
+<s>
+The_AT program_NN1 was_VBDZ then_RT adapted_VVN to_TO prevent_VVI contact_NN1 between_II nickel_NN1 atoms_NN2 ._. 
+</s>
+<s>
+In_II the_AT program_NN1 ,_, atoms_NN2 were_VBDR placed_VVN in_II a_AT1 'box'_NN1 ,_, of_IO size_NN1 determined_VVN by_II the_AT density_NN1 of_IO the_AT material_NN1 (_( 0.03938_MC atoms_NN2 -3_MC )_) 1_MC1 ._. 
+</s>
+<s>
+The_AT atoms_NN2 were_VBDR then_RT moved_VVN around_II the_AT box_NN1 using_VVG the_AT Metropolis_NN1 Monte_NP1 Carlo_NP1 method_NN1 (_( see_VV0 below_RL )_) ,_, to_TO attempt_VVI to_TO find_VVI the_AT arrangement_NN1 with_IW the_AT lowest_JJT total_JJ potential_JJ energy_NN1 ._. 
+</s>
+<s>
+The_AT interatomic_JJ potential_JJ energy_NN1 (_( r_ZZ1 )_) between_II any_DD two_MC atoms_NN2 was_VBDZ calculated_VVN using_VVG the_AT Lennard-Jones_NP1 potential_NN1 :_: (_( 3_MC )_) where_RRQ is_VBZ the_AT separation_NN1 distance_NN1 at_II which_DDQ =_FO 0_MC ;_; is_VBZ the_AT lowest_JJT value_NN1 of_IO the_AT potential_JJ energy_NN1 ,_, or_CC the_AT maximum_JJ potential_JJ well_JJ depth_NN1 ;_; and_CC r_ZZ1 is_VBZ the_AT distance_NN1 between_II the_AT centres_NN2 of_IO the_AT atoms_NN2 ._. 
+</s>
+<s>
+The_AT Lennard-Jones_NP1 potential_NN1 is_VBZ a_AT1 very_RG approximate_JJ representation_NN1 of_IO a_AT1 complex_JJ system_NN1 ._. 
+</s>
+<s>
+It_PPH1 considers_VVZ the_AT forces_NN2 between_II a_AT1 pair_NN of_IO neutral_JJ atoms_NN2 in_II isolation_NN1 ,_, which_DDQ does_VDZ not_XX take_VVI into_II account_NN1 distortions_NN2 from_II the_AT other_JJ atoms_NN2 ,_, and_CC from_II the_AT electron_NN1 cloud_NN1 ._. 
+</s>
+<s>
+This_DD1 meant_VVD that_CST the_AT parameters_NN2 could_VM need_VVI to_TO be_VBI optimised_VVN so_CS21 that_CS22 the_AT results_NN2 produced_VVN by_II the_AT simulation_NN1 were_VBDR as_RG similar_JJ as_CSA possible_JJ to_II those_DD2 found_VVN experimentally_RR ._. 
+</s>
+<s>
+The_AT potential_JJ well_JJ depth_NN1 was_VBDZ initially_RR approximated_VVN by_II =_FO 2_MC eV_NN1 ,_, and_CC was_VBDZ taken_VVN to_TO be_VBI the_AT sum_NN1 of_IO the_AT hard-sphere_JJ radii_NN2 of_IO the_AT atoms_NN2 in_II question_NN1 :_: r_ZZ1 Dy_NP1 =_FO 1.6735_MC and_CC r_ZZ1 Ni_NP1 =_FO 0.969_MC .1_MC ._. 
+</s>
+<s>
+The_AT Lennard-Jones_NP1 potential_NN1 tends_VVZ to_II 0_MC relatively_RR rapidly_RR with_IW distance_NN1 r_ZZ1 ._. 
+</s>
+<s>
+A_AT1 program_NN1 was_VBDZ written_VVN to_TO calculate_VVI the_AT Lennard-Jones_NP1 potentials_NN2 for_IF the_AT three_MC combinations_NN2 of_IO atom_NN1 types_NN2 (_( Appendix_NN1 B_ZZ1 )_) ;_; a_AT1 graph_NN1 of_IO the_AT results_NN2 is_VBZ shown_VVN in_II Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+A_AT1 potential_JJ cut-off_NN1 of_IO r_ZZ1 max_NN1 =_FO 9_MC was_VBDZ chosen_VVN ,_, as_CSA all_DB three_MC potentials_NN2 appeared_VVD to_TO have_VHI reduced_VVN to_II negligible_JJ amounts_NN2 by_II this_DD1 point_NN1 ._. 
+</s>
+<s>
+The_AT potential_JJ energy_NN1 of_IO an_AT1 atom_NN1 was_VBDZ approximated_VVN as_II the_AT sum_NN1 of_IO the_AT potential_JJ energies_NN2 between_II that_DD1 atom_NN1 and_CC all_DB other_JJ atoms_NN2 within_II a_AT1 distance_NN1 r_ZZ1 max_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO prevent_VVI boundary_NN1 effects_NN2 distorting_VVG the_AT model_NN1 ,_, the_AT main_JJ box_NN1 was_VBDZ surrounded_VVN by_II 26_MC 'ghost'_JJ boxes_NN2 ._. 
+</s>
+<s>
+Each_DD1 ghost_NN1 box_NN1 was_VBDZ the_AT same_DA size_NN1 as_CSA the_AT main_JJ box_NN1 ,_, and_CC contained_JJ ghost_NN1 atoms_NN2 at_II the_AT same_DA relative_NN1 co-ordinates_VVZ as_CSA the_AT atoms_NN2 in_II the_AT main_JJ box_NN1 ._. 
+</s>
+<s>
+When_CS an_AT1 atom_NN1 in_II the_AT main_JJ box_NN1 was_VBDZ moved_VVN ,_, its_APPGE 26_MC corresponding_JJ ghost_NN1 atoms_NN2 also_RR moved_VVN in_II exactly_RR the_AT same_DA way_NN1 ._. 
+</s>
+<s>
+In_II calculating_VVG the_AT potential_JJ energy_NN1 of_IO an_AT1 atom_NN1 ,_, both_RR main_JJ and_CC ghost_NN1 atoms_NN2 within_II a_AT1 distance_NN1 r_ZZ1 max_NN1 were_VBDR taken_VVN into_II account_NN1 ._. 
+</s>
+<s>
+All_DB the_AT atoms_NN2 in_II the_AT main_JJ box_NN1 were_VBDR therefore_RR surrounded_VVN by_II approximately_RR the_AT same_DA density_NN1 of_IO atoms_NN2 ,_, so_CS21 that_CS22 boundary_NN1 effects_NN2 did_VDD not_XX occur_VVI ._. 
+</s>
+<s>
+To_TO prevent_VVI atoms_NN2 moving_VVG out_II21 of_II22 the_AT main_JJ box_NN1 ,_, periodic_JJ boundary_NN1 conditions_NN2 were_VBDR imposed_VVN :_: when_RRQ a_AT1 movewould_NN1 have_VH0 lead_VVN to_II an_AT1 atom_NN1 being_VBG outside_II the_AT main_JJ box_NN1 ,_, it_PPH1 was_VBDZ transferred_VVN to_II the_AT equivalent_JJ position_NN1 at_II the_AT opposite_JJ side_NN1 of_IO the_AT box_NN1 ._. 
+</s>
+<s>
+The_AT Metropolis_NN1 Monte_NP1 Carlo_NP1 method_NN1 was_VBDZ used_VVN to_TO decide_VVI whether_CSW a_AT1 particular_JJ move_NN1 should_VM be_VBI accepted_VVN ._. 
+</s>
+<s>
+An_AT1 atom_NN1 was_VBDZ selected_VVN at_RR21 random_RR22 ,_, and_CC assigned_VVN a_AT1 possible_JJ new_JJ position_NN1 using_VVG random_JJ fractions_NN2 of_IO the_AT maximum_JJ step_NN1 length_NN1 ,_, ._. 
+</s>
+<s>
+The_AT difference_NN1 in_II potential_JJ energy_NN1 of_IO the_AT atom_NN1 between_II the_AT new_JJ and_CC old_JJ positions_NN2 ,_, ,_, was_VBDZ then_RT calculated_VVN ._. 
+</s>
+<s>
+If_CS 0_MC ,_, a_AT1 random_JJ number_NN1 was_VBDZ generated_VVN between_II 0_MC and_CC 1_MC1 ,_, and_CC compared_VVN to_II exp_JJ (_( -/k_FU BT_NP1 )_) ,_, where_CS k_ZZ1 B_ZZ1 is_VBZ the_AT Boltzmann_NP1 constant_JJ ,_, and_CC T_ZZ1 is_VBZ the_AT temperature_NN1 of_IO the_AT material_NN1 ,_, initially_RR taken_VVN to_TO be_VBI room_NN1 temperature_NN1 (_( 298_MC K_ZZ1 )_) ._. 
+</s>
+<s>
+If_CS the_AT exponential_NN1 was_VBDZ greater_JJR than_CSN the_AT random_JJ number_NN1 the_AT move_NN1 was_VBDZ accepted_VVN ;_; if_CS not_XX ,_, it_PPH1 was_VBDZ rejected_VVN ._. 
+</s>
+<s>
+This_DD1 method_NN1 tends_VVZ to_TO reject_VVI moves_NN2 which_DDQ result_VV0 in_II a_AT1 large_JJ increase_NN1 in_II potential_JJ energy_NN1 ,_, but_CCB accept_VV0 those_DD2 resulting_VVG in_II only_RR a_AT1 small_JJ increase_NN1 ._. 
+</s>
+<s>
+This_DD1 gives_VVZ the_AT opportunity_NN1 to_TO escape_VVI from_II any_DD local_JJ minima_NN2 which_DDQ may_VM occur.9_FO The_AT method_NN1 is_VBZ summarised_VVN in_II Figure_NN1 2_MC ._. 
+</s>
+<s>
+The_AT optimum_JJ value_NN1 of_IO gives_VVZ an_AT1 acceptance_NN1 of_IO 50%_NNU ;_; when_RRQ parameters_NN2 in_II the_AT potential_NN1 were_VBDR altered_VVN ,_, was_VBDZ also_RR altered_VVN to_TO maintain_VVI this_DD1 acceptance_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 was_VBDZ placed_VVN in_II a_AT1 loop_NN1 so_CS21 that_CS22 it_PPH1 could_VM be_VBI repeated_VVN many_DA2 times_NNT2 ._. 
+</s>
+<s>
+The_AT total_JJ potential_JJ energy_NN1 of_IO the_AT system_NN1 ,_, tot_NN1 ,_, was_VBDZ found_VVN by_II summing_VVG the_AT potentials_NN2 between_II all_DB the_AT pairs_NN2 of_IO atoms_NN2 in_II the_AT main_JJ box_NN1 ,_, and_CC pairs_NN2 of_IO one_MC1 atom_NN1 in_II the_AT main_JJ box_NN1 and_CC one_PN1 in_II a_AT1 ghost_NN1 box_NN1 ._. 
+</s>
+<s>
+The_AT lower_JJR the_AT value_NN1 of_IO tot_NN1 ,_, the_AT more_RGR stable_JJ the_AT system_NN1 ._. 
+</s>
+<s>
+At_II regular_JJ intervals_NN2 tot_NN1 was_VBDZ calculated_VVN so_CS21 that_CS22 its_APPGE variation_NN1 could_VM be_VBI monitored_VVN ._. 
+</s>
+<s>
+At_II the_AT end_NN1 of_IO each_DD1 program_NN1 run_NN1 ,_, histograms_NN2 of_IO the_AT radial_JJ distribution_NN1 functions_NN2 were_VBDR produced_VVN ._. 
+</s>
+<s>
+These_DD2 histograms_NN2 could_VM be_VBI compared_VVN with_IW the_AT Percus-Yevick_NP1 or_CC experimental_JJ data_NN ._. 
+</s>
+<s>
+For_IF exact_JJ comparison_NN1 ,_, the_AT program_NN1 unitan_NN1 was_VBDZ used_VVN to_TO convert_VVI the_AT histograms_NN2 to_II partial_JJ correlation_NN1 functions_NN2 ,_, and_CC incorporate_VV0 experimental_JJ resolution_NN1 and_CC thermal_JJ broadening_NN1 ._. 
+</s>
+<s>
+For_IF data_NN to_TO be_VBI processed_VVN by_II unitan_NN1 the_AT program_NN1 was_VBDZ adapted_VVN to_TO produce_VVI ten_MC sets_NN2 of_IO histograms_NN2 at_II intervals_NN2 of_IO 500,000_MC loops_NN2 ,_, and_CC take_VV0 the_AT average_NN1 ._. 
+</s>
+<s>
+Using_VVG a_AT1 time_NNT1 average_NN1 in_II this_DD1 way_NN1 gave_VVD equivalent_JJ results_NN2 to_II using_VVG a_AT1 space_NN1 average_NN1 over_II a_AT1 larger_JJR system_NN1 ._. 
+</s>
+<s>
+An_AT1 error_NN1 was_VBDZ later_RRR discovered_VVN in_II the_AT method_NN1 used_VMK to_TO calculate_VVI the_AT radial_JJ distribution_NN1 functions_NN2 and_CC tot_NN1 ,_, which_DDQ means_VVZ that_CST the_AT graphs_NN2 in_II Figures_NN2 3-5_MCMC shown_VVN below_RL are_VBR inaccurate_JJ by_II a_AT1 scale_NN1 factor_NN1 ._. 
+</s>
+<s>
+The_AT trends_NN2 of_IO the_AT graphs_NN2 are_VBR correct_JJ and_CC this_DD1 did_VDD not_XX affect_VVI the_AT overall_JJ running_NN1 of_IO the_AT program_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ planned_VVN to_TO place_VVI the_AT atoms_NN2 randomly_RR in_II the_AT box_NN1 ,_, but_CCB this_DD1 resulted_VVD in_II some_DD pairs_NN2 of_IO atoms_NN2 being_VBG too_RG close_JJ together_RL for_IF the_AT potentials_NN2 to_TO be_VBI manageable_JJ ._. 
+</s>
+<s>
+To_TO solve_VVI this_DD1 problem_NN1 ,_, programs_NN2 were_VBDR written_VVN to_TO place_VVI 100_MC atoms_NN2 randomly_RR in_II a_AT1 box_NN1 (_( Appendix_NN1 C_ZZ1 )_) ,_, and_CC to_TO calculate_VVI the_AT distances_NN2 between_II each_DD1 pair_NN of_IO atoms_NN2 (_( Appendix_NN1 D_ZZ1 )_) ._. 
+</s>
+<s>
+Atoms_NN2 were_VBDR then_RT moved_VVN manually_RR until_CS all_DB the_AT atoms_NN2 were_VBDR far_RR enough_RR apart_RL for_IF the_AT calculations_NN2 to_TO be_VBI possible_JJ ._. 
+</s>
+<s>
+The_AT main_JJ program_NN1 was_VBDZ run_VVN from_II these_DD2 co-ordinates_NN2 over_RG 100,000_MC loops_NN2 ._. 
+</s>
+<s>
+As_CSA expected_VVN ,_, the_AT potential_JJ energy_NN1 initially_RR reduced_VVN sharply_RR as_CSA atoms_NN2 which_DDQ were_VBDR very_RG close_JJ together_RL moved_VVD further_RRR apart_RL (_( Figure_NN1 3_MC )_) ._. 
+</s>
+<s>
+This_DD1 more_RGR stable_JJ configuration_NN1 was_VBDZ used_VVN as_II a_AT1 basis_NN1 for_IF systems_NN2 with_IW increased_JJ numbers_NN2 of_IO atoms_NN2 ,_, formed_VVN by_II arranging_VVG replicas_NN2 of_IO the_AT original_JJ box_NN1 to_TO create_VVI larger_JJR cubes_NN2 ._. 
+</s>
+<s>
+A_AT1 box_NN1 containing_VVG 2700_MC atoms_NN2 was_VBDZ the_AT largest_JJT system_NN1 which_DDQ could_VM be_VBI run_VVN at_II a_AT1 reasonable_JJ speed_NN1 ,_, so_CS this_DD1 number_NN1 of_IO atoms_NN2 was_VBDZ used_VVN for_IF the_AT remainder_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+With_IW this_DD1 box_NN1 size_NN1 the_AT program_NN1 ran_VVD at_II a_AT1 rate_NN1 of_IO approximately_RR half_DB a_AT1 million_NNO loops_NN2 per_II hour_NNT1 ._. 
+</s>
+<s>
+Histograms_NN2 of_IO the_AT radial_JJ distribution_NN1 functions_NN2 after_II 1000_MC program_NN1 loops_NN2 of_IO this_DD1 system_NN1 (_( Figure_NN1 4_MC )_) show_VV0 sharp_JJ peaks_NN2 at_II 13.6_MC in_II the_AT Dy-Dy_NN1 and_CC Ni-Ni_NP1 curves_NN2 ._. 
+</s>
+<s>
+The_AT original_JJ box_NN1 of_IO 100_MC atoms_NN2 was_VBDZ of_IO side_NN1 length_NN1 13.6_MC ,_, so_CS the_AT atomic_JJ arrangements_NN2 repeated_VVN after_II this_DD1 distance_NN1 ._. 
+</s>
+<s>
+The_AT program_NN1 was_VBDZ run_VVN over_RP approximately_RR 35_MC million_NNO loops_NN2 until_CS the_AT peak_NN1 disappeared_VVD ;_; it_PPH1 was_VBDZ then_RT thought_VVN that_CST the_AT repeating_JJ structure_NN1 had_VHD been_VBN lost_VVN ._. 
+</s>
+<s>
+The_AT Dy-Dy_JJ histogram_NN1 produced_VVN at_II this_DD1 stage_NN1 (_( Figure_NN1 5_MC )_) shows_VVZ a_AT1 sharp_JJ peak_NN1 just_RR before_II 9_MC ,_, and_CC a_AT1 sharp_JJ trough_NN1 at_II 9_MC ,_, with_IW the_AT rest_NN1 of_IO the_AT curve_NN1 apparently_RR unaffected_JJ ._. 
+</s>
+<s>
+Various_JJ tests_NN2 confirmed_VVD that_CST this_DD1 was_VBDZ a_AT1 genuine_JJ property_NN1 of_IO the_AT co-ordinates_NN2 ._. 
+</s>
+<s>
+It_PPH1 appears_VVZ that_CST the_AT potential_JJ cut-off_NN1 of_IO r_ZZ1 max_NN1 =_FO 9_MC was_VBDZ too_RG low_JJ ,_, leading_VVG to_II some_DD atoms_NN2 at_II the_AT cut-off_NN1 distance_NN1 being_VBG drawn_VVN into_II just_RR inside_II that_DD1 distance_NN1 ,_, giving_VVG a_AT1 lower_JJR potential_JJ energy_NN1 and_CC therefore_RR more_RGR stable_JJ arrangement_NN1 ._. 
+</s>
+<s>
+This_DD1 effect_NN1 showed_VVD most_RGT clearly_RR on_II the_AT Dy-Dy_JJ histogram_NN1 because_CS the_AT Dy-Dy_JJ potential_NN1 well_RR occurs_VVZ at_II a_AT1 greater_JJR distance_NN1 r_ZZ1 than_CSN the_AT Dy-Ni_NP1 or_CC Ni-Ni_NP1 potential_JJ wells_NN2 ._. 
+</s>
+<s>
+rmax_NN1 was_VBDZ increased_VVN to_II 20_MC to_TO ensure_VVI that_CST the_AT effect_NN1 was_VBDZ negligible_JJ ._. 
+</s>
+<s>
+The_AT program_NN1 was_VBDZ run_VVN until_CS the_AT total_JJ potential_JJ energy_NN1 dropped_VVD only_RR very_RG gradually_RR ._. 
+</s>
+<s>
+The_AT program_NN1 was_VBDZ then_RT adapted_VVN so_CS21 that_CS22 it_PPH1 modelled_VVD a_AT1 system_NN1 with_IW the_AT nickel_NN1 atoms_NN2 forced_VVN apart_RL to_II a_AT1 minimum_JJ distance_NN1 of_IO 2.481_MC (_( Appendix_NN1 E_ZZ1 )_) ,_, and_CC run_VV0 further_RRR until_CS the_AT potential_JJ energy_NN1 had_VHD settled_VVN ._. 
+</s>
+<s>
+The_AT histograms_NN2 of_IO the_AT partial_JJ correlation_NN1 functions_NN2 processed_VVN by_II unitan_NN1 for_IF the_AT two_MC models_NN2 gave_VVD good_JJ matches_NN2 to_II the_AT Percus-Yevick_NP1 and_CC experimental_JJ data_NN as_CSA appropriate_JJ (_( Figure_NN1 6_MC )_) ._. 
+</s>
+<s>
+The_AT widths_NN2 of_IO the_AT initial_JJ peaks_NN2 of_IO the_AT histograms_NN2 closely_RR matched_VVN the_AT experimental_JJ data_NN ,_, so_CS the_AT values_NN2 used_VVN for_IF did_VDD not_XX need_VVI to_TO be_VBI optimised_VVN ._. 
+</s>
+<s>
+These_DD2 peaks_NN2 were_VBDR slightly_RR too_RG sharp_JJ ,_, so_CS the_AT program_NN1 with_IW nickel_NN1 contacts_NN2 prevented_VVD was_VBDZ re-run_VVN with_IW reduced_JJ in_II stages_NN2 from_II 2_MC to_II 0.05_MC eV_NN1 ._. 
+</s>
+<s>
+Despite_II making_VVG such_DA dramatic_JJ changes_NN2 in_II well_JJ depth_NN1 ,_, the_AT heights_NN2 of_IO the_AT first_MD peaks_NN2 reduced_VVD only_RR very_RG gradually_RR ._. 
+</s>
+<s>
+This_DD1 showed_VVD that_DD1 is_VBZ not_XX a_AT1 critical_JJ parameter_NN1 ._. 
+</s>
+<s>
+The_AT program_NN1 Chem3D_FO was_VBDZ studied_VVN ,_, and_CC adapted_VVN so_CS21 that_CS22 it_PPH1 could_VM be_VBI used_VVN to_TO model_VVI the_AT generated_JJ structures_NN2 ._. 
+</s>
+<s>
+A_AT1 program_NN1 was_VBDZ written_VVN to_TO convert_VVI the_AT co-ordinate_NN1 files_NN2 into_II a_AT1 format_NN1 which_DDQ could_VM be_VBI read_VVN by_II Chem3D_FO (_( Appendix_NN1 F_ZZ1 )_) ,_, and_CC images_NN2 were_VBDR produced_VVN of_IO both_DB2 models_NN2 (_( Figure_NN1 7_MC )_) ._. 
+</s>
+<s>
+The_AT image_NN1 of_IO the_AT system_NN1 with_IW nickel_NN1 contacts_NN2 permitted_VVN shows_VVZ an_AT1 approximate_JJ repeating_JJ structure_NN1 ;_; this_DD1 can_VM also_RR be_VBI seen_VVN ,_, slightly_RR less_RGR clearly_RR ,_, in_II the_AT image_NN1 of_IO the_AT system_NN1 with_IW nickel_NN1 contacts_NN2 prevented_VVD ._. 
+</s>
+<s>
+The_AT original_JJ structure_NN1 from_II the_AT box_NN1 of_IO 100_MC atoms_NN2 was_VBDZ therefore_RR still_RR present_JJ ,_, despite_II the_AT disappearance_NN1 of_IO the_AT peak_NN1 in_II the_AT histograms_NN2 at_II the_AT original_JJ box_NN1 side_NN1 length_NN1 of_IO 13.6_MC ._. 
+</s>
+<s>
+It_PPH1 appears_VVZ that_CST this_DD1 peak_NN1 had_VHD in_II fact_NN1 spread_VVD out_RP as_II the_AT atoms_NN2 moved_VVD small_JJ distances_NN2 ,_, so_CS21 that_CS22 the_AT exact_JJ repeating_JJ structure_NN1 was_VBDZ lost_VVN ,_, but_CCB the_AT overall_JJ pattern_NN1 remained_VVD ._. 
+</s>
+<s>
+This_DD1 explained_VVD the_AT low_JJ hump_NN1 at_II around_RG 13.6_MC which_DDQ had_VHD been_VBN observed_VVN on_II the_AT Ni-Ni_NP1 histograms_NN2 (_( Figure_NN1 6_MC )_) ._. 
+</s>
+<s>
+The_AT system_NN1 had_VHD effectively_RR been_VBN 'frozen'_JJ ,_, with_IW the_AT temperature_NN1 too_RG low_JJ for_IF significant_JJ atomic_JJ movement_NN1 to_TO occur_VVI ._. 
+</s>
+<s>
+To_TO allow_VVI the_AT atoms_NN2 to_TO move_VVI more_RGR freely_RR ,_, both_DB2 models_NN2 needed_VVN to_TO be_VBI 'heated'_JJ to_II melting_VVG point_NN1 ,_, allowed_VVN to_TO run_VVI at_II a_AT1 high_JJ temperature_NN1 ,_, and_CC then_RT 'quenched'_VV0 by_II gradually_RR reducing_VVG the_AT temperature_NN1 back_RP to_II room_NN1 temperature_NN1 ._. 
+</s>
+<s>
+The_AT equations_NN2 used_VVN meant_VVD that_CST decreasing_JJ and_CC increasing_VVG the_AT temperature_NN1 were_VBDR equivalent_JJ ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ decided_VVN to_TO continue_VVI changing_JJ as_CSA this_DD1 was_VBDZ the_AT variable_NN1 which_DDQ had_VHD been_VBN altered_VVN previously_RR ._. 
+</s>
+<s>
+Another_DD1 program_NN1 was_VBDZ written_VVN to_TO calculate_VVI the_AT average_JJ distances_NN2 moved_VVN by_II dysprosium_NN1 and_CC nickel_NN1 atoms_NN2 during_II a_AT1 program_NN1 run_NN1 (_( Appendix_NN1 G_ZZ1 )_) ,_, and_CC more_DAR runs_NN2 carried_VVD out_RP with_IW further_RRR reduced_VVN ._. 
+</s>
+<s>
+The_AT program_NN1 results_NN2 showed_VVD a_AT1 very_RG steep_JJ increase_NN1 in_II the_AT average_JJ distance_NN1 moved_VVN below_II =_FO 0.1_MC eV_NN1 ,_, corresponding_VVG to_II a_AT1 melting_NN1 point_NN1 (_( Figure_NN1 8_MC )_) ._. 
+</s>
+<s>
+For_IF both_DB2 systems_NN2 ,_, was_VBDZ reduced_VVN to_II 0.005_MC eV_NN1 ,_, so_CS21 that_CS22 the_AT average_JJ distances_NN2 moved_VVD were_VBDR comparable_JJ to_II the_AT original_JJ box_NN1 size_NN1 ._. 
+</s>
+<s>
+Figure_NN1 9_MC shows_VVZ the_AT histograms_NN2 of_IO the_AT partial_JJ correlation_NN1 functions_NN2 of_IO the_AT systems_NN2 at_II this_DD1 point_NN1 ._. 
+</s>
+<s>
+The_AT broadening_NN1 of_IO the_AT peaks_NN2 and_CC the_AT loss_NN1 of_IO structural_JJ detail_NN1 including_II the_AT 'shoulders_NN2 '_GE in_II the_AT second_MD peaks_NN2 shows_VVZ that_CST the_AT material_NN1 was_VBDZ in_II a_AT1 liquid_JJ state_NN1 ._. 
+</s>
+<s>
+Figure_NN1 10_MC shows_VVZ the_AT corresponding_JJ Chem3D_FO images_NN2 of_IO the_AT systems_NN2 ;_; the_AT repeating_JJ structure_NN1 is_VBZ no_RR21 longer_RR22 visible_JJ ._. 
+</s>
+<s>
+The_AT systems_NN2 were_VBDR then_RT quenched_VVN by_II gradually_RR increasing_VVG the_AT well_JJ depth_NN1 at_II intervals_NN2 during_II the_AT program_NN1 runs_VVZ ._. 
+</s>
+<s>
+Two_MC sets_NN2 of_IO final_JJ results_NN2 were_VBDR produced_VVN for_IF each_DD1 system_NN1 ,_, with_IW =_FO 0.2_MC eV_NN1 and_CC =_FO 1_MC1 eV_NN1 (_( Figures_VVZ 11_MC and_CC 12_MC )_) ,_, so_CS21 that_CS22 any_DD effects_NN2 due_II21 to_II22 the_AT magnitude_NN1 of_IO the_AT well_JJ depth_NN1 could_VM be_VBI observed_VVN ._. 
+</s>
+<s>
+Figure_NN1 11_MC shows_VVZ that_CST there_EX is_VBZ very_RG good_JJ correlation_NN1 between_II the_AT Percus-Yevick_NP1 model_NN1 and_CC the_AT generated_JJ structure_NN1 with_IW nickel_NN1 contacts_NN2 permitted_VVD ,_, to_II well_RR within_II the_AT accuracy_NN1 which_DDQ could_VM be_VBI expected_VVN in_II comparing_VVG a_AT1 system_NN1 of_IO soft_JJ potentials_NN2 with_IW a_AT1 close_JJ packing_NN1 of_IO hard_JJ spheres_NN2 ._. 
+</s>
+<s>
+The_AT sharper_JJR first_MD peaks_NN2 in_II the_AT histograms_NN2 of_IO the_AT generated_JJ structure_NN1 are_VBR due_II21 to_II22 the_AT atoms_NN2 tending_VVG to_TO stay_VVI at_II a_AT1 well-defined_JJ distance_NN1 from_II each_PPX221 other_PPX222 as_II a_AT1 result_NN1 of_IO the_AT potential_NN1 well_RR ,_, which_DDQ is_VBZ not_XX present_JJ in_II the_AT Percus-Yevick_NP1 model_NN1 ._. 
+</s>
+<s>
+Increasing_VVG the_AT potential_JJ well_JJ depth_NN1 sharpens_VVZ the_AT peaks_NN2 and_CC gives_VVZ a_AT1 slightly_RR more_RGR detailed_JJ structure_NN1 ,_, as_CSA the_AT atoms_NN2 become_VV0 less_RGR likely_JJ to_TO move_VVI from_II the_AT potential_JJ well_NN1 ._. 
+</s>
+<s>
+These_DD2 graphs_NN2 give_VV0 confirmation_NN1 ,_, independently_RR of_IO the_AT experimental_JJ results_NN2 ,_, that_CST the_AT program_NN1 was_VBDZ working_VVG effectively_RR ._. 
+</s>
+<s>
+Figure_NN1 12_MC shows_VVZ that_CST the_AT histograms_NN2 of_IO the_AT generated_JJ structure_NN1 with_IW nickel_NN1 contacts_NN2 prevented_VVN are_VBR very_RG similar_JJ to_II the_AT experimental_JJ results_NN2 ._. 
+</s>
+<s>
+However_RR ,_, the_AT Dy-Dy_NN1 and_CC Ni-Ni_NP1 graphs_NN2 do_VD0 not_XX provide_VVI a_AT1 close_JJ enough_RR match_VV0 to_TO represent_VVI a_AT1 possible_JJ structure_NN1 ._. 
+</s>
+<s>
+It_PPH1 therefore_RR appears_VVZ that_CST the_AT methods_NN2 used_VVD were_VBDR not_XX sufficient_JJ to_TO find_VVI a_AT1 possible_JJ structure_NN1 ._. 
+</s>
+<s>
+This_DD1 generated_JJ structure_NN1 could_VM represent_VVI a_AT1 perturbation_NN1 of_IO the_AT actual_JJ structure_NN1 ,_, and_CC could_VM contain_VVI similar_JJ structural_JJ effects_NN2 ._. 
+</s>
+<s>
+The_AT structure_NN1 was_VBDZ analysed_VVN to_TO find_VVI whether_CSW trigonal_JJ prisms_NN2 ,_, or_CC any_DD other_JJ structural_JJ forms_NN2 ,_, were_VBDR present_JJ ._. 
+</s>
+<s>
+The_AT model_NN1 with_IW =_FO 1_MC1 eV_NN1 was_VBDZ used_VVN because_CS the_AT greater_JJR well_JJ depth_NN1 reduces_VVZ the_AT size_NN1 of_IO thermal_JJ vibrations_NN2 away_II21 from_II22 the_AT underlying_JJ structure_NN1 ._. 
+</s>
+<s>
+A_AT1 program_NN1 was_VBDZ written_VVN to_TO identify_VVI nickel_NN1 atoms_NN2 which_DDQ had_VHD six_MC dysprosium_NN1 atoms_NN2 around_II them_PPHO2 within_II a_AT1 distance_NN1 of_IO 3.65_MC -_- the_AT distance_NN1 of_IO the_AT outer_JJ edge_NN1 of_IO the_AT first_MD peak_NN1 of_IO the_AT Dy-Ni_NP1 radial_JJ distribution_NN1 function_NN1 (_( Appendix_NN1 H_ZZ1 )_) ._. 
+</s>
+<s>
+Some_DD of_IO these_DD2 groups_NN2 of_IO atoms_NN2 were_VBDR displayed_VVN on_II Chem3D_FO ;_; each_DD1 group_NN1 appeared_VVD to_TO be_VBI randomly_RR distributed_VVN ,_, and_CC no_AT trigonal_JJ prisms_NN2 were_VBDR observed_VVN ._. 
+</s>
+<s>
+Another_DD1 program_NN1 was_VBDZ written_VVN to_TO find_VVI the_AT Dy-Ni-Dy_NP1 angles_NN2 in_II these_DD2 groups_NN2 of_IO atoms_NN2 (_( Appendix_NN1 I_ZZ1% )_) ._. 
+</s>
+<s>
+A_AT1 small_JJ number_NN1 of_IO results_NN2 are_VBR shown_VVN in_II Table_NN1 I._NP1 The_AT results_NN2 show_VV0 that_CST the_AT dysprosium_NN1 atoms_NN2 in_II these_DD2 clusters_NN2 do_VD0 not_XX form_VVI octahedra_NN1 ,_, because_CS the_AT required_JJ three_MC 180_MC angles_NN2 are_VBR not_XX present_JJ ._. 
+</s>
+<s>
+The_AT number_NN1 of_IO angles_NN2 near_II21 to_II22 81.8_MC suggests_VVZ that_CST triangular_JJ faces_NN2 do_VD0 occur_VVI ._. 
+</s>
+<s>
+However_RR ,_, these_DD2 clusters_NN2 of_IO atoms_NN2 only_RR represent_VV0 154_MC of_IO the_AT 810_MC nickel_NN1 atoms_NN2 in_II the_AT model_NN1 ._. 
+</s>
+<s>
+Another_DD1 program_NN1 was_VBDZ written_VVN to_TO produce_VVI a_AT1 table_NN1 of_IO the_AT numbers_NN2 of_IO nickel_NN1 and_CC dysprosium_NN1 atoms_NN2 within_II 3.65_MC of_IO nickel_NN1 atoms_NN2 (_( Appendix_NN1 J_ZZ1 )_) ._. 
+</s>
+<s>
+This_DD1 was_VBDZ adapted_VVN to_TO give_VVI the_AT same_DA data_NN within_II 4.35_MC of_IO dysprosium_NN1 atoms_NN2 (_( the_AT distance_NN1 of_IO the_AT outer_JJ edge_NN1 of_IO the_AT first_MD peak_NN1 of_IO the_AT Dy-Dy_JJ radial_JJ distribution_NN1 function_NN1 )_) ._. 
+</s>
+<s>
+The_AT results_NN2 (_( Tables_NN2 II_MC and_CC III_MC )_) show_VV0 a_AT1 broad_JJ distribution_NN1 of_IO co-ordination_NN1 numbers_NN2 for_IF both_RR nickel_NN1 and_CC dysprosium_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT highly_RR favoured_JJ configuration_NN1 ;_; the_AT atoms_NN2 appear_VV0 to_TO be_VBI arranged_VVN in_II a_AT1 random_JJ distribution_NN1 ._. 
+</s>
+<s>
+Histograms_NN2 of_IO the_AT total_JJ co-ordination_NN1 numbers_NN2 around_II nickel_NN1 and_CC dysprosium_NN1 atoms_NN2 are_VBR shown_VVN in_II Figures_NN2 13_MC and_CC 14_MC ._. 
+</s>
+<s>
+Figure_NN1 14_MC appears_VVZ to_TO show_VVI a_AT1 discontinuity_NN1 between_II co-ordination_NN1 numbers_NN2 of_IO 9_MC and_CC 10_MC ;_; Figure_NN1 13_MC has_VHZ a_AT1 similar_JJ shape_NN1 although_CS the_AT values_NN2 do_VD0 not_XX decrease_VVI in_II the_AT same_DA way_NN1 ._. 
+</s>
+<s>
+The_AT error_NN1 bars_NN2 show_VV0 that_CST the_AT discontinuity_NN1 is_VBZ on_II the_AT borderline_NN1 of_IO the_AT error_NN1 boundaries_NN2 ,_, and_CC may_VM not_XX be_VBI a_AT1 real_JJ effect_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ difficult_JJ to_TO draw_VVI any_DD further_JJR conclusions_NN2 from_II this_DD1 model_NN1 ;_; a_AT1 study_NN1 of_IO a_AT1 larger_JJR system_NN1 could_VM reveal_VVI whether_CSW31 or_CSW32 not_CSW33 this_DD1 pattern_NN1 is_VBZ a_AT1 true_JJ property_NN1 of_IO the_AT atomic_JJ co-ordinates_NN2 ._. 
+</s>
+<s>
+The_AT histograms_NN2 of_IO the_AT partial_JJ correlation_NN1 functions_NN2 of_IO the_AT generated_JJ structures_NN2 were_VBDR then_RT compared_VVN to_II appropriately_RR scaled_VVN data_NN for_IF a_AT1 Finney_NP1 random_JJ packing_NN1 (_( Figure_NN1 15_MC )_) ._. 
+</s>
+<s>
+Finney_NP1 studied_VVD the_AT random_JJ packing_NN1 of_IO a_AT1 single_JJ size_NN1 of_IO sphere_NN1 ._. 
+</s>
+<s>
+Polk_NP1 suggested_VVD that_CST in_II a_AT1 transition_NN1 metal-metalloid_NN1 glass_NN1 ,_, the_AT transition_NN1 metal_NN1 atoms_NN2 could_VM be_VBI arranged_VVN in_II a_AT1 Finney_NP1 random_JJ packing_NN1 ,_, with_IW the_AT smaller_JJR metalloid_NN1 atoms_NN2 inserted_VVN in_II the_AT holes_NN2 formed_VVN in_II this_DD1 structure.5,10_FO It_PPH1 was_VBDZ initially_RR thought_VVN that_CST the_AT structures_NN2 generated_VVN here_RL may_VM be_VBI similar_JJ to_II Polk_NP1 's_GE model_NN1 ,_, but_CCB Figure_NN1 15_MC shows_VVZ that_CST there_EX is_VBZ no_AT significant_JJ similarity_NN1 ._. 
+</s>
+<s>
+It_PPH1 therefore_RR appears_VVZ that_CST the_AT presence_NN1 of_IO the_AT nickel_NN1 atoms_NN2 does_VDZ affect_VVI the_AT arrangements_NN2 of_IO the_AT dysprosium_NN1 atoms_NN2 ;_; the_AT assumed_JJ passivity_NN1 of_IO the_AT smaller_JJR atoms_NN2 is_VBZ the_AT main_JJ problem_NN1 with_IW Polk_NP1 's_GE model.5_FO ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 project_NN1 was_VBDZ to_TO discover_VVI whether_CSW the_AT atomic_JJ structure_NN1 of_IO melt-spun_JJ amorphous_JJ Dy_NN1 7Ni_FO 3_MC could_VM be_VBI modelled_VVN by_II a_AT1 random_JJ atomic_JJ packing_NN1 based_VVN on_II a_AT1 spherically_RR symmetric_JJ potential_NN1 ,_, with_IW the_AT nickel_NN1 atoms_NN2 forced_VVN apart_RL to_II the_AT distance_NN1 found_VVD experimentally_RR ._. 
+</s>
+<s>
+This_DD1 model_NN1 was_VBDZ produced_VVN and_CC studied_VVN ,_, but_CCB it_PPH1 did_VDD not_XX give_VVI a_AT1 close_JJ enough_RR match_VV0 to_II the_AT experimental_JJ data_NN to_TO represent_VVI a_AT1 possible_JJ structure_NN1 ._. 
+</s>
+<s>
+The_AT structure_NN1 of_IO the_AT crystalline_JJ form_NN1 of_IO the_AT material_NN1 ,_, and_CC the_AT radius_NN1 ratio_NN1 of_IO the_AT atoms_NN2 ,_, suggests_VVZ that_CST trigonal_JJ prisms_NN2 may_VM be_VBI present_JJ in_II amorphous_JJ Dy_NN1 7Ni_FO 3_MC ._. 
+</s>
+<s>
+However_RR ,_, no_AT particular_JJ structural_JJ configurations_NN2 could_VM be_VBI found_VVN in_II the_AT model_NN1 ;_; it_PPH1 appeared_VVD to_TO represent_VVI a_AT1 random_JJ distribution_NN1 of_IO atoms_NN2 ._. 
+</s>
+<s>
+This_DD1 shows_VVZ that_CST using_VVG the_AT correct_JJ radius_NN1 ratio_NN1 ,_, a_AT1 spherically_RR symmetric_JJ potential_NN1 and_CC forcing_VVG the_AT nickel_NN1 atoms_NN2 apart_RL is_VBZ not_XX sufficient_JJ to_TO find_VVI a_AT1 structure_NN1 for_IF amorphous_JJ Dy_NN1 7Ni_FO 3_MC ._. 
+</s>
+<s>
+It_PPH1 appears_VVZ that_CST any_DD minor_JJ alterations_NN2 to_II a_AT1 spherically_RR symmetric_JJ potential_NN1 would_VM not_XX be_VBI sufficient_JJ to_TO model_VVI the_AT structure_NN1 ;_; the_AT results_NN2 and_CC analysis_NN1 of_IO the_AT model_NN1 imply_VV0 very_RG strongly_RR that_CST a_AT1 more_RGR sophisticated_JJ potential_NN1 is_VBZ needed_VVN ._. 
+</s>
+<s>
+Some_DD directionality_NN1 would_VM need_VVI to_TO be_VBI introduced_VVN into_II the_AT potential_JJ to_TO give_VVI a_AT1 bias_NN1 towards_II specific_JJ local_JJ environments_NN2 ._. 
+</s>
+<s>
+Using_VVG such_DA a_AT1 potential_NN1 ,_, it_PPH1 may_VM be_VBI possible_JJ to_TO produce_VVI a_AT1 model_NN1 of_IO a_AT1 possible_JJ structure_NN1 ,_, in_II which_DDQ trigonal_JJ prisms_NN2 ,_, or_CC some_DD other_JJ structural_JJ units_NN2 ,_, may_VM be_VBI found_VVN ._. 
+</s>

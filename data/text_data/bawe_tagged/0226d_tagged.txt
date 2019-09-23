@@ -1,0 +1,204 @@
+<s>
+Classical_JJ trade_NN1 theory_NN1 explains_VVZ that_CST the_AT cause_NN1 of_IO trade_NN1 lies_VVZ in_II countries_NN2 '_GE differences_NN2 in_II comparative_JJ costs_NN2 in_II production_NN1 ._. 
+</s>
+<s>
+Swedish_JJ economists_NN2 ,_, Eli_NP1 Heckscher_NP1 and_CC Bertil_NP1 Ohlin_NP1 ,_, challenged_VVD this_DD1 proposition_NN1 in_II the_AT 1930s_MC2 by_II identifying_VVG an_AT1 alternative_JJ explanation_NN1 for_IF the_AT basis_NN1 of_IO trade_NN1 ._. 
+</s>
+<s>
+Their_APPGE model_NN1 ,_, also_RR called_VVN the_AT factor-proportions_NN2 model_NN1 ,_, builds_VVZ on_II Ricardo_NP1 's_GE theory_NN1 of_IO comparative_JJ advantage_NN1 by_II predicting_VVG patterns_NN2 of_IO trade_NN1 and_CC production_NN1 based_VVN on_II the_AT differences_NN2 in_II relative_JJ factor_NN1 endowments_NN2 between_II countries_NN2 ._. 
+</s>
+<s>
+Their_APPGE results_NN2 are_VBR summarised_VVN in_II the_AT Heckscher-Ohlin_NP1 Theorem_NN1 :_: A_AT1 country_NN1 will_VM export_VVI those_DD2 commodities_NN2 that_CST intensively_RR use_VV0 its_APPGE relatively_RR abundant_JJ factor_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 essay_NN1 we_PPIS2 will_VM analyse_VVI the_AT model_NN1 and_CC its_APPGE underlying_JJ assumptions_NN2 in_BCL21 order_BCL22 to_TO study_VVI the_AT relevance_NN1 of_IO this_DD1 model_NN1 for_IF modern_JJ policy-making_NN1 ._. 
+</s>
+<s>
+In_II its_APPGE simplest_JJT description_NN1 ,_, the_AT Heckscher-Ohlin_NP1 model_NN1 (_( to_TO be_VBI called_VVN H-O_NP1 model_NN1 hereafter_NN1 )_) deals_VVZ with_IW countries_NN2 that_CST use_VV0 identical_JJ factors_NN2 to_TO produce_VVI identical_JJ goods_NN2 using_VVG identical_JJ production_NN1 functions_NN2 ,_, which_DDQ show_VV0 constant_JJ returns_NN2 to_TO scale_VVI ._. 
+</s>
+<s>
+These_DD2 assumptions_NN2 are_VBR necessary_JJ (_( but_CCB not_XX sufficient_JJ )_) to_TO result_VVI in_II the_AT equalisation_NN1 of_IO factor_NN1 prices_NN2 throughout_II the_AT world_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 essay_NN1 ,_, we_PPIS2 will_VM use_VVI the_AT basic_JJ 2x2x2_FO approach_NN1 to_TO describe_VVI the_AT model_NN1 ;_; we_PPIS2 will_VM assume_VVI there_RL are_VBR only_RR two_MC countries_NN2 (_( Country_NN1 H_ZZ1 and_CC Country_NN1 F_ZZ1 )_) ,_, two_MC commodities_NN2 (_( goods_NN2 X_ZZ1 and_CC Y_ZZ1 )_) and_CC two_MC factors_NN2 of_IO production_NN1 (_( labour_NN1 and_CC capital_NN1 )_) ._. 
+</s>
+<s>
+Here_RL we_PPIS2 observe_VV0 a_AT1 first_MD fundamental_JJ difference_NN1 between_II the_AT Ricardian_JJ model_NN1 and_CC the_AT H-O_NP1 model_NN1 ,_, the_AT inclusion_NN1 of_IO a_AT1 second_MD factor_NN1 of_IO production_NN1 ,_, capital_NN1 ._. 
+</s>
+<s>
+Lancaster_NP1 ,_, K._NP1 (_( 1957_MC )_) ,_, "_" The_AT Heckscher-Ohlin_NP1 Trade_NN1 Model_NN1 :_: A_ZZ1 Geometric_JJ Treatment_NN1 "_" ,_, Economica_NP1 24_MC :_: 19-39_MCMC ,_, p.20_FO ._. 
+</s>
+<s>
+More_RGR formally_RR ,_, these_DD2 are_VBR the_AT set_NN1 of_IO assumptions_NN2 in_II which_DDQ the_AT model_NN1 and_CC the_AT Heckscher-Ohlin_NP1 theorem_NN1 rely_VV0 upon_II :_: Lancaster_NP1 ,_, K._NP1 (_( 1957_MC )_) ,_, "_" The_AT Heckscher-Ohlin_NP1 Trade_NN1 Model_NN1 :_: A_ZZ1 Geometric_JJ Treatment_NN1 "_" ,_, Economica_NP1 24_MC :_: 19-39_MCMC ,_, pp.24-25_MC ._. 
+</s>
+<s>
+Countries_NN2 H_ZZ1 and_CC F_ZZ1 produce_VV0 the_AT same_DA two_MC commodities_NN2 ,_, goods_NN2 X_ZZ1 and_CC Y_ZZ1 ,_, using_VVG the_AT same_DA two_MC factors_NN2 (_( labour_NN1 and_CC capital_NN1 )_) and_CC same_DA production_NN1 technology_NN1 ._. 
+</s>
+<s>
+Good_JJ X_ZZ1 is_VBZ labour-intensive_JJ in_II production_NN1 and_CC good_JJ Y_ZZ1 is_VBZ capital-intensive_JJ ._. 
+</s>
+<s>
+The_AT production_NN1 functions_NN2 for_IF both_DB2 goods_NN2 involve_VV0 the_AT use_NN1 of_IO both_DB2 factors_NN2 ,_, are_VBR homogeneous_JJ ,_, convex_JJ and_CC with_IW constant_JJ returns_NN2 to_TO scale_VVI ._. 
+</s>
+<s>
+There_EX are_VBR fixed_JJ total_JJ supplies_NN2 of_IO the_AT two_MC factors_NN2 ,_, which_DDQ are_VBR perfectly_RR mobile_JJ between_II industries_NN2 within_II each_DD1 country_NN1 but_CCB perfectly_RR immobile_JJ between_II countries_NN2 ._. 
+</s>
+<s>
+The_AT production_NN1 functions_NN2 are_VBR such_CS21 that_CS22 the_AT relative_JJ factor_NN1 intensities_NN2 are_VBR the_AT same_DA at_II all_DB factor_NN1 prices_NN2 which_DDQ are_VBR the_AT same_DA in_II both_DB2 industries_NN2 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, the_AT labour-_JJ intensive_JJ good_JJ remains_VVZ the_AT labour-intensive_JJ good_JJ throughout_RL ._. 
+</s>
+<s>
+There_EX is_VBZ perfect_JJ competition_NN1 in_II all_DB markets_NN2 and_CC full_JJ employment_NN1 of_IO resources_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR no_AT market_NN1 distortions_NN2 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, no_AT transport_NN1 or_CC similar_JJ costs_NN2 ,_, no_AT tariffs_NN2 or_CC other_JJ trade_NN1 barriers_NN2 ._. 
+</s>
+<s>
+The_AT relative_JJ endowments_NN2 of_IO the_AT two_MC factors_NN2 vary_VV0 from_II country_NN1 to_II country_NN1 ._. 
+</s>
+<s>
+We_PPIS2 will_VM assume_VVI Country_NN1 H_ZZ1 to_TO be_VBI capital-abundant_JJ and_CC Country_NN1 F_ZZ1 to_TO be_VBI labour-abundant_JJ ._. 
+</s>
+<s>
+Consumer_NN1 preferences_NN2 are_VBR identical_JJ in_II both_DB2 countries_NN2 ._. 
+</s>
+<s>
+Before_II going_VVG any_DD further_JJR in_II our_APPGE analysis_NN1 is_VBZ important_JJ to_TO clarify_VVI the_AT definitions_NN2 of_IO factor-intensity_NN1 and_CC factor-abundance_NN1 ._. 
+</s>
+<s>
+Good_JJ Y_ZZ1 is_VBZ said_VVN to_TO be_VBI relatively_RR capital-intensive_JJ and_CC good_JJ X_ZZ1 is_VBZ said_VVN to_TO be_VBI relatively_RR labour-intensive_JJ if_CS the_AT capital-labour_NN1 ratio_NN1 used_VVN in_II its_APPGE production_NN1 is_VBZ higher_JJR in_II the_AT former_DA sector_NN1 :_: Markusen_NP1 ,_, J._NP1 ,_, Melvin_NP1 ,_, J._NP1 ,_, Kaemper_NP1 ,_, M._NN1 and_CC Maskus_NP1 ,_, K._NP1 (_( 1995_MC )_) ,_, International_JJ Trade_NN1 Theory_NN1 and_CC Evidence_NN1 ,_, McGraw-Hill_NP1 ,_, Singapore_NP1 ,_, p.101_FO (_( Equation_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT concept_NN1 of_IO factor_NN1 endowments_NN2 is_VBZ defined_VVN ,_, specifically_RR ,_, in_II31 terms_II32 of_II33 the_AT ratios_NN2 between_II capital_NN1 stocks_NN2 and_CC labour_NN1 forces_NN2 in_II the_AT two_MC countries_NN2 ._. 
+</s>
+<s>
+Thus_RR if_CS the_AT capital-labour_NN1 ratio_NN1 in_II country_NN1 H_ZZ1 is_VBZ greater_JJR in_II country_NN1 F_ZZ1 ,_, country_NN1 H_ZZ1 is_VBZ said_VVN to_TO be_VBI capital-abundant_JJ and_CC labour-scarce_JJ ,_, whereas_CS country_NN1 F_ZZ1 is_VBZ said_VVN to_TO be_VBI labour-abundant_JJ and_CC capital-scarce_JJ ._. 
+</s>
+<s>
+Markusen_NN1 ,_, J._NP1 ,_, Melvin_NP1 ,_, J._NP1 ,_, Kaemper_NP1 ,_, M._NN1 and_CC Maskus_NP1 ,_, K._NP1 (_( 1995_MC )_) ,_, International_JJ Trade_NN1 Theory_NN1 and_CC Evidence_NN1 ,_, McGraw-Hill_NP1 ,_, Singapore_NP1 ,_, p.100_FO (_( Equation_NN1 2_MC )_) ._. 
+</s>
+<s>
+Thus_RR the_AT production_NN1 possibility_NN1 frontier_NN1 of_IO Country_NN1 H_ZZ1 will_VM be_VBI biased_VVN towards_II the_AT Y-axis_NN1 and_CC the_AT production_NN1 possibility_NN1 frontier_NN1 of_IO Country_NN1 F_ZZ1 will_VM be_VBI biased_VVN towards_II the_AT X-axis_NN1 ,_, as_CSA shown_VVN in_II the_AT following_JJ diagram_NN1 :_: Since_CS we_PPIS2 are_VBR assuming_VVG that_CST both_DB2 countries_NN2 have_VH0 identical_JJ demand_NN1 patterns_NN2 ,_, is_VBZ sensible_JJ to_TO expect_VVI relative_JJ factor_NN1 prices_NN2 to_TO reflect_VVI factor_NN1 endowments_NN2 ._. 
+</s>
+<s>
+Thus_RR in_II autarky_JJ ,_, Country_NN1 F_ZZ1 would_VM have_VHI relatively_RR inexpensive_JJ labour_NN1 and_CC Country_NN1 H_ZZ1 would_VM have_VHI relatively_RR inexpensive_JJ capital_NN1 ._. 
+</s>
+<s>
+Given_VVN ,_, the_AT two_MC production_NN1 possibility_NN1 frontiers_NN2 and_CC identical_JJ community_NN1 indifference_NN1 curves_NN2 ,_, in_II autarky_JJ the_AT two_MC countries_NN2 will_VM in_II equilibrium_NN1 at_II points_NN2 A_ZZ1 h_ZZ1 and_CC A_ZZ1 f_ZZ1 ,_, where_CS the_AT price_NN1 ratio_NN1 line_NN1 will_VM be_VBI steeper_JJR in_II Country_NN1 H_NP1 than_CSN in_II Country_NN1 F_ZZ1 ,_, as_CSA shown_VVN in_II figure_NN1 3_MC below_RL :_: Because_CS the_AT slopes_NN2 of_IO the_AT indifference_NN1 curves_NN2 are_VBR the_AT same_DA along_II any_DD ray_NN1 from_II the_AT origin_NN1 ,_, in_II autarky_JJ the_AT equilibrium_NN1 price_NN1 ration_NN1 line_NN1 will_VM be_VBI steeper_JJR in_II Country_NN1 H_NP1 than_CSN in_II Country_NN1 F_ZZ1 where_RRQ (_( Equation_NN1 3_MC )_) ._. 
+</s>
+<s>
+With_IW free_JJ trade_NN1 the_AT equilibrium_NN1 points_NN2 for_IF both_DB2 countries_NN2 will_VM change_VVI ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT differences_NN2 in_II prices_NN2 ,_, consumers_NN2 in_II Country_NN1 H_ZZ1 will_VM want_VVI to_TO purchase_VVI Good_JJ X_ZZ1 from_II Country_NN1 F_ZZ1 ,_, and_CC consumers_NN2 from_II Country_NN1 F_ZZ1 will_VM want_VVI to_TO buy_VVI Good_JJ Y_ZZ1 from_II Country_NN1 H._NP1 These_DD2 changes_NN2 in_II the_AT demand_NN1 patterns_NN2 for_IF both_DB2 good_JJ in_II both_DB2 countries_NN2 will_VM start_VVI a_AT1 price_NN1 adjustment_NN1 process_VV0 that_CST will_VM continue_VVI until_CS excess_JJ demands_NN2 and_CC supplies_NN2 for_IF both_DB2 commodities_NN2 in_II both_DB2 countries_NN2 have_VH0 been_VBN satisfied_VVN ._. 
+</s>
+<s>
+Production_NN1 will_VM continue_VVI to_TO change_VVI until_CS trade_NN1 has_VHZ equalised_VVN price_NN1 ratios_NN2 in_II the_AT two_MC countries_NN2 at_II some_DD intermediate_JJ level_NN1 p*_FO ._. 
+</s>
+<s>
+Thus_RR is_VBZ important_JJ to_TO observe_VVI that_DD1 trade_NN1 will_VM result_VVI in_II the_AT equalisation_NN1 of_IO commodity_NN1 prices_NN2 in_II the_AT two_MC countries_NN2 ._. 
+</s>
+<s>
+This_DD1 price_NN1 equalisation_NN1 happens_VVZ at_II points_NN2 of_IO equal_JJ slope_NN1 (_( marginal_JJ rates_NN2 of_IO transformation_NN1 )_) on_II both_DB2 production_NN1 possibility_NN1 curves_NN2 ,_, points_NN2 labelled_VVN Qh_NP1 and_CC Qf_NP1 ,_, which_DDQ also_RR demonstrate_VV0 than_CSN in_II free_JJ trade_NN1 both_DB2 countries_NN2 will_VM generally_RR produce_VVI both_DB2 goods_NN2 ._. 
+</s>
+<s>
+Markusen_NN1 ,_, J._NP1 ,_, Melvin_NP1 ,_, J._NP1 ,_, Kaemper_NP1 ,_, M._NN1 and_CC Maskus_NP1 ,_, K._NP1 (_( 1995_MC )_) ,_, International_JJ Trade_NN1 Theory_NN1 and_CC Evidence_NN1 ,_, McGraw-Hill_NP1 ,_, Singapore_NP1 ,_, p._NN1 105_MC ._. 
+</s>
+<s>
+Free_JJ trade_NN1 in_II the_AT H-O_NP1 model_NN1 provides_VVZ aggregate_JJ gains_NN2 from_II trade_NN1 for_IF each_DD1 country_NN1 as_II both_DB2 nations_NN2 end_VV0 up_RP consuming_VVG on_II indifference_NN1 curves_NN2 outside_II their_APPGE production_NN1 frontiers_NN2 ._. 
+</s>
+<s>
+In_II equilibrium_NN1 ,_, Country_NN1 F_ZZ1 exports_VVZ the_AT labour-intensive_JJ commodity_NN1 X_ZZ1 and_CC the_AT capital-abundant_JJ country_NN1 H_ZZ1 exports_VVZ the_AT capital-intensive_JJ good_JJ Y._NP1 This_DD1 result_NN1 follows_VVZ the_AT Heckscher-Ohlin_NP1 theorem_NN1 :_: Given_VVN the_AT assumptions_NN2 of_IO the_AT model_NN1 ,_, a_AT1 country_NN1 will_VM export_VVI the_AT commodity_NN1 that_CST intensively_RR uses_VVZ its_APPGE relatively_RR abundant_JJ factor_NN1 ._. 
+</s>
+<s>
+The_AT theorem_NN1 holds_VVZ however_RR only_RR on_II the_AT basis_NN1 of_IO its_APPGE strict_JJ and_CC unrealistic_JJ underlying_JJ assumptions_NN2 ._. 
+</s>
+<s>
+In_II the_AT real_JJ world_NN1 ,_, firms_NN2 often_RR experience_VV0 economies_NN2 of_IO scale_NN1 in_II production_NN1 ,_, markets_NN2 do_VD0 not_XX follow_VVI perfect_JJ competition_NN1 and_CC product_NN1 differentiation_NN1 is_VBZ used_VVN to_TO gain_VVI competitive_JJ advantage_NN1 ._. 
+</s>
+<s>
+Total_JJ supply_NN1 of_IO factors_NN2 of_IO production_NN1 is_VBZ not_XX fixed_VVN over_II time_NNT1 ;_; their_APPGE supply_NN1 varies_VVZ due_II21 to_II22 factors_NN2 such_II21 as_II22 population_NN1 growth_NN1 ._. 
+</s>
+<s>
+In_RR21 addition_RR22 ,_, nations_NN2 have_VH0 different_JJ tastes_NN2 and_CC hence_RR different_JJ demand_NN1 patterns_NN2 ._. 
+</s>
+<s>
+There_EX are_VBR also_RR market_VV0 distortions_NN2 like_II barriers_NN2 to_TO trade_VVI and_CC transportation_NN1 costs_NN2 ,_, and_CC production_NN1 factors_NN2 can_VM move_VVI across_II nations_NN2 ,_, although_CS with_IW certain_JJ limitations_NN2 ._. 
+</s>
+<s>
+When_CS challenging_VVG the_AT assumptions_NN2 ,_, some_DD appear_VV0 more_RGR fundamental_JJ than_CSN others_NN2 ,_, suggesting_VVG that_CST the_AT Heckscher-Ohlin_NP1 theorem_NN1 is_VBZ only_RR robust_JJ to_II its_APPGE underlying_JJ assumptions_NN2 up_II21 to_II22 a_AT1 certain_JJ extent_NN1 ,_, given_CS21 that_CS22 it_PPH1 allows_VVZ for_IF some_DD of_IO them_PPHO2 to_TO be_VBI relaxed_VVN ._. 
+</s>
+<s>
+Non-constant_JJ returns_NN2 to_TO scale_VVI will_VM clearly_RR invalidate_VVI the_AT notion_NN1 that_CST country_NN1 size_NN1 is_VBZ irrelevant_JJ for_IF trade_NN1 patterns_NN2 and_CC allowing_VVG arbitrary_JJ international_JJ differences_NN2 in_II technology_NN1 would_VM also_RR render_VVI the_AT theorem_NN1 generally_RR invalid_JJ ._. 
+</s>
+<s>
+With_IW scale_NN1 economies_NN2 ,_, trade_NN1 can_VM arise_VVI between_II countries_NN2 that_CST do_VD0 not_XX exhibit_VVI a_AT1 pattern_NN1 of_IO comparative_JJ advantage_NN1 ,_, for_REX21 example_REX22 between_II two_MC identical_JJ economies_NN2 ._. 
+</s>
+<s>
+As_CSA shown_VVN in_II figure_NN1 5_MC ,_, identical_JJ economies_NN2 with_IW identical_JJ production_NN1 frontiers_NN2 would_VM still_RR experience_VVI gains_NN2 from_II trade_NN1 if_CS Country_NN1 H_ZZ1 specialises_VVZ in_II the_AT production_NN1 of_IO commodity_NN1 Y_ZZ1 and_CC Country_NN1 F_ZZ1 specialises_VVZ in_II producing_VVG commodity_NN1 X._NP1 Both_DB2 countries_NN2 will_VM end_VVI up_RP consuming_VVG at_II a_AT1 higher_JJR indifference_NN1 curve_NN1 ,_, thus_RR experiencing_VVG welfare_NN1 gains_NN2 ._. 
+</s>
+<s>
+In_II the_AT presence_NN1 of_IO increasing_JJ returns_NN2 to_TO scale_VVI countries_NN2 will_VM turn_VVI towards_II specialisation_NN1 and_CC the_AT pattern_NN1 of_IO trade_NN1 could_VM be_VBI determined_VVN in_II a_AT1 rather_RG arbitrary_JJ manner_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, it_PPH1 could_VM be_VBI determined_VVN by_II First_MD Mover_NN1 Advantage_NN1 ,_, if_CS that_DD1 country_NN1 entered_VVD that_CST particular_JJ industry_NN1 first_MD ._. 
+</s>
+<s>
+Markusen_NN1 ,_, J._NP1 ,_, Melvin_NP1 ,_, J._NP1 ,_, Kaemper_NP1 ,_, M._NN1 and_CC Maskus_NP1 ,_, K._NP1 (_( 1995_MC )_) ,_, International_JJ Trade_NN1 Theory_NN1 and_CC Evidence_NN1 ,_, McGraw-Hill_NP1 ,_, Singapore_NP1 ,_, p._NN1 107_MC ._. 
+</s>
+<s>
+Whether_CSW the_AT Heckscher-Ohlin_NP1 holds_VVZ in_II the_AT presence_NN1 of_IO market_NN1 distortions_NN2 will_VM depend_VVI on_II their_APPGE specific_JJ type_NN1 ,_, suggesting_VVG that_CST the_AT theorem_NN1 is_VBZ not_XX as_RG robust_JJ as_CSA it_PPH1 first_MD appeared_VVD ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO monopolies_NN2 and_CC export_VV0 subsidies_NN2 ,_, the_AT theorem_NN1 will_VM not_XX hold_VVI if_CSW their_APPGE effects_NN2 are_VBR strong_JJ enough_RR to_TO offset_VVI the_AT comparative_JJ advantage_NN1 given_VVN by_II factor_NN1 endowments_NN2 ._. 
+</s>
+<s>
+An_AT1 export_NN1 subsidy_NN1 ,_, for_REX21 example_REX22 ,_, would_VM enable_VVI a_AT1 labour-abundant_JJ country_NN1 to_TO export_VVI a_AT1 capital-intensive_JJ commodity_NN1 ;_; the_AT extent_NN1 to_II which_DDQ the_AT country_NN1 can_VM afford_VVI to_TO export_VVI this_DD1 commodity_NN1 will_VM depend_VVI on_II the_AT size_NN1 of_IO the_AT government_NN1 subsidy_NN1 ._. 
+</s>
+<s>
+Import_VV0 restrictions_NN2 ,_, on_II the_AT other_JJ hand_NN1 ,_, although_CS reducing_VVG trade_NN1 will_VM allow_VVI for_IF any_DD remaining_JJ trade_NN1 to_TO follow_VVI the_AT H-O_NP1 model_NN1 predictions_NN2 ._. 
+</s>
+<s>
+Thus_RR the_AT theorem_NN1 still_RR holds_VVZ in_II the_AT presence_NN1 of_IO import_NN1 restrictions_NN2 ._. 
+</s>
+<s>
+The_AT following_JJ diagrams_NN2 show_VV0 the_AT effect_NN1 of_IO import_NN1 restrictions_NN2 on_II trade_NN1 ,_, figure_NN1 6_MC shows_VVZ the_AT case_NN1 of_IO free_JJ trade_NN1 and_CC figure_NN1 7_MC shows_VVZ the_AT case_NN1 of_IO tariffs_NN2 ,_, where_CS trade_NN1 has_VHZ been_VBN reduced_VVN as_II a_AT1 result_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, given_VVN the_AT differences_NN2 in_II relative_JJ factor_NN1 prices_NN2 between_II nations_NN2 ,_, it_PPH1 is_VBZ possible_JJ for_IF the_AT same_DA commodity_NN1 to_TO be_VBI capital-intensive_JJ in_II a_AT1 capital-abundant_JJ country_NN1 and_CC labour-intensive_JJ in_II a_AT1 labour-abundant_JJ country_NN1 ._. 
+</s>
+<s>
+This_DD1 case_NN1 will_VM provide_VVI a_AT1 practical_JJ problem_NN1 for_IF the_AT Heckscher-Ohlin_NP1 model_NN1 ,_, since_CS according_II21 to_II22 its_APPGE predictions_NN2 both_DB2 countries_NN2 should_VM export_VVI the_AT same_DA good_JJ ._. 
+</s>
+<s>
+In_II conclusion_NN1 ,_, the_AT Heckscher-Ohlin_NP1 model_NN1 makes_VVZ a_AT1 series_NN of_IO strong_JJ assumptions_NN2 in_BCL21 order_BCL22 to_TO isolate_VVI the_AT effect_NN1 of_IO relative_JJ factor_NN1 endowments_NN2 and_CC show_VV0 their_APPGE significance_NN1 as_II a_AT1 cause_NN1 of_IO trade_NN1 ._. 
+</s>
+<s>
+Despite_II some_DD of_IO its_APPGE assumptions_NN2 being_VBG highly_RR unrealistic_JJ ,_, the_AT notion_NN1 that_CST differences_NN2 in_II factor_NN1 endowments_NN2 provide_VV0 a_AT1 significant_JJ explanation_NN1 for_IF comparative_JJ advantage_NN1 and_CC global_JJ trade_NN1 patterns_NN2 is_VBZ undeniable_JJ ._. 
+</s>
+<s>
+The_AT model_NN1 suggests_VVZ that_CST policymakers_NN2 should_VM focus_VVI on_II supporting_VVG the_AT exportation_NN1 of_IO those_DD2 goods_NN2 that_CST can_VM be_VBI produced_VVN with_IW resources_NN2 in_II which_DDQ they_PPHS2 are_VBR naturally_RR abundant_JJ ._. 
+</s>
+<s>
+Hence_RR ,_, developing_VVG countries_NN2 would_VM benefit_VVI from_II exporting_VVG natural_JJ resource-intensive_JJ items_NN2 such_II21 as_II22 raw_JJ materials_NN2 and_CC labour-intensive_JJ goods_NN2 ._. 
+</s>
+<s>
+Moreover_RR ,_, the_AT implications_NN2 of_IO the_AT model_NN1 are_VBR more_RGR far_RR reaching_VVG in_II31 terms_II32 of_II33 supporting_VVG the_AT notion_NN1 of_IO free_JJ trade_NN1 ._. 
+</s>
+<s>
+Trade_NN1 restrictions_NN2 tend_VV0 to_TO lower_VVI the_AT welfare_NN1 of_IO a_AT1 country_NN1 ,_, as_CSA it_PPH1 constrains_VVZ access_NN1 to_II a_AT1 greater_JJR choice_NN1 of_IO goods_NN2 and_CC better_JJR prices_NN2 ._. 
+</s>
+<s>
+Governments_NN2 therefore_RR should_VM refrain_VVI from_II using_VVG these_DD2 protective_JJ mechanisms_NN2 ._. 
+</s>
+<s>
+A_AT1 final_JJ key_JJ implication_NN1 for_IF policymakers_NN2 ,_, specifically_RR for_IF those_DD2 in_II highly_RR populated_VVN countries_NN2 ,_, is_VBZ that_DD1 they_PPHS2 should_VM promote_VVI investment_NN1 in_II human_JJ capital_NN1 (_( in_II31 terms_II32 of_II33 better_JJR education_NN1 ,_, better_JJR health_NN1 and_CC nutrition_NN1 )_) as_II21 to_II22 increase_NN1 the_AT productivity_NN1 of_IO their_APPGE labour_NN1 force_NN1 ._. 
+</s>
+<s>
+Markusen_NN1 ,_, J._NP1 ,_, Melvin_NP1 ,_, J._NP1 ,_, Kaemper_NP1 ,_, M._NN1 and_CC Maskus_NP1 ,_, K._NP1 (_( 1995_MC )_) ,_, International_JJ Trade_NN1 Theory_NN1 and_CC Evidence_NN1 ,_, McGraw-Hill_NP1 ,_, Singapore_NP1 ,_, p.108_FO ._. 
+</s>

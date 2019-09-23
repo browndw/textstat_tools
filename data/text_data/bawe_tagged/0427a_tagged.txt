@@ -1,0 +1,429 @@
+<s>
+The_AT above_JJ proverb_NN1 was_VBDZ quoted_VVN by_II James_NP1 Wolfensohn_NP1 ,_, President_NN1 of_IO the_AT World_NN1 Bank_NN1 ,_, 1995_MC ._. 
+</s>
+<s>
+He_PPHS1 argues_VVZ that_CST educating_VVG girls_NN2 has_VHZ a_AT1 catalytic_JJ effect_NN1 on_II the_AT economic_JJ development_NN1 which_DDQ includes_VVZ higher_JJR productivity_NN1 and_CC faster_RRR economic_JJ growth_NN1 ._. 
+</s>
+<s>
+However_RR ,_, in_II many_DA2 countries_NN2 ,_, especially_RR in_II the_AT developing_JJ countries_NN2 ,_, males_NN2 get_VV0 higher_JJR level_NN1 of_IO schooling_NN1 than_CSN female_JJ ,_, i.e._REX there_EX is_VBZ an_AT1 educational_JJ gender_NN1 gap_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ believed_VVN that_DD1 female_NN1 and_CC male_JJ education_NN1 has_VHZ affected_VVN output_NN1 and_CC growth_NN1 in_II different_JJ ways_NN2 ._. 
+</s>
+<s>
+Female_JJ education_NN1 ,_, as_CSA with_IW male_JJ education_NN1 ,_, can_VM improve_VVI productivity_NN1 and_CC contribute_VVI directly_RR to_II the_AT output_NN1 of_IO the_AT economy_NN1 and_CC ,_, indirectly_RR ,_, through_II social_JJ gains_NN2 by_II reducing_VVG fertility_NN1 and_CC infant_NN1 mortality_NN1 (_( especially_RR in_II developing_JJ countries_NN2 )_) ,_, improving_JJ family_NN1 and_CC child_NN1 health_NN1 ,_, and_CC increasing_VVG the_AT quantity_NN1 and_CC quality_NN1 of_IO children_NN2 's_GE educational_JJ attainment_NN1 ._. 
+</s>
+<s>
+Studies_NN2 using_VVG cross-country_JJ macro-level_JJ data_NN pick_VV0 up_RP not_XX only_RR the_AT direct_JJ effects_NN2 of_IO female_JJ education_NN1 ,_, but_CCB also_RR the_AT indirect_JJ effects_NN2 not_XX captured_VVN using_VVG micro_NN1 level_NN1 data_NN ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO estimate_VVI a_AT1 neoclassical_JJ growth_NN1 model_NN1 that_CST includes_VVZ male_JJ and_CC female_JJ education_NN1 as_CSA separate_JJ explanatory_JJ variables_NN2 ._. 
+</s>
+<s>
+The_AT average_JJ long-run_JJ effects_NN2 of_IO male_NN1 and_CC female_JJ education_NN1 on_II output_NN1 per_II worker_NN1 are_VBR estimated_VVN for_IF a_AT1 cross-section_NN1 of_IO countries_NN2 using_VVG long_JJ time_NNT1 averages_NN2 of_IO the_AT data_NN ._. 
+</s>
+<s>
+The_AT results_NN2 support_VV0 the_AT World_NN1 Bank_NN1 's_GE emphasis_NN1 on_II the_AT importance_NN1 of_IO female_JJ education_NN1 in_II raising_VVG labour_NN1 productivity_NN1 ._. 
+</s>
+<s>
+This_DD1 paper_NN1 follows_VVZ the_AT paper_NN1 by_II Stephen_NP1 Knowles_NP1 ,_, Paula_NP1 K._NP1 lorgelly_RR and_CC P.Dorian_NP1 Owen_NP1 ._. 
+</s>
+<s>
+(_( 2002_MC )_) ._. 
+</s>
+<s>
+'Are_NN1 educational_JJ gender_NN1 gaps_NN2 a_AT1 brake_NN1 on_II economic_JJ development_NN1 ?_? '_" 
+</s>
+<s>
+They_PPHS2 based_VVD their_APPGE results_NN2 on_II data_NN obtained_VVN for_IF a_AT1 mixed_JJ group_NN1 of_IO countries_NN2 for_IF the_AT period_NN1 1960_MC to_II 1990_MC using_VVG OLS_NN2 on_II time_NNT1 averages_NN2 of_IO the_AT data_NN and_CC concluded_VVD that_CST female_JJ education_NN1 contributed_VVD significantly_RR to_II the_AT labour_NN1 productivity_NN1 across_II countries_NN2 ._. 
+</s>
+<s>
+The_AT following_JJ paper_NN1 uses_VVZ the_AT same_DA technique_NN1 for_IF a_AT1 sample_NN1 of_IO 38_MC countries_NN2 consisting_VVG of_IO developed_JJ and_CC developing_JJ countries_NN2 over_II the_AT period_NN1 1995_MC to_II 2004_MC and_CC attempts_NN2 to_TO prove_VVI that_DD1 female_JJ education_NN1 plays_VVZ a_AT1 significant_JJ role_NN1 in_II the_AT overall_JJ development_NN1 of_IO the_AT economy_NN1 ._. 
+</s>
+<s>
+Previous_JJ empirical_JJ work_NN1 on_II this_DD1 topic_NN1 ,_, the_AT formation_NN1 of_IO the_AT model_NN1 ,_, the_AT data_NN and_CC the_AT estimation_NN1 techniques_NN2 used_VVD ,_, and_CC the_AT results_NN2 will_VM be_VBI reported_VVN in_II the_AT subsequent_JJ sections_NN2 ._. 
+</s>
+<s>
+The_AT cross-country_JJ macroeconomic_JJ literature_NN1 seems_VVZ far_RR from_II reaching_VVG a_AT1 common_JJ consensus_NN1 on_II the_AT role_NN1 of_IO female_JJ education_NN1 ._. 
+</s>
+<s>
+Some_DD studies_NN2 report_NN1 OLS_VVZ regressions_NN2 with_IW positive_JJ effects_NN2 of_IO both_RR male_JJ and_CC female_JJ education_NN1 on_II growth_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, Benovat_NP1 (_( 1989_MC )_) reports_VVZ the_AT above_JJ result_NN1 using_VVG primary_JJ and_CC secondary_JJ school_NN1 enrolments_NN2 ._. 
+</s>
+<s>
+However_RR ,_, since_CS none_PN of_IO the_AT regressions_NN2 use_VV0 both_RR male_JJ and_CC female_JJ enrolments_NN2 in_II the_AT same_DA equation_NN1 ,_, the_AT results_NN2 may_VM not_XX be_VBI significant_JJ for_IF the_AT study_NN1 of_IO gender_NN1 gaps_NN2 in_II education_NN1 ._. 
+</s>
+<s>
+Hill_NP1 and_CC King_NN1 (_( 1995_MC )_) go_VV0 one_MC1 step_NN1 ahead_RL and_CC introduce_VV0 educational_JJ gender_NN1 gap_NN1 in_II cross-sectional_JJ output_NN1 regression_NN1 ._. 
+</s>
+<s>
+They_PPHS2 also_RR use_VV0 school_NN1 enrolments_NN2 as_II a_AT1 proxy_NN1 for_IF level_NN1 of_IO education_NN1 ._. 
+</s>
+<s>
+Their_APPGE results_NN2 show_VV0 a_AT1 positive_JJ significant_JJ impact_NN1 of_IO female_JJ education_NN1 on_II GDP_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 them_PPHO2 the_AT social_JJ benefits_NN2 of_IO women_NN2 's_GE education_NN1 range_NN1 from_II improving_VVG economic_JJ growth_NN1 to_II increasing_JJ life_NN1 expectancy_NN1 in_II the_AT population_NN1 ,_, to_II improving_VVG the_AT functioning_NN1 of_IO the_AT political_JJ processes_NN2 ._. 
+</s>
+<s>
+By_II contrast_NN1 ,_, Barro_NP1 and_CC Lee_NP1 (_( 1994_MC )_) find_VV0 that_CST there_EX is_VBZ a_AT1 significant_JJ negative_JJ partial_JJ correlation_NN1 between_II economic_JJ growth_NN1 and_CC female_JJ secondary_JJ schooling_NN1 ._. 
+</s>
+<s>
+They_PPHS2 use_VV0 average_JJ years_NNT2 of_IO schooling_VVG instead_II21 of_II22 enrolment_NN1 rates_NN2 ._. 
+</s>
+<s>
+They_PPHS2 explain_VV0 the_AT negative_JJ coefficient_NN1 as_II a_AT1 result_NN1 of_IO backwardness_NN1 due_II21 to_II22 a_AT1 high_JJ spread_NN1 between_II male_NN1 and_CC female_JJ secondary_JJ educational_JJ attainment_NN1 ._. 
+</s>
+<s>
+This_DD1 in_II turn_NN1 would_VM mean_VVI a_AT1 higher_JJR growth_NN1 potential_NN1 through_II the_AT convergence_NN1 mechanism_NN1 ._. 
+</s>
+<s>
+However_RR ,_, according_II21 to_II22 Sims_NP1 ,_, C.A_NP1 (_( 1996_MC )_) ,_, a_AT1 major_JJ problem_NN1 with_IW the_AT results_NN2 of_IO these_DD2 studies_NN2 is_VBZ that_CST the_AT equations_NN2 estimated_VVN are_VBR ad_RR21 hoc_RR22 and_CC it_PPH1 is_VBZ not_XX clear_JJ how_RRQ the_AT coefficients_NN2 are_VBR to_TO be_VBI interpreted_VVN ._. 
+</s>
+<s>
+The_AT studies_NN2 by_II Barro_NP1 include_VV0 life_NN1 expectancy_NN1 as_II a_AT1 proxy_NN1 for_IF health_NN1 component_NN1 of_IO human_JJ capital_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 Knowles_NP1 and_CC Owen_NP1 ,_, when_CS education_NN1 is_VBZ not_XX aggregated_VVN by_II gender_NN1 it_PPH1 is_VBZ not_XX statistically_RR significant_JJ in_II models_NN2 that_CST include_VV0 life_NN1 expectancy_NN1 ._. 
+</s>
+<s>
+The_AT level_NN1 of_IO educational_JJ attainment_NN1 then_RT has_VHZ no_AT explanatory_JJ power_NN1 for_IF growth_NN1 ._. 
+</s>
+<s>
+In_II31 response_II32 to_II33 the_AT problems_NN2 above_RL ,_, Caselli_NP1 et_RA21 al_RA22 (_( 1996_MC )_) re-estimate_VV0 Barro_NN1 and_CC Lee_NP1 's_GE equations_NN2 using_VVG GMM_NP1 estimator_NN1 ._. 
+</s>
+<s>
+They_PPHS2 obtain_VV0 a_AT1 significant_JJ positive_JJ coefficient_NN1 on_II female_JJ schooling_NN1 and_CC a_AT1 negative_JJ one_PN1 on_II male_JJ schooling_NN1 ._. 
+</s>
+<s>
+They_PPHS2 argue_VV0 that_CST female_JJ education_NN1 captures_VVZ the_AT positive_JJ fertility_NN1 effects_NN2 and_CC negative_JJ human_JJ capital_NN1 effects_NN2 ,_, former_DA outweighing_VVG the_AT latter_DA ._. 
+</s>
+<s>
+Male_JJ education_NN1 on_II the_AT other_JJ hand_NN1 only_RR represents_VVZ the_AT human_JJ capital_NN1 effects_NN2 and_CC therefore_RR has_VHZ a_AT1 negative_JJ coefficient_NN1 ._. 
+</s>
+<s>
+Other_JJ studies_NN2 ,_, e.g._REX Knight_NP1 et_RA21 al_RA22 (_( 1993_MC )_) using_VVG five-year_JJ panels_NN2 find_VV0 education_NN1 to_TO have_VHI significant_JJ negative_JJ effect_NN1 ._. 
+</s>
+<s>
+They_PPHS2 assume_VV0 that_CST this_DD1 could_VM be_VBI due_II21 to_II22 five-year_JJ intervals_NN2 being_VBG too_RG short_JJ to_TO account_VVI for_IF the_AT effect_NN1 of_IO education_NN1 on_II growth_NN1 ._. 
+</s>
+<s>
+They_PPHS2 argue_VV0 that_CST cross-sectional_JJ data_NN using_VVG time_NNT1 averages_NN2 may_VM be_VBI the_AT preferred_JJ proxy_NN1 in_II estimating_VVG the_AT effects_NN2 of_IO human_JJ capital_NN1 investment_NN1 on_II growth_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ to_TO be_VBI noted_VVN that_CST one_MC1 thing_NN1 that_CST all_DB the_AT studies_NN2 in_II this_DD1 area_NN1 have_VH0 in_RR21 common_RR22 is_VBZ the_AT lack_NN1 of_IO explicit_JJ theoretical_JJ framework_NN1 ._. 
+</s>
+<s>
+This_DD1 makes_VVZ coefficients_NN2 on_II variables_NN2 difficult_JJ to_TO interpret_VVI ._. 
+</s>
+<s>
+The_AT model_NN1 used_VVN is_VBZ a_AT1 MRW-style_JJ neoclassical_JJ growth_NN1 model_NN1 ._. 
+</s>
+<s>
+Here_RL male_JJ and_CC female_JJ education_NN1 and_CC health_NN1 capital_NN1 are_VBR entered_VVN as_CSA separate_JJ factors_NN2 in_II the_AT production_NN1 function_NN1 ._. 
+</s>
+<s>
+The_AT equation_NN1 to_TO be_VBI estimated_VVN is_VBZ :_: (_( 1_MC1 )_) ._. 
+</s>
+<s>
+Where_RRQ subscripts_NN2 i_ZZ1 and_CC t_ZZ1 denote_VV0 country_NN1 i_ZZ1 and_CC time_NNT1 period_NN1 t_ZZ1 respectively_RR ._. 
+</s>
+<s>
+Y/L_NP1 denotes_VVZ values_NN2 of_IO real_JJ output_NN1 per_II worker_NN1 ._. 
+</s>
+<s>
+s_ZZ1 ki_NN2 is_VBZ the_AT fraction_NN1 of_IO real_JJ output_NN1 invested_VVN in_II physical_JJ capital_NN1 ._. 
+</s>
+<s>
+x_ZZ1 it_PPH1 is_VBZ the_AT stock_NN1 of_IO health_NN1 capital_NN1 ef_NN1 is_VBZ the_AT stock_NN1 of_IO female_JJ education_NN1 em_FU is_VBZ the_AT stock_NN1 of_IO male_JJ education_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ to_TO be_VBI noted_VVN that_CST lower_JJR case_NN1 letters_NN2 denote_VV0 quantities_NN2 per_II effective_JJ unit_NN1 of_IO labour_NN1 ._. 
+</s>
+<s>
+n_ZZ1 is_VBZ the_AT growth_NN1 rate_NN1 of_IO labour_NN1 force_NN1 ,_, g_ZZ1 is_VBZ the_AT growth_NN1 rate_NN1 of_IO technology_NN1 (_( assumed_VVN to_TO be_VBI constant_JJ across_II countries_NN2 )_) and_CC is_VBZ the_AT rate_NN1 of_IO depreciation_NN1 ,_, which_DDQ is_VBZ assumed_VVN to_TO be_VBI common_JJ across_II countries_NN2 and_CC time_NNT1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ to_TO be_VBI noted_VVN that_CST the_AT model_NN1 assumed_VVD steady-state_JJ relationships_NN2 ._. 
+</s>
+<s>
+it_PPH1 is_VBZ the_AT error_NN1 term_NN1 ._. 
+</s>
+<s>
+Note_VV0 that_CST the_AT coefficients_NN2 on_II log_NN1 (_( s_ZZ1 ki_NN2 )_) and_CC on_II log_NN1 (_( n_ZZ1 +_FO g_ZZ1 +_FO )_) should_VM sum_VVI to_TO zero_VVI ._. 
+</s>
+<s>
+If_CS the_AT null_JJ hypothesis_NN1 of_IO a_AT1 valid_JJ restriction_NN1 is_VBZ accepted_VVN then_RT the_AT restricted_JJ version_NN1 of_IO the_AT equation_NN1 can_VM be_VBI used_VVN to_TO infer_VVI values_NN2 of_IO f_ZZ1 ,_, m_ZZ1 ,_, and_CC more_RGR accurately_RR ._. 
+</s>
+<s>
+The_AT real_JJ GDP_NN1 per_II worker_NN1 (_( Y/L_ZZ1 )_) is_VBZ the_AT dependent_JJ variable_NN1 and_CC s_ZZ1 ki_NN2 ,_, n_ZZ1 i_ZZ1 +_FO g_ZZ1 +_FO ,_, ef_VV0 ,_, em_FU and_CC x_ZZ1 it_PPH1 are_VBR the_AT independent/explanatory_JJ variables_NN2 ._. 
+</s>
+<s>
+The_AT model_NN1 seeks_VVZ to_TO find_VVI the_AT relationship_NN1 between_II the_AT dependent_JJ and_CC the_AT independent_JJ variables_NN2 and_CC to_TO determine_VVI how_RGQ significant_JJ the_AT coefficients_NN2 are_VBR ,_, especially_RR the_AT female_JJ education_NN1 ,_, in_II determining_VVG the_AT output_NN1 per_II worker/_NN1 labour_NN1 productivity_NN1 ._. 
+</s>
+<s>
+A_AT1 significant_JJ positive_JJ coefficient_NN1 on_II female_JJ education_NN1 would_VM imply_VVI that_CST efforts_NN2 should_VM be_VBI made_VVN to_TO reduce_VVI the_AT educational_JJ gender_NN1 gaps_NN2 in_BCL21 order_BCL22 to_TO have_VHI world_NN1 development_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ to_TO be_VBI noted_VVN that_CST in_II cross-section_NN1 estimation_NN1 any_DD unobservable_JJ country_NN1 specific_JJ effects_NN2 enter_VV0 the_AT error_NN1 terms_NN2 in_II estimated_JJ equations_NN2 and_CC OLS_NN2 and_CC GLS-type_JJ methods_NN2 yield_VV0 consistent_JJ estimates_NN2 only_RR if_CS the_AT country-specific_JJ error_NN1 terms_NN2 are_VBR uncorrelated_JJ with_IW the_AT explanatory_JJ variables_NN2 ._. 
+</s>
+<s>
+This_DD1 could_VM bias_VVI the_AT results_NN2 ._. 
+</s>
+<s>
+An_AT1 additional_JJ source_NN1 of_IO bias_NN1 could_VM result_VVI from_II the_AT potential_JJ endogeneity_NN1 of_IO the_AT explanatory_JJ variables_NN2 as_CSA life_NN1 expectancy_NN1 ,_, schooling_VVG levels_NN2 and_CC population_NN1 growth_NN1 are_VBR all_DB likely_JJ to_TO depend_VVI on_II a_AT1 country_NN1 's_GE level_NN1 of_IO output_NN1 per_II worker_NN1 ._. 
+</s>
+<s>
+Y/L_NP1 ,_, Real_JJ GDP_NN1 per_II worker_NN1 is_VBZ taken_VVN from_II the_AT Penn_NP1 World_NN1 Tables_NN2 version_NN1 6.2_MC ._. 
+</s>
+<s>
+Annual_JJ data_NN was_VBDZ logged_VVN and_CC then_RT averaged_VVN over_II the_AT period_NN1 1995_MC to_II 2004._MC s_ZZ1 k_ZZ1 ,_, is_VBZ the_AT ratio_NN1 of_IO gross_JJ fixed_JJ capital_NN1 formation_NN1 (_( a_AT1 proxy_NN1 for_IF capital_NN1 investment_NN1 )_) to_II real_JJ GDP_NN1 ._. 
+</s>
+<s>
+Data_NN on_II GFCF_NP1 (_( in_II US_NP1 $_NN )_) was_VBDZ taken_VVN from_II UNCTAD_NP1 and_CC the_AT data_NN for_IF Real_JJ GDP_NN1 (_( in_II US_NP1 $_NN )_) was_VBDZ taken_VVN from_II the_AT IMF_NP1 ._. 
+</s>
+<s>
+The_AT annual_JJ data_NN was_VBDZ logged_VVN and_CC then_RT averaged_VVN over_II the_AT period_NN1 1995_MC to_II 2004._MC n_ZZ1 i_ZZ1 +_FO g_ZZ1 +_FO ,_, Adjusted_JJ growth_NN1 rate_NN1 of_IO labour_NN1 force_NN1 ._. 
+</s>
+<s>
+The_AT growth_NN1 rate_NN1 of_IO workforce_NN1 (_( n_ZZ1 )_) was_VBDZ calculated_VVN using_VVG the_AT employment_NN1 data_NN from_II ILO_NP1 database_NN1 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ calculated_VVN for_IF ech_NN1 year_NNT1 ._. 
+</s>
+<s>
+(_( g_ZZ1 +_FO )_) was_VBDZ assumed_VVN equal_JJ to_II 5%_NNU ._. 
+</s>
+<s>
+(_( n_ZZ1 i_ZZ1 +_FO g_ZZ1 +_FO )_) was_VBDZ logged_VVN and_CC then_RT averaged_VVN over_II the_AT 10_MC year_NNT1 period_NN1 ._. 
+</s>
+<s>
+ef_VV0 ,_, average_JJ number_NN1 of_IO years_NNT2 of_IO schooling_NN1 attained_VVN by_II females_NN2 from_II primary_NN1 to_II tertiary_JJ level_NN1 was_VBDZ taken_VVN from_II UNESCO_NP1 ._. 
+</s>
+<s>
+Data_NN on_II average_JJ years_NNT2 of_IO schooling_NN1 has_VHZ been_VBN widely_RR used_VVN as_II a_AT1 proxy_NN1 for_IF stocks_NN2 of_IO educational_JJ human_JJ capital_NN1 ._. 
+</s>
+<s>
+The_AT annual_JJ data_NN was_VBDZ logged_VVN and_CC then_RT averaged_VVN over_II the_AT period_NN1 1995_MC to_II 2004._MC em_FU ,_, average_JJ number_NN1 of_IO years_NNT2 of_IO schooling_NN1 attained_VVN by_II males_NN2 from_II primary_NN1 to_II tertiary_JJ level_NN1 was_VBDZ taken_VVN from_II UNESCO_NP1 ._. 
+</s>
+<s>
+The_AT annual_JJ data_NN was_VBDZ logged_VVN and_CC then_RT averaged_VVN over_II the_AT same_DA period_NN1 ._. 
+</s>
+<s>
+x_ZZ1 ,_, the_AT shortfall_NN1 in_II life_NN1 expectancy_NN1 at_II birth_NN1 (_( LE_FW )_) from_II 85_MC years_NNT2 ._. 
+</s>
+<s>
+Data_NN on_II life_NN1 expectancy_NN1 measure_NN1 mortality_NN1 rather_II21 than_II22 morbidity_NN1 ._. 
+</s>
+<s>
+It_PPH1 could_VM be_VBI argued_VVN that_CST when_CS examining_VVG the_AT relationship_NN1 between_II health_NN1 and_CC labour_NN1 productivity_NN1 ,_, data_NN on_II morbidity_NN1 is_VBZ preferable_JJ ._. 
+</s>
+<s>
+The_AT data_NN used_VVN are_VBR annual_JJ from_II World_NN1 Bank_NN1 social_JJ indicator_NN1 's_VBZ of_IO development_NN1 ._. 
+</s>
+<s>
+The_AT shortfall_NN1 in_II life_NN1 expectancy_NN1 is_VBZ calculated_VVN as_CSA log(x)_NN1 =_FO -log_NN1 (_( 85-LE_NP1 )_) ._. 
+</s>
+<s>
+The_AT data_NN were_VBDR logged_VVN and_CC then_RT averaged_VVN for_IF the_AT period_NN1 1995_MC to_II 2004_MC ._. 
+</s>
+<s>
+The_AT sample_NN1 consists_VVZ of_IO 38_MC countries_NN2 including_II developed_JJ countries_NN2 of_IO Europe_NP1 and_CC developing_JJ countries_NN2 of_IO South_ND1 Asia_NP1 and_CC Africa_NP1 ._. 
+</s>
+<s>
+The_AT data_NN was_VBDZ collected_VVN for_IF years_NNT2 1995_MC to_II 2004_MC for_IF all_DB the_AT six_MC variables_NN2 in_II the_AT equation_NN1 (_( 1_MC1 )_) mentioned_VVD under_II model_NN1 specification_NN1 ._. 
+</s>
+<s>
+Annual_JJ data_NN was_VBDZ logged_VVN and_CC then_RT averaged_VVN over_II the_AT period_NN1 of_IO study_NN1 for_IF each_DD1 variable_NN1 ._. 
+</s>
+<s>
+OLS_NP2 was_VBDZ used_VVN to_TO estimate_VVI the_AT following_JJ equation_NN1 :_: The_AT results_NN2 obtained_VVN are_VBR given_VVN in_II table_NN1 1_MC1 in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT coefficient_NN1 on_II female_JJ education_NN1 is_VBZ positive_JJ and_CC is_VBZ statistically_RR significant_JJ ,_, whereas_CS the_AT coefficient_NN1 on_II male_JJ education_NN1 is_VBZ not_XX statistically_RR significant_JJ from_II zero_MC ._. 
+</s>
+<s>
+The_AT implication_NN1 could_VM be_VBI that_CST countries_NN2 with_IW higher_JJR level_NN1 of_IO female_JJ schooling_NN1 would_VM have_VHI higher_JJR levels_NN2 of_IO labour_NN1 productivity_NN1 ,_, ceteris_RR21 paribus_RR22 ._. 
+</s>
+<s>
+One_MC1 possible_JJ economic_JJ interpretation_NN1 of_IO the_AT negative_JJ coefficient_NN1 on_II male_JJ education_NN1 could_VM be_VBI that_CST as_II the_AT level_NN1 of_IO female_JJ education_NN1 has_VHZ a_AT1 significant_JJ positive_JJ impact_NN1 on_II GDP_NN1 ,_, large_JJ gender_NN1 disparities_NN2 in_II educational_JJ attainment_NN1 associated_VVN with_IW lower_JJR levels_NN2 of_IO GDP_NN1 could_VM mean_VVI that_DD1 for_IF given_JJ levels_NN2 of_IO female_JJ education_NN1 ,_, higher_JJR levels_NN2 of_IO male_JJ education_NN1 reduce_VV0 GDP_NN1 ._. 
+</s>
+<s>
+The_AT coefficient_NN1 on_II life_NN1 expectancy_NN1 is_VBZ very_RG significant_JJ and_CC positive_JJ implying_VVG that_DD1 life_NN1 expectancy_NN1 affects_VVZ the_AT labour_NN1 productivity_NN1 significantly_RR ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT paper_NN1 by_II Knowles_NP1 and_CC Owen_NP1 ,_, ._. 
+</s>
+<s>
+Although_CS schooling_VVG data_NN is_VBZ widely_RR used_VVN as_II a_AT1 proxy_NN1 for_IF educational_JJ human_JJ capital_NN1 ,_, recent_JJ work_NN1 by_II Fuente_NP1 (_( 2000_MC )_) on_II schooling_VVG data_NN for_IF a_AT1 sample_NN1 of_IO OECD_NP1 countries_NN2 suggests_VVZ that_CST the_AT data_NN may_VM be_VBI subject_II21 to_II22 a_AT1 measurement_NN1 error_NN1 ._. 
+</s>
+<s>
+Sen(1998)_FO argues_VVZ that_DD1 morbidity_NN1 data_NN may_VM not_XX be_VBI consistent_JJ across_II countries_NN2 because_II21 of_II22 the_AT subjectivity_NN1 involved_VVD ._. 
+</s>
+<s>
+In_II such_DA situations_NN2 ,_, data_NN on_II mortality_NN1 may_VM be_VBI more_RGR adequate_JJ ._. 
+</s>
+<s>
+The_AT coefficients_NN2 on_II the_AT ratio_NN1 of_IO gross_JJ fixed_JJ capital_NN1 formation_NN1 to_II real_JJ GDP_NN1 and_CC the_AT adjusted_JJ growth_NN1 rate_NN1 of_IO workforce_NN1 are_VBR positive_JJ but_CCB insignificant_JJ ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI due_II21 to_II22 the_AT inclusion_NN1 of_IO life_NN1 expectancy_NN1 that_CST makes_VVZ the_AT other_JJ coefficients_NN2 insignificant_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ to_TO be_VBI noted_VVN that_CST when_CS the_AT equation_NN1 is_VBZ estimated_VVN without_IW life_NN1 expectancy_NN1 ,_, GFCF/RGDP_NP1 becomes_VVZ extremely_RR significant_JJ ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR reported_VVN in_II table_NN1 2_MC in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT R_ZZ1 squared_VVN values_NN2 in_II table_NN1 one_MC1 and_CC two_MC are_VBR 85%_NNU and_CC 79%_NNU respectively_RR showing_VVG that_CST the_AT model_NN1 is_VBZ explained_VVN accurately_RR by_II the_AT explanatory_JJ variables_NN2 ._. 
+</s>
+<s>
+The_AT adjusted_JJ R_ZZ1 squared_VVN values_NN2 are_VBR also_RR very_RG high_JJ ._. 
+</s>
+<s>
+The_AT probability_NN1 of_IO F-statistic_NN1 in_II both_DB2 the_AT tables_NN2 is_VBZ very_RG low_JJ (_( zero_MC )_) implying_VVG that_CST the_AT null_JJ hypothesis_NN1 of_IO coefficients_NN2 being_VBG zero_NN1 is_VBZ rejected_VVN and_CC the_AT model_NN1 explains_VVZ the_AT variables_NN2 well_RR ._. 
+</s>
+<s>
+To_TO check_VVI whether_CSW the_AT distribution_NN1 is_VBZ normal_JJ ,_, that_REX21 is_REX22 ,_, whether_CSW the_AT error_NN1 term_NN1 has_VHZ same_DA distribution_NN1 over_II all_DB i_ZZ1 we_PPIS2 conduct_VV0 the_AT normality_NN1 test_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR reported_VVN in_II figure_NN1 1_MC1 in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT p-value_NN1 is_VBZ 0.155060_MC which_DDQ implies_VVZ that_CST the_AT null_JJ hypothesis_NN1 of_IO the_AT distribution_NN1 being_VBG normal_JJ is_VBZ not_XX rejected_VVN at_II 1%_NNU level_NN1 of_IO significance_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT errors_NN2 are_VBR independently_RR and_CC identically_RR distributed_VVN iid_NN1 (_( 0_MC ,_, 2_MC )_) ._. 
+</s>
+<s>
+As_CSA mentioned_VVN earlier_RRR in_II the_AT paper_NN1 ,_, the_AT model_NN1 is_VBZ tested_VVN for_IF the_AT restriction_NN1 that_CST the_AT coefficients_NN2 on_II log_NN1 (_( s_ZZ1 ki_NN2 )_) i.e._REX the_AT ratio_NN1 of_IO GFCF_NP1 to_II RDGP_NP1 and_CC on_II log_NN1 (_( n_ZZ1 +_FO g_ZZ1 +_FO )_) i.e._REX the_AT adjusted_JJ growth_NN1 rate_NN1 of_IO labour_NN1 force_NN1 sum_NN1 to_TO zero_VVI ._. 
+</s>
+<s>
+If_CS the_AT null_JJ of_IO this_DD1 restriction_NN1 is_VBZ accepted_VVN then_RT the_AT restricted_JJ model_NN1 can_VM be_VBI used_VVN to_TO infer_VVI the_AT other_JJ more_RGR important_JJ coefficients_NN2 whose_DDQGE values_NN2 we_PPIS2 are_VBR interested_JJ in_II (_( f_ZZ1 ,_, m_ZZ1 ,_, and_CC )_) ._. 
+</s>
+<s>
+To_TO test_VVI this_DD1 restriction_NN1 Wald_NN1 test_NN1 is_VBZ used_VVN ._. 
+</s>
+<s>
+The_AT restrict_VV0 to_TO be_VBI tested_VVN is_VBZ c(2)+c(3)=0_FO ._. 
+</s>
+<s>
+The_AT results_NN2 are_VBR reported_VVN in_II table_NN1 3_MC in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT p-value_NN1 of_IO the_AT F-statistic_NN1 is_VBZ 0.1031_MC ._. 
+</s>
+<s>
+Even_CS21 though_CS22 this_DD1 is_VBZ a_AT1 borderline_NN1 case_NN1 it_PPH1 implies_VVZ that_CST the_AT null_JJ of_IO the_AT restriction_NN1 is_VBZ not_XX rejected_VVN and_CC the_AT restriction_NN1 is_VBZ valid_JJ ._. 
+</s>
+<s>
+Now_RT ,_, to_TO check_VVI whether_CSW the_AT variance_NN1 of_IO the_AT error_NN1 (_( unobservable_JJ )_) term_NN1 is_VBZ constant_JJ over_II all_DB i_ZZ1 or_CC varies_VVZ over_II i_ZZ1 we_PPIS2 conduct_VV0 the_AT heteroscedasticity_NN1 test_NN1 on_II the_AT estimation_NN1 equation_NN1 ._. 
+</s>
+<s>
+Incase_NN1 of_IO presence_NN1 of_IO heteroscedasticity_NN1 using_VVG OLS_NN2 may_VM lead_VVI to_II invalid_JJ inference_NN1 on_II significance_NN1 of_IO coefficients_NN2 and_CC of_IO tests_NN2 of_IO restrictions_NN2 and_CC therefore_RR either_RR GLS_NP1 should_VM be_VBI used_VVN or_CC measures_NN2 need_VV0 to_TO be_VBI taken_VVN to_TO correct_VVI the_AT variance_NN1 of_IO the_AT OLS_NP2 estimator_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT White_JJ heteroscedasticity_NN1 test_NN1 are_VBR reported_VVN in_II table_NN1 4_MC ._. 
+</s>
+<s>
+The_AT p-value_NN1 of_IO the_AT F-statistic_NN1 is_VBZ 0.001408_MC which_DDQ implies_VVZ that_CST the_AT null_JJ hypothesis_NN1 of_IO homoscedasticity_NN1 is_VBZ rejected_VVN ._. 
+</s>
+<s>
+To_TO correct_VVI for_IF the_AT variance_NN1 ,_, White_JJ Heteroscedasticity-Consistent_JJ standard_JJ errors_NN2 and_CC covariance_NN1 is_VBZ used_VVN ._. 
+</s>
+<s>
+Once_RR this_DD1 is_VBZ done_VDN the_AT t-statistics_NN are_VBR become_VVN accurate_JJ and_CC the_AT model_NN1 can_VM be_VBI interpreted_VVN more_RGR accurately_RR ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT test_NN1 are_VBR shown_VVN in_II table_NN1 5_MC (_( a_ZZ1 )_) in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT regression_NN1 of_IO estimated_JJ equation_NN1 using_VVG HSCEs_NP2 are_VBR not_XX too_RG different_JJ from_II the_AT original_JJ results_NN2 ._. 
+</s>
+<s>
+Some_DD of_IO the_AT p-values_NN2 have_VH0 marginally_RR changed_VVN but_CCB the_AT significance_NN1 of_IO coefficients_NN2 and_CC the_AT signs_NN2 on_II them_PPHO2 are_VBR still_RR the_AT same_DA ._. 
+</s>
+<s>
+Female_JJ education_NN1 and_CC life_NN1 expectancy_NN1 are_VBR the_AT only_RR two_MC variables_NN2 that_CST are_VBR significant_JJ as_CSA before_RT ._. 
+</s>
+<s>
+When_CS a_AT1 test_NN1 of_IO the_AT restriction_NN1 is_VBZ conducted_VVN ,_, the_AT p-value_NN1 of_IO the_AT F-statistic_NN1 is_VBZ much_RR higher_JJR (_( 0.1980_MC )_) than_CSN before_II and_CC the_AT null_JJ is_VBZ easily_RR rejected_VVN ._. 
+</s>
+<s>
+See_VV0 table_NN1 5_MC (_( b_ZZ1 )_) in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+Table_NN1 5_MC (_( c_ZZ1 )_) shows_VVZ the_AT results_NN2 of_IO the_AT equation_NN1 after_II using_VVG HSCEs_VVZ and_CC taking_VVG the_AT restriction_NN1 into_II account_NN1 ._. i.e._REX only_RR the_AT male_JJ years_NNT2 of_IO schooling_NN1 ,_, female_JJ years_NNT2 of_IO schooling_NN1 and_CC life_NN1 expectancy_NN1 are_VBR take_VV0 as_RG explanatory_JJ variables_NN2 ._. 
+</s>
+<s>
+Now_RT ,_, the_AT model_NN1 assumes_VVZ a_AT1 linear_JJ relationship_NN1 between_II the_AT dependent_JJ and_CC the_AT independent_JJ variable_NN1 ._. 
+</s>
+<s>
+However_RR ,_, a_AT1 there_RL is_VBZ a_AT1 possibility_NN1 that_CST the_AT model_NN1 suffers_VVZ from_II functional_JJ for_IF misspecification_NN1 when_CS it_PPH1 does_VDZ not_XX properly_RR account_VVI for_IF the_AT relationship_NN1 between_II the_AT dependent_JJ and_CC the_AT observed_JJ explanatory_JJ variables_NN2 ._. 
+</s>
+<s>
+Such_DA models_NN2 may_VM be_VBI linear_JJ is_VBZ parameters_NN2 but_CCB non-linear_JJ in_II variables_NN2 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 OLS_NN2 can_VM be_VBI used_VVN to_TO estimate_VVI such_DA equations_NN2 but_CCB this_DD1 may_VM lead_VVI to_II biased_JJ estimations_NN2 of_IO the_AT coefficients_NN2 ._. 
+</s>
+<s>
+To_TO test_VVI whether_CSW a_AT1 linear_JJ functional_JJ for_IF is_VBZ adequate_JJ or_CC not_XX we_PPIS2 use_VV0 the_AT Ramsey_NP1 RESET_VV0 test_NN1 ._. 
+</s>
+<s>
+RESET_VV0 adds_VVZ polynomials_NN2 in_II the_AT OLS_NP2 fitted_JJ values_NN2 to_II the_AT equation_NN1 to_TO detect_VVI functional_JJ form_NN1 misspecification_NN1 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ to_TO be_VBI noted_VVN that_CST the_AT null_JJ hypothesis_NN1 of_IO the_AT equation_NN1 being_VBG correctly_RR specified_VVN could_VM be_VBI rejected_VVN because_II21 of_II22 an_AT1 omitted_JJ variable_NN1 rather_II21 than_II22 a_AT1 functional_JJ form_NN1 ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT RESET_JJ test_NN1 are_VBR reported_VVN in_II table_NN1 6_MC in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT p-value_NN1 of_IO the_AT F-statistic_NN1 is_VBZ 0.000717_MC which_DDQ implies_VVZ that_CST the_AT null_JJ of_IO a_AT1 properly_RR specified_VVN model_NN1 is_VBZ rejected_VVN ._. 
+</s>
+<s>
+One_MC1 possible_JJ reason_NN1 for_IF this_DD1 could_VM be_VBI the_AT non-inclusion_NN1 of_IO certain_JJ variables_NN2 in_II the_AT equation_NN1 that_CST affect_VV0 real_JJ GDP_NN1 per_II worker_NN1 ._. e.g._REX the_AT level_NN1 of_IO technology_NN1 or_CC the_AT level_NN1 of_IO public_JJ expenditure_NN1 on_II education_NN1 or_CC the_AT quality_NN1 of_IO education_NN1 ,_, etc_RA ._. 
+</s>
+<s>
+It_PPH1 is_VBZ widely_RR believed_VVN that_CST the_AT educational_JJ gender_NN1 gaps_NN2 are_VBR much_RR greater_JJR in_II the_AT developing_JJ countries_NN2 as_CSA compared_VVN to_II the_AT developed_JJ ones_NN2 ._. 
+</s>
+<s>
+Excluding_II the_AT developedcountries_NN2 from_II the_AT sample_NN1 and_CC using_VVG OLS_NN2 to_TO estimate_VVI the_AT equation_NN1 for_IF the_AT developing_JJ ones_NN2 gives_VVZ puzzling_JJ results_NN2 ._. 
+</s>
+<s>
+The_AT coefficients_NN2 on_II male_NN1 and_CC female_JJ education_NN1 are_VBR positive_JJ but_CCB statistically_RR insignificant_JJ although_CS the_AT coefficient_NN1 on_II female_JJ education_NN1 is_VBZ higher_JJR than_CSN that_DD1 for_IF male_JJ education_NN1 ._. 
+</s>
+<s>
+The_AT only_JJ significant_JJ variable_NN1 is_VBZ life_NN1 expectancy_NN1 ._. 
+</s>
+<s>
+Results_NN2 are_VBR reported_VVN in_II table_NN1 7_MC in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT reasons_NN2 to_TO believe_VVI that_CST the_AT coefficients_NN2 may_VM be_VBI biased_VVN is_VBZ that_CST data_NN for_IF growth_NN1 rate_NN1 of_IO workforce_NN1 and_CC average_JJ years_NNT2 of_IO schooling_NN1 was_VBDZ not_XX available_JJ for_IF some_DD countries_NN2 for_IF the_AT whole_JJ period_NN1 and_CC averages_NN2 were_VBDR take_NN1% for_IF the_AT number_NN1 of_IO years_NNT2 data_NN was_VBDZ available_JJ ._. 
+</s>
+<s>
+Also_RR ,_, the_AT results_NN2 of_IO the_AT RESET_JJ test_NN1 show_VV0 that_CST the_AT model_NN1 is_VBZ not_XX clearly_RR specified_VVN and_CC there_EX could_VM be_VBI a_AT1 bias_NN1 due_II21 to_II22 omission_NN1 of_IO certain_JJ important_JJ variables_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ to_TO be_VBI noted_VVN that_CST the_AT p-value_NN1 of_IO F-statistic_NN1 for_IF the_AT Ramsey_NP1 test_NN1 is_VBZ much_RR higher_JJR as_CSA compared_VVN to_II the_AT sample_NN1 consisting_VVG of_IO both_DB2 developed_VVN and_CC developing_JJ countries_NN2 ._. 
+</s>
+<s>
+Also_RR ,_, the_AT test_NN1 for_IF heteroscedasticity_NN1 shows_VVZ that_CST the_AT null_JJ is_VBZ not_XX rejected_VVN as_II the_AT p-value_NN1 of_IO the_AT F-statistic_NN1 is_VBZ 0.265427_MC ._. 
+</s>
+<s>
+The_AT results_NN2 of_IO the_AT Ramsey_NP1 RESET_VV0 test_NN1 and_CC the_AT heteroscedasticity_NN1 test_NN1 are_VBR given_VVN in_II tables_NN2 8_MC and_CC 9_MC respectively_RR in_II the_AT appendix_NN1 ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 paper_NN1 was_VBDZ to_TO see_VVI whether_CSW increasing_VVG female_JJ schooling_NN1 leads_VVZ to_II higher_JJR levels_NN2 of_IO labour_NN1 productivity_NN1 across_II countries_NN2 and_CC whether_CSW educational_JJ gender_NN1 gaps_NN2 are_VBR an_AT1 impediment_NN1 to_II economic_JJ development_NN1 ._. 
+</s>
+<s>
+Although_CS the_AT existing_JJ papers_NN2 using_VVG cross-country_JJ macro_JJ level_JJ data_NN have_VH0 failed_VVN to_TO reach_VVI a_AT1 common_JJ conclusion_NN1 and_CC this_DD1 paper_NN1 is_VBZ not_XX free_JJ from_II bias_NN1 in_II the_AT data_NN ,_, the_AT results_NN2 obtained_VVN support_VV0 the_AT World_NN1 Bank_NN1 's_GE claim_NN1 about_II the_AT importance_NN1 of_IO female_JJ education_NN1 in_II improving_JJ output_NN1 per_II worker_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, a_AT1 reduction_NN1 or_CC elimination_NN1 of_IO the_AT prevailing_JJ educational_JJ gender_NN1 gaps_NN2 would_VM lead_VVI to_II overall_JJ development_NN1 across_II countries_NN2 through_II the_AT convergence_NN1 mechanism_NN1 ._. 
+</s>

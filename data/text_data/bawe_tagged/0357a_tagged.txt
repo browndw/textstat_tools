@@ -1,0 +1,159 @@
+<s>
+Pneumatics_NN1 is_VBZ about_II the_AT study_NN1 of_IO the_AT mechanical_JJ properties_NN2 of_IO air_NN1 and_CC other_JJ gases_NN2 ._. 
+</s>
+<s>
+During_II the_AT laboratory_NN1 ,_, we_PPIS2 need_VV0 to_TO create_VVI and_CC test_VVI pneumatic_JJ circuits_NN2 to_TO meet_VVI the_AT requirements_NN2 of_IO the_AT 6_MC exercises_NN2 ._. 
+</s>
+<s>
+This_DD1 report_NN1 includes_VVZ the_AT pneumatic_JJ diagrams_NN2 obtained_VVN during_II the_AT laboratory_NN1 and_CC how_RGQ pneumatic_JJ link_NN1 with_IW real-life_JJ application_NN1 in_II an_AT1 automated_JJ device_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, advantages_NN2 and_CC disadvantages_NN2 of_IO using_VVG pneumatics_NN2 instead_II21 of_II22 electrical_JJ actuators_NN2 as_II31 well_II32 as_II33 the_AT importance_NN1 of_IO the_AT air_NN1 quality_NN1 supplied_VVN to_II the_AT system_NN1 will_VM be_VBI discussed_VVN ._. 
+</s>
+<s>
+Make_VV0 sure_JJ the_AT compressed_JJ air_NN1 supply_NN1 is_VBZ connected_VVN to_II the_AT Filter_NN1 Regulator_NN1 on_II the_AT trainer_NN1 board_NN1 ._. 
+</s>
+<s>
+Adjust_VV0 the_AT pressure_NN1 gauge_NN1 to_II about_II 1_MC1 to_II 2_MC bar_NN1 or_CC 0.1_MC to_II 0.2Mpa_FO ._. 
+</s>
+<s>
+Connect_VV0 the_AT Filter_NN1 Regulator_NN1 output_NN1 to_TO switch_VVI OV1_FO with_IW a_AT1 short_JJ length_NN1 of_IO pipe_NN1 (_( 4mm_NNU in_II diameter_NN1 )_) ._. 
+</s>
+<s>
+To_TO carry_VVI out_RP the_AT exercise_NN1 ,_, connect_VV0 the_AT pneumatic_JJ elements_NN2 in_II the_AT assembly_NN1 panel_NN1 by_II using_VVG the_AT pipe_NN1 without_IW switching_VVG on_RP the_AT switch_NN1 ._. 
+</s>
+<s>
+Switch_VV0 on_RP the_AT air_NN1 supply_NN1 to_TO check_VVI whether_CSW it_PPH1 functions_VVZ as_II the_AT results_NN2 described_VVN ._. 
+</s>
+<s>
+If_CS the_AT circuit_NN1 is_VBZ not_XX well_RR connected_VVN ,_, we_PPIS2 could_VM hear_VVI /_FO feel_VV0 the_AT air_NN1 coming_VVG out_RP from_II the_AT connecting_JJ point_NN1 ._. 
+</s>
+<s>
+Using_VVG a_AT1 3/2_MF way_NN1 valve_NN1 ,_, control_VV0 a_AT1 single_JJ acting_JJ cylinder_NN1 (_( A_ZZ1 )_) so_CS21 that_CS22 when_CS a_AT1 button_NN1 (_( M_ZZ1 )_) is_VBZ pushed_VVN the_AT cylinder_NN1 extends_VVZ and_CC when_CS the_AT button_NN1 is_VBZ released_VVN the_AT cylinder_NN1 retracts_VVZ to_II its_APPGE starting_NN1 position_NN1 ._. 
+</s>
+<s>
+Phase_NN1 diagram_NN1 is_VBZ as_CSA follows_VVZ :_: This_DD1 is_VBZ the_AT design_NN1 of_IO pneumatic_JJ circuit_NN1 that_CST fulfil_VV0 the_AT specification_NN1 :_: We_PPIS2 observe_VV0 that_CST the_AT rate_NN1 of_IO retracts_VVZ is_VBZ faster_JJR than_CSN that_DD1 of_IO extends_VVZ ._. 
+</s>
+<s>
+The_AT phase_NN1 diagram_NN1 is_VBZ the_AT same_DA as_CSA the_AT given_JJ one_PN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ to_TO create_VVI a_AT1 system_NN1 that_CST represents_VVZ using_VVG a_AT1 double_JJ acting_JJ cylinder_NN1 to_TO open_VVI and_CC close_VVI a_AT1 sliding_JJ door_NN1 ._. 
+</s>
+<s>
+The_AT cylinder_NN1 should_VM open_VVI (_( and_CC as_CSA such_DA close_VVI the_AT door_NN1 )_) when_RRQ button_NN1 1_MC1 (_( M1_FO )_) is_VBZ pressed_VVN and_CC close_JJ (_( open_VV0 the_AT door_NN1 )_) when_RRQ button_NN1 2_MC (_( M2_FO )_) is_VBZ pressed_VVN ._. 
+</s>
+<s>
+If_CS pressed_VVN together_RL nothing_PN1 should_VM happen_VVI ._. 
+</s>
+<s>
+Assemble_VV0 and_CC Phase_NN1 diagram_NN1 are_VBR as_CSA follows_VVZ :_: This_DD1 is_VBZ the_AT design_NN1 of_IO pneumatic_JJ circuit_NN1 that_CST fulfil_VV0 the_AT specification_NN1 :_: When_RRQ M1_FO is_VBZ pressed_VVN ,_, the_AT air_NN1 flow_NN1 to_II the_AT cylinder_NN1 at_II one_MC1 side_NN1 (_( X_ZZ1 )_) while_CS the_AT other_JJ side(Y)_NN1 is_VBZ allowed_VVN to_TO exhaust_VVI ,_, therefore_RR the_AT cylinder_NN1 extends_VVZ ._. 
+</s>
+<s>
+When_CS M2_FO is_VBZ pressed_VVN ,_, the_AT air_NN1 flow_NN1 in_RP at_II side_NN1 Y_ZZ1 while_CS exhaust_NN1 at_II side_NN1 X_ZZ1 ,_, so_CS it_PPH1 retracts_VVZ ._. 
+</s>
+<s>
+When_CS both_DB2 button_NN1 are_VBR pressed_VVN ,_, air_NN1 flow_NN1 in_RP at_II both_DB2 side_NN1 resulted_VVD that_CST nothing_PN1 happen_VV0 ._. 
+</s>
+<s>
+The_AT phase_NN1 diagram_NN1 matches_VVZ the_AT given_JJ one_PN1 ._. 
+</s>
+<s>
+locations_NN2 ._. 
+</s>
+<s>
+A_AT1 double_JJ acting_JJ cylinder_NN1 (_( A_ZZ1 )_) will_VM extend_VVI when_RRQ either_DD1 of_IO 2_MC push-buttons_NN2 (_( M1_FO and_CC M2_FO )_) are_VBR pressed_VVN or_CC both_RR pressed_VVN at_II the_AT same_DA time_NNT1 ._. 
+</s>
+<s>
+When_CS both_DB2 buttons_NN2 are_VBR released_VVN the_AT cylinder_NN1 will_VM retract_VVI ._. 
+</s>
+<s>
+Phase_NN1 diagram_NN1 is_VBZ as_CSA follows_VVZ :_: This_DD1 is_VBZ the_AT design_NN1 of_IO pneumatic_JJ circuit_NN1 that_CST fulfil_VV0 the_AT specification_NN1 :_: (_( What_DDQ are_VBR the_AT Boolean_NN1 logic_NN1 equations_NN2 for_IF A+_FO and_CC A-_ZZ1 ?_? )_) ._. 
+</s>
+<s>
+Consider_VV0 a_AT1 machine_NN1 that_CST uses_VVZ a_AT1 pneumatic_JJ double_JJ acting_JJ cylinder_NN1 to_TO press_VVI part_NN1 into_II a_AT1 die_NN1% ,_, e.g._REX sheet_NN1 metal_NN1 into_II car_NN1 body_NN1 panels_NN2 ._. 
+</s>
+<s>
+To_TO ensure_VVI the_AT machine_NN1 operator_NN1 is_VBZ away_II21 from_II22 the_AT danger_NN1 area_NN1 (_( where_CS they_PPHS2 could_VM get_VVI crushed_JJ )_) he_PPHS1 must_VM press_VVI two_MC switches_NN2 (_( M1_FO and_CC M2_FO )_) together_RL for_IF the_AT cylinder_NN1 to_TO extend_VVI ._. 
+</s>
+<s>
+A_AT1 third_MD button_NN1 (_( M3_FO )_) is_VBZ used_VVN to_TO retract_VVI the_AT cylinder_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT design_NN1 of_IO pneumatic_JJ circuit_NN1 that_CST fulfil_VV0 the_AT specification_NN1 :_: (_( what_DDQ are_VBR the_AT Boolean_NN1 logic_NN1 equations_NN2 for_IF A+_FO and_CC A-_ZZ1 ?_? )_) ._. 
+</s>
+<s>
+A_AT1 push_NN1 button_NN1 (_( M1_FO )_) is_VBZ used_VVN to_TO control_VVI the_AT feeding_NN1 of_IO parts_NN2 into_II the_AT stamper_NN1 by_II a_AT1 cylinder_NN1 (_( A_ZZ1 )_) ._. 
+</s>
+<s>
+Once_RR cylinder_NN1 A_ZZ1 is_VBZ extended_VVN fully_RR ,_, a_AT1 switch_NN1 is_VBZ triggered_VVN which_DDQ signals_VVZ for_IF a_AT1 second_MD cylinder_NN1 B_ZZ1 to_TO extend_VVI causing_VVG the_AT stamping_JJ action_NN1 ._. 
+</s>
+<s>
+A_AT1 second_NNT1 push_VV0 button_NN1 (_( M2_FO )_) causes_VVZ retraction_NN1 of_IO the_AT cylinders_NN2 ._. 
+</s>
+<s>
+A_AT1 third_MD button(M3)_FO will_VM switch_VVI the_AT eject_VV0 mechanise_NN1 or_CC third_MD cylinder_NN1 (_( C_ZZ1 )_) to_TO extend_VVI when_RRQ on_II and_CC retract_VVI when_CS switched_VVN off_RP ._. 
+</s>
+<s>
+A_AT1 phase_NN1 diagram_NN1 of_IO the_AT proposed_JJ operation_NN1 is_VBZ given_VVN below_RL ._. 
+</s>
+<s>
+However_RR ,_, limitations_NN2 on_II time_NNT1 and_CC equipment_NN1 may_VM mean_VVI that_CST some_DD alterations_NN2 and_CC variations_NN2 may_VM have_VHI to_TO be_VBI implemented_VVN ._. 
+</s>
+<s>
+Therefore_RR the_AT extent_NN1 of_IO operation_NN1 must_VM be_VBI recorded_VVN and_CC reported_VVN in_II the_AT lab_NN1 write_VV0 up_RP ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT design_NN1 of_IO pneumatic_JJ circuit_NN1 that_CST fulfil_VV0 the_AT specification_NN1 :_: When_RRQ M1_FO is_VBZ pressed_VVN ,_, cylinder_NN1 A_ZZ1 is_VBZ extending_VVG ._. 
+</s>
+<s>
+After_CS cylinder_NN1 A_ZZ1 fully_RR extended_VVN ,_, cylinder_NN1 B_ZZ1 starts_VVZ to_II extended_JJ ._. 
+</s>
+<s>
+When_CS M2_FO is_VBZ pressed_VVN ,_, it_PPH1 causes_VVZ retraction_NN1 of_IO cylinder_NN1 A_ZZ1 and_CC B._NP1 When_RRQ M3_FO is_VBZ pressed_VVN ,_, cylinder_NN1 C_ZZ1 ejects_VVZ ._. 
+</s>
+<s>
+Then_RT it_PPH1 retracts_VVZ when_RRQ M3_FO is_VBZ released_VVN ._. 
+</s>
+<s>
+We_PPIS2 did_VDD n't_XX get_VVI the_AT same_DA phase_NN1 diagram_NN1 as_CSA given_VVN one_PN1 ._. 
+</s>
+<s>
+There_EX was_VBDZ a_AT1 time_NNT1 delay_NN1 for_IF the_AT retraction_NN1 of_IO cylinder_NN1 B._NP1 The_AT phase_NN1 diagram_NN1 that_CST we_PPIS2 got_VVD is_VBZ as_CSA follows_VVZ :_: Pneumatics_NP1 drives_NN2 are_VBR easy_JJ to_TO configure_VVI in_RP potentially_RR explosive_JJ area_NN1 ._. 
+</s>
+<s>
+For_IF its_APPGE entire_JJ service_NN1 life_NN1 ,_, it_PPH1 is_VBZ maintenance-_JJ free_JJ and_CC it_PPH1 is_VBZ suitable_JJ for_IF continuous_JJ closed-loop_JJ operation_NN1 ._. 
+</s>
+<s>
+Moreover_RR ,_, it_PPH1 does_VDZ not_XX need_VVI any_DD control_NN1 or_CC monitoring_VVG functions_NN2 ._. 
+</s>
+<s>
+Compare_VV0 with_IW electrical_JJ drives_NN2 ,_, it_PPH1 cost_VVD less_RRR and_CC it_PPH1 can_VM produce_VVI a_AT1 higher_JJR attainable_JJ speeds_NN2 ._. 
+</s>
+<s>
+&lsqb;_( Pneumatic_JJ components_NN2 are_VBR highly_RR resistant_JJ to_II vibration_NN1 ,_, sturdy_JJ and_CC durable_JJ -_- virtually_RR indestructible_JJ ._. 
+</s>
+<s>
+Even_RR extreme_JJ heat_NN1 can_VM not_XX impair_VVI corrosion-protected_JJ components_NN2 ._. &rsqb;_) ._. 
+</s>
+<s>
+Pneumatic_JJ systems_NN2 depend_VV0 so_RG much_DA1 on_II the_AT properties_NN2 of_IO the_AT pressurised_JJ media_NN ._. 
+</s>
+<s>
+Require_VV0 a_AT1 continuous_JJ and_CC ample_JJ supply_NN1 of_IO clean_JJ and_CC compressed_JJ air_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM not_XX generate_VVI constant_JJ torque_NN1 and_CC it_PPH1 needs_VVZ energy_NN1 supply_NN1 continuously_RR ._. 
+</s>
+<s>
+&lsqb;_( &rsqb;_) ._. Moreover_RR ,_, the_AT ability_NN1 to_TO control_VVI the_AT system_NN1 parameters_NN2 (_( flow-rate_NN1 and_CC pressure_NN1 )_) to_TO produce_VVI the_AT required_JJ results_NN2 (_( speed_NN1 and_CC torque_NN1 )_) is_VBZ often_RR inexact_JJ and_CC tedious_JJ ._. 
+</s>
+<s>
+For_IF pneumatic_JJ systems_NN2 ,_, a_AT1 continuous_JJ and_CC ample_JJ supply_NN1 of_IO clean_JJ ,_, compressed_JJ air_NN1 is_VBZ required_VVN ._. 
+</s>
+<s>
+Electric_JJ :_: torque_NN1 is_VBZ capable_JJ of_IO being_VBG kept_VVN constant_JJ ,_, a_AT1 unique_JJ torque_NN1 and_CC speed_NN1 combination_NN1 that_CST is_VBZ not_XX available_JJ with_IW pneumatic_JJ systems_NN2 ._. 
+</s>
+<s>
+Attainable_JJ speeds_NN2 are_VBR not_XX as_RG high_JJ as_CSA speeds_NN2 produced_VVN by_II pneumatic_JJ systems_NN2 ._. 
+</s>

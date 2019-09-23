@@ -1,0 +1,501 @@
+<s>
+Mathematics_NN1 has_VHZ long_RR been_VBN labelled_VVN the_AT 'language_NN1 of_IO science'_NN1 and_CC it_PPH1 's_VBZ continued_JJ involvement_NN1 in_II developing_JJ sciences_NN2 helps_VVZ to_TO keep_VVI mathematics_NN1 fresh_JJ and_CC original_JJ ._. 
+</s>
+<s>
+Mathematical_JJ biology_NN1 has_VHZ become_VVN a_AT1 very_RG exciting_JJ and_CC fast_RR growing_JJ field_NN1 ,_, which_DDQ will_VM continue_VVI to_TO develop_VVI for_IF the_AT foreseeable_JJ future_NN1 ._. 
+</s>
+<s>
+A_AT1 very_RG large_JJ area_NN1 of_IO mathematical_JJ biology_NN1 is_VBZ concerned_JJ with_IW population_NN1 growth_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 topic_NN1 in_II this_DD1 area_NN1 which_DDQ we_PPIS2 will_VM seek_VVI to_TO study_VVI in_II this_DD1 paper_NN1 ,_, the_AT topic_NN1 being_VBG Predator-Prey_NP1 population_NN1 interaction_NN1 ._. 
+</s>
+<s>
+This_DD1 concerns_VVZ how_RRQ two_MC species_NN in_II an_AT1 environment_NN1 may_VM interact_VVI and_CC coexist_VVI when_RRQ one_PN1 predates_VVZ off_II the_AT other_JJ ._. 
+</s>
+<s>
+In_II this_DD1 paper_NN1 we_PPIS2 aim_VV0 to_TO study_VVI the_AT interaction_NN1 of_IO two_MC species_NN of_IO this_DD1 type_NN1 ,_, to_TO look_VVI at_II the_AT growth_NN1 of_IO the_AT two_MC populations_NN2 with_II31 respect_II32 to_II33 one_PPX121 another_PPX122 ,_, and_CC to_TO see_VVI if_CSW an_AT1 equilibrium_NN1 where_CS the_AT two_MC coexist_VV0 can_VM exist_VVI ._. 
+</s>
+<s>
+There_EX are_VBR many_DA2 established_JJ models_NN2 which_DDQ can_VM be_VBI used_VVN to_TO describe_VVI predator_NN1 prey_NN1 interaction_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 study_NN1 we_PPIS2 will_VM use_VVI the_AT Rosenzweig-MacArthur_NP1 system_NN1 (_( 1963_MC )_) ._. 
+</s>
+<s>
+The_AT main_JJ reason_NN1 for_IF this_DD1 choice_NN1 of_IO model_NN1 is_VBZ the_AT hope_NN1 of_IO solutions_NN2 which_DDQ may_VM include_VVI local_JJ bifurcations_NN2 ._. 
+</s>
+<s>
+Another_DD1 model_NN1 could_VM be_VBI the_AT Lotka-Voltera_NP1 System_NN1 ,_, as_CSA described_VVN by_II Braun_NP1 (_( 1978_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 not_XX use_VVI this_DD1 system_NN1 because_CS it_PPH1 is_VBZ considered_VVN to_TO be_VBI structurally_RR unstable_JJ ._. 
+</s>
+<s>
+The_AT Freedman-Wolkowicz_NP1 system_NN1 (_( 1986_MC )_) and_CC the_AT Conway-Swollor_NP1 system_NN1 (_( 1986_MC )_) also_RR describe_VV0 predator_NN1 prey_NN1 interaction_NN1 ._. 
+</s>
+<s>
+However_RR ,_, both_DB2 these_DD2 systems_NN2 exhibit_VV0 global_JJ bifurcations_NN2 ._. 
+</s>
+<s>
+To_TO use_VVI either_RR we_PPIS2 would_VM have_VHI to_TO study_VVI trajectories_NN2 over_II a_AT1 wide_JJ expanse_NN1 of_IO phase_NN1 space_NN1 ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 not_XX wish_VVI to_TO do_VDI this_DD1 in_II this_DD1 paper_NN1 ._. 
+</s>
+<s>
+The_AT mathematics_NN1 we_PPIS2 will_VM use_VVI to_TO analyse_VVI the_AT model_NN1 will_VM be_VBI relatively_RR simple_JJ ._. 
+</s>
+<s>
+The_AT main_JJ techniques_NN2 will_VM involve_VVI determining_JJ and_CC classifying_VVG stationary_JJ solutions_NN2 of_IO differential_JJ equations_NN2 ,_, and_CC plotting_VVG phase_NN1 trajectories_NN2 in_II the_AT plane_NN1 ._. 
+</s>
+<s>
+Stationary_JJ solutions_NN2 will_VM be_VBI found_VVN by_II determining_JJ nullclines_NN2 and_CC their_APPGE intersections_NN2 ._. 
+</s>
+<s>
+The_AT main_JJ method_NN1 of_IO characterising_VVG stationary_JJ solutions_NN2 will_VM be_VBI by_II finding_VVG the_AT matrix_NN1 of_IO partial_JJ derivatives_NN2 and_CC calculating_VVG its_APPGE eigenvalues_NN2 ._. 
+</s>
+<s>
+Imagine_VV0 a_AT1 stretch_NN1 of_IO desert_NN1 occupied_VVN by_II two_MC species_NN ,_, coyotes_NN2 and_CC roadrunners_NN2 ._. 
+</s>
+<s>
+The_AT coyotes_NN2 are_VBR carnivorous_JJ predators_NN2 ,_, feeding_VVG off_II the_AT roadrunner_NN1 population_NN1 ._. 
+</s>
+<s>
+The_AT roadrunners_NN2 are_VBR herbivores_NN2 ,_, which_DDQ feed_VV0 off_RP the_AT plants_NN2 and_CC greenery_NN1 of_IO the_AT environment_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ an_AT1 example_NN1 of_IO predator_NN1 prey_NN1 interaction_NN1 ,_, one_MC1 of_IO the_AT most_RGT common_JJ population_NN1 interaction_NN1 models_NN2 in_II mathematical_JJ biology_NN1 ._. 
+</s>
+<s>
+Using_VVG this_DD1 model_NN1 ,_, we_PPIS2 can_VM study_VVI the_AT growth_NN1 and_CC survival_NN1 of_IO the_AT two_MC populations_NN2 ,_, with_II31 respect_II32 to_II33 one_PPX121 another_PPX122 ._. 
+</s>
+<s>
+To_TO study_VVI only_RR the_AT growth_NN1 behaviour_NN1 of_IO our_APPGE two_MC species_NN ,_, we_PPIS2 must_VM make_VVI some_DD modelling_NN1 assumptions_NN2 ._. 
+</s>
+<s>
+Firstly_RR ,_, we_PPIS2 look_VV0 only_RR at_II the_AT two_MC species_NN we_PPIS2 wish_VV0 to_TO study_VVI ,_, we_PPIS2 assume_VV0 no_AT species_NN other_II21 than_II22 coyotes_NN2 prey_VV0 on_II the_AT roadrunners_NN2 and_CC the_AT coyotes_NN2 have_VH0 no_AT other_JJ source_NN1 of_IO food_NN1 ._. 
+</s>
+<s>
+We_PPIS2 assume_VV0 that_CST the_AT roadrunners_NN2 compete_VV0 only_RR with_IW their_APPGE own_DA kind_NN1 for_IF food_NN1 ,_, that_CST there_EX are_VBR no_AT other_JJ species_NN feeding_VVG off_II the_AT same_DA sources_NN2 as_CSA them_PPHO2 ._. 
+</s>
+<s>
+Another_DD1 assumption_NN1 we_PPIS2 make_VV0 is_VBZ that_CST both_DB2 populations_NN2 are_VBR disease_NN1 free_JJ ._. 
+</s>
+<s>
+We_PPIS2 also_RR neglect_VV0 to_TO take_VVI seasonal_JJ and_CC environmental_JJ changes_NN2 into_II account_NN1 ._. 
+</s>
+<s>
+Although_CS these_DD2 modelling_VVG assumptions_NN2 seem_VV0 to_TO limit_VVI the_AT accuracy_NN1 of_IO our_APPGE model_NN1 ,_, they_PPHS2 can_VM be_VBI added_VVN in_II once_RR the_AT simpler_JJR model_NN1 is_VBZ established_VVN ._. 
+</s>
+<s>
+(_( We_PPIS2 will_VM not_XX seek_VVI to_TO do_VDI this_DD1 in_II this_DD1 study_NN1 ._. )_) ._. 
+</s>
+<s>
+Now_RT we_PPIS2 have_VH0 decided_VVN which_DDQ factors_VVZ% to_TO leave_VVI out_RP ,_, we_PPIS2 can_VM set_VVI up_RP the_AT model_NN1 ._. 
+</s>
+<s>
+As_CSA previously_RR stated_VVN ,_, we_PPIS2 will_VM use_VVI the_AT Rosenzweig-MacArthur_NP1 System_NN1 (_( 1963_MC )_) ._. 
+</s>
+<s>
+The_AT growth_NN1 rates_NN2 of_IO the_AT two_MC species_NN ,_, (_( let_VV0 us_PPIO2 refer_VVI to_II them_PPHO2 as_CSA predator_NN1 and_CC prey_NN1 )_) ,_, can_VM be_VBI modelled_VVN by_II the_AT following_JJ two_MC equations_NN2 ._. 
+</s>
+<s>
+Equation_NN1 (_( 1_MC1 )_) describes_VVZ the_AT growth_NN1 of_IO the_AT prey_NN1 population_NN1 ,_, denoted_VVD N_ZZ1 ,_, with_II31 respect_II32 to_II33 time_NNT1 ._. 
+</s>
+<s>
+The_AT first_MD part_NN1 of_IO the_AT equation_NN1 ,_, r_ZZ1 1_MC1 (_( 1_MC1 -_- N/K_ZZ1 )_) N_ZZ1 ,_, describes_VVZ the_AT positive_JJ growth_NN1 of_IO the_AT prey_NN1 population_NN1 ._. 
+</s>
+<s>
+The_AT constant_JJ r_ZZ1 1_MC1 is_VBZ the_AT birth-rate_JJ per_JJ21 capita_JJ22 of_IO the_AT prey_NN1 population_NN1 ._. 
+</s>
+<s>
+K_ZZ1 ,_, also_RR constant_JJ ,_, represents_VVZ the_AT 'limited_JJ carrying_NN1 capacity_NN1 of_IO the_AT environment'_NN1 ;_; this_DD1 is_VBZ the_AT maximum_JJ number_NN1 of_IO prey_NN1 that_CST the_AT environment_NN1 has_VHZ sufficient_JJ living_JJ space_NN1 and_CC food_NN1 to_TO support_VVI ._. 
+</s>
+<s>
+The_AT prey_NN1 's_GE mortality_NN1 rate_NN1 is_VBZ represented_VVN by_II the_AT second_MD part_NN1 of_IO the_AT equation_NN1 ,_, ._. 
+</s>
+<s>
+It_PPH1 is_VBZ obvious_JJ here_RL ,_, that_CST the_AT mortality_NN1 rate_NN1 of_IO the_AT prey_NN1 depends_VVZ not_XX only_RR on_II the_AT existing_JJ number_NN1 of_IO prey_NN1 ,_, but_CCB also_RR on_II the_AT number_NN1 of_IO predators_NN2 ,_, (_( and_CC on_II some_DD constant_JJ ,_, a_ZZ1 )_) ._. 
+</s>
+<s>
+Equation_NN1 (_( 2_MC )_) describes_VVZ the_AT population_NN1 growth_NN1 rate_NN1 of_IO the_AT predators_NN2 ,_, denoted_VVD P._NP1 The_AT constant_JJ r_ZZ1 2_MC is_VBZ the_AT mortality_NN1 rate_NN1 of_IO the_AT predator_NN1 population_NN1 per_RR21 capita_RR22 ._. 
+</s>
+<s>
+The_AT second_MD term_NN1 ,_, ,_, describes_VVZ the_AT birth-rate_NN1 of_IO the_AT predator_NN1 population_NN1 ._. 
+</s>
+<s>
+This_DD1 term_NN1 depends_VVZ on_II the_AT existing_JJ number_NN1 of_IO predators_NN2 ,_, on_II the_AT amount_NN1 of_IO food_NN1 available_JJ ,_, i.e._REX the_AT size_NN1 of_IO the_AT prey_NN1 population_NN1 and_CC also_RR on_II some_DD constant_JJ ,_, b_ZZ1 ._. 
+</s>
+<s>
+Before_II studying_VVG the_AT limiting_JJ behaviour_NN1 of_IO equations_NN2 (_( 1_MC1 )_) and_CC (_( 2_MC )_) ,_, let_VV0 us_PPIO2 take_VVI a_AT1 look_NN1 at_II how_RRQ the_AT two_MC populations_NN2 would_VM grow_VVI in_II the_AT absence_NN1 of_IO one_PPX121 another_PPX122 ._. 
+</s>
+<s>
+In_II the_AT absence_NN1 of_IO predation_NN1 equation_NN1 (_( 1_MC1 )_) ,_, which_DDQ models_VVZ% the_AT growth_NN1 of_IO the_AT prey_NN1 population_NN1 ,_, becomes_VVZ ;_; ._. 
+</s>
+<s>
+This_DD1 differential_JJ equation_NN1 exhibits_VVZ logistical_JJ growth_NN1 ,_, with_IW stationary_JJ points_NN2 at_II N_ZZ1 =_FO 0_MC and_CC N_ZZ1 =_FO K._NP1 The_AT phase_NN1 plane_NN1 looks_VVZ like_II this_DD1 :_: As_CSA we_PPIS2 can_VM see_VVI from_II the_AT phase_NN1 plane_NN1 above_RL ,_, dN/dt_NN1 is_VBZ positive_JJ below_II the_AT line_NN1 ,_, dN/dt_NN1 =_FO 0_MC and_CC negative_JJ above_II it_PPH1 ._. 
+</s>
+<s>
+This_DD1 gives_VVZ us_PPIO2 an_AT1 unstable_JJ solution_NN1 at_II N_ZZ1 =_FO 0_MC and_CC a_AT1 stable_JJ solution_NN1 at_II N_ZZ1 =_FO K._NP1 All_DB trajectories_NN2 in_II the_AT plane_NN1 will_VM tend_VVI ,_, in_II the_AT limit_NN1 ,_, to_II the_AT point_NN1 N_ZZ1 =_FO K._NP1 Ecologically_NP1 ,_, in_II the_AT absence_NN1 of_IO predation_NN1 ,_, unless_CS the_AT prey_NN1 population_NN1 starts_VVZ at_II zero_MC ,_, it_PPH1 will_VM grow_VVI until_CS it_PPH1 reaches_VVZ the_AT limited_JJ carrying_NN1 capacity_NN1 of_IO the_AT environment_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 reasonable_JJ conclusion_NN1 ,_, without_IW predators_NN2 to_TO eat_VVI the_AT prey_NN1 ,_, the_AT population_NN1 will_VM continue_VVI to_TO increase_VVI until_CS the_AT environment_NN1 can_VM no_RR21 longer_RR22 sustain_VVI it_PPH1 ._. 
+</s>
+<s>
+NB_FO :_: If_CS the_AT prey_NN1 population_NN1 is_VBZ at_II zero_MC it_PPH1 will_VM remain_VVI at_II zero_MC infinitely_RR ._. 
+</s>
+<s>
+In_II the_AT absence_NN1 of_IO prey_NN1 equation_NN1 (_( 2_MC )_) ,_, which_DDQ describes_VVZ the_AT growth_NN1 of_IO the_AT predator_NN1 population_NN1 ,_, becomes_VVZ ;_; ._. 
+</s>
+<s>
+This_DD1 differential_JJ equation_NN1 is_VBZ an_AT1 example_NN1 of_IO exponential_NN1 decay_NN1 ,_, with_IW solution_NN1 ;_; ,_, where_CS C_ZZ1 is_VBZ simply_RR a_AT1 constant_NN1 of_IO integration_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM also_RR be_VBI presented_VVN as_II ;_; ,_, where_CS A_ZZ1 is_VBZ now_RT the_AT constant_NN1 of_IO integration_NN1 ._. 
+</s>
+<s>
+A_AT1 diagram_NN1 of_IO the_AT function_NN1 is_VBZ shown_VVN below_RL ._. 
+</s>
+<s>
+From_II the_AT diagram_NN1 above_II it_PPH1 is_VBZ obvious_JJ that_CST in_II the_AT system_NN1 P_ZZ1 tends_VVZ to_TO zero_VVI ._. 
+</s>
+<s>
+Ecologically_RR this_DD1 is_VBZ accurate_JJ ._. 
+</s>
+<s>
+In_II the_AT absence_NN1 of_IO prey_NN1 ,_, the_AT predator_NN1 population_NN1 has_VHZ nothing_PN1 to_TO feed_VVI off_RP and_CC will_VM die_VVI out_RP ._. 
+</s>
+<s>
+Let_VV0 us_PPIO2 now_RT study_VVI the_AT stability_NN1 of_IO the_AT whole_JJ system_NN1 we_PPIS2 have_VH0 modelled_VVN ._. 
+</s>
+<s>
+The_AT first_MD step_NN1 here_RL will_VM be_VBI to_TO nondimensionalize_VVI the_AT two_MC equations_NN2 ._. 
+</s>
+<s>
+To_TO do_VDI this_DD1 ,_, we_PPIS2 first_MD divide_NN1 equation_NN1 (_( 1_MC1 )_) by_II r_ZZ1 1K_FO and_CC multiply_VV0 equation_NN1 (_( 2_MC )_) by_II a/_FU (_( r_ZZ1 1_MC1 2K_FO )_) ,_, to_TO get_VVI ;_; ._. 
+</s>
+<s>
+Let_VV0 us_PPIO2 now_RT group_VVI together_RL some_DD of_IO the_AT terms_NN2 to_TO give_VVI us_PPIO2 two_MC much_RR simpler_JJR equations_NN2 ._. 
+</s>
+<s>
+Let_VV0 ;_; ._. 
+</s>
+<s>
+We_PPIS2 are_VBR now_RT left_VVN with_IW following_VVG dimensionless_JJ equations_NN2 :_: (_( 4_MC )_) ._. 
+</s>
+<s>
+Although_CS the_AT parameters_NN2 of_IO the_AT equations_NN2 are_VBR dimensionless_JJ ,_, this_DD1 does_VDZ not_XX render_VVI them_PPHO2 meaningless_JJ ._. 
+</s>
+<s>
+The_AT dimensionless_JJ groupings_NN2 give_VV0 relative_JJ measures_NN2 of_IO the_AT effect_NN1 of_IO dimensional_JJ parameters_NN2 ._. 
+</s>
+<s>
+The_AT parameter_NN1 u_ZZ1 ,_, as_CSA defined_VVN above_RL ,_, is_VBZ the_AT ratio_NN1 of_IO the_AT size_NN1 of_IO the_AT prey_NN1 population_NN1 to_II the_AT limited_JJ carrying_NN1 capacity_NN1 of_IO the_AT environment_NN1 ._. 
+</s>
+<s>
+In_II size_NN1 ,_, u_ZZ1 is_VBZ always_RR less_DAR than_CSN or_CC equal_JJ to_II one_PN1 ._. 
+</s>
+<s>
+Disreguarding_VVG all_DB other_JJ factors_NN2 ,_, u_ZZ1 will_VM increase_VVI so_RG long_RR as_CSA u_ZZ1 is_VBZ strictly_RR less_DAR than_CSN one_MC1 ,_, i.e._REX N_ZZ1 is_VBZ strictly_RR less_DAR than_CSN K._NP1 We_PPIS2 have_VH0 already_RR seen_VVN this_DD1 to_TO be_VBI accurate_JJ c.f._VV0 2.1.1_MC ._. 
+</s>
+<s>
+Another_DD1 interesting_JJ dimensionless_JJ parameter_NN1 is_VBZ ._. 
+</s>
+<s>
+is_VBZ the_AT birth-rate_NN1 of_IO the_AT prey_NN1 population_NN1 multiplied_VVN by_II time_NNT1 ._. 
+</s>
+<s>
+It_PPH1 tells_VVZ us_PPIO2 the_AT number_NN1 of_IO prey_NN1 to_TO be_VBI born_VVN up_II21 to_II22 time_NNT1 t._NNU is_VBZ the_AT ratio_NN1 of_IO the_AT birth-rate_NN1 of_IO predators_NN2 to_II that_DD1 of_IO prey_NN1 ._. 
+</s>
+<s>
+less_DAR than_CSN one_MC1 and_CC greater_JJR than_CSN one_PN1 have_VH0 definite_JJ ecological_JJ meanings_NN2 ;_; with_IW the_AT later_JJR meaning_NN1 that_CST predators_NN2 are_VBR reproducing_VVG at_II a_AT1 faster_JJR rate_NN1 than_CSN the_AT prey_NN1 ._. 
+</s>
+<s>
+In_II non-dimensionalising_NN1 the_AT system_NN1 ,_, we_PPIS2 have_VH0 reduced_VVN the_AT number_NN1 of_IO parameters_NN2 ,_, while_CS grouping_VVG them_PPHO2 in_II an_AT1 ecologically_RR meaningful_JJ way_NN1 ._. 
+</s>
+<s>
+Now_RT ,_, we_PPIS2 must_VM find_VVI the_AT stationary_JJ solutions_NN2 of_IO the_AT system_NN1 ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 this_DD1 by_II finding_VVG where_RRQ the_AT nullclines_NN2 ,_, zero_MC solutions_NN2 to_II the_AT two_MC equations_NN2 intersect_VV0 ._. 
+</s>
+<s>
+There_EX will_VM be_VBI four_MC nullclines_NN2 in_II total_NN1 ,_, two_MC from_II each_DD1 equation_NN1 ._. 
+</s>
+<s>
+Let_VV0 du/d_FU =_FO 0_MC and_CC we_PPIS2 get_VV0 nullclines_NN2 ;_; ._. 
+</s>
+<s>
+Then_RT letting_VVG dv/d_FU =_FO 0_MC we_PPIS2 get_VV0 ;_; v_ZZ1 =_FO 0_MC (_( iii_MC )_) and_CC ._. 
+</s>
+<s>
+Looking_VVG at_II the_AT intersections_NN2 of_IO these_DD2 nullclines_NN2 we_PPIS2 see_VV0 that_CST there_EX are_VBR three_MC stationary_JJ points_NN2 :_: NB_FO :_: With_IW this_DD1 third_MD fixed_JJ point_NN1 ,_, a_AT1 bifurcation_NN1 occurs_VVZ when_RRQ c=_FO -_- ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 the_AT third_MD fixed_JJ point_NN1 reduces_VVZ to_II (_( 1,0_MC )_) ,_, the_AT same_DA as_CSA the_AT second_MD fixed_JJ point_NN1 ._. 
+</s>
+<s>
+This_DD1 type_NN1 of_IO bifurcation_NN1 is_VBZ known_VVN as_II Hopf_NP1 Bifurcation_NN1 ._. 
+</s>
+<s>
+The_AT stability_NN1 and_CC behaviour_NN1 of_IO the_AT three_MC stationary_JJ points_NN2 depends_VVZ on_II the_AT value_NN1 of_IO ;_; ._. 
+</s>
+<s>
+There_EX are_VBR three_MC cases_NN2 to_TO be_VBI studied_VVN here_RL ,_, and_CC we_PPIS2 will_VM endeavour_VVI to_TO take_VVI each_DD1 one_PN1 separately_RR ._. 
+</s>
+<s>
+In_II this_DD1 first_MD case_NN1 only_RR two_MC fixed_JJ points_NN2 exist_VV0 ,_, a_AT1 at_II (_( 0,0_MC )_) and_CC b_ZZ1 at_II (_( 1,0_MC )_) ._. 
+</s>
+<s>
+To_TO classify_VVI these_DD2 two_MC stationary_JJ points_NN2 we_PPIS2 must_VM look_VVI at_II the_AT matrix_NN1 of_IO partial_JJ derivatives_NN2 ,_, with_II31 respect_II32 to_II33 u_ZZ1 and_CC v_ZZ1 ,_, or_CC the_AT Jacobian_JJ ,_, of_IO equations_NN2 (_( 3_MC )_) and_CC (_( 4_MC )_) ._. 
+</s>
+<s>
+This_DD1 matrix_NN1 is_VBZ shown_VVN below_RL ,_, labelled_JJ M._NN1 In_BCL21 order_BCL22 to_TO determine_VVI the_AT stability_NN1 of_IO each_DD1 stationary_JJ point_NN1 ,_, we_PPIS2 calculate_VV0 the_AT eigenvalues_NN2 of_IO M_NN1 with_IW the_AT coordinates_NN2 of_IO that_DD1 point_NN1 substituted_VVD in_RP ._. 
+</s>
+<s>
+At_II point_NN1 a_AT1 ,_, M_ZZ1 looks_VVZ like_II this_DD1 ;_; ._. 
+</s>
+<s>
+The_AT eigenvalues_NN2 of_IO M(a)_NP1 are_VBR ;_; 1=1_FO and_CC 2=_FO -_- ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 two_MC real_JJ eigenvalues_NN2 ,_, one_MC1 positive_JJ and_CC the_AT other_JJ negative_JJ ._. 
+</s>
+<s>
+(_( is_VBZ positive_JJ by_II definition_NN1 ._. )_) 
+</s>
+<s>
+This_DD1 indicates_VVZ a_AT1 saddle_NN1 point_NN1 ._. 
+</s>
+<s>
+At_II the_AT point_NN1 b_ZZ1 M_ZZ1 takes_VVZ these_DD2 values_NN2 ;_; ._. 
+</s>
+<s>
+The_AT eigenvalues_NN2 of_IO M(b)_NNU are_VBR ;_; 1=_FO -1_MC and_CC 2=_FO -_- +_FO c/_FO (_( -_- )_) ._. 
+</s>
+<s>
+Again_RT these_DD2 are_VBR two_MC real_JJ eigenvalues_NN2 ,_, but_CCB now_RT they_PPHS2 are_VBR both_RR negative_JJ ._. 
+</s>
+<s>
+(_( With_IW c_ZZ1 -_- it_PPH1 is_VBZ easily_RR deduced_VVN that_CST 2_MC is_VBZ negative_JJ ._. )_) 
+</s>
+<s>
+This_DD1 indicates_VVZ that_CST b._NNU is_VBZ a_AT1 stable_JJ stationary_JJ point_NN1 ._. 
+</s>
+<s>
+The_AT phase_NN1 plane_NN1 of_IO the_AT system_NN1 is_VBZ shown_VVN below_RL ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II the_AT phase_NN1 plane_NN1 above_RL ,_, nearly_RR all_DB trajectories_NN2 in_II the_AT plane_NN1 tend_VV0 to_II the_AT stable_JJ solution_NN1 b_ZZ1 ,_, (_( 1,0_MC )_) ._. 
+</s>
+<s>
+Only_JJ trajectories_NN2 starting_VVG on_II the_AT line_NN1 u=0_FO will_VM end_VVI up_RP at_II point_NN1 a_AT1 ,_, (_( 0,0_MC )_) ._. 
+</s>
+<s>
+We_PPIS2 can_VM interpret_VVI the_AT two_MC stationary_JJ points_NN2 of_IO the_AT system_NN1 ecologically_RR ._. 
+</s>
+<s>
+The_AT saddle_NN1 point_NN1 at_II a_AT1 tells_VVZ us_PPIO2 that_CST only_RR when_CS u=0_FO will_VM the_AT two_MC parameters_NN2 u_ZZ1 and_CC v_ZZ1 end_VV0 up_RP at_II zero_MC ._. 
+</s>
+<s>
+u=o_FO implies_VVZ that_CST N=0_FO ,_, by_II definition_NN1 and_CC v=0_FO implies_VVZ that_CST P=0_FO ._. 
+</s>
+<s>
+So_RR ,_, only_RR when_CS the_AT prey_NN1 population_NN1 starts_VVZ at_II zero_NN1 will_VM both_DB2 populations_NN2 die_VVI out_RP ._. 
+</s>
+<s>
+This_DD1 we_PPIS2 already_RR know_VV0 from_II section_NN1 2.1.2_MC ._. 
+</s>
+<s>
+The_AT stable_JJ point_NN1 at_II b_ZZ1 tells_VVZ us_PPIO2 that_CST whenever_RRQV the_AT system_NN1 starts_VVZ with_IW the_AT presence_NN1 of_IO a_AT1 prey_NN1 population_NN1 we_PPIS2 end_VV0 up_RP with_IW u=1_FO and_CC v=0._FO u=1_FO implies_VVZ that_CST N=K_FO ,_, which_DDQ is_VBZ where_RRQ the_AT prey_NN1 population_NN1 has_VHZ grown_VVN to_II the_AT limited_JJ carrying_NN1 capacity_NN1 of_IO the_AT environment_NN1 ._. 
+</s>
+<s>
+With_IW c_ZZ1 -_- ,_, we_PPIS2 have_VH0 that_CST the_AT predator_NN1 population_NN1 dies_VVZ out_RP and_CC the_AT number_NN1 of_IO prey_NN1 becomes_VVZ sufficient_JJ to_TO saturate_VVI the_AT environment_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 start_VV0 with_IW a_AT1 zero_NN1 prey_NN1 population_NN1 ,_, both_DB2 populations_NN2 become_VV0 extinct_JJ in_II our_APPGE environment_NN1 ._. 
+</s>
+<s>
+With_IW these_DD2 conditions_NN2 ,_, the_AT system_NN1 has_VHZ three_MC fixed_JJ points_NN2 ._. 
+</s>
+<s>
+The_AT first_MD fixed_JJ point_NN1 ,_, a_AT1 ,_, is_VBZ the_AT same_DA saddle_NN1 point_NN1 as_CSA it_PPH1 was_VBDZ in_II section_NN1 2.2.1_MC ._. 
+</s>
+<s>
+We_PPIS2 therefore_RR do_VD0 not_XX need_VVI to_TO study_VVI this_DD1 again_RT ._. 
+</s>
+<s>
+b_ZZ1 is_VBZ still_RR a_AT1 stationary_JJ solution_NN1 ,_, but_CCB it_PPH1 is_VBZ no_RR21 longer_RR22 stable_JJ ._. 
+</s>
+<s>
+The_AT matrix_NN1 of_IO partial_JJ derivatives_NN2 M(b)_NNU ,_, calculated_VVN at_II b_ZZ1 is_VBZ as_CSA in_II section_NN1 2.2.1_MC and_CC the_AT eigenvalues_NN2 are_VBR the_AT same_DA ._. 
+</s>
+<s>
+With_IW the_AT conditions_NN2 of_IO this_DD1 case_NN1 ,_, the_AT value_NN1 of_IO the_AT second_MD eigenvalue_NN1 ,_, 2_MC ,_, is_VBZ positive_JJ ._. 
+</s>
+<s>
+The_AT matrix_NN1 ,_, M(b)_NNU ,_, has_VHZ one_MC1 positive_JJ real_JJ eigenvalue_NN1 and_CC one_MC1 negative_JJ real_JJ eigenvalues_NN2 ,_, which_DDQ imply_VV0 that_CST b_ZZ1 is_VBZ a_AT1 saddle_NN1 point_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 the_AT third_MD stationary_JJ point_NN1 ,_, c_ZZ1 ,_, comes_VVZ into_II the_AT system_NN1 ._. 
+</s>
+<s>
+M(c)_NN1 is_VBZ shown_VVN below_RL ;_; ._. 
+</s>
+<s>
+The_AT two_MC eigenvalues_NN2 of_IO this_DD1 matrix_NN1 take_VV0 the_AT form_NN1 ;_; ._. 
+</s>
+<s>
+These_DD2 two_MC eigenvalues_NN2 are_VBR either_RR real_JJ and_CC negative_JJ ,_, or_CC complex_JJ with_IW non-zero_JJ real_JJ parts_NN2 ._. 
+</s>
+<s>
+If_CS the_AT eigenvalues_NN2 are_VBR real_JJ and_CC negative_JJ ,_, c_ZZ1 is_VBZ a_AT1 stable_JJ fixed_JJ point_NN1 ._. 
+</s>
+<s>
+If_CS they_PPHS2 are_VBR complex_JJ with_IW non-zero_JJ real_JJ parts_NN2 then_RT there_EX is_VBZ a_AT1 stable_JJ spiral_NN1 at_II point_NN1 c_ZZ1 ._. 
+</s>
+<s>
+All_DB trajectories_NN2 ,_, starting_VVG away_II21 from_II22 u=0_FO ,_, will_VM travel_VVI to_TO point_VVI c_ZZ1 ._. 
+</s>
+<s>
+As_CSA can_VM be_VBI seen_VVN from_II the_AT diagram_NN1 above_RL ,_, nearly_RR all_DB the_AT trajectories_NN2 in_II the_AT plane_NN1 tend_VV0 to_TO point_VVI c_ZZ1 and_CC stay_VVI there_RL ._. 
+</s>
+<s>
+The_AT only_JJ trajectories_NN2 entering_VVG point_NN1 a_AT1 are_VBR the_AT eigenvectors_NN2 of_IO the_AT stable_JJ eigenvalue_NN1 ,_, -_- ,_, these_DD2 take_VV0 the_AT form_NN1 u=0_FO ,_, which_DDQ is_VBZ a_AT1 result_NN1 we_PPIS2 have_VH0 seen_VVN previously_RR ._. 
+</s>
+<s>
+Trajectories_NN2 can_VM only_RR approach_VVI point_NN1 b_ZZ1 if_CS they_PPHS2 are_VBR vectors_NN2 corresponding_VVG to_II the_AT stable_JJ eigenvalue_NN1 ,_, -1_MC ._. 
+</s>
+<s>
+These_DD2 are_VBR of_IO the_AT form_NN1 v=0_FO and_CC they_PPHS2 will_VM reach_VVI b_ZZ1 ;_; (_( 1,0_MC )_) ._. 
+</s>
+<s>
+Ecologically_RR ,_, with_IW the_AT conditions_NN2 of_IO this_DD1 case_NN1 ,_, we_PPIS2 see_VV0 a_AT1 system_NN1 where_CS both_DB2 populations_NN2 can_VM survive_VVI ._. 
+</s>
+<s>
+There_EX exists_VVZ an_AT1 equilibrium_NN1 size_NN1 of_IO both_DB2 populations_NN2 where_RRQ predator_NN1 and_CC prey_NN1 can_VM coexist_VVI and_CC this_DD1 is_VBZ at_II point_NN1 c_ZZ1 ._. 
+</s>
+<s>
+The_AT values_NN2 of_IO N_ZZ1 and_CC P_ZZ1 are_VBR lengthy_JJ expressions_NN2 of_IO the_AT original_JJ variables_NN2 that_CST we_PPIS2 will_VM not_XX seek_VVI to_TO enter_VVI here_RL ._. 
+</s>
+<s>
+Point_VV0 a_AT1 defines_VVZ what_DDQ happens_VVZ when_RRQ the_AT environment_NN1 does_VDZ not_XX have_VHI a_AT1 prey_NN1 population_NN1 ,_, c.f._VV0 2.1.2_MC and_CC 2.2.1_MC ._. 
+</s>
+<s>
+In_II the_AT absence_NN1 of_IO predation_NN1 the_AT prey_NN1 population_NN1 grows_VVZ until_CS it_PPH1 reaches_VVZ K._NP1 This_DD1 we_PPIS2 have_VH0 already_RR investigated_VVN in_II section_NN1 2.1.1_MC ._. 
+</s>
+<s>
+This_DD1 situation_NN1 is_VBZ shown_VVN in_II point_NN1 b_ZZ1 ._. 
+</s>
+<s>
+With_IW this_DD1 condition_NN1 there_EX are_VBR still_RR three_MC fixed_JJ points_NN2 ._. 
+</s>
+<s>
+The_AT first_MD two_MC stationary_JJ points_NN2 ,_, a_AT1 and_CC b_ZZ1 ,_, behave_VV0 in_II the_AT exact_JJ same_DA way_NN1 as_CSA was_VBDZ shown_VVN in_II section_NN1 2.2.2_MC ,_, with_IW the_AT same_DA matrices_NN2 and_CC eigenvalues_NN2 ._. 
+</s>
+<s>
+The_AT Jacobian_JJ matrix_NN1 evaluated_VVN at_II c_ZZ1 is_VBZ the_AT same_DA as_CSA previously_RR ,_, c.f._VV0 2.2.2_MC ._. 
+</s>
+<s>
+The_AT eigenvalues_NN2 take_VV0 the_AT same_DA form_NN1 as_CSA before_RT ;_; it_PPH1 is_VBZ their_APPGE value_NN1 which_DDQ may_VM change_VVI ._. 
+</s>
+<s>
+Firstly_RR ,_, the_AT eigenvalues_NN2 may_VM take_VVI real_JJ values_NN2 ,_, in_II which_DDQ case_NN1 c_ZZ1 is_VBZ an_AT1 unstable_JJ fixed_JJ point_NN1 ._. 
+</s>
+<s>
+Where_CS the_AT eigenvalues_NN2 are_VBR complex_JJ with_IW non-zero_JJ real_JJ parts_NN2 there_EX exists_VVZ an_AT1 unstable_JJ spiral_NN1 ._. 
+</s>
+<s>
+If_CS the_AT eigenvalues_NN2 are_VBR complex_JJ with_IW zero_MC real_JJ parts_NN2 then_RT the_AT system_NN1 exhibits_VVZ a_AT1 centre_NN1 ._. 
+</s>
+<s>
+Overall_RR ,_, the_AT system_NN1 will_VM have_VHI a_AT1 type_NN1 of_IO periodic_JJ solution_NN1 known_VVN as_II a_AT1 limit_NN1 cycle_NN1 ._. 
+</s>
+<s>
+Trajectories_NN2 tend_VV0 ,_, in_II the_AT limit_NN1 ,_, to_II a_AT1 period_NN1 orbit_NN1 around_II the_AT point_NN1 c_ZZ1 ._. 
+</s>
+<s>
+This_DD1 orbit_NN1 is_VBZ relatively_RR stable_JJ and_CC ,_, once_RR there_RL ,_, trajectories_NN2 remain_VV0 in_II this_DD1 orbit_NN1 ._. 
+</s>
+<s>
+To_TO study_VVI this_DD1 behaviour_NN1 further_RRR ,_, we_PPIS2 construct_VV0 a_AT1 more_RGR detailed_JJ image_NN1 of_IO the_AT limit_NN1 cycle_NN1 :_: Looking_VVG at_II the_AT diagram_NN1 above_RL ,_, we_PPIS2 can_VM see_VVI how_RRQ the_AT system_NN1 behaves_VVZ in_II the_AT limit_NN1 cycle_NN1 around_II c_ZZ1 ._. 
+</s>
+<s>
+Trajectories_NN2 can_VM only_RR leave_VVI c_ZZ1 from_II the_AT two_MC shaded_JJ regions_NN2 ._. 
+</s>
+<s>
+The_AT system_NN1 ,_, in_II the_AT limit_NN1 ,_, orbits_NN2 c_ZZ1 in_II an_AT1 anti-clockwise_JJ direction_NN1 ._. 
+</s>
+<s>
+The_AT values_NN2 of_IO u_ZZ1 and_CC v_ZZ1 and_CC ,_, therefore_RR ,_, N_ZZ1 and_CC P_ZZ1 are_VBR bounded_VVN in_II the_AT cycle_NN1 and_CC have_VH0 definite_JJ maxima_NN2 and_CC minima_NN2 ,_, as_CSA labelled_VVN ._. 
+</s>
+<s>
+Starting_VVG at_II 1_MC1 ,_, we_PPIS2 will_VM travel_VVI around_II the_AT limit_NN1 cycle_NN1 detailing_VVG the_AT ecological_JJ interpretation_NN1 of_IO the_AT system_NN1 :_: At_II 1_MC1 ,_, the_AT predator_NN1 population_NN1 ,_, P_ZZ1 ,_, is_VBZ at_II a_AT1 minimum_NN1 ._. 
+</s>
+<s>
+With_IW relatively_RR small_JJ predation_NN1 ,_, the_AT prey_NN1 population_NN1 ,_, N_ZZ1 ,_, grows_VVZ at_II an_AT1 increasing_JJ rate_NN1 ._. 
+</s>
+<s>
+As_CSA this_DD1 occurs_VVZ ,_, the_AT amount_NN1 of_IO food_NN1 available_JJ to_II the_AT predators_NN2 increases_NN2 and_CC the_AT population_NN1 begins_VVZ to_TO expand_VVI ._. 
+</s>
+<s>
+Both_DB2 populations_NN2 increase_VV0 to_II 2_MC ._. 
+</s>
+<s>
+Here_RL the_AT increased_JJ predation_NN1 is_VBZ enough_DD to_TO account_VVI for_IF the_AT birth-rate_NN1 of_IO the_AT prey_NN1 population_NN1 ,_, which_DDQ has_VHZ ,_, therefore_RR ,_, reached_VVN its_APPGE maximum_NN1 ._. 
+</s>
+<s>
+Beyond_II 2_MC ,_, the_AT prey_NN1 population_NN1 begins_VVZ to_TO decrease_VVI as_II the_AT predation_NN1 rate_NN1 has_VHZ grown_VVN greater_JJR than_CSN the_AT prey_NN1 's_GE birth-rate_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR still_RR more_DAR than_CSN enough_DD prey_NN1 for_IF the_AT predators_NN2 to_TO feed_VVI off_RP and_CC so_RR this_DD1 population_NN1 continues_VVZ to_TO increase_VVI ._. 
+</s>
+<s>
+With_IW the_AT number_NN1 of_IO prey_NN1 decreasing_VVG and_CC that_DD1 of_IO predators_NN2 increasing_VVG the_AT system_NN1 reaches_VVZ 3_MC ._. 
+</s>
+<s>
+Now_RT the_AT numbers_NN2 of_IO prey_NN1 have_VH0 dropped_VVN and_CC the_AT predator_NN1 population_NN1 has_VHZ grown_VVN sufficiently_RR for_IF the_AT predator_NN1 population_NN1 to_TO have_VHI reached_VVN its_APPGE maximum_JJ value_NN1 ._. 
+</s>
+<s>
+After_II 3_MC ,_, the_AT predators_NN2 begin_VV0 to_TO run_VVI out_II21 of_II22 food_NN1 and_CC their_APPGE numbers_NN2 begin_VV0 to_TO decrease_VVI ,_, although_CS they_PPHS2 are_VBR still_RR large_JJ enough_RR to_TO keep_VVI the_AT prey_NN1 population_NN1 decreasing_VVG ._. 
+</s>
+<s>
+Now_RT both_DB2 populations_NN2 decrease_VV0 until_II 4_MC ._. 
+</s>
+<s>
+Here_RL ,_, with_IW the_AT predator_NN1 population_NN1 in_II decrease_NN1 ,_, the_AT predation_NN1 rate_NN1 is_VBZ equal_JJ to_II the_AT birth-rate_NN1 of_IO prey_NN1 and_CC the_AT prey_NN1 population_NN1 has_VHZ reached_VVN its_APPGE smallest_JJT value_NN1 ._. 
+</s>
+<s>
+Beyond_II this_DD1 ,_, the_AT prey_NN1 birth-rate_NN1 is_VBZ greater_JJR than_CSN the_AT predation_NN1 rate_NN1 and_CC prey_NN1 population_NN1 begins_VVZ to_TO grow_VVI again_RT ._. 
+</s>
+<s>
+The_AT predator_NN1 population_NN1 will_VM continue_VVI to_TO fall_VVI until_CS there_EX is_VBZ sufficiently_RR enough_DD prey_NN1 for_IF them_PPHO2 to_TO feed_VVI off_RP ._. 
+</s>
+<s>
+This_DD1 will_VM not_XX be_VBI until_CS the_AT system_NN1 is_VBZ back_RP at_II 1_MC1 ._. 
+</s>
+<s>
+In_II this_DD1 paper_NN1 we_PPIS2 have_VH0 studied_VVN the_AT interacting_JJ growth_NN1 of_IO a_AT1 Predator-Prey_NP1 model_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT Rosenzweig-MacArthur_NP1 system_NN1 (_( 1963_MC )_) we_PPIS2 have_VH0 investigated_VVN how_RRQ the_AT two_MC populations_NN2 can_VM coexist_VVI ._. 
+</s>
+<s>
+We_PPIS2 looked_VVD at_II the_AT general_JJ conditions_NN2 for_IF coexistence_NN1 and_CC saw_VVD that_CST this_DD1 occurs_VVZ where_RRQ c_ZZ1 -_- ,_, we_PPIS2 saw_VVD a_AT1 stable_JJ solution_NN1 with_IW only_RR the_AT prey_NN1 population_NN1 surviving_VVG ._. 
+</s>
+<s>
+It_PPH1 would_VM be_VBI interesting_JJ to_TO go_VVI through_II the_AT same_DA problem_NN1 using_VVG a_AT1 different_JJ model_NN1 ,_, the_AT Freedman-Wolkowicz_NP1 system_NN1 (_( 1986_MC )_) for_REX21 example_REX22 ._. 
+</s>
+<s>
+We_PPIS2 did_VDD not_XX seek_VVI to_TO do_VDI this_DD1 in_II this_DD1 paper_NN1 as_CSA phase_NN1 plane_NN1 analysis_NN1 would_VM be_VBI over_II a_AT1 much_RR larger_JJR expanse_NN1 ._. 
+</s>
+<s>
+It_PPH1 would_VM also_RR be_VBI of_IO interest_NN1 to_TO reinsert_VVI into_II the_AT model_NN1 the_AT variables_NN2 we_PPIS2 took_VVD out_RP in_II our_APPGE modelling_NN1 assumptions_NN2 ._. 
+</s>
+<s>
+A_AT1 far_RG more_RGR accurate_JJ model_NN1 would_VM be_VBI constructed_VVN this_DD1 way_NN1 ._. 
+</s>
+<s>
+The_AT Rosenzweig-MacArthur_NP1 system_NN1 ,_, however_RR ,_, gave_VVD realistic_JJ and_CC interesting_JJ solutions_NN2 ,_, and_CC its_APPGE choice_NN1 is_VBZ justified_VVN ._. 
+</s>

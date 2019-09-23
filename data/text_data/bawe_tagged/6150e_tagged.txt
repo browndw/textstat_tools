@@ -1,0 +1,147 @@
+<s>
+As_CSA shown_VVN on_II the_AT attached_JJ datasheet_NN1 of_IO example_NN1 5_MC ,_, the_AT mean_JJ range_NN1 of_IO first_MD set_NN1 of_IO 20_MC samples_NN2 is_VBZ 16.1_MC ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT equation_NN1 :_: ,_, while_CS n=4_FO ,_, so_RR referring_VVG to_II the_AT table_NN1 on_II P15_FO of_IO the_AT handbook_NN1 "_" Statistical_JJ Aspects_NN2 of_IO Q.A_NP1 "_" ,_, d4=2.059_FO ;_; so_RR the_AT estimated_JJ standard_JJ deviation_NN1 (_( est_JJ )_) =16.1/2.059=7.82_NNU ._. 
+</s>
+<s>
+As_CSA calculated_VVN above_RL ,_, the_AT est_JJ is_VBZ 7.82_MC ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT equation_NN1 :_: Based_VVN on_II a_AT1 Shewehart_NN1 control_NN1 chart_NN1 for_IF means_NN ,_, the_AT action_NN1 limits=_FO and_CC the_AT warning_NN1 limits=_FO ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT attached_JJ datasheet_NN1 ,_, of_IO the_AT first_MD set_NN1 of_IO 20_MC samples=297.2875_FO ,_, and_CC 3SE=11.73_FO ;_; 2SE=7.82_FO ._. 
+</s>
+<s>
+So_RR ,_, upper_JJ action_NN1 limit=297.2875+11.73=309.02_FO ;_; while_CS lower_JJR action_NN1 limit=297.2875-11.73=285.56_FO ._. 
+</s>
+<s>
+Upper_JJ warning_NN1 limit=297.2875+7.82=305.11_FO ;_; while_CS lower_JJR warning_NN1 limit=297.2875-7.82=289.47_FO ._. 
+</s>
+<s>
+Based_VVN on_II the_AT mean_JJ value_NN1 of_IO the_AT first_MD set_NN1 of_IO 20_MC samples_NN2 ,_, action_NN1 limits_NN2 and_CC warning_NN1 limits_NN2 ,_, a_AT1 Shewhart_NN1 control_NN1 chart_NN1 for_IF means_NN is_VBZ plotted_VVN as_CSA below_RL ,_, including_II all_DB 40_MC samples_NN2 ._. 
+</s>
+<s>
+As_CSA mentioned_VVN in_II the_AT first_MD question_NN1 ,_, the_AT mean_JJ range_NN1 of_IO first_MD set_NN1 of_IO 20_MC samples_NN2 is_VBZ 16.1_MC ,_, referring_VVG to_II the_AT formula_NN1 on_II P_ZZ1 15_MC of_IO the_AT handbook_NN1 "_" Statistical_JJ Aspects_NN2 of_IO Q.A_NP1 ._. "_" ,_, 
+</s>
+<s>
+which_DDQ is_VBZ Upper_JJ action_NN1 limit=_FO ;_; while_CS Lower_JJR action_NN1 limit=_FO ._. 
+</s>
+<s>
+As_CSA n=4_FO ,_, so_CS D_ZZ1 4=2.282_FO ,_, D_ZZ1 3=0.000_FO ._. 
+</s>
+<s>
+Consequently_RR ,_, ._. 
+</s>
+<s>
+Referring_VVG to_II the_AT rangevalues_NN2 of_IO 40_MC samples_NN2 on_II the_AT attached_JJ datasheet_NN1 and_CC the_AT action_NN1 limits_NN2 calculated_VVN above_RL ,_, a_AT1 Shewhart_NN1 control_NN1 chart_NN1 is_VBZ plotted_VVN as_CSA below_RL :_: All_DB the_AT standard_JJ deviation_NN1 values_NN2 for_IF each_DD1 individual_JJ sample_NN1 have_VH0 been_VBN worked_VVN out_RP on_II the_AT attached_JJ spreadsheet_NN1 ._. 
+</s>
+<s>
+Referring_VVG to_II that_DD1 ,_, the_AT standard_JJ deviation_NN1 average_NN1 value_NN1 of_IO the_AT first_MD set_NN1 of_IO 20_MC samples_NN2 is_VBZ found_VVN to_TO be_VBI 7.26_MC ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT equation_NN1 on_II P_ZZ1 15_MC of_IO the_AT handbook_NN1 "_" Statistical_JJ Aspects_NN2 of_IO Q.A_NP1 ._. "_" ,_, 
+</s>
+<s>
+which_DDQ is_VBZ ;_; while_NNT1 ._. 
+</s>
+<s>
+When_CS n=4_FO ,_, B_ZZ1 4=2.266_FO ;_; B_ZZ1 3=0.00_FO ._. 
+</s>
+<s>
+Consequently_RR ,_, UAL=2.266_FO 7.26=16.45_FO ;_; LAL=0.00_FO ._. 
+</s>
+<s>
+Referring_VVG to_II the_AT individual_JJ standard_JJ deviation_NN1 values_NN2 of_IO all_DB 40_MC samples_NN2 shown_VVN on_II the_AT datasheet_NN1 and_CC the_AT action_NN1 limits_NN2 calculated_VVN above_RL ,_, a_AT1 Shewhart_NN1 control_NN1 chart_NN1 is_VBZ plotted_VVN as_CSA below_RL :_: In_BCL21 order_BCL22 to_TO find_VVI out_RP and_CC describe_VVI what_DDQ might_VM happen_VVI in_II the_AT factory_NN1 ,_, a_AT1 couple_NN1 of_IO tests_NN2 set_VVN up_RP by_II ISO8258_FO will_VM be_VBI applied_VVN to_II the_AT Means_NN chart_VV0 above_RL ._. 
+</s>
+<s>
+Therefore_RR ,_, this_DD1 means-chart_NN1 is_VBZ divided_VVN into_II 6_MC zones_NN2 ,_, which_DDQ are_VBR zone_NN1 A_ZZ1 (_( between_II UAL_NP1 and_CC UWL_NP1 )_) ,_, zone_NN1 B_ZZ1 (_( between_II UWL_NP1 and_CC line_NN1 1_MC1 )_) ,_, zone_NN1 C_ZZ1 (_( between_II line_NN1 1_MC1 and_CC the_AT mean_JJ )_) ;_; zone_NN1 C_ZZ1 (_( between_II the_AT mean_JJ and_CC line2_FO )_) ,_, zone_NN1 B_ZZ1 (_( between_II line_NN1 2_MC and_CC LWL_NP1 )_) ,_, zone_NN1 A_ZZ1 (_( between_II LWL_NP1 and_CC LAL_NP1 )_) ._. 
+</s>
+<s>
+Based_VVN on_II the_AT assumption_NN1 that_CST the_AT point_NN1 21_MC is_VBZ the_AT start_NN1 of_IO the_AT day_NNT1 ,_, two_MC of_IO the_AT most_RGT common_JJ tests_NN2 (_( Test1_FO and_CC Test_VV0 5_MC )_) can_VM be_VBI taken_VVN on_RP the_AT process_NN1 starting_VVG from_II point_NN1 21_MC ._. 
+</s>
+<s>
+Referring_VVG to_II the_AT ISO8258_FO ,_, Test_VV0 1_MC1 is_VBZ :_: One_MC1 point_NN1 beyond_II the_AT zone_NN1 A_ZZ1 (_( i.e._REX beyond_II the_AT action_NN1 line_NN1 )_) ._. 
+</s>
+<s>
+Test_VV0 5_MC is_VBZ :_: Two_MC out_II21 of_II22 three_MC points_NN2 in_II a_AT1 row_NN1 in_II Zone_NN1 A_ZZ1 or_CC beyond_RL (_( i.e._REX beyond_II a_AT1 warning_NN1 line_NN1 )_) ._. 
+</s>
+<s>
+As_CSA shown_VVN on_II this_DD1 means_VVZ control_NN1 chart_NN1 ,_, starting_VVG from_II point_NN1 21_MC ,_, point_NN1 22_MC ,_, 23_MC 24_MC are_VBR in_II a_AT1 row_NN1 with_IW both_DB2 point_VV0 22_MC and_CC 24_MC are_VBR in_II Zone_NN1 A_ZZ1 (_( i.e._REX beyond_II a_AT1 warning_NN1 line_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 matches_VVZ test-5_MC standard_JJ ._. 
+</s>
+<s>
+Additionally_RR ,_, point_NN1 26_MC jumps_VVZ beyond_II the_AT Zone_NN1 A_ZZ1 (_( i.e._REX beyond_II the_AT action_NN1 line_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 again_RT matches_VVZ test-1_MC1 standard_NN1 ._. 
+</s>
+<s>
+Based_VVN on_II the_AT two_MC test_NN1 results_NN2 ,_, which_DDQ are_VBR very_RG rare_JJ to_TO happen_VVI in_II the_AT normal_JJ process_NN1 ,_, thereby_RR ,_, it_PPH1 could_VM be_VBI assumed_VVN that_CST something_PN1 has_VHZ significantly_RR changed_VVN in_II the_AT production_NN1 process_NN1 including_II the_AT packing_NN1 line_NN1 in_II the_AT factory_NN1 ._. 
+</s>
+<s>
+Probably_RR the_AT machinery_NN1 of_IO the_AT food_NN1 packaging_NN1 line_NN1 has_VHZ been_VBN adjusted_VVN in_II the_AT way_NN1 that_CST more_DAR products_NN2 were_VBDR put_VVN into_II the_AT package_NN1 ,_, consequently_RR the_AT weight_NN1 of_IO packed_JJ products_NN2 increased_VVN at_II a_AT1 great_JJ extent_NN1 ._. 
+</s>
+<s>
+As_CSA seen_VVN on_II the_AT Shewhart_NP1 control_NN1 means_NN chart_VV0 above_RL and_CC discussed_VVN in_II Q(d)_NP1 ,_, the_AT point_NN1 24_MC is_VBZ actually_RR the_AT first_MD point_NN1 to_TO meet_VVI the_AT standardized_JJ test_NN1 (_( i.e._REX test_NN1 5_MC )_) ._. 
+</s>
+<s>
+Consequently_RR ,_, it_PPH1 can_VM be_VBI estimated_VVN that_DD1 point_NN1 24_MC is_VBZ the_AT start_NN1 point_NN1 to_TO signal_VVI the_AT change_NN1 of_IO the_AT process_NN1 ._. 
+</s>
+<s>
+Referring_VVG to_II the_AT datasheet_NN1 attached_VVN ,_, the_AT new_JJ mean_NN1 of_IO the_AT changed_JJ process_NN1 is_VBZ calculated_VVN starting_VVG from_II the_AT sample_NN1 24_MC to_TO sample_VVI 40_MC ._. 
+</s>
+<s>
+So_RR ,_, the_AT new_JJ mean_NN1 is_VBZ estimated_VVN to_TO be_VBI 313.9559_MC ._. 
+</s>
+<s>
+As_CSA found_VVN on_II the_AT datasheet_NN1 ,_, the_AT mean_JJ range_NN1 of_IO the_AT samples_NN2 from_II 24_MC to_II 40_MC is_VBZ calculated_VVN to_TO be_VBI around_RG 10.12_MC ,_, so_RR referring_VVG to_II the_AT equation_NN1 when_CS n_ZZ1 is_VBZ 4_MC ._. 
+</s>
+<s>
+Then_RT ,_, ._. 
+</s>
+<s>
+So_RR the_AT new_JJ standard_JJ deviation_NN1 of_IO the_AT changed_JJ process_NN1 is_VBZ estimated_VVN to_TO be_VBI 4.92_MC ._. 
+</s>
+<s>
+As_II the_AT mean_JJ value_NN1 of_IO the_AT first_MD 20_MC samples_NN2 is_VBZ 297.2875_MC ,_, the_AT set_NN1 of_IO data_NN for_IF the_AT Process_NN1 mean_NN1 of_IO 300g_NNU ,_, LSL_NP1 of_IO 265_MC and_CC USL_NP1 of_IO 335_MC is_VBZ chosen_VVN for_IF calculation_NN1 of_IO C_ZZ1 pk_NNU ._. 
+</s>
+<s>
+Referring_VVG to_II the_AT equation_NN1 that_CST is_VBZ Cpk=_FO The_AT lesser_JJ of_IO (_( USL-X_NP1 )_) /3_MF Or_CC (_( X-LSL_NP1 )_) /_FO 3_MC and_CC as_CSA calculated_VVN in_II question_NN1 (_( a_ZZ1 )_) ,_, the_AT process_NN1 standard_NN1 deviation_NN1 based_VVN on_II the_AT first_MD 20_MC samples_NN2 is_VBZ estimated_VVN to_TO be_VBI 7.82_MC ,_, so_RG 3_MC =23.46_FO ._. 
+</s>
+<s>
+As_CSA X=297.2875_FO ,_, then_RT C_ZZ1 pk_NNU (_( towards_II the_AT USL_NP1 )_) =_FO (_( 335-297.2875_MCMC )_) /23.46=1.61_FU ;_; while_CS C_ZZ1 pk_NNU (_( towards_II the_AT LSL_NP1 )_) =_FO (_( 297.2875-265_MCMC )_) /23.46=1.38_FU ._. 
+</s>
+<s>
+As_CSA both_RR C_ZZ1 pk_NNU values_NN2 are_VBR greater_JJR than_CSN 1_MC1 ,_, the_AT production_NN1 process_NN1 (_( based_VVN on_II the_AT first_MD 20_MC samples_NN2 )_) is_VBZ considered_VVN to_TO be_VBI quite_RG capable_JJ of_IO producing_VVG the_AT products_NN2 within_II both_DB2 the_AT Lower_JJR and_CC Upper_JJ Specification_NN1 Limits_NN2 ._. 
+</s>
+<s>
+However_RR ,_, comparing_VVG the_AT C_ZZ1 pk_NNU (_( towards_II the_AT USL_NP1 )_) and_CC the_AT C_ZZ1 pk_NNU (_( towards_II the_AT LSL_NP1 )_) ,_, the_AT C_ZZ1 pk_NNU value_NN1 (_( towards_II the_AT USL_NP1 )_) is_VBZ slightly_RR greater_JJR ,_, so_CS it_PPH1 seems_VVZ that_CST the_AT process_NN1 has_VHZ a_RR31 little_RR32 bit_RR33 more_DAR risk_NN1 to_TO produce_VVI products_NN2 over_II the_AT LSL_NP1 than_CSN to_TO produce_VVI products_NN2 over_II the_AT USL_NP1 ._. 
+</s>
+<s>
+This_DD1 situation_NN1 is_VBZ not_XX ideally_RR beneficial_JJ for_IF customer_NN1 ._. 
+</s>
+<s>
+Yet_RR ,_, the_AT process_NN1 as_II a_AT1 whole_NN1 is_VBZ quite_RG capable_JJ ._. 
+</s>
+<s>
+As_CSA calculated_VVN in_II Q(e)_FO ,_, the_AT new_JJ mean_JJ and_CC new_JJ standard_JJ deviation_NN1 of_IO the_AT changed_JJ process_NN1 are_VBR 313.9559_MC and_CC 4.92_MC respectively_RR ._. 
+</s>
+<s>
+According_II21 to_II22 the_AT equation_NN1 applied_VVN in_II Q(f)_NP1 and_CC using_VVG the_AT same_DA values_NN2 for_IF LSL_NP1 and_CC USL_NP1 ,_, C_ZZ1 pk_NNU (_( towards_II the_AT USL_NP1 )_) =_FO (_( 335-313.9559_MCMC )_) /_FO (_( 3_MC 4.92_MC )_) =1.43_FO ,_, C_ZZ1 pk_NNU (_( towards_II the_AT LSL_NP1 )_) =_FO (_( 313.9559-265_MCMC )_) /_FO (_( 3_MC 4.92_MC )_) =3.32_FO ._. 
+</s>
+<s>
+As_CSA both_RR C_ZZ1 pk_NNU values_NN2 are_VBR greater_JJR than_CSN 1_MC1 ,_, the_AT new_JJ production_NN1 process_NN1 is_VBZ considered_VVN to_TO be_VBI capable_JJ of_IO producing_VVG the_AT products_NN2 within_II both_DB2 the_AT Lower_JJR and_CC Upper_JJ Specification_NN1 Limits_NN2 ._. 
+</s>
+<s>
+However_RR ,_, comparing_VVG the_AT C_ZZ1 pk_NNU (_( towards_II the_AT USL_NP1 )_) and_CC the_AT C_ZZ1 pk_NNU (_( towards_II the_AT LSL_NP1 )_) ,_, the_AT C_ZZ1 pk_NNU (_( towards_II the_AT LSL_NP1 )_) is_VBZ nearly_RR 2_MC and_CC half_DB times_NNT2 more_RRR than_CSN the_AT C_ZZ1 pk_NNU (_( towards_II the_AT USL_NP1 )_) ._. 
+</s>
+<s>
+Consequently_RR ,_, it_PPH1 seems_VVZ that_CST the_AT process_NN1 has_VHZ much_DA1 more_DAR risk_NN1 to_TO produce_VVI the_AT products_NN2 over_II the_AT USL_NP1 than_CSN to_TO produce_VVI the_AT products_NN2 over_II the_AT LSL_NP1 ._. 
+</s>
+<s>
+This_DD1 kind_NN1 of_IO situation_NN1 is_VBZ not_XX beneficial_JJ to_II the_AT business_NN1 ,_, regarding_VVG to_II the_AT extra_JJ products_NN2 put_VVN into_II the_AT packages_NN2 ._. 
+</s>

@@ -1,0 +1,135 @@
+<s>
+Vinegar_NN1 is_VBZ formed_VVN by_II aerobic_JJ bacteria_NN2 oxidizing_VVG grain_NN1 alcohol_NN1 to_II acetic_JJ acid_NN1 and_CC water_NN1 ._. 
+</s>
+<s>
+More_RGR generally_RR ,_, vinegar_NN1 can_VM be_VBI defined_VVN as_II a_AT1 solution_NN1 composed_VVN of_IO acetic_JJ acid_NN1 (_( HC2H3O2_FO )_) ,_, water_NN1 ,_, and_CC ,_, perhaps_RR ,_, other_JJ substances_NN2 ._. 
+</s>
+<s>
+The_AT objective_NN1 of_IO this_DD1 experiment_NN1 is_VBZ to_TO measure_VVI the_AT total_JJ acid_NN1 concentration_NN1 in_II given_JJ samples_NN2 of_IO vinegar_NN1 ._. 
+</s>
+<s>
+The_AT method_NN1 used_VVN to_II measure_NN1 the_AT total_JJ acidity_NN1 of_IO the_AT vinegar_NN1 being_VBG studied_VVN is_VBZ an_AT1 analytical_JJ chemistry_NN1 technique_NN1 called_VVN an_AT1 acid-base_NN1 titration_NN1 ._. 
+</s>
+<s>
+A_AT1 titration_NN1 mixes_NN2 two_MC solutions_NN2 which_DDQ contain_VV0 reactants_NN2 for_IF a_AT1 known_JJ chemical_JJ reaction_NN1 under_II conditions_NN2 such_CS21 that_CS22 :_: a_ZZ1 )_) The_AT point_NN1 at_II which_DDQ both_DB2 reactants_NN2 have_VH0 been_VBN completely_RR consumed_VVN by_II the_AT known_JJ reaction_NN1 can_VM be_VBI detected_VVN (_( end_VV0 point_NN1 )_) b_ZZ1 )_) The_AT amount_NN1 of_IO one_MC1 reactant_NN1 can_VM be_VBI calculated_VVN from_II the_AT known_JJ concentration_NN1 of_IO reactant_NN1 in_II a_AT1 standard_JJ solution_NN1 ,_, the_AT volume_NN1 of_IO standard_JJ solution_NN1 used_VVD ,_, and_CC the_AT balanced_JJ known_JJ chemical_JJ equation_NN1 ._. 
+</s>
+<s>
+For_IF an_AT1 acid-base_NN1 titration_NN1 ,_, the_AT known_JJ chemical_JJ reaction_NN1 in_RR21 general_RR22 is_VBZ :_: and_CC for_IF the_AT titration_NN1 of_IO the_AT vinegar_NN1 in_II this_DD1 experiment_NN1 the_AT following_JJ specific_JJ reaction_NN1 will_VM be_VBI used_VVN to_TO calculate_VVI the_AT acetic_JJ acid_NN1 content_NN1 of_IO the_AT vinegar_NN1 sample_NN1 :_: Sodium_NN1 hydroxide_NN1 will_VM be_VBI the_AT standard_JJ reactant_JJ solution_NN1 for_IF this_DD1 titration_NN1 ,_, and_CC acetic_JJ acid_NN1 the_AT calculated_JJ unknown_JJ reactant_NN1 ._. 
+</s>
+<s>
+The_AT end_NN1 point_NN1 in_II this_DD1 experiment_NN1 will_VM be_VBI detected_VVN with_IW an_AT1 acid/base_JJ indicator_NN1 ._. 
+</s>
+<s>
+An_AT1 acid_NN1 /_FO base_NN1 indicator_NN1 is_VBZ a_AT1 colored_JJ substance_NN1 with_IW two_MC or_CC more_RGR different_JJ colors_NN2 depending_II21 on_II22 the_AT value_NN1 of_IO the_AT pH_NN1 of_IO the_AT solution_NN1 ._. 
+</s>
+<s>
+Indicators_NN2 are_VBR also_RR very_RG weak_JJ acids_NN2 or_CC bases_NN2 and_CC react_VV0 with_IW added_JJ acid_NN1 or_CC base_NN1 if_CS no_AT other_JJ base_NN1 or_CC acid_NN1 is_VBZ present_JJ in_II a_AT1 solution_NN1 ._. 
+</s>
+<s>
+Phenolphthalein_NN1 is_VBZ the_AT indicator_NN1 used_VVN in_II this_DD1 experiment_NN1 ,_, and_CC phenolphthalein_NN1 is_VBZ colorless_JJ in_II acid_NN1 and_CC neutral_JJ solutions_NN2 but_CCB is_VBZ red_JJ in_II basic_JJ solutions_NN2 ._. 
+</s>
+<s>
+The_AT phenolphthalein_NN1 will_VM change_VVI color_NN1 with_IW the_AT addition_NN1 of_IO a_AT1 single_JJ drop_NN1 of_IO sodium_NN1 hydroxide_NN1 if_CS no_AT other_JJ acid_NN1 (_( acetic_JJ acid_NN1 for_IF this_DD1 experiment_NN1 )_) is_VBZ present_JJ in_II the_AT phenolphthalein-sodium_JJ hydroxide_NN1 solution_NN1 ._. 
+</s>
+<s>
+We_PPIS2 first_MD needed_VVD to_TO prepare_VVI and_CC standardize_VVI the_AT NaOH_NN1 solution_NN1 via_II titration_NN1 with_IW a_AT1 primary_JJ acid_NN1 standard_NN1 ,_, potassium_NN1 hydrogen_NN1 phthalate_NN1 (_( KHP_NP1 )_) 0.1M_NNU using_VVG as_II a_AT1 colour_NN1 indicator_NN1 phenolphthalein_NN1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT had_VHD to_TO titrate_VVI with_IW our_APPGE standardized_JJ base_NN1 to_TO determine_VVI the_AT total_JJ acid_NN1 content_NN1 of_IO our_APPGE vinegar_NN1 samples_NN2 and_CC express_VV0 the_AT results_NN2 as_CSA acetic_JJ acid_NN1 (_( %m/v_FU )_) ._. 
+</s>
+<s>
+Note_VV0 :_: When_CS determining_VVG the_AT total_JJ acidity_NN1 ,_, we_PPIS2 changed_VVD the_AT volume_NN1 of_IO the_AT sample_NN1 taken_VVN from_II 20_MC ml_NNU to_II 25_MC ml_NNU ._. 
+</s>
+<s>
+We_PPIS2 also_RR titrated_VVD 25_MC ml_NNU of_IO the_AT diluted_JJ sample_NN1 instead_II21 of_II22 20_MC ml_NNU ._. 
+</s>
+<s>
+Using_VVG a_AT1 pH_NN1 paper_NN1 ,_, we_PPIS2 had_VHD to_TO determine_VVI the_AT approximate_JJ pH_NN1 values_NN2 of_IO the_AT original_JJ undiluted_JJ samples_NN2 of_IO vinegar_NN1 ._. 
+</s>
+<s>
+Finally_RR ,_, we_PPIS2 had_VHD to_TO add_VVI a_AT1 few_DA2 drops_NN2 of_IO barium_NN1 chloride_NN1 solution_NN1 to_TO separate_VVI aliquots_NN2 of_IO the_AT original_JJ undiluted_JJ vinegar_NN1 samples_NN2 in_II test_NN1 tubes_NN2 and_CC record_VV0 our_APPGE observations_NN2 ._. 
+</s>
+<s>
+We_PPIS2 had_VHD to_TO do_VDI the_AT same_DA procedure_NN1 as_CSA above_RL ,_, adding_VVG silver_NN1 nitrate_NN1 solution_NN1 this_DD1 time_NNT1 ._. 
+</s>
+<s>
+For_IF the_AT calculation_NN1 of_IO the_AT nominal_JJ concentration_NN1 of_IO the_AT NaOH_NN1 we_PPIS2 had_VHD the_AT following_JJ results_NN2 :_: Titration_NN1 :_: For_IF the_AT determination_NN1 of_IO acidity_NN1 we_PPIS2 had_VHD the_AT following_JJ results_NN2 :_: 1st_MD Sample_NN1 :_: But_CCB the_AT sample_NN1 was_VBDZ diluted_VVN by_II 4x_FO ._. 
+</s>
+<s>
+So_RR in_II order_NN1 to_TO find_VVI the_AT %_NNU w/v_ZZ1 we_PPIS2 should_VM multiply_VVI w%_FO by_II 4_MC times_NNT2 ._. 
+</s>
+<s>
+2nd_MD Sample_NN1 :_: But_CCB the_AT sample_NN1 was_VBDZ diluted_VVN by_II 4x_FO ._. 
+</s>
+<s>
+So_RR in_II order_NN1 to_TO find_VVI the_AT %_NNU w/v_ZZ1 we_PPIS2 should_VM multiply_VVI w%_FO by_II 4_MC times_NNT2 ._. 
+</s>
+<s>
+3rd_MD Sample_NN1 :_: But_CCB the_AT sample_NN1 was_VBDZ diluted_VVN by_II 4x_FO ._. 
+</s>
+<s>
+So_RR in_II order_NN1 to_TO find_VVI the_AT %_NNU w/v_ZZ1 we_PPIS2 should_VM multiply_VVI w%_FO by_II 4_MC times_NNT2 ._. 
+</s>
+<s>
+Where_CS :_: From_II the_AT literature_NN1 we_PPIS2 know_VV0 that_CST the_AT legal_JJ minimum_JJ values_NN2 for_IF the_AT acidity_NN1 of_IO vinegar_NN1 when_CS expressed_VVN as_CSA Acetic_JJ Acid_NN1 %_NNU are_VBR 4%_NNU ._. 
+</s>
+<s>
+From_II the_AT results_NN2 we_PPIS2 obtained_VVD ,_, we_PPIS2 can_VM clearly_RR state_VVI that_CST samples_VVZ 1_MC1 and_CC 3_MC generally_RR meet_VV0 the_AT above_JJ minimum_JJ value_NN1 ,_, and_CC sample_NN1 2_MC is_VBZ far_RR below_II the_AT minimum_JJ requirements_NN2 ._. 
+</s>
+<s>
+Specifically_RR ,_, the_AT first_MD (_( 5.45%_FO )_) and_CC third_MD (_( 6.41%_FO )_) sample_NN1 values_NN2 are_VBR considered_VVN very_RG high_JJ ,_, and_CC this_DD1 can_VM be_VBI contributed_VVN to_II the_AT method_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 method_NN1 we_PPIS2 titrate_VV0 not_XX only_RR acetic_JJ acid_NN1 but_CCB all_DB the_AT acids_NN2 that_CST are_VBR in_II the_AT samples_NN2 ,_, so_CS this_DD1 is_VBZ an_AT1 error_NN1 based_VVN on_II the_AT method_NN1 that_CST should_VM be_VBI taken_VVN into_II serious_JJ consideration_NN1 when_CS expressing_VVG the_AT results_NN2 ._. 
+</s>
+<s>
+As_CS31 far_CS32 as_CS33 the_AT second_MD sample_NN1 is_VBZ concerned_JJ ,_, the_AT relative_JJ low_JJ value_NN1 (_( 2.96%_FO )_) that_DD1 is_VBZ calculated_VVN can_VM be_VBI justified_VVN by_II the_AT fact_NN1 that_CST there_EX might_VM be_VBI mineral_NN1 acids_NN2 dissolved_VVN in_II the_AT sample_NN1 ._. 
+</s>
+<s>
+The_AT literature_NN1 values_NN2 for_IF pH_NN1 in_II Vinegar_NN1 are_VBR usually_RR close_JJ to_II pH_NN1 value_NN1 3_MC ._. 
+</s>
+<s>
+From_II the_AT results_NN2 we_PPIS2 have_VH0 using_VVG the_AT pH_NN1 paper_NN1 ,_, we_PPIS2 can_VM observe_VVI that_DD1 sample_NN1 number_NN1 1_MC1 and_CC 2_MC are_VBR very_RG close_JJ to_II that_DD1 value_NN1 but_CCB the_AT value_NN1 for_IF sample_NN1 3_MC is_VBZ way_RR% far_RR that_DD1 value_NN1 ._. 
+</s>
+<s>
+Perhaps_RR the_AT presence_NN1 of_IO Mineral_NN1 Acids_NN2 (_( pH_NN1 1-2_MCMC )_) in_II the_AT 3_MC rd_NN1 sample_NN1 has_VHZ altered_VVN this_DD1 result_NN1 ._. 
+</s>
+<s>
+We_PPIS2 know_VV0 that_CST the_AT test_NN1 with_IW the_AT AgNO_NN1 3_MC is_VBZ a_AT1 test_NN1 to_TO determine_VVI the_AT presence_NN1 of_IO Cl-_NN1 and_CC the_AT test_NN1 using_VVG the_AT BaCl_NN1 2_MC is_VBZ a_AT1 test_NN1 to_TO determine_VVI SO_RG 4-_JJ ._. 
+</s>
+<s>
+After_II performing_VVG these_DD2 tests_NN2 ,_, we_PPIS2 observed_VVD that_CST the_AT tests_NN2 using_VVG BaCl_NN1 2_MC were_VBDR all_DB negative_JJ ,_, something_PN1 that_CST indicates_VVZ that_CST there_EX is_VBZ no_AT presence_NN1 of_IO SO_RG 4-_JJ in_II our_APPGE samples_NN2 ._. 
+</s>
+<s>
+When_CS performing_VVG the_AT tests_NN2 using_VVG AgNO_NN1 3_MC we_PPIS2 observed_VVD turbidity_NN1 and_CC precipitants_NN2 in_II samples1_FO and_CC 2_MC ,_, and_CC small_JJ turbidity_NN1 in_II the_AT tube_NN1 containing_VVG sample_NN1 2_MC ._. 
+</s>
+<s>
+This_DD1 indicates_VVZ that_DD1 Cl-_NN1 is_VBZ present_JJ in_II all_DB three_MC samples_NN2 ,_, but_CCB in_II larger_JJR quantities_NN2 in_II samples_NN2 1_MC1 &;_NULL 2_MC ._. 
+</s>
+<s>
+Taking_VVG all_DB the_AT results_NN2 from_II all_DB the_AT teams_NN2 that_CST performed_VVD the_AT same_DA experiment_NN1 ,_, we_PPIS2 constructed_VVD 3_MC diagrams_NN2 (_( one_MC1 for_IF each_DD1 sample_NN1 )_) that_CST shows_VVZ the_AT variation_NN1 of_IO the_AT results_NN2 related_VVN to_II the_AT mean_JJ value_NN1 ,_, taking_VVG 2_MC SE_NP1 (_( 95%_NNU )_) as_II a_AT1 measuring_JJ unit_NN1 for_IF an_AT1 upper_JJ and_CC a_AT1 lower_JJR limit_NN1 ._. 
+</s>
+<s>
+,_, where_CS =_FO standard_JJ deviation_NN1 and_CC n_ZZ1 =_FO sample_NN1 number_NN1 (_( in_II this_DD1 experiment_NN1 ,_, n_ZZ1 =_FO 2_MC because_CS we_PPIS2 had_VHD duplicate_JJ samples_NN2 )_) ._. 
+</s>
+<s>
+For_IF the_AT first_MD sample_NN1 we_PPIS2 had_VHD :_: For_IF the_AT second_MD sample_NN1 we_PPIS2 had_VHD :_: For_IF the_AT third_MD sample_NN1 we_PPIS2 had_VHD :_: As_CSA we_PPIS2 can_VM see_VVI in_II the_AT charts_NN2 above_RL ,_, in_II the_AT first_MD sample_NN1 ,_, our_APPGE value_NN1 for_IF the_AT acidity_NN1 of_IO vinegar_NN1 is_VBZ out_II21 of_II22 the_AT 95%_NNU confidence_NN1 limits_VVZ that_CST we_PPIS2 have_VH0 set_VVN and_CC therefore_RR a_AT1 significant_JJ error_NN1 has_VHZ occurred_VVN ._. 
+</s>
+<s>
+This_DD1 could_VM be_VBI mainly_RR due_II21 to_II22 the_AT human_JJ factor_NN1 as_CSA we_PPIS2 observe_VV0 that_CST most_DAT of_IO the_AT other_JJ teams_NN2 were_VBDR inside_II these_DD2 confidence_NN1 limits_NN2 ,_, so_CS it_PPH1 is_VBZ not_XX a_AT1 problem_NN1 caused_VVN by_II the_AT method_NN1 ._. 
+</s>
+<s>
+Such_DA errors_NN2 should_VM not_XX occur_VVI and_CC are_VBR minimized_VVN by_II training_NN1 and_CC exercise_NN1 ._. 
+</s>
+<s>
+As_II21 for_II22 the_AT second_MD and_CC third_MD samples_NN2 ,_, we_PPIS2 observe_VV0 that_CST we_PPIS2 are_VBR inside_II the_AT confidence_NN1 limits_NN2 and_CC in_II fact_NN1 we_PPIS2 are_VBR very_RG close_JJ to_II the_AT mean_JJ values_NN2 ._. 
+</s>
+<s>
+All_DB in_II all_DB ,_, many_DA2 errors_NN2 may_VM occur_VVI ._. 
+</s>
+<s>
+A_AT1 common_JJ error_NN1 is_VBZ the_AT sampling_NN1 error_NN1 which_DDQ is_VBZ partly_RR avoided_VVN by_II the_AT use_NN1 of_IO more_DAR than_CSN one_MC1 sample_NN1 when_CS titrating_VVG ._. 
+</s>
+<s>
+Limitations_NN2 due_II21 to_II22 the_AT uncertainty_NN1 of_IO the_AT instruments_NN2 also_RR exist_VV0 but_CCB we_PPIS2 consider_VV0 them_PPHO2 as_CSA not_XX significant_JJ when_CS doing_VDG our_APPGE calculations_NN2 ._. 
+</s>

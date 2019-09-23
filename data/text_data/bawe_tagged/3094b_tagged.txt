@@ -1,0 +1,216 @@
+<s>
+._. 
+</s>
+<s>
+The_AT maximum_JJ number_NN1 of_IO predicted_JJ records_NN2 is_VBZ 200_MC with_IW occasional_JJ insersertions_NN2 and_CC deletions_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ expected_VVN that_CST the_AT database_NN1 size_NN1 remains_VVZ fairly_RR constant_JJ ._. 
+</s>
+<s>
+Assuming_VVG 200_MC records_NN2 is_VBZ 80%_NNU of_IO the_AT total_JJ table_NN1 size_NN1 so_CS the_AT efficiency_NN1 is_VBZ not_XX degraded_VVN ,_, the_AT table_NN1 size_NN1 is_VBZ :_: Initially_RR the_AT closest_JJT prime_JJ number_NN1 to_II 250_MC was_VBDZ selected_VVN as_II the_AT table_NN1 size_NN1 ._. 
+</s>
+<s>
+(_( prime_JJ numbers_NN2 near_II 250_MC are_VBR .._... ,_, 223_MC ,_, 227_MC ,_, 229_MC ,_, 233_MC ,_, 239_MC ,_, 241_MC ,_, 251_MC ,_, 257_MC ,_, 263_MC ,_, .._... )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ makes_VVZ sure_JJ the_AT records_NN2 are_VBR evenly_RR distributed_VVN throughout_II the_AT hash_NN1 table_NN1 so_RR possibility_NN1 of_IO collisions_NN2 is_VBZ greatly_RR reduced_VVN ._. 
+</s>
+<s>
+However_RR there_EX 's_VBZ the_AT power_NN1 of_IO 2_MC close_JJ by_II which_DDQ is_VBZ 256_MC ._. 
+</s>
+<s>
+(_( Powers_NN2 of_IO two_MC near_II 250_MC are_VBR .._... ,_, 128_MC ,_, 256_MC ,_, 512_MC ,_, .._... )_) 191_MC is_VBZ the_AT ideal_JJ prime_JJ number_NN1 since_CS it_PPH1 is_VBZ best_RRT positioned_VVN between_II 128_MC and_CC 256_MC ,_, however_RR is_VBZ it_PPH1 too_RG low_JJ if_CS load_NN1 factor_NN1 is_VBZ to_TO be_VBI less_DAR than_CSN 80%_NNU in_II the_AT worst_JJT case_NN1 scenario_NN1 of_IO 200_MC records_NN2 in_II the_AT catalogue_NN1 ._. 
+</s>
+<s>
+So_RR the_AT table_NN1 size_NN1 was_VBDZ reduced_VVN to_II a_AT1 prime_JJ number_NN1 few_DA2 positions_NN2 below_RG 256._MC (_( we_PPIS2 can_VM afford_VVI compromise_VV0 the_AT table_NN1 size_NN1 a_RR21 little_RR22 since_CS we_PPIS2 took_VVD the_AT maximum_JJ database_NN1 size_NN1 of_IO 200_MC to_TO be_VBI 80%_NNU )_) ._. 
+</s>
+<s>
+After_II all_DB the_AT adjustments_NN2 the_AT final_JJ table_NN1 size_NN1 is_VBZ 223_MC ._. 
+</s>
+<s>
+Coincidently_RR this_DD1 value_NN1 closely_RR matches_VVZ with_IW the_AT concept_NN1 of_IO "_" Size_NN1 should_VM be_VBI about_RG 10%_NNU larger_JJR than_CSN the_AT maximum_JJ number_NN1 of_IO entries_NN2 "_" ._. 
+</s>
+<s>
+Source_NN1 :_: lecture_NN1 notes_VVZ :_: Slide_VV0 33_MC ,_, U08020_FO Lecture_NN1 Notes_NN2 -_- week_NNT1 6_MC ._. 
+</s>
+<s>
+However_RRQV it_PPH1 is_VBZ just_RR a_AT1 coincident_NN1 as_II the_AT table_NN1 size_NN1 calculation_NN1 is_VBZ a_RR21 bit_RR22 more_DAR bias_NN1 to_II performance_NN1 issues_NN2 than_CSN resources_NN2 issues_NN2 ._. 
+</s>
+<s>
+The_AT table_NN1 size_NN1 is_VBZ specifically_RR tuned_VVN to_II this_DD1 specific_JJ plant_NN1 online_JJ catalogue_NN1 ._. 
+</s>
+<s>
+"_" Division_NN1 method_NN1 "_" using_VVG the_AT modular_JJ function_NN1 is_VBZ used_VVN as_II the_AT hash_NN1 function_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ so_RR the_AT hash_NN1 function_NN1 is_VBZ made_VVN simplest_JJT as_II possible_JJ and_CC minimum_JJ amount_NN1 from_II statements_NN2 so_CS it_PPH1 does_VDZ to_TO steal_VVI too_RG many_DA2 CPU_NN1 cycles_NN2 ._. 
+</s>
+<s>
+The_AT even_JJ% distribution_NN1 of_IO values_NN2 and_CC collision_NN1 reduction_NN1 of_IO the_AT index_NN1 is_VBZ dependant_JJ on_II choosing_VVG the_AT right_NN1 of_IO the_AT values_NN2 themselves_PPX2 ._. 
+</s>
+<s>
+Collisions_NN2 are_VBR inevitable_JJ but_CCB selection_NN1 of_IO the_AT quadratic_JJ probing_JJ and_CC keeping_VVG the_AT maximum_JJ load_NN1 factor_NN1 around_RG 80%_NNU makes_VVZ sure_JJ the_AT collisions_NN2 are_VBR kept_VVN at_II a_AT1 minimum_NN1 ._. 
+</s>
+<s>
+"_" Division_NN1 method_NN1 "_" source_NN1 :_: page_NN1 145_MC ,_, Mastering_VVG Algorithms_NN2 with_IW C_NP1 ,_, By_II Kyle_NP1 Loudon_NP1 "_" Modula_NP1 arithmetic_NN1 provides_VVZ a_AT1 simple_JJ and_CC effective_JJ hash_NN1 function_NN1 ._. "_" 
+</s>
+<s>
+Basis_NN1 of_IO the_AT division_NN1 method_NN1 is_VBZ :_: Pseudocode_NN1 of_IO the_AT hash_NN1 new_JJ function_NN1 is_VBZ :_: This_DD1 particular_JJ design_NN1 should_VM be_VBI extremely_RR efficient_JJ ._. 
+</s>
+<s>
+Pros_NN2 of_IO this_DD1 design_NN1 :_: maximum_JJ predicted_JJ database_NN1 size_NN1 assumed_VVN to_II 200_MC records_NN2 table_NN1 size_NN1 is_VBZ made_VVN 223_MC making_VVG it_PPH1 89.69%_FO full_JJ even_CS21 if_CS22 all_DB 200_MC records_NN2 are_VBR occupied_VVN selection_NN1 of_IO a_AT1 best_RRT possible_JJ optimum_JJ value_NN1 to_II table_NN1 size_NN1 (_( with_II31 regard_II32 to_II33 prime_JJ numbers_NN2 and_CC powers_NN2 of_IO 2_MC )_) which_DDQ makes_VVZ sure_JJ clustering_NN1 and_CC collisions_NN2 are_VBR kept_VVN at_II a_AT1 minimum_NN1 )_) usage_NN1 of_IO a_AT1 simple_JJ hashing_JJ function_NN1 which_DDQ does_VDZ n't_XX take_VVI too_RG much_DA1 CPU_NN1 cycles_NN2 usage_NN1 of_IO quadratic_JJ probing_JJ which_DDQ eliminates_VVZ primary_JJ clustering_NN1 ._. 
+</s>
+<s>
+Cons_NN2 of_IO this_DD1 design_NN1 :_: uses_VVZ more_DAR memory_NN1 than_CSN actually_RR required_VVN to_TO maintain_VVI efficiency_NN1 ._. 
+</s>
+<s>
+usage_NN1 of_IO a_AT1 complex_NN1 (_( multiplication_NN1 method_NN1 )_) would_VM have_VHI produce_NN1 more_RGR random_JJ distribution_NN1 values_NN2 in_II the_AT index_NN1 (_( at_II the_AT expense_NN1 of_IO CPU_NN1 cycles_NN2 of_RR21 course_RR22 )_) ._. 
+</s>
+<s>
+Efficiency_NN1 of_IO operations_NN2 ._. 
+</s>
+<s>
+Hash_VV0 tables_NN2 take_VV0 the_AT constant_JJ time_NNT1 close_RR to_II O(1)_FO for_IF all_DB operations_NN2 ._. 
+</s>
+<s>
+Insertion_NP1 :_: O(1)_FO ._. 
+</s>
+<s>
+Searching_VVG :_: O(1)_FO ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT theoretical_JJ minimum_JJ access_NN1 time_NNT1 ._. 
+</s>
+<s>
+Actual_JJ time_NNT1 is_VBZ the_AT (_( constant_JJ )_) time_VV0% of_IO the_AT hashing_JJ function_NN1 and_CC the_AT length_NN1 of_IO the_AT probe_NN1 ._. 
+</s>
+<s>
+As_II the_AT probe_NN1 length_NN1 depends_VVZ on_II the_AT ratio_NN1 of_IO number_NN1 of_IO items_NN2 on_II the_AT table_NN1 and_CC the_AT size_NN1 of_IO the_AT table_NN1 (_( i.e._REX load_NN1 factor_NN1 )_) ,_, during_II design_NN1 every_AT1 step_NN1 has_VHZ been_VBN taken_VVN to_TO reduce_VVI performance_NN1 degrading_VVG due_II21 to_II22 collisions_NN2 considering_II the_AT resource_NN1 vs._II efficiency_NN1 factors_NN2 (_( see_VV0 Pros_NN2 design_VVI above_RL )_) ._. 
+</s>
+<s>
+Unsuccessful_JJ search_NN1 will_VM take_VVI more_DAR time_NNT1 than_CSN a_AT1 successful_JJ search_NN1 since_CS the_AT whole_JJ index_NN1 has_VHZ to_TO be_VBI probed_VVN ._. 
+</s>
+<s>
+But_CCB this_DD1 is_VBZ n't_XX a_AT1 problem_NN1 since_CS unsuccessful_JJ searches_NN2 are_VBR occasional_JJ ._. 
+</s>
+<s>
+AVL_VV0 trees_NN2 have_VH0 logarithmic_JJ complexity_NN1 ._. 
+</s>
+<s>
+Searching_VVG ,_, insertion_NN1 ,_, and_CC deletion_NN1 are_VBR all_DB O_ZZ1 (_( log_NN1 n_ZZ1 )_) in_II both_DB2 the_AT average_NN1 and_CC worst_JJT cases_NN2 ._. 
+</s>
+<s>
+Insertion_NP1 :_: O_ZZ1 (_( log_NN1 n_ZZ1 )_) ._. 
+</s>
+<s>
+Searching_VVG :_: O_ZZ1 (_( log_NN1 n_ZZ1 )_) (_( where_CS n_ZZ1 is_VBZ number_NN1 of_IO nodes_NN2 in_II the_AT tree_NN1 )_) ._. 
+</s>
+<s>
+The_AT AVL_NN1 tree_NN1 algorithms_NN2 of_IO the_AT operations_NN2 are_VBR more_RGR complex_JJ than_CSN the_AT hash_NN1 tables_NN2 ._. 
+</s>
+<s>
+The_AT main_JJ algorithmic_JJ complexity_NN1 comes_VVZ due_II21 to_II22 the_AT rebalancing_JJ requirement_NN1 of_IO the_AT AVL_NN1 tree_NN1 ._. 
+</s>
+<s>
+This_DD1 makes_VVZ understanding_NN1 and_CC codeing_VVG bit_NN1 difficult_JJ ._. 
+</s>
+<s>
+For_IF this_DD1 online_JJ catalogue_NN1 hash_NN1 table_NN1 should_VM performs_VVZ better_JJR of_IO the_AT two_MC data_NN structures_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ because_II21 of_II22 the_AT way_NN1 hash_NN1 table_NN1 was_VBDZ designed_VVN ,_, hash_VV0 table_NN1 has_VHZ better_JJR performance_NN1 in_II this_DD1 case_NN1 at_II the_AT expense_NN1 of_IO memory_NN1 ._. 
+</s>
+<s>
+But_CCB the_AT table_NN1 size_NN1 can_VM further_RRR be_VBI optimized_VVN by_II experimenting_VVG by_II changing_VVG the_AT table_NN1 size_NN1 at_II run_NN1 time_NNT1 ._. 
+</s>
+<s>
+Following_VVG are_VBR circumstances_NN2 where_RRQ hash_NN1 tables_NN2 are_VBR of_IO better_JJR choice_NN1 than_CSN AVL_NP1 trees_NN2 ._. 
+</s>
+<s>
+Less_RGR frequent_JJ insertions_NN2 and_CC deletions_NN2 &lsqb;_( X_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+Unsuccessful_JJ searches_NN2 generally_RR require_VV0 more_DAR time_NNT1 than_CSN successful_JJ searches_NN2 &lsqb;_( X_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+Inefficient_JJ utilization_NN1 of_IO memory_NN1 ._. 
+</s>
+<s>
+Hash_VV0 tables_NN2 (_( with_IW quadratic_JJ probing_JJ )_) require_VV0 additional_JJ memory_NN1 ._. 
+</s>
+<s>
+&lsqb;_( X_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+Number_NN1 of_IO elements_NN2 to_TO be_VBI stored_VVN must_VM be_VBI known_VVN accurately_RR in_II advance_NN1 ._. 
+</s>
+<s>
+Hash_NN1 can_VM not_XX be_VBI expanded_VVN once_RR implemented_VVN ._. 
+</s>
+<s>
+&lsqb;_( X_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+Rehashing_VVG into_II a_AT1 larger_JJR table_NN1 is_VBZ expensive_JJ ._. 
+</s>
+<s>
+(_( If_CS the_AT number_NN1 of_IO elements_NN2 is_VBZ not_XX known_VVN in_II advance_JJ separate_JJ chaining_NN1 can_VM still_RR be_VBI used_VVN )_) &lsqb;_( X_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+Simple_JJ and_CC easy_JJ to_TO understand_VVI data_NN structure_NN1 is_VBZ needed_VVN (_( hash_VV0 tables_NN2 are_VBR very_RG simple_JJ data_NN structures_NN2 )_) ._. 
+</s>
+<s>
+Application_NN1 need_NN1 to_TO be_VBI developed_VVN very_RG quickly_RR without_IW regard_NN1 any_DD efficient_JJ memory_NN1 utilisation_NN1 ._. 
+</s>
+<s>
+Database_NN1 does_VDZ not_XX occupy_VVI more_DAR than_CSN say_VV0 80%_NNU ._. 
+</s>
+<s>
+Performance_NN1 degrades_VVZ dramatically_RR when_CS the_AT table_NN1 becomes_VVZ near_II full_JJ ._. 
+</s>
+<s>
+Need_VV0 high_JJ efficiency_NN1 (_( more_RGR specifically_RR constant_JJ time_NNT1 random_JJ access_NN1 to_II data_NN elements_NN2 )_) &lsqb;_( X_ZZ1 &rsqb;_) Plants_NN2 online_JJ catalogue_NN1 requirement_NN1 match_NN1 ._. 
+</s>
+<s>
+Circumstances_NN2 where_RRQ AVL_NP1 trees_NN2 are_VBR of_IO better_JJR choice_NN1 than_CSN hash_NN1 tables_NN2 ._. 
+</s>
+<s>
+If_CS table_NN1 traversals_NN2 (_( i.e._REX inorder_NN1 ,_, preorder_VV0 ,_, postorder_NN1 )_) are_VBR needed_VVN ._. 
+</s>
+<s>
+Need_VV0 access_NN1 to_II the_AT minimum_NN1 or_CC maximum_JJ items_NN2 or_CC finding_VVG items_NN2 in_II a_AT1 certain_JJ range_NN1 ._. 
+</s>
+<s>
+Number_NN1 of_IO elements_NN2 in_II the_AT database_NN1 changes_NN2 frequently_RR and_CC unpredictably_RR ._. 
+</s>
+<s>
+Data_NN structure_VV0% that_DD1 self_NN1 maintains_VVZ its_APPGE efficiency_NN1 without_IW user/programmer_NN1 intervention_NN1 ._. 
+</s>
+<s>
+If_CS memory_NN1 is_VBZ of_IO expensive/limited_JJ resource_NN1 ._. 
+</s>
+<s>
+Developer_NN1 has_VHZ good_JJ undersanding_NN1 and_CC codeing_VVG experience_NN1 with_IW AVL_NN1 trees_NN2 ._. 
+</s>
+<s>
+Developer_NN1 has_VHZ good_JJ understanding_NN1 of_IO complex_JJ data_NN structures_NN2 (_( in_II which_DDQ case_NN1 red_JJ black_JJ trees_NN2 would_VM be_VBI used_VVN instead_II21 of_II22 AVL_NP1 trees_NN2 in_II the_AT first_MD place_NN1 )_) ._. 
+</s>
+<s>
+Unfortunately_RR I_PPIS1 was_VBDZ unable_JK to_TO find_VVI a_AT1 match_NN1 between_II theory_NN1 and_CC practice_NN1 (_( through_II the_AT program_NN1 )_) ._. 
+</s>
+<s>
+The_AT reason_NN1 for_IF the_AT different_JJ results_NN2 (_( steps/elements_NN2 inspected_VVN )_) ,_, in_II my_APPGE opinion_NN1 ,_, depends_VVZ on_II where_RRQ the_AT element_NN1 actually_RR gets_VVZ placed_VVN in_II the_AT index_NN1 ._. 
+</s>
+<s>
+Since_CS this_DD1 is_VBZ random_JJ I_PPIS1 was_VBDZ unable_JK to_TO find_VVI the_AT link_NN1 (_( between_II the_AT theory_NN1 and_CC the_AT program_NN1 )_) and_CC prove_VV0 my_APPGE claims_NN2 without_IW committing_VVG much_DA1 more_DAR time_NNT1 to_II testing_NN1 and_CC test_VV0 result_NN1 presentation_NN1 ._. 
+</s>
+<s>
+However_RRQV it_PPH1 should_VM be_VBI noted_VVN that_CST with_IW hash_NN1 tables_NN2 ,_, the_AT practical_JJ performance_NN1 (_( which_DDQ depends_VVZ on_II the_AT load_NN1 factor_NN1 )_) need_VV0 to_TO be_VBI fine_RR% tuned_VVN by_II experimenting_VVG with_IW the_AT table_NN1 size_NN1 in_II the_AT real_JJ world_NN1 environment_NN1 with_IW contrast_NN1 to_II the_AT specific_JJ performance_NN1 requirements_NN2 of_IO the_AT application_NN1 ._. 
+</s>
+<s>
+Such_DA data_NN is_VBZ unavailable_JJ in_II the_AT assignment_NN1 ._. 
+</s>
+<s>
+So_RR I_PPIS1 calculated_VVD the_AT best_JJT possible_JJ table_NN1 size_NN1 (_( in_II my_APPGE opinion_NN1 )_) ._. 
+</s>

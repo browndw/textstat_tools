@@ -1,0 +1,393 @@
+<s>
+This_DD1 system_NN1 is_VBZ a_AT1 program_NN1 which_DDQ supervises_VVZ an_AT1 auction_NN1 environment_NN1 ._. 
+</s>
+<s>
+It_PPH1 contains_VVZ 3_MC servers_NN2 and_CC several_DA2 (_( indeterminate_JJ number_NN1 )_) sellers_NN2 and_CC bidders_NN2 ._. 
+</s>
+<s>
+This_DD1 distributed_JJ system_NN1 uses_VVZ the_AT Beowulf_NP1 cluster_NN1 ._. 
+</s>
+<s>
+Each_DD1 server_NN1 runs_VVZ on_II its_APPGE own_DA machine_NN1 (_( one_MC1 node_NN1 in_II the_AT cluster_NN1 )_) ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT three_MC servers_NN2 is_VBZ called_VVN "_" Root_NN1 Server_NN1 "_" because_CS it_PPH1 will_VM launch_VVI the_AT two_MC others_NN2 and_CC create_VVI three_MC child_NN1 processes_NN2 which_DDQ are_VBR used_VVN to_TO synchronise_VVI the_AT clock_NN1 between_II the_AT 3_MC servers_NN2 (_( first_MD child_NN1 process_NN1 )_) ,_, to_TO accept_VVI connection_NN1 from_II outside_RL (_( from_II bidder_NN1 or_CC seller_NN1 )_) (_( second_MD child_NN1 process_NN1 )_) and_CC the_AT last_MD one_PN1 is_VBZ the_AT lock_NN1 manager_NN1 (_( a_AT1 section_NN1 below_RL give_VV0 more_DAR details_NN2 about_II this_DD1 lock_NN1 manager_NN1 )_) ._. 
+</s>
+<s>
+So_RR ,_, the_AT root_NN1 server_NN1 is_VBZ composed_VVN by_II 4_MC processes_NN2 ._. 
+</s>
+<s>
+However_RGQV only_RR 2_MC tasks_NN2 identifier_NN1 are_VBR needed_VVN :_: one_PN1 for_IF the_AT root_NN1 server_NN1 and_CC the_AT second_NNT1 for_IF the_AT lock_NN1 manager_NN1 ._. 
+</s>
+<s>
+The_AT two_MC others_NN2 processes_NN2 do_VD0 n't_XX need_VVI a_AT1 PVM_NP1 task_NN1 id_NN1 (_( however_RR ,_, they_PPHS2 have_VH0 one_PN1 ,_, the_AT same_DA than_CSN the_AT root_NN1 server_NN1 ,_, the_AT parent_NN1 ,_, because_CS the_AT fork()_NN1 function_NN1 copies_NN2 all_DB the_AT parent_NN1 environment_NN1 to_II the_AT child_NN1 )_) ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO create_VVI two_MC different_JJ tasks_NN2 identifier_NN1 ,_, the_AT lock_NN1 manager_NN1 process_NN1 has_VHZ to_TO be_VBI created_VVN before_II the_AT first_MD PVM_NP1 function_NN1 call_NN1 ._. 
+</s>
+<s>
+Then_RT ,_, the_AT child_NN1 and_CC the_AT parent_NN1 will_VM have_VHI different_JJ task_NN1 id_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT parent_NN1 process_NN1 has_VHZ to_TO know_VVI the_AT lock_NN1 manager_NN1 task_NN1 id_NN1 for_IF several_DA2 reasons_NN2 ._. 
+</s>
+<s>
+So_RR this_DD1 communication_NN1 is_VBZ done_VDN via_II a_AT1 pipe_NN1 between_II the_AT parent_NN1 and_CC the_AT child_NN1 process_NN1 ._. 
+</s>
+<s>
+The_AT root_NN1 server_NN1 runs_VVZ on_II the_AT node_NN1 Beowulf4_FO and_CC has_VHZ to_TO launch_VVI the_AT two_MC others_NN2 servers_NN2 via_II PVM_NP1 on_II two_MC others_NN2 machines_NN2 (_( the_AT chosen_JJ nodes_NN2 are_VBR Beowulf2_FO and_CC Beowulf6_FO )_) ._. 
+</s>
+<s>
+Below_RL is_VBZ a_AT1 schema_NN1 which_DDQ explain_VV0 the_AT architecture_NN1 of_IO the_AT three_MC servers_NN2 ,_, ._. 
+</s>
+<s>
+The_AT root_NN1 server_NN1 file_NN1 and_CC the_AT server_NN1 file_NN1 is_VBZ the_AT same_DA ._. 
+</s>
+<s>
+When_CS the_AT root_NN1 server_NN1 spawn_VV0 the_AT two_MC others_NN2 ,_, it_PPH1 will_VM add_VVI an_AT1 argument_NN1 called_VVN "_" noroot_NN1 "_" in_BCL21 order_BCL22 to_TO inform_VVI the_AT new_JJ process_NN1 (_( Server1_FO and_CC Server2_FO )_) that_CST they_PPHS2 are_VBR not_XX root_NN1 ,_, only_RR simple_JJ server_NN1 ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, each_DD1 server_NN1 has_VHZ to_TO know_VVI the_AT TID_NN1 of_IO each_DD1 others_NN2 in_BCL21 order_BCL22 to_TO communicate_VVI together_RL ._. 
+</s>
+<s>
+So_RR ,_, after_II spawning_VVG the_AT server_NN1 ,_, each_DD1 server_NN1 calls_VVZ a_AT1 synchronisation_NN1 function_NN1 which_DDQ the_AT aim_NN1 is_VBZ to_TO send_VVI some_DD information_NN1 from_II the_AT root_NN1 server_NN1 to_II the_AT others_NN2 servers_NN2 ._. 
+</s>
+<s>
+Then_RT the_AT servers_NN2 TIDs_NN2 are_VBR sent_VVN as_II31 well_II32 as_II33 the_AT LockManager_NP1 TID_NP1 ._. 
+</s>
+<s>
+Hence_RR ,_, each_DD1 server_NN1 knows_VVZ the_AT TID_NN1 of_IO each_DD1 others_NN2 and_CC the_AT LockManager_NP1 TID_NP1 ,_, so_CS they_PPHS2 are_VBR able_JK to_TO communicate_VVI together_RL ._. 
+</s>
+<s>
+Server_NN1 source_NN1 file_NN1 is_VBZ Server.c_NP1 ._. 
+</s>
+<s>
+The_AT bidders_NN2 can_VM do_VDI five_MC different_JJ things_NN2 ._. 
+</s>
+<s>
+First_MD of_IO all_DB ,_, they_PPHS2 can_VM register_VVI with_IW the_AT server_NN1 (_( any_DD server_NN1 )_) ._. 
+</s>
+<s>
+Then_RT can_VM also_RR see_VVI every_AT1 auction_NN1 contained_VVN in_II the_AT server_NN1 ,_, they_PPHS2 can_VM bind_VVI for_IF an_AT1 auction_NN1 ,_, show_VV0 the_AT auction_NN1 which_DDQ they_PPHS2 have_VH0 won_VVN and_CC can_VM see_VVI the_AT current_JJ time_NNT1 (_( on_II the_AT server_NN1 )_) ._. 
+</s>
+<s>
+Before_RT communicate_VV0 with_IW the_AT server_NN1 ,_, the_AT bidder_NN1 has_VHZ to_TO connect_VVI with_IW one_MC1 of_IO the_AT server_NN1 (_( a_AT1 server_NN1 which_DDQ is_VBZ available_JJ )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ done_VDN in_II 2_MC steps_NN2 ._. 
+</s>
+<s>
+First_MD of_IO all_DB the_AT bidder_NN1 send_VV0 a_AT1 connection_NN1 request_NN1 through_II a_AT1 socket_NN1 to_II the_AT root_NN1 server_NN1 (_( which_DDQ IP_VV0 address_NN1 is_VBZ determined_VVN :_: 10.0.1.4_MC )_) ._. 
+</s>
+<s>
+This_DD1 socket_NN1 request_NN1 is_VBZ treated_VVN by_II the_AT child_NN1 process_NN1 which_DDQ is_VBZ called_VVN ListenOutside_NP1 (_( in_II the_AT schema_NN1 above_RL )_) ._. 
+</s>
+<s>
+The_AT function_NN1 name_NN1 is_VBZ AcceptConnectionFromOutside_NN1 in_II the_AT root_NN1 server_NN1 (_( function_NN1 called_VVN by_II the_AT child_NN1 process_NN1 )_) ._. 
+</s>
+<s>
+Then_RT every_AT1 server_NN1 TID_NN1 are_VBR sent_VVN to_II the_AT bidder_NN1 and_CC then_RT the_AT socket_NN1 connection_NN1 closes_VVZ ._. 
+</s>
+<s>
+Knowing_VVG the_AT TIDs_NP2 ,_, the_AT bidder_NN1 is_VBZ able_JK to_TO communicate_VVI with_IW the_AT server_NN1 using_VVG PVM_NP1 ._. 
+</s>
+<s>
+Afterward_RL the_AT bidder_NN1 has_VHZ to_TO find_VVI an_AT1 available_JJ server_NN1 ._. 
+</s>
+<s>
+When_CS this_DD1 server_NN1 in_II found_VVD ,_, the_AT bidder_NN1 is_VBZ able_JK to_TO communicate_VVI with_IW only_RR this_DD1 server_NN1 ._. 
+</s>
+<s>
+More_DAR details_NN2 about_II the_AT connection_NN1 and_CC message_NN1 passing_NN1 are_VBR written_VVN in_II another_DD1 part_NN1 below_RL (_( section_NN1 3_MC ._. )_) ._. 
+</s>
+<s>
+Bidder_NN1 and_CC seller_NN1 architecture_NN1 are_VBR very_RG similar_JJ ._. 
+</s>
+<s>
+The_AT communication_NN1 with_IW the_AT server_NN1 is_VBZ the_AT same_DA (_( connection_NN1 ,_, then_RT find_VV0 an_AT1 available_JJ server_NN1 ,_, then_RT communicate_VV0 with_IW this_DD1 server_NN1 )_) ._. 
+</s>
+<s>
+However_RR ,_, a_AT1 seller_NN1 can_VM do_VDI only_RR 3_MC things_NN2 :_: register_VV0 with_IW the_AT server_NN1 ,_, add_VV0 an_AT1 auction_NN1 and_CC see_VV0 the_AT result_NN1 of_IO its_APPGE auctions_NN2 ._. 
+</s>
+<s>
+A_AT1 file_NN1 which_DDQ is_VBZ called_VVN "_" structure.h_NNU "_" defines_VVZ the_AT data_NN structure_NN1 ._. 
+</s>
+<s>
+These_DD2 structures_NN2 are_VBR used_VVN to_TO store_VVI a_AT1 seller_NN1 ,_, a_AT1 bidder_NN1 and_CC an_AT1 auction_NN1 ._. 
+</s>
+<s>
+Here_RL is_VBZ the_AT structure_NN1 which_DDQ defines_VVZ an_AT1 auction_NN1 ,_, ._. 
+</s>
+<s>
+Here_RL is_VBZ the_AT structure_NN1 which_DDQ defines_VVZ a_AT1 seller_NN1 ,_, ._. 
+</s>
+<s>
+Here_RL is_VBZ the_AT structure_NN1 which_DDQ defines_VVZ a_AT1 bidder_NN1 ,_, ._. 
+</s>
+<s>
+A_AT1 list_NN1 of_IO each_DD1 of_IO these_DD2 structures_NN2 is_VBZ defined_VVN in_II the_AT server_NN1 file_NN1 ._. 
+</s>
+<s>
+These_DD2 lists_NN2 have_VH0 to_TO be_VBI always_RR the_AT same_DA on_II the_AT three_MC servers_NN2 !_! 
+</s>
+<s>
+Indeed_RR ,_, for_REX21 example_REX22 ,_, if_CS a_AT1 server_NN1 treated_VVN a_AT1 new_JJ seller_NN1 ,_, it_PPH1 has_VHZ to_TO inform_VVI the_AT two_MC other_JJ servers_NN2 that_CST a_AT1 new_JJ seller_NN1 is_VBZ created_VVN ._. 
+</s>
+<s>
+Furthermore_RR ,_, a_AT1 mutual_JJ exclusion_NN1 on_II each_DD1 of_IO these_DD2 lists_NN2 has_VHZ to_TO be_VBI managed_VVN ._. 
+</s>
+<s>
+So_RR ,_, a_AT1 LockManager_NN1 is_VBZ created_VVN and_CC manages_VVZ it_PPH1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ explain_VV0 below_RL ,_, in_II another_DD1 part_NN1 ._. 
+</s>
+<s>
+When_CS the_AT server_NN1 is_VBZ ready_JJ ,_, it_PPH1 calls_VVZ a_AT1 function_NN1 which_DDQ has_VHZ to_TO receive_VVI an_AT1 instruction_NN1 (_( from_II another_DD1 server_NN1 or_CC bidder_NN1 or_CC seller_NN1 )_) which_DDQ is_VBZ sent_VVN via_II PVM_NP1 with_IW the_AT tag_NN1 number_NN1 1_MC1 ._. 
+</s>
+<s>
+Indeed_RR ,_, as_CSA we_PPIS2 will_VM see_VVI in_II all_DB this_DD1 report_NN1 ,_, when_CS a_AT1 PVM_NP1 message_NN1 is_VBZ sent_VVN ,_, a_AT1 tag_NN1 is_VBZ used_VVN in_BCL21 order_BCL22 to_TO make_VVI clear_JJ the_AT reception_NN1 buffer_NN1 ._. 
+</s>
+<s>
+So_RR when_CS a_AT1 process_NN1 waits_VVZ for_IF a_AT1 message_NN1 ,_, it_PPH1 waits_VVZ for_IF a_AT1 message_NN1 which_DDQ is_VBZ tagged_VVN by_II a_AT1 special_JJ number_NN1 ._. 
+</s>
+<s>
+This_DD1 number_NN1 is_VBZ very_RG useful_JJ to_TO know_VVI what_DDQ we_PPIS2 have_VH0 to_TO do_VDI with_IW this_DD1 message_NN1 ._. 
+</s>
+<s>
+So_RR ,_, the_AT server_NN1 waits_VVZ for_IF a_AT1 message_NN1 which_DDQ is_VBZ tagged_VVN by_II the_AT number_NN1 1_MC1 ._. 
+</s>
+<s>
+This_DD1 message_NN1 is_VBZ an_AT1 instruction_NN1 ._. 
+</s>
+<s>
+When_CS a_AT1 message_NN1 tagged_VVN by_II 1_MC1 is_VBZ received_VVN ,_, the_AT server_NN1 treats_VVZ it_PPH1 ._. 
+</s>
+<s>
+Here_RL is_VBZ the_AT list_NN1 of_IO all_DB the_AT instruction_NN1 which_DDQ can_VM be_VBI treated_VVN by_II the_AT server_NN1 :_: Some_DD of_IO these_DD2 instructions_NN2 are_VBR detailed_VVN in_II this_DD1 report_NN1 ._. 
+</s>
+<s>
+So_RR ,_, each_DD1 time_NNT1 the_AT server_NN1 receives_VVZ one_MC1 of_IO these_DD2 instructions_NN2 ,_, it_PPH1 will_VM treat_VVI it_PPH1 by_II following_VVG is_VBZ protocol_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 said_VVD above_RL ,_, the_AT clock_NN1 synchronisation_NN1 is_VBZ managed_VVN by_II a_AT1 child_NN1 process_NN1 which_DDQ knows_VVZ the_AT TIDs_NN2 of_IO every_AT1 server_NN1 (_( except_CS its_APPGE parent_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 process_NN1 synchronises_VVZ the_AT server_NN1 clock_NN1 by_II sending_VVG a_AT1 PVM_NP1 message_NN1 to_II every_AT1 server_NN1 except_II its_APPGE parents_NN2 ._. 
+</s>
+<s>
+Indeed_RR ,_, synchronise_VV0 its_APPGE parent_NN1 is_VBZ not_XX necessary_JJ because_CS they_PPHS2 runs_VVZ on_II the_AT same_DA machine_NN1 ,_, so_CS the_AT current_JJ time_NNT1 is_VBZ the_AT same_DA ._. 
+</s>
+<s>
+The_AT delay_NN1 between_II every_AT1 clock_NN1 synchronisation_NN1 is_VBZ defined_VVN by_II #define_FO CLOCKSYNCTIMESET_VV0 10_MC ._. 
+</s>
+<s>
+This_DD1 is_VBZ in_II second_NNT1 ._. 
+</s>
+<s>
+Here_RL ,_, it_PPH1 is_VBZ 10_MC second_NNT1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 know_VV0 ,_, an_AT1 auction_NN1 has_VHZ to_TO be_VBI terminated_VVN after_II a_AT1 time_NNT1 which_DDQ is_VBZ determined_VVN by_II the_AT seller_NN1 (_( which_DDQ starts_VVZ the_AT auction_NN1 )_) ._. 
+</s>
+<s>
+Hence_RR ,_, each_DD1 auction_NN1 's_GE duration_NN1 has_VHZ to_TO be_VBI checked_VVN every_AT1 CLOCKSYNCTIMESET_NN1 seconds_NNT2 ._. 
+</s>
+<s>
+So_RR ,_, one_MC1 of_IO the_AT server_NN1 has_VHZ to_TO do_VDI that_DD1 when_CS it_PPH1 receives_VVZ the_AT clock_NN1 synchronisation_NN1 ._. 
+</s>
+<s>
+If_CS an_AT1 auction_NN1 is_VBZ finished_VVN ,_, it_PPH1 has_VHZ to_TO close_VVI it_PPH1 ._. 
+</s>
+<s>
+Below_RL is_VBZ the_AT clock_NN1 synchronisation_NN1 sequence_NN1 diagram_NN1 which_DDQ explains_VVZ how_RRQ it_PPH1 works_VVZ ,_, ._. 
+</s>
+<s>
+So_RR ,_, the_AT two_MC others_NN2 servers_NN2 receive_VV0 the_AT current_JJ time_NNT1 then_RT save_VV0 it_PPH1 in_II a_AT1 global_JJ variable_NN1 and_CC one_MC1 of_IO the_AT servers_NN2 receives_VVZ an_AT1 instruction_NN1 in_BCL21 order_BCL22 to_TO update_VVI each_DD1 auction_NN1 's_GE duration_NN1 ._. 
+</s>
+<s>
+This_DD1 update_NN1 decreases_VVZ the_AT auction_NN1 's_GE duration_NN1 (_( -1_MC )_) ._. 
+</s>
+<s>
+So_RR ,_, when_CS a_AT1 seller_NN1 define_VV0 the_AT duration_NN1 of_IO a_AT1 new_JJ auction_NN1 ,_, he_PPHS1 will_VM enter_VVI a_AT1 number_NN1 which_DDQ is_VBZ the_AT number_NN1 of_IO minutes_NNT2 (_( in_II the_AT real_JJ life_NN1 ,_, CLOCKSYNCTIMESET_NP1 would_VM be_VBI equal_JJ to_II 60_MC )_) and_CC so_RR ,_, every_AT1 minutes_NNT2 ,_, the_AT duration_NN1 is_VBZ decreased_VVN ._. 
+</s>
+<s>
+However_RR ,_, in_BCL21 order_BCL22 to_TO test_VVI the_AT program_NN1 ,_, CLOCKSYNCTIMESET_NP1 is_VBZ equal_JJ to_II 10_MC ._. 
+</s>
+<s>
+As_CSA we_PPIS2 said_VVD above_RL ,_, each_DD1 data_NN list_NN1 (_( seller_NN1 ,_, bidder_NN1 and_CC auction_NN1 )_) has_VHZ to_TO be_VBI the_AT same_DA on_II each_DD1 server_NN1 ._. 
+</s>
+<s>
+So_RR ,_, after_CS a_AT1 server_NN1 has_VHZ modified_VVN one_MC1 of_IO these_DD2 lists_NN2 ,_, it_PPH1 has_VHZ to_TO inform_VVI the_AT others_NN2 servers_NN2 ._. 
+</s>
+<s>
+Furthermore_RR ,_, in_BCL21 order_BCL22 to_TO stay_VVI coherent_JJ ,_, a_AT1 list_NN1 can_VM be_VBI accessed_VVN by_II ONLY_RR ONE_MC1 server_NN1 in_II the_AT same_DA time_NNT1 ._. 
+</s>
+<s>
+Indeed_RR ,_, if_CS a_AT1 server_NN1 modifies_VVZ a_AT1 list_NN1 and_CC another_DD1 server_NN1 modifies_VVZ the_AT same_DA list_NN1 in_II the_AT same_DA time_NNT1 ,_, they_PPHS2 will_VM inform_VVI each_PPX221 other_PPX222 but_CCB one_MC1 of_IO the_AT information_NN1 will_VM be_VBI lost_VVN ._. 
+</s>
+<s>
+So_RR ,_, a_AT1 mutual_JJ exclusion_NN1 has_VHZ to_TO be_VBI defined_VVN ._. 
+</s>
+<s>
+Hence_RR ,_, a_AT1 LockManager_NN1 manages_VVZ it_PPH1 ._. 
+</s>
+<s>
+Every_AT1 time_NNT1 a_AT1 server_NN1 wants_VVZ to_TO access_VVI to_II a_AT1 resource_NN1 (_( one_MC1 of_IO the_AT three_MC lists_NN2 :_: seller_NN1 ,_, bidder_NN1 and_CC auction_NN1 )_) ,_, it_PPH1 has_VHZ to_TO ask_VVI to_II the_AT LockManager_NN1 if_CS it_PPH1 is_VBZ allowed_VVN to_TO access_VVI to_II this_DD1 resource_NN1 ._. 
+</s>
+<s>
+Then_RT if_CS that_DD1 is_VBZ the_AT case_NN1 ,_, when_CS the_AT server_NN1 has_VHZ finished_VVN with_IW this_DD1 resource_NN1 ,_, it_PPH1 has_VHZ to_TO inform_VVI the_AT LockManager_NN1 in_BCL21 order_BCL22 to_TO free_VVI this_DD1 resource_NN1 and_CC then_RT ,_, the_AT server_NN1 inform_VV0 the_AT others_NN2 servers_NN2 in_BCL21 order_BCL22 to_TO synchronise_VVI the_AT list_NN1 data_NN ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, a_AT1 resource_NN1 access_NN1 looks_VVZ like_II below_RL ,_, ._. 
+</s>
+<s>
+When_CS mutexenter_NN1 is_VBZ called_VVN ,_, the_AT lock_NN1 manager_NN1 is_VBZ informed_VVN that_CST a_AT1 server_NN1 wants_VVZ to_TO access_VVI to_II a_AT1 resource_NN1 ._. 
+</s>
+<s>
+If_CS this_DD1 resource_NN1 is_VBZ free_JJ then_RT the_AT server_NN1 can_VM use_VVI it_PPH1 ._. 
+</s>
+<s>
+Otherwise_RR ,_, the_AT server_NN1 is_VBZ blocked_VVN and_CC waits_VVZ for_IF the_AT release_NN1 of_IO this_DD1 resource_NN1 ._. 
+</s>
+<s>
+Actually_RR ,_, the_AT server_NN1 waits_VVZ for_IF a_AT1 synchronisation_NN1 ._. 
+</s>
+<s>
+Indeed_RR ,_, if_CS the_AT resource_NN1 is_VBZ not_XX free_JJ ,_, that_DD1 means_VVZ a_AT1 second_MD server_NN1 is_VBZ using_VVG it_PPH1 ._. 
+</s>
+<s>
+So_RR ,_, this_DD1 second_NNT1 server_NN1 will_VM free_VVI it_PPH1 and_CC then_RT a_AT1 synchronisation_NN1 will_VM be_VBI done_VDN ._. 
+</s>
+<s>
+Afterward_RL ,_, the_AT server_NN1 will_VM ask_VVI again_RT to_II the_AT LockManager_NN1 if_CS the_AT resource_NN1 is_VBZ free_JJ and_CC the_AT answer_NN1 would_VM be_VBI positive_JJ ._. 
+</s>
+<s>
+If_CS two_MC servers_NN2 want_VV0 to_TO access_VVI in_II the_AT same_DA resource_NN1 which_DDQ is_VBZ not_XX free_JJ then_RT they_PPHS2 will_VM be_VBI blocked_VVN and_CC they_PPHS2 will_VM wait_VVI for_IF the_AT data_NN synchronisation_NN1 ._. 
+</s>
+<s>
+Afterward_RL ,_, they_PPHS2 will_VM ask_VVI to_II the_AT LockManager_NN1 if_CS the_AT resource_NN1 is_VBZ free_JJ ,_, but_CCB only_RR one_MC1 server_NN1 (_( the_AT first_MD one_PN1 ,_, this_DD1 is_VBZ determined_VVN by_II chance_NN1 )_) would_VM be_VBI able_JK to_TO use_VVI it_PPH1 ._. 
+</s>
+<s>
+The_AT other_JJ one_PN1 will_VM be_VBI blocked_VVN again_RT until_CS the_AT next_MD data_NN synchronisation_NN1 ._. 
+</s>
+<s>
+The_AT sequence_NN1 diagram_NN1 below_RL explain_VV0 the_AT case_NN1 where_CS the_AT resource_NN1 is_VBZ available_JJ ._. 
+</s>
+<s>
+On_II this_DD1 diagram_NN1 ,_, the_AT resource_NN1 needed_VVN is_VBZ called_VVN "_" this_DD1 resource_NN1 "_" ,_, ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 n't_XX draw_VVI the_AT sequence_NN1 diagram_NN1 for_IF the_AT case_NN1 where_CS the_AT resource_NN1 is_VBZ not_XX available_JJ ,_, but_CCB it_PPH1 's_VBZ a_RR21 bit_RR22 similar_JJ and_CC we_PPIS2 can_VM guess_VVI it_PPH1 easily_RR ._. 
+</s>
+<s>
+So_RR ,_, the_AT mutual_JJ is_VBZ done_VDN by_II three_MC functions_NN2 :_: LockManager_NP1 (_( a_AT1 child_NN1 process_NN1 manages_VVZ it_PPH1 )_) ,_, mutexenter_NN1 and_CC mutexexit_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO understand_VVI how_RRQ mutexenter_NN1 and_CC mutexexit_VVI work_NN1 ,_, below_RL is_VBZ the_AT code_NN1 (_( not_XX all_DB the_AT code_NN1 ,_, only_RR the_AT pseudo_JJ code_NN1 )_) ,_, ._. 
+</s>
+<s>
+Hence_RR ,_, each_DD1 resource_NN1 is_VBZ accessed_VVN by_II only_RR one_MC1 server_NN1 in_II the_AT same_DA time_NNT1 and_CC when_CS a_AT1 resource_NN1 is_VBZ modified_VVN by_II a_AT1 server_NN1 ,_, the_AT others_NN2 are_VBR informed_VVN about_II it_PPH1 before_RT to_TO use_VVI it_PPH1 themselves_PPX2 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 have_VH0 explained_VVN above_RL ,_, the_AT seller_NN1 or_CC bidder_NN1 send_VV0 a_AT1 connection_NN1 request_NN1 (_( via_II a_AT1 socket_NN1 )_) and_CC then_RT receives_VVZ the_AT TIDs_NN2 of_IO every_AT1 server_NN1 ._. 
+</s>
+<s>
+Afterward_RL ,_, it_PPH1 has_VHZ to_TO find_VVI an_AT1 available_JJ server_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO manage_VVI it_PPH1 ,_, the_AT bidder/seller_NN1 sends_VVZ an_AT1 instruction_NN1 which_DDQ is_VBZ called_VVN "_" areyouavble_NN1 "_" to_II the_AT first_MD server_NN1 ._. 
+</s>
+<s>
+This_DD1 instruction_NN1 means_NN "_" Are_VBR you_PPY available_JJ "_" ?_? ._. 
+</s>
+<s>
+If_CS the_AT server_NN1 is_VBZ available_JJ ,_, that_DD1 means_VVZ it_PPH1 can_VM receive_VVI this_DD1 instruction_NN1 and_CC so_RR ,_, can_VM answer_VVI ._. 
+</s>
+<s>
+Hence_RR ,_, if_CS the_AT seller/bidder_NN1 receives_VVZ an_AT1 answer_NN1 from_II this_DD1 server_NN1 ,_, then_RT this_DD1 server_NN1 is_VBZ available_JJ and_CC then_RT the_AT seller/bidder_NN1 will_VM communicate_VVI with_IW this_DD1 one_PN1 ._. 
+</s>
+<s>
+If_CS the_AT server_NN1 is_VBZ not_XX available_JJ ,_, then_RT it_PPH1 wo_FU n't_XX answer_NN1 and_CC after_II 1_MC1 second_NNT1 ,_, the_AT seller/bidder_NN1 will_VM send_VVI the_AT same_DA request_NN1 to_II another_DD1 server_NN1 ,_, because_CS that_DD1 means_VVZ the_AT first_MD one_PN1 is_VBZ not_XX available_JJ ._. 
+</s>
+<s>
+If_CS the_AT second_MD server_NN1 is_VBZ not_XX available_JJ ,_, the_AT seller/bidder_NN1 will_VM ask_VVI to_II the_AT last_MD one_PN1 ._. 
+</s>
+<s>
+If_CS the_AT three_MC are_VBR not_XX available_JJ ,_, then_RT the_AT seller/bidder_NN1 informs_VVZ the_AT user_NN1 ._. 
+</s>
+<s>
+So_RR ,_, if_CS a_AT1 response_NN1 is_VBZ not_XX received_VVN from_II a_AT1 server_NN1 after_II 1_MC1 second_NNT1 that_CST means_VVZ the_AT server_NN1 is_VBZ not_XX available_JJ and_CC we_PPIS2 have_VH0 to_TO try_VVI with_IW another_DD1 server_NN1 ._. 
+</s>
+<s>
+The_AT instruction_NN1 "_" areyouavble_NN1 "_" is_VBZ send_VV0 with_IW the_AT tag_NN1 1_MC1 (_( we_PPIS2 explained_VVD above_II the_AT reason_NN1 )_) ._. 
+</s>
+<s>
+The_AT schema_NN1 below_RL explains_VVZ this_DD1 process_NN1 to_TO find_VVI an_AT1 available_JJ server_NN1 ,_, ._. 
+</s>
+<s>
+The_AT bidder/seller_NN1 need_NN1 to_TO communicate_VVI with_IW the_AT server_NN1 in_BCL21 order_BCL22 to_TO have_VHI or_CC send_VVI some_DD information_NN1 (_( for_REX21 example_REX22 ,_, new_JJ bidder_NN1 ,_, new_JJ seller_NN1 etc_RA ..._... )_) ._. 
+</s>
+<s>
+Here_RL are_VBR explained_VVN some_DD of_IO possible_JJ communication_NN1 ._. 
+</s>
+<s>
+New_JJ Bidder_NN1 :_: Here_RL is_VBZ the_AT sequence_NN1 diagram_NN1 useful_JJ for_IF the_AT creation_NN1 of_IO a_AT1 new_JJ bidder_NN1 ._. 
+</s>
+<s>
+This_DD1 sequence_NN1 diagram_NN1 is_VBZ the_AT same_DA for_IF the_AT creation_NN1 of_IO a_AT1 new_JJ seller_NN1 ._. 
+</s>
+<s>
+However_RR ,_, the_AT tag_NN1 message_NN1 used_VVN for_IF the_AT bidder_NN1 is_VBZ the_AT number_NN1 18_MC (_( use_VV0 for_IF every_AT1 transaction_NN1 used_VMK to_TO create_VVI a_AT1 bidder_NN1 )_) and_CC the_AT number_NN1 used_VVN for_IF the_AT seller_NN1 is_VBZ 16_MC (_( for_IF all_DB the_AT transaction_NN1 used_VMK to_TO create_VVI a_AT1 seller_NN1 )_) ._. 
+</s>
+<s>
+In_II this_DD1 diagram_NN1 sequence_NN1 ,_, we_PPIS2 can_VM see_VVI the_AT User_NN1 ._. 
+</s>
+<s>
+We_PPIS2 show_VV0 it_PPH1 only_RR in_II this_DD1 sequence_NN1 diagram_NN1 because_CS it_PPH1 is_VBZ not_XX very_RG important_JJ for_IF the_AT explanation_NN1 ,_, ._. 
+</s>
+<s>
+Bid_VV0 for_IF an_AT1 auction_NN1 :_: Here_RL is_VBZ the_AT diagram_NN1 used_VVN when_CS a_AT1 bidder_NN1 wants_VVZ to_TO bid_VVI for_IF an_AT1 auction_NN1 ,_, ._. 
+</s>
+<s>
+Add_VV0 and_CC start_VV0 an_AT1 auction_NN1 (_( a_AT1 seller_NN1 do_VD0 that_DD1 )_) :_: Here_RL is_VBZ the_AT diagram_NN1 sequence_NN1 used_VVN when_CS a_AT1 seller_NN1 wants_VVZ to_TO add_VVI and_CC start_VVI a_AT1 new_JJ auction_NN1 ,_, (_( please_RR see_VV0 next_MD page_NN1 )_) ._. 
+</s>
+<s>
+In_II these_DD2 diagrams_NN2 ,_, we_PPIS2 can_VM see_VVI some_DD intern_NN1 action_NN1 like_II "_" Add_VV0 auction_NN1 "_" ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, these_DD2 intern_VV0 actions_NN2 are_VBR complexes_NN2 ._. 
+</s>
+<s>
+They_PPHS2 use_VV0 the_AT mutual_JJ exclusion_NN1 to_TO access_VVI to_II the_AT different_JJ data_NN ,_, synchronise_VV0 the_AT data_NN list_NN1 with_IW the_AT others_NN2 servers_NN2 etc_RA ..._... 
+</s>
+<s>
+The_AT others_NN2 sequence_NN1 diagrams_NN2 (_( show_VV0 auctions_NN2 ,_, show_VV0 time_NNT1 etc_RA ..._... )_) are_VBR not_XX shown_VVN here_RL ._. 
+</s>
+<s>
+This_DD1 program_NN1 does_VDZ n't_XX manage_VVI the_AT case_NN1 where_CS a_AT1 server_NN1 dies_VVZ ._. 
+</s>
+<s>
+Indeed_RR ,_, if_CS a_AT1 server_NN1 dies_VVZ ,_, the_AT system_NN1 still_RR works_VVZ (_( with_IW only_RR 2_MC servers_NN2 )_) but_CCB the_AT dead_JJ server_NN1 does_VDZ n't_XX become_VVI alive_JJ again_RT ._. 
+</s>
+<s>
+If_CS the_AT root_NN1 server_NN1 dies_VVZ ,_, the_AT child_NN1 process_NN1 (_( clock_NN1 synchronisation_NN1 and_CC accept_VV0 connection_NN1 from_II outside_RL )_) would_VM still_RR work_VVI ,_, so_CS the_AT root_NN1 server_NN1 dead_JJ is_VBZ not_XX a_AT1 problem_NN1 ._. 
+</s>
+<s>
+However_RR ,_, if_CS one_MC1 of_IO the_AT two_MC other_JJ server_NN1 (_( the_AT second_MD one_PN1 ,_, on_II Beowulf6_FO )_) dies_VVZ ,_, the_AT system_NN1 ca_VM n't_XX work_VVI again_RT because_CS this_DD1 server_NN1 has_VHZ to_TO manage_VVI the_AT auction_NN1 's_GE duration_NN1 (_( see_VV0 above_RL )_) ._. 
+</s>
+<s>
+So_RR ,_, I_PPIS1 think_VV0 the_AT system_NN1 depends_VVZ to_II much_RR on_II the_AT reliability_NN1 of_IO the_AT server_NN1 ._. 
+</s>
+<s>
+If_CS one_PN1 dies_VVZ ,_, some_DD problem_NN1 can_VM occur_VVI and_CC if_CS the_AT one_PN1 on_II Beowulf6_FO dies_VVZ ,_, the_AT system_NN1 dies_VVZ as_RR21 well_RR22 ._. 
+</s>
+<s>
+So_RR ,_, that_DD1 's_VBZ a_AT1 problem_NN1 in_II this_DD1 program_NN1 ._. 
+</s>
+<s>
+A_AT1 real_JJ world_NN1 system_NN1 like_II ebay.com_NNU can_VM stay_VVI alive_JJ if_CS one_MC1 of_IO the_AT servers_NN2 dies_VVZ ._. 
+</s>
+<s>
+Furthermore_RR ,_, in_RR21 general_RR22 ,_, more_DAR than_CSN 3_MC servers_NN2 are_VBR available_JJ in_II a_AT1 real_JJ system_NN1 ._. 
+</s>

@@ -1,0 +1,240 @@
+<s>
+This_DD1 report_NN1 details_NN2 the_AT modelling_NN1 of_IO experimental_JJ data_NN obtained_VVD relating_VVG to_II the_AT characteristics_NN2 of_IO road_NN1 tyres_NN2 ._. 
+</s>
+<s>
+The_AT aim_NN1 being_VBG to_TO model_VVI data_NN describing_VVG both_DB2 the_AT longitudinal_JJ and_CC lateral_JJ force_NN1 characteristics_NN2 of_IO a_AT1 road_NN1 tyre_NN1 and_CC then_RT to_TO evaluate_VVI the_AT linear_JJ and_CC non_FU linear_JJ models_NN2 used_VMK to_TO analyse_VVI the_AT data_NN ._. 
+</s>
+<s>
+._. A_ZZ1 mathematical_JJ computation_NN1 tool_NN1 called_VVN MATLAB_NP1 was_VBDZ used_VVN throughout_RL ,_, and_CC to_TO achieve_VVI this_DD1 process_NN1 ._. 
+</s>
+<s>
+An_AT1 intuitive_JJ program_NN1 and_CC language_NN1 developed_VVN for_IF complex_JJ visualisations_NN2 and_CC analysis_NN1 for_IF engineers_NN2 ,_, mathematicians_NN2 and_CC physicists_NN2 ;_; it_PPH1 provides_VVZ 'core_NN1 mathematics_NN1 and_CC advanced_JJ graphical_JJ tools_NN2 for_IF data_NN analysis_NN1 ,_, visualization_NN1 ,_, and_CC algorithm_NN1 and_CC application_NN1 development_NN1 ._. '_GE ._. 
+</s>
+<s>
+The_AT Math_NN1 Works_VVZ ,_, Inc_JJ .._... 
+</s>
+<s>
+The_AT experimental_JJ data_NN from_II the_AT was_VBDZ modelled_VVN using_VVG two_MC models_NN2 ;_; A_ZZ1 linear_JJ and_CC a_AT1 non-linear_JJ model_NN1 ,_, for_IF both_DB2 the_AT lateral_JJ and_CC longitudinal_JJ forces_NN2 was_VBDZ used_VVN ._. 
+</s>
+<s>
+These_DD2 models_NN2 ,_, detailed_VVN in_II the_AT appendices_NN2 ,_, were_VBDR applied_VVN to_II the_AT data_NN and_CC visualisations_NN2 produced_VVD using_VVG MATLAB_NP1 ,_, the_AT resulting_JJ plots_NN2 evaluated_VVN against_II the_AT original_JJ plots_NN2 ,_, and_CC against_II each_PPX221 other_PPX222 to_TO determine_VVI their_APPGE usefulness_NN1 and_CC any_DD range_NN1 for_IF which_DDQ these_DD2 models_NN2 could_VM approximate_VVI the_AT initial_JJ data_NN ._. 
+</s>
+<s>
+When_CS the_AT linear_JJ models_NN2 were_VBDR applied_VVN to_II the_AT data_NN ,_, they_PPHS2 appeared_VVD to_TO give_VVI an_AT1 accurate_JJ representation_NN1 of_IO the_AT data_NN over_II a_AT1 small_JJ initial_JJ range_NN1 ,_, up_II21 to_II22 and_CC including_II a_AT1 slip_NN1 angle_NN1 of_IO 2.5_MC degrees_NN2 and_CC slip_VV0 ratio_NN1 equal_JJ to_II 0.03_MC (_( giving_VVG less_DAR than_CSN +/-_FU 5%_NNU deviation_NN1 )_) ._. 
+</s>
+<s>
+Above_II these_DD2 values_NN2 ,_, the_AT model_NN1 ceases_VVZ to_TO provide_VVI a_AT1 suitable_JJ model_NN1 for_IF the_AT data_NN ,_, and_CC fails_VVZ to_TO make_VVI sensible_JJ predictions_NN2 for_IF the_AT data_NN ,_, as_CSA the_AT linear_JJ model_NN1 calculated_VVD values_NN2 of_IO the_AT applied_JJ forces_NN2 progressively_RR deviate_VV0 from_II the_AT raw_JJ data_NN values_NN2 for_IF these_DD2 forces_NN2 ._. 
+</s>
+<s>
+._. The_AT non-linear_JJ models_NN2 were_VBDR later_RRR applied_VVN ,_, which_DDQ resulted_VVD in_II the_AT forces_NN2 being_VBG more_RGR accurately_RR predicted_VVN from_II the_AT model_NN1 at_II higher_JJR values_NN2 of_IO slip_NN1 angle_NN1 and_CC slip-ratio_NN1 ._. 
+</s>
+<s>
+A_AT1 good_JJ correlation_NN1 was_VBDZ observed_VVN and_CC accurate_JJ predictions_NN2 were_VBDR at_RR21 last_RR22 able_JK to_TO be_VBI drawn_VVN ,_, as_CSA these_DD2 models_NN2 took_VVD into_II account_NN1 the_AT gradual_JJ loss_NN1 of_IO adhesion_NN1 at_II the_AT road-tyre_JJ contact_NN1 patch_NN1 ._. 
+</s>
+<s>
+The_AT non-linear_JJ models_NN2 were_VBDR equal_JJ in_II accuracy_NN1 for_IF early_JJ values_NN2 as_II the_AT linear_JJ models_NN2 ;_; therefore_RR the_AT linear_JJ models_NN2 serve_VV0 no_AT purpose_NN1 excepting_VVG only_RR their_APPGE ease_NN1 of_IO application_NN1 ,_, made_VVD a_AT1 minor_JJ issue_NN1 with_IW MATLAB_NP1 's_GE powerful_JJ engine_NN1 ._. 
+</s>
+<s>
+The_AT investigation_NN1 was_VBDZ to_TO analyse_VVI and_CC model_VVI the_AT longitudinal_JJ and_CC lateral_JJ force_NN1 characteristics_NN2 of_IO a_AT1 road_NN1 tyre_NN1 using_VVG actual_JJ physical_JJ test_NN1 data_NN ._. 
+</s>
+<s>
+MATLAB_NP1 ,_, an_AT1 intuitive_JJ program_NN1 and_CC language_NN1 developed_VVN for_IF complex_JJ visualisations_NN2 and_CC analysis_NN1 for_IF engineers_NN2 ,_, mathematicians_NN2 and_CC physicists_NN2 ,_, was_VBDZ used_VVN for_IF this_DD1 task_NN1 ._. 
+</s>
+<s>
+The_AT MATLAB_NN1 programme_NN1 carries_VVZ out_RP complex_JJ calculations_NN2 and_CC data_NN analysis_NN1 ._. 
+</s>
+<s>
+The_AT output_NN1 is_VBZ used_VVN in_II turn_NN1 in_II the_AT advanced_JJ Graphical_JJ part_NN1 of_IO the_AT programme_NN1 package_NN1 to_TO provide_VVI a_AT1 visualisation_NN1 of_IO the_AT results_NN2 of_IO these_DD2 calculations_NN2 ._. 
+</s>
+<s>
+Thus_RR the_AT detailed_JJ analysis_NN1 and_CC visualisation_NN1 allows_VVZ conclusions_NN2 to_TO be_VBI drawn_VVN for_IF various_JJ data_NN inputs_NN2 and_CC different_JJ modelling_NN1 techniques_NN2 (_( such_II21 as_II22 linear_JJ or_CC non_FU linear_JJ models_NN2 )_) to_TO be_VBI evaluated_VVN ._. 
+</s>
+<s>
+This_DD1 ability_NN1 to_TO carry_VVI out_RP rapid_JJ and_CC complex_JJ computational_JJ analysis_NN1 allows_VVZ for_IF greatly_RR increased_JJ accuracy_NN1 resulting_VVG also_RR in_II reduced_JJ calculation_NN1 times_NNT2 with_IW the_AT result_NN1 that_CST less_DAR manpower_NN1 is_VBZ tied_VVN up_RP and_CC costs_NN2 are_VBR reduced_VVN ._. 
+</s>
+<s>
+A_AT1 linear_JJ and_CC a_AT1 non_FU linear_JJ model_NN1 were_VBDR designed_VVN and_CC MATLAB_NP1 used_VMK to_TO analyse_VVI both_DB2 the_AT longitudinal_JJ and_CC lateral_JJ force_NN1 data_NN for_IF each_DD1 model_NN1 ._. 
+</s>
+<s>
+Graphs_NN2 of_IO the_AT outputs_NN2 were_VBDR produced_VVN (_( see_VV0 Tables_NN2 and_CC Graphs_NN2 )_) ._. 
+</s>
+<s>
+The_AT appendices_NN2 A1_FO and_CC A2_FO detailed_VVN later_RRR contain_VV0 the_AT theory_NN1 behind_II linear_JJ regression_NN1 and_CC illustrate_VV0 the_AT forces_NN2 recorded_VVN on_II the_AT tyre_NN1 ._. 
+</s>
+<s>
+The_AT theory_NN1 in_II Appendix_NN1 1_MC1 shows_VVZ how_RRQ the_AT slip_NN1 angle_NN1 and_CC slip_VV0 ratios_NN2 are_VBR calculated_VVN from_II the_AT tyre_NN1 velocities_NN2 ._. 
+</s>
+<s>
+The_AT theory_NN1 of_IO linear_JJ regression_NN1 is_VBZ expounded_VVN simply_RR in_II Appendix_NN1 2_MC ._. 
+</s>
+<s>
+The_AT modelling_NN1 was_VBDZ carried_VVN out_RP using_VVG MATLAB_NN1 and_CC test_VV0 data_NN of_IO longitudinal_JJ and_CC lateral_JJ force_NN1 data_NN on_II road_NN1 tyres_NN2 ._. 
+</s>
+<s>
+Two_MC sets_NN2 of_IO calculations_NN2 (_( one_MC1 for_IF each_DD1 model_NN1 )_) were_VBDR carried_VVN out_RP ._. 
+</s>
+<s>
+The_AT initial_JJ data_NN contained_VVD slip_NN1 angle_NN1 readings_NN2 with_IW corresponding_JJ lateral_JJ force_NN1 readings_NN2 ,_, and_CC slip_VV0 ratio_NN1 readings_NN2 with_IW corresponding_JJ longitudinal_JJ force_NN1 readings_NN2 ._. 
+</s>
+<s>
+This_DD1 data_NN is_VBZ contained_VVN in_II Table#s_FO 1_MC1 and_CC 2_MC ,_, and_CC visualisations_NN2 of_IO these_DD2 can_VM be_VBI found_VVN on_II Graphs_NN2 1_MC1 and_CC 2_MC ._. 
+</s>
+<s>
+Graphs_NN2 1_MC1 and_CC 2_MC indicate_VV0 that_CST for_IF low_JJ values_NN2 ,_, the_AT relationship_NN1 between_II force_NN1 and_CC slip_VV0 angle/ratio_NN1 appears_VVZ quite_RG linear_JJ ._. 
+</s>
+<s>
+This_DD1 relationship_NN1 thus_RR can_VM be_VBI described_VVN as_II :_: Values_NN2 for_IF C_ZZ1 (_( Cp_NP1 were_VBDR obtained_VVN via_II linear_JJ regression_NN1 ,_, with_IW MATLAB_NN1 carrying_VVG out_RP the_AT calculations_NN2 based_VVN on_II the_AT theory_NN1 detailed_VVN in_II Appendix_NN1 2_MC ._. 
+</s>
+<s>
+Table#_FO 3_MC collates_VVZ the_AT data_NN obtained_VVN where_CS three_MC values_NN2 of_IO C_ZZ1 were_VBDR used_VVN to_TO model_VVI the_AT data_NN linearly_RR -_- 800_MC Ndeg_NP1 -1_MC ,_, 1200_MC Ndeg_NP1 -1_MC and_CC the_AT value_NN1 calculated_VVN by_II linear_JJ regression_NN1 ._. 
+</s>
+<s>
+This_DD1 data_NN from_II Table#_FO 3_MC was_VBDZ visualised_VVN as_CSA 3_MC separate_JJ plots_NN2 on_II Graph_NN1 3_MC ._. 
+</s>
+<s>
+A_AT1 similar_JJ expression_NN1 can_VM be_VBI used_VVN to_TO model_VVI the_AT longitudinal_JJ force_NN1 data_NN ._. 
+</s>
+<s>
+MATLAB_NP1 was_VBDZ again_RT used_VVN to_TO calculate_VVI the_AT two_MC coefficients_NN2 C_ZZ1 s_ZZ1 and_CC C_ZZ1 q_ZZ1 via_II the_AT same_DA linear_JJ regression_NN1 ._. 
+</s>
+<s>
+The_AT data_NN collated_VVD was_VBDZ plotted_VVN in_II a_AT1 similar_JJ manner_NN1 for_IF three_MC values_NN2 of_IO Cs_MC2% ;_; -_- 90000_MC N_NNU ,_, 150000_MC N_NNU and_CC the_AT value_NN1 calculated_VVN by_II linear_JJ regression_NN1 ._. 
+</s>
+<s>
+The_AT data_NN is_VBZ collated_VVN in_II Table#_FO 4_MC ,_, and_CC plotted_VVN on_II Graph_NN1 4_MC ._. 
+</s>
+<s>
+Whilst_CS this_DD1 linear_JJ expression_NN1 provides_VVZ a_AT1 satisfactory_JJ 'guide'_NN1 at_II low_JJ values_NN2 ,_, the_AT usefulness_NN1 of_IO the_AT model_NN1 for_IF larger_JJR values_NN2 of_IO slip_NN1 angle_NN1 and_CC slip-ratio_NN1 diminishes_VVZ ,_, so_RR a_AT1 different_JJ model_NN1 must_VM be_VBI used_VVN ._. 
+</s>
+<s>
+The_AT lateral_JJ force_NN1 data_NN can_VM therefore_RR be_VBI modelled_VVN by_II the_AT relation_NN1 where_RRQ is_VBZ a_AT1 sliding_JJ factor_NN1 which_DDQ accounts_VVZ for_IF the_AT gradual_JJ loss_NN1 of_IO adhesion_NN1 at_II the_AT tyre_NN1 -_- road_NN1 contact_NN1 patch_NN1 and_CC Fz_NP1 is_VBZ the_AT vertical_JJ load_NN1 on_II the_AT tyre_NN1 modelled_VVN using_VVG a_AT1 mass_NN1 of_IO 500_MC Kg_NNU ._. 
+</s>
+<s>
+The_AT corresponding_JJ effect_NN1 on_II the_AT adhesion_NN1 is_VBZ determined_VVN by_II ._. 
+</s>
+<s>
+Table#_FO 5_MC contains_VVZ values_NN2 calculated_VVD using_VVG the_AT new_JJ model_NN1 ,_, and_CC this_DD1 data_NN is_VBZ visualised_VVN in_II Graph_NN1 5_MC ._. 
+</s>
+<s>
+Similarly_RR ,_, the_AT longitudinal_JJ force_NN1 data_NN can_VM be_VBI modelled_VVN by_II the_AT relation_NN1 where_RRQ is_VBZ a_AT1 sliding_JJ factor_NN1 which_DDQ accounts_VVZ for_IF the_AT gradual_JJ loss_NN1 of_IO adhesion_NN1 at_II the_AT tyre_NN1 -_- road_NN1 contact_NN1 patch_NN1 ,_, and_CC the_AT corresponding_JJ effect_NN1 on_II the_AT adhesion_NN1 level_NN1 is_VBZ determined_VVN by_II ._. 
+</s>
+<s>
+remains_VVZ the_AT vertical_JJ load_NN1 on_II the_AT tyre_NN1 ,_, modelled_VVN using_VVG a_AT1 mass_NN1 of_IO 500_MC Kg_NNU ._. 
+</s>
+<s>
+The_AT value_NN1 for_IF calculated_VVN originally_RR for_IF the_AT linear_JJ modelling_NN1 was_VBDZ used_VVN ,_, and_CC the_AT data_NN collected_VVN in_II Table#_FO 6_MC ,_, and_CC plotted_VVN on_II Graph_NN1 6_MC ._. 
+</s>
+<s>
+Table#s_FO 1_MC1 and_CC 2_MC contain_VV0 the_AT physical_JJ test_NN1 data_NN used_VVN for_IF the_AT investigation_NN1 ._. 
+</s>
+<s>
+Graphs_NN2 1_MC1 and_CC 2_MC are_VBR visualisations_NN2 of_IO the_AT raw_JJ data_NN ._. 
+</s>
+<s>
+Table#_FO 3_MC contains_VVZ linear_JJ model_NN1 values_NN2 generated_VVN from_II the_AT lateral_JJ force_NN1 tyre_NN1 test_NN1 data_NN for_IF the_AT three_MC different_JJ values_NN2 of_IO C_NP1 mentioned_VVD previously_RR ,_, 800_MC Ndeg_NP1 -1_MC ,_, 1200_MC Ndeg_NP1 -1_MC and_CC the_AT value_NN1 calculated_VVN by_II linear_JJ regression_NN1 ._. 
+</s>
+<s>
+The_AT values_NN2 for_IF C_ZZ1 and_CC Cp_NP1 calculated_VVD by_II linear_JJ regression_NN1 with_IW the_AT aid_NN1 of_IO MATLAB_NP1 were_VBDR :_: Graph_NN1 3_MC shows_VVZ the_AT plot_NN1 of_IO the_AT linear_JJ model_NN1 against_II the_AT raw_JJ data_NN for_IF the_AT different_JJ values_NN2 for_IF C_ZZ1 ,_, illustrating_VVG to_II what_DDQ degree_NN1 the_AT model_NN1 correlates_VVZ with_IW the_AT actual_JJ data_NN ._. 
+</s>
+<s>
+Table#_FO 4_MC contains_VVZ values_NN2 generated_VVD using_VVG the_AT linear_JJ model_NN1 from_II the_AT longitudinal_JJ tyre_NN1 test_NN1 data_NN for_IF the_AT three_MC values_NN2 of_IO C_ZZ1 s_ZZ1 mentioned_VVD earlier_RRR ,_, 90000_MC N_NNU ,_, 150000_MC N_NNU and_CC the_AT value_NN1 calculated_VVN by_II linear_JJ regression_NN1 ._. 
+</s>
+<s>
+The_AT values_NN2 for_IF C_ZZ1 s_ZZ1 and_CC C_ZZ1 q_ZZ1 calculated_VVN by_II linear_JJ regression_NN1 with_IW the_AT aid_NN1 of_IO MATLAB_NP1 were_VBDR :_: Graph_NN1 4_MC shows_VVZ the_AT plot_NN1 of_IO the_AT linear_JJ model_NN1 against_II the_AT raw_JJ data_NN for_IF the_AT different_JJ values_NN2 for_IF C_ZZ1 s_ZZ1 ,_, illustrating_VVG to_II what_DDQ degree_NN1 the_AT model_NN1 correlates_VVZ with_IW the_AT actual_JJ data_NN ._. 
+</s>
+<s>
+Table#s_FO 5_MC and_CC 6_MC contain_VV0 values_NN2 calculated_VVD using_VVG the_AT non-linear_JJ models_NN2 for_IF both_DB2 lateral_JJ and_CC longitudinal_JJ data_NN ._. 
+</s>
+<s>
+Graphs_NN2 5_MC and_CC 6_MC are_VBR visualisations_NN2 of_IO the_AT non-linear_JJ models_NN2 on_II the_AT same_DA plot_NN1 as_CSA the_AT raw_JJ data_NN ,_, allowing_VVG evaluation_NN1 of_IO the_AT model_NN1 as_II an_AT1 accurate_JJ model_NN1 for_IF the_AT data_NN ._. 
+</s>
+<s>
+Graph_NN1 1_MC1 clearly_RR shows_VVZ that_CST lateral_JJ force_NN1 ,_, Fy_NP1 increases_VVZ approximately_RR linearly_RR with_IW slip_NN1 angle_NN1 (_( )_) ,_, up_II21 to_II22 about_II 2.5_MC degrees_NN2 ._. 
+</s>
+<s>
+Lateral_JJ force_NN1 then_RT increases_VVZ at_II a_AT1 decreasing_JJ rate_NN1 with_IW a_AT1 continued_JJ steady_JJ increase_NN1 in_II slip_NN1 angle_NN1 ._. 
+</s>
+<s>
+The_AT slip_NN1 angle_NN1 ,_, ,_, is_VBZ determined_VVN by_II ._. 
+</s>
+<s>
+As_CSA v_ZZ1 y_ZZ1 increases_VVZ ,_, representing_VVG the_AT lateral_JJ velocity_NN1 component_NN1 of_IO v_ZZ1 ,_, the_AT value_NN1 for_IF increases_NN2 ,_, and_CC therefore_RR as_CSA the_AT Graphs_NN2 illustrate_VV0 ,_, an_AT1 increase_NN1 in_II slip_NN1 angle_NN1 would_VM be_VBI accompanied_VVN by_II an_AT1 increase_NN1 in_II lateral_JJ force_NN1 with_IW a_AT1 corresponding_JJ increase_NN1 in_II the_AT component_NN1 of_IO acceleration_NN1 in_II this_DD1 same_DA direction_NN1 ._. 
+</s>
+<s>
+Graph_NN1 2_MC plots_NN2 the_AT relationship_NN1 between_II longitudinal_JJ force_NN1 characteristics_NN2 and_CC slip-ratio_NN1 (_( s_ZZ1 )_) ._. 
+</s>
+<s>
+An_AT1 approximate_JJ linear_JJ relationship_NN1 is_VBZ observed_VVN till_CS around_II a_AT1 0.03_MC slip-ratio_JJ ,_, and_CC then_RT the_AT rate_NN1 at_II which_DDQ longitudinal_JJ force_NN1 increases_VVZ for_IF a_AT1 steady_JJ increase_NN1 in_II slip-ratio_JJ start_NN1 to_TO decrease_VVI ._. 
+</s>
+<s>
+The_AT slip-ratio_NN1 ,_, s_ZZ1 is_VBZ given_VVN by_II ,_, ._. 
+</s>
+<s>
+If_CS s_ZZ1 equals_VVZ to_TO zero_VVI ,_, then_RT and_CC there_EX will_VM be_VBI no_AT slipping_NN1 at_RR21 all_RR22 ,_, as_CSA the_AT lateral_JJ component_NN1 (_( vy_NN1 )_) is_VBZ equal_JJ to_TO zero_VVI ._. 
+</s>
+<s>
+As_CSA ,_, then_RT ._. 
+</s>
+<s>
+As_CSA r_ZZ1 is_VBZ defined_VVN by_II r_ZZ1 =_FO r2_FO f_ZZ1 ,_, then_RT f_ZZ1 is_VBZ the_AT only_JJ variable_NN1 ,_, so_RR as_CSA ,_, ._. 
+</s>
+<s>
+Therefore_RR an_AT1 increased_JJ longitudinal_JJ force_NN1 corresponds_VVZ to_II a_AT1 decrease_NN1 in_II the_AT rate_NN1 of_IO rotation_NN1 of_IO the_AT wheels_NN2 ._. 
+</s>
+<s>
+Overall_RR the_AT Graphs_NN2 show_VV0 the_AT weaknesses_NN2 and_CC strengths_NN2 of_IO the_AT comparative_JJ models_NN2 ._. 
+</s>
+<s>
+Whilst_CS the_AT non-linear_JJ model_NN1 may_VM be_VBI more_RGR complex_JJ it_PPH1 is_VBZ evident_JJ that_CST the_AT range_NN1 for_IF which_DDQ the_AT model_NN1 can_VM provide_VVI acceptable_JJ results_NN2 is_VBZ much_RR greater_JJR than_CSN that_DD1 for_IF the_AT simple_JJ linear_JJ model_NN1 ._. 
+</s>
+<s>
+The_AT linear_JJ models_NN2 provide_VV0 only_RR a_AT1 very_RG limited_JJ idea_NN1 of_IO the_AT relationship_NN1 between_II force_NN1 on_II the_AT tyre_NN1 and_CC slip_VV0 angle/ratio_NN1 ._. 
+</s>
+<s>
+Only_RR for_IF very_RG small_JJ values_NN2 can_VM they_PPHS2 provide_VVI any_DD useful_JJ values_NN2 ,_, as_CSA illustrated_VVN in_II Graphs_NN2 3_MC and_CC 4_NN1 (_( slip_VV0 angle_NN1 (_( )_) up_II21 to_II22 about_II 2.5_MC degrees_NN2 ,_, and_CC slip_VV0 ratio_NN1 up_RG21 to_RG22 0.03_MC )_) ._. 
+</s>
+<s>
+However_RGQV non-linear_JJ models_NN2 continue_VV0 to_TO provide_VVI useful_JJ predictions_NN2 for_IF much_RR greater_JJR values_NN2 and_CC so_RR more_RGR accurately_RR predict_VV0 the_AT behaviour_NN1 of_IO the_AT tyre_NN1 ._. 
+</s>
+<s>
+Graphs_NN2 5_MC and_CC 6_MC illustrate_VV0 this_DD1 point_NN1 with_IW the_AT predictive_JJ curve_NN1 correlating_VVG much_RR more_RGR closely_RR with_IW the_AT data_NN obtained_VVN from_II tests_NN2 ,_, taking_VVG into_II account_NN1 the_AT gradual_JJ loss_NN1 of_IO adhesion_NN1 of_IO the_AT tyre_NN1 on_II the_AT road_NN1 's_GE surface_NN1 ._. 
+</s>
+<s>
+Clearly_RR the_AT linear_JJ models_NN2 fall_VV0 short_JJ of_IO providing_VVG any_DD useful_JJ prediction_NN1 to_II the_AT data_NN ,_, and_CC although_CS the_AT non-linear_JJ model_NN1 does_VDZ provide_VVI a_AT1 much_RR more_RGR acceptable_JJ model_NN1 ,_, accuracy_NN1 could_VM still_RR be_VBI improved_VVN ._. 
+</s>
+<s>
+This_DD1 problem_NN1 really_RR results_VVZ from_II the_AT small_JJ amount_NN1 of_IO data_NN presented_VVN in_II the_AT test_NN1 results_NN2 ._. 
+</s>
+<s>
+If_CS more_DAR readings_NN2 had_VHD been_VBN taken_VVN ,_, rather_II21 than_II22 the_AT eight_MC recorded_VVD in_II Table#_FO one_MC1 ,_, a_AT1 more_RGR accurate_JJ model_NN1 could_VM be_VBI developed_VVN ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 problem_NN1 in_II both_DB2 the_AT longitudinal_JJ ,_, and_CC lateral_JJ force_NN1 results_NN2 ,_, and_CC further_JJR experimentation_NN1 could_VM resolve_VVI the_AT problem_NN1 ._. 
+</s>
+<s>
+The_AT main_JJ conclusions_NN2 that_CST can_VM be_VBI drawn_VVN from_II this_DD1 investigation_NN1 relate_VV0 to_II the_AT mechanics_NN2 of_IO a_AT1 tyre_NN1 and_CC the_AT relative_JJ merits_NN2 of_IO the_AT simple_JJ linear_JJ model_NN1 and_CC the_AT more_RGR complex_JJ non_FU linear_JJ model_NN1 used_VMK to_TO calculate_VVI the_AT forces_NN2 applied_VVN on_II the_AT tyre_NN1 for_IF the_AT differing_JJ slip_NN1 angles_NN2 and_CC slip_VV0 ratios_NN2 ._. 
+</s>
+<s>
+This_DD1 investigation_NN1 has_VHZ shown_VVN that_CST lateral_JJ force_NN1 increases_VVZ as_CSA slip_NN1 angle_NN1 increases_NN2 ._. 
+</s>
+<s>
+The_AT relationship_NN1 is_VBZ fairly_RR linear_JJ for_IF small_JJ slip_NN1 angles_NN2 ,_, until_CS about_RG 2.5_MC degrees_NN2 ,_, then_RT the_AT rate_NN1 at_II which_DDQ lateral_JJ force_NN1 increases_NN2 ,_, decreases_VVZ with_IW a_AT1 steady_JJ increase_NN1 in_II the_AT slip_NN1 angle.The_NNU lateral_JJ force_NN1 can_VM be_VBI linked_VVN to_II the_AT lateral_JJ velocity_NN1 of_IO the_AT tyre_NN1 ,_, and_CC the_AT resulting_JJ acceleration_NN1 of_IO the_AT tyre_NN1 in_II that_DD1 direction_NN1 as_CSA adhesion_NN1 gradually_RR decreases_VVZ ._. 
+</s>
+<s>
+The_AT investigation_NN1 has_VHZ also_RR shows_VVZ longitudinal_JJ force_NN1 increases_VVZ as_RG slip-ratio_JJ increases_NN2 ._. 
+</s>
+<s>
+As_CSA with_IW the_AT relationship_NN1 between_II lateral_JJ force_NN1 and_CC slip_VV0 angle_NN1 ,_, a_AT1 near_JJ linear_JJ relationship_NN1 occurs_VVZ for_IF small_JJ values_NN2 of_IO slip-ratio_NN1 and_CC then_RT the_AT rate_NN1 at_II which_DDQ longitudinal_JJ force_NN1 increases_NN2 decreases_VVZ ,_, for_IF steady_JJ increases_NN2 in_II slip-ratio_NN1 ._. 
+</s>
+<s>
+The_AT increase_NN1 in_II longitudinal_JJ force_NN1 corresponds_VVZ to_II decreases_NN2 in_II the_AT frequency_NN1 of_IO rotation_NN1 of_IO the_AT tyre_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ reasonable_JJ since_CS a_AT1 decrease_NN1 in_II rotation_NN1 requires_VVZ an_AT1 increased_JJ braking_JJ force_NN1 to_TO oppose_VVI the_AT rotation_NN1 ._. 
+</s>
+<s>
+The_AT non-linear_JJ models_NN2 have_VH0 been_VBN shown_VVN to_TO be_VBI more_RGR useful_JJ ,_, as_CSA they_PPHS2 provide_VV0 greater_JJR accuracy_NN1 over_II a_AT1 wider_JJR range_NN1 of_IO slip_NN1 angle_NN1 and_CC slip-ratio_JJ readings_NN2 than_CSN the_AT simple_JJ linear_JJ models_NN2 ._. 
+</s>
+<s>
+With_IW no_AT benefit_NN1 for_IF using_VVG the_AT linear_JJ models_NN2 over_II lower_JJR values_NN2 either_RR ,_, they_PPHS2 become_VV0 defunct_JJ as_CSA MATLAB_NP1 's_GE computational_JJ power_NN1 makes_VVZ complex_JJ analysis_NN1 instantaneous_JJ ._. 
+</s>

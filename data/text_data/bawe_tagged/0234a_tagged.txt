@@ -1,0 +1,618 @@
+<s>
+This_DD1 report_NN1 follows_VVZ up_RP our_APPGE recently_RR approved_VVN internal_JJ development_NN1 project_NN1 ,_, ORANGE_NN1 (_( Detail_NN1 can_VM be_VBI found_VVN in_II internal_JJ report-_JJ ORANGE_JJ No._NN1 1_MC1 )_) As_II the_AT manager_NN1 of_IO this_DD1 project_NN1 ,_, I_PPIS1 proudly_RR present_VV0 you_PPY this_DD1 concise_JJ management_NN1 report-_JJ ORANGE_JJ No._NN1 2_MC ,_, which_DDQ covers_VVZ the_AT following_JJ :_: Identify_VV0 ,_, classify_VV0 the_AT main_JJ project_NN1 stakeholders_NN2 and_CC consider_VV0 how_RRQ to_TO manage_VVI them_PPHO2 ._. 
+</s>
+<s>
+Prepare_VV0 a_AT1 statement_NN1 of_IO aim_NN1 and_CC objectives_NN2 with_IW proposals_NN2 for_IF the_AT evaluation_NN1 of_IO objectives_NN2 ._. 
+</s>
+<s>
+Review_VV0 the_AT risks_NN2 associated_VVN with_IW this_DD1 project_NN1 and_CC recommend_VV0 appropriate_JJ risk_NN1 management_NN1 strategies_NN2 ._. 
+</s>
+<s>
+Prepare_VV0 a_AT1 statement_NN1 of_IO project_NN1 implementation_NN1 strategy_NN1 ._. 
+</s>
+<s>
+Recommend_VV0 a_AT1 system_NN1 for_IF planning_VVG and_CC control_NN1 of_IO progress_NN1 and_CC cost_NN1 ._. 
+</s>
+<s>
+Annex_VV0 that_CST gives_VVZ a_AT1 critical_JJ appraisal_NN1 of_IO the_AT concepts_NN2 and_CC techniques_NN2 used_VVD ._. 
+</s>
+<s>
+Brief_JJ introduction_NN1 of_IO PRINCE_NN1 2_MC and_CC decide_VV0 its_APPGE compatibility_NN1 or_CC suitability_NN1 to_II the_AT project_NN1 ._. 
+</s>
+<s>
+This_DD1 report_NN1 includes_VVZ recommendations_NN2 and_CC is_VBZ subject_II21 to_II22 approval_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ to_TO define_VVI ORANGE_JJ aim_NN1 and_CC objectives_NN2 at_II early_JJ stage_NN1 of_IO the_AT project_NN1 as_CSA it_PPH1 helps_VVZ focus_NN1 project_NN1 team_NN1 on_II specific_JJ goals_NN2 and_CC everyone_PN1 concerned_JJ know_VV0 what_DDQ tasks_NN2 to_TO be_VBI performed_VVN in_BCL21 order_BCL22 to_TO achieve_VVI the_AT goals_NN2 ._. 
+</s>
+<s>
+Its_APPGE importance_NN1 becomes_VVZ even_RR more_RGR obvious_JJ when_CS a_AT1 customer_NN1 outsource_VV0 the_AT work_NN1 to_II a_AT1 different_JJ company_NN1 (_( this_DD1 applies_VVZ to_II an_AT1 in-house_JJ project_NN1 )_) as_CSA it_PPH1 gives_VVZ an_AT1 idea_NN1 to_II the_AT contracting_JJ companies_NN2 what_DDQ they_PPHS2 are_VBR bidding_VVG ,_, what_DDQ they_PPHS2 are_VBR expected_VVN to_TO achieve_VVI and_CC their_APPGE commitments_NN2 would_VM be_VBI ._. 
+</s>
+<s>
+Project_NN1 definition_NN1 takes_VVZ place_NN1 when_CS a_AT1 customer_NN1 first_MD conceives_VVZ the_AT idea_NN1 of_IO a_AT1 project2_FO ._. 
+</s>
+<s>
+It_PPH1 is_VBZ essential_JJ that_CST their_APPGE ideas_NN2 are_VBR filed_VVN ,_, understood_VVN and_CC accepted_VVN by_II all_DB parties_NN2 involved_JJ in_II decision_NN1 making_NN1 of_IO the_AT project_NN1 at_II this_DD1 early_JJ stage_NN1 ._. 
+</s>
+<s>
+Extra_JJ details_NN2 ,_, i.e._REX specifications_NN2 ,_, can_VM be_VBI added_VVN as_CSA projects_NN2 go_VV0 on_RP ._. 
+</s>
+<s>
+Six_MC Weeks_NNT2 To_II Strategic_JJ Excellence_NN1 ,_, Hodder_NP1 and_CC Stoughton_NP1 ._. 
+</s>
+<s>
+As_CSA mentioned_VVN earlier_RRR in_II this_DD1 chapter_NN1 ,_, project_NN1 definition_NN1 should_VM be_VBI decided_VVN by_II a_AT1 group_NN1 of_IO key_JJ individuals_NN2 ,_, such_II21 as_II22 board_NN1 of_IO directors_NN2 ,_, senior_JJ management_NN1 ,_, project_NN1 manager_NN1 ,_, work_VV0 package_NN1 manager_NN1 ,_, etc_RA ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT definition_NN1 provided_VVN in_II this_DD1 document_NN1 should_VM only_RR been_VBN seen_VVN as_II a_AT1 recommendation_NN1 and_CC by_RR31 no_RR32 means_RR33 should_VM be_VBI used_VVN to_TO provide_VVI the_AT basis_NN1 for_IF project_NN1 planning_NN1 decision_NN1 making_VVG until_CS it_PPH1 has_VHZ been_VBN reviewed_VVN ,_, challenged_VVD ,_, modified_VVN if_CS necessary_JJ ,_, understood_VVD ,_, accepted_VVN by_II the_AT key_JJ individuals_NN2 concerned_JJ ._. 
+</s>
+<s>
+After_CS thorough_JJ understanding_NN1 of_IO the_AT proposal_NN1 ,_, I_PPIS1 propose_VV0 the_AT following_JJ project_NN1 aim_NN1 ._. 
+</s>
+<s>
+Aim_VV0 :_: To_TO enhance_VVI the_AT quality_NN1 of_IO customer_NN1 service_NN1 and_CC maintain_VV0 a_AT1 much_RR closer_RRR working_VVG relationship_NN1 with_IW high_JJ street_NN1 agents_NN2 at_II a_AT1 reduced_JJ cost_NN1 by_II restructuring_NN1 CFS_VVZ 's_VBZ operations_NN2 department_NN1 through_II creating_VVG 10_MC multi-purpose_JJ geographical_JJ teams_NN2 and_CC increase_NN1 individual_NN1 's_GE flexibility_NN1 to_TO deal_VVI with_IW all_DB types_NN2 of_IO insurance_NN1 policy_NN1 except_II Life_NN1 ._. 
+</s>
+<s>
+Control_NN1 is_VBZ a_AT1 key_JJ management_NN1 process_NN1 to_TO predict_VVI what_DDQ will_VM happen_VVI if_CSW present_JJ conditions_NN2 continue_VV0 and_CC there_EX are_VBR no_AT management_NN1 changes_NN2 in_II the_AT project_NN1 ._. 
+</s>
+<s>
+Suitable_JJ changes_NN2 to_TO comply_VVI with_IW the_AT plan_NN1 can_VM then_RT be_VBI made_VVN by_II the_AT project_NN1 group_NN1 ._. 
+</s>
+<s>
+To_TO make_VVI the_AT right_JJ decision_NN1 ,_, it_PPH1 requires_VVZ monitoring_NN1 and_CC evaluation_NN1 to_TO measure_VVI ,_, examine_VV0 and_CC appraise_NN1 of_IO how_RRQ project_NN1 progresses_VVZ ._. 
+</s>
+<s>
+Defined_JJ project_NN1 objectives_NN2 can_VM be_VBI used_VVN as_II a_AT1 measurement_NN1 of_IO how_RGQ well_RR the_AT project_NN1 is_VBZ progressing_VVG towards_II the_AT set_NN1 goals_NN2 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI done_VDN by_II deciding_VVG how_RRQ each_DD1 objective_NN1 should_VM be_VBI evaluated_VVN ._. 
+</s>
+<s>
+Table_NN1 below_II shows_NN2 proposed_VVD ORANGE_JJ objectives_NN2 and_CC how_RRQ they_PPHS2 can_VM be_VBI evaluated_VVN ._. 
+</s>
+<s>
+Project_NN1 Management_NN1 ,_, Fourth_MD Edition_NN1 ,_, Cleland_NP1 and_CC Ireland_NP1 ._. 
+</s>
+<s>
+Stakeholders_NN2 are_VBR those_DD2 people_NN who_PNQS have_VH0 an_AT1 interest_NN1 in_II a_AT1 project_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 Obeng_NP1 ,_, 'Project_VV0 success_NN1 is_VBZ and_CC can_VM only_RR be_VBI defined_VVN by_II stakeholders_NN2 '_GE ._. 
+</s>
+<s>
+One_MC1 way_NN1 to_TO manage_VVI stakeholders_NN2 is_VBZ by_II allowing_VVG different_JJ level_NN1 of_IO involvement_NN1 in_II the_AT project_NN1 ,_, depending_II21 on_II22 the_AT stakeholders_NN2 '_GE interest_NN1 and_CC power_NN1 level_NN1 ._. 
+</s>
+<s>
+Below_RL is_VBZ a_AT1 stakeholders_NN2 analysis_NN1 conducted_VVN for_IF ORANGE_JJ to_TO evaluate_VVI different_JJ stakeholders_NN2 interest_NN1 and_CC influential_JJ strength_NN1 ._. 
+</s>
+<s>
+The_AT Project_NN1 Leader_NN1 's_GE Secret_JJ Handbook-_NN1 All_DB Change_VV0 !_! ,_, 
+</s>
+<s>
+Obeng_VV0 ._. 
+</s>
+<s>
+The_AT way_NN1 this_DD1 analysis_NN1 is_VBZ conducted_VVN is_VBZ similar_JJ to_II what_DDQ Wheeler1_FO suggests_VVZ ._. 
+</s>
+<s>
+The_AT scores_NN2 in_II the_AT stakeholders_NN2 analysis_NN1 will_VM not_XX be_VBI further_RRR evaluated_VVN as_II the_AT assigned_JJ% scores_NN2 are_VBR self-explaining_JJ ._. 
+</s>
+<s>
+A_AT1 involvement-strategy_NN1 can_VM be_VBI developed_VVN using_VVG the_AT result_NN1 of_IO the_AT analysis_NN1 ._. 
+</s>
+<s>
+Project_NN1 risks_NN2 focus_VV0 on_II future_JJ events_NN2 that_CST could_VM prevent_VVI the_AT project_NN1 from_II reaching_VVG its_APPGE stated_JJ potential_NN1 and_CC they_PPHS2 are_VBR usually_RR caused_VVN by_II uncertainty_NN1 ._. 
+</s>
+<s>
+Managing_JJ uncertainty_NN1 simply_RR means_VVZ managing_JJ risks_NN2 ._. 
+</s>
+<s>
+FMEA_NP1 is_VBZ a_AT1 very_RG common_JJ uncertainty_NN1 assessment_NN1 tool_NN1 ,_, which_DDQ highlights_VVZ potential_JJ problem_NN1 areas_NN2 ,_, the_AT probability_NN1 of_IO their_APPGE occurrence_NN1 ,_, and_CC the_AT level_NN1 of_IO impact_NN1 on_II the_AT project_NN1 ._. 
+</s>
+<s>
+Full_JJ FMEA_NN1 is_VBZ completed_VVN with_IW the_AT consideration_NN1 of_IO how_RRQ to_TO take_VVI corrective_JJ action_NN1 ._. 
+</s>
+<s>
+A_AT1 full_JJ FMEA_NN1 on_II the_AT uncertainties_NN2 of_IO the_AT project_NN1 has_VHZ been_VBN produced_VVN and_CC presented_VVN below_RL :_: The_AT Practice_NN1 of_IO Project_NN1 Management_NN1 ,_, Frigenti_NP1 and_CC Comninos_NN2 ._. 
+</s>
+<s>
+To_TO ensure_VVI project_NN1 to_TO be_VBI successful_JJ ,_, it_PPH1 is_VBZ important_JJ to_TO manage_VVI the_AT risks_NN2 identified_VVN in_II FMEA_NP1 analysis_NN1 ._. 
+</s>
+<s>
+Risks_NN2 in_II theory_NN1 are_VBR managed_VVN in_II the_AT way_NN1 to_TO decrease_VVI the_AT possibility_NN1 of_IO occurrence_NN1 and_CC their_APPGE impact_NN1 on_II the_AT project_NN1 1_MC1 ._. 
+</s>
+<s>
+Project_NN1 risk_NN1 analysis_NN1 matrix_NN1 is_VBZ usually_RR used_VVN together_RL with_IW FMEA_NN1 to_TO assist_VVI risks_NN2 management_NN1 ._. 
+</s>
+<s>
+A_AT1 set_NN1 of_IO risks_NN2 management_NN1 solution_NN1 is_VBZ proposed_VVN as_CSA followed_VVN :_: The_AT Practice_NN1 of_IO Project_NN1 Management_NN1 ,_, Frigenti_NP1 and_CC Comninos_NN2 ._. 
+</s>
+<s>
+Regarding_II the_AT potential_JJ problem_NN1 with_IW software_NN1 development_NN1 ,_, a_AT1 sharing_JJ strategy_NN1 is_VBZ recommended_VVN according_II21 to_II22 the_AT risks_NN2 management_NN1 matrix_NN1 ._. 
+</s>
+<s>
+I_PPIS1 suggest_VV0 that_CST we_PPIS2 should_VM outsource_VVI the_AT IT_NN1 part_NN1 of_IO the_AT project_NN1 to_II an_AT1 expert_NN1 IT_NN1 company_NN1 ._. 
+</s>
+<s>
+Research_NN1 has_VHZ showed_VVN that_CST our_APPGE IT_NN1 department_NN1 may_VM not_XX be_VBI advanced_VVN and_CC skilful_JJ enough_RR to_TO run_VVI this_DD1 project_NN1 on_II their_APPGE own_DA ._. 
+</s>
+<s>
+By_II negotiate_VV0 the_AT right_JJ contract_NN1 terms_NN2 ,_, we_PPIS2 also_RR share_VV0 the_AT risk_NN1 if_CS issues_NN2 arise_VV0 due_II21 to_II22 the_AT software_NN1 's_GE faults_NN2 ._. 
+</s>
+<s>
+Risks_NN2 management_NN1 matrix_NN1 suggests_VVZ the_AT unhappy_JJ employees_NN2 issue_NN1 is_VBZ critical_JJ and_CC should_VM be_VBI either_RR mitigated_VVN or_CC shared_VVD ._. 
+</s>
+<s>
+I_PPIS1 recommend_VV0 a_AT1 mitigating_JJ approach_NN1 by_II introducing_VVG a_AT1 new_JJ bonus_NN1 or/and_CC promotion_NN1 scheme_NN1 for_IF outstanding_JJ individual_JJ members_NN2 ._. 
+</s>
+<s>
+Their_APPGE voice_NN1 should_VM always_RR be_VBI heard_VVN in_II any_DD project_NN1 's_GE decision_NN1 ._. 
+</s>
+<s>
+This_DD1 will_VM divert_VVI the_AT attention_NN1 and_CC staff_NN members_NN2 will_VM strive_VVI to_TO improve_VVI in_BCL21 order_BCL22 to_TO be_VBI noticed_VVN ._. 
+</s>
+<s>
+The_AT quality_NN1 of_IO our_APPGE staff_NN members_NN2 is_VBZ our_APPGE assets_NN2 and_CC our_APPGE frontline_NN1 with_IW our_APPGE customers_NN2 ._. 
+</s>
+<s>
+As_CSA I_PPIS1 propose_VV0 to_TO allow_VVI adequate_JJ training_NN1 and_CC staff_NN members_NN2 are_VBR required_VVN to_TO take_VVI up_RP exams_NN2 before_CS they_PPHS2 are_VBR reallocated_VVN into_II different_JJ teams_NN2 ._. 
+</s>
+<s>
+An_AT1 experienced_JJ mentor_NN1 can_VM be_VBI allocated_VVN to_II each_DD1 team_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ certain_JJ that_CST in_II some_DD geographical_JJ areas_NN2 CFS_VVZ attract_VV0 more_DAR customers_NN2 and_CC thus_RR different_JJ area_NN1 teams_NN2 may_VM have_VHI different_JJ work_NN1 loads_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ that_CST resources_NN2 (_( work_VV0 force_NN1 ,_, budget_NN1 )_) should_VM be_VBI allocated_VVN in_II the_AT way_NN1 that_CST the_AT resources_NN2 allocated_VVN depend_VV0 upon_II on_II the_AT work_NN1 load_NN1 ._. 
+</s>
+<s>
+I_PPIS1 advise_VV0 that_CST a_AT1 thorough_JJ research_NN1 should_VM be_VBI conducted_VVN on_II the_AT insurance_NN1 business_NN1 in_II areas_NN2 CFS_VVZ serve_VV0 to_TO avoid_VVI inappropriate_JJ allocation_NN1 of_IO resources_NN2 ._. 
+</s>
+<s>
+This_DD1 will_VM serve_VVI as_II a_AT1 reference_NN1 when_RRQ human_JJ resources_NN2 and_CC budgets_NN2 allocated_VVN to_II each_DD1 geographical_JJ team_NN1 ._. 
+</s>
+<s>
+ORANGE_NN1 is_VBZ a_AT1 project_NN1 aiming_VVG to_TO reduce_VVI costs_NN2 ,_, improve_VV0 service_NN1 and_CC efficiency_NN1 while_CS maintaining_VVG the_AT company_NN1 's_GE family_NN1 oriented_VVD style_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ aimed_VVN that_DD1 ORANGE_NN1 will_VM take_VVI a_AT1 year_NNT1 to_TO complete_VVI ._. 
+</s>
+<s>
+It_PPH1 would_VM allow_VVI sufficient_JJ time_NNT1 for_IF project_NN1 planning_NN1 ,_, software_NN1 design_NN1 and_CC installation_NN1 ,_, adequate_JJ staff_NN training_NN1 and_CC for_IF CFS_VVZ employees_NN2 ,_, customers_NN2 and_CC high_JJ street_NN1 agents_NN2 to_TO be_VBI prepared_VVN and_CC familiar_JJ with_IW the_AT change_NN1 without_IW affecting_VVG the_AT general_JJ company_NN1 's_GE operation_NN1 ._. 
+</s>
+<s>
+CFS_VVZ should_VM conduct_VVI a_AT1 pilot_NN1 phase_NN1 to_TO keep_VVI the_AT risk_NN1 of_IO the_AT project_NN1 and_CC staff_NN members_NN2 ,_, customers_NN2 concern_VV0 as_RG low_JJ as_CSA possible_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ recommended_VVN that_CST CFS_VVZ should_VM outsourcing_VVG an_AT1 assessment_NN1 sub-project_NN1 to_II an_AT1 outside_JJ IT_NN1 company_NN1 to_TO evaluate_VVI what_DDQ kind_NN1 of_IO software_NN1 ,_, etc_RA is_VBZ suitable_JJ for_IF CFS_VVZ ._. 
+</s>
+<s>
+Project_NN1 activities_NN2 should_VM be_VBI carried_VVN in_II a_AT1 serial-parallel_JJ hybrid_JJ pattern_NN1 to_TO make_VVI project_NN1 control_NN1 more_RGR effective_JJ ._. 
+</s>
+<s>
+Implementation_NN1 pattern_NN1 in_II the_AT organisation_NN1 should_VM adopt_VVI a_AT1 simultaneous_JJ approach_NN1 as_CSA it_PPH1 is_VBZ believed_VVN it_PPH1 can_VM encourage_VVI communication_NN1 between_II teams_NN2 ._. 
+</s>
+<s>
+However_RR ,_, I_PPIS1 believe_VV0 this_DD1 factor_NN1 may_VM not_XX be_VBI too_RG relevant_JJ to_II ORANGE_NN1 ._. 
+</s>
+<s>
+To_TO make_VVI the_AT full_JJ use_NN1 of_IO expertise_NN1 ,_, project_NN1 will_VM be_VBI broken_VVN down_RP into_II smaller_JJR work_NN1 packages_NN2 and_CC will_VM be_VBI headed_VVN by_II experienced_JJ or_CC professionals_NN2 from_II the_AT respective_JJ field_NN1 ._. 
+</s>
+<s>
+Breakdown_NN1 of_IO work_NN1 will_VM follow_VVI 'Work_NN1 Breakdown_NN1 Structure'_NP1 manner_NN1 ._. 
+</s>
+<s>
+As_CSA we_PPIS2 are_VBR hoping_VVG to_TO maintain_VVI CFS_VVZ status_NN1 as_II a_AT1 family_NN1 oriented_VVD company_NN1 ,_, CFS_VVZ are_VBR going_VVGK to_TO offer_VVI as_RG much_DA1 support_NN1 as_CSA possible_JJ to_II our_APPGE employees_NN2 ._. 
+</s>
+<s>
+CFS_VVZ will_VM encourage_VVI and_CC offer_VVI over_II time_NNT1 to_II employees_NN2 to_TO take_VVI up_RP training_NN1 programme_NN1 run_VVN by_II our_APPGE training_NN1 section_NN1 outside_II office_NN1 hours_NNT2 to_TO keep_VVI the_AT effect_NN1 at_II minimum_NN1 ._. 
+</s>
+<s>
+A_AT1 special_JJ supportive_JJ team_NN1 will_VM also_RR be_VBI available_JJ to_TO answer_VVI any_DD question_NN1 staff_NN may_VM have_VHI during_II the_AT project_NN1 implementation_NN1 ._. 
+</s>
+<s>
+ORANGE_NN1 should_VM conduct_VVI a_AT1 participative_JJ approach_NN1 to_TO make_VVI sure_JJ opinions_NN2 are_VBR listened_VVN ._. 
+</s>
+<s>
+We_PPIS2 will_VM regularly_RR inform_VVI the_AT trade_NN1 unions_NN2 the_AT project_NN1 progress_NN1 ._. 
+</s>
+<s>
+They_PPHS2 will_VM not_XX be_VBI involved_JJ in_II project_NN1 planning_NN1 ._. 
+</s>
+<s>
+However_RR ,_, they_PPHS2 should_VM be_VBI consulted_VVN or_CC even_RR participate_VV0 in_II some_DD of_IO the_AT activities_NN2 ,_, such_II21 as_II22 encouraging_JJ staff_NN to_TO take_VVI up_RP paid_JJ training_NN1 outside_II office_NN1 hours_NNT2 ,_, monitor_NN1 and_CC evaluate_VV0 project_NN1 's_GE progress_NN1 ._. 
+</s>
+<s>
+CFS_VVZ will_VM conduct_VVI a_AT1 DIY_NN1 approach_NN1 in_II all_DB areas_NN2 of_IO ORANGE_NN1 apart_II21 from_II22 IT_NN1 as_CSA it_PPH1 will_VM be_VBI outsourced_VVN to_II a_AT1 single_JJ ,_, turnkey_NN1 contractor_NN1 ._. 
+</s>
+<s>
+Through_II outsourcing_VVG the_AT major_JJ part_NN1 of_IO the_AT software_NN1 development_NN1 and_CC installation_NN1 activity_NN1 ,_, our_APPGE IT_NN1 staff_NN members_NN2 will_VM benefit_VVI from_II learning_VVG invaluable_JJ skills_NN2 through_II working_VVG with_IW our_APPGE contractor_NN1 and_CC have_VH0 more_RGR spare_JJ time_NNT1 to_TO take_VVI part_NN1 in_II staff_NN training_NN1 ._. 
+</s>
+<s>
+We_PPIS2 are_VBR pleased_JJ to_TO announce_VVI our_APPGE project_NN1 team_NN1 composed_VVN of_IO people_NN from_II a_AT1 wide_JJ variety_NN1 of_IO background_NN1 ._. 
+</s>
+<s>
+This_DD1 includes_VVZ the_AT board_NN1 of_IO directors_NN2 ,_, senior_JJ management_NN1 ,_, functional_JJ managers_NN2 ,_, the_AT project_NN1 manager_NN1 ,_, different_JJ work_NN1 package_NN1 managers_NN2 and_CC our_APPGE contractors_NN2 at_II certain_JJ stages_NN2 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+Strategic_JJ control_NN1 should_VM be_VBI exercised_VVN at_II set_JJ key_JJ milestones_NN2 ,_, such_II21 as_II22 at_II the_AT end_NN1 of_IO certain_JJ activity_NN1 ._. 
+</s>
+<s>
+Control_NN1 will_VM be_VBI exercised_VVN by_II the_AT Board_NN1 of_IO Directors_NN2 ._. 
+</s>
+<s>
+Planning_NN1 is_VBZ known_VVN to_II some_DD project_NN1 managers_NN2 as_CSA creating_VVG a_AT1 list_NN1 or_CC visual_JJ display_NN1 when_CS all_DB project_NN1 activities_NN2 have_VH0 been_VBN subjected_VVN to_II estimating_VVG ,_, logical_JJ sequencing_NN1 and_CC time_NNT1 analysis_NN1 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, it_PPH1 means_VVZ project_NN1 has_VHZ to_TO be_VBI broken_VVN down_RP into_II activities_NN2 and_CC their_APPGE duration_NN1 has_VHZ to_TO be_VBI estimated_VVN ._. 
+</s>
+<s>
+I_PPIS1 recommend_VV0 a_AT1 detailed_JJ precedence_NN1 network_NN1 analysis_NN1 combined_VVN should_VM be_VBI conducted_VVN with_IW a_AT1 parallel_JJ resource_NN1 allocation_NN1 approach_NN1 ._. 
+</s>
+<s>
+Monitoring_NN1 and_CC evaluation_NN1 is_VBZ an_AT1 essential_JJ part_NN1 of_IO progress_NN1 control_NN1 ._. 
+</s>
+<s>
+It_PPH1 determines_VVZ if_CS the_AT project_NN1 is_VBZ proceeding_VVG according_II21 to_II22 plan_NN1 ,_, if_CS not_XX ,_, how_RRQ much_RR it_PPH1 is_VBZ behind/ahead_RL by_II ._. 
+</s>
+<s>
+These_DD2 data_NN will_VM then_RT be_VBI looked_VVN at_II in_II review_NN1 meetings_NN2 ._. 
+</s>
+<s>
+The_AT purpose_NN1 of_IO review_NN1 meetings_NN2 is_VBZ to_TO keep_VVI a_AT1 periodic_JJ check_NN1 on_II the_AT project_NN1 progress_NN1 ,_, and_CC to_TO take_VVI corrective_JJ action_NN1 ,_, if_CS necessary_JJ ,_, through_II discussion_NN1 within_II the_AT project_NN1 group_NN1 ._. 
+</s>
+<s>
+The_AT usual_JJ control_NN1 parameters_NN2 monitored_VVN and_CC evaluated_VVN are_VBR :_: The_AT Essentials_NN2 of_IO Project_NN1 Management_NN1 ,_, Second_MD Edition_NN1 ,_, Gower_NP1 ._. 
+</s>
+<s>
+The_AT practice_NN1 of_IO Project_NN1 Management_NN1 ,_, Frigenti_NP1 and_CC Comninos_NN2 ._. 
+</s>
+<s>
+The_AT frequency_NN1 of_IO review_NN1 meetings_NN2 depends_VVZ upon_II the_AT nature_NN1 of_IO the_AT project_NN1 ,_, duration_NN1 and_CC complexity_NN1 ._. 
+</s>
+<s>
+According_II21 to_II22 Gower_NP1 ,_, projects_NN2 of_IO medium_JJ to_TO long_JJ duration_NN1 should_VM have_VHI regular_JJ review_NN1 meetings_NN2 monthly_JJ ._. 
+</s>
+<s>
+He_PPHS1 also_RR suggests_VVZ that_CST (_( operational_JJ )_) meetings_NN2 at_II junior_JJ level_NN1 can_VM be_VBI backed_VVN up_RP by_II infrequent_JJ meetings_NN2 held_VVN at_II management_NN1 (_( strategic_JJ )_) level_NN1 ._. 
+</s>
+<s>
+I_PPIS1 propose_VV0 that_DD1 review_NN1 meetings_NN2 should_VM be_VBI held_VVN regularly_RR as_CSA suggested_VVN by_II Gower_NP1 ,_, as_II31 well_II32 as_II33 having_VHG few_DA2 milestones_NN2 review_VV0 meetings_NN2 that_CST set_VVD in_II the_AT middle_NN1 of_IO significant_JJ activities_NN2 ._. 
+</s>
+<s>
+The_AT reason_NN1 having_VHG extra_JJ milestone_NN1 meetings_NN2 is_VBZ that_DD1 corrective_JJ action_NN1 can_VM be_VBI taken_VVN immediately_RR in_II the_AT middle_NN1 of_IO those_DD2 significant_JJ activities_NN2 ._. 
+</s>
+<s>
+If_CS having_VHG it_PPH1 at_II the_AT end_NN1 of_IO the_AT activities_NN2 or_CC leave_VV0 it_PPH1 until_CS monthly_JJ meetings_NN2 ,_, issues_NN2 may_VM become_VVI irreversible_JJ and_CC 'uncorrectable'_NN1 ._. 
+</s>
+<s>
+Any_DD project_NN1 group_NN1 member_NN1 can_VM also_RR call_VVI a_AT1 special_JJ review_NN1 meeting_NN1 if_CS they_PPHS2 feel_VV0 necessary_JJ ._. 
+</s>
+<s>
+Strategic_JJ review_NN1 meetings_NN2 should_VM be_VBI attended_VVN by_II members_NN2 of_IO senior_JJ management_NN1 level_NN1 in_II the_AT project_NN1 group_NN1 ,_, such_II21 as_II22 board_NN1 of_IO directors_NN2 ,_, etc_RA while_CS operational_JJ meetings_NN2 should_VM include_VVI different_JJ package_NN1 managers_NN2 ,_, contractors_NN2 ,_, etc_RA ._. 
+</s>
+<s>
+Project_NN1 plan_NN1 should_VM be_VBI updated_VVN regularly_RR to_TO reflect_VVI decision_NN1 made_VVN in_II both_DB2 strategic_JJ and_CC operational_JJ level_NN1 and_CC all_DB project_NN1 workers_NN2 should_VM be_VBI notified_VVN all_DB the_AT key_JJ points_NN2 from_II the_AT meeting_NN1 through_II notification_NN1 on_II the_AT staff_NN notice_VV0 board_NN1 ._. 
+</s>
+<s>
+To_TO carry_VVI out_RP ORANGE_NN1 ,_, a_AT1 budget_NN1 has_VHZ to_TO be_VBI prepared_VVN for_IF the_AT execution_NN1 stage_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+Like_II progress_NN1 planning_NN1 ,_, it_PPH1 is_VBZ good_JJ practice_NN1 to_TO have_VHI a_AT1 financial_JJ control_NN1 ._. 
+</s>
+<s>
+I_PPIS1 suggest_VV0 we_PPIS2 should_VM assume_VVI cost_NN1 as_II the_AT primary_JJ parameter_NN1 in_II our_APPGE financial_JJ control_NN1 system_NN1 as_CSA it_PPH1 allows_VVZ direct_JJ comparison_NN1 between_II costs_NN2 incurred_VVN and_CC the_AT value_NN1 of_IO work_NN1 done_VDN in_II31 terms_II32 of_II33 its_APPGE budget_NN1 cost_NN1 ,_, which_DDQ is_VBZ known_VVN as_II earned_VVN value_NN1 ._. 
+</s>
+<s>
+Cost_NN1 should_VM be_VBI recognised_VVN when_CS a_AT1 service_NN1 or_CC product_NN1 has_VHZ been_VBN received_VVN and_CC commitment_NN1 is_VBZ generated_VVN when_CS the_AT proposal_NN1 of_IO order_NN1 ,_, etc_RA has_VHZ been_VBN accepted_VVN and_CC given_VVN a_AT1 go-ahead_NN1 ._. 
+</s>
+<s>
+Because_II21 of_II22 the_AT nature_NN1 of_IO the_AT project_NN1 ,_, overhead_JJ cost_NN1 is_VBZ not_XX relevant_JJ as_II the_AT project_NN1 is_VBZ carried_VVN out_RP within_II the_AT organisation_NN1 ._. 
+</s>
+<s>
+As_CS31 far_CS32 as_CS33 budget_NN1 planning_NN1 is_VBZ concerned_JJ ,_, it_PPH1 should_VM be_VBI a_AT1 complex_NN1 based_VVN budget_NN1 system_NN1 as_CSA that_DD1 allows_VVZ actual_JJ performance_NN1 at_II the_AT end_NN1 of_IO each_DD1 period_NN1 to_TO be_VBI compared_VVN with_IW budget_NN1 and_CC thus_RR more_DAR control_NN1 over_II the_AT project_NN1 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ understood_VVN a_AT1 complex_JJ system_NN1 may_VM be_VBI proved_VVN difficult_JJ in_II certain_JJ work_NN1 package_NN1 ,_, such_II21 as_II22 IT_NN1 ,_, if_CS it_PPH1 is_VBZ outsourced_VVN as_CSA suggested_VVN ._. 
+</s>
+<s>
+I_PPIS1 recommend_VV0 in_II that_DD1 certain_JJ work_NN1 package_NN1 ,_, a_AT1 functional_JJ work_NN1 based_VVN budget_NN1 to_TO be_VBI used_VVN ._. 
+</s>
+<s>
+Project_NN1 Management_NN1 ,_, Richard_NP1 Wheeler_NP1 ._. 
+</s>
+<s>
+Accounting_VVG for_IF Non-Accounting_JJ Students_NN2 ,_, Sixth_MD Edition_NN1 ,_, Dyson_NP1 ._. 
+</s>
+<s>
+Project_NN1 Management_NN1 ,_, Richard_NP1 Wheeler_NP1 ._. 
+</s>
+<s>
+As_CS31 far_CS32 as_CS33 the_AT project_NN1 concerned_JJ ,_, it_PPH1 is_VBZ an_AT1 internal_JJ development_NN1 of_IO business_NN1 ,_, therefore_RR I_PPIS1 propose_VV0 a_AT1 fixed_JJ budget_NN1 should_VM be_VBI used_VVN ._. 
+</s>
+<s>
+Flexible_JJ budget_NN1 is_VBZ not_XX appropriate_JJ as_CSA variable_JJ cost_NN1 should_VM not_XX be_VBI too_RG much_DA1 of_IO an_AT1 issue_NN1 ._. 
+</s>
+<s>
+Functional_JJ budgets_NN2 for_IF each_DD1 work_NN1 package_NN1 can_VM be_VBI prepared_VVN by_II ._. 
+</s>
+<s>
+Functional_JJ budgets_NN2 can_VM then_RT be_VBI added_VVN together_RL to_II forma_NN1 master_NN1 budget_NN1 ._. 
+</s>
+<s>
+The_AT proposed_JJ budget_NN1 should_VM be_VBI used_VVN as_II a_AT1 detailed_JJ plan_NN1 for_IF future_JJ action_NN1 as_II31 well_II32 as_II33 a_AT1 control_NN1 system_NN1 ._. 
+</s>
+<s>
+A_AT1 budgetary_JJ control_NN1 system_NN1 can_VM monitor_VVI the_AT activities_NN2 of_IO the_AT project_NN1 closely_RR ._. 
+</s>
+<s>
+It_PPH1 is_VBZ done_VDN by_II comparing_VVG the_AT actual_JJ performance_NN1 with_IW the_AT budgeted_JJ performance_NN1 ._. 
+</s>
+<s>
+Significant_JJ variances_NN2 should_VM then_RT be_VBI investigated_VVN in_II review_NN1 meetings_NN2 and_CC correction_NN1 action_NN1 may_VM then_RT be_VBI taken_VVN ._. 
+</s>
+<s>
+It_PPH1 is_VBZ ideal_JJ to_TO plan_VVI and_CC control_NN1 budgets_NN2 at_II key_JJ milestone_NN1 ,_, as_II31 well_II32 as_II33 using_VVG a_AT1 fixed_JJ time_NNT1 interval_NN1 ._. 
+</s>
+<s>
+By_II using_VVG complex_JJ budgeting_NN1 system_NN1 ,_, there_EX are_VBR 6_MC control_NN1 comparisons_NN2 to_TO be_VBI used_VVN such_II21 as_II22 actual_JJ cost_NN1 to_II date_NN1 vs_II budget_NN1 to_II date_NN1 ,_, earned_VVD value_NN1 to_II date_NN1 vs_II budget_NN1 earned_VVD value_NN1 to_II date_NN1 ,_, commitment_NN1 to_II date_NN1 vs_II budget_NN1 commitment_NN1 to_II date_NN1 ,_, total_JJ projected_JJ cost_NN1 based_VVN on_II actual_JJ cost_NN1 to_II date_NN1 vs_II total_JJ budget_NN1 ,_, earned_VVD value_NN1 to_II date_NN1 vs_II actual_JJ cost_NN1 ,_, actual_JJ cost+_FO current_JJ commitment_NN1 vs_II total_JJ budget_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ that_CST ORANGE_JJ planning_NN1 involves_VVZ everyone_PN1 in_II the_AT project_NN1 group_NN1 as_CSA it_PPH1 draws_VVZ commitment_NN1 and_CC expertise_NN1 from_II every_AT1 individual_JJ member_NN1 ._. 
+</s>
+<s>
+Stakeholders_NN2 management_NN1 ,_, definition_NN1 of_IO the_AT project_NN1 ,_, implementation_NN1 strategy_NN1 ,_, risk_NN1 management_NN1 ,_, progress_NN1 and_CC expenditure_NN1 planning_NN1 are_VBR issues_NN2 that_CST have_VH0 to_TO be_VBI considered_VVN during_II the_AT appraisal_NN1 and_CC preparation_NN1 phase_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+Control_NN1 is_VBZ an_AT1 important_JJ issue_NN1 during_II the_AT implementation_NN1 phase_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ project_NN1 manager_NN1 's_GE responsibility_NN1 to_TO monitor_VVI and_CC evaluate_VVI project_NN1 progress_NN1 in_II31 terms_II32 of_II33 actual_JJ progress_NN1 and_CC expenditure_NN1 ._. 
+</s>
+<s>
+The_AT data_NN is_VBZ then_RT presented_VVN to_II the_AT group_NN1 in_II review_NN1 meetings_NN2 ._. 
+</s>
+<s>
+These_DD2 meetings_NN2 should_VM be_VBI held_VVN at_II different_JJ stages_NN2 and_CC milestones_NN2 of_IO the_AT project_NN1 so_RR progress_NN1 is_VBZ monitored_VVN closely_RR and_CC corrective_JJ action_NN1 can_VM be_VBI taken_VVN immediately_RR ._. 
+</s>
+<s>
+I_PPIS1 believe_VV0 if_CS practiced_VVN successfully_RR ,_, ORANGE_NN1 will_VM be_VBI of_IO great_JJ impact_NN1 to_II the_AT future_NN1 of_IO CFS_VVZ and_CC I_PPIS1 ,_, therefore_RR ,_, ask_VV0 everyone_PN1 ,_, from_II the_AT board_NN1 of_IO directors_NN2 to_II general_JJ staff_NN members_NN2 ,_, to_TO commit_VVI themselves_PPX2 to_II changes_NN2 brought_VVN by_II ORANGE_NN1 ._. 
+</s>
+<s>
+FMEA_NP1 is_VBZ a_AT1 good_JJ risk_NN1 management_NN1 tool_NN1 in_II project_NN1 planning_NN1 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 has_VHZ a_AT1 weakness_NN1 as_CSA it_PPH1 is_VBZ incredibly_RR difficult_JJ to_TO put_VVI a_AT1 value_NN1 for_IF both_DB2 level_NN1 of_IO impact_NN1 and_CC probability_NN1 to_TO happen_VVI ._. 
+</s>
+<s>
+And_CC therefore_RR it_PPH1 may_VM result_VVI in_II a_AT1 wrong_JJ risk_NN1 management_NN1 strategy_NN1 ._. 
+</s>
+<s>
+Risk_VV0 assessment_NN1 list_NN1 may_VM be_VBI able_JK to_TO solve_VVI the_AT problem_NN1 ._. 
+</s>
+<s>
+It_PPH1 requires_VVZ risk_NN1 assessor_NN1 ticks_NN2 which_DDQ statement_NN1 in_II each_DD1 category_NN1 most_RGT closely_RR describes_VVZ the_AT project_NN1 being_VBG assessed_VVN ._. 
+</s>
+<s>
+The_AT risk_NN1 scores_NN2 can_VM then_RT bed_NN1 added_VVD together_RL to_TO produce_VVI an_AT1 overall_JJ risk_NN1 figure_NN1 ._. 
+</s>
+<s>
+This_DD1 helps_VVZ project_NN1 managers_NN2 to_TO decide_VVI what_DDQ value_NN1 to_TO put_VVI for_IF level_NN1 of_IO impact_NN1 ._. 
+</s>
+<s>
+However_RR ,_, as_CS31 far_CS32 as_CS33 I_PPIS1 am_VBM concerned_JJ ,_, there_EX is_VBZ still_RR no_AT other_JJ tool_NN1 in_II probability_NN1 assessing_VVG though_CS it_PPH1 may_VM help_VVI managers_NN2 by_II looking_VVG at_II relevant_JJ statistical_JJ data_NN ._. 
+</s>
+<s>
+Project_NN1 Management_NN1 ,_, Field_NP1 and_CC Keller_NP1 ._. 
+</s>
+<s>
+Sharing_VVG a_AT1 risk_NN1 is_VBZ no_RR21 doubt_RR22 a_AT1 very_RG good_JJ risk_NN1 management_NN1 solution_NN1 ._. 
+</s>
+<s>
+However_RR ,_, it_PPH1 is_VBZ not_XX always_RR effective_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, by_II outsourcing_VVG the_AT software_NN1 development_NN1 and_CC installation_NN1 part_NN1 of_IO the_AT project_NN1 to_II a_AT1 single_JJ ,_, turnkey_NN1 contractor_NN1 ,_, it_PPH1 does_VDZ not_XX offer_VVI as_RG much_DA1 protection_NN1 to_II CFS_VVZ as_CSA it_PPH1 is_VBZ supposed_JJ to_TO ._. 
+</s>
+<s>
+It_PPH1 is_VBZ simply_RR due_II21 to_II22 the_AT fact_NN1 that_CST the_AT contractor_NN1 may_VM be_VBI held_VVN responsible_JJ for_IF any_DD damage_NN1 caused_VVN by_II the_AT software_NN1 fault_NN1 and_CC contribute_VV0 to_II compensation_NN1 but_CCB they_PPHS2 do_VD0 not_XX share_VVI the_AT damage_NN1 to_II CFS_VVZ reputation_NN1 ._. 
+</s>
+<s>
+As_II an_AT1 example_NN1 ,_, if_CS customers_NN2 detail_NN1 got_VVD stolen_VVN because_CS the_AT software_NN1 was_VBDZ not_XX secure_JJ enough_RR and_CC such_DA burglary_NN1 caused_VVD our_APPGE customers_NN2 financial_JJ loss_NN1 ,_, the_AT contractor_NN1 might_VM be_VBI responsible_JJ for_IF the_AT compensation_NN1 but_CCB it_PPH1 does_VDZ not_XX change_VVI CFS_VVZ image_NN1 as_II a_AT1 untrustworthy_JJ insurance_NN1 company_NN1 to_II customers_NN2 ._. 
+</s>
+<s>
+Project_NN1 Managers_NN2 rarely_RR have_VH0 the_AT chance_NN1 to_TO select_VVI project_NN1 team_NN1 members_NN2 in_II real_JJ projects_NN2 ._. 
+</s>
+<s>
+The_AT mix_NN1 of_IO skill_NN1 therefore_RR may_VM not_XX be_VBI complete_JJ or_CC lack_VV0 a_AT1 particular_JJ skill_NN1 from_II the_AT usual_JJ composition_NN1 of_IO project_NN1 teams_NN2 ._. 
+</s>
+<s>
+Project_NN1 managers_NN2 should_VM try_VVI exerting_VVG their_APPGE influence_NN1 in_II the_AT project_NN1 team_NN1 composition_NN1 process_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI done_VDN by_II obtaining_VVG right_NN1 of_IO veto_NN1 but_CCB such_DA move_NN1 may_VM be_VBI resented_VVN by_II seniors_NN2 and_CC should_VM be_VBI carefully_RR thought_VVN over_RP ._. 
+</s>
+<s>
+To_TO avoid_VVI direct_JJ conflict_NN1 with_IW seniors_NN2 ,_, project_NN1 managers_NN2 can_VM define_VVI the_AT functions_NN2 of_IO the_AT group_NN1 or_CC by_II drawing_VVG up_RP a_AT1 specification_NN1 of_IO the_AT right_JJ person_NN1 for_IF the_AT team_NN1 ._. 
+</s>
+<s>
+However_RR ,_, project_NN1 managers_NN2 may_VM have_VHI no_AT control_NN1 over_II who_PNQS is_VBZ chosen_VVN at_II the_AT end_NN1 but_CCB by_II drawing_VVG up_RP a_AT1 specification_NN1 and_CC function_NN1 ,_, it_PPH1 is_VBZ more_RGR likely_JJ they_PPHS2 will_VM be_VBI given_VVN the_AT right_JJ characters_NN2 they_PPHS2 want_VV0 ._. 
+</s>
+<s>
+Project_NN1 manager_NN1 should_VM ensure_VVI their_APPGE project_NN1 teams_NN2 of_IO the_AT right_JJ size_NN1 and_CC good_JJ interpersonal_JJ mix_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, by_II having_VHG a_AT1 large_JJ project_NN1 group_NN1 ,_, it_PPH1 may_VM slow_VVI down_RP the_AT project_NN1 progress_NN1 even_CS21 though_CS22 it_PPH1 draws_VVZ commitment_NN1 and_CC expertise_NN1 from_II a_AT1 larger_JJR group_NN1 of_IO people_NN and_CC thus_RR costly_JJ ._. 
+</s>
+<s>
+Good_JJ interpersonal_JJ mix_NN1 is_VBZ important_JJ as_CSA individual_JJ members_NN2 will_VM react_VVI ._. 
+</s>
+<s>
+Team_NN1 selection_NN1 is_VBZ based_VVN on_II understanding_VVG individuals_NN2 preferred_JJ roles_NN2 to_TO make_VVI sure_JJ that_CST a_AT1 balance_NN1 group_NN1 is_VBZ chosen_VVN ._. 
+</s>
+<s>
+But_CCB as_CSA mentioned_VVN earlier_RRR ,_, this_DD1 is_VBZ often_RR not_XX possible_JJ as_CSA project_NN1 managers_NN2 do_VD0 not_XX often_RR have_VHI the_AT right_NN1 to_TO pick_VVI their_APPGE teams_NN2 ._. 
+</s>
+<s>
+So_RR if_CS there_EX are_VBR roles_NN2 that_CST are_VBR not_XX covered_VVN in_II the_AT project_NN1 team_NN1 due_II21 to_II22 that_DD1 ,_, project_NN1 team_NN1 should_VM be_VBI encouraged_VVN to_TO address_VVI them_PPHO2 ._. 
+</s>
+<s>
+According_II21 to_II22 Belbin_NP1 ,_, there_EX are_VBR 9_MC different_JJ kinds_NN2 of_IO team_NN1 members_NN2 ._. 
+</s>
+<s>
+They_PPHS2 are_VBR implementer_NN1 ,_, Co-ordinator_NN1 ,_, Shaper_NP1 ,_, Plant_VV0 ,_, Resource_VV0 Investigator_NP1 ,_, Monitor_VV0 Evaluator_NP1 ,_, Team_NN1 Worker_NN1 ,_, Completer-finished_NN1 ,_, Specialists_NN2 ._. 
+</s>
+<s>
+Project_NP1 Mangement_NP1 ,_, Wheeler_NP1 ._. 
+</s>
+<s>
+PRINCE_NN1 ,_, short_JJ for_IF 'Projects_NN2 in_II Controlled_JJ Environments_NN2 '_GE ,_, is_VBZ a_AT1 project_NN1 management_NN1 methodology_NN1 for_IF the_AT organisation_NN1 ,_, management_NN1 and_CC control_NN1 of_IO projects_NN2 ._. 
+</s>
+<s>
+It_PPH1 was_VBDZ initially_RR developed_VVN as_II a_AT1 UK_NP1 government_NN1 standard_NN1 for_IF IT_NN1 project_NN1 management_NN1 by_II the_AT CCTA_NP1 (_( Central_JJ Computer_NN1 and_CC Telecommunications_NN2 Agency_NN1 )_) in_II 1989_MC ._. 
+</s>
+<s>
+Its_APPGE application_NN1 soon_RR extend_VV0 beyond_II the_AT IT_NN1 boundary_NN1 and_CC in_II 1996_MC ,_, it_PPH1 was_VBDZ released_VVN as_II a_AT1 generic_JJ management_NN1 method_NN1 and_CC has_VHZ been_VBN increasingly_RR popular_JJ within_RL and_CC outside_II UK_NP1 ._. 
+</s>
+<s>
+PRINCE2_FO is_VBZ seen_VVN as_II a_AT1 process_NN1 based_VVN approach_NN1 to_TO project_VVI management_NN1 and_CC usually_RR consists_VVZ of_IO the_AT following_JJ eight_MC high_JJ level_JJ processes_NN2 :_: Processes_NN2 such_II21 as_II22 Starting_VVG up_RP ,_, Initiation_NN1 and_CC Closing_NN1 correspond_VV0 to_II specific_JJ phases_NN2 in_II a_AT1 project_NN1 while_CS implementation_NN1 phase_NN1 in_II project_NN1 life_NN1 cycle_NN1 is_VBZ split_VVN into_II 3_MC processes-_NN1 Controlling_VVG a_AT1 stage_NN1 ,_, Managing_JJ product_NN1 delivery_NN1 and_CC Managing_JJ stage_NN1 boundaries_NN2 ._. 
+</s>
+<s>
+However_RR ,_, there_EX are_VBR 2_MC processes_NN2 that_CST extend_VV0 beyond_II phases_NN2 ,_, e.g._REX The_AT process_NN1 Directing_VVG a_AT1 project_NN1 applies_VVZ for_IF the_AT length_NN1 of_IO the_AT project_NN1 ,_, while_CS Planning_NN1 applies_VVZ for_IF all_DB phases_NN2 apart_RL the_AT final_JJ one_PN1 -_- Closing_VVG a_AT1 project_NN1 ._. 
+</s>
+<s>
+To_TO understand_VVI how_RRQ PRINCE_NN1 2_MC works_NN ,_, it_PPH1 is_VBZ essential_JJ to_TO understand_VVI each_DD1 process_NN1 element_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 pre-project_JJ process_NN1 that_CST evaluates_VVZ if_CS the_AT project_NN1 would_VM be_VBI worthwhile_JJ before_II gong_NN1 further_RRR ._. 
+</s>
+<s>
+Project_NN1 Mandate_NN1 identifies_VVZ the_AT major_JJ project_NN1 stakeholders_NN2 and_CC the_AT composition_NN1 of_IO the_AT project_NN1 group_NN1 ._. 
+</s>
+<s>
+The_AT project_NN1 aim_NN1 ,_, objectives_NN2 and_CC scope_NN1 is_VBZ also_RR decided_VVN at_II this_DD1 stage_NN1 and_CC presented_VVN in_II a_AT1 document_NN1 called_VVN Project_NN1 Brief_NN1 ._. 
+</s>
+<s>
+The_AT project_NN1 approach_NN1 and_CC risk_NN1 analysis_NN1 (_( implementation_NN1 strategy_NN1 )_) are_VBR usually_RR decided_VVN and_CC done_VDN at_II this_DD1 stage_NN1 ,_, as_CSA a_AT1 blueprint_NN1 for_IF the_AT initiation_NN1 stage_NN1 ._. 
+</s>
+<s>
+This_DD1 process_NN1 defines_VVZ the_AT power_NN1 of_IO the_AT Project_NN1 Board_NN1 who_PNQS are_VBR responsible_JJ for_IF the_AT project_NN1 ._. 
+</s>
+<s>
+Their_APPGE function_NN1 includes_VVZ authorising_VVG appraisals_NN2 and_CC execution_NN1 ._. 
+</s>
+<s>
+The_AT project_NN1 manager_NN1 keeps_VVZ the_AT Project_NN1 Board_NN1 informed_VVN with_IW regular_JJ reports_NN2 and_CC report_NN1 progress_NN1 in_II scheduled_JJ review_NN1 meetings_NN2 ._. 
+</s>
+<s>
+This_DD1 process_NN1 is_VBZ similar_JJ to_TO control_VVI ,_, that_DD1 is_VBZ carried_VVN out_RP through_II the_AT project_NN1 life_NN1 cycle_NN1 ._. 
+</s>
+<s>
+However_RR ,_, one_PN1 should_VM notice_VVI that_DD1 PRINCE_NN1 2_MC has_VHZ a_AT1 special_JJ characteristic_JJ feature_NN1 in_II31 terms_II32 of_II33 the_AT role_NN1 of_IO the_AT project_NN1 group_NN1 ._. 
+</s>
+<s>
+PRINCE_NN1 2_MC is_VBZ a_AT1 process_NN1 management_NN1 approach_NN1 by_II exception_NN1 ,_, which_DDQ in_II other_JJ words_NN2 mean_VV0 project_NN1 group_NN1 only_RR make_VV0 corrective_JJ decisions_NN2 when_RRQ the_AT project_NN1 is_VBZ predicted_VVN to_TO fail_VVI achieving_VVG targets_NN2 and_CC goals_NN2 ._. 
+</s>
+<s>
+Proper_JJ planning_NN1 of_IO the_AT project_NN1 is_VBZ needed_VVN to_TO persuade_VVI project_NN1 group_NN1 to_TO authorise_VVI go-ahead_NN1 to_II the_AT project_NN1 ._. 
+</s>
+<s>
+It_PPH1 contains_VVZ details_NN2 of_IO how_RRQ the_AT project_NN1 would_VM be_VBI done_VDN ,_, how_RRQ much_RR the_AT cost_NN1 would_VM be_VBI i.e._REX budgeting_NN1 ,_, how_RRQ to_TO minimise_VVI risks_NN2 ,_, etc_RA ._. 
+</s>
+<s>
+It_PPH1 should_VM also_RR contain_VVI basic_JJ information_NN1 on_II project_NN1 progress_NN1 and_CC financial_JJ control_NN1 ._. 
+</s>
+<s>
+All_DB these_DD2 planning_NN1 should_VM be_VBI presented_VVN in_II a_AT1 proposal_NN1 called_VVN Project_NN1 Initiation_NN1 Document_NN1 ,_, which_DDQ must_VM be_VBI approved_VVN by_II the_AT Project_NN1 Board_NN1 before_II implementation_NN1 can_VM start_VVI ._. 
+</s>
+<s>
+Prince_NN1 2_MC encourages_VVZ breakdown_NN1 of_IO projects_NN2 into_II manageable_JJ stages_NN2 so_CS they_PPHS2 can_VM be_VBI managed_VVN and_CC controlled_VVN more_RGR easily_RR ._. 
+</s>
+<s>
+Each_DD1 stage_NN1 has_VHZ its_APPGE own_DA detailed_JJ plan_NN1 and_CC plan_VV0 for_IF the_AT upcoming_JJ stage_NN1 ._. 
+</s>
+<s>
+Next_MD term_NN1 can_VM not_XX be_VBI started_VVN until_CS the_AT current_JJ stage_NN1 has_VHZ been_VBN completed_VVN ._. 
+</s>
+<s>
+PRINCE2_FO is_VBZ a_AT1 product_NN1 based_VVN system_NN1 ._. 
+</s>
+<s>
+A_AT1 product_NN1 can_VM be_VBI a_AT1 physical_JJ thing_NN1 like_II a_AT1 book_NN1 ,_, or_CC it_PPH1 could_VM be_VBI a_AT1 more_RGR intangible_JJ thing_NN1 like_II a_AT1 service_NN1 agreement_NN1 ._. 
+</s>
+<s>
+In_II fact_NN1 everything_PN1 created_VVN by_II PRINCE2_FO including_II documents_NN2 is_VBZ a_AT1 product_NN1 ._. 
+</s>
+<s>
+Products_NN2 can_VM be_VBI created_VVN by_II anyone_PN1 including_II external_JJ suppliers_NN2 ._. 
+</s>
+<s>
+This_DD1 process_NN1 creates_VVZ the_AT products_NN2 of_IO the_AT project_NN1 and_CC is_VBZ where_RRQ most_DAT of_IO its_APPGE resources_NN2 are_VBR used_VVN ._. 
+</s>
+<s>
+As_CSA PRINCE_NN1 2_MC encourage_VV0 division_NN1 of_IO project_NN1 into_II stages_NN2 ,_, each_DD1 stage_NN1 has_VHZ to_TO be_VBI clearly_RR defined_VVN ._. 
+</s>
+<s>
+Each_DD1 stage_NN1 has_VHZ to_TO be_VBI completed_VVN and_CC approved_VVN by_II the_AT project_NN1 group_NN1 before_II the_AT next_MD stage_NN1 is_VBZ started_VVN ._. 
+</s>
+<s>
+Projects_NN2 implementation_NN1 must_VM be_VBI closed_VVN down_RP in_II a_AT1 controlled_JJ and_CC orderly_JJ way_NN1 ,_, according_II21 to_II22 PRINCE_NN1 2_MC principles_NN2 ._. 
+</s>
+<s>
+This_DD1 involves_VVZ evaluating_VVG the_AT project_NN1 's_GE result_NN1 in_II post_NN1 project_NN1 review_NN1 ._. 
+</s>
+<s>
+Experience_NN1 learnt_VVN is_VBZ then_RT recorded_VVN ._. 
+</s>
+<s>
+PRINCE_NN1 2_MC ,_, unlike_JJ traditional_JJ project_NN1 life_NN1 cycle_NN1 ,_, does_VDZ not_XX include_VVI the_AT operation_NN1 part_NN1 of_IO projects_NN2 and_CC it_PPH1 takes_VVZ the_AT end_NN1 of_IO implementation_NN1 part_NN1 as_II the_AT end_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+PRINCE_NN1 2_MC provides_VVZ a_AT1 model_NN1 organisation_NN1 for_IF undertaking_VVG projects_NN2 ._. 
+</s>
+<s>
+The_AT structure_NN1 of_IO the_AT organisation_NN1 is_VBZ based_VVN on_II a_AT1 customer_NN1 and_CC supplier_NN1 ,_, which_DDQ is_VBZ supposed_JJ to_TO be_VBI suitable_JJ for_IF most_DAT projects_NN2 ._. 
+</s>
+<s>
+So_RR it_PPH1 is_VBZ suitable_JJ to_TO apply_VVI PRINCE_NN1 2_MC to_II ORANGE_NN1 ._. 
+</s>
+<s>
+By_II applying_VVG PRINCE_NN1 2_MC ,_, ORANGE_NN1 can_VM benefit_VVI from_II :_: According_II21 to_II22 the_AT OGC_NN1 website_NN1 ,_, PRINCE_NN1 2_MC methods_NN2 can_VM be_VBI easily_RR tailored_VVN and_CC scaleable_JJ to_TO satisfy_VVI our_APPGE needs_NN2 ._. 
+</s>
+<s>
+As_CSA project_NN1 is_VBZ divided_VVN into_II different_JJ manageable_JJ processes_NN2 ,_, it_PPH1 enables_VVZ efficient_JJ control_NN1 of_IO resources_NN2 and_CC regular_JJ progress_NN1 monitoring_VVG throughout_II the_AT project_NN1 ._. 
+</s>
+<s>
+The_AT various_JJ roles_NN2 and_CC responsibilities_NN2 for_IF managing_VVG a_AT1 project_NN1 are_VBR fully_RR described_VVN and_CC are_VBR adaptable_JJ to_TO suit_VVI the_AT size_NN1 and_CC complexity_NN1 of_IO the_AT project_NN1 ._. 
+</s>
+<s>
+PRINCE_NN1 2_MC uses_VVZ management_NN1 by_II exception_NN1 ,_, which_DDQ allows_VVZ project_NN1 manager_NN1 to_TO do_VDI their_APPGE job_NN1 without_IW undue_JJ interference_NN1 while_CS enjoying_VVG the_AT benefit_NN1 of_IO obtaining_VVG help_NN1 from_II higher_JJR level_NN1 managers_NN2 when_RRQ things_NN2 go_VV0 badly_RR off_II specification_NN1 ._. 
+</s>
+<s>
+PRINCE_NN1 2_MC concentrates_NN2 on_II product-based_NN1 which_DDQ mean_VV0 the_AT project_NN1 plans_NN2 are_VBR focused_VVN on_II delivering_VVG results_NN2 but_CCB not_XX planning_VVG when_RRQ the_AT various_JJ activities_NN2 on_II the_AT project_NN1 will_VM be_VBI done_VDN ._. 
+</s>
+<s>
+PRINCE_NN1 2_MC is_VBZ a_AT1 standardised_JJ process_NN1 and_CC therefore_RR is_VBZ a_AT1 transferable_JJ skill_NN1 ._. 
+</s>
+<s>
+Control_VV0 throughout_II the_AT project_NN1 ._. 
+</s>
+<s>
+Even_CS21 though_CS22 I_PPIS1 think_VV0 it_PPH1 is_VBZ suitable_JJ for_IF the_AT project_NN1 ,_, I_PPIS1 need_VV0 to_TO stress_VVI my_APPGE concern_NN1 ._. 
+</s>
+<s>
+There_EX have_VH0 been_VBN case_NN1 studies_NN2 of_IO companies_NN2 misuse_VV0 the_AT methodology_NN1 and_CC result_VV0 in_II project_NN1 failure_NN1 ._. 
+</s>
+<s>
+Therefore_RR ,_, if_CS it_PPH1 is_VBZ ever_RR to_TO be_VBI used_VVN ,_, I_PPIS1 recommend_VV0 all_DB senior_JJ management_NN1 understand_VV0 the_AT key_JJ principles_NN2 of_IO PRINCE_NN1 2_MC ,_, which_DDQ has_VHZ not_XX been_VBN covered_VVN fully_RR in_II this_DD1 report_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ also_RR come_VVN to_II my_APPGE attention_NN1 that_CST it_PPH1 needs_VVZ extensive_JJ tailoring_NN1% in_BCL21 order_BCL22 to_TO suit_VVI a_AT1 specific_JJ project_NN1 or_CC else_RR it_PPH1 will_VM be_VBI create_VV0 too_RG much_DA1 work_NN1 for_IF the_AT project_NN1 ._. 
+</s>
+<s>
+In_II my_APPGE opinion_NN1 ,_, PRINCE_NN1 2_MC has_VHZ it_PPH1 pros_NN2 and_CC cons_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ no_RR21 doubt_RR22 suitable_JJ for_IF our_APPGE project_NN1 but_CCB I_PPIS1 personally_RR prefer_VV0 the_AT traditional_JJ method_NN1 as_CSA it_PPH1 involves_VVZ more_DAR participation_NN1 from_II other_JJ experts_NN2 and_CC thus_RR draws_VVZ commitments_NN2 out_II21 of_II22 them_PPHO2 to_II the_AT project_NN1 ,_, which_DDQ may_VM seem_VVI more_RGR appropriate_JJ if_CS CFS_VVZ wants_VVZ to_TO maintain_VVI its_APPGE image_NN1 as_II a_AT1 family-oriented_JJ insurance_NN1 company_NN1 ._. 
+</s>

@@ -1,0 +1,153 @@
+<s>
+Elasticity_NN1 is_VBZ a_AT1 measure_NN1 of_IO responsiveness_NN1 ._. 
+</s>
+<s>
+The_AT price_NN1 elasticity_NN1 of_IO demand_NN1 is_VBZ a_AT1 measure_NN1 of_IO the_AT responsiveness_NN1 of_IO the_AT quantity_NN1 demanded_VVN of_IO a_AT1 good_JJ to_II a_AT1 change_NN1 in_II its_APPGE price_NN1 ._. 
+</s>
+<s>
+One_MC1 way_NN1 to_TO measure_VVI responsiveness_NN1 is_VBZ by_II using_VVG the_AT slope_NN1 of_IO demand_NN1 curve_NN1 (_( Slope_NN1 =_FO change_VV0 in_II y-axis_NN1 /_FO change_VV0 in_II x-axis_NN1 )_) ._. 
+</s>
+<s>
+We_PPIS2 want_VV0 to_TO know_VVI the_AT change_NN1 in_II quantity_NN1 that_CST results_NN2 from_II a_AT1 1_MC1 change_NN1 in_II price_NN1 ._. 
+</s>
+<s>
+As_CSA slope_NN1 of_IO demand_NN1 curve_NN1 is_VBZ always_RR negative_JJ ,_, we_PPIS2 are_VBR commonly_RR interested_JJ in_II the_AT inverse_NN1 of_IO the_AT slope_NN1 ._. 
+</s>
+<s>
+However_RR ,_, there_EX are_VBR problems_NN2 by_II using_VVG slope_NN1 to_TO measure_VVI responsiveness_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM not_XX compare_VVI two_MC demand_NN1 curves_NN2 simply_RR by_II their_APPGE slopes_NN2 because_CS the_AT slope_NN1 of_IO a_AT1 demand_NN1 curve_NN1 depends_VVZ in_II the_AT nits_NN2 in_II which_DDQ we_PPIS2 measure_VV0 the_AT price_NN1 and_CC quantity_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR need_VV0 to_TO compare_VVI the_AT demand_NN1 curves_NN2 for_IF various_JJ goods_NN2 but_CCB different_JJ goods_NN2 have_VH0 different_JJ units_NN2 ._. 
+</s>
+<s>
+On_II the_AT other_JJ hand_NN1 ,_, prices_NN2 vary_VV0 greatly_RR ._. 
+</s>
+<s>
+A_ZZ1 1_MC1 change_NN1 in_II the_AT price_NN1 of_IO an_AT1 expensive_JJ good_JJ produce_VV0 a_AT1 small_JJ response_NN1 but_CCB 1_MC1 change_NN1 in_II the_AT price_NN1 of_IO a_AT1 cheap_JJ good_JJ produce_VV0 a_AT1 large_JJ response_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 result_NN1 ,_, we_PPIS2 have_VH0 to_TO use_VVI another_DD1 way_NN1 to_TO measure_VVI responsiveness_NN1 and_CC elasticity_NN1 is_VBZ that_DD1 measure_NN1 ._. 
+</s>
+<s>
+Price_NN1 elasticity_NN1 of_IO demand_NN1 (_( )_) is_VBZ a_AT1 units-free_JJ measure_NN1 and_CC is_VBZ a_AT1 measure_NN1 of_IO responsiveness_NN1 which_DDQ can_VM be_VBI compared_VVN across_II goods_NN2 ._. 
+</s>
+<s>
+The_AT formula_NN1 means_VVZ the_AT percentage_NN1 change_NN1 in_II quantity_NN1 that_CST takes_VVZ place_NN1 when_CS price_NN1 changes_NN2 by_II one_MC1 percent_NNU ._. 
+</s>
+<s>
+The_AT price_NN1 elasticity_NN1 of_IO demand_NN1 tells_VVZ us_PPIO2 how_RRQ responsive_JJ or_CC elastic_NN1 the_AT demand_NN1 is_VBZ ._. 
+</s>
+<s>
+The_AT price_NN1 elasticity_NN1 is_VBZ a_AT1 negative_JJ number_NN1 as_II a_AT1 decrease_NN1 in_II quantity_NN1 demand_NN1 results_NN2 in_II an_AT1 increase_NN1 in_II price_NN1 ._. 
+</s>
+<s>
+To_TO compare_VVI elasticities_NN2 ,_, we_PPIS2 can_VM use_VVI the_AT magnitude_NN1 of_IO the_AT price_NN1 elasticity_NN1 of_IO demand_NN1 and_CC ignore_VV0 the_AT minus_NN1 sign_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 to_TO collect_VVI information_NN1 on_II the_AT amount_NN1 of_IO different_JJ types_NN2 of_IO food_NN1 sold_VVN at_II different_JJ prices_NN2 (_( e.g._REX before_CS and_CC after_II sale_NN1 )_) before_CS we_PPIS2 calculate_VV0 the_AT elasticity_NN1 ._. 
+</s>
+<s>
+To_TO calculate_VVI the_AT elasticity_NN1 of_IO demand_NN1 ,_, we_PPIS2 express_VV0 the_AT changes_NN2 in_II price_NN1 and_CC quantity_NN1 demanded_VVN as_CSA percentages_NN2 of_IO the_AT average_JJ price_NN1 and_CC the_AT average_JJ quantity_NN1 ._. 
+</s>
+<s>
+By_II using_VVG the_AT average_JJ price_NN1 and_CC average_JJ quantity_NN1 ,_, we_PPIS2 calculate_VV0 the_AT elasticity_NN1 at_II a_AT1 point_NN1 on_II the_AT demand_NN1 curve_NN1 midway_RL between_II the_AT original_JJ point_NN1 and_CC the_AT new_JJ point_NN1 ._. 
+</s>
+<s>
+This_DD1 method_NN1 is_VBZ called_VVN arc_NN1 elasticity_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ an_AT1 average_NN1 over_II a_AT1 range_NN1 of_IO price_NN1 and_CC gives_VVZ an_AT1 estimate_NN1 of_IO the_AT price_NN1 elasticity_NN1 of_IO demand_NN1 between_II two_MC points_NN2 on_II the_AT demand_NN1 curve_NN1 ._. 
+</s>
+<s>
+Another_DD1 more_RGR usual_JJ way_NN1 to_TO calculate_VVI elasticity_NN1 is_VBZ called_VVN point_NN1 elasticity_NN1 ._. 
+</s>
+<s>
+Instead_II21 of_II22 using_VVG a_AT1 mean_JJ value_NN1 ,_, we_PPIS2 use_VV0 the_AT value_NN1 at_II a_AT1 point_NN1 ._. 
+</s>
+<s>
+These_DD2 two_MC methods_NN2 are_VBR used_VVN to_TO calculate_VVI elasticity_NN1 with_IW a_AT1 linear_JJ demand_NN1 curve_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR different_JJ types_NN2 of_IO elasticity_NN1 along_II a_AT1 linear_JJ demand_NN1 curve_NN1 :_: If_CS the_AT quantity_NN1 demanded_VVN remains_VVZ constant_JJ when_CS the_AT price_NN1 changes_NN2 ,_, then_RT the_AT elasticity_NN1 of_IO demand_NN1 is_VBZ zero_MC and_CC demand_NN1 is_VBZ said_VVN to_TO be_VBI perfectly_RR inelasticity_NN1 ._. 
+</s>
+<s>
+If_CS the_AT percentage_NN1 change_NN1 in_II the_AT quantity_NN1 demanded_VVN is_VBZ less_DAR than_CSN the_AT percentage_NN1 change_NN1 in_II price_NN1 ,_, then_RT the_AT magnitude_NN1 of_IO the_AT elasticity_NN1 of_IO demand_NN1 is_VBZ between_II zero_MC and_CC one_MC1 and_CC demand_NN1 is_VBZ said_VVN to_TO be_VBI inelastic_JJ ._. 
+</s>
+<s>
+If_CS the_AT percentage_NN1 change_NN1 in_II the_AT quantity_NN1 demanded_VVN equals_VVZ the_AT percentage_NN1 change_NN1 in_II price_NN1 ,_, then_RT the_AT elasticity_NN1 of_IO demand_NN1 equals_VVZ to_II one_MC1 and_CC is_VBZ said_VVN to_TO be_VBI unit_NN1 elastic_NN1 ._. 
+</s>
+<s>
+If_CS the_AT percentage_NN1 change_NN1 in_II the_AT quantity_NN1 demanded_VVN exceeds_VVZ the_AT percentage_NN1 change_NN1 in_II price_NN1 ,_, then_RT the_AT magnitude_NN1 of_IO the_AT elasticity_NN1 of_IO demand_NN1 is_VBZ greater_JJR than_CSN one_MC1 and_CC demand_NN1 is_VBZ said_VVN to_TO be_VBI elastic_JJ ._. 
+</s>
+<s>
+If_CS the_AT quantity_NN1 demanded_VVN is_VBZ infinitely_RR responsive_JJ to_II a_AT1 price_NN1 change_NN1 ,_, then_RT the_AT magnitude_NN1 of_IO the_AT elasticity_NN1 of_IO demand_NN1 is_VBZ infinity_NN1 and_CC demand_NN1 is_VBZ said_VVN to_TO be_VBI infinitely_RR elastic_JJ ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, in_II a_AT1 very_RG competitive_JJ market_NN1 ,_, a_AT1 small_JJ change_NN1 in_II price_NN1 will_VM lead_VVI to_II a_AT1 big_JJ change_NN1 in_II quantity_NN1 sold_VVD ._. 
+</s>
+<s>
+We_PPIS2 can_VM calculate_VVI the_AT income_NN1 elasticity_NN1 of_IO demand_NN1 (_( i_ZZ1 )_) to_TO determine_VVI whether_CSW the_AT food_NN1 is_VBZ a_AT1 kind_NN1 of_IO normal_JJ or_CC inferior_JJ good_JJ ._. 
+</s>
+<s>
+If_CS the_AT food_NN1 is_VBZ a_AT1 normal_JJ good_JJ ,_, its_APPGE demand_NN1 will_VM increase_VVI when_RRQ income_NN1 increases_VVZ despite_II the_AT rise_NN1 in_II price_NN1 ._. 
+</s>
+<s>
+If_CS the_AT food_NN1 is_VBZ an_AT1 inferior_JJ good_JJ ,_, its_APPGE demand_NN1 will_VM decrease_VVI when_RRQ income_NN1 increase_VV0 no_AT matter_NN1 the_AT price_NN1 falls_NN2 or_CC rises_NN2 ._. 
+</s>
+<s>
+Many_DA2 kinds_NN2 of_IO food_NN1 are_VBR related_VVN to_II each_PPX221 other_PPX222 ._. 
+</s>
+<s>
+The_AT cross_NN1 price_NN1 elasticity_NN1 of_IO demand_NN1 (_( xy_FO )_) tells_VVZ us_PPIO2 the_AT effect_NN1 on_II the_AT quantity_NN1 demanded_VVN of_IO one_MC1 good_JJ when_CS the_AT price_NN1 of_IO another_DD1 good_JJ is_VBZ changed_VVN ._. 
+</s>
+<s>
+If_CS xy_FO 0_MC ,_, the_AT food_NN1 are_VBR substitutes_NN2 in_II consumption_NN1 ._. 
+</s>
+<s>
+If_CS xy_FO 0_MC ,_, the_AT food_NN1 are_VBR complements_VVZ in_II consumption_NN1 ._. 
+</s>
+<s>
+Both_DB2 the_AT income_NN1 elasticity_NN1 of_IO demand_NN1 and_CC cross_VV0 price_NN1 elasticity_NN1 of_IO demand_NN1 are_VBR important_JJ to_TO adjust_VVI the_AT amount_NN1 of_IO supply_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ important_JJ to_TO know_VVI the_AT responsiveness_NN1 of_IO food_NN1 demand_NN1 because_CS it_PPH1 is_VBZ closely_RR related_VVN to_TO total_VVI revenue_NN1 as_CSA it_PPH1 depends_VVZ on_II the_AT extent_NN1 to_II which_DDQ the_AT quantity_NN1 sold_VVD changes_NN2 as_II the_AT price_NN1 changes_NN2 ._. 
+</s>
+<s>
+Total_JJ revenue(TR)_NN1 from_II the_AT sale_NN1 of_IO a_AT1 good_JJ equals_NN2 the_AT price(P)_NN1 of_IO the_AT good_JJ multiplied_VVN by_II quantity(Q)_NN1 sold_VVN (_( TR_JJ =_FO P_ZZ1 Q_ZZ1 )_) ._. 
+</s>
+<s>
+An_AT1 increase_NN1 in_II price_NN1 has_VHZ two_MC opposing_JJ effects_NN2 on_II total_JJ revenue_NN1 ._. 
+</s>
+<s>
+It_PPH1 increases_VVZ the_AT revenue_NN1 on_II each_DD1 unit_NN1 sold_VVN but_CCB at_II the_AT same_DA time_NNT1 leads_VVZ to_II a_AT1 decrease_NN1 in_II the_AT quantity_NN1 sold_VVD which_DDQ decreases_VVZ revenue_NN1 ._. 
+</s>
+<s>
+Either_DD1 of_IO these_DD2 two_MC opposing_JJ effects_NN2 could_VM be_VBI the_AT larger_JJR ._. 
+</s>
+<s>
+Total_JJ revenue_NN1 increases_VVZ as_CSA price_NN1 increases_VVZ if_CS the_AT good_JJ has_VHZ a_AT1 more_RGR inelastic_JJ demand_NN1 (_( 0_MC 1_MC1 )_) ._. 
+</s>
+<s>
+Total_JJ revenue_NN1 unchanged_JJ as_CSA price_NN1 increases_VVZ if_CS the_AT good_JJ has_VHZ a_AT1 unit_NN1 elastic_NN1 demand_NN1 (_( elasticity_NN1 =_FO 1_MC1 )_) ._. 
+</s>
+<s>
+Most_DAT owners_NN2 want_VV0 to_TO maximize_VVI their_APPGE profit_NN1 ._. 
+</s>
+<s>
+A_AT1 supermarket_NN1 can_VM not_XX continue_VVI to_TO operate_VVI if_CSW it_PPH1 does_VDZ not_XX make_VVI any_DD profit_NN1 and_CC so_RR it_PPH1 is_VBZ essential_JJ to_TO know_VVI how_RRQ to_TO increase_VVI the_AT total_JJ revenue_NN1 ._. 
+</s>
+<s>
+Sometimes_RT we_PPIS2 also_RR need_VV0 to_TO adjust_VVI the_AT prices_NN2 to_TO obtain_VVI equilibrium_NN1 (_( i.e._REX the_AT quantities_NN2 demanded_VVD equal_JJ to_II the_AT quantities_NN2 supplied_VVN )_) ._. 
+</s>
+<s>
+Otherwise_RR excess_JJ demand_NN1 or_CC excess_JJ supply_NN1 occurs_VVZ and_CC leads_VVZ to_II a_AT1 waste_NN1 of_IO resources_NN2 and_CC decrease_VV0 in_II revenue_NN1 ._. 
+</s>
+<s>
+The_AT more_RGR elastic_JJ the_AT demand_NN1 ,_, the_AT closer_JJR the_AT substitutes_NN2 available_JJ ,_, the_AT higher_JJR the_AT income_NN1 spent_VVN on_II food_NN1 and_CC the_AT greater_JJR the_AT time_NNT1 lapse_NN1 since_CS a_AT1 price_NN1 change_NN1 ._. 
+</s>
+<s>
+Thus_RR when_CS we_PPIS2 know_VV0 the_AT elasticity_NN1 of_IO demand_NN1 ,_, we_PPIS2 can_VM find_VVI out_RP the_AT major_JJ reasons_NN2 that_CST influence_VV0 the_AT elasticity_NN1 of_IO food_NN1 demand_NN1 and_CC can_VM decide_VVI whether_CSW we_PPIS2 should_VM increase_VVI or_CC decrease_VVI certain_JJ food_NN1 supply_NN1 ._. 
+</s>

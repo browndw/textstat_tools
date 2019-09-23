@@ -1,0 +1,450 @@
+<s>
+The_AT use_NN1 of_IO open_JJ source_NN1 software_NN1 is_VBZ becoming_VVG a_AT1 standard_JJ part_NN1 of_IO everyday_JJ life_NN1 ._. 
+</s>
+<s>
+In_II January_NPM1 2006_MC ,_, over_RG 67%_NNU of_IO websites_NN2 run_VVN on_II the_AT open_JJ source_NN1 Apache_NN &lsqb;_( 10_MC &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 quarter_NN1 of_IO web_NN1 surfers_NN2 use_VV0 Mozilla_NP1 Firefox_NP1 ,_, Linux_NP1 is_VBZ going_VVG from_II strength_NN1 to_II strength_NN1 ,_, and_CC OpenOffice_NP1 has_VHZ been_VBN downloaded_VVN by_RP% over_II 40_MC million_NNO people_NN &lsqb;_( 11_MC &rsqb;_) ._. 
+</s>
+<s>
+We_PPIS2 shall_VM be_VBI looking_VVG at_II what_DDQ makes_VVZ open_JJ source_NN1 software_NN1 popular_JJ ,_, at_II open_JJ source_NN1 hardware_NN1 ,_, open_JJ data_NN standards_NN2 ,_, and_CC how_RRQ copyright_NN1 and_CC patents_NN2 will_VM affect_VVI them_PPHO2 ._. 
+</s>
+<s>
+Firstly_RR ,_, what_DDQ is_VBZ open_JJ source_NN1 ?_? 
+</s>
+<s>
+Bruce_NP1 Perens_NP1 defines_VVZ software_NN1 as_CSA open_JJ source_NN1 if_CS it_PPH1 can_VM be_VBI distributed_VVN freely_RR with_IW intelligible_JJ source_NN1 code_NN1 that_CST can_VM be_VBI modified_VVN to_TO create_VVI derived_JJ works_NN ._. 
+</s>
+<s>
+Transferred_VVN with_IW the_AT program_NN1 should_VM be_VBI a_AT1 non-discriminatory_JJ license_NN1 that_CST should_VM restrict_VVI no_AT other_JJ software_NN1 &lsqb;_( 9_MC &rsqb;_) ._. 
+</s>
+<s>
+Author_NN1 of_IO the_AT Open_JJ Source_NN1 Series_NN ._. 
+</s>
+<s>
+This_DD1 ,_, as_CSA a_AT1 broad_JJ definition_NN1 ,_, is_VBZ accepted_VVN by_II most_DAT of_IO the_AT open_JJ source_NN1 community_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ much_DA1 discussion_NN1 ,_, however_RR ,_, about_II the_AT details_NN2 ._. 
+</s>
+<s>
+The_AT major_JJ sticking_JJ point_NN1 seems_VVZ to_TO be_VBI whether_CSW software_NN1 that_CST is_VBZ free_JJ to_TO use_VVI and_CC modifiable_JJ to_II all_DB can_VM be_VBI modified_VVN and_CC included_VVN as_II part_NN1 of_IO a_AT1 closed_JJ source_NN1 application_NN1 ._. 
+</s>
+<s>
+Perhaps_RR the_AT most_RGT famous_JJ example_NN1 of_IO this_DD1 is_VBZ Apple_NN1 building_VVG their_APPGE operating_NN1 system_NN1 OS_NP2 X_II% on_II31 top_II32 of_II33 Unix_NN1 ,_, and_CC selling_VVG the_AT result_NN1 ._. 
+</s>
+<s>
+Apple_NN1 itself_PPX1 writes_VVZ open_JJ source_NN1 software_NN1 under_II the_AT Apple_NN1 Public_NN1 Source_NN1 License_NN1 &lsqb;_( 17_MC &rsqb;_) ,_, which_DDQ is_VBZ now_RT recognised_VVN by_II the_AT Open_JJ Source_NN1 Initiative_NN1 ._. 
+</s>
+<s>
+The_AT word_NN1 "_" free_JJ "_" is_VBZ also_RR of_IO particular_JJ import_NN1 here_RL ,_, as_CSA it_PPH1 refers_VVZ to_II freedom_NN1 rather_II21 than_II22 gratuity_NN1 ._. 
+</s>
+<s>
+The_AT cost_NN1 of_IO open_JJ source_NN1 software_NN1 is_VBZ the_AT subject_NN1 of_IO much_DA1 debate_NN1 ._. 
+</s>
+<s>
+While_CS licenses_NN2 are_VBR usually_RR either_RR free_JJ or_CC of_IO little_JJ cost_NN1 relative_II21 to_II22 proprietary_JJ software_NN1 ,_, it_PPH1 is_VBZ often_RR more_RGR expensive_JJ in_II other_JJ areas_NN2 ._. 
+</s>
+<s>
+A_AT1 report_NN1 made_VVN by_II Cybersource_NP1 found_VVD that_CST in_II a_AT1 model_NN1 of_IO a_AT1 company_NN1 purchasing_VVG the_AT hardware_NN1 and_CC network_NN1 infrastructure_NN1 for_IF 250_MC users_NN2 ,_, Microsoft_NP1 Windows_NP1 was_VBDZ only_RR 122%_NNU more_DAR expensive_JJ than_CSN Linux_NP1 ._. 
+</s>
+<s>
+While_CS software_NN1 licenses_VVZ under_II Linux_NP1 were_VBDR 0.017%_FO of_IO the_AT cost_NN1 of_IO the_AT Microsoft_NP1 counterparts_NN2 ,_, the_AT ongoing_JJ operational_JJ costs_NN2 of_IO Linux_NP1 were_VBDR 128%_NNU higher_JJR than_CSN Microsoft_NP1 &lsqb;_( 8_MC &rsqb;_) ._. 
+</s>
+<s>
+Another_DD1 report_NN1 found_VVD that_CST the_AT total_JJ cost_NN1 of_IO operation_NN1 (_( TCO_NP1 )_) of_IO a_AT1 Linux_NN1 server_NN1 is_VBZ 41.3%_FO higher_RRR than_CSN Microsoft_NP1 Windows_NP1 Server_NN1 2003_MC ,_, although_CS the_AT TCO_NN1 of_IO a_AT1 Linux_NN1 web_NN1 server_NN1 is_VBZ 8.3%_FO lower_RRR than_CSN Microsoft_NP1 Windows_NP1 &lsqb;_( 7_MC &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 third_MD non-sponsored_JJ report_NN1 finds_VVZ that_CST 88%_NNU or_CC corporations_NN2 report_VV0 that_CST Microsoft_NP1 Window_NN1 Server_NN1 2003_MC provides_VVZ reliability_NN1 that_CST is_VBZ equal_JJ to_II or_CC greater_JJR than_CSN Linux_NP1 ,_, and_CC recovers_VVZ 30%_NNU faster_RRR from_II security_NN1 attacks_NN2 &lsqb;_( 6_MC &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 raises_VVZ a_AT1 very_RG interesting_JJ point_NN1 about_II the_AT security_NN1 of_IO open_JJ source_NN1 software_NN1 ._. 
+</s>
+<s>
+The_AT threat_NN1 of_IO open_JJ source_NN1 software_NN1 containing_VVG Trojan_JJ horses_NN2 or_CC backdoors_NN2 is_VBZ one_MC1 of_IO the_AT biggest_JJT limiting_JJ factors_NN2 for_IF open_JJ source_NN1 adoption_NN1 &lsqb;_( 13_MC &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 threat_NN1 is_VBZ not_XX actually_RR particularly_RR significant_JJ ,_, however_RR ._. 
+</s>
+<s>
+As_CSA Mike_NP1 Curtis_NP1 pointed_VVD out_RP ,_, there_EX is_VBZ usually_RR such_DA a_AT1 large_JJ body_NN1 of_IO people_NN examining_VVG open_JJ source_NN1 software_NN1 to_TO identify_VVI and_CC provide_VVI corrective_JJ action_NN1 that_CST a_AT1 vulnerability_NN1 would_VM n't_XX last_VVI long_RR ._. 
+</s>
+<s>
+Research_NN1 Director_NN1 for_IF International_JJ Information_NN1 Integrity_NN1 Institute_NN1 at_II Redsiren_NP1 Technologies_NN2 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN strongly_RR argued_VVN that_CST open_JJ source_NN1 software_NN1 is_VBZ more_RGR reliable_JJ &lsqb;_( 5_MC &rsqb;_) ._. 
+</s>
+<s>
+An_AT1 axiom_NN1 of_IO NASA_NP1 is_VBZ that_DD1 "_" software_NN1 is_VBZ not_XX software_NN1 without_IW source_NN1 code_NN1 "_" ,_, meaning_VVG that_CST they_PPHS2 can_VM not_XX trust_VVI mission-critical_JJ software_NN1 if_CS they_PPHS2 have_VH0 not_XX got_VVN the_AT source_NN1 code_NN1 ._. 
+</s>
+<s>
+Open_JJ source_NN1 software_NN1 is_VBZ more_RGR creative_JJ &lsqb;_( 5_MC &rsqb;_) ,_, more_RGR rapidly_RR evolving_VVG ,_, has_VHZ less_DAR overhead_NN1 and_CC bureaucracy_NN1 ,_, and_CC helps_VVZ to_TO prevent_VVI monopolies_NN2 ._. 
+</s>
+<s>
+Without_IW the_AT need_NN1 for_IF secrecy_NN1 ,_, more_DAR consultation_NN1 can_VM be_VBI done_VDN ,_, and_CC ideas_NN2 can_VM be_VBI formed_VVN with_IW co-operation_NN1 rather_II21 than_II22 competition_NN1 ._. 
+</s>
+<s>
+Also_RR ,_, as_CSA Jerry_NP1 Brady_NP1 says_VVZ ,_, there_EX is_VBZ less_DAR concern_NN1 for_IF marketability_NN1 ,_, and_CC more_DAR concern_NN1 for_IF quality_NN1 of_IO code_NN1 ._. 
+</s>
+<s>
+Guardent_JJ Chief_JJ Technology_NN1 Officer_NN1 ._. 
+</s>
+<s>
+Open_JJ source_NN1 is_VBZ not_XX all_DB positive_JJ ,_, however_RR ._. 
+</s>
+<s>
+As_CSA software_NN1 evolves_VVZ rapidly_RR ,_, there_EX is_VBZ a_AT1 risk_NN1 of_IO fragmentation_NN1 into_II many_DA2 conflicting_JJ versions_NN2 ._. 
+</s>
+<s>
+Also_RR ,_, the_AT fact_NN1 that_CST the_AT open_JJ source_NN1 programmers_NN2 are_VBR often_RR hobbyists_NN2 &lsqb;_( 14_MC &rsqb;_) means_VVZ that_CST there_EX is_VBZ often_RR a_AT1 tendency_NN1 to_TO have_VHI lots_PN of_IO activity_NN1 on_II the_AT interesting_JJ bits_NN2 of_IO code_NN1 ,_, while_CS the_AT more_RGR mundane_JJ areas_NN2 are_VBR not_XX done_VDN ._. 
+</s>
+<s>
+For_IF this_DD1 reason_NN1 ,_, applications_NN2 that_CST do_VD0 n't_XX have_VHI general_JJ usage_NN1 or_CC interest_NN1 ,_, for_REX21 example_REX22 a_AT1 specific_JJ scientific_JJ application_NN1 ,_, is_VBZ very_RG unlikely_JJ to_TO survive_VVI as_II an_AT1 open_JJ source_NN1 initiative_NN1 ._. 
+</s>
+<s>
+In_II some_DD areas_NN2 ,_, however_RR ,_, the_AT opposite_NN1 is_VBZ true_JJ ._. 
+</s>
+<s>
+Because_CS the_AT third_MD world_NN1 can_VM not_XX often_RR pay_VVI research_NN1 and_CC development_NN1 costs_NN2 ,_, only_RR 1%_NNU of_IO funding_NN1 pays_VVZ for_IF research_NN1 into_II tropical_JJ disease_NN1 ._. 
+</s>
+<s>
+Therefore_RR an_AT1 open_JJ source_NN1 paradigm_NN1 has_VHZ been_VBN applied_VVN to_II drug_NN1 manufacture_NN1 ,_, with_IW institutions_NN2 working_VVG together_RL worldwide_RL ,_, and_CC already_RR there_EX has_VHZ been_VBN results_NN2 in_II curing_VVG Schistosomiasis_NP1 &lsqb;_( 16_MC &rsqb;_) ._. 
+</s>
+<s>
+But_CCB what_DDQ of_IO hardware_NN1 ?_? 
+</s>
+<s>
+What_DDQ makes_VVZ hardware_NN1 open_VVI ?_? 
+</s>
+<s>
+For_IF hardware_NN1 to_TO be_VBI open_JJ ,_, all_DB information_NN1 on_II using_VVG the_AT hardware_NN1 and_CC its_APPGE software_NN1 interfaces_NN2 must_VM be_VBI available_JJ ._. 
+</s>
+<s>
+Also_RR ,_, all_DB information_NN1 to_TO interface_VVI the_AT design_NN1 from_II all_DB points_NN2 of_IO view_NN1 must_VM be_VBI documented_VVN and_CC available_JJ ,_, for_REX21 example_REX22 drivers_NN2 ,_, sockets_NN2 ,_, connectors_NN2 ,_, pin_NN1 assignments_NN2 ,_, FPGAs_NN2 ,_, bit_NN1 streams_NN2 and_CC CPU_NN1 instructions_NN2 &lsqb;_( 18_MC &rsqb;_) ._. 
+</s>
+<s>
+There_EX are_VBR major_JJ differences_NN2 between_II open_JJ source_NN1 hardware_NN1 and_CC software_NN1 ,_, and_CC not_XX least_RRT is_VBZ the_AT fact_NN1 that_CST it_PPH1 costs_VVZ to_TO fabricate_VVI hardware_NN1 ,_, whereas_CS compiling_VVG software_NN1 is_VBZ usually_RR free_JJ ._. 
+</s>
+<s>
+The_AT other_JJ cost_NN1 is_VBZ the_AT fact_NN1 that_CST you_PPY need_VV0 EDA_NP1 (_( electronic_JJ design_NN1 automation_NN1 )_) tools_NN2 ._. 
+</s>
+<s>
+Although_CS there_EX are_VBR some_DD open_JJ EDA_NN1 tools_NN2 they_PPHS2 are_VBR not_XX generally_RR trusted_VVN enough_RR to_TO be_VBI used_VVN for_IF something_PN1 project_NN1 dependent_NN1 &lsqb;_( 19_MC &rsqb;_) ._. 
+</s>
+<s>
+The_AT main_JJ advantage_NN1 to_TO open_VVI architecture_NN1 is_VBZ that_CST it_PPH1 allows_VVZ the_AT design_NN1 of_IO a_AT1 core_NN1 that_CST verifies_VVZ system_NN1 specifications_NN2 and_CC is_VBZ compatible_JJ with_IW other_JJ developments_NN2 ,_, sharing_VVG know-how_NN1 and_CC experiences_NN2 with_IW other_JJ designers_NN2 ._. 
+</s>
+<s>
+A_AT1 disadvantage_NN1 is_VBZ the_AT fact_NN1 that_CST open_JJ hardware_NN1 often_RR seems_VVZ to_TO be_VBI more_RGR unstable_JJ &lsqb;_( 4_MC &rsqb;_) ._. 
+</s>
+<s>
+The_AT development_NN1 time_NNT1 and_CC cost_NN1 of_IO systems_NN2 can_VM be_VBI reduced_VVN by_II reusable_JJ verified_JJ open_JJ design_NN1 cores_NN2 where_RRQ the_AT debugging_NN1 is_VBZ shared_VVN between_II designers_NN2 ._. 
+</s>
+<s>
+Having_VHG hardware_NN1 open_VV0 also_RR means_VVZ that_CST it_PPH1 easier_JJR for_IF other_JJ companies_NN2 to_TO make_VVI good_JJ software_NN1 that_CST interfaces_VVZ well_RR with_IW it_PPH1 ._. 
+</s>
+<s>
+The_AT Basic_JJ Local_NN1 Alignment_NN1 Search_NN1 Tool_NN1 ,_, BLAST_VV0 ,_, is_VBZ used_VVN to_TO search_VVI for_IF sequence_NN1 similarity_NN1 in_II genomic_JJ databases_NN2 ._. 
+</s>
+<s>
+Research_NN1 done_VDN into_II making_VVG BLAST_NN1 more_RGR efficient_JJ by_II making_VVG an_AT1 open_JJ source_NN1 chip_NN1 to_TO do_VDI a_AT1 small_JJ but_CCB computationally_RR important_JJ part_NN1 of_IO the_AT code_NN1 in_II hardware_NN1 was_VBDZ decided_VVN to_TO be_VBI currently_RR not_XX cost_VV0 effective_JJ ,_, but_CCB given_VVN the_AT current_JJ trend_NN1 in_II decreasing_JJ costs_NN2 of_IO hardware_NN1 it_PPH1 is_VBZ forecast_VVN% to_TO be_VBI cost_VVN% effective_JJ soon_RR ._. 
+</s>
+<s>
+This_DD1 has_VHZ been_VBN seen_VVN as_II an_AT1 indicator_NN1 to_II the_AT future_NN1 of_IO open_JJ source_NN1 hardware_NN1 ._. 
+</s>
+<s>
+&lsqb;_( 24_MC &rsqb;_) ._. 
+</s>
+<s>
+Many_DA2 organisations_NN2 have_VH0 been_VBN more_RGR successful_JJ currently_RR ,_, however_RR ._. 
+</s>
+<s>
+Vivace_VV0 Semiconductor_NN1 have_VH0 used_VVN an_AT1 open_JJ source_NN1 RISC_NP1 core_NN1 in_II their_APPGE new_JJ video_NN1 processing_NN1 chips_NN2 ._. 
+</s>
+<s>
+Opencores.org_NP1 lists_VVZ a_AT1 number_NN1 of_IO active_JJ and_CC complete_JJ open_JJ source_NN1 hardware_NN1 projects_NN2 ,_, including_II cores_NN2 for_IF arithmetic_NN1 functions_NN2 ,_, communications_NN2 protocols_NN2 ,_, memory_NN1 ,_, DSP_NP1 and_CC microprocessors_NN2 &lsqb;_( 20_MC &rsqb;_) ._. 
+</s>
+<s>
+Power.org_NP1 is_VBZ a_AT1 community_NN1 of_IO over_RG 40_MC companies_NN2 and_CC 10,000_MC developers_NN2 aiming_VVG at_II developing_VVG open_JJ source_NN1 hardware_NN1 around_II IBM_NP1 's_GE Power_NN1 PC_NN1 architecture_NN1 &lsqb;_( 21_MC &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 recent_JJ success_NN1 was_VBDZ the_AT announcement_NN1 of_IO the_AT silicon_NN1 validation_NN1 of_IO a_AT1 new_JJ design_NN1 approach_NN1 that_CST will_VM give_VVI a_AT1 30%_NNU increase_NN1 in_II processor_NN1 power_NN1 and_CC 40%_NNU reduction_NN1 in_II chip_NN1 area_NN1 ._. 
+</s>
+<s>
+Another_DD1 area_NN1 of_IO openness_NN1 in_II computer_NN1 science_NN1 is_VBZ open_JJ and_CC public_JJ data_NN standards_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 distinction_NN1 here_RL ._. 
+</s>
+<s>
+A_AT1 public_JJ data_NN standard_NN1 is_VBZ publicly_RR documented_VVN and_CC freely_RR available_JJ ,_, for_IF ensuring_VVG interoperability_NN1 between_II different_JJ applications_NN2 ,_, for_REX21 example_REX22 RTF_NP1 and_CC PDF_NP1 formats_NN2 for_IF documents_NN2 ._. 
+</s>
+<s>
+An_AT1 open_JJ data_NN standard_NN1 is_VBZ to_TO ensure_VVI interoperability_NN1 between_II different_JJ solutions_NN2 that_CST need_VV0 to_TO operate_VVI on_II the_AT same_DA data_NN ,_, written_VVN by_II super_JJ partes_NN2 organisations_NN2 ,_, publicly_RR documented_VVN and_CC freely_RR available_JJ for_IF adoption_NN1 ,_, for_REX21 example_REX22 HTML_NP1 &lsqb;_( 22_MC &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 closed_JJ data_NN standard_NN1 is_VBZ one_PN1 that_CST is_VBZ not_XX publicly_RR documented_VVN and_CC freely_RR available_JJ ._. 
+</s>
+<s>
+Although_CS closed_JJ data_NN standards_NN2 might_VM make_VVI sense_NN1 from_II a_AT1 business_NN1 perspective_NN1 ,_, it_PPH1 arguably_RR violates_VVZ fundamental_JJ principles_NN2 of_IO data_NN ownership_NN1 and_CC control_NN1 &lsqb;_( 3_MC &rsqb;_) ._. 
+</s>
+<s>
+Applications_NN2 that_CST use_VV0 closed_JJ data_NN standards_NN2 often_RR provide_VV0 a_AT1 mechanism_NN1 to_TO export_VVI the_AT data_NN to_II other_JJ programs_NN2 in_II a_AT1 crude_JJ format_NN1 ,_, but_CCB this_DD1 often_RR strips_VVZ away_RL a_AT1 lot_NN1 of_IO information_NN1 created_VVN by_II the_AT software_NN1 itself_PPX1 ._. 
+</s>
+<s>
+Closed_JJ formats_NN2 also_RR encourage_VV0 monopolies_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 fundamental_JJ law_NN1 of_IO computer_NN1 science_NN1 ,_, 'only_RR put_VVN into_II a_AT1 system_NN1 what_DDQ you_PPY know_VV0 you_PPY can_VM get_VVI out'_NN1 ._. 
+</s>
+<s>
+If_CS you_PPY store_VV0 critical_JJ data_NN in_II a_AT1 closed_JJ file_NN1 format_NN1 ,_, and_CC the_AT company_NN1 responsible_JJ fails_NN2% ,_, you_PPY are_VBR left_VVN with_IW unusable_JJ data_NN ._. 
+</s>
+<s>
+Without_IW being_VBG maintained_VVN and_CC updated_VVN ,_, most_DAT older_JJR software_NN1 will_VM not_XX run_VVI on_II the_AT latest_JJT hardware_NN1 ,_, and_CC keeping_VVG an_AT1 old_JJ computer_NN1 in_BCL21 order_BCL22 to_TO keep_VVI access_NN1 to_II your_APPGE files_NN2 is_VBZ not_XX usually_RR practical_JJ ._. 
+</s>
+<s>
+Another_DD1 point_NN1 is_VBZ simple_JJ communication_NN1 ._. 
+</s>
+<s>
+If_CS you_PPY send_VV0 a_AT1 closed_JJ format_NN1 file_NN1 to_II a_AT1 contact_NN1 ,_, the_AT recipient_NN1 will_VM probably_RR not_XX be_VBI able_JK to_TO access_VVI the_AT contents_NN2 unless_CS he_PPHS1 or_CC she_PPHS1 has_VHZ the_AT same_DA particular_JJ piece_NN1 of_IO software_NN1 that_CST you_PPY have_VH0 ._. 
+</s>
+<s>
+If_CS you_PPY send_VV0 an_AT1 open_JJ file_NN1 ,_, there_EX is_VBZ much_DA1 more_DAR chance_NN1 they_PPHS2 'll_VM have_VHI an_AT1 application_NN1 to_TO access_VVI the_AT data_NN ._. 
+</s>
+<s>
+There_EX is_VBZ also_RR no_AT way_NN1 of_IO knowing_VVG what_DDQ a_AT1 closed_JJ file_NN1 contains_VVZ ._. 
+</s>
+<s>
+Inside_II a_AT1 closed_JJ document_NN1 file_NN1 there_EX could_VM be_VBI the_AT author_NN1 's_GE name_NN1 ,_, their_APPGE operating_NN1 system_NN1 ,_, maybe_RR even_RR passages_NN2 of_IO text_NN1 that_CST were_VBDR deleted_VVN &lsqb;_( 23_MC &rsqb;_) ._. 
+</s>
+<s>
+Open_JJ source_NN1 software_NN1 ,_, by_II definition_NN1 ,_, use_VV0 open_JJ and_CC public_JJ data_NN standards_NN2 ._. 
+</s>
+<s>
+Proprietary_JJ software_NN1 is_VBZ slowly_RR starting_VVG to_TO accept_VVI them_PPHO2 more_RRR and_CC more_RRR ,_, in_BCL21 order_BCL22 that_CST software_NN1 may_VM be_VBI seen_VVN to_TO be_VBI as_RG flexible_JJ ,_, and_CC therefore_RR as_RG useful_JJ as_CSA possible_JJ ._. 
+</s>
+<s>
+The_AT biggest_JJT threat_NN1 to_TO open_VVI source_NN1 software_NN1 ,_, and_CC then_RT by_II implication_NN1 open_JJ data_NN standards_NN2 ,_, is_VBZ probably_RR patenting_VVG ._. 
+</s>
+<s>
+If_CS a_AT1 developer_NN1 inadvertently_RR uses_VVZ a_AT1 piece_NN1 of_IO source_NN1 code_NN1 that_CST is_VBZ protected_VVN by_II a_AT1 third_MD party_NN1 patent_NN1 ,_, then_RT his_APPGE or_CC her_APPGE company_NN1 and_CC customers_NN2 may_VM be_VBI exposed_VVN to_II intellectual_JJ property_NN1 lawsuits_NN2 &lsqb;_( 24_MC &rsqb;_) ._. 
+</s>
+<s>
+The_AT most_RGT prolific_JJ case_NN1 was_VBDZ when_RRQ SCO_NP1 mailed_VVD Fortune_NN1 1000_MC corporations_NN2 using_VVG Linux_NP1 ,_, demanding_VVG that_CST they_PPHS2 pay_VV0 them_PPHO2 license_VV0 fees_NN2 in_II31 relation_II32 to_II33 the_AT SCO_NP1 's_GE intellectual_JJ property_NN1 of_IO the_AT Unix_NN1 source_NN1 code_NN1 ._. 
+</s>
+<s>
+Interestingly_RR ,_, the_AT SCO_NP1 made_VVD no_AT patent_NN1 claims_NN2 ,_, merely_RR copyright_NN1 ._. 
+</s>
+<s>
+The_AT Linux_NN1 distributor_NN1 Red_JJ Hat_NN1 has_VHZ addressed_VVN the_AT issue_NN1 by_II pledging_VVG that_CST if_CS any_DD of_IO its_APPGE code_NN1 is_VBZ found_VVN to_TO be_VBI infringing_VVG intellectual_JJ property_NN1 ,_, it_PPH1 will_VM replace_VVI the_AT code_NN1 for_IF its_APPGE customers_NN2 ._. 
+</s>
+<s>
+A_AT1 paper_NN1 investigating_VVG Linux_NN1 patent_NN1 risk_NN1 found_VVD that_CST there_EX is_VBZ a_AT1 "_" level_NN1 of_IO patent_NN1 infringement_NN1 that_CST Linux_VV0 users_NN2 and_CC developers_NN2 should_VM be_VBI mindful_JJ of_IO and_CC prepared_VVN to_TO address_VVI "_" ._. 
+</s>
+<s>
+The_AT study_NN1 also_RR found_VVN that_CST 283_MC software_NN1 patents_NN2 not_XX reviewed_VVN by_II courts_NN2 could_VM potentially_RR be_VBI used_VVN to_TO support_VVI claims_NN2 of_IO infringement_NN1 against_II Linux_NP1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ ,_, however_RR ,_, comparable_JJ to_II proprietary_JJ software_NN1 such_II21 as_II22 Microsoft_NP1 Windows_NP1 ._. 
+</s>
+<s>
+&lsqb;_( 33_MC &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 study_NN1 found_VVD that_CST 4%_NNU of_IO US_NP1 companies_NN2 have_VH0 been_VBN faced_VVN with_IW the_AT threat_NN1 of_IO vendor_NN1 legal_JJ action_NN1 over_II intellectual_JJ property_NN1 infringement_NN1 ._. 
+</s>
+<s>
+This_DD1 increases_VVZ to_II 8%_NNU for_IF firms_NN2 with_IW annual_JJ revenues_NN2 greater_JJR than_CSN $750_NNU million_NNO &lsqb;_( 32_MC &rsqb;_) ._. 
+</s>
+<s>
+The_AT question_NN1 of_IO whether_CSW software_NN1 can_VM be_VBI patented_VVN is_VBZ currently_RR a_AT1 very_RG contentious_JJ one_PN1 ._. 
+</s>
+<s>
+In_II Japan_NP1 and_CC America_NP1 it_PPH1 can_VM be_VBI (_( see_VV0 later_RRR )_) ,_, but_CCB in_II Europe_NP1 the_AT matter_NN1 is_VBZ grey_JJ ._. 
+</s>
+<s>
+Under_II the_AT European_JJ Patent_NN1 Convention_NN1 ,_, "_" computer_NN1 programs_NN2 as_CSA such_DA are_VBR excluded_VVN from_II patentability_NN1 "_" &lsqb;_( 1_MC1 &rsqb;_) ._. 
+</s>
+<s>
+Since_CS the_AT EPC_NP1 came_VVD into_II force_NN1 in_II 1978_MC ,_, however_RR ,_, more_DAR than_CSN 300,000_MC software_NN1 related_JJ patents_NN2 have_VH0 been_VBN granted_VVN &lsqb;_( 25_MC &rsqb;_) ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO rectify_VVI this_DD1 contradiction_NN1 ,_, a_AT1 directive_NN1 on_II the_AT patentability_NN1 of_IO computer-implemented_JJ inventions_NN2 has_VHZ been_VBN proposed_VVN ._. 
+</s>
+<s>
+It_PPH1 states_VVZ that_CST in_BCL21 order_BCL22 to_TO be_VBI patentable_JJ ,_, "_" an_AT1 invention_NN1 that_CST is_VBZ implemented_VVN through_II the_AT execution_NN1 of_IO software_NN1 on_II a_AT1 computer_NN1 or_CC similar_JJ apparatus_NN1 has_VHZ to_TO make_VVI a_AT1 contribution_NN1 in_II a_AT1 technical_JJ field_NN1 that_CST is_VBZ not_XX obvious_JJ to_II a_AT1 person_NN1 of_IO normal_JJ skill_NN1 in_II that_DD1 field_NN1 "_" &lsqb;_( 26_MC &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 directive_NN1 is_VBZ supported_VVN by_II Microsoft_NP1 ,_, IBM_NP1 ,_, Hewlett-Packard_NP1 and_CC the_AT European_JJ Patent_NN1 Office_NN1 ._. 
+</s>
+<s>
+The_AT directive_NN1 was_VBDZ extremely_RR controversial_JJ ,_, and_CC when_CS the_AT European_JJ Union_NN1 invited_VVD consultation_NN1 it_PPH1 received_VVD 1,447_MC responses_NN2 over_RG 2,500_MC pages_NN2 of_IO text_NN1 ._. 
+</s>
+<s>
+They_PPHS2 received_VVD responses_NN2 from_II every_AT1 EU_NP1 and_CC EEA_NP1 member_NN1 state_NN1 except_II Liechtenstein_NP1 ._. 
+</s>
+<s>
+In_RR21 general_RR22 students_NN2 ,_, academics_NN2 ,_, engineers_NN2 and_CC small_JJ companies_NN2 were_VBDR against_II the_AT proposal_NN1 ,_, and_CC lawyers_NN2 ,_, established_VVD industry_NN1 players_NN2 and_CC government_NN1 agencies_NN2 were_VBDR in_II favour_NN1 &lsqb;_( 27_MC &rsqb;_) ._. 
+</s>
+<s>
+The_AT Kiel_NP1 Institute_NN1 for_IF World_NN1 Economics_NN1 stated_VVD that_CST "_" The_AT extension_NN1 of_IO patent_NN1 law_NN1 to_II the_AT field_NN1 of_IO software_NN1 represents_VVZ a_AT1 fundamental_JJ threat_NN1 to_II the_AT open-source_JJ development_NN1 model_NN1 "_" ._. 
+</s>
+<s>
+Even_RR Bill_NP1 Gates_NP1 ,_, whose_DDQGE company_NN1 applied_VVN for_IF 3,000_MC software_NN1 patents_NN2 in_II 2004_MC alone_JJ ,_, said_VVD in_II 1991_MC that_CST "_" if_CS people_NN had_VHD understood_VVN how_RRQ patents_NN2 would_VM be_VBI granted_VVN when_CS most_DAT of_IO today_RT 's_GE ideas_NN2 were_VBDR invented_VVN and_CC had_VHD taken_VVN out_RP patents_NN2 ,_, the_AT industry_NN1 would_VM be_VBI at_II a_AT1 complete_JJ standstill_NN1 today_RT "_" ._. 
+</s>
+<s>
+The_AT general_JJ consensus_NN1 amongst_II the_AT open_JJ source_NN1 community_NN1 was_VBDZ that_CST the_AT law_NN1 would_VM hurt_VVI open_JJ source_NN1 innovation_NN1 &lsqb;_( 29_MC ,_, 30_MC &rsqb;_) ._. 
+</s>
+<s>
+NoSoftwarePatents_NN2 ,_, an_AT1 NPO_NN1 funded_VVN by_II Red_JJ Hat_NN1 and_CC MySQL_NP1 ,_, said_VVD that_CST "_" Patents_NN2 turn_VV0 software_NN1 publishing_VVG into_II the_AT privilege_NN1 of_IO a_AT1 few_DA2 "_" as_CSA only_RR large_JJ corporations_NN2 are_VBR equipped_VVN to_TO deal_VVI with_IW the_AT incremental_JJ costs_NN2 and_CC legal_JJ risks_NN2 "_" &lsqb;_( 28_MC &rsqb;_) ._. 
+</s>
+<s>
+Patents_NN2 are_VBR valid_JJ for_IF 20_MC years_NNT2 ,_, which_DDQ means_VVZ that_CST a_AT1 "_" groundbreaking_JJ idea_NN1 in_II the_AT days_NNT2 of_IO the_AT Commodore_NN1 64_MC should_VM still_RR enjoy_VVI patent_NN1 protection_NN1 today_RT "_" &lsqb;_( 28_MC &rsqb;_) ._. 
+</s>
+<s>
+In_II February_NPM1 ,_, the_AT European_JJ Parliament_NN1 rejected_VVD the_AT directive_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ worth_II pointing_VVG out_RP at_II this_DD1 stage_NN1 the_AT difference_NN1 between_II patent_NN1 and_CC copyright_NN1 ,_, when_CS it_PPH1 comes_VVZ to_II software_NN1 ._. 
+</s>
+<s>
+Patents_NN2 would_VM apply_VVI to_II the_AT underlying_JJ technical_JJ ideas_NN2 and_CC methods_NN2 ,_, and_CC copyright_NN1 to_II the_AT actual_JJ code_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ far_RR easier_JJR to_TO alter_VVI a_AT1 piece_NN1 of_IO code_NN1 sufficiently_RR so_CS21 that_CS22 it_PPH1 does_VDZ not_XX infringe_VVI a_AT1 copyright_NN1 ,_, but_CCB it_PPH1 is_VBZ far_RR too_RG difficult_JJ to_TO alter_VVI it_PPH1 fundamentally_RR enough_RR to_TO avoid_VVI a_AT1 patent_NN1 ._. 
+</s>
+<s>
+But_CCB what_DDQ of_IO the_AT rest_NN1 of_IO the_AT world_NN1 ?_? 
+</s>
+<s>
+In_II Japanese_JJ law_NN1 ,_, the_AT invention_NN1 has_VHZ to_TO be_VBI a_AT1 "_" highly_RR advanced_JJ creation_NN1 of_IO technical_JJ ideas_NN2 by_II which_DDQ a_AT1 law_NN1 of_IO nature_NN1 is_VBZ utilised_VVN "_" ,_, and_CC in_II the_AT US_NP1 any_DD invention_NN1 is_VBZ patentable_JJ as_CS31 long_CS32 as_CS33 it_PPH1 is_VBZ "_" within_II the_AT technological_JJ arts_NN2 "_" and_CC provides_VVZ a_AT1 "_" useful_JJ ,_, concrete_JJ and_CC tangible_JJ result_NN1 "_" ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT evidence_NN1 that_CST Japanese_JJ independent_JJ software_NN1 developers_NN2 have_VH0 been_VBN unduly_RR affected_VVN by_II the_AT patent_NN1 positions_NN2 of_IO large_JJ companies_NN2 or_CC of_IO others_NN2 &lsqb;_( 31_MC &rsqb;_) ._. 
+</s>
+<s>
+There_EX is_VBZ ,_, however_RR ,_, concern_VV0 that_CST patents_NN2 in_II the_AT US_NP1 are_VBR being_VBG granted_VVN on_II trivial_JJ and_CC old_JJ ideas_NN2 ,_, that_CST patents_NN2 are_VBR strengthening_VVG the_AT market_NN1 position_NN1 of_IO the_AT big_JJ players_NN2 and_CC that_CST the_AT computer_NN1 program_NN1 related_JJ industries_NN2 are_VBR examples_NN2 of_IO industries_NN2 where_RRQ incremental_JJ innovation_NN1 occurs_VVZ and_CC that_CST there_EX are_VBR serious_JJ concerns_NN2 whether_CSW ,_, in_II such_DA industries_NN2 ,_, patents_NN2 are_VBR welfare_NN1 enhancing_VVG &lsqb;_( 31_MC &rsqb;_) ._. 
+</s>
+<s>
+What_DDQ about_II patent_NN1 pooling_VVG ?_? 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN observed_VVN that_CST technical_JJ standard_JJ setting_NN1 and_CC patent_NN1 pools_NN2 potentially_RR raise_VV0 competition_NN1 policy_NN1 issues_NN2 since_CS they_PPHS2 are_VBR established_VVN through_II a_AT1 cooperative_JJ act_NN1 among_II private_JJ companies_NN2 in_II a_AT1 free_JJ market_NN1 &lsqb;_( 36_MC &rsqb;_) ._. 
+</s>
+<s>
+Recently_RR ,_, the_AT patent_NN1 debate_NN1 has_VHZ become_VVN directly_RR relevant_JJ to_II data_NN standards_NN2 ._. 
+</s>
+<s>
+Forgent_JJ Networks_NN2 acquired_VVD the_AT patents_NN2 of_IO the_AT technologies_NN2 behind_II the_AT JPEG_NN1 data_NN compression_NN1 algorithm_NN1 and_CC data_NN standard_JJ when_CS it_PPH1 bought_VVD Compression_NN1 Labs_NN2 Inc._JJ in_II 1997_MC ._. 
+</s>
+<s>
+It_PPH1 has_VHZ recently_RR claimed_VVN and_CC received_VVN royalties_NN2 from_II two_MC corporations_NN2 ,_, including_II Sony_NP1 ._. 
+</s>
+<s>
+&lsqb;_( 35_MC &rsqb;_) ._. 
+</s>
+<s>
+Forgent_NN1 claims_VVZ the_AT sole_JJ and_CC exclusive_JJ right_NN1 to_TO use_VVI and_CC licence_NN1 JPEG_NN1 in_II all_DB "_" fields_NN2 of_IO use_NN1 "_" except_CS in_II the_AT satellite_NN1 broadcast_NN1 business_NN1 ._. 
+</s>
+<s>
+These_DD2 "_" fields_NN2 of_IO use_NN1 "_" include_VV0 digital_JJ cameras_NN2 ,_, digital_JJ still_JJ image_NN1 devices_NN2 ,_, PDAs_NN2 ,_, cellular_JJ telephones_NN2 that_CST download_VV0 images_NN2 ,_, browsers_NN2 ,_, digital_JJ camcorders_NN2 with_IW a_AT1 still_JJ image_NN1 function_NN1 ,_, scanners_NN2 and_CC other_JJ devices_NN2 used_VMK to_TO compress_VVI ,_, store_NN1 ,_, manipulate_VV0 ,_, print_NN1 or_CC transmit_VV0 digital_JJ images_NN2 ._. 
+</s>
+<s>
+&lsqb;_( 15_MC &rsqb;_) ._. 
+</s>
+<s>
+In_II conclusion_NN1 ,_, therefore_RR ,_, the_AT evidence_NN1 points_VVZ towards_II open_JJ source_NN1 software_NN1 ,_, and_CC ,_, to_II a_AT1 lesser_JJ extent_NN1 ,_, hardware_NN1 ,_, being_VBG in_RR21 general_RR22 a_AT1 mutually_RR beneficial_JJ paradigm_NN1 ._. 
+</s>
+<s>
+Open_VV0 data_NN standards_NN2 are_VBR very_RG beneficial_JJ to_II the_AT end_NN1 user_NN1 ._. 
+</s>
+<s>
+Patents_NN2 seem_VV0 to_TO stifle_VVI the_AT open_JJ source_NN1 movement_NN1 ,_, and_CC it_PPH1 is_VBZ more_RGR difficult_JJ to_TO see_VVI how_RRQ they_PPHS2 would_VM be_VBI beneficial_JJ to_II the_AT end_NN1 user_NN1 ._. 
+</s>
+<s>
+&lsqb;_( 1_MC1 &rsqb;_) The_AT European_JJ Patent_NN1 Convention_NN1 1978_MC ,_, Article_NN1 52_MC ,_, paragraphs_NN2 (_( 2_MC )_) (_( c_ZZ1 )_) and_CC (_( 3_MC )_) &lsqb;_( 2_MC &rsqb;_) "_" Inside_II the_AT Software_NN1 Patents_NN2 Debate_VV0 "_" ,_, Laurianne_NP1 McLauhin_NP1 ,_, IEEE_NP1 2005_MC &lsqb;_( 3_MC &rsqb;_) "_" Should_VM Software_NN1 Hold_NN1 Data_NN Hostage_NN1 ?_? "_" 
+</s>
+<s>
+Wiley_NN1 and_CC Michaels_NP2 in_II Nature_NN1 Biotechnology_NN1 22_MC ,_, p._NN1 1037_MC -_- 1038_MC ,_, 2004_MC &lsqb;_( 4_MC &rsqb;_) "_" Using_VVG Open_JJ Source_NN1 Cores_NN2 in_II Real_JJ Applications_NN2 "_" ,_, Bolado_NP1 ,_, Castillo_NP1 et_RA21 al_RA22 ,_, 2003_MC &lsqb;_( 5_MC &rsqb;_) "_" An_AT1 Empirical_JJ Study_NN1 of_IO Open-Sourced_NN1 and_CC Closed-Source_NP1 Software_NN1 Products_NN2 "_" ,_, Paulson_NP1 ,_, Succi_NP1 and_CC Eberlein_NP1 ._. 
+</s>
+<s>
+Published_VVN in_II IEEE_NP1 Transactions_NN2 on_II Software_NN1 Engineering_NN1 ,_, Vol._NN1 30_MC ,_, No._NN1 4_MC ,_, April_NPM1 2004_MC &lsqb;_( 6_MC &rsqb;_) "_" 2005_MC North_NP1 American_JJ Linux_NN1 and_CC Windows_NP1 TCO_NP1 Comparison_NN1 "_" ,_, The_AT Yankee_NN1 Group_NN1 ,_, 2005_MC (_( )_) &lsqb;_( 7_MC &rsqb;_) "_" Linux_VV0 ,_, Windows_NP1 NT_NP1 ,_, and_CC Windows_NP1 2000/2003_MF :_: TCO_NP1 Research_NN1 into_II Enterprise_NN1 Computing_NN1 "_" ,_, Wang_NP1 et_RA21 al_RA22 ,_, March_NPM1 2005_MC (_( &lsqb;_( 8_MC &rsqb;_) "_" Linux_VV0 vs_II ._. 
+</s>
+<s>
+Windows_NN2 ,_, Total_JJ Cost_NN1 of_IO Ownership_NN1 Comparison_NN1 "_" ,_, Cybersource_NP1 ,_, 2002_MC ,_, updated_VVD 2004._MC (_( &lsqb;_( 9_MC &rsqb;_) "_" The_AT Open_JJ Source_NN1 Definition_NN1 "_" ,_, Bruce_NP1 Perens_NP1 (_( )_) &lsqb;_( 10_MC &rsqb;_) "_" Netcraft_VV0 Web_NN1 Server_NN1 Survey_NN1 "_" ,_, February_NPM1 2006_MC (_( )_) &lsqb;_( 11_MC &rsqb;_) OpenOffice_NP1 (_( )_) &lsqb;_( 12_MC &rsqb;_) Mozilla_NP1 (_( )_) &lsqb;_( 13_MC &rsqb;_) "_" Open_JJ Source_NN1 Security_NN1 :_: Opportunity_NN1 or_CC Oxymoron_NP1 ?_? "_" 
+</s>
+<s>
+George_NP1 Lawton_NP1 ,_, 2002_MC &lsqb;_( 14_MC &rsqb;_) "_" Working_VVG for_IF Free_JJ ?_? 
+</s>
+<s>
+Motivations_NN2 of_IO Participating_VVG in_II Open_JJ Source_NN1 Projects_NN2 "_" ,_, Hars_NP2 and_CC Ou_FW ,_, 2001_MC &lsqb;_( 15_MC &rsqb;_) Technical_JJ Standard-Setting_NN1 and_CC Patent_NN1 Pooling_VVG ,_, and_CC Competition_NN1 Policy_NN1 ,_, Kin_NN Junghoon_NP1 ,_, HP_NN1 Bulletin_NN1 2004_MC (_( )_) &lsqb;_( 16_MC &rsqb;_) "_" Finding_VVG Cures_NN2 for_IF Tropical_JJ Diseases_NN2 :_: Is_VBZ Open_JJ Source_NN1 an_AT1 Answer_NN1 ?_? "_" 
+</s>
+<s>
+Maurer_NP1 ,_, Rai_NP1 ,_, Sali_NP1 ,_, 2004_MC (_( )_) &lsqb;_( 17_MC &rsqb;_) Apple_NN1 Public_NN1 Source_NN1 License_NN1 (_( )_) &lsqb;_( 18_MC &rsqb;_) "_" Open_JJ Hardware_NN1 Design_NN1 Trend_NN1 :_: A_AT1 Survey_NN1 "_" ,_, Jamil_NP1 Khatlib_NP1 (_( )_) &lsqb;_( 19_MC &rsqb;_) "_" The_AT Last_MD Byte_NNU :_: Open-Source_NP1 Hardware_NN1 "_" ,_, Scott_NP1 Davidson_NP1 of_IO Sun_NN1 Microsystems_NN2 ,_, 2004_MC &lsqb;_( 20_MC &rsqb;_) Opencores.org_NP1 (_( )_) &lsqb;_( 21_MC &rsqb;_) Power.org_NP1 (_( )_) &lsqb;_( 22_MC &rsqb;_) "_" Glossary_NN1 of_IO Open_JJ Source_NN1 Software_NN1 and_CC Open_JJ Data_NN Standards_NN2 "_" (_( )_) &lsqb;_( 23_MC &rsqb;_) Openformats.org_NP1 (_( )_) &lsqb;_( 24_MC &rsqb;_) "_" RC-Blast_NN1 :_: Towards_II a_AT1 Portable_JJ ,_, Cost-Effective_JJ Open_JJ Source_NN1 Hardware_NN1 Implementation_NN1 "_" ,_, Muriki_NP1 ,_, Underwood_NP1 and_CC Sass_NP1 ,_, 2005_MC &lsqb;_( 25_MC &rsqb;_) European_JJ Union_NN1 Explanation_NN1 "_" Memo/02/32_FU "_" ,_, 2002_MC (_( )_) &lsqb;_( 26_MC &rsqb;_) Proposal_NN1 for_IF a_AT1 Directive_NN1 of_IO the_AT European_JJ Parliament_NN1 and_CC of_IO the_AT Council_NN1 on_II the_AT Patentability_NN1 of_IO Computer-Implemented_JJ Inventions_NN2 ,_, 2002_MC (_( :_: 52002PC0092:EN:HTML_FO )_) &lsqb;_( 27_MC &rsqb;_) Analysis_NN1 of_IO replies_NN2 to_II the_AT Consultation_NN1 Paper_NN1 on_II the_AT Patentability_NN1 of_IO Computer-Implemented_JJ Inventions_NN2 (_( )_) &lsqb;_( 28_MC &rsqb;_) NoSoftwarePatents_NP1 (_( )_) &lsqb;_( 29_MC &rsqb;_) Foundation_NN1 for_IF a_AT1 Free_JJ Software_NN1 Infrastructure_NN1 (_( )_) &lsqb;_( 30_MC &rsqb;_) Free_JJ Software_NN1 Foundation_NN1 Europe_NP1 (_( )_) &lsqb;_( 31_MC &rsqb;_) "_" The_AT Economic_JJ Impact_NN1 of_IO Patentability_NN1 of_IO Computer_NN1 Programs_NN2 "_" ,_, Hart_NP1 ,_, Holmes_NP1 and_CC Reid_NP1 ._. 
+</s>
+<s>
+&lsqb;_( 32_MC &rsqb;_) International_JJ Data_NN Corporation_NN1 Study_NN1 ,_, January_NPM1 2005_MC &lsqb;_( 33_MC &rsqb;_) "_" OSRM_VV0 Position_NN1 Paper_NN1 :_: Mitigating_JJ Linux_NN1 Patent_NN1 Risk_NN1 "_" ,_, Ravicher_NP1 2004_MC (_( )_) &lsqb;_( 34_MC &rsqb;_) Forgent_JJ Intellectual_JJ Properties_NN2 Statement_NN1 (_( )_) &lsqb;_( 35_MC &rsqb;_) The_AT Public_JJ Patent_NN1 Foundation_NN1 (_( PUPART_NP1 )_) (_( )_) ._. 
+</s>
+<s>
+I_PPIS1 must_VM admit_VVI to_II having_VHG found_VVN this_DD1 task_NN1 enjoyable_JJ ._. 
+</s>
+<s>
+I_PPIS1 read_VV0 quite_RG a_AT1 wealth_NN1 of_IO journals_NN2 and_CC papers_NN2 before_II embarking_VVG ,_, so_CS the_AT content_NN1 just_RR flowed_VVN when_CS actually_RR writing_VVG the_AT essay_NN1 ._. 
+</s>
+<s>
+The_AT most_RGT difficult_JJ aspect_NN1 of_IO the_AT task_NN1 I_PPIS1 found_VVD was_VBDZ the_AT word_NN1 limit_NN1 ._. 
+</s>
+<s>
+I_PPIS1 always_RR find_VV0 word_NN1 limits_VVZ difficult_JJ ._. 
+</s>
+<s>
+I_PPIS1 either_RR run_VVD out_II21 of_II22 steam_NN1 before_II the_AT end_NN1 and_CC am_VBM faced_VVN ,_, as_CSA I_PPIS1 am_VBM now_RT ,_, with_IW another_DD1 400_MC words_NN2 and_CC no_AT ideas_NN2 ,_, or_CC I_PPIS1 have_VH0 so_RG much_DA1 to_TO cram_VVI in_II that_DD1 I_PPIS1 have_VH0 to_TO leave_VVI swathes_NN2 out_RP ._. 
+</s>
+<s>
+The_AT content_NN1 I_PPIS1 wanted_VVD to_TO include_VVI took_VVD over_RG 3,000_MC words_NN2 ,_, so_CS I_PPIS1 had_VHD to_TO edit_VVI out_RP quite_RG a_AT1 lot_NN1 of_IO information_NN1 ._. 
+</s>
+<s>
+The_AT main_JJ section_NN1 I_PPIS1 removed_VVD was_VBDZ details_NN2 of_IO patenting_VVG laws_NN2 in_II other_JJ countries_NN2 ,_, such_II21 as_II22 India_NP1 's_GE new_JJ amendment_NN1 ._. 
+</s>
+<s>
+There_EX was_VBDZ also_RR a_AT1 great_JJ deal_NN1 of_IO discussion_NN1 about_II Munich_NP1 deciding_VVG to_TO install_VVI Linux_NP1 and_CC OpenOffice_NP1 on_II its_APPGE 14,000_MC computers_NN2 rather_II21 than_II22 updating_VVG the_AT Microsoft_NP1 software_NN1 ,_, then_RT stalling_VVG because_II21 of_II22 the_AT patent_NN1 issues_NN2 ._. 
+</s>
+<s>
+I_PPIS1 reduced_VVD the_AT number_NN1 of_IO references_NN2 from_II 42_MC down_RP to_II 35_MC ._. 
+</s>
+<s>
+The_AT conclusion_NN1 was_VBDZ also_RR a_AT1 bit_NN1 of_IO a_AT1 victim_NN1 in_II my_APPGE editings_NN2 ,_, bringing_VVG it_PPH1 down_RP to_II one_MC1 small_JJ sentence_NN1 for_IF each_DD1 of_IO the_AT areas_NN2 of_IO discussion_NN1 ._. 
+</s>
+<s>
+I_PPIS1 decided_VVD this_DD1 would_VM be_VBI appropriate_JJ as_CSA I_PPIS1 felt_VVD the_AT actual_JJ content_NN1 of_IO the_AT essay_NN1 is_VBZ more_RGR important_JJ than_CSN repeating_VVG myself_PPX1 in_II a_AT1 summary_NN1 ._. 
+</s>
+<s>
+I_PPIS1 enjoyed_VVD the_AT Blackboard_NN1 forum_NN1 posting_NN1 ._. 
+</s>
+<s>
+Posting_VVG on_II fora_NN2 is_VBZ not_XX something_PN1 I_PPIS1 tend_VV0 to_TO do_VDI ,_, but_CCB it_PPH1 was_VBDZ strangely_RR enjoyable_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ very_RG difficult_JJ to_TO make_VVI more_DAR than_CSN one_MC1 point_NN1 in_II 200_MC words_NN2 ,_, so_CS it_PPH1 is_VBZ all_DB about_II conciseness_NN1 ._. 
+</s>
+<s>
+The_AT problems_NN2 with_IW restricting_VVG to_II 200_MC words_NN2 are_VBR far_RR fewer_DAR than_CSN restricting_VVG to_II 2,500_MC as_CSA it_PPH1 is_VBZ far_RG more_RGR obvious_JJ what_DDQ to_TO remove_VVI to_TO reduce_VVI the_AT word_NN1 count_NN1 ._. 
+</s>
+<s>
+I_PPIS1 chose_VVD 'Sex_NN1 and_CC Technology'_NP1 as_II a_AT1 topic_NN1 ,_, and_CC started_VVD threads_NN2 about_II paedophilia_NN1 ,_, homosexuality_NN1 online_RR ,_, and_CC telephone_NN1 scatalogia_NN1 ._. 
+</s>
+<s>
+I_PPIS1 found_VVD it_PPH1 difficult_JJ to_TO draw_VVI the_AT line_NN1 between_II what_DDQ is_VBZ acceptable_JJ to_TO discuss_VVI in_II an_AT1 academic_JJ way_NN1 ,_, and_CC what_DDQ is_VBZ not_XX ._. 
+</s>
+<s>
+I_PPIS1 may_VM have_VHI tended_VVN more_RRR toward_II the_AT latter_DA than_CSN the_AT former_DA ,_, but_CCB not_XX excessively_RR so_RR ._. 
+</s>
+<s>
+I_PPIS1 also_RR found_VVD it_PPH1 slightly_RR difficult_JJ to_TO reply_VVI to_II people_NN who_PNQS were_VBDR ignorant_JJ or_CC have_VH0 viewpoints_NN2 arguably_RR clouded_VVN by_II fundamental_JJ religion_NN1 ._. 
+</s>
+<s>
+In_II all_DB ,_, I_PPIS1 found_VVD the_AT assignment_NN1 gently_RR enjoyable_JJ and_CC quite_RG interesting_JJ ._. 
+</s>

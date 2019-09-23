@@ -1,0 +1,366 @@
+<s>
+The_AT "_" first_MD generation_NN1 "_" model_NN1 is_VBZ first_MD pointed_VVD out_RP by_II Krugman_NP1 in_II 1979_MC ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 model_NN1 about_II the_AT timing_NN1 of_IO the_AT balance_NN1 of_IO payments_NN2 crisis_NN1 and_CC how_RRQ the_AT country_NN1 's_GE currency_NN1 is_VBZ being_VBG attacked_VVN ._. 
+</s>
+<s>
+When_CS a_AT1 central_JJ bank_NN1 's_GE foreign_JJ currency_NN1 reserves_NN2 are_VBR limited_VVN but_CCB the_AT bank_NN1 is_VBZ committed_VVN to_TO tolerate_VVI the_AT persistence_NN1 of_IO government_NN1 budget_NN1 deficits_NN2 ,_, it_PPH1 will_VM find_VVI itself_PPX1 unable_JK to_TO maintain_VVI the_AT fixed_JJ exchange_NN1 rate_NN1 and_CC eventually_RR leads_VVZ to_II the_AT collapse_NN1 of_IO the_AT exchange_NN1 rate_NN1 regime_NN1 ._. 
+</s>
+<s>
+This_DD1 essay_NN1 sets_VVZ out_RP to_TO look_VVI at_II the_AT macroeconomic_JJ model_NN1 within_II which_DDQ the_AT "_" first_MD generation_NN1 "_" speculative_JJ attack_NN1 model_NN1 is_VBZ conducted_VVN ._. 
+</s>
+<s>
+The_AT next_MD section_NN1 looks_VVZ at_II the_AT empirical_JJ evidence_NN1 in_II31 support_II32 of_II33 this_DD1 model_NN1 and_CC finally_RR ,_, the_AT essay_NN1 examines_VVZ the_AT limitations_NN2 and_CC extensions_NN2 of_IO the_AT model_NN1 ._. 
+</s>
+<s>
+The_AT model_NN1 used_VVN in_II this_DD1 essay_NN1 is_VBZ a_AT1 simple_JJ linear_JJ example_NN1 developed_VVN by_II Flood_NN1 and_CC Garber_NP1 (_( 1982_MC )_) ._. 
+</s>
+<s>
+The_AT basic_JJ setup_NN1 of_IO the_AT model_NN1 includes_VVZ three_MC important_JJ relations_NN2 :_: The_AT LM_NP1 equation_NN1 is_VBZ a_AT1 money_NN1 demand_NN1 equation_NN1 ._. 
+</s>
+<s>
+are_VBR money_NN1 supply_NN1 ,_, price_NN1 level_NN1 and_CC output_NN1 at_II time_NNT1 t_ZZ1 respectively_RR ;_; is_VBZ the_AT interest_NN1 rate_NN1 between_II t_ZZ1 and_CC t+1_FO ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST the_AT demand_NN1 of_IO money_NN1 depends_VVZ positively_RR on_II price_NN1 level_NN1 and_CC output_NN1 and_CC negatively_RR on_II interest_NN1 rates_NN2 ._. 
+</s>
+<s>
+The_AT purchasing_NN1 power_NN1 parity_NN1 condition_NN1 (_( PPP_NP1 )_) requires_VVZ that_CST the_AT prices_NN2 of_IO goods_NN2 ,_, ,_, are_VBR similar_JJ to_II those_DD2 prices_NN2 abroad_RL ,_, ,_, when_CS exchange_NN1 rates_NN2 ,_, ,_, are_VBR taken_VVN into_II account_NN1 ._. 
+</s>
+<s>
+The_AT uncovered_JJ interest_NN1 parity_NN1 (_( UIP_NP1 )_) is_VBZ an_AT1 arbitrage_NN1 relation_NN1 stating_VVG that_DD1 domestic_JJ and_CC foreign_JJ bonds_NN2 must_VM have_VHI the_AT same_DA expected_JJ rate_NN1 of_IO return_NN1 ,_, expressed_VVN in_II31 terms_II32 of_II33 the_AT domestic_JJ currency_NN1 ._. 
+</s>
+<s>
+All_DB starred_VVD (_( *_FU )_) variables_NN2 are_VBR assumed_VVN to_TO be_VBI given_VVN exogenously_RR ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 ,_, the_AT country_NN1 is_VBZ having_VHG a_AT1 fixed_JJ exchange_NN1 rate_NN1 regime_NN1 ._. 
+</s>
+<s>
+as_CS31 long_CS32 as_CS33 the_AT fixed_JJ exchange_NN1 rate_NN1 is_VBZ sustainable_JJ ._. 
+</s>
+<s>
+The_AT supply_NN1 of_IO money_NN1 in_II the_AT country_NN1 is_VBZ (_( 4_MC )_) where_RRQ D_ZZ1 is_VBZ the_AT domestic_JJ credit_NN1 in_II the_AT monetary_JJ base_NN1 and_CC R_ZZ1 represents_VVZ the_AT foreign_JJ reserves_NN2 held_VVN by_II the_AT central_JJ bank_NN1 ._. 
+</s>
+<s>
+Domestic_JJ credit_NN1 grows_VVZ at_II a_AT1 constant_JJ rate_NN1 of_IO ._. 
+</s>
+<s>
+In_II this_DD1 economy_NN1 ,_, the_AT government_NN1 budget_NN1 constraint_NN1 is_VBZ (_( 5_MC )_) where_RRQ G_ZZ1 is_VBZ the_AT government_NN1 spending_NN1 ,_, T_ZZ1 the_AT tax_NN1 receipts_NN2 ,_, D_ZZ1 are_VBR government_NN1 bonds_NN2 held_VVN by_II central_JJ bank_NN1 and_CC B_ZZ1 are_VBR government_NN1 bonds_NN2 held_VVN by_II the_AT public_NN1 ._. 
+</s>
+<s>
+If_CS the_AT public_NN1 is_VBZ already_RR holding_VVG the_AT maximum_JJ level_NN1 of_IO bonds_NN2 issued_VVN by_II the_AT government_NN1 ,_, the_AT only_JJ way_NN1 for_IF the_AT government_NN1 to_TO finance_VVI its_APPGE budget_NN1 deficit_NN1 would_VM be_VBI through_II issuing_JJ bonds_NN2 to_II the_AT central_JJ bank_NN1 ._. 
+</s>
+<s>
+Thus_RR ,_, the_AT central_JJ bank_NN1 has_VHZ two_MC roles_NN2 in_II this_DD1 model_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ to_TO monetize_VVI the_AT government_NN1 budget_NN1 deficit_NN1 by_II buying_VVG government_NN1 bonds_NN2 and_CC it_PPH1 also_RR has_VHZ to_TO defend_VVI the_AT exchange_NN1 rate_NN1 of_IO the_AT country_NN1 by_II buying_VVG and_CC selling_VVG foreign_JJ reserves_NN2 ._. 
+</s>
+<s>
+Since_CS the_AT requirement_NN1 to_TO monetize_VVI government_NN1 budget_NN1 deficit_NN1 is_VBZ given_VVN priority_NN1 ,_, the_AT inconsistency_NN1 of_IO the_AT central_JJ bank_NN1 's_GE two_MC objectives_NN2 will_VM cause_VVI the_AT exchange_NN1 rate_NN1 to_TO float_VVI ultimately_RR ._. 
+</s>
+<s>
+Under_II the_AT fixed_JJ exchange_NN1 rate_NN1 ,_, and_CC substituting_VVG this_DD1 into_II equation_NN1 (_( 1_MC1 )_) to_II (_( 3_MC )_) will_VM yield_VVI (_( 6_MC )_) ._. 
+</s>
+<s>
+When_CS all_DB exogenous_JJ variable_NN1 are_VBR normalized_VVN ,_, the_AT exchange_NN1 rate_NN1 will_VM be_VBI equal_JJ to_II money_NN1 demand_NN1 ._. 
+</s>
+<s>
+(_( 7_MC )_) ._. 
+</s>
+<s>
+This_DD1 show_NN1 that_CST under_RG fixed_JJ exchange_NN1 rate_NN1 regime_NN1 ,_, the_AT monetary_JJ policy_NN1 is_VBZ endogenous_JJ since_CS it_PPH1 must_VM be_VBI consistent_JJ with_IW the_AT level_NN1 of_IO exchange_NN1 rate_NN1 chosen_VVN by_II the_AT government_NN1 ._. 
+</s>
+<s>
+Knowing_VVG this_DD1 ,_, the_AT supply_NN1 of_IO money_NN1 in_II the_AT economy_NN1 ,_, which_DDQ is_VBZ made_VVN up_RP of_IO domestic_JJ credit_NN1 and_CC foreign_JJ currency_NN1 reserves_NN2 will_VM now_RT be_VBI (_( 8_MC )_) ._. 
+</s>
+<s>
+The_AT inverse_JJ relationship_NN1 between_II domestic_JJ credit_NN1 and_CC reserves_NN2 indicates_VVZ that_CST as_RG domestic_JJ credit_NN1 is_VBZ growing_VVG constantly_RR at_II the_AT rate_NN1 of_IO ,_, reserves_NN2 must_VM decrease_VVI steadily_RR over_II time_NNT1 in_BCL21 order_BCL22 to_TO keep_VVI money_NN1 supply_NN1 constant_NN1 ._. 
+</s>
+<s>
+When_CS government_NN1 spending_NN1 increases_NN2 and_CC leads_VVZ to_II increased_JJ domestic_JJ money_NN1 supply_NN1 ,_, the_AT central_JJ bank_NN1 has_VHZ to_TO sell_VVI foreign_JJ reserves_NN2 in_BCL21 order_BCL22 to_TO buy_VVI domestic_JJ money_NN1 such_CS21 that_CS22 total_JJ money_NN1 in_II the_AT economy_NN1 remains_VVZ the_AT same_DA ._. 
+</s>
+<s>
+The_AT central_JJ bank_NN1 stops_VVZ intervening_VVG in_II the_AT foreign_JJ exchange_NN1 markets_NN2 when_CS it_PPH1 has_VHZ no_AT more_RGR foreign_JJ reserves_NN2 to_TO trade_VVI on_II the_AT market_NN1 ._. 
+</s>
+<s>
+Since_CS the_AT central_JJ bank_NN1 has_VHZ only_RR limited_VVN foreign_JJ currency_NN1 reserves_NN2 ,_, it_PPH1 is_VBZ therefore_RR possible_JJ to_TO estimate_VVI the_AT timing_NN1 of_IO the_AT crisis_NN1 where_CS the_AT central_JJ bank_NN1 is_VBZ forced_VVN to_TO leave_VVI the_AT fixed_JJ exchange_NN1 rate_NN1 regime_NN1 and_CC lets_VVZ its_APPGE currency_NN1 floats_NN2 ._. 
+</s>
+<s>
+Figure_VV0 1_MC1 shows_VVZ the_AT case_NN1 where_CS the_AT crisis_NN1 happens_VVZ at_II T._NP1 This_DD1 figure_NN1 follows_VVZ the_AT technique_NN1 developed_VVN by_II Flood_NN1 and_CC Garber_NP1 (_( 1984_MC )_) ,_, which_DDQ is_VBZ to_TO use_VVI the_AT "_" shadow_NN1 exchange_NN1 rate_NN1 "_" ._. 
+</s>
+<s>
+The_AT shadow_NN1 exchange_NN1 rate_NN1 is_VBZ the_AT exchange_NN1 rate_NN1 that_CST would_VM prevail_VVI if_CSW the_AT central_JJ bank_NN1 held_VVD no_AT foreign_JJ reserves_NN2 and_CC allowing_VVG the_AT currency_NN1 to_TO float_VVI but_CCB at_II the_AT same_DA time_NNT1 ,_, domestic_JJ credit_NN1 continues_VVZ to_TO grow_VVI over_II time_NNT1 ._. 
+</s>
+<s>
+Since_CS the_AT fixed_JJ exchange_NN1 rate_NN1 would_VM collapse_VVI when_RRQ reserves_NN2 is_VBZ zero_MC ,_, the_AT shadow_NN1 rate_NN1 in_II the_AT fixed_JJ regime_NN1 is_VBZ the_AT ongoing_JJ inflation_NN1 in_II which_DDQ the_AT exchange_NN1 rate_NN1 has_VHZ an_AT1 upward_JJ trend_NN1 that_CST follows_VVZ the_AT domestic_JJ credit_NN1 growth_NN1 rate_NN1 ._. 
+</s>
+<s>
+(_( 9_MC )_) ._. 
+</s>
+<s>
+At_II time_NNT1 T_ZZ1 in_II Figure_NN1 1_MC1 ,_, the_AT shadow_NN1 exchange_NN1 rate_NN1 reaches_VVZ the_AT level_NN1 at_II which_DDQ the_AT exchange_NN1 rate_NN1 is_VBZ pegged_VVN ,_, ,_, and_CC the_AT domestic_JJ credit_NN1 is_VBZ therefore_RR (_( 10_MC )_) or_CC (_( 11_MC )_) ._. 
+</s>
+<s>
+From_II equation_NN1 11_MC ,_, the_AT level_NN1 of_IO reserves_NN2 before_II the_AT collapse_NN1 of_IO the_AT fixed_JJ exchange_NN1 rate_NN1 can_VM be_VBI derived_VVN (_( 12_MC )_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT amount_NN1 of_IO reserves_NN2 that_CST the_AT speculative_JJ attack_NN1 will_VM wipe_VVI out_RP completely_RR ._. 
+</s>
+<s>
+The_AT size_NN1 of_IO this_DD1 reserve_JJ loss_NN1 is_VBZ FT*_FO ,_, which_DDQ is_VBZ shown_VVN on_II the_AT lower_JJR panel_NN1 of_IO Figure_NN1 1_MC1 ._. 
+</s>
+<s>
+Sudden_JJ decrease_NN1 in_II reserves_NN2 also_RR affects_VVZ the_AT money_NN1 supply_NN1 and_CC thus_RR ,_, money_NN1 supply_NN1 drops_VVZ suddenly_RR ._. 
+</s>
+<s>
+The_AT timing_NN1 of_IO the_AT fixed_JJ exchange_NN1 rate_NN1 collapse_NN1 can_VM be_VBI determined_VVN by_II looking_VVG at_II the_AT dynamics_NN of_IO D._NP1 (_( 13_MC )_) ._. 
+</s>
+<s>
+Since_CS we_PPIS2 know_VV0 that_CST at_II time_NNT1 T_ZZ1 ,_, the_AT shadow_NN1 rate_NN1 and_CC the_AT fixed_JJ rate_NN1 are_VBR the_AT same_DA ,_, equation_NN1 13_MC can_VM be_VBI substituted_VVN into_II equation_NN1 10_MC to_TO obtain_VVI the_AT T_ZZ1 ,_, which_DDQ is_VBZ the_AT time_NNT1 for_IF which_DDQ crisis_NN1 takes_VVZ place_NN1 ._. 
+</s>
+<s>
+(_( 14_MC )_) ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 ,_, there_EX is_VBZ no_AT sudden_JJ jump_NN1 in_II exchange_NN1 rate_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM not_XX happen_VVI because_CS there_EX would_VM be_VBI arbitrage_NN1 opportunities_NN2 and_CC speculative_JJ attacks_NN2 would_VM take_VVI place_NN1 ._. 
+</s>
+<s>
+Looking_VVG at_II Figure_NN1 1_MC1 ,_, if_CS the_AT reserves_NN2 first_MD hit_VVD zero_MC at_II time_NNT1 T_ZZ1 '_GE ,_, the_AT shadow_NN1 exchange_NN1 rate_NN1 shows_VVZ that_CST the_AT exchange_NN1 rate_NN1 should_VM be_VBI at_II EsT'_NP1 ._. 
+</s>
+<s>
+Speculators_NN2 who_PNQS know_VV0 that_CST the_AT currency_NN1 is_VBZ going_VVGK to_TO depreciate_VVI sharply_RR at_II time_NNT1 T_ZZ1 '_GE will_NN1 try_VV0 to_TO profit_VVI by_II buying_VVG foreign_JJ reserves_NN2 from_II the_AT central_JJ bank_NN1 at_II the_AT lower_JJR exchange_NN1 rate_NN1 of_IO EsT_JJ just_RR before_II time_NNT1 T_ZZ1 '_GE ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, reserves_NN2 will_VM be_VBI wiped_VVN out_RP before_II T_NP1 '_GE so_RR T_ZZ1 '_GE is_VBZ not_XX the_AT time_NNT1 when_RRQ reserves_NN2 first_MD hit_VVD zero_MC ._. 
+</s>
+<s>
+This_DD1 contradicts_VVZ with_IW the_AT initial_JJ assumption_NN1 ._. 
+</s>
+<s>
+The_AT only_JJ equilibrium_NN1 in_II this_DD1 model_NN1 is_VBZ when_RRQ foreign_JJ reserves_NN2 hit_VVD zero_MC at_II time_NNT1 T_ZZ1 exactly_RR ._. 
+</s>
+<s>
+There_EX is_VBZ no_AT sudden_JJ jump_NN1 in_II the_AT exchange_NN1 rate_NN1 but_CCB money_NN1 supply_NN1 and_CC nominal_JJ interest_NN1 rate_NN1 jump_NN1 ._. 
+</s>
+<s>
+The_AT jump_NN1 in_II interest_NN1 rate_NN1 is_VBZ because_CS for_IF the_AT UIP_NN1 condition_NN1 to_TO hold_VVI ,_, the_AT interest_NN1 rate_NN1 parity_NN1 after_II the_AT abandon_NN1 of_IO fixed_JJ exchange_NN1 rate_NN1 has_VHZ to_TO adjust_VVI immediately_RR to_TO reflect_VVI the_AT depreciation_NN1 in_II currency_NN1 ._. 
+</s>
+<s>
+As_II21 for_II22 the_AT price_NN1 level_NN1 ,_, it_PPH1 increases_VVZ gradually_RR when_CS there_EX is_VBZ floating_JJ exchange_NN1 rate_NN1 ._. 
+</s>
+<s>
+These_DD2 are_VBR illustrated_VVN below_RL ._. 
+</s>
+<s>
+The_AT model_NN1 has_VHZ so_RG far_RR suggested_VVN that_CST when_CS a_AT1 country_NN1 leaves_VVZ the_AT fixed_JJ exchange_NN1 rate_NN1 regime_NN1 ,_, the_AT exchange_NN1 rate_NN1 is_VBZ continuous_JJ and_CC there_EX is_VBZ no_AT sudden_JJ jump_NN1 ._. 
+</s>
+<s>
+However_RR ,_, foreign_JJ exchange_NN1 reserves_NN2 ,_, the_AT money_NN1 supply_NN1 and_CC nominal_JJ interest_NN1 rate_NN1 all_DB experience_VV0 sudden_JJ jump_NN1 after_II the_AT crisis_NN1 ._. 
+</s>
+<s>
+The_AT most_RGT important_JJ cause_NN1 of_IO this_DD1 crisis_NN1 is_VBZ the_AT persistent_JJ government_NN1 budget_NN1 deficit_NN1 which_DDQ the_AT central_JJ bank_NN1 has_VHZ to_TO tolerate_VVI ._. 
+</s>
+<s>
+To_TO test_VVI this_DD1 model_NN1 ,_, the_AT empirical_JJ evidence_NN1 must_VM be_VBI able_JK to_TO support_VVI all_DB of_IO these_DD2 testable_JJ implications_NN2 of_IO the_AT model_NN1 ._. 
+</s>
+<s>
+The_AT European_JJ Exchange_NN1 Rate_NN1 Mechanism_NN1 (_( ERM_FU )_) was_VBDZ set_VVN up_RP in_II 1979_MC to_TO reduce_VVI exchange-rate_NN1 variability_NN1 in_II Europe_NP1 and_CC countries_NN2 in_II the_AT ERM_NN1 have_VH0 fixed_VVN exchange_NN1 rates_NN2 ._. 
+</s>
+<s>
+In_II 1992_MC ,_, Bundesbank_NP1 set_VVD high_JJ German_JJ interest_NN1 rates_NN2 to_TO counteract_VVI inflationary_JJ effects_NN2 but_CCB this_DD1 caused_VVD significant_JJ stress_NN1 across_II all_DB other_JJ countries_NN2 ._. 
+</s>
+<s>
+The_AT speculative_JJ attack_NN1 occurred_VVD in_II September_NPM1 when_RRQ speculators_NN2 bought_VVD pounds_NN2 and_CC lire_NNU1 to_TO sell_VVI for_IF DM_NNU ,_, in_II the_AT expectation_NN1 of_IO earning_VVG profits_NN2 through_II the_AT difference_NN1 ._. 
+</s>
+<s>
+Countries_NN2 attacked_VVD were_VBDR UK_NP1 ,_, Italy_NP1 and_CC Spain_NP1 ._. 
+</s>
+<s>
+The_AT exchange_NN1 rate_NN1 of_IO UK_NP1 and_CC Italy_NP1 depreciated_VVD about_RG 10%_NNU within_II 2_MC weeks_NNT2 from_II 12_MC September_NPM1 1992_MC to_II 26_MC September_NPM1 1992_MC ._. 
+</s>
+<s>
+(_( Appendix_NN1 2_MC and_CC 3_MC )_) There_EX was_VBDZ a_AT1 sudden_JJ jump_NN1 after_II the_AT crisis_NN1 and_CC no_AT apparent_JJ steady_JJ depreciation_NN1 after_II that_DD1 ._. 
+</s>
+<s>
+These_DD2 countries_NN2 all_DB had_VHD high_JJ and_CC persistent_JJ government_NN1 budget_NN1 deficits_NN2 ._. 
+</s>
+<s>
+This_DD1 coincides_VVZ with_IW the_AT "_" first_MD generation_NN1 "_" model_NN1 stated_VVN above_RL but_CCB Belgium_NP1 which_DDQ had_VHD higher_RRR than_CSN average_JJ budget_NN1 deficit_NN1 was_VBDZ not_XX attacked_VVN ._. 
+</s>
+<s>
+(_( Appendix_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT foreign_JJ exchange_NN1 reserves_NN2 of_IO Italy_NP1 declined_VVD steadily_RR before_II the_AT crisis_NN1 but_CCB there_EX was_VBDZ no_AT sudden_JJ drop_NN1 after_II the_AT crisis_NN1 ._. 
+</s>
+<s>
+(_( Appendix_NN1 4_MC )_) Interestingly_RR ,_, Spain_NP1 had_VHD actually_RR increasing_JJ reserves_NN2 before_II the_AT crisis_NN1 but_CCB when_RRQ the_AT crisis_NN1 took_VVD place_NN1 ,_, there_EX was_VBDZ a_AT1 sudden_JJ drop_NN1 in_II reserves_NN2 ._. 
+</s>
+<s>
+(_( Appendix_NN1 5_MC )_) ._. 
+</s>
+<s>
+Interest_NN1 differential_NN1 (_( i-i*_FO in_II Figure_NN1 2_MC )_) according_II21 to_II22 the_AT model_NN1 should_VM be_VBI continuous_JJ before_II the_AT crisis_NN1 and_CC a_AT1 sudden_JJ jump_NN1 upwards_RL after_II the_AT crisis_NN1 but_CCB UK_NP1 had_VHD a_AT1 completely_RR different_JJ pattern_NN1 ._. 
+</s>
+<s>
+UK_NP1 interest_NN1 differential_NN1 with_IW Germany_NP1 was_VBDZ positive_JJ before_II the_AT crisis_NN1 and_CC negative_JJ after_II the_AT crisis_NN1 ._. 
+</s>
+<s>
+(_( Appendix_NN1 6_MC )_) For_IF Italy_NP1 ,_, the_AT interest_NN1 differential_NN1 after_II the_AT crisis_NN1 was_VBDZ not_XX significantly_RR higher_JJR but_CCB the_AT increase_NN1 in_II interest_NN1 differential_NN1 occurred_VVD in_II the_AT run-up_NN1 to_II the_AT crisis_NN1 ._. 
+</s>
+<s>
+(_( Appendix_NN1 7_MC )_) Although_CS Sweden_NP1 was_VBDZ not_XX attacked_VVN ,_, its_APPGE interest_NN1 differential_NN1 went_VVD up_RP significantly_RR about_RG 500%_NNU for_IF several_DA2 days_NNT2 before_II the_AT crisis_NN1 took_VVD place_NN1 ._. 
+</s>
+<s>
+There_EX was_VBDZ no_AT evidence_NN1 of_IO inconsistency_NN1 between_II fiscal_JJ policies_NN2 and_CC the_AT fixed_JJ currencies_NN2 those_DD2 countries_NN2 were_VBDR maintaining_VVG ._. 
+</s>
+<s>
+Additionally_RR ,_, there_EX was_VBDZ no_AT excessive_JJ growth_NN1 in_II domestic_JJ credit_NN1 ._. 
+</s>
+<s>
+Neither_DD1 of_IO the_AT country_NN1 's_GE experience_NN1 is_VBZ consistent_JJ with_IW the_AT predictions_NN2 of_IO the_AT "_" first_MD generation_NN1 "_" model_NN1 ._. 
+</s>
+<s>
+In_II December_NPM1 1994_MC ,_, the_AT economic_JJ crisis_NN1 in_II Mexico_NP1 was_VBDZ triggered_VVN by_II the_AT sudden_JJ devaluation_NN1 of_IO the_AT Mexican_JJ currency_NN1 ._. 
+</s>
+<s>
+Peso_NNU1 ,_, which_DDQ was_VBDZ previously_RR on_II a_AT1 fixed_JJ exchange_NN1 rate_NN1 regime_NN1 ,_, was_VBDZ overvalued_VVN and_CC the_AT interest_NN1 differential_NN1 with_IW US_NP1 Dollars_NNU2 was_VBDZ increasing_VVG before_II the_AT crisis_NN1 ._. 
+</s>
+<s>
+It_PPH1 has_VHZ been_VBN agreed_VVN that_DD1 devaluation_NN1 was_VBDZ necessary_JJ ._. 
+</s>
+<s>
+When_CS the_AT government_NN1 suddenly_RR announced_VVN to_TO let_VVI the_AT Peso_NNU1 float_NN1 freely_RR ,_, this_DD1 caused_VVD the_AT currency_NN1 to_TO jump_VVI suddenly_RR from_II three_MC Pesos_NNU2 to_II a_AT1 Dollar_NNU1 to_II ten_MC Pesos_NNU2 to_II a_AT1 Dollar_NNU1 ._. 
+</s>
+<s>
+It_PPH1 then_RT depreciated_VVD even_RR further_RRR ._. 
+</s>
+<s>
+(_( Appendix_NN1 8_MC )_) Foreign_JJ reserves_NN2 ,_, as_II a_AT1 result_NN1 ,_, experienced_VVD a_AT1 sudden_JJ jump_NN1 during_II the_AT crisis_NN1 but_CCB there_EX was_VBDZ no_AT steady_JJ decline_NN1 before_II the_AT crisis_NN1 and_CC this_DD1 is_VBZ inconsistent_JJ with_IW the_AT model_NN1 predictions_NN2 ._. 
+</s>
+<s>
+Again_RT ,_, the_AT "_" first_MD generation_NN1 "_" model_NN1 predictions_NN2 are_VBR not_XX consistent_JJ with_IW Mexico_NP1 's_GE crisis_NN1 because_CS there_EX was_VBDZ no_AT severe_JJ government_NN1 budget_NN1 deficit_NN1 and_CC especially_RR foreign_JJ reserves_NN2 prediction_NN1 was_VBDZ wrong_JJ ._. 
+</s>
+<s>
+The_AT Asian_JJ financial_JJ crisis_NN1 started_VVD in_II 1997_MC in_II Thailand_NP1 ._. 
+</s>
+<s>
+The_AT countries_NN2 were_VBDR mostly_RR have_VH0 pegged_VVN exchange_NN1 rate_NN1 and_CC large_JJ current_JJ account_NN1 deficits_NN2 but_CCB no_AT apparent_JJ problem_NN1 in_II government_NN1 budget_NN1 deficits_NN2 ._. 
+</s>
+<s>
+However_RR ,_, speculators_NN2 were_VBDR assuming_VVG that_DD1 government_NN1 were_VBDR defending_VVG the_AT fixed_JJ exchange_NN1 rates_NN2 and_CC such_DA policies_NN2 would_VM eventually_RR lead_VVI to_II a_AT1 balance-of-payments_NN2 crisis_NN1 ._. 
+</s>
+<s>
+Eventually_RR ,_, Western_JJ investors_NN2 began_VVD to_TO pull_VVI money_NN1 out_RP after_II losing_VVG confidence_NN1 in_II East_ND1 Asia_NP1 securities_NN2 ._. 
+</s>
+<s>
+During_II the_AT crisis_NN1 ,_, there_EX was_VBDZ sudden_JJ depreciation_NN1 of_IO currencies_NN2 ._. 
+</s>
+<s>
+Thai_NP1 Baht_NP1 was_VBDZ most_RGT severely_RR hit_VVN by_II the_AT massive_JJ attack_NN1 ,_, followed_VVN by_II Indonesia_NP1 ._. 
+</s>
+<s>
+However_RR ,_, unlike_II Thailand_NP1 ,_, Indonesia_NP1 had_VHD low_JJ inflation_NN1 ,_, huge_JJ foreign_JJ reserves_NN2 and_CC a_AT1 good_JJ banking_NN1 sector_NN1 prior_II21 to_II22 the_AT crisis_NN1 ._. 
+</s>
+<s>
+The_AT "_" first_MD generation_NN1 "_" model_NN1 predictions_NN2 did_VDD not_XX work_VVI for_IF the_AT East_NP1 Asian_JJ crisis_NN1 ._. 
+</s>
+<s>
+From_II the_AT empirical_JJ evidence_NN1 shown_VVN above_RL ,_, the_AT "_" first_MD generation_NN1 "_" model_NN1 is_VBZ unable_JK to_TO explain_VVI all_DB the_AT behaviour_NN1 from_II the_AT crises_NN2 ._. 
+</s>
+<s>
+Two_MC major_JJ findings_NN2 from_II the_AT crises_NN2 are_VBR the_AT sudden_JJ depreciations_NN2 during_II the_AT crises_NN2 but_CCB no_AT steady_JJ depreciation_NN1 after_II that_DD1 and_CC higher_JJR interest_NN1 differentials_NN2 before_II the_AT crises_NN2 ._. 
+</s>
+<s>
+Therefore_RR ,_, the_AT "_" first_MD generation_NN1 "_" model_NN1 needs_VVZ to_TO be_VBI extended_VVN in_BCL21 order_BCL22 to_TO be_VBI able_JK to_TO explain_VVI these_DD2 findings_NN2 ._. 
+</s>
+<s>
+So_RG far_RR ,_, the_AT model_NN1 predicts_VVZ that_CST in_II the_AT absence_NN1 of_IO large_JJ shocks_NN2 ,_, currency_NN1 attacks_NN2 should_VM be_VBI predictable_JJ and_CC leads_VVZ to_II small_JJ devaluations_NN2 ._. 
+</s>
+<s>
+However_RR ,_, in_II reality_NN1 ,_, uncertainty_NN1 exists_VVZ ._. 
+</s>
+<s>
+The_AT new_JJ assumption_NN1 in_II the_AT extended_JJ model_NN1 is_VBZ the_AT uncertainty_NN1 in_II domestic_JJ credit_NN1 expansion_NN1 and_CC UIP_NP1 condition_NN1 ._. 
+</s>
+<s>
+where_RRQ is_VBZ the_AT random_JJ shock_NN1 to_II government_NN1 budget_NN1 deficits_NN2 and_CC UIP_VV0 now_RT includes_VVZ expected_JJ currency_NN1 depreciation_NN1 or_CC appreciation_NN1 ._. 
+</s>
+<s>
+The_AT shadow_NN1 exchange_NN1 rate_NN1 now_RT has_VHZ to_TO depend_VVI on_II the_AT current_JJ observation_NN1 of_IO the_AT domestic_JJ credit_NN1 ._. 
+</s>
+<s>
+(_( 17_MC )_) ._. 
+</s>
+<s>
+When_CS the_AT shadow_NN1 exchange_NN1 rate_NN1 is_VBZ higher_JJR than_CSN the_AT current_JJ fixed_JJ exchange_NN1 rate_NN1 ,_, it_PPH1 means_VVZ that_CST the_AT currency_NN1 is_VBZ actually_RR overvalued_VVN and_CC should_VM be_VBI depreciated_VVN ._. 
+</s>
+<s>
+When_CS there_EX is_VBZ a_AT1 large_JJ enough_RR domestic_JJ credit_NN1 expansion_NN1 that_CST led_VVD to_II a_AT1 higher_JJR shadow_NN1 exchange_NN1 rate_NN1 than_CSN the_AT fixed_JJ one_PN1 ,_, the_AT fixed_JJ exchange_NN1 rate_NN1 regime_NN1 must_VM collapse_VVI and_CC the_AT exchange_NN1 rate_NN1 will_VM jump_VVI to_II the_AT shadow_NN1 exchange_NN1 rate_NN1 in_BCL21 order_BCL22 to_TO avoid_VVI an_AT1 arbitrage_NN1 opportunity_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT reason_NN1 for_IF sudden_JJ exchange_NN1 rate_NN1 jump_NN1 during_II the_AT crises_NN2 in_II 1990s_MC2 ._. 
+</s>
+<s>
+Uncertainty_NN1 also_RR implies_VVZ that_CST rational_JJ expectations_NN2 are_VBR now_RT formed_VVN in_II UIP._NP1 (_( 18_MC )_) where_RRQ is_VBZ the_AT probability_NN1 of_IO collapse_NN1 ._. 
+</s>
+<s>
+If_CS (_( there_EX is_VBZ probability_NN1 of_IO fixed_JJ exchange_NN1 rate_NN1 regime_NN1 to_TO collapse_VVI )_) ,_, then_RT the_AT UIP_NN1 will_VM capture_VVI this_DD1 and_CC domestic_JJ interest_NN1 rate_NN1 is_VBZ higher_JJR than_CSN foreign_JJ interest_NN1 rate_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT reason_NN1 why_RRQ interest_NN1 differential_NN1 rose_VVD over_II time_NNT1 before_II the_AT crises_NN2 ._. 
+</s>
+<s>
+Such_DA extensions_NN2 are_VBR able_JK to_TO explain_VVI the_AT behaviour_NN1 of_IO fixed_JJ exchange_NN1 rate_NN1 and_CC interest_NN1 differential_NN1 observed_VVN from_II the_AT crises_NN2 but_CCB the_AT "_" first_MD generation_NN1 "_" model_NN1 is_VBZ still_RR unable_JK to_TO explain_VVI other_JJ problems_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ due_II21 to_II22 limitations_NN2 of_IO this_DD1 model_NN1 such_II21 as_II22 price_NN1 stickiness_NN1 in_II a_AT1 country_NN1 ._. 
+</s>
+<s>
+In_II the_AT model_NN1 ,_, it_PPH1 is_VBZ assumed_VVN that_CST prices_NN2 are_VBR flexible_JJ in_II all_DB countries_NN2 ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 is_VBZ not_XX true_JJ ._. 
+</s>
+<s>
+So_RG far_RR ,_, the_AT empirical_JJ evidence_NN1 showed_VVD that_DD1 currency_NN1 crises_NN2 happened_VVD in_II regional_JJ area_NN1 (_( Europe_NP1 or_CC East_ND1 Asia_NP1 )_) which_DDQ also_RR formed_VVD the_AT country_NN1 's_GE main_JJ trading_NN1 partners_NN2 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, during_II the_AT ERM_NN1 crisis_NN1 ,_, UK_NP1 and_CC Italy_NP1 had_VHD real_JJ exchange_NN1 rate_NN1 appreciation_NN1 of_IO about_RG 10%_NNU ._. 
+</s>
+<s>
+Furthermore_RR ,_, they_PPHS2 have_VH0 positive_JJ inflation_NN1 differential_NN1 with_IW Germany_NP1 and_CC this_DD1 has_VHZ caused_VVN both_RR UK_NP1 and_CC Italy_NP1 to_TO lose_VVI their_APPGE competitiveness_NN1 in_II31 terms_II32 of_II33 trade_NN1 leading_VVG to_II sizeable_JJ trade_NN1 deficits_NN2 in_II both_DB2 countries_NN2 ._. 
+</s>
+<s>
+During_II the_AT crisis_NN1 ,_, both_DB2 countries_NN2 also_RR experienced_JJ recessions_NN2 and_CC this_DD1 might_VM be_VBI caused_VVN by_II the_AT overvaluation_NN1 of_IO their_APPGE currencies_NN2 ._. 
+</s>
+<s>
+From_II this_DD1 ,_, it_PPH1 is_VBZ evident_JJ that_CST prices_NN2 can_VM not_XX be_VBI adjusted_VVN immediately_RR even_CS21 though_CS22 the_AT government_NN1 has_VHZ the_AT intention_NN1 of_IO lowering_VVG inflation_NN1 rates_NN2 by_II joining_VVG a_AT1 fixed_JJ exchange_NN1 rate_NN1 regime_NN1 ._. 
+</s>
+<s>
+Another_DD1 limitation_NN1 of_IO this_DD1 model_NN1 is_VBZ that_CST it_PPH1 is_VBZ not_XX realistic_JJ enough_RR by_II assuming_VVG the_AT government_NN1 's_GE policies_NN2 are_VBR exogenous_JJ ._. 
+</s>
+<s>
+In_II this_DD1 model_NN1 ,_, the_AT policymaker_NN1 is_VBZ pursuing_VVG a_AT1 constant_JJ rate_NN1 of_IO domestic_JJ credit_NN1 expansion_NN1 and_CC made_VVD no_AT effort_NN1 to_TO intervene_VVI until_CS its_APPGE reserves_NN2 are_VBR exhausted_VVN ._. 
+</s>
+<s>
+It_PPH1 should_VM be_VBI allowed_VVN for_IF the_AT possibility_NN1 of_IO other_JJ policies_NN2 adopted_VVN by_II the_AT government_NN1 and_CC these_DD2 should_VM be_VBI endogenous_JJ policy_NN1 decision_NN1 for_IF the_AT government_NN1 ._. 
+</s>
+<s>
+The_AT "_" first_MD generation_NN1 "_" speculative_JJ attack_NN1 model_NN1 is_VBZ a_AT1 traditional_JJ speculative_JJ attack_NN1 model_NN1 that_CST is_VBZ being_VBG referred_VVN to_II by_II many_DA2 economists_NN2 ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 model_NN1 is_VBZ based_VVN on_II a_AT1 simple_JJ macroeconomic_JJ framework_NN1 which_DDQ assumes_VVZ private_JJ speculators_NN2 have_VH0 perfect_JJ and_CC rational_JJ information_NN1 whereas_CS the_AT government_NN1 is_VBZ very_RG simple-minded_JJ ._. 
+</s>
+<s>
+This_DD1 model_NN1 does_VDZ not_XX hold_VVI if_CSW the_AT policymaker_NN1 is_VBZ forward-looking_JJ ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT inconsistency_NN1 of_IO recent_JJ crises_NN2 with_IW the_AT predictions_NN2 of_IO this_DD1 model_NN1 that_CST has_VHZ called_VVN for_IF the_AT development_NN1 of_IO further_JJR models_NN2 ,_, such_II21 as_II22 the_AT "_" second_MD generation_NN1 "_" model_NN1 which_DDQ addresses_VVZ the_AT weaknesses_NN2 of_IO the_AT "_" first_MD generation_NN1 "_" model_NN1 "_" ._. 
+</s>

@@ -1,0 +1,258 @@
+<s>
+The_AT potential_JJ function_NN1 ,_, V_ZZ1 ,_, belonging_VVG to_II an_AT1 electrified_JJ system_NN1 ,_, is_VBZ defined_VVN as_II the_AT sum_NN1 of_IO all_DB the_AT electrical_JJ particles_NN2 acting_VVG on_II a_AT1 given_JJ point_NN1 divided_VVN by_II their_APPGE respective_JJ distances_NN2 from_II the_AT point_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 simple_JJ way_NN1 of_IO representing_VVG the_AT values_NN2 of_IO the_AT forces_NN2 which_DDQ drive_VV0 the_AT electrical_JJ particles_NN2 :_: This_DD1 integral_JJ is_VBZ taken_VVN over_II every_AT1 particle_NN1 inside_II the_AT body_NN1 under_II consideration_NN1 ,_, which_DDQ can_VM be_VBI of_IO any_DD form_NN1 as_CS31 long_CS32 as_CS33 the_AT distribution_NN1 of_IO charge_NN1 is_VBZ fixed_VVN ._. 
+</s>
+<s>
+Here_RL p'_VV0 (_( x'_VV0 ,_, y'_PPY ,_, z'_NN1 )_) is_VBZ a_AT1 particle_NN1 inside_II the_AT body_NN1 with_IW corresponding_JJ charge_NN1 density_NN1 '_GE ,_, volume_NN1 dx'dy'dz'_NN1 and_CC hence_RR 'dx'dy'dz'_NN1 represents_VVZ the_AT quantity_NN1 of_IO electricity_NN1 it_PPH1 contains_VVZ ._. 
+</s>
+<s>
+p_ZZ1 (_( x_ZZ1 ,_, y_ZZ1 ,_, z_ZZ1 )_) is_VBZ a_AT1 point_NN1 outside_II the_AT body_NN1 and_CC r'_VV0 =_FO (_( (_( x'-x_NN1 )_) +_FO (_( y'-y_PPY )_) +_FO (_( z'-z_NN1 )_) )_) is_VBZ the_AT distance_NN1 between_II p_ZZ1 and_CC p'_NN1 ._. 
+</s>
+<s>
+(_( See_VV0 Appendix_NN1 Fig_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+Green_NN1 then_RT moves_VVZ on_II21 to_II22 considering_VVG the_AT Laplacian_NN1 of_IO the_AT potential_JJ function_NN1 inside_RL and_CC outside_II the_AT body_NN1 ._. 
+</s>
+<s>
+I_PPIS1 will_VM simply_RR state_VVI these_DD2 values_NN2 ,_, since_CS Green_JJ uses_NN2 results_NN2 known_VVN from_II Laplace_NP1 and_CC Poisson_NP1 's_GE work_NN1 ,_, and_CC I_PPIS1 find_VV0 some_DD of_IO his_APPGE calculations_NN2 ambiguous_JJ despite_II the_AT fact_NN1 that_CST the_AT end_NN1 results_NN2 are_VBR correct_JJ ._. 
+</s>
+<s>
+Outside_II the_AT body_NN1 ,_, as_CSA Laplace_NP1 had_VHD previously_RR shown_VVN ,_, V_ZZ1 is_VBZ proportional_JJ to_II (_( 1/r'_FU )_) =_FO 0_MC and_CC hence_RR V_ZZ1 =_FO 0_MC ._. 
+</s>
+<s>
+However_RR ,_, if_CS p_ZZ1 is_VBZ inside_II the_AT body_NN1 then_RT this_DD1 may_VM not_XX be_VBI the_AT case_NN1 ._. 
+</s>
+<s>
+Green_NN1 uses_VVZ the_AT result_NN1 shown_VVN by_II Poisson_NP1 in_II 1813_MC ,_, that_CST in_II this_DD1 case_NN1 V_ZZ1 =_FO -4_MC and_CC hence_RR V+4_FO =_FO 0_MC ._. 
+</s>
+<s>
+I_PPIS1 use_VV0 the_AT symbol_NN1 to_TO represent_VVI the_AT Laplacian_JJ throughout_RL ._. 
+</s>
+<s>
+This_DD1 notation_NN1 differs_VVZ from_II Green_NP1 's_GE ._. 
+</s>
+<s>
+All_DB the_AT charge_NN1 distributed_VVN in_II a_AT1 system_NN1 of_IO perfectly_RR conducting_VVG bodies_NN2 ,_, in_II equilibrium_NN1 ,_, will_VM be_VBI found_VVN on_II their_APPGE surfaces_NN2 ,_, with_IW none_PN remaining_VVG in_II their_APPGE interior_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 consequence_NN1 of_IO electric_JJ repulsion_NN1 ,_, and_CC can_VM be_VBI proved_VVN by_II considering_VVG a_AT1 point_NN1 in_II the_AT body_NN1 with_IW F_ZZ1 x_ZZ1 ,_, F_ZZ1 y_ZZ1 and_CC F_ZZ1 z_ZZ1 ,_, the_AT total_JJ forces_NN2 impelling_VVG p_ZZ1 in_II a_AT1 positive_JJ direction_NN1 in_II the_AT x_ZZ1 ,_, y_ZZ1 and_CC z_ZZ1 directions_NN2 respectively_RR ._. 
+</s>
+<s>
+Then_RT ,_, due_II21 to_II22 equilibrium_NN1 ,_, V_ZZ1 is_VBZ a_AT1 constant_JJ ,_, hence_RR V_ZZ1 =_FO 0_MC ,_, so_RR ,_, where_RRQ is_VBZ the_AT charge_NN1 density_NN1 at_II p_ZZ1 ._. 
+</s>
+<s>
+Hence_RR the_AT density_NN1 of_IO electricity_NN1 at_II any_DD point_NN1 in_II the_AT body_NN1 is_VBZ 0_MC ._. 
+</s>
+<s>
+One_MC1 of_IO the_AT most_RGT important_JJ results_NN2 proved_VVN is_VBZ the_AT following_JJ theorem_NN1 ,_, which_DDQ I_PPIS1 have_VH0 presented_VVN in_II what_DDQ I_PPIS1 see_VV0 as_II a_AT1 more_RGR comprehensible_JJ way_NN1 :_: "_" Let_VV0 U_ZZ1 (_( x_ZZ1 ,_, y_ZZ1 ,_, z_ZZ1 )_) and_CC V_ZZ1 (_( x_ZZ1 ,_, y_ZZ1 ,_, z_ZZ1 )_) be_VBI two_MC continuous_JJ functions_NN2 which_DDQ do_VD0 not_XX have_VHI singular_JJ values_NN2 within_II a_AT1 solid_JJ body_NN1 of_IO any_DD form_NN1 ._. 
+</s>
+<s>
+Then_RT ,_, "_" where_CS ds_MC2 represents_VVZ an_AT1 element_NN1 of_IO the_AT surface_NN1 ,_, dv_MC =_FO dxdydz_NN1 represents_VVZ an_AT1 element_NN1 of_IO the_AT volume_NN1 and_CC n_ZZ1 =_FO (_( n_ZZ1 x_ZZ1 ,_, n_ZZ1 y_ZZ1 ,_, n_ZZ1 z_ZZ1 )_) represents_VVZ a_AT1 surface_NN1 normal_JJ measured_VVN towards_II the_AT inside_NN1 of_IO the_AT body_NN1 ._. 
+</s>
+<s>
+Defined_VVN by_II Green_JJ as_CSA points_VVZ where_RRQ the_AT differential_JJ coordinates_NN2 become_VV0 infinite_JJ ._. 
+</s>
+<s>
+I_PPIS1 use_VV0 vector_NN1 notation_NN1 here_RL although_CS it_PPH1 did_VDD not_XX exist_VVI at_II the_AT time_NNT1 of_IO Green_NP1 's_GE writing_NN1 ._. 
+</s>
+<s>
+The_AT proof_NN1 of_IO this_DD1 is_VBZ extremely_RR elegant_JJ when_CS presented_VVN by_II Green_JJ ._. 
+</s>
+<s>
+I_PPIS1 use_VV0 my_APPGE amended_JJ notation_NN1 ._. 
+</s>
+<s>
+Consider_VV0 :_: Proceed_VV0 by_II integrating_VVG by_II parts_NN2 (_( See_VV0 Appendix_NN1 Equations_NN2 1a_FO ,_, 1b_FO ,_, 1c_FO for_IF the_AT results_NN2 of_IO this_DD1 step_NN1 )_) ._. 
+</s>
+<s>
+Considering_CS the_AT following_JJ :_: Green_NP1 did_VDD not_XX put_VVI two_MC separate_JJ integrals_NN2 in_RP for_IF double_JJ integrals_NN2 ,_, but_CCB I_PPIS1 have_VH0 included_VVN them_PPHO2 ._. 
+</s>
+<s>
+where_CS on_II the_AT right_JJ hand_NN1 side_NN1 the_AT first_MD integral_JJ corresponds_VVZ to_II values_NN2 of_IO U_ZZ1 ,_, V_ZZ1 at_II x_ZZ1 1_MC1 and_CC second_MD corresponds_VVZ to_II U_ZZ1 ,_, V_ZZ1 at_II x_ZZ1 ._. 
+</s>
+<s>
+(_( See_VV0 Appendix_NN1 Equation_NN1 2_MC and_CC Fig_NN1 2_MC )_) ._. 
+</s>
+<s>
+The_AT overall_JJ equation_NN1 becomes_VVZ ._. 
+</s>
+<s>
+For_IF the_AT left_JJ hand_NN1 side_NN1 of_IO the_AT equation_NN1 interchanging_VVG the_AT values_NN2 of_IO U_ZZ1 and_CC V_ZZ1 will_VM not_XX affect_VVI its_APPGE value_NN1 since_RR ._. 
+</s>
+<s>
+This_DD1 means_VVZ the_AT right_JJ hand_NN1 side_NN1 not_XX be_VBI affected_VVN when_CS U_ZZ1 and_CC V_ZZ1 are_VBR interchanged_VVN so_RR equating_VVG the_AT two_MC versions_NN2 of_IO the_AT right_JJ hand_NN1 side_NN1 together_RL gives_VVZ the_AT required_JJ result_NN1 ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 quicker_JJR way_NN1 to_TO do_VDI this_DD1 by_II simply_RR using_VVG Gauss_NP1 '_GE divergence_NN1 theorem_NN1 (_( comes_VVZ about_RP after_II the_AT time_NNT1 of_IO Green_JJ )_) ,_, but_CCB I_PPIS1 like_VV0 the_AT originality_NN1 that_CST Green_NP1 has_VHZ shown_VVN by_II introducing_VVG the_AT idea_NN1 of_IO reciprocity_NN1 into_II his_APPGE proof_NN1 so_CS I_PPIS1 have_VH0 left_VVN it_PPH1 as_II such_DA ._. 
+</s>
+<s>
+The_AT only_JJ assumption_NN1 made_VVN on_II U_ZZ1 and_CC V_ZZ1 was_VBDZ that_CST they_PPHS2 had_VHD no_AT singular_JJ values_NN2 ._. 
+</s>
+<s>
+Now_RT consider_VV0 how_RRQ the_AT above_JJ theorem_NN1 would_VM change_VVI if_CS either_RR ,_, or_CC both_RR ,_, of_IO the_AT functions_NN2 have_VH0 a_AT1 singularity_NN1 within_II the_AT body_NN1 ._. 
+</s>
+<s>
+Take_VV0 extremely_RR small_JJ spheres_NN2 around_II each_DD1 point_NN1 where_RRQ a_AT1 singularity_NN1 occurs_VVZ ._. 
+</s>
+<s>
+Then_RT the_AT whole_JJ area_NN1 outside_II21 of_II22 these_DD2 small_JJ spheres_NN2 will_VM not_XX contain_VVI singularities_NN2 and_CC so_RR will_VM abide_VVI by_II the_AT theorem_NN1 just_RR shown_VVN ._. 
+</s>
+<s>
+If_CS ,_, for_REX21 example_REX22 ,_, U_ZZ1 has_VHZ one_MC1 singularity_NN1 ,_, then_RT taking_VVG a_AT1 sphere_NN1 ,_, and_CC tending_VVG the_AT value_NN1 of_IO its_APPGE radius_NN1 to_TO zero_VVI ,_, the_AT formula_NN1 becomes_VVZ :_: This_DD1 can_VM be_VBI calculated_VVN by_II using_VVG spherical_JJ coordinates_NN2 ,_, where_CS the_AT transformation_NN1 is_VBZ dxdydz=_FO sin_NN1 d_ZZ1 d_ZZ1 d_ZZ1 ._. 
+</s>
+<s>
+where_CS V'_NP1 is_VBZ the_AT corresponding_JJ value_NN1 at_II the_AT singularity_NN1 of_IO U._NP1 This_DD1 can_VM be_VBI extended_VVN to_II any_DD number_NN1 of_IO infinite_JJ points_NN2 ,_, by_II considering_VVG small_JJ spheres_NN2 around_II each_DD1 of_IO them_PPHO2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ possible_JJ to_TO establish_VVI relations_NN2 between_II the_AT distribution_NN1 of_IO charge_NN1 on_II the_AT surface_NN1 of_IO a_AT1 body_NN1 and_CC the_AT forces_NN2 which_DDQ occur_VV0 as_II a_AT1 result_NN1 of_IO this_DD1 ._. 
+</s>
+<s>
+Green_NN1 notices_VVZ that_CST the_AT form_NN1 of_IO the_AT potential_JJ function_NN1 changes_NN2 suddenly_RR on_II passing_VVG from_II space_NN1 inside_II the_AT body_NN1 to_II outside_RL ._. 
+</s>
+<s>
+Take_VV0 V_ZZ1 to_TO correspond_VVI to_II the_AT potential_NN1 of_IO a_AT1 point_NN1 within_II a_AT1 body_NN1 ,_, and_CC V'_VV0 to_TO correspond_VVI to_II a_AT1 point_NN1 outside_RL such_CS21 that_CS22 they_PPHS2 satisfy_VV0 :_: 0_MC =_FO V_ZZ1 ,_, 0_MC =_FO V'_NP1 ,_, ,_, neither_DD1 function_NN1 takes_VVZ a_AT1 singular_JJ value_NN1 and_CC V'_NP1 =_FO 0_MC at_II an_AT1 infinite_JJ distance_NN1 from_II the_AT body_NN1 ._. 
+</s>
+<s>
+Despite_II the_AT fact_NN1 that_CST the_AT two_MC values_NN2 of_IO the_AT potential_NN1 are_VBR distinct_JJ ,_, Green_JJ shows_NN2 that_CST only_RR one_MC1 value_NN1 of_IO charge_NN1 at_II the_AT surface_NN1 will_VM produce_VVI them_PPHO2 ._. 
+</s>
+<s>
+This_DD1 value_NN1 is_VBZ where_RRQ n'_FO is_VBZ the_AT outward_JJ pointing_JJ normal_JJ ._. 
+</s>
+<s>
+Any_DD function_NN1 with_IW a_AT1 bar_NN1 above_RL represents_VVZ the_AT value_NN1 of_IO that_DD1 function_NN1 at_II the_AT surface_NN1 of_IO the_AT body_NN1 ._. 
+</s>
+<s>
+Despite_II the_AT fact_NN1 that_CST Green_NP1 is_VBZ trying_VVG to_TO write_VVI about_II the_AT subject_NN1 in_II mathematical_JJ terms_NN2 ,_, there_EX is_VBZ no_AT doubt_NN1 that_CST the_AT next_MD section_NN1 is_VBZ approached_VVN in_II a_AT1 very_RG physical_JJ way_NN1 ._. 
+</s>
+<s>
+The_AT aim_NN1 is_VBZ to_TO find_VVI a_AT1 potential_JJ function_NN1 which_DDQ satisfies_VVZ V_ZZ1 =_FO 0_MC and_CC has_VHZ no_AT singularities_NN2 within_II the_AT body_NN1 ._. 
+</s>
+<s>
+Take_VV0 a_AT1 function_NN1 U_ZZ1 with_IW just_RR one_MC1 singularity_NN1 within_II the_AT body_NN1 ,_, at_II p_ZZ1 ,_, (_( so_CS U=1/r_FU close_RR to_II p_ZZ1 )_) ,_, and_CC assume_VV0 ._. 
+</s>
+<s>
+Green_NN1 gives_VVZ a_AT1 physical_JJ example_NN1 of_IO such_DA a_AT1 U_JJ ,_, within_II a_AT1 body_NN1 which_DDQ is_VBZ an_AT1 earthed_JJ ,_, perfect_JJ conductor_NN1 ,_, and_CC additionally_RR satisfies_VVZ U'=0_FO outside_II21 of_II22 the_AT surface_NN1 ._. 
+</s>
+<s>
+I_PPIS1 feel_VV0 this_DD1 example_NN1 is_VBZ slightly_RR doctored_VVN ,_, as_CSA Green_NP1 feels_VVZ the_AT need_NN1 to_TO justify_VVI his_APPGE actions_NN2 ,_, but_CCB provides_VVZ evidence_NN1 that_CST he_PPHS1 tries_VVZ to_TO link_VVI his_APPGE work_NN1 to_II the_AT real_JJ world_NN1 ._. 
+</s>
+<s>
+Using_VVG the_AT unique_JJ formula_NN1 for_IF charge_NN1 density_NN1 shown_VVN above_RL ,_, and_CC the_AT modified_JJ version_NN1 of_IO his_APPGE Theorem_NN1 :_: U_ZZ1 takes_VVZ this_DD1 value_NN1 since_II then_RT as_CSA r_ZZ1 tends_VVZ to_TO zero_VVI ,_, the_AT value_NN1 of_IO U_ZZ1 becomes_VVZ infinite_JJ ._. 
+</s>
+<s>
+and_CC (_( )_) is_VBZ the_AT charge_NN1 density_NN1 induced_VVN at_II the_AT surface_NN1 by_II charge_NN1 concentrated_VVN at_II p_ZZ1 ._. 
+</s>
+<s>
+So_RR ,_, the_AT value_NN1 of_IO the_AT potential_NN1 at_II any_DD point_NN1 inside_II the_AT body_NN1 can_VM be_VBI found_VVN as_CS31 long_CS32 as_CS33 the_AT value_NN1 of_IO is_VBZ known_VVN ._. 
+</s>
+<s>
+He_PPHS1 requires_VVZ that_CST such_DA a_AT1 V_ZZ1 does_VDZ actually_RR satisfy_VVI V_ZZ1 =_FO 0_MC ._. 
+</s>
+<s>
+Since_CS is_VBZ independent_JJ of_IO the_AT position_NN1 of_IO p_ZZ1 (_( x_ZZ1 ,_, y_ZZ1 ,_, z_ZZ1 )_) ,_, ._. 
+</s>
+<s>
+Then_RT split_VV0 U_ZZ1 into_II two_MC parts_NN2 :_: one_MC1 due_II21 to_II22 the_AT electricity_NN1 concentrated_VVN at_II p_ZZ1 ,_, here_RL U_ZZ1 =_FO 1/r_FU ,_, and_CC the_AT other_JJ due_II21 to_II22 electricity_NN1 induced_VVN on_II the_AT surface_NN1 ,_, U*_FO ,_, which_DDQ therefore_RR contains_VVZ no_AT singular_JJ values_NN2 ._. 
+</s>
+<s>
+,_, since_CS is_VBZ independent_JJ of_IO p_ZZ1 (_( x._MC y_ZZ1 ,_, z_ZZ1 )_) ._. 
+</s>
+<s>
+Then_RT ,_, and_CC at_II the_AT surface_NN1 ,_, ._. 
+</s>
+<s>
+So_RR ,_, and_CC this_DD1 result_NN1 applies_VVZ to_II any_DD point_NN1 in_II the_AT surface_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ ._. 
+</s>
+<s>
+This_DD1 particular_JJ U_ZZ1 can_VM be_VBI shown_VVN to_TO imply_VVI a_AT1 finite_JJ value_NN1 of_IO charge_NN1 on_II the_AT surface_NN1 ,_, so_RR is_VBZ physically_RR realistic_JJ ._. 
+</s>
+<s>
+Using_VVG a_AT1 stated_JJ example_NN1 of_IO a_AT1 sphere_NN1 of_IO any_DD radius_NN1 ,_, with_IW its_APPGE corresponding_JJ charge_NN1 density_NN1 ,_, he_PPHS1 shows_VVZ that_CST on_II ,_, and_CC very_RG close_JJ to_TO ,_, the_AT surface_NN1 itself_PPX1 ,_, where_CS this_DD1 V_ZZ1 takes_VVZ no_AT singular_JJ values_NN2 within_II the_AT surface_NN1 ._. 
+</s>
+<s>
+This_DD1 whole_JJ argument_NN1 can_VM be_VBI extended_VVN to_II a_AT1 number_NN1 of_IO closed_JJ surfaces_NN2 ,_, as_CS31 long_CS32 as_CS33 the_AT condition_NN1 is_VBZ imposed_VVN that_CST V'=0_FO at_II an_AT1 infinite_JJ distance_NN1 from_II the_AT surfaces_NN2 ._. 
+</s>
+<s>
+The_AT next_MD result_NN1 is_VBZ another_DD1 important_JJ intuition_NN1 into_II the_AT theory_NN1 of_IO electricity_NN1 ._. 
+</s>
+<s>
+The_AT general_JJ idea_NN1 is_VBZ that_CST ,_, for_IF a_AT1 closed_JJ surface_NN1 ,_, the_AT positioning_NN1 of_IO a_AT1 unit_NN1 of_IO charge_NN1 within_II a_AT1 surface_NN1 will_VM not_XX affect_VVI the_AT potential_JJ function_NN1 induced_VVN by_II the_AT surface_NN1 for_IF this_DD1 charge_NN1 ._. 
+</s>
+<s>
+Green_NN1 takes_VVZ two_MC points_NN2 ,_, p_ZZ1 and_CC p'_NN1 ,_, both_RR within_II the_AT surface_NN1 and_CC investigates_VVZ how_RRQ the_AT potential_JJ changes_NN2 when_RRQ he_PPHS1 fixes_VVZ p'_JJ and_CC moves_VVZ p_NNU to_II the_AT surface_NN1 ,_, then_RT moves_VVZ p'_NN1 to_II the_AT surface_NN1 and_CC vice_RR21 versa_RR22 (_( i.e._REX moves_NN2 p'_VV0 then_RT p_ZZ1 )_) ._. 
+</s>
+<s>
+He_PPHS1 discovers_VVZ that_CST the_AT resulting_JJ potential_JJ functions_NN2 are_VBR identical_JJ ._. 
+</s>
+<s>
+The_AT extension_NN1 of_IO this_DD1 to_II any_DD number_NN1 of_IO bodies_NN2 was_VBDZ later_RRR extended_VVN ,_, although_CS not_XX by_II Green_JJ ,_, into_II a_AT1 reciprocity_NN1 theorem_NN1 which_DDQ is_VBZ still_RR used_VVN today_RT ._. 
+</s>
+<s>
+This_DD1 reciprocity_NN1 theorem_NN1 may_VM be_VBI represented_VVN as_CSA where_CS e_ZZ1 n_ZZ1 ,_, n_ZZ1 ,_, e_ZZ1 n'_FO ,_, n'_FO are_VBR charges_NN2 and_CC potentials_NN2 on_II conductors_NN2 in_II two_MC different_JJ equilibrium_NN1 states_NN2 ._. 
+</s>
+<s>
+Finally_RR ,_, consider_VV0 a_AT1 body_NN1 which_DDQ has_VHZ electricity_NN1 spread_VVN over_II its_APPGE interior_NN1 as_II31 well_II32 as_II33 its_APPGE surface_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 more_RGR realistic_JJ model_NN1 for_IF nature_NN1 ,_, since_CS ,_, in_II reality_NN1 ,_, not_XX many_DA2 bodies_NN2 are_VBR perfect_JJ conductors_NN2 ._. 
+</s>
+<s>
+The_AT whole_JJ problem_NN1 of_IO calculating_VVG the_AT charge_NN1 at_II a_AT1 point_NN1 within_II the_AT body_NN1 is_VBZ shown_VVN to_TO reduce_VVI down_RP to_II simply_RR finding_VVG out_RP the_AT value_NN1 of_IO the_AT potential_JJ exterior_NN1 to_II the_AT body_NN1 (_( or_CC bodies_NN2 since_CS the_AT same_DA logic_NN1 applies_VVZ to_II more_DAR than_CSN one_MC1 body_NN1 )_) ._. 
+</s>
+<s>
+Even_RR before_II the_AT time_NNT1 of_IO George_NP1 Green_JJ potential_JJ theory_NN1 had_VHD been_VBN recognised_VVN as_II an_AT1 important_JJ area_NN1 ._. 
+</s>
+<s>
+Laplace_NP1 introduced_VVD the_AT idea_NN1 of_IO a_AT1 potential_JJ function_NN1 ,_, without_IW the_AT name_NN1 ,_, to_TO represent_VVI the_AT components_NN2 of_IO a_AT1 force_NN1 in_II a_AT1 problem_NN1 ._. 
+</s>
+<s>
+However_RR ,_, throughout_II the_AT 18_MC th_NNU century_NNT1 ,_, potential_JJ theory_NN1 had_VHD been_VBN restricted_VVN to_II determining_VVG the_AT amount_NN1 of_IO gravitational_JJ attraction_NN1 one_MC1 mass_NN1 exerted_VVN on_II another_DD1 ,_, with_IW applications_NN2 to_II ,_, for_REX21 example_REX22 ,_, the_AT motion_NN1 of_IO the_AT moon_NN1 ._. 
+</s>
+<s>
+Kline_NP1 says_VVZ the_AT emphasis_NN1 on_II the_AT potential_JJ equation_NN1 for_IF the_AT calculation_NN1 of_IO gravitational_JJ attraction_NN1 continued_VVD in_II the_AT early_JJ 19_MC th_NNU century_NNT1 but_CCB was_VBDZ accentuated_VVN by_II a_AT1 new_JJ class_NN1 of_IO applications_NN2 to_II electrostatics_NN1 ._. 
+</s>
+<s>
+So_RR ,_, Green_NP1 's_GE application_NN1 of_IO potential_JJ theory_NN1 to_II the_AT theory_NN1 of_IO electricity_NN1 ,_, a_AT1 new_JJ and_CC exciting_JJ topic_NN1 ,_, more_RGR easily_RR captured_VVN people_NN 's_GE attention_NN1 ._. 
+</s>
+<s>
+Kline&lsqb;1972&rsqb;_FO Page_NN1 682_MC ._. 
+</s>
+<s>
+In_II his_APPGE essay_NN1 Green_NN1 sees_VVZ his_APPGE task_NN1 as_CSA facilitating_VVG "_" the_AT application_NN1 of_IO analysis_NN1 to_II one_MC1 of_IO the_AT most_RGT interesting_JJ of_IO the_AT physical_JJ sciences_NN2 ._. "_" 
+</s>
+<s>
+He_PPHS1 wanted_VVD to_TO treat_VVI the_AT idea_NN1 of_IO static_JJ electricity_NN1 in_II a_AT1 purely_RR mathematical_JJ way_NN1 ,_, although_CS I_PPIS1 question_VV0 how_RGQ successful_JJ he_PPHS1 is_VBZ in_II achieving_VVG this_DD1 aim_NN1 ._. 
+</s>
+<s>
+However_RRQV this_DD1 is_VBZ not_XX a_AT1 criticism_NN1 of_IO Green_NP1 's_GE work_NN1 ,_, which_DDQ although_CS not_XX always_RR mathematically_RR rigorous_JJ ,_, intuitively_RR is_VBZ generally_RR correct_JJ ._. 
+</s>
+<s>
+His_APPGE presentation_NN1 is_VBZ clear_JJ and_CC easy_JJ to_TO follow_VVI ,_, with_IW only_RR a_AT1 few_DA2 confusing_JJ uses_NN2 of_IO notation_NN1 ._. 
+</s>
+<s>
+He_PPHS1 lays_VVZ the_AT foundations_NN2 for_IF other_JJ people_NN to_TO build_VVI upon_II ._. 
+</s>
+<s>
+Latimer_NP1 Clark_NP1 ,_, a_AT1 nineteenth_MD century_NNT1 historian_NN1 of_IO electricity_NN1 described_VVD the_AT 1828_MC essay_NN1 as_II "_" one_MC1 of_IO the_AT most_RGT important_JJ works_NN ever_RR written_VVN on_II electricity_NN1 ._. "_" 
+</s>
+<s>
+Relative_II21 to_II22 the_AT time_NNT1 of_IO writing_NN1 ,_, the_AT ideas_NN2 were_VBDR cutting_VVG edge_NN1 and_CC held_VVN in_II high_JJ esteem_NN1 by_II the_AT mathematical_JJ community_NN1 ._. 
+</s>
+<s>
+His_APPGE results_NN2 provided_VVN mathematicians_NN2 and_CC physicists_NN2 with_IW new_JJ tools_NN2 ,_, and_CC motivation_NN1 ,_, to_TO investigate_VVI potential_JJ theory_NN1 ._. 
+</s>
+<s>
+Some_DD say_VV0 Green_NP1 's_GE theorem_NN1 is_VBZ the_AT natural_JJ way_NN1 to_II Cauchy_NP1 's_GE integral_JJ theorem_NN1 ,_, so_CS the_AT impact_NN1 of_IO his_APPGE work_NN1 is_VBZ maybe_RR not_XX even_RR just_RR restricted_VVN to_II applied_JJ mathematics_NN1 ._. 
+</s>
+<s>
+In_II my_APPGE opinion_NN1 ,_, the_AT main_JJ measure_NN1 of_IO his_APPGE success_NN1 is_VBZ that_CST many_DA2 of_IO the_AT theorems_NN2 and_CC ideas_NN2 he_PPHS1 presented_VVD in_II his_APPGE Essay_NN1 are_VBR still_RR used_VVN today_RT ,_, even_CS21 if_CS22 some_DD of_IO them_PPHO2 have_VH0 since_RR been_VBN slightly_RR adapted_VVN or_CC made_VVD more_RGR mathematically_RR rigorous_JJ ._. 
+</s>
+<s>
+The_AT fact_NN1 that_CST his_APPGE ideas_NN2 have_VH0 stood_VVN the_AT test_NN1 of_IO time_NNT1 shows_VVZ just_RR how_RGQ great_JJ a_AT1 mathematician_NN1 George_NP1 Green_NP1 was_VBDZ ._. 
+</s>

@@ -1,0 +1,198 @@
+<s>
+Two_MC component_JJ systems_NN2 (_( TCS_NP1 )_) are_VBR sensory-response_JJ circuits_NN2 which_DDQ regulate_VV0 many_DA2 different_JJ types_NN2 of_IO behaviour_NN1 in_II cells_NN2 ._. 
+</s>
+<s>
+The_AT TCS_NP1 in_II Escherichia_NP1 Coli_NP1 have_VH0 been_VBN widely_RR studied_VVN and_CC many_DA2 have_VH0 been_VBN characterised_VVN 1_MC1 ._. 
+</s>
+<s>
+Although_CS much_DA1 is_VBZ known_VVN about_II individual_JJ TCS_NP1 not_XX much_DA1 is_VBZ known_VVN about_II possible_JJ inter-pathway_JJ communication_NN1 ._. 
+</s>
+<s>
+Gene_NN1 knockout_NN1 has_VHZ previously_RR been_VBN the_AT favoured_JJ method_NN1 of_IO studying_VVG TCS_NP1 ,_, however_RRQV this_DD1 destroys_VVZ possible_JJ inter-pathway_JJ communication_NN1 ._. 
+</s>
+<s>
+This_DD1 project_NN1 aims_VVZ to_TO study_VVI inter_JJ pathway_NN1 communication_NN1 in_II E.coli_NP1 with_II41 a_II42 view_II43 to_II44 fully_RR characterising_VVG the_AT network_NN1 of_IO TCS_NP1 ._. 
+</s>
+<s>
+This_DD1 will_VM be_VBI achieved_VVN by_II developing_JJ inhibitors_NN2 which_DDQ inhibit_VV0 specific_JJ components_NN2 of_IO the_AT 32_MC TCS_NP1 in_II E.coli_NP1 ,_, giving_VVG information_NN1 on_II how_RGQ inhibiting_JJ one_MC1 TCS_NP1 affects_VVZ the_AT others_NN2 ._. 
+</s>
+<s>
+This_DD1 project_NN1 will_VM use_VVI many_DA2 interdisciplinary_JJ techniques_NN2 including_II biophysical_JJ techniques_NN2 and_CC mathematical_JJ modelling_NN1 ._. 
+</s>
+<s>
+Two_MC component_JJ signalling_NN1 pathways_NN2 (_( TCS_NP1 )_) are_VBR the_AT main_JJ signal_NN1 transductions_NN2 which_DDQ enable_VV0 bacteria_NN2 to_TO sense_VVI and_CC respond_VVI to_II environmental_JJ stimuli_NN2 ._. 
+</s>
+<s>
+They_PPHS2 are_VBR present_JJ in_II all_DB organisms_NN2 apart_II21 from_II22 animals_NN2 ._. 
+</s>
+<s>
+TCS_NP1 are_VBR related_VVN to_II many_DA2 functions_NN2 in_II bacteria_NN2 including_II cell_NN1 division_NN1 ,_, virulence_NN1 ,_, antibiotic_NN1 resistance_NN1 ,_, metabolite_NN1 fixation_NN1 and_CC utilization_NN1 ,_, sporulation_NN1 and_CC chemotaxis_NN1 2_MC 3_MC ._. 
+</s>
+<s>
+They_PPHS2 contain_VV0 receptor_NN1 ,_, transmitter_NN1 and_CC receiver_NN1 domains_NN2 ,_, as_CSA shown_VVN in_II figure_NN1 3_MC ._. 
+</s>
+<s>
+The_AT receptors_NN2 are_VBR the_AT sensors_NN2 of_IO the_AT system_NN1 and_CC detect_VV0 the_AT stimulus_NN1 ._. 
+</s>
+<s>
+Currently_RR five_MC different_JJ types_NN2 of_IO receptors_NN2 have_VH0 been_VBN identified_VVN ._. 
+</s>
+<s>
+The_AT information_NN1 they_PPHS2 detect_VV0 is_VBZ transferred_VVN to_II the_AT transmitter_NN1 domain_NN1 (_( consisting_VVG of_IO Histidine_NP1 Kinase_NN1 )_) which_DDQ in-turn_NN1 passes_VVZ the_AT information_NN1 to_II the_AT receiver_NN1 domain_NN1 (_( consisting_VVG of_IO Aspartate_NP1 Kinase_NN1 )_) ,_, through_II phosphorylation_NN1 ._. 
+</s>
+<s>
+The_AT information_NN1 then_RT stimulates_VVZ a_AT1 physiological_JJ signal_NN1 in_II the_AT form_NN1 of_IO a_AT1 gene_NN1 transcription_NN1 ,_, enzyme_NN1 regulation_NN1 ,_, kinase_NN1 regulation_NN1 or_CC motor_NN1 regulation_NN1 3_MC ._. 
+</s>
+<s>
+Much_DA1 research_NN1 has_VHZ already_RR been_VBN done_VDN on_II understanding_VVG the_AT single_JJ pathway_NN1 systems_NN2 ,_, however_RR very_RG little_DA1 data_NN is_VBZ available_JJ regarding_II inter_JJ pathway_NN1 communication_NN1 ,_, shown_VVN in_II figure_NN1 2_MC ._. 
+</s>
+<s>
+Bacteria_NN2 have_VH0 different_JJ numbers_NN2 of_IO TCS_NP1 which_DDQ differ_VV0 in_II their_APPGE structure_NN1 ._. 
+</s>
+<s>
+The_AT bacteria_NN2 E.coli_NP1 has_VHZ been_VBN selected_VVN for_IF this_DD1 project_NN1 as_CSA it_PPH1 is_VBZ the_AT exemplar_JJ bacteria_NN2 and_CC there_EX is_VBZ a_AT1 wealth_NN1 of_IO data_NN regarding_II its_APPGE genome_NN1 in_II the_AT literature_NN1 ._. 
+</s>
+<s>
+All_DB genes_NN2 encoding_VVG the_AT 32_MC two-component_JJ phosphor-transfer_JJ signal_NN1 transducers_NN2 in_II the_AT genome_NN1 of_IO E.coli_NP1 have_VH0 been_VBN compiled_VVN by_II researchers_NN2 4_MC ._. 
+</s>
+<s>
+Also_RR deletions_NN2 and_CC insertions_NN2 in_II the_AT genome_NN1 of_IO Escherichia_NP1 coli_NN2 have_VH0 been_VBN tried_VVN 5_MC 6_MC ._. 
+</s>
+<s>
+Gene_NN1 knockout_NN1 can_VM be_VBI used_VVN to_TO study_VVI single_JJ pathway_NN1 TCS_NP1 but_CCB it_PPH1 could_VM lead_VVI to_II confusions_NN2 while_CS studying_VVG inter-pathway_JJ communication_NN1 ._. 
+</s>
+<s>
+Molecular_JJ simulation_NN1 has_VHZ never_RR been_VBN tried_VVN before_RT ._. 
+</s>
+<s>
+The_AT aim_NN1 of_IO this_DD1 project_NN1 is_VBZ to_TO predict_VVI and_CC design_NN1 molecules_NN2 which_DDQ can_VM selectively_RR block_VVI certain_JJ domains_NN2 then_RT studying_VVG inter-pathway_JJ TCS_NP1 systems_NN2 will_VM be_VBI possible_JJ ._. 
+</s>
+<s>
+X-ray_NN1 crystallographic_JJ and_CC NMR_NP1 data_NN is_VBZ available_JJ regarding_II every_AT1 domain_NN1 of_IO all_DB the_AT 32_MC pathways_NN2 ._. 
+</s>
+<s>
+Applying_VVG the_AT knowledge_NN1 of_IO bioinformatics_NN2 along_II21 with_II22 biophysical_JJ techniques_NN2 and_CC molecular_JJ simulation_NN1 ,_, a_AT1 systems_NN2 level_JJ approach_NN1 can_VM be_VBI developed_VVN to_TO study_VVI inter-pathway_JJ communication_NN1 of_IO two_MC component_JJ systems_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ proposed_VVN that_CST this_DD1 group_NN1 will_VM undertake_VVI work_NN1 that_CST will_VM ultimately_RR lead_VVI to_II the_AT full_JJ classification_NN1 of_IO the_AT understanding_NN1 of_IO the_AT inter-pathway_JJ communications_NN2 of_IO all_DB the_AT 32_MC TCS_NP1 found_VVD in_II E-coli_NN2 ._. 
+</s>
+<s>
+This_DD1 ambitious_JJ undertaking_NN1 requires_VVZ a_AT1 multidisciplinary_NN1 ,_, systems_NN2 biology_NN1 approach_NN1 to_II the_AT problem_NN1 which_DDQ would_VM forge_VVI relationships_NN2 between_II departments_NN2 and_CC groups_NN2 across_II the_AT scientific_JJ community_NN1 ._. 
+</s>
+<s>
+Success_NN1 in_II this_DD1 endeavour_NN1 would_VM unquestionably_RR show_VVI Systems_NN2 Biology_NN1 to_TO be_VBI leaders_NN2 in_II the_AT field_NN1 in_II the_AT UK_NP1 and_CC to_TO be_VBI a_AT1 worldwide_JJ centre_NN1 of_IO excellence_NN1 ._. 
+</s>
+<s>
+The_AT goal_NN1 is_VBZ to_TO find_VVI ways_NN2 of_IO inhibiting_VVG each_DD1 individual_JJ signal_NN1 pathway_NN1 of_IO the_AT 32_MC that_CST are_VBR known_VVN in_II E-coli_NN2 -_- furthermore_RR ,_, and_CC this_DD1 is_VBZ crucial_JJ ,_, each_DD1 of_IO the_AT inhibition_NN1 mechanisms_NN2 will_VM be_VBI unique_JJ and_CC specific_JJ to_II a_AT1 particular_JJ TCS_NP1 within_II the_AT bacteria_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ proposed_VVN that_CST the_AT work_NN1 is_VBZ undertaken_VVN systematically_RR and_CC to_TO progress_VVI through_II the_AT known_JJ two_MC component_JJ systems_NN2 in_II a_AT1 logical_JJ fashion_NN1 ._. 
+</s>
+<s>
+For_IF each_DD1 TCS_NP1 the_AT tasks_NN2 toward_II a_AT1 full_JJ understanding_NN1 of_IO the_AT TCS_NP1 and_CC the_AT inter_JJ pathway_NN1 communications_NN2 are_VBR as_CSA follows_VVZ :_: A_ZZ1 schematic_JJ block_NN1 diagram_NN1 of_IO these_DD2 tasks_NN2 is_VBZ shown_VVN in_II figure_NN1 4_MC below_RL ._. 
+</s>
+<s>
+The_AT tasks_NN2 proposed_VVN above_RL and_CC shown_VVN schematically_RR in_II Figure_NN1 4_MC show_VV0 the_AT key_JJ philosophy_NN1 towards_II the_AT proposed_JJ approach_NN1 ._. 
+</s>
+<s>
+The_AT first_MD stage_NN1 in_II the_AT process_NN1 is_VBZ the_AT modelling_NN1 of_IO the_AT TCS_NP1 and_CC determining_VVG the_AT susceptible_JJ portion_NN1 of_IO the_AT system_NN1 thus_RR enabling_VVG the_AT prediction_NN1 of_IO a_AT1 suitable_JJ chemical_JJ inhibition_NN1 mechanism_NN1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 for_IF this_DD1 stage_NN1 to_TO proceed_VVI it_PPH1 is_VBZ necessary_JJ to_TO build_VVI upon_II the_AT work_NN1 carried_VVN out_RP at_II other_JJ research_NN1 establishments_NN2 1_MC1 3_MC 4_MC 5_MC 6_MC 7_MC and_CC to_TO use_VVI the_AT structural_JJ data_NN available_JJ regarding_II the_AT TCS_NP1 key_JJ proteins_NN2 and_CC enzymes_NN2 ._. 
+</s>
+<s>
+At_RR21 present_RR22 not_XX all_DB the_AT structures_NN2 of_IO the_AT TCS_NP1 have_VH0 been_VBN discerned_VVN to_II the_AT accuracy_NN1 and_CC resolution_NN1 required_VVN -_- for_IF this_DD1 reason_NN1 it_PPH1 is_VBZ proposed_VVN that_CST some_DD budget_NN1 is_VBZ set_VVN aside_RL for_IF the_AT additional_JJ structural_JJ determination_NN1 ._. 
+</s>
+<s>
+The_AT core_NN1 project_NN1 team_NN1 secured_VVD access_NN1 to_II a_AT1 number_NN1 of_IO biophysical_JJ structural_JJ determination_NN1 laboratories_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ foreseen_VVN that_CST there_EX will_VM be_VBI access_NN1 to_II EM_FU ,_, X-ray_NN1 crystallography_NN1 and_CC NMR_NP1 facilities_NN2 for_IF at_RR21 least_RR22 the_AT next_MD 8_MC years_NNT2 ._. 
+</s>
+<s>
+The_AT output_NN1 of_IO the_AT modelling_NN1 effort_NN1 for_IF each_DD1 TCS_NP1 is_VBZ a_AT1 theoretical_JJ inhibitor_NN1 for_IF that_DD1 specific_JJ TCS_NP1 ._. 
+</s>
+<s>
+The_AT next_MD stage_NN1 of_IO the_AT proposed_JJ approach_NN1 is_VBZ the_AT synthesis_NN1 of_IO the_AT inhibitor_NN1 ._. 
+</s>
+<s>
+The_AT complexity_NN1 of_IO this_DD1 stage_NN1 is_VBZ heavily_RR dependent_JJ upon_II the_AT proposed_JJ inhibition_NN1 mechanism_NN1 ._. 
+</s>
+<s>
+Cost_NN1 could_VM be_VBI a_AT1 limiting_JJ factor_NN1 in_II this_DD1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 if_CS the_AT proposed_JJ inhibitor_NN1 for_IF a_AT1 particular_JJ TCS_NP1 were_VBDR found_VVN to_TO be_VBI too_RG expensive_JJ -_- there_EX would_VM be_VBI feedback_NN1 to_II the_AT modelling_NN1 team_NN1 to_TO attempt_VVI to_TO find_VVI a_AT1 cheaper_JJR alternative_NN1 ._. 
+</s>
+<s>
+Having_VHG found_VVN a_AT1 suitable_JJ cost_NN1 effective_JJ inhibitor_NN1 the_AT next_MD stage_NN1 is_VBZ to_TO prove_VVI experimentally_RR that_CST the_AT inhibitor_NN1 works_VVZ effectively_RR ._. 
+</s>
+<s>
+Having_VHG shown_VVN the_AT success_NN1 of_IO the_AT proposed_JJ inhibition_NN1 mechanism_NN1 bio-physical_JJ techniques_NN2 (_( EM_FU ,_, NMR_NP1 X-ray_NN1 crystallography_NN1 )_) will_VM be_VBI used_JJ to_II image_NN1 the_AT regulator/_NN1 transmitter_NN1 inhibitor_NN1 complexes_NN2 ._. 
+</s>
+<s>
+As_II the_AT ultimate_JJ goal_NN1 is_VBZ to_TO systematically_RR work_VVI through_II the_AT 32_MC known_JJ TCS_NP1 with_IW a_AT1 goal_NN1 of_IO inhibiting_VVG all_DB thus_RR providing_VVG information_NN1 for_IF the_AT networks_NN2 and_CC pathways_NN2 -_- the_AT final_JJ stage_NN1 is_VBZ to_TO compile_VVI the_AT information_NN1 regarding_II the_AT inhibition_NN1 in_II a_AT1 database_NN1 ._. 
+</s>
+<s>
+As_CSA more_DAR information_NN1 becomes_VVZ available_JJ and_CC this_DD1 database_NN1 grows_VVZ it_PPH1 is_VBZ proposed_VVN that_CST a_AT1 further_JJR modelling_NN1 activity_NN1 is_VBZ undertaken_VVN to_TO use_VVI this_DD1 data_NN to_TO create_VVI a_AT1 model_NN1 for_IF the_AT network_NN1 describing_VVG the_AT many_DA2 to_II many_DA2 functionality_NN1 of_IO the_AT TCS_NP1 system_NN1 in_II E-coli_NN2 ._. 
+</s>
+<s>
+The_AT tasks_NN2 shown_VVN in_II Figure_NN1 4_MC show_VV0 a_AT1 linear_JJ progression_NN1 from_II modelling_NN1 to_II experiment_NN1 -_- however_RRQV these_DD2 need_VM not_XX be_VBI the_AT case_NN1 as_II the_AT research_NN1 is_VBZ being_VBG done_VDN on_II 32_MC individual_JJ TCS_NP1 -_- the_AT work_NN1 carried_VVN out_RP by_II different_JJ groups_NN2 can_VM continue_VVI in_II parallel_NN1 ._. 
+</s>
+<s>
+Understanding_VVG the_AT inter-pathway_JJ communication_NN1 of_IO TCS_NP1 is_VBZ a_AT1 big_JJ step_NN1 towards_II a_AT1 model_NN1 of_IO all_DB the_AT signalling_NN1 pathways_NN2 in_II a_AT1 cell_NN1 ._. 
+</s>
+<s>
+Very_RG little_DA1 is_VBZ currently_RR known_VVN about_II the_AT inter-pathway_JJ communications_NN2 in_II the_AT TCS_NP1 of_IO any_DD living_JJ organism_NN1 ._. 
+</s>
+<s>
+This_DD1 systems_VVZ biology_NN1 approach_NN1 will_VM enable_VVI us_PPIO2 to_TO build_VVI up_RP a_AT1 model_NN1 of_IO the_AT TCS_NP1 and_CC enable_VV0 further_JJR research_NN1 into_II the_AT control_NN1 and_CC manipulation_NN1 of_IO signalling_VVG pathways_NN2 ._. 
+</s>
+<s>
+This_DD1 research_NN1 is_VBZ very_RG interdisciplinary_JJ and_CC will_VM create_VVI many_DA2 new_JJ collaborations_NN2 between_II departments_NN2 in_II the_AT University_NN1 ,_, thus_RR strengthening_VVG other_JJ areas_NN2 of_IO research_NN1 which_DDQ require_VV0 a_AT1 more_RGR interdisciplinary_JJ approach_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR also_RR many_DA2 possible_JJ medical_JJ benefits_NN2 of_IO this_DD1 research_NN1 ._. 
+</s>
+<s>
+Since_CS animals_NN2 do_VD0 not_XX have_VHI TCS_NP1 ,_, bacterial_JJ infections_NN2 could_VM be_VBI targeted_VVN through_II the_AT disruption_NN1 of_IO these_DD2 pathways_NN2 ._. 
+</s>
+<s>
+By_II determining_VVG the_AT exact_JJ function_NN1 of_IO each_DD1 TCS_NP1 and_CC developing_VVG an_AT1 inhibitor_NN1 we_PPIS2 would_VM be_VBI able_JK to_TO stop_VVI the_AT bacteria_NN2 from_II multiplying_VVG ,_, whilst_CS not_XX affecting_VVG the_AT animal_NN1 host_NN1 ._. 
+</s>
+<s>
+Although_CS E.coli_NP1 is_VBZ normally_RR not_XX very_RG harmful_JJ ,_, the_AT inhibitors_NN2 and_CC knowledge_NN1 we_PPIS2 develop_VV0 may_VM be_VBI applied_VVN to_II other_JJ more_RGR pathogenic_JJ bacteria_NN2 ._. 
+</s>
+<s>
+The_AT complete_JJ understanding_NN1 of_IO a_AT1 relatively_RR simple_JJ bacteria_NN2 may_VM be_VBI applied_VVN to_II more_RGR complicated_JJ and_CC dangerous_JJ bacteria_NN2 ._. 
+</s>
+<s>
+A_AT1 full_JJ and_CC detailed_JJ work_NN1 package_NN1 breakdown_NN1 can_VM be_VBI seen_VVN upon_II request_NN1 ,_, herein_RR is_VBZ a_AT1 summary_NN1 ._. 
+</s>
+<s>
+However_RR due_II21 to_II22 the_AT changing_JJ environment_NN1 and_CC the_AT large_JJ number_NN1 of_IO unknowns_NN2 -_- an_AT1 extremely_RR high_JJ level_NN1 of_IO flexibility_NN1 has_VHZ been_VBN built_VVN into_II the_AT project_NN1 plan_NN1 ._. 
+</s>
+<s>
+This_DD1 ambitious_JJ project_NN1 is_VBZ proposed_VVN to_TO take_VVI place_NN1 over_II the_AT next_MD 6_MC years_NNT2 -_- utilizing_VVG the_AT expertise_NN1 from_II 12_MC post_II doctoral_JJ staff_NN members_NN2 comprising_VVG :_: 4_MC from_II the_AT biological_JJ sciences_NN2 ,_, 4_MC from_II the_AT mathematical_JJ institute_NN1 ,_, 2_MC Chemists_NN2 ,_, 2_MC Physicists_NN2 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 this_DD1 we_PPIS2 have_VH0 secured_VVN 8_MC permanent_JJ members_NN2 of_IO staff_NN who_PNQS recognise_VV0 the_AT importance_NN1 and_CC ambition_NN1 of_IO this_DD1 project_NN1 and_CC are_VBR willing_JJ to_TO give_VVI 50-75%_FO of_IO their_APPGE time_NNT1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT highly_RR interdisciplinary_JJ nature_NN1 of_IO the_AT project_NN1 ,_, it_PPH1 is_VBZ proposed_VVN that_CST a_AT1 full_JJ time_NNT1 academic_JJ administrator_NN1 would_VM facilitate_VVI the_AT interaction_NN1 between_II the_AT disparate_JJ groups_NN2 and_CC manage_VV0 the_AT project_NN1 ._. 
+</s>
+<s>
+Costs_NN2 for_IF the_AT project_NN1 have_VH0 been_VBN kept_VVN minimal_JJ ._. 
+</s>
+<s>
+All_DB academic_JJ staff_NN recruited_VVN have_VH0 been_VBN promised_VVN work_NN1 areas_NN2 in_II the_AT home_NN1 departments_NN2 due_II21 to_II22 the_AT high_JJ level_NN1 of_IO cooperation_NN1 from_II all_DB departments_NN2 involved_JJ in_II the_AT enterprise_NN1 no_AT additional_JJ equipment_NN1 is_VBZ required_VVN beyond_II a_AT1 number_NN1 of_IO desktop_NN1 PCs_NN2 ._. 
+</s>
+<s>
+The_AT main_JJ costs_NN2 incurred_VVN are_VBR due_II21 to_II22 the_AT salaries_NN2 of_IO the_AT staff_NN ,_, the_AT cost_NN1 of_IO consumable_JJ goods_NN2 and_CC materials_NN2 (_( for_REX21 example_REX22 chemicals_NN2 )_) ._. 
+</s>
+<s>
+The_AT projected_JJ sum_NN1 is_VBZ of_IO the_AT order_NN1 1,600,000_MC over_II the_AT six_MC years_NNT2 of_IO the_AT duration_NN1 of_IO the_AT project_NN1 with_IW a_AT1 proposed_JJ bi-annual_JJ review_NN1 ._. 
+</s>
+<s>
+Due_II21 to_II22 the_AT high_JJ profile_NN1 nature_NN1 of_IO this_DD1 undertaking_NN1 and_CC the_AT positive_JJ publicity_NN1 MOAC_NN1 funding_NN1 council_NN1 will_VM receive_VVI as_II a_AT1 consequence_NN1 of_IO this_DD1 -_- this_DD1 represents_VVZ an_AT1 opportunity_NN1 not_XX to_TO be_VBI missed_VVN ._. 
+</s>

@@ -1,0 +1,243 @@
+<s>
+Ever_RR played_VVN join_VV0 the_AT dots_NN2 ,_, only_RR to_TO find_VVI the_AT lines_NN2 spelled_VVD out_RP a_AT1 word_NN1 ?_? 
+</s>
+<s>
+Don_NP1 Eigler_NP1 ,_, a_AT1 researcher_NN1 for_IF IBM_NP1 ,_, took_VVD that_DD1 to_II extremes_NN2 in_II 1989_MC when_RRQ he_PPHS1 spelled_VVD out_RP the_AT word_NN1 IBM_NP1 using_VVG only_RR 35_MC Xenon_NN1 atoms_NN2 ._. 
+</s>
+<s>
+The_AT letters_NN2 were_VBDR about_II 5nm_FO high_JJ ,_, or_CC 1/10,000_MF the_AT width_NN1 of_IO a_AT1 human_JJ hair_NN1 ._. 
+</s>
+<s>
+Each_DD1 dot_NN1 in_II the_AT image_NN1 shown_VVN is_VBZ a_AT1 single_JJ Xenon_NN1 atom_NN1 ,_, placed_VVN there_RL using_VVG the_AT power_NN1 of_IO scanning_VVG tunnelling_NN1 microscopy_NN1 ._. 
+</s>
+<s>
+The_AT technology_NN1 is_VBZ not_XX limited_VVN to_II miniature_JJ advertising_NN1 ,_, however_RR ._. 
+</s>
+<s>
+Scanning_VVG tunnelling_NN1 microscopy_NN1 opens_VVZ a_AT1 gateway_NN1 to_II the_AT nano-scale_JJ world_NN1 ,_, it_PPH1 is_VBZ invaluable_JJ for_IF research_NN1 into_II surface_NN1 physics_NN1 ,_, and_CC it_PPH1 will_VM play_VVI a_AT1 part_NN1 in_II forming_VVG the_AT next_MD generation_NN1 of_IO nanotechnology_NN1 ._. 
+</s>
+<s>
+What_DDQ is_VBZ scanning_VVG tunnelling_NN1 microscopy_NN1 ?_? 
+</s>
+<s>
+Often_RR shortened_VVN to_II STM_NN1 ,_, it_PPH1 is_VBZ a_AT1 technique_NN1 used_VMK to_TO extrapolate_VVI images_NN2 of_IO a_AT1 surface_NN1 on_II an_AT1 atomic_JJ scale_NN1 ._. 
+</s>
+<s>
+Invented_VVN by_II Gerd_NP1 Binnig_NP1 and_CC Heinrich_NP1 Rohrer_NP1 in_II 1981_MC ,_, and_CC earning_VVG them_PPHO2 a_AT1 Nobel_NP1 Prize_NN1 in_II 1986_MC ,_, it_PPH1 relies_VVZ on_II the_AT quantum_NN1 mechanical_JJ principle_NN1 of_IO "_" tunnelling_NN1 "_" to_TO operate_VVI ._. 
+</s>
+<s>
+STM_NN1 allows_VVZ researchers_NN2 to_TO compute_VVI the_AT relative_JJ heights_NN2 of_IO a_AT1 sample_NN1 surface_NN1 -_- in_II effect_NN1 ,_, the_AT locations_NN2 of_IO atoms_NN2 resting_VVG on_II31 top_II32 of_II33 a_AT1 reference_NN1 surface_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ also_RR used_VVN to_TO ionise_VVI or_CC manipulate_VVI individual_JJ atoms_NN2 ,_, as_CSA seen_VVN in_II the_AT IBM_NP1 picture_NN1 above_RL ._. 
+</s>
+<s>
+Prior_II21 to_II22 the_AT invention_NN1 of_IO STM_NN1 ,_, surface_NN1 analysis_NN1 was_VBDZ carried_VVN out_RP using_VVG two_MC main_JJ methods_NN2 ,_, X-ray_NN1 diffraction_NN1 and_CC transmission_NN1 electron_NN1 microscopy_NN1 ._. 
+</s>
+<s>
+Both_DB2 of_IO these_DD2 relied_VVN on_II the_AT small_JJ wavelengths_NN2 of_IO the_AT particles_NN2 involved_VVD to_TO produce_VVI diffraction_NN1 patterns_NN2 when_CS scattered_VVN from_II a_AT1 material_NN1 ._. 
+</s>
+<s>
+These_DD2 patterns_NN2 were_VBDR then_RT analysed_VVN ,_, and_CC from_II the_AT results_NN2 ,_, an_AT1 idea_NN1 of_IO the_AT composition_NN1 of_IO the_AT material_NN1 could_VM be_VBI formed_VVN ._. 
+</s>
+<s>
+Unfortunately_RR ,_, for_IF composite_JJ molecules_NN2 ,_, the_AT patterns_NN2 became_VVD increasingly_RR complex_JJ ,_, such_CS21 that_CS22 researchers_NN2 could_VM not_XX agree_VVI on_II an_AT1 interpretation_NN1 of_IO the_AT data_NN ._. 
+</s>
+<s>
+The_AT advantage_NN1 STM_NN1 holds_VVZ over_II these_DD2 predecessors_NN2 is_VBZ the_AT ability_NN1 to_TO produce_VVI a_AT1 real_JJ space_NN1 representation_NN1 of_IO the_AT scanned_JJ surface_NN1 ,_, even_RR for_IF molecules_NN2 with_IW complicated_JJ structures_NN2 ._. 
+</s>
+<s>
+This_DD1 removes_VVZ the_AT problem_NN1 of_IO interpreting_VVG diffraction_NN1 patterns_NN2 to_TO deduce_VVI a_AT1 surface_NN1 structure_NN1 ,_, replacing_VVG it_PPH1 with_IW the_AT simpler_JJR task_NN1 of_IO reading_VVG an_AT1 electron_NN1 density_NN1 diagram_NN1 ._. 
+</s>
+<s>
+The_AT STM_NN1 apparatus_NN1 consists_VVZ of_IO a_AT1 sharpened_JJ probe_NN1 (_( ideally_RR with_IW the_AT tip_NN1 being_VBG a_AT1 single_JJ atom_NN1 )_) mounted_VVD about_II a_AT1 nanometre_NNU1 above_II a_AT1 conductive_JJ sample_NN1 ._. 
+</s>
+<s>
+A_AT1 voltage_NN1 is_VBZ applied_VVN between_II probe_NN1 and_CC sample_NN1 ,_, causing_VVG electrons_NN2 to_TO "_" tunnel_VVI "_" or_CC flow_NN1 from_II the_AT sample_NN1 to_II the_AT tip_NN1 (_( or_CC from_II tip_NN1 to_II sample_NN1 ,_, depending_II21 on_II22 the_AT polarity_NN1 )_) ._. 
+</s>
+<s>
+This_DD1 flow_NN1 produces_VVZ a_AT1 current_JJ ,_, which_DDQ is_VBZ exponentially_RR related_VVN to_II the_AT separation_NN1 between_II the_AT sample_NN1 and_CC the_AT tip_NN1 ._. 
+</s>
+<s>
+As_II the_AT STM_NN1 tip_NN1 is_VBZ moved_VVN across_II the_AT surface_NN1 ,_, the_AT current_JJ changes_NN2 in_II31 line_II32 with_II33 the_AT sample_NN1 height_NN1 ._. 
+</s>
+<s>
+Two_MC methods_NN2 exist_VV0 to_TO analyse_VVI this_DD1 change_NN1 ._. 
+</s>
+<s>
+The_AT most_RGT commonly_RR used_JJ technique_NN1 is_VBZ known_VVN as_II constant_JJ current_JJ scanning_NN1 ._. 
+</s>
+<s>
+The_AT tip_NN1 is_VBZ mounted_VVN on_II a_AT1 piezoelectric_JJ element_NN1 ,_, through_II which_DDQ the_AT current_NN1 can_VM be_VBI kept_VVN constant_JJ by_II adjusting_VVG the_AT height_NN1 of_IO the_AT tip_NN1 through_II use_NN1 of_IO a_AT1 feedback_NN1 loop_NN1 ._. 
+</s>
+<s>
+From_II the_AT raising_NN1 and_CC lowering_NN1 of_IO the_AT STM_NN1 tip_NN1 ,_, a_AT1 physical_JJ map_NN1 of_IO the_AT surface_NN1 can_VM be_VBI inferred_VVN ._. 
+</s>
+<s>
+Alternatively_RR ,_, the_AT height_NN1 can_VM be_VBI kept_VVN constant_JJ ,_, and_CC the_AT current_JJ variations_NN2 can_VM be_VBI measured_VVN ._. 
+</s>
+<s>
+This_DD1 method_NN1 gives_VVZ data_NN on_II the_AT electron_NN1 density_NN1 of_IO the_AT surface_NN1 ,_, and_CC can_VM be_VBI used_VVN to_TO deduce_VVI information_NN1 about_II the_AT electronic_JJ configurations_NN2 of_IO the_AT material_NN1 ._. 
+</s>
+<s>
+Constant_JJ height_NN1 scanning_NN1 is_VBZ only_RR practical_JJ for_IF very_RG flat_JJ surfaces_NN2 ,_, however_RR ,_, as_CSA on_II rougher_JJR samples_NN2 the_AT tip_NN1 can_VM impact_NN1 on_II the_AT higher_JJR regions_NN2 of_IO the_AT surface_NN1 ._. 
+</s>
+<s>
+The_AT applications_NN2 of_IO STM_NN1 are_VBR potentially_RR diverse_JJ ._. 
+</s>
+<s>
+In_II the_AT research_NN1 world_NN1 ,_, STM_NN1 currently_RR holds_VVZ the_AT title_NN1 for_IF the_AT highest_JJT resolution_NN1 of_IO electron_NN1 density_NN1 data_NN available_JJ at_II such_DA a_AT1 small_JJ scale_NN1 ._. 
+</s>
+<s>
+We_PPIS2 interviewed_VVD Dr._NNB of_IO University_NN1 ,_, who_PNQS uses_VVZ STM_NN1 in_II his_APPGE research_NN1 on_II 3-5_MCMC semiconductors_NN2 (_( compounds_NN2 of_IO group_NN1 3_MC and_CC group_NN1 5_MC elements_NN2 )_) ._. 
+</s>
+<s>
+As_CSA it_PPH1 is_VBZ highly_RR dependent_JJ on_II electron_NN1 density_NN1 ,_, he_PPHS1 explains_VVZ ,_, the_AT technique_NN1 is_VBZ better_RRR suited_VVN to_II semiconductor_NN1 research_NN1 ,_, rather_II21 than_II22 scanning_VVG of_IO metals_NN2 where_RRQ the_AT electrons_NN2 are_VBR less_RGR localised_JJ ._. 
+</s>
+<s>
+Increased_JJ atom_NN1 separation_NN1 in_II the_AT semiconductors_NN2 also_RR gives_VVZ them_PPHO2 the_AT advantage_NN1 over_II metals_NN2 for_IF high_JJ resolution_NN1 scanning_VVG ._. 
+</s>
+<s>
+STM_NN1 is_VBZ by_RR31 no_RR32 means_RR33 an_AT1 easy_JJ tool_NN1 to_TO use_VVI ,_, however_RR ._. 
+</s>
+<s>
+Generally_RR ,_, the_AT process_NN1 is_VBZ highly_RR sensitive_JJ to_II contamination_NN1 ,_, as_CSA a_AT1 single_JJ atom_NN1 deposited_VVN on_II the_AT surface_NN1 will_VM produce_VVI a_AT1 significant_JJ change_NN1 in_II the_AT topography_NN1 ._. 
+</s>
+<s>
+To_II that_DD1 end_NN1 ,_, most_DAT STM_NN1 procedures_NN2 are_VBR carried_VVN out_RP in_II ultra-high_JJ vacuum_NN1 ._. 
+</s>
+<s>
+This_DD1 alone_RR complicates_VVZ the_AT procedure_NN1 ,_, requiring_VVG special_JJ airtight_JJ chambers_NN2 (_( see_VV0 right_RR )_) in_II which_DDQ to_TO carry_VVI out_RP the_AT scan_NN1 ,_, and_CC a_AT1 thorough_JJ cleaning_NN1 of_IO the_AT sample_NN1 before_CS it_PPH1 can_VM be_VBI analysed_VVN ._. 
+</s>
+<s>
+McConville_NP1 gives_VVZ as_II an_AT1 example_NN1 the_AT STM_NN1 in_RP ,_, which_DDQ operates_VVZ under_II pressure_NN1 of_IO approximately_RR 10_MC -10_MC millibars_NN2 ._. 
+</s>
+<s>
+In_II31 addition_II32 to_II33 this_DD1 ,_, to_TO ensure_VVI accurate_JJ readings_NN2 ,_, both_DB2 the_AT sample_NN1 and_CC the_AT STM_NN1 apparatus_NN1 must_VM be_VBI protected_VVN from_II vibrations_NN2 of_IO the_AT same_DA order_NN1 of_IO magnitude_NN1 as_CSA the_AT measurements_NN2 being_VBG taken_VVN ._. 
+</s>
+<s>
+Given_VVN the_AT nano-scale_JJ on_II which_DDQ the_AT process_NN1 works_VVZ ,_, this_DD1 is_VBZ no_AT simple_JJ task_NN1 !_! 
+</s>
+<s>
+Even_RR slight_JJ vibrations_NN2 of_IO the_AT chamber_NN1 can_VM negate_VVI the_AT validity_NN1 of_IO the_AT scan_NN1 ._. 
+</s>
+<s>
+The_AT way_NN1 to_TO prevent_VVI this_DD1 ,_, according_II21 to_II22 McConville_NP1 ,_, is_VBZ through_II the_AT use_NN1 of_IO a_AT1 two_MC stage_NN1 dampening_VVG process_NN1 ._. 
+</s>
+<s>
+Initially_RR ,_, the_AT test_NN1 chamber_NN1 is_VBZ mounted_VVN on_II springs_NN2 ,_, in_II as_RG stable_JJ an_AT1 environment_NN1 as_CSA possible_JJ ,_, to_TO reduce_VVI the_AT impact_NN1 of_IO environmental_JJ vibrations_NN2 ._. 
+</s>
+<s>
+Whilst_CS this_DD1 would_VM suffice_VVI for_IF a_AT1 typical_JJ experiment_NN1 ,_, STM_NN1 takes_VVZ it_PPH1 one_MC1 step_NN1 further_RRR ,_, with_IW the_AT introduction_NN1 of_IO magnetic_JJ dampening_NN1 ._. 
+</s>
+<s>
+Around_II most_DAT STMs_NN2 ,_, he_PPHS1 explains_VVZ ,_, a_AT1 series_NN of_IO permanent_JJ magnets_NN2 and_CC copper_NN1 fins_NN2 is_VBZ arranged_VVN ,_, such_CS21 that_CS22 any_DD movement_NN1 of_IO the_AT chamber_NN1 disturbs_VVZ the_AT system_NN1 ._. 
+</s>
+<s>
+The_AT movement_NN1 of_IO the_AT fins_NN2 ,_, relative_II21 to_II22 the_AT magnets_NN2 ,_, sets_VVZ up_RP "_" eddy_NN1 currents_NN2 "_" which_DDQ then_RT damp_VV0 the_AT vibrations_NN2 ._. 
+</s>
+<s>
+In_II effect_NN1 ,_, a_AT1 vibration_NN1 acts_VVZ to_TO reduce_VVI itself_PPX1 ._. 
+</s>
+<s>
+This_DD1 method_NN1 ,_, although_CS not_XX perfect_JJ ,_, is_VBZ sufficient_JJ to_TO produce_VVI atomic_JJ resolutions_NN2 ;_; in_II other_JJ words_NN2 ,_, with_IW a_AT1 well-damped_JJ STM_NN1 setup_NN1 you_PPY can_VM interpret_VVI ,_, to_II a_AT1 good_JJ degree_NN1 of_IO accuracy_NN1 ,_, the_AT location_NN1 of_IO an_AT1 atom_NN1 on_II a_AT1 surface_NN1 ._. 
+</s>
+<s>
+STM_NN1 has_VHZ also_RR been_VBN combined_VVN with_IW other_JJ technologies_NN2 to_TO provide_VVI a_AT1 more_RGR in-depth_JJ analysis_NN1 of_IO molecular_JJ structures_NN2 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO analyse_VVI quantum_NN1 dots_NN2 ,_, Tsukamoto_NP1 Labs_NN2 ,_, in_II the_AT University_NN1 of_IO Tokyo_NP1 ,_, have_VH0 successfully_RR constructed_VVN an_AT1 STMBE_NN1 device_NN1 ,_, combining_VVG the_AT STM_NN1 technique_NN1 with_IW the_AT MBE_NN1 technology_NN1 ._. 
+</s>
+<s>
+Molecular_JJ beam_NN1 epitaxy_NN1 is_VBZ a_AT1 method_NN1 of_IO creating_VVG perfect_JJ crystals_NN2 from_II pure_JJ materials_NN2 ,_, one_MC1 layer_NN1 of_IO atoms_NN2 at_II a_AT1 time_NNT1 ._. 
+</s>
+<s>
+The_AT problem_NN1 with_IW analysing_VVG these_DD2 crystals_NN2 is_VBZ the_AT difficulty_NN1 in_II transporting_VVG them_PPHO2 from_II the_AT MBE_NN1 growth_NN1 chamber_NN1 to_II the_AT STM_NN1 apparatus_NN1 ._. 
+</s>
+<s>
+To_TO maintain_VVI the_AT purity_NN1 of_IO the_AT crystals_NN2 ,_, they_PPHS2 must_VM be_VBI kept_VVN in_II ultrahigh_NN1 vacuum_NN1 throughout_II the_AT transfer_NN1 ._. 
+</s>
+<s>
+Whilst_CS possible_JJ ,_, the_AT procedure_NN1 is_VBZ complex_JJ ,_, and_CC allows_VVZ the_AT crystals_NN2 to_TO warm_VVI up_RP or_CC cool_VVI down_RP ._. 
+</s>
+<s>
+In_II the_AT STMBE_NN1 ,_, the_AT STM_NN1 is_VBZ contained_VVN within_II the_AT MBE_NN1 growth_NN1 chamber_NN1 ,_, allowing_VVG analysis_NN1 without_IW moving_VVG the_AT crystal_NN1 ,_, and_CC at_II consistent_JJ temperature_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, it_PPH1 is_VBZ possible_JJ to_TO scan_VVI before_RT ,_, after_CS ,_, and_CC even_RR during_II the_AT crystal_NN1 growth_NN1 ,_, and_CC thus_RR visualise_VV0 the_AT crystal_NN1 forming_VVG ._. 
+</s>
+<s>
+That_DD1 said_VVD ,_, watching_VVG crystals_NN2 is_VBZ not_XX the_AT only_JJ use_NN1 for_IF STM_NN1 ,_, as_CSA shown_VVN by_II Eigler_NP1 's_GE image_NN1 ._. 
+</s>
+<s>
+If_CS ,_, instead_II21 of_II22 measuring_VVG the_AT tunnelling_NN1 current_NN1 ,_, you_PPY pulse_NN1 a_AT1 small_JJ current_JJ through_II the_AT tip_NN1 ,_, whilst_CS keeping_VVG the_AT sample_NN1 at_II very_RG low_JJ (_( about_II 4K_FO )_) temperatures_NN2 ,_, you_PPY can_VM excite_VVI the_AT atom_NN1 sufficiently_RR to_TO leave_VVI the_AT surface_NN1 ._. 
+</s>
+<s>
+The_AT atom_NN1 then_RT attaches_VVZ itself_PPX1 to_II the_AT STM_NN1 tip_NN1 ,_, and_CC can_VM be_VBI placed_VVN elsewhere_RL on_II the_AT sample_NN1 simply_RR by_II moving_VVG the_AT tip_NN1 there_RL and_CC reversing_VVG the_AT potential_NN1 of_IO the_AT current_JJ ._. 
+</s>
+<s>
+This_DD1 technique_NN1 ,_, as_CSA McConville_NP1 describes_VVZ ,_, has_VHZ more_DAR applications_NN2 than_CSN creating_VVG record-breaking_JJ logos_NN2 ._. 
+</s>
+<s>
+Eigler_NP1 went_VVD on_RP to_TO position_VVI a_AT1 set_NN1 of_IO iron_NN1 atoms_NN2 in_II various_JJ shapes_NN2 ,_, including_II a_AT1 circle_NN1 ,_, triangle_NN1 ,_, and_CC square_NN1 ._. 
+</s>
+<s>
+Inside_II these_DD2 ,_, he_PPHS1 found_VVD and_CC scanned_JJ electron_NN1 waves_NN2 reflecting_VVG off_II the_AT other_JJ atoms_NN2 ,_, and_CC even_RR interfering_VVG with_IW each_PPX221 other_PPX222 ,_, as_CSA in_II the_AT picture_NN1 ._. 
+</s>
+<s>
+The_AT ability_NN1 to_TO position_VVI atoms_NN2 with_IW such_DA precision_NN1 is_VBZ not_XX only_RR of_IO interest_NN1 to_II researchers_NN2 ,_, however_RR ._. 
+</s>
+<s>
+Precise_JJ atom_NN1 placement_NN1 has_VHZ tremendous_JJ ramifications_NN2 in_II the_AT field_NN1 of_IO technological_JJ advancement_NN1 ._. 
+</s>
+<s>
+Without_IW STM_NN1 ,_, manipulation_NN1 of_IO matter_NN1 at_II the_AT nano-scale_NN1 would_VM be_VBI next_II21 to_II22 impossible_JJ ._. 
+</s>
+<s>
+Nanotechnology_NN1 is_VBZ heavily_RR reliant_JJ on_II STM_NN1 and_CC its_APPGE associated_JJ techniques_NN2 to_II further_RRR its_APPGE own_DA work_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 scanning_NN1 technique_NN1 ,_, STM_NN1 allows_VVZ nanotech_NN1 researchers_NN2 to_TO visualise_VVI the_AT effects_NN2 of_IO their_APPGE work_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 tool_NN1 ,_, STM_NN1 invests_VVZ researchers_NN2 with_IW the_AT ability_NN1 to_TO build_VVI on_II a_AT1 nano-scale_JJ ._. 
+</s>
+<s>
+Already_RR ,_, Eigler_NP1 has_VHZ made_VVN simple_JJ sets_NN2 of_IO logic_NN1 gates_NN2 ,_, the_AT basis_NN1 of_IO computing_NN1 ,_, from_II iron_NN1 atoms_NN2 manipulated_VVN with_IW STM_NN1 ._. 
+</s>
+<s>
+In_II the_AT future_NN1 ,_, research_NN1 into_II self-replicating_JJ nano-bots_NN2 will_VM require_VVI the_AT power_NN1 of_IO STM_NN1 to_TO construct_VVI initial_JJ prototypes_NN2 ._. 
+</s>
+<s>
+Nanotech_NN1 is_VBZ not_XX the_AT only_JJ beneficiary_NN1 of_IO STM_NN1 research_NN1 ._. 
+</s>
+<s>
+McConville_NP1 's_GE own_DA STM_NN1 research_NN1 includes_VVZ analysis_NN1 of_IO spintronic_JJ materials_NN2 ,_, where_CS you_PPY can_VM control_VVI not_XX only_RR the_AT charge_NN1 of_IO an_AT1 atom_NN1 ,_, but_CCB also_RR the_AT electron_NN1 spin_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ currently_RR of_IO great_JJ interest_NN1 to_II computer_NN1 technology_NN1 developers_NN2 ,_, who_PNQS see_VV0 it_PPH1 as_II the_AT next_MD step_NN1 in_II data_NN storage_NN1 technology_NN1 ._. 
+</s>
+<s>
+With_IW the_AT recent_JJ popularity_NN1 explosion_NN1 of_IO computing_NN1 ,_, and_CC the_AT potential_JJ benefits_NN2 to_II computing_VVG that_DD1 nanotechnology_NN1 promises_NN2 ,_, it_PPH1 is_VBZ easy_JJ to_TO see_VVI why_RRQ the_AT field_NN1 is_VBZ a_AT1 hot_JJ research_NN1 topic_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 cornerstone_NN1 of_IO nanotech_NN1 research_NN1 ,_, STM_NN1 is_VBZ a_AT1 valuable_JJ and_CC useful_JJ tool_NN1 in_II the_AT development_NN1 of_IO next_MD generation_NN1 technology_NN1 ._. 
+</s>
+<s>
+As_II a_AT1 technique_NN1 ,_, STM_NN1 is_VBZ also_RR essential_JJ to_II improving_VVG our_APPGE understanding_NN1 of_IO the_AT world_NN1 beyond_II the_AT microscopic_JJ ,_, and_CC furthering_NN1 of_IO the_AT nanosciences_NN2 ._. 
+</s>
+<s>
+And_CC if_CS nothing_PN1 else_RR ,_, there_EX 's_VBZ always_RR nanoscopic_JJ advertising_NN1 ._. 
+</s>
+<s>
+This_DD1 piece_NN1 is_VBZ written_VVN for_IF the_AT Mech-tech_JJ section_NN1 of_IO the_AT New_JJ Scientist_NN1 journal_NN1 ,_, aimed_VVN at_II an_AT1 audience_NN1 interested_JJ in_II science_NN1 ,_, particularly_RR physics_NN1 ._. 
+</s>
+<s>
+The_AT target_NN1 audience_NN1 would_VM have_VHI A-level_NN1 or_CC higher_JJR physics_NN1 knowledge_NN1 ._. 
+</s>
+<s>
+The_AT strengths_NN2 of_IO the_AT article_NN1 are_VBR an_AT1 interesting_JJ introduction_NN1 and_CC amusing_JJ end_NN1 ,_, with_IW good_JJ use_NN1 of_IO images_NN2 and_CC comparisons_NN2 to_II other_JJ "_" hot_JJ "_" topics_NN2 to_II interest_NN1 the_AT reader_NN1 ._. 
+</s>
+<s>
+The_AT weaknesses_NN2 of_IO this_DD1 article_NN1 are_VBR the_AT short_JJ length_NN1 and_CC lack_NN1 of_IO in-depth_JJ discussion_NN1 of_IO the_AT topic_NN1 ._. 
+</s>

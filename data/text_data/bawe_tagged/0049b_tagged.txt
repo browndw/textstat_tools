@@ -1,0 +1,2184 @@
+<s>
+This_DD1 essay_NN1 starts_VVZ by_II introducing_VVG some_DD basic_JJ differential_NN1 and_CC algebraic_JJ topology_NN1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT move_VV0 into_II more_RGR advanced_JJ areas_NN2 such_II21 as_II22 the_AT various_JJ characteristic_JJ classes_NN2 ._. 
+</s>
+<s>
+The_AT algebraic_JJ topology_NN1 ,_, which_DDQ takes_VVZ up_RP much_RR of_IO the_AT essay_NN1 ,_, is_VBZ approached_VVN from_II an_AT1 algebraist_NN1 viewpoint_NN1 ._. 
+</s>
+<s>
+We_PPIS2 take_VV0 time_NNT1 to_TO appreciate_VVI the_AT algebraic_JJ structure_NN1 of_IO cohomology_NN1 including_II group_NN1 cohomology_NN1 although_CS we_PPIS2 develop_VV0 the_AT main_JJ ideas_NN2 in_II the_AT form_NN1 of_IO De_NP1 Rham_NP1 cohomology_NN1 from_II differential_JJ forms_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR take_VV0 a_AT1 quick_JJ look_NN1 at_II an_AT1 application_NN1 of_IO cohomology_NN1 to_II representation_NN1 theory_NN1 ._. 
+</s>
+<s>
+After_II preparing_VVG ourselves_PPX2 ,_, we_PPIS2 give_VV0 a_AT1 sketch_NN1 of_IO the_AT proof_NN1 of_IO an_AT1 interesting_JJ theorem_NN1 we_PPIS2 wish_VV0 to_TO explore_VVI ._. 
+</s>
+<s>
+This_DD1 work_NN1 is_VBZ quite_RG wide-ranging_JJ and_CC we_PPIS2 content_VV0 ourselves_PPX2 with_IW giving_VVG an_AT1 introduc-tion_NN1 to_II the_AT main_JJ thread_NN1 which_DDQ involves_VVZ the_AT development_NN1 of_IO Yang-Mills_NP1 moduli_NN2 spaces_NN2 ._. 
+</s>
+<s>
+The_AT theorem_NN1 has_VHZ a_AT1 corollary_NN1 that_CST tells_VVZ us_PPIO2 that_CST there_EX are_VBR 'exotic'_JJ 4-manifolds_NN2 ,_, which_DDQ are_VBR homotopy_NN1 equivalent_JJ but_CCB not_XX diffeomorphic_JJ to_II any_DD complex_JJ surface_NN1 ._. 
+</s>
+<s>
+The_AT essay_NN1 is_VBZ presented_VVN in_II three_MC chapters_NN2 -_- the_AT first_MD two_MC covering_VVG topics_NN2 from_II smooth_JJ manifolds_NN2 to_II cohomology_NN1 and_CC Poincare_NP1 duality_NN1 ._. 
+</s>
+<s>
+The_AT second_MD chapter_NN1 discusses_VVZ applications_NN2 of_IO what_DDQ was_VBDZ discussed_VVN in_II the_AT first_MD -_- operations_NN2 on_II vector_NN1 bundles_NN2 and_CC the_AT treatment_NN1 of_IO characteristic_JJ classes_NN2 ._. 
+</s>
+<s>
+The_AT final_JJ section_NN1 give_VV0 an_AT1 in-depth_JJ discussion_NN1 of_IO the_AT main_JJ theorem_NN1 and_CC a_AT1 sketch_NN1 of_IO the_AT proof_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ one_MC1 of_IO the_AT more_RGR interesting_JJ facts_NN2 in_II contemporary_JJ research_NN1 in_II differential_JJ topology_NN1 ._. 
+</s>
+<s>
+Simon_NP1 Donaldson_NP1 proved_VVD this_DD1 in_II the_AT early_JJ eighties_MC2 and_CC won_VVD the_AT Fields_NP '_GE Medal_NN1 in_II 1984_MC for_IF his_APPGE efforts_NN2 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ definitely_RR one_MC1 of_IO the_AT more_RGR intensive_JJ research_NN1 topics_NN2 which_DDQ have_VH0 led_VVN to_II the_AT Fields_NP '_GE Medal_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, although_CS the_AT proof_NN1 of_IO Monstrous_JJ Moonshine_NN1 by_II Borcherds_NP2 was_VBDZ a_AT1 momentous_JJ achievement_NN1 ,_, the_AT sheer_JJ volume_NN1 of_IO background_NN1 knowledge_NN1 required_VVN for_IF this_DD1 topological_JJ work_NN1 is_VBZ breathtaking_JJ ._. 
+</s>
+<s>
+We_PPIS2 aim_VV0 to_TO give_VVI a_AT1 good_JJ introduction_NN1 to_II some_DD of_IO this_DD1 mathematics_NN1 which_DDQ runs_VVZ through_II Kahler_NP1 manifolds_NN2 to_TO ASD_VVI connections_NN2 ._. 
+</s>
+<s>
+This_DD1 project_NN1 is_VBZ ,_, indeed_RR ,_, presented_VVN as_II a_AT1 collation_NN1 of_IO two_MC essays_NN2 since_CS they_PPHS2 can_VM be_VBI treated_VVN exclusively_RR depending_II21 on_II22 prior_JJ knowledge_NN1 ._. 
+</s>
+<s>
+The_AT first_MD and_CC second_MD chapters_NN2 deals_VVZ with_IW an_AT1 introduction_NN1 to_II the_AT concepts_NN2 we_PPIS2 will_VM need_VVI in_II the_AT latter_DA chapter_NN1 ._. 
+</s>
+<s>
+The_AT first_MD topic_NN1 is_VBZ an_AT1 introduction_NN1 to_II dealing_VVG with_IW smooth_JJ manifolds_NN2 ._. 
+</s>
+<s>
+Our_APPGE introduction_NN1 is_VBZ obviously_RR weighted_VVN heavily_RR to_TO accentuate_VVI the_AT points_NN2 we_PPIS2 wish_VV0 to_TO discuss_VVI later_RRR -_- we_PPIS2 have_VH0 ,_, however_RR ,_, digressed_VVN slightly_RR at_II times_NNT2 with_IW an_AT1 exploration_NN1 of_IO points_NN2 that_CST ,_, while_CS not_XX directly_RR related_VVN ,_, are_VBR very_RG interesting_JJ ._. 
+</s>
+<s>
+We_PPIS2 spend_VV0 he_PPHS1 next_MD sections_NN2 discussing_VVG what_DDQ can_VM be_VBI given_VVN the_AT blanket_NN1 term_NN1 of_IO algebraic_JJ topol-ogy_NN1 ._. 
+</s>
+<s>
+We_PPIS2 discuss_VV0 a_AT1 little_JJ bit_NN1 of_IO homology_NN1 although_CS cohomology_NN1 ,_, particularly_RR de_NP1 Rham_NP1 coho-mology_NN1 ,_, will_VM be_VBI of_IO most_DAT interest_NN1 later_RRR ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_II21 of_II22 the_AT link_NN1 to_II integration_NN1 on_II smooth_JJ manifolds_NN2 ._. 
+</s>
+<s>
+We_PPIS2 also_RR give_VV0 an_AT1 introduction_NN1 to_II group_NN1 cohomology_NN1 and_CC Galois_NP1 cohomology_NN1 and_CC the_AT application_NN1 to_II representation_NN1 theory_NN1 in_II the_AT form_NN1 of_IO the_AT relationship_NN1 between_II the_AT Brauer_NP1 group_NN1 of_IO some_DD commutative_JJ ring_NN1 and_CC the_AT second_MD Galois_NN1 cohomology_NN1 -_- in_RR21 particular_RR22 ,_, we_PPIS2 intro-duce_VV0 the_AT Azumaya_NP1 algebras_NN2 which_DDQ are_VBR important_JJ because_CS the_AT relationship_NN1 mentioned_VVN above_RL depends_VVZ on_II an_AT1 algebra_NN1 called_VVN a_AT1 crossed_JJ product_NN1 being_VBG an_AT1 Azumaya_NN1 algebra_NN1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT give_VV0 a_AT1 detailed_JJ exposition_NN1 of_IO Poincare_NP1 duality_NN1 -_- an_AT1 useful_JJ tool_NN1 later_RRR on_RP ._. 
+</s>
+<s>
+The_AT second_MD chapter_NN1 of_IO the_AT essay_NN1 begins_VVZ by_II discussing_VVG operations_NN2 on_II the_AT vector_NN1 bundles_NN2 introduced_VVN in_II the_AT last_MD chapter_NN1 ._. 
+</s>
+<s>
+The_AT most_RGT important_JJ of_IO these_DD2 is_VBZ the_AT connection_NN1 and_CC the_AT related_JJ curvature_NN1 form_NN1 ._. 
+</s>
+<s>
+Indeed_RR ,_, when_CS we_PPIS2 deal_VV0 with_IW much_DA1 of_IO the_AT mathematics_NN1 in_II this_DD1 area_NN1 we_PPIS2 are_VBR reminded_VVN of_IO operations_NN2 in_II differential_JJ geometry_NN1 ._. 
+</s>
+<s>
+We_PPIS2 then_RT discuss_VV0 characteristic_JJ classes_NN2 which_DDQ are_VBR central_JJ to_II the_AT focal_JJ discussion_NN1 point_NN1 of_IO this_DD1 essay_NN1 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 we_PPIS2 will_VM discuss_VVI the_AT Euler_NN1 and_CC Pontryagin_NN1 classes_NN2 after_II mentioning_VVG the_AT simpler_JJR case_NN1 of_IO the_AT Chern_NN1 class_NN1 ._. 
+</s>
+<s>
+We_PPIS2 also_RR discuss_VV0 the_AT Stiefel-Whitney_NP1 class_NN1 which_DDQ ,_, as_CSA we_PPIS2 will_VM see_VVI ,_, is_VBZ the_AT most_RGT important_JJ for_IF our_APPGE purposes_NN2 ._. 
+</s>
+<s>
+The_AT focus_NN1 of_IO this_DD1 'second_NN1 essay'_NN1 will_VM be_VBI to_TO explore_VVI the_AT following_JJ proposition_NN1 ._. 
+</s>
+<s>
+Proposition_VV0 1_MC1 ._. 
+</s>
+<s>
+For_IF any_DD simply-connected_NN1 ,_, complex_JJ surface_NN1 S_ZZ1 with_IW there_RL is_VBZ a_AT1 smooth_JJ four-manifold_JJ X(S)_MC2 which_DDQ is_VBZ homotopy_NN1 equivalent_JJ to_TO but_CCB not_XX diffeomorphic_JJ to_II S_ZZ1 ,_, nor_CC to_II any_DD complex_JJ surface_NN1 ._. 
+</s>
+<s>
+This_DD1 proposition_NN1 is_VBZ actually_RR a_AT1 corollary_NN1 of_IO a_AT1 more_RGR general_JJ theorem_NN1 ,_, the_AT proof_NN1 of_IO which_DDQ is_VBZ the_AT main_JJ topic_NN1 for_IF exploration_NN1 in_II this_DD1 essay_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 1_MC1 ._. 
+</s>
+<s>
+For_IF any_DD simply_RR connected_VVN ,_, complex_JJ algebraic_JJ surface_NN1 S_ZZ1 ,_, with_IW and_CC any_DD hyperplane_NN1 class_NN1 h_ZZ1 in_II H2(S)_FO there_EX is_VBZ a_AT1 k0_FO =_FO k0_FO (_( S_ZZ1 ,_, h_ZZ1 )_) such_CS21 that_CS22 for_IF k_ZZ1 k_ZZ1 and_CC any_DD Stiefel-Whitney_NP1 class_NN1 &lsqb;_( &rsqb;_) which_DDQ is_VBZ the_AT reduction_NN1 of_IO a_AT1 (_( 1,1_MC )_) class_NN1 &lsqb;_( &rsqb;_) ,_, we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+Here_RL are_VBR brief_JJ definitions_NN2 of_IO the_AT terms_NN2 above_RL ,_, although_CS they_PPHS2 make_VV0 very_RG little_DA1 sense_NN1 when_CS unaccompanied_JJ by_II definition_NN1 and_CC proof_NN1 of_IO the_AT mathematical_JJ basis_NN1 of_IO differenntial_JJ topology_NN1 ._. 
+</s>
+<s>
+For_IF an_AT1 oriented_JJ four-manifold_NN1 X_ZZ1 ,_, a_AT1 Stiefel-Whitney_NP1 class_NN1 is_VBZ one_MC1 of_IO the_AT characteristic_JJ classes_NN2 of_IO the_AT tangent_JJ bundle_NN1 TX_NP1 available_JJ ,_, along_II21 with_II22 the_AT Euler_NN1 and_CC Pontryagin_NN1 classes_NN2 as_CSA defined_VVN in_II Calculus_NN1 to_II Cohomology._NP1 is_VBZ simply_RR the_AT dimension_NN1 of_IO the_AT maximal_JJ positive_JJ subspace_NN1 for_IF the_AT form_NN1 on_II H2(X)._FO is_VBZ a_AT1 hyperplane_NN1 class_NN1 defined_VVN by_II a_AT1 holomorphic_JJ embedding_NN1 of_IO S_ZZ1 in_II a_AT1 projective_JJ space_NN1 ._. 
+</s>
+<s>
+is_VBZ the_AT dimension_NN1 of_IO the_AT space_NN1 of_IO holomorphic_JJ 2-forms_NN2 ._. 
+</s>
+<s>
+Lastly_RR ,_, is_VBZ a_AT1 sequence_NN1 of_IO polynomials_NN2 in_II which_DDQ are_VBR invariant_JJ under_II diffeomorphism_NN1 ._. 
+</s>
+<s>
+The_AT two_MC ,_, related_JJ but_CCB distinct_JJ ,_, parts_NN2 of_IO this_DD1 essay_NN1 arose_VVD separately_RR from_II one_MC1 piece_NN1 of_IO work_NN1 ,_, &lsqb;_( J05_FO &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 essay_NN1 first_MD explores_VVZ division_NN1 algebras_NN2 -_- the_AT main_JJ example_NN1 being_VBG the_AT quaternions_NN2 H._NP1 This_DD1 leads_VVZ to_II 4-dimensional_JJ space_NN1 and_CC then_RT to_II exotic_JJ manifolds_NN2 after_II an_AT1 interesting_JJ discussion_NN1 ._. 
+</s>
+<s>
+The_AT essay_NN1 also_RR involves_VVZ classification_NN1 of_IO division_NN1 algebras_NN2 ,_, in_II which_DDQ the_AT Brauer_NP1 group_NN1 is_VBZ involved_JJ in_II one_MC1 method_NN1 of_IO classification_NN1 ._. 
+</s>
+<s>
+The_AT latter_DA is_VBZ quite_RG an_AT1 intense_JJ topic_NN1 and_CC also_RR a_AT1 very_RG broad_JJ one_PN1 in_II that_DD1 it_PPH1 requires_VVZ a_AT1 lot_NN1 of_IO specialized_JJ maths_NN1 -_- Hodge_NP1 theory_NN1 ,_, algebraic_JJ geometry_NN1 -_- just_RR to_TO get_VVI something_PN1 sensible_JJ ._. 
+</s>
+<s>
+Nevertheless_RR ,_, it_PPH1 is_VBZ both_RR interesting_JJ and_CC productive_JJ ._. 
+</s>
+<s>
+Thanks_II21 to_II22 Dr_NNB Allan_NP1 Muir_NP1 ,_, Tim_NP1 Honeywill_NP1 and_CC David_NP1 Webdale_NP1 for_IF their_APPGE advice_NN1 and_CC inspiration_NN1 ._. 
+</s>
+<s>
+Manifolds_NN2 will_VM be_VBI important_JJ to_II us_PPIO2 throughout_II the_AT discussion_NN1 of_IO cohomology_NN1 and_CC later_RRR ._. 
+</s>
+<s>
+This_DD1 gives_VVZ an_AT1 opportunity_NN1 to_TO discuss_VVI the_AT interesting_JJ idea_NN1 that_CST we_PPIS2 want_VV0 to_TO explore_VVI in_RR21 full_RR22 ._. 
+</s>
+<s>
+If_CS n_ZZ1 =_FO 4_MC ,_, a_AT1 four-manifold_NN1 can_VM be_VBI constructed_VVN that_DD1 is_VBZ topologically_RR equivalent_JJ but_CCB not_XX differentiably_RR equivalent_JJ to_II the_AT Euclidean_JJ four-manifold_NN1 ._. 
+</s>
+<s>
+When_CS considered_VVN carefully_RR ,_, this_DD1 is_VBZ quite_RG a_AT1 stunning_JJ statement_NN1 ._. 
+</s>
+<s>
+As_CS21 if_CS22 it_PPH1 were_VBDR n't_XX fascinating_JJ enough_RR that_CST we_PPIS2 can_VM construct_VVI such_DA "_" exotic_JJ "_" manifolds_NN2 but_CCB moreover_RR ,_, this_DD1 is_VBZ only_RR true_JJ for_IF n_ZZ1 =_FO 4_MC !_! 
+</s>
+<s>
+The_AT proper_JJ statement_NN1 is_VBZ a_AT1 corollary_NN1 of_IO a_AT1 long_JJ and_CC complicated_JJ theorem_NN1 which_DDQ we_PPIS2 will_VM soon_RR develop_VVI ._. 
+</s>
+<s>
+First_MD ,_, we_PPIS2 need_VV0 some_DD familiarity_NN1 with_IW topological_JJ reasoning_NN1 ._. 
+</s>
+<s>
+Topology_NN1 is_VBZ a_AT1 study_NN1 of_IO the_AT properties_NN2 of_IO a_AT1 space_NN1 that_CST remain_VV0 the_AT same_DA under_II homeomorphism_NN1 ._. 
+</s>
+<s>
+Familiarity_NN1 with_IW topology_NN1 and_CC some_DD differential_JJ topology_NN1 is_VBZ assumed_VVN so_CS we_PPIS2 discuss_VV0 this_DD1 point_NN1 briefly_RR ,_, so_CS21 that_CS22 we_PPIS2 may_VM move_VVI quickly_RR to_II cohomology_NN1 and_CC more_RGR algebraic_JJ ideas_NN2 ._. 
+</s>
+<s>
+A_AT1 homeo-morphism_NN1 is_VBZ a_AT1 bijective_JJ ,_, continuous_JJ function_NN1 with_IW continuous_JJ inverse_NN1 ._. 
+</s>
+<s>
+It_PPH1 can_VM be_VBI thought_VVN of_IO as_CSA the_AT correspondence_NN1 between_II the_AT point_NN1 of_IO spaces_NN2 A_ZZ1 and_CC B_ZZ1 when_CS we_PPIS2 deform_VV0 A_ZZ1 into_II B._NP1 A_ZZ1 manifold_NN1 will_VM be_VBI defined_VVN more_RGR accurately_RR below_RL but_CCB we_PPIS2 can_VM think_VVI of_IO it_PPH1 in_II a_AT1 simple_JJ way_NN1 as_II a_AT1 topological_JJ space_NN1 in_II which_DDQ the_AT small_JJ bit_NN1 surrounding_VVG each_DD1 point_NN1 can_VM be_VBI compared_VVN to_II an_AT1 Euclidean_JJ space_NN1 ._. 
+</s>
+<s>
+For_REX21 example_REX22 ,_, the_AT torus_NN1 is_VBZ a_AT1 manifold_NN1 since_CS each_DD1 point_NN1 lies_VVZ in_II a_AT1 slightly_RR curved_JJ area_NN1 that_CST can_VM be_VBI deformed_VVN% into_II a_AT1 disk_NN1 in_II the_AT plane_NN1 ,_, but_CCB the_AT cone_NN1 is_VBZ not_XX a_AT1 manifold_NN1 since_CS the_AT neighbourhood_NN1 of_IO its_APPGE vertex_NN1 can_VM not_XX be_VBI deformed_VVN% into_II a_AT1 piece_NN1 of_IO the_AT Euclidean_JJ plane_NN1 ._. 
+</s>
+<s>
+We_PPIS2 give_VV0 results_NN2 that_CST we_PPIS2 need_VV0 later_RRR as_II31 well_II32 as_II33 a_AT1 few_DA2 other_JJ interesting_JJ results_NN2 ._. 
+</s>
+<s>
+For_IF an_AT1 open_JJ set_NN1 ,_, a_AT1 mapping_NN1 is_VBZ smooth(1)_FO if_CS it_PPH1 has_VHZ continuous_JJ partial_JJ derivatives_NN2 of_IO all_DB orders_NN2 ._. 
+</s>
+<s>
+For_IF ,_, with_IW not_XX open_RR ,_, is_VBZ smooth(2)_FO if_CS it_PPH1 can_VM be_VBI locally_RR extended_VVN to_II smooth(1)_FO map_NN1 on_II open_JJ sets_NN2 ._. 
+</s>
+<s>
+In_II other_JJ words_NN2 ,_, if_CS around_RP there_EX exists_VVZ an_AT1 open_JJ set_NN1 and_CC a_AT1 smooth(1)_FO map_NN1 such_CS21 that_CS22 on_RP ._. 
+</s>
+<s>
+A_ZZ1 smooth(2)_FO map_NN1 ,_, for_IF ,_, ,_, is_VBZ a_AT1 differomorphism_NN1 if_CS it_PPH1 is_VBZ bijective_JJ with_IW also_RR smooth(2)_FO ._. 
+</s>
+<s>
+X_ZZ1 and_CC Y_ZZ1 are_VBR diffeomorphic_JJ if_CS there_EX exists_VVZ such_DA an_AT1 f_ZZ1 ._. 
+</s>
+<s>
+Equipped_VVN with_IW the_AT above_JJ we_PPIS2 can_VM now_RT define_VVI smooth_JJ manifolds_NN2 ._. 
+</s>
+<s>
+A_AT1 k-dimensional_JJ smooth_JJ manifold_NN1 is_VBZ a_AT1 subset_NN1 which_DDQ is_VBZ locally_RR diffeomorphic_JJ to_TO -_- for_IF now_RT we_PPIS2 will_VM call_VVI X_II% a_AT1 k-dimensional_JJ manifold_NN1 ._. 
+</s>
+<s>
+This_DD1 means_VVZ that_CST for_IF each_DD1 ,_, there_EX is_VBZ a_AT1 neighbourhood_NN1 V_II which_DDQ is_VBZ diffeomorphic_JJ to_II an_AT1 open_JJ set_NN1 ._. 
+</s>
+<s>
+The_AT diffeomorphism_NN1 is_VBZ known_VVN as_II a_AT1 parametrization_NN1 ._. 
+</s>
+<s>
+This_DD1 makes_VVZ the_AT n-manifold_NN1 very_RG interesting_JJ to_II those_DD2 who_PNQS are_VBR exploring_VVG Euclidean_JJ n-dimensional_JJ spaces_NN2 &lsqb;_( GP74_FO ,_, M74_FO &rsqb;_) ._. 
+</s>
+<s>
+Example_NN1 1_MC1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM show_VVI that_CST the_AT circle_NN1 is_VBZ a_AT1 1-manifold_NN1 ._. 
+</s>
+<s>
+First_MD suppose_VV0 y_ZZ1 0_MC ,_, then_RT is_VBZ a_AT1 bijection_NN1 of_IO the_AT open_JJ interval_NN1 onto_II the_AT upper_JJ semicircle_NN1 ._. 
+</s>
+<s>
+Its_APPGE inverse_NN1 is_VBZ smooth_JJ extending_VVG to_II a_AT1 smooth_JJ map_NN1 ._. 
+</s>
+<s>
+So_RR is_VBZ a_AT1 diffeomorphism_NN1 ._. 
+</s>
+<s>
+This_DD1 map_NN1 and_CC parametrize_VV0 S1except_FO around_II the_AT points_NN2 ,_, ._. 
+</s>
+<s>
+For_IF these_DD2 points_NN2 we_PPIS2 use_VV0 ,_, mapping_VVG to_II the_AT left_JJ and_CC right_JJ semicircles_NN2 ._. 
+</s>
+<s>
+So_RR by_II covering_VVG it_PPH1 with_IW parametrizations_NN2 ,_, we_PPIS2 have_VH0 shown_VVN that_CST the_AT circle_NN1 is_VBZ a_AT1 1-manifold_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM use_VVI the_AT same_DA argument_NN1 to_TO show_VVI that_CST the_AT n-sphere_NN1 is_VBZ an_AT1 n-manifold_NN1 ._. 
+</s>
+<s>
+Suppose_VV0 that_CST for_IF ,_, then_RT for_IF is_VBZ a_AT1 bijection_NN1 from_II onto_II the_AT n-sphere_NN1 above_II the-axis_NN1 ._. 
+</s>
+<s>
+Its_APPGE inverse_NN1 extend_VV0 to_II a_AT1 smooth_JJ map_NN1 so_RR is_VBZ a_AT1 parametrization_NN1 ._. 
+</s>
+<s>
+We_PPIS2 proceed_VV0 as_CSA in_II the_AT previous_JJ case_NN1 ,_, to_TO give_VVI local_JJ parametrizations_NN2 about_II all_DB pints_NNU2 except_II the_AT axis_NN1 points_NN2 ._. 
+</s>
+<s>
+of_IO which_DDQ there_EX are_VBR 2n_FO ._. 
+</s>
+<s>
+We_PPIS2 can_VM cover_VVI these_DD2 with_IW new_JJ parametrizations_NN2 ,_, as_CSA above_RL ,_, finally_RR covering_VVG the_AT n-sphere_NN1 in_II 2n_FO +_FO 2_MC parametrizations_NN2 ._. 
+</s>
+<s>
+So_RR then_RT the_AT n-sphere_NN1 in_RP is_VBZ a_AT1 n-manifold_NN1 ._. 
+</s>
+<s>
+Now_RT for_IF an_AT1 enlightening_JJ proposition_NN1 ,_, ._. 
+</s>
+<s>
+Theorem_NN1 2_MC ._. 
+</s>
+<s>
+Every_AT1 point_NN1 in_II X_ZZ1 ,_, a_AT1 k-dimensional_JJ manifold_NN1 ,_, has_VHZ a_AT1 neighbourhood_NN1 diffeomorphic_JJ to_II all_DB ofM_VV0 ,_, k_ZZ1 ._. 
+</s>
+<s>
+Proof_NN1 :_: Let_VV0 with_IW ._. 
+</s>
+<s>
+The_AT map_NN1 defined_VVD by_RP% is_VBZ a_AT1 diffeomorphism_NN1 of_IO onto_II ._. 
+</s>
+<s>
+We_PPIS2 see_VV0 that_CST there_EX is_VBZ a_AT1 bijection_NN1 from_II to_II and_CC that_DD1 can_VM be_VBI locally_RR extended_VVN to_II a_AT1 smooth_JJ map_NN1 on_II open_JJ sets_NN2 and_CC is_VBZ therefore_RR smooth_JJ ._. 
+</s>
+<s>
+Let_VV0 X_ZZ1 be_VBI a_AT1 k-manifold_NN1 ,_, so_CS each_DD1 posseses_NN2 a_AT1 neighbourhood_NN1 V_II which_DDQ is_VBZ diffeomorphic_JJ to_II U_ZZ1 open_VV0 in_RP ._. 
+</s>
+<s>
+Then_RT we_PPIS2 can_VM take_VVI U_JJ diffeomorphic_JJ to_II all_DB of_IO ,_, in_II which_DDQ case_NN1 so_RR is_VBZ V_ZZ1 since_CS diffeomorphism_NN1 holds_VVZ under_II composition_NN1 ._. 
+</s>
+<s>
+._. We_PPIS2 recall_VV0 that_CST the_AT derivative_NN1 of_IO f_ZZ1 at_II x_ZZ1 ,_, denoted_VVD dxf_NNU ,_, is_VBZ the_AT best_JJT linear_JJ approximation_NN1 of_IO f_ZZ1 ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, dxf_NNU is_VBZ the_AT unique_JJ map_NN1 with_IW the_AT property_NN1 ._. 
+</s>
+<s>
+We_PPIS2 suppose_VV0 and_CC is_VBZ a_AT1 local_JJ parametrization_NN1 for_IF V_ZZ1 open_VV0 in_RP ._. 
+</s>
+<s>
+Let_VV0 f(0)_FO =_FO x_ZZ1 ,_, then_RT ._. 
+</s>
+<s>
+The_AT tangent_JJ space_NN1 at_II the_AT point_NN1 x_ZZ1 of_IO a_AT1 manifold_NN1 ._. is_VBZ the_AT image_NN1 of_IO ,_, denoted_VVD ._. 
+</s>
+<s>
+A_AT1 tangent_JJ vector_NN1 to_II X_ZZ1 at_II x_ZZ1 is_VBZ a_AT1 point_NN1 v_II lying_VVG in_RP ,_, a_AT1 vector_NN1 subspace_NN1 of_IO ._. 
+</s>
+<s>
+There_EX exists_VVZ a_AT1 slight_JJ ambiguity_NN1 about_II whether_CSW different_JJ local_JJ parametrizations_NN2 will_VM give_VVI the_AT same_DA tangent_JJ space.Take_NNU ,_, and_CC we_PPIS2 may_VM assume_VVI that_CST f(V)_NNU =_FO g(U)_NN1 ._. 
+</s>
+<s>
+Now_RT is_VBZ a_AT1 diffeomorphism_NN1 ._. 
+</s>
+<s>
+Write_VV0 and_CC differentiate_VV0 to_TO get_VVI ._. 
+</s>
+<s>
+This_DD1 implies_VVZ that_DD1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM reverse_VVI f_ZZ1 ,_, g_ZZ1 giving_VVG so_RR is_VBZ well_RR defined_VVN ._. 
+</s>
+<s>
+We_PPIS2 can_VM then_RT show_VVI that_CST has_VHZ dimension_NN1 M._NN1 Let_VV0 W_ZZ1 be_VBI an_AT1 open_JJ set_NN1 in_II and_CC choose_VV0 a_AT1 smooth_JJ map_NN1 ,_, extending_VVG f_ZZ1 1_MC1 ._. 
+</s>
+<s>
+the_AT identity_NN1 map_NN1 of_IO V._II The_AT chain_NN1 rules_NN2 gives_VVZ the_AT identity_NN1 map_NN1 of_IO as_CSA ._. 
+</s>
+<s>
+Then_RT is_VBZ an_AT1 isomorphism_NN1 ,_, so_CS the_AT dimension_NN1 of_IO is_VBZ M._NN1 The_AT derivative_NN1 of_IO a_AT1 smooth_JJ map_NN1 of_IO manifolds_NN2 at_II a_AT1 point_NN1 x_ZZ1 is_VBZ a_AT1 linear_JJ transformation_NN1 for_IF f(x)_NNU =_FO y_ZZ1 &lsqb;_( GP74_FO &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 derivative_NN1 can_VM be_VBI shown_VVN to_TO satisfy_VVI the_AT chain_NN1 rule_NN1 (_( any_DD text_NN1 of_IO manifolds_NN2 )_) ._. 
+</s>
+<s>
+We_PPIS2 also_RR see_VV0 that_CST it_PPH1 is_VBZ the_AT same_DA as_CSA the_AT usual_JJ derivative_NN1 for_IF maps_NN2 on_II Euclidean_JJ space_NN1 ._. 
+</s>
+<s>
+Let_VV0 and_CC parametrise_VVI X_ZZ1 ,_, Y_ZZ1 about_II x_ZZ1 ,_, y_ZZ1 for_IF ,_, and_CC ,_, ._. 
+</s>
+<s>
+For_IF appropriate_JJ U_ZZ1 ,_, giving_VVG ._. 
+</s>
+<s>
+We_PPIS2 can_VM show_VVI that_CST this_DD1 definition_NN1 is_VBZ independent_JJ of_IO parametrization_NN1 ._. 
+</s>
+<s>
+Let_VV0 and_CC with_IW ,_, ._. 
+</s>
+<s>
+Assume_VV0 ,_, ._. 
+</s>
+<s>
+The_AT maps_NN2 ,_, are_VBR diffeomorphisms_NN2 ._. 
+</s>
+<s>
+Then_RT independence_NN1 follows_VVZ ._. 
+</s>
+<s>
+A_AT1 local_JJ diffeomorphism_NN1 f_ZZ1 at_II x_ZZ1 is_VBZ a_AT1 smooth_JJ map_NN1 of_IO manifolds_NN2 X_ZZ1 ,_, Y_ZZ1 that_CST carries_VVZ a_AT1 neighbourhood_NN1 of_IO x_ZZ1 diffeomorhically_RR onto_II a_AT1 neighbourhood_NN1 of_IO f(x)_NNU =_FO y_ZZ1 &lsqb;_( M88_FO &rsqb;_) ._. 
+</s>
+<s>
+Theorem_NN1 3_MC ._. 
+</s>
+<s>
+(_( Inverse_JJ function_NN1 Theorem_NN1 )_) Suppose_VV0 that_DD1 is_VBZ a_AT1 smooth_JJ map_NN1 with_IW dxf_NNU at_II x_MC being_VBG an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+Then_RT f_ZZ1 is_VBZ a_AT1 local_JJ diffeomorphism_NN1 at_II x_ZZ1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 seen_VVN many_DA2 interpretations_NN2 and_CC proofs_NN2 of_IO the_AT IFT_NN1 before_RT ._. 
+</s>
+<s>
+However_RRQV we_PPIS2 apply_VV0 it_PPH1 ,_, is_VBZ is_VBZ an_AT1 amazing_JJ result_NN1 ._. 
+</s>
+<s>
+If_CS dimX_NN1 dimY_NN1 we_PPIS2 have_VH0 injective_JJ at_RR21 best_RR22 ._. 
+</s>
+<s>
+If_CS this_DD1 is_VBZ true_JJ ,_, f_ZZ1 is_VBZ an_AT1 immersion_NN1 at_II x_ZZ1 ._. 
+</s>
+<s>
+The_AT canonical_JJ immersion_NN1 is_VBZ the_AT inclusion_NN1 of_IO into_II ._. 
+</s>
+<s>
+Theorem_NN1 4_MC ._. 
+</s>
+<s>
+(_( Local_JJ Immersion_NN1 Theorem_NN1 )_) Suppose_VV0 that_DD1 is_VBZ an_AT1 immersion_NN1 at_II x_ZZ1 and_CC that_DD1 f(x)_NNU =_FO y_ZZ1 ._. 
+</s>
+<s>
+Then_RT f_ZZ1 is_VBZ locally_RR equivalent_JJ to_II the_AT canonical_JJ immersion_NN1 near_II x_ZZ1 ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 :_: The_AT proof_NN1 works_VVZ very_RG simply_RR by_II taking_VVG and_CC constructing_VVG a_AT1 map_NN1 and_CC for_IF ._. 
+</s>
+<s>
+We_PPIS2 find_VV0 that_CST we_PPIS2 can_VM apply_VVI the_AT IFT_NP1 (_( old_JJ )_) to_II G_ZZ1 and_CC that_CST it_PPH1 is_VBZ a_AT1 diffeomorphism_NN1 from_II some_DD neighbourhood_NN1 of_IO to_II a_AT1 neighbourhood_NN1 of_IO ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 where_CS c_ZZ1 is_VBZ the_AT canonical_JJ submersion_NN1 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 take_VV0 a_AT1 new_JJ parametrization_NN1 on_II X_MC around_RG x_MC to_TO show_VVI that_CST f_ZZ1 is_VBZ locally_RR equivalent_JJ to_II c_ZZ1 ._. 
+</s>
+<s>
+&lsqb;_( M05_FO &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 map_NN1 is_VBZ proper_JJ if_CS the_AT preimage_NN1 of_IO every_AT1 compact_JJ set_NN1 is_VBZ compact_JJ ._. 
+</s>
+<s>
+An_AT1 immersion_NN1 that_CST is_VBZ injective_JJ and_CC proper_JJ is_VBZ an_AT1 embedding_NN1 ._. 
+</s>
+<s>
+The_AT next_MD theorem_NN1 is_VBZ proved_VVN in_II &lsqb;_( GP74_FO &rsqb;_) ._. 
+</s>
+<s>
+Theorem_NN1 5_MC ._. 
+</s>
+<s>
+An_AT1 embedding_NN1 is_VBZ a_AT1 diffeomorphism_NN1 of_IO X_ZZ1 onto_II a_AT1 submanifold_JJ ofY._NNU f_ZZ1 is_VBZ a_AT1 submersion_NN1 at_II x_ZZ1 if_CS is_VBZ surjective_JJ ._. 
+</s>
+<s>
+The_AT canonical_JJ submersion_NN1 is_VBZ the_AT projection_NN1 of_IO onto_II ._. 
+</s>
+<s>
+Then_RT we_PPIS2 have_VH0 the_AT following_JJ theorem_NN1 -_- a_AT1 proof_NN1 is_VBZ omitted_VVN but_CCB is_VBZ analogous_JJ to_II the_AT local_JJ immersion_NN1 theorem_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 6_MC ._. 
+</s>
+<s>
+(_( Local_JJ Submersion_NN1 Theorem_NN1 )_) Suppose_VV0 that_DD1 is_VBZ a_AT1 submersion_NN1 at_II x_ZZ1 and_CC that_DD1 f(x)_NNU =_FO y_ZZ1 ._. 
+</s>
+<s>
+Then_RT f_ZZ1 is_VBZ locally_RR equivalent_JJ to_II the_AT canonical_JJ submersion_NN1 near_II x_ZZ1 ._. 
+</s>
+<s>
+For_IF ,_, the_AT preimage_NN1 of_IO y_ZZ1 ,_, ,_, is_VBZ the_AT subset_NN1 of_IO X_ZZ1 containing_VVG x_ZZ1 such_CS21 that_CS22 f(x)_NNU =_FO y_ZZ1 ._. 
+</s>
+<s>
+A_AT1 regular_JJ value_NN1 for_IF f_ZZ1 is_VBZ a_AT1 such_CS21 that_CS22 for_IF and_CC x_ZZ1 such_CS21 that_CS22 f(x)_NNU =_FO y_ZZ1 ,_, is_VBZ surjective_JJ ._. 
+</s>
+<s>
+A_AT1 critical_JJ value_NN1 is_VBZ one_PN1 which_DDQ is_VBZ not_XX regular_JJ ._. 
+</s>
+<s>
+Theorem_NN1 7_MC ._. 
+</s>
+<s>
+If_CS y_ZZ1 is_VBZ a_AT1 regular_JJ value_NN1 of_IO the_AT submersion_NN1 then_RT is_VBZ a_AT1 submanifold_JJ of_IO X_ZZ1 with_IW ._. 
+</s>
+<s>
+Proof_NN1 :_: Let_VV0 and_CC y_ZZ1 corresponds_VVZ to_TO ._. 
+</s>
+<s>
+Near_II x_ZZ1 ,_, is_VBZ the_AT set_NN1 -_- is_VBZ the_AT set_NN1 of_IO points_NN2 where_RRQ the_AT set_NN1 of_IO is_VBZ defined_VVN on_RP ._. 
+</s>
+<s>
+Then_RT form_VV0 a_AT1 coordinate_NN1 system_NN1 on_RP ._. 
+</s>
+<s>
+This_DD1 is_VBZ an_AT1 open_JJ subset_NN1 of_IO ._. 
+</s>
+<s>
+So_RR we_PPIS2 see_VV0 that_DD1 is_VBZ a_AT1 submanifold_JJ of_IO X_ZZ1 with_IW ._. 
+</s>
+<s>
+&lsqb;_( GP74_FO ,_, M88_FO &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 map_NN1 is_VBZ transversal_NN1 to_II the_AT submanifold_JJ if_CS for_IF all_RR &lsqb;_( GP74_FO &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 manifold_JJ X_ZZ1 is_VBZ simply_RR connected_VVN if_CS X_ZZ1 is_VBZ connected_VVN and_CC every_AT1 map_NN1 from_II the_AT circle_NN1 to_II X_ZZ1 is_VBZ homotopic_JJ to_II a_AT1 constant_JJ ._. 
+</s>
+<s>
+This_DD1 is_VBZ a_AT1 generalization_NN1 of_IO regularity_NN1 which_DDQ proves_VVZ useful_JJ in_II the_AT study_NN1 of_IO smooth_JJ manifolds_NN2 ._. 
+</s>
+<s>
+A_AT1 set_NN1 has_VHZ measure_NN1 zero_NN1 if_CS ,_, for_IF every_AT1 ,_, there_EX exists_VVZ a_AT1 countable_JJ collection_NN1 of_IO rectangular_JJ solids_NN2 in_RP such_CS21 that_CS22 and_CC ._. 
+</s>
+<s>
+Study_NN1 of_IO transversality_NN1 and_CC intersection_NN1 is_VBZ very_RG important_JJ in_II some_DD areas_NN2 of_IO research_NN1 involving_VVG manifolds_NN2 ._. 
+</s>
+<s>
+Indeed_RR ,_, the_AT class_NN1 of_IO objects_NN2 to_TO be_VBI studied_VVN is_VBZ enlarged_VVN by_II considering_VVG manifolds_NN2 with_IW boundary_NN1 ,_, spaces_NN2 which_DDQ may_VM fail_VVI to_TO be_VBI manifolds_NN2 ._. 
+</s>
+<s>
+A_AT1 manifold_NN1 with_IW boundary_NN1 is_VBZ defined_VVN as_II a_AT1 subset_NN1 Z_ZZ1 C_ZZ1 R_ZZ1 n_ZZ1 with_IW a_AT1 neighbourhood_NN1 for_IF each_DD1 point_NN1 that_CST is_VBZ diffeomorphic_JJ to_II an_AT1 open_JJ set_NN1 of_IO the_AT upper_JJ half-space_NN1 in_RP ._. 
+</s>
+<s>
+The_AT boundary_NN1 is_VBZ the_AT set_NN1 of_IO points_NN2 of_IO the_AT image_NN1 of_IO the_AT boundary_NN1 of_IO ._. 
+</s>
+<s>
+under_II such_DA a_AT1 local_JJ parametrization_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 8_MC ._. 
+</s>
+<s>
+(_( Sard_NP1 's_GE Theorem_NN1 )_) For_IF a_AT1 smooth_JJ map_NN1 of_IO manifolds_NN2 ,_, the_AT set_NN1 of_IO critical_JJ values_NN2 of_IO f_ZZ1 has_VHZ measure_NN1 zero_NN1 &lsqb;_( M05_FO &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 leads_VVZ to_II an_AT1 interesting_JJ result_NN1 -_- the_AT Whitney_NP1 embedding_NN1 theorem_NN1 ._. 
+</s>
+<s>
+A_AT1 k-manifold_JJ s_ZZ1 ,_, by_II definition_NN1 ,_, a_AT1 subset_NN1 of_IO some_DD Euclidean_JJ space_NN1 for_IF what_DDQ n_ZZ1 does_VDZ contain_VVI a_AT1 differomorphic_JJ copy_NN1 of_IO every_AT1 k-manifold_NN1 ._. 
+</s>
+<s>
+An_AT1 useful_JJ object_NN1 in_II proving_VVG this_DD1 theorem_NN1 is_VBZ the_AT tangent_JJ bundle_NN1 ,_, ._. 
+</s>
+<s>
+Theorem_NN1 9_MC ._. 
+</s>
+<s>
+The_AT tangent_JJ bundle_NN1 of_IO a_AT1 manifold_NN1 is_VBZ another_DD1 manifold_NN1 and_CC ._. 
+</s>
+<s>
+Proof_NN1 :_: Let_VVN be_VBI an_AT1 open_JJ set_NN1 and_CC hence_RR a_AT1 manifold_NN1 ._. 
+</s>
+<s>
+Then_RT and_CC we_PPIS2 see_VV0 is_VBZ open_JJ in_II 's_GE topology_NN1 since_CS is_VBZ open_JJ in_II ._. 
+</s>
+<s>
+Take_VV0 a_AT1 local_JJ parametrization_NN1 with_IW an_AT1 open_JJ set_NN1 and_CC then_RT is_VBZ a_AT1 diffeomorphism._NNU parametrizes_VVZ the_AT open_JJ set_NN1 since_RR ._. 
+</s>
+<s>
+Then_RT every_AT1 point_NN1 of_IO is_VBZ in_II such_DA a_AT1 neighbourhood_NN1 ._. 
+</s>
+<s>
+&lsqb;_( GP74_FO &rsqb;_) ._. 
+</s>
+<s>
+Now_RT we_PPIS2 can_VM prove_VVI the_AT first_MD of_IO Whitney_NP1 's_GE theorems_NN2 ,_, proof_NN1 of_IO which_DDQ is_VBZ discussed_VVN in_II most_DAT books_NN2 on_II the_AT subject_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 10_MC ._. 
+</s>
+<s>
+Every_AT1 k-manifold_NN1 admits_VVZ an_AT1 injective_JJ immersion_NN1 in_RP ._. 
+</s>
+<s>
+&lsqb;_( GP74_FO ,_, M88_FO ,_, M05_FO &rsqb;_) ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 :_: If_CS is_VBZ of_IO k_ZZ1 dimensions_NN2 ,_, ,_, we_PPIS2 produce_VV0 a_AT1 linear_JJ projection_NN1 with_IW a_AT1 restriction_NN1 to_II an_AT1 injective_JJ immersion_NN1 of_IO X._NP1 Let_VVN be_VBI an_AT1 injective_JJ immersion_NN1 with_IW ._. 
+</s>
+<s>
+Define_VV0 a_AT1 map_NN1 and_CC a_AT1 map_NN1 by_II ._. 
+</s>
+<s>
+so_RR Sard_NP1 's_GE theorem_NN1 implies_VVZ that_CST there_EX exists_VVZ which_DDQ is_VBZ not_XX in_II the_AT image_NN1 of_IO either_DD1 map_NN1 ._. 
+</s>
+<s>
+Let_VV0 where_RRQ and_CC then_RT is_VBZ injective_JJ ._. 
+</s>
+<s>
+Suppose_VV0 but_CCB x=y_FO and_CC it_PPH1 is_VBZ simple_JJ to_TO show_VVI that_CST this_DD1 contradicts_VVZ the_AT choice_NN1 of_IO a_AT1 ,_, as_CSA does_VDZ assuming_NN1% that_CST is_VBZ such_CS21 that_CS22 ._. 
+</s>
+<s>
+._. Whitney_NP1 formulated_VVD two_MC more_DAR results_NN2 ,_, refining_VVG the_AT previous_JJ proof_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 11_MC ._. 
+</s>
+<s>
+Every_AT1 k-manifold_NN1 embeds_VVZ in_RP ._. 
+</s>
+<s>
+Theorem_NN1 12_MC ._. 
+</s>
+<s>
+Every_AT1 k-manifold_NN1 admits_VVZ an_AT1 injective_JJ immersion_NN1 in_RP ._. 
+</s>
+<s>
+Now_RT a_AT1 few_DA2 ideas_NN2 we_PPIS2 will_VM need_VVI later_RRR ._. 
+</s>
+<s>
+A_AT1 Riemannian_JJ metric_JJ on_II a_AT1 smooth_JJ manifold_NN1 X_ZZ1 is_VBZ a_AT1 collection_NN1 of_IO inner_JJ products_NN2 on_II the_AT tangent_JJ space_NN1 for_IF all_DB such_DA that_CST is_VBZ a_AT1 smooth_JJ function_NN1 on_II the_AT set_NN1 for_IF and_CC ._. 
+</s>
+<s>
+A_AT1 Riemannian_JJ manifold_NN1 is_VBZ a_AT1 manifold_NN1 with_IW Riemannian_JJ structure_NN1 &lsqb;_( D903_FO &rsqb;_) ._. 
+</s>
+<s>
+To_TO close_VVI we_PPIS2 look_VV0 at_II the_AT definition_NN1 of_IO a_AT1 topological_JJ manifold_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ a_AT1 manifold_NN1 ,_, a_AT1 smooth_JJ manifold_NN1 ,_, missing_VVG a_AT1 few_DA2 properties_NN2 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 as_CSA follows_VVZ ._. 
+</s>
+<s>
+Recall_VV0 that_CST a_AT1 topological_JJ space_NN1 X_ZZ1 is_VBZ Hausdorff_NN1 if_CS ,_, ,_, for_IF distinct_JJ x_ZZ1 ,_, and_CC U_ZZ1 ,_, V_ZZ1 open_VV0 in_II X._NP1 A_ZZ1 topological_JJ Hausdorff_NN1 space_NN1 X_ZZ1 is_VBZ known_VVN as_II a_AT1 n-dimensional_JJ topological_JJ manifold_NN1 if_CS it_PPH1 has_VHZ countable_JJ basis_NN1 for_IF its_APPGE topology_NN1 and_CC it_PPH1 is_VBZ locally_RR homeomorphic_JJ to_II &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+We_PPIS2 assume_VV0 familiarity_NN1 with_IW homology_NN1 ,_, so_CS we_PPIS2 give_VV0 only_RR basic_JJ definitions_NN2 ._. 
+</s>
+<s>
+A_AT1 homotopy_NN1 of_IO continuous_JJ maps_NN2 is_VBZ a_AT1 family_NN1 ,_, 0_MC t_ZZ1 1_MC1 such_CS21 that_CS22 ,_, are_VBR independent_JJ of_IO t_ZZ1 and_CC ,_, is_VBZ continuous_JJ ._. 
+</s>
+<s>
+Two_MC continuous_JJ maps_NN2 ,_, are_VBR homotopic_JJ ,_, ,_, when_CS connected_VVN in_II this_DD1 way_NN1 ._. 
+</s>
+<s>
+Homotopy_NN1 can_VM ,_, of_RR21 course_RR22 ,_, be_VBI shown_VVN to_TO be_VBI an_AT1 equivalence_NN1 relation_NN1 and_CC the_AT equivalence_NN1 classes_NN2 are_VBR called_VVN homotopy_NN1 classes_NN2 of_IO f_ZZ1 ,_, &lsqb;_( f_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 loop_NN1 is_VBZ a_AT1 continuous_JJ map_NN1 with_IW ._. 
+</s>
+<s>
+The_AT set_NN1 of_IO homotopy_NN1 classes_NN2 of_IO f_ZZ1 forms_VVZ the_AT fundamental_JJ group_NN1 ,_, ._. 
+</s>
+<s>
+The_AT fundamental_JJ group_NN1 is_VBZ an_AT1 useful_JJ tool_NN1 for_IF studying_VVG and_CC distinguishing_VVG between_II topological_JJ surfaces_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ because_CS homeomorphic_JJ spaces_NN2 have_VH0 isomorphic_JJ fundamental_JJ groups_NN2 ._. 
+</s>
+<s>
+However_RR ,_, its_APPGE usefulness_NN1 does_VDZ not_XX extend_VVI to_II higher_JJR dimensions_NN2 ._. 
+</s>
+<s>
+So_RR we_PPIS2 construct_VV0 the_AT homology_NN1 groups_NN2 to_TO serve_VVI this_DD1 purpose_NN1 ._. 
+</s>
+<s>
+We_PPIS2 are_VBR already_RR familiar_JJ with_IW this_DD1 topic_NN1 so_CS we_PPIS2 will_VM revisit_VVI only_RR the_AT basic_JJ points_NN2 ._. 
+</s>
+<s>
+The_AT n-simplex_NN1 is_VBZ the_AT smallest_JJT convex_JJ set_NN1 in_II containing_VVG n_ZZ1 +_FO 1_MC1 points_NN2 ._. 
+</s>
+<s>
+A_AT1 simplical_JJ complex_NN1 is_VBZ a_AT1 finite_JJ collection_NN1 of_IO simplexes_NN2 in_II some_DD Euclidean_JJ space_NN1 ,_, so_CS21 that_CS22 if_CS a_AT1 simplex_NN1 lies_VVZ in_II the_AT collection_NN1 so_RR does_VDZ each_DD1 of_IO its_APPGE faces_NN2 ;_; and_CC so_CS21 that_CS22 two_MC intersecting_JJ simplexes_NN2 belonging_VVG to_II the_AT collection_NN1 intersect_VV0 in_II a_AT1 common_JJ face_NN1 ._. 
+</s>
+<s>
+Let_VV0 X_ZZ1 be_VBI a_AT1 finite_JJ simplical_JJ complex_NN1 ,_, and_CC we_PPIS2 assign_VV0 to_II it_PPH1 a_AT1 collection_NN1 of_IO groups_NN2 called_VVN the_AT simplical_JJ homology_NN1 groups_NN2 for_IF ._. 
+</s>
+<s>
+If_CS an_AT1 edge_NN1 of_IO a_AT1 polygonal_JJ curve_NN1 has_VHZ vertices_NN2 v_ZZ1 ,_, w_ZZ1 then_RT (_( v_ZZ1 ,_, w_ZZ1 )_) denotes_VVZ an_AT1 orientation_NN1 of_IO the_AT edge_NN1 from_II v_ZZ1 to_II w_ZZ1 ._. 
+</s>
+<s>
+Then_RT and_CC when_CS we_PPIS2 have_VH0 vertices_NN2 v_ZZ1 ,_, u_ZZ1 ,_, w_ZZ1 of_IO a_AT1 triangle_NN1 of_IO X_ZZ1 with_IW (_( u_ZZ1 ,_, v_ZZ1 ,_, w_ZZ1 )_) denoting_VVG the_AT orientation_NN1 of_IO ordering_VVG the_AT vertices_NN2 ._. 
+</s>
+<s>
+The_AT boundary_NN1 of_IO an_AT1 oriented_JJ edge_NN1 is_VBZ defined_VVN by_II ,_, ._. 
+</s>
+<s>
+Let_VV0 X_ZZ1 be_VBI a_AT1 finite_JJ simplical_JJ complex_NN1 and_CC let_VVN be_VBI the_AT free_JJ abelian_JJ group_NN1 generated_VVN by_II the_AT oriented_JJ simplexes_NN2 ,_, simplexes_VVZ in_II X_ZZ1 with_IW orientation_NN1 ._. 
+</s>
+<s>
+has_VHZ elements_NN2 known_VVN as_II n-chains_NN2 ._. 
+</s>
+<s>
+Then_RT the_AT kth_NNU simplical_JJ homology_NN1 group_NN1 of_IO X_ZZ1 is_VBZ given_VVN by_RP% for_IF a_AT1 boundary_NN1 homomorphism_NN1 defined_VVN by_II where_RRQ the_AT hat_NN1 in_II means_NN that_CST the_AT vertex_NN1 of_IO the_AT n-simplex_NN1 is_VBZ deleted_VVN ._. 
+</s>
+<s>
+Theorem_NN1 13_MC ._. 
+</s>
+<s>
+The_AT composition_NN1 of_IO maps_NN2 given_VVN by_RP% is_VBZ equal_JJ to_TO zero_VVI ._. 
+</s>
+<s>
+Proof_NN1 :_: We_PPIS2 have_VH0 ,_, (_( 1.1_MC )_) which_DDQ zero_NN1 since_CS each_DD1 terms_NN2 appears_VVZ twice_RR with_IW opposite_JJ sign_NN1 ._. 
+</s>
+<s>
+._. The_AT sequence_NN1 with_IW is_VBZ called_VVN a_AT1 chain_NN1 complex_NN1 ._. 
+</s>
+<s>
+implies_VVZ and_CC we_PPIS2 define_VV0 the_AT nth_MD homology_NN1 group_NN1 of_IO the_AT chain_NN1 complex_NN1 as_CSA ._. 
+</s>
+<s>
+When_CS we_PPIS2 call_VV0 this_DD1 particular_JJ homology_NN1 group_NN1 the_AT nth_MD simplical_JJ homology_NN1 group_NN1 ._. 
+</s>
+<s>
+These_DD2 groups_NN2 were_VBDR discovered_VVN by_II Poincare_NP1 ._. 
+</s>
+<s>
+They_PPHS2 were_VBDR then_RT generalized_VVN as_CSA below_RL ._. 
+</s>
+<s>
+Generally_RR ,_, homology_NN1 is_VBZ defined_VVN as_CSA follows_VVZ ._. 
+</s>
+<s>
+The_AT singular_JJ homology_NN1 group_NN1 of_IO X_ZZ1 is_VBZ denoted_VVN where_RRQ is_VBZ as_CSA follows_VVZ ._. 
+</s>
+<s>
+-is_MC2 a_AT1 boundary_NN1 map_NN1 given_VVN by_II as_CSA before_CS where_CS where_RRQ is_VBZ an_AT1 n-chain_NN1 in_II and_CC is_VBZ a_AT1 singular_JJ n-simplex_JJ meaning_NN1 that_CST can_VM have_VHI singularities_NN2 in_II its_APPGE image_NN1 ._. 
+</s>
+<s>
+A_AT1 singular_JJ homology_NN1 group_NN1 is_VBZ isomorphic_JJ to_II most_DAT other_JJ kinds_NN2 of_IO homology_NN1 group_NN1 ._. 
+</s>
+<s>
+What_DDQ we_PPIS2 have_VH0 said_VVN above_RL tells_VVZ us_PPIO2 what_DDQ a_AT1 homology_NN1 group_NN1 in_II a_AT1 rather_RG abstract_JJ but_CCB it_PPH1 would_VM be_VBI hard_JJ to_TO form_VVI a_AT1 clear_JJ picture_NN1 from_II this_DD1 ._. 
+</s>
+<s>
+What_DDQ is_VBZ homology_NN1 actually_RR about_II ?_? 
+</s>
+<s>
+The_AT homology_NN1 group_NN1 is_VBZ just_RR an_AT1 Abelian_JJ group_NN1 that_CST 'counts_NN2 '_GE the_AT number_NN1 of_IO holes_NN2 in_II a_AT1 given_JJ topological_JJ space_NN1 -_- the_AT places_NN2 where_RRQ there_EX is_VBZ some_DD disconnectivity_NN1 in_II the_AT space_NN1 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 of_IO singular_JJ homology_NN1 ,_, a_AT1 measure_NN1 of_IO the_AT hole_NN1 structure_NN1 of_IO a_AT1 space_NN1 is_VBZ formed_VVN by_II the_AT groups_NN2 ._. 
+</s>
+<s>
+So_RR this_DD1 answers_VVZ the_AT question_NN1 that_CST I_PPIS1 have_VH0 often_RR been_VBN asked_VVN 'What_NN1 information_NN1 does_VDZ a_AT1 homology_NN1 group_NN1 contain_VV0 ?_? '_GE ._. 
+</s>
+<s>
+When_CS you_PPY are_VBR using_VVG cohomology_NN1 to_TO manipulate_VVI some_DD algebraic_JJ construction_NN1 it_PPH1 is_VBZ used_VVN in_II a_AT1 mechanical_JJ way_NN1 ,_, as_CSA is_VBZ also_RR true_JJ for_IF homology_NN1 above_RL ._. 
+</s>
+<s>
+The_AT question_NN1 above_RL is_VBZ modified_VVN to_II yes_UH ,_, but_CCB what_DDQ is_VBZ cohomology_NN1 and_CC why_RRQ do_VD0 you_PPY waste_VVI time_NNT1 finding_VVG out_RP ?_? ._. 
+</s>
+<s>
+Of_RR21 course_RR22 ,_, as_CSA we_PPIS2 find_VV0 out_RP below_RL ,_, cohomology_NN1 of_IO some_DD topological_JJ space_NN1 is_VBZ an_AT1 invariant_JJ that_CST is_VBZ dual_JJ to_II homology_NN1 so_CS you_PPY can_VM think_VVI of_IO it_PPH1 as_CSA finding_VVG holes_NN2 in_II this_DD1 space_NN1 ._. 
+</s>
+<s>
+As_CSA I_PPIS1 have_VH0 discussed_VVN ,_, my_APPGE opinion_NN1 is_VBZ that_CST algebraists_NN2 generally_RR have_VH0 even_RR less_DAR of_IO an_AT1 idea_NN1 what_DDQ homology_NN1 is_VBZ about_RP ,_, perhaps_RR due_II21 to_II22 over-specialization_NN1 ._. 
+</s>
+<s>
+Cohomology_NN1 ,_, we_PPIS2 will_VM se_VVI later_RRR ,_, is_VBZ a_AT1 graded_JJ ring_NN1 and_CC so_RR has_VHZ more_RGR algebraic_JJ structure_NN1 than_CSN homology_NN1 -_- so_CS it_PPH1 has_VHZ many_DA2 more_DAR uses_NN2 ._. 
+</s>
+<s>
+The_AT question_NN1 here_RL is_VBZ the_AT philosophical_JJ one_PN1 of_IO whether_CSW such_DA over-specialization_NN1 is_VBZ good_JJ for_IF mathematics_NN1 as_CSA a_AT1 whole_NN1 ?_? 
+</s>
+<s>
+Obviously_RR ,_, specialization_NN1 is_VBZ necessary_JJ but_CCB the_AT question_NN1 to_TO ask_VVI is_VBZ whether_CSW we_PPIS2 should_VM be_VBI in_II a_AT1 situation_NN1 where_RRQ homology_NN1 and_CC cohomology_NN1 are_VBR used_VVN on_II a_AT1 daily_JJ basis_NN1 by_II people_NN who_PNQS have_VH0 no_AT sense_NN1 of_IO what_DDQ they_PPHS2 mean_VV0 ._. 
+</s>
+<s>
+It_PPH1 's_VBZ a_RR21 bit_RR22 like_II a_AT1 claim_NN1 to_TO understand_VVI Mozart_NP1 's_GE 23rd_MD Piano_NN1 Concerto_NN1 just_RR because_CS you_PPY can_VM play_VVI the_AT piano_NN1 ._. 
+</s>
+<s>
+Cohomology_NN1 is_VBZ defined_VVN in_II a_AT1 similar_JJ way_NN1 to_II homology_NN1 ._. 
+</s>
+<s>
+We_PPIS2 start_VV0 with_IW the_AT vector_NN1 space_NN1 case_NN1 ._. 
+</s>
+<s>
+Let_VV0 there_EX be_VBI a_AT1 sequence_NN1 C_ZZ1 is_VBZ called_VVN exact_JJ when_CS ,_, an_AT1 exact_JJ sequence_NN1 ._. 
+</s>
+<s>
+Let_VV0 the_AT sequence_NN1 of_IO vector_NN1 spaces_NN2 and_CC linear_JJ maps_NN2 with_IW be_VBI called_VVN a_AT1 chain_NN1 complex_NN1 ._. 
+</s>
+<s>
+For_IF a_AT1 chain_NN1 complex_NN1 ,_, then_RT we_PPIS2 define_VV0 the_AT nth_MD cohomology_NN1 vector_NN1 space_NN1 to_TO be_VBI ._. 
+</s>
+<s>
+The_AT elements_NN2 of_IO are_VBR called_VVN n-cycles_NN2 and_CC elements_NN2 of_IO are_VBR known_VVN as_II n-boundaries_NN2 ._. 
+</s>
+<s>
+The_AT elements_NN2 of_IO H_ZZ1 n_ZZ1 are_VBR known_VVN as_II cohomology_NN1 classes_NN2 ._. 
+</s>
+<s>
+Similar_JJ for_IF the_AT case_NN1 for_IF free_JJ abelian_JJ groups_NN2 C_ZZ1 n_ZZ1 ._. 
+</s>
+<s>
+A_AT1 k-linear_JJ map_NN1 ,_, for_IF V_NNU a_AT1 vector_NN1 space_NN1 over_II K_ZZ1 ,_, is_VBZ alternating_JJ if_CS when_CS for_IF some_DD ._. 
+</s>
+<s>
+The_AT space_NN1 of_IO alternating_JJ maps_NN2 is_VBZ denoted_VVN ._. 
+</s>
+<s>
+We_PPIS2 can_VM write_VVI where_RRQ is_VBZ a_AT1 basis_NN1 of_IO V._NNU If_CS we_PPIS2 see_VV0 ._. 
+</s>
+<s>
+Theorem_NN1 14_MC ._. 
+</s>
+<s>
+If_CS and_CC then_RT ._. 
+</s>
+<s>
+Proof_NN1 :_: Let_VV0 where_RRQ are_VBR fixed_VVN ._. 
+</s>
+<s>
+Then_RT and_CC so_RR ._. 
+</s>
+<s>
+._. For_IF ,_, ,_, the_AT exterior_JJ product_NN1 is_VBZ denoted_VVN ,_, .._... 
+</s>
+<s>
+We_PPIS2 have_VH0 the_AT following_JJ ,_, proof_NN1 given_VVN in_II &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+Theorem_NN1 15_MC ._. 
+</s>
+<s>
+If_CS ,_, then_RT ._. 
+</s>
+<s>
+Theorem_NN1 16_MC ._. 
+</s>
+<s>
+A_AT1 k-linear_JJ map_NN1 is_VBZ alternating_JJ if_CS when_CS some_DD for_IF ._. 
+</s>
+<s>
+Proof_NN1 :_: By_II Theorem_NN1 14_MC we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+is_VBZ the_AT exterior_JJ algebra_NN1 of_IO V._NNU Theorem_NN1 17._MC is_VBZ an_AT1 anti-commutative_JJ and_CC connected_JJ graded_JJ algebra_NN1 ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 :_: We_PPIS2 prove_VV0 anti-commutativity_NN1 :_: if_CS and_CC then_RT ._. 
+</s>
+<s>
+Let_VV0 with_IW and_CC we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 (_( 1.2_MC )_) ._. 
+</s>
+<s>
+Associativity_NN1 is_VBZ proved_VVN similarly_RR and_CC then_RT we_PPIS2 can_VM see_VVI that_DD1 connected_JJ is_VBZ graded_VVN and_CC connected_JJ ._. 
+</s>
+<s>
+._. A_ZZ1 differential_JJ k-form_NN1 on_II an_AT1 open_JJ set_NN1 is_VBZ a_AT1 smooth_JJ map_NN1 &lsqb;_( M05_FO &rsqb;_) ._. 
+</s>
+<s>
+The_AT vector_NN1 space_NN1 of_IO such_DA maps_NN2 is_VBZ ._. 
+</s>
+<s>
+We_PPIS2 can_VM write_VVI for_IF acting_VVG on_II points_NN2 ,_, an_AT1 open_JJ set_NN1 ._. 
+</s>
+<s>
+The_AT set_NN1 is_VBZ a_AT1 basis_NN1 of_IO giving_VVG ._. 
+</s>
+<s>
+Then_RT we_PPIS2 can_VM write_VVI as_II ._. 
+</s>
+<s>
+The_AT exterior_JJ differential_NN1 is_VBZ given_VVN by_II where_RRQ is_VBZ the_AT linear_JJ map_NN1 given_VVN by_RP% for_IF ,_, being_VBG smooth_JJ functions_NN2 of_IO U_ZZ1 and_CC is_VBZ a_AT1 basis_NN1 of_IO for_IF the_AT dual_JJ basis_NN1 of_IO from_II Theorem_NN1 14_MC ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 from_II &lsqb;_( H02_FO ,_, MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+Theorem_NN1 18_MC ._. 
+</s>
+<s>
+If_CS for_IF and_CC ,_, we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+The_AT exterior_JJ product_NN1 on_II (_( U_ZZ1 )_) is_VBZ induced_VVN from_II the_AT usual_JJ one_PN1 by_II defining_VVG ._. 
+</s>
+<s>
+Theorem_NN1 19_MC ._. 
+</s>
+<s>
+For_IF and_CC we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+Proof_NN1 :_: ====_FO (_( 1.3_MC )_) &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+Galois_NN1 cohomology_NN1 is_VBZ basically_RR summed_VVN up_RP as_II a_AT1 study_NN1 of_IO the_AT application_NN1 of_IO homological_JJ algebra_NN1 to_II modules_NN2 of_IO Galois_NP1 groups_NN2 ._. 
+</s>
+<s>
+An_AT1 M-automorphism_NN1 of_IO N_ZZ1 is_VBZ an_AT1 automorphism_NN1 with_IW (_( m_ZZ1 )_) =_FO m_ZZ1 for_IF all_DB ._. 
+</s>
+<s>
+Recall_VV0 that_CST the_AT Galois_NP1 group_NN1 of_IO the_AT field_NN1 extension_NN1 N_ZZ1 :_: M_ZZ1 is_VBZ the_AT group_NN1 of_IO all_DB M-automorphisms_NN2 of_IO N_ZZ1 under_II the_AT operation_NN1 of_IO composition_NN1 -_- see_VV0 &lsqb;_( J04_FO &rsqb;_) for_IF proof_NN1 that_CST the_AT set_NN1 of_IO M-automorphisms_NN2 is_VBZ a_AT1 group_NN1 under_II composition_NN1 ._. 
+</s>
+<s>
+Let_VV0 G_ZZ1 be_VBI a_AT1 group_NN1 acting_VVG on_II H_ZZ1 an_AT1 abelian_JJ group_NN1 ._. 
+</s>
+<s>
+H_ZZ1 is_VBZ a_AT1 G-module_NN1 if_CS the_AT action_NN1 g_ZZ1 of_IO G_ZZ1 on_II H_ZZ1 satisfies_VVZ :_: As_CSA we_PPIS2 discussed_VVD for_IF cohomology_NN1 vector_NN1 spaces_NN2 ,_, the_AT first_MD cohomology_NN1 group_NN1 of_IO H_ZZ1 is_VBZ the_AT quotient_NN1 group_NN1 H1_FO (_( G_ZZ1 ,_, H_ZZ1 )_) =_FO Z1_FO (_( G_ZZ1 ,_, H_ZZ1 )_) /B1_NN1 (_( G_ZZ1 ,_, H_ZZ1 )_) ._. 
+</s>
+<s>
+Taking_VVG the_AT groups_NN2 of_IO cochains_NN2 ,_, we_PPIS2 have_VH0 the_AT group_NN1 of_IO cocycles_NN2 and_CC the_AT group_NN1 of_IO coboundaries_NN2 ._. 
+</s>
+<s>
+Let_VV0 F_ZZ1 be_VBI a_AT1 field_NN1 and_CC F_ZZ1 its_APPGE algebraic_JJ closure_NN1 &lsqb;_( J04_FO &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 discrete_JJ -module_NN1 is_VBZ an_AT1 abelian_JJ group_NN1 H_ZZ1 which_DDQ acts_VVZ upon_II such_CS21 that_CS22 the_AT action_NN1 is_VBZ continuous_JJ on_II the_AT discrete_JJ topology_NN1 of_IO H_ZZ1 and_CC the_AT profinite_NN1 topology_NN1 of_IO ._. 
+</s>
+<s>
+The_AT profinite_NN1 topology_NN1 is_VBZ the_AT topology_NN1 of_IO the_AT profinite_NN1 group_NN1 -_- a_AT1 topological_JJ group_NN1 is_VBZ profinite_NN1 if_CS it_PPH1 is_VBZ isomorphic_JJ to_II the_AT inverse_JJ limit_NN1 of_IO some_DD projective_JJ system_NN1 of_IO finite_JJ groups_NN2 ._. 
+</s>
+<s>
+Then_RT the_AT first_MD cohomology_NN1 group_NN1 follows_VVZ after_CS a_RR21 bit_RR22 more_DAR work_NN1 ._. 
+</s>
+<s>
+Say_VV0 that_CST a_AT1 map_NN1 is_VBZ continuous_JJ if_CS it_PPH1 is_VBZ continuous_JJ for_IF both_DB2 the_AT profinite_NN1 topology_NN1 on_II and_CC the_AT discrete_JJ topology_NN1 on_II H._NP1 We_PPIS2 define_VV0 the_AT group_NN1 of_IO continuous_JJ cocycles_NN2 as_CSA being_VBG the_AT group_NN1 os_FO continuous_JJ maps_NN2 satisfying_JJ ._. 
+</s>
+<s>
+H_ZZ1 is_VBZ discrete_JJ so_RR any_DD coboundary_NN1 is_VBZ continuous_JJ ._. 
+</s>
+<s>
+Then_RT the_AT first_MD Galois_NN1 cohomology_NN1 group_NN1 is_VBZ ._. 
+</s>
+<s>
+Theorem_NN1 20_MC ._. 
+</s>
+<s>
+Let_VVN be_VBI an_AT1 exact_JJ sequence_NN1 of_IO G-modules_NN2 ._. 
+</s>
+<s>
+Then_RT there_EX is_VBZ a_AT1 long_JJ exact_JJ sequence_NN1 where_RRQ is_VBZ the_AT cohomology_NN1 class_NN1 of_IO the_AT cocycle_NN1 f_ZZ1 in_II H1_FO (_( G_ZZ1 ,_, A_ZZ1 )_) for_IF ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 :_: We_PPIS2 prove_VV0 this_DD1 in_II three_MC steps_NN2 :_: 1_MC1 )_) First_MD we_PPIS2 show_VV0 that_DD1 is_VBZ exact_JJ ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 so_RR for_IF every_AT1 cohomology_NN1 class_NN1 ._. 
+</s>
+<s>
+Conversely_RR ,_, assume_VV0 for_IF and_CC then_RT ._. 
+</s>
+<s>
+is_VBZ surjective_JJ so_CS there_EX exists_VVZ such_CS21 that_CS22 so_CS that_DD1 ._. 
+</s>
+<s>
+Then_RT there_EX exists_VVZ with_IW ._. 
+</s>
+<s>
+Since_CS is_VBZ injective_JJ we_PPIS2 can_VM show_VVI that_CST a_AT1 is_VBZ a_AT1 k-cycle_NN1 because_CS ._. 
+</s>
+<s>
+Then_RT we_PPIS2 have_VH0 a_AT1 cohomology_NN1 class_NN1 with_IW ._. 
+</s>
+<s>
+2_MC )_) We_PPIS2 now_RT show_VV0 that_DD1 is_VBZ exact_JJ ._. 
+</s>
+<s>
+First_MD ,_, ._. 
+</s>
+<s>
+Conversely_RR we_PPIS2 follow_VV0 a_AT1 similar_JJ argument_NN1 to_II above_RL ._. 
+</s>
+<s>
+3_MC )_) Similar_JJ argument_NN1 to_II above_RL to_TO show_VVI that_DD1 ._. 
+</s>
+<s>
+._. This_DD1 extends_VVZ to_II Galois_NP1 modules_NN2 or_CC generalizes_VVZ to_TO chain_VVI complexes_NN2 ._. 
+</s>
+<s>
+In_II fact_NN1 ,_, most_DAT results_NN2 in_II group_NN1 cohomology_NN1 will_VM extend_VVI to_II Galois_NP1 cohomology_NN1 &lsqb;_( MJ97_FO ,_, M05_FO &rsqb;_) ._. 
+</s>
+<s>
+One_MC1 question_NN1 that_CST has_VHZ been_VBN asked_VVN of_IO me_PPIO1 is_VBZ why_RRQ Galois_NP1 cohomology_NN1 ._. 
+</s>
+<s>
+The_AT answer_NN1 is_VBZ that_CST it_PPH1 has_VHZ many_DA2 applications_NN2 in_II the_AT theory_NN1 of_IO elliptic_JJ curves_NN2 ,_, although_CS this_DD1 is_VBZ conveniently_RR beyond_II the_AT scope_NN1 of_IO this_DD1 discussion_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ involved_JJ in_II the_AT proof_NN1 of_IO the_AT Mordell-Weil_NP1 theorem_NN1 saying_VVG that_CST the_AT Mordell-Weil_NP1 group_NN1 E(K)_NN1 of_IO elliptic_JJ curves_NN2 on_II a_AT1 number_NN1 field_NN1 K_ZZ1 is_VBZ finitely_RR generated_VVN ._. 
+</s>
+<s>
+Recall_VV0 the_AT definition_NN1 of_IO a_AT1 Brauer_NN1 group_NN1 and_CC their_APPGE relation_NN1 to_II associative_JJ division_NN1 algebras_NN2 &lsqb;_( J05_FO &rsqb;_) ._. 
+</s>
+<s>
+Another_DD1 interesting_JJ fact_NN1 is_VBZ that_CST these_DD2 groups_NN2 are_VBR homomorphic_JJ to_II the_AT second_MD Galois_NN1 cohomology_NN1 groups_NN2 under_II certain_JJ conditions_NN2 ._. 
+</s>
+<s>
+Let_VV0 A_ZZ1 be_VBI an_AT1 algebra_NN1 over_II a_AT1 commutative_JJ ring_NN1 R._NP1 Then_RT A/R_ZZ1 is_VBZ an_AT1 Azumaya_NN1 algebra_NN1 if_CS and_CC only_RR if_CS A_ZZ1 is_VBZ faithful_JJ finitely_RR generated_VVN as_II an_AT1 R-module_NN1 and_CC the_AT induced_JJ ring_NN1 homomorphism_NN1 is_VBZ an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 21_MC ._. 
+</s>
+<s>
+A_AT1 finite_JJ dimensional_JJ algebra_NN1 A_ZZ1 over_II the_AT field_NN1 F_ZZ1 is_VBZ central_JJ simple_JJ if_CS and_CC only_RR if_CS A_ZZ1 is_VBZ an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 :_: If_CS A_ZZ1 is_VBZ central_JJ simple_JJ then_RT so_RR is_VBZ A_ZZ1 and_CC so_RR is_VBZ &lsqb;_( J05_FO &rsqb;_) ._. 
+</s>
+<s>
+Then_RT A_AT1 must_NN1 be_VBI injective_JJ surjectivity_NN1 follows_VVZ from_II checking_VVG dimensions_NN2 ._. 
+</s>
+<s>
+Conversely_RR ,_, we_PPIS2 assume_VV0 that_CST A_ZZ1 is_VBZ an_AT1 isomorphism._NNU is_VBZ central_JJ simple_JJ since_CS it_PPH1 is_VBZ a_AT1 matrix_NN1 algebra_NN1 &lsqb;_( J05_FO &rsqb;_) ._. 
+</s>
+<s>
+We_PPIS2 tensor_NN1 an_AT1 ideal_NN1 of_IO A_ZZ1 by_II an_AT1 ideal_NN1 of_IO to_TO get_VVI an_AT1 ideal_NN1 of_IO ._. 
+</s>
+<s>
+is_VBZ central_JJ for_IF central_JJ in_II A._NNU since_II EndF(A)_NP1 is_VBZ a_AT1 matrix_NN1 ring_NN1 ._. 
+</s>
+<s>
+._. Let_VV0 P_ZZ1 be_VBI a_AT1 commutative_JJ ring_NN1 and_CC G_ZZ1 a_AT1 finite_JJ group_NN1 with_IW elements_NN2 acting_VVG as_CSA automorphisms_NN2 on_II P._NP1 Suppose_VV0 is_VBZ a_AT1 2-cocycle_NN1 into_II a_AT1 group_NN1 of_IO units_NN2 ._. 
+</s>
+<s>
+From_II &lsqb;_( J05_FO ,_, S98_FO &rsqb;_) we_PPIS2 see_VV0 that_CST defines_VVZ an_AT1 element_NN1 of_IO ._. 
+</s>
+<s>
+We_PPIS2 can_VM then_RT define_VVI an_AT1 algebra_NN1 known_VVN as_II a_AT1 crossed_JJ product_NN1 on_RP ._. 
+</s>
+<s>
+It_PPH1 is_VBZ possible_JJ to_TO show_VVI from_II this_DD1 that_CST there_EX is_VBZ a_AT1 homomorphism_NN1 to_II from_II ._. 
+</s>
+<s>
+To_TO be_VBI precise_JJ ,_, we_PPIS2 form_VV0 the_AT P-module_NN1 ,_, where_RRQ is_VBZ the_AT image_NN1 of_IO t_ZZ1 under_II for_IF the_AT polynomial_NN1 ring_NN1 P&lsqb;t&rsqb;_NP1 ._. 
+</s>
+<s>
+Theorem_NN1 22_MC ._. 
+</s>
+<s>
+There_EX is_VBZ an_AT1 unique_JJ associative_JJ multiplication_NN1 on_RP such_CS21 that_CS22 and_CC &lsqb;_( S98_FO &rsqb;_) ._. 
+</s>
+<s>
+Take_VV0 -_- is_VBZ an_AT1 R_ZZ1 algebra_NN1 written_VVN and_CC we_PPIS2 say_VV0 that_CST the_AT are_VBR the_AT canonical_JJ elements_NN2 of_IO associated_JJ to_TO ._. 
+</s>
+<s>
+If_CS is_VBZ 1_MC1 it_PPH1 is_VBZ a_AT1 2-cocycle_NN1 ._. 
+</s>
+<s>
+The_AT crossed_JJ product_NN1 is_VBZ then_RT called_VVN trivial_JJ and_CC is_VBZ denoted_VVN ._. 
+</s>
+<s>
+We_PPIS2 then_RT proceed_VV0 to_TO find_VVI that_CST allow_VV0 us_PPIO2 to_TO construct_VVI Azumaya_NP1 algebras_NN2 ._. 
+</s>
+<s>
+We_PPIS2 find_VV0 the_AT P/R_NP1 for_IF which_DDQ the_AT trivial_JJ crossed_JJ product_NN1 is_VBZ Azumaya_NP1 and_CC this_DD1 is_VBZ enough_DD to_TO show_VVI that_CST P/R_ZZ1 is_VBZ a_AT1 Galois_NN1 extension_NN1 if_CS and_CC only_RR if_CS is_VBZ an_AT1 Azumaya_NN1 R-algebra_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 23_MC ._. 
+</s>
+<s>
+Let_VV0 P/R_ZZ1 be_VBI a_AT1 G-Galois_NP1 extension_NN1 ._. 
+</s>
+<s>
+Then_RT :_: i_ZZ1 )_) Then_RT is_VBZ Brauer_NP1 equivalent_JJ to_TO ;_; ii_MC )_) Suppose_VV0 there_EX are_VBR such_CS21 that_CS22 for_IF all_DB ._. 
+</s>
+<s>
+Then_RT ;_; ii_MC i_ZZ1 )_) The_AT crossed_JJ product_NN1 construction_NN1 defines_VVZ a_AT1 group_NN1 homomorphism_NN1 ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 :_: Let_VV0 and_CC let_VVI and_CC let_VVN be_VBI the_AT seperating_JJ idempotent_NN1 discussed_VVN in_II Chapter_NN1 2_MC of_IO &lsqb;_( S98_FO &rsqb;_) ,_, as_CSA an_AT1 element_NN1 of_IO ._. 
+</s>
+<s>
+Set_VV0 and_CC and_CC so_RR we_PPIS2 take_VV0 P_ZZ1 as_II a_AT1 subalgebra_NN1 of_IO A._NP1 We_PPIS2 then_RT show_VV0 that_CST if_CS g_ZZ1 =_FO h_ZZ1 then_RT ._. 
+</s>
+<s>
+So_RR the_AT conclusion_NN1 is_VBZ that_CST A_ZZ1 is_VBZ spanned_VVN over_II S_ZZ1 by_II the_AT and_CC so_RR ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 e_ZZ1 the_AT unique_JJ idempotent_NN1 so_RR ._. 
+</s>
+<s>
+Then_RT so_CS we_PPIS2 can_VM show_VVI ._. 
+</s>
+<s>
+Then_RT there_EX is_VBZ an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+With_IW a_AT1 few_DA2 facts_NN2 regarding_II Brauer_NP1 equivalence_NN1 in_II &lsqb;_( C02_FO &rsqb;_) ,_, this_DD1 proves_VVZ the_AT theorem_NN1 ._. 
+</s>
+<s>
+Let_VV0 and_CC let_VVI ._. 
+</s>
+<s>
+Define_VV0 and_CC letting_NN1 be_VBI the_AT identity_NN1 on_II P._NP1 f_ZZ1 is_VBZ a_AT1 morphism_NN1 of_IO R-algebras_NN2 and_CC is_VBZ an_AT1 isomorphism_NN1 since_CS ,_, are_VBR Azumaya_NP1 algebras_NN2 which_DDQ can_VM be_VBI proved_VVN to_TO be_VBI isomorphic_JJ since_CS they_PPHS2 have_VH0 the_AT same_DA rank_NN1 so_RG ii_MC )_) is_VBZ proved_VVN in_II this_DD1 way_NN1 ._. 
+</s>
+<s>
+Then_RT iii_MC )_) is_VBZ easy_JJ since_CS i_ZZ1 )_) shows_VVZ that_CST it_PPH1 is_VBZ possible_JJ to_TO define_VVI a_AT1 homomorphism_NN1 on_II the_AT group_NN1 of_IO 2-cocycles_NN2 and_CC the_AT fact_NN1 that_CST is_VBZ an_AT1 isomorphism_NN1 if_CS and_CC only_RR if_CS P/R_ZZ1 is_VBZ Galois_NP1 with_IW group_NN1 G_ZZ1 together_RL with_IW ii_MC )_) shows_VVZ that_CST this_DD1 homomorphism_NN1 is_VBZ the_AT identity_NN1 on_II the_AT coboundaries_NN2 ._. 
+</s>
+<s>
+._. It_PPH1 is_VBZ possible_JJ to_TO extend_VVI this_DD1 to_II an_AT1 isomorphism_NN1 where_CS R_ZZ1 is_VBZ a_AT1 field_NN1 and_CC P/R_ZZ1 is_VBZ an_AT1 infinite_JJ Galois_NN1 extension_NN1 ._. 
+</s>
+<s>
+There_EX are_VBR further_JJR ideas_NN2 involved_VVD ,_, such_II21 as_II22 the_AT subject_NN1 of_IO Lie_NN1 algebra_NN1 homology_NN1 of_IO which_DDQ a_AT1 general_JJ exposition_NN1 is_VBZ given_VVN in_II &lsqb;_( GL76_FO &rsqb;_) ._. 
+</s>
+<s>
+This_DD1 is_VBZ idea_NN1 is_VBZ extended_VVN to_II Kac-Moody_JJ algebras_NN2 in_II &lsqb;_( K90_FO &rsqb;_) ,_, and_CC even_RR further_RRR in_II &lsqb;_( J05_FO ,_, J96_FO &rsqb;_) to_II Borcherds_NP2 or_CC generalized_JJ Kac-Moody_JJ algebras_NN2 ._. 
+</s>
+<s>
+The_AT results_NN2 can_VM be_VBI used_VVN to_TO find_VVI a_AT1 character_NN1 formula_NN1 for_IF the_AT Borcherds_NP2 algebras_NN2 ._. 
+</s>
+<s>
+Another_DD1 interesting_JJ idea_NN1 is_VBZ that_DD1 of_IO orbifold_JJ cohomology_NN1 discussed_VVN in_II &lsqb;_( EO00_FO &rsqb;_) ._. 
+</s>
+<s>
+We_PPIS2 ca_VM n't_XX go_VVI into_II any_DD detail_NN1 since_CS this_DD1 section_NN1 is_VBZ already_RR a_AT1 major_JJ digression_NN1 ._. 
+</s>
+<s>
+It_PPH1 will_VM suffice_VVI to_TO say_VVI that_CST a_AT1 type_NN1 of_IO cohomology_NN1 implies_VVZ some_DD interesting_JJ properties_NN2 of_IO a_AT1 Cherednik_NN1 algebra_NN1 ._. 
+</s>
+<s>
+My_APPGE interest_NN1 in_II these_DD2 algebras_NN2 derives_VVZ from_II interest_NN1 in_II triple_JJ groups_NN2 which_DDQ result_VV0 after_II making_VVG some_DD changes_NN2 to_II the_AT generators_NN2 of_IO a_AT1 Coxeter_JJR% group_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 the_AT de_NP1 Rham_NP1 complex_NN1 of_IO U_JJ to_TO be_VBI the_AT commutative_JJ ,_, differential_NN1 ,_, graded_VVD algebra_NN1 for_IF an_AT1 anti-commutative_JJ algebra_NN1 with_IW a_AT1 differential_NN1 ,_, ._. 
+</s>
+<s>
+Theorem_NN1 24_MC ._. 
+</s>
+<s>
+The_AT composition_NN1 is_VBZ zero_NN1 for_IF all_DB non-negative_JJ k_ZZ1 ._. 
+</s>
+<s>
+Proof_NN1 :_: We_PPIS2 have_VH0 ._. 
+</s>
+<s>
+We_PPIS2 use_VV0 the_AT fact_NN1 that_DD1 and_CC with_IW proof_NN1 in_II &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+===._FO (_( 1.4_MC )_) ._. 
+</s>
+<s>
+Theorem_NN1 25_MC ._. 
+</s>
+<s>
+The_AT operator_NN1 d_ZZ1 :_: k(U)_NN1 -_- k+1(U)_FO satisfying_JJ is_VBZ unique_JJ ._. 
+</s>
+<s>
+Proof_NN1 :_: We_PPIS2 have_VH0 defined_VVN with_IW these_DD2 properties_NN2 ._. 
+</s>
+<s>
+Let_VV0 e_ZZ1 satisfy_VVI the_AT above_JJ properties_NN2 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 must_VM show_VVI that_DD1 ._. 
+</s>
+<s>
+Now_RT it_PPH1 is_VBZ simple_JJ that_CST from_II property_NN1 1_MC1 and_CC implies_VVZ that_DD1 ._. 
+</s>
+<s>
+We_PPIS2 see_VV0 from_II property_NN1 3_MC that_DD1 and_CC that_DD1 ._. 
+</s>
+<s>
+So_RR ._. 
+</s>
+<s>
+._. The_AT kth_NNU d_ZZ1 e_ZZ1 Rh_FO am_RA cohomology_NN1 group_NN1 is_VBZ ._. 
+</s>
+<s>
+The_AT de_NP1 Rham_NP1 cohomology_NN1 group_NN1 coincides_VVZ with_IW other_JJ cohomology_NN1 groups_NN2 so_CS we_PPIS2 will_VM use_VVI the_AT usual_JJ notation_NN1 for_IF a_AT1 cohomology_NN1 group_NN1 ._. 
+</s>
+<s>
+The_AT kth_NNU de_NP1 Rham_NP1 cohomology_NN1 group_NN1 of_IO the_AT smooth_JJ n-manifold_NN1 X_ZZ1 is_VBZ the_AT kth_NNU cohomology_NN1 vector_NN1 space_NN1 of_IO ._. 
+</s>
+<s>
+The_AT exterior_JJ product_NN1 of_IO forms_NN2 extends_VVZ to_TO give_VVI a_AT1 product_NN1 ._. 
+</s>
+<s>
+A_AT1 category_NN1 C_ZZ1 category_NN1 consists_VVZ both_RR a_AT1 collection_NN1 of_IO objects_NN2 and_CC ,_, for_IF each_DD1 pair_NN of_IO objects_NN2 ,_, a_AT1 collection_NN1 of_IO morphisms_NN2 from_II one_MC1 object_NN1 to_II another_DD1 ._. 
+</s>
+<s>
+In_II most_DAT categories_NN2 over_II sets_NN2 ,_, an_AT1 object_NN1 is_VBZ given_VVN as_CSA some_DD mathematical_JJ structure_NN1 such_II21 as_II22 a_AT1 group_NN1 ,_, open_JJ set_NN1 ,_, vector_NN1 space_NN1 or_CC chain_NN1 complex_NN1 ._. 
+</s>
+<s>
+A_AT1 morphism_NN1 is_VBZ simply_RR a_AT1 map_NN1 between_II two_MC objects_NN2 in_II C._NP1 It_PPH1 is_VBZ required_VVN that_CST the_AT morphisms_NN2 then_RT satisfy_VV0 some_DD conditions_NN2 such_II21 as_II22 the_AT identity_NN1 map_NN1 between_II an_AT1 object_NN1 and_CC itself_PPX1 is_VBZ always_RR a_AT1 morphism_NN1 ,_, and_CC the_AT composition_NN1 of_IO two_MC morphisms_NN2 is_VBZ always_RR a_AT1 morphism_NN1 too_RR ._. 
+</s>
+<s>
+The_AT morphisms_NN2 are_VBR usually_RR required_VVN to_TO preserve_VVI the_AT mathematical_JJ structure_NN1 of_IO the_AT objects_NN2 ._. 
+</s>
+<s>
+If_CS the_AT objects_NN2 are_VBR groups_NN2 ,_, the_AT morphisms_NN2 should_VM all_DB be_VBI group_NN1 homomorphisms_NN2 ._. 
+</s>
+<s>
+For_IF vector_NN1 spaces_NN2 ,_, linear_JJ maps_NN2 would_VM be_VBI the_AT morphisms_NN2 of_IO choice_NN1 ,_, for_IF manifolds_NN2 ,_, one_PN1 would_VM choose_VVI smooth_JJ maps_NN2 and_CC ,_, similarly_RR ,_, chain_NN1 maps_NN2 for_IF chain_NN1 complexes_NN2 ._. 
+</s>
+<s>
+We_PPIS2 say_VV0 that_CST de_NP1 Rham_NP1 cohomology_NN1 is_VBZ functorial_JJ ,_, ._. 
+</s>
+<s>
+Theorem_NN1 26_MC ._. 
+</s>
+<s>
+A_AT1 smooth_JJ map_NN1 induces_VVZ a_AT1 linear_JJ map_NN1 with_IW ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 ._. 
+</s>
+<s>
+Let_VV0 have_VH0 ,_, a_AT1 cycle_NN1 from_II with_IW cohomology_NN1 class_NN1 its_APPGE corresponding_JJ cohomology_NN1 class_NN1 in_II and_CC define_VV0 ._. 
+</s>
+<s>
+Considering_CS the_AT chain_NN1 complexes_NN2 and_CC chain_NN1 maps_NN2 we_PPIS2 have_VH0 so_RR that_DD1 is_VBZ a_AT1 cycle_NN1 ._. 
+</s>
+<s>
+is_VBZ independent_JJ of_IO the_AT choice_NN1 of_IO cycle_NN1 so_RR if_CS &lsqb;_( x_ZZ1 &rsqb;_) =_FO &lsqb;_( y_ZZ1 &rsqb;_) then_RT and_CC and_CC so_RR and_CC ,_, define_VV0 the_AT same_DA cohomology_NN1 class_NN1 &lsqb;_( H0_FO 2_MC &rsqb;_) ._. 
+</s>
+<s>
+._. A_ZZ1 contravariant_JJ functor_NN1 maps_NN2 every_AT1 object_NN1 in_II C_NP1 to_II an_AT1 object_NN1 in_RP ,_, and_CC every_AT1 morphism_NN1 in_II C_NP1 to_II an_AT1 object_NN1 in_II given_JJ by_II for_IF a_AT1 morphism_NN1 such_CS21 that_CS22 and_CC ._. 
+</s>
+<s>
+is_VBZ a_AT1 contravariant_JJ functor_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 to_TO be_VBI the_AT linear_JJ map_NN1 given_VVN by_RP% for_IF the_AT exact_JJ sequence_NN1 of_IO chain_NN1 complexes_NN2 ._. 
+</s>
+<s>
+Theorem_NN1 27_MC ._. 
+</s>
+<s>
+Let_VVN be_VBI an_AT1 exact_JJ sequence_NN1 of_IO chain_NN1 complexes_NN2 ._. 
+</s>
+<s>
+Then_RT is_VBZ exact_JJ ._. 
+</s>
+<s>
+Sketch_NN1 of_IO Proof_NN1 :_: Follow_VV0 the_AT proof_NN1 of_IO Theorem_NN1 20_MC ._. 
+</s>
+<s>
+._. Theorem_NN1 28_MC ._. 
+</s>
+<s>
+If_CS C_ZZ1 and_CC C_ZZ1 are_VBR chain_NN1 complexes_NN2 then_RT ._. 
+</s>
+<s>
+Proof_NN1 :_: The_AT proof_NN1 follows_VVZ from_II the_AT observations_NN2 that_DD1 and_CC that_DD1 &lsqb;_( S02_FO &rsqb;_) ._. 
+</s>
+<s>
+._. Theorem_NN1 29_MC ._. 
+</s>
+<s>
+(_( Mayer-Vietoris_NP1 )_) Let_VV0 U1_FO and_CC U_ZZ1 2_MC be_VBI open_RR sets_VVZ in_RP with_IW ._. 
+</s>
+<s>
+Then_RT there_EX exists_VVZ an_AT1 exact_JJ sequence_NN1 ._. 
+</s>
+<s>
+The_AT proof_NN1 depends_VVZ on_II the_AT following_JJ lemma_NN1 &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+Lemma_NN1 1_MC1 ._. 
+</s>
+<s>
+Let_VV0 U1_FO and_CC U_ZZ1 2_MC be_VBI open_RR sets_VVZ in_RP with_IW ._. 
+</s>
+<s>
+Let_VV0 and_CC be_VBI the_AT inclusions_NN2 corresponding_VVG to_II the_AT sets_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ an_AT1 exact_JJ sequence_NN1 :_: where_RRQ and_CC ._. 
+</s>
+<s>
+Proof_NN1 of_IO Theorem_NN1 :_: We_PPIS2 see_VV0 that_CST we_PPIS2 have_VH0 chain_NN1 maps_NN2 and_CC so_RR we_PPIS2 can_VM apply_VVI the_AT previous_JJ lemma_NN1 ._. 
+</s>
+<s>
+Then_RT 27_MC and_CC 28_MC give_VV0 &lsqb;_( H02_FO &rsqb;_) ._. 
+</s>
+<s>
+._. The_AT support_NN1 of_IO f_ZZ1 ,_, a_AT1 function_NN1 ,_, is_VBZ the_AT set_NN1 ._. 
+</s>
+<s>
+Define_VV0 an_AT1 integral_JJ on_II the_AT vector_NN1 space_NN1 of_IO n-forms_NN2 with_IW compact_JJ support_NN1 ._. 
+</s>
+<s>
+The_AT treatment_NN1 of_IO differential_JJ forms_NN2 on_II manifolds_NN2 is_VBZ ,_, for_RR41 the_RR42 most_RR43 part_RR44 ,_, as_CSA discussed_VVN above_RL ._. 
+</s>
+<s>
+We_PPIS2 say_VV0 that_CST a_AT1 family_NN1 of_IO alternating_JJ k-forms_NN2 is_VBZ smooth_JJ on_II if_CS is_VBZ a_AT1 smooth_JJ function_NN1 for_IF any_DD local_JJ parametrization_NN1 ._. 
+</s>
+<s>
+The_AT set_NN1 of_IO such_DA is_VBZ denoted_VVN ._. 
+</s>
+<s>
+The_AT nth_MD de_NP1 Rham_NP1 cohomology_NN1 of_IO X_ZZ1 ,_, ,_, is_VBZ the_AT nth_MD cohomology_NN1 vector_NN1 space_NN1 of_IO ._. 
+</s>
+<s>
+An_AT1 orientation_NN1 form_NN1 on_II the_AT k-manifold_NN1 X_ZZ1 is_VBZ an_AT1 with_IW ._. 
+</s>
+<s>
+An_AT1 orientation_NN1 of_IO X_ZZ1 is_VBZ the_AT equivalence_NN1 class_NN1 of_IO orientation_NN1 forms_NN2 ._. 
+</s>
+<s>
+The_AT standard_JJ orientation_NN1 representing_VVG is_VBZ the_AT orientation_NN1 form_NN1 ._. 
+</s>
+<s>
+A_AT1 basis_NN1 of_IO is_VBZ positively_RR or_CC negatively_RR oriented_VVD depending_II21 on_II22 whether_CSW is_VBZ positive_JJ or_CC negative_JJ for_IF the_AT orientation_NN1 form_NN1 of_IO X_ZZ1 &lsqb;_( M05_FO &rsqb;_) ._. 
+</s>
+<s>
+We_PPIS2 can_VM define_VVI an_AT1 integral_JJ on_II the_AT space_NN1 of_IO differential_JJ n-forms_NN2 with_IW compact_JJ support_NN1 just_RR as_CSA we_PPIS2 can_VM integrate_VVI 1-forms_NN2 of_IO 1-manifolds_NN2 ._. 
+</s>
+<s>
+Take_VV0 X_ZZ1 which_DDQ is_VBZ diffeomorphic_JJ to_II a_AT1 region_NN1 which_DDQ has_VHZ a_AT1 smooth_JJ boundary_NN1 ._. 
+</s>
+<s>
+Let_VVN be_VBI an_AT1 orientation-preserving_JJ diffeomorphism_NN1 ._. 
+</s>
+<s>
+Define_VV0 the_AT integral_JJ where_RRQ is_VBZ the_AT standard_JJ basis_NN1 for_IF ._. 
+</s>
+<s>
+Theorem_NN1 30_MC ._. 
+</s>
+<s>
+If_CS is_VBZ also_RR an_AT1 orientation-preserving_JJ diffeomorphism_NN1 then_RT we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+Proof_NN1 :_: We_PPIS2 have_VH0 a_AT1 diffeomorphism_NN1 and_CC for_IF h(x)_NNU =_FO y_ZZ1 by_II the_AT chain_NN1 rule_NN1 ._. 
+</s>
+<s>
+We_PPIS2 write_VV0 ,_, and_CC we_PPIS2 can_VM show_VVI that_CST where_RRQ ._. 
+</s>
+<s>
+We_PPIS2 also_RR have_VH0 that_DD1 det_NN1 A_ZZ1 is_VBZ the_AT Jacobi_JJ determinant_NN1 of_IO h_ZZ1 ._. 
+</s>
+<s>
+Since_CS the_AT dif-feomorphisms_NN2 are_VBR orientation_NN1 preserving_NN1 ,_, we_PPIS2 have_VH0 the_AT equality_NN1 &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+._. We_PPIS2 can_VM restate_VVI this_DD1 as_II a_AT1 change_NN1 of_IO variables_NN2 in_II -_- saying_VVG that_CST for_IF two_MC regions_NN2 U_ZZ1 ,_, V_ZZ1 in_II and_CC an_AT1 orientation-preserving_JJ differomorphism_NN1 we_PPIS2 have_VH0 for_IF any_DD n-form_NN1 ._. 
+</s>
+<s>
+Similarly_RR ,_, for_IF any_DD n-form_NN1 if_CS reverses_NN2 the_AT orientation_NN1 ._. 
+</s>
+<s>
+This_DD1 comes_VVZ from_II the_AT restating_NN1 &lsqb;_( GP74_FO &rsqb;_) since_CS the_AT form_NN1 is_VBZ equal_JJ to_II some_DD smooth_JJ function_NN1 on_II U_JJ times_NNT2 a_AT1 determinant_NN1 by_II Theorem_NN1 30_MC ._. 
+</s>
+<s>
+Then_RT by_II a_AT1 theorem_NN1 we_PPIS2 will_VM give_VVI shortly_RR ._. 
+</s>
+<s>
+Then_RT we_PPIS2 restate_VV0 the_AT previous_JJ theorem_NN1 after_II redefining_VVG ._. 
+</s>
+<s>
+Theorem_NN1 31_MC ._. 
+</s>
+<s>
+For_IF 1-forms_NN2 ._. 
+</s>
+<s>
+This_DD1 is_VBZ obvious_JJ for_IF k_ZZ1 =_FO 2_MC ._. 
+</s>
+<s>
+Then_RT the_AT lemma_NN1 follows_VVZ by_II induction_NN1 on_II k_ZZ1 applied_VVN to_II the_AT definition_NN1 of_IO the_AT exterior_JJ product_NN1 ._. 
+</s>
+<s>
+The_AT other_JJ important_JJ theorem_NN1 in_II this_DD1 discussion_NN1 is_VBZ ,_, of_RR21 course_RR22 ,_, Stokes_NP1 '_GE theorem_NN1 which_DDQ is_VBZ stated_VVN in_II this_DD1 case_NN1 as_II :_: Theorem_NN1 32_MC ._. 
+</s>
+<s>
+Let_VVN be_VBI a_AT1 compact_JJ oriented_JJ k-manifold_NN1 with_IW boundary_NN1 ._. 
+</s>
+<s>
+Then_RT for_IF ._. 
+</s>
+<s>
+A_AT1 proof_NN1 can_VM be_VBI found_VVN in_II &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+Let_VV0 X_ZZ1 be_VBI a_AT1 compact_NN1 ,_, oriented_VVD smooth_JJ n-manifold_NN1 ._. 
+</s>
+<s>
+Poincare_VV0 duality_NN1 is_VBZ the_AT statement_NN1 that_CST for_IF integer_NN1 k_ZZ1 ._. 
+</s>
+<s>
+Let_VV0 denote_VVI the_AT de_NP1 Rham_NP1 cohomology_NN1 group_NN1 with_IW compact_JJ support_NN1 ._. 
+</s>
+<s>
+It_PPH1 is_VBZ given_VVN in_II &lsqb;_( M052_FO &rsqb;_) that_CST :_: Theorem_NN1 33._MC only_JJ if_CS k_ZZ1 =_FO n_ZZ1 and_CC i_ZZ1 n_ZZ1 all_RR other_JJ cases_NN2 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 a_AT1 theorem_NN1 that_CST follows_VVZ from_II Mayer-Vietoris_NP1 which_DDQ is_VBZ needed_VVN to_TO prove_VVI the_AT duality_NN1 theorem_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 34_MC ._. 
+</s>
+<s>
+There_EX is_VBZ an_AT1 exact_JJ sequence_NN1 ._. 
+</s>
+<s>
+Proof_NN1 :_: Let_VV0 X_ZZ1 be_VBI a_AT1 smooth_JJ manifold_NN1 with_IW open_JJ subsets_NN2 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 the_AT direct_JJ image_NN1 hom_NN1 o-morphism_NN1 extended_VVN from_II ,_, the_AT chain_NN1 map_NN1 induced_VVN from_II the_AT inclusion_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM define_VVI another_DD1 inclusion_NN1 to_TO give_VVI a_AT1 covariant_JJ functor_NN1 on_II the_AT category_NN1 of_IO open_JJ sets_NN2 and_CC inclusions_NN2 ._. 
+</s>
+<s>
+Let_VV0 U1_FO and_CC U_ZZ1 2_MC be_VBI open_RR sets_VVZ in_RP with_IW ._. 
+</s>
+<s>
+Let_VV0 and_CC be_VBI the_AT inclusions_NN2 corresponding_VVG to_II the_AT sets_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ an_AT1 exact_JJ sequence_NN1 :_: where_RRQ and_CC ._. 
+</s>
+<s>
+Apply_VV0 Mayer-Vietoris_NP1 to_II this_DD1 exact_JJ sequence_NN1 ._. 
+</s>
+<s>
+&lsqb;_( H02_FO &rsqb;_) ._. 
+</s>
+<s>
+Theorem_NN1 35_MC ._. 
+</s>
+<s>
+For_IF ,_, pairwise_RR disjoint_JJ open_JJ subsets_NN2 with_IW union_NN1 U_ZZ1 of_IO the_AT smooth_JJ manifold_NN1 X_ZZ1 ,_, we_PPIS2 have_VH0 given_VVN by_II and_CC given_VVN by_II ._. 
+</s>
+<s>
+The_AT idea_NN1 here_RL is_VBZ to_TO use_VVI the_AT fact_NN1 that_CST there_EX are_VBR such_DA isomorphisms_NN2 for_IF chain_NN1 complexes_NN2 ,_, and_CC to_TO extend_VVI that_DD1 ._. 
+</s>
+<s>
+The_AT proof_NN1 of_IO Poincare_NP1 duality_NN1 follows_VVZ after_CS a_RR21 bit_RR22 more_DAR work_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 a_AT1 linear_JJ map_NN1 from_II the_AT bilinear_JJ map_NN1 defined_VVN by_II where_RRQ is_VBZ the_AT vector_NN1 space_NN1 dual_JJ of_IO ._. 
+</s>
+<s>
+This_DD1 follows_VVZ from_II a_AT1 composition_NN1 with_IW integration_NN1 of_IO the_AT bilinear_JJ map_NN1 ._. 
+</s>
+<s>
+A_AT1 contravariant_JJ functor_NN1 sending_VVG A_ZZ1 to_II its_APPGE vector_NN1 space_NN1 dual_JJ A*_FO is_VBZ exact_JJ ._. 
+</s>
+<s>
+So_RR we_PPIS2 can_VM dualize_VVI the_AT sequence_NN1 of_IO Theorem_NN1 34_MC and_CC by_II the_AT previous_JJ theorem_NN1 we_PPIS2 have_VH0 an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+For_IF an_AT1 oriented_JJ n-manifold_NN1 the_AT exterior_JJ product_NN1 defines_VVZ inducing_VVG ._. 
+</s>
+<s>
+Theorem_NN1 36_MC ._. 
+</s>
+<s>
+The_AT diagram_NN1 commutes_VVZ for_IF open_JJ sets_NN2 ._. 
+</s>
+<s>
+Proof_NN1 :_: Let_VV0 ,_, be_VBI cohomology_NN1 classes_NN2 ._. 
+</s>
+<s>
+Then_RT and_CC for_IF i'the_NN1 vector_NN1 space_NN1 dual_JJ of_IO i*_FO ._. 
+</s>
+<s>
+Then_RT since_CS we_PPIS2 can_VM integrate_VVI over_RG V_NNU instead_II21 of_II22 U._NP1 We_PPIS2 see_VV0 that_CST the_AT forms_NN2 are_VBR the_AT same_DA on_II V._NNU So_CS the_AT diagram_NN1 commutes_VVZ &lsqb;_( S99_FO &rsqb;_) ._. 
+</s>
+<s>
+._. We_PPIS2 can_VM extend_VVI this_DD1 to_II the_AT theorem_NN1 below_RL ,_, which_DDQ is_VBZ proved_VVN by_II the_AT same_DA methods_NN2 ._. 
+</s>
+<s>
+Theorem_NN1 37_MC ._. 
+</s>
+<s>
+For_IF open_JJ sets_NN2 of_IO X_ZZ1 ,_, U1_FO and_CC U2_NP1 with_IW union_NN1 U_ZZ1 ,_, we_PPIS2 have_VH0 the_AT commutative_JJ diagram_NN1 ._. 
+</s>
+<s>
+Corollary_NN1 1_MC1 ._. 
+</s>
+<s>
+For_IF open_JJ subsets_NN2 of_IO X_ZZ1 we_PPIS2 have_VH0 their_APPGE union_NN1 satisfying_JJ Poincare_NN1 duality_NN1 if_CS ,_, ,_, satisfy_VV0 that_DD1 condition_NN1 ._. 
+</s>
+<s>
+Similarly_RR for_IF pairwise_RR disjoint_JJ open_JJ sets_NN2 ._. 
+</s>
+<s>
+Lastly_RR ,_, U_ZZ1 satisfies_VVZ duality_NN1 if_CS it_PPH1 is_VBZ diffeomorphic_JJ to_TO ._. 
+</s>
+<s>
+Then_RT we_PPIS2 give_VV0 a_AT1 theorem_NN1 proved_VVN in_II &lsqb;_( MJ97_FO &rsqb;_) that_CST will_VM let_VVI us_PPIO2 proceed_VVI ._. 
+</s>
+<s>
+Theorem_NN1 38_MC ._. 
+</s>
+<s>
+Let_VV0 U_ZZ1 be_VBI a_AT1 collection_NN1 of_IO open_JJ subsets_NN2 of_IO the_AT n-manifold_NN1 X_ZZ1 with_IW open_JJ cover_NN1 V._II We_PPIS2 have_VH0 ,_, Any_DD open_JJ subset_NN1 that_CST is_VBZ a_AT1 subset_NN1 of_IO a_AT1 set_NN1 in_II the_AT open_JJ cover_NN1 and_CC is_VBZ diffeomorphic_JJ to_TO is_VBZ in_II U_ZZ1 ,_, the_AT union_NN1 of_IO two_MC open_JJ subsets_NN2 is_VBZ in_II U_ZZ1 is_VBZ the_AT open_JJ subsets_NN2 and_CC their_APPGE intersection_NN1 are_VBR in_II U_ZZ1 and_CC a_AT1 similar_JJ condition_NN1 for_IF pairwise_RR disjoint_JJ open_JJ subsets_NN2 ._. 
+</s>
+<s>
+This_DD1 lets_VVZ us_PPIO2 prove_VV0 duality_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 39_MC ._. 
+</s>
+<s>
+(_( Poincare_VV0 Duality_NN1 )_) For_IF an_AT1 oriented_JJ n-manifold_NN1 we_PPIS2 see_VV0 that_DD1 is_VBZ an_AT1 isomorphism_NN1 for_IF all_DB k_ZZ1 ._. 
+</s>
+<s>
+Proof_NN1 :_: Let_VV0 U_ZZ1 be_VBI the_AT open_JJ subsets_NN2 of_IO X_ZZ1 with_IW being_VBG isomorphisms_NN2 ._. 
+</s>
+<s>
+Let_VV0 V_ZZ1 be_VBI the_AT trivial_JJ cover_NN1 X._NP1 Then_RT Corollary_NN1 1_MC1 shows_VVZ that_CST we_PPIS2 have_VH0 satisfied_VVN the_AT conditions_NN2 of_IO Theorem_NN1 38_MC &lsqb;_( H02_FO ,_, MJ97_FO ,_, M05_FO &rsqb;_) ._. 
+</s>
+<s>
+._. Another_DD1 way_NN1 of_IO expressing_VVG this_DD1 is_VBZ ._. 
+</s>
+<s>
+denotes_VVZ the_AT set_NN1 of_IO one-dimensional_JJ subspaces_NN2 of_IO ._. 
+</s>
+<s>
+It_PPH1 is_VBZ the_AT n-dimensional_JJ complex_JJ projective_JJ space_NN1 ._. 
+</s>
+<s>
+For_CS we_PPIS2 let_VV0 spanned_VVN by_II z_ZZ1 be_VBI denoted_VVN by_II ._. 
+</s>
+<s>
+Theorem_NN1 40_MC ._. 
+</s>
+<s>
+The_AT cohomology_NN1 of_IO is_VBZ for_IF or_CC otherwise_RR ._. 
+</s>
+<s>
+We_PPIS2 can_VM extend_VVI the_AT embedding_NN1 to_II an_AT1 embedding_NN1 of_IO into_II ._. 
+</s>
+<s>
+Assume_VV0 the_AT statement_NN1 for_IF C_ZZ1 and_CC n_ZZ1 2_MC since_CS the_AT cohomologies_NN2 by_II Proposition_NN1 13.11_MC &lsqb;_( ?_? &rsqb;_) which_DDQ states_VVZ that_CST there_EX is_VBZ a_AT1 certain_JJ long_JJ exact_JJ sequence_NN1 ._. 
+</s>
+<s>
+Then_RT is_VBZ homeomorphic_JJ with_IW by_II a_AT1 certain_JJ homeomorphism_NN1 defined_VVN in_II &lsqb;_( MJ97_FO &rsqb;_) ._. 
+</s>
+<s>
+The_AT exact_JJ sequence_NN1 has_VHZ the_AT form_NN1 ._. 
+</s>
+<s>
+Then_RT by_II Theorem_NN1 33_MC we_PPIS2 have_VH0 only_RR when_CS k_ZZ1 =_FO 2n_FO when_RRQ it_PPH1 is_VBZ R._NP1 The_AT result_NN1 follows_VVZ ._. 
+</s>
+<s>
+A_AT1 fiber_NN1 bundle_NN1 is_VBZ three_MC topological_JJ spaces_NN2 T_ZZ1 ,_, the_AT total_JJ space_NN1 ,_, B_ZZ1 ,_, the_AT base_NN1 space_NN1 ,_, and_CC F_ZZ1 ,_, the_AT fiber_NN1 space_NN1 together_RL with_IW a_AT1 continuous_JJ map_NN1 such_CS21 that_CS22 each_DD1 has_VHZ an_AT1 open_JJ neighbourhood_NN1 U_ZZ1 b_ZZ1 and_CC a_AT1 homeomorphism_NN1 such_CS21 that_CS22 ._. 
+</s>
+<s>
+The_AT fiber_NN1 over_II x_ZZ1 is_VBZ the_AT pre-image_NN1 of_IO ,_, denoted_VVD ._. 
+</s>
+<s>
+If_CS T_ZZ1 ,_, B_ZZ1 ,_, F_ZZ1 are_VBR smooth_JJ manifolds_NN2 then_RT we_PPIS2 have_VH0 a_AT1 smooth_JJ fiber_NN1 bundle_NN1 &lsqb;_( MJ97_FO ,_, M052_FO ,_, S99_FO &rsqb;_) ._. 
+</s>
+<s>
+A_AT1 vector_NN1 bundle_NN1 is_VBZ a_AT1 quadruple_JJ with_IW the_AT fiber_NN1 space_NN1 F_ZZ1 and_CC are_VBR vector_NN1 spaces_NN2 for_IF all_DB x_ZZ1 and_CC we_PPIS2 can_VM choose_VVI the_AT local_JJ homeomorphism_NN1 h_ZZ1 so_CS that_DD1 is_VBZ a_AT1 linear_JJ isomorphism_NN1 ._. 
+</s>
+<s>
+One_MC1 bundle_NN1 which_DDQ will_VM be_VBI very_RG useful_JJ is_VBZ the_AT tangent_JJ bundle_NN1 ._. 
+</s>
+<s>
+Take_VV0 a_AT1 smooth_JJ n-manifold_NN1 and_CC with_IW ._. 
+</s>
+<s>
+The_AT fiber_NN1 over_RP is_VBZ the_AT tangent_JJ space_NN1 ._. 
+</s>
+<s>
+A_AT1 map_NN1 (_( f_ZZ1 ,_, g_ZZ1 )_) between_II fiber_NN1 bundles_NN2 and_CC is_VBZ a_AT1 pair_NN of_IO continuous_JJ maps_NN2 and_CC such_CS21 that_CS22 ._. 
+</s>
+<s>
+A_AT1 homomorphism_NN1 between_II vector_NN1 bundles_NN2 is_VBZ a_AT1 fiber_NN1 bundle_NN1 map_NN1 such_CS21 that_CS22 is_VBZ linear_JJ for_IF all_DB ._. 
+</s>
+<s>
+Vector_NN1 bundles_NN2 over_II the_AT same_DA base_NN1 space_NN1 are_VBR isomorphic_JJ if_CS there_EX exist_VV0 homomorphisms_NN2 and_CC such_CS21 that_CS22 ._. 
+</s>
+<s>
+A_AT1 vector_NN1 bundle_NN1 that_CST is_VBZ isomorphic_JJ to_II a_AT1 product_NN1 bundle_NN1 is_VBZ called_VVN trivial_JJ ._. 
+</s>
+<s>
+Theorem_NN1 41_MC ._. 
+</s>
+<s>
+A_AT1 continuous_JJ map_NN1 of_IO vector_NN1 bundles_NN2 over_II B_ZZ1 is_VBZ an_AT1 isomorphism_NN1 if_CS it_PPH1 maps_VVZ% the_AT fiber_NN1 injectively_RR onto_II ._. 
+</s>
+<s>
+The_AT direct_JJ sum_NN1 of_IO two_MC vector_NN1 bundles_NN2 over_II the_AT base_NN1 space_NN1 is_VBZ the_AT vector_NN1 bundle_NN1 with_IW total_JJ space_NN1 and_CC a_AT1 projection_NN1 ._. 
+</s>
+<s>
+An_AT1 inner_JJ product_NN1 on_II a_AT1 vector_NN1 bundle_NN1 is_VBZ a_AT1 map_NN1 such_CS21 that_CS22 is_VBZ an_AT1 inner_JJ product_NN1 on_II each_DD1 fiber_NN1 ._. 
+</s>
+<s>
+Theorem_NN1 42_MC ._. 
+</s>
+<s>
+Every_AT1 vector_NN1 bundle_NN1 over_II a_AT1 compact_JJ B_ZZ1 has_VHZ an_AT1 inner_JJ product_NN1 ._. 
+</s>
+<s>
+A_AT1 section_NN1 in_II a_AT1 fiber_NN1 bundle_NN1 is_VBZ a_AT1 smooth_JJ map_NN1 such_CS21 that_CS22 ._. 
+</s>
+<s>
+Theorem_NN1 43_MC ._. 
+</s>
+<s>
+Every_AT1 vector_NN1 bundle_NN1 over_II a_AT1 compact_JJ base_NN1 space_NN1 B_ZZ1 has_VHZ a_AT1 complement_NN1 ._. 
+</s>
+<s>
+We_PPIS2 consider_VV0 the_AT tensor_NN1 product_NN1 and_CC the_AT exterior_JJ product_NN1 ;_; first_MD applied_VVN to_II vector_NN1 spaces_NN2 and_CC then_RT investigating_VVG the_AT application_NN1 to_II vector_NN1 bundles_NN2 ._. 
+</s>
+<s>
+We_PPIS2 assume_VV0 familiarity_NN1 with_IW the_AT definition_NN1 of_IO modules_NN2 and_CC free_JJ algebras_NN2 ._. 
+</s>
+<s>
+The_AT tensor_NN1 product_NN1 of_IO two_MC R-modules_NN2 is_VBZ the_AT quotient_NN1 where_RRQ is_VBZ the_AT free_JJ R-module_NN1 with_IW basis_NN1 for_IF R_ZZ1 a_AT1 commutative_JJ ring_NN1 with_IW unity_NN1 ,_, ._. 
+</s>
+<s>
+The_AT canonical_JJ projection_NN1 given_VVN by_RP% is_VBZ R-bilinear_JJ when_CS restricted_VVN to_II by_II the_AT generators_NN2 of_IO the_AT submodule_NN1 in_II the_AT quotient_NN1 module_NN1 ._. 
+</s>
+<s>
+Any_DD R-bilinear_JJ map_NN1 can_VM be_VBI expressed_VVN as_II the_AT composition_NN1 of_IO the_AT restricted_JJ canonical_JJ projection_NN1 and_CC an_AT1 unique_JJ R-linear_JJ map_NN1 ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, we_PPIS2 say_VV0 the_AT tensor_NN1 product_NN1 is_VBZ universal_JJ ._. 
+</s>
+<s>
+To_TO prove_VVI this_DD1 ,_, we_PPIS2 have_VH0 the_AT following_JJ :_: Theorem_NN1 44_MC ._. 
+</s>
+<s>
+For_IF an_AT1 R-bilinear_JJ map_NN1 ,_, with_IW U_ZZ1 ,_, V_ZZ1 ,_, W_ZZ1 being_NN1% R-modules_NN2 ,_, there_EX exists_VVZ an_AT1 unique_JJ R-linear_JJ map_NN1 such_CS21 that_CS22 ._. 
+</s>
+<s>
+This_DD1 has_VHZ the_AT immediate_JJ consequence_NN1 that_CST the_AT tensor_NN1 product_NN1 is_VBZ a_AT1 functor_NN1 ._. 
+</s>
+<s>
+Proof_NN1 :_: f_ZZ1 extends_VVZ naturally_RR to_II an_AT1 R-linear_JJ map_NN1 ._. 
+</s>
+<s>
+f_ZZ1 is_VBZ R-bilinear_JJ so_CS the_AT image_NN1 of_IO ,_, ,_, is_VBZ 0_MC under_II f'_NN1 ._. 
+</s>
+<s>
+Then_RT f'_NN1 induces_VVZ the_AT map_NN1 g_ZZ1 from_II to_II W._NP1 We_PPIS2 see_VV0 then_RT that_DD1 is_VBZ R-linear._JJ g_ZZ1 is_VBZ uniquely_RR determined_VVN by_II f_ZZ1 since_CS is_VBZ generated_VVN by_II the_AT image_NN1 of_IO under_II ._. 
+</s>
+<s>
+._. We_PPIS2 define_VV0 a_AT1 new_JJ entity_NN1 by_II considering_VVG the_AT R-submodule_NN1 generated_VVD by_RP% ._. 
+</s>
+<s>
+The_AT exterior_JJ kth-power_NN1 is_VBZ the_AT quotient_NN1 module_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 a_AT1 canonical_JJ projection_NN1 by_II ._. 
+</s>
+<s>
+Then_RT for_IF some_DD permutation_NN1 by_II Theorem_NN1 14_MC and_CC Theorem_NN1 16_MC ._. 
+</s>
+<s>
+Then_RT the_AT composition_NN1 is_VBZ an_AT1 alternating_JJ map_NN1 where_RRQ is_VBZ extended_VVN to_II k-variable_JJ tensor_NN1 products_NN2 ._. 
+</s>
+<s>
+There_EX is_VBZ then_RT an_AT1 obvious_JJ extension_NN1 of_IO Theorem_NN1 44_MC to_TO accompany_VVI the_AT new_JJ definition_NN1 ._. 
+</s>
+<s>
+From_II Theorem_NN1 44_MC extended_VVD to_II k-variable_JJ tensor_NN1 products_NN2 :_: Theorem_NN1 45_MC ._. 
+</s>
+<s>
+There_EX is_VBZ an_AT1 unique_JJ R-linear_JJ map_NN1 for_IF any_DD R-alternating_JJ map_NN1 such_CS21 that_CS22 ._. 
+</s>
+<s>
+In_II the_AT case_NN1 R_ZZ1 =_FO K_ZZ1 where_CS we_PPIS2 consider_VV0 finite-dimensional_JJ vector_NN1 spaces_NN2 the_AT exterior_JJ ppwers_NN2 are_VBR dual_JJ to_II the_AT alternating_JJ powers_NN2 introduced_VVN earlier_RRR ._. 
+</s>
+<s>
+Letting_VVG ,_, the_AT exterior_JJ product_NN1 gives_VVZ an_AT1 alternating_JJ map_NN1 ._. 
+</s>
+<s>
+By_II Theorem_NN1 45_MC we_PPIS2 have_VH0 an_AT1 unique_JJ linear_JJ map_NN1 ._. 
+</s>
+<s>
+For_IF this_DD1 map_NN1 we_PPIS2 have_VH0 the_AT following_JJ ,_, proved_VVN in_II &lsqb;_( MJ97_FO &rsqb;_) :_: Theorem_NN1 46_MC ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 :_: i_ZZ1 )_) is_VBZ an_AT1 isomorphism_NN1 ;_; ii_MC )_) is_VBZ a_AT1 basis_NN1 for_CS% for_IF a_AT1 basis_NN1 of_IO V_ZZ1 ;_; ii_MC i_ZZ1 )_) There_EX is_VBZ an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+The_AT balanced_JJ product_NN1 ,_, denoted_VVN is_VBZ the_AT cokernel_NN1 of_IO the_AT R-linear_JJ homomorphism_NN1 given_VVN by_II ._. 
+</s>
+<s>
+The_AT cokernel_NN1 of_IO a_AT1 homomorphism_NN1 of_IO modules_NN2 is_VBZ the_AT quotient_NN1 module_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 by_II which_DDQ becomes_VVZ a_AT1 B-module_NN1 when_CS B_ZZ1 is_VBZ commutative_JJ which_DDQ is_VBZ obviously_RR isomorphic_JJ to_II the_AT R-module_NN1 ._. 
+</s>
+<s>
+The_AT next_MD section_NN1 involves_VVZ connections_NN2 ,_, although_CS some_DD of_IO the_AT more_RGR interesting_JJ discussion_NN1 is_VBZ omitted_VVN since_CS our_APPGE goal_NN1 in_II this_DD1 section_NN1 is_VBZ to_TO develop_VVI the_AT idea_NN1 of_IO characteristic_JJ classes_NN2 ._. 
+</s>
+<s>
+We_PPIS2 will_VM later_RRR see_VVI how_RRQ Yang-Mills_NP1 theory_NN1 ,_, the_AT theory_NN1 of_IO connections_NN2 ,_, makes_VVZ frequent_JJ appearances_NN2 in_II our_APPGE work_NN1 ._. 
+</s>
+<s>
+A_AT1 connection_NN1 on_RP is_VBZ a_AT1 linear_JJ map_NN1 satisfying_VVG for_IF ,_, and_CC exterior_JJ differential_NN1 d_ZZ1 ,_, where_RRQ is_VBZ the_AT tensor_NN1 product_NN1 ._. 
+</s>
+<s>
+We_PPIS2 require_VV0 to_TO be_VBI C-linear_JJ when_RRQ is_VBZ a_AT1 complex_JJ vector_NN1 bundle_NN1 with_IW a_AT1 complex_JJ vector_NN1 space_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM tidy_VVI this_DD1 up_II21 to_II22 a_AT1 connection_NN1 being_VBG a_AT1 linear_JJ operator_NN1 satisfying_VVG the_AT Leibiniz_NP1 rule_NN1 by_II letting_VVG ._. 
+</s>
+<s>
+The_AT trick_NN1 here_RL is_VBZ to_TO extend_VVI the_AT connection_NN1 to_II an_AT1 operator_NN1 satisfying_JJ similar_JJ conditions_NN2 to_II the_AT derivation_NN1 on_II differential_JJ forms_NN2 that_CST we_PPIS2 discussed_VVD above_RL ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 a_AT1 -bilinear_JJ product_NN1 by_II where_RRQ ,_, ,_, and_CC ._. 
+</s>
+<s>
+Theorem_NN1 47_MC ._. 
+</s>
+<s>
+The_AT -bilinear_JJ product_NN1 A_ZZ1 satisfies_VVZ the_AT following_JJ :_: This_DD1 follows_VVZ simply_RR from_II the_AT associativity_NN1 of_IO the_AT exterior_JJ product_NN1 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 have_VH0 to_TO following_VVG for_IF &lsqb;_( MJ97_FO &rsqb;_) :_: Theorem_NN1 48_MC ._. 
+</s>
+<s>
+There_EX is_VBZ an_AT1 unique_JJ linear_JJ operator_NN1 satisfying_VVG that_CST when_CS i_ZZ1 =_FO 0_MC and_CC for_IF and_CC ._. 
+</s>
+<s>
+gives_VVZ a_AT1 sequence_NN1 of_IO vector_NN1 spaces_NN2 ._. 
+</s>
+<s>
+Amazingly_RR ,_, this_DD1 is_VBZ not_XX a_AT1 complex_JJ generally_RR ,_, although_CS it_PPH1 is_VBZ the_AT de_NP1 Rham_NP1 complex_NN1 when_RRQ and_CC is_VBZ the_AT trivial_JJ line_NN1 bundle_NN1 ._. 
+</s>
+<s>
+We_PPIS2 do_VD0 have_VHI which_DDQ can_VM be_VBI seen_VVN to_TO be_VBI -linear_JJ since_RR ._. 
+</s>
+<s>
+We_PPIS2 also_RR have_VH0 that_DD1 by_II a_AT1 theorem_NN1 we_PPIS2 omitted_VVD earlier_RRR ,_, &lsqb;_( M74_FO &rsqb;_) ._. 
+</s>
+<s>
+The_AT 2-form_NN1 is_VBZ called_VVN the_AT curvature_NN1 form_NN1 of_IO the_AT pair_NN ._. 
+</s>
+<s>
+The_AT connection_NN1 is_VBZ called_VVN flat_RR if_CS ._. 
+</s>
+<s>
+We_PPIS2 now_RT define_VV0 the_AT -bilinear_JJ product_NN1 mapping_VVG a_AT1 pair_NN into_II ._. 
+</s>
+<s>
+Theorem_NN1 49_MC ._. 
+</s>
+<s>
+There_EX is_VBZ a_AT1 map_NN1 from_II t_ZZ1 to_II ._. 
+</s>
+<s>
+Proof_NN1 :_: By_II Theorem_NN1 48_MC we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+So_RR the_AT sequence_NN1 mentioned_VVN above_RL is_VBZ a_AT1 chain_NN1 complex_NN1 when_RRQ is_VBZ flat_JJ ._. 
+</s>
+<s>
+We_PPIS2 are_VBR ,_, for_RR41 the_RR42 most_RR43 part_RR44 ,_, interested_JJ in_II the_AT Stiefel-Whitney_NP1 class_NN1 ,_, so_CS we_PPIS2 only_RR briefly_RR visit_VV0 the_AT following_JJ ideas_NN2 as_II an_AT1 introduction_NN1 to_II characteristic_JJ classes_NN2 ._. 
+</s>
+<s>
+Let_VVN be_VBI a_AT1 complex_JJ vector_NN1 bundle_NN1 ._. 
+</s>
+<s>
+The_AT kth_NNU Chern_NN1 character_NN1 class_NN1 of_IO the_AT pair_NN is_VBZ the_AT cohomology_NN1 class_NN1 ,_, the_AT cohomology_NN1 of_IO the_AT complexified_JJ de_NP1 Rham_NP1 complex_NN1 ._. 
+</s>
+<s>
+The_AT factor_NN1 that_CST normalizes_VVZ the_AT cohomology_NN1 class_NN1 is_VBZ there_RL% so_CS21 that_CS22 the_AT Chern_NN1 character_NN1 class_NN1 is_VBZ in_II fact_NN1 a_AT1 real_JJ cohomology_NN1 class_NN1 in_RP ,_, a_AT1 fact_NN1 we_PPIS2 discuss_VV0 further_JJR later_RRR ._. 
+</s>
+<s>
+The_AT kth_NNU Pontryagin_NN1 character_NN1 class_NN1 of_IO the_AT pair_NN is_VBZ given_VVN by_II where_RRQ which_DDQ in_II turn_NN1 induces_VVZ a_AT1 complex_JJ connection_NN1 ._. 
+</s>
+<s>
+We_PPIS2 need_VV0 to_TO revisit_VVI the_AT discussion_NN1 of_IO connections_NN2 to_TO understand_VVI the_AT definitions_NN2 above_RL ._. 
+</s>
+<s>
+We_PPIS2 see_VV0 that_CST if_CS is_VBZ a_AT1 section_NN1 that_CST vanishes_VVZ on_II an_AT1 open_JJ subset_NN1 then_RT so_RR does_VDZ so_RR is_VBZ a_AT1 local_JJ operator_NN1 ._. 
+</s>
+<s>
+In_RR21 particular_RR22 ,_, this_DD1 induces_VVZ a_AT1 connection_NN1 on_RP ,_, the_AT restriction_NN1 of_IO the_AT vector_NN1 bundle_NN1 to_II the_AT open_JJ subset_NN1 ._. 
+</s>
+<s>
+The_AT connection_NN1 form_NN1 with_II31 respect_II32 to_II33 the_AT basis_NN1 for_IF and_CC is_VBZ denoted_VVN by_II A_ZZ1 where_RRQ is_VBZ a_AT1 kxk_NNU matrix_NN1 of_IO 1-forms_NN2 and_CC since_CS elements_NN2 of_IO has_VHZ the_AT unique_JJ expression_NN1 for_IF ._. 
+</s>
+<s>
+Then_RT we_PPIS2 calculate_VV0 from_II (_( 2.1_MC )_) so_RR ._. 
+</s>
+<s>
+For_IF the_AT connection_NN1 on_RP we_PPIS2 have_VH0 defined_VVN by_II and_CC from_II this_DD1 definition_NN1 we_PPIS2 have_VH0 :_: Theorem_NN1 50_MC ._. 
+</s>
+<s>
+(_( Bianchi_NP1 's_GE identity_NN1 )_) We_PPIS2 have_VH0 ._. 
+</s>
+<s>
+Proof_NN1 :_: (_( 2.2_MC )_) ._. 
+</s>
+<s>
+The_AT trace_NN1 homomorphism_NN1 induces_VVZ &lsqb;_( MJ97_FO &rsqb;_) ._. and_CC we_PPIS2 can_VM prove_VVI that_DD1 for_IF ._. 
+</s>
+<s>
+Take_VV0 to_TO be_VBI a_AT1 homogeneous_JJ invariant_JJ polynomial_NN1 with_IW variables_NN2 in_II a_AT1 n_ZZ1 x_ZZ1 n_ZZ1 matrix_NN1 A._NP1 The_AT exterior_JJ product_NN1 is_VBZ commutative_JJ on_II even-dimensional_JJ differential_NN1 forms_VVZ so_RR we_PPIS2 can_VM replace_VVI with_IW differential_JJ 2-forms_NN2 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 can_VM define_VVI ._. 
+</s>
+<s>
+As_CSA earlier_JJR ,_, there_EX is_VBZ a_AT1 matrix_NN1 B_ZZ1 of_IO 2-forms_NN2 of_IO ._. 
+</s>
+<s>
+We_PPIS2 can_VM from_II this_DD1 define_VV0 a_AT1 global_JJ 2-form_NN1 ,_, one_PN1 that_CST is_VBZ independent_JJ of_IO basis_NN1 ,_, denoted_VVD ._. 
+</s>
+<s>
+If_CS we_PPIS2 to_TO let_VVI to_TO get_VVI a_AT1 2k-form_NN1 then_RT it_PPH1 would_VM be_VBI possible_JJ to_TO prove_VVI that_CST the_AT connection_NN1 involved_VVD was_VBDZ a_AT1 closed_JJ form_NN1 and_CC that_CST the_AT cohomology_NN1 class_NN1 is_VBZ independent_JJ of_IO the_AT connection_NN1 ._. 
+</s>
+<s>
+Then_RT the_AT kth_NNU Chern_NN1 class_NN1 is_VBZ where_RRQ is_VBZ the_AT coefficient_NN1 of_IO in_II ._. 
+</s>
+<s>
+Then_RT for_CS we_PPIS2 have_VH0 the_AT kth_NNU Chern_NN1 character_NN1 class_NN1 being_VBG ._. 
+</s>
+<s>
+It_PPH1 's_VBZ simple_JJ to_TO see_VVI equivalence_NN1 with_IW the_AT earlier_JJR definition_NN1 ._. 
+</s>
+<s>
+With_IW the_AT updated_JJ definitions_NN2 ,_, say_VV0 is_VBZ a_AT1 real_JJ vector_NN1 bundle_NN1 ._. 
+</s>
+<s>
+Then_RT and_CC ._. 
+</s>
+<s>
+We_PPIS2 let_VV0 be_VBI a_AT1 smooth_JJ real_JJ 2k-dimensional_JJ vector_NN1 bundle_NN1 over_II a_AT1 manifold_JJ X_ZZ1 with_IW and_CC inner_JJ product_NN1 ._. 
+</s>
+<s>
+This_DD1 induces_VVZ a_AT1 pairing_NN1 with_IW defined_JJ where_RRQ ._. 
+</s>
+<s>
+A_AT1 connection_NN1 on_II the_AT pair_NN is_VBZ said_VVN to_TO be_VBI orthogonal_JJ if_CS ._. 
+</s>
+<s>
+Let_VVN be_VBI the_AT curvature_NN1 form_NN1 of_IO a_AT1 metric_JJ connection_NN1 ._. 
+</s>
+<s>
+We_PPIS2 treat_VV0 this_DD1 form_NN1 as_CSA we_PPIS2 did_VDD in_II the_AT previous_JJ section_NN1 and_CC finally_RR apply_VV0 the_AT Pfaffian_JJ polynomial_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 the_AT Euler_NN1 class_NN1 of_IO the_AT oriented_JJ 2k-dimensional_JJ vector_NN1 bundle_NN1 as_CSA ._. 
+</s>
+<s>
+For_IF a_AT1 complex_JJ k-dimensional_JJ complex_JJ vector_NN1 bundle_NN1 we_PPIS2 can_VM prove_VVI that_CST the_AT Euler_NN1 class_NN1 is_VBZ equal_JJ to_II the_AT kth_NNU Chern_NN1 class_NN1 ._. 
+</s>
+<s>
+Let_VVN be_VBI a_AT1 vector_NN1 bundle_NN1 and_CC take_VV0 S_ZZ1 (_( )_) to_TO be_VBI the_AT vector_NN1 space_NN1 of_IO sections_NN2 on_II the_AT bundle_NN1 ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 the_AT zero_NN1 section_NN1 in_II S_ZZ1 (_( )_) assigning_VVG the_AT origin_NN1 in_II the_AT fiber_NN1 to_II ._. 
+</s>
+<s>
+The_AT zero_NN1 section_NN1 embeds_VVZ B_ZZ1 into_II T_ZZ1 with_IW as_II a_AT1 retraction_NN1 map_NN1 and_CC then_RT is_VBZ an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+Let_VV0 denote_VVI the_AT nonzero_NN1 vectors_NN2 of_IO T._NP1 This_DD1 next_MD theorem_NN1 is_VBZ proved_VVN in_II &lsqb;_( M74_FO &rsqb;_) ._. 
+</s>
+<s>
+Theorem_NN1 51_MC ._. 
+</s>
+<s>
+(_( ThomIsomorphism_NN1 Theorem_NN1 )_) There_EX is_VBZ an_AT1 unique_JJ cohomology_NN1 class_NN1 such_CS21 that_CS22 for_IF each_DD1 fiber_NN1 F_ZZ1 ,_, the_AT image_NN1 of_IO &lsqb;_( c_ZZ1 &rsqb;_) under_II the_AT restriction_NN1 is_VBZ nonzero_NN1 ._. 
+</s>
+<s>
+Furthermore_RR ,_, defines_VVZ an_AT1 isomorphism_NN1 ._. 
+</s>
+<s>
+The_AT composition_NN1 of_IO the_AT isomorphism_NN1 and_CC the_AT one_MC1 defined_VVN in_II Theorem_NN1 51_MC is_VBZ known_VVN as_II the_AT Thom_NN1 isomorphism_NN1 ._. 
+</s>
+<s>
+Then_RT the_AT ith_MD Stiefel-Whitney_NP1 class_NN1 is_VBZ given_VVN by_II the_AT composition_NN1 where_RRQ is_VBZ a_AT1 Steenrod_NN1 square_NN1 ,_, an_AT1 additive_JJ operation_NN1 satisfying_JJ ._. 
+</s>
+<s>
+From_II this_DD1 point_NN1 on_RP we_PPIS2 restrict_VV0 our_APPGE attention_NN1 to_II 4-manifolds_NN2 and_CC their_APPGE topology_NN1 ._. 
+</s>
+<s>
+This_DD1 type_NN1 of_IO work_NN1 is_VBZ the_AT perfect_JJ setting_NN1 to_TO describe_VVI the_AT cohomology_NN1 and_CC related_JJ issues_NN2 that_CST were_VBDR in-troduced_VVN above_RL ._. 
+</s>
+<s>
+In_II this_DD1 section_NN1 we_PPIS2 will_VM direct_VVI our_APPGE attention_NN1 to_TO compact_VVI ,_, simply_RR connected_VVN ,_, differentiable_JJ 4-manifolds_NN2 and_CC will_VM give_VVI a_AT1 proof_NN1 of_IO a_AT1 result_NN1 involving_VVG simply_RR connected_VVN ,_, com-plex_JJ surfaces_NN2 ._. 
+</s>
+<s>
+We_PPIS2 will_VM be_VBI forced_VVN to_TO introduce_VVI some_DD new_JJ methods_NN2 as_RR21 well_RR22 ,_, but_CCB will_VM try_VVI to_TO approach_VVI the_AT theorem_NN1 without_IW any_DD major_JJ headaches_NN2 ._. 
+</s>
+<s>
+Many_DA2 of_IO these_DD2 new_JJ ideas_NN2 are_VBR quite_RG complicated_JJ so_CS we_PPIS2 content_VV0 ourselves_PPX2 with_IW a_AT1 more_RGR general_JJ explanation_NN1 of_IO ideas_NN2 ._. 
+</s>
+<s>
+Take_VV0 a_AT1 closed_JJ ,_, orientable_JJ four-manifold_NN1 ,_, X._NP1 By_II Poincare_NP1 duality_NN1 we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+When_CS X_ZZ1 is_VBZ simply_RR connected_VVN we_PPIS2 have_VH0 so_CS21 that_CS22 any_DD homological_JJ information_NN1 exists_VVZ only_RR in_RP ._. 
+</s>
+<s>
+By_II the_AT universal_JJ coefficient_NN1 theorem_NN1 &lsqb;_( INS_NNU2 &rsqb;_) we_PPIS2 have_VH0 being_VBG a_AT1 free_JJ abelian_JJ groups_NN2 ,_, giving_VVG the_AT fact_NN1 that_CST is_VBZ a_AT1 free_JJ abelian_JJ group_NN1 ._. 
+</s>
+<s>
+We_PPIS2 now_RT need_VV0 to_TO realize_VVI the_AT homology_NN1 and_CC cohomology_NN1 classes_NN2 of_IO a_AT1 four-manifold_JJ X._NP1 More_RRR than_CSN this_DD1 ,_, we_PPIS2 will_VM find_VVI later_RRR that_CST many_DA2 of_IO the_AT ways_NN2 of_IO doing_VDG this_DD1 will_VM prove_VVI useful_JJ at_II some_DD point_NN1 so_CS we_PPIS2 need_VV0 to_TO be_VBI able_JK to_TO work_VVI our_APPGE way_NN1 between_II them_PPHO2 ._. 
+</s>
+<s>
+The_AT first_MD way_NN1 is_VBZ by_II the_AT complex_JJ vector_NN1 bundle_NN1 of_IO rank_NN1 1_MC1 -_- complex_JJ line_NN1 bundle_NN1 -_- which_DDQ is_VBZ determined_VVN up_II21 to_II22 isomorphism_NN1 by_II its_APPGE Chern_NN1 class_NN1 in_II so_RR we_PPIS2 have_VH0 a_AT1 bijection_NN1 from_II the_AT isomorphism_NN1 classes_NN2 of_IO line_NN1 bundles_NN2 to_II ._. 
+</s>
+<s>
+We_PPIS2 can_VM also_RR use_VVI smoothly_RR embedded_VVN ,_, two-dimesional_JJ ,_, oriented_VVD surfaces_NN2 in_II X._NP1 A_ZZ1 surface_NN1 of_IO this_DD1 type_NN1 carries_VVZ a_AT1 fundamental_JJ homology_NN1 class_NN1 in_RP so_CS21 that_CS22 we_PPIS2 can_VM choose_VVI a_AT1 general_JJ smooth_JJ section_NN1 of_IO a_AT1 line_NN1 bundle_NN1 whose_DDQGE zero_NN1 set_VVD us_PPIO2 a_AT1 surface_NN1 which_DDQ represents_VVZ the_AT homology_NN1 class_NN1 that_CST is_VBZ dual_JJ to_TO ._. 
+</s>
+<s>
+Then_RT ,_, last_MD of_IO all_DB ,_, we_PPIS2 have_VH0 de_NP1 Rham_NP1 cohomology_NN1 -_- a_AT1 representation_NN1 of_IO real_JJ cohomology_NN1 classes_NN2 by_II differential_JJ forms_NN2 ._. 
+</s>
+<s>
+Let_VV0 X_ZZ1 be_VBI a_AT1 compact_NN1 ,_, oriented_VVD ,_, simply_RR connected_JJ four-manifold_NN1 ._. 
+</s>
+<s>
+The_AT Poincare_NN1 duality_NN1 isomorphism_NN1 is_VBZ equivalent_JJ to_II a_AT1 bilinear_JJ form_NN1 known_VVN as_II the_AT intersection_NN1 form_NN1 of_IO the_AT manifold_JJ X._NP1 It_PPH1 is_VBZ a_AT1 symmetric_JJ form_NN1 which_DDQ induces_VVZ an_AT1 isomorphism_NN1 between_II the_AT groups_NN2 and_CC ._. 
+</s>
+<s>
+We_PPIS2 call_VV0 the_AT latter_DA property_NN1 unimodular_JJ ._. 
+</s>
+<s>
+For_IF two_MC oriented_JJ surfaces_NN2 ,_, in_II X_ZZ1 ,_, a_AT1 four-manifold_NN1 ,_, we_PPIS2 assign_VV0 the_AT notation_NN1 to_II each_DD1 point_NN1 in_II their_APPGE intersection_NN1 according_II21 to_II22 the_AT orientations_NN2 in_II the_AT isomorphism_NN1 of_IO the_AT tangent_JJ bundles_NN2 with_IW intersection_NN1 number_NN1 given_VVN by_II the_AT total_JJ number_NN1 of_IO points_NN2 counted_VVN by_II sign_NN1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM ,_, of_RR21 course_RR22 ,_, move_VVI this_DD1 over_RP to_II homology_NN1 to_TO give_VVI the_AT form_NN1 F._NP1 Then_RT the_AT cup_NN1 product_NN1 is_VBZ ._. 
+</s>
+<s>
+In_II31 terms_II32 of_II33 de_NP1 Rham_NP1 cohomology_NN1 we_PPIS2 are_VBR given_VVN the_AT intersection_NN1 number_NN1 by_II the_AT integral_JJ for_IF some_DD closed_JJ 2-forms_NN2 ,_, representing_VVG the_AT classes_NN2 that_CST are_VBR dual_JJ to_II the_AT oriented_JJ surfaces_NN2 ,_, in_II X._NP1 We_PPIS2 know_VV0 that_CST the_AT Betti_JJ number_NN1 of_IO the_AT manifold_NN1 X_ZZ1 is_VBZ given_VVN by_II ._. 
+</s>
+<s>
+For_IF the_AT second_MD Betti_JJ number_NN1 we_PPIS2 write_VV0 where_RRQ the_AT are_VBR the_AT dimensions_NN2 of_IO the_AT maximal_JJ positive_JJ ,_, respectively_RR negative_JJ ,_, subspaces_VVZ for_IF the_AT intersection_NN1 form_NN1 on_II H_ZZ1 2_JJ (_( X_ZZ1 ;_; R_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT signature_NN1 of_IO an_AT1 oriented_JJ four-manifold_NN1 is_VBZ then_RT defined_VVN to_TO be_VBI ._. 
+</s>
+<s>
+The_AT intersection_NN1 form_NN1 on_II the_AT real_JJ vector_NN1 space_NN1 is_VBZ classified_VVN up_II21 to_II22 equivalence_NN1 by_II and_CC ._. 
+</s>
+<s>
+An_AT1 n-dimensional_JJ complex_JJ manifold_NN1 is_VBZ a_AT1 2n-dimensional_JJ smooth_JJ manifold_NN1 with_IW an_AT1 open_JJ cover_NN1 U1_FO and_CC maps_NN2 so_RR that_CST are_VBR complex_JJ differentiable_JJ on_II ._. 
+</s>
+<s>
+A_AT1 hermitian_JJ metric_JJ on_II X_ZZ1 ,_, an_AT1 n-dimensional_JJ complex_JJ manifold_NN1 ,_, is_VBZ a_AT1 positive_JJ definite_JJ hermitian_JJ inner_JJ product_NN1 ,_, an_AT1 inner_JJ product_NN1 where_CS the_AT first_MD term_NN1 is_VBZ linear_JJ and_CC the_AT second_NNT1 is_VBZ complex_JJ linear_JJ ,_, at_II each_DD1 point_NN1 which_DDQ varies_VVZ smoothly_RR over_II X._NP1 A_ZZ1 hermitian_JJ metric_JJ where_RRQ ._. 
+</s>
+<s>
+is_VBZ called_VVN a_AT1 Kahler_NN1 metric_JJ ._. 
+</s>
+<s>
+In_II this_DD1 case_NN1 ,_, is_VBZ called_VVN a_AT1 Kahler_NN1 form_NN1 and_CC a_AT1 complex_JJ manifold_NN1 that_CST is_VBZ equipped_VVN with_IW such_DA a_AT1 metric_JJ is_VBZ know_VV0 as_CSA a_AT1 Kahler_NN1 manifold_NN1 ._. 
+</s>
+<s>
+Hodge_NP1 theory_NN1 involves_VVZ a_AT1 study_NN1 of_IO the_AT algebraic_JJ topology_NN1 of_IO a_AT1 smooth_JJ manifold_NN1 X_ZZ1 of_IO the_AT partial_JJ differential_JJ equation_NN1 theory_NN1 of_IO generalised_JJ Laplacian_JJ operators_NN2 associated_VVN to_II a_AT1 Riemannian_JJ metric_JJ on_II X._NP1 In_II other_JJ words_NN2 ,_, Hodge_NP1 theory_NN1 gives_VVZ representatives_NN2 for_IF cohomology_NN1 classes_NN2 on_II X_ZZ1 ,_, a_AT1 compact_JJ Riemannian_JJ manifold_NN1 ._. 
+</s>
+<s>
+The_AT theory_NN1 was_VBDZ developed_VVN by_II W._NP1 V._II D._NP1 Hodge_NP1 in_II the_AT thirties_MC2 -_- as_II an_AT1 extension_NN1 of_IO de_NP1 Rham_NP1 cohomology_NN1 -_- and_CC it_PPH1 has_VHZ major_JJ applications_NN2 in_II the_AT discussion_NN1 of_IO Riemannian_JJ manifolds_NN2 ,_, Kahler_NP1 manifolds_NN2 and_CC algebraic_JJ geometry_NN1 of_IO complex_JJ projective_JJ varieties_NN2 ._. 
+</s>
+<s>
+The_AT adjoint_JJ operator_NN1 is_VBZ defined_VVN ._. 
+</s>
+<s>
+The_AT Hodge_NP1 theorem_NN1 gives_VVZ for_IF each_DD1 unique_JJ representative_NN1 a_AT1 of_IO a_AT1 real_JJ cohomology_NN1 class_NN1 ._. 
+</s>
+<s>
+Given_VVN a_AT1 Riemannian_JJ metric_JJ we_PPIS2 have_VH0 the_AT decomposition_NN1 into_II self-dual_JJ and_CC anti_JJ self-dual_JJ harmonic_JJ 2-forms_NN2 ._. 
+</s>
+<s>
+For_IF an_AT1 oriented_JJ four-manifold_NN1 the_AT characteristic_JJ classes_NN2 to_II hand_NN1 are_VBR the_AT familiar_JJ Euler_NN1 and_CC Pontryagin_NN1 classes_NN2 along_II21 with_II22 the_AT Stiefel-Whitney_NP1 classes_NN2 denoted_VVD by_RP% ._. 
+</s>
+<s>
+The_AT second_MD Stiefel-Whitney_NP1 class_NN1 w2_FO is_VBZ from_II the_AT mod2_FO reduction_NN1 of_IO the_AT intersection_NN1 formula_NN1 for_IF all_RR &lsqb;_( D903_FO &rsqb;_) ._. 
+</s>
+<s>
+We_PPIS2 finish_VV0 with_IW a_AT1 few_DA2 useful_JJ definitions_NN2 ._. 
+</s>
+<s>
+Given_VVN two_MC disjoint_JJ connected_JJ n-manifolds_NN2 X_ZZ1 and_CC Y_ZZ1 ,_, then_RT a_AT1 connected_JJ n-manifold_NN1 called_VVN the_AT connected_JJ sum_NN1 can_VM be_VBI constructed_VVN by_II deleting_VVG the_AT interiors_NN2 of_IO closed_JJ n-balls_NN2 and_CC and_CC identifying_VVG the_AT boundary_NN1 spheres_NN2 which_DDQ result_VV0 ._. 
+</s>
+<s>
+Define_VV0 a_AT1 complex_JJ surface_NN1 as_II a_AT1 complex_JJ manifold_NN1 of_IO dimension_NN1 2_MC -_- which_DDQ is_VBZ a_AT1 smooth_JJ 4-manifold_NN1 X._NP1 Suppose_VV0 that_CST X_ZZ1 is_VBZ an_AT1 oriented_JJ Riemann_NN1 four-manifold_NN1 ._. 
+</s>
+<s>
+From_II Hodge_NP1 theory_NN1 we_PPIS2 have_VH0 the_AT decomposition_NN1 of_IO 2-forms_NN2 on_II X_ZZ1 into_II dual_JJ and_CC anti_JJ self-dual_JJ parts_NN2 ._. 
+</s>
+<s>
+This_DD1 extends_VVZ to_II the_AT curvature_NN1 form_VV0 on_RP over_II X._NP1 Write_VV0 for_IF ._. 
+</s>
+<s>
+A_AT1 conection_NN1 is_VBZ anti_JJ self-dual_JJ if_CS ._. 
+</s>
+<s>
+On_II the_AT space_NN1 the_AT ASD_NN1 equation_NN1 is_VBZ the_AT system_NN1 of_IO PDEs_NN2 :_: ,_, ,_, ,_, for_IF ._. 
+</s>
+<s>
+ASD_VV0 connections_NN2 are_VBR solutions_NN2 of_IO the_AT Yang-Mills_NP1 equations_NN2 a_AT1 special_JJ case_NN1 of_IO the_AT Euler-Lagrange_NP1 equations_NN2 for_IF the_AT Yang-Mills_NP1 functional_JJ ,_, the_AT square_NN1 of_IO the_AT L_NP1 2-norm_NN1 of_IO the_AT curvature_NN1 form_NN1 ._. 
+</s>
+<s>
+Take_VV0 a_AT1 twice_RR differentiable_JJ function_NN1 from_II to_II and_CC a_AT1 twice_RR differentiable_JJ function_NN1 from_II to_II ._. 
+</s>
+<s>
+An_AT1 integral_JJ is_VBZ defined_VVN on_II the_AT first_MD function_NN1 which_DDQ we_PPIS2 allow_VV0 to_TO vary_VVI while_CS fixing_VVG the_AT second_NNT1 ._. 
+</s>
+<s>
+The_AT first_MD function_NN1 must_VM satisfy_VVI a_AT1 certain_JJ differential_JJ equation_NN1 when_CS we_PPIS2 try_VV0 to_TO find_VVI the_AT Lagrangian_JJ ._. 
+</s>
+<s>
+Then_RT this_DD1 equation_NN1 is_VBZ known_VVN as_II the_AT Euler-Lagrange_NP1 differential_JJ equation_NN1 or_CC the_AT Euler-Lagrange_NP1 condition_NN1 ._. 
+</s>
+<s>
+Take_VV0 l_NNU a_AT1 Hermitian_JJ line_NN1 bundle_NN1 over_II some_DD manifold_JJ X._NP1 The_AT curvature_NN1 form_NN1 for_IF the_AT connection_NN1 on_II l_ZZ1 is_VBZ known_VVN to_TO be_VBI an_AT1 imaginary_JJ 2-form_NN1 so_CS that_DD1 is_VBZ a_AT1 real_JJ 2-form_NN1 that_CST is_VBZ closed_VVN by_II Bianchi_NP1 's_GE identity_NN1 ._. 
+</s>
+<s>
+Take_VV0 a_AT1 new_JJ connection_NN1 which_DDQ gives_VVZ so_RG so_RR it_PPH1 is_VBZ dependent_JJ only_RR on_II the_AT choice_NN1 of_IO l_ZZ1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ the_AT Chern_NN1 class_NN1 c_ZZ1 1(l)_FO ._. 
+</s>
+<s>
+Let_VVN be_VBI a_AT1 vector_NN1 bundle_NN1 and_CC we_PPIS2 know_VV0 ._. 
+</s>
+<s>
+The_AT 4-form_NN1 depends_VVZ only_RR on_II ._. 
+</s>
+<s>
+These_DD2 forms_NN2 represent_VV0 a_AT1 characteristic_JJ class_NN1 of_IO ;_; for_IF a_AT1 complex_JJ vector_NN1 bundle_NN1 v._II The_AT Pontryagin_NN1 class_NN1 discussed_VVD earlier_RRR is_VBZ the_AT standard_JJ four-dimensional_JJ class_NN1 for_IF a_AT1 real_JJ orthogonal_JJ bundle_NN1 given_VVN ._. 
+</s>
+<s>
+This_DD1 bundle_NN1 also_RR has_VHZ a_AT1 Stiefel-Whitney_NP1 class_NN1 ,_, satisfying_JJ ._. 
+</s>
+<s>
+First_MD we_PPIS2 define_VV0 the_AT gauge_NN1 group_NN1 of_IO the_AT bundle_NN1 as_II the_AT set_NN1 of_IO automorphisms_NN2 which_DDQ '_VBZ &lsqb;_( respects_VVZ &rsqb;_) the_AT structure_NN1 on_II the_AT fibres_NN2 and_CC &lsqb;_( covers_VVZ &rsqb;_) the_AT identity_NN1 map_NN1 on_II &lsqb;_( the_AT smooth_JJ manifold_NN1 &rsqb;_) X'_NP1 &lsqb;_( D903_FO &rsqb;_) ._. 
+</s>
+<s>
+The_AT gauge_NN1 group_NN1 acts_VVZ on_II the_AT set_NN1 of_IO connections_NN2 ._. 
+</s>
+<s>
+The_AT moduli_NN2 space_VV0 on_II a_AT1 bundle_NN1 ,_, over_II a_AT1 compact_NN1 ,_, oriented_VVD Riemannian_JJ four-manifold_NN1 X_ZZ1 ,_, is_VBZ defined_VVN to_TO be_VBI the_AT set_NN1 of_IO gauge_NN1 equivalence_NN1 classes_NN2 of_IO ASD_NN1 connections_NN2 on_RP ._. 
+</s>
+<s>
+The_AT moduli_NN2 space_VV0 C_ZZ1 has_VHZ an_AT1 induced_JJ topology_NN1 ,_, induced_VVN by_II the_AT topology_NN1 in_II the_AT space_NN1 of_IO connections_NN2 ._. 
+</s>
+<s>
+The_AT space_NN1 is_VBZ a_AT1 Sobolev_NP1 space_NN1 and_CC is_VBZ defined_VVN to_TO be_VBI the_AT completion_NN1 of_IO the_AT space_NN1 of_IO smooth_JJ functions_NN2 on_II that_DD1 is_VBZ compactly_RR supported_VVN on_II the_AT norm_NN1 for_IF the_AT tensor_NN1 of_IO the_AT ith_MD derivatives_NN2 of_IO f_ZZ1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 for_IF a_AT1 vector_NN1 bundle_NN1 over_RG X_MC a_AT1 compact_JJ manifold_NN1 &lsqb;_( A82_FO ,_, D903_FO ,_, 1_MC1 &rsqb;_) ._. 
+</s>
+<s>
+Then_RT we_PPIS2 have_VH0 :_: Theorem_NN1 52_MC ._. 
+</s>
+<s>
+(_( Sobolev_NP1 embedding_NN1 theorem_NN1 )_) If_CS then_RT there_EX is_VBZ a_AT1 bounded_JJ inclusion_NN1 from_II into_II the_AT Banach_NN1 space_NN1 when_RRQ ._. 
+</s>
+<s>
+So_RR for_IF a_AT1 four-manifold_NN1 X_II% the_AT Sobolev_NP1 embedding_NN1 theorem_NN1 says_VVZ that_CST is_VBZ a_AT1 space_NN1 of_IO continuous_JJ functions_NN2 when_RRQ ._. 
+</s>
+<s>
+The_AT set_NN1 of_IO gauge_NN1 equivalence_NN1 classes_NN2 is_VBZ defined_VVN to_TO be_VBI the_AT quotient_NN1 space_NN1 where_CS S_ZZ1 is_VBZ the_AT space_NN1 of_IO connections_NN2 on_II and_CC Q_ZZ1 is_VBZ the_AT group_NN1 of_IO gauge_NN1 transformations_NN2 and_CC we_PPIS2 denote_VV0 the_AT equivalence_NN1 class_NN1 of_IO a_AT1 connection_NN1 by_II ._. 
+</s>
+<s>
+the_AT L2_FO metric_JJ on_II S_ZZ1 and_CC this_DD1 is_VBZ preserved_VVN by_II Q_ZZ1 so_CS we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+We_PPIS2 can_VM show_VVI that_CST this_DD1 is_VBZ a_AT1 metric_JJ in_II quite_RG a_AT1 simple_JJ way_NN1 ._. 
+</s>
+<s>
+The_AT only_JJ condition_NN1 for_IF metrics_NN2 that_CST is_VBZ n't_XX trivial_JJ is_VBZ to_TO show_VVI that_CST implies_VVZ ._. 
+</s>
+<s>
+We_PPIS2 suppose_VV0 that_DD1 and_CC we_PPIS2 let_VV0 be_VBI a_AT1 sequence_NN1 in_II S_ZZ1 with_IW all_DB gauge_NN1 equivalent_NN1 to_II and_CC the_AT sequence_NN1 converging_VVG in_RP to_II so_RR the_AT proof_NN1 depends_VVZ on_II showing_VVG that_DD1 and_CC are_VBR gauge_NN1 equivalent_NN1 ._. 
+</s>
+<s>
+If_CS then_RT we_PPIS2 can_VM prove_VVI ._. 
+</s>
+<s>
+So_RR we_PPIS2 just_RR show_VV0 that_CST g_ZZ1 lies_VVZ in_II the_AT subset_NN1 of_IO unitary_JJ sections_NN2 of_IO ._. 
+</s>
+<s>
+On_II a_AT1 Riemannian_JJ manifold_NN1 X_ZZ1 ,_, we_PPIS2 can_VM move_VVI tangent_JJ vectors_NN2 along_II a_AT1 path_NN1 by_II parallel_JJ transport_NN1 ,_, preserving_JJ vector_NN1 addition_NN1 and_CC scalar_JJ multiplication_NN1 ._. 
+</s>
+<s>
+A_AT1 closed_JJ loop_NN1 at_II a_AT1 base_NN1 point_NN1 x_ZZ1 ,_, gives_VVZ rise_NN1 to_II a_AT1 invertible_JJ linear_JJ map_NN1 of_IO Tx(X)_NP1 ,_, the_AT tangent_JJ vectors_NN2 at_II x_ZZ1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM compose_VVI these_DD2 closed_JJ loops_NN2 and_CC we_PPIS2 invert_VV0 them_PPHO2 by_II going_VVG backwards_RL ._. 
+</s>
+<s>
+The_AT set_NN1 of_IO linear_JJ transformations_NN2 resulting_VVG from_II parallel_JJ transport_NN1 along_II closed_JJ loops_NN2 is_VBZ called_VVN the_AT holonomy_NN1 group_NN1 ._. 
+</s>
+<s>
+A_AT1 connection_NN1 on_RP is_VBZ reducible_JJ if_CS the_AT holonomy_NN1 maps_NN2 of_IO all_DB loops_NN2 based_VVN at_II each_DD1 lie_NN1 in_II some_DD proper_JJ subgroup_NN1 of_IO the_AT automorphism_NN1 group_NN1 ._. 
+</s>
+<s>
+If_CS we_PPIS2 have_VH0 a_AT1 connected_JJ base_NN1 X_ZZ1 then_RT it_PPH1 is_VBZ possible_JJ to_TO find_VVI a_AT1 holonomy_NN1 group_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 of_IO in_II the_AT gauge_NN1 as_CSA ._. 
+</s>
+<s>
+We_PPIS2 can_VM show_VVI that_CST the_AT centralizer_NN1 of_IO ._. 
+</s>
+<s>
+Further_RRR ,_, for_IF small_JJ ,_, we_PPIS2 can_VM show_VVI that_CST the_AT projection_NN1 induces_VVZ a_AT1 homomophism_NN1 from_II to_II a_AT1 a_AT1 neighbourhood_NN1 of_IO and_CC for_IF ,_, the_AT isotropy_NN1 group_NN1 of_IO is_VBZ isomorphic_JJ to_II the_AT isotropy_NN1 group_NN1 of_IO ._. 
+</s>
+<s>
+This_DD1 is_VBZ for_IF ,_, where_RRQ is_VBZ the_AT bundle_NN1 of_IO Lie_NN1 algebras_NN2 associated_VVN to_II the_AT adjoint_JJ operator_NN1 ._. 
+</s>
+<s>
+Then_RT we_PPIS2 have_VH0 to_TO find_VVI the_AT solutions_NN2 of_IO the_AT ASD_NN1 equation_NN1 to_TO complete_VVI the_AT construction_NN1 of_IO the_AT moduli_NN2 space_NN1 ._. 
+</s>
+<s>
+Consider_VV0 the_AT Sobolev_NP1 space_NN1 -_- denote_VV0 by_II the_AT orbit_NN1 space_NN1 ._. 
+</s>
+<s>
+For_IF and_CC a_AT1 bundle_NN1 'we_NN1 have_VH0 a_AT1 moduli_NN2 space_NN1 composed_VVN of_IO ASD_NN1 connections_NN2 modulo_NN1 gauge_NN1 transformations_NN2 '_GE &lsqb;_( D903_FO &rsqb;_) ._. 
+</s>
+<s>
+Theorem_NN1 53_MC ._. 
+</s>
+<s>
+The_AT inclusion_NN1 is_VBZ a_AT1 homeomorhism_NN1 ._. 
+</s>
+<s>
+This_DD1 theorem_NN1 means_VVZ that_CST we_PPIS2 can_VM ditch_VVI the_AT cumbersome_JJ Sobolev-type_JJ notation_NN1 ._. 
+</s>
+<s>
+We_PPIS2 let_VV0 be_VBI an_AT1 ASD_NN1 connection_NN1 and_CC we_PPIS2 define_VV0 given_VVN by_II ._. 
+</s>
+<s>
+We_PPIS2 take_VV0 the_AT zero_NN1 set_NN1 and_CC from_II our_APPGE earlier_JJR work_NN1 we_PPIS2 see_VV0 that_CST a_AT1 homeomorphism_NN1 is_VBZ induced_VVN from_II to_II the_AT neighbourhood_NN1 of_IO in_II ._. 
+</s>
+<s>
+We_PPIS2 take_VV0 a_AT1 leap_NN1 here_RL ,_, defining_VVG and_CC stating_VVG what_DDQ we_PPIS2 need_VV0 ._. 
+</s>
+<s>
+These_DD2 results_NN2 follow_VV0 from_II what_DDQ we_PPIS2 have_VH0 discussed_VVN above_RL but_CCB the_AT ideas_NN2 involved_VVN are_VBR quite_RG complicated_JJ so_CS we_PPIS2 we_PPIS2 will_VM avoid_VVI them_PPHO2 ,_, Although_CS the_AT work_NN1 is_VBZ complex_JJ ,_, the_AT ideas_NN2 are_VBR ,_, as_CSA with_IW most_DAT work_VV0 in_II this_DD1 area_NN1 ,_, geometrically_RR reasonable_JJ so_CS21 that_CS22 we_PPIS2 can_VM get_VVI some_DD sense_NN1 of_IO what_DDQ is_VBZ happening_VVG ._. 
+</s>
+<s>
+What_DDQ we_PPIS2 want_VV0 to_TO do_VDI is_VBZ to_TO be_VBI able_JK to_TO distinguish_VVI between_II four-manifolds_NN2 that_CST have_VH0 the_AT same_DA invariants_NN2 ._. 
+</s>
+<s>
+So_RR ,_, first_MD we_PPIS2 define_VV0 some_DD new_JJ invariants_NN2 using_VVG moduli_NN2 spaces_NN2 ._. 
+</s>
+<s>
+To_TO illustrate_VVI ,_, we_PPIS2 take_VV0 the_AT simple_JJ case_NN1 of_IO a_AT1 zero-dimensional_JJ moduli_NN2 space_NN1 ._. 
+</s>
+<s>
+So_RR the_AT invariant_JJ is_VBZ an_AT1 integer_NN1 since_CS it_PPH1 is_VBZ a_AT1 class_NN1 in_II zero-dimensional_JJ homology_NN1 ._. 
+</s>
+<s>
+Take_VV0 a_AT1 simply-connected_JJ four-manifold_NN1 with_IW with_IW an_AT1 SO(3)_FO bundle_NN1 with_IW nonzero_NN1 and_CC for_IF ._. 
+</s>
+<s>
+We_PPIS2 can_VM see_VVI that_DD1 for_IF this_DD1 to_TO be_VBI true_JJ ,_, must_VM be_VBI odd_JJ so_CS that_DD1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 the_AT invariant_JJ to_TO be_VBI for_IF the_AT sign_NN1 at_II a_AT1 point_NN1 depending_II21 on_II22 the_AT orientation_NN1 of_IO the_AT determinant_NN1 line_NN1 bundle_NN1 and_CC the_AT moduli_NN2 space_VV0 for_IF some_DD generic_JJ metric_JJ g_ZZ1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM prove_VVI that_CST q_ZZ1 is_VBZ independent_JJ of_IO the_AT choice_NN1 of_IO generic_JJ metric_JJ g_ZZ1 ._. 
+</s>
+<s>
+We_PPIS2 can_VM apply_VVI this_DD1 idea_NN1 more_RGR generally_RR ._. 
+</s>
+<s>
+That_REX21 is_REX22 ,_, we_PPIS2 can_VM define_VVI invariants_NN2 of_IO a_AT1 four-manifold_JJ X_ZZ1 by_II a_AT1 process_NN1 similar_JJ to_II above_RL -_- taking_VVG the_AT moduli_NN2 space_VV0 to_TO contain_VVI some_DD homology_NN1 class_NN1 that_CST is_VBZ indepdenent_JJ of_IO the_AT choice_NN1 of_IO generic_JJ metric_JJ ._. 
+</s>
+<s>
+Theorem_NN1 54_MC ._. 
+</s>
+<s>
+Let_VV0 X_ZZ1 be_VBI a_AT1 simply_RR connected_JJ four-manifold_NN1 with_IW odd_JJ ,_, and_CC suppose_VV0 that_DD1 with_IW ._. 
+</s>
+<s>
+Then_RT the_AT polynomial_NN1 invariants_NN2 are_VBR identically_RR zero_MC ._. 
+</s>
+<s>
+We_PPIS2 now_RT complete_VV0 our_APPGE investigation_NN1 ._. 
+</s>
+<s>
+Corollary_NN1 2_MC ._. 
+</s>
+<s>
+For_IF any_DD simply-connected_NN1 ,_, complex_JJ surface_NN1 S_ZZ1 with_IW there_RL is_VBZ a_AT1 smooth_JJ four-manifold_JJ X(S)_MC2 which_DDQ is_VBZ homotopy_NN1 equivalent_JJ to_TO but_CCB not_XX diffeomorphic_JJ to_II S_ZZ1 ,_, nor_CC to_II any_DD complex_JJ surface_NN1 ._. 
+</s>
+<s>
+This_DD1 theorem_NN1 follows_VVZ from_II :_: Corollary_NN1 3_MC ._. 
+</s>
+<s>
+No_UH simply_RR connected_VVN ,_, complex_JJ ,_, algebraic_JJ surface_NN1 S_ZZ1 can_VM be_VBI written_VVN as_II a_AT1 smooth_JJ connected_JJ sum_NN1 with_IW and_CC positive_JJ ._. 
+</s>
+<s>
+This_DD1 theorem_NN1 is_VBZ as_CSA follows_VVZ from_II the_AT next_MD theorem_NN1 and_CC the_AT results_NN2 regarding_II polynomial_NN1 invariants_NN2 ._. 
+</s>
+<s>
+Theorem_NN1 55_MC ._. 
+</s>
+<s>
+We_PPIS2 have_VH0 for_IF large_JJ k_ZZ1 if_CS S_ZZ1 is_VBZ a_AT1 compact_NN1 ,_, simply_RR connected_VVN ,_, complex_JJ surface_NN1 with_IW ._. 
+</s>
+<s>
+This_DD1 theorem_NN1 is_VBZ implied_VVN by_II the_AT following_JJ central_JJ result_NN1 that_CST we_PPIS2 have_VH0 aimed_VVN to_TO discuss_VVI ._. 
+</s>
+<s>
+We_PPIS2 saw_VVD earlier_RRR that_CST the_AT four-manifold_NN1 has_VHZ a_AT1 standard_JJ orientation_NN1 with_IW ._. 
+</s>
+<s>
+The_AT embedding_NN1 of_IO S_ZZ1 in_II projective_JJ space_NN1 defines_VVZ h_ZZ1 ,_, a_AT1 hyperplane_NN1 class_NN1 in_RP ._. 
+</s>
+<s>
+Theorem_NN1 56_MC ._. 
+</s>
+<s>
+For_IF any_DD simply_RR connected_VVN ,_, complex_JJ algebraic_JJ surface_NN1 S_ZZ1 ,_, with_IW and_CC any_DD hyperplane_NN1 class_NN1 h_ZZ1 in_II there_RL is_VBZ a_AT1 such_CS21 that_CS22 for_IF and_CC any_DD Stiefel-Whitney_NP1 class_NN1 which_DDQ is_VBZ the_AT reduction_NN1 of_IO a_AT1 (_( 1,1_MC )_) class_NN1 ,_, we_PPIS2 have_VH0 ._. 
+</s>
+<s>
+A_AT1 detailed_JJ proof_NN1 is_VBZ included_VVN in_II Section_NN1 10.1.4_MC of_IO &lsqb;_( D903_FO &rsqb;_) ._. 
+</s>
+<s>
+We_PPIS2 will_VM not_XX attempt_VVI to_TO give_VVI a_AT1 proof_NN1 but_CCB will_VM discuss_VVI the_AT more_RGR comprehensible_JJ ideas_NN2 behind_II it_PPH1 ._. 
+</s>
+<s>
+We_PPIS2 let_VV0 S_ZZ1 be_VBI a_AT1 complex_JJ ,_, algebraic_JJ surface_NN1 ._. 
+</s>
+<s>
+We_PPIS2 put_VV0 a_AT1 Kahler_NN1 metric_JJ on_II S_ZZ1 ,_, that_DD1 is_VBZ compatible_JJ with_IW a_AT1 certain_JJ projective_JJ embedding_NN1 &lsqb;_( D903_FO &rsqb;_) ._. 
+</s>
+<s>
+The_AT de_NP1 Rham_NP1 cohomology_NN1 of_IO the_AT metric_JJ 2-form_NN1 is_VBZ dual_JJ (_( Poincare_NP1 )_) to_II the_AT hyperplane_NN1 section_NN1 class_NN1 ._. 
+</s>
+<s>
+We_PPIS2 define_VV0 ,_, &lsqb;_( X_ZZ1 &rsqb;_) )_) where_RRQ is_VBZ a_AT1 specific_JJ cohomology_NN1 class_NN1 and_CC for_IF X_ZZ1 the_AT compact_NN1 ,_, regular_JJ moduli_NN2 space_NN1 of_IO ASD_NN1 connections_NN2 defined_VVN relative_II21 to_II22 the_AT Kahler_NN1 metric_JJ ._. 
+</s>
+<s>
+We_PPIS2 know_VV0 that_CST we_PPIS2 can_VM represent_VVI by_II the_AT 2-form_NN1 since_CS the_AT metric_JJ form_NN1 is_VBZ self_JJ% dual_JJ ._. 
+</s>
+<s>
+By_II de_NP1 Rham_NP1 cohomology_NN1 ,_, ._. 
+</s>
+<s>
+Then_RT as_CSA required_VVN since_II X_ZZ1 must_VM be_VBI a_AT1 complex_JJ manifold_NN1 and_CC the_AT 2-form_NN1 of_IO the_AT natural_JJ Kahler_NN1 metric_JJ on_II X._NP1 ,_, the_AT Riemannian_JJ volume_NN1 element_NN1 on_II X_ZZ1 &lsqb;_( MJ97_FO &rsqb;_) ,_, so_RR ._. 
+</s>

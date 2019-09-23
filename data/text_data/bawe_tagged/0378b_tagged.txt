@@ -1,0 +1,288 @@
+<s>
+Vinyl_NN1 polymers_NN2 and_CC block_NN1 copolymers_NN2 of_IO methacrylates_NN2 can_VM be_VBI synthesized_VVN using_VVG an_AT1 alkyl_NN1 bromide_NN1 initiator_NN1 and_CC a_AT1 copper(I)_NN2 catalyst_NN1 of_IO different_JJ ligands_NN2 via_II living_VVG radical_JJ polymerisation_NN1 ._. 
+</s>
+<s>
+Living_JJ polymerization_NN1 is_VBZ a_AT1 form_NN1 of_IO addition_NN1 polymerization_NN1 that_CST is_VBZ free_JJ from_II side_NN1 reactions_NN2 such_II21 as_II22 termination_NN1 and_CC chain_NN1 transfer_NN1 ._. 
+</s>
+<s>
+This_DD1 can_VM give_VVI polymers_NN2 of_IO defined_JJ architectures_NN2 and_CC molecular_JJ weights_NN2 (_( M_ZZ1 w_ZZ1 )_) ._. 
+</s>
+<s>
+The_AT number_NN1 of_IO polymer_NN1 chains_NN2 is_VBZ limited_VVN by_II the_AT number_NN1 of_IO initiator_NN1 molecules_NN2 ._. 
+</s>
+<s>
+The_AT growing_JJ chains_NN2 can_VM polymerize_VVI infinitely_RR until_CS the_AT concentration_NN1 of_IO monomer_NN1 ceases_VVZ ._. 
+</s>
+<s>
+The_AT effectiveness_NN1 of_IO this_DD1 polymerization_NN1 is_VBZ to_TO produce_VVI a_AT1 narrow_JJ PDi_NP1 polymer_NN1 of_IO controlled_JJ number-average_NN1 molecular_JJ weight_NN1 (_( M_ZZ1 n_ZZ1 )_) .1,2_MC A_ZZ1 ratio_NN1 of_IO M_ZZ1 w_ZZ1 to_II M_ZZ1 n_ZZ1 would_VM give_VVI a_AT1 narrow_JJ PDi_NP1 of_IO around_RG 1.1_MC ._. 
+</s>
+<s>
+PDi_NP1 is_VBZ the_AT polydispersity_NN1 index_NN1 which_DDQ is_VBZ the_AT measure_NN1 of_IO the_AT distribution_NN1 of_IO molecular_JJ mass_NN1 in_II a_AT1 polymer_NN1 sample_NN1 ._. 
+</s>
+<s>
+This_DD1 allows_VVZ a_AT1 vast_JJ amount_NN1 of_IO different_JJ polymer_NN1 structure_NN1 such_II21 as_II22 block_NN1 co-polymers_NN2 ,_, graft_VV0 co-polymers_NN2 ,_, star_NN1 polymers_NN2 to_TO be_VBI made_VVN ._. 
+</s>
+<s>
+The_AT introduction_NN1 of_IO free_JJ radicals_NN2 into_II this_DD1 form_NN1 of_IO polymerization_NN1 enables_VVZ the_AT synthesis_NN1 of_IO a_AT1 range_NN1 of_IO polymers_NN2 to_TO be_VBI achieved_VVN but_CCB relieving_VVG all_DB the_AT constraints_NN2 of_IO anionic_JJ transfer_NN1 polymerization_NN1 ._. 
+</s>
+<s>
+Constraints_NN2 such_II21 as_II22 clean_JJ glassware_NN1 ,_, pure_JJ reagents_NN2 and_CC pure_JJ solvents_NN2 are_VBR required_VVN as_CSA termination_NN1 can_VM be_VBI achieved_VVN by_II abduction_NN1 of_IO H+_FO source_NN1 from_II the_AT environment_NN1 ._. 
+</s>
+<s>
+The_AT termination_NN1 process_NN1 can_VM be_VBI avoided_VVN by_II the_AT using_VVG a_AT1 suitable_JJ halogen_NN1 as_II a_AT1 "_" cap_NN1 "_" to_II the_AT active_JJ growing_JJ radical_NN1 species.1,2_FO ._. 
+</s>
+<s>
+Matyjaszewski_NP1 3_MC and_CC Sawamoto_NP1 4_MC developed_VVD the_AT use_NN1 of_IO low_JJ valent_JJ ,_, late_JJ metal_NN1 complexes_NN2 as_CSA halogen_NN1 transfer_NN1 agents_NN2 ._. 
+</s>
+<s>
+Many_DA2 transition_NN1 metals_NN2 such_II21 as_II22 nickel_NN1 ,_, palladium_NN1 ,_, iron_NN1 have_VH0 been_VBN reported_VVN but_CCB recent_JJ work_NN1 showed_VVD that_CST copper(I)_NN2 based_VVN complexes_NN2 are_VBR effective_JJ at_II conventional_JJ free-_JJ radical_JJ polymerization_NN1 ,_, living_JJ polymerization_NN1 and_CC the_AT investigation_NN1 of_IO ratios_NN2 of_IO co-polymerisation.5,6_FO Copper(I)_JJ bromide_NN1 was_VBDZ used_VVN to_TO react_VVI with_IW 2_MC ligands_VVZ to_TO form_VVI a_AT1 Copper(I)_JJ square_JJ planar_JJ complex_NN1 as_II a_AT1 ligand_NN1 catalyst_NN1 (_( Scheme_NN1 2_MC )_) .1_MC The_AT synthesis_NN1 of_IO all_DB ligands_NN2 ,_, intiator_NN1 ,_, polymers_NN2 and_CC block_NN1 copolymer_NN1 must_VM be_VBI done_VDN under_II nitrogen_NN1 in_BCL21 order_BCL22 to_TO prevent_VVI copper(I)_NN2 being_VBG oxidaised_VVN to_II copper(II)_NN2 ._. 
+</s>
+<s>
+Ligands_NN2 of_IO different_JJ types_NN2 can_VM be_VBI prepared_VVN by_II undergoing_VVG a_AT1 condensation_NN1 reaction_NN1 with_IW primary_JJ amines_NN2 with_IW pyridine-2-carboxaldehyde_NN1 (_( Scheme_NN1 1_MC1 )_) .1_MC These_DD2 are_VBR ligands_NN2 for_IF copper_NN1 (_( I_ZZ1% )_) catalyst_NN1 for_IF a_AT1 range_NN1 of_IO methacrylates_NN2 in_II toluene_NN1 ._. 
+</s>
+<s>
+Propyl_NN1 ligand_NN1 and_CC pentyl_NN1 ligand_NN1 were_VBDR synthesized_VVN in_BCL21 order_BCL22 to_TO investigate_VVI the_AT effect_NN1 of_IO R_ZZ1 group_NN1 chain_NN1 length_NN1 on_II rate_NN1 of_IO polymerisation_NN1 ._. 
+</s>
+<s>
+A_AT1 range_NN1 of_IO phenolic_JJ esters_NN2 can_VM be_VBI used_VVN as_II the_AT initiator._NNU 2-_JJ Napthol_NN1 initiator_NN1 was_VBDZ synthesized_VVN by_II undergoing_VVG an_AT1 esterification_NN1 of_IO 2-_JJ napthol_NN1 with_IW 2-_JJ bromobutyryl_NN1 bromide_NN1 in_II the_AT presence_NN1 of_IO triethylamine_NN1 (_( Scheme_NN1 3_MC )_) .2_MC ._. 
+</s>
+<s>
+Methyl_NN1 methacrylate_NN1 (_( MMA_NP1 )_) and_CC butyl_NN1 methacrylate_NN1 (_( BMA_NP1 )_) were_VBDR used_VVN as_CSA monomers_NN2 in_BCL21 order_BCL22 to_TO examine_VVI the_AT effects_NN2 of_IO R_ZZ1 group_NN1 chain_NN1 length_NN1 on_II the_AT rate_NN1 of_IO polymerization_NN1 ._. 
+</s>
+<s>
+The_AT C-Br_JJ bond_NN1 can_VM cleave_VVI homolytically_RR to_TO give_VVI two_MC radical_JJ species_NN ;_; (_( Initiator_NP1 )_) I_ZZ1% and_CC Br_JJ ._. 
+</s>
+<s>
+Note_VV0 :_: The_AT chemical_JJ composition_NN1 of_IO the_AT "_" y_ZZ1 "_" repeating_JJ unit_NN1 might_VM not_XX have_VHI an_AT1 alternating_JJ pattern_NN1 but_CCB a_AT1 more_RGR complex_JJ or_CC a_AT1 random_JJ pattern_NN1 ._. 
+</s>
+<s>
+Block_NN1 copolymers_NN2 can_VM also_RR be_VBI synthesized_VVN by_II adding_VVG a_AT1 second_MD monomer_NN1 ._. 
+</s>
+<s>
+The_AT reactivity_NN1 of_IO both_DB2 monomers_NN2 can_VM be_VBI examined_VVN ._. 
+</s>
+<s>
+MMA_NP1 was_VBDZ used_VVN as_II the_AT first_MD monomer_NN1 and_CC benzyl_NN1 methyacrylate_NN1 (_( BzMA_NP1 )_) was_VBDZ used_VVN as_II the_AT second_MD monomer_NN1 ._. 
+</s>
+<s>
+Propyl_NN1 ligand_NN1 was_VBDZ synthesized_VVN and_CC characterised_VVN using_VVG proton_NN1 NMR_NP1 and_CC FT-_JJ IR_NN1 ._. 
+</s>
+<s>
+FT-_JJ IR_NN1 of_IO the_AT starting_NN1 materials_NN2 for_IF propyl_NN1 ligand_NN1 were_VBDR collected_VVN so_RR the_AT reaction_NN1 can_VM be_VBI tracked_VVN ._. 
+</s>
+<s>
+Yield_VV0 :_: 11.0834g_NNU ,_, 73%_NNU ;_; boiling_JJ point_NN1 :_: 94-_NN1 96_MC c_ZZ1 ._. 
+</s>
+<s>
+FT-_JJ IR_NN1 of_IO pyridine-2-carboxaldehyde_NN1 :_: 1708_MC cm_NNU -1_MC ,_, (_( C=O_FO )_) ,_, FT-IR_NN1 of_IO propyl_NN1 amine_NN1 :_: 3367_MC and_CC 3288_MC cm_NNU -1_MC and_CC FT-_JJ IR_NN1 of_IO propyl_NN1 ligand_NN1 :_: 1649_MC cm_NNU -1_MC (_( Fig_NN1 7_MC )_) ,_, (_( C=N_FO )_) ._. 
+</s>
+<s>
+1H_FO NMR_NP1 (_( CDCl_NP1 3_MC ,_, 298_MC K_ZZ1 ,_, 250_MC MHz_NNU )_) :_: 1.0_MC (_( t_ZZ1 ,_, 3H_FO )_) ,_, 1.75_MC (_( p_ZZ1 ,_, 2H_FO )_) ,_, 3.45_MC (_( t_ZZ1 ,_, 2H_FO )_) ,_, 7.35_MC (_( t_ZZ1 ,_, 1H_FO )_) ,_, 7.7_MC (_( t_ZZ1 ,_, 1H_FO )_) ,_, 8.0_MC (_( d_ZZ1 ,_, 1H_FO )_) ,_, 8.35_MC (_( s_ZZ1 ,_, 1H_FO )_) ,_, 8.65_MC (_( d_ZZ1 ,_, 1H_FO )_) ._. 
+</s>
+<s>
+(_( Fig_NN1 11_MC )_) ._. 
+</s>
+<s>
+Pentyl_NN1 ligand_NN1 and_CC 2-napthol_JJ initiator_NN1 were_VBDR also_RR synthesized_VVN and_CC characterised_VVN using_VVG FT-IR_JJ and_CC 1H_FO NMR_NP1 ._. 
+</s>
+<s>
+The_AT melting_NN1 point_NN1 of_IO 2-napthol_JJ initiator_NN1 was_VBDZ also_RR obtained_VVN ._. 
+</s>
+<s>
+The_AT living_JJ radical_JJ polymerisation_NN1 was_VBDZ carried_VVN out_RP by_II reacting_VVG monomer(s)_NN2 (_( MMA_NP1 or_CC MMA_NP1 and_CC BzMA_NP1 or_CC BMA_NP1 )_) ,_, 2-napthol_JJ initiator_NN1 ,_, a_AT1 ligand_NN1 and_CC CuBr_VV0 in_II toluene_NN1 at_II 90_MC c_ZZ1 ._. 
+</s>
+<s>
+In_BCL21 order_BCL22 to_TO investigate_VVI the_AT effects_NN2 of_IO different_JJ monomers_NN2 and_CC ligands_VVZ on_II the_AT polymerisation_NN1 and_CC the_AT chemical_JJ compostition_NN1 of_IO polymers_NN2 ,_, five_MC different_JJ polymerisation_NN1 reactions_NN2 were_VBDR devised_VVN (_( Table_NN1 1_MC1 )_) ._. 
+</s>
+<s>
+The_AT polymers_NN2 were_VBDR isolated_VVN by_II precipitation._NNU 10.0457_MC g_NNU of_IO white_JJ polymer_NN1 A_ZZ1 was_VBDZ formed_VVN ._. 
+</s>
+<s>
+The_AT polymer_NN1 was_VBDZ characterised_VVN by_II FT-IR_NN1 with_IW the_AT key_JJ signal_NN1 at_II 1724_MC cm_NNU -1_MC (_( Fig_NN1 10_MC )_) ,_, (_( CO-O_ZZ1 )_) ._. 
+</s>
+<s>
+For_IF each_DD1 polymerisation_NN1 reaction_NN1 ,_, a_AT1 sample_NN1 was_VBDZ taken_VVN at_II 2_MC ,_, 4_MC and_CC 28_MC hours_NNT2 for_IF 1H_FO NMR_NP1 and_CC GPC_NP1 analysis_NN1 (_( Fig_NN1 11-17_MCMC )_) ._. 
+</s>
+<s>
+The_AT relative_JJ concentrations_NN2 of_IO free_JJ MMA_NN1 monomer_NN1 &lsqb;_( M_ZZ1 &rsqb;_) and_CC bound_VVD MMA_NP1 monomer_NN1 &lsqb;_( M_ZZ1 p_ZZ1 &rsqb;_) can_VM be_VBI analysed_VVN through_II the_AT relative_JJ integral_JJ sizes_NN2 from_II the_AT NMR_NP1 signals_NN2 at_II =_FO 3.5_MC ppm_NNU and_CC 3.65_MC ppm_NNU respectively_RR hence_RR giving_VVG the_AT %_NNU conversion_NN1 (_( Table_NN1 2_MC )_) ._. 
+</s>
+<s>
+The_AT initial_JJ concentration_NN1 of_IO MMA_NN1 monomers_NN2 at_II t_ZZ1 =_FO 0_MC equals_NN2 to_II &lsqb;_( M_ZZ1 &rsqb;_) +_FO &lsqb;_( M_ZZ1 p_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+As_II the_AT reaction_NN1 progresses_VVZ ,_, the_AT ratio_NN1 of_IO &lsqb;_( M_ZZ1 &rsqb;_) /_FO &lsqb;_( M_ZZ1 p_ZZ1 &rsqb;_) decreases_VVZ gradually_RR which_DDQ successfully_RR show_VV0 that_CST the_AT polymer_NN1 chain_NN1 is_VBZ propagating_VVG ._. 
+</s>
+<s>
+The_AT rate_NN1 of_IO chain_NN1 propagation_NN1 Ratep_NN1 can_VM be_VBI lead_VVN to_II expression_NN1 (_( 1_MC1 )_) ,_, where_CS kp_NNU is_VBZ a_AT1 constant_JJ and_CC &lsqb;_( M_ZZ1 &rsqb;_) is_VBZ the_AT concentration_NN1 of_IO radicals_NN2 formed.6_FO (_( 1_MC1 )_) ._. 
+</s>
+<s>
+In_II theory_NN1 ,_, termination_NN1 does_VDZ not_XX occur_VVI in_II living_VVG radical_JJ polymerisation_NN1 so_RG therefore_RR Kt_NP1 =_FO 0_MC thus_RR &lsqb;_( M_ZZ1 &rsqb;_) equals_VVZ the_AT concentration_NN1 of_IO initiator_NN1 &lsqb;_( I_ZZ1% &rsqb;_) and_CC this_DD1 does_VDZ not_XX change_VVI with_IW time_NNT1 ,_, t_ZZ1 ;_; hence_RR giving_VVG expression_NN1 (_( 2_MC )_) .6_MC (_( 2_MC )_) ._. 
+</s>
+<s>
+This_DD1 indicates_VVZ that_CST a_AT1 plot_NN1 of_IO ln_NNU (_( &lsqb;_( M_ZZ1 &rsqb;_) 0/_FO &lsqb;_( M_ZZ1 &rsqb;_) )_) against_II time_NNT1 is_VBZ linear_JJ ,_, with_IW the_AT time_NNT1 =_FO 0_MC and_CC the_AT gradient_NN1 =_FO kp&lsqb;M_NNU &rsqb;_) ;_; i.e._REX :_: kinetic_JJ plot.1,2_FO Degree_NN1 of_IO polymerisation_NN1 (_( DP_NP1 n_ZZ1 )_) is_VBZ the_AT ratio_NN1 of_IO &lsqb;_( M_ZZ1 p_ZZ1 &rsqb;_) /_FO &lsqb;_( I_ZZ1% &rsqb;_) at_II a_AT1 specific_JJ %_NNU conversion_NN1 or_CC the_AT number_NN1 of_IO repeating_JJ units_NN2 in_II a_AT1 polymer_NN1 ._. 
+</s>
+<s>
+Theoretical_JJ DP_NP1 n_ZZ1 can_VM be_VBI calculated_VVN using_VVG the_AT ratio_NN1 of_IO &lsqb;_( M_ZZ1 &rsqb;_) /_FO &lsqb;_( I_ZZ1% &rsqb;_) at_II a_AT1 %_NNU conversion_NN1 obtained_VVN from_II 1H_FO NMR_NP1 at_II a_AT1 specific_JJ time_NNT1 ._. 
+</s>
+<s>
+A_AT1 plot_NN1 of_IO M_ZZ1 n_ZZ1 against_II %_NNU conversion_NN1 would_VM give_VVI an_AT1 indication_NN1 of_IO the_AT DP_NP1 n.1,2_FO ._. 
+</s>
+<s>
+From_II the_AT GPC_NP1 analysis_NN1 ,_, the_AT experimental_JJ M_ZZ1 n_ZZ1 ,_, M_ZZ1 w_ZZ1 and_CC PDi_NP1 can_VM be_VBI obtained_VVN (_( Table_NN1 2_MC )_) ._. 
+</s>
+<s>
+A_AT1 narrow_JJ PDi_NP1 should_VM be_VBI obtained_VVN due_II21 to_II22 the_AT mechanism_NN1 of_IO polymerisation_NN1 ._. 
+</s>
+<s>
+Theoretical_JJ Mn_FO can_VM be_VBI calculated_VVN using_VVG equation_NN1 3_MC ,_, where_CS M_ZZ1 o_ZZ1 is_VBZ the_AT mass_NN1 of_IO the_AT repeating_JJ unit_NN1 ,_, M_ZZ1 wI_NN2 is_VBZ the_AT molecular_JJ weight_NN1 of_IO the_AT initiator_NN1 and_CC is_VBZ the_AT extent_NN1 of_IO reaction_NN1 (_( e.g._REX :_: 50%_NNU conversion_NN1 ,_, =_FO 0.5_MC )_) ._. 
+</s>
+<s>
+(_( 3_MC )_) ._. 
+</s>
+<s>
+The_AT kinetic_JJ plot_NN1 indicates_VVZ the_AT rate_NN1 of_IO polymerisation_NN1 reactions_NN2 using_VVG different_JJ ligands_NN2 and_CC monomers_NN2 ._. 
+</s>
+<s>
+All_DB polymerisations_NN2 showed_VVD linear_JJ lines_NN2 with_IW y-_NN1 intercept_VV0 of_IO 0_MC ._. 
+</s>
+<s>
+A_ZZ1 ,_, B_ZZ1 ,_, D_ZZ1 and_CC E_ZZ1 showed_VVD very_RG good_JJ fit_JJ but_CCB however_RR ,_, C_NP1 did_VDD not_XX ._. 
+</s>
+<s>
+A_AT1 possible_JJ reason_NN1 is_VBZ that_CST the_AT polymer_NN1 chains_NN2 have_VH0 stopped_VVN propagation_NN1 before_II 28_MC hours_NNT2 which_DDQ was_VBDZ indicated_VVN with_IW the_AT low_JJ final_JJ %_NNU conversion_NN1 ._. 
+</s>
+<s>
+Early_JJ termination_NN1 could_VM be_VBI due_II21 to_II22 combination_NN1 of_IO two_MC radical_JJ chains_NN2 or_CC disproportionation_NN1 ._. 
+</s>
+<s>
+Another_DD1 possible_JJ reason_NN1 is_VBZ the_AT low_JJ initiator_NN1 efficiency_NN1 which_DDQ is_VBZ caused_VVN by_II also_RR combination_NN1 of_IO two_MC initiator_NN1 radicals_NN2 and_CC disproportionation_NN1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ reflected_VVN by_II the_AT high_JJ PDi_NP1 of_IO about_RG 2_MC ._. 
+</s>
+<s>
+Similarly_RR ,_, A_ZZ1 PDi_NP1 of_IO about_RG 2_MC can_VM be_VBI observed_VVN for_IF polymerisation_NN1 D_ZZ1 at_II 28_MC hours_NNT2 ._. 
+</s>
+<s>
+However_RR ,_, this_DD1 is_VBZ not_XX due_JJ to_II early_JJ termination_NN1 but_CCB a_AT1 low_JJ &lsqb;_( M_ZZ1 &rsqb;_) ._. 
+</s>
+<s>
+The_AT %_NNU conversion_NN1 was_VBDZ so_RG high_JJ that_CST the_AT growing_JJ polymer_NN1 chains_NN2 have_VH0 lack_NN1 of_IO monomer_NN1 radicals_NN2 to_TO propagate_VVI so_RG therefore_RR forced_VVN to_TO terminate_VVI via_II combination_NN1 ._. 
+</s>
+<s>
+C_NP1 showed_VVD a_AT1 higher_JJR rate_NN1 than_CSN D_ZZ1 which_DDQ suggested_VVD that_DD1 MMA_NN1 might_VM give_VVI a_AT1 higher_JJR rate_NN1 of_IO polymerisation_NN1 than_CSN BzMA_NP1 ._. 
+</s>
+<s>
+Exception_NN1 were_VBDR at_II the_AT 28_MC hours_NNT2 samples_NN2 of_IO C_ZZ1 and_CC D_ZZ1 which_DDQ all_DB gave_VVD a_AT1 PDi_NP1 of_IO around_RG 1.1_MC indicating_VVG that_CST there_EX is_VBZ a_AT1 narrow_JJ molecular_JJ weight_NN1 distribution_NN1 with_IW this_DD1 living_JJ radical_JJ polymerisation_NN1 ,_, i.e._REX :_: the_AT polymer_NN1 chains_NN2 are_VBR of_IO very_RG similar_JJ length_NN1 ._. 
+</s>
+<s>
+A_AT1 possible_JJ explanation_NN1 for_IF this_DD1 is_VBZ that_CST BzMA_NP1 is_VBZ more_RGR bulky_JJ therefore_RR reacts_VVZ slower_RRR hence_RR the_AT rate_NN1 of_IO propagation_NN1 is_VBZ lower_JJR ._. 
+</s>
+<s>
+This_DD1 was_VBDZ also_RR supported_VVN by_II the_AT %_NNU conversion_NN1 of_IO BzMA_NP1 relative_II21 to_II22 MMA_NP1 at_II 4_MC hours_NNT2 ._. 
+</s>
+<s>
+The_AT %_NNU conversion_NN1 ratio_NN1 was_VBDZ 100_MC %_NNU ._. 
+</s>
+<s>
+MMA_NP1 :_: 0_MC %_NNU BzMA_NP1 ._. 
+</s>
+<s>
+This_DD1 is_VBZ only_RR an_AT1 estimate_NN1 as_II the_AT block_NN1 copolymer_NN1 would_VM consists_VVZ of_IO a_AT1 block_NN1 of_IO just_JJ MMA_NN1 monomers_NN2 then_RT a_AT1 mixture_NN1 of_IO MMA_NP1 and_CC BzMA_NP1 which_DDQ is_VBZ followed_VVN by_II just_JJ BzMA_NN1 monomers_NN2 ._. 
+</s>
+<s>
+The_AT length_NN1 of_IO each_DD1 block_NN1 vary_VV0 according_II21 to_II22 reactivity_NN1 of_IO the_AT monomer_NN1 ._. 
+</s>
+<s>
+The_AT pattern_NN1 of_IO the_AT mixture_NN1 block_NN1 is_VBZ hard_JJ to_TO predict_VVI ._. 
+</s>
+<s>
+The_AT pattern_NN1 could_VM be_VBI random_JJ or_CC could_VM be_VBI defined_VVN ._. 
+</s>
+<s>
+The_AT exact_JJ length_NN1 of_IO each_DD1 blocks_VVZ is_VBZ not_XX known_VVN but_CCB however_RR ,_, it_PPH1 can_VM be_VBI predicted_VVN ._. 
+</s>
+<s>
+If_CS BzMA_NP1 was_VBDZ added_VVN at_II an_AT1 earlier_JJR stage_NN1 ,_, the_AT block_NN1 of_IO MMA_NN1 would_VM be_VBI smaller_JJR and_CC the_AT mixture_NN1 block_NN1 would_VM be_VBI bigger_JJR than_CSN and_CC the_AT BzMA_NP1 block_NN1 would_VM be_VBI smaller_JJR than_CSN if_CS it_PPH1 was_VBDZ added_VVN at_II a_AT1 later_JJR stage_NN1 ._. 
+</s>
+<s>
+Block_NN1 copolymers_NN2 show_VV0 a_AT1 higher_JJR rate_NN1 as_II the_AT &lsqb;_( M_ZZ1 &rsqb;_) is_VBZ doubled_VVN ._. 
+</s>
+<s>
+Even_CS21 though_CS22 the_AT end_NN1 polymer_NN1 made_VVN by_II A_ZZ1 and_CC B_ZZ1 are_VBR the_AT same_DA ,_, the_AT rate_NN1 of_IO polymerisation_NN1 is_VBZ not_XX ._. 
+</s>
+<s>
+This_DD1 is_VBZ due_II21 to_II22 the_AT ligand_NN1 attached_VVN to_II the_AT copper(I)_NN2 catalyst_NN1 ._. 
+</s>
+<s>
+Pentyl_NN1 ligand_NN1 showed_VVD a_AT1 slightly_RR higher_JJR rate_NN1 than_CSN propyl_NN1 ligand_NN1 ._. 
+</s>
+<s>
+Pentyl_NN1 ligand_NN1 has_VHZ a_AT1 longer_JJR R_ZZ1 group_NN1 so_RG therefore_RR is_VBZ more_RGR soluble_JJ in_II organic_JJ solvents_NN2 such_II21 as_II22 toluene_NN1 than_CSN propyl_NN1 ligand.7_FO The_AT more_RGR soluble_JJ it_PPH1 is_VBZ ,_, the_AT more_DAR catalyst_NN1 took_VVD part_NN1 in_II the_AT reaction_NN1 ._. 
+</s>
+<s>
+However_RR ,_, there_EX must_VM be_VBI an_AT1 optimum_JJ R_ZZ1 group_NN1 which_DDQ its_APPGE solubility_NN1 reaches_VVZ maximum.1_FO A_ZZ1 and_CC E_ZZ1 have_VH0 the_AT same_DA ligand_NN1 in_II the_AT reaction_NN1 but_CCB a_AT1 different_JJ monomer_NN1 ._. 
+</s>
+<s>
+A_ZZ1 showed_VVD a_AT1 higher_JJR rate_NN1 than_CSN E._NP1 This_DD1 could_VM be_VBI due_II21 to_II22 the_AT same_DA reason_NN1 as_CSA BzMA_NP1 monomer_NN1 ._. 
+</s>
+<s>
+BMA_NP1 is_VBZ more_RGR hindered_JJ than_CSN MMA_NP1 therefore_RR would_VM tend_VVI to_TO react_VVI slower_RRR ._. 
+</s>
+<s>
+A_AT1 general_JJ trend_NN1 of_IO M_ZZ1 n_ZZ1 increases_VVZ as_II the_AT %_NNU conversion_NN1 of_IO polymer_NN1 increases_NN2 ._. 
+</s>
+<s>
+All_DB showed_VVD linear_JJ lines_NN2 with_IW the_AT y-intercept_VV0 of_IO 0_MC ._. 
+</s>
+<s>
+A_ZZ1 and_CC B_ZZ1 showed_VVD similar_JJ trend_NN1 but_CCB B_NP1 showed_VVD a_AT1 higher_JJR Mn_FO trend_NN1 which_DDQ indicated_VVD that_CST the_AT DP_NP1 n_ZZ1 is_VBZ higher_JJR for_IF B._NP1 This_DD1 is_VBZ also_RR due_II21 to_II22 the_AT solubility_NN1 of_IO the_AT ligand_NN1 ._. 
+</s>
+<s>
+Polymeirsations_NN2 of_IO A_ZZ1 and_CC ._. 
+</s>
+<s>
+E_ZZ1 used_JJ different_JJ monomers_NN2 in_II which_DDQ E_NP1 gave_VVD a_AT1 higher_JJR M_ZZ1 n_ZZ1 trend_NN1 indicating_VVG a_AT1 higher_JJR DP_NP1 n_ZZ1 ._. 
+</s>
+<s>
+The_AT linear_JJ line_NN1 of_IO E_ZZ1 is_VBZ steeper_JJR than_CSN A_ZZ1 as_CSA BMA_NP1 used_VVD in_II E_ZZ1 has_VHZ a_AT1 higher_JJR M_ZZ1 w_NNU than_CSN MMA_NP1 used_VVD in_II A._NP1 The_AT R_NP1 group_NN1 on_II the_AT monomer_NN1 is_VBZ also_RR longer_RRR hence_RR more_RGR soluble_JJ in_II toluene_NN1 therefore_RR allowing_VVG a_AT1 higher_JJR DP_NP1 n_ZZ1 ._. 
+</s>
+<s>
+A_AT1 similar_JJ trend_NN1 can_VM be_VBI observed_VVN for_IF C_ZZ1 and_CC D._NP1 D_NP1 showed_VVD a_AT1 higher_JJR M_ZZ1 n_ZZ1 trend_NN1 indicating_VVG a_AT1 higher_JJR DP_NP1 n_ZZ1 ._. 
+</s>
+<s>
+A_AT1 possible_JJ explaination_NN1 is_VBZ that_DD1 ._. 
+</s>
+<s>
+BzMA_NN1 is_VBZ of_IO a_AT1 higher_JJR M_ZZ1 w_ZZ1 therefore_RR adding_VVG BzMA_NP1 earlier_RRR could_VM increase_VVI the_AT M_ZZ1 n_ZZ1 ._. 
+</s>
+<s>
+The_AT theoretical_JJ Mn_FO lines_NN2 are_VBR lower_JJR than_CSN the_AT experimental_JJ due_II21 to_II22 initiator_NN1 inefficiency_NN1 so_RG therefore_RR giving_VVG longer_JJR chains_NN2 than_CSN expected_JJ ._. 
+</s>
+<s>
+The_AT tacticities_NN2 of_IO the_AT polymers_NN2 can_VM be_VBI analysed_VVN using_VVG 1H_FO NMR_NP1 (_( Table_NN1 3_MC and_CC Fig_NN1 11-14_MCMC )_) ._. 
+</s>
+<s>
+Syndiotactic_JJ arrangement_NN1 dominated_VVN in_II A_ZZ1 as_CSA it_PPH1 would_VM give_VVI the_AT minimum_JJ amount_NN1 of_IO steric_JJ hindrance_NN1 therefore_RR most_RGT favourable_JJ ._. 
+</s>
+<s>
+Many_DA2 errors_NN2 can_VM easily_RR be_VBI induced_VVN ._. 
+</s>
+<s>
+The_AT extent_NN1 of_IO purging_VVG with_IW nitrogen_NN1 varies_VVZ between_II individuals_NN2 ,_, the_AT ligands_NN2 and_CC initiator_NN1 used_VVD were_VBDR different_JJ as_CSA some_DD of_IO the_AT data_NN were_VBDR collected_VVN from_II another_DD1 group_NN1 ._. 
+</s>
+<s>
+The_AT quantities_NN2 of_IO reactants_NN2 and_CC the_AT temperature_NN1 of_IO polymerisation_NN1 also_RR vary_VV0 ._. 
+</s>
+<s>
+From_II this_DD1 investigation_NN1 ,_, one_PN1 can_VM conclude_VVI that_CST the_AT longer_JJR the_AT R_NP1 chain_NN1 length_NN1 on_II the_AT ligand_NN1 ,_, the_AT higher_JJR the_AT rate_NN1 of_IO polymerisation_NN1 until_CS it_PPH1 reaches_VVZ an_AT1 optimum_JJ length_NN1 ._. 
+</s>
+<s>
+Higher_JJR M_ZZ1 w_ZZ1 monomer_NN1 would_VM have_VHI a_AT1 slower_JJR rate_NN1 of_IO polymerisation_NN1 and_CC has_VHZ a_AT1 higher_JJR M_ZZ1 n_ZZ1 ._. 
+</s>
+<s>
+Polymers_NN2 of_IO narrow_JJ PDi_NP1 can_VM be_VBI made_VVN using_VVG living_JJ radical_JJ polymerisation_NN1 with_IW high_JJ conversion_NN1 rates.1,2_FO Block_NN1 copolymers_NN2 of_IO narrow_JJ PDi_NP1 can_VM also_RR be_VBI made_VVN but_CCB the_AT total_JJ polymerisation_NN1 time_NNT1 must_VM be_VBI shorter_JJR in_II order_NN1 to_TO avoid_VVI termination_NN1 but_CCB could_VM give_VVI a_AT1 lower_JJR conversion_NN1 rate_NN1 ._. 
+</s>
+<s>
+Other_JJ innovation_NN1 steps_NN2 such_II21 as_II22 investigation_NN1 of_IO different_JJ initiator_NN1 ,_, different_JJ metal_NN1 catalyst_NN1 3,4_MC ,_, different_JJ halogen_NN1 on_II intiator_NN1 and_CC different_JJ reaction_NN1 temperature_NN1 ._. 
+</s>
