@@ -25,8 +25,7 @@ source("functions/helper_functions.R")
 # ConfidenceLow		    	InformationChangePositive	Positive	
 # Contingent		      	InformationPlace		    	PublicTerms	
 #
-files_list <- list.files("/Users/user/SpiderOak Hive/CMU/Statistics/textstat_tools/data/text_data/micusp_ds",
-                         full.names = T, pattern = "*.txt")
+files_list <- list.files("data/text_data/micusp_ds", full.names = T, pattern = "*.txt")
 
 # We'll read in our files
 text_df <- readtext_lite(files_list)
@@ -52,6 +51,7 @@ ds_tokens <- tokens_lookup(ds_tokens, dictionary = ds_dict, levels = 1, case_ins
 # Finally we create our dfm.
 ds_dfm <- dfm(ds_tokens, tolower = F)
 
+# Clean up our environment.
 rm(text_df, ds_tokens)
 
 # Note have the dictionary has enabled radical dimension reduction.
@@ -66,6 +66,7 @@ topfeatures(ds_dfm)
 # we only very slighted changed...
 ds_norm <- dfm_weight(ds_dfm, scheme = "prop")
 
+# Clean up our environment.
 rm(ds_dfm)
 
 # Now we convert this dfm to a data frame.
@@ -129,6 +130,9 @@ f_loadings <- as.data.frame(unclass(ds_fa$loadings))
 
 # Let's see what we have.
 View(f_loadings)
+
+# Clean up our environment.
+rm(f_loadings, ds_fa, m, m_cor, m_trim)
 
 # File mda_functions.R contains functions that will do most of this process and return
 # different data that we need for plotting and further analysis.
