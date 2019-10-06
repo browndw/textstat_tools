@@ -7,6 +7,7 @@ log_ratio <- function (n_target, n_reference) {
   percent_a <- ifelse(n_target == 0, 0.5 / total_a, n_target/total_a)
   percent_b <- ifelse(n_reference == 0, 0.5 / total_b, n_reference/total_b)
   ratio <- log2(percent_a / percent_b)
+  ratio <- round(ratio, 2)
   return(ratio)
 }
 
