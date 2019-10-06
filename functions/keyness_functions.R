@@ -137,3 +137,83 @@ key_keys <- function (target_dfm, reference_dfm, threshold=c(0.05, 0.01, 0.001, 
   # And return the report.
   return(report)
 }
+
+# This function takes any number of quanteda dfm objects
+# and returns a table of log-likelihood values, effect sizes
+# (using Hardie's log ratio) and p-values
+# This function reqires DescTools and data.table
+keyness_pairs <- function(dfm_a, dfm_b, ...){
+  all_corpora <- list(dfm_a, dfm_b, ...)
+  test_class <- lapply(all_corpora, class)
+  if (unique(test_class)[1] != "dfm") stop ("your corpora must be a quanteda dfm objects")
+  if (length(unique(test_class)) != 1) stop ("your corpora must be a quanteda dfm objects")
+  
+  # Generate frequency lists using textstat_frequency()
+  freq_list <- lapply(all_corpora, textstat_frequency)
+  
+  # Subset out the need columns
+  freq_list <- lapply(freq_list, function(x) subset(x, select=c("feature", "frequency")))
+  # Create an index
+  idx <- seq(length(all_corpora))
+  # Rename columns so they will be unique using data.table
+  new_names <- lapply(idx, function(i) paste("V", i, sep="_"))
+  freq_list <- lapply(idx, function(i) data.table::setnames(freq_list[[i]], "frequency", new_names[[i]]))
+  # Merge all lists by feature. This ensures that we have ALL features from ALL dfms
+  # even in counts in one or more may be zero
+  freq_df <- Reduce(function(...) merge(..., by = "feature", all=T), freq_list)
+  freq_df <- data.frame(freq_df[,-1], row.names=freq_df[,1])
+  # Set NA values to zero for calcutaions
+  freq_df[is.na(freq_df)] <- 0
+  # Create an index of pairs
+  corpora_pairs <- combn(idx, 2)
+  pair_idx <- seq(ncol(corpora_pairs))
+  # Get the total counts
+  total_counts <- colSums(freq_df)
+  comp_names <- sapply(pair_idx, function(i) {
+    j <- corpora_pairs[1,i]
+    k <- corpora_pairs[2,i]
+    l <- paste(j, k, sep = "_v_")})
+  # Introduce a function for calculating log-likelihood using DescTools
+  log_like <- function(count_a, count_b, total_a, total_b) { 
+    prop_a <- total_a/(total_a + total_b)
+    observed <- c(count_a, count_b)
+    expected <- c(prop_a, 1-prop_a)
+    if(sum(observed) == 0) return(0)
+    likelihood <- DescTools::GTest(x=observed, p=expected, correct="yates")
+    likelihood <- unlist(likelihood$statistic)
+    likelihood <- ifelse(count_a/prop_a > count_b/(1-prop_a), likelihood, -likelihood)
+    likelihood <- round(likelihood, 2)
+    return(likelihood)
+  }
+  
+  # Calculate G2
+  ll <- as.data.frame(sapply(pair_idx, function(i) {
+    j <- corpora_pairs[1,i]
+    k <- corpora_pairs[2,i]
+    mapply(log_like, freq_df[,j], freq_df[,k], total_counts[j], total_counts[k])}))
+  # Apply column names
+  colnames(ll) <- lapply(comp_names, function(x) paste(x, "G2", sep = "_"))
+  # Calculate the effect sizes
+  lr <- as.data.frame(sapply(pair_idx, function(i) {
+    j <- corpora_pairs[1,i]
+    k <- corpora_pairs[2,i]
+    log_ratio(freq_df[,j], freq_df[,k])}))
+  # Apply column names
+  colnames(lr) <- lapply(comp_names, function(x) paste(x, "lr", sep = "_"))
+  # Calculate p-values
+  pv <- as.data.frame(sapply(pair_idx, function(i) {mapply ((function(x) pchisq(abs(x),1,lower.tail=FALSE)), ll[,i])}))
+  pv <- format(round(pv, 5), nsmall = 5)
+  # Apply column names
+  colnames(pv) <- lapply(comp_names, function(x) paste(x, "pv", sep = "_"))
+  # Assemble the table of all values
+  key_table <- cbind(ll, lr, pv)
+  # Order by names
+  key_table <- key_table[ , order(names(key_table))]
+  # Add rownames from the frequency counts
+  rownames(key_table) <- rownames(freq_df)
+  # Reorder by the first column
+  key_table <- key_table[order(key_table[,1], decreasing = TRUE),]
+  # Return the table
+  return(key_table)
+}
+
