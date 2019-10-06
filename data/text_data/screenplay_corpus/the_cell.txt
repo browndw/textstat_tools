@@ -1,0 +1,6162 @@
+<DIRECTION>
+:SC: The Cell
+</DIRECTION>
+<DIRECTION>
+FADE IN:
+</DIRECTION>
+<DIRECTION>
+A SPECK OF DUST
+</DIRECTION>
+<DIRECTION>
+Grains of sand dance in the wind. As we glide over a VAST DESERT, the speck of dust becomes a HORSE AND RIDER. CATHERINE YOUNG straddles the beautiful black animal, her mesmerizing eyes scanning the horizon. A curious breeze blows across her exquisite face and she drinks it in, as if the wind itself were telling something to her...
+</DIRECTION>
+<DIRECTION>
+Catherine sees a FLICKERING LIGHT in the sand. She pulls the reins and the horse stops moments before the dune drops into nothingness. She dismounts, affectionately scratches the horse's neck, and follows the LIGHT. When she looks over her shoulder, the Arabian is now a child's WOODEN HOBBY HORSE. Not surprised, Catherine smiles and walks down a dune, sand sliding beneath her feet...
+</DIRECTION>
+<DIRECTION>
+She finds herself in a valley of dead trees whose decayed, gnarled limbs appear to form hands. The light dances across her face. She shades her eyes and pinpoints the source...
+</DIRECTION>
+<DIRECTION>
+A SMALL MIRROR reflecting rays of bright sun, housed within a locket and chain. It's held by EDWARD, a haunted-looking boy of seven with a precocious grin and piercing eyes. He sits on a fallen tree trunk, patiently waiting for her arrival.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Thanks for the horse.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He's a shy child, yet comfortable with Catherine.
+</DIRECTION>
+<EDWARD>
+	<DIALOGUE>
+	You liked him?
+	</DIALOGUE>
+</EDWARD>
+<CATHERINE>
+	<DIALOGUE>
+	He's beautiful...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Edward smiles, delighted he made her happy.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	But I thought we were going sailing.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy frowns.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You promised.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+A devilish glint in his eye, Edward redirects the mirror. Catherine follows the flicker to a TOY BOAT in the sand.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	We can't fit into that!
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Edward shines light in her eyes, momentarily blinding her, then snaps the locket shut. When her vision clears, Catherine sees a GIANT SHIP perched among the dunes. A craft weighing hundreds of tons just sitting there in the desert.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	That'll do.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She walks toward it, but Edward doesn't follow.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D) (coaxing him)
+</DIRECTION>
+	<DIALOGUE>
+	Come on, Mister E.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She extends her hand, but he adamantly shakes his head no.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What now?
+	</DIALOGUE>
+</CATHERINE>
+<EDWARD>
+<DIRECTION>
+(nods at the ship)
+</DIRECTION>
+	<DIALOGUE>
+	's broken.
+	</DIALOGUE>
+</EDWARD>
+<DIRECTION>
+Undaunted, she... finds herself standing on the DECK.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(calling to him)
+</DIRECTION>
+	<DIALOGUE>
+	Who says?
+	</DIALOGUE>
+</CATHERINE>
+<EDWARD>
+	<DIALOGUE>
+	Mocky-Lock.
+	</DIALOGUE>
+</EDWARD>
+<CATHERINE>
+	<DIALOGUE>
+	Oh no... No you don't.
+	</DIALOGUE>
+</CATHERINE>
+<EDWARD>
+	<DIALOGUE>
+	"Mocky-Lock is the bogeyman. Mocky-Lock wants me where I am."
+	</DIALOGUE>
+</EDWARD>
+<CATHERINE>
+	<DIALOGUE>
+	I bet we can fix it.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She opens a rusted iron DOOR. It makes an HORRIFIC SCREECHING SOUND. Similar to metal-on-metal, but more piercing, more pained. As if made by a living thing.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D) (familiar with the noise, a warning to him)
+</DIRECTION>
+	<DIALOGUE>
+	Ed-ward...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy's FACE CONTORTS, turning into something half-human, half-animal. A monster. Mocky-Lock. He SCREECHES, trying to frighten Catherine, but she cocks her head...
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	We agreed. No more Mocky-Lock.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The creature sticks its tongue out and DIVES.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Edward!
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+But it's too late! Edward/Mocky Lock slithers into the sand and disappears. Resigning herself to a failure, she opens the palm of her left hand, revealing a SMALL BUMP in the flesh between thumb and forefinger. She presses hard and...
+</DIRECTION>
+<DIRECTION>
+PICTURE AND SOUND DISTORT AND CHANGE
+</DIRECTION>
+<DIRECTION>
+INT. LABORATORY - DAY
+</DIRECTION>
+<DIRECTION>
+We are looking at a large SCREEN showing an electronically generated three-dimensional view of a human brain featuring color-coded neurological activity. In a specific section of the image, cells flash from yellow to red...
+</DIRECTION>
+<DIRECTION>
+PULL BACK TO REVEAL HENRY WEST surrounded by computers, monitors, electronics, and keyboards. DR. MIRIAM KENT stands before a peculiar diagnostic machine scrutinizing data and images. Both wear garb favored by surgeons or microchip assemblers. The impressive, weird computer system HUMS as it shifts programs, the unusual brain image changing colors.
+</DIRECTION>
+<DIRECTION>
+THROUGH A LARGE WINDOW, we see into an ADJOINING ROOM within which a HUMAN FIGURE hangs suspended in mid-air by a series of cables designed to simulate flotation.
+</DIRECTION>
+<DIRECTION>
+AT THE CONSOLE, Miriam uses a pen to hit specific areas of the touch-sensitive screen, changing the complex CHEMICAL SYMBOLS displayed there.
+</DIRECTION>
+<DIRECTION>
+IN THE PROCEDURE ROOM, a series of pharmaceuticals are injected into an intravenous tube feeding the sleeve/arm of the figure. A featherweight cloth MASK electronically rises, revealing the sleeping face of Catherine.
+</DIRECTION>
+<DIRECTION>
+AT THE CONSOLE, Miriam hits a button and speaks into an intercom microphone.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Sing a song of sixpence...
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+IN THE PROCEDURE ROOM, there is no reaction from Catherine.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Sing a song of sixpence...
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(hoarse, groggy)
+</DIRECTION>
+	<DIALOGUE>
+	A pocketful of rye...
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Four-and-twenty blackbirds.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine's eyes open.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Baked in a pie...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+IN THE CONTROL ROOM, Henry hits a switch and Catherine is lowered to the pedestal. Miriam checks Monitors displaying Catherine's vital signs and continuing what must be a routine, presses numbers on a keypad to open the PRESSURIZED AIRTIGHT DOOR separating the two areas.
+</DIRECTION>
+<DIRECTION>
+IN THE PROCEDURE ROOM, lights come on and Miriam eases Catherine out of the apparatus. She checks her pupil dilation, pulse, throat, and reflexes. She pokes and prods with a familiarity that would seem rude to an outside observer, but is nothing to them. Getting to her feet, we see that Catherine's BODYSUIT is made of an unusual dark fabric almost liquid in consistency.
+</DIRECTION>
+<DIRECTION>
+AT THE CONSOLE, Henry moves to another section and for the first time, we see there are two elaborate neural monitors. And the "brain" pictured here is smaller. Younger...
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	"Mister E." is doing fine.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+REVEAL A SECOND FIGURE suspended from the ceiling in the PROCEDURE ROOM. A SMALL BOY is lowered to the pedestal and as Miriam records data, Catherine removes the child's "mask," displaying the haunted face of Edward. Clearly, the boy is in some kind of catatonic state.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Did we go sailing?
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Almost. Mocky-Lock showed up.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	"Mocky-Lock is the bogeyman, Mocky-Lock wants me where I am."
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Mocky-Lock is a pain in the ass.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Henry communicates with them via the intercom.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Where did that come from again?
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Catherine looks annoyed - How could he forget?
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	A nursery rhyme.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Catherine detaches the cables and eases Edward's frail body into a waiting wheelchair. Miriam takes a penlight and examines the boy's eyes... An emotionless void, oddly beautiful.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(thinking aloud)
+</DIRECTION>
+	<DIALOGUE>
+	Nursery rhymes, fairy tales, the bogeyman... All preparation for the horrors of the real world.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Making certain the child is comfortable, Catherine covers him with a blanket, rests a teddy bear on his lap, and pushes him into the CONTROL ROOM, accompanied by Miriam. Henry types in a command and moves to join them.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Anybody hungry? I'm hungry...
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+A BUZZER sounds and ANOTHER DOOR HISSES OPEN... A constantly fretting administrator, BARRY COOPERMAN, is waiting for them in the corridor.
+</DIRECTION>
+<COOPERMAN>
+	<DIALOGUE>
+	Edward's parents are here.
+	</DIALOGUE>
+</COOPERMAN>
+<DIRECTION>
+We can see it in Catherine's face - this isn't good news.
+</DIRECTION>
+<DIRECTION>
+EXT. CAMPBELL CENTER - DAY
+</DIRECTION>
+<DIRECTION>
+Situated in a corporate/industrial area north of San Diego, California, a series of well-secured buildings form a mini compound. A sign near the gate reads CAMPBELL CENTER - A DIVISION OF SUNERSET INDUSTRIES.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - EDWARD'S ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Although this is a hospital room filled with medical equipment, its sterility has been camouflaged with toys, posters, photographs, and drawings to make it more "homey." (Some hint at aspects of Edward's fantasy world). Every comfort has been provided and no expense spared.
+</DIRECTION>
+<DIRECTION>
+Henry, Miriam, and Catherine, now wearing funky/casual clothes under a lab coat, stand opposite Cooperman. Sitting on the bed with Edward is ELLA BAINES, an elegantly dressed woman in her mid-40's. There is a soulfulness to her, but the husband, LUCIEN BAINES, 60's, possesses the icy demeanor of a corporate tycoon. One might write him off as cold, but we sense a genuine love for his wife and child. Ella smiles and caresses Edward's hair.
+</DIRECTION>
+<ELLA>
+	<DIALOGUE>
+	He needs a haircut.
+	</DIALOGUE>
+</ELLA>
+<CATHERINE>
+	<DIALOGUE>
+	I'll tell the nurse.
+	</DIALOGUE>
+<DIRECTION>
+(sensing something in Edward)
+</DIRECTION>
+	<DIALOGUE>
+	God, he loves when you visit.
+	</DIALOGUE>
+</CATHERINE>
+<ELLA>
+	<DIALOGUE>
+	My husband wonders if that's true.
+	</DIALOGUE>
+<DIRECTION>
+(delivering bad news)
+</DIRECTION>
+	<DIALOGUE>
+	He wants to place Edward in a hospital.
+	</DIALOGUE>
+</ELLA>
+<DIRECTION>
+Seeing an unfunded future, Henry's ready to disassociate himself from Miriam and Catherine...
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	There are other applications for the scanner, Mr. Baines...
+	</DIALOGUE>
+</HENRY>
+<LUCIEN>
+	<DIALOGUE>
+	I realize that, Henry...
+	</DIALOGUE>
+<DIRECTION>
+(to Miriam)
+</DIRECTION>
+	<DIALOGUE>
+	And I know your work, Dr. Kent, is invaluable to this company...
+	</DIALOGUE>
+</LUCIEN>
+<CATHERINE>
+	<DIALOGUE>
+	You don't know about me, though, do you?
+	</DIALOGUE>
+</CATHERINE>
+<LUCIEN>
+	<DIALOGUE>
+	Catherine, we've waited eighteen months for signs of progress...
+	</DIALOGUE>
+</LUCIEN>
+<CATHERINE>
+	<DIALOGUE>
+	There's been progress.
+	</DIALOGUE>
+</CATHERINE>
+<LUCIEN>
+	<DIALOGUE>
+	Yes, but there is no proof the procedure works. All I have is a belief that your interaction with my son is not a hallucination.
+	</DIALOGUE>
+</LUCIEN>
+<DIRECTION>
+Catherine is hurt and vulnerable due to exhaustion and the intensity of her experience with Edward, but feels she must defend herself.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(to Cooperman, Miriam, Henry)
+</DIRECTION>
+	<DIALOGUE>
+	You picked me, remember? And I took the job. Gladly. This is the next wave and I want to be part of it...
+	</DIALOGUE>
+</CATHERINE>
+<COOPERMAN>
+	<DIALOGUE>
+	No one is doubting your ability.
+	</DIALOGUE>
+</COOPERMAN>
+<CATHERINE>
+	<DIALOGUE>
+	Then what is it?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Introspective and solemn-eyed, Lucien takes a moment, then:
+</DIRECTION>
+<LUCIEN>
+	<DIALOGUE>
+	I've invested millions of dollars in this study... And I've convinced others to do the same. I suppose I should feel responsible to them, but I don't. I could care less if they see a profit. I'm responsible to my boy, that's all that matters.
+	</DIALOGUE>
+<DIRECTION>
+(looks her in the eye)
+</DIRECTION>
+	<DIALOGUE>
+	You tell me... Am I doing the right thing?
+	</DIALOGUE>
+</LUCIEN>
+<DIRECTION>
+OFF CATHERINE'S FACE...
+</DIRECTION>
+<DIRECTION>
+INT. WHITE ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+At first, we're not sure where we are or what's happening. It's too bright, the space confining. As our eyes adjust, we seem to be in a bathroom or shower stall. We HEAR a WOMAN CRYING and the camera finds ANNE VICKSEY. Dark circles beneath eyes red and puffy from crying. Hair wet and ratted. Sweater and pants damp and stained. Barefoot, she shivers from cold and fear...
+</DIRECTION>
+<DIRECTION>
+PULL BACK to show more of her surroundings. The white-tiled 10' x 8' room features a SHOWER HEAD, TOILET, and a push button SPIGOT for drinking water. Two walls are SOLID, the other two MIRRORED, the glass covered by thick clear plastic.
+</DIRECTION>
+<DIRECTION>
+The floor is littered with empty food wrappers - candy bars, juice boxes. In the center of the floor is a DRAIN and above her, on the ceiling, a FLUORESCENT LAMP, also encased in clear plastic.
+</DIRECTION>
+<DIRECTION>
+There is no door.
+</DIRECTION>
+<DIRECTION>
+A mechanism CLICKS. Then a RUMBLING... Anne seems to know what's coming. She presses against the wall, removes her arms from the sleeves of the sweater, hunches down, and raises the garment over her head, forming a tent.
+</DIRECTION>
+<DIRECTION>
+WATER ERUPTS from the shower head. There is no steam, so this water must be cold. Shaking, Anne whispers a count to herself - "One-one thousand, two-one thousand, three..." and so on. The spray hits everything in the room - mirror, toilet, floor - and a food wrapper drifts toward the drain.
+</DIRECTION>
+<ANNE>
+	<DIALOGUE>
+	Thirty.
+	</DIALOGUE>
+</ANNE>
+<DIRECTION>
+She peeks up from the tent, but the water has not stopped, and that isn't what she expected. We hear a soft SUCKING NOISE and a CLICK. The wrapper rises on a puddle of water. Anne POUNDS her fist on the wall.
+</DIRECTION>
+<ANNE>
+<DIRECTION>
+(CONT'D) (angry, scared)
+</DIRECTION>
+	<DIALOGUE>
+	THIRTY!
+	</DIALOGUE>
+</ANNE>
+<DIRECTION>
+A puddle forms around her feet and she realizes the drain has somehow been sealed shut. Her panic intensifies as we hear another CLICK and the water pressure increases.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY - DAY
+</DIRECTION>
+<DIRECTION>
+In the darkened procedure room, Miriam finds Catherine standing between the two suspension devices, alone.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	You okay?
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine turns, nods, and tries to smile. Has she been crying? Miriam steps further into the room.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	He hates me.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Lucien Baines?
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine nods.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I wouldn't say "hates." Dislikes, distrusts, maybe.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine laughs. Exactly what Miriam wanted.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	She adores you.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	She thinks I can bring Edward back.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Someday you can. We all believe that...
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine halfheartedly nods, but her mind is elsewhere, focused on the two apparatuses.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	I want to try it. Please.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Miriam knows what this is about.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	We've been over this a dozen times. No.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Why not? Just once. A trial run. What harm could it do?
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	I don't want to find out.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Ever the doctor, Miriam finds herself surreptitiously examining Catherine's eyes, flesh tone, a slight trembling in her fingertips.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Why is it taking so long for us to reach him? Because we've been reactive, that's why. And we need to be active.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Miriam reaches for Catherine's wrist and takes her pulse.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D) (annoyed)
+</DIRECTION>
+	<DIALOGUE>
+	Miriam...
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Shush.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+As Miriam examines her, Catherine continues:
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	He creates the obstacles, he decides which games to play.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	I've heard this argument before. It's not happening.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(frustrated)
+</DIRECTION>
+	<DIALOGUE>
+	It could take years for me to get past the barriers he's created.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	If we reverse the feed and bring Edward into your mind, it could be devastating for him. Imagine the shock of suddenly existing in a whole other world.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	I do it all the time!
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Yes, but, you're a willing participant. Picture Edward in a strange place, lost, frightened...
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	I'd be there for him.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	And he might blame you for terrifying him. That one moment could erase all you've accomplished. And if that happened, the trust he has in you is gone.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(defeated)
+</DIRECTION>
+	<DIALOGUE>
+	Okay, okay...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Miriam takes a penlight and examines Catherine's eyes.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Besides, I don't know what it might do to you. You're already exhausted.
+	</DIALOGUE>
+<DIRECTION>
+(concerned)
+</DIRECTION>
+	<DIALOGUE>
+	Have you been sleeping?
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine nods.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I can prescribe something...
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine shakes her head no. Miriam shuts off the penlight and looks at Catherine with professional and personal concern.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You're sure? Any more nightmares?
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(defensively)
+</DIRECTION>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Good. We need you healthy and relaxed. You're going to eat well, meditate, exercise, and watch mindless television.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Yes mother.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	I don't want you up all night reading Edward's case file of the nine millionth time. Balance, dear girl, is the key. Leave the work here.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+She taps Catherine's head.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Don't bring it home in this.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Miriam gathers her belongings.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Henry wants me to try this Vietnamese place he's wild about. Want to come?
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(declining)
+</DIRECTION>
+	<DIALOGUE>
+	I've got to feed my cat. Besides, I want to get to bed early.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	That's my girl.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Miriam exits, but Catherine remains, still curious what could happen if things were reversed.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+The corridors are dark and most everyone has gone home. At the NURSES STATION, a staff member observes the child on a closed-circuit monitor. Further down the hall, Miriam and Henry exit. Wearing a (chic) thrift store coat and lugging a worn book bag, Catherine stands outside Edward's room, watching him sleep.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Pleasant dreams, Mister E.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+EXT. RURAL HIGHWAY - DAY
+</DIRECTION>
+<DIRECTION>
+A GREEN FORD PICK-UP TRUCK cruises down this deserted stretch of two-lane blacktop, the driver carefully maintaining the speed limit. He signals and exits...
+</DIRECTION>
+<DIRECTION>
+EXT. COUNTRY ROAD - DAY
+</DIRECTION>
+<DIRECTION>
+The truck rumbles along a stretch of bumpy, unpaved road. The area is desolate, depressing, and deserted. It feels like no one's been anywhere near here for years. The pick-up stops at a RUSTED GATE and the DRIVER, a tall, lean, sinewy fellow undoes a combination lock-and-chain. We do not yet see his face.
+</DIRECTION>
+<DIRECTION>
+EXT. ABANDONED FARM HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+The truck parks inside a charred barn, now hidden from view, and the driver steps out, followed by his DOG.
+</DIRECTION>
+<DIRECTION>
+A magnificent WHITE GERMAN SHEPHERD. We notice a GLINT in its BLUE EYES - the animal's an albino. The driver points and whistles. Well-trained, the Shepard sprints to the gate and waits, keeping a watchful eye on the road.
+</DIRECTION>
+<DIRECTION>
+INT. THE CELL - OBSERVATION ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+From the outside, a passerby would never know this sanctuary existed. Within the foundation of a farm building never completed, we find a small room in the center of a much larger space. The cell. We hear the WHIR of ELECTRONIC EQUIPMENT and notice VIDEO CAMERAS mounted on tripods pointed at the two-way glass. We follow CABLES to a massive VIDEO RECORDER - the type used in surveillance, able to record for days without maintenance, and an elaborate TIMING DEVICE connected to a series of VALVES and SWITCHES.
+</DIRECTION>
+<DIRECTION>
+As if in a beatific trance, the driver moves to the window and gently rests his palm on the glass. ANNE MOVES! Arms flailing, mouth gasping, eyes filled with dread. The last spark of life... The driver JUMPS, startled and frightened.
+</DIRECTION>
+<DIRECTION>
+Almost shamefully, he turns and hides, unable to look at her. Suddenly, his body tenses and writhes, as if seized by torturous pain. He opens his mouth in a silent scream.
+</DIRECTION>
+<DIRECTION>
+And then, quickly as it came, the pain subsides. Hidden in shadow, he breathes deeply, regaining self-control. He waits, then moves back to the glass. Anne's dead face floats past him. Almost angelic. He watches her and leans his head against the window, closer. And the driver catches his own reflection in the mirror.
+</DIRECTION>
+<DIRECTION>
+Meet CARL STARGHER.
+</DIRECTION>
+<DIRECTION>
+EXT. CATHERINE'S HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Small and isolated, the nearest neighbor a block away.
+</DIRECTION>
+<DIRECTION>
+INT. CATHERINE'S HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+The place is a mess. Computer print-outs, dirty dishes, unopened mail, videotapes, and notepads cover tables, chairs and floor. On the crammed bookshelves, psychology texts sit next to volumes on mythology, religion, and the occult. Totems, figurines and artifacts (Central and South American in origin) adorn the walls and tables.
+</DIRECTION>
+<DIRECTION>
+As Portishead plays on the stereo, we find Catherine suffering from insomnia, wearing goofy-yet-hip eyeglasses, sweatpants and a UCSD T-shirt, sharing a late-night snack with her pet CAT. She shuts the refrigerator door and we linger on an odd POSTCARD taped to the surface. A kitschy postcard of a warrior/goddess.
+</DIRECTION>
+<DIRECTION>
+INT. BASEMENT - NIGHT
+</DIRECTION>
+<DIRECTION>
+We MOVE out of shadow, toward a bright focused light, following the albino German Shepherd - VALENTINE - as it enters a VAST SUBTERRANEAN ROOM. Most of the walls have been knocked down, leaving only thick support posts. Valentine finds Stargher in a DUGOUT PIT - about five feet deeper than the rest of the room - polishing a stainless steel table. A bright tungsten work light hangs above, and near it is the chain, cables and hooks of a customized MECHANICAL HOIST.
+</DIRECTION>
+<DIRECTION>
+The dog picks up an unpleasant scent and follows it to a far corner where there are empty jugs of BLEACH sitting next to a long, deep cast iron TUB. Stargher WHISTLES and Valentine obediently retreats to a KENNEL CAGE. Stargher gives him a chew toy and locks the dog inside before moving to the tub.
+</DIRECTION>
+<DIRECTION>
+Soaking in the bleach is the nude corpse of Anne Vicksey. The interior of the tub is glazed with gleaming porcelain and the whiteness of her flesh makes it appear as though she is floating in nothingness, but what hypnotizes and appalls are her eyes. Wide open, transformed by the chlorine into something ghostly, they are unforgettable.
+</DIRECTION>
+<DIRECTION>
+As the bleach gurgles down the drain, Stargher lifts Anne from the tub and carries her to the table. He places her face up and dries her with a clean white towel. He moves her limbs, lips, hips, and hands into desired positions then retreats into shadow. In the harsh light, against the shiny table, the bleached body has the quality of an apparition and we almost expect her to move...
+</DIRECTION>
+<DIRECTION>
+We HEAR Stargher remove his clothes and he steps into the pool of light. Nude, we see that his lean, muscular frame is laced with some rough tatoos. When he turns his back to us, we find EIGHT METAL RINGS, thick and strong, PIERCED through his flesh. Two columns of four on either side of the spine, running from shoulder blade to just below the waist. What in God's name are they for?
+</DIRECTION>
+<DIRECTION>
+Stargher shuts off the work light and moves to an area where he keeps TELEVISION MONITORS and VCRs. He inserts a videocassette taken from the surveillance deck and watches the screen.
+</DIRECTION>
+<DIRECTION>
+In BLACK AND WHITE, we see Anne awaken in the cell. Her first moments inside. Disoriented, terrified, trapped, she examines her surroundings.
+</DIRECTION>
+<DIRECTION>
+Stargher is mesmerized by her fear. Fast-forwarding to her death, he presses a remote and we get SOUND. Anne screaming, begging for her life. Aroused, stimulated, Stargher drinks it in like a symphony. Valentine cowers in the back of his cage, hating this.
+</DIRECTION>
+<DIRECTION>
+INT. CATHERINE'S HOUSE - BEDROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Lying on her bed (a waterbed), Catherine sleepily stares at the ceiling, rolls onto her side, and feels herself drawn into the comforter. The folds of the fabric become ripples. Ripples become dunes.
+</DIRECTION>
+<DIRECTION>
+EXT. EDWARD'S WORLD - DAY
+</DIRECTION>
+<DIRECTION>
+And we find ourselves in the DESERT of EDWARD'S WORLD.
+</DIRECTION>
+<DIRECTION>
+We fly over dunes and come up behind Catherine as she struggles through waves of sand. The tree trunk is up ahead and we glimpse someone hiding inside.
+</DIRECTION>
+<DIRECTION>
+Catherine reaches. MOCKEY-LOCK ERUPTS FROM WITHIN THE TREE TRUNK! SNARLING! Catherine retreats, silently screaming.
+</DIRECTION>
+<DIRECTION>
+INT. CATHERINE'S HOUSE - BEDROOM - DAWN
+</DIRECTION>
+<DIRECTION>
+IN HER OWN BED, Catherine's eyes are open. In sharp contrast to a typical reaction to a nightmare, she remains calm. No sweaty face, no gasp, no reaction at all, really. She might as well have been dreaming of puppy dogs. Wide awake, her eyes return their gaze to the ceiling.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Go. To. Sleep.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+INT. STARGHER HOUSE - BASEMENT - NIGHT
+</DIRECTION>
+<DIRECTION>
+CHAINS attached to bizarre HOOKS dangle from the ceiling. Admiring Anne's body, Stargher links the hooks to the rings in his back. He presses a remote unit and up in the rafters, a series of GEARS click into motion. The sound is torturous as the mechanical hoist LIFTS Stargher off the ground, pulling at the rings, strips of flesh rising. Stargher grimaces, but clearly he wants the pain, needs it. As the hoist clicks into another gear, it carries Stargher over the table until his body is perfectly positioned above Anne's.
+</DIRECTION>
+<DIRECTION>
+In the flickering weird light of the television screen, Stargher resembles something from the twisted imagination of William Blake - a levitating demon ready to debauch an innocent angel. With his free hand, he touches himself, chains clinking and swaying.
+</DIRECTION>
+<DIRECTION>
+EXT. RIVER BANK - DAY
+</DIRECTION>
+<DIRECTION>
+A railroad bridge and highway span an almost-bone-dry creek bed. Gathered beneath the overpass are the POLICE, CORONER, CRIMINIALISTS, AND A LOCAL FBI. A SEDAN travels down a service road and stops nearby. TWO MEN exit, identify themselves as FBI and move to the crime scene.
+</DIRECTION>
+<DIRECTION>
+Special Agent GORDON RAMSEY is well-groomed, prides himself on professionalism, and follows the Bureau party line. Special Agent PETER NOVAK is rough around the edges, introspective, and intense. A loner who marches to the tune of a peculiar drummer, he's unconventionally handsome with probing eyes. He moves slowly, observing the scene - the world, for that matter - from a unique perspective.
+</DIRECTION>
+<DIRECTION>
+As Ramsey finds the FBI's local liaison - AGENT COLE - Novak oblivious to the people around him, touches dirt, smells the air, and examines road, river, bridge and sky.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	Who found her?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Cole nods at a visibly shaken WORKMAN seated in a patrol car.
+</DIRECTION>
+<COLE>
+	<DIALOGUE>
+	Surveyor for the railroad... 'Bout six this morning.
+	</DIALOGUE>
+</COLE>
+<DIRECTION>
+Novak sees a FEMALE BODY wrapped in plastic and bound by wire. Supervising the examination of the woman is FBI PATHOLOGIST DR. THEODORE "TEDDY" LEE, a polite, dapper southern gentleman.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Thanks for waiting, Teddy.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Teddy gives Novak a friendly, respectful salute - "My pleasure." Novak dons gloves, nods to an FBI PHOTOGRAPHER and assists Teddy Lee in snipping wire and peeling back thick clear plastic. As the photographer reacts to a strong smell, Teddy comments.
+</DIRECTION>
+<TEDDY_LEE>
+	<DIALOGUE>
+	Bleach.
+	</DIALOGUE>
+</TEDDY_LEE>
+<DIRECTION>
+As the man snaps pictures, Ramsey and Cole join them. Sadly, Novak recognizes the face.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Anne Marie Vicksey.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+We recognize her, too.
+</DIRECTION>
+<COLE>
+	<DIALOGUE>
+	She the one from Santa Cruz?
+	</DIALOGUE>
+</COLE>
+<NOVAK>
+	<DIALOGUE>
+	Just graduated law school. Single mom. Had a two-year-old daughter.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+He and Teddy expose the bleached flesh of her torso, neither man surprised. Coldly thorough, Novak finds another of the killer's tell-tale signs.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D) (instructing the photographer)
+</DIRECTION>
+	<DIALOGUE>
+	The semen on her legs and abdomen.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+FLASH! Photos are taken.
+</DIRECTION>
+<TEDDY_LEE>
+	<DIALOGUE>
+	Someone looking after her little girl?
+	</DIALOGUE>
+</TEDDY_LEE>
+<NOVAK>
+	<DIALOGUE>
+	Grandparents. Live over in Davis.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Novak looks into the dead white eyes of Anne Vicksey, trying to imagine the horrors she beheld. He moves to the creek and sees only a few inches of water. His eyes move from the drop site to the highway above.
+</DIRECTION>
+<TEDDY_LEE>
+	<DIALOGUE>
+	The poor thing.
+	</DIALOGUE>
+</TEDDY_LEE>
+<DIRECTION>
+FLASH! We're up there now, ON THE OVERPASS, with the photographer and Novak, examining TIRE TRACKS in the soft shoulder. Novak peers over the edge at the crime scene, steps back, and focuses on the highway - imagining the killer's truck as it disappeared into the night.
+</DIRECTION>
+<DIRECTION>
+EXT. OFFICE PLAZA - DAY
+</DIRECTION>
+<DIRECTION>
+A PRETTY YOUNG WOMAN, JULIA HICKSON, shares lunch with her fiancee, JOHN TRACY. They talk, laugh and kiss, not a care in the world.
+</DIRECTION>
+<DIRECTION>
+INT. PICK-UP TRUCK - ACROSS THE STREET - DAY
+</DIRECTION>
+<DIRECTION>
+As TALK RADIO plays, Carl Stargher watches them, specifically Julia, his eyes never off her for too long as his hands work on something banal but unseen.
+</DIRECTION>
+<TALK_RADIO_HOST>
+	<DIALOGUE>
+	...complaining about government subsidies for farmers...
+	</DIALOGUE>
+</TALK_RADIO_HOST>
+<DIRECTION>
+The voice on the radio becomes DISTORTED as we hear it through Stargher's ears...
+</DIRECTION>
+<TALK_RADIO_HOST>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	...but without subsidies, families will starve, and I'm nodd exagggeerrrrr....ayding. Iff id werrrr up tooooo meeeee.....
+	</DIALOGUE>
+</TALK_RADIO_HOST>
+<DIRECTION>
+The host's voice fades into a guttural, monstrous groan.
+</DIRECTION>
+<TALK_RADIO_HOST>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Meeeee gawwwwwdd Caaaarrrrlll. Mee god cum...
+	</DIALOGUE>
+<DIRECTION>
+(returning to normal)
+</DIRECTION>
+	<DIALOGUE>
+	Meeeee....wwuuuuuddunnnnttttt... be spending billions on other countries when we've got problems right here.
+	</DIALOGUE>
+</TALK_RADIO_HOST>
+<DIRECTION>
+He opens his eyes and watches John kiss Julia goodbye as she returns to work. Stargher looks down and we see what he's been working on - A TOY DOLL. Female. Stripped of its clothes, a single metal ring stuck through its plastic neck.
+</DIRECTION>
+<DIRECTION>
+INT. COFFEE SHOP - DAY
+</DIRECTION>
+<DIRECTION>
+His lunch finished, Ramsey is on a cell-phone talking to his wife. Chain-drinking coffee, Novak scrutinizes photos of the tire tracks.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	Well, honey, what's worse? Doing it yourself or asking your mother for help?
+	</DIALOGUE>
+<DIRECTION>
+(gets his answer)
+</DIRECTION>
+	<DIALOGUE>
+	Can it wait 'til I get back/
+	</DIALOGUE>
+<DIRECTION>
+(listens, answers)
+</DIRECTION>
+	<DIALOGUE>
+	I have no idea, Jeannie.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak checks his watch and the street. Clearly waiting for someone or something.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Well all right. Good luck with the Monster. I love you too. Bye-bye.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Ramsey snaps shut the cell-phone.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	We call Jeannie's mother "The Monster" because, well... she just is.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak is oblivious, pouring over tire-related info.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I know you could care less about my personal life, Peter, but I do appreciate the occasional, "How's your wife, Gordon?"
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+He waits. Novak obliges:
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	How is she?
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	Pregnant. Thanks for asking.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak is distracted by Teddy Lee entering the diner.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Here he is.
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	Damn, man, I give up. Your partner tells you his wife's gonna have a baby, and all you care about is a coroner's report!
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Ramsey assesses the exhausted, lonely, intense man sitting across from him.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I feel for those girls too, Pete. And their families. But it's just a job. Someday it'll be over. And then what'll you have?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Much to Novak's appreciation, Teddy Lee's arrival provides an escape from answering the question.
+</DIRECTION>
+<TEDDY_LEE>
+	<DIALOGUE>
+	Hot off the presses.
+	</DIALOGUE>
+</TEDDY_LEE>
+<DIRECTION>
+He gives them copies of the AUTOPSY REPORT and FORENSIC ANALYSIS of Anne Marie Vicksey. The WAITRESS sees Teddy, approaches, and offers a menu.
+</DIRECTION>
+<TEDDY_LEE>
+<DIRECTION>
+(CONT'D) (doesn't need it)
+</DIRECTION>
+	<DIALOGUE>
+	Chicken fried steak, mashed potatoes, garden salad with Thousand Island dressing and an iced-tea. Thank you darlin'.
+	</DIALOGUE>
+</TEDDY_LEE>
+<DIRECTION>
+She nods and moves to the kitchen. Novak and Ramsey flip through the documents.
+</DIRECTION>
+<TEDDY_LEE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Water in her lungs. Same brand of bleach. Match on the semen. Lots of hair.
+	</DIALOGUE>
+</TEDDY_LEE>
+<RAMSEY>
+<DIRECTION>
+(unenthused)
+</DIRECTION>
+	<DIALOGUE>
+	More hair. I could knit this guy a toupee.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak finds something in the report that catches him by surprise. He double-checks and shows the item to Teddy.
+</DIRECTION>
+<TEDDY_LEE>
+<DIRECTION>
+(reading)
+</DIRECTION>
+	<DIALOGUE>
+	So?
+	</DIALOGUE>
+</TEDDY_LEE>
+<NOVAK>
+	<DIALOGUE>
+	Anne Vicksey didn't own a dog.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Ramsey checks his copy.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I need it.
+	</DIALOGUE>
+</NOVAK>
+<TEDDY_LEE>
+	<DIALOGUE>
+	Now?
+	</DIALOGUE>
+</TEDDY_LEE>
+<NOVAK>
+	<DIALOGUE>
+	Now.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+INT. FORENSIC LABORATORY - DAY
+</DIRECTION>
+<DIRECTION>
+A MONITOR shows a SINGLE HAIR under a video microscope. Teddy Lee plays with the dials and gets a spectral view.
+</DIRECTION>
+<TEDDY_LEE>
+	<DIALOGUE>
+	Complete absence of melanin.
+	</DIALOGUE>
+</TEDDY_LEE>
+<DIRECTION>
+Novak and Ramsey stand over his shoulder.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	And that means?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Teddy moves aside and takes another bite of his lunch (chicken fried steak now carry-out).
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	The dog's an albino.
+	</DIALOGUE>
+<DIRECTION>
+(pictures it)
+</DIRECTION>
+	<DIALOGUE>
+	He'd love an animal like that.
+	</DIALOGUE>
+</NOVAK>
+<TEDDY_LEE>
+	<DIALOGUE>
+	Gentlemen, I believe an albino dog is rare indeed.
+	</DIALOGUE>
+</TEDDY_LEE>
+<DIRECTION>
+INT. PARKING GARAGE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Exiting an elevator, Julia heads for her little Toyota. Smart girl that she is, her eyes scan the area and her fingers hold a can of mace.
+</DIRECTION>
+<DIRECTION>
+INT. TOYOTA - NIGHT
+</DIRECTION>
+<DIRECTION>
+Julia climbs in, checks her mirror and backs up. WHAM! Did she hit something?? She brakes, puts the car in park, and checks her sideview mirror.
+</DIRECTION>
+<DIRECTION>
+Reflected there is a WOUNDED DOG. A white German Shepherd. She rolls down her window and can hear the poor thing whimpering.
+</DIRECTION>
+<JULIA>
+	<DIALOGUE>
+	Oh no...
+	</DIALOGUE>
+</JULIA>
+<DIRECTION>
+INT. PARKING GARAGE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Julia exits her car and kneels next to Valentine, who appears to be in terrible pain.
+</DIRECTION>
+<JULIA>
+	<DIALOGUE>
+	God... I didn't see you.
+	</DIALOGUE>
+</JULIA>
+<DIRECTION>
+STARGHER'S HANDS COME AT HER FROM BEHIND! One grabs her hair and the other covers her face with a chloroform-soaked towel. He presses so hard, she cannot scream, cannot move. After a brief struggle, he SHOVES her into her car and holds her until she passes out. Stargher pushes Julia into the passenger seat and starts the car. Pulls a dog treat from his pocket and WHISTLES. The Shepherd instantly perks up. Perfectly healthy. And jumps into the car.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(feeds him a treat)
+</DIRECTION>
+	<DIALOGUE>
+	Good boy.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+INT. RIVERSIDE COUNTY SHERIFF'S STATION - DAY
+</DIRECTION>
+<DIRECTION>
+In a BRIEFING ROOM we find Teddy Lee, Ramsey, Cole and local cops. All in need of caffeine. They complain, gossip, and shoot the shit. Resembling a demanding professor, Novak enters and through presence alone, lacking any self consciousness about his dishevelled appearance, takes control of the room by holding up a PHOTOGRAPH of a young woman.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Donna Krozin.
+	</DIALOGUE>
+<DIRECTION>
+(a new picture every time)
+</DIRECTION>
+	<DIALOGUE>
+	Helen Francis, Teresa Manicki...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+The chatter dies.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Antoinette Simms, Natalie Pagels, Grace Cassatt... Anne Vicksey.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Every person is solemn and focused.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Smart, gentle, attractive young women. Just starting out in life. Embarking on careers, going to school, getting married...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+He's hooked them. The victims, these women, now mean something to them. With great effect, he holds up grisly post-mortem photos.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	They were killed. Kidnapped, tortured, and murdered. By a white male. About 30-years old.
+	</DIALOGUE>
+<DIRECTION>
+(significantly)
+</DIRECTION>
+	<DIALOGUE>
+	Who owns an albino dog./
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Everyone knows this is a real clue and awareness is heightened. Ramsey chimes in.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	A purebred German Shepherd.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak shows them a picture of a WHITE GERMAN SHEPHERD taken from a resource on the Internet.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Breeders typically destroy albino pups, so this animal is truly unique.
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	Nicole Labetzki. Victim seven. Forensics found dog hair in her car, but they had a K-9 unit at the scene and never had it checked.
+	</DIALOGUE>
+</NOVAK>
+<TEDDY_LEE>
+	<DIALOGUE>
+	The Phoenix office tested that hair thirty minutes ago. And we got the match.
+	</DIALOGUE>
+</TEDDY_LEE>
+<NOVAK>
+	<DIALOGUE>
+	It's his dog.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Ramsey holds up a thick list.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	Registered breeders of German Shepherds.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+The list is long and a few of the cops GROAN. Novak silences them with a fierce look that says, "I will not rest until this man is found and neither should you."
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Be thorough, but be fast. This guy's accelerating. He only waited six days this last time. When he started, two months could pass.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+A DESK SEARGENT enters the room and hands a FAX to Ramsey. Novak is curious about it, but continues.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	This can mean different things. He thinks we're stupid and can't catch him. He's having fun and needs more. Or...
+	</DIALOGUE>
+<DIRECTION>
+(thinking it through)
+</DIRECTION>
+	<DIALOGUE>
+	This dog hair thing is sloppy. The body this morning was found in less than three inches of water. He knew we'd find her. He wants to be caught. But if we can't stop him...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Gravely concerned, Ramsey moves across the room.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D) (dreading what's on that fax)
+</DIRECTION>
+	<DIALOGUE>
+	...he can't stop himself.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+INT. STARGHER HOUSE - BATHROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Stargher, the awful PAIN eating away at his skull. He searches the medicine chest.
+</DIRECTION>
+<DISTORTED_VOICE>
+	<DIALOGUE>
+	Me god feed on pain.
+	</DIALOGUE>
+</DISTORTED_VOICE>
+<DIRECTION>
+The VOICE echoing inside his skull.
+</DIRECTION>
+<DISTORTED_VOICE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Pain good. Cumm home to meee...
+	</DIALOGUE>
+</DISTORTED_VOICE>
+<DIRECTION>
+INT. STARGHER HOUSE - KITCHEN - DAY
+</DIRECTION>
+<DIRECTION>
+Struggling to stay on his feet, he moves to the KITCHEN. Valentine paces nervously, whimpering concern. Stargher reaches for a bottle of vodka but falls to the floor. Valentine BARKS, but gets no reaction from master. We MOVE IN on Stargher's unblinking eyes.
+</DIRECTION>
+<DISTORTED_VOICE>
+	<DIALOGUE>
+	Go sleep Carl. Me god wake up now.
+	</DIALOGUE>
+</DISTORTED_VOICE>
+<DIRECTION>
+INT. THE CELL - DAY
+</DIRECTION>
+<DIRECTION>
+Julia Hickson finds the snack foods, drinking spigot, toilet, shower, and drain. Her bare feet try to adjust to the tile floor, but it's fucking cold. She glimpses herself in the mirror and is startled by what she sees - a terrified girl.
+</DIRECTION>
+<DIRECTION>
+INT. SUBURBAN HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+A TAN SEDAN sits in the driveway of this modest middle-class home. A VENTURA COUNTY SHERIFF'S CAR sits nearby, a deputy keeping watch.
+</DIRECTION>
+<DIRECTION>
+INT. SUBURBAN HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+A distraught middle-aged couple, MR. AND MRS. HICKSON, sit on the couch of their living room. FAMILY PHOTOS show them with Julia, whose fiancee, John, does his best to comfort the mother. Novak and Ramsey have the unfortunate task of interviewing them about their daughter's disappearance.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	She was still living at home?
+	</DIALOGUE>
+</RAMSEY>
+<MR_HICKSON>
+	<DIALOGUE>
+	Yes, sir.
+	</DIALOGUE>
+</MR_HICKSON>
+<JOHN>
+	<DIALOGUE>
+	We were looking at apartments.
+	</DIALOGUE>
+</JOHN>
+<MR_HICKSON>
+<DIRECTION>
+(important they know)
+</DIRECTION>
+	<DIALOGUE>
+	But nobody was moving in together 'til after the wedding.
+	</DIALOGUE>
+</MR_HICKSON>
+<DIRECTION>
+Novak hasn't said much. Instead, he looks at something in his hands - a plastic evidence bag containing the TOY DOLL.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	John, you came to pick her up when?
+	</DIALOGUE>
+</RAMSEY>
+<JOHN>
+	<DIALOGUE>
+	Eight o'clock. We were going out for my birthday.
+	</DIALOGUE>
+</JOHN>
+<MR_HICKSON>
+	<DIALOGUE>
+	Maybe you made a mistake. Maybe she... she...
+	</DIALOGUE>
+</MR_HICKSON>
+<DIRECTION>
+Novak hides the doll.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	No sir. I'm sorry.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Ramsey's cell-phone rings and he excuses himself to a corner of the room, leaving Novak alone to deal with this uncomfortable, sad situation, no one saying a word until an emotionally shattered Mrs. Hickson, fingering a rosary, feels compelled to tell him.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	After three years she remembers what the guy drove?
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	She remembers because it was her "dream truck." Wanted one just like it.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+EXT. SMALL AIRPORT - DAY
+</DIRECTION>
+<DIRECTION>
+Ramsey and Novak exit a small jet and are met by FBI Agent STOCKWELL.
+</DIRECTION>
+<STOCKWELL>
+	<DIALOGUE>
+	Ramsey, Novak?
+	</DIALOGUE>
+</STOCKWELL>
+<DIRECTION>
+They nod and he directs them to a waiting GMC SUBURBAN.
+</DIRECTION>
+<STOCKWELL>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Agent Stockwell.
+	</DIALOGUE>
+</STOCKWELL>
+<NOVAK>
+	<DIALOGUE>
+	Where is he?
+	</DIALOGUE>
+</NOVAK>
+<STOCKWELL>
+	<DIALOGUE>
+	Edison. Just east of Loma Park. SWAT's had the house under surveillance for about twenty minutes.
+	</DIALOGUE>
+<DIRECTION>
+(info memorized)
+</DIRECTION>
+	<DIALOGUE>
+	Suspect is Carl Rudolph Stargher. No registered weapons, no priors. Got a license for his dog, though. Named him Valentine...
+	</DIALOGUE>
+</STOCKWELL>
+<DIRECTION>
+INT. GMC SUBURBAN - DAY
+</DIRECTION>
+<DIRECTION>
+Stockwell is behind the wheel, racing down the highway. Ramsey's in the passenger seat, Novak in back. Shotguns and body armor line the cargo area. Novak's eyes target the FAX, a copy of Stargher's license and registration, and the grainy dot-matrix image of the suspect's face. And Novak knows he's found him.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	You're the bad man, aren't you, Carl?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+EXT. STARGHER HOUSE/NEIGHBORHOOD - DAY
+</DIRECTION>
+<DIRECTION>
+A sparsely populated lower-middle class neighborhood. A half dozen plain houses at the end of a cul-de-sac. Bare trees. Brown lawns. Crows in the air.
+</DIRECTION>
+<DIRECTION>
+The house furthest from the main road has a white Ford F250 pick-up in the driveway. Green trim.
+</DIRECTION>
+<DIRECTION>
+THE SUBURBAN, hidden from Stargher's house, four-wheels it through a prairie and stops outside the backyard of a PRESCHOOL, where two more Suburbans and a van already wait.
+</DIRECTION>
+<DIRECTION>
+INT. PRESCHOOL - DAY
+</DIRECTION>
+<DIRECTION>
+Stockwell introduces Ramsey and Novak to BROCK, leader of the FBI Tactical Unit, a calm, confident ex-Marine wearing a black uniform and body armor.
+</DIRECTION>
+<BROCK>
+	<DIALOGUE>
+	Glad you could make it. We lose the sun in half an hour.
+	</DIALOGUE>
+</BROCK>
+<DIRECTION>
+Novak and Ramsey join him at the shaded window to observe Stargher's house. Children's drawings fill the wall. As Brock explains, Novak checks with binoculars.
+</DIRECTION>
+<BROCK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Perimeter's two-hundred yards around the house. Three men at the rear, two on each side, four up front. I've got two marksmen on the roof.
+	</DIALOGUE>
+</BROCK>
+<NOVAK>
+	<DIALOGUE>
+	Have they seen him?
+	</DIALOGUE>
+</NOVAK>
+<BROCK>
+	<DIALOGUE>
+	No. There's been movement in the kitchen. But it could be the dog.
+	</DIALOGUE>
+<DIRECTION>
+(important)
+</DIRECTION>
+	<DIALOGUE>
+	You think she's in there?
+	</DIALOGUE>
+</BROCK>
+<DIRECTION>
+Novak is careful with his answer.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	We proceed assuming she is.
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	Let's give old Carl a call. Tell him he's got company.
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+<DIRECTION>
+(to Brock)
+</DIRECTION>
+	<DIALOGUE>
+	Can you get a man close?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+EXT. STARGHER HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+Quiet. Calm. And then we catch a glimpse of a FIGURE advancing, using any cover he can, until he is right outside the house. The sneaky SWAT team member, ERICSON, whispers into his throat mic.
+</DIRECTION>
+<ERICSON>
+	<DIALOGUE>
+	I'm at the back door.
+	</DIALOGUE>
+</ERICSON>
+<BROCK>
+<DIRECTION>
+(V.O.) (in Ericson's earpiece)
+</DIRECTION>
+	<DIALOGUE>
+	Check the kitchen.
+	</DIALOGUE>
+</BROCK>
+<DIRECTION>
+Ericson maneuvers his way to the kitchen window and uses a MIRROR to sneak a peek. In the REFLECTION we see a motionless man lying on the floor.
+</DIRECTION>
+<ERICSON>
+	<DIALOGUE>
+	I have a man down. Repeat, man down.
+	</DIALOGUE>
+</ERICSON>
+<BROCK>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Stargher?
+	</DIALOGUE>
+</BROCK>
+<DIRECTION>
+Ericson chances a quick visual check and pops his head up before reporting.
+</DIRECTION>
+<ERICSON>
+	<DIALOGUE>
+	Can't see his face.
+	</DIALOGUE>
+</ERICSON>
+<DIRECTION>
+INT. PRESCHOOL - DAY
+</DIRECTION>
+<DIRECTION>
+Brock looks to Novak, urgency and tension mounting. Novak knows how much is riding on this specific moment. All the various outcomes. And decides.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Go.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+EXT. STARGHER HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+The SWAT TEAM SWARMS towards the house.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+ERICSON KICKS IN THE BACK DOOR. GUN READY!
+</DIRECTION>
+<ERICSON>
+	<DIALOGUE>
+	FBI!
+	</DIALOGUE>
+</ERICSON>
+<DIRECTION>
+He and THREE OTHERS rush inside!
+</DIRECTION>
+<DIRECTION>
+BAM! FOUR MEN KICK in and proceed through the FRONT DOOR!
+</DIRECTION>
+<SWAT_TEAM_MEMBER>
+	<DIALOGUE>
+	FBI!
+	</DIALOGUE>
+</SWAT_TEAM_MEMBER>
+<DIRECTION>
+An odd quiet is all they encounter. IN THE BACK, Ericson moves through a LAUNDRY ROOM and finds VALENTINE hiding behind a pile of dirty clothes, frightened by these masked figures in black.
+</DIRECTION>
+<ERICSON>
+<DIRECTION>
+(into throat mic)
+</DIRECTION>
+	<DIALOGUE>
+	I've got the dog!
+	</DIALOGUE>
+</ERICSON>
+<DIRECTION>
+He points for someone to secure the animal and MOVES into the KITCHEN, aiming his gun at the man on the floor, finally getting a look at his face.
+</DIRECTION>
+<ERICSON>
+<DIRECTION>
+(CONT'D) (recognizing him)
+</DIRECTION>
+	<DIALOGUE>
+	Carl Stargher! Do not move!
+	</DIALOGUE>
+</ERICSON>
+<DIRECTION>
+No problem there. Stargher appears lifeless. As various SWAT team members secure the house, Ericson removes his mask and CUFFS Stargher, startled at the sight of the horrible RINGS piercing his back.
+</DIRECTION>
+<ERICSON>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Jesus Christ...
+	</DIALOGUE>
+</ERICSON>
+<DIRECTION>
+EXT. PRESCHOOL/STARGHER'S HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+As an AMBULANCE emerges from a hiding place behind another garage, we FOLLOW NOVAK and RAMSEY as they run from the preschool into the house.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER HOUSE
+</DIRECTION>
+<DIRECTION>
+As a K-9 UNIT secures Valentine, Novak storms into the kitchen, checks Stargher for a pulse and barks at SWAT>
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Paramedics. NOW.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Ramsey pushes through and Novak informs him.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He's alive.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+EXT. STARGHER HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+FBI AGENTS and local police cordon off the area.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER HOUSE - KITCHEN - DAY
+</DIRECTION>
+<DIRECTION>
+Valentine is muzzled and led away as the PARAMEDICS load Stargher onto a stretcher. Agent Stockwell turns to a worried Novak.
+</DIRECTION>
+<STOCKWELL>
+	<DIALOGUE>
+	They'll take him to County General. Reid's already there.
+	</DIALOGUE>
+</STOCKWELL>
+<NOVAK>
+	<DIALOGUE>
+	Make sure he stays cuffed. Two men on him at all times. I don't want anyone treating him but Reid. Not so much as a thermometer up his ass. Understand?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Stockwell nods and follows the stretcher outside. A stoic Ramsey enters from the living room and Novak can see the disappointment in his eyes.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	She's not here.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak would give anything for that not to be true.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(CONT'D) (it gets worse)
+</DIRECTION>
+	<DIALOGUE>
+	You should come downstairs.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+INT. STARGHER HOUSE - BASEMENT - DAY
+</DIRECTION>
+<DIRECTION>
+Ramsey leads Novak into Stargher's "workroom." It's all here, the table, the piercing supplies, the bleach. An odd, grisly collection of DOLLS fills cubby holes in a wooden storage/shelf unit. Novak's eyes are like a camera, documenting and storing as much information as possible, but it's overwhelming.
+</DIRECTION>
+<DIRECTION>
+He moves through the basement. Careful not to touch anything. He stops and focuses on the hoist and eight hooks situated over the stainless steel table. (NOTE: ON THE WINCH'S MOTOR IS A WORN PLAQUE READING "CARVER INDUSTRIAL EQUIPMENT" with a logo).
+</DIRECTION>
+<DIRECTION>
+Ramsey switches on the video monitor and the screen fills with images of Anne dying in the cell.
+</DIRECTION>
+<DIRECTION>
+Novak is painfully, tragically drawn to this. Although he's seen his share of horrific things, Novak is truly disturbed by the sight of Anne, desperate to escape, drowning, slowly dying, and he knows: This is what will happen to Julia Hickson unless he finds her.
+</DIRECTION>
+<DIRECTION>
+INT. THE CELL - NIGHT
+</DIRECTION>
+<DIRECTION>
+CLICK. WATER SPRAYS FROM THE SHOWER. Caught by surprise, Julia blocks the spray with her hands and searches for a shut off valve. Of course, there is none. Thirty seconds later, the water stops. Like an animal caught in a trap, Julia's eyes dart around her "cage." What kind of hell is this? Shivering, she catches herself in the mirror and looks deeply into it. Something's odd about the glass. Is someone watching her? She bangs on it with her fist.
+</DIRECTION>
+<JULIA>
+	<DIALOGUE>
+	Hey!
+	</DIALOGUE>
+</JULIA>
+<DIRECTION>
+POUND, POUND, POUND!
+</DIRECTION>
+<JULIA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	LET ME OUT!!!
+	</DIALOGUE>
+</JULIA>
+<DIRECTION>
+But there's no response. Only her reflection.
+</DIRECTION>
+<DIRECTION>
+INT. KERN COUNTY HOSPITAL - EXAMINATION ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+A HUMAN EYE. No movement, no deviation of the iris. A fixed stare. The catatonic Stargher lies in a hospital bed, wrists cuffed to the frame. An IV feeds him fluids and monitors report his vital signs. As a nervous NURSE exits, we see TWO POLICEMEN standing guard in the outer hallway. Novak, Ramsey and Teddy Lee stand by as the killer is examined by DR. MILTON REID, a brilliant forensic M.D. currently shining an opthalmoscope into Stargher's eyes. He pulls away and checks the ELECTROENCENPHELOGRAM already on a lightbox.
+</DIRECTION>
+<REID>
+	<DIALOGUE>
+	Minimal activity in the dorsolateral prefrontal cortex. And here, the anterior cingulate cortex.
+	</DIALOGUE>
+<DIRECTION>
+(to Novak and Ramsey)
+</DIRECTION>
+	<DIALOGUE>
+	It's what helps distinguish between external and internal stimuli.
+	</DIALOGUE>
+</REID>
+<RAMSEY>
+	<DIALOGUE>
+	What the hell does that mean?
+	</DIALOGUE>
+</RAMSEY>
+<TEDDY_LEE>
+<DIRECTION>
+(answering for Reid)
+</DIRECTION>
+	<DIALOGUE>
+	He's schizophrenic.
+	</DIALOGUE>
+</TEDDY_LEE>
+<DIRECTION>
+Novak doesn't like this. Not one bit.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	What're you doing here, Reid? Paving the way for his insanity defense?
+	</DIALOGUE>
+</RAMSEY>
+<REID>
+	<DIALOGUE>
+	No need. There won't be a trial. This is no act. The coma is real.
+	</DIALOGUE>
+</REID>
+<RAMSEY>
+	<DIALOGUE>
+	Whoa. Wait a minute.
+	</DIALOGUE>
+</RAMSEY>
+<REID>
+	<DIALOGUE>
+	You ever hear of Whalen's Infraction?
+	</DIALOGUE>
+</REID>
+<DIRECTION>
+Clearly not.
+</DIRECTION>
+<REID>
+<DIRECTION>
+(CONT'D) (re: the EEG)
+</DIRECTION>
+	<DIALOGUE>
+	In any schizophrenic, these areas would be affected. But in someone with Whalen's, they're hit hard and hit fast.
+	</DIALOGUE>
+</REID>
+<DIRECTION>
+Novak's worry intensifies.
+</DIRECTION>
+<REID>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Stargher's neurological system was infected by a virus in utero. It lay dormant. In his case for about...
+	</DIALOGUE>
+<DIRECTION>
+(guesses at Stargher's age)
+</DIRECTION>
+	<DIALOGUE>
+	...thirty years. Most likely, he's exhibited symptoms for awhile now, but the infraction - the breach - didn't occur 'til today. You never know when it'll happen, at what age, or why. The triggers vary, but the results don't.
+	</DIALOGUE>
+<DIRECTION>
+(fascinated by Stargher)
+</DIRECTION>
+	<DIALOGUE>
+	He has no ties to reality. No awareness of this world or the people in it.
+	</DIALOGUE>
+</REID>
+<TEDDY_LEE>
+	<DIALOGUE>
+	What about Thorazine? Or... Desoxyn?
+	</DIALOGUE>
+</TEDDY_LEE>
+<REID>
+	<DIALOGUE>
+	The normal psychotropics don't work. He's not just catatonic, he's... disappeared. Like having a dream and never waking up.
+	</DIALOGUE>
+</REID>
+<NOVAK>
+	<DIALOGUE>
+	This girl. Julia Hickson. Only he knows where she is.
+	</DIALOGUE>
+</NOVAK>
+<REID>
+	<DIALOGUE>
+	Then I'm sorry. For her and for you.
+	</DIALOGUE>
+</REID>
+<DIRECTION>
+Novak is past angry. He's bordering on devastation. Ramsey attempts to placate him.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	We'll go back to his house, Pete. There's still a lot to do. Analyze the videos, track sales of the bleach, go through his records. Maybe he owns property somewhere.
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	They're in that fucking thing for forty hours, Gordon. Four-oh. He got Julia at seven-thirty last night. You know what time it is now...?!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Ramsey backs off, knowing his partner is on the verge of really losing it. Reid thinks perhaps he shouldn't, but sensitive to Novak's pain and anger, mentions it anyway - if only to keep his friend from true hopelessness.
+</DIRECTION>
+<REID>
+	<DIALOGUE>
+	Peter? This is a longshot. I mean a real long shot. You're gonna think I'm crazy...
+	</DIALOGUE>
+</REID>
+<DIRECTION>
+EXT. EDWARD'S WORLD - DAY
+</DIRECTION>
+<DIRECTION>
+The ship's engine ROARS TO LIFE and the PROPELLER spins through sand.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	It's fixed!
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+AT THE TREE TRUNK, Catherine extends her hand and suddenly Edward is there, quite close, reaching out. Catherine's hand trembles. The boy is startled.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D) (surprised, to herself)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not signalling...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Her hand tenses and shakes uncontrollably.
+</DIRECTION>
+<VOICE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Sing a song of sixpence...
+	</DIALOGUE>
+</VOICE>
+<CATHERINE>
+<DIRECTION>
+(angry, to the heavens)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not signalling!
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Edward is frightened by what's happening and runs away. Catherine tries to call out, but her throat constricts, making speech difficult.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not...
+	</DIALOGUE>
+</CATHERINE>
+	<DIALOGUE>
+	INT. CAMPBELL CENTER - LABORATORY - DAY
+	</DIALOGUE>
+<DIRECTION>
+Catherine's face is covered by a cloth floating down from the sky. The sky is replaced by the ceiling and overhead lights of the LABORATORY, but Miriam's face remains constant. Now conscious, Catherine finds herself in the lab at the Campbell Center, the suspension device lowering.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(on intercom)
+</DIRECTION>
+	<DIALOGUE>
+	Sing a song of sixpence.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(hoarse)
+</DIRECTION>
+	<DIALOGUE>
+	A pocketful of fucking rye.
+	</DIALOGUE>
+<DIRECTION>
+(worried)
+</DIRECTION>
+	<DIALOGUE>
+	What's wrong?
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+<DIRECTION>
+(cagey)
+</DIRECTION>
+	<DIALOGUE>
+	Nothing.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(disappointed)
+</DIRECTION>
+	<DIALOGUE>
+	Why did we stop?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Cooperman appears in the window and explains.
+</DIRECTION>
+<COOPERMAN>
+<DIRECTION>
+(on intercom)
+</DIRECTION>
+	<DIALOGUE>
+	I asked them to.
+	</DIALOGUE>
+<DIRECTION>
+(with gravity)
+</DIRECTION>
+	<DIALOGUE>
+	We have a situation.
+	</DIALOGUE>
+</COOPERMAN>
+<DIRECTION>
+INT. CAMPBELL CENTER - CONFERENCE ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+A SMALL TV SCREEN shows footage of Anne drowning in the cell. Catherine, Cooperman, Henry, and Miriam watch with curiosity, disgust, pity. Novak and Ramsey flank the portable monitor/VCR, knowing this is a disturbing but powerful tool. There's someone else in the room. John Tracy. He cannot watch the video, not again. Catherine glances at him, uncomfortable with his presence.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	When did he lapse into the coma?
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	Sometime yesterday morning.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+John tries to keep his composure, but Novak's making this tough for him. Novak wants the scientists to see, to understand the boy's pain.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Each tape is the same. He provides food, drinking water, a toilet. Periodically, a shower starts. It's on some kind of timer - he's clever with machines, building things. I think he wants them to believe this is a simple kidnapping. That there's a possibility of rescue. Of survival. But it's just a form of torture. At the end of the fortieth hour, the drain shuts. The water starts and doesn't stop.
+	</DIALOGUE>
+<DIRECTION>
+(gravely)
+</DIRECTION>
+	<DIALOGUE>
+	We've already lost more than a day. If she isn't found tonight. She dies like the rest.
+	</DIALOGUE>
+</NOVAK>
+<COOPERMAN>
+<DIRECTION>
+(to Miriam, Henry and Catherine)
+</DIRECTION>
+	<DIALOGUE>
+	John and Ella Baines - as well as the Sunerset Board of Directors - have given their approval, but the decision is yours.
+	</DIALOGUE>
+</COOPERMAN>
+<MIRIAM>
+	<DIALOGUE>
+	What about the legalities of this...?
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	Stargher is in custody. The functional equivalent of being under arrest. Normally, we'd Mirandize him, and if he didn't lawyer up, we'd interrogate him. But because of his condition, he doesn't have the capacity to waive those rights.
+	</DIALOGUE>
+</NOVAK>
+<HENRY>
+	<DIALOGUE>
+	So what you're asking us to do is illegal?
+	</DIALOGUE>
+</HENRY>
+<NOVAK>
+	<DIALOGUE>
+	No, not at all.
+	</DIALOGUE>
+<DIRECTION>
+(explains)
+</DIRECTION>
+	<DIALOGUE>
+	We're dealing with exigent circumstances. Somewhere there's a kidnapped woman still alive. If we weigh the suspect's Constitutional Rights against the public safety. The Law favors the victim and gives us a lot of leeway. It's called the Public Safety Exception.
+	</DIALOGUE>
+</NOVAK>
+<COOPERMAN>
+	<DIALOGUE>
+	So what can you do?
+	</DIALOGUE>
+</COOPERMAN>
+<NOVAK>
+	<DIALOGUE>
+	Pretty much anything we want. There's a chance to save a human life. Because of that, Stargher has no reasonable expectation of privacy.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Miriam, Henry and Cooperman appear to be onboard. Novak's made a persuasive, heartfelt argument. Only one person still remains uncertain.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	What if...?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+All eyes turn to her.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What if he wasn't like this? What if he was "normal?" Conscious. How far would you go?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	As far as I needed.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine nods, analyzes Novak's eyes, gestures, body language, and "interrogates" him.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Do you think he'd tell you what you need to know?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+John's discomfort is increasing and Novak is sensitive to it.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	There's always a chance they'll confess.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Really? I don't work with violent cases, I work with children. But even a kid lies. They love it when they get you to believe something that isn't true. Don't you think Stargher would do the same?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Sometimes... Once they've been caught they feel a need for disclosure. They have so much they want to tell. But they've never had a sympathetic ear. They need someone to understand why.
+	</DIALOGUE>
+<DIRECTION>
+(focusing on Catherine)
+</DIRECTION>
+	<DIALOGUE>
+	Stargher used to hide the bodies very carefully. It was part of the ritual. Some weren't found for weeks and any physical evidence had been meticulously wiped clean. But these last three... They were still in water - always in water - but
+	</DIALOGUE>
+<DIRECTION>
+(clarifies)
+</DIRECTION>
+	<DIALOGUE>
+	Listen, he wasn't just careless. It went beyond that...
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Okay. Let's assume he wanted you to find him, that some part of him hated what he was doing... Most likely, that part is dead. Schizophrenics with Whalen's Infraction sever all ties with the real world. I'm sorry, I really am.
+	</DIALOGUE>
+</CATHERINE>
+<RAMSEY>
+	<DIALOGUE>
+	Is it possible?
+	</DIALOGUE>
+</RAMSEY>
+<CATHERINE>
+	<DIALOGUE>
+	If he came to trust me, yes, but it takes months to build that kind of trust. Someone like Stargher can't distinguish between fantasy and reality. It's all the same. He might tell me she's in Timbuktu and absolutely, one hundred percent believe it to be true, but she's...
+	</DIALOGUE>
+</CATHERINE>
+<JOHN>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Julia.
+	</DIALOGUE>
+</JOHN>
+<DIRECTION>
+They turn to John Tracy. His vulnerable, barely audible voice forcing everyone to listen.
+</DIRECTION>
+<JOHN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Not "she." Julia. Not thing, or it, or her. Do you know anything about her? Do you know what we've been through? Julia is everything to me. Can you say that about anyone?
+	</DIALOGUE>
+</JOHN>
+<DIRECTION>
+Catherine hangs her head. And finds herself looking at photograph of the girl in question. A smiling Julia Hickson looking right at her.
+</DIRECTION>
+<DIRECTION>
+WHOOP-WHOOP-WHOOP-WHOOP. POUNDING REVERBERATIONS...
+</DIRECTION>
+<DIRECTION>
+EXT. CAMPBELL CENTER - DAY
+</DIRECTION>
+<DIRECTION>
+WHOOP-WHOOP-WHOOP-WHOOP. A HELICOPTER descends onto the pad. A stretcher is removed from the side door of the helicopter.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - VARIOUS/TRAVELLING - DAY
+</DIRECTION>
+<DIRECTION>
+The STAFF watches with a mixture of fear and curiosity as a stretcher bearing the catatonic Stargher is wheeled FAST through the corridors by an FBI escort team.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - CONFERENCE ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Hundreds of photographs, drawings, diagrams, maps, blueprints, and documents - Novak's case material - cover every inch of wallspace. The table is littered with reference books, atlases, telephones, a fax machine, short wave radio, and computer/Internet terminal. An FBI TECHNICIAN completes the electronics work and points out the "speed dial" functions to Novak and Ramsey.
+</DIRECTION>
+<FBI_TECH>
+<DIRECTION>
+(listing them)
+</DIRECTION>
+	<DIALOGUE>
+	Quantico. San Diego Field Office. S.D., L.A., and San Francisco P.D. California, Arizona, Nevada State Police. Nine and ten are open lines.
+	</DIALOGUE>
+<DIRECTION>
+(re: radio set up)
+</DIRECTION>
+	<DIALOGUE>
+	Direct link to the chopper.
+	</DIALOGUE>
+<DIRECTION>
+(re: the computer)
+</DIRECTION>
+	<DIALOGUE>
+	That gets you into the Bureau Database.
+	</DIALOGUE>
+</FBI_TECH>
+<NOVAK>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Once he's gone, Ramsey takes this moment "alone" to question his partner.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	You sure you want to go through with this?
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	What else do we do?!
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	I don't know, Pete, but for god's sake... This is nuts. Do you really understand what they're going to do?
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	I don't have to.
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	Why jeopardize what we've already done? We caught the sonofabitch. Carl Stargher. That's going to be like Bundy, Gacy, Dahmer. A case that makes careers. But if we push our luck. If this is all bullshit and we come out smelling like it.
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	Tell you what. If this thing burns us, I take that heat. I give you permission to point your finger at me and say "It was all his idea."
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+<DIRECTION>
+(offended)
+</DIRECTION>
+	<DIALOGUE>
+	That's not what I'm talking about, Pete. I'm talking about waking up and realizing this girl's gonna die.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+The words are anathema to Novak.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	That won't happen.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Cooperman appears in the doorway and informs them...
+</DIRECTION>
+<COOPERMAN>
+	<DIALOGUE>
+	They're ready.
+	</DIALOGUE>
+</COOPERMAN>
+<DIRECTION>
+Ramsey looks to his partner, but Novak is already on Cooperman's heels. Resignedly, Ramsey follows.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY - DAY
+</DIRECTION>
+<DIRECTION>
+Cooperman guides Novak and Ramsey into the lab. The FBI men are impressed, but neither is quite sure what to make it all. The FBI escort team leader gets Ramsey's signature and Novak undoes the cuffs from Stargher's wrists and ankles. Following Miriam's direction, the escorts guide the gurney carrying Stargher into the procedure room. As Cooperman shows them out, Henry seals shut the door. Miriam assumes responsibility for Stargher's care and checks his pulse, IV, pupil dilation, and vital signs...
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Shouldn't we get a catheter in him?
+	</DIALOGUE>
+</HENRY>
+<MIRIAM>
+	<DIALOGUE>
+	They took care of that, thank you, Henry.
+	</DIALOGUE>
+<DIRECTION>
+(getting him out of her hair)
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Why don't you give our guests a little tour?
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Proud of his computer, but uncomfortable around strangers, Henry directs Novak and Ramsey to the console.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Gentlemen, you stand before the one and only Neurological Cartography and Synaptic Transfer System.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Although he's listening, Novak's eyes never really stray from his prisoner as Miriam uses safety scissors to cut away Stargher's clothes.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	It provides a highly detailed map of the human mind. Not the brain - any MRI can do that. The mind.
+	</DIALOGUE>
+<DIRECTION>
+(self-impressed)
+</DIRECTION>
+	<DIALOGUE>
+	It reads and processes electronically allowing information to be transferred and interrupted.
+	</DIALOGUE>
+<DIRECTION>
+(for the laymen)
+</DIRECTION>
+	<DIALOGUE>
+	Let's say your thoughts could be stored on DVD. If someone had the right kind of player, they could watch and listen to what you're thinking.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Novak observes Miriam as she "undresses" Stargher and Ramsey pokes around the lab.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	But we can't record or store the data. The connections between nerve cells are constantly being modified.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Miriam needs a moment to fully take in the scars. Henry continues, eager to focus attention back to him, but even he is fascinated by Stargher's skin.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	It's like the early days of television. The subject sends out a live feed and you receive it during time of broadcast. Whatever happens, happens. All you have to do is "tune in."
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Miriam gives Stargher an alcohol bath, the clinical procedure taking on the quality of ritual. Her wash cloth moves under Stargher's chin and over his face. She's careful around the eyes and finds herself unable to look at them for long.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	But you do more than tune in... You become part of the snow.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Catherine enters from a dressing area wearing the bodysuit. Filled with curiosity, Novak watches Miriam and Catherine fit Stargher into his suit.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	I still don't understand why I can't do this... This isn't some "troubled kid" you're dealing with.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	I realize that...
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	How hard could it be...?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine and Miriam try to hide their laughter.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	The first... What? Six or seven times I went in. Remember what happened?
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Disorientation, nausea, migraines, hallucinations, insomnia, paranoia.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Like a New Year's Day hangover.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	He needs to be turned over.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Novak and Catherine roll Stargher onto his stomach.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	This man is deeply disturbed, he...
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	You don't know the procedure.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	I know him.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	That may be true, but you don't have Catherine's gift. She...
+	</DIALOGUE>
+<DIRECTION>
+(distracted by Stargher's back)
+</DIRECTION>
+	<DIALOGUE>
+	What happened here?
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+We see a series of EIGHT BANDAGES.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	We removed eight metal rings.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Miriam peels away a bandage and examines the flesh.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Then he should like this.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Catherine connects Stargher to the SUSPENSION APPARATUS and it HOISTS him off the table.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	They're comforted by the feeling of weightlessness. Like floating in water.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Henry catches Ramsey poking his nose near a THIRD SUIT AND APPARATUS in the dressing area.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Don't touch that, please.
+	</DIALOGUE>
+</HENRY>
+<RAMSEY>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Miriam prepares a series of CHEMICAL CARTRIDGES and loads them into a container connected to the IV-like tubes linked to the suspension device.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(intimate, quiet)
+</DIRECTION>
+	<DIALOGUE>
+	This isn't your responsibility. Remember that. Don't let them use guilt as a tool. If you want to stop, say so.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	I'll be fine.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	She said convincingly.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine focuses on the procedure and makes the necessary connections. Reluctantly, Miriam retreats to the monitoring station. She "locks down" the procedure room and joins Henry, Novak, and Ramsey at the console.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(eyes on the chemical/drug monitors)
+</DIRECTION>
+	<DIALOGUE>
+	That's the stuff?
+	</DIALOGUE>
+</NOVAK>
+<HENRY>
+	<DIALOGUE>
+	About twelve years of research, right Miriam?
+	</DIALOGUE>
+</HENRY>
+<MIRIAM>
+	<DIALOGUE>
+	Don't remind me.
+	</DIALOGUE>
+</MIRIAM>
+<RAMSEY>
+	<DIALOGUE>
+	What is it - are they - exactly?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+That's like asking her to explain the rules of cricket.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Psychostimulants, serotonin, stabilizers, meprobamate, Neurontin, lithium carbonate. And my baby. It duplicates and expands upon the effects of a chemical called oxytocin, forcing a break in the neuron connections that hold experience. So new experience can form.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Ramsey is utterly lost and just sort of nods, but Novak is fascinated. Catherine presses the bump on her hand. A RED INDICATOR LIGHT flashes on.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	There's a touch-sensitive microchip implanted in her hand. If she becomes frightened, disoriented, or simply wants to end the session, she signals us to abort.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Catherine presses again and the red light shuts off.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Although none of what she experiences is real, she can be tricked into thinking it is. The mind is awfully gullible, so she needs to monitor herself.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine and Stargher are suspended from the ceiling. Henry types and the lights dim to a more somber, tranquil level. Various screens flicker to life, displaying the vital signs of both "feed" and receive." Miriam initiates the injection program.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Catherine? I'm about to start. If you want me to wait, or...
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	No. No.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+IN THE PROCEDURE ROOM, we see chemicals mix with her blood, then feed the IV. AT THE CONSOLE, as Henry types furiously at the computer keyboard, Novak asks Miriam:
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	You said she has a "gift."
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Overhearing, Henry interrupts, pointing at a section of Catherine's "mind map."
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Not a gift. A highly evolved area in her cerebral cortex, that's all. A genetic fluke.
+	</DIALOGUE>
+</HENRY>
+<MIRIAM>
+	<DIALOGUE>
+	Catherine has a tremendous capacity for empathy.
+	</DIALOGUE>
+<DIRECTION>
+(clarifies)
+</DIRECTION>
+	<DIALOGUE>
+	When we started, there were a number of test subjects - other therapists - who acted as "receivers." All they did was observe and report. Nothing more. But Catherine, she had the ability to feel what was happening. She understood. And the patient responded. Edward engaged her in dialogue, took her places, showed her things. He knew she cared.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+A hopeful, solemn Novak gazes through the window, watching Catherine's body as it becomes parallel to Stargher's...
+</DIRECTION>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Catherine takes a deep breath and as the drugs take effect, feels herself losing consciousness. She glances at Stargher, a man who tortures and kills women, then looks up as the CLOTH MASK descends from the ceiling.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Intravenous administration complete.
+	</DIALOGUE>
+</MIRIAM>
+<HENRY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Initiating connection.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+We follow fibrous wires running from Catherine's mask to Stargher's. Their blood mixing with chemicals in the IV-like containers. The computer system humming.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Transfer begins 1100 hours, 34 minutes, 12 seconds.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Catherine's eye focuses on the mask. As it comes closer, we see the lining is laced with thread-like wires and microchips forming hyper-miniature circuit boards. Catherine's eye blinks. The mask covers her face. Catherine's eye shuts.
+</DIRECTION>
+<DIRECTION>
+Vision fades. Darkness. A faint light. Microscopic veins in the eyelid become wires connected to chips. And we're MOVING, into the circuitry.
+</DIRECTION>
+<DIRECTION>
+ENTRANCE ONE
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD
+</DIRECTION>
+<DIRECTION>
+The pattern of the electronics grows into something more organic, textured, concrete. Evolving into a world. Black and shadow-filled, it resembles a labyrinthine complex of vertical walls with cubicle like rooms carved deep into its core.
+</DIRECTION>
+<DIRECTION>
+Our journey into this bleak, grim place continues and we occasionally glimpse brief images of a boy's baptism.
+</DIRECTION>
+<DIRECTION>
+INTERCUT with this journey are sections of cloudy blackness and fragmented visions of CATHERINE connected to the apparatus, face masked, DESCENDING into this world.
+</DIRECTION>
+<DIRECTION>
+There is an abrupt SHIFT from still images to regular motion and we find ourselves gliding over a tidepool filled with tiny fish and tadpoles. At water's edge, lying on rough, pebble-strewn ground, is a HAND.
+</DIRECTION>
+<DIRECTION>
+Catherine's hand. We sense MOVEMENT, but she remains still. From the darkness comes a DOG. Black in color and featureless, it sniffs Catherine, dismisses her, and meanders into a cubicle opposite her, disappearing from view. After a moment of odd quiet, a DROP OF BLOOD hits the mask and we follow Catherine's hand as it moves to the cloth and removes it from her own face.
+</DIRECTION>
+<DIRECTION>
+IN MACROSCOPIC SUPER SLOW-MOTIONS, another BLOOD DROPLET sails 64 into the air and comes crashing down, hitting a RED ANT, catapulting it onto what looks like a tree, but is just a TWIG. As the insect scurries away, MORE DROPS pound the earth, splatter against "twig trees," and explode into pools of stagnant water...
+</DIRECTION>
+<DIRECTION>
+As we begin to realize that this miniature landscape is the world into which Catherine descended.
+</DIRECTION>
+<DIRECTION>
+She sits up, shivering, and breathes deeply, acclimating to her surroundings. The "floor" is covered with filth, ash, pebbles, and insects. Water is present in many forms, puddles, moisture, dripping ceilings.
+</DIRECTION>
+<DIRECTION>
+Eyes focusing, queasy, not fully "awake," Catherine notices the crimson stain on the cloth mask and the blood droplets showering the air. She turns and finds the source.
+</DIRECTION>
+<DIRECTION>
+THE BLACK DOG stands in the opposite room next to a tub full of BLOOD, shaking himself dry after his "bath." Satisfied, the animal stops and trots away. Still adjusting to this nightmarish realm, Catherine at first doesn't hear it, but then realizes that somewhere, a child is CRYING. She looks around, then through a crack in the "floor," briefly catches sight of a BOY beneath her, on a level lower than hers. As he disappears into corridor ending in "nothing," we PULL BACK to show a MASSIVE LANDSCAPE of blocks, cubicles, crawlspace, walls, stairs, and ladders. Leading everywhere and nowhere.
+</DIRECTION>
+<DIRECTION>
+Catherine spots the boy as he crawls into a specific "room." Shortly after, a LIGHT comes on within the cubicle and she moves to it. We feel as though we're looking at a series of interlocked tenement rooms, some walls of which have been torn away to expose rooms within, rooms with no windows or doors. Following a path of fragile steps, Catherine makes her way to the LIGHTED ROOM and enters.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - LIGHTED ROOM
+</DIRECTION>
+<DIRECTION>
+A mottled HORSE stands with its head down, nose kissing the floor, allowing the BOY to caress its neck. This sweet animal is an incrongruous vision in this hellish world and Catherine approaches with respect.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Hello?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The frightened child retreats into a corner of the claustrophobic room, but the horse does not startle. Surprisingly - to the boy - the horse takes an affectionate step toward Catherine, inviting her to take over. Catherine allows the mare to smell her, then vigorously scratches along the mane and shoulder, much to the horse's delight.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Yeah, you like that, don't you?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She can see the boy hiding in the corner, stealing glances at her from the shadows.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Is your name Carl?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy - YOUNG STARGHER - is startled and intrigued by the question - How did she know that?! - but says nothing.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Another little boy I know, he has a horse, too.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy reacts to an unusual SOUND coming from the CEILING.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	His name's Edward. The boy, not the horse...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy takes a few steps toward her, out of the shadows, but he seems more concerned about something in the ceiling than "connecting" with Catherine. Very anxiously, he looks at the wall behind Catherine and watches an old wind-up kitchen TIMER click down.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What's the matter, Carl?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Again, a sharp SOUND from the ceiling.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What's wro---?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Young Stargher RUNS at her and SHOVES her hard! Catherine FALLS BACK just as EIGHT SHEETS OF GLASS drop from the ceiling! Like oversize razor blades, they slice the horse into four clean sections. They separate and compact the quadrants until four glass-contained sections of dissected horse stand within the room. Catherine SCREAMS, but the mare barely acknowledged what happened. Betraying no emotion, the boy runs. The shaken Catherine takes a moment to collect herself, then gives chase.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - THE LABYRINTH
+</DIRECTION>
+<DIRECTION>
+Young Stargher knows his way around the landscape, but Catherine has difficulty simply keeping him in sight. She runs, climbs and crawls. Until she's utterly lost and disoriented. Tired and having difficulty breathing, she drops to her knees and "cools down." She hears a NOISE nearby, gets to her feet, and finds a GEARED MECHANISM connected to some kind of SHUTTERED DOOR composed of an almost metallic-looking glass. Curious yet cautious, she examines the nearby walls, floor, and ceiling for any signs of "traps" akin to the glass blades. Finding none, she pulls the mechanism and quickly steps back.
+</DIRECTION>
+<DIRECTION>
+The shutter opens and Catherine knows there's something alive in the tiny cubicle beyond. She retreats into shadow, hiding. Released from the chamber is a WOMAN. As she moves out of a darkness, we see VICTIM ONE.
+</DIRECTION>
+<DIRECTION>
+Ghostly pale and adorned in eerie fetish garb, she appears to "sense" the presence of a stranger, targets Catherine in the shadows, and ATTACKS!
+</DIRECTION>
+<DIRECTION>
+Catherine's had enough and moves to press the implant, BUT THE VICTIM IS ALREADY THERE! She brutally grabs Catherine, THROWS her against the wall and SMACKS her head against it. Catherine drops to the floor like a rag doll.
+</DIRECTION>
+<DIRECTION>
+Victim One hefts Catherine onto her shoulder and with great purpose, carries her deep into the labyrinth, toward the core. Passing in and out of consciousness, between darkness and light, a dazed Catherine is taken on a "tour" of Stargher's world. Passing mausoleum-like chambers filled with IMAGES of unspeakable horror and/or disturbing intensity. At one of the rooms, we think we see Young Stargher silently observing...
+</DIRECTION>
+<DIRECTION>
+Sitting of standing in individual cubicles are STARGHER'S OTHER VICTIMS (TWO thru SIX), each woman resembling the grotesque porcelain dolls glimpsed in the cubbyholes in Stargher's basement. Dressed by a fetishistic sadist (Nine Inch Nails meets the Brides of Dracula), they resemble bored housewives, barely acknowledging the new member of the "harem."
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - THE CORE
+</DIRECTION>
+<DIRECTION>
+VICTIM ONE drops Catherine in the center of the room and, job done, crawls away.
+</DIRECTION>
+<DIRECTION>
+Groggy, feeling sick, Catherine sits up. Unbeknownst to her, she is sitting at the base of a pedestal with her back to the kind of THRONE. And someone is there. In the dim pool of light above the pedestal, we see a MAN rise from the throne. The wall behind him is covered in BLOOD RED CLOTH, and as he descends, we realize it is a CAPE connected to EIGHT METAL RINGS pierced through the flesh of his back. In a fluid motion, waves of red give way to harshly textured concrete as the man reaches the floor. Catherine knows he is there. Unable to stop herself, she turns. And sees the terrifying face of STARGHER. But no the same Stargher.
+</DIRECTION>
+<DIRECTION>
+This is STARGHER KING.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(primitive, guttural)
+</DIRECTION>
+	<DIALOGUE>
+	Where you come from priddy thing?
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+In a split second, Catherine presses the implant on her hand.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - CONFERENCE ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Apparently capable of staying awake if properly caffeinated, Novak sits cross-legged on the floor, shoes off, analyzing RECENT PHOTOS AND DOCUMENTS sent to him via courier. Ignoring a snoring Ramsey napping on a nearby cot, Novak looks at blow-ups from the videos, blueprints of Stargher's house, detailed shots of the basement, and a draftsman's conceptual drawing of the cell itself.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Gentlemen?
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Novak looks at an INTERCOM SPEAKER.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(V.O.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	She's back.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Novak doesn't wait for his just-stirring partner and moves.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+As he enters, Novak sees a concerned Henry checking a print out of the procedure.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	What happened?
+	</DIALOGUE>
+</NOVAK>
+<HENRY>
+	<DIALOGUE>
+	Must've been rather unusual.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Noting Novak's confusion, Henry points to a CENTRAL MONITOR resembling a futuristic V.U. meter, gradiated in sections of white, yellow, orange, and red.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D) (re: white/yellow area)
+</DIRECTION>
+	<DIALOGUE>
+	If her neural activity stays within this range, I know she's self-cognitive.
+	</DIALOGUE>
+<DIRECTION>
+(clarifies)
+</DIRECTION>
+	<DIALOGUE>
+	As if she were having a dream, but she knows she's dreaming. She can "wake up" any time she wants to...
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+As Ramsey joins them, Novak nods, understanding, but his eyes are on Catherine, who's just coming back to consciousness.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D) (re: orange section)
+</DIRECTION>
+	<DIALOGUE>
+	However, if her level of involvement is rather intense, as it was just now, she can perceive things as true. It's difficult to keep perspective.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+As Novak lingers on that question, Ramsey gestures at the red section.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	What happens here?
+	</DIALOGUE>
+</RAMSEY>
+<HENRY>
+	<DIALOGUE>
+	We don't talk about that.
+	</DIALOGUE>
+</HENRY>
+<NOVAK>
+	<DIALOGUE>
+	What happens?
+	</DIALOGUE>
+</NOVAK>
+<HENRY>
+	<DIALOGUE>
+	Well, Theoretically, while she's inside. If she came to believe that Stargher's world is her world, her mind has the power to convince the body that anything done to it is, um, actually done.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Novak doesn't like the sound of that.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	That's why we monitor the use of the drugs so closely. We don't want her getting to that degree of perceptual disorientation.
+	</DIALOGUE>
+</HENRY>
+<MIRIAM>
+	<DIALOGUE>
+	Pump in two liters of pure oxygen, please Henry.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Henry types a command and Novak speaks into the intercom.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Dr. Kent?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Miriam eases Catherine back to consciousness.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Deep breaths.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+When she sees Stargher, Catherine's flesh crawls.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Is it cold in here?
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	What happened?
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+No response.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What's wrong?
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Incapable of being in the same room as him, Catherine tears out of the apparatus and anxiously exits.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Catherine!
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+IN THE PROCEDURE ROOM:
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	I'll get her...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+INT. CAMPBELL CENTER - DAY
+</DIRECTION>
+<DIRECTION>
+A worried Novak searches the halls of the Campbell Center. He's about to ask the staff for help, but stops when he sees through the window to Edward's room.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - EDWARD'S ROOM
+</DIRECTION>
+<DIRECTION>
+Catherine sits next to the boy's bed, holding Edward's hand, softly singing a lullaby (to him, to herself). Feeling that he must speak to her, Novak intervenes.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Edward Baines, I presume.
+	</DIALOGUE>
+<DIRECTION>
+(to the catatonic child)
+</DIRECTION>
+	<DIALOGUE>
+	Hi, Ed. I'm Pete.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Do you think that's funny?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	No. Not at all. From what I understand, he knows I"m here, isn't that right?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine nods. Novak picks up Edward's fallen teddy bear and rests it in the crook of the child's arm.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I read about a woman in TExas who was in a coma for seven years. Every time her husband came to visit, her heart would beat faster. Isn't that something? I don't know what name scientists have for something like that...
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	It doesn't have much to do with science.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	What then?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	The soul. The spirit. Whatever you want to call it.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Ah, the part of us that can't be explained.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+She appreciates his understanding. And finds herself comforted by his presence. Catherine scrutinizes Novak, his intensity, his honesty, his complexity. And asks:
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Agent Novak?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Peter, okay?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Do you feel there's a side of yourself you don't show people?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The question catches Novak off-guard, but he's willing to answer. Anything to get her talking.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Absolutely.
+	</DIALOGUE>
+<DIRECTION>
+(realizing it's too personal)
+</DIRECTION>
+	<DIALOGUE>
+	I suppose everyone does.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Just like we all have fantasies, right? Things only we know, that we don't share.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	That's what therapists are for, right?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine laughs. It helps her relax. If only slightly.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	During the sessions. When I'm inside. I see those things. What a person hides, what they despite, what they want to control. With Stargher...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+This is difficult for her.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	With Stargher I saw things...
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	What did you see?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+<DIRECTION>
+(professionally)
+</DIRECTION>
+	<DIALOGUE>
+	A kingdom. His utopia. Life without consequence or restriction. He's not even Carl Stargher anymore. He's this... idealized version of himself who can do anything he pleases... Without fear. A horrible primitive ugly thing.
+	</DIALOGUE>
+<DIRECTION>
+(uncomfortable; re: Edward)
+</DIRECTION>
+	<DIALOGUE>
+	I don't want to talk in here.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She kisses Edward's forehead and exits.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - CONFERENCE ROOM/COURTYARD - DAY
+</DIRECTION>
+<DIRECTION>
+Catherine and Novak sit on a bench in the center of the courtyard. John Tracy is visible in the reception area, unable to sleep, desperately trying to fight frustration.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Why'd you bring him here?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	You're the shrink, you tell me.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+<DIRECTION>
+(already knows)
+</DIRECTION>
+	<DIALOGUE>
+	As soon as I met him, you knew I'd say yes. He makes Julia real for me.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Novak nods. Guilty.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	It's an old lawyer trick. Target the emotions. Do it right, you get a reluctant witness to testify, a scared kid to confess.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine looks at him with disbelief. "You?!"
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Before I was with the Bureau, I was an attorney, a prosecutor. Mr. Law and Order. And then... I had a murder case in North Carolina. Charles Gish. Butchered seventeen people in three days. And because of one tiny piece of tainted evidence, he walked.
+	</DIALOGUE>
+<DIRECTION>
+(no regrets)
+</DIRECTION>
+	<DIALOGUE>
+	That's when I quit the DA's office and joined the FBI.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine can see the pain and frustration in Novak's eyes. She gives him a moment and asks:
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	You thought Stargher wanted to be caught.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	I did, yeah.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	You were right. There's a part of him that knows the truth. About what he did, about himself.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Novak's curiosity is piqued.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	What about Julia?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	This is going to sound terrible, but... I don't think she matters anymore. Not to him. He never finished her. The others...he was able to make them his.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	You think you can do this, don't you?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	He might tell me about Julia. The part of him that wants to help, that feels shame and remorse. Who wants to be redeemed.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+<DIRECTION>
+(skeptically)
+</DIRECTION>
+	<DIALOGUE>
+	This is Stargher we're talking about?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Not Stargher, not really. He's split himself right down the middle. Good/evil, right/wrong, merciful/cruel. A monster. And an innocent child. If I could reach the boy.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Whoa. Hold on. Aren't they the same guy?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Don't you feel there are different sides to every personality? Maybe even the worst of us is capable of one decent act. We're all human.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	It's hard for me to see Stargher as human, capable of something like "remorse."
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Then what is he?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Evil.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	If you believe that.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Maybe this is a big fucking waste of time.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+<DIRECTION>
+(sensing something)
+</DIRECTION>
+	<DIALOGUE>
+	What happened to Charles Gish?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Novak doesn't respond. She prods him.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What happened?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	What difference does it make...?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Tell me.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+God, he does not want to do this.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Right after the trial, the night after he was released. Mr. and Mrs. Frank Simmons found Charlie sitting in their living room watching TV with their twelve-year old daughter Margaret. He'd cut her right down the middle with a carving knife.
+	</DIALOGUE>
+</NOVAK>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Found the girl's heart in the freezer - he thought they might want to keep it.
+	</DIALOGUE>
+<DIRECTION>
+(grim humor)
+</DIRECTION>
+	<DIALOGUE>
+	Luckily, the next thing he did was slit his own throat.
+	</DIALOGUE>
+<DIRECTION>
+(bleakly)
+</DIRECTION>
+	<DIALOGUE>
+	I am convinced of one thing. Charles Gish could've been raised by Ozzie and Harriet and the same thing would've happened.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+He can see Catherine doesn't accept that.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	A child can experience abuse worse than Charlie's. And grow up to be someone who would never, ever hurt another living thing.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	You're sure of that?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Yes. I am.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine realizes that was a confession.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Where the hell you been?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+They turn to see Ramsey.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Right here.
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	Next time, tell me, okay?
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	But you looked so cute. All sleepy...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Ramsey shoots him a murderous look, then asks Catherine.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	Your colleagues want to know what to do with Stargher.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak looks to Catherine for the answer. Through the window blinds, she watches John Tracy lower his head.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Tell them to prep him. And that I'll be right there.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Ramsey nods and heads back to the lab.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Thank you.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Briefly, he touches her hand. Catherine looks away from John to Novak's hand, to the photographs on the wall. Stargher's house, Valentine, the pick-up truck. Valentine...
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	I need something.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+INT. CAMPBELL CENTER - CORRIDOR - DAY
+</DIRECTION>
+<DIRECTION>
+A K-9 UNIT FBI AGENT escorts VALENTINE to the lab.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY - DAY
+</DIRECTION>
+<DIRECTION>
+As the agent brings the frightened animal into the monitoring area, Catherine and Valentine share a moment of "connection." Slowly, confidently, she approaches the Shepherd, kneels, and removes his leash and muzzle. She strokes him and the dog instantly warms up to her.
+</DIRECTION>
+<FBI_K_9_AGENT>
+	<DIALOGUE>
+	Sure wasn't like that with me.
+	</DIALOGUE>
+</FBI_K_9_AGENT>
+<DIRECTION>
+Novak signs a document and the K-9 Agent exits.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	You're a good boy, aren't you, Valentine?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The dog picks up a scent from the procedure room and moves it, Catherine and Novak following.
+</DIRECTION>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Stargher lies face down on a gurney. Now taped to the wall near Stargher are PICTURES from the basement - his dolls, the hoist, etc. Miriam (in surgical mask and gloves) carefully re-inserts the METAL RINGS (taken from an FBI EVIDENCE BAG) into the eight straps of flesh on his back. When he sees this, Valentine whimpers and hides. Catherine comforts him. Miriam finishes her task and removes her mask.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	I hate to admit it, but there's something perversely satisfying about this.
+	</DIALOGUE>
+</MIRIAM>
+<HENRY>
+	<DIALOGUE>
+	I think that's the whole point.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Valentine runs to his "sleeping" master and barks at Catherine as if asking for help. She encourages the animal to lick and sniff Stargher's face and hands.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	That's interesting.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+IN THE CONTROL ROOM, he scrutinizes the monitor showing the detailed "map" of Stargher's brain.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Increased neural activity in the frontal lobes. Rising dopamine levels in the basal ganglia. Ever since the dog walked in.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Catherine readies herself in the "receive" apparatus. As Stargher is lifted off the pedestal, the doors HISS shut and Valentine curls up on the floor beneath his master. As Catherine is lifted, she smiles at the animal, then looks to Stargher.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(comforting and coaching her)
+</DIRECTION>
+	<DIALOGUE>
+	Remember, Julia Hickson is priority number one. Nothing else matters. Find out where she is.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Okay, okay...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+LIGHTS FLICKER. Catherine's eyes shut. FADE TO BLACK...
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Uh-oh...
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+LIGHTS FLICKER. We hear an ELECTRICAL HUM rise and fall. Catherine opens her eyes and the LIGHTS blink on and off in a weird pattern, making it difficult to see clearly.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Don't kid around, Henry...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Her suspension apparatus DESCENDS on the floor.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not. It's a power problem. I need you to go to the circuit breaker and check switches six through twelve.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Catherine moves toward the electrical panel.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Try to stay awake, okay?
+	</DIALOGUE>
+</HENRY>
+<CATHERINE>
+	<DIALOGUE>
+	Yeah, yeah, yeah. I'm not sleepy.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+As she moves toward the panel, everything becomes larger. By the time Catherine reaches the circuit breaker, it is the size of a garage door. Curiouser and curiouser...
+</DIRECTION>
+<DIRECTION>
+She turns around to see the LABORATORY IS EMPTY and DEAD QUIET. And she sees herself - Catherine as small as a mouse trapped in a giant walled space.
+</DIRECTION>
+<DIRECTION>
+AT THE CONSOLE, Novak, Miriam and Henry observe the procedure room. And Catherine. Suspended in the apparatus. Motionless...
+</DIRECTION>
+<DIRECTION>
+ENTRANCE TWO
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD
+</DIRECTION>
+<DIRECTION>
+Catherine turns to see... Catherine lying in the fetal position, locked in a BOX made of thick clean glass. The electronic HUM becomes RHYTHMIC, AMBIENT NOISE.. INSIDE THE BOX, staying calm, she searches for and finds a TRAP DOOR on the floor. She pushes out. The camera executes a complete 180-degree perspective change.
+</DIRECTION>
+<DIRECTION>
+Catherine plummets. She tries to reach out, to stop her descent, but cannot.
+</DIRECTION>
+<DIRECTION>
+Catherine falls through a dark CAVERNOUS ROOM resembling a mammoth hollowed-out rib cage. Below her is a DOME-LIKE STRUCTURE "growing" out of the floor, a HOLE in the center of its crest. Dozens of other such domes are visible in the murky hell-hole, but Catherine has no choice. She's dropping into this one.
+</DIRECTION>
+<DIRECTION>
+Once she passes through the hole, INSIDE THE DOME, Catherine's body looks as though it's moving through water, but there is no water. Like an aerial artist, she reverses her position so she's "heads up." Standing, stable, on the floor. Sensing something with her. And knows it is...
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Valentine?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Out from the darkness, moving in normal motion, comes the white German Shepherd, but in the thick haze, his face is indistinct and ghostly.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Hi sweetie...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+And as she steps toward him, his face DISSOLVES into a STARK LANDSCAPE. An ear becomes a hill, the nose a stone, mouth a path, and the eye a HOUSE. YOUNG STARGHER retreats towards the bleak structure as CATHERINE ENTERS FRAME. Seeing the invitation, she presses on.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - BOYHOOD HOME - KITCHEN
+</DIRECTION>
+<DIRECTION>
+Young Stargher is at the sink WASHING DISHES, an anxious eye on the clock.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Need some help?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+As Catherine enters the claustrophobic house, the boy hesitantly pushes a towel toward her, but doesn't look. She reaches the counter and starts to dry, much to Young Stargher's relief. As he washes, Catherine hands him a MIRROR LOCKET just like Edward's.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Carl, I want to give you a present.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He's hypnotized by the thing, his eyes lighting up.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	If you need me, or if you feel that I'm around but can't find me, just shine it, like this.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She shines reflected light onto the walls. Carl hands Catherine the wet plate and takes the locket. The dish slips from her fingers and SHATTERS on the floor. The boy's eyes fill with dread. The kitchen clock reads 5:30. He PUSHES Catherine toward a broom closet and shoves her inside.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What's wrong honey?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+With a finger to his lips, he pockets the locket and shuts the door. FROM WITHIN THE CLOSET, she watches the terrified child through a CRACK in the door. IN THE KITCHEN, Young Stargher desperately tries to hide the broken plate. Startlingly, his father, Martin Stargher, is already in the room. Cruel, imposing, manipulative man.
+</DIRECTION>
+<MARTIN>
+	<DIALOGUE>
+	What did you do know? You make a mess? I hate a mess.
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+Young Stargher backs into a corner, fearing what will come.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Don't lie, now, Carl.
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+IN THE CLOSET, Catherine pushes, but the door won't budge. She POUNDS. IN THE KITCHEN, we hear no sound.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Remember what I said about liars? Liars will be punished.
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+INT. CLOSET - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Catherine hears the child SCREAM. But the scream comes from behind and she spins around.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - LIVING ROOM
+</DIRECTION>
+<DIRECTION>
+Young Stargher is forced to sit on the lap of an ugly MIDDLE AGED WOMAN barely wearing a man's robe. On a nearby table are whisky, tumblers, and an ashtray filled with butts.
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	I got you a present, cutie-pie.
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+She gives him a TOY DOLL. Drunk, she hugs and kisses him. Embarrassed, the boy tries to squirm away.
+</DIRECTION>
+<WOMAN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Oh no. You're not going anywhere.
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+Martin enters and sneers at the boy.
+</DIRECTION>
+<MARTIN>
+	<DIALOGUE>
+	Go back to bed, worm.
+	</DIALOGUE>
+</MARTIN>
+<WOMAN>
+	<DIALOGUE>
+	It's okay, we was just.
+	</DIALOGUE>
+</WOMAN>
+<MARTIN>
+	<DIALOGUE>
+	Shut up, cunt.
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+The woman cowers, familiar with his violent moods. The boy hurries to his room, but Martin grabs him by the collar.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What is that?
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+He pulls the doll from the child's hands, turns to the woman, and SMACKS her across the face with it, gashing her cheek.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You give him nothing. Whore. Are you his mother? ARE YOU?
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+Terrified, she shakes her head "no." Martin sees Young Stargher quietly crawling away, hoping to escape. Martin lifts the boy off the floor with one hand and holds him in front of the woman.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You see that? SEE IT? You slithered out one of them. But where is she now, Carl? As far from you as she could get, that's where.
+	</DIALOGUE>
+<DIRECTION>
+(shoves him at the woman)
+</DIRECTION>
+	<DIALOGUE>
+	You want a mommy? Is that what you want?
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+The poor boy trembles with fear. And Martin notices a puddle of urine on the floor. He drops the boy and laughs.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Little worm pissed his pants.
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+Humiliated, Carl covers himself and hides in a corner. Martin and the woman LAUGH AND LAUGH, delighting in the boy's humiliation.
+</DIRECTION>
+<DIRECTION>
+INT. CLOSET
+</DIRECTION>
+<DIRECTION>
+Feeling the boy's shame, Catherine turns and finds a FADED POSTCARD taped to the wall.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - BEDROOM
+</DIRECTION>
+<DIRECTION>
+Martin has discovered his son's secret hiding place - a camouflaged corner of the attic. Arranged in deliberate, artistic fashion are scavenged DOLLS. Heads, limbs and torsos held together with twine, tape and wire. Some wrapped in filthy plastic. Faded photographs (including one of his MOTHER), mementos, and most disturbingly, the feathers and bones of dead birds, insect carcasses, and dissected, desiccated mice. There's something peculiarly beautiful here, but Martin doesn't see it. Not at all.
+</DIRECTION>
+<MARTIN>
+	<DIALOGUE>
+	Only girls play with dolls...
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+He turns and we see Carl is bound to a wooden support beam, a piece of tape covering his mouth. The boy is stripped to the waste, barely conscious, face streaked with tears and sweat.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What kind of thing are you?
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+INT. CLOSET
+</DIRECTION>
+<DIRECTION>
+A WEIRD NOISE snaps Catherine back to "reality." She turns just as a door opens behind her. Responding to the "invitation," she moves through it.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - BATHROOM
+</DIRECTION>
+<DIRECTION>
+The adult Carl Stargher sits at the edge of the tub, his back to us, smoking a cigarette. A white German Shepherd PUPPY clicks across the tile floor and YIPS at Catherine. She again hears the WEIRD NOISE. A STAINLESS STEEL BOWL wobbles as Stargher's bloody rubber-gloved hands fill it with something. Stargher knows she's there and isn't surprised by her presence, but he's not sure what to make of her. What to do with her. He rises and walks past her to the sink. He pulls off the gloves and washes his hands, glancing at her in the mirror.
+</DIRECTION>
+<DIRECTION>
+Catherine cannot resist looking in the tub. She sees a dead girl, her torso sliced open. Disgusted and mortified, she pulls back.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	She was the first...
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+She turns, and Stargher is no longer at the sink.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Didn't know what I was doing...
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+She turns, where's this voice coming from?! She steps back.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Be careful...
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+The bumps into the stainless steel bowl and it topples to the floor, spilling its contents of human organs. Wobble-wobble wobble. The bowl makes its now-familiar noise.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What did you do now? You make a mess?
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+And she can see him coming out of the shadows. Catherine backs into a corner, fearing what will come.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I hate a mess.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Stargher steps into a pool of light, shooshes the puppy into the hall, shuts the bathroom door, and looks right at Catherine.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Why are you here?
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+God almighty, what does she say? What does she tell him?!
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Don't lie, now...
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+SCRITCH-SCRITCH-SCRITCH. The puppy scratches at the door and whimpers, but Stargher's not about to let him back in. Moving slowly, carefully, he approaches Catherine.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Liars will be punished.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Catherine makes a break for the door. "Playfully," Stargher makes a half-hearted attempt to block her, but she evades him and reaches for the knob. But the door's not there. SCRITCH SCRITCH-SCRITCH. She can still hear the dog, but there's no damn door. She turns:
+</DIRECTION>
+<DIRECTION>
+No door. No window. The girl's body and bloody remains have vanished. An OVERHEAD LIGHT flickers on, giving the room the look and feel of the cell.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(O.S.) (CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Where do you think you're going?
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Catherine turns, back to the wall, calm and intimidating, Stargher stands in the center regarding her with great curiosity. Catherine's ready to press the sensor.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Don't do that.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+She hesitates.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	If you go away, you'll never find her.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+How did he know?
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	If you never find her, she dies. Like the rest.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Catherine stops and listens. She can't leave now. The path to Julia has appeared.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I mean, that's why you're here, right? Why you came to my happy little home?
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+He reaches for her and she flinches. Expecting such behavior, Stargher grins.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You're pretty. A pretty, pretty thing.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Catherine cannot show her fear, not now. She composes herself and approaches him.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	I want to help you, Carl.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+His grin broadens to a smile and he almost laughs.
+</DIRECTION>
+<STARGHER>
+	<DIALOGUE>
+	Help me? That's good. That's a good one.
+	</DIALOGUE>
+<DIRECTION>
+(malevolent)
+</DIRECTION>
+	<DIALOGUE>
+	Liar. Whore. Cunt.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Catherine stands her ground.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	You sound like your father.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He gets close to her face and sneers.
+</DIRECTION>
+<STARGHER>
+	<DIALOGUE>
+	I am not like him.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Stargher retreats into the shadows, but Catherine persists.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Then help me. Where is Julia Hickson?
+	</DIALOGUE>
+</CATHERINE>
+<STARGHER>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</STARGHER>
+<CATHERINE>
+	<DIALOGUE>
+	Maybe, because you want to.
+	</DIALOGUE>
+</CATHERINE>
+<STARGHER>
+	<DIALOGUE>
+	Is that right? You think you know me?
+	</DIALOGUE>
+</STARGHER>
+	<DIALOGUE>
+	INT. CAMPBELL CENTER - LABORATORY - DAY
+	</DIALOGUE>
+<DIRECTION>
+Henry sees a rapid rise in Catherine's warning meter.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Miriam...
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+INT. STARGHER'S WORLD - BATHROOM
+</DIRECTION>
+<DIRECTION>
+A wave of fear, of impending doom, overtakes Catherine.
+</DIRECTION>
+<STARGHER>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	You wanna know who I am? You stupid bitch!
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+And when he emerges from shadow, Stargher is STARGHER KING.
+</DIRECTION>
+<STARGHER_KING>
+	<DIALOGUE>
+	Now shud you mouth, priddy thing, or me god slice you from the kunt to the tits.
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Catherine moves to touch the sensor in her hand. He GRABS, LIFTS and SLAMS her onto the floor, the back of her head HITTING HARD. Her vision blurs. Ears are ringing.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Me god want you stay.
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Stargher King straddles Catherine and pins her arms behind her back. She's unable to touch the sensor. With the tip of the TOOL he traces a line from her pelvis up the center of her suit.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Me god mek you beaudiful...
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+He shoves the tool through her neck and presses the trigger. A COLLAR CLAMPS SHUT around Catherine's neck and...
+</DIRECTION>
+<DIRECTION>
+She blacks out.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+A SENSOR ALARM SOUNDS on the computer. Henry and Miriam express shock at the sight of the monitor peaking in the red and move to the "map" of Catherine's mind. As it becomes "cool," Stargher's becomes "hot."
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Son of a bitch!
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+IN THE PROCEDURE ROOM, VALENTINE BARKS! Startling everyone. The dog GROWLS and backs away. As if he senses something horribly wrong within his master.
+</DIRECTION>
+<DIRECTION>
+IN THE CONTROL ROOM, Novak questions the scientists.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	When we got here, you just topped and pulled her out.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	That was with Edward. She's accustomed to his world. Stargher's mind is unfamiliar territory. She's "lost."
+	</DIALOGUE>
+<DIRECTION>
+(looks at the third suit)
+</DIRECTION>
+	<DIALOGUE>
+	Someone has to go in. Remind her what's really happening. And get her out. Until then, she's at his mercy.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Mercy. Novak's mind reels.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Into Stargher. Inside...
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Novak knows who that person will be.
+</DIRECTION>
+<DIRECTION>
+INT. CELL - DAY
+</DIRECTION>
+<DIRECTION>
+Fueling herself with candy and juice, Julia examines the cell for a way out, but finds tight seals everywhere. THE SHOWER ERUPTS WITH WATER! She counts until thirty, it stops. Shivering, Julia stars at the drain as the water spirals down.
+</DIRECTION>
+<JULIA>
+<DIRECTION>
+(trying to remember the words)
+</DIRECTION>
+	<DIALOGUE>
+	Our Father, who art in heaven, hallowed be thy name. Thy kingdom come, thy will be done.
+	</DIALOGUE>
+</JULIA>
+<DIRECTION>
+ON THE OTHER SIDE OF THE GLASS, we watch her through one-way glass from the video camera's point-of-view. She looks right at "us," in the mirror, saddened by the dark circles under her bloodshot eyes.
+</DIRECTION>
+<JULIA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	...on Earth as it is in Heaven.
+	</DIALOGUE>
+</JULIA>
+<DIRECTION>
+We drift to the right and see the l.e.d. counters CLICKING AWAY. 01:44:54, 01:44:53, 01:44:52... Less than TWO HOURS to live and she has no idea.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Novak lies in a hastily-rigged THIRD APPARATUS/SUSPENSION DEVICE. Miriam connects him to the IV cylinder and tubes.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	I have done this, you know. Been inside.
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Miriam nods, knowing he won't accept an opposing argument.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(instructs him)
+</DIRECTION>
+	<DIALOGUE>
+	Deep breaths.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+IN THE OBSERVATION ROOM, Henry adjusts monitors showing Novak's vital signs.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	Pulse is rapid, pressure's a little high...
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Miriam asks:
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Nervous?
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	Absolutely.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+She loads a MICROCHIP SENSOR into a high-pressure injection gun and IMPLANTS it in NOVAK's HAND. He winces from the brief pain as she loads the chemical cartridges.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	I have to ask you some things... Are you taking any prescription drugs?
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	Prevacid. For my stomach.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	Any psychiatric medication?
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	What about narcotics?
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	I know your partner's here, but it's very important that you're honest.
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	I am. I'm a pretty boring guy.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	I doubt that.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Henry checks the "maps," Catherine's vitals and reports.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	We should hurry.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Miriam walks Novak through what's about to happen.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	The first five minutes will be disorienting. Give yourself time. Let the drugs do the work. If you can see, smell, feel, hear, taste things - you're on the right track. Once you've acclimated, try to get a feeling for Catherine. Instinct plays a huge role in this. Trust it.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+She gives him a supportive touch on the shoulder, exits and shuts the door. IN THE OBSERVATION ROOM, Miriam continues via intercom.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You can control how you see yourself - clothes, shoes, that kind of thing - but the rest of it is up to him. Use only what he provides. Don't try to change anything. Or introduce something of your own. It'll only upset him.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Novak flexes his fingers and sees the little bump beneath his flesh.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Agent Novak? Press the sensor.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Novak does and the red light comes on. As Novak is LIFTED, he looks at Catherine, then Stargher. Valentine YIPS and settles beneath Novak. The suspension device clicks into place and the MASK descends.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	No matter what happens, Peter, remember one thing: It's not real.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Novak's eyes fix on the clear liquid contained in the IV-like cylinder. A liquid cloud of his blood grows within. Preparing the mixture for injection.
+</DIRECTION>
+<DIRECTION>
+The viscosity of the fluid starts to thicken and the CAMERA MOVES INTO THE MIXTURE. As blood and chemical swirls take shape, we MOVE FAST. Deeper into the fluid at a molecular level. We feel like we're SOARING over some kind of liquid landscape.
+</DIRECTION>
+<DIRECTION>
+NOVAK HYPERVENTILATES. He's having difficulty making the 98 transition.
+</DIRECTION>
+<DIRECTION>
+Flying faster, faster, faster. Through an entire universe.
+</DIRECTION>
+<DIRECTION>
+Novak is in the procedure room. Alone. His face contorted as if feeling the effects of tremendous G-FORCE.
+</DIRECTION>
+<DIRECTION>
+ENTRANCE THREE
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD
+</DIRECTION>
+<DIRECTION>
+CLOUDS hover above a dark, gloomy landscape dotted with hills. THREE IDENTICAL WOMEN sit on black earth, their bodies positioned in a uniform pattern. PULL BACK TO REVEAL NOVAK at their feet, in a kneeling fetal position, face down in the gritty soil, a piece of cloth draped over his head. With difficulty, practically inhaling black grit, Novak breathes deeply and rises to his knees. His hand moves to his face and he's briefly astounded by the texture of the gravel, the sharpness of it against his face. Removing the shroud-like cloth, he looks at the soil, smells it, tastes it.
+</DIRECTION>
+<MOTHER_ONE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Have you seen him?
+	</DIALOGUE>
+</MOTHER_ONE>
+<DIRECTION>
+Novak finds the first of the three - VISIONS OF STARGHER'S MOTHER - addressing him. She, like the other two, speaks in a ghostly monotone, nearly devoid of emotion.
+</DIRECTION>
+<MOTHER_ONE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	My boy, my little one. His father took him from me. Have you seen him?
+	</DIALOGUE>
+</MOTHER_ONE>
+<DIRECTION>
+As she continues, almost mantra-like, WOMAN TWO BEGINS:
+</DIRECTION>
+<MOTHER_TWO>
+<DIRECTION>
+(similar monotone)
+</DIRECTION>
+	<DIALOGUE>
+	My child is an abomination. He is damned. He has no soul.
+	</DIALOGUE>
+</MOTHER_TWO>
+<DIRECTION>
+The women's repetitive "monologues" overlap. Aurual layers now added by THREE.
+</DIRECTION>
+<MOTHER_THREE>
+	<DIALOGUE>
+	Me god me boy. Me god good son.
+	</DIALOGUE>
+</MOTHER_THREE>
+<DIRECTION>
+Novak takes a moment to absorb his surroundings. The sights, sounds and feel of the place. Like being within a dream. As he backs away from the odd quartet, SHIMMERING LIGHT dances across his face. Shading his eyes. Novak searches for the source.
+</DIRECTION>
+<DIRECTION>
+Opposite him, across the valley, is a SHEER ROCK WALL. A massive cliff face pockmarked with rough "windows." Like a star, the LIGHT sparkles inside one of them, a fragment of MIRROR reflecting a beam away from Novak's face to a PATH cutting across the valley floor to the base of the wall.
+</DIRECTION>
+<DIRECTION>
+The light guiding him, Novak follows the path and starts to CLIMB, finding stairs or ladders, passing deep, seemingly infinite passages. Like tombs, or the "drawers" of a mausoleum. Deep within one of them, THE LIGHT FLICKERS. Fades. And Novak crawls into darkness.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - THE DEN
+</DIRECTION>
+<DIRECTION>
+Novak emerges in a cavernous room dripping with decadence. The place reeks of sex, pain, lust, and cruelty. As he moves deeper into the chamber, Novak sees YOUNG STARGHER perched atop some kind of pedestal, crouching, fingering his mirror LOCKET, bouncing sparkles of light into the dark corners of the room
+</DIRECTION>
+<DIRECTION>
+The FLICKERING LIGHT pinpoints a FIGURE emerging from the darkness. It is Catherine. Altered to an image of Stargher's victims. Her skin, face, clothing, eyes, are just like the Victims'. It's a shocking, strange image, made even more disturbing by the look of pleasure on her face. Novak is staggered by the sight. His vision and hearing become affected by blurred vision, sharp sounds - then focus to clarity as he reminds himself...
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Not real...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Like an ethereal queen of the damned, she strides toward him, narrowing her eyes.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Catherine.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+She exhibits no recognition of her name. Catherine seductively moves closer to Novak, their bodies almost touching, her hands caressing his hair, lips, neck...
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Jesus. Catherine. Listen to me...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+She presses her finger to his lips and forces him down, onto the floor, his back to the pedestal. Catherine straddles Novak, and when he tries to stand, she holds him down, forcing him to stay.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	LISTEN TO ME!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+She steals a glance over his shoulder and glimpses a MALE FIGURE coming toward them, coming into the light. Novak is utterly unaware of what's happening. Catherine is keeping him occupied. Waiting for the arrival of...
+</DIRECTION>
+<DIRECTION>
+STARGHER KING
+</DIRECTION>
+<DIRECTION>
+Catherine LAUGHS. Novak catches only a fleeting glimpse of the monster before Stargher King GRABS him by the throat and SMASHES his head against a pedestal.
+</DIRECTION>
+<DIRECTION>
+BLACKOUT.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - THE DEN
+</DIRECTION>
+<DIRECTION>
+Eyelids rise and flutter. Novak becomes conscious. And instantly realizes what's happened.
+</DIRECTION>
+<DIRECTION>
+He lies on the pedestal, face up, spread-eagle, his wrists and ankles bound to the cold stone surface with leathery cords. Standing over him, in a pool of light, is Stargher King. Wearing what could be seen as CEREMONIAL GARB, a silent, solemn Stargher King prepares himself for execution of a ritual by polishing and arranging an assortment of shiny, sharp, macabre TOOLS.
+</DIRECTION>
+<DIRECTION>
+Novak shuts his eyes and silently tells himself, Not real. He opens them, breathes deeply and focuses on Catherine.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	You're Catherine Young. You majored in Psych at UC San Diego. You work for Sunerset Industries.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Stargher King's fingers pass over an array of horrific instruments - the throat piercer/collar mechanism, a cleaver knife, a misshapen hammer, a long slender needle...
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Your grandmother raised you after your parents died in a car crash...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Stargher King lifts the blade-like NEEDLE. So far, Catherine looks at Novak like he's speaking gibberish.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	When you were twenty-one, you were arrested for possession and got off with community service.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Stargher King SLICES through Novak's clothes, exposing the flesh of his abdomen.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D) (reminding himself)
+</DIRECTION>
+	<DIALOGUE>
+	Not real, Pete...This is not real...
+	</DIALOGUE>
+<DIRECTION>
+(urgency)
+</DIRECTION>
+	<DIALOGUE>
+	You had to work at a center for abused kids for three months. You stayed on two years for no pay. You give half your fucking salary to the nursing home your grandmother stays at...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Stargher King grabs his throat and traces the blade down the center of Novak's torso. Novak struggles and pleads with Catherine.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I know this because I work for the FBI. Peter Novak, remember?!?!
+	</DIALOGUE>
+<DIRECTION>
+(a desperate request)
+</DIRECTION>
+	<DIALOGUE>
+	Remember. You are Cath-
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Stargher King cuts his flesh and INSERTS the needle into his stomach. NOVAK SCREAMS! This fucking hurts!
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Help me!!!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Stargher King wiggles the needle, pulls it out, and digs his finger into the wound. NOVAK CRIES IN PAIN.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D) (tears forming, horrified)
+</DIRECTION>
+	<DIALOGUE>
+	Fucking FEELS real!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+The intensity of Novak's cries hit Catherine like a thunderbolt. There's a glimmer of life, of recognition in her eyes.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(finally speaking)
+</DIRECTION>
+	<DIALOGUE>
+	Me god gut you like a dear.
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Although we don't see it, we HEAR something awful. Like Stargher King fishing around inside the wound. A pale, sweating Novak tries to stay conscious. He will not go into shock...
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Not real. Not real. Not real.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+A FEMALE HAND grabs the tool from the tray.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(mimicking Novak, laughing)
+</DIRECTION>
+	<DIALOGUE>
+	Nod reel, nod reel, nod reel...
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+STARGHER KING IS SLAMMED FROM BEHIND! CATHERINE RAMS THE THING THROUGH HIS THROAT! As Stargher King stumbles away gagging, blood pouring form his neck, we see that she has returned to normal. The "bride" persona is gone. As Stargher King emits animalistic growls, Catherine turns and sees an intact Novak standing next to her. As if nothing had happened.
+</DIRECTION>
+<DIRECTION>
+Catherine and Novak RUN out of the den, into the tunnel from which Novak gained access. He stops, ready to press the sensor, when a FLICKER OF LIGHT dances across Catherine's face.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Wait...
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Like hell "wait."
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+But she won't listen and he's forced to play catch up as she moves further from the den toward the cliff face. The FLICKER OF LIGHT shines on the entrance to a specific TUNNEL.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	He wants us to follow. The little boy...
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Little boy?! That's him!
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	He brought you to me, didn't he? If you want Julia to live, trust me. Trust him.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+INT. TUNNEL/CUBBYHOLE
+</DIRECTION>
+<DIRECTION>
+On her hands and knees, she enters the TUNNEL, not waiting for him to respond. She knows what he'll do... Catherine and Novak crawl through the dark, grimy claustrophobic space, playing with his mirror locket.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Carl...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He so desperately wants her affection, but fear prevents him from reaching out to her.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	This is Peter.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Scared, he shakes his head "no."
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Don't be scared. You're my friend and I would never hurt you.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She extends her hand. Oh-so-hesitantly he takes it.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Will you take us to her? To Julia?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Shyly, hesitantly, he nods. She smiles gratefully and affectionately touches the boy's face. Clasping her hand, Young Stargher leads Catherine and Novak into utter darkness.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER'S WORLD - THE IDEALIZED CELL
+</DIRECTION>
+<DIRECTION>
+More stylized than the actual cell, it's bigger and ornately decorated, with the atmosphere of a church. Individual IMAGES hang like SHRINES, each showing Julia Hickson from different angles.
+</DIRECTION>
+<DIRECTION>
+Central to the room is a WINDOW INTO THE CELL ITSELF. Where we find a beautiful, mermaid-like JULIA HICKSON floating in water. Peaceful, joyous.
+</DIRECTION>
+<DIRECTION>
+IN THE CENTER OF THE ROOM, we find Novak and Catherine, she holding the hand of Young Stargher, he stunned at the sight of Julia. The child looks at Catherine with beatific, sad eyes, regarding her as one would a saviour.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Where the hell are we?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Carl, do you know? Like on a map...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He shakes his head and buries his face in her shoulder.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	It's okay, it's okay. You helped so much already. I'm proud of you.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+As a frustrated Novak searches for anything identifying, Catherine comforts the boy and looks deeply into his sad, haunted eyes.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Carl, I think I can help you. Would you like that? Even if Peter can't find Julia, I want to help you.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy leans against her and she caresses his face.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I promise.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Novak finds himself standing in front of the idealized cell. Mounted beneath the glass is a shiny, perfect metal plaque reading CARVER INDUSTRIAL EQUIPMENT, with a logo. Novak recognizes it from the hoist in Stargher's basement.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Let's go.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+He pulls her to her feet. Feeling betrayed and rejected, the child breaks away from her. THE ROAR OF STARGHER KING shakes the cell. Terrified, the boy searches for a place to hide.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	CARL!
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Novak feels what's coming.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	COME ON!
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	I can't leave him!
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+STARGHER KING APPEARS! His throat wounded, bloody mess, he descends out of dark nothingness, HOWLING with rage. He reaches for Catherine, but Young Stargher runs in front of her.
+</DIRECTION>
+<DIRECTION>
+STARGHER KING CLAMPS HIS MASSIVE ARMS AROUND THE CHILD! Little Carl opens his mouth in a silent scream... Catherine's arms reach out to him, but Novak clasps her hand and presses. And she is haunted by the sight of a frightened child in the arms of a monster...
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+Henry notices significant activity on the monitors.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	They're back.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+Everything happens fast. He and Miriam frantically cease the procedure. Novak and Catherine are lowered and Novak startles them by quickly regaining consciousness. Miriam attempts to inject him with stabilizing drugs, but he's already trying to tear himself out of the apparatus.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Get me out!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Miriam MOVES into the PROCEDURE ROOM.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	GET ME OUT!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Miriam tries to follow protocol, but Novak is moving like a fish caught in a net, ripping and tearing his way out of the apparatus and suit. He gets to his feet, but soon falls to his knees, dizzy and disoriented.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Don't move!
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Novak is not listening. Fighting off any after-effects- both physical and mental - he moves for the door.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Agent Novak!
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine is coming back and Miriam moves to her. Novak pauses just for a moment.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Is she alright?
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	Yes. But you're going to sit down right now. I have to...
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Novak is already gone.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - CONFERENCE ROOM
+</DIRECTION>
+<DIRECTION>
+Novak speed-dials a number on speaker-phone, hurriedly dresses, and locates a photograph of Stargher's basement. When he hears someone pick up the line, he barks:
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	This is Novak, who've I got?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+A confused Ramsey enters and listens.
+</DIRECTION>
+<DIRECTION>
+INT. STARGHER HOUSE - BASEMENT
+</DIRECTION>
+<DIRECTION>
+A team of FBI AGENTS is meticulously going through every inch of Stargher's house. Crisscrossed wooden beams have been laid across the pit allowing forensics experts to search without disturbing anything. On the other end of the direct line is COLE...
+</DIRECTION>
+<COLE>
+	<DIALOGUE>
+	Agent Cole.
+	</DIALOGUE>
+</COLE>
+<DIRECTION>
+(INTERCUT WITH NOVAK AND RAMSEY)
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	I need you to find something in the basement...
+	</DIALOGUE>
+</NOVAK>
+<COLE>
+	<DIALOGUE>
+	Already there.
+	</DIALOGUE>
+</COLE>
+<NOVAK>
+	<DIALOGUE>
+	That hoist, with the winch...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+WE FOLLOW Cole as he moves to the machine.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	There's some kind of plaque, a metal plate, with a logo. On the base.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Cole locates it.
+</DIRECTION>
+<COLE>
+<DIRECTION>
+(reading)
+</DIRECTION>
+	<DIALOGUE>
+	Carver Industrial Equipment.
+	</DIALOGUE>
+</COLE>
+<DIRECTION>
+INT. CAMPBELL CENTER - CONFERENCE ROOM
+</DIRECTION>
+<DIRECTION>
+Novak instructs him...
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Find out the history of that machine. Who bought it, used it, sold it. And check Stargher's pay stubs. I want to know every contractor he worked for. I'm calling you from the chopper in ten minutes.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Dizziness and disorientation again hit Novak. Pale and sweating, he winces as his stomach agonizingly cramps.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	Jesus Christ, man, you look like hell.
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	Considering where I've been...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Fighting the pain, he gathers together MAPS, slips on his shoes and grabs gun and holster. Ramsey is apoplectic.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	Whoa-whoa-whoa. Mind telling me what the fuck is happening?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak points to the photo of Stargher's basement, specifically the hoist.
+</DIRECTION>
+<RAMSEY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You're bettin' the farm on something you saw after they pumped you full of god knows-what kind of shit?
+	</DIALOGUE>
+</RAMSEY>
+<NOVAK>
+	<DIALOGUE>
+	I saw her. Julia. Alive. I saw everything.
+	</DIALOGUE>
+</NOVAK>
+<RAMSEY>
+	<DIALOGUE>
+	You might've seen Jimmy Hoffa dancing with Timothy Leary. I don't care.
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Novak is not stopping...
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Miriam shines the penlight into Catherine's eyes.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	...a pocketful of rye.
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Four and twenty blackbirds...
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Baked in a pie.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+AT THE CONSOLE, on a security monitor, Henry can see Novak and Ramsey exiting down the corridor.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	The FBI has left the building.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+IN THE PROCEDURE ROOM, Miriam appears concerned.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Damn him.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	What's wrong?
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	Agent Novak. I didn't get a chance to clear him.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine encourages her.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Go. I'm fine. Go.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+As Miriam hurries to catch Novak, she tells Henry.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Keep an eye on her.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+He nods, but isn't really paying attention. Catherine turns to Stargher's motionless form, still suspended, still connected to the machinery.
+</DIRECTION>
+<DIRECTION>
+INT. THE CELL - DAY
+</DIRECTION>
+<JULIA>
+	<DIALOGUE>
+	Do something, Julia.
+	</DIALOGUE>
+</JULIA>
+<DIRECTION>
+She looks around the room and runs her hands along the walls, the tile, looking for a weak spot. She focuses on the CEILING PANEL and although it's painful because of swollen fingers, removes her ENGAGEMENT RING.
+</DIRECTION>
+<DIRECTION>
+EXT. CAMPBELL CENTER
+</DIRECTION>
+<DIRECTION>
+A ready-and-waiting HELICOPTER is on the pad. Novak races out of the Center, Ramsey right behind him, SHOUTING at each other in order to hear above the chopper noise.
+</DIRECTION>
+<RAMSEY>
+	<DIALOGUE>
+	Pete, listen to me. What did you really learn in there? Anything new? You really think Stargher gave you a save the-day clue? What if this is all some kind of trick your head is playing on you?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+He won't consider that. Novak climbs into the helicopter and buckles himself in. He looks to Ramsey - you coming? - Ramsey pats the side of the chopper and signals for the pilot to take off.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+Henry analyzes voluminous print-outs from the last procedure. Although his eyes are on the data, he converses with Catherine in the PROCEDURE ROOM via intercom.
+</DIRECTION>
+<HENRY>
+	<DIALOGUE>
+	...there was a moment when we thought we'd lost Agent Novak as well.
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+We see chemicals flow and computer programs initiate the procedure, but Henry is oblivious.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	His post-procedure consciousness recovery was remarkably quick. Never saw that before. Hey, remember that one time...
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+He JUMPS when the door to the procedure room SEALS SHUT and mechanisms HUM.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Catherine?
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+When he looks through the window, Catherine is again suspended, the procedure under way.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</HENRY>
+<DIRECTION>
+He types in a command, but nothing happens. He tires again. On another keyboard, but gets no response. When he looks at the "map" screens, he sees something odd. It's a small change, but it makes all the difference in the world.
+</DIRECTION>
+	<DIALOGUE>
+	INT. THE CELL - DAY
+	</DIALOGUE>
+<DIRECTION>
+Like a rock climber in a crevasse, Julia shimmies up the walls of the cell by bracing herself in a corner and using her hands and feet to push up. The tile is slippery and each movement precarious.
+</DIRECTION>
+<DIRECTION>
+She uses strength and balance to reach a position just below the Plexiglass, the fluorescent light bathing her in an eerie intense glow. She sees a gap between the glass and the wall and uses her ENGAGEMENT RING to dig into it, SCAPE, SCRAPE, SCRAPING with the diamond.
+</DIRECTION>
+<DIRECTION>
+THE SHOWER SPRAYS WATER! Julia nearly loses her balance, but manages to stay pressed into the corner. She kicks the shower head, sending the spray as far from her as possible, and continues to dig at the caulking around the light fixture.
+</DIRECTION>
+<DIRECTION>
+IN THE OBSERVATION ROOM, we see something unexpected. The clock reads 00:00:00. That water isn't going to stop.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - EDWARD'S ROOM
+</DIRECTION>
+<DIRECTION>
+Miriam and Ramsey return to the lab to find Henry anxiously observing from the console.
+</DIRECTION>
+<HENRY>
+<DIRECTION>
+(flustered)
+</DIRECTION>
+	<DIALOGUE>
+	She changed the codes.
+	</DIALOGUE>
+</HENRY>
+<MIRIAM>
+	<DIALOGUE>
+	What's wrong?
+	</DIALOGUE>
+</MIRIAM>
+<HENRY>
+	<DIALOGUE>
+	It would take hours to re-route the system, and even if I did, I shouldn't.
+	</DIALOGUE>
+</HENRY>
+<RAMSEY>
+	<DIALOGUE>
+	What are you talking about?
+	</DIALOGUE>
+</RAMSEY>
+<DIRECTION>
+Miriam analyzes the situation and regretfully, angrily, worriedly realizes what's happened.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	She's done it. Stupid, stupid girl...
+	</DIALOGUE>
+</MIRIAM>
+<RAMSEY>
+	<DIALOGUE>
+	Done what?
+	</DIALOGUE>
+</RAMSEY>
+<HENRY>
+	<DIALOGUE>
+	Instead of going into his mind...
+	</DIALOGUE>
+</HENRY>
+<MIRIAM>
+	<DIALOGUE>
+	She's bringing Stargher into hers.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+ENTRANCE FOUR
+</DIRECTION>
+<DIRECTION>
+INT. CATHERINE'S WORLD
+</DIRECTION>
+<DIRECTION>
+A bright, deliriously colorful realm visually reflective of things we saw in Catherine's home. Unusual trees, rock formations, totems, statues, and a brilliant POOL OF WATER.
+</DIRECTION>
+<DIRECTION>
+The pond ripples. Visible through the crystal-clear water is YOUNG STARGHER, rising to the surface like a drowning victim suddenly breaking through to air. Panicked, he scrambles to shore and pulls himself to land. Although the place is comforting and beautiful, he's in strange territory and it frightens him. Shivering, he hunches down, eyes darting this way and that.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	You're all right, Carl.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy turns toward the voice and finds CATHERINE, her hair waving in the wind, skin glowing, eyes bright, cutting a magnificent figure in clothes that make her a warrior goddess. She opens her arms and the boy runs to her, basking in the comfort of her embrace. He shivers and she holds him tightly.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	It's okay, honey, you're with me now. You're safe here.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She looks deeply into his eyes and reassuringly explains.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I promised I would help you, and I always keep my promises.
+	</DIALOGUE>
+</CATHERINE>
+<YOUNG_STARGHER>
+	<DIALOGUE>
+	Can...
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+Catherine is astonished and relieve to hear him speak. A sad, trembling little voice.
+</DIRECTION>
+<YOUNG_STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Can I stay here?
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+She is touched that he would ask and strokes his face.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(regretfully)
+</DIRECTION>
+	<DIALOGUE>
+	Oh...no, honey, I'm sorry. It's doesn't work that way.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy breaks away from her, turning his back. She gently takes his hand but he yanks it free.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	But what if I told you you could come visit?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He slowly turns to her.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I'll make sure it happens, Carl. I'll get them to let me do it. And maybe... maybe we can...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Young Stargher's eyes open wide with silent terror. Over his shoulder, she sees a SNAKE slither through the pool. CENTIPEDES CRAWL over her legs and hair. She stands and brushes them off. The atmosphere grows darker and ominous.
+</DIRECTION>
+<YOUNG_STARGHER>
+	<DIALOGUE>
+	He found me...
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+Catherine bristles as STARGHER KING RISES FROM THE POOL like a human serpent. The brilliant colors of Catherine's world fade to GRIM TONES.
+</DIRECTION>
+<YOUNG_STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He always finds me.
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+Stargher King SCREECHES with anger and confusion.
+</DIRECTION>
+<STARGHER_KING>
+	<DIALOGUE>
+	Where thiisss att?!?! Me god no like id here...
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+He snarls when he sees Catherine.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You. Priddy bish-hor-kund. You big trubble-mekker...
+	</DIALOGUE>
+<DIRECTION>
+(sneers at the boy)
+</DIRECTION>
+	<DIALOGUE>
+	And you. You cumm home now, liddle cogsugger worm. Or me god haffa punish you...
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Young Stargher tightens his embrace of Catherine. She steps back, away from the pond, hugging the boy tightly.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	No.!
+	</DIALOGUE>
+</CATHERINE>
+<STARGHER_KING>
+	<DIALOGUE>
+	No?!??!?!?!?
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Stargher King laughs.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Hoo you thing you are?? Himm Muther?
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+He comes close and reaches for the boy...
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You gimme liddle worm.
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+For a moment, Catherine appears frightened and intimidated. Perhaps near an emotional breakdown. But that is not the case. She quietly lowers little Carl to the ground and whispers something in his ear. As the boy nods, runs and hides, a ferocity grows within her.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	I said no.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Like a vengeful Valkyrie, she emits what can only be called a BATTLE CRY! STARGHER ATTACKS! Arms reaching for her. Catherine BLOCKS, PUNCHES, AND KICKS. Stargher King doubles over. Catherine grabs his ears and pulls his face into her bent KNEE, breaking his nose.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Welcome to my world.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+As blood flows from his nostrils, Stargher King grins...
+</DIRECTION>
+<STARGHER_KING>
+	<DIALOGUE>
+	You funny. You thing you stop me god?
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+HE CHARGES. At the right moment, Catherine sidesteps and SMASHES him in the ribs as he passes. Stargher King crumples to the ground and she KICKS an uppercut to this chin. Rising from the mud and muck, Stargher King lands a POWERFUL BLOW to her head, sending her flying. He lifts the stunned Catherine with one hand and pulls her face to his...
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You cum back wif me god. You be good bish-hor-kund...
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Catherine looks into his soulless eyes. Then SPITS in them and BITES his face! She breaks free as he YOWLS with pain. He steps toward her, but his feet don't move. The earth itself appears to wrap around them and turn hard, like concrete. Stargher King HOWLS with frustration.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	My world...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+A SHIMMERING KNIFE seems to enrage from within her forearm, out the flesh and into her hand.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	My rules.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She SLASHES across his chest, drawing blood.
+</DIRECTION>
+<YOUNG_STARGHER>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+Catherine stops. And turns to see the distraught Young Stargher.
+</DIRECTION>
+<YOUNG_STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Don't hurt him!
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+She spins around and sees not Stargher King, but MARTIN.
+</DIRECTION>
+<YOUNG_STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He didn't mean it. I was bad.
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+Disturbed by the transformation, Catherine backs away. Her vision blurs, the sound distorts. And the earth cracks around Stargher King's ankles.
+</DIRECTION>
+<YOUNG_STARGHER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He teached me a lesson. I deserved it.
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+Fighting feelings of disorientation, she kneels before the child and rests the knife on the ground.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	No one deserves it, Carl. No one.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She reaches out to him, but the child is JERKED into the air by Stargher King. In one hand, the monster holds little Carl. In the other - a KNIFE. His face and chest red with crimson, Stargher King fixes his eyes on Catherine with a predator's stare.
+</DIRECTION>
+<STARGHER_KING>
+	<DIALOGUE>
+	Yer world. My knife.
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Stargher King raises the blade toward the boy's throat and - SNAP! The strong arms of an adult Stargher breaks his arm at the elbow. Both the knife and boy are dropped to the ground as Stargher King YOWLS like a stuck pig, the good arm cradling the other.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Me god hurt! Why you do that? Why?!
+	</DIALOGUE>
+</STARGHER_KING>
+<STARGHER>
+	<DIALOGUE>
+	Enough.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Stargher King regards him with disgust.
+</DIRECTION>
+<STARGHER_KING>
+	<DIALOGUE>
+	Enuff?!?!
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+MARTIN STARGHER'S VOICE comes from the belly of the beast.
+</DIRECTION>
+<STARGHER>
+	<DIALOGUE>
+	I'll tell you what's enough...
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+Stargher and Stargher King square off. The boy stands between them with the knife at his feet.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Carl!
+	</DIALOGUE>
+</CATHERINE>
+<STARGHER_KING>
+<DIRECTION>
+(still speaking as Martin)
+</DIRECTION>
+	<DIALOGUE>
+	Shut up cunt.
+	</DIALOGUE>
+<DIRECTION>
+(to the boy)
+</DIRECTION>
+	<DIALOGUE>
+	Give it here, worm...
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+the child picks up the blade and stands between them, looking to Catherine for guidance.
+</DIRECTION>
+<STARGHER_KING>
+<DIRECTION>
+(CONT'D) (as Martin)
+</DIRECTION>
+	<DIALOGUE>
+	You want a mommy? Is that what you want?
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+In an almost dream-like motion, the child hands the blade to adult Stargher.
+</DIRECTION>
+<STARGHER>
+	<DIALOGUE>
+	Enough.
+	</DIALOGUE>
+</STARGHER>
+<DIRECTION>
+And he DRIVES the thing into Stargher King's heart. For a brief moment, Martin's face is superimposed over Stargher King's. Stunned, he slumps and regards adult Stargher with sad, troubled eyes.
+</DIRECTION>
+<MARTIN>
+<DIRECTION>
+(as Stargher King)
+</DIRECTION>
+	<DIALOGUE>
+	Why? What'd I do?...
+	</DIALOGUE>
+</MARTIN>
+<DIRECTION>
+Stargher TWISTS the handle of the blade and Martin/Stargher King drops dead. Dead. Young Stargher smiles and hugs Catherine.
+</DIRECTION>
+<YOUNG_STARGHER>
+	<DIALOGUE>
+	Time to go 'way.
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<CATHERINE>
+	<DIALOGUE>
+	Carl...?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The boy runs to adult Stargher who lifts the child into his arms and holds him close.
+</DIRECTION>
+<YOUNG_STARGHER>
+	<DIALOGUE>
+	Bye.
+	</DIALOGUE>
+</YOUNG_STARGHER>
+<DIRECTION>
+She looks to adult Stargher and begins to understand. He descends into the pool, the boy resting his head on his shoulder.
+</DIRECTION>
+<STARGHER_KING>
+	<DIALOGUE>
+	Thank you, Catherine. You did help me. More than you'll ever know.
+	</DIALOGUE>
+</STARGHER_KING>
+<DIRECTION>
+Man and boy disappear beneath the water's surface. Catherine stands and sees that Stargher King's body has vanished. She walks to the shore and sees, deep underwater, Stargher and little Carl floating lifelessly like women in the cell. And FADE FROM VIEW.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Goodbye Carl.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+She presses the sensor in her hand.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+IN THE CONTROL ROOM, Miriam is shocked by what she sees on the monitors and looks at Stargher.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	He's in full arrest.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine quietly returns to consciousness and is automatically lowered. She pulls the mask from her face, rises and opens the door. Miriam races inside and desperately attempts to revive Stargher. But it's no use. Angry and stunned, she demands of Catherine.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Help me!
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+But Catherine chooses not to. She knows Carl Stargher will never return to the world of the living.
+</DIRECTION>
+<DIRECTION>
+INT. HELICOPTER - DAY
+</DIRECTION>
+<DIRECTION>
+The chopper roars across the sky. As they head northeast, away from the urban and toward the rural, Novak gazes out the window, trying to stay focused, fighting any after-effects of the drugs. The pilot communicates via headset.
+</DIRECTION>
+<PILOT>
+	<DIALOGUE>
+	Agent Novak? Go ahead.
+	</DIALOGUE>
+</PILOT>
+<NOVAK>
+	<DIALOGUE>
+	Cole?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+EXT. STARGHER'S HOUSE - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Cole and a handful of other agents pour into waiting Suburbans. (INTERCUT WITH NOVAK IN HELICOPTER).
+</DIRECTION>
+<COLE>
+	<DIALOGUE>
+	The hoist was manufactured by Carver Industrial Equipment in 1982. Serial number 117-337J. Purchased by a boat shop in Lake Havasu, but sold to Lattimer's industrial Supply in 1992...
+	</DIALOGUE>
+</COLE>
+<DIRECTION>
+INT. THE CELL - DAY
+</DIRECTION>
+<DIRECTION>
+The water is near the ceiling. Kicking her legs to keep afloat, Julia DIGS with the ring and we see she has created a gap between the light fixture housing and an unused PIPE leading to the surface. She pushes, but can't get anything to move. The opening will get no bigger. Julia sucks the last bit of oxygen and swims to the bottom of the cell. Searching for something, she finds a juice box and pulls out the drinking straw.
+</DIRECTION>
+<DIRECTION>
+INT. CAMPBELL CENTER - LABORATORY
+</DIRECTION>
+<DIRECTION>
+Shaken, but oddly transcendent, Catherine watches as Stargher's body is wheeled out of the lab on a gurney. She comforts a whimpering Valentine and tells him...
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Everything's alright now, Valentine. I promise.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+INT. HELICOPTER
+</DIRECTION>
+<DIRECTION>
+Novak scans the topography of FARMS below, listening to a new report.
+</DIRECTION>
+<DIRECTION>
+INT. SUBURBAN - DAY
+</DIRECTION>
+<DIRECTION>
+Cole is the passenger, on the radio to Novak, A DRIVER next to him, doing about a hundred down the Interstate, SIREN blaring.
+</DIRECTION>
+<COLE>
+	<DIALOGUE>
+	Lattimer sold the hoist to a guy named Bainbridge who tired to build a machine works out near Delano. Bainbridge ends up in bankruptcy court and the state winds up with the land - it's just sitting there.
+	</DIALOGUE>
+</COLE>
+<DIRECTION>
+INTERCUT WITH NOVAK
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Delano?
+	</DIALOGUE>
+</NOVAK>
+<COLE>
+	<DIALOGUE>
+	Yep. And guess who they hired to seal up the place?
+	</DIALOGUE>
+</COLE>
+<NOVAK>
+	<DIALOGUE>
+	You're kidding me.
+	</DIALOGUE>
+</NOVAK>
+<COLE>
+	<DIALOGUE>
+	I never kid. My wife hates it. Says I'm too serious.
+	</DIALOGUE>
+</COLE>
+<DIRECTION>
+Novak locates Delano on the map.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	The exact location, Cole. Give it to me.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+The pilot grins and pushes the copper to top speed.
+</DIRECTION>
+<DIRECTION>
+INT. THE CELL - DAY
+</DIRECTION>
+<DIRECTION>
+Julia is entirely underwater but alive. She uses the straw to suck oxygen through the gap in the ceiling, but it's difficult to tread water and her lungs are aching.
+</DIRECTION>
+<DIRECTION>
+INT. HELICOPTER
+</DIRECTION>
+<DIRECTION>
+Novak uses binoculars to scan farmland. He searches. And there it is: The abandoned farmhouse!
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	TAKE IT DOWN!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+INT. THE CELL - DAY
+</DIRECTION>
+<DIRECTION>
+Julia tries to hold herself up by pressing her arms and legs against the walls, but as she does, the straw slips from her mouth. She reaches for it, but only succeeds in pushing it away from her. It heads for the drain. And disappears.
+</DIRECTION>
+<DIRECTION>
+EXT. ABANDONED FARM HOUSE
+</DIRECTION>
+<DIRECTION>
+The helicopter lands and Novak jumps out. He knows this is the place. He runs into the barn, but there's nothing, no sign of her. The pilot looks at him with a true sense of loss.
+</DIRECTION>
+<DIRECTION>
+INT. THE CELL - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+As Julia desperately tires to find the straw through the tiny holes of the drain, we see for the first time an expression which tells us she's given up. THUMP-THUMP-THUMP. The cell starts to vibrate. A repetitive noise WHUP-WHUP-WHUP - comes from above. She swims to the top of the cell and POUNDS at the ceiling.
+</DIRECTION>
+<DIRECTION>
+EXT. ABANDONED FARM HOUSE
+</DIRECTION>
+<DIRECTION>
+Fighting exhaustion and the side effects of the drugs, Novak pushes on. Think, Peter, think... His eyes find the WATER TANKS and he SHOUTS at the helicopter.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Cut the engine!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+As the motor dies, Novak listens and listens. There it is. Water pipes beneath his feet. And very faintly, a pounding. He follows the sound, searching the earth. It's clearer now, louder. Novak tosses aside rusted junk and the pilot runs to assist him. Together, they expose the entrance to the underground sanctuary.
+</DIRECTION>
+<DIRECTION>
+INT. THE CELL - OBSERVATION ROOM
+</DIRECTION>
+<DIRECTION>
+Novak drops to the floor below. Instantly affected by the similarities and the differences to the idealized cell of Stargher's mind, he feels another wave of dizziness, but pushes on.
+</DIRECTION>
+<DIRECTION>
+And is hit hard by the sight of DROWNED JULIA, her motionless body floating past him. HER EYES OPEN and bubbles drift from her nose and mouth. Novak BANGS on the Plexiglas and calls to her.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	JULIA!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+The thick Plexiglass still remains, but she now can see him. Novak pulls his ID BADGE and smacks it against the glass.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	MOVE ASIDE!
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+He pulls his gun and takes aim. Julia swims to the top of the cell and presses herself against the ceiling. BANG-BANG BANG-BANG-BANG-BANG. Novak fires a circle of shots into the thick plastic. Water slowly leaks, but the damn thing is still solid. He lifts the industrial VCR and RAMS it at the bullet-damaged section. CRACK! CRASH! WATER POURS FROM THE CELL. Julia's body descends on the torrent of water. Novak reaches inside and pulls her to safety. He's just about to give her CPR when she coughs, sputters, and thirstily drinks in oxygen. Holding her tightly, Novak sinks to the floor, the water from the cell spilling everywhere.
+</DIRECTION>
+<DIRECTION>
+EXT. ABANDONED FARM HOUSE
+</DIRECTION>
+<DIRECTION>
+Cole's Suburban leads a contingent of FBI vehicles and local police cars onto the property, sirens blaring.
+</DIRECTION>
+<DIRECTION>
+INT. THE CELL - DAY
+</DIRECTION>
+<DIRECTION>
+Hearing the sirens, Novak relaxes. For the first time in god knows how long, he relaxes. And holds Julia Hickson as if his life depended on it.
+</DIRECTION>
+<DIRECTION>
+FADE OUT.
+</DIRECTION>
+<DIRECTION>
+FADE IN:
+</DIRECTION>
+<DIRECTION>
+EXT. CATHERINE'S HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+Two cars parked outside. An old, quirky Volvo and a Land Rover.
+</DIRECTION>
+<DIRECTION>
+INT. CATHERINE'S HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+As a television plays THE WIZARD OF OZ, we find Catherine watching the movie from the couch, sitting up, drinking a cup of tea. She looks rested and quite cute in gym shorts and a T-shirt, her CAT sleeping next to her. IN THE KITCHEN, Miriam packs up her stethoscope and blood pressure monitor, moves into the living room as Dorothy falls asleep in a field of poppies...
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	I left the nutritional information on the fridge door. Read it.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Catherine nods, but she's more interested in the movie. Miriam deposits prescription bottles onto a side table.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I refilled the Zyprexa and Atavan...
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	I don't need them anymore...
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	I know.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+But she leaves them just the same.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I'll come by tomorrow after work. With dinner.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+	<DIALOGUE>
+	Thanks Miriam. Say hi to Henry and...
+	</DIALOGUE>
+</CATHERINE>
+<MIRIAM>
+	<DIALOGUE>
+	...give a kiss to Edward.
+	</DIALOGUE>
+</MIRIAM>
+<CATHERINE>
+<DIRECTION>
+(overlapping)
+</DIRECTION>
+	<DIALOGUE>
+	Give a kiss to Edward.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+The women exchange smiles and Miriam exits.
+</DIRECTION>
+<DIRECTION>
+EXT. CATHERINE'S HOUSE
+</DIRECTION>
+<DIRECTION>
+As Miriam walks to her Land Rover, she sees a government issue Suburban park on the street and Peter Novak exit.
+</DIRECTION>
+<MIRIAM>
+	<DIALOGUE>
+	Agent Novak.
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	Dr. Kent.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	You're looking well.
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	Thanks you. Six weeks off does a body good.
+	</DIALOGUE>
+<DIRECTION>
+(conspiratorially)
+</DIRECTION>
+	<DIALOGUE>
+	I heard she got the approval to try the reversal with Edward.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	That's a secret.
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	Federal Bureau of Investigation, ma'am. We know all, see all...
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Novak opens the rear compartment of the Suburban and we hear something moving inside.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	How's the patient.
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	Awaiting his arrival.
+	</DIALOGUE>
+</MIRIAM>
+<NOVAK>
+	<DIALOGUE>
+	What about the cat?
+	</DIALOGUE>
+</NOVAK>
+<MIRIAM>
+	<DIALOGUE>
+	Completely unaware.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Miriam's pager BEEPS and she hurries to her car.
+</DIRECTION>
+<MIRIAM>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I've got to go. Good luck.
+	</DIALOGUE>
+</MIRIAM>
+<DIRECTION>
+Novak smiles, waves goodbye, and reaches into the Suburban.
+</DIRECTION>
+<DIRECTION>
+INT. CATHERINE'S HOUSE
+</DIRECTION>
+<DIRECTION>
+As Dorothy and her companions confront the Wizard, there's a KNOCK at the screen door and Catherine sees Novak waiting.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Ready?
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine cradles her cat.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Ready.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He opens the door and escorts a leashed VALENTINE into the living room. Catherine's cat squirms from her arms and hides under the couch.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	That went well.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Give her a minute.
+	</DIALOGUE>
+<DIRECTION>
+(smiles at the dog)
+</DIRECTION>
+	<DIALOGUE>
+	Hello, Valentine.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Novak unleashes the albino Shepherd and he runs to Catherine, licking her face, wagging his tail.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	You sure about this?
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Absolutely.
+	</DIALOGUE>
+<DIRECTION>
+(calling for the cat)
+</DIRECTION>
+	<DIALOGUE>
+	Abigail...
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Valentine picks up the cat's scent and sniffs around the base of the sofa.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I heard Julia and John got married.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	Yep. Eloped.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	Good for them.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Valentine settles on the floor. Slowly, Abigail's curiosity gets the best of her and she creeps out, sniffing the dog's nose. Patient and sweet, Valentine lies still, allowing the cat to reach an acceptable level of comfort.
+</DIRECTION>
+<NOVAK>
+	<DIALOGUE>
+	Well look at that.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	I told you. You have to be optimistic. Believe in them...
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	So you say.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Amazingly, Abigail brushes up against the dog and purrs.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	He's mine?
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	All yours. My boss says it's one of the strangest requests the Bureau's ever had.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+Catherine laughs. She likes that.
+</DIRECTION>
+<NOVAK>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He also says that until proven differently, Julia Hickson was found as a result of good old-fashioned detective work.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	It doesn't matter...
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	I don't know. I think it does.
+	</DIALOGUE>
+<DIRECTION>
+(genuine concern)
+</DIRECTION>
+	<DIALOGUE>
+	You know, Catherine... If you ever want to talk about it. What happened to Stargher. That last time.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+It's painfully clear the thought of it still troubles her.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Not just yet. Okay?
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+Novak doesn't push it. He just takes her hand and gives it a gentle squeeze. The cat dashes into the kitchen and Valentine follows.
+</DIRECTION>
+<CATHERINE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	They're hungry.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	I got it.
+	</DIALOGUE>
+</NOVAK>
+<DIRECTION>
+He moves into the kitchen. In a moment of quiet introspection, Catherine looks at the television screen, at Dorothy accidentally hitting the wicked Witch with a bucket of water, causing her to melt. And she looks away, unable to watch, disturbed by the image. She turns to the kitchen and sees Novak feeding an appreciative dog and cat. He rises and returns to the living room.
+</DIRECTION>
+<CATHERINE>
+	<DIALOGUE>
+	Thank you.
+	</DIALOGUE>
+</CATHERINE>
+<NOVAK>
+	<DIALOGUE>
+	No problem.
+	</DIALOGUE>
+</NOVAK>
+<CATHERINE>
+	<DIALOGUE>
+	No. Thank you.
+	</DIALOGUE>
+</CATHERINE>
+<DIRECTION>
+He smiles and nods, gently resting his hand on her shoulder. Catherine shuts her eyes and leans toward him, comforted by simple human touch...
+</DIRECTION>
+<DIRECTION>
+FADE TO BLACK.
+</DIRECTION>

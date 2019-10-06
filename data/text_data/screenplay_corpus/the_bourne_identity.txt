@@ -1,0 +1,6858 @@
+<DIRECTION>
+:SC: THE BOURNE IDENTITY
+</DIRECTION>
+<DIRECTION>
+DARKNESS. THE SOUND OF WIND AND SPRAY.
+</DIRECTION>
+<DIRECTION>
+MUSIC. TITLES.
+</DIRECTION>
+<DIRECTION>
+EXT. OCEAN -- NIGHT
+</DIRECTION>
+<DIRECTION>
+The darkness is actually water. A SEARCHLIGHT arcs across heavy ocean swells. Half-a-dozen flashlights -- weaker beams -- racing along what we can see is the deck of an aging FISHING TRAWLER.
+</DIRECTION>
+<DIRECTION>
+FISHERMEN struggling with a gaff -- something in the water --
+</DIRECTION>
+<DIRECTION>
+A HUMAN CORPSE.
+</DIRECTION>
+<DIRECTION>
+EXT. FISHING BOAT DECK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE BODY sprawled there. The Sailors all talking at once -- three languages going -- brave chatter to mask the presence of death --
+</DIRECTION>
+<SAILOR_1>
+	<DIALOGUE>
+	-- Jesus, look at him --
+	</DIALOGUE>
+</SAILOR_1>
+<SAILOR_2>
+	<DIALOGUE>
+	-- what? -- you never saw a dead man before? --
+	</DIALOGUE>
+</SAILOR_2>
+<SAILOR_3>
+	<DIALOGUE>
+	-- look, look he was shot --
+	</DIALOGUE>
+<DIRECTION>
+(nudging the body --)
+</DIRECTION>
+<SAILOR_1>
+	<DIALOGUE>
+	-- don't, don't do that --
+	</DIALOGUE>
+</SAILOR_1>
+<SAILOR_2>
+	<DIALOGUE>
+	-- he's dead, you think he cares? --
+	</DIALOGUE>
+</SAILOR_2>
+<SAILOR_1>
+	<DIALOGUE>
+	-- so have some respect -- it's a --
+	</DIALOGUE>
+<DIRECTION>
+(stopping as --)
+</DIRECTION>
+<DIRECTION>
+THE BODY MOVES! -- convulsing -- coughing up sea water -- the Sailors -- freaked -- jumping back -- standing there, as --
+</DIRECTION>
+<DIRECTION>
+THE MAN begins to breathe.
+</DIRECTION>
+<DIRECTION>
+INT. FISHING BOAT BUNK ROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+A wreck. Too small for all the people in here right now -- SAILORS sweeping off the table -- rough hands laying THE MAN down --
+</DIRECTION>
+<DIRECTION>
+THE CAPTAIN -- brutal and impatient -- watching from the door as --
+</DIRECTION>
+<DIRECTION>
+GIANCARLO tears through the clutter -- searching for a medical kit buried in the shambles. GIANCARLO is sixty. A bloodshot soul.
+</DIRECTION>
+<GIANCARLO>
+	<DIALOGUE>
+	-- it's here -- hang on -- it's here somewhere -- give me a minute -- get some blankets -- get some blankets on him --
+	</DIALOGUE>
+<DIRECTION>
+(finding the kit --)
+</DIRECTION>
+	<DIALOGUE>
+	-- here we go -- here it is --
+	</DIALOGUE>
+</GIANCARLO>
+<DIRECTION>
+GIANCARLO with an old trunk -- just getting it open, as --
+</DIRECTION>
+<THE_CAPTAIN>
+	<DIALOGUE>
+	Giancarlo.
+	</DIALOGUE>
+<DIRECTION>
+(Giancarlo turns back --)
+</DIRECTION>
+	<DIALOGUE>
+	We pick him up? Okay, we have to pick him up. But that's as far as it goes.
+	</DIALOGUE>
+</THE_CAPTAIN>
+<GIANCARLO>
+	<DIALOGUE>
+	He needs a doctor.
+	</DIALOGUE>
+</GIANCARLO>
+<CAPTAIN>
+	<DIALOGUE>
+	Fuck that. He lives? He dies? I don't care. We've wasted two hours on this shit already. You do what you can, but we're not going back.
+	</DIALOGUE>
+<DIRECTION>
+(pure steel now)
+</DIRECTION>
+	<DIALOGUE>
+	You understand me?
+	</DIALOGUE>
+</CAPTAIN>
+<GIANCARLO>
+	<DIALOGUE>
+	Yes, sir.
+	</DIALOGUE>
+</GIANCARLO>
+<CAPTAIN>
+<DIRECTION>
+(to the rest of them)
+</DIRECTION>
+	<DIALOGUE>
+	Let's get back to work!
+	</DIALOGUE>
+</CAPTAIN>
+<DIRECTION>
+GIANCARLO watching them run out. Snagging a quick pull on a pint of rum he's got stashed and --
+</DIRECTION>
+<DIRECTION>
+INT. FISHING BOAT BUNK ROOM -- DAWN -- TIME CUTS
+</DIRECTION>
+<DIRECTION>
+Transformed into a makeshift operating room. A light swings overhead. THE MAN layed out across the table. Sounds -- groans -- words -- snatches of them -- all in different languages.
+</DIRECTION>
+<DIRECTION>
+GIANCARLO playing doctor in a greasy kitchen apron. Cutting away the clothes. Turning THE MAN on his side. Two bullet wounds in the back. Probing them, judging them.
+</DIRECTION>
+<DIRECTION>
+Now -- GIANCARLO with a flashlight in his teeth -- TINK -- TINK -- TINK -- bullet fragments falling into a washed-out olive jar.
+</DIRECTION>
+<DIRECTION>
+Now -- something catching GIANCARLO'S EYE -- A SCAR ON THE MAN'S HIP -- another fragment -- exacto knife cutting in -- tweezers extracting A SMALL PLASTIC TUBE, not a bullet at all, and as it comes free --
+</DIRECTION>
+<DIRECTION>
+THE MAN'S HAND SLAMS down onto GIANCARLO'S and we SMASH CUT INTO A --
+</DIRECTION>
+<DIRECTION>
+FIRST PERSON POV -- we are staring up at --
+</DIRECTION>
+<GIANCARLO>
+	<DIALOGUE>
+	You're awake. Can you hear me?
+	</DIALOGUE>
+<DIRECTION>
+(we're blinking --)
+</DIRECTION>
+	<DIALOGUE>
+	You've been shot. I'm trying to help you.
+	</DIALOGUE>
+<DIRECTION>
+(we're trying to find our voice --)
+</DIRECTION>
+	<DIALOGUE>
+	You were in the water. You've been shot. It's okay now.
+	</DIALOGUE>
+</GIANCARLO>
+<THE_MAN>
+	<DIALOGUE>
+	Where am I?
+	</DIALOGUE>
+</THE_MAN>
+<GIANCARLO>
+<DIRECTION>
+(switching to English)
+</DIRECTION>
+	<DIALOGUE>
+	You're American. I thought so. From your teeth -- the dental work --
+	</DIALOGUE>
+</GIANCARLO>
+<THE_MAN>
+	<DIALOGUE>
+	Where am I?
+	</DIALOGUE>
+</THE_MAN>
+<GIANCARLO>
+	<DIALOGUE>
+	You're on a boat. A fishing boat. Italian flag. We're out of Vietri.
+	</DIALOGUE>
+<DIRECTION>
+(he smiles)
+</DIRECTION>
+	<DIALOGUE>
+	It's the cold that saved you. The water. The wounds are clean. I'm not a doctor, but the wounds, it looks okay. It's clean.
+	</DIALOGUE>
+</GIANCARLO>
+<THE_MAN>
+	<DIALOGUE>
+	How did I get here?
+	</DIALOGUE>
+</THE_MAN>
+<GIANCARLO>
+	<DIALOGUE>
+	You we're lost at sea. They pulled you out.
+	</DIALOGUE>
+<DIRECTION>
+(we say nothing)
+</DIRECTION>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+<DIRECTION>
+(still nothing)
+</DIRECTION>
+	<DIALOGUE>
+	You were shot -- two bullets -- in the back. You understand me?
+	</DIALOGUE>
+<DIRECTION>
+(we try to nod)
+</DIRECTION>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+</GIANCARLO>
+<DIRECTION>
+Long dead pause.
+</DIRECTION>
+<THE_MAN>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+EXT. OCEAN -- DAY
+</DIRECTION>
+<DIRECTION>
+The Trawler plows through heavy seas.
+</DIRECTION>
+<DIRECTION>
+INT. FISHING BOAT BUNK ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+GIANCARLO is hunched over a desk -- tweezers and flashlight -- busy working at that strange plastic tube that came out of THE MAN's hip.
+</DIRECTION>
+<DIRECTION>
+THE MAN is bandaged. He's sitting up, and it must hurt like hell, but physical pain is not the thing troubling him right now. He's staring around the room -- at his body -- at the walls -- haunted --
+</DIRECTION>
+<THE_MAN>
+	<DIALOGUE>
+	What if it doesn't come back?
+	</DIALOGUE>
+</THE_MAN>
+<GIANCARLO>
+<DIRECTION>
+(still working that tube)
+</DIRECTION>
+	<DIALOGUE>
+	I told you. You need to rest.
+	</DIALOGUE>
+</GIANCARLO>
+<DIRECTION>
+Silence. THE MAN can't rest. Too busy trying to make sense of all this.
+</DIRECTION>
+<THE_MAN>
+	<DIALOGUE>
+	I can read. I can read that sign on the door. I can count. I can talk...
+	</DIALOGUE>
+<DIRECTION>
+(focusing now --)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+GIANCARLO rummaging around -- finding a magnifying glass --
+</DIRECTION>
+<THE_MAN>
+	<DIALOGUE>
+	What is that?
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+INSERT -- MAGNIFIED POV -- a slip of plastic from the tube -- written there -- 000-7-17-12-0-14-26. GEMEINSCHAFT BANK, ZURICH.
+</DIRECTION>
+<GIANCARLO>
+	<DIALOGUE>
+	It came from your hip. Under the skin.
+	</DIALOGUE>
+<DIRECTION>
+(turning back --)
+</DIRECTION>
+	<DIALOGUE>
+	You have a bank in Zurich.
+	</DIALOGUE>
+<DIRECTION>
+(waiting)
+</DIRECTION>
+	<DIALOGUE>
+	You remember Zurich?
+	</DIALOGUE>
+</GIANCARLO>
+<THE_MAN>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+GIANCARLO staring at him now. Different suddenly. Suspicious.
+</DIRECTION>
+<GIANCARLO>
+	<DIALOGUE>
+	Look, I'm just on this boat, okay? I'm an engineer. Whatever this is, it's not for me to be involved, okay?
+	</DIALOGUE>
+</GIANCARLO>
+<THE_MAN>
+	<DIALOGUE>
+	I don't remember Zurich.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+GIANCARLO pulls his pint. Takes a hit.
+</DIRECTION>
+<GIANCARLO>
+<DIRECTION>
+(offering the bottle --)
+</DIRECTION>
+	<DIALOGUE>
+	You drink rum?
+	</DIALOGUE>
+</GIANCARLO>
+<THE_MAN>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+EXT. FISHING BOAT DECK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE MAN stands at the rail, staring out to sea. So lost. He turns to head inside -- there, a surfcasting rod propped against a locker.
+</DIRECTION>
+<DIRECTION>
+THE MAN picks up the rod -- flips the bail -- traps the line -- now he's casting far out into the darkness. And for the first time, he smiles.
+</DIRECTION>
+<DIRECTION>
+INT. FISHING BOAT GALLEY -- NIGHT
+</DIRECTION>
+<DIRECTION>
+A ratty old espresso machine. THE MAN standing there, staring at the thing like it's a test. Then his hands begin to move -- trying to pack a grind -- trying to fit it in -- turning on the steam and --
+</DIRECTION>
+<DIRECTION>
+The whole thing explodes.
+</DIRECTION>
+<DIRECTION>
+EXT. FISHING BOAT DECK -- DAY
+</DIRECTION>
+<DIRECTION>
+THE MAN alone doing chin-ups on the deck rail. He's still bandaged and the wounds must hurt like hell, but he's pushing himself. Using the pain -- bathing in it -- maybe even hoping that it will hold some answer for him.
+</DIRECTION>
+<DIRECTION>
+INT. FISHING BOAT GALLEY -- NIGHT
+</DIRECTION>
+<DIRECTION>
+A chess board. Wooden pieces jumbled in a box. THE MAN hesitates -- takes a black knight from the box -- lingers for a moment -- and then places it on the board. He's off and running. He knows this. Placing pieces faster and faster -- still setting it up, as we --
+</DIRECTION>
+<DIRECTION>
+INT. FISHING BOAT HEAD -- NIGHT
+</DIRECTION>
+<DIRECTION>
+One of the ugliest bathrooms on the planet. THE MAN standing before a pitted, tarnished, cataract of a mirror. Staring at himself.
+</DIRECTION>
+<DIRECTION>
+And then he speaks.
+</DIRECTION>
+<THE_MAN>
+<DIRECTION>
+(in perfect French)
+</DIRECTION>
+	<DIALOGUE>
+	I don't know who I am. Do you know who I am? Do have any idea who I am?
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+And then he stops. Blinks. Wipes away the perspiration just beading on his forehead.
+</DIRECTION>
+<THE_MAN>
+<DIRECTION>
+(in perfect Dutch)
+</DIRECTION>
+	<DIALOGUE>
+	Tell me who I am. If you know who I am, please stop fucking around and tell me.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+No answer. Just that face. His face. Who am I?
+</DIRECTION>
+<DIRECTION>
+And what else is inside there?
+</DIRECTION>
+<DIRECTION>
+EXT. FISHING BOAT -- DAY
+</DIRECTION>
+<DIRECTION>
+SAILORS hauling in the nets. THE MAN -- still bandaged, but healing -- working beside them. Earning his keep. Getting healthy.
+</DIRECTION>
+<DIRECTION>
+EXT. ITALIAN COASTLINE -- DAWN
+</DIRECTION>
+<DIRECTION>
+A small, colorful fishing village. The trawler motoring in.
+</DIRECTION>
+<DIRECTION>
+INT. THE FISHING BOAT BUNK ROOM -- SAME TIME
+</DIRECTION>
+<DIRECTION>
+THE MAN buttoning up borrowed clothes. GIANCARLO pulling some cash from his pocket --
+</DIRECTION>
+<GIANCARLO>
+<DIRECTION>
+(offering the money)
+</DIRECTION>
+	<DIALOGUE>
+	It's not much, but it should get you to Switzerland.
+	</DIALOGUE>
+</GIANCARLO>
+<THE_MAN>
+	<DIALOGUE>
+	I won't forget this.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+GIANCARLO gives him a look. Shakes his head, and --
+</DIRECTION>
+<DIRECTION>
+INT. POKEY ITALIAN TRAIN STATION -- DAY
+</DIRECTION>
+<DIRECTION>
+The ticket window. THE MAN and a TICKET AGENT.
+</DIRECTION>
+<TICKET_AGENT>
+	<DIALOGUE>
+	Una sola via?
+	</DIALOGUE>
+</TICKET_AGENT>
+<THE_MAN>
+	<DIALOGUE>
+	Si. One way. Una sola via.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+EXT. TGV -- DAY
+</DIRECTION>
+<DIRECTION>
+A HELICOPTER SHOT -- a bullet train speeds through snow- capped Alps. We move in on a window -- and staring out is...
+</DIRECTION>
+<DIRECTION>
+INT. TGV TRAIN -- DAY
+</DIRECTION>
+<DIRECTION>
+...THE MAN. People all around him -- families -- businessmen -- normal people going about their lives. THE MAN turns back to the window, but he's not watching the scenery -- he's looking at his reflection. So lost. His face suddenly plunged into darkness as the train bombs into a tunnel...
+</DIRECTION>
+<DIRECTION>
+EXT. TRAIN -- NIGHT
+</DIRECTION>
+<DIRECTION>
+...and out of the darkness into night and the HELICOPTER SHOT, as the train races toward ZURICH.
+</DIRECTION>
+<DIRECTION>
+INT. CIA HEADQUARTERS CONFERENCE ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+A VIDEO MONITOR -- FULL FRAME -- meet WOMBOSI. He's an African ex-dictator, think Idi Amin crossed with Mobutu. He's in some sort of throne room. And he's angry. Bodyguards and a translator hovering nervously around him. What this is, is NEWS FOOTAGE -- an interview conducted by a German TV station.
+</DIRECTION>
+<WOMBOSI>
+<DIRECTION>
+(he speaks english)
+</DIRECTION>
+	<DIALOGUE>
+	...no, no, no -- the time is not right, my enemies are too strong. I'm telling you to wait for this, you understand? I'm telling you this, and I'm making a warning to all those peoples out there that think that my powers have become so weak that they can play with me as they wish. You will see -- I will tell you when the evidence is clear. Then you will have a story. My old friends will hear about themselves.
+	</DIALOGUE>
+<DIRECTION>
+(stopping, freezing on that image, and --)
+</DIRECTION>
+<DIRECTION>
+MARSHALL, a CIA bigwig has the remote control. And the floor.
+</DIRECTION>
+<MARSHALL>
+	<DIALOGUE>
+	That's Nykwana Wombosi speaking in Paris the day before yesterday. I'm sure most of you have a passing knowledge of Mr. Wombosi. Some of you on the African desks have worked with him over the years. Some of you very closely...
+	</DIALOGUE>
+</MARSHALL>
+<DIRECTION>
+TWELVE CIA MANDARINS sitting around the table like kids in detention. We will tour the faces as MARSHALL continues, but the guy we're interested in is named WARD ABBOTT. Picture a sawier, slicker John Poindexter.
+</DIRECTION>
+<MARSHALL>
+	<DIALOGUE>
+	...He was an irritation before he took power. He was a problem when he was in power. And he's been a disaster for us in exile.
+	</DIALOGUE>
+<DIRECTION>
+(the tape --)
+</DIRECTION>
+	<DIALOGUE>
+	Wombosi likes to send us messages through the European media. This is an interview we pulled down from a local German television station in Dresden. We've been getting these little broadsides every couple of months. He knows this -- he knows that -- he's writing a book about the Agency's history in Africa -- he's going to name names. It's basically a shakedown...
+	</DIALOGUE>
+</MARSHALL>
+<DIRECTION>
+ABBOTT'S FACE says this is news to him. HIS HANDS suggest otherwise.
+</DIRECTION>
+<MARSHALL>
+	<DIALOGUE>
+	This interview -- and I'll make the tape available for anyone who wants it -- he goes on to claim that he has just survived an assassination attempt. He says it's us. He says he's got proof.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	The overwhelming negative ramifications of this should be obvious.
+	</DIALOGUE>
+<DIRECTION>
+(hard and dry)
+</DIRECTION>
+	<DIALOGUE>
+	The Director wants to know if there is any possible shred of truth in this accusation.
+	</DIALOGUE>
+</MARSHALL>
+<DIRECTION>
+Long pause. No hands go up.
+</DIRECTION>
+<DIRECTION>
+INT. ZURICH TRAIN STATION -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE MAN wandering through the terminal. Passing A PIZZA PLACE closing up for the night.
+</DIRECTION>
+<DIRECTION>
+THE MAN checks his funds. Just enough for one cold slice.
+</DIRECTION>
+<DIRECTION>
+EXT. ZURICH STREETS -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE MAN walking aimlessly.
+</DIRECTION>
+<DIRECTION>
+EXT. ZURICH PARK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE MAN trying to get comfortable on a bench. It's chilly but this will have to do until morning.
+</DIRECTION>
+<DIRECTION>
+Just settling in, when --
+</DIRECTION>
+<ZURICH_COP_1>
+<DIRECTION>
+(O.S.) (authority German)
+</DIRECTION>
+	<DIALOGUE>
+	Can't you read the signs?
+	</DIALOGUE>
+</ZURICH_COP_1>
+<DIRECTION>
+THE MAN turns. TWO ZURICH COPS coming toward him.
+</DIRECTION>
+<ZURICH_COP_2>
+	<DIALOGUE>
+	On your feet. Let's go. Right now.
+	</DIALOGUE>
+</ZURICH_COP_2>
+<DIRECTION>
+THE MAN makes his feet. They're on top of him now.
+</DIRECTION>
+<ZURICH_COP_1>
+	<DIALOGUE>
+	The park is closed. There's no sleeping in the park.
+	</DIALOGUE>
+</ZURICH_COP_1>
+<ZURICH_COP_2>
+	<DIALOGUE>
+	Let's see some identification.
+	</DIALOGUE>
+</ZURICH_COP_2>
+<DIRECTION>
+THE MAN not sure what to do. Eyes moving. Mouth shut.
+</DIRECTION>
+<ZURICH_COP_1>
+	<DIALOGUE>
+	Come on. Your papers. Let's go.
+	</DIALOGUE>
+</ZURICH_COP_1>
+<THE_MAN>
+	<DIALOGUE>
+	I've lost them. I've...
+	</DIALOGUE>
+<DIRECTION>
+(German now)
+</DIRECTION>
+	<DIALOGUE>
+	My papers. They are lost.
+	</DIALOGUE>
+</THE_MAN>
+<ZURICH_COP_1>
+<DIRECTION>
+(not sympathetic)
+</DIRECTION>
+	<DIALOGUE>
+	Okay. Let's go. Put your hands up.
+	</DIALOGUE>
+</ZURICH_COP_1>
+<ZURICH_COP_2>
+<DIRECTION>
+(pulling his nightstick)
+</DIRECTION>
+	<DIALOGUE>
+	-- come on -- hands up -- up --
+	</DIALOGUE>
+</ZURICH_COP_2>
+<DIRECTION>
+THE MAN raising his hand slowly -- ZURICH COP #1 reaching up to pat him down --
+</DIRECTION>
+<THE_MAN>
+	<DIALOGUE>
+	-- look, I'm just trying to sleep okay? --
+	</DIALOGUE>
+<DIRECTION>
+(German again)
+</DIRECTION>
+	<DIALOGUE>
+	-- I just need to sleep --
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+ZURICH COP #2 has heard enough -- giving a sharp poke with the nightstick -- into THE MAN's back -- and that's the last thing he'll remember because --
+</DIRECTION>
+<DIRECTION>
+THE MAN is in motion.
+</DIRECTION>
+<DIRECTION>
+A single turn -- spinning -- catching COP #2 completely off guard -- the heel of his hand driving up into the guy's throat and --
+</DIRECTION>
+<DIRECTION>
+COP #1 -- behind him -- trying to reach for his pistol, but THE MAN -- still turning -- all his weight moving in a single fluid attack -- a sweeping kick and --
+</DIRECTION>
+<DIRECTION>
+COP #1 -- he's falling -- catching the bench -- trying to fight back but -- THE MAN -- like a machine -- just unbelievably fast -- three jackhammer punches -- down-down- down and -- COP #1 -- head slammed into the bench -- blood spraying from his nose -- he's out cold and --
+</DIRECTION>
+<DIRECTION>
+COP #2 -- writhing on the ground -- gasping for air -- struggling with his holster -- THE MAN -- his foot -- down -- like a vise -- onto COP #2's arm -- shattering the bone -- COP #2 starting to scream, and then silenced because --
+</DIRECTION>
+<DIRECTION>
+THE MAN -- he's got the pistol -- so fucking fast -- he's got it right up against COP #2's forehead -- right on the edge of pulling the trigger -- he is, he's gonna shoot him --
+</DIRECTION>
+<ZURICH_COP_2>
+<DIRECTION>
+(gasping, pleading)
+</DIRECTION>
+	<DIALOGUE>
+	-- no -- please God no -- please don't -- please no -- my Go
+	</DIALOGUE>
+</ZURICH_COP_2>
+<DIRECTION>
+-- stopping as --
+</DIRECTION>
+<DIRECTION>
+THE MAN slams the gun against his temple and --
+</DIRECTION>
+<DIRECTION>
+This fight is over.
+</DIRECTION>
+<DIRECTION>
+THE MAN standing there. In the silence. Two unconscious cops at his feet. Blood on his pants. What just happened? How did he do this? And there's THE GUN in his hand. And God, it just feels so natural -- checking it -- stripping it down -- holding it -- aiming it -- like this is something he's done a million times before...
+</DIRECTION>
+<DIRECTION>
+This is something he definitely knows how to do.
+</DIRECTION>
+<DIRECTION>
+And then he stops cold. Throwing down the gun. Running off into the darkness --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE -- DAY
+</DIRECTION>
+<DIRECTION>
+A deep, inner office. An ops office. Operations. Unlabeled and anonymous. A backwater project center hidden deep within the Langley facility. Utilitarian. Several rooms linked like a suite.
+</DIRECTION>
+<DIRECTION>
+Small staff. SEVERAL TECHNICIANS. One or two for communications. A couple for research. People are at their posts. And it's all quiet. But they are busy. Quietly urgent. This is a place under siege.
+</DIRECTION>
+<DIRECTION>
+ZORN is the number two here. Brilliant bloodless lapdog. He's coming through the suite. Coming through quickly. Heading toward the boss's little office at the back --
+</DIRECTION>
+<DIRECTION>
+TED CONKLIN. Ivy League Ollie North. Buttoned down. Square jaw. Everything tucked away. But there's tension in the air. Work on the desk. Cot in the corner.
+</DIRECTION>
+<CONKLIN>
+<DIRECTION>
+(looking up)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	Abbott wants to talk.
+	</DIALOGUE>
+</ZORN>
+<CONKLIN>
+	<DIALOGUE>
+	Tell him we're busy.
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	I tried.
+	</DIALOGUE>
+</ZORN>
+<DIRECTION>
+INT. CIA COMMISSARY -- NIGHT
+</DIRECTION>
+<DIRECTION>
+ABBOTT with coffee. CONKLIN not lingering.
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	Storm clouds are gathering, Ted. It looks like rain and I don't have a thing to wear.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	I don't know what we're talking about.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	We're talking about Marseille. We're talking about Nykwana Wombosi. And I'm asking you if this abortion in Marseille has anything to do with Treadstone.
+	</DIALOGUE>
+<DIRECTION>
+(silence)
+</DIRECTION>
+	<DIALOGUE>
+	Was this Treadstone?
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	You're asking me a direct question?
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	I thought you were never going to do that.
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+Silence. Pressure drop.
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	They're putting together an agency oversight committee. They're going to look through everyone's budgets. Treadstone is a rather sizable line item in my ledger.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	What am I going to do about that?
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	You'd want to make that go away. You'd want to remind them that Treadstone is a training organization. That it's all theoretical. You'd want to sign off on that.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	And what if I couldn't do that?
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	Then I'd have to explain Treadstone. And you'd have to explain how you let me get this far.
+	</DIALOGUE>
+<DIRECTION>
+(silence)
+</DIRECTION>
+	<DIALOGUE>
+	Doesn't sound like much of a Plan-B, does it?
+	</DIALOGUE>
+<DIRECTION>
+(Abbott staring)
+</DIRECTION>
+	<DIALOGUE>
+	We'll clean up the field. You clean up your budgets.
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+EXT. ZURICH -- DAY
+</DIRECTION>
+<DIRECTION>
+Morning in the financial district. Upscale. Uptight.
+</DIRECTION>
+<DIRECTION>
+GEMEINSCHAFT BANK just one of many elegant fortresses on this street. Everything just now opening for business. TWO GUARDS unlocking the front door and --
+</DIRECTION>
+<DIRECTION>
+THE MAN across the street. Tucked in the shadows. Checking for cops and trouble. Looks clear. He's walking and --
+</DIRECTION>
+<DIRECTION>
+INT. BANK RECEPTION AREA -- DAY
+</DIRECTION>
+<DIRECTION>
+Ornate, formidable and tech at the same time.
+</DIRECTION>
+<RECEPTIONIST>
+	<DIALOGUE>
+	Can I help you?
+	</DIALOGUE>
+</RECEPTIONIST>
+<DIRECTION>
+THE MAN standing before her. Looking very out of place.
+</DIRECTION>
+<THE_MAN>
+	<DIALOGUE>
+	I'm here about a numbered account.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+THE RECEPTIONIST nods. Pulls a pen and bank card.
+</DIRECTION>
+<RECEPTIONIST>
+<DIRECTION>
+(instant English)
+</DIRECTION>
+	<DIALOGUE>
+	If you'll just enter your account number here I'll direct you to the appropriate officer.
+	</DIALOGUE>
+</RECEPTIONIST>
+<DIRECTION>
+THE MAN takes the pen, as we --
+</DIRECTION>
+<DIRECTION>
+INT. BANK SECURITY CHECKPOINT -- DAY
+</DIRECTION>
+<DIRECTION>
+A BIO-METRIC SCANNER. A piece of ultra-tech amidst the Baroque. TWO SERIOUS BANK GUARDS manning the equipment.
+</DIRECTION>
+<DIRECTION>
+THE MAN standing there, staring down at this machine. Something ominously decisive about this. What if it's him? What if it's not?
+</DIRECTION>
+<BANK_GUARD_1>
+	<DIALOGUE>
+	They've been waiting your hand, sir...
+	</DIALOGUE>
+</BANK_GUARD_1>
+<DIRECTION>
+THE MAN focuses. Here we go -- BANK GUARD #2 guiding his open palm onto the mirrored scanning surface.
+</DIRECTION>
+<DIRECTION>
+THE MAN catching his reflection for a moment before a wave of white light passes beneath his hand and now --
+</DIRECTION>
+<DIRECTION>
+INT. BANK HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+THE MAN being led by A THIRD GUARD to a special elevator.
+</DIRECTION>
+<DIRECTION>
+INT. DEEPER INSIDE THE BANK -- DAY
+</DIRECTION>
+<DIRECTION>
+Elevator doors open. THE MAN steps out. MR. APFEL -- anal Zurich banker -- waiting there.
+</DIRECTION>
+<APFEL>
+	<DIALOGUE>
+	Good morning, sir. I assume you're here about your box.
+	</DIALOGUE>
+</APFEL>
+<THE_MAN>
+	<DIALOGUE>
+	...yes...
+	</DIALOGUE>
+<DIRECTION>
+(what now?)
+</DIRECTION>
+	<DIALOGUE>
+	The box.
+	</DIALOGUE>
+</THE_MAN>
+<DIRECTION>
+APFEL nods. Gestures down the corridor --
+</DIRECTION>
+<DIRECTION>
+INT. BANK SAFETY DEPOSIT VIEWING ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+Sterile and kind of odd. But total privacy. THE MAN sitting there, as A DEPOSIT GUARD places a large SAFETY DEPOSIT BOX before him. THE GUARD leaves the room. Closing the door behind him.
+</DIRECTION>
+<DIRECTION>
+THE MAN is alone. And there it is, right in front of him. This is it. Here are the answers. He lifts the lid.
+</DIRECTION>
+<DIRECTION>
+THE BOX. There's a shallow tray on top. In this tray: a beat- up passport in the name of Jason Bourne. A French driver's license with a Parisian address. Credit cards for Jason Bourne.
+</DIRECTION>
+<DIRECTION>
+THE MAN. Holding these objects close -- as if by holding them he might absorb their essence. Forcing himself to believe. This is him. His picture. There it is. He's Jason Bourne.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	My name is Jason Bourne.
+	</DIALOGUE>
+<DIRECTION>
+(sounds good)
+</DIRECTION>
+	<DIALOGUE>
+	Hi, I'm Jason. Jason Bourne. Jason Bourne, nice to meet you.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+BACK TO -- THE BOX -- the shallow tray on top. There's Kleenex. Several sets of contact lenses. A knife. A comb. Three sticks of gum. A ring. A pair of sunglasses. A Rolex.
+</DIRECTION>
+<DIRECTION>
+BOURNE setting these things aside. Lifting the top tray. Staring into THE DEEP BOTTOM TRAY and --
+</DIRECTION>
+<DIRECTION>
+First of all...
+</DIRECTION>
+<DIRECTION>
+MONEY. Lots of it. Ten thousand dollar stacks of hundreds. Lots of them. Close to a million dollars. There's A GUN. A very good gun. Several clips of ammo. And...
+</DIRECTION>
+<DIRECTION>
+FIVE MORE PASSPORTS. All clean. Crisp. Brand new. All with his photo inside. Five different names. Three different Countries. Each one of these pristine passports clipped to a piece of card stock that says:
+</DIRECTION>
+<DIRECTION>
+NAME: NATIONALITY: PLACE OF ISSUE: SIGNATURE SAMPLE:
+</DIRECTION>
+<DIRECTION>
+And a bar code. Two Dutch passports. A French. A South African. A Belgian.
+</DIRECTION>
+<DIRECTION>
+And...
+</DIRECTION>
+<DIRECTION>
+There's one piece of card stock still with the paper clip in place. And no passport. This card reads:
+</DIRECTION>
+<DIRECTION>
+NAME: John Michael Kane NATIONALITY: U.S.A. PLACE OF ISSUE: Paris, France There's a signature sample. And a bar code. But no passport. This one is missing.
+</DIRECTION>
+<DIRECTION>
+BOURNE sitting there. Trying to push his confusion away.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Bourne. My name is Jason Bourne. I live at 121, Rue de la Jardin, Paris.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+But there's something hollow about this. He came looking for one identity and now he's faced with six. The money... The gun...
+</DIRECTION>
+<DIRECTION>
+Suddenly, it's all fucked up.
+</DIRECTION>
+<DIRECTION>
+BOURNE into gear. Looking around the room -- there -- there's a pile of red canvas burn bags in the corner. BOURNE grabbing one -- stuffing everything into it -- everything except...
+</DIRECTION>
+<DIRECTION>
+The gun. He doesn't want the gun. No guns.
+</DIRECTION>
+<DIRECTION>
+INT. BANK SAFETY DEPOSIT OUTER AREA -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE is done. Handing the box back to THE DEPOSIT GUARD --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	I'm trying to think how long it's been since I was here.
+	</DIALOGUE>
+</BOURNE>
+<DEPOSIT_GUARD>
+	<DIALOGUE>
+	I'm not sure. Must be three weeks.
+	</DIALOGUE>
+</DEPOSIT_GUARD>
+<DIRECTION>
+EXT. STREETS OF ZURICH -- DAY -- VARIOUS SHOTS
+</DIRECTION>
+<DIRECTION>
+BOURNE exits the bank. The red bag full to its limit. He's walking briskly now. Looking for a taxi. Nothing in sight.
+</DIRECTION>
+<DIRECTION>
+BOURNE crossing the street. Shit, there's A COP on the corner -- turn -- change pace -- make it look natural --
+</DIRECTION>
+<DIRECTION>
+BOURNE around a corner. And it's looking good for a moment -- but only a moment -- TWO MORE COPS walking a beat -- walking this way -- turn -- cut -- cross the street --
+</DIRECTION>
+<DIRECTION>
+BOURNE heading down a boulevard. Trying to look small. Pulse starting to race. Fighting the paranoia. Where the hell is a cab? Turning back fast as A SIREN starts bleeding in from behind him --
+</DIRECTION>
+<DIRECTION>
+It's just an ambulance.
+</DIRECTION>
+<DIRECTION>
+BOURNE turning back. Forcing himself to focus. And fuck -- there's A METER MAID, and she's stopped writing up a ticket -- she's staring at him and --
+</DIRECTION>
+<DIRECTION>
+BOURNE trying not to panic -- don't run -- smile -- stay small -- get to the corner -- scan the options -- but --
+</DIRECTION>
+<DIRECTION>
+THE METER MAID -- she's watching him go and she's pulling her radio and --
+</DIRECTION>
+<DIRECTION>
+BOURNE hitting this next corner -- banging a right -- forcing himself not to run -- glancing back and --
+</DIRECTION>
+<DIRECTION>
+THERE'S ANOTHER COP -- but this one is jogging -- searching -- he's got his radio out and --
+</DIRECTION>
+<DIRECTION>
+FINALLY TO --
+</DIRECTION>
+<DIRECTION>
+BOURNE bailing on the street -- disappearing into --
+</DIRECTION>
+<DIRECTION>
+EXT. U.S. EMBASSY COMPOUND -- DAY
+</DIRECTION>
+<DIRECTION>
+Big gates. Speed barricades. SEVERAL U.S. MARINES standing guard near a gate house. An American flag. Lots of people coming and going. BOURNE playing it as normal as possible as he heads for the entrance.
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE ZURICH -- VISA ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+The passport and visa office. Big room. No windows. Unpleasant on purpose. Two lines: A short one for U.S. Citizens, a marathon for everyone else. CONSULATE CLERKS stationed in open cubicles along the back wall. And it's a zoo. American tourists who've lost their passports. Foreigners looking for visas. Asylum seekers. Everyone here has a problem.
+</DIRECTION>
+<DIRECTION>
+BOURNE on the U.S. line. Standing there trying to think. What's he gonna say? What can he say? With the cops outside, and the incident in the park, then the bank...
+</DIRECTION>
+<MARIE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	-- no, this is not my current address. It was my current address two days ago when I started standing in line outside --
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+A NEARBY CUBICLE. Meet MARIE KREUTZ. German. Big energy. Real beauty hidden beneath the armor. And armor it is, because this is a warrior in full, crisis battlemode.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	-- and so now I lost my apartment, I have no address, and I have no visa, and you keep telling me how much help you cannot give me!
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+A CONSULATE CLERK caught in her headlights.
+</DIRECTION>
+<CLERK>
+	<DIALOGUE>
+	Miss Kreutz, please... I'm gonna have to ask you to keep your voice down.
+	</DIALOGUE>
+</CLERK>
+<MARIE>
+	<DIALOGUE>
+	All the papers -- all the papers they asked for -- I brought all the papers --
+	</DIALOGUE>
+</MARIE>
+<CLERK>
+	<DIALOGUE>
+	Miss Kreutz, excuse me, but you entered into a fraudulent marriage in an effort to circumvent the immigration laws of the United States --
+	</DIALOGUE>
+</CLERK>
+<MARIE>
+	<DIALOGUE>
+	You only know that because I told you!
+	</DIALOGUE>
+<DIRECTION>
+(she's incredulous)
+</DIRECTION>
+	<DIALOGUE>
+	Ask the case officer -- find his name -- it's on the papers -- I told him all this myself! --
+	</DIALOGUE>
+<DIRECTION>
+(tearing through the papers now --)
+</DIRECTION>
+<CLERK>
+	<DIALOGUE>
+	-- it's not the source of the information that's important here --
+	</DIALOGUE>
+</CLERK>
+<MARIE>
+	<DIALOGUE>
+	-- I paid this fucking guy -- I paid him four thousand dollars -- my last four thousand dollars to marry me, okay? -- I told this to the case officer last week...
+	</DIALOGUE>
+<DIRECTION>
+(she's found it --)
+</DIRECTION>
+	<DIALOGUE>
+	...here -- Mr. Thomas. I told Mr. Thomas I didn't know this guy was already married -- I admitted this!
+	</DIALOGUE>
+</MARIE>
+<CLERK>
+	<DIALOGUE>
+	-- Miss Kreutz, please --
+	</DIALOGUE>
+</CLERK>
+<MARIE>
+	<DIALOGUE>
+	-- I'm the one that got ripped off! -- not you -- not the United States government -- me -- I'm the one being ripped off!
+	</DIALOGUE>
+</MARIE>
+<CLERK>
+	<DIALOGUE>
+	So now you're asking for a student visa?
+	</DIALOGUE>
+</CLERK>
+<DIRECTION>
+That shuts her up. Yes. Today she's a student.
+</DIRECTION>
+<DIRECTION>
+INT. CIA OFFICE COMPLEX -- NIGHT (BUT SAME TIME)
+</DIRECTION>
+<DIRECTION>
+Motion -- CONKLIN racing down a staircase -- ZORN chasing after --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	-- and they're sure it's him? --
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	-- he accessed the account --
+	</DIALOGUE>
+</ZORN>
+<CONKLIN>
+	<DIALOGUE>
+	-- but it was him --
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	-- yes, sir, it's confirmed --
+	</DIALOGUE>
+</ZORN>
+<DIRECTION>
+INT. U.S. CONSULATE -- VISA ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE on line. Fear meter rising by the minute.
+</DIRECTION>
+<DIRECTION>
+BOURNE'S POV
+</DIRECTION>
+<DIRECTION>
+Scanning the room -- the perimeter -- the people -- A TURKISH MAN almost in tears as he tries to explain his case to a DESK CLERK -- TWO AMERICAN BACKPACKERS that have lost their passports -- MARIE still in the midst of her madness -- A SECURITY CAMERA high on the wall capturing everything -- lots of data -- too much going on and --
+</DIRECTION>
+<MAN_ON_LINE>
+<DIRECTION>
+(O.S.) (from behind him)
+</DIRECTION>
+	<DIALOGUE>
+	You're up.
+	</DIALOGUE>
+</MAN_ON_LINE>
+<DIRECTION>
+BOURNE comes to. Shit. It's his turn.
+</DIRECTION>
+<DIRECTION>
+A WOMAN CLERK waving him forward. BOURNE trying to think -- what the fuck is he doing? -- what's he gonna say? -- now he's at the window, and if he was looking for a friendly face, he came to the wrong place --
+</DIRECTION>
+<WOMAN_CLERK>
+<DIRECTION>
+(cold shit)
+</DIRECTION>
+	<DIALOGUE>
+	You're a U.S. Citizen?
+	</DIALOGUE>
+</WOMAN_CLERK>
+<BOURNE>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I mean, I think so. Yes. Yes...
+	</DIALOGUE>
+</BOURNE>
+<WOMAN_CLERK>
+	<DIALOGUE>
+	Well, either you are, or you aren't.
+	</DIALOGUE>
+</WOMAN_CLERK>
+<BOURNE>
+	<DIALOGUE>
+	Right.
+	</DIALOGUE>
+</BOURNE>
+<WOMAN_CLERK>
+	<DIALOGUE>
+	You have your passport?
+	</DIALOGUE>
+</WOMAN_CLERK>
+<BOURNE>
+	<DIALOGUE>
+	I have a passport. I've got...
+	</DIALOGUE>
+<DIRECTION>
+(the bag there, but...)
+</DIRECTION>
+	<DIALOGUE>
+	Actually, it's a little complicated.
+	</DIALOGUE>
+</BOURNE>
+<WOMAN_CLERK>
+	<DIALOGUE>
+	Do you have your passport, sir?
+	</DIALOGUE>
+</WOMAN_CLERK>
+<BOURNE>
+	<DIALOGUE>
+	Look, maybe I should just...
+	</DIALOGUE>
+</BOURNE>
+<WOMAN_CLERK>
+	<DIALOGUE>
+	Sir, you waited on line.
+	</DIALOGUE>
+</WOMAN_CLERK>
+<BOURNE>
+	<DIALOGUE>
+	Yeah, I know...
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+But he's already bailing, walking away from the woman, the window, the room -- he's out of here --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE LOBBY -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE on the move -- hustling back toward the lobby -- trying to snag a view out to the street -- there's a window just ahead and --
+</DIRECTION>
+<DIRECTION>
+BOURNE'S WINDOW POV -- ZURICH COPS -- outside -- on the street -- half-a-dozen of them lingering around the entry gate and --
+</DIRECTION>
+<DIRECTION>
+BOURNE stalled for a moment -- options dwindling -- he can't go back to the passport office -- he can't go out the front and --
+</DIRECTION>
+<DIRECTION>
+The lobby looks tough -- there are two other points of entry into the main building, but they're both guarded by MARINES and METAL DETECTORS --
+</DIRECTION>
+<DIRECTION>
+As he gets closer -- it gets worse --
+</DIRECTION>
+<DIRECTION>
+A ZURICH POLICE INSPECTOR near the door, in deep conversation with TWO MARINES and THE EMBASSY SECURITY OFFICER and --
+</DIRECTION>
+<DIRECTION>
+BOURNE trying to burrow through the human traffic -- trying to get to THE LARGER OF THE TWO ENTRY GATES -- this one the farthest from the front door and the passport office corridor, and it's the most crowded -- A COUPLE PEOPLE lined up here -- waiting for one of THE THREE MARINES STAFFING THIS POST to check their bags and pass them through a metal detector and --
+</DIRECTION>
+<SECURITY_CHIEF>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	-- stop! -- stop right there! --
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DIRECTION>
+BOURNE turns back -- as does everyone else in the lobby --
+</DIRECTION>
+<SECURITY_CHIEF>
+<DIRECTION>
+(from across the lobby)
+</DIRECTION>
+	<DIALOGUE>
+	-- YOU -- red bag -- the red bag -- stop right there! -- hands up! --
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DIRECTION>
+BOURNE glancing back -- ONE OF THE GATE MARINES BEHIND HIM -- the guy's raising his M-16 --
+</DIRECTION>
+<GUN_MARINE>
+	<DIALOGUE>
+	-- you heard him -- let's move it! -- down -- let's go! --
+	</DIALOGUE>
+</GUN_MARINE>
+<DIRECTION>
+BOURNE nodding -- total compliance -- starting to drop -- but only starting, because now --
+</DIRECTION>
+<DIRECTION>
+He's swinging the backpack and --
+</DIRECTION>
+<DIRECTION>
+THE GUN MARINE -- nailed -- blind-sided -- no chance and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- all motion -- all forward -- all perfect -- vaulting the metal detector even as he pulls ONE OF THE PEOPLE ON LINE around to shield his back and --
+</DIRECTION>
+<DIRECTION>
+ANOTHER GATE MARINE -- right there -- trying to grab him -- making his move -- BOURNE -- almost an afterthought -- his boot -- like a knife -- out of nowhere -- SNAP! -- the guy's arm just shattered and --
+</DIRECTION>
+<DIRECTION>
+THE SECURITY CHIEF -- freaking out -- TWO MARINES WITH HIM -- they're raising their weapons and there's people in the lobby and --
+</DIRECTION>
+<SECURITY_CHIEF>
+	<DIALOGUE>
+	-- no -- no -- hold your fire! --
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DIRECTION>
+BOURNE -- landing hard on THE GUN MARINE -- rolling away from the gate -- into the building now -- coming up with the backpack and --
+</DIRECTION>
+<SOMEONE_SCREAMING>
+	<DIALOGUE>
+	-- he's got a gun! -- he's got a gun! --
+	</DIALOGUE>
+</SOMEONE_SCREAMING>
+<DIRECTION>
+And he does -- BOURNE with the M-16! -- coming up with it -- coming up on the move -- swinging it around as he searches for an escape route and THE GUN -- it's like a magic wand of hysteria --
+</DIRECTION>
+<DIRECTION>
+PEOPLE IN THE LOBBY -- SCREAMING -- diving away -- everyone dropping for cover and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- bailing -- on the run -- sprinting down a hallway -- tossing away the M-16 as he sprints into the building --
+</DIRECTION>
+<THE_SECURITY_CHIEF>
+<DIRECTION>
+(frantic on his radio now --)
+</DIRECTION>
+	<DIALOGUE>
+	-- red! -- red! -- red! -- code red! -- South side entrance! -- male -- five- ten, brown hair -- black jacket -- red bag --
+	</DIALOGUE>
+</THE_SECURITY_CHIEF>
+<DIRECTION>
+INT. U.S. CONSULATE OFFICE HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+Quiet for a second -- offices on either side of a carpeted hallway -- BUREAUCRAT-TYPES doing their thing, when suddenly --
+</DIRECTION>
+<BUREAUCRAT_1>
+	<DIALOGUE>
+	Excuse me? Can I help you?
+	</DIALOGUE>
+<DIRECTION>
+(but backing up as he says it, because --)
+</DIRECTION>
+<DIRECTION>
+Here comes BOURNE -- coming fast -- and he definitely does not belong back here --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE LOBBY/SECURITY GATE -- DAY
+</DIRECTION>
+<DIRECTION>
+Panic -- people fleeing the lobby -- MORE MARINES hustling in from outside and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE FIRE STAIRWELL -- DAY
+</DIRECTION>
+<DIRECTION>
+Door flies open -- BOURNE bombing in -- shit! -- it's a dead end -- no way out but up the stairs --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE GROUND FLOOR CORRIDOR -- DAY
+</DIRECTION>
+<DIRECTION>
+SECURITY CHIEF -- THREE MARINES -- sidearms drawn -- jogging past the INNER OFFICES -- running beside them, a frantic guy in a suit --
+</DIRECTION>
+<DEPUTY_DCM>
+	<DIALOGUE>
+	-- what're you talking about? --
+	</DIALOGUE>
+</DEPUTY_DCM>
+<SECURITY_CHIEF>
+	<DIALOGUE>
+	-- we're evacuating the building --
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DEPUTY_DCM>
+	<DIALOGUE>
+	-- we're in the middle of a trade meeting! --
+	</DIALOGUE>
+</DEPUTY_DCM>
+<SECURITY_CHIEF>
+	<DIALOGUE>
+	-- call the code! -- I want everyone out! --
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DEPUTY_DCM>
+	<DIALOGUE>
+	-- you gotta give me more to go on --
+	</DIALOGUE>
+</DEPUTY_DCM>
+<SECURITY_CHIEF>
+	<DIALOGUE>
+	-- he's running from the cops, he's got a bag filled with God knows what, he's in the building and I don't know where! --
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DIRECTION>
+INT. U.S. CONSULATE BACK STAIRWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE climbing fast -- two -- three -- stairs at a time -- racing up as a SECURITY ALARM STARTS SCREAMING -- bleet -- bleet -- bleet --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE FIFTH-FLOOR GRAND HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+THE ALARM ringing everywhere -- TRADE CONFERENCEES -- sixty confused and frightened people -- spilling out into the corridor --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE FIFTH FLOOR KITCHENETTE -- DAY
+</DIRECTION>
+<DIRECTION>
+A NEW DOOR flying open -- it's BOURNE -- ready for anything, but there's nothing -- he's in a butler's prep area off the main conference room -- momentum stalled for a moment -- nothing in here but tablecloths and silverware and coffee cups and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE BACK STAIRWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+THREE MARINES -- armed and stoked -- staring up the stairs -- leapfrogging -- point-to-point assault procedure --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE MAIN STAIRS -- DAY
+</DIRECTION>
+<DIRECTION>
+Carpeted and grand -- SECURITY CHIEF with FIVE MARINES NOW -- charging up -- pushing past THE PEOPLE trying to come down and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE FIFTH FLOOR GRAND HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+Completely clogged now -- PANICKED TRADE PEOPLE all over -- EMBASSY TYPES -- trying to herd them toward the main stairs -- everyone talking at once -- THAT ALARM STILL BLARING and --
+</DIRECTION>
+<VOICE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	-- no! -- the other way! -- take the backstairs! -- the backstairs! -- he's on the other side -- there's a bomb! --
+	</DIALOGUE>
+</VOICE>
+<DIRECTION>
+And as the crowd reacts -- as they mob back away from the main stairway -- we see -- holy shit, the guy yelling was BOURNE --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE BACK STAIRWELL -- DAY
+</DIRECTION>
+<DIRECTION>
+THE ASSAULT MARINES -- still climbing -- weapons out -- clean and fast -- one more flight to go -- ready for anything -- completely freaking out as the door above them on the fifth floor flies open and --
+</DIRECTION>
+<LEAD_MARINE>
+	<DIALOGUE>
+	-- HALT! -- STOP WHERE YOU ARE! --
+	</DIALOGUE>
+</LEAD_MARINE>
+<DIRECTION>
+MARINE GUNS swinging up -- trigger fingers tense and --
+</DIRECTION>
+<DIRECTION>
+IT'S TRADE PEOPLE! and now THEY'RE SCREAMING and this combined with THE ALARM and THE MARINES YELLING FOR THEM TO GET DOWN and ALL OF IT ECHOING THROUGH THE STAIRWELL and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE MAIN CONFERENCE ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE -- he's CLOSING A DOOR behind him -- he's jamming A CHAIR -- wedging it in tight so the door won't open and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE FIFTH FLOOR GRAND HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+THE SECURITY CHIEF -- HIS MARINES -- coming from the main stairs -- weapons drawn -- fighting their way through the pandemonium and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE MAIN CONFERENCE ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE scanning for options -- the room is huge -- empty now -- the massive conference table covered with the meeting papers left behind -- windows along one wall and --
+</DIRECTION>
+<DIRECTION>
+BOURNE rushes to the window staring down and --
+</DIRECTION>
+<DIRECTION>
+BOURNE'S WINDOW POV
+</DIRECTION>
+<DIRECTION>
+Fifty feet below there's a courtyard -- it's a sheer drop -- completely fucked and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE FIFTH FLOOR GRAND HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+SECURITY CHIEF -- TWO MARINES -- just outside THE CONFERENCE ROOM DOOR -- trying it -- it won't budge and --
+</DIRECTION>
+<SECURITY_CHIEF>
+	<DIALOGUE>
+	-- blow it -- shoot it open! --
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DIRECTION>
+INT. U.S. CONSULATE MAIN CONFERENCE ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+THE DOOR -- shattering -- eaten up by GUNFIRE! -- TAT-TAT- TAT-TATTAT-TAT-TAT-TAT! and --
+</DIRECTION>
+<DIRECTION>
+WHAM! HERE THEY COME -- through the door -- guns -- eyes -- adrenaline -- everything ready and --
+</DIRECTION>
+<DIRECTION>
+THE ROOM IS EMPTY!
+</DIRECTION>
+<DIRECTION>
+EXT. U.S. CONSULATE BUILDING WALL -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE -- dangling fifty-feet above the stone courtyard! -- he's gone out the window! -- hanging there -- hanging with one hand -- one hand clutching the corner of a ledge and --
+</DIRECTION>
+<DIRECTION>
+INT. U.S. CONSULATE MAIN CONFERENCE ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+Utter confusion -- SECURITY CHIEF -- FIVE -- SIX -- SEVEN ARMED MARINES all piling in -- ready to rock but there's no one to shoot -- no target --
+</DIRECTION>
+<SECURITY_CHIEF>
+	<DIALOGUE>
+	-- check the closets! -- get those back doors covered -- there's a kitchen back there -- go! -- go! -- go!
+	</DIALOGUE>
+</SECURITY_CHIEF>
+<DIRECTION>
+TWO MARINES -- scanning the windows -- looking down and --
+</DIRECTION>
+<DIRECTION>
+MARINE POV -- all clear -- no way he went down there and --
+</DIRECTION>
+<DIRECTION>
+EXT. U.S. CONSULATE BUILDING WALL -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE still hanging there -- looking down -- up -- there's no choice -- he has to go down --
+</DIRECTION>
+<DIRECTION>
+BOURNE finding a toehold below him -- reaching -- touching down -- it gives way -- crumbling and --
+</DIRECTION>
+<DIRECTION>
+BOURNE hesitates. Does he know how to do this or not? Stalled for a moment, then...
+</DIRECTION>
+<DIRECTION>
+BOURNE starts climbing down. And this is all one shot. No cutaway. No cheating.
+</DIRECTION>
+<DIRECTION>
+We are watching a master at work...
+</DIRECTION>
+<DIRECTION>
+Handhold to a drain pipe. Swinging to a better ledge.
+</DIRECTION>
+<DIRECTION>
+Dropping to an air-conditioner. Grabbing a window frame just before the air-conditioner gives way. Teetering there. Now he's on the fourth floor.
+</DIRECTION>
+<DIRECTION>
+Below, there's an open window on the third floor. Struggling to keep his balance, he reaches behind him to shift the weight of the bag, and as he does --
+</DIRECTION>
+<DIRECTION>
+THE RED BAG falls. Thump. Into the courtyard. Forget the open window. Now he's got to go all the way.
+</DIRECTION>
+<DIRECTION>
+Timing his next move and --
+</DIRECTION>
+<DIRECTION>
+He's pushing off -- reaching -- there's another drainpipe and he's snagged it -- he's got a dragline now -- starting to fall -- straining to hold the pipe -- slowing his descent -- the drainpipe pulling away from it's housing and --
+</DIRECTION>
+<DIRECTION>
+BOURNE letting go -- just before he falls backward -- one last grab -- catching a gutter -- holding it just long enough to slow his fall and --
+</DIRECTION>
+<DIRECTION>
+Letting go for the last fifteen feet and --
+</DIRECTION>
+<DIRECTION>
+EXT. U.S. CONSULATE FIFTH FLOOR GRAND HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+A DOZEN MARINES -- pumped-up and listening to --
+</DIRECTION>
+<SECURITY>
+	<DIALOGUE>
+	-- we're gonna go room by room until we find him -- so let's get teamed up --
+	</DIALOGUE>
+</SECURITY>
+<DIRECTION>
+EXT. AN ALLEYWAY NEAR THE U.S. CONSULATE -- DAY
+</DIRECTION>
+<DIRECTION>
+MARIE storming away. Pissed-off -- broke -- illegal -- ruined and --
+</DIRECTION>
+<MARIE>
+<DIRECTION>
+(German)
+</DIRECTION>
+	<DIALOGUE>
+	Motherfucking sonsofbitches!
+	</DIALOGUE>
+<DIRECTION>
+(a new problem --)
+</DIRECTION>
+<DIRECTION>
+A LITTLE RED CAR. A beat-to-shit Euro car. A shitty little red car angled in beside a dumpster with a big red Zurich parking ticket on the windshield.
+</DIRECTION>
+<DIRECTION>
+MARIE grabbing the ticket -- tearing it up -- tearing the shit out of it -- blind with misfortune -- throwing the pieces on the ground and stomping on them and then --
+</DIRECTION>
+<MARIE>
+<DIRECTION>
+(looking up --)
+</DIRECTION>
+	<DIALOGUE>
+	What are you looking at?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE standing across the car -- on the passenger side --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	I need a ride.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I need a ride out of here.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Oh, Jesus...
+	</DIALOGUE>
+<DIRECTION>
+(backing away and --)
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Please. I don't want to scare you.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	It's a little late for that.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I've got a situation here and --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Get the fuck away from my car.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I'll give you ten thousand dollars to drive me to Paris.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Great. You know what? I'll give you ten gazillion dollars to get the fuck away from me before I start screaming my head off.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	You don't want the police any more than I do.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+BOURNE tosses cash -- a stack of hundreds -- across the car into her hands -- she catches it. Looks at it.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Jesus...
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Get me out of here. Please.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE looking at him. At the money. Back at him, and --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE COMMUNICATIONS DESK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+VIDEO PLAYBACK -- FULL FRAME -- fast forward -- a speeding blur of images from a surveillance camera outside the Zurich bank -- it's two days worth of footage -- they're scanning for Bourne's arrival and --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	go -- keep going -- go...wait -- stop -- you went past it --
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+COM TECH #1 working the console. Freezing the image. Punching it up. There it is -- BOURNE leaving the bank with the red bag.
+</DIRECTION>
+<CONKLIN>
+<DIRECTION>
+(staring at the monitor)
+</DIRECTION>
+	<DIALOGUE>
+	It's him. My God, it's really him...
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+ZORN the phones across the room. COM TECH #2 at his console --
+</DIRECTION>
+<COM_TECH_2>
+	<DIALOGUE>
+	-- we got a cross-ref ready to go here, sir, we're running hotel, airline, train, and medical variables, anything else you'd like?
+	</DIALOGUE>
+</COM_TECH_2>
+<CONKLIN>
+	<DIALOGUE>
+	No...
+	</DIALOGUE>
+<DIRECTION>
+(still staring at Bourne)
+</DIRECTION>
+	<DIALOGUE>
+	Go ahead. Run it.
+	</DIALOGUE>
+<DIRECTION>
+(coming to --)
+</DIRECTION>
+	<DIALOGUE>
+	Let's get a map, let's get a grid map on Zurich.
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+<DIRECTION>
+(holding the phone)
+</DIRECTION>
+	<DIALOGUE>
+	Sir...
+	</DIALOGUE>
+</ZORN>
+<DIRECTION>
+CONKLIN up from the console. ZORN waiting for him --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	Zurich police are looking for an American with a red bag. Apparently he put two cops in the hospital last night.
+	</DIALOGUE>
+</ZORN>
+<DIRECTION>
+Silence. Like the floor just fell away. So heavy.
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	What the fuck is he doing?
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	Maybe it's a game. Maybe he's trying to send us a message.
+	</DIALOGUE>
+</ZORN>
+<CONKLIN>
+	<DIALOGUE>
+	It doesn't matter now. We've just got to be the first ones there.
+	</DIALOGUE>
+<DIRECTION>
+(decision time)
+</DIRECTION>
+	<DIALOGUE>
+	Get everybody up. I want them all activated.
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	All of them?
+	</DIALOGUE>
+</ZORN>
+<DIRECTION>
+A moment between them. CONKLIN all steel here now.
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	You heard me.
+	</DIALOGUE>
+</CONKLIN>
+<COM_TECH_2>
+<DIRECTION>
+(from the console --)
+</DIRECTION>
+	<DIALOGUE>
+	Sir, the cross-ref is coming up cold...
+	</DIALOGUE>
+</COM_TECH_2>
+<DIRECTION>
+CONKLIN breaks away -- back to the console and --
+</DIRECTION>
+<DIRECTION>
+EXT. BARCELONA RESIDENTIAL BOULEVARD -- DAY
+</DIRECTION>
+<DIRECTION>
+Establishing shot. A grand house. PIANO MUSIC over this -- someone butchering a piece by Haydn and --
+</DIRECTION>
+<DIRECTION>
+INT. BARCELONA GRAND HOUSE MUSIC ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+Meet THE PROFESSOR. He's a piano teacher. Late fifties. Deceptively fit. He's sitting here, listening to a NINE- YEAR-OLD STUDENT struggle through the music.
+</DIRECTION>
+<DIRECTION>
+And then, HIS E-PHONE PAGER starts pulsing -- hum -- hum --
+</DIRECTION>
+<DIRECTION>
+INT. HAMBURG CONFERENCE ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+A boring, marathon business meeting. FIFTEEN MIDDLE MANAGERS are trapped around a German sales presentation. Meet MANHEIM. Bald. Fifty. He looks dumb and piggy. Anything but. Sitting here --
+</DIRECTION>
+<DIRECTION>
+And then, HIS E-PHONE PAGER starts pulsing -- hum -- hum --
+</DIRECTION>
+<DIRECTION>
+EXT. A ROMAN CAFE -- DAY
+</DIRECTION>
+<DIRECTION>
+Meet CASTEL. He's thirty-five. Slender. Clean-cut. Easy to miss. He's here alone. Reading the paper. Sipping espresso.
+</DIRECTION>
+<DIRECTION>
+And then, HIS E-PHONE PAGER starts pulsing -- hum -- hum --
+</DIRECTION>
+<DIRECTION>
+EXT. A ROAD ON THE OUTSKIRTS OF ZURICH -- DAY
+</DIRECTION>
+<DIRECTION>
+The little red car parked. MARIE pacing around. BOURNE poring over a map spread out over the hood.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	So what's in Paris?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I want to go home.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	For twenty thousand dollars.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE looks back from the map.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	I said ten thousand.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	You have blood on your pants.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	Twenty thousand. Ten now. Ten there.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	No. No, that was too easy --
+	</DIALOGUE>
+<DIRECTION>
+(pacing away --)
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Wait up --
+	</DIALOGUE>
+<DIRECTION>
+(after her now --)
+</DIRECTION>
+	<DIALOGUE>
+	-- just wait up --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- get the fuck out of here -- all this money, this crazy offer, I mean give me a fucking break with this, this is --
+	</DIALOGUE>
+<DIRECTION>
+(stopping because--)
+</DIRECTION>
+<DIRECTION>
+BOURNE just grabbed her. Both of them shocked that he's done this. He immediately pulls back.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Look, I want a ride to Paris.
+	</DIALOGUE>
+<DIRECTION>
+(wide open now)
+</DIRECTION>
+	<DIALOGUE>
+	That's all I want. I swear.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	You swear?
+	</DIALOGUE>
+<DIRECTION>
+(cold here)
+</DIRECTION>
+	<DIALOGUE>
+	That's great. I feel so much better now.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I don't want anything but a ride. All I want to do is go home.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Silence now. She looks back. Measuring him.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	You could buy a car for twenty grand. You could buy this car.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I don't want to go alone. I want you to drive me to Paris. Like we're a couple. Like we're a couple and we're travelling together. That's all we're doing.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	And I don't get hurt. I get twenty thousand dollars and I don't get hurt.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I won't hurt you.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	What if I say no?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Then I'll find another ride.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+EXT. ROME STREET -- DAY
+</DIRECTION>
+<DIRECTION>
+CASTEL through the streets on a motorcycle. Whipping to a stop -- stepping off the bike in front of --
+</DIRECTION>
+<DIRECTION>
+U-STORE-IT STORAGE WAREHOUSE.
+</DIRECTION>
+<DIRECTION>
+INT. STORAGE WAREHOUSE ELEVATOR -- DAY
+</DIRECTION>
+<DIRECTION>
+CASTEL and THE ELEVATOR OPERATOR -- rising slowly through the dark warehouse and --
+</DIRECTION>
+<DIRECTION>
+INT. CASTEL'S STORAGE UNIT -- DAY
+</DIRECTION>
+<DIRECTION>
+Darkness -- a key turning -- door opening -- light goes on to reveal CASTEL standing there and we're in --
+</DIRECTION>
+<DIRECTION>
+CASTEL'S STORAGE UNIT. What's in here? Like nothing. Like a stack of old newspapers in the corner. Some mildewed books piled along one wall. Some shitty plastic chairs.
+</DIRECTION>
+<DIRECTION>
+QUICK TIME CUTS
+</DIRECTION>
+<DIRECTION>
+CASTEL working fast. Closing the door. Moving to the pile of books. Taking the top book off. Opening it.
+</DIRECTION>
+<DIRECTION>
+INSIDE THE BOX -- a timer. A small bomb. A booby-trap. An LED light stops flashing as CASTEL'S HANDS code in his password and --
+</DIRECTION>
+<DIRECTION>
+CASTEL moving to the newspapers stacked in the corner. Pulling away the top pile and --
+</DIRECTION>
+<DIRECTION>
+A METAL LOCK BOX. Hidden here. CASTLE pulling it out. Opening it. An empty tray on top and --
+</DIRECTION>
+<DIRECTION>
+CASTEL taking off his watch. Taking off his rings. Taking out his wallet. His Spanish passport. Emptying his pockets. All of this goes into the empty tray and --
+</DIRECTION>
+<DIRECTION>
+CASTEL lifting away this top tray -- setting it aside and --
+</DIRECTION>
+<DIRECTION>
+THE METAL LOCK BOX -- there's more -- a much larger bottom compartment -- and it's deja-vu all over again -- we're looking at the identical contents we saw Bourne find in the Zurich safe-deposit box.
+</DIRECTION>
+<DIRECTION>
+First of all...
+</DIRECTION>
+<DIRECTION>
+MONEY. Lots of it. Ten thousand dollar stacks of hundreds. Lots of them. A GUN. A very good gun. A dozen clips of ammo. And FIVE MORE PASSPORTS. All clean. Brand new. All with his photo. Five different names. Four different countries. Each one of these pristine clipped to a piece of card stock that says:
+</DIRECTION>
+<DIRECTION>
+NAME: NATIONALITY: PLACE OF ISSUE: SIGNATURE SAMPLE: A BAR CODE: Two Italian. Two Spanish. A Portuguese.
+</DIRECTION>
+<DIRECTION>
+CASTEL going for the Portuguese passport and --
+</DIRECTION>
+<DIRECTION>
+EXT. ALPS HELICOPTER SHOT -- DAY
+</DIRECTION>
+<DIRECTION>
+The little red car driving through The Alps.
+</DIRECTION>
+<DIRECTION>
+INT. THE RED CAR -- DUSK
+</DIRECTION>
+<DIRECTION>
+BOURNE staring out the window. MARIE driving. Long silence until --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Just so you know, if you're gonna burn me on the money, you might as well kill me.
+	</DIALOGUE>
+<DIRECTION>
+(Bourne looks over)
+</DIRECTION>
+	<DIALOGUE>
+	I was supposed to have this car back three days ago. It's not my car.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I know that.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE staring at him -- glancing back to the road -- just in time -- almost rear-ending a slow moving truck --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Shit --
+	</DIALOGUE>
+<DIRECTION>
+(trying to settle)
+</DIRECTION>
+	<DIALOGUE>
+	Can I tell you how much you're freaking me out? Okay? Because you are -- you're completely freaking me out.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I'm sorry. Really. What do you want me to do?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	I don't know. Smile. Sneeze. Something. You've got a bag full of money and a ride to Paris. Fuck it, I don't know...
+	</DIALOGUE>
+<DIRECTION>
+(the radio)
+</DIRECTION>
+	<DIALOGUE>
+	What kind of music do you like?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	What does that mean?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Listen to what you want.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+<DIRECTION>
+(out of nowhere)
+</DIRECTION>
+	<DIALOGUE>
+	Who pays twenty thousand dollars for a ride to Paris?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+There it is. And she wants an answer --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	I don't know. I don't know who I am.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Yeah, well, welcome to the club.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	No. No, I mean, I really don't know who I am. I can't remember anything earlier than two weeks ago.
+	</DIALOGUE>
+<DIRECTION>
+(it's not flying)
+</DIRECTION>
+	<DIALOGUE>
+	I'm serious.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	What? Like amnesia?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Look, go ahead... put the radio on...
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Amnesia?
+	</DIALOGUE>
+<DIRECTION>
+(total incredulity)
+</DIRECTION>
+	<DIALOGUE>
+	You're saying you don't remember anything that happened before two weeks ago?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	That's what I'm saying.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+<DIRECTION>
+(German)
+</DIRECTION>
+	<DIALOGUE>
+	Give me a fucking break.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE staring at her. She's furious. She's downshifting -- she's accelerating -- pulling out to pass the truck on a blind turn, as we --
+</DIRECTION>
+<DIRECTION>
+EXT. ZURICH BANK -- DAY/DUSK
+</DIRECTION>
+<DIRECTION>
+APFEL emerges from the bank. Leaving work. Turns the corner into a quiet side street and --
+</DIRECTION>
+<DIRECTION>
+Up ahead, here comes another guy in a suit. It's MANHEIM walking toward us, deep into a cell phone conversation. Barely noticing Apfel as they get closer and --
+</DIRECTION>
+<DIRECTION>
+As they pass -- MANHEIM -- it's completely out of the blue -- he's jabbing the cellphone down into Apfel's shoulder and --
+</DIRECTION>
+<DIRECTION>
+APFEL -- no clue -- already clutching at the coronary exploding in his chest -- dead before his body hits the street and --
+</DIRECTION>
+<DIRECTION>
+MANHEIM -- still walking -- he's never broken stride -- and as he goes he's fiddling with the cellphone and --
+</DIRECTION>
+<DIRECTION>
+INSERT -- THE CELLPHONE -- MANHEIM'S HANDS working to retract a syringe into the device and --
+</DIRECTION>
+<DIRECTION>
+MANHEIM striding away. Disappearing into Zurich...
+</DIRECTION>
+<DIRECTION>
+INT. PARIS MORGUE -- NIGHT
+</DIRECTION>
+<DIRECTION>
+Not the best morgue in town. Cold tile. A wall of freezers. Death lighting. Now add some color. Meet NYKWANA WOMBOSI in the flesh.
+</DIRECTION>
+<DIRECTION>
+Meet HIS ENTOURAGE -- eight or ten of his thirty children -- two of his wives -- three of his bodyguards -- the whole crew spread out in this horrible basement room. THE WIVES are chatting. THE KIDS are playing, fighting and eating candy.
+</DIRECTION>
+<DIRECTION>
+THE BODYGUARDS -- three of them here -- are white. These guys are French/Corsican mercs. Not quite the A-Team. The guy in charge of this ugly little unit is named DEAUVAGE. Into it. Too into it.
+</DIRECTION>
+<DIRECTION>
+TWO MORGUE ATTENDANTS hanging back. THE MORGUE BOSS -- who's clearly suffering this for a bribe -- moves to one of the freezer lockers...
+</DIRECTION>
+<MORGUE_BOSS>
+<DIRECTION>
+(French)
+</DIRECTION>
+	<DIALOGUE>
+	Okay, Monsieur Kane... number 121...
+	</DIALOGUE>
+</MORGUE_BOSS>
+<DIRECTION>
+And he pulls open FREEZER #121. And thank God we can't see it, because whatever's inside there is clearly horrible. THE MORGUE BOSS barely takes a glance, standing back as quickly as possible.
+</DIRECTION>
+<DIRECTION>
+DEAUVAGE -- lead bodyguard -- moves to clear a zone for his boss --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	Get the fuck out of my way --
+	</DIALOGUE>
+<DIRECTION>
+(pushing Deauvage aside --)
+</DIRECTION>
+<DIRECTION>
+WOMBOSI moves to the freezer box. Stares down. As if it were nothing. He's seen -- he's made -- much, much worse. And now he reaches down into the box -- hands on -- literally feeling around this dead, awful corpse with his bare hands -- feeling around for something -- feeling and feeling and not finding --
+</DIRECTION>
+<WOMBOSI>
+<DIRECTION>
+(turning to Deauvage --)
+</DIRECTION>
+	<DIALOGUE>
+	It's not him.
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+DEAUVAGE looking pale as WOMBOSI slams shut the freezer.
+</DIRECTION>
+<WOMBOSI>
+<DIRECTION>
+(quiet hard fury)
+</DIRECTION>
+	<DIALOGUE>
+	So who's crazy now?
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+EXT. PARIS STREET -- NIGHT
+</DIRECTION>
+<DIRECTION>
+A MINI-MOTORCADE driving towards Neuilly. Two security cars. A van full of kids and mothers. And one big Mercedes stretch.
+</DIRECTION>
+<DIRECTION>
+INT. THE MERCEDES STRETCH LIMO -- NIGHT
+</DIRECTION>
+<DIRECTION>
+WOMBOSI alone in the back. Looking haunted.
+</DIRECTION>
+<DIRECTION>
+INT. TRUCKSTOP CAFE -- NIGHT
+</DIRECTION>
+<DIRECTION>
+It's a weird spot. Open all night. But Euro-style. Quiet tonight. A few Alpen-truckers chowing down. A local or two at the bar and --
+</DIRECTION>
+<DIRECTION>
+BOURNE AND MARIE at a back table. Drinking coffee. He's got the red bag open. All the passports -- the personal junk -- the money -- all the shit from the Zurich bank box -- he's been showing it to her --
+</DIRECTION>
+<DIRECTION>
+And he's got her attention now.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	And you have no idea -- not a clue -- what came before that?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	When you think of it, before the ship -- before you wake up on the ship, what do you see?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Nothing. It's just not there.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Well, this is great.
+	</DIALOGUE>
+<DIRECTION>
+(she sits back)
+</DIRECTION>
+	<DIALOGUE>
+	I'm sick of myself and you have no idea who you are.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I kept trying things, I thought if I could find all the things I could do, I could --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- you could put it together --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- which was okay for a while, I was okay with it...
+	</DIALOGUE>
+<DIRECTION>
+(hesitating now)
+</DIRECTION>
+	<DIALOGUE>
+	But then -- there's all these other things -- all these other things I know how to do -- and this -- this stuff from the bank and...
+	</DIALOGUE>
+<DIRECTION>
+(suddenly flat out --)
+</DIRECTION>
+	<DIALOGUE>
+	I think something bad happened.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	What are you talking about?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Sounds like you were in an accident or something.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I was shot twice in the back.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Okay, so you're a victim.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	There was a gun. Who has a safe deposit box with a gun and all this money and all these passports?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Lots of people have guns. You're American. Americans love guns.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I fought my way out of an embassy. I climbed down a fifty-foot wall -- I went out the window and I was doing it -- I just did it. I knew how to do it.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	People do amazing things when they're scared.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Why do I? -- I come in here -- instinctively -- first thing I do -- I'm looking for the exit -- I'm catching the sightlines -- I know I can't sit with my back to the door --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	You're paranoid. You were shot. It's natural.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+She's not listening. He leans in. Flat out now.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	I can tell you the license plate numbers of all three cars out front. I can tell you that the waitress is left-handed and the guy at the counter weighs two-hundred and fifteen pounds and knows how to handle himself. I know that the best, first place to look for a gun is the cab of that grey truck outside. I know that at this altitude I can run flat out for half a mile before I lose my edge. I knew that you were my first, best option out of Zurich? How do I know all that? How can I know all that and not know who I am? How is that possible?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Long dead pause.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	God, you're not kidding, are you?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+INT. TREADSTONE RESEARCH DESK -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE'S FACE -- a video image frozen on A COMPUTER SCREEN -- it's Bourne looking at the camera -- Bourne looking up at the camera in the consulate passport office and --
+</DIRECTION>
+<DIRECTION>
+PULL BACK TO REVEAL
+</DIRECTION>
+<DIRECTION>
+HALF A DOZEN COMPUTER MONITORS -- and lots of shots of Bourne -- twenty angles -- twenty different locations -- twenty candid perspectives of Bourne and his mad scramble through the consulate --
+</DIRECTION>
+<DIRECTION>
+CONKLIN and RESEARCH TECH #1 poring over these surveillance tapes downloaded from Zurich --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	And that's the best angle of the courtyard?
+	</DIALOGUE>
+</CONKLIN>
+<RESEARCH_TECH_1>
+	<DIALOGUE>
+	That's the only angle.
+	</DIALOGUE>
+</RESEARCH_TECH_1>
+<CONKLIN>
+	<DIALOGUE>
+	What do they have on the streets? The area. They must have something.
+	</DIALOGUE>
+</CONKLIN>
+<RESEARCH_TECH_1>
+	<DIALOGUE>
+	Hang on...
+	</DIALOGUE>
+<DIRECTION>
+(typing away --)
+</DIRECTION>
+<DIRECTION>
+CONKLIN rubbing at the tension in his temples as ZORN enters --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CONKLIN>
+<ZORN>
+	<DIALOGUE>
+	Abbott. He knows about the embassy. He's coming down for a show and tell.
+	</DIALOGUE>
+</ZORN>
+<CONKLIN>
+	<DIALOGUE>
+	That'll solve all our problems.
+	</DIALOGUE>
+</CONKLIN>
+<RESEARCH_TECH_1>
+<DIRECTION>
+(he's hit paydirt)
+</DIRECTION>
+	<DIALOGUE>
+	Sir...
+	</DIALOGUE>
+</RESEARCH_TECH_1>
+<CONKLIN>
+<DIRECTION>
+(turning back --)
+</DIRECTION>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</CONKLIN>
+<RESEARCH_TECH_1>
+	<DIALOGUE>
+	It's an angle of the street -- some sort of alleyway -- you can just...
+	</DIALOGUE>
+</RESEARCH_TECH_1>
+<CONKLIN>
+	<DIALOGUE>
+	Enhance it.
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+INSERT -- THE MONITOR -- as the image enlarges to fill the screen. And there's Bourne. And the little red car. And Marie.
+</DIRECTION>
+<CONKLIN>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Who the hell is that?
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+EXT. ZURICH AIRPORT HOTEL -- NIGHT
+</DIRECTION>
+<DIRECTION>
+A drone barn. Practically on the runway.
+</DIRECTION>
+<DIRECTION>
+INT. ZURICH AIRPORT HOTEL ROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+One of those rooms. Just a plain functional box. MANHEIM laying on the bed. Fully dressed. Suit and tie. Just laying there, staring at the ceiling. Who knows how long he's been like this.
+</DIRECTION>
+<DIRECTION>
+Just waiting.
+</DIRECTION>
+<DIRECTION>
+ON THE NIGHTSTAND -- A gun. A knife. His e-phone pager. His fresh credentials. And a photo of Jason Bourne.
+</DIRECTION>
+<DIRECTION>
+INT. WOMBOSI'S PARIS COMPOUND -- NIGHT
+</DIRECTION>
+<DIRECTION>
+Quick orientation: Picture a heavily-walled palace just off the Bois Du Boulogne. But once inside you could be back in Brazzaville. It's just a buffet of oddness. Home to fifty children and nine wives. The decor blends money and nouveau riche materialism with a hard, back-home tribal esthetic. It's a visual treat. Not condescending or stupid, but flat- out strange and menacing.
+</DIRECTION>
+<DIRECTION>
+It's late. And the palace is dark and sleepy now, but carry all that through this next series of quick shots --
+</DIRECTION>
+<DIRECTION>
+WOMBOSI HOUSE SECURITY STATION
+</DIRECTION>
+<DIRECTION>
+Just inside the door. BODYGUARD #1 slouched before a bank of SECURITY MONITORS.
+</DIRECTION>
+<DIRECTION>
+WOMBOSI MAIN HALLWAY
+</DIRECTION>
+<DIRECTION>
+Littered with toys. Children's crap everywhere. BODYGUARD #3. Snoozing on a Louis Quatorze chair draped with African cloth.
+</DIRECTION>
+<DIRECTION>
+WOMBOSI THRONE ROOM DOORS
+</DIRECTION>
+<DIRECTION>
+DEAUVAGE -- head bodyguard -- posted outside this imposing set of doors. He's trying to stay awake. Reading a spy thriller.
+</DIRECTION>
+<DIRECTION>
+FINALLY TO
+</DIRECTION>
+<DIRECTION>
+WOMBOSI'S THRONE ROOM
+</DIRECTION>
+<DIRECTION>
+And there he is -- the emperor himself -- WOMBOSI on his throne. Except the room is dark and empty. And he's sitting there by himself. A king without a country.
+</DIRECTION>
+<DIRECTION>
+Sitting there. With a gun in his lap. Drinking hard from a bottle of Jack Daniels.
+</DIRECTION>
+<DIRECTION>
+Stewing.
+</DIRECTION>
+<DIRECTION>
+EXT. FRENCH ROADSIDE -- DAWN
+</DIRECTION>
+<DIRECTION>
+Beautiful morning. The red car parked along the road. BOURNE alone in the passenger seat. Deep asleep. Nestled there.
+</DIRECTION>
+<DIRECTION>
+And then, he wakes suddenly. Starts. Freaked for a moment. Instantly feeling for the red bag. There it is in his lap. He looks around and --
+</DIRECTION>
+<DIRECTION>
+MARIE sitting away from the car. She's got a loaf of bread. A soda. Smoking a butt. Same clothes, but her make-up's been washed away. Clean. Simple. Gorgeous.
+</DIRECTION>
+<DIRECTION>
+BOURNE steps out. Morning legs.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	I needed a break.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Where are we?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	We're about an hour away.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I can't believe I slept.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	You were tired. Here...
+	</DIALOGUE>
+<DIRECTION>
+(bread and soda --)
+</DIRECTION>
+	<DIALOGUE>
+	For twenty-thousand I like to throw in breakfast.
+	</DIALOGUE>
+<DIRECTION>
+(he takes it)
+</DIRECTION>
+	<DIALOGUE>
+	So what do you dream about?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I dream I'm asleep. I dream that I'm asleep and I can't wake up.
+	</DIALOGUE>
+<DIRECTION>
+(he takes a hit from her smoke and coughs --)
+</DIRECTION>
+	<DIALOGUE>
+	I don't think I smoke.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Another silence. She's watching him.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	You ever think maybe you have a family?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I thought about it. I don't know.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+She looks away. Was she hoping for another answer?
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	I guess it's like Christmas every day for you, huh?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+INT. TREADSTONE CONKLIN'S OFFICE -- DAY
+</DIRECTION>
+<DIRECTION>
+MARIE'S FACE -- A PASSPORT PHOTO -- she's eighteen -- she's smiling -- really alive and fresh and --
+</DIRECTION>
+<DIRECTION>
+CONKLIN behind his desk. ABBOTT staring grimly at the picture --
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	Who is she?
+	</DIALOGUE>
+</ABBOTT>
+<ZORN>
+	<DIALOGUE>
+	Marie Helene Kreutz. She's twenty- six. Born outside Munich. Father was a welder. He died in '91. We don't have the mother. There might be a step-sister, we're trying to track that down.
+	</DIALOGUE>
+<DIRECTION>
+(apologetic)
+</DIRECTION>
+	<DIALOGUE>
+	It's tough. She's a wanderer. She pops up on the grid here and there but... I mean, the last time she paid an electric bill in Europe was '94. No taxes. No steady employer. She's got three arrests. Two shoplifting cases, one in Spain, one in Germany. And she actually did three months in an Italian detention center for credit card fraud.
+	</DIALOGUE>
+</ZORN>
+<ABBOTT>
+	<DIALOGUE>
+	No political affiliations?
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	She's a gypsy. If it's a cover, it's a great one.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	I'm assuming we're exploring that possibility.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	We're exploring every possibility.
+	</DIALOGUE>
+<DIRECTION>
+(tighter by the moment)
+</DIRECTION>
+	<DIALOGUE>
+	We are in pursuit. How much more do you want me to tell you?
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	Pursuit would indicate that you know exactly where he is.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	No. Pursuit ends when we know exactly where he is.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	Yes, well, I think we need some fresh eyes on this problem. I'm bringing in some people from upstairs.
+	</DIALOGUE>
+</ABBOTT>
+<DIRECTION>
+CONKLIN hesitates. Inside he's screaming.
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	We've been down here for two weeks banging our heads against the wall. We've been sleeping down here. We just got our first lead fourteen hours ago, and now? -- now that we finally have something to work with -- you want to bring planning personnel down here?
+	</DIALOGUE>
+<DIRECTION>
+(real steam)
+</DIRECTION>
+	<DIALOGUE>
+	I'd rethink that.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	I want a second opinion.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	This is an operations desk.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	I'm not asking.
+	</DIALOGUE>
+</ABBOTT>
+<DIRECTION>
+EXT. PARIS STREET NEAR BOURNE'S APARTMENT -- DAY
+</DIRECTION>
+<DIRECTION>
+THE LITTLE RED CAR cruising through town.
+</DIRECTION>
+<DIRECTION>
+INT. THE LITTLE RED CAR -- DAY
+</DIRECTION>
+<DIRECTION>
+MARIE driving. BOURNE checking building numbers as they pass --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Slow down. No, don't stop. Just...
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+<DIRECTION>
+(looking over)
+</DIRECTION>
+	<DIALOGUE>
+	That's it? Is that it?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+AN APARTMENT BUILDING. Big building. Elegant but cold.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Four-fifty. That's the address...
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Looks familiar?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+<DIRECTION>
+(staring back as they pass --)
+</DIRECTION>
+	<DIALOGUE>
+	No. Go around. Keep going...
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE pulling up -- turning a corner -- watching him as she does. But he's pre-occupied -- eyes scanning -- taking it all in --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Yeah. Pull in here. Park it.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE angles into an alleyway. Cuts the engine.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	So this is it, right?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I guess.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Dead pause. She's waiting. He's still scanning the street.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	I should go.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I don't remember any of this.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Jason...
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+He turns back. She's staring at him.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Sorry. The money, right?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Before she can say anything, he's digging in the backpack. He pulls out another stack of hundreds. Hands it over. She takes it. It's not what she wanted, but she's used to being disappointed. Fighting it.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Okay, so...
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Thanks for the ride.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Anytime.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+Silence. That moment. He focuses. Getting it.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Look, I don't know what's up there.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	You got me pretty fucking curious.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Look, you could come up. Or you could wait if you want. I could go check it out. You could wait.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Nah...
+	</DIALOGUE>
+<DIRECTION>
+(hide the pain)
+</DIRECTION>
+	<DIALOGUE>
+	With you, I mean, you'd probably just forget about me, right?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	How could I forget about you?
+	</DIALOGUE>
+<DIRECTION>
+(he smiles)
+</DIRECTION>
+	<DIALOGUE>
+	You're the only person I know.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE smiles. We've never seen it before. Worth waiting for.
+</DIRECTION>
+<DIRECTION>
+INT. PARIS APARTMENT BUILDING FOYER -- NIGHT
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE standing at the directory. Five apartments. One per floor. Five names. A buzzer. An intercom. There it is.
+</DIRECTION>
+<DIRECTION>
+J. Bourne.
+</DIRECTION>
+<DIRECTION>
+BOURNE presses the buzzer. After a moment, he presses again. Nothing.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	I guess you're not home.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE checking the door. How to pop it open? Just about to get into it, when --
+</DIRECTION>
+<CONCIERGE>
+<DIRECTION>
+(O.S.) (from the shadows inside --)
+</DIRECTION>
+	<DIALOGUE>
+	Monsieur Bourne...I'm coming...
+	</DIALOGUE>
+</CONCIERGE>
+<DIRECTION>
+THE CONCIERGE is sixty. Plump and proper.
+</DIRECTION>
+<CONCIERGE>
+<DIRECTION>
+(opening the door --)
+</DIRECTION>
+	<DIALOGUE>
+	Mr. Bourne, there you are -- I was wondering -- I haven't seen you --
+	</DIALOGUE>
+</CONCIERGE>
+<BOURNE>
+	<DIALOGUE>
+	Here I am.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+THE CONCIERGE looking at BOURNE like maybe she's never seen him look like this before. And she's looking at MARIE like here's the reason her tenant looks like such shit.
+</DIRECTION>
+<BOURNE>
+<DIRECTION>
+(he tries a smile)
+</DIRECTION>
+	<DIALOGUE>
+	I seem to have lost my key.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+THE CONCIERGE nods. Instant chilly disapproval.
+</DIRECTION>
+<CONCIERGE>
+	<DIALOGUE>
+	I've been ringing your bell. It's good you were away. We had some trouble with the hot water. It's been repaired.
+	</DIALOGUE>
+</CONCIERGE>
+<BOURNE>
+	<DIALOGUE>
+	Great. We could use a shower.
+	</DIALOGUE>
+<DIRECTION>
+(they look like shit --)
+</DIRECTION>
+	<DIALOGUE>
+	It was a long drive.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+THE CONCIERGE steps aside and --
+</DIRECTION>
+<DIRECTION>
+INT. PARIS APARTMENT FIFTH FLOOR LANDING -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE at the apartment threshold. He has a key now.
+</DIRECTION>
+<DIRECTION>
+Turning it. And the door opens...
+</DIRECTION>
+<DIRECTION>
+Nothing...
+</DIRECTION>
+<DIRECTION>
+No bombs. No wife and kids. No one.
+</DIRECTION>
+<DIRECTION>
+INT. PARIS APARTMENT -- DAY
+</DIRECTION>
+<DIRECTION>
+A huge, rambling flat. Large entry hallway. Large rooms beyond that. It's obviously expensive. But cold. Completely impersonal. No photographs. No mementoes. No human history.
+</DIRECTION>
+<DIRECTION>
+WE'RE MOVING NOW
+</DIRECTION>
+<DIRECTION>
+THE LIVING ROOM
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE exploring.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	It's big.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE silent. Struggling to get a feel for the place.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	This is like a real apartment.
+	</DIALOGUE>
+<DIRECTION>
+(she likes it)
+</DIRECTION>
+	<DIALOGUE>
+	This is really yours?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I guess so.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE taking it in fast. BOURNE seems paralyzed. Trying to soak it all in. Willing himself home. Touching things as he passes. As if a texture, a smell -- something will become familiar. He's deep into this as we go to --
+</DIRECTION>
+<DIRECTION>
+THE BEDROOM
+</DIRECTION>
+<DIRECTION>
+MARIE in the doorway. Checking it out. It's so clean and simple. But it's not the decor she's most interested in...
+</DIRECTION>
+<DIRECTION>
+MARIE opening an armoire...
+</DIRECTION>
+<DIRECTION>
+Nothing but men's clothes. No competition. She's feeling better by the moment as we go to --
+</DIRECTION>
+<DIRECTION>
+THE KITCHEN
+</DIRECTION>
+<DIRECTION>
+Like a stage set. Lots of props and no sign of food. BOURNE picking up a frying pan.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	This is my frying pan.
+	</DIALOGUE>
+<DIRECTION>
+(and then --)
+</DIRECTION>
+	<DIALOGUE>
+	This is my spoon.
+	</DIALOGUE>
+<DIRECTION>
+(trying harder)
+</DIRECTION>
+	<DIALOGUE>
+	I'm Jason Bourne and this is my kitchen.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+THE MASTER BATHROOM
+</DIRECTION>
+<DIRECTION>
+MARIE still on the prowl. Mirror city. Big tub. One toothbrush.
+</DIRECTION>
+<DIRECTION>
+AN OFFICE STUDY
+</DIRECTION>
+<DIRECTION>
+There's a desk. Chair. Phone. Basic. BOURNE with a folder in his hand. Staring at the bookshelves. Binders, reference materials and hardbound volumes -- all of it about maritime law. Ship schedules. Registry catalogs. All about boats.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	This is your office?
+	</DIALOGUE>
+<DIRECTION>
+(from the doorway)
+</DIRECTION>
+	<DIALOGUE>
+	God, you live like a monk...
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	All this stuff -- it's all about boats.
+	</DIALOGUE>
+<DIRECTION>
+(looking up)
+</DIRECTION>
+	<DIALOGUE>
+	I think I'm in the shipping business.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	See. It's starting to come back, yeah?
+	</DIALOGUE>
+<DIRECTION>
+(he sort of nods)
+</DIRECTION>
+	<DIALOGUE>
+	You mind if I take a bath?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Go ahead.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE backs out. BOURNE alone again. Standing there for a moment. Dealing with it.
+</DIRECTION>
+<DIRECTION>
+And then he sits down in a chair.
+</DIRECTION>
+<DIRECTION>
+BOURNE sitting there. Staring. The room, the desk -- it's all so devoid of personality. And then, something catches his eye and --
+</DIRECTION>
+<DIRECTION>
+INSERT -- THE DESK TOP -- a faint silhouette through the dust and grime. Outlines of where a computer used to sit.
+</DIRECTION>
+<DIRECTION>
+BOURNE reaching suddenly under the desk. Bingo. Pulling out a retractable computer keyboard tray. But it's empty. No keyboard. Now he's really confused and --
+</DIRECTION>
+<DIRECTION>
+INSERT -- A PHONE/ANSWERING MACHINE -- BOURNE pressing the playback button and --
+</DIRECTION>
+<PHONE_MACHINE>
+	<DIALOGUE>
+	"You have no messages."
+	</DIALOGUE>
+</PHONE_MACHINE>
+<DIRECTION>
+BOURNE leaving that for a moment -- about to anyway -- and then he turns back -- new idea -- pressing for the speaker phone -- and then hitting redial and --
+</DIRECTION>
+<DIRECTION>
+THE PHONE stars dialing...
+</DIRECTION>
+<DIRECTION>
+RINGING and...
+</DIRECTION>
+<OPERATOR_PHONE>
+	<DIALOGUE>
+	Bonjour, Hotel Marboeuf...
+	</DIALOGUE>
+</OPERATOR_PHONE>
+<DIRECTION>
+BOURNE quick grabbing the receiver. Taking it off speakerphone and --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	...yes -- oui -- uh...
+	</DIALOGUE>
+</BOURNE>
+<OPERATOR_PHONE>
+	<DIALOGUE>
+	Yes, sir. Hotel Marboeuf, Paris. How can I direct your call?
+	</DIALOGUE>
+</OPERATOR_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Paris?
+	</DIALOGUE>
+</BOURNE>
+<OPERATOR_PHONE>
+	<DIALOGUE>
+	Yes, sir...
+	</DIALOGUE>
+<DIRECTION>
+(switching to English,
+</DIRECTION>
+	<DIALOGUE>
+	thinking that's his
+	</DIALOGUE>
+<DIRECTION>
+problem --)
+</DIRECTION>
+	<DIALOGUE>
+	How can I help you?
+	</DIALOGUE>
+</OPERATOR_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Yes, I'm...I'm looking for Mr. Jason Bourne.
+	</DIALOGUE>
+</BOURNE>
+<OPERATOR_PHONE>
+	<DIALOGUE>
+	One moment, please...
+	</DIALOGUE>
+<DIRECTION>
+(a long pause, and then --)
+</DIRECTION>
+	<DIALOGUE>
+	I'm afraid, I have no one by that name registered, sir.
+	</DIALOGUE>
+</OPERATOR_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	D'accord... Merci.
+	</DIALOGUE>
+<DIRECTION>
+(about to hang up--)
+</DIRECTION>
+	<DIALOGUE>
+	Un moment -- un moment --
+	</DIALOGUE>
+</BOURNE>
+<OPERATOR_PHONE>
+	<DIALOGUE>
+	-- sir? --
+	</DIALOGUE>
+</OPERATOR_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	-- hang on -- I need you to check another name for me -- hang on -- un moment, s'il vous plait --
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+BOURNE grabbing the backpack -- tearing through it -- where is it? -- where is it? -- shit and money falling out and --
+</DIRECTION>
+<DIRECTION>
+There it is -- from the safe-deposit box -- that piece of card stock -- the one with no passport attached to it --
+</DIRECTION>
+<BOURNE>
+<DIRECTION>
+(reading it)
+</DIRECTION>
+	<DIALOGUE>
+	Kane. Do you have Mr. John Michael Kane?
+	</DIALOGUE>
+</BOURNE>
+<OPERATOR_PHONE>
+	<DIALOGUE>
+	One moment, sir.
+	</DIALOGUE>
+</OPERATOR_PHONE>
+<DIRECTION>
+BOURNE waiting. And then there's muzak -- holding music and --
+</DIRECTION>
+<DIRECTION>
+THE MASTER BATHROOM
+</DIRECTION>
+<DIRECTION>
+Water running in the tub. MARIE pulling off her boots. Checking the temperature.
+</DIRECTION>
+<DIRECTION>
+THE OFFICE STUDY
+</DIRECTION>
+<DIRECTION>
+Bourne still on hold. And then --
+</DIRECTION>
+<MANAGER_PHONE>
+<DIRECTION>
+(a new voice suddenly)
+</DIRECTION>
+	<DIALOGUE>
+	Bonjour? Monsieur? Allo...
+	</DIALOGUE>
+</MANAGER_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Yes, I'm here...
+	</DIALOGUE>
+</BOURNE>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	You call about Monsieur Kane? John Michael Kane?
+	</DIALOGUE>
+</MANAGER_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Yes. Is he there?
+	</DIALOGUE>
+</BOURNE>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	You are a friend of his?
+	</DIALOGUE>
+</MANAGER_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</BOURNE>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	I have some very bad news for you, sir. I'm terrible sorry to have to tell you this, but Monsieur Kane has passed away almost two weeks ago...
+	</DIALOGUE>
+</MANAGER_PHONE>
+<DIRECTION>
+Silence. BOURNE is rocked. But the Manager, it's natural, he interprets the silence as grief...
+</DIRECTION>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	There was an accident. On the motorway. Apparently, he was killed instantly. Really, I'm terrible sorry to be the one to tell you this...
+	</DIALOGUE>
+</MANAGER_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	...I understand...
+	</DIALOGUE>
+</BOURNE>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	...we actually, we were unaware for several days that this had happened. When they came for his things, it was made known for us, you see?
+	</DIALOGUE>
+</MANAGER_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Who? Who came?
+	</DIALOGUE>
+</BOURNE>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	His brother. You know his brother?
+	</DIALOGUE>
+</MANAGER_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Right. Yes. Of course.
+	</DIALOGUE>
+</BOURNE>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	It's very bad this. Terrible sad. Such a young man.
+	</DIALOGUE>
+</MANAGER_PHONE>
+<BOURNE>
+	<DIALOGUE>
+	Do you -- his brother -- do you have a phone number?
+	</DIALOGUE>
+</BOURNE>
+<MANAGER_PHONE>
+	<DIALOGUE>
+	I think not...
+	</DIALOGUE>
+<DIRECTION>
+(quick French to
+</DIRECTION>
+	<DIALOGUE>
+	someone in the office
+	</DIALOGUE>
+<DIRECTION>
+there --)
+</DIRECTION>
+	<DIALOGUE>
+	No, I'm sorry. It was very sudden. He was here very briefly.
+	</DIALOGUE>
+</MANAGER_PHONE>
+<DIRECTION>
+BOURNE just hands up the phone. Just like that. Not even goodbye. Standing there frozen. Stunned. John Michael Kane is dead. And he had the passport.
+</DIRECTION>
+<DIRECTION>
+Suddenly, everything's changed. They shouldn't be here. This is bad. Danger.
+</DIRECTION>
+<DIRECTION>
+THE MASTER BATHROOM
+</DIRECTION>
+<DIRECTION>
+MARIE playing with her hair in the mirror. Checking the water --
+</DIRECTION>
+<MARIE>
+<DIRECTION>
+(calling out to him --)
+</DIRECTION>
+	<DIALOGUE>
+	She wasn't kidding about the water. It's freezing.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+THE OFFICE
+</DIRECTION>
+<DIRECTION>
+BOURNE frozen there. On alert. He forces a smile. Decoy mood.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Hang on. I'll check the kitchen...
+	</DIALOGUE>
+<DIRECTION>
+(moving out of the office --)
+</DIRECTION>
+	<DIALOGUE>
+	Maybe it takes a while to get all the way upstairs.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+THE KITCHEN
+</DIRECTION>
+<DIRECTION>
+BOURNE moving to the sink. He's smiling. Upbeat. But it's an act. His eyes are everywhere. Turning on the water. But ignoring it. What he's really doing is searching out a weapon. Pulling A KNIFE very quietly from behind the stove. Holding it. Feels pretty comfortable. Hiding it down by his side. On the move again, now --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Yeah, it's cold in here, too...
+	</DIALOGUE>
+<DIRECTION>
+(calling to her as he goes --)
+</DIRECTION>
+	<DIALOGUE>
+	Let's give it another minute.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+BOURNE like we've ever seen him. Like an animal. Every sound -- every breeze -- everything carries information.
+</DIRECTION>
+<DIRECTION>
+Standing still. Taking it all in.
+</DIRECTION>
+<DIRECTION>
+Real quick layout -- there's big windows along one wall that face out to the street below. The hallway to the bedroom and bath feeds into the living room from one side. There is a large frosted airshaft window along that hallway wall. Simple furniture.
+</DIRECTION>
+<MARIE>
+<DIRECTION>
+(suddenly --)
+</DIRECTION>
+	<DIALOGUE>
+	-- omigod! --
+	</DIALOGUE>
+<DIRECTION>
+(she's behind him --)
+</DIRECTION>
+	<DIALOGUE>
+	-- what're you? -- no -- no --
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+MARIE backing away -- completely freaked -- BOURNE standing there with the knife in his hand and --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	-- no -- Marie -- no! -- it's not like that --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- please -- Jason -- omigod --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- quiet -- quiet --
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE -- frightened -- confused -- paralyzed for a moment --
+</DIRECTION>
+<DIRECTION>
+BOURNE glancing back -- a curtain fluttering behind him -- motioning for MARIE to get down -- do it -- now -- down!
+</DIRECTION>
+<DIRECTION>
+MARIE hesitating and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- what's he doing? -- he's unscrewing a lightbulb from a lamp beside him and --
+</DIRECTION>
+<DIRECTION>
+MARIE about to say something -- he shakes her off --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- knife in one hand -- lightbulb in the other -- putting his foot on a chair in front of him and --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	...what are you doing?...
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE waving her to shut up -- crawl -- now -- back up -- get under the window -- go! --
+</DIRECTION>
+<DIRECTION>
+MARIE -- he seems so sure -- it's weird, but she's doing it -- she's under that frosted window -- down below the sill -- looking back -- what the fuck is he doing now? --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- the lightbulb -- he's tossing it across the room -- over her head -- into that frosted window and --
+</DIRECTION>
+<DIRECTION>
+As she ducks down --
+</DIRECTION>
+<DIRECTION>
+As it SHATTERS --
+</DIRECTION>
+<DIRECTION>
+EVERYTHING STARTS HAPPENING AT ONCE
+</DIRECTION>
+<DIRECTION>
+PHFT!-PHFT!-PHFT!-PHFT!-PHFT!-PHFT! -- silenced automatic weapons fire -- raking into the apartment and --
+</DIRECTION>
+<DIRECTION>
+THE FROSTED WINDOW peppered with holes and --
+</DIRECTION>
+<DIRECTION>
+MARIE on the floor as THE WINDOW SHATTERS above her and --
+</DIRECTION>
+<DIRECTION>
+CASTEL -- he's in the airshaft! -- hanging from an abseil rope -- but off guard -- FIRING BLIND -- strafing the apartment and --
+</DIRECTION>
+<DIRECTION>
+BOURNE kicking that chair across the room and --
+</DIRECTION>
+<DIRECTION>
+CASTEL reacting -- instinct -- moving target --
+</DIRECTION>
+<DIRECTION>
+THE CHAIR just strafed to shit and --
+</DIRECTION>
+<DIRECTION>
+BOURNE rolling away and --
+</DIRECTION>
+<DIRECTION>
+CASTEL -- he's coming in -- last pieces of window frame CRASHING AWAY as he swings into the apartment and --
+</DIRECTION>
+<DIRECTION>
+MARIE -- right below him -- shit raining down as he flies in and --
+</DIRECTION>
+<DIRECTION>
+BOURNE throwing the knife and --
+</DIRECTION>
+<DIRECTION>
+CASTEL -- turning -- too late -- the knife catching him in the neck and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- in motion -- attacking and --
+</DIRECTION>
+<DIRECTION>
+CASTEL -- knife impaled in his neck -- clawing for it with one hand -- trying to get off a shot and --
+</DIRECTION>
+<DIRECTION>
+APARTMENT WALL -- PHFT!-PHFT!-PHFT!-PHFT!-PHFT! -- gunfire tearing wildly around the room and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- full-stop -- kicking the gun -- kicking it up -- ROUNDS TEARING ACROSS THE CEILING and --
+</DIRECTION>
+<DIRECTION>
+MARIE -- SCREAMING NOW -- trying to crawl away and --
+</DIRECTION>
+<DIRECTION>
+CASTEL -- no chance -- off balance -- BOURNE -- his open palm driving up into CASTEL'S JAW -- the body wants to fall backward, but BOURNE has the guy's arm in his free hand -- jerking it like rope -- tearing it from it's socket and --
+</DIRECTION>
+<DIRECTION>
+THE GUN CLATTERING FREE across the floor and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- his knee -- like a piston -- hard into CASTEL'S GUT -- and then down -- his foot -- down into CASTEL'S KNEE, shattering it and --
+</DIRECTION>
+<DIRECTION>
+CASTEL is on the floor -- stunned -- wiped -- knife pouring blood from his neck -- arm hanging like a rag doll -- bone torn through his pant leg above the knee and --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	omigod -- omigod -- what're you doing? -- what're you doing? --
+	</DIALOGUE>
+<DIRECTION>
+(incoherent fear and
+</DIRECTION>
+	<DIALOGUE>
+	confusion, German
+	</DIALOGUE>
+<DIRECTION>
+and English and--)
+</DIRECTION>
+	<DIALOGUE>
+	-- what is he? -- what've you? -- omigod -- what is this? --
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE ignoring her -- grabbing the guy's backpack --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	-- what're you doing? -- Jason, please, tell me what's happening!
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Open it --
+	</DIALOGUE>
+<DIRECTION>
+(tossing Castel's backpack behind him --)
+</DIRECTION>
+	<DIALOGUE>
+	-- do it -- what's he got in there?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+CASTEL -- eyes wild -- tries to make his feet --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+<DIRECTION>
+(kicking him down--)
+</DIRECTION>
+	<DIALOGUE>
+	-- who are you?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+CASTEL -- crablike against a wall -- bloody hands leaving a mess as he struggles to get to his feet --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	-- who are you? -- tell me who you are -- who sent you? --
+	</DIALOGUE>
+<DIRECTION>
+(bearing down)
+</DIRECTION>
+	<DIALOGUE>
+	-- what is this about? -- YOU'VE GOT TO TELL ME WHAT THIS IS ABOUT! --
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+CASTEL -- staring back -- eyes wild -- mouth shut -- his expression -- is it terror or pure steel? --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	WHY ARE YOU TRYING TO KILL ME?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+<DIRECTION>
+(suddenly from behind)
+</DIRECTION>
+	<DIALOGUE>
+	...omigod, no...
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+MARIE -- the guy's backpack -- something in her hand -- and as freaked out as she was a moment ago -- this is worse --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	What? -- what? --
+	</DIALOGUE>
+<DIRECTION>
+(attention split --)
+</DIRECTION>
+	<DIALOGUE>
+	-- what is it?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	...this is my picture... he's got my picture --
+	</DIALOGUE>
+<DIRECTION>
+(holding it up, in horror --)
+</DIRECTION>
+	<DIALOGUE>
+	-- this is me -- this is Zurich -- this... this... this is yesterday --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- just --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- where does this come from? --
+	</DIALOGUE>
+<DIRECTION>
+(to Castel)
+</DIRECTION>
+	<DIALOGUE>
+	How do you have my picture?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Marie, just --
+	</DIALOGUE>
+<DIRECTION>
+(waving her back --)
+</DIRECTION>
+	<DIALOGUE>
+	-- just stay there! -- just --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- he's got my picture! -- this is yesterday! -- this is me! --
+	</DIALOGUE>
+<DIRECTION>
+(out of control now --)
+</DIRECTION>
+	<DIALOGUE>
+	-- where did you get my picture? --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- let me do this, okay? --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- do what? -- what are you doing? -- he's got my picture --
+	</DIALOGUE>
+<DIRECTION>
+(just apoplectic --)
+</DIRECTION>
+	<DIALOGUE>
+	-- he's -- my God -- look at him -- he's bleeding to death -- my picture -- look! -- he was trying to kill us! -- omigod --
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+Now there's KNOCKING AT THE DOOR and --
+</DIRECTION>
+<THE_CONCIERGE>
+<DIRECTION>
+(muffled but urgent)
+</DIRECTION>
+	<DIALOGUE>
+	Mister Bourne! Mister Bourne! What's going on? Is everything all right in there?
+	</DIALOGUE>
+<DIRECTION>
+(-- and she keeps banging and --)
+</DIRECTION>
+<DIRECTION>
+MARIE is past the point of rationality and CASTEL is bleeding and shaking and BOURNE is trying to think and it's just impossible and --
+</DIRECTION>
+<DIRECTION>
+Suddenly -- CASTEL is moving! -- and fast -- it's superhuman -- unbelievable -- just enough spring in his good leg and --
+</DIRECTION>
+<DIRECTION>
+BOURNE bracing himself but --
+</DIRECTION>
+<DIRECTION>
+CASTEL isn't attacking! -- he's running away -- he's crossing the living room -- but there's nowhere to go -- absolutely nowhere -- except --
+</DIRECTION>
+<DIRECTION>
+THE WINDOW
+</DIRECTION>
+<DIRECTION>
+CASTEL hurling himself into the glass and --
+</DIRECTION>
+<DIRECTION>
+EXT. THE PARIS APARTMENT BUILDING -- DAY
+</DIRECTION>
+<DIRECTION>
+WINDOW SHATTERING! -- CASTEL -- in a cloud of broken glass -- sixty feet above the street --
+</DIRECTION>
+<DIRECTION>
+Falling and falling and...
+</DIRECTION>
+<DIRECTION>
+IMPACT! -- landing on the roof of a parked car and --
+</DIRECTION>
+<DIRECTION>
+INT. THE PARIS APARTMENT -- DAY
+</DIRECTION>
+<DIRECTION>
+THE APARTMENT -- BOURNE in motion -- five things at once -- checking the window -- kicking the gun away -- grabbing the red bag -- grabbing what he can -- no time to spare and --
+</DIRECTION>
+<THE_CONCIERGE>
+<DIRECTION>
+(still outside the door--)
+</DIRECTION>
+	<DIALOGUE>
+	--I'm calling the police, Mr. Bourne -- you give me no choice -- I'm calling them right away! --
+	</DIALOGUE>
+</THE_CONCIERGE>
+<BOURNE>
+	<DIALOGUE>
+	-- your shoes -- Marie! -- where? -- where are your shoes? -- Marie --
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE standing there in utter shock -- paralyzed -- the picture in her hand -- the broken glass -- all of what just happened --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	He's dead isn't he?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Marie -- look at me -- there's no time for this --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	He went out the window -- why? -- why would someone do that?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- we can't stay here -- I can't stay here -- it's not safe here --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	He came to kill us.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- we can go -- I can get us out of here -- but we have to go now --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	You knew he was coming.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	I trusted you.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	You're wrong. I didn't know.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	I don't trust anybody and I trusted you!
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I didn't know this would happen.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	He had my picture! He knew I was here! He came here to kill us!
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	And where is he now?
+	</DIALOGUE>
+<DIRECTION>
+(that gets her quiet)
+</DIRECTION>
+	<DIALOGUE>
+	You believe what you want, but I'm telling you the truth -- I never would have brought you here if I thought it was dangerous.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+<DIRECTION>
+(totally overwhelmed)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, Jesus...
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	You stay -- if you want, you stay -- it's okay -- it's better -- maybe it's better -- I don't know --
+	</DIALOGUE>
+<DIRECTION>
+(starting to back away --)
+</DIRECTION>
+	<DIALOGUE>
+	But I can't stay here. I can't.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	But the police --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- there's no time --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- we'll explain it --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- how? --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- there's two of us -- we'll tell them -- we'll just --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	-- forget it --
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	-- we'll tell them what happened --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I don't know what happened!
+	</DIALOGUE>
+<DIRECTION>
+(huge here)
+</DIRECTION>
+	<DIALOGUE>
+	I don't know who he is! I don't know what he wants! I don't even know who I am! The only thing I know is that if I stay here, I'm never gonna find out!
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+BOURNE -- that's it -- grabbing the backpack -- pulling it on -- just about to make his move --
+</DIRECTION>
+<DIRECTION>
+She's standing there. Just utterly swamped. Lost.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Come with me.
+	</DIALOGUE>
+<DIRECTION>
+(she turns back, he's waiting --)
+</DIRECTION>
+	<DIALOGUE>
+	I can get us out of here. I know it. Then we can think. Then we can work it out. We'll explain it then. Once we're safe.
+	</DIALOGUE>
+<DIRECTION>
+(rock solid)
+</DIRECTION>
+	<DIALOGUE>
+	I can protect you.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+EXT. THE PARIS APARTMENT BUILDING -- DAY
+</DIRECTION>
+<DIRECTION>
+A CROWD is gathered around CASTEL'S BODY. Rubberneckers and people pointing up to the broken window -- THE CONCIERGE running out to the street and getting the news and THE SOUND OF SIRENS bleeding in from the distance and --
+</DIRECTION>
+<DIRECTION>
+THE CAMERA PULLS BACK TO FIND
+</DIRECTION>
+<DIRECTION>
+THE LITTLE RED CAR pulling out of the alley. Turning away from the scene. Disappearing into the streets of Paris --
+</DIRECTION>
+<DIRECTION>
+INT. WOMBOSI COMPOUND MAIN HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+THRONE ROOM DOORS flying open -- WOMBOSI exploding out into the hallway --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	-- No! -- I say, no! -- they go this far -- out a body in the grave -- another body! -- no! -- this isn't over -- these people are not finished -- nothing will make them finish until they have Wombosi! -- the real Wombosi -- until I'm the one in the box! --
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+SIX KIDS -- TWO WIVES -- THREE BODYGUARDS -- all startled by this steamrolling mass of energy and paranoia --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	-- what are you doing? --
+	</DIALOGUE>
+<DIRECTION>
+(bearing down on Bodyguard #2 --)
+</DIRECTION>
+	<DIALOGUE>
+	-- sleeping? --
+	</DIALOGUE>
+<DIRECTION>
+(to Deauvage --)
+</DIRECTION>
+	<DIALOGUE>
+	-- he's sleeping! -- this man is sleeping at his post! --
+	</DIALOGUE>
+<DIRECTION>
+(kicking the chair out from under him --)
+</DIRECTION>
+	<DIALOGUE>
+	-- I've had men killed for this! --
+	</DIALOGUE>
+<DIRECTION>
+(but he's still moving --)
+</DIRECTION>
+	<DIALOGUE>
+	-- you think these people? -- these people who come for me -- you think they sleep? -- they never sleep! -- they spend all the day -- all the night -- all time thinking about how to put Wombosi in that box! --
+	</DIALOGUE>
+<DIRECTION>
+(he's just gonna keep
+</DIRECTION>
+	<DIALOGUE>
+	going, and we're
+	</DIALOGUE>
+<DIRECTION>
+into--)
+</DIRECTION>
+<DIRECTION>
+A MASSIVE ONE-TAKE TRACKING SHOT
+</DIRECTION>
+<DIRECTION>
+DEAUVAGE on his feet -- racing to follow -- KIDS scattering out of the way -- THE WIVES completely unfazed and --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	-- there is no box for Wombosi! -- they don't have a box that can hold me! -- I know these people -- I know they never sleep! -- I know they never stop! -- they never stop until the knife is at their throat! --
+	</DIALOGUE>
+<DIRECTION>
+(suddenly distracted --)
+</DIRECTION>
+	<DIALOGUE>
+	-- what is the window? -- this window is open! -- who leaves this open! --
+	</DIALOGUE>
+<DIRECTION>
+(before Deauvage can possibly respond --)
+</DIRECTION>
+	<DIALOGUE>
+	-- this is a war, you fool! -- you think these people are like you? -- you think this is stupid people? -- careless people? -- these people see an open window, they reach in with a big hand and grab your heart until you die! --
+	</DIALOGUE>
+<DIRECTION>
+(still rolling as--)
+</DIRECTION>
+<DIRECTION>
+WE'RE HEADING DOWN TO THE POOL
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	-- and it won't just be me! -- they don't just want Wombosi now! -- they want my babies -- they want my children! -- and I say no! --
+	</DIALOGUE>
+<DIRECTION>
+(grabbing Deauvage --)
+</DIRECTION>
+	<DIALOGUE>
+	-- you leave that window open again, you better pray they kill me --
+	</DIALOGUE>
+<DIRECTION>
+(something's caught
+</DIRECTION>
+	<DIALOGUE>
+	his ear in the distance and now he's trying to get
+	</DIALOGUE>
+<DIRECTION>
+there --)
+</DIRECTION>
+	<DIALOGUE>
+	-- everything changes here now! -- everyone is a soldier here now! -- this is a fortress now! Are we clear with this?
+	</DIALOGUE>
+</WOMBOSI>
+<DEAUVAGE>
+	<DIALOGUE>
+	Yes, sir. All clear.
+	</DIALOGUE>
+</DEAUVAGE>
+<DIRECTION>
+WOMBOSI stops to look at DEAUVAGE. In the background, we can hear A CHILD CRYING by the pool --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	This man is out there. Kane is out there. And they pretend he's dead. That means he's coming back.
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+WOMBOSI moving quickly now and WE'RE STILL TRACKING -- taking him into --
+</DIRECTION>
+<DIRECTION>
+THE POOL AREA
+</DIRECTION>
+<DIRECTION>
+FORTY KIDS going nuts in the water. ONE KID crying. WOMBOSI like a shot -- picking the kid up -- drying his tears -- making a funny face -- getting a smile as --
+</DIRECTION>
+<DIRECTION>
+INT. GARE DU NORD -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE stash the red bag in a locker.
+</DIRECTION>
+<DIRECTION>
+INT. CIA PSYCHOACOUSTICS LAB -- DAY
+</DIRECTION>
+<DIRECTION>
+AN ELECTRONICS CONSOLE. Super-tech. Meters -- LEDs -- wave- form analyzers -- audio spectrum filters -- all of this gear dancing and responding to every nuance of --
+</DIRECTION>
+<DIRECTION>
+BOURNE'S VOICE -- OVER SPEAKERS -- we're listening to a recording of the call he made from the apartment to the Hotel Marbeouf Paris --
+</DIRECTION>
+<BOURNE_TAPE>
+	<DIALOGUE>
+	"Okay. Merci."
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	"Un moment -- un moment --"
+	</DIALOGUE>
+</BOURNE_TAPE>
+<OPERATOR_TAPE>
+	<DIALOGUE>
+	"-- sir? --"
+	</DIALOGUE>
+</OPERATOR_TAPE>
+<BOURNE_TAPE>
+	<DIALOGUE>
+	"-- hang on -- I need you to check another name for me -- hang on -- un moment, s'il vous plait --"
+	</DIALOGUE>
+</BOURNE_TAPE>
+<DIRECTION>
+PULL BACK TO REVEAL
+</DIRECTION>
+<DIRECTION>
+A secret studio buried deep in the Langley facility. Equipment up the ass. Five people in this darkened room: AN ENGINEER working the board. CONKLIN looking sour. ZORN in the shadows. ABBOTT sitting there waiting for analysis from --
+</DIRECTION>
+<DIRECTION>
+MRS. DOYLE. She's late sixties. A long-time spy shrink. An eminence. A diamond-hard, seen-it-all intelligence.
+</DIRECTION>
+<BOURNE_TAPE>
+	<DIALOGUE>
+	"Kane. John Michael Kane."
+	</DIALOGUE>
+</BOURNE_TAPE>
+<OPERATOR_TAPE>
+	<DIALOGUE>
+	"One moment, sir."
+	</DIALOGUE>
+</OPERATOR_TAPE>
+<DIRECTION>
+MRS. DOYLE nods to THE ENGINEER. She's heard enough.
+</DIRECTION>
+<MRS_DOYLE>
+	<DIALOGUE>
+	He's not lying. He's very highly stressed, but he's not lying. He's confused. He's aggressively searching for a way out of the chaos. This conversation, the video from the consulate -- the body language, vocal pattern -- it's my sense he's really lost here.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	I think he snapped.
+	</DIALOGUE>
+</MRS_DOYLE>
+<CONKLIN>
+	<DIALOGUE>
+	Is that a medical term?
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+She turns. Battle lines drawn.
+</DIRECTION>
+<MRS_DOYLE>
+	<DIALOGUE>
+	You want clinical terminology? It's called, "conversation hysteria."
+	</DIALOGUE>
+<DIRECTION>
+(to Abbott now --)
+</DIRECTION>
+	<DIALOGUE>
+	I don't know exactly how you train these people. I'm not sure I want to know. I'll take a guess there's some extremely rigorous behavior modification going on here.
+	</DIALOGUE>
+</MRS_DOYLE>
+<DIRECTION>
+Silence. The idea dangling for a moment.
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	Let's assume that's true.
+	</DIALOGUE>
+</ABBOTT>
+<MRS_DOYLE>
+	<DIALOGUE>
+	You can only wind people so tight. Even machines break down.
+	</DIALOGUE>
+</MRS_DOYLE>
+<CONKLIN>
+	<DIALOGUE>
+	This unit has an unblemished record of success.
+	</DIALOGUE>
+</CONKLIN>
+<MRS_DOYLE>
+	<DIALOGUE>
+	Then I guess I'm in the wrong meeting.
+	</DIALOGUE>
+</MRS_DOYLE>
+<DIRECTION>
+EXT. BELLVILLE CAR PARK -- DUSK
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE stashing the red car.
+</DIRECTION>
+<DIRECTION>
+INT. CIA HALLWAY UPSTAIRS HALLWAY -- DAY
+</DIRECTION>
+<DIRECTION>
+ABBOTT and CONKLIN walk and talk. They want to get loud, but they can't. Too many people passing by --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	That was two hours -- two hours to get a second opinion -- and nothing changes. He's loose. He's out of control. It's very clear what needs to happen.
+	</DIALOGUE>
+<DIRECTION>
+(point blank)
+</DIRECTION>
+	<DIALOGUE>
+	I have work to do.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	What if he is working for someone else? What if he turned?
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	Turn? To who? Where does he turn? What does he have to offer? He's got nothing. He's a killer. He's a piece of equipment for crissake. Where's he gonna turn?
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+EXT. HOTEL DE LA PRIX -- NIGHT
+</DIRECTION>
+<DIRECTION>
+Funky. Out of the way. Cash and carry. No-questions-asked kind of flop. Our establishing shot somehow includes THE PROPRIETOR and HIS DOG.
+</DIRECTION>
+<DIRECTION>
+INT. THE HOTEL ROOM BATHROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+HAIR DYE washing down a rusted drain. It's MARIE alone in this crappy little bathroom. Jeans and bra. All of it soaking wet.
+</DIRECTION>
+<DIRECTION>
+A new hair color.
+</DIRECTION>
+<DIRECTION>
+A MIRROR. There she is. Her turn to stare at herself and wonder.
+</DIRECTION>
+<DIRECTION>
+And then she smells something. Smoke...
+</DIRECTION>
+<DIRECTION>
+INT. THE HOTEL ROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+It's a shitty little room. BOURNE sitting on the bed. And the smoke is coming from...
+</DIRECTION>
+<DIRECTION>
+HIS PASSPORT -- the Jason Bourne passport -- on fire. BOURNE holding it as it burns away. Bourne's face -- melting -- bubbling -- finally disappearing, -- BOURNE letting go just before it burns his fingers and --
+</DIRECTION>
+<DIRECTION>
+BOURNE sits back. And there's MARIE standing there. And she's holding out her passport --
+</DIRECTION>
+<DIRECTION>
+He looks at her. Big moment.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+<DIRECTION>
+(he won't do it)
+</DIRECTION>
+	<DIALOGUE>
+	You know who you are. You know what that's worth? That's everything.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I can't live like this. I can't do anything until I know who I am. Believe me, you don't want what I have.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+He looks away. Silence. And then, she touches him. His shoulder.
+</DIRECTION>
+<DIRECTION>
+BOURNE almost recoils. Almost. He doesn't know what to do. Doesn't know how to react.
+</DIRECTION>
+<DIRECTION>
+MARIE in front of him now -- she's taking his hand -- and he hesitates -- looking at her -- is this happening? -- she's taking his hand -- moving it down her body -- staring at him -- both of them silent -- his hand -- her skin -- his mind racing -- he wants this -- wants it in every way -- but it's overwhelming -- when was the last time something like this happened? -- he can't remember -- he doesn't care -- he's pulling her toward him -- and they're kissing -- and you know the rest...
+</DIRECTION>
+<DIRECTION>
+INT. CDG AIRPORT -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR arriving in Paris. Coming through the terminal as his pager goes off -- never even stopping as he reads and --
+</DIRECTION>
+<DIRECTION>
+HOTEL SEQUENCE -- SKETCHED ONLY
+</DIRECTION>
+<DIRECTION>
+HOTEL MARBOEUF PARIS. This is the place that answered the phone when Bourne hit redial in his apartment. This is the place that John Michael Kane was staying when he "died."
+</DIRECTION>
+<DIRECTION>
+And so begins, the investigation...
+</DIRECTION>
+<DIRECTION>
+Now, since the presence of danger -- ie Wombosi's guys and/or Treadstone -- is still up in the air, and since this scene could either play very quickly or very long, and since we're not exactly sure where we stand with page count -- this scene is not finished.
+</DIRECTION>
+<DIRECTION>
+The rules of the scene, however, seem to be thus: Bourne would have to be very nervous about being recognized. If he was Kane and Kane stayed here, he's not the guy to do whatever "social engineering" needs doing.
+</DIRECTION>
+<DIRECTION>
+Long version? Bourne sets the table and Marie gets the goods. Somehow there's a threat from Treadstone or Wombosi.
+</DIRECTION>
+<DIRECTION>
+Fast version? It's all results -- we see them execute a plan rather than work it up. MARIE is already in the hotel. In a hotel uniform? Posing as a guest? In any case, she looks very much different than we've ever seen her before.
+</DIRECTION>
+<DIRECTION>
+She gets close to the office. Hides. Waits. BOURNE calls the desk from a pay phone. Asks for something. We see that some sort of improvised booby-trap has been set inside the hotel to start a fire. In the confusion -- MARIE -- very bravely -- gets into the office. We do a quick cut outside to Bourne waiting and --
+</DIRECTION>
+<DIRECTION>
+EXT. STREET OUTSIDE THE HOTEL MARBOEUF -- DAY
+</DIRECTION>
+<DIRECTION>
+Walk and talk. BOURNE and MARIE leaving the hotel fast. He's on alert -- always on alert now -- making sure they're not being watched. And she's excited and pumped -- she did it! -- she's got the hotel record in hand --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	You stayed there five times in the past six months. But I didn't have time -- I could only get the bill from the last stay -- you were there for two days. Some room service -- there's half a dozen phone calls here so that's someth--
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+<DIRECTION>
+(cutting her off)
+</DIRECTION>
+	<DIALOGUE>
+	Who paid the bill?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	It's a company... MPG Capital.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+INT. AN EMPTY OFFICE SUITE -- DAY
+</DIRECTION>
+<DIRECTION>
+Vacancy wasteland. Dead phone lines hanging. Carpet pulled up. Completely stripped out. BOURNE and MARIE standing there staring.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	This can't be it.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+She turns around -- and what's he doing? -- BOURNE with a piece of paper and pencil -- or something/anything resourceful and handy -- maybe it's carpet lint -- maybe it's breaking the glass on the door and holding it up to the light -- or a rubbing -- anyway, he's doing something ingenious with the glass door --
+</DIRECTION>
+<DIRECTION>
+And as he's doing this, we're hearing --
+</DIRECTION>
+<TELEPHONE_VOICE>
+<DIRECTION>
+(OVER) (British, female)
+</DIRECTION>
+	<DIALOGUE>
+	Destin Navigational, can I help you?
+	</DIALOGUE>
+</TELEPHONE_VOICE>
+<BOURNE_S_VOICE>
+<DIRECTION>
+(OVER)
+</DIRECTION>
+	<DIALOGUE>
+	Hey, how are you. I'm trying to reach Richard? Is he there.
+	</DIALOGUE>
+</BOURNE_S_VOICE>
+<DIRECTION>
+We're watching the MPG LOGO emerge and seeing BOURNE and MARIE react, as we hear --
+</DIRECTION>
+<TELEPHONE_VOICE>
+	<DIALOGUE>
+	I'm afraid there's no Richard here.
+	</DIALOGUE>
+<DIRECTION>
+(continuing into --)
+</DIRECTION>
+<DIRECTION>
+INT./EXT. SHITBAG PARISIAN PHONE BOOTH -- NIGHT
+</DIRECTION>
+<DIRECTION>
+BOURNE on the pay phone. MARIE behind him at the bar. He's got a pad and paper. This is all business.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Well, where are you? Where am I calling?
+	</DIALOGUE>
+</BOURNE>
+<TELEPHONE_VOICE>
+	<DIALOGUE>
+	This is an answering service, sir. The company's located in Southampton, but --
+	</DIALOGUE>
+</TELEPHONE_VOICE>
+<BOURNE>
+	<DIALOGUE>
+	-- this is a tire dealership, right?
+	</DIALOGUE>
+</BOURNE>
+<TELEPHONE_VOICE>
+	<DIALOGUE>
+	No sir, this is a navigational chart registry. I'm afraid you have the wrong number.
+	</DIALOGUE>
+</TELEPHONE_VOICE>
+<DIRECTION>
+Dial tone. BOURNE making a note. And as he does --
+</DIRECTION>
+<DIRECTION>
+TIME CUT -- one minute later -- call number two --
+</DIRECTION>
+<NEW_VOICE>
+<DIRECTION>
+(OVER) (French, male, hassled)
+</DIRECTION>
+	<DIALOGUE>
+	Marseille-Tropez Marina, how can I help you?
+	</DIALOGUE>
+</NEW_VOICE>
+<BOURNE>
+	<DIALOGUE>
+	Hey, so this is the Marina, right?
+	</DIALOGUE>
+</BOURNE>
+<NEW_VOICE>
+	<DIALOGUE>
+	Yes, sir. Can I help you?
+	</DIALOGUE>
+</NEW_VOICE>
+<BOURNE>
+<DIRECTION>
+(he's got the number)
+</DIRECTION>
+	<DIALOGUE>
+	This is the one in Marseille, right?
+	</DIALOGUE>
+</BOURNE>
+<NEW_VOICE>
+<DIRECTION>
+(Last time I looked.)
+</DIRECTION>
+<DIRECTION>
+TIME CUT -- one minute later -- call number three --
+</DIRECTION>
+<OPERATOR_RECORDING>
+<DIRECTION>
+(OVER)
+</DIRECTION>
+	<DIALOGUE>
+	The number you have dialed has been disconnected. If you think you've reached this message in error--
+	</DIALOGUE>
+</OPERATOR_RECORDING>
+<DIRECTION>
+TIME CUT -- one minute later -- last call --
+</DIRECTION>
+<RECORDED_VOICE>
+<DIRECTION>
+(OVER)
+</DIRECTION>
+	<DIALOGUE>
+	"You've reached the office of Simon Rawlins at Alliance Security Maritime Division. Paris office hours are from nine a.m. to six p.m. If this is an emergency, please call our twenty-four hour help line at..."
+	</DIALOGUE>
+</RECORDED_VOICE>
+<DIRECTION>
+BOURNE hangs up. Scribbles down the number. Backing away and --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE RESEARCH DESK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+CONKLIN and the RESEARCH TECHS jamming on the console --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	-- let's check that Interpol window again --
+	</DIALOGUE>
+</CONKLIN>
+<RESEARCH_TECH_1>
+	<DIALOGUE>
+	-- I'm on it --
+	</DIALOGUE>
+</RESEARCH_TECH_1>
+<CONKLIN>
+	<DIALOGUE>
+	-- I want that red car -- the girl -- we gotta get lucky here --
+	</DIALOGUE>
+</CONKLIN>
+<RESEARCH_TECH_2>
+	<DIALOGUE>
+	Sir.
+	</DIALOGUE>
+<DIRECTION>
+(Conklin turns --)
+</DIRECTION>
+	<DIALOGUE>
+	I've got a code here from NSA -- they're not gonna give us Keyhole satellite clearance unless we have sign-off from upstairs.
+	</DIALOGUE>
+</RESEARCH_TECH_2>
+<DIRECTION>
+CONKLIN turns and --
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+<DIRECTION>
+(sitting there tensely)
+</DIRECTION>
+	<DIALOGUE>
+	We can't risk it.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	Our last sighting was forty-eight hours ago. Even if they stayed in the car, the grid is huge.
+	</DIALOGUE>
+<DIRECTION>
+(please)
+</DIRECTION>
+	<DIALOGUE>
+	This is it. He's trained -- conditioned -- they're built to disappear. You give him another day to run and we may never find him.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	This doesn't go upstairs.
+	</DIALOGUE>
+</ABBOTT>
+<DIRECTION>
+CONKLIN left hanging. ABBOTT clear on this one.
+</DIRECTION>
+<DIRECTION>
+EXT. EST. SHOT -- LA DEFENSE -- DAY
+</DIRECTION>
+<DIRECTION>
+Monolithic tech. Reflection city.
+</DIRECTION>
+<DIRECTION>
+INT. ELEVATOR -- LA DEFENSE -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE dressed for success. Suit. Cleaned up good. Catching his reflection in the elevator's mirrored ceiling. Nerves on edge.
+</DIRECTION>
+<DIRECTION>
+INT. OFFICE LOBBY -- DAY
+</DIRECTION>
+<DIRECTION>
+ALLIANCE SECURITY MARITIME DIVISION. Glossy posters of yachts, tankers and luxury sailboats. BOURNE standing there. Sucking it up. God knows what he's walking into here and --
+</DIRECTION>
+<DIRECTION>
+INT. ALLIANCE SECURITY -- DAY
+</DIRECTION>
+<DIRECTION>
+A SECRETARY leading BOURNE through a suite of offices and into --
+</DIRECTION>
+<DIRECTION>
+INT. PETER RAWLINS' OFFICE -- DAY
+</DIRECTION>
+<DIRECTION>
+Meet RAWLINS. He's a young, jolly Brit -- pink and overfed -- and quite shocked to see...
+</DIRECTION>
+<RAWLINS>
+	<DIALOGUE>
+	Mr. Kane...
+	</DIALOGUE>
+<DIRECTION>
+(hastily tidying up)
+</DIRECTION>
+	<DIALOGUE>
+	Come right in... please... have a seat.
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+BOURNE just trying to feel his way through this...
+</DIRECTION>
+<RAWLINS>
+	<DIALOGUE>
+	Well...
+	</DIALOGUE>
+<DIRECTION>
+(really thrown)
+</DIRECTION>
+	<DIALOGUE>
+	I must admit, when my assistant told me you were here I was, really -- I was quite -- I was surprised.
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	Really.
+	</DIALOGUE>
+</BOURNE>
+<RAWLINS>
+	<DIALOGUE>
+	We thought you were gone for good.
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	Did you?
+	</DIALOGUE>
+</BOURNE>
+<RAWLINS>
+	<DIALOGUE>
+	Well, I mean it's a tough business, isn't it? Cutthroat.
+	</DIALOGUE>
+</RAWLINS>
+<DIRECTION>
+A long awkward beat. Neither of them sure where to go.
+</DIRECTION>
+<RAWLINS>
+<DIRECTION>
+(finally)
+</DIRECTION>
+	<DIALOGUE>
+	Look, our bid -- it was competitive -- but definitely at the high end of competitive -- when we didn't hear back from you, we did some re-analysis of the numbers, and honestly, we'd really like a chance to do a bit better.
+	</DIALOGUE>
+<DIRECTION>
+(pitching now)
+</DIRECTION>
+	<DIALOGUE>
+	I'm assuming you're still in the market. It's the same vessel?
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</BOURNE>
+<RAWLINS>
+	<DIALOGUE>
+	We just picked up a job quite like the one we were bidding for you. Gorgeous boat, hundred-and-seventy- five-foot pleasure cruiser. I think we learned a few things that might allow us to make our proposal for your job, as I said, a bit more competitive.
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Another beat. Rawlins holding back until now...
+</DIRECTION>
+<RAWLINS>
+	<DIALOGUE>
+	Was it the break-in?
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	Excuse me?
+	</DIALOGUE>
+</BOURNE>
+<RAWLINS>
+	<DIALOGUE>
+	We also thought we hadn't heard from you -- we've had a bit of a publicity nightmare, people have been talking.
+	</DIALOGUE>
+<DIRECTION>
+(the meat)
+</DIRECTION>
+	<DIALOGUE>
+	Our offices were broken into -- vandalism mostly -- shortly after we last spoke.
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	I hadn't heard.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+RAWLINS smiles. Reset. Sales mode.
+</DIRECTION>
+<RAWLINS>
+	<DIALOGUE>
+	Let me get you a new copy of the proposal.
+	</DIALOGUE>
+</RAWLINS>
+<BOURNE>
+	<DIALOGUE>
+	That'd be great.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+INT. A CAFÉ NEAR LA DEFENSE -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE entering. And there's MARIE in the back working a payphone -- waving for him to sit -- she's onto something.
+</DIRECTION>
+<DIRECTION>
+BOURNE sits. Pulls out the Alliance Security Brochures and literature. Flipping through it. Boats. Water. He's getting closer. Pictures of yachts and various security blurbs and a list of references for huge yachts -- jobs they've done in the past...
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	I found it.
+	</DIALOGUE>
+<DIRECTION>
+(standing there)
+</DIRECTION>
+	<DIALOGUE>
+	It took six calls.
+	</DIALOGUE>
+<DIRECTION>
+(she's creeped out)
+</DIRECTION>
+	<DIALOGUE>
+	I found Kane. I found the body.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Let's go --
+	</DIALOGUE>
+<DIRECTION>
+(already standing --)
+</DIRECTION>
+	<DIALOGUE>
+	We got to get away from this phone.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+INT. PARIS MORGUE FRONT DESK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE TWO MORGUE ATTENDANTS watching BOURNE put down a hundred dollar bill. MARIE standing a little off -- she will not be comfortable in the morgue.
+</DIRECTION>
+<ATTENDANT_1>
+<DIRECTION>
+(picking up the cash)
+</DIRECTION>
+	<DIALOGUE>
+	What was the name again?
+	</DIALOGUE>
+</ATTENDANT_1>
+<BOURNE>
+	<DIALOGUE>
+	Kane. John Michael Kane.
+	</DIALOGUE>
+</BOURNE>
+<ATTENDANT_2>
+	<DIALOGUE>
+	It's number 121.
+	</DIALOGUE>
+</ATTENDANT_2>
+<BOURNE>
+	<DIALOGUE>
+	I want to see the body.
+	</DIALOGUE>
+</BOURNE>
+<ATTENDANT_1>
+	<DIALOGUE>
+	Our boss could come back. We're not supposed to.
+	</DIALOGUE>
+</ATTENDANT_1>
+<DIRECTION>
+BOURNE pulling out another hundred and --
+</DIRECTION>
+<DIRECTION>
+MORGUE FREEZER ROOM
+</DIRECTION>
+<DIRECTION>
+It's showtime. MARIE back by the door. BOURNE right on it. ATTENDANT #1 pulling open the freezer and...
+</DIRECTION>
+<DIRECTION>
+BOURNE sags. ATTENDANT #1 looking baffled.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+INSERT -- FREEZER #121 -- it's empty.
+</DIRECTION>
+<MORGUE_BOSS>
+<DIRECTION>
+(O.S.) (from behind them --)
+</DIRECTION>
+	<DIALOGUE>
+	What the hell's going on here?
+	</DIALOGUE>
+</MORGUE_BOSS>
+<DIRECTION>
+Here comes the boss back from his break -- a little drunk?
+</DIRECTION>
+<ATTENDANT_1>
+	<DIALOGUE>
+	This guy, he came to see the American, but the body, it's missing.
+	</DIALOGUE>
+</ATTENDANT_1>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	They came last night. His brother.
+	</DIALOGUE>
+</MORGUE_BOSS>
+<ATTENDANT_2>
+	<DIALOGUE>
+	It's not in the book.
+	</DIALOGUE>
+</ATTENDANT_2>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	Who are these people?
+	</DIALOGUE>
+<DIRECTION>
+(now English to Bourne)
+</DIRECTION>
+	<DIALOGUE>
+	Who are you? What's going on here?
+	</DIALOGUE>
+</MORGUE_BOSS>
+<BOURNE>
+	<DIALOGUE>
+	Where did this body go?
+	</DIALOGUE>
+</BOURNE>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	I said, someone came last night --
+	</DIALOGUE>
+<DIRECTION>
+(big attitude now)
+</DIRECTION>
+	<DIALOGUE>
+	Look, this isn't a carnival -- people call and they make an appointment and they follow the rules -- everyone signs in and out -- this is a serious place -- serious work -- it's not just to come in whenever you like --
+	</DIALOGUE>
+</MORGUE_BOSS>
+<BOURNE>
+<DIRECTION>
+(like a shot)
+</DIRECTION>
+	<DIALOGUE>
+	Shit, we didn't sign in.
+	</DIALOGUE>
+</BOURNE>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	So get the hell out of here.
+	</DIALOGUE>
+</MORGUE_BOSS>
+<BOURNE>
+	<DIALOGUE>
+	Fine. But I'd like to sign in. In fact, I insist on it. Where's the book? I gotta sign in --
+	</DIALOGUE>
+<DIRECTION>
+(off and running now --)
+</DIRECTION>
+<DIRECTION>
+Everybody following -- all of them confused -- and into --
+</DIRECTION>
+<DIRECTION>
+FRONT DESK AREA
+</DIRECTION>
+<DIRECTION>
+BOURNE there first -- all forward motion here -- balls out --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Is this it? --
+	</DIALOGUE>
+<DIRECTION>
+(the book)
+</DIRECTION>
+	<DIALOGUE>
+	-- this is it, right? --
+	</DIALOGUE>
+</BOURNE>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	-- slow down -- you can't just take the book like that --
+	</DIALOGUE>
+</MORGUE_BOSS>
+<BOURNE>
+	<DIALOGUE>
+	-- don't sweat it, I have a pen -- no problem -- just let me find the page --
+	</DIALOGUE>
+<DIRECTION>
+(then quick to Marie)
+</DIRECTION>
+	<DIALOGUE>
+	-- honey, why don't you wait for me outside, okay? --
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE trying to take the hint, but she's curious what he's doing --
+</DIRECTION>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	-- we have rules here, this is a very serious place -- I'm the one who decides who gets in here, okay? --
+	</DIALOGUE>
+</MORGUE_BOSS>
+<BOURNE>
+	<DIALOGUE>
+	-- what do I? -- I put the name of the person I came to see? --
+	</DIALOGUE>
+</BOURNE>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	-- this is serious business down here and we cannot have people coming and going --
+	</DIALOGUE>
+</MORGUE_BOSS>
+<BOURNE>
+	<DIALOGUE>
+	-- here we go -- I found it --
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+But he's not writing -- he's ripping -- tearing the page out of the book --
+</DIRECTION>
+<MORGUE_BOSS>
+	<DIALOGUE>
+	-- what are you? -- what are you doing? -- you crazy fuck -- you ripped the book! -- you stupid fucki--
+	</DIALOGUE>
+<DIRECTION>
+(no chance to finish this, because --)
+</DIRECTION>
+<DIRECTION>
+BOURNE just slammed him against the wall. Hard. Like a tractor hit him. And fast.
+</DIRECTION>
+<DIRECTION>
+And that shuts up the room.
+</DIRECTION>
+<DIRECTION>
+THE TWO ATTENDANTS rushing to help their boss --
+</DIRECTION>
+<DIRECTION>
+BOURNE grabbing MARIE and pulling her out the door --
+</DIRECTION>
+<DIRECTION>
+EXT. PARIS STREET -- NIGHT
+</DIRECTION>
+<DIRECTION>
+Moments after the morgue. BOURNE striding away. MARIE struggling to keep up. And BOURNE is different now -- zoning in -- he's close -- he's hardening --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	What are you doing? --
+	</DIALOGUE>
+<DIRECTION>
+(he's scaring her)
+</DIRECTION>
+	<DIALOGUE>
+	-- Jason -- stop -- talk to me...
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE ignoring her -- ripping through the Alliance Security brochures -- scanning them as he walks --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	-- I don't know what you're doing and you're scaring me -- what are you looking for? -- what just happened in there? --
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Nykwana Wombosi.
+	</DIALOGUE>
+<DIRECTION>
+(he stops, holding up the brochure --)
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	What is that?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	It's a name. Mr. Wombosi owns a thirty million dollar yacht. He's the proud owner of an Alliance Security package.
+	</DIALOGUE>
+<DIRECTION>
+(handing her the brochure --)
+</DIRECTION>
+	<DIALOGUE>
+	He also paid a visit to the morgue to see John Michael Kane.
+	</DIALOGUE>
+<DIRECTION>
+(the ripped-out page --)
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	What does that mean?
+	</DIALOGUE>
+<DIRECTION>
+(but he's walking again --)
+</DIRECTION>
+	<DIALOGUE>
+	Jason, what does that mean?
+	</DIALOGUE>
+<DIRECTION>
+(she's trying to catch
+</DIRECTION>
+	<DIALOGUE>
+	up, but he's walking
+	</DIALOGUE>
+<DIRECTION>
+really fast --)
+</DIRECTION>
+	<DIALOGUE>
+	Jason, please... who is he?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+<DIRECTION>
+(he's not turning back again --)
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	So what are we doing?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Go back to the hotel.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE just stops. Reeling.
+</DIRECTION>
+<DIRECTION>
+BOURNE walking away. Into Paris night and --
+</DIRECTION>
+<DIRECTION>
+INT. CONKLIN'S TREADSTONE OFFICE -- DAY/NIGHT?
+</DIRECTION>
+<DIRECTION>
+ABBOTT alone here. On the phone. Looking up to see --
+</DIRECTION>
+<ZORN>
+	<DIALOGUE>
+	They found him. They found Bourne.
+	</DIALOGUE>
+</ZORN>
+<DIRECTION>
+ABBOTT jumps off the call. Eyes never leaving ZORN.
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</ABBOTT>
+<ZORN>
+	<DIALOGUE>
+	You better come in.
+	</DIALOGUE>
+</ZORN>
+<DIRECTION>
+EXT. L'ETOILE -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR -- A MOTORCYCLE -- screaming through traffic and --
+</DIRECTION>
+<DIRECTION>
+INT. WOMBOSI'S SECURITY ROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+VIDEO MONITOR -- there's BOURNE -- staring up and --
+</DIRECTION>
+<DEAUVAGE>
+	<DIALOGUE>
+	Jesus fuck, what is this?
+	</DIALOGUE>
+</DEAUVAGE>
+<DIRECTION>
+INT. TREADSTONE RESEARCH DESK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+VIDEO MONITOR -- different angle -- more clandestine -- but same deal -- there's BOURNE just standing there and --
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	Omigod.
+	</DIALOGUE>
+</ABBOTT>
+<DIRECTION>
+EXT. WOMBOSI COMPOUND -- NIGHT
+</DIRECTION>
+<DIRECTION>
+BOURNE live. On the street. Bathed in a streetlight. Staring up at a security camera.
+</DIRECTION>
+<DIRECTION>
+Total hero moment.
+</DIRECTION>
+<DIRECTION>
+I'm here. I'm waiting. I know you're watching.
+</DIRECTION>
+<DIRECTION>
+EXT. WOMBOSI COMPOUND -- NIGHT
+</DIRECTION>
+<DIRECTION>
+Confusion to say the least -- WOMBOSI -- pistol in hand -- moving as fast as he can through the clutter -- KIDS scattering as he follows DEAUVAGE -- racing for THE SECURITY ROOM --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE COMMUNICATIONS ROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+CONKLIN -- ZORN -- ABBOTT -- THE TECHS -- everyone plugged into the tension here --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	-- how long? --
+	</DIALOGUE>
+</CONKLIN>
+<COMM_TECH_1>
+	<DIALOGUE>
+	-- minutes -- he's close --
+	</DIALOGUE>
+</COMM_TECH_1>
+<DIRECTION>
+EXT. NEUILLY STREETS -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR on the speeding cycle -- closing in fast and --
+</DIRECTION>
+<DIRECTION>
+EXT. WOMBOSI'S COMPOUND -- NIGHT
+</DIRECTION>
+<DIRECTION>
+BOURNE standing there as the FRONT GATE opens. The moment. The big deep breath. He's walking in --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE COMMUNICATIONS DESK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+Uglier by the second -- desperation madness --
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	-- he went inside! --
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+<DIRECTION>
+(to Abbott)
+</DIRECTION>
+	<DIALOGUE>
+	-- if we can get a clean shot --
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	-- inside the house? --
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	-- that's what they're trained for -- just a surgical strike.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	Forget it.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	What do you want to do?
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	We don't know what we're into!
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	We're in the shitter, man! Pick your poison. Maybe he's in there to finish the job. Maybe he's working for Wombosi. Maybe they want to go on TV together. Every possibility sucks -- we've got to move!
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+INT. WOMBOSI COMPOUND MAIN HALLWAY -- NIGHT
+</DIRECTION>
+<DIRECTION>
+DEAUVAGE and BODYGUARD #1 giving BOURNE a serious pat down.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Is he here?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+DEAUVAGE doesn't answer -- spinning BOURNE around -- they're really going over him --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE COMMUNICATIONS ROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+CONKLIN on his feet -- ABBOTT beet red -- this is getting loud --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	You don't have the stones for this. You people come down here and wink and whisper and we send these guys out and get it done. And you're clear. And the guys upstairs get what they want. And the whole bunch of you are so stuffed on deniability it's coming out of your ears.
+	</DIALOGUE>
+<DIRECTION>
+(gauntlet)
+</DIRECTION>
+	<DIALOGUE>
+	Well, you know what? You're here now. What do you want to do?
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+ABBOTT just shaking his head no.
+</DIRECTION>
+<DIRECTION>
+And CONKLIN snaps -- suddenly he's over the console -- there's the button -- and he's pressing it and --
+</DIRECTION>
+<DIRECTION>
+EXT. NEUILLY ROOFTOPS -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR in position -- roof of the house next door -- hum -- hum -- hum --
+</DIRECTION>
+<DIRECTION>
+It's the E-PHONE PAGER -- he's just been activated and --
+</DIRECTION>
+<DIRECTION>
+INT. WOMBOSI'S COMPOUND HALLWAY -- NIGHT
+</DIRECTION>
+<DIRECTION>
+BOURNE being marched toward the throne room doors -- DEAUVAGE and BODYGUARD #1 flanking him -- KIDS and WIVES staring as he passes -- the way you'd look at a prisoner on the way to the gallows --
+</DIRECTION>
+<DIRECTION>
+THE BIG DOORS thrown open wide and --
+</DIRECTION>
+<DIRECTION>
+WOMBOSI on the throne.
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	Come in.
+	</DIALOGUE>
+<DIRECTION>
+(an imperial gesture)
+</DIRECTION>
+	<DIALOGUE>
+	Please...
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+BOURNE steps up to the plate.
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	Did you bring investment advice for me tonight? It was tax shelters, wasn't it? Swiss debenture-swaps.
+	</DIALOGUE>
+</WOMBOSI>
+<BOURNE>
+	<DIALOGUE>
+	MPG Capital.
+	</DIALOGUE>
+</BOURNE>
+<WOMBOSI>
+	<DIALOGUE>
+	I think investment advice from a dead man, it's a bad idea.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	How does it feel to be dead?
+	</DIALOGUE>
+</WOMBOSI>
+<BOURNE>
+	<DIALOGUE>
+	It's a lot more stressful than I thought.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+KIDS have started sneaking into the room -- DEAUVAGE is trying to scoot them out but --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	-- no -- no, let them in! -- let them in.
+	</DIALOGUE>
+<DIRECTION>
+(to the kids)
+</DIRECTION>
+	<DIALOGUE>
+	Come in -- on y va -- come in...
+	</DIALOGUE>
+<DIRECTION>
+(to Bourne)
+</DIRECTION>
+	<DIALOGUE>
+	I think everyone wants to see the dead man.
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+BOURNE watching the kids -- they are all staring --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	What do you do?
+	</DIALOGUE>
+<DIRECTION>
+(on his feet now --)
+</DIRECTION>
+	<DIALOGUE>
+	You get an appointment with me? You make sure it's on the boat? You come visit me -- you pitch me this bullshit investment package. You drink my water -- eat my bread -- play with my children -- and what? -- two nights later you come back and you put this death --
+	</DIALOGUE>
+<DIRECTION>
+(slamming something down onto the throne --)
+</DIRECTION>
+	<DIALOGUE>
+	-- you put this in my engine room!
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+There is A BOMB on the throne now.
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	So this is a different kind of meeting.
+	</DIALOGUE>
+<DIRECTION>
+(steam building)
+</DIRECTION>
+	<DIALOGUE>
+	Maybe now we talk some truth, okay? One dead man to another.
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+BOURNE -- caught off guard as -- WOMBOSI suddenly rips away his jacket -- so hard that he tears straight through to the shirt --
+</DIRECTION>
+<DIRECTION>
+BOURNE'S BACK -- bare -- two bullet scars -- still raw --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	You see this?
+	</DIALOGUE>
+<DIRECTION>
+(calling to Deauvage --)
+</DIRECTION>
+	<DIALOGUE>
+	I told you my shot was better!
+	</DIALOGUE>
+</WOMBOSI>
+<DEAUVAGE>
+	<DIALOGUE>
+	He went in the water -- how did he live?
+	</DIALOGUE>
+</DEAUVAGE>
+<WOMBOSI>
+	<DIALOGUE>
+	No, no no...
+	</DIALOGUE>
+<DIRECTION>
+(and he means this --)
+</DIRECTION>
+	<DIALOGUE>
+	This is a strong killer. This is a crazy strong killer. Oh, yeah...
+	</DIALOGUE>
+<DIRECTION>
+(circling)
+</DIRECTION>
+	<DIALOGUE>
+	To make a killer that looks like you? This young? This face?
+	</DIALOGUE>
+<DIRECTION>
+(he means this)
+</DIRECTION>
+	<DIALOGUE>
+	It's bloody fucking amazing.
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+BOURNE imploding -- this news -- the kids staring at him -- the bomb -- it's all getting loud around him --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Who do you think sent me?
+	</DIALOGUE>
+</BOURNE>
+<WOMBOSI>
+	<DIALOGUE>
+	I know who sent you. I don't know why.
+	</DIALOGUE>
+<DIRECTION>
+(this could get
+</DIRECTION>
+	<DIALOGUE>
+	physical at any moment
+	</DIALOGUE>
+<DIRECTION>
+now --)
+</DIRECTION>
+	<DIALOGUE>
+	I learned many, many things from the CIA. Many things. I learned the way they think.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	Was the bomb on my boat supposed to go off or not?
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+BOURNE distracted by the kids -- these faces -- it's...
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	You didn't set the bomb. Why?
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+BOURNE not sure -- about any of it --
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	Was this a game or a fuck up?
+	</DIALOGUE>
+</WOMBOSI>
+<BOURNE>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</BOURNE>
+<WOMBOSI>
+	<DIALOGUE>
+	Get the kids out!
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+He doesn't have to say it twice -- they know the drill -- they're gone.
+</DIRECTION>
+<WOMBOSI>
+	<DIALOGUE>
+	And the door.
+	</DIALOGUE>
+</WOMBOSI>
+<DIRECTION>
+DEAUVAGE closing the doors and as he does --
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR ATTACKS...
+</DIRECTION>
+<DIRECTION>
+THIS SCENE HAS NOT BEEN WRITTEN
+</DIRECTION>
+<DIRECTION>
+It's a shootout.
+</DIRECTION>
+<DIRECTION>
+The Professor is infinitely more talented at this than the bodyguards.
+</DIRECTION>
+<DIRECTION>
+Bourne needs to get out of there -- without looking wimpy --
+</DIRECTION>
+<DIRECTION>
+No children are harmed.
+</DIRECTION>
+<DIRECTION>
+As the Professor rallies -- he will shoot Wombosi -- he will find Bourne's jacket left on the floor (in which later he will find a clue leading him to Belleville) and last but hardly least, he will take a parting shot at the bomb still sitting there on the throne.
+</DIRECTION>
+<DIRECTION>
+There will be a huge, trailer-worthy explosion.
+</DIRECTION>
+<DIRECTION>
+This might not want to be very long. There is an extensive action sequence just around the corner.
+</DIRECTION>
+<DIRECTION>
+So Bourne escapes. Physically he's just weary. Emotionally he's fucked.
+</DIRECTION>
+<DIRECTION>
+All of that happens and we cut to --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE COMMUNICATIONS DESK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+CONKLIN flipping out -- THE PROFESSOR is not responding --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	-- code him again -- punch it in --
+	</DIALOGUE>
+</CONKLIN>
+<COM_TECH_1>
+	<DIALOGUE>
+	-- he's not responding --
+	</DIALOGUE>
+</COM_TECH_1>
+<CONKLIN>
+	<DIALOGUE>
+	-- the paging unit must be damaged --
+	</DIALOGUE>
+</CONKLIN>
+<COM_TECH_2>
+	<DIALOGUE>
+	-- we just ran a remote diagnostic, sir, it's not the unit --
+	</DIALOGUE>
+</COM_TECH_2>
+<DIRECTION>
+ABBOTT looks like he might puke. ZORN watching his career burn to the ground around him.
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</ABBOTT>
+<DIRECTION>
+CONKLIN grabbing shit -- like a madman --
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	I'm going to Paris.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	No you're not. You're not going anywhere. I'm shutting this down.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	You're not doing shit. You're so scared you can't even think.
+	</DIALOGUE>
+</CONKLIN>
+<ABBOTT>
+	<DIALOGUE>
+	You just blew up a house in Paris! This program is over. Call it off.
+	</DIALOGUE>
+</ABBOTT>
+<CONKLIN>
+	<DIALOGUE>
+	I can't call it off. He's not responding. Get out of my way.
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+CONKLIN splits and --
+</DIRECTION>
+<DIRECTION>
+INT. THE HOTEL ROOM -- NIGHT
+</DIRECTION>
+<DIRECTION>
+It's really late. BOURNE enters the room. MARIE in the corner. Smoked out. Cried out. Lifed out.
+</DIRECTION>
+<DIRECTION>
+Silence. Not a word.
+</DIRECTION>
+<DIRECTION>
+His shirt is torn to shit. He scraped-up -- blood here and there. He moves past her into --
+</DIRECTION>
+<DIRECTION>
+THE BATHROOM
+</DIRECTION>
+<DIRECTION>
+His hands shaking as he tries to wash them. He bags it.
+</DIRECTION>
+<DIRECTION>
+THE ROOM
+</DIRECTION>
+<DIRECTION>
+BOURNE comes out. And there's a long silence until --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	It doesn't matter who you were before. It's who you want to be. That's all that matters.
+	</DIALOGUE>
+<DIRECTION>
+(is he listening?)
+</DIRECTION>
+	<DIALOGUE>
+	We have this money. We have what we have. I had nothing before and now, I don't know, maybe I have more, maybe it's nothing, but...
+	</DIALOGUE>
+<DIRECTION>
+(he looks over)
+</DIRECTION>
+	<DIALOGUE>
+	I say we leave here. We leave this place. We go until we can't go anymore.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	You could do that?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Yes. That's who I want to be.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE nods. Turns off the light. Takes her hand. And they lay in bed. Just laying there.
+</DIRECTION>
+<DIRECTION>
+INT. PARIS SOMEWHERE -- NIGHT
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR cooping somewhere. Tending to his wounds. Ignoring his pager. He's slipped off the grid.
+</DIRECTION>
+<DIRECTION>
+INT. HOTEL ROOM -- DAWN
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE packing up to hit the road. Together.
+</DIRECTION>
+<DIRECTION>
+DOUG'S ROUGH DRAFT OF THE BIG ACTION SEQUENCE
+</DIRECTION>
+<DIRECTION>
+INT. HOTEL DE LA PAIX -- LOBBY -- DAY
+</DIRECTION>
+<DIRECTION>
+MARIE dropping off the key. Hope hangs in the air --
+</DIRECTION>
+<CLERK>
+	<DIALOGUE>
+	xxxxxx...
+	</DIALOGUE>
+</CLERK>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE enters. He's got the black duffel. Car keys.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+And now they're headed for the door. Something doesn't feel right for BOURNE -- and then he notices --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Stop where you are.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+Bourne turns back to the CLERK.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Where's the dog?
+	</DIALOGUE>
+</BOURNE>
+<CLERK>
+	<DIALOGUE>
+	My husband's out looking for him.
+	</DIALOGUE>
+</CLERK>
+<BOURNE>
+	<DIALOGUE>
+	He run away often?
+	</DIALOGUE>
+</BOURNE>
+<CLERK>
+	<DIALOGUE>
+	That old beast? Miss his breakfast? Not a chance.
+	</DIALOGUE>
+<DIRECTION>
+(returning to cleaning)
+</DIRECTION>
+	<DIALOGUE>
+	It's always something, right?
+	</DIALOGUE>
+</CLERK>
+<DIRECTION>
+Suddenly -- just like that -- everything's different --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Get in the basement.
+	</DIALOGUE>
+</BOURNE>
+<CLERK>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CLERK>
+<BOURNE>
+<DIRECTION>
+(to Marie)
+</DIRECTION>
+	<DIALOGUE>
+	Get everyone down in the basement.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Now MARIE doesn't need a second warning --
+</DIRECTION>
+<CLERK>
+	<DIALOGUE>
+	What the hell're you talking about?
+	</DIALOGUE>
+</CLERK>
+<BOURNE>
+	<DIALOGUE>
+	You're in danger. All of you. I have no time to explain.
+	</DIALOGUE>
+</BOURNE>
+<CLERK>
+	<DIALOGUE>
+	Wait a minute --
+	</DIALOGUE>
+</CLERK>
+<BOURNE>
+	<DIALOGUE>
+	I'm sorry.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+-- those words -- the way he said it -- she's grabbing her purse, clearing out of the room. Slamming the door behind her -- click -- it's locked.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Jason...
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+No answer -- too busy -- reaching under the check-in desk, coming up with -- A SHOT GUN, an old one, but nonetheless a gun --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Who is it? Who's out there?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+And now BOURNE is moving, pulling open a drawer. A box of shells. Filling his pockets.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I won't let that happen.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+And he is moving down the small hallway. Away from the front door -- towards the back door under the stairs.
+</DIRECTION>
+<DIRECTION>
+EXT. HOTEL DE LA PAIX -- COURTYARD -- DAY
+</DIRECTION>
+<DIRECTION>
+THE HOTEL BACK DOOR -- kicked open -- BOURNE coming out of the house -- coming hard -- and --
+</DIRECTION>
+<DIRECTION>
+The small courtyard is empty -- but now the ALARM is going off -- and BOURNE turns back to MARIE -- races to grab her as --
+</DIRECTION>
+<DIRECTION>
+RATATATAT -- The FRONT DOOR -- WINDOWS -- ARE SHREDDED and -- here comes the PROFESSOR.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+And now they are running, across this little courtyard. To a wall -- BOURNE is up, on it -- reaching down for MARIE -- grabbing her -- swinging her over the wall as --
+</DIRECTION>
+<DIRECTION>
+ABM!!! The PROFESSOR SHOOTS.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Go!
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE takes off running. BOURNE leans over the wall, FIRES BACK TWICE -- RATATAT -- The WALL IS SHREDDED. BOURNE takes off running -- reloading on the fly.
+</DIRECTION>
+<DIRECTION>
+Rounds a bend, is chambering two rounds when he sees -- a WOMAN is in her kitchen -- staring at him -- no time to explain -- he turns back --
+</DIRECTION>
+<DIRECTION>
+The PROFESSOR is just vaulting over the wall. BOURNE FIRES TWICE -- BAM! BAM! But the spray is too wide from this distance. Windows are shattered to both sides of him but -- the PROFESSOR stumbles but keeps going -- blood on his face now -- RATATAT --
+</DIRECTION>
+<DIRECTION>
+BOURNE has to move. Reloading his almost useless gun. Reaching MARIE -- facing a choice and they climb a wall -- FLOWER POTS EXPLODE around them but they make it -- now --
+</DIRECTION>
+<DIRECTION>
+RUNNING IN A LABYRINTH -- right -- then left -- through a small staircase. LEAPING a wall -- landing on a STEEP ROOF -- sliding, falling, crashing to the ground in --
+</DIRECTION>
+<DIRECTION>
+A SMALL COURTYARD -- steep walls on all sides. But there's a large window -- and it's open. And they step through and find themselves --
+</DIRECTION>
+<DIRECTION>
+INT. CHINESE RESTAURANT -- BATHROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+They close the window behind them -- catch their breath --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Did we lose them?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE shakes his head. Tucks the gun under his coat.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Who is it?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	We have to keep moving.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+And now he is opening the door -- they step into --
+</DIRECTION>
+<DIRECTION>
+INT. CHINESE RESTAURANT -- DAY
+</DIRECTION>
+<DIRECTION>
+STARTLED KITCHEN WORKERS stare as BOURNE and MARIE calmly walk out of the bathroom and head towards the front door of the empty restaurant. Quiet.
+</DIRECTION>
+<DIRECTION>
+And then they open the door to the street and --
+</DIRECTION>
+<DIRECTION>
+EXT. BELLEVILLE -- COMMERCIAL STREET -- DAY
+</DIRECTION>
+<DIRECTION>
+The first thing we notice is noise. The street is burgeoning with life. The second thing we notice are SIRENS. POLICE CARS approaching. BOURNE and MARIE head down the street, blending in.
+</DIRECTION>
+<DIRECTION>
+Up ahead -- TWO POLICE CARS snaking through traffic. BOURNE steers them off this crowded street.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+EXT. BELLEVILLE -- QUIET STREET -- DAY
+</DIRECTION>
+<DIRECTION>
+And BOURNE and MARIE are hurrying down this street when -- BAM -- The PROFESSOR comes out of a building -- across and down the street. No time to hide -- he's seen them -- he's FIRING.
+</DIRECTION>
+<DIRECTION>
+BOURNE tackles MARIE to the ground behind a car. RATATAT -- The PROFESSOR is literally shredding it. And now BOURNE is moving --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+And BOURNE is on the offensive. BAM! BAM! Moving towards the PROFESSOR who is ducking behind cars on the other side.
+</DIRECTION>
+<DIRECTION>
+They are shredding the street -- FIRING ruthlessly at each other and -- NOW THE POLICE ARE HERE -- BLOCKING both ends of the street. GUNS are drawn -- BOURNE's vulnerable on two flanks. The COPS are YELLING. And now --
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR BLASTS the COPS -- And now things have changed.
+</DIRECTION>
+<DIRECTION>
+THREE WAY FIREFIGHT and BOURNE grabs MARIE and they dive into --
+</DIRECTION>
+<DIRECTION>
+INT. SMALL EPICERIE -- DAY
+</DIRECTION>
+<DIRECTION>
+And the PROFESSOR shreds the store as BOURNE attemps to fire back. SHIT flying everywhere in here -- hard to see and -- The PROFESSOR is advancing on them -- cops are no match for his fire power. They move to the back -- kick open a door --
+</DIRECTION>
+<DIRECTION>
+INT. HIGHWALLED COURTYARD -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE cross this small courtyard, the PROFESSOR is right on their heels. CRASH through a door -- and now they are in --
+</DIRECTION>
+<DIRECTION>
+INT. SMALL SWEATSHOP -- DAY
+</DIRECTION>
+<DIRECTION>
+COUPLE of ASIAN WOMEN sewing in here. One MAN in charge -- and BOURNE and MARIE charging through -- the MAN about to say something -- but now the PROFESSOR is on their tail and --
+</DIRECTION>
+<DIRECTION>
+INT. SMALL AFRICAN SHOP -- DAY
+</DIRECTION>
+<DIRECTION>
+Making god knows what in here -- vats of something. Small grouping of workers -- BOURNE shutting the door behind him -- it's shredded with BULLET HOLES. BOURNE and MARIE racing to the next door as -- BAM -- the PROFESSOR kicks the door open -- BOURNE about to fire -- but there is a WOMAN right behind the PROFESSOR! Can't do it -- turns to run as -- RATATATAT --
+</DIRECTION>
+<DIRECTION>
+The PROFESSOR FIRES as BOURNE and MARIE dive into --
+</DIRECTION>
+<DIRECTION>
+INT. LIVE POULTRY SHOP -- DAY
+</DIRECTION>
+<DIRECTION>
+And now CHICKEN feathers are flying everywhere -- the glass at the front of the door is shattering. BOURNE and MARIE make it through the gauntlet.
+</DIRECTION>
+<DIRECTION>
+EXT. BELLEVILLE -- STREET -- DAY
+</DIRECTION>
+<DIRECTION>
+And BOURNE and MARIE are running. And he is reaching into his pocket -- fishing around -- and just as he pulls out the car keys -- we recognize this as the street they parked their car on and --
+</DIRECTION>
+<DIRECTION>
+BY MARIE'S CAR
+</DIRECTION>
+<DIRECTION>
+BOURNE unlocks the door -- pops MARIE's open. And --
+</DIRECTION>
+<DIRECTION>
+THERE'S A COP -- yelling at them and -- BOURNE hits the gas -- they fly out of their parking space -- BAM!! The COP fires, shattering their windshield and there -- up ahead -- THE PROFESSOR coming out -- about to FIRE -- BOURNE aims for him -- forces him to dive out of the way and -- ONE QUICK MOVE around a TRUCK and they are free.
+</DIRECTION>
+<DIRECTION>
+INT. THE LITTLE RED CAR
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE looking back nervously -- so far all over --
+</DIRECTION>
+<DIRECTION>
+ON THE STREET
+</DIRECTION>
+<DIRECTION>
+The PROFESSOR looking around. PEOPLE staring at him -- covered in blood -- the COP racing up -- yelling -- not yelling for long because the PROFESSOR is firing at him and --
+</DIRECTION>
+<DIRECTION>
+Now the PROFESSOR is moving -- not running -- just a swift walk and now he's past the truck -- and --
+</DIRECTION>
+<DIRECTION>
+A MOTORCYCLIST comes flying down the street -- oblivious -- going way too fast for these streets and -- the PROFESSOR swings his gun stock like a bat -- takes him out -- clean and smooth -- bike crashing to the ground and --
+</DIRECTION>
+<DIRECTION>
+The PROFESSOR grabs the bike and takes off -- SHOOTING at TWO POLICE CARS just racing to the scene and we are into --
+</DIRECTION>
+<DIRECTION>
+EXT. BELLEVILLE BLVD -- DAY
+</DIRECTION>
+<DIRECTION>
+HIGH SPEED CAR CHASE. And BOURNE better do some fancy driving because here comes the PROFESSOR -- and he's a lot faster -- much better armed.
+</DIRECTION>
+<DIRECTION>
+INT. MARIE'S CAR
+</DIRECTION>
+<DIRECTION>
+BOURNE driving. MARIE looking back -- seeing the PROFESSOR gain on them --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+And -- THE PROFESSOR FIRES -- SHREDS the back off their car --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Give me the gun --
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+And now she's got his shotgun, leaning out the window.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Wait 'till he's close.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+BOURNE swerves, up on the sidewalk back onto the street -- slaloms through the traffic -- racing towards an intersection and --
+</DIRECTION>
+<DIRECTION>
+IN THE INTERSECTION
+</DIRECTION>
+<DIRECTION>
+CARS coming the other way, BOURNE just makes it through -- the PROFESSOR tries to squeeze through -- skidding and --
+</DIRECTION>
+<DIRECTION>
+CRACK! The PROFESSOR hits the front of a car sideways on his bike -- he is THROWN clear through the intersection, right into the windshield of an oncoming car and --
+</DIRECTION>
+<DIRECTION>
+He gets up, grabs his gun and works his way towards his bike and now we see --
+</DIRECTION>
+<DIRECTION>
+EXT. VARIOUS SHOTS AROUND PARIS -- DAY
+</DIRECTION>
+<DIRECTION>
+COPS are mobilizing -- swarming into this area and --
+</DIRECTION>
+<DIRECTION>
+BACK TO THE CAR CHASE --
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE pick up a few cops on their tail -- shed all of them -- the last car goes into an EXPLOSIVE FLIP -- the PROFESSOR is now right behind them. And now we are into --
+</DIRECTION>
+<DIRECTION>
+CRAZY CAR CHASE WITH COPS RIGHT ON THEIR TAIL
+</DIRECTION>
+<DIRECTION>
+BOURNE, MARIE and the PROFESSOR leave a trail of totaled cars that the cops have to try and navigate through -- finally saying fuck it and hitting a few cars themselves and now we are into --
+</DIRECTION>
+<DIRECTION>
+CAR CHASE THROUGH NARROW STREETS
+</DIRECTION>
+<DIRECTION>
+MARIE'S CAR and the MOTORCYCLE can pass where the police cars cannot. BOURNE may be able to shed the cops, but not the PROFESSOR. And now one quick move and they are --
+</DIRECTION>
+<DIRECTION>
+EXT. QUAI -- DAY
+</DIRECTION>
+<DIRECTION>
+Racing against traffic up the Seine. Past the Louvre. COPS pursuing on the other side of the river. BOURNE and the PROFESSOR leaving behind a trail of carnage. And now --
+</DIRECTION>
+<DIRECTION>
+The PROFESSOR is pulling up along side them -- one lane over. Both swerving to avoid oncoming cars and --
+</DIRECTION>
+<DIRECTION>
+MARIE FIRES -- TWICE -- TAKES out a few windshields. The PROFESSOR fires at the same time -- MARIE'S CAR DOOR -- GONE -- she's totally exposed but --
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR -- his BIKE is SPOUTING GAS -- one of the pellets nailed his tank.
+</DIRECTION>
+<DIRECTION>
+BOURNE AND MARIE --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+THE PROFESSOR --
+</DIRECTION>
+<DIRECTION>
+No problem -- he's unwrapping a piece of duct tape from the barrel of his gun -- two seconds and the hole is patched and -- BOURNE AND MARIE -- the side of the car is completely gone -- the PROFESSOR is gaining -- across the river dozens of police cars are racing alongside. Many more can be seen on their side -- a road block ahead -- running out of options and -- BOURNE turns hard -- crashes over the sidewalk and flies down a side street. A POLICE CAR pulls out behind them -- the PROFESSOR can't stop -- skidding hard, turning the bike sideways, skidding out -- sliding across the ground and BAMMM!!! SMASHING into a GLASS PHONE BOOTH which shatters.
+</DIRECTION>
+<DIRECTION>
+And he's up -- lifting up his bike and --
+</DIRECTION>
+<DIRECTION>
+BOURNE AND MARIE
+</DIRECTION>
+<DIRECTION>
+SIX POLICE CARS on their tail -- more joining. Every street they look down has POLICE CARS racing in parallel. Running out of options and in the background --
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR is back in the game -- passing the police cars and up ahead --
+</DIRECTION>
+<DIRECTION>
+THE ROAD IS BLOCKED. POLICE ROAD BLOCK -- cops with guns. Gotta act quick and -- BOURNE turns hard left -- there's a metro staircase -- only way out and --
+</DIRECTION>
+<DIRECTION>
+THEY BOUNCE down the stairs. CRASH through the doors down below.
+</DIRECTION>
+<DIRECTION>
+THE FIRST POLICE CAR -- no way he's following. SLAMMING on his brakes. SKIDDING to a halt -- SKIDDING sideways -- gonna stop in time -- just at the edge of the steps and then --
+</DIRECTION>
+<DIRECTION>
+THE SECOND POLICE CAR isn't braking -- T-BONES the first car -- BAM!!! -- sends it rolling sideways down the steps until it crashes to a halt at the bottom -- upside down.
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR -- he's turning -- heading for a different set of stairs. BOURNE AND MARIE -- crashing through the turnstiles -- people diving out of their way and --
+</DIRECTION>
+<DIRECTION>
+AT THE STAIRCASE -- THE WINDOW of the POLICE CAR is kicked out and -- TWO VERY ANGRY COPS emerge -- pull their guns out -- head into the station. BOURNE and MARIE's world just got a lot more dangerous and --
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR is racing down the other staircase -- an up escalator -- people diving out of the way as --
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE slalom through the station -- suddenly -- there's the PROFESSOR -- parallel corridor -- metal barricades keep them separated. PROFESSOR FIRING.
+</DIRECTION>
+<DIRECTION>
+UP AHEAD -- a horizon line -- BOURNE guns it -- a steep staircase and -- THEY FLY down the steps -- landing on --
+</DIRECTION>
+<DIRECTION>
+THE METRO PLATFORM
+</DIRECTION>
+<DIRECTION>
+The PROFESSOR lands on the other side -- both racing down the platform -- PROFESSOR tearing up the wall behind them and -- HERE COMES A TRAIN -- on BOURNE and MARIE's side -- travelling the opposite way -- temporary refuge. Not for long -- there's no way out on this end of the platform. They skid to a halt -- just as --THE TRAIN DOORS OPEN -- STARTLED STRAPHANGERS stare at BOURNE and MARIE as they stop onto the platform -- take off running.
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR has to turn his bike around. He's quick -- but it gives BOURNE and MARIE a two second head start.
+</DIRECTION>
+<DIRECTION>
+BOURNE AND MARIE almost at the other end of the platform -- gunfire ripping up the windows behind them. Gonna go for the steps -- but here come --
+</DIRECTION>
+<DIRECTION>
+THE ANGRY COPS -- remember them? -- the ones who took the ride down the steps -- they're firing now and --
+</DIRECTION>
+<DIRECTION>
+BOURNE AND MARIE turn back -- the PROFESSOR is firing and there is only one option --
+</DIRECTION>
+<DIRECTION>
+INT. METRO CAR -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE into the conductor booth. People diving off the train as BOURNE hits the YELLOW BUTTON and -- the TRAIN STARTS ROLLING -- doors still open -- they disappear into the protection of the tunnel walls -- then BOURNE hits the button to close the doors and -- THE PROFESSOR -- watching the trains accelerate out of the station -- and now he's racing his bike down the platform -- opposite the motion of the train and -- here comes the end of the train and --THE PROFESSOR throws his bike into a skidding 180 and skids off the platform all in one move -- landing hard on the tracks but facing the right direction and now he's accelerating towards the train -- just as an oncoming train is racing into the station and -- HE LEAPS onto the back of the train in the nick of time. His GUN CLATTERS to the tracks.
+</DIRECTION>
+<DIRECTION>
+IN THE LAST METRO CAR
+</DIRECTION>
+<DIRECTION>
+The window is shattered and the PROFESSOR lets himself in -- wind whipping through his hair from the shattered windows. And --
+</DIRECTION>
+<DIRECTION>
+IN THE FIRST METRO CAR
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE finally getting a breather. BOURNE keeps looking back -- nothing -- the train is deserted. Finally --
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+And ahead -- daylight -- the train tracks go above ground and as the train hits daylight -- we see the PROFESSOR directly behind BOURNE on the other side of the glass and --
+</DIRECTION>
+<DIRECTION>
+CRASH! The PROFESSOR grabs BOURNE through the glass, ramming his head into the metal as --
+</DIRECTION>
+<DIRECTION>
+BOURNE grabs the knob, swings the door open and CRUSHES the PROFESSOR -- CRUSHES him again and now he is free and --
+</DIRECTION>
+<DIRECTION>
+BOURNE turns, pulls up the shotgun and -- the PROFESSOR kicks it out of his hands -- it clatters to the ground and now we have a beat -- THE TRAIN CAR races across the Bir Hakeim bridge -- all of Paris laid out behind them. BOURNE and the PROFESSOR squaring off -- both looking at the gun -- realizing there's no chance for either one of them to get it and --
+</DIRECTION>
+<DIRECTION>
+A BRUTAL RUTHLESS FIGHT breaks out. BOURNE's motivated -- the PROFESSOR's crazy -- makes it a pretty even match. Looks like it could go on for a little while when suddenly --
+</DIRECTION>
+<DIRECTION>
+BAM!!! The PROFESSOR drops to the ground -- behind him -- MARIE wields the shot gun.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	xxxxxx
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+And BOURNE takes the gun from her -- standing there -- reloading -- both barrels -- raising the gun -- aiming it --
+</DIRECTION>
+<DIRECTION>
+INT. MOVING METRO CAR -- DAY
+</DIRECTION>
+<DIRECTION>
+THE PROFESSOR sitting there. Like a dummy. Like a puppet that's been propped up. He's fucked -- his whole side ravaged with shot -- his arm shredded -- hand barely there -- blood flowing fast --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Who else is coming?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+THE PROFESSOR staring up at the gun. Stunned. Doomed. Mouth dry. Eyes struggling to make sense of the chaos.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	I won't ask again.
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	I work alone. Like you...
+	</DIALOGUE>
+<DIRECTION>
+(confused beat)
+</DIRECTION>
+	<DIALOGUE>
+	...we always work alone.
+	</DIALOGUE>
+</PROFESSOR>
+<BOURNE>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	Who are you? Rome? Paris?
+	</DIALOGUE>
+<DIRECTION>
+(Bourne is just staring --)
+</DIRECTION>
+	<DIALOGUE>
+	Treadstone... both of us... I was warned but...
+	</DIALOGUE>
+</PROFESSOR>
+<BOURNE>
+	<DIALOGUE>
+	Treadstone?
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	...which one are you?...
+	</DIALOGUE>
+</PROFESSOR>
+<DIRECTION>
+BOURNE lowering the weapon -- head swimming --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Paris. I live in Paris...
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	...headaches... you have that... I get such bad headaches...
+	</DIALOGUE>
+</PROFESSOR>
+<BOURNE>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	...it's a problem...
+	</DIALOGUE>
+</PROFESSOR>
+<DIRECTION>
+He's losing blood fast -- things inside him seizing up --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Treadstone.
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	...or in a car... when it's dark... something with the headlights...
+	</DIALOGUE>
+<DIRECTION>
+(circuits exploding)
+</DIRECTION>
+	<DIALOGUE>
+	...pills, right? Treadstone had those pills...
+	</DIALOGUE>
+</PROFESSOR>
+<BOURNE>
+	<DIALOGUE>
+	What is Treadstone?
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	...what did you do?... you must've really fucked up...
+	</DIALOGUE>
+</PROFESSOR>
+<BOURNE>
+	<DIALOGUE>
+	I think so.
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	...someone said caffeine -- for a headache... doesn't seem...
+	</DIALOGUE>
+</PROFESSOR>
+<BOURNE>
+	<DIALOGUE>
+	What do they want me to do?
+	</DIALOGUE>
+</BOURNE>
+<PROFESSOR>
+	<DIALOGUE>
+	...they won't let you go...
+	</DIALOGUE>
+</PROFESSOR>
+<BOURNE>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+THE PROFESSOR -- coughing -- a spasm -- helpless --
+</DIRECTION>
+<PROFESSOR>
+	<DIALOGUE>
+	Look at this...
+	</DIALOGUE>
+<DIRECTION>
+(all the blood --)
+</DIRECTION>
+	<DIALOGUE>
+	...least you have a woman....
+	</DIALOGUE>
+</PROFESSOR>
+<DIRECTION>
+And he's gone. Like that. Sitting there. And BOURNE looks paralyzed too. Kneeling there. Stalled out.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Jason...
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+BOURNE doesn't answer -- can't, because there's this sound -- this pulsing hum -- BOURNE reaching into THE PROFESSOR'S POCKET and --
+</DIRECTION>
+<DIRECTION>
+INSERT -- THE E-PHONE PAGER -- covered in blood -- hum -- hum -- hum -- BOURNE'S HAND wiping at the blood that covers the display --
+</DIRECTION>
+<DIRECTION>
+BOURNE staring at it. Very familiar to him.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	We've got to go.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+INT. METRO CAR -- DAY
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE racing back through the cars -- away from the scene of the crime and --
+</DIRECTION>
+<DIRECTION>
+EXT. ABOVE-GROUND METRO PLATFORM -- DAY
+</DIRECTION>
+<DIRECTION>
+THE SHATTERED TRAIN pulling into the station -- doors opening -- SCREAMS ECHOING through the station from up the platform and --
+</DIRECTION>
+<DIRECTION>
+BOURNE and MARIE getting off the last car and --
+</DIRECTION>
+<DIRECTION>
+EXT. STREET/ALLEY NEAR THE PLATFORM -- DAY
+</DIRECTION>
+<DIRECTION>
+Two minutes later. BOURNE and MARIE -- exhausted -- beat -- Everything all at once --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Take this.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+She turns. He's holding the locker key.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Take it.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+But she doesn't move.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	And that's it?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	If you're lucky.
+	</DIALOGUE>
+<DIRECTION>
+(it's hanging there)
+</DIRECTION>
+	<DIALOGUE>
+	Take it.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	There's enough in there to make a life. Any life. Just get out now. Get low. Stay low.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	Take it.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+She takes it. Staring at him. Simply refusing to cry.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	What was I thinking, right?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I can't protect you anymore.
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	What about you?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	I'm gonna find the end of this.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	I can't protect you.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+MARIE takes one last look. And she's running --
+</DIRECTION>
+<DIRECTION>
+BOURNE hangs there a moment -- listening to her go -- and then he pulls out THE E-PHONE PAGER. And it's pulsing like crazy.
+</DIRECTION>
+<DIRECTION>
+BOURNE flips open the shell. There's a keypad in there.
+</DIRECTION>
+<DIRECTION>
+Holding it. Like a missing organ.
+</DIRECTION>
+<DIRECTION>
+INT. THE ZURICH AIRPORT MOTEL ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+Remember MANHEIM? He's still there waiting. And his pager goes off, and --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE PARIS -- NIGHT
+</DIRECTION>
+<DIRECTION>
+A safehouse -- CONKLIN filling a burn bag -- racing -- everything's going --
+</DIRECTION>
+<DIRECTION>
+EXT. TREADSTONE PARIS -- NIGHT
+</DIRECTION>
+<DIRECTION>
+CONKLIN done with the dirty work -- out into the street --
+</DIRECTION>
+<DIRECTION>
+As he's about to leave -- he hears a sound -- a familiar sound -- hum -- hum -- hum --
+</DIRECTION>
+<DIRECTION>
+He cross the street -- looks down to the Quai below --
+</DIRECTION>
+<DIRECTION>
+Holy shit -- there's one of his E-PHONE PAGERS --
+</DIRECTION>
+<DIRECTION>
+He goes down -- picks it up --
+</DIRECTION>
+<DIRECTION>
+And now --
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	What did you do to me?
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+CONKLIN wheels around. There he is. Right behind him.
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	What did I do? What've you done? Do you have any idea? Any conception? What you've destroyed? Do you have any idea how much time and work -- how many people have their lives wrapped up in this?
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+So now you know.
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	Are you Treadstone?
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	Am I Treadstone? Me?
+	</DIALOGUE>
+<DIRECTION>
+(peering at him closely now --)
+</DIRECTION>
+	<DIALOGUE>
+	What the hell're you talking about?
+	</DIALOGUE>
+</CONKLIN>
+<DIRECTION>
+BOURNE showing nothing -- or is he trying too hard not to?
+</DIRECTION>
+<BOURNE>
+	<DIALOGUE>
+	What did you do to me?
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	What did I do? I spent thirty million dollars on you. I spent three years finding you -- four years training you --
+	</DIALOGUE>
+<DIRECTION>
+(incredulous)
+</DIRECTION>
+	<DIALOGUE>
+	What did I do?
+	</DIALOGUE>
+<DIRECTION>
+(staring now)
+</DIRECTION>
+	<DIALOGUE>
+	What in the name of God have you been doing, Jason?
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	They're right about you, aren't they? You're fried.
+	</DIALOGUE>
+<DIRECTION>
+(on it now)
+</DIRECTION>
+	<DIALOGUE>
+	You really don't know what's going on, do you?
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	I know you've been trying to kill me.
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	Of course. We had to try. We didn't know what was wrong.
+	</DIALOGUE>
+<DIRECTION>
+(warming to this --)
+</DIRECTION>
+	<DIALOGUE>
+	We didn't know you were in trouble.
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	So now you know.
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	So it's time to go home.
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	That's all I get?
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	We'll make you better. We can put the pieces back. We can do that.
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	I don't think so.
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	We have to go home, Jason.
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	Jason Bourne is dead.
+	</DIALOGUE>
+</BOURNE>
+<CONKLIN>
+	<DIALOGUE>
+	There never was a Jason Bourne.
+	</DIALOGUE>
+<DIRECTION>
+(that gets him)
+</DIRECTION>
+	<DIALOGUE>
+	You have to come with me. It's the only way. We can give it back to you...
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	Keep it.
+	</DIALOGUE>
+<DIRECTION>
+(and he's walking --)
+</DIRECTION>
+<CONKLIN>
+	<DIALOGUE>
+	Jason...
+	</DIALOGUE>
+<DIRECTION>
+(trying to follow --)
+</DIRECTION>
+	<DIALOGUE>
+	They can't let you go...
+	</DIALOGUE>
+</CONKLIN>
+<BOURNE>
+	<DIALOGUE>
+	That'll be their second worst mistake.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+And with that, BOURNE scrambles up a wall -- like it's nothing -- CONKLIN just left there -- on the Quai -- in the dark --
+</DIRECTION>
+<DIRECTION>
+EXT. BANKS OF THE SEINE -- NIGHT
+</DIRECTION>
+<DIRECTION>
+BOURNE walking away -- faster and faster --
+</DIRECTION>
+<DIRECTION>
+EXT. BANKS OF THE SEINE NEARBY -- NIGHT
+</DIRECTION>
+<DIRECTION>
+MANHEIM -- A CAR PARKED IN THE DARKNESS -- sitting alone with his briefcase. Opening it. There's his gun.
+</DIRECTION>
+<DIRECTION>
+BOURNE -- walking -- deeper into the darkness and --
+</DIRECTION>
+<DIRECTION>
+MANHEIM -- in the dark car -- loading the weapon -- calm -- steady -- methodical and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- walking and --
+</DIRECTION>
+<DIRECTION>
+MANHEIM -- stepping out of the car -- closing the door quietly -- deep in the shadows and --
+</DIRECTION>
+<DIRECTION>
+BOURNE -- still coming -- the darkest part of the path just ahead and --
+</DIRECTION>
+<DIRECTION>
+MANHEIM -- raising the gun and --
+</DIRECTION>
+<DIRECTION>
+THE CAMERA SPINS TO HIS TARGET AND --
+</DIRECTION>
+<DIRECTION>
+IT'S CONKLIN! -- just climbing back up from the Quai --
+</DIRECTION>
+<DIRECTION>
+MANHEIM -- the gun -- phftt -- phftt -- phftt --
+</DIRECTION>
+<DIRECTION>
+CONKLIN -- three holes -- head -- heart -- gut -- his body dropping like a stone beside his car.
+</DIRECTION>
+<DIRECTION>
+MANHEIM walks over. Looks down. Point blank -- phftt -- that makes it four and --
+</DIRECTION>
+<DIRECTION>
+INT. TREADSTONE COMMUNICATIONS DESK -- NIGHT
+</DIRECTION>
+<DIRECTION>
+ABBOTT and ZORN alone in the dark. As a red light begins pulsing on the console.
+</DIRECTION>
+<DIRECTION>
+That red light means Conklin's dead.
+</DIRECTION>
+<DIRECTION>
+After a moment, ZORN moves to the console and shuts the light off.
+</DIRECTION>
+<DIRECTION>
+EXT. BANKS OF THE SEINE -- NIGHT
+</DIRECTION>
+<DIRECTION>
+BOURNE still walking. And he's just gonna keep on going, as we --
+</DIRECTION>
+<DIRECTION>
+DISSOLVE TO:
+</DIRECTION>
+<DIRECTION>
+INT. CIA OPERATIONS CONFERENCE ROOM -- DAY
+</DIRECTION>
+<DIRECTION>
+MARSHALL at the head of the table. A cadre of INTEL HONCHOS.
+</DIRECTION>
+<ABBOTT>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	The Treadstone project has actually already been terminated. It was designed primarily as a sort of advanced game program...
+	</DIALOGUE>
+</ABBOTT>
+<DIRECTION>
+ABBOTT in the hot seat. ZORN right there beside him.
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	...We'd hoped it might build into a good training platform, but quite honestly, for a strictly theoretical exercise, we thought it was far too expensive. The cost-benefit ratio was just too high. It's been all but decommissioned at this point.
+	</DIALOGUE>
+</ABBOTT>
+<MARSHALL>
+	<DIALOGUE>
+	All right, what's next?
+	</DIALOGUE>
+</MARSHALL>
+<DIRECTION>
+ZORN handing ABBOTT the next hundred pages.
+</DIRECTION>
+<ABBOTT>
+	<DIALOGUE>
+	Okay, this is Blackbriar. Blackbriar is a joint, DOD, communications program that we really feel has good traction to it.
+	</DIALOGUE>
+</ABBOTT>
+<DIRECTION>
+ABBOTT is just gonna go on and on and on.
+</DIRECTION>
+<DIRECTION>
+EXT. MARTHA'S VINEYARD -- DAY
+</DIRECTION>
+<DIRECTION>
+Gorgeous Summer day. A SCOOTER RENTAL SHACK near the beach.
+</DIRECTION>
+<DIRECTION>
+SIX MONTHS LATER
+</DIRECTION>
+<DIRECTION>
+MARIE coming out of the shack with two helmets. Handing them to A HAPPY COUPLE waiting there on their scooters.
+</DIRECTION>
+<DIRECTION>
+THE HAPPY COUPLE rides off.
+</DIRECTION>
+<DIRECTION>
+MARIE turns back and --
+</DIRECTION>
+<DIRECTION>
+There's BOURNE. A new look. A smile.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	Can I help you?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	This your store?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Think I could rent a scooter?
+	</DIALOGUE>
+</BOURNE>
+<MARIE>
+	<DIALOGUE>
+	You have ID?
+	</DIALOGUE>
+</MARIE>
+<BOURNE>
+	<DIALOGUE>
+	Not really.
+	</DIALOGUE>
+</BOURNE>
+<DIRECTION>
+Beat. He smiles.
+</DIRECTION>
+<MARIE>
+	<DIALOGUE>
+	It's not a problem.
+	</DIALOGUE>
+</MARIE>
+<DIRECTION>
+Her turn to smile. And we...
+</DIRECTION>
+<DIRECTION>
+FADE OUT:
+</DIRECTION>
+<DIRECTION>
+THE END
+</DIRECTION>

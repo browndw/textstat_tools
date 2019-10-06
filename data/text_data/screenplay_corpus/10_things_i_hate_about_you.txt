@@ -1,0 +1,8114 @@
+<DIRECTION>
+:SC: PADUA HIGH SCHOOL - DAY
+</DIRECTION>
+<DIRECTION>
+Welcome to Padua High School,, your typical urban-suburban high school in Portland, Oregon. Smarties, Skids, Preppies, Granolas. Loners, Lovers, the In and the Out Crowd rub sleep out of their eyes and head for the main building.
+</DIRECTION>
+<DIRECTION>
+:SC: PADUA HIGH PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+KAT STRATFORD, eighteen, pretty -- but trying hard not to be -- in a baggy granny dress and glasses, balances a cup of coffee and a backpack as she climbs out of her battered, baby blue '75 Dodge Dart.
+</DIRECTION>
+<DIRECTION>
+A stray SKATEBOARD clips her, causing her to stumble and spill her coffee, as well as the contents of her backpack.
+</DIRECTION>
+<DIRECTION>
+The young RIDER dashes over to help, trembling when he sees who his board has hit.
+</DIRECTION>
+<RIDER>
+	<DIALOGUE>
+	Hey -- sorry.
+	</DIALOGUE>
+</RIDER>
+<DIRECTION>
+Cowering in fear, he attempts to scoop up her scattered belongings.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Leave it
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He persists.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I said, leave it!
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She grabs his skateboard and uses it to SHOVE him against a car, skateboard tip to his throat. He whimpers pitifully and she lets him go. A path clears for her as she marches through a pack of fearful students and SLAMS open the door, entering school.
+</DIRECTION>
+<DIRECTION>
+INT. GIRLS' ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+BIANCA STRATFORD, a beautiful sophomore, stands facing the mirror, applying lipstick. Her less extraordinary, but still cute friend, CHASTITY stands next to her.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Did you change your hair?
+	</DIALOGUE>
+</BIANCA>
+<CHASTITY>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</CHASTITY>
+<BIANCA>
+	<DIALOGUE>
+	You might wanna think about it
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Leave the girls' room and enter the hallway.
+</DIRECTION>
+<DIRECTION>
+HALLWAY - DAY- CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Bianca is immediately greeted by an admiring crowd, both boys and girls alike.
+</DIRECTION>
+<BOY>
+<DIRECTION>
+(adoring)
+</DIRECTION>
+	<DIALOGUE>
+	Hey, Bianca.
+	</DIALOGUE>
+</BOY>
+<GIRL>
+	<DIALOGUE>
+	Awesome shoes.
+	</DIALOGUE>
+</GIRL>
+<DIRECTION>
+The greetings continue as Chastity remains wordless and unaddressed by her side. Bianca smiles proudly, acknowledging her fans.
+</DIRECTION>
+<DIRECTION>
+GUIDANCE COUNSELOR'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+CAMERON JAMES, a clean-cut, easy-going senior with an open, farm-boy face, sits facing Miss Perky, an impossibly cheery guidance counselor.
+</DIRECTION>
+<MISS_PERKY>
+	<DIALOGUE>
+	I'm sure you won't find Padua any different than your old school. Same little asswipe mother-fuckers everywhere.
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+Her plastic smile never leaves her face. Cameron fidgets in his chair uncomfortably.
+</DIRECTION>
+<MISS_PERKY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Any questions?
+	</DIALOGUE>
+</MISS_PERKY>
+<CAMERON>
+	<DIALOGUE>
+	I don't think so, ma'am
+	</DIALOGUE>
+</CAMERON>
+<MISS_PERKY>
+	<DIALOGUE>
+	Then go forth. Scoot I've got deviants to see.
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+Cameron rises to leave and makes eye contact with PATRICK VERONA, a sullen-looking bad ass senior who waits outside Ms Perky's door. His slouch and smirk let us know how cool he is.
+</DIRECTION>
+<DIRECTION>
+Miss Perky looks down at her file and up at Patrick
+</DIRECTION>
+<MISS_PERKY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Patrick Verona. I see we're making our visits a weekly ritual.
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+She gives him a withering glance. He answers with a charming smile.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I missed you.
+	</DIALOGUE>
+</PATRICK>
+<MISS_PERKY>
+	<DIALOGUE>
+	It says here you exposed yourself to a group of freshmen girls.
+	</DIALOGUE>
+</MISS_PERKY>
+<PATRICK>
+	<DIALOGUE>
+	It was a bratwurst. I was eating lunch.
+	</DIALOGUE>
+</PATRICK>
+<MISS_PERKY>
+	<DIALOGUE>
+	With the teeth of your zipper?
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+She motions for Patrick to enter her office and Cameron shuffles out the door, bumping into MICHAEL ECKMAN, a lanky, brainy senior who will either end up a politician or game show host.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	You the new guy?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	So they tell me...
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	C'mon. I'm supposed to give you the tour.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+They head out of the office
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	So -- which Dakota you from?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	North, actually. How'd you ?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	I was kidding. People actually live there?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Yeah. A couple. We're outnumbered by the cows, though.
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	How many people were in your old school?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Thirty-two.
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Get out!
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	How many people go here?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Couple thousand. Most of them evil
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+INT. HALLWAY - DAY- CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Prom posters adorn the wall. Michael steers Cameron through the crowd as he points to various cliques.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	We've got your basic beautiful people. Unless they talk to you first, don't bother.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+The beautiful people pass, in full jock/cheerleader splendor.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Those 're your cowboys.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Several Stetson-wearing, big belt buckle. Wrangler guys walk by.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	That I'm used to.
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Yeah, but these guys have never seen a horse. They just jack off to Clint Eastwood.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+They pass an espresso cart with a group of teens huddled around it.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	To the right, we have the Coffee Kids. Very edgy. Don't make any sudden movements around them.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+EXT. SCHOOL COURTYARD - DAY
+</DIRECTION>
+<DIRECTION>
+Michael continues the tour
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	And these delusionals are the White Rastae.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Several white boys in dreadlocks and Jamaican knit berets lounge on the grass. A cloud of pot smoke hovers above them
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Big Marley fans. Think they're black. Semi-political, but mostly, they watch a lot of Wild Kingdom, if you know what I mean.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Michael waves to DEREK, the one with the longest dreads.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Derek - save some for after lunch, bub?
+	</DIALOGUE>
+</MICHAEL>
+<DEREK>
+<DIRECTION>
+(very stoned)
+</DIRECTION>
+	<DIALOGUE>
+	Michael, my brother, peace
+	</DIALOGUE>
+</DEREK>
+<DIRECTION>
+Cameron turns to follow Michael as they walk into the cafeteria.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	So where do you fit in all this?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+INT. CAFETERIA - DAY - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Loud music and loud students. Michael sits with a group of studious-looking teens.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Future MBAs- We're all Ivy League, already accepted. Someday I'll be sipping Merlot while those guys --
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+He points to the table of jocks, as they torture various passers-by.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	are fixing my Saab. Yuppie greed is back, my friend.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+He points proudly to the ALLIGATOR on his shirt.
+</DIRECTION>
+<DIRECTION>
+Cameron stops listening as BIANCA walks by, and we go SLO MO. Pure and perfect, she passes Cameron and Michael without a look.
+</DIRECTION>
+<DIRECTION>
+Cameron is smitten
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	That girl -- I --
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	You burn, you pine, you perish?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Who is she?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Bianca Stratford. Sophomore. Don't even think about it
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Why not?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	I could start with your haircut, but it doesn't matter. She's not allowed to date until her older sister does. And that's an impossibility.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+ENGLISH CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+A room full of bored seniors doodle and scare off into space MS. BLAISE, the one-step-away-from-medication English Teacher, tries to remember what she's talking about.
+</DIRECTION>
+<MRS_BLAISE>
+	<DIALOGUE>
+	Well, then. Oh, yes. I guess that does it for our analysis of The Old Man and the Sea. Any other comments?
+	</DIALOGUE>
+<DIRECTION>
+(with dread)
+</DIRECTION>
+	<DIALOGUE>
+	Kat?
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+Kat, the girl we saw as we entered the school, slowly cakes off her glasses and speaks up.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Why didn't we just read the Hardy Boys?
+	</DIALOGUE>
+</KAT>
+<MRS_BLAISE>
+	<DIALOGUE>
+	I'm sorry?
+	</DIALOGUE>
+</MRS_BLAISE>
+<KAT>
+	<DIALOGUE>
+	This book is about a guy and his fishing habit. Not exactly a crucial topic.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+The other students roll their eyes.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Frankly, I'm baffled as to why we still revere Hemingway. He was an abusive, alcoholic misogynist who had a lot of cats.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+JOEY DORSEY, a well-muscled jock with great cheekbones, makes fun of her from his row.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	As opposed to a bitter self-righteous hag who has no friends?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+A few giggles. Kat ignores him. A practiced gesture
+</DIRECTION>
+<MRS_BLAISE>
+	<DIALOGUE>
+	That's enough, Mr. Dorsey.
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+Really gets fired up now
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I guess the school board thinks because Hemingway's male and an asshole, he's worthy of our time
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She looks up at Ms. Blaise, who is now fighting with her pill box.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	What about Colette? Charlotte Bronte? Simone de Beauvoir?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick, lounging in his seat in the back row, elbows a crusty-looking crony, identified by the name SCURVY, embroidered on his workshirt.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Mother Goose?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+The class titters. Kat wears an expression of intolerance
+</DIRECTION>
+<DIRECTION>
+INT. GUIDANCE COUNSELOR'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Kat now sits before Miss Perky.
+</DIRECTION>
+<MISS_PERKY>
+	<DIALOGUE>
+	Katarina Stratford. My, my. You've been terrorizing Ms. Blaise again.
+	</DIALOGUE>
+</MISS_PERKY>
+<KAT>
+	<DIALOGUE>
+	Expressing my opinion is not a terrorist action.
+	</DIALOGUE>
+</KAT>
+<MISS_PERKY>
+	<DIALOGUE>
+	Well, yes, compared to your other choices of expression this year, today's events are quite mild. By the way, Bobby Rictor's gonad retrieval operation went quite well, in case you're interested.
+	</DIALOGUE>
+</MISS_PERKY>
+<KAT>
+	<DIALOGUE>
+	I still maintain that he kicked himself in the balls. I was merely a spectator.
+	</DIALOGUE>
+</KAT>
+<MISS_PERKY>
+	<DIALOGUE>
+	The point is Kat -- people perceive you as somewhat ...
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+Kat smiles at her, daring her to say it.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Tempestuous?
+	</DIALOGUE>
+</KAT>
+<MISS_PERKY>
+	<DIALOGUE>
+	No ... I believe "heinous bitch" is the term used most often.
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+She grimaces, as if she's referring to a medical condition.
+</DIRECTION>
+<MISS_PERKY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You might want to work on that
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+Kat rises from her chair with a plastic smile matching the counselor's.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	As always, thank you for your excellent guidance.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+INT. SOPHOMORE ENGLISH CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+Bianca ignores the droning teacher as she writes a note in big flowing handwriting.
+</DIRECTION>
+<TEACHER>
+<DIRECTION>
+(0.S.)
+</DIRECTION>
+	<DIALOGUE>
+	I realize the language of Mr. Shakespeare makes him a bit daunting, but I'm sure you're all doing your best.
+	</DIALOGUE>
+</TEACHER>
+<DIRECTION>
+Bianca folds the note and passes it behind her with a flip of her hair to CHASTITY. Chastity opens the note and reads:
+</DIRECTION>
+<DIRECTION>
+INSERT - "JOEY DORSEY SAID HI TO ME IN THE HALL! OH! MY GOD!"
+</DIRECTION>
+<DIRECTION>
+Chastity frowns to herself.
+</DIRECTION>
+<TEACHER>
+<DIRECTION>
+(0.S.) (continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Ms. Stratford, do you care to comment on what you've read so far?
+	</DIALOGUE>
+</TEACHER>
+<DIRECTION>
+Bianca looks up and smiles the smile of Daddy's little girl.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Not really.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+The teacher shakes her head, but lets it go.
+</DIRECTION>
+<DIRECTION>
+MANDELLA. a waif-like senior girl who sits off to the side trying to slit her wrist with the plastic spiral on her notebook, looks up and raises her hand.
+</DIRECTION>
+<TEACHER>
+	<DIALOGUE>
+	Mandella -- since you're assisting us, you might as well comment. I'm assuming you read the assignment.
+	</DIALOGUE>
+</TEACHER>
+<MANDELLA>
+	<DIALOGUE>
+	Uh, yeah, I read it all
+	</DIALOGUE>
+</MANDELLA>
+<TEACHER>
+	<DIALOGUE>
+	The whole play^
+	</DIALOGUE>
+</TEACHER>
+<MANDELIA>
+	<DIALOGUE>
+	The whole folio. All the plays.
+	</DIALOGUE>
+</MANDELIA>
+<TEACHER>
+<DIRECTION>
+(disbelieving)
+</DIRECTION>
+	<DIALOGUE>
+	You've read every play by William Shakespeare?
+	</DIALOGUE>
+</TEACHER>
+<MANDELLA>
+	<DIALOGUE>
+	Haven't you?
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+She raises a challenging eyebrow. The stunned teacher doesn't answer and goes to call on the next student.
+</DIRECTION>
+<DIRECTION>
+EXT. SCHOOL COURTYARD - DAY
+</DIRECTION>
+<DIRECTION>
+Mandella and Kat sit down in the quiet corner. They are eating a carton of yogurt with gusto.
+</DIRECTION>
+<MANDELLA>
+<DIRECTION>
+Your sister is so amazingly without. She'll never read him. She has no idea.
+</DIRECTION>
+<DIRECTION>
+Kat attacks
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	The fact that you're cutting gym so you can T.A. Sophomore English just to hear his name, is a little without in itself if you ask me.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Kat's attention is caught by Patrick as he walks by with his friends, lighting up a cigarette. Mandella notices her staring.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	Who's that?
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	Patrick Verona Random skid.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	That's Pat Verona? The one who was gone for a year? I heard he was doing porn movies.
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	I'm sure he's completely incapable of doing anything that interesting.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	He always look so
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	Block E?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Kat turns back to face Mandella and forces her yogurt into Mandella's hand.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Mandella, eat. Starving yourself is a very slow way to die.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	Just a little.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+She eats. Kat sees her wrist
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	What's this?
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	An attempted slit.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Kat stares at her, expressionless.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I realize that the men of this fine institution are severely lacking, but killing yourself so you can be with William Shakespeare is beyond the scope of normal teenage obsessions. You're venturing far past daytime talk show fodder and entering the world of those who need very expensive therapy.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	But imagine the things he'd say during sex.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Thinks a minute
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Okay, say you do it. You kill yourself, you end up in wherever you end up and he's there. Do you really think he's gonna wanna dace a ninety pound compulsive who failed volleyball?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Mandella's attention is struck by Bianca
+</DIRECTION>
+<DIRECTION>
+ACROSS THE COURTYARD
+</DIRECTION>
+<DIRECTION>
+As she and Chastity parade by Joey and his COHORTS One of the cohorts elbows Joey.
+</DIRECTION>
+<COHORT>
+	<DIALOGUE>
+	Virgin alert.
+	</DIALOGUE>
+</COHORT>
+<DIRECTION>
+Joey looks up and smiles at Bianca.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Lookin' good, ladies.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Bianca smiles her coyest of smiles.
+</DIRECTION>
+<DIRECTION>
+BACK TO KAT AND MANDELLA Still watching.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	Tragic.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Doesn't respond
+</DIRECTION>
+<DIRECTION>
+ANOTHER ANGLE
+</DIRECTION>
+<DIRECTION>
+Michael and Cameron observe Joey's leers at Bianca from their bench in another corner. Cowboys eating cue of a can of beans linger on the grass behind them.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Why do girls like that always like guys like that?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Because they're bred to. Their mothers liked guys like that, and their grandmothers before them. Their gene pool is rarely diluted.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	He always have that shit-eating grin?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Joey Dorsey? Perma-shit-grin. I wish I could say he's a moron, but he's number twelve in the class. And a model. Mostly regional stuff, but he's rumored to have a big tube sock ad coming out.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+The BELL rings, and the cowboys stand and spit into their empty bean cans. Cameron and Michael rise as Cameron tries to catch a glimpse of Bianca as she walks back inside.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You know French?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Sure do ... my Mom's from Canada
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Guess who just signed up for a tutor?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	You mean I'd get a chance to talk to her?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	You could consecrate with her, my friend.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Cameron watches as Bianca flounces back into the building.
+</DIRECTION>
+<DIRECTION>
+EXT. SCHOOL PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+Kat and Mandella walk toward Kat's car. Joey pulls up beside her in his Viper.
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(re her dress)
+</DIRECTION>
+	<DIALOGUE>
+	The vintage look is over, Kat. Haven't you been reading your Sassy?
+	</DIALOGUE>
+</JOEY>
+<KAT>
+	<DIALOGUE>
+	Yeah, and I noticed the only part of you featured in your big Kmart spread was your elbow. Tough break.
+	</DIALOGUE>
+</KAT>
+<JOEY>
+<DIRECTION>
+(practically spitting)
+</DIRECTION>
+	<DIALOGUE>
+	They're running the rest of me next month.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+He zooms away as Kat yanks open the door of her Dart. Mandella ties a silk scarf around her head, as if they're in a convertible.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	The people at this school are so incredibly foul.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	You could always go with me. I'm sure William has some friends.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+They watch Joey's car as he slows next to Bianca and Chastity as they walk toward the school bus.
+</DIRECTION>
+<DIRECTION>
+ON BIANCA AND CHASTITY
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Need a ride, ladies?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Bianca and Chastity can't get in Joey's car fast enough. He pulls away with a smile.
+</DIRECTION>
+<DIRECTION>
+BACK TO KAT AND MANDELLA
+</DIRECTION>
+<DIRECTION>
+Mandella lowers her sunglasses to watch.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	That's a charming new development
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Kat doesn't answer, but reaches over and puts a tape in the tape deck. The sounds of JOYFUL PUNK ROCK fill the car.
+</DIRECTION>
+<DIRECTION>
+As they pull out, Michael crosses in front of them on his moped. Kat has to SLAM the brakes to keep from hitting him
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	Remove head from sphincter! Then pedal!
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Michael begins fearfully, pedaling as Kat PEELS out, angry at the delay.
+</DIRECTION>
+<DIRECTION>
+Cameron rushes over
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	You all right?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+He slows to a stop
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Yeah, just a minor encounter with the shrew.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	That's her? Bianca's sister?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	The mewling, rampalian wretch herself.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Michael putters off, leaving Cameron dodging Patrick's grimy, grey Jeep -- a vehicle several years and many paint jobs away from its former glory as a REGULATION MAIL TRUCK - - as he sideswipes several cars on his way out of the lot.
+</DIRECTION>
+<DIRECTION>
+INT. STRATFORD HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+SHARON STRATFORD, attractive and focused, sits in front of her computer, typing quickly. A shelf next to her holds several bodice-ripper romance novels, bearing her name.
+</DIRECTION>
+<DIRECTION>
+Kat stands behind her, reading over her shoulder as she types.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	"Undulating with desire, Adrienne removes her crimson cape, revealing her creamy --"
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+WALTER STRATFORD, a blustery, mad scientist-type obstetrician, enters through the front door, wearing a doctor's white jacket and carrying his black bag.
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+I hope dinner's ready because I only have ten minutes before Mrs. Johnson squirts out a screamer.
+</DIRECTION>
+<DIRECTION>
+He grabs the mail and rifles through it, as he bends down to kiss Sharon on the cheek.
+</DIRECTION>
+<SHARON>
+	<DIALOGUE>
+	In the microwave.
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+<DIRECTION>
+(to Kat)
+</DIRECTION>
+	<DIALOGUE>
+	Make anyone cry today?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	Sadly, no. But it's only four-thirty.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca walks in.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Where've you been?
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+<DIRECTION>
+(eyeing Walter)
+</DIRECTION>
+	<DIALOGUE>
+	Nowhere... Hi, Daddy.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She kisses him on the cheek
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	Hello, precious.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Walter kisses Bianca back as Kat heads up the stairs
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	How touching.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Walter holds up a letter to Kat
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	What's this? It says Sarah Lawrence?
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Snatches it away from him.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I guess I got in
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Sharon looks up from her computer.
+</DIRECTION>
+<SHARON>
+	<DIALOGUE>
+	What's a synonym for throbbing?
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+	<DIALOGUE>
+	Sarah Lawrence is on the other side of the country.
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	I know.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	I thought we decided you were going to school here. At U of 0.
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	You decided.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	Is there even a question that we want her to stay?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat gives Bianca an evil look then smiles sweetly at
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Ask Bianca who drove her home
+	</DIALOGUE>
+</KAT>
+<SHARON>
+	<DIALOGUE>
+	Swollen...turgid.
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+<DIRECTION>
+(to Bianca; upset)
+</DIRECTION>
+	<DIALOGUE>
+	Who drove you home?
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Bianca glares at Kat then turns to Walter
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Now don't get upset. Daddy, but there's this boy... and I think he might ask...
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	No! You're not dating until your sister starts dating. End of discussion.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	What if she never starts dating?
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	Then neither will you. And I'll get to sleep at night.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	But it's not fair -- she's a mutant, Daddy!
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	This from someone whose diary is devoted to favorite grooming tips?
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	Enough!
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+He pulls out a small tape recorder from his black bag.
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Do you know what this is?
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+He hits the "play' button and SHRIEKS OF PAIN emanate from the tape recorder.
+</DIRECTION>
+<BIANCA_AND_WALTER>
+<DIRECTION>
+(in unison, by rote)
+</DIRECTION>
+	<DIALOGUE>
+	The sound of a fifteen-year-old in labor.
+	</DIALOGUE>
+</BIANCA_AND_WALTER>
+<WALTER>
+	<DIALOGUE>
+	This is why you're not dating until your sister does.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	But she doesn't want to date.
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	Exactly my point
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+His BEEPER goes off and he grabs his bag again
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Jesus! Can a man even grab a sandwich before you women start dilating?
+	</DIALOGUE>
+</WALTER>
+<SHARON>
+	<DIALOGUE>
+	Tumescent!
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+<DIRECTION>
+(to Sharon; as he leaves)
+</DIRECTION>
+	<DIALOGUE>
+	You're not helping.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+INT. TUTORING ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Cameron sits with an empty chair beside him. Bianca arrives in a flurry of blonde hair.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Can we make this quick? Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad. Again.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Well, I thought we'd start with pronunciation, if that's okay with you.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+BIANCA Not the hacking and gagging and spitting part. Please.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(looking down)
+</DIRECTION>
+	<DIALOGUE>
+	Okay... then how 'bout we try out some French cuisine. Saturday? Night?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca smiles slowly
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	You're asking me out. That's so cute. What's your name again?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+<DIRECTION>
+(embarrassed)
+</DIRECTION>
+	<DIALOGUE>
+	Forget it.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca seizes an opportunity.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	No, no, it's my fault -- we didn't have a proper introduction ---
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Cameron.
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	The thing is, Cameron -- I'm at the mercy of a particularly hideous breed of loser. My sister. I can't date until she does.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Seems like she could get a date easy enough...
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+She fingers a lock of her hair. He looks on, dazzled.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+The problem is, she's completely anti-social.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Unsolved mystery. She used to be really popular when she started high school, then it was just like she got sick of it or something.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	That's a shame.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+She reaches out and touches his arm
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Gosh, if only we could find Kat a boyfriend...
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Let me see what I can do.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Cameron smiles, having no idea how stupid he is
+</DIRECTION>
+<DIRECTION>
+INT. BIOLOGY CLASS
+</DIRECTION>
+<DIRECTION>
+A frog is being torn asunder by several prongs and picks. Michael and Cameron go for the spleen.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	You're in school for one day and you ask out the most beautiful girl? Do you have no concept of the high school social code?
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Cameron grins away
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	I teach her French, get to know her, dazzle her with charm and she falls in love with me.
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Unlikely, but even so, she still can't go out with you. So what's the point?
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Cameron motions with his head toward Patrick, a few lab tables away. He's wearing biker glasses instead of goggles as he tries to revive his frog.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	What about him?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+<DIRECTION>
+(confused)
+</DIRECTION>
+	<DIALOGUE>
+	You wanna go out with him?
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+The others at the lab table raise their eyebrows
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(impatient)
+</DIRECTION>
+	<DIALOGUE>
+	No - he could wrangle with the sister.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Michael smiles. Liking the intrigue.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	What makes you think he'll do it?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	He seems like he thrives on danger
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	No kidding. He's a criminal. I heard he lit a state trooper on fire. He just got out of Alcatraz...
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	They always let felons sit in on Honors Biology?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	I'm serious, man, he's whacked. He sold his own liver on the black market so he could buy new speakers.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Forget his reputation. Do you think we've got a plan or not?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Did she actually say she'd go out with you?
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	That's what I just said
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Michael processes this.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	You know, if you do go out with Bianca, you'd be set. You'd outrank everyone. Strictly A-list. With me by your side.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	I thought you hated those people.
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Hey -- I've gotta have a few clients when I get to Wall Street.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+A cowboy flicks the frog's heart into one of the Coffee Kid's latte. Cameron presses on, over the melee.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	So now all we gotta do is talk to him.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+He points to Patrick, who now makes his frog hump another frog, with full-on sound effects.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	I'll let you handle that.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+INT. WOODSHOP - DAY
+</DIRECTION>
+<DIRECTION>
+Boys and a few stray girls nail their pieces of wood
+</DIRECTION>
+<DIRECTION>
+Michael sits next to PEPE, a Coffee Kid, who holds out his jacket like the men who sell watches in the subway. Inside several bags of coffee hang from hooks.
+</DIRECTION>
+<PEPE>
+	<DIALOGUE>
+	Some people like the Colombian, but it all depends on your acidity preference. Me? I prefer East African and Indonesian. You start the day with a Sumatra Boengie or maybe and Ethiopian Sidamo in your cup, you're that much farther ahead than someone drinkin' Cosia Rican or Kona -- you know what I mean?
+	</DIALOGUE>
+</PEPE>
+<DIRECTION>
+Michael nods solemnly.
+</DIRECTION>
+<DIRECTION>
+ACROSS THE ROOM
+</DIRECTION>
+<DIRECTION>
+Patrick sits at a table with Scurvy, making something that looks like a machete out of a two-by-four.
+</DIRECTION>
+<DIRECTION>
+Cameron approaches, full of good-natured farm boy cheer
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Hey, there
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+In response, Patrick brandishes a loud POWER TOOL in his direction.
+</DIRECTION>
+<DIRECTION>
+Cameron slinks away.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Later, then.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Michael watches, shaking his head.
+</DIRECTION>
+<DIRECTION>
+INT. CAFETERIA - DAY
+</DIRECTION>
+<DIRECTION>
+Joey and his pals take turns drawing boobs onto a cafeteria tray with a magic marker.
+</DIRECTION>
+<DIRECTION>
+Michael walks up and sits between them, casual as can be
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Hey.
+	</DIALOGUE>
+</MICHAEL>
+<JOEY>
+	<DIALOGUE>
+	Are you lost?
+	</DIALOGUE>
+</JOEY>
+<MICHAEL>
+	<DIALOGUE>
+	Nope - just came by to chat
+	</DIALOGUE>
+</MICHAEL>
+<JOEY>
+	<DIALOGUE>
+	We don't chat.
+	</DIALOGUE>
+</JOEY>
+<MICHAEL>
+	<DIALOGUE>
+	Well, actually, I thought I'd run an idea by you. You know, just to see if you're interested.
+	</DIALOGUE>
+</MICHAEL>
+<JOEY>
+	<DIALOGUE>
+	We're not.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+He grabs Michael by the side of the head, and proceeds to draw a penis on his cheek with the magic marker. Michael suffers the indignity and speaks undaunted.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(grimacing)
+</DIRECTION>
+	<DIALOGUE>
+	Hear me out. You want Bianca don't you?
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Joey sits back and cackles at his drawing.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	But she can't go out with you because her sister is this insane head case and no one will go out with her. right?
+	</DIALOGUE>
+</MICHAEL>
+<JOEY>
+	<DIALOGUE>
+	Does this conversation have a purpose?
+	</DIALOGUE>
+</JOEY>
+<MICHAEL>
+	<DIALOGUE>
+	So what you need to do is recruit a guy who'll go out with her. Someone who's up for the job.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Michael points to Patrick, who makes a disgusted face at his turkey pot pie before he rises and throws it at the garbage can, rather than in it.
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+That guy? I heard he ate a live duck once. Everything but the beak and the feet.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Exactly
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Joey turns to look at Michael.
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+What's in it for you?
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Oh, hey, nothin' man Purely good will on my part.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+He rises to leave and turns to the others.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I have a dick on my face, don't I?
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+INT. BOY'S ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Michael stands at the sink, trying to scrub Joey's artwork off his face as Cameron watches.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	You got him involved?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Like we had a choice? Besides -- when you let the enemy think he's orchestrating the battle, you're in a position of power. We let him pretend he's calling the shots, and while he's busy setting up the plan, you have time to woo Bianca.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Cameron grins and puts an arm around him
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	You're one brilliant guy
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Michael pulls back, noticing other guys filing in.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+Hey - I appreciate gratitude as much as the next guy, but it's not gonna do you any good to be known as New Kid Who Embraces Guys In The Bathroom.
+</DIRECTION>
+<DIRECTION>
+Cameron pulls back and attempts to posture himself in a manly way for the others, now watching.
+</DIRECTION>
+<DIRECTION>
+INT. KENNY'S THAI FOOD DINER - DAY
+</DIRECTION>
+<DIRECTION>
+Kat and Mandella pick apart their pad thai. Mandella is smoking.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	So he has this huge raging fit about Sarah Lawrence and insists that I go to his male-dominated, puking frat boy, number one golf team school. I have no say at all.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	William would never have gone to a state school.
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	William didn't even go to high school
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	That's never been proven
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	Neither has his heterosexuality.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Mandella replies with a look of ice. Kat uses the moment to stub out Mandella's cigarette.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I appreciate your efforts toward a speedy death, but I'm consuming.
+	</DIALOGUE>
+<DIRECTION>
+(pointing at her food)
+</DIRECTION>
+	<DIALOGUE>
+	Do you mind?
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	Does it matter?
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	If I was Bianca, it would be, "Any school you want, precious. Don't forget your tiara."
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+They both look up as Patrick enters. He walks up to the counter to place his order.
+</DIRECTION>
+<DIRECTION>
+Mandella leans toward Kat with the glow of fresh gossip
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	Janice Parker told me he was a roadie for Marilyn Manson.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Patrick nods at them as he takes his food outside.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Janice Parker is an idiot
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+INT. MISS PERKY'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Patrick sits before Miss Perky, eating his Thai food
+</DIRECTION>
+<MISS_PERKY>
+<DIRECTION>
+(looking at chart)
+</DIRECTION>
+	<DIALOGUE>
+	I don't understand, Patrick. You haven't done anything asinine this week. Are you not feeling well?
+	</DIALOGUE>
+</MISS_PERKY>
+<PATRICK>
+	<DIALOGUE>
+	Touch of the flu.
+	</DIALOGUE>
+</PATRICK>
+<MISS_PERKY>
+	<DIALOGUE>
+	I'm at a loss, then. What should we talk about? Your year of absence?
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+He smiles his charming smile
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	How 'bout your sex life?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She tolerates his comment with her withering glance.
+</DIRECTION>
+<MISS_PERKY>
+	<DIALOGUE>
+	Why don't we discuss your driving need to be a hemorrhoid?
+	</DIALOGUE>
+</MISS_PERKY>
+<PATRICK>
+	<DIALOGUE>
+	What's to discuss?
+	</DIALOGUE>
+</PATRICK>
+<MISS_PERKY>
+	<DIALOGUE>
+	You weren't abused, you aren't stupid, and as far as I can tell, you're only slightly psychotic -- so why is it that you're such a fuck-up?
+	</DIALOGUE>
+</MISS_PERKY>
+<PATRICK>
+	<DIALOGUE>
+	Well, you know -- there's the prestige of the job title... and the benefits package is pretty good...
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+The bell RINGS.
+</DIRECTION>
+<MISS_PERKY>
+	<DIALOGUE>
+	Fine. Go do something repugnant and give us something to talk about next week.
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+INT. TUTORING ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Several pairs of tutors and students sit at the various desks.
+</DIRECTION>
+<DIRECTION>
+Mandella sits with TREVOR, a White Rasta. She attempts to get him to do geometry, but he stares at her, as if smitten
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	Look, it's really easy.
+	</DIALOGUE>
+</MANDELLA>
+<TREVOR>
+	<DIALOGUE>
+	You're a freedom fighter. Be proud, sister.
+	</DIALOGUE>
+</TREVOR>
+<DIRECTION>
+Mandella sets down her pencil and closes the book.
+</DIRECTION>
+<MANDELLA>
+<DIRECTION>
+(rotely)
+</DIRECTION>
+	<DIALOGUE>
+	It's Mandella with two L's. I am not related to Nelson Mandela. I am not a political figure. I do not live in South Africa. My parents just spent a few too many acid trips thinking they were revolutionaries.
+	</DIALOGUE>
+</MANDELLA>
+<TREVOR>
+	<DIALOGUE>
+	But you freed our people
+	</DIALOGUE>
+</TREVOR>
+<MANDELLA>
+	<DIALOGUE>
+	Your "people" are white, suburban high school boys who smoke too much hemp. I have not freed you, Trevor.
+	</DIALOGUE>
+<DIRECTION>
+(grabbing his arm dramatically)
+</DIRECTION>
+	<DIALOGUE>
+	Only you can free yourself.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+ACROSS THE ROOM Bianca and Cameron sit side by side, cozy as can be
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	C'esc ma tete. This is my head
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Right. See? You're ready for the quiz.
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	I don't want to know how to say that though. I want to know useful things. Like where the good stores are. How much does champagne cost? Stuff like Chat. I have never in my life had to point out my head to someone.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	That's because it's such a nice one.
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Forget French.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She shuts her book and puts on a seductive smile
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	How is our little Find the Wench A Date plan progressing?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Well, there's someone I think might be --
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca's eyes light up
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Show me
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Cameron and Bianca lean against the wall -inconspicuously. Bianca plays it cool.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Give me a sign when he walks by. And don't point.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+The bell RINGS. Kids flood past. Then Patrick saunters by with Scurvy. Cameron nudges Bianca.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	There.
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Out of desperation, Cameron awkwardly lunges across Patrick's path. Patrick shoves him back against the wall without a thought. Cameron lands in a THUD at Bianca's feet.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	I guess he didn't see me
+	</DIALOGUE>
+<DIRECTION>
+(calling after Patrick)
+</DIRECTION>
+	<DIALOGUE>
+	Some other time --
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca watches Patrick, a wicked gleam in her eye.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	My God, he's repulsive. He's so perfect!
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+INT. GYM CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+Several volleyball games are being played.
+</DIRECTION>
+<DIRECTION>
+Joey and a member of his hulking entourage, approach Patrick, who still manages to look cool, even in gym clothes. They pull him aside roughly.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(shrugging them off)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Joey points
+</DIRECTION>
+<DIRECTION>
+JOEY See that girl?
+</DIRECTION>
+<DIRECTION>
+Patrick follows his line of vision to Kat as she spikes the ball into some poor cowboy's face.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Yeah
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	What do you think?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Kat wins the game and high fives the others, who are scared of her.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Two legs, nice rack...
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	Yeah, whatever. I want you to go out with her.
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	Sure, Sparky. I'll get right on it.
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	You just said
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	You need money to take a girl out
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	But you'd go out with her if you had the cake?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Patrick stares at Joey deadpan. His dislike for the guy obvious.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(sarcastic)
+</DIRECTION>
+	<DIALOGUE>
+	Yeah, I'd take her to Europe if I had the plane.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Joey smiles.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	You got it, Verona. I pick up the tab, you do the honors.
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	You're gonna pay me to take out some girl?
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	I can't date her sister until that one gets a boyfriend. And that's the catch. She doesn't want a boyfriend.
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	How much?
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+<DIRECTION>
+Twenty bucks each time you take her out.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I can't take a girl like that out on twenty bucks.
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	Fine, thirty.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Patrick raises an eyebrow, urging him up
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Take it or leave it. This isn't a negotiation.
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	Fifty, and you've got your man.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Patrick walks away with a smile
+</DIRECTION>
+<DIRECTION>
+EXT. FIELD HOCKEY FIELD - DAY
+</DIRECTION>
+<DIRECTION>
+Kat and the rest of the team go through a grueling practice session. Kat spares no one as she whips the ball all over the field.
+</DIRECTION>
+<DIRECTION>
+Patrick sits on the bleachers nearby, watching. A cigarette dangles from his mouth. His pal, SCURVY is next to him.
+</DIRECTION>
+<DIRECTION>
+MR. CHAPIN, the coach, blows the WHISTLE.
+</DIRECTION>
+<MR_CHAPIN>
+<DIRECTION>
+(proudly)
+</DIRECTION>
+	<DIALOGUE>
+	Good run, Stratford.
+	</DIALOGUE>
+</MR_CHAPIN>
+<DIRECTION>
+Kat nods in response, and the girls leave the field. Patrick hops down to follow.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Hey. Girlie.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat stops and turns slowly to look at him.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I mean Wo-man. How ya doin'?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(smiles brightly)
+</DIRECTION>
+	<DIALOGUE>
+	Sweating like a pig, actually. And yourself?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	There's a way to get a guy's attention.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	My mission in life.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She stands there undaunted, hand on hip.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Obviously, I've struck your fancy. So, you see, it worked. The world makes sense again.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick's eyes narrow. He steps closer.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Pick you up Friday, then
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Oh, right. Friday.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+PATRICK backs up a little. He uses his most seductive tone
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	The night I take you to places you've never been before. And back.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Like where? The 7-Eleven on Burnside? Do you even know my name, screwboy?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I know a lot more than that
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat stares at him.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Doubtful. Very doubtful.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She walks away quickly, leaving him standing alone.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(calling after her)
+</DIRECTION>
+	<DIALOGUE>
+	You're no bargain either, sweetheart.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Scurvy appears at his side
+</DIRECTION>
+<SCURVY>
+	<DIALOGUE>
+	So I guess the Jeep won't be getting a new Blaupunkt.
+	</DIALOGUE>
+</SCURVY>
+<DIRECTION>
+ACROSS THE FIELD Cameron and Michael watch.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	He took the bait.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+STRATFORD HOUSE/BATHROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat washes her face at the sink. Bianca appears behind her, and attempts to twist Kat's hair into a chignon.
+</DIRECTION>
+<DIRECTION>
+She wacks Bianca away.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Have you ever considered a new look? I mean, seriously, you could have some potential buried under all this hostility.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat pushes past her into the hallway.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I have the potential to smack the crap out of you if you don't get out of my way.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	Can you at least start wearing a bra?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat SLAMS her door in response.
+</DIRECTION>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Patrick, Scurvy and some other randoms head for the exit
+</DIRECTION>
+<DIRECTION>
+SCURVY You up for a burger?
+</DIRECTION>
+<DIRECTION>
+Patrick looks in his wallet. It's empty.
+</DIRECTION>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Kat stands at her locker, gathering her books. Patrick appears at her side, smiling.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Hey
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat doesn't answer
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You hate me don't you?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I don't really think you warrant that strong an emotion.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Then say you'll spend Dollar Night at the track with me.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	And why would I do that?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Come on -- the ponies, the flat beer, you with money in your eyes, me with my hand on your ass...
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You -- covered in my vomit.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Seven-thirty?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She slams her locker shut and walks away
+</DIRECTION>
+<DIRECTION>
+EXT. DOWNTOWN STREET - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat emerges from a music store carrying a bag of CDs in her teeth, and fumbling through her purse with both hands. She finds her keys and pulls them out with a triumphant tug.
+</DIRECTION>
+<DIRECTION>
+She looks up and finds Patrick sitting on the hood of her car
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Nice ride. Vintage fenders.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat takes the bag out of her mouth.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Are you following me?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I was in the laundromat. I saw your car. Thought I'd say hi.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Hi
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She gets in and starts the car.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	You're not a big talker, are you?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Depends on the topic. My fenders don't really whip me into a verbal frenzy.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She starts to pull out, and is blocked by Joey's Viper, which pulls up perpendicular to her rear and parks.
+</DIRECTION>
+<DIRECTION>
+Joey and his groupies emerge and head for the liquor store
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Hey -- do you mind?
+	</DIALOGUE>
+</KAT>
+<JOEY>
+	<DIALOGUE>
+	Not at all
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+They continue on into the store. Kat stares at them in disbelief...
+</DIRECTION>
+<DIRECTION>
+Then BACKS UP
+</DIRECTION>
+<DIRECTION>
+Her vintage fenders CRASH into the door of Joey's precious Viper.
+</DIRECTION>
+<DIRECTION>
+Patrick watches with a delighted grin Joey races out of the liquor store.
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You fucking bitch!
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Kat pulls forward and backs into his car again. Smiling sweetly.
+</DIRECTION>
+<DIRECTION>
+INT. STRATFORD HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Walter paces as Kat sits calmly on the couch.
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	My insurance does not cover PMS
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	Then tell them I had a seizure.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	Is this about Sarah Lawrence? You punishing me?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	I thought you were punishing me.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	Why can't we agree on this?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	Because you're making decisions for me.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	As a parent, that's my right
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	So what I want doesn't matter?
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	You're eighteen. You don't know what you want. You won't know until you're forty-five and you don't have it.
+	</DIALOGUE>
+</WALTER>
+<KAT>
+<DIRECTION>
+(emphatic)
+</DIRECTION>
+	<DIALOGUE>
+	I want to go to an East Coast school! I want you to trust me to make my own choices. I want --
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Walter's BEEPER goes off
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	Christ! I want a night to go by that I'm not staring a contraction in the face.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+He walks out, leaving Kat stewing on the couch.
+</DIRECTION>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Patrick shuts his graffiti-encrusted locker, revealing Joey's angry visage, glowering next to him.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	When I shell out fifty, I expect results.
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	I'm on it
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	Watching the bitch trash my car doesn't count as a date.
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	I got her under control. She just acts crazed in public to keep up the image.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Joey sees through the bluff
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Let me put it to you this way, if you don't get any action, I don't get any action. So get your ass on hers by the end of the week.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Joey starts to walk off
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I just upped my price
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+<DIRECTION>
+(turning)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	A hundred bucks a date.
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	Forget it.
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	Forget her sister, then.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Joey thinks for a frustrated moment, PUNCHES the locker, then peels another fifty out of his wallet with a menacing scowl.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	You better hope you're as smooth as you think you are, Verona.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Patrick takes the money with a smile.
+</DIRECTION>
+<DIRECTION>
+INT. TUTORING ROOM - DAY Cameron runs a sentence past Bianca.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	La copine et I 'ami? La diferance?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca glares at him.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	A "copine" is someone you can count on. An "ami" is someone who makes promises he can't keep.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Cameron closes the French book
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	You got something on your mind?
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	I counted on you to help my cause. You and that thug are obviously failing. Aren't we ever going on our date?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+He melts
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	You have my word. As a gentleman
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	You're sweet.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She touches his hand. He blushes at her praise and watches her toss her hair back
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(appreciative)
+</DIRECTION>
+	<DIALOGUE>
+	How do you get your hair to look like that?
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Eber's Deep Conditioner every two days. And I never, ever use a blowdryer without the diffuser attachment.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Cameron nods with interest.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	You know, I read an article about that.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca looks surprised.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	You did?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+INT. BOY'S ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Patrick stands at the sink, washing his hands Michael and Cameron cower in the corner, watching him.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(without turning around)
+</DIRECTION>
+	<DIALOGUE>
+	Say it
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+<DIRECTION>
+(clearing his throat)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	Whatever the hell it is you're standin' there waitin' to say.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Cameron bravely steps forward
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	We wanted to talk to you about the plan.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Patrick turns toward them.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	What plan?
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+	<DIALOGUE>
+	The situation is, my man Cameron here has a major jones for Bianca Stratford.
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	What is it with this chick? She have three tits?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Cameron starts to object, but Michael holds up a hand.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	I think I speak correctly when I say that Cameron's love is pure. Purer than say -- Joey Dorsey's.
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	Dorsey can plow whoever he wants. I'm just in this for the cash.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Cameron starts choking at the thought of Joey plowing his beloved Bianca.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	That's where we can help you. With Kat.
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	So Dorsey can get the girl?
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+	<DIALOGUE>
+	Patrick, Pat, you're not looking at the big picture. Joey's just a pawn. We set this whole thing up so Cameron can get the girl.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Patrick smiles. He likes the idea of Joey being a pawn in this game.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	You two are gonna help me tame the wild beast?
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+<DIRECTION>
+(grinning)
+</DIRECTION>
+	<DIALOGUE>
+	We're your guys.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	And he means that strictly in a non- prison-movie type of way.
+	</DIALOGUE>
+</CAMERON>
+<PATRICK>
+	<DIALOGUE>
+	Yeah -- we'll see.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He swings the door open and exits, leaving Michael and Cameron grinning at each other.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	We're in.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+INT. CLASSROOM - DAY
+</DIRECTION>
+<DIRECTION>
+CU on a party invitation as it gets handed out. "Future Princeton Grad Bogey Lowenstein proudly presents a Saturday night bash at his abode. Casual attire".
+</DIRECTION>
+<DIRECTION>
+Michael holds the invitation up to Cameron.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	This is it. A golden opportunity. Patrick can ask Katarina to the party.
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	In that case, we'll need to make it a school-wide blow out.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Will Bogey get bent?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Are you kidding? He'll piss himself with joy. He's the ultimate kiss ass.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+CAFETERIA - DAY
+</DIRECTION>
+<DIRECTION>
+Michael hands a jock the party invite as they pass each other at the trash cans.
+</DIRECTION>
+<DIRECTION>
+INT. GYM CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+The jock calls a fellow jock
+</DIRECTION>
+<DIRECTION>
+INT. MATH CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+Jock whispers to a cheerleader
+</DIRECTION>
+<DIRECTION>
+COURTYARD - DAY
+</DIRECTION>
+<DIRECTION>
+The cheerleader calls a White Rasta that she's making out with, showing him the invite.
+</DIRECTION>
+<DIRECTION>
+TRACK - DAY
+</DIRECTION>
+<DIRECTION>
+The White Rasta tells a cowboy as they run laps during track practice.
+</DIRECTION>
+<DIRECTION>
+INT. SHOWERS - DAY
+</DIRECTION>
+<DIRECTION>
+The cowboy Cells a Coffee Kid, as he shields his java from the spray of the shower.
+</DIRECTION>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Joey stands ac his open locker with Bianca. The locker is an homage to Joey's "modeling" career. Cheesy PRINT ADS of him -- running in a field of daisies, petting a kitten, etc. -- adorn the locker door.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Which do you like better?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+INSERT - HEADSHOTS of Joey. In one, he's pouting in a white shirt. In the other, he's pouting in a black shirt.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	I think I like the white shirt
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Joey nods thoughtfully.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	It's more
+	</DIALOGUE>
+</JOEY>
+<BIANCA>
+	<DIALOGUE>
+	Expensive?
+	</DIALOGUE>
+</BIANCA>
+<JOEY>
+	<DIALOGUE>
+	Exactly
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	So, you going to Bogey Lowenbrau's thing on Saturday?
+	</DIALOGUE>
+</JOEY>
+<BIANCA>
+	<DIALOGUE>
+	Hopefully.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+He gives her his best flirtatious smile
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Good, 'cause I'm not gonna bother if you won't be there.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+He taps her on the nose and she giggles
+</DIRECTION>
+<DIRECTION>
+INT. TUTORING ROOM Bianca sits across from Cameron, who's transfixed, as always
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Have you heard about Bogey Lowenstein's party?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Sure have.
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+<DIRECTION>
+(pouting)
+</DIRECTION>
+	<DIALOGUE>
+	I really, really, really wanna go, but I can't. Not unless my sister goes.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	I'm workin' on it. But she doesn't seem to be goin' for him.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+He fishes.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	She's not a...
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Lesbian? No. I found a picture of Jared Leto in one of her drawers, so I'm pretty sure she's not harboring same-sex tendencies.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	So that's the kind of guy she likes? Pretty ones?
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Who knows? All I've ever heard her say is that she'd dip before dating a guy that smokes.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Cameron furiously takes notes
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	All right. What else is she partial to?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+INT. DIVE BAR - NIGHT Patrick plays pool with some random deviant cronies.
+</DIRECTION>
+<DIRECTION>
+He looks up when he hears a COMMOTION at the door. LOU the bouncer is in the midst of throwing Michael and Cameron out.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Lou, it's okay. They're with me.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Lou looks at Patrick, surprised, then reluctantly lets our two non-deviants pass through.
+</DIRECTION>
+<DIRECTION>
+Patrick guides them to a table and sips from a beer.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	What've you got for me?
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	I've retrieved certain pieces of information on Miss Katarina Stratford I think you'll find helpful.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Cameron pulls out a piece of paper.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(to Patrick)
+</DIRECTION>
+<DIRECTION>
+One question before we start -- should you be drinking alcohol when you don't have a liver?
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	What?!
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+	<DIALOGUE>
+	Good enough.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Cameron looks up at Patrick.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Number one. She hates smokers
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	It's a lung cancer issue
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Her favorite uncle
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Dead at forty-one.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Patrick sits up
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Are you telling me I'm a -
+	</DIALOGUE>
+<DIRECTION>
+(spits the word out)
+</DIRECTION>
+	<DIALOGUE>
+	"non-smoker"?
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+	<DIALOGUE>
+	Just for now.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Another thing. Bianca said that Kat likes -- pretty guys.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+This is met with silence. Then:
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	What? You don't think I'm pretty?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Michael smacks Cameron
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	He's pretty!
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Okay! I wasn't sure
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Cameron goes back to the list.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Okay -- Likes: Thai food, feminist prose, and "angry, stinky girl music of the indie-rock persuasion".
+	</DIALOGUE>
+</CAMERON>
+<PATRICK>
+	<DIALOGUE>
+	So what does that give me? I'm supposed to buy her some noodles and a book and sit around listening to chicks who can't play their instruments?
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+	<DIALOGUE>
+	Ever been to Club Skunk?
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	Gigglepuss is playing there tomorrow night.
+	</DIALOGUE>
+</CAMERON>
+<PATRICK>
+	<DIALOGUE>
+	Don't make me do it, man
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+	<DIALOGUE>
+	Assail your ears for one night.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	It's her favorite band.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Patrick groans
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	I also retrieved a list of her most recent CD purchases, courtesy of American Express.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+He hands it over.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(smiling)
+</DIRECTION>
+	<DIALOGUE>
+	Michael -- did you get this information "illegally"?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Michael puts a finger to his lips.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	I prefer to think of it simply as an alternative to what the law allows.
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	I'm likin' you guys better
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He looks down at the list of CDs.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	This is really music?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+INT. KAT'S ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+MUSIC BLARES in a room with minimalist decor splashed with indie rock band posters and flyers.
+</DIRECTION>
+<DIRECTION>
+Kat and Mandella dance as they dress and apply make-up Bianca enters, interrupting their fun.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Can you turn down the Screaming Menstrual Bitches? I'm trying to study.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat doesn't move, so Bianca crosses to the stereo, turning down the volume.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Don't tell me you're actually going out? On a school night, no less.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat shoots her a glare
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing; excited)
+</DIRECTION>
+	<DIALOGUE>
+	Oh my God, does this mean you're becoming normal?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	It means that Gigglepuss is playing at Club Skunk and we're going.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+<DIRECTION>
+(disappointed)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, I thought you might have a date
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	I don't know why I'm bothering to ask, but are you going to Bogey Lowenstein's party Saturday night?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	What do you think?
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	I think you're a freak. I think you do this to torture me. And I think you suck.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She smiles sweetly and shuts the door behind her. Kat doesn't bat an eye. She grabs her purse and opens the door
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Let's hit it.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+EXT. CLUB SKUNK - NIGHT
+</DIRECTION>
+<DIRECTION>
+A happy black and white neon skunk sprays fine mist on the line of kids below.
+</DIRECTION>
+<DIRECTION>
+INT. CLUB FOYER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat and Mandella walk in, Mandella nervously pulling out her fake ID. The giant, afroed bouncer, BRUCE, looks typically mono-syllabic.
+</DIRECTION>
+<MANDELLA>
+<DIRECTION>
+(whispering to Kat)
+</DIRECTION>
+	<DIALOGUE>
+	You think this'll work?
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	No fear.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+They approach Bruce. Kat puts on her happy, shiny face
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Hello! We'd like two for Gigglepuss!
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bruce looks the girls up and down.
+</DIRECTION>
+<BRUCE>
+	<DIALOGUE>
+	I can count.
+	</DIALOGUE>
+</BRUCE>
+<DIRECTION>
+He looks at their IDs. Mandella gently moves Kat aside, wearing a face that could only be described as "I AM a Victoria's Secret model."
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	I'll bet you can..
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+She sticks out her chest and licks her lips. Bruce stares at her deadpan and hands her back the IDs.
+</DIRECTION>
+<BRUCE>
+	<DIALOGUE>
+	Go ahead.
+	</DIALOGUE>
+<DIRECTION>
+(to Mandella)
+</DIRECTION>
+	<DIALOGUE>
+	And you
+	</DIALOGUE>
+</BRUCE>
+<MANDELLA>
+<DIRECTION>
+(all come hither)
+</DIRECTION>
+	<DIALOGUE>
+	Yes?
+	</DIALOGUE>
+</MANDELLA>
+<BRUCE>
+	<DIALOGUE>
+	Take it easy on the guys in there.
+	</DIALOGUE>
+</BRUCE>
+<DIRECTION>
+Mandella winks at him and sashays inside Kat: follows behind, shaking her head.
+</DIRECTION>
+<DIRECTION>
+EXT. CLUB SKUNK - NIGHT
+</DIRECTION>
+<DIRECTION>
+Patrick's mail truck clatters to a stop out front.
+</DIRECTION>
+<DIRECTION>
+INT. CLUB FOYER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Patrick walks up to Bruce, who's frisking a badly mowhawked PIERCED EYEBROW BOY. Bruce pulls a SWITCHBLADE out of the boy's inside pocket.
+</DIRECTION>
+<BRUCE>
+	<DIALOGUE>
+	Next time, leave the Bic at home, Skippy.
+	</DIALOGUE>
+</BRUCE>
+<SKIPPY>
+	<DIALOGUE>
+	It's a bottle opener.
+	</DIALOGUE>
+</SKIPPY>
+<DIRECTION>
+Bruce pushes him inside the club, then sees Patrick.
+</DIRECTION>
+<BRUCE>
+	<DIALOGUE>
+	Verona, my man.
+	</DIALOGUE>
+</BRUCE>
+<DIRECTION>
+They shake.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Always a pleasure, Brucie.
+	</DIALOGUE>
+</PATRICK>
+<BRUCE>
+	<DIALOGUE>
+	Didn't have you pegged for a Gigglepuss fan. Aren't they a little too pre-teen belly-button ring for you?
+	</DIALOGUE>
+</BRUCE>
+<PATRICK>
+	<DIALOGUE>
+	Fan of a fan. You see a couple of minors come in?
+	</DIALOGUE>
+</PATRICK>
+<BRUCE>
+	<DIALOGUE>
+	Never
+	</DIALOGUE>
+</BRUCE>
+<PATRICK>
+	<DIALOGUE>
+	Padua girls. One tall, decent body. The other one kinda short and undersexed?
+	</DIALOGUE>
+</PATRICK>
+<BRUCE>
+	<DIALOGUE>
+	Just sent 'em through.
+	</DIALOGUE>
+</BRUCE>
+<DIRECTION>
+Patrick starts to go in
+</DIRECTION>
+<BRUCE>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Hey -- what happened to that chick you brought last time? The one with the snake?
+	</DIALOGUE>
+</BRUCE>
+<DIRECTION>
+Patrick laughs and goes into the club
+</DIRECTION>
+<DIRECTION>
+INT. CLUB - NIGHT
+</DIRECTION>
+<DIRECTION>
+Onstage, the all-female band GIGGLEPUSS is parlaying their bad girl sass into a ripping punk number.
+</DIRECTION>
+<DIRECTION>
+Near the stage is a joyful mass of pogo-ing teens AT THE BAR
+</DIRECTION>
+<DIRECTION>
+Patrick bellies up and looks around the club. Gigglepuss finishes a song.
+</DIRECTION>
+<LEAD_SINGER>
+	<DIALOGUE>
+	Hello, out there. We're Gigglepuss and we're from Olympia.
+	</DIALOGUE>
+</LEAD_SINGER>
+<DIRECTION>
+A teenage boy in the audience takes the opportunity to scream.
+</DIRECTION>
+<BOY>
+<DIRECTION>
+(0.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Pet my kitty!
+	</DIALOGUE>
+</BOY>
+<LEAD_SINGER>
+	<DIALOGUE>
+	Meow
+	</DIALOGUE>
+</LEAD_SINGER>
+<DIRECTION>
+They rev into their next song.
+</DIRECTION>
+<DIRECTION>
+NEAR THE STAGE
+</DIRECTION>
+<DIRECTION>
+Mandella and Kat glow with sweat. When they hear the opening chords of the song, they look at each other and scream with glee as they begin to dance. They couldn't be having a better time.
+</DIRECTION>
+<DIRECTION>
+AT THE BAR
+</DIRECTION>
+<DIRECTION>
+Patrick signals to get the bartender's attention and looks across the bouncing surge of the crowd. He spots Kat and Mandella singing along.
+</DIRECTION>
+<DIRECTION>
+HIS POV
+</DIRECTION>
+<DIRECTION>
+The gleeful Kat -- dancing and looking completely at ease. None of her usual "attitude". Patrick is transfixed. And most definitely attracted.
+</DIRECTION>
+<DIRECTION>
+NEAR THE STAGE Kat looks at Mandella.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	I need agua!
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She makes her way through the crowd to the bar. AT THE BAR
+</DIRECTION>
+<DIRECTION>
+She made it. She signals for the bartender and as she's waiting, looks around. She spots Patrick a few feet away
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing to herself)
+</DIRECTION>
+	<DIALOGUE>
+	Shit
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She sneaks a glance. He's staring, but this time he looks away before she can. Despite herself, she's miffed.
+</DIRECTION>
+<DIRECTION>
+The bartender arrives
+</DIRECTION>
+<DIRECTION>
+BARTENDER (shouting)
+</DIRECTION>
+	<DIALOGUE>
+	What can I get you?
+	</DIALOGUE>
+<KAT>
+	<DIALOGUE>
+	Two waters.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She looks at Patrick again. He's completely absorbed in the band. She scowls. The bottled water arrives and she marches off, forgetting to pay.
+</DIRECTION>
+<DIRECTION>
+She walks up to Patrick.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You're not fooling anyone.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick looks at her, surprised
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	hey. Great show, huh?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+<DIRECTION>
+If you're planning on asking me out you might as well get it over with.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	Excuse me?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	That's what you want, isn't it?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+<DIRECTION>
+(yelling; gesturing toward the band)
+</DIRECTION>
+	<DIALOGUE>
+	Do you mind? You're sort of ruining it for me.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat steams. And watches him watch the band
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	You're not surrounded by your usual cloud of smoke.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+The band takes a break, so they can stop yelling now
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I know. I quit.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He leans back, making no attempt to hit on her. She moves closer.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Oh, really?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He motions toward the stage
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	You know, these guys are no Bikini Kill or The Raincoats, but they're right up there.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You know who The Raincoats are?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Why, don't you?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She's completely taken aback. He uses the moment to his advantage and brushes her hair back as he speaks right into her ear.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I watched you out there I've never seen you look like that
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat steps away, brushing the hair back that he just touched Her cheeks pinken.
+</DIRECTION>
+<DIRECTION>
+His cocky side is back in a flash
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Come to that party with me.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+At that moment, the band starts another SONG
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+The bartender approaches.
+</DIRECTION>
+<DIRECTION>
+BARTENDER (to Kat, yelling)
+</DIRECTION>
+	<DIALOGUE>
+	You forgot to pay!
+	</DIALOGUE>
+<PATRICK>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	I got it, Rick.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He tosses some bills on the bar
+</DIRECTION>
+<DIRECTION>
+Rather than thank him, Kat simply watches him, trying to figure out his motive.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing; yelling)
+</DIRECTION>
+	<DIALOGUE>
+	Nine-thirty then.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+A few people have gotten between them at the bar and she can't hear a word he's saying. She gives him one last look and heads back into the crowd.
+</DIRECTION>
+<DIRECTION>
+Patrick smiles. She didn't say no this time.
+</DIRECTION>
+<DIRECTION>
+EXT. CLUB SKUNK - NIGHT
+</DIRECTION>
+<DIRECTION>
+The crowd files out of the club, Kat and Mandella amongst them. A^ they're walking toward the parking lot, Patrick coasts by in his truck. The gears GRIND. He yells out the window.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	What'd he say?
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	Who cares?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Mandella watches Kat as she stares after Patrick
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	Has he importun'd you with love in honourable fashion?
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Kat glances sharply at her.
+</DIRECTION>
+<MANDELLA>
+<DIRECTION>
+(continuing; off her look)
+</DIRECTION>
+	<DIALOGUE>
+	Don't be Cruella with me. I'm in favor of romance. You're the one that wants to march on Washington every five minutes.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Kat pokes her, then looks back at the club dreamily.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Gigglepuss was so beyond.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Mandella nods.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	They were. I only wish William could have been here to witness the rebirth of punk rock with us.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Kat links her arm through Mandella's and they head for the car.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	So true.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+INT. HALLWAY - DAY Cameron and Michael are at Michael's locker.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	So, then she says that she almost didn't wear the Kenneth Coles with that dress because she thought she was mixing, you know, genres. And the fact that I noticed -- and I'm quoting here - "really meant something."
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Cameron looks At Michael expectantly
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	You told me that part already.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	Hell, I've just been going over the whole thing in my head and -
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Joey appears over Cameron's shoulder.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Hey. Dingo Boingo
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Cameron and Michael look at each other And turn around slowly
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(continuing; to Michael)
+</DIRECTION>
+	<DIALOGUE>
+	I hear you're helpin' Verona.
+	</DIALOGUE>
+</JOEY>
+<MICHAEL>
+	<DIALOGUE>
+	Uh, yeah. We're old friend*
+	</DIALOGUE>
+</MICHAEL>
+<JOEY>
+	<DIALOGUE>
+	You and Verona?
+	</DIALOGUE>
+</JOEY>
+<MICHAEL>
+	<DIALOGUE>
+	What? We took bathes together when we were kids.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+It's incredibly obvious that he's lying. Joey eyes him then turns to Cameron.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	What's your gig in all this?
+	</DIALOGUE>
+</JOEY>
+<CAMERON>
+	<DIALOGUE>
+	I'm just the new guy.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Joey turns back to Michael, grabbing the alligator on his shirt and twisting it.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	You better not fuck this up. I'm heavily invested.
+	</DIALOGUE>
+</JOEY>
+<MICHAEL>
+	<DIALOGUE>
+	Hey -- it's all for the higher good right?
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Joey lets go of Michael and SHOVES Cameron against a locker for good measure, as he walks away-
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Is it about me?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+EXT. MISS PERKY'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Kat sits outside waiting for her appointment, bored and annoyed.
+</DIRECTION>
+<DIRECTION>
+The door opens and Miss Perky escorts Patrick out
+</DIRECTION>
+<MISS_PERKY>
+	<DIALOGUE>
+	You're completely demented.
+	</DIALOGUE>
+</MISS_PERKY>
+<PATRICK>
+<DIRECTION>
+(cheery)
+</DIRECTION>
+	<DIALOGUE>
+	See you next week!
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat stands and Patrick sees her.
+</DIRECTION>
+<DIRECTION>
+Miss Perky watches in horror
+</DIRECTION>
+<DIRECTION>
+MISS PERKY You two know each other?
+</DIRECTION>
+<PATRICK_KAT>
+	<DIALOGUE>
+	Yeah/No.
+	</DIALOGUE>
+</PATRICK_KAT>
+<DIRECTION>
+Miss Perky grabs Kat and shoves her into her office.
+</DIRECTION>
+<MISS_PERKY>
+<DIRECTION>
+(to Patrick)
+</DIRECTION>
+	<DIALOGUE>
+	Dear God, stay away from her. If you two ever decided to breed, evil would truly walk the earth.
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+Patrick gives Kat one last look before the door shuts, then smiles-
+</DIRECTION>
+<DIRECTION>
+EXT. STRATFORD HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+The lights are on, illuminating the yard
+</DIRECTION>
+<DIRECTION>
+INT. STRATFORD HOUSE/UPSTAIRS HALLWAY - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bianca and Chastity stand outside Kat's room. MUSIC is blaring and the door is shut. Bianca looks at her watch
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	She's obviously not going.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+INT. LIVING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Across the carpet, two pairs of teenage girl feet sneak past. Bianca and Chastity, teddy bear purses in hand.
+</DIRECTION>
+<DIRECTION>
+FROM THE KITCHEN A RUSTLING is heard. The girls freeze.
+</DIRECTION>
+<DIRECTION>
+Walter emerges from the kitchen with a mile-high sandwich The girls are like statues. Walter jumps.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Daddy, I --
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	And where're you going?
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	If you must know, we were attempting to go to a small study group of friends.
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	Otherwise known as an orgy?
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	It's just a party. Daddy, but I knew you'd forbid me to go since "Gloria Steinem" over there isn't going --
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She points to Kat -- Walkman blaring -- who comes downstairs, wearing a baby tee and battered Levis. Her relaxing-at-home look is about 400 times sexier than her at- school look. She wanders toward the kitchen.
+</DIRECTION>
+<DIRECTION>
+Walter directs his attention toward Kat.
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	Do you know about any party? Katarina?
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Kat shrugs as she comes back out of the kitchen with an apple
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Daddy, people expect me to be there!
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	If Kat's not going, you're not going.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Bianca turns to Kat, eyes ablaze
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	You're ruining my life' Because you won't be normal, I can't be normal.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	What's normal?
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	Bogey Lowenstein's party is normal, but you're too busy listening to Bitches Who Need Prozac to know that.
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	What's a Bogey Lowenstein?
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Kat takes off her earphones, ready to do battle
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Can't you forget for just one night that you're completely wretched?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	At least I'm not a clouted fen- sucked hedge-pig.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca tosses her hair.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Like I'm supposed to know what that even means.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	It's Shakespeare. Maybe you've heard of him?
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	Yeah, he's your freak friend Mandella's boyfriend. I guess since I'm not allowed to go out, I should obsess over a dead guy, too.
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	Girls
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Kat stares Bianca down
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I know about the goddamn party. I'm going.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca and Chastity look at each other, thrilled, and burst into gleeful screams.
+</DIRECTION>
+<DIRECTION>
+A startled Walter clutches Bianca in a protective hug.
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	Oh, God. It's starting.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	It's just a party. Daddy.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Walter looks dazed.
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	Wear the belly before you go.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	Daddy, no!
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	Just for a minute
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+He rushes to a cupboard and pulls out a padded faux- pregnancy belly.
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I want you to realize the weight of your decisions.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+He hangs the belly on her as she stands mortified.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	You are so completely unbalanced.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	Can we go now?
+	</DIALOGUE>
+</KAT>
+<WALTER>
+<DIRECTION>
+(to Bianca)
+</DIRECTION>
+	<DIALOGUE>
+	Promise me you won't talk to any boys unless your sister is present.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	Because she'll scare them away.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Kat stomps to the door, grabbing her car keys off the hall table and a sweater from the coat rack. She flings open the door and...
+</DIRECTION>
+<DIRECTION>
+There stands Patrick.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Nine-thirty right?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat's in shock
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I'm early.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She holds up her keys
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I'm driving.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He peeks in behind her.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Who knocked up your sister?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+INT. BOGEY LOWENSTEIN'S HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+BOGEY, a short Future MBA in a tux, greets his guests like a pro, handing out cigars and martinis.
+</DIRECTION>
+<BOGEY>
+	<DIALOGUE>
+	Nice to see you. Martini bar to the right, shots in the kitchen.
+	</DIALOGUE>
+</BOGEY>
+<DIRECTION>
+The house is filled to capacity with Padua High's finest Kat pushes through the crowd. Patrick saunters in behind her
+</DIRECTION>
+<DIRECTION>
+INT. BOGEY'S KITCHEN - NIGHT
+</DIRECTION>
+<DIRECTION>
+Joey lines up a row of shots amid much whooping and hollering within the jock crowd.
+</DIRECTION>
+<DIRECTION>
+Kat enters, then quickly tries to make an about face. Joey sees her and rushes over to block her, standing in the doorway.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Lookin' fresh tonight, Pussy-Kat
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Kat gives him a death look and then stops and points at his forehead.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Wait -- was that?-- Did your hairline just recede?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He panics, whipping out a handy pocket mirror She's already walking away.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Where ya goin?
+	</DIALOGUE>
+</JOEY>
+<KAT>
+	<DIALOGUE>
+	Away.
+	</DIALOGUE>
+</KAT>
+<JOEY>
+	<DIALOGUE>
+	Your sister here?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Kat's face shows utter hatred
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Leave my sister alone.
+	</DIALOGUE>
+</KAT>
+<JOEY>
+<DIRECTION>
+(smirking)
+</DIRECTION>
+	<DIALOGUE>
+	And why would I do that?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+A RUCKUS sounds from the next room
+</DIRECTION>
+<JOCK>
+	<DIALOGUE>
+	A fight!
+	</DIALOGUE>
+</JOCK>
+<DIRECTION>
+The other jocks rush to watch as two Coffee Kids splash their cupfuls on each other.
+</DIRECTION>
+<COFFEE_KID_1>
+	<DIALOGUE>
+	That was a New Guinea Peaberry, you Folger's-crystals-slurping-buttwipe.
+	</DIALOGUE>
+</COFFEE_KID_1>
+<DIRECTION>
+Caffeinated fists fly. Joey slithers away from the door to watch, giving Kat one last smirk, just as Bianca walks into the kitchen.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Just who I was looking for.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+He puts his arm around Bianca and escorts her out
+</DIRECTION>
+<KAT BIANCA>
+<DIRECTION>
+Bianca keeps walking, ignoring Kat
+</DIRECTION>
+<DIRECTION>
+A GUY pouring shots hands Kat one She downs it and accepts another.
+</DIRECTION>
+<DIRECTION>
+GUY Drink up, sister.
+</DIRECTION>
+<DIRECTION>
+Patrick walks up
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	What's this?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(mocking)
+</DIRECTION>
+	<DIALOGUE>
+	"I'm getting trashed, man." Isn't that what you're supposed to do at a party?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I say, do what you wanna do.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Funny, you're the only one
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She downs another.
+</DIRECTION>
+<DIRECTION>
+INT. BOGEY'S LIVING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Cameron and Michael enter. Cameron looks, around for his beloved, while Michael schmoozee with all in attendance and dishes dirt simultaneously.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(high-fiving a jock)
+</DIRECTION>
+	<DIALOGUE>
+	Moose, my man!
+	</DIALOGUE>
+<DIRECTION>
+(to Cameron)
+</DIRECTION>
+	<DIALOGUE>
+	Ranked fifth in the state. Recruiters have already started calling.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Cameron nods intently
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing; grabbing his belt)
+</DIRECTION>
+	<DIALOGUE>
+	Yo, Clem.
+	</DIALOGUE>
+<DIRECTION>
+(to Cameron)
+</DIRECTION>
+	<DIALOGUE>
+	A Patsy Cline fan, but hates the new Leanne Rimes.
+	</DIALOGUE>
+<DIRECTION>
+(with a Jamaican swagger)
+</DIRECTION>
+	<DIALOGUE>
+	Ziggy, peace, bra.
+	</DIALOGUE>
+<DIRECTION>
+(to Cameron)
+</DIRECTION>
+	<DIALOGUE>
+	Prefers a water pipe, but has been known to use a bong.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Michael spots Bianca and Chastity, watching the skirmish, and points Cameron's body in her direction.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Follow the love, man
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+ON BIANCA AND CHASTITY Bianca cranes her neck
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Where did he go? He was just here.
+	</DIALOGUE>
+</BIANCA>
+<CHASTITY>
+	<DIALOGUE>
+	Who?
+	</DIALOGUE>
+</CHASTITY>
+<BIANCA>
+	<DIALOGUE>
+	Joey.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Cameron walks over.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Evening, ladies.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca turns and graces him with a pained smile.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Looks like things worked out tonight, huh?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca ignores the question and tries to pawn him off
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	You know Chastity?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	I believe we share an art instructor
+	</DIALOGUE>
+</CAMERON>
+<CHASTITY>
+	<DIALOGUE>
+	Great
+	</DIALOGUE>
+</CHASTITY>
+<BIANCA>
+	<DIALOGUE>
+	Would you mind getting me a drink, Cameron?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Certainly Pabst? Old Milwaukee? RaiJieer?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca gives him a tense smile.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Surprise me.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+He heads for the kitchen. Joey walks up and grabs her around the waist.
+</DIRECTION>
+<DIRECTION>
+She giggles as he picks her up and carries her off -- just as Cameron returns, a beer -- complete with a napkin and straw -- in his hand.
+</DIRECTION>
+<DIRECTION>
+Chastity glares with a jealous fury after Bianca and Joey, then gives Cameron the once-over and walks away.
+</DIRECTION>
+<DIRECTION>
+Michael appears.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Extremely unfortunate maneuver.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	The hell is that? What kind of 'guy just picks up a girl and carries her away while you're talking to her?
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Buttholus extremus. But hey, you're making progress.
+	</DIALOGUE>
+</MICHAEL>
+<CAMERON>
+	<DIALOGUE>
+	No, I ' m not.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+He smacks himself in the head
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	She used me! She wants to go out with Dorsey. Not me. I'm an idiot!
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Michael pats him on the shoulder.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	At least you're self-aware
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+BOGEY'S KITCHEN - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat and a crowd of White Rastas and Cowboys stand in a drunken group hug singing "I Shot the Sheriff". Kat has another shot glass in hand.
+</DIRECTION>
+<DIRECTION>
+Patrick is showing a scar to an inebriated, enraptured cheerleader. He looks up at Kat and smiles meets his eyes then looks away.
+</DIRECTION>
+<DIRECTION>
+INT. BOGEY'S LIVING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bianca stands next to Joey, sipping from her beer
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	So yeah, I've got the Sears catalog thing going -- and the tube sock gig " that's gonna be huge. And then I'm up for an ad for Queen Harry next week.
+	</DIALOGUE>
+</JOEY>
+<BIANCA>
+	<DIALOGUE>
+	Queen Harry?
+	</DIALOGUE>
+</BIANCA>
+<JOEY>
+	<DIALOGUE>
+	It's a gay cruise line, but I'll be, like, wearing a uniform and stuff.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Bianca tries to appear impressed, but it's getting difficult.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Neat...
+	</DIALOGUE>
+</BIANCA>
+<JOEY>
+	<DIALOGUE>
+	My agent says I've got a good shot at being the Prada guy next year.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+He looks over her shoulder and waves at someone. Bianca takes the opportunity to escape.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	I'll be right back.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+INT. BOGEY'S BATHROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bianca shuts the door and leans on it with a sigh. Chastity applies lip-gloss in the mirror.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	He practically proposed when he found out we had the same dermatologist. I mean. Dr. Bonchowski is great an all, but he's not exactly relevant party conversation.
+	</DIALOGUE>
+</BIANCA>
+<CHASTITY>
+	<DIALOGUE>
+	Is he oily or dry?
+	</DIALOGUE>
+</CHASTITY>
+<BIANCA>
+	<DIALOGUE>
+	Combination. I don't know -- I thought he'd be different. More of a gentleman...
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Chastity rolls her eyes
+</DIRECTION>
+<CHASTITY>
+	<DIALOGUE>
+	Bianca, I don't think the highlights of dating Joey Dorsey are going to include door-opening and coat-holding.
+	</DIALOGUE>
+</CHASTITY>
+<BIANCA>
+	<DIALOGUE>
+	Sometimes I wonder if the guys we're supposed to want to go out with are the ones we actually want to go out with, you know?
+	</DIALOGUE>
+</BIANCA>
+<CHASTITY>
+	<DIALOGUE>
+	All I know is -- I'd give up my private line to go out with a guy like Joey.
+	</DIALOGUE>
+</CHASTITY>
+<DIRECTION>
+There's a KNOCK at the door. Bianca opens it to find a very drunken Kat.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Bianca, I need to talk to you -- I need to tell you --
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+<DIRECTION>
+(cutting her off)
+</DIRECTION>
+	<DIALOGUE>
+	I really don't think I need any social advice from you right now.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Bianca grabs Chastity's arm and they exit
+</DIRECTION>
+<DIRECTION>
+INT. BOGEY'S KITCHEN - NIGHT - LATER
+</DIRECTION>
+<DIRECTION>
+Patrick tries to remove a shot glass from Kat's hand.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+Maybe you should let me have it.
+</DIRECTION>
+<DIRECTION>
+Kat is fierce in her refusal to let go
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I want another one
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Joey enters, grabbing Patrick by the shoulder, distracting him from his task.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	My man
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+As Patrick turns, Kat breaks free and dives into the sea of dancing people in the dining room.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(annoyed)
+</DIRECTION>
+	<DIALOGUE>
+	It's about time.
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	A deal's a deal.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+He peels off some bills
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	How'd you do it?
+	</DIALOGUE>
+</JOEY>
+<PATRICK>
+	<DIALOGUE>
+	Do what?
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	Get her to act like a human
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+A very drunken Kat jumps up onto the kitchen island and starts dancing by herself. She lets loose, hair flying. She's almost burlesque.
+</DIRECTION>
+<DIRECTION>
+Others form a crowd, clapping and cheering her on
+</DIRECTION>
+<DIRECTION>
+She swings her head around BANGING it on a copper pot hanging from the rack above the center island. She starts to sway, then goes down as Patrick rushes over to catch her.
+</DIRECTION>
+<DIRECTION>
+The others CLAP, thinking this is a wonderful finale. Patrick sets her down on her feet, holding her up
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Okay?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I'm fine. I'm
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She tries to push him away, but staggers when she does grabs her again, bracing her.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	You're not okay.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I just need to lie down for awhile
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Uh, uh. You lie down and you'll go to sleep
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I know, just let me sleep
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	What if you have a concussion? My dog went to sleep with a concussion and woke up a vegetable. Not that I could tell the difference...
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She tries to sit on the floor
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Okay, I'll just sleep but stay awake, okay?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He pulls her back to her
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	C'mon, let's walk
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+INT. BOGEY'S DINING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+As Patrick walks Kat through the dining room, Cameron grabs his arm.
+</DIRECTION>
+<DIRECTION>
+CAMERON We need to talk.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Cameron, I'm a little busy
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	It's off. The whole thing.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Kat slides down to the floor and Patrick struggles to get h back on her feet.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	What 're you talking about?
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	She's partial to Joey, not me
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Patrick doesn't have time for this.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Cameron -- do you like the girl?
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	Sure
+	</DIALOGUE>
+</CAMERON>
+<PATRICK>
+<DIRECTION>
+(impatient)
+</DIRECTION>
+	<DIALOGUE>
+	Then, go get her
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Patrick continues walking an oblivious Kat outside. Cameron stands there, unsure how to make use of this advice
+</DIRECTION>
+<DIRECTION>
+EXT. BOGEY LOWENSTEIN'S HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Patrick marches Kat around the yard, holding her up
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	This is so patronizing.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Leave it to you to use big words when you're shitfaced.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Why 're you doing this?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I told you
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You don't care if I die
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Sure, I do
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Because then I'd have to start taking out girls who like me.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Like you could find one
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	See that? Who needs affection when I've got blind hatred?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Just let me sit down.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He walks her over to the swingset and plops her down in a swing, moving her hands to hang onto the chains.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	How's that?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She sits and looks at him for a moment with a smile. Then FALLS over backward.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Jesus. You're like a weeble
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Patrick rushes to right her, then starts pushing her on the swing to keep her entertained.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Why'd you let him get to you?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Who?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Dorsey.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I hate him.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I know. It'd have to be a pretty big deal to get you to mainline tequila. You don't seem like the type.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(holding up a drunken head)
+</DIRECTION>
+	<DIALOGUE>
+	Hey man. . . You don ' t think I can be "cool"? You don't think I can be "laid back" like everyone else?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+<DIRECTION>
+(slightly sarcastic)
+</DIRECTION>
+	<DIALOGUE>
+	I thought you were above all that
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You know what they say
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He stops the swing
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	No. What do they say?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat is asleep, her head resting against the swing's chains.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Shit!
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He drags her to her feet and starts singing loudly.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Jingle Bells! Jingle Belles! Wake up damn it!
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He sits her down on the slide and shakes her like a rag doll.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Kat! Wake up!
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(waking)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He sighs with relief.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I thought you were...
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+They share some meaningful eye contact. And then she PUKES on his shoes.
+</DIRECTION>
+<DIRECTION>
+INT. BOGEY'S BATHROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat washes her face and grabs a bottle of Scope, taking a big swig.
+</DIRECTION>
+<DIRECTION>
+A KNOCK sounds at the door
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Go away
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca opens the door and looks at her sister with the smuggest of all possible grins.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Dinner taste better on the way out?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Gives her a "don't even start" look.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I don't get you. You act like you're too good for any of this, and then you go totally apeshit when you get here.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	You're welcome.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She pushes past her and leaves the bathroom.
+</DIRECTION>
+<DIRECTION>
+KAT'S CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat's in the driver's seat. Patrick leans in and takes the keys out of the ignition.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Cute
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+BOGEY LOWENSTEIN'S HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kids loiter on the lawn. Bianca and Chastity walk outside Joey catches up to them.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	A bunch of us are going to Jaret's house. Wanna come?
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Chastity looks at Bianca, who wears a pained expression. She looks at her watch.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	I have to be home in twenty minutes.
+	</DIALOGUE>
+</BIANCA>
+<CHASTITY>
+<DIRECTION>
+(eagerly, to Joey)
+</DIRECTION>
+	<DIALOGUE>
+	I don't have to be home 'til two.
+	</DIALOGUE>
+</CHASTITY>
+<JOEY>
+	<DIALOGUE>
+	Then, c'mon.
+	</DIALOGUE>
+<DIRECTION>
+(to Bianca)
+</DIRECTION>
+	<DIALOGUE>
+	Maybe next time --
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+They head back into the party, leaving an astonished Bianca
+</DIRECTION>
+<DIRECTION>
+Cameron exits the party and stops when he sees Bianca standing alone.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(slightly accusatory)
+</DIRECTION>
+	<DIALOGUE>
+	Have fun tonight?
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Tons
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+He starts to walk on
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Cameron?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+He stops. She gives him a helpless smile.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Do you think you could give me a ride home?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+INT. KAT'S CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+Patrick drives as Kat sits in the passenger seat, fiddling with the radio dial. She finds a SONG she's happy with and Patrick quickly changes it.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I'm driving, so I get to pick the tunes.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She changes it back to her song.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	It's my car.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He changes it back.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	And I'm in control of it.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	But it's Gigglepuss - I know you like them. I saw you there.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick doesn't have an answer for this, so he let's her listen to her song.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	When you were gone last year -- where were you?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Busy
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Were you in jail?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Maybe.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	No, you weren't
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Then why'd you ask?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Why'd you lie?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He doesn't answer, but instead, frowns and turns up the music. She bobs her head drunkenly.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I should do this.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Do what?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	This.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She points to the radio
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Start a band?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(sarcastically)
+</DIRECTION>
+	<DIALOGUE>
+	My father wouldn't approve of that that
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	You don't strike me as the type that would ask permission.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She turns to look at him.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Oh, so now you think you know me?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I'm gettin' there
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Her voice loses it's venom
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	The only thing people know about me is that I'm "scary".
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He turns to look at her -- she looks anything but scary right now. He tries to hide his smile.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Yeah -- well, I'm no picnic myself.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+They eye each other, sharing a moment of connection, realizing they're both created the same exterior for themselves.
+</DIRECTION>
+<DIRECTION>
+Patrick pulls into her driveway and shuts off the motor. He looks up at her house.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	So what ' s up with your dad? He a pain in the ass?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	He just wants me to be someone I'm not.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Who?
+	</DIALOGUE>
+</PATRICK>
+<KAT BIANCA>
+<PATRICK>
+	<DIALOGUE>
+	No offense, but you're sister is without. I know everyone likes her and all, but ...
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat stares at him with new admiration.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	You know -- you're not as vile as I thought you were.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She leans drunkenly toward him.
+</DIRECTION>
+<DIRECTION>
+Their faces grow closer as if they're about to kiss And then Patrick turns away
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	So, I'll see you in school
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat stares at him, pissed. Then gets out of the car, SLAMMING the door shut behind her.
+</DIRECTION>
+<DIRECTION>
+CAMERON'S CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bianca and Cameron ride in silence. He finally breaks it.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	I looked for you back at the party, but you always seemed to be "occupied".
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+<DIRECTION>
+(faux-innocence )
+</DIRECTION>
+	<DIALOGUE>
+	I was?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	You never wanted to go out with 'me, did you?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca bites her lip.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(reluctant)
+</DIRECTION>
+	<DIALOGUE>
+	Well, no...
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Then that's all you had to say.
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	But
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	You always been this selfish?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+BIANCA thinks a minute
+</DIRECTION>
+<DIRECTION>
+He pulls up in front of the house
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Just because you're beautiful, doesn't mean you can treat people like they don't matter.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+She looks at him for a moment -- then grabs his face and gives him a kiss on the lips. He draws back in surprise, then kisses her back. She smiles, then gets out of the car without another word.
+</DIRECTION>
+<DIRECTION>
+Cameron grins and drives away
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	And I'm back in the saddle.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+INT. ENGLISH CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+Kat sits at her desk, burying her face in a book as the others enter. The White Rastas are first.
+</DIRECTION>
+<DEREK>
+	<DIALOGUE>
+	Kat, my lady, you sway to the rhythm of my heart.
+	</DIALOGUE>
+</DEREK>
+<DIRECTION>
+He grabs her hand and kisses it as she pulls it away.
+</DIRECTION>
+<DIRECTION>
+CLEM, a cowboy, enters, high-fiving Derek with new-found friendliness.
+</DIRECTION>
+<CLEM>
+	<DIALOGUE>
+	Yippe kai-aye, bra.
+	</DIALOGUE>
+<DIRECTION>
+(to Kat)
+</DIRECTION>
+	<DIALOGUE>
+	Dance for me, cowgirl.
+	</DIALOGUE>
+</CLEM>
+<DIRECTION>
+He sits next to Derek
+</DIRECTION>
+<CLEM>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Okay, now tell me again why he didn't shoot the deputy?
+	</DIALOGUE>
+</CLEM>
+<DEREK>
+	<DIALOGUE>
+	Because the deputy meant him no harm, my friend. It was only the sheriff that was the oppressor.
+	</DIALOGUE>
+</DEREK>
+<DIRECTION>
+Joey saunters in and takes his seat.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Kat, babe, you were on fire.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Mrs. Blaise enters and sits at her desk
+</DIRECTION>
+<MRS_BLAISE>
+	<DIALOGUE>
+	Well now, did everyone have a good weekend?
+	</DIALOGUE>
+</MRS_BLAISE>
+<JOEY>
+	<DIALOGUE>
+	Maybe we should ask Verona
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Patrick enters, late, and slinks to his desk. Kat looks up, down and around, everywhere but at Patrick.
+</DIRECTION>
+<DIRECTION>
+Mrs. Blaise tries to remember what she's supposed to talk about.
+</DIRECTION>
+<MRS_BLAISE>
+	<DIALOGUE>
+	Okay then. Well.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, yes
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+She clears her throat.
+</DIRECTION>
+<MRS_BLAISE>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I'd like you all to write your own version of Shakespeare's Sonnet #141.
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+Groans.
+</DIRECTION>
+<MRS_BLAISE>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Any form you'd like. Rhyme, no rhyme, whatever. I'd like to see you elaborate on his theme, however. Let's read it aloud, shall we? Anyone?
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+The class is frozen in apathy.
+</DIRECTION>
+<MRS_BLAISE>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Derek?
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+Ms. Blaise hands him the sonnet. He shifts uncomfortably in his seat. Then grins.
+</DIRECTION>
+<DEREK>
+<DIRECTION>
+(reading; in his Rasta stoner drawl)
+</DIRECTION>
+	<DIALOGUE>
+	In faith, I do not love thee with mine eyes/ For they in thee a thousand errors note/ But 'tis my heart that loves what they despise/ Who in despite of view is pleas 'd to dote.
+	</DIALOGUE>
+</DEREK>
+<DIRECTION>
+In the back of the room Clem raises his hand
+</DIRECTION>
+<CLEM>
+	<DIALOGUE>
+	Ms. Blaise, can I get the bathroom pass? Damn if Shakespeare don't act as a laxative on my person.
+	</DIALOGUE>
+</CLEM>
+<DIRECTION>
+INT. KENNY'S THAI FOOD DINER - DAY Kat and Mandella scrape the peanuts out of their sauce.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	You went to the party? I thought we were officially opposed to suburban social activity.
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	I didn't have a choice.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	You didn't have a choice? Where's Kat and what have you done with her?
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	I did Bianca a favor and it backfired.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	You didn't
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	I got drunk. I puked. I got rejected. It was big fun.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick enters, walking to the counter to order. He sees Kat and smiles.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Hey
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She gathers her things and bolts out the door. Patrick looks at Mandella, who shrugs and follows Kat.
+</DIRECTION>
+<DIRECTION>
+INT. BIOLOGY CLASS - DAY Cameron and Michael flank Patrick at his lab table
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	So you got cozy with she who stings?
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	No - I've got a sweet-payin' job that I'm about to lose.
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	What'd you do to her?
+	</DIALOGUE>
+</CAMERON>
+<PATRICK>
+	<DIALOGUE>
+	I don ' t know.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	I decided not to nail her when she was too drunk to remember it.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Michael and Cameron look at each other in realization, then turn back to Patrick.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+You realize this puts the whole operation in peril.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+No shit. She won't even look at me
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+Why can't you just tell her you're sorry?
+</DIRECTION>
+<DIRECTION>
+Patrick's expression says that this is not a possibility. Michael makes a time out sign with his hands.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	I'm on it
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Mandella is at her locker. Drawings of William Shakespeare adorn the door. She looks at them with a sigh, then ties her silk scarf tightly around her neck, in an attempt to cut off her air supply.
+</DIRECTION>
+<DIRECTION>
+Michael walks up.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Hey there. Tired of breathing?
+	</DIALOGUE>
+</MICHAEL>
+<MANDELLA>
+<DIRECTION>
+(shyly, as she loosens the scarf)
+</DIRECTION>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</MANDELLA>
+<MICHAEL>
+	<DIALOGUE>
+	Cool pictures. You a fan?
+	</DIALOGUE>
+</MICHAEL>
+<MANDELLA>
+	<DIALOGUE>
+	Yeah. I guess.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+MICHAEL rocks. Very hip.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	You think?
+	</DIALOGUE>
+</MANDELLA>
+<MICHAEL>
+	<DIALOGUE>
+	Oh yeah.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+She looks at him suspiciously
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	Who could refrain that had a heart to love and in that heart, courage to make ' B love known?
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Michael thinks for a minute.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Macbeth, right?
+	</DIALOGUE>
+</MICHAEL>
+<MANDELLA>
+<DIRECTION>
+(happily stunned)
+</DIRECTION>
+	<DIALOGUE>
+	Right.
+	</DIALOGUE>
+</MANDELLA>
+<MICHAEL>
+	<DIALOGUE>
+	Kat a fan, too?
+	</DIALOGUE>
+</MICHAEL>
+<MANDELLA>
+<DIRECTION>
+(puzzled)
+</DIRECTION>
+	<DIALOGUE>
+	Yeah...
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+He leans in close to her, conspiratorially
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	So, listen... I have this friend
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+EXT. FIELD HOCKEY FIELD - DAY
+</DIRECTION>
+<DIRECTION>
+Cameron sits next to Patrick on the bleachers as they watch Kat's practice.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	She hates you with the fire of a thousand suns . That's a direct quote
+	</DIALOGUE>
+</CAMERON>
+<PATRICK>
+	<DIALOGUE>
+	She just needs time to cool off I'll give it a day.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+A PUCK flies at them from the field, narrowly missing their heads.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Maybe two.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He looks at Cameron.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You makin' any headway?
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	She kissed me.
+	</DIALOGUE>
+</CAMERON>
+<PATRICK>
+<DIRECTION>
+(eyebrow raised)
+</DIRECTION>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Chastity rounds the corner and bends down to get a drink from the water fountain.
+</DIRECTION>
+<DIRECTION>
+NEARBY
+</DIRECTION>
+<DIRECTION>
+Joey stands talking to two JOCK COHORTS. The guys don't see her.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Don't talk to me about the sweetest date. That little halo Bianca is gonna be prone and proven on prom night. Six virgins in a row.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+The cohorts chortle Chastity keeps drinking from the fountain
+</DIRECTION>
+<DIRECTION>
+EXT. PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+Joey leans against Patrick's Jeep. Patrick is inside.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I don't know, Dorsey. ..the limo.-the flowers. Another hundred for the tux --
+	</DIALOGUE>
+</PATRICK>
+<JOEY>
+	<DIALOGUE>
+	Enough with the Barbie n' Ken shit. I know.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+He pulls out his wallet and hands Patrick a wad of money
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Take it
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Patrick does, with a smile, as he ROARS out of the parking lot.
+</DIRECTION>
+<DIRECTION>
+INT. SCHOOL COURTYARD - DAY
+</DIRECTION>
+<DIRECTION>
+Kat and Mandella deface a prom flyer.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Can you even imagine? Who the hell would go to this a bastion of commercial excess?
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	Well, I guess we're not, since we don't have dates .
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	Listen to you! You sound like Betty, all pissed off because Archie is taking Veronica.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	Okay, okay, we won't go. It's not like I have a dress anyway
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	You ' re looking at this from the wrong perspective. We're making a statement.
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+<DIRECTION>
+(unconvinced)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, good. Something new and different for us.
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+EXT. ARCHERY FIELD - DAY
+</DIRECTION>
+<DIRECTION>
+Mr. Chapin patrols as boys and girls shoot arrows at targets
+</DIRECTION>
+<DIRECTION>
+Joey swaggers up to Bianca, who is taking careful aim. Chastity watches from across the row.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Hey, sweet cheeks.
+	</DIALOGUE>
+</JOEY>
+<BIANCA>
+<DIRECTION>
+(not looking at him)
+</DIRECTION>
+	<DIALOGUE>
+	Hi, Joey.
+	</DIALOGUE>
+</BIANCA>
+<JOEY>
+	<DIALOGUE>
+	You're concentrating awfully hard considering it's gym class.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+She lets the arrow go and turns to look at him.
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Listen, I want to talk to you about the prom.
+	</DIALOGUE>
+</JOEY>
+<BIANCA>
+	<DIALOGUE>
+	You know the deal. I can ' t go if Kat doesn't go --
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+In the background, a RASTA crumples to the ground. Hit A casualty of Gym. Mr. Chapin scurries over.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	Your sister is going.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Bianca looks at him, surprised
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Since when?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Joey takes the bow and arrow from Bianca's hand. He draws back and takes aim.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	I'm taking care of it.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Chastity looks over from her spot on the field, but keeps lips firmly shut.
+</DIRECTION>
+<DIRECTION>
+INT. BOOK STORE - DAY
+</DIRECTION>
+<DIRECTION>
+Kat browses through the feminist lit section Patrick appears, through a hole in the books.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Excuse me, have you seen The Feminine Mystique? I lost my copy.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(frowning)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing here?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I heard there was a poetry reading.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You 're so --
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Pleasant?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat stares at him, deadpan.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Wholesome.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Unwelcome.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Unwelcome? I guess someone still has her panties in a twist.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Don't for one minute think that you had any effect whatsoever on my panties.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	So what did I have an effect on ?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Other than my upchuck reflex? Nothing.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She pushes past him and heads out the' door Pat looks down at the book he's been holding in his hand: Taming of the Shrew.
+</DIRECTION>
+<DIRECTION>
+INT. CAFETERIA - DAY
+</DIRECTION>
+<DIRECTION>
+Cameron and Michael flank Patrick as he shovels food into mouth.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	You were right. She's still pissed.
+	</DIALOGUE>
+</PATRICK>
+<MICHAEL>
+	<DIALOGUE>
+	Sweet love, renew thy force!
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	Man -- don't say shit like that to me. People can hear you.
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+<DIRECTION>
+(exasperated)
+</DIRECTION>
+	<DIALOGUE>
+	You humiliated the woman! Sacrifice yourself on the altar of dignity and even the score.
+	</DIALOGUE>
+</CAMERON>
+<MICHAEL>
+	<DIALOGUE>
+	Best case scenario, you're back on the payroll for awhile.
+	</DIALOGUE>
+</MICHAEL>
+<PATRICK>
+	<DIALOGUE>
+	What's the worst?
+	</DIALOGUE>
+</PATRICK>
+<CAMERON>
+	<DIALOGUE>
+	You get the girl.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Patrick thinks for a minute
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	If I go down. I'm takin' her with me
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+INT. ENGLISH CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+Kat and the other students sit at their desks, taking a quiz Patrick's seat is conspicuously empty.
+</DIRECTION>
+<DIRECTION>
+From outside, we hear the soft, unsure beginnings of a SONG. Kat looks up, then out the window, HORRIFIED.
+</DIRECTION>
+<DIRECTION>
+The song grows louder until we realize it's The Partridge Family's "I Think I Love You". Being sung by Patrick.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(0. S.)
+</DIRECTION>
+	<DIALOGUE>
+	"This morning, I woke up with this feeling, I didn't know how to deal with, and so I just decided to myself--"
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+The STUDENTS rush to the window. OUTSIDE Patrick stands beneath the window, crooning.
+</DIRECTION>
+<DIRECTION>
+Scurvy is next to him, keeping the beat on the bongos and doing backup vocal s.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	"I'd hide it to myself. And never talk about it. And didn't I go and shout it when you walked into the room --"
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He makes quite a sarcastic show of it.
+</DIRECTION>
+<DIRECTION>
+IN THE CLASSROOM
+</DIRECTION>
+<DIRECTION>
+Mrs. Blaise touches her heart, as if the song is for her. Kat slowly walks to the window, peeking below.
+</DIRECTION>
+<DIRECTION>
+OUTSIDE
+</DIRECTION>
+<DIRECTION>
+Patrick smiles at her as he finishes the verse with a big finale.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	" I think I love you I "
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+INSIDE
+</DIRECTION>
+<DIRECTION>
+The other students laugh, clap, cheer, etc. Kat sinks down, mortified, but with a slight smile
+</DIRECTION>
+<DIRECTION>
+INT. DETENTION HALL - DAY
+</DIRECTION>
+<DIRECTION>
+Patrick and several other miscreants sit quietly, mulling over their misfortune.
+</DIRECTION>
+<MISCREANT>
+	<DIALOGUE>
+	Nice song, Verona.
+	</DIALOGUE>
+</MISCREANT>
+<PATRICK>
+	<DIALOGUE>
+	Flog me.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He makes the appropriate hand gesture
+</DIRECTION>
+<DIRECTION>
+Mr. Chapin, the gym teacher, sits at the desk in front, ignoring them while he reads a girly weightlifting magazine
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(0. S.)
+</DIRECTION>
+	<DIALOGUE>
+	Excuse me, Mr. Chapin?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick looks up at the sound of her voice and sees Kat standing in the doorway. She gives him a smile and he perks up a little.
+</DIRECTION>
+<DIRECTION>
+Kat walks into the room and addresses Mr. Chapin again. He turns fully to face her.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Sir, I'd like to state for the record that Mr. Verona ' s current incarceration is unnecessary. I never filed a complaint.
+	</DIALOGUE>
+</KAT>
+<MR_CHAPIN>
+	<DIALOGUE>
+	You didn't have to. He disrupted a classroom.
+	</DIALOGUE>
+</MR_CHAPIN>
+<DIRECTION>
+Kat glances over at Patrick and motions her head toward the window.
+</DIRECTION>
+<DIRECTION>
+Patrick shrugs, not knowing what she ' s talking about.
+</DIRECTION>
+<DIRECTION>
+She motions again, and looks toward the window with an expression that says, "Make a break for it, moron."
+</DIRECTION>
+<DIRECTION>
+Kat brings her attention back to Mr. Chapin while Patrick inches out of his seat toward the window.
+</DIRECTION>
+<DIRECTION>
+The other miscreants watch with glee.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	But, Mr. Chapin, I hardly think a simple serenade warrants a week of detention. There are far more hideous acts than off-key singing being performed by the student body on a regular basis.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick is halfway out the window now. And none too happy about it, considering they're on the second floor.
+</DIRECTION>
+<DIRECTION>
+He eyes a large TREE a few feet away from MR. CHAPIN. He starts to turn away from Kat
+</DIRECTION>
+<MR_CHAPIN>
+	<DIALOGUE>
+	You're not gonna change my mind, Kat. Rules stick.
+	</DIALOGUE>
+</MR_CHAPIN>
+<DIRECTION>
+Kat starts to panic, as Patrick has yet to make the jump for the tree.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Wait, Mr. Chapin. There's something I've always wanted to show you.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He turns back toward her again, the very second before he would have spotted Patrick.
+</DIRECTION>
+<DIRECTION>
+Kat glances toward the window. Patrick's just about to make the jump.
+</DIRECTION>
+<MR_CHAPIN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MR_CHAPIN>
+<KAT>
+	<DIALOGUE>
+	These.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+From behind, we see her lift up her shirt and flash her bra at Mr. Chapin, just as Patrick makes the Jump.
+</DIRECTION>
+<DIRECTION>
+The miscreants cheer, for both the daring' escape and the flash of skin.
+</DIRECTION>
+<DIRECTION>
+Mr. Chapin reddens and tries to be stern.
+</DIRECTION>
+<MR_CHAPIN>
+	<DIALOGUE>
+	I'm going to let that slide, Katarina. But if I catch you doing that again, you'll be in here with the rest of these guys.
+	</DIALOGUE>
+</MR_CHAPIN>
+<DIRECTION>
+He motions to the remaining detention prisoners, without noticing Patrick's absence.
+</DIRECTION>
+<DIRECTION>
+Kat smiles at him.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Thank you, Mr. Chapin.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Kat bolts out the door. Mr. Chapin goes back to his muscle mag, wiping the sweat from his brow.
+</DIRECTION>
+<DIRECTION>
+EXT. SCHOOL CAMPUS LAWN
+</DIRECTION>
+<DIRECTION>
+Kat arrives at the tree. looking around breathlessly, seeing no one.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	He left! I sprung the dickhead and he cruised on me.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+<DIRECTION>
+(0. S.)
+</DIRECTION>
+	<DIALOGUE>
+	Look up, sunshine
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She does. He's still in the tree
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I guess I never told you I'm afraid of heights.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(smiling)
+</DIRECTION>
+	<DIALOGUE>
+	C'mon. It's not that bad
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Try lookin' at it from this angle
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She assesses the branch structure
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Put your right foot there --
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Forget it. I'm stayin'.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You want me to climb up and show you how to get down?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+<DIRECTION>
+(voice trembling)
+</DIRECTION>
+	<DIALOGUE>
+	Maybe.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She sighs and dose so. When she gets to his level, she perches on the branch next to him. He grins at her.
+</DIRECTION>
+<DIRECTION>
+Then swings himself down with the grace and ease of a monkey, leaving her sitting there, realizing she's been duped.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	You shit!
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She climbs down after him
+</DIRECTION>
+<DIRECTION>
+EXT. OUTDOOR ARCADE - DAY
+</DIRECTION>
+<DIRECTION>
+Patrick and Kat walk amongst the games
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	The Partridge Family?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I figured it had to be something ridiculous to win your respect. And piss you off.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Good call.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	So how'd you get Chapin to look the other way?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I dazzled him with my wit
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She stops and picks up a toy gun that SHOOTS water at giggling hyenas and wails on it. The barker hands her a stuffed animal as her prize. She hands it to the small KID next to her and they continue walking.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(sarcastic)
+</DIRECTION>
+	<DIALOGUE>
+	A soft side? Who knew?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Yeah, well, don't let it get out
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	So what's your excuse?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Acting the way we do.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Yes
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I don't like to do what people expect. Then they expect it all the time and they get disappointed when you change.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	So if you disappoint them from the start, you're covered?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Something like that
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Then you screwed up
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	How?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	You never disappointed me.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She blushes under his gaze
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You up for it?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	For. . . ?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He motions to the SIGN for a paint-ball game. She grins SERIES OF SHOTS:
+</DIRECTION>
+<DIRECTION>
+The two of them creep through the paint-ball course, stealthy and full of the desire to best the other.
+</DIRECTION>
+<DIRECTION>
+Patrick nails Kat in the back with a big glob of red paint Kat gets him in the chest with a glob of blue.
+</DIRECTION>
+<DIRECTION>
+Patrick returns fire with a big yellow splat to the side of her face.
+</DIRECTION>
+<DIRECTION>
+Kat squirts a green shot to his forehead After a few more shots, they're both covered in paint
+</DIRECTION>
+<DIRECTION>
+She tries to shoot him again, only to find that her gun is empty.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Damn it!
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick grabs her in a victorious tackle. They land, laughing.
+</DIRECTION>
+<DIRECTION>
+It's hard to even recognize them, as their hair and faces are so smeared with paint globs, but they still manage to find each other's eyes.
+</DIRECTION>
+<DIRECTION>
+He wipes a smear of blue paint away from her lips, as he goes to kiss her.
+</DIRECTION>
+<DIRECTION>
+NEARBY The kid with the stuffed animal, points
+</DIRECTION>
+<KID>
+	<DIALOGUE>
+	Look, Mom
+	</DIALOGUE>
+</KID>
+<DIRECTION>
+His mother hurries him away. What's started as a tackle has turned into a passionate kiss
+</DIRECTION>
+<DIRECTION>
+EXT. STRATFORD HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Patrick pulls up in Kat's driveway. Their paint wardrobe has dried by now and they look like refugees from some strange, yet colorful, war.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	State trooper?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Fallacy.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	The duck?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Hearsay.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	I know the porn career's a lie.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He shuts off the car and turns to her.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Do you?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He kisses her neck. It tickles. She laughs.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Tell me something true.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I hate peas.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	No -- something real. Something no one else knows.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+<DIRECTION>
+(in-between kisses)
+</DIRECTION>
+	<DIALOGUE>
+	You're sweet. And sexy. And completely hot for me.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	No one else knows
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You're amazingly self-assured. Has anyone ever told you that?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Go to the prom with me
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat's smile disappears.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Is that a request or a command?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	You know what I mean
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	No what?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	No, I won't go with you
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Why not?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Because I don't want to. It's a stupid tradition.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick sits quietly, torn. He can't very well tell her he being paid to take her.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	People won't expect you to go...
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat turns to him, getting angry.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Why are you doing this?
+	</DIALOGUE>
+</KAT>
+<KAT>
+	<DIALOGUE>
+	All of it -- what's in it for you?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He sits silently, not looking at her, confirming her suspicions.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Create a little drama? Start a new rumor? What?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	So I have to have a motive to be with you?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You tell me.
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	You need therapy. Has anyone ever told you that?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+<DIRECTION>
+(quietly)
+</DIRECTION>
+	<DIALOGUE>
+	Answer the question, Patrick
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+<DIRECTION>
+(angry)
+</DIRECTION>
+	<DIALOGUE>
+	Nothing! There's nothing in it for me. Just the pleasure of your company.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He takes out a cigarette. She breaks it in half before she SLAMS the car door and walks into the house.
+</DIRECTION>
+<DIRECTION>
+Patrick PEELS out of the driveway. Kat turns at the front door and watches him go
+</DIRECTION>
+<DIRECTION>
+EXT. STREET - NIGHT
+</DIRECTION>
+<DIRECTION>
+Patrick pulls up to a stop light and waits for .the green
+</DIRECTION>
+<DIRECTION>
+He glances over at A DRUNKEN HOMELESS GUY in the median, who has decided that he doesn't need to wear pants.
+</DIRECTION>
+<DIRECTION>
+Patrick pulls out his wallet, takes the wad of money Joey gave him and hands it to the homeless guy.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	cover that up
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+The light turns green and Patrick pulls away
+</DIRECTION>
+<DIRECTION>
+INT. STRATFORD HOUSE/BATHROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat stands at the sink, scrubbing paint off of her face Bianca TAPS on the open door.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Quick question -- are you going to the prom?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat pushes the door shut with a SLAM
+</DIRECTION>
+<DIRECTION>
+INT. STUDY HALL - DAY
+</DIRECTION>
+<DIRECTION>
+Cameron and Bianca sit together at their study cubby. She fingers a strand of her hair.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Then Guillermo says, "If you go any lighter, you're gonna look like an extra on 90210."
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	No...
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Bianca stares at him for a moment.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	do you listen to this crap?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	What crap?
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Me. This endless ...blonde babble. I'm like, boring myself.
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	Thank God! If I had to hear one more story about your coiffure...
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+He mock stabs himself with a pencil as she giggles and smacks his hand away.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I figured you'd get to the good stuff eventually.
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	What good stuff?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+	<DIALOGUE>
+	The "real you".
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Like my fear of wearing pastels?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+He looks stricken.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I'm kidding.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	You know how sometimes you just become this "persona"? And you don't know how to quit?
+	</DIALOGUE>
+</BIANCA>
+<CAMERON>
+<DIRECTION>
+(matter of fact)
+</DIRECTION>
+	<DIALOGUE>
+	No
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Okay -- you're gonna need to learn how to lie.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Mandella struggles with the lock on her locker. Finally, it opens.
+</DIRECTION>
+<DIRECTION>
+Hanging inside is a beautiful DRESS, inspired by the 16th Century. Mandella slowly unpins a NOTE from the dress.
+</DIRECTION>
+<DIRECTION>
+INSERT - "0 FAIR ONE. JOIN ME AT THE PROM. I WILL BE WAITING. LOVE, WILLIAM S."
+</DIRECTION>
+<DIRECTION>
+Mandella's agog. Trevor walks by and sees her holding the dress.
+</DIRECTION>
+<TREVOR>
+	<DIALOGUE>
+	You're gonna look splendiferous in that, Mandella.
+	</DIALOGUE>
+</TREVOR>
+<DIRECTION>
+Mandella looks up sharply, shaken from her reverie.
+</DIRECTION>
+<TREVOR>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	that's cool to say.
+	</DIALOGUE>
+</TREVOR>
+<DIRECTION>
+Mandella grins It is
+</DIRECTION>
+<MANDELLA>
+<DIRECTION>
+INT. STRATFORD HOUSE/DEN - DAY
+</DIRECTION>
+<DIRECTION>
+Sharon is at her computer, Walter at his exercise bike
+</DIRECTION>
+<SHARON>
+	<DIALOGUE>
+	Would you rather be ravished by a pirate or a British rear admiral?
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+	<DIALOGUE>
+	Pirate -- no question.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Bianca enters and walks over to Walter
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Daddy, I want to discuss the prom with you. It's tomorrow night --
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	The prom? Kat has a date?
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	No, but
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	It's that hot rod Joey, right? That ' s who you want me to bend my rules for?
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	He's not a "hot rod". Whatever that is.
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	You're not going unless your sister goes. End of story.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	Fine. I see that I'm a prisoner in my own house. I'm not a daughter. I'm a possession!
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Bianca storms out.
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+(calling out)
+</DIRECTION>
+	<DIALOGUE>
+	You know what happens at proms?
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Sharon stops her typing and looks up at Walter
+</DIRECTION>
+<SHARON>
+	<DIALOGUE>
+	They'll dance, they'll kiss, they'll come home. Let her go.
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+	<DIALOGUE>
+	Kissing? Is that what you think happens? Kissing isn't what keeps me up to my elbows in placenta all day.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+INT. BIANCA'S ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bianca lies on her bed. MTV blares. A KNOCK sounds.
+</DIRECTION>
+<DIRECTION>
+BIANCA Come in.
+</DIRECTION>
+<DIRECTION>
+Kat enters and sits down on the bed, muting the TV.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(kindly)
+</DIRECTION>
+	<DIALOGUE>
+	Listen, I know you hate having to sit home because I'm not Susie High School.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	Like you care.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	I do care. But I'm a firm believer in doing something for your own reasons, not someone else ' s .
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	I wish I had that luxury. I'm the only sophomore that got asked to the prom and I can't go, because you won ' t.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat clears her throat
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Joey never told you we went out, did he?
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	In 9th. For a month
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+<DIRECTION>
+(confused)
+</DIRECTION>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+<DIRECTION>
+(self-mocking)
+</DIRECTION>
+	<DIALOGUE>
+	He was, like, a total babe
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	But you hate Joey
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	Now I do. Back then, was a different story.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	As in...
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat takes a deep breath.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	He said everyone was doing it. So I did it.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	You did what?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+<DIRECTION>
+(continuing on)
+</DIRECTION>
+	<DIALOGUE>
+	Just once. Afterwards, I told him I didn't want to anymore. I wasn't ready. He got pissed. Then he broke up with me.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca stares at her, dumbfounded
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	But
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	After that, I swore I'd never do anything just because "everyone else" was doing it. And I haven't since. Except for Bogey's party, and my stunning gastro-intestinal display --
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+<DIRECTION>
+(stunned)
+</DIRECTION>
+	<DIALOGUE>
+	Why didn't you tell me?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	I wanted to let you make up your own mind about him.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	No. you didn't! If you really thought I could make my own decisions, you would've let me go out with him instead of helping Daddy hold me hostage.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat stands up slowly
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	That's not
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	I'm not stupid enough to repeat your mistakes.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	I guess I thought I was protecting you.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	God, you're just like him! Just keep me locked away in the dark, so I can't experience anything for myself
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	Not all experiences are good, Bianca. You can't always trust the people you want to.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	I guess I'll never know, will I?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She rises and holds the door open for Kat, then slams it behind her.
+</DIRECTION>
+<DIRECTION>
+EXT. STRATFORD HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+A sprinkler cruises the lawn.
+</DIRECTION>
+<DIRECTION>
+INT. KAT'S ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Kat lies in bed, staring at the ceiling. She rolls over and picks up the phone.
+</DIRECTION>
+<DIRECTION>
+BIANCA'S ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Bianca, still in her pajamas, eats a bowl of cereal while watching "I Love Lucy" reruns.
+</DIRECTION>
+<DIRECTION>
+A KNOCK sounds
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Come in.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat opens the door and peers in with a grin
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Feel like shopping?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca looks up, hopefully.
+</DIRECTION>
+<DIRECTION>
+LIVING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Walter and Sharon are in front of the television. Walter has the TV Guide in hand, glasses on.
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	What do you wanna watch? We've got crap, crap, crap or crap
+	</DIALOGUE>
+</WALTER>
+<SHARON>
+	<DIALOGUE>
+	Dr. Ruth?
+	</DIALOGUE>
+</SHARON>
+<DIRECTION>
+Bianca walks into the living room. She's wearing a prom dress.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Hi, Mommy.
+	</DIALOGUE>
+<DIRECTION>
+(looking away)
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+Walter scurries takes off his glasses and looks from Bianca to Sharon.
+</DIRECTION>
+<SHARON>
+	<DIALOGUE>
+	Honey, you look beautiful!
+	</DIALOGUE>
+</SHARON>
+<BIANCA>
+	<DIALOGUE>
+	You like? My date should be here in five.
+	</DIALOGUE>
+</BIANCA>
+<WALTER>
+	<DIALOGUE>
+	I'm missing something.
+	</DIALOGUE>
+</WALTER>
+<BIANCA>
+	<DIALOGUE>
+	I have a date, Daddy. And he ' s not a captain of oppression like some men we know.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+The DOORBELL RINGS. Bianca runs to open it. There stands CAMERON. He takes in Bianca's outfit.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Wow
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	Let's go.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Walter rises. Sharon pulls him back down on the couch
+</DIRECTION>
+<SHARON>
+<DIRECTION>
+(to Bianca)
+</DIRECTION>
+	<DIALOGUE>
+	Have a great time, honey!
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+	<DIALOGUE>
+	But -- who -- what --?
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+The door SLAMS. As Sharon looks at Walter with a grin, a blur rushes down the stairs and out the door. The blur has Kat ' s voice.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Hey, guys. I'm going to the prom. See you in a few.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+The door SLAMS again. Walter and Sharon 'are alone
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	What just happened?
+	</DIALOGUE>
+</WALTER>
+<SHARON>
+	<DIALOGUE>
+	Your daughters went to the prom.
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+	<DIALOGUE>
+	Did I have anything to say about it?
+	</DIALOGUE>
+</WALTER>
+<SHARON>
+	<DIALOGUE>
+	Absolutely not.
+	</DIALOGUE>
+</SHARON>
+<WALTER>
+	<DIALOGUE>
+	That ' s what I thought
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+The DOORBELL RINGS again. Walter opens it to find Joey on the porch, wearing a tux.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	I'm here to pick up Bianca.
+	</DIALOGUE>
+</JOEY>
+<WALTER>
+	<DIALOGUE>
+	late
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+He SLAMS the door shut
+</DIRECTION>
+<DIRECTION>
+EXT HOTEL PARKING LOT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Kat pulls up in her car, emerging resplendent in an ice gown.
+</DIRECTION>
+<DIRECTION>
+Patrick sits on the steps, waiting. In a tux.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	How'd you get a tux at the last minute?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	It's Scurvy's. His date got convicted. Where'd you get the dress?
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	It's just something I had. You know
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+<DIRECTION>
+(smiling)
+</DIRECTION>
+	<DIALOGUE>
+	Oh huh
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Look, I'm -- sorry -- that I questioned your motives. I was wrong.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick winces slightly, but covers it with a smile
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	No prob.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He remains seated. Kat fidgets nervously.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	are you ready?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He rises and stares at her, taking in her image appreciatively. She blushes and turns away.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	C'mon. Let's get this over with.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+INT. PROM - NIGHT
+</DIRECTION>
+<DIRECTION>
+A hotel ballroom transformed into a fantasy world. Patrick and Kat enter, Kat attempting to deny the romance of it.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Quite the ostentatious display
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+A cowboy two-steps by them, dragging some poor girl around
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Look, Clem even wore his good boots
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat steps forward, looking around and spots Cameron and Bianca dancing cheek to cheek. She smiles.
+</DIRECTION>
+<DIRECTION>
+ACROSS THE ROOM
+</DIRECTION>
+<DIRECTION>
+Mandella enters nervously, in the long Elizabethan gown, hair piled on top of her head. She spots Kat and hurries over.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	Have you seen him?
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	Who?
+	</DIALOGUE>
+</KAT>
+<MANDELLA>
+	<DIALOGUE>
+	William - he asked me to meet him here.
+	</DIALOGUE>
+</MANDELLA>
+<KAT>
+	<DIALOGUE>
+	Oh, honey -- tell me we haven't' progressed to full-on hallucinations.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick looks toward the door and taps Kat. She turns and points Mandella the same way.
+</DIRECTION>
+<DIRECTION>
+Michael - in full Shakespearean dress with a new goatee on his chin - bows in their direction. Mandella's grin couldn't be bigger.
+</DIRECTION>
+<DIRECTION>
+Michael swashbuckles over to them, taking Mandella's hand and leading her onto the dance floor.
+</DIRECTION>
+<MICHAEL>
+	<DIALOGUE>
+	Mi' lady.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+(to Patrick)
+</DIRECTION>
+	<DIALOGUE>
+	Good sir.
+	</DIALOGUE>
+<DIRECTION>
+Patrick rolls his eyes.
+</DIRECTION>
+<DIRECTION>
+INT. PROM - NIGHT - LATER
+</DIRECTION>
+<DIRECTION>
+Kat and Patrick dance to a slow SONG. Whatever he's whispering into her ear is making her laugh.
+</DIRECTION>
+<DIRECTION>
+Cam and Bianca dance nearby, glowing with happiness. She whispers something in his ear and heads for the ladies' room
+</DIRECTION>
+<DIRECTION>
+INT. LADIES ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bianca walks in, positively radiant. Chastity emerges from a stall.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(surprised)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing here?
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Chastity checks her hair in the mirror, aloof.
+</DIRECTION>
+<CHASTITY>
+	<DIALOGUE>
+	You think you ' re the only sophomore at the prom?
+	</DIALOGUE>
+</CHASTITY>
+<BIANCA>
+	<DIALOGUE>
+	I did.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Chastity maintains her snooty tone.
+</DIRECTION>
+<CHASTITY>
+	<DIALOGUE>
+	And just so you know, my date isn't planning on spending most of the night in his backseat.
+	</DIALOGUE>
+</CHASTITY>
+<DIRECTION>
+BIANCA What're you talking about?
+</DIRECTION>
+<CHASTITY>
+	<DIALOGUE>
+	Joey Dorsey is only after one thing - - your cherry. He practically made a public announcement.
+	</DIALOGUE>
+</CHASTITY>
+<DIRECTION>
+Appalled, Bianca storms out. Chastity tries to backpedal.
+</DIRECTION>
+<CHASTITY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I wanted to tell you
+	</DIALOGUE>
+</CHASTITY>
+<DIRECTION>
+INT. PROM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Joey, drunk, disorderly and pissed off, walks in with a few stray jocks - also dateless. He zeroes in on Cameron, now consoling a pissed-off Bianca.
+</DIRECTION>
+<DIRECTION>
+Patrick and Kat continue to slow dance, oblivious to the evil about to erupt.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	My grandmother's .
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	That's where I was last year. She'd never lived alone -- my grandfather died -- I stayed with her. I wasn't in jail, I don't know Marilyn Manson, and I've never slept with a Spice Girl. I spent a year sitting next to my grandma on the couch watching Wheel of Fortune. End of story.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He takes a breath and looks away, not meeting her eyes. Kat stares at him for a moment and laughs a delighted laugh
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	That ' s completely adorable!
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	It gets worse -- you still have your freshman yearbook?
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He's interrupted by Joey's hand on his shoulder.
+</DIRECTION>
+<JOEY>
+	<DIALOGUE>
+	What's Bianca doing here with that cheese dick? I didn't pay you to let some little punk ass snake me.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+ACROSS THE ROOM
+</DIRECTION>
+<DIRECTION>
+Michael spots the altercation and dances Mandella over to Cameron and Bianca.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(to Cameron)
+</DIRECTION>
+	<DIALOGUE>
+	Feces hitting fan. C'mon
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Michael takes Cameron aside, leaving Mandella and Bianca staring after them.
+</DIRECTION>
+<DIRECTION>
+ACROSS THE ROOM
+</DIRECTION>
+<DIRECTION>
+Michael and Cameron approach Joey as he continues to taunt Patrick who keeps quiet, realizing the weight of this situation.
+</DIRECTION>
+<MICHAEL>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Joey, pal, compadre. Let's take it easy.
+	</DIALOGUE>
+</MICHAEL>
+<DIRECTION>
+Joey turns toward Michael and Cameron.
+</DIRECTION>
+<DIRECTION>
+JOEY You two are in big trouble
+</DIRECTION>
+<DIRECTION>
+Cameron faces Joey.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Admit it. You lost. Be a man.
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+Joey PUNCHES Cameron in the face, taking him by surprise Cameron holds his nose as it bleeds onto his tux
+</DIRECTION>
+<DIRECTION>
+The various cliques descend angrily and Joey is soon surrounded by seething Cowboys, Coffee Kids and White Rastas.
+</DIRECTION>
+<DEREK>
+	<DIALOGUE>
+	Very uncool, my brother
+	</DIALOGUE>
+</DEREK>
+<JOEY>
+	<DIALOGUE>
+	I'm not your brother, white boy.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+The other Rastas GASP, as if stung by the realization that they're white.
+</DIRECTION>
+<DIRECTION>
+Joey turns back to Patrick and Kat.
+</DIRECTION>
+<JOEY>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Just so you know -- she'll only spread her legs once.
+	</DIALOGUE>
+</JOEY>
+<DIRECTION>
+Kat looks from Joey to Patrick, not sure what she's hearing. Joey pushes through the crowd but a HAND drags him back. It's Bianca. And she BELTS the hell out of him
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	That's for making my date bleed
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She BELTS him again
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	That's for my sister.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+And AGAIN
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	And that's for me.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Cliques now descend on Joey, punching him wildly.
+</DIRECTION>
+<COWBOY>
+	<DIALOGUE>
+	And that's for the fourth grade, asshole.
+	</DIALOGUE>
+</COWBOY>
+<DIRECTION>
+HOTEL - NIGHT
+</DIRECTION>
+<DIRECTION>
+KAT runs down the stairs, Patrick chasing her
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	Wait I...
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	You were paid to take me out! By -- the one person I truly hate. I knew it was a set-up!
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	It wasn't like that.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Really? What was it like? A down payment now, then a bonus for sleeping with me?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I didn't care about the money.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He catches up to her now
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I cared about --
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She turns to face him with a countenance more in sorrow than in anger.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	You are so not what I thought you were.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He grabs her and kisses her to shut her up. After a second, she jerks away and flees down the stairs and out of sight.
+</DIRECTION>
+<DIRECTION>
+Bianca stands at the top of the stairs, watching. She's never looked more guilty.
+</DIRECTION>
+<DIRECTION>
+INT. STRATFORD HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+Kat is sprawled on the couch in sweats, wrapped in a blanket, watching "Sixteen Candles". When Molly Ringwald leans across the birthday cake to get a kiss from her dream date, Kat changes the channel disgustedly, settling for an infomercial
+</DIRECTION>
+<DIRECTION>
+The phone sits next to her. Not ringing. Bianca breezes in, bearing a cup of tea.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Are you sure you don't want to come with us? It'll be fun.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Kat takes the tea and gives a weak smile.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I ' m sure .
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca sits down next to her
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	You looked beautiful last night, you know.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	So did you
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca gives her a squeeze, then jumps up when the DOORBELL rings, opening the door to a waiting Cameron. He peeks his head inside.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	She okay?
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	I hope so.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+The door shuts behind her as Walter enters.
+</DIRECTION>
+<WALTER>
+	<DIALOGUE>
+	Was that your sister?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	Yeah. She left with some bikers Big ones. Full of sperm.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	Funny.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Walter sits down on the arm of the chair and watches the infomercial with Kat.
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I don't understand the allure of dehydrated food. Is this something I should be hip to?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	No, Daddy.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+<DIRECTION>
+(dreading the answer)
+</DIRECTION>
+	<DIALOGUE>
+	So tell me about this dance. Was it fun?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	Parts of it.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	Which parts?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	The part where Bianca beat the hell out of some guy.
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	Bianca did what?
+	</DIALOGUE>
+</WALTER>
+<KAT>
+	<DIALOGUE>
+	What's the matter? Upset that I rubbed off on her?
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	No -- impressed.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Kat looks up in surprise.
+</DIRECTION>
+<WALTER>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You know, fathers don't like to admit that their daughters are capable of running their own lives. It means we've become spectators. Bianca still lets me play a few innings. You've had me on the bleachers for years. When you go to Sarah Lawrence, I won't even be able to watch the game.
+	</DIALOGUE>
+</WALTER>
+<KAT>
+<DIRECTION>
+(hopeful)
+</DIRECTION>
+	<DIALOGUE>
+	When I go?
+	</DIALOGUE>
+</KAT>
+<WALTER>
+	<DIALOGUE>
+	Oh, Christ. Don't tell me you've changed your mind. I already sent 'em a check.
+	</DIALOGUE>
+</WALTER>
+<DIRECTION>
+Kat reaches over and gives him a hug
+</DIRECTION>
+<DIRECTION>
+INT. CAFETERIA - DAY Kat stands grabs a box of cornflakes from the food line.
+</DIRECTION>
+<CAMERON>
+<DIRECTION>
+(0. S.)
+</DIRECTION>
+	<DIALOGUE>
+	Katarina?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+She turns and looks at him
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	I'd like to express my apologies.
+	</DIALOGUE>
+</CAMERON>
+<KAT>
+	<DIALOGUE>
+	For what?
+	</DIALOGUE>
+</KAT>
+<CAMERON>
+<DIRECTION>
+(looking down)
+</DIRECTION>
+	<DIALOGUE>
+	I didn't mean for you to get -- When Bianca asked me to find you a boyfriend, I had no idea it would turn out so -- ugly. I would never have done anything to compromise your - - -
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+He trails off when he realizes she's thrown her food tray against the wall and marched off -- the old "kill, kill" look back in her eyes.
+</DIRECTION>
+<DIRECTION>
+INT. HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Kat stomps up the hallway, full of menace
+</DIRECTION>
+<DIRECTION>
+CLASSROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Bianca's English teacher perches on the edge of a desk, open book in hand.
+</DIRECTION>
+<TEACHER>
+	<DIALOGUE>
+	Who can tell me at what point Lucentio admits his deception?
+	</DIALOGUE>
+</TEACHER>
+<DIRECTION>
+The door of the classroom FLIES open and an angry Kat stalks in, yanking Bianca from her chair and dragging her toward the hallway.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(to the teacher)
+</DIRECTION>
+	<DIALOGUE>
+	Family emergency.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Bianca tries to pull away as Kat drags her by the hair between two rows of lockers.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Let go!
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	You set me up.
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	I just wanted --
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	What? To completely damage me? To send me to therapy forever? What?
+	</DIALOGUE>
+</KAT>
+<BIANCA>
+	<DIALOGUE>
+	No! I just wanted
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Miss Perky walks up
+</DIRECTION>
+<MISS_PERKY>
+	<DIALOGUE>
+	Ladies? Shall we take a trip to my office?
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+INT. MISS PERKY'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Miss Perky stares at both sisters as they sit before her, then focuses on Bianca.
+</DIRECTION>
+<MISS_PERKY>
+	<DIALOGUE>
+	So you're the real bitch
+	</DIALOGUE>
+</MISS_PERKY>
+<BIANCA>
+	<DIALOGUE>
+	Yes! Okay? Yes -- I'm the real bitch. I wanted her to get a boyfriend so I could. Apparently, this makes me a horrible person. I'm sorry.
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+She turns to Kat.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I swear -- I didn't know about the money. I didn't even know Joey was involved. I would never intentionally hurt you, Kat.
+	</DIALOGUE>
+</BIANCA>
+<MISS_PERKY>
+<DIRECTION>
+(to Kat)
+</DIRECTION>
+	<DIALOGUE>
+	Do you care to respond?
+	</DIALOGUE>
+</MISS_PERKY>
+<KAT>
+	<DIALOGUE>
+	Am I supposed to feel better? Like, right now? Or do I have some time to think about it?
+	</DIALOGUE>
+</KAT>
+<MISS_PERKY>
+	<DIALOGUE>
+	Just smack her now.
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+Bianca rises, taking Kat by the arm.
+</DIRECTION>
+<BIANCA>
+<DIRECTION>
+(to Miss Perky)
+</DIRECTION>
+	<DIALOGUE>
+	We'll be getting back to you.
+	</DIALOGUE>
+</BIANCA>
+<MISS_PERKY>
+	<DIALOGUE>
+	What, no hug?
+	</DIALOGUE>
+</MISS_PERKY>
+<DIRECTION>
+HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+And Bianca leave Miss Perky's office
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Is that woman a complete fruit-loop or is it just me?
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	It's just you.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+ENGLISH CLASS - DAY
+</DIRECTION>
+<DIRECTION>
+Mrs. Blaise faces the class
+</DIRECTION>
+<MRS_BLAISE>
+	<DIALOGUE>
+	All right. I'm assuming everyone found time to compose, their poems. Except for Mr. Dorsey, who's still in ICU.
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+Nerds in the back high-five each other.
+</DIRECTION>
+<MRS_BLAISE>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Would anyone care to read theirs aloud?
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+No one moves. Then Kat slowly stands up.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I'11 go
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Patrick looks up.
+</DIRECTION>
+<MRS_BLAISE>
+	<DIALOGUE>
+	Oh, Lord.
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+She downs a couple Prozac
+</DIRECTION>
+<MRS_BLAISE>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Please proceed.
+	</DIALOGUE>
+</MRS_BLAISE>
+<DIRECTION>
+Kat stands, puts on her glasses, and takes a deep breath before reading from her notebook.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I hate the way you talk to me/ and the way you cut your hair/ I hate the way you drive my car/ I hate it when you stare.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She pauses, then continues
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I hate your big dumb combat boots/ and the way you read my mind/ I hate you so much it makes me sick/ it even makes me rhyme.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She takes a deep breath, and looks quickly at Patrick, who stares at the floor.
+</DIRECTION>
+<KAT>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I hate the way you're always right/ I hate it when you lie/ I hate it when you make me laugh/ even worse when you make me cry/ I hate it that you're not around/ and the fact that you didn't call/ But mostly I hate the way I don ' t hate you/ not even close, not even a little bit, not even any at all.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+She looks directly at Patrick. He looks back this time. The look they exchange says everything.
+</DIRECTION>
+<DIRECTION>
+Then she walks out of the room The rest of the class remains in stunned silence.
+</DIRECTION>
+<DIRECTION>
+EXT. PARKING LOT - MOMENTS LATER
+</DIRECTION>
+<DIRECTION>
+Kat walks to her car alone. When she opens the door, she's greeted with a Fender Stratocaster guitar, reclining in the front seat.
+</DIRECTION>
+<DIRECTION>
+She picks it up slowly, inspecting every detail, then spins around.
+</DIRECTION>
+<DIRECTION>
+Patrick stands there, smiling.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	A Fender Strat. You bought this?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	I thought you could use it. When you start your band.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+She doesn't answer, but hides a smile, so he walks closer.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Besides, I had some extra cash. Some asshole paid me to take out a really great girl.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Is that right?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Yeah, but then I fucked up. I fell for her.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Blushes and looks down.
+</DIRECTION>
+<PATRICK>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You know -- it's not every day you find a girl who'll flash her tits to get you out of detention.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Looks up. surprised and embarrassed that he found out
+</DIRECTION>
+<DIRECTION>
+He takes her upturned face as a sign to kiss her and he does She lets him this time.
+</DIRECTION>
+<DIRECTION>
+Then breaks it off
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	You can't just buy me a guitar every time you screw up, you know.
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He grimaces.
+</DIRECTION>
+<PATRICK>
+	<DIALOGUE>
+	I know
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+He quiets her with another kiss Which she breaks off again.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	And don't just think you can
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+He kisses her again, not letting her end it this time.
+</DIRECTION>
+<DIRECTION>
+STRATFORD HOUSE - SUNSET
+</DIRECTION>
+<DIRECTION>
+We hear the sounds of MUSIC and LAUGHTER.
+</DIRECTION>
+<DIRECTION>
+STRATFORD HOUSE/BACKYARD - SUNSET
+</DIRECTION>
+<DIRECTION>
+Patrick is at the barbecue grill, flipping burgers. Kat watches.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	Why is my veggie burger the only burnt object on this grill?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Because I like to torture you.
+	</DIALOGUE>
+</PATRICK>
+<KAT>
+	<DIALOGUE>
+	Oh, Bianca? Can you get me my freshman yearbook?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Don ' t you even dare. . .
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+ON BIANCA AND CAMERON As they argue on the patio.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	They do to!
+	</DIALOGUE>
+</CAMERON>
+<BIANCA>
+	<DIALOGUE>
+	They do not!
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Rises to get the yearbook.
+</DIRECTION>
+<CAMERON>
+	<DIALOGUE>
+	Can someone please tell her that sunflower seeds come from sunflowers?
+	</DIALOGUE>
+</CAMERON>
+<DIRECTION>
+ON MICHAEL AND MANDELLA
+</DIRECTION>
+<DIRECTION>
+Severely making-out in a lawn chair. She comes up for a breath.
+</DIRECTION>
+<MANDELLA>
+	<DIALOGUE>
+	I can't remember a word of Shakespeare right now. Isn't that weird?
+	</DIALOGUE>
+</MANDELLA>
+<DIRECTION>
+Michael pulls her back down for another round ON KAT AND PATRICK
+</DIRECTION>
+<DIRECTION>
+She tries to keep him from grabbing the yearbook that Bianca now hands her.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	You're freaked over this, aren't you?
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+Bianca hands her the yearbook
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	He's more than freaked. He's froke
+	</DIALOGUE>
+</BIANCA>
+<DIRECTION>
+Flips to a page.
+</DIRECTION>
+<KAT>
+	<DIALOGUE>
+	I'd like to call your attention to Patrick Verona's stunning bad-ass look of 1995 ---
+	</DIALOGUE>
+</KAT>
+<DIRECTION>
+INSERT - A horrifically nerdy freshman year picture Glasses, bad hair, headgear -- the works.
+</DIRECTION>
+<DIRECTION>
+She holds up the picture for all to view. Patrick cringes and throws a handful of pretzels at her.
+</DIRECTION>
+<BIANCA>
+	<DIALOGUE>
+	Patrick -- is that- a.
+	</DIALOGUE>
+</BIANCA>
+<KAT>
+	<DIALOGUE>
+	Perm?
+	</DIALOGUE>
+</KAT>
+<PATRICK>
+	<DIALOGUE>
+	Ask my attorney.
+	</DIALOGUE>
+</PATRICK>
+<DIRECTION>
+Kat and Bianca huddle over the picture, giggling -- as we CRANE UP and hear a GIRLY PUNK version of The Partridge Family's "I Think I Love You".
+</DIRECTION>
+<DIRECTION>
+FADE OUT:
+</DIRECTION>
+<DIRECTION>
+END
+</DIRECTION>

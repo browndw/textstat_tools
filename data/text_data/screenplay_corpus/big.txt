@@ -1,0 +1,4194 @@
+<DIRECTION>
+:SC: SCENE 1
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	You are standing in the cavern of the evil wizard. All around you are the carcasses of slain ice dwarfs...Melt the wizard. What do you want to melt him with? What do you think I want to melt him with...(Josh,
+	</DIALOGUE>
+<DIRECTION>
+don't forget to take out the garbage)
+</DIRECTION>
+	<DIALOGUE>
+	Just a second! Throw
+	</DIALOGUE>
+<DIRECTION>
+the...(Josh, did you hear what your mother said?)
+</DIRECTION>
+	<DIALOGUE>
+	One minute!
+	</DIALOGUE>
+<DIRECTION>
+(Josh Baskin!)
+</DIRECTION>
+	<DIALOGUE>
+	Your hesitancy has cost you dearly. The wizard, sensing your apprehension, unleashes a fatal blow from the ice scepter. With luck, you will thaw in several million years. Great.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	C'mon Josh, it's starting to get awfully late!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Okay. Okay. Okay.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 2
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Take the garbage out. Every day, take the garbage out...Rick Rodin is on the mound for the Yankees! He looks into the catcher's mitt, shakes off the first signal, takes the turn, wipes the sweat off his brow, leans back and fires...
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Yeah! Good-bye Mr. Spaulding! ...Here, here! Quick!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 3
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Got it. Need it. Need it. Got it.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Hey. Hey. Hey! You ever go by Simpson's desk when she's grading papers or somethin'? When she's leaned over, you can see right down her shirt.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Swear to God.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Bra?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	No. No. She's got one of those undershirt things. So if you get real close to the board, you can see all the way down to her flowers.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Woah!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Yeah. Give me your gum.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Need it. Got it. Got it. Need it...
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Hey. Hey. Hey! Oh my God, it's Cynthia! How did a geek like Freddy Benson get a sister like that?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Beats me.
+	</DIALOGUE>
+</JOSH>
+<CYNTHIA>
+	<DIALOGUE>
+	Hi Josh.
+	</DIALOGUE>
+</CYNTHIA>
+<BILLY>
+	<DIALOGUE>
+	Hi!...He says hi!...Unbelievable! God! She likes you! I know she likes you! I'll find out, okay!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 4
+</DIRECTION>
+<BILLY_JOSH>
+	<DIALOGUE>
+	Shimmy, shimmy cocoa pop! Shimmy, shimmy rock! Shimmy, shimmy cocoa pop! Shimmy, shimmy rock! I met a girlfriend a triscuit! She said, a triscuit a biscuit! Ice cream, soda pop, vanilla on the top! Ooh, Shelly's out, walking down the street, ten times a week! I read it! I said it! I stole my momma's credit! I'm cool! I'm hot! Sock me in the stomach three more times!
+	</DIALOGUE>
+</BILLY_JOSH>
+<JOSH>
+	<DIALOGUE>
+	Don't forget to call me after supper.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Remember about Cynthia!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Don't worry! I'm as interested as you are.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 5
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	So, will you tell me?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	You're in!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	What do you mean, I'm in?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Cynthia Benson!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	What about her?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	You ready for this? She doesn't like Barry anymore!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	So?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	So what do you mean so?! That's it! She's available!
+	</DIALOGUE>
+</BILLY>
+<MOM>
+	<DIALOGUE>
+	Josh...?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	It doesn't mean...
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Hey, it's after midnight. Now say goodnight to Billy.
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Goodnight Billy. I've gotta go.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Goodnight Mrs. Baskin! Sweet dreams.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 6
+</DIRECTION>
+<DAD>
+	<DIALOGUE>
+	Are you sure you want to go on this thing, Son?
+	</DIALOGUE>
+</DAD>
+<JOSH>
+	<DIALOGUE>
+	Yeah!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Nah! Nah! I don't know about this one, Bob. No, this looks too scary.
+	</DIALOGUE>
+</MOM>
+<DAD>
+	<DIALOGUE>
+	It's okay.
+	</DIALOGUE>
+</DAD>
+<JOSH>
+	<DIALOGUE>
+	Oh my gosh!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	See, I told you he doesn't want to go on it. DAD Son, you know, you don't have to go on this thing if you don't feel like it.
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	No! No! It's just that I...I want to go on it myself.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	You do?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Yeah. I think it's something...yeah, I think it's something I should do.
+	</DIALOGUE>
+</JOSH>
+<DAD>
+	<DIALOGUE>
+	Great! Why don't we meet you at the ferris wheel.
+	</DIALOGUE>
+</DAD>
+<JOSH>
+	<DIALOGUE>
+	Half hour.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 7
+</DIRECTION>
+<CYNTHIA>
+	<DIALOGUE>
+	Josh?
+	</DIALOGUE>
+</CYNTHIA>
+<JOSH>
+	<DIALOGUE>
+	Oh, hi!
+	</DIALOGUE>
+</JOSH>
+<CYNTHIA>
+	<DIALOGUE>
+	Hi! Have you been on this before?
+	</DIALOGUE>
+</CYNTHIA>
+<JOSH>
+	<DIALOGUE>
+	This?
+	</DIALOGUE>
+</JOSH>
+<CYNTHIA>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</CYNTHIA>
+<JOSH>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JOSH>
+<CYNTHIA>
+	<DIALOGUE>
+	Is it scary?
+	</DIALOGUE>
+</CYNTHIA>
+<JOSH>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JOSH>
+<CYNTHIA>
+	<DIALOGUE>
+	Are you here alone?
+	</DIALOGUE>
+</CYNTHIA>
+<JOSH>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JOSH>
+<CYNTHIA>
+	<DIALOGUE>
+	Look. Aren't those your parents?
+	</DIALOGUE>
+</CYNTHIA>
+<JOSH>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Honey!
+	</DIALOGUE>
+</MOM>
+<CYNTHIA>
+	<DIALOGUE>
+	Right over there.
+	</DIALOGUE>
+</CYNTHIA>
+<MOM>
+	<DIALOGUE>
+	Smile!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Why, yes.
+	</DIALOGUE>
+</JOSH>
+<DARIN>
+	<DIALOGUE>
+	Hey, who's this?
+	</DIALOGUE>
+</DARIN>
+<CYNTHIA>
+	<DIALOGUE>
+	This is Josh Baskin.
+	</DIALOGUE>
+</CYNTHIA>
+<DARIN>
+	<DIALOGUE>
+	How ya doin'?
+	</DIALOGUE>
+</DARIN>
+<CYNTHIA>
+	<DIALOGUE>
+	This is Darin. He drives.
+	</DIALOGUE>
+</CYNTHIA>
+<MAN>
+	<DIALOGUE>
+	Next!
+	</DIALOGUE>
+</MAN>
+<DARIN>
+	<DIALOGUE>
+	Go ahead.
+	</DIALOGUE>
+</DARIN>
+<MAN>
+	<DIALOGUE>
+	Yo next!
+	</DIALOGUE>
+</MAN>
+<DARIN>
+	<DIALOGUE>
+	Go ahead!
+	</DIALOGUE>
+</DARIN>
+<MAN>
+	<DIALOGUE>
+	Yo next! Woah! Read this sign. You must be at least this big to ride this ride!
+	</DIALOGUE>
+</MAN>
+<CYNTHIA>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CYNTHIA>
+<MAN>
+	<DIALOGUE>
+	Hey, I don't make the rules here. Next! Next!
+	</DIALOGUE>
+</MAN>
+<CYNTHIA>
+	<DIALOGUE>
+	Well, it's a stupid rule.
+	</DIALOGUE>
+</CYNTHIA>
+<MAN>
+	<DIALOGUE>
+	Look, why don't you try the kiddy ride?
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+:SC: SCENE 8
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Drop twenty-five cents here. C'mon! C'mon! C'mon! ...Neat! ...Make my wish....I wish I were big....Your wish is granted.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 9
+</DIRECTION>
+<MOM>
+	<DIALOGUE>
+	Josh! Josh! Josh!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	It's seven-thirty. Are you up? ...Come on Sleepy Head! You're going to miss the bus and I can't drive you today! ...What does he do in his sleep? ...Honey? I put out some clean clothes. Bring down your dungarees and stuff for the laundry, okay?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Are you getting a cold, Josh?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	No! Fine!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	He's got a cold. Then Rachel's gonna get a cold and I'm gonna get a cold...
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Oh my God.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Breakfast is ready, Josh!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Be right there!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Josh! Hurry up! Your eggs are getting cold! ...Bring down Rachel with you, all right?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Okay!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	You want orange juice or...What about your breakfast?!
+	</DIALOGUE>
+</MOM>
+<DIRECTION>
+:SC: SCENE 10
+</DIRECTION>
+<MOM>
+	<DIALOGUE>
+	Oh, you...don't! Don't!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	I'm sorry! ...Mom, it's me. It's Josh. Mom, I'm a grown up!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Stop it! Oh God! JOSH I made a wish last night...I turned into a grown up, Mom! I made this wish on a machine...
+	</DIALOGUE>
+</MOM>
+<MOM>
+	<DIALOGUE>
+	Go away! Go away! Please!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	...and it turned me into a grown up! It was last night at the carnival! My birthday is November 3rd...I got a B on my history test!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Here's my purse! You can have anything that's in it! Go away!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	My, my, my baseball team is called the Dukes! Uh, I made this for you! Who are you calling? Ah! I have a birthmark behind my left knee!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	You bastard! What did you do to my son?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	I am your son, Mom!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Where is my child?! Where is my son?! Police!
+	</DIALOGUE>
+</MOM>
+<DIRECTION>
+:SC: SCENE 11
+</DIRECTION>
+<COACH>
+	<DIALOGUE>
+	Heads up! Heads up out there!
+	</DIALOGUE>
+</COACH>
+<BILLY>
+	<DIALOGUE>
+	I'm open! Here! I'm open!
+	</DIALOGUE>
+</BILLY>
+<COACH>
+	<DIALOGUE>
+	I want you to gather up these balls, go to the locker room and get on to your next class! Wash shirts and shorts! Billy. Do us both a favor. Put the balls in the equipment closet and you practice your lay up.
+	</DIALOGUE>
+</COACH>
+<DIRECTION>
+:SC: SCENE 12
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Billy.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Yeah? What?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	It's me. It's Josh!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Coach Burns! Coach Burns! Coach Burns!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Wait a minute! Shut up! Shut up! I'm your best friend, you've gotta believe me! I'll prove it to you! Billy, please!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Help! Help!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	God damn it Billy Kopecky! Look, I know that I don't look like myself, okay! But something really strange happened and I'm really scared and I need your help! You're my best friend! I can prove it to you! ...Ooh! The spades go, Down! Down! Baby! Down! Down the roller coaster! Sweet, sweet baby! Sweet, sweet delectable! Shimmy, shimmy cocoa pop! Shimmy, shimmy rock! Shimmy, shimmy cocoa pop! Shimmy, shimmy rock! I met a girlfriend a triscuit! She said a triscuit a biscuit! Ice cream, soda pop, vanilla on the top! Ooh Shelly, walking down the street, ten times a week! I met it! I said it! I stole my mother's credit! I'm cool! I'm hot! Sock me in the stomach three more times!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Josh? You look terrible.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	I know. SCENE 13
+	</DIALOGUE>
+</JOSH>
+<POLICE>
+	<DIALOGUE>
+	That's right. We're at the scene right now. Well, she's pretty upset and she's not making any sense at all. There's no ransom note, no prints, there's no nothin.' Tell you what, file a report and to be on the safe side...
+	</DIALOGUE>
+</POLICE>
+<KID_1>
+	<DIALOGUE>
+	I bet he ran away. Wish I could.
+	</DIALOGUE>
+</KID_1>
+<KID_2>
+	<DIALOGUE>
+	Want me to pack your bags?
+	</DIALOGUE>
+</KID_2>
+<DIRECTION>
+:SC: SCENE 14
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	We go to the city, we lay low for a couple of days, find that Zoltar Machine, make your wish...you'll be home by Thursday!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Well, I'm not supposed to go to New York without my folks!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	C'mon! You'll be fine! ...Here.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Where did you get this?!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	From my Dad's top drawer!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	You stole it?!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	It's his emergency fund!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Jesus Billy!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Well what do you call this?!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 15
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	You lookin' for some fun tonight sweet thing?
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	No, thank you.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Hey man, can you spare some change?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	No, not really.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Hey, this looks okay.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	No it doesn't.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Saint James, Josh, it's religious.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 16
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Burp!
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Uh, we would like a hotel room, please.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	$17.50 a night for the room, $10.00 deposit for the sheets....You go straight to the top of the stairs. It's the last door on the right. Next to the bathroom. Wait a second, I'll show you.
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+:SC: SCENE 17
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	It smells bad.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Shh!
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Have a pleasant stay....Hey Angel! Get out of that bathroom now!
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	I don't want to stay here by myself.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	I can't help it Josh. I've gotta be home by ten. Look, I'll cut classes tomorrow and we'll find that Zoltar thing before you know it, okay? It's just one night. All right?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	All right.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Good.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	What if I can't sleep?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	It's probably better if you don't. See you in the morning.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Well, you mean like what time?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	8:30. I'd use the chain if I were you.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Mom...Mom....
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 18
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	I told you, it's not a video game.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Well, what is it?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Well, it's not a video game.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	This one's got a number on it. Does yours?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	No. Oh wait, here's one.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Hey, what are doing? What are doing?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Do you have Zoltar?
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	No. I told you, I looked back in the back. I've got Powerhouse, I've got ...
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	We really need Zoltar.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Well, I haven't got it.
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+:SC: SCENE 19
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	This is it.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	They aren't going to have it.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	They'll have it.
+	</DIALOGUE>
+</BILLY>
+<MAN>
+	<DIALOGUE>
+	Can I help you?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Yes. We would like a list of all carnivals and fairs.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	And arcades.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Carnivals and fairs...Try Consumer Affairs, down the hall, room 111.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Thank you.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 20
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	Fill this out in triplicate. $5.00 filing charge.
+	</DIALOGUE>
+</WOMAN>
+<BILLY>
+	<DIALOGUE>
+	See.
+	</DIALOGUE>
+</BILLY>
+<WOMAN>
+	<DIALOGUE>
+	One month to process. You get in six weeks.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Six weeks?
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	Sometimes longer, but, you could get lucky....Next please!
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+:SC: SCENE 21
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	I'm gonna be thirty years old for the rest of my life.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Would you come on. We'll figure something out. By the way, you may be older than that!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	So now what?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	I'll come and see you everyday after school.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	How?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	I'll tell them I made the basketball team.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	I won't have anything to do.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	You can get a job.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	I can't get a job.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Why? It can't be any different than school. What are you good at?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	I don't know. Making spit balls?
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 22
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	How about a delivery man?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	I don't know how drive. BILLY Oh yeah, right...Cardiological technician, civil engineer...
+	</DIALOGUE>
+</JOSH>
+<JOSH>
+	<DIALOGUE>
+	You gonna eat your cherry?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Go ahead....Clerical transcriber...
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Billy?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Yeah....Gross. God, that's gross!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Hey, go on to the next column.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Collection agent, company clerk, computer operator, construction engineer...
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Computer operator? Computer operator, read that one.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Josh, would you quit with your stupid computers!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Just read it!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Macmillan Toys...toys!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Toys!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 23
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	Macmillan Toys, may I help you?
+	</DIALOGUE>
+</WOMAN>
+<BILLY>
+	<DIALOGUE>
+	Okay, what's next? There.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Previous employment.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Your paper route.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	I can't put that.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Paper route circulation?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Yeah!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	What's he got? Hey, don't worry about it.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Social Security number?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	32-17-25.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	What is that?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	My locker combination.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Great!
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	Mr. Baskin. Mr. Baskin?
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Yes. Yes.
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	The Personnel Director will see you now....Uh, you son can wait out here.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah, okay. Son, you should sit down and don't give the lady any trouble now.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Sure Dad! ...Don't forget--look him in the eye!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 24
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	Couple of numbers missing on your Social Security.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Oh, uh twelve.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	One two. Says here you've got four years experience.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	All on computers?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Where did you go to school?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	It was called George Washington.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Oh, G.W. My brother-in-law got his doctorate there. Did you pledge?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Yes. Every morning.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	It happened again! David, the girl is absolutely useless! You've got to get me someone who knows what she is doing! Excuse me. I'm not getting any of my mail, nothing has been filed! Ever since she got engaged, my life has been a disaster!
+	</DIALOGUE>
+</SUSAN>
+<MAN>
+	<DIALOGUE>
+	You know, she came so highly recommended.
+	</DIALOGUE>
+</MAN>
+<SUSAN>
+	<DIALOGUE>
+	She spent the last three months writing down her married name. Mrs. Judy Hicks. Mrs. Donald Hicks. Mrs. Judy Mitchleson Hicks. Sometimes with a hyphen, sometimes without a hyphen. Sometimes she spells the hyphen!
+	</DIALOGUE>
+</SUSAN>
+<MAN>
+	<DIALOGUE>
+	Well, I really don't know where I can put her.
+	</DIALOGUE>
+</MAN>
+<SUSAN>
+	<DIALOGUE>
+	Put her on unemployment!
+	</DIALOGUE>
+</SUSAN>
+<MAN>
+	<DIALOGUE>
+	When can you start?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Soon.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 25
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	I thought we'd start you out with preschoolers. Should take you a few days. Give you a chance to find your way around. Do you smoke?
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Well, uh, just once, but...
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Only on breaks in the coffee room....Most of that is pretty straight forward stuff. If you have any questions, come to me. Good luck.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Bye!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 26
+</DIRECTION>
+<SCOTT>
+	<DIALOGUE>
+	Psst! Psst! Hey! Hey! I'm Scott Brennan.
+	</DIALOGUE>
+</SCOTT>
+<JOSH>
+	<DIALOGUE>
+	Uh, I'm Josh Baskin.
+	</DIALOGUE>
+</JOSH>
+<SCOTT>
+	<DIALOGUE>
+	Listen, what are you trying to do? Get us all fired?
+	</DIALOGUE>
+</SCOTT>
+<JOSH>
+	<DIALOGUE>
+	Huh?
+	</DIALOGUE>
+</JOSH>
+<SCOTT>
+	<DIALOGUE>
+	You've gotta slow down. Pace yourself. Slowly! Slowly!
+	</DIALOGUE>
+</SCOTT>
+<JOSH>
+	<DIALOGUE>
+	Sorry. Today's my first day.
+	</DIALOGUE>
+</JOSH>
+<SCOTT>
+	<DIALOGUE>
+	I know!
+	</DIALOGUE>
+</SCOTT>
+<JOSH>
+	<DIALOGUE>
+	So how long have you worked here?
+	</DIALOGUE>
+</JOSH>
+<SCOTT>
+	<DIALOGUE>
+	Five years. Work stinks but the fringe benefits are great! See that girl over there in the red? Say hi to her and she'll be yours. She'll wrap her legs around you so tight you'll be begging for mercy!
+	</DIALOGUE>
+</SCOTT>
+<JOSH>
+	<DIALOGUE>
+	Well, I'll stay away from her then!
+	</DIALOGUE>
+</JOSH>
+<SCOTT>
+	<DIALOGUE>
+	Excuse me. Yeah Brennan. I gave it to you yesterday! Oh, here it is. I don't have time to xerox it. Let the new guy do it.
+	</DIALOGUE>
+</SCOTT>
+<DIRECTION>
+:SC: SCENE 27
+</DIRECTION>
+<MR_M>
+	<DIALOGUE>
+	That's total bullshit Paul!
+	</DIALOGUE>
+</MR_M>
+<PAUL>
+	<DIALOGUE>
+	Look sir, the favorability rate is...
+	</DIALOGUE>
+</PAUL>
+<MR_M>
+	<DIALOGUE>
+	Come on! Let's not lie to ourselves! If a kid likes a toy it sells. That's all!
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	But every bit of research and focus testing...
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	It works with research, it works with focus testing, it just doesn't work with the kids!
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Sorry! I'm sorry!
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Why don't you watch where the hell you're going!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Are you okay!
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	I'm fine.
+	</DIALOGUE>
+</MR_M>
+<PAUL>
+	<DIALOGUE>
+	You could kill somebody running around here like that!
+	</DIALOGUE>
+</PAUL>
+<MR_M>
+	<DIALOGUE>
+	It's all right Paul. The boss should get knocked on his ass once in a while. It's good for him.
+	</DIALOGUE>
+</MR_M>
+<PAUL>
+	<DIALOGUE>
+	I don't know sir, maybe you should see a doctor.
+	</DIALOGUE>
+</PAUL>
+<MR_M>
+	<DIALOGUE>
+	For crying out loud Paul, I'm fine! I'm fine!
+	</DIALOGUE>
+</MR_M>
+<PAUL>
+	<DIALOGUE>
+	Sorry sir! Sorry! MR. M Where were you going anyway, son?
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Uh, I was going to the xerox room because they needed these by 5:00.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	Oh, that's good! Nothing wrong with a little hustle. Nothing at all! Right Paul?
+	</DIALOGUE>
+</MR_M>
+<PAUL>
+	<DIALOGUE>
+	What does he mean? I hustle! Uh sir! Sir!
+	</DIALOGUE>
+</PAUL>
+<DIRECTION>
+:SC: SCENE 28
+</DIRECTION>
+<MOM>
+	<DIALOGUE>
+	Hello? ...Hello?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Hello. Mrs. Baskin?
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	How are you?
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Who is this?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	I just wanted you to know that Josh is all right. He's okay.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	You have my boy?
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Yeah. And you're gonna get him back, just the way he was.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Look, I swear to God--If you do anything to him, if you touch one hair on his head, I will spend the rest of my life making sure you suffer!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Wow! Thanks!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Let me talk to Josh!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Oh, he can't come to the phone right now.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Why not? Why not? What did you do to him?!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	I didn't do anything to him! I think he's a terrific kid!
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	I want proof that he's all right!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Uh, well, all right. Ask me something that only he would know. Then I'll ask him for you and that way you'll know that he's okay.
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Ask him what I used to sing to him when he was a little boy.
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Isn't there something else that you would rather ask him?
+	</DIALOGUE>
+</JOSH>
+<MOM>
+	<DIALOGUE>
+	Ask him!
+	</DIALOGUE>
+</MOM>
+<JOSH>
+	<DIALOGUE>
+	Oh, I got it! I got it! Memories, like the corner of my mind. Misty water color memories, of the way we were. Scattered pictures...Look, you're gonna see him again really soon. I promise. I cross my heart. We'll talk about this later.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 29
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	Harris! Brennan! Baskin! JOSH What is this?
+	</DIALOGUE>
+</MAN>
+<SCOTT>
+	<DIALOGUE>
+	Pay day.
+	</DIALOGUE>
+</SCOTT>
+<JOSH>
+	<DIALOGUE>
+	$187.00?! Ha! Ha!
+	</DIALOGUE>
+</JOSH>
+<SCOTT>
+	<DIALOGUE>
+	Yeah. They really screw you, don't they?
+	</DIALOGUE>
+</SCOTT>
+<DIRECTION>
+:SC: SCENE 30
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	Hi. Okay, so how would you like that?
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Three dimes, a hundred dollar bill, and eighty seven ones.
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	One, two, three...
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+:SC: SCENE 31
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	I'm never eating again.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	It wasn't that bad.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	It was the boat ride that did it.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	No, it was the pork rinds.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Pork rinds! Aghh! We sure had fun, didn't we?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Yeah, we sure did.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 32
+</DIRECTION>
+<BOY>
+	<DIALOGUE>
+	Got you!
+	</DIALOGUE>
+</BOY>
+<JOSH>
+	<DIALOGUE>
+	What's your name?
+	</DIALOGUE>
+</JOSH>
+<BOY>
+	<DIALOGUE>
+	Jordan, what's yours?
+	</DIALOGUE>
+</BOY>
+<JOSH>
+	<DIALOGUE>
+	Mine's Josh.
+	</DIALOGUE>
+</JOSH>
+<BOY>
+	<DIALOGUE>
+	I'm gonna blow you away Josh!
+	</DIALOGUE>
+</BOY>
+<JOSH>
+	<DIALOGUE>
+	But I just got you!
+	</DIALOGUE>
+</JOSH>
+<BOY>
+	<DIALOGUE>
+	No way! Get back here!
+	</DIALOGUE>
+</BOY>
+<DIRECTION>
+:SC: SCENE 33
+</DIRECTION>
+<MR_M>
+	<DIALOGUE>
+	You work for me, don't you?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	I thought so. What, are you here with your kids?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	No. I was just looking around.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	Oh. Me too. I come here every Saturday. Can't see this on a marketing report.
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	What's a marketing report?
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	Exactly. Come on. What do you think of that?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	The Championship Hockey? Oh, I love it. Only the...
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	Only what?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Well, the pieces don't move.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Well, on the old set you could slide the men up and down the ice, and now all they do is spin around. It was more like real hockey the old way. Why did they change it?
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	You see, the Star Fighters are good because you can change all the pieces. But I never liked the Galactakons. You only get one robot, and they don't come with a vehicle.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	I see.
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Plus you can't take them underwater. And if you do they...Neat!
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	Okay, let's check out the...Piano lessons?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Three years.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	Me too. Everyday, after school....Chopsticks....What department did you say you were in?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Oh, I'm in computers.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	Computers? You just saved me a trip to the gym Son.
+	</DIALOGUE>
+</MR_M>
+<DIRECTION>
+:SC: SCENE 34
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	Vice President in charge of Product Development.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Vice President! He's only been here a week! Vice President?!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	And he came from data processing!
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	He's out of his mind! The old man has finally lost it!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Did you know they gave him Bob's old office?
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Bob's office?! Bob's office is bigger than my office! There's got to be a reason. Things like this don't happen unless there's a reason.
+	</DIALOGUE>
+</PAUL>
+<DIRECTION>
+:SC: SCENE 35
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	That means if the president dies you get to take over?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	No. No. They got a hundred of them. Are we ready?
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	Yes Mr. Baskin.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Come on in.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Look at this place! It's bigger than the principal's office!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	How would you know?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Remember that explosion in science?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Oh yes!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Truck-a-Killer! $59.95?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	You know that only costs 10 bucks to make.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Get out of here! ...What is this?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Oh, well, this is just...They just put this in here...it doesn't mean anything.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	So what do they make you do for all this?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Well, I play with all of this stuff and then, I go in there and tell them what I think.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	That's it?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	And they pay you for that?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Suckers!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Oh, thank you Miss Patterson. Hey! Miss Patterson. Could you call down to Media and have them send up a video tape of the Giants Broncos Super Bowl? And have them edit out all the commercials and talkin' and stuff?
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	Yes Mr. Baskin.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Miss Patterson.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	You're the luckiest guy I know.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 36
+</DIRECTION>
+<PAUL>
+	<DIALOGUE>
+	Did you check Mattel?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Nothing.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Colleco?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Zero.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	He can't come from nowhere Susan. He has to come from somewhere. How about Hasbro?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Yes. And Fisher Price and Worlds of Wonder. I have called everywhere. Nobody's ever heard of him!
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Great!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Face it Paul. The guy comes from data processing.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Terrific. That is just terrific! This is just terrific!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	You're being paranoid Paul.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 37
+</DIRECTION>
+<PAUL>
+	<DIALOGUE>
+	These tests were conducted over a six month period using a double-blind format of eight over-lapping demographic groups. Every region of the country was sampled, the focus testing showed a solid base in the 9 to 11-year old bracket--with a possible carry-over into the 12-year olds. When you consider that Nobots and Transformers pull over 37 percent market share, and that we are targeting the same area, I think that we should see one quarter of that and that is one fifth of the total revenue from all of last year. Any questions? Yes? Yes?
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	I don't get it.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	What exactly don't you get?
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	It turns from a building into a robot, right?
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Precisely.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Well, what's fun about that?
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Well, if you had read your industry breakdown, you would see that our success in the action figure area has climbed from 27 percent to 45 percent in the last two years. There, that might help.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Oh.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Yes?
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	I still don't get it.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	What?!
+	</DIALOGUE>
+</PAUL>
+<MR_M>
+	<DIALOGUE>
+	What don't you get Josh?
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Well, there's a million robots that turn into something. And this is a building that turns into a robot. So what's so fun about playing with a building? That's not any fun!
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	This is a skyscraper.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Well, couldn't it be like a robot that turns into something like a bug or something?
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	A bug? JOSH Yeah! Like a big prehistoric insect with maybe like giant claws that could pick up a car and crush it like that!
+	</DIALOGUE>
+</PAUL>
+<MAN>
+	<DIALOGUE>
+	A prehistoric transformer?
+	</DIALOGUE>
+</MAN>
+<MR_M>
+	<DIALOGUE>
+	Interesting.
+	</DIALOGUE>
+</MR_M>
+<PAUL>
+	<DIALOGUE>
+	Gentlemen!
+	</DIALOGUE>
+</PAUL>
+<MAN>
+	<DIALOGUE>
+	So the robot turns into a bug.
+	</DIALOGUE>
+</MAN>
+<PAUL>
+	<DIALOGUE>
+	Ah, gentlemen, listen...
+	</DIALOGUE>
+</PAUL>
+<MAN>
+	<DIALOGUE>
+	Listen to him. He's got a very good idea here. The robot turns into a bug.
+	</DIALOGUE>
+</MAN>
+<MAN>
+	<DIALOGUE>
+	This is a great idea!
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Different sizes and things. And...you could have them wreck something...
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	A lady bug. Transformers for girls!
+	</DIALOGUE>
+</MAN>
+<MR_M>
+	<DIALOGUE>
+	This is a bug that moves....It's got all kinds of possibilities.
+	</DIALOGUE>
+</MR_M>
+<PAUL>
+	<DIALOGUE>
+	This doesn't just happen. This doesn't happen. You don't just come to a meeting and say "bugs."
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	I, uh....
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	Well done, Josh. Well done.
+	</DIALOGUE>
+</MR_M>
+<DIRECTION>
+:SC: SCENE 38
+</DIRECTION>
+<PAUL>
+	<DIALOGUE>
+	Ho! Ho! Ho! He is vicious!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	He's not vicious.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Oh, come on Susan, don't kid yourself. That man is a killer!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	All he said was "I don't get it."
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	I don't get it! I don't get! I don't get! He's going for the throat, trying to eviscerate me! Did you see the look on Macmillan's face?!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Mmm Hmm.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 39
+</DIRECTION>
+<REALTOR>
+	<DIALOGUE>
+	It's quite a unique space. The lines are so clean and you don't get any of that partition quality. It has 50-foot ceilings, all hardwood floors, ample closet space, a modern kitchen, a brand new bathroom with a jet stream jacuzzi.
+	</DIALOGUE>
+</REALTOR>
+<BILLY>
+	<DIALOGUE>
+	We'll take it.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 40
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	Baskin. Rental delivery!
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Dear Mom and Dad. They said that I could write you and let you know I was okay. So far, they're treating me fine. I've got enough to eat and I'm perfectly safe. They say that I'll get out of here in about a month. In the mean time, it's a lot like camp! I watch TV and even get outside once in a while. I know you miss me. But try not to worry. I think this experience might even be good for me. I love you very much and I know that I'll see you soon. Your son, Joshua. P.S. Give Rachel a kiss from her big brother.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 41
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	It's very beautiful and I'm having a lovely time.
+	</DIALOGUE>
+</WOMAN>
+<MR_M>
+	<DIALOGUE>
+	I'm glad Miss Patterson.
+	</DIALOGUE>
+</MR_M>
+<WOMAN>
+	<DIALOGUE>
+	It's much better than last year. I just wanted to tell you that.
+	</DIALOGUE>
+</WOMAN>
+<MR_M>
+	<DIALOGUE>
+	I'll have another scotch....Susan.
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	Love your tux.
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	I think it's the same as the maitre's.
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	Have you decided what you're doing on the Danberry line?
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	No, I haven't.
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	Well, uh, I think if you got everyone's input up front, I mean right from the beginning....
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	Susan, have a drink.
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	Have a couple drinks. It's a party.
+	</DIALOGUE>
+</MR_M>
+<DIRECTION>
+:SC: SCENE 42
+</DIRECTION>
+<MR_M>
+	<DIALOGUE>
+	Josh! Glad you could make it.
+	</DIALOGUE>
+</MR_M>
+<MAN>
+	<DIALOGUE>
+	Bet he gets another raise.
+	</DIALOGUE>
+</MAN>
+<MR_M>
+	<DIALOGUE>
+	Now that's what I call a tuxedo.
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	I rented it. This is a real bow tie though. I tied it myself. And that's why I was late.
+	</DIALOGUE>
+</JOSH>
+<MR_M>
+	<DIALOGUE>
+	No, you're not late at all. Come on, let me show you around.
+	</DIALOGUE>
+</MR_M>
+<JOSH>
+	<DIALOGUE>
+	Hey, there's Miss Patterson! Hi! There's the guy from the meeting! Hi!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 43
+</DIRECTION>
+<PAUL>
+	<DIALOGUE>
+	The guy's a damn knock-off artist.
+	</DIALOGUE>
+</PAUL>
+<MAN>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</MAN>
+<PAUL>
+	<DIALOGUE>
+	The Amphibian? He takes 10,000 G. I. Joes, slaps some gills on them, webs their feet, and packages them in seaweed....So I show him the schedule and he says, "It's not correct accounting procedure!" Give me a goddamn break!
+	</DIALOGUE>
+</PAUL>
+<MAN>
+	<DIALOGUE>
+	But the toy sold Paul.
+	</DIALOGUE>
+</MAN>
+<SUSAN>
+	<DIALOGUE>
+	Excuse me.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 44
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	All the same people having all the same discussion. It's like they cloned some party in 1983 and kept spinning it out again and again and again. I loved your ideas on the Squeezy Doll line.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	They were so, incisive. It's Beluga. Macmillan orders it every year....You all right? You okay? You want a glass of water? You want something to drink?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Could I have a milkshake or something?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I've got a car outside. You want to get out of here?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Uh Huh.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Let's go.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 45
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	I'm not really a big one for parties. You know, I like things that are a little more intimate.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Wow! Is this your car?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Well, it's the company's car.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Oh, this is the coolest thing I've ever seen!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I mean, just seeing someone in the office, you don't really get a chance to know them. I mean, just being with you here tonight, I really get a sense of who you are.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Are you gonna eat these fries?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No. No....
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Hey mister? You want some of these fries? We're not going to eat them.
+	</DIALOGUE>
+</JOSH>
+<DRIVER>
+	<DIALOGUE>
+	No, thank you.
+	</DIALOGUE>
+</DRIVER>
+<SUSAN>
+	<DIALOGUE>
+	You see, it's hard in a business situation...I mean there's this invisible line and even you're attracted to someone...What, are you going to call someone before...?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Uh, I mean at this point in my life I...Don't...Don't play with the radio...Leave the uh...Don't...I'm really vulnerable right now! You know...I mean, I love my job and I....
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Ejector seat! This is great! Hey! Come on up! Hey, that was my apartment.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Really? I'd love to see where you live.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 46
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	So have you always lived alone?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No, not always.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Ah. Is it just recently or...?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Give yourself a couple of days, it'll pass.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Well, they said it was gonna take six weeks.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Well, it can be painful but, that's what they invented Xanax for, right?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Watch your step.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I'm not sure we should do this yet.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Do what?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Well, I mean I like you and I want to spend the night with you....
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Do you mean sleep over?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Well,...yeah!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Okay! But I get to be on top!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 47
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	You live here?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah. It's nice, isn't it?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	You uh, want a soda?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Huh?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Soda? You want one?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Yeah, sure.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	They rigged this up so you don't need any quarters....Don't! Don't...!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	The glue's not dry. Sorry.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	It's okay....You wanna play pinball?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	You don't need quarters for this either. It's free.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No, thank you.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Is that a trampoline?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah. You wanna try it?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	You should. It's really fun. It's simple, too. Come on! Come on! You'll like it and it's really easy to do.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No, I don't think...
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I'm serious...
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Do have some wine?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Take off your shoes...It's really easy....Let me get rid of these balls.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No, I'm...I'm...I'll watch.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Come on. It's fun. I'll do it with you. Up you go. Excellent.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Help me up?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Sure.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Okay. Jump.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	You want me to jump?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	There. Now can we have a drink?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No! No! No! I mean really jump. Now get some air between you and the trampoline.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	There.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Oh, come on! I'll do it with you! All right? I'll show you how to do it. You ready? Come on. Jump. See? There it is. That's all there is to it. There you go. There you go. Yeah! It's easy! Anybody could do this!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 48
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Here. Pick one....It's for you. It's a glow in the dark compass ring...so you won't get lost....Goodnight.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 49
+</DIRECTION>
+<PAUL>
+	<DIALOGUE>
+	Did you have fun last night?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Sure. Yeah.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Yeah...You left pretty quick.
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	I gave him a ride home Paul.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Oh, did he enjoy it?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Don't be ridiculous.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Ah, that's me, Mr. Ridiculous. Just a silly old guy.
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	I don't feel like going out tonight.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	What do you mean? They're your friends....Come on! Leave it! Leave it! Would you quit it! Do you have to play with everything?
+	</DIALOGUE>
+</PAUL>
+<DIRECTION>
+:SC: SCENE 50
+</DIRECTION>
+<PAUL>
+	<DIALOGUE>
+	Baskin? Baskin!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Wouldn't you rather play basketball? I know how to play that. We could be like a team for the Macmillan Company.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	I'm not very good at sports, but I'll give it a try. My best sport is video hockey.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	That isn't a sport.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Well, it takes eye to hand coordination.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	It's not a sport if you don't sweat!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	What about golf? You don't sweat and that's a sport.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Yeah, and you're not sittin' there letting some machine do all the work!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	What about car racing?
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Aw shut up Baskin!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	What are the rules again?
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	I told you. Over the line to serve. Yellow is out of bounds. Play to 21--ready?
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Sorry. Sorry.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	One nothing. Come on! Get it! Get it! Get it!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Thatta boy! Okay, you ready? All right....Ho ho! Nice try! That was in! Two zip. Just made it. Two zip. Ready? Okay! Here we go!...19/18.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Uh, that was under the line.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	That was under the line. You said it had to be over the line on a serve.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	No I didn't.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Yeah you did! You said it had to be over the line on a serve!
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	No I did not, now give me the goddamn ball!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Well that's cheating!
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Give me the goddamn ball, will ya!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Give me the ball you little shit!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	It's my serve.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Give me the ball! Give me the goddamn ball! I never said that!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Yes you did.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Give me the...Give me the ball! Give me the ball!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Cheater! You cheat!
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	I did not cheat!
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	You cheat! You cheat!
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Give me the ball! Give me the ball! Give me it! Give me the ball!
+	</DIALOGUE>
+</PAUL>
+<DIRECTION>
+:SC: SCENE 51
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	He didn't have to punch me.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I know. He's scared of you. You don't play his game.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I tried to play his game. He beat me up. If he's scared of me then why did he punch me?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	He punched you because he's scared of you.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I don't get it.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	It's just the way he is. Everything is a fight with him. Everyone's an enemy. It's not just a job for him, it's a war.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Well how come you're so nice?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Well, you work just as hard as he does and you're not like that.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	You don't...you don't know me that well.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yes I do. You're one of the nicest people I've met.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	How do you do it?
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 52
+</DIRECTION>
+<PAUL>
+	<DIALOGUE>
+	What's this?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	What does it look like?! Shampoo, razor, toothpaste, two neckties and your exercise tape! Oh, and I want my keys back!
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Sure. It's just some scratches. He'll get over it.
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Oh, it has nothing to do with him.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Oh come on Susan! He's just another link in the chain! First it was Tom Caulfield, then Handlen. Then Golding, then me! Am I missing somebody?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	It's not like that anymore!
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	What is so special about Baskin?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	He's a grown up!
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	Susan.
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	I can't believe you brought up Golding.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 53
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	And many more! What are you going to wish for this time?
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 54
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	I know what we can do! We can go out and get some beers, some dirty magazines and go back...
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Uh, I can't Billy.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	What you mean you can't? Of course you can! It's your birthday!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	No, I can't...I have to go somewhere.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Um...well, I have to go meet somebody and...
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	So, you got all night!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Yeah I know, but it's just...well I can't right now okay, but I'll call you, all right? Okay? I'll give you a call. Thanks again Billy, it was fun!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 55
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	Hi....Do you want to come in?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Sure.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Sit down....Want to go?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah! Yeah!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 56
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Want to go again?!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 57
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	So they have these cars that you can actually drive them except they're on this rail so you can't get off the road...You have a really big gob of mustard right, right...
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Mustard right....
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Right there.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Is it gone?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Well,....
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Is that...gone?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Listen.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	What? Music?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Wanna dance?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Dance?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Well we don't have to if you don't want to.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Okay. Okay.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	All right. JOSH Okay....Are you cold?
+	</DIALOGUE>
+</SUSAN>
+<SUSAN>
+	<DIALOGUE>
+	Mm Mm.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	We could get some hot chocolate....You can wear my jacket if you want.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 58
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	Oh, I haven't done this in a long time....What were you like when you were younger?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Oh, I wasn't much different.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I believe that about you....I've been thinking about you a lot....It's crazy....In my car, lying in bed....I've just never gone out with someone like you....With all the other men there was so much to hide....I feel like I can tell you anything.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Susan? There's something I think I should tell you.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 59
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	You want the light on?
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 60
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Hey Frank, how are you? Good morning everybody!
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	Good morning Sir.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	I'd like some coffee please Miss Patterson.
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	But you don't drink coffee.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	And uh, make it black.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 61
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	You know, you two should come to Vermont. It is so pretty up there.
+	</DIALOGUE>
+</WOMAN>
+<MAN>
+	<DIALOGUE>
+	Did anyone happen to see that great documentary about Columbus on PBS the other night?
+	</DIALOGUE>
+</MAN>
+<WOMAN>
+	<DIALOGUE>
+	Uh, no. Was it good?
+	</DIALOGUE>
+</WOMAN>
+<MAN>
+	<DIALOGUE>
+	I had no idea he had a fourth ship.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah, the Santa Christina.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	That's right.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	He only had that on his second trip, though.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	You saw it, too.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	No, but I used to study...stuff.
+	</DIALOGUE>
+</JOSH>
+<MAN>
+	<DIALOGUE>
+	Really?
+	</DIALOGUE>
+</MAN>
+<BOY>
+	<DIALOGUE>
+	Dad, I need some help.
+	</DIALOGUE>
+</BOY>
+<MAN>
+	<DIALOGUE>
+	All right, but not now Adam.
+	</DIALOGUE>
+</MAN>
+<BOY>
+	<DIALOGUE>
+	Yeah, but Dad you said...
+	</DIALOGUE>
+</BOY>
+<MAN>
+	<DIALOGUE>
+	Adam we have guests.
+	</DIALOGUE>
+</MAN>
+<WOMAN>
+	<DIALOGUE>
+	He's had the roughest time with algebra. We've tried tutors, everything.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Algebra? I used to study that, too.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 62
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	All right, let's say Larry Bird is going to score 10 points in the first quarter.
+	</DIALOGUE>
+</JOSH>
+<BOY>
+	<DIALOGUE>
+	Okay?
+	</DIALOGUE>
+</BOY>
+<JOSH>
+	<DIALOGUE>
+	How many is he going to score in the whole game?
+	</DIALOGUE>
+</JOSH>
+<BOY>
+	<DIALOGUE>
+	That's easy, that's 40 points.
+	</DIALOGUE>
+</BOY>
+<JOSH>
+	<DIALOGUE>
+	Probably. Okay. And that's algebra.
+	</DIALOGUE>
+</JOSH>
+<BOY>
+	<DIALOGUE>
+	Right! It is?
+	</DIALOGUE>
+</BOY>
+<JOSH>
+	<DIALOGUE>
+	Yeah! See. Okay. One quarter is to ten points that he scores in that quarter. Just as four....
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	You're right. He's wonderful!
+	</DIALOGUE>
+</WOMAN>
+<SUSAN>
+	<DIALOGUE>
+	I know.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 63
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	Department of Consumer Affairs? Yeah Buddy it came!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 64
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	He's never done this before.
+	</DIALOGUE>
+</MAN>
+<MAN>
+	<DIALOGUE>
+	Kind of like a sweepstakes.
+	</DIALOGUE>
+</MAN>
+<PAUL>
+	<DIALOGUE>
+	Get the Art Department on the phone. Get them!
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	Send out for some sandwiches.
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	Maybe next year, all right? Next year.
+	</DIALOGUE>
+</MR_M>
+<DIRECTION>
+:SC: SCENE 65
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	You can do it. I know you can!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I cannot plan a whole line!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Why? Nobody knows more about toys in the entire company! JOSH Susan, doing that means marketing and strategy and stuff like that!
+	</DIALOGUE>
+</SUSAN>
+<SUSAN>
+	<DIALOGUE>
+	All he wants is a proposal!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I can't!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Look, you come up with the ideas and I'll handle the marketing.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	But it's....
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Come on. It'll be neat.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	All right...I don't know...I don't have any new ideas for toys or anything.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	You've got great ideas!
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 66
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	Yeah, well tell him I called again. Kopecky! K-O-P...Yeah right...well tell him it's important!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 67
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	You see it won't be like these where you just follow the story along. You would actually make a whole different story appear just by pressing these buttons.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	An electronic comic book? That's amazing!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah. An electric comic book. It's gonna be different every time.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	This is incredible. You're brilliant--you know that?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	If you like one you could see it, you know, over and over and over again.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	You're wonderful.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	You really like it?...You think Mac will like it? You know, what we could do...We could do like sports comics...or like if you're going to steal second or something like that...You'd have sports books...baseball, football...really, it work with almost any sport there is. Hockey!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	What...What is it we're doing? ...What's going on here?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	You know, we're....Is something wrong? You don't like it?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No! No! It's...I mean if it's an affair, that's one thing. But if it's something else...I mean, not that we have to know right now, we don't...but if we think that it could turn into something else...well....How do you feel about all of this?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	How do I feel about what?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	How do you feel about me?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	What is that supposed to mean?
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 68
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Well, Wednesday would be better than Thursday...
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	Mr. Baskin can't be disturbed!
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Yeah, I have the Keating example right here...
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Where've you been? I've been trying to reach you forever!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Shh! I'm right in the middle of something okay?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	That's the list. All you've got to do is call!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Can you give me just a minute, please?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	What are you talking about? This is the list!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Would you come back at lunch? All right, I'm a little bit busy right now...Hello?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Busy?!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Billy!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Are you out of your mind?!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Jesus, Billy! Miss Patterson, could you get them on the phone again....
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	This is the list we've been waiting for!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	I've got work to do! Can't you understand that? I've got a deadline to meet. God!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Who the fuck do you think you are?!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Hey!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Hey, you're Josh Baskin! Remember? You broke your arm on my roof! You hid in my basement when Robert Diceman was about to rip your head off!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	You don't get it, do you? This is important!
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	I'm your best friend. What's more important than that, huh? I'm three months older than you are--asshole!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 69
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	You are standing in the cavern of the evil wizard. All around you are the carcasses of slain ice dwarfs....Melt wizard....What do you want to melt him with? ...Throw thermal pod.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Josh, what's wrong? What is it?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I haven't told you something because if I did, I didn't think you'd believe me. And even if you did believe me, I didn't think you were going to like me anymore, so....
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh, Honey, come here. You can tell me anything. What?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Susan, I'm not what you think I am. SUSAN What do you mean?
+	</DIALOGUE>
+</JOSH>
+<JOSH>
+	<DIALOGUE>
+	Before I met you I was in little league. I was in little league and I rode my bike to school and I played with my friends and hung out with them and....
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Josh. Josh. What are you talking about?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I want to go home. I miss my family Susan and I want to go home.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh my God! You're married!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No! No!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I knew that this was too good to be true! I knew that there had to be something!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No. No. Susan, I'm not married.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	You're not?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No. I'm a child!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I'm a child Susan, and I'm not ready for all this.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh that's fine. That is just great!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Well, you see what happened....
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No. I understand. I'm not ready to make a commitment!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No! No! No!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I'm not ready to accept responsibility!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No! You don't understand! I mean, I'm thirteen years old!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh! And who isn't? You think that there isn't a frightened kid inside of me, too!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	No! I mean I really am thirteen! I went to bed one night and I was a kid, and when I woke up the next morning I was a grown up.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh right! And just yesterday I was a school girl with pigtails! Why are you doing this Josh?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	There was this carnival in New Jersey. I made a wish on this machine. It was called a Zoltar Machine...
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh stop it!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	It was called a Zoltar Machine! It had this bobbing head that looked just like a devil and if you got a quarter in the devil's mouth you could make a wish and I did! So I made a wish to be big! That is what I'm trying to tell you! I changed into a grown up but I'm really just a kid!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Fine Josh! You're a kid! Look, I really don't know what it is that you're trying to tell me. But we have a very big presentation to give tomorrow, so I'm going to get some sleep.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 70
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	Josh? Josh! Oh, hi Mrs. Baskin.
+	</DIALOGUE>
+</BILLY>
+<MOM>
+	<DIALOGUE>
+	Hi. I was just looking around and...Your hair is getting longer.
+	</DIALOGUE>
+</MOM>
+<BILLY>
+	<DIALOGUE>
+	I got it cut yesterday.
+	</DIALOGUE>
+</BILLY>
+<MOM>
+	<DIALOGUE>
+	He had a birthday.
+	</DIALOGUE>
+</MOM>
+<BILLY>
+	<DIALOGUE>
+	Yeah, I know. He'll be coming back real soon. Everything is going to be okay.
+	</DIALOGUE>
+</BILLY>
+<MOM>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</MOM>
+<BILLY>
+	<DIALOGUE>
+	Goodnight.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 71
+</DIRECTION>
+<BILLY>
+	<DIALOGUE>
+	Right there. Sea Point Park, New York! Well?
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Yes?
+	</DIALOGUE>
+</JOSH>
+<WOMAN>
+	<DIALOGUE>
+	They're waiting for you Mr. Baskin.
+	</DIALOGUE>
+</WOMAN>
+<JOSH>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	See you around.
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 72
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	There's this flat screen inside with pictures on it and you read it. And when you get down to the bottom you have to make a choice of what the character's going to do...Like if he going to go in and fight the dragon then you have to push one of the buttons.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	Excuse me.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Paul.
+	</DIALOGUE>
+</JOSH>
+<PAUL>
+	<DIALOGUE>
+	I don't get it.
+	</DIALOGUE>
+</PAUL>
+<JOSH>
+	<DIALOGUE>
+	Well, it's a comic book that....
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	See, there's a computer chip inside which stores the choices, so when you reach the end of the page, you decide where the story goes. That's the point.
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	Terrific Susan.
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	A kid makes his own decision.
+	</DIALOGUE>
+</SUSAN>
+<MR_M>
+	<DIALOGUE>
+	This is really possible?
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	Yeah. In fact, it's a very simple program. Isn't that right? MAN So what happens when you run out of choices?
+	</DIALOGUE>
+</SUSAN>
+<SUSAN>
+	<DIALOGUE>
+	Well, that's the great thing. You can just sell different adventures. Just pop in a new disk and you get a whole new set of options.
+	</DIALOGUE>
+</SUSAN>
+<MAN>
+	<DIALOGUE>
+	We could market this on a comic book rack.
+	</DIALOGUE>
+</MAN>
+<JOSH>
+	<DIALOGUE>
+	I'll be right back.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 73
+</DIRECTION>
+<MR_M>
+	<DIALOGUE>
+	How much would the unit cost?
+	</DIALOGUE>
+</MR_M>
+<SUSAN>
+	<DIALOGUE>
+	Well, our initial figure is around...around $7.00, with a retail cost of around $18.95.
+	</DIALOGUE>
+</SUSAN>
+<PAUL>
+	<DIALOGUE>
+	You expect a kid to pay $19.00 for a comic book?
+	</DIALOGUE>
+</PAUL>
+<SUSAN>
+	<DIALOGUE>
+	I think a kid....Would you excuse me?
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 74
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	Josh! Josh!
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 75
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Will you take me to Sea Point Park, New York?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Sea Point Park? Josh!....Josh! Josh!...Yes!
+	</DIALOGUE>
+</BILLY>
+<DIRECTION>
+:SC: SCENE 76
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	Excuse me. You know him? You know Josh?
+	</DIALOGUE>
+</SUSAN>
+<BILLY>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</BILLY>
+<SUSAN>
+	<DIALOGUE>
+	Look, you have to tell me where he went.
+	</DIALOGUE>
+</SUSAN>
+<BILLY>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+</BILLY>
+<SUSAN>
+	<DIALOGUE>
+	I'm his girlfriend.
+	</DIALOGUE>
+</SUSAN>
+<BILLY>
+	<DIALOGUE>
+	Billy Kopecky.
+	</DIALOGUE>
+</BILLY>
+<SUSAN>
+	<DIALOGUE>
+	Look, you have to tell me where he went. Where did he go? Please, tell me. Tell me!
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 77
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Work! Damn it!....I wish I was a kid.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Josh!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Susan!
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	You know, you don't walk out on somebody! You don't just get up and leave and walk out like that! You don't do that!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I know. I know. I'm really sorry. I'm really sorry but I didn't know what to do. I didn't know what to say.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh God. You got your wish.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I tried to tell you.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I didn't listen, I guess. I didn't hear you...
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I tried to tell you last night.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	...or want to...or how would I have...or even if I did listen, why would I know? Why would I know that?!
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I've been thinking about this and there are a million reasons for me to go home but there is only one reason for me to stay.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	What? What reason is that?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Well, you...Oh, come on. Don't cry.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	So, what are you? 15? 16?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I'm 13.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Well, that explains it.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Maybe you could come with me.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No. No.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Why not?
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	I've been there before. It's hard enough the first time. You know what I mean? You don't know what I mean....Come on, I'll drive you home.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I'm sorry.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	No, I'll be okay. You'll be fine. In ten years, who knows? Maybe you should hold on to my number.
+	</DIALOGUE>
+</SUSAN>
+<DIRECTION>
+:SC: SCENE 78
+</DIRECTION>
+<SUSAN>
+	<DIALOGUE>
+	So this is where you live. Which one is it?
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	The one right there.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	Oh. It's nice. I'm gonna miss you.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	I'm gonna miss you, too.
+	</DIALOGUE>
+</JOSH>
+<SUSAN>
+	<DIALOGUE>
+	You won't even remember me.
+	</DIALOGUE>
+</SUSAN>
+<JOSH>
+	<DIALOGUE>
+	Oh yes I will.
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 79
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	Mom? Hello! MOM Josh? Josh! Josh! Oh my God! Oh, thank God you're home!
+	</DIALOGUE>
+</JOSH>
+<JOSH>
+	<DIALOGUE>
+	Oh Ma, I missed you all so much!
+	</DIALOGUE>
+</JOSH>
+<DIRECTION>
+:SC: SCENE 80
+</DIRECTION>
+<JOSH>
+	<DIALOGUE>
+	I'm just not good enough.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	What are you talking about? You've been hitting the ball over the fence almost every time in stick ball. You just got to get used to a fatter bat.
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	You really think I could do it?
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Yeah!
+	</DIALOGUE>
+</BILLY>
+<JOSH>
+	<DIALOGUE>
+	Come on. We'll hit some after supper.
+	</DIALOGUE>
+</JOSH>
+<BILLY>
+	<DIALOGUE>
+	Okay. I'll call you.
+	</DIALOGUE>

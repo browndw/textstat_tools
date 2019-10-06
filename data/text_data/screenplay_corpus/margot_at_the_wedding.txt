@@ -1,0 +1,6967 @@
+<DIRECTION>
+INT. TRAIN CAR - DAY
+</DIRECTION>
+<DIRECTION>
+A cashier hands a boy, 13, his change across a counter. The boy stuffs the coins in his pocket. He lifts the cardboard tray with two hot dogs, a bag of chips, and two Cokes. This is Claude.
+</DIRECTION>
+<DIRECTION>
+We follow him: He carefully carries the meal down the aisle, balances it in one hand as he opens the door.
+</DIRECTION>
+<DIRECTION>
+The train noise blares as he traverses the area between cars.
+</DIRECTION>
+<DIRECTION>
+He enters the new car repeating the balancing act. He waits while a man shoves his back-pack onto the metal rack above the seats. Claude hurries a bit more now, his concentration alternating between the food and the path.
+</DIRECTION>
+<DIRECTION>
+He sits next to a brunette woman. He hands her a hot dog.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Here.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+He's met by a severe and pinched face. The eyes have black circles -- there is a scar above her lip. Claude instantly blushes and mumbles:
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+He gets up and hurries a few seats further. He slides next to a pretty brunette woman, late 30's, with straight shoulder length hair. Her name is Margot.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	That was quick.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I sat next to the wrong person.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Really? Where?
+	</DIALOGUE>
+<DIRECTION>
+She stretches up and peers over the seats. He grabs her shirt.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Please don't look. She'll see you.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Careful with my blouse.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Margot is sleeping, her head against the window. Claude listens to his iPod. He takes out the earphones, gets up, and walks to the front of the car. Opens the door and goes between cars.
+</DIRECTION>
+<DIRECTION>
+The train roars and screeches. Claude screams. He stops, looks around. He screams again.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Claude and his mother gaze out the dirt streaked window at a river. An old castle-like structure emerges from the water.
+</DIRECTION>
+<DIRECTION>
+Houses are run-down. In the distance there's a power plant. Electrical lines crisscross the sky. Claude puts his finger against the glass and traces the wires.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Will the wedding be crowded?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I don't know. I think she doesn't know anyone anymore.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	How long has she known Malcolm?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Only a year.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Is that short?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+<DIRECTION>
+(pointedly)
+</DIRECTION>
+	<DIALOGUE>
+	Would you marry someone you'd only known a year?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I'm not going to ever get married.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I can't say I have a lot of hope for the whole thing.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Why are we going then?
+	</DIALOGUE>
+</MARGOT>
+<MARGOT>
+	<DIALOGUE>
+	We're supporting her.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I thought she wasn't speaking to you.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	No...no...I wasn't speaking to her, but I'm over it.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. FERRY DOCK - DAY
+</DIRECTION>
+<DIRECTION>
+A ferry is docked. Cars pull up onto the boat. Margot runs, clutching a suitcase, holding down a floppy wine colored sun hat. Claude hurries alongside her, a bag slung over his shoulder.
+</DIRECTION>
+<DIRECTION>
+EXT. FERRY - DAY
+</DIRECTION>
+<DIRECTION>
+The rumbling and sputtering of the boat. People get out of their cars and stretch their legs.
+</DIRECTION>
+<DIRECTION>
+Claude leans against the rail and lets the spray hit his face. Margot's cell vibrates. The caller ID: HOME. She stuffs the phone in her pocket.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Why aren't you wearing your new shades?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I don't think I need them right now.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	You begged for those glasses.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I know, but...I will wear them, I just feel like people might think it's weird that a kid is wearing dark shades.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	That's ridiculous.
+	</DIALOGUE>
+<DIRECTION>
+Claude reluctantly takes out a pair of thin wrap-around punk sunglasses and puts them on. He looks around self- consciously.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You look very cool.
+	</DIALOGUE>
+<DIRECTION>
+He takes them off.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	I don't need them right now.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Margot and Claude wait. The ferry has emptied out.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Do they know we're here?
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+A maroon Volvo station wagon peels around a bend and stops across the road. Two eyes peer out from just below the backseat window. A man, 40, in dumpy cargo shorts rolls down the window. He has a small moustache -- he's harried and sweaty. This is Malcolm. He points at Margot and Claude.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Are you...?
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+INT. VOLVO - DAY
+</DIRECTION>
+<DIRECTION>
+Malcolm drives. He smokes with the window open. Margot is in the passenger seat. In the back, Claude and the girl, Ingrid, sit shyly, their hair blows turbulently in the wind. Ingrid, 11, wears shorts, sandals, and a batik shirt with a panda on it.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Paul apologizes for not coming, she's still getting the house ready.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	I'm sorry it was such short notice.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	I don't care. Paul's frantic, but I don't give a shit. Oh, and Ingrid wants me to tell you that she made us all bracelets.
+	</DIALOGUE>
+<INGRID>
+<DIRECTION>
+(embarrassed)
+</DIRECTION>
+	<DIALOGUE>
+	No, I wanted...I wanted to wait...
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Oh, I thought you asked me to tell them. Anyway...
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm holds up his wrist and shows a knit blue and orange bracelet.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I got Knicks colors.
+	</DIALOGUE>
+</MALCOLM>
+<INGRID>
+	<DIALOGUE>
+	They're not Knicks colors!
+	</DIALOGUE>
+</INGRID>
+<MARGOT>
+	<DIALOGUE>
+	It's beautiful, Ingrid.
+	</DIALOGUE>
+</MARGOT>
+<INGRID>
+<DIRECTION>
+(to Claude)
+</DIRECTION>
+	<DIALOGUE>
+	I made this one for myself.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+She shows him the purple and green one around her wrist.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Yours is yellow. Is that okay?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	I guess.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	Where's your dad and Josh?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	They might come later.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Josh's spring break is next week. Jim teaches through Friday and then they open the house in Vermont on the weekend.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+<DIRECTION>
+(bluntly)
+</DIRECTION>
+	<DIALOGUE>
+	It means a lot to Pauline that you're here.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Margot nods awkwardly -- she blushes.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Oh. Good.
+	</DIALOGUE>
+<DIRECTION>
+A car suddenly pulls out of a driveway, but nowhere near their car. Malcolm swerves anyway.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Holy Jesus! Watch it, dicksack!
+	</DIALOGUE>
+<DIRECTION>
+Ingrid giggles. Margot clutches the handle above the door.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	If you're wondering about the moustache --
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	No, I wasn't.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	I had a full beard for a while and then when I shaved it I left this part for last, you know to see how it looked, and... It's meant to be funny.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Margot nods politely. The sound of tires on gravel:
+</DIRECTION>
+<DIRECTION>
+EXT. HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+The trunk slams shut. The Volvo is parked in a driveway alongside a grey Colonial house that sits above the water. They lift bags. An old mutt ambles toward them.
+</DIRECTION>
+<DIRECTION>
+Pauline emerges from the house. She's pretty like her sister, late 30's. She walks briskly toward them. Margot smiles and opens her arms, but Pauline passes her and dips down to embrace Claude. She kisses him on the lips.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You're so handsome.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Now she hugs Margot. They both tear up. Claude beams.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I never thought I'd get you here.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+A loud thud. They all turn toward the property fence. A large pile of dead flowers and rotting plants has been dumped into their yard. There's whispering and movement through brush on the other side. Margot looks at Pauline with concern.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You're arriving in the midst of a drama. Ingrid, make sure Wizard is inside.
+	</DIALOGUE>
+<DIRECTION>
+Malcolm trudges over to the trash cans.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	It's the Voglers.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	The neighbors want us to cut down our tree.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+She indicates a large oak that extends up and into the adjoining property.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	No, that's our tree!
+	</DIALOGUE>
+</MARGOT>
+<INGRID>
+	<DIALOGUE>
+	They think it's sick and rotting their property.
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+	<DIALOGUE>
+	We're having the ceremony under it.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You took the swing down.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Pauline thinks this is their way of trying to be friends. I think they resent us because we're...
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+He searches for the word, but can't come up with anything. He says wearily:
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I don't know what we are.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+INT. CLAUDE'S GUEST ROOM/INGRID'S ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Claude sits on the squeaky bed, a yellow bracelet on his wrist. An old flip-clock hums on the night-table. A door opens onto a bathroom which has another door open onto another bedroom.
+</DIRECTION>
+<DIRECTION>
+Ingrid sits on her bed observing Claude. She holds a realistic-looking stuffed rooster in an old-style tuxedo.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	This is my room.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+<INGRID>
+	<DIALOGUE>
+	Do you like showers or baths?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Showers. What about you?
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Ingrid shrugs. She says, already bored with the topic:
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	I don't care.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+INT. STAIRWELL/MARGOT'S GUEST ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Pauline and Margot carry bags up the stairs. Margot now wears a knit red bracelet. They're tentative with one another.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Is Malcolm what you thought he'd be?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Well, I didn't know what to --
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	The moustache is temporary. He left it for last when he was shaving. It's meant to be funny.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	He told me.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Yeah...
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+They enter the guest room. The windows are wide open, the curtains blowing, but the room is very neatly made up.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I'm sorry -- with so little time to prepare, we had to put you in Malcolm's storage room --
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	This was Becky's room. Poor Becky.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Yeah, poor Becky. Now it's a storage room. I've just started to feel like it's our house not my parents. You know?
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Our parents.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Of course. It might still smell like paint, but...
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I thought he was a musician.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline jimmies down the stiff windows. Margot begins to unpack and hang up clothes in the closet.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Well, music's officially a hobby... He's painting now. And writing letters to newspapers and magazines. He's very meticulous, he'll spend up to a week writing a response to a music review. He's incredibly smart. Maybe too smart. I don't know. We're doing very well.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Good. I mean, you must be.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Silence.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I don't know where to begin. What can I tell you? It seems I'm pregnant, but it's really early so... I haven't told anyone. I mean, I haven't told Malcolm or Ingrid.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Wow...
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Yeah, if it sticks. We'll see. I hope so. Things are good. We did a couples seminar two months ago or so in Maine. They give you exercises and things to do. I know you're not convinced, but...
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(vaguely)
+</DIRECTION>
+	<DIALOGUE>
+	Mm hm.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	We got engaged right afterwards. The guy who runs it, Strickland, wrote a really interesting book about loving which I'll lend you if you want.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(non-committal)
+</DIRECTION>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	But only if you'll read it. Because I need it back. I made notes in the margins.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I may not get to it for a while.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Well, I'm not going to lend it to you if you're not going to read it.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+They meet eyes. Pauline quickly turns away.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	It's going to be very informal by the way. Just Mom and Becky. Malcolm's brother. Few friends. And now you and Claude. Nothing like the first one.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(wary)
+</DIRECTION>
+	<DIALOGUE>
+	Becky's coming?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE_MARGOT>
+	<DIALOGUE>
+	She isn't how you.../I'd really like...
+	</DIALOGUE>
+</PAULINE_MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	You go.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I was going to say, "I'd really like some white wine."
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Oh. Yeah. We have a... Well...I'm glad you changed your mind and came. I never heard from you after I sent the invite...I even wondered if you got it.
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(quickly)
+</DIRECTION>
+	<DIALOGUE>
+	Well, I'm so pleased we're here.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Did you get it?
+	</DIALOGUE>
+</MARGOT>
+<MARGOT>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline waits for an explanation.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I'm sorry you were so angry...
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I wasn't angry. I was...disappointed.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Uh huh. But you see when you say, "disappointed" it puts me in a crummy situation. Like I let you down.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	But you did in a way.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I don't see it like that.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Fine. I felt betrayed. Is that word okay?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Again, you're making me the aggressor.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	You were the aggressor.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Let's not... I've become a really good cook.
+	</DIALOGUE>
+<DIRECTION>
+INT. LIVING ROOM - LATE DAY Malcolm strums his guitar and smokes. Pauline sits at his feet with Ingrid and Claude. The kids look at a record sleeve. Margot is curled up on the sofa writing in a little brown notebook. She wears oval tortoise-shell glasses.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I can't believe you've still got all of our old records.
+	</DIALOGUE>
+<DIRECTION>
+Ingrid pulls an album toward her. Her eyes widen at the scary image on the cover. She quickly turns it over and hands it to her mother.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Mom, can you hide this please.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Pauline puts the record sleeve on top of a shelf.
+</DIRECTION>
+<PAULINE>
+<DIRECTION>
+(for Margot's benefit)
+</DIRECTION>
+	<DIALOGUE>
+	Malcolm played with Ric Ocasek once?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	In the late `80's. It was a solo gig after he left the Cars.
+	</DIALOGUE>
+</MALCOLM>
+<CLAUDE>
+	<DIALOGUE>
+	So, you're kind of famous.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Malcolm reddens.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	No. No. Believe me, I'm not. I used to want to be, but, No. Do you want to be famous?
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Claude wants to be very famous.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Well, make sure you can handle rejection. I can't. For me, expectation just turns to disappointment. So, ultimately I'd rather not try. It'll all go black for us soon enough anyway.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Claude, ignore him.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline sneaks a look at Margot who is watching Malcolm with an expression of either contempt or confusion. Pauline grows uncomfortable. She says to Claude:
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	When your mother moved to New York she used to send me books and records. She sent me REM's Murmur...
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	And the Pixies.
+	</DIALOGUE>
+</PAULINE>
+<PAULINE>
+	<DIALOGUE>
+	And X. She was very cool your mother.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You only liked top forty.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Yeah, but I love REM now.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot takes off her reading glasses and rubs her eyes.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I don't really listen to music anymore.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I was dating that guy, Horace back then. Remember him?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Was that the guy who liked to rough you up?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	No, that was our dad.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline and Margot crack up laughing. Malcolm raises an eyebrow at Claude.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Our father used to strip down to his skivvies and beat us with a belt.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	That man had a sexual screw loose.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	It's awful -- that stuff that happens to kids. Malcolm was fondled by a male baby-sitter.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Just use that information however you want...
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Sorry. We're with family. I figured...
+	</DIALOGUE>
+<DIRECTION>
+Claude looks at Malcolm. Malcolm doesn't meet his eyes.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I think Becky got it the worst.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Did she ever. Raped by the horse trainer...
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot breaks into laughter. Pauline spits her seltzer back into the glass. They both laugh hysterically. Tears stream down Margot's face. Claude watches.
+</DIRECTION>
+<DIRECTION>
+EXT. PATIO - NIGHT
+</DIRECTION>
+<DIRECTION>
+Malcolm, Pauline, Margot, Claude and Ingrid sit with a homosexual couple, Alan, 40's, and Toby, 30's, and their son, Bruce, 8, at an old wooden table eating crab, salad and soup. Part of Alan's face is paralyzed.
+</DIRECTION>
+<TOBY>
+	<DIALOGUE>
+	Alan rolled over in bed and looked at me and he said I can't feel my face. It took three doctors before we knew it was Bells Palsy.
+	</DIALOGUE>
+</TOBY>
+<ALAN>
+	<DIALOGUE>
+	They say a brush of wind can do it.
+	</DIALOGUE>
+</ALAN>
+<TOBY>
+	<DIALOGUE>
+	Feeling is slowly coming back.
+	</DIALOGUE>
+</TOBY>
+<MALCOLM>
+	<DIALOGUE>
+	We're all getting older... Which is terrible -- I don't care how universal it is. I can't remember names anymore.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	I have that. I blank out on certain words now too. Like the other day, I couldn't remember the word for...
+	</DIALOGUE>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+	<DIALOGUE>
+	I've forgotten it again. The stuff in wine. Sediment! That was it.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	I know that. I was talking more about not remembering who was the bassist for Motley Crüe.
+	</DIALOGUE>
+<DIRECTION>
+Malcolm lights up a cigarette. He offers one to Claude who shakes his head, No.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Ingrid, why don't you show Claude and Bruce the game trunk.
+	</DIALOGUE>
+</PAULINE>
+<INGRID>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Claude reluctantly follows Ingrid and Bruce. He looks back longingly at the table of adults.
+</DIRECTION>
+<MALCOLM>
+<DIRECTION>
+(relieved, to himself)
+</DIRECTION>
+	<DIALOGUE>
+	Mick Mars.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Toby, I think you need to have Bruce diagnosed.
+	</DIALOGUE>
+</MARGOT>
+<TOBY>
+	<DIALOGUE>
+	Margot, I don't want to have this conversation with you.
+	</DIALOGUE>
+</TOBY>
+<DIRECTION>
+We follow the kids inside. We hear in the background:
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	It's vital. If you keep telling him he's like everyone else he'll wonder why he isn't. He's suffering.
+	</DIALOGUE>
+</MARGOT>
+<TOBY>
+	<DIALOGUE>
+	He's tested very well. He does B's in school.
+	</DIALOGUE>
+</TOBY>
+<DIRECTION>
+Claude stops -- his mother and Toby are arguing out the window. Her eyes meet his for a second -- they make no connection -- she goes back to Toby.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	But, that's how autism works. One part of the brain can work fine while the other is damaged.
+	</DIALOGUE>
+<ALAN>
+	<DIALOGUE>
+	We had him diagnosed, Margot. Nothing was found wrong.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Did you really, though?
+	</DIALOGUE>
+<TOBY>
+	<DIALOGUE>
+	I'm...I'm not going to have this conversation. I'm sorry.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Silence.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I know it must be so difficult for you, but I think you have to --
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+INT. KITCHEN - SAME
+</DIRECTION>
+<DIRECTION>
+Pauline unloads the plates onto the kitchen counter. She hesitates and exhales a deep, anxious breath.
+</DIRECTION>
+<DIRECTION>
+EXT. HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Margot paces while talking on a cell phone in the herb garden. She drinks a white wine with ice cubes and smokes a joint. The bottle lies at her feet, three-quarters empty.
+</DIRECTION>
+<JIM_S_VOICE>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</JIM_S_VOICE>
+<MARGOT>
+	<DIALOGUE>
+	I left you a note.
+	</DIALOGUE>
+</MARGOT>
+<JIM_S_VOICE>
+	<DIALOGUE>
+	Come back. Or meet me in Vermont on Saturday.
+	</DIALOGUE>
+</JIM_S_VOICE>
+<MARGOT>
+	<DIALOGUE>
+	No...no. The wedding is on Saturday. I'm here for that. I can't really pull out. How would that look?
+	</DIALOGUE>
+</MARGOT>
+<JIM_S_VOICE>
+	<DIALOGUE>
+	You haven't spoken to her in years - -
+	</DIALOGUE>
+</JIM_S_VOICE>
+<MARGOT>
+	<DIALOGUE>
+	Well, we're speaking now. She is my closest friend despite it all... You're the one who's been trying to get me to call her.
+	</DIALOGUE>
+<JIM_S_VOICE>
+	<DIALOGUE>
+	Did you tell Claude what you're doing?
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(suddenly laughing)
+</DIRECTION>
+	<DIALOGUE>
+	Jim, this guy, Malcolm. He's exactly what you'd imagine except I think he's clinically depressed. Not ugly, but completely unattractive. And he has no job. The best I can make out is that he's a letter writer. I don't know, the house looks weird to me...she's trying too hard and it's kind of a mess...they took down the swing...
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Silence on the other end.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Hello?
+	</DIALOGUE>
+</MARGOT>
+<JIM_S_VOICE>
+	<DIALOGUE>
+	You said you weren't a hundred percent on this. You said that like a week ago. Can I come up there?
+	</DIALOGUE>
+</JIM_S_VOICE>
+<MARGOT>
+	<DIALOGUE>
+	No. I don't want to see you -- I feel happier already having done it.
+	</DIALOGUE>
+</MARGOT>
+<JIM_S_VOICE>
+	<DIALOGUE>
+	Really? You feel happier...
+	</DIALOGUE>
+<DIRECTION>
+(silence)
+</DIRECTION>
+	<DIALOGUE>
+	Please don't tell Claude anything please, until we've talked more.
+	</DIALOGUE>
+</JIM_S_VOICE>
+<MARGOT>
+	<DIALOGUE>
+	I need to tell him. And we need to tell Josh. Did he do his homework?
+	</DIALOGUE>
+</MARGOT>
+<JIM_S_VOICE>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</JIM_S_VOICE>
+<MARGOT>
+	<DIALOGUE>
+	This is happening and you have to get your mind around that.
+	</DIALOGUE>
+<DIRECTION>
+INT. CLAUDE'S GUEST ROOM - NIGHT Claude sleeps in bed. Margot gently touches his face. She whispers:
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Are you asleep?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+<DIRECTION>
+(softly)
+</DIRECTION>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Will you remember this?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I just talked to your dad...
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude's eyes remained closed, but he smiles.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I'm only going to tell you if you won't remember.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Margot hesitates. She changes her mind and says thoughtfully:
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Everyone finds you so funny and charming. I always get compliments about you.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot stands. She catches herself in a warped mirror and smears some eye make-up off of her face.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Are you having fun? Is it nice to see Pauline?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+<DIRECTION>
+(opens his eyes)
+</DIRECTION>
+	<DIALOGUE>
+	Yeah, I really like her.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Yeah. She is crazy though.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	In what way?
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	She's really berserk. Maybe it's hormones. You don't notice anything different about Pauline?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</MARGOT>
+<MARGOT>
+	<DIALOGUE>
+	She's pregnant -- she told me. But she's keeping it a secret -- I mean from Malcolm and even Ingrid. Which I think is unforgiveable. Now she'll have to marry him. What's she planning -- to get married and not drink champagne? Then she'll just be lying. I guess she's afraid she'll miscarry. She probably will. I think on some level she's ambivalent about the marriage and that's why she's not telling him.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Are you stoned, Mom?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Maybe a little.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I don't like it.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+INT. MALCOLM AND PAULINE'S ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Water runs from the bathroom. Malcolm cradles a glass of whiskey and stands nude in front of a full length mirror.
+</DIRECTION>
+<MALCOLM>
+<DIRECTION>
+(shakes his head)
+</DIRECTION>
+	<DIALOGUE>
+	My scrotum is longer than my penis.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+He turns around and looks at his ass. Pauline walks out of the bathroom. She wears mens pajamas, the top open.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	It's sweet how Claude looks up to me.
+	</DIALOGUE>
+<DIRECTION>
+He waits for a reaction and gets none.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Margot doesn't seem as crazy as you made her out to be.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	What she did to Toby and Alan tonight didn't seem crazy enough for you?
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	I guess that seemed pretty crazy.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+<DIRECTION>
+(immediately defensive)
+</DIRECTION>
+	<DIALOGUE>
+	Well, she cares deeply.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Yeah, she's really worried about Bruce.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	This has nothing to do with Bruce. She thinks everyone is autistic.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Malcolm is about to speak, but instead he halts, paralyzed.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Nothing, you keep changing your position -- I'm just trying to figure out if I should agree with you or not?
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Well, can't she be both, care deeply and be crazy? Do people have to be all one thing?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I guess not.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Well, okay...
+	</DIALOGUE>
+<DIRECTION>
+(back into it)
+</DIRECTION>
+	<DIALOGUE>
+	It is nice she came for the wedding. She's so pretty, don't you think?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+<DIRECTION>
+(warily)
+</DIRECTION>
+	<DIALOGUE>
+	She's attractive.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	A little thin maybe... But it is nice she came.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Let's fuck.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+INT. MARGOT'S GUEST ROOM - SAME
+</DIRECTION>
+<DIRECTION>
+Margot lies on her front, her hand underneath her. She tries to masturbate. The bed creaks. Finally, she flips over and gives up. She wears a rubber night-guard in her mouth.
+</DIRECTION>
+<DIRECTION>
+EXT. HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+A croquet game in progress. Pauline and Malcolm play Margot and Claude. Ingrid lies in the grass singing to herself. The dog next to her. Malcolm concentrates -- he carefully lines up his shot. Finally, he swings --
+</DIRECTION>
+<DIRECTION>
+The ball misses the wicket. He shakes with frustration.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Fuck it!
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Claude looks through a slit in the wooden fence and into the neighbor's yard: A naked man, 40's, crouches. Arms extend from below and pull him downward. His ass pokes up over the weeds.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Honey, you're up.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude shakes out of his reverie. He walks briskly up to his ball and smacks it. It bullets forward and lands just short of Pauline's ball.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Claude, don't just whack it. Think about it before you hit.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Pauline knocks her ball into Claude's. She holds her ball down with her foot and prepares to swing.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Paul, what are you doing?
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I'm sending Claude's ball into the bushes.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Take the extra hit.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I don't want to do that.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	It's the smarter play.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+She whacks -- Claude's ball travels about two feet.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Shit.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Pauline! See, I knew you couldn't... Your feet are too small!
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Margot steps up to take her turn. She regards the house.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You took the awnings down.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude looks back into the adjacent yard: Flashes of skin. A breast. Pubic hair. Claude crouches to see more clearly -- the bodies disappear from sight.
+</DIRECTION>
+<DIRECTION>
+Malcolm draws a deep breath and takes a few practice strokes. He swings -- his ball rockets past Margot's, rolls up over a ridge and onto the cement drive. It quickly sails down into the road and bounces into a ditch.
+</DIRECTION>
+<DIRECTION>
+Malcolm shakes furiously. He lifts his mallet, turns toward house, rethinks momentarily, and hurls it up over incline and down to the water. Pauline puts her hands on her hips.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Well done.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Fuck you.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm hesitates then tramps down the stairs to the beach. Claude watches the pink of flesh moving up and down.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Honey, you're up.
+	</DIALOGUE>
+<DIRECTION>
+He approaches his ball and smacks it toward the double wickets.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You're going the wrong way.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Oh.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+He blushes and laughs. Pauline laughs. Margot shakes her head.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	So stupid.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Mom, I'm sorry. Jesus.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Margot places her mallet down and starts toward the house.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	We're in the middle of it.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	This is why I hate games. I hate what it does to me.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline cackles loudly. Margot turns around and stares at her. Malcolm calls from the stairs:
+</DIRECTION>
+<MALCOLM>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Wait, we're not finished!
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+EXT. PATIO - DAY
+</DIRECTION>
+<DIRECTION>
+The five eat a salad nicoise lunch.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Malcolm, do you notice how Pauline sometimes can't make eye-contact. How her gaze hovers just above your head.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Yeah, I kind of know what you mean.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	I always think I have something in my hair. It's not necessarily bad, Paul. It's just something you do.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline looks mildly horrified. She suddenly turns to Claude.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Claude have you ever seen your mother climb a tree?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	We don't have much opportunity in Manhattan.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	As kids Margot climbed everything. She could even climb that tree.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+She points at the tall oak that stretches over the fence into the neighbor's property.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Can you do it, mom?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Maybe later.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	No, now.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	Do it now, Margot!
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+	<DIALOGUE>
+	Show him, Margot.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Margot strides toward the tree. The group follows behind.
+</DIRECTION>
+<DIRECTION>
+She grabs hold of a branch and lifts herself.
+</DIRECTION>
+<DIRECTION>
+Claude grins, impressed.
+</DIRECTION>
+<DIRECTION>
+With brisk dexterity, Margot scales the tree.
+</DIRECTION>
+<DIRECTION>
+Claude, Pauline, Malcolm and Ingrid watch with glee from below.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I told you.
+	</DIALOGUE>
+<DIRECTION>
+Margot reaches a perch near the top and looks down at the gang. They wave. She waves back. The sun is hot. She sweats, flushed. She takes a deep breath and relaxes against the bark. Trees for miles. The neighbors' house is faded and grey. In the far distance, toxic white smoke comes out into the sky.
+</DIRECTION>
+<DIRECTION>
+An earwig walks across her arm. She flicks it off, slips for a moment and catches herself. Her breathing grows more rapid.
+</DIRECTION>
+<DIRECTION>
+A bug buzzes around her head. She swats at it.
+</DIRECTION>
+<DIRECTION>
+Her family has stopped watching. Claude and Malcolm throw a baseball. Pauline's gone back inside. Ingrid clears the table.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(under her breath)
+</DIRECTION>
+	<DIALOGUE>
+	Shit.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She wipes her face, her shirt is almost entirely soaked. The buzzing continues.
+</DIRECTION>
+<DIRECTION>
+Close on Margot's ear. A small black gnat lands on the lip of the lobe. It hesitates and darts inside the hole.
+</DIRECTION>
+<DIRECTION>
+Margot gasps. She jams her pinky in her ear.
+</DIRECTION>
+<DIRECTION>
+Pauline comes back out with an ice tea.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	What's she doing now?
+	</DIALOGUE>
+</CLAUDE>
+<PAULINE>
+<DIRECTION>
+(dryly)
+</DIRECTION>
+	<DIALOGUE>
+	She's stuck.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+A young volunteer fireman climbs a long ladder up the side of the tree and toward Margot. He reaches out his hand to her.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(annoyed)
+</DIRECTION>
+	<DIALOGUE>
+	I got it.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She slowly lowers herself.
+</DIRECTION>
+<DIRECTION>
+INT. LIVING ROOM - DAY Pauline is laughing, recounting the story. Claude and Ingrid laugh too. Margot shakes her head, embarrassed and furious.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	You were great on the way up.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Don't patronize me, Claude.
+	</DIALOGUE>
+<DIRECTION>
+Margot turns her head to the side and pats on the top of it.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	We're all laughing, Margot.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	You're laughing in a kind way. Claude is taking too much pleasure out of it.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I am not.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	You are. You like to make fun of me. To see me get embarrassed. It's mean.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Silence. Margot puts her pinky back in her ear. She frowns.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I've got a fucking bug in my ear, okay?
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. FOREST - DAY
+</DIRECTION>
+<DIRECTION>
+Pauline and Margot hike along a dirt trail. Claude and Ingrid idle behind, carrying walking sticks.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I thought Claude could hand out programs. Ingrid's going to sing. Do you want to read a poem or something?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You know I can't speak in front of people. I'm doing this "conversation" at the bookstore in town on Friday and I totally regret having said I'd do it.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	You're doing a "conversation?"
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Yeah, talking about my work in front of a crowd. I didn't invite you because...I thought it'd be boring.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	What? Say it.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	It's nothing. It's just...I would come...I want to come. I get a kick out of it. It's just weird, you know... So, you're not here for...
+	</DIALOGUE>
+<DIRECTION>
+(she stops herself)
+</DIRECTION>
+	<DIALOGUE>
+	Okay, I get it. When did they ask you?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	A while ago. I'd said, No, but then when I was coming here anyway and...I guess it helps sales and...so...so.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I see.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+We catch a quick glimpse of people walking ahead in the path.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Did I tell you, Becky got her tubes tied.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Why? Is she seeing someone? She's still obese, I assume.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I think it's symbolic.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I bet mom paid for it. We should audit mom.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I considered it in my twenties. You know, when I was fucking everyone. You remember.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I did my share.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	But not like me.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You want to count?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	No, Margot, I don't want to count.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	What was it about Dad that had us fucking so many guys?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I think it was the only time we could really feel unselfconscious and get out of our heads.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+<DIRECTION>
+(dismissive)
+</DIRECTION>
+	<DIALOGUE>
+	I don't think that's it. I just think it was something we were good at.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Behind, Ingrid smacks her walking stick into Claude's.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Your mom thinks Bruce is gay.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	No, she said she had Aspergers.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	I thought that's what that means.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	No, it's like lesser retarded.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	I have adult ADD.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	You mean child ADD.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	No, for some reason I have the adult one. Maybe I'm retarded.
+	</DIALOGUE>
+<DIRECTION>
+Up ahead -- in the path -- is a couple, 40's, with a six year old girl. The back of the man's pants are smeared with dirt and the woman is packed into acid washed jeans. The little girl whines and lags behind. Margot and Pauline slow down. Claude and Ingrid catch up.
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	Come on!
+	</DIALOGUE>
+<LITTLE_GIRL>
+	<DIALOGUE>
+	I don't want to!
+	</DIALOGUE>
+</INGRID>
+<MAN>
+	<DIALOGUE>
+	Come on!
+	</DIALOGUE>
+</MAN>
+<LITTLE_GIRL>
+	<DIALOGUE>
+	I don't want --
+	</DIALOGUE>
+</LITTLE_GIRL>
+<DIRECTION>
+The woman grabs the girl harshly by the arm and pulls her. The girl screams.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Hey!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+The man and woman turn around sharply.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Be careful!
+	</DIALOGUE>
+</MARGOT>
+<WOMAN>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</WOMAN>
+<MARGOT>
+	<DIALOGUE>
+	Be careful the way you pull on that child's arm. You'll take it out of its socket.
+	</DIALOGUE>
+</MARGOT>
+<MAN>
+	<DIALOGUE>
+	Don't tell us how to treat our child.
+	</DIALOGUE>
+</MAN>
+<MARGOT>
+	<DIALOGUE>
+	I don't care how you treat your child as long as you don't hurt him.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+<DIRECTION>
+(under her breath)
+</DIRECTION>
+	<DIALOGUE>
+	It's a girl.
+	</DIALOGUE>
+</PAULINE>
+<WOMAN>
+	<DIALOGUE>
+	She threw a rock at me.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	She's a little girl!
+	</DIALOGUE>
+<WOMAN>
+	<DIALOGUE>
+	She knew what she was doing.
+	</DIALOGUE>
+<DIRECTION>
+She starts suddenly toward Margot.
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	There is no hitting in our family. Do you understand?
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+Margot backs up quickly. The woman stops about ten feet away.
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	Stay out of it, bitch.
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+The woman turns back around. She lifts the girl into her arms and they trudge over the incline and out of sight.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	That was the Voglers.
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+	<DIALOGUE>
+	Jesus, Margot, what are you doing. They already hate us.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(wiping her eyes)
+</DIRECTION>
+	<DIALOGUE>
+	Don't tell me what I can and can't do. That's child abuse.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Mom, she was psychotic.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Stop picking on me. Everyone.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+The four of them emerge into a clearing. Nobody speaks. A child's pink sneaker lies in the path.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Oh God.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline walks over to it. She crouches.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	It could be anyone's.
+	</DIALOGUE>
+<DIRECTION>
+Margot bursts into tears. Pauline hesitates then holds her.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	What are they going to do to us?
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	They're not going to do anything, honey.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+EXT. FRONT PORCH - DAY Malcolm looks at Pauline. He's in the midst of writing a letter on a legal pad. Pauline is worked up.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	We have to cut down that tree.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Where are we going to get married then?
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	I don't...we'll do it in the fucking drive-way if we have to.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Claude and Ingrid listen from just inside the house. Ingrid looks at Claude nervously.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Your mom started a war. We have to make sure we wear shoes because they might start throwing glass.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	Has that happened before?
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	I can't remember. I think so. No, it definitely has. Now I remember.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Behind them, Margot, made-up and wearing a dress, clomps down the stairs, across the carpet and onto the porch.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(tersely)
+</DIRECTION>
+	<DIALOGUE>
+	To town. I'll be back for dinner.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Come on, nobody blames you, Margot.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+An old orange BMW idles at the end of the driveway. Pauline, Malcolm, Claude and Ingrid watch Margot cross the drive-way. A man, 50's, opens the passenger door. He smokes a brown cigarette. Margot gets in. The man waves at the group on the patio. Pauline, Malcolm and Ingrid and Claude wave back.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Is that Dick Koosman?
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Yeah. He has a house up here.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	What's he doing with mom?
+	</DIALOGUE>
+</CLAUDE>
+<PAULINE>
+	<DIALOGUE>
+	Good question.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+EXT. HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+Ingrid sits at the roots of the tree, squeezing honey out of a honey bear onto her hand -- she watches the ants come. Claude sits on a low branch and looks over the fence:
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	How much do your parents make in a year?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	I think about a hundred. They bank at Chase.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+The front door of the Vogler's opens and a boy, 14, pees from the entrance-way into the plants in the yard.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Are they rich?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	No. They're middle class.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+The boy finishes and violently hurls a toy car at the fence.
+</DIRECTION>
+<BOY>
+	<DIALOGUE>
+	Just let me live!
+	</DIALOGUE>
+</BOY>
+<DIRECTION>
+The toy lands a few feet short. He goes inside and closes the door.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Upper or lower?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I think just middle.
+	</DIALOGUE>
+<DIRECTION>
+Claude watches: Malcolm scurries around the side of the Vogler house holding a dead mole by its tail. He stumbles, recovers and flings the animal at the front door. He races back toward his property. EXT. PORCH - EVENING
+</DIRECTION>
+<DIRECTION>
+Margot and Malcolm have cocktails. Pauline drinks a bottled water. Ingrid has cray pas, markers and paper and draws at a table. She draws a mole.
+</DIRECTION>
+<DIRECTION>
+Claude draws a boy with a big claw for a hand and CLAWED under it. Wizard, the dog, lies at his feet.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Dick and his daughter asked us over to swim tomorrow.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	We didn't invite them to the wedding.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You're not really friends.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	We're friends enough that's it's awkward. Maisy baby-sits for us all the time.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	He's doing the interview with me in town on Friday. Did I tell you, he and I are collaborating on a screenplay, an adaptation of one of Dick's novels.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	No, I didn't even know you knew he was up here.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Malcolm takes one of Ingrid's markers and doodles.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Is he even a good writer? Why do people care about him?
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	You're competitive with everyone. It doesn't matter if they even do the same thing as you.
+	</DIALOGUE>
+<DIRECTION>
+(to Claude)
+</DIRECTION>
+	<DIALOGUE>
+	He's competitive with Bono.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	It's true. I don't subscribe to the credo that there's enough room for everyone to be successful. I think there are only a few spots available and people like Dick Koosman and Bono are taking them up.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Pauline looks at Malcolm's drawing. It's a graphic image of a man fucking a woman in the ass.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Malcolm, what would ever make you think that's something to draw right now?
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Claude and Ingrid stare at it. Malcolm balls it up.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Sorry, I wasn't thinking about it. Sorry, Margot.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+INT. VOLVO - DAY
+</DIRECTION>
+<DIRECTION>
+The car pulls into a driveway. A modern house. Dick and Maisy come out to greet them.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	You found it!
+	</DIALOGUE>
+</DICK>
+<DIRECTION>
+Margot, the kids and Pauline get out. We stay in the car with Malcolm. Pauline comes to his window.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	What's up?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I don't want to do this...
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Come on, don't be that way.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Maisy sits on the hood of the car and Ingrid introduces her to Claude. Dick approaches Margot -- she turns back to Pauline.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I'm not being that way -- I just don't feel like it. I'm going to go back and... I have work to do.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Dick doesn't care that you don't make any money.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Is that why you think... That's not why I'm...I just hate swimming. I really hate it. It's disgusting to me. My mistake was saying I'd do it to begin with. You have fun.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Fine, we'll have fun.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm's gaze goes to Maisy's breasts. Margot watches him watch her.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	People always pee in the pool.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	I don't think Dick and Maisy pee in their pool.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I'll bet you 500 dollars there's pee in that pool.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+EXT. DICK'S POOL - DAY
+</DIRECTION>
+<DIRECTION>
+Pauline and Margot float beneath Claude who stands above them.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	To the end and back. Claude, you say Go.
+	</DIALOGUE>
+</PAULINE>
+<CLAUDE>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Margot knocks on the side of her head with her hand.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Go!
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Pauline flings herself in and is off. Margot hesitates then follows. Maisy and Dick watch from the chairs. Ingrid floats on a raft and cheers. Claude runs along the pool- side.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	How's your dad?
+	</DIALOGUE>
+</DICK>
+<CLAUDE>
+	<DIALOGUE>
+	Good.
+	</DIALOGUE>
+<DICK>
+	<DIALOGUE>
+	He and I shared a thesis advisor at Stanford. Did you know that?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+<DIRECTION>
+Pauline hits the far wall with her palm and flips around. Margot stops short and follows her sister. They're neck and neck. Their arms cut in and out of the water.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	I was dating your mom back then, did you know that?
+	</DIALOGUE>
+</DICK>
+<CLAUDE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Pauline lands -- touches the wall first. Margot a close second.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Pauline wins!
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Pauline beams. Margot immediately drifts to the ladder. She's panting heavily.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Mom cheated. You didn't touch the wall!
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I did so. It doesn't matter. I lost anyway.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	It was close.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline floats on her back, exhausted.
+</DIRECTION>
+<DIRECTION>
+Ingrid swims beneath Claude -- long strands of hair stream up from beneath the surface.
+</DIRECTION>
+<DIRECTION>
+Margot gets out of the water and Dick wraps her in a towel. For a moment it's an embrace. Margot looks quickly over at Claude --
+</DIRECTION>
+<DIRECTION>
+His foot slips.
+</DIRECTION>
+<DIRECTION>
+He topples in. Water roars around him.
+</DIRECTION>
+<DIRECTION>
+He opens his mouth. Bubbles spurt out. He drifts down. Lying next to the drain is a field mouse. Its eyes are white.
+</DIRECTION>
+<DIRECTION>
+Splash. Hands wrap around him. He goes up.
+</DIRECTION>
+<DIRECTION>
+The sounds of wind and blurry voices now clearer.
+</DIRECTION>
+<DIRECTION>
+Pauline brings Claude to the surface and pushes him to the ladder. She helps him climb out. Ingrid and Maisy are grinning. Their expressions slowly shift as they see Claude's face.
+</DIRECTION>
+<DIRECTION>
+Claude is sobbing.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	It's okay.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot immediately wrenches Claude from Pauline's grasp. She looks shocked and angry.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I got him.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She leads her son behind the bushes out of everyone's sight.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	It's okay, my baby.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She gently lets him down. His sneakers squeak and slosh. Claude, soaking wet and ashamed, looks at his mother. She breaks into laughter. Claude wipes the water and tears from his eyes.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	I'm sorry I laughed about the tree.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Now we're even.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+INT. PAULINE AND MALCOLM'S DEN - DAY
+</DIRECTION>
+<DIRECTION>
+Margot, reclining on the couch, drinks a white wine with ice cubes. Pauline passes the doorway and stops. She holds tear- sheets of flowers and wedding decorations from various magazines.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Here you are.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	You've got a problem.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I don't like the girl and I don't like the way Malcolm looks at her.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Oh, come on, it's sexy.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You didn't see it. I saw it. You've got a problem.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I'm not worried.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	We could teach Claude how to swim.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	He won't want to do it. It's too late.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline waits for more -- nothing comes. She takes a couple steps into the room. She holds out her hand for the glass. Margot passes it to her. Pauline sips.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Are you supposed to be doing that?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+She hands it back.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I liked your last story in, was it Harpers? The one about mom. I was very...I liked it very much.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	It wasn't really about mom.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I thought it was. Anyway. Why don't you want Claude to know how to swim?
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I didn't say I didn't want him to. Why do you care? It's not in his life -- we're New Yorkers. If he wants to learn when he's older, he can. I'm curious why you're so interested in the whole thing.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I'm not. I'm just... As a safety thing and...I'm... Forget it.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	It's interesting -- this is the first time Dick has invited us over.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	But are you really friends?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Kind of. We're neighbors. We employ Maisy. I mean I don't care, I just think it's interesting.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Are you excited about the talk? I thought I'd come if that's okay. My friend, Agnes, asked me, "What's it like to have a celebrity as a sister?" I said, I've got no problem with celebrity. Alice Munro taught at Bennington and was kind of a friend of mine.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I'm not a celebrity.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Well, you're well known.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	To a very few people.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Just accept the compliment.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I guess I didn't realize it was a compliment.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. FOREST - LATE DAY
+</DIRECTION>
+<DIRECTION>
+Margot walks the path alone. She hugs herself as a light breeze kicks up. Her footsteps echo in the trees. The little pink sneaker still lies in the dirt. She crouches down and takes it. CUT TO: CLOSE: A note is being written.
+</DIRECTION>
+<DIRECTION>
+"...and if you are acting with any sort of abuse toward your child I will call the police."
+</DIRECTION>
+<DIRECTION>
+The word "any" is then underlined twice. The page is torn from her little brown book.
+</DIRECTION>
+<DIRECTION>
+EXT. VOGLER HOUSE - EVENING
+</DIRECTION>
+<DIRECTION>
+Margot's fist is raised about to knock on the front door. She stops herself. She puts the note on the Welcome mat and holds it in place with the child's shoe. She wanders around to the back of the house. She looks into a lighted window:
+</DIRECTION>
+<DIRECTION>
+It's a white tiled bathroom.
+</DIRECTION>
+<DIRECTION>
+A wet brown animal body covered in clear plastic is balanced on the sink. Mr. Vogler tears into the plastic. The carcass is butterflied open exposing the innards and ribs.
+</DIRECTION>
+<DIRECTION>
+Mrs. Vogler runs the tub. She pours salt from a box in the water. The man slides his hand in her waist-band. She rubs against him.
+</DIRECTION>
+<DIRECTION>
+Margot chews her cuticle.
+</DIRECTION>
+<DIRECTION>
+The man saws the legs. His arm jerks back and forth, straining to cut through the bone. Sweat pours down his temples.
+</DIRECTION>
+<DIRECTION>
+Margot raises her hand to her face and presses against the window. She peers through her fingers. The blade pierces the bone with a violent release and the hoof falls to the floor.
+</DIRECTION>
+<DIRECTION>
+Margot moves to another window. The pig's face now looks at her.
+</DIRECTION>
+<DIRECTION>
+Blood drips and leaks into the crevices of the tile. The woman brandishes a syringe filled with an orange liquid.
+</DIRECTION>
+<DIRECTION>
+Suddenly a face appears in the glass. Margot leaps back. It's a thin boy. He says something. The family turns to the window. The father flicks off the bathroom light. From inside Margot illuminates like an apparition. Margot scampers into the trees. She pushes through branches, her shirt tears. She runs. INT. CLAUDE'S GUEST ROOM - EVENING Claude sits on the bed. The record sleeve from Blondie's "Parallel Lines" rests in his lap. He reads the lyrics to the song, "Sunday Girl." He depresses the red record button on an old portable tape recorder. He sings a cappella and full voice, passionately, as sweetly as he can.
+</DIRECTION>
+<DIRECTION>
+Maisy appears in the doorway and watches. Claude turns mid- lyric. He jumps, startled.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	Singing?
+	</DIALOGUE>
+</MAISY>
+<DIRECTION>
+Fumbling, Claude shuts off the tape recorder.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Hm? A bit.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+She drifts into the room and hovers closely above Claude who remains on the bed.
+</DIRECTION>
+<DIRECTION>
+Margot passes by in the hallway, disheveled from her escape. She watches: Maisy takes the lyric sleeve from Claude's hands. Her T-shirt hangs above her waist showing her smooth stomach.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	Can I make a suggestion?
+	</DIALOGUE>
+</MAISY>
+<CLAUDE>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+</CLAUDE>
+<MAISY>
+	<DIALOGUE>
+	You should get underarm deodorant.
+	</DIALOGUE>
+</MAISY>
+<CLAUDE>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+</CLAUDE>
+<MAISY>
+	<DIALOGUE>
+	You kind of smell.
+	</DIALOGUE>
+</MAISY>
+<DIRECTION>
+Claude blushes.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	Better I tell you than someone else.
+	</DIALOGUE>
+<DIRECTION>
+INT. MARGOT'S BATHROOM - EVENING
+</DIRECTION>
+<DIRECTION>
+Margot puts on mascara and watches Claude, who stands behind her, in the mirror.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I think you smell nice. You smell real.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I stink.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	It causes cancer.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Underarm deodorant?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Yes. It's got chemicals and things that are extremely harmful.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I'm not going to die from underarm cancer.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	No, you'll get it somewhere else. Like your stomach or your testicles.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+	<DIALOGUE>
+	Testicles.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Don't laugh, that's a serious thing. Who told you this, anyway? Maisy?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I hope you're not interested in that girl. I find her insufferable.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	What does that mean?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	It means I can't suffer her. She's loud and stupid. She goes on about s of which she knows no about.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	She got into Harvard early.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Stupid people get into Harvard early all the time.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Where did you go again?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Barnard.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I just don't think you should do anything with her.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+<DIRECTION>
+(embarrassed)
+</DIRECTION>
+	<DIALOGUE>
+	We're just friends.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	If you do, use a condom.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude looks into the toilet. A square of toilet paper with a red lip outline floats on top of the water.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Out with Paul and Malcolm and Dick.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Are kids coming?
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+INT. LIVING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Claude's POV through the window: Dick and Margot in the back seat of the Volvo. Malcolm and Pauline the front. The ignition turns.
+</DIRECTION>
+<DIRECTION>
+Claude leaves the window. We hear the car rumble away. Claude and Ingrid sit on the couch, hamburgers in front of them. Maisy is cross-legged on Wizard's dog bed and chews a stalk of celery.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Who do we know who's gay?
+	</DIALOGUE>
+<MAISY>
+	<DIALOGUE>
+	How do I know what gay people you know.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Alan and Toby.
+	</DIALOGUE>
+<INGRID>
+	<DIALOGUE>
+	And Bruce. He's gay and Aspergers.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	I don't know if Bruce is gay.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	He might be, it's very common.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	Your mom is pregnant.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	No she isn't.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	She is.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Ingrid looks stricken.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	How do you know that, Claude?
+	</DIALOGUE>
+</MAISY>
+<CLAUDE>
+	<DIALOGUE>
+	She told my mom. But you can tell - - she's hormonally weird.
+	</DIALOGUE>
+</CLAUDE>
+<MAISY>
+	<DIALOGUE>
+	Holy shit, Ingrid you're going to have a baby sister or brother.
+	</DIALOGUE>
+</MAISY>
+<INGRID>
+<DIRECTION>
+(quietly)
+</DIRECTION>
+	<DIALOGUE>
+	My mom thinks your mom is unreliable.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	Who cares.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+But he does. Claude bites into his burger. His eyes fix on the crease between Maisy's breasts. Maisy says to Claude:
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	Do you think your mom is fuckable?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+<MAISY>
+	<DIALOGUE>
+	I think she's hot, your mother. I'd do her if I was gay. I might anyway. I mean if she came on to me.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	She won't.
+	</DIALOGUE>
+</MAISY>
+<INGRID>
+	<DIALOGUE>
+	I'm not going to do anyone.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+There's a scraping sound on the window. The kids turn quickly:
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	What was that?
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	Is it scary?
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+EXT. FIELD - NIGHT
+</DIRECTION>
+<DIRECTION>
+The three kids lie in the grass and watch through the slats in the fence: The Vogler family eats at an outdoor table. A pig turns on a spit over a smoky barbecue. Mrs. Vogler says something and the kids and Mr. Vogler laugh.
+</DIRECTION>
+<DIRECTION>
+Maisy climbs over Claude to see better. He feels her breasts press against his back. Suddenly he swats crazily at his ear. Ingrid is poking him with a blade of grass.
+</DIRECTION>
+<DIRECTION>
+INT. VOLVO - NIGHT
+</DIRECTION>
+<DIRECTION>
+Malcolm drives quickly with Pauline next to him. He's smoking with the window open, Dick and Margot in the backseat.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Margot used to never speak. I remember when we went on a double date in high school, that kid Ron asked you if English was your first language.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	It's true. I used to think I might have some kind of brain defect.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	You thought you were aphasic.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I'm still not sure.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Oh, Jesus, Margot.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	It's very possible, Paul.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I just...your diagnoses sometimes irk the hell out of me.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Malcolm lights another cigarette -- the car jerks sideways.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Malcolm, can you slow down.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MALCOLM>
+<DICK>
+	<DIALOGUE>
+	I can drive if you like.
+	</DIALOGUE>
+</DICK>
+<MALCOLM>
+	<DIALOGUE>
+	No, you got dinner, the driving's on me.
+	</DIALOGUE>
+</MALCOLM>
+<DICK>
+	<DIALOGUE>
+	Well, I'll let you pay your half if you'll slow down.
+	</DIALOGUE>
+</DICK>
+<MALCOLM>
+	<DIALOGUE>
+	Well, neither Pauline or I ordered dessert.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Malcolm, let it go.
+	</DIALOGUE>
+<DIRECTION>
+(taunting)
+</DIRECTION>
+	<DIALOGUE>
+	Margot would insist on driving if she knew how.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(to Dick)
+</DIRECTION>
+	<DIALOGUE>
+	My license elapsed. But I know how.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	It's probably for the best. I have this theory, I think, historically, women have been held back in so many ways that when they get power, like they do behind the wheel, they can't help but abuse it. It's akin to Hannah Arendt's Eichmann theory about prison guards and prisoners switching rolls.
+	</DIALOGUE>
+<DICK>
+	<DIALOGUE>
+	That's a charming philosophy.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Yeah. Tell that one a lot.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	This isn't a blanket thing. I mean, women can be great drivers too...
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+He takes a long satisfied drag on his cigarette.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Said the man with the moustache that he thinks he's wearing in quotes.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	It's meant to be funny.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+<DIRECTION>
+(to Pauline, re: Margot)
+</DIRECTION>
+	<DIALOGUE>
+	Are you doing this for her benefit or mine?
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm pumps the brake.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	What the fuck?
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+<DIRECTION>
+(momentarily sober)
+</DIRECTION>
+	<DIALOGUE>
+	No, there they go. Okay. It's fine. I thought I had no brakes for a minute...
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm pitches his cigarette out the window -- it flies through Margot's window and lands on her lap.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Malcolm!
+	</DIALOGUE>
+<DIRECTION>
+Dick grabs the lit butt and chucks it in the road.
+</DIRECTION>
+<MALCOLM>
+<DIRECTION>
+(turning around)
+</DIRECTION>
+	<DIALOGUE>
+	What?!
+	</DIALOGUE>
+<DIRECTION>
+The car swerves again -- everyone jumps.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Watch it!
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	It's fine, Margot!
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+<DIRECTION>
+(to Malcolm)
+</DIRECTION>
+	<DIALOGUE>
+	You're just so incompetent.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+<DIRECTION>
+(exploding)
+</DIRECTION>
+	<DIALOGUE>
+	Why don't you fucking drive yourselves home!
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm screeches the vehicle over to the shoulder. They jolt to a stop.
+</DIRECTION>
+<PAULINE>
+<DIRECTION>
+(quietly furious)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, God.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline opens the door and staggers toward the brush. She leans against a tree and looks like she might vomit. Malcolm watches in the rearview mirror.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You should go after her.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Malcolm sighs heavily and gets out of the car. Margot and Dick watch out the back window. Pauline sees Malcolm coming and bolts into the woods. Malcolm charges after her.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	Come back with me tonight.
+	</DIALOGUE>
+</DICK>
+<MARGOT>
+	<DIALOGUE>
+	I've got Claude.
+	</DIALOGUE>
+</MARGOT>
+<DICK>
+	<DIALOGUE>
+	Come on, I've been trying to get you up here all year.
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(vaguely)
+</DIRECTION>
+	<DIALOGUE>
+	She's pregnant.
+	</DIALOGUE>
+<DIRECTION>
+Dick leans over to Margot's neck. He licks her. INT. INGRID'S ROOM - NIGHT Claude lies in bed with Ingrid. He chews off a piece of his pinky fingernail. He hesitates and places it on an end- table.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Why are you putting that there?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	I just want to keep it.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	I left a piece of skin in a movie theater once so it could watch movies all its life.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	I don't know if it's the same thing.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	Are you obsessed with Maisy?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	You're always staring at her tits.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Ingrid traces Claude's upper lip with her finger.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	You have a moustache.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	My mom bleaches it.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	I'm going to kiss your cheek and then you kiss mine.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	I don't want to do that.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	Why not?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Because it's pointless...
+	</DIALOGUE>
+<DIRECTION>
+Claude hears footsteps creak downstairs. He goes to the door peers out: Pauline and Malcolm, a little disheveled dirty, climb the stairs. Neither speaks. Malcolm goes into the hall bathroom. Pauline into their room. Running water groans through the old pipes.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Where are you going? I thought we were having a conversation.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	You're starting to annoy me.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+INT. HALLWAY - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Claude walks -- he passes an open door: Malcolm is shaving his moustache -- the electric razor whirring.
+</DIRECTION>
+<DIRECTION>
+INT. MARGOT'S ROOM - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Claude enters. It's empty. Her brown notebook rests on the bedside table. He hesitates then opens it:
+</DIRECTION>
+<DIRECTION>
+It's packed with writing -- a nearly indecipherable cursive in black ink. The name Claude can be made out on the page.
+</DIRECTION>
+<DIRECTION>
+Claude takes the book and climbs up into bed. He nestles against the pillow and squints to read the writing.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude startles. Margot stands in the doorway with a glass of water.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	I didn't think you came home.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Where would I be?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Can't Josh and Dad come to the wedding?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	We've been through this. Go to bed.
+	</DIALOGUE>
+<DIRECTION>
+Claude slides down to the floor. He hesitates.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Can I sleep in here?
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	No, honey.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	We can put a pillow between us.
+	</DIALOGUE>
+</MARGOT>
+<MARGOT>
+	<DIALOGUE>
+	Okay. Just for tonight.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude takes a long pillow and places it like a barrier in the bed. We stay on him as he waits. Finally Margot climbs into the covers in a nightgown.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	When you were a baby I wouldn't let anyone else hold you. I think that may have been a mistake.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. HOUSE - MORNING
+</DIRECTION>
+<DIRECTION>
+Malcolm, his moustache gone, a cigarette dangling from his mouth, hammers in a stake at the base of a collapsed, white tent. A workman holds a pole steadily.
+</DIRECTION>
+<DIRECTION>
+Pauline sets up chairs around a series of tables. Ingrid idles a few feet away. They're in the midst of talking:
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Why was it a secret?
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+	<DIALOGUE>
+	Because I didn't want to get you excited before it was real. It's not really a baby yet. In two more weeks we can celebrate together, okay?
+	</DIALOGUE>
+</PAULINE>
+<INGRID>
+	<DIALOGUE>
+	Why did you tell Margot?
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+	<DIALOGUE>
+	Because she's my sister and I trust her. How do you feel about it?
+	</DIALOGUE>
+</PAULINE>
+<INGRID>
+	<DIALOGUE>
+	I don't want a sister.
+	</DIALOGUE>
+<DIRECTION>
+Pauline touches Ingrid's hair gently.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	I'm going to go get Wizard.
+	</DIALOGUE>
+<DIRECTION>
+She runs toward the house. Pauline marches toward Malcolm.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Margot told Claude something I expressly told her in confidence. And he told Ingrid. I'm stunned that she put me in this position. It's so fucking infuriating.
+	</DIALOGUE>
+</INGRID>
+<MALCOLM>
+	<DIALOGUE>
+	Well it's that thing where--
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Don't say anything. You know what...just be there for me. Silently.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Why do I have to be so careful around her, but everyone is allowed to make fun of me?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I don't know if --
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Malcolm, what did I just say?
+	</DIALOGUE>
+<DIRECTION>
+(sighs)
+</DIRECTION>
+	<DIALOGUE>
+	You know, I just want you to take my side, I don't need you to make it better.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Malcolm puts his hand awkwardly on her shoulder.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Ingrid's really upset about it. Fuck. I can't believe she did this to me!
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I didn't tell you because... I didn't want you to feel like you had to marry me. I found out right before our seminar... I'm pregnant.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Well...does that sound good to you?
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	I'm still digesting Margot telling Claude. What a fucking nut job.
+	</DIALOGUE>
+<DIRECTION>
+(quickly)
+</DIRECTION>
+	<DIALOGUE>
+	Sorry. I think I'm really happy.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Ingrid is watching from across the field.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Come here, honey!
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Ingrid hurries through the sparkly, dewy grass. Pauline hugs her and they spin.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Margot watches from the upstairs window. The mother and daughter walk arm in arm down what will be the aisle. Finally, Margot turns away -- she's in Pauline and Malcolm's room.
+</DIRECTION>
+<DIRECTION>
+She opens drawers: Underwear, socks, bras. Topless photos of Pauline posing in the bedroom. A photograph of Margot and Pauline in their teens on Halloween dressed as Pat Benatar and Patty Smyth respectively.
+</DIRECTION>
+<DIRECTION>
+Margot grins.
+</DIRECTION>
+<DIRECTION>
+Another photo of Margot, Pauline and an obese woman -- Becky - - in their 20's.
+</DIRECTION>
+<DIRECTION>
+Margot's expression saddens. She opens another drawer. Polaroids of Pauline and Malcolm in different sexual poses.
+</DIRECTION>
+<DIRECTION>
+She flips through these and drops them on the bureau.
+</DIRECTION>
+<DIRECTION>
+Amidst the underwear and socks she finds pill containers. She squints to read the labels. She opens one and shakes out a few blue pills into her palm. She swallows one and puts the rest in her pocket.
+</DIRECTION>
+<DIRECTION>
+More drawers open: Self-help books, incense, pamphlets on Buddhism. A stack of pornographic DVD's.
+</DIRECTION>
+<CLAUDE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Hey.
+	</DIALOGUE>
+<DIRECTION>
+Margot starts and shoves the drawer shut.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Hey. I'm just looking at Pauline's incense and self-help books. I don't understand it. This junk makes her look stupid and she's not. I don't like to think of her this way.
+	</DIALOGUE>
+</CLAUDE>
+<CLAUDE>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	She's such a hypocrite. Somehow I'm a kook for going to therapy, but she's got enough drugs here to medicate a...
+	</DIALOGUE>
+<DIRECTION>
+(settles on a word)
+</DIRECTION>
+	<DIALOGUE>
+	...an elephant. And she's always with these losers.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Malcolm's not a loser.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Claude...think about it.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	He's cool.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	What makes you think he's cool?
+	</DIALOGUE>
+<DIRECTION>
+(softens)
+</DIRECTION>
+	<DIALOGUE>
+	I'm more talking about her investment in things like the Forum and ashrams.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	What's the Forum?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Like a cult.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	She was in a cult?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Years ago. She and Lenny also followed some guru who was a follower of the Mukdananda who made her drink his bath water. Who knows what she's doing now.
+	</DIALOGUE>
+<INGRID>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Margot! Claude!
+	</DIALOGUE>
+<DIRECTION>
+EXT. FIELD - DAY Claude hacks his way through the tall weeds.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Wizard!
+	</DIALOGUE>
+<DIRECTION>
+We move past him, obscured by grass, Pauline and Ingrid yell:
+</DIRECTION>
+<PAULINE_INGRID>
+	<DIALOGUE>
+	Wizard! Wiz!
+	</DIALOGUE>
+</PAULINE_INGRID>
+<DIRECTION>
+Margot enters the frame. The kids walk ahead.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Wizard! Here, boy!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She stands a few feet away from Pauline. The kids can be heard shouting in the distance.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	How long has he been gone?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I don't know. Ingrid brought him in last night, but we couldn't find him this morning.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Oh boy.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Did you tell Claude I'm pregnant?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	You did.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I guess I said something.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	You did. You don't have to tell him everything.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	He wants to know. If I don't tell him, he figures it out.
+	</DIALOGUE>
+</MARGOT>
+<INGRID>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Where is Wizard?
+	</DIALOGUE>
+<DIRECTION>
+Ingrid approaches with Claude.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I don't know, honey.
+	</DIALOGUE>
+<DIRECTION>
+Ingrid sinks into her mother's body. Claude and Margot walk ahead.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	You didn't let him go out into the road or something where something could've happened to him?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Why would you think I'd do something like that? That's awful.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I just... I'm just making sure.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	That's a terrible thing to say to me.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I didn't mean on purpose, I just meant maybe in case...you knew something. I'm sorry.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+INT. KITCHEN - DAY
+</DIRECTION>
+<DIRECTION>
+Margot enters and opens the refrigerator. She gets out a white wine bottle. She turns around and jumps, startled.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Woa!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Malcolm sits at the table, eating saltines out of the box, a pad and paper in front of him.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Hey, sorry. I'm here.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	No, I... I should've looked.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	I'm just writing my vows. Trying to do something appropriate but also funny -- not jokey, more character based humor.
+	</DIALOGUE>
+<DIRECTION>
+Margot pours herself a glass of wine. She looks to Malcolm to see if he wants some. He shakes his head. She takes a long drink. Silence.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	You having an okay time?
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Oh, yeah. Besides Wizard getting --
+	</DIALOGUE>
+</MALCOLM>
+<MALCOLM>
+	<DIALOGUE>
+	Yeah, we'll...we'll find him...or else, I don't know...
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	We won't.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Right, or else he's dead or something.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	It means a lot to Paul that you came.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Silence. Malcolm mumbles a tune.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Oh God, this is the same toaster we had here as kids. Paul is so weird.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	I hear you've heard the news.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Yeah. Congratulations.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Pretty cool. Hard to fully take in. It's a little abstract still. I haven't had that thing yet where you realize that you're not the most important person in the world. I'm anxious for that to happen. I guess I have to thank you -- I wouldn't know yet if you hadn't arrived.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	You're welcome.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Of course I can't help but worry I'll pass some not so great genes onto the kid. I mean, in my family there's a lot of hand washing, you know. I don't have it, but my brother does.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	You working on anything now?
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Besides the thing with Dick?
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Oh, right.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+He nods. She nods. Silence.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	How about you?
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Oh, I'm working on some acrylic paint --
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Nobody fills the ice cube trays.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Malcolm stops, immediately embarrassed. Margot is looking in freezer. She takes out the trays and brings them to sink. She runs the water.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Sorry, what were you --
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Nothing. It doesn't matter.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	No, what were you saying?
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	It really... Nothing.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She treads back to the refrigerator, balancing the full trays.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I was saying I'm doing these abstractions in acrylic paint. But it's not... I'm not getting paid or anything. I don't know, I hate that question, "What do you do?"
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	You asked me.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	I know, but...
+	</DIALOGUE>
+<DIRECTION>
+Malcolm exhales in frustration.
+</DIRECTION>
+<DIRECTION>
+EXT. FIELD - DAY
+</DIRECTION>
+<DIRECTION>
+Pauline and Malcolm open the gate to the Vogler's property.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I think we shouldn't mention the tree, we should let them know that there will be people and music on Saturday and it will be louder than usual.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	And that they can come for a glass of champagne. But you tell them. I think they respond to you better.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+They approach the Vogler's sun-worn and paint chipped house.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Well, I am ultimately one of them. You shouldn't've made me shave the stache.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+	<DIALOGUE>
+	Yeah, right.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Oh, hey, Ingrid is asking me if I was ever gay. Do you know what that's about?
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Mr. Vogler, wearing a fleece vest and carrying a hatchet over his shoulders, tramples out of the brush.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+<DIRECTION>
+Vogler stops. His face is jagged and worn.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Hi, I'm Pauline. This is Malcolm. We've met before. We're your neighbors.
+	</DIALOGUE>
+<DIRECTION>
+The man watches them strangely with icy blue eyes.
+</DIRECTION>
+<VOGLER>
+	<DIALOGUE>
+	You gonna cut that tree down?
+	</DIALOGUE>
+</VOGLER>
+<PAULINE>
+	<DIALOGUE>
+	Well, we grew up with that tree and we're getting married under it Saturday and --
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+She waits for Malcolm to jump in. He doesn't. Vogler says softly, but sternly:
+</DIRECTION>
+<VOGLER>
+	<DIALOGUE>
+	The roots are growing into our property. It's rotting, it's killing our plants.
+	</DIALOGUE>
+</VOGLER>
+<PAULINE>
+	<DIALOGUE>
+	We had a tree doctor out and he said it was healthy.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline smacks Malcolm's arm.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Would it hurt you to say anything?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	What? What do you want from me?
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	You're making me do the whole fucking thing.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	You brought up the tree.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	He brought up --
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+She stops herself. She says to Vogler:
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I'm sorry... This was better thought-through back at the house.
+	</DIALOGUE>
+<DIRECTION>
+Pauline's gaze goes above Vogler's head -- like Margot described earlier. He runs his hand through his hair as if something might be caught in there.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	We were wondering if you and your wife -- I'm sorry I forgot her name -- would like to come over for...
+	</DIALOGUE>
+<VOGLER>
+	<DIALOGUE>
+	You should ask her. She makes the plans. I'm going to go in now.
+	</DIALOGUE>
+</VOGLER>
+<DIRECTION>
+He tramps inside. The screen door bangs.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I felt like you didn't give me a chance to say what I wanted to say.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Pauline hits him in the chest and starts to walk away. Malcolm comes after her, his rage growing.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I want to punch that guy in the nose!
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	You've never hit anyone.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I have too!
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Who?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Lots of -- You don't know them. They're not around because I've punched them.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+A smile breaks across Pauline's face. Malcolm seethes.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Don't laugh, Pauline. It's not funny. I'll fucking punch your sister.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm clenches his fists. He points at Vogler's place.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	The threat is not out there. It's in our house. It's sleeping in my studio. I mean, I wouldn't actually hit her, but I feel...I feel like doing it. She's such a fucking idiot.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	She's not an idiot. You might not like her --
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	She is. She is an idiot! You're an idiot.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Jesus.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	You're both fucking morons. I'm so fucking... I'm trying so hard. You don't give me any credit.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	What is wrong?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I don't know, I have the emotional version of whatever bad feng shui would be. I don't know. You tell me, you understand this shit.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Did you drink your teas?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Yeah, I drank my fucking teas! Don't judge me now. Really, I think when you look back at this you're going to see I'm not acting like a crazy person. That this is the right reaction. In proportion with what is going on. This is right!
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm looks around furiously. The only thing available to him is a leafy stalk. He pulls on it, but it won't uproot. He tears the leaves off in a rage.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You have the most oddly self- conscious form of rage I've ever --
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I hate you.
+	</DIALOGUE>
+<DIRECTION>
+Exhausted he approaches her. He says, still with anger:
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Let's make love.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Pauline walks back to the house, buttoning her dress. She looks up suddenly and stops: A man watches her from the lawn. He holds a bouquet of flowers. Pauline runs to him.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Jim...
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+They embrace. Her hand cups the back of his neck.
+</DIRECTION>
+<CLAUDE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Dad!
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Claude runs from the house.
+</DIRECTION>
+<DIRECTION>
+EXT. PATIO - LATE DAY
+</DIRECTION>
+<DIRECTION>
+Pauline, Malcolm, Margot, Jim, Claude and Ingrid eat fish stew and peasant bread. Jim's flowers sit in a vase. He wears a tan knit bracelet that Ingrid made.
+</DIRECTION>
+<JIM>
+	<DIALOGUE>
+	It was a difficult decision because Claude has so many friends at school now, but it is expensive and Bronx Science is a great public school.
+	</DIALOGUE>
+</JIM>
+<CLAUDE>
+	<DIALOGUE>
+	I didn't get into Stuyvesant.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	He's not a good test taker.
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	I went to Stuy.
+	</DIALOGUE>
+</MALCOLM>
+<MARGOT>
+<DIRECTION>
+(caught off-guard)
+</DIRECTION>
+	<DIALOGUE>
+	Really?
+	</DIALOGUE>
+</MARGOT>
+<MALCOLM>
+	<DIALOGUE>
+	Really.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I'd rather stay at Packer, but it's so expensive.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm lifts up a bottle of Jameson from the floor near his chair and pours himself another stiff drink.
+</DIRECTION>
+<JIM>
+	<DIALOGUE>
+	Josh is a great test taker, but Claude thinks more abstractly. He's more creative. Right?
+	</DIALOGUE>
+</JIM>
+<CLAUDE>
+	<DIALOGUE>
+	I guess so.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Jim smiles warmly at his son.
+</DIRECTION>
+<JIM>
+	<DIALOGUE>
+	I saw the one armed man who really has two arms at the bodega.
+	</DIALOGUE>
+</JIM>
+<CLAUDE>
+	<DIALOGUE>
+	Did you give him confusing change?
+	</DIALOGUE>
+</CLAUDE>
+<JIM>
+	<DIALOGUE>
+	I did. I tripped him up with some nickels. And a Canadian quarter.
+	</DIALOGUE>
+</JIM>
+<MALCOLM>
+	<DIALOGUE>
+	You know what I tried the other day? Sitting down to pee. Have you done this, Jim?
+	</DIALOGUE>
+</MALCOLM>
+<JIM>
+	<DIALOGUE>
+	No...no.
+	</DIALOGUE>
+</JIM>
+<MALCOLM>
+	<DIALOGUE>
+	I did it as a lark. As a joke really. I was going to call Pauline in and say, guess what I'm doing here...
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	I'm sorry I didn't get to have that experience.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I was thinking, you know, my dad used to say, "Why stand when you can sit." And this is a really good example of that. I mean, it took me so long to try because I was embarrassed.
+	</DIALOGUE>
+<DIRECTION>
+(to the sisters)
+</DIRECTION>
+	<DIALOGUE>
+	You guys do it all the time.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I never sit down in a public place. I squat and hover.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Ingrid goes wide eyed for a moment.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Anyway, I recommend it. At least to try it.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Jim, I'm sorry about the room. It's usually Malcolm's storage room so it's kind of make-shift right now.
+	</DIALOGUE>
+</PAULINE>
+<JIM>
+	<DIALOGUE>
+	It's fine.
+	</DIALOGUE>
+</JIM>
+<DIRECTION>
+Margot stares at Jim.
+</DIRECTION>
+<JIM>
+	<DIALOGUE>
+	Margot, open your gift.
+	</DIALOGUE>
+</JIM>
+<DIRECTION>
+An unopened present in blue tissue paper sits beside Margot's plate.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I get self-conscious opening presents in front of people. This weekend is about Pauline.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Oh...poo. Open it Margot.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot slowly unties the white ribbon and peels away the tape. Pauline groans:
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Come on, get to it.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot takes out a pair of furry slippers.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Those look warm.
+	</DIALOGUE>
+<JIM>
+	<DIALOGUE>
+	I remember last year in Vermont you said your feet were freezing.
+	</DIALOGUE>
+<DIRECTION>
+Her eyes find Claude who watches his parents carefully. She leans across the table to Jim and they kiss chastely and briskly on the lips.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Thank you.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+INT. JIM'S CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+Jim drives with Margot in the passenger seat.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I already have slippers.
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+	<DIALOGUE>
+	Well, that's okay. Two sets are fine, right?
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	It makes me sad to get a present that I already have.
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	It makes me feel like you don't know me.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She jams her pinky into her ear trying to get at the bug.
+</DIRECTION>
+<JIM>
+	<DIALOGUE>
+	What's wrong with your ear?
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	I asked you not to come. I was so clear and you did it anyway so blithely.
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+	<DIALOGUE>
+	We need time alone to sort this out. You can't just run away --
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	Okay, so we're here. I'm giving you this time.
+	</DIALOGUE>
+<JIM>
+<DIRECTION>
+(trying a joke)
+</DIRECTION>
+	<DIALOGUE>
+	Well, now you're putting too much pressure on me.
+	</DIALOGUE>
+<DIRECTION>
+Jim smiles crookedly at her. She half-smiles back. He takes a moment, preparing to speak. Then:
+</DIRECTION>
+<JIM>
+	<DIALOGUE>
+	What is that?
+	</DIALOGUE>
+<DIRECTION>
+His headlights catch a woman cowering at the roadside. They pass.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Keep driving.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Jim slowly pulls over to the shoulder.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	No...no...no. Jim, no.
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+	<DIALOGUE>
+	Let me just...
+	</DIALOGUE>
+</JIM>
+<DIRECTION>
+Jim gets out of the car. A sobbing woman crouches, cradling a bloody dog.
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	Please help me.
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+Jim comes toward her.
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	Please help me. He got hit by a car. Please help me.
+	</DIALOGUE>
+</WOMAN>
+<DIRECTION>
+Margot opens her door and steps out.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(warily)
+</DIRECTION>
+	<DIALOGUE>
+	Jim...
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Jim kneels down by the whining pit bull. The woman screams:
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	Help me!
+	</DIALOGUE>
+</WOMAN>
+<MARGOT>
+	<DIALOGUE>
+	Careful, he might bite you!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Jim suddenly lifts up the twitching animal.
+</DIRECTION>
+<DIRECTION>
+INT. RENTAL CAR - NIGHT Jim drives, his front covered in blood. Margot is shot-gun. The lady rides in back with the panting pit in her lap.
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	Hurry...he's dying. He's dying.
+	</DIALOGUE>
+<DIRECTION>
+Margot puts her hands over her ears. Jim speeds up.
+</DIRECTION>
+<WOMAN>
+	<DIALOGUE>
+	He didn't do anything. Roger is an innocent. He's an innocent creature.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Oh, God.
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+	<DIALOGUE>
+	Margot.
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+<DIRECTION>
+(whispering)
+</DIRECTION>
+	<DIALOGUE>
+	I can't stand her.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. VETERINARY HOSPITAL - NIGHT
+</DIRECTION>
+<DIRECTION>
+Jim comes outside tucking his wallet in his back pocket. Margot sits on the car hood smoking a joint.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You paid, didn't you?
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+	<DIALOGUE>
+	She didn't have her purse with her. It wasn't so expensive. Roger's going to live.
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	I don't give a fuck about Roger. And...that makes me feel like shit. You make me feel like shit. I wouldn't have stopped.
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+	<DIALOGUE>
+	Of course you would've.
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	No, I wouldn't've. I would have kept driving. I hate myself when I'm with you.
+	</DIALOGUE>
+</MARGOT>
+<JIM>
+<DIRECTION>
+(frustrated)
+</DIRECTION>
+	<DIALOGUE>
+	Margot, I'm not... I can't talk to you when you're this fucked up.
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	You're just like Claude in that way...you make me feel guilty. Sometimes I find you so despicable.
+	</DIALOGUE>
+<DIRECTION>
+Margot stubs out the joint on the car roof. Jim suddenly removes his sweater and puts it around her shoulders. He fishes into his pants pocket for his keys. Tears start down Margot's cheeks.
+</DIRECTION>
+<JIM>
+	<DIALOGUE>
+	What's wrong?
+	</DIALOGUE>
+</JIM>
+<MARGOT>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Before you gave me your sweater I think I didn't realize I was cold.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot leans in to him, her forehead presses against his cheek. After a moment, he puts his arms around her.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(quietly)
+</DIRECTION>
+	<DIALOGUE>
+	Take me home and go away.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+INT./EXT. DINING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Margot smokes by the open door. She drinks a glass of white wine. Pauline eats from a left-over Chinese container.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	If it were someone else I'd understand it, I'd feel sympathy even. But since it's me, I just feel bad. And horribly critical. I haven't been able to tell Claude what's happening. And I have to. I'm going to.
+	</DIALOGUE>
+<DIRECTION>
+(frustrated)
+</DIRECTION>
+	<DIALOGUE>
+	How can I be all these people? How can I be married to Jim. And fuck Dick. And want them both and then neither of them...
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I know. We're at the age where we're becoming invisible to men and if a guy wants to fuck us, it's very tempting.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	What are you saying?
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I'm saying, if you get your sense of self from being fuckable and that starts to wane -- it's very hard. I almost had an affair too. But you know, you don't have to do it. You can, I don't know, get a manicure or something.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot grows furious. She turns to hide her face.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You know I tell people you're my closest friend. I really miss you.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(barely)
+</DIRECTION>
+	<DIALOGUE>
+	Me too.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	But I can't help feeling that you really came to my wedding because I live a mile away from the guy you're fucking.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Come on, Pauline. You make it sound like I'm using you.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+There is a long silence between them. Finally, Pauline indicates to Margot that she has something in her nostril.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You have a...
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot clears her nose quickly with her finger.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Did I get it?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Yeah, I think so.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(suddenly)
+</DIRECTION>
+	<DIALOGUE>
+	Paul, what are you doing getting married to this guy? He's not good enough for you. He's so coarse, he's like guys we rejected when we were sixteen. You know...don't make a mistake like this.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I'm sorry, maybe I have no right to say that, but you know I'm truthful so... Would you rather I lie?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Who should I be with then?
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+A smashing sound. Margot steps outside: Two hooded figures turn over a recycling can, glass smashes on the ground. Garbage is strewn across the driveway.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Hey! Hey, you! You pick that up. I will call the police. This is our property. Pick that up.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline remains seated at the table, stunned. Margot comes back inside.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Creeps.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. DRIVEWAY - MORNING
+</DIRECTION>
+<DIRECTION>
+Malcolm crams the trash back in the cans. He sees something amidst the milk cartons and corn husks. He reaches down and lifts up a severed pig's hoof.
+</DIRECTION>
+<DIRECTION>
+EXT. FIELD - MORNING
+</DIRECTION>
+<DIRECTION>
+Claude and Ingrid idle in the tall grass calling to Wizard.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Dogs usually come back, I think.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	What happened to your dad?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	He went to Vermont.
+	</DIALOGUE>
+</CLAUDE>
+<INGRID>
+	<DIALOGUE>
+	He didn't want to come to the wedding?
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	I don't think he could... I think he couldn't.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	You want to see me dance?
+	</DIALOGUE>
+<INGRID>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+<DIRECTION>
+Claude dances. The gangly weeds blow around him. There's a rustling in the brush. A patch of fur catches Ingrid's eye.
+</DIRECTION>
+<INGRID>
+<DIRECTION>
+(under her breath)
+</DIRECTION>
+	<DIALOGUE>
+	Wizard...
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+The animal is gone.
+</DIRECTION>
+<DIRECTION>
+A figure appears in the distance behind Claude. The boy, the Vogler's son, approaches shirtless in swimming trunks. Ingrid's attention goes to him.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	You're not watching.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+The boy comes into focus. He holds a dead squirrel by its tail. Ingrid backs up next to Claude. The boy stops a few feet away and hurls the squirrel at them. The kids jump back as it lands at their feet.
+</DIRECTION>
+<BOY>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+</BOY>
+<CLAUDE>
+<DIRECTION>
+(stopping)
+</DIRECTION>
+	<DIALOGUE>
+	We have to get home.
+	</DIALOGUE>
+</CLAUDE>
+<BOY>
+	<DIALOGUE>
+	Is that your girlfriend?
+	</DIALOGUE>
+</BOY>
+<CLAUDE>
+	<DIALOGUE>
+	No, she's my cousin.
+	</DIALOGUE>
+</CLAUDE>
+<BOY>
+	<DIALOGUE>
+	You a fruity?
+	</DIALOGUE>
+</BOY>
+<CLAUDE>
+	<DIALOGUE>
+	Um...no.
+	</DIALOGUE>
+</CLAUDE>
+<BOY>
+<DIRECTION>
+(to Ingrid)
+</DIRECTION>
+	<DIALOGUE>
+	You a fruity?
+	</DIALOGUE>
+</BOY>
+<INGRID>
+<DIRECTION>
+(with certainty)
+</DIRECTION>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+<BOY>
+	<DIALOGUE>
+	We will hurt you.
+	</DIALOGUE>
+<DIRECTION>
+Claude takes Ingrid's arm and they start to walk away.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	He's a Vogler.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	He's just a stupid boy.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Claude sneaks a look over his shoulder -- the boy follows. Claude's gait quickens.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Hold it, I have a rock in my sandal.
+	</DIALOGUE>
+</INGRID>
+<CLAUDE>
+	<DIALOGUE>
+	Come on, Ingrid.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Ingrid slows, lifts her leg and removes a sandal. The boy is behind them. Claude yanks Ingrid's arm and she topples over.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Oww!
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Claude leans down to help her. The boy leaps on Claude. They both crash to the ground and roll through the grass.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Get him off me. Ingrid!
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Ingrid hesitates then runs toward the house.
+</DIRECTION>
+<DIRECTION>
+Claude wrestles with the boy. The boy growls. He grabs hold of Claude's arms and sinks his teeth into Claude's shoulder.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Ayy! Help me!
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Claude kicks and yanks himself free. He runs wildly.
+</DIRECTION>
+<DIRECTION>
+Close on Claude. Tears stream down. He coughs and spits.
+</DIRECTION>
+<DIRECTION>
+INT. HOUSE - SAME
+</DIRECTION>
+<DIRECTION>
+Claude bursts through the front door. Ingrid sees Claude and runs to the kitchen. Margot, in a suit, goes over notes.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Woa, don't run so fast.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	There's a boy! He bit me!
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(alarmed)
+</DIRECTION>
+	<DIALOGUE>
+	Who bit you?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	A boy. A Vogler! Where's Ingrid?
+	</DIALOGUE>
+</MARGOT>
+<MARGOT>
+	<DIALOGUE>
+	Let me see.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+He tilts his head, she leans down and looks at his neck. There are red and purple bite marks.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(rising)
+</DIRECTION>
+	<DIALOGUE>
+	I'm calling the police.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude grabs her arm.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	No, don't! It'll get worse. Why did you say anything to them?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Claude, this isn't my fault.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	That boy bit me because you couldn't keep your fat mouth shut.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Claude, you're being a jerk.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	You shit in your shoes and then you fuck them!
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Margot smacks Claude in the face. Ingrid stares wide eyed.
+</DIRECTION>
+<DIRECTION>
+INT. BOOKSTORE - DAY
+</DIRECTION>
+<DIRECTION>
+A placard reads: A Conversation with Margot Zeller and Dick Koosman. People mull about with drinks. Pauline and Claude admire the display of Margot's books.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You really want to know? I'll tell you. She wrote a story about Lenny and me.
+	</DIALOGUE>
+<DIRECTION>
+(flips through pages)
+</DIRECTION>
+	<DIALOGUE>
+	Yeah, it's in here. I mean we were talking almost every day at this point and there was no warning. Maybe a couple of remarks that she'd used some things of ours... Then The New Yorker comes -- we have a subscription -- and there's the story and... It's things we said and did -- stuff I told her in confidence. I think it helped end our marriage. I read it and thought, "She hates me."
+	</DIALOGUE>
+</PAULINE>
+<CLAUDE>
+	<DIALOGUE>
+	She doesn't hate you.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Pauline stares at a blown up author photo of her sister.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You think? Margot tried to murder me when we were girls. She put me on a baking sheet, sprinkled me with paprika and put me in the oven.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+The crowd files in. Margot and Dick stand in a corner.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Jim was here.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Dick flips through some notes.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	Is Jim still writing?
+	</DIALOGUE>
+</DICK>
+<MARGOT>
+<DIRECTION>
+(nods)
+</DIRECTION>
+	<DIALOGUE>
+	I told him to go to Vermont without me.
+	</DIALOGUE>
+</MARGOT>
+<DICK>
+	<DIALOGUE>
+	I'd love to see him tell a linear story for a change. Jim never wanted to make it easy for the reader, did he. The nicest man I've ever met, but he can't play the game.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I'm not joining him. I'm going to stay here and then...we'll see. Right. Okay?
+	</DIALOGUE>
+<DICK>
+	<DIALOGUE>
+	I didn't ask you to do that.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	The guy's pointing at us...
+	</DIALOGUE>
+</DICK>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Margot and Dick sit on stools holding microphones in front of rows of fold-out chairs. Only a few empty seats remain. Pauline and Claude sit in the back.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	I'm very interested in your story "Middle Children."
+	</DIALOGUE>
+</DICK>
+<DIRECTION>
+Some people applaud, but it trickles off before it gets started.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	The father is a loathsome character yet we also feel a strange sympathy for him.
+	</DIALOGUE>
+</DICK>
+<MARGOT>
+	<DIALOGUE>
+	Yeah, well I was very interested in exploring a father-daughter relationship. While he clings desperately to her, suffocates her really, he also silently resents the responsibility of parenthood.
+	</DIALOGUE>
+</MARGOT>
+<DICK>
+	<DIALOGUE>
+	There's this sexualized push-pull with Daphne which I find --
+	</DIALOGUE>
+</DICK>
+<MARGOT>
+	<DIALOGUE>
+	He craves isolation really. I always thought of him as someone who so over identifies with everyone around him that he begins to lose all sense of himself.
+	</DIALOGUE>
+</MARGOT>
+<DICK>
+	<DIALOGUE>
+	You make his only recourse to abandon his family, including his beloved daughter.
+	</DIALOGUE>
+</DICK>
+<MARGOT>
+	<DIALOGUE>
+	Right, that's true. That's true.
+	</DIALOGUE>
+<DICK>
+	<DIALOGUE>
+	I write historical fiction so I don't have to answer to this, but I wonder for someone who writes so nakedly about family, how autobiographical is this portrait?
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot rests her lips on the tip of the microphone.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	My father was a loving person. He had his days, of course, but...he was devoted to us as children. I wouldn't have written this portrait were it true.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline nods slightly.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	But I'm interested in how the father could be in fact a portrait of you.
+	</DIALOGUE>
+<DIRECTION>
+Margot stares, dumbstruck.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Umm...I don't... Why do you assume it's based on... We all take from life. I had to have our refrigerator repaired the other day at our apartment in Manhattan. I was alone with a guy, I think he was Puerto Rican, sent over by...Whirlpool, I think it is who made our fridge. Although he said he worked for an independent organization who Whirlpool subcontracts. I think he was retarded. There was an anger in him and suddenly I became afraid for my life. I called Jim at NYU. I asked him to come home.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot stops. Her face is awash in sweat.
+</DIRECTION>
+<DIRECTION>
+Pauline takes Claude's hand and presses it to her chest. His eyes widen, fixed on his mother.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	It might be Frigidaire... I'm sorry... I don't... I'm not sure what I'm... I think I need to take a moment...
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She stands and walks off the stage. She realizes she still has the mike. She goes back and places it on her seat.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(almost incoherently)
+</DIRECTION>
+	<DIALOGUE>
+	You're an asshole...
+	</DIALOGUE>
+<DIRECTION>
+INT. BOOKSTORE BATHROOM - MOMENTS LATER
+</DIRECTION>
+<DIRECTION>
+Margot grabs a pill from her pocket, puts it on her tongue and drinks from the faucet. There is a knocking. Margot opens the door. Claude looks up at her. Pauline and Dick wait in the background.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I need to be alone right now, okay?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	What's wrong?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I don't know. I'll tell you sometime. Go on.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Are you sure?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Yes. Go with mom. I'll see you later.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	You said, mom.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+<DIRECTION>
+(snapping)
+</DIRECTION>
+	<DIALOGUE>
+	But you know what I mean. Go with Pauline. Jesus, do I...do I need to spell it out for you?
+	</DIALOGUE>
+<DIRECTION>
+(she points)
+</DIRECTION>
+	<DIALOGUE>
+	Go. With. Her.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+INT. CHURCH - DAY
+</DIRECTION>
+<DIRECTION>
+A simple, spare space, empty except for Pauline and Claude.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Are you okay?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I'm okay.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	You're your mom's favorite. Do you know that?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I don't think she has a favorite.
+	</DIALOGUE>
+</PAULINE>
+<PAULINE>
+	<DIALOGUE>
+	She's always liked you best. More than Jim even.
+	</DIALOGUE>
+</PAULINE>
+<CLAUDE>
+	<DIALOGUE>
+	But they're married. It's different.
+	</DIALOGUE>
+</CLAUDE>
+<PAULINE>
+	<DIALOGUE>
+	But she still loves you best. It's hard, I think, to find people in the world you love more than your family.
+	</DIALOGUE>
+</PAULINE>
+<CLAUDE>
+	<DIALOGUE>
+	I like Malcolm.
+	</DIALOGUE>
+</CLAUDE>
+<PAULINE>
+	<DIALOGUE>
+	Yeah? Good. I don't know. I do too.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I can teach you to swim if you like.
+	</DIALOGUE>
+</PAULINE>
+<CLAUDE>
+	<DIALOGUE>
+	No, thanks.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Claude looks at the floor. His sneaker rests next to her open toed sandals. She taps his foot with hers.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Has your mother talked to you yet?
+	</DIALOGUE>
+</PAULINE>
+<CLAUDE>
+	<DIALOGUE>
+	I don't think so. About what?
+	</DIALOGUE>
+</CLAUDE>
+<PAULINE>
+	<DIALOGUE>
+	Are you okay? It's hard to see your mom like that -- get attacked like that. Right? It was mean what he did. I think it was really shitty.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Mm hm.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	You know, I think your mom's going through a rough time right now and...whatever she tells you...like if she says she's leaving your father...remember that she often changes her mind and... I don't want you to worry about anything right now.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Claude says nothing.
+</DIRECTION>
+<DIRECTION>
+EXT. HOUSE - LATE DAY
+</DIRECTION>
+<DIRECTION>
+Pauline's Volvo rolls into the drive. She and Claude get out of the front seats. Margot climbs out of the back holding a big cake box. No one speaks.
+</DIRECTION>
+<DIRECTION>
+Malcolm, in a fleece vest and safety goggles, drags a chainsaw toward the oak tree. Ingrid runs to her mom.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	He's cutting it down.
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+	<DIALOGUE>
+	Good.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline passes Maisy reading on the patio.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	My dad's late to pick me up. I hope I'm not a pain.
+	</DIALOGUE>
+</MAISY>
+<PAULINE>
+	<DIALOGUE>
+	You're not a pain.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot sits on the back stairs drinking a glass of wine with ice. The tent is up. The tables and chairs are placed around the lawn. She watches Malcolm prepare to take the tree down. She puts her pinky in her ear and twists. Claude approaches.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I told Paul I didn't want you guys to come.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I thought it was interesting.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	What did Paul say?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I think she liked it.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Yeah, right. Did you talk about me afterwards?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I can tell you're lying.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	We didn't, mom.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I don't trust her.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	She really loves you. She does.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Margot tosses the remainder of her drink into the weeds.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Pauline told me she's very disappointed in you.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	She thinks you laze about the house. Ingrid is always offering to help clean or cook. She made bracelets for all the guests. Even Malcolm puts up the tent. You just wait until everyone else does it for you.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	That's not true.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	It is true. You're never helpful. I wish I had taught you better manners.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I can try to make popovers. If I can remember how.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Don't bother.
+	</DIALOGUE>
+<DIRECTION>
+She looks at him with grave disappointment.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Why are you looking at me like that?
+	</DIALOGUE>
+</MARGOT>
+<MARGOT>
+	<DIALOGUE>
+	I just see how much you've changed. Your body language. You used to be rounder and more graceful. You're so stiff now. So blase.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+<DIRECTION>
+(retreating)
+</DIRECTION>
+	<DIALOGUE>
+	I can't explain it.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot shakes her head. She's suddenly distraught.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	It's okay though.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Claude looks devastated. He starts toward the beach. Margot's eyes well up -- she says, trying to make things better:
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You're still handsome.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. HOUSE - SAME
+</DIRECTION>
+<DIRECTION>
+Pauline marches toward Malcolm. Malcolm wears the safety goggles and revs the chainsaw.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Are you able to do this yourself?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Pauline, do you want me to cut it down or not?
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Watch the tent.
+	</DIALOGUE>
+<DIRECTION>
+The jagged blades pierce the trunk. Pauline crunches her face. Malcolm stops suddenly. He walks around the tree and inspects the bark.
+</DIRECTION>
+<MALCOLM>
+<DIRECTION>
+(indicating his fleece)
+</DIRECTION>
+	<DIALOGUE>
+	I liked how it looked on Vogler.
+	</DIALOGUE>
+<DIRECTION>
+Pauline starts to say something -- stops. Then:
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I think it's over between Dick and Margot. He was so cruel to her today. And poor Claude had to watch it all. She should just get out of the marriage and then she can fuck whoever she wants, you know. It's cowardly. And Dick Koosman. What a choice. I mean...you know?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I agree. I hate the idea of Dick fucking Margot.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	What does that mean? You want to fuck Margot?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Pauline, that's not what I said.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	I know you have a crush on her, you already told me that.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Malcolm reddens and starts the chainsaw again. They yell over the noise:
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I didn't say that. I said I thought she was attractive after you grilled me. She has no interest in me anyway. Not that it would matter if she did.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Have you ever done anything like that.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	Have you ever cheated on me?
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+<DIRECTION>
+Malcolm shuts the motor.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Can I do this?
+	</DIALOGUE>
+</PAULINE>
+<PAULINE>
+	<DIALOGUE>
+	Those emails you had with that student of mine.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+<DIRECTION>
+(exhales)
+</DIRECTION>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Did that...I know you said it was nothing.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	It was.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	I just... Can you say it again?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I just did. Now, can I cut down the tree?
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	You never did anything with her?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	No. She emailed me after we met at that reading at the college and... You know we were friends.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	Right, just a regular friendship between you and a twenty year old girl.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Pauline, how many times do I have to say it.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	But...why don't I believe it?
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	Because Margot can't understand why you're with me and now when she's around you look for things.
+	</DIALOGUE>
+<PAULINE>
+<DIRECTION>
+(hesitates)
+</DIRECTION>
+	<DIALOGUE>
+	You promise.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	I promise.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline looks at him long and hard. Malcolm takes off his goggles.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Okay. I'm sorry.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	It's okay.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Malcolm and Pauline continue to stare at one another. He guns the chainsaw. Tears spill suddenly from his eyes. Pauline startles. He flicks the switch off.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I'm going to tell you something.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+<DIRECTION>
+(suddenly terrified)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	I don't want to lose you, though. Okay?
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Pauline's face goes pale.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I'm going to tell you... Just let me... Maisy...
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Pauline teeters.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I don't want to know.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	...we didn't really do anything. We were goofing around, I was making fun of her cause she dates a jock...
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I don't want to know.
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	I shouldn't've put myself in that position, I know that. We brushed lips really. It was barely a kiss. And then we stopped. That was it.
+	</DIALOGUE>
+<DIRECTION>
+His nose runs. He wipes it messily with his arm.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Our tongues touched. I don't want to under-sell it either. I mean... We made out. I made out with her. I don't know why. I don't even like her. It's been a heady time.
+	</DIALOGUE>
+<DIRECTION>
+(Pauline says nothing)
+</DIRECTION>
+	<DIALOGUE>
+	What are you thinking? Please, tell me what you're thinking.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Pauline rushes at the tree -- she smacks her hands on the trunk and throws all her weight behind one great shove. It doesn't budge. In frustration and rage, she runs.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Ingrid is the only one on the patio as Pauline approaches.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Has anyone seen Wizard?
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+	<DIALOGUE>
+	No. Where's Maisy?
+	</DIALOGUE>
+</PAULINE>
+<INGRID>
+	<DIALOGUE>
+	Upstairs, I think with Claude.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+INT. PAULINE'S BEDROOM/HALLWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Pauline enters in a daze. A toilet flushes. Maisy comes out of Pauline's bathroom.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	Oh, hi. Sorry, I had to go. I hope that's okay I used yours.
+	</DIALOGUE>
+</MAISY>
+<DIRECTION>
+Pauline nods strangely. She goes to the window. Her dove grey wedding dress hangs on the back of the door.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	I love your wedding dress. It's so unconventional and great.
+	</DIALOGUE>
+<DIRECTION>
+Pauline nods. Her eye catches the Polaroids of her and Malcolm nude which lie on top of the bureau. Maisy looks at the pictures too. Maisy shifts uneasily and leaves the room. Pauline follows. Maisy walks down the hallway, aware that Pauline is right behind her.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	Is everything okay?
+	</DIALOGUE>
+</MAISY>
+<PAULINE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Nothing.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Maisy stops at the landing. Claude sits at the bottom of the staircase playing with a string.
+</DIRECTION>
+<MAISY>
+	<DIALOGUE>
+	Claude, do you want to play croquet?
+	</DIALOGUE>
+</MAISY>
+<CLAUDE>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Pauline raises her leg -- her foot hovers at Maisy's lower back. She hesitates. Claude reacts with horror. Maisy turns around to see Pauline with her foot in the air like she's doing karate. Pauline's eyes dart around aimlessly.
+</DIRECTION>
+<DIRECTION>
+Maisy stares, confused. Pauline slowly lowers her leg. Something dawns on Maisy. She races down the stairs.
+</DIRECTION>
+<DIRECTION>
+EXT. HOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+The deafening shriek of the blade as it cuts into the tree. Malcolm is soaked in sweat. Ingrid watches from a few feet away.
+</DIRECTION>
+<DIRECTION>
+In the distance -- Dick's orange BMW grinds into the driveway. Maisy hurries toward him.
+</DIRECTION>
+<DIRECTION>
+Ingrid says, buried in the noise:
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	There's Dick.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Malcolm sees Dick. He pushes the blade harder into the wood.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Is it almost ready?
+	</DIALOGUE>
+<MALCOLM>
+<DIRECTION>
+(distracted)
+</DIRECTION>
+	<DIALOGUE>
+	Almost.
+	</DIALOGUE>
+<DIRECTION>
+Maisy is talking to her father. Dick spots Malcolm. He immediately starts toward him. Malcolm hesitates. Cold fear creeps up his neck.
+</DIRECTION>
+<DIRECTION>
+Dick speeds up. Malcolm backs up slowly -- drops the chainsaw -- and bolts toward the water. Ingrid watches, confused.
+</DIRECTION>
+<DIRECTION>
+Dick takes off after him. Malcolm stumbles down the long wooden stairs to the beach.
+</DIRECTION>
+<DIRECTION>
+Malcolm runs wobbily -- he pants, already out of breath. Sweat pours down his face and body.
+</DIRECTION>
+<DIRECTION>
+Dick's gait is swift -- his arms stiff, bent at the elbow. His jeans make a swish swish. He takes the stairs two at a time.
+</DIRECTION>
+<DIRECTION>
+Malcolm grasps the railing, moving as fast as he can sideways, trying not to fall. He reaches the beach, his feet sinking in the sand. He trips and topples forward.
+</DIRECTION>
+<DIRECTION>
+He looks up -- Dick lunges.
+</DIRECTION>
+<DIRECTION>
+Dick pounds Malcolm's head and face. Malcolm throws his arms up and tries to block the punches.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I didn't do anything! I didn't do anything!
+	</DIALOGUE>
+</MALCOLM>
+<DICK>
+	<DIALOGUE>
+	Fucking sleazebag!
+	</DIALOGUE>
+</DICK>
+<DIRECTION>
+Dick gets up. He kicks Malcolm hard.
+</DIRECTION>
+<DICK>
+	<DIALOGUE>
+	I don't ever want to see you again.
+	</DIALOGUE>
+</DICK>
+<DIRECTION>
+Malcolm balls himself up against a rock. He cries:
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Fuck off, dickhead.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+Dick marches forward and kicks Malcolm again hard.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Ow!
+	</DIALOGUE>
+<DIRECTION>
+Dick lights a brown cigarette and walks away. Malcolm screams:
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	Fucking dickbag! She's lying!
+	</DIALOGUE>
+<DIRECTION>
+He touches his face and sees the blood on his fingers.
+</DIRECTION>
+<MALCOLM>
+<DIRECTION>
+(choking on tears)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, man.
+	</DIALOGUE>
+</MALCOLM>
+<DIRECTION>
+There's a rustling noise in the wind. Malcolm looks -- a mud- and sea-coated Wizard watches him with a panting smile.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Wheels sputter in the gravel. Dick's car peels out with Maisy in the passenger seat. Claude and Margot watch from the porch.
+</DIRECTION>
+<DIRECTION>
+INT. LIVING ROOM/DINING ROOM - SAME
+</DIRECTION>
+<DIRECTION>
+Pauline is seated at the table with place cards, flowers, silverware, napkins, dishes. Margot enters. Claude follows.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Come with me to New York.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I can't talk about it --
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Okay, but you can't marry him. You have to go now. We can think about what to do with the baby --
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+<DIRECTION>
+(stands)
+</DIRECTION>
+	<DIALOGUE>
+	Margot, I can't --
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Don't turn vague, listen to me --
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I want you to pack all your things and get out of here. You can take our car and leave it at the ferry.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(startled)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	I'll help out more. I can make popovers.
+	</DIALOGUE>
+<DIRECTION>
+Pauline looks at Claude strangely. She leans down and kisses him on the lips.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Do you love me?
+	</DIALOGUE>
+<DIRECTION>
+(Claude nods)
+</DIRECTION>
+	<DIALOGUE>
+	Good.
+	</DIALOGUE>
+</MARGOT>
+<MARGOT>
+	<DIALOGUE>
+	Don't take this out on me? I'm on your side.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	No, you're not. You're not.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I've kept my mouth shut because --
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	No, you haven't kept your mouth shut! No you haven't...kept your mouth shut...
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Okay, I told you and I was right. He's done an insane thing. You don't know this man. What he did is criminal.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Margot, I can't...
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	It's pedophilia.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Get out!
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline shoves a stack of plates and silverware off of the table. The plates shatter. Silence save for their breathing.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Becky and I talk about you -- about what a monster you are. Is it cause Mom gave me the house? Can't I have anything? What was I thinking? I let you in. Get! Out!
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	What? What are you saying? I don't recognize you -- it's like you're channelling someone.
+	</DIALOGUE>
+<PAULINE>
+<DIRECTION>
+(suddenly)
+</DIRECTION>
+	<DIALOGUE>
+	Ingrid!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. FIELD - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+The purple of Ingrid's batik shirt shines in the grass beneath the tree.
+</DIRECTION>
+<DIRECTION>
+The trunk -- a gash at its base -- teeters.
+</DIRECTION>
+<DIRECTION>
+Pauline takes off into the field.
+</DIRECTION>
+<DIRECTION>
+Ingrid sings to herself and traces the branches in the air with her finger.
+</DIRECTION>
+<DIRECTION>
+Pauline sprints --
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Ingrid!
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Ingrid says to no one in particular:
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Pauline's breaths are rapid, jagged.
+</DIRECTION>
+<DIRECTION>
+Ingrid stands.
+</DIRECTION>
+<DIRECTION>
+A wind whips up. The tree sways.
+</DIRECTION>
+<DIRECTION>
+Pauline thrusts her arms out, seizes Ingrid and hurls herself away from the tree.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Ow!
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Ingrid sobs as they run. Pauline looks back. The tree is still standing. They embrace a few feet out of its range.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	It wasn't going to fall!
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I'm sorry.
+	</DIALOGUE>
+<DIRECTION>
+Malcolm trudges up the stairs. He's bloody and tattered. Wizard trots behind him.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Wizard!
+	</DIALOGUE>
+<DIRECTION>
+She hugs the dog and holds him by the collar. The three of them stand a few feet apart. There's a horrible creak -- and suddenly --
+</DIRECTION>
+<DIRECTION>
+-- crack --
+</DIRECTION>
+<DIRECTION>
+Malcolm pulls both girls toward him --
+</DIRECTION>
+<DIRECTION>
+The tree topples -- the thick trunk rips through the wedding tent and crashes through tables and chairs and the fence --
+</DIRECTION>
+<DIRECTION>
+-- onto the Vogler's property.
+</DIRECTION>
+<DIRECTION>
+INT. VOLVO - DAY
+</DIRECTION>
+<DIRECTION>
+The speedometer needle wavers around 30. Margot clutches the steering wheel. Claude looks morose. Pauline and Ingrid sit stonily in the back seat. The Volvo jerks into the oncoming lane and back. Margot draws a deep breath.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	I thought you couldn't drive.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+<DIRECTION>
+(irritated)
+</DIRECTION>
+	<DIALOGUE>
+	I can drive. Why does everyone say that? I used to drive.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+They inch up a small hill. A car cascades down past them. The Volvo shakes. Pauline suddenly snaps out of her daze:
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	We have to call people and cancel.
+	</DIALOGUE>
+</PAULINE>
+<INGRID>
+	<DIALOGUE>
+	What happened? Can I still sing?
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+Margot rolls down the window.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(to Claude)
+</DIRECTION>
+	<DIALOGUE>
+	You do smell.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Well, I'm not wearing any deodorant.
+	</DIALOGUE>
+<DIRECTION>
+They reach the top of the hill, over the crest, and descend. The vehicle picks up speed. Margot presses down on the brake.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Shit.
+	</DIALOGUE>
+</CLAUDE>
+<CLAUDE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I don't think...
+	</DIALOGUE>
+<DIRECTION>
+(she pumps again)
+</DIRECTION>
+	<DIALOGUE>
+	No... We don't have brakes.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+<DIRECTION>
+(resigned)
+</DIRECTION>
+	<DIALOGUE>
+	The brakes are bad, that's right.
+	</DIALOGUE>
+</PAULINE>
+<CLAUDE>
+	<DIALOGUE>
+	What does that mean?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	What do you think it means?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I mean, what can we do?
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+The car coasts faster down the hill.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Mom.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Margot places her arm stiffly across Claude's front.
+</DIRECTION>
+<DIRECTION>
+Pauline wraps her body around her daughter.
+</DIRECTION>
+<DIRECTION>
+Margot swerves into the shoulder -- she makes a sharp turn into the forest and crashes through the bramble and muck. The car slows until it comes to a sudden stop at the base of a tree.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Margot and Claude, Pauline and Ingrid trudge through the bony white trees of the forest -- their bags weigh them down. They're all covered in sweat and there's dirt caked on their feet and ankles.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I ruined these shoes.
+	</DIALOGUE>
+<DIRECTION>
+Pauline's face screws up. She's suddenly in pain. She races behind a tree. Margot follows.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	Mom, are you okay?
+	</DIALOGUE>
+<PAULINE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Don't look!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot stops.
+</DIRECTION>
+<PAULINE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Shit!
+	</DIALOGUE>
+</PAULINE>
+<INGRID>
+	<DIALOGUE>
+	Mom, what happened?
+	</DIALOGUE>
+</INGRID>
+<PAULINE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Nothing.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot steps to see around the trunk. The kids follow behind. Pauline removes her panties from under her skirt. She tosses them in the brush.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	Fuck.
+	</DIALOGUE>
+<DIRECTION>
+Margot turns to the kids. Ingrid hides a smile.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Did she poop in her pants?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	It happens to everyone. Not just babies. It'll happen to you too someday.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. FERRY - DAY
+</DIRECTION>
+<DIRECTION>
+Margot and Claude sit, streaked with mud and perspiration. Margot drinks a beer, Claude a Coke. Margot pops a blue pill in her mouth and swallows. Ingrid swings on the rail.
+</DIRECTION>
+<DIRECTION>
+Pauline hangs up a cell phone and hands it back to her sister. She takes the beer and swigs.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I left mom and Becky a message.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I don't think mom knows how to work the machine.
+	</DIALOGUE>
+<DIRECTION>
+Margot puts her pinky in her ear.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I can hear it flapping.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	You should take care of that. It can hatch eggs.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude turns his head. In the Chevy next to them sits Mrs. Vogler and the Vogler boy. She sings along to the radio. She runs her hand through her son's hair gently. He nestles into her shoulder.
+</DIRECTION>
+<DIRECTION>
+EXT. SEASIDE TOWN STREET - EVENING
+</DIRECTION>
+<DIRECTION>
+The four of them get out of a taxi. A small, peeling hotel.
+</DIRECTION>
+<DIRECTION>
+INT. HOTEL ROOM - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+A dark tight space with a faded and dirty green wall-to-wall carpet. Pauline combs Ingrid's hair on one of the two double beds. Ingrid practices her wedding song. Claude sits on the other bed and looks into the open bathroom door: Margot stands with her back to him. She talks on her cell phone in a whisper. She hangs up. Claude walks inside. The sink drips.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Sweety, there's a bus that leaves to Vermont from town tomorrow morning. I just talked to your dad and he's going to pick you up.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Aren't you coming?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Why not?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I have to help out Paul and Ingrid.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude tugs gently on his yellow bracelet.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	I don't want to go tomorrow.
+	</DIALOGUE>
+<DIRECTION>
+The distant bong of a low drum and beneath that -- chanting. Claude follows Margot to the window. Ingrid and Pauline are already looking out. Clumps of demonstrators march in the street. Some people hold up signs with slogans -- NO MORE -- BRING BACK -- the rest is obscured from the window. Some marchers are dressed in black hoods with white face paint and carry cardboard coffins.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	There's Malcolm.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline points to a guy in a vest. As he turns around we see it isn't him. Pauline withdraws, suddenly on the verge of tears.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I can't live in that house alone.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You're going to be fine.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Maybe...maybe I could get a place in Brooklyn -- Williamsburg or something. People are living there right?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You don't want to live there. It's all young people.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	But what do you think of that idea?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Maybe. Let's see. You know if you don't want to come with me, I'm sure mom will let you stay with her --
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+<DIRECTION>
+(through tears)
+</DIRECTION>
+	<DIALOGUE>
+	You're already trying to pass me off on mom...
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Don't say that. Come on, you'll come home with us.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	You don't even know where you're going to live. You might have to move in with mom too.
+	</DIALOGUE>
+<DIRECTION>
+Margot tightens.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	What? Oh.
+	</DIALOGUE>
+<DIRECTION>
+(mouthing a whisper)
+</DIRECTION>
+	<DIALOGUE>
+	Didn't you tell him?
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot looks at her son who continues to watch out the window.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Pauline emerges from behind the armoire doors wearing a long nightshirt that reads: I Spent The Night With Arsenio Hall. She enters the bathroom. She mutters to herself.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	What have I done? What have I done?
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot jimmies up the stiff window to let in some air. A few stragglers still march in the street. Trash and pieces of signage line the gutter. Margot turns into the room. She puts her hand to her cheek and strokes her smooth skin. She watches her son who removes his jeans for bed.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Nothing. Just then I felt so much love for you.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Pauline tucks in Ingrid who lies next to Claude. Margot sits on the other bed scribbling in her brown notebook. Pauline marches around and across to the other side of the room. She snatches the book out of Margot's hands.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Hey!
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	You cannot write about this. You can't have it.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	I wasn't writing about you.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	You already took a part of my life, you can't have any more. And that goes for Ingrid and Malcolm and Wizard. We all own our own rights. They're not for sale.
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Give it back.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline glances at the book.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	If I could read your handwriting I'm sure I'd be furious. But if I ever see a story that involves a hotel room or any of this shit, I will fucking take your bowels out.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline thrusts the book back at Margot --
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+The kids sleep in one bed. Margot and Pauline lie awake in the other.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	You've now successfully ruined two of my marriages.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You're not wearing any underwear.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	It's hot, I'm pregnant. Move over. Jesus.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	You're not hot, your feet are cold.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Stop touching me. I am so hot. Feel my head.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Margot puts her lips to Pauline's forehead.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You have a fever.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	I don't have a fever... I'm pregnant...are you always like this?
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	Get used to it... Mom and Becky share a bed -- you and I will probably get the other.
+	</DIALOGUE>
+</PAULINE>
+<PAULINE>
+	<DIALOGUE>
+	You should just go to Vermont.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I was thinking -- you know if you want -- you and Ingrid could go to Vermont. Keep Claude company and Jim adores you.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	You don't like Malcolm because you're not attracted to him.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	Will you do it?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	No. I won't do that for you.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Did you two talk about me in town? What did you say?
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I told him you often change your mind.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+INT. BAR/RESTAURANT - MORNING
+</DIRECTION>
+<DIRECTION>
+Cheap plastic tables. A small karaoke stage in front. Margot, Claude, Pauline and Ingrid sit at the bar. Margot drinks her wine with ice. She wears Jim's sweater. The kids have Cokes. The remains of ketchup-soaked french fries in a plastic red basket lie between them.
+</DIRECTION>
+<DIRECTION>
+A man with a mullet climbs up on the karaoke stage. The music begins. The man sways and sings "On and On" by Stephen Bishop. He croons sweetly and beautifully. Claude's eyes moisten. Margot swallows a blue pill and chases it with the wine. She takes her son's hand and whispers:
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I'm sorry, sweety. There's something wrong with me.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I'm going to call him.
+	</DIALOGUE>
+<DIRECTION>
+Margot quickly turns to her sister.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	No. Don't. I'm telling you.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	I...I need some clothes and things.
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	He should get the hell out of our house.
+	</DIALOGUE>
+</MARGOT>
+<PAULINE>
+	<DIALOGUE>
+	Okay. I'll tell him to get the hell out of our house.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline walks over to a pay phone.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+Pauline holds the receiver to her ear. She stares at a drawing of a monster fucking a woman on the wall above the pay phone. Malcolm is crying.
+</DIRECTION>
+<MALCOLM_S_VOICE>
+	<DIALOGUE>
+	The tent looks so lonely.
+	</DIALOGUE>
+</MALCOLM_S_VOICE>
+<PAULINE>
+	<DIALOGUE>
+	It has no one to get married in it.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+EXT. HOUSE - INTERCUT
+</DIRECTION>
+<DIRECTION>
+Malcolm sits in the grass, the tree and wreckage behind him.
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I know. And it's smashed. I'm such a fucking idiot. Please don't take me seriously. I mean take me seriously, but not the fucked up parts, you know. I love you so much. Please marry me.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	You can't do what you did again. Do you understand?
+	</DIALOGUE>
+<MALCOLM>
+	<DIALOGUE>
+	I promise.
+	</DIALOGUE>
+<PAULINE>
+	<DIALOGUE>
+	No matter how tempting.
+	</DIALOGUE>
+<DIRECTION>
+At the bar: Margot watches her sister carefully. She absent- mindedly picks through her red knit bracelet and drops it onto the floor. Ingrid slides something small and grey across the bar to Claude.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	You left it in my room.
+	</DIALOGUE>
+</INGRID>
+<DIRECTION>
+It's a piece of fingernail. He hesitates then puts it in his pocket.
+</DIRECTION>
+<DIRECTION>
+At the phone: Pauline rests her head against the wall. Malcolm is bawling on the other end.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I don't know. I don't know.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Malcolm clutches Wizard and sputters:
+</DIRECTION>
+<MALCOLM>
+	<DIALOGUE>
+	I ate some of the cake. I don't know why, but I did it.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	What was... How was it?
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Good.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	It's not too sweet? They sometimes make their stuff too sweet.
+	</DIALOGUE>
+</PAULINE>
+<MALCOLM>
+	<DIALOGUE>
+	Maybe. Maybe it was. I didn't even notice... They fucked up the cake. How sad. I love our little baby. I miss you.
+	</DIALOGUE>
+</MALCOLM>
+<PAULINE>
+	<DIALOGUE>
+	I miss you too. Maybe we should do another seminar.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Malcolm says something incomprehensible.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	I can't understand you, honey.
+	</DIALOGUE>
+<DIRECTION>
+Margot finishes her glass of wine, her eyes still on her sister.
+</DIRECTION>
+<INGRID>
+	<DIALOGUE>
+	There's gramma and Aunt Becky!
+	</DIALOGUE>
+<DIRECTION>
+Margot startles and looks out the window. Across the street is an older woman, 70's, and a large woman, mid 30's, eating ice cream cones and looking in a boarded-up shop window.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	They didn't get my message.
+	</DIALOGUE>
+</PAULINE>
+<DIRECTION>
+Pauline now stands above them.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I told you she can't work the machine --
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Ingrid's chair scrapes as she stands. She takes her mother's hand. Margot remains seated.
+</DIRECTION>
+<PAULINE>
+	<DIALOGUE>
+	What? You're not coming?
+	</DIALOGUE>
+</PAULINE>
+<MARGOT>
+	<DIALOGUE>
+	I'm coming, I'm coming. What did he say?
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Pauline and Ingrid head for the door. Claude waits for Margot.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	What did he say?
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She grabs her bags and drops some bills on the table.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(to herself)
+</DIRECTION>
+	<DIALOGUE>
+	Don't worry, I got it.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+EXT. STREET - MORNING
+</DIRECTION>
+<DIRECTION>
+The sisters and children come outside. The mother and Becky now idle further down the street.
+</DIRECTION>
+<PAULINE_INGRID>
+	<DIALOGUE>
+	Mom!/Nana!
+	</DIALOGUE>
+</PAULINE_INGRID>
+<DIRECTION>
+Margot takes Claude's arm and walks quickly in the opposite direction. Claude, confused, glances over his shoulder.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Don't look. Keep walking.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Why are we --
+	</DIALOGUE>
+<MARGOT>
+	<DIALOGUE>
+	We have to get you to your bus.
+	</DIALOGUE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+A huge parking lot. A bus in the distance. Claude tries to keep pace with his mother.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Did you do something?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	What do you mean, do something?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I mean, why is the wedding not happening? Is there something that you did?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Pauline has transferred all her stuff onto me. I don't understand her anymore. Why'd she pick this man? It is really berserk. And you know, she referred to me as her closest friend. We never see one anoth --
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+An unfamiliar sound comes out of Margot. The sadness is unexpected -- she sobs uncontrollably. She tries to speak:
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	I mean we're not close. Even if we want to be. You know?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	But was there anything real?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	No! How many times do I have to say it? Jesus. You think so little of me.
+	</DIALOGUE>
+<DIRECTION>
+(through her sobs)
+</DIRECTION>
+	<DIALOGUE>
+	It's good you're going. You shouldn't be around me either. I'd go if I were you...
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Will you find Pauline and Nana after I leave?
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(half-serious)
+</DIRECTION>
+	<DIALOGUE>
+	I don't know. Maybe I'll go to church.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot is sweating. She wipes her brow with her sleeve. She periodically looks behind her. Nobody seems to be following.
+</DIRECTION>
+<CLAUDE>
+<DIRECTION>
+(growing nervous)
+</DIRECTION>
+	<DIALOGUE>
+	Are you angry at me?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	No, honey. I'm not mad at you.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I don't want to go with you mad at anyone.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Everything's fine. I'm not mad at anyone.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Up ahead is a tiny depot. People climb onto a white bus.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Can you come with me?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	No, you know that.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	We should talk about the next few months a little bit and what's going to happen --
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I don't like Vermont.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Your dad will be very happy to see you. And I'm sure Josh is dying to hang out.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Please come, mom.
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(suddenly irritable)
+</DIRECTION>
+	<DIALOGUE>
+	Claude, stop it. Okay?
+	</DIALOGUE>
+<DIRECTION>
+She watches a man sustain a long embrace with another man. Margot closes her eyes. She breathes deeply.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You used to need me to watch you when you played.
+	</DIALOGUE>
+</CLAUDE>
+<CLAUDE>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+<DIRECTION>
+(vaguely)
+</DIRECTION>
+	<DIALOGUE>
+	When you first started to play with friends, you wouldn't do it unless I watched you. You were afraid I would go out the back door. I don't know where I would go. Our yard didn't lead anywhere anyway.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She takes off her sweater and reveals an old faded yellow T- shirt. She isn't wearing a bra. Claude says suddenly:
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	I masturbated last night. While everyone was asleep I went into the bathroom and did it.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	You don't have to tell me, sweety.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+The bus driver slams the luggage compartment closed.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	You've got to go.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Margot ties her sweater around her waist and takes Claude's hand. They approach the bus. Claude's body tenses.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	How will you get home?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	I don't know. I'll see. Maybe Dick can drive me to the...
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Jesus, I lost the word for a second. The train.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Uh huh.
+	</DIALOGUE>
+<DIRECTION>
+He looks at her longingly.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Come on. You always don't want to leave me and you always have a good time once you do.
+	</DIALOGUE>
+<DIRECTION>
+(provocatively)
+</DIRECTION>
+	<DIALOGUE>
+	I think you like getting away from me.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	I do not. I like hanging out with you.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+She hugs him. He clutches her.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	The world feels strange to me right now.
+	</DIALOGUE>
+</CLAUDE>
+<DIRECTION>
+Margot nods sympathetically. She kisses his lips and releases him. He reaches into his bag and shyly puts on his wrap-around punk sunglasses. Margot makes a face.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	They make your face look too wide.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude removes them and puts them back in the bag.
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	See you soon.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Bye, sweety.
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Say, you'll see me "soon."
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	You're acting like a baby.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She backs away --
+</DIRECTION>
+<CLAUDE>
+	<DIALOGUE>
+	Don't see Dick.
+	</DIALOGUE>
+</CLAUDE>
+<MARGOT>
+	<DIALOGUE>
+	Don't worry. I don't think he wants to see me anyway.
+	</DIALOGUE>
+<CLAUDE>
+	<DIALOGUE>
+	Please, Margot. Promise me.
+	</DIALOGUE>
+<MARGOT>
+<DIRECTION>
+(hesitates)
+</DIRECTION>
+	<DIALOGUE>
+	Don't call me that.
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+Claude doesn't move. Margot points at the bus and mouths "Go". She turns in the other direction. Claude, frustrated and anxious approaches the vehicle.
+</DIRECTION>
+<DIRECTION>
+INT. BUS - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Claude hurries toward the back and finds a window seat. He puts his bag next to him and looks out the dirty glass.
+</DIRECTION>
+<DIRECTION>
+Claude's POV: Margot, her back to him, puts her finger in her ear and shakes her head.
+</DIRECTION>
+<DIRECTION>
+The sweater around her waist loosens and drifts to the pavement. She starts walking.
+</DIRECTION>
+<DIRECTION>
+The bus hisses and lurches forward. Claude strains to see:
+</DIRECTION>
+<DIRECTION>
+Margot looks back.
+</DIRECTION>
+<DIRECTION>
+The bus groans as it picks up speed. Margot sprints.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Wait!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She's runs full speed, waving her arms wildly.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Wait! Wait!
+	</DIALOGUE>
+</MARGOT>
+<DIRECTION>
+She pants, breathless.
+</DIRECTION>
+<DIRECTION>
+The bus brakes.
+</DIRECTION>
+<DIRECTION>
+She passes Claude's window. We stay on Claude. He waits. Finally, she appears next to him, covered in sweat, and panting. She kisses him on the head. The bus starts moving.
+</DIRECTION>
+<MARGOT>
+<DIRECTION>
+(almost euphoric)
+</DIRECTION>
+	<DIALOGUE>
+	Did you see me running out there?
+	</DIALOGUE>
+</MARGOT>
+<CLAUDE>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+<DIRECTION>
+Margot cranes her neck to see outside.
+</DIRECTION>
+<MARGOT>
+	<DIALOGUE>
+	Good. That was a lot of running. I'm out of breath.
+	</DIALOGUE>
+<DIRECTION>
+Claude turns away from his mother and looks out the window.
+</DIRECTION>
+<DIRECTION>
+CUT TO BLACK.
+</DIRECTION>

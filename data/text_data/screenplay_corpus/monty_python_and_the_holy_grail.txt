@@ -1,0 +1,7928 @@
+<DIRECTION>
+EXTERIOR - CASTLE WALLS - DAY
+</DIRECTION>
+<DIRECTION>
+Mist. Several seconds of it swirling about. silence possibly, atmospheric music. SUPERIMPOSE "England AD 787". after a few more seconds we hear hoofbeats in the distance. They come slowly closer. Then out of the mist comes KING ARTHUR followed by a SERVANT who is banging two half coconuts together. ARTHUR raises his hand.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Whoa there!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+SERVANT makes noises of horses halting, with a flourish. ARTHUR peers through the mist. CUT TO shot from over his shoulder: castle (e.g. Bodium) rising out of the mist. On the castle battlements a SOLDIER is dimly seen. He peers down.
+</DIRECTION>
+<SOLDIER>
+	<DIALOGUE>
+	Halt! Who goes there?
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	It is I, Arthur, son of Uther Pendragon, from the castle of Camelot. King of all Britons, defeator of the Saxons, sovereign of all England!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Pause.
+</DIRECTION>
+<SOLDIER>
+	<DIALOGUE>
+	Get away!
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	I am... And this my trusty servant, Patsy. We have ridden the length and breadth of the land in search of knights who will join our court at Camelot.. I must speak with your lord and master.
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	What? Ridden on a horse?
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	Yes!
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	You're using coconuts!
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	...What?
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	You've got two empty halves of coconuts and you're banging them together.
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+<DIRECTION>
+(Scornfully)
+</DIRECTION>
+	<DIALOGUE>
+	So? We have ridden since the snows of winter covered this land, through the kingdom of Mercea.
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	Where did you get the coconuts?
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	Through ... We found them.
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	Found them? In Mercea. The coconut's tropical!
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	Well, this is a temperate zone.
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	The swallow may fly south with the sun, or the house martin or the plover seek warmer hot lands in winter, yet these are not strangers to our land.
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	Are you suggesting coconuts migrate?
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	Not at all. They could be carried.
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	What? A swallow carrying a coconut?
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	Why not?
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	I'll tell you why not ... because a swallow is about eight inches long and weighs five ounces, and you'd be lucky to find a coconut under a pound.
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	It could grip it by the husk ...
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	It's not a question of where he grips it, It's a simple matter of weight - ratios ... A five-ounce bird could not hold a a one pound coconut.
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	Well, it doesn't matter. Go and tell your master that Arthur from the Court of Camelot is here.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+A Slight pause. Swirling mist. Silence.
+</DIRECTION>
+<SOLDIER>
+	<DIALOGUE>
+	Look! To maintain Velocity, a swallow needs to beat its wings four hundred and ninety three times every second. right?
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+<DIRECTION>
+(irritated)
+</DIRECTION>
+	<DIALOGUE>
+	Please!
+	</DIALOGUE>
+</ARTHUR>
+<SOLDIER>
+	<DIALOGUE>
+	Am I right?
+	</DIALOGUE>
+</SOLDIER>
+<ARTHUR>
+	<DIALOGUE>
+	I'm not interested.
+	</DIALOGUE>
+</ARTHUR>
+<SECOND_SOLDIER>
+<DIRECTION>
+(who has loomed up on the battlements)
+</DIRECTION>
+	<DIALOGUE>
+	It could be carried by an African swallow!
+	</DIALOGUE>
+</SECOND_SOLDIER>
+<FIRST_SOLDIER>
+	<DIALOGUE>
+	Oh yes! An African swallow maybe ... but not a European swallow. that's my point.
+	</DIALOGUE>
+</FIRST_SOLDIER>
+<SECOND_SOLDIER>
+	<DIALOGUE>
+	Oh yes, I agree there ...
+	</DIALOGUE>
+</SECOND_SOLDIER>
+<ARTHUR>
+<DIRECTION>
+(losing patience)
+</DIRECTION>
+	<DIALOGUE>
+	Will you ask your master if he wants to join the Knights of Camelot?!
+	</DIALOGUE>
+</ARTHUR>
+<FIRST_SOLDIER>
+	<DIALOGUE>
+	But then of course African swallows are non-migratory.
+	</DIALOGUE>
+</FIRST_SOLDIER>
+<SECOND_SOLDIER>
+	<DIALOGUE>
+	Oh yes.
+	</DIALOGUE>
+</SECOND_SOLDIER>
+<DIRECTION>
+ARTHUR raises his eyes heavenwards and nods to PATSY. They turn and go off into the mist.
+</DIRECTION>
+<FIRST_SOLDIER>
+	<DIALOGUE>
+	So they wouldn't be able to bring a coconut back anyway.
+	</DIALOGUE>
+</FIRST_SOLDIER>
+<SECOND_SOLDIER>
+	<DIALOGUE>
+	Wait a minute! Suppose two swallows carried it together?
+	</DIALOGUE>
+</SECOND_SOLDIER>
+<FIRST_SOLDIER>
+	<DIALOGUE>
+	No, they'd have to have it on a line.
+	</DIALOGUE>
+</FIRST_SOLDIER>
+<DIRECTION>
+Stillness. Silence again.
+</DIRECTION>
+<DIRECTION>
+:SC: ANIMATION/LIVE ACTION SEQUENCE - DEATH AND DEVASTATION
+</DIRECTION>
+<DIRECTION>
+CUT TO Terry Gilliam's sequence of Brueghel prints. Sounds of strange medieval music. Discordant and sparse. Wailings and groanings. The last picture mixes through into live action. BIG CLOSE UP of contorted face upside down. A leg falls across it. Creaking noise. The bodies lurch away from CAMERA to reveal they are amongst a huge pile of bodies on a swaying cart that is lumbering away from CAMERA. It is pulled by a couple of ragged, dirty emaciated WRETCHES. Behind the cart walks another MAN who looks slightly more prosperous, but only on the scale of complete and utter impoverishment. He wears a black hood and looks sinister.
+</DIRECTION>
+<CART_DRIVER>
+	<DIALOGUE>
+	Bring out your dead!
+	</DIALOGUE>
+</CART_DRIVER>
+<DIRECTION>
+We follow the cart through a wretched, impoverished plague-ridden village. A few starved mongrels run about in the mud scavenging. In the open doorway of one house perhaps we jug glimpse a pair of legs dangling from the ceiling. In another doorway an OLD WOMAN is beating a cat against a wall rather like one does with a mat. The cart passes round a dead donkey or cow in the mud. And a MAN tied to a cart is being hammered to death by four NUNS with huge mallets.
+</DIRECTION>
+<CART_DRIVER>
+	<DIALOGUE>
+	Bring out your dead!
+	</DIALOGUE>
+</CART_DRIVER>
+<DIRECTION>
+There are legs stick out of windows and doors. Two MEN are fighting in the mud - covered from head to foot in it. Another MAN is on his hands in knees shovelling mud into his mouth. We just catch sight of a MAN falling into a well.
+</DIRECTION>
+<CART_DRIVER>
+	<DIALOGUE>
+	Bring out your dead!
+	</DIALOGUE>
+</CART_DRIVER>
+<LARGE_MAN>
+	<DIALOGUE>
+	Here's one!
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	Ninepence.
+	</DIALOGUE>
+</CART_DRIVER>
+<BODY>
+	<DIALOGUE>
+	I'm not dead!
+	</DIALOGUE>
+</BODY>
+<CART_DRIVER>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</CART_DRIVER>
+<LARGE_MAN>
+	<DIALOGUE>
+	Nothing... There's your ninepence.
+	</DIALOGUE>
+</LARGE_MAN>
+<BODY>
+	<DIALOGUE>
+	I'm not dead!
+	</DIALOGUE>
+</BODY>
+<CART_DRIVER>
+	<DIALOGUE>
+	'Ere. He says he's not dead.
+	</DIALOGUE>
+</CART_DRIVER>
+<LARGE_MAN>
+	<DIALOGUE>
+	Yes he is.
+	</DIALOGUE>
+</LARGE_MAN>
+<BODY>
+	<DIALOGUE>
+	I'm not!
+	</DIALOGUE>
+</BODY>
+<CART_DRIVER>
+	<DIALOGUE>
+	He isn't.
+	</DIALOGUE>
+</CART_DRIVER>
+<LARGE_MAN>
+	<DIALOGUE>
+	He will be soon. He's very ill.
+	</DIALOGUE>
+</LARGE_MAN>
+<BODY>
+	<DIALOGUE>
+	I'm getting better!
+	</DIALOGUE>
+</BODY>
+<LARGE_MAN>
+	<DIALOGUE>
+	You're not. You'll be stone dead in a few minutes.
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	I can't take him like this. It's against regulations.
+	</DIALOGUE>
+</CART_DRIVER>
+<BODY>
+	<DIALOGUE>
+	I don't want to go on the cart.
+	</DIALOGUE>
+</BODY>
+<LARGE_MAN>
+	<DIALOGUE>
+	Don't be such a baby.
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	I can't take him.
+	</DIALOGUE>
+</CART_DRIVER>
+<BODY>
+	<DIALOGUE>
+	I feel fine.
+	</DIALOGUE>
+</BODY>
+<LARGE_MAN>
+	<DIALOGUE>
+	Do me a favour.
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	I can't.
+	</DIALOGUE>
+</CART_DRIVER>
+<LARGE_MAN>
+	<DIALOGUE>
+	Well, can you hang around a couple of minutes. He won't be long.
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	I promised I'd be at the Robinson's. They've lost nine today.
+	</DIALOGUE>
+</CART_DRIVER>
+<LARGE_MAN>
+	<DIALOGUE>
+	When's your next round?
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	Thursday.
+	</DIALOGUE>
+</CART_DRIVER>
+<BODY>
+	<DIALOGUE>
+	I think I'll go for a walk.
+	</DIALOGUE>
+</BODY>
+<LARGE_MAN>
+	<DIALOGUE>
+	You're not fooling anyone you know.
+	</DIALOGUE>
+<DIRECTION>
+(to CART DRIVER)
+</DIRECTION>
+	<DIALOGUE>
+	Isn't there anything you could do?
+	</DIALOGUE>
+</LARGE_MAN>
+<BODY>
+<DIRECTION>
+(singing unrecognisably)
+</DIRECTION>
+	<DIALOGUE>
+	I feel happy... I feel happy.
+	</DIALOGUE>
+</BODY>
+<DIRECTION>
+The CART DRIVER looks at the LARGE MAN for a moment. Then they both do a quick furtive look up and down the street. The CART DRIVER very swiftly brings up a club and hits the OLD MAN. (Out of shot but the singing stops after a loud bonk noise.)
+</DIRECTION>
+<LARGE_MAN>
+<DIRECTION>
+(handing over the money at last)
+</DIRECTION>
+	<DIALOGUE>
+	Thanks very much.
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	That's all right. See you on Thursday.
+	</DIALOGUE>
+</CART_DRIVER>
+<DIRECTION>
+They turn ... Suddenly all the village fall to their knees, touching forelocks etc. ARTHUR and PATSY ride into SHOT, slightly nose to the air, they ride through without acknowledging anybody. After they pass, the LARGE MAN turns to the CART DRIVER.
+</DIRECTION>
+<LARGE_MAN>
+	<DIALOGUE>
+	Who's that then?
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+<DIRECTION>
+(Grudgingly)
+</DIRECTION>
+	<DIALOGUE>
+	I dunno, Must be a king.
+	</DIALOGUE>
+</CART_DRIVER>
+<LARGE_MAN>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</LARGE_MAN>
+<CART_DRIVER>
+	<DIALOGUE>
+	He hasn't got shit all over him.
+	</DIALOGUE>
+</CART_DRIVER>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+ARTHUR and PATSY riding. They stop and look. We see a castle in the distance, and before it a PEASANT is working away on his knees trying to dig up the earth with his bare hands and a twig. ARTHUR and PATSY ride up, and stop before the PEASANT
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Old woman!
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	Man!
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Man. I'm sorry. Old man, What knight live in that castle over there?
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	I'm thirty-seven.
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	I'm thirty-seven ... I'm not old.
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Well - I can't just say: "Hey, Man!'
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	Well you could say: "Dennis"
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	I didn't know you were called Dennis.
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	You didn't bother to find out, did you?
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	I've said I'm sorry about the old woman, but from the behind you looked ...
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	What I object to is that you automatically treat me like an inferior ...
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Well ... I AM king.
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	Oh, very nice. King, eh! I expect you've got a palace and fine clothes and courtiers and plenty of food. And how d'you get that? By exploiting the workers! By hanging on to outdated imperialist dogma which perpetuates the social and economic differences in our society! If there's EVER going to be any progress ...
+	</DIALOGUE>
+</DENNIS>
+<DIRECTION>
+An OLD WOMAN appears.
+</DIRECTION>
+<OLD_WOMAN>
+	<DIALOGUE>
+	Dennis! There's some lovely filth down here ... Oh! how d'you do?
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	How d'you do, good lady ... I am Arthur, King of the Britons ... can you tell me who lives in that castle?
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	King of the WHO?
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	The Britons.
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	Who are the Britons?
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	All of us are ... we are all Britons.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+DENNIS winks at the OLD WOMAN.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	... and I am your king ....
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	Ooooh! I didn't know we had a king. I thought we were an autonomous collective ...
+	</DIALOGUE>
+</OLD_WOMAN>
+<DENNIS>
+	<DIALOGUE>
+	You're fooling yourself. We're living in a dictatorship, A self-perpetuating autocracy in which the working classes ...
+	</DIALOGUE>
+</DENNIS>
+<OLD_WOMAN>
+	<DIALOGUE>
+	There you are, bringing class into it again ...
+	</DIALOGUE>
+</OLD_WOMAN>
+<DENNIS>
+	<DIALOGUE>
+	That's what it's all about ... If only -
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Please, please good people. I am in haste. What knight lives in that castle?
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	No one live there.
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	Well, who is your lord?
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	We don't have a lord.
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	I told you, We're an anarcho-syndicalist commune, we take it in turns to act as a sort of executive officer for the week.
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	... But all the decision of that officer ...
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Yes, I see.
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	... must be approved at a bi-weekly meeting by a simple majority in the case of purely internal affairs.
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Be quiet!
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	... but a two-thirds majority ...
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Be quiet! I order you to shut up.
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	Order, eh -- who does he think he is?
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	I am your king!
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	Well, I didn't vote for you.
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	You don't vote for kings.
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	Well, how did you become king, then?
+	</DIALOGUE>
+</OLD_WOMAN>
+<ARTHUR>
+	<DIALOGUE>
+	The Lady of the Lake, her arm clad in the purest shimmering samite, held Excalibur aloft from the bosom of the water to signify by Divine Providence ... that I, Arthur, was to carry Excalibur ... That is why I am your king!
+	</DIALOGUE>
+</ARTHUR>
+<OLD_WOMAN>
+	<DIALOGUE>
+	Is Frank in? He'd be able to deal with this one.
+	</DIALOGUE>
+</OLD_WOMAN>
+<DENNIS>
+	<DIALOGUE>
+	Look, strange women lying on their backs in ponds handing out swords ... that's no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Be quiet!
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	You can't expect to wield supreme executive power just 'cause some watery tart threw a sword at you!
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	I mean, if I went around saying I was an Emperor because some moistened bint had lobbed a scimitar at me, people would put me away!
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+<DIRECTION>
+(Grabbing him by the collar)
+</DIRECTION>
+	<DIALOGUE>
+	Shut up, will you. Shut up!
+	</DIALOGUE>
+</ARTHUR>
+<DENNIS>
+	<DIALOGUE>
+	Ah! NOW ... we see the violence inherent in the system.
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+PEOPLE (i.e. other PEASANTS) are appearing and watching.
+</DIRECTION>
+<DENNIS>
+<DIRECTION>
+(calling)
+</DIRECTION>
+	<DIALOGUE>
+	Come and see the violence inherent in the system. Help, help, I'm being repressed!
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+<DIRECTION>
+(aware that people are now coming out and watching)
+</DIRECTION>
+	<DIALOGUE>
+	Bloody peasant!
+	</DIALOGUE>
+<DIRECTION>
+(pushes DENNIS over into mud and prepares to ride off)
+</DIRECTION>
+<DENNIS>
+	<DIALOGUE>
+	Oh, Did you hear that! What a give-away.
+	</DIALOGUE>
+</DENNIS>
+<ARTHUR>
+	<DIALOGUE>
+	Come on, patsy.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They ride off.
+</DIRECTION>
+<DENNIS>
+<DIRECTION>
+(in the background as we PULL OUT)
+</DIRECTION>
+	<DIALOGUE>
+	did you see him repressing me, then? That's what I've been on about ...
+	</DIALOGUE>
+</DENNIS>
+<DIRECTION>
+EXTERIOR - FOREST - DAY
+</DIRECTION>
+<DIRECTION>
+MIX THROUGH to ARTHUR and PATSY riding through the forest. They pass rune stones. We TRACK with them. CLOSE-UPS of their faces as they ride. MIX to another TRACKING SHOT of them riding through the forest. They come to a clearing and stop, looking ahead intently. Their eyes light up.
+</DIRECTION>
+<DIRECTION>
+Sound FX of fight.
+</DIRECTION>
+<DIRECTION>
+CUT TO their eyeline. A clearing on the other side of which is a rough wooden foot-bridge across a stream. At the start of the bridge a tremendous fight is going on. A huge BLACK KNIGHT in black armour, his face totally masked in a visor, is fighting a slightly smaller KNIGHT in green armour. (Perhaps the GREEN KNIGHT's armour is identical to the BLACK KNIGHT's save for the colour.)
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO ARTHUR and PATSY. They watch, growing more impressed as they watch the fight.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO the fight. The GREEN KNIGHT lunges at the BLACK KNIGHT, who avoids the blow with a skillful side-step and parry, knocking the sword out of the GREEN KNIGHT's hand.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO ARTHUR and PATSY even more impressed.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO the fight. The GREEN KNIGHT has drawn out a particularly nasty mace or spiked ball and chain, much longer than the BLACK KNIGHT's sword.
+</DIRECTION>
+<DIRECTION>
+ARTHUR narrows his eyes, wondering whether the BLACK KNIGHT will survive.
+</DIRECTION>
+<DIRECTION>
+CUT BACK to the fight. The GREEN KNIGHT swings at the BLACK KNIGHT, who ducks under the first swing, leaps over the second and starts to close on the GREEN KNIGHT.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO ARTHUR and PATSY watching like a tennis match. Sound FX of the fight reaching a climax. Four almighty clangs. Then Silence.
+</DIRECTION>
+<DIRECTION>
+CUT BACK to see the GREEN KNIGHT stretched out. The BLACK KNIGHT sheathes his sword.
+</DIRECTION>
+<DIRECTION>
+ARTHUR looks at PATSY. Nods and they move forward.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO the BLACK KNIGHT picking up the GREEN KNIGHT above his head and hurling him into the river. ARTHUR and PATSY approach him.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	You fight with the strength of many men, Sir knight.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Who dares to challenge the Black Knight?
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	I do not challenge you.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The BLACK KNIGHT stares impassively and says nothing.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	I am Arthur, King of the Britons.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Hint of a pause as he waits for a reaction which dosn't come. ARTHUR is only slightly thrown.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	... I seek the bravest and the finest knights in all the world to join me in my court at Camelot ...
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The BLACK KNIGHT remains silent
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	You have proved yourself worthy. ... Will you join me?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Silence.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	A man of your strength and skill would be the chief of all my knights ...
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Never.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	You make me sad. But so be it. Come Patsy.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+As he moves, the BLACK KNIGHT bars the way.
+</DIRECTION>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	None shall pass.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	None shall pass.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	I have no quarrel with you, brave Sir knight, but I must cross this bridge.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Then you shall die.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	I command you, as King of the Britons to stand aside.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	I move for no man.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	So be it!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR draws his sword and approaches the BLACK KNIGHT. A furious fight now starts lasting about fifteen seconds at which point ARTHUR delivers a mighty blow which completely severs the BLACK KNIGHT's left arm at the shoulder. ARTHUR steps back triumphantly.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Now stand aside worthy adversary.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+<DIRECTION>
+(Glancing at his shoulder)
+</DIRECTION>
+	<DIALOGUE>
+	'Tis but a scratch.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	A scratch? Your arm's off.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	No, it isn't.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+<DIRECTION>
+(Pointing to the arm on ground)
+</DIRECTION>
+	<DIALOGUE>
+	Well, what's that then?
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	I've had worse.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	You're a liar.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Come on you pansy!
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<DIRECTION>
+Another ten seconds furious fighting till ARTHUR chops the BLACK KNIGHTS's other arm off, also at the shoulder. The arm plus sword, lies on the ground.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Victory is mine.
+	</DIALOGUE>
+<DIRECTION>
+(sinking to his knees)
+</DIRECTION>
+	<DIALOGUE>
+	I thank thee O Lord that in thy ...
+	</DIALOGUE>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Come on then.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+He kicks ARTHUR hard on the side of the helmet. ARTHUR gets up still holding his sword. The BLACK KNIGHT comes after him kicking.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	You are indeed brave Sir knight, but the fight is mine.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Had enough?
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	You stupid bastard. You havn't got any arms left.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Course I have.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	Look!
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	What! Just a flesh wound.
+	</DIALOGUE>
+<DIRECTION>
+(kicks ARTHUR)
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Stop that.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+<DIRECTION>
+(kicking him)
+</DIRECTION>
+	<DIALOGUE>
+	Had enough ... ?
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	I'll have your leg.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+He is kicked.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Right!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The BLACK KNIGHT kicks him again and ARTHUR chops his leg off. The BLACK KNIGHT keeps his balance with difficulty.
+</DIRECTION>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	I'll do you for that.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	You'll what ... ?
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Come Here.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	What are you going to do. bleed on me?
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	I'm invincible!
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	You're a looney.
+	</DIALOGUE>
+</ARTHUR>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	The Black Knight always triumphs. Have at you!
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<DIRECTION>
+ARTHUR takes his last leg off. The BLACK KNIGHT's body lands upright.
+</DIRECTION>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	All right, we'll call it a draw.
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	Come, Patsy.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR and PATSY start to cross the bridge.
+</DIRECTION>
+<BLACK_KNIGHT>
+	<DIALOGUE>
+	Running away eh? You yellow bastard, Come back here and take what's coming to you. I'll bite your legs off!
+	</DIALOGUE>
+</BLACK_KNIGHT>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+A village. Sound of chanting of Latin canon, punctuated by short, sharp cracks. It comes nearer. We see it is a line of MONKS ala SEVENTH SEAL flagellation scene, chanting and banging themselves on the foreheads with wooden boards. They pass a group of villagers who are dragging a beautiful YOUNG WOMAN dressed as a witch through the streets. They drag her to a strange house/ruin standing on a hill outside the village. A strange-looking knight stands outside, SIR BEDEVERE.
+</DIRECTION>
+<FIRST_VILLAGER>
+	<DIALOGUE>
+	We have found a witch. May we burn her?
+	</DIALOGUE>
+</FIRST_VILLAGER>
+<ALL>
+	<DIALOGUE>
+	A Witch! Burn her!
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	How do you know she is a witch?
+	</DIALOGUE>
+</BEDEVERE>
+<ALL>
+	<DIALOGUE>
+	She looks like one. Yes, she does.
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	Bring her forward.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+They bring her forward - a beautiful YOUNG GIRL (MISS ISLINGTON) dressed up as a witch.
+</DIRECTION>
+<WITCH>
+	<DIALOGUE>
+	I am not a witch. I am not a witch.
+	</DIALOGUE>
+</WITCH>
+<BEDEVERE>
+	<DIALOGUE>
+	But you are dressed as one.
+	</DIALOGUE>
+</BEDEVERE>
+<WITCH>
+	<DIALOGUE>
+	They dressed me up like this.
+	</DIALOGUE>
+</WITCH>
+<ALL>
+	<DIALOGUE>
+	We didn't, we didn't!
+	</DIALOGUE>
+</ALL>
+<WITCH>
+	<DIALOGUE>
+	This is not my nose, It is a false one.
+	</DIALOGUE>
+</WITCH>
+<DIRECTION>
+BEDEVERE takes her nose off.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	Well?
+	</DIALOGUE>
+</BEDEVERE>
+<FIRST_VILLAGER>
+	<DIALOGUE>
+	... Well, we did do the nose.
+	</DIALOGUE>
+</FIRST_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	The nose?
+	</DIALOGUE>
+</BEDEVERE>
+<FIRST_VILLAGER>
+	<DIALOGUE>
+	And the hat. But she is a witch.
+	</DIALOGUE>
+</FIRST_VILLAGER>
+<ALL>
+	<DIALOGUE>
+	A witch, a witch, burn her!
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	Did you dress her up like this?
+	</DIALOGUE>
+</BEDEVERE>
+<FIRST_VILLAGER>
+	<DIALOGUE>
+	... Um ... Yes ... no ... a bit ... yes... she has got a wart.
+	</DIALOGUE>
+</FIRST_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	Why do you think she is a witch?
+	</DIALOGUE>
+</BEDEVERE>
+<SECOND_VILLAGER>
+	<DIALOGUE>
+	She turned me into a newt.
+	</DIALOGUE>
+</SECOND_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	A newt?
+	</DIALOGUE>
+</BEDEVERE>
+<SECOND_VILLAGER>
+<DIRECTION>
+(After looking at himself for some time)
+</DIRECTION>
+	<DIALOGUE>
+	I got better.
+	</DIALOGUE>
+</SECOND_VILLAGER>
+<ALL>
+	<DIALOGUE>
+	Burn her anyway.
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	Quiet! Quiet! There are ways of telling whether she is a witch.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+ARTHUR and PATSY ride up at this point and watch what follows with interest
+</DIRECTION>
+<ALL>
+	<DIALOGUE>
+	There are? Tell up. What are they, wise Sir Bedevere?
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	Tell me ... what do you do with witches?
+	</DIALOGUE>
+</BEDEVERE>
+<ALL>
+	<DIALOGUE>
+	Burn them.
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	And what do you burn, apart from witches?
+	</DIALOGUE>
+</BEDEVERE>
+<FOURTH_VILLAGER>
+	<DIALOGUE>
+	... Wood?
+	</DIALOGUE>
+</FOURTH_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	So why do witches burn?
+	</DIALOGUE>
+</BEDEVERE>
+<SECOND_VILLAGER>
+<DIRECTION>
+(pianissimo)
+</DIRECTION>
+	<DIALOGUE>
+	... Because they're made of wood...?
+	</DIALOGUE>
+</SECOND_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	Good.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+PEASANTS stir uneasily then come round to this conclusion.
+</DIRECTION>
+<ALL>
+	<DIALOGUE>
+	I see. Yes, of course.
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	So how can we tell if she is made of wood?
+	</DIALOGUE>
+</BEDEVERE>
+<FIRST_VILLAGER>
+	<DIALOGUE>
+	Make a bridge out of her.
+	</DIALOGUE>
+</FIRST_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	Ah ... but can you not also make bridges out of stone?
+	</DIALOGUE>
+</BEDEVERE>
+<ALL>
+	<DIALOGUE>
+	Ah. Yes, of course ... um ... err ...
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	Does wood sink in water?
+	</DIALOGUE>
+</BEDEVERE>
+<ALL>
+	<DIALOGUE>
+	No, no, It floats. Throw her in the pond Tie weights on her. To the pond.
+	</DIALOGUE>
+</ALL>
+<BEDEVERE>
+	<DIALOGUE>
+	Wait. Wait ... tell me, what also floats on water?
+	</DIALOGUE>
+</BEDEVERE>
+<ALL>
+	<DIALOGUE>
+	Bread? No, no, no. Apples .... gravy ... very small rocks ...
+	</DIALOGUE>
+</ALL>
+<ARTHUR>
+	<DIALOGUE>
+	A duck.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They all turn and look at ARTHUR. BEDEVERE looks up very impressed.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	Exactly. So... logically ...
+	</DIALOGUE>
+</BEDEVERE>
+<FIRST_VILLAGER>
+<DIRECTION>
+(beginning to pick up the thread)
+</DIRECTION>
+	<DIALOGUE>
+	If she ... weighs the same as a duck ... she's made of wood.
+	</DIALOGUE>
+</FIRST_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	And therefore?
+	</DIALOGUE>
+</BEDEVERE>
+<ALL>
+	<DIALOGUE>
+	A witch! ... A duck! A duck! Fetch a duck.
+	</DIALOGUE>
+</ALL>
+<FOURTH_VILLAGER>
+	<DIALOGUE>
+	Here is a duck, Sir Bedevere.
+	</DIALOGUE>
+</FOURTH_VILLAGER>
+<BEDEVERE>
+	<DIALOGUE>
+	We shall use my largest scales.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+He leads them a few yards to a very strange contraption indeed, made of wood and rope and leather. They put the GIRL in one pan and the duck in another. Each pan is supported by a wooden stave. BEDEVERE checks each pan then ... ARTHUR looks on with interest.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	Remove the supports.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+Two PEASANTS knock them away with sledge hammers. The GIRL and the duck swing slightly but balance perfectly.
+</DIRECTION>
+<ALL>
+	<DIALOGUE>
+	A witch! A witch!
+	</DIALOGUE>
+</ALL>
+<WITCH>
+	<DIALOGUE>
+	It's a fair cop.
+	</DIALOGUE>
+</WITCH>
+<All>
+	<DIALOGUE>
+	Burn her! Burn her! Let's make her into a ladder.
+	</DIALOGUE>
+</All>
+<DIRECTION>
+The VILLAGERS drag the girl away, leaving ARTHUR and BEDEVERE regarding each other admiringly.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	Who are you who are so wise in the ways of science?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	I am Arthur, King of the Britons.
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	My liege ... forgive me ...
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+ARTHUR looks at PATSY with obvious satisfaction.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Good Sir knight, will you come with me to Camelot, and join our number at the Round Table?
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	My liege, I am honored.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+ARTHUR steps forward, drawing his sword, with a slight hint of difficulty
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	What is your name?
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Bedevere, my Liege.
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Then I dub you ... Sir Bedevere ... Knight of the Round Table!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+:SC: VARIOUS MONTAGE - ANIMATION
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	And so King Arthur gathered his knights together ... bringing from all the corners of the kingdom the strongest and bravest in the land ... To sit at The Round Table ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Under this voice over we have a montage of shots of ARTHUR recruiting his Knights:
+</DIRECTION>
+<DIRECTION>
+1. ARTHUR, PATSY, BEDEVERE and PAGE riding through hillside. MIX TO:
+</DIRECTION>
+<DIRECTION>
+2. A castle. LONG SHOT of SIR GAWAIN standing outside and ARTHUR's group approaching and shaking hands perhaps.
+</DIRECTION>
+<DIRECTION>
+3. MIX TO the group now plus SIR GAWAIN and PAGE (who is weighted down by an enormous quantity of luggage) riding down by a stream and approaching SIR HECTOR. ARTHUR dubs him.
+</DIRECTION>
+<DIRECTION>
+4. MIX TO the group (now plus HECTOR and PAGE) approaching some group of buildings or whatever. In the distance SIR ROBIN is being taught the lute by one of his MUSICIANS. ARTHUR calls and SIR ROBIN immediately reacts and hands the lute to his MUSICIAN and comes to join ARTHUR & CO.
+</DIRECTION>
+<DIRECTION>
+5. MIX TO SIR GALAHAD surrounded by chickens. He is wearing a carpenters apron over his immaculate armour and is finishing off a hen-house. We see the group approach and he throws off the apron and puts down the hen-house and goes to join them.
+</DIRECTION>
+<DIRECTION>
+6. MIX TO the group riding along again.
+</DIRECTION>
+<DIRECTION>
+7. MIX TO SIR LAUNCELOT handing a BABY to his WIFE (who has several other CHILDREN hanging about) and he strides off to join ARTHUR, leaving his castle, WIFE and CHILDREN. The castle (Eilean Donan) has washing hanging outside it. A real family castle. There are at least six kids.
+</DIRECTION>
+<DIRECTION>
+8. MIX TO the complete group, i.e. ARTHUR and PATSY, BEDEVERE and PAGE, GAWAIN and PAGE, HECTOR and PAGE, GALAHAD and PAGE, SIR ROBIN and six MUSICIANS, LAUNCELOT and PAGE.
+</DIRECTION>
+<DIRECTION>
+CLOSE-UP of a book on which is written:
+</DIRECTION>
+<DIRECTION>
+THE BOOK OF THE FILM
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	The wise Sir Bedevere was the first to join King Arthur's knights ... but other illustrious names were soon to follow ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Hand turns page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	Sir Launcelot the Brave ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Hand turns page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	Sir Galahad the Pure ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Hand turns page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	And Sir Robin-the-not-quite-so-pure-as-Sir-Launcelot ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Hand turns page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	... Who had nearly fought the Dragon of Agnor ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Hand turns page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	... Who had nearly stood up to to the vicious Chicken of Bristol ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Hand turns Page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	... and who had personally wet himself at the Battle of Badon Hill ... and the aptly named ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+Hand turns page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	Sir Not-appearing-in-this-film.
+	</DIALOGUE>
+<DIRECTION>
+Hand turns page.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	Together they formed band whose names and deeds were to be retold throughout the centuries ... The Knights of the Round Table ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+A gorilla's hand snatches away the hand.
+</DIRECTION>
+<DIRECTION>
+Music swells and fades and we MIX THROUGH TO:
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - SUNSET
+</DIRECTION>
+<DIRECTION>
+Fairly close HEAD-ON SHOT of the KNIGHTS riding along. BEDEVERE and ARTHUR at the front of the group deep in conversation.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	And that, my lord, is how we know the Earth to be banana-shaped.
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	This new learning amazes me, Sir Bedevere. Explain again how sheep's bladders may be employed to prevent earthquakes.
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	OF course, my Liege ...
+	</DIALOGUE>
+</BEDEVERE>
+<LAUNCELOT>
+<DIRECTION>
+(he points)
+</DIRECTION>
+	<DIALOGUE>
+	Look, my liege!
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+They all stop and look.
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(with thankful reverence)
+</DIRECTION>
+	<DIALOGUE>
+	Camelot!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+CUT TO shot of amazing castle in the distance. Illuminated in the rays of the setting sun.
+</DIRECTION>
+<DIRECTION>
+Music.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO ARTHUR and the group. They are all staring with fascination.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Camelot ...
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	Camelot ...
+	</DIALOGUE>
+</LAUNCELOT>
+<GAWAIN>
+<DIRECTION>
+(at the back, to PAGE)
+</DIRECTION>
+	<DIALOGUE>
+	It's only a model.
+	</DIALOGUE>
+</GAWAIN>
+<ARTHUR>
+<DIRECTION>
+(turning sharply)
+</DIRECTION>
+	<DIALOGUE>
+	Sh!
+	</DIALOGUE>
+<DIRECTION>
+(to the rest)
+</DIRECTION>
+	<DIALOGUE>
+	Knights! I bid you welcome to your new home! Let us ride ... to Camelot.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+INTERIOR - NIGHT
+</DIRECTION>
+<DIRECTION>
+CUT TO interior of medieval hall. A large group of armoured KNIGHTS are engaged in a well choreographed song-and-dance routine of the very up-beat 'If they could see me now' type of fast bouncy number. The poorer verses are made clearer by CUTTING to a group of knights actually engaged in the described task while the line itself is sung. They sing:
+</DIRECTION>
+<KNIGHTS>
+	<DIALOGUE>
+	We're knights of the round table We dance whene'er we're able We do routines and chorus scenes With footwork impeccable. We dine well here in Camelot We eat ham and jam and spam a lot. We're knights of the Round Table Our shows are formidable But many times We're given rhymes That are quite unsingable We're opera mad in Camelot We sing from the diaphragm a lot.
+	</DIALOGUE>
+</KNIGHTS>
+<DIRECTION>
+Booming basses. A routine where two XYLOPHONISTS play parts of KNIGHTS' armour producing a pleasing effect.
+</DIRECTION>
+<KNIGHTS>
+	<DIALOGUE>
+	In war we're tough and able. Quite indefatigable Between our quests We sequin vests And impersonate Clark Gable It's a busy life in Camelot.
+	</DIALOGUE>
+</KNIGHTS>
+<SINGLE_MAN>
+	<DIALOGUE>
+	I have to push the pram a lot.
+	</DIALOGUE>
+</SINGLE_MAN>
+<DIRECTION>
+CUT BACK TO ARTHUR and BEDEVERE and COMPANY as we had left them.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	No, on second thought, let's not go to Camelot.
+	</DIALOGUE>
+</ARTHUR>
+<KNIGHTS>
+	<DIALOGUE>
+	Right!
+	</DIALOGUE>
+</KNIGHTS>
+<ARTHUR>
+	<DIALOGUE>
+	It is a silly place.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They set off again almost immediately they are suffused in ethereal radiance and strange heavenly choir music. The PAGES, horselike, take fright for a moment, they whinny and rattle their coconuts. ARTHUR and the KNIGHTS fall on their knees. A holy voice booms out.
+</DIRECTION>
+<GOD>
+	<DIALOGUE>
+	Arthur! Arthur ... King of the Britons ...
+	</DIALOGUE>
+</GOD>
+<DIRECTION>
+They all prostrate themselves even further
+</DIRECTION>
+<GOD>
+	<DIALOGUE>
+	Oh, don't grovel ... do get up! If there's one thing I can't stand, it's people grovelling!!
+	</DIALOGUE>
+</GOD>
+<DIRECTION>
+ARTHUR and COMPANY rise.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Sorry ...
+	</DIALOGUE>
+</ARTHUR>
+<GOD>
+	<DIALOGUE>
+	And don't apologize. Every time I try to talk to someone it's sorry this and forgive me that and I'm not worthy and ... What are you doing now?
+	</DIALOGUE>
+</GOD>
+<ARTHUR>
+	<DIALOGUE>
+	I'm averting my eyes, Lord.
+	</DIALOGUE>
+</ARTHUR>
+<GOD>
+	<DIALOGUE>
+	Well, don't. I really don't know where all this got started. It's like those miserable psalms. they're so depressing. Now knock it of
+	</DIALOGUE>
+</GOD>
+<ARTHUR>
+	<DIALOGUE>
+	Yes, Lord.
+	</DIALOGUE>
+</ARTHUR>
+<GOD>
+	<DIALOGUE>
+	Right. Arthur, King of the Britons, you're Knights of the Round Table shall have a task to make them an example in these dark times ...
+	</DIALOGUE>
+</GOD>
+<ARTHUR>
+	<DIALOGUE>
+	Good idea, O Lord!
+	</DIALOGUE>
+</ARTHUR>
+<GOD>
+	<DIALOGUE>
+	Course it's a good idea.
+	</DIALOGUE>
+</GOD>
+<DIRECTION>
+Suddenly another light glows beside GOD or possibly within the light which is GOD a shape slowly starts to form.
+</DIRECTION>
+<GOD>
+	<DIALOGUE>
+	Behold ... Arthur ... this is the Holy Grail ... the Sacred Cup from which Christ drank at the Last Supper ...
+	</DIALOGUE>
+</GOD>
+<DIRECTION>
+The form in the bright light is just discernible as an iridescent chalice ... the KNIGHTS gasp.
+</DIRECTION>
+<GOD>
+	<DIALOGUE>
+	Look well, Arthur ... for it is your sacred task to seek this Grail.
+	</DIALOGUE>
+</GOD>
+<DIRECTION>
+It begins to fade. Music crescendo as both lights fade.
+</DIRECTION>
+<GOD>
+	<DIALOGUE>
+	That is your purpose Arthur ... the Quest for the Holy Grail ...
+	</DIALOGUE>
+</GOD>
+<DIRECTION>
+It is gone. All the KNIGHTS are left gasping in awe and wonderment. They all turn and look at ARTHUR.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	A Blessing. A blessing from the lord.
+	</DIALOGUE>
+</LAUNCELOT>
+<BEDEVERE>
+	<DIALOGUE>
+	Praise be to God!
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+An awed pause, then ARTHUR rallies them.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	We have a task, we must waste no time! To Camelot!
+	</DIALOGUE>
+</ARTHUR>
+<GALAHAD>
+	<DIALOGUE>
+	God be praised!
+	</DIALOGUE>
+</GALAHAD>
+<DIRECTION>
+Stirring music crescendo. They ride off.
+</DIRECTION>
+<DIRECTION>
+CUT TO TITLES SEQUENCE Animation: "The Quest For The Holy Grail" After titles CUT TO:
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - CASTLE - DAY
+</DIRECTION>
+<DIRECTION>
+MIX THROUGH one or two shots of them on their way again, until they approach a terrific castle (a little one would do too). They advance quite close to the castle and draw themselves into a line. At a signal from ARTHUR the two PAGES step forward and give a brief fanfare.
+</DIRECTION>
+<DIRECTION>
+A MAN appears on the battlements. ARTHUR addresses him.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Hello.
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	'Allo. Whoo is eet?
+	</DIALOGUE>
+</MAN>
+<ARTHUR>
+	<DIALOGUE>
+	I am King Arthur and these are the Knights of the Round Table. Whose castle is this?
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	This is the castle of of my master, Guy de Loimbard.
+	</DIALOGUE>
+</MAN>
+<ARTHUR>
+	<DIALOGUE>
+	Please go and tell your master that we have been charged by God with a sacred quest, and if he will give us food and shelter for this night he can join us in our quest for the Holy Grail.
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	Well, I'll ask him, but I don't think he'll be very keen. He's already got one, you see?
+	</DIALOGUE>
+</MAN>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<GALAHAD>
+	<DIALOGUE>
+	He says they've already got one!
+	</DIALOGUE>
+</GALAHAD>
+<DIRECTION>
+They are stunned.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Are you sure he's got one?
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	Oh yes. It's very nice
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+CUT TO BATTLEMENTS. THE TAUNTER (MAN) turns to some others.
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	I told him we already got one.
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+They all giggle.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Well ... can we come up and have a look?
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	Of course not! You are English pigs.
+	</DIALOGUE>
+</MAN>
+<ARTHUR>
+	<DIALOGUE>
+	Well, what are you then?
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	I'm French. Why do think I have this outrageous accent, you silly king.
+	</DIALOGUE>
+</MAN>
+<GALAHAD>
+	<DIALOGUE>
+	What are you doing in England?
+	</DIALOGUE>
+</GALAHAD>
+<MAN>
+	<DIALOGUE>
+	Mind your own business.
+	</DIALOGUE>
+</MAN>
+<ARTHUR>
+	<DIALOGUE>
+	If you will not show us the Grail we shall storm your castle.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Murmurs of assent.
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	You don't frighten us, English pig-dog! Go and boil your bottoms, son of a silly person. I blow my nose on you, so-called Arthur-king, you and your silly English K...kaniggets.
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+He puts hands to his ears and blows a raspberry.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	What a strange person.
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Now look here, my good man!
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	I don't want to talk to you, no more, you empty-headed animal, food trough wiper. I fart in your general direction. You mother was a hamster and your father smelt of elderberries.
+	</DIALOGUE>
+</MAN>
+<GALAHAD>
+	<DIALOGUE>
+	Is there someone else up there we could talk to?
+	</DIALOGUE>
+</GALAHAD>
+<MAN>
+	<DIALOGUE>
+	No. Now go away or I shall taunt you a second time.
+	</DIALOGUE>
+</MAN>
+<ARTHUR>
+	<DIALOGUE>
+	Now this is your last chance. I've been more than reasonab...
+	</DIALOGUE>
+</ARTHUR>
+<MAN>
+	<DIALOGUE>
+	Fetchez la vache!
+	</DIALOGUE>
+</MAN>
+<GUARD>
+	<DIALOGUE>
+	Quoi?
+	</DIALOGUE>
+</GUARD>
+<MAN>
+	<DIALOGUE>
+	Fetchez la vache!
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+CUT BACK TO battlements. A cow is led out of a stall.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO ARTHUR.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Now that is my final offer. If you are not prepared to agree to my demands I shall be forced to take ... Oh Christ!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+A cow comes flying over the battlements, lowing aggressively. The cow lands on GALAHAD'S PAGE, squashing him completely.
+</DIRECTION>
+<ROBIN>
+	<DIALOGUE>
+	What a cruel thing to do.
+	</DIALOGUE>
+</ROBIN>
+<BEDEVERE>
+<DIRECTION>
+(Choking back tears)
+</DIRECTION>
+	<DIALOGUE>
+	It hadn't even been milked.
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Right! Knights! Forward!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR leads a charge toward the castle. Various shots of them battling on, despite being hit by a variety of farm animals.
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(as the MAN next to him is squashed by a sheep)
+</DIRECTION>
+	<DIALOGUE>
+	Knights! Run away!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Midst echoing shouts of "run away" the KNIGHTS retreat to cover with the odd cow or goose hitting them still. The KNIGHTS crouch down under cover.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	The sods! I'll tear them apart.
+	</DIALOGUE>
+</LAUNCELOT>
+<ARTHUR>
+<DIRECTION>
+(restraining LAUNCELOT from going out and having a go)
+</DIRECTION>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	I have a plan sir.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+CUT BACK TO battlements of castle. FRENCH SENTRIES suspiciously peering towards the English lines. Wind whistles.
+</DIRECTION>
+<DIRECTION>
+Shot of the empty scrubland or undergrowth or woodland around the castle. Emptiness. Wind. More shots of the FRENCH SENTRIES peering into the dusk. As night falls. MIX THROUGH TO night On the battlements a brazier burns or torches on the wall as the SENTRIES peer into the dark. Shots of the woodland with fires burning where the English lines are.
+</DIRECTION>
+<DIRECTION>
+During all this the sounds of extensive carpentry have possibly been herd, followed by silence, followed by renewed outbursts or activity.
+</DIRECTION>
+<DIRECTION>
+CLOSE-UP FRENCH looking very nervous. Dawn breaking. Shot of woodland. Nothing. Wind. Dawn still breaking. Shots of the FRENCH. They suddenly hear something. A faintly detectable squeaking which is getting louder.
+</DIRECTION>
+<DIRECTION>
+CUT TO WIDE SHOT of castle and woodland. Squeaking getting louder. Shot of the FRENCH TAUNTER pointing. WIDE SHOT again. The squeaking gets louder an enormous twenty-foot-high wooden rabbit is wheeled out of the undergrowth into the open space in front of the castle. The ENGLISH scuttle back into the undergrowth. The rabbit has a large red bow tied round it and a rather crudely written label, which reads "Pour votres amis Francais". The CHIEF TAUNTER looks at it, narrowing his eyes. Then he turns and leaves battlements.
+</DIRECTION>
+<DIRECTION>
+CUT TO ARTHUR and COMPANY watching from the bushes. The main gate of the castle opens a little and the CHIEF TAUNTER's head sticks out, then another Froggie head, then another. They mutter to each other in French, look rather pleased, then rush out and start to pull the giant rabbit in.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO ARTHUR and COMPANY behind some bushes watching.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Now what happens?
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Well now, Launcelot, Galahad, and I wait until nightfall and then leap out of the rabbit and take the French by surprise, not only by surprise but totally unarmed!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Who ... Who breaks out?
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Er ... We ... Launcelot, Galahad, and I ... Er ... leap out of the rabbit and ...
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+LAUNCELOT covers his eyes.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	Look, if we were to build a large wooden badger...
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+ARTHUR cuffs him. ARTHUR looks at the battlements. There is a loud twang. Look of horror. The rabbit comes sailing over the battlements.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Run away!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+More shouts.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Run away!
+	</DIALOGUE>
+</ARTHUR>
+<SIR_GAWAIN>
+<DIRECTION>
+(to his PAGE as they run away)
+</DIRECTION>
+	<DIALOGUE>
+	It's only a model.
+	</DIALOGUE>
+</SIR_GAWAIN>
+<ARTHUR>
+	<DIALOGUE>
+	Sh!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They continue to retreat. The rabbit lands on GAWAIN'S PAGE (who is already weighed down by enormous quantity of luggage).
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - CASTLE WALLS - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO a MAN in modern dress standing outside a castle. He speaks straight to CAMERA in a documentary kind of way.
+</DIRECTION>
+<DIRECTION>
+SUPERIMPOSE CAPTION: A Very Famous Historian.
+</DIRECTION>
+<HISTORIAN_S_SPEECH>
+	<DIALOGUE>
+	Defeat at the castle seems to have utterly disheartened King Arthur ... The ferocity of the French taunting took him completely by surprise and Arthur became convinced that a new strategy was required if the quest for the Holy Grail were to be brought to a successful conclusion. Arthur, having consulted his closest knights, decided that they should separate, and search for the Grail individually. Now, this is what they did. No sooner...
+	</DIALOGUE>
+</HISTORIAN_S_SPEECH>
+<DIRECTION>
+A KNIGHT rides into shot and hacks him to the ground. He rides off.
+</DIRECTION>
+<DIRECTION>
+We stay for a moment on the glade. A MIDDLE-AGED LADY in a C. & A. twin-set emerges from the trees and looks in horror at the body of her HUSBAND.
+</DIRECTION>
+<MRS_HISTORIAN>
+	<DIALOGUE>
+	FRANK!
+	</DIALOGUE>
+</MRS_HISTORIAN>
+<DIRECTION>
+CUT TO animated frame, with the words "The Tale of Sir Robin" on it. Pleasant pastoral music. MIX THROUGH TO: VOICE: "The Tale Of Sir Robin"
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - GLADE - DAY
+</DIRECTION>
+<DIRECTION>
+A KNIGHT is trotting along through a wooden sun-dapled glade, followed by his trusty PAGE banging the usual half coconuts. As we see them approach we hear the beautiful lilting sound of medieval music, and see that the KNIGHT is followed by a small retinue of MUSICIANS in thirteenth-century courtly costume, one sings, and plays the tambourine, one bangs at a tabor (A small drum O.E.D) and one plays the pipes.
+</DIRECTION>
+<DIRECTION>
+The KNIGHT looks very proud and firm as we hear the first part of the song, but the combination of the lyrics and the large signs they pass, start to have their effect ...
+</DIRECTION>
+<DIRECTION>
+SONG:
+</DIRECTION>
+<DIRECTION>
+Bravely bold Sir Robin, rode forth from Camelot, He was not afraid to die, Oh Brave Sir Robin, He was not at all afraid to be killed in nasty ways Brave, brave, brave, brave Sir Robin.
+</DIRECTION>
+<DIRECTION>
+He was not in the least bit scared to be mashed into a pulp Or to have his eyes gouged out and his elbows broken; To have his kneecaps split and his body burned away And his limbs all hacked and mangled, brave Sir Robin.
+</DIRECTION>
+<DIRECTION>
+His head smashed in, and his heart cut out, And his liver removed, and his bowels unplugged, And his nostrils raped, and his bottom burned off, And his penis split ... and his ...
+</DIRECTION>
+<ROBIN>
+	<DIALOGUE>
+	Er, That's ... That's enough music for a while, lads. It Looks as though like there's dirty work afoot.
+	</DIALOGUE>
+</ROBIN>
+<SINGERS>
+	<DIALOGUE>
+	Brave, Sir Rob ...
+	</DIALOGUE>
+</SINGERS>
+<ROBIN>
+	<DIALOGUE>
+	Shut up.
+	</DIALOGUE>
+</ROBIN>
+<DIRECTION>
+They have ridden past the following signs, all in triplicate:-
+</DIRECTION>
+<DIRECTION>
+CAMELOT 43 CERTAIN DEATH I. CAMELOT 43 CERTAIN DEATH I. CAMELOT 43 CERTAIN DEATH I.
+</DIRECTION>
+<DIRECTION>
+BEWARE! GO BACK! DEAD PEOPLE ONLY! BEWARE! GO BACK! DEAD PEOPLE ONLY! BEWARE! GO BACK! DEAD PEOPLE ONLY!
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - GLADE - DAY
+</DIRECTION>
+<DIRECTION>
+They now pass three KNIGHTS impaled to a tree. With their feet off the ground, with one lance through the lot of them, they are skewered up like a barbecue.
+</DIRECTION>
+<DIRECTION>
+Then they pass three KNIGHTS sitting on the ground with one enormous axe through their skulls. They look timorous.
+</DIRECTION>
+<DIRECTION>
+Then a huge tree is absolutely packed with MAIDENS tied to it. They all look fed up. SIR ROBIN calls out cheerfully as he passes.
+</DIRECTION>
+<ROBIN>
+	<DIALOGUE>
+	Morning.
+	</DIALOGUE>
+</ROBIN>
+<ONE_LADY>
+	<DIALOGUE>
+	Bye.
+	</DIALOGUE>
+</ONE_LADY>
+<DIRECTION>
+SIR ROBIN rides on a little way with the music building up enormous and terrifying tension, until suddenly there standing before him is an enormous THREE-HEADED KNIGHT.
+</DIRECTION>
+<THREE_HEADS>
+	<DIALOGUE>
+	Halt! Who art thou?
+	</DIALOGUE>
+</THREE_HEADS>
+<SINGERS>
+	<DIALOGUE>
+	He is brave Sir Robin, brave Sir Robin, who ...
+	</DIALOGUE>
+</SINGERS>
+<ROBIN>
+<DIRECTION>
+(to SINGERS)
+</DIRECTION>
+	<DIALOGUE>
+	Shut up. Oh, nobody really. just passing through.
+	</DIALOGUE>
+</ROBIN>
+<THREE_HEADS>
+	<DIALOGUE>
+	What do you want?
+	</DIALOGUE>
+</THREE_HEADS>
+<SINGERS>
+	<DIALOGUE>
+	To fight and ...
+	</DIALOGUE>
+</SINGERS>
+<ROBIN>
+	<DIALOGUE>
+	Shut up. Nothing really. just to pass through, good Sir knight.
+	</DIALOGUE>
+</ROBIN>
+<THREE_HEADS>
+	<DIALOGUE>
+	I'm afraid not. This is my bit of the forest. Find your own bit.
+	</DIALOGUE>
+</THREE_HEADS>
+<ROBIN>
+	<DIALOGUE>
+	I am a Knight of King Arthur's Round Table. I seek the Holy Grail - Stand aside and let me pass.
+	</DIALOGUE>
+</ROBIN>
+<THREE_HEADS>
+	<DIALOGUE>
+	You are a Knight of the Round Table?
+	</DIALOGUE>
+</THREE_HEADS>
+<ROBIN>
+	<DIALOGUE>
+	I am.
+	</DIALOGUE>
+</ROBIN>
+<DIRECTION>
+From now on the THREE HEADS speak individually.
+</DIRECTION>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Shit.
+	</DIALOGUE>
+</SECOND_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	In that case I shall have to kill you.
+	</DIALOGUE>
+</FIRST_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Shall I?
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Oh, I don't think so.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	I'm not sure.
+	</DIALOGUE>
+</SECOND_HEAD>
+<MIDDLE_HEAD>
+<DIRECTION>
+(to FIRST)
+</DIRECTION>
+	<DIALOGUE>
+	What do I think?
+	</DIALOGUE>
+</MIDDLE_HEAD>
+<LEFT_HEAD>
+	<DIALOGUE>
+	I think kill him.
+	</DIALOGUE>
+</LEFT_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	I'm still not sure.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	All right. How many of me think I should kill him?
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	I do.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	One.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	That's not a quorum.
+	</DIALOGUE>
+</SECOND_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	It is if I'm the Chairman.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Oo, it's not.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	I'm the Chairman this week.
+	</DIALOGUE>
+</SECOND_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	You're not.
+	</DIALOGUE>
+</FIRST_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Look, it'll make it much simpler if I vote with me.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	To kill him.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+<DIRECTION>
+(tuts)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, damn.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+<DIRECTION>
+(to SIR ROBIN)
+</DIRECTION>
+	<DIALOGUE>
+	Knight, I have decided to kill you.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	With one absenting.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	Knight, I have decided to kill you with one absenting.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+<DIRECTION>
+(to SIR ROBIN)
+</DIRECTION>
+	<DIALOGUE>
+	Sorry about this but I have to be fair.
+	</DIALOGUE>
+</THIRD_HEAD>
+<ROBIN>
+	<DIALOGUE>
+	Oh, that's all right. So you are going to kill me with your big axe.
+	</DIALOGUE>
+</ROBIN>
+<FIRST_HEAD>
+	<DIALOGUE>
+	Er no, with my sword.
+	</DIALOGUE>
+</FIRST_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Dagger.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Mace is quicker.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	No, no, the sword, it's easier.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	He said axe.
+	</DIALOGUE>
+</THIRD_HEAD>
+<ROBIN>
+	<DIALOGUE>
+	Look, hurry up six eyes, or I shall cut your head off.
+	</DIALOGUE>
+</ROBIN>
+<THIRD_HEAD>
+<DIRECTION>
+(to SIR ROBIN, referring to FIRST HEAD)
+</DIRECTION>
+	<DIALOGUE>
+	For God's sake, CUT that one off, and do us all a favour.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Yapping on all the time.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	You're lucky, you're not next to him.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	You snore.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Oo, lies. Anyway, you've got bad breath.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+<DIRECTION>
+(aspirating heavily)
+</DIRECTION>
+	<DIALOGUE>
+	I haven't.
+	</DIALOGUE>
+</SECOND_HEAD>
+<DIRECTION>
+Both THIRD and FIRST HEADS turn away slightly, making faces.
+</DIRECTION>
+<SECOND_HEAD>
+	<DIALOGUE>
+	It's not my fault. It's what you both eat.
+	</DIALOGUE>
+</SECOND_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	Look, stop this bitching. We've got a knight to kill.
+	</DIALOGUE>
+</FIRST_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	He's buggered off.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	So he has. He's scarpered.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	That's all your fault.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	No, it's not.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+<DIRECTION>
+(swipes at himself)
+</DIRECTION>
+	<DIALOGUE>
+	Take that.
+	</DIALOGUE>
+</FIRST_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Ow.
+	</DIALOGUE>
+</SECOND_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	I'm sorry.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	'Ere, stop it. I'll teach you.
+	</DIALOGUE>
+</THIRD_HEAD>
+<DIRECTION>
+The BODY starts laying into itself with sword and mace, while the HEADS argue and shout with pain. We PAN gently across to the MAIDENS on their tree. They are still very fed up.
+</DIRECTION>
+<MAIDEN>
+	<DIALOGUE>
+	I suppose we're lucky he's only got three heads.
+	</DIALOGUE>
+</MAIDEN>
+<LOVELY>
+	<DIALOGUE>
+	Chance would be a fine thing.
+	</DIALOGUE>
+</LOVELY>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Oh! let's be nice to him.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	Oh shut up.
+	</DIALOGUE>
+</FIRST_HEAD>
+<ROBIN>
+	<DIALOGUE>
+	Perhaps I could ...
+	</DIALOGUE>
+</ROBIN>
+<FIRST_HEAD>
+	<DIALOGUE>
+	Oh! quick! get the sword out I want to cut his head off.
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Oh, cut your own head off.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Yes - do us all a favour.
+	</DIALOGUE>
+</SECOND_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</FIRST_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Yapping on all the time.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	You're lucky, you're not next to him.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	You snore.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Ooh, lies! anyway you've got bad breath.
+	</DIALOGUE>
+</THIRD_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Well only because you don't brush my teeth ...
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Oh! stop bickering and let's go and have tea and biscuits.
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	All right! All right! We'll kill him first and then have tea and biscuits.
+	</DIALOGUE>
+</FIRST_HEAD>
+<SECOND_HEAD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	Oh! not biscuits ...
+	</DIALOGUE>
+</THIRD_HEAD>
+<FIRST_HEAD>
+	<DIALOGUE>
+	All right! All right! not biscuits - but lets kill him anyway ...
+	</DIALOGUE>
+</FIRST_HEAD>
+<DIRECTION>
+WIDE-SHOT THE 3-HEADED KNIGHT is alone.
+</DIRECTION>
+<SECOND_HEAD>
+	<DIALOGUE>
+	He's buggered off!
+	</DIALOGUE>
+</SECOND_HEAD>
+<THIRD_HEAD>
+	<DIALOGUE>
+	So he has! He's scarpered.
+	</DIALOGUE>
+</THIRD_HEAD>
+<DIRECTION>
+EXTERIOR - GLADE - DAY
+</DIRECTION>
+<DIRECTION>
+Quick sequence of SIR ROBIN. The music is jolly and bright, as if triumphant. ROBIN is not at all happy with the lyrics.
+</DIRECTION>
+<SINGERS>
+	<DIALOGUE>
+	Brave Sir Robin ran away.
+	</DIALOGUE>
+</SINGERS>
+<ROBIN>
+	<DIALOGUE>
+	I didn't.
+	</DIALOGUE>
+</ROBIN>
+<SINGERS>
+	<DIALOGUE>
+	Bravely ran away, away.
+	</DIALOGUE>
+</SINGERS>
+<ROBIN>
+	<DIALOGUE>
+	No, no, no.
+	</DIALOGUE>
+</ROBIN>
+<SINGERS>
+	<DIALOGUE>
+	When danger reared its ugly head, He bravely turned his tail and fled Yes, Brave Sir Robin turned about And gallantly he chickened out Bravely taking to his feet He beat a very brave retreat Bravest of the brave Sir Robin Petrified of being dead Soiled his pants then brave Sir Robin Turned away and fled.
+	</DIALOGUE>
+</SINGERS>
+<DIRECTION>
+They disappear into distance.
+</DIRECTION>
+<DIRECTION>
+ANIMATION: "The Tale Of Sir Galahad"
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - STORM - FOREST - DUSK
+</DIRECTION>
+<DIRECTION>
+As the storm rages we pick up GALAHAD forcing his way through brambles and over slippery rocks. Progress is hard. He pauses and at this moment we hear the howling of wolves. GALAHAD turns, then hurries onward even more urgently. Another louder, closer howl is herd and GALAHAD stumbles and falls heavily. Though obviously injured he bravely struggles forward a little and regains his feed reacting with pain. More louder closer howling. He grips his sword valiantly and as he glances around a flash of lightning reveals the silhouette of a huge terrifying castle, perhaps looking rather derelict. He makes up his mind in an instant and stumbles manfully toward it. More louder howling. He reaches the forbidding and enormous doors of the castle and beats on the doors with the handle of his sword, looking over his shoulder the while. Pause. He beats again, shouting:
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Open. Open the doors. In the name of King Arthur. Open the doors. I am Sir Galahad, a knight of the Round Table.
+	</DIALOGUE>
+</GALAHAD>
+<DIRECTION>
+Some suitable noises are herd inside.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	I am on a quest for the Holy Grail. I seek shelter.
+	</DIALOGUE>
+</GALAHAD>
+<DIRECTION>
+Some rattling chainy noises come from inside with huge bolts being drawn. The wolves' howling is very close. As the door creaks open GALAHAD steps quickly inside.
+</DIRECTION>
+<DIRECTION>
+INTERIOR - CASTLE - NIGHT
+</DIRECTION>
+<DIRECTION>
+From inside we see GALAHAD enter, wiping the rain from his eyes, and turn as the door crashes behind him. GALAHAD turns to the door reacting to the fact he is trapped.
+</DIRECTION>
+<ZOOT>
+<DIRECTION>
+(OUT OF VISION)
+</DIRECTION>
+	<DIALOGUE>
+	Hello!
+	</DIALOGUE>
+</ZOOT>
+<DIRECTION>
+GALAHAD turns back. We see from his POV the lovely ZOOT standing by him smiling enchantingly and a number of equally delectable GIRLIES draped around in the seductively poulticed room. They look at him smilingly and wave.
+</DIRECTION>
+<GIRLIES>
+	<DIALOGUE>
+	Hello!
+	</DIALOGUE>
+</GIRLIES>
+<ZOOT>
+	<DIALOGUE>
+	Welcome, gentle Sir knight, welcome to the Castle Anthrax.
+	</DIALOGUE>
+</ZOOT>
+<GALAHAD>
+	<DIALOGUE>
+	The Castle Anthrax?
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+	<DIALOGUE>
+	Yes. It's not a very good name, is it? But we are nice and we shall attend to your every ... every need!
+	</DIALOGUE>
+</ZOOT>
+<GALAHAD>
+	<DIALOGUE>
+	Er ... You are the keepers of the Holy Grail?
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+	<DIALOGUE>
+	The what? But you are tired and you must rest awhile. Midget! Crapper!
+	</DIALOGUE>
+</ZOOT>
+<MIDGET_AND_CRAPPER>
+	<DIALOGUE>
+	Yes, O Zoot?
+	</DIALOGUE>
+</MIDGET_AND_CRAPPER>
+<ZOOT>
+	<DIALOGUE>
+	Prepare a bed for our guest.
+	</DIALOGUE>
+</ZOOT>
+<MIDGET_AND_CRAPPER>
+<DIRECTION>
+(grovelling with delight)
+</DIRECTION>
+	<DIALOGUE>
+	Oh thank you, Zoot, thank you, thank you.
+	</DIALOGUE>
+</MIDGET_AND_CRAPPER>
+<ZOOT>
+	<DIALOGUE>
+	Away varletesses!
+	</DIALOGUE>
+<DIRECTION>
+(to GALAHAD)
+</DIRECTION>
+	<DIALOGUE>
+	The beds here are warm and soft and very, very big.
+	</DIALOGUE>
+</ZOOT>
+<GALAHAD>
+	<DIALOGUE>
+	Well, look er, I ...
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+	<DIALOGUE>
+	What is your name, handsome knight?
+	</DIALOGUE>
+</ZOOT>
+<GALAHAD>
+	<DIALOGUE>
+	Er ... Sir Galahad... the Chaste.
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+	<DIALOGUE>
+	Mine is Zoot. Just Zoot
+	</DIALOGUE>
+<DIRECTION>
+(she is very close to him for a moment)
+</DIRECTION>
+	<DIALOGUE>
+	But come.
+	</DIALOGUE>
+</ZOOT>
+<DIRECTION>
+She turns away and leads him towards a door leading to a corner leading to the bedchamber
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Well Look, I'm afraid I really ought to be ...
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+	<DIALOGUE>
+	Sir Galahad!!
+	</DIALOGUE>
+</ZOOT>
+<DIRECTION>
+There is a gasp from the other GIRLS
+</DIRECTION>
+<ZOOT>
+	<DIALOGUE>
+	You would not be so ungallant as to refuse our hospitality.
+	</DIALOGUE>
+</ZOOT>
+<DIRECTION>
+GALAHAD looks at the other GIRLS. They are clearly on the verge of being offended.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Well ...
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+<DIRECTION>
+(she moves off and GALAHAD unwillingly follows)
+</DIRECTION>
+	<DIALOGUE>
+	I'm afraid our life must seem very dull and quiet compared to yours. We are but eightscore young blondes, all between sixteen and nineteen-and-a-half, cut off in this castle, with no one to protect us. Oooh. It is a lonely life ... bathing ... dressing ... undressing ... making exciting underwear....
+	</DIALOGUE>
+</ZOOT>
+<DIRECTION>
+They reach the end of the corridor and enter the bedchamber. ZOOT turns
+</DIRECTION>
+<ZOOT>
+	<DIALOGUE>
+	We are just not used to handsome knights ...
+	</DIALOGUE>
+<DIRECTION>
+(she notices him limping)
+</DIRECTION>
+	<DIALOGUE>
+	But you are wounded!
+	</DIALOGUE>
+</ZOOT>
+<GALAHAD>
+	<DIALOGUE>
+	No, It's nothing!
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+	<DIALOGUE>
+	You must see the doctors immediately.
+	</DIALOGUE>
+<DIRECTION>
+(she claps again)
+</DIRECTION>
+	<DIALOGUE>
+	You must lie down.
+	</DIALOGUE>
+</ZOOT>
+<DIRECTION>
+She almost forces him to lie on the bed as PIGLET and WINSTON enter the room. They are equally beautiful and dressed exotically. They approach GALAHAD.
+</DIRECTION>
+<PIGLET>
+	<DIALOGUE>
+	Well, what seems to be the trouble?
+	</DIALOGUE>
+</PIGLET>
+<GALAHAD>
+	<DIALOGUE>
+	They're doctors?
+	</DIALOGUE>
+</GALAHAD>
+<ZOOT>
+	<DIALOGUE>
+	They have a basic medical training, yes. Now you must try to rest. Dr. Winston! Dr. Piglet! Practice your art!!
+	</DIALOGUE>
+</ZOOT>
+<WINSTON>
+	<DIALOGUE>
+	Try to relax.
+	</DIALOGUE>
+</WINSTON>
+<GALAHAD>
+	<DIALOGUE>
+	No look, really, this isn't nescess ...
+	</DIALOGUE>
+</GALAHAD>
+<PIGLET>
+	<DIALOGUE>
+	We must examine you.
+	</DIALOGUE>
+</PIGLET>
+<GALAHAD>
+	<DIALOGUE>
+	There's nothing wrong with ... that.
+	</DIALOGUE>
+</GALAHAD>
+<PIGLET>
+<DIRECTION>
+(slightly irritated)
+</DIRECTION>
+	<DIALOGUE>
+	Please ... we are doctors.
+	</DIALOGUE>
+</PIGLET>
+<DIRECTION>
+ZOOT reappears. GALAHAD tries for one brief moment to relax. Then there is a sharp boing from the lower part of his armour. WINSTON glances quickly in the appropriate direction as GALAHAD sits up and starts getting off the bed and collecting his armour, saying:
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	No, no, this cannot be. I am sworn to chastity!
+	</DIALOGUE>
+</GALAHAD>
+<PIGLET>
+	<DIALOGUE>
+	Back to your bed! At once!
+	</DIALOGUE>
+</PIGLET>
+<GALAHAD>
+	<DIALOGUE>
+	I'm sorry, I must go.
+	</DIALOGUE>
+</GALAHAD>
+<DIRECTION>
+GALAHAD hurries to the door and pushes through it. As he leaves the room we CUT TO the reverse to show that he is now in a room full of bathing and romping GIRLIES, all innocent, wide-eyed and beautiful. They smile enchantingly at him as he tries to keep walking without being diverted by the lovely sights assaulting his eyeballs. He nods to them stiffly once or twice and then his eye catches a particularly stunning YOUNG LADY. He visibly gulps with repressed emotion and cannot resist saying:
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Good evening ... Ah, Zoot! Er ...
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+	<DIALOGUE>
+	No, I am Zoot's identical twin sister, Dingo.
+	</DIALOGUE>
+</DINGO>
+<GALAHAD>
+	<DIALOGUE>
+	Oh. Well, I'm sorry, but I must leave immediately.
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+<DIRECTION>
+(very dramatically)
+</DIRECTION>
+	<DIALOGUE>
+	No! Oh, no! Bad ... bad Zoot.
+	</DIALOGUE>
+</DINGO>
+<GALAHAD>
+	<DIALOGUE>
+	Er, why?
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+	<DIALOGUE>
+	She has been lying again ... she told us you had promised to stay for ever!
+	</DIALOGUE>
+</DINGO>
+<GALAHAD>
+	<DIALOGUE>
+	Oh!
+	</DIALOGUE>
+</GALAHAD>
+<GALAHAD>
+	<DIALOGUE>
+	Oh ... will you excuse me?
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+</DINGO>
+<GALAHAD>
+	<DIALOGUE>
+	I have seen the Grail! I have seen it - here in this castle!
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+	<DIALOGUE>
+	No! Oh, no! Bad ... bad Zoot!
+	</DIALOGUE>
+</DINGO>
+<GALAHAD>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+	<DIALOGUE>
+	Bad, wicked, naughty Zoot! She has been setting fire to our beacon, which - I have just remembered - is grail-shaped ... It is not the first time we've had this problem.
+	</DIALOGUE>
+</DINGO>
+<GALAHAD>
+	<DIALOGUE>
+	It's not the real Grail?
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+	<DIALOGUE>
+	Wicked wicked Zoot ... she is a bad person and she must pay the penalty. And here in Castle Anthrax, we have but one punishment ... you must tie her down on a bed ... and spank her. Come!
+	</DIALOGUE>
+</DINGO>
+<GIRLS>
+	<DIALOGUE>
+	A spanking! A spanking!
+	</DIALOGUE>
+</GIRLS>
+<DINGO>
+	<DIALOGUE>
+	You must spank her well and after you have spanked her you may deal with her as you like and then ... spank me.
+	</DIALOGUE>
+</DINGO>
+<AMAZING>
+	<DIALOGUE>
+	And spank me!
+	</DIALOGUE>
+</AMAZING>
+<STUNNER>
+	<DIALOGUE>
+	And me.
+	</DIALOGUE>
+</STUNNER>
+<LOVELY>
+	<DIALOGUE>
+	And me.
+	</DIALOGUE>
+</LOVELY>
+<DINGO>
+	<DIALOGUE>
+	Yes, yes, you must give us all a good spanking!
+	</DIALOGUE>
+</DINGO>
+<GIRLS>
+	<DIALOGUE>
+	A spanking. A spanking. There is going to be a spanking tonight.
+	</DIALOGUE>
+</GIRLS>
+<DINGO>
+	<DIALOGUE>
+	And after the spanking ... the oral sex.
+	</DIALOGUE>
+</DINGO>
+<GALAHAD>
+	<DIALOGUE>
+	Oh, dear! Well, I...
+	</DIALOGUE>
+</GALAHAD>
+<GIRLS>
+	<DIALOGUE>
+	The oral sex ... The oral sex.
+	</DIALOGUE>
+</GIRLS>
+<GALAHAD>
+	<DIALOGUE>
+	Well, I suppose I could stay a BIT longer.
+	</DIALOGUE>
+</GALAHAD>
+<DIRECTION>
+At this moment there is a commotion behind and SIR LAUNCELOT and CONCORD, possibly plus GAWAIN, burst into the bathing area with swords drawn and form themselves round SIR GALAHAD threatening the GIRLS.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	Sir Galahad!
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	Oh ... hello ...
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	Quick!
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	You are in great peril.
+	</DIALOGUE>
+</LAUNCELOT>
+<DINGO>
+	<DIALOGUE>
+	No he isn't
+	</DIALOGUE>
+</DINGO>
+<LAUNCELOT>
+	<DIALOGUE>
+	Silence! Foul temptress!
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	Well, she's got a point.
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	We'll cover your escape!
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	Look - I'm fine!
+	</DIALOGUE>
+</GALAHAD>
+<GIRLS>
+	<DIALOGUE>
+	Sir Galahad!
+	</DIALOGUE>
+</GIRLS>
+<DIRECTION>
+He threatens DINGO.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	No. Look, I can tackle this lot single-handed!
+	</DIALOGUE>
+</GALAHAD>
+<GIRLS>
+	<DIALOGUE>
+	Yes, yes, let him Tackle us single-handed!
+	</DIALOGUE>
+</GIRLS>
+<LAUNCELOT>
+	<DIALOGUE>
+	Come Sir Galahad, quickly!
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	No, really, I can cope. I can handle this lot easily!
+	</DIALOGUE>
+</GALAHAD>
+<DINGO>
+	<DIALOGUE>
+	Yes, let him handle us easily.
+	</DIALOGUE>
+</DINGO>
+<LAUNCELOT>
+	<DIALOGUE>
+	No sir. Quick!
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+He starts pulling GALAHAD away.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	No, please. Please! I can defeat them! There's only a hundred.
+	</DIALOGUE>
+</GALAHAD>
+<GIRLS>
+	<DIALOGUE>
+	He will beat us easily. We haven't a chance.
+	</DIALOGUE>
+</GIRLS>
+<DINGO>
+	<DIALOGUE>
+	Oh shit!
+	</DIALOGUE>
+</DINGO>
+<DIRECTION>
+By now LAUNCELOT and CONCORDE have hustled GALAHAD out of the bathing area and are running through the outside door.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	We were in the nick of time. You were in great peril.
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+<DIRECTION>
+(dragging his feet somewhat)
+</DIRECTION>
+	<DIALOGUE>
+	I don't think I was.
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	You were, Sir Galahad, You were in terrible peril.
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	Look, let me go back in there and face the peril?
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	It's too perilous.
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+They are right outside the castle by now.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Look, it's my duty as a knight to try and sample as much peril as I can.
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	No, no, we must find the Grail.
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+The thunderstorm is over. A bunch (sic) of PAGES are tethered to a tree with more MEN waiting. Their tethers are untied and the PAGES start banging away with their coconuts. GALAHAD is swept along with them as they ride off.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Oh, let me go and have a bit of peril?
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	No. It's unhealthy.
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	... I Bet you're gay.
+	</DIALOGUE>
+</GALAHAD>
+<LAUNCELOT>
+	<DIALOGUE>
+	No, I'm not.
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+GAWAIN or CONCORDE gives a knowing glance at LAUNCELOT. VOICE comes in as they ride off.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	Sir Launcelot had saved Galahad from almost certain temptation but they were still lost, far from the goal of their search for the Holy Grail. Only Bedevere and King Arthur himself, riding day and night, had made any progress.
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+:SC: ANIMATION/LIVE ACTION
+</DIRECTION>
+<DIRECTION>
+ARTHUR and BEDEVERE in the depths of a dark forest with an old blind SOOTHSAYER. He lies in a broken down old woodman's hut.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	And this "Enchanter" of whom you speak, he has seen the grail?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The SOOTHSAYER laughs forbiddingly, adding to the general spookiness of this encounter.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Where does he live?
+	</DIALOGUE>
+<DIRECTION>
+(he stares into the blind eyes of the OLD MAN)
+</DIRECTION>
+	<DIALOGUE>
+	Old man ... where does he live ...
+	</DIALOGUE>
+</ARTHUR>
+<SOOTHSAYER>
+	<DIALOGUE>
+	He knows of a cave ... a cave which no man has entered.
+	</DIALOGUE>
+</SOOTHSAYER>
+<ARTHUR>
+	<DIALOGUE>
+	And ... the Grail ... The Grail is there?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The BLIND MAN laughs again to himself.
+</DIRECTION>
+<SOOTHSAYER>
+	<DIALOGUE>
+	There is much danger ... for beyond the cave lies the Gorge of Eternal Peril which no man has ever crossed.
+	</DIALOGUE>
+</SOOTHSAYER>
+<ARTHUR>
+	<DIALOGUE>
+	But the Grail ... where is the Grail!?
+	</DIALOGUE>
+</ARTHUR>
+<SOOTHSAYER>
+	<DIALOGUE>
+	Seek you the Bridge of Death ...
+	</DIALOGUE>
+</SOOTHSAYER>
+<ARTHUR>
+	<DIALOGUE>
+	The Bridge of Death? ... which leads to the Grail?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The OLD MAN laughs sinisterly and mockingly. They look down and he is gone. They stand up. Suddenly behind them is a noise. They turn sharply in the door of the little hut is a cat. It miaows and is gone. They slowly back out of the hut. As they touch the doorposts they just flake away into dust. The whole hut is rotten. It collapses
+</DIRECTION>
+<DIRECTION>
+Spooky music. They are thoroughly shaken, and they begin to hear noises of people moving in the forest around them. They start to back cautiously away from the hut, suddenly there is heavy footfall behind them. They turn in fear and:
+</DIRECTION>
+<DIRECTION>
+Sudden CUT TO BIG CLOSE-UP of a frightening black-browed evil face.
+</DIRECTION>
+<TALL_KNIGHT_OF_NI>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</TALL_KNIGHT_OF_NI>
+<DIRECTION>
+ARTHUR and BEDEVERE recoil in abject fear. PATSY rears up with coconuts.
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(to PATSY)
+</DIRECTION>
+	<DIALOGUE>
+	Easy ... boy, easy ...
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR peers into the darkness.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+</ARTHUR>
+<SIX_VOICES_FROM_DARKNESS>
+	<DIALOGUE>
+	NI! ... Peng! ... Neeee ... Wom!
+	</DIALOGUE>
+</SIX_VOICES_FROM_DARKNESS>
+<DIRECTION>
+An extraordinary TALL KNIGHT in all black (possibly John with Mike on his shoulders) walks out from the dark trees. He is extremely fierce and gruesome countenance. He walks towards KING ARTHUR and PATSY, who are wazzing like mad. (Salopian slang, meaning very scared. almost to the point of wetting oneself, e.g. before an important football match or prior to a postering. Salopian slang meaning a beating by the school praeposters. Sorry about the Salopian slant to this stage direction - Ed.)
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(wazzed stiff)
+</DIRECTION>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	We are the Knights Who Say "Ni"!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	No! Not the Knights Who Say "Ni"!
+	</DIALOGUE>
+</BEDEVERE>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	The same!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	Who are they?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	We are the keepers of the sacred words. NI ... Peng ... and Neee ... Wom!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<BEDEVERE>
+	<DIALOGUE>
+	Those who hear them seldom live to tell the tale.
+	</DIALOGUE>
+</BEDEVERE>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	The Knights Who Say "Ni"! demand a sacrifice.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+<DIRECTION>
+(to the TALL KNIGHT)
+</DIRECTION>
+	<DIALOGUE>
+	Knights Who Say "Ni" ... we are but simple travellers. We seek the Enchanter who lives beyond this wood and who ...
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	NI!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+<DIRECTION>
+(recoiling)
+</DIRECTION>
+	<DIALOGUE>
+	Oh!
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	NI! NI!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+<DIRECTION>
+(he cowers in fear)
+</DIRECTION>
+	<DIALOGUE>
+	Oh!
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	We shall say Ni! again to you if you do not appease us.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	All right! What do you want?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	We want ... a shrubbery!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	A what?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Ni! Ni! Ni ... Peng ... Nee ... Wum!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<DIRECTION>
+The PAGES rear and snort and rattle their coconuts.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	All right! All right! ... No more, please. We will find you a shrubbery ...
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	You must return here with a shrubbery or else ... you shall not pass through this wood alive!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	Thanks you, Knights Who Say Ni! You are fair and just. We will return with a shrubbery.
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	One that looks nice.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	Of course.
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	And not too expensive.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	Yes ...
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Now - go!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<DIRECTION>
+ARTHUR and BEDEVERE turn and ride off.
+</DIRECTION>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	Ni! Ni!
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<DIRECTION>
+Shouts of "Ni" and "Peng" ring behind them.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO the HISTORIAN lying in the glade. His WIFE, who has been kneeling beside him, rises as two POLICE PATROLMEN enter the glade. They bend over her HUSBAND. One takes out a notebook.
+</DIRECTION>
+<DIRECTION>
+CUT TO and animated title - "The Tale of Sir Launcelot"
+</DIRECTION>
+<DIRECTION>
+INTERIOR - PRINCE'S ROOM IN CASTLE - DAY
+</DIRECTION>
+<DIRECTION>
+A young, quite embarrassingly unattractive PRINCE is gazing out of a castle window. His FATHER stands beside him. He is also looking out. The PRINCE wears a long white undershirt (like a night shirt).
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	One day, lad, all this will be yours ...
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	What - the curtains?
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	No! Not the curtains, lad ... All that ...
+	</DIALOGUE>
+<DIRECTION>
+(indicates the vista from the window)
+</DIRECTION>
+	<DIALOGUE>
+	all that you can see, stretched out over the hills and valleys ... as far as the eye can see and beyond ... that'll be your kingdom, lad.
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	But, Mother ...
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Father, lad.
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	But, Father, I don't really want any of that.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Listen, lad, I built this kingdom up from nothing. All I had when I started was swamp ... other kings said I was daft to build a castle on a swamp, but I built it all the same ... just to show 'em. It sank into the swamp. So I built a another one ... that sank into the swamp. I built another one ... That fell over and THEN sank into the swamp .... So I built another ... and that stayed up. ... And that's what your gonna get, lad: the most powerful kingdom in this island.
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	But I don't want any of that, I'd rather ...
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Rather what?
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	I'd rather ... just ... sing ...
+	</DIALOGUE>
+</PRINCE>
+<DIRECTION>
+MUSIC INTRO
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	You're not going to do a song while I'm here!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+Music stops.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	Listen, lad, in twenty minutes you're going to be married to a girl whose father owns the biggest tracts of open land in Britain.
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	I don't want land.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Listen, Alice ...
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	Herbert.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Herbert ... We built this castle on a bloody swamp, we need all the land we can get.
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	But I don't like her.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Don't like her? What's wrong with her? She's beautiful ... she's rich ... she's got huge tracts of land ...
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	I know ... but ... I want the girl that I marry to have ... a certain ... special ... something ...
+	</DIALOGUE>
+</PRINCE>
+<DIRECTION>
+MUSIC INTO FOR song.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	Cut that out!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+Music cuts off abruptly.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	You're marrying Princess Lucky, so you'd better get used to the idea! Guards!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+TWO GUARDS enter and stand to attention on either side of the door One of them has hiccoughs and does so throughout.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	Make sure the Prince doesn't leave this room until I come and get him.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Not ... to leave the room ... even if you come and get him.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	No. Until I come and get him.
+	</DIALOGUE>
+</FATHER>
+<SECOND_GUARD>
+	<DIALOGUE>
+	Hic.
+	</DIALOGUE>
+</SECOND_GUARD>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Until you come and get him, we're not to enter the room.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	No ... You stay in the room and make sure he doesn't leave.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	... and you'll come and get him.
+	</DIALOGUE>
+</FIRST_GUARD>
+<SECOND_GUARD>
+	<DIALOGUE>
+	Hic.
+	</DIALOGUE>
+</SECOND_GUARD>
+<FATHER>
+	<DIALOGUE>
+	That's Right.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	We don't need to do anything, apart from just stop him entering the room.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Leaving the room.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Leaving the room ... yes.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Got it?
+	</DIALOGUE>
+</FATHER>
+<SECOND_GUARD>
+	<DIALOGUE>
+	Hic.
+	</DIALOGUE>
+</SECOND_GUARD>
+<DIRECTION>
+FARTHER makes to leave.
+</DIRECTION>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Er ... if ... we ... er ...
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Yes?
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	If we ... er ...
+	</DIALOGUE>
+<DIRECTION>
+(trying to remember what he was going to say)
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	Look, it's simple. Just stay here and make sure he doesn't leave the room.
+	</DIALOGUE>
+</FATHER>
+<SECOND_GUARD>
+	<DIALOGUE>
+	Hic.
+	</DIALOGUE>
+</SECOND_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Right?
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Oh, I remember ... can he ... er ... can he leave the room with us?
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+<DIRECTION>
+(carefully)
+</DIRECTION>
+	<DIALOGUE>
+	No .... keep him in here ... and make sure he doesn't ...
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Oh, yes! we'll keep him in here, obviously. But if he had to leave and we were with him.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	No ... just keep him in here.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Until you, or anyone else ...
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	No, not anyone else - just me.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Just you ...
+	</DIALOGUE>
+</FIRST_GUARD>
+<SECOND_GUARD>
+	<DIALOGUE>
+	Hic.
+	</DIALOGUE>
+</SECOND_GUARD>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Get back.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Right.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Okay. Fine. We'll remain here until you get back.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	And make sure he doesn't leave.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Make sure he doesn't leave.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	The Prince ... ?
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Yes ... make sure ...
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Oh yes, of course! I thought you meant him!
+	</DIALOGUE>
+<DIRECTION>
+(he points to the other GUARD and laughs to himself)
+</DIRECTION>
+	<DIALOGUE>
+	You know it seemed a bit daft me havin' to guard him when he's a guard ...
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	Is that clear?
+	</DIALOGUE>
+</FATHER>
+<SECOND_GUARD>
+	<DIALOGUE>
+	Hic.
+	</DIALOGUE>
+</SECOND_GUARD>
+<FIRST_GUARD>
+<DIRECTION>
+Oh, yes. That's quite clear. No problems.
+</DIRECTION>
+<DIRECTION>
+FATHER pulls open the door and makes to leave the room. The GUARDS follow.
+</DIRECTION>
+<FATHER>
+<DIRECTION>
+(to the GUARDS)
+</DIRECTION>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	We're coming with you.
+	</DIALOGUE>
+</FIRST_GUARD>
+<FATHER>
+	<DIALOGUE>
+	No, I want you to stay here and make sure he doesn't leave the room until I get back.
+	</DIALOGUE>
+</FATHER>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Oh, I see, Right.
+	</DIALOGUE>
+</FIRST_GUARD>
+<DIRECTION>
+They take up positions on either side of the door.
+</DIRECTION>
+<PRINCE>
+	<DIALOGUE>
+	But, Father.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Shut your noise, you, and get that suit on!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+He points to a wedding suit on a table or chair. FATHER throws one last look at the BOY and turns, goes out and slams the door.
+</DIRECTION>
+<DIRECTION>
+The PRINCE slumps onto window seat, looking forlornly out of the window. MUSIC INTRO to song ...
+</DIRECTION>
+<DIRECTION>
+The door flies open, the music cuts off and FATHER pokes his head in.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	And no singing!
+	</DIALOGUE>
+</FATHER>
+<SECOND_GUARD>
+	<DIALOGUE>
+	Hic.
+	</DIALOGUE>
+</SECOND_GUARD>
+<FATHER>
+<DIRECTION>
+(as he goes out.)
+</DIRECTION>
+	<DIALOGUE>
+	Go and have a drink of water.
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+FATHER slams the door again. The GUARDS take up their positions. The SON gazes out of the window again ... sighs ... thinks ... a thought strikes him ... he gets up, crosses to his desk and scribbles a quick note and impales it on an arrow ... takes a bow down from the wall ... and fires the arrow out of the window.
+</DIRECTION>
+<DIRECTION>
+He looks wetly defiant at the GUARDS, who smile pleasantly.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - A FOREST - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO the middle of the forest. SIR LAUNCELOT is riding along with a trusty servant, CONCORDE.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	And ... o v e r ... we go!
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+He strides over a big tree trunk ... his "horse" does run and jump ...
+</DIRECTION>
+<LAUNCELOT>
+<DIRECTION>
+(enthusiastically)
+</DIRECTION>
+	<DIALOGUE>
+	Well taken, Concorde!
+	</DIALOGUE>
+</LAUNCELOT>
+<CONCORDE>
+	<DIALOGUE>
+	Thank you, sir, most kind ...
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+	<DIALOGUE>
+	And another!
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+CONCORDE misses a beat.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	Steady! Good ... and the last one ...
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+CONCORDE does the run-up with the coconuts. He does the break for the leap ... there is a thwack. SIR LAUNCELOT is waiting for the horse to land.
+</DIRECTION>
+<CONCORDE>
+	<DIALOGUE>
+	Message for you, sir.
+	</DIALOGUE>
+</CONCORDE>
+<DIRECTION>
+He falls forward revealing the arrow with the note.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	Concorde - speak to me.
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+He realises he might be in danger and so starts to crawl off ... when he notices the note. He takes it out and reads it.
+</DIRECTION>
+<LAUNCELOT>
+<DIRECTION>
+(reading)
+</DIRECTION>
+	<DIALOGUE>
+	"To whoever finds this note - I have been imprisoned by my father who wishes me to marry against my will. Please please please please come and rescue me. I am in the tall tower of Swamp Castle."
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+SIR LAUNCELOT's eyes light up with holy inspiration.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	At last! A call! A cry of distress ...
+	</DIALOGUE>
+<DIRECTION>
+(he draws his sword, and turns to CONCORDE) Concorde! Brave, Concorde ... you shall not have died in vain!
+</DIRECTION>
+<CONCORDE>
+	<DIALOGUE>
+	I'm not quite dead, sir ...
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+<DIRECTION>
+(a little deflated)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, well ... er brave Concorde! You shall not have been fatally wounded in vain!
+	</DIALOGUE>
+</LAUNCELOT>
+<CONCORDE>
+	<DIALOGUE>
+	I think I could pull through, sir.
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+	<DIALOGUE>
+	Good Concorde ... stay here and rest awhile.
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+He makes to leap off dramatically.
+</DIRECTION>
+<CONCORDE>
+	<DIALOGUE>
+	I think I'll be all right to come with you, sir.
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+	<DIALOGUE>
+	I will send help, brave friend, as soon as I have accomplished this most daring, desperate adventure in this genre.
+	</DIALOGUE>
+</LAUNCELOT>
+<CONCORDE>
+	<DIALOGUE>
+	Really, I feel fine, sir.
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+	<DIALOGUE>
+	Farewell, Concorde!
+	</DIALOGUE>
+</LAUNCELOT>
+<CONCORDE>
+	<DIALOGUE>
+	It just seems silly ... me lying here.
+	</DIALOGUE>
+</CONCORDE>
+<DIRECTION>
+SIR LAUNCELOT plunges off into the forest.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - CASTLE GATEWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Two hanging banners one each side of the gate with the monogram: "H & L".
+</DIRECTION>
+<DIRECTION>
+TWO SENTRIES with spears ... slightly weddingly ... red ribbons on their right spears. We can hear from inside revelry and celebration music.
+</DIRECTION>
+<DIRECTION>
+We hear LAUNCELOT's footsteps. The TWO SENTRIES are watching him. One of them raises his hand.
+</DIRECTION>
+<FIRST_SENTRY>
+	<DIALOGUE>
+	Halt, friend ...
+	</DIALOGUE>
+</FIRST_SENTRY>
+<DIRECTION>
+LAUNCELOT leaps into SHOT with a mighty cry and runs the GUARD through and hacks him to the floor. Blood. Swashbuckling music (perhaps). LAUNCELOT races through into the castle screaming.
+</DIRECTION>
+<SECOND_SENTRY>
+	<DIALOGUE>
+	Hey!
+	</DIALOGUE>
+</SECOND_SENTRY>
+<DIRECTION>
+He looks down at his mutilated comrade.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO inside of the castle grounds or courtyard.
+</DIRECTION>
+<DIRECTION>
+in the sunlight beautifully dressed WEDDING GUESTS are arriving. Converging on a doorway. A country dance in progress.
+</DIRECTION>
+<DIRECTION>
+SIR LAUNCELOT rushes towards them.
+</DIRECTION>
+<DIRECTION>
+CUT TO HAND-HELD CLOSE-UPS as he charges through the crowd, hacking right and left a la Errol Flynn at all who come in his way.
+</DIRECTION>
+<DIRECTION>
+He fights his way through the country dance. Blood. Shrieks. Bemused looks of GUESTS - not horror so much as uncomprehending surprise.
+</DIRECTION>
+<DIRECTION>
+Possibly Errol Flynn music.
+</DIRECTION>
+<DIRECTION>
+One COUNTRY DANCER is left holding just a hand.
+</DIRECTION>
+<DIRECTION>
+Right and left the GUESTS crumple in pools of blood as he fights his way through the door and into the main hall.
+</DIRECTION>
+<DIRECTION>
+INTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO interior of main hall. Sound of busy preparations. MEN setting up huge hogsheads of wine. MEN putting up last minute flower arrangements. COOKS bearing huge trays of food, pies, suckling pigs, a swan, boar's head, etc.
+</DIRECTION>
+<DIRECTION>
+The BRIDE being dressed by several ATTENDANTS. FATHER ordering SERVANTS around - organizing the STEWARDS etc.
+</DIRECTION>
+<DIRECTION>
+SIR LAUNCELOT bursts through the middle of them, slashing heroically, hacking, wounding and killing. Again fairly CLOSE-UP chaotic SHOTS. We see GUESTS stagger back wounded - a COOK bites the dust, etc.
+</DIRECTION>
+<DIRECTION>
+SIR LAUNCELOT eventually reaches the staircase ... runs up it and into a small door.
+</DIRECTION>
+<DIRECTION>
+INTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO SIR LAUNCELOT running up spiral staircase. He reaches the door of the PRINCE's room. he flings it open.
+</DIRECTION>
+<FIRST_GUARD>
+	<DIALOGUE>
+	Ah! Now ... we're not allowed to ...
+	</DIALOGUE>
+</FIRST_GUARD>
+<DIRECTION>
+SIR LAUNCELOT runs him through, grabs his spear and stabs the other guard who collapses in a heap. Hiccoughs quietly.
+</DIRECTION>
+<DIRECTION>
+SIR LAUNCELOT runs to the window and kneels down in front of the PRINCE, averting his head.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	Oh, fair one, behold your humble servant, Sir Launcelot, from the Court of Camelot. I have come to take you ...
+	</DIALOGUE>
+<DIRECTION>
+(he looks up for the first time and his voice trails away)
+</DIRECTION>
+	<DIALOGUE>
+	away ... I'm terribly sorry ...
+	</DIALOGUE>
+</LAUNCELOT>
+<PRINCE>
+	<DIALOGUE>
+	You got my note!
+	</DIALOGUE>
+</PRINCE>
+<LAUNCELOT>
+	<DIALOGUE>
+	Well ... yes ...
+	</DIALOGUE>
+</LAUNCELOT>
+<PRINCE>
+	<DIALOGUE>
+	You've come to rescue me?
+	</DIALOGUE>
+</PRINCE>
+<LAUNCELOT>
+	<DIALOGUE>
+	Well ... yes ... but I hadn't realised ...
+	</DIALOGUE>
+</LAUNCELOT>
+<PRINCE>
+<DIRECTION>
+(his eyes light up)
+</DIRECTION>
+	<DIALOGUE>
+	I knew that someone would come. I knew ... somewhere out there ... there must be ...
+	</DIALOGUE>
+</PRINCE>
+<DIRECTION>
+MUSIC INTRO to song.
+</DIRECTION>
+<FATHER>
+<DIRECTION>
+(suddenly looking in the door)
+</DIRECTION>
+	<DIALOGUE>
+	Stop that!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+Music cuts out.
+</DIRECTION>
+<DIRECTION>
+FATHER sees SIR LAUNCELOT still kneeling before his son.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	I'm ... your son ...
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Not you.
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+<DIRECTION>
+(half standing self-consciously)
+</DIRECTION>
+	<DIALOGUE>
+	I'm ... er ... Sir Launcelot, sir.
+	</DIALOGUE>
+</LAUNCELOT>
+<PRINCE>
+	<DIALOGUE>
+	He's come to rescue me, father.
+	</DIALOGUE>
+</PRINCE>
+<LAUNCELOT>
+<DIRECTION>
+(embarrassed)
+</DIRECTION>
+	<DIALOGUE>
+	Well, let's not jump to conclusions ...
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	Did you kill all those guards?
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Yes ... I'm very sorry ...
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	They cost fifty pounds each!
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Well, I'm really am most awfully sorry but I ... I can explain everything ...
+	</DIALOGUE>
+</LAUNCELOT>
+<PRINCE>
+	<DIALOGUE>
+	Don't be afraid of him, Sir Launcelot. I've got a rope here all ready ...
+	</DIALOGUE>
+</PRINCE>
+<DIRECTION>
+He throws a rope out of the window which is tied to a pillar in the room He looks rather pleased with himself that he has got it all ready.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	You killed eight wedding guests in all!
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Er, Well ... the thing is ... I thought your son was a lady.
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	I can understand that.
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+<DIRECTION>
+(half out of the window)
+</DIRECTION>
+	<DIALOGUE>
+	Hurry, brave Sir Launcelot!
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+<DIRECTION>
+(to his SON)
+</DIRECTION>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+<DIRECTION>
+(to LAUNCELOT)
+</DIRECTION>
+	<DIALOGUE>
+	You only killed the bride's father - that's all -
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Oh dear, I didn't really mean to...
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	Didn't mean to? You put your sword right through his head!
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Gosh - Is he all right?
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	You even kicked the bride in the chest! It's going to cost me a fortune!
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	I can explain ... I was in the forest ... riding north from Camelot ... when I got this note.
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	Camelot? Are you from Camelot?
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+The PRINCE's head peeps over the windowsill.
+</DIRECTION>
+<PRINCE>
+	<DIALOGUE>
+	Hurry!
+	</DIALOGUE>
+</PRINCE>
+<LAUNCELOT>
+	<DIALOGUE>
+	I am, sir. I am a Knight of King Arthur.
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	'Mm ... very nice castle, Camelot ... very good pig country....
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Is it?
+	</DIALOGUE>
+</LAUNCELOT>
+<PRINCE>
+<DIRECTION>
+(out of vision)
+</DIRECTION>
+	<DIALOGUE>
+	I am ready, Sir Launcelot.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	Do you want to come and have a drink?
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Oh ... that's awfully nice.
+	</DIALOGUE>
+</LAUNCELOT>
+<PRINCE>
+<DIRECTION>
+(OOV) (loud and shrill)
+</DIRECTION>
+	<DIALOGUE>
+	I am ready!
+	</DIALOGUE>
+</PRINCE>
+<DIRECTION>
+As they walk past the rope, the FATHER nonchalantly cuts with his knife. there is no sound except after a pause a slight squeal from very far away as the PRINCE makes contact with the ground.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	It's just that when I'm in this genre, I tend to get over-excited and start to leap around and wave my sword about ... and ...
+	</DIALOGUE>
+</LAUNCELOT>
+<FATHER>
+	<DIALOGUE>
+	Oh, don't worry about that ... Tell me ... doesn't Camelot own that stretch of farmland up by the mountains?
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+He puts his arm round LAUNCELOT's shoulders as they go though the door.
+</DIRECTION>
+<DIRECTION>
+INTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO the great hall. GUESTS wounded and bloody, are tending to the dead and injured, sighs and groans, the PRINCESS in her white wedding dress is holding her chest and coughing blood. People dabbing the stains off her dress.
+</DIRECTION>
+<DIRECTION>
+FATHER and SIR LAUNCELOT start to walk down the grand staircase. Talking to each other.
+</DIRECTION>
+<DIRECTION>
+One of the GUESTS notices and points to SIR LAUNCELOT.
+</DIRECTION>
+<GUEST>
+	<DIALOGUE>
+	There he is!
+	</DIALOGUE>
+</GUEST>
+<DIRECTION>
+As one man all remaining able-bodied MEN look up and make for the staircase, muttering angrily. SIR LAUNCELOT grabs his sword.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	Hold it!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+But it is too lake. SIR LAUNCELOT cannot be stopped. With fearless abandon he throws himself into the CROWD and starts hacking and slashing. He has carved quite a number up before the FATHER can stop him and pulls him back onto the stairs. Renewed groans and cries.
+</DIRECTION>
+<FATHER>
+<DIRECTION>
+(shouting above noise)
+</DIRECTION>
+	<DIALOGUE>
+	Hold it! Please!
+	</DIALOGUE>
+<LAUNCELOT>
+	<DIALOGUE>
+	Sorry! Sorry ...
+	</DIALOGUE>
+<DIRECTION>
+(with bitter self reproach)
+</DIRECTION>
+	<DIALOGUE>
+	There you See ... I just got excited again and I got carried away ... I'm ever so sorry.
+	</DIALOGUE>
+<DIRECTION>
+(to the CROWD)
+</DIRECTION>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+CROWD kneeling round their wounded again. Moans etc.
+</DIRECTION>
+<GUEST>
+	<DIALOGUE>
+	He's killed the best man!
+	</DIALOGUE>
+</GUEST>
+<SECOND_GUEST>
+<DIRECTION>
+(holding a limp WOMAN)
+</DIRECTION>
+	<DIALOGUE>
+	He's killed my auntie.
+	</DIALOGUE>
+</SECOND_GUEST>
+<FATHER>
+	<DIALOGUE>
+	No, please! This is supposed to be a happy occasion! Let's not bicker and argue about who killed who ... We are here today to witness the union of two young people in the joyful bond of the holy wedlock. Unfortunately, one of them, my son Herbert, has just fallen to his death.
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+Murmurs from CROWD; the BRIDE smiles with relief, coughs.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	But I don't want to think I've not lost a son ... so much as gained a daughter ...
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+Smattering of applause.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	For, since the tragic death of her father ...
+	</DIALOGUE>
+</FATHER>
+<SHOUT_FROM_BACK>
+	<DIALOGUE>
+	He's not quite dead!
+	</DIALOGUE>
+</SHOUT_FROM_BACK>
+<FATHER>
+	<DIALOGUE>
+	Since the fatal wounding of her father ...
+	</DIALOGUE>
+</FATHER>
+<SHOUT_FROM_BACK>
+	<DIALOGUE>
+	I think He's getting better!
+	</DIALOGUE>
+</SHOUT_FROM_BACK>
+<DIRECTION>
+FATHER nods discreetly to a SOLDIER standing to one side. The SOLDIER slips off. FATHER's eyes watch him move round to where the voice came from.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	For ... since her own father ... who ... when he seemed about to recover ... suddenly felt the icy ... hand of death upon him.
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+A scuffle at the back.
+</DIRECTION>
+<SHOUT_FROM_BACK>
+	<DIALOGUE>
+	Oh, he's died!
+	</DIALOGUE>
+</SHOUT_FROM_BACK>
+<FATHER>
+	<DIALOGUE>
+	I want his only daughter, from now onwards, to think of me as her old dad ... in a very real and legally binding sense.
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+Applause.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	And I'm sure sure ... that the merger ... er ... the union between the Princess and the brave but dangerous Sir Launcelot of Camelot ...
+	</DIALOGUE>
+</FATHER>
+<LAUNCELOT>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+Gasp from the CROWD.
+</DIRECTION>
+<CROWD>
+	<DIALOGUE>
+	The dead Prince!
+	</DIALOGUE>
+</CROWD>
+<DIRECTION>
+There is CONCORDE holding "THE DEAD PRINCE" in his arms.
+</DIRECTION>
+<CONCORDE>
+	<DIALOGUE>
+	He's not quite dead!
+	</DIALOGUE>
+</CONCORDE>
+<PRINCE>
+	<DIALOGUE>
+	I feel much better.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	You fell out of the Tall Tower you creep!
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	I was saved at the last minute.
+	</DIALOGUE>
+</PRINCE>
+<FATHER>
+	<DIALOGUE>
+	How?
+	</DIALOGUE>
+</FATHER>
+<PRINCE>
+	<DIALOGUE>
+	Well ... I'll tell you ...
+	</DIALOGUE>
+</PRINCE>
+<DIRECTION>
+MUSIC INTRO to song. CONCORDE stands the SON on his feet and adopts cod "and now a number from my friend" pose.
+</DIRECTION>
+<FATHER>
+	<DIALOGUE>
+	Not like that!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+But the music doesn't stop and the CROWD starts to sing.
+</DIRECTION>
+<CROWD>
+	<DIALOGUE>
+	He's going to tell.
+	</DIALOGUE>
+</CROWD>
+<FATHER>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+</FATHER>
+<CROWD>
+	<DIALOGUE>
+	He's going to tell ...
+	</DIALOGUE>
+</CROWD>
+<FATHER>
+<DIRECTION>
+(screaming)
+</DIRECTION>
+	<DIALOGUE>
+	Shut UP!
+	</DIALOGUE>
+</FATHER>
+<DIRECTION>
+As the song starts the FATHER tries yelling at them and eventually gives up. SIR LAUNCELOT joins CONCORDE in the CROWD.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	We must escape. Quickly before the song.
+	</DIALOGUE>
+</LAUNCELOT>
+<CONCORDE>
+	<DIALOGUE>
+	Come with me, sir.
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+	<DIALOGUE>
+	You're not right for this genre ... I must escape more dramatically.
+	</DIALOGUE>
+</LAUNCELOT>
+<CONCORDE>
+	<DIALOGUE>
+	Quickly, sir, come this way!
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+	<DIALOGUE>
+	No! It's not right for my idiom. I must escape more ... more ...
+	</DIALOGUE>
+</LAUNCELOT>
+<CONCORDE>
+	<DIALOGUE>
+	Dramatically, sir?
+	</DIALOGUE>
+</CONCORDE>
+<LAUNCELOT>
+	<DIALOGUE>
+	Dramatically.
+	</DIALOGUE>
+</LAUNCELOT>
+<CROWD>
+	<DIALOGUE>
+	He's going to tell He's going to tell He's going to tell about his great escape. Oh he fell a long long way But he's here with us today What a wonderful ... escape.
+	</DIALOGUE>
+</CROWD>
+<DIRECTION>
+CONCORDE goes. SIR LAUNCELOT runs back up the stairs, grabs a rope of the wall and swings out over the heads of the CROWD in a swashbuckling manner towards a large window. He stops just short of the window and is left swing pathetically back and forth.
+</DIRECTION>
+<LAUNCELOT>
+	<DIALOGUE>
+	Excuse me ... could somebody give me a push ...
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+EXTERIOR - A DESERTED VILLAGE - DUSK
+</DIRECTION>
+<DIRECTION>
+Toothless old CRONE by the roadside. ARTHUR and BEDEVERE and two PAGES ride up and draw up alongside the CRONE.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Is there anywhere where we could buy a shrubbery?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The OLD CRONE crosses herself with a look of stark terror.
+</DIRECTION>
+<CRONE>
+	<DIALOGUE>
+	Who sent you?
+	</DIALOGUE>
+</CRONE>
+<ARTHUR>
+	<DIALOGUE>
+	The Knights Who Say Ni!
+	</DIALOGUE>
+</ARTHUR>
+<CRONE>
+	<DIALOGUE>
+	Aaaagh!
+	</DIALOGUE>
+<DIRECTION>
+(she looks around in rear)
+</DIRECTION>
+	<DIALOGUE>
+	No! We have no shrubberies here.
+	</DIALOGUE>
+</CRONE>
+<BEDEVERE>
+	<DIALOGUE>
+	Surely, there must be.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+ARTHUR restrains from threatening the LADY.
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(aside)
+</DIRECTION>
+	<DIALOGUE>
+	It will be not good to argue. These simple people are terrified of the Knights Who Say Ni!
+	</DIALOGUE>
+</ARTHUR>
+<CRONE>
+<DIRECTION>
+(she cowers)
+</DIRECTION>
+	<DIALOGUE>
+	Ohhh!
+	</DIALOGUE>
+</CRONE>
+<DIRECTION>
+ARTHUR takes BEDEVERE further aside.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	There is only one way to get the information we want ...
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Send her a letter from a long way away?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Er, no ... no, we must ...
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Talk to her in funny voices?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+<DIRECTION>
+(slightly crossly)
+</DIRECTION>
+	<DIALOGUE>
+	No ...
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	How about trying ourselves to a tree?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+<DIRECTION>
+(grittily)
+</DIRECTION>
+	<DIALOGUE>
+	No. Our only hope is to make her as afraid of us as she is of the awful Knights Who Say Ni!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+<DIRECTION>
+(sagely)
+</DIRECTION>
+	<DIALOGUE>
+	Ah! Hit ourselves with a big rock ...
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+He nods knowingly.
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(tolerantly but firmly)
+</DIRECTION>
+	<DIALOGUE>
+	No. Nothing we do to ourselves will frighten her as much as what we can do to her ...
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Ah!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	We must threaten to say "Ni"!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+<DIRECTION>
+(terror)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, no.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+They reapproach the OLD CRONE who is cowering more than ever.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Listen, old crone! Unless you tell us where we can buy a shrubbery, my friend and I will ... we will say "Ni!"
+	</DIALOGUE>
+</ARTHUR>
+<CRONE>
+	<DIALOGUE>
+	Do your worst! I have herd the Knights say "Ni"! in the night. I have herd the hideous Peng! and they have said "Nee-wum"! to my sister but still I have not revealed ...
+	</DIALOGUE>
+</CRONE>
+<ARTHUR>
+	<DIALOGUE>
+	Very well, old crone. Since you will not assist us voluntarily ... "Ni"!
+	</DIALOGUE>
+</ARTHUR>
+<CRONE>
+	<DIALOGUE>
+	No. Never. No shrubberies.
+	</DIALOGUE>
+</CRONE>
+<ARTHUR>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Nu!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	No. Ni! More like this. "Ni"!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Ni, ni, ni!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	It's not working. You're not doing it properly. Ni!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	That's it. Ni! Ni!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+A PASSER-BY on a horse is observing them.
+</DIRECTION>
+<ROGER>
+	<DIALOGUE>
+	Are you saying "Ni" to that old woman?
+	</DIALOGUE>
+</ROGER>
+<ARTHUR>
+	<DIALOGUE>
+	Erm, yes.
+	</DIALOGUE>
+</ARTHUR>
+<ROGER>
+	<DIALOGUE>
+	Oh, what sad times are these when passing ruffians can say "Ni" at will to old ladies. There is a pestilence upon this land! nothing is sacred. Even those who arrange and design shrubberies are under considerable economic stress at this point in time.
+	</DIALOGUE>
+</ROGER>
+<ARTHUR>
+	<DIALOGUE>
+	Did you say shrubberies?
+	</DIALOGUE>
+</ARTHUR>
+<ROGER>
+	<DIALOGUE>
+	Yes. Shrubberies are my trade. I am a shrubber. My name is Roger the Shrubber. I arrange, design, and sell shrubberies.
+	</DIALOGUE>
+</ROGER>
+<BEDEVERE>
+<DIRECTION>
+(rather aggressively, to ROGER)
+</DIRECTION>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	No. No. No!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+EXTERIOR - GLADE - DUSK
+</DIRECTION>
+<DIRECTION>
+CUT TO the glade in the forest again.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Oh, Knights of Ni, here is your shrubbery. May we go now?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	That is a good shrubbery. I like the laurels particularly - But there is one small problem.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	What is that?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	We are now no longer the Knights Who Say Ni!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ONE_KNIGHT>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</ONE_KNIGHT>
+<OTHERS>
+	<DIALOGUE>
+	Sh!
+	</DIALOGUE>
+</OTHERS>
+<ONE_KNIGHT>
+<DIRECTION>
+(wispers)
+</DIRECTION>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</ONE_KNIGHT>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	We are now the Knights Who Go Neeeow ... wum ... ping!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHERS>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</OTHERS>
+<OTHERS>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</OTHERS>
+<ONE_KNIGHT>
+	<DIALOGUE>
+	Peng!
+	</DIALOGUE>
+</ONE_KNIGHT>
+<OTHERS>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</OTHERS>
+<OTHERS>
+	<DIALOGUE>
+	Sh! Sh!
+	</DIALOGUE>
+</OTHERS>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Therefore ... we are no longer contractually bound by any agreements previously entered into by the Knights Who Say Ni!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ONE_KNIGHT>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</ONE_KNIGHT>
+<ANOTHER>
+	<DIALOGUE>
+	Peng!
+	</DIALOGUE>
+</ANOTHER>
+<ANOTHER>
+	<DIALOGUE>
+	Sh!
+	</DIALOGUE>
+</ANOTHER>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+<DIRECTION>
+(to ARTHUR)
+</DIRECTION>
+	<DIALOGUE>
+	Therefore, we must give you a test, a Test to satisfy the Knights who say Neeeow ... wum ... ping!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHERS>
+<DIRECTION>
+(terrific chorus)
+</DIRECTION>
+	<DIALOGUE>
+	Neeeow ... wum ... ping!
+	</DIALOGUE>
+</OTHERS>
+<ARTHUR>
+	<DIALOGUE>
+	What is this test, Knights of N...
+	</DIALOGUE>
+<DIRECTION>
+(can't say it)
+</DIRECTION>
+	<DIALOGUE>
+	... Recently Knights of Ni!
+	</DIALOGUE>
+</ARTHUR>
+<KNIGHT>
+	<DIALOGUE>
+	Ni!
+	</DIALOGUE>
+</KNIGHT>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Firstly. You must get us another shrubbery!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+<DIRECTION>
+(half seen)
+</DIRECTION>
+	<DIALOGUE>
+	More shrubberies! More shrubberies for the ex-Knights of Ni!
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<ARTHUR>
+	<DIALOGUE>
+	Not another shrubbery -
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	When you have found the shrubbery, place the shrubbery here, beside this shrubbery ... only slightly higher, so you get a two-level effect with a path through the middle.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	A path! A little path for the late Knights of Ni!
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<DIRECTION>
+Chorus of "Ni! Ni!"
+</DIRECTION>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	When you have found the shrubbery, then you must cut down the mightiest tree in the forest ... with a herring.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	Yes! With a herring! With a herring! Cut down with a herring!
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<ARTHUR>
+	<DIALOGUE>
+	We shall do no such thing ... let us pass!
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Oh, please!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	Cut down a tree with a herring? It can't be done!
+	</DIALOGUE>
+</ARTHUR>
+<OTHER_KNIGHTS>
+<DIRECTION>
+(they all recoil in horror)
+</DIRECTION>
+	<DIALOGUE>
+	Oh!
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Don't say that word.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	What word?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	I cannot tell you. Suffice to say is one of the words the Knights of Ni! cannot hear!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	How can we not say the word, if you don't tell us what it is?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+<DIRECTION>
+(cringing in fear)
+</DIRECTION>
+	<DIALOGUE>
+	You said it again!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<ARTHUR>
+	<DIALOGUE>
+	What, "is"?
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+<DIRECTION>
+(dismissively)
+</DIRECTION>
+	<DIALOGUE>
+	No, no ... not "is"!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	Not "is"! Not "is"!
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<DIRECTION>
+Suddenly singing is heard from deep in the forest.
+</DIRECTION>
+<SIR_ROBIN_S_SINGERS>
+	<DIALOGUE>
+	Bravely good Sir Robin was not at all afraid To have his eyeballs skewered ...
+	</DIALOGUE>
+</SIR_ROBIN_S_SINGERS>
+<TALL_KNIGHT>
+<DIRECTION>
+(irritated)
+</DIRECTION>
+	<DIALOGUE>
+	"Is" is all right ... You wouldn't get far not saying "Is"!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<BEDEVERE>
+	<DIALOGUE>
+	My liege, it's Sir Robin!
+	</DIALOGUE>
+</BEDEVERE>
+<TALL_KNIGHT>
+<DIRECTION>
+(covering his ears)
+</DIRECTION>
+	<DIALOGUE>
+	You've said the word again!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<DIRECTION>
+SIR ROBIN and his SINGERS appear in the clearing. The SINGERS are going on cheerfully as usual and ROBIN walks in front of them, continually embarrassed at their presence.
+</DIRECTION>
+<SINGERS>
+	<DIALOGUE>
+	... and his kidneys burnt and his nipples skewered off ...
+	</DIALOGUE>
+</SINGERS>
+<DIRECTION>
+ROBIN holds his hand up for silence.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Sir Robin!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+He shakes his hand warmly.
+</DIRECTION>
+<ROBIN>
+<DIRECTION>
+My liege! It's good to have found you again ...
+</DIRECTION>
+<TALL_KNIGHT>
+<DIRECTION>
+Now he's said the word!
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+Where are you going good Sir Robin?
+</DIRECTION>
+<ROBIN_S_SINGERS>
+<DIRECTION>
+(starting up again)
+</DIRECTION>
+	<DIALOGUE>
+	He was going home ... he was giving up, He was throwing in the sponge.
+	</DIALOGUE>
+</ROBIN_S_SINGERS>
+<ROBIN>
+<DIRECTION>
+(to SINGERS)
+</DIRECTION>
+	<DIALOGUE>
+	Shut up! No ... er ... no ... I ... er ... I ... er ... I certainly wasn't giving up ... I was actually looking for the grail ... er thing ... in this forest.
+	</DIALOGUE>
+</ROBIN>
+<ARTHUR>
+	<DIALOGUE>
+	No ... it lies beyond this forest.
+	</DIALOGUE>
+</ARTHUR>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Stop saying the word!
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	Stop saying the word! The word we cannot hear! The word ...
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<ARTHUR>
+<DIRECTION>
+(losing his patience with the fearful KNIGHTS OF "NI")
+</DIRECTION>
+	<DIALOGUE>
+	Oh, stop it!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Terrific confusion amongst the KNIGHTS OF "NI", they roll on the ground covering their ears. The TALL KNIGHT remains standing trying to control his MEN.
+</DIRECTION>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	They're all saying the word ...
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Stop saying it. AAAArghh! ... I've said it ...
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	You've said it! Aaaaarghhh! ... We've said it ... Wwe're all saying it.
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<DIRECTION>
+ARTHUR beckons to BEDEVERE and ROBIN and they pick their way through the helpless KNIGHTS OF "NI" and away into the forest.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - HISTORIAN'S GLADE - DAY
+</DIRECTION>
+<DIRECTION>
+We CUT TO an almost subliminal shot of the HISTORIAN'S WIFE being shown into a police car, which then roars off out of the glade
+</DIRECTION>
+<DIRECTION>
+CUT BACK to the forest. The Knights of "NI" are slowly recovering. they get up.
+</DIRECTION>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Well, At least We've got ONE shrubbery.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	Yes, Yes ... We've Done very Well ... NI!
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	Ssh! I think somebody's coming. We'll get them to give us another shrubbery.
+	</DIALOGUE>
+</TALL_KNIGHT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	Good Idea. More shrubberies. As many as possible.
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<DIRECTION>
+Perhaps we start to TRACK BACK from the scene as they go on talking.
+</DIRECTION>
+<TALL_KNIGHT>
+	<DIALOGUE>
+	What shall we call ourselves this time?
+	</DIALOGUE>
+</TALL_KNIGHT>
+<KNIGHT>
+	<DIALOGUE>
+	How about "The knights of Nicky-Nicky"?
+	</DIALOGUE>
+</KNIGHT>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+A Small group of PEASANTS are being shuffled into a group formation, at the apparent direction of someone behind the camera. A Few coughs as they shuffle together. a moment of silence. then they burst into pleasant (melliflubus) song.
+</DIRECTION>
+<DIRECTION>
+Song: When the trees do blossom full and all the hills are green Oh! Oh! We sing hey! hey! We sing our count....ry Song...
+</DIRECTION>
+<DIRECTION>
+A hail of arrow hits them and they crumple up. sound of raucous laughter OFF CAMERA.
+</DIRECTION>
+<DIRECTION>
+CUT TO Reveal a firing squad of ARCHERS kneeling not ten feet away from the group of SINGERS.
+</DIRECTION>
+<DIRECTION>
+Sitting on the throne on a dais is KING BRIAN THE WILD. He is roaring with roaring with laughter. and his court is slightly shabby - bearing all the marks of a faded richness. it is a court without women, and nobody does the washing or shaves very well. perhaps there is washing however on the line over the castle. KING BRIAN'S ADVISERS stand around him. Everyone bears the signs of past injuries (Except for BRIAN himself) I.E. they have an arm in a sling or head bandaged; all the people at court, except for BRIAN have their left arm missing (possibly the result of some violent edict a few years back)
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	HA! HA! HA! HA! HA! HO! HO! HO! HO! HA! HA! HA! HA! Oh! Very good! Next!
+	</DIALOGUE>
+</KING_BRIAN>
+<FIRST_ADVISER>
+<DIRECTION>
+(a Little uncomfortably - perhaps his arm is in a sling obviously giving him some pain)
+</DIRECTION>
+	<DIALOGUE>
+	There are no more, Sir.
+	</DIALOGUE>
+</FIRST_ADVISER>
+<KING_BRIAN>
+<DIRECTION>
+(grabbing him by the collar)
+</DIRECTION>
+	<DIALOGUE>
+	What do'you mean you filthy dog!
+	</DIALOGUE>
+</KING_BRIAN>
+<FIRST_ADVISER>
+	<DIALOGUE>
+	There are no more close harmony groups in the kingdom, Sir.
+	</DIALOGUE>
+</FIRST_ADVISER>
+<KING_BRIAN>
+	<DIALOGUE>
+	No more close harmony groups!!!
+	</DIALOGUE>
+</KING_BRIAN>
+<FIRST_ADVISER>
+	<DIALOGUE>
+	We have scoured the kingdom.
+	</DIALOGUE>
+</FIRST_ADVISER>
+<KING_BRIAN>
+<DIRECTION>
+(lifting him bodily into the air and breaking his arm again slightly)
+</DIRECTION>
+	<DIALOGUE>
+	You Miserable worm! you wretch! You Walking son of a dunghill keeper! Guards!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+Two Rather shabby looking GUARDS approach. (as everyone else they also have their left arms missing)
+</DIRECTION>
+<FIRST_ADVISER>
+	<DIALOGUE>
+	have mercy your MAJESTY!
+	</DIALOGUE>
+</FIRST_ADVISER>
+<KING_BRIAN>
+<DIRECTION>
+GUARDS! Take him away and suspend him by his nostrils from the highest tree in the kingdom!
+</DIRECTION>
+<DIRECTION>
+The Guards grab him unmercifully and drag him off. he whines piteously.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT BACK to the glade where the KNIGHTS OF NI! were. A police car roars up. Two PLAIN CLOTHES DETECTIVE and a CONSTABLE get out, look around suspiciously, perhaps kneel and examine the ground. one POLICEMAN finds PATSY's shoe and the other finds a strange scientific instrument that was hanging from BEDEVERE.
+</DIRECTION>
+<DIRECTION>
+They nod grimly to each other. Climb back in the car and drive off.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+Back in KING BRIAN's Court. the FIRST ADVISER has been dragged off. there are muffled screams coming from the nearby tree. the FIRST ADVISER is being hauled up it on pulleys.
+</DIRECTION>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Your Majesty, I can Find you a Lute player, whose music is passing sweet.
+	</DIALOGUE>
+</SECOND_ADVISER>
+<KING_BRIAN>
+	<DIALOGUE>
+	It's not the same, You thick-headed fool!
+	</DIALOGUE>
+<DIRECTION>
+(KING BRIAN hits him on the back of the head. he falls.)
+</DIRECTION>
+	<DIALOGUE>
+	There's no fun in killing soloists!
+	</DIALOGUE>
+</KING_BRIAN>
+<SECOND_ADVISER>
+<DIRECTION>
+(picking himself up)
+</DIRECTION>
+	<DIALOGUE>
+	He may have a friend...
+	</DIALOGUE>
+</SECOND_ADVISER>
+<KING_BRIAN>
+	<DIALOGUE>
+	GUARDS!
+	</DIALOGUE>
+</KING_BRIAN>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Oh Please your majesty! Please!
+	</DIALOGUE>
+</SECOND_ADVISER>
+<KING_BRIAN>
+	<DIALOGUE>
+	Take him away and tie his kidneys to the longest hedge in the kingdom!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+The GUARDS drag the ADVISER roughly away.
+</DIRECTION>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+<DIRECTION>
+(he is dragged off screaming and protesting)
+</DIRECTION>
+<KING_BRIAN>
+<DIRECTION>
+(roaring at the rest of the court)
+</DIRECTION>
+	<DIALOGUE>
+	I will personally disembowel the next little bastard who tells me that there are no more close harmony ...
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+At this moment we hear faintly the sound of singing. KING BRIAN stopped to listen. The entire COURT turns thankfully towards the mellifluous sounds.
+</DIRECTION>
+<DIRECTION>
+We're the knights of the round table our shows are formidable but many times we're given rhymes that are quite unsingable...
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	Wait a minute! Five point harmony with a counter-tenor lead!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+Various members of the COURT sigh and breathe more easily.
+</DIRECTION>
+<CREEP>
+	<DIALOGUE>
+	Thank goodness.
+	</DIALOGUE>
+</CREEP>
+<KING_BRIAN>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+<DIRECTION>
+(punches him right on the end of the nose and shouts to the SECOND ADVISER)
+</DIRECTION>
+	<DIALOGUE>
+	Oy you!
+	</DIALOGUE>
+</KING_BRIAN>
+<SECOND_ADVISER>
+<DIRECTION>
+(doubled-up, Surrounded by soldiers busy with his stomach)
+</DIRECTION>
+	<DIALOGUE>
+	Yes, Your majesty?
+	</DIALOGUE>
+</SECOND_ADVISER>
+<KING_BRIAN>
+	<DIALOGUE>
+	Go and get 'em!
+	</DIALOGUE>
+</KING_BRIAN>
+<SECOND_ADVISER>
+<DIRECTION>
+(gratefully)
+</DIRECTION>
+	<DIALOGUE>
+	Thank you sir!
+	</DIALOGUE>
+<DIRECTION>
+(He staggers off with some difficulty)
+</DIRECTION>
+<GUARD>
+	<DIALOGUE>
+	'ere... We'd just started taking his kidneys out.
+	</DIALOGUE>
+</GUARD>
+<DIRECTION>
+CUT TO ARTHUR,BEDEVERE,GALAHAD and LAUNCELOT. (Garwin,thrstam, Hecrot) plus all their pages. there are riding along singing cheerily.
+</DIRECTION>
+<KNIGHTS>
+	<DIALOGUE>
+	We're baby mad and Camelot we nurse and push the pram a lot in war we're tough and able quite indefatigable between our quests we sequin vests and dress like betty gable it's a...
+	</DIALOGUE>
+</KNIGHTS>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	HALT!
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_GALAHAD>
+	<DIALOGUE>
+	Who are you who dares to halt the knights of king Arthur's round table in mid-verse?
+	</DIALOGUE>
+</SIR_GALAHAD>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	I bring greetings from the court of king Brian.
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_LAUNCELOT>
+	<DIALOGUE>
+	King Brian the wild?
+	</DIALOGUE>
+</SIR_LAUNCELOT>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Some call him that, but he's calmed down allot recently.
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_GALAHAD>
+	<DIALOGUE>
+	Are those YOUR kidneys?
+	</DIALOGUE>
+</SIR_GALAHAD>
+<SECOND_ADVISER>
+<DIRECTION>
+(covering his stomach)
+</DIRECTION>
+	<DIALOGUE>
+	No no... It's nothing - just a flesh wound.
+	</DIALOGUE>
+<DIRECTION>
+(The KNIGHTS look at each other)
+</DIRECTION>
+	<DIALOGUE>
+	he has herd your beautiful melody; and wishes you to come to his court, that he may listen at his ease ooh!
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_LAUNCELOT>
+	<DIALOGUE>
+	You must be joking!
+	</DIALOGUE>
+<DIRECTION>
+(general murmur or agreement from the other KNIGHTS.)
+</DIRECTION>
+	<DIALOGUE>
+	Go to the court of king Brian the wild and sing close harmony!
+	</DIALOGUE>
+</SIR_LAUNCELOT>
+<OTHER_KNIGHTS>
+	<DIALOGUE>
+	No fear etc.
+	</DIALOGUE>
+</OTHER_KNIGHTS>
+<SECOND_ADVISER>
+<DIRECTION>
+(in increasing pain)
+</DIRECTION>
+	<DIALOGUE>
+	It need not be close harmony oooh agh!
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_GALAHAD>
+	<DIALOGUE>
+	Ah but it would get round to close harmony, wouldn't it?
+	</DIALOGUE>
+</SIR_GALAHAD>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Not necessarily ... As I say king Brian is much more relaxed than he used to be.
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_GALAHAD>
+	<DIALOGUE>
+	I mean could we just stick to one line of plainsong with a bit of straight choral work?
+	</DIALOGUE>
+</SIR_GALAHAD>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Well obviously he'd prefer a bit of close harmony arghhh!
+	</DIALOGUE>
+</SECOND_ADVISER>
+<KNIGHTS>
+	<DIALOGUE>
+	Ah! There you are!
+	</DIALOGUE>
+</KNIGHTS>
+<SIR_LAUNCELOT>
+	<DIALOGUE>
+	We'd end un-like the Shalott Choral Society.
+	</DIALOGUE>
+</SIR_LAUNCELOT>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Oh that was an accident - honestly he's so calm now oh!
+	</DIALOGUE>
+</SECOND_ADVISER>
+<ARTHUR>
+	<DIALOGUE>
+	No we must be on our way.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They start off.
+</DIRECTION>
+<SECOND_ADVISER>
+<DIRECTION>
+(by now lying on the ground at his last gasp but still trying to sound threatening)
+</DIRECTION>
+	<DIALOGUE>
+	If you don't come and sing for him ... ah ... he'll drive ... oh ... iron spikes though your heads.
+	</DIALOGUE>
+</SECOND_ADVISER>
+<KNIGHTS>
+	<DIALOGUE>
+	Ah! That sounds more like Brian the wild!
+	</DIALOGUE>
+</KNIGHTS>
+<SECOND_ADVISER>
+<DIRECTION>
+(looking helplessly at his intestines)
+</DIRECTION>
+	<DIALOGUE>
+	He ... he ... still gets irritable occasionally.
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_GALAHAD>
+	<DIALOGUE>
+	Like with close harmony groups.
+	</DIALOGUE>
+</SIR_GALAHAD>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Ooh ... Look if you're scared ...
+	</DIALOGUE>
+</SECOND_ADVISER>
+<SIR_LAUNCELOT>
+	<DIALOGUE>
+	We're not SCARED!
+	</DIALOGUE>
+</SIR_LAUNCELOT>
+<SECOND_ADVISER>
+<DIRECTION>
+(With his last ounce of strength)
+</DIRECTION>
+	<DIALOGUE>
+	Very well! King Brian challenges your to sing before him in close harmony!
+	</DIALOGUE>
+</SECOND_ADVISER>
+<ARTHUR>
+	<DIALOGUE>
+	A challenge?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The KNIGHTS look at each other rather taken aback but an idealistic glow suffuses KING ARTHUR's eyes as he looks heaven-wards. The other KNIGHTS look at him rather fearfully.
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(majestacally)
+</DIRECTION>
+	<DIALOGUE>
+	It is a challenge. We cannot refuse.
+	</DIALOGUE>
+</ARTHUR>
+<SIR_GALAHAD>
+	<DIALOGUE>
+	King Brian's a fucking looney.
+	</DIALOGUE>
+</SIR_GALAHAD>
+<SECOND_ADVISER>
+	<DIALOGUE>
+	Great!
+	</DIALOGUE>
+<DIRECTION>
+(dies)
+</DIRECTION>
+<SIR_GALAHAD>
+	<DIALOGUE>
+	Are you all right?
+	</DIALOGUE>
+</SIR_GALAHAD>
+<DIRECTION>
+CUT TO KING BRIAN the wild on his dias. he sees the KNIGHTS enter the arena.
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	Ah good!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+CUT TO TRUMPETERS who executes a rather bad fanfare full of missed notes. meanwhile various SHOTS of preparation.
+</DIRECTION>
+<DIRECTION>
+KING BRIAN settling down.
+</DIRECTION>
+<DIRECTION>
+KNIGHTS being led up to the podium. the last of the previous close harmony group is being loaded onto a cart and pushed away by the cart driver from scene tow (Perhaps we see him being paid off)
+</DIRECTION>
+<DIRECTION>
+SHOT of KING BRIAN on his podium and the HERALD being untied and having his gag removed.
+</DIRECTION>
+<DIRECTION>
+SHOT of ARTHUR and KNIGHTS getting into a group on the podium still rather nervous.
+</DIRECTION>
+<DIRECTION>
+The fanfare comes to an end, and several wrong notes.
+</DIRECTION>
+<KING_BRIAN>
+<DIRECTION>
+(who can't wait)
+</DIRECTION>
+	<DIALOGUE>
+	RIGHT! Carry on gentleman.
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	KING BRIAN SAYS CARRY ON!
+	</DIALOGUE>
+</HERALD>
+<ARTHUR>
+<DIRECTION>
+(wispering)
+</DIRECTION>
+	<DIALOGUE>
+	All right ... two tenor lines - I'll take the base.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They all nod.
+</DIRECTION>
+<DIRECTION>
+One... Two... Three...
+</DIRECTION>
+<DIRECTION>
+Sound of Bows being drown very near by.
+</DIRECTION>
+<DIRECTION>
+ARTHUR looks up and frowns.
+</DIRECTION>
+<DIRECTION>
+CUT to reveal a line of twenty ARCHERS they all have their left leg missing, but they DO have two arms.
+</DIRECTION>
+<DIRECTION>
+Their arrows are drawn back and point directly at ARTHUR & CO.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Hold it! Err ... King Brian!
+	</DIALOGUE>
+</ARTHUR>
+<HERALD>
+<DIRECTION>
+(Louder than ever)
+</DIRECTION>
+	<DIALOGUE>
+	ARTHUR OF CAMELOT ADDRESSES THEE OH MIGHTY KING BRIAN!
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+<DIRECTION>
+(trueulently)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</KING_BRIAN>
+<ARTHUR>
+	<DIALOGUE>
+	What are THEY For?
+	</DIALOGUE>
+<DIRECTION>
+(Indicates the archers)
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	Them? they're... just to show you where the audience would be.
+	</DIALOGUE>
+</KING_BRIAN>
+<ARTHUR>
+	<DIALOGUE>
+	Well we'd prefer to do it without an audience.
+	</DIALOGUE>
+</ARTHUR>
+<KING_BRIAN>
+	<DIALOGUE>
+	Oh you've GOT to have an AUDIENCE!
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	KING BRIAN THE WISE AND GOOD RULER OF THIS LAND SAYS YOU'VE GOT TO HAVE AN AUDIENCE!
+	</DIALOGUE>
+</HERALD>
+<ARTHUR>
+	<DIALOGUE>
+	We'd rather give a private recital.
+	</DIALOGUE>
+</ARTHUR>
+<HERALD>
+	<DIALOGUE>
+	THEY SAY THEY'D RATHER GIVE A PRIVATE RECITAL! O WISE GOOD AND JUST KING BRIAN AND NOT THE LEAST BIT WILD!
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+<DIRECTION>
+(to himself)
+</DIRECTION>
+	<DIALOGUE>
+	Turds...
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+HE nods to the ARCHERS who turn and hop smartly off in step.
+</DIRECTION>
+<ONE_LEGGED_RSM>
+	<DIALOGUE>
+	Left ... Left ... Left, left, left, left Left ... Left ... Left, left, left, left.
+	</DIALOGUE>
+</ONE_LEGGED_RSM>
+<DIRECTION>
+They hop round behind a long fence and disappear from sight (Fence needs to be about 7 or 9 feet high)
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	Right! Ready when you are.
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	KING BRIAN IS READY!
+	</DIALOGUE>
+</HERALD>
+<ARTHUR>
+	<DIALOGUE>
+	And ... One ... Two ... Three ... Four ...
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They are just about to sing when the ARCHERS, bows read and arrows points, peep over the top of the fence.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	HOLD IT!
+	</DIALOGUE>
+</ARTHUR>
+<SIR_GAWAIN>
+<DIRECTION>
+(singing)
+</DIRECTION>
+	<DIALOGUE>
+	We're
+	</DIALOGUE>
+</SIR_GAWAIN>
+<DIRECTION>
+Quick flash of ARCHERS sensed to fire, one tires to hold his shot back but fails and fires his arrows by accident in the air.
+</DIRECTION>
+<DIRECTION>
+Quick flash of FIRST ADVISER who is hanging by his nostrils from the highest tree in the kingdom, moaning, getting hit by the arrow.
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	What is it now?
+	</DIALOGUE>
+</KING_BRIAN>
+<ARTHUR>
+	<DIALOGUE>
+	We're not entirely happy with the acoustics.
+	</DIALOGUE>
+</ARTHUR>
+<HERALD>
+	<DIALOGUE>
+	THEY'RE NOT ENTIRELY HAPPY WITH...
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+<DIRECTION>
+(impatiently)
+</DIRECTION>
+	<DIALOGUE>
+	Oh Sod the acoustics! Get on with the singing!
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	KING BRIAN SAYS SOD THE ACOUSTICS!
+	</DIALOGUE>
+</HERALD>
+<ARTHUR>
+	<DIALOGUE>
+	In that case we shall just have to perform elsewhere.
+	</DIALOGUE>
+<DIRECTION>
+(turns to his knights and begins to usher them off)
+</DIRECTION>
+<HERALD>
+	<DIALOGUE>
+	THEY SAY IN THAT CASE THEY SHALL HAVE TO PERFORM ELSEWHERE, O RICH, FAMOUS AND EXTREMELY CALM KING!
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+<DIRECTION>
+(getting very angry and dribbling slightly)
+</DIRECTION>
+	<DIALOGUE>
+	NO! you've GOT to sing on the target are - er - convert ... er ... thing ...
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	KING BRIAN HAS STUMBLED OVER HIS WORDS! WHAT A WONDERFULLY HUMAN INCIDENT.
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+	<DIALOGUE>
+	Don't editorialize!
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	SORRY, KING.
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+	<DIALOGUE>
+	Come on you bastards! Sing close harmony!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+KING BRIAN snaps his finders and the ARCHERS rise above the fence without any pretence it concealment - fitting arrows into their bows.
+</DIRECTION>
+<HERALD>
+	<DIALOGUE>
+	KING BRIAN CALLS THEM BASTARDS AND DEMANDS TO HEAD CLOSE HARMONY! WHAT WILL HAPPEN NEXT?
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+	<DIALOGUE>
+	I said don't.
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	Sorry, King.
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+	<DIALOGUE>
+	Right! On the count of three ... one ...
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	THE KING'S SAID ONE!
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+	<DIALOGUE>
+	Two!
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	THE KING'S SAID TWO! THEY'VE ONLY GOT ONE LEFT!
+	</DIALOGUE>
+</HERALD>
+<DIRECTION>
+We hear the sound of bows being drawn back. Tension mounts. the KNIGHTS all look pretty grim. The end is clearly pretty near.
+</DIRECTION>
+<KING_BRIAN>
+<DIRECTION>
+(face in a paroxysm of blood-lust)
+</DIRECTION>
+	<DIALOGUE>
+	Three!
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	THREE!
+	</DIALOGUE>
+</HERALD>
+<DIRECTION>
+Sound in the distance of beautiful close harmony singing
+</DIRECTION>
+<DIRECTION>
+"Bravely, good sir robin was not at all afraid..."
+</DIRECTION>
+<DIRECTION>
+CUT TO see SIR ROBIN and his MINSTRELS approaching from round a corner of the castle. SIR ROBIN walks a few feet in from of the them looking rather embarrassed.
+</DIRECTION>
+<KING_BRIAN>
+<DIRECTION>
+(turning to the sound)
+</DIRECTION>
+	<DIALOGUE>
+	FANTASTIC!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+CUT BACK TO ROBIN'S MINSTRELS
+</DIRECTION>
+<DIRECTION>
+"To have his eyeballs skewered and his kidneys ... argh!"
+</DIRECTION>
+<DIRECTION>
+They are suddenly pin-cushioned with arrows.
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	HA! HA! HA! HA! HO! HO! HO! HO! Oh bloody marvellous!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+ROBIN turns and looks at the decimated remains of his MINSTRELS, surprised but relieved.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Sir Robin! this way!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR leads is MEN off the platform and they are joined by their PAGES and make good their escape.
+</DIRECTION>
+<KING_BRIAN>
+	<DIALOGUE>
+	HA! HA! HA! HA! HA! HA! HO! HO! HO! HO!
+	</DIALOGUE>
+</KING_BRIAN>
+<HERALD>
+	<DIALOGUE>
+	KING BRIAN'S SHOT THE WRONG GROUP!
+	</DIALOGUE>
+</HERALD>
+<KING_BRIAN>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+</KING_BRIAN>
+<DIRECTION>
+HE swings his sword and slices the HERALD'S head off.
+</DIRECTION>
+<HERALD_S_HEAD>
+<DIRECTION>
+(as it rolls away)
+</DIRECTION>
+	<DIALOGUE>
+	PRESS FREEDOM INFRINGED!
+	</DIALOGUE>
+</HERALD_S_HEAD>
+<DIRECTION>
+EXTERIOR - BEYOND FOREST - DAY - ANIMATION
+</DIRECTION>
+<DIRECTION>
+Shots of ARTHUR etc. Riding out of the forest. They leave the forest and they meet LAUNCELOT and GALAHAD.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	And so Arthur and Bedevere and Sir Robin set out on their search to find the Enchanter of whom the old man had spoken in scene twenty-four. Beyond the forest they met Launcelot and Galahad, and there was much rejoicing.
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+EXTERIOR - ANOTHER LANDSCAPE - DAY - ANIMATION
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	In the frozen land of Nador, they were forced to eat Robin's minstrels ... And there was much rejoicing ... A year passed ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+MONTAGE of shots of the KNIGHTS.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	Autumn changed into Winter ... Winter changed into Spring ... Spring changed back into Autumn and Autumn gave Winter and Spring a miss and went straight on into Summer ... Until one day ...
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+EXTERIOR - WASTES - DAY
+</DIRECTION>
+<DIRECTION>
+The KNIGHTS are riding along the top of a ridge. The country is wild and inhospitable. Suddenly some of them see fire in the distance and ride towards it. As they approach they see an impressive WIZARD figure striding around conjuring up fire from the ground and causing various bushes and branches to burst into flame.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	What manner of man are you that can conjure up fire without flint or tinder?
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	I am an enchanter.
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+ARTHUR looks at BEDEVERE.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	By what name are you known?
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	There are some who call me Tim?
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	Greetings Tim the Enchanter!
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	Greetings King Arthur.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	You know my name?
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	I do.
+	</DIALOGUE>
+<DIRECTION>
+(does another fire trick)
+</DIRECTION>
+	<DIALOGUE>
+	You seek the Holy Grail.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	That is our quest. You know much that is hidden O Tim.
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+<DIRECTION>
+(does another fire trick)
+</DIRECTION>
+	<DIALOGUE>
+	Quite.
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+Ripple of applause from the KNIGHTS.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Yes we seek the Holy Grail.
+	</DIALOGUE>
+<DIRECTION>
+(clears throat very quietly)
+</DIRECTION>
+	<DIALOGUE>
+	Our quest is to find the Holy Grail.
+	</DIALOGUE>
+</ARTHUR>
+<ONE_OR_TWO_KNIGHTS>
+	<DIALOGUE>
+	Yes it is.
+	</DIALOGUE>
+</ONE_OR_TWO_KNIGHTS>
+<ARTHUR>
+	<DIALOGUE>
+	And so we're looking for it.
+	</DIALOGUE>
+</ARTHUR>
+<KNIGHTS>
+	<DIALOGUE>
+	Yes, we are.
+	</DIALOGUE>
+</KNIGHTS>
+<BEDEVERE>
+	<DIALOGUE>
+	We have been for some time.
+	</DIALOGUE>
+</BEDEVERE>
+<KNIGHTS>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</KNIGHTS>
+<ROBIN>
+	<DIALOGUE>
+	Months.
+	</DIALOGUE>
+</ROBIN>
+<ARTHUR>
+	<DIALOGUE>
+	Yes ... and obviously any help we get is ... is very ... helpful.
+	</DIALOGUE>
+</ARTHUR>
+<GALAHAD>
+	<DIALOGUE>
+	Do you know where it ...
+	</DIALOGUE>
+</GALAHAD>
+<DIRECTION>
+TIM does another fire trick.
+</DIRECTION>
+<ALL_OTHER_KNIGHTS>
+	<DIALOGUE>
+	Sssssh!
+	</DIALOGUE>
+</ALL_OTHER_KNIGHTS>
+<ARTHUR>
+	<DIALOGUE>
+	Fine ... well er ... we mustn't take up anymore of your time ... I don't suppose ... sorry to sort of keep on about it ... you haven't by any chance ... aaah ... any idea where one might find ... a ... aaa ...
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	A G...g...g...
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	A Grail?
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+They all jump slightly and look about apprehensively.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Er ... yes ... I think so.
+	</DIALOGUE>
+</ARTHUR>
+<ALL_OTHER_KNIGHTS>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</ALL_OTHER_KNIGHTS>
+<TIM>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</TIM>
+<KNIGHTS>
+	<DIALOGUE>
+	Fine.
+	</DIALOGUE>
+</KNIGHTS>
+<ROBIN>
+	<DIALOGUE>
+	Splendid!
+	</DIALOGUE>
+</ROBIN>
+<OTHERS>
+	<DIALOGUE>
+	Yes, marvellous.
+	</DIALOGUE>
+</OTHERS>
+<DIRECTION>
+TIM looks thoughtful and they all stand around a little. Then TIM produces another fire trick producing several different colours.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Look, you're a busy man ...
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	Yes, I can help you with your guest.
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+Slight pause.
+</DIRECTION>
+<ALL_OTHER_KNIGHTS>
+	<DIALOGUE>
+	Thank you. Yes, thank you very much.
+	</DIALOGUE>
+</ALL_OTHER_KNIGHTS>
+<TIM>
+	<DIALOGUE>
+	To the north there lies a cave, the cave of Caerbannog, wherein, carved in mystic runes, upon the very living rock, the last words of Olfin Bedwere of Rheged ...
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+There is a thunderclap and a wind starts. They KNIGHTS get nervous.
+</DIRECTION>
+<TIM>
+	<DIALOGUE>
+	... make plain the last resting place of the most Holy Grail.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	How shall we find this cave, O Tim?
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	Follow!
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+The KNIGHTS register delight and wheel round on themselves.
+</DIRECTION>
+<TIM>
+	<DIALOGUE>
+	But follow only if you are men of valour. For the entrance to this cave is guarded by a monster, a creature so foul and cruel that no man yet has fought with it and lived. Bones of full fifty men lie strewn about its lair ... therefore sweet knights if you may doubt your strength or courage come no further, for death awaits you all with nasty pointy teeth.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	What an eccentric performance!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO impressive rock face with caves in it. The KNIGHTS are 'riding' towards it. A foreboding atmosphere supervenes. TIM gives a signal for quietness. ARTHUR shushes the 'horses'.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Shhh!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The PAGES decrease the amount of noise they are making with the coconuts for a few seconds. Then there is a burst of noise from them including whinnying.
+</DIRECTION>
+<BEDEVERE>
+<DIRECTION>
+(to ARTHUR)
+</DIRECTION>
+	<DIALOGUE>
+	They're nervous, sire.
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Then we'd best leave them here and carry on on foot.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+TIM takes a strange look at them. They walk on leaving the PAGES behind. After a few more strides TIM halts them with a sign.
+</DIRECTION>
+<TIM>
+	<DIALOGUE>
+	Behold the Cave of Caerbannog!
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+CUT TO shot of cave. Bones littered around. The KNIGHTS get the wind up partially. A little dry ice, glowing green can be seen at the entrance. Suddenly we become aware of total silence. Any noises the KNIGHTS make sound very exaggerated. They unsheathe their swords.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Keep me covered.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Stir among KNIGHTS.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	What with?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Just keep me covered.
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	Too late.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	There he is!
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+They all turn,, and see a large white RABBIT lollop a few yards out of the cave. Accompanied by terrifying chord and jarring metallic monster noise.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	There.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	Behind the rabbit?
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	It is the rabbit.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	... You silly sod.
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	You got us all worked up.
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	You cretin!
+	</DIALOGUE>
+</BEDEVERE>
+<TIM>
+	<DIALOGUE>
+	That is not an ordinary rabbit ... 'tis the most foul cruel and bad-tempered thing you ever set eyes on.
+	</DIALOGUE>
+</TIM>
+<ROBIN>
+	<DIALOGUE>
+	You tit. I soiled my armour I was so scared!
+	</DIALOGUE>
+</ROBIN>
+<TIM>
+	<DIALOGUE>
+	That rabbit's got a vicious streak. It's a killer!
+	</DIALOGUE>
+</TIM>
+<GALAHAD>
+	<DIALOGUE>
+	Oh, fuck off. Get stuffed.
+	</DIALOGUE>
+</GALAHAD>
+<TIM>
+	<DIALOGUE>
+	He'll do you up a treat mate!
+	</DIALOGUE>
+</TIM>
+<GALAHAD>
+	<DIALOGUE>
+	Oh yeah?
+	</DIALOGUE>
+</GALAHAD>
+<ROBIN>
+	<DIALOGUE>
+	You turd! Mangy scots git!
+	</DIALOGUE>
+</ROBIN>
+<TIM>
+	<DIALOGUE>
+	Look. I'm warning you.
+	</DIALOGUE>
+</TIM>
+<ROBIN>
+	<DIALOGUE>
+	What's he do? Nibble your bum?
+	</DIALOGUE>
+</ROBIN>
+<TIM>
+	<DIALOGUE>
+	Well, It's got huge ... very sharp ... it can jump a... look at the bones.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	Go on, Bors, chop its head off.
+	</DIALOGUE>
+</ARTHUR>
+<BORS>
+	<DIALOGUE>
+	Right. Silly little bleeder. One rabbit stew coming up.
+	</DIALOGUE>
+</BORS>
+<TIM>
+	<DIALOGUE>
+	Look!
+	</DIALOGUE>
+</TIM>
+<DIRECTION>
+As TIM points they all spin round to see the RABBIT leap at BORS' throat with an appalling scream. From a distance of about twenty feet there is a tin opening noise, a cry from BORS. A quick CLOSE-UP of a savage RABBIT biting through tin and BORS' head flies off. The RABBIT leaps back to the mouth of the cave and sits there looking in the KNIGHTS' direction and growling menacingly.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Je...sus Christ!
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+	<DIALOGUE>
+	I warned you!
+	</DIALOGUE>
+</TIM>
+<ROBIN>
+	<DIALOGUE>
+	I done it again.
+	</DIALOGUE>
+</ROBIN>
+<TIM>
+	<DIALOGUE>
+	Did I tell you? Did you listen to me? Oh no, no, you knew better didn't you? No, it's just an ordinary rabbit isn't it. The names you called me. Well, don't say I didn't tell you.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	Oh, shut up.
+	</DIALOGUE>
+</ARTHUR>
+<TIM>
+<DIRECTION>
+(quietly)
+</DIRECTION>
+	<DIALOGUE>
+	It's always the same ... if I've said it once.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	Charge!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They all charge with swords drawn towards the RABBIT. A tremendous twenty second fight with Peckinpahish shots and borrowing heavily also on the Kung Fu and karate-type films ensues, in which some four KNIGHTS are comprehensively killed.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Run away! Run away!
+	</DIALOGUE>
+</ARTHUR>
+<ALL_KNIGHTS>
+<DIRECTION>
+(taking up cry)
+</DIRECTION>
+	<DIALOGUE>
+	Run away! Run away!
+	</DIALOGUE>
+</ALL_KNIGHTS>
+<DIRECTION>
+They run down from the cave and hide, regrouping behind some rocks. TIM, some way away, is pointing at them and laughing derisively.
+</DIRECTION>
+<TIM>
+	<DIALOGUE>
+	Ha ha ha. Ha ha ha.
+	</DIALOGUE>
+</TIM>
+<ARTHUR>
+	<DIALOGUE>
+	Who did we lose?
+	</DIALOGUE>
+</ARTHUR>
+<LAUNCELOT>
+	<DIALOGUE>
+	Sir Gawain.
+	</DIALOGUE>
+</LAUNCELOT>
+<GALAHAD>
+	<DIALOGUE>
+	Ector.
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	And Bors. Five.
+	</DIALOGUE>
+</ARTHUR>
+<GALAHAD>
+	<DIALOGUE>
+	Three, sir!
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Three. Well, we'll not risk another frontal assault. That rabbit's dynamite.
+	</DIALOGUE>
+</ARTHUR>
+<ROBIN>
+	<DIALOGUE>
+	Would it help to confuse him if we ran away more.
+	</DIALOGUE>
+</ROBIN>
+<ARTHUR>
+	<DIALOGUE>
+	Shut up. Go and change your armour.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ROBIN leaves, walking strangely.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Let us taunt it. It may become so cross that it will make a mistake.
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Like what?
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+GALAHAD cannot find a suitable answer to this.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Do we have any bows?
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</ARTHUR>
+<LAUNCELOT>
+	<DIALOGUE>
+	We have the Holy Hand Grenade.
+	</DIALOGUE>
+</LAUNCELOT>
+<ROBIN>
+	<DIALOGUE>
+	The what?
+	</DIALOGUE>
+</ROBIN>
+<ARTHUR>
+	<DIALOGUE>
+	The Holy Hand Grenade of Antioch. 'Tis one of the sacred relics Brother Maynard always carries with him.
+	</DIALOGUE>
+</ARTHUR>
+<ALL>
+	<DIALOGUE>
+	Yes. Of course.
+	</DIALOGUE>
+</ALL>
+<ARTHUR>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Bring up the Holy Hand Grenade!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Slight pause. Then from the area where the 'HORSES' are, a small group of MONKS process forward towards the KNIGHTS, the leading MONK bearing and ornate golden reliquary, and the accompanying MONKS chanting and waving incense. They reach the KNIGHTS. The hand grenade is suffused with the holy glow.
+</DIRECTION>
+<DIRECTION>
+ARTHUR takes it. Pause
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	How does it ... er ...
+	</DIALOGUE>
+</ARTHUR>
+<LAUNCELOT>
+	<DIALOGUE>
+	I know not.
+	</DIALOGUE>
+</LAUNCELOT>
+<ARTHUR>
+	<DIALOGUE>
+	Consult the Book of Armaments.
+	</DIALOGUE>
+</ARTHUR>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	Armaments Chapter Two Verses Nine to Twenty One.
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<ANOTHER_MONK>
+<DIRECTION>
+(reading from bible)
+</DIRECTION>
+	<DIALOGUE>
+	And St. Attila raised his hand grenade up on high saying "O Lord bless this thy hand grenade that with it thou mayest blow thine enemies to tiny bits, in thy mercy. "and the Lord did grin and people did feast upon the lambs and sloths and carp and anchovies and orang-utans and breakfast cereals and fruit bats and...
+	</DIALOGUE>
+</ANOTHER_MONK>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	Skip a bit brother ...
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<ANOTHER_MONK>
+	<DIALOGUE>
+	... Er ... oh, yes ... and the Lord spake, saying, "First shalt thou take out the Holy Pin, then shalt thou count to three, no more, no less. Three shalt be the number thou shalt count, and the number of the counting shalt be three. Four shalt thou not count, neither count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thou foe, who being naughty in my sight, shall snuff it.
+	</DIALOGUE>
+</ANOTHER_MONK>
+<ARTHUR>
+	<DIALOGUE>
+	Right.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+He pulls Pin out. The MONK blesses the grenade as ...
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(quietly)
+</DIRECTION>
+	<DIALOGUE>
+	One, two , three ... , five ...
+	</DIALOGUE>
+</ARTHUR>
+<GALAHAD>
+	<DIALOGUE>
+	Three, sir!
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Three.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR throws the grenade at the RABBIT. There is an explosion and cheering from the KNIGHTS.
+</DIRECTION>
+<ALL_KNIGHTS>
+	<DIALOGUE>
+	Praise be to the lord. Huzzah!
+	</DIALOGUE>
+</ALL_KNIGHTS>
+<DIRECTION>
+INTERIOR - CAVE - DAY
+</DIRECTION>
+<DIRECTION>
+MIX THROUGH TO the KNIGHTS entering the cave. It is a large cave and as they walk inside it we see in the darkness at the side of the cave a fearsome looking CREATURE which watches them with some surprise as they walk to some writing carved on the back of the cave wall. The KNIGHTS are accompanied by BROTHER MAYNARD.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	There! Look!
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	What does it say?
+	</DIALOGUE>
+</BEDEVERE>
+<GALAHAD>
+	<DIALOGUE>
+	What language is this?
+	</DIALOGUE>
+</GALAHAD>
+<BEDEVERE>
+	<DIALOGUE>
+	Brother Maynard, you are a scholar.
+	</DIALOGUE>
+</BEDEVERE>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	It is Aramaic!
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<GALAHAD>
+	<DIALOGUE>
+	Of course. Joseph of Aramathea!
+	</DIALOGUE>
+</GALAHAD>
+<ALL>
+	<DIALOGUE>
+	Of course.
+	</DIALOGUE>
+</ALL>
+<ARTHUR>
+	<DIALOGUE>
+	What does it say?
+	</DIALOGUE>
+</ARTHUR>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	It reads ... "Here may be found the last words of Joseph of Aramathea."
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<DIRECTION>
+Excitement.
+</DIRECTION>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	"He who is valorous and pure of heart may find the Holy Grail in the aaaaarrrrrrggghhh..."
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	"The Aaaaarrrrrrggghhh..."
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<BEDEVERE>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</BEDEVERE>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	He must have died while carving it.
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<BEDEVERE>
+	<DIALOGUE>
+	Oh, come on.
+	</DIALOGUE>
+</BEDEVERE>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	That's what it says.
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<ARTHUR>
+<DIRECTION>
+(miming)
+</DIRECTION>
+	<DIALOGUE>
+	But if he was dying, he wouldn't bother to carve "Aaaaarrrrrrggghhh". He'd just say it.
+	</DIALOGUE>
+</ARTHUR>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	It's down there carved in stone.
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<GALAHAD>
+	<DIALOGUE>
+	Perhaps he was dictating.
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Shut up. Is that all it says?
+	</DIALOGUE>
+</ARTHUR>
+<BROTHER_MAYNARD>
+	<DIALOGUE>
+	That's all. "Aaaaarrrrrrggghhh".
+	</DIALOGUE>
+</BROTHER_MAYNARD>
+<ARTHUR>
+	<DIALOGUE>
+	"Aaaaarrrrrrggghhh".
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Do you think he meant the Camargue?
+	</DIALOGUE>
+</BEDEVERE>
+<GALAHAD>
+	<DIALOGUE>
+	Where's that?
+	</DIALOGUE>
+</GALAHAD>
+<BEDEVERE>
+	<DIALOGUE>
+	France, I think.
+	</DIALOGUE>
+</BEDEVERE>
+<LAUNCELOT>
+	<DIALOGUE>
+	Isn't there a St. Aaaaarrrrrrggghhh's in Cornwall?
+	</DIALOGUE>
+</LAUNCELOT>
+<ARTHUR>
+	<DIALOGUE>
+	No, that's Saint Ives.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+A muffled roar is heard.
+</DIRECTION>
+<ROBIN>
+	<DIALOGUE>
+	Hey!
+	</DIALOGUE>
+</ROBIN>
+<BEDEVERE>
+	<DIALOGUE>
+	No, that's in Herefordshire.
+	</DIALOGUE>
+</BEDEVERE>
+<ROBIN>
+<DIRECTION>
+(more urgently)
+</DIRECTION>
+	<DIALOGUE>
+	No ... HEY!!!
+	</DIALOGUE>
+</ROBIN>
+<LAUNCELOT>
+	<DIALOGUE>
+	"Aaaaarrrrrrggghhh ... "
+	</DIALOGUE>
+</LAUNCELOT>
+<ROBIN>
+	<DIALOGUE>
+	No! "Hey"! is surprise and alarm!
+	</DIALOGUE>
+</ROBIN>
+<BEDEVERE>
+	<DIALOGUE>
+	Oooooh!
+	</DIALOGUE>
+</BEDEVERE>
+<LAUNCELOT>
+	<DIALOGUE>
+	No "Aaaaarrrrrrggghhh ... " at the back of the throat.
+	</DIALOGUE>
+</LAUNCELOT>
+<BEDEVERE>
+	<DIALOGUE>
+	No! "Oooooh!" in surprise and alarm!
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+He indicated the entrance of the cave. They all turn and look. There in the opening is a huge, unpleasant, fairly well drawn cartoon beast.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Oh!
+	</DIALOGUE>
+<GALAHAD>
+	<DIALOGUE>
+	My God!
+	</DIALOGUE>
+</ARTHUR>
+<LAUNCELOT>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</LAUNCELOT>
+<BEDEVERE>
+	<DIALOGUE>
+	I know! I know! I Know!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	It's the ... oh ...
+	</DIALOGUE>
+<DIRECTION>
+(snaps his fingers as he tries to remember)
+</DIRECTION>
+	<DIALOGUE>
+	it's the ... it's on the tip of my tongue ...
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+Another hideous roar.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	That's it!
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	It's The Legendary Black Beast of Aaaaarrrrrrggghhh!
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+At that moment there is a yell and a scream OUT OF VISION. ARTHUR turns.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Who was that?
+	</DIALOGUE>
+</ARTHUR>
+<HECTOR>
+<DIRECTION>
+(from back of group; northern and helpful)
+</DIRECTION>
+	<DIALOGUE>
+	It was Sir Alf.
+	</DIALOGUE>
+</HECTOR>
+<ARTHUR>
+	<DIALOGUE>
+	I didn't know we had a Sir Alf.
+	</DIALOGUE>
+</ARTHUR>
+<HECTOR>
+	<DIALOGUE>
+	He was feeding it bread.
+	</DIALOGUE>
+</HECTOR>
+<ARTHUR>
+<DIRECTION>
+(shouting back)
+</DIRECTION>
+	<DIALOGUE>
+	Well, that was a very silly thing to do. Now the rest of you stand well back from the BLACK BEAST of Aaaaarrrrrrggghhh!
+	</DIALOGUE>
+</ARTHUR>
+<HECTOR>
+	<DIALOGUE>
+	Aaaaarrrrrrggghhh!
+	</DIALOGUE>
+</HECTOR>
+<ROBIN>
+	<DIALOGUE>
+	Look out.
+	</DIALOGUE>
+</ROBIN>
+<DIRECTION>
+The animation MONSTER starts lumbering towards them. The KNIGHTS retreat into the darkness of the cave.
+</DIRECTION>
+<GAWAIN>
+<DIRECTION>
+(as they run)
+</DIRECTION>
+	<DIALOGUE>
+	It's only a cartoon.
+	</DIALOGUE>
+</GAWAIN>
+<ARTHUR>
+	<DIALOGUE>
+	Sh!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They run off. Darkness. The MONSTER lumbering through on animation.
+</DIRECTION>
+<VOICE_OVER>
+	<DIALOGUE>
+	As the horrendous Black Beast lunged forward, escape for Arthur and his knights seemed hopeless, when, suddenly ... the animator suffered a fatal heart attack.
+	</DIALOGUE>
+</VOICE_OVER>
+<ANIMATOR>
+	<DIALOGUE>
+	Aaaaagh!
+	</DIALOGUE>
+</ANIMATOR>
+<VOICE_OVER>
+	<DIALOGUE>
+	The cartoon peril was no more ... The Quest for Holy Grail could continue.
+	</DIALOGUE>
+</VOICE_OVER>
+<DIRECTION>
+ANIMATED SEQUENCE. Leads through to the group reappearing and seeing a distant opening to the cave. They reach the opening. It is day.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+The KNIGHTS emerge from the mouth of the cave to find themselves in a breathtaking, barren landscape. Glencoe. They are half they way up the side of a mountain. They rest a few seconds and get their breath back.
+</DIRECTION>
+<GALAHAD>
+	<DIALOGUE>
+	Look!
+	</DIALOGUE>
+</GALAHAD>
+<GALAHAD>
+	<DIALOGUE>
+	There it is!
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	The Bridge of Death!
+	</DIALOGUE>
+</ARTHUR>
+<ROBIN>
+<DIRECTION>
+(to himself)
+</DIRECTION>
+	<DIALOGUE>
+	Oh! Great ...
+	</DIALOGUE>
+</ROBIN>
+<DIRECTION>
+They look and see on the side of the mountain there is a sort of milestone which bears the words: "Aaaaarrrrrrggghhh! 5 miles" and an arrow.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	God be praised. This must be the gorge of which the old man spoke in scene twenty-four.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The KNIGHTS set off along and rather perilous track edging along the side of the mountain. GALAHAD is leading.
+</DIRECTION>
+<DIRECTION>
+MIX THROUGH they are climbing higher. The path gets more and more slippery and dangerous. They reach another milestone which says: "Aaaaarrrrrrggghhh! 4 miles" and an arrow, and "Ni! 82 miles" and an arrow pointing in the opposite direction. They go on. It is dangerous and difficult. Tension in their faces.
+</DIRECTION>
+<DIRECTION>
+As they are climbing, BEDEVERE turns to ROBIN and ARTHUR.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	We must find the bridge ... the Bridge of Death ...
+	</DIALOGUE>
+</BEDEVERE>
+<ROBIN>
+<DIRECTION>
+(to himself)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, great!
+	</DIALOGUE>
+</ROBIN>
+<BEDEVERE>
+	<DIALOGUE>
+	The Bridge is guarded by a bridgekeeper, who asks each traveller three questions. And he who answers the three questions can cross in safety.
+	</DIALOGUE>
+</BEDEVERE>
+<ROBIN>
+<DIRECTION>
+(warily)
+</DIRECTION>
+	<DIALOGUE>
+	And if you get a question wrong?
+	</DIALOGUE>
+</ROBIN>
+<BEDEVERE>
+	<DIALOGUE>
+	You are cast into the Gorge of Eternal Peril.
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO them struggling along. Perhaps downhill now. It is growing misty. SIR LAUNCELOT stops them and points. They peer.
+</DIRECTION>
+<DIRECTION>
+CUT TO see in the mist ... a weird bridge with mist swirling up from the gorge below. We cannot see the other side.
+</DIRECTION>
+<DIRECTION>
+Beside the bridge an OLD MAN stands, he is the blind soothsayer they met earlier in the forest.
+</DIRECTION>
+<ARTHUR>
+<DIRECTION>
+(to BEDEVERE)
+</DIRECTION>
+	<DIALOGUE>
+	He's the Keeper of the Bridge. It's the old man.
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+<DIRECTION>
+(swallowing hard)
+</DIRECTION>
+	<DIALOGUE>
+	Who's going to answer the questions?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	You go, Robin, and God be with you.
+	</DIALOGUE>
+</ARTHUR>
+<ROBIN>
+<DIRECTION>
+(looking round wildly)
+</DIRECTION>
+	<DIALOGUE>
+	Er ... I tell you what -
+	</DIALOGUE>
+<DIRECTION>
+(lowering voice)
+</DIRECTION>
+	<DIALOGUE>
+	Why doesn't Launcelot go?
+	</DIALOGUE>
+</ROBIN>
+<ARTHUR>
+<DIRECTION>
+(considering a moment)
+</DIRECTION>
+	<DIALOGUE>
+	Very well ... Sir Launcelot. Brave Sir Launcelot. This is the Bridge of Death ...
+	</DIALOGUE>
+</ARTHUR>
+<LAUNCELOT>
+	<DIALOGUE>
+	Oh, yes sir ... I will take it single-handed.
+	</DIALOGUE>
+<DIRECTION>
+(drawing his sword)
+</DIRECTION>
+	<DIALOGUE>
+	I will ...
+	</DIALOGUE>
+</LAUNCELOT>
+<DIRECTION>
+ARTHUR restrains him.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	No, hang on. All we want is for you to approach the old man and he will ask you three questions. Answer those question as best you can, and we will watch ... and pray.
+	</DIALOGUE>
+</ARTHUR>
+<LAUNCELOT>
+	<DIALOGUE>
+	Yes, my liege ...
+	</DIALOGUE>
+</LAUNCELOT>
+<ARTHUR>
+	<DIALOGUE>
+	Good luck, brave Sir Launcelot! Be careful ...
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They shake hands, Arthur's eyes moisten. LAUNCELOT approaches the Bridge of Death.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Listen to the questions.
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Look! It's the old man from scene 24 - what's he Doing here?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	He is the keeper of the Bridge. He asks each traveler five questions ...
+	</DIALOGUE>
+<GALAHAD>
+	<DIALOGUE>
+	Three questions.
+	</DIALOGUE>
+</ARTHUR>
+<ARTHUR>
+	<DIALOGUE>
+	Three questions ... he who answers the five questions
+	</DIALOGUE>
+</ARTHUR>
+<GALAHAD>
+	<DIALOGUE>
+	Three questions.
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Three questions, may cross in safety.
+	</DIALOGUE>
+</ARTHUR>
+<ROBIN>
+<DIRECTION>
+(warily)
+</DIRECTION>
+	<DIALOGUE>
+	And if you get a question wrong?
+	</DIALOGUE>
+</ROBIN>
+<ARTHUR>
+	<DIALOGUE>
+	You are cast into the Gorge of Eternal Peril.
+	</DIALOGUE>
+</ARTHUR>
+<ROBIN>
+	<DIALOGUE>
+	Oh ... wacho!
+	</DIALOGUE>
+</ROBIN>
+<GALAHAD>
+	<DIALOGUE>
+	Who's going to answer the questions?
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Sir Robin, Brave Sir Robin you go.
+	</DIALOGUE>
+</ARTHUR>
+<ROBIN>
+	<DIALOGUE>
+	Hey! I've got a great idea! Why doesn't Launcelot go?
+	</DIALOGUE>
+</ROBIN>
+<LAUNCELOT>
+	<DIALOGUE>
+	Yes. Let me. I will take it single-handed ... I will make feint to the north-east ...
+	</DIALOGUE>
+</LAUNCELOT>
+<ARTHUR>
+	<DIALOGUE>
+	No, hang on! Just answer the five questions ...
+	</DIALOGUE>
+</ARTHUR>
+<GALAHAD>
+	<DIALOGUE>
+	Three questions ...
+	</DIALOGUE>
+</GALAHAD>
+<ARTHUR>
+	<DIALOGUE>
+	Three questions ... And we shall watch ... and pray.
+	</DIALOGUE>
+</ARTHUR>
+<LAUNCELOT>
+	<DIALOGUE>
+	I understand, my liege.
+	</DIALOGUE>
+</LAUNCELOT>
+<ARTHUR>
+	<DIALOGUE>
+	Good luck, brave Sir Launcelot ... God be with you.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+LAUNCELOT APPROACHES THE BRIDGEKEEPER.
+</DIRECTION>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	Stop!
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<DIRECTION>
+SIR LAUNCELOT stops. The KNIGHTS watch anxiously. ARTHUR sniffs briefly and glances momentarily down at SIR ROBIN's lower armour.
+</DIRECTION>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	Who approaches the Bridge of Death Must answer me These questions three! Ere the other side he see.
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Ask me the questions, Bridgekeeper. I am not afraid.
+	</DIALOGUE>
+</LAUNCELOT>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your name?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<LAUNCELOT>
+	<DIALOGUE>
+	My name is Sir Launcelot.
+	</DIALOGUE>
+</LAUNCELOT>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your quest?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<LAUNCELOT>
+	<DIALOGUE>
+	To find the Holy Grail.
+	</DIALOGUE>
+</LAUNCELOT>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your favorite colour?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<LAUNCELOT>
+	<DIALOGUE>
+	Blue.
+	</DIALOGUE>
+</LAUNCELOT>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	Right. Off you go.
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<DIRECTION>
+SIR LAUNCELOT runs across into the mist. The bridge perhaps disappears into the mist and we cannot see the other side. ARTHUR and SIR ROBIN exchange glances. ROBIN breathes a great sigh of relief.
+</DIRECTION>
+<ROBIN>
+	<DIALOGUE>
+	That's easy!
+	</DIALOGUE>
+</ROBIN>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	Stop! Who approacheth the Bridge of Death Must answer me These questions three! Ere the other side he see!
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<ROBIN>
+	<DIALOGUE>
+	Ask me the questions, Bridgekeeper. I am not afraid.
+	</DIALOGUE>
+</ROBIN>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your name?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<ROBIN>
+	<DIALOGUE>
+	My name is Sir Robin of Camelot!
+	</DIALOGUE>
+</ROBIN>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your quest?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<ROBIN>
+	<DIALOGUE>
+	To seek the Grail!
+	</DIALOGUE>
+</ROBIN>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is the capital of Assyria?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<ROBIN>
+<DIRECTION>
+(indignantly)
+</DIRECTION>
+	<DIALOGUE>
+	I don't know that!
+	</DIALOGUE>
+</ROBIN>
+<DIRECTION>
+He is immediately hurled by some unseen force over the edge of the precipice.
+</DIRECTION>
+<ROBIN>
+	<DIALOGUE>
+	Aaaaarrrrrrggghhh!
+	</DIALOGUE>
+</ROBIN>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO SIR LAUNCELOT who is only just arriving on the other side. He looks back across the invisible chasm. Dimly in the distance he hears:
+</DIRECTION>
+<GAWAIN>
+<DIRECTION>
+(OUT OF VISION)
+</DIRECTION>
+	<DIALOGUE>
+	Sir Gawain of Camelot!
+	</DIALOGUE>
+</GAWAIN>
+<BRIDGEKEEPER>
+<DIRECTION>
+(OOV)
+</DIRECTION>
+	<DIALOGUE>
+	What is your quest?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<GAWAIN>
+<DIRECTION>
+(OOV)
+</DIRECTION>
+	<DIALOGUE>
+	To seek the Holy Grail.
+	</DIALOGUE>
+</GAWAIN>
+<BRIDGEKEEPER>
+<DIRECTION>
+(OOV)
+</DIRECTION>
+	<DIALOGUE>
+	What goes: black white ... black white ... black white?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<GAWAIN>
+<DIRECTION>
+(OOV)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, er ... Babylon! er ... Aaaaarrrrrrggghhh!
+	</DIALOGUE>
+</GAWAIN>
+<DIRECTION>
+SIR LAUNCELOT stands on the other side of the bridge. In the distance we hear the ritual of questions and then a scream and thud, suddenly a hand lands on LAUNCELOT's shoulder.
+</DIRECTION>
+<POLICEMAN>
+<DIRECTION>
+(VOICE OVER)
+</DIRECTION>
+	<DIALOGUE>
+	Just want to ask you some questions, sir.
+	</DIALOGUE>
+</POLICEMAN>
+<DIRECTION>
+LAUNCELOT turns and reacts. He is led away.
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - LAKE - DAY
+</DIRECTION>
+<DIRECTION>
+CUT TO ARTHUR, GALAHAD and BEDEVERE struggling towards the lake.
+</DIRECTION>
+<BEDEVERE>
+<DIRECTION>
+(to ARTHUR)
+</DIRECTION>
+	<DIALOGUE>
+	How did you know how many wing-beats a swallow needs to maintain velocity?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Oh ... when you're king you know all those things.
+	</DIALOGUE>
+</ARTHUR>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your favorite colour?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<GAWAIN>
+	<DIALOGUE>
+	Blue ... No yelloooooww!
+	</DIALOGUE>
+</GAWAIN>
+<DIRECTION>
+ARTHUR and BEDEVERE step forward.
+</DIRECTION>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your name?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<ARTHUR>
+	<DIALOGUE>
+	It is Arthur, King of the Britons.
+	</DIALOGUE>
+</ARTHUR>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is your quest?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<ARTHUR>
+	<DIALOGUE>
+	To seek the Holy Grail.
+	</DIALOGUE>
+</ARTHUR>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	What is the air-speed velocity of an unladen swallow?
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<ARTHUR>
+	<DIALOGUE>
+	What do you mean? An African or European swallow?
+	</DIALOGUE>
+</ARTHUR>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	Er ... I don't know that ... Aaaaarrrrrrggghhh!
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<DIRECTION>
+BRIDGEKEEPER is cast into the gorge.
+</DIRECTION>
+<BEDEVERE>
+	<DIALOGUE>
+	How do you know so much about swollows?
+	</DIALOGUE>
+</BEDEVERE>
+<ARTHUR>
+	<DIALOGUE>
+	Well you have to know these things when you're a king, you know.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Suddenly they appear at water's edge. They look across the water. A huge expanse disappearing into the mist. How can they cross?
+</DIRECTION>
+<DIRECTION>
+Suddenly the air is filled with ethereal music, and out of the mist appears a wonderful barge silently and slowly drifting towards them.
+</DIRECTION>
+<DIRECTION>
+They gaze in wonder. The mysterious boat comes to where they are standing. As if bewitched, they find themselves drawing closer to the boat. As they are about to step in, a ragged figure looks up at them.
+</DIRECTION>
+<BOATKEEPER>
+<DIRECTION>
+(he is the same as the BRIDGEKEEPER and the SOOTHSAYER)
+</DIRECTION>
+	<DIALOGUE>
+	He who would cross the Sea if Fate must answer me these questions twenty-eight.
+	</DIALOGUE>
+</BOATKEEPER>
+<DIRECTION>
+He fixes them with a baleful eye, ARTHUR and BEDEVERE exchange glances, then turn, with minds made up, pick him up bodily and throw him in the water. They climb into the boat and the boat moves off into the mist
+</DIRECTION>
+<DIRECTION>
+FADE OUT
+</DIRECTION>
+<DIRECTION>
+ANIMATION
+</DIRECTION>
+<DIRECTION>
+A wondrous journey in animation carries them across the lake.
+</DIRECTION>
+<DIRECTION>
+MIX TO
+</DIRECTION>
+<DIRECTION>
+EXTERIOR - DAY
+</DIRECTION>
+<DIRECTION>
+The boat carries them across a magical lake. They land and get out of the boat, their faces suffused with heavenly radiance, and fall to their knees.
+</DIRECTION>
+<DIRECTION>
+Crescendo on music.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	God be praised! The deaths of many find knights have this day been avenged.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Music swells. They bend their heads in prayer, before the castle for which they have searched for so long. Suddenly a voice comes from the battlements.
+</DIRECTION>
+<DIRECTION>
+Music cuts dead.
+</DIRECTION>
+<FROG>
+	<DIALOGUE>
+	Ha ha! Hello! Smelly English K...niggets ... and Monsieur Arthur King, who has the brain of a duck, you know.
+	</DIALOGUE>
+</FROG>
+<DIRECTION>
+The KNIGHTS look up.
+</DIRECTION>
+<FROG>
+	<DIALOGUE>
+	We French persons outwit you a second time, perfidious English mousedropping hoarders ... how you say: "Begorrah!"
+	</DIALOGUE>
+</FROG>
+<DIRECTION>
+ARTHUR stands and shouts.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	How dare you profane this place with your presence! I command you, in the name of the Knights of Camelot, open the door to the Sacred Castle, to which God himself has guided us!
+	</DIALOGUE>
+<DIRECTION>
+(he turns to the KNIGHTS)
+</DIRECTION>
+	<DIALOGUE>
+	Come.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR and the KNIGHTS advance towards the castle.
+</DIRECTION>
+<FROG>
+	<DIALOGUE>
+	How you English say: I one more time, mac, I unclog my nose towards you, sons of a window-dresser, so, you think you could out-clever us French fellows with your silly knees-bent creeping about advancing behaviour.
+	</DIALOGUE>
+<DIRECTION>
+(blows a raspberry)
+</DIRECTION>
+	<DIALOGUE>
+	I wave my private parts at your aunties, you brightly-coloured, mealy-templed, cranberry-smelling, electric donkey-bottom biters.
+	</DIALOGUE>
+</FROG>
+<DIRECTION>
+By this time ARTHUR and BEDEVERE and GALAHAD have reached the door. ARTHUR bangs on the door.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	In the name of the Lord, we demand entrance to this sacred castle.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Jeering from the battlements.
+</DIRECTION>
+<FROG>
+	<DIALOGUE>
+	No chance, English bed-wetting types. We burst our pimples at you, and call your door-opening request a silly thing. You tiny-brained wipers of other people's bottoms!
+	</DIALOGUE>
+</FROG>
+<DIRECTION>
+French laughter
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	If you do not open these doors, we will take this castle by force ...
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+A bucket of slops land on ARTHUR. He tries to retain his dignity.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	In the name of God ... and the glory of our ...
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+Another bucket of what can only be described as human ordure hits ARTHUR.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	... Right!
+	</DIALOGUE>
+<DIRECTION>
+(to the KNIGHTS)
+</DIRECTION>
+	<DIALOGUE>
+	That settles it!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+They turn and walk away. French jeering follows them.
+</DIRECTION>
+<FROG>
+	<DIALOGUE>
+	Yes, depart a lot at this time, and cut the approaching any more or we fire arrows into the tops of your heads and make castanets of your testicles already.
+	</DIALOGUE>
+</FROG>
+<ARTHUR>
+<DIRECTION>
+(to KNIGHTS)
+</DIRECTION>
+	<DIALOGUE>
+	Walk away. Just ignore them.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR, BEDEVERE and GALAHAD walk off. A small hail of chickens, watercress, badgers and mattresses follows them. But they are on their dignity as they try to talk nonchalantly as they walk away into the trees.
+</DIRECTION>
+<FROG>
+	<DIALOGUE>
+	And now remain gone, illegitimate-faced bugger-folk! And, if you think you got a nasty time this taunting, you ain't heard nothing yet, dappy k...niggets, and A. King Esquire.
+	</DIALOGUE>
+</FROG>
+<DIRECTION>
+CUT BACK TO the drenched BRIDGEKEEPER/SOOTHSAYER beside the lake He rises up into SHOT.
+</DIRECTION>
+<BRIDGEKEEPER>
+	<DIALOGUE>
+	He would cross the sea of fate, Must answer me these questions Twenty-eight.
+	</DIALOGUE>
+</BRIDGEKEEPER>
+<DIRECTION>
+CUT TO see he is talking to two PLAIN-CLOTHES POLICEMEN and two CONSTABLES.
+</DIRECTION>
+<INSPECTOR>
+	<DIALOGUE>
+	All right, put him in the van.
+	</DIALOGUE>
+</INSPECTOR>
+<DIRECTION>
+THE BRIDGEKEEPER is led away and put into a police van.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO ARTHUR still walking away. French taunts still audible in the distance.
+</DIRECTION>
+<FRENCH>
+	<DIALOGUE>
+	You couldn't catch clap in a brothel, silly English K...niggets ...
+	</DIALOGUE>
+</FRENCH>
+<ARTHUR>
+<DIRECTION>
+(to BEDEVERE)
+</DIRECTION>
+	<DIALOGUE>
+	We shall attack at once.
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Yes, my liege.
+	</DIALOGUE>
+<DIRECTION>
+(he turns)
+</DIRECTION>
+	<DIALOGUE>
+	Stand by for attack!!
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+CUT TO enormous army forming up. Trebuchets, rows of PIKEMEN, siege towers, pennants flying, shouts of "Stand by for attack!" Traditional army build-up shots. The shouts echo across the ranks of the army. We see various groups reacting, and stirring themselves in readiness.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	Who are they?
+	</DIALOGUE>
+</ARTHUR>
+<BEDEVERE>
+	<DIALOGUE>
+	Oh, just some friends!
+	</DIALOGUE>
+</BEDEVERE>
+<DIRECTION>
+We end up back with ARTHUR. He seems satisfied that the ARMY is ready.
+</DIRECTION>
+<DIRECTION>
+PANNING down the serried ranks, pikes ready, pennants flapping in the wind. Some of the horses whinny nervously, and rattle their coconuts.
+</DIRECTION>
+<DIRECTION>
+ARTHUR is satisfied at last. He addresses the castle.
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	French persons! Today the blood of many valiant knights shall bee avenged. In the name of God, we shall not stop our fight until each one of you lies dead and the Grail returns to those whom God has chosen.
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+ARTHUR lowers his visor, turns to have a last look at ARMY, then:
+</DIRECTION>
+<ARTHUR>
+	<DIALOGUE>
+	CHARGE!
+	</DIALOGUE>
+</ARTHUR>
+<DIRECTION>
+The mighty ARMY charges. Thundering noise of feet. Clatter of coconuts. Shouts etc.
+</DIRECTION>
+<DIRECTION>
+The charge towards the castle.
+</DIRECTION>
+<DIRECTION>
+Suddenly there is a wail of a siren and a couple of police cars roar round in front of the charging ARMY and the POLICE leap out and stop them. TWO POLICEMAN and the HISTORIAN'S WIFE. Black Marias skid up behind them.
+</DIRECTION>
+<DIRECTION>
+The ARMY halts.
+</DIRECTION>
+<HISTORIAN_S_WIFE>
+	<DIALOGUE>
+	They're the ones, I'm sure.
+	</DIALOGUE>
+<INSPECTOR_END_OF_FILM>
+	<DIALOGUE>
+	Grab 'em!
+	</DIALOGUE>
+</INSPECTOR_END_OF_FILM>
+<DIRECTION>
+The POLICE grab ARTHUR and bundle him into the maria.
+</DIRECTION>
+<DIRECTION>
+SIR BEDEVERE is led off with a blanket over his head. They are bundled into the black maria and the van drives off.
+</DIRECTION>
+<DIRECTION>
+The rest of the ARMY stand around looking at a loss.
+</DIRECTION>
+<INSPECTOR_END_OF_FILM>
+<DIRECTION>
+(picks up megaphone)
+</DIRECTION>
+	<DIALOGUE>
+	All right! Clear off! Go on!
+	</DIALOGUE>
+</INSPECTOR_END_OF_FILM>
+<DIRECTION>
+A few reaction shots of the ARMY not quite sure what to do.
+</DIRECTION>
+<INSPECTOR_END_OF_FILM>
+	<DIALOGUE>
+	Move along. There's nothing to see! Keep moving!
+	</DIALOGUE>
+</INSPECTOR_END_OF_FILM>
+<DIRECTION>
+Suddenly he notices the cameras.
+</DIRECTION>
+<DIRECTION>
+As the black maria drives away QUICK SHOT through window of all the KNIGHTS huddled inside.
+</DIRECTION>
+<INSPECTOR_END_OF_FILM>
+<DIRECTION>
+(to Camera)
+</DIRECTION>
+	<DIALOGUE>
+	All right, put that away sonny.
+	</DIALOGUE>
+</INSPECTOR_END_OF_FILM>
+<DIRECTION>
+He walks over to it and puts his hand over the lens.
+</DIRECTION>
+<DIRECTION>
+The film runs out through the gate and the projector shines on the screen.
+</DIRECTION>
+<DIRECTION>
+There is a blank screen for some fifteen seconds.
+</DIRECTION>
+<DIRECTION>
+Suddenly jazzy music. Animated titles. (A new film completely free with the Monty Python film.)
+</DIRECTION>
+<DIRECTION>
+"THE CREDITS".
+</DIRECTION>
+<DIRECTION>
+Four or five minute film (mainly animated) about the credits, i.e it includes the actual credits for the film but is really elaborate.
+</DIRECTION>
+<DIRECTION>
+THE END.
+</DIRECTION>
+<DIRECTION>
+Slushy organ music starts and the houselights in the cinema come on ... organ music continues as the audience leave.
+</DIRECTION>

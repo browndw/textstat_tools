@@ -1,0 +1,6032 @@
+﻿<DIRECTION>
+Scene.--Athens, and the neighbouring Woods.
+</DIRECTION>
+<ACT_1>
+<SCENE_1>
+<DIRECTION>
+Athens. A Hall in Timon's House.
+</DIRECTION>
+<DIRECTION>
+Enter Poet, Painter, Jeweller, Merchant, and Others, at several doors.
+</DIRECTION>
+<POET>
+	<DIALOGUE>
+	Good day, sir.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	I am glad you're well.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	I have not seen you long. How goes the world?
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	It wears, sir, as it grows.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	Ay, that's well known;
+	But what particular rarity? what strange,
+	Which manifold record not matches? See,
+	Magic of bounty! all these spirits thy power
+	Hath conjur'd to attend. I know the merchant.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	I know them both; th' other's a jeweller.
+	</DIALOGUE>
+</PAINTER>
+<MERCHANT>
+	<DIALOGUE>
+	O! 'tis a worthy lord.
+	</DIALOGUE>
+</MERCHANT>
+<JEW>
+	<DIALOGUE>
+	Nay, that's most fix'd.
+	</DIALOGUE>
+</JEW>
+<MERCHANT>
+	<DIALOGUE>
+	A most incomparable man, breath'd, as it were,
+	To an untirable and continuate goodness:
+	He passes.
+	</DIALOGUE>
+</MERCHANT>
+<JEW>
+	<DIALOGUE>
+	I have a jewel here--
+	</DIALOGUE>
+</JEW>
+<MERCHANT>
+	<DIALOGUE>
+	O! pray, let's see 't: for the Lord Timon, sir?
+	</DIALOGUE>
+</MERCHANT>
+<JEW>
+	<DIALOGUE>
+	If he will touch the estimate: but, for that--
+	</DIALOGUE>
+</JEW>
+<POET>
+	<DIALOGUE>
+	When we for recompense have prais'd the vile,
+	It stains the glory in that happy verse
+	Which aptly sings the good.
+	</DIALOGUE>
+</POET>
+<MERCHANT>
+<DIRECTION>
+Looking at the jewel.
+</DIRECTION>
+	<DIALOGUE>
+	'Tis a good form.
+	</DIALOGUE>
+</MERCHANT>
+<JEW>
+	<DIALOGUE>
+	And rich: here is a water, look ye.
+	</DIALOGUE>
+</JEW>
+<PAINTER>
+	<DIALOGUE>
+	You are rapt, sir, in some work, some dedication
+	To the great lord.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	A thing slipp'd idly from me.
+	Our poesy is as a gum, which oozes
+	From whence 'tis nourish'd: the fire i' the flint
+	Shows not till it be struck; our gentle flame
+	Provokes itself, and, like the current flies
+	Each bound it chafes. What have you there?
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	A picture, sir. When comes your book forth?
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	Upon the heels of my presentment, sir.
+	Let's see your piece.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	'Tis a good piece.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	So 'tis: this comes off well and excellent.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Indifferent.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	Admirable! How this grace
+	Speaks his own standing! what a mental power
+	This eye shoots forth! how big imagination
+	Moves in this lip! to the dumbness of the gesture
+	One might interpret.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	It is a pretty mocking of the life.
+	Here is a touch; is 't good?
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	I'll say of it,
+	It tutors nature: artificial strife
+	Lives in these touches, livelier than life.
+	</DIALOGUE>
+</POET>
+<DIRECTION>
+Enter certain Senators, who pass over the stage.
+</DIRECTION>
+<PAINTER>
+	<DIALOGUE>
+	How this lord is follow'd!
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	The senators of Athens: happy man!
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Look, more!
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	You see this confluence, this great flood of visitors.
+	I have, in this rough work, shap'd out a man,
+	Whom this beneath world doth embrace and hug
+	With amplest entertainment: my free drift
+	Halts not particularly, but moves itself
+	In a wide sea of wax: no levell'd malice
+	Infects one comma in the course I hold;
+	But flies an eagle flight, bold and forth on,
+	Leaving no tract behind.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	How shall I understand you?
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	I will unbolt to you.
+	You see how all conditions, how all minds--
+	As well of glib and slippery creatures as
+	Of grave and austere quality--tender down
+	Their services to Lord Timon: his large fortune,
+	Upon his good and gracious nature hanging,
+	Subdues and properties to his love and tendance
+	All sorts of hearts; yea, from the glass-fac'd flatterer
+	To Apemantus, that few things loves better
+	Than to abhor himself: even he drops down
+	The knee before him and returns in peace
+	Most rich in Timon's nod.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	I saw them speak together.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	Sir, I have upon a high and pleasant hill
+	Feign'd Fortune to be thron'd: the base o' the mount
+	Is rank'd with all deserts, all kind of natures,
+	That labour on the bosom of this sphere
+	To propagate their states: amongst them all,
+	Whose eyes are on this sovereign lady fix'd,
+	One do I personate of Lord Timon's frame,
+	Whom Fortune with her ivory hand wafts to her;
+	Whose present grace to present slaves and servants
+	Translates his rivals.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	'Tis conceiv'd to scope.
+	This throne, this Fortune, and this hill, methinks,
+	With one man beckon'd from the rest below,
+	Bowing his head against the steepy mount
+	To climb his happiness, would be well express'd
+	In our condition.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	Nay, sir, but hear me on.
+	All those which were his fellows but of late,
+	Some better than his value, on the moment
+	Follow his strides, his lobbies fill with tendance,
+	Rain sacrificial whisperings in his ear,
+	Make sacred even his stirrup, and through him
+	Drink the free air.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Ay, marry, what of these?
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	When Fortune in her shift and change of mood
+	Spurns down her late belov'd, all his dependants
+	Which labour'd after him to the mountain's top
+	Even on their knees and hands, let him slip down,
+	Not one accompanying his declining foot.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	'Tis common:
+	A thousand moral paintings I can show
+	That shall demonstrate these quick blows of Fortune's
+	More pregnantly than words. Yet you do well
+	To show Lord Timon that mean eyes have seen
+	The foot above the head.
+	</DIALOGUE>
+</PAINTER>
+<DIRECTION>
+Trumpets sound. Enter Lord Timon, addressing himself...
+<... courteously to every suitor; a Messenger from...>
+<... Ventidius talking with him, Lucilius and other servants following.>
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	Imprison'd is he, say you?
+	</DIALOGUE>
+</TIMON>
+<MESSENGER>
+	<DIALOGUE>
+	Ay, my good lord: five talents is his debt,
+	His means most short, his creditors most strait:
+	Your honourable letter he desires
+	To those have shut him up; which, failing,
+	Periods his comfort.
+	</DIALOGUE>
+</MESSENGER>
+<TIMON>
+	<DIALOGUE>
+	Noble Ventidius! Well;
+	I am not of that feather to shake off
+	My friend when he must need me. I do know him
+	A gentleman that well deserves a help,
+	Which he shall have: I'll pay the debt and free him.
+	</DIALOGUE>
+</TIMON>
+<MESSENGER>
+	<DIALOGUE>
+	Your lordship ever binds him.
+	</DIALOGUE>
+</MESSENGER>
+<TIMON>
+	<DIALOGUE>
+	Commend me to him. I will send his ransom;
+	And being enfranchis'd, bid him come to me.
+	'Tis not enough to help the feeble up,
+	But to support him after. Fare you well.
+	</DIALOGUE>
+</TIMON>
+<MESSENGER>
+	<DIALOGUE>
+	All happiness to your honour
+	</DIALOGUE>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</MESSENGER>
+<DIRECTION>
+Enter an Old Athenian.
+</DIRECTION>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	Lord Timon, hear me speak.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	Freely, good father.
+	</DIALOGUE>
+</TIMON>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	Thou hast a servant nam'd Lucilius.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	I have so: what of him?
+	</DIALOGUE>
+</TIMON>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	Most noble Timon, call the man before thee.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	Attends be here or no? Lucilius!
+	</DIALOGUE>
+</TIMON>
+<LUCIUS>
+	<DIALOGUE>
+	Here, at your lordship's service.
+	</DIALOGUE>
+</LUCIUS>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	This fellow here, Lord Timon, this thy creature,
+	By night frequents my house. I am a man
+	That from my first have been inclin'd to thrift,
+	And my estate deserves an heir more rais'd
+	Than one which holds a trencher.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	Well; what further?
+	</DIALOGUE>
+</TIMON>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	One only daughter have I, no kin else,
+	On whom I may confer what I have got:
+	The maid is fair, o' the youngest for a bride,
+	And I have bred her at my dearest cost
+	In qualities of the best. This man of thine
+	Attempts her love: I prithee, noble lord,
+	Join with me to forbid him her resort;
+	Myself have spoke in vain.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	The man is honest.
+	</DIALOGUE>
+</TIMON>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	Therefore he will be, Timon:
+	His honesty rewards him in itself;
+	It must not bear my daughter.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	Does she love him?
+	</DIALOGUE>
+</TIMON>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	She is young and apt:
+	Our own precedent passions do instruct us
+	What levity's in youth.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+<DIRECTION>
+To Lucilius.
+</DIRECTION>
+	<DIALOGUE>
+	Love you the maid?
+	</DIALOGUE>
+</TIMON>
+<LUCIUS>
+	<DIALOGUE>
+	Ay, my good lord, and she accepts of it.
+	</DIALOGUE>
+</LUCIUS>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	If in her marriage my consent be missing,
+	I call the gods to witness, I will choose
+	Mine heir from forth the beggars of the world,
+	And dispossess her all.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	How shall she be endow'd,
+	If she be mated with an equal husband?
+	</DIALOGUE>
+</TIMON>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	Three talents on the present; in future, all.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	This gentleman of mine hath serv'd me long:
+	To build his fortune I will strain a little,
+	For 'tis a bond in men. Give him thy daughter;
+	What you bestow, in him I'll counterpoise,
+	And make him weigh with her.
+	</DIALOGUE>
+</TIMON>
+<OLD_ATHENIAN>
+	<DIALOGUE>
+	Most noble lord,
+	Pawn me to this your honour, she is his.
+	</DIALOGUE>
+</OLD_ATHENIAN>
+<TIMON>
+	<DIALOGUE>
+	My hand to thee; mine honour on my promise.
+	</DIALOGUE>
+</TIMON>
+<LUCIUS>
+	<DIALOGUE>
+	Humbly I thank your lordship: never may
+	That state or fortune fall into my keeping
+	Which is not ow'd to you!
+	</DIALOGUE>
+</LUCIUS>
+<DIRECTION>
+Exeunt Lucilius and Old Athenian.
+</DIRECTION>
+<POET>
+	<DIALOGUE>
+	Vouchsafe my labour, and long live your lordship!
+	</DIALOGUE>
+</POET>
+<TIMON>
+	<DIALOGUE>
+	I thank you; you shall hear from me anon:
+	Go not away. What have you there, my friend?
+	</DIALOGUE>
+</TIMON>
+<PAINTER>
+	<DIALOGUE>
+	A piece of painting, which I do beseech
+	Your lordship to accept.
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+	<DIALOGUE>
+	Painting is welcome.
+	The painting is almost the natural man;
+	For since dishonour traffics with man's nature,
+	He is but outside: these pencil'd figures are
+	Even such as they give out. I like your work;
+	And you shall find I like it: wait attendance
+	Till you hear further from me.
+	</DIALOGUE>
+</TIMON>
+<PAINTER>
+	<DIALOGUE>
+	The gods preserve you!
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+	<DIALOGUE>
+	Well fare you, gentleman: give me your hand;
+	We must needs dine together. Sir, your jewel
+	Hath suffer'd under praise.
+	</DIALOGUE>
+</TIMON>
+<JEW>
+	<DIALOGUE>
+	What, my lord! dispraise?
+	</DIALOGUE>
+</JEW>
+<TIMON>
+	<DIALOGUE>
+	A mere satiety of commendations.
+	If I should pay you for 't as 'tis extoll'd,
+	It would unclew me quite.
+	</DIALOGUE>
+</TIMON>
+<JEW>
+	<DIALOGUE>
+	My lord, 'tis rated
+	As those which sell would give: but you well know,
+	Things of like value, differing in the owners,
+	Are prized by their masters. Believe 't, dear lord,
+	You mend the jewel by the wearing it.
+	</DIALOGUE>
+</JEW>
+<TIMON>
+	<DIALOGUE>
+	Well mock'd.
+	</DIALOGUE>
+</TIMON>
+<MERCHANT>
+	<DIALOGUE>
+	No, my good lord; he speaks the common tongue,
+	Which all men speak with him.
+	</DIALOGUE>
+</MERCHANT>
+<TIMON>
+	<DIALOGUE>
+	Look, who comes here. Will you be chid?
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter Apemantus.
+</DIRECTION>
+<JEW>
+	<DIALOGUE>
+	We'll bear, with your lordship.
+	</DIALOGUE>
+</JEW>
+<MERCHANT>
+	<DIALOGUE>
+	He'll spare none.
+	</DIALOGUE>
+</MERCHANT>
+<TIMON>
+	<DIALOGUE>
+	Good morrow to thee, gentle Apemantus!
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Till I be gentle, stay thou for thy good morrow;
+	When thou art Timon's dog, and these knaves honest.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Why dost thou call them knaves? thou know'st them not.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Are they not Athenians?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Then I repent not.
+	</DIALOGUE>
+</APEMANTUS>
+<JEW>
+	<DIALOGUE>
+	You know me, Apemantus?
+	</DIALOGUE>
+</JEW>
+<APEMANTUS>
+	<DIALOGUE>
+	Thou know'st I do; I call'd thee by thy name.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Thou art proud, Apemantus.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Of nothing so much as that I am not like Timon.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Whither art going?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	To knock out an honest Athenian's brains.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	That's a deed thou'lt die for.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Right, if doing nothing be death by the law.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	How likest thou this picture, Apemantus?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	The best, for the innocence.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Wrought he not well that painted it?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	He wrought better that made the painter; and yet he's but a filthy piece of work.
+	</DIALOGUE>
+</APEMANTUS>
+<PAINTER>
+	<DIALOGUE>
+	You're a dog.
+	</DIALOGUE>
+</PAINTER>
+<APEMANTUS>
+	<DIALOGUE>
+	Thy mother's of my generation: what's she, if I be a dog?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Wilt dine with me, Apemantus?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	No; I eat not lords.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	An thou shouldst, thou'dst anger ladies.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	O! they eat lords; so they come by great bellies.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	That's a lascivious apprehension.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	So thou apprehendest it, take it for thy labour.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	How dost thou like this jewel, Apemantus?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Not so well as plain-dealing, which will not cost a man a doit.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	What dost thou think 'tis worth?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Not worth my thinking. How now, poet!
+	</DIALOGUE>
+</APEMANTUS>
+<POET>
+	<DIALOGUE>
+	How now, philosopher!
+	</DIALOGUE>
+</POET>
+<APEMANTUS>
+	<DIALOGUE>
+	Thou liest.
+	</DIALOGUE>
+</APEMANTUS>
+<POET>
+	<DIALOGUE>
+	Art not one?
+	</DIALOGUE>
+</POET>
+<APEMANTUS>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</APEMANTUS>
+<POET>
+	<DIALOGUE>
+	Then I lie not.
+	</DIALOGUE>
+</POET>
+<APEMANTUS>
+	<DIALOGUE>
+	Art not a poet?
+	</DIALOGUE>
+</APEMANTUS>
+<POET>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</POET>
+<APEMANTUS>
+	<DIALOGUE>
+	Then thou liest: look in thy last work, where thou hast feigned him a worthy fellow.
+	</DIALOGUE>
+</APEMANTUS>
+<POET>
+	<DIALOGUE>
+	That's not feigned; he is so.
+	</DIALOGUE>
+</POET>
+<APEMANTUS>
+	<DIALOGUE>
+	Yes, he is worthy of thee, and to pay thee for thy labour: he that loves to be flattered is worthy o' the flatterer. Heavens, that I were a lord!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	What wouldst do then, Apemantus?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Even as Apemantus does now; hate a lord with my heart.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	What, thyself?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Ay.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Wherefore?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	That I had no angry wit to be a lord.
+	Art not thou a merchant?
+	</DIALOGUE>
+</APEMANTUS>
+<MERCHANT>
+	<DIALOGUE>
+	Ay, Apemantus.
+	</DIALOGUE>
+</MERCHANT>
+<APEMANTUS>
+	<DIALOGUE>
+	Traffic confound thee, if the gods will not!
+	</DIALOGUE>
+</APEMANTUS>
+<MERCHANT>
+	<DIALOGUE>
+	If traffic do it, the gods do it.
+	</DIALOGUE>
+</MERCHANT>
+<APEMANTUS>
+	<DIALOGUE>
+	Traffic's thy god, and thy god confound thee!
+	</DIALOGUE>
+</APEMANTUS>
+<DIRECTION>
+Trumpet sounds. Enter a Servant.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	What trumpet's that?
+	</DIALOGUE>
+</TIMON>
+<SERVILIUS>
+	<DIALOGUE>
+	'Tis Alcihiades, and some twenty horse,
+	All of companionship.
+	</DIALOGUE>
+</SERVILIUS>
+<TIMON>
+	<DIALOGUE>
+	Pray, entertain them; give them guide to us
+	</DIALOGUE>
+<DIRECTION>
+Exeunt some Attendants.
+</DIRECTION>
+	<DIALOGUE>
+	You must needs dine with me. Go not you hence
+	Till I have thanked you; when dinner's done,
+	Show me this piece. I am joyful of your sights.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter Alciblades, with his Company.
+</DIRECTION>
+	<DIALOGUE>
+	Most welcome, sir!
+<APEMANTUS>
+	<DIALOGUE>
+	So, so, there!
+	Aches contract and starve your supple joints!
+	That there should be small love 'mongst these sweet knaves,
+	And all this courtesy! The strain of man's bred out
+	Into baboon and monkey.
+	</DIALOGUE>
+</APEMANTUS>
+<ALCIBIADES>
+	<DIALOGUE>
+	Sir, you have sav'd my longing, and I feed
+	Most hungerly on your sight.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Right welcome, sir!
+	Ere we depart, we'll share a bounteous time
+	In different pleasures. Pray you, let us in
+	</DIALOGUE>
+<DIRECTION>
+Exeunt all except Apemantus.
+</DIRECTION>
+</TIMON>
+<DIRECTION>
+Enter two Lords.
+</DIRECTION>
+<LORD_1>
+	<DIALOGUE>
+	What time o'day is't, Apemantus?
+	</DIALOGUE>
+</LORD_1>
+<APEMANTUS>
+	<DIALOGUE>
+	Time to be honest.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_1>
+	<DIALOGUE>
+	That time serves still.
+	</DIALOGUE>
+</LORD_1>
+<APEMANTUS>
+	<DIALOGUE>
+	The more accursed thou, that still omitt'st it.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_2>
+	<DIALOGUE>
+	Thou art going to Lord Timon's feast?
+	</DIALOGUE>
+</LORD_2>
+<APEMANTUS>
+	<DIALOGUE>
+	Ay; to see meat fill khaves and wine heat fools.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_2>
+	<DIALOGUE>
+	Fare thee well, fare thee well.
+	</DIALOGUE>
+</LORD_2>
+<APEMANTUS>
+	<DIALOGUE>
+	Thou art a fool to bid me farewell twice.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_2>
+	<DIALOGUE>
+	Why, Apemantus?
+	</DIALOGUE>
+</LORD_2>
+<APEMANTUS>
+	<DIALOGUE>
+	Shouldst have kept one to thyself, for I mean to give thee none.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_1>
+	<DIALOGUE>
+	Hang thyself!
+	</DIALOGUE>
+</LORD_1>
+<APEMANTUS>
+	<DIALOGUE>
+	No, I will do nothing at thy bidding: make thy requests to thy friend.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_2>
+	<DIALOGUE>
+	Away, unpeaceable dog! or I'll spurn thee hence.
+	</DIALOGUE>
+</LORD_2>
+<APEMANTUS>
+	<DIALOGUE>
+	I will fly, like a dog, the heels of an ass.
+	</DIALOGUE>
+</APEMANTUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<LORD_1>
+	<DIALOGUE>
+	He's opposite to humanity. Come, shall we in,
+	And taste Lord Timon's bounty? he outgoes
+	The very heart of kindness.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	He pours it out; Plutus, the god of gold,
+	Is but his steward: no meed but he repays
+	Sevenfold above itself; no gift to him
+	But breeds the giver a return exceeding
+	All use of quittance.
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	The noblest mind he carries
+	That ever govern'd man.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	Long may he live in fortunes!
+	Shall we in?
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	I'll keep you company.
+	</DIALOGUE>
+</LORD_1>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</SCENE_1>
+<SCENE_2>
+<DIRECTION>
+The Same. A Room of State in Timon's House.
+</DIRECTION>
+<DIRECTION>
+Hautboys playing loud music. A great banquet served...
+<... in; Flavius and Others attending: then enter Lord...>
+<... Timon, Alcibiades, Lords, and Senators, Ventidius...>
+<... and Attendants. Then comes, dropping after all, Apemantus discontentedly, like himself.>
+</DIRECTION>
+<VENTIDIUS>
+	<DIALOGUE>
+	Most honour'd Timon,
+	It hath pleas'd the gods to remember my father's age,
+	And call him to long peace.
+	He is gone happy, and has left me rich:
+	Then, as in grateful virtue I am bound
+	To your free heart, I do return those talents,
+	Doubled with thanks and service, from whose help
+	I deriv'd liberty.
+	</DIALOGUE>
+</VENTIDIUS>
+<TIMON>
+	<DIALOGUE>
+	O! by no means,
+	Honest Ventidius; you mistake my love;
+	I gave it freely ever; and there's none
+	Can truly say he gives, if he receives:
+	If our betters play at that game, we must not dare
+	To imitate them; faults that are rich are fair.
+	</DIALOGUE>
+</TIMON>
+<VENTIDIUS>
+	<DIALOGUE>
+	A noble spirit.
+	</DIALOGUE>
+</VENTIDIUS>
+<DIRECTION>
+They all stand ceremoniously looking on Timon.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	Nay, my lords, ceremony was but devis'd at first
+	To set a gloss on faint deeds, hollow welcomes,
+	Recanting goodness, sorry ere 'tis shown;
+	But where there is true friendship, there needs none.
+	Pray, sit; more welcome are ye to my fortunes
+	Than my fortunes to me.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+They sit.
+</DIRECTION>
+<LORD_1>
+	<DIALOGUE>
+	My lord, we always have confess'd it.
+	</DIALOGUE>
+</LORD_1>
+<APEMANTUS>
+	<DIALOGUE>
+	Ho, ho! confess'd it; hang'd it, have you not?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	O! Apemantus, you are welcome.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	No,
+	You shall not make me welcome:
+	I come to have thee thrust me out of doors.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Fie! thou'rt a churl; ye've got a humour there
+	Does not become a man; 'tis much to blame.
+	They say, my lords, Ira furor brevis est;
+	But yond man is ever angry.
+	Go, let him have a table by himself,
+	For he does neither affect company,
+	Nor is he fit for it, indeed.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Let me stay at thine apperil, Timon:
+	I come to observe; I give thee warning on't.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	I take no heed of thee; thou'rt an Athenian, therefore, welcome. I myself would have no power; prithee, let my meat make thee silent.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	I scorn thy meat; 'twould choke me, for I should
+	Ne'er flatter thee. O you gods! what a number
+	Of men eat Timon, and he sees them not.
+	It grieves me to see so many dip their meat
+	In one man's blood; and all the madness is,
+	He cheers them up too.
+	I wonder men dare trust themselves with men:
+	Methinks they should invite them without knives;
+	Good for their meat, and safer for their lives.
+	There's much example for't; the fellow that
+	Sits next him now, parts bread with him, and pledges
+	The breath of him in a divided draught,
+	Is the readiest man to kill him: 't has been prov'd.
+	If I were a huge man, I should fear to drink at meals;
+	Lest they should spy my wind-pipe's dangerous notes:
+	Great men should drink with harness on their throats.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	My lord, in heart; and let the health go round.
+	</DIALOGUE>
+</TIMON>
+<LORD_2>
+	<DIALOGUE>
+	Let it flow this way, my good lord.
+	</DIALOGUE>
+</LORD_2>
+<APEMANTUS>
+	<DIALOGUE>
+	Flow this way! A brave fellow! he keeps his tides well. Those healths will make thee and thy state look ill, Timon.
+	Here's that which is too weak to be a sinner,
+	Honest water, which ne'er left man i' the mire:
+	This and my food are equals, there's no odds:
+	Feasts are too proud to give thanks to the gods.
+	Immortal gods, I crave no pelf;
+	I pray for no man but myself:
+	Grant I may never prove so fond,
+	To trust man on his oath or bond;
+	Or a harlot for her weeping;
+	Or a dog that seems a-sleeping;
+	Or a keeper with my freedom;
+	Or my friends, if I should need 'em.
+	Amen. So fall to't:
+	Rich men sin, and I eat root
+	</DIALOGUE>
+<DIRECTION>
+Eats and drinks.
+</DIRECTION>
+	<DIALOGUE>
+	Much good dich thy good heart, Apemantus!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Captain Alcibiades, your heart's in the field now.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	My heart is ever at your service, my lord.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	You had rather be at a breakfast of enemies than a dinner of friends.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	So they were bleeding-new, my lord, there's no meat like 'em: I could wish my best friend at such a feast.
+	</DIALOGUE>
+</ALCIBIADES>
+<APEMANTUS>
+	<DIALOGUE>
+	'Would all those flatterers were thine enemies then, that then thou mightst kill 'em and bid me to 'em.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_1>
+	<DIALOGUE>
+	Might we but have that happiness, my lord, that you would once use our hearts, whereby we might express some part of our zeals, we should think ourselves for ever perfect.
+	</DIALOGUE>
+</LORD_1>
+<TIMON>
+	<DIALOGUE>
+	O! no doubt, my good friends, but the gods themselves have provided that I shall have much help from you: how had you been my friends else? why have you that charitable title from thousands, did not you chiefly belong to my heart? I have told more of you to myself than you can with modesty speak in your own behalf; and thus far I confirm you. O you gods! think I, what need we have any friends, if we should ne'er have need of 'em? they were the most needless creatures living should we ne'er have use for 'em, and would most resemble sweet instruments hung up in cases, that keep their sounds to themselves. Why, I have often wished myself poorer that I might come nearer to you. We are born to do benefits; and what better or properer can we call our own than the riches of our friends? O! what a precious comfort 'tis, to have so many, like brothers, commanding one another's fortunes. O joy! e'en made away ere it can be born. Mine eyes cannot hold out water, methinks: to forget their faults, I drink to you.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Thou weepest to make them drink, Timon.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_2>
+	<DIALOGUE>
+	Joy had the like conception in our eyes,
+	And, at that instant, like a babe, sprung up.
+	</DIALOGUE>
+</LORD_2>
+<APEMANTUS>
+	<DIALOGUE>
+	Ho, ho! I laugh to think that babe a bastard.
+	</DIALOGUE>
+</APEMANTUS>
+<LORD_3>
+	<DIALOGUE>
+	I promise you, my lord, you mov'd me much.
+	</DIALOGUE>
+</LORD_3>
+<APEMANTUS>
+	<DIALOGUE>
+	Much!
+	</DIALOGUE>
+</APEMANTUS>
+<DIRECTION>
+Tucket sounded.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	What means that trump?
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter a Servant.
+</DIRECTION>
+	<DIALOGUE>
+	How now!
+<SERVILIUS>
+	<DIALOGUE>
+	Please you, my lord, there are certain ladies most desirous of admittance.
+	</DIALOGUE>
+</SERVILIUS>
+<TIMON>
+	<DIALOGUE>
+	Ladies? What are their wills?
+	</DIALOGUE>
+</TIMON>
+<SERVILIUS>
+	<DIALOGUE>
+	There comes with them a forerunner, my lord, which bears that office, to signify their pleasures.
+	</DIALOGUE>
+</SERVILIUS>
+<TIMON>
+	<DIALOGUE>
+	I pray, let them be admitted.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter Cupid.
+</DIRECTION>
+<CUPID>
+	<DIALOGUE>
+	Hail to thee, worthy Timon; and to all
+	That of his bounties taste! The five best senses
+	Acknowledge thee their patron; and come freely
+	To gratulate thy plenteous bosom. Th' ear,
+	Taste, touch, smell, pleas'd from thy table rise;
+	They only now come but to feast thine eyes.
+	</DIALOGUE>
+</CUPID>
+<TIMON>
+	<DIALOGUE>
+	They are welcome all; let 'em have kind admittance:
+	Music, make their welcome!
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exit Cupid.
+</DIRECTION>
+<LORD_1>
+	<DIALOGUE>
+	You see, my lord, how ample you're belov'd.
+	</DIALOGUE>
+</LORD_1>
+<DIRECTION>
+Music. Re-enter Cupid, with a masque of Ladies as...
+<... Amazons, with lutes in their hands, dancing and playing.>
+</DIRECTION>
+<APEMANTUS>
+	<DIALOGUE>
+	Hoy-day! what a sweep of vanity comes this way:
+	They dance! they are mad women.
+	Like madness is the glory of this life,
+	As this pomp shows to a little oil and root.
+	We make ourselves fools to disport ourselves;
+	And spend our flatteries to drink those men
+	Upon whose age we void it up again,
+	With poisonous spite and envy.
+	Who lives that's not depraved or depraves?
+	Who dies that bears not one spurn to their graves
+	Of their friend's gift?
+	I should fear those that dance before me now
+	Would one day stamp upon me: it has been done;
+	Men shut their doors against a setting sun.
+	</DIALOGUE>
+</APEMANTUS>
+<DIRECTION>
+The Lords rise from table, with much adoring of Timon;...
+<... and to show their loves each singles out an Amazon,...>
+<... and all dance, men with women, a lofty strain or two to the hautboys, and cease.>
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	You have done our pleasures much grace, fair ladies,
+	Set a fair fashion on our entertainment,
+	Which was not half so beautiful and kind;
+	You have added worth unto 't and lustre,
+	And entertain'd me with mine own device;
+	I am to thank you for 't.
+	</DIALOGUE>
+</TIMON>
+<LADY_1>
+	<DIALOGUE>
+	My lord, you take us even at the best.
+	</DIALOGUE>
+</LADY_1>
+<APEMANTUS>
+	<DIALOGUE>
+	Faith, for the worst is filthy; and would not hold taking, I doubt me.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Ladies, there is an idle banquet
+	Attends you: please you to dispose yourselves.
+	</DIALOGUE>
+</TIMON>
+<ALL_LADIES>
+	<DIALOGUE>
+	Most thankfully, my lord.
+	</DIALOGUE>
+</ALL_LADIES>
+<DIRECTION>
+Exeunt Cupid and Ladies.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	Flavius!
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	My lord!
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	The little casket bring me hither.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Yes, my lord
+	</DIALOGUE>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	More jewels yet!
+	There is no crossing him in 's humour;
+	Else I should tell him well, i' faith, I should,
+	When all's spent, he'd be cross'd then, an he could.
+	'Tis pity bounty had not eyes behind,
+	That man might ne'er be wretched for his mind.
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<LORD_1>
+	<DIALOGUE>
+	Where be our men?
+	</DIALOGUE>
+</LORD_1>
+<SERVILIUS>
+	<DIALOGUE>
+	Here, my lord, in readiness.
+	</DIALOGUE>
+</SERVILIUS>
+<LORD_2>
+	<DIALOGUE>
+	Our horses!
+	</DIALOGUE>
+</LORD_2>
+<DIRECTION>
+Re-enter Flavius with the Casket.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	O, my friends! I have one word to say to you;
+	Look you, my good lord,
+	I must entreat you, honour me so much
+	As to advance this jewel; accept it and wear it,
+	Kind my lord.
+	</DIALOGUE>
+</TIMON>
+<LORD_1>
+	<DIALOGUE>
+	I am so far already in your gifts--
+	</DIALOGUE>
+</LORD_1>
+<ALL>
+	<DIALOGUE>
+	So are we all.
+	</DIALOGUE>
+</ALL>
+<DIRECTION>
+Enter a Servant.
+</DIRECTION>
+<SERVILIUS>
+	<DIALOGUE>
+	My lord, there are certain nobles of the senate
+	Newly alighted, and come to visit you.
+	</DIALOGUE>
+</SERVILIUS>
+<TIMON>
+	<DIALOGUE>
+	They are fairly welcome.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	I beseech your honour,
+	Vouchsafe me a word; it does concern you near.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Near! why then another time I'll hear thee.
+	I prithee, let's be provided to show them entertainment.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	I scarce know how.
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Enter another Servant.
+</DIRECTION>
+<SERVANT_2>
+	<DIALOGUE>
+	May it please your honour, Lord Lucius,
+	Out of his free love, hath presented to you
+	Four milk-white horses, trapp'd in silver.
+	</DIALOGUE>
+</SERVANT_2>
+<TIMON>
+	<DIALOGUE>
+	I shall accept them fairly; let the presents
+	Be worthily entertain'd.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter a third Servant.
+</DIRECTION>
+	<DIALOGUE>
+	How now! what news?
+<SERVANT_3>
+	<DIALOGUE>
+	Please you, my lord, that honourable gentleman, Lord Lucullus, entreats your company to-morrow to hunt with him, and has sent your honour two brace of greyhounds.
+	</DIALOGUE>
+</SERVANT_3>
+<TIMON>
+	<DIALOGUE>
+	I'll hunt with him; and let them be receiv'd,
+	Not without fair reward.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	What will this come to?
+	He commands us to provide, and give great gifts,
+	And all out of an empty coffer:
+	Nor will he know his purse, or yield me this,
+	To show him what a beggar his heart is,
+	Being of no power to make his wishes good.
+	His promises fly so beyond his state
+	That what he speaks is all in debt; he owes
+	For every word: he is so kind that he now
+	Pays interest for't; his land's put to their books.
+	Well, would I were gently put out of office
+	Before I were forc'd out!
+	Happier he that has no friend to feed
+	Than such as do e'en enemies exceed.
+	I bleed inwardly for my lord.
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	You do yourselves
+	Much wrong, you bate too much of your own merits:
+	Here, my lord, a trifle of our love.
+	</DIALOGUE>
+</TIMON>
+<LORD_2>
+	<DIALOGUE>
+	With more than common thanks I will receive it.
+	</DIALOGUE>
+</LORD_2>
+<LORD_3>
+	<DIALOGUE>
+	O! he's the very soul of bounty.
+	</DIALOGUE>
+</LORD_3>
+<TIMON>
+	<DIALOGUE>
+	And now I remember, my lord, you gave
+	Good words the other day of a bay courser
+	I rode on: it is yours, because you lik'd it.
+	</DIALOGUE>
+</TIMON>
+<LORD_3>
+	<DIALOGUE>
+	O! I beseech you, pardon me, my lord, in that.
+	</DIALOGUE>
+</LORD_3>
+<TIMON>
+	<DIALOGUE>
+	You may take my word, my lord; I know no man
+	Can justly praise but what he does affect:
+	I weigh my friend's affection with mine own;
+	I'll tell you true. I'll call to you.
+	</DIALOGUE>
+</TIMON>
+<ALL_LORDS>
+	<DIALOGUE>
+	O! none so welcome.
+	</DIALOGUE>
+</ALL_LORDS>
+<TIMON>
+	<DIALOGUE>
+	I take all and your several visitations
+	So kind to heart, 'tis not enough to give;
+	Methinks, I could deal kingdoms to my friends,
+	And ne'er be weary. Alcibiades,
+	Thou art a soldier, therefore seldom rich;
+	It comes in charity to thee; for all thy living
+	Is 'mongst the dead, and all the lands thou hast
+	Lie in a pitch'd field.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Ay, defil'd land, my lord.
+	</DIALOGUE>
+</ALCIBIADES>
+<LORD_1>
+	<DIALOGUE>
+	We are so virtuously bound,--
+	</DIALOGUE>
+</LORD_1>
+<TIMON>
+	<DIALOGUE>
+	And so
+	Am I to you.
+	</DIALOGUE>
+</TIMON>
+<LORD_2>
+	<DIALOGUE>
+	So infinitely endear'd,--
+	</DIALOGUE>
+</LORD_2>
+<TIMON>
+	<DIALOGUE>
+	All to you. Lights, more lights!
+	</DIALOGUE>
+</TIMON>
+<LORD_1>
+	<DIALOGUE>
+	The best of happiness,
+	Honour, and fortunes, keep with you, Lord Timon!
+	</DIALOGUE>
+</LORD_1>
+<TIMON>
+	<DIALOGUE>
+	Ready for his friends.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exeunt Alcibiades, Lords, &c.
+</DIRECTION>
+<APEMANTUS>
+	<DIALOGUE>
+	What a coil's here!
+	Serving of becks and jutting out of bums!
+	I doubt whether their legs be worth the sums
+	That are given for 'em. Friendship's full of dregs:
+	Methinks, false hearts should never have sound legs.
+	Thus honest fools lay out their wealth on curtsies.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Now, Apemantus, if thou wert not sullen,
+	I would be good to thee.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	No, I'll nothing; for if I should be bribed too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou givest so long, Timon, I fear me thou wilt give away thyself in paper shortly: what need these feasts, pomps, and vain-glories?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Nay, an you begin to rail on society once, I am sworn not to give regard to you. Farewell; and come with better music.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<APEMANTUS>
+	<DIALOGUE>
+	So:
+	Thou wilt not hear me now; thou shalt not then;
+	I'll lock thy heaven from thee.
+	O! that men's ears should be
+	To counsel deaf, but not to flattery
+	</DIALOGUE>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</APEMANTUS>
+</SCENE_2>
+</ACT_1>
+<ACT_2>
+<SCENE_1>
+<DIRECTION>
+Athens. A Room in a Senator's House.
+</DIRECTION>
+<DIRECTION>
+Enter a Senator, with papers in his hand.
+</DIRECTION>
+<SENATOR>
+	<DIALOGUE>
+	And late, five thousand: to Varro and to Isidore
+	He owes nine thousand; besides my former sum,
+	Which makes it five-and-twenty. Still in motion
+	Of raging waste! It cannot hold; it will not.
+	If I want gold, steal but a beggar's dog
+	And give it Timon, why, the dog coins gold;
+	If I would sell my horse, and buy twenty more
+	Better than he, why, give my horse to Timon,
+	Ask nothing, give it him, it foals me, straight,
+	And able horses. No porter at his gate,
+	But rather one that smiles and still invites
+	All that pass by. It cannot hold; no reason
+	Can found his state in safety. Caphis, ho!
+	Caphis, I say!
+	</DIALOGUE>
+</SENATOR>
+<DIRECTION>
+Enter Caphis.
+</DIRECTION>
+<CAPHIS>
+	<DIALOGUE>
+	Here, sir; what is your pleasure?
+	</DIALOGUE>
+</CAPHIS>
+<SENATOR>
+	<DIALOGUE>
+	Get on your cloak, and haste you to Lord Timon;
+	Importune him for my moneys; be not ceas'd
+	With slight denial, nor then silenc'd when--
+	'Commend me to your master'--and the cap
+	Plays in the right hand, thus;--but tell him,
+	My uses cry to me; I must serve my turn
+	Out of mine own; his days and times are past,
+	And my reliances on his fracted dates
+	Have smit my credit: I love and honour him,
+	But must not break my back to heal his finger;
+	Immediate are my needs, and my relief
+	Must not be toss'd and turn'd to me in words,
+	But find supply immediate. Get you gone:
+	Put on a most importunate aspect,
+	A visage of demand; for, I do fear,
+	When every feather sticks in his own wing,
+	Lord Timon will be left a naked gull,
+	Which flashes now a phœnix. Get you gone.
+	</DIALOGUE>
+</SENATOR>
+<CAPHIS>
+	<DIALOGUE>
+	I go, sir.
+	</DIALOGUE>
+</CAPHIS>
+<SENATOR>
+	<DIALOGUE>
+	'I go, sir!' Take the bonds along with you,
+	And have the dates in compt.
+	</DIALOGUE>
+</SENATOR>
+<CAPHIS>
+	<DIALOGUE>
+	I will, sir.
+	</DIALOGUE>
+</CAPHIS>
+<SENATOR>
+	<DIALOGUE>
+	Go.
+	</DIALOGUE>
+</SENATOR>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</SCENE_1>
+<SCENE_2>
+<DIRECTION>
+The Same. A Hall in Timon's House.
+</DIRECTION>
+<DIRECTION>
+Enter Flavius, with many bills in his hand.
+</DIRECTION>
+<FLAVIUS>
+	<DIALOGUE>
+	No care, no stop! so senseless of expense,
+	That he will neither know how to maintain it,
+	Nor cease his flow of riot: takes no account
+	How things go from him, nor resumes no care
+	Of what is to continue: never mind
+	Was to be so unwise, to be so kind.
+	What shall be done? He will not hear, till feel:
+	I must be round with him, now he comes from hunting.
+	Fie, fie, fie, fie!
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Enter Caphis, and the Servants of Isidore and Varro.
+</DIRECTION>
+<CAPHIS>
+	<DIALOGUE>
+	Good even, Varro. What!
+	You come for money?
+	</DIALOGUE>
+</CAPHIS>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	Is't not your business too?
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<CAPHIS>
+	<DIALOGUE>
+	It is: and yours too, Isidore?
+	</DIALOGUE>
+</CAPHIS>
+<ISIDORE'S SERVANT>
+	<DIALOGUE>
+	It is so.
+	</DIALOGUE>
+</ISIDORE'S SERVANT>
+<CAPHIS>
+	<DIALOGUE>
+	Would we were all discharg'd!
+	</DIALOGUE>
+</CAPHIS>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	I fear it.
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<CAPHIS>
+	<DIALOGUE>
+	Here comes the lord!
+	</DIALOGUE>
+</CAPHIS>
+<DIRECTION>
+Enter Timon, Alcibiades, and Lords, &c.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	So soon as dinner's done, we'll forth again,
+	My Alcibiades. With me? what is your will?
+	</DIALOGUE>
+</TIMON>
+<CAPHIS>
+	<DIALOGUE>
+	My lord, here is a note of certain dues.
+	</DIALOGUE>
+</CAPHIS>
+<TIMON>
+	<DIALOGUE>
+	Dues! Whence are you?
+	</DIALOGUE>
+</TIMON>
+<CAPHIS>
+	<DIALOGUE>
+	Of Athens here, my lord.
+	</DIALOGUE>
+</CAPHIS>
+<TIMON>
+	<DIALOGUE>
+	Go to my steward.
+	</DIALOGUE>
+</TIMON>
+<CAPHIS>
+	<DIALOGUE>
+	Please it your lordship, he hath put me off
+	To the succession of new days this month:
+	My master is awak'd by great occasion
+	To call upon his own; and humbly prays you
+	That with your other noble parts you'll suit
+	In giving him his right.
+	</DIALOGUE>
+</CAPHIS>
+<TIMON>
+	<DIALOGUE>
+	Mine honest friend,
+	I prithee, but repair to me next morning.
+	</DIALOGUE>
+</TIMON>
+<CAPHIS>
+	<DIALOGUE>
+	Nay, good my lord,--
+	</DIALOGUE>
+</CAPHIS>
+<TIMON>
+	<DIALOGUE>
+	Contain thyself, good friend.
+	</DIALOGUE>
+</TIMON>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	One Varro's servant, my good lord,--
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<ISIDORE'S SERVANT>
+	<DIALOGUE>
+	From Isidore;
+	He humbly prays your speedy payment.
+	</DIALOGUE>
+</ISIDORE'S SERVANT>
+<CAPHIS>
+	<DIALOGUE>
+	If you did know, my lord, my master's wants,--
+	</DIALOGUE>
+</CAPHIS>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	'Twas due on forfeiture, my lord, six weeks
+	And past.
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<ISIDORE'S SERVANT>
+	<DIALOGUE>
+	Your steward puts me off, my lord;
+	And I am sent expressly to your lordship.
+	</DIALOGUE>
+</ISIDORE'S SERVANT>
+<TIMON>
+	<DIALOGUE>
+	Give me breath.
+	I do beseech you, good my lords, keep on;
+	I'll wait upon you instantly
+	</DIALOGUE>
+<DIRECTION>
+Exeunt Alcibiades and Lords.
+</DIRECTION>
+<DIRECTION>
+To Flavius.
+</DIRECTION>
+	<DIALOGUE>
+	Come hither: pray you,
+	How goes the world, that I am thus encounter'd
+	With clamorous demands of date-broke bonds,
+	And the detention of long-since-due debts,
+	Against my honour?
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Please you, gentlemen,
+	The time is unagreeable to this business:
+	Your importunacy cease till after dinner,
+	That I may make his lordship understand
+	Wherefore you are not paid.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Do so, my friends.
+	See them well entertained.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<FLAVIUS>
+	<DIALOGUE>
+	Pray, draw near
+	</DIALOGUE>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</FLAVIUS>
+<DIRECTION>
+Enter Apemantus and Fool.
+</DIRECTION>
+<CAPHIS>
+	<DIALOGUE>
+	Stay, stay; here comes the fool with
+	Apemantus: let's ha' some sport with 'em.
+	</DIALOGUE>
+</CAPHIS>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	Hang him, he'll abuse us.
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<ISIDORE'S SERVANT>
+	<DIALOGUE>
+	A plague upon him, dog!
+	</DIALOGUE>
+</ISIDORE'S SERVANT>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	How dost, fool?
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<APEMANTUS>
+	<DIALOGUE>
+	Dost dialogue with thy shadow?
+	</DIALOGUE>
+</APEMANTUS>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	I speak not to thee.
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<APEMANTUS>
+	<DIALOGUE>
+	No; 'tis to thyself
+	</DIALOGUE>
+<DIRECTION>
+To the Fool.
+</DIRECTION>
+	<DIALOGUE>
+	Come away.
+	</DIALOGUE>
+</APEMANTUS>
+<ISIDORE'S SERVANT>
+<DIRECTION>
+To Var. Serv.
+</DIRECTION>
+	<DIALOGUE>
+	There's the fool hangs on your back already.
+	</DIALOGUE>
+</ISIDORE'S SERVANT>
+<APEMANTUS>
+	<DIALOGUE>
+	No, thou stand'st single; thou'rt not on him yet.
+	</DIALOGUE>
+</APEMANTUS>
+<CAPHIS>
+	<DIALOGUE>
+	Where's the fool now?
+	</DIALOGUE>
+</CAPHIS>
+<APEMANTUS>
+	<DIALOGUE>
+	He last asked the question. Poor rogues, and usurers' men! bawds between gold and want!
+	</DIALOGUE>
+</APEMANTUS>
+<ALL_SERVANTS>
+	<DIALOGUE>
+	What are we, Apemantus?
+	</DIALOGUE>
+</ALL_SERVANTS>
+<APEMANTUS>
+	<DIALOGUE>
+	Asses.
+	</DIALOGUE>
+</APEMANTUS>
+<ALL_SERVANTS>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</ALL_SERVANTS>
+<APEMANTUS>
+	<DIALOGUE>
+	That you ask me what you are, and do not know yourselves. Speak to 'em, fool.
+	</DIALOGUE>
+</APEMANTUS>
+<FOOL>
+	<DIALOGUE>
+	How do you, gentlemen?
+	</DIALOGUE>
+</FOOL>
+<ALL_SERVANTS>
+	<DIALOGUE>
+	Gramercies, good fool. How does your mistress?
+	</DIALOGUE>
+</ALL_SERVANTS>
+<FOOL>
+	<DIALOGUE>
+	She's e'en setting on water to scald such chickens as you are. Would we could see you at Corinth!
+	</DIALOGUE>
+</FOOL>
+<APEMANTUS>
+	<DIALOGUE>
+	Good! gramercy.
+	</DIALOGUE>
+</APEMANTUS>
+<DIRECTION>
+Enter Page.
+</DIRECTION>
+<FOOL>
+	<DIALOGUE>
+	Look you, here comes my mistress' page.
+	</DIALOGUE>
+</FOOL>
+<PAGE>
+<DIRECTION>
+To the Fool.
+</DIRECTION>
+	<DIALOGUE>
+	Why, how now, captain! what do you in this wise company? How dost thou, Apemantus?
+	</DIALOGUE>
+</PAGE>
+<APEMANTUS>
+	<DIALOGUE>
+	Would I had a rod in my mouth, that I might answer thee profitably.
+	</DIALOGUE>
+</APEMANTUS>
+<PAGE>
+	<DIALOGUE>
+	Prithee, Apemantus, read me the superscription of these letters: I know not which is which.
+	</DIALOGUE>
+</PAGE>
+<APEMANTUS>
+	<DIALOGUE>
+	Canst not read?
+	</DIALOGUE>
+</APEMANTUS>
+<PAGE>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</PAGE>
+<APEMANTUS>
+	<DIALOGUE>
+	There will little learning die then that day thou art hanged. This is to Lord Timon; this to Alcibiades. Go; thou wast born a bastard, and thou'lt die a bawd.
+	</DIALOGUE>
+</APEMANTUS>
+<PAGE>
+	<DIALOGUE>
+	Thou wast whelped a dog, and thou shalt famish a dog's death. Answer not; I am gone.
+	</DIALOGUE>
+</PAGE>
+<DIRECTION>
+Exit Page.
+</DIRECTION>
+<APEMANTUS>
+	<DIALOGUE>
+	E'en so thou outrunn'st grace.--
+	Fool, I will go with you to Lord Timon's.
+	</DIALOGUE>
+</APEMANTUS>
+<FOOL>
+	<DIALOGUE>
+	Will you leave me there?
+	</DIALOGUE>
+</FOOL>
+<APEMANTUS>
+	<DIALOGUE>
+	If Timon stay at home. You three serve three usurers?
+	</DIALOGUE>
+</APEMANTUS>
+<ALL_SERVANTS>
+	<DIALOGUE>
+	Ay; would they served us!
+	</DIALOGUE>
+</ALL_SERVANTS>
+<APEMANTUS>
+	<DIALOGUE>
+	So would I, as good a trick as ever hangman served thief.
+	</DIALOGUE>
+</APEMANTUS>
+<FOOL>
+	<DIALOGUE>
+	Are you three usurers' men?
+	</DIALOGUE>
+</FOOL>
+<ALL_SERVANTS>
+	<DIALOGUE>
+	Ay, fool.
+	</DIALOGUE>
+</ALL_SERVANTS>
+<FOOL>
+	<DIALOGUE>
+	I think no usurer but has a fool to his servant: my mistress is one, and I am her fool. When men come to borrow of your masters, they approach sadly, and go away merry; but they enter my mistress' house merrily, and go away sadly: the reason of this?
+	</DIALOGUE>
+</FOOL>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	I could render one.
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<APEMANTUS>
+	<DIALOGUE>
+	Do it, then, that we may account thee a whoremaster and a knave; which, notwithstanding, thou shalt be no less esteemed.
+	</DIALOGUE>
+</APEMANTUS>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	What is a whoremaster, fool?
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<FOOL>
+	<DIALOGUE>
+	A fool in good clothes, and something like thee. 'Tis a spirit: sometime 't appears like a lord; sometime like a lawyer; sometime like a philosopher, with two stones more than 's artificial one. He is very often like a knight; and generally in all shapes that man goes up and down in from fourscore to thirteen, this spirit walks in.
+	</DIALOGUE>
+</FOOL>
+<VARRO'S SERVANT>
+	<DIALOGUE>
+	Thou art not altogether a fool.
+	</DIALOGUE>
+</VARRO'S SERVANT>
+<FOOL>
+	<DIALOGUE>
+	Nor thou altogether a wise man: as much foolery as I have, so much wit thou lackest.
+	</DIALOGUE>
+</FOOL>
+<APEMANTUS>
+	<DIALOGUE>
+	That answer might have become Apemantus.
+	</DIALOGUE>
+</APEMANTUS>
+<ALL_SERVANTS>
+	<DIALOGUE>
+	Aside, aside; here comes Lord Timon.
+	</DIALOGUE>
+</ALL_SERVANTS>
+<DIRECTION>
+Re-enter Timon and Flavius.
+</DIRECTION>
+<APEMANTUS>
+	<DIALOGUE>
+	Come with me, fool, come.
+	</DIALOGUE>
+</APEMANTUS>
+<FOOL>
+	<DIALOGUE>
+	I do not always follow lover, elder brother and woman; sometime the philosopher.
+	</DIALOGUE>
+</FOOL>
+<DIRECTION>
+Exeunt Apemantus and Fool.
+</DIRECTION>
+<FLAVIUS>
+	<DIALOGUE>
+	Pray you, walk near: I'll speak with you anon.
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Exeunt Servants.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	You make me marvel: wherefore, ere this time,
+	Had you not fully laid my state before me,
+	That I might so have rated my expense
+	As I had leave of means?
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	You would not hear me,
+	At many leisures I propos'd.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Go to:
+	Perchance some single vantages you took,
+	When my indisposition put you back;
+	And that unaptness made your minister,
+	Thus to excuse yourself.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	O my good lord!
+	At many times I brought in my accounts,
+	Laid them before you; you would throw them off,
+	And say you found them in mine honesty.
+	When for some trifling present you have bid me
+	Return so much, I have shook my head, and wept;
+	Yea, 'gainst the authority of manners, pray'd you
+	To hold your hand more close: I did endure
+	Not seldom, nor no slight checks, when I have
+	Prompted you in the ebb of your estate
+	And your great flow of debts. My loved lord,
+	Though you hear now, too late, yet now's a time,
+	The greatest of your having lacks a half
+	To pay your present debts.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Let all my land be sold.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	'Tis all engag'd, some forfeited and gone;
+	And what remains will hardly stop the mouth
+	Of present dues; the future comes apace:
+	What shall defend the interim? and at length
+	How goes our reckoning?
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	To Lacedæmon did my land extend.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	O my good lord! the world is but a word;
+	Were it all yours to give it in a breath,
+	How quickly were it gone!
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	You tell me true.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	If you suspect my husbandry or falsehood,
+	Call me before the exactest auditors,
+	And set me on the proof. So the gods bless me,
+	When all our offices have been oppress'd
+	With riotous feeders, when our vaults have wept
+	With drunken spilth of wine, when every room
+	Hath blaz'd with lights and bray'd with minstrelsy,
+	I have retir'd me to a wasteful cock,
+	And set mine eyes at flow.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Prithee, no more.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Heavens! have I said, the bounty of this lord!
+	How many prodigal bits have slaves and peasants
+	This night englutted! Who is not Timon's?
+	What heart, head, sword, force, means, but is Lord Timon's?
+	Great Timon, noble, worthy, royal Timon!
+	Ah! when the means are gone that buy this praise,
+	The breath is gone whereof this praise is made:
+	Feast-won, fast-lost; one cloud of winter showers,
+	These flies are couch'd.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Come, sermon me no further;
+	No villanous bounty yet hath pass'd my heart;
+	Unwisely, not ignobly, have I given.
+	Why dost thou weep? Canst thou the conscience lack,
+	To think I shall lack friends? Secure thy heart;
+	If I would broach the vessels of my love,
+	And try the argument of hearts by borrowing,
+	Men and men's fortunes could I frankly use
+	As I can bid thee speak.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Assurance bless your thoughts!
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	And, in some sort, these wants of mine are crown'd,
+	That I account them blessings; for by these
+	Shall I try friends. You shall perceive how you
+	Mistake my fortunes; I am wealthy in my friends.
+	Within there! Flaminius! Servilius!
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter Flaminius, Servilius, and other Servants.
+</DIRECTION>
+<SERVILIUS>
+	<DIALOGUE>
+	My lord! my lord!
+	</DIALOGUE>
+</SERVILIUS>
+<TIMON>
+	<DIALOGUE>
+	I will dispatch you severally: you, to Lord Lucius; to Lord Lucullus you: I hunted with his honour to-day; you, to Sempronius. Commend me to their loves; and I am proud, say, that my occasions have found time to use them toward a supply of money: let the request be fifty talents.
+	</DIALOGUE>
+</TIMON>
+<FLAMINIUS>
+	<DIALOGUE>
+	As you have said, my lord.
+	</DIALOGUE>
+</FLAMINIUS>
+<FLAVIUS>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	Lord Lucius, and Lucullus? hum!
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+<DIRECTION>
+To another Servant.
+</DIRECTION>
+	<DIALOGUE>
+	Go you, sir, to the senators,--
+	Of whom, even to the state's best health, I have
+	Deserv'd this hearing,--bid 'em send o' the instant
+	A thousand talents to me.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	I have been bold,--
+	For that I knew it the most general way,--
+	To them to use your signet and your name;
+	But they do shake their heads, and I am here
+	No richer in return.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Is't true? can't be?
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	They answer, in a joint and corporate voice,
+	That now they are at fall, want treasure, cannot
+	Do what they would; are sorry; you are honourable;
+	But yet they could have wish'd; they know not;
+	Something hath been amiss; a noble nature
+	May catch a wrench; would all were well; 'tis pity;
+	And so, intending other serious matters,
+	After distasteful looks and these hard fractions,
+	With certain half-caps and cold-moving nods
+	They froze me into silence.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	You gods, reward them!
+	Prithee, man, look cheerly. These old fellows
+	Have their ingratitude in them hereditary;
+	Their blood is cak'd, 'tis cold, it seldom flows;
+	'Tis lack of kindly warmth they are not kind;
+	And nature, as it grows again toward earth,
+	Is fashion'd for the journey, dull and heavy
+	</DIALOGUE>
+<DIRECTION>
+To a Servant.] Go to Ventidius.--[To Flavius.
+</DIRECTION>
+	<DIALOGUE>
+	Prithee, be not sad,
+	Thou art true and honest; ingenuously I speak,
+	No blame belongs to thee.-
+	</DIALOGUE>
+<DIRECTION>
+To Servant.
+</DIRECTION>
+	<DIALOGUE>
+	Ventidius lately
+	Buried his father; by whose death he's stepp'd
+	Into a great estate; when he was poor,
+	Imprison'd and in scarcity of friends,
+	I clear'd him with five talents; greet him from me;
+	Bid him suppose some good necessity
+	Touches his friend, which craves to be remember'd
+	With those five talents
+	</DIALOGUE>
+<DIRECTION>
+Exit Servant.] [To Flavius.
+</DIRECTION>
+	<DIALOGUE>
+	That had, give't these fellows
+	To whom 'tis instant due. Ne'er speak, or think
+	That Timon's fortunes 'mong his friends can sink.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	I would I could not think it: that thought is bounty's foe;
+	Being free itself, it thinks all others so
+	</DIALOGUE>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</FLAVIUS>
+</SCENE_2>
+</ACT_2>
+<ACT_3>
+<SCENE_1>
+<DIRECTION>
+Athens. A Room in Lucullus' House.
+</DIRECTION>
+<DIRECTION>
+Flaminius waiting. Enter a Servant to him.
+</DIRECTION>
+<SERVILIUS>
+	<DIALOGUE>
+	I have told my lord of you; he is coming down to you.
+	</DIALOGUE>
+</SERVILIUS>
+<FLAMINIUS>
+	<DIALOGUE>
+	I thank you, sir.
+	</DIALOGUE>
+</FLAMINIUS>
+<DIRECTION>
+Enter Lucullus.
+</DIRECTION>
+<SERVILIUS>
+	<DIALOGUE>
+	Here's my lord.
+	</DIALOGUE>
+</SERVILIUS>
+<LUCULLUS>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	One of Lord Timon's men! a gift, I warrant. Why, this hits right; I dreamt of a silver bason and ewer to-night. Flaminius, honest Flaminius, you are very respectively welcome, sir. Fill me some wine. <span class="stage>[Exit Servant.] And how does that honourable, complete, free-hearted gentleman of Athens, thy very bountiful good lord and master?
+	</DIALOGUE>
+</LUCULLUS>
+<FLAMINIUS>
+	<DIALOGUE>
+	His health is well, sir.
+	</DIALOGUE>
+</FLAMINIUS>
+<LUCULLUS>
+	<DIALOGUE>
+	I am right glad that his health is well, sir. And what hast thou there under thy cloak, pretty Flaminius?
+	</DIALOGUE>
+</LUCULLUS>
+<FLAMINIUS>
+	<DIALOGUE>
+	Faith, nothing but an empty box, sir; which, in my lord's behalf, I come to entreat your honour to supply; who, having great and instant occasion to use fifty talents, hath sent to your lordship to furnish him, nothing doubting your present assistance therein.
+	</DIALOGUE>
+</FLAMINIUS>
+<LUCULLUS>
+	<DIALOGUE>
+	La, la, la, la! 'nothing doubting,' says he? Alas! good lord; a noble gentleman 'tis, if he would not keep so good a house. Many a time and often I ha' dined with him, and told him on't; and come again to supper to him, of purpose to have him spend less; and yet he would embrace no counsel, take no warning by my coming. Every man has his fault, and honesty is his; I ha' told him on't, but I could ne'er get him from it.
+	</DIALOGUE>
+</LUCULLUS>
+<DIRECTION>
+Re-enter Servant with wine.
+</DIRECTION>
+<SERVILIUS>
+	<DIALOGUE>
+	Please your lordship, here is the wine.
+	</DIALOGUE>
+</SERVILIUS>
+<LUCULLUS>
+	<DIALOGUE>
+	Flaminius, I have noted thee always wise. Here's to thee.
+	</DIALOGUE>
+</LUCULLUS>
+<FLAMINIUS>
+	<DIALOGUE>
+	Your lordship speaks your pleasure.
+	</DIALOGUE>
+</FLAMINIUS>
+<LUCULLUS>
+	<DIALOGUE>
+	I have observed thee always for a towardly prompt spirit, give thee thy due, and one that knows what belongs to reason; and canst use the time well, if the time use thee well: good parts in thee
+	</DIALOGUE>
+<DIRECTION>
+To the Servant.
+</DIRECTION>
+	<DIALOGUE>
+	--Get you gone, sirrah.--
+<span class="stage>[Exit Servant.] Draw nearer, honest Flaminius. Thy lord's a bountiful gentleman; but thou art wise, and thou knowest well enough, although thou comest to me, that this is no time to lend money, especially upon bare friendship, without security. Here's three solidares for thee: good boy, wink at me, and say thou sawest me not. Fare thee well.
+	</DIALOGUE>
+</LUCULLUS>
+<FLAMINIUS>
+	<DIALOGUE>
+	Is't possible the world should so much differ,
+	And we alive that liv'd? Fly, damned baseness,
+	To him that worships thee.
+	</DIALOGUE>
+</FLAMINIUS>
+<DIRECTION>
+Throwing the money away.
+</DIRECTION>
+<LUCULLUS>
+	<DIALOGUE>
+	Ha! now I see thou art a fool, and fit for thy master.
+	</DIALOGUE>
+</LUCULLUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<FLAMINIUS>
+	<DIALOGUE>
+	May these add to the number that may scald thee!
+	Let molten coin be thy damnation,
+	Thou disease of a friend, and not himself!
+	Has friendship such a faint and milky heart
+	It turns in less than two nights? O you gods!
+	I feel my master's passion. This slave unto his honour
+	Has my lord's meat in him:
+	Why should it thrive and turn to nutriment
+	When he is turn'd to poison?
+	O! may diseases only work upon 't,
+	And, when he's sick to death, let not that part of nature
+	Which my lord paid for, be of any power
+	To expel sickness, but prolong his hour.
+	</DIALOGUE>
+</FLAMINIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</SCENE_1>
+<SCENE_2>
+<DIRECTION>
+The Same. A Public Place.
+</DIRECTION>
+<DIRECTION>
+Enter Lucius, with three Strangers.
+</DIRECTION>
+<LUCIUS>
+	<DIALOGUE>
+	Who, the Lord Timon? he is my very good friend, and an honourable gentleman.
+	</DIALOGUE>
+</LUCIUS>
+<STRANGER_1>
+	<DIALOGUE>
+	We know him for no less, though we are but strangers to him. But I can tell you one thing, my lord, and which I hear from common rumours: now Lord Timon's happy hours are done and past, and his estate shrinks from him.
+	</DIALOGUE>
+</STRANGER_1>
+<LUCIUS>
+	<DIALOGUE>
+	Fie, no, do not believe it; he cannot want for money.
+	</DIALOGUE>
+</LUCIUS>
+<STRANGER_2>
+	<DIALOGUE>
+	But believe you this, my lord, that, not long ago, one of his men was with the Lord Lucullus, to borrow so many talents, nay, urged extremely for 't, and showed what necessity belonged to 't, and yet was denied.
+	</DIALOGUE>
+</STRANGER_2>
+<LUCIUS>
+	<DIALOGUE>
+	How!
+	</DIALOGUE>
+</LUCIUS>
+<STRANGER_2>
+	<DIALOGUE>
+	I tell you, denied, my lord.
+	</DIALOGUE>
+</STRANGER_2>
+<LUCIUS>
+	<DIALOGUE>
+	What a strange case was that! now, before the gods, I am ashamed on 't. Denied that honourable man! there was very little honour showed in 't. For my own part, I must needs confess, I have received some small kindnesses from him, as money, plate, jewels, and such like trifles, nothing comparing to his; yet, had he mistook him, and sent to me, I should ne'er have denied his occasion so many talents.
+	</DIALOGUE>
+</LUCIUS>
+<DIRECTION>
+Enter Servilius.
+</DIRECTION>
+<SERVILIUS>
+	<DIALOGUE>
+	See, by good hap, yonder's my lord; I have sweat to see his honour
+	</DIALOGUE>
+<DIRECTION>
+To Lucius.
+</DIRECTION>
+	<DIALOGUE>
+	My honoured lord!
+	</DIALOGUE>
+</SERVILIUS>
+<LUCIUS>
+	<DIALOGUE>
+	Servilius! you are kindly met, sir. Fare thee well: commend me to thy honourable virtuous lord, my very exquisite friend.
+	</DIALOGUE>
+</LUCIUS>
+<SERVILIUS>
+	<DIALOGUE>
+	May it please your honour, my lord hath sent--
+	</DIALOGUE>
+</SERVILIUS>
+<LUCIUS>
+	<DIALOGUE>
+	Ha! what has he sent? I am so much endeared to that lord; he's ever sending: how shall I thank him, thinkest thou? And what has he sent now?
+	</DIALOGUE>
+</LUCIUS>
+<SERVILIUS>
+	<DIALOGUE>
+	He has only sent his present occasion now, my lord; requesting your lordship to supply his instant use with so many talents.
+	</DIALOGUE>
+</SERVILIUS>
+<LUCIUS>
+	<DIALOGUE>
+	I know his lordship is but merry with me;
+	He cannot want fifty-five hundred talents.
+	</DIALOGUE>
+</LUCIUS>
+<SERVILIUS>
+	<DIALOGUE>
+	But in the mean time he wants less, my lord.
+	If his occasion were not virtuous,
+	I should not urge it half so faithfully.
+	</DIALOGUE>
+</SERVILIUS>
+<LUCIUS>
+	<DIALOGUE>
+	Dost thou speak seriously, Servilius?
+	</DIALOGUE>
+</LUCIUS>
+<SERVILIUS>
+	<DIALOGUE>
+	Upon my soul, 'tis true, sir.
+	</DIALOGUE>
+</SERVILIUS>
+<LUCIUS>
+	<DIALOGUE>
+	What a wicked beast was I to disfurnish myself against such a good time, when I might ha' shown myself honourable! how unluckily it happened, that I should purchase the day before for a little part, and undo a great deal of honour! Servilius, now, before the gods, I am not able to do; the more beast, I say; I was sending to use Lord Timon myself, these gentlemen can witness; but I would not, for the wealth of Athens, I had done it now. Commend me bountifully to his good lordship; and I hope his honour will conceive the fairest of me, because I have no power to be kind: and tell him this from me, I count it one of my greatest afflictions say, that I cannot pleasure such an honourable gentleman. Good Servilius, will you befriend me so far as to use mine own words to him?
+	</DIALOGUE>
+</LUCIUS>
+<SERVILIUS>
+	<DIALOGUE>
+	Yes, sir, I shall.
+	</DIALOGUE>
+</SERVILIUS>
+<LUCIUS>
+	<DIALOGUE>
+	I'll look you out a good turn, Servilius
+	</DIALOGUE>
+<DIRECTION>
+Exit Servilius.
+</DIRECTION>
+	<DIALOGUE>
+	True, as you said, Timon is shrunk indeed;
+	And he that's once denied will hardly speed.
+	</DIALOGUE>
+</LUCIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<STRANGER_1>
+	<DIALOGUE>
+	Do you observe this, Hostilius?
+	</DIALOGUE>
+</STRANGER_1>
+<STRANGER_2>
+	<DIALOGUE>
+	Ay, too well.
+	</DIALOGUE>
+</STRANGER_2>
+<STRANGER_1>
+	<DIALOGUE>
+	Why this is the world's soul; and just of the same piece
+	Is every flatterer's spirit. Who can call him
+	His friend that dips in the same dish? for, in
+	My knowing, Timon has been this lord's father,
+	And kept his credit with his purse,
+	Supported his estate; nay, Timon's money
+	Has paid his men their wages: he ne'er drinks
+	But Timon's silver treads upon his lip;
+	And yet, O! see the monstrousness of man,
+	When he looks out in an ungrateful shape,
+	He does deny him, in respect of his,
+	What charitable men afford to beggars.
+	</DIALOGUE>
+</STRANGER_1>
+<STRANGER_3>
+	<DIALOGUE>
+	Religion groans at it.
+	</DIALOGUE>
+</STRANGER_3>
+<STRANGER_1>
+	<DIALOGUE>
+	For mine own part,
+	I never tasted Timon in my life,
+	Nor came any of his bounties over me,
+	To mark me for his friend; yet, I protest,
+	For his right noble mind, illustrious virtue,
+	And honourable carriage,
+	Had his necessity made use of me,
+	I would have put my wealth into donation,
+	And the best half should have return'd to him,
+	So much I love his heart. But, I perceive,
+	Men must learn now with pity to dispense;
+	For policy sits above conscience.
+	</DIALOGUE>
+</STRANGER_1>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</SCENE_2>
+<SCENE_3>
+<DIRECTION>
+The Same. A Room in Sempronius's House.
+</DIRECTION>
+<DIRECTION>
+Enter Sempronius and a Servant of Timon's.
+</DIRECTION>
+<SEMPRONIUS>
+	<DIALOGUE>
+	Must he needs trouble me in 't. Hum! 'bove all others?
+	He might have tried Lord Lucius, or Lucullus;
+	And now Ventidius is wealthy too,
+	Whom he redeem'd from prison: all these
+	Owe their estates unto him.
+	</DIALOGUE>
+</SEMPRONIUS>
+<SERVILIUS>
+	<DIALOGUE>
+	My lord,
+	They have all been touch'd and found base metal, for
+	They have all denied him.
+	</DIALOGUE>
+</SERVILIUS>
+<SEMPRONIUS>
+	<DIALOGUE>
+	How! have they denied him?
+	Have Ventidius and Lucullus denied him?
+	And does he send to me? Three? hum!
+	It shows but little love or judgment in him:
+	Must I be his last refuge? His friends, like physicians,
+	Thrice give him over; must I take the cure upon me?
+	He has much disgrac'd me in 't; I'm angry at him,
+	That might have known my place. I see no sense for 't,
+	But his occasions might have woo'd me first;
+	For, in my conscience, I was the first man
+	That e'er received gift from him:
+	And does he think so backwardly of me now,
+	That I'll requite it last? No:
+	So it may prove an argument of laughter
+	To the rest, and I 'mongst lords be thought a fool.
+	I had rather than the worth of thrice the sum,
+	He had sent to me first, but for my mind's sake;
+	I'd such a courage to do him good. But now return,
+	And with their faint reply this answer join;
+	Who bates mine honour shall not know my coin.
+	</DIALOGUE>
+</SEMPRONIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<SERVILIUS>
+	<DIALOGUE>
+	Excellent! Your lordship's a goodly villain. The devil knew not what he did when he made man politic; he crossed himself by 't: and I cannot think but in the end the villanies of man will set him clear. How fairly this lord strives to appear foul! takes virtuous copies to be wicked, like those that under hot ardent zeal would set whole realms on fire:
+	Of such a nature is his politic love.
+	This was my lord's best hope; now all are fled
+	Save only the gods. Now his friends are dead,
+	Doors, that were ne'er acquainted with their wards
+	Many a bounteous year, must be employ'd
+	Now to guard sure their master:
+	And this is all a liberal course allows;
+	Who cannot keep his wealth must keep his house.
+	</DIALOGUE>
+</SERVILIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</SCENE_3>
+<SCENE_4>
+<DIRECTION>
+The Same. A Hall in Timon's House.
+</DIRECTION>
+<DIRECTION>
+Enter two Servants of Varro, and the Servant of Lucius,...
+<... meeting Titus, Hortensius, and other Servants to Timon's Creditors, waiting his coming out.>
+</DIRECTION>
+<VARRO'S SERVANT 1>
+	<DIALOGUE>
+	Well met; good morrow, Titus and Hortensius.
+	</DIALOGUE>
+</VARRO'S SERVANT 1>
+<TITUS>
+	<DIALOGUE>
+	The like to you, kind Varro.
+	</DIALOGUE>
+</TITUS>
+<HORTENSIUS>
+	<DIALOGUE>
+	Lucius!
+	What! do we meet together!
+	</DIALOGUE>
+</HORTENSIUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Ay, and I think
+	One business does command us all; for mine
+	Is money.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<TITUS>
+	<DIALOGUE>
+	So is theirs and ours.
+	</DIALOGUE>
+</TITUS>
+<DIRECTION>
+Enter Philotus.
+</DIRECTION>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	And Sir Philotus too!
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<PHILOTUS>
+	<DIALOGUE>
+	Good day at once.
+	</DIALOGUE>
+</PHILOTUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Welcome, good brother.
+	What do you think the hour?
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<PHILOTUS>
+	<DIALOGUE>
+	Labouring for nine.
+	</DIALOGUE>
+</PHILOTUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	So much?
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<PHILOTUS>
+	<DIALOGUE>
+	Is not my lord seen yet?
+	</DIALOGUE>
+</PHILOTUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Not yet.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<PHILOTUS>
+	<DIALOGUE>
+	I wonder on 't; he was wont to shine at seven.
+	</DIALOGUE>
+</PHILOTUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Ay, but the days are waxed shorter with him:
+	You must consider that a prodigal course
+	Is like the sun's; but not, like his, recoverable.
+	I fear,
+	'Tis deepest winter in Lord Timon's purse;
+	That is, one may reach deep enough, and yet
+	Find little.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<PHILOTUS>
+	<DIALOGUE>
+	I am of your fear for that.
+	</DIALOGUE>
+</PHILOTUS>
+<TITUS>
+	<DIALOGUE>
+	I'll show you how to observe a strange event.
+	Your lord sends now for money.
+	</DIALOGUE>
+</TITUS>
+<HORTENSIUS>
+	<DIALOGUE>
+	Most true, he does.
+	</DIALOGUE>
+</HORTENSIUS>
+<TITUS>
+	<DIALOGUE>
+	And he wears jewels now of Timon's gift,
+	For which I wait for money.
+	</DIALOGUE>
+</TITUS>
+<HORTENSIUS>
+	<DIALOGUE>
+	It is against my heart.
+	</DIALOGUE>
+</HORTENSIUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Mark, how strange it shows,
+	Timon in this should pay more than he owes:
+	And e'en as if your lord should wear rich jewels,
+	And send for money for 'em.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<HORTENSIUS>
+	<DIALOGUE>
+	I'm weary of this charge, the gods can witness:
+	I know my lord hath spent of Timon's wealth,
+	And now ingratitude makes it worse than stealth.
+	</DIALOGUE>
+</HORTENSIUS>
+<VARRO'S SERVANT 1>
+	<DIALOGUE>
+	Yes, mine's three thousand crowns; what's yours?
+	</DIALOGUE>
+</VARRO'S SERVANT 1>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Five thousand mine.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<VARRO'S SERVANT 1>
+	<DIALOGUE>
+	'Tis much deep: and it should seem by the sum,
+	Your master's confidence was above mine;
+	Else, surely, his had equall'd.
+	</DIALOGUE>
+</VARRO'S SERVANT 1>
+<DIRECTION>
+Enter Flaminius.
+</DIRECTION>
+<TITUS>
+	<DIALOGUE>
+	One of Lord Timon's men.
+	</DIALOGUE>
+</TITUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Flaminius! Sir, a word. Pray, is my lord ready to come forth?
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<FLAMINIUS>
+	<DIALOGUE>
+	No, indeed, he is not.
+	</DIALOGUE>
+</FLAMINIUS>
+<TITUS>
+	<DIALOGUE>
+	We attend his lordship; pray, signify so much.
+	</DIALOGUE>
+</TITUS>
+<FLAMINIUS>
+	<DIALOGUE>
+	I need not tell him that; he knows you are too diligent
+	</DIALOGUE>
+<DIRECTION>
+Exit Flaminius.
+</DIRECTION>
+</FLAMINIUS>
+<DIRECTION>
+Enter Flavius in a cloak, muffled.
+</DIRECTION>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Ha! is not that his steward muffled so?
+	He goes away in a cloud: call him, call him.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<TITUS>
+	<DIALOGUE>
+	Do you hear, sir?
+	</DIALOGUE>
+</TITUS>
+<VARRO'S SERVANT 2>
+	<DIALOGUE>
+	By your leave, sir.
+	</DIALOGUE>
+</VARRO'S SERVANT 2>
+<FLAVIUS>
+	<DIALOGUE>
+	What do you ask of me, my friend?
+	</DIALOGUE>
+</FLAVIUS>
+<TITUS>
+	<DIALOGUE>
+	We wait for certain money here, sir.
+	</DIALOGUE>
+</TITUS>
+<FLAVIUS>
+	<DIALOGUE>
+	Ay,
+	If money were as certain as your waiting,
+	'Twere sure enough.
+	Why then preferr'd you not your sums and bills,
+	When your false masters eat of my lord's meat?
+	Then they could smile and fawn upon his debts,
+	And take down the interest into their gluttonous maws.
+	You do yourselves but wrong to stir me up;
+	Let me pass quietly:
+	Believe't, my lord and I have made an end;
+	I have no more to reckon, he to spend.
+	</DIALOGUE>
+</FLAVIUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Ay, but this answer will not serve.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<FLAVIUS>
+	<DIALOGUE>
+	If 'twill not serve, 'tis not so base as you;
+	For you serve knaves.
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<VARRO'S SERVANT 1>
+	<DIALOGUE>
+	How! what does his cashiered worship mutter?
+	</DIALOGUE>
+</VARRO'S SERVANT 1>
+<VARRO'S SERVANT 2>
+	<DIALOGUE>
+	No matter what; he's poor, and that's revenge enough. Who can speak broader than he that has no house to put his head in? such may rail against great buildings.
+	</DIALOGUE>
+</VARRO'S SERVANT 2>
+<DIRECTION>
+Enter Servilius.
+</DIRECTION>
+<TITUS>
+	<DIALOGUE>
+	O! here's Servilius; now we shall know some answer.
+	</DIALOGUE>
+</TITUS>
+<SERVILIUS>
+	<DIALOGUE>
+	If I might beseech you, gentlemen, to repair some other hour, I should derive much from 't; for, take 't of my soul, my lord leans wondrously to discontent. His comfortable temper has forsook him; he's much out of health, and keeps his chamber.
+	</DIALOGUE>
+</SERVILIUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Many do keep their chambers are not sick:
+	And, if it be so far beyond his health,
+	Methinks he should the sooner pay his debts,
+	And make a clear way to the gods.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<SERVILIUS>
+	<DIALOGUE>
+	Good gods!
+	</DIALOGUE>
+</SERVILIUS>
+<TITUS>
+	<DIALOGUE>
+	We cannot take this for answer, sir.
+	</DIALOGUE>
+</TITUS>
+<FLAMINIUS>
+<DIRECTION>
+Within.
+</DIRECTION>
+	<DIALOGUE>
+	Servilius, help! my lord! my lord!
+	</DIALOGUE>
+</FLAMINIUS>
+<DIRECTION>
+Enter Timon, in a rage; Flaminius following.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	What! are my doors oppos'd against my passage?
+	Have I been ever free, and must my house
+	Be my retentive enemy, my gaol?
+	The place which I have feasted, does it now,
+	Like all mankind, show me an iron heart?
+	</DIALOGUE>
+</TIMON>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Put in now, Titus.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<TITUS>
+	<DIALOGUE>
+	My lord, here is my bill.
+	</DIALOGUE>
+</TITUS>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Here's mine.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<HORTENSIUS>
+	<DIALOGUE>
+	And mine, my lord.
+	</DIALOGUE>
+</HORTENSIUS>
+<VARRO'S SERVANTS>
+	<DIALOGUE>
+	And ours, my lord.
+	</DIALOGUE>
+</VARRO'S SERVANTS>
+<PHILOTUS>
+	<DIALOGUE>
+	All our bills.
+	</DIALOGUE>
+</PHILOTUS>
+<TIMON>
+	<DIALOGUE>
+	Knock me down with 'em: cleave me to the girdle.
+	</DIALOGUE>
+</TIMON>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Alas! my lord,--
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<TIMON>
+	<DIALOGUE>
+	Cut my heart in sums.
+	</DIALOGUE>
+</TIMON>
+<TITUS>
+	<DIALOGUE>
+	Mine, fifty talents.
+	</DIALOGUE>
+</TITUS>
+<TIMON>
+	<DIALOGUE>
+	Tell out my blood.
+	</DIALOGUE>
+</TIMON>
+<LUCIUS' SERVANT>
+	<DIALOGUE>
+	Five thousand crowns, my lord.
+	</DIALOGUE>
+</LUCIUS' SERVANT>
+<TIMON>
+	<DIALOGUE>
+	Five thousand drops pays that. What yours? and yours?
+	</DIALOGUE>
+</TIMON>
+<VARRO'S SERVANT 1>
+	<DIALOGUE>
+	My lord,--
+	</DIALOGUE>
+</VARRO'S SERVANT 1>
+<VARRO'S SERVANT 2>
+	<DIALOGUE>
+	My lord,--
+	</DIALOGUE>
+</VARRO'S SERVANT 2>
+<TIMON>
+	<DIALOGUE>
+	Tear me, take me; and the gods fall upon you!
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<HORTENSIUS>
+	<DIALOGUE>
+	Faith, I perceive our masters may throw their caps at their money: these debts may well be called desperate ones, for a madman owes 'em
+	</DIALOGUE>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</HORTENSIUS>
+<DIRECTION>
+Re-enter Timon and Flavius.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	They have e'en put my breath from me, the slaves:
+	Creditors? devils!
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	My dear lord,--
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	What if it should be so?
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	My lord,--
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	I'll have it so. My steward!
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Here, my lord.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	So fitly! Go, bid all my friends again,
+	Lucius, Lucullus, and Sempronius; all:
+	I'll once more feast the rascals.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	O my lord!
+	You only speak from your distracted soul;
+	There is not so much left to furnish out
+	A moderate table.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Be't not in thy care: go.
+	I charge thee, invite them all: let in the tide
+	Of knaves once more; my cook and I'll provide.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exeunt
+</DIRECTION>
+</SCENE_4>
+<SCENE_5>
+<DIRECTION>
+The Same. The Senate House.
+</DIRECTION>
+<DIRECTION>
+The Senate sitting.
+</DIRECTION>
+<SENATOR_1>
+	<DIALOGUE>
+	My lord, you have my voice to it; the fault's
+	Bloody; 'tis necessary he should die;
+	Nothing emboldens sin so much as mercy.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	Most true; the law shall bruise him.
+	</DIALOGUE>
+</SENATOR_2>
+<DIRECTION>
+Enter Alcibiades, attended.
+</DIRECTION>
+<ALCIBIADES>
+	<DIALOGUE>
+	Honour, health, and compassion to the senate!
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_1>
+	<DIALOGUE>
+	Now, captain.
+	</DIALOGUE>
+</SENATOR_1>
+<ALCIBIADES>
+	<DIALOGUE>
+	I am a humble suitor to your virtues;
+	For pity is the virtue of the law,
+	And none but tyrants use it cruelly.
+	It pleases time and fortune to lie heavy
+	Upon a friend of mine, who, in hot blood,
+	Hath stepp'd into the law, which is past depth
+	To those that without heed to plunge into 't.
+	He is a man, setting his fate aside,
+	Of comely virtues;
+	Nor did he soil the fact with cowardice,--
+	An honour in him which buys out his fault,--
+	But, with a noble fury and fair spirit,
+	Seeing his reputation touch'd to death,
+	He did oppose his foe;
+	And with such sober and unnoted passion
+	He did behave his anger, ere 'twas spent,
+	As if he had but prov'd an argument.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_1>
+	<DIALOGUE>
+	You undergo too strict a paradox,
+	Striving to make an ugly deed look fair:
+	Your words have took such pains as if they labour'd
+	To bring manslaughter into form, and set quarrelling
+	Upon the head of valour; which indeed
+	Is valour misbegot, and came into the world
+	When sects and factions were newly born.
+	He's truly valiant that can wisely suffer
+	The worst that man can breathe, and make his wrongs
+	His outsides, to wear them like his raiment, carelessly,
+	And ne'er prefer his injuries to his heart,
+	To bring it into danger.
+	If wrongs be evils and enforce us kill,
+	What folly 'tis to hazard life for ill!
+	</DIALOGUE>
+</SENATOR_1>
+<ALCIBIADES>
+	<DIALOGUE>
+	My lord,--
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_1>
+	<DIALOGUE>
+	You cannot make gross sins look clear;
+	To revenge is no valour, but to bear.
+	</DIALOGUE>
+</SENATOR_1>
+<ALCIBIADES>
+	<DIALOGUE>
+	My lords, then, under favour, pardon me,
+	If I speak like a captain.
+	Why do fond men expose themselves to battle,
+	And not endure all threats? sleep upon't,
+	And let the foes quietly cut their throats
+	Without repugnancy? If there be
+	Such valour in the bearing, what make we
+	Abroad? why then, women are more valiant
+	That stay at home, if bearing carry it,
+	And the ass more captain than the lion, the felon
+	Loaden with irons wiser than the judge,
+	If wisdom be in suffering. O my lords!
+	As you are great, be pitifully good:
+	Who cannot condemn rashness in cold blood?
+	To kill, I grant, is sin's extremest gust;
+	But, in defence, by mercy, 'tis most just.
+	To be in anger is impiety;
+	But who is man that is not angry?
+	Weigh but the crime with this.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_2>
+	<DIALOGUE>
+	You breathe in vain.
+	</DIALOGUE>
+</SENATOR_2>
+<ALCIBIADES>
+	<DIALOGUE>
+	In vain! his service done
+	At Lacedæmon and Byzantium
+	Were a sufficient briber for his life.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_1>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</SENATOR_1>
+<ALCIBIADES>
+	<DIALOGUE>
+	I say, my lords, he has done fair service,
+	And slain in fight many of your enemies.
+	How full of valour did he bear himself
+	In the last conflict, and made plenteous wounds!
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_2>
+	<DIALOGUE>
+	He has made too much plenty with 'em;
+	He's a sworn rioter; he has a sin that often
+	Drowns him and takes his valour prisoner;
+	If there were no foes, that were enough
+	To overcome him; in that beastly fury
+	He has been known to commit outrages
+	And cherish factions; 'tis inferr'd to us,
+	His days are foul and his drink dangerous.
+	</DIALOGUE>
+</SENATOR_2>
+<SENATOR_1>
+	<DIALOGUE>
+	He dies.
+	</DIALOGUE>
+</SENATOR_1>
+<ALCIBIADES>
+	<DIALOGUE>
+	Hard fate! he might have died in war.
+	My lords, if not for any parts in him,--
+	Though his right arm might purchase his own time,
+	And be in debt to none,--yet, more to move you,
+	Take my deserts to his, and join 'em both;
+	And, for I know your reverend ages love
+	Security, I'll pawn my victories, all
+	My honour to you, upon his good returns.
+	If by this crime he owes the law his life,
+	Why, let the war receive't in valiant gore;
+	For law is strict, and war is nothing more.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_1>
+	<DIALOGUE>
+	We are for law; he dies: urge it no more,
+	On height of our displeasure. Friend, or brother,
+	He forfeits his own blood that spills another.
+	</DIALOGUE>
+</SENATOR_1>
+<ALCIBIADES>
+	<DIALOGUE>
+	Must it be so? it must not be. My lords,
+	I do beseech you, know me.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_2>
+	<DIALOGUE>
+	How!
+	</DIALOGUE>
+</SENATOR_2>
+<ALCIBIADES>
+	<DIALOGUE>
+	Call me to your remembrances.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_3>
+	<DIALOGUE>
+	What!
+	</DIALOGUE>
+</SENATOR_3>
+<ALCIBIADES>
+	<DIALOGUE>
+	I cannot think but your age has forgot me;
+	It could not else be I should prove so base,
+	To sue, and be denied such common grace.
+	My wounds ache at you.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_1>
+	<DIALOGUE>
+	Do you dare our anger?
+	'Tis in few words, but spacious in effect;
+	We banish thee for ever.
+	</DIALOGUE>
+</SENATOR_1>
+<ALCIBIADES>
+	<DIALOGUE>
+	Banish me!
+	Banish your dotage; banish usury,
+	That makes the senate ugly.
+	</DIALOGUE>
+</ALCIBIADES>
+<SENATOR_1>
+	<DIALOGUE>
+	If, after two days' shine, Athens contain thee,
+	Attend our weightier judgment. And, not to swell our spirit,
+	He shall be executed presently.
+	</DIALOGUE>
+</SENATOR_1>
+<DIRECTION>
+Exeunt Senators.
+</DIRECTION>
+<ALCIBIADES>
+	<DIALOGUE>
+	Now the gods keep you old enough; that you may live
+	Only in bone, that none may look on you!
+	I am worse than mad: I have kept back their foes,
+	While they have told their money and let out
+	Their coin upon large interest; I myself
+	Rich only in large hurts: all those for this?
+	Is this the balsam that the usuring senate
+	Pours into captains' wounds? Banishment!
+	It comes not ill; I hate not to be banish'd;
+	It is a cause worthy my spleen and fury,
+	That I may strike at Athens. I'll cheer up
+	My discontented troops, and lay for hearts.
+	'Tis honour with most lands to be at odds;
+	Soldiers should brook as little wrongs as gods.
+	</DIALOGUE>
+</ALCIBIADES>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</SCENE_5>
+<SCENE_6>
+<DIRECTION>
+The Same. A Room of State in Timon's House.
+</DIRECTION>
+<DIRECTION>
+Music. Tables set out: Servants attending. Enter divers...
+<... Lords, Senators, and Others, at several doors.>
+</DIRECTION>
+<LORD_1>
+	<DIALOGUE>
+	The good time of day to you, sir.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	I also wish it you. I think this honourable lord did but try us this other day.
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	Upon that were my thoughts tiring when we encountered: I hope it is not so low with him as he made it seem in the trial of his several friends.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	It should not be, by the persuasion of his new feasting.
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	I should think so: he hath sent me an earnest inviting, which many my near occasions did urge me to put off; but he hath conjured me beyond them, and I must needs appear.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	In like manner was I in debt to my importunate business, but he would not hear my excuse. I am sorry, when he sent to borrow of me, that my provision was out.
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	I am sick of that grief too, as I understand how all things go.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	Every man here's so. What would he have borrowed you?
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	A thousand pieces.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	A thousand pieces!
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	What of you?
+	</DIALOGUE>
+</LORD_1>
+<LORD_3>
+	<DIALOGUE>
+	He sent to me, sir,--Here he comes.
+	</DIALOGUE>
+</LORD_3>
+<DIRECTION>
+Enter Timon and Attendants.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	With all my heart, gentlemen both; and how fare you?
+	</DIALOGUE>
+</TIMON>
+<LORD_1>
+	<DIALOGUE>
+	Ever at the best, hearing well of your lordship.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	The swallow follows not summer more willing than we your lordship.
+	</DIALOGUE>
+</LORD_2>
+<TIMON>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	Nor more willingly leaves winter; such summer-birds are men. Gentlemen, our dinner will not recompense this long stay: feast your ears with the music awhile, if they will fare so harshly o' the trumpet's sound; we shall to 't presently.
+	</DIALOGUE>
+</TIMON>
+<LORD_1>
+	<DIALOGUE>
+	I hope it remains not unkindly with your lordship that I returned you an empty messenger.
+	</DIALOGUE>
+</LORD_1>
+<TIMON>
+	<DIALOGUE>
+	O! sir, let it not trouble you.
+	</DIALOGUE>
+</TIMON>
+<LORD_2>
+	<DIALOGUE>
+	My noble lord,--
+	</DIALOGUE>
+</LORD_2>
+<TIMON>
+	<DIALOGUE>
+	Ah! my good friend, what cheer?
+	</DIALOGUE>
+</TIMON>
+<LORD_2>
+	<DIALOGUE>
+	My most honourable lord, I am e'en sick of shame, that when your lordship this other day sent to me I was so unfortunate a beggar.
+	</DIALOGUE>
+</LORD_2>
+<TIMON>
+	<DIALOGUE>
+	Think not on 't, sir.
+	</DIALOGUE>
+</TIMON>
+<LORD_2>
+	<DIALOGUE>
+	If you had sent but two hours before,--
+	</DIALOGUE>
+</LORD_2>
+<TIMON>
+	<DIALOGUE>
+	Let it not cumber your better remembrance
+	</DIALOGUE>
+<DIRECTION>
+The banquet brought in.
+</DIRECTION>
+	<DIALOGUE>
+	Come, bring in all together.
+	</DIALOGUE>
+</TIMON>
+<LORD_2>
+	<DIALOGUE>
+	All covered dishes!
+	</DIALOGUE>
+</LORD_2>
+<LORD_1>
+	<DIALOGUE>
+	Royal cheer, I warrant you.
+	</DIALOGUE>
+</LORD_1>
+<LORD_3>
+	<DIALOGUE>
+	Doubt not that, if money and the season can yield it.
+	</DIALOGUE>
+</LORD_3>
+<LORD_1>
+	<DIALOGUE>
+	How do you? What's the news?
+	</DIALOGUE>
+</LORD_1>
+<LORD_3>
+	<DIALOGUE>
+	Alcibiades is banished: hear you of it?
+	</DIALOGUE>
+</LORD_3>
+<LORD_1>
+	<DIALOGUE>
+	Alcibiades banished!
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	Alcibiades banished!
+	</DIALOGUE>
+</LORD_2>
+<LORD_3>
+	<DIALOGUE>
+	'Tis so, be sure of it.
+	</DIALOGUE>
+</LORD_3>
+<LORD_1>
+	<DIALOGUE>
+	How? how?
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	I pray you, upon what?
+	</DIALOGUE>
+</LORD_2>
+<TIMON>
+	<DIALOGUE>
+	My worthy friends, will you draw near?
+	</DIALOGUE>
+</TIMON>
+<LORD_3>
+	<DIALOGUE>
+	I'll tell you more anon. Here's a noble feast toward.
+	</DIALOGUE>
+</LORD_3>
+<LORD_2>
+	<DIALOGUE>
+	This is the old man still.
+	</DIALOGUE>
+</LORD_2>
+<LORD_3>
+	<DIALOGUE>
+	Will't hold? will't hold?
+	</DIALOGUE>
+</LORD_3>
+<LORD_2>
+	<DIALOGUE>
+	It does; but time will--and so--
+	</DIALOGUE>
+</LORD_2>
+<LORD_3>
+	<DIALOGUE>
+	I do conceive.
+	</DIALOGUE>
+</LORD_3>
+<TIMON>
+	<DIALOGUE>
+	Each man to his stool, with that spur as he would to the lip of his mistress; your diet shall be in all places alike. Make not a city feast of it, to let the meat cool ere we can agree upon the first place: sit, sit. The gods require our thanks.--
+	You great benefactors sprinkle our society with thankfulness. For your own gifts, make yourselves praised: but reserve still to give, lest your deities be despised. Lend to each man enough, that one need not lend to another; for, were your godheads to borrow of men, men would forsake the gods. Make the meat be beloved more than the man that gives it. Let no assembly of twenty be without a score of villains: if there sit twelve women at the table, let a dozen of them be as they are. The rest of your fees, O gods! the senators of Athens, together with the common lag of people, what is amiss in them, you gods, make suitable for destruction. For these my present friends, as they are to me nothing, so in nothing bless them, and to nothing are they welcome.
+	Uncover, dogs, and lap.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+The dishes uncovered are full of warm water.
+</DIRECTION>
+<SOME_SPEAK>
+	<DIALOGUE>
+	What does his lordship mean?
+	</DIALOGUE>
+</SOME_SPEAK>
+<SOME_OTHER>
+	<DIALOGUE>
+	I know not.
+	</DIALOGUE>
+</SOME_OTHER>
+<TIMON>
+	<DIALOGUE>
+	May you a better feast never behold,
+	You knot of mouth-friends! smoke and lukewarm water
+	Is your perfection. This is Timon's last;
+	Who, stuck and spangled with your flatteries,
+	Washes it off, and sprinkles in your face
+	</DIALOGUE>
+<DIRECTION>
+Throwing the water in their faces.
+</DIRECTION>
+	<DIALOGUE>
+	Your reeking villany. Live loath'd, and long,
+	Most smiling, smooth, detested parasites,
+	Courteous destroyers, affable wolves, meek bears,
+	You fools of fortune, trencher-friends, time's flies,
+	Cap and knee slaves, vapours, and minute-jacks!
+	Of man and beast the infinite malady
+	Crust you quite o'er! What! dost thou go?
+	Soft! take thy physic first,--thou too,--and thou;--
+	Stay, I will lend thee money, borrow none
+	</DIALOGUE>
+<DIRECTION>
+Throws the dishes at them.
+</DIRECTION>
+	<DIALOGUE>
+	What! all in motion? Henceforth be no feast,
+	Whereat a villain's not a welcome guest.
+	Burn, house! sink, Athens! henceforth hated be
+	Of Timon man and all humanity
+	</DIALOGUE>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</TIMON>
+<DIRECTION>
+Re-enter the Lords, Senators, &c.
+</DIRECTION>
+<LORD_1>
+	<DIALOGUE>
+	How now, my lords!
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	Know you the quality of Lord Timon's fury?
+	</DIALOGUE>
+</LORD_2>
+<LORD_3>
+	<DIALOGUE>
+	Push! did you see my cap?
+	</DIALOGUE>
+</LORD_3>
+<LORD_4>
+	<DIALOGUE>
+	I have lost my gown.
+	</DIALOGUE>
+</LORD_4>
+<LORD_1>
+	<DIALOGUE>
+	He's but a mad lord, and nought but humour sways him. He gave me a jewel th' other day, and now he has beat it out of my hat: did you see my jewel?
+	</DIALOGUE>
+</LORD_1>
+<LORD_3>
+	<DIALOGUE>
+	Did you see my cap?
+	</DIALOGUE>
+</LORD_3>
+<LORD_2>
+	<DIALOGUE>
+	Here 'tis.
+	</DIALOGUE>
+</LORD_2>
+<LORD_4>
+	<DIALOGUE>
+	Here lies my gown.
+	</DIALOGUE>
+</LORD_4>
+<LORD_1>
+	<DIALOGUE>
+	Let's make no stay.
+	</DIALOGUE>
+</LORD_1>
+<LORD_2>
+	<DIALOGUE>
+	Lord Timon's mad.
+	</DIALOGUE>
+</LORD_2>
+<LORD_3>
+	<DIALOGUE>
+	I feel 't upon my bones.
+	</DIALOGUE>
+</LORD_3>
+<LORD_4>
+	<DIALOGUE>
+	One day he gives us diamonds, next day stones
+	</DIALOGUE>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</LORD_4>
+</SCENE_6>
+</ACT_3>
+<ACT_4>
+<SCENE_1>
+<DIRECTION>
+Without the Walls of Athens
+</DIRECTION>
+<DIRECTION>
+Enter Timon.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	Let me look back upon thee. O thou wall,
+	That girdlest in those wolves, dive in the earth.
+	And fence not Athens! Matrons, turn incontinent!
+	Obedience fail in children! slaves and fools,
+	Pluck the grave wrinkled senate from the bench,
+	And minister in their steads! To general filths
+	Convert, o'the instant, green virginity!
+	Do't in your parents' eyes! Bankrupts, hold fast;
+	Rather than render back, out with your knives,
+	And cut your trusters' throats! Bound servants, steal!--
+	Large-handed robbers your grave masters are,--
+	And pill by law. Maid, to thy master's bed;
+	Thy mistress is o' the brothel! Son of sixteen,
+	Pluck the lin'd crutch from thy old limping sire,
+	With it beat out his brains! Piety, and fear,
+	Religion to the gods, peace, justice, truth,
+	Domestic awe, night-rest and neighbourhood,
+	Instruction, manners, mysteries and trades,
+	Degrees, observances, customs and laws,
+	Decline to your confounding contraries,
+	And let confusion live! Plagues incident to men,
+	Your potent and infectious fevers heap
+	On Athens, ripe for stroke! Thou cold sciatica,
+	Cripple our senators, that their limbs may halt
+	As lamely as their manners! Lust and liberty
+	Creep in the minds and marrows of our youth,
+	That'gainst the stream of virtue they may strive,
+	And drown themselves in riot! Itches, blains,
+	Sow all the Athenian bosoms, and their crop
+	Be general leprosy! Breath infect breath,
+	That their society, as their friendship, may
+	Be merely poison! Nothing I'll bear from thee
+	But nakedness, thou detestable town!
+	Take thou that too, with multiplying bans!
+	Timon will to the woods; where he shall find
+	The unkindest beast more kinder than mankind.
+	The gods confound--hear me, you good gods all--
+	The Athenians both within and out that wall!
+	And grant, as Timon grows, his hate may grow
+	To the whole race of mankind, high and low!
+	Amen.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</SCENE_1>
+<SCENE_2>
+<DIRECTION>
+Athens. A Room in Timon's House.
+</DIRECTION>
+<DIRECTION>
+Enter Flavius, with two or three Servants.
+</DIRECTION>
+<SERVANT_1>
+	<DIALOGUE>
+	Hear you, Master steward! where's our master?
+	Are we undone? cast off? nothing remaining?
+	</DIALOGUE>
+</SERVANT_1>
+<FLAVIUS>
+	<DIALOGUE>
+	Alack! my fellows, what should I say to you?
+	Let me be recorded by the righteous gods,
+	I am as poor as you.
+	</DIALOGUE>
+</FLAVIUS>
+<SERVANT_1>
+	<DIALOGUE>
+	Such a house broke!
+	So noble a master fall'n! All gone! and not
+	One friend to take his fortune by the arm,
+	And go along with him!
+	</DIALOGUE>
+</SERVANT_1>
+<SERVANT_2>
+	<DIALOGUE>
+	As we do turn our backs
+	From our companion thrown into his grave,
+	So his familiars to his buried fortunes
+	Slink all away, leave their false vows with him,
+	Like empty purses pick'd; and his poor self,
+	A dedicated beggar to the air,
+	With his disease of all-shunn'd poverty,
+	Walks, like contempt, alone. More of our fellows.
+	</DIALOGUE>
+</SERVANT_2>
+<DIRECTION>
+Enter other Servants.
+</DIRECTION>
+<FLAVIUS>
+	<DIALOGUE>
+	All broken implements of a ruin'd house.
+	</DIALOGUE>
+</FLAVIUS>
+<SERVANT_3>
+	<DIALOGUE>
+	Yet do our hearts wear Timon's livery,
+	That see I by our faces; we are fellows still,
+	Serving alike in sorrow. Leak'd is our bark,
+	And we, poor mates, stand on the dying deck,
+	Hearing the surges threat: we must all part
+	Into this sea of air.
+	</DIALOGUE>
+</SERVANT_3>
+<FLAVIUS>
+	<DIALOGUE>
+	Good fellows all,
+	The latest of my wealth I'll share amongst you.
+	Wherever we shall meet, for Timon's sake
+	Let's yet be fellows; let's shake our heads, and say,
+	As 'twere a knell unto our master's fortunes,
+	'We have seen better days.' Let each take some
+	</DIALOGUE>
+<DIRECTION>
+Giving them money.
+</DIRECTION>
+	<DIALOGUE>
+	Nay, put out all your hands. Not one word more:
+	Thus part we rich in sorrow, parting poor
+	</DIALOGUE>
+<DIRECTION>
+They embrace, and part several ways.
+</DIRECTION>
+	<DIALOGUE>
+	O! the fierce wretchedness that glory brings us.
+	Who would not wish to be from wealth exempt,
+	Since riches point to misery and contempt?
+	Who would be so mock'd with glory? or so live,
+	But in a dream of friendship?
+	To have his pomp and all what state compounds
+	But only painted, like his varnish'd friends?
+	Poor honest lord! brought low by his own heart,
+	Undone by goodness. Strange, unusual blood,
+	When man's worst sin is he does too much good!
+	Who then dares to be half so kind agen?
+	For bounty, that makes gods, does still mar men.
+	My dearest lord, bless'd, to be most accurs'd,
+	Rich, only to be wretched, thy great fortunes
+	Are made thy chief affictions. Alas! kind lord,
+	He's flung in rage from this ingrateful seat
+	Of monstrous friends;
+	Nor has he with him to supply his life,
+	Or that which can command it.
+	I'll follow and inquire him out:
+	I'll ever serve his mind with my best will;
+	Whilst I have gold I'll be his steward still.
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</SCENE_2>
+<SCENE_3>
+<DIRECTION>
+Woods and Cave near the Sea-shore.
+</DIRECTION>
+<DIRECTION>
+Enter Timon from the Cave.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	O blessed breeding sun! draw from the earth
+	Rotten humidity; below thy sister's orb
+	Infect the air! Twinn'd brothers of one womb,
+	Whose procreation, residence and birth,
+	Scarce is dividant, touch them with several fortunes;
+	The greater scorns the lesser: not nature,
+	To whom all sores lay siege, can bear great fortune,
+	But by contempt of nature.
+	Raise me this beggar, and deny't that lord;
+	The senator shall bear contempt hereditary,
+	The beggar native honour.
+	It is the pasture lards the rother's sides,
+	The want that makes him lean. Who dares, who dares,
+	In purity of manhood stand upright,
+	And say, 'This man's a flatterer?' if one be,
+	So are they all; for every grize of fortune
+	Is smooth'd by that below: the learned pate
+	Ducks to the golden fool: all is oblique;
+	There's nothing level in our cursed natures
+	But direct villany. Therefore, be abhorr'd
+	All feasts, societies, and throngs of men!
+	His semblable, yea, himself, Timon disdains:
+	Destruction fang mankind! Earth, yield me roots
+	</DIALOGUE>
+<DIRECTION>
+Digging.
+</DIRECTION>
+	<DIALOGUE>
+	Who seeks for better of thee, sauce his palate
+	With thy most operant poison! What is here?
+	Gold! yellow, glittering, precious gold! No, gods,
+	I am no idle votarist. Roots, you clear heavens!
+	Thus much of this will make black white, foul fair,
+	Wrong right, base noble, old young, coward valiant.
+	Ha! you gods, why this? What this, you gods? Why, this
+	Will lug your priests and servants from your sides,
+	Pluck stout men's pillows from below their head:
+	This yellow slave
+	Will knit and breah religions; bless the accurs'd;
+	Make the hoar leprosy ador'd; place thieves,
+	And give them title, knee, and approbation,
+	With senators on the bench; this is it
+	That makes the wappen'd widow wed again;
+	She, whom the spital-house and ulcerous sores
+	Would cast the gorge at, this embalms and spices
+	To the April day again. Come, damned earth,
+	Thou common whore of mankind, that putt'st odds
+	Among the rout of nations, I will make thee
+	Do thy right nature.-
+	</DIALOGUE>
+<DIRECTION>
+March afar off.
+</DIRECTION>
+	<DIALOGUE>
+	Ha! a drum? thou'rt quick,
+	But yet I'll bury thee: thou'lt go, strong theif,
+	When gouty keepers of thee cannot stand:
+	Nay, stay thou out for earnest
+	</DIALOGUE>
+<DIRECTION>
+Keeping some gold.
+</DIRECTION>
+</TIMON>
+<DIRECTION>
+Enter Alcibiades, with drum and fife, in warlike manner; Phrynia and Timandra.
+</DIRECTION>
+<ALCIBIADES>
+	<DIALOGUE>
+	What art thou there? speak.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	A beast, as thou art. The canker gnaw thy heart,
+	For showing me again the eyes of man!
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	What is thy name? Is man so hateful to thee,
+	That art thyself a man?
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	I am Misanthropos, and hate mankind.
+	For thy part, I do wish thou wert a dog,
+	That I might love thee something.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	I know thee well,
+	But in thy fortunes am unlearn'd and strange.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	I know thee too; and more than that I know thee
+	I not desire to know. Follow thy drum;
+	With man's blood paint the ground, gules, gules;
+	Religious canons, civil laws are cruel;
+	Then what should war be? This fell whore of thine
+	Hath in her more destruction than thy sword
+	For all her cherubin look.
+	</DIALOGUE>
+</TIMON>
+<PHRYNIA>
+	<DIALOGUE>
+	Thy lips rot off!
+	</DIALOGUE>
+</PHRYNIA>
+<TIMON>
+	<DIALOGUE>
+	I will not kiss thee; then the rot returns
+	To thine own lips again.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	How came the noble Timon to this change?
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	As the moon does, by wanting light to give:
+	But then renew I could not like the moon;
+	There were no suns to borrow of.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Noble Timon, what friendship may I do thee?
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	None, but to maintain my opinion.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	What is it, Timon?
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Promise me friendship, but perform none: if thou wilt not promise, the gods plague thee, for thou art a man! if thou dost perform, confound thee, for thou art a man!
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	I have heard in some sort of thy miseries.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Thou saw'st them, when I had prosperity.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	I see them now; then was a blessed time.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	As thine is now, held with a brace of harlots.
+	</DIALOGUE>
+</TIMON>
+<TIMANDRA>
+	<DIALOGUE>
+	Is this the Athenian minion, whom the world
+	Voic'd so regardfully?
+	</DIALOGUE>
+</TIMANDRA>
+<TIMON>
+	<DIALOGUE>
+	Art thou Timandra?
+	</DIALOGUE>
+</TIMON>
+<TIMANDRA>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</TIMANDRA>
+<TIMON>
+	<DIALOGUE>
+	Be a whore still; they love thee not that use thee;
+	Give them diseases, leaving with thee their lust.
+	Make use of thy salt hours; season the slaves
+	For tubs and baths; bring down rose-cheeked youth
+	To the tub-fast and the diet.
+	</DIALOGUE>
+</TIMON>
+<TIMANDRA>
+	<DIALOGUE>
+	Hang thee, monster!
+	</DIALOGUE>
+</TIMANDRA>
+<ALCIBIADES>
+	<DIALOGUE>
+	Pardon him, sweet Timandra, for his wits
+	Are drown'd and lost in his calamities.
+	I have but little gold of late, brave Timon,
+	The want whereof doth daily make revolt
+	In my penurious band: I have heard and griev'd
+	How cursed Athens, mindless of thy worth,
+	Forgetting thy great deeds, when neighbour states,
+	But for thy sword and fortune, trod upon them,--
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	I prithee, beat thy drum, and get thee gone.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	I am thy friend, and pity thee, dear Timon.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	How dost thou pity him whom thou dost trouble?
+	I had rather be alone.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Why, fare thee well:
+	Here is some gold for thee.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Keep it, I cannot eat it.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	When I have laid proud Athens on a heap,--
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Warr'st thou 'gainst Athens?
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Ay, Timon, and have cause.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	The gods confound them all in thy conquest; and
+	Thee after, when thou hast conquer'd!
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Why me, Timon?
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	That, by killing of villains, thou wast born to conquer
+	My country.
+	Put up thy gold: go on,--here's gold,--go on;
+	Be as a planetary plague, when Jove
+	Will o'er some high-vic'd city hang his poison
+	In the sick air: let not thy sword skip one.
+	Pity not honour'd age for his white beard;
+	He is a usurer. Strike me the counterfeit matron;
+	It is her habit only that is honest,
+	Herself's a bawd. Let not the virgin's cheek
+	Make soft thy trenchant sword; for those milkpaps,
+	That through the window-bars bore at men's eyes,
+	Are not within the leaf of pity writ,
+	But set them down horrible traitors. Spare not the babe,
+	Whose dimpled smiles from fools exhaust their mercy;
+	Think it a bastard, whom the oracle
+	Hath doubtfully pronounc'd thy throat shall cut,
+	And mince it sans remorse. Swear against objects;
+	Put armour on thine ears and on thine eyes,
+	Whose proof nor yells of mothers, maids, nor babes,
+	Nor sight of priests in holy vestments bleeding,
+	Shall pierce a jot. There's gold to pay thy soldiers:
+	Make large confusion; and, thy fury spent,
+	Confounded be thyself! Speak not, be gone.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Hast thou gold yet? I'll take the gold thou giv'st me,
+	Not all thy counsel.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Dost thou, or dost thou not, heaven's curse upon thee!
+	</DIALOGUE>
+</TIMON>
+<PHRYNIA>
+	<DIALOGUE>
+	Give us some gold, good Timon: hast thou more?
+	</DIALOGUE>
+</PHRYNIA>
+<TIMANDRA>
+	<DIALOGUE>
+	Give us some gold, good Timon: hast thou more?
+	</DIALOGUE>
+</TIMANDRA>
+<TIMON>
+	<DIALOGUE>
+	Enough to make a whore forswear her trade,
+	And to make whores a bawd. Hold up, you sluts,
+	Your aprons mountant: you are not oathable,
+	Although, I know, you'll swear, terribly swear
+	Into strong shudders and to heavenly agues
+	The immortal gods that hear you, spare your oaths,
+	I'll trust to your conditions: be whores still;
+	And he whose pious breath seeks to convert you,
+	Be strong in whore, allure him, burn him up;
+	Let your close fire predominate his smoke,
+	And be no turncoats: yet may your pains, six months,
+	Be quite contrary: and thatch your poor thin roofs
+	With burdens of the dead; some that were hang'd,
+	No matter; wear them, betray with them: whore still;
+	Paint till a horse may mire upon your face:
+	A pox of wrinkles!
+	</DIALOGUE>
+</TIMON>
+<PHRYNIA>
+	<DIALOGUE>
+	Well, more gold. What then?
+	</DIALOGUE>
+</PHRYNIA>
+<TIMANDRA>
+	<DIALOGUE>
+	Well, more gold. What then?
+	Believe't, that we'll do anything for gold.
+	</DIALOGUE>
+</TIMANDRA>
+<TIMON>
+	<DIALOGUE>
+	Consumptions sow
+	In hollow bones of man; strike their sharp shins,
+	And mar men's spurring. Crack the lawyer's voice,
+	That he may never more false title plead,
+	Nor sound his quillets shrilly: hoar the flamen,
+	That scolds against the quality of flesh,
+	And not believes himself: down with the nose,
+	Down with it flat; take the bridge quite away
+	Of him that, his particular to foresee,
+	Smells from the general weal: make curl'd-pate ruffians bald,
+	And let the unscarr'd braggarts of the war
+	Derive some pain from you: plague all,
+	That your activity may defeat and quell
+	The source of all erection. There's more gold;
+	Do you damn others, and let this damn you,
+	And ditches grave you all!
+	</DIALOGUE>
+</TIMON>
+<PHRYNIA>
+	<DIALOGUE>
+	More counsel with more money, bounteous Timon.
+	</DIALOGUE>
+</PHRYNIA>
+<TIMANDRA>
+	<DIALOGUE>
+	More counsel with more money, bounteous Timon.
+	</DIALOGUE>
+</TIMANDRA>
+<TIMON>
+	<DIALOGUE>
+	More whore, more mischief first; I have given you earnest.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Strike up the drum towards Athens! Farewell, Timon:
+	If I thrive well, I'll visit thee again.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	If I hope well, I'll never see thee more.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	I never did thee harm.
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Yes, thou spok'st well of me.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	Call'st thou that harm?
+	</DIALOGUE>
+</ALCIBIADES>
+<TIMON>
+	<DIALOGUE>
+	Men daily find it. Get thee away, and take
+	Thy beagles with thee.
+	</DIALOGUE>
+</TIMON>
+<ALCIBIADES>
+	<DIALOGUE>
+	We but offend him. Strike!
+	</DIALOGUE>
+</ALCIBIADES>
+<DIRECTION>
+Drum beats. Exeunt Alcibiades, Phrynia, and Timandra.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	That nature, being sick of man's unkindness,
+	Should yet be hungry! Common mother, thou
+	</DIALOGUE>
+<DIRECTION>
+Digging.
+</DIRECTION>
+	<DIALOGUE>
+	Whose womb unmeasurable, and infinite breast,
+	Teams, and feeds all; whose self-same mettle,
+	Whereof thy proud child, arrogant man, is puff'd,
+	Engenders the black toad and adder blue,
+	The gilded newt and eyeless venom'd worm,
+	With all the abhorred births below crisp heaven
+	Whareon Hyperion's quickening fire doth shine;
+	Yield him, who all thy human sons doth hate,
+	From forth thy plenteous bosom, one poor root!
+	Ensear thy fertile and conceptious womb,
+	Let it no more bring out ingrateful man!
+	Go great with tigers, dragons, wolves, and bears;
+	Teem with new monsters, whom thy upward face
+	Hath to the marbled mansion all above
+	Never presented! O! a root; dear thanks:
+	Dry up thy marrows, vines and plough-torn leas;
+	Whereof ingrateful man, with liquorish draughts
+	And morsels unctuous, greases his pure mind,
+	That from it all consideration slips!
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter Apemantus.
+</DIRECTION>
+	<DIALOGUE>
+	More man! Plague! plague!
+<APEMANTUS>
+	<DIALOGUE>
+	I was directed hither: men report
+	Thou dost affect my manners, and dost use them.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	'Tis, then, because thou dost not keep a dog
+	Whom I would imitate: consumption catch thee!
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	This is in thee a nature but infected;
+	A poor unmanly melancholy sprung
+	From change of fortune. Why this spade? this place?
+	This slave-like habit? and these looks of care?
+	Thy flatterers yet wear silk, drink wine, lie soft,
+	Hug their diseas'd perfumes, and have forgot
+	That ever Timon was. Shame not these woods
+	By putting on the cunning of a carper.
+	Be thou a flatterer now, and seak to thrive
+	By that which has undone thee: hinge thy knee,
+	And let his very breath, whom thou'lt observe,
+	Blow off thy cap; praise his most vicious strain,
+	And call it excellent. Thou wast told thus;
+	Thou gav'st thine ears, like tapsters that bid welcome,
+	To knaves and all approachers: 'tis most just
+	That thou turn rascal; hadst thou wealth again,
+	Rascals should have't. Do not assume my likeness.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Were I like thee I'd throw away myself.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Thou hast cast away thyself, being like thyself;
+	A madman so long, now a fool. What! think'st
+	That the bleak air, thy boisterous chamberlain,
+	Will put thy shirt on warm? will these moss'd trees,
+	That have outliv'd the eagle, page thy heels
+	And skip when thou point'st out? will the cold brook,
+	Candied with ice, caudle thy morning taste
+	To cure the o'er-night's surfeit? Call the creatures
+	Whose naked natures live in all the spite
+	Of wreakful heaven, whose bare unhoused trunks
+	To the conflicting elements expos'd,
+	Answer mere nature; bid them flatter thee;
+	O! thou shalt find--
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	A fool of thee. Depart.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	I love thee better now than e'er I did.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	I hate thee worse.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Thou flatter'st misery.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	I flatter not, but say thou art a caitiff.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Why dost thou seek me out?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	To vex thee.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Always a villain's office, or a fool's.
+	Dost please thyself in 't?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Ay.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	What! a knave too?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	If thou didst put this sour-cold habit on
+	To castigate thy pride, 'twere well; but thou
+	Dost it enforcedly; thou'dst courtier be again
+	Wert thou not beggar. Willing misery
+	Outlives incertain pomp, is crown'd before;
+	The one is filling still, never complete;
+	The other, at high wish: best state, contentless,
+	Hath a distracted and most wretched being,
+	Worse than the worst, content.
+	Thou shouldst desire to die, being miserable.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Not by his breath that is more miserable.
+	Thou art a slave, whom Fortune's tender arm
+	With favour never clasp'd, but bred a dog.
+	Hadst thou, like us from our first swath, proceeded
+	The sweet degrees that this brief world affords
+	To such as may the passive drudges of it
+	Freely command, thou wouldst have plung'd thyself
+	In general riot; melted down thy youth
+	In different beds of lust; and never learn'd
+	The icy precepts of respect, but follow'd
+	The sugar'd game before thee. But myself,
+	Who had the world as my confectionary,
+	The mouths, the tongues, the eyes, and hearts of men
+	At duty, more than I could frame employment,
+	That numberless upon me stuck as leaves
+	Do on the oak, have with one winter's brush
+	Fell from their boughs and left me open, bare
+	For every storm that blows; I, to bear this,
+	That never knew but better, is some burden:
+	Thy nature did commence in sufferance, time
+	Hath made thee hard in 't. Why shouldst thou hate men?
+	They never flatter'd thee: what hast thou given?
+	If thou wilt curse, thy father, that poor rag,
+	Must be thy subject, who in spite put stuff
+	To some she beggar and compounded thee
+	Poor rogue hereditary. Hence! be gone!
+	If thou hadst not been born the worst of men,
+	Thou hadst been a knave and flatterer.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Art thou proud yet?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Ay, that I am not thee.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	I, that I was
+	No prodigal.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	I, that I am one now:
+	Were all the wealth I have shut up in thee,
+	I'd give thee leave to hang it. Get thee gone.
+	That the whole life of Athens were in this!
+	Thus would I eat it.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Eating a root.
+</DIRECTION>
+<APEMANTUS>
+	<DIALOGUE>
+	Here; I will mend thy feast.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	First mend my company, take away thyself.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	So I shall mend mine own, by the lack of thine.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	'Tis not well mended so, it is but botch'd;
+	If not, I would it were.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	What wouldst thou have to Athens?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Thee thither in a whirlwind. If thou wilt,
+	Tell them there I have gold; look, so I have.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Here is no use for gold.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	The best and truest;
+	For here it sleeps, and does no hired harm.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Where liest o' nights, Timon?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Under that's above me.
+	Where feed'st thou o' days, Apemantus?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Where my stomach finds meat; or, rather, where I eat it.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Would poison were obedient and knew my mind!
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Where wouldst thou send it?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	To sauce thy dishes.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	The middle of humanity thou never knewest, but the extremity of both ends. When thou wast in thy gilt and thy perfume, they mocked thee for too much curiosity; in thy rags thou knowest none, but art despised for the contrary. There's a medlar for thee; eat it.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	On what I hate I feed not.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Dost hate a medlar?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Ay, though it look like thee.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	An thou hadst hated meddlers sooner, thou shouldst have loved thyself better now. What man didst thou ever know unthrift that was beloved after his means?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Who, without those means thou talkest of, didst thou ever know beloved?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Myself.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	I understand thee; thou hadst some means to keep a dog.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	What things in the world canst thou nearest compare to thy flatterers?
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Women nearest; but men, men are the things themselves. What wouldst thou do with the world, Apemantus, if it lay in thy power?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Give it the beasts, to be rid of the men.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Wouldst thou have thyself fall in the confusion of men, and remain a beast with the beasts?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Ay, Timon.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	A beastly ambition, which the gods grant thee to attain to. If thou wert the lion, the fox would beguile thee; if thou wert the lamb, the fox would eat thee; if thou wert the fox, the lion would suspect thee, when peradventure thou wert accused by the ass; if thou wert the ass, thy dulness would torment thee, and still thou livedst but as a breakfast to the wolf; if thou wert the wolf, thy greediness would afflict thee, and oft thou shouldst hazard thy life for thy dinner; wert thou the unicorn, pride and wrath would confound thee and make thine own self the conquest of thy fury; wert thou a bear, thou wouldst be killed by the horse; wert thou a horse, thou wouldst be seized by the leopard; wert thou a leopard, thou wert german to the lion, and the spots of thy kindred were jurors on thy life; all thy safety were remotion, and thy defence absence. What beast couldst thou be, that were not subject to a beast? and what a beast art thou already, that seest not thy loss in transformation!
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	If thou couldst please me with speaking to me, thou mightst have hit upon it here; the commonwealth of Athens is become a forest of beasts.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	How has the ass broke the wall, that thou art out of the city?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Yonder comes a poet and a painter: the plague of company light upon thee! I will fear to catch it, and give way. When I know not what else to do, I'll see thee again.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	When there is nothing living but thee, thou shalt be welcome. I had rather be a beggar's dog than Apemantus.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Thou art the cap of all the fools alive.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Would thou wert clean enough to spit upon!
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	A plague on thee! thou art too bad to curse!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	All villains that do stand by thee are pure.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	There is no leprosy but what thou speak'st.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	If I name thee.
+	I'll beat thee, but I should infect my hands.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	I would my tongue could rot them off!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Away, thou issue of a mangy dog!
+	Choler does kill me that thou art alive;
+	I swound to see thee.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Would thou wouldst burst!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Away,
+	Thou tedious rogue! I am sorry I shall lose
+	A stone by thee.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Throws a stone at him.
+</DIRECTION>
+<APEMANTUS>
+	<DIALOGUE>
+	Beast!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Slave!
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Toad!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Rogue, rogue, rogue!
+	I am sick of this false world, and will love nought
+	But even the mere necessities upon 't.
+	Then, Timon, presently prepare thy grave;
+	Lie where the light foam of the sea may beat
+	Thy grave-stone daily: make thine epitaph,
+	That death in me at others' lives may laugh
+	</DIALOGUE>
+<DIRECTION>
+Looking on the gold.
+</DIRECTION>
+	<DIALOGUE>
+	O thou sweet king-killer, and dear divorce
+	'Twixt natural son and sire! thou bright defiler
+	Of Hymen's purest bed! thou valiant Mars!
+	Thou ever young, fresh, lov'd, and delicate wooer,
+	Whose blush doth thaw the consecrated snow
+	That lies on Dian's lap! thou visible god,
+	That solder'st close impossibilities,
+	And mak'st them kiss! that speak'st with every tongue,
+	To every purpose! O thou touch of hearts!
+	Think, thy slave man rebels, and by thy virtue
+	Set them into confounding odds, that beasts
+	May have the world in empire.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Would 'twere so:
+	But not till I am dead; I'll say thou'st gold:
+	Thou wilt be throng'd to shortly.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Throng'd to?
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Ay.
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Thy back, I prithee.
+	</DIALOGUE>
+</TIMON>
+<APEMANTUS>
+	<DIALOGUE>
+	Live, and love thy misery!
+	</DIALOGUE>
+</APEMANTUS>
+<TIMON>
+	<DIALOGUE>
+	Long live so, and so die
+	</DIALOGUE>
+<DIRECTION>
+Exit Apemantus.
+</DIRECTION>
+	<DIALOGUE>
+	I am quit.
+	More things like men! Eat, Timon, and abhor them.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Enter Thieves.
+</DIRECTION>
+<THIEF_1>
+	<DIALOGUE>
+	Where should he have this gold? It is some poor fragment, some slender ort of his remainder. The mere want of gold, and the falling-from of his friends, drove him into this melancholy.
+	</DIALOGUE>
+</THIEF_1>
+<THIEF_2>
+	<DIALOGUE>
+	It is noised he hath a mass of treasure.
+	</DIALOGUE>
+</THIEF_2>
+<THIEF_3>
+	<DIALOGUE>
+	Let us make the assay upon him: if he care not for 't, he will supply us easily; if he covetously reserve it, how shall's get it?
+	</DIALOGUE>
+</THIEF_3>
+<THIEF_2>
+	<DIALOGUE>
+	True; for he bears it not about him, 'tis hid.
+	</DIALOGUE>
+</THIEF_2>
+<THIEF_1>
+	<DIALOGUE>
+	Is not this he?
+	</DIALOGUE>
+</THIEF_1>
+<THIEVES>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</THIEVES>
+<THIEF_2>
+	<DIALOGUE>
+	'Tis his description.
+	</DIALOGUE>
+</THIEF_2>
+<THIEF_3>
+	<DIALOGUE>
+	He; I know him.
+	</DIALOGUE>
+</THIEF_3>
+<ALL>
+	<DIALOGUE>
+	Save thee, Timon.
+	</DIALOGUE>
+</ALL>
+<TIMON>
+	<DIALOGUE>
+	Now, thieves?
+	</DIALOGUE>
+</TIMON>
+<ALL>
+	<DIALOGUE>
+	Soldiers, not thieves.
+	</DIALOGUE>
+</ALL>
+<TIMON>
+	<DIALOGUE>
+	Both too; and women's sons.
+	</DIALOGUE>
+</TIMON>
+<THIEVES>
+	<DIALOGUE>
+	We are not thieves, but men that much do want.
+	</DIALOGUE>
+</THIEVES>
+<TIMON>
+	<DIALOGUE>
+	Your greatest want is, you want much of meat.
+	Why should you want? Behold, the earth hath roots;
+	Within this mile break forth a hundred springs;
+	The oaks bear mast, the briers scarlet hips;
+	The bounteous housewife, nature, on each bush
+	Lays her full mess before you. Want! why want?
+	</DIALOGUE>
+</TIMON>
+<THIEF_1>
+	<DIALOGUE>
+	We cannot live on grass, on berries, water,
+	As beasts, and birds, and fishes.
+	</DIALOGUE>
+</THIEF_1>
+<TIMON>
+	<DIALOGUE>
+	Nor on the beasts themselves, the birds, and fishes;
+	You must eat men. Yet thanks I must you con
+	That you are thieves profess'd, that you work not
+	In holier shapes; for there is boundless theft
+	In limited professions. Rascal thieves,
+	Here's gold. Go, suck the subtle blood o' the grape,
+	Till the high fever seethe your blood to froth,
+	And so 'scape hanging: trust not the physician;
+	His antidotes are poison, and he slays
+	More than you rob: take wealth and lives together;
+	Do villany, do, since you protest to do't,
+	Like workmen. I'll example you with thievery:
+	The sun's a thief, and with his great attraction
+	Robs the vast sea; the moon's an arrant thief,
+	And her pale fire she snatches from the sun;
+	The sea's a thief, whose liquid surge resolves
+	The moon into salt tears; the earth's a thief,
+	That feeds and breeds by a composture stolen
+	From general excrement, each thing's a thief;
+	The laws, your curb and whip, in their rough power
+	Have uncheck'd theft. Love not yourselves; away!
+	Rob one another. There's more gold: cut throats;
+	All that you meet are thieves. To Athens go,
+	Break open shops; nothing can you steal
+	But thieves do lose it: steal no less for this
+	I give you; and gold confound you howsoe'er!
+	Amen.
+	</DIALOGUE>
+</TIMON>
+<THIEF_3>
+	<DIALOGUE>
+	He has almost charmed me from my profession, by persuading me to it.
+	</DIALOGUE>
+</THIEF_3>
+<THIEF_1>
+	<DIALOGUE>
+	'Tis in the malice of mankind that he thus advises us; not to have us thrive in our mystery.
+	</DIALOGUE>
+</THIEF_1>
+<THIEF_2>
+	<DIALOGUE>
+	I'll believe him as an enemy, and give over my trade.
+	</DIALOGUE>
+</THIEF_2>
+<THIEF_1>
+	<DIALOGUE>
+	Let us first see peace in Athens; there is no time so miserable but a man may be true
+	</DIALOGUE>
+<DIRECTION>
+Exeunt Thieves.
+</DIRECTION>
+</THIEF_1>
+<DIRECTION>
+Enter Flavius.
+</DIRECTION>
+<FLAVIUS>
+	<DIALOGUE>
+	O you gods!
+	Is yond despised and ruinous man my lord?
+	Full of decay and failing? O monument
+	And wonder of good deeds evilly bestow'd!
+	What an alteration of honour
+	Has desperate want made!
+	What viler thing upon the earth than friends
+	Who can bring noblest minds to basest ends!
+	How rarely does it meet with this time's guise,
+	When man was wish'd to love his enemies!
+	Grant I may ever love, and rather woo
+	Those that would mischief me than those that do!
+	He hath caught me in his eye: I will present
+	My honest grief unto him; and, as my lord,
+	Still serve him with my life. My dearest master!
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Timon comes forward.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	Away! what art thou?
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Have you forgot me, sir?
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Why dost ask that? I have forgot all men;
+	Then, if thou grant'st thou'rt a man, I have forgot thee.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	An honest poor servant of yours.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Then I know thee not:
+	I never had an honest man about me; ay all
+	I kept were knaves, to serve in meat to villains.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	The gods are witness,
+	Ne'er did poor steward wear a truer grief
+	For his undone lord than mine eyes for you.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	What! dost thou weep? Come nearer. Then I love thee,
+	Because thou art a woman, and disclaim'st
+	Flinty mankind; whose eyes do never give,
+	But thorough lust and laughter. Pity's sleeping:
+	Strange times, that weep with laughing, not with weeping!
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	I beg of you to know me, good my lord,
+	To accept my grief and whilst this poor wealth lasts
+	To entertain me as your steward still.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Had I a steward
+	So true, so just, and now so comfortable?
+	It almost turns my dangerous nature mild.
+	Let me behold thy face. Surely, this man
+	Was born of woman.
+	Forgive my general and exceptless rashness,
+	You perpetual sober gods! I do proclaim
+	One honest man, mistake me not, but one;
+	No more, I pray, and he's a steward.
+	How fain would I have hated all mankind!
+	And thou redeem'st thyself: but all, save thee,
+	I fell with curses.
+	Methinks thou art more honest now than wise;
+	For, by oppressing and betraying me,
+	Thou mightst have sooner got another service:
+	For many so arrive at second masters
+	Upon their first lord's neck. But tell me true,--
+	For I must ever doubt, though ne'er so sure,--
+	Is not thy kindness subtle, covetous,
+	If not a usuring kindness and as rich men deal gifts,
+	Expecting in return twenty for one?
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	No, my most worthy master; in whose breast
+	Doubt and suspect, alas! are plac'd too late.
+	You should have fear'd false times when you did feast;
+	Suspect still comes when an estate is least.
+	That which I show, heaven knows, is merely love,
+	Duty and zeal to your unmatched mind,
+	Care of your food and living; and, believe it,
+	My most honour'd lord,
+	For any benefit that points to me,
+	Either in hope, or present, I'd exchange
+	For this one wish, that you had power and wealth
+	To requite me by making rich yourself.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Look thee, 'tis so. Thou singly honest man,
+	Here, take: the gods out of my misery,
+	Have sent thee treasure. Go, live rich and happy;
+	But thus condition'd: thou shalt build from men;
+	Hate all, curse all, show charity to none,
+	But let the famish'd flesh slide from the bone,
+	Ere thou relieve the beggar; give to dogs
+	What thou deny'st to men; let prisons swallow 'em,
+	Debts wither 'em to nothing; be men like blasted woods,
+	And may diseases lick up their false bloods!
+	And so, farewell and thrive.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	O! let me stay
+	And comfort you, my master.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	If thou hatest
+	Curses, stay not; fly, whilst thou'rt bless'd and free:
+	Ne'er see thou man, and let me ne'er see thee
+	</DIALOGUE>
+<DIRECTION>
+Exeunt, severally.
+</DIRECTION>
+</TIMON>
+</SCENE_3>
+</ACT_4>
+<ACT_5>
+<SCENE_1>
+<DIRECTION>
+The Woods. Before Timon's Cave.
+</DIRECTION>
+<DIRECTION>
+Enter Poet and Painter.
+</DIRECTION>
+<PAINTER>
+	<DIALOGUE>
+	As I took note of the place, it cannot be far where he abides.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	What's to be thought of him? Does the rumour hold for true that he is so full of gold?
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Certain: Alcibiades reports it; Phrynia and Timandra had gold of him: he likewise enriched poor straggling soldiers with great quantity. 'Tis said he gave unto his steward a mighty sum.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	Then this breaking of his has been but a try for his friends.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Nothing else; you shall see him a palm in Athens again, and flourish with the highest. Therefore 'tis not amiss we tender our loves to him, in this supposed distress of his: it will show honestly in us, and is very likely to load our purposes with what they travel for, if it be a just and true report that goes of his having.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	What have you now to present unto him?
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Nothing at this time but my visitation; only, I will promise him an excellent piece.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	I must serve him so too; tell him of an intent that's coming towards him.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Good as the best. Promising is the very air o' the time; it opens the eyes of expectation; performance is ever the duller for his act; and, but in the plainer and simpler kind of people, the deed of saying is quite out of use. To promise is most courtly and fashionable; performance is a kind of will or testament which argues a great sickness in his judgment that makes it.
+	</DIALOGUE>
+</PAINTER>
+<DIRECTION>
+Enter Timon from his cave.
+</DIRECTION>
+<TIMON>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	Excellent workman! Thou canst not paint a man so bad as is thyself.
+	</DIALOGUE>
+</TIMON>
+<POET>
+	<DIALOGUE>
+	I am thinking what I shall say I have provided for him: it must be a personating of himself; a satire against the softness of prosperity, with a discovery of the infinite flatteries that follow youth and opulency.
+	</DIALOGUE>
+</POET>
+<TIMON>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	Must thou needs stand for a villain in thine own work? Wilt thou whip thine own faults in other men? Do so, I have gold for thee.
+	</DIALOGUE>
+</TIMON>
+<POET>
+	<DIALOGUE>
+	Nay, let's seek him:
+	Then do we sin against our own estate,
+	When we may profit meet, and come too late.
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	True;
+	When the day serves, before black-corner'd night,
+	Find what thou want'st by free and offer'd light.
+	Come.
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+<DIRECTION>
+Aside.
+</DIRECTION>
+	<DIALOGUE>
+	I'll meet you at the turn. What a god's gold,
+	That he is worshipp'd in a baser temple
+	Than where swine feed!
+	'Tis thou that rigg'st the bark and plough'st the foam,
+	Settlest admired reverence in a slave:
+	To thee be worship; and thy saints for aye
+	Be crown'd with plagues that thee alone obey.
+	Fit I meet them.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Advancing.
+</DIRECTION>
+<POET>
+	<DIALOGUE>
+	Hail, worthy Timon!
+	</DIALOGUE>
+</POET>
+<PAINTER>
+	<DIALOGUE>
+	Our late noble master!
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+	<DIALOGUE>
+	Have I once liv'd to see two honest men?
+	</DIALOGUE>
+</TIMON>
+<POET>
+	<DIALOGUE>
+	Sir,
+	Having often of your open bounty tasted,
+	Hearing you were retir'd, your friends fall'n off,
+	Whose thankless natures--O abhorred spirits!
+	Not all the whips of heaven are large enough--
+	What! to you,
+	Whose star-like nobleness gave life and influence
+	To their whole being! I am rapt, and cannot cover
+	The monstrous bulk of this ingratitude
+	With any size of words.
+	</DIALOGUE>
+</POET>
+<TIMON>
+	<DIALOGUE>
+	Let it go naked, men may see 't the better:
+	You, that are honest, by being what you are,
+	Make them best seen and known.
+	</DIALOGUE>
+</TIMON>
+<PAINTER>
+	<DIALOGUE>
+	He and myself
+	Have travell'd in the great shower of your gifts,
+	And sweetly felt it.
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+	<DIALOGUE>
+	Ay, you are honest men.
+	</DIALOGUE>
+</TIMON>
+<PAINTER>
+	<DIALOGUE>
+	We are hither come to offer you our service.
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+	<DIALOGUE>
+	Most honest men! Why, how shall I requite you?
+	Can you eat roots and drink cold water? no.
+	</DIALOGUE>
+</TIMON>
+<BOTH>
+	<DIALOGUE>
+	What we can do, we'll do, to do you service.
+	</DIALOGUE>
+</BOTH>
+<TIMON>
+	<DIALOGUE>
+	Ye're honest men. Ye've heard that I have gold;
+	I am sure you have: speak truth; ye're honest men.
+	</DIALOGUE>
+</TIMON>
+<PAINTER>
+	<DIALOGUE>
+	So it is said, my noble lord; but therefore
+	Came not my friend nor I.
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+	<DIALOGUE>
+	Good honest men! Thou draw'st a counterfeit
+	Best in all Athens: thou'rt, indeed, the best;
+	Thou counterfeit'st most lively.
+	</DIALOGUE>
+</TIMON>
+<PAINTER>
+	<DIALOGUE>
+	So, so, my lord.
+	</DIALOGUE>
+</PAINTER>
+<TIMON>
+	<DIALOGUE>
+	E'en so, sir, as I say. And, for thy fiction,
+	Why, thy verse swells with stuff so fine and smooth
+	That thou art even natural in thine art.
+	But for all this, my honest-natur'd friends,
+	I must needs say you have a little fault:
+	Marry, 'tis not monstrous in you, neither wish I
+	You take much pains to mend.
+	</DIALOGUE>
+</TIMON>
+<BOTH>
+	<DIALOGUE>
+	Beseech your honour
+	To make it known to us.
+	</DIALOGUE>
+</BOTH>
+<TIMON>
+	<DIALOGUE>
+	You'll take it ill.
+	</DIALOGUE>
+</TIMON>
+<BOTH>
+	<DIALOGUE>
+	Most thankfully, my lord.
+	</DIALOGUE>
+</BOTH>
+<TIMON>
+	<DIALOGUE>
+	Will you indeed?
+	</DIALOGUE>
+</TIMON>
+<BOTH>
+	<DIALOGUE>
+	Doubt it not, worthy lord.
+	</DIALOGUE>
+</BOTH>
+<TIMON>
+	<DIALOGUE>
+	There's never a one of you but trusts a knave,
+	That mightily deceives you.
+	</DIALOGUE>
+</TIMON>
+<BOTH>
+	<DIALOGUE>
+	Do we, my lord?
+	</DIALOGUE>
+</BOTH>
+<TIMON>
+	<DIALOGUE>
+	Ay, and you hear him cog, see him dissemble,
+	Know his gross patchery, love him, feed him,
+	Keep in your bosom; yet remain assur'd
+	That he's a made-up villain.
+	</DIALOGUE>
+</TIMON>
+<PAINTER>
+	<DIALOGUE>
+	I know none such, my lord.
+	</DIALOGUE>
+</PAINTER>
+<POET>
+	<DIALOGUE>
+	Nor I.
+	</DIALOGUE>
+</POET>
+<TIMON>
+	<DIALOGUE>
+	Look you, I love you well; I'll give you gold,
+	Rid me these villains from your companies:
+	Hang them or stab them, drown them in a draught,
+	Confound them by some course, and come to me,
+	I'll give you gold enough.
+	</DIALOGUE>
+</TIMON>
+<BOTH>
+	<DIALOGUE>
+	Name them, my lord; let's know them.
+	</DIALOGUE>
+</BOTH>
+<TIMON>
+	<DIALOGUE>
+	You that way and you this, but two in company;
+	Each man apart, all single and alone,
+	Yet an arch villain keeps him company.
+	If, where thou art two villains shall not be,
+	Come not near him
+	</DIALOGUE>
+<DIRECTION>
+To the Poet.
+</DIRECTION>
+	<DIALOGUE>
+	If thou would not reside
+	But where one villain is, then him abandon.
+	Hence! pack! there's gold; ye came for gold, ye slaves:
+	You have done work for me, there's payment: hence!
+	You are an alchemist, make gold of that.
+	Out, rascal dogs
+	</DIALOGUE>
+<DIRECTION>
+Beats them out and then returns to his cave.
+</DIRECTION>
+</TIMON>
+<DIRECTION>
+Enter Flavius and two Senators.
+</DIRECTION>
+<FLAVIUS>
+	<DIALOGUE>
+	It is in vain that you would speak with Timon;
+	For he is set so only to himself
+	That nothing but himself, which looks like man,
+	Is friendly with him.
+	</DIALOGUE>
+</FLAVIUS>
+<SENATOR_1>
+	<DIALOGUE>
+	Bring us to his cave:
+	It is our part and promise to the Athenians
+	To speak with Timon.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	At all times alike
+	Men are not still the same: 'twas time and griefs
+	That fram'd him thus: time, with his fairer hand,
+	Offering the fortunes of his former days,
+	The former man may make him. Bring us to him,
+	And chance it as it may.
+	</DIALOGUE>
+</SENATOR_2>
+<FLAVIUS>
+	<DIALOGUE>
+	Here is his cave.
+	Peace and content be here! Lord Timon! Timon!
+	Look out, and speak to friends. The Athenians,
+	By two of their most reverend senate, greet thee:
+	Speak to them, noble Timon.
+	</DIALOGUE>
+</FLAVIUS>
+<DIRECTION>
+Enter Timon, from his cave.
+</DIRECTION>
+<TIMON>
+	<DIALOGUE>
+	Thousun, that comfort'st, burn! Speak, and be hang'd:
+	For each true word, a blister! and each false
+	Be as a cauterizing to the root o'the tongue,
+	Consuming it with speaking!
+	</DIALOGUE>
+</TIMON>
+<SENATOR_1>
+	<DIALOGUE>
+	Worthy Timon,--
+	</DIALOGUE>
+</SENATOR_1>
+<TIMON>
+	<DIALOGUE>
+	Of none but such as you, and you of Timon.
+	</DIALOGUE>
+</TIMON>
+<SENATOR_2>
+	<DIALOGUE>
+	The senators of Athens greet thee, Timon.
+	</DIALOGUE>
+</SENATOR_2>
+<TIMON>
+	<DIALOGUE>
+	I thank them; and would send them back the plague,
+	Could I but catch it for them.
+	</DIALOGUE>
+</TIMON>
+<SENATOR_1>
+	<DIALOGUE>
+	O! forget
+	What we are sorry for ourselves in thee.
+	The senators with one consent of love
+	Entreat thee back to Athens; who have thought
+	On special dignities, which vacant lie
+	For thy best use and wearing.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	They confess
+	Toward thee forgetfulness to general, gross;
+	Which now the public body, which doth seldom
+	Play the recanter, feeling in itself
+	A lack of Timon's aid, hath sense withal
+	Of its own fail, restraining aid to Timon;
+	And send forth us, to make their sorrow'd render,
+	Together with a recompense more fruitful
+	Than their offence can weigh down by the dram;
+	Ay, even such heaps and sums of love and wealth
+	As shall to thee block out what wrongs were theirs,
+	And write in thee the figures of their love,
+	Ever to read them thine.
+	</DIALOGUE>
+</SENATOR_2>
+<TIMON>
+	<DIALOGUE>
+	You witch me in it;
+	Surprise me to the very brink of tears:
+	Lend me a fool's heart and a woman's eyes,
+	And I'll beweep these comforts, worthy senators.
+	</DIALOGUE>
+</TIMON>
+<SENATOR_1>
+	<DIALOGUE>
+	Therefore so please thee to return with us,
+	And of our Athens--thine and ours--to take
+	The captainship, thou shalt be met with thanks,
+	Allow'd with absolute power, and thy good name
+	Live with authority: so soon we shall drive back
+	Of Alcibiades the approaches wild;
+	Who, like a boar too savage, doth root up
+	His country's peace.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	And shakes his threat'ning sword
+	Against the walls of Athens.
+	</DIALOGUE>
+</SENATOR_2>
+<SENATOR_1>
+	<DIALOGUE>
+	Therefore, Timon,--
+	</DIALOGUE>
+</SENATOR_1>
+<TIMON>
+	<DIALOGUE>
+	Well, sir, I will; therefore, I will, sir; thus:--
+	If Alcibiades kill my countrymen,
+	Let Alcibiades know this of Timon,
+	That Timon cares not. But if he sack fair Athens,
+	And take our goodly aged men by the beards,
+	Giving our holy virgins to the stain
+	Of contumelious, beastly, mad-brain'd war;
+	Then let him know, and tell him Timon speaks it,
+	In pity of our aged and our youth
+	I cannot choose but tell him, that I care not,
+	And let him take't at worst; for their knives care not
+	While you have throats to answer: for myself,
+	There's not a whittle in the unruly camp
+	But I do prize it at my love before
+	The reverend'st throat in Athens. So I leave you
+	To the protection of the prosperous gods,
+	As thieves to keepers.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Stay not; all's in vain.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Why, I was writing of my epitaph;
+	It will be seen to-morrow. My long sickness
+	Of health and living now begins to mend,
+	And nothing brings me all things. Go; live still:
+	Be Alcibiades your plague, you his,
+	And last so long enough!
+	</DIALOGUE>
+</TIMON>
+<SENATOR_1>
+	<DIALOGUE>
+	We speak in vain.
+	</DIALOGUE>
+</SENATOR_1>
+<TIMON>
+	<DIALOGUE>
+	But yet I love my country, and am not
+	One that rejoices in the common wrack,
+	As common bruit doth put it.
+	</DIALOGUE>
+</TIMON>
+<SENATOR_1>
+	<DIALOGUE>
+	That's well spoke.
+	</DIALOGUE>
+</SENATOR_1>
+<TIMON>
+	<DIALOGUE>
+	Commend me to my loving countrymen,--
+	</DIALOGUE>
+</TIMON>
+<SENATOR_1>
+	<DIALOGUE>
+	These words become your lips as they pass through them.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	And enter in our ears like great triumphers
+	In their applauding gates.
+	</DIALOGUE>
+</SENATOR_2>
+<TIMON>
+	<DIALOGUE>
+	Commend me to them;
+	And tell them, that, to ease them of their griefs,
+	Their fears of hostile strokes, their aches, losses,
+	Their pangs of love, with other incident throes
+	That nature's fragile vessel doth sustain
+	In life's uncertain voyage, I will some kindness do them:
+	I'll teach them to prevent wild Alcibiades' wrath.
+	</DIALOGUE>
+</TIMON>
+<SENATOR_2>
+	<DIALOGUE>
+	I like this well; he will return again.
+	</DIALOGUE>
+</SENATOR_2>
+<TIMON>
+	<DIALOGUE>
+	I have a tree which grows here in my close,
+	That mine own use invites me to cut down,
+	And shortly must I fell it; tell my friends,
+	Tell Athens, in the sequence of degree,
+	From high to low throughout, that whoso please
+	To stop affliction, let him take his haste,
+	Come hither, ere my tree hath felt the axe,
+	And hang himself. I pray you, do my greeting.
+	</DIALOGUE>
+</TIMON>
+<FLAVIUS>
+	<DIALOGUE>
+	Trouble him no further; thus you still shall find him.
+	</DIALOGUE>
+</FLAVIUS>
+<TIMON>
+	<DIALOGUE>
+	Come not to me again; but say to Athans,
+	Timon hath made his everlasting mansion
+	Upon the beached verge of the salt flood;
+	Who once a day with his embossed froth
+	The turbulent surge shall cover: thither come,
+	And let my grave-stone be your oracle.
+	Lips, let sour words go by and language end:
+	What is amiss plague and infection mend!
+	Graves only be men's works and death their gain!
+	Sun, hide thy beams! Timon hath done his reign.
+	</DIALOGUE>
+</TIMON>
+<DIRECTION>
+Exit.
+</DIRECTION>
+<SENATOR_1>
+	<DIALOGUE>
+	His discontents are unremovably Coupled to nature.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	Our hope in him is dead: let us return,
+	And strain what other means is left unto us
+	In our dear peril.
+	</DIALOGUE>
+</SENATOR_2>
+<SENATOR_1>
+	<DIALOGUE>
+	It requires swift foot.
+	</DIALOGUE>
+</SENATOR_1>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</SCENE_1>
+<SCENE_2>
+<DIRECTION>
+Before the Walls of Athens.
+</DIRECTION>
+<DIRECTION>
+Enter two Senators and a Messenger.
+</DIRECTION>
+<SENATOR_1>
+	<DIALOGUE>
+	Thou hast painfully discover'd: are his files
+	As full as thy report?
+	</DIALOGUE>
+</SENATOR_1>
+<MESSENGER>
+	<DIALOGUE>
+	I have spoke the least;
+	Besides, his expedition promises
+	Present approach.
+	</DIALOGUE>
+</MESSENGER>
+<SENATOR_2>
+	<DIALOGUE>
+	We stand much hazard if they bring not Timon.
+	</DIALOGUE>
+</SENATOR_2>
+<MESSENGER>
+	<DIALOGUE>
+	I met a courier, one mine ancient friend,
+	Whom, though in general part we were oppos'd,
+	Yet our old love made a particular force,
+	And made us speak like friends: this man was riding
+	From Alcibiades to Timon's cave,
+	With letters of entreaty, which imported
+	His fellowship i' the cause against your city,
+	In part for his sake mov'd.
+	</DIALOGUE>
+</MESSENGER>
+<SENATOR_1>
+	<DIALOGUE>
+	Here come our brothers.
+	</DIALOGUE>
+</SENATOR_1>
+<DIRECTION>
+Enter Senators from Timon.
+</DIRECTION>
+<SENATOR_3>
+	<DIALOGUE>
+	No talk of Timon, nothing of him expect.
+	The enemies' drum is heard, and fearful scouring
+	Doth choke the air with dust. In, and prepare:
+	Ours is the fall, I fear; our foes the snare.
+	</DIALOGUE>
+</SENATOR_3>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</SCENE_2>
+<SCENE_3>
+<DIRECTION>
+The Woods. Timon's Cave, and a rude Tomb seen.
+</DIRECTION>
+<DIRECTION>
+Enter a Soldier, seeking Timon.
+</DIRECTION>
+<SOLDIER>
+	<DIALOGUE>
+	By all description this should be the place.
+	Who's here? speak, ho! No answer! What is this?
+	Timon is dead, who hath outstretch'd his span:
+	Some beast rear'd this; here does not live a man.
+	Dead, sure; and this his grave. What's on this tomb
+	I cannot read; the character I'll take with wax:
+	Our captain hath in every figure skill;
+	An ag'd interpreter, though young in days.
+	Before proud Athens he's set down by this,
+	Whose fall the mark of his ambition is.
+	</DIALOGUE>
+</SOLDIER>
+<DIRECTION>
+Exit.
+</DIRECTION>
+</SCENE_3>
+<SCENE_4>
+<DIRECTION>
+Before the Walls of Athens.
+</DIRECTION>
+<DIRECTION>
+Trumpets sound. Enter Alciblades with his Powers.
+</DIRECTION>
+<ALCIBIADES>
+	<DIALOGUE>
+	Sound to this coward and lascivious town
+	Our terrible approach
+	</DIALOGUE>
+<DIRECTION>
+A parley sounded.
+</DIRECTION>
+<DIRECTION>
+Enter Senators, on the Walls.
+</DIRECTION>
+	<DIALOGUE>
+	Till now you have gone on, and fill'd the time
+	With all licentious measure, making your wills
+	The scope of justice; till now myself and such
+	As slept within the shadow of your power
+	Have wander'd with our travers'd arms, and breath'd
+	Our sufferance vainly. Now the time is flush,
+	When crouching marrow, in the bearer strong,
+	Cries of itself, 'No more:' now breathless wrong
+	Shall sit and pant in your great chairs of ease,
+	And pursy insolence shall break his wind
+	</DIALOGUE>
+</ALCIBIADES>
+	With fear and horrid flight.
+<SENATOR_1>
+	<DIALOGUE>
+	Noble and young,
+	When thy first griefs were but a mere conceit,
+	Ere thou hadst power or we had cause of fear,
+	We sent to thee, to give thy rages balm,
+	To wipe out our ingratitude with loves
+	Above their quantity.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	So did we woo
+	Transformed Timon to our city's love
+	By humble message and by promis'd means:
+	We were not all unkind, nor all deserve
+	The common stroke of war.
+	</DIALOGUE>
+</SENATOR_2>
+<SENATOR_1>
+	<DIALOGUE>
+	These walls of ours
+	Were not erected by their hands from whom
+	You have receiv'd your grief; nor are they such
+	That these great towers, trophies, and schools should fall
+	For private faults in them.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	Nor are they living
+	Who were the motives that you first went out;
+	Shame that they wanted cunning in excess
+	Hath broke their hearts. March, noble lord,
+	Into our city with thy banners spread:
+	By decimation, and a tithed death,--
+	If thy revenges hunger for that food
+	Which nature loathes,--take thou the destin'd tenth,
+	And by the hazard of the spotted die
+	Let die the spotted.
+	</DIALOGUE>
+</SENATOR_2>
+<SENATOR_1>
+	<DIALOGUE>
+	All have not offended;
+	For those that were, it is not square to take
+	On those that are, revenges: crimes, like lands,
+	Are not inherited. Then, dear countryman,
+	Bring in thy ranks, but leave without thy rage:
+	Spare thyAthenian cradle, and those kin
+	Which in the bluster of thy wrath must fall
+	With those that have offended: like a shepherd,
+	Approach the fold and cull th' infected forth,
+	But kill not all together.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	What thou wilt,
+	Thou rather shalt enforce it with thy smile
+	Thank hew to't with thy sword.
+	</DIALOGUE>
+</SENATOR_2>
+<SENATOR_1>
+	<DIALOGUE>
+	Set but thy foot
+	Against our rampir'd gates, and they shall ope,
+	So thou wilt send thy gentle heart before,
+	To say thou'lt enter friendly.
+	</DIALOGUE>
+</SENATOR_1>
+<SENATOR_2>
+	<DIALOGUE>
+	Throw thy glove,
+	Or any token of thine honour else,
+	That thou wilt use the wars as thy redress
+	And not as our confusion, all thy powers
+	Shall make their harbour in our town, till we
+	Have seal'd thy full desire.
+	</DIALOGUE>
+</SENATOR_2>
+<ALCIBIADES>
+	<DIALOGUE>
+	Then there's my glove;
+	Descend, and open your uncharged ports:
+	Those enemies of Timon's and mine own
+	Whom you yourselves shall set out for reproof,
+	Fall, and no more; and, to atone your fears
+	With my more noble meaning, not a man
+	Shall pass his quarter, or offend the stream
+	Of regular justice in your city's bounds,
+	But shall be render'd to your public laws
+	At heaviest answer.
+	</DIALOGUE>
+</ALCIBIADES>
+<BOTH>
+	<DIALOGUE>
+	'Tis most nobly spoken.
+	</DIALOGUE>
+</BOTH>
+<ALCIBIADES>
+	<DIALOGUE>
+	Descend, and keep your words
+	</DIALOGUE>
+<DIRECTION>
+The Senators descend, and open the gates.
+</DIRECTION>
+</ALCIBIADES>
+<DIRECTION>
+Enter a Soldier.
+</DIRECTION>
+<SOLDIER>
+	<DIALOGUE>
+	My noble general, Timon is dead;
+	Entomb'd upon the very hem o' the sea:
+	And on his grave-stone this insculpture, which
+	With wax I brought away, whose soft impression
+	Interprets for my poor ignorance.
+	</DIALOGUE>
+</SOLDIER>
+<ALCIBIADES>
+	<DIALOGUE>
+	Here lies a wretched corse, of wretched soul bereft:
+	Seek not my name: a plague consume you wicked caitiffs left!
+	Here lie I, Timon; who, alive, all living men did hate:
+	Pass by, and curse thy fill; but pass and stay not here thy gait.
+	These well express in thee thy latter spirits:
+	Though thou abhorr'dst in us our human griefs,
+	Scorn'dst our brain's flow and those our droplets which
+	From niggard nature fall, yet rich conceit
+	Taught thee to make vast Neptune weep for aye
+	On thy low grave, on faults forgiven. Dead
+	Is noble Timon; of whose memory
+	Hereafter more. Bring me into your city,
+	And I will use the olive with my sword;
+	Make war breed peace; make peace stint war; make each
+	Prescribe to other as each other's leech.
+	Let our drums strike.
+	</DIALOGUE>
+</ALCIBIADES>
+<DIRECTION>
+Exeunt.
+</DIRECTION>
+</SCENE_4>
+</ACT_5>

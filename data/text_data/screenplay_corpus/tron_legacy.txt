@@ -1,0 +1,7617 @@
+<DIRECTION>
+INT. CYBERSPACE
+</DIRECTION>
+<DIRECTION>
+Electric-neon netherworld. Pulsing chromatics over jet black.
+</DIRECTION>
+<DIRECTION>
+CONSTRUCTION CREW toils to complete a vast SWITCHING NEXUS. CYPER-TECH CREWMEN and MACHINERY branded "X-NET".
+</DIRECTION>
+<DIRECTION>
+3D lattice of routers, refractors, reassemblers... New, unused data OPTIK HIGHWAY routes radiate from all sides, crossing cyberspace.
+</DIRECTION>
+<DIRECTION>
+X-Net Tactical Corps troops (herein X-Takks) patrol every inch.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET NEXUS - UNDER CONSTRUCTION
+</DIRECTION>
+<DIRECTION>
+DATA "TRAIN" enters. Sliver of RED DATA ENERGY shunt off, shooting into RANDOM MEMORY BUFFER - geometrically perfect lattice of PLASMA BEAMS and WHITE HOT intersection points.
+</DIRECTION>
+<DIRECTION>
+X-Takks notice, moving to investigate.
+</DIRECTION>
+<DIRECTION>
+DEEP IN THE LATTICE:
+</DIRECTION>
+<DIRECTION>
+Red data "uploads" into solid form. A RED FIGURE. We see from the back - infrared strobing DISK, etched metallic detail, lethal EDGES -
+</DIRECTION>
+<DIRECTION>
+Then slowly he - IT - turns. Hardly a face, only data-hungry eyes, riveted to a TASK -
+</DIRECTION>
+<DIRECTION>
+TRON 2.0.
+</DIRECTION>
+<DIRECTION>
+Seriously upgraded, over-clocked, armed for trouble. The friendly hero we once knew has been re-programmed into a ruthless cyber-ninja.
+</DIRECTION>
+<DIRECTION>
+X-Takks search ten story gantries.
+</DIRECTION>
+<DIRECTION>
+TRON springs into the lattice, dodging PLASMA BEAMS, avoiding detection. Slips into:
+</DIRECTION>
+<DIRECTION>
+INT. NEXUS MAIN SHAFT
+</DIRECTION>
+<DIRECTION>
+X-Takks on high alert.
+</DIRECTION>
+<DIRECTION>
+TRON slips down main shaft, freezes, confirms data. Darts behind MAIN POWER SUPPLY.
+</DIRECTION>
+<DIRECTION>
+Pulls his DISK. DISK opens, extends oscillating DATA KEY.
+</DIRECTION>
+<DIRECTION>
+TRON inserts key in and ENCRYPTION PANEL. Circuits energize. Shockwave quakes system.
+</DIRECTION>
+<DIRECTION>
+POWER SUPPLY OVERLOADS, SHORTING OUT.
+</DIRECTION>
+<DIRECTION>
+X-Takks spot TRON.
+</DIRECTION>
+<X_TAKKS>
+	<DIALOGUE>
+	Intruder! Fix coordinates!
+	</DIALOGUE>
+</X_TAKKS>
+<DIRECTION>
+POLICE POUNCE, FIRING.
+</DIRECTION>
+<DIRECTION>
+Tron pulls hyper-disk off his back and HURLS IT -
+</DIRECTION>
+<DIRECTION>
+DISK strikes cop, fries his circuits. Disk ricochets, brutally accurate, takes out three more Police -
+</DIRECTION>
+<DIRECTION>
+TRON flips into the air - His DISK boomerangs straight for him. Certain death. But his timing is inhumanly accurate. DISK docks on his back midair, lands and bolts.
+</DIRECTION>
+<DIRECTION>
+ALARMS WAIL -
+</DIRECTION>
+<DIRECTION>
+POWER SUPPLY VERGES on MELTDOWN, CIRCUITS FRY, PLASMA SPEWS. X-NET CRISIS TEAM rushes in, inserts MASTER KEY. POWER SUPPLY STABILIZES. Catastrophe averted.
+</DIRECTION>
+<DIRECTION>
+TRON flips away, chased by firing X-Takks -
+</DIRECTION>
+<DIRECTION>
+Arriving on the scene - split-second response:
+</DIRECTION>
+<DIRECTION>
+Elite team of X-NET SECURITY AGENTS, lead by:
+</DIRECTION>
+<DIRECTION>
+RX23 SECURITY LEADER (Cyber-twin of our real-world hero RUSH).
+</DIRECTION>
+<DIRECTION>
+TRON jumps down MAIN SHAFT - a thousand stories. Riding his DISK as a heat shield dodges X-Net fire, swerves into a DATA CHANNEL -
+</DIRECTION>
+<DIRECTION>
+RX23 and a pair of his AGENTS hop on PULSE RIDER vehicles, hotly pursuing TRON.
+</DIRECTION>
+<DIRECTION>
+TRON PLUNGES onto a DATA HIGHWAY - speed out of NEXUS, hurls across cyberspace.
+</DIRECTION>
+<AGENT_1>
+	<DIALOGUE>
+	This is the first time an Intruder has broken into X-Net!
+	</DIALOGUE>
+</AGENT_1>
+<RX23_LEADER>
+	<DIALOGUE>
+	And it's the last. Follow him! Shut him down!
+	</DIALOGUE>
+</RX23_LEADER>
+<DIRECTION>
+They speed onto the OPTIK HIGHWAY.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET OPTIK HIGHWAY
+</DIRECTION>
+<DIRECTION>
+Broadband, light-speed OPTIK HIGHWAY. Empty, except for:
+</DIRECTION>
+<DIRECTION>
+TRON - accelerating, escaping.
+</DIRECTION>
+<DIRECTION>
+Rx23 and AGENTS catch up fast on Pulse Rider Vehicles.
+</DIRECTION>
+<DIRECTION>
+TRON throws his disk. Blings off Agents - triggers CRASH. PLASMA BLAST rips open highway wall.
+</DIRECTION>
+<DIRECTION>
+Rx23 emerges unscathed, pursuing.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE - ANCIENT SYSTEM ZONE
+</DIRECTION>
+<DIRECTION>
+TRON leaps out blast hole, recovers his disk, vanishes into ANCIENT SYSTEM ZONE.
+</DIRECTION>
+<DIRECTION>
+Rx23 roars after him, riding hard, joined by:
+</DIRECTION>
+<DIRECTION>
+Airborne SEARCH ENGINE vehicle, piloted by a dumpy nerd program called KROD.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	I got a lock. Coordinate 32937!
+	</DIALOGUE>
+</KROD>
+<RX23>
+	<DIALOGUE>
+	I'm on him!
+	</DIALOGUE>
+</RX23>
+<DIRECTION>
+RX23 chases Tron into a dark canyon. Hairpin turns and blind curves. RX23 arrives a junction. Tron has vanished.
+</DIRECTION>
+<RX23>
+	<DIALOGUE>
+	Which way did he go?!
+	</DIALOGUE>
+</RX23>
+<DIRECTION>
+INT. ENCOM CORPORATION BETA TEST LAB - DAY
+</DIRECTION>
+<DIRECTION>
+Rabbit warren of computer programmers in crisis mode.
+</DIRECTION>
+<DIRECTION>
+A head shoots up from a cubicle. It's Rush Nortebi, 23, computer security expert. Real world version of the RX23 program. His cubicle is jammed with racks of vintage and bleeding-edge computer gear.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I said WHICH WAY DID HE GO?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Dozens of programmers work feverishly to track the system intruder. Everybody's stumped. Dangling from desk lamps, the company toy: Conical pyramid with a square stuck on top, labeled "X-NET RULES!"
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Come on guys! Nobody hacks X-Net. You gonna let him get away?!
+	</DIALOGUE>
+</RUSH>
+<MILES>
+	<DIALOGUE>
+	Rush, I think I found him!
+	</DIALOGUE>
+</MILES>
+<DIRECTION>
+In the adjacent cubicle: Overweight ultra-nerd MILES RABBISH - real world version of cyberworld Krod.
+</DIRECTION>
+<MILES>
+	<DIALOGUE>
+	Check the old game grid!
+	</DIALOGUE>
+</MILES>
+<DIRECTION>
+Rush jockeys an old Apple LISA computer. On screen: a crude old vector graphics game grid.
+</DIRECTION>
+<DIRECTION>
+A RED FIGURE steps appears the grid.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	You get a cookie, Miles!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Programmers gather to watch Rush in action.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE - THE OLD GAME GRID
+</DIRECTION>
+<DIRECTION>
+Vast, low-rez, uncool, largely forgotten.
+</DIRECTION>
+<DIRECTION>
+TRON pulls a LIGHT WAND from his legging, grips it. A TURBO- CHARGED LIGHT-CYCLE rezzes up beneath him. He fires his LIGHTCYCLE. ZIP, he's gone.
+</DIRECTION>
+<DIRECTION>
+Onto the grid blasts RX23, speeding on his Pulse rider. He skids and swerves, learning the funky surface.
+</DIRECTION>
+<DIRECTION>
+Search Engine flies onto the scene, hovering overhead.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Coordinate 6532.02! There he goes!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+The chase is on.
+</DIRECTION>
+<DIRECTION>
+TRON escapes across the vast grid-plane, head down, eyes hollow. He gains speed, retreating to somewhere...
+</DIRECTION>
+<DIRECTION>
+RX23 surges on his Pulse Rider, closing the gap.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - ENCOM BETA TEST LAB - DAY
+</DIRECTION>
+<DIRECTION>
+Rush gets the hang of this old game.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I haven't played this since I was 4. But I was mighty awesome.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+RED LIGHTCYCLE turns hard 90 degrees, Rush maneuvers to counter.
+</DIRECTION>
+<DIRECTION>
+Co-workers lean over the cubicle walls from all sides:
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Score an ID on this leech?
+	</DIALOGUE>
+</RUSH>
+<MILES>
+	<DIALOGUE>
+	Negative. He's nobody.
+	</DIALOGUE>
+</MILES>
+<KELTER>
+	<DIALOGUE>
+	Rush, you've gotta nail him.
+	</DIALOGUE>
+</KELTER>
+<PHLEGMAN>
+	<DIALOGUE>
+	Or you know we're all fired.
+	</DIALOGUE>
+</PHLEGMAN>
+<DIRECTION>
+Rush baits the RED LIGHTCYCLE. It anticipates his every move, goading him, tailing him.
+</DIRECTION>
+<MILES>
+	<DIALOGUE>
+	Whoa, Rush! I groked a pattern in his moves! Fake left, go right!
+	</DIALOGUE>
+</MILES>
+<DIRECTION>
+INT. CYBERSPACE - GAME GRID
+</DIRECTION>
+<DIRECTION>
+Search Engine flies overhead - Krod locks on Tron.
+</DIRECTION>
+<DIRECTION>
+RX23's Pulse Rider pulls the move, surges up beside red lightcycle.
+</DIRECTION>
+<DIRECTION>
+Tron pulls away, baiting his opponent.
+</DIRECTION>
+<DIRECTION>
+INT. ENCOM CORPORATION BETA TEST LAB - DAY
+</DIRECTION>
+<MILES>
+	<DIALOGUE>
+	You got him on the run, dude!
+	</DIALOGUE>
+</MILES>
+<OTHERS>
+	<DIALOGUE>
+	Crash him! Rush RUSH RUSH.
+	</DIALOGUE>
+</OTHERS>
+<DIRECTION>
+RUSH hits keys, jockeys mouse. Feeling good. Shifts drive status to: "TURBOJECT".
+</DIRECTION>
+<DIRECTION>
+INT. CYBERSPACE - GAME GRID
+</DIRECTION>
+<DIRECTION>
+RX23's Pulse Rider SCREAMS, gaining on Tron. Neck-and-neck.
+</DIRECTION>
+<DIRECTION>
+But Tron suddenly brakes, quitting the chase.
+</DIRECTION>
+<DIRECTION>
+RX23 is puzzled. Looks forward. Eyes spring wide.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - ENCOM CORPORATION BETA TEST LAB - DAY
+</DIRECTION>
+<DIRECTION>
+Rush's screen: His Pulse Rider speeds straight for the rocks.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Yikes!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+CYBERSPACE - GAME GRID
+</DIRECTION>
+<DIRECTION>
+Pulse Rider smashes into rocks, RX23 pulverizes to neon bits. Electro SHOCKWAVE sears across game grid. Search Engine freezes overhead, glitches and CRASHES like a blimp.
+</DIRECTION>
+<DIRECTION>
+All goes white - snow crash.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - ENCOM BETA TEST LAB - DAY
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	He crashed me!
+	</DIALOGUE>
+</RUSH>
+<NERDS>
+	<DIALOGUE>
+	FUBAR! Bad Thing! Flame War!
+	</DIALOGUE>
+</NERDS>
+<RUSH>
+	<DIALOGUE>
+	Miles. Did you get a trace on him?!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Miles stares at his blank screen. Blinking. Every screen in the lab is blank.
+</DIRECTION>
+<PHLEGMAN>
+	<DIALOGUE>
+	We are so screwed.
+	</DIALOGUE>
+</PHLEGMAN>
+<KELTER>
+	<DIALOGUE>
+	Who tells the boss?
+	</DIALOGUE>
+</KELTER>
+<DIRECTION>
+All eyes land on Rush.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Get the system back up! Now! Move!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+EXT. LAWN OF ENCOM CORPORATE CAMPUS - DAY
+</DIRECTION>
+<DIRECTION>
+PRESS CREWS camp a block away.
+</DIRECTION>
+<DIRECTION>
+X-Net PR TEAM preps a media extravaganza. Shirt logo: "X- NET = TOTAL DATA SECURITY" Banners, video projections, music.
+</DIRECTION>
+<DIRECTION>
+X-NET PUBLIC RELATIONS VP leads entourage on a preview.
+</DIRECTION>
+<PR_VP>
+	<DIALOGUE>
+	Weather is holding. Dress rehearsal on for 6PM. In the morning, we let the press in for a 7AM tech set-up, then you go live worldwide 9 AM sharp.
+	</DIALOGUE>
+</PR_VP>
+<DIRECTION>
+Staff defers to: GORDON SINCLAIR (45), boyish, ruthless, brilliant CEO of Encom Corporation.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Delay the press until 8:30. I'll taking the stage at 8:50. Force a network break-in. Then it's news.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+He catches something on a video screen, snaps his fingers.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Play that again.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Crew murmurs on headsets. Promo video replays:
+</DIRECTION>
+<VIDEO_PLAYBACK>
+	<DIALOGUE>
+	X-Net deploys radical software design, constructs proprietary white-hot firewalls, unleashes virus killer apps. Creating the most secure data network in history. Your data can never again be hacked, corrupted, stolen or destroyed. X-Net is the final solution, totally guaranteed 99.999% secure data transmission -
+	</DIALOGUE>
+</VIDEO_PLAYBACK>
+<SINCLAIR>
+	<DIALOGUE>
+	Who changed that? Who put "99.999"?
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+X-Net executives chill.
+</DIRECTION>
+<PR_VP>
+	<DIALOGUE>
+	Um, that would be... Legal.
+	</DIALOGUE>
+</PR_VP>
+<DIRECTION>
+Eyes land on withering LEGAL VP.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Change it back to the way I wrote it. With the launch of X-Net, this company guarantees one hundred percent secure data transmission. If we can't deliver on that promise, we deserve to be out of business.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Rush appears from a building. Signals Sinclair aside.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	What can't wait, Rush?
+	</DIALOGUE>
+</SINCLAIR>
+<RUSH>
+	<DIALOGUE>
+	Um. X-Net was just breached by a hacker.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+SINCLAIR goes pale.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	System's back up, no permanent damage, but... But whoever's behind this, they're good, and they're still out there.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+INT. SINCLAIR'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Sprawling, big bucks, basketball hoop.
+</DIRECTION>
+<DIRECTION>
+Sinclair enters, alone. Closes door. Uses a retinal scan ID to access his computer. Secure connection opens. As he speaks, text instantly appears:
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Identify the intruder.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+EXT. CYBERSPACE
+</DIRECTION>
+<DIRECTION>
+Flashing circuitry, machine code bit-storm. We follow Sinclair's text message data stream
+</DIRECTION>
+<DIRECTION>
+Min-blowing cyberspace fly-over.
+</DIRECTION>
+<DIRECTION>
+DATA BEAM penetrates a towering shaft, reaching deep inside the MASSIVELY FORTIFIED X-NET CENTRAL SERVER.
+</DIRECTION>
+<DIRECTION>
+INT. CYBERSPACE - X-NET CENTRAL SERVER / INNER SANCTUM
+</DIRECTION>
+<DIRECTION>
+LONE FIGURE stands clothed in flashy cyber-armor: Fluid photons, oozing high-rez circuitry.
+</DIRECTION>
+<DIRECTION>
+It's PLEXOR, cyber-twin of real-world Sinclair.
+</DIRECTION>
+<DIRECTION>
+He crosses into an round inner sanctum. DATA STREAM radiates from above.
+</DIRECTION>
+<DIRECTION>
+PLEXOR stands in the center, pulls his DISK off his back, raises it above his head.
+</DIRECTION>
+<DIRECTION>
+Data stream converges onto disk, becomes a tight RUBY RED COMMUNICATION BEAM.
+</DIRECTION>
+<DIRECTION>
+Plexor's eyes decode transmission. Text races across his eyes: IDENTIFY THE INTRUDER.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Identity not captured.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+INTERCUT WITH:
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - SINCLAIR'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Other side of the link. Real-world Sinclair reads text as it appear on his office screen: IDENTITY NOT CAPTURED.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	How did he enter X-Net?
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+His text inputs. Answer comes: "Path untraceable"
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	How could you let this happen?
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+INT. CYBERSPACE - PLEXOR'S INNER SANCTUM
+</DIRECTION>
+<DIRECTION>
+Plexor processes the input - remains emotionless.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	I do what you programmed me to do. I am constructing X-Net.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+INT. ENCOM CORPORATION - SINCLAIR'S OFFICE - DAY
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	New instructions - find and destroy the intruder!
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Text reply: "Resource allocation reconfiguration required. Estimated delay to X-Net construction: 46.4 hours."
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	No. We can't delay the opening of X- Net. Disregard my last command. Maintain construction priority.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Sinclair cuts off the contact, pressure mounting.
+</DIRECTION>
+<DIRECTION>
+INT. CYBERSPACE - PLEXOR'S INNER SANCTUM
+</DIRECTION>
+<DIRECTION>
+Ruby beam goes dark. Plexor lowers his disk. His eyes are cold, his confidence supreme.
+</DIRECTION>
+<DIRECTION>
+INT. ENCOM CORPORATION CONFERENCE ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Crisis management team assembles. Nervous X-Net Senior Staff.
+</DIRECTION>
+<DIRECTION>
+Rush arrives late, out of breath, determined. Joins Phlegman and Kelter.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	System is stable again, keep you fingers crossed.
+	</DIALOGUE>
+</RUSH>
+<PHLEGMAN>
+	<DIALOGUE>
+	Any luck finding the intruder?
+	</DIALOGUE>
+</PHLEGMAN>
+<RUSH>
+	<DIALOGUE>
+	Don't ask.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+RUSH notices across the room: Brilliant, beautiful MEGAN RANDALL, his age. Her security ID: "LEVEL BLACK".
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	What's she doing here? This is an operations meeting.
+	</DIALOGUE>
+</RUSH>
+<KELTER>
+	<DIALOGUE>
+	You and Meg still, eh... At it?
+	</DIALOGUE>
+</KELTER>
+<RUSH>
+	<DIALOGUE>
+	There was never anything between us.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Kelter and Phlegman trade a look. Sure.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	She's Advanced Projects. This has nothing to do with her.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Sinclair storms in. Room falls silent.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	This company's existence depends on the flawless launch of X-Net in twenty- two hours, fifty-one minutes. Now somebody - some hacker, some competitor, somebody - just proved they're smarter than us. Breaking into X-Net is theoretically impossible.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Everybody looks at Rush.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	This creep's the best I've ever seen. He crosses platforms, cracks 128 bit encryption, cloaks every move, never leaves a trace.
+	</DIALOGUE>
+</RUSH>
+<SINCLAIR>
+	<DIALOGUE>
+	When you find him, I'll be sure to hire him.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Chuckles around the room. Mood chills: Sinclair's not laughing.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Boys and girls, we cannot sell a secure network that is not secure.
+	</DIALOGUE>
+</SINCLAIR>
+<PR_VP>
+	<DIALOGUE>
+	We delay the launch.
+	</DIALOGUE>
+</PR_VP>
+<SINCLAIR>
+	<DIALOGUE>
+	And the world assumes we've got a faulty product. And they'd be right.
+	</DIALOGUE>
+</SINCLAIR>
+<KELTER>
+	<DIALOGUE>
+	We ramp up our encryption schemes -
+	</DIALOGUE>
+</KELTER>
+<PHLEGMAN>
+	<DIALOGUE>
+	Thicken all firewalls -
+	</DIALOGUE>
+</PHLEGMAN>
+<RUSH>
+	<DIALOGUE>
+	We can't win playing defense. And it's a bigger job than just swatting an intruder program. Somewhere, there's a human mind behind this thing. We have to get to that User and shut him - or her - down, or the game never ends.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Meg listens quietly. Studies Rush.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	What do you need, Rush?
+	</DIALOGUE>
+</SINCLAIR>
+<RUSH>
+	<DIALOGUE>
+	20 guys for 20 days -
+	</DIALOGUE>
+</RUSH>
+<SINCLAIR>
+	<DIALOGUE>
+	We don't have 20 hours. This problem needs to be gone before tomorrow 9AM. Come on people, this company's future is at stake! It's time to think without a box!
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Minds ponder grimly. Finally, a lone VP rises. It's RUDY, the company Archivist.
+</DIRECTION>
+<RUDY>
+	<DIALOGUE>
+	At a time like this, let's seek inspiration in the past. We should ask ourselves: What solution would spring from the inspired mind of our departed leader, Flynn.
+	</DIALOGUE>
+</RUDY>
+<DIRECTION>
+He's got an obituary photo of FLYNN, Encom's legendary previous - and deceased - CEO.
+</DIRECTION>
+<DIRECTION>
+Groans around the table. Execs rolls their eyes, disses Rudy's idea. Flynn has become a stale company joke.
+</DIRECTION>
+<DIRECTION>
+Rudy sheepishly sits.
+</DIRECTION>
+<DIRECTION>
+But Sinclair stops behind Rudy, eyes fixed on the photo of Flynn. An idea takes hold. He looks to Meg.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Is the QF-401 is operational?
+	</DIALOGUE>
+</SINCLAIR>
+<MEG>
+	<DIALOGUE>
+	Um... Midway into phase one testing.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Confusion among execs. Nobody knows what a "QF-401" is. Not even Rush.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	If we can't fight this intruder from the outside, then maybe we need to fight him from the inside.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Meg's mind races.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	I'm ready to do my part.
+	</DIALOGUE>
+</MEG>
+<SINCLAIR>
+	<DIALOGUE>
+	This company needs a hero. Who among you is the smartest, most resourceful and courageous?
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Looks trade around the table. Meg slowly rises, indicating her choice.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	Who else could it be?
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+She's singled out Rush.
+</DIRECTION>
+<DIRECTION>
+INT. ENCOM CORP CORRIDOR - SECURE ELEVATOR - DAY
+</DIRECTION>
+<DIRECTION>
+Meg leads Sinclair and Rush to a SECURE ELEVATOR. Her retinal scan ID opens the door. They step in.
+</DIRECTION>
+<DIRECTION>
+INT. ENCOM SECURE ELEVATOR - GOING DOWN - MOMENTS LATER
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Somebody going to tell me what I've been volunteered for?
+	</DIALOGUE>
+</RUSH>
+<SINCLAIR>
+	<DIALOGUE>
+	Rush, you're the only one I can trust to eliminate the intruder. But you won't be doing it the way you thought. Meg's been working on something down here that's, well... Beyond Top Secret.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Rush drills a look at Meg, but she keeps it all business.
+</DIRECTION>
+<DIRECTION>
+INT. ENCOM ADVANCED RESEARCH LAB - MOMENTS LATER
+</DIRECTION>
+<DIRECTION>
+Out the elevator, Meg leads them into a maze of ultra-tech gear.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	This is where Flynn worked. And where he died.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Amid sleek new equipment, there's a glass cabinet housing a CHARRED REMNANT of strange machinery.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Meg has reconstructed Flynn's last project. This time it works.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Mega signals lab assistant DEWEY. He pokes buttons: A MASSIVE TECHNICAL DEVICE unfolds and boots up.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	You didn't pick this up at Circuit City. What is it?
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	A Quantum Digitizer. Prototype, only one of its kind. Flynn designed it to break down physical objects into high resolution data. Luckily, we salvaged his key components and back-engineered the system.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+She opens a cage, places her LAB RAT (Jo-Jo) on a target stage. Dewey boots controls, presses commands. Beam array scans the rat into the computer, forming a 3D rat-image on screens, dematerializing the physical rat. Device revs down.
+</DIRECTION>
+<DIRECTION>
+Rush runs his hand over the empty target stage.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	That's... Not possible.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Lab rat has vanished from the physical world. Its digitized image rotates on monitors.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	Flynn was trying to take it one step further. He wanted to transport a human being into cyberspace.
+	</DIALOGUE>
+</MEG>
+<RUSH>
+	<DIALOGUE>
+	You mean the urban legends? A computer sucked Flynn into cyberspace a long time ago.
+	</DIALOGUE>
+</RUSH>
+<SINCLAIR>
+	<DIALOGUE>
+	We think it happened.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Meg agrees. Rush gets a chill.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	It was a fluke. But Flynn worked for years, down here, trying to make it happen again. One day a test went bad. A plasma reaction destroyed this lab. Flynn was reduced to ash.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Rush views the charred remains in the glass case. Photos of the destroyed lab. Spooky evidence of a hellish death scene.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I was never told how he died. It was all just weird, you know, because Flynn's the guy who hired me. But he was strange, kept to himself, I didn't know what job I was supposed to be doing.
+	</DIALOGUE>
+<DIRECTION>
+(to Sinclair)
+</DIRECTION>
+	<DIALOGUE>
+	Then you came onboard, the company woke up, we had a direction. It was kind of pathetic, because by the time Flynn died, everybody was too busy to care.
+	</DIALOGUE>
+</RUSH>
+<SINCLAIR>
+	<DIALOGUE>
+	He was brilliant in his way, but genius without discipline leads to nothing. His reckless habits nearly ruined this company... And for sure got him killed.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+A last look at the charred remains of Flynn's machine.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	That kind of accident can't happen again. We've upgraded the system in ways Flynn never could. The chips didn't exist until now.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+She presses commands. Beams re-materialize the lab rat on the target stage. Jo-jo is as good as new.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	Hey, Jo-Jo. Have good trip?
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+She puts the rat in on her shoulder, feeds it a tidbit. Then she scrutinizes Rush.
+</DIRECTION>
+<DIRECTION>
+Rush considers Meg, then turns to Sinclair.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	You want her to send me into cyberspace to catch that jerk who hacked us?
+	</DIALOGUE>
+</RUSH>
+<SINCLAIR>
+	<DIALOGUE>
+	The future of this company depends on it.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Rush looks to Meg. She offers a reassuring nod.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	You can bring me back okay?
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	Ask Jo-Jo.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Lab rat is perched happily on her shoulder.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Destroy the intruder by 9AM tomorrow, Rush. I know if anyone can, it's you. I've had my eye on you for a long time. Score this hit and I'll make you my full partner in this company.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Rush is awe-struck. Ready, willing, able. He shakes Sinclair's hand, sealing the deal.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I won't let you down. Let's do it.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Meg removes target stage, swings a custom TARGET CHAIR in place. Rush lowers in place. Meg buckles him in. Last chance for a private word:
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	I promise I'll get you back safely by 9AM tomorrow. But you have to promise me something too -
+	</DIALOGUE>
+</MEG>
+<RUSH>
+	<DIALOGUE>
+	You're a piece of work. You dumped me because you said I was too much about the company's needs and not enough about yours. Well here we are, the company needs their best guy, and you just can't admit how much to hurts to nominate me.
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	This bigger than us, Rush. Listen to me. I don't know what you're going to find in there, but whatever it is, promise you'll follow your heart and do the right thing.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Rush stares at here, in shock.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Oh. So you think I have a heart?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Meg breaks away, retreating to the controls with Sinclair. Rush's trails her with his eyes - he can't stop looking.
+</DIRECTION>
+<RUSH>
+<DIRECTION>
+(under his breath)
+</DIRECTION>
+	<DIALOGUE>
+	I promise.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Meg initiates Quantum Digitizer sequence.
+</DIRECTION>
+<DIRECTION>
+Rush watches PULSING CHROMATIC LIGHT build down the unit's column, coming toward him.
+</DIRECTION>
+<DIRECTION>
+Plasma strobes CYAN/MAGENTA. Unit HUMS... Then GROANS WILDLY. Flashes randomize. Something's off balance -
+</DIRECTION>
+<DIRECTION>
+Meg worries. Moves for the "abort" button.
+</DIRECTION>
+<DEWEY>
+	<DIALOGUE>
+	It's overloading!
+	</DIALOGUE>
+</DEWEY>
+<DIRECTION>
+Unit sparks. Ceramic components STRESS and CRACK.
+</DIRECTION>
+<DIRECTION>
+Rush clenches his seat, terrified.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	What's happening?!
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	System is losing stability!
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Sinclair sees: Monitor sounds company-wide alert: "X-NET BREECH! INTRUDER DETECTED!"
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	There's been another breech!
+	</DIALOGUE>
+</SINCLAIR>
+<RUSH>
+	<DIALOGUE>
+	It's the Intruder again!
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	We have to abort!
+	</DIALOGUE>
+</MEG>
+<SINCLAIR>
+	<DIALOGUE>
+	We might not get another chance!
+	</DIALOGUE>
+</SINCLAIR>
+<RUSH>
+	<DIALOGUE>
+	DO IT!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Sinclair pulls Meg's hand from the "abort" button and slams his hand on "DIGITIZE".
+</DIRECTION>
+<DIRECTION>
+BEAM ARRAY scans Rush's body, reducing it to bits -
+</DIRECTION>
+<DIRECTION>
+Meg worries -
+</DIRECTION>
+<DIRECTION>
+Sinclair dives for cover -
+</DIRECTION>
+<DIRECTION>
+PLASMA BALL engulfs Quantum Digitizer.
+</DIRECTION>
+<DIRECTION>
+FINAL BITS of Rush scan away.
+</DIRECTION>
+<DIRECTION>
+Plasma ball FRIES the unit. Breakers trip. Power fades.
+</DIRECTION>
+<DIRECTION>
+Meg and Sinclair come up to find:
+</DIRECTION>
+<DIRECTION>
+Quantum Digitizer: In a smoking heap.
+</DIRECTION>
+<DIRECTION>
+Target chair: Empty.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE TRANSITION
+</DIRECTION>
+<DIRECTION>
+Light-speed thrill-ride, hurling into digital chaos.
+</DIRECTION>
+<DIRECTION>
+Rush's electrified body hurtles across the void, eyes filled with TERROR and AWE.
+</DIRECTION>
+<DIRECTION>
+TRANSFORMS TO:
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE - X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+Shimmering bits morph into an awesome cyberscape.
+</DIRECTION>
+<DIRECTION>
+Rush enters this bizarre world - CRASH/FLASH - stranger in a strange land. Data energy ZAPS off his body, interacting with the landscape circuitry around him. He fights it, tries to control it.
+</DIRECTION>
+<DIRECTION>
+Rush stands, beholds the place. Looks at his hands and arms, clad in circuitry. He finds he had landed outside:
+</DIRECTION>
+<DIRECTION>
+Fortress-like X-NET CENTRAL SERVER. ALARMS SOUNDING inside.
+</DIRECTION>
+<DIRECTION>
+He turns, looks up a FIREWALL. Hundreds of X-Takk Troops hurry to look down. FIRING WEAPONS.
+</DIRECTION>
+<DIRECTION>
+A FIGURE comes at him, down the wall, STREAKING RED.
+</DIRECTION>
+<DIRECTION>
+BLAMMO!
+</DIRECTION>
+<DIRECTION>
+TRON lands on a plateau above Rush, gazing down.
+</DIRECTION>
+<DIRECTION>
+They face each other, equally perplexed.
+</DIRECTION>
+<DIRECTION>
+Rush is no longer human, but not quite a program either. Energy zaps off his body, infusing the surrounding circuitry.
+</DIRECTION>
+<DIRECTION>
+Tron stares, unblinking - Cyber-Ninja.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	It's YOU! The intruder!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush's body circuits PULSE with anger - data surges out his feet, across floor circuitry, up to the plateau. Energy interacts with Tron's body circuits, siphoning off bits of code.
+</DIRECTION>
+<DIRECTION>
+Code races across Rush's eyes. Identification data.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	You are... TRON?!?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+X-Takks hustle onto the scene.
+</DIRECTION>
+<DIRECTION>
+Tron leaps off the plateau, cutting the data connection. He whips his disk off his back and THROWS.
+</DIRECTION>
+<DIRECTION>
+Disk SLAMS Rush in the gut, knocks him flat.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	ARRRGHH!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+X-Takks pursue Tron -
+</DIRECTION>
+<DIRECTION>
+Tron recovers his disk - vanishes in an OUTBOUND DATA STREAM, losing his pursuers.
+</DIRECTION>
+<DIRECTION>
+X-Takks pull Rush to his feet, shocked.
+</DIRECTION>
+<X_TAKK_1>
+	<DIALOGUE>
+	RX23?!
+	</DIALOGUE>
+</X_TAKK_1>
+<X_TAKK_2>
+	<DIALOGUE>
+	But... You crashed irrecoverably!
+	</DIALOGUE>
+</X_TAKK_2>
+<RUSH>
+	<DIALOGUE>
+	Uh, well, I'm not exactly -
+	</DIALOGUE>
+</RUSH>
+<X_TAKK_3>
+	<DIALOGUE>
+	RX23 has been rebooted!
+	</DIALOGUE>
+</X_TAKK_3>
+<VOICE>
+	<DIALOGUE>
+	RX23 reboot was not authorized!
+	</DIALOGUE>
+</VOICE>
+<DIRECTION>
+Pushing through Police: A sleek, smart cyber-babe MEGA. (She's Meg's cyber-twin: Twice the edge, half the patience, all the curves.)
+</DIRECTION>
+<DIRECTION>
+Rush is awed by the sight of her.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Yow. I know who programmed you.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	I am Mega, X-Net Intelligence.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Mega. Cool. I am -
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	A spy? Posing as RX23? Under which register were you rebooted?
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	I'm a User.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega and X-Takks look at him like he's crazy.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Detain this impostor.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+X-Takks move to seize Rush.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	No wait, look. We're on the same side here. I got an ID on the intruder!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega touches Rush, exciting his energy flow. She reads data streaming in his eyes - TRON'S ID info.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	"Tron"?
+	</DIALOGUE>
+</MEGA>
+<X_TAKK_2>
+	<DIALOGUE>
+	How did he get that??
+	</DIALOGUE>
+</X_TAKK_2>
+<MEGA>
+	<DIALOGUE>
+	Plexor must know of this!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+EXT. CENTRAL CONTROL SERVER
+</DIRECTION>
+<DIRECTION>
+Mega and X-Takks escort Rush across bridges, in security portals. Firewalls cool and part, allowing them to pass.
+</DIRECTION>
+<DIRECTION>
+Down a grand corridor, past towering energy columns and throbbing green memory banks. They cross a bridge. View includes: Vast square concentric security rings surround a massive cubic POWER SUPPLY CORE.
+</DIRECTION>
+<DIRECTION>
+INT. PLEXOR CPU
+</DIRECTION>
+<DIRECTION>
+Plexor toils over the latest security breech, failing to decipher recordings of the Intruder.
+</DIRECTION>
+<DIRECTION>
+Rush is brought in buy Mega. He double-takes on Plexor, the cyber-twin of Sinclair.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Plexor. This is the one.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Plexor steps closer, scanning Rush.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	You are not RX23.
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	My name is Rush. I'm a - Look, I got an ID on the Intruder. Do you know the program they used to call Tron?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Plexor activates memory banks. Accesses archive files of the original low-rez Tron: So harmless, so many years ago. Bears little resemblance to the upgraded Tron.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	You are in error. Zero match.
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	Exactly. That's how he's getting past you. You don't see him for what he is. He's one of your own, gone bad. Tron was a crude security program from Encom's old days. Strictly low-rez, right? Archived and forgotten. But his source code contains all the architecture of every Encom system, including X-net. That's why some smart User dusted him off and upgraded him -
+	</DIALOGUE>
+</RUSH>
+<PLEXOR>
+	<DIALOGUE>
+	"User"?
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	People. Like me. From the outside. People who write all of your instructions.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Plexor and Mega trade a look.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	He displays random instability.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	Users do not exist.
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	How do we contact Sinclair? He'll explain.
+	</DIALOGUE>
+</RUSH>
+<PLEXOR>
+	<DIALOGUE>
+	Define "Sinclair".
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	You don't know? Oh geez. There must be a way to link him into this.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush touches Plexor's command console, but his energy OVERLOADS the system -
+</DIRECTION>
+<DIRECTION>
+X-Takks pull Rush away.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Zero match for a "Sinclair".
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	He's your boss. Everybody's boss. Outside, in the real world.
+	</DIALOGUE>
+</RUSH>
+<PLEXOR>
+	<DIALOGUE>
+	Assuming the existence of a world beyond this, is a fatal error.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Plexor issues all commands.
+	</DIALOGUE>
+</MEGA>
+<X_TAKKS>
+	<DIALOGUE>
+	Grep grep.
+	</DIALOGUE>
+</X_TAKKS>
+<DIRECTION>
+Rush considers his predicament.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Okay. Sorry. I'm a program, guess I got a piece of my code corrupted. Whatever it is, it's given me power over Tron.
+	</DIALOGUE>
+<DIRECTION>
+(to X-Takks and Mega)
+</DIRECTION>
+	<DIALOGUE>
+	They saw me read his circuits. Can any other program do that?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Plexor looks to Mega.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	He creates alternative data channels at will.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	Chaos.
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	Yeah, I'm a little unstable. But I can find Tron for you.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Plexor processes. His eyes stream barcode data to X-Takks:
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Release him.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+X-Takk Troops read Plexor's barcode command with their eyes.
+</DIRECTION>
+<DIRECTION>
+They let go of Rush.
+</DIRECTION>
+<DIRECTION>
+Plexor turns to Mega. Issues more barcode.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Interface with this one. Exploit his ability. Locate the program "Tron" and destroy him on sight.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Instructions received, Plexor.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Mega exits with Rush. Plexor's gaze lingers on Rush.
+</DIRECTION>
+<DIRECTION>
+EXT. CENTRAL CONTROL SERVER
+</DIRECTION>
+<DIRECTION>
+Security PORTAL opens.
+</DIRECTION>
+<DIRECTION>
+Ultra sleek STRAITHE vehicle glides out, accesses a shiny new, EMPTY X-NET DATA OPTIK HIGHWAY.
+</DIRECTION>
+<DIRECTION>
+INT. STRAITHE VEHICLE - RACING DOWN X-NET OPTIK HIGHWAY
+</DIRECTION>
+<DIRECTION>
+Mega at the controls. Rush rides, beholding the lightshow wonder of Cyberspace.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I need to find a program called KROD. He's a specialist in pattern recognition. He snagged the last known position on Tron for me.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega scans data, gets a fix on "KROD".
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	This is a waste of X-Net resources. You're strictly random. We will never find the intruder this way.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Plexor ordered us to work together. You can't doubt his instructions, right?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Of course not. But I am programmed to predict all possible errors. You contain an infinite quantity.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Meg for sure programmed you.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	I have no data on "Meg".
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Never mind. I'm being random.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega speeds along empty X-Net OPTIK HIGHWAY. Wide, secure, newly constructed. High above the tangle of chaotic, clogged OLD DATA ARTERIES.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	X-Net is amazing. It's going to change everything. Unless one rogue program called Tron brings it down. Do you believe he could?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	I calculated the probability.
+	</DIALOGUE>
+<DIRECTION>
+(soberly)
+</DIRECTION>
+	<DIALOGUE>
+	He could crash it all.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	So we're working together on this?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	As instructed, I will interface.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Mega pulls STRAITHE into:
+</DIRECTION>
+<DIRECTION>
+INT. X-NET SWITCHING NEXUS/HUB CITY
+</DIRECTION>
+<DIRECTION>
+Construction nearly complete. High security.
+</DIRECTION>
+<DIRECTION>
+Mega leads Rush to secured encryption gates. Her eyes light with data, the gate opens.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	The program "KROD" is over there.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Across a bridge: An old-network HUB CITY. Like Hong Kong in wilder days. Jammed with Programs, colorful data, loud data transfer screams.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	What a dump.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+He heads across, but Mega hesitates.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Hey. Interface.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega grudgingly follows. Portal closes.
+</DIRECTION>
+<DIRECTION>
+EXT. HUB CITY
+</DIRECTION>
+<DIRECTION>
+Electro-pop overload. Rush and Mega squeeze through crowds, past screaming data pipes and sizzling circuitry.
+</DIRECTION>
+<DIRECTION>
+City is dominated by mugshots of TRON: "ENEMY OF THE FUTURE"
+</DIRECTION>
+<DIRECTION>
+Mega locates a gleaming X-NET KIOSK. A PROMOTER (KROD) extoles the virtues of the X-Net system:
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Three more hub cities have been attacked by viruses!
+	</DIALOGUE>
+<DIRECTION>
+(crowd gets scared)
+</DIRECTION>
+	<DIALOGUE>
+	But X-Net opens soon! You will travel in total security!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Crowd buzzes. They can't wait.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	This is the one you seek?
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Rush approaches Krod. Looks like Miles Rabbish. There's a bizarre moment of recognition between them.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	It's gotta be -
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Krod!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Krod!
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Yeah, yeah - Heeey!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	The best pattern recognition program ever.
+	</DIALOGUE>
+<DIRECTION>
+(to Mega)
+</DIRECTION>
+	<DIALOGUE>
+	This guy can filter a river of junk data and pull out the good stuff.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	You know it, dude!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Krod smiles big at Mega, refers to Rush:
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Who is this guy?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush pulls Krod aside.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Miles - I mean Krod, you flew the search engine. You ran a trace on a hotshot lightcycle rider. The red guy. Remember?
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Well. Eh. I'd like to help you, but truth is, I just got rebooted from a big crash. There's nothing left in my memory from before.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+He taps his head.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	This will yield zero.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Hang on.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush thinks, touches a surface. Concentrates. Circuitry zaps from data coming off his hands. Connections illuminate, data races around walls and floors.
+</DIRECTION>
+<DIRECTION>
+Programs stop what they're doing, amazed by the feat.
+</DIRECTION>
+<DIRECTION>
+Mega is astonished - and privately worried.
+</DIRECTION>
+<DIRECTION>
+Rush's data flow illuminates surfaces with images from HIS memory - the opening light cycle race.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Remember, Krod? You were watching this lightcycle duel, a red guy and a green guy, head-to-head.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Krod gawks at the image, but he's stumped.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	The green guy faked out the red guy, but the red guy double-faked the green guy.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Bingo.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Okay! YES! And the green guy splattered big time! It was awesome! How could I forget that?!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Splat happens in Rush's memory image. All goes white.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Where did the red guy go after that? You didn't crash right away.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	He escaped out this hidden exit -
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Krod's points to another screen. "Wanted" image of Tron.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	THAT GUY! The RED GUY!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Did you jack his coordinate?
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Tr165444.018!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+They slap high fives. Krod double-takes on Rush.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	And the green guy was YOU! You got rebooted?! They called you, um - Don't tell me, I got it, eh -
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Call me Rush.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Yeah! Whatever. You're good. How'd you do that thing with your hands?
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	It's complicated. You're coming with us to the old game grid. We're going to find Tron and shut him down.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Beats working.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+They head out. Krod falls in beside Mega, impressed by her.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Hey babe. Did I ever know you?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+EXT. ANCIENT COMPUTER SYSTEM I/O PORT
+</DIRECTION>
+<DIRECTION>
+Rush, Krod and Mega head deep into an obsolete, abandoned region of low-rez circuitry.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	The old game grid is this way -
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+He spins. Rush and Mega aren't behind him. They've climbed inside a defunct I/O Port: Like a retro-tech temple.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	How do I uplink to the real world?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	The real world doesn't exist. Nobody can uplink. These ports were for simulation only.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Right... But how did those poor misguided fools boot up the link?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	They stood in the center. Held their disk above their head.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Rush pulls his disk off his back, aims it skyward. Concentrates. Energy flows off his feet, interacts with the I/O Port floor.
+</DIRECTION>
+<DIRECTION>
+RUBY COMMUNICATION BEAM shoots skyward.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - SINCLAIR'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Kelter and Phlegman report to Sinclair:
+</DIRECTION>
+<KELTER_PHLEGMAN>
+	<DIALOGUE>
+	Intruder attempted another break-in. We patched the firewall, but our manpower getting is maxed out.
+	</DIALOGUE>
+</KELTER_PHLEGMAN>
+<SINCLAIR>
+	<DIALOGUE>
+	Stay on it! Nobody sleeps!
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Guys hustle out. Sinclair wheels, as Meg storms in.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	There's a message on your secure link!
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Sinclair enters retinal ID. Text forms:
+</DIRECTION>
+<DIRECTION>
+INTRUDER IDENTIFIED.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Where is this coming from - ?
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Meg hurries to the screen.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	It's HIM.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Text appears: I AM RUSH.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	My God, he's there.
+	</DIALOGUE>
+</SINCLAIR>
+<MEG>
+	<DIALOGUE>
+	Rush, it's Sinclair and Meg.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Her words transform into text.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE - ANCIENT I/O PORT
+</DIRECTION>
+<DIRECTION>
+Rush raises his disk, beaming data into the great unknown. Smiles as he downloads the response.
+</DIRECTION>
+<DIRECTION>
+Mega and Krod watch nearby.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I identified the intruder.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+I/O PORT walls ZAP ENERGY, STRESSING Rush's CONNECTION -
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - SINCLAIR'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Text appears: INTRUDER IS UPGRADED VERSION OF TRON.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Tron? Wasn't Tron one of our programs?
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Sinclair and Meg trade baffled looks.
+</DIRECTION>
+<DIRECTION>
+INT. CYBERSPACE - X-NET NEXUS
+</DIRECTION>
+<DIRECTION>
+Plexor oversees construction. X-Takk Commander points to something in the distance.
+</DIRECTION>
+<DIRECTION>
+Beyond the horizon, the RUBY RED BEAM reaches to the heavens.
+</DIRECTION>
+<DIRECTION>
+Plexor sees it, alarmed.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE - ANCIENT I/O PORT - MORNING
+</DIRECTION>
+<DIRECTION>
+Text forms in magenta circuitry - GOOD WORK PARTNER.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I have a plan to crash Tron.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega turns with alarm.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	ABORT!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Walls THUNDER and CRASH IN -
+</DIRECTION>
+<DIRECTION>
+Rush leaps clear with his disk -
+</DIRECTION>
+<DIRECTION>
+MASSIVE ROMBALL (data reformatting orb) hurtles around the I/O Port, ZAPPING all it touches, de-rezzing data structures into neutral gray "blank matter".
+</DIRECTION>
+<DIRECTION>
+ROMBALL loops skyward.
+</DIRECTION>
+<DIRECTION>
+GIANT D-REZZ PROGRAM crashes down from above, retrieves ROMBALL - He's ENORMOUS, TOUGH, SINGLE-MINDED.
+</DIRECTION>
+<DIRECTION>
+INT. ENCOM CORPORATION - SINCLAIR'S OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+Sinclair and Meg hang on the broken transmission:
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	Rush?
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Words appear: END OF LINE.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	He'd better not fail.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+EXT. ANCIENT COMPUTER SYSTEM I/O PORT
+</DIRECTION>
+<DIRECTION>
+D-Rezz screams like a modem, hurls ROMBALL -
+</DIRECTION>
+<DIRECTION>
+Mega and Krod dive clear -
+</DIRECTION>
+<DIRECTION>
+ROMBALL misses them, but BLAZES DOWN two more I/O Ports. D- rezz retrieves ROMBALL, bears down on Mega and Krod.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Hey! Double points if you nail me! Bring it on!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-Rezz turns his ugly sights on Rush, baited away from Mega and Krod.
+</DIRECTION>
+<DIRECTION>
+D-rezz flexes and ROARS, revealing an X-NET LOGO on his chest.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Stop! End your routine!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-rezz corners Rush, hurls his ROMBALL - Ball fires every circuit in its path, bleaching away data energy.
+</DIRECTION>
+<DIRECTION>
+Rush dodges -
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Cease! Desist! We're on the same team!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega throws her disk, plings D-rezz on the skull. D-rezz turns on her -
+</DIRECTION>
+<DIRECTION>
+Rush runs, LEAPS on D-Rezz's back. Like riding a gorilla -
+</DIRECTION>
+<DIRECTION>
+D-Rezz flips Rush to the ground, pins him with one mighty hand, raises his ROMBALL for the kill.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I'm X-Net too!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Data flows from Rush's body, up D-Rezz's clamping arm. Radiant energy between predator and prey.
+</DIRECTION>
+<DIRECTION>
+Digits race in D-rezz's eyes. A code unlocks. He looks down, finally registering the X-Net markings on Rush's outfit.
+</DIRECTION>
+<DIRECTION>
+D-Rezz lets go of Rush, slumps back on his haunches. Lowers his head in shame.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	No, hey, hey big guy, don't take it so hard. We all have bad days.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+RUSH rolls the BIG ROMBALL over: A peace offering.
+</DIRECTION>
+<DIRECTION>
+Mega and Krod cautiously approach.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	He was carrying out his programming. All I/O Ports are scheduled for de- rezz.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+D-rezz hears this, happy to be understood. (He never talks.)
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Easy, big guy. No harm, no foul.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	D-Rezz, we can use a guy with your raw power. You ready to be a hero for X-Net?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-Rezz stands, clutches his ROMBALL. Reporting for duty.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Cool. Now I've got somebody I can boss around.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+D-rezz modem-growls at Krod.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Or not.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Let's get to the game grid.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush leads them up an incline.
+</DIRECTION>
+<MEGA>
+<DIRECTION>
+(grudgingly, to Rush)
+</DIRECTION>
+	<DIALOGUE>
+	You have a skill for manipulating other programs.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	When do I get a shot at hacking your code?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Never. Our operating systems are incompatible.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	You act like I've got a virus.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+They come to a spectacular vista of the OLD GAME GRID. Low resolution, uncool, largely forgotten.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	There it is.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	The place we nail Tron.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+EXT. GAME PORTAL OUTPOST
+</DIRECTION>
+<DIRECTION>
+Obsolete, abandoned computer game entry portal, guarding entry to the old game grid beyond. An electro-tech carnival zone gone dark. No life in sight... Then:
+</DIRECTION>
+<DIRECTION>
+Beam of DATA ENERGY sling-shots at ground level, solidifying to become:
+</DIRECTION>
+<DIRECTION>
+A slender, jumpy Program called I-BEEM. He wears the X-Net logo and a cracked disk on his back. He's highly unstable and way unplugged from the system (like one of those Japanese soldiers still fighting alone in the hills 10 years after WWII was over).
+</DIRECTION>
+<DIRECTION>
+I-Beem sees something - he PANICS, zapping away in characteristic streaks of airborne data. He reassembles in a hiding place, skittish, observing:
+</DIRECTION>
+<DIRECTION>
+Rush, Mega, Krod and D-Rezz arrive. See GIANT PILE of GAME VEHICLE PARTS blocking access to the grid.
+</DIRECTION>
+<DIRECTION>
+Rush picks up an old LIGHT WAND. Krod finds one too.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	D-rezz. Cut a path.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-Rezz hurls his Romball, ZAPS into VEHICLE PARTS. A dent.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	That's good. Keep doing it.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+D-rezz retrieves Romball for another whack -
+</DIRECTION>
+<DIRECTION>
+ZAP - DATA ENERGY BEAM snaps in front of them, becoming I- Beem. He grips his rickety disk, challenging them.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Violation! Go away! Access denied!
+	</DIALOGUE>
+</I_BEEM>
+<RUSH>
+	<DIALOGUE>
+	Relax, buddy -
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega scans I-beem. He freaks, drops his disk, grabs for it.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Pound him to bits, D-rezz.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+D-Rezz raises his Romball to pulverize I-Beem.
+</DIRECTION>
+<DIRECTION>
+I-Beem freaks, ZAPS away in his data beam as Romball crashes down. I-Beem reforms further way, then beside them - He snatches his pancake disk, the zaps away again, emerging then high on the pile of parts.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	He's wireless.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Freaky.
+	</DIALOGUE>
+</KROD>
+<MEGA>
+	<DIALOGUE>
+	Searching data bank. "I-Beem". Security Specialist, damaged in service, rated unstable.
+	</DIALOGUE>
+</MEGA>
+<I_BEEM>
+<DIRECTION>
+(ranting from above)
+</DIRECTION>
+	<DIALOGUE>
+	"Unstable"! Like they aren't?! They booted me off X-Net! I'll show them! I'm doing my subroutine out here! Nobody gets through this portal!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+He kicks parts - avalanche fills the gap D-rezz blasted.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	D-rezz, take out this blip.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+D-rezz cocks Romball. I-Beem freaks, sling-shots all over the place via his data beam, tossing his wobbly disk.
+</DIRECTION>
+<DIRECTION>
+Rush catches I-Beem's disk. Holds off D-Rezz.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Hang on. I-Beem. We're from X-Net CPU. You're doing a great job out here. Everybody knows it.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega throws Rush a look. I-beem comes up, grateful.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	They do?!
+	</DIALOGUE>
+</I_BEEM>
+<RUSH>
+	<DIALOGUE>
+	That's right. Now, have you seen a rogue Program around here? He's red. Super fast. Known as "Tron".
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Data zags to Rush, forming into: I-Beem. Wide-eyed.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	The red one! That illegal function! He blasts through here and JUMPS OVER THE TOP! I tell him access denied - he JUMPS RIGHT OVER like I was never there!
+	</DIALOGUE>
+</I_BEEM>
+<RUSH>
+	<DIALOGUE>
+	When did he come through last?
+	</DIALOGUE>
+</RUSH>
+<I_BEEM>
+	<DIALOGUE>
+	Right before you got here.
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Rush trades looks with Mega, Krod and D-Rezz. Trail is hot.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I-beem, we've got a plan to shut down that red violator. You're going to help us.
+	</DIALOGUE>
+</RUSH>
+<I_BEEM>
+	<DIALOGUE>
+	Let me at him!
+	</DIALOGUE>
+</I_BEEM>
+<RUSH>
+	<DIALOGUE>
+	First, you've got to let us onto the game grid.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+I-Beem stiffens, reflexively vigilant. He scans the four of them again, finally softening. He zaps to a wall near his giant barrier, then proudly pushes aside a thin panel. Beyond a corridor of game gear, view expanses to reveal:
+</DIRECTION>
+<DIRECTION>
+EXT. OLD GAME GRID
+</DIRECTION>
+<DIRECTION>
+Rush steps across the vast vector-graphic grid surface.
+</DIRECTION>
+<DIRECTION>
+Eerie. Quiet. Pure.
+</DIRECTION>
+<DIRECTION>
+Mega, I-Beem, Krod and D-rezz follow.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	This region is obsolete.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Rush kneels, touches grid lines. Circuits energize, as his energy surges in all directions. He draws in data.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	There's bits of Tron's code all over. Krod, give D-Rezz and I-beem the escape coordinate Tron used on me.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Krod's eyes flash data to I-Beem and D-rezz. "Tr165444.018".
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Coordinate captured.
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+D-Rezz nods, palming his Romball.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	That's where Tron will bail out. We'll make sure he needs to. Go set up the trap.
+	</DIALOGUE>
+<DIRECTION>
+(to D-rezz)
+</DIRECTION>
+	<DIALOGUE>
+	You only get one shot at this, big guy. Stop him but don't destroy him, right? He's got data I need.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-rezz grips Romball, grunts affirmation. He and I-beem head for the perimeter of the grid.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	If this is Tron's territory, he'll know we're here. He'll hide.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	He can't resist a grudge match. He'll take risks trying to beat me. That's how we trip him up.
+	</DIALOGUE>
+<DIRECTION>
+(to Krod)
+</DIRECTION>
+	<DIALOGUE>
+	Whip it out.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush unsheathes his LIGHT WAND.
+</DIRECTION>
+<DIRECTION>
+Krod pulls out his own LIGHT WAND.
+</DIRECTION>
+<DIRECTION>
+They both look at Mega.
+</DIRECTION>
+<DIRECTION>
+She's got no light wand.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	You didn't bring one?
+	</DIALOGUE>
+</KROD>
+<MEGA>
+	<DIALOGUE>
+	I don't have one.
+	</DIALOGUE>
+</MEGA>
+<KROD>
+	<DIALOGUE>
+	Hey, not a problem -
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Krod holds his light wand forward, activates it. LIGHT CYCLE up-rezzes under him. He revs it, ready to go.
+</DIRECTION>
+<KROD>
+<DIRECTION>
+(to Mega)
+</DIRECTION>
+	<DIALOGUE>
+	- Hop on!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Hang on, Krod.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush activates his light wand. LIGHT CYCLE up-rezzes under him, with a special two tier seat for a second rider.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I upgraded my unit.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	You are awesome, man. I hate you.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Mega considers. There's more on her mind she's not talking about. She smiles at Rush, climbs on back of his light cycle.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Mmmm... Hack me.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+A nod between Rush and Rush - they TAKE OFF.
+</DIRECTION>
+<DIRECTION>
+LIGHT CYCLES shoot across grid surface.
+</DIRECTION>
+<DIRECTION>
+Mega screams and clutches Rush, throwing her body against his, clamping her arms around him.
+</DIRECTION>
+<DIRECTION>
+Krod and Rush turn 90 degrees, rallying, passing each other, getting warmed up. It's familiar territory.
+</DIRECTION>
+<DIRECTION>
+Light cycles race toward each other on the same line.
+</DIRECTION>
+<DIRECTION>
+Mega holds Rush tight, eyes filling with terror.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Resource conflict! Fatal crash imminent!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+But Krod and Rush slow their light cycles with expert skill, rolling safely to a halt, nose-to-nose. Directly over:
+</DIRECTION>
+<DIRECTION>
+A BIG RED DOT. The only dot on the grid.
+</DIRECTION>
+<DIRECTION>
+Grid Center.
+</DIRECTION>
+<DIRECTION>
+Mega, Rush and Krod raise up to scan the horizon. It's all clear flat grid to the horizon.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Any sign of him?
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Everything looks the same to me. Everything looks the same. The same. The same.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Krod, snap out of it.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Tron will never expose himself.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+They watch, wait, pivot.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	The same...
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+EXT. EDGE OF GAME GRID
+</DIRECTION>
+<DIRECTION>
+D-rezz and I-beem search grid edge, along the rocky boundary. I-beem zaps himself further along, finding:
+</DIRECTION>
+<DIRECTION>
+Glowing code numbers mark the end of each grid line.
+</DIRECTION>
+<DIRECTION>
+D-rezz grunts, points. One lights up "Tr165444.018"
+</DIRECTION>
+<DIRECTION>
+They follow the line off the grid, where it leads into a narrow rocky pass.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Yes, I see. Perfect trap. This is going to be good. Climb, climb!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+EXT. GAME GRID / CENTER SPOT
+</DIRECTION>
+<DIRECTION>
+Rush, Mega and Krod wait on their light cycles.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Its futile.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Look.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+SPECK moves on the horizon, turns a corner, stays on the horizon. Another corner. It's a light cycle, making a huge box around them.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Remember the plan, Krod. Don't bail out until the last millisecond.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Lightcycle turns toward them, coming fast.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Hang on tight, Mega.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega hugs Rush.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Mmmm.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+They SPEED AWAY.
+</DIRECTION>
+<DIRECTION>
+Approaching cycle comes at 90 degree angle, turns hard, closes the distance.
+</DIRECTION>
+<DIRECTION>
+It's TRON. Heartless eyes, ruthless moves.
+</DIRECTION>
+<DIRECTION>
+Rush turns quick, baiting Tron. Tron turns to follow, coming alongside.
+</DIRECTION>
+<DIRECTION>
+Krod runs interference, cuts sharp in front of Tron.
+</DIRECTION>
+<DIRECTION>
+It's a high-stakes speed-chase, narrowly missing side walls and rock outcroppings.
+</DIRECTION>
+<DIRECTION>
+EXT. EDGE OF GAME GRID
+</DIRECTION>
+<DIRECTION>
+I-beem zaps onto the grid, tracks horizon dots.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Here they come!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+He zaps back to the edge, signals upward. D-rezz straddles the rock passage above, ready to hurl his Romball.
+</DIRECTION>
+<DIRECTION>
+EXT. GAME GRID
+</DIRECTION>
+<DIRECTION>
+Tron takes the lead in a three-way heat. Revs to breath- taking speed.
+</DIRECTION>
+<DIRECTION>
+Rush and Krod gain, coming up on either side of Tron.
+</DIRECTION>
+<DIRECTION>
+Tron looks to each opponent. His eyes lock on Mega.
+</DIRECTION>
+<DIRECTION>
+Mega stares into Tron's cold eyes, almost like she's trying to signal him. But Tron returns his gaze forward, as the ROCKY EDGE looms closer.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Wuss! You call that speed!?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush kicks in a hyper-burner, surging forward. Krod does the same. Tron responds with more speed.
+</DIRECTION>
+<DIRECTION>
+Rush and Krod have Tron sandwiched, heading for the rock edge. Tron pulls ahead, aiming for the hidden crevasse.
+</DIRECTION>
+<DIRECTION>
+Mega worries. Clings to Rush.
+</DIRECTION>
+<DIRECTION>
+EXT. EDGE OF GAME GRID
+</DIRECTION>
+<DIRECTION>
+D-rezz, astride the crevasse, sees light cycles speeding his way. He's got the Rom-ball poised to intercept Tron.
+</DIRECTION>
+<DIRECTION>
+I-beem de-rezzes into the grid, clearing the path.
+</DIRECTION>
+<DIRECTION>
+Rush and Krod taunt Tron into the trap...
+</DIRECTION>
+<DIRECTION>
+But, out of nowhere, Mega reaches to Rush's handlebars and turns 90 degrees too soon.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Hey, what are you - ??
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Tron sees the bail-out, knows something's wrong. He looks ahead, sees D-rezz astride his crevasse escape root, rom- ball poised in the air.
+</DIRECTION>
+<DIRECTION>
+Tron bails out 90 degrees, cutting behind Krod. Krod turns twice, ending up in Tron's lane.
+</DIRECTION>
+<DIRECTION>
+To the side, Rush's light cycle screams toward solid rock, vibrating out of control.
+</DIRECTION>
+<DIRECTION>
+Rush grabs Mega and JUMPS OFF. They slide on the grid, holding each other.
+</DIRECTION>
+<DIRECTION>
+Krod's lightcycle heads for the rock escape passage.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	No! It's ME!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush and Mega slide to a halt, in time to see:
+</DIRECTION>
+<DIRECTION>
+Their light cycle SMASHES rocks, explodes in a million bits.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	WHY DID YOU DO THAT?!
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	I- I GOT SCARED!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Krod shoots gap. D-rezz is ready to smash him with his Romball.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	No! It's Krod! Tron is OVER THERE!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+D-rezz makes mental switch, hurls Romball.
+</DIRECTION>
+<DIRECTION>
+Romball bounces down solid rock, onto game grid, rolls with ferocious speed, DIAGONALLY across the grid.
+</DIRECTION>
+<DIRECTION>
+Romball curves to track Tron - like a great bowling shot.
+</DIRECTION>
+<DIRECTION>
+Romball clips rear wheel of Tron's lightcycle. Lightcycle vaporizes. Tron skids and tumbles.
+</DIRECTION>
+<DIRECTION>
+I-beem zaps beside Rush and Mega. Krod and D-rezz join them.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	There he goes!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Tron climbs over rocks, escaping through a TUNNEL.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	We've got him now. Let's go!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+WHOOSH! Electro-fire Romball careens across grid, bearing down on them.
+</DIRECTION>
+<DIRECTION>
+Group DIVES CLEAR.
+</DIRECTION>
+<DIRECTION>
+D-rezz swings in a foot, stopping the Romball - inches short of mowing down Krod.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	I could have done that.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+He strobes, freezes, hits the deck.
+</DIRECTION>
+<DIRECTION>
+INT. ANCIENT COMPUTER SYSTEM TUNNEL
+</DIRECTION>
+<DIRECTION>
+Stalking their prey: Rush, Krod, I-beem and D-rezz.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	We can't go any further.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Ahead, vast old circuitry has been "eaten through" by dull throbbing greenish MEMORY LEAKAGE. Paths of unaffected material are narrow and maze-like.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Don't ask, dude.
+	</DIALOGUE>
+</KROD>
+<MEGA>
+	<DIALOGUE>
+	It's a memory leak, once it starts, it infects everything.
+	</DIALOGUE>
+</MEGA>
+<I_BEEM>
+	<DIALOGUE>
+	Touch it and you crash forever. We cannot risk it.
+	</DIALOGUE>
+</I_BEEM>
+<MEGA>
+	<DIALOGUE>
+	I agree.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+D-rezz grunts.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Then it's settled.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Krod turns to head home.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Stop. Listen to me. You might not believe there's a world outside of this one, but let's just say a guy named Sinclair is depending on me. If Tron got through here, then I can too. Who's with me?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-rezz steps forward, then I-Beem. Shamed, Krod joins them. Finally, Mega makes it unanimous.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Good. I-beem, take D-rezz, see what's up ahead. We'll guard this portal until you come back.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+I-beem and D-rezz buddy up and depart on a recon mission.
+</DIRECTION>
+<DIRECTION>
+Krod pulls off his disk, nervously practices boomerang throws.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Better show me how to use mine.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	No problem. It's all in the velocity- vector ratio.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush pulls the disk off his own back. He throws - disk flies wild - he runs to retrieve it.
+</DIRECTION>
+<DIRECTION>
+Mega retreats to a side area, partially eroded by memory leakage. She finds the remnants of COM CIRCUITRY and stares data beams into its transducer.
+</DIRECTION>
+<DIRECTION>
+INTERCUT WITH:
+</DIRECTION>
+<DIRECTION>
+EXT. X-NET NEXUS UNDER CONSTRUCTION - PLEXOR'S VEHICLE
+</DIRECTION>
+<DIRECTION>
+Plexor's vehicle circuitry forms image of Mega.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Report.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	We interfaced with Tron. He escaped into a dark zone.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+INT. ANCIENT COMPUTER SYSTEM TUNNEL
+</DIRECTION>
+<DIRECTION>
+Around a corner, Rush comes to retrieve his disk. He pauses to eavesdrop on Mega's communication:
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	The Random One has proven effective?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	He is all glitches and bad data. He virtually got us de-rezzed. I recommend we terminate this mission.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Rush listens, hurt and angry.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	No. Proceed. If you keep Tron on the run, he cannot attack X-Net.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	It's a poor allocation of resources.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	You have your instructions.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Circuits go dark. Mega turns, running smack into:
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	"All glitches and bad data." What's up with you? Ever since I got here, you've been working against me.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	I act as Plexor programs me.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Blah blah blah. You've got you own processor. I can feel it working overtime. Did Meg program you to mess with me?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	I have no match for "Meg" -
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	First, you don't want to come with me, then you're all over me on the light cycle - so you can dump us over and blow the plan. We would have nailed Tron by now if it wasn't for you. What's your malfunction?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Don't troubleshoot me!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Angry silence. Eyes locked.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	The most effective alternative is to return to the main CPU and anticipate Tron's next attack.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+She moves to exit past him. He snags her arm, pulls her back and KISSES HER.
+</DIRECTION>
+<DIRECTION>
+Energy ZAPS between them, racing through their body circuits.
+</DIRECTION>
+<DIRECTION>
+Rush downloads the spiky sensation. Mega remains cold and bewildered.
+</DIRECTION>
+<DIRECTION>
+Outside, Krod tosses his disk, moving to track as it arcs through the air. He notices Rush and Mega kissing. Digs it vicariously.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	You ram hog!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+His disk clunks him on the head.
+</DIRECTION>
+<DIRECTION>
+Mega breaks the kiss, backing off, conflicted. Arcs of energy stretch between them, then snap loose.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	It's what I'm programmed to do.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega tries to ignore the kiss. She exits past the guys.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	What were you doing with her?
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Nothing. She had a glitch. I was just pinging her EPROM.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	She let you?
+	</DIALOGUE>
+</KROD>
+<I_BEEM>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	There's a way through!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Rush, Krod and Mega hurry to see:
+</DIRECTION>
+<DIRECTION>
+I-beem zap-zap-zaps toward them, scared to death -
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Tron attacked us! D-rezz has him cornered!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Rush stows his disk on his back -
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	We've got him now.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+INT. ANCIENT COMPUTER SYSTEM LABYRINTH
+</DIRECTION>
+<DIRECTION>
+Eaten away by memory leaks, like swiss cheese.
+</DIRECTION>
+<DIRECTION>
+Rush, Mega, Krod follow I-beem along narrow paths of unaffected material.
+</DIRECTION>
+<DIRECTION>
+Krod trips, his LIGHT WAND tumbles and skates into memory leakage. It FRIES and de-rezzes, sucked into the molten silicon swamp.
+</DIRECTION>
+<D_REZZ>
+	<DIALOGUE>
+	Akakakaka - Agggggggg -
+	</DIALOGUE>
+</D_REZZ>
+<DIRECTION>
+Sounds like a modem, but it's a BATTLE-CRY.
+</DIRECTION>
+<DIRECTION>
+Rush comes to a point above - and cut off from - the fight.
+</DIRECTION>
+<DIRECTION>
+D-rezz advances along a narrow gantry, spinning his Romball, ready to hurl at:
+</DIRECTION>
+<DIRECTION>
+TRON.
+</DIRECTION>
+<DIRECTION>
+Tron flips over memory leakage, gains position and throws his disk -
+</DIRECTION>
+<DIRECTION>
+Disk HITS D-rezz. Plasma-ball GASH, but D-rezz is tough. He takes the damage, cocks his Romball -
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Guys! Go around - behind Tron!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush darts down to help D-rezz. Mega, Rush hurry ahead. I- beem zaps, zags and reforms, scared out of his mind.
+</DIRECTION>
+<DIRECTION>
+D-rezz hurls his Romball -
+</DIRECTION>
+<DIRECTION>
+Romball pings off two walls, comes at Tron from behind.
+</DIRECTION>
+<DIRECTION>
+Tron spins - milliseconds to spare - and flips clear. Retrieves his disk on the way down.
+</DIRECTION>
+<DIRECTION>
+Romball slams off a wall, heads back to D-rezz, but Tron's disk HITS IT, knocking it off course.
+</DIRECTION>
+<DIRECTION>
+D-rezz dives for ROMBALL - but it falls into the memory leak and FRIES TO BITS.
+</DIRECTION>
+<DIRECTION>
+Tron plants for a clear shot at D-rezz.
+</DIRECTION>
+<DIRECTION>
+Rush JUMPS down from above, right in front of D-rezz.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Ouch!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+His ankle. He straightens, standing in front of D-rezz.
+</DIRECTION>
+<DIRECTION>
+Lays eyes on Tron.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Hey! Pick on somebody your own size!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-rezz is twice as big as either of them.
+</DIRECTION>
+<DIRECTION>
+Tron's eyes are cold, lifeless, calculating. Scanning his new opponent without success.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	You've got no data on me.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush pulls his disk off his back, poised for a duel.
+</DIRECTION>
+<DIRECTION>
+Tron moves with calculation, grips his hyper-etched disk. Circling his prey.
+</DIRECTION>
+<DIRECTION>
+Throws again -
+</DIRECTION>
+<DIRECTION>
+BRRANGG -
+</DIRECTION>
+<DIRECTION>
+Rush DUCKS -
+</DIRECTION>
+<DIRECTION>
+Tron's disk slams D-rezz. D-rezz tries to catch the disk, but he's just too slow.
+</DIRECTION>
+<DIRECTION>
+Rush throws his disk. Beginner's luck - it banks off a wall and nearly smacks Tron. Rush snags it on the way back, before it tumbles into memory leakage.
+</DIRECTION>
+<DIRECTION>
+Tron jumps up two levels. Retrieves his disk.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	D-rezz, pull me up!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+D-rezz hoists Rush up. Fingers grab upper deck.
+</DIRECTION>
+<DIRECTION>
+Tron jockeys for position. Throws disk -
+</DIRECTION>
+<DIRECTION>
+Disk strikes D-rezz in the ribs. Blast damage.
+</DIRECTION>
+<DIRECTION>
+D-rezz loses footing.
+</DIRECTION>
+<DIRECTION>
+Rush grabs upper level.
+</DIRECTION>
+<DIRECTION>
+D-rezz slips toward memory leakage.
+</DIRECTION>
+<DIRECTION>
+Rush grabs D-rezz's hand - he weighs a ton.
+</DIRECTION>
+<DIRECTION>
+Mega, Krod and I-beem can't get here to help -
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Hang on, man! HANG ON!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+But D-rezz's big hand slips out of Rush's.
+</DIRECTION>
+<DIRECTION>
+D-rezz PLUMMETS into memory leakage, zapping away in a blaze of glory -
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	NOOOO!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+He comes to his feet, facing Tron. Determined.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I know who you are. Encom security program Tr856 - TRON!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Tron pauses. Processes.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Who is your User??
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Tron glitches at the question.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Who programmed you?? I know your encryption code. Tell me your User or I shut you down.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Tron throws his disk.
+</DIRECTION>
+<DIRECTION>
+Rush dodges. He sends waves of data energy through floor circuits, reaching into Tron's body.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I can shut you down with a nine digit code. WHO IS YOUR USER?? 392 -
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Tron's body animates painfully, as the first three code digits click into place.
+</DIRECTION>
+<DIRECTION>
+Tron FLIPS away, breaking contact with floor. Data transfer stops. Tron steals away through a tunnel.
+</DIRECTION>
+<DIRECTION>
+Rush pursues.
+</DIRECTION>
+<DIRECTION>
+Krod, Mega and I-beem clamber for a way to follow.
+</DIRECTION>
+<DIRECTION>
+INT. OBSOLETE COMPUTER GAME ARENA
+</DIRECTION>
+<DIRECTION>
+Circular, riddled with memory leaks.
+</DIRECTION>
+<DIRECTION>
+Rush hurries to the center. No sign of Tron.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Tell me, Tron! Who programmed you? Here's your encryption code! 3-6-2- 6-6-8 -
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush sends data coursing into floor circuits. It radiates up walls, across bridges... And finds TRON in hiding.
+</DIRECTION>
+<DIRECTION>
+Data races into Tron's body. Six code numbers engage; he glitches. He LEAPS to breaks the contact, flinging his disk -
+</DIRECTION>
+<DIRECTION>
+Tron's disk SLAMS Rush. Rush tumbles off a ledge, dangling over a memory leak.
+</DIRECTION>
+<DIRECTION>
+Tron pounces in. Snags his disk.
+</DIRECTION>
+<DIRECTION>
+Tron steps on Rush's hand. Pain energy jolts Rush's circuits.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	ARRGGHHH! 3-6-2-6-6-8-7 -
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush slips, grabs a slim protrusion. Feet zapping an inch from the memory leakage.
+</DIRECTION>
+<DIRECTION>
+Tron throws his disk for a final time. It arcs wide, coming around directly at Rush.
+</DIRECTION>
+<DIRECTION>
+Tron leans down, gazing into Rush's eyes.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	362668766!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Burst of SEARING DATA surges off Rush's hands, radiating up circuitry, loading into Tron's body. All nine code numbers LOCK in.
+</DIRECTION>
+<DIRECTION>
+Tron's body seizes. He fights the data intrusion, but his circuits sequentially SHUT DOWN.
+</DIRECTION>
+<DIRECTION>
+Tron's airborne disk wobbles and darkens.
+</DIRECTION>
+<DIRECTION>
+Tron tumbles off the edge, plummets past Rush.
+</DIRECTION>
+<DIRECTION>
+Disk misses Rush, skates into darkness.
+</DIRECTION>
+<DIRECTION>
+Mega, Krod and I-beem hurry in and see:
+</DIRECTION>
+<DIRECTION>
+Rush, climbing to safety.
+</DIRECTION>
+<DIRECTION>
+And below: Tron's body slips into the memory leakage, zapping away to bits.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	You got him!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+But Mega looks dreadfully worried. She slips away...
+</DIRECTION>
+<DIRECTION>
+Krod and I-beem climb down and help Rush to his feet.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Game over, dude.
+	</DIALOGUE>
+</KROD>
+<I_BEEM>
+	<DIALOGUE>
+	You crashed him!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Rush gazes off the precipice. Remains of Tron is consumed by the swamp of memory leakage.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	It's more than I wanted. Now I'll never know who his User is.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	We're heroes!
+	</DIALOGUE>
+</KROD>
+<I_BEEM>
+	<DIALOGUE>
+	I will be upgraded!
+	</DIALOGUE>
+</I_BEEM>
+<KROD>
+	<DIALOGUE>
+	They'll give us a slot in the main server!
+	</DIALOGUE>
+</KROD>
+<I_BEEM>
+	<DIALOGUE>
+	I will be upgraded! I will be -
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Krod slams him, makes him stop.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Rush, now you can finish pinging Mega's EPROM!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush looks around.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Where is Mega?
+	</DIALOGUE>
+</RUSH>
+<I_BEEM>
+	<DIALOGUE>
+	She was just here.
+	</DIALOGUE>
+</I_BEEM>
+<KROD>
+	<DIALOGUE>
+	Right behind me.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	MEGA??
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush searches. He finds Tron's disk, picks it up. It's dark and lifeless, circuits gray.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Mega...
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+SOUNDS echo around them. Coming fast. Electro-metallic footsteps.
+</DIRECTION>
+<DIRECTION>
+Rush, Krod and I-beem bunch together and pivot.
+</DIRECTION>
+<DIRECTION>
+Black-clad FINITY FIGHTERS appear, blocking all exits. Disks ready for attack.
+</DIRECTION>
+<DIRECTION>
+Rush double-takes on faces among them: QUANTZ, tall silent, hardcore (looks like real-world Phlegman) And BOOLE, rotund, seen it all (like real-world Kelter).
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	I recognize... Trouble.
+	</DIALOGUE>
+</KROD>
+<I_BEEM>
+	<DIALOGUE>
+	They're scanning us.
+	</DIALOGUE>
+</I_BEEM>
+<RUSH>
+	<DIALOGUE>
+	I-beem, go for help. Zap your butt out of here.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+But I-beem freezes, terrified. Fighters tighten perimeter.
+</DIRECTION>
+<DIRECTION>
+A hush. Footsteps. Clunk-zap... Clunk-zap.
+</DIRECTION>
+<DARK_FIGURE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	It had to happen. But why now of all times?
+	</DIALOGUE>
+</DARK_FIGURE>
+<DIRECTION>
+Rush and Krod turn. Fighters defer to:
+</DIRECTION>
+<DIRECTION>
+A DARK FIGURE, limping forward, one leg badly deformed by data corruption.
+</DIRECTION>
+<DARK_FIGURE>
+	<DIALOGUE>
+	A User shows up.
+	</DIALOGUE>
+</DARK_FIGURE>
+<DIRECTION>
+Rush is surprised, then pleased. Somebody finally gets it.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Yeah, I'm a User. A superior being. The first to enter this realm. And you are - ?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Figure's circuitry lights. Finally, we see the face...
+</DIRECTION>
+<DIRECTION>
+It is FLYNN.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	The first.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Flynn. How can you be here?
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	You know this dude?
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Yeah, he's a lunatic!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+I-beem panics, zaps away in an energy beam. He reforms further along for a "breath", then zaps further away. Three FINITY FIGHTERS chase him.
+</DIRECTION>
+<DIRECTION>
+Rush is amazed to find him self in the presence of Encom's former leader.
+</DIRECTION>
+<DIRECTION>
+Flynn comes closer, recognizing Rush.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Rush Nortebi. I remember hiring you.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+They are equally dumbfounded.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Somebody tipped these guys off about us.
+	</DIALOGUE>
+</KROD>
+<MEGA>
+	<DIALOGUE>
+	Not soon enough.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Fighters step aside, Mega enters, furious at Rush.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	You weren't supposed to beat Tron. I thought for sure he'd finish you.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	You destroyed our last hope!
+	</DIALOGUE>
+</MEGA>
+<KROD>
+	<DIALOGUE>
+	I detect a pattern in her behavior.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	She's a spy.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega and Rush ooze mutual contempt. Rush turns on Flynn.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	No wonder I couldn't figure it out. I assumed Tron User was on the outside! If I'd known this, I would blown past him and come straight for you.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn yanks Tron's disk from Rush, peers over the precipice. Below, the last of Tron is consumed by memory leakage.
+</DIRECTION>
+<DIRECTION>
+Flynn ponders Tron's lifeless disk. He falters on his bad leg. Mega throws an arm around to help him stand. Melancholy energy courses between them.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	I failed our cause.
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	You did everything you could.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+They know each other well.
+</DIRECTION>
+<DIRECTION>
+Rush registers jealousy, but larger concerns prevail:
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Flynn never died...
+	</DIALOGUE>
+<DIRECTION>
+(dawning)
+</DIRECTION>
+	<DIALOGUE>
+	Because your Quantum Digitizer worked. That's how you got here... I know - that's how I got here too.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn studies Rush, anger rising.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	The day after I hired you, you start sucking up to Sinclair. You thought I didn't know. Bet he offered your a partnership for this, right? You have no idea the damage you've done.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	I'm only getting started. Man, you were the company joke. Now I see why. You melted down your lab to take this little joyride. You got stuck here so all you can do is wreck other people's hard work.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Open your eyes, geek. My lab was rigged. My "death" was no accident. I pushed the button just in time to escape... Almost in time.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He indicates his deformed leg. Mega, Krod and the others listen with awed bewilderment. These two guys speak of a world unknown to them.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	You're paranoid. Who would want you dead?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	The same guy I programmed Tron to shut down. Same one you've been sucking up to. Sinclair. And his cyber-henchman, Plexor.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Malicious grumbles from Fighters.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Too many of your brain cells have gotten zapped in here, old man.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Rush, you lamer! You've been working for the bad guy.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Three Fighters return from the I-beem pursuit. Empty-handed.
+</DIRECTION>
+<FIGHTER_ONE>
+	<DIALOGUE>
+	He got away.
+	</DIALOGUE>
+</FIGHTER_ONE>
+<DIRECTION>
+Flynn scowls at Rush. Sin number two. Flynn slips Tron's dead disk in a special case.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Let's move. X-Net goons will soon be all over this place.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+EXT. GAME GRID
+</DIRECTION>
+<DIRECTION>
+Energy zaps across grid, forming into I-beem. He's on the run, de-rezzing, zapping, reforming, bolting for:
+</DIRECTION>
+<DIRECTION>
+EXT. ANCIENT COMPUTER SYSTEM - DEMOLISHED I/O PORTS
+</DIRECTION>
+<DIRECTION>
+I-beem de-rezzes, reforms, zaps himself toward the nearest X- Net OPTIK HIGHWAY.
+</DIRECTION>
+<DIRECTION>
+EXT. ANCIENT COMPUTER SYSTEM
+</DIRECTION>
+<DIRECTION>
+Fighters thread secret buffers and gates. Flynn carries Tron's disk, helped along by Mega.
+</DIRECTION>
+<DIRECTION>
+Rush and Krod are held prisoner, prodded by Quantz and Boole.
+</DIRECTION>
+<DIRECTION>
+They cross a DATA BRIDGE, drawn to the sounds of SHREIKING PANIC.
+</DIRECTION>
+<DIRECTION>
+EXT. OLD DATA METROPLEX
+</DIRECTION>
+<DIRECTION>
+Vast, retro, multi-level. Diverse and beautiful energy flows. Circular architecture.
+</DIRECTION>
+<DIRECTION>
+Flynn, Mega, Rush, Krod and Fighters come to a stunning view: GLEAMING NEW X-NET DATA OPTIK HIGHWAY is being constructed right through the heart of the city.
+</DIRECTION>
+<FLYNN>
+<DIRECTION>
+(to Rush...)
+</DIRECTION>
+	<DIALOGUE>
+	I hired Sinclair as Encom's business guy, so I could do the dreaming. Right off, he wanted to "capture the market" on data transmission. Had this plan called "X-Net", based on flawless efficiency, hyperlock security, encryption protocol uniformity. Blah blah. I was the boss, I told him to forget it. I knew it could go bad. But the guy had trouble taking no for an answer. He arranged for my lab to melt down. Sinclair took over my company and put X-Net on a fast-track. And here's where it's brought us.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+City descends into panic. X-Takk Troops evict Programs, seize prisoners and mercilessly hunt down resistors.
+</DIRECTION>
+<DIRECTION>
+X-Net Construction Crews build the Optik Highway with relentless precision, blasting aside the old city's splendid structures.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	What are they doing??
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Beating the competition.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+X-Takk Troops storm closer - by the hundreds.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	They've got us outnumbered.
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	We've got to choose our battles wisely. This way!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He leads them down a secret portal, into:
+</DIRECTION>
+<DIRECTION>
+INT. DOWNWARD PASSAGE - SECRET X-NET PROCESSOR
+</DIRECTION>
+<DIRECTION>
+Group moves along a catwalk, coming to a view of:
+</DIRECTION>
+<DIRECTION>
+X-Takks herd Captured Resistor Programs, lining them up for execution.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Rush, why is X-Net doing this?!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+A Kid Program runs to this Captured Father Program.
+</DIRECTION>
+<KID_PROGRAM>
+	<DIALOGUE>
+	No! Let my daddy go!
+	</DIALOGUE>
+</KID_PROGRAM>
+<DIRECTION>
+X-Takks haul Kid Program clear, then BLAST the Captives with de-rezz weapons. Captives glitch, thrash and expire.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	How long has this been going on?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	For years.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+EXT. REAL WORLD CITY - DUSK
+</DIRECTION>
+<DIRECTION>
+Like any other day. Except a high-rise building's lights flicker off. A subway escalator stops. A traffic light turns red on both sides. Cars honk, tempers flare.
+</DIRECTION>
+<DIRECTION>
+A TV store: All TVs in the window flip to one channel, which happens to be running a commercial for X-Net - theme: Total Data Security".
+</DIRECTION>
+<DIRECTION>
+INT. CYBERSPACE - SECRET X-NET PROCESSOR
+</DIRECTION>
+<DIRECTION>
+X-Takk Troops line up more Captive Programs.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Sinclair never told us about this. X-Net is creating the very terror that makes people want the security of X-net!
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	No more glitches, freeze-ups or shut- downs. Once X-Net is open, Plexor will destroy all other systems. All data flow will be controlled by his Master User -
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Sinclair.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	All data flow - Sinclair's to control and abuse. Bank accounts, medical histories, your Blockbuster account, your buying patterns, your e-mail. And to think, Rush - all this time, you've been working 24/7, trying to impress a him.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+X-Takk troops blast Captive Programs.
+</DIRECTION>
+<DIRECTION>
+EXT. REAL WORLD - BANK - DUSK
+</DIRECTION>
+<DIRECTION>
+ATM machine goes berserk.
+</DIRECTION>
+<DIRECTION>
+EXT. REAL WORLD - STREET - DUSK
+</DIRECTION>
+<DIRECTION>
+Block full of Pedestrians suddenly - and simultaneously - can't get their cell phones to work.
+</DIRECTION>
+<DIRECTION>
+INT. /EXT. REAL WORLD - SUV MOVING - DUSK
+</DIRECTION>
+<DIRECTION>
+GPS navigation system map flips around.
+</DIRECTION>
+<GPS_VOICE>
+	<DIALOGUE>
+	Turn left now. Turn right now. Left. Right. NOW!
+	</DIALOGUE>
+</GPS_VOICE>
+<DIRECTION>
+SUV Driver panics, pulls a hard turn and SMASHES a BUS.
+</DIRECTION>
+<DIRECTION>
+CYBERSPACE - SECRET X-NET PROCESSOR
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Sinclair betrayed me.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Finally you get it.
+	</DIALOGUE>
+</FLYNN>
+<MEGA>
+	<DIALOGUE>
+	Tron was our late hope.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	We've got to stop this!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+X-Takks hear Rush's shouts. An overwhelming force.
+</DIRECTION>
+<DIRECTION>
+Flynn and Mega shove Rush into a tunnel, closing the portal -
+</DIRECTION>
+<DIRECTION>
+INT. SECRET PASSAGE - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Flynn hastens their journey.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Rush was trying to expose us!
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	They didn't see us. Keep moving!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Mega, Boole and Quantz move along, shoving Krod and Rush.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	We've got to tell people on the outside -
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Plexor shut down all the I/O ports. Only HE communicates with the outside. Sinclair holds all the cards.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Flynn turns on Rush - one of Sinclair's cards.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	How did you get here?!
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Megan Randall sent me.
+	</DIALOGUE>
+<DIRECTION>
+(points out Mega)
+</DIRECTION>
+	<DIALOGUE>
+	Her User. She fixed your lab and sent me here to take out Tron.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Megan Randall? I remember her. Smart, wise beyond her years. I can't believe she'd fall for Sinclair's lies.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He glances at Mega, then shoves Rush along.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT
+</DIRECTION>
+<DIRECTION>
+Flynn, Mega, Fighters bring Rush and Krod into the clandestine Fighter base. Like a wartime casualty center, with corrupted Fighter Programs lining corridors.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	What happened to them?
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Try to attack Plexor head-on, this is what happens. Because of you, there will be millions more.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+They arrive at a laser-barred JAIL BLOCK, where a dozen BIG X-Takk Troops are held prisoner.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Lock up these two. We'll hold them for ransom. Or use them for target practice.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Flynn and Mega turn to go. Boole and Quantz use PROD LANCES to herd Rush and Krod.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Flynn. You think I'm Sinclair's flunky, but I'm not.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn pauses. Rush speaks low, so X-Net Captives can't hear.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I'm sorry about Tron.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Yeah, we're - Sorry?
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	We were just doing a job, we had no way of knowing the truth.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	No way at all.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Flynn, I was wrong about you. You've been doing the right thing in here. Plexor has to be shut down. Sinclair has to be exposed.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Like he said.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Krod and I are ready to help.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	We are?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Flynn puzzles over Rush.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Mega, what do you read in him?
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Mega circles Rush, scanning his circuits.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Independent operating instructions. He will act as necessary to increase probability of his own survival.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	You don't know me.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	He cannot to be trusted.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Trust?! You're the one who's been lying to me the whole time!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush points a finger at Mega - BOLT of ATTRACTION ENERGY shoots off his finger, ZAPS her on the nose.
+</DIRECTION>
+<DIRECTION>
+Mega's circuits OVERLOAD, she flies back -
+</DIRECTION>
+<DIRECTION>
+Rush, startled, looks at his finger.
+</DIRECTION>
+<DIRECTION>
+Fighters muscle Rush and Krod away.
+</DIRECTION>
+<DIRECTION>
+Flynn holds Mega, anger re-ignited.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Mega's been risking her existence for our cause, lamer. That's more than you'll ever do.
+	</DIALOGUE>
+<DIRECTION>
+(to Fighters)
+</DIRECTION>
+	<DIALOGUE>
+	Lock them away!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Fighters toss Rush and Krod in the JAIL BLOCK with the BIG X- TAKK soldiers. Does finger-signs, body circuit language.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Yo, s'up? Eh... X-Net rules, man.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Hey Krod... Shut down.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush peers out of his cage, watching Mega go. She turns for a final scowl, then exits.
+</DIRECTION>
+<DIRECTION>
+EXT. X-NET CENTRAL SERVER - EVENING
+</DIRECTION>
+<DIRECTION>
+X-Takk Troops sound alert.
+</DIRECTION>
+<DIRECTION>
+Outside the main portal, energy zaps and splinters above ground circuits, collecting to become:
+</DIRECTION>
+<DIRECTION>
+I-beem, reforming, running, stumbling. Some body parts out of sync, catching up.
+</DIRECTION>
+<X_TAKK>
+	<DIALOGUE>
+	Halt! State encryption code!
+	</DIALOGUE>
+</X_TAKK>
+<I_BEEM>
+	<DIALOGUE>
+	027591748594303 -
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Breathless, he loses count. Zaps beside himself. Again:
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	027591748594303071852!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Portal opens.
+</DIRECTION>
+<DIRECTION>
+INT. PLEXOR'S CPU
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	You are positive Tron was destroyed?
+	</DIALOGUE>
+</PLEXOR>
+<I_BEEM>
+	<DIALOGUE>
+	I observed it directly! Rush turned Tron into vaporware!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+X-Takk Troops trade looks, impressed.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Rush claims to be a User! He must be! He is awesomely skilled!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Plexor hardens.
+</DIRECTION>
+<X_TAKK_COMMANDER>
+	<DIALOGUE>
+	Users do not exist.
+	</DIALOGUE>
+</X_TAKK_COMMANDER>
+<PLEXOR>
+	<DIALOGUE>
+	He is but a randomized Program, he got lucky. To our benefit.
+	</DIALOGUE>
+</PLEXOR>
+<I_BEEM>
+	<DIALOGUE>
+	Rush and Krod were surrounded by stealth fighters! They were led by another User called Flynn!
+	</DIALOGUE>
+</I_BEEM>
+<PLEXOR>
+	<DIALOGUE>
+	Flynn??
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Plexor's circuitry strobes in dark troubled hues. An image appears on his archive screen: Flynn.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Yeah, that's the one!
+	</DIALOGUE>
+</I_BEEM>
+<PLEXOR>
+	<DIALOGUE>
+	Flynn... is here? He is the one behind this scheme to crash X-Net?
+	</DIALOGUE>
+</PLEXOR>
+<I_BEEM>
+	<DIALOGUE>
+	I know where they are! Rush and Krod need our help!
+	</DIALOGUE>
+</I_BEEM>
+<PLEXOR>
+	<DIALOGUE>
+	And what of Mega?
+	</DIALOGUE>
+</PLEXOR>
+<I_BEEM>
+	<DIALOGUE>
+	We couldn't find her. I'm certain they captured her too!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Plexor processes - his cranial circuits burn deep amber.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Tron is gone, but his User lives?
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Plexor turns to I-beem, grateful. Removes I-beem's flimsy broken disk, studies it gently.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Good work does not go unrewarded at X-Net. Would you like to be upgraded?
+	</DIALOGUE>
+</PLEXOR>
+<I_BEEM>
+	<DIALOGUE>
+	Yes, Plexor, very much so.
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+Plexor energizes a REWARD PORTAL. Shimmering golden light beckons I-beem. He eagerly enters - and gets ZAPPED. I- beem emerges out the other side, a zombie-like X-Net Drone, joining a security crew.
+</DIRECTION>
+<DIRECTION>
+INT. PLEXOR'S INNER SANCTUM
+</DIRECTION>
+<DIRECTION>
+Plexor enters, raises his disk. RUBY RED BEAM connects.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - SINCLAIR'S OFFICE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Sinclair paces amid a buzz of manic activity. TVs show news of escalating global data crashes. In comes a MARKETING VP.
+</DIRECTION>
+<MARKETING_VP>
+	<DIALOGUE>
+	You're not going to believe this!
+	</DIALOGUE>
+</MARKETING_VP>
+<SINCLAIR>
+	<DIALOGUE>
+	Convince me.
+	</DIALOGUE>
+</SINCLAIR>
+<MARKETING_VP>
+	<DIALOGUE>
+	Sales office has been flooded with calls. Major banks, airlines, city governments, the presidents of 26 nations - They all want to sign up for X-Net now. We're not even on- line yet and we're a hit!
+	</DIALOGUE>
+</MARKETING_VP>
+<DIRECTION>
+Sinclair absorbs his good fortune. Smirks.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	We're the only port in the storm.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Execs cheer, trade high-fives.
+</DIRECTION>
+<DIRECTION>
+Sinclair notices a blip on his private data screen.
+</DIRECTION>
+<DIRECTION>
+The office clears, doors shut. Sinclair, alone now, interacts with his screen.
+</DIRECTION>
+<DIRECTION>
+Text: INTRUDER HAS BEEN ELIMINATED.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Brilliant.
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+But: THERE REMAINS AN AREA OF UNCERTAINTY.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	What uncertainy?
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+INTERCUTS WITH:
+</DIRECTION>
+<DIRECTION>
+INT. CYBERSPACE - PLEXOR'S INNER SANCTUM
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	The User called Flynn is here.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Sinclair reads the text, blind-sided. Sees a photo of Flynn.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	That's impossible.
+	</DIALOGUE>
+</SINCLAIR>
+<PLEXOR>
+	<DIALOGUE>
+	Flynn commanded the intruder Tron.
+	</DIALOGUE>
+</PLEXOR>
+<SINCLAIR>
+	<DIALOGUE>
+	You've got to be wrong about this.
+	</DIALOGUE>
+</SINCLAIR>
+<PLEXOR>
+	<DIALOGUE>
+	I was programmed error-free. By you.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Sinclair ponders the unimaginable.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	Flynn... escaped?!
+	</DIALOGUE>
+</SINCLAIR>
+<PLEXOR>
+	<DIALOGUE>
+	He leads a group who seek to prevent the opening of X-Net. The one called Rush has joined them.
+	</DIALOGUE>
+</PLEXOR>
+<SINCLAIR>
+	<DIALOGUE>
+	Rush? My guy? What lies has Flynn filled him with?
+	</DIALOGUE>
+</SINCLAIR>
+<PLEXOR>
+	<DIALOGUE>
+	Or what truths?
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Sinclair peers at the screen text, agitation growing. A news article pops up, recounting the lab accident and Flynn's "death". X-Net launch countdown ticks.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	This world can never know all I have done. You have a plan to contain Flynn?
+	</DIALOGUE>
+</SINCLAIR>
+<PLEXOR>
+	<DIALOGUE>
+	Of course.
+	</DIALOGUE>
+</PLEXOR>
+<SINCLAIR>
+	<DIALOGUE>
+	Don't just contain him. Destroy him.
+	</DIALOGUE>
+</SINCLAIR>
+<PLEXOR>
+	<DIALOGUE>
+	Instructions received. And the one called Rush?
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Sinclair mulls for two seconds, then:
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	He knows too much. Get rid of him.
+	</DIALOGUE>
+</SINCLAIR>
+<PLEXOR>
+	<DIALOGUE>
+	Instructions received.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+INT. JAIL BLOCK
+</DIRECTION>
+<DIRECTION>
+Rush and Krod get chummy with cell-mate X-Takks. They mock- fight together, getting insider tips.
+</DIRECTION>
+<X_TAKK_1>
+	<DIALOGUE>
+	And whatever you do, don't let them hit you here...
+	</DIALOGUE>
+</X_TAKK_1>
+<DIRECTION>
+Indicates a CIRCUIT NEXUS on his lower SPINE.
+</DIRECTION>
+<X_TAKK_1>
+	<DIALOGUE>
+	All X-Net Programs have a weak spot there.
+	</DIALOGUE>
+</X_TAKK_1>
+<RUSH>
+	<DIALOGUE>
+	Hear that, Krod? Never let them get to your weak spot.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Krod twists around, playing with his spinal nexus.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Gurfle! I never knew that.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Pull back to see:
+</DIRECTION>
+<DIRECTION>
+Flynn secretly observes Rush. Pondering. Boole arrives behind him.
+</DIRECTION>
+<BOOLE>
+	<DIALOGUE>
+	We're ready for you now.
+	</DIALOGUE>
+</BOOLE>
+<DIRECTION>
+They head upstairs.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT
+</DIRECTION>
+<DIRECTION>
+Flynn reviews Fighter training. Troops throw disks, battle in pairs, repair weapons, tweak armor circuitry.
+</DIRECTION>
+<DIRECTION>
+Flynn carries Tron's dark disk, contemplating it. He moves past a line-up of his finest Fighters.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	If X-Net is allowed to open it's the beginning of the end of a free and open cyberspace. We can't let Plexor get away with this. Our game plan has not changed. Tron was specially programmed to break into X-Net and shut down power supplies. We would then exploit these weak points and cripple the system. Tron's role was essential One of you must take his place.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He holds up Tron's disk.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Who among you can power Tron's disk and carry out his mission?
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+All Fighters take a step forward.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	It's the most dangerous job. If you're not up for it, nobody's going to blame you.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+All stand firm.
+</DIRECTION>
+<DIRECTION>
+Flynn lays Tron's disk in the first Fighter's hands. Fighter summons his will, causing the disk to glow faintly. But it soon goes dark again.
+</DIRECTION>
+<DIRECTION>
+Next Fighter holds the disk, bearing down, animating the circuits... But he buckles and the disk falls dims.
+</DIRECTION>
+<DIRECTION>
+Mega worries: One-by-one, Fighters fail to power Tron's disk. Flynn reaches the end of the line.
+</DIRECTION>
+<DIRECTION>
+Mega puts her hands out to receive the disk.
+</DIRECTION>
+<DIRECTION>
+Flynn hesitates, then hands her Tron's disk.
+</DIRECTION>
+<DIRECTION>
+Mega clenches it, concentrating deeply. Her energy infuses the disk, animating its circuits stronger than anyone.
+</DIRECTION>
+<DIRECTION>
+Bur soon, her eyes strobe, her body circuits overload.
+</DIRECTION>
+<DIRECTION>
+She lets go. Tron's disk thunks the floor, goes dark.
+</DIRECTION>
+<DIRECTION>
+Mega hardens her resolve.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	There are other ways to crash Plexor. I will return to him, he still trusts me. I will get close and crash him with direct contact -
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	It's futile. Plexor's personal defense measures are massive.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Other Fighters chime in, but they don't know what to do.
+</DIRECTION>
+<DIRECTION>
+A FIGHTER SENTRY dashes in.
+</DIRECTION>
+<FIGHTER_SENTRY>
+	<DIALOGUE>
+	Enemy scouts, headed this way!
+	</DIALOGUE>
+</FIGHTER_SENTRY>
+<DIRECTION>
+INT. JAIL BLOCK
+</DIRECTION>
+<DIRECTION>
+Rush, Krod and X-Tekk Prisoners heard COMMOTION in the main hideout area above.
+</DIRECTION>
+<DIRECTION>
+EXT. ANCIENT COMPUTER SYSTEM
+</DIRECTION>
+<DIRECTION>
+Phalanx of X-NET SECURITY CRUISERS moves in, mashing circuitry - X-TEKK TROOPS rowst Civilian Programs.
+</DIRECTION>
+<DIRECTION>
+Plexor commands LEAD CRUISER.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Disperse to all sectors!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+CRUISERS with X-Takks split in several directions.
+</DIRECTION>
+<DIRECTION>
+X-Takk Squads crash fleeing programs.
+</DIRECTION>
+<DIRECTION>
+EXT. ANCIENT COMPUTER SYSTEM / OLD GAME GRID
+</DIRECTION>
+<DIRECTION>
+CRUISERS with X-Takk Troops ravage grid, moving into:
+</DIRECTION>
+<DIRECTION>
+EXT. MEMORY LEAK TUNNELS
+</DIRECTION>
+<DIRECTION>
+X-Net CRUISERS crash through. ASSEMBLER UNITS spew freshly programmed BRIDGES over memory leak swamps. X-Takk troops hustle deeper.
+</DIRECTION>
+<DIRECTION>
+INT. ANCIENT COMPUTER SYSTEM LABYRINTH
+</DIRECTION>
+<DIRECTION>
+X-Takks storm in. Specialized units scan memory leaks, detect code fragments - schematic images of Tron.
+</DIRECTION>
+<X_TAKK_SPECIALIST>
+	<DIALOGUE>
+	The invader Tron crashed here.
+	</DIALOGUE>
+</X_TAKK_SPECIALIST>
+<DIRECTION>
+Plexor surveys the place.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	This was a preferred gaming arena for the User called Flynn. His moves are predictable, recursive, easily traced.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Plexor activates a Q-MINATOR. Device emits a PLANE of coherent pulsing energy, which scans the area, illuminates the RACING DATA BIT PATTERNS within all circuits, programs and surfaces. (An x-ray-like device that reveals all computer machine code underlying every cyberspace object.)
+</DIRECTION>
+<DIRECTION>
+A trail of code BURNS HOT NEON GREEN.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	That way!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+EXT. CLASSIC DATA HUB CITY
+</DIRECTION>
+<DIRECTION>
+X-Net Cruisers crash the city. Programs scatter.
+</DIRECTION>
+<DIRECTION>
+Plexor commands Lead Cruiser, sweeps Q-MINATOR. Running Civilian Programs are rendered "naked" by the beam, bodies revealed as volumes of buzzing data bits "1010011101010110..."
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Down there.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Cruisers deploy DE-REZZ BEAMS, slicing open structures.
+</DIRECTION>
+<DIRECTION>
+Flashing bitstorm, screaming Civilian Programs - The wrath of X-Net is unleashed upon the city.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT
+</DIRECTION>
+<DIRECTION>
+CRASH!
+</DIRECTION>
+<DIRECTION>
+Walls slice and crumble -
+</DIRECTION>
+<DIRECTION>
+X-NET CRUISERS blast their way in, coming to a stop in precise formation.
+</DIRECTION>
+<DIRECTION>
+Plexor emerges from Lead Cruiser.
+</DIRECTION>
+<DIRECTION>
+Stops. Looks.
+</DIRECTION>
+<DIRECTION>
+The place is empty.
+</DIRECTION>
+<DIRECTION>
+Not a fighter in sight.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Fan out! Search every buffer and cache!
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Hey! Down here!
+	</DIALOGUE>
+</RUSH>
+<KROD>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Get us out of here!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+INT. JAIL BLOCK AREA
+</DIRECTION>
+<DIRECTION>
+Plexor and X-Takks hustle down, finding:
+</DIRECTION>
+<DIRECTION>
+Rush, Krod and the X-Takk Prisoners, behind bars.
+</DIRECTION>
+<DIRECTION>
+X-Takk Specialists hack the system, power down jail bars. Prisoners step forth and retrieve their impounded disks.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Dude, are we glad to see you!
+	</DIALOGUE>
+</KROD>
+<PLEXOR>
+	<DIALOGUE>
+	You destroyed Tron.
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	Yes... Where is Mega?
+	</DIALOGUE>
+</RUSH>
+<PLEXOR>
+	<DIALOGUE>
+	She's not with you?
+	</DIALOGUE>
+</PLEXOR>
+<KROD>
+	<DIALOGUE>
+	She's with Flynn! I mean, totally WITH Flynn -!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+<DIRECTION>
+(cuts off Krod, covers)
+</DIRECTION>
+	<DIALOGUE>
+	Flynn was smart enough to interrogate her first.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Right.
+	</DIALOGUE>
+</KROD>
+<PLEXOR>
+<DIRECTION>
+(duped)
+</DIRECTION>
+	<DIALOGUE>
+	She contains sensitive data. Flynn cannot be allowed to hack her.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Rush and Krod notice: Behind Plexor and his Soldiers, BOOLE, QUANTZ and FINITY FIGHTERS move into position. They signal Rush and Krod not to blow their cover. Rush makes Krod comply. An ambush is ready to spring.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Yeah, only - We kicked Flynn's butt, too.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	You should have seen it. Flynn won't be a problem.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+X-Takk Prisoners are confused.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Then... Why were you imprisoned?
+	</DIALOGUE>
+</PLEXOR>
+<X_TAKK>
+	<DIALOGUE>
+	Ambush!
+	</DIALOGUE>
+</X_TAKK>
+<DIRECTION>
+Fighters POUNCE, throwing disks -
+</DIRECTION>
+<DIRECTION>
+Rush grabs a PROD LANCE, nails two X-Takks on their spinal nexus. They go down hard.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Delete them all!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Plexor hurls an ENERGY BALL - Rush DUCKS, grazed by its FRACTAL comet trail.
+</DIRECTION>
+<DIRECTION>
+Fighters beat back Plexor. His concerns shift. He ducks into an ascension shaft -
+</DIRECTION>
+<DIRECTION>
+Rush and Krod are left fighting back-to-back, out-manned three-to-one.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT ASCENSION SHAFT
+</DIRECTION>
+<DIRECTION>
+Plexor races upward, but is blocked by a unit of Fighters.
+</DIRECTION>
+<DIRECTION>
+Plexor pulls off his special TRIANGULAR DEATH DISK - FLINGS it. Disk ricochets off three Fighters, knocking them out. Another lethal fling and the remains Fighters fall.
+</DIRECTION>
+<DIRECTION>
+Plexor retrieves his death-disk with heart-stopping accuracy, darts into:
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT MAIN ARENA
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	It's a TRAP!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+X-Takk Troops react, bolting for their Cruisers.
+</DIRECTION>
+<DIRECTION>
+Floor circuits ACTIVATE - X-Takks ZAP and FREEZE.
+</DIRECTION>
+<DIRECTION>
+Fighters appear from all directions.
+</DIRECTION>
+<DIRECTION>
+Disks fly -
+</DIRECTION>
+<DIRECTION>
+X-Takks wield stout MAZER weapons -
+</DIRECTION>
+<DIRECTION>
+Even the corrupted Fighter Programs pitch in, working in clever teams, chipping away at Plexor's forces.
+</DIRECTION>
+<DIRECTION>
+But X-Takks have tougher armor and more awesome weapons.
+</DIRECTION>
+<DIRECTION>
+X-Takk Mazer cuts down Fighters by the dozen, leaving them corrupted or shut down.
+</DIRECTION>
+<DIRECTION>
+UPPER LEVEL:
+</DIRECTION>
+<DIRECTION>
+Flynn struggles to help wounded Fighters - He captures a Mazer and uses it against X-Takks... But Flynn can't move well on his bad leg. He watches his troops getting trounced.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Retreat! Over that way! Move around their flank!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+ZAP! A Mazer blast strikes Flynn's bad leg.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Arrrgghhh!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Mega appears, throws her disk with deadly accuracy. The offending X-Takk Soldier crashes. Millions of bits spray over main arena - fractal fireworks.
+</DIRECTION>
+<DIRECTION>
+Mega grabs Flynn from falling. They make for a bridge.
+</DIRECTION>
+<DIRECTION>
+Flynn slaps a wall panel. Trigger circuit activates, surging down into...
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT MAIN ARENA
+</DIRECTION>
+<DIRECTION>
+...Circuit energizes a sector of floor circuits, which overload and BLAZE - frying twenty X-Takks.
+</DIRECTION>
+<DIRECTION>
+INT. JAIL BLOCK AREA
+</DIRECTION>
+<DIRECTION>
+Rush and Krod use puny PROD LANCES against fearsome X-Takks...
+</DIRECTION>
+<DIRECTION>
+Rush charges an X-Takk dude, Krod gets cornered by another. Rush dodges his death blow, spine-zapping his foe... Krod prepares to die, as X-Takk Bully pins him with a Mazer and squeezes the trigger.
+</DIRECTION>
+<DIRECTION>
+X-Takk Bully seizes, freezes, crashes. Mazer barrel falls away from Krod - he's lucky to be alive. Rush stows Zap Wand, grabs Mazer and yanks Krod to his feet.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	I'll never let you forget it.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Rush, we're screwed! Now everybody's after us!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Nah, we're cool. We're with them!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Boole and Quantz sweep past, gathering Rush and Krod into their unit. They charge up the ascension shaft.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT / MAIN HALL
+</DIRECTION>
+<DIRECTION>
+Plexor hurls DEATH DISK, takes out Fighters.
+</DIRECTION>
+<DIRECTION>
+He spins, looks up: Glimpses Flynn and Mega running along a ledge. He heads after them, working his way upward.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT / MAIN HALL
+</DIRECTION>
+<DIRECTION>
+Rush and Krod emerge behind an X-Takk Cruiser. They knock out two X-Takk Soldiers, steal their MAZER WEAPONS.
+</DIRECTION>
+<DIRECTION>
+Fighter Specialists hustle in, attach ENCRYPTION PODS to the Cruiser. Data meltdown radiates from the key, "burning" through the Cruiser like paper.
+</DIRECTION>
+<DIRECTION>
+Cruiser implodes.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Awesome! Can I do one?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush spots Plexor heading to upper levels. He pursues.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT / UPPER LEDGE
+</DIRECTION>
+<DIRECTION>
+Flynn and Mega help corrupted Fighters toward the bridge.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Quick. This way.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+WHAM!
+</DIRECTION>
+<DIRECTION>
+A wounded Fighter is struck down. Triangular DEATH DISK swings wide, takes out another, then the last...
+</DIRECTION>
+<DIRECTION>
+Mega and Flynn spin to see:
+</DIRECTION>
+<DIRECTION>
+Plexor steps forward, retrieving his Death Disk. Blocking their exit.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Mega, move aside! I will finish him!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Instead, she shields Flynn's body.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Strike us down. There will always be more to oppose you.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Sinclair's circuits snap with rage.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	What programming has he installed in you??
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Flynn! Go with the others! Run!
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	I'm not leaving you with this phreak.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Plexor brings back his DEATH DISK.
+</DIRECTION>
+<DIRECTION>
+In the shadows: Rush, creeping along the periphery, gaining position on Plexor.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Plexor, get over the control thing.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Plexor readies his disk to FIRE -
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Drop the disk!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+He pivots, hurls Death Disk at Rush.
+</DIRECTION>
+<DIRECTION>
+Rush dives clear, sends his data energy into surrounding circuits. Circuits activate around Plexor, surging PAIN DATA into his body.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	I'll be damned.
+	</DIALOGUE>
+</FLYNN>
+<MEGA>
+	<DIALOGUE>
+	Rush?!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+But Plexor resists Rush's data infusion, freezing the circuits around his feet. Cutting off the flow.
+</DIRECTION>
+<DIRECTION>
+Death Disk slices walls, arcing back toward Plexor -
+</DIRECTION>
+<DIRECTION>
+Rush LEAPS at Plexor.
+</DIRECTION>
+<DIRECTION>
+BLANG!
+</DIRECTION>
+<DIRECTION>
+Plexor is solid-state, like a cast iron statue. Rush flips airborne, goes down hard.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	ARRGH!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Plexor considers Rush, astonished by his audacity.
+</DIRECTION>
+<RUSH>
+<DIRECTION>
+(sucks air)
+</DIRECTION>
+	<DIALOGUE>
+	Is that all you've got?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+It's a millisecond's distraction - Death Disk returns to Plexor's hand, but swings wide and GRAZES his ARM, leaving a swath of painful CORRUPTION.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Raagghh!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+X-Takks hustle in with hefty NEGABYTE BLASTERS.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Rush! This way!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Flynn, Mega and Flynn dash across the bridge.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Delete them!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+NEGABYTE BEAMS slice walls, erasing all data in their path. Rush, Flynn and Mega dive into a tunnel, escaping by inches.
+</DIRECTION>
+<DIRECTION>
+EXT. FIGHTER HIDE-OUT / DATA PIPE
+</DIRECTION>
+<DIRECTION>
+Rush, Mega and Flynn, pursued, rendezvous with Krod, Boole and Quantz.
+</DIRECTION>
+<BOOLE>
+	<DIALOGUE>
+	This way! Down the pipe!
+	</DIALOGUE>
+</BOOLE>
+<DIRECTION>
+Rush helps Krod, Quantz and Boole into a data pipe. One by one, they WHIRL away in the flow of chromatic data.
+</DIRECTION>
+<DIRECTION>
+Flynn and Mega have a breathless moment to consider Rush.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	He's better than I thought.
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	He's been sent for a reason.
+	</DIALOGUE>
+</FLYNN>
+<MEGA>
+	<DIALOGUE>
+	What reason?
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	Don't know yet. Sometimes we have to trust the bigger plan.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Mega struggles to compute.
+</DIRECTION>
+<DIRECTION>
+Rush turns to help Flynn down the pipe. Mega assists. Flynn's wounded leg gives out, he slips. Rush holds him, but loses his balance, slides down.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Mega! Quick! Jump!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+But she hesitates -
+</DIRECTION>
+<DIRECTION>
+VELCRONIC BEAMS snag her from behind - pulling her back onto the ledge.
+</DIRECTION>
+<DIRECTION>
+Rush tumbles down the flume, glancing back to see:
+</DIRECTION>
+<DIRECTION>
+Mega, hauled away by X-Takk Troops.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	MEGA!!!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Fighters, Krod, Rush and Flynn surf down the data WHIRL, accelerating away from the hot zone.
+</DIRECTION>
+<DIRECTION>
+X-Takks jump in after them, but are all swallowed by the flow - gone.
+</DIRECTION>
+<DIRECTION>
+INT. FIGHTER HIDE-OUT / MAIN HALL
+</DIRECTION>
+<DIRECTION>
+Bashed and ruined, littered with fallen Fighters.
+</DIRECTION>
+<DIRECTION>
+Plexor nurses his injured arm, commanding the mop-up.
+</DIRECTION>
+<DIRECTION>
+X-Takks bring Mega to their leader.
+</DIRECTION>
+<X_TAKK_1>
+	<DIALOGUE>
+	We got her!
+	</DIALOGUE>
+</X_TAKK_1>
+<DIRECTION>
+Mega stands defiant.
+</DIRECTION>
+<DIRECTION>
+Plexor regards her sternly. Extends his hand to her shoulder, cupping the back of her neck.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	You committed a fatal error.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+DATA ENERGY SURGES from his eyes, flushing her body circuits. She fights intensifying input, but soon weakens. She glitches and shuts down, falling into the arms of X-Takks.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Their strategies and tactics lie encrypted in her memory. Bring her! I will hack from her what I need.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+INT. DATA PIPE NETWORK
+</DIRECTION>
+<DIRECTION>
+Flynn leads the way, surfing the chromatic hyper-speed flow with Quantz and Boole.
+</DIRECTION>
+<DIRECTION>
+Rush and Krod struggle to master the technique, rolling, slipping, recovering, grabbing each other.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I got it, I got it, I got it.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Boole surfs around them, heading into a squirrely curve.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	AWWWWWWW!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Krod swings high, out of control. Dumps in front of Rush, who flips him upright.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Shove it! Go!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush and Krod swerve and gathers speed, shooting past Quantz, Boole and Flynn - pivoting to surf BACKWARDS!
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	I remember now! Nothing to it!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Check it out!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush flips up and surfs on his hands. Krod attempts to match the move.
+</DIRECTION>
+<BOOLE>
+	<DIALOGUE>
+	Look out!
+	</DIALOGUE>
+</BOOLE>
+<RUSH>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	TURN AROUND!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush and Krod crane around to see:
+</DIRECTION>
+<DIRECTION>
+DATA PIPE spills into a massive DATA FLUME.
+</DIRECTION>
+<RUSH_KROD>
+	<DIALOGUE>
+	AHHHHHHHH!
+	</DIALOGUE>
+</RUSH_KROD>
+<DIRECTION>
+EXT. DATA FLUME
+</DIRECTION>
+<DIRECTION>
+Rush and Krod plummet into surging hot data, out of control.
+</DIRECTION>
+<DIRECTION>
+Flynn and Fighters expertly surf huge waves.
+</DIRECTION>
+<DIRECTION>
+EXT. DATA BUFFER SHORE
+</DIRECTION>
+<DIRECTION>
+Flynn, Boole and Quantz drag Rush and Krod from data shallows. Everyone's circuits are hot and overloaded.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	I'm cool. Not a problem.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+They let him go him go. Krod glitches, collapses.
+</DIRECTION>
+<DIRECTION>
+Rush gets to his feet, head spinning.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	They took Mega.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	She can handle herself for a while.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	How do we attack Plexor next?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn sizes up his new convert.
+</DIRECTION>
+<QUANTZ>
+	<DIALOGUE>
+	You're with us now?
+	</DIALOGUE>
+</QUANTZ>
+<BOOLE>
+	<DIALOGUE>
+	Do you know hard it is? Opposing the power of Plexor?
+	</DIALOGUE>
+</BOOLE>
+<RUSH>
+	<DIALOGUE>
+	It's like the forty-sixth level of ConquerDome 6.1, while winning a side game of Tetras Ultra, doing six Instant messages and debugging a demo.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Boole, Quantz and Krod are confused, but Flynn gets it.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	All at the same time.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	I'm there. Krod too.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Say what?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Flynn accepts a handshake from Rush.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	We're going to need all the help we can get. Boole, can we make it to the dark zone from here?
+	</DIALOGUE>
+</FLYNN>
+<BOOLE>
+	<DIALOGUE>
+	There is one possible route.
+	</DIALOGUE>
+</BOOLE>
+<FLYNN>
+	<DIALOGUE>
+	We'll meet up with the code monkeys and combine forces.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+EXT. TRANSITION INTO DARK ZONE
+</DIRECTION>
+<DIRECTION>
+Group sets out across a vast region of unpowered circuitry.
+</DIRECTION>
+<DIRECTION>
+EXT. SECRET X-NET PROCESSOR
+</DIRECTION>
+<DIRECTION>
+Hordes of Captured Programs are lined up for termination. Among them: Wounded Fighters from the hide-out raid.
+</DIRECTION>
+<FIGHTER_1>
+	<DIALOGUE>
+	We gave it everything.
+	</DIALOGUE>
+</FIGHTER_1>
+<FIGHTER_2>
+	<DIALOGUE>
+	Interface. We can resist.
+	</DIALOGUE>
+</FIGHTER_2>
+<FIGHTER_3>
+	<DIALOGUE>
+	Interface.
+	</DIALOGUE>
+</FIGHTER_3>
+<DIRECTION>
+They move close, holding each other. X-Takks FIRE. De-rezz beams zap them to bits.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - NIGHT
+</DIRECTION>
+<DIRECTION>
+Computer Users react with frustration, as their programs crash (Users correspond in appearance to the Programs who just got zapped.)
+</DIRECTION>
+<DIRECTION>
+Web ads sell the virtues of X-Net.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - FACTORY FLOOR - NIGHT
+</DIRECTION>
+<DIRECTION>
+Fire sprinklers fire off for no reason. Workers rush away, sprayed from above. Assembly line full of partially-assembled video recorders get dowsed with water.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - AIRLINER COCKPIT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Pilots react: Navigational instruments glitch and fail.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - SINCLAIR'S OFFICE - NIGHT
+</DIRECTION>
+<DIRECTION>
+X-Net sales rise higher, as TV news grows bleaker.
+</DIRECTION>
+<DIRECTION>
+Sinclair is distracted by a data file: News stories about the death of Flynn. The laboratory "accident".
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE X-NET MAIN HIGHWAY - UNDER CONSTRUCTION
+</DIRECTION>
+<DIRECTION>
+Plexor. Lording over the grand-scale construction. Sterile design, sleek lines, enormous capacity.
+</DIRECTION>
+<DIRECTION>
+X-Net Drone Workers assemble beams, girders, circuitry.
+</DIRECTION>
+<DIRECTION>
+X-Net OPTIK HIGHWAY NETWORK blasts through old systems and extends across cyberspace with alarming speed.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Is completion on schedule?
+	</DIALOGUE>
+</PLEXOR>
+<X_NET_BUILDER_BOSS>
+	<DIALOGUE>
+	On schedule.
+	</DIALOGUE>
+</X_NET_BUILDER_BOSS>
+<DIRECTION>
+Plexor boards his Cruiser, which SPEEDS onto a completed stretch of X-Net OPTIK HIGHWAY. He's the only vehicle in sight, hogging a thousand brand-new lanes of data expressway.
+</DIRECTION>
+<DIRECTION>
+Plexor accelerates, relishing the thrill of unchecked power -
+</DIRECTION>
+<DIRECTION>
+EXT. X-NET ARTERIES - VARIOUS
+</DIRECTION>
+<DIRECTION>
+Plexor's Cruiser speeds through a new, as-yet unused X-Net switching station. It's heavily secured. X-Takk troops defer to their supreme leader.
+</DIRECTION>
+<DIRECTION>
+Plexor veers onto a proprietary side-route, bound for:
+</DIRECTION>
+<DIRECTION>
+EXT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+Firewall apertures cool, anticipating Plexor's arrival.
+</DIRECTION>
+<DIRECTION>
+Encryption portal opens.
+</DIRECTION>
+<DIRECTION>
+Plexor's Cruiser glides in.
+</DIRECTION>
+<DIRECTION>
+Portal closes.
+</DIRECTION>
+<DIRECTION>
+Firewalls reactivate, blazing red-hot, sealing the fortress.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+Towering corridors. Powerful armored X-Takk Guards stand in pairs at every portal, corner and column.
+</DIRECTION>
+<DIRECTION>
+Plexor strides past, steps into a special GATE. Data beams react with his circuitry. Encryption key resolves.
+</DIRECTION>
+<DIRECTION>
+Gate opens.
+</DIRECTION>
+<DIRECTION>
+INT. PROGRAMMING CHAMBER
+</DIRECTION>
+<DIRECTION>
+Plexor strides across the spare, sleek space.
+</DIRECTION>
+<DIRECTION>
+On a slab lies Mega, radiated from above by READER BEAMS.
+</DIRECTION>
+<DIRECTION>
+Plexor considers her glowing body circuits. Studies emerging data patterns.
+</DIRECTION>
+<DIRECTION>
+Satisfied, he halts the process. Beams go dark.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Boot up.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Mega awakens, sits up. She sees the device, then Plexor.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	You treat me like I've been corrupted.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	I cannot predict the random effects Flynn might have caused in you.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	You programmed me to gather intelligence. That's all I've ever done.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	How long have you known Flynn?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Enough time to gain his trust.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	Your behavior was highly authentic.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	To him. It had to be.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	Have you allowed Flynn to complete a full interface with you?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	I am programmed to allow such access only to you, Plexor.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Her eyes lock on him. He is satisfied.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Flynn claims to be a User. As did the one called Rush.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Users do not exist.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	You have seen nothing to make you doubt this?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Nothing.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	They possess no powers beyond those of routine Programs?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	I have no knowledge of such powers.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+She steps down. They walk out of the chamber.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Still, there is something about them I cannot compute. Flynn plans to attack me, doesn't he?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Yes. And Rush will fight by his side.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	Where will they strike?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Flynn does not decide until the hour of his attack. But he trusts me completely. When he knows the place, I will know it as well.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	Perfect. They will be met with a final thrashing. Yes, let them come.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+They pass through the gate, arrive in the corridor.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Have you further instructions for me?
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	None for now. But stay close.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+They lock gazes. Barcode data surges between them.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	You came to me full of glitches and random routines. Look at you now. What an extraordinary piece of programming I have made of you. I created X-Net to the same standard of flawless beauty. Soon, its perfection will become all that is, and all that ever will be.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	All events remain under your control.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+With a smirk and a final jolt of data, Plexor leaves her.
+</DIRECTION>
+<DIRECTION>
+INT. PLEXOR'S CPU
+</DIRECTION>
+<DIRECTION>
+Plexor crosses into his inner sanctum. Raises his disk, initiates RUBY BEAM link with Sinclair.
+</DIRECTION>
+<DIRECTION>
+Mega appears on a balcony above, in the shadows, secretly observing Plexor.
+</DIRECTION>
+<DIRECTION>
+EXT. DARK ZONE
+</DIRECTION>
+<DIRECTION>
+Howling, barren, dim. Circuitry left unpowered for eons.
+</DIRECTION>
+<DIRECTION>
+Rush and Krod follow Flynn and Fighters, into treacherous canyons, across vast planes.
+</DIRECTION>
+<DIRECTION>
+Rush hears something and pulls the group behind cover.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Over there!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Three massive X-NET X-PORTER VEHICLES rumble by. Imprisoned in the rear are hundreds of Programs. Cruisers blast a path through mountains and speed away.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Those Programs think they're just being transferred!
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Can we take out those X-Net guys?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Our forces are too thin. We can't risk a battle that would reveal this position.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+From another direction appear two Code Monkey Programs.
+</DIRECTION>
+<CODE_MONK_B3T>
+	<DIALOGUE>
+	Flynn! Down here!
+	</DIALOGUE>
+</CODE_MONK_B3T>
+<FLYNN>
+	<DIALOGUE>
+	BT! JR!
+	</DIALOGUE>
+</FLYNN>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	Flynn! Enter. We configured a base.
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<FLYNN>
+	<DIALOGUE>
+	Good to see you guys. When did the X-Net goons start patrolling all the way out here?
+	</DIALOGUE>
+</FLYNN>
+<CODE_MONK_B3T>
+	<DIALOGUE>
+	They're everywhere now. Taking all Programs by force.
+	</DIALOGUE>
+</CODE_MONK_B3T>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	Come. There is much to report!
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<DIRECTION>
+They head down into:
+</DIRECTION>
+<DIRECTION>
+INT. LAST FIGHTER CACHE
+</DIRECTION>
+<DIRECTION>
+Deteriorating silicon lattice. Flynn, Rush, Krod and Fighters arrive to a meager encampment.
+</DIRECTION>
+<CODE_MONK_N1J>
+	<DIALOGUE>
+	Greetings.
+	</DIALOGUE>
+</CODE_MONK_N1J>
+<FLYNN>
+	<DIALOGUE>
+	Hey guys. This is Rush and his main man Krod. They defected from Plexor's forces to fight with us.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+A buzz of hope penetrates gloom. Nobody has defected from Plexor before.
+</DIRECTION>
+<CODE_MONK_N1J>
+	<DIALOGUE>
+	We made progress decoding X-Net's power supply encryption.
+	</DIALOGUE>
+</CODE_MONK_N1J>
+<FLYNN>
+	<DIALOGUE>
+	Excellent. Let's see.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+In a make-shift lab, CODE MONKEYS demonstrate, working at mind-boggling speed, assembling a small intricate HOLOGON DEVICE (conical pyramid-shaped encryption key).
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	I've seen that somewhere.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	It's the encryption pattern on Plexor's disk.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Good eyes. We've got Mole Programs who score chunks of Plexor's personal code anywhere they can find it. These guys fit the pieces together. It can take a quadrillion combinations.
+	</DIALOGUE>
+</FLYNN>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	We just snagged the last piece, but the battle cost us big time.
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<FLYNN>
+	<DIALOGUE>
+	How many of you crashed?
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Heads shake somberly.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	The Teraflop Boys? Algebrat?
+	</DIALOGUE>
+</FLYNN>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	All that survive, you see standing here.
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<FLYNN>
+	<DIALOGUE>
+	Oh Geez.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Flynn falters on his bad leg. Quantz and Boole support him.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Time is running out!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush approaches Code monkeys as they toil blur-speed, trying to fit the final code piece - a flat square. Pyramidal HOLOGON looks exactly like the X-Net desk toy we saw in Rush's cubicle.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Yow. I get tired just watching these dudes.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush sees: Compilers try to fit the square inside the pyramid.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Just for laughs, try putting the circle on top of the pyramid.
+	</DIALOGUE>
+</RUSH>
+<CODE_MONKS>
+<DIRECTION>
+(unison)
+</DIRECTION>
+	<DIALOGUE>
+	That's incongruous.
+	</DIALOGUE>
+</CODE_MONKS>
+<RUSH>
+	<DIALOGUE>
+	If I'm wrong, ding me.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	What have we got to lose? Try it.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Code Monkeys place the square on top of the pyramid.
+</DIRECTION>
+<DIRECTION>
+Bingo.
+</DIRECTION>
+<DIRECTION>
+Square spins into a circle, latches and LIGHTS the entire Hologon lattice. Intricate 3D code patterns ANIMATES.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Not bad.
+	</DIALOGUE>
+</FLYNN>
+<KROD>
+	<DIALOGUE>
+	Good thing you didn't terminate us.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	How do we use this thing to shut down Plexor?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+<DIRECTION>
+(picks up hologon)
+</DIRECTION>
+	<DIALOGUE>
+	It's a copy of Plexor's master key. We can break into any X-Net facility and fry the power supply.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	But once Plexor knows we have it, he'll change the code.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Yep. We've got one shot.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Then we should take out the power supply to Plexor's main server.
+	</DIALOGUE>
+</RUSH>
+<GROUP>
+	<DIALOGUE>
+	Yes! Take out Plexor's central server!
+	</DIALOGUE>
+</GROUP>
+<FLYNN>
+	<DIALOGUE>
+	Hang on, guys, that's not as easy as it sounds -
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	I was inside the main server, I saw how it's laid out.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	I used to work there! I'll recognize where everything is!
+	</DIALOGUE>
+</KROD>
+<CODE_MONK_N1J>
+	<DIALOGUE>
+	We can take it!
+	</DIALOGUE>
+</CODE_MONK_N1J>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	Hit Plexor where he lives!
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<FLYNN>
+	<DIALOGUE>
+	Even with this key, it won't -
+	</DIALOGUE>
+</FLYNN>
+<QUANTZ>
+	<DIALOGUE>
+	We can pull it off, can't we Flynn? One final assault on Plexor's central server?
+	</DIALOGUE>
+</QUANTZ>
+<BOOLE>
+	<DIALOGUE>
+	Shut him down forever?
+	</DIALOGUE>
+</BOOLE>
+<DIRECTION>
+All eyes on Flynn. Rush's naivete has ignited false hope in the Fighters.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Of course we can.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn forces a smile.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Hey, the future depends on us. How could we fail?
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+INT. ENCOM ADVANCED RESEARCH LAB - MOMENTS LATER
+</DIRECTION>
+<DIRECTION>
+Sinclair comes off the secured elevator, finds Meg and Dewey at work on Quantum Digitizer.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	It's almost fixed. I'll be able to bring back Rush soon -
+	</DIALOGUE>
+</MEG>
+<SINCLAIR>
+	<DIALOGUE>
+	Excellent work. Unfortunately, I'm shutting down this project.
+	</DIALOGUE>
+</SINCLAIR>
+<MEG>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MEG>
+<SINCLAIR>
+	<DIALOGUE>
+	Something came up. The company is at stake. I can't go into details.
+	</DIALOGUE>
+</SINCLAIR>
+<MEG>
+	<DIALOGUE>
+	But Rush would have no way to return!
+	</DIALOGUE>
+</MEG>
+<SINCLAIR>
+	<DIALOGUE>
+	Meg. I will never hold you responsible. This is a tough call, but it's mine. Dismantle and destroy all of this equipment and software. Immediately.
+	</DIALOGUE>
+</SINCLAIR>
+<MEG>
+	<DIALOGUE>
+	Well -
+	</DIALOGUE>
+</MEG>
+<SINCLAIR>
+	<DIALOGUE>
+	Meg... I'm not asking.
+	</DIALOGUE>
+</SINCLAIR>
+<MEG>
+	<DIALOGUE>
+	I understand.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+He shoots a look and exits.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE - X-NET OPTIK HIGHWAY OVER DARK ZONE
+</DIRECTION>
+<DIRECTION>
+Compiler Crews work at megahertz speed. OPTIK HIGHWAYS extend and converge. Switching stations assemble. Crews shift to new assignments.
+</DIRECTION>
+<DIRECTION>
+Pull wide to see dismal ground below. Dark zone, emitting woeful blips of random energy.
+</DIRECTION>
+<DIRECTION>
+Pillars descend from X-Net crews above and SMASH into the old silicon, planting themselves deep and impervious.
+</DIRECTION>
+<DIRECTION>
+Rush stands on a vista point, aghast as X-Net construction dominates the landscape.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	It's a bummer being on the losing team, huh Rush?
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Flynn sits nearby, trying to patch his corrupted leg.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	We'll trash X-Net. Then we'll go back to the our world and expose what Sinclair's done.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+He looks at Krod, Boole, Quantz and Code Monkeys in the distance, preparing for battle.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Do they have any idea our world exists? Do they understand what a User is?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Programs once connected freely with their Users. But Plexor shut down the I/O ports, severing all links. He controls all contact with the world we once knew. Programs operate on his instructions or none at all.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Or yours.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	It's nothing to brag about. We're getting our butts kicked.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	It there a way to contact Meg? She can transport us back to our world. Maybe it's better if we fight Sinclair on his own turf.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn lays a somber gaze on his eager Fighters.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	I gave up the idea of going back a long time ago... You should too.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Sinclair didn't get where he is by being dumb. Even if we survive Plexor's forces in here, Sinclair will make sure we never get back home.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	But... Meg said -
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	I'm sure she'll do everything she can. It might not be enough.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Flynn removes a cover-plate from his leg, trying to hide the damage from Rush. Suspicious, Rush pulls the plate aside.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Oh, man.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn's data corruption has worsened. His leg throbs with the drab glow of irreversible MEMORY DRAIN.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Why didn't you tell anyone it was this bad?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Flynn looks at his leg. Then at Rush.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Rush. I think Meg suspects the truth about Sinclair. That's why she sent you here. She knew you're the one guy who could find out.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	I thought she hated me.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	She believed in you more than you believed in yourself.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+It sinks in. Wow.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Do we really have a shot at winning against Plexor?
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	We have his master key. And we have Mega working on the inside.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Mega... Are you sure about her? I get the feeling she plays both sides.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Plexor programmed her to perform his will. He's a control freak. I'm not. I programmed her to have a will of her own. Whatever she decides, it's up to her.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Sounds dangerous.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Sometimes you've got to trust the bigger plan.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Krod and Fighters approach.
+</DIRECTION>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	Ready to rock and roll.
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<FLYNN>
+	<DIALOGUE>
+	Guys... Rush is right about our final attack. If we've only got one shot, we should go for Plexor's central server. If we insert the hologon key in the main power supply, we can trigger a meltdown. Plexor will be have his best troops standing in our way. Getting past them was the ultimate task I programmed Tron to carry out.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He takes up Tron's dark disk.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	I turbo-charged him to burn hot and burn fast. Who else could handle the operating code in this disk?
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He extends the disk to Rush.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	You.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Uhhh, I don't think so.
+	</DIALOGUE>
+</RUSH>
+<BOOLE>
+	<DIALOGUE>
+	It could mean the difference between winning and losing.
+	</DIALOGUE>
+</BOOLE>
+<KROD>
+	<DIALOGUE>
+	Hey, I'll try.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush holds off Krod, takes the disk.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	What do I do - ?
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Waves of Rush's DATA ENERGY surge into disk circuitry.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Yow!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+He buckles and shakes. Hands zapping. Knees trembling.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Steady. It's all about giving as much as you get. Let it become a part of you.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush clenches teeth, concentrates. Grips the disk.
+</DIRECTION>
+<DIRECTION>
+Energy surges back and forth, up Rush's arms, around the disk. He holds tight, ready to scream -
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Awesome, dude! Don't let go!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Fighters are amazed, as TRON'S DISK POWERS UP -
+</DIRECTION>
+<DIRECTION>
+And RUSH'S body circuits DAZZLE in the ruby circuitry patterns of TRON.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	HE DID IT!
+	</DIALOGUE>
+</KROD>
+<FLYNN>
+	<DIALOGUE>
+	Damn, look at that... He did it.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush looks at his arms, astounded. His circuitry strobes in hues of brilliant red. Disk animates and unfolds, revealing infinite surface variations.
+</DIRECTION>
+<DIRECTION>
+Rush feels new power surging inside his body. His eyes harden, keen like Tron's. Rush LEAPS BACKWARD, goes airborne, lands on a ledge high above. Amazing balance.
+</DIRECTION>
+<KROD_FIGHTERS>
+	<DIALOGUE>
+	YES! Excellent move, dude!
+	</DIALOGUE>
+</KROD_FIGHTERS>
+<RUSH>
+	<DIALOGUE>
+	It feels... Awesome.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush's voice is a little deeper, with a digital edge. It surprises him.
+</DIRECTION>
+<DIRECTION>
+He cocks his disk and THROWS.
+</DIRECTION>
+<DIRECTION>
+Disk rockets across the landscape, a mile away and STRIKES an X-NET SURVEY POST, blasting it to bits. Disk arcs high, shoots back toward Rush.
+</DIRECTION>
+<DIRECTION>
+Rush looks worried for a second, ready to duck -
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Don't flinch, Rush! It's your disk now.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Disk snaps back into Rush's hand, painlessly. Throbbing with energy.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Oh man, this is good.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush pulls a new LIGHT WAND from a thigh bracket. It extends into a hundred-foot vaulting pole. Rush VAULTS across the canyon, lands with precision. Light pole retracts into the wand in a nanosecond.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Awwwww! Where can I get one of those?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Another two vaults and a leap - Rush tosses his disk into a spiral, steps off it mid-air (like stairs), and lands perfectly - rejoining the group.
+</DIRECTION>
+<DIRECTION>
+Cheers from Krod, Quantz, Boole and Code Monkeys. Flynn shakes Rush's hand - energy surges between them.
+</DIRECTION>
+<BOOLE>
+	<DIALOGUE>
+	It's for real, Quantz.
+	</DIALOGUE>
+</BOOLE>
+<QUANTZ>
+	<DIALOGUE>
+	We've got a chance to take down Plexor.
+	</DIALOGUE>
+</QUANTZ>
+<DIRECTION>
+INT. X-NET CENTRAL SERVER - MAIN HALL
+</DIRECTION>
+<DIRECTION>
+Plexor reviews a line of elite X-Takks. All are decked in thick battle gear, gripping an array of menacing ultra-tech weapons.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Perfect. Any three of you could crash an army of Flynn's best. But I've prepare for his random acts by designing massive redundancy.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Widen to reveal:
+</DIRECTION>
+<DIRECTION>
+BATTALION of X-Takks, lined in precise rows, filling the vast hall. Since Adolf Hitler, no one has displayed such an awesome military machine.
+</DIRECTION>
+<DIRECTION>
+INT. PLEXOR'S INNER SANCTUM
+</DIRECTION>
+<DIRECTION>
+Mega sneaks in, alone. She pulls her disk off her back and raises it above her head. Data energizes around her. She clenches hard, trying to make the connection.
+</DIRECTION>
+<DIRECTION>
+A RUBY BEAM converges off her disk, reaching skyward.
+</DIRECTION>
+<DIRECTION>
+INT. REAL WORLD - ENCOM ADVANCED RESEARCH LAB - NIGHT
+</DIRECTION>
+<DIRECTION>
+Meg and Dewey work to dismantle the lab.
+</DIRECTION>
+<DIRECTION>
+Meg walks past, stops. Comes back. Reads fresh text on a computer screen: DOES MEG EXIST?
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	Dewey. This your idea of a joke?
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+INT. CYBERSPACE - X-NET CENTRAL SERVER - MAIN HALL
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Cybavor programming complete?
+	</DIALOGUE>
+</PLEXOR>
+<X_NET_SPECIALIST>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</X_NET_SPECIALIST>
+<PLEXOR>
+	<DIALOGUE>
+	Demonstrate.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+X-Net Specialists drops the sides on a cubic cage.
+</DIRECTION>
+<DIRECTION>
+A frozen dog-like CYBAVOR CREATURE stands like a statue.
+</DIRECTION>
+<DIRECTION>
+Plexor nods. X-Net Specialist activates.
+</DIRECTION>
+<DIRECTION>
+Cybavor comes alive. Circuits RAGING. Eyes pulsing.
+</DIRECTION>
+<DIRECTION>
+Plexor summons an X-Net Worker Drone.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Install yourself over there.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Worker Drone does as he's told. He freezes in place.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Attack!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Cybavor leaps like a hyena, bounds the length of the hall. DIVES at the Worker Drone...
+</DIRECTION>
+<DIRECTION>
+And DEVOURS HIM mercilessly.
+</DIRECTION>
+<DIRECTION>
+Energy sparks fly, circuits zap, as the Cybavor digest the energy, GROWS LARGER, then SPLITS DOWN THE MIDDLE (like DNA), then regrows the missing halves.
+</DIRECTION>
+<DIRECTION>
+Now the Cybavor is a PAIR of nasty, snarling Cybavors.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	End routine.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Cybavors sit.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Elegant.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Surveying his perfect defenses, he notices one thing missing.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Where is Mega?
+	</DIALOGUE>
+</PLEXOR>
+<X_NET_SECURITY_LEADER>
+	<DIALOGUE>
+	Only you are authorized to monitor her coordinates.
+	</DIALOGUE>
+</X_NET_SECURITY_LEADER>
+<PLEXOR>
+	<DIALOGUE>
+	Download forces. Await my command.
+	</DIALOGUE>
+</PLEXOR>
+<X_NET_SECURITY_LEADER>
+	<DIALOGUE>
+	Download!
+	</DIALOGUE>
+</X_NET_SECURITY_LEADER>
+<DIRECTION>
+X-Takks file out in perfect lines, turn perfect corners, dispersing into the compound. Each one moves in exactly the same way.
+</DIRECTION>
+<DIRECTION>
+Plexor turns sharply to exit, encountering... Mega. Standing there obediently.
+</DIRECTION>
+<DIRECTION>
+EXT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+On the fortress perimeter, X-Takks stand watch at the base of a deep security moat.
+</DIRECTION>
+<DIRECTION>
+They turn, eyes scanning. Behind them, a LIGHT POLE extends into the canyon, then swings across.
+</DIRECTION>
+<DIRECTION>
+It's "tronified" Rush, using his vaulting pole to ferry Fighters across the moat edges.
+</DIRECTION>
+<DIRECTION>
+He returns to the far side, landing momentarily on a lone central pinnacle to make the distance.
+</DIRECTION>
+<DIRECTION>
+Rush vaults back to gather Krod, who's the last to cross.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Don't take this the wrong way.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Don't drop me.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+He hugs Krod and vaults them across. Krod clings and struggles, then YELPS -
+</DIRECTION>
+<DIRECTION>
+X-Takks hear and scan the pinnacle and moat edges.
+</DIRECTION>
+<DIRECTION>
+On top of the pinnacle, Rush and Krod hunker. Flynn signals from the far side "stay down!"
+</DIRECTION>
+<DIRECTION>
+X-Takks patrol below, pausing to gaze up.
+</DIRECTION>
+<DIRECTION>
+Atop the pinnacle, Krod's circuits energy-zap with fear. Rush holds him down.
+</DIRECTION>
+<DIRECTION>
+At last, X-Takks move on.
+</DIRECTION>
+<DIRECTION>
+Rush extends his light pole to the moat floor - vaults to the far side with Krod.
+</DIRECTION>
+<DIRECTION>
+Krod stabilizes, looks around.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Yeah, I recognize this place. I know where everything is!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+He heads off, encounters a dead end. Quantz pulls him the right way.
+</DIRECTION>
+<DIRECTION>
+EXT. DATA NEXUS / CENTRAL SERVER PERIPHERY
+</DIRECTION>
+<DIRECTION>
+Boole and Code Monk B3t help Flynn to a secluded data buffer.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Rush, up there. See it?
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush leaps to a high circuitry nexus.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	I hope you're right about Mega.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Rush touches circuitry, energizing it with data.
+</DIRECTION>
+<DIRECTION>
+Mega's image appears in circuitry energy patterns.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	You. Where is Flynn?
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	We're all here.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	I arranged for your entry. An encryption portal has been left unlocked. Path 4786324BXY. Do you know the way?
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Rush looks down to Code Monk J2r. He gives a high sign.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET CENTRAL SERVER / CIRCUITRY
+</DIRECTION>
+<DIRECTION>
+Mega watches glowing circuity image of Rush.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	We got it.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Hurry.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+She deactivates. Rush's image vanishes.
+</DIRECTION>
+<DIRECTION>
+Mega thinks for a moment - we're not sure what - then walks around a corner.
+</DIRECTION>
+<DIRECTION>
+Bumps smack into:
+</DIRECTION>
+<DIRECTION>
+Plexor.
+</DIRECTION>
+<DIRECTION>
+Flanked by his two snarling Cybavors.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	You contacted them.
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	And?
+	</DIALOGUE>
+</PLEXOR>
+<MEGA>
+	<DIALOGUE>
+	I gave them the portal address. They will attempt entry soon.
+	</DIALOGUE>
+</MEGA>
+<PLEXOR>
+	<DIALOGUE>
+	Perfect. We will be waiting.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+EXT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+Patrols of X-Takks pass.
+</DIRECTION>
+<DIRECTION>
+Rush leaps to a vantage point them. Scouts a route, signals Flynn, Krod, Boole, Quantz and the Code Monkeys.
+</DIRECTION>
+<DIRECTION>
+Fighter team scales a narrow ledge near the BLAZING FIREWALL. It's like a sheet of molten lead, pouring endlessly before them. A lethal barrier.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	This is all yours, Rush.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush pulls his disk, holds it over his head and steps under the molten data flow. He struggles against raw power, disk HEATS UP WHITE, splashing aside the molten data.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Go! Quick!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Code Monkeys, Flynn and Krod, Quantz and Boole dive between Rush's legs, emerging on the other side. Barrier overcome.
+</DIRECTION>
+<DIRECTION>
+Rush leaps out of the firewall, clutching his white-hot disk.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	No sweat.
+	</DIALOGUE>
+<DIRECTION>
+(to himself)
+</DIRECTION>
+	<DIALOGUE>
+	OUCH.
+	</DIALOGUE>
+</RUSH>
+<CODE_MONK_N1J>
+	<DIALOGUE>
+	That way to the portal!
+	</DIALOGUE>
+</CODE_MONK_N1J>
+<RUSH>
+	<DIALOGUE>
+	Let's do it.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+They head for the fortress along a surreptitious route, avoiding X-Takk patrols.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+Plexor - with Mega and the Cybavors two paces behind - leads an army of X-Takks.
+</DIRECTION>
+<DIRECTION>
+A Cybavor growls at Mega. She growls back.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	There it is. That's the portal.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Plexor masses his forces around a closed ENCRYPTION PORTAL. It is a dark semispheric aperture, left unlocked (but closed).
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Converge on all levels! Outside patrols close in behind these coordinates!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+X-Takks come from all directions, all levels.
+</DIRECTION>
+<DIRECTION>
+EXT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+Flynn pauses to see X-Net Patrols in motion, across bridges, through tunnels. All around.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Something's up.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Keep moving.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+They come to a dark encryption portal, seen from their exterior view.
+</DIRECTION>
+<BOOLE>
+	<DIALOGUE>
+	Portal 4786324BXY. This is it.
+	</DIALOGUE>
+</BOOLE>
+<DIRECTION>
+Flynn withdraws the HOLOGON.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	The sooner Rush gets this into the main power supply, the sooner X-Net shuts down. And the more of us come out of here to tell about it.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush takes the hologon, stows it.
+</DIRECTION>
+<DIRECTION>
+Pumped looks between Code Monkeys, Boole and Quantz. Krod trembles.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Oh man, I think I'm leaking.
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Krod. You'll do great.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Think so?
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Your recognize patterns better than any of us. You'll know Plexor's moves before he does.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	I hope you're right... Rush?
+	</DIALOGUE>
+</KROD>
+<RUSH>
+	<DIALOGUE>
+	Yeah man?
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Are you really a "User"? Is there such a thing? Is that what makes you so good?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+All Programs hang on Rush's answer. Flynn too.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Flynn and I come from a realm no better or worse than here... One thing I know, neither place works unless you're looking out for the other guy. And we've got a word for what all of you are.
+	</DIALOGUE>
+</RUSH>
+<BOOLE>
+	<DIALOGUE>
+	Obsolete?
+	</DIALOGUE>
+</BOOLE>
+<RUSH>
+	<DIALOGUE>
+	Heroes.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	Cool.
+	</DIALOGUE>
+</KROD>
+<CODE_MONK_B3T>
+	<DIALOGUE>
+	I'm ready.
+	</DIALOGUE>
+</CODE_MONK_B3T>
+<QUANTZ>
+	<DIALOGUE>
+	Let's do it.
+	</DIALOGUE>
+</QUANTZ>
+<DIRECTION>
+Fighters hustle under the shadow of the portal... Approaching the closed semispheric aperture.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+X-Takks stand thick, weapons pointed at the closed aperture.
+</DIRECTION>
+<DIRECTION>
+Plexor marks time. Cybavors poise to attack.
+</DIRECTION>
+<DIRECTION>
+Mega, emotions rising, takes a step back.
+</DIRECTION>
+<DIRECTION>
+EXT. DARK PORTAL
+</DIRECTION>
+<DIRECTION>
+Flynn falters on his wounded leg. Fighters steady him.
+</DIRECTION>
+<DIRECTION>
+Rush steps forward, places a hand on the semispheric aperture. Mechanism activates.
+</DIRECTION>
+<DIRECTION>
+INT. PORTAL
+</DIRECTION>
+<DIRECTION>
+Plexor tenses, eager for the slaughter.
+</DIRECTION>
+<DIRECTION>
+X-Takks cock weapons, take careful aim.
+</DIRECTION>
+<DIRECTION>
+INT. DARK PORTAL
+</DIRECTION>
+<DIRECTION>
+Flynn, Code Monkeys, Quantz, Boole, Krod... Gathering near Rush -
+</DIRECTION>
+<DIRECTION>
+PORTAL OPENS AROUND THEM, revealing a stunning view of:
+</DIRECTION>
+<DIRECTION>
+The inside of the fortress...
+</DIRECTION>
+<DIRECTION>
+Not an X-Takk in sight.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Nothing to it.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush leads group inside.
+</DIRECTION>
+<DIRECTION>
+INT. "EXECUTION PORTAL"
+</DIRECTION>
+<DIRECTION>
+Plexor grows impatient. Senses trouble.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	OPEN IT! OPEN FIRE!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+X-Net Specialist activates portal. Semispheric aperture irises open to reveal:
+</DIRECTION>
+<DIRECTION>
+X-Takk Patrol. Charging in from outside.
+</DIRECTION>
+<DIRECTION>
+No fighters in sight.
+</DIRECTION>
+<DIRECTION>
+Inside-X-Takks and outside-X-Takks take orders literally:
+</DIRECTION>
+<DIRECTION>
+They FIRE at EACH OTHER. Many crash, zap and fizzle.
+</DIRECTION>
+<DIRECTION>
+Cybavors leap in, devouring corrupted X-Takks. The two Cybavors use energy "food" to bifurcate into FOUR.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	CEASE FIRE!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+They do so, instantly.
+</DIRECTION>
+<DIRECTION>
+Plexor fumes.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	You've been tricked!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+He spins to find Mega gone.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Mega has betrayed me for the last time! She is with the fighters! Find them! CRASH THEM ALL!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+INT. X-NET CENTRAL SERVER
+</DIRECTION>
+<DIRECTION>
+Mega RUNS from the scene. Around a corner, she collides with Rush, Flynn, Krod & Fighters. Breathless:
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Flynn! Keep moving! This way!
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	I'm proud of you, Mega.
+	</DIALOGUE>
+</FLYNN>
+<MEGA>
+	<DIALOGUE>
+	I linked with MEG. Users exist. She instructed me.
+	</DIALOGUE>
+</MEGA>
+<RUSH>
+	<DIALOGUE>
+	Go, Meg!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+She glances over the new "tronified" Rush. Despite herself, she's impressed. But there's no time for talk.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Which way to the power supply?!
+	</DIALOGUE>
+</RUSH>
+<KROD>
+<DIRECTION>
+(scanning)
+</DIRECTION>
+	<DIALOGUE>
+	Ummmm... That way!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rush leaps to a high ledge to confirm: Massive throbbing power supply CORE CUBE lies at the center of the fortress's concentric squares. High sign to Krod.
+</DIRECTION>
+<TRON>
+	<DIALOGUE>
+	You're right! There it is!
+	</DIALOGUE>
+</TRON>
+<KROD>
+	<DIALOGUE>
+	And here they come!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Rumble precedes: ARMY of X-Takks, coming to get them.
+</DIRECTION>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	Break out the toys!
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<DIRECTION>
+X-Takks are upon them, and the battle is joined.
+</DIRECTION>
+<DIRECTION>
+X-Net disks fly by the hundreds.
+</DIRECTION>
+<DIRECTION>
+Krod and Code Monkeys fire a SQRAM projectile, which opens mid-air into a super-wide circular magnetic field "net".
+</DIRECTION>
+<DIRECTION>
+SQRAM field sucks in X-Net disk and zaps them to ash.
+</DIRECTION>
+<DIRECTION>
+X-Takks charge.
+</DIRECTION>
+<DIRECTION>
+Rush flips down from above, throws tron-disk -
+</DIRECTION>
+<DIRECTION>
+Disk ricochets of ten X-Takks, mows them down.
+</DIRECTION>
+<DIRECTION>
+Rush retrieves his disk, lands near Krod and Fighters.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Block this choke point, slow them down. Can you guys do it?
+	</DIALOGUE>
+</RUSH>
+<QUANTZ>
+	<DIALOGUE>
+	Not a problem.
+	</DIALOGUE>
+</QUANTZ>
+<DIRECTION>
+He throws his disk behind his back, takes out an approaching X-Net goon.
+</DIRECTION>
+<DIRECTION>
+Rush hurries away with Mega and Flynn.
+</DIRECTION>
+<DIRECTION>
+Krod, Quantz, Boole and Code Monkeys are besieged by a hundred X-Takks.
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Whoa! Retreat! That way! Keep firing! RUN! AHHH!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Plexor enters the battle arena with his four CYBAVORS. He scans keenly, then heads off another direction.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET GANTRY / MAIN POWER SUPPLY
+</DIRECTION>
+<DIRECTION>
+Flynn hobbles, helped by Mega. Rush leads them around a corner, in sight of:
+</DIRECTION>
+<DIRECTION>
+MAIN POWER SUPPLY. Massive reactive CORE CONTAINMENT CUBE.
+</DIRECTION>
+<DIRECTION>
+Rush comes to the edge of a deep, narrow moat. Bottom is a channel of ROILING, MOLTEN CHROMATIC DATA. No bridges.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	We have to get across.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+RAAAA!!!
+</DIRECTION>
+<DIRECTION>
+Six X-Takks are upon them, disks flying, NegaByte eraser beams swinging.
+</DIRECTION>
+<DIRECTION>
+Flynn Takes a hit in the chest.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	ARRGGHH!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush and Mega dodge, fling their disks with lethal accuracy -
+</DIRECTION>
+<DIRECTION>
+X-Takks crash and fall, tumbling into the moat abyss, flashing as they hit the molten bottom.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET CENTRAL SERVER CORRIDORS
+</DIRECTION>
+<DIRECTION>
+Krod, Boole and Quantz bait a phalanx of X-Takks, Code Monkeys spring a DEGAUSSING CHARGE, which cuts off a column at the base. Column tumbles, crashing X-Takks, blocking the way.
+</DIRECTION>
+<DIRECTION>
+High fives among Krod and Fighters.
+</DIRECTION>
+<DIRECTION>
+One Small X-Takk breaks through, ZAPPING through the air, reforming, ZAPPING CLOSER.
+</DIRECTION>
+<DIRECTION>
+Fighters turn to blast him.
+</DIRECTION>
+<DIRECTION>
+But Krod recognizes the pattern:
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Wait! I know that dude!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Quantz stuns an X-Takk Soldier - Code Monkeys hack his X-Net Armor. Armor powers down, revealing:
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	I-beem!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+I-beem shakes off his brainwashing.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	Krod my friend! Who are these guys?!
+	</DIALOGUE>
+</I_BEEM>
+<KROD>
+	<DIALOGUE>
+	We're taking out Plexor. You with us or them?
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+X-Takks attack the group, including I-beem.
+</DIRECTION>
+<DIRECTION>
+I-beem zaps away, reappearing next to an X-Takk. He steals the X-Takk's NEGABYTE BLASTER and mows down three X-Takks, saving trapped Boole.
+</DIRECTION>
+<I_BEEM>
+	<DIALOGUE>
+	With you!
+	</DIALOGUE>
+</I_BEEM>
+<DIRECTION>
+I-beem joins Fighters as they press deeper, engaging the next X-Takk onslaught.
+</DIRECTION>
+<DIRECTION>
+INT. X-NET POWER SUPPLY OUTER GANTRY - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+Rush and Mega haul Flynn along a narrow ledge.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	There. You can make it across!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He points to a thin ledge on the other side, far below.
+</DIRECTION>
+<DIRECTION>
+Rush extends his Light Pole to the ledge, moves to gather Flynn for a vault-crossing.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	No, take Mega! I'll stay here and run interference.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	You haven't got a chance by yourself.
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	Ah, these guys are wimps.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+It's bravado: They know his odds are dismal. Flynn slumps into an alcove, which is only big enough for him. He pulls a supply of SPIKED MINI-DISKS, ready to defend himself.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	We're not leaving you.
+	</DIALOGUE>
+</MEGA>
+<FLYNN>
+	<DIALOGUE>
+	My body is weak, but my will is strong. I promise, no matter what they do to me, I'll survive this. Trust the bigger plan.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He's fading fast.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	But Flynn -
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+X-Takks attack along the ledge.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	GO! NOW!
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Rush throws his arm around Mega and VAULTS across the moat, landing on the far side - gaining a slim foot-hold below a core ENTRY POINT.
+</DIRECTION>
+<DIRECTION>
+Flynn chooses his moment, leans out and throws. His mini disks take out X-Takks on the ledge. Their bodies tumble into the moat, flashing as they hit.
+</DIRECTION>
+<DIRECTION>
+Flynn spins, the wall behind him opens. At the end of a square corridor stands:
+</DIRECTION>
+<DIRECTION>
+PLEXOR. Flanked by his four snarling Cybavor beasts.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Flynn. Your moment of obsolescence is upon you.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Across the moat, Rush and Mega climb to the entry point.
+</DIRECTION>
+<DIRECTION>
+Flynn plays for time, stalling Plexor so he doesn't catch sight of them.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Freedom, Plexor. It's the better idea. That's why Mega chose my side.
+	</DIALOGUE>
+</FLYNN>
+<PLEXOR>
+	<DIALOGUE>
+	If an idea is erased from all memory banks, it can be neither good nor bad. When each alternative has been removed, X-Net will simply BE.
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+With a hand signal, he commands his Cybavors. They raise up, poised to attack Flynn.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Crash me. Hack me. Do what you want. The yearning for freedom will last forever.
+	</DIALOGUE>
+</FLYNN>
+<PLEXOR>
+	<DIALOGUE>
+	Nice speech... USER!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+He flicks a finger. Cybavors gallop at Flynn.
+</DIRECTION>
+<DIRECTION>
+EXT. MAIN POWER SUPPLY CORE - LEDGE
+</DIRECTION>
+<DIRECTION>
+Rush and Mega gain footing at the entry point. They turn at the sound of DIGITAL SNARLING.
+</DIRECTION>
+<DIRECTION>
+Across the moat, a gut-wrenching sight:
+</DIRECTION>
+<DIRECTION>
+All four Cybavors pounce on Flynn, hurling him off the ledge, mauling him as they go down, dividing into eight - Plummeting toward the MOLTEN DATA far below.
+</DIRECTION>
+<DIRECTION>
+Plexor steps out of his corridor, relishing the view: Remains of fallen bodies FLASH into the inferno.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Noooooo!!!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Plexor sees Mega and Rush on the other side.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Over there! Surround them!
+	</DIALOGUE>
+</PLEXOR>
+<DIRECTION>
+Bridges instantly extend from outer square to CORE CUBE.
+</DIRECTION>
+<DIRECTION>
+X-Takks stream across, firing -
+</DIRECTION>
+<DIRECTION>
+INT. POWER SUPPLY CORE CUBE
+</DIRECTION>
+<DIRECTION>
+Rush and Mega duck inside entry point, pelted by disks.
+</DIRECTION>
+<DIRECTION>
+Before them: A vast, brilliant, energized LATTICE. Power surges in rings, drawing down huge columns. Every piece of geometry is based on perfect squares, made of mirror-finished rare earth elements.
+</DIRECTION>
+<DIRECTION>
+Rush pulls the HOLOGON KEY into view. Facets resonate with energy patterns like those in the core.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	We plug this into the control cell, X-Net is history.
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Let's do it for Flynn.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+They share a heartbeat of solidarity. Rivalry gone.
+</DIRECTION>
+<DIRECTION>
+X-Takks stream in, firing.
+</DIRECTION>
+<DIRECTION>
+Rush and Mega charge the center, throwing disks, fighting back-to-back.
+</DIRECTION>
+<DIRECTION>
+Problem is, ENERGY RINGS move continuously down the columns - and the columns are spaced close - leaving just enough time between ring-passes to jump through.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	NOW!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+He and Mega JUMP, nearly raked by down-flowing ENERGY RINGS.
+</DIRECTION>
+<DIRECTION>
+X-Takks fire NEGABYTE BLASTERS - but many of the beams are caught in the energy flow and sucked away. That's how intense this place is.
+</DIRECTION>
+<DIRECTION>
+X-Takk Soldier is grazed, stumbles into ENERGY COLUMN. RING rakes down and ZAPS him nasty - reducing him to bits, sucking his energy to the levels below.
+</DIRECTION>
+<DIRECTION>
+Rush and Mega encounter oncoming X-Takks - they must split up. They fling disks, taking out X-Takks, dodging fire - working their way deeper.
+</DIRECTION>
+<DIRECTION>
+Meg and Rush throw their disks simultaneously. Both disks score hits, then arc to return.
+</DIRECTION>
+<DIRECTION>
+Rush and Mega catch each other's disk. They each look at the strange disks - it's just not the same. The do a quick swap and keep fighting.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Over there!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+The CONTROL CELL. Dead center.
+</DIRECTION>
+<DIRECTION>
+INT. CONTROL CELL CHAMBER
+</DIRECTION>
+<DIRECTION>
+Rush and Mega battle off three X-Takks - the way is clear.
+</DIRECTION>
+<DIRECTION>
+Rush leaps, crashes planes of silicon. Stows his disk, pulls out the HOLOGON.
+</DIRECTION>
+<DIRECTION>
+Spots the control cell's key receptacle - SHAPES MATCH.
+</DIRECTION>
+<DIRECTION>
+Rush moves to insert the hologon.
+</DIRECTION>
+<DIRECTION>
+A DISK STRIKES his arm - HOLOGON flies wild.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	AAARRGGGHHH!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+PLEXOR drops from above, riding an OPTIK SHAFT.
+</DIRECTION>
+<PLEXOR>
+	<DIALOGUE>
+	Where did you get that?! No one knows this code but me!
+	</DIALOGUE>
+</PLEXOR>
+<RUSH>
+	<DIALOGUE>
+	Your software has the biggest flaw there is, Plexor. You can't see you own mistakes.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Plexor snatches his Death-disk, corners Rush for the kill.
+</DIRECTION>
+<DIRECTION>
+Mega's disk crashes silicon, comes at Plexor - But his defense field repels it. He slams it aside and it's raked away by downward flowing energy rings.
+</DIRECTION>
+<DIRECTION>
+Rush DIVES at PLEXOR. He's like a statue. But this time RUSH holds him and infuses tron-energy, breaking down Plexor's defense field, eating into his body circuits. It's fractal zapping fireworks - evenly matched foes battling face-to- face.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Do it Mega!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Mega scoops HOLOGON off floor, makes for CONTROL CELL -
+</DIRECTION>
+<DIRECTION>
+Plexor's hand shoots out, GRABS HER, stops her like iron.
+</DIRECTION>
+<DIRECTION>
+Plexor exerts his power, holds Rush and Mega by the throats with his two hands, backing them toward a surface ripping with HOT ENERGY RINGS.
+</DIRECTION>
+<DIRECTION>
+Rush and Mega struggle, an inch from death -
+</DIRECTION>
+<DIRECTION>
+ZAAAAAA -
+</DIRECTION>
+<DIRECTION>
+Plexor stops, annoyed. Turns and sees:
+</DIRECTION>
+<DIRECTION>
+Krod, Fighters and I-beem have arrived, firing blasters at Plexor's SPINAL NEXUS. It hardly makes a dent, but it creates a fleeting opportunity for Rush -
+</DIRECTION>
+<DIRECTION>
+Rush ducks forward, SHOOTS his disk off his back, smacking Plexor in the throat. Mega falls clear -
+</DIRECTION>
+<DIRECTION>
+Rush hurls Plexor against energy rings - Energy rakes down his body, but he fights the effects an DOES NOT MELT DOWN. He step away, shakes off the damage, retrieves his disk into a hand.
+</DIRECTION>
+<DIRECTION>
+Mega snags the hologon -
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	RUSH!
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+She tosses it to Rush, who's already airborne -
+</DIRECTION>
+<DIRECTION>
+Rush catches hologon, sails to the control unit -
+</DIRECTION>
+<DIRECTION>
+Jams hologon into its receptacle.
+</DIRECTION>
+<DIRECTION>
+Plexor cocks his death disk, EYES FLASH ELECTRO-PSYCHOSIS -
+</DIRECTION>
+<DIRECTION>
+Hologon REACTS with CENTRAL CELL -
+</DIRECTION>
+<DIRECTION>
+Shockwaves RADIATE -
+</DIRECTION>
+<DIRECTION>
+Energy rings go dim, then dark -
+</DIRECTION>
+<DIRECTION>
+Silicon shatters to ash -
+</DIRECTION>
+<DIRECTION>
+X-Takks power down. X-Net armor de-rezzes, leaving innocent civilian Programs. They shake off the mind-control and rise unshackled.
+</DIRECTION>
+<DIRECTION>
+And Plexor, like all things X-Net, chatters and glitches. His code erodes, his bits darken, the fiber of his being erodes from inside.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	Now who's obsolete?
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Rush executes a final leap, extending his feet for the final blow, straight at Plexor - CRASH - shattering him to bits.
+</DIRECTION>
+<DIRECTION>
+Rush finally breathes. Sees I-beem, Krod, Quantz, Boole, Code Monkeys.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Thanks guys.
+	</DIALOGUE>
+</RUSH>
+<KROD>
+	<DIALOGUE>
+	I'll never let you forget it.
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Boole tosses Rush his tron-disk.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE VISTA POINT
+</DIRECTION>
+<DIRECTION>
+Rush, Mega, Krod, I-beem, Fighters and liberated Programs stow disks and step to a high vantage point.
+</DIRECTION>
+<DIRECTION>
+Before them expands a vista of cyberspace.
+</DIRECTION>
+<DIRECTION>
+Power-down of X-Net radiates in all directions, leaving everything else intact. Beautiful, exotic old data networks instantly begin to regenerate into the open space.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	We're free. At last we're free.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+EXT. X-NET GRAND OPENING CEREMONY - MORNING
+</DIRECTION>
+<DIRECTION>
+Sinclair commands the podium:
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	In a world exposed to increasing data corruption, I hereby switch on the first global network offering 100% guaranteed data security. Flawless performance, zero downtime. The world works hard, the world deserves...
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+He throws a switch. HUGE monitors blaze with X-Net logos and graphic portals. Countdown 3,2,1...
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	X-NET!
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+CROWD CHEERS. MEDIA BUZZES...
+</DIRECTION>
+<DIRECTION>
+X-Net instantly CRASHES. All screens jam, glitch and DIE.
+</DIRECTION>
+<DIRECTION>
+Crowd is stunned. Sinclair is mortified.
+</DIRECTION>
+<DIRECTION>
+EXT. CYBERSPACE VISTA POINT
+</DIRECTION>
+<DIRECTION>
+Krod, I-beem, Boole, Quantz and Code Monkeys CHEER.
+</DIRECTION>
+<DIRECTION>
+Mega embraces Rush. Energy sizzles between them.
+</DIRECTION>
+<MEGA>
+	<DIALOGUE>
+	I underestimated you. Thanks.
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+She presses her lips to his. It's electric.
+</DIRECTION>
+<KROD>
+<DIRECTION>
+(to I-beem)
+</DIRECTION>
+	<DIALOGUE>
+	You knew she always liked him.
+	</DIALOGUE>
+</KROD>
+<CODE_MONK_B3T>
+	<DIALOGUE>
+	Is she pinging his EPROM?
+	</DIALOGUE>
+</CODE_MONK_B3T>
+<CODE_MONK_J2R>
+	<DIALOGUE>
+	I can't see from here.
+	</DIALOGUE>
+</CODE_MONK_J2R>
+<DIRECTION>
+But out of triumph, a sudden concern -
+</DIRECTION>
+<DIRECTION>
+Rush's body shoots DATA ENERGY into Mega, into ground circuits... Lightshow overload intensifies and spreads. Mega backs away in pain.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Whoa, ouch, what? Ahhhhh!
+	</DIALOGUE>
+</RUSH>
+<MEGA>
+	<DIALOGUE>
+	Rush, what is it?
+	</DIALOGUE>
+</MEGA>
+<DIRECTION>
+Rush's body DRAINS AWAY into the energized circuitry.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Guys! Mega! NOOO!
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+He reaches a hand to Mega. PAIN ENERGY ZAPS her, but she clasps his hand anyway...
+</DIRECTION>
+<KROD>
+	<DIALOGUE>
+	Help him!
+	</DIALOGUE>
+</KROD>
+<DIRECTION>
+Code Monkeys attempt desperate measures, but soon it's over.
+</DIRECTION>
+<DIRECTION>
+Bits of Rush dissipate into surrounding circuitry, then BEAM SKYWARD in blazing curtain, like a quantum aurora borealis.
+</DIRECTION>
+<DIRECTION>
+Mega is left with a handful of nothing.
+</DIRECTION>
+<QUANTZ>
+	<DIALOGUE>
+	It's the way it should be.
+	</DIALOGUE>
+</QUANTZ>
+<BOOLE>
+	<DIALOGUE>
+	He's going back to the place he belongs.
+	</DIALOGUE>
+</BOOLE>
+<DIRECTION>
+EXT. CYBERSPACE TRANSITION
+</DIRECTION>
+<DIRECTION>
+Rush's energy body hurls across cyberspace.
+</DIRECTION>
+<DIRECTION>
+Bits streak, light bends -
+</DIRECTION>
+<DIRECTION>
+INT. ENCOM ADVANCED RESEARCH LAB - NIGHT
+</DIRECTION>
+<DIRECTION>
+Rush materializes in the target chair. Human flesh, real clothes. Same as the moment he left.
+</DIRECTION>
+<DIRECTION>
+He bolts up, realizes where he is. Looks at his hands. Sees Jo-jo the rat staring at him.
+</DIRECTION>
+<DIRECTION>
+Meg and Dewey hurry over to unstrap Rush. Meg holds his hands, checks the integrity of his body.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	Rush. You made it!
+	</DIALOGUE>
+</MEG>
+<RUSH>
+	<DIALOGUE>
+	Like a bad cold, I'm always coming back.
+	</DIALOGUE>
+</RUSH>
+<VOICES>
+	<DIALOGUE>
+	He made it! Rush! You okay?!
+	</DIALOGUE>
+</VOICES>
+<DIRECTION>
+Rush looks around. Miles ("Krod") and a group of oddly- familiar Co-WORKERS. People who look just like I-beem, Quantz, Boole and the Code Monkeys.
+</DIRECTION>
+<RUSH>
+<DIRECTION>
+(double-takes on Meg)
+</DIRECTION>
+	<DIALOGUE>
+	I met a program you wrote. She's just as incredibly beautiful and confusing as you.
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	I know. Mega told me all about what you did in there.
+	</DIALOGUE>
+</MEG>
+<RUSH>
+	<DIALOGUE>
+	She gave you my coordinates. That's how you uploaded me?
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	Yes. Your coordinates... and his.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+They look across the room.
+</DIRECTION>
+<DIRECTION>
+At the control console stands a MAN with his back to us. He's curiously examining Meg's equipment.
+</DIRECTION>
+<THE_GUY>
+	<DIALOGUE>
+	She's done an amazing job here, Rush.
+	</DIALOGUE>
+</THE_GUY>
+<DIRECTION>
+He turns. It's FLYNN. In the flesh. Leg healed.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Flynn!
+	</DIALOGUE>
+</RUSH>
+<FLYNN>
+	<DIALOGUE>
+	I told you to trust the bigger plan.
+	</DIALOGUE>
+</FLYNN>
+<MEG>
+	<DIALOGUE>
+	I'd come to suspect Flynn was alive, inside. But I had no way to know for sure.
+	</DIALOGUE>
+</MEG>
+<FLYNN>
+	<DIALOGUE>
+	You picked the right guy to send in.
+	</DIALOGUE>
+</FLYNN>
+<MEG>
+	<DIALOGUE>
+	Working down here, I became convinced someone tried to murder Flynn. But the only person I could confide in was the guy I suspected most.
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Elevator opens.
+</DIRECTION>
+<DIRECTION>
+Sinclair charges in, furious. Trailed by SECURITY MEN.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	What are you people doing down here!?! Get back to work! X-Net has CRASHED! We'll all be ruined!
+	</DIALOGUE>
+</SINCLAIR>
+<FLYNN>
+	<DIALOGUE>
+	Speak for yourself, Sinclair.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Sinclair wheels to see Flynn: Alive, standing in front of him. Trapped by the ugly truth, Sinclair turns rage on Meg.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	I ordered you to destroy this equipment!
+	</DIALOGUE>
+</SINCLAIR>
+<DIRECTION>
+Rush gets in Sinclair's face.
+</DIRECTION>
+<RUSH>
+	<DIALOGUE>
+	Hey, jerk, she doesn't do your dirty work. Neither do I. Not anymore. You lied to me, to all of us. You want to deal with somebody? I'm the guy who crashed X-Net.
+	</DIALOGUE>
+</RUSH>
+<DIRECTION>
+Sinclair goes for Rush. Rush delivers a solid punch. Sinclair grabs his bloody nose.
+</DIRECTION>
+<SINCLAIR>
+	<DIALOGUE>
+	You're fired, everybody get out.
+	</DIALOGUE>
+</SINCLAIR>
+<FLYNN>
+	<DIALOGUE>
+	No, Sinclair. I'm back. And I'm the boss again. You're fired. Not only are you fired, you're going to have a lot of explaining to do to the SEC, the Justice Department and the FBI.
+	</DIALOGUE>
+<DIRECTION>
+(to SECURITY MEN)
+</DIRECTION>
+	<DIALOGUE>
+	Hold him until the police get here.
+	</DIALOGUE>
+</FLYNN>
+<SECURITY_MAN_1>
+	<DIALOGUE>
+	Yes Sir, Mr. Flynn.
+	</DIALOGUE>
+</SECURITY_MAN_1>
+<DIRECTION>
+SECURITY MEN haul out Sinclair.
+</DIRECTION>
+<DIRECTION>
+Flynn addresses the group.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	X-Net is dead. But Encom lives. We're going to bring this company back to its place as the leader in finding the next big thing. I'll need to be free to do the dreaming. So, effective immediately, I'm appointing two bold, bright, courageous people to head worldwide operations.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+He presents Rush and Meg. They're stunned.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	You both earned it.
+	</DIALOGUE>
+</FLYNN>
+<RUSH>
+	<DIALOGUE>
+	Cool.
+	</DIALOGUE>
+</RUSH>
+<MEG>
+	<DIALOGUE>
+	I love it.
+	</DIALOGUE>
+</MEG>
+<RUSH>
+	<DIALOGUE>
+	We'll take it.
+	</DIALOGUE>
+<DIRECTION>
+(to Miles - "Krod")
+</DIRECTION>
+	<DIALOGUE>
+	You get a division to run.
+	</DIALOGUE>
+</RUSH>
+<MILES>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+<DIRECTION>
+(to Phlegman)
+</DIRECTION>
+	<DIALOGUE>
+	Does that mean a bigger cubicle?
+	</DIALOGUE>
+</MILES>
+<DIRECTION>
+Cheers all around. Flynn approaches Rush and Meg.
+</DIRECTION>
+<FLYNN>
+	<DIALOGUE>
+	Put on some coffee. You two are going to be putting in a lot of overtime together.
+	</DIALOGUE>
+</FLYNN>
+<DIRECTION>
+Meg turns to Rush.
+</DIRECTION>
+<MEG>
+	<DIALOGUE>
+	Do you remember how, along time ago, you used to give me a professional congratulatory peck on the cheek?
+	</DIALOGUE>
+</MEG>
+<DIRECTION>
+Rush goes for the lips.
+</DIRECTION>
+<DIRECTION>
+THE END
+</DIRECTION>

@@ -1,0 +1,7882 @@
+<DIRECTION>
+:SC: EXT. INTERNATIONAL SEAWAY BRIDGE - DAY
+</DIRECTION>
+<DIRECTION>
+A sign reads "Bridge to Canada."
+</DIRECTION>
+<DIRECTION>
+A steep 1940's era customs bridge arches over the St. Lawrence River.
+</DIRECTION>
+<DIRECTION>
+Cars and trucks line up in different lanes. Customs officials inspect and question impatient drivers.
+</DIRECTION>
+<DIRECTION>
+Beyond them a smaller sign: "THANK YOU FOR VISITING MASSENA NEW YORK, IT WORKS, for business, for family, for you".
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. BELOW THE BRIDGE - DAY
+</DIRECTION>
+<DIRECTION>
+The river stretches for miles in either direction, frozen, and still with trees on either side.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER YARD, MASSENA NEW YORK - DAY
+</DIRECTION>
+<DIRECTION>
+RAY EDDY, 38, a bit worn for her years, with a long red ponytail, wearing an old bathrobe, sits in the passenger seat of her RED PLYMOUTH HORIZON with the door open, smoking a cigarette, thinking. Her breath is visible in the cold morning air.
+</DIRECTION>
+<DIRECTION>
+Her bare feet rest on the cold ground.
+</DIRECTION>
+<DIRECTION>
+Her 1970's rusted out TRAILER HOME SITS in front of her on CINDER BLOCKS AT A SLIGHT TILT. Beside it, a small SHED and behind it the CONCRETE FOUNDATION FOR A HOUSE.
+</DIRECTION>
+<DIRECTION>
+Around her, the yard is littered with junk: a rusted ski lift chair, the front end of a Plymouth Duster and a SMILING DUCK Kiddie Ride.
+</DIRECTION>
+<DIRECTION>
+Beyond the yard, flat, winterbare land.
+</DIRECTION>
+<DIRECTION>
+After a moment, a lanky boy of 15, her son, TROY, JR., leans out the trailer door.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	We're out of Capt'n Crunch.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+His breath is visible in the cold.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Just give him toast.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	We got no butter, we got no jelly.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+Ray is out of ideas. He expects her to move, but she stays still. He looks around the yard.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Listening for the trucks.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Are they really coming?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Where's dad?
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She is silent.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D) (says it slow)
+</DIRECTION>
+	<DIALOGUE>
+	Where's dad?
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She looks at him.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I don't know how he found it, T.J.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Found what?
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+Ray takes a drag off her cigarette. T.J. walks over to the car.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	The money?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I locked it in my glove compartment.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. looks in at the OPEN AND EMPTY GLOVE COMPARTMENT.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	That was stupid.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Yeah, I see that now, but the trucks were coming before the bank opened.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Did you tell him you had it?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Duh? No, I guess he just sniffed it out.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Jesus Christ! The glove compartment!? That's the stupidest place you could have put it.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	He hasn't bought a scratch card in almost thirty two months. I thought it would be okay!
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Did he leave anything?
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She shakes her head.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What are you gonna do?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Nothing.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	You could look for him?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	He could be anywhere.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	We should look for him.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	The Rez,
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	With more than four thousand dollars, he's probably in Atlantic City by now.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	So let's go, let's find him before he blows it all.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I can't.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	What do you mean?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I just can't do it anymore.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	But he'll lose it all.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	T.J., we can't make him stop.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	He stole our money. Call the Troopers.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	It's not stealing if you take it from your family. Anyway, he made some of it, too.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	So you're just gonna sit there?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I'm sorry.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+In the distance the RUMBLE OF TRUCKS. Ray hears it. It gets louder.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	Another Christmas in the tin crapper.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+T.J. goes into the shed and slams the door.
+</DIRECTION>
+<DIRECTION>
+Ray throws down her cigarette and goes into the trailer.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+She looks around the cramped trailer at the oversized RENTAWORLD furniture including a big screen TV.
+</DIRECTION>
+<DIRECTION>
+An enlarged wall photograph of the family catches her eye. In it, her husband, TROY, SR., 40, wearing a forced smile, his long, shaggy hair combed flat for the picture.
+</DIRECTION>
+<DIRECTION>
+Ray hurries down the hall to her bedroom and takes off her bathrobe -- she has several tatoos -- and slides into a pair or jeans and a t-shirt.
+</DIRECTION>
+<DIRECTION>
+A sleepy-eyed, toe-headed boy, RICKY, 5, walks in, shirtless in pajama bottoms, eyes shining.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Is it here?
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+Ray stops what she's doing when she sees him and kneels down.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Hey, little sleepy head.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	Is it here yet? `Cause I'm ready.
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+He drags a suitcase full of plastic dinosaurs around the corner.
+</DIRECTION>
+<DIRECTION>
+The RUMBLE OUTSIDE GROWS LOUDER. Ricky BOLTS out of the bedroom and down the hall to the trailer door.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Wait a sec-
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He bursts into the yard where:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+A PICK-UP TRUCK DRAPED WITH A "WIDE LOAD" banner leads TWO SEMIS hauling halves of a DOUBLE WIDE MOBILE HOME wrapped in plastic, rippling in the wind.
+</DIRECTION>
+<DIRECTION>
+Ricky stops at the massive sight, twisting at his fly, trying not to pee himself.
+</DIRECTION>
+<DIRECTION>
+T.J. comes out of the shed.
+</DIRECTION>
+<DIRECTION>
+The Doubles come to a stop and idle in the yard.
+</DIRECTION>
+<DIRECTION>
+GUY VERSAILLES, pot-bellied, in a green velour running suit, squeezes out of his truck. On the door: "MASSENA MODULAR AND MOBILE HOMES, NEW AND RECONDITIONED."
+</DIRECTION>
+<DIRECTION>
+Ricky grabs a rope hanging off one of the doubles and tries to climb the side of it. The TRUCK DRIVER looks down from his cab.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(to Ricky)
+</DIRECTION>
+	<DIALOGUE>
+	Get down.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+Ray peeks out the kitchen curtain.
+</DIRECTION>
+<DIRECTION>
+After a moment she comes out of the trailer, with a pasted-on smile.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	We're all ready for ya'.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She points to the new concrete foundation. He consults a clipboard.
+</DIRECTION>
+<VERSAILLES>
+	<DIALOGUE>
+	We'll need the balloon payment to unload.
+	</DIALOGUE>
+</VERSAILLES>
+<DIRECTION>
+T.J. looks at Ray.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	We have it, it's just that they called Troy from Titus last night. That's where Troy works. The ski place? And anyway-
+	</DIALOGUE>
+</RAY>
+<VERSAILLES>
+	<DIALOGUE>
+	Have you got the $4,372 dollars or not?
+	</DIALOGUE>
+</VERSAILLES>
+<RAY>
+	<DIALOGUE>
+	It was some emergency with the lifts. So he took off without thinking with the money. Completely forgot you were coming. So as soon as he gets back-
+	</DIALOGUE>
+</RAY>
+<VERSAILLES>
+	<DIALOGUE>
+	When's he gonna be back?
+	</DIALOGUE>
+</VERSAILLES>
+<RAY>
+	<DIALOGUE>
+	As soon as he can get here, I'll just run it down to you.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. could crawl out of his skin.
+</DIRECTION>
+<VERSAILLES>
+<DIRECTION>
+(ironic smile)
+</DIRECTION>
+	<DIALOGUE>
+	This is the second time you've dragged me out here. If you don't come up with it by Christmas, you've lost your fifteen hundred dollar deposit.
+	</DIALOGUE>
+</VERSAILLES>
+<DIRECTION>
+He walks toward his car. She follows him.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Look, Mr. Versales, I have a good job at ALL FOR A DOLLAR. They're probably gonna make me a manager after Christmas so I can handle the payments if you just leave the house-
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He gets in the car.
+</DIRECTION>
+<VERSAILLES>
+	<DIALOGUE>
+	Call me when you have the balloon payment.
+	</DIALOGUE>
+</VERSAILLES>
+<DIRECTION>
+He makes a circle in the air with his hand and the semi's rev their engines and grind into reverse.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I'll call you...
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Her voice is DROWNED OUT by REVVING engines.
+</DIRECTION>
+<DIRECTION>
+Ricky rushes to her.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Wait, where are they going?
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+She takes his face in her hands.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Listen to me. We'll get them back.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	But why are they leaving?
+	</DIALOGUE>
+</RICKY>
+<RAY>
+	<DIALOGUE>
+	Ricky, I'll get them back. I promise, honey.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	That's our house!
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+He BREAKS AWAY from her and RUNS down the road chasing after the semis. Ray chases after Ricky until he runs out of steam and stops, panting.
+</DIRECTION>
+<DIRECTION>
+She catches up to him and tries to hug him. He pushes her away. She gets down on her knees and takes his face in her hands.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	We're gonna get it back.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She picks him up and walks back to the trailer. Ricky looks out mournfully at the trailers disappearing down the road.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (to T.J.)
+</DIRECTION>
+	<DIALOGUE>
+	You better hurry or you're going to miss the bus. Let's get your clothes on, Ricky.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. just stares at her.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	I can get a job you know.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You're 15, T.J.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	They won't ask any questions.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You're finishing school.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Come on, you don't think we can live on what you make at All for a Dollar do you?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You're going to school.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She goes inside. T.J. follows.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	I bet I could make more than you do.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She ignores him.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray helps Ricky into his clothes and puts his backpack on his back.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Where's daddy?
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+Ray and T.J. look at each other.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	He'll be back.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Aren't we even gonna look for him?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	No! I'm going to work and you're going to school.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	That's it?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	The only thing that changed is that your dad started gambling again. Everything else is the same.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	Where did he go?
+	</DIALOGUE>
+</RICKY>
+<RAY>
+	<DIALOGUE>
+	He had to take a business trip.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. rolls his eyes.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	Aren't you even gonna look for him?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	And miss a day of work? No. Not again. We just have to live our lives. Now go get your backpack.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. stares, sullen.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Go on!
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	When is daddy coming home?
+	</DIALOGUE>
+</RICKY>
+<RAY>
+	<DIALOGUE>
+	I don't know, Ricky.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	I can't believe you're not even gonna look for him.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Where? Where do I look?
+	</DIALOGUE>
+<DIRECTION>
+(He can't answer)
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	The reservation.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I told you, he could be in Atlantic City by now.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She helps Ricky get his backpack on and gives him a kiss.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(shakes his head)
+</DIRECTION>
+	<DIALOGUE>
+	The glove compartment. That's so stupid.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You're going to school.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He follows Ricky out the door to catch the school bus rolling up out front.
+</DIRECTION>
+<DIRECTION>
+Suddenly, Ray remembers:
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Wait, wait.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+They turn around. She digs in her pockets.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Here. Lunch money.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+They take it and keep running for the bus.
+</DIRECTION>
+<DIRECTION>
+Ray looks after them and reaches for her cigarettes. She takes out her second to last one. She lights it and takes out her mascara.
+</DIRECTION>
+<DIRECTION>
+She tries to put it on the bathroom mirror, but her tears keep getting in the way.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ALL FOR A DOLLAR STORE - DAY
+</DIRECTION>
+<DIRECTION>
+RAY stacks shelves with a knock-off version of plastic "My Little Pony" in a messy aisle of boxes.
+</DIRECTION>
+<DIRECTION>
+MATT, 22, her boss, bone thin with bad skin walks by.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(soft)
+</DIRECTION>
+	<DIALOGUE>
+	Matt. Could I talk to you?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He looks at her.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I need to come on full-time.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Matt blinks with a blank expression then:
+</DIRECTION>
+<MATT>
+	<DIALOGUE>
+	I see you as a short timer.
+	</DIALOGUE>
+</MATT>
+<RAY>
+	<DIALOGUE>
+	What is that?
+	</DIALOGUE>
+</RAY>
+<MATT>
+	<DIALOGUE>
+	A short timer. Not here for long, not really committed.
+	</DIALOGUE>
+</MATT>
+<DIRECTION>
+Ray follows him to the stock room.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	When I started you said it would be six months before I could come on full-time. And that was two years ago.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He opens a can of RED BULL and takes a sip.
+</DIRECTION>
+<MATT>
+	<DIALOGUE>
+	It's my opinion.
+	</DIALOGUE>
+</MATT>
+<RAY>
+	<DIALOGUE>
+	Well, I mean, you know, I do show up. Pat's late everyday. She's late now. She's always late.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He stares blankly at her. She can think of nothing else to say. He walks out.
+</DIRECTION>
+<DIRECTION>
+Ray resumes unpacking ponies.
+</DIRECTION>
+<DIRECTION>
+A moment later PAT, 22, rushes in, looking sorry. As Pat hangs up her coat, Ray glimpses a tatoo just above her low riding pants with the words "How You Doin'?".
+</DIRECTION>
+<DIRECTION>
+Ray takes the last of her cigarettes out of the pack and heads out the back door.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	See ya' tomorrow.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT./EXT HORIZON, ROUTE 37 - DAY
+</DIRECTION>
+<DIRECTION>
+Ray drives down a two-lane highway. It is empty flat land but for a few trailer homes and barns.
+</DIRECTION>
+<DIRECTION>
+She passes a lonely sign: "BRIDGE TO CANADA."
+</DIRECTION>
+<DIRECTION>
+Up ahead another sign: "AKWESASNE LAND OF THE MOHAWK."
+</DIRECTION>
+<DIRECTION>
+From the car, the Reservation consists of shabby houses with no siding, tax-free gas stations and dive bars with homemade signs. Ray slows a little to check out the parking lots scanning for her husband's car.
+</DIRECTION>
+<DIRECTION>
+Up ahead she sees a sign: "WOLF MART TAX FREE GAS AND CIGARETTES.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. WOLF MART GAS STATION - DAY
+</DIRECTION>
+<DIRECTION>
+Ray pulls in to the combo gas station, restaurant and mini mart.
+</DIRECTION>
+<DIRECTION>
+A MOHAWK TEENAGER wearing a bandana RUNS out to the CAR without a coat, rubbing his hands together to ward off the cold.
+</DIRECTION>
+<MOHAWK_TEENAGER>
+	<DIALOGUE>
+	Fill it up?
+	</DIALOGUE>
+</MOHAWK_TEENAGER>
+<DIRECTION>
+She rolls down the window, digging for change under the seat of her car. She counts it out.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Just three...uh, no...two seventy one, two, three, four.
+	</DIALOGUE>
+</RAY>
+<MOHAWK_TEENAGER>
+	<DIALOGUE>
+	Two seventy four.
+	</DIALOGUE>
+</MOHAWK_TEENAGER>
+<DIRECTION>
+He nods and goes to the pump. She finds a wadded up five dollar bill.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(yells out window)
+</DIRECTION>
+	<DIALOGUE>
+	Make that seven seventy four.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She spots a sign for "TRAILWAYS" bus in the window.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Did you see a Blue Acclaim come in here last night?
+	</DIALOGUE>
+</RAY>
+<MOHAWK_TEENAGER>
+	<DIALOGUE>
+	Blue Acclaim...no, but I only worked until 9 PM. You can ask inside.
+	</DIALOGUE>
+</MOHAWK_TEENAGER>
+<DIRECTION>
+Ray glances inside at the mostly empty restaurant but for a few older Mohawk women.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	No, that's okay.
+	</DIALOGUE>
+</RAY>
+<MOHAWK_TEENAGER>
+	<DIALOGUE>
+	Did you want to support our Mosquito Lacrosse League. It teaches basic Lacrosse skills to the kids three to five.
+	</DIALOGUE>
+</MOHAWK_TEENAGER>
+<DIRECTION>
+Ray shakes her head.
+</DIRECTION>
+<MOHAWK_TEENAGER>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Thanks, anyway. Have a good day.
+	</DIALOGUE>
+</MOHAWK_TEENAGER>
+<DIRECTION>
+:SC: INT./EXT. ROUTE 37 INDIAN RESERVATION - DAY
+</DIRECTION>
+<DIRECTION>
+Ray continues down the highway through the reservation.
+</DIRECTION>
+<DIRECTION>
+She comes to a huge warehouse, the "MOHAWK BINGO PALACE."
+</DIRECTION>
+<DIRECTION>
+She glances over at the sea of cars surrounding it. At the end of a row she spots it: a BLUE ACCLAIM.
+</DIRECTION>
+<DIRECTION>
+Ray abruptly turns in.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOHAWK BINGO PALACE PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+Ray pulls up alongside the Acclaim and recognizes it by the "EASY DOES IT" bumper sticker.
+</DIRECTION>
+<DIRECTION>
+She gets out and looks inside. There is a small plastic T- Rex on the floor of the backseat.
+</DIRECTION>
+<DIRECTION>
+She leans against the car for a moment.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Thank you. Oh God, thank you, thank you thank you...
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+After a moment Ray looks up at the Bingo Palace and heads for the entrance.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You son of a bitch!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. BINGO PALACE ENTRANCE - DAY
+</DIRECTION>
+<DIRECTION>
+A SHORT, CHUBBY MOHAWK TICKET TAKER in her 60s, with piercing blue eyes and missing teeth sits perched on a metal chair beside a velvet rope.
+</DIRECTION>
+<TICKET_TAKER>
+	<DIALOGUE>
+	Sunrise session is almost over. Next session starts at 10:30.
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	I just need to look inside.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray starts to walks toward the door and the ticket taker sticks out her foot.
+</DIRECTION>
+<TICKER_TAKET>
+	<DIALOGUE>
+	It's $5 dollars for admission.
+	</DIALOGUE>
+</TICKER_TAKET>
+<RAY>
+	<DIALOGUE>
+	I don't want to play, I just need to look around for a second.
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	I'm gonna need the five.
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	I'll stand right here at the door. I won't even go inside. I just need to see if my husband's in there.
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	You still gotta pay admission.
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	He's gambling away the money for our house.
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	What does he look like?
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	Long brown hair. Tall. Skinny. Ponytail.
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	He's not in there.
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	Can I just look?
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	I told you, lady, he's not in there.
+	</DIALOGUE>
+</TICKET_TAKER>
+<DIRECTION>
+Ray walks away. The ticket taker watches her.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOHAWK BINGO PALACE, PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+Ray walks out of the front entrance back across the parking lot toward the Horizon through rows of cars...
+</DIRECTION>
+<DIRECTION>
+Across the parking lot, LILA LITTLEWOLF, 20, a Mohawk girl with long black hair bursts out of the "Employees Entrance" and hurries across the parking lot pulling off her scratch card apron as she walks.
+</DIRECTION>
+<DIRECTION>
+Ray catches sight of her, but before Ray reaches the Horizon, Lila reaches the ACCLAIM, GETS IN IT AND BACKS OUT.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Hey!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+But Lila drives off.
+</DIRECTION>
+<DIRECTION>
+Ray JUMPS back in the Horizon and TAKES OFF AFTER HER.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RESERVATION ROADS - DAY
+</DIRECTION>
+<DIRECTION>
+Ray follows the Acclaim down Route 37 and catches sight of it turning off on a dirt road.
+</DIRECTION>
+<DIRECTION>
+Ray makes the corner just in time to catch sight of the Acclaim bouncing off on a path through the woods.
+</DIRECTION>
+<DIRECTION>
+Ray follows it through the woods to a clearing: the Acclaim stops in front of a rusted out BUBBLE CAMPER.
+</DIRECTION>
+<DIRECTION>
+Lila gets out. Ray pulls up behind her and rolls down her window.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	That's my car.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila SPINS around.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Huh?
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(points to the Acclaim)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing with my car?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila fingers the keys in her hand.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	That? I found it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	You stole it.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	The keys were in it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	So you just took it...?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila goes in the bubble camper and shuts the door behind her.
+</DIRECTION>
+<DIRECTION>
+Ray gets out of the Horizon and walks up to the camper door and takes out her cell phone.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	We'll just see what the troopers say about that.
+	</DIALOGUE>
+</RAY>
+<LILA>
+<DIRECTION>
+(O.S.) (From inside camper)
+</DIRECTION>
+	<DIALOGUE>
+	Go ahead, they got no jurisdiction here. This is Mohawk territory.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray stops dialing closes up her phone, then goes to her car and takes the gun and goes back to the camper.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(knocks with the gun)
+</DIRECTION>
+	<DIALOGUE>
+	You can cut the bullshit and give me my keys now.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+There is no reponse. Ray waits for a moment and then:
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (low voice)
+</DIRECTION>
+	<DIALOGUE>
+	Troy, are you in there?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+There is no response.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	If you're in there you better come out.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Lila sits on an army cot in the dingy camper next to a lamp on the floor. Her clothes are scattered among empty Pringles cans.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(O.S.) (tentative, controlled)
+</DIRECTION>
+	<DIALOGUE>
+	Troy? Versales says as long as we get the money in by Christmas we won't lose the deposit.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	I think we need to talk
+	</DIALOGUE>
+<DIRECTION>
+about this, so come on out.(Pause)
+</DIRECTION>
+	<DIALOGUE>
+	Troy? Troy?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: EXT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray aims the gun and FIRES into the camper door.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+The shock of the blast throws Lila off the cot. She looks at the SMOKING HOLE.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not kidding, honey, come on out.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: EXT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Keeping behind the door for cover, Lila opens it. Ray looks inside: there is no sign of Troy.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(from behind the door)
+</DIRECTION>
+	<DIALOGUE>
+	The Tribal police don't like people shooting holes in other people's houses.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray looks at her.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	This is New York State so quit the bullshit and give me my damn keys!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila throws the keys out the door. Ray picks them up off the ground. Lila shuts the door with her foot.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray gets in the Horizon and pulls it in behind the Acclaim then digs in the trunk, pulling out a rope.
+</DIRECTION>
+<DIRECTION>
+She ties one end to the Acclaim's back fender and the other to the Horizon's front fender.
+</DIRECTION>
+<DIRECTION>
+Lila watches out the camper window.
+</DIRECTION>
+<DIRECTION>
+Ray gets in the Acclaim and starts it up slowly TOWING the Horizon a few feet before the rope SNAPS.
+</DIRECTION>
+<DIRECTION>
+Ray gets out and looks at the broken rope. She begins digging in the trunk for more rope.
+</DIRECTION>
+<DIRECTION>
+Lila opens the camper door and looks at the bullet hole.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	This camper belongs to my brother in law. He won't like this.
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(over her shoulder)
+</DIRECTION>
+	<DIALOGUE>
+	Then you should quit stealing cars.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I thought it was abandoned, the guy driving it got on a bus.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray stops.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Did you see where the bus was headed?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	New York or Buffalo, I'm not sure.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray RE-TIES the tow line with the remaining rope.
+</DIRECTION>
+<DIRECTION>
+This time the Horizon goes an inch or two before the rope SNAPS. Ray gets out.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(under her breath)
+</DIRECTION>
+	<DIALOGUE>
+	Shit!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray RIFLES through the trunk for more rope.
+</DIRECTION>
+<DIRECTION>
+"Home on the Range" plays on the cell phone in Ray's back pocket.
+</DIRECTION>
+<DIRECTION>
+Lila touches the bullet hole in the camper and listens to Ray's conversation from the doorway.
+</DIRECTION>
+<DIRECTION>
+Ray puts the phone back in her pocket and takes an old belt of her husbands and tries to attach the fenders of the cars.
+</DIRECTION>
+<DIRECTION>
+Ray gets back in the Acclaim and tries TOWING the Horizon once again.
+</DIRECTION>
+<DIRECTION>
+This time the right side of the front fender SNAPS OFF and droops to one side.
+</DIRECTION>
+<DIRECTION>
+Ray gets out and looks at Lila.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not leaving this here.
+	</DIALOGUE>
+</RAY>
+<LILA>
+<DIRECTION>
+(points at the Acclaim)
+</DIRECTION>
+	<DIALOGUE>
+	I got a friend who might buy that.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	It's not for sale.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	He'll pay more than it's worth.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray ignores her.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Maybe two thousand.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Why's that?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	He's always looking for cars with button- release trunks.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray thinks about it.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He don't need papers or anything.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Does he use them to rob banks or something?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila shrugs.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	All I know is he pays good for a car like this.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Where does he live?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Through the woods. Not far.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What's in it for you?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	He'll give me something for finding it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	If you try anything, I'm not afraid to use this.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: INT. ACCLAIM IN RESERVATION WOODS - DAY
+</DIRECTION>
+<DIRECTION>
+Ray drives with one hand and holds the gun with the other. It is pointed at Lila in the passenger seat.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Turn up there.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Where that stump is.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray makes the turn with one hand and the car bounces through an overgrown path in the woods. Ray reaches the stump.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(nervous)
+</DIRECTION>
+	<DIALOGUE>
+	There's no road.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	There's a path.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray hesitates.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	It's not far.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray turns and drives into deeper woods. The gun jiggles around in Ray's hand as they bounce along between the trees.
+</DIRECTION>
+<DIRECTION>
+Lila tries to ignore it.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM AT BOAT RAMP - DAY
+</DIRECTION>
+<DIRECTION>
+The car emerges from the woods at a BOAT RAMP leading to a mile-wide section of the FROZEN ST. LAWRENCE RIVER.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM AT BOAT RAMP - DAY
+</DIRECTION>
+<DIRECTION>
+Ray looks out at the ice. Tire tracks make a path across the snow-covered surface between carefully set out CUT EVERGREEN TREES.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Not too fast. There's ruts.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I'm not crossing that!
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Don't worry they already put out the Christmas trees. There's no black ice.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	That's Canada.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	No, it's Mohawk land. The Rez is on both sides of the river.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What about the border patrol?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	There's no border.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I'm still not crossing that.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Don't worry, it'll hold a Plymouth. I've seen semis cross it.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray looks at Lila suspiciously.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	The only other way is the Cornwall bridge and they won't let you take that.
+	</DIALOGUE>
+<DIRECTION>
+(points
+</DIRECTION>
+	<DIALOGUE>
+	at the gun).
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Suddenly, A TRUCK driven by a MOHAWK TEENAGER ROARS out of the woods and SWERVES around the Acclaim FISHTAILING then SPEEDING out across the ice.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	They plow it and everything.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Cautiously, Ray lets off the brake and rolls down the boat ramp towards the smooth surface of the river.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(under her breath)
+</DIRECTION>
+	<DIALOGUE>
+	This is so fuckin' stupid.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Not too fast, there are ruts.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON FROZEN RIVER - DAY
+</DIRECTION>
+<DIRECTION>
+The Acclaim moves across the smooth surface of the river.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray stares straight ahead clutching the wheel, barely breathing. Lila glances at the gun in Ray's hand, then out at the river, unfazed.
+</DIRECTION>
+<DIRECTION>
+They reach the midpoint of the river and pass it silently.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	You gotta pick up some speed to get up the bank.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray speeds up. The Acclaim bounces up the steep bank.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	It's just on the other side of those trees.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: EXT./INT. ACCLAIM AT JIMMY'S GARAGE LOT- DAY
+</DIRECTION>
+<DIRECTION>
+Ray and Lila pull into a used-car lot surrounded by a chain link fence. There is no sign of life. Ray stops.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Honk the horn.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray honks.
+</DIRECTION>
+<DIRECTION>
+Suddenly, from under a gutted truck, A HUGE BLACK DOG, part wolf, SPRINGS onto the hood of the Acclaim.
+</DIRECTION>
+<DIRECTION>
+Ray is pinned against her seat at the sight of the dog. Lila GRABS the gun out of her hand and points it at Ray.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Just keep your mouth shut.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray stares at the snarling dog.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Just keep it shut. Okay?
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray nods never taking her eyes off the dog.
+</DIRECTION>
+<DIRECTION>
+Lila honks the horn again and keeps the gun low and out of sight.
+</DIRECTION>
+<DIRECTION>
+Out of the garage comes JIMMY, 33, a stocky Mohawk, eating a sandwich.
+</DIRECTION>
+<DIRECTION>
+Jimmy looks suspiciously at Ray before he sees Lila.
+</DIRECTION>
+<DIRECTION>
+Thunder growls.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	Thunder! SHUT UP!.
+	</DIALOGUE>
+</JIMMY>
+<DIRECTION>
+The dog GROWLS ferociously at Ray.
+</DIRECTION>
+<JIMMY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Get back under there!
+	</DIALOGUE>
+</JIMMY>
+<DIRECTION>
+Thunder jumps off the hood and disappears back under the trunk.
+</DIRECTION>
+<DIRECTION>
+Jimmy walks around to the passenger side of the car. Lila rolls down her window.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Hi, Jimmy.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Jimmy glances at Ray.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	He don't like whites, Lila.
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</LILA>
+<JIMMY>
+	<DIALOGUE>
+	And your late.
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</LILA>
+<JIMMY>
+	<DIALOGUE>
+	I shouldn't even be dealing with you.
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	I know. Sorry.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+He hands her a paper bag.
+</DIRECTION>
+<DIRECTION>
+Jimmy goes back to the garage and opens the door. TWO YOUNG CHINESE MEN in cheap jogging suits follow him out, looking around.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM JIMMY'S GARAGE LOT - DAY
+</DIRECTION>
+<DIRECTION>
+Lila hands the paper bag to Ray and points the gun at her, keeping it low and out of sight.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Count it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What's going on here?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Just count it.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray opens the bag. It's full of cash. All fifties and hundreds. Ray counts it.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	How much is there?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Twelve hundred.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila opens the glove compartment and presses the trunk release.
+</DIRECTION>
+<DIRECTION>
+Jimmy motions to the Chinese men to get in the trunk. Jimmy shuts it.
+</DIRECTION>
+<DIRECTION>
+He taps twice on the hood of the car and walks back to the garage.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(to Ray)
+</DIRECTION>
+	<DIALOGUE>
+	Let's go.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Wait, who the fuck are they?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Just back up.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I'm not moving until those people get out of my trunk.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I'll give you half. Now let's go.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Jimmy turns around, sees the two women arguing and gets suspicious.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Let's go!
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I'm not taking them over the border. That's a crime.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	There's no border here. This is free trade between nations.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	This isn't a nation.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila jams the gun into Ray's side.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(under her breath)
+</DIRECTION>
+	<DIALOGUE>
+	Let's go.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Jimmy starts back toward the car. Ray puts the car in REVERSE and backs up.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON FROZEN RIVER - DAY
+</DIRECTION>
+<DIRECTION>
+The Acclaim drives down the bank onto the frozen river and starts across.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray drives. Lila sits angled toward Ray with the gun trained on her.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Why'd your husband leave you?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Fuck you.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Maybe he wanted a younger women.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray stares out at the ice.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	That's what usually happens.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray says nothing.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I never have to worry about that. My husband is dead. Went down in the river on a run. They never found him. Probably tangled in river weeds.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She gives Ray a spooky look.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You better slow down there are ruts out here. You could get stuck in one.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray speeds up and roars up the boat ramp off the ice skidding a little.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM IN RESERVATION WOODS - DAY
+</DIRECTION>
+<DIRECTION>
+Ray and Lila bounce through the woods with Lila holding the gun, this time.
+</DIRECTION>
+<DIRECTION>
+They come to a dirt road then to an intersection with State Route 37.
+</DIRECTION>
+<DIRECTION>
+A SIGN READS: "YOU ARE LEAVING AKWESASNE, LAND OF THE MOHAWK".
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37 - DAY
+</DIRECTION>
+<DIRECTION>
+Ray slows down at the sign.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Keep going.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What if the troopers stop us.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	They won't stop you. You're white.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray keeps going.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROUTE 37, THE RESERVATION LINE - DAY
+</DIRECTION>
+<DIRECTION>
+Just beyond the Reservation line, partly hidden behind a barn, a NEW YORK STATE TROOPER VEHICLE sits parked.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. BOB'S MOTEL, MASSENA, NEW YORK - DAY
+</DIRECTION>
+<DIRECTION>
+Ray pulls into a 1950s strip motel. A Pakistani man, the DEALER, looks out from the motel office.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM AT BOB'S MOTEL - DAY
+</DIRECTION>
+<DIRECTION>
+Ray sees the Dealer hurrying towards them.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Pull around back then wait for him to come to the window.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila keeps the gun low.
+</DIRECTION>
+<DIRECTION>
+The Dealer approaches cautiously.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Roll down your window.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+He walks up slowly and hands her a brown paper bag.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Count it.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray opens the bag and counts out the cash, as before.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Twelve hundred.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila takes the cash from Ray and pops the trunk release. The two Chinese men hurry out. The Dealer ushers them into a Garage.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Let's go.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37 - DAY
+</DIRECTION>
+<DIRECTION>
+Ray and Lila return down Route 37 past the sign "AKWESASNE, LAND OF THE MOHAWK"
+</DIRECTION>
+<DIRECTION>
+Lila keeps the gun on Ray.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Turn down there.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray looks at the dirt road leading into the woods.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Stop here.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray stops.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Now open the door.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray hesitates. Lila jams the gun in her side.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Open the door.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray opens the door.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Now get out.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray doesn't move.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	You can't have my car.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Get out.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	You can't have my car.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila tries to push Ray out the driver's door with her feet.
+</DIRECTION>
+<DIRECTION>
+Ray clings to the steering wheel.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Suddenly, Ray grabs Lila by the hair and pulls her head down to the car seat. Lila hits Ray in the head with the gun.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (gasps)
+</DIRECTION>
+	<DIALOGUE>
+	Fuckin' bitch!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Bleeding and holding Lila's hair, Ray pries the gun out of Lila's hand. Lila grabs the sack of money, jumps out of the passenger side of the car and takes off into the woods.
+</DIRECTION>
+<DIRECTION>
+Ray chases her, but Lila is faster and gets ahead, then disappears into the woods. Ray stops, panting, and wipes the blood from her forehead.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (calls after her)
+</DIRECTION>
+	<DIALOGUE>
+	Little bitch!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray stares after her for a long moment then gets back in the Acclaim.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER YARD - DAY
+</DIRECTION>
+<DIRECTION>
+Ray drives up in the Acclaim.
+</DIRECTION>
+<DIRECTION>
+T.J., wearing PROTECTIVE GOGGLES, works on the broken Duck Kiddie ride with a BLOW TORCH. He doesn't notice Ray.
+</DIRECTION>
+<DIRECTION>
+Ray covers over the cut with her hair and gets out and walks up behind him and taps him on the shoulder. He jumps and cuts the flame.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I told you not to use that thing when I'm not here.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	If I get it working I can sell it.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She looks at the rusted pieces of it.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I don't care. Don't use that thing when I'm not here!
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Rentaworld called. They're coming to get the TV if you don't pay by four tomorrow.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+He notices the car.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Did you find him?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Where was the car?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	At the bus stop on the Rez.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	I bet he went to Atlantic City.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You don't know that.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Yeah, but you could figure it out. Just find out what buses came through last-
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	And then what? Chase him across the country. Miss work. No.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	What happened to your face?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Nothin'.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	What, did you get in a fight with somebody?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	It was no big deal.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	You got in a fight, for real?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Some Indian chick tried to steal your Dad's car.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	No way. I say we go back there and kick some Mohawk ass.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	It doesn't matter.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Where's your car?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I'll get it tomorrow.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	You left it on the rez? That's so stupid.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I didn't have a tow rope.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	I still say we go back there and kick some Mohawk ass.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Forget it T.J. Did you and Ricky eat?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	That would be kinda miraculous since there's no food in the house.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	There's food.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Popcorn and Tang.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+Ray goes towards the trailer.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOHAWK USED CAR LOT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Lila walks in off the road. MIKE, the owner, plays a handheld video game.
+</DIRECTION>
+<DIRECTION>
+She looks around the lot.
+</DIRECTION>
+<MIKE>
+<DIRECTION>
+(In Mohawk)
+</DIRECTION>
+	<DIALOGUE>
+	Hi, Lila
+	</DIALOGUE>
+</MIKE>
+<LILA>
+<DIRECTION>
+(In Mohawk)
+</DIRECTION>
+	<DIALOGUE>
+	Mike.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She glances at a row of beat used cars.
+</DIRECTION>
+<MIKE>
+	<DIALOGUE>
+	How's life at the Bingo Palace.
+	</DIALOGUE>
+</MIKE>
+<LILA>
+	<DIALOGUE>
+	Good. How's business?
+	</DIALOGUE>
+</LILA>
+<MIKE>
+	<DIALOGUE>
+	Oh, you know, okay.
+	</DIALOGUE>
+</MIKE>
+<DIRECTION>
+She eyes a Malibu.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	How much for that one?
+	</DIALOGUE>
+</LILA>
+<MIKE>
+	<DIALOGUE>
+	Come on, Lila.
+	</DIALOGUE>
+</MIKE>
+<LILA>
+	<DIALOGUE>
+	What?! I've been saving up.
+	</DIALOGUE>
+</LILA>
+<MIKE>
+	<DIALOGUE>
+	You know what.
+	</DIALOGUE>
+</MIKE>
+<LILA>
+	<DIALOGUE>
+	Does Bernie Littlewolf run your whole life?
+	</DIALOGUE>
+</LILA>
+<MIKE>
+	<DIALOGUE>
+	No, but he said not to sell you a car.
+	</DIALOGUE>
+</MIKE>
+<LILA>
+	<DIALOGUE>
+	I gotta walk down 37 with the semis kickin' up snow and mud in my hair just to get to the work.
+	</DIALOGUE>
+</LILA>
+<MIKE>
+	<DIALOGUE>
+	For you, all I got are two Chevettes,a Horizon and a Civic.
+	</DIALOGUE>
+</MIKE>
+<LILA>
+	<DIALOGUE>
+	I don't like Chevettes.
+	</DIALOGUE>
+</LILA>
+<MIKE>
+	<DIALOGUE>
+	I figured.
+	</DIALOGUE>
+</MIKE>
+<DIRECTION>
+She holds out a wad of cash.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I'll give you a thousand for the Malibu.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+On the windshield of the Malibu in huge white letters: $750.
+</DIRECTION>
+<MIKE>
+	<DIALOGUE>
+	Nothing with a trunk.
+	</DIALOGUE>
+</MIKE>
+<LILA>
+	<DIALOGUE>
+	That thing has been sittin' here for six months.
+	</DIALOGUE>
+</LILA>
+<MIKE>
+	<DIALOGUE>
+	I don't want Bernie in my face. Okay?
+	</DIALOGUE>
+</MIKE>
+<LILA>
+	<DIALOGUE>
+	He doesn't have to know.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Mike rolls his eyes.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray wakes up with Ricky staring at her.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Mommy, I was thinking. What's gonna happen to the tin crapper when we get our new house?
+	</DIALOGUE>
+</RICKY>
+<RAY>
+<DIRECTION>
+(half asleep)
+</DIRECTION>
+	<DIALOGUE>
+	They're gonna flatten it out and send it to China.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	Then what?
+	</DIALOGUE>
+</RICKY>
+<RAY>
+	<DIALOGUE>
+	They're gonna melt it down and make little toys out if it.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	Then what?
+	</DIALOGUE>
+</RICKY>
+<RAY>
+	<DIALOGUE>
+	They'll send them back here so I can sell them at All for a Dollar.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	And you can buy me some?
+	</DIALOGUE>
+</RICKY>
+<RAY>
+	<DIALOGUE>
+	That's right.
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	Yes!
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER, KITCHEN - DAY
+</DIRECTION>
+<DIRECTION>
+Ray puts out a breakfast spread of Microwave popcorn and tang.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	I'm not eatin' that again for dinner.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	We just have to make it to my paycheck on Friday.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	What about Rentacenter?
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She searches through the couch cushions.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	What about them?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	They said they're coming to get the furniture if they don't get a payment by 4 o'clock.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You told me that already.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She finds change and hands it to him.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Here, lunch money.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She gives the rest to Ricky.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	Look I don't see why you won't just let me get a job with Mitch.
+	</DIALOGUE>
+</T_J>
+<RAY>
+<DIRECTION>
+(to T.J.)
+</DIRECTION>
+	<DIALOGUE>
+	Who's Mitch.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	He's got like this whole business he runs.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	He sells pot to kids?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	No, it's computers. He works on computers.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You're fifteen, it's not gonna happen so forget it.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	That's so stupid. We're gonna lose the TV while I'm sitting in some Christmas assembly when I could be-
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Your job is looking after your brother. Who's gonna take care of him?
+	</DIALOGUE>
+</RAY>
+<T_J>
+<DIRECTION>
+(going out the door)
+</DIRECTION>
+	<DIALOGUE>
+	I still say we should go back to the rez, get the Horizon and kick some serious butt.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+T.J. goes out the door behind Ricky and slams it in Ray's face.
+</DIRECTION>
+<DIRECTION>
+Ray slips into her jeans and goes to the bathroom mirror to put on her mascara. She cakes it on trying to ignore the cut over her eye but keeps looking at it. Finally she stops and stares at herself.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray pulls up in front of the camper and stops.
+</DIRECTION>
+<DIRECTION>
+The Horizon is still there and all is quiet.
+</DIRECTION>
+<DIRECTION>
+Ray gets out holding the gun and a long rope goes to the bumper and begins to tie it to the other bumper, looking over her shoulder every once in while at the camper.
+</DIRECTION>
+<DIRECTION>
+Once she has tied the cars together she gets back into the Acclaim, but instead of driving off, she just sits there.
+</DIRECTION>
+<DIRECTION>
+After a moment, she gets out with the gun and walks up to the camper.
+</DIRECTION>
+<DIRECTION>
+The bullet hole in the door has a sock stuffed in it.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(low tone)
+</DIRECTION>
+	<DIALOGUE>
+	I want my part.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Lila is asleep next to a rattling propane heater.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(O.S.) (knocks with the gun)
+</DIRECTION>
+	<DIALOGUE>
+	You hear me!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila's eyes pop open but she stays perfectly still. Ray shakes the door handle.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I want my part.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila sits up on her cot and puts on her jacket.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I want my part.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I'll give you the money if you give me the car.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	No way.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	The money's gone.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Then I wanna get some more of those Chinese.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The door opens. Ray steps back holding the gun. They look at each other.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	It's gonna cost me to get that hole fixed. I froze last night.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray holds up her hair revealing the cut over her eye.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I just need enough for the balloon payment on my doublewide then I'm out of this. I'm no criminal.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	It's not a crime.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	You people can call it what you want to. I just want my double.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+They stand staring at each other for a long moment, then Ray walks over and unties the rope around the bumpers of the Acclaim and the Horizon.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I don't usually work with whites.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Suit yourself.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray gets in the driver's side of the Acclaim and starts it. After a moment, Lila gets in the passenger side.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON FROZEN RIVER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray and Lila drive across the smooth surface of the river. Ray smokes with one hand and holds the gun with the other.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	How many bedrooms?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Three. I got kids.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	How old?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Five and Fifteen.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I got a boy. Almost one.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray looks at her.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He lives with my mother-in-law.
+	</DIALOGUE>
+<DIRECTION>
+(after a moment)
+</DIRECTION>
+	<DIALOGUE>
+	She stole him from me.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Stole him?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Yeah. Right out of the hospital.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Stole him?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Tribal police don't get involved in stuff like that.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila looks out across the river at dusk with no expression. The ice looks clean and still.
+</DIRECTION>
+<DIRECTION>
+Ray picks up speed to climb the river bank.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. JIMMY'S GARAGE - DAY
+</DIRECTION>
+<DIRECTION>
+Ray and Lila drive up in the Acclaim. Thunder SPRINGS out again, caught by his CHAIN just short of the car. Ray flinches but keeps hold of the gun.
+</DIRECTION>
+<DIRECTION>
+Jimmy walks out to meet them. Lila rolls down her window.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	Bernie was askin' if I'd seen you. I told him no.
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</LILA>
+<JIMMY>
+	<DIALOGUE>
+	I don't want any trouble with him, Lila.
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	Don't worry about it.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Jimmy's cell phone rings.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	This guy's been calling all morning. He's got two up at the Old Casino.
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Jimmy takes the call.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM AT JIMMY'S GARAGE - DAY
+</DIRECTION>
+<DIRECTION>
+Lila rolls up the window.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	What's going on?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	We gotta pick them up.
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(hesitates)
+</DIRECTION>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Not far.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Where's that?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	An old casino through the woods. They used to have gambling there in the bootlegger days.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: EXT. CORNWALL ISLAND WOODS, OLD CASINO - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila bounce through the woods to a collapsed building. An old BLACK SUV pulls up from the opposite direction, FACING THEM.
+</DIRECTION>
+<DIRECTION>
+Two MIDDLE-AGED CHINESE MEN, get out of the back. One carries an envelope. At the sight of Ray and Lila, he stops and says something to the other one.
+</DIRECTION>
+<DIRECTION>
+Both turn around and head back to the SUV.
+</DIRECTION>
+<DIRECTION>
+The DRIVER JACQUES BRUNO, a large Quebecois man, wearing a full-length fur coat gets out. They argue. He pulls out a LONG PISTOL and motions the men to the Acclaim.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	What the hell is he doing?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray reaches for her gun.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Keep that thing down.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Bruno walks towards the Acclaim.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Roll down the window and see what he wants.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What the hell is going on here?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Just roll it down.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Bruno stands at Ray's window.
+</DIRECTION>
+<DIRECTION>
+Ray slides the gun under her leg and rolls down the window. Bruno hands her a Tim Horton's bag. She takes it.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(Quebec-French accent)
+</DIRECTION>
+	<DIALOGUE>
+	D'ey don't like de women driver.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He hands Ray the envelope of cash.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Count it.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray nervously COUNTS the money as the Chinese men shiver outside.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Twelve hundred.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila pops the trunk. Bruno and the Chinese men disappear around the back of the Acclaim. They hear the trunk SHUT.
+</DIRECTION>
+<DIRECTION>
+Bruno comes back to Ray's window and taps on it.
+</DIRECTION>
+<DIRECTION>
+Ray looks at Lila.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Open it.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray rolls down the window again.
+</DIRECTION>
+<BRUNO>
+	<DIALOGUE>
+	D'is will keep d'em from running.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He hands her men's shoes and dirty socks.
+</DIRECTION>
+<DIRECTION>
+Ray takes the belongings and ROLLS up the window and drives away.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - DAY
+</DIRECTION>
+<DIRECTION>
+Ray drives across the river. The socks and shoes are between them.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Why would they want to run?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	To get away from the snakeheads.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	The snakeheads pay to get them here and then they gotta work off what they owe .
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	How much does it cost?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Forty, fifty thousand. Depends where they're coming from.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	To get here?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Sometimes they gotta work for years to pay it off.
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(disbelief)
+</DIRECTION>
+	<DIALOGUE>
+	To get here? No fuckin' way.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She gets a whiff of the socks.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	God those are ripe.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She throws them into the backseat.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	They always stink.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Two more cars are seen coming toward them on the river. They swerve wide to avoid the Acclaim.
+</DIRECTION>
+<DIRECTION>
+She speeds up to make it up the boat launch.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER, KITCHEN - DAY
+</DIRECTION>
+<DIRECTION>
+Ricky watches cartoons on the big screen TV. T.J. flips through the telephone book to the back section: AKWESASNE and scans columns of names mostly either "BONAPARTE" "LITTLEWOLF" or "THREERIVERS". He chooses a name and dials the number.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	-Hello
+	</DIALOGUE>
+<DIRECTION>
+(in a grown-up voice)
+</DIRECTION>
+	<DIALOGUE>
+	Is this Mrs. Irene ThreeRivers? -Mrs. Bonaparte, I have good news.
+	</DIALOGUE>
+<DIRECTION>
+(MORE)
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	-I'm the business manager of Mr. E.F. ThreeRivers and I have been authorized to inform you that you have inherited money. -Are you still there? -Wait, I don't WANT any money, I want to GIVE you money. -That's right. You have inherited money from his computer fortune. -He was the second richest man next to Bill Gates. -He left you Twenty-six thousand seven
+	</DIALOGUE>
+<DIRECTION>
+hundred and fifty dollars.(pause)
+</DIRECTION>
+	<DIALOGUE>
+	-TWENTY-SIX THOUSAND SEVEN HUNDRED AND FIFTY DOLLARS! -Oh no, you have no obligation whatsoever, Mrs. ThreeRivers, just a small processing fee of 29.00 dollars will authorize me to send out your first payment of thirteen-thousand three hundred and seventy five dollars. -You can put it on any major credit card.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Of course, you can always refuse the money. -Sure, I can hold.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+T.J. holds his pen poised to write and looks at Ricky watching TV, then at the clock. It reads 3:40 PM.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON ROUTE 37 - DAY
+</DIRECTION>
+<DIRECTION>
+The Acclaim emerges from a dirt road onto State Route 37.
+</DIRECTION>
+<DIRECTION>
+Up ahead a sign reads: "YOU ARE NOW LEAVING AKWESASNE, LAND OF THE MOHAWK". The Acclaim drives past.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROUTE 37, THE RESERVATION LINE - DAY
+</DIRECTION>
+<DIRECTION>
+Sitting in his New York State Trooper Vehicle, partly hidden behind a billboard, TROOPER MIKE NAPOLI, mid 40s, olive-skinned, watches the Acclaim drive by without expression.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37 - DAY
+</DIRECTION>
+<DIRECTION>
+Ray notices the vehicle.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Are they always there?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Yeah, but they can't stop you unless you give them a reason.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Have you ever gotten caught?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Once.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What happened?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	They gave me the choice of paying a fine or spending three months in jail.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What did you do?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I paid the fine. I made the money back in two nights of smuggling. But back then it was cigarettes and everybody did it. Some of the troopers were into it, too.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Smuggling?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Yeah. But when they lowered the tax on cigarettes in Canada most people got out of it and the rest switched over to Chinese.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: EXT. BOB'S MOTEL - NIGHT
+</DIRECTION>
+<DIRECTION>
+The Acclaim pulls around back. The Pakistani Dealer approaches the car and hands Ray a paper bag full of cash.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM AT BOB'S MOTEL - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray takes the money.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Count it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Right, I know.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Well, be sure it's right. I don't wanna get stiffed.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Then why don't you count it?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I got bad eyes.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She counts it and nods at Lila. Lila POPS the trunk and the barefoot Chinese men get out. Ray and Lila look at them, they look back, blank and ungrateful.
+</DIRECTION>
+<DIRECTION>
+Ray rolls down the window and tosses out their shoes and socks.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	You're welcome.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray swerves back out onto Route 37.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROUTE 37 INDIAN RESERVATION - SAME
+</DIRECTION>
+<DIRECTION>
+They continue down the road to the reservation line. After they pass the sign: YOU ARE ENTERING THE LAND OF THE MOHAWK, Ray pulls over and stops.
+</DIRECTION>
+<DIRECTION>
+Ray takes the money and consolidates it into one paper bag.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	What about mine?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	We're even now.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+They stare at each other for a second or two, but Ray does not take out the gun. Lila reaches for the door handle
+</DIRECTION>
+<DIRECTION>
+Lila gets out. Ray drives away.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER YARD - DAY
+</DIRECTION>
+<DIRECTION>
+The kitchen clock reads 3:55.
+</DIRECTION>
+<DIRECTION>
+A RENTAWORLD truck is parked outside. Two large RENTAWORLD MEN sit in it. T.J. sees them from inside the trailer. He comes outside.
+</DIRECTION>
+<DIRECTION>
+He walks up to the trunk. One of the men rolls down the window.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	My mom told me to give you her credit card number.
+	</DIALOGUE>
+</T_J>
+<RENTACENTER_MAN>
+<DIRECTION>
+(weary)
+</DIRECTION>
+	<DIALOGUE>
+	We only take cash or money orders.
+	</DIALOGUE>
+</RENTACENTER_MAN>
+<T_J>
+	<DIALOGUE>
+	Well, my Mom might be late.
+	</DIALOGUE>
+</T_J>
+<RENTACENTER_MAN>
+	<DIALOGUE>
+	She's got three minutes.
+	</DIALOGUE>
+</RENTACENTER_MAN>
+<DIRECTION>
+T.J. goes back inside.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+Ricky is glued to a cartoon. T.J. watches him, checking out the window every few seconds for Ray.
+</DIRECTION>
+<DIRECTION>
+A long moment passes with only the sounds from the cartoon.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER YARD - DAY
+</DIRECTION>
+<DIRECTION>
+The RENTAWORLD men get out of the car and start toward the trailer.
+</DIRECTION>
+<DIRECTION>
+From down the road the Acclaim comes roaring along, kicking up dust.
+</DIRECTION>
+<DIRECTION>
+Ray swerves in and jumps out and runs up to the men.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	It's okay. I got it right here.
+	</DIALOGUE>
+<DIRECTION>
+(she
+</DIRECTION>
+	<DIALOGUE>
+	waves a wad of fifties and twenties). Two fifty five, right?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The men nod, relieved. Ray counts out the money.
+</DIRECTION>
+<DIRECTION>
+Ricky bursts out the door and runs towards Ray.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Mommy!
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+She catches him in her arms and hugs him. T.J. stands at the trailer door, watching as the men drive away.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(to Ricky)
+</DIRECTION>
+	<DIALOGUE>
+	Who wants to go the Price Chopper and get some Cap'n Crunch?
+	</DIALOGUE>
+</RAY>
+<RICKY>
+	<DIALOGUE>
+	I DO!
+	</DIALOGUE>
+</RICKY>
+<RAY>
+	<DIALOGUE>
+	Wanna to go to the Price Chopper?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. walks out, looking at the money suspiciously.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	Where'd you get that?
+	</DIALOGUE>
+</T_J>
+<RAY>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	Matt made me an assistant manager.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	No way.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Is that so hard to believe?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	It's been like two years.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Exactly, and that's why he gave me a bonus.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He isn't convinced.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Do you wanna go to the Price Chopper or not?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. gets in the car.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOUSE ON POINT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Near the river, smoke curls from the chimney of a modest house.
+</DIRECTION>
+<DIRECTION>
+Lila perches in a tree nearby with a can of Pringles potato chips dropping every other one on the ground below where a huge WHITE DOG, part wolf, takes his share.
+</DIRECTION>
+<DIRECTION>
+From the tree Lila looks inside the window of the house where:
+</DIRECTION>
+<DIRECTION>
+A baby boy, "LITTLE JAKE," about a year old, bangs his spoon on his high chair tray then throws it down.
+</DIRECTION>
+<DIRECTION>
+EVELYN LITTLEWOLF, 48, a tall thin Mohawk woman with long hair pulled back, picks it up and gives it back to him.
+</DIRECTION>
+<DIRECTION>
+He throws it again. She knows the game. She gives it back, but the third time she holds it just out of his reach and laughs at him. He bangs his fists on the tray.
+</DIRECTION>
+<DIRECTION>
+Lila drinks in the sight.
+</DIRECTION>
+<DIRECTION>
+Abruptly, the DOOR OPENS and EVELYN leans out.
+</DIRECTION>
+<EVELYN>
+	<DIALOGUE>
+	Chance! Chance, get in here before you freeze your ass off.
+	</DIALOGUE>
+</EVELYN>
+<DIRECTION>
+The White Dog looks up at Lila who shakes the Pringles can upside down to show it's empty.
+</DIRECTION>
+<DIRECTION>
+Chance goes inside. The door SHUTS behind him.
+</DIRECTION>
+<DIRECTION>
+Lila stuffs a wad of cash in the can and jumps down from the tree. She leaves it near the front door and hurries into the woods.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. T.J. AND RICKY'S BEDROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray tucks Ricky into the bottom bunk. The wind whines in the loose siding. Ray stuffs a blanket around the window to block the draft.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER, LIVING ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray walks through the kitchen now full of groceries and opens a can of Adirondack Cola. The remains of two Hungry Man dinners sit on the table.
+</DIRECTION>
+<DIRECTION>
+She sits down in the living room. T.J. watches the local weather.
+</DIRECTION>
+<WEATHER_MAN>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Temps will dip tonight and tomorrow. Expect a Clipper from Northern Ontario to bring 8 to 12 inches of snow and winds gusting 25-45 miles an hour making it feel like minus 30. Area farmers are advised to bring in livestock. More on this after a message.
+	</DIALOGUE>
+</WEATHER_MAN>
+<DIRECTION>
+A blaring TV commercial for the "HOT WHEELS TECH TRAX AIR STUNT CHALLENGE SET" comes on.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	That's what he wants.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He points at the TV.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	For Christmas.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	What is it, again?
+	</DIALOGUE>
+</RAY>
+<T_J>
+<DIRECTION>
+(recites it quick)
+</DIRECTION>
+	<DIALOGUE>
+	Hot Wheels Tech Trax Air Stunt Challenge Set.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	-Hot Wheels Tech Trax, what?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Air-Stunt-Challenge-Set.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I got something even better than that.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	The double wide. But don't mention it to Ricky, just in case.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Yeah, "just in case."
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	This time is for real.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Is that why you bought Calgon Bath Stuff?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Yes it is. We're getting a tub, T.J. It's gonna happen.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Yeah, right.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	If you keep that attitude I'll never let you use it.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Be afraid. Be very afraid.
+	</DIALOGUE>
+<DIRECTION>
+(a moment)
+</DIRECTION>
+	<DIALOGUE>
+	What about Dad?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	What about him?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	What are you gonna do?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Why, did he call broke yet?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	No, but maybe he would call if you weren't so bitter.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Oh, here we go again with Saint Dad.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	That's what I mean. You're always on him. "Where's your paycheck, do you need a meeting, give me your receipts."
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	He's an addict, T.J.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	You're still bitter.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You gotta help Ricky get the tree up tomorrow after school okay?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Christmas shopping.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER, BEDROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray lays down her bed and checks her cell phone for new messages: a little zero blinks at her.
+</DIRECTION>
+<DIRECTION>
+She listens to her own cell phone message,
+</DIRECTION>
+<RAY_S_VOICE>
+	<DIALOGUE>
+	Hi, it's me. leave a message, and maybe I'll call ya back.
+	</DIALOGUE>
+</RAY_S_VOICE>
+<DIRECTION>
+It is harsh. She erases it and tries again.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(fake cheerful)
+</DIRECTION>
+	<DIALOGUE>
+	Hi....it's me...leave a message and I'll call ya' back.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She plays it back. It sounds fake. She tries again.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (less cheerful, forced)
+</DIRECTION>
+	<DIALOGUE>
+	Hey, leave me a message and I'll call ya' back.
+	</DIALOGUE>
+<DIRECTION>
+(under her breath)
+</DIRECTION>
+	<DIALOGUE>
+	You son of a bitch.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She plays it back. "You son of a..." was recorded.
+</DIRECTION>
+<DIRECTION>
+She tries again.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Hi, it's me. I can't take the call right now, but if it's you, Troy, please at least tell me you are alive, because the boys are worried about you.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She brings up OLD MESSAGES on her cell phone and listens to one.
+</DIRECTION>
+<TROY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Hey, I just got done here. I made two hours overtime fixing one of the snow- making machines. Pretty cool, huh? I'll be home late. I'm gonna catch that meeting at 7:30. Love you, bye.
+	</DIALOGUE>
+</TROY>
+<DIRECTION>
+Ray stares across the room at a pile of Troy's dirty flannel shirts. She gets up and picks up the pile to move it to the closet, but feels something hard. From a shirt pocket she pulls out a stack of used scratch cards.
+</DIRECTION>
+<DIRECTION>
+She throws the shirts in the closet and reaches for her cigarettes.
+</DIRECTION>
+<DIRECTION>
+She takes out a glossy picture of her double wide dream home, "The Commodore" a gleaming pre-fab structure with a landscaped yard and a family with paid-for smiles.
+</DIRECTION>
+<DIRECTION>
+After a moment she takes the wad of cash out of her pocket and begins making stacks of fifties and twenties.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+The camper is buried in snow. A shiny SUV pulls up out front. BERNIE LITTLEWOLF, 35, burly, well-dressed, Mohawk man gets out.
+</DIRECTION>
+<DIRECTION>
+He yells across the yard
+</DIRECTION>
+<BERNIE>
+	<DIALOGUE>
+	Lila. Get up. I got a job for you!
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+:SC: INT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Lila is sound asleep on her cot under three blankets next to the propane heater.
+</DIRECTION>
+<DIRECTION>
+Bernie's snow balls THUMP against the side of the camper.
+</DIRECTION>
+<BERNIE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Lila! Get up.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+Lila opens her eyes and looks out the window, squinting at the snow glare.
+</DIRECTION>
+<BERNIE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	They got two people out sick today, so if you get down there you got the job.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	Huh?
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	Get dressed, I got coffee. Let's go!
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+He holds up a paper cup.
+</DIRECTION>
+<DIRECTION>
+She slips on her jeans with a sweatshirt...
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. LILA'S CAMPER - DAY
+</DIRECTION>
+<DIRECTION>
+Lila forces the door open against the heavy snow and steps outside.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Where is it?
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	Get in, I'll tell you on the way.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+She grabs her coat and trudges across the yard.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. BERNIE'S SUV - DAY
+</DIRECTION>
+<DIRECTION>
+Bernie hands her a paper cup of coffee.
+</DIRECTION>
+<BERNIE>
+	<DIALOGUE>
+	Rita said you quit.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	She fired me.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	That's not what she said.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	Well, she should have. I can't see to count the money. I told you that. I come up short half the time.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	Then get some glasses.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	They make me carsick.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	Gimme a break.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+She sips the coffee.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	So where are we going?
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	The Tribal Council needs someone to answer phones.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	No way!
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She reaches for the door handle.
+</DIRECTION>
+<BERNIE>
+	<DIALOGUE>
+	Why not? You can answer a phone, can't you?
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	Not there! Not with them.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She starts to get out. He notices the Horizon, buried under the snow, near the camper.
+</DIRECTION>
+<BERNIE>
+<DIRECTION>
+(suspicious)
+</DIRECTION>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	I bought it.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	From who?
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	Some white lady.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+He says nothing. Taps his thumbs on the steering wheel, suspicious. A long moment passes.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	What do you need a car for?
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	To get to work. So I don't have to walk in the breakdown lane. Last week I almost got hit by the plow.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	You'll live. And you know what I'm talking about.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	It doesn't have a trunk.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+He stares at straight ahead.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	All right, all right! I'll go.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: INT. ALL FOR A DOLLAR STORE - DAY
+</DIRECTION>
+<DIRECTION>
+Ray rings up a counter full of merchandise for a heavyset CUSTOMER in her 20s.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	That's $87.50.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The customer hands her a credit card.
+</DIRECTION>
+<DIRECTION>
+Ray processes the credit card. It is declined.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Sorry. Didn't go through.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The customer looks up with exaggerated annoyance.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (in a low voice)
+</DIRECTION>
+	<DIALOGUE>
+	I can try to put it though again.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The customer grabs her purse from the basket, and walks out the door, leaving the merchandise.
+</DIRECTION>
+<CUSTOMER>
+<DIRECTION>
+(yells back at Ray)
+</DIRECTION>
+	<DIALOGUE>
+	You got a problem with your machine, lady!
+	</DIALOGUE>
+</CUSTOMER>
+<DIRECTION>
+Ray moves the merchandise aside for the next customer. It is Trooper Napoli.
+</DIRECTION>
+<DIRECTION>
+Ray is startled to see him. He puts down some shaving cream and a diet Pepsi.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(rings him up)
+</DIRECTION>
+	<DIALOGUE>
+	That'll be three seventy six.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He digs in his pocket.
+</DIRECTION>
+<TROOPER>
+	<DIALOGUE>
+	I got exact.
+	</DIALOGUE>
+</TROOPER>
+<DIRECTION>
+He counts it out. She hands him his bag and watches him walk out.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MOHAWK TRIBAL COUNCIL, RECEPTION AREA - DAY
+</DIRECTION>
+<DIRECTION>
+Mohawk paintings and a huge wolf carved out of wood decorate the waiting area.
+</DIRECTION>
+<DIRECTION>
+Nearby is an office marked "GRAND CHIEF"
+</DIRECTION>
+<DIRECTION>
+A MOHAWK WOMAN walks by the desk and recognizes Lila, then looks away, quickly.
+</DIRECTION>
+<DIRECTION>
+A tall, middle-aged woman, GRAND CHIEF ROSALIE comes out of the office and walks up to Lila.
+</DIRECTION>
+<ROSALIE>
+	<DIALOGUE>
+	Do I have any messages?
+	</DIALOGUE>
+</ROSALIE>
+<DIRECTION>
+Lila hands her a stack. She takes them and walks away, then stops.
+</DIRECTION>
+<ROSALIE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I can't read this.
+	</DIALOGUE>
+</ROSALIE>
+<DIRECTION>
+She holds the message out to Lila. Lila tries to read it, squinting.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I think it's a "T.".
+	</DIALOGUE>
+</LILA>
+<ROSALIE>
+	<DIALOGUE>
+	No, I can't read any of it.
+	</DIALOGUE>
+</ROSALIE>
+<LILA>
+	<DIALOGUE>
+	I told Bernie I couldn't see.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila grabs her jean jacket.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Nevermind. I'll go.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She walks out.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM AT BUBBLE CAMPER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray pulls up in heavy snow. Lila gets in with a gallon of windshield wiper fluid.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	We gotta get extra fluid.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I gotta get back before KMART closes.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	What for?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I got nothing for under the tree.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. WOLF MART GAS STATION RESTAURANT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray fills the car with gas.
+</DIRECTION>
+<DIRECTION>
+Lila goes inside to get some Pringles. Looking into the small restaurant she sees Evelyn Littlewolf, her mother - in-law and Little Jake sitting at a table with Grand Chief Rosalie.
+</DIRECTION>
+<DIRECTION>
+She stops dead in her tracks at the sight. They do not see her.
+</DIRECTION>
+<DIRECTION>
+Slowly, she walks up to the table.
+</DIRECTION>
+<DIRECTION>
+Little Jake notices her first.
+</DIRECTION>
+<DIRECTION>
+ANGLE: Through the window Ray catches sight of Lila standing at the table perfectly still.
+</DIRECTION>
+<DIRECTION>
+The other women glance up at her then turn away. No one speaks.
+</DIRECTION>
+<DIRECTION>
+Lila walks off with Little Jake still watching her.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila drive across the smooth river surface. Snow falls steadily. The windshield wipers SNAP back and forth.
+</DIRECTION>
+<DIRECTION>
+They barely avoid the oncoming headlights of another smuggler's car crossing the ice.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Don't you people even take Christmas Eve off?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Mohawks don't celebrate Christmas.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	You could fool me the way they were all lined up at All for a Dollar today.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Those are Christians. The converted.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	From what?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	From the Longhouse ways.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	That's awful not to have Santa Claus-- for the kids, I mean.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+T.J. dumps the contents of a box containing the pieces of an artificial Christmas tree. Branches cover the floor. The boys begin putting it together like a puzzle.
+</DIRECTION>
+<DIRECTION>
+The TV is on. A commercial for the HOT WHEELS TECH TRACK AIR STUNT CHALLENGE SET comes on.
+</DIRECTION>
+<DIRECTION>
+Ricky trains in on it, flinching and jerking his body with sound effects at the sight of the flying Hot Wheels cars and the booming voice of the announcer.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Daddy is gettin' me that for Christmas.
+	</DIALOGUE>
+</RICKY>
+<T_J>
+	<DIALOGUE>
+	What about Santa Claus?
+	</DIALOGUE>
+</T_J>
+<RICKY>
+	<DIALOGUE>
+	He's bringing the new house.
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+:SC: INT. ACCLAIM JIMMY'S GARAGE LOT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila drive up. Jimmy runs out with his jacket pulled over his head. He sees Lila and signals to the garage.
+</DIRECTION>
+<DIRECTION>
+Two figures start toward the car. As they get closer, Ray sees a man and a woman. Both Pakistani.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Wait. They're not Chinese.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	They're "Pakis."
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What does that mean?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	They're from Pakistan.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Well where's that?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I don't know. What difference does it make?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	A big difference.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The Pakistani couple stand outside the car, shivering and holding out the cash. The man carries a heavy duffle bag.
+</DIRECTION>
+<DIRECTION>
+Ray rolls down the car window. The man holds out money to Ray but she doesn't take it.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	If we wait much longer we won't be able to get back across the river.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Look, I'm not driving just anybody across the border.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Do you want the money or not?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I wanna know what's in the bag.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray looks out the car window and points to the bag speaking loudly.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What's in there?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The man looks at the woman.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	They don't understand you.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Well, if they want to come over here so bad, they ought'a take the time to learn English.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila pops open the trunk.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Just hold on a second.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray gets out.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM, JIMMY'S GARAGE LOT - NIGHT
+</DIRECTION>
+<DIRECTION>
+The Pakistani woman crawls into the trunk and the man picks up the duffle bag to put it in but Ray takes hold of it.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I'll take that.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray motions him into the trunk and shuts it. Then she opens the bag and starts to rifle through it but Lila stops her.
+</DIRECTION>
+<Lila>
+	<DIALOGUE>
+	What are you doing?! Just count the money and let's go.
+	</DIALOGUE>
+</Lila>
+<DIRECTION>
+Ray looks down at the bag. Nothing is visible but clothes.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	If we keeps snowing like this we won't be able to get across the river.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I just hope these aren't the ones that blow up themselves and everybody with them.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray zips the bag up and Lila helps her slide it in the backseat.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM AT JIMMY'S GARAGE LOT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila get back in the car. Ray starts to count the money. Lila takes it back.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	We don't have time.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+The Acclaim creeps along in heavy snow.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - SAME
+</DIRECTION>
+<DIRECTION>
+Lila struggles to count the money by the light of the glove compartment.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Is that a two or a five?
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(glances down)
+</DIRECTION>
+	<DIALOGUE>
+	A five.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray creeps along straining to see out the windshield. The windshield fluid peters out.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Shit!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila looks up. Outside is a wall of white.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	You gotta stop so I can fill up the wiper fluid.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I'm not stoppin'.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	It's a hundred feet deep out here if we get on black ice
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray sticks her head out the window but the snow and the wind are too strong. She stops.
+</DIRECTION>
+<DIRECTION>
+Lila gets out with the wiper fluid. Ray pops the hood.
+</DIRECTION>
+<DIRECTION>
+Ray looks in the backseat at the duffel bag. She hesitates a moment then reaches into the back and opens the back passenger door and slides the bag out of the car.
+</DIRECTION>
+<DIRECTION>
+Lila gets back inside.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Nuclear power, poison gas,...you can't tell what they might have in there. I'm not gonna be responsible for that.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray tries the windshield wipers. Fluid clears the windshield.
+</DIRECTION>
+<DIRECTION>
+Ray dials her cell phone with one hand.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) -Hi, I'm gonna be a little late.(pause)
+</DIRECTION>
+	<DIALOGUE>
+	-I have to work. Is Ricky asleep? -Put him on.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	-Ricky listen to me, he's not coming until you go to sleep.
+	</DIALOGUE>
+<DIRECTION>
+(pause) (MORE)
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	-No. Not yet. He's still flyin' over Canada okay? He's not even done with Canada yet, so he's not coming until you get to sleep. Now put your brother on. -I'll be home in a little while, okay? -No, I haven't got it,yet. What's it called again? -Hot Wheels Tech Trax Air Stunt whatever, right, right, I'll get it if I can! -I can't promise T.J. -There are more important things to get for Christmas this year. Be home in a little while. Okay, bye.
+	</DIALOGUE>
+</RAY>
+<RAY>
+<DIRECTION>
+(CONT'D) (to Lila)
+</DIRECTION>
+	<DIALOGUE>
+	You'd think a new house would be enough.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray guns it up the boat launch to the shore.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+In the living room, the artificial Christmas tree is up. The TV is on and Ricky is untangling a ball of red Christmas lights.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(dials the phone)
+</DIRECTION>
+	<DIALOGUE>
+	-Hi, is Mitch there?
+	</DIALOGUE>
+<DIRECTION>
+(a long pause)
+</DIRECTION>
+<DIRECTION>
+The microwave dings. Holding the phone, T.J. takes out two Hungry Man dinners and sets them on the table.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	-Hi Mitch. It's T.J. No, T.J. from school. Yeah, man. Right. Uh, I was wondering if you still needed those numbers we were talking about `cause I got one. -How much? -Cool, but the thing is I don't really have any wheels at the moment. -On Moira road off 37. -Yeah, but there's one more thing...(he whispers into the phone inaudibly)...no the air stunt challenge set. -Yeah, exactly. Yeah, man. Thanks a lot. Bye.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+He hangs up and puts the dinners on the table.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D) (to Ricky)
+</DIRECTION>
+	<DIALOGUE>
+	Ricky, time to eat.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+T.J. turns around. Ricky has wrapped himself in Christmas lights from head to toe, by slowly revolving while holding the strings.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Hey T.J., watch this!
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+He plugs in the lights and they turn on.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	Yeah, that's pretty cool. But it's gonna hurt when you sit down.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+Ricky giggles.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Now unwrap yourself, it's dinner time.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+:SC: EXT. BOB'S MOTEL - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila drive to the back of Bob's. The Dealer hurries out to meet them.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM AT BOB'S MOTEL - NIGHT
+</DIRECTION>
+<DIRECTION>
+He hands Ray a wad of cash. She counts it, then nods to Lila who pops the trunk.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM AT BOB'S MOTEL - NIGHT
+</DIRECTION>
+<DIRECTION>
+The Pakistani man and woman hurry out of the trunk, looking around, and rush to the passenger door of the Acclaim, speaking frantically to each other.
+</DIRECTION>
+<DIRECTION>
+The Dealer tries to hustle them to the garage, but they won't be moved.
+</DIRECTION>
+<DIRECTION>
+Ray starts to back out, but the Dealer knocks on their window. Ray rolls it down.
+</DIRECTION>
+<DEALER>
+<DIRECTION>
+(heavy accent)
+</DIRECTION>
+	<DIALOGUE>
+	They say there's a bag.
+	</DIALOGUE>
+</DEALER>
+<RAY>
+	<DIALOGUE>
+	It was too heavy. We had to unload it.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The Dealer tells the woman in Urdu. She becomes HYSTERICAL. She grabs Ray through the window and the dealer pulls her off.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What's the matter with her!?
+	</DIALOGUE>
+</RAY>
+<DEALER>
+	<DIALOGUE>
+	She had something in the bag.
+	</DIALOGUE>
+</DEALER>
+<DIRECTION>
+The woman continues screaming in Urdu.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	What is she saying!?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He speaks to her in Urdu.
+</DIRECTION>
+<DEALER>
+	<DIALOGUE>
+	She says her baby. Her baby was in the bag.
+	</DIALOGUE>
+</DEALER>
+<DIRECTION>
+The Dealer and the man hurry the wailing Pakistani woman into the garage.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37 - NIGHT
+</DIRECTION>
+<DIRECTION>
+Lila and Ray pull back onto Route 37 and drive along in stunned silence.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	It didn't feel like there was anything in that bag.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	We gotta go back.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I can't believe they put their baby in a duffle bag.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I can't believe you left it out there.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	If you'd let me search it I would never have taken it-
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	We gotta go back.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I know! I know that.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray speeds along.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ROUTE 37, THE RESERVATION LINE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Partly hidden, behind a barn, Trooper Mike Napoli watches the cars pass on Route 37, leaving the Reservation. The Acclaim passes.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+The trailer is aglow in Christmas lights. Ricky has fallen asleep on the couch.
+</DIRECTION>
+<DIRECTION>
+A car horn blows outside. T.J. runs outside.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER - SAME
+</DIRECTION>
+<DIRECTION>
+A beat up car is there. Inside a teenager, MITCH, a few years older than T.J., hands him out a Hot Wheels Tech Track Air Stunt Challenge Set.
+</DIRECTION>
+<MITCH>
+	<DIALOGUE>
+	That's what you wanted, right?
+	</DIALOGUE>
+</MITCH>
+<T_J>
+	<DIALOGUE>
+	Close enough.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+T.J. gives Mitch a piece of paper with a list of names and credit card numbers including that of Irene ThreeRivers.
+</DIRECTION>
+<MITCH>
+	<DIALOGUE>
+	Thanks Man, Have a Merry One.
+	</DIALOGUE>
+</MITCH>
+<DIRECTION>
+T.J turns to go back inside. He sees SMOKE RISING through the cracks in the siding and goes to the back.
+</DIRECTION>
+<DIRECTION>
+BLACK SMOKE POURS from under the trailer where old insulation is smoldering. T.J. runs to the shed, takes a fire extinguisher and sprays under the trailer. Steam rises. The fire appears to be out.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+T.J. comes back in. Smoke filters up though the cracks in the linoleum floor. He covers Ricky with extra blankets and opens the windows.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila drive down the boat launch to the river. The storm has stopped and the river is an endless white surface.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila creep along.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Look, there. Tracks.
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(squints)
+</DIRECTION>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Up there.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray speeds up. Faint tire tracks appear in the distance.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Slow down, I don't want to run over it. Stop. I think it was here.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray stops the car. Lila gets out. Ray puts her jacket over her head and follows.
+</DIRECTION>
+<DIRECTION>
+Ray's cell phone plays "Old MacDonald" on the seat of the Acclaim.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Wearing his coat in the trailer, with the windows and door open, T.J. dials the phone. He gets Ray's cell phone.
+</DIRECTION>
+<RAY_S_VOICE>
+<DIRECTION>
+(faintly heard though the phone)
+</DIRECTION>
+	<DIALOGUE>
+	Hi, it's me. I can't take the call right now, but if it's you, Troy, please at least tell me you're alive, because the boys are worried about you.
+	</DIALOGUE>
+</RAY_S_VOICE>
+<DIRECTION>
+He doesn't leave a message.
+</DIRECTION>
+<DIRECTION>
+Ricky snores on the couch covered in a pile of blankets.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Lila runs ahead. Ray struggles to keep Lila in sight.
+</DIRECTION>
+<DIRECTION>
+Ray comes up behind Lila, rifling through THE UNZIPPED DUFFEL BAG. She suddenly jumps back at the sight of the tiny face of an infant, wrapped in blankets, eyes closed, lips blue.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	It's dead.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray looks at the baby. Instinctively, she swoops down and gathers it up.
+</DIRECTION>
+<DIRECTION>
+Ray heads for the car.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Come on!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila follows her.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray gets in the car and sets the bundle down on the seat, unwraps it from layers of swaddling and begins taking off it's clothes. It is a boy.
+</DIRECTION>
+<DIRECTION>
+She tries to resuscitate him, but there is no response.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	It's dead.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray keeps giving it air. There is no response but she keeps at it. Then, between breaths:
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Tap the bottom of his feet.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	That's what they did to get Ricky breathing when he was born.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray puts the baby on Lila's lap. She pulls away.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I don't want to touch it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Well, I can't hold it and drive.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray cranks the heater and aims the vents at the baby. Lila stares down at the baby in her lap, not touching it.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I don't think it matters.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	At least put him next to your body. That will warm him up.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	But it's too late.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Just do it! We can't give it back to her cold.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+T.J. closes the windows and puts a package of microwave popcorn in the microwave and turns it on. He watches it begin to smoke, then pops open the microwave and takes the smoking bag from room to room to hide the smell of burnt insulation with burnt popcorn.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROUTE 37, THE RESERVATION LINE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray pulls out onto Route 37 and passes the reservation line: "You are now leaving the land of the Mohawk"
+</DIRECTION>
+<DIRECTION>
+Trooper Napoli watches the Acclaim pass again. This time he pulls out behind it.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37 - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray notices the cruiser following her.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Shit!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila looks back.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Calm down.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila quickly pulls the baby near and wraps him inside her coat hiding him from sight.
+</DIRECTION>
+<DIRECTION>
+The DOME LIGHTS START FLASHING.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Oh shit. What do I do?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Calm down. Just pull over.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What if he saw us go by before. To Bob's.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	He's got no reason to stop us, unless you give him one, so keep your mouth shut.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What if he searches the car. What do we say about-
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	He won't, just remember you're white.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray pushes the blankets onto the floor and kicks them under the seat.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON ROUTE 37 - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray pulls into the breakdown lane and the trooper pulls in behind her.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37 - NIGHT
+</DIRECTION>
+<DIRECTION>
+In Ray's rear view mirror, Trooper Napoli gets out of the cruiser. He puts on his hat and walks toward the car.
+</DIRECTION>
+<DIRECTION>
+Ray rolls down her window.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	License and registration?
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<DIRECTION>
+Ray hands them over. He examines them, then leans down to the window.
+</DIRECTION>
+<TROOPER_NAPOLI>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Could you step out of the vehicle, ma'am.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+<DIRECTION>
+(fakely nice)
+</DIRECTION>
+	<DIALOGUE>
+	I wasn't speeding, was I?
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Just step out of the car.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Did I do something?
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+<DIRECTION>
+(suspicious)
+</DIRECTION>
+	<DIALOGUE>
+	Ma'am I'm just directing you to step out of the vehicle?
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She gets out of the car reluctantly. He looks in at Lila, she keeps her head down.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Step around to the back of the vehicle.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<DIRECTION>
+He follows Ray to the back of the Acclaim.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON ROUTE 37, BREAKDOWN LANE - NIGHT
+</DIRECTION>
+<DIRECTION>
+He points at the trunk. Ray stares at it, afraid to speak.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	See that.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<DIRECTION>
+Ray stares at the back of the car, afraid to speak.
+</DIRECTION>
+<TROOPER_NAPOLI>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Your left rear parking light is not illuminated.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<DIRECTION>
+Ray notices the light.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Oh, I didn't know.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He takes out his pad and pen.
+</DIRECTION>
+<TROOPER_NAPOLI>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I'm gonna give you a provisional citation. Get this repaired in the next 48 hours and you'll have no problem.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Thanks.
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+<DIRECTION>
+(he looks into the car)
+</DIRECTION>
+	<DIALOGUE>
+	Who's your friend?
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	She looks after my kids when I have to work late.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray gets back in the car. He shuts the door behind her and gives Lila a friendly nod.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Have an enjoyable Holiday.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Yeah, you, too.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She rolls up her window.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37, BREAKDOWN LANE - NIGHT
+</DIRECTION>
+<DIRECTION>
+In her rear view, Ray watches him get in his vehicle, u- turn and drive out of sight in the opposite direction.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(nervous)
+</DIRECTION>
+	<DIALOGUE>
+	What did he want?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Just a blown out tail light.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	That's it?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+T.J. looks at the clock. It's after midnight. He leads Ricky, half asleep into his room and tucks him in bed. Then he takes out the Hot Wheels Box and puts it under the tree.
+</DIRECTION>
+<DIRECTION>
+:SC: INT./EXT. ACCLAIM AT BOB'S MOTEL - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila pull in to the motel but there is no sign of life.
+</DIRECTION>
+<DIRECTION>
+Ray gathers up the blankets. Lila sits motionless.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	We gotta take it in.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila sits absolutely still.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	It's moving.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What? Are you sure?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila slowly takes the baby from inside her jacket. His eyes open. He blinks. Ray and Lila stare at him.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Hello little baby.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+The baby looks back at them.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	He was just cold.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray and Lila wrap him up in the blankets and get out with Lila carrying the bundle and walk into the motel office.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. BOB'S MOTEL - SAME
+</DIRECTION>
+<DIRECTION>
+Ray and Lila look around the shabby motel office circa 1950s with a few threadbare chairs. No one is at the front desk.
+</DIRECTION>
+<DIRECTION>
+Ray ventures behind the desk and knocks on a small door. She carefully opens it to a small office with a desk, cluttered with papers and, beyond it, another door. Ray knocks and opens it to:
+</DIRECTION>
+<DIRECTION>
+A living room hung with heavy red Pakistani fabrics and lights. The dealer and the Pakistani man study a map of New York State spread out on the table.
+</DIRECTION>
+<DIRECTION>
+Behind them the Pakistani woman sits on the couch.
+</DIRECTION>
+<DIRECTION>
+Ray comes in, followed by Lila carrying the baby.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	We found him.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The Pakistani woman looks up, sees the bundle and hurries across the room to Lila. Lila holds out the baby with a little smile and the Pakistani woman snatches it out of her arms.
+</DIRECTION>
+<DIRECTION>
+The Pakistani women pulls back the blanket and sees the baby -- alive. She sinks to her knees letting out a wail.
+</DIRECTION>
+<DIRECTION>
+Lila's eyes fill with tears. Ray chokes back her own.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (to Lila)
+</DIRECTION>
+	<DIALOGUE>
+	Come on. Let's go.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila follows Ray out, looking over her shoulder at the baby.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON ROUTE 37 - NIGHT
+</DIRECTION>
+<DIRECTION>
+Lila and Ray drive away.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	He was dead.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	He was just cold.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	He was dead.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Okay, whatever, you brought him back to life.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	That was the Great Spirit, not me.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	All I know is Kmart is closed and I got nothing for under the tree.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila looks at Ray.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila says nothing.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Look, I don't have time for that. I can't get deep about every little thing. I just have to keep on going. I only need one more run to have enough for my double.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. ACCLAIM AT LILA'S CAMPER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila pull up in front of Lila's camper and stop. Ray divides the money.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Here.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila takes the money and starts to get out.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Merry Christmas or whatever.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila gets out and goes inside.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray drives up. The trailer is covered in Christmas lights.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER, KITCHEN - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray comes in. The box containing the Hot Wheels Tech Track Air Stunt Challenge set is under the tree.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Hot Wheels.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She is suspicious.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Where'd you get it?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	I called a friend.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Mitch? Is that the friend you called? It's probably stolen, you know.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	No, its not.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Well, I don't want you hanging around him. That kid is bad news.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	It's not like you were gonna get it.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Look , Mister, I got more important things to worry about than toys. I'm trying to get our doublewide.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Oh, yeah. I forgot.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Hey, you can lose the attitude. Anyway, Kmart was closed by the time I got off work.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He gives her a sideways glance.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What's that smell?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Popcorn.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	I told you to be careful with the microwave, didn't I?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+:SC: INT./EXT. LILA'S CAMPER - NIGHT
+</DIRECTION>
+<DIRECTION>
+A heavy THUD as something hits the side of Lila's camper.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Bernie!
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She opens the door, but no one is there. At her feet she sees a Pringles can. In it: the cash she left at her mother-in-law's house for her son.
+</DIRECTION>
+<DIRECTION>
+She looks towards the woods but there is no sign of anyone. She shuts the door.
+</DIRECTION>
+<DIRECTION>
+Inside she digs through an old box of junk and pulls out a 2 foot long oval shaped wooden board, an infant board, and a blanket. She wraps her pillow in the blanket around the board in the Mohawk tradition and picks it up.
+</DIRECTION>
+<DIRECTION>
+She tries it on her back, then leans it against the wall, then hangs it on a hook on the wall.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER, KITCHEN - DAY
+</DIRECTION>
+<DIRECTION>
+Christmas Morning. Ray stands at the stove in her bathrobe making pancakes. T.J. helps Ricky set up his new Hot Wheels Set.
+</DIRECTION>
+<DIRECTION>
+A Knock at the door.
+</DIRECTION>
+<DIRECTION>
+Another knock.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Daddy?
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+Ricky runs to the door and opens it, then backs away. Trooper Napoli is there.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Is there a Ray Eddy here?
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<DIRECTION>
+Ray comes to the door.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Can I speak to you outside for a minute.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	I haven't gotten the light fixed-
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	It's not about that. I just have a few questions.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Sure.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER YARD - DAY
+</DIRECTION>
+<DIRECTION>
+Ray slips on her boots, grabs her jacket around her and steps outside the trailer door.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	This is about the woman who was with you.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	How long have you known her?
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Not too long. She looks after my kids.
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	She's a smuggler.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Really?
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Wow. That's a shock.
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Yes, well, there is that element on the Reservation I'm sure you know.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Yeah, I've heard about it but I didn't know she was involved.
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	How did you happen to meet her?
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Uh, I think there was a sign for a baby sitter at the Wolf Mart. That's where I get my gas.
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	I just thought you should be aware of that. She's known to have smuggled illegal immigrants into the country.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Oh my God.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He nods his head.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	If I were you I'd find a new baby sitter. You don't want her around young kids.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Absolutely.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He eyes the side of the trailer where smoke stained siding is visible.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Well, you have an enjoyable Holiday.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Thanks. You, too.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray stands and watches the trooper drive away. She feels in the pocket of her bathrobe for her cigarettes and fumbles to light one, sucking on it, unaware of the cold.
+</DIRECTION>
+<DIRECTION>
+When she turns around she looks at the trailer and notices the smoke-stained siding on one end of it.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+T.J. listens at the door. Ricky looks up.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Why is the police man here?
+	</DIALOGUE>
+</RICKY>
+<T_J>
+	<DIALOGUE>
+	Shh.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+From outside the door:
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	T.J. could you come out here for a minute.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+T.J. goes outside.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. TRAILER YARD - DAY
+</DIRECTION>
+<DIRECTION>
+Ray stands staring at T.J. at the trailer's burnt end.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	What did he want? Did something happen to Dad?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Then what did he want?
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She points to the blackened siding on the trailer.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Did you have a fire last night?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	The pipes froze so I fixed `um.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	You fixed um?
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Did you happen to use the blow torch?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She walks around back and looks underneath the trailer: a mass of charred and melted insulation.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Look at this. We can't live here anymore!
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	It's just a tin crapper.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	No, it was our house.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	So, we're gettin' a new one, right?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Jesus, you could have killed yourself and your brother.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She grabs the blowtorch and slams it to the ground, but it is indestructible.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	It's not yours, he gave it to me.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She goes to the car, takes out her gun then puts the blow torch on the ground and aims at it -- but T.J. grabs it.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Put it down.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	No!
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Put it down.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Are you gonna shoot me now, too?
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	Put that thing down!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He ignites the blow torch to spite her.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	Maybe he didn't like gettin' shot in his own house. Maybe that's why he left.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	That was an accident.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	Some accident you shot him in the foot.
+	</DIALOGUE>
+</T_J>
+<RAY>
+	<DIALOGUE>
+	He spent the food money on scratch cards, T.J.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	So, he'd done it before.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+He aims it at her. She walks towards him. He increases the flame.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Gimme that thing.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She tries to grab it out of his hand, but he is too strong.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	T.J. come on now.
+	</DIALOGUE>
+</RAY>
+<T_J>
+	<DIALOGUE>
+	You can't have it. It's mine.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+His eyes fill with tears, but his face stays tight.
+</DIRECTION>
+<DIRECTION>
+She grabs at it again, but he jerks it away. She pauses and stares at him.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	He was clean for 23 months.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+They look at one another.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (chokes back tears)
+</DIRECTION>
+	<DIALOGUE>
+	I didn't know how else to keep us together. I mean...he's a good dad when he's not gamblin'.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He cuts off the blow torch.
+</DIRECTION>
+<T_J>
+	<DIALOGUE>
+	Yeah, awesome dad. Robs us and takes off a week before Christmas.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She walks up to him and wipes a tear from the side of his face. He shakes it off.
+</DIRECTION>
+<DIRECTION>
+They stand in the cold air for a long moment their breath visible. She touches his hair.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I know.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. BUBBLE CAMPER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray drives up in the Acclaim. Lila and the Horizon are gone.
+</DIRECTION>
+<DIRECTION>
+Ray gets out and looks around but there is no sign of her.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. PARKING LOT, MOHAWK BINGO PALACE -
+</DIRECTION>
+<DIRECTION>
+Ray slowly cruises the lot looking for the Horizon.
+</DIRECTION>
+<DIRECTION>
+She spots it in the distance behind the Bingo palace next to a dumpster.
+</DIRECTION>
+<DIRECTION>
+Ray parks and goes inside.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOHAWK BINGO PALACE ENTRANCE - NIGHT
+</DIRECTION>
+<DIRECTION>
+The short chubby toothless Mohawk ticket taker perched on a metal stool beside a velvet rope.
+</DIRECTION>
+<DIRECTION>
+Ray sees her and begins to dig in her jeans for a five. The ticket taker looks her up and down, expressionless.
+</DIRECTION>
+<DIRECTION>
+Ray hands over the money. The ticket taker just looks at her.
+</DIRECTION>
+<TICKET_TAKER>
+	<DIALOGUE>
+	The game's over. They're verifying the last winner.
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	That's okay. I still wanna buy a ticket.
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	I can't sell you one.
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	I got money.
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	Sorry.
+	</DIALOGUE>
+</TICKET_TAKER>
+<RAY>
+	<DIALOGUE>
+	I just want to buy some scratch cards.
+	</DIALOGUE>
+</RAY>
+<TICKET_TAKER>
+	<DIALOGUE>
+	Go to Wolf Mart, they sell `um there.
+	</DIALOGUE>
+</TICKET_TAKER>
+<DIRECTION>
+Ray walks away. The ticket taker watches her.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOHAWK BINGO PALACE, PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+Ray slumps down in the driver's seat of the Acclaim waiting for Lila to come out. She is parked a few cars away from the Horizon.
+</DIRECTION>
+<DIRECTION>
+Other bingo players come out and get in cars surrounding Ray.
+</DIRECTION>
+<DIRECTION>
+Mohawks employees, including Lila come out of the "Employees Entrance". She starts toward Horizon. She wears new glasses.
+</DIRECTION>
+<DIRECTION>
+Catching sight of Ray in the Acclaim, she abruptly turns and starts walking in the opposite direction.
+</DIRECTION>
+<DIRECTION>
+Ray pulls out and drives over following her in the Acclaim.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I quit smuggling.
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(rolls down the window)
+</DIRECTION>
+	<DIALOGUE>
+	T.J. set the trailer on fire.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila keeps walking. Ray drives along beside her.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	He didn't mean to, but the pipes froze and he got that damn torch out -- which I told him not to do touch when I wasn't there -- and he tried to thaw them out-
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I got glasses and now I can see up close.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	There's a hole in my bedroom floor. We gotta move.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila keeps walking.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I just need one more run to get the double.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila keeps walking.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Look you can have the Acclaim. Okay?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila keeps walking.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I don't want it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	What is it then?!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila keeps walking.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Are you still mad about that baby? `Cause it wasn't all my fault, ya' know. I mean who puts their kid in a duffle bag?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila keeps walking. Ray follows trying to figure her out.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You're gonna need a lot of money to take care of a one year old baby.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I got enough.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Yeah, but you gotta get him first.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila stops dead in her tracks and looks at Ray.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I'll help you. You can even borrow my gun.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila looks around to see if anyone is watching and gets in the Acclaim with Ray.
+</DIRECTION>
+<DIRECTION>
+ANGLE FROM BINGO PALACE ENTRANCE: The Ticket Taker watches the Acclaim drive away.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM, VERSAILLES MOBILE HOME LOT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila pull up outside the model double wide home.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM. VERSAILLES MOBILE HOME LOT - SAME
+</DIRECTION>
+<DIRECTION>
+Ray and Lila look at it.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	You should see the inside.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	How many bedrooms?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Three. And it's got a jacuzzi tub in the master bathroom.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Wall to wall carpet?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Oh yeah. But the best thing is the insulation. The pipes can never freeze.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray gets out.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I'll be back.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She disappears into the Office.
+</DIRECTION>
+<DIRECTION>
+Lila looks at the house.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. OFFICE, VERSAILLES MOBILE HOME LOT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray comes in on Guy Versailles giving a young couple the hard sell.
+</DIRECTION>
+<VERSAILLES>
+	<DIALOGUE>
+	...what I think you'll find with the Commodore -- and you'll be the judge -- is that the vinyl wall covering is perfect for small children. There is never a need to repaint or even touch up-
+	</DIALOGUE>
+</VERSAILLES>
+<RAY>
+	<DIALOGUE>
+	I wanna schedule a delivery.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Versailles looks up, annoyed. He plasters on a smile.
+</DIRECTION>
+<VERSAILLES>
+<DIRECTION>
+(to the couple)
+</DIRECTION>
+	<DIALOGUE>
+	Give me just a second.
+	</DIALOGUE>
+</VERSAILLES>
+<DIRECTION>
+He tries to take Ray aside.
+</DIRECTION>
+<VERSAILLES>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	What do you want?
+	</DIALOGUE>
+</VERSAILLES>
+<DIRECTION>
+She pulls a huge wad of cash from her jacket pocket.
+</DIRECTION>
+<VERSAILLES>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Is this all of it?
+	</DIALOGUE>
+</VERSAILLES>
+<RAY>
+	<DIALOGUE>
+	It's three thousand but I want it delivered tomorrow.
+	</DIALOGUE>
+</RAY>
+<VERSAILLES>
+	<DIALOGUE>
+	I told you all or nothing.
+	</DIALOGUE>
+</VERSAILLES>
+<DIRECTION>
+She holds out the cash. The couple tries not to watch.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Take it as a deposit. All you have to do is show up. If I don't have the rest you keep it.
+	</DIALOGUE>
+</RAY>
+<VERSAILLES>
+	<DIALOGUE>
+	Can't argue with that. You'll have to sign something, though.
+	</DIALOGUE>
+</VERSAILLES>
+<DIRECTION>
+He takes out a contract and writes in the deposit amount as thirteen hundred seventy two dollars owing.
+</DIRECTION>
+<DIRECTION>
+Ray signs the paper.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray drives down the boat launch and starts across. The sky is clear and the moon shines down on the white river surface.
+</DIRECTION>
+<DIRECTION>
+Downstream patches of the river have thawed and water flows is visible.
+</DIRECTION>
+<DIRECTION>
+There is only the sound of the wheels on the smooth ice surface.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. JIMMY'S GARAGE, RIVER'S EDGE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Jimmy's is dark. Ray and Lila sit a minute. Then:
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Blow the horn.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray honks the horn.
+</DIRECTION>
+<DIRECTION>
+A light comes on. Jimmy runs outside in a t-shirt. Lila rolls down the window.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	Heat wave!
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	You got a run for us, Jimmy?
+	</DIALOGUE>
+</LILA>
+<JIMMY>
+<DIRECTION>
+(shakes his head)
+</DIRECTION>
+	<DIALOGUE>
+	It's pretty slow after Christmas. Unless you wanna to go off the Rez, there's a guy up in Montreal who's usually got heads.
+	</DIALOGUE>
+</JIMMY>
+<LILA>
+	<DIALOGUE>
+	How far?
+	</DIALOGUE>
+</LILA>
+<JIMMY>
+	<DIALOGUE>
+	Twenty miles or so. But...you gotta watch out for the Mounties and the Surete. and...this guy deals in ya' know girls.
+	</DIALOGUE>
+</JIMMY>
+<DIRECTION>
+:SC: EXT./INT. ACCLAIM, QUEBEC HIGHWAY - SAME
+</DIRECTION>
+<DIRECTION>
+Ray and Lila drive down a Quebec highway. The road signs are in French.
+</DIRECTION>
+<DIRECTION>
+The skyline of Montreal is an orange glow in the far distance.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Have you ever been there?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	A few times. Have you?
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	No, Troy didn't like to travel. He liked to work in his shed, mostly.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray and Lila drive down a commercial strip of shopping centers, fast food joints and strip clubs, with French names.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Up there. That's it.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Can't miss that.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: EXT. LE CLUB SUPER SEXE - SAME
+</DIRECTION>
+<DIRECTION>
+Ray pulls in at a giant neon silhouette of a naked woman.
+</DIRECTION>
+<DIRECTION>
+They drive around back and get out. THROBBING DISCO music is heard from inside a door marked "Prive."
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CLUB SUPER SEXE - NIGHT
+</DIRECTION>
+<DIRECTION>
+They walk in. The place is mostly empty. There is a scantily dressed BARTENDER and JACQUES BRUNO sitting at the bar.
+</DIRECTION>
+<BARTENDER>
+	<DIALOGUE>
+	Oui?
+	</DIALOGUE>
+</BARTENDER>
+<LILA>
+	<DIALOGUE>
+	Bruno.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She points to Bruno. Lila and Ray approach him. He is on his cell phone speaking in French.
+</DIRECTION>
+<DIRECTION>
+He looks them over, then closes up his telephone.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(French accent)
+</DIRECTION>
+	<DIALOGUE>
+	You looking for a job.
+	</DIALOGUE>
+</BRUNO>
+<LILA>
+	<DIALOGUE>
+	No, Jimmy called-
+	</DIALOGUE>
+</LILA>
+<BRUNO>
+	<DIALOGUE>
+	Oh yeah, Jimmy. Okay.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He calls over the Bartender. She comes over. He points to Ray and Lila.
+</DIRECTION>
+<DIRECTION>
+She walks over to them.
+</DIRECTION>
+<BARTENDER>
+<DIRECTION>
+(softly)
+</DIRECTION>
+	<DIALOGUE>
+	Put your hands up.
+	</DIALOGUE>
+</BARTENDER>
+<DIRECTION>
+Ray and Lila put up their hands. The Bartender pat frisks them for body wires. When she is finished:
+</DIRECTION>
+<BRUNO>
+	<DIALOGUE>
+	Okay we go.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He picks up his full-length fur coat.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	D'is way.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+They follow him out the back of the club. The Bartender follows.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. PARKING LOT, CLUB SUPER SEXE - SAME
+</DIRECTION>
+<DIRECTION>
+They wait.
+</DIRECTION>
+<BRUNO>
+	<DIALOGUE>
+	D'at your car?
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He points to the Acclaim parked a few feet away. They nod. He walks out to a shed and unlocks the door. Two very young CHINESE GIRLS, sickly and pale, wearing jean jackets look vacantly out.
+</DIRECTION>
+<DIRECTION>
+Bruno signals them to get out.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Open the trunk.
+	</DIALOGUE>
+</BRUNO>
+<LILA>
+	<DIALOGUE>
+	We need to get paid, first.
+	</DIALOGUE>
+</LILA>
+<BRUNO>
+	<DIALOGUE>
+	Oh, yes.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He pulls a wad of cash from inside his coat and hands it to Lila. She counts it out.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	You only got six hundred here.
+	</DIALOGUE>
+</LILA>
+<BRUNO>
+	<DIALOGUE>
+	You get the rest at drop off.
+	</DIALOGUE>
+</BRUNO>
+<LILA>
+	<DIALOGUE>
+	It's six hundred apiece.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+The girls stand shivering by the trunk.
+</DIRECTION>
+<BRUNO>
+	<DIALOGUE>
+	That's the deal I make with Jimmy, now you want to change?
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+Lila and Ray look at each other.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	It's twelve hundred.
+	</DIALOGUE>
+</LILA>
+<BRUNO>
+	<DIALOGUE>
+	You want to make a problem?
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+Bruno glances at the Bartender watching from the back door of the club.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(CONT'D) (annoyed by Ray)
+</DIRECTION>
+	<DIALOGUE>
+	...because you're not making a problem for me. And you're making a problem for them. Let me show you something.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He approaches the two girls.
+</DIRECTION>
+<DIRECTION>
+He grabs one of the girls by the hair, kicks her in the back of the knees forcing her to the ground.
+</DIRECTION>
+<DIRECTION>
+Lila looks at Ray. The girl tries to get on her feet, but each time she does he kicks her in the back of the knees again.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(to Ray)
+</DIRECTION>
+	<DIALOGUE>
+	Let's just go.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Held up by her hair, the girl slides around helplessly. Lila winces at the sight. Ray stares at Bruno.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Okay. We'll take them.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila looks at Ray.
+</DIRECTION>
+<DIRECTION>
+Bruno drops the girl who scrambles to her feet.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Let's go.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Just open the trunk.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila leans into the passenger side of the Acclaim and pops the trunk. Bruno looks at Ray:
+</DIRECTION>
+<BRUNO>
+	<DIALOGUE>
+	You must be the brains of the operation.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+He motions the girls into the trunk and shuts it after them.
+</DIRECTION>
+<DIRECTION>
+Lila get in the passenger side and Bruno starts for the back door of the club.
+</DIRECTION>
+<DIRECTION>
+Ray pulls her gun out of her jacket and aims it at Bruno.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Turn around!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Bruno stops and turns around.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I want the rest.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He opens his fur coat.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(cool)
+</DIRECTION>
+	<DIALOGUE>
+	I don't have any more.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+In the shiny coat lining only the handle of a long pistol is visible.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(to the Bartender)
+</DIRECTION>
+	<DIALOGUE>
+	Go get it.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Bruno looks around and nods at the bartender. The bartender panics not knowing what to do and begins speaking in French to Bruno.
+</DIRECTION>
+<DIRECTION>
+Ray shoots at the pavement beside Bruno.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(to the bartender)
+</DIRECTION>
+	<DIALOGUE>
+	Give it to her.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+The Bartender disappears into the club. Ray waits with the gun on Bruno.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(from inside the Acclaim)
+</DIRECTION>
+	<DIALOGUE>
+	Let's get out of here. I'll give you the rest of the money.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	No. But thanks.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	You're gonna get us all killed.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+A moment later the Bartender comes back, shaking and holding cash.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Put it there.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She indicates the trunk.
+</DIRECTION>
+<BRUNO>
+<DIRECTION>
+(to the bartender)
+</DIRECTION>
+	<DIALOGUE>
+	You aren't so smart as you look.
+	</DIALOGUE>
+</BRUNO>
+<DIRECTION>
+Ray grabs the money and still pointing at Bruno, backs into the car.
+</DIRECTION>
+<DIRECTION>
+Bruno reaches for his pistol and aims at them as the Acclaim squeals away.
+</DIRECTION>
+<DIRECTION>
+Bruno FIRES shattering the driver's side window, grazing Ray's head.
+</DIRECTION>
+<DIRECTION>
+Ray falls back, dazed for a moment. Lila steers. Then Ray takes the wheel as they swerve out onto the main road.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	He shot me.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray wipes the blood from her forehead.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	You should'a just taken the money from me?
+	</DIALOGUE>
+</LILA>
+<RAY>
+<DIRECTION>
+(blood streams down her face)
+</DIRECTION>
+	<DIALOGUE>
+	I'm tired of people stealing from me. Is it all there?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	We gotta get outta here, first.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Just COUNT IT and make sure it's all there!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray hands her the wad of money. Lila struggles to put on her glasses and counts out the money.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Is it there?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	It's all there.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Good.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Slow down a little. We gotta keep it under the speed limit.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray smiles and wipes away the blood.
+</DIRECTION>
+<DIRECTION>
+They drive a short distance. Ray checks the rear-view mirror.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	We gotta get off this road.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila looks in the rear view. Headlights appear behing them.
+</DIRECTION>
+<DIRECTION>
+Ray speeds up approaching an intersection: the sign reads "ARRET"
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Slow down!
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	I can't.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila looks back in the rear view mirror. The headlights are gaining on them.
+</DIRECTION>
+<DIRECTION>
+She SPEEDS through it.
+</DIRECTION>
+<DIRECTION>
+A local SURETE DE QUEBEC police cruiser parked out of sight TAKES OFF after her, LIGHTS FLASHING.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON QUEBEC ROADS - NIGHT
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	We gotta get off this road!
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON DIRT ROAD - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray swerves off the main road to a DIRT ROAD. The Québec police follow.
+</DIRECTION>
+<DIRECTION>
+Ray swerves off the road and across a field into the WOODS and kills the HEADLIGHTS.
+</DIRECTION>
+<DIRECTION>
+The Quebec Cruiser CHASES them.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON DIRT ROAD - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray speeds down the road.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	How much farther to the reservation?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	Just up at the tree line.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray speeds towards it, but the Quebec cruiser still pursues them.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	What the hell? We're on the reservation.
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	They can't arrest us but if they catch us they'll take the money.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Shit!
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray bounces into the woods through the trees.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON RIVER BANK - NIGHT
+</DIRECTION>
+<DIRECTION>
+The Acclaim emerges from the woods at the edge of the river. The International Seaway Bridge looms above the ice surface of the river.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON RIVER BANK - NIGHT
+</DIRECTION>
+<DIRECTION>
+Behind them the flashing lights close in.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	That ice is black out here.
+	</DIALOGUE>
+</LILA>
+<RAY>
+	<DIALOGUE>
+	Will it hold us?
+	</DIALOGUE>
+</RAY>
+<LILA>
+	<DIALOGUE>
+	I don't know.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray looks at her for a moment then drives toward the ice.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RIVER BANK - NIGHT
+</DIRECTION>
+<DIRECTION>
+Behind them, the Quebec cruiser BRAKES at the edge of the river.
+</DIRECTION>
+<DIRECTION>
+The Québec officer GETS OUT TO WATCH the Acclaim drive out across the ice. He radios to:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. INTERNATIONAL SEAWAY BRIDGE - NIGHT
+</DIRECTION>
+<DIRECTION>
+A BORDER GUARD picks up the phone. He nods, then hangs up and makes a call to...
+</DIRECTION>
+<DIRECTION>
+:SC: INT. NEW YORK STATE CRUISER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Trooper Napoli hears the call on the police radio.
+</DIRECTION>
+<DISPATCHER>
+	<DIALOGUE>
+	...the Quebec Surete in pursuit of a vehicle with New York State plates, identified as a blue Plymouth Acclaim and the suspects are two women, suspected to be carrying illegals...
+	</DIALOGUE>
+</DISPATCHER>
+<DIRECTION>
+He recognizes the car and u-turns.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ACCLAIM ON FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray and Lila hold their breath as they cross the river. They make it over the midpoint and Ray accelerates toward the shore.
+</DIRECTION>
+<DIRECTION>
+Two hundred feet from the bank, the BACK RIGHT TIRE HITS A CRACK in the ice. The TIRE DROPS and the UNDER BELLY of the car SCRAPES THE ICE. SPARKS FLY.
+</DIRECTION>
+<DIRECTION>
+The RIGHT REAR END of the car DROPS DOWN and the FRONT LEFT TIRE LIFTS off the ice. The car TEETERS BACK AND FORTH.
+</DIRECTION>
+<DIRECTION>
+Ray and Lila sit perfectly still.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	We gotta crawl out the window.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila rolls down her window. The car shifts. The wad of cash SLIDES toward the edge of the dashboard. Ray grabs it.
+</DIRECTION>
+<DIRECTION>
+Lila pops the trunk. The two Chinese girls scramble out. The four begin RUNNING FOR THE SHORE.
+</DIRECTION>
+<DIRECTION>
+ANGLE FROM THE UNDER THE BRIDGE:
+</DIRECTION>
+<DIRECTION>
+Trooper Napoli watches the action on the ice.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ACCLAIM ON FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+The CAR SINKS DEEPER INTO THE WATER on one side.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. FROZEN RIVER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray, Lila and the Chinese girls keep running, slipping and sliding, falling. Lila and Ray stop and go back to help one of the Chinese girls who keeps falling.
+</DIRECTION>
+<DIRECTION>
+When they get to the shore, they climb up the bank and collapse on the snow, gasping.
+</DIRECTION>
+<DIRECTION>
+ANGLE: Trooper Napoli gets in his cruiser and heads down the bank toward the women, lights flashing.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RIVER BANK - NIGHT
+</DIRECTION>
+<DIRECTION>
+Two headlights are seen in the distance coming toward them. A PICKUP TRUCK approaches along the shore.
+</DIRECTION>
+<DIRECTION>
+Jimmy drives it. He gets out, gathers Ray, Lila and the two Chinese girls into the back of the truck and drives away.
+</DIRECTION>
+<DIRECTION>
+Ray looks back as the Acclaim SLIPS THROUGH THE ICE AND DISAPPEARS.
+</DIRECTION>
+<DIRECTION>
+Trooper Napoli reaches the scene, too late. No one is there.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. VILLAGE BAKERY - NIGHT
+</DIRECTION>
+<DIRECTION>
+A small house on the river's edge with a hand painted sign:"Bakery" Jimmy drives up. He helps Ray, Lila and the Chinese girls to the door.
+</DIRECTION>
+<DIRECTION>
+The Ticket Taker, "VELMA" opens the door, wearing an apron.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	Hi Mom.
+	</DIALOGUE>
+</JIMMY>
+<VELMA>
+	<DIALOGUE>
+	Jimmy, I told you not to bring no more half frozen people in here off the river.
+	</DIALOGUE>
+</VELMA>
+<JIMMY>
+<DIRECTION>
+(ignores her)
+</DIRECTION>
+	<DIALOGUE>
+	We just need to borrow your oven, Mom.
+	</DIALOGUE>
+</JIMMY>
+<DIRECTION>
+He leads them, wet and freezing, to the bakery kitchen. As they go by Velma and Ray recognize each other.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. VILLAGE BAKERY, KITCHEN - NIGHT
+</DIRECTION>
+<DIRECTION>
+An industrial oven sits beside an old couch. Lila, Ray and the teenage girls stand near it shivering.
+</DIRECTION>
+<DIRECTION>
+Velma looks them over, frowning and shakes her head.
+</DIRECTION>
+<VELMA>
+	<DIALOGUE>
+	I don't see how I can get any baking done. I'm supposed to be baking 200 doughnuts for pee wee Lacrosse and now I have people bleeding and dripping all over my kitchen.
+	</DIALOGUE>
+</VELMA>
+<DIRECTION>
+She opens a closet filled with Indian medicine plants and takes out several kinds.
+</DIRECTION>
+<VELMA>
+<DIRECTION>
+(CONT'D) (to Ray)
+</DIRECTION>
+	<DIALOGUE>
+	Sit down, I can't reach up that high.
+	</DIALOGUE>
+</VELMA>
+<DIRECTION>
+Ray sits down. Velma reaches up and dabs Ray's grazed and bleeding forehead.
+</DIRECTION>
+<VELMA>
+<DIRECTION>
+(CONT'D) (to Ray)
+</DIRECTION>
+	<DIALOGUE>
+	Looks like somebody tried to blow your brains out.
+	</DIALOGUE>
+</VELMA>
+<DIRECTION>
+Ray winces in pain.
+</DIRECTION>
+<VELMA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Get outta here, Jimmy. They gotta strip down.
+	</DIALOGUE>
+<DIRECTION>
+(to girls)
+</DIRECTION>
+	<DIALOGUE>
+	Gimme those jackets.
+	</DIALOGUE>
+</VELMA>
+<DIRECTION>
+Velma motions to the Chinese girls to take off their coats. They stare at her shivering.
+</DIRECTION>
+<DIRECTION>
+She gently goes to one of the girls and helps her out of her jean jacket. Under it she wears a short sleeved shirt showing her bruised arms.
+</DIRECTION>
+<DIRECTION>
+Velma sees the bruises.
+</DIRECTION>
+<VELMA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Somebody's been beatin' up on you.
+	</DIALOGUE>
+</VELMA>
+<DIRECTION>
+Lila and Ray see the girl's black and blue arms.
+</DIRECTION>
+<DIRECTION>
+Velma hangs the girl's jacket on the big oven to dry and gives her an old blanket to keep warm.
+</DIRECTION>
+<DIRECTION>
+Then Velma turns to Lila.
+</DIRECTION>
+<VELMA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You, too.
+	</DIALOGUE>
+</VELMA>
+<DIRECTION>
+:SC: INT. MOHAWK TRIBAL POLICE STATION - NIGHT
+</DIRECTION>
+<DIRECTION>
+MOHAWK CHIEF OF POLICE, BILLY THREE RIVERS, a stressed- looking man in his 40's talks on the phone.
+</DIRECTION>
+<THREE_RIVERS>
+	<DIALOGUE>
+	-Good, good Mike. What can I do for you? - -You say non-native smugglers? -A white woman? On the Rez? -I'll look into it and give you a call back. Sure thing.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	-I'll take your request to the Tribal Council and give you a call back. -No problem, Mike. You bet.
+	</DIALOGUE>
+</THREE_RIVERS>
+<DIRECTION>
+:SC: INT. MOHAWK TRIBAL COUNCIL - NIGHT
+</DIRECTION>
+<DIRECTION>
+Billy Three Rivers sits down at a long conference table. A middle-aged Mohawk woman, "BARBARA" sits behind a name plate reading "CHIEF". At the end of the table Bernie sits behind another name plate: "SUB-CHIEF."
+</DIRECTION>
+<DIRECTION>
+Rosalie comes in wearing her coat over her bathrobe and takes her place behind the "GRAND CHIEF" name plate.
+</DIRECTION>
+<THREE_RIVERS>
+	<DIALOGUE>
+	Hi, Rosalie.
+	</DIALOGUE>
+</THREE_RIVERS>
+<ROSALIE>
+<DIRECTION>
+(puts on her glasses)
+</DIRECTION>
+	<DIALOGUE>
+	Billy.
+	</DIALOGUE>
+</ROSALIE>
+<THREE_RIVERS>
+	<DIALOGUE>
+	We have a situation with a couple smugglers. They got chased by the Quebec police and crossed the river but their car went in and now the troopers know they're on the Rez.
+	</DIALOGUE>
+</THREE_RIVERS>
+<ROSALIE>
+	<DIALOGUE>
+	Who is it?
+	</DIALOGUE>
+</ROSALIE>
+<THREE_RIVERS>
+	<DIALOGUE>
+	Lila Littlewolf and some white woman.
+	</DIALOGUE>
+</THREE_RIVERS>
+<ROSALIE>
+	<DIALOGUE>
+	What do the troopers want?
+	</DIALOGUE>
+</ROSALIE>
+<THREE_RIVERS>
+	<DIALOGUE>
+	A surrender of the two illegals and the Non-Native smuggler. They need an example here.
+	</DIALOGUE>
+</THREE_RIVERS>
+<ROSALIE>
+	<DIALOGUE>
+	Do you know where they are?
+	</DIALOGUE>
+</ROSALIE>
+<THREE_RIVERS>
+	<DIALOGUE>
+	Probably over at Velma's.
+	</DIALOGUE>
+</THREE_RIVERS>
+<ROSALIE>
+<DIRECTION>
+(to the other Chiefs)
+</DIRECTION>
+	<DIALOGUE>
+	What do you think?
+	</DIALOGUE>
+</ROSALIE>
+<BARBARA>
+	<DIALOGUE>
+	Turn them in.
+	</DIALOGUE>
+</BARBARA>
+<ROSALIE>
+	<DIALOGUE>
+	What about Lila Littlewolf?
+	</DIALOGUE>
+</ROSALIE>
+<BERNIE>
+	<DIALOGUE>
+	We got our own court system.
+	</DIALOGUE>
+</BERNIE>
+<ROSALIE>
+	<DIALOGUE>
+	We don't charge people with smuggling.
+	</DIALOGUE>
+</ROSALIE>
+<BARBARA>
+	<DIALOGUE>
+	Maybe we should.
+	</DIALOGUE>
+</BARBARA>
+<BERNIE>
+	<DIALOGUE>
+	If we did, we'd have to arrest half the people on the Rez.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+Rosalie and Barbara shoot him an ANGRY STARE. He shrugs.
+</DIRECTION>
+<BARBARA>
+	<DIALOGUE>
+	We can expel her.
+	</DIALOGUE>
+</BARBARA>
+<BERNIE>
+	<DIALOGUE>
+	You can't start throwin' Mohawks off the Rez, Rosalie. There's only, what, six thousand of us as it is.
+	</DIALOGUE>
+</BERNIE>
+<ROSALIE>
+	<DIALOGUE>
+	She makes the Mohawk people look bad.
+	</DIALOGUE>
+</ROSALIE>
+<BERNIE>
+	<DIALOGUE>
+	But she has a Mohawk son.
+	</DIALOGUE>
+</BERNIE>
+<ROSALIE>
+	<DIALOGUE>
+	She cost us a Mohawk son.
+	</DIALOGUE>
+</ROSALIE>
+<BERNIE>
+	<DIALOGUE>
+	Jake was a big boy. He knew what he was doin'
+	</DIALOGUE>
+</BERNIE>
+<ROSALIE>
+	<DIALOGUE>
+	She'll never be anything but a smuggler.
+	</DIALOGUE>
+</ROSALIE>
+<BERNIE>
+	<DIALOGUE>
+	We've had smuggling on the Rez since Al Capone.
+	</DIALOGUE>
+</BERNIE>
+<ROSALIE>
+	<DIALOGUE>
+	Then we'll take a vote.
+	</DIALOGUE>
+</ROSALIE>
+<DIRECTION>
+:SC: EXT. ROUTE 37, THE RESERVATION LINE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Two New York State Cruisers block the road, lights flashing.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. VILLAGE BAKERY, KITCHEN - NIGHT
+</DIRECTION>
+<DIRECTION>
+The bell on the bakery door RINGS. Billy Three Rivers walks in looking very official. Jimmy opens the door.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	Hi, Billy.
+	</DIALOGUE>
+</JIMMY>
+<DIRECTION>
+He comes in and Velma walks in from the kitchen closing the door behind her.
+</DIRECTION>
+<THREE_RIVERS>
+	<DIALOGUE>
+	Velma, seen any smugglers tonight?
+	</DIALOGUE>
+</THREE_RIVERS>
+<DIRECTION>
+Velma says nothing.
+</DIRECTION>
+<JIMMY>
+	<DIALOGUE>
+	Come on, Billy, you never bothered with smugglers before.
+	</DIALOGUE>
+</JIMMY>
+<THREE_RIVERS>
+	<DIALOGUE>
+	Rosalie is worried people are gonna think the Mohawks let in terrorists. Plus, I got the Troopers on my back. They want the illegals and they say there's some white lady with them too. Is that true, Jimmy?
+	</DIALOGUE>
+</THREE_RIVERS>
+<DIRECTION>
+Jimmy looks away.
+</DIRECTION>
+<THREE_RIVERS>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	You got white women doing it now? Jesus.
+	</DIALOGUE>
+<DIRECTION>
+(after a moment)
+</DIRECTION>
+	<DIALOGUE>
+	Well, if you see any, let me know.
+	</DIALOGUE>
+</THREE_RIVERS>
+<DIRECTION>
+Three Rivers leaves.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. VILLAGE BAKERY, KITCHEN - NIGHT
+</DIRECTION>
+<DIRECTION>
+Lila and Ray LISTEN from the kitchen. Ray eyes the back door.
+</DIRECTION>
+<DIRECTION>
+Ray grabs her jacket off the oven and takes half the cash out of the pocket and hands it to Lila.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	I gotta go.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila takes the money. The Chinese girls look on confused. One gets up and grabs her jacket, but Ray motions her back.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	No. You stay here.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray hurries to the back door, opens it, but Bernie Littlewolf is there. At the sight of him, Ray backs up.
+</DIRECTION>
+<DIRECTION>
+He walks in.
+</DIRECTION>
+<BERNIE>
+	<DIALOGUE>
+	Hi, Lila.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	Hi Bernie.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	You're in a lot of trouble.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+Lila looks at him, unfazed.
+</DIRECTION>
+<BERNIE>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	The council voted to expel you.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	Expel me?
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	For five years. You can appeal, but you'll never be able to change Rosalie's mind.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	They can't do that.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	They'll make your life miserable if you try to stay.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	They've already done that.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	Believe me, it could get even worse.
+	</DIALOGUE>
+</BERNIE>
+<RAY>
+	<DIALOGUE>
+	I thought this was all legal on the reservation.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Bernie ignores her.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D) (to Lila)
+</DIRECTION>
+	<DIALOGUE>
+	Look, I gotta get home.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She moves for the door, but Bernie blocks her.
+</DIRECTION>
+<BERNIE>
+	<DIALOGUE>
+	If she leaves, they'll turn you in Lila. The troopers want somebody.
+	</DIALOGUE>
+</BERNIE>
+<RAY>
+	<DIALOGUE>
+	But, she's a Mohawk.
+	</DIALOGUE>
+</RAY>
+<BERNIE>
+	<DIALOGUE>
+	The Chiefs want her out, so there's nothing standing between her and the troopers.
+	</DIALOGUE>
+</BERNIE>
+<RAY>
+	<DIALOGUE>
+	Listen, my kids got no one but me.
+	</DIALOGUE>
+</RAY>
+<BERNIE>
+	<DIALOGUE>
+	If you leave she won't see her son again.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+Ray and Bernie stare at each other.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Let her go.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	Lila, you're giving up on him and he's only one year old.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+<DIRECTION>
+(to Ray)
+</DIRECTION>
+	<DIALOGUE>
+	Just go.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Ray goes to the door, but turns around...
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	At least you got family to take care of him, ya' know?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: EXT. RESERVATION WOODS - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray shuts the door behind her and starts toward the river. She turns and runs along the bank...a long way...then slows down. Breathing hard, she stops. Snow melts on her face. A long moment passes.
+</DIRECTION>
+<DIRECTION>
+The sound of the river ice pushing against the bank releases a long, deep moan all around her.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. VILLAGE BAKERY, KITCHEN -NIGHT
+</DIRECTION>
+<DIRECTION>
+Lila and Bernie sit on the old sofa by the big oven.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	He might be better off.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	Jake wouldn't agree with that.
+	</DIALOGUE>
+</BERNIE>
+<LILA>
+	<DIALOGUE>
+	It was all for a new crib. I wanted the baby to have a pretty new crib, not some handmedown. And he wouldn't let me go alone.
+	</DIALOGUE>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+	<DIALOGUE>
+	I was too fat to get behind the steering wheel.
+	</DIALOGUE>
+</LILA>
+<BERNIE>
+	<DIALOGUE>
+	He wanted to keep you and little Jake safe.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+The back door opens. Ray is there.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	It's just a few months, right?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Bernie and Lila turn around. Ray walks in.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I got baby stuff in the shed.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+She takes the folded double-wide contract out of her pocket and holds it out to Lila.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Get a good used single wide with insulation. Insulation is the key thing. Versailles will give you a hard time, but that will leave enough for you and the boys to live on for a couple of months.
+	</DIALOGUE>
+<DIRECTION>
+Ricky's allergic to penicillin.(a moment)
+</DIRECTION>
+	<DIALOGUE>
+	And you can't feed `em Pringles all the time. Okay?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila isn't sure.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Okay?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Lila nods her head.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	But you gotta get there quick, before the police, `cause T.J. will get scared. I don't want him to get scared, you know.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Ray chokes back her own tears.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Okay.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila takes the contract from Ray.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	And don't let him jerk you around. Versailles, I mean.
+	</DIALOGUE>
+<DIRECTION>
+(to Bernie)
+</DIRECTION>
+	<DIALOGUE>
+	Go with her. Okay?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Bernie nods.
+</DIRECTION>
+<BERNIE>
+	<DIALOGUE>
+	Sure.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+T.J. and Ricky eat supper to the glow of the TV in the background.
+</DIRECTION>
+<RICKY>
+	<DIALOGUE>
+	Can I have more corn?
+	</DIALOGUE>
+</RICKY>
+<DIRECTION>
+T.J. dumps his own corn onto Ricky's plate.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROUTE 37, THE RESERVATION LINE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Flashing dome lights of New York State troopers are seen just beyond the sign "YOU ARE NOW LEAVING THE LAND OF THE MOHAWK." Trooper Napoli waits in his cruiser with other vehicles.
+</DIRECTION>
+<DIRECTION>
+Billy drives Ray and the Chinese girls slowly toward them in the Mohawk Tribal Police Cruiser.
+</DIRECTION>
+<DIRECTION>
+Billy stops and the three get out of the car, handcuffed.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOUSE ON POINT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bernie waits in the car. Lila walks to the front door. Thunder looks up from beside the front step.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(shows her empty hands)
+</DIRECTION>
+	<DIALOGUE>
+	Sorry, Thunder, I got nothing for you.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+She knocks.
+</DIRECTION>
+<DIRECTION>
+Evelyn opens the door. Seeing Lila she tries to close it, but Lila WEDGES herself inside.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOUSE ON POINT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Evelyn tires to push her out, but Lila walks in the house.
+</DIRECTION>
+<EVELYN>
+	<DIALOGUE>
+	What do you want?
+	</DIALOGUE>
+</EVELYN>
+<DIRECTION>
+Lila walks up to the Little Jake sitting in his high chair, his face covered in carrots.
+</DIRECTION>
+<DIRECTION>
+She reaches out to touch him, but Evelyn pushes her hand away.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	I need his coat.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Lila picks up the baby, and looks around.
+</DIRECTION>
+<LILA>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	Where's his coat?
+	</DIALOGUE>
+</LILA>
+<EVELYN>
+	<DIALOGUE>
+	You can't have him.
+	</DIALOGUE>
+</EVELYN>
+<DIRECTION>
+She grabs Lila's arm, but Lila shakes her arm free and wraps Little Jake in her own jacket.
+</DIRECTION>
+<LILA>
+	<DIALOGUE>
+	Say goodbye to your Dudah.
+	</DIALOGUE>
+</LILA>
+<DIRECTION>
+Evelyn stands in front of the door, blocking Lila. Lila stops and they stand for a moment looking at each other. There is anger and sadness. Evelyn moves aside.
+</DIRECTION>
+<DIRECTION>
+Lila walks out with the baby.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOUSE ON POINT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Bernie stands by the car holding a CAR SEAT.
+</DIRECTION>
+<BERNIE>
+	<DIALOGUE>
+	She's gonna kill me for taking this out of her car.
+	</DIALOGUE>
+</BERNIE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. NEW YORK STATE TROOPER CRUISER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray sits in the backseat. The two Chinese girls beside her.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	How long is it for me. You know if I confess?
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	As long as they're not on a watch list. Four months.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<DIRECTION>
+He glances around at them.
+</DIRECTION>
+<TROOPER_NAPOLI>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	I don't think you have much to worry about judging from the look of them, probably brought here to work in the sex trade.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<DIRECTION>
+Ray looks at the two girls.
+</DIRECTION>
+<RAY>
+	<DIALOGUE>
+	Will they get sent back?
+	</DIALOGUE>
+</RAY>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Not necessarily. They can apply for asylum.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	Can I have a cigarette?
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He lights one for her. She takes it, shaking.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	Is there somebody I can call for you? To take care of your children.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	I got somebody.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+He looks back at her.
+</DIRECTION>
+<TROOPER_NAPOLI>
+	<DIALOGUE>
+	A relative.
+	</DIALOGUE>
+</TROOPER_NAPOLI>
+<RAY>
+	<DIALOGUE>
+	A friend.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+Trooper Napoli looks at her.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	But I need to call my kid.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+:SC: INT. RAY'S TRAILER - NIGHT
+</DIRECTION>
+<DIRECTION>
+The phone rings. T.J. picks it up.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Hello. Hi, Mom.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+She hears his voice and can't speak.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	-Mom are you there? What's wrong? -What kinda trouble? -What did you do? -A smuggler!? Holy shit! -Are you in jail? -But are you're going to jail!?
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+There is a long silence. He wipes a tear away with his sleeve.
+</DIRECTION>
+<DIRECTION>
+Ricky plays with his Hot Wheels on the floor.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	-Yeah, okay. What does that mean? But why? I can take care of him, I do it all the time. But I don't see why we need-?
+	</DIALOGUE>
+<DIRECTION>
+(MORE)
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	-Who?
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	A baby? No way. -Yeah I know where the stuff is. It's in the shed, but that's so stupid!.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+A KNOCK at the door. T.J. looks at it, unsure what to do.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D) (holding phone)
+</DIRECTION>
+	<DIALOGUE>
+	-Yeah, I'm here. Somebody's at the door.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+He walks to it and opens it holding the phone. Lila is standing there holding Little Jake, wrapped in her jean jacket.
+</DIRECTION>
+<DIRECTION>
+T.J. and Lila look at each other. She walks in.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D)
+</DIRECTION>
+	<DIALOGUE>
+	-Okay. Bye.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+He hangs up.
+</DIRECTION>
+<DIRECTION>
+Little Jake sees Ricky playing with the Hot Wheels Set and reaches to get down.
+</DIRECTION>
+<DIRECTION>
+Lila puts him on the floor. He crawls toward the Christmas tree and the Hot Wheels set.
+</DIRECTION>
+<T_J>
+<DIRECTION>
+(CONT'D) (to Ricky )
+</DIRECTION>
+	<DIALOGUE>
+	You're gonna have to get the little pieces up high -- or he'll eat them.
+	</DIALOGUE>
+</T_J>
+<DIRECTION>
+:SC: INT. NEW YORK STATE TROOPER CRUISER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray rides in the back of the Cruiser. They pass by trailer homes decorated for Christmas.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROUTE 37 - DAY
+</DIRECTION>
+<DIRECTION>
+A Semi ROARS down the road with "WIDE LOAD" banner hauling a single wide mobile home through the bright morning light, plastic covering rippling in the wind.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RAY'S TRAILER - DAY
+</DIRECTION>
+<DIRECTION>
+Using the blow torch, T.J. works on the smiling duck Kiddie ride.
+</DIRECTION>
+<DIRECTION>
+Ricky plays with Little Jake, dressed in a snow suit. Lila comes outside with a plate of peanut butter sandwiches, badly made.
+</DIRECTION>
+<DIRECTION>
+T.J. signals Ricky who brings Little Jake over and puts him on the Kiddie ride. Ricky holds him on the seat and T.J. flips a switch. The ride JERKS a few times then starts to move back and fourth. Little Jake smiles.
+</DIRECTION>
+<DIRECTION>
+Behind T.J. a Mohawk Tribal Police Cruiser drives up.
+</DIRECTION>
+<DIRECTION>
+Billy Two Rivers gets out and walks up to T.J.
+</DIRECTION>
+<DIRECTION>
+He speaks sternly to T.J., pointing at the cruiser where an elderly and frail Mohawk women in her eighties, Mrs. ThreeRivers, looks out the window.
+</DIRECTION>
+<DIRECTION>
+T.J. walks over to the cruiser. She rolls down the window. He says something to her, looking at the ground as he speaks.
+</DIRECTION>
+<DIRECTION>
+Ricky and Lila holding Little Jake look on.
+</DIRECTION>
+<DIRECTION>
+Billy Two Rivers drives away.
+</DIRECTION>
+<DIRECTION>
+SUDDENLY T.J. and Ricky LOOK UP. A RUMBLE is heard in the distance. From down the road the SEMI is seen APPROACHING...
+</DIRECTION>
+<DIRECTION>
+T.J. smiles and Ricky watches not sure whether to believe it or not. He takes T.J.'s hand.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. NEW SINGLE-WIDE MOBILE HOME - NIGHT
+</DIRECTION>
+<DIRECTION>
+Ray is asleep in her new bedroom with wall-to-wall carpet and a big window.
+</DIRECTION>
+<DIRECTION>
+Her cell phone RINGS. She doesn't move.
+</DIRECTION>
+<RAY>
+<DIRECTION>
+(O.S.) (her voice message plays)
+</DIRECTION>
+	<DIALOGUE>
+	Hi,
+	</DIALOGUE>
+<DIRECTION>
+(happy)
+</DIRECTION>
+	<DIALOGUE>
+	You've reached Ray. Leave me a message and I'll get back to you just as soon as I can.
+	</DIALOGUE>
+</RAY>
+<DIRECTION>
+The tone is heard.
+</DIRECTION>
+<TROY>
+<DIRECTION>
+(O.S.) (sad sack voice)
+</DIRECTION>
+	<DIALOGUE>
+	Ray, are you gonna pick up or not?
+	</DIALOGUE>
+<DIRECTION>
+(MORE)
+</DIRECTION>
+<TROY>
+<DIRECTION>
+(O.S.) (CONT'D) (pause)
+</DIRECTION>
+	<DIALOGUE>
+	I need you to send me some money so I can get home. I'm stuck here. I could already be back at work by
+	</DIALOGUE>
+<DIRECTION>
+now.(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Please Ray, I'm at the YMCA in Tampa. I love you. I miss you. Please call me here. Seriously. And tell the boys-
+	</DIALOGUE>
+</TROY>
+<DIRECTION>
+The message cuts off with a "BEEP."
+</DIRECTION>
+<DIRECTION>
+ClOSE ON: the cell phone screen. "12 NEW MESSAGES" changes to "13 NEW MESSAGES."
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. INTERNATIONAL SEAWAY BRIDGE - DAY
+</DIRECTION>
+<DIRECTION>
+A sign reads "Bridge to Canada."
+</DIRECTION>
+<DIRECTION>
+A steep 1940's era customs bridge arches over the St. Lawrence River.
+</DIRECTION>
+<DIRECTION>
+Cars and trucks line up in different lanes. Customs officials man booths at the center of the bridge, inspecting and questioning impatient drivers.
+</DIRECTION>
+<DIRECTION>
+Beyond them, a smaller sign: "THANK YOU FOR VISITING MASSENA NEW YORK, IT WORKS, for business, for family, for you".
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. BELOW THE BRIDGE - SAME
+</DIRECTION>
+<DIRECTION>
+The river stretches miles in either direction, no longer frozen and still with trees on either side.
+</DIRECTION>
+<DIRECTION>
+FADE OUT
+</DIRECTION>

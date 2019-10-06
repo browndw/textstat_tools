@@ -1,0 +1,7583 @@
+<DIRECTION>
+:SC: HIGHLANDER
+</DIRECTION>
+<DIRECTION>
+FADE IN:
+</DIRECTION>
+<DIRECTION>
+MADISON SQUARE GARDEN
+</DIRECTION>
+<DIRECTION>
+New York Rangers v. Edmonton Oilers.
+</DIRECTION>
+<DIRECTION>
+15,000 screaming fans leap to their feet.
+</DIRECTION>
+<DIRECTION>
+Gretsky steals the puck, streaks across the ice, beats two defenders, shoots and scores.
+</DIRECTION>
+<DIRECTION>
+Oilers 6, Rangers 0. Oiler fans bellow approval
+</DIRECTION>
+<DIRECTION>
+One silent SPECTATOR, in overcoat, slacks and scarf, stands out in the crowd, unmoved by the din. He is:
+</DIRECTION>
+<DIRECTION>
+CONNER MACLEOD
+</DIRECTION>
+<DIRECTION>
+An aura of power and charisma sets him apart. His hypnotic eyes watch Ranger defenders slam Gretsky into the wall, punching and kicking him.
+</DIRECTION>
+<DIRECTION>
+SHOUTING PLAYERS storm onto the ice
+</DIRECTION>
+<DIRECTION>
+STICKS SWING IN A BRUTAL FREE-FOR-ALL.
+</DIRECTION>
+<DIRECTION>
+The crowd CHEERS. A DRUNK WHOOPS at the silent man.
+</DIRECTION>
+<DRUNK>
+	<DIALOGUE>
+	Helluva fight, ain'it? Helluva fight. Lotta fun, ain'it?
+	</DIALOGUE>
+</DRUNK>
+<DIRECTION>
+Oblivious, Macleod watches the battle. In his mind, the STICK-WIELDING PLAYERS BECOME:
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: 15TH CENTURY HIGHLANDERS WIELDING BROADSWORDS
+</DIRECTION>
+<DIRECTION>
+CLASHING in battle. Mountains tower over rocks and heather. WHINNYING HORSES, agonized CRIES, RINGING steel, SKIRLING PIPES.
+</DIRECTION>
+<DRUNK_V_O>
+	<DIALOGUE>
+	Let's go belt somebody, then i buy you a drink. Whaddya say?
+	</DIALOGUE>
+</DRUNK_V_O>
+<DIRECTION>
+CUT TO: :SC: HOCKEY STICKS CLASHING IN MADISON SQUARE GARDEN
+</DIRECTION>
+<DIRECTION>
+in the riot on the ice.
+</DIRECTION>
+<DIRECTION>
+Concentrating, MacLeod scans the crowd. Like a predator catching a scent, he leaves swiftly. The Drunk yells after him.
+</DIRECTION>
+<DRUNK>
+	<DIALOGUE>
+	Hey! Where ya goin'?
+	</DIALOGUE>
+</DRUNK>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+striding past rows of cars. FOOTSTEPS ECHOING in the Garden's
+</DIRECTION>
+<DIRECTION>
+underground garage. MacLeod senses a presence. It's very close.
+</DIRECTION>
+<DIRECTION>
+Suddenly, a MAN's silhouette appears in a tunnel, blocking his path, breath steaming in the artic air.
+</DIRECTION>
+<MAN>
+	<DIALOGUE>
+	MacLeod.
+	</DIALOGUE>
+</MAN>
+<DIRECTION>
+A huge sword appears in the Man's hands. He swings. MacLeod sidesteps, drawing a weapon from inside his coat.
+</DIRECTION>
+<DIRECTION>
+A Samurai sword, carved handguard, razor-sharp, feather-light.
+</DIRECTION>
+<DIRECTION>
+The Man's overhead slams onto concrete, ripping up hunks of stone. MacLeod fans his blade.
+</DIRECTION>
+<DIRECTION>
+MACLEOD AND THE MAN"S SWORDS
+</DIRECTION>
+<DIRECTION>
+clang in the tunnel, pulverizing cars, gouging columns in showers of brilliant sparks.
+</DIRECTION>
+<DIRECTION>
+Running Feet, Shouting VOICES, distant SIRENS.
+</DIRECTION>
+<DIRECTION>
+His opponent is outmatched. Surging forward:
+</DIRECTION>
+<DIRECTION>
+MACLEOD
+</DIRECTION>
+<DIRECTION>
+cuts off the Man's head. A shimmering energy surges between the corpse and MacLeod. MacLeod starts to glow. The garage is crackling. Windshields EXPLODE. SIRENS closer.
+</DIRECTION>
+<VOICE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Over here -- !
+	</DIALOGUE>
+<DIRECTION>
+Samurai sword in hand, MacLeod sprints off, swallowed by the dark. People SHOUT.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+racing through the garage. Behind him, a woman screams. Desperate, he hides his weapon in a roof duct hidden by tiles, driving it out of sight.
+</DIRECTION>
+<DIRECTION>
+In the arena above, New York scores. The CROWD CHEERS. The SOUND DISTORTS, becoming --
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: CHEERING VILLAGERS LINING A ROAD
+</DIRECTION>
+<DIRECTION>
+Loch Shiel, Scottish Highlands, 1536. Glamis castle towers over thatched huts by the shore.
+</DIRECTION>
+<DIRECTION>
+A DRAWBRIDGE CRASHES down like thunder, skirling BAG- PIPES and DRUMS.
+</DIRECTION>
+<DIRECTION>
+THE CLAN MACLEOD
+</DIRECTION>
+<DIRECTION>
+Two hundred strong, rides out to battle, tartan cloaks, bronze shields, claymores flashing in the sun. Hatchet-faced FATHER RAINEY chants prayers.
+</DIRECTION>
+<FATHER_RAINEY>
+	<DIALOGUE>
+	God bless our brave heroes. May this year of Our Lord 1536 bring victory to the Clan Macleod.
+	</DIALOGUE>
+</FATHER_RAINEY>
+<VILLAGERS>
+<DIRECTION>
+(cheering)
+</DIRECTION>
+	<DIALOGUE>
+	Death and damnation to the Fraziers! Long live the Clan MacLeod!
+	</DIALOGUE>
+</VILLAGERS>
+<DIRECTION>
+Riding in the column:
+</DIRECTION>
+<DIRECTION>
+CONNER MACLEOD
+</DIRECTION>
+<DIRECTION>
+The ice hockey spectator, 466 years earlier. The same age but rough-hewn, not yet possessing the quiet strength of later years. Eyes alight, huge claymore sword strapped to his side.
+</DIRECTION>
+<DIRECTION>
+Carved into the blade, the single word:
+</DIRECTION>
+<DIRECTION>
+MACLEOD.
+</DIRECTION>
+<DIRECTION>
+Riding with him, two older clansmen: DUGAL, his cousin, short, arms like trees, and ANGUS, bulky and bearded. Dugal shouts over the din.
+</DIRECTION>
+<DUGAL>
+	<DIALOGUE>
+	Are you scared, Conner?
+	</DIALOGUE>
+</DUGAL>
+<MACLEOD>
+<DIRECTION>
+(lying)
+</DIRECTION>
+	<DIALOGUE>
+	No, cousin Dugal. I'm not.
+	</DIALOGUE>
+</MACLEOD>
+<ANGUS>
+<DIRECTION>
+(to MacLeod)
+</DIRECTION>
+	<DIALOGUE>
+	Don't talk rubbish, lad. I peed my kilt the first time I rode to battle.
+	</DIALOGUE>
+</ANGUS>
+<DUGAL>
+<DIRECTION>
+(to MacLeod)
+</DIRECTION>
+	<DIALOGUE>
+	Ah, Angus pees his kilt all the time.
+	</DIALOGUE>
+</DUGAL>
+<DIRECTION>
+MacLeod laughs, hiding his nervousness.
+</DIRECTION>
+<DIRECTION>
+A pretty girl, KATE, races down the column holding high a bouquet.
+</DIRECTION>
+<DIRECTION>
+MacLeod sweeps her up. She plants the flowers in his hat. She jumps down excitedly.
+</DIRECTION>
+<DUGAL>
+<DIRECTION>
+(continuing; to MacLeod)
+</DIRECTION>
+	<DIALOGUE>
+	A girl like that can wound a soldier more than a Frazier's sword, my friend.
+	</DIALOGUE>
+</DUGAL>
+<KATE>
+	<DIALOGUE>
+	Angus, you and Dugal bring him back in one piece. D'you hear?
+	</DIALOGUE>
+</KATE>
+<DUGAL>
+	<DIALOGUE>
+	We know which piece you want, lassie.
+	</DIALOGUE>
+</DUGAL>
+<DIRECTION>
+Yell from Angus. DRUMS and BAGPIPES.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THE KURGAN
+</DIRECTION>
+<DIRECTION>
+standing on a hill, watching the Clan MacLeod advance into the gathering moorish fog below.
+</DIRECTION>
+<DIRECTION>
+The Kurgan is a frightening hulk astride a massive black stallion. Flashing eyes and a cruel mouth.
+</DIRECTION>
+<DIRECTION>
+Frazier chief MURDOCH gallops up.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Is the one called Conner among them?
+	</DIALOGUE>
+</KURGAN>
+<MURDOCH>
+	<DIALOGUE>
+	Aye.
+	</DIALOGUE>
+</MURDOCH>
+<KURGAN>
+	<DIALOGUE>
+	Remember our pact. The boy is mine.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Murdoch nods. He fears this giant.
+</DIRECTION>
+<DIRECTION>
+FROM BELOW
+</DIRECTION>
+<DIRECTION>
+can be heard the BATTLE CRIES and frenzied BAGPIPES of the MacLeod and Frazier clans.
+</DIRECTION>
+<MURDOCH>
+	<DIALOGUE>
+	It's begun. Death to the MacLeods!
+	</DIALOGUE>
+</MURDOCH>
+<DIRECTION>
+They charge.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THE BATTLE OF LOCH SHIEL, 1536
+</DIRECTION>
+<DIRECTION>
+MacLeods and Frazers collide in fury. Raging carnage. Fog slowly moving in.
+</DIRECTION>
+<DIRECTION>
+MacLeod, Dugal and Angus in the thick of it. MacLeod tries to engage the enemy. Each time they avoid him.
+</DIRECTION>
+<DIRECTION>
+Dugal's helpless beneath three Frazers. Flying from the saddle, Angus kills two of them. The third bolts.
+</DIRECTION>
+<DIRECTION>
+Gradually, the fog makes it impossible to see more than a few yards. Each man's battle is his own, hopelessly separated from the battling clansmen around them.
+</DIRECTION>
+<DIRECTION>
+Wild-eyed, MacLeod leaps off his horse, hauling Dugal up.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Nobody will fight me! They all run away!
+	</DIALOGUE>
+</MACLEOD>
+<DUGAL>
+<DIRECTION>
+(grinning)
+</DIRECTION>
+	<DIALOGUE>
+	Great, laddie. Stay by me.
+	</DIALOGUE>
+</DUGAL>
+<DIRECTION>
+Suddenly, they see:
+</DIRECTION>
+<DIRECTION>
+A HULKING GIANT ON A BLACK STALLION
+</DIRECTION>
+<DIRECTION>
+thundering down on them, sword wheeling, an unstoppable juggernaut, butchering everything in his path.
+</DIRECTION>
+<DIRECTION>
+It's the Kurgan
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(transfixed)
+</DIRECTION>
+	<DIALOGUE>
+	Mother of God -- !
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He feels dizzy. The Kurgan knocks Dugal senseless, disintegrating MacLeod's shield.
+</DIRECTION>
+<DIRECTION>
+Snarling, he vaults from his horse, driving his blade deep into MacLeod's stomach.
+</DIRECTION>
+<DIRECTION>
+Mortally wounded, MacLeod drops to his knees, vainly swinging at the ghastly specter. The Kurgan swats away his sword as though it were a toothpick.
+</DIRECTION>
+<DIRECTION>
+Relishing the moment, he raises his blade high, voice grating in triumph
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	There can be only one.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+MacLeod is helpless. Time hangs suspended. Lost in the blackness of the Kurgan's eyes, he prepares to meet his maker.
+</DIRECTION>
+<DIRECTION>
+At the last second, Dugal, Angus and others appear, pile-driving the Kurgan back over dying clansmen.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Another time, Highlander.
+	</DIALOGUE>
+<DIRECTION>
+Life ebbing, MacLeod groans, staring at the sky.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: POLICE CRUISERS
+</DIRECTION>
+<DIRECTION>
+SCREECHING to a halt outside the Garden, SIRENS DYING, blocking the exit tunnel. Cops pile out, guns drawn, GARFIELD and HAGGERTY in charge.
+</DIRECTION>
+<DIRECTION>
+Headlights appear. A BMW crests the ramp at 60, sees the block, SQUEALS to a smoking stop. Cops take aim.
+</DIRECTION>
+<HAGGERTY>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Get out of the car! Put your hands on the hood.
+	</DIALOGUE>
+<DIRECTION>
+(nothing)
+</DIRECTION>
+	<DIALOGUE>
+	Move -- !
+	</DIALOGUE>
+</HAGGERTY>
+<DIRECTION>
+MacLeod obeys. They frisk him. Garfield finds a wallet, checks a license:
+</DIRECTION>
+<DIRECTION>
+MacLeod's photo, name and address:
+</DIRECTION>
+<DIRECTION>
+RUSSELL EDWIN NASH. 1182 HUDSON STREET. NEW YORK, NY 10013.
+</DIRECTION>
+<DIRECTION>
+Garfield shines a light in the suspect's eyes. They seem bottom- less, unafraid.
+</DIRECTION>
+<GARFIELD>
+	<DIALOGUE>
+	Where you going in such a hurry, Mr. Nash?
+	</DIALOGUE>
+</GARFIELD>
+<DIRECTION>
+Garfield grabs his arm. trying to handcuff him. Bad idea. MacLeod hurls him away. Garfield falls on his ass.
+</DIRECTION>
+<DIRECTION>
+A ton of cops swamp MacLeod, slamming his face into the wind-
+</DIRECTION>
+<DIRECTION>
+shield. Enraged, Garfield staggers up, jamming his .45 into MacLeod's neck.
+</DIRECTION>
+<GARFIELD>
+	<DIALOGUE>
+	Don't move, asshole. Don't even breathe.
+	</DIALOGUE>
+</GARFIELD>
+<DIRECTION>
+Another cruiser arrives. It's DYING SIREN becomes --
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: A LONE PIPER ON GLAMIS CASTLE TURRET
+</DIRECTION>
+<DIRECTION>
+His mournful LAMENT rising to the stars bove
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+breathing his last on a trestle bed in a hut, torso bandaged.
+</DIRECTION>
+<DIRECTION>
+Fire crackles in a hearth. Kate kneels by the bed. Battle- scarred, Dugal and Angus stand by.
+</DIRECTION>
+<FATHER_RAINEY>
+	<DIALOGUE>
+	In nomine patri, et fili et spiritus sancti. Amen.
+	</DIALOGUE>
+<DIRECTION>
+(leaving)
+</DIRECTION>
+	<DIALOGUE>
+	It is over. Other men are dying this day. I must attend them.
+	</DIALOGUE>
+<DIRECTION>
+Kate collapses, weeping. Dugal and Angus drag her away.
+</DIRECTION>
+<ANGUS>
+	<DIALOGUE>
+	He's a Highlander, by God. The last sound he hears shall not be a wailing woman.
+	</DIALOGUE>
+</ANGUS>
+<DIRECTION>
+They leave. Flickering shadows. MacLeod's ;abored breathing slowly fades.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: LIEUTENANT FRANK MORAN, HOMICIDE
+</DIRECTION>
+<DIRECTION>
+In the garage under the Garden, breathing hard. Bulky, in raincoat and hat, six months to pension. With him:
+</DIRECTION>
+<DIRECTION>
+DETECTIVE WALTER BEDSOE
+</DIRECTION>
+<DIRECTION>
+Honest, tough, not a million miles deep.
+</DIRECTION>
+<DIRECTION>
+At their feet, the Man's torso. Further away, the head. TV crews jostle under lights. Fans shout behind barricades -- when can they get their goddamn cars?
+</DIRECTION>
+<DIRECTION>
+BRENDA WYATT
+</DIRECTION>
+<DIRECTION>
+Forensics, sexy in jeans, boots and windbreaker, shoves through the crowd, ducking the barrier. She carries bags of equipment.
+</DIRECTION>
+<DIRECTION>
+JACK LEBOWSKY, Coroner's office, wild hair, pasty- faced, takes flash shots, unfazed by the grisly scene.
+</DIRECTION>
+<DIRECTION>
+Brenda joins Moran.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Damn it, Frank. Forensics is supposed to be notified the same time as Homicide.
+	</DIALOGUE>
+<DIRECTION>
+(noticing corpse)
+</DIRECTION>
+	<DIALOGUE>
+	What a mess.
+	</DIALOGUE>
+</BRENDA>
+<MORAN>
+	<DIALOGUE>
+	This one came unassembled.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+Lebowsky laughs.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(to Moran)
+</DIRECTION>
+	<DIALOGUE>
+	Did you make an arrest?
+	</DIALOGUE>
+</BRENDA>
+<MORAN>
+	<DIALOGUE>
+	Yeah. An antique dealer named Nash on Hudson Street.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+She moves away:
+</DIRECTION>
+<DIRECTION>
+ANOTHER ANGLE
+</DIRECTION>
+<DIRECTION>
+Frowning, she examines a row of cars, confounded by the blitzed windshields. What the hell happened?
+</DIRECTION>
+<DIRECTION>
+BESIDE THE BODY
+</DIRECTION>
+<DIRECTION>
+Lebowsky takes final shots, winking at Bedsoe.
+</DIRECTION>
+<LEBOWSKY>
+<DIRECTION>
+(to Moran)
+</DIRECTION>
+	<DIALOGUE>
+	How come you're not asking me the cause of death, Frank?
+	</DIALOGUE>
+</LEBOWSKY>
+<DIRECTION>
+Bedsoe chuckles.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Cut the crap, Lebowsky. What time did he buy it?
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+Lebowsky kneels, examining the corpse, checking his watch.
+</DIRECTION>
+<LEBOWSKY>
+	<DIALOGUE>
+	Ten. Ten-thirty. And whatever made this cut was razor-sharp.
+	</DIALOGUE>
+</LEBOWSKY>
+<BEDSOE>
+<DIRECTION>
+(to Moran, indicating corpse)
+</DIRECTION>
+	<DIALOGUE>
+	Frank, wasn't there something on the teletype about a guy killed in Jersey 2 nights ago, just like this?
+	</DIALOGUE>
+</BEDSOE>
+<DIRECTION>
+Moran scratches his head.
+</DIRECTION>
+<DIRECTION>
+BEHIND THE CORVETTE
+</DIRECTION>
+<DIRECTION>
+Brenda freezes, staring down at a huge sword.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Hey, Frank. Look at this.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Moran and Lebowsky join her.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	It's a Toledo-Salamanca.
+	</DIALOGUE>
+<MORAN>
+	<DIALOGUE>
+	It's a what -- ?
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+She dusts the jeweled hilt for prints.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	A sword, Frank. A very rare sword.
+	</DIALOGUE>
+</BRENDA>
+<MORAN>
+	<DIALOGUE>
+	Worth much?
+	</DIALOGUE>
+</MORAN>
+<BRENDA>
+	<DIALOGUE>
+	Only about a million bucks.
+	</DIALOGUE>
+<DIRECTION>
+(standing up)
+</DIRECTION>
+	<DIALOGUE>
+	Any antique dealer with a shop on Hudson Street could tell you that.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+sitting in a room, waiting. Peeling paint, tape recorder, table and chairs.
+</DIRECTION>
+<DIRECTION>
+Garfield, the cop who booked him, leans on the wall, itching to get even.
+</DIRECTION>
+<DIRECTION>
+MacLeod suddenly stares at him. Garfield shivers. The guy's eyes are like lasers. The cop looks away.
+</DIRECTION>
+<DIRECTION>
+MORAN AND BEDSOE
+</DIRECTION>
+<DIRECTION>
+enter, slamming the door. Moran's got a package and folder. Bedsoe joins Garfield against the wall.
+</DIRECTION>
+<DIRECTION>
+Moran sits down, package by his chair. He clicks on the tape and opens a folder.
+</DIRECTION>
+<DIRECTION>
+Inside: wallet, money and driver's license issued to Russell Nash.
+</DIRECTION>
+<DIRECTION>
+He tosses a mug-shot of a swarthy man onto the table.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Ever see this guy before, Nash?
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+MacLeod hasn't.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Name's Osta Vazilek. Bulgarian national. Got his head chopped off two nights ago in Jersey.
+	</DIALOGUE>
+<DIRECTION>
+(unwrapping package)
+</DIRECTION>
+	<DIALOGUE>
+	Ever get over to Jersey, Nash?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	Not if I can help it.
+	</DIALOGUE>
+</MACLEOD>
+<MORAN>
+	<DIALOGUE>
+	You're an antique dealer, right?
+	</DIALOGUE>
+</MORAN>
+<MACLEOD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Moran lays down the jewelled weapon.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Okay, what's this?
+	</DIALOGUE>
+</MORAN>
+<MACLEOD>
+	<DIALOGUE>
+	A sword
+	</DIALOGUE>
+</MACLEOD>
+<MORAN>
+	<DIALOGUE>
+	It's a --
+	</DIALOGUE>
+<DIRECTION>
+(checks notes)
+</DIRECTION>
+	<DIALOGUE>
+	Toledo-Salamanca broad-sword. Worth a million bucks.
+	</DIALOGUE>
+</MORAN>
+<MACLEOD>
+	<DIALOGUE>
+	So?
+	</DIALOGUE>
+</MACLEOD>
+<MORAN>
+	<DIALOGUE>
+	You wanna hear a theory?
+	</DIALOGUE>
+<DIRECTION>
+(MacLeod shrugs)
+</DIRECTION>
+	<DIALOGUE>
+	You went down to the garage to buy this sword from some guy.
+	</DIALOGUE>
+<DIRECTION>
+(quickly)
+</DIRECTION>
+	<DIALOGUE>
+	What was his name?
+	</DIALOGUE>
+</MORAN>
+<MACLEOD>
+	<DIALOGUE>
+	I don't know. You tell me.
+	</DIALOGUE>
+</MACLEOD>
+<MORAN>
+	<DIALOGUE>
+	His name was Iman Fasil. You fought about the price. Then you cut off his head.
+	</DIALOGUE>
+</MORAN>
+<MACLEOD>
+	<DIALOGUE>
+	Wanna hear another theory?
+	</DIALOGUE>
+<DIRECTION>
+(Moran nods)
+</DIRECTION>
+	<DIALOGUE>
+	This Fasil was so upset by the Rangers' lousy performance tonight, he went down to the garage and in a fit of depression, cut off his own head.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Bedsoe LAUGHS.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	That ain't funny, Walt
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+Garfield can control himself no longer.
+</DIRECTION>
+<GARFIELD>
+	<DIALOGUE>
+	You a faggot, Nash?
+	</DIALOGUE>
+</GARFIELD>
+<MACLEOD>
+	<DIALOGUE>
+	Why? You cruising for ass?
+	</DIALOGUE>
+</MACLEOD>
+<GARFIELD>
+<DIRECTION>
+(leaning in)
+</DIRECTION>
+	<DIALOGUE>
+	I'll tell you what happened, Russell -- you went down to the garage looking for a hand-job, and just didn't want to pay for it.
+	</DIALOGUE>
+</GARFIELD>
+<MACLEOD>
+	<DIALOGUE>
+	You're sick.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Garfield swings. Kicking the table aside, MacLeod jumps up, SMASHING his fist into Garfield's sternum. Garfield goes down.
+</DIRECTION>
+<DIRECTION>
+Moran's on Garfield in a flash, knee on his chest, Bedsoe struggles to restrain MacLeod.
+</DIRECTION>
+<MORAN>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Calm down -- !
+	</DIALOGUE>
+<DIRECTION>
+(to Garfield)
+</DIRECTION>
+	<DIALOGUE>
+	I mean it, damnit -- !
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+Flinging Bedsoe off him, MacLeod picks up his wallet.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Am I under arrest?
+	</DIALOGUE>
+<DIRECTION>
+(no answer)
+</DIRECTION>
+	<DIALOGUE>
+	Then we're through.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He walks to the door.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Nash, we're just getting started.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+MacLeod is gone. Moran stands up. Garfield struggles to his feet.
+</DIRECTION>
+<GARFIELD>
+	<DIALOGUE>
+	Jesus. That guy hits like a train.
+	</DIALOGUE>
+</GARFIELD>
+<MORAN>
+	<DIALOGUE>
+	Shut up, Rocky. I'll deal with you in a minute.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+He turns to Bedsoe
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Tail him, Walt. And try and pay attention. That sucker's cool as ice.
+	</DIALOGUE>
+<DIRECTION>
+Bedsoe leaves. Moran turns to Garfield
+</DIRECTION>
+<DIRECTION>
+EXT. POLICE STATION - NIGHT
+</DIRECTION>
+<DIRECTION>
+MacLeod steps out into the crisp night air.
+</DIRECTION>
+<DIRECTION>
+Oblivious to traffic, his eyes scan the dark. Sensing something, he turns south, looking toward Jersey.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: A TAN CUTLASS ON THE NEW JERSEY TURNPIKE
+</DIRECTION>
+<DIRECTION>
+Knifing through the night. Inside, behind the wheel:
+</DIRECTION>
+<DIRECTION>
+THE KURGAN - A CHILLING SPECTER
+</DIRECTION>
+<DIRECTION>
+Shark's eyes, short curly hair.
+</DIRECTION>
+<DIRECTION>
+Like MacLeod, he hasn't aged -- but a hideous scar runs from ear-to ear across his throat. It affects his voice, turning it into a metallic gurgle. News on the RADIO.
+</DIRECTION>
+<NEWSCASTER_S_VOICE>
+	<DIALOGUE>
+	Police arrested a man at the decapitation scene in Madison Square Garden. They have not released his name.
+	</DIALOGUE>
+</NEWSCASTER_S_VOICE>
+<KURGAN>
+<DIRECTION>
+(turns it off)
+</DIRECTION>
+	<DIALOGUE>
+	I know his name.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+His metallic gargle is even more grating.
+</DIRECTION>
+<DIRECTION>
+He slams a cassette into the stereo, a high-decibel heavy-metal ROCK SONG: It's the Kurgan's anthem.
+</DIRECTION>
+<DIRECTION>
+Raving singer, pounding drums, shrieking guitars. In the headlights, a sign:
+</DIRECTION>
+<DIRECTION>
+YOU ARE NOW LEAVING NEW JERSEY, THE GARDEN STATE. HOPE YOU ENJOYED YOUR STAY!
+</DIRECTION>
+<DIRECTION>
+The Kurgan smiles grotesquely.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	I had a better time than Osta Vazilek. That is for sure.
+	</DIALOGUE>
+<DIRECTION>
+His voice sounds like nails on a slate.
+</DIRECTION>
+<DIRECTION>
+BRENDA
+</DIRECTION>
+<DIRECTION>
+sitting at a spectrograph, placing metal shards under a lens. Clamping wires to them, she starts a machine.
+</DIRECTION>
+<DIRECTION>
+HUMMING sound. Crackling arc. She checks a computer, takes photos. The arc dies.
+</DIRECTION>
+<DIRECTION>
+She waits. A printer starts. Data rolls. She studies it.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	It's not possible.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Incredulous, she runs the test again. Same result.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Son-of-a-bitch.
+	</DIALOGUE>
+<DIRECTION>
+Grabbing coat and bag, she heads for the door.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BEDSOE
+</DIRECTION>
+<DIRECTION>
+following MacLeod along Central Park South, down Broad- way to Times Square.
+</DIRECTION>
+<DIRECTION>
+ANGLE
+</DIRECTION>
+<DIRECTION>
+Hungry and tired, Bedsoe trudges past bums, porno-pits and neon signs.
+</DIRECTION>
+<DIRECTION>
+MacLeod descends stairs to a subway. Picking up speed:
+</DIRECTION>
+<DIRECTION>
+BEDSOE
+</DIRECTION>
+<DIRECTION>
+races down after him. Reaching the tracks, he can't believe his eyes.
+</DIRECTION>
+<DIRECTION>
+The platform's deserted.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA
+</DIRECTION>
+<DIRECTION>
+driving her red Pontiac, turning south on 5th Avenue. Late-night traffic. Lionel Ritchie on the RADIO.
+</DIRECTION>
+<DIRECTION>
+AT 34TH
+</DIRECTION>
+<DIRECTION>
+She turns west, arriving at Madison Square Garden. Parking on the street, she gets out, carrying a bag.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+BRENDA
+</DIRECTION>
+<DIRECTION>
+walking through the garage, flashlight piercing the murk. She shivers, heading for where Fasil was killed.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+MACLEOD'S FACE IN THE FLARE OF THE LIGHTER
+</DIRECTION>
+<DIRECTION>
+In the underground garage. Reaching into the roof-duct hidden by tiles, he pulls out his Samurai sword.
+</DIRECTION>
+<DIRECTION>
+Noting the chipped edge and missing pieces, he slides it into a sheath inside his coat.
+</DIRECTION>
+<DIRECTION>
+FOOTSTEPS. He snuffs the lighter
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+BRENDA
+</DIRECTION>
+<DIRECTION>
+Guiding a metal-detector across the floor. Chalk out- lines where Fasil's corpse used to be. Near a column, a red light blinks on her detector.
+</DIRECTION>
+<DIRECTION>
+Cradling the flash, she removes SHARDS with a scalpel, dropping them into a plastic bag.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+MACLEOD
+</DIRECTION>
+<DIRECTION>
+hidden in shadows.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+BRENDA
+</DIRECTION>
+<DIRECTION>
+hears a distant CLANK. She whirls her flashlight up the tunnel.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Who's there?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Silence. Something's down here. She can feel it.
+</DIRECTION>
+<DIRECTION>
+Trying to control her panic, she heads for the exit. She starts running, faster and faster.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+BRENDA
+</DIRECTION>
+<DIRECTION>
+trying to unlock her Pontiac. Heart racing, she drops her keys.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Goddamn it.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Retrieving them, she opens the door and ROARS off.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+BRENDA
+</DIRECTION>
+<DIRECTION>
+entering P.J. Clarke's. Almost empty. It's late.
+</DIRECTION>
+<DIRECTION>
+She takes a corner table, trying to calm down. PHIL, the waiter, appears.
+</DIRECTION>
+<PHIL>
+	<DIALOGUE>
+	Hi, Brenda. What can I get you?
+	</DIALOGUE>
+</PHIL>
+<BRENDA>
+	<DIALOGUE>
+	Vodka. Lots of it.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He leaves.
+</DIRECTION>
+<DIRECTION>
+Removing the plastic bag from her purse, she opens it, tipping a metal shard into her trembling hand.
+</DIRECTION>
+<DIRECTION>
+MACLEOD
+</DIRECTION>
+<DIRECTION>
+enters and looks around. Spotting her, he sits in a nearby booth. Phil re-appears with a bottle of vodka.
+</DIRECTION>
+<PHIL>
+	<DIALOGUE>
+	Say when.
+	</DIALOGUE>
+</PHIL>
+<DIRECTION>
+three-quarters full.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	When.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+She drinks. Noticing MacLeod, Phil glides over, return- ing to Brenda
+</DIRECTION>
+<PHIL>
+	<DIALOGUE>
+	The guy over there wants you to join him for a drink.
+	</DIALOGUE>
+</PHIL>
+<BRENDA>
+	<DIALOGUE>
+	What guy?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Leaning forward, she sees a dim profile.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Thank him and tell him no.
+	</DIALOGUE>
+<DIRECTION>
+Phil delivers the message. Brenda gulps vodka, mind in turmoil.
+</DIRECTION>
+<DIRECTION>
+Suddenly, MacLeod sits by her side. She jumps like a cat.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	What do you think you're doing?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	Joining you. I'd like to buy you a drink.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Brenda drains her vodka, setting down the glass.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I don't drink
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+About to tell him to get lost, she looks into his eyes for the first time. Unexpectedly, she's overcome by feelings of warmth and safety.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	What's your name?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+His voice caresses her. She's mesmerized by his gaze. Adrift, she hears herself answer.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Brenda.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+The silence between them is electric. Phil RINGS the register. The spell is broken.
+</DIRECTION>
+<DIRECTION>
+She's got to get away from this guy. Shouldering her bag, she rises, heading for the door. He doesn't move.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Do you get over to Madison Square Garden much?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She freezes, heart pounding.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(turning)
+</DIRECTION>
+	<DIALOGUE>
+	What did you say?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Madison Square Garden. Get over there much?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Eyes that were comforting 10 seconds ago are now cold, drilling into her brain.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	They've got basketball. The circus. Ice-hockey.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	What's your last name, Brenda?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She swallows hard.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	How come you're asking me about Madison Square Garden? Did you follow me in here?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+No answer. He smiles. Her blood turns to ice.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Who the hell are you?
+	</DIALOGUE>
+<MACLEOD>
+<DIRECTION>
+(rising)
+</DIRECTION>
+	<DIALOGUE>
+	Let me walk you home, Brenda. Pretty girl, alone on the streets at night. No telling what could happen.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Forget it. I can take care of myself.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He shrugs, sitting down. She walks out, pausing to look back at him in the gloom. He raises his glass to her.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: OUTSIDE THE BAR
+</DIRECTION>
+<DIRECTION>
+Brenda waits in shadows, watching MacLeod leave. He stands for a moment, looking up and down 55th Street.
+</DIRECTION>
+<DIRECTION>
+Pulling up his collar, he moves off into the night, turning down a dark alley.
+</DIRECTION>
+<DIRECTION>
+Making a fateful decision, she follows him.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+walking briskly near the East River. Cold wind blowing. 4:00 A.M. Deserted.
+</DIRECTION>
+<DIRECTION>
+Steam rises from vents. Cars line the curb. Cats YOWL. It's spooky.
+</DIRECTION>
+<DIRECTION>
+Hearing FOOTSTEPS, he stops every few yards.
+</DIRECTION>
+<DIRECTION>
+At the corner of 46th, his eyes rake the street. Nothing. Without warning, he sprints off, disappearing into:
+</DIRECTION>
+<DIRECTION>
+A SHADOWY CONSTRUCTION SITE
+</DIRECTION>
+<DIRECTION>
+RUNNING FOOTSTEPS. He grasps the Samurai hilt inside his coat.
+</DIRECTION>
+<DIRECTION>
+A FIGURE hurtles round the corner. Springing forward, MacLeod
+</DIRECTION>
+<DIRECTION>
+grabs handfuls of hair.
+</DIRECTION>
+<DIRECTION>
+SHOUTING in panic, Brenda fights to get free.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Get your hands off me!
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Pumping with adrenalin, MacLeod shakes her, pulling her into the dark, against a brick wall. She SCREAMS.
+</DIRECTION>
+<DIRECTION>
+A light goes on in a nearby apartment.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Be quiet. I --
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He breaks off, listening to the night, eyes flashing. Instinctively MacLeod ducks, yanking her with him to the dirt.
+</DIRECTION>
+<DIRECTION>
+Next second:
+</DIRECTION>
+<DIRECTION>
+A GLEAMING SWORD SHATTERS BRICK
+</DIRECTION>
+<DIRECTION>
+inches above their heads. He rolls away from her, struggling to avoid a slashing blade. Dumbstruck, Brenda stares up at:
+</DIRECTION>
+<DIRECTION>
+A HOWLING GIANT WITH A SCAR ACROSS HIS NECK
+</DIRECTION>
+<DIRECTION>
+wielding a huge sword. It's the Kurgan.
+</DIRECTION>
+<DIRECTION>
+MacLeod grabs a steel pipe, blocking the Kurgan's murderous blows. The Kurgan's so fast, MacLeod can't draw his sword.
+</DIRECTION>
+<DIRECTION>
+In desperation, he side-steps and charges, tackling him. Locked together, they topple down an embankment into:
+</DIRECTION>
+<DIRECTION>
+A SHALLOW PIT
+</DIRECTION>
+<DIRECTION>
+Untangling himself, sword in hand, the Kurgan attacks. MacLeod defends himself with the pipe.
+</DIRECTION>
+<KURGAN>
+<DIRECTION>
+(swinging)
+</DIRECTION>
+	<DIALOGUE>
+	Good to see you again, MacLeod. 400 years is a long time.
+	</DIALOGUE>
+</KURGAN>
+<MACLEOD>
+<DIRECTION>
+(blocking)
+</DIRECTION>
+	<DIALOGUE>
+	You slimy bastard --!
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+SOUNDS of DISTANT SIRENS.
+</DIRECTION>
+<DIRECTION>
+UP THE EMBANKMENT
+</DIRECTION>
+<DIRECTION>
+Brenda peers through the murk. Straining to see what's going on, she loses her footing. CRYING OUT, she falls:
+</DIRECTION>
+<DIRECTION>
+INTO THE PIT
+</DIRECTION>
+<DIRECTION>
+Cannoning into MacLeod's back.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Jesus Christ!
+	</DIALOGUE>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	Get the hell out of here!
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Bellowing, the giant charges again. MacLeod shoves Brenda out of the path of sudden death.
+</DIRECTION>
+<KURGAN>
+<DIRECTION>
+(rasping)
+</DIRECTION>
+	<DIALOGUE>
+	There can only be one, Highlander.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+The 2 men battle through the skeleton of a building. The Kurgan's murderous blade misses MacLeod by inches, slicing through solid iron.
+</DIRECTION>
+<DIRECTION>
+The sky ERUPTS. THRASHING ROTORS. ROARING down-blast. Blinding clouds of dirt and debris.
+</DIRECTION>
+<DIRECTION>
+IT'S A POLICE CHOPPER
+</DIRECTION>
+<DIRECTION>
+Searchlight beams probe swirling dust. From the sky, an AMPLIFIED VOICE:
+</DIRECTION>
+<VOICE_V_O>
+	<DIALOGUE>
+	You, on the ground! Stay where you are!
+	</DIALOGUE>
+</VOICE_V_O>
+<DIRECTION>
+Brenda CHOKES, blinded. From nowhere, MacLeod grabs her. His arms are like steel.
+</DIRECTION>
+<KURGAN_S_VOICE>
+<DIRECTION>
+(SHOUTING out of the dark)
+</DIRECTION>
+	<DIALOGUE>
+	Some other time, Highlander. There can be only one.
+	</DIALOGUE>
+</KURGAN_S_VOICE>
+<DIRECTION>
+MacLeod hauls Brenda up the embankment, away from the light, melting into the dark. SIRENS CLOSER.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+dragging Brenda across 1st Avenue.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(lungs bursting)
+</DIRECTION>
+	<DIALOGUE>
+	Stop. For Christ's sake.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+They halt under a street-light. She gasps for breath.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Who in the name of God was that? He called you Highlander. What did he mean, "There can be only one?" Only one what?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	Shut up!
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He pulls her close, eyes like bullet-holes.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Listen, lady. You almost got yourself killed.
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	I want --
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He shakes her, trying to scare her away.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Don't you ever follow me again
+	</DIALOGUE>
+<DIRECTION>
+(intensely)
+</DIRECTION>
+	<DIALOGUE>
+	Forget about what you saw tonight. You only have one life. If you value it --
+	</DIALOGUE>
+<DIRECTION>
+(angrily)
+</DIRECTION>
+	<DIALOGUE>
+	Go home!
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He strides off. A garbage can CRASHES in an alley. Brenda jumps.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: KENNY, A DESK CLERK
+</DIRECTION>
+<DIRECTION>
+signing in the Kurgan. Ansonia Hotel, 73rd and Broadway. A T.V. is on Derelicts litter the lobby.
+</DIRECTION>
+<DIRECTION>
+KENNY, a chain-smoking greaser, checks the name the Kurgan's written in the register, handing him a key.
+</DIRECTION>
+<KENNY>
+	<DIALOGUE>
+	Okay, Mr. Victor Kruger. Room 315. And I'm gonna hit you for 20 in advance.
+	</DIALOGUE>
+</KENNY>
+<DIRECTION>
+The Kurgan pulls out a thick roll of bills, dropping a 20. Kenny eyes the roll greedily.
+</DIRECTION>
+<KENNY>
+	<DIALOGUE>
+	Listen, you want anything. Broads, blow. Just dial 0.
+	</DIALOGUE>
+<DIRECTION>
+Picking up a black, oblong case, the Kurgan heads for the elevator.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THE KURGAN
+</DIRECTION>
+<DIRECTION>
+on a sagging bed in Room 315. Roaches crawl on a hot- plate.
+</DIRECTION>
+<DIRECTION>
+Shirtless, heavily-scarred, he munches tacos, watching Yosemite Sam on T.V., digging the violence.
+</DIRECTION>
+<DIRECTION>
+He opens his black case. Laid out in velvet slots:
+</DIRECTION>
+<DIRECTION>
+THE COMPONENTS OF A LARGE SWORD
+</DIRECTION>
+<DIRECTION>
+Meaty fingers caress quillions, pommel, hilt and blade. Getting up, he moves to the window. Below, junkies shiver in Needle Park.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	At last... the Gathering.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+He chuckles, an unnerving sound. KNOCK on the door.
+</DIRECTION>
+<DIRECTION>
+A blonde HOOKER in hot-pants and boots, breasts burst- ing from a tight sweater, leans on the jamb, cracking gum.
+</DIRECTION>
+<HOOKER>
+	<DIALOGUE>
+	I'm Candy.
+	</DIALOGUE>
+</HOOKER>
+<KURGAN>
+	<DIALOGUE>
+	Of course you are.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Dragging her in, he flings her on the bed. Fearfully, she watches him unbuckle his belt. He slams the door.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: DUGAL
+</DIRECTION>
+<DIRECTION>
+slamming down a tankard of ale in the Glamis tavern. Angus and Kate sit with him.
+</DIRECTION>
+<DIRECTION>
+It's 1536, the day after the fight between the Frazers and MacLeods.
+</DIRECTION>
+<DIRECTION>
+Angry villagers pack the place, only one thing on their minds -- MacLeod's strange delivery from the jaws of death.
+</DIRECTION>
+<DIRECTION>
+Kate's thrilled by all the excitement.
+</DIRECTION>
+<DUGAL>
+	<DIALOGUE>
+	You saw the wound, Angus. He should have died.
+	</DIALOGUE>
+</DUGAL>
+<KATE>
+	<DIALOGUE>
+	I say he's got the devil in him.
+	</DIALOGUE>
+</KATE>
+<DIRECTION>
+The tavern erupts in shouting
+</DIRECTION>
+<DIRECTION>
+MacLeod enters. Sudden silence. Seeing Angus, he moves to join his table.
+</DIRECTION>
+<DUGAL>
+<DIRECTION>
+(rising)
+</DIRECTION>
+	<DIALOGUE>
+	Drinking with us, are you?
+	</DIALOGUE>
+</DUGAL>
+<DIRECTION>
+MacLeod freezes. Kate's eyes sparkle. Angus avoids his gaze.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	What's the matter, Dugal?
+	</DIALOGUE>
+</MACLEOD>
+<DUGAL>
+	<DIALOGUE>
+	You. Talking and breathing -- and this morning, all but a corpse.
+	</DIALOGUE>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	How did you manage that, Conner MacLeod?
+	</DIALOGUE>
+</DUGAL>
+<MACLEOD>
+	<DIALOGUE>
+	Would you rather I was dead?
+	</DIALOGUE>
+</MACLEOD>
+<KATE>
+<DIRECTION>
+(to crowd)
+</DIRECTION>
+	<DIALOGUE>
+	It's not natural. He's in league with Lucifer.
+	</DIALOGUE>
+</KATE>
+<DIRECTION>
+Uproar.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Don't say that, Kate.
+	</DIALOGUE>
+</MACLEOD>
+<DUGAL>
+	<DIALOGUE>
+	I'll say it. You've got the devil in you.
+	</DIALOGUE>
+</DUGAL>
+<MACLEOD>
+	<DIALOGUE>
+	We've been kinsmen 15 years, cousin.
+	</DIALOGUE>
+</MACLEOD>
+<DUGAL>
+	<DIALOGUE>
+	Conner MacLeod was my kinsman. I don't know who you are.
+	</DIALOGUE>
+</DUGAL>
+<DIRECTION>
+Kate's eyes dance. The tension is electric
+</DIRECTION>
+<ANGUS>
+	<DIALOGUE>
+	You'd best leave, Conner.
+	</DIALOGUE>
+</ANGUS>
+<MACLEOD>
+<DIRECTION>
+(bravely)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not going anywhere.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Dugal swings at MacLeod's head, knocking him down, kicking him in the ribs.
+</DIRECTION>
+<DIRECTION>
+A plowman destroys a chair on MacLeod's back. Angus shouts over the din --
+</DIRECTION>
+<ANGUS>
+	<DIALOGUE>
+	For God's sake, stop -- !
+	</DIALOGUE>
+</ANGUS>
+<DIRECTION>
+A villager belts MacLeod with a jug. Struggling, he disappears under a shouting heap of clansmen.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD WITH AN OX-YOKE STRAPPED TO HIS BACK
+</DIRECTION>
+<DIRECTION>
+Arms bound to it with ropes, face battered, on his knees in the dirt.
+</DIRECTION>
+<DIRECTION>
+Beyond, Glamis Castle towers over Loch Shiel.
+</DIRECTION>
+<DIRECTION>
+Dugal, Angus, Father Rainey and Kate stand in a circle of yelling villagers. The excitement has unhinged Kate's mind.
+</DIRECTION>
+<ANGUS>
+<DIRECTION>
+(yelling at Dugal)
+</DIRECTION>
+	<DIALOGUE>
+	He's your cousin, man.
+	</DIALOGUE>
+</ANGUS>
+<FATHER_RAINEY>
+	<DIALOGUE>
+	Burn him. It's the only way.
+	</DIALOGUE>
+</FATHER_RAINEY>
+<VILLAGERS>
+<DIRECTION>
+(chanting)
+</DIRECTION>
+	<DIALOGUE>
+	Burn him! Burn him!
+	</DIALOGUE>
+</VILLAGERS>
+<ANGUS>
+<DIRECTION>
+(over crowd)
+</DIRECTION>
+	<DIALOGUE>
+	Quiet!
+	</DIALOGUE>
+</ANGUS>
+<DIRECTION>
+The NOISE subsides.
+</DIRECTION>
+<ANGUS>
+	<DIALOGUE>
+	There'll be no burning here today. We'll banish him.
+	</DIALOGUE>
+<KATE>
+	<DIALOGUE>
+	Burn him! Burn him!
+	</DIALOGUE>
+</KATE>
+<DIRECTION>
+Dugal's disgusted by Kate's religious frenzy.
+</DIRECTION>
+<DUGAL>
+	<DIALOGUE>
+	Be quiet, Kate.
+	</DIALOGUE>
+</DUGAL>
+<DIRECTION>
+The villagers shout objections. He nods to Angus and they help MacLeod to his feet. He staggers under the yoke.
+</DIRECTION>
+<ANGUS>
+	<DIALOGUE>
+	Can you walk?
+	</DIALOGUE>
+</ANGUS>
+<MACLEOD>
+	<DIALOGUE>
+	I'll bloody well walk out of here.
+	</DIALOGUE>
+</MACLEOD>
+<ANGUS>
+	<DIALOGUE>
+	Move, friend. Before they change their minds.
+	</DIALOGUE>
+</ANGUS>
+<MACLEOD>
+	<DIALOGUE>
+	I'll not forget you, Angus.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+MacLeod is driven out. Villagers spit and curse. Wild-eyed, Kate dances round him.
+</DIRECTION>
+<KATE>
+	<DIALOGUE>
+	Devil! Devil! Devil!
+	</DIALOGUE>
+</KATE>
+<VILLAGERS>
+<DIRECTION>
+(chanting)
+</DIRECTION>
+	<DIALOGUE>
+	Devil! Devil! Devil!
+	</DIALOGUE>
+</VILLAGERS>
+<DIRECTION>
+ANOTHER ANGLE
+</DIRECTION>
+<DIRECTION>
+Stumbling along the loch, MacLeod heads for the moun- tains.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+walking west on Christopher. Dim streetlights. Dogs BARKING.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+MACLEOD'S HOME - 1182 HUDSON STREET, SOHO
+</DIRECTION>
+<DIRECTION>
+Surrounded by Irish bars, art galleries, rubble-filled lots.
+</DIRECTION>
+<DIRECTION>
+MacLeod heads for a run-down shop next to a dilapidated ten-story glass-and-iron warehouse.
+</DIRECTION>
+<DIRECTION>
+On the shop door:
+</DIRECTION>
+<DIRECTION>
+R. NASH -- ANTIQUES.
+</DIRECTION>
+<DIRECTION>
+Rummaging for keys, he unlocks the door and goes in- side.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD IN A RISING FREIGHT ELEVATOR
+</DIRECTION>
+<DIRECTION>
+The doors open. Before him:
+</DIRECTION>
+<DIRECTION>
+A HUGE, OPEN, NEW YORK LOFT
+</DIRECTION>
+<DIRECTION>
+The change from drab outside to sumptuous inside is stunning. Exotic fish swim in a huge aquarium.
+</DIRECTION>
+<DIRECTION>
+MacLeod descends the stairs to:
+</DIRECTION>
+<DIRECTION>
+A SUNKEN LIVING ROOM
+</DIRECTION>
+<DIRECTION>
+filled with modern art. High veilings, comfortable sofas, Adam fireplace, spectacular views of the river.
+</DIRECTION>
+<DIRECTION>
+Moving past speakers and TVs, he drops his keys on a table beside an intercom and answering machine.
+</DIRECTION>
+<DIRECTION>
+In a silver frame on the mantle: a photo of MacLeod with a young girl, 1952. MacLeod moves through:
+</DIRECTION>
+<DIRECTION>
+A GEORGIAN DINING AREA
+</DIRECTION>
+<DIRECTION>
+Queen Anne table, silver candlesticks, tapestries on the wall. He enters:
+</DIRECTION>
+<DIRECTION>
+AN ULTRA-MODERN KITCHEN
+</DIRECTION>
+<DIRECTION>
+Loosening his tie, he fixes a drink and walks out.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+MACLEOD
+</DIRECTION>
+<DIRECTION>
+entering his silver room. Elegant and oval. Fabric walls. Sofas, tables, displays of ancient artifacts:
+</DIRECTION>
+<DIRECTION>
+On one wall, like spokes of a wheel: 13 broad swords.
+</DIRECTION>
+<DIRECTION>
+Beside them, a bronze shield, claymore and cloak -- the black-and-yellow tartan of the Clan MacLeod.
+</DIRECTION>
+<DIRECTION>
+Sipping his drink, he sinks into a sofa, eyeing a glass case lit by pin-spots. Inside:
+</DIRECTION>
+<DIRECTION>
+An ancient sheepskin doll.
+</DIRECTION>
+<DIRECTION>
+A 16th century catalan feathered hat.
+</DIRECTION>
+<DIRECTION>
+A rusty anvil and tongs.
+</DIRECTION>
+<DIRECTION>
+MacLeod stares at the anvil and tons, remembering:
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: RED-HOT IRON IN TONGS
+</DIRECTION>
+<DIRECTION>
+crashing onto an anvil in a sweltering blacksmith's forge. It's 1541. Wielding a hammer, streaked with grime and sweat, MacLeod pounds out a horsehoe, plunging it into water. HISSING STEAM.
+</DIRECTION>
+<DIRECTION>
+In the five years since his banishment, he's filled out -- although he's lost none of his wide-eyed, youthful exuberance.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+shoeing a mare outside. The forge clings to a crag. Miles down a precarious trail, the town of Jedburgh.
+</DIRECTION>
+<DIRECTION>
+Up the hill, a 3-story stone house. From the house:
+</DIRECTION>
+<DIRECTION>
+HEATHER MACLEOD
+</DIRECTION>
+<DIRECTION>
+appears in sheepskins, bonnet and boots, carrying a basket.
+</DIRECTION>
+<DIRECTION>
+Full-breasted, lusty and apple-cheeked, she feeds geese, watching him.
+</DIRECTION>
+<HEATHER>
+<DIRECTION>
+(waving basket)
+</DIRECTION>
+	<DIALOGUE>
+	Pie and ale. D'you want it?
+	</DIALOGUE>
+</HEATHER>
+<DIRECTION>
+Dropping his hammer, he grabs her buttocks, crushing her to him, grinning.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	All the time.
+	</DIALOGUE>
+</MACLEOD>
+<HEATHER>
+<DIRECTION>
+(squealing)
+</DIRECTION>
+	<DIALOGUE>
+	You filthy sod. You're all muck and muscle.
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+	<DIALOGUE>
+	Aye. The way you like it.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He grins, kissing her. Stripping his apron, he dunks his torso in a rain barrel, shaking himself off like a dog.
+</DIRECTION>
+<DIRECTION>
+She smiles. He's the loveliest man in the world.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD AND HEATHER
+</DIRECTION>
+<DIRECTION>
+making love on the cliff-top in the grass. Remains of a picnic.
+</DIRECTION>
+<DIRECTION>
+Thunderheads soar over the mountains. A storm is com- ing. MacLeod kisses her. She responds
+</DIRECTION>
+<HEATHER>
+	<DIALOGUE>
+	You can do that forever if you like, my lord. Will you, Conner?
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+	<DIALOGUE>
+	Aye, blossom. I will.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Foreign CURSES. Startled, they sit up.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: JUAN RAMIREZ
+</DIRECTION>
+<DIRECTION>
+climbing the trail to the forge. Olive skin, hawk nose, twinkling eyes, flashing teeth. Flintlock pistol in his belt, crossbow across his back.
+</DIRECTION>
+<DIRECTION>
+Strapped to his side, a Samurai sword, carved hand- guard, razor-sharp, feather-light.
+</DIRECTION>
+<DIRECTION>
+Overheated in cloak, pantaloons, feathers and gloves, he clambers higher, swooning with fatigue.
+</DIRECTION>
+<DIRECTION>
+ANGLE
+</DIRECTION>
+<DIRECTION>
+Dragging himself to the top, he mops his brow.
+</DIRECTION>
+<DIRECTION>
+Seeing the peasant couple before him, he bows, hat sweeping the ground.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Greetings! I am Juan Sanchez Villa-Lobos Ramirez, Chief Metallurgist to King Philip II of Spain.
+	</DIALOGUE>
+<DIRECTION>
+(clicks heels)
+</DIRECTION>
+	<DIALOGUE>
+	At your service.
+	</DIALOGUE>
+</RAMIREZ>
+<HEATHER>
+	<DIALOGUE>
+	Who -- ?
+	</DIALOGUE>
+</HEATHER>
+<DIRECTION>
+Ramirez sees stars, looking down the trail.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	My God, man. That's a climb!
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Breathless, he replaces his hat, adjusting frills and furbelows.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	What do you want?
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	Conner MacLeod
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	Maybe you've found him.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	The same Conner MacLeod wounded in battle and driven from his village five years ago?
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+The Spaniard narrows his eyes. Something seems to seize MacLeod. He clutches his chest, unable to beathe. Heather's alarmed.
+</DIRECTION>
+<HEATHER>
+	<DIALOGUE>
+	Conner?
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+<DIRECTION>
+(gasping)
+</DIRECTION>
+	<DIALOGUE>
+	Heather, go in the house.
+	</DIALOGUE>
+<DIRECTION>
+(she hesitates)
+</DIRECTION>
+	<DIALOGUE>
+	Do as I say, woman
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She backs up the hill and goes inside.
+</DIRECTION>
+<DIRECTION>
+Ramirez flashes wall-to-wall teeth. THUNDER reverber- ates down the valley.
+</DIRECTION>
+<RAMIREZ>
+<DIRECTION>
+(re Heather)
+</DIRECTION>
+	<DIALOGUE>
+	A beautiful young woman. Is she your wife?
+	</DIALOGUE>
+<DIRECTION>
+(MacLeod nods)
+</DIRECTION>
+	<DIALOGUE>
+	Sad.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+MacLeod's temples are in a vise. Ramirez opens his tunic, tracing:
+</DIRECTION>
+<DIRECTION>
+A SCAR FROM NECK TO HIP
+</DIRECTION>
+<DIRECTION>
+with elegant finger.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	When I was young, a cart ran over me. I should have died. But the wound healed by itself.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Stars explode inside MacLeod's head. The forge, the house, everything's spinning.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	The sensations you feel. It is the Quickening.
+	</DIALOGUE>
+<DIRECTION>
+THUNDER CRACKS overhead. The storm breaks. HOWLING WIND. Ramirez's eyes blaze with unearthly light.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	We are the same, MacLeod. We are brothers.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Lightning etches their silhouettes against the rolling sky.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA
+</DIRECTION>
+<DIRECTION>
+moving through a squad-room toward:
+</DIRECTION>
+<DIRECTION>
+Moran on the phone, at his desk. Walls plastered with mug-shots. Steam pipes HISS & BANG.
+</DIRECTION>
+<DIRECTION>
+Seeing Brenda, he waves her to a seat with the receiver. SHOUTING on the line.
+</DIRECTION>
+<MORAN>
+<DIRECTION>
+(into receiver)
+</DIRECTION>
+	<DIALOGUE>
+	Listen, pal. My advice is, get a bigger one next time. One that'll bite him.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+He slams down the phone, eyeing Brenda.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Here's what I'm dealing with. Guy calls up Homicide. Wants to swear out a complaint. His Viet- namese neighbor ate his dog.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	How are things in Forensics?
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	Dull. Come on. let's have lunch.
+	</DIALOGUE>
+</BRENDA>
+<MORAN>
+	<DIALOGUE>
+	Who pays?
+	</DIALOGUE>
+</MORAN>
+<BRENDA>
+	<DIALOGUE>
+	Me.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Moran likes it. He puts on his coat. Thay head for the door. Brenda stops.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Frank, I left my purse. Go ahead. I'll catch you by the elevator.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Moran leaves. Brenda returns to the desk, opens a drawer, and finds what she's looking for:
+</DIRECTION>
+<DIRECTION>
+A bound, blue folder containing photos of Fasil's body, the sword, a copy of an interrogation report -- and:
+</DIRECTION>
+<DIRECTION>
+NASH'S MUG-SHOT
+</DIRECTION>
+<DIRECTION>
+It's the guy from the bar who fought the scarred giant.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I'll be damned. Russell Nash.
+	</DIALOGUE>
+<DIRECTION>
+She stares at the picture. Even in the harsh photo-flash, his face is compelling. The eyes, haunting, evoking time- less mystery.
+</DIRECTION>
+<DIRECTION>
+Moran's phone RINGS. She jumps.
+</DIRECTION>
+<DIRECTION>
+Glancing around, she jots down Nash's address, shuts the drawer, gets her purse and heads out.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: YUNG DOL KIM
+</DIRECTION>
+<DIRECTION>
+Alone in a rising elevator. An oriental with mahogany skin, obsidian eyes, guard's uniform and cap, carrying a huge sword.
+</DIRECTION>
+<DIRECTION>
+He watches the floor numbers, stops at 40. The doors open. He creeps out into:
+</DIRECTION>
+<DIRECTION>
+AN EMPTY, CARPETED HALLWAY
+</DIRECTION>
+<DIRECTION>
+Silence. Gliding past silent offices, he spots:
+</DIRECTION>
+<DIRECTION>
+A FIGURE WITH A SWORD IN AN ALCOVE
+</DIRECTION>
+<DIRECTION>
+Swinging, he slices off the figure's head. It rolls into the light. He stares down at it. It's plastic. He has destroyed a mannequin.
+</DIRECTION>
+<DIRECTION>
+Behind him, CROAKING LAUGHTER. Kim turns. The Kurgan appears with his weapon, amused by his little joke.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Such a brave warrior
+	</DIALOGUE>
+<DIRECTION>
+(suddenly ice-cold)
+</DIRECTION>
+	<DIALOGUE>
+	Let's see how you can handle the real thing.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+The Kurgan charges, battering Kim into:
+</DIRECTION>
+<DIRECTION>
+AN OFFICE
+</DIRECTION>
+<DIRECTION>
+filled with rows of computer desks. The Kurgan goads Kim, side-stepping blows which SMASH files and phones. He's like a giant cat playing with a helpless mouse.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	you fight like an old woman, Kim. You're disgusting.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+No longer amused, the Kurgan becomes a one-man wrecking- crew. He chases Kim, blitzing the office. The brilliance of his swordsmanship is staggering. unexpectedly:
+</DIRECTION>
+<DIRECTION>
+Kim drops his sword on the carpet. Behind him, through a window, the lights of Manhatten.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	What are you doing? Pick up your sword.
+	</DIALOGUE>
+<KIM>
+	<DIALOGUE>
+	Tradition, once more?
+	</DIALOGUE>
+</KIM>
+<KURGAN>
+	<DIALOGUE>
+	It is all we have
+	</DIALOGUE>
+</KURGAN>
+<KIM>
+	<DIALOGUE>
+	It's no longer enough. I'm tired, Kurgan. Four hundred years without release. Let's be done with it. I want peace.
+	</DIALOGUE>
+</KIM>
+<KURGAN>
+	<DIALOGUE>
+	I will give you peace
+	</DIALOGUE>
+<DIRECTION>
+(raising sword)
+</DIRECTION>
+	<DIALOGUE>
+	There can be only one.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+He cuts off Kim's head. A shimmering energy flashes between the corpse and Kurgan.
+</DIRECTION>
+<DIRECTION>
+He starts to glow. Computer-screens EXPLODE. From nowhere, a terrifying wind starts blowing. Pares fly. Water-coolers CRASH to the floor.
+</DIRECTION>
+<DIRECTION>
+The window IMPLODES, sucking Kim's body out into space. It falls 40 floors.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD AT HOME
+</DIRECTION>
+<DIRECTION>
+sharpening his Samurai sword with a jeweler's file before a CRACKLING FIRE. He's in his sunken lounge.
+</DIRECTION>
+<DIRECTION>
+On a coffee-table in front of him, a book:
+</DIRECTION>
+<DIRECTION>
+A METALLURGICAL HISTORY OF ANCIENT SWORD-MAKING. BY BRENDA J. WYATT.
+</DIRECTION>
+<DIRECTION>
+He studies the smiling photo, reading the bio. The author does forensics work for the City of New York.
+</DIRECTION>
+<DIRECTION>
+Above him, fish swim in the aquarium. He watches them, mind drifting back through time.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: RAMIREZ & MACLEOD
+</DIRECTION>
+<DIRECTION>
+In a boat, heading for an island in the middle of a loch.
+</DIRECTION>
+<DIRECTION>
+Resplendent in feathered hat, jewelled tunic, cape and boots, the Spaniard mans the oars.
+</DIRECTION>
+<DIRECTION>
+Alarmed, MacLeod sits facing the Spaniard, white-knuckling his claymore.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I don't like boats. I don't like water. I'm a man, not a fish.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	You complain endlessly. I wonder if I'm wasting my time with you, brother.
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	Stop calling me brother. You look like a woman, you stupid haggis.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	Haggis? What is haggis?
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	A sheep's stomach stuffed with meat and barley.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	What do you do with it?
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	You eat it.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	How revolting
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Resting the oars, he takes snuff, inhaling deeply. LOUD SNEEZE. The boat rocks violently.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(quaking)
+</DIRECTION>
+	<DIALOGUE>
+	Be still, for God's sake. You'll tip us over.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	So?
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	I can't swim -- you Spanish pea- cock.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Their angry voices carry across the lake.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	I am not Spanish. I am Egyptian.
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	You said you were from Spain. You're a liar.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	You smell like a dung-heap. You have the manners of a goat. And no knowledge of your potential.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Gleefully, Ramirez starts violently rocking the boat.
+</DIRECTION>
+<DIRECTION>
+MacLeod is terrified. See-sawing wildly, he grabs for an oar. Ramirez suddenly throws him overboard.
+</DIRECTION>
+<DIRECTION>
+HUGE SPLASH. YELLING, MacLeod disappears, bobbing up, flailing his arms.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Help me. I'm drowning.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Ramirez rows for the island.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	You can't drown, you fool. You're immortal.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+MacLeod sinks in bubbles. Ramirez keeps rowing.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA
+</DIRECTION>
+<DIRECTION>
+parking outside 1182 Hudson Street. Getting out of the car, she checks the address in her notebook. Across the street, the sign:
+</DIRECTION>
+<DIRECTION>
+R. NASH -- ANTIQUES.
+</DIRECTION>
+<DIRECTION>
+She heads for the door.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+staring into the fire in the sunken lounge. A flashing light distracts him. He flips a switch, hearing VOICES on the INTERCOM.
+</DIRECTION>
+<FEMALE_VOICE>
+	<DIALOGUE>
+	I'm sorry, Miss Wyatt. Mr. Nash is unavailable.
+	</DIALOGUE>
+</FEMALE_VOICE>
+<BRENDA_S_VOICE>
+	<DIALOGUE>
+	I need to talk to him now. Can I call him at home?
+	</DIALOGUE>
+</BRENDA_S_VOICE>
+<DIRECTION>
+Glancing at Brenda Wyatt's book on the coffee table, he gets up. He pushes a button that opens a door leading to the outer office.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: IN THE OUTER OFFICE
+</DIRECTION>
+<DIRECTION>
+RACHEL ELLENSTEIN, 52
+</DIRECTION>
+<DIRECTION>
+Good-looking, business-like, in pant-suit and glasses, sits at a desk in Nash's shop, talking to Brenda. Antiques everywhere.
+</DIRECTION>
+<RACHEL>
+	<DIALOGUE>
+	I'm afraid not.
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+MacLeod appears
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Hi.
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+	<DIALOGUE>
+	This is Brenda Wyatt, Mr. Nash
+	</DIALOGUE>
+</RACHEL>
+<MACLEOD>
+<DIRECTION>
+(to Brenda)
+</DIRECTION>
+	<DIALOGUE>
+	Ah, Wyatt. That's your last name.
+	</DIALOGUE>
+<DIRECTION>
+(turning)
+</DIRECTION>
+	<DIALOGUE>
+	We've already met, Rachel.
+	</DIALOGUE>
+<DIRECTION>
+(to Brenda)
+</DIRECTION>
+	<DIALOGUE>
+	What can I do for you.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Resolute, she takes a deep breath.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I'd like some advice.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Are you the kind of woman who takes advice.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	That depends.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+She meets his gaze, ready for anything. He grins. Rachel enjoys the sparring.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Advice about what?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	What can you tell me about a seven- foot lunatic hacking away with a broadsword at one o'clock in the morning in New York City, 1985?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Not much.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Then how about a Japanese sword made in 600 B.C.?
+	</DIALOGUE>
+<DIRECTION>
+(he frowns)
+</DIRECTION>
+	<DIALOGUE>
+	The metal in the blade folded 200 times.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+MacLeod shakes his head. This woman just keeps coming.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	i don't deal in exotic weapons.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Taking her arm, he guides her to a display-case.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Can I show you something in 18th Century silver?
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	That's not why I came here, and you know it.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+She looks right into his eyes. Her closeness unsettles him.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Do you cook?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	I thought we might have diner
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+<DIRECTION>
+(provocatively)
+</DIRECTION>
+	<DIALOGUE>
+	Did you?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He finds her aggressiveness sexy. Before he can speak, the street door opens.
+</DIRECTION>
+<DIRECTION>
+Bedsoe bursts in.
+</DIRECTION>
+<DIRECTION>
+Seeing MacLeod and Brenda, he turns away, scrutinizing a tapestry -- mermaids frolicking with sea-monsters.
+</DIRECTION>
+<DIRECTION>
+By the door, Macleod pauses at Bedsoe's elbow, contem- plating the garish creation.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	The Rape of Neptune's Daughter by the Fish Creatures.
+	</DIALOGUE>
+<DIRECTION>
+(Bedsoe blinks at him)
+</DIRECTION>
+	<DIALOGUE>
+	Do you like fish?
+	</DIALOGUE>
+<BEDSOE>
+	<DIALOGUE>
+	To eat, you mean?
+	</DIALOGUE>
+</BEDSOE>
+<DIRECTION>
+MacLeod is gone.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: RAMIREZ
+</DIRECTION>
+<DIRECTION>
+On the island, by a CRACKLING fire, back to the loch. The boat's on the beach.
+</DIRECTION>
+<DIRECTION>
+Bright sunshine. Stunning scenery. He enjoys the soli- tude, sword at his side on the ground.
+</DIRECTION>
+<DIRECTION>
+Behind him, 50 yards away, the lake surface swirls silently. Something is out there. A glowering head appears.
+</DIRECTION>
+<DIRECTION>
+IT'S MACLEOD
+</DIRECTION>
+<DIRECTION>
+rising up out of the lake. Spotting Ramirez, he wades cautiously to the shore.
+</DIRECTION>
+<DIRECTION>
+Covered in duck-weed and slime, he draws his claymore, creeping silently to within feet of the Spaniard's back.
+</DIRECTION>
+<DIRECTION>
+Slowly he raises his sword in both hands high over Ramirez's head. He's going to cut the bastard in half.
+</DIRECTION>
+<DIRECTION>
+With all his might, he brings the sword down. Something incredible happens.
+</DIRECTION>
+<DIRECTION>
+Like lightning, without looking back, Ramirez grabs his Samurai, parries the blow and is up and facing him in one blind motion.
+</DIRECTION>
+<DIRECTION>
+MacLeod's claymore flies from his hands.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	What took you so long?
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+MacLeod watches his sword land on the beach 50 feet away.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	This can't be. It's the devil's work.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+<DIRECTION>
+(laughing)
+</DIRECTION>
+	<DIALOGUE>
+	You numbskull! Clod! You're no better than the villagers who threw you out.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Livid, MacLeod splutters water, staring back at the loch, trying to make sense of what's happened.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	You cannot die, MacLeod. Accept it.
+	</DIALOGUE>
+<DIRECTION>
+2 fish wriggle free from the Highlander's tunic, flopping to the sand.
+</DIRECTION>
+<DIRECTION>
+Scowling at the Spaniard, he wishes this cup would pass from him, suspecting in his heart it will not.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(through his teeth)
+</DIRECTION>
+	<DIALOGUE>
+	I...hate...you...
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	Good! it's a place to start
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+CUT TO: :SC: MACLEOD AND RAMIREZ SPARRING BY A WATERFALL
+</DIRECTION>
+<DIRECTION>
+CLANGING steel-on-steel. Rainbows of spray span the gorge. MacLeod is strong but awkward. Ramirez's Samurai SINGS in a brilliant display of swordsmanship.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	No, no, pendejo. Protect your stupid head.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+MacLeod thrusts. Ramirez blocks.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Concentrate! You can survive anything but steel against your throat. If your head leaves your neck, it's over.
+	</DIALOGUE>
+<DIRECTION>
+Bellowing, MacLeod strikes. Ramirez deflects the blow with ease.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Move your feet!
+	</DIALOGUE>
+<DIRECTION>
+(advancing)
+</DIRECTION>
+	<DIALOGUE>
+	We must fight until only one remains. There can be only one.
+	</DIALOGUE>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Move your feet, I said!
+	</DIALOGUE>
+<DIRECTION>
+(ducking a swing)
+</DIRECTION>
+	<DIALOGUE>
+	You are safe only on holy ground None of us will violate that law.
+	</DIALOGUE>
+<DIRECTION>
+Exhausted, MacLeod staggers. Ramirez taunts him, jabbing him in the butt.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(yelling)
+</DIRECTION>
+	<DIALOGUE>
+	You over-dressed haggis. I'm going to split you in half.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Swinging his claymore, MacLeod goes berserk, missing Ramirez altogether, smashing brush, demolishing trees.
+</DIRECTION>
+<DIRECTION>
+Finally, he collapses, gulping for air in the grass. Ramirez stands over him.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Get up!
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	Go to hell. I've had enough.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+The Spaniard's expression changes. Switching tack, he sits beside his young charge, watching the THUNDERING falls.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	You must fight. You must learn to keep your head. On you may depend the fate of mortal men.
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	I don't care. i don't want it.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	None of us chose it.
+	</DIALOGUE>
+</RAMIREZ>
+<MACLEOD>
+	<DIALOGUE>
+	Then how did it happen, for God's sake?
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	How does the sun know when to come up?
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Ramirez points to SQUIRRELS CHATTERING under an oak.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Those squirrels all look alike.
+	</DIALOGUE>
+<DIRECTION>
+MacLeod frowns.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	But once in a while, one is born different. With blue eyes. And fur white as snow. Others of its kind try to destroy it or drive it away.
+	</DIALOGUE>
+<DIRECTION>
+Flicking a bee off his pantaloons, he moves into the oak's shade. The squirrels scamper away.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	You must learn to conceal your special gift. To harness your power.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	Until the time of the Gathering.
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	What gathering?
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	Questions, questions. Too much talk.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Slicing the air with his Samurai, he waves MacLeod up.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I'm not moving.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	Then I'll cut you where you sit.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Wearily, MacLeod rises. The Spaniard advances, pounding MacLeod backwards.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	It is said that when only a few of us are left, eons from now, we will feel an irresistible pull to a faraway land -- to fight for the Prize.
+	</DIALOGUE>
+<DIRECTION>
+CUT TO: :SC: MORAN
+</DIRECTION>
+<DIRECTION>
+smoking a cigar at his desk in the squad-room. Before him, a copy of the New York Times. Headline:
+</DIRECTION>
+<DIRECTION>
+HEAD-HUNTER STALKS NEW YORK.
+</DIRECTION>
+<DIRECTION>
+Bedsoe slumps in a chair.
+</DIRECTION>
+<MORAN>
+<DIRECTION>
+(to Bedsoe)
+</DIRECTION>
+	<DIALOGUE>
+	You're sure it was Brenda?
+	</DIALOGUE>
+</MORAN>
+<BEDSOE>
+	<DIALOGUE>
+	In Nash's shop. Talking to him.
+	</DIALOGUE>
+</BEDSOE>
+<MORAN>
+<DIRECTION>
+(half-smiling)
+</DIRECTION>
+	<DIALOGUE>
+	That ballsy broad. I never know what's going on with her.
+	</DIALOGUE>
+<DIRECTION>
+(thinking)
+</DIRECTION>
+	<DIALOGUE>
+	What did she and Nash talk about? Did he say anything?
+	</DIALOGUE>
+</MORAN>
+<BEDSOE>
+	<DIALOGUE>
+	Yeah. He asked me if I liked fish.
+	</DIALOGUE>
+</BEDSOE>
+<MORAN>
+	<DIALOGUE>
+	Fish -- ?
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+CUT TO: :SC: MONTAGE - MACLEOD AND RAMIREZ FIGHTING
+</DIRECTION>
+<DIRECTION>
+Various locations and times.
+</DIRECTION>
+<DIRECTION>
+Slowly, MacLeod improves, gaining control -- his blows, stronger, his coordination surer.
+</DIRECTION>
+<DIRECTION>
+Ramirez is pleased.
+</DIRECTION>
+<DIRECTION>
+HEATHER
+</DIRECTION>
+<DIRECTION>
+bartering for a flapping chicken in Jedburgh Market. In a group of SHOUTING WOMEN.
+</DIRECTION>
+<DIRECTION>
+Bright sunshine. FLAGS and BANNERS CRACK in the wind off the sea.
+</DIRECTION>
+<DIRECTION>
+Farmers sell cows and sheep. Crowds mill around. Open fires, Musicians and Hawkers.
+</DIRECTION>
+<DIRECTION>
+MacLeod and Ramirez watch Heather. Ramirez holds onto his hat. He buys an apple, bitting into it.
+</DIRECTION>
+<DIRECTION>
+Far up the valley, MacLeod's forge is a dot on the craggy mountainside.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	You will have no family. We cannot have children.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+A BAND PLAYS. Girls dance around a maypole. MacLeod lovingly watches Heather bag a SQUAWKING BIRD.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	That won't please Heather. I'll tell you that for nothing.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Ramirez shrugs. Heather holds up the sack.
+</DIRECTION>
+<HEATHER>
+<DIRECTION>
+(calling)
+</DIRECTION>
+	<DIALOGUE>
+	Here's dinner. Be off now. I fancy a new dress.
+	</DIALOGUE>
+</HEATHER>
+<DIRECTION>
+They watch a Juggler.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	You must leave her, brother.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+MacLeod scowls. The Juggler drops his balls in the swirling wind. The CROWD WHISTLES.
+</DIRECTION>
+<DIRECTION>
+They arrive at a grassy arena. Huge men in kilts toss 40-foot cabers to the CHEERS of the crowd.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	I was born 2,437 years ago. In that time, I have had three wives.
+	</DIALOGUE>
+<DIRECTION>
+MacLeod tries to figure the man's age.
+</DIRECTION>
+<DIRECTION>
+A Whore sashays past, skirts billowing, ogling Ramirez. Graciously, he bows to her.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	The last was Shakiko, a Japanese princess.
+	</DIALOGUE>
+<DIRECTION>
+(indicating Samurai)
+</DIRECTION>
+	<DIALOGUE>
+	Her father, Kamakura, a genius, made this for me in 593 B.C. It is the only one of its kind.
+	</DIALOGUE>
+<DIRECTION>
+(remembering)
+</DIRECTION>
+	<DIALOGUE>
+	Like his daughter.
+	</DIALOGUE>
+<DIRECTION>
+Drawing the Samurai, he tosses it to MacLeod, who catches it, testing its weight.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	When Shakiko died, I was shattered. I would save you that pain. Please -- let Heather go.
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	She's my wife, man. I love her.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He sees her, gaily pushing through the crowd, ablaze with colored silks.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Then you will cause yourself great anguish. I buried Shakiko with my own hands.
+	</DIALOGUE>
+<DIRECTION>
+(emotionally)
+</DIRECTION>
+	<DIALOGUE>
+	I had to go on, never again to hear the sound of her voice, her laughter. She left behind such a silence.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Heather flies into MacLeod's arms, kissing him, showing him the cloth.
+</DIRECTION>
+<HEATHER>
+	<DIALOGUE>
+	D'you like it? Tell me true.
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+<DIRECTION>
+(eyeing Ramirez)
+</DIRECTION>
+	<DIALOGUE>
+	Aye, blossom. It's fine.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Delighted, she dances around him, entwining him in the colored cloth.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: WIND-WHIPPED WAVES ON THE STORMY NORTH SEA
+</DIRECTION>
+<DIRECTION>
+off the Scottish coast. Cold sun. Seagulls on the wind. Mountains against cumulus.
+</DIRECTION>
+<DIRECTION>
+Suddenly, on the shore:
+</DIRECTION>
+<DIRECTION>
+A GIANT STAG WITH SHINING ANTLERS
+</DIRECTION>
+<DIRECTION>
+rears up in the gorse. Head high, still, it watches:
+</DIRECTION>
+<DIRECTION>
+RAMIREZ AND MACLEOD WALKING ON THE BEACH
+</DIRECTION>
+<DIRECTION>
+MacLeod's freezing to death.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Now for the last of our training.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+The Spaniard points to the stag, shouting above the surf.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Trust me. Let your mind feel the stag. His blood. Coursing. His heart. Beating.
+	</DIALOGUE>
+<DIRECTION>
+The SOUNDS OF THE TWO HEARTS POUND in his brain.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(enthralled)
+</DIRECTION>
+	<DIALOGUE>
+	I feel him.
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	It is the Quickening. We are at one with all living things.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+The stag bolts.
+</DIRECTION>
+<DIRECTION>
+MacLeod's perception is forever changed. The high- lands, the sea, the trees -- they're like old friends he'll never see the same way again.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	When we first met, you felt ill. Remember?
+	</DIALOGUE>
+<DIRECTION>
+Shivering, MacLeod nods.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Did you ever feel that way before?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	Yes. When the MacLeods fought the Frazers, and a black knight ran me through. Only it was different, more painful.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Herons swoop low over the waves.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	That black knight was the Kurgan. It is because of him that I sought you out.
+	</DIALOGUE>
+<DIRECTION>
+(MacLeod blinks)
+</DIRECTION>
+	<DIALOGUE>
+	There is great power in the Quickening. But Nature has not given us equal shares. Some, like you and the Kurgan, have more.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+MacLeod's ears are freezing.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	And when one of us takes another's head, the victor becomes stronger.
+	</DIALOGUE>
+<DIRECTION>
+They clamber through rocks, away from the angry sea.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: A DEEP-WATER POND SURROUNDED BY FERNS
+</DIRECTION>
+<DIRECTION>
+silent and old, under a dome of fir trees.
+</DIRECTION>
+<DIRECTION>
+MacLeod and Ramirez sit on the bank.
+</DIRECTION>
+<DIRECTION>
+Shedding his boots, yanking up his pantaloons, Ramirez steps gingerly into the pool, reacting to the cold.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Who is the Kurgan? Where does he come from?
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	The Kurgans were an ancient people from the steppes of Russia. For amusement, they tossed children into pits with hungry dogs to fight for meat.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+In the trees above, a blue jay arrives home with food for hungry mouths.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	I have fought the Kurgan 3 times. In Babylon, Greece and China.
+	</DIALOGUE>
+<DIRECTION>
+He skips out of the water, drying his feet.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	The last time, I was lucky to get away with my head.
+	</DIALOGUE>
+<DIRECTION>
+(replacing boots)
+</DIRECTION>
+	<DIALOGUE>
+	The Kurgan is the strongest of all immortals. He is the perfect warrior.
+	</DIALOGUE>
+<DIRECTION>
+MacLeod shudders.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	He cares about nothing or no-one. He is completely evil.
+	</DIALOGUE>
+<DIRECTION>
+(intensely)
+</DIRECTION>
+	<DIALOGUE>
+	If he wins the Prize, mortal men will suffer an eternity of darkness and slavery beneath his boot.
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	How do you fight such a savage?
+	</DIALOGUE>
+</MACLEOD>
+<RAMIREZ>
+	<DIALOGUE>
+	With heart, faith and steel.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+CUT TO: :SC: RAMIREZ AND MACLEOD ON A WOODLAND PATH
+</DIRECTION>
+<DIRECTION>
+Above them, sunset changes green to gold. Ramirez draws his Samurai.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Now. Let us see what kind of swordsman you have become. On guard, pendejo.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+MacLeod's already moving, claymore spinning. He feints. Ramirez ducks.
+</DIRECTION>
+<DIRECTION>
+Off-balance, the Spaniard retreats, warding off deadly thrusts.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	In the end, there can be only one.
+	</DIALOGUE>
+<DIRECTION>
+(swinging)
+</DIRECTION>
+	<DIALOGUE>
+	It is the Prize for which we all struggle. The Kurgan must never win it. Alone, I cannot stop him.
+	</DIALOGUE>
+<DIRECTION>
+(retreating)
+</DIRECTION>
+	<DIALOGUE>
+	You may have a chance.
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Sure-footed, MacLeod tracks him through fallen timber.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	If it came down to just us two, would you take my head?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Ramirez doesn't answer. MacLeod leaps forward, clay- more a WHISTLING RAZOR.
+</DIRECTION>
+<DIRECTION>
+Ramirez parries, but it's no good. The student has become the master.
+</DIRECTION>
+<DIRECTION>
+Losing his balance, Ramirez topples into a gully. MacLeod's on him in a second, blade against his throat.
+</DIRECTION>
+<DIRECTION>
+Breath rasping, they hold each other's gaze in green twilight. An eternity passes, then:
+</DIRECTION>
+<DIRECTION>
+MacLeod throws his sword away.
+</DIRECTION>
+<DIRECTION>
+Reaching out.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Give me your hand, brother.
+	</DIALOGUE>
+<DIRECTION>
+Ramirez smiles. His work done. MacLeod hauls him up.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD STRIDING THROUGH CENTRAL PARK
+</DIRECTION>
+<DIRECTION>
+Skaters on the ice. Kids fight with wooden swords in Sheep Meadow.
+</DIRECTION>
+<DIRECTION>
+Behind him, trying to look inconspicuous, the faithful Bedsoe dogs his tracks.
+</DIRECTION>
+<DIRECTION>
+Ahead in the trees. MacLeod sees:
+</DIRECTION>
+<DIRECTION>
+SUNDA KASTAGIR
+</DIRECTION>
+<DIRECTION>
+An elegant black African in blue-gold robes, head crowned with an ermine-trimmed cap.
+</DIRECTION>
+<DIRECTION>
+Standing on a stone bridge over the lake, he feeds bread to the ducks.
+</DIRECTION>
+<DIRECTION>
+MacLeod joins him, locking eyes with the African. They're both tense, ready for anything.
+</DIRECTION>
+<DIRECTION>
+Unexpectedly, Kastagir grins wall-to-wall teeth, grabbing MacLeod in a huge bear-hug.
+</DIRECTION>
+<KASTAGIR>
+	<DIALOGUE>
+	MacLeod. It's good to see you. Seems like a hundred years.
+	</DIALOGUE>
+</KASTAGIR>
+<MACLEOD>
+<DIRECTION>
+(chuckling)
+</DIRECTION>
+	<DIALOGUE>
+	It has been a hundred years.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Kastagir LAUGHS, removing a flask from his robe, offering it to MacLeod
+</DIRECTION>
+<KASTAGIR>
+	<DIALOGUE>
+	A little something to put hair on your chest?
+	</DIALOGUE>
+</KASTAGIR>
+<MACLEOD>
+<DIRECTION>
+(suspiciously)
+</DIRECTION>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</MACLEOD>
+<KASTAGIR>
+	<DIALOGUE>
+	Boom-Boom
+	</DIALOGUE>
+</KASTAGIR>
+<DIRECTION>
+MacLeod sniffs the open flask. It's a head-winder. The African appraises him critically.
+</DIRECTION>
+<KASTAGIR>
+	<DIALOGUE>
+	You've become so strong, MacLeod. Surely, you're not afraid of a little Boom-Boom.
+	</DIALOGUE>
+<DIRECTION>
+(twirling eyebrows)
+</DIRECTION>
+	<DIALOGUE>
+	Do you think I'm trying to poison you?
+	</DIALOGUE>
+<DIRECTION>
+They LAUGH. MacLeod drinks. Retrieving the flask, the African
+</DIRECTION>
+<DIRECTION>
+takes a long swig.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You're crazy, Kastagir. You always were.
+	</DIALOGUE>
+<KASTAGIR>
+<DIRECTION>
+(offering flask)
+</DIRECTION>
+	<DIALOGUE>
+	Have some more.
+	</DIALOGUE>
+</KASTAGIR>
+<DIRECTION>
+MacLeod drinks. Kastagir feeds the ducks.
+</DIRECTION>
+<KASTAGIR>
+	<DIALOGUE>
+	The Gathering is here. Time has almost caught us, my friend.
+	</DIALOGUE>
+<MACLEOD>
+<DIRECTION>
+(grinning)
+</DIRECTION>
+	<DIALOGUE>
+	has it? Do you think we should go on?
+	</DIALOGUE>
+</KASTAGIR>
+<KASTAGIR>
+	<DIALOGUE>
+	I think we should have a party.
+	</DIALOGUE>
+</KASTAGIR>
+<DIRECTION>
+They take off across the park. Bedsoe emerges from bushes, following them.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD AND KASTAGIR IN THE DUG_OUT BAR
+</DIRECTION>
+<DIRECTION>
+A steel-&-neon Village hang-out. Sawdust on the floor. It's late. They're drinking and talking, glancing over at:
+</DIRECTION>
+<DIRECTION>
+Bedsoe, alone in a nearby booth, spying on them from behind a New York Post. ----
+</DIRECTION>
+<DIRECTION>
+Unexpectedly, MacLeod and Kastagir appear at his table, sitting down.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Mind if we join you?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Bedsoe folds his paper, gathering his wits.
+</DIRECTION>
+<DIRECTION>
+His cover's blown, but this might just be the opportunity he's been waiting for. He decides to play along.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Sundra Kastagir, meet --
+	</DIALOGUE>
+<DIRECTION>
+(to Bedsoe)
+</DIRECTION>
+	<DIALOGUE>
+	What's your name?
+	</DIALOGUE>
+<BEDSOE>
+	<DIALOGUE>
+	Bedsoe.
+	</DIALOGUE>
+</BEDSOE>
+<MACLEOD>
+	<DIALOGUE>
+	He's a cop. He questioned me after Fasil lost his head. He's trying to pin a murder on me.
+	</DIALOGUE>
+<DIRECTION>
+(winking)
+</DIRECTION>
+	<DIALOGUE>
+	If I'm guilty, they'll give me the death penalty.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+They ROAR with laughter. Bedsoe's eyes narrow. He makes mental notes. A WAITRESS in pirate costume appears.
+</DIRECTION>
+<WAITRESS>
+<DIRECTION>
+(to Bedsoe)
+</DIRECTION>
+	<DIALOGUE>
+	Want anything?
+	</DIALOGUE>
+</WAITRESS>
+<BEDSOE>
+	<DIALOGUE>
+	I'll have what they're having.
+	</DIALOGUE>
+</BEDSOE>
+<KASTAGIR>
+<DIRECTION>
+(booming)
+</DIRECTION>
+	<DIALOGUE>
+	Bring more.
+	</DIALOGUE>
+</KASTAGIR>
+<DIRECTION>
+She leaves. :SC: MONTAGE -- THE PARTY
+</DIRECTION>
+<DIRECTION>
+The waitress brings endless rounds of drinks. Amidst LAUGHTER, the trio gets drunk.
+</DIRECTION>
+<DIRECTION>
+Bedsoe starts having fun, finally going to work on Kastagir's flask of Boom-Boom.
+</DIRECTION>
+<DIRECTION>
+MACLEOD, KASTAGIR & BEDSOE
+</DIRECTION>
+<DIRECTION>
+completely potted. Their table is a forest of bottles.
+</DIRECTION>
+<KASTAGIR>
+<DIRECTION>
+(to MacLeod)
+</DIRECTION>
+	<DIALOGUE>
+	D'you remember the night Washington lost his teeth at Valley Forge?
+	</DIALOGUE>
+</KASTAGIR>
+<BEDSOE>
+<DIRECTION>
+(to Kastagir)
+</DIRECTION>
+	<DIALOGUE>
+	I was in Washington once.
+	</DIALOGUE>
+</BEDSOE>
+<MACLEOD>
+<DIRECTION>
+(answering Kastagir)
+</DIRECTION>
+	<DIALOGUE>
+	Freezing our asses off, crawling around in the snow looking for a set of wooden dentures.
+	</DIALOGUE>
+</MACLEOD>
+<BEDSOE>
+<DIRECTION>
+(to MacLeod)
+</DIRECTION>
+	<DIALOGUE>
+	Which Washington are we talking about?
+	</DIALOGUE>
+<KASTAGIR>
+	<DIALOGUE>
+	Ever fight a duel, Bedstead?
+	</DIALOGUE>
+</BEDSOE>
+<BEDSOE>
+	<DIALOGUE>
+	Bedsoe.
+	</DIALOGUE>
+</BEDSOE>
+<KASTAGIR>
+	<DIALOGUE>
+	Me, neither.
+	</DIALOGUE>
+<DIRECTION>
+(indicating MacLeod)
+</DIRECTION>
+	<DIALOGUE>
+	He has.
+	</DIALOGUE>
+</KASTAGIR>
+<DIRECTION>
+Bedsoe tries to focus on MacLeod.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	It was in 1797. I was using the name Adrian Montagu. I insulted the wife of a pompous Boston lawyer named Bassett. Hotchkiss, his second, dragged me to Beacon Common. I was very drunk.
+	</DIALOGUE>
+</MACLEOD>
+<BEDSOE>
+<DIRECTION>
+(dazed)
+</DIRECTION>
+	<DIALOGUE>
+	1797 --?
+	</DIALOGUE>
+</BEDSOE>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+red-eyed, dishevelled and weaving.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Bassett chose rapiers at dawn.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+BASSETT, a corpulent, ferret-faced lawyer, tests blades under a tree. Horses graze nearby.
+</DIRECTION>
+<DIRECTION>
+HOTCHKISS, a tall, lantern-jawed toadt, brushes his master's coat.
+</DIRECTION>
+<HOTCHKISS>
+	<DIALOGUE>
+	The heavier blade, Mr. Bassett, I implore you.
+	</DIALOGUE>
+</HOTCHKISS>
+<BASSETT>
+	<DIALOGUE>
+	You are my second, Hotchkiss. I am fighting this duel. Not you.
+	</DIALOGUE>
+</BASSETT>
+<DIRECTION>
+He watches MacLeod trying to kill a bush.
+</DIRECTION>
+<BASSETT>
+	<DIALOGUE>
+	See if the imbecile is ready.
+	</DIALOGUE>
+<DIRECTION>
+Rocketing over the grass, Hotchkiss keeps clear of MacLeod's unpredictable thrusts.
+</DIRECTION>
+<HOTCHKISS>
+	<DIALOGUE>
+	Mr. Bassett is waiting, sir.
+	</DIALOGUE>
+</HOTCHKISS>
+<DIRECTION>
+MacLeod whips around, almost dislocating his neck.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I'm Bontagu. Not Massett.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+His wig slides over his eyes.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Christ, I've gone blind.
+	</DIALOGUE>
+<BASSETT>
+<DIRECTION>
+(advancing)
+</DIRECTION>
+	<DIALOGUE>
+	On guard, sir.
+	</DIALOGUE>
+</BASSETT>
+<DIRECTION>
+Hotchkiss waits for the kill. MacLeod can't see.
+</DIRECTION>
+<DIRECTION>
+Bassett runs him through.
+</DIRECTION>
+<DIRECTION>
+Bassett sees it's finished. Hotchkiss kisses his master, escorting him to his horse.
+</DIRECTION>
+<DIRECTION>
+Wound healing, head aching, MacLeod staggers up.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(slurring)
+</DIRECTION>
+	<DIALOGUE>
+	Bassett. Is that you?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Dumbstruck, they wheel. He's waving at them.
+</DIRECTION>
+<HOTCHKISS>
+	<DIALOGUE>
+	You missed him, Mr. Bassett.
+	</DIALOGUE>
+</HOTCHKISS>
+<BASSETT>
+	<DIALOGUE>
+	I did not miss him, you idiot. I ran him through.
+	</DIALOGUE>
+</BASSETT>
+<DIRECTION>
+MacLeod blinks at his sword, wondering what it is.
+</DIRECTION>
+<HOTCHKISS>
+	<DIALOGUE>
+	He is still standing, sir.
+	</DIALOGUE>
+</HOTCHKISS>
+<DIRECTION>
+Shoving Hotchkiss aside, Bassett lunges, running MacLeod through again. MacLeod falls down.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+((O.S.))
+</DIRECTION>
+	<DIALOGUE>
+	Bassett kept running me through. I'd fall down.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+More frenzied attempts by Bassett, each time receiving kisses from Hotchkiss.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+((O.S.))
+</DIRECTION>
+	<DIALOGUE>
+	Hotchkiss would embrace Bassett. They'd head for their horses. I'd stagger up.
+	</DIALOGUE>
+<DIRECTION>
+Eyes zooming, MacLeod rocks on his heels.
+</DIRECTION>
+<DIRECTION>
+Bassett thinks it's a nightmare. Hotchkiss shoves a pistol into his hand.
+</DIRECTION>
+<HOTCHKISS>
+<DIRECTION>
+(screeching)
+</DIRECTION>
+	<DIALOGUE>
+	Shoot him! Shoot him in the head!
+	</DIALOGUE>
+</HOTCHKISS>
+<DIRECTION>
+Finally, grasping what's happening, MacLeod raises his hand.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Stop, sir. I beseech you.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Bassett tries to cock the gun, Hotchkiss urging him on.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I apologize, Mr. Bassett, for calling your wife a bloated wart- hog.
+	</DIALOGUE>
+<DIRECTION>
+(unsteady)
+</DIRECTION>
+	<DIALOGUE>
+	I trust honor has been satisfied, and bid you good day.
+	</DIALOGUE>
+<DIRECTION>
+He staggers off into the mist. Hotchkiss tries to wrench the gun from Bassett.
+</DIRECTION>
+<HOTCHKISS>
+	<DIALOGUE>
+	Let me do it. You botched the whole thing.
+	</DIALOGUE>
+</HOTCHKISS>
+<DIRECTION>
+Wrestling it from him, Bassett wheels in circles, look- ing for someone to kill.
+</DIRECTION>
+<DIRECTION>
+Suspecting it will be he, Hotchkiss flees. Bassett raises the pistol and FIRES.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: KASTAGIR
+</DIRECTION>
+<DIRECTION>
+howling with LAUGHTER in the Dug-Out Bar. Zooming, Bedsoe staggers up, knocking over bottles.
+</DIRECTION>
+<BEDSOE>
+<DIRECTION>
+(slurring)
+</DIRECTION>
+	<DIALOGUE>
+	I wanna thank --
+	</DIALOGUE>
+</BEDSOE>
+<DIRECTION>
+He blinks at them. He can't remember anybody's name. HICCUPING, he weaves off, MUMBLING.
+</DIRECTION>
+<BEDSOE>
+	<DIALOGUE>
+	Wonderful evening...
+	</DIALOGUE>
+<DIRECTION>
+No one notices he's gone. The pirate-waitress looms over the table, Kastagir and MacLeod squint up at her.
+</DIRECTION>
+<DIRECTION>
+Imagining they're in another century, they adopt Long John Silver voices.
+</DIRECTION>
+<KASTAGIR>
+	<DIALOGUE>
+	Avast, ye bonny wench.
+	</DIALOGUE>
+</KASTAGIR>
+<MACLEOD>
+	<DIALOGUE>
+	Bring us two barrels of scurvy and a bucket of cleats.
+	</DIALOGUE>
+</MACLEOD>
+<WAITRESS>
+	<DIALOGUE>
+	Okay, that's it, guys. You're history.
+	</DIALOGUE>
+</WAITRESS>
+<DIRECTION>
+She's right. The party's over.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: KASTAGIR AND MACLEOD
+</DIRECTION>
+<DIRECTION>
+on swings in a children's playground at dawn, rocking back and forth. Both men are sober.
+</DIRECTION>
+<DIRECTION>
+A bitter wind tosses newspaper, swirls leaves. Skyscrapers blaze in the rising sun.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	There are 3 of us left. You, me and the Kurgan.
+	</DIALOGUE>
+</MACLEOD>
+<KASTAGIR>
+	<DIALOGUE>
+	Are you suggesting we join forces against him?
+	</DIALOGUE>
+</KASTAGIR>
+<DIRECTION>
+MacLeod watches a JOGGER flounder by.
+</DIRECTION>
+<KASTAGIR>
+	<DIALOGUE>
+	Ramirez filled your head with nonsense. Sooner or later. you and I would have to fight.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	Nothing personal. I've always liked you, actually.
+	</DIALOGUE>
+<DIRECTION>
+He points a finger at MacLeod, pulling an imaginary trigger.
+</DIRECTION>
+<KASTAGIR>
+	<DIALOGUE>
+	Boom-Boom.
+	</DIALOGUE>
+<DIRECTION>
+MacLeod gets up and walks away. Kastagir swings in the wind.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: RAMIREZ AND HEATHER
+</DIRECTION>
+<DIRECTION>
+having lunch in the MacLeod home. A WOODEN STAIRCASE runs from ground to 3rd floor.
+</DIRECTION>
+<DIRECTION>
+Unexpectedly, Ramirez's body jolts violently. His face contorts, voice strangled.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	Run, Heather --!
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Suddenly, the front door EXPLODES, splintering in fragments. Sword in hand, eyes burning, the Kurgan surges in.
+</DIRECTION>
+<DIRECTION>
+Heather races back. Ramirez dives for his sword on the table. The Kurgan swings, barely missing Ramirez, chopping the table in two.
+</DIRECTION>
+<DIRECTION>
+Ramirez counters, his Samurai slicing the Kurgan's throat, severing his vocal chords.
+</DIRECTION>
+<DIRECTION>
+GARGLING in fury, the Kurgan clutches his neck. Warding off the Spaniard's attack, he reels backward up the stairs.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: RAMIREZ AND THE KURGAN
+</DIRECTION>
+<DIRECTION>
+fighting on the staircase. Savage forces are unleashed. Sparks fly from CLANGING blades. Outside, THUNDER CRACKS overhead.
+</DIRECTION>
+<DIRECTION>
+Despite his wound, the Kurgan fights like a mad dog. Ramirez loses ground.
+</DIRECTION>
+<DIRECTION>
+The stone house is reduced to rubble. All that remains is one wall and the staircase rising to nowhere.
+</DIRECTION>
+<DIRECTION>
+Outmatched, Ramirez retreats up the stairs. Unstoppable, the Kurgan follows.
+</DIRECTION>
+<DIRECTION>
+HEATHER
+</DIRECTION>
+<DIRECTION>
+paralyzed with fear, crouches by a wall, watching the desperat battle -- Ramirez and the wounded giant silhouetted against an electric sky.
+</DIRECTION>
+<DIRECTION>
+RAMIREZ AND THE KURGAN
+</DIRECTION>
+<DIRECTION>
+hanging in space at the top of the stairs. Ramirez can retrea
+</DIRECTION>
+<DIRECTION>
+no further. The Kurgan runs him through. LIGHTNING sears the sky.
+</DIRECTION>
+<DIRECTION>
+Gasping, the Spaniard sags to his knees, sword falling 3 stori to the ground. Below, Heather SCREAMS.
+</DIRECTION>
+<DIRECTION>
+Ramirez tries to rise. The Kurgan grabs his hair, pulling him
+</DIRECTION>
+<DIRECTION>
+close.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	The Highlander. Where is he?
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Ramirez's blade has turned the Kurgan's voice to a METALLIC GARGLE.
+</DIRECTION>
+<RAMIREZ>
+	<DIALOGUE>
+	You're too late. I have prepared him for you.
+	</DIALOGUE>
+</RAMIREZ>
+<KURGAN>
+	<DIALOGUE>
+	You waste your time. He is nothing.
+	</DIALOGUE>
+<DIRECTION>
+(indicates Heather)
+</DIRECTION>
+	<DIALOGUE>
+	Who is the woman?
+	</DIALOGUE>
+</KURGAN>
+<RAMIREZ>
+	<DIALOGUE>
+	She's mine.
+	</DIALOGUE>
+</RAMIREZ>
+<KURGAN>
+	<DIALOGUE>
+	Not for much longer.
+	</DIALOGUE>
+</KURGAN>
+<RAMIREZ>
+	<DIALOGUE>
+	I can't hear you, Kurgan. What's wrong with your voice?
+	</DIALOGUE>
+</RAMIREZ>
+<DIRECTION>
+Ramirez SPITS in his face. The Kurgan goes mad, raising his weapon.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	There can be only one.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+He cuts off Ramirez's head. A SHIMMERING CLOUD engulfs him.
+</DIRECTION>
+<DIRECTION>
+He kicks the corpse off the stairs. Turning, he stares down at Heather shivering by the wall. His pitiless eyes burn into her.
+</DIRECTION>
+<DIRECTION>
+The next second, the remaining wall gives way, taking the staircase with it. Surprised, the Kurgan disappears under a mass of timber and stone.
+</DIRECTION>
+<DIRECTION>
+Deathly stillness. Clouds cast a pall over the ruins.
+</DIRECTION>
+<DIRECTION>
+Cautiously, Heather inches forward, staring down at the debris, trying to comprehend what's happened. Suddenly:
+</DIRECTION>
+<DIRECTION>
+THE KURGAN'S HEAD ROCKETS OUT OF THE RUBBLE
+</DIRECTION>
+<DIRECTION>
+grabbing her by the throat. She SCREAMS. He RISES.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+in his silver room, studying Ramirez's hat in the glass case. Rachel enters, standing behind him. MacLeod doesn't move.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	What are you looking at?
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+	<DIALOGUE>
+	The eyes in the back of your head.
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+Rising, he heads for the door. Rachel follows him.
+</DIRECTION>
+<RACHEL>
+	<DIALOGUE>
+	People are asking about you. What am I supposed to say?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	Tell them I'm immortal.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+MACLEOD
+</DIRECTION>
+<DIRECTION>
+In an overcoat, carrying a wrapped gift, walking through his closed antique shop, followed by Rachel.
+</DIRECTION>
+<RACHEL>
+	<DIALOGUE>
+	Would you listen to me for one moment, please?
+	</DIALOGUE>
+<DIRECTION>
+(he nods)
+</DIRECTION>
+	<DIALOGUE>
+	You can't hide your feelings from me. I've known you too long.
+	</DIALOGUE>
+</RACHEL>
+<MACLEOD>
+	<DIALOGUE>
+	What feelings?
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+	<DIALOGUE>
+	How about loneliness?
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+He conceals his true reaction.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I'm not lonely. I've got everything I need, right here.
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+	<DIALOGUE>
+	No, you don't. You refuse to let anyone love you.
+	</DIALOGUE>
+</RACHEL>
+<MACLEOD>
+	<DIALOGUE>
+	Love is for poets. I have other things to do.
+	</DIALOGUE>
+<DIRECTION>
+(kissing her forehead)
+</DIRECTION>
+	<DIALOGUE>
+	You're such a romantic, Rachel. You always were.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+CUT TO: :SC: BEDSOE ON STAKE-OUT
+</DIRECTION>
+<DIRECTION>
+parked outside a building in Murray Hill, still suffering from his evening in the Dug-Out Bar. His head's killing him, he's got the shakes and he needs a shave.
+</DIRECTION>
+<DIRECTION>
+Balancing a cup of coffee, he tries to work an Alka-Seltzer into a container of water, inadvertently hitting the horn with his elbow. It BLARES.
+</DIRECTION>
+<DIRECTION>
+Grabbing his temples, he drops the water, spilling scalding coffee into his groin.
+</DIRECTION>
+<BEDSOE>
+	<DIALOGUE>
+	Oh, shit...
+	</DIALOGUE>
+</BEDSOE>
+<DIRECTION>
+Unnoticed, MacLeod enters the building.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA
+</DIRECTION>
+<DIRECTION>
+in bra and panties in her bedroom.
+</DIRECTION>
+<DIRECTION>
+Finishing make-up, brushing her hair. Nervous, she slips into a sexy dress and boots, studying the effect from different angles.
+</DIRECTION>
+<DIRECTION>
+Adjusting her hair, she adds a lizard belt, clinching it tight around her narrow waist.
+</DIRECTION>
+<DIRECTION>
+Satisfied, she walks out into:
+</DIRECTION>
+<DIRECTION>
+A glass and chrome living room.
+</DIRECTION>
+<DIRECTION>
+Dinner set for two. Agitated, she opens the table- drawer. Inside: A pistol.
+</DIRECTION>
+<DIRECTION>
+She cracks it open. It's loaded.
+</DIRECTION>
+<DIRECTION>
+Replacing it, she opens a cabinet. A hidden tape- recorder is set to go.
+</DIRECTION>
+<DIRECTION>
+BUZZER. It's the front door.
+</DIRECTION>
+<DIRECTION>
+Starting the recorder, she shuts the cabinet, takes a breath, and opens the door.
+</DIRECTION>
+<DIRECTION>
+It's Russell Nash.
+</DIRECTION>
+<DIRECTION>
+In suit, tie and overcoat, with gift-wrapped package and bottle.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Good evening, Miss Wyatt.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He smiles warmly. Those eyes again, fixed on her. She forgets everything.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You want to dine in the hall, or shall we step inside?
+	</DIALOGUE>
+<BRENDA>
+<DIRECTION>
+(blinking)
+</DIRECTION>
+	<DIALOGUE>
+	Come on in.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+For a second, they're very close. Her heart pounds.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	May I take your coat?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	No, thanks. I'll hold onto it.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Flushed, she can't think what to say. Impulsively, she heads for the bedroom.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	I'll be right back. The glasses are over there.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Putting his gift on the coffee-table, he takes off his coat, glancing around.
+</DIRECTION>
+<DIRECTION>
+:SC:
+</DIRECTION>
+<DIRECTION>
+IN THE BEDROOM
+</DIRECTION>
+<DIRECTION>
+She stares at her rigid image in the mirror.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	I like your place, Brenda.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	You never told me what it is you do for a living.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Her face goes white.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(into mirror)
+</DIRECTION>
+	<DIALOGUE>
+	Do you know what you're doing?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Mind racing, she improvises.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I...
+	</DIALOGUE>
+<DIRECTION>
+(closing eyes)
+</DIRECTION>
+	<DIALOGUE>
+	I work for the Metropolitan Museum --
+	</DIALOGUE>
+<DIRECTION>
+She tries to calm down. What has she gotten herself into?
+</DIRECTION>
+<DIRECTION>
+:SC:
+</DIRECTION>
+<DIRECTION>
+IN THE LIVING ROOM
+</DIRECTION>
+<DIRECTION>
+MacLeod spots Bedsoe through the blinds.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	In Acquisitions.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Covering the room like a cat, he checks the table-drawer, sees the pistol.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	That explains your interest in ancient weapons.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He finds the recorder in the cabinet.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Yes. Particularly the Samurai.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Opening the bottle, he sits on the sofa.
+</DIRECTION>
+<DIRECTION>
+Brenda enters, joining him, feeling more confident, smooth- ing her skirt over her thighs. He fills glasses, handing her one.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Shall we have a toast?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He thinks for a moment.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+<DIRECTION>
+(raising glass)
+</DIRECTION>
+	<DIALOGUE>
+	To the child going to bed, And the man on the stairs Who climbs to his dying love In her high room.
+	</DIALOGUE>
+<DIRECTION>
+(she's transfixed)
+</DIRECTION>
+	<DIALOGUE>
+	And let us hope tonight He shall find no dying, But his love alive and warm.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	That's beautiful. What is it?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+The CLINK GLASSES.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Dylan Thomas.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+They drink. She blinks as it hits her throat. She likes it.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Brandy. Bottled in 1783.
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	Jesus. That's old.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	1783 was a very good year. Mozart wrote his Great Mass. The Montgolfier brothers went up in the first hot-air balloon. And England recognized the independence of the United States.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Is that right?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Who is this guy who fights scarred giants, drinks 200- year-old brandy and has a antique shop on Hudson Street?
+</DIRECTION>
+<DIRECTION>
+He seems to be staring into her soul, seducing her in erotic, unfamiliar ways.
+</DIRECTION>
+<DIRECTION>
+She notices the package.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	It's for you.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Can I open it?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	If you like.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She picks it up and rips off the gift-wrap, staring down at:
+</DIRECTION>
+<DIRECTION>
+A METALURGICAL HISTORY OF ANCIENT SWORD-MAKING. by BRENDA J. WYATT.
+</DIRECTION>
+<DIRECTION>
+The blood drains from her face.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	You Bastard
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Odd thing.
+	</DIALOGUE>
+<DIRECTION>
+(indicating book)
+</DIRECTION>
+	<DIALOGUE>
+	Your bio doesn't mention the Met. It says you work for the police in Forensics.
+	</DIALOGUE>
+<DIRECTION>
+(she's stunned)
+</DIRECTION>
+	<DIALOGUE>
+	Are you and Moran trying to set me up?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Angry, she rises, moving away.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I don't work for Moran.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Then why's that fat policeman sitting outside, watching your apartment?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She peers through the blinds, seeing Bedsoe in the car.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You remember him. Moran's had him tailing me.
+	</DIALOGUE>
+<DIRECTION>
+She sits close to the table containing the pistol. He refills his glass. The silence is deadly.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	What are you going to do?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	The question is, what are you going to do?
+	</DIALOGUE>
+<DIRECTION>
+(she frowns)
+</DIRECTION>
+	<DIALOGUE>
+	Are you going to turn off the tape. or are you going to shoot me with the .38?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	You're really something.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Crossing to the recorder, she rips out the tape. Removing the
+</DIRECTION>
+<DIRECTION>
+pistol, she empties it, tossing it away.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I'm not looking for a killer. I'm looking for a sword
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	The one used on Fasil. I found pieces of it under the Garden.
+	</DIALOGUE>
+<DIRECTION>
+He stands, getting ready to leave. She blocks his way
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I only want to see the Samurai.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	I told you. It's not supposed to exist.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Picking up the shards, she waves them in his face.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I dated these pieces of the blade at 600 B.C. The metal's been folded over 200 times.
+	</DIALOGUE>
+<DIRECTION>
+(tapping shards)
+</DIRECTION>
+	<DIALOGUE>
+	The Japanese didn't start making swords that way until the Middle Ages.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Her eyes are alight.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	So where the hell did it come from?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He glances at the shards. Her energy is uncompromising.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	If I could verify the existence of such a weapon, it'd be like finding a 747 made a thousand years before the Wright brothers flew.
+	</DIALOGUE>
+<DIRECTION>
+(drolly)
+</DIRECTION>
+	<DIALOGUE>
+	With a find like that, I could get on "Good Morning America".
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	This is crazy.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Ignoring her, he heads for the door. Furious, she spins him around.
+</DIRECTION>
+<DIRECTION>
+Face-to-face, he can smell her perfume. It's driving him crazy.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I want some straight answers, Nash.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Don't you ever think about anything except what you want?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Before he can stop himself, he's got a handful of her hair, pulling her mouth onto his, kissing her passion- ately.
+</DIRECTION>
+<DIRECTION>
+She struggles. Releasing her, he touches her cheek, then leaves.
+</DIRECTION>
+<DIRECTION>
+Breathless, Brenda sits on the couch. The front door SLAMS.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+descending a rear stairwell, FOOTSTEPS ECHOING off the concrete. He stops on a landing, shutting his eyes. :SC: MONTAGE: HEATHER GROWING OLD
+</DIRECTION>
+<DIRECTION>
+MacLeod and Heather leave Jedburgh and move east, set- tling on a farm outside Montrose.
+</DIRECTION>
+<DIRECTION>
+Years become decades. She changes. Her youth fades. MacLeod is with her constantly.
+</DIRECTION>
+<DIRECTION>
+Breathing her last, she lies in his arms, clutching a sheepskin doll. She strokes his ageless cheek.
+</DIRECTION>
+<HEATHER>
+	<DIALOGUE>
+	My beautiful man. My husband.
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+	<DIALOGUE>
+	I am that, my love.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Her eyes fill with tears. MacLeod fights for control, smoothing her hair.
+</DIRECTION>
+<HEATHER>
+	<DIALOGUE>
+	I have never...really known.
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</MACLEOD>
+<HEATHER>
+	<DIALOGUE>
+	Why you stayed.
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+	<DIALOGUE>
+	Because I love you as much now as the day I first met you.
+	</DIALOGUE>
+</MACLEOD>
+<HEATHER>
+	<DIALOGUE>
+	And I love you.
+	</DIALOGUE>
+</HEATHER>
+<DIRECTION>
+Crying, she turns away. Tormented, he cradles her head, holding her tight.
+</DIRECTION>
+<HEATHER>
+	<DIALOGUE>
+	I don't want to die. I want to stay with you forever.
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	I want that, too.
+	</DIALOGUE>
+</MACLEOD>
+<HEATHER>
+	<DIALOGUE>
+	Will you do something for me, Conner
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+	<DIALOGUE>
+	What, blossom?
+	</DIALOGUE>
+</MACLEOD>
+<HEATHER>
+	<DIALOGUE>
+	In years to come, will you light a candle and remember me on my birthday?
+	</DIALOGUE>
+</HEATHER>
+<MACLEOD>
+	<DIALOGUE>
+	Aye, love. I will
+	</DIALOGUE>
+</MACLEOD>
+<HEATHER>
+	<DIALOGUE>
+	I wanted to have your children.
+	</DIALOGUE>
+</HEATHER>
+<DIRECTION>
+She collapses, clinging to him.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(huskily)
+</DIRECTION>
+	<DIALOGUE>
+	They would have been strong and fine.
+	</DIALOGUE>
+</MACLEOD>
+<HEATHER>
+<DIRECTION>
+(struggling)
+</DIRECTION>
+	<DIALOGUE>
+	Don't see me, Conner. Let me die in peace.
+	</DIALOGUE>
+</HEATHER>
+<DIRECTION>
+Heart breaking, he rocks her. Breathing faster, she closes her eyes.
+</DIRECTION>
+<HEATHER>
+	<DIALOGUE>
+	Where are we?
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	We're in the Highlands. Where else? Running down a mountain- side.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She smiles, young again.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	The sun's shining. It's not cold. We'll swim in the loch, maybe.
+	</DIALOGUE>
+<DIRECTION>
+She fades.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You've got your sheepskins on. And the boots I made for you.
+	</DIALOGUE>
+<DIRECTION>
+She dies. He squeezes her tighter, blinking back tears.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	When I met you at the fair, you said: "You're all muck and muscle." Then you smiled. What a beauty.
+	</DIALOGUE>
+<DIRECTION>
+Grief overwhelms him. Lowering her gently, he closes her eyes, taking the doll from her hand. He kisses her cheek.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Good night, my bonnie Heather. You were always beautiful to me.
+	</DIALOGUE>
+<DIRECTION>
+He sobs.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+laying Heather to rest at sunset on a hill above the farm. His horse stands under a tree.
+</DIRECTION>
+<DIRECTION>
+Drawing his claymore, he sinks it deep into the earth, marking Heather's grave.
+</DIRECTION>
+<DIRECTION>
+He buckles on Ramirez's Samurai, eyes raking the heavens.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You were right, haggis. There will never be another.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Grimly, he leads his horse down the mountain.
+</DIRECTION>
+<DIRECTION>
+Left behind, his claymore. Carved into the blade, glowing in the dying sun, the name:
+</DIRECTION>
+<DIRECTION>
+MACLEOD.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD IN HIS NEW YORK LOFT
+</DIRECTION>
+<DIRECTION>
+surrounded by his past. Everywhere he looks, objects remind him of distant places and times, intensifying his painful isolation.
+</DIRECTION>
+<DIRECTION>
+VOICES and SOUNDS scramble his brain, gathering in volume:
+</DIRECTION>
+<OVERLAPPING_VOICES>
+	<DIALOGUE>
+	My beautiful man. My husband --
+	</DIALOGUE>
+<DIRECTION>
+(cheering crowd)
+</DIRECTION>
+	<DIALOGUE>
+	Lotta fun, ain't it --?
+	</DIALOGUE>
+<DIRECTION>
+(cannon-fire)
+</DIRECTION>
+	<DIALOGUE>
+	Devil! Devil --!
+	</DIALOGUE>
+<DIRECTION>
+(police sirens)
+</DIRECTION>
+	<DIALOGUE>
+	Head chopped off two nights ago --
+	</DIALOGUE>
+<DIRECTION>
+(horns blaring)
+</DIRECTION>
+	<DIALOGUE>
+	600 B.C. It's not supposed to exist --
+	</DIALOGUE>
+<DIRECTION>
+(a baby crying)
+</DIRECTION>
+	<DIALOGUE>
+	Tell them I'm immortal --
+	</DIALOGUE>
+<DIRECTION>
+(pipes and drums)
+</DIRECTION>
+	<DIALOGUE>
+	There can be only one --!
+	</DIALOGUE>
+</OVERLAPPING_VOICES>
+<DIRECTION>
+The pressure's too much. BELLOWING, MacLeod erupts.
+</DIRECTION>
+<DIRECTION>
+Picking up a vase, he spins round in fury, flinging it against a wall. It SHATTERS in a million pieces.
+</DIRECTION>
+<DIRECTION>
+MONTAGE: The same frustration vented bacward through the centuries. The vast today, marble statue in 1880, a wine bottle at a French castle wall, the beer glass at his attackers in the Scottish tavern.
+</DIRECTION>
+<DIRECTION>
+GLASS FRAGMENTS RING IN THE STILLNESS
+</DIRECTION>
+<DIRECTION>
+falling to the floor. MacLeod struggles to control his feelings. Sitting down on a couch, he stares out of the window. His hands are shaking.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MORAN AND BEDSOE MUNCHING BURGERS AT TONY'S
+</DIRECTION>
+<DIRECTION>
+a stand at 59th & Lexington. Around them, crowds, traffic jams, BLARING HORNS.
+</DIRECTION>
+<DIRECTION>
+TONY, the huge owner, in apron and baseball cap, eats cole- slaw, checking the News headline:
+</DIRECTION>
+	<DIALOGUE>
+	----
+	</DIALOGUE>
+	<DIALOGUE>
+	HEAD HUNTER 3 -- COPS ZERO
+	</DIALOGUE>
+<TONY>
+	<DIALOGUE>
+	Hey, Moran. Have you read what it says here?
+	</DIALOGUE>
+</TONY>
+<MORAN>
+	<DIALOGUE>
+	Come on, Tony. You know cops can't read.
+	</DIALOGUE>
+</MORAN>
+<TONY>
+<DIRECTION>
+(checks story)
+</DIRECTION>
+	<DIALOGUE>
+	What does "incompetent" mean?
+	</DIALOGUE>
+</TONY>
+<DIRECTION>
+Tony cackles. Moran chews burger, eyeing Bedsoe.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	The damn Mayor's calling my apartment at two in the morning.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+Bedsoe sympathizes. They finish up, getting into a green Dodge. Bedsoe FIRES THE ENGINE.
+</DIRECTION>
+<TONY>
+<DIRECTION>
+(re: paper)
+</DIRECTION>
+	<DIALOGUE>
+	Hey, Moran. What does "baffled" mean?
+	</DIALOGUE>
+</TONY>
+<DIRECTION>
+The Dodge PEELS OFF into traffic.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MORAN
+</DIRECTION>
+<DIRECTION>
+talking to Rachel in the antique shop.
+</DIRECTION>
+<DIRECTION>
+She's at her desk. He strolls about, looking things over. He makes her nervous.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	You do see him every once in a while?
+	</DIALOGUE>
+</MORAN>
+<RACHEL>
+	<DIALOGUE>
+	Rarely.
+	</DIALOGUE>
+</RACHEL>
+<MORAN>
+	<DIALOGUE>
+	How do you reach him?
+	</DIALOGUE>
+</MORAN>
+<RACHEL>
+	<DIALOGUE>
+	I don't
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+He sits across from her.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	He kind-of keeps you in the dark, right?
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	Alright, Miss -- or is it Mrs.?
+	</DIALOGUE>
+</MORAN>
+<RACHEL>
+	<DIALOGUE>
+	Miss. Rachel Ellenstein. Why?
+	</DIALOGUE>
+</RACHEL>
+<MORAN>
+	<DIALOGUE>
+	Just curious. I'm a bachelor myself.
+	</DIALOGUE>
+<DIRECTION>
+(rising)
+</DIRECTION>
+	<DIALOGUE>
+	If you see Nash, have him call me, okay?
+	</DIALOGUE>
+</MORAN>
+<RACHEL>
+	<DIALOGUE>
+	Okay, Sergeant.
+	</DIALOGUE>
+</RACHEL>
+<MORAN>
+<DIRECTION>
+(smiles)
+</DIRECTION>
+	<DIALOGUE>
+	Lieutenant.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+He leaves.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA READING "CERTIFICATES OF BIRTH, 1941-48"
+</DIRECTION>
+<DIRECTION>
+in the Hall of Records. She finds a photostat:
+</DIRECTION>
+<DIRECTION>
+RUSSELL EDWIN NASH. BORN: 11.17 A.M. OCTOBER 22nd, 1945. MERCY HOSPITAL, SYRACUSE, NEW YORK. TO: KAREN JOAN NASH. ATTENDING PHYSICIAN: DR. W.B. KADELL.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: DR. WILLIS KADELL
+</DIRECTION>
+<DIRECTION>
+82, thumbing through files in his cluttered study. Brenda sits on a sofa. He's never seen legs like hers.
+</DIRECTION>
+<KADELL>
+<DIRECTION>
+(finds file)
+</DIRECTION>
+	<DIALOGUE>
+	Here we go. Karen Joan Nash.
+	</DIALOGUE>
+<DIRECTION>
+(reading)
+</DIRECTION>
+	<DIALOGUE>
+	Yes, I remember this one. I was practicing in Syracuse. Didn't get many of these.
+	</DIALOGUE>
+</KADELL>
+<BRENDA>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</BRENDA>
+<KADELL>
+	<DIALOGUE>
+	Unwed mothers.
+	</DIALOGUE>
+<DIRECTION>
+(checks her legs again)
+</DIRECTION>
+	<DIALOGUE>
+	Nowadays that's no big deal. Back then in Syracuse it was a stoning offense.
+	</DIALOGUE>
+</KADELL>
+<DIRECTION>
+He CHUCKLES, spinning his eyebrows.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	What happened?
+	</DIALOGUE>
+</BRENDA>
+<KADELL>
+	<DIALOGUE>
+	She had the baby. Then she died.
+	</DIALOGUE>
+</KADELL>
+<BRENDA>
+	<DIALOGUE>
+	So Nash was illegitimate?
+	</DIALOGUE>
+</BRENDA>
+<KADELL>
+	<DIALOGUE>
+	Yeah, he was illegitimate. For about a minute-and-a-half. He died right after she did.
+	</DIALOGUE>
+</KADELL>
+<BRENDA>
+<DIRECTION>
+(stunned)
+</DIRECTION>
+	<DIALOGUE>
+	He died?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+CUT TO: :SC: BRENDA
+</DIRECTION>
+<DIRECTION>
+getting out of a cab at 42nd and 5th, dressed in coat, fur hat, gloves and scarf.
+</DIRECTION>
+<DIRECTION>
+Moving through lunchtime crowds, she walks up the steps to the Public Libary.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: ERIK POWELL
+</DIRECTION>
+<DIRECTION>
+seated at his computer-console. He's the Chief Archivist, New York State.
+</DIRECTION>
+<DIRECTION>
+Macho, gay, short-hair, moustache and tattoos. Before him, two display screens.
+</DIRECTION>
+<DIRECTION>
+Brenda perches on a stool at his elbow, coat, hat and scarf over her arm.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	I did what you asked, Brenda. And do I have something weird.
+	</DIALOGUE>
+</ERIK>
+<BRENDA>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+	<DIALOGUE>
+	The computer will display certain documents on micro-film.
+	</DIALOGUE>
+<DIRECTION>
+(indicating 2nd screen)
+</DIRECTION>
+	<DIALOGUE>
+	They'll pop up there.
+	</DIALOGUE>
+</ERIK>
+<BRENDA>
+	<DIALOGUE>
+	Erik, what's weird?
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+<DIRECTION>
+(punches data)
+</DIRECTION>
+	<DIALOGUE>
+	This guy Nash's signature. He's the legal owner of the property on Hudson Street.
+	</DIALOGUE>
+</ERIK>
+<BRENDA>
+	<DIALOGUE>
+	I know that.
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+<DIRECTION>
+(touchy)
+</DIRECTION>
+	<DIALOGUE>
+	He could have been renting. Or leasing. You don't know.
+	</DIALOGUE>
+</ERIK>
+<DIRECTION>
+Brenda sighs. Talking to Erik is a pain in the ass.
+</DIRECTION>
+<DIRECTION>
+A document appears on the 2nd screen.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	Okay, here we go. This is the original deed to the Hudson Street property. Dated 1796. Look at that signature.
+	</DIALOGUE>
+<DIRECTION>
+On screen, a dramatic scrawl: ADRIAN MONTAGU.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Who's Adrian Montagu?
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+	<DIALOGUE>
+	The first owner of Hudon Street.
+	</DIALOGUE>
+<DIRECTION>
+(checks print-out)
+</DIRECTION>
+	<DIALOGUE>
+	An English immigrant.
+	</DIALOGUE>
+</ERIK>
+<DIRECTION>
+Freezing, Brenda puts her coat back on.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Can we cut to the chase, Erik?
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+<DIRECTION>
+(ruffled)
+</DIRECTION>
+	<DIALOGUE>
+	I'm taking you through a process here, Brenda. I spent hours on this. Okay?
+	</DIALOGUE>
+</ERIK>
+<DIRECTION>
+Brenda shivers in the cold.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	Adrian Montagu left his property to Hamilton Kopp.
+	</DIALOGUE>
+<DIRECTION>
+(cracking knuckles)
+</DIRECTION>
+	<DIALOGUE>
+	Even in the old days, if somebody left you something, you had to sign a receipt.
+	</DIALOGUE>
+<DIRECTION>
+New program. On the 2nd screen, a receipt signed: HAMILTON KOPP.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	This shows that Kopp actually received Montagu's inheritance.
+	</DIALOGUE>
+<DIRECTION>
+(enjoying himself)
+</DIRECTION>
+	<DIALOGUE>
+	Check out Kopp's signature. Familiar?
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	It looks a little like the first guy's -- Montagu.
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+	<DIALOGUE>
+	Brilliant.
+	</DIALOGUE>
+</ERIK>
+<DIRECTION>
+He returns to the console.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	The next thing I did was see if I could find a Hamilton Kopp who died at birth some time before the receipt was signed by Montagu.
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+	<DIALOGUE>
+	Logical minds search for connections.
+	</DIALOGUE>
+<DIRECTION>
+(taps forehead)
+</DIRECTION>
+	<DIALOGUE>
+	I've got a logical mind. The Nash kid died at birth, right?
+	</DIALOGUE>
+</ERIK>
+<DIRECTION>
+She nods. On screen, a DEATH CERTIFICATE for HAMILTON KOPP.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	Here we go. Hamilton Kopp. Born, January 16th, 1819. Died at birth -- 20 years before he allegedly signed the receipt inheriting Hudson Street from Montagu.
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	It's a coincidence. It's got to be a different Kopp.
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+<DIRECTION>
+(grinning)
+</DIRECTION>
+	<DIALOGUE>
+	Thin so? Watch this.
+	</DIALOGUE>
+<DIRECTION>
+(programs new stuff)
+</DIRECTION>
+	<DIALOGUE>
+	Kopp died and left his wordly goods to one Alfred Burgess.
+	</DIALOGUE>
+</ERIK>
+<DIRECTION>
+On-screen, a receipt signed: ALFRED BURGESS.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	Burgess left his possessions to Wallingford Benoit.
+	</DIALOGUE>
+<DIRECTION>
+On-screen, a receipt signed: WALLINGTON BENOIT.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	And Benoit left his stuff to your guy. Russell Nash.
+	</DIALOGUE>
+<DIRECTION>
+On-screen, a receipt signed RUSSELL NASH. Erik swivels in his chair. Brenda puts on her gloves.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	In all five instances, Montagu through Nash, I found a death certificate for a kid with the same name, who died at birth -- years before he pretended to sign for his inheritance.
+	</DIALOGUE>
+<DIRECTION>
+(eyeing her)
+</DIRECTION>
+	<DIALOGUE>
+	Still think it's a coincidence?
+	</DIALOGUE>
+<DIRECTION>
+She replaces her fur hat. She's never been so cold.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Erik, isn't there any heat in here?
+	</DIALOGUE>
+</BRENDA>
+<ERIK>
+	<DIALOGUE>
+	No. Heat's bad for the circuits.
+	</DIALOGUE>
+<DIRECTION>
+(taps more keys)
+</DIRECTION>
+	<DIALOGUE>
+	And now, just in case there's any doubt.
+	</DIALOGUE>
+</ERIK>
+<DIRECTION>
+On-screen, Brenda examines five magnified signatures.
+</DIRECTION>
+<DIRECTION>
+ADRIAN MONTAGU, HAMILTON KOPP, ALFRED BURGESS, WALLINGFORD BENOIT, RUSSELL NASH.
+</DIRECTION>
+<DIRECTION>
+Erik runs another program, overlaying individual let- ters from the combined signatures -- T's on T's, N's over N's, etc.
+</DIRECTION>
+<DIRECTION>
+They're identical.
+</DIRECTION>
+<DIRECTION>
+Dramatically, he spins around on his chair.
+</DIRECTION>
+<ERIK>
+	<DIALOGUE>
+	So what you got here, Brenda is a guy who's been creeping around since at least 1700. Pretending to croak every once in a while, leaving all his possessions to kids who've been corpses for years -- and assuming their identities.
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	It's not possible.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+CUT TO: :SC: KENNY WATCHING TV NEWS
+</DIRECTION>
+<DIRECTION>
+in the Ansonia lobby. Derelicts snore in harmony.
+</DIRECTION>
+<NEWSCASTER>
+	<DIALOGUE>
+	Public outrage mounts this hour as New York's finest seem powerless to stop the Head-Hunter.
+	</DIALOGUE>
+</NEWSCASTER>
+<DIRECTION>
+The Kurgan leaves the elevator.
+</DIRECTION>
+<DIRECTION>
+Carrying his oblong case, crossing the lobby.
+</DIRECTION>
+<DIRECTION>
+It's late.
+</DIRECTION>
+<KENNY>
+<DIRECTION>
+(seeing him)
+</DIRECTION>
+	<DIALOGUE>
+	Hey Rockefeller. How did you like Candy? She said you were kinda kinky.
+	</DIALOGUE>
+</KENNY>
+<DIRECTION>
+The Kurgan stops, staring at him.
+</DIRECTION>
+<KENNY>
+	<DIALOGUE>
+	You watch your ass out there.
+	</DIALOGUE>
+<DIRECTION>
+(cackling)
+</DIRECTION>
+	<DIALOGUE>
+	Don't let the Head-Hunter getcha!
+	</DIALOGUE>
+</KENNY>
+<DIRECTION>
+The Kurgan walks up to him, inches from his face. Kenny stares into eyes that are a vision of Hell.
+</DIRECTION>
+<THE_KURGAN>
+<DIRECTION>
+(rasping)
+</DIRECTION>
+	<DIALOGUE>
+	Don't speak to me.
+	</DIALOGUE>
+</THE_KURGAN>
+<KENNY>
+	<DIALOGUE>
+	I didn't mean --
+	</DIALOGUE>
+</KENNY>
+<THE_KURGAN>
+	<DIALOGUE>
+	Don't ever speak to me. Do you understand?
+	</DIALOGUE>
+</THE_KURGAN>
+<DIRECTION>
+He understands. The Kurgan leaves, Kenny staring after him.
+</DIRECTION>
+<KENNY>
+	<DIALOGUE>
+	Hope you get your head chopped off, asshole.
+	</DIALOGUE>
+</KENNY>
+<DIRECTION>
+CUT TO: :SC: KIRK MATUNAS
+</DIRECTION>
+<DIRECTION>
+driving 23rd in a souped-up Mustang.
+</DIRECTION>
+<DIRECTION>
+He's wiry, in fatigues, T-shirt, forage-cap and boots. Headlights reflect in his sunglasses.
+</DIRECTION>
+<DIRECTION>
+Gun magazines on the seat, assault weapons in the back, Uzi machine-pistol on the dash. Nobody's gonna mug this sucker.
+</DIRECTION>
+<MATUNAS>
+<DIRECTION>
+(singing)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, she jumped in bed, And she covered her head, Bet I couldn't find her.
+	</DIALOGUE>
+</MATUNAS>
+<DIRECTION>
+He turns down 2nd Avenue, gathering speed.
+</DIRECTION>
+<MATUNAS>
+<DIRECTION>
+(continuing; singing)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, her titties were pink As a red rooster's --
+	</DIALOGUE>
+</MATUNAS>
+<DIRECTION>
+He brakes suddenly, revving back, fishtailing to a halt, staring down an alley.
+</DIRECTION>
+<DIRECTION>
+A black guy and a white guy battle with swords.
+</DIRECTION>
+<DIRECTION>
+Matunas grabs the Uzi, springing into action.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THE KURGAN AND KASTAGIR IN THE ALLEY
+</DIRECTION>
+<DIRECTION>
+Fighting savegely. Matunas appears, thunderstruck.
+</DIRECTION>
+<MATUNAS>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	What the hell's going on?
+	</DIALOGUE>
+</MATUNAS>
+<DIRECTION>
+They continue hammering at each other. Matunas slams a clip into the Uzi, taking aim.
+</DIRECTION>
+<DIRECTION>
+Horrified, he sees the white guy decapitate the black guy.
+</DIRECTION>
+<DIRECTION>
+Matunas starts FIRING.
+</DIRECTION>
+<DIRECTION>
+Five slugs tear into the white guy's chest, flinging him against a fence. He falls. Matunas disappears down the alley.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: A SMALL CROWD GATHERS
+</DIRECTION>
+<DIRECTION>
+on 2nd Avenue. A vintage Chevy pulls up at the curb, ENGINE RUNNING. Inside, AN OLD COUPLE try to see what's going on.
+</DIRECTION>
+<DIRECTION>
+MATUNAS
+</DIRECTION>
+<DIRECTION>
+creeps down the dark alley. He checks the black guy. He's a goner.
+</DIRECTION>
+<DIRECTION>
+Suddenly, the white guy he shot lunges with a sword, driving the blade into Matuna's stomach. SCREAMING, he falls, dropping his Uzi.
+</DIRECTION>
+<DIRECTION>
+Ignoring him, the Kurgan hunches over Kastagir's body. Matunas sees weird things happen:
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+THE CROWD
+</DIRECTION>
+<DIRECTION>
+on 2nd Avenue freaks. STREET-LIGHTS DIM. WINDOWS EXPLODE in buildings. NEON SIGNS ERUPT. MANHOLE COVERS BLAST skyward.
+</DIRECTION>
+<DIRECTION>
+Riddled with bullet-holes, the Kurgan staggers out of the alley, CURSING, wielding his sword. The crowd scatters in terror.
+</DIRECTION>
+<DIRECTION>
+Hearing distant SIRENS, the Kurgan looks for a ride, spotting the Chevy on the curb.
+</DIRECTION>
+<DIRECTION>
+Bellowing, he charges, sword swinging, opening the Chevy's roof like a tin can.
+</DIRECTION>
+<DIRECTION>
+Prying it open with his bare hands, he sees the old couple staring up at what used to be their roof. The next second, they're airborne, hurled to the sidewalk.
+</DIRECTION>
+<DIRECTION>
+Leaping inside, the Kurgan takes off. Tires SHRIEKING, roof flapping, he hurtles away down 2nd Avenue.
+</DIRECTION>
+<DIRECTION>
+:SC: MORAN AND BEDSOE ENTERING BELLEVUE HOSPITAL
+</DIRECTION>
+<DIRECTION>
+shoving REPORTERS aside.
+</DIRECTION>
+<REPORTERS>
+<DIRECTION>
+(V.O) (shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Did he see the Head-Hunter? What's the victim's name? Come on, Moran!
+	</DIALOGUE>
+</REPORTERS>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+MORAN AND BEDSOE IN AN ASCENDING ELEVATOR
+</DIRECTION>
+<DIRECTION>
+watching floor numbers.
+</DIRECTION>
+<BEDSOE>
+	<DIALOGUE>
+	Frank, I saw the corpse. The black guy was the same dude who was with Nash. I spent the night with them, for Christ's sake.
+	</DIALOGUE>
+</BEDSOE>
+<MORAN>
+	<DIALOGUE>
+	Right. Drunk out of your skull.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+Embarrassed, Bedsoe checks his shoes. Moran gets a cigar going.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	20 people were there and nobody saw a goddamn thing.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	That's New York for you.
+	</DIALOGUE>
+<DIRECTION>
+(lights cigar)
+</DIRECTION>
+	<DIALOGUE>
+	So tell me about this guy Matunas. Is he on drugs?
+	</DIALOGUE>
+</MORAN>
+<BEDSOE>
+	<DIALOGUE>
+	No. Some kind of survival nut.
+	</DIALOGUE>
+</BEDSOE>
+<MORAN>
+	<DIALOGUE>
+	Survival nut?
+	</DIALOGUE>
+</MORAN>
+<BEDSOE>
+	<DIALOGUE>
+	Yeah. Into guns. Former Marine. Vietnam. I checked with his ex-CO. Slightly paranoid, but definitely reliable.
+	</DIALOGUE>
+</BEDSOE>
+<DIRECTION>
+CUT TO: :SC: MATUNAS
+</DIRECTION>
+<DIRECTION>
+propped up in bed, abdomen bandaged.
+</DIRECTION>
+<DIRECTION>
+Tube in his arm. Moran and Bedsoe enter.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	How're you doing, kid?
+	</DIALOGUE>
+</MORAN>
+<MATUNAS>
+	<DIALOGUE>
+	Okay, I guess -- for a guy who got three feet of steel crammed up his ass. How're you doin', old man?
+	</DIALOGUE>
+</MATUNAS>
+<MORAN>
+	<DIALOGUE>
+	Walt says you got a look at the guy who stuck you, right?
+	</DIALOGUE>
+</MORAN>
+<MATUNAS>
+	<DIALOGUE>
+	Are you kiddin', man?
+	</DIALOGUE>
+</MATUNAS>
+<DIRECTION>
+Moran shows him a shot of MacLeod.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	This him?
+	</DIALOGUE>
+</MORAN>
+<MATUNAS>
+	<DIALOGUE>
+	Nope.
+	</DIALOGUE>
+</MATUNAS>
+<MORAN>
+	<DIALOGUE>
+	Come on, Matunas. It was dark in that alley.
+	</DIALOGUE>
+</MORAN>
+<MATUNAS>
+<DIRECTION>
+(screeching)
+</DIRECTION>
+	<DIALOGUE>
+	The freak was stabbing me to death. I'll never forget his face. He had a scar right across his throat.
+	</DIALOGUE>
+<DIRECTION>
+(re: photo)
+</DIRECTION>
+	<DIALOGUE>
+	And that ain't him.
+	</DIALOGUE>
+</MATUNAS>
+<DIRECTION>
+Moran sags onto the bed.
+</DIRECTION>
+<MATUNAS>
+	<DIALOGUE>
+	Depressed?
+	</DIALOGUE>
+<DIRECTION>
+Moran shrugs.
+</DIRECTION>
+<MATUNAS>
+	<DIALOGUE>
+	You don't know grunt about depressed
+	</DIALOGUE>
+<DIRECTION>
+(sits up painfully)
+</DIRECTION>
+	<DIALOGUE>
+	I got me a .357, a trunkful of shotguns, three big-bore battle rifles and ammo out the ass. I can't protect myself.
+	</DIALOGUE>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	I ain't safe -- !
+	</DIALOGUE>
+<DIRECTION>
+(wincing)
+</DIRECTION>
+	<DIALOGUE>
+	That weirdo with the sword, man. He got up and stabbed me after I put enough lead in him to drop a rhino.
+	</DIALOGUE>
+<DIRECTION>
+(collapsing)
+</DIRECTION>
+	<DIALOGUE>
+	Don't talk to me about depressed.
+	</DIALOGUE>
+<DIRECTION>
+Moran rises wearily.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Could you work with an artist and come up with a picture of the guy?
+	</DIALOGUE>
+</MORAN>
+<MATUNAS>
+	<DIALOGUE>
+	Sure.
+	</DIALOGUE>
+</MATUNAS>
+<DIRECTION>
+Moran and Bedsoe head for the door.
+</DIRECTION>
+<MATUNAS>
+	<DIALOGUE>
+	Hey, cop.
+	</DIALOGUE>
+<DIRECTION>
+Moran turns.
+</DIRECTION>
+<MATUNAS>
+	<DIALOGUE>
+	I know you think I'm nuts. But there's something else I gotta tell you.
+	</DIALOGUE>
+<DIRECTION>
+CUT TO: :SC: MORAN AND BEDSOE HEADING FOR THE EXIT
+</DIRECTION>
+<DIRECTION>
+Reporters clamor outside.
+</DIRECTION>
+<MORAN>
+<DIRECTION>
+(seeing pres)
+</DIRECTION>
+	<DIALOGUE>
+	Just say we got an eyewitness. That's it. Nothing about sword- fights in the 20th Century.
+	</DIALOGUE>
+<DIRECTION>
+(jabs Bedsoe's chest)
+</DIRECTION>
+	<DIALOGUE>
+	Guys glowing in the dark. Or soldiers crawling around in the snow at Valley Forge, looking for Washington's wooden teeth. Got it, Walt?
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+They walk into the uproar.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: A NEWS VENDOR AT 57TH AND 7TH
+</DIRECTION>
+<DIRECTION>
+Rush-hour crowds buy The Post. A composite of the Kurgan is front page.
+</DIRECTION>
+<NEWS_VENDOR>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Extra! Cops release Head-Hunter picture. Head-Hunter revealed.
+	</DIALOGUE>
+</NEWS_VENDOR>
+<DIRECTION>
+Headline:
+</DIRECTION>
+	<DIALOGUE>
+	HAVE YOU SEEN THIS MAN?
+	</DIALOGUE>
+<DIRECTION>
+CUT TO: :SC: MACLEOD
+</DIRECTION>
+<DIRECTION>
+lighting candles in St. Patrick's Cathedral.
+</DIRECTION>
+<DIRECTION>
+Beside the altar. Soaring columns, stained-glass win- dows. People pray. Priests glide about.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(1st candle)
+</DIRECTION>
+	<DIALOGUE>
+	For you, my bonnie Heather. Happy birthday.
+	</DIALOGUE>
+<DIRECTION>
+(lights 2nd)
+</DIRECTION>
+	<DIALOGUE>
+	And you, Juan Ramirez.
+	</DIALOGUE>
+<DIRECTION>
+(remembering)
+</DIRECTION>
+	<DIALOGUE>
+	Take care of her, you overdressed haggis.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Moving to an empty pew, he sits silently, lost in the past.
+</DIRECTION>
+<DIRECTION>
+In front of him, the candles blur. The ceiling starts to spin. Turning, MacLeod see the Kurgan beside him in the pew.
+</DIRECTION>
+<DIRECTION>
+He's become a punk-rocker, straightened his hair, dyed it orange, and put on make-up.
+</DIRECTION>
+<DIRECTION>
+A line of safety-pins dangle from the scar across his throat. His mocking eyes roam the church.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Kastagir is gone. Only you and I remain. Chatting together here on holy ground.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+He leers.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You're revolting. What d'you think this is -- Hallowe'en?
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+	<DIALOGUE>
+	I am disguised. This way people will not recognize me.
+	</DIALOGUE>
+</KURGAN>
+<MACLEOD>
+	<DIALOGUE>
+	What do you want?
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+	<DIALOGUE>
+	Your head.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+MacLeod is a coiled spring. 2 MATRONS cross themselves, heading down the aisle.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	And the Prize.
+	</DIALOGUE>
+<DIRECTION>
+(the matrons pass by)
+</DIRECTION>
+	<DIALOGUE>
+	Happy Hallowe'en ladies!
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Scared witless, they leave.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	It was destined that the board would be cleared for the real players.
+	</DIALOGUE>
+</KURGAN>
+<MACLEOD>
+	<DIALOGUE>
+	I feel something coming from you. You're trying to conceal it from me. What is it?
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+	<DIALOGUE>
+	I conceal nothing.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+MacLeod's glittering eyes fix on the Kurgan's safety- pinned throat-scar.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Ramirez's blade did not cut deeply enough. He was right about you. You're slime.
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+<DIRECTION>
+(harshly)
+</DIRECTION>
+	<DIALOGUE>
+	Ramirez was an effete snob. He died on his knees.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Gloating, he remembers:
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THE KURGAN
+</DIRECTION>
+<DIRECTION>
+clutching Heather's neck, rising up from the ruins of MacLeod's 16th century stone house. SCREAMING, she tries to break free of his grip. It's hopeless.
+</DIRECTION>
+<KURGAN_V_O>
+	<DIALOGUE>
+	I took his head and raped his woman before his body was even cold.
+	</DIALOGUE>
+</KURGAN_V_O>
+<DIRECTION>
+Throwing Heather down, he rips off her clothes. She CRIES OUT brokenly. There's no one to hear.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THE KURGAN
+</DIRECTION>
+<DIRECTION>
+eyeballing MacLeod's stricken face in St. Patrick's. Understanding dawns in his lurid eyes.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	I see. Ramirez lied. The woman was not his. She was yours.
+	</DIALOGUE>
+<DIRECTION>
+(leering)
+</DIRECTION>
+	<DIALOGUE>
+	And she never told you. I wonder why. Perhaps I gave her something you never could, and secretly she yearned for my return.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+On his feet, MacLeod shakes with fury.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You sick bastard -- !
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He lunges for the sword inside his coat. The Kurgan's hands fly up in mock-horror.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Holy ground, Highlander. Remember what Ramirez taught you.
+	</DIALOGUE>
+</KURGAN>
+<MACLEOD>
+	<DIALOGUE>
+	You can't stay in here forever.
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+<DIRECTION>
+(smiling)
+</DIRECTION>
+	<DIALOGUE>
+	You're weak, Highlander. You will always be weaker than I.
+	</DIALOGUE>
+</KURGAN>
+<MACLEOD>
+	<DIALOGUE>
+	I'll be out front. Waiting.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+MacLeod leaves by the front doors. Metallic laughter rings through the church. Worshippers are outraged. A bald PRIEST confronts the Kurgan.
+</DIRECTION>
+<PRIEST>
+	<DIALOGUE>
+	This is the house of God. People are trying to pray. You're dis- turbing them.
+	</DIALOGUE>
+</PRIEST>
+<DIRECTION>
+The Kurgan kisses the Priest's hand noisily, dropping to his knees.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Forgive me, father. I am a worm.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Patting the Priest's head for luck, the Kurgan boogies down the aisle in hobnail boots.
+</DIRECTION>
+<DIRECTION>
+Safety-pins jangling at his throat, he heads for the back exit.
+</DIRECTION>
+<DIRECTION>
+He leaps out into the night. The DOOR BANGS. The Priest crosses himself.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA GRILLING RACHEL IN NASH'S ANTIQUE SHOP
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I want to see him, goddamnit.
+	</DIALOGUE>
+</BRENDA>
+<RACHEL>
+	<DIALOGUE>
+	I'm afraid that's impossible. Mr. Nash --
+	</DIALOGUE>
+</RACHEL>
+<BRENDA>
+	<DIALOGUE>
+	Nash is dead. He died at birth. Didn't he, Miss Ellenstein.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+MACLEOD
+</DIRECTION>
+<DIRECTION>
+suddenly SLAMS open the door, seeing Brenda.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	What are you doing here?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Looking for a dead guy named Nash. He died at birth in Syracuse.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+MacLeod looks at Brenda. She's done her homework, and she's not going to leave. He makes a decision.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Come on.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+CUT TO: :SC: MACLEOD AND BRENDA ENTERING HIS PRIVATE APARTMENT
+</DIRECTION>
+<DIRECTION>
+She's dumbfounded staring at the opulent surroundings. He moves to the bar.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Do you want a scotch?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Is is Old?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	It's 12 years old. Do you want some or not?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She nods. He pours drinks, handing her one. Taking her arm, he leads her down a hall.
+</DIRECTION>
+<DIRECTION>
+MACLEOD AND BRENDA ENTER HIS SILVER ROOM
+</DIRECTION>
+<DIRECTION>
+Her expression changes to awe.
+</DIRECTION>
+<DIRECTION>
+The room is filled with suits of armor, Italian statuettes, Persian fetishes, and a thousand other oddities from a hundred eras.
+</DIRECTION>
+<DIRECTION>
+The sight is overwhelming.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	My God.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Astonished, she strolls around, touching artifacts. He watches her.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(continuing; pointing)
+</DIRECTION>
+	<DIALOGUE>
+	Is that claymore real?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He lets go. Years of isolation melt in the sound of her voice.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Brenda runs her hand along the delicate weaving of a Carolingian tapestry.
+</DIRECTION>
+<DIRECTION>
+She turns and faces him.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I have been alive for four and a half centuries. And I cannot die.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+<DIRECTION>
+(nervously)
+</DIRECTION>
+	<DIALOGUE>
+	Right. And I'm an Amazon princess sent by Martians to save the world.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He's caressing her with his eyes, confushing her again.
+</DIRECTION>
+<DIRECTION>
+Crossing to a glass table, he picks up an ornate stiletto.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(continuing; alarmed)
+</DIRECTION>
+	<DIALOGUE>
+	What are you going to do with that?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He offers her the hilt.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Take it.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Reluctantly, her fingers close over the handle.
+</DIRECTION>
+<DIRECTION>
+Suddenly, MacLeod kneels before her, tearing open his shirt, exposing his chest.
+</DIRECTION>
+<DIRECTION>
+In one blurred move, he grabs her fist. She tries to drop the dagger, but his grip is like steel.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I am Conner MacLeod of the Clan MacLeod. I was born in 1518, in the village of Glamis, on the shores of Loch Shiel.
+	</DIALOGUE>
+<DIRECTION>
+(tightening his grip)
+</DIRECTION>
+	<DIALOGUE>
+	And I am immortal.
+	</DIALOGUE>
+<DIRECTION>
+In a flash, he pulls her fist forward:
+</DIRECTION>
+<DIRECTION>
+Plunging the stiletto into his heart.
+</DIRECTION>
+<DIRECTION>
+Letting go, she screams. He collapses, moaning. Freaking out, Brenda watches:
+</DIRECTION>
+<DIRECTION>
+MacLeod pulls the dagger out of his heart.
+</DIRECTION>
+<DIRECTION>
+The wound heals. He stands up. Brenda is lost.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA AND MACLEOD AT THE DINNER TABLE
+</DIRECTION>
+<DIRECTION>
+She's flushed, excited in the presence of living history. MacLeod pours brandy, getting comfortable. Brenda watches him draw on his cigar.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I've got a million questions. I don't know what to ask first.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	I have all the time in the world.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	You were with Napoleon at Waterloo.
+	</DIALOGUE>
+<DIRECTION>
+(he nods)
+</DIRECTION>
+	<DIALOGUE>
+	What was he like?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Short. French. Wore his hat sideways.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She spots the silver-frame photo of MacLeod with a 12-year-old girl.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Is this your daughter?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	What's her name?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Rachel.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Brenda frowns. Slowly realizing, she points (O.S.)
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	You mean that Rachel?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+<DIRECTION>
+(nodding)
+</DIRECTION>
+	<DIALOGUE>
+	Yes. She was an orphan. I can't have children. I adopted her.
+	</DIALOGUE>
+<DIRECTION>
+(drolly)
+</DIRECTION>
+	<DIALOGUE>
+	Over the years, our relationship has gone through qquite a few changes.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	She's old enough to be your mother.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Sometimes she thinks she is.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Rising, he takes the Samurai from the sheath in his coat, laying it before her.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	This was forged in 593 B.C. Metal folded over 200 times.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He enjoys her amazement.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(continuing gently)
+</DIRECTION>
+	<DIALOGUE>
+	Like finding a 747 a thousand years before the Wright Brothers flew. Right?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She runs her fingers over the blade.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	This belonged to Ramirez?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Reality hits her like a bolt. She's alone with an immortal, holding a sword forged half-a-century before Christ.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	How many men have you killed with this?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Too many. They're all gone. Except for one.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He kisses her.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD AND BRENDA MAKING PASSIONATE LOVE
+</DIRECTION>
+<DIRECTION>
+She grips his scar-covered back. He tastes her face and neck.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: HEATHER DYING IN THE 16TH CENTURY
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD AND BRENDA IN BED
+</DIRECTION>
+<DIRECTION>
+Head on his chest, she feels his breathing, stroking his muscular chest.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	You're like the sun, going on for ever and ever.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	The sun will burn out in ten billion years.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Then what'll you do -- walk around in the dark?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He kisses her. She touches his cheek.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Tell me more about Heather.
+	</DIALOGUE>
+<DIRECTION>
+He frowns, sitting up.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	In all these years, she was the only one you really loved, right?
+	</DIALOGUE>
+<DIRECTION>
+He bounces out of bed stark naked, deciding to go into the bathroom. She SHOUTS after him.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	And losing her was too painful to bear -- was that it?
+	</DIALOGUE>
+<DIRECTION>
+(silence)
+</DIRECTION>
+	<DIALOGUE>
+	Come on. In every relationship, somebody has to die first.
+	</DIALOGUE>
+<MACLEOD>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Yes, but the survivor doesn't have to go on forever.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He turns on the SHOWER, FULL-BLAST.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	It's not just your body that's covered in scars. D'you know that?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+The shower STOPS. Towel around his waist, he marches out of the bathroom.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I don't want to talk about this.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	I wouldn't want you to spend 10,000 years in a hair shirt if I was Heather.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Doing his best to ignore her, he stacks magazines.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I heard Christiaan Barnard on TV one time.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Who?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Heart guy. He did the first transplant.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	I don't have heart trouble.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Oh, yes, you do.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	Anyway, Barnard's patients always wanted to live longer. That's why they came to him. For new hearts. But he wouldn't give any guarantees. All he could promise them was freedom from pain.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	What is your point?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	My point is, Ramirez was wrong. Just one year of love. though it ends in death, is better than an eternity alone.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Are you making a proposal?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Seductively, she pulls the sheet around her.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Not me. Besides, we've only just met.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	Come here a minute.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Why?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	I want to check your pulse.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He's on her in a flash.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MORAN AND BRENDA WALKING DOWN A HALLWAY
+</DIRECTION>
+<DIRECTION>
+She's pissed.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Frank, call off Bedsoe. I don't need any protection.
+	</DIALOGUE>
+</BRENDA>
+<MORAN>
+	<DIALOGUE>
+	You saw Nash at least twice. Why?
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+They descend stairs in a wave of milling cops.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I was looking for something.
+	</DIALOGUE>
+</BRENDA>
+<MORAN>
+	<DIALOGUE>
+	Did you find it?
+	</DIALOGUE>
+</MORAN>
+<BRENDA>
+	<DIALOGUE>
+	Maybe.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Moran jams his cigar in his mouth. They arrive at Brenda's office.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Brenda, there's stuff going on in this Head-Hunter case you wouldn't believe. Nash is involved somehow. I don't want you hurt.
+	</DIALOGUE>
+</MORAN>
+<BRENDA>
+	<DIALOGUE>
+	I'm okay. I promise.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+She smiles, unlocking her office, going inside.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: BRENDA AND MACLEOD TOURING THE BRONX ZOO
+</DIRECTION>
+<DIRECTION>
+eating popcorn. They pause at:
+</DIRECTION>
+<DIRECTION>
+THE GIRAFFE ENCLOSURE
+</DIRECTION>
+<DIRECTION>
+He's pensive. she's energized
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I had it all laid out. Forensics. In 3 years, a lectureship at Columbia. Tenure. Husband, couple of kids.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He nods distractedly, eyes riveted on:
+</DIRECTION>
+<DIRECTION>
+A LONE WOLF IN A CAGE
+</DIRECTION>
+<DIRECTION>
+staring at him. The connection between man and beast is timeless. Their heartbeats and breathing become one.
+</DIRECTION>
+<DIRECTION>
+In his mind, Ramirez's VOICE ECHOES down 400 years:
+</DIRECTION>
+<RAMIREZ_S_VOICE>
+	<DIALOGUE>
+	I had to go on, never again to hear the sound of her voice, her laughter. She left behind such a silence.
+	</DIALOGUE>
+</RAMIREZ_S_VOICE>
+<DIRECTION>
+The wolf turns away. MacLeod's mind reels.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	You're not, listening.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Brenda, this isn't going to work. I can't get involved with someone. Not again.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+<DIRECTION>
+(quickly)
+</DIRECTION>
+	<DIALOGUE>
+	Who said anything about being involved?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Hiding her feelings, she moves to:
+</DIRECTION>
+<DIRECTION>
+BIRDS IN AN AVIARY
+</DIRECTION>
+<DIRECTION>
+Parrots SCREECH. He joins her.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	If all you want's an occasional night together, that's fine with me.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+All around the zoo, wild-life starts to act strangely. Tigers claw their cages. Monkeys go crazy. Hyenas attack one another.
+</DIRECTION>
+<DIRECTION>
+Bears try to climb out of their pit. The hairs on the back of
+</DIRECTION>
+<DIRECTION>
+MacLeod's neck stand up. His mind reels.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(looking around)
+</DIRECTION>
+	<DIALOGUE>
+	It's not that simple.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	You think I'm going to turn you in to Moran
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+From every direction, SHRIEKS, GROWLS, TRUMPETINGS.
+</DIRECTION>
+<DIRECTION>
+Visitors think it's feeding time, but MacLeod knows different. His eyes are everywhere, searching for the Kurgan.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	No, I don't think you'll do that.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He reaches for her hand. She pulls it away.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	There's something I want to say.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+A happy-faced CLOWN wanders past, selling balloons.
+</DIRECTION>
+<DIRECTION>
+MacLeod's hand is under the shoulder of his coat, gripping his sword, scanning every passing face, searching for his mortal enemy.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	I love you.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	But you're locked away in your own private world of memories. No future. Unable to care. Afraid.
+	</DIALOGUE>
+<DIRECTION>
+THE KURGAN IN THE CHILDREN'S ENCLOSURE
+</DIRECTION>
+<DIRECTION>
+Surrounded by kids petting sweet, furry things. He peers through the trees.
+</DIRECTION>
+<DIRECTION>
+AT THE PENGUIN-POOL
+</DIRECTION>
+<DIRECTION>
+Excited kids jostle and SHOUT. MacLeod is in turmoil.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	You know what's kind of weird? Most people are afraid to die. That's not your problem. You're afraid to live.
+	</DIALOGUE>
+<DIRECTION>
+(rises)
+</DIRECTION>
+	<DIALOGUE>
+	Take care of yourself
+	</DIALOGUE>
+<DIRECTION>
+(kisses him)
+</DIRECTION>
+	<DIALOGUE>
+	Don't lose your head.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+She turns and walks for the exit.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+THE KURGAN
+</DIRECTION>
+<DIRECTION>
+watches Brenda leave. A KID hands him a rabbit. He strokes it. It struggles, biting him hard. Flinging it from him, he takes off.
+</DIRECTION>
+<DIRECTION>
+:SC: BRENDA GETS OUT OF HER APARTMENT ELEVATOR
+</DIRECTION>
+<DIRECTION>
+It's dark and late. The building's empty.
+</DIRECTION>
+<DIRECTION>
+Jostling an armful of books, she starts down the corridor.
+</DIRECTION>
+<DIRECTION>
+Turning a corner she suddenly FREEZES.
+</DIRECTION>
+<DIRECTION>
+The books tumble out of her arms onto the floor.
+</DIRECTION>
+<DIRECTION>
+Standing at the end of the corridor, smiling, is the Kurgan, in black leather, buckles and stomping-boots. His hair is shaved into an orange mohawk.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Hello, pretty.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+The Kurgan starts for her, carrying a huge, broadsword.
+</DIRECTION>
+<DIRECTION>
+Brenda screams and runs for her apartment.
+</DIRECTION>
+<DIRECTION>
+The Kurgan is in no hurry.
+</DIRECTION>
+<DIRECTION>
+Brenda looks back at the Kurgan. Crying in fear, she frantically tries to get her keys into the lock of her apartment.
+</DIRECTION>
+<DIRECTION>
+The Kurgan is nearly upon her.
+</DIRECTION>
+<DIRECTION>
+Brenda throws open the door, runs inside, and locks it.
+</DIRECTION>
+<DIRECTION>
+Beat.
+</DIRECTION>
+<DIRECTION>
+CRASH!!
+</DIRECTION>
+<DIRECTION>
+THE KURGAN hammers his sword deep into the wood of the door.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(crying)
+</DIRECTION>
+	<DIALOGUE>
+	Oh, God...
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He strikes again. And again. Splinters smack everywhere.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Go away! Oh, God, go away!
+	</DIALOGUE>
+<DIRECTION>
+Hysterical, Brenda sinks to the floor against her desk.
+</DIRECTION>
+<DIRECTION>
+THE KURGAN stands back and gives the door a last two- fisted swing.
+</DIRECTION>
+<DIRECTION>
+Brenda screams.
+</DIRECTION>
+<DIRECTION>
+The door collapses.
+</DIRECTION>
+<DIRECTION>
+The hellish figure stands over her in the doorway.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	For God's sake...
+	</DIALOGUE>
+<KURGAN>
+	<DIALOGUE>
+	There is no God. Only me.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+CUT TO: :SC: A SPEEDING CAR RACES THROUGH THE CITY
+</DIRECTION>
+<DIRECTION>
+The Kurgan takes a cassette from his pocket, slotting it in. DEAFENING MUSIC fills the car:
+</DIRECTION>
+<DIRECTION>
+It's the KURGAN'S ANTHEM.
+</DIRECTION>
+<DIRECTION>
+Brenda is trying to get her bearings.
+</DIRECTION>
+<DIRECTION>
+MUSIC SHRIEKS, her ears burst. Cars rocket past like bullets. Speedometer 90 and climbing.
+</DIRECTION>
+<DIRECTION>
+Brenda stares at the Mohawk abortion with his foot to the floor.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	Stop. Please, stop.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+The Kurgan erupts in maniacal laughter.
+</DIRECTION>
+<DIRECTION>
+Brenda hangs on for dear life. Everything's a blur. Any second, she's going to die.
+</DIRECTION>
+<DIRECTION>
+Engine WHINING, MUSIC POUNDING, eyeballing his captive:
+</DIRECTION>
+<DIRECTION>
+The Kurgan runs chicken down the avenue, not stopping for red lights.
+</DIRECTION>
+<DIRECTION>
+Flat-out, stopping for nothing, getting his rocks off, shrieking like a banshee.
+</DIRECTION>
+<DIRECTION>
+In his wake, a maelstrom of wreckage and terror.
+</DIRECTION>
+<DIRECTION>
+ANTHEM BLARING, he flings the Cutlass into the dark mouth of the Mid-Town Tunnel.
+</DIRECTION>
+<DIRECTION>
+Brenda screams.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MACLEOD SLUMPED ON A COUCH IN HIS LIVING ROOM
+</DIRECTION>
+<DIRECTION>
+replaying a RECORDED message:
+</DIRECTION>
+<KURGAN_S_VOICE>
+	<DIALOGUE>
+	She gave me your number. She didn't want to at first. Listen.
+	</DIALOGUE>
+</KURGAN_S_VOICE>
+<DIRECTION>
+Brenda sobs.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	She's hot, Highlander. I think she wants me. What part of her shall I cut off first?
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+More CRYING. MacLeod shuts it off. Rachel at the door.
+</DIRECTION>
+<RACHEL>
+	<DIALOGUE>
+	The endless killing has driven him mad.
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+Rising, he puts on his coat and checks his Samurai, holding her face in his hands.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Rachel, there are some instructions in the desk drawer. I want you to follow them. There's a power-of- attorney for you. You'll have everything you need.
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+<DIRECTION>
+(realizing)
+</DIRECTION>
+	<DIALOGUE>
+	You're not coming back.
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+Silence.
+</DIRECTION>
+<RACHEL>
+	<DIALOGUE>
+	Even if you kill him, you're not coming back. Are you?
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+He sits her down, holding her hands.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(gently)
+</DIRECTION>
+	<DIALOGUE>
+	Sweet Rachel, you always knew this would happen.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	Russell Nash dies tonight. One way or the other. It's time.
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+<DIRECTION>
+(crying)
+</DIRECTION>
+	<DIALOGUE>
+	There's no one in my life but you.
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+MacLeod gives her a handkerchief.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You still have a lot of life to live.
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+	<DIALOGUE>
+	I'm afraid.
+	</DIALOGUE>
+</RACHEL>
+<MACLEOD>
+	<DIALOGUE>
+	A beautiful woman like you need never be alone or afraid.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He stands up, smiling down at her.
+</DIRECTION>
+<RACHEL>
+	<DIALOGUE>
+	What about Brenda?
+	</DIALOGUE>
+</RACHEL>
+<MACLEOD>
+	<DIALOGUE>
+	He's given me an hour.
+	</DIALOGUE>
+</MACLEOD>
+<RACHEL>
+	<DIALOGUE>
+	I understand.
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+He kisses her, hugging her tight.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Goodbye, dearest Rachel. My daughter. My good friend.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He leaves. Long silence. Tears roll down her cheeks.
+</DIRECTION>
+<RACHEL>
+<DIRECTION>
+(whispering)
+</DIRECTION>
+	<DIALOGUE>
+	Goodbye, Russell Nash.
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+CUT TO: :SC: CONEY ISLAND AMUSEMENT PARK AT NIGHT
+</DIRECTION>
+<DIRECTION>
+Bitter cold. A sign reads:
+</DIRECTION>
+<DIRECTION>
+CLOSED. NO ADMITTANCE.
+</DIRECTION>
+<DIRECTION>
+Breakers pound the beach. WIND HOWLS through the park.
+</DIRECTION>
+<DIRECTION>
+The roller-coaster's a prehistoric monster. Light flickers from a merry-go-round pavilion.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THE KURGAN ASSEMBLING HIS SWORD
+</DIRECTION>
+<DIRECTION>
+Inside the pavilion, slotting the blade into place.
+</DIRECTION>
+<DIRECTION>
+Sprawled in sawdust, Brenda stares at carved wooden horses. Shivering, she sits up, trying to figure out where she is.
+</DIRECTION>
+<DIRECTION>
+The Kurgan looms over her, blade gleaming.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	A nice sleep, yes?
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+She tries to rise. He sets his sword-point at her throat.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	One move, whore, and I'll slice you to bits.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+He forces her back. She's freezing and terrified.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	You're an animal.
+	</DIALOGUE>
+</BRENDA>
+<KURGAN>
+	<DIALOGUE>
+	I am Kurgan. Warrior eternal. I have carved my name in the flesh of Venetian princes, raped the daughters of Attila the Hun, and set ablaze the seven hills of Rome.
+	</DIALOGUE>
+<DIRECTION>
+(grating)
+</DIRECTION>
+	<DIALOGUE>
+	You are nothing. Born and dead in the blink of my eye.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	You are my slave, and will give me whatever pleasure I demand.
+	</DIALOGUE>
+</KURGAN>
+<BRENDA>
+	<DIALOGUE>
+	You puffed-up turd. You don't have the equipment.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+She spits at him. He glares in fury.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Come on. Kill me. You're going to do it anyway.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	What's the matter? No balls?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+The Kurgan smiles. She's clever, this bitch.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	I see. You try to anger me, so I kill you before you lover arrives. Then I have no advantage.
+	</DIALOGUE>
+</KURGAN>
+<BRENDA>
+<DIRECTION>
+(staggers up)
+</DIRECTION>
+	<DIALOGUE>
+	I'm nothing to him. Just a roll in the hay.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Breath billowing, mohawk trembling, he wonders if that's true. Suddenly he freezes, staring out into the dark.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	He cares for you. More than you think. I can feel his approach.
+	</DIALOGUE>
+<DIRECTION>
+(a beat)
+</DIRECTION>
+	<DIALOGUE>
+	My advantage is real.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Grabbing a hammer, she hurls it at him. He bats it away with his sword, slapping her across the face.
+</DIRECTION>
+<DIRECTION>
+MacLeod appears, samurai in hand.
+</DIRECTION>
+<DIRECTION>
+The Kurgan drags Brenda up by the hair, hand over her mouth, blade resting across her neck. MacLeon starts forward.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Stop, or I'll cut her.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Tense as a cobra, MacLeod stops.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Let her go.
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+	<DIALOGUE>
+	I don't think so.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+He yanks her head farther back, eyes on the Highlander.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	If you care what happens to her. put down your sword and walk away.
+	</DIALOGUE>
+<DIRECTION>
+(pointing)
+</DIRECTION>
+	<DIALOGUE>
+	Over there.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Brenda fights to break his grip. The Kurgan chokes her. MacLeod puts down his sword.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Very good. Now move.
+	</DIALOGUE>
+<DIRECTION>
+MacLeod moves.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	Kneel down, neck exposed.
+	</DIALOGUE>
+<MACLEOD>
+	<DIALOGUE>
+	Let her go first.
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+	<DIALOGUE>
+	Do you think thousands of years have made me an idiot?
+	</DIALOGUE>
+<DIRECTION>
+(barking)
+</DIRECTION>
+	<DIALOGUE>
+	Kneel -- !
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+Boiling, he obeys.
+</DIRECTION>
+<DIRECTION>
+Hurling Brenda away from him, the Kurgan swings mur- derously at MacLeod's exposed neck.
+</DIRECTION>
+<DIRECTION>
+Like a panther, MacLeod rolls, grabs his samurai, and meets the ROARING BLADE with a THUNDEROUS CLANG and a shower of sparks.
+</DIRECTION>
+<DIRECTION>
+MacLeod leaps to his feet.
+</DIRECTION>
+<KURGAN>
+	<DIALOGUE>
+	So now it ends. Generation upon generation. Millions of miles.
+	</DIALOGUE>
+<DIRECTION>
+Wielding his sword like a scythe, MacLeod attacks, driving the kurgan back in showers of sparks. BLADES CLANG in the gloom.
+</DIRECTION>
+<DIRECTION>
+The Kurgan blocks his parries brilliantly. They lock sword-hilts, face to face.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Kill him! Kill him!
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+The Kurgan hurls him across the pavilion. He lands on his back, winded.
+</DIRECTION>
+<DIRECTION>
+Yelling, the Kurgan charges, driving MacLeod out into the night. Brenda follows fearfully.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: A SAVAGE BATTLE RAGING THROUGH THE PARK
+</DIRECTION>
+<DIRECTION>
+Between the reptilian day-glo nightmare and the 466- year-old Highlander.
+</DIRECTION>
+<DIRECTION>
+Roller-coaster pilings are severed and collapse. Arcades demolished, ferris-wheel chairs hacked to bits. Energy crackles all around them.
+</DIRECTION>
+<DIRECTION>
+They battle beneath a huge red wooden fruit. Painted on it in lurid colors:
+</DIRECTION>
+<DIRECTION>
+FUN IN THE BIG APPLE.
+</DIRECTION>
+<DIRECTION>
+Circling, MacLeod's eyes burn into his ancient enemy.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I can sense it again. What I felt in the church. What are you hiding?
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+	<DIALOGUE>
+	Nothing.
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+They grapple like primordial beasts, sweat pouring off their bodies.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(realizing)
+</DIRECTION>
+	<DIALOGUE>
+	It's fear. That's what I feel. You're afraid of me. Kurgan, you're afraid of me.
+	</DIALOGUE>
+<DIRECTION>
+(hurling him back)
+</DIRECTION>
+	<DIALOGUE>
+	That's why you needed the woman. You didn't think you could take me.
+	</DIALOGUE>
+</MACLEOD>
+<KURGAN>
+<DIRECTION>
+(hoarsely)
+</DIRECTION>
+	<DIALOGUE>
+	Lies -- !
+	</DIALOGUE>
+</KURGAN>
+<DIRECTION>
+His rabid eyes can't hide the truth. MacLeod charges again, wielding Ramirez's sword full-strength.
+</DIRECTION>
+<DIRECTION>
+The Kurgan's arms feel like lead. Gasping, he re- treats to:
+</DIRECTION>
+<DIRECTION>
+The icy beach.
+</DIRECTION>
+<DIRECTION>
+MacLeod beating him back.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	All these years, I thought I was running from you. But it was myself.
+	</DIALOGUE>
+<DIRECTION>
+(contempuously)
+</DIRECTION>
+	<DIALOGUE>
+	You're not the perfect warrior. You're a coward.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+MacLeod batters him relentlessly. Each blocked blow saps Kurgan further.
+</DIRECTION>
+<DIRECTION>
+Beaten, he stands, gulping for air. MacLeod faces him, samurai poised for another blow.
+</DIRECTION>
+<DIRECTION>
+The Kurgan can't get it up. Brenda's rooted to the spot.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(continuing, to the Kurgan)
+</DIRECTION>
+	<DIALOGUE>
+	For Heather, Ramirez, Kastagir and all the others I never knew. And last, for the Highlander MacLeod of the Clan MacLeod --
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+He raises his Samurai.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	There can be only one.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Blade a WHISTLING blur:
+</DIRECTION>
+<DIRECTION>
+He cuts off the Kurgan's head.
+</DIRECTION>
+<DIRECTION>
+Transfixed, Brenda watches a sparkling energy leave the corpse and engulf MacLeod. Standing up:
+</DIRECTION>
+<DIRECTION>
+MacLeod glows all hues of the rainbow.
+</DIRECTION>
+<DIRECTION>
+His hair stands on end. Color erupts from his eyes. He's like a roman candle against the waves. The WIND HOWLS.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(continuing; screaming)
+</DIRECTION>
+	<DIALOGUE>
+	Mother of God -- !
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Terrified, she tries to touch him. It's like his skin's on fire.
+</DIRECTION>
+<BRENDA>
+<DIRECTION>
+(shouting)
+</DIRECTION>
+	<DIALOGUE>
+	What is it -- ?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Glowing, he falls to his knees in the sand.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	The Prize. It is the Prize.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Suddenly, everything's still. His eyes probe the darkness. There's a TERRIFYING EXPLOSION.
+</DIRECTION>
+<DIRECTION>
+Brenda watches MacLeod's body transform into many different people. His voice ECHOES over the surf.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Everything's alive. The Quickening overpowers me.
+	</DIALOGUE>
+<DIRECTION>
+(becoming Ramirez)
+</DIRECTION>
+	<DIALOGUE>
+	All resistance is gone. I am generations being born and dying.
+	</DIALOGUE>
+<DIRECTION>
+(becoming Fasil)
+</DIRECTION>
+	<DIALOGUE>
+	I am night air, breathing.
+	</DIALOGUE>
+<DIRECTION>
+(becoming unknown people)
+</DIRECTION>
+	<DIALOGUE>
+	The life-force smothers me.
+	</DIALOGUE>
+<DIRECTION>
+(becoming the Kurgan)
+</DIRECTION>
+	<DIALOGUE>
+	I am all of them.
+	</DIALOGUE>
+<DIRECTION>
+(becoming himself)
+</DIRECTION>
+	<DIALOGUE>
+	I can feel everything
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She's terrified. His form shifts and changes before her. Waves CRASH on the beach.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	I can feel your love. The blood in your veins.
+	</DIALOGUE>
+<DIRECTION>
+He reaches out to her.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Your fear of me.
+	</DIALOGUE>
+<DIRECTION>
+CUT TO: :SC: FIRE TRUCK
+</DIRECTION>
+<DIRECTION>
+converging on MacLeod's antique shop.
+</DIRECTION>
+<DIRECTION>
+SIRENS SCREAMING. It's a blazing inferno. Cops hold back crowds. Firemen direct hoses. Tears in her eyes:
+</DIRECTION>
+<DIRECTION>
+Rachel moves through the crowd.
+</DIRECTION>
+<DIRECTION>
+She's carrying the silver-framed 1952 photo of herself with Nash. Beams split in cascades of sparks.
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: MORAN
+</DIRECTION>
+<DIRECTION>
+stands on the sidewalk. T.V. crews film the blaze. Cops hold back gawkers behind barriers. Seeing Rachel, Moran takes her arm.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	I'm sorry. We couldn't get him out.
+	</DIALOGUE>
+</MORAN>
+<RACHEL>
+	<DIALOGUE>
+	I know.
+	</DIALOGUE>
+</RACHEL>
+<MORAN>
+<DIRECTION>
+(eyeing her)
+</DIRECTION>
+	<DIALOGUE>
+	The Head-Hunter got another one tonight.
+	</DIALOGUE>
+</MORAN>
+<RACHEL>
+<DIRECTION>
+(anxiously)
+</DIRECTION>
+	<DIALOGUE>
+	What was his name?
+	</DIALOGUE>
+</RACHEL>
+<MORAN>
+	<DIALOGUE>
+	Some guy named Kruger.
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+Relieved, she closes her eyes for a moment. MacLeod has won.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Why d'you ask, Miss Ellenstein?
+	</DIALOGUE>
+</MORAN>
+<RACHEL>
+	<DIALOGUE>
+	You can call me Rachel if you want.
+	</DIALOGUE>
+</RACHEL>
+<MORAN>
+	<DIALOGUE>
+	Rachel's a nice name
+	</DIALOGUE>
+<DIRECTION>
+(seeing photo)
+</DIRECTION>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</MORAN>
+<DIRECTION>
+She shows it him.
+</DIRECTION>
+<MORAN>
+	<DIALOGUE>
+	Nash.
+	</DIALOGUE>
+<DIRECTION>
+(she nods)
+</DIRECTION>
+	<DIALOGUE>
+	Who's the pretty young girl?
+	</DIALOGUE>
+<RACHEL>
+<DIRECTION>
+(smiling)
+</DIRECTION>
+	<DIALOGUE>
+	Would you like to get some coffee?
+	</DIALOGUE>
+</RACHEL>
+<DIRECTION>
+Puzzled, he looks at the photo, then at her. Taking his arm, she walks him off down the street.
+</DIRECTION>
+<DIRECTION>
+Behind them, the inferno RAGES
+</DIRECTION>
+<DIRECTION>
+CUT TO: :SC: THREE U.P.S. GUYS
+</DIRECTION>
+<DIRECTION>
+unloading MacLeod's aquarium off a truck.
+</DIRECTION>
+<DIRECTION>
+Reeling under its weight, they stagger up the steps of a brownstone, ringing the bell repeatedly.
+</DIRECTION>
+<DIRECTION>
+After an eternity, Bedsoe appears in striped pajamas, rubbing his eyes.
+</DIRECTION>
+<UPS_GUY>
+	<DIALOGUE>
+	You Bedsoe?
+	</DIALOGUE>
+</UPS_GUY>
+<BEDSOE>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</BEDSOE>
+<UPS_GUY>
+	<DIALOGUE>
+	Delivery. Fish. Heavy. Get out of the way.
+	</DIALOGUE>
+</UPS_GUY>
+<DIRECTION>
+Pushing past him with the tank, they disappear inside.
+</DIRECTION>
+<UPS_GUY_S_VOICE>
+	<DIALOGUE>
+	Where d'you want it?
+	</DIALOGUE>
+</UPS_GUY_S_VOICE>
+<BEDSOE>
+	<DIALOGUE>
+	Wait a minute. There must be some mistake. I didn't order any fish.
+	</DIALOGUE>
+</BEDSOE>
+<DIRECTION>
+CUT TO: :SC: MACLEOD ON THE FAN-TAIL OF A LINER, ALONE
+</DIRECTION>
+<DIRECTION>
+Bright sun, gulls astern. Passengers bask by a pool. Waiters serve drinks.
+</DIRECTION>
+<DIRECTION>
+He stares at the rolling ocean. Everything is different. There's a power and growing confidence in his eyes.
+</DIRECTION>
+<DIRECTION>
+Brenda appears in a summer dress, carrying glasses and an open bottle. She joins him, setting them on the rail, watching him in silence.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	A man named Armando Rafael Garcia, right now, is planning a military coup in Honduras. Many people may die.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	How do you know?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+<DIRECTION>
+(searching for words)
+</DIRECTION>
+	<DIALOGUE>
+	I can't explain it. I just do.
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	You mean like when the phone rings sometimes, and before you answer, you know who's calling?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Something like that. I'm just learning about it --
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	In Paris, Jean-Robert Tousche and Sylvie Arnaud live in adjoining houses.
+	</DIALOGUE>
+<DIRECTION>
+(turning to her)
+</DIRECTION>
+	<DIALOGUE>
+	They're deeply in love, but they never speak to each other.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+The breeze stirs her hair. The implications of what he's saying astound her.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	What are you going to do with all this power?
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	I don't know. I think I can help the people in Honduras, the lovers in paris.
+	</DIALOGUE>
+<DIRECTION>
+(shakes his head)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not sure how yet. I don't fully grasp it.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+Gulls hang on the wind. Changing mood, Brenda grins, digging him in the ribs.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Before you start saving lives in Honduras and lovers in Paris, will you do something for me?
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He blinks, focusing on her. His eyes are still magic. She loves him to death.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Yes. What would you like?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Will you take me to Scotland? I want to see where you were born.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+MacLeod is pleased. After all the years he's lived, the miles he's travelled, the thought of returning to the place where it all started moves him.
+</DIRECTION>
+<MACLEOD>
+<DIRECTION>
+(embracing her)
+</DIRECTION>
+	<DIALOGUE>
+	Are you sure this is what you want?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	I'm sure.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He strokes her face.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Will you call me Conner MacLeod? It's my real name. I long to hear it again.
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She tries not to cry. He holds her tight, looking into her eyes. He knows what she's thinking.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	Ramirez was wrong. Just one year of love is better than an eternity alone.
+	</DIALOGUE>
+<DIRECTION>
+Composure regained, she grins.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Right. Now it's time for the ceremony.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	What ceremony?
+	</DIALOGUE>
+</MACLEOD>
+<DIRECTION>
+She fills the glasses, handing him one.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+<BRENDA>
+	<DIALOGUE>
+	Plum brandy. 1976.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	1976?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	It was all I could find. Listen, 1976 was a very good year.
+	</DIALOGUE>
+<DIRECTION>
+(reciting)
+</DIRECTION>
+	<DIALOGUE>
+	America celebrated its 200th year of independence from England. One Flew Over The Cuckoo's Nest won five Academy Awards. And Pittsburgh beat Dallas in the Super Bowl.
+	</DIALOGUE>
+</BRENDA>
+<MACLEOD>
+	<DIALOGUE>
+	Is that right?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Yes. 21 to 17.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+He cracks up, kissing her eyes, mouth, hair. She pushes him away.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Wait. I'm not finished. I want to make a toast.
+	</DIALOGUE>
+<DIRECTION>
+He smiles, remembering the night at her apartment.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	To Time.
+	</DIALOGUE>
+<DIRECTION>
+They raise their glasses. She forgets her lines.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	How long do we have to stand like this?
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	Hold it a second. I'm trying to remember.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+Next second, she's ready. He wonders what's coming. She looks at him lovingly.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	In the sun that is young once only Time lets me hail and climb Golden in the heyday of his eyes.
+	</DIALOGUE>
+<DIRECTION>
+He blinks.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	In the moon that is always rising Time holds me green and dying Though i sing in my chains Like the sea.
+	</DIALOGUE>
+<DIRECTION>
+They clink glasses.
+</DIRECTION>
+<BRENDA>
+	<DIALOGUE>
+	Dylan Thomas.
+	</DIALOGUE>
+<DIRECTION>
+Moved, he drinks. Putting down her glass, she flings her arms around his neck, kissing him. He responds passionately.
+</DIRECTION>
+<MACLEOD>
+	<DIALOGUE>
+	You're quite a woman, Brenda Wyatt. I love you with all my heart
+	</DIALOGUE>
+</MACLEOD>
+<BRENDA>
+	<DIALOGUE>
+	And I love you.
+	</DIALOGUE>
+<DIRECTION>
+(touching his face.
+</DIRECTION>
+	<DIALOGUE>
+	My Conner MacLeod.
+	</DIALOGUE>
+</BRENDA>
+<DIRECTION>
+The liner moves away.
+</DIRECTION>
+<DIRECTION>
+FADE OUT.
+</DIRECTION>

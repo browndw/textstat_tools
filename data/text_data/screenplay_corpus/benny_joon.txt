@@ -1,0 +1,3770 @@
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In Benny’s garage.
+</DIRECTION>
+<Randy>
+	<DIALOGUE>
+	So were planning our next vacation right. I want Australia, she wants Italy. I like snorkelling. She likes garlic. All of a sudden, out of nowhere, she says to me do I need her? Jesus Benny, what kind of question is that? I mean need, what does it mean to really need somebody?
+	</DIALOGUE>
+</Randy>
+<Eric>
+	<DIALOGUE>
+	Benny, fuel line.
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	Hey Waldo, could you answer that phone?
+	</DIALOGUE>
+</Benny>
+<Waldo>
+	<DIALOGUE>
+	Yeah, Hello?
+	</DIALOGUE>
+</Waldo>
+<Postman>
+	<DIALOGUE>
+	I need a check Benny, C.O.D.
+	</DIALOGUE>
+</Postman>
+<Benny>
+	<DIALOGUE>
+	In a minute, meet me in the office.
+	</DIALOGUE>
+</Benny>
+<Postman>
+<DIRECTION>
+(quietly)
+</DIRECTION>
+	<DIALOGUE>
+	all right
+	</DIALOGUE>
+</Postman>
+<Benny>
+	<DIALOGUE>
+	Whoa, put that out, I got a fuel line broke.
+	</DIALOGUE>
+</Benny>
+<Waldo>
+	<DIALOGUE>
+	Hey Benny, it’s Joon on the phone again
+	</DIALOGUE>
+</Waldo>
+<Benny>
+	<DIALOGUE>
+	Well tell her I’ll call her back, ask her what she wants
+	</DIALOGUE>
+</Benny>
+<Waldo>
+	<DIALOGUE>
+	Its an emergency, she says your running low on peanut butter super chunks
+	</DIALOGUE>
+</Waldo>
+<Benny>
+<DIRECTION>
+(quietly)
+</DIRECTION>
+	<DIALOGUE>
+	Emergency
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the garage office
+</DIRECTION>
+<Benny>
+<DIRECTION>
+(On phone) all right, the issue is jelly, you only like two kinds. You either like grape or poison berry, which? All right. Yeah, yeah peanut butter, I know, super kind, all right, see you at 6. Ok, bye.(Hangs up phone)
+</DIRECTION>
+	<DIALOGUE>
+	Hi, thanks for waiting m’am. Erm, im afraid that the best deal we can do for you is going to be, erm, $7750. But I think if you check around you’ll see that that is a really good deal.
+	</DIALOGUE>
+</Benny>
+<Girl>
+	<DIALOGUE>
+	Yeah?
+	</DIALOGUE>
+</Girl>
+<Eric>
+	<DIALOGUE>
+	That really is a very good deal m’am. A little too good…
+	</DIALOGUE>
+</Eric>
+<Girl>
+	<DIALOGUE>
+	Let’s do it.Outside Benny and Joon’s house, then inside.
+	</DIALOGUE>
+</Girl>
+<DIRECTION>
+(Benny is walking home from work, he hears shouting inside)
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	Get out of my sight!
+	</DIALOGUE>
+</Joon>
+<Smeal>
+	<DIALOGUE>
+	you wouldn’t dare Joon.
+	</DIALOGUE>
+</Smeal>
+<DIRECTION>
+(Joon screams and throws plate across room.)
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	what is going on here?
+	</DIALOGUE>
+<DIRECTION>
+(He rushes in)
+</DIRECTION>
+	<DIALOGUE>
+	Joon! Mrs Smeal! Mrs Smeal, please.
+	</DIALOGUE>
+</Benny>
+<Smeal>
+	<DIALOGUE>
+	Beware the winds of reason shall blow stern.
+	</DIALOGUE>
+</Smeal>
+<Benny>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</Benny>
+<Smeal>
+	<DIALOGUE>
+	I am done Mr Pearl, I am done. The mules turned to glue, she left the house unescorted, she has sudden outbursts. She is simply unmanageable
+	</DIALOGUE>
+</Smeal>
+<Benny>
+	<DIALOGUE>
+	Mrs Smeal! Please, wait, please. Let me talk to her. I can talk to her, you cant quit on such short notice.
+	</DIALOGUE>
+</Benny>
+<Smeal>
+	<DIALOGUE>
+	oh, well I’m sorry sir. In Ireland we have a saying when a boat runs ashore, the sea has spoken.
+	</DIALOGUE>
+</Smeal>
+<DIRECTION>
+(Mrs Smeal leaves)
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the kitchen, Benny is cooking and on the phone to Eric.
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	Listen, if she is going to be alone every day until I find another housekeeper, I’m not leaving her alone at night too.
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	Listen bring her, what’s she going to do? She paints and she reads.
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	Yeah, she paints, she reads, she lights things on fire.
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	that happened once. Look I got a fire extinguisher, just bring her. Now get your ass over here, and don’t forget the Louie Prang record. Remember, always play for keeps.
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	all right, all right, all right, I’ll be there.
+	</DIALOGUE>
+</Benny>
+<Benny>
+	<DIALOGUE>
+	Joon Dinner! Spaghetti and salad.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	in that order?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	what happened between you and Mrs Smeal?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	she was given the fits of semi-precious metaphors.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	the woman’s a house keeper Joon, not an English professor.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	she moved things.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	she said you wandered off. Did you leave the house alone?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	define alone
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	you know full well what I’m talking about. Listen, while im at work I cant be worried about whether or not your knocking another house keeper into early retirement. First it was Mrs Larkburg.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	a woman deeply and hygienically disturbed. Her hair smelled.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	but then it was Mrs Piltz.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	Piltz, the answers in the question. Let’s face it Benjamin, hiring house keepers is not your forte.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	Oh yeah, well until I do find another house keeper, you are going to stick close to the house, you understand? Now have some salad. Oh by the way, I want you to come with me to my poker game
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	Benny…
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	come on, you’ll have a good time
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+They travel to the poker game and Joon sees Sam in the tree. They arrive at the poker game
+</DIRECTION>
+<Man>
+	<DIALOGUE>
+	erm, wet belt buckle
+	</DIALOGUE>
+</Man>
+<Mike>
+	<DIALOGUE>
+	classical Greek martini shaker
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	6 turkey feather darts
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	I’ll see you with the Diana Durban album
+	</DIALOGUE>
+</Thomas>
+<Benny>
+	<DIALOGUE>
+	come on
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	and I’ll raise you with the stethoscope
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	does it have little plastic ear pieces on the end?
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	what do you care? You never win mike!
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	well if I do, I don’t want the, stabbing my ear drums. Steering wheel knob
+	</DIALOGUE>
+</Mike>
+<Eric>
+	<DIALOGUE>
+	Salad shooter
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	56 debenture iron
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	foldo
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	well you must have a good hand, huh
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	no, I’m bluffing
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	really
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	come on, you got to play to find out, come on
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	ok, 150ft of coaxial cable. Show them
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	full house, Jacks over four’s
+	</DIALOGUE>
+</Benny>
+<Eric>
+<DIRECTION>
+(laughing)
+</DIRECTION>
+	<DIALOGUE>
+	oh shit
+	</DIALOGUE>
+</Eric>
+<Mike>
+	<DIALOGUE>
+	I thought he was bluffing
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	well some one get some air to his brain. He was bluffing about bluffing
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	you’re a real pal Benny, I tell you what, I got a solution to your house keeper problems, you can have my room mates.
+	</DIALOGUE>
+</Mike>
+<Joon>
+	<DIALOGUE>
+	oh that’s a terrific offer Benjamin. To save you from the retched chore of Smeal shopping. Those places are such drudgery aren’t they? Montgomery and Smeal, Smeals and Roebuck, Smeals ‘r’ us…
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	Joon. You got a roommate? When did you get a roommate?
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	since last week. My cousin landed in town and my life has gone from heaven to hell in 7 days.
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	Just like the good lord intended
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	yeah, 20 years old and he can’t even read. He spends all day polishing my plastic forks.
+	</DIALOGUE>
+</Mike>
+<Eric>
+	<DIALOGUE>
+	what do you mean when you say he can’t read? You mean words?
+	</DIALOGUE>
+</Eric>
+<Mike>
+	<DIALOGUE>
+	yeah, and he keeps me up all night watching stupid old movies. My works starting to suffer.
+	</DIALOGUE>
+</Mike>
+<Joon>
+	<DIALOGUE>
+	you installed cable TV.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	Joon, would you please glue your sequins
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	have we an internal sequin issue to deal with Benjamin?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	can we make this the last hand? Come on, come on, play cards.
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	2 tickets to tomorrow nights baseball game
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	1 pocket fisherman
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	fold
+	</DIALOGUE>
+</Thomas>
+<Benny>
+	<DIALOGUE>
+	do you ever stay in?
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	a snorkel mask.
+	</DIALOGUE>
+</Mike>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Next morning in Benny and Joon’s house. Joon is wearing a snorkel mask and makes a smoothie. She goes outside and holds up the traffic.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the social workers office
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	she really knows how to rattle the day help
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	you know, I think we need to find someone more understanding than Mrs Smeal
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	now let me tell you something. How are you two getting along?
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	us? Fine, normal, you know fine. Why?
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	I’ll level with you. I think its time you gave serious consideration into a group home
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	she already has a home
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	Benny, she needs to be with her peers
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	yeah, she hates her peers. She has already quit the two day centres to prove it. Look all we need right now is a new housekeeper
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	well I know of no one else. You’ve been up and down the list. Now you might want to entertain the possibilities that there are some people more capable of handling these episodes than you. I am beginning to that that you living together may not be the best thing any more
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	I’m her brother and her only family. And we’ve done just fine the two of us for 12 years.
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	yes but her stress level is always a factor in her display of symptoms. Her agitation should be kept to a minimum
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	everybody gets agitated sometimes it’s the only option
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	Benny, don’t get me wrong I’m impressed that you’ve managed this long. But a group home would give her a chance to develop other relationships. Also we don’t know this but what if she was capable of a part time job? They would encourage her in that direction. These are very nice place’s, nurturing, supportive
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	I’m not farming her out.
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon has held up the traffic and the drivers are getting angry and shouting at her. A police man arrives
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	I have every right to be outside officer. I have ever right.
+	</DIALOGUE>
+</Joon>
+<Police>
+	<DIALOGUE>
+	yes m’am. May I see some ID please? In Benny’s garage
+	</DIALOGUE>
+</Police>
+<Benny>
+	<DIALOGUE>
+	hey Waldo, did you start that brake job yet?
+	</DIALOGUE>
+</Benny>
+<Waldo>
+	<DIALOGUE>
+	Joon called. She says that you’ve run out of tapioca.
+	</DIALOGUE>
+</Waldo>
+<Benny>
+	<DIALOGUE>
+	she what?
+	</DIALOGUE>
+</Benny>
+<Waldo>
+	<DIALOGUE>
+	oh, and the police will cooperate
+	</DIALOGUE>
+</Waldo>
+<Benny>
+	<DIALOGUE>
+	holy shit. Listen Jack, you want to go to the baseball game tonight,
+	</DIALOGUE>
+</Benny>
+<Jack>
+	<DIALOGUE>
+	hey thanks Benny.
+	</DIALOGUE>
+</Jack>
+<Benny>
+	<DIALOGUE>
+	box seats. Hello, Joon?Back at the house. Joon is painting.
+	</DIALOGUE>
+</Benny>
+<Benny>
+	<DIALOGUE>
+	time for your medicine Joon
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny in his bedroom
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	night Steve
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the garage
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	oh hello, how’s it going?
+	</DIALOGUE>
+</Benny>
+<Girl>
+	<DIALOGUE>
+	I appreciate the deal on the engine
+	</DIALOGUE>
+</Girl>
+<Benny>
+	<DIALOGUE>
+	oh yeah, no problem. Is it running alright?
+	</DIALOGUE>
+</Benny>
+<Girl>
+	<DIALOGUE>
+	yeah, it’s running great
+	</DIALOGUE>
+</Girl>
+<Benny>
+	<DIALOGUE>
+	oh, good
+	</DIALOGUE>
+</Benny>
+<Girl>
+	<DIALOGUE>
+	so can I erm, make it up to you with some dinner.
+	</DIALOGUE>
+</Girl>
+<Benny>
+	<DIALOGUE>
+	some dinner? Erm you serious?
+	</DIALOGUE>
+</Benny>
+<Girl>
+	<DIALOGUE>
+	yeah, dinner with you
+	</DIALOGUE>
+</Girl>
+<Benny>
+	<DIALOGUE>
+	Erm, you know what I can’t. I mean I’d like to but I can’t
+	</DIALOGUE>
+</Benny>
+<Girl>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Girl>
+<Benny>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	stupid, stupid
+	</DIALOGUE>
+</Eric>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the house playing table tennis
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	18:15
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	17:16
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	18:15
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	it caught the corner.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	it was a foot off the table
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	it was not
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	Juniper
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	Benjamin. Don’t underestimate the mentally ill. We know how to count
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	ok, fine 17:16
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	you can’t give me what was already mine. You’re trying to cheat
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	I’m not cheating
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	cheating
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	Joon, I don’t cheat. You’re the one who’s cheating
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	You’re all trying to cheat me, you’re trying to cheat. Joon throws the racket and smashes a lamp. She then runs upstairs
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the hospital
+</DIRECTION>
+<Thomas>
+<DIRECTION>
+(On the phone at the hospital)
+</DIRECTION>
+	<DIALOGUE>
+	yeah, alright I spoke to some of the guys from the staff Benny. Nobody wants to be your house keeper. I will keep trying but I got to tell you I don’t think so
+	</DIALOGUE>
+</Thomas>
+<Benny>
+<DIRECTION>
+(on the phone at home)
+</DIRECTION>
+	<DIALOGUE>
+	yeah, ok thanks. Bye
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon is playing with a fan and some paper. She lets go of the paper and it flies into a candle setting alight. Benny puts it out and goes upstairs. He sits on the bed
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	ok Stevie
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He goes to feed his fish, but it is dead. He takes it to the bathroom and flushes it down the toilet.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Outside Eric’s house
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	I mean I cant even keep a goldfish alive. What chance do I have with Joon? If something bad happened to her I’d, I’d never ever be able to forgive myself
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	a group home is the right thing for her Benny.
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	yeah, this is defiantly for her own good
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	hey, it’s for both your own good. How much longer can you do this to your self? You’re life is literally passing you by
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	you’re right. You’re right. What am I doing with myself? I spend my life working on cars and taking care of my sister. I cant even have a relationship without having to worry how Joon is going to fit in.
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	you know, once you get settled in you can actually take a vacation. Travel a little. I can hold down the fort no problem.
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	travel? Travel?
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	Benny, there is a whole world out there man, I mean picture yourself on the open road, wind in the hair in the Alcamino. Highway stretching out b- what’s that? Up ahead? A lovely motorist. Stranded. Carburettor trouble. Better investigate.
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	yeah right, I’m going to be stopping at a pay phone every 15 minutes to call Joon to see how she’s doing.At another poker game
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	Ok lets see, Black Sabbath over there
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	you got that flash light?
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	its not a flashlight. it turns out its a brush kind of thing. Hat
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	Where’s the batteries?
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	you didn’t win any batteries. what are you talking about?
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	who gets the ice shaker? it goes on mine
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	ok guys come one, hurry it up huh or we'll start without you
+	</DIALOGUE>
+</Mike>
+<Joon>
+	<DIALOGUE>
+	I’ve been known to play a little cards
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+They start to play cards
+</DIRECTION>
+<Mike>
+	<DIALOGUE>
+	box of 30 odd 6 cartridges
+	</DIALOGUE>
+</Mike>
+<Joon>
+	<DIALOGUE>
+	medium sized green haired troll
+	</DIALOGUE>
+</Joon>
+<Thomas>
+	<DIALOGUE>
+	soap on a rope, slightly used. Cards?
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	three
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	cards?
+	</DIALOGUE>
+</Thomas>
+<Joon>
+	<DIALOGUE>
+	two
+	</DIALOGUE>
+</Joon>
+<Thomas>
+	<DIALOGUE>
+	the dealer takes three
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	pass
+	</DIALOGUE>
+</Mike>
+<Joon>
+	<DIALOGUE>
+	re-grout my shower, blue grout
+	</DIALOGUE>
+</Joon>
+<Thomas>
+	<DIALOGUE>
+	I fold
+	</DIALOGUE>
+</Thomas>
+<Mike>
+	<DIALOGUE>
+	shampoo my dog, lava lamp
+	</DIALOGUE>
+</Mike>
+<Joon>
+	<DIALOGUE>
+	scrape and paint the exterior of my house
+	</DIALOGUE>
+</Joon>
+<Thomas>
+	<DIALOGUE>
+	hey hey come on slow it down you guys. these are supposed to be reasonable stakes
+	</DIALOGUE>
+</Thomas>
+<Joon>
+	<DIALOGUE>
+	that’s a see and a raise, you follow me?
+	</DIALOGUE>
+</Joon>
+<Mike>
+	<DIALOGUE>
+	you take my cousin off my hands
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	hey wait, wait, just stop, all right? Benny’s going to strangle you guys
+	</DIALOGUE>
+</Thomas>
+<Joon>
+	<DIALOGUE>
+	chill out Thomas
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	Joon, we've gotta go
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon shows her cards
+</DIRECTION>
+<Mike>
+	<DIALOGUE>
+	a flush.
+	</DIALOGUE>
+<DIRECTION>
+(Mike shows his cards)
+</DIRECTION>
+	<DIALOGUE>
+	Full house. yes, yes, oh Benny, tonight’s your lucky night
+	</DIALOGUE>
+</Mike>
+<Thomas>
+	<DIALOGUE>
+	Mike warned it was for keeps Benny
+	</DIALOGUE>
+</Thomas>
+<Benny>
+	<DIALOGUE>
+	what, what’s for keeps?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	I lost
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	what in the pot?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	a cousin
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny and Joon are walking out of the house followed by Mike
+</DIRECTION>
+<Mike>
+	<DIALOGUE>
+	hey guys, rules are rules, without them there’s no order in the universe
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	oh don’t give me that crap. you took advantage
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	of your sick sister. a heart flush is a perfectly respectable hand
+	</DIALOGUE>
+</Joon>
+<Mike>
+	<DIALOGUE>
+	Not respectable enough
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	hey shut up Mike. I am not taking this guy home
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	you have to man. remember the bet I lost last year. I had to re-plant your socket set. I didn’t back out did I?
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	you cant bet a human being!
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	oh, well if your going to be a baby about it
+	</DIALOGUE>
+</Mike>
+<Benny>
+	<DIALOGUE>
+	all right Mike. You want to play like that? I’ll take him home. i may not be responsible for what I’m going to do to him but I’ll take him.
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	oh man, what are you doing you stupid jerk?
+	</DIALOGUE>
+</Mike>
+<Sam>
+	<DIALOGUE>
+	Oh there’s something wrong with your car
+	</DIALOGUE>
+</Sam>
+<Mike>
+	<DIALOGUE>
+	what did you do with my hob caps?
+	</DIALOGUE>
+</Mike>
+<Sam>
+	<DIALOGUE>
+	I don’t know. I’m Sam
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	so I here. I’m Benny
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	with an N?
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	yeah two of ‘em. This is Joon
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	with an N?
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	one. You’re out of you’re tree
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	its not my tree
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	I think I need a beer
+	</DIALOGUE>
+</Benny>
+<Mike>
+	<DIALOGUE>
+	hey Benny, wait a minute. Where are you going? Come here man, give me a job. Hey! You’re going with them
+	</DIALOGUE>
+</Mike>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At Diner
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam dances with some rolls of bread
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	oh god bless you.
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam knocks the tray out of the waitress’s hands and catches it. He hands it to the customers but switches them over.
+</DIRECTION>
+<Ruthie>
+	<DIALOGUE>
+	hey pal, we’re trying to work here if you don’t mind
+	</DIALOGUE>
+</Ruthie>
+<Sam>
+	<DIALOGUE>
+	oh my god. I’ve just been looking for my boyfriend. Have you seen him? He’s a cute guy with a little mole on his right cheek.
+	</DIALOGUE>
+</Sam>
+<Man>
+	<DIALOGUE>
+	Ruthie one of your ghosts come back to haunt you?
+	</DIALOGUE>
+</Man>
+<Sam>
+<DIRECTION>
+(screaming)
+</DIRECTION>
+	<DIALOGUE>
+	oh Brad, Brad, Brad please don’t be dead. I never got a chance to tell you what you mean to me. Oh Brad please. Its you you’re you, Ruthie Melanie. Co-star of the prom queen mutilator with Dick Beebe.
+	</DIALOGUE>
+</Sam>
+<Ruthie>
+	<DIALOGUE>
+	you saw that?
+	</DIALOGUE>
+</Ruthie>
+<Sam>
+	<DIALOGUE>
+	he was mine, he was mine. No Sindy you’re sick. Sindy you need help, no Sindy, no, no, no!
+	</DIALOGUE>
+<DIRECTION>
+(pretends to stab himself)
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny and Joon’s house
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam looks around the room and sees Joon’s paintings. He puts his finger in the wet paint and lick’s him finger.
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	don’t touch it
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	its paint
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	yes
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	Kirk Douglas, Van Gough ear
+	</DIALOGUE>
+<DIRECTION>
+(makes a scissor action with his hand)
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	these are yours. You’ll sleep here all right? Come on its late. Lets brush you’re teeth and hair.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	I can brush my own teeth Benjamin
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	fine
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	hair too
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	perfect. Come on
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	oh, oh Benny. Hey Benny. Thanks for the couch. Erm Mike made me sleep under the sink.
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	oh you’re welcome. Good night
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	good night
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Next Morning
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam is sleeping and Joon is drawing him. He moves so Joon quickly pits them away.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the bathroom
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	mentally ill. Really?
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	yeah. Benny: but I mean don’t worry about it. Just let her go about her routine, you know. Her routine is everyday therapy. Oh and don’t hang around her room while she’s painting. She hates that.
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	no
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	she runs hot and cold on you, just ignore it. That’s just the way it works. Oh listen erm, she starts talking to herself, don’t worry about it but don’t answer.
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	she sometimes hears voices in her head. That comes with the territory too. And erm just make sure that nothing and I mean nothing happens to her
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny goes out to work and leaves Joon and Sam. Joon is making a breakfast smoothie and Sam is watching as he walks in.
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	having a Boo Radley moment are we?
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+She hands Sam a glass of smoothie.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At garage
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	good morning
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	hey
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	this today?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Eric. Yeah. So erm what did you do with the cousin? The bus station? The river? What? You throw him in the river?
+</DIRECTION>
+<Benny>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+	<DIALOGUE>
+	no, I took him home
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	you took him home?
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	yeah
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	to your house?
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	yeah to my house
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	what are you crazy?
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	hey believe me its only temporary
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	great, maybe he can tell Joon about the group home
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	listen, if I’m going to do this group home thing I’ve got to figure out the best way to tell her, you know what I mean. Where’s Waldo? Is he not here yet?
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	no
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	all right that’s it I’m going to have a talk with him
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	no your not
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	yes I am. I’m calling him right now. What’s his phone number?
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	5550944
+	</DIALOGUE>
+</Eric>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny and Joon’s house
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam is cleaning and Joon is in the garden. She hears the loud music that Sam is playing and runs inside.
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	aah, too loud.
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	aah, what?
+	</DIALOGUE>
+<DIRECTION>
+(Joon points to the radio)
+</DIRECTION>
+	<DIALOGUE>
+	oh.
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He switches the radio off and Joon takes it away.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny walks home as he walks in he sees Joon alone at the table
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	hey where’s Sam?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	I didn’t mean to kick him out. I mean I didn’t kick him out he just left.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	whoa, whoa, whoa what, what happened? Did something happen?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	he just he just left. He was, he was in the air and, and, and with a thing and it was really loud. It was really loud. And all, I just kept seeing. He didn’t mean to do it.
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	do it? What? What, did he, what did he do?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	he cleaned the house
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	and you kicked him out for that?
+	</DIALOGUE>
+</Benny>
+<Joon>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+<Benny>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+There is a knock on the door and a jack-in-the-box is left on the floor. Joon picks it up. They both look up and see Sam sat on the mail box.
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	maybe I should invite him back in
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	yeah before someone sticks a stamp on his head and mails him to Guam.
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Back in the house
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam is making grilled cheese sandwiches with an iron
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	some cultures are defined by their relationship to cheese
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	is that a fact?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon is in bed and Benny walks in
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	he can really cook cant he?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	uh-uh yeah. All for the grilled cheese I might of used the wool setting.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	that’s what I told him
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	really? What did he use?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	rayon. Silk would have been too soggy. Cotton would
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	would of burned it
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	right. Fortunately he consulted me before giving it steam. I was four square against it. I wish he could be my new smeal.
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon hums a tune and they both start singing the words. It flashbacks to when they were kids and their parents died in a car crash.
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	good night
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	good night
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+The next morning and Sam is writing a letter to him mum
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	you need some help? Dear mum, I have departed Mikes with love and gratitude and am not living with Benny and Joon pearl, two magnificently devoted new friends. Benny’s pre-disposition to hyper tense Irish monologue is sub standing and he has given me a job as a domestic engineer and is pleased with my performance so far. Love Sam
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	wow, I didn’t know how to talk like that
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+They go outside and post the letter
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	tapioca?
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	oh, yes
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the diner
+</DIRECTION>
+<Ruthie>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Ruthie>
+<Sam>
+	<DIALOGUE>
+	thank you Ruthie
+	</DIALOGUE>
+</Sam>
+<Ruthie>
+	<DIALOGUE>
+	you’re welcome Sam. Let me know if you need anything ok?
+	</DIALOGUE>
+</Ruthie>
+<Sam>
+	<DIALOGUE>
+	you don’t like raisins?
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	not really
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	why?
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	they used to be fat and juicy and now they’re twisted like they had their life stolen. They taste sweet but really they are just humiliated grapes. I cant say I’m a big supporter of the raisin council.
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	did you see those raisins on TV? The ones that sing and dance and stuff
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	they scare me
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	yeah me too
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon; its sick, commercial people make them sing and dance so people will eat them
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	it’s a shame about raisins
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	cannibals
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam; yeah. Do you like avocadoes?
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	they’re a fruit you know.
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	Ruthie, do you got any avocadoes?
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At Benny and Joon’s house
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	Joon
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He looks outside and sees a car pull up. Ruthie, Sam and Joon get out of the car.
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	you’re very pretty when you’re off work Ruthie
+	</DIALOGUE>
+</Joon>
+<Ruthie>
+	<DIALOGUE>
+	thank you. Maybe I should quit my job huh?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	where the hell have you two been?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	oh don’t worry, they were with me. We were just running some errands.
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	oh how you doing?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	Hi
+	</DIALOGUE>
+</Ruthie>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny; running errands? You ran an errand?
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	yes I did, I ran an errand.
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon hands Benny two new fish
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	oh look
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon; they are both named Steven. One with a V and one with a PH.
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	look, look, look Ruthie’s movie
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	yes and she’s staying for dinner too
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	come on in, come on in
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+By the river
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	so why did you leave?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	LA? I wasn’t that good of an actress
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	well that’s not how Sam tells it. He’s raving about you
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	yeah well, he’s sweeter than he is judgemental. How long have you known him?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	Sam? Erm 72 hours
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	be serious
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	I am, serious
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	really
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	I’m always serious, I’m too serious. Did you ever get to the point in your life when nothing makes any sense?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Inside watching the movie
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam is talking along with the movie
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Outside trying to start Ruthie’s car
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	try it again. Now there’s only two reasons a car wont start. Either you’re not getting fuel or you’re not getting fuel. You’ve got fire. I think you’d better let me drive you home. Sorry
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	thanks
+	</DIALOGUE>
+</Ruthie>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Pulling up outside Ruthie’s house
+</DIRECTION>
+<Ruthie>
+	<DIALOGUE>
+	here it is, right here
+	</DIALOGUE>
+</Ruthie>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny; 2nd job huh/
+</DIRECTION>
+<Ruthie>
+	<DIALOGUE>
+	yeah got to make those ends meet you know
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	this is just how I imagined your place. Well…
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	you want to come in? Or you want to…
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	oh no I’ll come in, for a minute. Whoa! What is this? Nice porch.
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	pretty nice fish Joon gave you
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	oh yeah, those fish. Yeah I was shocked I was… Nice fish, I mean yeah
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	I never had a fish
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	what? Not even as a kid?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	no, under privileged childhood I guess
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	down right un-American if you ask me
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	yeah
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	you can have one of mine if you want
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	no I couldn’t possibly. They were a gift
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	but you know you could borrow it. But you know we could share it. Like joint custody. You could take it on the weekends you know. What is this?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	sit down son, you’re making me nervous
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	oh
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	want a beer?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	yeah, you know what I’d better not. I gotta’ get goin’. I better get goin’ ok?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	yeah ok
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	I’ll take a rain check on the beer
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	ok I got the doors
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	want to go to dinner?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Ruthie; ever been married?
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	no
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	yeah
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	yeah? Great. See you
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	see you
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	see you
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny and Joon’s house
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam and Joon kiss. Sam blows up a balloon and lets the air out of it slowly so it makes a tune. It pops and they laugh
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the social workers office
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	see you next week
+	</DIALOGUE>
+</SW>
+<Joon>
+	<DIALOGUE>
+	right thank you
+	</DIALOGUE>
+</Joon>
+<SW>
+	<DIALOGUE>
+	Benny, would you come inside a minute?
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	sure
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	who’s the new house keeper?
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	the new… oh! This… friend just came to stay with us for a while but…
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	Joon tells me he’s a man
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	well you know Joon, how flowery she gets with words
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	she she’s lying? I mean is it a man or isn’t it?
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	well yes technically. He’s really just a guy, a friend.
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	so where does this leave the group home decision? I take it you havent talked to her about it yet
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	no I erm
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	the admission date is less than a week away
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	but you see the thing is she’s really doing fine. She seems content and everything. Lets just leave it at that for now
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	let me know when you want to talk to her about it
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	I’ll let you know. Ok bye
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam walks into the video store and takes the help wanted sign off the window
+</DIRECTION>
+<Owner>
+	<DIALOGUE>
+	hello
+	</DIALOGUE>
+</Owner>
+<Sam>
+	<DIALOGUE>
+	I wanna help
+	</DIALOGUE>
+</Sam>
+<Owner>
+	<DIALOGUE>
+	ah wonderful ok. If you’d like to fill out this application I’ll be right with you.
+	</DIALOGUE>
+</Owner>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam picks up the pen and writes his name. He folds up the application and walks out of the shop.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny and Joon are back at the house. Joon is scrubbing Benny’s finger nails.
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	not so hard
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	wow, you actually have cuticles
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	I know its amazing. What the hell is he doing?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	Mashed potatoes. So are you and Ruthie considering item hood? Are you? Benjamin and Ruthie sitting in a tree k-i-s-s-i-n-g. First comes love, then come marriage
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	get out of here
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	then comes little Ruthamins and Benjamins and babys …
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	I’m just taking her out to dinner
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam is downstairs making mashed potatoes with a tennis racket
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny and Ruthie are coming home from their date
+</DIRECTION>
+<Ruthie>
+<DIRECTION>
+(laughing)
+</DIRECTION>
+	<DIALOGUE>
+	That’s a good joke
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	you like that?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	uh-uh. What time you got?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	its eleven.
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	on the nose?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	right exactly
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	don’t think I’ve ever asked anybody the time before and it be right on the nose
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+<DIRECTION>
+(laughs)
+</DIRECTION>
+	<DIALOGUE>
+	that’s weird isn’t it? Its right on the nose
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Ruthie leans over and kissed Benny
+</DIRECTION>
+<Ruthie>
+	<DIALOGUE>
+	do you, do you want to come in for a while? I erm, I got that beer waiting for you
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	erm you know what? I should probably go
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	listen erm can I tell you something?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	what?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	erm you see my life is just real complicated and
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	give me a break Benny I just offered you a bear ok
+	</DIALOGUE>
+</Ruthie>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+She gets out of the car and runs inside
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	no
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the park the next day. Sam, Benny and Joon are sat on a rug.
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	why don’t we pick up Ruthie and get some ice cream?
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	yeah lets get her
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	no
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	why?
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	cos, she doesn’t want to talk to me
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	oh
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He tries to put his hat on his head but it just pops off again. He does it to Joon and tries to do it to Benny.
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	come on we should go. Knock it off.
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He knocks the hat out of Sam’s hand and it goes flying. Sam does an acrobatic show for the people in the park
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	he is, he’s incredible. He’s amazing
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	did you have to go to school for that?
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	no no I got thrown out of school for that
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	really?
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	oh yeah
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He stands on a bench and walks over it
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	hey listen why don’t you guys go on ahead? I’m going to hang around here for a while. Ok?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	really?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	yeah go ahead. I’ll see you at home later. all right?
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny; that was, that was great.
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	no no
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	thank you
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	no thank you. bye bye
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny tries to do the trick with the bench that Sam did.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Back at the house
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam and Joon are sat on the sofa and kiss.
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	Joon
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	what?
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	I, I love you
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	me too. don’t tell Benny
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	Ok
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon hears Benny coming in so gets up and goes to her bedroom
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Next morning, Benny is in the shower
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	did you see the way you had everybody in the palm of you’re hand? Huh? You’ve got this gift and you shouldn’t ignore it you should be out there doing something with it.
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	like what?
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	I don’t know all I know is that they were saying this guy is something else. You’re special. You’re not some regular schmoe like the rest of us who do it because we have to do it. You’re blessed
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	Benny,
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	what?
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	how sick is she?
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	plenty sick. Now listen to me, I’ve been doing some thinking
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	because it seems to me that, well except from being a little mentally ill, she’s pretty normal you know?
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	do you realise you could be the next Buster Keeton?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam is sat outside the video store contemplating whether to go in
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam goes in and talks to the owner. He has the job.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the garage
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	I’m telling you, Randy listen to me, you’ve got to see this guy. Tell him Eric
+	</DIALOGUE>
+</Benny>
+<Eric>
+	<DIALOGUE>
+	he’s funny
+	</DIALOGUE>
+</Eric>
+<Benny>
+	<DIALOGUE>
+	he’s truly amazing. Will you see him?
+	</DIALOGUE>
+</Benny>
+<Randy>
+	<DIALOGUE>
+	yeah I’ll see him
+	</DIALOGUE>
+</Randy>
+<Benny>
+	<DIALOGUE>
+	you’ll see him?
+	</DIALOGUE>
+</Benny>
+<Randy>
+	<DIALOGUE>
+	yeah you never know, you know most of these guys work locally but some of them, the better ones, you can book in the out of town clubs
+	</DIALOGUE>
+</Randy>
+<Benny>
+	<DIALOGUE>
+	you book them out of town?
+	</DIALOGUE>
+</Benny>
+<Randy>
+	<DIALOGUE>
+	I book them all over. Detroit, Boston, sometimes LA
+	</DIALOGUE>
+</Randy>
+<Benny>
+	<DIALOGUE>
+	Whoa! Randy can you see him tonight?
+	</DIALOGUE>
+</Benny>
+<Randy>
+	<DIALOGUE>
+	I’d love to see him tonight
+	</DIALOGUE>
+</Randy>
+<Benny>
+	<DIALOGUE>
+	hi
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	is my car ready?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	how you doing? Oh come on in, come on in. Erm listen erm I want to apologise for the other night. It came out all wrong
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	no no its ok
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	no I do
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	how’s my car?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	oh its running great. Your fuel pump was shot so I threw in a new one. Its running great
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	how much do I owe you?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	I’ll tell you what. Just gibe me $30 for the part and I’m not going to charge you for the labour. All right? Ok?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	yes
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	listen if you’re not doin’ anything later I just lined up this thing for Sam
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	what thing?
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	well its like an audition. Maybe his chance to make a living at all this crazy stuff that he does. Who knows? Maybe he could travel, play clubs. I don’t know, you know? So if you’re not doing anything later and you feel like…
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	I don’t know Benny. I got food to deliver, apartments to rent. My life’s pretty complicated right now, you know? Thanks. Bye
+	</DIALOGUE>
+</Ruthie>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At Benny and Joon’s house
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	we’ll lay out the whole routine right after dinner. You know what you could start with? Remember the role thing you were doing at the diner?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	who died and made you Ed McMahon?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	what’s your problem? This is his chance to do something, be somebody
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	he is somebody
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	yeah I know, but he wants to be more
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	you don’t know what he wants
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	I know he doesn’t want to be a house keeper for the rest of his life. If you’re worried about getting a new Smeal we’ll get you a new Smeal
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	he’s not my Smeal
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	house keeper, whatever
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	we have to tell him
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	what? Tell me what?
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	err Benny…Joon… and… and I… are… you know.
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	bullshit! You…
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He gets up and drags Sam from the table
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	no, no
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	don’t
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	get the fuck out!
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	you cant throw him out. I won him
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	just settle down, just settle down
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	I love him!
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	yeah? Well you’re crazy!
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	I am not crazy
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny; you see what we’ve come to? You see?
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He gets out the group home leaflet
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	I hate you, I hate you, I hate you, I hate you, I hate you, I hate you
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In Joon’s bedroom
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	can I get you anything?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	tapioca
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	tapioca? Ok. Anything on it?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	raisins
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He goes downstairs and checks the fridge. There is none left so he goes out to get some. Sam is sat in the tree outside and Joon burns a picture of her and benny when they were children. Sam goes to the door and Joon goes out to him
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	Hi
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny arrives at Ruthie’s house
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	hi. How you doin’?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	you’re out late
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	yeah. Listen… do you have any tapioca?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	jeez Benny, I’ve heard a lot of lines in my time but…
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	no, no, no its not for me. Its for Joon
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	come on in
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	yeah?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	yeah
+	</DIALOGUE>
+</Ruthie>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam and Joon get on the bus with two bags. They sit down and Joon starts to talk to herself
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	I cant hear you
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	Joon. Ok?
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	yeah
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	good good good
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He tries to calm her down
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon; I’m not no, no I’m not
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	ok? All right? Hold tight ok? Shh. Its ok. Its ok
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	I am not, I am not, I am not
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon starts to cry and Sam is still trying to calm her down
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	shut up!
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	no, no, no, no. Shh. Shh. Joon. Please. Come on
+	</DIALOGUE>
+</Sam>
+<Joon>
+	<DIALOGUE>
+	no its not all in my head
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	sir? Sir! Stop the bus! Please stop the bus!
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny is driving back from Ruthie’s and he sees the bus stopped. An ambulance arrives and the crew climb aboard the bus
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	I don’t want to talk to you
+	</DIALOGUE>
+</Joon>
+<Sam>
+	<DIALOGUE>
+	Joon
+	</DIALOGUE>
+</Sam>
+<AM1>
+	<DIALOGUE>
+	all righty. You want to step out?
+	</DIALOGUE>
+</AM1>
+<Sam>
+	<DIALOGUE>
+	yeah ok, ok
+	</DIALOGUE>
+</Sam>
+<AM1>
+	<DIALOGUE>
+	how you doin’ hon.?
+	</DIALOGUE>
+</AM1>
+<Joon>
+	<DIALOGUE>
+	you think I don’t know who you are. I know just who you are. So just leave, leave. Leave! don’t touch me! don’t touch me!
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+They grab her and put her in the ambulance. Benny runs to the front of the crowd of people
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	Joon, Joon!
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He sees Sam sat in the ambulance
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the mental hospital
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	look I a going to see my sister. Would you please tell me her room number?
+	</DIALOGUE>
+</Benny>
+<Woman>
+	<DIALOGUE>
+	please sir, just come back in the morning
+	</DIALOGUE>
+</Woman>
+<Benny>
+	<DIALOGUE>
+	let me talk to her god damn doctor
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the social workers room
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	I’m sorry. She doesn’t want any visitors. Not you or anyone else
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	she doesn’t want to see me?
+	</DIALOGUE>
+</Benny>
+<SW>
+	<DIALOGUE>
+	no and she doesn’t want to leave. Benny why don’t you go home? Get some sleep. I promise I’ll keep in touch
+	</DIALOGUE>
+</SW>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He goes out of the room and sees Sam in the waiting room
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	I hope your happy. I hope you’re happy with what you have done to her.
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He grabs Sam
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	you just stay the hell away from my sister
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	no, no
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	want to know why everybody laughs at you Sam? Because you’re an idiot. You’re a first class moron
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	you’re scared
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	I’m what?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam you’re scared. I can see it. And you know why? I used to look up to you but know I cant look at you at all.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+It flashes to Joon in bed and Benny walking by the trains. It shows Joon again but awake by the window and Sam at Ruthie’s. Benny is playing with a jack-in-the-box back at the house and Sam is outside the hospital.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the video store
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	I think that Fred Astatine is the way to go
+	</DIALOGUE>
+</Sam>
+<Lady>
+	<DIALOGUE>
+	yeah?
+	</DIALOGUE>
+</Lady>
+<Sam>
+	<DIALOGUE>
+	that’s a good choice
+	</DIALOGUE>
+</Sam>
+<Lady>
+	<DIALOGUE>
+	who’s that woman who starred in the roman…
+	</DIALOGUE>
+</Lady>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam looks up and sees Benny
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	Audrey hepburn
+	</DIALOGUE>
+</Sam>
+<Lady>
+	<DIALOGUE>
+	yeah Sam. Thanks a lot
+	</DIALOGUE>
+</Lady>
+<Sam>
+	<DIALOGUE>
+	have a nice day. Can I help you?
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	yeah I hope so.
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the mental hospital
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam and Benny are in a room. Thomas walks in
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	Thomas, how is she? Tell me the truth
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	she’s been better Benny
+	</DIALOGUE>
+</Thomas>
+<Benny>
+	<DIALOGUE>
+	well you’ve got to tell me what room number she’s in
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	335. But don’t even think about it Benny. it’s a closed ward. No visitors
+	</DIALOGUE>
+</Thomas>
+<Sam>
+	<DIALOGUE>
+	no we’ve got to find Joon. Please
+	</DIALOGUE>
+</Sam>
+<Benny>
+	<DIALOGUE>
+	Thomas you’ve got to get us in there, to see her
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	its impossible Benny
+	</DIALOGUE>
+</Thomas>
+<Benny>
+	<DIALOGUE>
+	what do you mean its impossible? Listen I just need 2 minutes with her
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	I’ll be fired
+	</DIALOGUE>
+</Thomas>
+<Benny>
+	<DIALOGUE>
+	Thomas, I’m begging you as a friend
+	</DIALOGUE>
+</Benny>
+<Thomas>
+	<DIALOGUE>
+	I’d love to help out but Garvey’s going to be in there to check on her soon. My hands are tied. My hands are tied!
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Thomas leaves
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	what room did he say?
+	</DIALOGUE>
+</Benny>
+<Sam>
+	<DIALOGUE>
+	335
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At the waiting room they sit down. The door opens to the closed ward and Sam throws his hat in the way of the door do it doesn’t close. They go through and as they are walking through the corridors they hear some men coming the other way.
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	shit. What are you doing?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam slides down the hall towards the men
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	Mommy?
+	</DIALOGUE>
+</Sam>
+<Man1>
+	<DIALOGUE>
+	what are you doing here?
+	</DIALOGUE>
+</Man1>
+<Man2>
+	<DIALOGUE>
+	I don’t think you are supposed to be here
+	</DIALOGUE>
+</Man2>
+<Man3>
+	<DIALOGUE>
+	what room did you come out of?
+	</DIALOGUE>
+</Man3>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+The pick him up and carry him back through the door.
+</DIRECTION>
+<Man1>
+	<DIALOGUE>
+	get the door
+	</DIALOGUE>
+</Man1>
+<Man3>
+	<DIALOGUE>
+	how did he get past security?
+	</DIALOGUE>
+</Man3>
+<Man1>
+	<DIALOGUE>
+	hey, watch the door
+	</DIALOGUE>
+</Man1>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+The coast is clear so Benny continues until he find Joon’s room.
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	Joon, look, I know you want to be left alone but you do not belong in here. Not how would you like to try living in you’re own apartment?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	an apartment?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	yeah! There’s an apartment available in Ruthie’s building
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	you’d let me live in an apartment?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	that’s up to you. I’m through making those decisions for you. Listen I… I’m sorry I was such a jerk. And about Sam. I was wrong, dead wrong.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	I scared him away
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	no you didn’t. he’s here
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	he is not
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	he is. He got me in here. He’s somewhere in the building.
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	he is not. You’d never let me have him. God. Why do you hate me so much?
+	</DIALOGUE>
+</Joon>
+<Benny>
+	<DIALOGUE>
+	I don’t hate you
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	you just need me to be sick
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+The social worker enters the waiting room and goes over to the desk.
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	Juniper Pearl’s chart please. Thank you
+	</DIALOGUE>
+</SW>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Thomas sees the men carrying Sam away
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	hey wait! Wally! Wait! Wait! Wally put him down. He’s mine. I’ve been looking for him
+	</DIALOGUE>
+</Thomas>
+<Man1>
+	<DIALOGUE>
+	you sure?
+	</DIALOGUE>
+</Man1>
+<Thomas>
+	<DIALOGUE>
+	yeah I’ll take care of him. Sam you cant be in here
+	</DIALOGUE>
+</Thomas>
+<Sam>
+	<DIALOGUE>
+	where’s Joon’s room?
+	</DIALOGUE>
+</Sam>
+<Thomas>
+	<DIALOGUE>
+	come on
+	</DIALOGUE>
+</Thomas>
+<Sam>
+	<DIALOGUE>
+	I’ve got to see her
+	</DIALOGUE>
+</Sam>
+<Thomas>
+	<DIALOGUE>
+	come on, come on
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+The social worker is walking down the hall to Joon’s room and sees Benny
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	can you give me any reason why I shouldn’t have you arrested?
+	</DIALOGUE>
+</SW>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam and Thomas are outside
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Thomas points to Joon’s room
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Thomas; that’s the one
+</DIRECTION>
+<Sam>
+	<DIALOGUE>
+	yeah
+	</DIALOGUE>
+</Sam>
+<Thomas>
+	<DIALOGUE>
+	see?
+	</DIALOGUE>
+</Thomas>
+<Sam>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Sam>
+<Thomas>
+	<DIALOGUE>
+	Sam, where are you going?
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In Joon’s room
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	Benny, this is exactly what we were trying to avoid. By now Joon would be in a caring and controlled environment. Isn’t it obvious that you two need some distance?
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	what don’t we ask Joon what she wants?
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Outside
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam is climbing up the building
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	Sam what are you doing? Hey Sam come on! Get down right now!
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In Joon’s room
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	I don’t know exactly what I want. I do know… that I am tired of everyone telling me what to do
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Outside
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	Sam come down. don’t touch that
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Sam winds up the window cleaners hoist
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	Sam leave that. I’m begging you.
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In Joon’s room
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	Joon, we want what’s best for you
+	</DIALOGUE>
+</SW>
+<Joon>
+	<DIALOGUE>
+	I know that
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+She sees Sam swinging across the window
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	I…
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Outside
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	Sam come down now. Sam you’re going to get in trouble
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Inside
+</DIRECTION>
+<Joon>
+	<DIALOGUE>
+	I think I want to try living in my own apartment
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny looks outside and sees Sam. The social worker looks outside but doesn’t see anything
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	hmm, I don’t know
+	</DIALOGUE>
+</SW>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Outside
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	Sam stop swinging
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+The line of the hoist starts to come loose
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Inside
+</DIRECTION>
+<SW>
+	<DIALOGUE>
+	but I’m willing to let you try. I’ll prepare the papers for her release
+	</DIALOGUE>
+</SW>
+<Benny>
+	<DIALOGUE>
+	thanks doctor Garvey
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Outside
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	come down Sam!
+	</DIALOGUE>
+</Thomas>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+The hoist breaks and Sam falls down
+</DIRECTION>
+<Thomas>
+	<DIALOGUE>
+	whoa! Whoa! Are you ok?
+	</DIALOGUE>
+</Thomas>
+<Sam>
+	<DIALOGUE>
+	ouch, ouch
+	</DIALOGUE>
+</Sam>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+In the hospital
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon tries to say something but cant get the word out
+</DIRECTION>
+<Benny>
+	<DIALOGUE>
+	I know, me too. I’m going to go and check you out. Ok?
+	</DIALOGUE>
+</Benny>
+<Joon>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Joon>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Joon goes out and Sam is waiting for her in a wheel chair. He gets up and they hug
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+At Joon’s apartment
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+Benny pulls up outside and Ruthie is sat on her porch. He hands her some white roses
+</DIRECTION>
+<Ruthie>
+	<DIALOGUE>
+	haven’t we tried this before
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	yeah but my life’s a lot less complicated now. Is Joon inside?
+	</DIALOGUE>
+</Benny>
+<Ruthie>
+	<DIALOGUE>
+	yeah
+	</DIALOGUE>
+</Ruthie>
+<Benny>
+	<DIALOGUE>
+	ok
+	</DIALOGUE>
+</Benny>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+He looks in her room and sees Sam and Joon making grilled cheese with an iron. He leaves her some roses at her door.
+</DIRECTION>
+<DIRECTION>
+:SC: SCENE
+</DIRECTION>
+<DIRECTION>
+THE END
+</DIRECTION>

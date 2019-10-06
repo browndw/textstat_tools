@@ -1,0 +1,6496 @@
+<DIRECTION>
+:SC: EXT. THE PORT OF GENOA, ITALY - NIGHT
+</DIRECTION>
+<DIRECTION>
+Forklifts RUMBLE. Workers WIPE FRAME. All the bustle and cacophony of a major seaport.
+</DIRECTION>
+<DIRECTION>
+We FIND ourselves focusing on ONE LARGE CRATE. With the GRINDING of gears, a crane lifts it off the dock and carries it onto a ship.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOTEL ROOM - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Through night-vision binoculars, CHARLIE CROKER, 28, watches the mysterious crate. Charlie is young to run his own crew but he's a born leader.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Lyle?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+SWISH PAN TO: LYLE, 21, brilliant and punctilious, fingering the keyboard of his strap-on supercharged laptop.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	I've got the orbital data and SV clock corrections for each satellite that gets the signal. That'll make my reading as solid as the Precise Positioning Service that only the D.O.D. can use. We're talkin' 100 meter horizontal accuracy, 156 meter vertical accuracy, .340 nanoseconds time accuracy.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+SWISH PAN TO: STEVE, 30, bearded. Steve has an arrogant confidence mixed with the hint of a smile.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Why can't he talk like a person?
+	</DIALOGUE>
+</STEVE>
+<CHARLIE>
+	<DIALOGUE>
+	...Because he's not.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	I do need one more thing, Charlie.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	What's that?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Someone to turn the goddamn homing device on. No signal, no score.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+<DIRECTION>
+(to Steve)
+</DIRECTION>
+	<DIALOGUE>
+	Where're the Italians?
+	</DIALOGUE>
+</CHARLIE>
+<STEVE>
+	<DIALOGUE>
+	Patience.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+:SC: INT. HUMVEE (MOVING) - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The driver is HANDSOME ROB, 30. Riding shotgun is HALF-EAR, 35, immersed in a book: Albert Einstein Creator & Rebel.
+</DIRECTION>
+<DIRECTION>
+Half-Ear is a large black man with a Southern accent and a hearing aid.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	What's that shit?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<HALF_EAR>
+	<DIALOGUE>
+	A book. It's called reading. You should try it some time.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+Handsome Rob holds up three fingers.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	You wanna read something. Read between the lines.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<HALF_EAR>
+	<DIALOGUE>
+	Well here's something even you can relate to. Albert got a lotta trim. That genius thing is a babe magnet.
+	</DIALOGUE>
+</HALF_EAR>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Lemme see that book.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: INT. HOTEL JEWELRY SHOP - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The final member of the crew, JOHN BRIDGER, 50s, is a tasteful man buying a very tasteful, and very expensive, diamond necklace. The saleswoman wraps it up as he dials a number on his cell phone.
+</DIRECTION>
+<STELLA>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Hello?
+	</DIALOGUE>
+</STELLA>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	Hi, sweetie.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+:SC: INT. STELLA'S CONDO - PHILADELPHIA - INTERCUT
+</DIRECTION>
+<DIRECTION>
+STELLA BRIDGER, 27, crushingly attractive, has just stepped out of the shower, hair still wet, body wrapped in a towel.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Daddy. How are you?
+	</DIALOGUE>
+</STELLA>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	I'm sending you something.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<STELLA>
+	<DIALOGUE>
+	Really? Does it smell nice?
+	</DIALOGUE>
+</STELLA>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	No. But it's sparkly.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<STELLA>
+	<DIALOGUE>
+	Does it come with a receipt?
+	</DIALOGUE>
+</STELLA>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	I'm having it sent to you from the store.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<STELLA>
+<DIRECTION>
+(toweling her hair)
+</DIRECTION>
+	<DIALOGUE>
+	Why not bring it by yourself? We could have dinner.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+He leaves the store and heads for the HOTEL ELEVATOR.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	Be a long trip. I'm in Genoa.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+She doesn't like the sound of that.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Let me guess. Checking out the birthplace of Christopher Columbus.
+	</DIALOGUE>
+</STELLA>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	Something like that.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<STELLA>
+	<DIALOGUE>
+	With your parole officer's approval.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+He steps into the elevator. Rides up.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	I think I've paid my P.O. my last visit. I liked the guy, but we never really connected.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<STELLA>
+	<DIALOGUE>
+	What are you into, Dad? Don't break my heart. You told me you were through.
+	</DIALOGUE>
+</STELLA>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	After this, I swear to you, I am.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<STELLA>
+	<DIALOGUE>
+	You promised me. Daddy, don't do this.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+The elevator door opens, Bridger steps out and starts down the hall.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	Everything's going to be fine. I've got to go now. I love you. Bye.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+He clicks off then uses his card key to step into the --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOTEL ROOM - CONTINUOUS
+</DIRECTION>
+<DIRECTION>
+He eyes Charlie, who looks pretty tense.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	Italians?
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	Not yet.
+	</DIALOGUE>
+</CHARLIE>
+<STEVE>
+	<DIALOGUE>
+	Don't worry, they'll come through. You can trust these guys.
+	</DIALOGUE>
+</STEVE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	I trust everyone. It's the devil inside them that I don't trust.
+	</DIALOGUE>
+<DIRECTION>
+(then, to Charlie)
+</DIRECTION>
+	<DIALOGUE>
+	Got a sec?
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	My office.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. HOTEL BATHROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+They step inside, Charlie closing the door.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	How you feeling, boss?
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	Fine. I'm fine, fine.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Bridger seems amused by that answer.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	You know what fine, stands for, don't you? Fucked-up, Insecure, Neurotic, and Emotional.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	You've become quite the philosopher since you quit drinking.
+	</DIALOGUE>
+</CHARLIE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	You don't like me sober?
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	No, I'm glad. Makes you a better thief.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Bridger pulls out a fine cigar, still in its wrapper, hands it to Charlie.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	For after the haul.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	Hope I get to fire it up. If Steve's Italians are a no-show, it's three months prep down the shitter and I've dragged you out of retirement for nothing.
+	</DIALOGUE>
+</CHARLIE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	This is kinda nice. You being the boss with all the worries, me just along for the ride.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	Ain't you sweet...
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+From the other side of the door, they HEAR --
+</DIRECTION>
+<STEVE>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	Charlie!
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+:SC: INT. HOTEL ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Charlie takes the binoculars from Steve. He SEES TWO ITALIAN CUSTOMS INSPECTORS climbing onboard the ship.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Your Italians.
+	</DIALOGUE>
+</CHARLIE>
+<STEVE>
+	<DIALOGUE>
+	Yup. Dixie cups.
+	</DIALOGUE>
+</STEVE>
+<CHARLIE>
+	<DIALOGUE>
+	Dixie cups?
+	</DIALOGUE>
+</CHARLIE>
+<STEVE>
+	<DIALOGUE>
+	I toss 'em away if there's a problem down the road.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+:SC: EXT. SHIP - NIGHT
+</DIRECTION>
+<DIRECTION>
+In ITALIAN, the Inspectors quiz the NERVOUS CAPTAIN about the mysterious crate.
+</DIRECTION>
+<DIRECTION>
+One Inspector takes a crowbar and yanks out several strips of plywood, REVEALING unmarked cardboard boxes inside. The other Inspector pulls out one of the boxes and tears it open.
+</DIRECTION>
+<DIRECTION>
+It is filled with tomatoes. He takes a bite out of one.
+</DIRECTION>
+<DIRECTION>
+Nods. Everything seems to be order. The Captain looks relieved. The inspector closes the cardboard box but...
+</DIRECTION>
+<DIRECTION>
+Watch carefully now, because as he does this, he hits a power button on a small HOMING DEVICE and stuffs it in with the tomatoes...
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOTEL ROOM - SAME TIME
+</DIRECTION>
+<DIRECTION>
+On Lyle's computer screen, a pulsating dot appears, BEEPING, sending out precise longitude and latitude.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	For those about to rock, we salute you.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Charlie dials his cell phone.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE (MOVING) - INTERCUT
+</DIRECTION>
+<DIRECTION>
+Handsome Rob answers.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Let's get rich.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Handsome Rob pulls over. They're at the port. They can see the mysterious crate being lowered into the ship's hold.
+</DIRECTION>
+<DIRECTION>
+Half-Ear climbs out, taking a large duffel bag with him.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. SHIP (DOCKED) - LATER, NIGHT
+</DIRECTION>
+<DIRECTION>
+The Captain is doing his final checks before launch. OUR CAMERA DROPS to --
+</DIRECTION>
+<DIRECTION>
+BENEATH THE WATER
+</DIRECTION>
+<DIRECTION>
+where we FIND Half-Ear, in scuba gear, applying Nitramon explosive primer to the hull of the ship.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE (MOVING) - NIGHT
+</DIRECTION>
+<DIRECTION>
+Plowing through thick brush that breaks out onto a secluded beach. Handsome Rob is still behind the wheel but now Steve is in the passenger seat. Lyle, in the back, is still on the laptop, legs fidgeting like a drummer on meth. POP goes his bubble gum.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Can you chill out back there? You'd make a hummingbird nervous.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: EXT. UNDERNEATH THE SHIP - NIGHT
+</DIRECTION>
+<DIRECTION>
+Half-Ear finishes up. Speaks into the headset inside his gear.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	I'm done. Over.
+	</DIALOGUE>
+</HALF_EAR>
+<LYLE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Copy that. Enjoy the ride, cowboy.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Half-Ear grabs onto the bottom rung of a ladder that is bolted to the side of the ship as it launches off the dock and into deeper water.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+TWO BRIGHT CIRCLES IN A SEA OF DARKNESS
+</DIRECTION>
+<DIRECTION>
+Coming closer... becoming clearer... It's Charlie and John Bridger, in scuba gear, riding torpedo-shaped Dive Propulsion Vehicles (DPVs) that pull them through the deep blue sea at a good 5 m.p.h. Both DPVs drag equipment bags.
+</DIRECTION>
+<DIRECTION>
+A Global Satellite Positioning Device is mounted on the handlebar of Charlie's DPV, being fed information via Lyle's laptop. A circle pulsates on the monitor, a beacon to the crate in the ship.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. UNDER THE BOAT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Half-Ear still clings to the ladder. It's a wild ride.
+</DIRECTION>
+<DIRECTION>
+Through the headset inside his gear, he HEARS:
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Get ready. 3. 2. 1. Drop.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Half-Ear lets go of the ladder. The ship's propellers speed by just above his head. WHOOSH.
+</DIRECTION>
+<DIRECTION>
+He removes a radio-controlled detonator. Hits the button.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. SHIP - ON THE CUT
+</DIRECTION>
+<DIRECTION>
+The hull of the boat EXPLODES.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. SHIP'S HOLD
+</DIRECTION>
+<DIRECTION>
+A very neat hole on the bottom of the boat beneath the crate is opened. Water RUSHES IN and the crate falls right through the cavity, vanishing.
+</DIRECTION>
+<DIRECTION>
+UNDERWATER
+</DIRECTION>
+<DIRECTION>
+The huge, heavy crate drops down... down... hits the bottom.
+</DIRECTION>
+<DIRECTION>
+ON THE SHIP
+</DIRECTION>
+<DIRECTION>
+Chaos rules. She's taking on water fast. No way to save her. The captain orders the dinghy lowered into the water.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Parked in the sand at the top of the bay. Steve looks out to the bay through infrared binoculars.
+</DIRECTION>
+<DIRECTION>
+The ship is going down. The crew on the dingy head back to the port, which is in the opposite direction of this beach.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. THE BOTTOM OF THE SEA - NIGHT
+</DIRECTION>
+<DIRECTION>
+The DPVs are now attached by a tether to an underwater lifting bag that is used to move heavy loads through water.
+</DIRECTION>
+<DIRECTION>
+The crate is surrounded by our three diver-bandits.
+</DIRECTION>
+<DIRECTION>
+Using crowbars they pull apart the plywood. The cardboard boxes of tomatoes dump out, tomatoes spilling everywhere.
+</DIRECTION>
+<DIRECTION>
+And now we see what was hidden between the boxes...
+</DIRECTION>
+<DIRECTION>
+A large safe.
+</DIRECTION>
+<DIRECTION>
+They move like clock-work. Half-Ear aims an underwater light at the dial. Charlie drills a small hole near the dial.
+</DIRECTION>
+<DIRECTION>
+John peers inside a horoscope and lines up the three wheels of the combination lock... until the door pops open.
+</DIRECTION>
+<DIRECTION>
+As they stare at what's inside, they speak into their headsets, heard by all.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Sweet Jesus.
+	</DIALOGUE>
+</CHARLIE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	"That for which all virtue is sold. And almost every vice -- gold."
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+And now we see the contents of the safe: 160 glistening GOLD BRICKS. Made in Singapore, they weigh 25 pounds and each one is decorated with the face of an exotic Balinese girl. We're talking thirty million dollars worth of gold.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE (PARKED) - NIGHT
+</DIRECTION>
+<DIRECTION>
+They holler and high-five and it's just a great moment to be alive. Steve takes another peek through his infrared binoculars and sees --
+</DIRECTION>
+<DIRECTION>
+The last vestiges of the ship hang above the waterline, then disappear.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. UNDERWATER - A LITTLE LATER
+</DIRECTION>
+<DIRECTION>
+The gold is now stacked and secured on the lifting bag.
+</DIRECTION>
+<DIRECTION>
+They attach an underwater parachute to the bag and hook a hose from an air tank into press of a pressure release valves which cause the parachute to INFLATE.
+</DIRECTION>
+<DIRECTION>
+Looking like a hot-air balloon underwater, the whole thing floats up about fifteen feet. Half-Ear holds onto its side, going along for the ride.
+</DIRECTION>
+<DIRECTION>
+Then Charlie and John Bridger speed off on the DPVs which are tethered to the inflatable bag. As they glide through the water towards the secluded beach, we...
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOUNTAINOUS ROAD - FIRST LIGHT OF DAWN
+</DIRECTION>
+<DIRECTION>
+The Humvee climbs into the mountain ranges of the Alps.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE (MOVING)
+</DIRECTION>
+<DIRECTION>
+The gold is in three crates in the cargo bay.
+</DIRECTION>
+<DIRECTION>
+Handsome Rob and Steve are still up front. The others are in the back seats, the divers out of their scuba gear. They are pouring champagne into paper cups; except for Bridger who abstains. He holds up his empty cup.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	My name is John and I'm a very rich alcoholic. And I'm going to live my life one very rich day at a time.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<THE_CREW>
+	<DIALOGUE>
+	Alright, John!
+	</DIALOGUE>
+</THE_CREW>
+<DIRECTION>
+They laugh and pound their fists against the roof of the Humvee. Charlie pulls out the cigar Bridger gave him. As Bridger lights it for him --
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	You planned this one down to a t, kid. It's a gift. You saw the big picture, made contingencies, covered the angles...
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+Hearing this, Steve looks a little jealous.
+</DIRECTION>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	Shit, you made thirty million dollars in gold drop out of sight without holding a gun. Who else could've pulled that off?
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	You could've. I had big shoes to fill.
+	</DIALOGUE>
+</CHARLIE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	Fill the shoes but don't follow the footprints.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<CHARLIE>
+	<DIALOGUE>
+	What're you talking about? You've lived the life.
+	</DIALOGUE>
+</CHARLIE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	My life's been nothing but fake IDs, fake business cards and divorce papers. This is the only thing that's real.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+Bridger shows him a photograph of Stella that he keeps in his wallet.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Stella's a beautiful girl.
+	</DIALOGUE>
+</CHARLIE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	She's amazing. And I spent half her childhood in prison. This is a once in a lifetime haul, Charlie. Bring down the curtain after this one. Make a new life. Find someone amazing and be there for her.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+As the advice escapes Bridger's mouth --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOUNTAINOUS ROAD
+</DIRECTION>
+<DIRECTION>
+A Jeep thunders out of a hiding place in the trees and blocks the road. The Humvee brakes to avoid running into it.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Shit.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+Click. That's the sound of a gun cocking as it's pressed against Handsome Rob's temple.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Anyone acts stupid and his brains go on the windshield.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+They see the two Italian Inspectors jump out of the Jeep, AK- 47s leveled at the crew. Steve has double-crossed them.
+</DIRECTION>
+<DIRECTION>
+ON THE CREW: shocked would be a good place to start.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	What the hell do you think you're doing?
+	</DIALOGUE>
+</CHARLIE>
+<STEVE>
+	<DIALOGUE>
+	Sorry Charlie. But I want the box of Cracker Jack all to myself.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+The Italians pull the crates of gold out of the back of the Humvee.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	You're not thinking this through. It's a stupid move.
+	</DIALOGUE>
+</CHARLIE>
+<STEVE>
+	<DIALOGUE>
+	Think so? Well you're the brilliant one. The Master Planner. Isn't that so, John?
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+Steve climbs out of the Humvee, gun still on Handsome Rob, the AK-47s aimed at the others.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	You bet on the wrong horse.
+	</DIALOGUE>
+</STEVE>
+<JOHN_BRIDGER>
+	<DIALOGUE>
+	We'll hunt you down. You're gonna regret this.
+	</DIALOGUE>
+</JOHN_BRIDGER>
+<DIRECTION>
+:SC: EXT. HUMVEE
+</DIRECTION>
+<DIRECTION>
+Safely outside, Steve turns his gun on Bridger.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	No regrets, Dixie cup.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+BOOM. He shoots Bridger in the head. Just like that.
+</DIRECTION>
+<DIRECTION>
+The Italians follow suit, AK-47s SCREAMING out bursts of full automatic fire at the crew.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE
+</DIRECTION>
+<DIRECTION>
+They duck for cover as the vehicle is riddled with gunfire.
+</DIRECTION>
+<DIRECTION>
+Glass shatters. Bullets ricochet. They're in the epicenter of hell.
+</DIRECTION>
+<DIRECTION>
+Handsome Rob jerks the steering wheel and stomps the gas.
+</DIRECTION>
+<DIRECTION>
+Driving blind.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOUNTAINOUS ROAD
+</DIRECTION>
+<DIRECTION>
+The Humvee hits the side of the Jeep, grinds alongside it, metal tearing against metal.
+</DIRECTION>
+<DIRECTION>
+The Humvee's right side tires precariously hover by the cliff and the raging water below.
+</DIRECTION>
+<DIRECTION>
+The gunners keep FIRING. Bullets rip into the Humvee's tires.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HUMVEE
+</DIRECTION>
+<DIRECTION>
+It almost escapes, but it can't make it on shredded rubber.
+</DIRECTION>
+<DIRECTION>
+It careens off the road and --
+</DIRECTION>
+<DIRECTION>
+SERIES OF SHOTS
+</DIRECTION>
+<DIRECTION>
+The Humvee plummets through the air and plunges into the raging river.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE
+</DIRECTION>
+<DIRECTION>
+Water cascades in through the open windows. They're thrown around as the Humvee rides the rapids. WHAM. The passenger door caves in as the Humvee rams into a large rock then is swept further downstream. Through the foam and spray, Charlie looks over to Bridger. He's dead. The torrent ROARS.
+</DIRECTION>
+<DIRECTION>
+Only their chests and heads are above water. And that's not all. There's a WATERFALL AHEAD.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. WATERFALL
+</DIRECTION>
+<DIRECTION>
+The Humvee is palmed in its deadly embrace and hurled over.
+</DIRECTION>
+<DIRECTION>
+It cartwheels into the pool below, sending up a huge geyser of water.
+</DIRECTION>
+<DIRECTION>
+It sinks out of sight.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOUNTAINOUS ROAD - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The crates of gold are now inside the Italians' Jeep. Steve climbs in, leaving the crew for dead.
+</DIRECTION>
+<DIRECTION>
+UNDERWATER - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The Humvee strikes the surface bottom with an ominous thud.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MOUNTAINOUS ROAD - DAWN
+</DIRECTION>
+<DIRECTION>
+The Jeep jerks to a stop. A door opens and the bodies of the two Italians, shot dead, are dumped out into the mud.
+</DIRECTION>
+<DIRECTION>
+Steve is alone now. Just him and the millions in gold.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HUMVEE - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The water entombs them. Blood from Bridger's fatal gunshot mists the water red.
+</DIRECTION>
+<DIRECTION>
+They manage to get the door open. They start to swim out but Charlie won't go without Bridger. He grabs his friend's body and pulls it up with him.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RIVER - SUNRISE
+</DIRECTION>
+<DIRECTION>
+They drag themselves ashore, Handsome Rob helping Charlie pull Bridger's corpse. Charlie is shocked, tormented, grieved, and angry beyond description. Against the rocky embankment, he holds Bridger. Not wanting to ever let go.
+</DIRECTION>
+<CHARLIE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	If you would have told me that I would spend the next three years searching for Steve Bandell, I would have said that was nothing. Cause I would have spent a lifetime looking for that bastard if I had to.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+DISSOLVE TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+SOMEONE'S POV. A top of the line safe. The only light in the office is the beam of a penlight on the dial.
+</DIRECTION>
+<DIRECTION>
+GLOVED HANDS spin the dial, feeling for "contact points", areas on the dial where a slight resistance can be felt -- if you have the touch.
+</DIRECTION>
+<DIRECTION>
+NEW ANGLE. A woman holds the penlight in her teeth while trying to crack the safe. It's Stella Bridger, now 30.
+</DIRECTION>
+<DIRECTION>
+SUPERIMPOSE:
+</DIRECTION>
+<DIRECTION>
+Three Years Later Philadelphia.
+</DIRECTION>
+<DIRECTION>
+She manipulates the dial. Click. She grabs the safe's lever and swings the heavy steel door open, her face a mixture of pride and relief. But before we see what's inside -- LIGHTS TURN ON.
+</DIRECTION>
+<DIRECTION>
+TWO COPS lurk at the doorway.
+</DIRECTION>
+<FIRST_COP>
+	<DIALOGUE>
+	You always work in the dark?
+	</DIALOGUE>
+</FIRST_COP>
+<STELLA>
+	<DIALOGUE>
+	Buzz of the fluorescents throws me off. She's all yours.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+The cops come closer and only now do we realize that they're on the same team.
+</DIRECTION>
+<SECOND_COP>
+	<DIALOGUE>
+	Damn. Chris Perley couldn't crack it. Neither could Michael Hoyt.
+	</DIALOGUE>
+</SECOND_COP>
+<STELLA>
+	<DIALOGUE>
+	Now you know who to call first.
+	</DIALOGUE>
+</STELLA>
+<FIRST_COP>
+	<DIALOGUE>
+	You're expensive, Stella. Those guys cut us a break on subpoena jobs. Goodwill, community service...
+	</DIALOGUE>
+</FIRST_COP>
+<STELLA>
+	<DIALOGUE>
+	Well I do it for the money. I'll send you the bill.
+	</DIALOGUE>
+</STELLA>
+<SECOND_COP>
+	<DIALOGUE>
+	Don't you want to see what's inside?
+	</DIALOGUE>
+</SECOND_COP>
+<STELLA>
+	<DIALOGUE>
+	I never look. Bye, guys.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+And as she walks off, they do look -- at her.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STREET - DAY
+</DIRECTION>
+<DIRECTION>
+A car RISES INTO FRAME on a bustling street: a 1960 Mini Cooper S., a worldwide motoring icon. Its shape crouches low to the ground and its tiny 10-inch wheel-at-each-corner gives it the legendary Mini look.
+</DIRECTION>
+<DIRECTION>
+If when you see its headlights and classic grille it doesn't bring a smile to your face, then you've got no automobile soul.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MINI (CRUISING) - DAY
+</DIRECTION>
+<DIRECTION>
+Stella takes on the road like someone who loves to be behind the wheel of a car that claimed victory in the Monte Carlo Rally three times. She passes a minivan, a breeze with the Mini's quick, go-kart-like handling.
+</DIRECTION>
+<DIRECTION>
+She searches for a parking space on a street lined with SUVs.
+</DIRECTION>
+<DIRECTION>
+Sees a spot, it's not really a space, just a gap between two gas guzzlers, there's no way any car could squeeze in.
+</DIRECTION>
+<DIRECTION>
+Brake. Shift. Hard turn. She parallel parks the Mini with ease. She's right in front of --
+</DIRECTION>
+<DIRECTION>
+HER SHOP
+</DIRECTION>
+<DIRECTION>
+Antique keys and locks dominate the storefront window with the name of the shop stenciled across the glass: BRIDGER LOCK AND SAFE COMPANY. Stella hops out of the Mini. With a poised walk she heads inside.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. SHOP - DAY
+</DIRECTION>
+<DIRECTION>
+It is filled with old cast-iron safes she has rebuilt along with some new models. Stella's RECEPTIONIST greets her.
+</DIRECTION>
+<RECEPTIONIST>
+	<DIALOGUE>
+	How long?
+	</DIALOGUE>
+</RECEPTIONIST>
+<STELLA>
+	<DIALOGUE>
+	Four minutes, forty-three seconds.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+High-five.
+</DIRECTION>
+<RECEPTIONIST>
+	<DIALOGUE>
+	You're the man.
+	</DIALOGUE>
+</RECEPTIONIST>
+<STELLA>
+	<DIALOGUE>
+	So what's on the line-up?
+	</DIALOGUE>
+</STELLA>
+<RECEPTIONIST>
+	<DIALOGUE>
+	2:00. Home safe in Fairmount Park. Owner died and the wife never knew the combination. And Todd Milliken called. He has a prototype combination lock he wants you to test out tomorrow morning. Says he added two false contact points on the tumbler.
+	</DIALOGUE>
+</RECEPTIONIST>
+<STELLA>
+	<DIALOGUE>
+	Tell him if I don't have it opened in six minutes flat, breakfast is on me.
+	</DIALOGUE>
+</STELLA>
+<RECEPTIONIST>
+	<DIALOGUE>
+	And there's a Charlie Croker in your office. He said you two know each other.
+	</DIALOGUE>
+<DIRECTION>
+(an aside)
+</DIRECTION>
+	<DIALOGUE>
+	And he looks pretty fine for a white boy.
+	</DIALOGUE>
+</RECEPTIONIST>
+<DIRECTION>
+Without a response, Stella heads over to --
+</DIRECTION>
+<DIRECTION>
+HER OPEN OFFICE DOOR
+</DIRECTION>
+<DIRECTION>
+and sees him fiddling with her collection of safe doors that line the shelves.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Charlie Croker.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+He turns around. Smiles. Charming.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Hi, Stella.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+She steps inside.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Refresh my memory. After you came to see me and told me what happened to my father, I told you I never wanted to see you again, didn't I?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Yeah. You did.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	So I'm a little confused.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	I found him.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+At first it seems that Charlie's words have no effect on her, but then he notices that her hands are trembling.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	I can tell you where he is.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	I don't want to know.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Are you sure?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+She doesn't answer.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	He's in Los Angeles.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+She doesn't respond. Doesn't ask him to go on, doesn't ask him not to. So he goes on...
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	The gold bricks he stole from us were minted in Singapore and decorated with the face of a Balinese girl. I've had my tentacles out and got a call from a friend of mine and your father's, Philly Steak.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Stella remembers him.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	When I was little he would play poker at the house and drop quarters under the table for me to find.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	He got word from an L.A. connection named Skinny Pete that a gold dealer has been buying bricks with the Balinese girl on them, three or four at a time.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	You ever heard the expression, cut to the chase?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	I tracked Steve down to an address in the Hollywood Hills. He's changed his last name to Frezelli. And get this: he had a Worthington 1000 installed in the house before he even moved in. We both know that you don't install a Worthington 1000 unless you have something precious to guard.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Precious or not, I don't deal with ill-gotten goods.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	We boosted that gold from a terrorist group that was about to trade it for bio-weapons. Now that doesn't exactly make us Robin Hood, but maybe in our own little way we were doing a good deed. Problem is, no one in my crew can handle that safe. And I need someone I can trust.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	And you think that's me? Haven't you heard that I work for the other side?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	What I heard is that you have your father's touch. And he was the only safecracker I knew who could open a Worthington 1000.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	I'm not a safecracker. I'm a professional safe and vault technician.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	You're John Bridger's daughter. And this is our chance to set things right.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+That sets her off.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Our chance? Who do you think you are coming in here? Stealing the gold isn't going to bring my father back to life.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	No, it won't.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Then get out.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+:SC: EXT. STREET — DAY
+</DIRECTION>
+<DIRECTION>
+Charlie comes out of her shop and starts down the sidewalk.
+</DIRECTION>
+<DIRECTION>
+Suddenly, Handsome Rob appears out of the crowd and is walking next to him.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	How'd it go with the chick?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	I'm working on it.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	I don't want her on the crew, Charlie.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Gotta have her. Important piece of the puzzle.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	There has to be someone else. What about Bill Huchins?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Doing ten long at Levinworth.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Red O'Reilly?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Chemo.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Martin Hernandez?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Found Jesus.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Handsome Rob stops Charlie.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	I don't want a civilian to screw this up.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	She has the skill. And the motivation.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Exactly. She's emotional. You know what happens when emotion gets into it.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	It's emotional for all of us at this point. Don't kid yourself.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. EXPENSIVE RESTAURANT/BAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+RICHARD WORTH has his back to the bar. He's a blue blood trial lawyer with an ego that has more horsepower than a Ferrari.
+</DIRECTION>
+<RICHARD>
+	<DIALOGUE>
+	It's all in my patented sideways glance. Like this...
+	</DIALOGUE>
+</RICHARD>
+<DIRECTION>
+He gives a sideways glance to Stella; it's their first date.
+</DIRECTION>
+<RICHARD>
+	<DIALOGUE>
+	I hit each woman on the jury with one of these. We make contact. And I know exactly what they're doing. Undressing me with their eyes.
+	</DIALOGUE>
+</RICHARD>
+<STELLA>
+	<DIALOGUE>
+	I see...
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+What a nightmare. Someone bumps into Stella, a mumbled, "Excuse me." Nightmare continues...
+</DIRECTION>
+<RICHARD>
+	<DIALOGUE>
+	The case is all but won. That's why in jury selection I choose as many women as possible. Except lesbians, of course. I can tell in sixty seconds if they're a lesbian. Want to know how I know?
+	</DIALOGUE>
+</RICHARD>
+<STELLA>
+	<DIALOGUE>
+	If they don't undress you with their eyes?
+	</DIALOGUE>
+</STELLA>
+<RICHARD>
+	<DIALOGUE>
+	Precisely. Like that waitress right there. See? She's looking at me right below my belt. Definitely not a lesbian.
+	</DIALOGUE>
+</RICHARD>
+<DIRECTION>
+A waitress is indeed looking below Richard's belt. But Stella notices that she was only looking because Richard's zipper is all the way down. She smiles.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Your fly.
+	</DIALOGUE>
+</STELLA>
+<RICHARD>
+	<DIALOGUE>
+	I am fly. And I'm da bomb. Just wait until later tonight.
+	</DIALOGUE>
+</RICHARD>
+<DIRECTION>
+Suddenly a BUSBOY stumbles and a tray of drinks fall, soaking Richard's suit in red wine.
+</DIRECTION>
+<BUSBOY>
+	<DIALOGUE>
+	Oh, man. I'm sorry.
+	</DIALOGUE>
+</BUSBOY>
+<RICHARD>
+	<DIALOGUE>
+	You should be. Moron. What the hell's wrong with you?
+	</DIALOGUE>
+</RICHARD>
+<BUSBOY>
+	<DIALOGUE>
+	It was an accident. I'm very sorry.
+	</DIALOGUE>
+</BUSBOY>
+<RICHARD>
+	<DIALOGUE>
+	Where's the manager? Richard Worth is not paying to have his suit cleaned. Damn.
+	</DIALOGUE>
+<DIRECTION>
+(to Stella)
+</DIRECTION>
+	<DIALOGUE>
+	I'm going to... I don't believe this.
+	</DIALOGUE>
+</RICHARD>
+<DIRECTION>
+He starts off to the bathroom and as soon as the space he was occupying empties, Charlie fills it.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	I think your date's going pretty well, what do you think?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+She shoots him a look that could reverse global warming.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	What are you doing here?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	What do you mean? I come here all the time.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	I don't think so.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Sure. Lawyers, Judges, my kind of crowd. See that gentleman there, he sentenced me to 90 days in county once. We need to talk.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	No, you need to listen. I want you to leave. Got it?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Hey, I paid valet parking prices to get in here, not to mention a twenty spot to the busboy to spill that drink on Mister Zipper.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	You -- I don't believe this. You paid someone to spill that drink?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Actually, you paid for it.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Charlie returns her wallet.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Didn't notice it was me who bumped into you earlier, did you? Anyway, I was hoping we could get to know each other a little better before we leave for Los Angeles. I already booked your flight.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	You truly are a fatuous, odious man.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	I have no idea what you just said, but I like the sound of it.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Well maybe you'll understand this. Hit the road, Jack --
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Charlie --
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Or you'll be sorry, Charlie, cause I'll kick you in the nuts so hard that your voice will be as high as my heels.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+She means it, too.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	I'm beginning to worry about this whole relationship.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	I'll let you in on a secret. You can't have a relationship with a pickpocket, gold robber, or any kind of thief.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Charlie looks away, lets her have her point. This whole thing is getting pretty heated so when he turns back to her, he uses a whole new approach. His emotions are genuine.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	John wasn't just a man I crewed up with, he was my friend, he was the closest thing to a father I ever had. I wish to God I could bring him back. But all I can do is go after this guy, the guy that killed him, and hit him where he lives.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+She feels the honesty in his words but before she can reply, they're interrupted by --
+</DIRECTION>
+<RICHARD>
+	<DIALOGUE>
+	Everything alright, Stella?
+	</DIALOGUE>
+</RICHARD>
+<DIRECTION>
+He's back, red wine splotched on his suit.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Fine. Richard. Charlie. Charlie was just saying goodbye.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+But for now, Charlie is just staring at Richard, boring into to him...
+</DIRECTION>
+<RICHARD>
+	<DIALOGUE>
+	Can I help you with something?
+	</DIALOGUE>
+</RICHARD>
+<CHARLIE>
+	<DIALOGUE>
+	Oh, sorry. I was just undressing you with my eyes.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+And with that, Charlie goes. Stella can't help but smile.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STELLA'S CONDO - NIGHT
+</DIRECTION>
+<DIRECTION>
+She comes home, having shed her date.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STELLA'S BEDROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+She goes through a drawer and pulls out a package she hasn't looked at for years. She opens it.
+</DIRECTION>
+<DIRECTION>
+Inside is the beautiful necklace that her father bought her in Italy. It brings tears to her eyes.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S BEDROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+He lies in bed, can't sleep. His phone rings. He picks up.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Hello.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. STELLA'S BEDROOM - INTERCUT
+</DIRECTION>
+<DIRECTION>
+She's on the other end of the line.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	I'm in this for one thing, Charlie, and one thing only. I want to see the look on his face when his gold is gone. He took my father from me, I'm taking this; it's the best I can do.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STREETS - DAY
+</DIRECTION>
+<DIRECTION>
+Stella's Mini passes, weaves, tucks in between cars. She drives like a madman.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MINI (SPEEDING)
+</DIRECTION>
+<DIRECTION>
+Charlie feels like he's inside a video game.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	I see Drive Defensively is your motto.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Don't worry. Jack Daniels never let me down.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+She slaps the dashboard of her car.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	By the way you drive, I'm not surprised you named your car after a bottle of whiskey. Left.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Jack Daniels was chief engineer of the Mini. And I drive it exactly the way it was meant to be driven.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+She whips down the avenue.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Another left.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+She hangs a left.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	We're going in circles. Who's tailing you this week?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	The possibilities are endless.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: EXT. STADIUM PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+The Mini parks in the middle of the huge, empty lot that surrounds Veterans Field, home of the Philadelphia Phillies.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MINI
+</DIRECTION>
+<DIRECTION>
+She looks around...
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Where are they?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	We're a little early. I didn't expect us to get here quite that fast. There...
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+A Vespa pulls into the lot, headed their way. It's Lyle.
+</DIRECTION>
+<DIRECTION>
+Charlie starts the introductions.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	That's Lyle. Gearhead. He's who really invented Napster...
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+QUICK CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. DORM ROOM - NORTHEASTERN UNIVERSITY - 1999 - NIGHT
+</DIRECTION>
+<DIRECTION>
+Below a Metallica poster, Lyle has fallen asleep on his desk.
+</DIRECTION>
+<DIRECTION>
+His roommate, Napster creator SHAWN FANNING, recognizable in his trademark baseball cap, sneaks a peek at Lyle's computer.
+</DIRECTION>
+<CHARLIE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	At least that's how Lyle tells it.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+CUT BACK TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MINI - DAY
+</DIRECTION>
+<DIRECTION>
+And now they see a monster pick-up truck bouncing into the lot, MUSIC THUMPING from its Alpine at ear-bleeding levels.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Half-Ear. Explosives. He lost fifty percent of his hearing in the fifth grade.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+QUICK CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. GRAMMAR SCHOOL BATHROOM - 1990 - DAY
+</DIRECTION>
+<DIRECTION>
+A 10 year old boy stands in front of a toilet in the stall.
+</DIRECTION>
+<DIRECTION>
+BOOM! Water geysers out of the bowl and soaks him.
+</DIRECTION>
+<CHARLIE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	One M-80 in the toilet bowl too many.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Some kids in the bathroom saw the whole thing.
+</DIRECTION>
+<KID>
+	<DIALOGUE>
+	That was rad!
+	</DIALOGUE>
+</KID>
+<HALF_EAR>
+	<DIALOGUE>
+	Wha'?
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+CUT BACK TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MINI - DAY
+</DIRECTION>
+<DIRECTION>
+And now a RUMBLING in the distance. Stella looks. Sees a car streaking their way, almost like a mirage in the heat waves coming off the pavement. Closer. Faster. A classic Mustang. Its engine rumbles like a jackhammer. It's had some serious custom work done to it.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Handsome Rob. Premier wheel man. He once drove all the way to L.A. just so he could set the record for longest freeway chase.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+QUICK CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. L.A. FREEWAY - 1999 - DAY
+</DIRECTION>
+<DIRECTION>
+Handsome Rob's behind the wheel, flicks a cigarette butt out his open window --
+</DIRECTION>
+<DIRECTION>
+We watch it hit the pavement, ashes spark, and then behind the fallen butt we see that every lane of the 405 is filled with cop cars in pursuit.
+</DIRECTION>
+<CHARLIE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Smashed the mark by twelve minutes.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+We now see Handsome Rob through the lens of a TV news helicopter camera.
+</DIRECTION>
+<CHARLIE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	He got a hundred and ten love letters sent to his jail cell from women who saw him on TV.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+CUT BACK TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MINI - DAY
+</DIRECTION>
+<DIRECTION>
+As the cars converge in the parking lot...
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	And what about you?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	I've been a thief since I had baby teeth.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+QUICK CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. GRAMMAR SCHOOL PLAYGROUND - DAY
+</DIRECTION>
+<DIRECTION>
+SEVEN YEAR OLD CHARLIE is shoved against a chain link fence by a SIXTH GRADE BULLY.
+</DIRECTION>
+<BULLY>
+	<DIALOGUE>
+	Cough it up, Charlie!
+	</DIALOGUE>
+</BULLY>
+<DIRECTION>
+Charlie hands the bully a dollar bill. The bully puts it in a wallet that is over-stuffed with cash and saunters off, laughing it up with his bully pals. Charlie turns to his 2nd grade classmate who sports a fresh black eye.
+</DIRECTION>
+<CLASSMATE>
+	<DIALOGUE>
+	So much for lunch.
+	</DIALOGUE>
+</CLASSMATE>
+<SEVEN_YEAR_OLD_CHARLIE>
+	<DIALOGUE>
+	You need a dollar?
+	</DIALOGUE>
+</SEVEN_YEAR_OLD_CHARLIE>
+<CLASSMATE>
+	<DIALOGUE>
+	I thought he took your last one.
+	</DIALOGUE>
+</CLASSMATE>
+<SEVEN_YEAR_OLD_CHARLIE>
+	<DIALOGUE>
+	He did.
+	</DIALOGUE>
+</SEVEN_YEAR_OLD_CHARLIE>
+<DIRECTION>
+Charlie holds up the over-stuffed wallet that he pickpocketed from the bully.
+</DIRECTION>
+<SEVEN_YEAR_OLD_CHARLIE>
+	<DIALOGUE>
+	But I got lots more now.
+	</DIALOGUE>
+</SEVEN_YEAR_OLD_CHARLIE>
+<DIRECTION>
+CUT BACK TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. PARKING LOT - DAY
+</DIRECTION>
+<DIRECTION>
+Doors open simultaneously. Everyone out. The crew eyes Stella. Charlie gets right down to business.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	This is Stella. She's working with us on this one. IDs?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Handsome Rob hands out fake driver's licenses.
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(reading his)
+</DIRECTION>
+	<DIALOGUE>
+	Melvin Lisp? Could I -- just once -- have a cool name?
+	</DIALOGUE>
+</LYLE>
+<HALF_EAR>
+<DIRECTION>
+(also complaining)
+</DIRECTION>
+	<DIALOGUE>
+	220 pounds? Try 180.
+	</DIALOGUE>
+</HALF_EAR>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Try 'Deal A Meal'.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<LYLE>
+	<DIALOGUE>
+	I don't even have a cool nickname.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	Enough of this sewing-circle shit. Phones.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Half-Ear hands out new cell phone to everyone and takes their old phones.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Philly Steak says these are clean as a whistle. He also got us four dozen internal chips with different numbers. Change out the chips twice a day.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+As Charlie hands out airline tickets --
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	We travel to L.A. separately.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	You still haven't told us the most important thing. What exactly is the job, Charlie? And who exactly is she?
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Lyle and Half-Ear have been kept in the dark until now.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	This is Stella Bridger. And we're finishing the job that we started in Italy.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+They're a little stunned at first.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Holy shit. It's about time.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+MONTAGE - LAX - NIGHT
+</DIRECTION>
+<DIRECTION>
+The crew deplane from five different airplanes, different air carriers.
+</DIRECTION>
+<DIRECTION>
+They disperse in separate vehicles. See Charlie at Avis, renting a car.
+</DIRECTION>
+<DIRECTION>
+See Handsome Rob renting a U-Haul panel truck.
+</DIRECTION>
+<DIRECTION>
+See Stella on a hotel shuttle bus.
+</DIRECTION>
+<DIRECTION>
+See Half-Ear on the underground Metro Rail, taking the Red Line.
+</DIRECTION>
+<DIRECTION>
+See Lyle in a taxi, headed south on Figueroa Street. He notices a YOUNG WOMAN HITCHHIKING. For a moment, their eyes connect. She is a beautiful waif and the feeling sweeps through Lyle: if only... But the taxi passes by.
+</DIRECTION>
+<DIRECTION>
+Charlie checks into Shutters, with its Victorian beach house feel and oceanfront view.
+</DIRECTION>
+<DIRECTION>
+Stella's at the Peninsula in Beverly Hills with its opulent lobby.
+</DIRECTION>
+<DIRECTION>
+Handsome Rob's at the Standard, with its kitschy decor and ironic style. He stares at a huge empty aquarium behind the front desk where a performance artist writhes and a DJ spins out rhythmic throbs. Very L.A.
+</DIRECTION>
+<DIRECTION>
+Half-Ear's at the new Renaissance Hollywood Hotel adjacent to the dramatic Babylon Gate and the Kodak Theatre.
+</DIRECTION>
+<DIRECTION>
+And Lyle's at the Downtown Bonaventure, riding up the glass elevator. Perfect gearhead hotel.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. SHUTTERS HOTEL - BALCONY - SUNSET
+</DIRECTION>
+<DIRECTION>
+The five of them sit in chairs on the balcony of his hotel room. There's a sweeping view of the Pacific.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	We need an in to get a video blueprint of the interior. We're not going into this place blind. Half-Ear, you take the first surveillance shift. Who goes in, who goes out, levels of security, you know the drill.
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	You got it.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	I also want audio surveillance on his phone.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	I'll hack into the phone company's central office remote observance monitoring system and fool it into thinking there's a legal tap on the line. Reroute the digital copies of his calls to our own listening post.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	How long?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	I'll burn through the night, have it up and running before morning.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+<DIRECTION>
+(to Handsome Rob)
+</DIRECTION>
+	<DIALOGUE>
+	We need to know how long to get from the house to Union Station downtown.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	No problemo.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Stella. How much time will you need with the safe?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	I'll have it open in five minutes flat.
+	</DIALOGUE>
+</STELLA>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	It's not the same as opening a safe for the cops. Your heart will be pounding in your ears. Perspiration on your fingertips. It's a whole different ball game.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<STELLA>
+	<DIALOGUE>
+	You get me to the safe, I'll open it.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Out over the ocean, the sun is in its death throes, bruising the sky a coiling purple and orange.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STEVE'S HOUSE - MORNING
+</DIRECTION>
+<DIRECTION>
+Nestled at the end of a cul-de-sac on Oporto Drive in the Hollywood Hills. Chrome. Glass. Carved wood.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MARAVILLA DRIVE - MORNING
+</DIRECTION>
+<DIRECTION>
+The U-Haul panel truck is parked on the side of the road that overlooks Oporto Drive and Steve's house.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - MORNING
+</DIRECTION>
+<DIRECTION>
+It's been converted into their surveillance vehicle, the back outfitted with monitors and surveillance equipment.
+</DIRECTION>
+<DIRECTION>
+Half-Ear peers through binoculars and says his notes into a micro-cassette recorder. His binoculars focus in on the fence that surrounds the perimeter of the property.
+</DIRECTION>
+<HALF_EAR>
+<DIRECTION>
+(into recorder)
+</DIRECTION>
+	<DIALOGUE>
+	We've got an anti-scaling fence. Hardened, electroplated steel. Hacksaw won't work. We'll need Nitramon.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+The binoculars SWISH PAN TO a guard booth where a guard keeps an eye on the gate.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Armed guard. 9MM semi-automatic in the holster. Security booth is accessible and ideal for a triple charger chemical grenade.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+The binoculars SWISH PAN TO four Rottweilers prowling the grounds.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Shit. Dogs. Why do black men hate dogs? I'll tell you why, Charlie. Because dogs are racist. That's a natural fact. Someone else deal with 'em.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+:SC: EXT. 101 FREEWAY - DAY
+</DIRECTION>
+<DIRECTION>
+A sea of cars, gridlock in L.A. Crammed in the middle of the traffic meltdown is Handsome Rob's rental car.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR (CRAWLING)
+</DIRECTION>
+<DIRECTION>
+Timing out the getaway route. He's got a Thomas Guide on the passenger seat and a stopwatch ticking away but he's going nowhere fast. He futilely leans on the car horn.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - DAY
+</DIRECTION>
+<DIRECTION>
+Lyle's surveillance shift. He takes digital photos with a telephoto camera. ZOOMS IN on a security pad on the front door.
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(into micro cassette player)
+</DIRECTION>
+	<DIALOGUE>
+	Advent Home Navigator Hybrid System. Monitors 132 points for intrusion, fire, and environmental hazards. Best way around it is to get a back door password, trip the alarm during the heist, then call it in as a false alarm.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STEVE'S HOUSE - OFFICE - DAY
+</DIRECTION>
+<DIRECTION>
+A HAND turns the dial to a Worthington 1000 vault. The vault opens and voila: stacks and stacks of gold bricks.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STEVE'S HOUSE -DAY
+</DIRECTION>
+<DIRECTION>
+The same hand clutches a very heavy duffle bag. OUR VIEW BOOMS UP to see Steve, three years older than when we last saw him, his beard shaved away.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Through his digital camera lens, Lyle watches Steve walk towards his car: a Ferrari 550 Barchetta Pininfarina. It's the first time he's seen Steve in three years.
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(into micro cassette recorder)
+</DIRECTION>
+	<DIALOGUE>
+	15:25. There he is. He's gained 15 to 20 pounds living off our money. And Handsome Rob, you're going to be pissed when you see his wheels.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Lyle watches the security guard hit a switch in the guard booth. The gate rises like the blade of a guillotine in reverse. The Ferrari zooms away.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. FIGUEROA STREET - DAY
+</DIRECTION>
+<DIRECTION>
+Another route. Handsome Rob's rental car is in the left turn lane waiting for the light to change.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR
+</DIRECTION>
+<DIRECTION>
+The light finally is a green arrow but the lady in front of Handsome Rob is so preoccupied with applying her make-up that she doesn't go until he honks but by then it's too late as she makes it through the light but he doesn't.
+</DIRECTION>
+<DIRECTION>
+He checks his stopwatch. Simmers.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. PENINSULA HOTEL - POOLS SIDE - DAY
+</DIRECTION>
+<DIRECTION>
+In a bikini, Stella lies on a lounge chair under a cabana, reading a copy of Vogue magazine.
+</DIRECTION>
+<DIRECTION>
+But as we take a closer look, we see that she's really reading the owner's manual for the Worthington 1000 safe which she's inserted in the fold of Vogue.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - DAY
+</DIRECTION>
+<DIRECTION>
+Charlie's shift. He sees a Latina housekeeper get into her car.
+</DIRECTION>
+<CHARLIE>
+<DIRECTION>
+(into micro cassette recorder)
+</DIRECTION>
+	<DIALOGUE>
+	Housekeeper leaves at 17:30.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: EXT. COIN & BULLION STORE - EVENING
+</DIRECTION>
+<DIRECTION>
+Steve bangs a fist against the steel security door that covers the closed store. The steel door rises up and a Ukrainian named YEVHEN unlocks another door. He is the gold dealer that Philly Steak told Charlie about.
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	You're right on time.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+:SC: INT. COIN & BULLION STORE - EVENING
+</DIRECTION>
+<DIRECTION>
+Yevhen is 50 and like many in the gold trade, there isn't a conspiracy theory that he doesn't embrace. As they make their way to a back room, he keeps his mouth in overdrive --
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	All those poor bastards out there putting their life savings in banks and S&Ls and mutual funds. What do they think -- that when the collapse comes they can depend on the government? I don't think so.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Steve motions to a security camera that looms down on them.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Is the camera off?
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	Of course. Just like you said. I never tape you, you can see for yourself.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Steve sees the red light is off. He lays the duffel bag on a table, unzips it, pulls out three 25 pound gold bricks with the face of a Balinese Girl stamped on each one. As Yevhen inspects them --
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	Governments are nothing more than puppets on the strings of the Trilateral Commission with their twisted gods.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Yevhen retrieves a briefcase, opens it, presenting Steve with stacks of Ben Franklins: $100,000 worth. As Steve inspects the cash --
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	I mean, it's so obvious that in a world where NAFTA can overturn the Supreme Court, not to mention Microsoft's nefarious financial machinations, this, is our only refuge; gold.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Steve closes the briefcase.
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	Plus a little walking around money.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+:SC: EXT. 7TH STREET - NIGHT
+</DIRECTION>
+<DIRECTION>
+A fender bender in the middle of an intersection has traffic backed up for miles.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR
+</DIRECTION>
+<DIRECTION>
+Handsome Rob checks the latest time on the stopwatch.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - NIGHT
+</DIRECTION>
+<DIRECTION>
+Through night-vision binoculars Charlie sees a (different) security guard open the gate as Steve returns.
+</DIRECTION>
+<DIRECTION>
+He watches Steve go inside his house. Through the windows, he sees him use a remote to turn on a TV.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. 101 FREEWAY - THE NEXT DAY
+</DIRECTION>
+<DIRECTION>
+A freeway sign says: UNION STATION 1/2 MILE
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR
+</DIRECTION>
+<DIRECTION>
+HANDSOME ROB can see the exit up ahead, but traffic is so backed up and going nowhere that it feels like it's a hundred miles away. And it's not even rush hour. Just life in L.A.
+</DIRECTION>
+<DIRECTION>
+Idling on the freeway, he looks at the drivers in the cars beside him. He sees a businesswoman reading the Wall Street Journal. Sees a man with his finger deep, deep up his nose.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Where's a grenade launcher when you need one?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: EXT. YAMASHIRO RESTAURANT - DAY
+</DIRECTION>
+<DIRECTION>
+Our crew walks along the pathways of Japanese gardens that wind along outside the restaurant. It's a breathtaking view from high in the Hollywood Hills. Some tourists take in the vista.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Doesn't matter what time it is. It's either bad traffic, peak traffic, or slit-your-wrists traffic.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<HALF_EAR>
+	<DIALOGUE>
+	You gotta ride the Metro-Rail, man.
+	</DIALOGUE>
+</HALF_EAR>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	I'm sure it's ideal for carrying a ton of gold, genius.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	What's your guesstimate?
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	If we had all green lights, fourteen minutes. But in the twenty times I've done it, the average is thirty- two minutes, with a top time of fifty minutes.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Then we'll travel like Rockefeller.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+They don't know where Charlie is going with this, but they've been around him long enough to know it's going somewhere.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	When cars first started catching on, workers on tall ladders would use these swiveling colored boards for traffic signals. Now whenever Rockefeller would take the drive from his mansion to his office on Wall Street, the workers would make sure that he got green boards all the way.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	How do we get all green lights?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Lyle?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Let me see what I can do.
+	</DIALOGUE>
+</LYLE>
+<HALF_EAR>
+	<DIALOGUE>
+	Did you know that the first traffic signal to be patented was invented by a black man named Garrett Morgan?
+	</DIALOGUE>
+<DIRECTION>
+(to Charlie)
+</DIRECTION>
+	<DIALOGUE>
+	You're not the only one who watches the History Channel.
+	</DIALOGUE>
+</HALF_EAR>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	We still need an in to get the video blueprint.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<LYLE>
+	<DIALOGUE>
+	Carpet cleaners? Gutter cleaners? Flower delivery?
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	We'll never get by the guard unless they're certain it's legit. I'm thinking cable TV. We cut his cable, he calls the cable company. We show up. Send a cable technician into the house with a pinhole video camera while we get a feed through an RF antenna.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Who plays cable technician? Steve thinks we're all dead.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+But Stella knows that's not exactly true. He doesn't think Stella is dead; he doesn't know her at all.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	If you're all dead, I guess I'm the man for the job.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Are you up for it?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	In for a penny, in for a pound.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+:SC: EXT. ADELPHIA CABLE - PARKING LOT - EVENING
+</DIRECTION>
+<DIRECTION>
+Service trucks pull into the lot. Technicians are getting out, finishing their shifts.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR (PARKED NEARBY)
+</DIRECTION>
+<DIRECTION>
+Handsome Rob behind the wheel. Lyle shotgun, aiming his digital camera at the exiting workers.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	I'm telling you. He claims he named it Napster because his hair is so nappy underneath that cap of his. But I know the real reason. It's because I was NAPPING when he stole the idea from me. I should've been on the cover of Wired magazine.
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Would you clam up. You'd give a woodpecker a headache.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<LYLE>
+	<DIALOGUE>
+	I'm the Napster.
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Okay. You're the Napster. Heads up: cable chick.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+They see a female service tech getting out of her work truck.
+</DIRECTION>
+<DIRECTION>
+Lyle zooms his camera lens in on her Adelphia Cable work shirt. It has BECKY sewn in above her right breast.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Becky. Nice name. I wonder what she calls the other one.
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	And it's such a mystery why you don't have a girlfriend.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<LYLE>
+	<DIALOGUE>
+	I had a girlfriend. Unfortunately even though the relationship ceased in an objective reality, it's still going on in my mind.
+	</DIALOGUE>
+<DIRECTION>
+(tapping his head)
+</DIRECTION>
+	<DIALOGUE>
+	That woman's lived in here rent-free for four years.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Lyle takes a few more pictures of Becky.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Okay. All we need now is a work shirt like this one and a service truck like that one. You think Stella will be able to pull it off?
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	I have my doubts, but there's no talking to Charlie.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<LYLE>
+	<DIALOGUE>
+	Maybe he's been inserting his hard drive into her software. Clouds the judgment.
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	He knows better than to mix business with pleasure.
+	</DIALOGUE>
+<DIRECTION>
+(getting out of the car)
+</DIRECTION>
+	<DIALOGUE>
+	Only I'm allowed to do that.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<LYLE>
+	<DIALOGUE>
+	Where you going?
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	To get a work shirt and a service truck.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+Lyle watches him stroll over to Becky and strike up a conversation in the parking lot. Lyle can't hear what's being said, but Becky smiles, and lest we forget, his name is Handsome Rob for a reason.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. BECKY'S APARTMENT - NIGHT
+</DIRECTION>
+<DIRECTION>
+OUR CAMERA FOLLOWS a trail of clothes, hastily littered, that lead to the cable chick's bed. Lit candles are on the bedside table. The couple is asleep under a tangle of sheets. Handsome Rob has clearly mixed business with pleasure. His eyes flash open.
+</DIRECTION>
+<DIRECTION>
+He slips out of bed. Pulls on his pants. Reaches into her pants and removes her key chain.
+</DIRECTION>
+<DIRECTION>
+He selects the key to her service truck and does an old trick: he blows out one of the candles and presses the key against the warm wax, making a clear impression of the key's ridges.
+</DIRECTION>
+<DIRECTION>
+He returns the key chain. Takes a couple more steps, past her panties, past her bra and.
+</DIRECTION>
+<DIRECTION>
+He snags her work shirt. Then he's gone.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HANDSOME ROB'S HOTEL ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+Using locksmith equipment, he cuts a key that matches the impression on the candle wax.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ADELPHIA CABLE PARKING LOT - DAWN
+</DIRECTION>
+<DIRECTION>
+Stella, wearing Becky's work shirt, arrives before any other workers. Using the key Handsome Rob made, she unlocks the door to the cable truck and gets in.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. NEARBY STREET - MORNING
+</DIRECTION>
+<DIRECTION>
+The cable truck pulls over. Charlie and Lyle climb into the back where they can't be seen.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. OPORTO DRIVE -MORNING
+</DIRECTION>
+<DIRECTION>
+The cable repair truck pulls over, parking down the street from Steve's house.
+</DIRECTION>
+<DIRECTION>
+Charlie gets out. He quickly uses a crowbar to lift up a sidewalk cement grate that says CABLE on it. Inside are cable wires that feed the street. He crouches over and uses pliers to disconnect one of the cables.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STEVE'S HOUSE - MORNING
+</DIRECTION>
+<DIRECTION>
+He drifts into the kitchen for a cup of coffee. He hits the remote control for a TV. It turns on but there's nothing but snow.
+</DIRECTION>
+<DIRECTION>
+He goes into the living room and checks out the plasma TV.
+</DIRECTION>
+<DIRECTION>
+The cable's not working in here, either. He hits an intercom button on his telephone.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. GUARD HOUSE - INTERCUT
+</DIRECTION>
+<DIRECTION>
+A SECURITY GUARD answers the intercom.
+</DIRECTION>
+<SECURITY_GUARD>
+	<DIALOGUE>
+	What can I do for you, Mister Frezelli?
+	</DIALOGUE>
+</SECURITY_GUARD>
+<STEVE>
+	<DIALOGUE>
+	The cable's out. See if you can get someone over here to fix it'.
+	</DIALOGUE>
+</STEVE>
+<SECURITY_GUARD>
+	<DIALOGUE>
+	Yes, sir.
+	</DIALOGUE>
+</SECURITY_GUARD>
+<DIRECTION>
+He finds the number and dials.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CABLE TRUCK (PARKED) - MORNING
+</DIRECTION>
+<DIRECTION>
+Lyle monitors a digital copy of the security guard's call that's being routed to his laptop. Then he takes off his headphones and tells Charlie and Stella:
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Whoa. I've never heard the Muzak version of Purple Haze before.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	When's the appointment?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Thursday between 9 a.m. and 3 p.m.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Charlie dials a number on his cell phone.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. GUARD HOUSE - INTERCUT
+</DIRECTION>
+<DIRECTION>
+The security guard answers the phone.
+</DIRECTION>
+<SECURITY_GUARD>
+	<DIALOGUE>
+	Hello.
+	</DIALOGUE>
+</SECURITY_GUARD>
+<CHARLIE>
+	<DIALOGUE>
+	Yes, I'm calling from Adelphia Cable. I understand your service is out and an appointment was set up for Thursday.
+	</DIALOGUE>
+</CHARLIE>
+<SECURITY_GUARD>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</SECURITY_GUARD>
+<CHARLIE>
+	<DIALOGUE>
+	Well we have a technician working in your area who finished with an appointment earlier than expected. Will someone be there for the next hour?
+	</DIALOGUE>
+</CHARLIE>
+<SECURITY_GUARD>
+	<DIALOGUE>
+	Sure. That'd be great.
+	</DIALOGUE>
+</SECURITY_GUARD>
+<CHARLIE>
+	<DIALOGUE>
+	Our technician will see you then. Have a nice day.
+	</DIALOGUE>
+</CHARLIE>
+<SECURITY_GUARD>
+	<DIALOGUE>
+	You too.
+	</DIALOGUE>
+</SECURITY_GUARD>
+<DIRECTION>
+Charlie hangs up.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Let's check the camera.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Stella, you're going patriotic today.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Lyle puts an American flag pin on her work shirt. Then he hits keys on his laptop and an image pops up on his monitor via an RF antenna: the POV of the pin.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	He's got cable lines in the kitchen, living room, bedroom and a cable modem on the computer in the office. Try to get a 360 look at each room. And walk slowly or the image will streak.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Lyle hands her some papers.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	I printed these up to look like paperwork from Adelphia. When you're done, ask him to sign and date the bottom.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Stella looks very tense.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	How you doing?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Fine. I'm fine.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Charlie seems amused by that answer.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	You know what fine, stands for? Fucked- up, Insecure --
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Stella joins in with him...
+</DIRECTION>
+<STELLA_CHARLIE>
+	<DIALOGUE>
+	Neurotic and Emotional.
+	</DIALOGUE>
+</STELLA_CHARLIE>
+<DIRECTION>
+They look at each other a moment... and smile.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR (MOVING) - DAY
+</DIRECTION>
+<DIRECTION>
+While the others deal with the cable, Handsome Rob and Half- Ear drive down Sunset.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Here's our spot.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+They pull up in front of a strip joint.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Girls girls girls.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+Half-Ear pulls a switchblade out of his boot and puts it in the glove compartment. Handsome Rob gives him a questioning look.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Philly Steak said we'd be frisked.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+:SC: INT. STRIP CLUB - DAY
+</DIRECTION>
+<DIRECTION>
+Outside the doorway of a back room they're frisked by a BURLY MAN. He's very thorough, digging hard into their crotches.
+</DIRECTION>
+<HANDSOME_ROB>
+<DIRECTION>
+(scowls)
+</DIRECTION>
+	<DIALOGUE>
+	Y'got a great job.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<BURLY_MAN>
+	<DIALOGUE>
+	Pays the rent, asshole. You got a problem, talk to Skinny Pete.
+	</DIALOGUE>
+</BURLY_MAN>
+<DIRECTION>
+He opens the door to the --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. BACK ROOM
+</DIRECTION>
+<DIRECTION>
+Where we meet SKINNY PETE, who is the FATTEST MAN YOU'VE EVER SEEN. He takes up an entire couch in the rear of the room.
+</DIRECTION>
+<DIRECTION>
+His catcher's-mitt-sized hands motion them to come closer.
+</DIRECTION>
+<SKINNY_PETE>
+	<DIALOGUE>
+	Philly Steak sent you?
+	</DIALOGUE>
+</SKINNY_PETE>
+<DIRECTION>
+His voice is raspy, it's like a climbing-ten-floors-effort just for this guy to get out the words.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	That's right.
+	</DIALOGUE>
+</HALF_EAR>
+<SKINNY_PETE>
+	<DIALOGUE>
+	So was I right-on about the gold bricks or what?
+	</DIALOGUE>
+</SKINNY_PETE>
+<HALF_EAR>
+	<DIALOGUE>
+	That's really not what I'm here to talk about. Philly Steak said you could get us some supplies.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+The fattest man you've ever seen attempts a nod, triple-chins colliding like a train wreck.
+</DIRECTION>
+<SKINNY_PETE>
+	<DIALOGUE>
+	What do you need?
+	</DIALOGUE>
+</SKINNY_PETE>
+<HALF_EAR>
+	<DIALOGUE>
+	A four inch can of Nitramon. Nitramon primer. Detonating cord. Two triple charger chemical grenades. Launcher.
+	</DIALOGUE>
+</HALF_EAR>
+<SKINNY_PETE>
+	<DIALOGUE>
+	Nine p.m.
+	</DIALOGUE>
+</SKINNY_PETE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Should we hang here? Check out the dancers?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<SKINNY_PETE>
+	<DIALOGUE>
+	Nothing's going down here. I don't shit in my own yard, do you?
+	</DIALOGUE>
+</SKINNY_PETE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	No, but I take a whizz off the deck sometimes.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+With his distended belly and bursting shirt, his eyes glazing with repletion, Skinny Pete writes down an address.
+</DIRECTION>
+<SKINNY_PETE>
+	<DIALOGUE>
+	Five thousand dollars. And don't be late.
+	</DIALOGUE>
+</SKINNY_PETE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. SECURITY GUARD BOOTH -DAY
+</DIRECTION>
+<DIRECTION>
+Looking at a monitor, one of Steve's security guards sees the Adelphia repair truck pull up to the gate. He hits a button and the gate rises, beckoning it inside.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CABLE TRUCK (MOVING)
+</DIRECTION>
+<DIRECTION>
+Stella heads up the driveway, apprehension painted on her features. Lyle is hidden in the back.
+</DIRECTION>
+<DIRECTION>
+She parks next to the Ferrari and finds herself surrounded by the four Rottweilers. They snarl and flash their teeth outside her door until a shrill WHISTLE yanks their attention to --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STEVE'S HOUSE
+</DIRECTION>
+<DIRECTION>
+where Steve has just stepped out the front door. The dogs immediately back off.
+</DIRECTION>
+<DIRECTION>
+Stella gets out of the truck as Steve walks over, smiling at her.
+</DIRECTION>
+<DIRECTION>
+She comes face to face with the man who killed her father.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	It's all right. They won't bother you now.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+She's not sure she's going to be able to speak or pull this off.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	It's okay. I'm used to running into all sorts of dogs on my job.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+He holds out a hand.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	I'm Steve.
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Becky.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+She shakes his hand. She hates this, feeling his skin touch hers, but she can't betray her feelings. He stands there a moment.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	You want to show me the problem?
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	Yeah. Course. This way.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+:SC: INT. STEVE'S HOUSE - SAME TIME
+</DIRECTION>
+<DIRECTION>
+She enters, moving her body to give the pinhole camera a full sweep of the entryway.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	I'd like to check the cable modem first.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+:SC: INT. BACK OF THE CABLE REPAIR TRUCK - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Lyle watches Stella and Steve on his laptop via the pinhole camera and hears them talking through his headphones.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HALLWAY - INTERCUT
+</DIRECTION>
+<DIRECTION>
+Steve leads Stella down the marbled hall...
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	I'll show you.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+They step into the --
+</DIRECTION>
+<OFFICE>
+	<DIALOGUE>
+	She turns her body so the mini-lens can stare at the gleaming black Worthington 1000 safe. Then she goes up to his desk and pretends to work on the cable line that feeds into his computer.
+	</DIALOGUE>
+</OFFICE>
+<DIRECTION>
+He stares at her as she bends down...
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	The cable guy who hooked this up weighed about 300 pounds, didn't wear any underwear, and his pants slung a little too low if you know what I mean.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+She tries her best to ignore his flirtatious stare and his words.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	There we go. Now onto the TVs.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+:SC: INT. BACK OF THE CABLE TRUCK - DAY
+</DIRECTION>
+<DIRECTION>
+Lyle sees a perfect view of the main hallway as Stella walks down it.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. LIVING ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+He escorts her inside. She works on the cable connection to the plasma TV. Finishes.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Is it fixed?
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Turn it on and see.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+:SC: EXT. OPORTO DRIVE - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Back at the spot where Charlie disconnected the cable.
+</DIRECTION>
+<DIRECTION>
+Wearing a headset with a mic, he gets the word from Lyle --
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Now.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Charlie reconnects the cable just as --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. LIVING ROOM
+</DIRECTION>
+<DIRECTION>
+Steve turns on the TV and the picture is --
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Perfect.
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Then it looks like you're all set.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Steve stares at her a moment.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Have we met before?
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+She's hoping to get out as quickly as she can.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	I don't think so. Sign here, please.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+She hands him the paperwork and a pen. He signs it.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Date.
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	You read my mind.
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Oh, no. I meant that I need you to put the date by your signature. It's the 26th.
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	I know what you meant.
+	</DIALOGUE>
+<DIRECTION>
+(he smiles)
+</DIRECTION>
+	<DIALOGUE>
+	This might seem a little sudden, but... would you like to have dinner with me?
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	I don't think that'd be a very good idea.
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	Why? Is there some kind of cable- rule against dating customers?
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	No, it's my rule. I don't accept dates from men I've just met. I've only known you five minutes.
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	Then I guess I'll have to sabotage my cable over and over again until you get to know me better.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+He's being charming, and she has to act like he is being charming, but she really wants to throw-up.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Look, I'm just talking about dinner. Friday night. It's no big deal. If you don't like me, you never have to see me again. You know I'm not going to stop until you say yes.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CABLE TRUCK (MOVING) - DAY
+</DIRECTION>
+<DIRECTION>
+Stella drives in heavy traffic down Sunset. Charlie and Lyle are in the back.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	I know it was tough in there.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	He touched my hand. And he came-on to me. That slimy, disgusting man came onto me and I had to pretend that I liked it.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Stella keeps her eyes forward, on the road, so Charlie and Lyle can't see her face. But Charlie catches her reflection in the rearview mirror and watches a tear glide down her cheek. She wipes it away.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	You do know what this means... I've created our window of opportunity.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	I know. When Steve leaves Friday night, we go in. By the time he realizes you've stood him up, we'll be long gone with the gold.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOUSING PROJECTS - NIGHT
+</DIRECTION>
+<DIRECTION>
+A different world. A different vibe. That feeling in the gut: you don't belong here.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR (MOVING)
+</DIRECTION>
+<DIRECTION>
+Handsome Rob drives, Half-Ear in the passenger seat.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Skinny Pete.
+	</DIALOGUE>
+</HALF_EAR>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	The guy makes Jabba the Hut look like a spokesman for the Subway Sandwiches' diet.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+They pull over in front of the apartment building that Pete sent them to.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	What do you think?
+	</DIALOGUE>
+</HALF_EAR>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	I'm trying not to.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: EXT. APARTMENT BUILDING - NIGHT
+</DIRECTION>
+<DIRECTION>
+Half-Ear hits the buzzer for the apartment number on the paper from the fat man. The door to the building buzzes in response and they go inside.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. APARTMENT BUILDING - NIGHT
+</DIRECTION>
+<DIRECTION>
+Climbing stairs. From behind closed doors: TVs, crying babies, violent yelling. They start down a hallway. Ahead of them a door opens and a suitcase is put in front of the doorway. The door closes. They don't even get a glance at whomever is inside.
+</DIRECTION>
+<DIRECTION>
+They go to the suitcase. Half-Ear clicks open the lock for just a peek. He sees the goods.
+</DIRECTION>
+<DIRECTION>
+Handsome Rob starts to slide an envelope of cash under the door frame. Its sucked out of his hand by someone on the other side of the door and disappears.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. APARTMENT BUILDING - NIGHT
+</DIRECTION>
+<DIRECTION>
+Half-Ear carefully deposits the suitcase into the trunk of the rental car. Handsome Rob closes the trunk.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Drive slow. We crash and we're a crater.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+They get into the car.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTAL CAR
+</DIRECTION>
+<DIRECTION>
+Handsome Rob keys the ignition.
+</DIRECTION>
+<DIRECTION>
+The beam of his headlights illuminate TWO HOMEBOYS. TWO MORE step out of the shadows, one right up to the passenger's door window. That one taps a 9 MM against the glass.
+</DIRECTION>
+<DIRECTION>
+Half-Ear lowers the window. The homeboy pats one hand against the faux-leather inside of the door, his other hand clutches the weapon.
+</DIRECTION>
+<HOMEBOY>
+	<DIALOGUE>
+	What'd you put in the trunk?
+	</DIALOGUE>
+</HOMEBOY>
+<HALF_EAR>
+	<DIALOGUE>
+	Suitcase.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+The homeboy, bugging on crank, is not one to be fucked with.
+</DIRECTION>
+<HOMEBOY>
+	<DIALOGUE>
+	Just gimme the keys before I pop a cap in your head.
+	</DIALOGUE>
+</HOMEBOY>
+<DIRECTION>
+Handsome Rob takes the trunk key off the chain and passes it over to Half-Ear... who nervously drops it onto the carpeted floor.
+</DIRECTION>
+<HOMEBOY>
+	<DIALOGUE>
+	Hurry up!
+	</DIALOGUE>
+</HOMEBOY>
+<DIRECTION>
+Half-Ear reaches down for the key... but in the flash of an eye... moving so fast it almost doesn't register... we see him yank his switchblade from his boot, unleash its blade, and stab it down into the homeboy's hand. The knife goes through his hand and lodges into the faux-leather interior of the door.
+</DIRECTION>
+<DIRECTION>
+The homeboy suffers as Half-Ear whacks the gun out of his other hand -- while Handsome Rob keys the ignition and guns it.
+</DIRECTION>
+<DIRECTION>
+The other homeboys are already POPPING OFF SHOTS at the car with semi-automatic handguns. Half-Ear hits the deck. Glass shatters.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. TRUNK OF THE CAR
+</DIRECTION>
+<DIRECTION>
+Bullets slam into the trunk, illuminating the darkness with streaks of light from the bullet holes. They barely miss the suitcase filled with explosives.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RENTAL CAR (MOVING)
+</DIRECTION>
+<DIRECTION>
+The homeboy is still attached to the car door by the knife.
+</DIRECTION>
+<DIRECTION>
+His legs scurry to keep up with the moving vehicle but it's going too fast so pretty soon he's being dragged. Bullets whiz by him. He cries out in agony until Half-Ear has the time to yank out the knife and the homeboy rolls away on the pavement.
+</DIRECTION>
+<DIRECTION>
+The car makes a sharp right at the next block and pulls over.
+</DIRECTION>
+<DIRECTION>
+The U-Haul is waiting for them.
+</DIRECTION>
+<DIRECTION>
+They get out of the rental car and open its trunk. Half-Ear sees the bullet holes that surround the suitcase. An inch closer and they would've been a crater.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Christ.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+:SC: INT. U-HAUL - NIGHT
+</DIRECTION>
+<DIRECTION>
+They get in with the suitcase. Charlie is behind the wheel, he's been waiting for them. He hits the gas. They take off, leaving the shot-up rental car behind.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Looks like that went without a hitch.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S HOTEL ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+An edited loop of the exterior and interior of Steve's house plays on Lyle's laptop. The crew is huddled around.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Lyle, what's the distance from the front door to the vault?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Lyle doesn't answer.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Lyle?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Handsome Rob leans over to Charlie.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	He only answers to The Napster now.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	I'm not calling you The Napster.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	You call him Half-Ear.
+	</DIALOGUE>
+</LYLE>
+<HALF_EAR>
+	<DIALOGUE>
+	That wasn't my idea.
+	</DIALOGUE>
+</HALF_EAR>
+<LYLE>
+	<DIALOGUE>
+	And him, Handsome Rob.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	That's only cause he is Handsome Rob.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	And I'm The Napster.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	How far?
+	</DIALOGUE>
+<DIRECTION>
+(sighs, gives in)
+</DIRECTION>
+	<DIALOGUE>
+	The Napster.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Five hundred yards.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	So here's the riddle. How do we get over a ton of gold from the vault to the getaway car?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	How wide is the hallway?
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+The video that Stella got of the hallway plays on the laptop.
+</DIRECTION>
+<DIRECTION>
+Lyle calculates:
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Only six feet.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+OUR VIEW PUSHES IN FAST on Stella.
+</DIRECTION>
+<DIRECTION>
+QUICK CUT TO:
+</DIRECTION>
+<DIRECTION>
+MINI COOPER (MOVING) - DAY
+</DIRECTION>
+<DIRECTION>
+She's driving. Pure concentration. Then:
+</DIRECTION>
+<DIRECTION>
+Tires spinning over a marble floor. Then:
+</DIRECTION>
+<DIRECTION>
+The sideview mirrors scraping wallpaper. Then:
+</DIRECTION>
+<DIRECTION>
+The thin car is like a missile firing RIGHT DOWN STEVE'S HALLWAY, a hair-raising fit.
+</DIRECTION>
+<DIRECTION>
+CUT BACK TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S HOTEL ROOM - DAY
+</DIRECTION>
+<DIRECTION>
+Her idea brings a smile to her face.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Jack Daniels, straight up.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Minis?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	We could rumble right up the front steps, bring the getaway car right to the vault, and then straight to Union Station.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Handsome Rob likes it.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	We'll need three to hold the gold.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: EXT. CAR RENTAL COMPANY - DAY
+</DIRECTION>
+<DIRECTION>
+Parked in the lot are shimmering Supercharged Mini Coopers, a new model that still captures the legendary Mini look and feel.
+</DIRECTION>
+<DIRECTION>
+Half-Ear climbs in one Mini. Lyle into another.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CAR RENTAL COMPANY - SAME TIME
+</DIRECTION>
+<DIRECTION>
+In the background, a large window overlooks the lot.
+</DIRECTION>
+<DIRECTION>
+Handsome Rob fills out the paperwork on the Mini he's renting while flirting with a petite COUNTER BABE.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	I'd say you're a Maserati 250 S. Just 4 cylinders but can go 0 to 60 in 4.2.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<COUNTER_BABE>
+	<DIALOGUE>
+	As long as it's a convertible -- I always like to have my top down.
+	</DIALOGUE>
+</COUNTER_BABE>
+<DIRECTION>
+At the same time, in the background, we see Lyle and Half- Ear's Mini pull out of their parking spaces and BACK RIGHT INTO EACH OTHER. Just a little bumper hit.
+</DIRECTION>
+<COUNTER_BABE>
+	<DIALOGUE>
+	Do you know them?
+	</DIALOGUE>
+</COUNTER_BABE>
+<DIRECTION>
+They get out of their cars and start yelling at each other.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Never seen 'em before in my life.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. YEVHEN'S COIN & BULLION STORE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Steve bangs a fist against the steel security door that covers the closed store. The steel door rises up and once again Yevhen unlocks another door.
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	You're early.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+	<DIALOGUE>
+	And I'm in a hurry, okay?
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+:SC: INT. YEVHEN'S COINS & BULLION STORE - NIGHT
+</DIRECTION>
+<DIRECTION>
+It doesn't seem to matter if Steve's in a hurry or not, Yevhen still runs at the mouth while heading into the back room.
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	Of course the Florida vote rigging was a CIA and Mob operation.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+<DIRECTION>
+(with total disinterest)
+</DIRECTION>
+	<DIALOGUE>
+	That a fact?
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	You want facts? Fact: CIA officials were allowed free -- and illegal -- access to official election material.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Steve puts his duffel bag down on the table. It THUDS. Once again, he pulls out three gold bricks that each weigh 25 pounds.
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	Now given the sordid history in Miami of joint ventures between Central Intelligence and the Mob, which led to the unsuccessful attempts to kill Fidel Castro and the successful assassination of your President John F. Kennedy, this conjunction raises numerous red flags.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+	<DIALOGUE>
+	And I'd love to hear more about it, but like I said...
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	Don't worry, we'll have you out in no time. The cash is on its way.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Steve cocks his head, as if he could not have heard right.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	On its way?
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	My cousin is bringing it over.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+	<DIALOGUE>
+	Your cousin?
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	Yes. Cousin Mashkov.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+	<DIALOGUE>
+	He's on his way?
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	Don't worry, he will be here any minute.
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Steve looks up to the security camera.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	The tape's off?
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	Of course. Believe me, he doesn't want to be on video, either.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+	<DIALOGUE>
+	Yevhen. Didn't I tell you, many times, that I never wanted to meet with anyone but you?
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+Yevhen sweats a bit.
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	I know. But it's his cash. He uses me to launder money. I'm just a middleman.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+	<DIALOGUE>
+	And a middleman is supposed to stay in the middle.
+	</DIALOGUE>
+</STEVE>
+<YEVHEN>
+	<DIALOGUE>
+	But you were early. Please. Don't worry. It will be fine. My cousin's a cool guy. Like I am.
+	</DIALOGUE>
+</YEVHEN>
+<STEVE>
+	<DIALOGUE>
+	What you are, is a Dixie cup.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+Yevhen smiles quizzically, not sure if he's being complimented or insulted.
+</DIRECTION>
+<YEVHEN>
+	<DIALOGUE>
+	Dixie cup?
+	</DIALOGUE>
+</YEVHEN>
+<DIRECTION>
+Before the words are out of Yevhen's mouth, Steve grabs one of the 25 pound gold bricks and slaps it across Yevhen's face, shattering his jaw.
+</DIRECTION>
+<DIRECTION>
+Yevhen's falls to the floor and Steve lifts the brick again and rams it down onto his head with an ugly THUD.
+</DIRECTION>
+<DIRECTION>
+And again.
+</DIRECTION>
+<DIRECTION>
+And again.
+</DIRECTION>
+<DIRECTION>
+He then takes the gold brick -- slathered in blood -- and places it back in his duffle bag.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. YEVHEN'S COINS & BULLION STORE - TEN MINUTES LATER
+</DIRECTION>
+<DIRECTION>
+Yevhen's Ukrainian cousin, MASHKOV, stares down at the corpse. Steve is long gone.
+</DIRECTION>
+<DIRECTION>
+Mashkov kneels down by the body and starts sobbing.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+Mashkov walks through a living room, past some lighting equipment and a video camera and we get just enough of a look to realize that a porno is being shot here but he couldn't care less as he makes his way into the kitchen where --
+</DIRECTION>
+<DIRECTION>
+His boss, DANYA, 60, the owner of this house, is eating a bowl of Frosted Flakes at the kitchen table. They speak in a colloquial Ukrainian tongue that we SUBTITLE.
+</DIRECTION>
+<MASHKOV>
+	<DIALOGUE>
+	My cousin Yevhen was beaten to death.
+	</DIALOGUE>
+</MASHKOV>
+<DANYA>
+	<DIALOGUE>
+	By who?
+	</DIALOGUE>
+</DANYA>
+<MASHKOV>
+	<DIALOGUE>
+	That's what I'm going to find out.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+They stop talking for a moment as one of the "ACTRESSES" comes in, plops herself down next to Danya and pours herself a bowl of cereal. She puts her hand on Danya's leg. She's young and it's a disturbing image and we RECOGNIZE HER: she's the HITCHHIKER who Lyle passed in the taxi ride down Figueroa Street when he first arrived in L.A.
+</DIRECTION>
+<DIRECTION>
+Danya goes back to speaking SUBTITLED UKRAINIAN.
+</DIRECTION>
+<DANYA>
+	<DIALOGUE>
+	And what will you do when you find this piece of shit who killed your cousin?
+	</DIALOGUE>
+</DANYA>
+<MASHKOV>
+	<DIALOGUE>
+	I'll hack off his limbs and bury him while he's still alive.
+	</DIALOGUE>
+</MASHKOV>
+<DANYA>
+	<DIALOGUE>
+	Okay. But now we should stop talking Ukrainian, it's rude to my girl.
+	</DIALOGUE>
+<DIRECTION>
+(switching to accented ENGLISH)
+</DIRECTION>
+	<DIALOGUE>
+	How are you tonight, Karen?
+	</DIALOGUE>
+</DANYA>
+<KAREN>
+	<DIALOGUE>
+	Hungry.
+	</DIALOGUE>
+</KAREN>
+<DANYA>
+	<DIALOGUE>
+	Then eat your Frosted Flakes.
+	</DIALOGUE>
+</DANYA>
+<KAREN>
+<DIRECTION>
+(like Tony the Tiger)
+</DIRECTION>
+	<DIALOGUE>
+	They're grrrreat!
+	</DIALOGUE>
+</KAREN>
+<DIRECTION>
+Danya laughs pleasantly.
+</DIRECTION>
+<DANYA>
+	<DIALOGUE>
+	Such a perfect girl.
+	</DIALOGUE>
+</DANYA>
+<DIRECTION>
+But as she eats her cereal, we see a troubled, sad look on her face.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTED WAREHOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+The three Minis are parked inside: one red, one white, one blue. Handsome Rob and Stella are doing custom work under the hoods. Lyle is wearing the strap-on laptop and typing away. Half-Ear squeezes silver Haliburton suitcases into the Minis' trunks as Charlie enters --
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	How are our matchbox cars?
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Souped.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<STELLA>
+	<DIALOGUE>
+	Don't let their size fool you. These were rally cars back in the day. 135 mph, 155 horsepower --
+	</DIALOGUE>
+</STELLA>
+<LYLE>
+	<DIALOGUE>
+	Do I get to drive one?
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	No.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<LYLE>
+	<DIALOGUE>
+	Why not?
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Because you can't navigate your way out of a parking lot. Here's your ride.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+He pulls a blanket off a Vespa. Lyle points at Half-Ear.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	But he ran into me.
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	He's not driving either.
+	</DIALOGUE>
+<DIRECTION>
+(to Stella)
+</DIRECTION>
+	<DIALOGUE>
+	You ever got a speeding ticket?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<STELLA>
+	<DIALOGUE>
+	Let's put it this way: I can only get insurance through companies that advertise on TV at 3:00 in the morning.
+	</DIALOGUE>
+</STELLA>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	You drive. I drive. Charlie drives.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	I got us spots for three cars on a car carrier and five first class seats. Train 59 from Union Station to New Orleans.
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	That's N'Or'lins, Yankee.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	What's the word on Rockefeller?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	The Traffic Control Center is on the top floor of a building on Olympic and Grand. They get their data from pavement loop detectors and video image vehicle detectors. That info is fused together by specially designed algorithms to predict traffic conditions and control the traffic lights. So all I have to do now is change the data by creating my own algorithm.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	What can I do to help?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	I need to hard-wire into the mainframes.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. TRAFFIC CONTROL CENTER - NIGHT
+</DIRECTION>
+<DIRECTION>
+Housed in a towering building on the corner of Olympic and Grand in the heart of downtown L.A. OUR VIEW RISES UP to the rooftop, where WE FIND Charlie and Lyle.
+</DIRECTION>
+<DIRECTION>
+OUR VIEW MOVES IN CLOSER on Charlie, who adroitly picks the lock to an access door and they climb down a short set of steps into the
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MAINTENANCE ROOM - CONTINUOUS SHOT
+</DIRECTION>
+<DIRECTION>
+From an equipment bag, Charlie pulls out a silent power drill and uses it to remove an access panel from the AC vent.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. AIR-CONDITIONING VENT - NIGHT
+</DIRECTION>
+<DIRECTION>
+Charlie leads, crawling through this tight space, his path illuminated by the thin beam of a penlight.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. TRAFFIC CONTROL ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+A high-tech setting with a half-dozen workers overseeing the large traffic information monitors that display multiple images.
+</DIRECTION>
+<DIRECTION>
+OUR CAMERA PUSHES IN on the wall of monitors and then BLACKNESS as OUR VIEW CROSSES to the --
+</DIRECTION>
+<DIRECTION>
+OTHER SIDE OF THE WALL
+</DIRECTION>
+<DIRECTION>
+Where the 70" tall mainframe computers are housed and running. We see that the AC vent to this room is now open since Charlie and Lyle have already snuck inside.
+</DIRECTION>
+<DIRECTION>
+They move fast. Charlie removes the rear panels of the mainframes while Lyle adeptly hard-wires his laptop into the computers. The laptop's screen lights up.
+</DIRECTION>
+<DIRECTION>
+Charlie fits two false panels where the rear panels of the mainframes used to be. Lyle pulls an innocent looking filing box out of his equipment bag. He places the box on a nearby shelf where it enjoys line-of-sight to the false panels.
+</DIRECTION>
+<DIRECTION>
+He punches a key on his laptop and the false panels and the filing box quietly clicks into action, communicating with his laptop via infrared. His laptop now shows a guiltwork of thumbnail views from the traffic information monitors.
+</DIRECTION>
+<DIRECTION>
+Typing commands, Lyle is clearly operating on a higher bandwidth than the rest us.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	B4 X TTratio, where Bi are Fisher's linear discriminant function coefficients, SpdRat is the speed ratio, and TTratio is the travel time ratio.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	I have no idea what you're doing. Just do it fast.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+There.
+</DIRECTION>
+<DIRECTION>
+He hits the ENTER button.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	We own this place.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. THE PANTRY RESTAURANT - DOWNTOWN L.A. - DAY
+</DIRECTION>
+<DIRECTION>
+Their motto: "Never closed. Never without a customer!" The place has the same decor as it did 75 years ago. It's also a spot where everyone minds their own business. One of the OLD TIME WAITERS leads OUR CAMERA to a table in the back where Mashkov sits across from a LAPD HOMICIDE DETECTIVE. He slides over an envelope of cash and a photograph of Karen.
+</DIRECTION>
+<MASHKOV>
+	<DIALOGUE>
+	$2000. And this is the new girl. Fresh off the bus. One of Danya's guys picked her up hitchhiking downtown.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+The detective checks out the photo.
+</DIRECTION>
+<DETECTIVE>
+	<DIALOGUE>
+	Those tits'd make Dracula rise from his coffin at high-noon.
+	</DIALOGUE>
+</DETECTIVE>
+<MASHKOV>
+	<DIALOGUE>
+	They're all yours Saturday. You can do whatever you want to her. Her name is Karen...
+	</DIALOGUE>
+</MASHKOV>
+<DETECTIVE>
+	<DIALOGUE>
+	You're too generous.
+	</DIALOGUE>
+</DETECTIVE>
+<MASHKOV>
+	<DIALOGUE>
+	I needed a fast answer.
+	</DIALOGUE>
+</MASHKOV>
+<DETECTIVE>
+	<DIALOGUE>
+	And I'm the Shell Answer Man. A guy who works the counter at your cousin's shop told me that someone named Skinny Pete had been asking around about gold bricks with the face of a Balinese girl on them. Same gold bricks your cousin was buying.
+	</DIALOGUE>
+</DETECTIVE>
+<MASHKOV>
+	<DIALOGUE>
+	You talked to this Skinny Pete?
+	</DIALOGUE>
+</MASHKOV>
+<DETECTIVE>
+	<DIALOGUE>
+	I thought you'd want a shot at him first.
+	</DIALOGUE>
+</DETECTIVE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. RENTED WAREHOUSE - DAY
+</DIRECTION>
+<DIRECTION>
+Handsome Rob does some final tune-ups on the Minis.
+</DIRECTION>
+<DIRECTION>
+Half-Ear loads a triple charger chemical grenade into a launcher.
+</DIRECTION>
+<DIRECTION>
+Charlie steps into the U-Haul which is parked in here...
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Lyle is fixing glitches on his computer program. Stella is doing her nails. Charlie looks at her.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	You want the safe cracked, don't you?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Then I have to have perfect nails.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Square tips have a more even surface area. Better grip, no slipping.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Are you making this shit up?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	I just let you in on a valuable trade secret.
+	</DIALOGUE>
+</STELLA>
+<LYLE>
+	<DIALOGUE>
+	Charlie.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	Yeah?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Steve called to confirm a 7:30 reservation at Ago's. And as for your getaway, not even Rockefeller had it so good.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STEVE'S BEDROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+He's getting dressed for his date. We can tell by the way he preens in front of the three sided full length mirror, adorning himself in the most expensive fashion, that he is a vain and arrogant man.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. RENTED WAREHOUSE - NIGHT
+</DIRECTION>
+<DIRECTION>
+The three Minis pull out of the warehouse and head off down the road. The U-Haul follows.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI (MOVING) - NIGHT
+</DIRECTION>
+<DIRECTION>
+Leading the pack. He wears a headset and mic.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Radio check.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. HANDSOME ROB'S MINI (MOVING) - NIGHT
+</DIRECTION>
+<DIRECTION>
+He drives, Half-Ear in the passenger seat.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Got cha, boss.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: INT. STELLA'S MINI (MOVING) - NIGHT
+</DIRECTION>
+<DIRECTION>
+She follows behind Handsome Rob's Mini.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Loud and clear.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+:SC: INT. U-HAUL (MOVING) - NIGHT
+</DIRECTION>
+<DIRECTION>
+Lyle drives. His Vespa is parked in the cargo bay with his equipment.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Check.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STEVE'S DRIVEWAY - NIGHT
+</DIRECTION>
+<DIRECTION>
+Looking sharp, Steve gets into his Ferrari.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. OPORTO DRIVE - NIGHT
+</DIRECTION>
+<DIRECTION>
+The U-Haul is idling on the side of the street about a mile down from Steve's house. The Vespa is parked behind it.
+</DIRECTION>
+<DIRECTION>
+From up ahead, we see the Ferrari cruising down the winding road. As it passes by.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Lyle speaks into his headset:
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	For those about to rock, we salute you.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. OPORTO DRIVE - NIGHT
+</DIRECTION>
+<DIRECTION>
+From side streets, the Minis converge on the road and head up towards Steve's house.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI (MOVING) - NIGHT
+</DIRECTION>
+<DIRECTION>
+He can feel the adrenaline already starting to course through is body.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	This is it, guys. Moment of truth.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+He takes a sharp curve... and the moment that Steve's house should come into view... he hits the brakes, his expression turning to complete surprise.
+</DIRECTION>
+<DIRECTION>
+HIS POV
+</DIRECTION>
+<DIRECTION>
+The neighbor across the street from Steve is having the biggest party in town. The road is filled with parked cars and arriving guests. Ain't no way they're blowing the gate, launching chemical grenades or in any way robbing Steve's house in the midst of this.
+</DIRECTION>
+<DIRECTION>
+CHARLIE'S FACE
+</DIRECTION>
+<DIRECTION>
+As he takes this in, there's a KNOCK on the window. He turns. Sees a uniformed VALET. Rolls down the window.
+</DIRECTION>
+<VALET>
+	<DIALOGUE>
+	Are you hear for the Baxter party, sir?
+	</DIALOGUE>
+</VALET>
+<DIRECTION>
+:SC: EXT. OPORTO DRIVE - NIGHT
+</DIRECTION>
+<DIRECTION>
+We see the three Minis pull tight U-turns and head back the way they came.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI (MOVING) - NIGHT
+</DIRECTION>
+<DIRECTION>
+He slaps his hand against the steering wheel, fuming.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Shit. Stella?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. STELLA'S MINI (MOVING) - INTERCUT
+</DIRECTION>
+<DIRECTION>
+She already knows what he's going to say.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	I know. I've got a date tonight.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	You'll have to fake it. Laugh at his jokes. You need him to ask you out again.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. AGO RESTAURANT - NIGHT
+</DIRECTION>
+<DIRECTION>
+A posh restaurant. As OUR CAMERA FINDS Stella and Steve, she is laughing at something he said, faking her way through the date. They're sitting at an intimate table.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	You really make laugh.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+He takes the lie like the compliment she wants him to think it is.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	So here's what I have lined up for after dinner. We'll go to Club Deep. The Ferrari always gets me to the front of the line. We'll do a little dancing...
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Not tonight. I don't want to be out late.
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	Why the curfew?
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Let's just say I've made some wrong calls in the past. I like to take things slow, cautious. Next time...
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	I understand. You have nothing to worry about. You can trust me.
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	I trust everyone. It's the devil inside them that I don't trust.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+That saying strikes Steve.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	That's an interesting saying.
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+He looks at her closely, really closely.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	There's only person I've ever heard say that. Used to say it all the time.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+This worries her. Because of course, she used to hear it from her father.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	Who was that?
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Under the table, he grabs her by the wrist, squeezes it like a vise.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	A man named John Bridger. Where did you pick up that phrase?
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Ow. I don't remember. You're hurting me.
+	</DIALOGUE>
+</STELLA>
+<STEVE>
+	<DIALOGUE>
+	John Bridger was a thief. And he had a daughter. About your age. He told me that she took over a safe and lock company that he used as a front.
+	</DIALOGUE>
+</STEVE>
+<STELLA>
+	<DIALOGUE>
+	Let go of my wrist. What is wrong with you? It's just a saying.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+Steve's voice is calm, so at ease that watching them you'd think this was pleasant dinner conversation.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	No wonder I liked you right away. Just like I liked your old man, right up until the moment I shot him in the head. Now tell me who you're working with and tell me the plan. Do it now or we'll go for a ride and I'll break every bone in your body.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+Stella intentionally knocks over a glass of wine. It shatters on the floor. An emergency signal...
+</DIRECTION>
+<DIRECTION>
+Charlie, Half-Ear, Handsome Rob and Lyle appear around the table.
+</DIRECTION>
+<DIRECTION>
+Steve is shocked to see the men he left for dead three years ago standing before him, very much alive.
+</DIRECTION>
+<DIRECTION>
+They pull up chairs from another table, encircling him for a tense and pointed talk.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Something wrong, Steve? You look like you want to call Ghostbusters.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Half-Ear furtively slides the switchblade out of his boot.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	She's coming with us. You got a problem with that?
+	</DIALOGUE>
+</HALF_EAR>
+<STEVE>
+	<DIALOGUE>
+	Fine by me. But it's you that has the problem.
+	</DIALOGUE>
+</STEVE>
+<LYLE>
+	<DIALOGUE>
+	How do you figure?
+	</DIALOGUE>
+</LYLE>
+<STEVE>
+	<DIALOGUE>
+	You've just blown the one thing you had going in your favor, the element of surprise. And I was surprised.
+	</DIALOGUE>
+<DIRECTION>
+(he laughs unpleasantly)
+</DIRECTION>
+	<DIALOGUE>
+	Jesus Christ when I saw all you guys come out of the woodwork. For a minute I thought maybe you were ghosts. But you're screwed now.
+	</DIALOGUE>
+<DIRECTION>
+(an arrogant sneer a Half-Ear)
+</DIRECTION>
+	<DIALOGUE>
+	Did you figure out how to take care of my security guard? I'll hire five more.
+	</DIALOGUE>
+<DIRECTION>
+(at Lyle)
+</DIRECTION>
+	<DIALOGUE>
+	You know how to bypass my alarm system? I'll have a new one installed tomorrow.
+	</DIALOGUE>
+<DIRECTION>
+(at Handsome Rob)
+</DIRECTION>
+	<DIALOGUE>
+	Does it tear you up inside seeing what car I drive? I'll buy a matching one in red.
+	</DIALOGUE>
+<DIRECTION>
+(at Stella)
+</DIRECTION>
+	<DIALOGUE>
+	You think you can crack my safe? You'll end up the same way as your dad.
+	</DIALOGUE>
+<DIRECTION>
+(then to Charlie, all smiles)
+</DIRECTION>
+	<DIALOGUE>
+	Looks like Good Time Charlie's got the blues.
+	</DIALOGUE>
+</STEVE>
+<CHARLIE>
+	<DIALOGUE>
+	You can wear that shit-eating grin on your face, but I know under that Versace shirt you're in a cold sweat. And you're not going to sleep a minute tonight. Cause you thought you'd gotten away with it free and clear. You thought you'd gotten rid of us. You're the one who's screwed. Right to the wall.
+	</DIALOGUE>
+</CHARLIE>
+<STEVE>
+	<DIALOGUE>
+	Give it your best shot. I'll outsmart you every step of the way. And this time, I'll bury you myself.
+	</DIALOGUE>
+</STEVE>
+<CHARLIE>
+<DIRECTION>
+(taking the challenge)
+</DIRECTION>
+	<DIALOGUE>
+	Get more guards. Change the alarm. Buy a dozen Ferraris. We'll still be here. Sleep tight.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Charlie grabs a bread stick off the table and goes. The others follow.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STRIP CLUB - BACK ROOM - NIGHT
+</DIRECTION>
+<DIRECTION>
+The door bursts open as the burly man we met earlier is dragged inside at gunpoint. Five Ukrainians armed with MAC- 11 machine pistols storm the room where Skinny Pete works.
+</DIRECTION>
+<DIRECTION>
+Mashkov walks behind the posse. He carries a duffel bag. He takes in the sight of the fattest man he's ever seen.
+</DIRECTION>
+<MASHKOV>
+<DIRECTION>
+(in accented English)
+</DIRECTION>
+	<DIALOGUE>
+	Do you know who I am?
+	</DIALOGUE>
+</MASHKOV>
+<SKINNY_PETE>
+	<DIALOGUE>
+	You work for Danya.
+	</DIALOGUE>
+</SKINNY_PETE>
+<MASHKOV>
+	<DIALOGUE>
+	Yes. And you are gonna be straight with me and everything's gonna be okay. You fuck with me, I will be ruthless.
+	</DIALOGUE>
+</MASHKOV>
+<SKINNY_PETE>
+	<DIALOGUE>
+	I understand.
+	</DIALOGUE>
+</SKINNY_PETE>
+<MASHKOV>
+	<DIALOGUE>
+	I don't want you to understand. I want you to overstand.
+	</DIALOGUE>
+</MASHKOV>
+<SKINNY_PETE>
+	<DIALOGUE>
+	Overstand... Okay.
+	</DIALOGUE>
+</SKINNY_PETE>
+<MASHKOV>
+	<DIALOGUE>
+	Because if you don't overstand, I will use this.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+Mashkov nonchalantly opens the duffel bag and pulls out a short-handled ax. Skinny Pete sees dried blood on the blade.
+</DIRECTION>
+<MASHKOV>
+	<DIALOGUE>
+	Someone was asking about gold bars with a Balinese girl's face on them. I want the name of this man.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. SHUTTER'S ON THE BEACH - MORNING
+</DIRECTION>
+<DIRECTION>
+The sun shines over the ocean and the hotel.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S HOTEL ROOM
+</DIRECTION>
+<DIRECTION>
+The crew is gathered. Lyle, monitoring digital surveillance on his laptop, takes off his headphones.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Well we scared him alright. He's flying the coop. His security guard called Brink's Armored Car Service to confirm a 5 p.m. pick up at his house, then JetClub to confirm a MD11 cargo plane departing from the Imperial Terminal at LAX at 8 p.m.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	Confirmed? How'd we miss the first calls?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	They must have been cellular. The cargo plane is being chartered to Mexico City.
+	</DIALOGUE>
+</LYLE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Only place with worse smog and traffic than L.A.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<STELLA>
+	<DIALOGUE>
+	Once the charter's in the air, he could change the flight path to anywhere. And good-bye gold.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Not so fast. This is good news for us.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Good news?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Sometimes when you're up to your ass in alligators you forget that you started off trying to drain the swamp.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Meaning what the fuck?
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	We've been trying to get to the gold in the safe. Now the safe is coming to us. We'll boost it in transit.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+He might as well have said they'll steal the Holy Grail before sunrise.
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Charlie. He could take a dozen different routes to the airport and we have no idea which one. We can't take out an armored truck during rush hour.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	We're already set to do it. Napster: how would you like to create the biggest traffic jam in the history of Los Angeles?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Keep talking.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	You gridlock every route except the one we choose. Force the truck to go exactly where we want it to go.
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	But where do we want it? We can't shoot it out with armed guards in a Brink's. We'd lose. And even if we pulled it off, the cops would be all over us, chasing us all the way to Union Station. We're outmanned and outgunned.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	But not outsmarted.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Charlie hums with focused energy. There's a term for it in horse racing. When a thoroughbred is at peak condition, and twitching with eagerness to run, he is "on the muscle." That describes Charlie right now.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	We'll do it like the Italian job. We'll make thirty million in gold drop out of sight.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+They're interrupted by Charlie's cell phone RINGING. This throws them all off.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Who else has this number?
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	No one but us.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+It's still RINGING. Charlie decides to answer it.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Hello?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. OFFICE - PHILADELPHIA - INTERCUT
+</DIRECTION>
+<DIRECTION>
+Meet PHILLY STEAK. Or at least meet the back of his neck.
+</DIRECTION>
+<DIRECTION>
+Because that's where he has a tatoo that says PHILLY STEAK.
+</DIRECTION>
+<PHILLY_STEAK>
+	<DIALOGUE>
+	Why'd you do it?
+	</DIALOGUE>
+</PHILLY_STEAK>
+<CHARLIE>
+<DIRECTION>
+(informing the crew)
+</DIRECTION>
+	<DIALOGUE>
+	Philly Steak.
+	</DIALOGUE>
+<DIRECTION>
+(then into phone)
+</DIRECTION>
+	<DIALOGUE>
+	Do what?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+OUR CAMERA TRACKS AROUND to Philly Steak's face which is weathered and as leathery as a football. An old school crook.
+</DIRECTION>
+<PHILLY_STEAK>
+	<DIALOGUE>
+	Yevhen. The Ukrainian gold, dealer. You didn't, have to clip him, for Christ's sakes.
+	</DIALOGUE>
+</PHILLY_STEAK>
+<CHARLIE>
+	<DIALOGUE>
+	Clip him?
+	</DIALOGUE>
+</CHARLIE>
+<PHILLY_STEAK>
+	<DIALOGUE>
+	Listen to me. You've gotta get out of L.A. Now.
+	</DIALOGUE>
+</PHILLY_STEAK>
+<CHARLIE>
+	<DIALOGUE>
+	What're you talking about? We didn't clip anybody.
+	</DIALOGUE>
+</CHARLIE>
+<PHILLY_STEAK>
+	<DIALOGUE>
+	Well Skinny Pete just called me. Yevhen's cousin is under the distinct impression that you did.
+	</DIALOGUE>
+</PHILLY_STEAK>
+<CHARLIE>
+	<DIALOGUE>
+	Why does he think that?
+	</DIALOGUE>
+</CHARLIE>
+<PHILLY_STEAK>
+	<DIALOGUE>
+	Because you wanted, to know about the gold with the Balinese Girl. Plus I guess Pete was under duress. This Ukrainian thinks he's Paul Fucking Bunyan.
+	</DIALOGUE>
+</PHILLY_STEAK>
+<CHARLIE>
+	<DIALOGUE>
+	Do you know how to get in touch with him?
+	</DIALOGUE>
+</CHARLIE>
+<PHILLY_STEAK>
+	<DIALOGUE>
+	Yeah but...
+	</DIALOGUE>
+</PHILLY_STEAK>
+<CHARLIE>
+	<DIALOGUE>
+	Maybe there's a way we can play this to our advantage.
+	</DIALOGUE>
+</CHARLIE>
+<PHILLY_STEAK>
+	<DIALOGUE>
+	Are you out of your mind? Listen to me, Charlie. Get out of L.A. Now. Cause if there's one thing I know, it's that you never mess with Mother Nature, mother-in-laws, or mother- fucking Ukrainians.
+	</DIALOGUE>
+</PHILLY_STEAK>
+<DIRECTION>
+:SC: INT. SAFE HOUSE - MORNING
+</DIRECTION>
+<DIRECTION>
+Speaking of -- Five Ukrainians lock 'n load their MAC-11 machine pistols plus an M4 carbine with a 40mm grenade launcher mounted beneath the barrel. Mashkov enters the room and tells the others in SUBTITLED UKRAINIAN.
+</DIRECTION>
+<MASHKOV>
+	<DIALOGUE>
+	He's going to be on Train 59 for New Orleans.
+	</DIALOGUE>
+</MASHKOV>
+<UKRAINIAN>
+	<DIALOGUE>
+	You sure your source is good?
+	</DIALOGUE>
+</UKRAINIAN>
+<MASHKOV>
+	<DIALOGUE>
+	I'm sure.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. DANYA'S HOUSE - MORNING
+</DIRECTION>
+<DIRECTION>
+The home where the porno was made. Karen, wearing a backpack stuffed with her only belongings, creeps into the kitchen with two 3/4" videotapes in hand.
+</DIRECTION>
+<DIRECTION>
+She sets them down on the counter. They say MASTER TAPE on the labels. She opens the microwave oven. Puts the tapes inside. Sets the timer for 60 minutes at the highest level and presses the start button.
+</DIRECTION>
+<DIRECTION>
+As the videotapes start to cook, we watch Karen flee out the door.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD AT HIGHLAND - DAY
+</DIRECTION>
+<DIRECTION>
+The U-Haul is parked on the side of the noisy, congested boulevard. A large metal sheet is now mounted on the side of the panel truck.
+</DIRECTION>
+<DIRECTION>
+HIGH ANGLE. Parked behind the U-Haul are two of the Minis and Lyle's Vespa. We see traffic flowing through the busy intersection next to the vehicles. Then WE BOOM DOWN, really fast, right into the black pavement and --
+</DIRECTION>
+<DIRECTION>
+THROUGH THE DARKNESS and out the other side, so we are now underground in the middle of the --
+</DIRECTION>
+<DIRECTION>
+METRO RAIL TUNNEL
+</DIRECTION>
+<DIRECTION>
+where Half-Ear is at work, mounting Nitramon primer to the tunnel walls, Charlie assisting. They both wear orange jumpsuits, plus headsets and mics.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Did you know Einstein's 7th grade teacher told him he was a moron who'd never amount to anything? Same as mine.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	Still hope for that Nobel Prize.
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	Not me, man. But I did get my college diploma.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	No shit. I thought you dropped out of high school.
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	Got my GED after Italy then just kept going.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	How'd you manage that, all the jobs we've been pulling?
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	Quit going to strip clubs. Went to night school instead. City college is all.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	Good for you. That's a real feather in your cap.
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	I didn't want to say anything to the guys.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+There's a RUMBLING SOUND in the distance.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Secret's safe with me.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+The RUMBLING grows unbearable as a Metro roars closer, headlights gobbling up the dark tunnel. They press themselves into a crevice in the wall.
+</DIRECTION>
+<DIRECTION>
+With a ROAR and a gust of wind, the Metro howls by. It makes their jaws clatter.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL (PARKED) - DAY
+</DIRECTION>
+<DIRECTION>
+Stella's in the cargo area with Lyle who's working his laptop. It's monitor displays a string of computer code. He HEARS over his headset:
+</DIRECTION>
+<CHARLIE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Napster. How goes it up there? Over.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Working on the Metro Rail system. Almost ready.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. MARAVILLA DRIVE - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Handsome Rob's Mini is parked on the side of the winding road. Using binoculars, he looks down onto Oporto Drive at Steve's house. Into his headset:
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Everything's quiet here. Over.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL - DAY
+</DIRECTION>
+<DIRECTION>
+The Nitramon is applied. Half-Ear closes his eyes. Charlie observes him a moment.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	You okay?
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	Ah huh. Just need a moment's meditation.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	Now?
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	I'm about to insert a wire into a detonator tube and if the wire touches the sides of tube, we'll be blown to Kingdom Come. Best to be at one with yourself.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	Take all the time you need.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Another moment, then Half-Ear sets to work. Charlie holds a mini-flashlight, illuminating the intricate detonator. Very carefully, he inserts a wire into a tube. Remember, the wire must not touch the sides.
+</DIRECTION>
+<DIRECTION>
+The wire is half-way in when a LARGE SPIDER drops onto his hand. Frozen, he ponders this.
+</DIRECTION>
+<DIRECTION>
+Charlie sees the spider, doesn't know what to do.
+</DIRECTION>
+<DIRECTION>
+Half-Ear studies the spider... then he closes his eyes just a moment... relaxes... breathes in, breathes out... and then --
+</DIRECTION>
+<DIRECTION>
+He leans forward, opens his mouth and clamps his lips over the spider, comes back up. Finishes inserting the wire.
+</DIRECTION>
+<DIRECTION>
+Job done, he calmly opens his mouth. The spider puts a hairy leg out and delicately explores his cheek. Half-Ear plucks it off just as delicately, depositing the spider on the wall.
+</DIRECTION>
+<DIRECTION>
+Charlie just shakes his head in disbelief.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	My work here is done.
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+:SC: EXT. OPORTO DRIVE -DAY
+</DIRECTION>
+<DIRECTION>
+A Brink's truck climbs the road towards Steve's house, flanked by two BMW K1200LTA motorcycles.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MARAVILLA DRIVE - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Through binoculars, Handsome Rob is still keeping an eye on Steve's house from the higher vantage point.
+</DIRECTION>
+<DIRECTION>
+HIS POV
+</DIRECTION>
+<DIRECTION>
+The front gate rises. The Brink's truck and motorcycles are let inside and head up the driveway.
+</DIRECTION>
+<DIRECTION>
+But then he sees a SECOND ARMORED truck drive up, also guarded by two motorcycles. And a third Brink's followed by motorcycles turns into the driveway.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STEVE'S HOUSE
+</DIRECTION>
+<DIRECTION>
+It's a convoy of matching armored trucks...
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MARAVILLA DRIVE - DAY
+</DIRECTION>
+<DIRECTION>
+Witnessing the twist of events through his binoculars. He speaks into his headset mic --
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Problemo.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: INT. U-HAUL - INTERCUT
+</DIRECTION>
+<DIRECTION>
+The rest of the crew is now all in the U-Haul. Lyle's manning the laptop.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</CHARLIE>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	He's brought in three identical armored trucks.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<CHARLIE>
+	<DIALOGUE>
+	Shit. Decoys. It's like a shell game on wheels.
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	How can I reroute the truck if I don't know which truck to reroute?
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. STEVE'S HOUSE - (TIME CUT) - DAY
+</DIRECTION>
+<DIRECTION>
+The caravan of armored trucks and motorcycles now head down the driveway. The Ferrari follows behind.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. MARAVILLA DRIVE - DAY
+</DIRECTION>
+<DIRECTION>
+Handsome Rob sees the vehicles head east on Oporto. He reports into his mike:
+</DIRECTION>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Three Brink's trucks are leaving with motorcycle escorts, plus Steve in his Ferrari.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Maddening frustration.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	How're we going to figure out which truck has the gold?
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Charlie is just as frustrated... but in a tight spot he always comes up with an idea.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	You can monitor the traffic video cameras from your laptop, right?
+	</DIALOGUE>
+</CHARLIE>
+<LYLE>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	Where's the first camera the trucks will go past?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Lyle hits a command key and we now see the intersection of Woodrow Wilson Drive and Cahuenga where vehicles are driving under the traffic signal that a traffic video camera is mounted to.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Cahuenga Boulevard. They all have to cross that.
+	</DIALOGUE>
+</LYLE>
+<CHARLIE>
+	<DIALOGUE>
+	The weight of the gold will lower the suspension on the truck.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: EXT. CAHUENGA BOULEVARD - DAY
+</DIRECTION>
+<DIRECTION>
+The first armored truck makes its way through the green light.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Lyle hits the keyboard and lines of measurements appear across the image of the Brink's truck. He strikes another key, momentarily FREEZING the image. He makes a visual check of the top of the armored truck against the Cahuenga Boulevard street sign.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Lines up with the top of the sign. Next...
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+He unfreezes the first image just in time to check out the next armored truck in line. FREEZE. The top of this truck also lines up perfectly with the top of the street sign.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	First two are the same.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. CAHUENGA BOULEVARD - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The third Brink's truck makes its way through the intersection, the Ferrari behind it.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The third Brink's comes into the monitor's view. FREEZE.
+</DIRECTION>
+<DIRECTION>
+The top of the truck is below the top of the street sign.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	That's our truck! License plate AWP82092.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. CAHUENGA - SAME TIME
+</DIRECTION>
+<DIRECTION>
+We see the truck with the California plate AWP82092. OUR VIEW RISES UP until we're looking at an AERIAL VIEW as the three armored trucks and their motorcycles fan out in three different directions, with the Ferrari going in a fourth direction.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD AT HIGHLAND - DAY
+</DIRECTION>
+<DIRECTION>
+Handsome Rob pulls up in his Mini and parks behind the other Minis.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Charlie gives the command.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Gridlock time.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Lyle executes, hitting a series of keys and --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MAINFRAME COMPUTER ROOM - SAME TIME
+</DIRECTION>
+<DIRECTION>
+inconspicuous on a shelf, the dummy file box CLICKS into action. In response, the false panels on the mainframes HUM to life and in the adjacent --
+</DIRECTION>
+<DIRECTION>
+TRAFFIC CONTROL CENTER
+</DIRECTION>
+<DIRECTION>
+The mosaic of traffic screens SPIRAL INTO DARKNESS.
+</DIRECTION>
+<DIRECTION>
+The workers can't believe it. They start hitting their keyboards trying to get the system up and running again. But it's useless since --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Lyle controls the system now. A single mouse click loads his new algorithm into the computer and --
+</DIRECTION>
+<DIRECTION>
+SERIES OF RAPID-FIRE SHOTS
+</DIRECTION>
+<DIRECTION>
+All the traffic signals in Hollywood turn green simultaneously.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. INTERSECTIONS
+</DIRECTION>
+<DIRECTION>
+See cars collide into each other. See a domino line of rear- end crashes. A motorcycle tumbling over.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. TRAFFIC CONTROL CENTER
+</DIRECTION>
+<DIRECTION>
+The stymied workers watch helplessly.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Lyle quickly types out some words and
+</DIRECTION>
+<DIRECTION>
+:SC: INT. TRAFFIC CONTROL CENTER
+</DIRECTION>
+<DIRECTION>
+The workers see the words form on the giant screens:
+</DIRECTION>
+	<DIALOGUE>
+	YOU'LL NEVER SHUT DOWN THE REAL NAPSTER!
+	</DIALOGUE>
+<DIRECTION>
+:SC: EXT. MORE INTERSECTIONS
+</DIRECTION>
+<DIRECTION>
+The traffic lights turn RED simultaneously. Then all turn GREEN. Then RED again.
+</DIRECTION>
+<DIRECTION>
+It's demolition derby time. Daisy-chains of wrecks. Cars spinning like hockey pucks. Total traffic meltdown.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. KNX-AM 1070 TRAFFIC HELICOPTER - DAY
+</DIRECTION>
+<DIRECTION>
+Sweeping over a panoramic view of the greatest traffic jam in L.A.'s history is traffic anchor CHRISTINA GRIEGO. She reports what she sees:
+</DIRECTION>
+<CHRISTINA_GRIEGO>
+	<DIALOGUE>
+	This is Christina Griego with your drive-home traffic report on KNX. I'm looking down on Hollywood Boulevard and this is definitely a CIG alert.
+	</DIALOGUE>
+</CHRISTINA_GRIEGO>
+<DIRECTION>
+:SC: INT. FERRARI
+</DIRECTION>
+<DIRECTION>
+They're blocked in solid ahead and behind.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	What the hell?
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+He turns on the radio as --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Lyle's fingers dance across the keyboard.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Opening up a space on North Highland.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: INT. GOLD TRUCK
+</DIRECTION>
+<DIRECTION>
+Stuck in the middle of it. The driver and guard, both armed, are as confused as everyone else.
+</DIRECTION>
+<GUARD>
+	<DIALOGUE>
+	Get us out of here.
+	</DIALOGUE>
+</GUARD>
+<DRIVER>
+	<DIALOGUE>
+	I'm trying.
+	</DIALOGUE>
+</DRIVER>
+<DIRECTION>
+He sees a way out, a sudden opening on North. Highland.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Via a traffic video camera, Lyle sees on his laptop the gold truck, followed by two motorcycles, making the turn onto North Highland.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	He's taking it...
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+Lyle hits more keys.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	I now command you to turn left.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. GOLD TRUCK
+</DIRECTION>
+<DIRECTION>
+It comes to the next intersection. Every light is stuck on red -- except the left turn only signal which is green. No choice. The truck takes it.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+He's striking keys, an orchestral conductor, the crew his audience.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	I've got it on Hollywood Boulevard. Time to slow down.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD BOULEVARD
+</DIRECTION>
+<DIRECTION>
+Signals turn green, but only for three seconds, long enough for one car to gun through it at a time.
+</DIRECTION>
+<DIRECTION>
+At the same time, we see Charlie get out of the U-Haul and climb into the first Mini. Stella gets into the second Mini.
+</DIRECTION>
+<DIRECTION>
+Half-Ear joins Handsome Rob in the third.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. FERRARI - DAY
+</DIRECTION>
+<DIRECTION>
+Steve gets the scoop over the radio. He can't believe it.
+</DIRECTION>
+<CHRISTINA_GRIEGO>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	According to the police, the computers at the Traffic Control Center are down.
+	</DIALOGUE>
+</CHRISTINA_GRIEGO>
+<DIRECTION>
+Steve knows who did that.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Sonovabitch.
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI -DAY
+</DIRECTION>
+<DIRECTION>
+Through his rearview mirror, Charlie eyes the gold truck creeping closer.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Gentlemen, start your engines.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+THREE SHOTS
+</DIRECTION>
+<DIRECTION>
+Starting their engines-with souped-up, throaty roars: Charlie; Handsome Rob; Stella.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Give us the flag when you're ready.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Lyle has hacked into the Metro Rail's Control System. Starts his magic.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Shutting down the rail as we speak.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNELS - SEVERAL SHOTS
+</DIRECTION>
+<DIRECTION>
+A Metro is speeding through the Blue Line tunnel. Suddenly it loses power and comes to an inglorious stop.
+</DIRECTION>
+<DIRECTION>
+Another Metro stops on the Red Line.
+</DIRECTION>
+<DIRECTION>
+Inside a Metro on the Westside Corridor as it stops; confused passengers stare out the glass.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+His laptop shows a group of still circles that represent the stalled Metros.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Tunnel's clear. Go!
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: EXT. WALK OF FAME
+</DIRECTION>
+<DIRECTION>
+The three Minis jump the curb and drive right over the star- lined sidewalk... Pedestrians throw themselves out of their path... The cars run over Marilyn Monroe's star and the flowers and candles left by fans... They make a sharp turn down the cement stairs that lead to the Metro Rail platform.
+</DIRECTION>
+<DIRECTION>
+At the same time --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD BOULEVARD
+</DIRECTION>
+<DIRECTION>
+The creeping gold truck is just about alongside the parked U- Haul.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Through his sideview mirror, Lyle eyes the progress of the gold truck. He gives the word:
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Coming into position...
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: INT. METRO RAIL STATION
+</DIRECTION>
+<DIRECTION>
+The Minis roughly bounce down the second flight of stairs.
+</DIRECTION>
+<DIRECTION>
+The sides of the cars scrape against the metal handrails.
+</DIRECTION>
+<DIRECTION>
+Tourists, workers, all scamper away.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+The gold truck getting closer.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Five... Four...
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: INT. METRO RAIL STATION
+</DIRECTION>
+<DIRECTION>
+The Minis land on the platform where everyone is waiting for the next Metro.
+</DIRECTION>
+<DIRECTION>
+Heads turn at the sight of these half-cars streaking by.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+The gold truck is almost alongside the U-Haul.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Three...
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: INT. METRO RAIL STATION
+</DIRECTION>
+<DIRECTION>
+Charlie's Mini flies off the platform and lands on the rail line. The car's shocks take the hit.
+</DIRECTION>
+<DIRECTION>
+The other Minis follow suit, off the platform, onto the rails.
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Two... One...
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+THE MINIS
+</DIRECTION>
+<DIRECTION>
+Drive past the spot where they put the Nitramon explosives.
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Do it.
+	</DIALOGUE>
+</LYLE>
+<DIRECTION>
+:SC: INT. STELLA'S MINI
+</DIRECTION>
+<DIRECTION>
+She brakes to a stop and braces herself as --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HANDSOME ROB'S MINI
+</DIRECTION>
+<DIRECTION>
+Half-Ear pulls out his hearing aid, hits the remote to a detonator and --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD & HIGHLAND
+</DIRECTION>
+<DIRECTION>
+The section of pavement that the gold truck sits on splits apart. The road surface drops away. Smoke billowing up as The BRINK'S TRUCK FALLS...
+</DIRECTION>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL
+</DIRECTION>
+<DIRECTION>
+Suddenly the street, the armored truck and daylight come crashing down at us in a cloud of smoke and debris.
+</DIRECTION>
+<DIRECTION>
+The truck's windshield implodes.
+</DIRECTION>
+<DIRECTION>
+The Minis come to a stop. Half-Ear jumps out. Aims the grenade launcher. FIRES.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. GOLD TRUCK
+</DIRECTION>
+<DIRECTION>
+The triple charger chemical grenade sails in through the windshield and explodes, knocking out the guards. The driver slumps against the steering wheel, the horn BLARING under his weight. At the same time:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. U-HAUL - ON THE CUT
+</DIRECTION>
+<DIRECTION>
+Lyle hits a button on a remote control and --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. U-HAUL
+</DIRECTION>
+<DIRECTION>
+Clamps unlock, releasing the heavy steel sheet from the side of the U-Haul. It SLAMS DOWN, neatly covering the gaping hole in the road like a huge manhole cover.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD & HIGHLAND
+</DIRECTION>
+<DIRECTION>
+The motorcycles following the Brink's come to a sudden stop.
+</DIRECTION>
+<DIRECTION>
+The motorcycle guards watch the smoke clear. The armored truck has vanished! Vaporized in the gridlock! Gone!
+</DIRECTION>
+<DIRECTION>
+Pandemonium. People scatter. A man jumps out of his BMW and sprints away from the explosion.
+</DIRECTION>
+<DIRECTION>
+Lyle gets out of the U-Haul and runs to his getaway vehicle: the Vespa. He's about to hop on, but something stops him...
+</DIRECTION>
+<DIRECTION>
+The sight of the vacant, shimmering, 2002 BMW 750iL parked just ahead, keys dangling from the ignition.
+</DIRECTION>
+<DIRECTION>
+At the same time, the motorcycle guards climb off their bikes. Draw semi-automatic handguns. Result: more madness Bystanders flee.
+</DIRECTION>
+<DIRECTION>
+The BMW tears out of there, Lyle behind the wheel.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL - DAY
+</DIRECTION>
+<DIRECTION>
+The rear door to the Brink's is open. Our crew sees the Worthington 1000 inside.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Nice work.
+	</DIALOGUE>
+</CHARLIE>
+<HALF_EAR>
+	<DIALOGUE>
+	Well like Einstein almost said: genius is ten percent inspiration, ninety percent detonation.
+	</DIALOGUE>
+</HALF_EAR>
+<CHARLIE>
+	<DIALOGUE>
+	Let's get our gold.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Stella goes up to the imposing safe. Gives it a look of momentary respect, then sets to work...
+</DIRECTION>
+<DIRECTION>
+:SC: INT. KNX-AM 1070 TRAFFIC HELICOPTER - DAY
+</DIRECTION>
+<DIRECTION>
+Christina Griego telling her radio audience:
+</DIRECTION>
+<CHRISTINA_GRIEGO>
+	<DIALOGUE>
+	I've seen earthquakes, mudslides, fires, riots, but this... Let me try to paint a picture for our listeners.
+	</DIALOGUE>
+</CHRISTINA_GRIEGO>
+<DIRECTION>
+:SC: INT. FERRARI
+</DIRECTION>
+<DIRECTION>
+Hearing the news over the radio.
+</DIRECTION>
+<CHRISTINA_GRIEGO>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	There's been some kind of an explosion and a Brink's truck has just dropped down into the Metro Rail Blue Line.
+	</DIALOGUE>
+</CHRISTINA_GRIEGO>
+<DIRECTION>
+Steve slams the car into gear and jumps the sidewalk, passing the gridlock. He hollers into a walkie-talkie --
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	The truck's in the Metro Rail. Where does the Blue Line go back above ground?
+	</DIALOGUE>
+</STEVE>
+<DIRECTION>
+:SC: EXT. STREETS - SERIES OF SHOTS
+</DIRECTION>
+<DIRECTION>
+The motorcycle guards who were escorting the decoy trucks hear Steve over their walkie-talkies. With squeals of rubber, they turn around as one of the guards answers --
+</DIRECTION>
+<MOTORCYCLE_GUARD>
+	<DIALOGUE>
+	It comes out at Flower & Pico.
+	</DIALOGUE>
+</MOTORCYCLE_GUARD>
+<DIRECTION>
+At the same time --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL - DAY
+</DIRECTION>
+<DIRECTION>
+Stella works the dial, feeling for contact points. And --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD & HIGHLAND - DAY
+</DIRECTION>
+<DIRECTION>
+The two motorcycle guards fervently try to lift off the steel sheet that dropped down from the U-Haul.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL - DAY
+</DIRECTION>
+<DIRECTION>
+They see daylight start to stream in from above as the steel sheet slides a little.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Stella?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Shhh...
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+We HEAR Stella's heart pounding in her ears. See the perspiration on her fingertips.
+</DIRECTION>
+<STELLA>
+	<DIALOGUE>
+	You know when you said this wouldn't be the same as opening a safe for the cops?
+	</DIALOGUE>
+</STELLA>
+<HANDSOME_ROB>
+	<DIALOGUE>
+	Yeah.
+	</DIALOGUE>
+</HANDSOME_ROB>
+<STELLA>
+	<DIALOGUE>
+	Did you have to be right?
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD & HIGHLAND - DAY
+</DIRECTION>
+<DIRECTION>
+The motorcycle guards strain, managing to shift the steel sheet enough so they can see the armored truck below.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL - DAY
+</DIRECTION>
+<DIRECTION>
+CLOSE SHOTS on Stella's eyes, pure concentration. CLOSE SHOTS on each number on the dial. Finally: CLICK.
+</DIRECTION>
+<DIRECTION>
+She grabs the safe's lever and swings the sturdy steel door open. She instinctively looks away.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Don't you want to see what's inside?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	I never look.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Trust me. You wanna look.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+So she does. Inside is a mountain of gold bricks...
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. HOLLYWOOD & HIGHLAND - MOMENTS LATER
+</DIRECTION>
+<DIRECTION>
+The motorcycle guards heave, strain, finally getting the steel plate off. But it's too late as --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. MINIS - SERIES OF SHOTS
+</DIRECTION>
+<DIRECTION>
+Engines REV. Exhaust jets. Hands slam stick-shifts.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL
+</DIRECTION>
+<DIRECTION>
+The cars streak off deeper into the Metro Rail tunnel, headlights bouncing off the walls.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI (MOVING) - DAY
+</DIRECTION>
+<DIRECTION>
+It's a rush cruising down the tunnel. Taking the Blue Line.
+</DIRECTION>
+<DIRECTION>
+Leading the pack. But they're not home free yet.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. 101 FREEWAY - DAY
+</DIRECTION>
+<DIRECTION>
+Rush hour gridlock -- no problem. The Ferrari's 12 cylinder massive 210 hp engine bellows as it hits 120 m.p.h. in the breakdown lane.
+</DIRECTION>
+<DIRECTION>
+A Highway Patrol car starts chasing after it, siren wailing.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. FERRARI (HAULING ASS) - DAY
+</DIRECTION>
+<DIRECTION>
+Merging onto the 110 South, Steve sees the patrol car in hot pursuit.
+</DIRECTION>
+<DIRECTION>
+He shifts into sixth and suddenly this car is a rocket blasting off, doing a 1/4 mile in 1.3 seconds, leaving the patrol car far behind. At the same time --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. SAFE HOUSE - GARAGE
+</DIRECTION>
+<DIRECTION>
+Mashkov and the other heavily armed Ukrainians climb into a SUV. The garage door opens and the vehicle charges out of there. And at the same time --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. METRO RAIL TUNNEL
+</DIRECTION>
+<DIRECTION>
+The three Minis speed by UNDERNEATH OUR CAMERA in streaks of red, white, and blue.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI (MOVING)
+</DIRECTION>
+<DIRECTION>
+He spots the proverbial daylight at the end of the tunnel.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. FLOWER & PICO - DAY
+</DIRECTION>
+<DIRECTION>
+Where the Blue Line rises up to ground level. The Minis thunder into the daylight, past the above ground platform, just as two motorcycles come flying around the corner after them.
+</DIRECTION>
+<DIRECTION>
+Picture this: two guards on each motorcycle with each man seated behind the driver holding AK-47s in each hand, giving them the appearance of having submachine guns growing out of their shoulders.
+</DIRECTION>
+<DIRECTION>
+Fingers go flat against the AK-47s triggers. Blowing SHOT after SHOT at the Minis. BAM-BAM-BAM.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI
+</DIRECTION>
+<DIRECTION>
+In the teeth of gunfire. Bullets explode through the back window in a cacophony of CRASHING GLASS. A shot wings his door. POP! Into headset:
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Split up!
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: EXT. FLOWER & PICO
+</DIRECTION>
+<DIRECTION>
+They head off in different directions through congested downtown rush hour traffic.
+</DIRECTION>
+<DIRECTION>
+One motorcycle takes off after Charlie's Mini. The other goes after Handsome Rob's Mini. So Stella's free and clear except that Steve's Ferrari is barreling down Pico and coming after her.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. LAPD HELICOPTER (FLYING)
+</DIRECTION>
+<DIRECTION>
+An LAPD PILOT swoops in, barking out instructions to police cars converging on the scene.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. CHARLIE'S MINI
+</DIRECTION>
+<DIRECTION>
+Turning onto Exposition, the motorcycle in pursuit, the chopper overhead.
+</DIRECTION>
+<DIRECTION>
+His red Mini jumps a curve, now on a wide sidewalk, accelerating full throttle for the horizon while pedestrians flatten themselves against a high-rise in fear.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI
+</DIRECTION>
+<DIRECTION>
+He sees someone give him the finger. Mutters:
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	If you don't like how I'm driving, get off the damn sidewalk.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Meanwhile:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HANDSOME ROB'S MINI
+</DIRECTION>
+<DIRECTION>
+He's got the other motorcycle on his tail, RELENTLESS GUNFIRE dogging his every move.
+</DIRECTION>
+<DIRECTION>
+He shifts smooth as silk, squeezing between a car he's passing and an oncoming car in the other lane. Half-Ear is trying his best to remain calm but Jesus, that was close.
+</DIRECTION>
+<DIRECTION>
+Suddenly, Handsome Rob veers off the road and WHAM. He takes down a chain link fence and is now in the parking lot of the:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. CONVENTION CENTER
+</DIRECTION>
+<DIRECTION>
+His white Mini catapults across the asphalt, the motorcycle still right behind.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HANDSOME ROB'S MINI
+</DIRECTION>
+<DIRECTION>
+Up ahead, he eyes the open door entrance to the Convention Center. Stomps the gas.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	What are you doing?
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+The turbine howls.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	What -- are -- you -- doing?
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+:SC: EXT. CONVENTION CENTER
+</DIRECTION>
+<DIRECTION>
+The Mini squeezes through the doorway and into the --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CONVENTION CENTER
+</DIRECTION>
+<DIRECTION>
+It's the STAR TREK GRAND SLAM 2002 convention in full swing.
+</DIRECTION>
+<DIRECTION>
+Display tables are lined up in the cavernous hall and the Mini snakes through the maze and the Trekkies as --
+</DIRECTION>
+<DIRECTION>
+The motorcycle follows right behind and the chase is really on now.
+</DIRECTION>
+<DIRECTION>
+THUDA THUD THUDA, the Mini's wheels climb a flight of steps.
+</DIRECTION>
+<DIRECTION>
+Waves of people flee the path of the little car and --
+</DIRECTION>
+<DIRECTION>
+THUD, THUDA, THUD, the motorcycle follows right behind.
+</DIRECTION>
+<DIRECTION>
+The Mini zips down the wide Concourse Hall -- travels underneath banners of Star Trek characters that hang from the ceiling -- the motorcycle keeps up, tires tearing into the carpeting.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HANDSOME ROB'S MINI
+</DIRECTION>
+<DIRECTION>
+He shifts, swerves, avoiding people, obstacles.
+</DIRECTION>
+<HALF_EAR>
+	<DIALOGUE>
+	Go that way!
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+Handsome Rob turns, taking them down the --
+</DIRECTION>
+<DIRECTION>
+WEST HALL
+</DIRECTION>
+<DIRECTION>
+that stretches out toward the Staples Center.
+</DIRECTION>
+<DIRECTION>
+WHIZ. The Mini goes by. WHIZ. The motorcycle goes by.
+</DIRECTION>
+<DIRECTION>
+Then --
+</DIRECTION>
+<DIRECTION>
+The Mini steamrolls through the exit doors and --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. CONVENTION CENTER/STAPLES CENTER
+</DIRECTION>
+<DIRECTION>
+It bounds down outdoor steps and ramps onto the outside entrance to the Staples Center, fitting snugly between cement pillars that are designed to keep regular-sized cars out.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STAPLES CENTER - DAY
+</DIRECTION>
+<DIRECTION>
+The Mini bulldozes through glass doors. Across the lobby.
+</DIRECTION>
+<DIRECTION>
+Down an aisle that leads right to --
+</DIRECTION>
+<DIRECTION>
+CENTER COURT
+</DIRECTION>
+<DIRECTION>
+where OUR L.A. LAKERS are in the midst of practice. The Minis do look like matchbox cars next to these towering players.
+</DIRECTION>
+<DIRECTION>
+The car's tires leave a streak of rubber on the parquet floor. The team clears a path. The car is off the court before they know it.
+</DIRECTION>
+<DIRECTION>
+But now the players see the motorcycle coming down the aisle.
+</DIRECTION>
+<DIRECTION>
+See the guns. See security guards running after it.
+</DIRECTION>
+<DIRECTION>
+KOBE BRYANT picks up a basketball.
+</DIRECTION>
+<DIRECTION>
+The motorcycle charges across center court.
+</DIRECTION>
+<DIRECTION>
+Kobe aims... hurls the ball. It RAMS into the motorcycle's handlebars. The bike spins out of control and into a nasty fall, spitting off the riders while --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. STAPLES CENTER
+</DIRECTION>
+<DIRECTION>
+The Mini crashes out the opposite side of the arena and glides right through the L.A. Sports Arch of Fame before escaping onto Figueroa. Meanwhile:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. SOUTH ALAMEDA - DAY
+</DIRECTION>
+<DIRECTION>
+The Ferrari is eating up the pavement as it hounds after Stella. Two police cars are roaring after them both.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STELLA'S MINI
+</DIRECTION>
+<DIRECTION>
+She slaps the gears into action, maneuvers tight turns around the cars in her path, just like she does at home with Jack Daniels.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. SOUTH ALAMEDA
+</DIRECTION>
+<DIRECTION>
+A cop car tries to pass the same car as the Ferrari but smashes into an oncoming vehicle. As it spins like a corkscrew --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. FERRARI
+</DIRECTION>
+<DIRECTION>
+The rear tires spin smoke and it launches like a missile after the Mini.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STELLA'S MINI
+</DIRECTION>
+<DIRECTION>
+She keeps flooring it... the gauge rising... the customized engine screaming...
+</DIRECTION>
+<DIRECTION>
+But the Ferrari, like an unstoppable force, hangs menacingly in her rearview mirror.
+</DIRECTION>
+<DIRECTION>
+I/E FERRARI
+</DIRECTION>
+<DIRECTION>
+Steve RAMS into the rear bumper of the blue Mini. The bumper tears off, rolls across the pavement. The Ferrari is about to make another charge.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STELLA'S MINI
+</DIRECTION>
+<DIRECTION>
+She yanks the wheel left to avoid the hit. Suddenly finds herself in the path of an ARROWHEAD WATER TRUCK. She yanks the wheel right to avoid a collision.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ARROWHEAD WATER TRUCK
+</DIRECTION>
+<DIRECTION>
+The truck driver hits the brakes, over compensating as he turns away from the Mini and --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. SOUTH ALAMEDA
+</DIRECTION>
+<DIRECTION>
+The truck falls over onto its side, sending those big jugs all over the road, water exploding into the air and --
+</DIRECTION>
+<DIRECTION>
+The Ferrari crashes through the jugs, one rolling up the hood and over the windshield, dousing it like a car wash.
+</DIRECTION>
+<DIRECTION>
+The lane is blocked by the wreck. Steve makes a right turn.
+</DIRECTION>
+<DIRECTION>
+The police cruiser hits the brakes but not fast enough. It slams into the water truck.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. 5TH STREET
+</DIRECTION>
+<DIRECTION>
+Steve turned onto a one-way street and he's going the wrong way. A Jeep Wrangler almost runs into him head-on but both cars stop just in time.
+</DIRECTION>
+<DIRECTION>
+The DRIVER of Wrangler, a muscular fire plug of a guy, jumps out, furious.
+</DIRECTION>
+<FURIOUS_DRIVER>
+	<DIALOGUE>
+	What's wrong with you, you stupid- ass, son of a bitch, dickhead...
+	</DIALOGUE>
+</FURIOUS_DRIVER>
+<DIRECTION>
+As more invectives are hurled, Steve gets out of the Ferrari and walks towards the furious driver.
+</DIRECTION>
+<FURIOUS_DRIVER>
+	<DIALOGUE>
+	What? You want a piece of me? C'mon, dumbshit. Bring it on. I'll be pulling peanuts out of your asshole --
+	</DIALOGUE>
+</FURIOUS_DRIVER>
+<DIRECTION>
+BANG. Steve shoots the guy's foot.
+</DIRECTION>
+<FURIOUS_DRIVER>
+	<DIALOGUE>
+	Shit! Shit! You shot me in the foot!
+	</DIALOGUE>
+</FURIOUS_DRIVER>
+<DIRECTION>
+While the furious driver hops on one leg, Steve gets into the Wrangler and takes off, abandoning the Ferrari. At the same time --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. BMW 750IL (MOVING) - SUNSET
+</DIRECTION>
+<DIRECTION>
+Lyle's coasting down Exposition Boulevard towards Union Station. Clear sailing for him.
+</DIRECTION>
+<DIRECTION>
+He sees a young woman thumbing for a ride. It's Karen. And he recognizes her: she was hitchhiking when he first arrived in L.A. He pulls over. To Lyle, she might be an angel in the empyrean if she wasn't, so completely, a woman.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Where are you going?
+	</DIALOGUE>
+</LYLE>
+<KAREN>
+	<DIALOGUE>
+	Away.
+	</DIALOGUE>
+</KAREN>
+<LYLE>
+	<DIALOGUE>
+	How about far, far away?
+	</DIALOGUE>
+</LYLE>
+<KAREN>
+	<DIALOGUE>
+	The farther the better.
+	</DIALOGUE>
+</KAREN>
+<DIRECTION>
+:SC: EXT. FIGUEROA & OLYMPIC - DAY
+</DIRECTION>
+<DIRECTION>
+Charlie's still having a helluva time getting rid of the motorcycle. It screams like a Banshee as it streaks up alongside the Mini. Charlie suddenly sees an AK-47 pointed right at him.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI
+</DIRECTION>
+<DIRECTION>
+He jerks the steering wheel and swerves off the street, driving through the parking lot of the historic Hotel Figueroa.
+</DIRECTION>
+<DIRECTION>
+With the motorcycle dogging his heels, he looks up at the building. It has three towers that rise up 12 stories, with a giant mural of Albert Einstein covering one of the towers
+</DIRECTION>
+<DIRECTION>
+(it's an ad for Apple Computers: Think different.)
+</DIRECTION>
+<DIRECTION>
+Suddenly the LAPD helicopter swoops down towards the parking lot, shattering the air, blowing up dirt and discarded newspapers in a rush of turbo-wash, trying to box in the Mini.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI
+</DIRECTION>
+<DIRECTION>
+He's got no place else to go...
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOTEL FIGUEROA
+</DIRECTION>
+<DIRECTION>
+The Mini squeezes through the entrance and into the lobby with its exotic Moroccan decor. Horrified guests catapult out of the way. The Mini drives past wooden statues, potted palm trees.
+</DIRECTION>
+<DIRECTION>
+The motorcycle follows the car as it streaks towards the elevator. Charlie looks back, sees the motorcycle. The elevator door opens. Some tourists step off.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Going up?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. ELEVATOR
+</DIRECTION>
+<DIRECTION>
+The Mini darts right in, not an inch to spare. Charlie reaches out the window, presses the button for ROOF.
+</DIRECTION>
+<DIRECTION>
+He sees the motorcycle charging after him, burning rubber across the beautiful tiled floor. Closer, closer.
+</DIRECTION>
+<DIRECTION>
+The door closes just in time.
+</DIRECTION>
+<DIRECTION>
+A second elevator opens, the motorcycle zooms inside, people screaming at the sight of the guns.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROOFTOP - DAY
+</DIRECTION>
+<DIRECTION>
+The doors open, PING, and the Mini reverses out, spins.
+</DIRECTION>
+<DIRECTION>
+LOOKING DOWN onto the building's rooftop, we see that it is shaped like a capitol E, three towers connected by a narrow strip. Each tower has its own elevator.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CHARLIE'S MINI
+</DIRECTION>
+<DIRECTION>
+He wants to drive across the rooftop strip but there's a big problem: the giant sign that exclaims HOTEL FIGUEROA in red and white neon lights blocks so much of the strip that even the Mini couldn't squeeze through.
+</DIRECTION>
+<DIRECTION>
+In his rearview, he sees the second elevator door open and out comes the motorcycle. He's trapped up here. But he's not about to abandon ship.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. ROOFTOP
+</DIRECTION>
+<DIRECTION>
+So he floors it, slaps the gears, hurtles to the edge of the first tower and in --
+</DIRECTION>
+<DIRECTION>
+EYE-POPPING CGI SLOW MOTION SHOTS
+</DIRECTION>
+<DIRECTION>
+His car hurls into the wide blue empty space... The ground deliriously distant... Spiraling through the air like a football...
+</DIRECTION>
+<DIRECTION>
+NEXT TOWER - ROOFTOP
+</DIRECTION>
+<DIRECTION>
+The Mini lands right-side-up with a THUD. Charlie, rattled, looks over his shoulder and sees the LAPD helicopter rising over the rooftop, turbines SCREAMING.
+</DIRECTION>
+<DIRECTION>
+And here comes the motorcycle. Flying from one section of the rooftop to the next. It lands and the driver REVS it forward --
+</DIRECTION>
+<DIRECTION>
+I/E CHARLIE'S MINI
+</DIRECTION>
+<DIRECTION>
+He speeds toward the edge of the roof and launches off towards the third tower some twenty feet away. Lands. Keeps going to the last elevator, skids to a stop.
+</DIRECTION>
+<DIRECTION>
+He reaches out, punches the call button. Then looks over his shoulder to witness --
+</DIRECTION>
+<DIRECTION>
+THE MOTORCYCLE
+</DIRECTION>
+<DIRECTION>
+going full throttle to make the final rooftop to rooftop jump.
+</DIRECTION>
+<DIRECTION>
+But its front wheel hits the edge slightly off-kilter...
+</DIRECTION>
+<DIRECTION>
+It soars but with a slight downward trajectory...
+</DIRECTION>
+<DIRECTION>
+Towards a large window on the top floor...
+</DIRECTION>
+<DIRECTION>
+Then lower...
+</DIRECTION>
+<DIRECTION>
+And the look on the driver's face says it all as...
+</DIRECTION>
+<DIRECTION>
+The front wheel of the motorcycle SMACKS into the side of the building, just below the window.
+</DIRECTION>
+<DIRECTION>
+The guards are flung off the bike and their bodies CRASH through the window as --
+</DIRECTION>
+<DIRECTION>
+A hunk of exploding metal imbeds itself in the side of the LAPD chopper and --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOTEL FIGUEROA
+</DIRECTION>
+<DIRECTION>
+The guards land in the Tangier Suite in a hailstorm of glass shards.
+</DIRECTION>
+<DIRECTION>
+I/E. LAPD HELICOPTER
+</DIRECTION>
+<DIRECTION>
+Smoke billows out where the hunk of metal hit. The pilot keeps it under control but it's time to go. With a WHINING THROB, the injured chopper banks away.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. HOTEL FIGUEROA LOBBY - DAY
+</DIRECTION>
+<DIRECTION>
+PING. The elevator door opens. Charlie's Mini shoots out then skids out the lobby's exit. He made it.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. STELLA'S MINI (SPEEDING) - DAY
+</DIRECTION>
+<DIRECTION>
+She checks the rearview mirror. No sign of the Ferrari.
+</DIRECTION>
+<DIRECTION>
+Just a Jeep Wrangler back there.
+</DIRECTION>
+<DIRECTION>
+Stella looks relieved. Feels like she's home free.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. UNION STATION - SUNSET
+</DIRECTION>
+<DIRECTION>
+Stella's Mini pulls up to the ramp of the enclosed car carrier at the end of Amtrak Train 59, bound for New Orleans.
+</DIRECTION>
+<DIRECTION>
+She can see the other two Minis are already inside. She gets out and hands the cargo loader a ticket.
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. UNION STATION - NIGHT
+</DIRECTION>
+<DIRECTION>
+The "All Aboard" announcement goes out over the PA system.
+</DIRECTION>
+<DIRECTION>
+Then the Superliner train pulls out of the station, quickly picking up speed.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. FIRST CLASS CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+The outside streaks by through the window. It's a happy crew. Champagne is poured. Charlie holds up his glass and gets their attention.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	I want to make a toast. Cause there's somebody missing here today, and we all know who it is.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+They all raise their glasses.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	To John Bridger. The most brilliant master planner of them all. We wish he was with us.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+We PAN ACROSS their faces. It's been a three year odyssey for them. They got the gold, but they lost someone they loved.
+</DIRECTION>
+<ALL_OF_THEM>
+	<DIALOGUE>
+	To John.
+	</DIALOGUE>
+</ALL_OF_THEM>
+<DIRECTION>
+Clink.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. CAR CARRIER - NIGHT
+</DIRECTION>
+<DIRECTION>
+OUR CAMERA MOVES past the three Minis parked inside...
+</DIRECTION>
+<DIRECTION>
+And STOPS at the last car in the carrier -- the Jeep Wrangler. Its rear hatch rises and Steve creeps out. Looks around. It's safe.
+</DIRECTION>
+<DIRECTION>
+He walks over to Stella's Mini. Pops open the trunk REVEALING a silver Haliburton suitcase. He unzips the case.
+</DIRECTION>
+<DIRECTION>
+It's filled with stacks and stacks of gold bricks, the exotic face of a Balinese girl on each one.
+</DIRECTION>
+<DIRECTION>
+Steve pulls out a brick, embraces it. He knows his gold.
+</DIRECTION>
+<DIRECTION>
+These bricks are real.
+</DIRECTION>
+<DIRECTION>
+But as he has a moment with his gold, BEHIND HIM, the trunks of the other two Minis RISE in unison.
+</DIRECTION>
+<DIRECTION>
+Then Mashkov RISES out of the trunk of the white Mini.
+</DIRECTION>
+<DIRECTION>
+Another Ukrainian RISES out of the trunk of the blue Mini.
+</DIRECTION>
+<DIRECTION>
+Four more Ukrainians slide out from underneath the Minis.
+</DIRECTION>
+<DIRECTION>
+They cock their M-lls.
+</DIRECTION>
+<DIRECTION>
+CLICK CLICK CLICK CLICK CLICK CLICK.
+</DIRECTION>
+<DIRECTION>
+Steve hears the sound from behind him. He turns around to see the weapons pointed at him.
+</DIRECTION>
+<MASHKOV>
+	<DIALOGUE>
+	Take out your gun and drop it on the floor.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+Steve has no choice.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Who are you?
+	</DIALOGUE>
+</STEVE>
+<MASHKOV>
+	<DIALOGUE>
+	You knew my cousin. Yevhen.
+	</DIALOGUE>
+</MASHKOV>
+<STEVE>
+	<DIALOGUE>
+	I never knew anyone named Yevhen.
+	</DIALOGUE>
+</STEVE>
+<MASHKOV>
+	<DIALOGUE>
+	Get in the trunk. Not that trunk, this one. That gold is for us. A gift from some old friends of yours. They said to tell you that they didn't mind sharing the box of Cracker Jack, as long as you didn't get any. Not even the toy surprise.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+The Ukrainians force Steve into the trunk of the white Mini.
+</DIRECTION>
+<DIRECTION>
+And for the first time, he's scared. Looking up at Mashkov, he begs.
+</DIRECTION>
+<STEVE>
+	<DIALOGUE>
+	Please. Don't shoot me. Please...
+	</DIALOGUE>
+</STEVE>
+<MASHKOV>
+	<DIALOGUE>
+	Don't worry. That wasn't the deal. I'm not going to shoot you.
+	</DIALOGUE>
+</MASHKOV>
+<STEVE>
+	<DIALOGUE>
+	Thank you. Thank God.
+	</DIALOGUE>
+</STEVE>
+<MASHKOV>
+<DIRECTION>
+(to the others)
+</DIRECTION>
+	<DIALOGUE>
+	He really thought I was going to shoot him.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+The Ukrainians laugh. Steve tries to laugh.
+</DIRECTION>
+<MASHKOV>
+	<DIALOGUE>
+	No. No. I'm not going to shoot you. I'm going to hack off your limbs and bury you while you're still alive.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+And with that, he closes the trunk. THUD. Like the lid of a coffin. And for Steve, the world falls into BLACKNESS.
+</DIRECTION>
+<DIRECTION>
+:SC: INT. FIRST CLASS CAR - SAME TIME
+</DIRECTION>
+<DIRECTION>
+Underneath the crew's seats, we see the other two silver Haliburton suitcases filled with the rest of the gold. We BOOM UP to our five thieves...
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	New IDs.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Handsome Rob passes out new fake driver's licenses for when they arrive in New Orleans.
+</DIRECTION>
+<LYLE>
+<DIRECTION>
+(re: his fake license)
+</DIRECTION>
+	<DIALOGUE>
+	Simon Quackenbush? Could I -- just once -- have a cool name?
+	</DIALOGUE>
+</LYLE>
+<HALF_EAR>
+<DIRECTION>
+(also complaining)
+</DIRECTION>
+	<DIALOGUE>
+	250_pounds?
+	</DIALOGUE>
+</HALF_EAR>
+<DIRECTION>
+They're interrupted by the RING of Charlie's phone. He answers.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	Did you get what you wanted?
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+:SC: INT. CAR CARRIER - INTERCUT
+</DIRECTION>
+<DIRECTION>
+Mashkov is on the other end of the line.
+</DIRECTION>
+<MASHKOV>
+	<DIALOGUE>
+	I'm happy.
+	</DIALOGUE>
+</MASHKOV>
+<DIRECTION>
+During this, Lyle types commands into his laptop that is connected to a phone jack in the car.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	It was good doing business with you.
+	</DIALOGUE>
+</CHARLIE>
+<DIRECTION>
+Lyle hits a final command and --
+</DIRECTION>
+<DIRECTION>
+:SC: INT. ENGINEER ROOM - SAME TIME
+</DIRECTION>
+<DIRECTION>
+signal box receives the command and --
+</DIRECTION>
+<DIRECTION>
+:SC: EXT. CAR CARRIER - SAME TIME
+</DIRECTION>
+<DIRECTION>
+The coupler between the car carrier and the rest of the train is electronically disengaged.
+</DIRECTION>
+<DIRECTION>
+This causes the train to separate from the car carrier. The train speeds on without it at 100 miles per hour.
+</DIRECTION>
+<DIRECTION>
+The car carrier slowly comes to a stop in the middle of nowhere.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. DINING CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+The Dining Car features crisp white linens and extended windows for scenic dining. Lyle walks over to a table where Karen is waiting for him. She looks resplendent.
+</DIRECTION>
+<LYLE>
+	<DIALOGUE>
+	Is this seat taken?
+	</DIALOGUE>
+</LYLE>
+<KAREN>
+	<DIALOGUE>
+	It is now.
+	</DIALOGUE>
+</KAREN>
+<DIRECTION>
+He sits. And as OUR CAMERA HOLDS ON Lyle, ready to embark on a new life, we --
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+THE COVER OF WIRED MAGAZINE
+</DIRECTION>
+<DIRECTION>
+It fills THE SCREEN. And beneath a photograph of Lyle himself, we read the headline:
+</DIRECTION>
+<DIRECTION>
+WILL THE REAL NAPSTER PLEASE STAND UP?
+</DIRECTION>
+<DIRECTION>
+How The Laptop Fugitive Pulled It Off.
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. PARLOUR CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+And as OUR CAMERA FINDS Half-Ear, checking out the books in the library, feeling like the wealthy man he is, we --
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+THE COVER OF PHILADELPHIA CITY COLLEGE'S ALUMNI NEWS
+</DIRECTION>
+<DIRECTION>
+And beneath a graduation photo of Half-Ear in his cap and gown, we read the headline:
+</DIRECTION>
+	<DIALOGUE>
+	"HE WAS ONE OF M'S BEST STUDENTS"
+	</DIALOGUE>
+	<DIALOGUE>
+	Professor Relives Memories of Erudite Fugitive
+	</DIALOGUE>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. LOUNGE CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+And as OUR CAMERA FINDS Handsome Rob, who's already caught the eye of a woman at the bar, we --
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+THE COVER OF THE ADELPHIA CABLE INSIDER NEWSLETTER
+</DIRECTION>
+<DIRECTION>
+And beneath a photo of Becky the cable chick, we read the headline:
+</DIRECTION>
+<DIRECTION>
+"HE TOOK THE SHIRT OFF MY BACK AND I'D GIVE IT TO HIM AGAIN!"
+</DIRECTION>
+<DIRECTION>
+Feds Say Technician Admits to Encounter With 'Handsome' Thief
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+:SC: INT. FIRST CLASS CAR - NIGHT
+</DIRECTION>
+<DIRECTION>
+Charlie and Stella drink from glasses of champagne.
+</DIRECTION>
+<CHARLIE>
+	<DIALOGUE>
+	We did it.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	We sure did.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	There's something I've been meaning to ask you, Stella. But I've just been so busy lately, what with the explosion, car chase, Ukrainians and all.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	It has been a hectic day.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	It's about that thing you said to me back in Philadelphia.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	That thing?
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	You said that you can't have a relationship with a pickpocket, gold robber, or any kind of thief.
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Oh... That thing.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Do you still believe that?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Yeah. I do.
+	</DIALOGUE>
+</STELLA>
+<CHARLIE>
+	<DIALOGUE>
+	Well I was wondering... What about a retired pickpocket, gold robber, thief?
+	</DIALOGUE>
+</CHARLIE>
+<STELLA>
+	<DIALOGUE>
+	Now that's an entirely different question.
+	</DIALOGUE>
+</STELLA>
+<DIRECTION>
+And as an enigmatic smile settles across her face, we --
+</DIRECTION>
+<DIRECTION>
+CUT TO:
+</DIRECTION>
+<DIRECTION>
+THE COVER OF CONDE MAST TRAVEL MAGAZINE
+</DIRECTION>
+<DIRECTION>
+And beneath a photo of sunbathers on a glorious beach, we read the headline:
+</DIRECTION>
+	<DIALOGUE>
+	LIVING THE GOOD LIFE ON THE PINK SANDS OF BERMUDA
+	</DIALOGUE>
+<DIRECTION>
+And OUR VIEW SLOWLY PUSHES IN CLOSER ON the magazine cover...
+</DIRECTION>
+<DIRECTION>
+CLOSER on the line of sunbathers... PANNING ACROSS their faces -- and you'd never notice unless you were really, really, looking for them... is it them?... CLOSER on the pixels... and yes, it sure is... Charlie & Stella in lounge chairs, living the good life.
+</DIRECTION>
+<DIRECTION>
+FADE OUT:
+</DIRECTION>
+<DIRECTION>
+THE END
+</DIRECTION>

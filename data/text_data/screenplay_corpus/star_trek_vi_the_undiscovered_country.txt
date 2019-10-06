@@ -1,0 +1,7474 @@
+<DIRECTION>
+:SC: Starfield
+</DIRECTION>
+<DIRECTION>
+Credits over serene space when suddenly.....
+</DIRECTION>
+<DIRECTION>
+an enormous explosion, sending debris flying at warp velocities....
+</DIRECTION>
+<DIRECTION>
+cu a teacup
+</DIRECTION>
+<DIRECTION>
+widen to reveal
+</DIRECTION>
+<DIRECTION>
+int. bridge, U.S.S. excelsior
+</DIRECTION>
+<DIRECTION>
+the polyglot crew is busy
+</DIRECTION>
+<DIRECTION>
+seated in the captain's chair, a familiar face: SULU he has his own command, and is drinking a cup of tea.
+</DIRECTION>
+<DIRECTION>
+the Science officer stands next to him, conferring, handing him a datacount. Sulu muses over the contents.
+</DIRECTION>
+<SULU>
+	<DIALOGUE>
+	according to this, we've completed our exploration the the entire section.
+	</DIALOGUE>
+</SULU>
+<Science_officer>
+	<DIALOGUE>
+	Fifty-four planets, and their gaseous atmospheric anomalies. Our sensing and analytic equipment worked really well.
+	</DIALOGUE>
+</Science_officer>
+<Sulu>
+	<DIALOGUE>
+	Time we were heading home. Three Years is......
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+The ship starts to TREMBLE
+</DIRECTION>
+<DIRECTION>
+Angle on Sulu's tea cup
+</DIRECTION>
+<DIRECTION>
+Shaking in its saucer.....Sulu and the crew look at each other as the Shaking increases. The teacup smashes.
+</DIRECTION>
+<Science_officer>
+	<DIALOGUE>
+	I have an energy wave from 240 degrees, mark six port....
+	</DIALOGUE>
+</Science_officer>
+<Sulu>
+	<DIALOGUE>
+	Visual!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+On the screen an enormous gaseous wave, a subspace shock front.
+</DIRECTION>
+<Sulu>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	My God!!! SHIELDS!!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+EXT. The Galaxy
+</DIRECTION>
+<DIRECTION>
+Meteors and asteroids smashing past, burning chunks fly by at warp speeds. Excelsior reels.
+</DIRECTION>
+<DIRECTION>
+INT. U.S.S. Excelsior bridge
+</DIRECTION>
+<DIRECTION>
+The ship rolls, throwing everyone off balance.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	What the hell is going on?
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+The crew jumps to. Computers light up. Information flies across screens and monitors. The ship is battered like a fighter's punching bag with shocks and jolts and tremors.
+</DIRECTION>
+<DIRECTION>
+INT. crew's quarters, galley, corridors, etc.
+</DIRECTION>
+<DIRECTION>
+sleeping members are thrown from their berths. The claxon alarm sounds pervasively......
+</DIRECTION>
+<Crew_etc>
+	<DIALOGUE>
+	What the --- Look out! --- Stations --- etc.
+	</DIALOGUE>
+</Crew_etc>
+<DIRECTION>
+INT. Excelsior Bridge
+</DIRECTION>
+<Lojur>
+	<DIALOGUE>
+	Captain, she's not answering the Helm.....
+	</DIALOGUE>
+</Lojur>
+<Sulu>
+	<DIALOGUE>
+	Starboard thrusters. Turn her into the wave!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+INT. Excelsior engine room
+</DIRECTION>
+<DIRECTION>
+Chaos. Valves hiss purple. Crew running, knocked about.
+</DIRECTION>
+<Engineer>
+	<DIALOGUE>
+	Engine room. What's going on up....
+	</DIALOGUE>
+</Engineer>
+<DIRECTION>
+INT. Excelsior Bridge
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Quarter inpulse power!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+Excelsior has been knocked about and everyone on the bridge is holding on or sliding around. She settles and one by one, her crew resume their stations.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Damage Report!
+	</DIALOGUE>
+</Sulu>
+<Voice>
+<DIRECTION>
+(Filtered)
+</DIRECTION>
+	<DIALOGUE>
+	Seem to be in one piece, Captain. We're checking all systems.....
+	</DIALOGUE>
+</Voice>
+<DIRECTION>
+The Main Viewscreen
+</DIRECTION>
+<DIRECTION>
+Shows Excelsior getting bumped about by the final fragments drifting past, bouncing off the shields.
+</DIRECTION>
+<Sulu>
+<DIRECTION>
+(to Science officer)
+</DIRECTION>
+	<DIALOGUE>
+	Don't tell me that was any meteor shower.
+	</DIALOGUE>
+</Sulu>
+<Science_officer>
+<DIRECTION>
+(over his console)
+</DIRECTION>
+	<DIALOGUE>
+	Negative. The subspace shock wave originated at bering Three-two-three, Mark seven-five, the location of....
+	</DIALOGUE>
+<DIRECTION>
+(turns to Sulu)
+</DIRECTION>
+	<DIALOGUE>
+	Praxis. A Klingon moon. Barren of indigenous life forms out...
+	</DIALOGUE>
+</Science_officer>
+<Sulu>
+	<DIALOGUE>
+	Essential as a resource. Praxis is their key energy production facility.
+	</DIALOGUE>
+<DIRECTION>
+(thinks)
+</DIRECTION>
+	<DIALOGUE>
+	Send to Klingon high command: "This is Excelsior, a Federation Starship traveling through Beta Quadrant. We have monitored a large explosion in your sector. DO YOU REQUIRE ASSISTANCE?
+	</DIALOGUE>
+</Sulu>
+<Communicationss_officer>
+	<DIALOGUE>
+	Aye, Sir!
+	</DIALOGUE>
+</Communicationss_officer>
+<Sulu>
+	<DIALOGUE>
+	Mr. Valtane, any more data?
+	</DIALOGUE>
+</Sulu>
+<Science_officer>
+	<DIALOGUE>
+	I have confirmed the location, Sir, but....
+	</DIALOGUE>
+</Science_officer>
+<Sulu>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</Sulu>
+<Science_officer>
+	<DIALOGUE>
+	....I cannot confirm the existence of Praxis.
+	</DIALOGUE>
+</Science_officer>
+<DIRECTION>
+Sulu reacts, goes over to the Science Console and looks at the screen. Nothing there.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Magnify.
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+The Science officer hits the buttons
+</DIRECTION>
+<DIRECTION>
+On the Viewscreen
+</DIRECTION>
+<DIRECTION>
+a barren moon with three-fourths of its mass blown away drifts lifelessly in a black void.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Praxis?
+	</DIALOGUE>
+</Sulu>
+<Science_officer>
+	<DIALOGUE>
+	What's left of it.
+	</DIALOGUE>
+</Science_officer>
+<Communications_officer>
+	<DIALOGUE>
+	Captain, I'm getting a message from Klingon high command.
+	</DIALOGUE>
+</Communications_officer>
+<Sulu>
+	<DIALOGUE>
+	Onscreen.
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+On Viewscreen:
+</DIRECTION>
+<DIRECTION>
+a snowy picture of a wild-eyed Klingon officer.
+</DIRECTION>
+<Officer>
+	<DIALOGUE>
+	This is an emergency! We have suffered.....
+	</DIALOGUE>
+</Officer>
+<DIRECTION>
+he looks around, the ground is shaking under him, as Sulu watches, the pictures collapses, then comes on again, with a different face.
+</DIRECTION>
+<Kerla>
+	<DIALOGUE>
+	This is Brigadier Kerla, speaking for the Klingon high command. There has been an incident on Praxis, however everything is under control. We have no need for assistance. Obey treaty stipulations and remain outside the Neutral Zone. Tranmission ends now!
+	</DIALOGUE>
+</Kerla>
+<DIRECTION>
+The screen goes black. Sulu looks incredulous.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	An INCIDENT?!?
+	</DIALOGUE>
+</Sulu>
+<Communications_officer>
+	<DIALOGUE>
+	Do we report this, Sir?
+	</DIALOGUE>
+</Communications_officer>
+<Sulu>
+	<DIALOGUE>
+	Are you kidding?
+	</DIALOGUE>
+<DIRECTION>
+(swivels to the communications officer)
+</DIRECTION>
+	<DIALOGUE>
+	Send to Starfleet Command....
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Excelsior warps off into the galaxy.
+</DIRECTION>
+<DIRECTION>
+CU Starfleet Insignia
+</DIRECTION>
+<DIRECTION>
+Kirk walks into shot.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	What are we doing here?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Widen to reveal
+</DIRECTION>
+<DIRECTION>
+INT. Starfleet briefing room - day
+</DIRECTION>
+<DIRECTION>
+the room fills with bemedaled brass, Kirk's crew among them - the only starship complement in the room. They can't help looking at each other, questioning. They are in uniform.
+</DIRECTION>
+<Bones>
+	<DIALOGUE>
+	Search me. Anybody know how come we made the "A" list?
+	</DIALOGUE>
+</Bones>
+<Uhura>
+	<DIALOGUE>
+	My shore leave was just cancelled.
+	</DIALOGUE>
+</Uhura>
+<Scotty>
+	<DIALOGUE>
+	Isn't this just for top brass?
+	</DIALOGUE>
+</Scotty>
+<Chekov>
+	<DIALOGUE>
+	Where is Mr. Sulu?
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	CAPTAIN Sulu is on assignment... anyone seen Spock?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+A door opens and a Starfleet ADC, austere and Impressive enters and gavels the meeting to order.
+</DIRECTION>
+<ADC>
+	<DIALOGUE>
+	This briefing is classified. There will be no recording devices. Ladies and Gentlemen, the Commander in Chief.
+	</DIALOGUE>
+</ADC>
+<DIRECTION>
+All rise as the Starfleet Commander in Chief enters, with a briefcase and pulls materials from it.
+</DIRECTION>
+<Commander_in_Chief>
+	<DIALOGUE>
+	As you were... I'll make this as simple as possible. The Klingon Empire has roughly 50 years of life left to it.
+	</DIALOGUE>
+</Commander_in_Chief>
+<DIRECTION>
+All look at each other in disbelief.
+</DIRECTION>
+<Commander_in_Chief>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	For full details, I am turning the briefing over to our special Federation Envoy..
+	</DIALOGUE>
+</Commander_in_Chief>
+<DIRECTION>
+He makes a sign and another door opens. Spock walks to the podium. Kirk and company are astounded.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Good morning. Two months ago a Federation starship monitored an explosion on the Klingon moon Praxis. We believe it was caused by overmining and insufficent safety precautions. The moon's decimation means an almost eighty percent loss of available energy and a deadly pollution of their ozone. They will have depleted their supply of oxygen in less than half a century. Due to their enormous military budget, the Klingon economy does not have the resources with which to combat this catastrophe. Last month, at the behest of the, uh.... Vulcan Ambassador, I opened a dialogue with Gorkon, Chancellor of the Klingon high council. He proposes to commence negotiations at once.
+	</DIALOGUE>
+</Spock>
+<Admiral_Donald>
+	<DIALOGUE>
+	Negotiations for what?
+	</DIALOGUE>
+</Admiral_Donald>
+<Spock>
+	<DIALOGUE>
+	The dismantling of our space stations and star bases along the Neutral Zone. An end to seventy years of unremitting hostility, which the Klingons can no longer afford.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Audible mutterings. Pan the crew. Is the war over?
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	If the Klingons sue for peace, we could accumulate savings in defense expenditures, leaving the Federation ecomony free to grapple with urgent social problems......
+	</DIALOGUE>
+</Spock>
+<A_Military_Man>
+	<DIALOGUE>
+	Bill, are we talking about mothballing the Starfleet?
+	</DIALOGUE>
+</A_Military_Man>
+<Commander_in_Chief>
+	<DIALOGUE>
+	I'm sure our exploration and science programs would not be affected, but the facts speak for themselves, Captain.
+	</DIALOGUE>
+</Commander_in_Chief>
+<Admiral_Donald>
+	<DIALOGUE>
+	I must protest. To offer the Klingons a safe haven within Federation space is suicide. And if we dismantle the fleet, we'd be defenseless before a Bellicose people with a foothold on our territory, led by an unprincipled tyrant. The opportunity here is to embargo trading, force them to run through their own resources faster, and bring them to their knees. Then we'll be in a far better position to dictate terms.
+	</DIALOGUE>
+</Admiral_Donald>
+<DIRECTION>
+a vocal minority of the briefing supports this, but not all. Kirk simply stares at Spock.
+</DIRECTION>
+<Commander_in_Chief>
+	<DIALOGUE>
+	Starfleet in under civilian control, Admiral. The decision is a political, not a military one, and it's been made.
+	</DIALOGUE>
+</Commander_in_Chief>
+<Kirk>
+	<DIALOGUE>
+	Sir.....
+	</DIALOGUE>
+</Kirk>
+<Commander_in_Chief>
+	<DIALOGUE>
+	Captain Kirk?
+	</DIALOGUE>
+</Commander_in_Chief>
+<Kirk>
+<DIRECTION>
+(Eyes Spock briefly)
+</DIRECTION>
+	<DIALOGUE>
+	Sir, I'm no diplomat, but the Klingons have never been trustworthy. I'm forced to agree with Admiral Donald. This is...
+	</DIALOGUE>
+<DIRECTION>
+(He gropes for tact)
+</DIRECTION>
+	<DIALOGUE>
+	....a terrible, a terrifying idea!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+the Admiral whispers to the Commander in Chief
+</DIRECTION>
+<Commander_in_Chief>
+	<DIALOGUE>
+	Your son was killed by a Klingon, wasn't he, Captain?
+	</DIALOGUE>
+</Commander_in_Chief>
+<Kirk>
+	<DIALOGUE>
+	Yes, Sir.
+	</DIALOGUE>
+</Kirk>
+<Commander_in_Chief>
+	<DIALOGUE>
+	I'm sorry, but Commander Spock has persuaded the Federation that this situation is too promising to ignore.
+	</DIALOGUE>
+</Commander_in_Chief>
+<Spock>
+	<DIALOGUE>
+	It is imperative that we act now, to support the Gorkon Initiative, lest more conservative elements persuade his empire that it would be better to attempt a military solution and die fighting.
+	</DIALOGUE>
+</Spock>
+<Commander_in_Chief>
+	<DIALOGUE>
+	Captian Kirk, you are to be our first olive branch.
+	</DIALOGUE>
+</Commander_in_Chief>
+<Kirk>
+	<DIALOGUE>
+	Me?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	We have volunteered to rendezvous with the Klingon ship that's bringing Chancellor Gorkon here, and escort him safely through Federation space.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Kirk is too startled to speak.
+</DIRECTION>
+<Commander_in_Chief>
+	<DIALOGUE>
+	As it happens, Kirk, the Chancellor specifically requested you and your officers.
+	</DIALOGUE>
+</Commander_in_Chief>
+<Kirk>
+	<DIALOGUE>
+	Why, in God's name?
+	</DIALOGUE>
+</Kirk>
+<Commander_in_Chief>
+	<DIALOGUE>
+	There are some Klingons who feel the same about a peace treaty as yourself, and Admiral Donald. They'll think twice about attacking the Enterprise under your command.
+	</DIALOGUE>
+</Commander_in_Chief>
+<Spock>
+	<DIALOGUE>
+	I have personally vouched for you in theis matter, Captain.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	You have personally.....
+	</DIALOGUE>
+</Kirk>
+<Commander_in_Chief>
+	<DIALOGUE>
+	You will accord Chancellor Gorkon full diplomatic coutesy, Captain Kirk.
+	</DIALOGUE>
+</Commander_in_Chief>
+<Kirk>
+<DIRECTION>
+(Straining)
+</DIRECTION>
+	<DIALOGUE>
+	Surely, a full Ambassador would be better equipped to....
+	</DIALOGUE>
+</Kirk>
+<Commander_in_Chief>
+	<DIALOGUE>
+	If there's no further business, I wish you and your crew Godspeed. Thank you all.
+	</DIALOGUE>
+</Commander_in_Chief>
+<DIRECTION>
+He charges out as all rise. Everyone files out.
+</DIRECTION>
+<Admiral_Donald>
+	<DIALOGUE>
+	I don't know whether to congratulate you or not, Jim.
+	</DIALOGUE>
+</Admiral_Donald>
+<DIRECTION>
+He moves off before Kirk can reply. The room is empty except for Spock, still at the podium and Kirk sitting alone in the auditorium. He is curious, betrayed and Spock knows it.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	WE volunteered?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	There's an old Vulcan proverb: only Nixon could have gone to China.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+<DIRECTION>
+(Incensed)
+</DIRECTION>
+	<DIALOGUE>
+	How could you vouch for me? That's.....
+	</DIALOGUE>
+<DIRECTION>
+(words fail him)
+</DIRECTION>
+	<DIALOGUE>
+	.....arrogant presumption.
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	I was asked by my father to open negotiations with the Klingon high council on behalf of the Federation. Under the circumstances, I was inclined to agree.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Kirk stands, and walks out of the room.
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+The elevator doors open. An attractive Vulcan Lieutenant leaps out of the command chair, whips to attention.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Well, I've heard some whoppers in my time.....
+	</DIALOGUE>
+</McCoy>
+<Uhura>
+<DIRECTION>
+(Overlaps)
+</DIRECTION>
+	<DIALOGUE>
+	They're mothballing the fleet?
+	</DIALOGUE>
+</Uhura>
+<Chekov>
+<DIRECTION>
+(Overlaps)
+</DIRECTION>
+	<DIALOGUE>
+	Ve vill regret this....
+	</DIALOGUE>
+</Chekov>
+<Lt_Valeris>
+	<DIALOGUE>
+	Captain on the bridge.
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+The crew stands to.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	As you were. Lieutenant...?
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	We were told you would need a helmsman.....
+	</DIALOGUE>
+<DIRECTION>
+(to Spock)
+</DIRECTION>
+	<DIALOGUE>
+	.....so I volunteered.
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+She salutes, Kirk smiles, returns the salute.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Lieutenant, I am please to see you.
+	</DIALOGUE>
+<DIRECTION>
+(to Kirk)
+</DIRECTION>
+	<DIALOGUE>
+	The Lieutenant is the first Vulcan to ge graduated at the top of her class at the Academy.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Congratulations, Lieutenant. That must make you very proud....
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	I don't believe so, Sir.
+	</DIALOGUE>
+</Lt_Valeris>
+<McCoy>
+	<DIALOGUE>
+	She's a Vulcan all right
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+<DIRECTION>
+(Down to business)
+</DIRECTION>
+	<DIALOGUE>
+	All right, let's get this over with....departure stations....
+	</DIALOGUE>
+<DIRECTION>
+(pushes the intercomm)
+</DIRECTION>
+	<DIALOGUE>
+	Scotty?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The crew assume their familiar stations.
+</DIRECTION>
+<Scotty_s_voice>
+<DIRECTION>
+(Filtered)
+</DIRECTION>
+	<DIALOGUE>
+	Aye, Sir?
+	</DIALOGUE>
+</Scotty_s_voice>
+<Kirk>
+	<DIALOGUE>
+	You find the engine room?
+	</DIALOGUE>
+</Kirk>
+<Scotty_s_Voice>
+	<DIALOGUE>
+	Right where I left it, Sir.
+	</DIALOGUE>
+</Scotty_s_Voice>
+<Kirk>
+	<DIALOGUE>
+	Standby. Get me the dock master, Uhura.
+	</DIALOGUE>
+</Kirk>
+<Uhura>
+	<DIALOGUE>
+	Control tower, reading, Sir.
+	</DIALOGUE>
+</Uhura>
+<Kirk>
+	<DIALOGUE>
+	Control, this is Enterprise, requesting permission to depart.
+	</DIALOGUE>
+</Kirk>
+<Voice_over>
+<DIRECTION>
+(filtered)
+</DIRECTION>
+	<DIALOGUE>
+	This is Control. Enterprise, you are granted permission to depart 30 seconds for port gates....
+	</DIALOGUE>
+</Voice_over>
+<Lt_Valeris>
+	<DIALOGUE>
+	Clear all moorings.....
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Awaiting port gates from this mark....
+	</DIALOGUE>
+</Kirk>
+<Voice_over>
+	<DIALOGUE>
+	Mooring lines cleared.....
+	</DIALOGUE>
+</Voice_over>
+<Lt_Valeris>
+	<DIALOGUE>
+	Aft thrusters.....
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+<DIRECTION>
+(Overlaps)
+</DIRECTION>
+	<DIALOGUE>
+	Thank you, Lieutenant, one quarter impulse power......
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+<DIRECTION>
+(She turns to face him)
+</DIRECTION>
+	<DIALOGUE>
+	Captain, may I remind you that regulations specify thrusters only while in space dock?
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+The crew, old and young, watch this exchange keenly. Spock is poker faced.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(next to Chekov)
+</DIRECTION>
+	<DIALOGUE>
+	Uh, Jim....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	You heard the order, Lieutenant.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Lt. Valeris swivels away, rolling her eyes so Kirk can't see, and hits the panel....
+</DIRECTION>
+<DIRECTION>
+The ship begins to rattle slightly, then
+</DIRECTION>
+<DIRECTION>
+EXT. Space dock
+</DIRECTION>
+<DIRECTION>
+the Enterprise screams out of the dock and exits through the just opening bay doors into outer space.
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise - night
+</DIRECTION>
+<DIRECTION>
+Kirk sits comfortably with a smile on his face
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Lieutenant.....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Lieutenant Valeris faces him.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I don't care if I am senile. If I sit in this chair and give the word, you jump!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock watches.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Aye, Sir.
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Plot a course for Kronos, Lieutenant.
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Kronos, Sir?
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	I'm still in the chair, Lieutenant!
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Aye, Sir.
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Other reactions. Kirk has taken command.
+</DIRECTION>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Enterprise cruises purposefully through the void.
+</DIRECTION>
+<Kirk_s_voice_over>
+	<DIALOGUE>
+	Captain's log, Stardate 8679.259. They say you can't teach an old dog new tricks, and maybe they're right. It seems to me our mission to escort the Chancellor of the Klingon High Council to a peace summit is Problematic at best.
+	</DIALOGUE>
+</Kirk_s_voice_over>
+<DIRECTION>
+INT. Kirks cabin
+</DIRECTION>
+<DIRECTION>
+Kirk is unpacking his bags as he dictates, hanging up his uniforms, his shaving tackle going next to the sink, etc.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I have never trusted Klingons, and never will. I have never been able to forgive them for the murder of my boy. Spock says this could be an historic moment, and I'd like to believe him, but how on earth can history get past people like me?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He sets up a photo of David next to his berth.
+</DIRECTION>
+<DIRECTION>
+A delicate cough.
+</DIRECTION>
+<DIRECTION>
+Kirk realizes he's not alone. Swivels to face:
+</DIRECTION>
+<DIRECTION>
+Lieutenat Valeris standing in the bulkhead doorway.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Sorry....
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Come on, Lieutenat, you could knock!
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	We're almost at the rendezvous, I thought you'd want to know.
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Right.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He stands up, and puts on his jacket. She watches.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Permission to speak freely, Sir?
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+He doesn't stop her
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	I gather you are not enthusiastic about the assignment, I don't think many on board are.
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	You piloted well out of spacedock, Lieutenant.
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+<DIRECTION>
+(Almost Smiles)
+</DIRECTION>
+	<DIALOGUE>
+	I always wanted to try that.
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+<DIRECTION>
+(Passing her)
+</DIRECTION>
+	<DIALOGUE>
+	Only don't try putting words in my mouth.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+And leaves her with that!
+</DIRECTION>
+<DIRECTION>
+INT. corridor outside Spocks quarters
+</DIRECTION>
+<DIRECTION>
+Lt. Valeris approaches, this time she's smart enough to knock.
+</DIRECTION>
+<Spocks_voice>
+	<DIALOGUE>
+	Enter.
+	</DIALOGUE>
+</Spocks_voice>
+<DIRECTION>
+INT. Spocks quarters
+</DIRECTION>
+<DIRECTION>
+In contrast with his spartan personality, the room is a voluptuous incense-laden lair, filled with curtains and smoke. Spock lights a votive candle, surveys her. He is out of uniform.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	You have done will, Lieutenant. As your sponsor at the Academy, I have followed your career with... great satisfaction. And, as a Vulcan...
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	Sir, I speak to you as a kindred intellect. Do you not recognize that a turning point has been reached in the affairs of the Federation?
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	I am not certain such speculations are included among your duties, Lieutenant.
+	</DIALOGUE>
+</Spock>
+<Voice>
+<DIRECTION>
+(Filtered)
+</DIRECTION>
+	<DIALOGUE>
+	Klingon battlecruiser off the port bow. All hands on deck. Repeat.....
+	</DIALOGUE>
+</Voice>
+<DIRECTION>
+She's startled.
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(Off her look)
+</DIRECTION>
+	<DIALOGUE>
+	In time you may come to view so-called turning points with....skepticism.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+He starts to get into uniform.
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You must have faith.
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	Faith....?
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	That the universe will unfold as it should.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+The cruise is proceeding evenly as Kirk arives out of one turbo-lift. Spock and the Lieutenant emerge from another.
+</DIRECTION>
+<Voice>
+	<DIALOGUE>
+	Captain on the bridge.
+	</DIALOGUE>
+</Voice>
+<Chekov>
+	<DIALOGUE>
+	Captain, shall we raise our shields?
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+Spock looks at Kirk: "Trust me". Kirk scowls at him and stares at the viewscreen. They all follow his gaze.
+</DIRECTION>
+<DIRECTION>
+The main viewscreen
+</DIRECTION>
+<DIRECTION>
+A Klingon battlecruiser. Huge.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(Finally)
+</DIRECTION>
+	<DIALOGUE>
+	Never been this close!
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	the Chancellor is undoubtedly awaiting our signal.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Boy, is this hard for Kirk..........Finally:
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Uhura, hailing frequencies. Hard starboard, bring us alongside....
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Hard starboard, Z plus five degrees.
+	</DIALOGUE>
+</Lt_Valeris>
+<Uhura>
+	<DIALOGUE>
+	Channel open, Captain.
+	</DIALOGUE>
+</Uhura>
+<Kirk>
+	<DIALOGUE>
+	This is the Starship Enterprise, Captain James T. Kirk, Commanding.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Gorkon comes up on the main visual display.
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	This is Kronos one. I am Chancellor Gorkon.
+	</DIALOGUE>
+</Gorkon>
+<Kirk>
+	<DIALOGUE>
+	Chancellor. We've been ordered to escort you through Federation space to your meeting on Earth.
+	</DIALOGUE>
+</Kirk>
+<Gorkon>
+	<DIALOGUE>
+	Thank you, Captain.
+	</DIALOGUE>
+</Gorkon>
+<Kirk>
+<DIRECTION>
+(Does his best)
+</DIRECTION>
+	<DIALOGUE>
+	Uh....Would you and your party care to dine this evening aboard the Enterprise with my officers as guests of the United Federation of Planets?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+A few of the crew look around at Kirk.
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	We'd be delighted to accept your gracious invitation.
+	</DIALOGUE>
+</Gorkon>
+<Kirk>
+<DIRECTION>
+(nuts)
+</DIRECTION>
+	<DIALOGUE>
+	We'll make arrangements to have you beamed aboard at 1930 hours.
+	</DIALOGUE>
+</Kirk>
+<Gorkon>
+	<DIALOGUE>
+	I shall look forward to it.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+He disappears. Kirk turns to Spock.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	I hope you're happy.
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Captain....
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Kirk turns to face her.
+</DIRECTION>
+<Lt_Valeris>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	...there is a supply of Romulan ale aboard, it might make the evening pass more......smoothly?
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Kirk smiles, relieved.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Officer thinking, Lieutenant.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+At the communication console Chekov leans over to Uhura.
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	Guess who is coming to dinner?
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Both ships cruise parallel in space.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise transporter room.
+</DIRECTION>
+<DIRECTION>
+Scotty stands by the console. Kirk, Spock, and McCoy stand next to him. They are in dress uniform.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	Maybe if their particles just got a wee bit mixed......
+	</DIALOGUE>
+</Scotty>
+<Kirk>
+	<DIALOGUE>
+	Energize....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The beams reflect on the glass shield as half dozen Klingons, including one woman, start materializing. NB Separate beam-ins for Gorkon, Azetbur, Chang. Gorkon descends first. He is tall, splendidly Barbaric.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Chancellor Gorkon.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The Klingons are lordly, formal, bow, taking in their surroundings. An electronic bosun's whistle pipes them aboard.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Chancellor, may I present Commander Spock, whom I believe you know, Doctor Leonard McCoy, Chief medical officer, Montgomery Scott, chief engineer...
+	</DIALOGUE>
+</Kirk>
+<Gorkon>
+<DIRECTION>
+(To Spock)
+</DIRECTION>
+	<DIALOGUE>
+	Commander, face to face at last.... you have my thanks.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+Spock bows.
+</DIRECTION>
+<Gorkon>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Gentlemen, this is my daughter, Azetbur....my military adviser, Brigadier Kerla....and this is General Chang, My Chief of Staff.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+Chang wears a patch over one eye. He advances on Kirk, with a grim smile, one eyeball to eyeballs.
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	I've always wanted to meet you, Captain Kirk.
+	</DIALOGUE>
+</Chang>
+<Kirk>
+<DIRECTION>
+(Smiles)
+</DIRECTION>
+	<DIALOGUE>
+	I'm not sure how to take that!
+	</DIALOGUE>
+</Kirk>
+<Kerla>
+	<DIALOGUE>
+	Sincere admiration, Kirk.
+	</DIALOGUE>
+</Kerla>
+<Chang>
+<DIRECTION>
+(soft)
+</DIRECTION>
+	<DIALOGUE>
+	As one warrior to another....
+	</DIALOGUE>
+</Chang>
+<Kirk>
+<DIRECTION>
+(ducks this)
+</DIRECTION>
+	<DIALOGUE>
+	Uh, right this way, gentlemen, I thought you might enjoy a brief tour....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The party leaves. As they move past two crewmen....
+</DIRECTION>
+<1st_Crewman>
+	<DIALOGUE>
+	They all look alike.
+	</DIALOGUE>
+</1st_Crewman>
+<2nd_Crewman>
+	<DIALOGUE>
+	What about that smell? You know only the top of the line models can even talk.
+	</DIALOGUE>
+</2nd_Crewman>
+<DIRECTION>
+They turn to find themselves facing an expressionless Lieutenant Valeris.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	You men have work?
+	</DIALOGUE>
+</Lt_Valeris>
+<1st_Crewman>
+	<DIALOGUE>
+	Yes, Sir.
+	</DIALOGUE>
+</1st_Crewman>
+<Lt_Valeris>
+	<DIALOGUE>
+	Then snap to it.
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+INT. R deck corridor
+</DIRECTION>
+<DIRECTION>
+Leaving the Enterprise Science Labs.
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	Your research laboratory is most impressive.....
+	</DIALOGUE>
+</Gorkon>
+<Kirk>
+	<DIALOGUE>
+	Starfleet's been charting and cataloging planetary atmospheres. All vessels are equipped with chemical-analytic sensors....
+	</DIALOGUE>
+</Kirk>
+<Gorkon>
+	<DIALOGUE>
+	This cannot be easy for you, Captain......
+	</DIALOGUE>
+<DIRECTION>
+(off of Kirks look)
+</DIRECTION>
+<I_would_feel_awkward>
+	<DIALOGUE>
+	if I had to give you a tour of our vessel.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+The man's courtesy makes Kirk feel guilty....
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Would you care to go topside?
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Very much.
+	</DIALOGUE>
+</Chang>
+<Chekov>
+<DIRECTION>
+(Pulling Kirk aside)
+</DIRECTION>
+	<DIALOGUE>
+	Captain, you're not going to show them the bridge??
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+<DIRECTION>
+(Clenched teeth)
+</DIRECTION>
+	<DIALOGUE>
+	Full diplomatic courtesy, Mr. Chekov....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The party passes Uhura and a younger crewman.
+</DIRECTION>
+<Younger_crewman>
+	<DIALOGUE>
+	Would you want your daughter to marry one?
+	</DIALOGUE>
+</Younger_crewman>
+<DIRECTION>
+The two ships cruise parallel.
+</DIRECTION>
+<DIRECTION>
+INT. officers mess, Enterprise
+</DIRECTION>
+<DIRECTION>
+A window irises open reveling the stars gliding by.
+</DIRECTION>
+<DIRECTION>
+A hand pours deep blue Romulan ale into Gorkon's crystal goblet. Dinner well underway. Principals from both parties are at the table. Stewards keep food and drink in motion.
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	I give you a toast:
+	</DIALOGUE>
+<The_undiscovered_country>
+<DIRECTION>
+(off their looks)
+</DIRECTION>
+	<DIALOGUE>
+	The future.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+All drink Romulan ale, echoing "the undiscovered country". The Klingons eat with their fingers, scorning utensils.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Hamlet, act three, scene one.
+	</DIALOGUE>
+</Spock>
+<Gorkon>
+	<DIALOGUE>
+	You have never experienced Shakespeare until you have read him in the original Klingon.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+Chang turns to Kirk with a malicious twinkle.
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	"To be or not to be, that is the question" which preoccupies our people, Captain Kirk. We need breathing room.....
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	I beg your pardon?
+	</DIALOGUE>
+</Kirk>
+<Kerla>
+	<DIALOGUE>
+	Captain Kirk, I thought Romulan ale was illegal.
+	</DIALOGUE>
+</Kerla>
+<DIRECTION>
+It takes Kirk a moment to regain his composure.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	One of the advantages of being a thousand light years from Federation headquarters.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Silence.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	To you, Chancellor Gorkon; one of the architects of our future.
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+All drink. As Romulan ale flows throughout the scene, tongues get looser. Gorkon watches.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	Perhaps we are looking at something of that future here.
+	</DIALOGUE>
+</Scotty>
+<Azetbur>
+	<DIALOGUE>
+	Commander Spock, mindful of all your work behind the scenes, and despite the cordiality at this mess, I do not sense an acceptance of our people throughout your ship.
+	</DIALOGUE>
+</Azetbur>
+<Spock>
+	<DIALOGUE>
+	They're naturally wary, ma'am. We've been at war a long time.
+	</DIALOGUE>
+</Spock>
+<Uhura>
+	<DIALOGUE>
+	How do both sides overcome engrained prejudice?
+	</DIALOGUE>
+</Uhura>
+<Chekov>
+	<DIALOGUE>
+	Perhaps with a few small steps at a time. Like this one.
+	</DIALOGUE>
+</Chekov>
+<McCoy>
+	<DIALOGUE>
+	And perhaps with a large step or two. Like a peace treaty.
+	</DIALOGUE>
+</McCoy>
+<Chang>
+	<DIALOGUE>
+	Captain Kirk, are you willing to give up Starfleet?
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+Kirk stares
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(Looks at Kirk)
+</DIRECTION>
+	<DIALOGUE>
+	I believe the Captain feels that Starfleet's mission has always been one of peace.
+	</DIALOGUE>
+<Kirk>
+<DIRECTION>
+(Glares)
+</DIRECTION>
+	<DIALOGUE>
+	Far be it from me to dispute my first officer. Starfleet has always......
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Come now, Captain, this dinner is off the record: in space all warriors are cold warriors.
+	</DIALOGUE>
+</Chang>
+<Scotty>
+	<DIALOGUE>
+	We have never tried to.....
+	</DIALOGUE>
+</Scotty>
+<Kerla>
+	<DIALOGUE>
+	You hypocritically presume that your democratic system gives you a moral prerogative to force other cultures to conform to your politics.
+	</DIALOGUE>
+</Kerla>
+<McCoy>
+	<DIALOGUE>
+	That's not true.....!
+	</DIALOGUE>
+</McCoy>
+<Kerla>
+	<DIALOGUE>
+	No?
+	</DIALOGUE>
+</Kerla>
+<DIRECTION>
+Uhura turns to the Klingon next to her - all tact.
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	General, are you fond of Shakespeare?
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+He looks at her, his hands and mouth full of food. Ugh! Chekov pursues.
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	Ve do not impose democracy on others. Ve do believe that every planet has a sovereign claim to human rights.
+	</DIALOGUE>
+</Chekov>
+<Azetbur>
+<DIRECTION>
+(Spits)
+</DIRECTION>
+	<DIALOGUE>
+	"Human rights". Even the name is racist. The Federation is basically a "Homo Sapiens" only club.....
+	</DIALOGUE>
+</Azetbur>
+<DIRECTION>
+Spock reacts to this. Chang is amused.
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	Present company excepted, to be sure...
+	</DIALOGUE>
+</Chang>
+<Uhura>
+	<DIALOGUE>
+	Well, I suppose we're not perfect.
+	</DIALOGUE>
+<Scotty>
+<DIRECTION>
+(rising)
+</DIRECTION>
+	<DIALOGUE>
+	Don't let them put words in your mouth! I haven't served 30 years in the engine room of a Starship to be accused of gunboat diplomacy!
+	</DIALOGUE>
+</Uhura>
+<Kerla>
+	<DIALOGUE>
+	In any case, we know where this is leading, the annihilation of our culture. Klingons will replace those on the lowest rung of the Federation employment ladder, taking menial jobs and performing them for lower pay......
+	</DIALOGUE>
+</Kerla>
+<Chekov>
+	<DIALOGUE>
+	That's economics, not racism!
+	</DIALOGUE>
+</Chekov>
+<Uhura>
+	<DIALOGUE>
+	But you have to admit it adds up to the same thing.
+	</DIALOGUE>
+</Uhura>
+<McCoy>
+	<DIALOGUE>
+	Don't be naive, Commander!
+	</DIALOGUE>
+</McCoy>
+<Uhura>
+	<DIALOGUE>
+	Who are you calling "naive"?
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+Kirk stares sullenly down the table throughout this.
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	We're explorers, not diplomats!
+	</DIALOGUE>
+</Chekov>
+<McCoy>
+	<DIALOGUE>
+	Starfleet's killed an awful lot of natural phenomena in the name of "exploration"......
+	</DIALOGUE>
+</McCoy>
+<Scotty>
+	<DIALOGUE>
+	We follow orders......
+	</DIALOGUE>
+</Scotty>
+<Chekov>
+	<DIALOGUE>
+	Since when has THAT been an excuse? Diplomacy must resolve these.....
+	</DIALOGUE>
+</Chekov>
+<Scotty>
+	<DIALOGUE>
+	Right! Leave it to the politicians to muck it up and leave us defenseless....!
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+A cough interrupts the fight. All eyes on Gorkon. The Klingons conceal their amusement.
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	Well. I see we have a long way to go.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+Reactions from Kirk and his officers.
+</DIRECTION>
+<DIRECTION>
+INT. Transporter room, Enterprise Both parties are gathered, saying goodbyes.
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	Thank you, Captain Kirk. The evening has been most....edifying.
+	</DIALOGUE>
+</Gorkon>
+<Kirk>
+<DIRECTION>
+(wooden)
+</DIRECTION>
+	<DIALOGUE>
+	We must do this again soon.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Gorkon stares at him, smiles slightly.
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	You don't trust me.
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+Kirk can't look at him.
+</DIRECTION>
+<Gorkon>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I don't blame you. If there is to be a "Brave new world", we old people will have the hardest time living it it.
+	</DIALOGUE>
+</Gorkon>
+<Gorkon>
+<DIRECTION>
+(Turns to Spock)
+</DIRECTION>
+	<DIALOGUE>
+	Commander Spock.
+	</DIALOGUE>
+</Gorkon>
+<Spock>
+	<DIALOGUE>
+	Chancellor. A pleasure to meet you, Ma'am
+	</DIALOGUE>
+</Spock>
+<Azetbur>
+	<DIALOGUE>
+	Captain, Commander.....
+	</DIALOGUE>
+</Azetbur>
+<Kirk>
+	<DIALOGUE>
+	General Chang, a pleasure.....
+	</DIALOGUE>
+</Kirk>
+<Chang>
+<DIRECTION>
+(Grins)
+</DIRECTION>
+	<DIALOGUE>
+	"Parting is such sweet sorrow, shall we say goodnight till it be morrow"?
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+Kirk is ready to slug him, but turns his fist into a salute. The Klingons step on the trasporter platform. Chang speaks into his communicator, nods to Kirk.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Energize.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+They disappear. The Bosun's whistle.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	Thank God.
+	</DIALOGUE>
+</Scotty>
+<Chekov>
+	<DIALOGUE>
+	Did you see the way they ate? Terrible table manners.
+	</DIALOGUE>
+</Chekov>
+<Spock>
+	<DIALOGUE>
+	I don't believe our own conduct will distinguish us in the annals of diplomacy.......
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	I'm going to sleep this off. Let me know if there's some other way we can screw up tonight.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He starts out, others follow....
+</DIRECTION>
+<DIRECTION>
+INT. Kirks quarters
+</DIRECTION>
+<DIRECTION>
+He comes in slightly drunk and pushes the button on his log. Lies on his bunk and speaks. The ships bells give 0100.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Captains Log. Stardate 8679.15. The Enterprise hosted Chancellor Gorkon and company for dinner last night. Our manners were not exactly Emily Post. Note to the galley: Romulan ale no longer to be seved at diplomatic functions.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He leans back, sighs, thinking -
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	But it wasn't the ale. That was just the excuse we needed to say all the things there were really on our minds.....
+	</DIALOGUE>
+</Kirk>
+<Spocks_voice>
+<DIRECTION>
+(filtered)
+</DIRECTION>
+	<DIALOGUE>
+	Captain Kirk, you are wanted on the bridge. Captain Kirk......
+	</DIALOGUE>
+</Spocks_voice>
+<DIRECTION>
+Kirk reacts, tries to shake himself awake.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise bridge
+</DIRECTION>
+<DIRECTION>
+Kirk enters. Glances at the main visual display: the battlecruiser still travels silently alongside.
+</DIRECTION>
+<DIRECTION>
+Vulcan Lt. still has the conn. Spock is at his post.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Captain.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+<DIRECTION>
+(rubs his eyes)
+</DIRECTION>
+	<DIALOGUE>
+	What is it?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	I am uncertain
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Spock, I'm really tired....
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	We are reading an enormous amount of Neutron radiation.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+<DIRECTION>
+(tries to focus)
+</DIRECTION>
+	<DIALOGUE>
+	Where?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	Curiously, it appears to emanate from us.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	From Enterprise?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock remains silent. Kirk is distrubed, paces, watching the displays.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Lieutenant, you know anything about a Neutron energy surge?
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Sir?
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Mr. Chekov, anything unusual?
+	</DIALOGUE>
+</Kirk>
+<Chekov>
+	<DIALOGUE>
+	Just the size of my head....
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	I know what you mean.....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+A photon torpedo suddenly streaks from the botton of the screen and hits the hull of the Presidents flagship!
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	What the......
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	We've fired on the Chancellor's ship.
+	</DIALOGUE>
+</Spock>
+<Chekov>
+	<DIALOGUE>
+	Torpedo room.....
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	Uhura, monitor!
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Direct hit!
+	</DIALOGUE>
+</Lt_Valeris>
+<Uhura>
+	<DIALOGUE>
+	Confirmed, Captain!
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+A second photon torpedo shoots out from the botton of the display screen towards the Presidents ship!
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(frantic)
+</DIRECTION>
+	<DIALOGUE>
+	Who's doing that???
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The Vulcan Lt. hits panel controls, trying to find out.
+</DIRECTION>
+<DIRECTION>
+INT. Gorkons stateroom, Klingon flagship
+</DIRECTION>
+<DIRECTION>
+Gorkon, several advisers, and soldiers were seated, but the impact has thrown them about. They speak subtitled Klingon.
+</DIRECTION>
+<DIRECTION>
+The entire flagship is drenched in amber emergency light.
+</DIRECTION>
+<Adviser>
+	<DIALOGUE>
+	We're hit...!
+	</DIALOGUE>
+</Adviser>
+<DIRECTION>
+Another blast. They start floating helplessly in the air! Everything mobile rises, weapons float out of reach...
+</DIRECTION>
+<Soldier>
+	<DIALOGUE>
+	Gravity generator!
+	</DIALOGUE>
+<DIRECTION>
+INT. Transporter room, Flagship
+</DIRECTION>
+<DIRECTION>
+close on
+</DIRECTION>
+<DIRECTION>
+Two sets of heavy gravity boots, as the materialize. the legs inside them wear Starfleet uniforms, and carry phasers at their sides. They shoot the Klingon transporter officer. They stomp heavily throught the alarms and chaos, firing at the helpless, floating crew...cries of the wounded. Weapons ploat out of their holsters just out of reach in the amber light.....
+</DIRECTION>
+<DIRECTION>
+Klingon blood floats in the air.
+</DIRECTION>
+<DIRECTION>
+INT. Flagship corridor
+</DIRECTION>
+<DIRECTION>
+Where Klingon crew are floating helplessly. The gravity boots shoot anything in their way, walk on walls, etc. as they hurry along to:
+</DIRECTION>
+<DIRECTION>
+INT. Gorkons stateroom, Flagship
+</DIRECTION>
+<DIRECTION>
+Where they blast a guard at the door, severing his arm and enter. The Klingons have weapons, but are floating
+</DIRECTION>
+<DIRECTION>
+and unable to aim. They are quickly shot as the two hit men make their way toward Gorkon.
+</DIRECTION>
+<DIRECTION>
+Blood now floats about as well as debtris in the crackling emergency lighting. A good deal of hissing steam......
+</DIRECTION>
+<DIRECTION>
+Chancellor Gorkon is shot. The hit men turn and exit quickly. Linger on a scene of weightless carnage and assassination.
+</DIRECTION>
+<DIRECTION>
+INT. Flagship corridor - night
+</DIRECTION>
+<DIRECTION>
+The hit men hurry back the way they came in their awkward magnetic boots. Bodies and blood floating around them.
+</DIRECTION>
+<DIRECTION>
+INT. Transporter room, Flagship
+</DIRECTION>
+<DIRECTION>
+The heavy boots step on the platform and de-materialize. (One foot treads on floating Klingon blood)
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+A snowy picture on the visual display, then Chang comes on (still in amber light)....
+</DIRECTION>
+<Chang>
+<DIRECTION>
+(He's screaming in Klingon,
+</DIRECTION>
+	<DIALOGUE>
+	reverting to his native
+	</DIALOGUE>
+<DIRECTION>
+language under stress.)
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	He says we've fired on them in a blatant act of war.
+	</DIALOGUE>
+</Uhura>
+<Kirk>
+	<DIALOGUE>
+	We haven't fired....
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	According to the data bank, we have.... ....Twice!
+	</DIALOGUE>
+<Lt_Valeris>
+	<DIALOGUE>
+	Captain, they're coming about!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Main viewscreen
+</DIRECTION>
+<DIRECTION>
+One battlecruiser flagship now heading for Enterprise.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	They're preparing to fire.
+	</DIALOGUE>
+</Spock>
+<Chekov>
+	<DIALOGUE>
+	Shields up, Captain?
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+Kirk hasn't moved. He's staring at the display, thinking.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Captain, our shields!
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Uhura, signal our surrender.
+	</DIALOGUE>
+</Kirk>
+<Uhura>
+	<DIALOGUE>
+	Captain....!
+	</DIALOGUE>
+</Uhura>
+<Kirk>
+	<DIALOGUE>
+	WE SURRENDER!
+	</DIALOGUE>
+</Kirk>
+<Uhura>
+	<DIALOGUE>
+	This is Enterprise, we surrender. Repeat, Enterprise surrenders!
+	</DIALOGUE>
+</Uhura>
+<Chekov>
+	<DIALOGUE>
+	Captain, if they fire at us with our shields down........!
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	Torpedo bay! Did we fire those torpedoes?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+INT. Enterprise torpedo bay
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	Negative, Captain. According to inventory, we're still fully loaded.
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+INT. Enterprise bride
+</DIRECTION>
+<DIRECTION>
+Angle on Spock reacting. How can this be? He checks data banks again.
+</DIRECTION>
+<DIRECTION>
+CU data banks: they confirm, two photon torpedoes fired.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Stand down your weapons.
+	</DIALOGUE>
+</Kirk>
+<Scotty>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	Captain, if.....
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+Another angle
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	STAND DOWN, Mr. Scott. All stop. That's an order!
+	</DIALOGUE>
+<Scotty>
+	<DIALOGUE>
+	Aye, Sir!
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+McCoy rushes in, carrying his stuff.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	What the hell's going on?
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	I wish I knew. Uhura?
+	</DIALOGUE>
+</Kirk>
+<Uhura>
+	<DIALOGUE>
+	It's pretty chaotic over there. There's been some weapons fire and a lot of shouting....
+	</DIALOGUE>
+</Uhura>
+<Kirk>
+	<DIALOGUE>
+	I'm going aboard. Spock, you have the conn.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He heads for the turbolift. Spock blocks him.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	I am responsible for involving you in this. I will go.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+<DIRECTION>
+(Bitter)
+</DIRECTION>
+	<DIALOGUE>
+	I'M going! You're going to be responsible for getting me out of this! Meanwhile we're not going to be the instigators of a full scale war on the eve of universal peace.
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	Perhaps you're right.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+And Spock uncharacteristically pats him on the back
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Good luck, Captain.
+	</DIALOGUE>
+</Spock>
+<McCoy>
+	<DIALOGUE>
+	I'm going too. They may need a doctor.
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Uhura, tell them we're coming. And tell them we're unarmed.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+They hurry out.
+</DIRECTION>
+<DIRECTION>
+INT. Gorkons stateroom, Flagship
+</DIRECTION>
+<DIRECTION>
+Chang and his assistants are trying to sort things out without gravity. Chang shouts efficient orders in Klingon as he finds and tries to help Gorkon.....
+</DIRECTION>
+<DIRECTION>
+Chang keeps himself upright by grabbing a handhold, but the stricken are still floating...
+</DIRECTION>
+<DIRECTION>
+A few more orders from Chang, then the lights flicker, then all the bodies and blood slam to the ground as the gravitational source is restored. Lighting is normal.
+</DIRECTION>
+<DIRECTION>
+INT. Flagship transporter room
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy materialize. They are quickly surrounded by armed soldiers. Kirk puts his hands out to indicate they are not carrying weapons. They are searched as Kerla enters.
+</DIRECTION>
+<Kerla>
+	<DIALOGUE>
+	Have you lost your mind?
+	</DIALOGUE>
+</Kerla>
+<Kirk>
+	<DIALOGUE>
+	I give you my word, I don't understand what has happened.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	We're here to help......
+	</DIALOGUE>
+</McCoy>
+<Kerla>
+<DIRECTION>
+(hesitates, furious)
+</DIRECTION>
+	<DIALOGUE>
+	Follow me.
+	</DIALOGUE>
+</Kerla>
+<DIRECTION>
+He leads them along the corridor
+</DIRECTION>
+<DIRECTION>
+INT. flagship corridor
+</DIRECTION>
+<DIRECTION>
+same path, a scene of destruction, which the hit men took, right into
+</DIRECTION>
+<DIRECTION>
+INT. Gorkons stateroom, Flagship
+</DIRECTION>
+<DIRECTION>
+where dead and wounded are being separated.
+</DIRECTION>
+<DIRECTION>
+Kerla hurries over to Gorkon, askew on the rug, blood running everwhere. Azetbur is holding him, now bloody herself (she wasn't in the room during the assignation)
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Chancellor Gorkon!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+He goes to him immediately. Chang rises from next to Gorkon.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	My God, what happened here?
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	You feign ignorance?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	WHAT HAPPENED?
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	You crippled our gravitational field with a direct torpedo hit, and two Starfleet crewmen beamed aboard in magnetic boots and did this! We have witnesses!
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+Kirk has no response, is shocked.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Jim!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+McCoy is being held back from Gorkon by two Klingons.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	He's a DOCTOR!
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	How can I trust....
+	</DIALOGUE>
+</Chang>
+<McCoy>
+	<DIALOGUE>
+	Are you carrying a surgeon?
+	</DIALOGUE>
+</McCoy>
+<Chang>
+	<DIALOGUE>
+	We were, until you fired your torpedoes!
+	</DIALOGUE>
+</Chang>
+<McCoy>
+	<DIALOGUE>
+	Then let me help!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Chang hesitates, then signals. McCoy is released.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	I need some light. Can we get him onto the table?
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Klingons lift Gorkon onto his table, someone produces light. McCoy whips out his medical scanner. His hands are shaking.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(To Kirk)
+</DIRECTION>
+	<DIALOGUE>
+	Hold him.
+	</DIALOGUE>
+<DIRECTION>
+Kirk grabs Gorkons arms.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Sweet Jesus....! He's lost a lot of whatever this stuff is....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Can you.....?
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Jim, I don't even know his anatomy
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+McCoy furiously goes over Gorkon with his anabolic photoplaser. Shakes his head. Gorkon clutches Kirk.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	The wounds aren't closing....
+	</DIALOGUE>
+</McCoy>
+<Kerla>
+	<DIALOGUE>
+	You're killing him!
+	</DIALOGUE>
+</Kerla>
+<DIRECTION>
+Kirk grabs Chang before he can get to McCoy
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	NO!
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Chancellor Gorkon, can you hear me? Chancellor.......?
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+No response. McCoy rips open Gorkon's collar....
+</DIRECTION>
+<Azetbur>
+	<DIALOGUE>
+	Father.....!
+	</DIALOGUE>
+</Azetbur>
+<Kirk>
+	<DIALOGUE>
+	Bones.....?
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	He's gone into some kind of arrest.....COME ON, DAMMIT!!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+He tries a medical tricorder.
+</DIRECTION>
+<DIRECTION>
+Frantically, he whumps Gorkon's chest, as Kirk, et al, look as Gorkon feebly opens his eyes, sees kirk....
+</DIRECTION>
+<Gorkon>
+	<DIALOGUE>
+	Are you alright?
+	</DIALOGUE>
+</Gorkon>
+<DIRECTION>
+Gorkon freezes, McCoy looks at his scanner. It burns bright red. Gorkon is dead. Kirk is in shock, he can't believe it.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(Stunned)
+</DIRECTION>
+	<DIALOGUE>
+	I've lost him......
+	</DIALOGUE>
+<DIRECTION>
+Azetbur sits holding Gorkon, dry-eyed. Kirk pulls at McCoy
+</DIRECTION>
+<Chang>
+<DIRECTION>
+(grim triumph)
+</DIRECTION>
+	<DIALOGUE>
+	Under artickle 184 of Interstellar Law, I place you both under arrest. You are charged with assassinating the Chancellor of the High Council.
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	He just tried to save him!!!!
+	</DIALOGUE>
+</Kirk>
+<Chang>
+<DIRECTION>
+(Klingon)
+</DIRECTION>
+	<DIALOGUE>
+	Take them away.
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+They are handcuffed. Both are in shock.
+</DIRECTION>
+<DIRECTION>
+INT. bridge, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+Uhura is listening carefully. Scotty has joined Spock and the others on the bridge.
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	They've been arrested.
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+All eyes go to Spock. We can guess how he feels.
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	Mr. Spock, we've got to do something!
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+The others crowd in, waiting for orders. Depending on him.
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(finally)
+</DIRECTION>
+	<DIALOGUE>
+	I assume command of this ship as of
+	</DIALOGUE>
+<DIRECTION>
+(he checks)
+</DIRECTION>
+	<DIALOGUE>
+	0130 hours. Uhura, send to Starfleet HQ. Explain precisely what has taken place, and request instructions.
+	</DIALOGUE>
+</Spock>
+<Uhura>
+	<DIALOGUE>
+	Yes, Sir.
+	</DIALOGUE>
+</Uhura>
+<Lt_Valeris>
+	<DIALOGUE>
+	But we can't allow them to be taken back to Kronos as prisoners!
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	What do you suggest, Lieutenant? Opening fire won't retrieve the Captain, and an armed engagement was precisely what he wished to avoid.
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	At least we must keep track of where they are taken, Sir. I....
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	I've already addressed that question, Mr. Scott. We'll be able to follow the Captain's movements.
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	How did you....?
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	In the meantime, we must endeavor to piece together what happened here tonight. According to our data banks, this ship fired those torpedoes.
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	NO WAY!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	Mr. Scott, you forget yourself. Please accompany me.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+He starts out.
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	And if we can't piece together what happened? What then, Sir?
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+Spock turns unhappily.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Then, Mr. Chekov, it resides in the hands of the diplomats.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+INT. Office of the Federation President - Day
+</DIRECTION>
+<DIRECTION>
+The Federation President and the Klingon Ambassador. With them is the Vulcan Ambassador, Sarek, Spock's father, and Nanclus, the Romulan Ambassador.
+</DIRECTION>
+<Klingon_Ambassador>
+	<DIALOGUE>
+	The Chancellor of the High Council is dead, the result of an unprovoked attack while he travelled to see YOU under a flag of truce on a mission of peace. Captain Kirk was legally arrested for the crime. May I remind you that he, and Doctor McCoy boarded Kronos One of their own free will. None of these facts are in dispute, Mr. President. And as a matter of these facts, the Klingon people have a right to justice. What I am asking now is, does the Federation plan to stand in the way of our justice? Or do you consider your- self and all Federation personnel above the law?
+	</DIALOGUE>
+</Klingon_Ambassador>
+<DIRECTION>
+A mumbling is heard thoughout the court at this line.
+</DIRECTION>
+<Klingon_ambassador>
+	<DIALOGUE>
+	I am waiting for your answer, Mr. President!
+	</DIALOGUE>
+</Klingon_ambassador>
+<DIRECTION>
+Long pause
+</DIRECTION>
+<President>
+	<DIALOGUE>
+	This President is not above the law!
+	</DIALOGUE>
+</President>
+<DIRECTION>
+The Klingon Ambassador bows and takes his leave. The President is left with the two Ambassadors
+</DIRECTION>
+<Sec_y_voice>
+	<DIALOGUE>
+	Mr. President, Starfleet Command is here from San Francisco.
+	</DIALOGUE>
+</Sec_y_voice>
+<President>
+	<DIALOGUE>
+	Send them in.
+	</DIALOGUE>
+</President>
+<DIRECTION>
+Three officers from Starfleet, including Admiral Donald, and the Commander in Chief, enter from a different door.
+</DIRECTION>
+<Admiral_Donald>
+	<DIALOGUE>
+	Mr. President.
+	</DIALOGUE>
+</Admiral_Donald>
+<President>
+	<DIALOGUE>
+	Admiral Donald...Bill....
+	</DIALOGUE>
+</President>
+<Admiral_Donald>
+	<DIALOGUE>
+	Mr. President, we cannot allow Federation citizens to be abducted!
+	</DIALOGUE>
+</Admiral_Donald>
+<President>
+	<DIALOGUE>
+	At present, I'm awaiting a full report from Enterprise. Pending that I am constrained to observe Interstellar Law.
+	</DIALOGUE>
+</President>
+<DIRECTION>
+A stand off. Donald nods to another officer.
+</DIRECTION>
+<Officer>
+	<DIALOGUE>
+	We've prepared Operation Retrieve based on the rising danger of terrorism between the Klingon Empire and the Federation. Sir, we can go in and rescue the hostages and be out in 24 hours with an acceptable rate of loss in manpower and equipment. We have the technology to......
+	</DIALOGUE>
+</Officer>
+<President>
+	<DIALOGUE>
+	Suppose you precipitate a full scale war?
+	</DIALOGUE>
+</President>
+<Officer>
+	<DIALOGUE>
+	Then, quite frankly, Mr. President, we can clean their chronometers.
+	</DIALOGUE>
+</Officer>
+<Ambassador_Nanclus>
+	<DIALOGUE>
+	Mr. President, they are vulnerable. There'll never be a better time....
+	</DIALOGUE>
+</Ambassador_Nanclus>
+<DIRECTION>
+Pause as the president considers.
+</DIRECTION>
+<President>
+	<DIALOGUE>
+	I'd prefer not to be the President to push the button if I can avoid it, not for two hostages.
+	</DIALOGUE>
+</President>
+<Admiral_Donald>
+	<DIALOGUE>
+	The longer we wait, the less accessible the hostages will be, Sir!
+	</DIALOGUE>
+</Admiral_Donald>
+<President>
+	<DIALOGUE>
+	I'll bear that in mind, Admiral. I think that's all......Sir!
+	</DIALOGUE>
+</President>
+<DIRECTION>
+The president looks at Admiral Donald on this line
+</DIRECTION>
+<Commander_in_Chief>
+	<DIALOGUE>
+	Those men have literally saved this planet, and you know it!
+	</DIALOGUE>
+</Commander_in_Chief>
+<President>
+	<DIALOGUE>
+	I do know it. And now I'm afraid they're going to save it again. By standing trial.
+	</DIALOGUE>
+</President>
+<DIRECTION>
+They're dismissed. The President puts his head in his hands.....finally looks up at Sarek.
+</DIRECTION>
+<President>
+	<DIALOGUE>
+	Do you know I agree with everything they said?
+	</DIALOGUE>
+</President>
+<Ambassador_Sarek>
+	<DIALOGUE>
+	I'm sorry, Mr. President. And I know my son must feel equally responsible. It was at my request that he persuaded Kirk to undertake this mission.
+	</DIALOGUE>
+</Ambassador_Sarek>
+<DIRECTION>
+The President looks at him.
+</DIRECTION>
+<President>
+	<DIALOGUE>
+	I want the crew of the Enterprise in my office tomorrow morning.
+	</DIALOGUE>
+</President>
+<Ambassador_Sarek>
+	<DIALOGUE>
+	They're still in space, Mr. President, adjacent to the Neutral Zone.
+	</DIALOGUE>
+</Ambassador_Sarek>
+<President>
+	<DIALOGUE>
+	Then tell your son to get the hell back here before the end of the week.
+	</DIALOGUE>
+</President>
+<DIRECTION>
+He swallows some pills.
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+Uhura's communications panel. Chekov stands over her shoulder. In Uhura's earpiece we can hear filtered screaming! She can hardly stand the volume.
+</DIRECTION>
+<Uhura>
+<DIRECTION>
+(understates)
+</DIRECTION>
+	<DIALOGUE>
+	We are to report back at once.
+	</DIALOGUE>
+</Uhura>
+<Chekov>
+	<DIALOGUE>
+	Ve cannot abandon Captain Kirk and Doctor McCoy!
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+He looks at the rest of the crew. The Vulcan Lt. wanders over.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Trouble?
+	</DIALOGUE>
+</Lt_Valeris>
+<Uhura>
+	<DIALOGUE>
+	We've been ordered to....
+	</DIALOGUE>
+</Uhura>
+<Lt_Valeris>
+	<DIALOGUE>
+	Four hundred years ago, on the Planet Earth, workers whose lives were threatened by automation, flung their wooden shoes, called Sabots, into the machines to stop them. Hence the word Sabo-tage.
+	</DIALOGUE>
+</Lt_Valeris>
+<Uhura>
+	<DIALOGUE>
+	We are experiencing a technical malfunction. All backup systems inoperative.
+	</DIALOGUE>
+</Uhura>
+<Chekov>
+	<DIALOGUE>
+	Excellent. I mean too bad.
+	</DIALOGUE>
+</Chekov>
+<Lt_Valeris>
+	<DIALOGUE>
+	I will inform Captain Spock.
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Office of the Federation President - Day
+</DIRECTION>
+<DIRECTION>
+The President is meeting with six civilian advisers.
+</DIRECTION>
+<Munitions_Businessman>
+	<DIALOGUE>
+	You have our total support, Mr. President. My factories can gear up to full weapons production in less that a week.
+	</DIALOGUE>
+</Munitions_Businessman>
+<President>
+	<DIALOGUE>
+	Thank you, Henry. Right now, we're pursuing diplomatic channels....
+	</DIALOGUE>
+</President>
+<Munitions_Businessman>
+	<DIALOGUE>
+	Of course. No one wants a war.....
+	</DIALOGUE>
+</Munitions_Businessman>
+<Ambassador_Sarek>
+	<DIALOGUE>
+	If I may, Mr. President. the important thing is too keep the peace process alive. If the new Chancellor is so disposed, perhaps we can attach a rider, get some assurance that these men won't be executed. Then, in a year.....
+	</DIALOGUE>
+</Ambassador_Sarek>
+<Sec_y_Voice>
+	<DIALOGUE>
+	Mr. President, you have the new Chancellor of the High Council calling.
+	</DIALOGUE>
+</Sec_y_Voice>
+<DIRECTION>
+They all swing to look at the far wall, which
+</DIRECTION>
+<DIRECTION>
+lights up as a visual display. After a snowy beginning, Azetbur appears.
+</DIRECTION>
+<DIRECTION>
+INT. Azetbur's office
+</DIRECTION>
+<Azetbur>
+	<DIALOGUE>
+	Mr. President, I've been named Chancellor of the High Council in my father's place.
+	</DIALOGUE>
+</Azetbur>
+<DIRECTION>
+INT. office of the president
+</DIRECTION>
+<DIRECTION>
+Reactions in the room.
+</DIRECTION>
+<President>
+	<DIALOGUE>
+	Madam Chancellor, you have my sincerest condolences on your recent loss. I want to assure you that this shamefull deed......
+	</DIALOGUE>
+</President>
+<Azetbur>
+	<DIALOGUE>
+	Mr. President, let us come to the point. You want the conference to go forward and so said my father. I will attend in one week, after I've had the opportunity to master the details of his position, on one condition: we will not extradite the prisoners, and you will not attempt to rescue them in a military operation. We would consider any such attempt, an act of war!
+	</DIALOGUE>
+</Azetbur>
+<President>
+	<DIALOGUE>
+	We look forward to meeting with you next week, Madam Cahncellor. I hope you will be our guest here on .....
+	</DIALOGUE>
+</President>
+<Azetbur>
+	<DIALOGUE>
+	After recent events, you will understand I prefer a neutral site. And in the interests of security, let us keep the location secret.
+	</DIALOGUE>
+</Azetbur>
+<President>
+	<DIALOGUE>
+	As you wish, Madam Chancellor.
+	</DIALOGUE>
+</President>
+<DIRECTION>
+She clicks off. The President and his advisers are a little speechless at her strength and brusqueness. More pills.
+</DIRECTION>
+<DIRECTION>
+INT. Azetbur's office - day
+</DIRECTION>
+<DIRECTION>
+She's gotten off the compic. We are now in Klingon.
+</DIRECTION>
+<Kerla>
+	<DIALOGUE>
+	Attack them now, Madam Chancellor, while we still can....!
+	</DIALOGUE>
+</Kerla>
+<DIRECTION>
+He unfurls battle plans......
+</DIRECTION>
+<First_General>
+	<DIALOGUE>
+	Attack, or be slaves in their world!
+	</DIALOGUE>
+</First_General>
+<Second_General>
+	<DIALOGUE>
+	We can take whole by force what they propose to divide.....!
+	</DIALOGUE>
+</Second_General>
+<Azetbur>
+<DIRECTION>
+(weary)
+</DIRECTION>
+	<DIALOGUE>
+	You don't seem to grasp our situation, General. War is now obsolete. As we are in danger of becoming.
+	</DIALOGUE>
+</Azetbur>
+<Kerla>
+	<DIALOGUE>
+	Better to die on our feet, than living on our knees...!
+	</DIALOGUE>
+</Kerla>
+<Azetbur>
+	<DIALOGUE>
+	That wasn't what my father wanted!
+	</DIALOGUE>
+</Azetbur>
+<Chang>
+<DIRECTION>
+(bitter)
+</DIRECTION>
+	<DIALOGUE>
+	He was killed for what he wanted!
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+That sinks in. Azetbur hardens. Faces Chang.
+</DIRECTION>
+<Azetbur>
+	<DIALOGUE>
+	Kirk must have a fair trial.
+	</DIALOGUE>
+</Azetbur>
+<Chang>
+	<DIALOGUE>
+	Of course.
+	</DIALOGUE>
+</Chang>
+<Azetbur>
+<DIRECTION>
+(Stony)
+</DIRECTION>
+	<DIALOGUE>
+	But I want a conviction. You will represent the State, General Chang.
+	</DIALOGUE>
+</Azetbur>
+<Chang>
+	<DIALOGUE>
+	With pleasure, Madam Chancellor.
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+INT. Torpedo bay, U.S.S. Enterprise Spock and Scotty hover over the torpedo console, looking at numbers and lights. Spock thinks hard. Eight bells sound. It is perfectly clear: according to the Inventory program, all torpedoes are still aboard!!!
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	It's as I said, Mr. Spock, Inventory still registers every torpedo!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+<DIRECTION>
+(musing)
+</DIRECTION>
+	<DIALOGUE>
+	Yet the data banks insist we fired, twice. one computer is lying.
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	A computer canna lie, Sir.
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	Then we must check the torpedoes, Visually!
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	That could take hours!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	Nevertheless.
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	And if they're all in place?
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	Then someone forced a data bank computer entry.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+The Vulcan Lt. descends into the bay.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	They've named Gorkon's daughter Chancellor, it was on the news.
+	</DIALOGUE>
+</Lt_Valeris>
+<Scotty>
+	<DIALOGUE>
+	I'll bet that Klingon bitch killed her father.....
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	Her own father....?
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	It is an old story, Sir.
+	</DIALOGUE>
+</Lt_Valeris>
+<Scotty>
+	<DIALOGUE>
+	They don't place the same value on life that we do, Mr. Spock. You know that, take my word! She didn't shed one bloody tear...!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	That's hardly conclusive, Mr. Scott, as Klingons have no tear ducts.
+	</DIALOGUE>
+<DIRECTION>
+Before Scotty can react.
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Any reply from Starfleet to our dispatch, Lieutenant?
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	Not as yet, Sir.
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+<DIRECTION>
+(Looks at her keenly)
+</DIRECTION>
+	<DIALOGUE>
+	Curious.
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	Commander Uhura has been experiencing technical difficulties, Sir.
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	Very well. For twenty-four hours we'll agree that this conversation did not take place!
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	A lie?
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	An omission. After that.....
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	Twenty-four hours from now, we won't have a clue where the Captain is.
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	I know precisely where he'll be!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Scotty and Lieutenant Valeris react.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	You do? Where?
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+Tight on Kirk's eyes. Jump back to reveal
+</DIRECTION>
+<DIRECTION>
+The Klingon empire in all its barbaric splendor
+</DIRECTION>
+<DIRECTION>
+A cavernous stadium arranged in circlular tiers cut from jagged stone. A place from a bygone age, of savage and awesome beauth. Something between a circus and a cathedral.....
+</DIRECTION>
+<DIRECTION>
+.....turned for the occasion into a gigantic courtroom with thousands of spectators, screaming: "Kirk! Kirk! Kirk!"
+</DIRECTION>
+<DIRECTION>
+Many in the audience hold spears with lighted heads.
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy in the dock, stand in the bottom at the very center of the circle, surrounded by a Klingon audience in rising tiers, while hooded Klingon judges sit invisible in a darkened dugout. (One judge is an albino.)
+</DIRECTION>
+<DIRECTION>
+Chang wears the prosecutor's mantle.
+</DIRECTION>
+<DIRECTION>
+In the audience is President Azetbur and her advisers. The trial is being broadcast and special cameras abound.
+</DIRECTION>
+<DIRECTION>
+Near Kirk and McCoy sits their young, eager Klingon defense attorney. Kirk keeps his cool thoughout, though McCoy tends to steam.
+</DIRECTION>
+<DIRECTION>
+The rules are different. Attorneys are empowered to ask their witnesses a question at any time, and to mix this up with statements and charges.
+</DIRECTION>
+<DIRECTION>
+The proceedings begin in subtitled Klingon. Kirk and McCoy wear headphones. When they speak, a translator
+</DIRECTION>
+<DIRECTION>
+converts to Klingon.
+</DIRECTION>
+<DIRECTION>
+As Chang gets going, we zoom into his mouth and he converts to english... the judges gavel is a grotesque nailed glove.
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	The State will show that Enterprise fired on Kronos One without provocation, the Chancellor and his advisers having been lulled into a false sense of security with an invitation to a state dinner aboard Captain Kirk's vessel at 1930 hours that same evening.
+	</DIALOGUE>
+<DIRECTION>
+(Turns to Kirk
+</DIRECTION>
+	<DIALOGUE>
+	Do you deny all this?
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+The mob howls "Kirk!", as the Judge gavels.
+</DIRECTION>
+<Judge>
+	<DIALOGUE>
+	The Prisoner will respond.
+	</DIALOGUE>
+</Judge>
+<Kirk>
+	<DIALOGUE>
+	I don't deny we invited them to dinner.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Angel on Chancellor Azetbur
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	Were you drunk at that dinner, Captain?
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+INT. President's UFP's office - Day
+</DIRECTION>
+<DIRECTION>
+The President and his advisers, including Sarek, watch the proceedings unhappily onscreen. Translator's voice over.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Isn't it a fact that you served Romulan ale, a beverage illegal in the Federation because of its overwhelming potency?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	The drink was served.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The Commander in Chief and President wince.
+</DIRECTION>
+<Commander_in_Chief>
+	<DIALOGUE>
+	This is a damned show trial.
+	</DIALOGUE>
+</Commander_in_Chief>
+<DIRECTION>
+INT. klingon courtroom - Day
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	And you still maintain your ship did not fire on Kronos One? Would you have known if she had? Come now, Captain. the record clearly shows there were no other ships in the sector.
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	There....were no other ships in the sector.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Did you have occasion to refer to your ship's data banks during that night?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	I checked the data banks, yes.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	And what did they tell you?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+<DIRECTION>
+(Reluctant)
+</DIRECTION>
+	<DIALOGUE>
+	That we fired two Photon Torpedoes. But.....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The mob howls.
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	The witness is excused, for the time being.
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+Chang whirls off as the Judge gavels.
+</DIRECTION>
+<DIRECTION>
+INT. Klingon Courtroom - Day
+</DIRECTION>
+<DIRECTION>
+One of President Gorkons Guards is on the stand, he is missing an arm.
+</DIRECTION>
+<Guard>
+	<DIALOGUE>
+	After the first hit, we lost our gravitational field, I found myself weightless and unable to function. Then 2 Starfleet crewmen came walking towards us.
+	</DIALOGUE>
+</Guard>
+<DIRECTION>
+Widen to reveal we are watching aboard Enterprise.
+</DIRECTION>
+<DIRECTION>
+Spock, et al, are receiving the transmission on their main visual display. They watch in silence. Translator's voice.
+</DIRECTION>
+<Defense_Attorney>
+	<DIALOGUE>
+	Perhaps they merely wore Starfleet uniforms....
+	</DIALOGUE>
+</Defense_Attorney>
+<Chang>
+	<DIALOGUE>
+	I move that remark be stricken as purely speculative....
+	</DIALOGUE>
+</Chang>
+<Judge>
+	<DIALOGUE>
+	So ordered. Colonel Worf, we are interested in facts, not theories.
+	</DIALOGUE>
+</Judge>
+<Defense_Attorney>
+	<DIALOGUE>
+	If the gravitatinal field was not functioning, how could these men have been walking?
+	</DIALOGUE>
+</Defense_Attorney>
+<Guard>
+	<DIALOGUE>
+	They appeared to be wearing magnetic boots.
+	</DIALOGUE>
+</Guard>
+<DIRECTION>
+Murmur. The Defense Attorney wishes he hadn't asked.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Gravity boots.....
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+INT. Klingon Courtroom - Day
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	They fired on you?
+	</DIALOGUE>
+</Chang>
+<Guard>
+	<DIALOGUE>
+	With Starfleet issue phasers. They dashed into the Chancellor's stateroom, we could hear more phaser fire, then they went back the way they'd come.
+	</DIALOGUE>
+</Guard>
+<Chang>
+	<DIALOGUE>
+	Towards the transporter room?
+	</DIALOGUE>
+</Chang>
+<Guard>
+	<DIALOGUE>
+	Yes, Sir.
+	</DIALOGUE>
+</Guard>
+<DIRECTION>
+Swish pan to CU Sulu
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Excelsior
+</DIRECTION>
+<DIRECTION>
+Sulu and his crew are watching the trial on their visual display as well.
+</DIRECTION>
+<DIRECTION>
+INT. Klingon Courtroom - Day
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	Doctor McCoy, what is your current medical status?
+	</DIALOGUE>
+</Chang>
+<McCoy>
+	<DIALOGUE>
+	Aside from a touch of arthritis, I'd say pretty good.
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Sulu has to smile. Chang is not amused, waits.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	For 27 years I have been Ships Surgeon and later Chief Medical Officer aboard the U.S.S. Enterprise. In three months, I'm due to stand down.
+	</DIALOGUE>
+</McCoy>
+<Chang>
+	<DIALOGUE>
+	Stand.....?
+	</DIALOGUE>
+</Chang>
+<McCoy>
+	<DIALOGUE>
+	Retire.
+	</DIALOGUE>
+</McCoy>
+<Chang>
+<DIRECTION>
+(soft)
+</DIRECTION>
+	<DIALOGUE>
+	Ah. I believe you also consumed Romulan ale at the officers mess on the night in question, Doctor?
+	</DIALOGUE>
+</Chang>
+<Defense_Attorney>
+	<DIALOGUE>
+	Objection!
+	</DIALOGUE>
+</Defense_Attorney>
+<Judge>
+	<DIALOGUE>
+	Sustained.
+	</DIALOGUE>
+</Judge>
+<McCoy>
+<DIRECTION>
+(angry)
+</DIRECTION>
+	<DIALOGUE>
+	We all did. But that doesn't mean.....
+	</DIALOGUE>
+</McCoy>
+<Judge>
+	<DIALOGUE>
+	General Chang, come to the point or abandon this line of inquiry.
+	</DIALOGUE>
+</Judge>
+<Chang>
+	<DIALOGUE>
+	Was Chancellor Gorkon alive when you first examined him?
+	</DIALOGUE>
+</Chang>
+<McCoy>
+	<DIALOGUE>
+	Barely.
+	</DIALOGUE>
+</McCoy>
+<Chang>
+	<DIALOGUE>
+	Have you saved patients as "barely" alive as he was?
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+President Azetbur flinches at the memory.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	I didn't have the knowledge of Klingon anatomy I needed.
+	</DIALOGUE>
+</McCoy>
+<Chang>
+	<DIALOGUE>
+	You say you are due for retirement. May I ask: Do your hands shake?
+	</DIALOGUE>
+</Chang>
+<Defense_Attorney>
+	<DIALOGUE>
+	Objection!
+	</DIALOGUE>
+<Judge>
+	<DIALOGUE>
+	Overruled.
+	</DIALOGUE>
+</Defense_Attorney>
+<McCoy>
+	<DIALOGUE>
+	I was nervous.
+	</DIALOGUE>
+</McCoy>
+<Chang>
+	<DIALOGUE>
+	You were incompetent! Whether deliberately, or as a result of age, combined with drink, this court will determine.
+	</DIALOGUE>
+</Chang>
+<McCoy>
+	<DIALOGUE>
+	I tried to save him! I was desperate to save him! He was the last best hope in the universe for real peace.
+	</DIALOGUE>
+</McCoy>
+<Chang>
+	<DIALOGUE>
+	The Chacellor herself will testify that the defendant's hands shook!
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+INT. UFP President's office.
+</DIRECTION>
+<DIRECTION>
+The President, et al, watch unhappily
+</DIRECTION>
+<DIRECTION>
+INT. Klingon Courtroom - Day
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	And now, we come to the architect of this tragic affair, Captain James Tiberius Kirk. I put it to you, Captain, that you were seeking revenge for the death of your son!
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	That isn't true.....!
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	That, either as an instrument of Federation policy, or acting on your own drunken initiative, you and your fellow conspirators, crippled Kronos One, and cold-bloodedly assassinated the Chancellor of the High Council. Then, you and Doctor McCoy went aboard to make certain the job was complete.
+	</DIALOGUE>
+</Chang>
+<Defense_Attorney>
+	<DIALOGUE>
+	Objection: Captain Kirk has not been identified as the assassin.
+	</DIALOGUE>
+</Defense_Attorney>
+<Judge>
+	<DIALOGUE>
+	Sustained.
+	</DIALOGUE>
+</Judge>
+<Chang>
+	<DIALOGUE>
+	I offer into the record the following excerpt from Captain Kirk's personal log.
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+He signals. Kirk's voice stills the room.
+</DIRECTION>
+<Kirk_s_voice>
+	<DIALOGUE>
+	I have never trusted Klingons, and never will. I have never been able to forgive them for the murder of my boy.....
+	</DIALOGUE>
+</Kirk_s_voice>
+<DIRECTION>
+An explosive babble fills the court. The Judge pounds his glove for order....quick reaction shots:
+</DIRECTION>
+<DIRECTION>
+The Enterprise
+</DIRECTION>
+<DIRECTION>
+The President's Office
+</DIRECTION>
+<DIRECTION>
+The Excelsior - then back to the courtroom
+</DIRECTION>
+<DIRECTION>
+INT. Courtroom - Day
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	Are those your words?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Spoken by you?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Louder, please. We cannot hear you.
+	</DIALOGUE>
+</Chang>
+<Kirk>
+<DIRECTION>
+(firmer)
+</DIRECTION>
+	<DIALOGUE>
+	Those words WERE spoken by me.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+INT. Bridge, U.S.S. Excelsior
+</DIRECTION>
+<DIRECTION>
+Sulu is speaking confidentially to his communications officer. On screen behind them, the trial continues.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Send to commander Enterprise: "We stand ready to assist you. Captian Sulu, U.S.S. Excelsior." Attach our co-ordinates.
+	</DIALOGUE>
+</Sulu>
+<Communications_officer>
+	<DIALOGUE>
+	Is that wise, sir? I mean, given their situation-
+	</DIALOGUE>
+<DIRECTION>
+(off Sulu's look)
+</DIRECTION>
+	<DIALOGUE>
+	Aye, Sir!
+	</DIALOGUE>
+</Communications_officer>
+<DIRECTION>
+He leaves. Sulu looks up at the screen, unhappily.
+</DIRECTION>
+<DIRECTION>
+Courtroom
+</DIRECTION>
+<Defense_Attorney>
+	<DIALOGUE>
+	Objection, your honors. My clients' political views are not on trial here.
+	</DIALOGUE>
+</Defense_Attorney>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<DIRECTION>
+The trial is on several monitor BG. Spock, next to Uhura.
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	Sulu's giving us his position and telling us he's standing by.....
+	</DIALOGUE>
+</Uhura>
+<Spock>
+<DIRECTION>
+(unhappy)
+</DIRECTION>
+	<DIALOGUE>
+	He's placing himself in a most awkward situation......
+	</DIALOGUE>
+</Spock>
+<Chang>
+<DIRECTION>
+(V.O.)
+</DIRECTION>
+	<DIALOGUE>
+	On the contrary, Captain Kirk's views and motives are at the heart of this matter. This officers record shows the accused to be an insubordinate, unprincipled career opportunist, with a history of violating the chain of command when it suited him.
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+INT. Klingon Courtroom - Day
+</DIRECTION>
+<Chang>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Indeed the record will show that Captain Kirk was once "Admiral" Kirk and that Admiral Kirk was broken for taking matters into his own hands in defiance of regulations and the law. Do you deny you were demoted on these charges, Captain? DO NOT WAIT FOR THE TRANSLATION, ANSWER ME NOW!!!
+	</DIALOGUE>
+</Chang>
+<Defense_Attorney>
+	<DIALOGUE>
+	Don't answer - objection!
+	</DIALOGUE>
+</Defense_Attorney>
+<Judge>
+	<DIALOGUE>
+	Objection overruled. The Prisoner will answer the question.
+	</DIALOGUE>
+</Judge>
+<Kirk>
+	<DIALOGUE>
+	I cannot deny it.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	You were demoted.....
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	Yes.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	For insubordination.
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	I have on occasion disobeyed orders.
+	</DIALOGUE>
+<Chang>
+	<DIALOGUE>
+	And were you obeying or disobeying orders the night you arranged the assassination of Chancellor Gorkon?
+	</DIALOGUE>
+</Kirk>
+<Defense_Attorney>
+<DIRECTION>
+(overlapping)
+</DIRECTION>
+	<DIALOGUE>
+	I Object!
+	</DIALOGUE>
+<Kirk>
+<DIRECTION>
+(overlapping)
+</DIRECTION>
+	<DIALOGUE>
+	I was unaware of the assassination until I boarded his ship!
+	</DIALOGUE>
+</Kirk>
+<Chang>
+<DIRECTION>
+(overlapping)
+</DIRECTION>
+	<DIALOGUE>
+	You deny Enterprise fired on Kronos One?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	Well, I.....
+	</DIALOGUE>
+</Kirk>
+<Chang>
+<DIRECTION>
+(overlapping)
+</DIRECTION>
+	<DIALOGUE>
+	You deny that your men beamed aboard Kronos One, and shot the Chancellor?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	I cannot confirm or deny actions which I did not witness.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Captain Kirk, are you aware that under Federation law, the Captain of a Starship is considered responsible for the actions of his men?
+	</DIALOGUE>
+</Chang>
+<Kirk>
+	<DIALOGUE>
+	I am.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	So, if it should prove members of your crew did in fact carry out such an assassination?
+	</DIALOGUE>
+</Chang>
+<McCoy>
+	<DIALOGUE>
+	Jim! They're setting us up! Your honors, I protest!
+	</DIALOGUE>
+</McCoy>
+<Judge>
+	<DIALOGUE>
+	The defendant will be silent! Captain Kirk, you will answer the question.
+	</DIALOGUE>
+</Judge>
+<Kirk>
+<DIRECTION>
+(heavily)
+</DIRECTION>
+	<DIALOGUE>
+	As Captain, I am responsible for the conduct of the crew under my command.
+	</DIALOGUE>
+</Kirk>
+<Chang>
+	<DIALOGUE>
+	Your honors, the State rests.
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+An excited babble. Kirk and McCoy turn to their attorney.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Is it our turn, now?
+	</DIALOGUE>
+</McCoy>
+<Defense_Attorney>
+<DIRECTION>
+(grim)
+</DIRECTION>
+	<DIALOGUE>
+	According to Klingon law, both sides present their cases at the same time, we have had our turn!
+	</DIALOGUE>
+</Defense_Attorney>
+<DIRECTION>
+On McCoys and Kirks reaction. The Judges nailed fist crashes down with a flurry of sparks.
+</DIRECTION>
+<Judge>
+	<DIALOGUE>
+	It is the judgement of this court that the defendants are guilty as charged.
+	</DIALOGUE>
+</Judge>
+<DIRECTION>
+Sensation in court. A booming chant "Koom, Koom!!" as all the light spears are pointed at Kirk and McCoy. Chang is stone-faced, again, the horrible gauntlet.
+</DIRECTION>
+<Judge>
+	<DIALOGUE>
+	Captian James T. Kirk, Doctor Leonard McCoy.....
+	</DIALOGUE>
+</Judge>
+<DIRECTION>
+They face the Judges' box. Intercut this moment with
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise Bridge - Day
+</DIRECTION>
+<DIRECTION>
+Spocks face - What has he done?
+</DIRECTION>
+<DIRECTION>
+INT. Klingon Courtroom
+</DIRECTION>
+<Judge>
+	<DIALOGUE>
+	Have either of you anything to say before this court passes sentence?
+	</DIALOGUE>
+</Judge>
+<DIRECTION>
+Kirk and McCoy look at each other.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(simply)
+</DIRECTION>
+	<DIALOGUE>
+	We were framed.
+	</DIALOGUE>
+</McCoy>
+<Defense_Attorney>
+<DIRECTION>
+(Rises passionately
+</DIRECTION>
+	<DIALOGUE>
+	I wish to note for the record that the evidence against my clients is entirely circumstantial. I beg the
+	</DIALOGUE>
+</Defense_Attorney>
+	<DIALOGUE>
+	court to consider this when framing its sentence.
+	</DIALOGUE>
+<Judge>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	So noted. In the interests of amity for the forthcoming peace talks, the sentence of death is commuted.
+	</DIALOGUE>
+<DIRECTION>
+(the crowd roars)
+</DIRECTION>
+	<DIALOGUE>
+	It is the judgement of this court that without possibility of reprieve or parole, you be taken from this place to the Dilithium mines on the Penthe asteroid, there to spend the rest of your natural lives.
+	</DIALOGUE>
+</Judge>
+<DIRECTION>
+Off Kirks and McCoys reactions.
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<Uhura>
+<DIRECTION>
+(tearfull eyes)
+</DIRECTION>
+	<DIALOGUE>
+	Rura Penthe!
+	</DIALOGUE>
+</Uhura>
+<Chekov>
+	<DIALOGUE>
+	Known throughout the galaxy as the Aliens' graveyard.
+	</DIALOGUE>
+</Chekov>
+<Scotty>
+	<DIALOGUE>
+	Better to kill them now and get it over with......
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+It takes Spock a moment to recover himself.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Let's see it again, Lieutenant.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Lieutenant Valeris pushes a button. As attention is diverted, Spock mops his brow.
+</DIRECTION>
+<DIRECTION>
+The crew watch in silence as the monitor replays the hit. (Sc. 46 vfxb)
+</DIRECTION>
+<Chekov>
+<DIRECTION>
+(hopeless)
+</DIRECTION>
+	<DIALOGUE>
+	It is Enterprise. We fired.
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+As the replay indicates this, Spock stares.....
+</DIRECTION>
+<Scotty>
+<DIRECTION>
+(anger & confusion)
+</DIRECTION>
+	<DIALOGUE>
+	It's na possible!! All weapons VISUALLY accounted for. Sir!
+	</DIALOGUE>
+</Scotty>
+<Lt_Valeris>
+	<DIALOGUE>
+	Commander? It it not logical to consider ALL possibilites?
+	</DIALOGUE>
+<DIRECTION>
+(off their looks)
+</DIRECTION>
+	<DIALOGUE>
+	This is most difficult to say, but has it occurred to....to any of us....that the Captain is...that is, we know his feelings about Klingons, what they did to his....
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Spocks gaze stops her.
+</DIRECTION>
+<Lt_Valeris>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Well, it is a possibility!
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+After an impenetrable pause -
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Again.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Another replay as they watch.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Hold.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+They stare at the frozen image.
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	An ancestor of mine maintained that if you eliminate the impossible whatever remains - however improbable - must be the truth.
+	</DIALOGUE>
+</Spock>
+<Uhura>
+	<DIALOGUE>
+	What exactly does that mean?
+	</DIALOGUE>
+</Uhura>
+<Spock>
+	<DIALOGUE>
+	It means that if we cannot have fired those torpedoes, then someone else did!
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	They dinna fire on themselves. And there were no other ships present.
+	</DIALOGUE>
+</Scotty>
+<Spock>
+<DIRECTION>
+(grasping at straws)
+</DIRECTION>
+	<DIALOGUE>
+	There was and enormous neutron energy surge.
+	</DIALOGUE>
+</Spock>
+<Scotty>
+<DIRECTION>
+(insisting)
+</DIRECTION>
+	<DIALOGUE>
+	Not from us!!
+	</DIALOGUE>
+</Scotty>
+<Chekov>
+<DIRECTION>
+(square one)
+</DIRECTION>
+	<DIALOGUE>
+	A neutron surge that big could only be produced by another ship.....
+	</DIALOGUE>
+</Chekov>
+<Uhura>
+	<DIALOGUE>
+	Kronos One?
+	</DIALOGUE>
+</Uhura>
+<Spock>
+	<DIALOGUE>
+	Too far off. Very near us. Perhaps....underneath us....!
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	If another ship had been beneath us, the Klingons would have seen her!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	Would they?
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Long pause.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Bird of Prey!
+	</DIALOGUE>
+</Lt_Valeris>
+<Chekov>
+	<DIALOGUE>
+	Cloaked!?
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+Spock says nothing.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	A Bird of Prey canna fire when shes cloaked!
+	</DIALOGUE>
+<Spock>
+	<DIALOGUE>
+	All things being equal, Mr. Scott, I would agree. However, "things" are not equal, this one can!
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	Then you're talking about a dreadful new engine of destruction, Mr. Spock!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	I believe I am.
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	We must inform Starfleet Command....
+	</DIALOGUE>
+</Lt_Valeris>
+<Scotty>
+<DIRECTION>
+(enraged)
+</DIRECTION>
+	<DIALOGUE>
+	Inform them of what? A new weapon that isn't visible? Raving lunatics - that's what they'll call
+	</DIALOGUE>
+</Scotty>
+	<DIALOGUE>
+	us! They'll say we're so desperate to exonerate the Captain, we'll say anything!
+	</DIALOGUE>
+<Spock>
+	<DIALOGUE>
+	And they would be right. We have no evidence - just a theory that happens to fit the facts.....
+	</DIALOGUE>
+</Spock>
+<Uhura>
+	<DIALOGUE>
+	Even assuming you're correct, Mr. Spock, why would they fire on their own President?
+	</DIALOGUE>
+</Uhura>
+<Spock>
+	<DIALOGUE>
+	I want this ship searched from bow to stern. Lieutenant, you are in charge. Start with the transporter room, and work your way outwards!
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	Sir.....
+	</DIALOGUE>
+</Lt_Valeris>
+<Chekov>
+	<DIALOGUE>
+	I don't understand. If there vas a ship underneath us, surely the assassins beamed aboard from that wessel, not Enterprise.
+	</DIALOGUE>
+</Chekov>
+<Spock>
+	<DIALOGUE>
+	You are forgetting something:
+	</DIALOGUE>
+<DIRECTION>
+(off their looks)
+</DIRECTION>
+	<DIALOGUE>
+	the data banks say we fired. If we did, the killers are here. If we didn't, whoever altered the data banks is on board. Either way, what we are searching for is here....
+	</DIALOGUE>
+<Chekov>
+	<DIALOGUE>
+	What are we searching for, Mr. Spock?
+	</DIALOGUE>
+</Spock>
+<Spock>
+	<DIALOGUE>
+	You tell them, Lieutenant.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Close on Vulcan Lieutenant
+</DIRECTION>
+<Lt_Valeris>
+<DIRECTION>
+(it's elementary)
+</DIRECTION>
+	<DIALOGUE>
+	Two pairs of gravity boots!
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Spock is well pleased with her.
+</DIRECTION>
+<DIRECTION>
+EXT. Rura Penthe Penal Colony - Day
+</DIRECTION>
+<DIRECTION>
+Three suns glare down on a huge vista, an ice field, the coldest habitable place in the solar system.
+</DIRECTION>
+<DIRECTION>
+A small moving dark mass as we push in, reveals
+</DIRECTION>
+<DIRECTION>
+Fifteen prisoners in leg irons and five Klingon guards with jackal-mastiffs moving slowly across the frigid plain.
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy, likewise shackled, are among them. Guards and prisoners alike wear ragged furs.
+</DIRECTION>
+<DIRECTION>
+They reach a lone totem and a guard holds up his hand for a halt. He presses and instrument emitting a high- pitched whine.
+</DIRECTION>
+<DIRECTION>
+In response, a huge trap door buried in the snow, yawns open. A Klingon guard emerges from steps below, and places a box before the gaping door.
+</DIRECTION>
+<DIRECTION>
+As Kirk and McCoy watch, the commandant of Rura Penthe and his jackal mastiff emerge. He mounts the box.
+</DIRECTION>
+<Commandant>
+	<DIALOGUE>
+	This is the gulag Rura Penthe. Observe: there is no stockade, no guard tower, no electrified fence! They are not needed here! Only a magnetic shield prevents beaming. Your new home awaits.... underground!
+	</DIALOGUE>
+</Commandant>
+<DIRECTION>
+He blows a mechanical whistle. In response, two guards emerge from below with a screaming Klingon convict.
+</DIRECTION>
+<Prisoner>
+	<DIALOGUE>
+	No! Nooooo!
+	</DIALOGUE>
+</Prisoner>
+<Commandant>
+	<DIALOGUE>
+	Punishment means exile from prison to the surface - on the surface, nothing can survive.
+	</DIALOGUE>
+</Commandant>
+<DIRECTION>
+The guards dump the screaming convict on the ice - without furs. The weather immobilizes him at once - his cries become fainter.
+</DIRECTION>
+<Commandant>
+	<DIALOGUE>
+	Below, no one can escape. Work well, and you will be treated well. Work badly, and you will die.
+	</DIALOGUE>
+</Commandant>
+<DIRECTION>
+He leaves. The box is removed by a guard and proceeds him through the huge door, and down the steps.
+</DIRECTION>
+<DIRECTION>
+Long shot
+</DIRECTION>
+<DIRECTION>
+as the prisoners are herded after him, and the door shuts, leaving the frozen vista as it was: snow flurries obscure the trap door almost instantly. Only the frozen corpse of the convict is left - until it too is covered.
+</DIRECTION>
+<DIRECTION>
+INT. Rura Penthe
+</DIRECTION>
+<DIRECTION>
+Start looking up at the closing trap door, outside we can see snow flurries as the panel shuts with a clang.
+</DIRECTION>
+<DIRECTION>
+Pan down to reveal
+</DIRECTION>
+<DIRECTION>
+A huge underground labyrinth with an enormous courtyard surrounded by prisoners huts open to the center. Prisoners wander freely within. The scum of the universe
+</DIRECTION>
+<DIRECTION>
+Everyone wears furs, leg irons, and is freezing.
+</DIRECTION>
+<DIRECTION>
+An endless scaffolding above, the guards.
+</DIRECTION>
+<DIRECTION>
+Many of the prisoners look like they could snap Kirk and McCoy in half, with one hand.
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy step gingerly around the outside wall, watching the yard. A shadow falls across them.
+</DIRECTION>
+<DIRECTION>
+Their POV: It's a behemoth alien. He speaks in a guttural, incomprehensible language.
+</DIRECTION>
+<Alien>
+	<DIALOGUE>
+	Auog wok na pushnat.
+	</DIALOGUE>
+</Alien>
+<Kirk>
+	<DIALOGUE>
+	I'm afraid our universal translator was confiscated.
+	</DIALOGUE>
+</Kirk>
+<Alien>
+	<DIALOGUE>
+	Ring notsa loskent!
+	</DIALOGUE>
+</Alien>
+<Kirk>
+	<DIALOGUE>
+	Sorry......
+	</DIALOGUE>
+</Kirk>
+<Alien>
+	<DIALOGUE>
+	Rangnit ascru, unto pram moreoscue shondik!!!!
+	</DIALOGUE>
+</Alien>
+<McCoy>
+	<DIALOGUE>
+	He's definitely on about something!
+	</DIALOGUE>
+<Alien>
+	<DIALOGUE>
+	Quog wok na pushnat!!!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+The alien picks Kirk up.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	If this is your spot, we'll move on.....
+	</DIALOGUE>
+<DIRECTION>
+The alien is about to behead Kirk
+</DIRECTION>
+<Martia>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	He wants your obedience to the Brotherhood of Aliens.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	He's got it!
+	</DIALOGUE>
+</Kirk>
+<Martia>
+	<DIALOGUE>
+	And your coat.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	'Fraid not. It wouldn't fit him, anyway.
+	</DIALOGUE>
+</Kirk>
+<Martia>
+	<DIALOGUE>
+	Krandog aranty.
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+The alien puts Kirk down.
+</DIRECTION>
+<Martia>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Fendo pompsky.
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+The alien nods and wanders off.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Thanks......
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	What's the Brotherhood of Aliens?
+	</DIALOGUE>
+</McCoy>
+<Martia>
+	<DIALOGUE>
+	Prisoners from outside the Klingon Systems. They tend to band together. I'm Martia.
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+She's a tall, and very good looking female, boots to her thighs, exotic furs, tattered but clearly humanoid.
+</DIRECTION>
+<DIRECTION>
+She's smoking something, offers them a hit.
+</DIRECTION>
+<Martia>
+	<DIALOGUE>
+	This'll help keep you warm. You're Kirk and McCoy.
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+Kirk takes the hit, offers McCoy....it does warm you!
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	How did you know...?
+	</DIALOGUE>
+</Kirk>
+<Martia>
+<DIRECTION>
+(shrugs)
+</DIRECTION>
+	<DIALOGUE>
+	We don't get many Presidential assassins.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	We didn't kill Gorkon.
+	</DIALOGUE>
+</Kirk>
+<Martia>
+<DIRECTION>
+(deadpan)
+</DIRECTION>
+	<DIALOGUE>
+	Of course not.
+	</DIALOGUE>
+<DIRECTION>
+(looks around)
+</DIRECTION>
+	<DIALOGUE>
+	There's a reward for your death!
+	</DIALOGUE>
+</Martia>
+<McCoy>
+<DIRECTION>
+(looks around also)
+</DIRECTION>
+	<DIALOGUE>
+	Figures.
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	We've been set up all along.
+	</DIALOGUE>
+</Kirk>
+<Martia>
+	<DIALOGUE>
+	Somebody up there wants you out of the way.
+	</DIALOGUE>
+</Martia>
+<McCoy>
+	<DIALOGUE>
+	I don't believe we can get more out of the way than this!!
+	</DIALOGUE>
+</McCoy>
+<Martia>
+	<DIALOGUE>
+	They'll make it look like an accident.....
+	</DIALOGUE>
+</Martia>
+<McCoy>
+	<DIALOGUE>
+	What are you in for, if you don't mind my asking?
+	</DIALOGUE>
+</McCoy>
+<Martia>
+	<DIALOGUE>
+	I don't mind. Smuggling. Guilty. I come from Arc. Smuggling is an ancient and respected trade there.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	How much time's left of your sentence?
+	</DIALOGUE>
+</Kirk>
+<Martia>
+<DIRECTION>
+(smiles grimly)
+</DIRECTION>
+	<DIALOGUE>
+	Don't you know? Everyone on Rura Penthe is here for life!
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+Kirk and McCoy didn't know.
+</DIRECTION>
+<DIRECTION>
+INT. Galley, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+Under Lt. Valeris's watchful eye, crewmen are taking the kitchen apart. All sorts of dishes and cutlery litter the place. Spock, Scotty and Chekov enter.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Any progress?
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	We've got a crew of three hundred turning the own quarters inside out, but the killers may be among them. Surely they've disposed of these boots by now. Wouldn't it have been logical to leave them on Gorkon's ship?
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	Even logic must give way to physics. Gravity hadn't been restored by the time they escaped. Without their boots, they would not have stayed on the Klingon transporter pads.
+	</DIALOGUE>
+</Spock>
+<Chekov>
+<DIRECTION>
+(mimes with his finger)
+</DIRECTION>
+	<DIALOGUE>
+	Why not simply vaporize them?
+	</DIALOGUE>
+</Chekov>
+<Lt_Valeris>
+	<DIALOGUE>
+	Like this?
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+She whips out her phaser and fires, incinerating a pot. Alarms and claxons howl! Chekov covers his ears.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	As you know, sir, no one can fire an unauthorized phaser aboard a starship.
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+She switches off the alarm and has another thought:
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Suppose when they returned, they threw the boots into the garbage?
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	I'm having the garbage searched. If my surmise is correct, those boots will cling to the killers necks like Tiberian bats. They couldn't make their escape without them, nor can they simply throw them out a window for all to see. No, they're here. Somewhere!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Uhura comes into the galley, Stepping over pots and pans. She is not happy.
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	Did someone shoot off a phaser, Mr. Spock?
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+He turns.
+</DIRECTION>
+<Uhura>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I've pulled out my - ah, wooden shoe and Starfleet is screaming for us to return to port!
+	</DIALOGUE>
+</Uhura>
+<Spock>
+	<DIALOGUE>
+	Mr. Scott, any progress on repairing our warp drive?
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	There's nothing wrong with the bloody......
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+Spock coughs hard.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	.......Could take weeks, Sir!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+	<DIALOGUE>
+	Thank you, Mr. Scott. Were we to return to spacedock, the killers would surely manage to dispose of their incriminating footwear.
+	</DIALOGUE>
+<DIRECTION>
+(turns to Uhura)
+</DIRECTION>
+	<DIALOGUE>
+	Please report our situtation to Starfleet.
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	A lie?
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	An error.
+	</DIALOGUE>
+</Spock>
+<Uhura>
+	<DIALOGUE>
+	I'll tell them someone threw a gravity boot into it!
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+Angle on Spock
+</DIRECTION>
+<DIRECTION>
+Reacting. He looks at Lt. Valeris
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	Right, a gravity boot in the warp drive...
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+She goes off, shaking her head.
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	You understand that we have lost all contact with Captain Kirk....?
+	</DIALOGUE>
+</Uhura>
+<Spock>
+	<DIALOGUE>
+	At present, he's surrounded by a magnetic shield. If my calculations are correct, he should be deep into his escape planning by this time.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+INT. Rura Penthe penal colony.
+</DIRECTION>
+<DIRECTION>
+Kirk gets hit in the face. It's already bloody. It's a prison fight. Kirk and an alien are surrounded by prisoners who are sneering and jeering.
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy are distinctly grubbier.
+</DIRECTION>
+<DIRECTION>
+Kirk scrambles to his feet and circles. The alien swings a large paw, but Kirk ducks, comes in with an uppercut. He connects, but does little damage. They circle some more. The alien dives legs first, and scissors Kirk, who goes down roughly. Wrestling, Kirk slips free.
+</DIRECTION>
+<DIRECTION>
+McCoy and Martia watch....the leg irons make it complicated, they can also wrap around someone's neck....
+</DIRECTION>
+<DIRECTION>
+The alien moves in closely, hits Kirk again. Kirk fights back with a kick to the chest, which doubles over the alien.
+</DIRECTION>
+<DIRECTION>
+Then Kirk slams the alien on the neck and he goes down. Kirk starts to walk away.
+</DIRECTION>
+<DIRECTION>
+But a paw reaches out and grabs him by the ankle. Kirk looks back and the alien is grinning, drags him in.
+</DIRECTION>
+<DIRECTION>
+The alien stands, and grips Kirk, chest to back, in a giant bear hug. Surely, he will crush the life out of Kirk. He lifts Kirk right off of the ground. Kirk, almost gone, lifts his legs up high, and swings down hard, smashing the alien in the knee. That does it. The alien falls to the ground, screaming and holding his knee. Kirk staggers away, catching his breath.
+</DIRECTION>
+<Martia>
+	<DIALOGUE>
+	They'll respect him now....
+	</DIALOGUE>
+</Martia>
+<McCoy>
+	<DIALOGUE>
+	That's a comfort!
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	I was lucky that thing had knees.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+They look back. The alien is still on the ground
+</DIRECTION>
+<Martia>
+	<DIALOGUE>
+	That's not his knee!
+	</DIALOGUE>
+<DIRECTION>
+(off Kirk's look)
+</DIRECTION>
+	<DIALOGUE>
+	Not everybody keeps their genitals in the same place, Captain!
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	Anything you want to tell me?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Before she can answer.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(Continuing)
+</DIRECTION>
+	<DIALOGUE>
+	McCoy, why don't you see what you can do? Let them know we're not holding a grudge.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Suppose HE'S holding a grudge?
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+McCoy tentatively goes forward, and examines the knee. He is without any medical tools of any kind.
+</DIRECTION>
+<DIRECTION>
+The alien yells, but lets him look. He manipulates the leg, then ties a kind of splint with an old rag....
+</DIRECTION>
+<DIRECTION>
+Angle on Kirk
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	There's gotta be a way out of this place......
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Martia looks at him, moves off.
+</DIRECTION>
+<DIRECTION>
+INT. Sulu's cabin, U.S.S. Excelsior.
+</DIRECTION>
+<DIRECTION>
+Sulu is asleep, awakened by a knock.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Come in....?
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+His communications officer enters.
+</DIRECTION>
+<Officer>
+	<DIALOGUE>
+	Sorry to wake you, Sir, but Starfleet ugently requests any data we may have on the whereabouts of the Enterprise.
+	</DIALOGUE>
+</Officer>
+<Sulu>
+<DIRECTION>
+(groggy)
+</DIRECTION>
+	<DIALOGUE>
+	What?
+	</DIALOGUE>
+</Sulu>
+<Officer>
+	<DIALOGUE>
+	Apparently they're refusing to acknowledge a signal to return to spacedock, Sir.
+	</DIALOGUE>
+</Officer>
+<Sulu>
+	<DIALOGUE>
+	Signal Starfleet that....... we have no idea of the location of the Enterprise.
+	</DIALOGUE>
+</Sulu>
+<Officer>
+<DIRECTION>
+(astonished)
+</DIRECTION>
+	<DIALOGUE>
+	Sir?
+	</DIALOGUE>
+</Officer>
+<Sulu>
+	<DIALOGUE>
+	You have hearing problems, Mister?
+	</DIALOGUE>
+</Sulu>
+<Officer>
+	<DIALOGUE>
+	No, Sir!
+	</DIALOGUE>
+</Officer>
+<DIRECTION>
+He salutes and leaves. Sulu stays awake. Dissolve: INT. Hut on Rura Penthe - Night
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy try to sleep on rude cots in a hut off the main courtyard, tattered, exhusted wrecks.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Three months till retirement. What a way to finish.
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+<DIRECTION>
+(thinking)
+</DIRECTION>
+	<DIALOGUE>
+	We're not finished.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Speak for yourself. One day or one night......
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+He makes a gesture across his own throat.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Kobyashi Maru!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Close on Kirk
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Bones....are you afraid of the future?
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	That was the general idea I intended to convey.
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	I didn't mean this future.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Are we playing multiple choice?
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Some people ARE afraid of the future, of what MIGHT happen.
+	</DIALOGUE>
+<DIRECTION>
+(pauses)
+</DIRECTION>
+	<DIALOGUE>
+	I was frightened, really frightened!
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	I've looked death in the eye a thousand times and tried to be professional about it. Of course it wasn't usually MY death I was looking at.
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	What frightened you, specifically?
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	No more neutral zone. I was USED to hating Klingons...that's why I failed in our assignment. It never even occurred to me to take Gorkon at his word. Spock was right.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Well, don't be too hard on yourself, we all felt exactly the same.
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+<DIRECTION>
+(shakes his head)
+</DIRECTION>
+	<DIALOGUE>
+	Uh uh. Somebody felt much worse. And I'm starting to understand why.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Well, if you've got any bright ideas, now's the time to.....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Time's a problem. You heard the Judge: the peace conference is on again. Whoever killed Gorkon will sandbag the whole thing all over again unless we find a way out of here!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Suddenly, McCoy puts his hand over Kirk's mouth. They pretend to sleep. Something crawls towards them in the dark. they sweat....Kirk clenches his fists.....
+</DIRECTION>
+<Martia>
+<DIRECTION>
+(whispers)
+</DIRECTION>
+	<DIALOGUE>
+	Kirk? It's me, Martia
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+Kirk opens his eyes, McCoy plays possum.
+</DIRECTION>
+<Martia>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Listen, no one has ever escaped from Rura Penthe.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+<DIRECTION>
+(ready)
+</DIRECTION>
+	<DIALOGUE>
+	Except us!
+	</DIALOGUE>
+</Kirk>
+<Martia>
+	<DIALOGUE>
+	It is possible.
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+He regards her warily
+</DIRECTION>
+<Martia>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I know how to get outside the shield.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	Where do we come in?
+	</DIALOGUE>
+</Kirk>
+<Martia>
+	<DIALOGUE>
+	Getting outside the shield is easy. After that it's up to you to get us off the surface before we freeze. Can you?
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	Possibly.
+	</DIALOGUE>
+</Kirk>
+<Martia>
+	<DIALOGUE>
+	I can't make it alone. You're the likeliest candidate to come to this hellhole in months.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	Candidate for what?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Their whispering has brought them very close. Martia is vamping him. She pulls off her fur hood....kisses him. He doesn't resist.
+</DIRECTION>
+<DIRECTION>
+Angle on McCoy
+</DIRECTION>
+<DIRECTION>
+Rolls his eyes.
+</DIRECTION>
+<Martia>
+	<DIALOGUE>
+	Go to "C" lift in the morning for mining duty. I'll meet you there.
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+She disappears into the shadows. McCoy, who has been watching this whole thing, gets up on one elbow.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	What is it with you, anyway?
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Still think we're finished?
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	More than ever!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+EXT. Rura Penthe asteroid - night
+</DIRECTION>
+<DIRECTION>
+The wind howls in an otherwise barren landscape.
+</DIRECTION>
+<DIRECTION>
+INT. Transporter room, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+Chekov is examinging the platform and environs carefully. He comes across spots of violet. He scrapes samples into an evidence tube, and seals it, then hurries out.
+</DIRECTION>
+<DIRECTION>
+INT. Science lab, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+Spock studies the sample under a microscope.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Klingon blood!
+	</DIALOGUE>
+</Spock>
+<Chekov>
+	<DIALOGUE>
+	They must have walked through it when it was floating, and tracked it back here.
+	</DIALOGUE>
+</Chekov>
+<Spock>
+	<DIALOGUE>
+	This is the first evidence that corroborates our theory.
+	</DIALOGUE>
+</Spock>
+<Chekov>
+	<DIALOGUE>
+	Now we go to Starfleet?
+	</DIALOGUE>
+</Chekov>
+<Spock>
+	<DIALOGUE>
+	Now we expand our search to include uniforms!
+	</DIALOGUE>
+</Spock>
+<Chekov>
+	<DIALOGUE>
+	All uniforms?
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+Spock looks at him.
+</DIRECTION>
+<Chekov>
+<DIRECTION>
+(starts out)
+</DIRECTION>
+	<DIALOGUE>
+	Aye, Sir....ALL uniforms!
+	</DIALOGUE>
+</Chekov>
+<Spock>
+	<DIALOGUE>
+	Mister Chekov.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Chekov turns.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	The longer we wait, the greater danger in which we leave the Captain and Doctor McCoy!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Montage: the Enterprise is strip-searched. Lockers, wardrooms, laundry, sickbay, jeffries tube, cupboards, observation deck, instrument panels, etc... you name it...piles and piles of clothing being sorted by the crew, piles of boots being examined as the Vulcan Lt. prowls the corridors and checks off locations on a lightplan of the ship....
+</DIRECTION>
+<DIRECTION>
+INT. crew quarters
+</DIRECTION>
+<DIRECTION>
+Suddenly, an excalmation brings her running over.
+</DIRECTION>
+<DIRECTION>
+A crewman has opened a locker, and now holds up an enormous gravity boot. As all watch, he puts the boot on the metal locker.....it sticks!
+</DIRECTION>
+<DIRECTION>
+The Vulcan Lt. looks up at the locker, and sees the name: Dax! Poker-faced triumph.
+</DIRECTION>
+<DIRECTION>
+INT. Crew quarters.........later
+</DIRECTION>
+<DIRECTION>
+Spock, Uhura, Chekov, et al, wait with impassive faces as crewman Dax enters the area. He is an alien.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	You are crewman Dax?
+	</DIALOGUE>
+</Spock>
+<Dax>
+	<DIALOGUE>
+	Yes, Sir. What has happened?
+	</DIALOGUE>
+</Dax>
+<Chekov>
+<DIRECTION>
+(triumphant)
+</DIRECTION>
+	<DIALOGUE>
+	Perhaps you know the Romulan epic of Cinderella? If the shoe fits, wear it!
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+Dax looks confused.
+</DIRECTION>
+<DIRECTION>
+Camera pans down to his legs
+</DIRECTION>
+<DIRECTION>
+No way could those webbed feet make it into those boots.
+</DIRECTION>
+<DIRECTION>
+Expressions of shagrin on everyones face.....
+</DIRECTION>
+<DIRECTION>
+INT. Rura Penthe Penal Colony - morning
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy, their legs still shackled, walk across the huge courtyard and line up behind a dozen brutes, everyone flapping arms to keep warm.
+</DIRECTION>
+<DIRECTION>
+They wait in front of, and then enter the "C" lift.
+</DIRECTION>
+<DIRECTION>
+INT. "C" lift
+</DIRECTION>
+<DIRECTION>
+Like the old style caged elevators.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(looks for the girl)
+</DIRECTION>
+	<DIALOGUE>
+	I think we've been had!
+	</DIALOGUE>
+</McCoy>
+<Martia_s_voice>
+	<DIALOGUE>
+	No you weren't, Doctor
+	</DIALOGUE>
+</Martia_s_voice>
+<DIRECTION>
+They look around. No girl. Just a big brute next to them. Puls other convicts.
+</DIRECTION>
+<Martia_s_voice>
+	<DIALOGUE>
+	Get off at the first level and join the gang going into the mine.
+	</DIALOGUE>
+<DIRECTION>
+(explains)
+</DIRECTION>
+	<DIALOGUE>
+	They don't take girls!
+	</DIALOGUE>
+<DIRECTION>
+It's him! With her voice! Kirk is thunderstruck. He stares at the brute!
+</DIRECTION>
+<DIRECTION>
+VFX or model: the lift lights disappear into blackness.
+</DIRECTION>
+<DIRECTION>
+INT. Mine - Day
+</DIRECTION>
+<DIRECTION>
+The lift doors open
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy climb out with the others. They follow the brute throught the labyrinthine darkness.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	What kind of a creature is this? Last night you two were spooning....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Don't remind me!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Inside the mine
+</DIRECTION>
+<DIRECTION>
+Everyone is issued a drill and a light helmet. As beams ricochet about, they start digging dilithium crystals out of the rock and putting them into a flatbed shuttle. Kirk and McCoy, and the brute do likewise, under the watchfull eye of fur-clad Klingon guards.
+</DIRECTION>
+<DIRECTION>
+An alien next to Kirk sneaks several of the crystals into his garment.
+</DIRECTION>
+<DIRECTION>
+A guard blasts him with a phaser and he disappears.
+</DIRECTION>
+<DIRECTION>
+McCoy openly takes his crystal and places it in the tray, making sure the guard sees him!
+</DIRECTION>
+<DIRECTION>
+Later - INT. Mine
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy are filthy and sweaty. The brute looks at them, turns around. The guards are eating with their backs turned. Kirk and McCoy look to the brute for guidance.
+</DIRECTION>
+<DIRECTION>
+Before their eyes, he re-materializes into a ten year old girl.
+</DIRECTION>
+<DIRECTION>
+CU her skinny legs.
+</DIRECTION>
+<DIRECTION>
+As Kirk and McCoy watch, she slips out of her leg irons. Too bad they can't do likewise.....
+</DIRECTION>
+<Martia_s_voice>
+<DIRECTION>
+(whispers)
+</DIRECTION>
+	<DIALOGUE>
+	Follow me....
+	</DIALOGUE>
+</Martia_s_voice>
+<DIRECTION>
+She puts her drill down and walks silently into the depths of the mine. They follow, looking back to make sure the guards aren't watching.
+</DIRECTION>
+<DIRECTION>
+The girl quickly scrambles through a small hole, turns and waves them on. They have to get down on their
+</DIRECTION>
+<DIRECTION>
+stomachs and crawl through. Kirk goes first, turns, pulls McCoy. This takes time, especially if your legs have chains on them......
+</DIRECTION>
+<DIRECTION>
+On the guards
+</DIRECTION>
+<DIRECTION>
+who finish their lunch, and look around. Notice a suspicious space where 3 workers used to be. Wander over. Look further into the mine. Find the hole. They hurry back, shouting.
+</DIRECTION>
+<DIRECTION>
+INT. Mine tunnel - on the trio
+</DIRECTION>
+<DIRECTION>
+The hole has led to a new tunnel and the girl rematerializes into the brute as they crawl. Kirk and McCoy, still chained, struggle to keep up.
+</DIRECTION>
+<DIRECTION>
+They make their way to a large, abandoned opening and come out on
+</DIRECTION>
+<DIRECTION>
+EXT. the mine, Rura Penthe - Day
+</DIRECTION>
+<DIRECTION>
+A high ice ledge. By scrambling down the ledge and jumping, the brute leads them onto the frigid snowfield. The surface environment is killing.
+</DIRECTION>
+<DIRECTION>
+Later - EXT. Frozen river - Day
+</DIRECTION>
+<DIRECTION>
+The trio slip and slide on the ice across a frozen river. The ice begins to crack beneath their feet...
+</DIRECTION>
+<DIRECTION>
+The three climb the farther bank. They are barely alive. Shaking....
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	I can't......
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Frantically, Kirk tries to keep McCoys circulation going.
+</DIRECTION>
+<Martia>
+	<DIALOGUE>
+	We're at the edge of the shield
+	</DIALOGUE>
+</Martia>
+<DIRECTION>
+They follow her look: an ice desert.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Come on, KEEP MOVING!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+They stagger on.
+</DIRECTION>
+<DIRECTION>
+INT. Klingon listening post
+</DIRECTION>
+<DIRECTION>
+Grimy, underfunded and undermanned. God knows what forsaken place this is. Rocks and lit by scopes.
+</DIRECTION>
+<DIRECTION>
+A sleepy Klingon dozes before his scanners. A bottle in front of him tells the story. Suddenly a blip. He forces himself into alert attention.
+</DIRECTION>
+<DIRECTION>
+His POV
+</DIRECTION>
+<DIRECTION>
+On the scope a beeping dot...he frowns, hits a switch.
+</DIRECTION>
+<Sleepy_Klingon>
+<DIRECTION>
+(Subtitled Klingon)
+</DIRECTION>
+	<DIALOGUE>
+	What ship is that? Over....
+	</DIALOGUE>
+</Sleepy_Klingon>
+<DIRECTION>
+An interminable pause. Now a Second Klingon sit next to the first. What's going on?
+</DIRECTION>
+<Voice_filtered>
+<DIRECTION>
+(Subtitled Klingon)
+</DIRECTION>
+	<DIALOGUE>
+	We art thy freighter...Ursva. Six weeks out of ....Kronos....Over.....
+	</DIALOGUE>
+</Voice_filtered>
+<Second_Klingon>
+<DIRECTION>
+(Subtitled Klingon)
+</DIRECTION>
+	<DIALOGUE>
+	Whither are you bound, over....
+	</DIALOGUE>
+</Second_Klingon>
+<DIRECTION>
+Another long pause. They squint at the delay.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise Bridge.
+</DIRECTION>
+<DIRECTION>
+Uhura and company are frantically paging throught old Klingon glossaries, manuals and dictionaries.
+</DIRECTION>
+<Uhura>
+<DIRECTION>
+(Subtitled Klingon)
+</DIRECTION>
+	<DIALOGUE>
+	We art delivering food....things and ....supplies to Rura Penthe.... over.....
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+Pause....
+</DIRECTION>
+<Klingon_voice_filtered>
+<DIRECTION>
+(Subtitled)
+</DIRECTION>
+	<DIALOGUE>
+	Don't catch any bugs!
+	</DIALOGUE>
+</Klingon_voice_filtered>
+<DIRECTION>
+The voice laughs raucously. Spock gestures. Uhura returns the laugh....over and out. They look at each other.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Was that so bad?
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+EXT. Rura Penthe ice desert - Dusk
+</DIRECTION>
+<DIRECTION>
+The three cold suns are setting.
+</DIRECTION>
+<DIRECTION>
+The brute, Kirk and McCoy stumble and crawl across the ice. They, especially McCoy, are more dead than alive. As they pull themselves along, it becomes darker....
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Jim, leave me, I'm finished....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	No way.
+	</DIALOGUE>
+<DIRECTION>
+(off McCoy's look)
+</DIRECTION>
+	<DIALOGUE>
+	You see this?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He displays a stain on the back of his ragged coat.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	It's the viridition patch Spock slapped on my back right before we went aboard Gorkon's ship.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+<DIRECTION>
+(faint)
+</DIRECTION>
+	<DIALOGUE>
+	The cunning little Vulcan.....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Once we're beyond the shield, they should be able to pick it up two sectors away!
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	If they're even looking for us....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Spock's looking for us....
+	</DIALOGUE>
+</Kirk>
+<Martia_s_voice>
+<DIRECTION>
+(points to a ridge)
+</DIRECTION>
+	<DIALOGUE>
+	We're almost there. Once we're outside, we'll make camp.
+	</DIALOGUE>
+</Martia_s_voice>
+<DIRECTION>
+Later - EXT. ice desert ridge - night.
+</DIRECTION>
+<DIRECTION>
+The ridge in darkness. They arrive. exhausted.
+</DIRECTION>
+<DIRECTION>
+The brute takes a stick out of its clothes, breaks it in half. It glows brightly like a neon flare. He tosses it in the middle of the area and if forms a kind of fire, throwing shadows all around. Otherwise it's dark. There is some heat.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Would you mind explaing that little trick you do?
+	</DIALOGUE>
+</McCoy>
+<Martia_s_voice>
+	<DIALOGUE>
+	I'm a Chameloid. That's why we're such good smugglers.
+	</DIALOGUE>
+</Martia_s_voice>
+<Kirk>
+	<DIALOGUE>
+	I've heard of Chameloids, "shape-shifters", I thought you were mythical.
+	</DIALOGUE>
+</Kirk>
+<Martia_s_voice>
+	<DIALOGUE>
+	Give a girl a chance, Captain.
+	</DIALOGUE>
+</Martia_s_voice>
+<DIRECTION>
+The brute smiles at him.
+</DIRECTION>
+<DIRECTION>
+And before his eyes, becomes the enticing Martia again
+</DIRECTION>
+<Martia>
+	<DIALOGUE>
+	It takes a lot of effort.
+	</DIALOGUE>
+</Martia>
+<McCoy>
+	<DIALOGUE>
+	I don't wonder. Stop me if I'm wrong, but do we really have any way of knowing if this is the real you?
+	</DIALOGUE>
+</McCoy>
+<Martia>
+<DIRECTION>
+(smiles at Kirk)
+</DIRECTION>
+	<DIALOGUE>
+	I thought I would assume a pleasing shape.
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	We're outside the shield. Now it's your turn, Kirk.
+	</DIALOGUE>
+</Martia>
+<Kirk>
+	<DIALOGUE>
+	If you say so.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Wham! He slugs Martia on the jaw, she goes down, her mouth running green blood.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	ARE YOU CRAZY?
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	She didn't need our help getting anywhere....where did she get these convenient clothes? And don't tell me that flare is standard prison issue.....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Martia sits, rubbing her mouth....and changing
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	It's to let them know where we are. Ask her what she's getting in return.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The brute gets up, rubbing his bleeding mouth, now the blood is blue!
+</DIRECTION>
+<Martia_s_voice>
+	<DIALOGUE>
+	A full pardon - which doesn't cover this....
+	</DIALOGUE>
+</Martia_s_voice>
+<McCoy>
+	<DIALOGUE>
+	uh oh!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Kirk and the brute circle each other, Kirk's chains clanking.....
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	An accident wasn't good enough....
+	</DIALOGUE>
+</Kirk>
+<Martia_s_voice>
+	<DIALOGUE>
+	Good enough for one. Two would look suspicious. Killed while attempting escape, now that's convincing for both!
+	</DIALOGUE>
+</Martia_s_voice>
+<DIRECTION>
+The fight is on. Problem is, Martia keeps changing shapes...Kirk grabs him, holds him tight...
+</DIRECTION>
+<DIRECTION>
+And he wriggles free as a miniature person...tries to run off, but McCoy grabs it, and they fall rolling in the snow....
+</DIRECTION>
+<DIRECTION>
+It comes up an exact copy of James T. Kirk!
+</DIRECTION>
+<Martia_s_voice>
+	<DIALOGUE>
+	Surprise!
+	</DIALOGUE>
+</Martia_s_voice>
+<DIRECTION>
+He smashes McCoy and leaps to face his double...
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Your friends are late....
+	</DIALOGUE>
+</Kirk>
+<Martia_s_voice>
+	<DIALOGUE>
+	They'll be here.....
+	</DIALOGUE>
+</Martia_s_voice>
+<DIRECTION>
+More fighting between Kirk and "Kirk", they clinch.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	I can't believe I kissed you.
+	</DIALOGUE>
+</Kirk>
+<Kirk>
+	<DIALOGUE>
+	Must have been your lifelong ambition!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The fight goes on!
+</DIRECTION>
+<DIRECTION>
+INT. Officer's mess, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+Deserted. Scotty, exhausted, is quietly having a cup of coffee and checking off places searched on a table map.
+</DIRECTION>
+<DIRECTION>
+He runs a finger around his collar. It's warm in here.
+</DIRECTION>
+<DIRECTION>
+Perplexed, he puts his hand over the vent. Nothing coming out. Something's blocking it.
+</DIRECTION>
+<DIRECTION>
+Scotty commences to remove the vent cover. Not easy.
+</DIRECTION>
+<DIRECTION>
+As he continues his efforts, he is unaware of the two crewmen we met the night of the banquet, watching. They remain concealed, pull knives....one wants to go for scotty. The other holds him back.
+</DIRECTION>
+<DIRECTION>
+Scotty removes the vent cover and pulls out what's been blocking the air circulation: two violet-stained Starfleet uniforms, with names on them....
+</DIRECTION>
+<DIRECTION>
+Excited by his discovery, Scotty looks around, replaces the vent cover, and hurries out with the uniforms.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise corridors
+</DIRECTION>
+<DIRECTION>
+The crewmen follow surreptitiously, camer tracking after Scotty through the labyrinthine corridors...
+</DIRECTION>
+<DIRECTION>
+Ext Rura Penthe campsite - Night
+</DIRECTION>
+<DIRECTION>
+The two kirks are still slugging it out as McCoy starts to come around.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Isn't it about time you became something else?
+	</DIALOGUE>
+</Kirk>
+<Martia_s_voice>
+	<DIALOGUE>
+	I like it here....
+	</DIALOGUE>
+<DIRECTION>
+Gripping each other, they roll right into
+</DIRECTION>
+<DIRECTION>
+A large and terrifying muzzle. A jackal-mastiff on a leash.
+</DIRECTION>
+<DIRECTION>
+Both Kirks spring apart...
+</DIRECTION>
+<DIRECTION>
+They are surrounded by a dozen fur garbed Klingon guards with weapons. Several have leashed jackal- mastiffs. And the commandant, who walks forward.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(thinks fast)
+</DIRECTION>
+	<DIALOGUE>
+	What took you so long?
+	</DIALOGUE>
+</Kirk>
+<Martia_s_voice>
+	<DIALOGUE>
+	Kill him! He's the one!!
+	</DIALOGUE>
+</Martia_s_voice>
+<Kirk>
+	<DIALOGUE>
+	Not me, idiot....HIM!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+The Commandant appears briefly confused, then zaps the fake Kirk, who dies horribly, as McCoy watches. Kirk sighs.
+</DIRECTION>
+<Commandant>
+<DIRECTION>
+(smiles)
+</DIRECTION>
+	<DIALOGUE>
+	No witnesses....
+	</DIALOGUE>
+</Commandant>
+<DIRECTION>
+He aims at Kirk and McCoy.
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(conversational)
+</DIRECTION>
+	<DIALOGUE>
+	Damned clever, if you ask me....
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+<DIRECTION>
+(agrees)
+</DIRECTION>
+	<DIALOGUE>
+	Killed trying to escape...it's a classic...
+	</DIALOGUE>
+</Kirk>
+<Commandant>
+	<DIALOGUE>
+	That's what he wanted....
+	</DIALOGUE>
+</Commandant>
+<Kirk>
+	<DIALOGUE>
+	Who? Who wants us killed?
+	</DIALOGUE>
+</Kirk>
+<Commandant>
+	<DIALOGUE>
+	Why not tell you? His name is.....
+	</DIALOGUE>
+</Commandant>
+<DIRECTION>
+Suddenly Kirk and McCoy dematerialize!
+</DIRECTION>
+<Kirk_s_voice_fading>
+	<DIALOGUE>
+	SONOVABITCH!!
+	</DIALOGUE>
+</Kirk_s_voice_fading>
+<DIRECTION>
+As the Klingons rake the area with disruptor fire!
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise transporter room
+</DIRECTION>
+<DIRECTION>
+Kirk and McCoy rematerialize to where Spock and Chekov await them, with heavy weather blankets, which they don gratefully. They look scarcely recognizable. Spock and Chekov are appalled.
+</DIRECTION>
+<Kirk_s_rising>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Dammit! Dammit all to hell!!! Jesus Christ, couldn't you wait two seconds before.....
+	</DIALOGUE>
+</Kirk_s_rising>
+<DIRECTION>
+Chekov produces a phaser and burns open their chains. Spock is deeply moved to see Kirk again, though Kirk is too busy swearing as his chains are cut off to notice....
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Captain?
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	He was just about to explain the whole damned.....
+	</DIALOGUE>
+</Kirk>
+<Uhura>
+	<DIALOGUE>
+	Who?
+	</DIALOGUE>
+</Uhura>
+<Chekov>
+	<DIALOGUE>
+	You want to go back...?
+	</DIALOGUE>
+</Chekov>
+<McCoy>
+<DIRECTION>
+(hasty)
+</DIRECTION>
+	<DIALOGUE>
+	ABSOLUTELY NOT!!!
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Come on.....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+They start out at warp speed.
+</DIRECTION>
+<DIRECTION>
+INT. Bird of Prey bridge.
+</DIRECTION>
+<DIRECTION>
+CU, back of a Kligon head. Klingon is spoken.
+</DIRECTION>
+<Voice>
+	<DIALOGUE>
+	Escaped?
+	</DIALOGUE>
+</Voice>
+<DIRECTION>
+He's talking to the Prison Commandant onscreen.
+</DIRECTION>
+<Commandant>
+	<DIALOGUE>
+	They were beamed aboard a Federation Starship!! I could trace....
+	</DIALOGUE>
+</Commandant>
+<DIRECTION>
+The Klingon hits a button, and the Commandant disappears. The chair swivels revealing Chang.
+</DIRECTION>
+<DIRECTION>
+He faces the 2nd Klingon General we met in Azetbur's office (Sc. 68)
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	Escaped.
+	</DIALOGUE>
+</Chang>
+<Second_Klingon_General>
+	<DIALOGUE>
+	It does not matter. Kirk cannot know the location.
+	</DIALOGUE>
+</Second_Klingon_General>
+<Chang>
+<DIRECTION>
+(softly)
+</DIRECTION>
+	<DIALOGUE>
+	Are you sure? Are you willing to take that change?
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+The General hesitates, decides.
+</DIRECTION>
+<Second_Klingon_General>
+	<DIALOGUE>
+	Helmsman, new course! Engage cloaking device!
+	</DIALOGUE>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+The Bird of Prey wheels about, disappearing...!
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise corridor
+</DIRECTION>
+<DIRECTION>
+Kirk, Spock, et al, walk briskly.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	The Klingons have a new weapon: a Bird of Prey that can fire while cloaked. She torpedoed Gorkon's ship.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	So that's it!!!
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	Not entirely. I have reason to believe Gorkon's murderers are on this vessel.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	You don't know how right you are...has hte peace conference begun?
+	</DIALOGUE>
+</Kirk>
+<Chekov>
+	<DIALOGUE>
+	Who knows? They are keeping the location secret....
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+Kirk never breaks his stride.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	There's always something.....!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Scotty runs up, carrying the bloodstained uniforms.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	Captain...! Mr. Spock, I've found the missing uniforms with Klingon blood on them! They belong to....
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+They round the corner and all stop short.
+</DIRECTION>
+<DIRECTION>
+Their POV
+</DIRECTION>
+<DIRECTION>
+The two crewmen who were stalking Scotty lie dead. McCoy kneels, conducting a hasty examination.
+</DIRECTION>
+<Scotty>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	But...the uniforms...they belong to these men!!
+	</DIALOGUE>
+<DIRECTION>
+(checks the names)
+</DIRECTION>
+	<DIALOGUE>
+	Burke and Samno!
+	</DIALOGUE>
+</Scotty>
+<McCoy>
+	<DIALOGUE>
+	Not any more. Phaser fire on "stun". At close range.
+	</DIALOGUE>
+</McCoy>
+<Chekov>
+	<DIALOGUE>
+	Get close enough to a man, and you can kill him on "stun" without setting off the alarm, of course you can't get rid of the body.....
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	First rule of assassination: always kill the assassins.
+	</DIALOGUE>
+</Kirk>
+<Scotty>
+	<DIALOGUE>
+	Now we are back to square one!
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+Kirk looks at Spock meaningfully.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Can I talk to you?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+As they watch, Kirk and Spock move down the corridor and confer in an undertone.
+</DIRECTION>
+<DIRECTION>
+CU Spock
+</DIRECTION>
+<DIRECTION>
+pulls back
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(white)
+</DIRECTION>
+	<DIALOGUE>
+	I knew it!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+CU PA speaker
+</DIRECTION>
+<PA_voice_over>
+	<DIALOGUE>
+	Attention: Court recorder to sick bay. Yeomen Burke and Samno have been shot and wish to make statements. CODE BLUE URGENT! Deposition required at once for Yeomen Burke and Samno. Wounds are serious. Court recorder to sick bay on the double.
+	</DIALOGUE>
+</PA_voice_over>
+<DIRECTION>
+Various angles
+</DIRECTION>
+<DIRECTION>
+Crew reacting all over the ship...to various PA's...
+</DIRECTION>
+<DIRECTION>
+INT. Sick bay
+</DIRECTION>
+<DIRECTION>
+All the lights are out. A figure enters, looks around.
+</DIRECTION>
+<DIRECTION>
+Figure's POV
+</DIRECTION>
+<DIRECTION>
+Two bodies stretched out in darkness....
+</DIRECTION>
+<DIRECTION>
+The figure approaches the first body, looks down. Suddenly the light goes on, revealing Spock
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	I couldn't believe it was you!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Lt. Valeris
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	You have to shoot.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+She reacts.
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	If you are logical.
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	I don't want to.
+	</DIALOGUE>
+</Lt_Valeris>
+<Spock>
+	<DIALOGUE>
+	I believe You. Please.....
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+She produces a phaser. The other body sits up: Kirk.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	I'd just as soon you didn't
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Lt. Valeris reacts. McCoy moves out of the shadows, arms folded.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	The operation is over
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<DIRECTION>
+CU Kirk
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Let's not waste time, Lieutenant. Name your co-conspirators and give us the location of the peace conference. In exchange, I'll retain the murder charge, and drop the rest of the specifications. Commander Uhura, make a record of everything said by the prisoner.
+	</DIALOGUE>
+<Uhura>
+	<DIALOGUE>
+	Aye, Sir.
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+Widen to reveal
+</DIRECTION>
+<DIRECTION>
+Lt. Valeris under guard.
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	You cannot prove anything
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Yes I can. At my trial, my personal log was introduced as evidence against me.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Quick flash back to scene 32
+</DIRECTION>
+<DIRECTION>
+Lt. Valeris waiting outside Kirk's cabin.
+</DIRECTION>
+<Kirk_s_voice_over>
+	<DIALOGUE>
+	How long did you stand outside my quarters before you coughed, Lt.?
+	</DIALOGUE>
+</Kirk_s_voice_over>
+<DIRECTION>
+Back to scene
+</DIRECTION>
+<DIRECTION>
+Lt. Valeris trapped, turns to Spock
+</DIRECTION>
+<Lt_Valeris>
+	<DIALOGUE>
+	You knew?
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Spock says nothing.
+</DIRECTION>
+<Lt_Valeris>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I tried to tell you....you wouldn't listen.
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Spock is in as much pain as we will ever see.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Neither of us was hearing very well that night, Lieutenant. There were things I tried to tell you, about faith.
+	</DIALOGUE>
+</Spock>
+<Lt_Valeris>
+	<DIALOGUE>
+	You have betrayed the Federation - all of you.
+	</DIALOGUE>
+</Lt_Valeris>
+<McCoy>
+	<DIALOGUE>
+	What do you think YOU'VE been doing?
+	</DIALOGUE>
+</McCoy>
+<Lt_Valeris>
+	<DIALOGUE>
+	Saving Starfleet. Klingons cannot be trusted, Sir, you said so yourself. They killed your son. You would make peace with them? Did you not wish Gorkon dead? "Let them die" you said. Did I misinterpret you?
+	</DIALOGUE>
+</Lt_Valeris>
+<DIRECTION>
+Kirk cannot look at her.
+</DIRECTION>
+<Lt_Valeris>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	And you were right, they conspired with us to assassinate their own Chancellor! How trustworthy can they be?
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Who is "us"?
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Everyone who stands to lose from peace. The universe was a well-ordered place. We all knew our roles. Why change that?
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	NAMES, Lieutenant....!
+	</DIALOGUE>
+</Kirk>
+<Uhura>
+	<DIALOGUE>
+	I can send a message to Starfleet Command.
+	</DIALOGUE>
+</Uhura>
+<Lt_Valeris>
+	<DIALOGUE>
+	Unlikely. Enterprise has dispobeyed orders and harbors two escaped convicts. All your subspace transmissions will be jammed.
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	Spock.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock approaches and puts a hand on Lt. Valeris' face the mind meld. She tries to avoid it. Spock concentrates
+</DIRECTION>
+<Spock>
+<DIRECTION>
+(finally)
+</DIRECTION>
+	<DIALOGUE>
+	Admiral Donald.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Quick flashback to scene 23
+</DIRECTION>
+<Admiral_Donald>
+	<DIALOGUE>
+	....To offer the Klingons a safe haven within Federation space is suicide.
+	</DIALOGUE>
+</Admiral_Donald>
+<DIRECTION>
+Back to scene
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	From Starfleet??
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	Who else...
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock concentrates.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	General Chang...
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Quick flashback to scene 43
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	....In space, all warriors are cold warriors....
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+Back to scene
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	Gorkon's own man??
+	</DIALOGUE>
+</Uhura>
+<Kirk>
+	<DIALOGUE>
+	Who else?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+<DIRECTION>
+(concentrating)
+</DIRECTION>
+	<DIALOGUE>
+	The Romulan Ambassador...Nanclus.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Quick flashback to scene 63
+</DIRECTION>
+<Nanclus>
+	<DIALOGUE>
+	Mr. President, they ARE vulnerable.
+	</DIALOGUE>
+</Nanclus>
+<DIRECTION>
+Back to scene
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	This is incredible!
+	</DIALOGUE>
+</Scotty>
+<McCoy>
+	<DIALOGUE>
+	Is she telling us that Klingons, and Federation members are conspiring TOGETHER....?
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+<DIRECTION>
+(to Spock)
+</DIRECTION>
+	<DIALOGUE>
+	Where is the conference?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock tries again. Shakes his head. Removes his hand.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	She doesn't know.
+	</DIALOGUE>
+</Spock>
+<Scotty>
+	<DIALOGUE>
+	Then we're dead!
+	</DIALOGUE>
+</Scotty>
+<Spock>
+<DIRECTION>
+(to Lt. Valeris)
+</DIRECTION>
+	<DIALOGUE>
+	I've been dead before. Uhura, raise Excelsior. She ought to have the co-ordinates.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Why would they give them to us?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	The Commander is an old friend of yours!
+	</DIALOGUE>
+</Spock>
+<McCoy>
+<DIRECTION>
+(can't resist)
+</DIRECTION>
+	<DIALOGUE>
+	What was it like - being dead?
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Spock, lost in thought, doesn't answer.
+</DIRECTION>
+<Sulu>
+<DIRECTION>
+(O.S.)
+</DIRECTION>
+	<DIALOGUE>
+	This is Captain Sulu, U.S.S. Excelsior.
+	</DIALOGUE>
+</Sulu>
+<Kirk>
+	<DIALOGUE>
+	SULU!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Main Bridge, U.S.S. Excelsior
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Standing by, Captain Kirk.
+	</DIALOGUE>
+</Sulu>
+<Kirk>
+	<DIALOGUE>
+	You understand that by even talking to us, you're violating regulations, Captain.
+	</DIALOGUE>
+</Kirk>
+<Sulu>
+	<DIALOGUE>
+	I'm sorry, Captain, your message is breaking up.
+	</DIALOGUE>
+</Sulu>
+<Kirk>
+<DIRECTION>
+(under his breath)
+</DIRECTION>
+	<DIALOGUE>
+	Bless you, Sulu
+	</DIALOGUE>
+<DIRECTION>
+(aloud)
+</DIRECTION>
+	<DIALOGUE>
+	Where's the peace conference? They're going to attempt another assasination.
+	</DIALOGUE>
+</Kirk>
+<Sulu>
+	<DIALOGUE>
+	The Conference is at Camp Khitomer, near the Romulan border. I'm sending the exact co-ordinates on a coded frequency.
+	</DIALOGUE>
+</Sulu>
+<Kirk>
+	<DIALOGUE>
+	I'm afraid we may need more than that. There's a Bird of Prey on the lookout for us. And she can fire while she's cloaked.
+	</DIALOGUE>
+</Kirk>
+<Sulu>
+	<DIALOGUE>
+	Surely not!
+	</DIALOGUE>
+</Sulu>
+<Kirk>
+	<DIALOGUE>
+	I'm telling you. Hang on.
+	</DIALOGUE>
+<DIRECTION>
+(to Lt. Valeris)
+</DIRECTION>
+	<DIALOGUE>
+	How many of those things are there? Come on, Lieutenant, you want any more of your brain drained?
+	</DIALOGUE>
+</Kirk>
+<Lt_Valeris>
+	<DIALOGUE>
+	Just one prototype
+	</DIALOGUE>
+</Lt_Valeris>
+<Kirk>
+	<DIALOGUE>
+	You hear that?
+	</DIALOGUE>
+</Kirk>
+<Sulu>
+	<DIALOGUE>
+	I'm getting underway now. But, I'm now in Alpha Quadrant. The chances of my reaching the conference in time are slim.
+	</DIALOGUE>
+</Sulu>
+<Kirk>
+	<DIALOGUE>
+	When does this conference start?
+	</DIALOGUE>
+</Kirk>
+<Sulu>
+	<DIALOGUE>
+	According to my information, today!
+	</DIALOGUE>
+</Sulu>
+<Kirk>
+	<DIALOGUE>
+	Thank you, Captain Sulu
+	</DIALOGUE>
+</Kirk>
+<Sulu>
+	<DIALOGUE>
+	Don't mention it, Captain Kirk.
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+Sulu hangs up. Finds himself facing his 1st officer
+</DIRECTION>
+<First_officer>
+	<DIALOGUE>
+	Sir...! You realize you've just committed treason?
+	</DIALOGUE>
+</First_officer>
+<DIRECTION>
+Sulu puts his feet up on the console....
+</DIRECTION>
+<Sulu>
+<DIRECTION>
+(serene)
+</DIRECTION>
+	<DIALOGUE>
+	To be candid, I always hoped that if the choice ever came down to betraying my country, or betraying my friend, I'd have the guts to betray my country. Warp nine, Mister!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Excelsior explodes across the starfield.
+</DIRECTION>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+From a different direction, Enterprise ditto.
+</DIRECTION>
+<DIRECTION>
+INT. Spock's Quarters
+</DIRECTION>
+<DIRECTION>
+The lights are dim as Kirk knocks. He has shaved, showered, and put on a fresh uniform.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Spock?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+No answer. Kirk makes to hit the switch.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	I'd prefer it dark.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Fair enough. Kirk enters.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Are you dining on worms?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+<DIRECTION>
+(finally)
+</DIRECTION>
+	<DIALOGUE>
+	You were right. It was arrogant presumption that got us into this situation. You might have died.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	The night is young. Anyway, it was logical.
+	</DIALOGUE>
+<DIRECTION>
+(he must feel his way)
+</DIRECTION>
+	<DIALOGUE>
+	You know, you're a great one for logic. I'm a great one for....
+	</DIALOGUE>
+<DIRECTION>
+(shrugs)
+</DIRECTION>
+	<DIALOGUE>
+	...rushing in where angels fear to tread. We're both extremists. Reality is probably somewhere in between us.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock says nothing. Kirk runs a finger over dust.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	I was blind. I couldn't see past the death of my son. I couldn't trust.
+	</DIALOGUE>
+</Kirk>
+<Spock>
+<DIRECTION>
+(sighs)
+</DIRECTION>
+	<DIALOGUE>
+	I, too was blind. I knew about HER - and I did nothing. I trusted too much.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	You couldn't have known she was listening the night I dictated that entry into my log. You were proud of her achievements as a Vulcan....
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	I was prejudiced by those achievements.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+<DIRECTION>
+(understands)
+</DIRECTION>
+	<DIALOGUE>
+	Gorkon had to die before I understood just how prejudiced I was......
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock looks at him for the first time.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Can we two have grown so old and inflexible that we have outlived our usefulness?
+	</DIALOGUE>
+<DIRECTION>
+(looks at Kirk)
+</DIRECTION>
+	<DIALOGUE>
+	Would that constitute as a joke?
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Someone said the difference between comic and cosmic is the letter "S". You haven't outlived your usefulness to me. And you are not responsible just because she is also Vulcan!
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	I should have been....
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Not for the actions of another. No one is responsible for any actions but his own. Human beings....
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	But I am not human. I am only...
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Spock, you want to know something?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock looks at him. Kirk kneels next to him.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Everyone's human. We're too old to play games. We're only human.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He holds out his hand. After hesitating, Spock takes it, presses it to his forehead. Hard. Harder.
+</DIRECTION>
+<DIRECTION>
+EXT. Camp Khitomer, Romula - Day
+</DIRECTION>
+<DIRECTION>
+The idyllic site of the Peace Coference. Lush green. A huge building on the horizon from within which we can hear music. Outside, masses of people and flags.... (Matte Painting)
+</DIRECTION>
+<DIRECTION>
+INT. Camp Khitomer - Day
+</DIRECTION>
+<DIRECTION>
+Inside huge #1 pod doors opening, revealing the council chamber.
+</DIRECTION>
+<DIRECTION>
+Very loud music as we follow the Federation Delegation (green), lead my Admiral Donald, into the room. Reverse on #2 pod doors opening, as Sarek leads the Vulcan Delegation (yellow) in as they take their places....
+</DIRECTION>
+<DIRECTION>
+INT. Bridge. U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+Everyone at their stations. Kirk in the Captain's chair.
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	Captain, when we get to Camp Khitomer, how will we defend ourselves? I mean, if this new Bird of Prey can fire while she is invisible.....?
+	</DIALOGUE>
+</Chekov>
+<McCoy>
+	<DIALOGUE>
+	Now there's a poser.
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Kirk and Spock exchange looks.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	I do not think anxiety is called for.
+	</DIALOGUE>
+<DIRECTION>
+(off their looks)
+</DIRECTION>
+	<DIALOGUE>
+	According to my calculations, we have another five minutes and twenty-two seconds to resolve this dilemma.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Space
+</DIRECTION>
+<DIRECTION>
+Enterprise thunders by at warp nine.
+</DIRECTION>
+<DIRECTION>
+INT. Camp Khitomer conference site - Day
+</DIRECTION>
+<DIRECTION>
+More of the opening ceremonies.
+</DIRECTION>
+<DIRECTION>
+Camera pans to reveal pod #3 with the Klingon delegation (brown) lead by their ambassador and pod #4, Earth (green) delegation emerging and taking their places.....the Klingon and UFP Presidents, complete with advisers, retinues, entourages and attendants. Flags are everywhere....
+</DIRECTION>
+<DIRECTION>
+Among them is Colonel Worf, Brigadier Kerla, Admiral Donald, the Munitions businessman, and a Klingon face we haven't seen before.....
+</DIRECTION>
+<DIRECTION>
+The music thunders to a halt. The place looks like the UN security council + the Olympics. All color coded...
+</DIRECTION>
+<UFP_President>
+	<DIALOGUE>
+	Madam Chancellor, members of the diplomatic corps, honorer guests: the United Federation of Planets welcomes you to Camp Khitomer. Now that we are assembled, I move we conclude these ceremonies and get down to business. Madam Chancellor?
+	</DIALOGUE>
+</UFP_President>
+<Azetbur>
+	<DIALOGUE>
+	Agreed.
+	</DIALOGUE>
+</Azetbur>
+<DIRECTION>
+Applause!
+</DIRECTION>
+<DIRECTION>
+During the above, we catch the expressions on the faces of the various conspirators - uneasy. Other faces.... ...which one? EXT. Enterprise
+</DIRECTION>
+<DIRECTION>
+Screeches out of warp nine and cruises slowly. stalking......
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+On the main visual display, a starfield. Kirk studies it, walks over to where Spock views his sonar. Kirk looks over his shoulder. Spock is studying it intently.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Close enough to beam down?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	Not yet.....Section 4236.....
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Nothing on the scanner.
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Section 4237.....
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Nothing. There's a lot of tension on the bridge.
+</DIRECTION>
+<DIRECTION>
+INT. Camp Khitomer conference site - day
+</DIRECTION>
+<DIRECTION>
+The pod doors are closed, and the delegations seated.
+</DIRECTION>
+<UFP_President>
+	<DIALOGUE>
+	We are gathered here today in high hopes, believing that differing civilizations of good will can work together to overcome intolerance. We believe that with understanding, and patience, it will be possible to resolve what separates us. Let us redefine progress to mean that just because we can do a thing, it does not necessarily follow that we must do that thing!
+	</DIALOGUE>
+</UFP_President>
+<DIRECTION>
+Applause.
+</DIRECTION>
+<UFP_President>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	We believe that the responsibility for destiny rests squarely on our own shoulders.....
+	</DIALOGUE>
+</UFP_President>
+<DIRECTION>
+There's that Klingon face again, looking around. He's carrying some sort of suitcase..... INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	She's here....somewhere.
+	</DIALOGUE>
+</Kirk>
+<Chekov>
+	<DIALOGUE>
+	But if she's cloaked....?
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	Then all we've got is a neutron radiation surge...and by the time we're close enough to record it, we're ashes....
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	Captain, perhaps we're going about this the wrong way! Our job is to get to the conference. Her job will be to stop us.
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Make ourselves a target?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Spock looks at him.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	Shields. Battle stations.
+	</DIALOGUE>
+</Kirk>
+<Chekov>
+<DIRECTION>
+(reads the display)
+</DIRECTION>
+	<DIALOGUE>
+	Shields up. Battle stations.
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+They are bathed in emergency red light. Alarms sound.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Mr. Chekov, take us forward, thrusters only, one half impulse power.....
+	</DIALOGUE>
+</Kirk>
+<Chekov>
+	<DIALOGUE>
+	Aye, sir; thrusters.....
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+It feels like walking on eggs.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Uhura?
+	</DIALOGUE>
+</Kirk>
+<Uhura>
+	<DIALOGUE>
+	Nothing, Captain. If they're here, they're rigged for silent running.
+	</DIALOGUE>
+</Uhura>
+<Spock>
+	<DIALOGUE>
+	If she fires, she has a perfectly valid excuse. We're a renegade ship, coming dangerously close to two heads of state during a vital interstellar conference.....
+	</DIALOGUE>
+</Spock>
+<McCoy>
+	<DIALOGUE>
+	Thanks for sharing that, Spock.
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+Dead slilence, then a crash of noise!
+</DIRECTION>
+<DIRECTION>
+INT. Camp Khitomer conference site - day
+</DIRECTION>
+<DIRECTION>
+Applause for the President's sppech! Now Chancellor Azetbur rises to make her opening remarks.
+</DIRECTION>
+<DIRECTION>
+The Klingon face makes eye contact with Admiral Donald who nods discreetly. The suitcase starts moving....
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise, Engine room, Etc.
+</DIRECTION>
+<DIRECTION>
+as before. Closeups on various faces, sweating...
+</DIRECTION>
+<DIRECTION>
+Suddenly an explosion! The ship shudders, hit! Claxons!
+</DIRECTION>
+<DIRECTION>
+EXT. view of Enterprise, widen to reveal
+</DIRECTION>
+<DIRECTION>
+INT. cloaded Bird of Prey
+</DIRECTION>
+<DIRECTION>
+Featuring the Enterprise onscreen. They are rigged for silent runnig - no one is making a sound.
+</DIRECTION>
+<DIRECTION>
+Their bridge is bathed in green light.....
+</DIRECTION>
+<DIRECTION>
+Chang stands next to the gunner.
+</DIRECTION>
+<DIRECTION>
+He points towards Enterprise, nudges the man, who nods, hits controls.....
+</DIRECTION>
+<DIRECTION>
+Another torpedo sails off, and explodes against the shields of the Enterprise...
+</DIRECTION>
+<DIRECTION>
+INT. Entprise bridge.
+</DIRECTION>
+<DIRECTION>
+Kirk and his crew grab ahold of things, tight lipped...
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	This is fun...
+	</DIALOGUE>
+</McCoy>
+<Chekov>
+	<DIALOGUE>
+	Captain, shall we attempt to return fire?
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+	<DIALOGUE>
+	At what, Mr. Chekov?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Wham! Hit again. Everyone goes flying....
+</DIRECTION>
+<DIRECTION>
+Instinctively, Kirk looks at the main display - sees nothing.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Scotty, reverse engines. All astern one half impulse power. Back off. Back off!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+The battered Enterprise reversed field, backing away from nothing.
+</DIRECTION>
+<DIRECTION>
+INT. Bird of Prey bridge
+</DIRECTION>
+<Chang>
+<DIRECTION>
+(watching this maneuver)
+</DIRECTION>
+	<DIALOGUE>
+	What's she doing?
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+The helmsman shrugs. Chang nudges him to follow....
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise bridge
+</DIRECTION>
+<DIRECTION>
+The empty starfield
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	What's she waiting for?
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	Probably trying to figure out why we're reversing, wondering if we detect her.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+On the main visual display, where everyone's attention is riveted. A flare from black space.
+</DIRECTION>
+<Chekov>
+	<DIALOGUE>
+	Incoming!
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+INT. Engine room
+</DIRECTION>
+<DIRECTION>
+The "Shield" lights flicker as the room recoils....
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	She canna take much more of this, Captain....
+	</DIALOGUE>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<DIRECTION>
+Close on Kirk
+</DIRECTION>
+<DIRECTION>
+Reacting. Don't I know it.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Sulu, where the hell are you?
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Excelsior warping as fast as she can.....
+</DIRECTION>
+<DIRECTION>
+INT. Excelsior bridge, SHAAAAKKKINNNNG
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	In range?
+	</DIALOGUE>
+</Sulu>
+<Helmsman>
+	<DIALOGUE>
+	Not yet, Captain...
+	</DIALOGUE>
+</Helmsman>
+<Sulu>
+	<DIALOGUE>
+	Come on, come on....!
+	</DIALOGUE>
+</Sulu>
+<Helmsman>
+	<DIALOGUE>
+	She'll fly apart....!
+	</DIALOGUE>
+</Helmsman>
+<Sulu>
+	<DIALOGUE>
+	Fly her apart, then!!!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+INT. Camp Khitomer conference site - Day
+</DIRECTION>
+<Azetbur>
+	<DIALOGUE>
+	....Many people speculated about my father's motives. There were those who said he was an idealist, driven by "visionary" notions; others said he had no choice, that he was a pragmatic technocrat, making the best of a devastating situation. Great men are seldom good men. the truth is, my father was both: a pragmatist and an idealist. If Praxis had not exploded, then quite possibly his idealism would not have found expression. Nor would mine. We are a proud race. We are here because we intend to go on being proud....
+	</DIALOGUE>
+<DIRECTION>
+(grim)
+</DIRECTION>
+	<DIALOGUE>
+	....if we cannot make war,
+	</DIALOGUE>
+<DIRECTION>
+(pause)
+</DIRECTION>
+	<DIALOGUE>
+	....we will make peace....
+	</DIALOGUE>
+</Azetbur>
+<DIRECTION>
+CU the suitcase on the move through people listening...
+</DIRECTION>
+<DIRECTION>
+INT. Bird of Prey, bridge.
+</DIRECTION>
+<DIRECTION>
+All watching Enterprise. Chang signals and the torpedo officer fires off another one.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise bridge
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Ahead full impulse!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+EXT. space
+</DIRECTION>
+<DIRECTION>
+Enterprise buzzes off! The torpedo misses....
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<DIRECTION>
+Kirk smiles ruefully...score one for the home team.
+</DIRECTION>
+<DIRECTION>
+INT. Bird of Prey Bridge.
+</DIRECTION>
+<DIRECTION>
+Reactions. Chang is startled, then smiles....
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	After her....
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	Poor thing. Doesn't know which way to go.
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+Shakes his head, amused.....
+</DIRECTION>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Enterprise, screaming through the void...followed by another screaming sound in full pursuit....
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	Captain, we can't see her, but she gives off heat.....
+	</DIALOGUE>
+</Uhura>
+<Kirk>
+	<DIALOGUE>
+	Not from a distance. She won't show up on any type of scan.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	Too bad we can't smell her.
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	It's a pity Starships were never equipped with bloodhounds....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Wham! Hit again! Everybody grabs onto something, steam hisses down from the ceiling.....
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	I didn't think Starfleet could have envisioned our current predicament.
+	</DIALOGUE>
+</Spock>
+<Uhura>
+	<DIALOGUE>
+	Maybe we should write them a letter?
+	</DIALOGUE>
+</Uhura>
+<Scotty_s_voice>
+	<DIALOGUE>
+	Better post date it!
+	</DIALOGUE>
+</Scotty_s_voice>
+<DIRECTION>
+Wham! Even harder this time....Spock thinks....
+</DIRECTION>
+<Spock>
+	<DIALOGUE>
+	Under impulse power, she expends fuel like any other ship. We call it "Plasma" - I do not know its Klingon name, but by any designation it is merely ionized gas.
+	</DIALOGUE>
+</Spock>
+<Uhura>
+	<DIALOGUE>
+	Well, what about all that equipment we're carrying to catalogue gaseous anomalies?
+	</DIALOGUE>
+<DIRECTION>
+(beat)
+</DIRECTION>
+	<DIALOGUE>
+	The thing's gotta have a tailpipe.
+	</DIALOGUE>
+</Uhura>
+<DIRECTION>
+They look at each other like she's crazy. Then -
+</DIRECTION>
+<McCoy>
+<DIRECTION>
+(starts out)
+</DIRECTION>
+	<DIALOGUE>
+	I'm going to perform surgery on a torpedo - you never know....
+	</DIALOGUE>
+</McCoy>
+<Spock>
+<DIRECTION>
+(going with him)
+</DIRECTION>
+	<DIALOGUE>
+	You may need assistance, Doctor....
+	</DIALOGUE>
+</Spock>
+<McCoy>
+<DIRECTION>
+(he's been waiting all his life)
+</DIRECTION>
+	<DIALOGUE>
+	Fascinating.....
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+They race out as the ship is hit again.....
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Mr. Chekov, slow down. Take us forward, thrusters only, one quarter impulse power....
+	</DIALOGUE>
+</Kirk>
+<Chekov>
+	<DIALOGUE>
+	Aye, Sir, thrusters.....
+	</DIALOGUE>
+</Chekov>
+<DIRECTION>
+INT. Khitomer conference site - day
+</DIRECTION>
+<DIRECTION>
+Applause for Azetbur's speech. Donald looks around. Sees the face, nods discreetly...the UFP President applauds....he's vulnerable. The face moves off.
+</DIRECTION>
+<DIRECTION>
+Commander in Chief Starfleet rises to speak, blocking the President...
+</DIRECTION>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Enterprise moving slowly, alone. Beat. Wham! hit again.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise corridors, outside the lab
+</DIRECTION>
+<DIRECTION>
+McCoy and Spock emerge with a bulky heat sensor and run down the trembling corridors....
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Bet you wish you'd stood in bed....
+	</DIALOGUE>
+</McCoy>
+<Spock>
+	<DIALOGUE>
+	I see no profit in standing in bed, Doctor - Vulcans sleep lying down.....
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+For a moment McCoy buys it, then, on their backs...
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Spock, that was actually funny.
+	</DIALOGUE>
+</McCoy>
+<Spock>
+	<DIALOGUE>
+	We DO sleep lying down.
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+Wham! They almost fall over.
+</DIRECTION>
+<DIRECTION>
+INT. Engineering, Enterprise
+</DIRECTION>
+<DIRECTION>
+Scotty and his men have obviously felt the impact as well. Some "Shield" lights are blinking off.
+</DIRECTION>
+<Scotty>
+	<DIALOGUE>
+	Captain, she's packing quite a wallop. Shields weakening.
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+EXT. Enterprise
+</DIRECTION>
+<DIRECTION>
+Scarred, trace lines of torpedo visible.
+</DIRECTION>
+<DIRECTION>
+INT. Excelsior Bridge
+</DIRECTION>
+<DIRECTION>
+Sulu, et al, watching.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Shields up. Tell them that the cavalry's here!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+A torpedo flashes out at nothing
+</DIRECTION>
+<DIRECTION>
+INT. Bird of Prey
+</DIRECTION>
+<DIRECTION>
+Chang watches it go by, sees Excelsior as well
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	So!
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+He points to Excelsior, nudges the gunner, who fires.
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Enterprise
+</DIRECTION>
+<DIRECTION>
+They see Excelsior's shields take the torpedo hit.
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Hold us steady, Mr. Scott. Ready to fire...Bones...!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Reactions from the battered crew...
+</DIRECTION>
+<DIRECTION>
+Closeup
+</DIRECTION>
+<DIRECTION>
+a hand opening a case: inside the disassembled parts of a rifle phaser with telescopic mount. We don't know where we are exactly, but we can hear the conference echoing....
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise torpedo bay
+</DIRECTION>
+<DIRECTION>
+McCoy and Spock descend on the torpedo life with a torpedo, frantically trying to drill a hole in its nose to accommodate and atmosphere sensor as the whole bay trembles with the hit.....
+</DIRECTION>
+<Kirk_s_voice_over>
+	<DIALOGUE>
+	Bones, where's my torpedo??
+	</DIALOGUE>
+</Kirk_s_voice_over>
+<McCoy>
+	<DIALOGUE>
+	Me and my big mouth....
+	</DIALOGUE>
+</McCoy>
+<Spock>
+	<DIALOGUE>
+	Calm yourself Doctor, the operation is almost complete....
+	</DIALOGUE>
+</Spock>
+<McCoy>
+<DIRECTION>
+(one final twist)
+</DIRECTION>
+	<DIALOGUE>
+	Thank you, nurse! Jim, she's ready! Lock and load!
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+They jump off the lift, and out of the way as the torpedo starts forward
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	Pity they're retiring us just as I was starting to understand you, Spock!
+	</DIALOGUE>
+</McCoy>
+<Spock>
+<DIRECTION>
+(agreeing)
+</DIRECTION>
+	<DIALOGUE>
+	We were beginning to hit our stride together, Doctor....
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+INT. Engine room
+</DIRECTION>
+<DIRECTION>
+We can see the Shield lights dimming....
+</DIRECTION>
+<Scotty>
+<DIRECTION>
+(frantic)
+</DIRECTION>
+	<DIALOGUE>
+	Shields collapsing.....!
+	</DIALOGUE>
+</Scotty>
+<DIRECTION>
+Even as he speaks, the Bird of Prey, fires at Enterprise. the photon trajectory is clear....
+</DIRECTION>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Enterprise takes another hit.....
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise officers mess
+</DIRECTION>
+<DIRECTION>
+No shields this time! Explodes! WOW! Autotight bulkhead doors close, protecting the vessel from space exposure. Smoke, liquids squirting everywhere... Things tumbling off shelves, out of overheads...Doors whooshing closed!
+</DIRECTION>
+<DIRECTION>
+INT. Bird of Prey
+</DIRECTION>
+<DIRECTION>
+Chang smiles; this is more like it...he can see the Enterprise is damaged.....
+</DIRECTION>
+<DIRECTION>
+INT. Camp Khitomer - Day
+</DIRECTION>
+<DIRECTION>
+The hands assembling the special phaser....
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Fire!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Close up on a hand pushing a button! Close up, another hand on a phaser button...
+</DIRECTION>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Enterprise's torpedo tracks the heat; it goes in a strange trajectory, but then again we can't see what it's heading towards....
+</DIRECTION>
+<DIRECTION>
+INT. Bird of Prey Bridge
+</DIRECTION>
+<DIRECTION>
+As Chang watches in fascination, the damn thing circles and heads right for them! He realizes....
+</DIRECTION>
+<Chang>
+	<DIALOGUE>
+	..."or not to be...!"
+	</DIALOGUE>
+</Chang>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Enterprise fires a direct hit, and the Bird of Prey is illuminated in the firelight. She spins around, trying to regain her position, debris fragmenting.....
+</DIRECTION>
+<DIRECTION>
+INT. Bridge, U.S.S. Excelsior
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Aim for the center of that explosion, and fire!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Excelsior and Enterprise, having trapped the "Black hole" in a triangle between them, fire.
+</DIRECTION>
+<DIRECTION>
+The Bird of Prey suddenly blows apart. As she explodes, she decloaks.....
+</DIRECTION>
+<DIRECTION>
+INT. Camp Khitomer - Day
+</DIRECTION>
+<DIRECTION>
+Kirk, et al, materialize and starts running through masses of people who are too startled to stop them...
+</DIRECTION>
+<DIRECTION>
+CU, the trigger finger...tightening as....
+</DIRECTION>
+<DIRECTION>
+....Kirk fights his way to the center of the room!!
+</DIRECTION>
+<Kirk>
+	<DIALOGUE>
+	Mr. President!
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He flings his body on the President, pushing him out of the way, just as the phaser fires....
+</DIRECTION>
+<DIRECTION>
+Panic in the room, people scrambling.
+</DIRECTION>
+<Admiral_Donald>
+	<DIALOGUE>
+	Arrest those men!
+	</DIALOGUE>
+</Admiral_Donald>
+<Spock>
+	<DIALOGUE>
+	Arrest yourself!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+He stands aside to reveal Vulcan Lt. in handcuffs.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	We've got a full confession.
+	</DIALOGUE>
+</McCoy>
+<DIRECTION>
+The assassin's niche
+</DIRECTION>
+<DIRECTION>
+He turns to run, but scotty whirls and fires!
+</DIRECTION>
+<DIRECTION>
+As all gasp, the Assassin sways, falls off the balcony, clutching his face where the phaser hit, and screaming, the Klingon face comes melting off, revealing the Starfleet officer, who prepared operation "Retrieve". Not a Klingon after all!!!
+</DIRECTION>
+<DIRECTION>
+The other conspirators race for the exit, only to be blocked by....
+</DIRECTION>
+<DIRECTION>
+Sulu
+</DIRECTION>
+<DIRECTION>
+As he materializes, phaser in hand.
+</DIRECTION>
+<Sulu>
+	<DIALOGUE>
+	Just a minute!
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+The conspirators race in another direction, they are blocked by Kerla, and McCoy!
+</DIRECTION>
+<Kerla>
+<DIRECTION>
+(slugs one)
+</DIRECTION>
+	<DIALOGUE>
+	And you!
+	</DIALOGUE>
+</Kerla>
+<DIRECTION>
+Presidential guards move in....
+</DIRECTION>
+<DIRECTION>
+The UFP President stands up, stares with disbelief. So does Chancellor Azetbur.
+</DIRECTION>
+<Chancellor_Azetbur>
+	<DIALOGUE>
+	What's the meaning of this?
+	</DIALOGUE>
+</Chancellor_Azetbur>
+<Kirk>
+	<DIALOGUE>
+	It's about the future, Madam Chancellor. Some people thing the future means the end of history....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Kirk walks up to the Romulan Ambassador, now under guard!
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	...But we haven't run out of history just yet.
+	</DIALOGUE>
+<DIRECTION>
+(remembers)
+</DIRECTION>
+	<DIALOGUE>
+	Your father quoted Hamlet: He called the future "The undiscovered Country".
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	I always assumed Hamlet was was speaking of death!
+	</DIALOGUE>
+</Spock>
+<Kirk>
+	<DIALOGUE>
+	Gorkon thought the undiscovered country might mean something else - another kind of life. People can be very frightened of change. I know I was.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+We walks to Vulcan Lt.
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	There's an old expression: it takes one to know one.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+When Vulcan Lt. looks at Kirk, there are tears in her eyes. Spock stands motionless next to her.
+</DIRECTION>
+<DIRECTION>
+Kirk turns to face Azetbur.
+</DIRECTION>
+<Azetbur>
+	<DIALOGUE>
+	You've restored my father's faith.
+	</DIALOGUE>
+</Azetbur>
+<Kirk>
+	<DIALOGUE>
+	You've restored my son's.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+He hugs her hard. No one says a word....
+</DIRECTION>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Enterprise, her hull blackened with torpedo scars, idles next to the much larger excelsior.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<DIRECTION>
+They're back!
+</DIRECTION>
+<Uhura>
+	<DIALOGUE>
+	They might as well arrest me, too! I felt like the Lieutenant!
+	</DIALOGUE>
+</Uhura>
+<Spock>
+<DIRECTION>
+(pointed)
+</DIRECTION>
+	<DIALOGUE>
+	But you didn't join a conspiracy.
+	</DIALOGUE>
+</Spock>
+<McCoy>
+<DIRECTION>
+(half for Spock)
+</DIRECTION>
+	<DIALOGUE>
+	They don't arrest people for having feelings!
+	</DIALOGUE>
+</McCoy>
+<Chekov>
+	<DIALOGUE>
+	If they did, we'd all have to turn ourselves in. How can we rely on them?
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+<DIRECTION>
+(looks at Spock)
+</DIRECTION>
+	<DIALOGUE>
+	The only way to find out if a man's trustworthy....
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	...is to trust him!
+	</DIALOGUE>
+</Spock>
+<DIRECTION>
+A wintry smile.
+</DIRECTION>
+<Sulu_s_voice>
+	<DIALOGUE>
+	Captain Kirk....?
+	</DIALOGUE>
+</Sulu_s_voice>
+<Kirk>
+	<DIALOGUE>
+	Kirk here.
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+Sulu appears on the viewscreen
+</DIRECTION>
+<Kirk>
+<DIRECTION>
+(continuing)
+</DIRECTION>
+	<DIALOGUE>
+	As much to the crew of the Enterprise, I owe you my thanks, Captain Sulu.
+	</DIALOGUE>
+</Kirk>
+<Sulu>
+	<DIALOGUE>
+	Nice to see you in action one more time, Captain Kirk. Take care.
+	</DIALOGUE>
+</Sulu>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+Excelsior gets underway with a roar.
+</DIRECTION>
+<DIRECTION>
+INT. Enterprise Bridge
+</DIRECTION>
+<DIRECTION>
+All watch.
+</DIRECTION>
+<McCoy>
+	<DIALOGUE>
+	By God, that's a big ship
+	</DIALOGUE>
+<Scotty>
+	<DIALOGUE>
+	Not so big as her Captain, I think.
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+	<DIALOGUE>
+	Time we got underway ourselves, gentlemen.
+	</DIALOGUE>
+<DIRECTION>
+(stretches)
+</DIRECTION>
+	<DIALOGUE>
+	Once again, we've saved civilization as we know it.
+	</DIALOGUE>
+</Kirk>
+<McCoy>
+	<DIALOGUE>
+	And the good news is they're not going to prosecute!
+	</DIALOGUE>
+</McCoy>
+<Kirk>
+<DIRECTION>
+(sighs)
+</DIRECTION>
+	<DIALOGUE>
+	To be -
+	</DIALOGUE>
+</Kirk>
+<Spock>
+	<DIALOGUE>
+	Or not to be -
+	</DIALOGUE>
+</Spock>
+<McCoy>
+	<DIALOGUE>
+	That's the question -
+	</DIALOGUE>
+</McCoy>
+<Chekov>
+	<DIALOGUE>
+	Course heading, Captain?
+	</DIALOGUE>
+</Chekov>
+<Kirk>
+<DIRECTION>
+(smiles)
+</DIRECTION>
+	<DIALOGUE>
+	Second star to the right, and straight on till morning.....
+	</DIALOGUE>
+</Kirk>
+<DIRECTION>
+EXT. Space
+</DIRECTION>
+<DIRECTION>
+The battered Enterprise makes way.
+</DIRECTION>
+<Kirk_s_voice_over>
+	<DIALOGUE>
+	Captian's log, U.S.S. Enterprise, Stardate 8769.24. This is the final cruise of the Starship Enterprise under my command. This ship and her history will shortly become the care of a new generation. To them and their posterity we will commit our future. They will continue the voyages we have begun, and journey to all the undiscovered countries, boldly going where no man....where no one has gone before...
+	</DIALOGUE>
+</Kirk_s_voice_over>
+<DIRECTION>
+The signature William Shatner scrawls across the screen, still featuring the moving starfield. then Leonard Nimoy's, then Deforest Kelley's, James Doohan's, George Takei's, Walter Koenig's, Nichelle Nichols'...one by one
+</DIRECTION>
+<DIRECTION>
+The signatures grow smaller and smaller as the galaxy races by, and they disappear into the distance.
+</DIRECTION>
+<DIRECTION>
+Roll end credits
+</DIRECTION>
+<DIRECTION>
+Finis!
+</DIRECTION>
