@@ -168,6 +168,10 @@ fviz_nbclust(df, FUN = hcut, method = "silhouette")
 plot(as.hclust(hc), cex = 0.6, hang = -1)
 rect.hclust(hc, k = 2)
 
+# You can also plot dendrograms with ggplot2 using the dendextend package.
+# See here for examples: https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html
+
+
 # Although it's not covered in Brezina, another very common clustering method is called k-means.
 # The basic idea behind k-means clustering consists of defining clusters 
 # so that the total intra-cluster variation (known as total within-cluster variation) is minimized.
