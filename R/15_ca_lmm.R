@@ -17,7 +17,7 @@ bnc <- read_csv("http://corpora.lancs.ac.uk/stats/data/correspondence_analysis.c
 # of the files, followed by 9 columns of pos categories, with last being
 # a sum of less frequent features binned together as "other".
 # Keep this in mind as we're going to recreate this set-up with some other data.
-View(bnc)
+head(bnc)
 
 # To execute the correspondence analysis, we'll need to move the "File"
 # column to row names.
@@ -62,7 +62,7 @@ sbc_sub <- sbc_meta %>%
   filter(n()>1)
 
 # It's not a lot. There's only data from 3 speakers over seven converstions.
-View(sbc_sub)
+head(sbc_sub)
 
 # We'll read in the csv files using the file_path column.
 sbc_text <- lapply(sbc_sub$file_path, read_csv)
@@ -72,7 +72,7 @@ sbc_text <- sbc_text %>% bind_rows() %>% ungroup()
 
 # Look at the result. Note that these are conversations with speakers other
 # than the 7 that we want. We want to drop the data from other speakers.
-View(sbc_text)
+head(sbc_text)
 
 # There are a variety of ways of doing this. We'll use a simple one.
 # We'll simply filter on a matching vector.
@@ -82,7 +82,7 @@ sbc_text <- sbc_text %>% filter(speaker %in% sbc_sub$speaker)
 unique(sbc_text$speaker)
 
 # Let's take another look at our data.
-View(sbc_text)
+head(sbc_text)
 
 # The structure of spoken language is VERY different from that written langauge.
 # This should be evident just by skimming a few lines.
@@ -219,7 +219,7 @@ intensifiers_df <- read_csv("http://corpora.lancs.ac.uk/stats/data/mixed_effect_
 intensifiers_df <- intensifiers_df %>% mutate_if(is.character, as.factor)
 
 # Now let's peek at the data...
-head(df)
+head(intensifiers_df)
 
 # Our response variable ("Outcome") is a factor with only 2 levels:
 # variants "very" and really". We have 4  predictor variables
