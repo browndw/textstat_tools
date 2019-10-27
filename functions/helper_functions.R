@@ -76,4 +76,5 @@ readplay <- function(paths, extract = c("dialogue", "direction")) {
 }
 
 # This works for "not in" matching.
+# Very simple, but handy.
 `%!in%` <- Negate(`%in%`)
