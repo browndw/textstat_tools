@@ -74,3 +74,6 @@ readplay <- function(paths, extract = c("dialogue", "direction")) {
   text_df <- structure(text_df, class = c("readtext", "data.frame"))
   return(text_df)
 }
+
+# This works for "not in" matching.
+`%!in%` <- Negate(`%in%`)
