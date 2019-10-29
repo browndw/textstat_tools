@@ -94,7 +94,7 @@ head(sbc_text)
 
 # The structure of spoken language is VERY different from that written langauge.
 # This should be evident just by skimming a few lines.
-# The data also contains noverbal data a non-transcribable data,
+# The data also contains noverbal data and non-transcribable data,
 # which are enclosed in angle brackets. The transcriptions also record
 # moments where speakers start to produce and sound and stop.
 # These are transcripted with a hyphen (like "d-").
