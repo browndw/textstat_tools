@@ -266,10 +266,6 @@ cv_fit <- cv.glmnet(as.matrix(train_dfm[, -1]), train_dfm[, 1], family = "binomi
 # As we would expect, this is close to what we saw previously...
 coef(cv_fit, s = "lambda.min")
 
-# Compute our final lasso...
-lasso_fit <- glmnet(as.matrix(train_dfm[, -1]), train_dfm[, 1], alpha = 1, family = "binomial",
-                    lambda = cv_fit$lambda.min)
-
 # Create a matrix from the test set...
 x_test <- model.matrix(author_id ~., test_dfm)[,-1]
 
