@@ -7,6 +7,13 @@ library(factoextra)
 
 spacy_initialize(model = "en")
 
+# The first part of this script illustrates correspondence analysis.
+# Correspondence analysis is a descriptive/exploratory technique designed 
+# to analyze simple two-way and multi-way tables containing some measure of 
+# correspondence between the rows and columns. The results provide information 
+# which is similar in nature to those produced by Factor Analysis techniques, 
+# and they allow you to explore the structure of categorical variables included in the table.
+#
 # We're going to start with Brezina's discussion of correspondence analysis
 # (pg. 199-206). So first, we'll load in the data that he uses from
 # the BNC64 corpus -- a corpus of transcribed spoken British English.
@@ -24,6 +31,7 @@ head(bnc)
 bnc <- bnc %>% column_to_rownames("File")
 
 # We'll use the CA() function for the correspondence analysis.
+# Also note that quanteda has it's own CA functionality.
 bnc_ca <- CA(bnc, graph = FALSE)
 
 # On pg. 202, Brezina notes that CA is conceptually related to the
