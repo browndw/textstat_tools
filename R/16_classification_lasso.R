@@ -187,7 +187,6 @@ lambda_lse <- cv_fit$lambda.1se
 # Ours has 12.
 coef(cv_fit, s = "lambda.min")
 
-
 # To validate the model, let's create a model matrix from the texts we've
 # split off for that purpose.
 x_test <- model.matrix(author_id ~., train_valid_1)[,-1]
