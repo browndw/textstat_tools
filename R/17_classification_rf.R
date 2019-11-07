@@ -303,14 +303,23 @@ table(pred=pred_randomForest, true=train_valid$author_id)
 # And calculate our model accuracy...
 mean(pred_randomForest == train_valid$author_id)
 
-# So now we use the adjusted model on our test data...
+# Finally we can make predictions with our adjusted model.
 pred_fed <- predict(rf4, test_dfm)
 
-# And view the predicitons...
+# And view those predicitons...
 pred_fed %>% data.frame()
 
-
-
+# Okay, we've repeated this task a couple of times now.
+# Both times, we've taken advantage of Mosteller & Wallace's filtering of variables.
+# This has made life much easier for us.
+# But what if we didn't have their candidate words to feed into our models?
+# What if we were starting from the dfm with 8765 words?
+# How would you tackle variable selection, knowing that random forests don't
+# do well with highly zero-skewed variables. So just feeding the entire dfm into
+# random forest isn't going to be the best solution.
+# On the one hand, more common words are certainly good candidates for a model.
+# On the other, you don't want to throw out less frequent words that might be
+# highly discriminatory....
 
 
 
