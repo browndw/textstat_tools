@@ -218,10 +218,10 @@ accuracy(fed_m1$predicted, train_dfm$author_id)
 # There are a variety of ways to try to achieve this. One is to use the classwt argument.
 # Another is to use stratified sampling and change the sample sizes.
 # We'll create 4 models...
-rf1 <- randomForest(author_id~., train_dfm,ntree=500, sampsize=65)
-rf2 <- randomForest(author_id~., train_dfm, ntree=1000, sampsize=c(38,14), strata=train_dfm$author_id)
-rf3 <- randomForest(author_id~., train_dfm, ntree=1000, sampsize=c(25,14), strata=train_dfm$author_id)
-rf4 <- randomForest(author_id~., train_dfm, ntree=1000, sampsize=c(14,14), strata=train_dfm$author_id)
+rf1 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=65)
+rf2 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(38,14), strata=train_dfm$author_id)
+rf3 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(25,14), strata=train_dfm$author_id)
+rf4 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(14,14), strata=train_dfm$author_id)
 
 # And check the OOB error for each....
 data.frame(rf1 = tail(rf1$err.rate[,1], n=1)*100, rf2 = tail(rf2$err.rate[,1], n=1)*100,
@@ -258,7 +258,7 @@ for(i in intervals){
   m1 <- randomForest(
     formula  = author_id ~ .,
     data     = train_dfm,
-    ntree    = 1000, 
+    ntree    = 500, 
     sampsize = c(14,14), 
     strata   = train_dfm$author_id
   )
@@ -289,7 +289,7 @@ train_valid <- assessment(valid_split)
 rf_valid <- randomForest(
   formula  = author_id ~ .,
   data     = train_dfm_v2,
-  ntree    = 1000, 
+  ntree    = 500, 
   sampsize = c(12,12), 
   strata   = train_dfm_v2$author_id
 )
