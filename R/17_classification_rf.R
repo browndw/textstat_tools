@@ -216,12 +216,12 @@ accuracy(fed_m1$predicted, train_dfm$author_id)
 # reasonable accuracy for the majority class."
 #
 # There are a variety of ways to try to achieve this. One is to use the classwt argument.
-# Another is to use stratified sampling and change the sample sizes.
+# Another is to change the sample sizes.
 # We'll create 4 models...
 rf1 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=65)
-rf2 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(38,14), strata=train_dfm$author_id)
-rf3 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(25,14), strata=train_dfm$author_id)
-rf4 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(14,14), strata=train_dfm$author_id)
+rf2 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(38,14))
+rf3 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(25,14))
+rf4 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(14,14))
 
 # And check the OOB error for each....
 data.frame(rf1 = tail(rf1$err.rate[,1], n=1)*100, rf2 = tail(rf2$err.rate[,1], n=1)*100,
@@ -259,8 +259,7 @@ for(i in intervals){
     formula  = author_id ~ .,
     data     = train_dfm,
     ntree    = 500, 
-    sampsize = c(14,14), 
-    strata   = train_dfm$author_id
+    sampsize = c(14,14)
   )
   oob <-tail(m1$err.rate[,1], n=1)
   oob_error[[i]] <- oob*100
@@ -285,13 +284,12 @@ train_dfm_v2 %>% group_by(author_id) %>% tally()
 # And a validation set.
 train_valid <- assessment(valid_split)
 
-# Now we can create a new model, using statified sampling.
+# Now we can create a new model with balanced sampling.
 rf_valid <- randomForest(
   formula  = author_id ~ .,
   data     = train_dfm_v2,
   ntree    = 500, 
-  sampsize = c(12,12), 
-  strata   = train_dfm_v2$author_id
+  sampsize = c(12,12)
 )
 
 # Make our predictions on the validation set.
