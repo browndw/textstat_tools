@@ -3,7 +3,7 @@ library(tidyverse)
 library(quanteda)
 library(rsample)
 library(randomForest) # basic implementation
-library(Boruta) # variable selection
+library(rfUtilities) # utilities for performance evaluation
 
 source("functions/helper_functions.R")
 
@@ -123,12 +123,12 @@ fed_m1
 
 # Let's set aside the error rate for a moment, and walk through the prediction...
 # So now we use the model on our test data...
-pred_randomForest <- predict(fed_m1, test_dfm)
+pred_fed <- predict(fed_m1, test_dfm)
 
 # And view the predicitons...
-pred_randomForest %>% data.frame()
+pred_fed %>% data.frame()
 
-# This is exactly what we predicting using lasso regression....
+# This is exactly what we predicted using lasso regression....
 
 # Now let's look quickly at variable importance.
 # Every node in the decision trees is a condition on a single feature, 
@@ -191,18 +191,32 @@ test <- tuneRF(
 # For instructions on how to do those, you can consult tutorials like the one here:
 # https://uc-r.github.io/random_forests
 
-# Beyond the random forest paramters, however, there are other issues 
-# to consider in building our model.
-#
-# For example, consider the (im)balance in our data.
+# There is one particularly imporant issue with our data, which we need to consider.
+# Check the (im)balance in our data.
 train_dfm %>% group_by(author_id) %>% tally()
 
 # And, again, look at the confusion matrix.
 fed_m1
 
+# To access our default model in more detail,
+# we can use the accuracy function from the rfUtilities package.
+# We give the function a vector of the predicted values, and one of the observed values.
+accuracy(fed_m1$predicted, train_dfm$author_id)
+
 # Random forest is sensitive to unbalanced data.
-# There are a variety of ways to try correcting this.
-# Let's start by using stratified sampling and changing our sample sizes.
+# There is an excellent discussion of handling imbalanced data here:
+# https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf
+#
+# I will quote the authors here:
+# "For any classifier, there is always a trade off between true positive rate and 
+# true negative rate; and thesame applies for recall and precision.
+# In the case of learning extremely imbalanced data, quite often the rare class 
+# is of great interest.  In many applications, it is desirable to have a classifier 
+# that gives high prediction accuracy over the minority class, while maintaining 
+# reasonable accuracy for the majority class."
+#
+# There are a variety of ways to try to achieve this. One is to use the classwt argument.
+# Another is to use stratified sampling and change the sample sizes.
 # We'll create 4 models...
 rf1 <- randomForest(author_id~., train_dfm,ntree=500, sampsize=65)
 rf2 <- randomForest(author_id~., train_dfm, ntree=1000, sampsize=c(38,14), strata=train_dfm$author_id)
@@ -221,8 +235,8 @@ intervals <- c(1:100)
 # Next, we'll create an empty vector.
 oob_error <- NULL
 
-# Now, we'll generate OOB errors for 100 models based on the full training data.
-# This will take a few seconds...
+# Now, we'll generate OOB errors for 100 models based on the full training data
+# and populate the vector. This will take a few seconds...
 for(i in intervals){
   m1 <- randomForest(
     formula = author_id ~ .,
@@ -256,12 +270,6 @@ for(i in intervals){
 data.frame(oob_max = max(oob_error), oob_min = min(oob_error), mean_oob = mean(oob_error)) %>%
   as_tibble()
 
-# So now we use the adjusted model on our test data...
-pred_randomForest <- predict(rf4, test_dfm)
-
-# And view the predicitons...
-pred_randomForest %>% data.frame()
-
 # Finally, let's check similar model ajustments agaist a validcation set.
 # For this, as we did with lasso, we'll use some handy functions from the rsample package.
 # First, we make an 80/20 split.
@@ -294,6 +302,13 @@ table(pred=pred_randomForest, true=train_valid$author_id)
 
 # And calculate our model accuracy...
 mean(pred_randomForest == train_valid$author_id)
+
+# So now we use the adjusted model on our test data...
+pred_fed <- predict(rf4, test_dfm)
+
+# And view the predicitons...
+pred_fed %>% data.frame()
+
 
 
 
