@@ -39,7 +39,7 @@ collocates_by_MI <- function(quant_tokens, node_word, left, right){
   if(right == 0) post_words <- NULL
   
   # Create a frequency table and convert it to a data.frame.
-  col_freq <- data.frame(table(tolower(c(pre_words, post_words))))
+  col_freq <- data.frame(table(tolower(c(pre_words, post_words))), stringsAsFactors = F)
   colnames(col_freq) <- c("feature", "c_freq")
   
   # Merge our collocate frequencies with the corpus totals
@@ -70,6 +70,9 @@ collocates_by_MI <- function(quant_tokens, node_word, left, right){
   #col_freq$MI_2 <- mapply(MI2_calc, col_freq$c_freq, col_freq$frequency)
   colnames(col_freq) <- c("feature", "col_freq", "total_freq", "MI_1")
   col_freq <- col_freq[order(-col_freq$MI_1),]
+  col_freq$feature <- as.character(col_freq$feature)
+  attr(col_freq, "node_word") <- node_word
+  attr(col_freq, "corpus_total") <- corpus_total
   return(col_freq)
 }
 
