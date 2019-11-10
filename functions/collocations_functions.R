@@ -83,10 +83,10 @@ collocates_by_MI <- function(quant_tokens, node_word, left, right){
 #
 # The function takes data.frames produced by the collocates_by_MI() function above
 # and generates a tidygraph data object for plotting in ggraph.
-col_network <- function(col_1, col_2, ...) {
+col_network <- function(col_1, ...) {
   
   # put all the collocation data.frames into a list
-  all_col <- list(col_1, col_2, ...)
+  all_col <- list(col_1, ...)
   
   # check the object class
   #test_class <- lapply(all_col, class)
