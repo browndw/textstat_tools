@@ -182,3 +182,9 @@ ggraph(net, weight = link_weight, layout = "stress") +
 ##
 # Again, what is suggested by the pattern you see?
 ##
+
+# Finally, we can check our collocates in context by calling
+# the kwic() function (Key Words in Context) and filering it for
+# adjective tags in the 5 words after our node word.
+kwic(romcom_tokens, "she_PRP", 5) %>% as_tibble() %>%
+  filter(str_detect(post, "_JJ"))
