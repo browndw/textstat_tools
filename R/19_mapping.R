@@ -201,12 +201,12 @@ rm(dialects_penn, knn_penn, valid_split, penn_train, penn_test, accuracy)
 # We'll begin setting up our grid by specifing its width in pixels.
 width_in_pixels <- 300
 
-# The width of a grid cell is calcuated from the dimentions
+# The width of a grid cell is calcuated from the dimensions
 # of our US map and is defined as dx.
 dx <- ceiling( (st_bbox(us)["xmax"] - 
                   st_bbox(us)["xmin"]) / width_in_pixels)
 
-# The height of a grid cell in meters is the same because we'll use quadratic grid cells, dx == dy
+# The height of a grid cell is the same because we'll use quadratic grid cells, dx == dy
 dy <- dx
 
 # Calculate the height in pixels of the resulting grid.
@@ -276,7 +276,7 @@ dialects_result <- foreach(
   }
 
 
-# We'll now confert the result into an sf object for mapping.
+# We'll now convert the result into an sf object for mapping.
 dialects_raster <- st_as_sf(dialects_result, 
                             coords = c("lon", "lat"),
                             crs = nalcc,
