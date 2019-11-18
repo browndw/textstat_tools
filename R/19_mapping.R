@@ -250,7 +250,7 @@ compute_grid <- function(grid, dialects_train, knn) {
   return(dialects_result)
 }
 
-registerDoParallel(cores = 8)
+registerDoParallel(cores = 4) # if you have more processing power you can up this number
 
 # Specify number of batches and resulting size of each batch (in grid cells).
 no_batches <- 60 # increase this number if you run into memory problems
