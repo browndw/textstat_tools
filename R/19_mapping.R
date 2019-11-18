@@ -45,7 +45,7 @@ pvs_df %>% head(10)
 # We have counts by state and county. Importantly, those counts are identified by
 # Federal Information Processing System (FIPS) codes.
 # To convert that imformation to something mappable, we need GIS data for those
-# FIPS codes. So we turn turn to data from the housingData package.
+# FIPS codes. For that we can use data from the housingData package.
 hd <- housingData::geoCounty
 hd$fips <- as.character(hd$fips)
 
