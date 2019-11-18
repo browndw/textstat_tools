@@ -182,8 +182,8 @@ knn_penn$prob %>% tail(1)
 # Those probablilities can be used to select both color (for the most probable variant)
 # and the alpha of the color (based on the value of the probablility).
 #
-# Sounds easy enough, but we don't have values for entire map.
-# We need to use our know values to estimate those at other unknown points.
+# Sounds easy enough, but we don't have values for the entire map.
+# We need to use our known values to estimate those at other unknown points.
 # This is process called spatial interpolation:
 # https://docs.qgis.org/2.18/en/docs/gentle_gis_introduction/spatial_analysis_interpolation.html
 #
