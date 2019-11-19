@@ -257,7 +257,7 @@ batch_size <- ceiling(length(grid) / no_batches)
 
 # Finally, we'll generate our result using parallel processing.
 # This will take at least a couple of minutes...
-dialects_result <- foreach(
+dialects_result <- foreach(.packages = c("sf", "tidyverse"),
   batch_no = 1:no_batches, 
   # after each grid section is computed, rbind the resulting df into one big dialects_result df
   .combine = rbind, 
