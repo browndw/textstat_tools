@@ -142,4 +142,4 @@ high_similarities_to_tastes %>% prcomp %>% fviz_pca_biplot()
 # "Perplexity" is the optimal number of neighbors for each word. By default it's 50; 
 # smaller numbers may cause clusters to appear more dramatically at the cost of overall coherence.
 
-plot(model,perplexity=50)
+plot(model, perplexity=50)
