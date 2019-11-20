@@ -13,7 +13,7 @@
 # Harvard Dialect Survey in 2003:
 # http://www4.uwm.edu/FLL/linguistics/dialect/index.html
 #
-# Katz's work is an interesting application of KNN classification to geospatial data.
+# Katz's work is an interesting application of KNN to geospatial data.
 # There is a nice introduction to the KNN algorithm here:
 # https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
 #
@@ -24,8 +24,8 @@
 library(tidyverse)
 library(data.table)
 
-# Our plots will be based on the results of knn classification...
-library(kknn) # for knn classification
+# Our plots will be based on the results of knn...
+library(kknn) # for knn
 
 # We have some realtively intensive processing tasks that can be sped up... 
 library(foreach) # for iterating over elements in a collection
@@ -58,7 +58,7 @@ pvs_df <- pvs_df %>% gather(var, freq, -fips) %>% filter(freq != 0)
 
 pvs_df %>% arrange(fips) %>% head(10)
 
-# For the classification task, we need to convert counts into instances.
+# For the task, we need to convert counts into instances.
 # For example, if there are 3 "soda" preferers in a county, we want
 # "soda", "soda", "soda" in the variable column. For that, we can
 # use the data.table package...
@@ -112,8 +112,7 @@ us <- states_us %>% st_transform(nalcc)
 # And likewise our pop vs. soda data.
 point_data <- point_data %>% st_transform(nalcc)
 
-# Next, we'll make a data.frame which we can use for classification
-# with 3 columns...
+# Next, we'll make a data.frame with 3 columns...
 dialects_train <- data.frame(dialect = point_data$var, 
                              lon = st_coordinates(point_data)[, 1], 
                              lat = st_coordinates(point_data)[, 2])
@@ -258,7 +257,7 @@ batch_size <- ceiling(length(grid) / no_batches)
 
 # Finally, we'll generate our result using parallel processing.
 # This will take at least a couple of minutes...
-dialects_result <- foreach(
+dialects_result <- foreach(.packages = c("sf", "tidyverse"),
   batch_no = 1:no_batches, 
   # after each grid section is computed, rbind the resulting df into one big dialects_result df
   .combine = rbind, 
