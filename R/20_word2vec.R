@@ -143,3 +143,76 @@ high_similarities_to_tastes %>% prcomp %>% fviz_pca_biplot()
 # smaller numbers may cause clusters to appear more dramatically at the cost of overall coherence.
 
 plot(model, perplexity=50)
+
+# Time permitting or on your own what follows is a walkthough for constructing
+# a model using GloVe:
+# https://nlp.stanford.edu/projects/glove/
+# This also creates vectors for word representation, though somewhat differently
+# that the process described above.
+# This process relies on the text2vec package:
+# http://text2vec.org/glove.html
+
+# Load the library
+library(text2vec)
+
+# Load the helper functions
+source("functions/helper_functions.R")
+
+# Read in our corpus
+cook_txt <- list.files("data/text_data/cookbook_corpus", full.names = T) %>%
+  readtext_lite()
+
+# Here we use text2vec's tokenizer, which we point to the approriate columns..
+cook_tks <- itoken(cook_txt$text, 
+                  preprocessor = tolower, 
+                  tokenizer = word_tokenizer, 
+                  ids = cook_txt$doc_id, 
+                  progressbar = TRUE)
+
+# From those, we generate a vocabulary. Terms will be unigrams (simple words).
+cook_vocab <- create_vocabulary(cook_tks)
+
+# And we'll prune that vocabulary to include tokens that appear more than once.
+cook_vocab <- prune_vocabulary(cook_vocab, term_count_min = 2L)
+
+# Check the result.
+cook_vocab
+
+# Now we are ready to construct term-co-occurence matrix (TCM).
+# Which takes 2 steps... We vectorize our vocabulary...
+vectorizer <- vocab_vectorizer(cook_vocab)
+# And use window of 5 for context words.
+tcm <- create_tcm(cook_tks, vectorizer, skip_grams_window = 5L)
+
+# Now we have a TCM matrix and can factorize it via the GloVe algorithm.
+# text2vec uses a parallel stochastic gradient descent algorithm. 
+# By default it will use all cores on your machine, but you can specify
+# the number of cores if you wish. For example, to use 4 threads call 
+# RcppParallel::setThreadOptions(numThreads = 4)
+glove <- GlobalVectors$new(word_vectors_size = 50, vocabulary = cook_vocab, x_max = 10)
+
+# Let’s fit our model. (It can take several minutes...)
+cook_main <- glove$fit_transform(tcm, n_iter = 10, convergence_tol = 0.01)
+
+# On par with any other mlapiDecomposition model second low-rank matrix 
+# (context word vectors) is available in components field.
+cook_context <- glove$components
+
+# While both of word-vectors matrices can be used as result it usually better 
+# (idea from GloVe paper) to average or take a sum of main and context vector.
+cook_vectors <-  cook_main + t(cook_context)
+
+# The process for finding cosine similarity is a little more elaborated that
+# in the wordVectors package...
+fishy <- cook_vectors["fish", , drop = FALSE]
+fishy <- sim2(x = cook_vectors, y = fishy, method = "cosine", norm = "l2")
+head(sort(fishy[,1], decreasing = TRUE), 5)
+
+# However, we can convert our GloVe model...
+cook_vectors <- as.matrix(cook_main + t(cook_context)) %>%
+  as.VectorSpaceModel()
+
+# And use the wordVectors syntax, if we wish...
+cook_vectors %>% closest_to("fish", 20)
+
+
