@@ -48,12 +48,12 @@ preprocess_text <- function(text_obj, contractions=TRUE, hypens=FALSE, punctuati
 
 
 # This is a helper function for reading in the dialogue from Shakespeare plays
-# and sreenplays, which are formatted in very simple markup.
-# With this function, either the dialouge or the direction can be
-# excrated in bulk.
+# and screenplays, which are formatted in very simple markup.
+# With this function, either the dialogue or the direction can be
+# execrated in bulk.
 readplay <- function(paths, extract = c("dialogue", "direction")) {
   
-  if (missing(extract)) stop("you must specify whether you want to extract dialogue or direction")
+  if (missing(extract)) stop("You must specify whether you want to extract dialogue or direction.")
   # Get a vector of the file basenames
   doc_ids <- basename(paths)
   # A function for reading in the simplified markup and extracting all the text
