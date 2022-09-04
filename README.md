@@ -11,7 +11,7 @@ The labs can be accessed by using the **Files** tab in R studio. All the labs ar
 ---
 **NOTE**
 
-Even if you are choosing to run the code from the project, the labs are the same, except for a few additoinal code blocks that call functions or load data.
+Even if you are choosing to run the code from the **textstat_tools** Rproject, the labs are the same, except for a few additoinal code blocks that call functions or load data.
 
 Thus, [the elaborated explanations of the labs](https://cmu-textstat-docs.readthedocs.io/en/latest/labs/lab_overview.html) are just as useful as they would be if you were executing code directly from the R package.
 
