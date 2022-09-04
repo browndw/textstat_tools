@@ -1,0 +1,359 @@
+---
+title: "Lab 4"
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: true
+author: "My Name"
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy=TRUE
+)
+```
+
+# Lab 4 (Set 2): Distributions {-}
+
+# Prepare a corpus
+
+## Load the needed packages
+
+```{r setup, message = FALSE, error=FALSE, warning=FALSE}
+library(tidyverse)
+library(quanteda)
+library(quanteda.textstats)
+```
+
+Load data:
+
+```{r}
+load("../data/sample_corpus.rda")
+load("../data/multiword_expressions.rda")
+```
+
+Load functions:
+
+```{r}
+source("../R/dispersion_functions.R")
+```
+
+
+## Load a corpus
+
+The **cmu.textstat** package comes with some data sets including a data table with a column of document ids and a column of texts. Such a table is easy to create from text data on your own local drive.
+
+To do so, you would organize plain .txt files into a directory and use the **readtext( )** function from the **readtext** package.
+
+```{r make_data}
+sc_df <- sample_corpus
+```
+
+To peek at the data, we'll look at the first 100 characters in the "text" column of the first row:
+
+```{r echo=FALSE}
+knitr::kable(substr(sc_df$text[1], start = 1, stop = 100), col.names = "")
+```
+
+Make a corpus object.
+```{r create_corpus}
+sc <- corpus(sc_df)
+```
+
+And check the result:
+
+```{r echo=FALSE}
+knitr::kable(head(sc %>% summary()), caption = "Partial summary of sample corpus.")
+```
+
+## Document variables (Name your files systematically!)
+
+Note the names of the text files encode important meta-data: in this case, the names of text types similar to the Corpus of Contemporary American English.
+
+This is **extremely important**. When you build your own corpora, you want to purposefully and systematically name your files and organize your directories. This will save you time and effort later in your analysis.
+
+We are now going to extract the meta-data from the file names and pass them as a variable.
+
+```{r extract_variable}
+doc_categories <- str_extract(sc_df$doc_id, "^[a-z]+")
+```
+
+Check the result:
+
+```{r echo=FALSE}
+knitr::kable(doc_categories %>% unique(), col.names = "", caption = "Document categories.")
+```
+
+We will now assign the variable to the corpus. The following command might look backwards, with the function on the left hand side of the **<-** operator. That is because it's an accessor function, which lets us add or modify data in an object. You can tell when a function is an accessor function like this because its help file will show that you can use it with **<-**, for example in **?docvars**.
+
+```{r}
+docvars(sc, field = "text_type") <- doc_categories
+```
+
+And check the summary again:
+
+```{r echo=FALSE}
+knitr::kable(head(sc %>% summary()), caption = "Partial summary of sample corpus.")
+```
+
+## Tokenize the corpus
+
+We'll use **quanteda** to tokenize. And after tokenization, we'll convert them to lower case. *Why do that here?* As a next step, we'll being combining tokens like *a* and *lot* into single units. And we'll be using a list of expressions that isn't case sensitive.
+
+```{r tokenize}
+sc_tokens <- tokens(sc, include_docvars=TRUE, remove_punct = TRUE, remove_numbers = TRUE, remove_symbols = TRUE, what = "word")
+
+sc_tokens <- tokens_tolower(sc_tokens)
+```
+
+## Multi-word Expressions
+
+An issue that we run into frequently with corpus analysis is what to do with multi-word expressions. For example, consider a common English quantifier: "a lot". Typical tokenization rules will split this into two tokens: *a* and *lot*. But counting *a lot* as a single unit might be important depending on our task. We have a way of telling **quanteda** to account for these tokens.
+
+All that we need is a list of multi-word expressions.
+
+The **cmu.textstat** comes with an example of an mwe list called **multiword_expressions**:
+
+```{r echo=FALSE}
+knitr::kable(tail(multiword_expressions), col.names = "", caption = "Examples of multi-word expressions.")
+```
+
+The **tokens_compound()** function looks for token sequences that match our list
+and combines them using an underscore.
+
+```{r compound_tokens}
+sc_tokens <- tokens_compound(sc_tokens, pattern = phrase(multiword_expressions))
+```
+
+## Create a document-feature matrix
+
+With our tokens object we can now create a document-feature-matrix using the
+**dfm()** function. As a reminder, a **dfm** is table with one row per document in the corpus, and one column per unique token in the corpus. Each cell contains a count of how many times a token shows up in that document.
+
+```{r dfm}
+sc_dfm <- dfm(sc_tokens)
+```
+
+Next we'll create a **dfm** with proportionally weighted counts.
+
+```{r}
+prop_dfm <- dfm_weight(sc_dfm, scheme = "prop")
+```
+
+# Token distributions
+
+## Distributions of *the*
+
+Let's start by selecting frequencies of the most common token in the corpus:
+
+```{r}
+freq_df <- textstat_frequency(sc_dfm) %>%
+  data.frame(stringsAsFactors = F)
+```
+
+```{r echo=FALSE}
+knitr::kable(freq_df[1:10,], caption = "The 10 most frequent tokens in the sample corpus.")
+```
+
+From the weighted **dfm**, we can select any token that we'd like to look at more closely. In this case, we'll select the most frequent token: *the*.
+
+After selecting the variable, we will convert the data into a more friendly data structure.
+
+There are easier ways of doing this, but the first bit of the code-chunk allows us to filter by rank and return a character vector that we can pass. This way, we can find a word of any arbitrary rank.
+
+Also note how the **rename()** function is set up. Let's say our token is *the*. The **dfm_select()** function would result with a column named **the** that we'd want to rename **RF**. So our typical syntax would be: **rename(RF = the)**. In the chunk below, however, our column name is the variable **word**. To pass that variable to **rename**, we use **!!name(word)**.
+
+```{r select, warning=FALSE, message=FALSE}
+word <- freq_df %>% 
+  filter(rank == 1) %>% 
+  dplyr::select(feature) %>%
+  as.character()
+
+word_df <- dfm_select(prop_dfm, word, valuetype = "fixed") # select the token
+
+word_df <- word_df %>% 
+  convert(to = "data.frame") %>% 
+  cbind(docvars(word_df)) %>% 
+  rename(RF = !!as.name(word)) %>% 
+  mutate(RF = RF*1000000)
+```
+
+With that data it is a simple matter to generate basic summary statistics using the **group_by()** function:
+
+```{r}
+summary_table <- word_df %>% 
+  group_by(text_type) %>%
+  summarize(MEAN = mean(RF),
+              SD = sd(RF),
+              N = n())
+```
+
+```{r echo=FALSE}
+knitr::kable(summary_table, digits = 2, caption = "Means and standard deviations by text-type.")
+```
+
+And we can inspect a histogram of the frequencies. To set the width of our bins we'll use the Freedman-Diaconis rule. The bin-width is set to:
+$$h = 2 x \frac{IQR(x)}{n^{1/3}}$$
+
+So the number of bins is (max-min)/h, where n is the number of observations, max is the maximum value and min is the minimum value.
+
+```{r bin_width}
+bin_width <- function(x){
+  2 * IQR(x) / length(x)^(1/3)
+  }
+```
+
+Now we can plot a histogram. We're also adding a dashed line showing the mean. Note we're also going to use the **scales** package to remove scientific notation from our tick labels.
+
+```{r the_histogram, fig.height=2.5, fig.width=7, fig.cap="Histogram of the token \\textit{the}."}
+ggplot(word_df,aes(RF)) + 
+  geom_histogram(binwidth = bin_width(word_df$RF), colour="black", fill="white", size=.25) +
+  geom_vline(aes(xintercept=mean(RF)), color="red", linetype="dashed", size=.5) +
+  theme_classic() +
+  scale_x_continuous(labels = scales::comma) +
+  xlab("RF (per mil. words)")
+```
+
+## Distributions of *the* and *of*
+
+Now let's try plotting histograms of two tokens on the same plot. First we're going to use regular expressions to select the columns. The carat or hat **^** looks for the start of line. Without it, we would also get words like "blather". The dollar symbol **$** looks for the end of a line. The straight line | means OR. Think about how useful this flexibility can be. You could, for example, extract all words that end in *-ion*.
+
+```{r warning=FALSE}
+# Note "regex" rather than "fixed"
+word_df <- dfm_select(prop_dfm, "^the$|^of$", valuetype = "regex")
+
+# Now we'll convert our selection and normalize to 10000 words.
+word_df <- word_df %>% 
+  convert(to = "data.frame") %>%
+  mutate(the = the*10000) %>%
+  mutate(of = of*10000)
+
+# Use "pivot_longer" to go from a wide format to a long one
+word_df <- word_df %>% 
+  pivot_longer(!doc_id, names_to = "token", values_to = "RF") %>% 
+  mutate(token = factor(token))
+```
+
+Now let's make a new histogram. Here we assign the values of color and fill to the "token" column. We also make the columns a little transparent using the "alpha" setting.
+
+```{r fig.height=2.5, fig.width=7, fig.cap="Histogram of the tokens \\textit{the} and \\textit{of}."}
+ggplot(word_df,aes(x = RF, color = token, fill = token)) + 
+  geom_histogram(binwidth = bin_width(word_df$RF), alpha=.5, position = "identity") +
+  theme_classic() +
+  xlab("RF (per mil. words)") +
+  theme(axis.text = element_text(size=5))
+```
+
+If we don't want overlapping histograms, we can use **facet_wrap()** to split the plots.
+
+```{r fig.height=2.5, fig.width=7, fig.cap="Histogram of the tokens \\textit{the} and \\textit{of}."}
+ggplot(word_df,aes(x = RF, color = token, fill = token)) + 
+  geom_histogram(binwidth = bin_width(word_df$RF), alpha=.5, position = "identity") +
+  theme_classic() +
+  theme(axis.text = element_text(size=5)) +
+  theme(legend.position = "none") +
+  xlab("RF (per mil. words)") +
+  facet_wrap(~ token)
+```
+
+## Task 1
+
+Plot a histogram (or histograms) for the the 1st, 10th, and 100th most frequent tokens in the sample corpus.
+
+```{r}
+
+```
+
+What do you notice (or what conclusions can you draw) from the plots you've generated about the distributions of tokens as their frequency decreases?
+
+> Your response
+
+# Dispersion
+
+We can also calculate dispersion, and there are a variety of measures at our disposal. Our toolkit has several functions for producing these calculations.
+
+For example, we can find the dispersion of any specific token:
+
+```{r token_dispersions}
+the <- dispersions_token(sc_dfm, "the") %>% unlist()
+```
+
+```{r echo=FALSE}
+knitr::kable(the, digits = 3, caption = "Dispersion measures for the token \\textit{the}.", "simple", col.names = "")
+```
+
+And let's try another token to compare:
+
+```{r}
+data <- dispersions_token(sc_dfm, "data") %>% unlist()
+```
+
+```{r echo=FALSE}
+knitr::kable(data.frame(the = the["Deviation of proportions DP"], data = c(data["Deviation of proportions DP"])), digits = 3, caption = "Deviation of Proportions for the tokens \\textit{the} and \\textit{data}.", "simple")
+```
+
+## Task 2
+
+What do you note about the difference in the Deviation of Proportions for *the* vs. *data*?
+
+> Your response
+
+## Dispersions for all tokens
+
+We can also calculate selected dispersion measures for all tokens using **dispersions_all()**:
+
+```{r all_dispersions, warning=FALSE, message=FALSE}
+d <- dispersions_all(sc_dfm)
+```
+
+```{r echo=FALSE}
+knitr::kable(head(d), digits = 3, caption = "Dispersion measures for all tokens.", "simple")
+```
+
+## Generating a frequency table
+
+Alternatively, **frequency_table()** returns only Deviation of Proportions and Average Reduced Frequency.
+
+Note that ARF requires a tokens object and takes a couple of minutes to calculate.
+
+```{r frequency_table}
+ft <- frequency_table(sc_tokens)
+```
+
+```{r echo=FALSE}
+knitr::kable(head(ft), digits = 3, caption = "Frequency and dispersion measures for all tokens.", "simple")
+```
+
+## Task 3
+
+Which token is the most frequent? The most dispersed?
+
+> Your response
+
+Write a sentence or two reporting the frequencies and dispersions of *the* and *data* fowling the examples on page 53 of Brezina:
+
+> Your response
+
+
+# Zipf's Law
+
+Let's plot rank against frequency for the 100 most frequent tokens in the sample corpus.
+
+```{r fig.height=2.5, fig.width=7, fig.cap="Token rank vs. frequency."}
+ggplot(freq_df %>% filter(rank < 101), aes(x = rank, y = frequency)) +
+  geom_point(shape = 1, alpha = .5) +
+  theme_classic() +
+  ylab("Absolute frequency") +
+  xlab("Rank")
+```
+
+The relationship you're seeing between the rank of a token and it's frequency holds true for almost any corpus and is referred to as **Zipf's Law** (see Brezina pg. 44).
+
+## Task 4
+
+Describe at least one statistical and one methodological implication of what the plot is illustrating.
+
+> Your response

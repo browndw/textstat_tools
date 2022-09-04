@@ -1,0 +1,155 @@
+---
+title: "Lab 1"
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: true
+author: "My Name"
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy=TRUE
+)
+```
+
+# Lab 1 (Set 1): Texts, algorithms, and black-boxes {-}
+
+We're going to start by unpacking the controversy regarding the syuzhet R package. (The readings are short and posted on Canvas, if you haven't looked at them already.) This is a useful exercise, I think, because it gets to some foundational issues in text analysis--you're going to encounter them in your work so they're worth considering from the beginning.
+
+# Questions related to the reading
+
+## Task 1
+
+Answer the following questions in response to the readings:
+
+What is the distinction Schmidt makes between “algorithms” and “transformations”?
+
+> Your response:
+
+Is this a useful distinction to make, do you think?
+
+> Your response:
+
+## Task 2
+
+Answer the the following question:
+
+What interests you about the quantitative analysis of text?
+
+> Your response:
+
+
+# Load the cmu.textstat package
+
+Load the package, as well as others that we'll use in this short lab.
+
+```{r setup, message = FALSE, error=FALSE, warning=FALSE}
+library(tidyverse)
+library(syuzhet)
+```
+
+Load data from file:
+
+```{r}
+load("../data/sentiment_data.rda")
+```
+
+The novels that Jockers uses as examples are included as data, which can be accessed as **sentiment_data**. There are 4 novels, and we'll check their names stored in the **doc_id** column.
+
+For this demonstration, we'll be using *Madame Bovary*.
+
+```{r echo=FALSE}
+knitr::kable(sentiment_data$doc_id, col.names = "doc_id", caption = "A small corpus included in the cmu.textstat package.")
+```
+
+# Prep the data and calculate sentiment
+
+Next, we do some simple cleaning using **str_squish** from the **stringr** package. Then we'll split the the novel into sentences and calculate a sentiment score for each.
+
+```{r get_sentiment}
+
+# str_squish() is a useful function from readr for getting rid of extra spaces, carriage returns, etc.
+mb <- str_squish(sentiment_data$text[1])
+
+# chunk the novel into sentences
+mb_sentences <- get_sentences(mb)
+
+# calculate and return sentiment scores
+mb_sentiment <- get_sentiment(mb_sentences)
+```
+
+Let's check the data:
+
+```{r echo=FALSE}
+knitr::kable(mb_sentiment[1:6], caption = "Sample sentiment scores.", col.names = "")
+```
+
+# Transforming the data
+
+The next step is to transform the data. Originally, Jockers used a Fourier transformation, which he described as follows:
+
+> Aaron introduced me to a mathematical formula from signal processing called the Fourier transformation. The Fourier transformation provides a way of decomposing a time based signal and reconstituting it in the frequency domain. A complex signal (such as the one seen above in the first figure in this post) can be decomposed into series of symmetrical waves of varying frequencies. And one of the magical things about the Fourier equation is that these decomposed component sine waves can be added back together (summed) in order to reproduce the original wave form–this is called a backward or reverse transformation. Fourier provides a way of transforming the sentiment-based plot trajectories into an equivalent data form that is independent of the length of the trajectory from beginning to end. The frequency domain begins to solve the book length problem.
+
+This introduced some unwanted outcomes, namely that the resulting wave-forms must begin and end at the same point. The updated function uses a Discrete Cosine Transform (DCT), which is commonly used in data compression.
+
+```{r}
+mb_dct <- get_dct_transform(mb_sentiment, low_pass_size = 5, x_reverse_len = 100, scale_vals = FALSE, scale_range = TRUE)
+
+mb_dct <- data.frame(dct = mb_dct) %>%
+  rownames_to_column("time") %>%
+  mutate(time = as.numeric(time))
+```
+
+Check the data:
+
+```{r echo=FALSE}
+knitr::kable(head(mb_dct), caption = "Sample transformed scores.")
+```
+
+Finally, the values can be plotted.
+
+```{r fig.cap="Sentiment in \\textit{Madame Bovary} using transformed values."}
+plot(mb_dct, type ="l", xlab = "Narrative Time", ylab = "Emotional Valence", col = "red")
+```
+
+# Transformed vs. non-transformed data
+
+In order to better compare the before vs. after, let's create a data frame in which we normalize the narrative time values and scale the sentiment scores.
+
+```{r}
+mb_df <- mb_sentiment %>% 
+  data.frame(sentiment = .) %>%
+  rownames_to_column("time") %>%
+  mutate(time = as.numeric(time)) %>%
+  mutate(time = time/length(mb_sentiment)*100) %>%
+  mutate(sentiment = 2 * (sentiment - min(sentiment))/( max(sentiment) - min(sentiment)) -1)
+
+```
+
+Now, those values can be plotted with the values extracted from DCT.
+
+```{r year_plot, fig.height=3.5, fig.width=7, fig.cap="Transformed vs. non-transformed sentiment in \\textit{Madame Bovary}"}
+ggplot(data=mb_dct, aes(x=time, y=dct)) +
+  geom_line(colour= "tomato") +
+  geom_point(data=mb_df, aes(x=time, y=sentiment), alpha=0.25, size=.25) +
+  xlab("Normalized Narrative Time") + ylab("Scaled Sentiment") +
+  theme_minimal()
+```
+
+# What questions does this example raise for you?
+
+This process raises any number of potential questions: about sentiment analysis, about the choice of procedures, about their application to particular kinds of data, to the very choice of the data itself. In asking you to posit your questions, the goal is not to reach any summative conclusion as to whether the **syuzhet** package is "good" or "bad." Rather it is to have us think through all of the decisions that we make as analysts (or that get made for us inside R packages, software, etc.), and what we might want to know or test in order to advance and defend our conclusions.
+
+## Task 3
+
+We've walked through a complex procedure that involves a series of steps. Sketch out a research scenario or question where the patterns generated by the package might be useful. What information would be important to include to help potential readers understand the affordances and weaknesses of the patterns the package generates? 
+
+> Your response:
+
+
+
+

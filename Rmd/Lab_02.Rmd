@@ -1,0 +1,115 @@
+---
+title: "Lab 2"
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: true
+author: "My Name"
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy=TRUE
+)
+```
+
+# Lab 2 (Set 1): The basics {-}
+
+# A simple processing pipeline
+
+Let's begin by creating an object consisting of a character string. In this case, the first sentence from *A Tale of Two Cities*.
+
+```{r}
+totc_txt <- "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair."
+```
+
+And we'll load the tidyverse libraries.
+
+```{r setup, message = FALSE, error=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+We could then split the vector, say at each space.
+
+```{r}
+totc_tkns <- totc_txt %>% str_split(" ")
+```
+
+Then, we can create a table of counts.
+
+```{r make_table}
+totc_df <- table(totc_tkns) %>% # make a table of counts
+  as_tibble() %>%
+  rename(Token = totc_tkns, AF = n) %>% # rename columns
+  arrange(-AF) # sort the data by frequency
+```
+
+```{r echo=FALSE}
+knitr::kable(head(totc_df), caption = "Token counts of sample sentence.")
+```
+
+The process of splitting the string vector into constituent parts is called **tokenizing**. Think of this as telling the computer how to define a word (or a "token", which is a more precise, technical term). In this case, we've done it in an extremely simple way--by defining a token as any string that is bounded by spaces.
+
+```{r echo=FALSE}
+knitr::kable(filter(totc_df, str_detect(totc_df$Token, regex("^it$", ignore_case= T))), caption = "Case sensitive counts of the token *it*.")
+```
+
+Note that in doing so, we are counting capitalized and non-capitalized words as distinct tokens.
+
+There may be specific instances when we want to do this. But normally, we'd want *it* and *It* to be the same token. To do that, we can add a step in the processing pipeline that converts our vector to lower case before tokenizing.
+
+```{r}
+totc_df <- tolower(totc_txt) %>%
+  str_split(" ") %>%
+  table() %>% # make a table of counts
+  as_tibble() %>%
+  rename(Token = ".", AF = n) %>% # rename columns
+  arrange(-AF) # sort the data by frequency
+```
+
+
+```{r echo=FALSE}
+knitr::kable(head(totc_df), caption = "Token counts of sample sentence.")
+```
+
+# What counts as a token?
+
+These choices are important. To carry our any statistical analysis on texts, we radically reorganize texts into counts. Precisely how we choose to do that--the decisions we make in exactly **what** to count--affects everything else downstream.
+
+So let's consider a chunk of text that is a little more complicated than the example from *A Tale of Two Cities*. In the code block below, you are going to write out some pseudocode that lists the steps you would take to get from the text example to the tokens you want to count. For example, you might consider if you want to include numbers? Or symbols? Punctuation? How would you handle hyphenated words? Contractions?
+
+Pseudocode is simply a step-by-step description of an algorithmic process. While not written for any specific language, pseudocode can be "translated" into working code. We're not going to be too rigorous here about your pseudocode, but in general, you should:
+
+* Capitalize the initial word.
+* Have only one statement per line.
+* Indent to show hierarchy, improve readability, and show nested constructs.
+* Keep it simple, concise, and readable.
+
+## Task 1
+
+Write your own pseudocode for processing and tokenizing the following text:
+
+> In spite of some problems, we saw a 35% uptick in our user-base in the U.S. But that's still a lot fewer than we had last year. We'd like to get that number closer to what we've experienced in the U.K.--something close to 3 million users.
+
+```{r pseudo_code, eval=FALSE}
+READ text
+  NEXT step?
+  DO another thing?
+  AS MANY things as you need...
+OUTPUT tokens
+```
+
+## Task 2
+
+Briefly decribe the tokens that you want to output
+
+> Your response:
+
+What are some kinds of tokens that you think are particularly challenging to deal with (e.g., hyphenated words, contractions, abbreviations, etc.)?
+
+> Your response:
+
+
