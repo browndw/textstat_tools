@@ -1,17 +1,29 @@
 ---
 title: "Lab 9"
+author: "My Name"
 output:
   pdf_document:
     fig_caption: yes
     number_sections: true
-author: "My Name"
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
 ---
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy.opts=list(width.cutoff=70),
   tidy=TRUE
 )
 ```
@@ -159,13 +171,12 @@ jtools::export_summs(f1_lm, f2_lm, f3_lm, statistics = c(DF = "df.residual", R2 
   error_pos = "same")
 ```
 
-## Task 1
-
-Brezina similarly plots the Brown corpus registers on pg. 169. His process is a little different. Rather than extracting factor loadings from the Brown corpus, he uses the loadings from the original Biber data (some of which are listed on pg. 168).
-
-Our loadings for dimension 1 are similar to Biber's, though with some differences. Likewise, the resulting plot is similar to the one on pg. 169. Why is this the case, do you think? (If you want to check Biber's description of his corpus, it's on pg. 66 of his book.)
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 1
+\end{center} 
+___
 
 # Case 2: DocuScope
 
@@ -297,9 +308,10 @@ knitr::kable(ch %>% head())
 knitr::kable(awm %>% head())
 ```
 
-## Task 2
-
-Using information from the factor loadings, the positions of the disciplines along the dimension, and KWIC tables, name dimension 1 following the X vs. Y convention. In a couple of sentences, explain your reasoning.
-
-> Your response
-
+\break
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 2
+\end{center} 
+___

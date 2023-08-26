@@ -1,10 +1,22 @@
 ---
 title: "Lab 6"
+author: "My Name"
 output:
   pdf_document:
     fig_caption: yes
     number_sections: true
-author: "My Name"
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
 ---
 
 ```{r, include=FALSE}
@@ -308,39 +320,10 @@ Again, we can look at the first few rows of the table:
 knitr::kable(head(kk), digits = 2, "simple", caption = "Key key words when comparing the academic text-type to the fiction text-type.")
 ```
 
-# Task 1
-
-## Create a keyness table
-
-1. In the code block below, create a document-feature matrix of the blog text-type.
-2. In the same code-block create a keyness table with the blog text-type as the target corpus and the news text-type as the reference.
-
-```{r your_code}
-# your code goes here
-```
-
-3. Use the code block below to output the head of the keyness table with an accompanying caption.
-
-```{r echo=FALSE}
-# your table goes here
-```
-
-## Answer the following questions
-
-1. What are the 2 tokens with the highest keyness values?
-
-> Your response
-
-2. Posit an explanation for their greater frequency in blog copus, being as **descriptive** as possible. Think about the **communicative purposes** of these text-types, as opposed to value judgments about the writers or the genres.
-
-> Your response
-
-3. What are the 2 tokens with the greatest effect sizes?
-
-> Your response
-
-4. Posit a reason for that result.
-
-> Your response
-
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 1
+\end{center} 
+___
 

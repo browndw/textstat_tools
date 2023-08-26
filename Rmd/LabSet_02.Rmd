@@ -1,0 +1,268 @@
+---
+title: "Lab Set 2"
+author: "My Name"
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: true
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
+---
+
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy=TRUE
+)
+```
+
+# Lab 04
+
+## Task 1
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(quanteda)
+```
+
+
+```{r}
+load("../data/sample_corpus.rda")
+source("../R/dispersion_functions.R")
+```
+
+
+```{r}
+sc_tokens <- sample_corpus %>%
+  corpus() %>%
+  tokens(remove_punct = TRUE, remove_numbers = TRUE, remove_symbols = TRUE, what = "word") %>%
+  tokens_tolower()
+
+sc_dfm <- sc_tokens %>%
+  dfm()
+
+sc_freq <- sc_dfm %>%
+  quanteda.textstats::textstat_frequency() %>%
+  mutate(RF = (frequency/sum(frequency))*1000000)
+```
+
+Plot a histogram (or histograms) for the the 1st, 10th, and 100th most frequent tokens in the sample corpus.
+
+```{r}
+
+```
+
+What do you notice (or what conclusions can you draw) from the plots you've generated about the distributions of tokens as their frequency decreases?
+
+> Your response
+
+## Task 2
+
+```{r}
+the <- dispersions_token(sc_dfm, "the") %>% unlist()
+data <- dispersions_token(sc_dfm, "data") %>% unlist()
+```
+
+```{r}
+the['Deviation of proportions DP']
+data['Deviation of proportions DP']
+```
+
+
+What do you note about the difference in the Deviation of Proportions for *the* vs. *data*?
+
+> Your response
+
+## Task 3
+
+```{r, message=FALSE, warning=FALSE}
+sc_ft <- frequency_table(sc_tokens)
+```
+
+Which token is the most frequent? The most dispersed?
+
+> Your response
+
+Write a sentence or two reporting the frequencies and dispersions of *the* and *data* fowling the examples on page 53 of Brezina:
+
+> Your response
+
+```{r fig.height=2.5, fig.width=7, fig.cap="Token rank vs. frequency."}
+ggplot(sc_freq %>% filter(rank < 101), aes(x = rank, y = frequency)) +
+  geom_point(shape = 1, alpha = .5) +
+  theme_classic() +
+  ylab("Absolute frequency") +
+  xlab("Rank")
+```
+
+The relationship you're seeing between the rank of a token and it's frequency holds true for almost any corpus and is referred to as **Zipf's Law** (see Brezina pg. 44).
+
+## Task 4
+
+Describe at least one statistical and one methodological implication of what the plot is illustrating.
+
+> Your response
+
+# Lab 05
+
+## Task 1
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(quanteda)
+```
+
+
+```{r}
+source("../R/helper_functions.R")
+source("../R/utility_functions.R")
+source("../R/collocation_functions.R")
+```
+
+
+```{r}
+sc_tokens <- sample_corpus %>%
+  mutate(text = quanteda.extras::preprocess_text(text)) %>%
+  corpus() %>%
+  tokens(what="fastestword", remove_numbers=TRUE)
+```
+
+```{r}
+money_collocations <- collocates_by_MI(sc_tokens, "money")
+time_collocations <- collocates_by_MI(sc_tokens, "time")
+```
+
+Report the collocations of *time* and *money* in 2 or 3 sentences following the conventions described in Brezina (pg. 75).
+
+> Your response
+
+
+## Task 2
+
+```{r}
+tc <- time_collocations %>% filter(col_freq >= 5 & MI_1 >= 5)
+mc <- money_collocations %>% filter(col_freq >= 5 & MI_1 >= 5)
+net <- col_network(tc, mc)
+```
+
+```{r}
+library(ggraph)
+```
+
+```{r net_plot, warning=FALSE, message = FALSE, fig.width = 7, fig.height=4}
+ggraph(net, weight = link_weight, layout = "stress") + 
+  geom_edge_link(color = "gray80", alpha = .75) + 
+  geom_node_point(aes(alpha = node_weight, size = 3, color = n_intersects)) +
+  geom_node_text(aes(label = label), repel = T, size = 3) +
+  scale_alpha(range = c(0.2, 0.9)) +
+  theme_graph() +
+  theme(legend.position="none")
+```
+
+
+Write a 2-4 sentence interpretation of the *time* vs. *money* collocational network.
+
+> Your response
+
+## Task 3
+
+```{r}
+set.seed(1234)
+
+# set file path
+files_list <- list.files("../data/screenplay_corpus", full.names = T, pattern = "*.txt")
+
+sp <- sample(files_list, 50) %>%
+  readtext::readtext() %>%
+  from_play(extract = "dialogue") %>%
+  mutate(text = quanteda.extras::preprocess_text(text)) %>%
+  corpus() %>%
+  tokens(what="fastestword", remove_numbers=TRUE)
+```
+
+```{r}
+b <- collocates_by_MI(sp, "boy", left = 3, right = 0)
+b <- b %>% filter(col_freq >= 3 & MI_1 >= 3)
+
+g  <- collocates_by_MI(sp, "girl", left = 3, right = 0)
+g <- g %>% filter(col_freq >= 3 & MI_1 >= 3)
+```
+
+### Plot the network
+
+```{r, message = FALSE, fig.width = 7, fig.height=4}
+net <- col_network(b, g)
+
+ggraph(net, weight = link_weight, layout = "stress") + 
+  geom_edge_link(color = "gray80", alpha = .75) + 
+  geom_node_point(aes(alpha = node_weight, size = 3, color = n_intersects)) +
+  geom_node_text(aes(label = label), repel = T, size = 3) +
+  scale_alpha(range = c(0.2, 0.9)) +
+  theme_graph() +
+  theme(legend.position="none")
+```
+
+
+Write a 3-5 sentence interpretation of the *boy* vs. *girl* collocational network, which includes reporting relevant association measures following the example in Brezina (pg. 75).
+
+> Your response
+
+# Lab 06
+
+## Task 1
+
+### Create a keyness table
+
+
+```{r}
+source("../R/keyness_functions.R")
+source("../R/helper_functions.R")
+load("../data/sample_corpus.rda")
+```
+
+
+1. In the code block below, create a document-feature matrix of the blog text-type.
+2. In the same code-block create a keyness table with the blog text-type as the target corpus and the news text-type as the reference.
+
+```{r your_code}
+# your code goes here
+```
+
+3. Use the code block below to output the head of the keyness table with an accompanying caption.
+
+```{r echo=FALSE}
+# your table goes here
+```
+
+### Answer the following questions
+
+1. What are the 2 tokens with the highest keyness values?
+
+> Your response
+
+2. Posit an explanation for their greater frequency in blog corpus, being as **descriptive** as possible. Think about the **communicative purposes** of these text-types, as opposed to value judgments about the writers or the genres.
+
+> Your response
+
+3. What are the 2 tokens with the greatest effect sizes?
+
+> Your response
+
+4. Posit a reason for that result.
+
+> Your response
+
+

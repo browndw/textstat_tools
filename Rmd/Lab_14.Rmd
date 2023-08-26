@@ -1,0 +1,395 @@
+---
+title: "Lab 14"
+author: "My Name"
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: true
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  tidy.opts=list(width.cutoff=70),
+  tidy=TRUE
+)
+```
+
+# Lab 14: Random Forest {-}
+
+We're going to repeat the Federalist classification problem. Rather than a loasso regression model, however, this time we'll be constructing a random forest classification model.
+
+Broadly, random forests generate many classification trees. Each tree gives a classification, and we say the tree "votes" for that class. The forest chooses the classification having the most votes (over all the trees in the forest).  
+
+If you're unfamiliar with random forests, you can (and should) read more here:
+
+<https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm>
+
+
+```{r setup, message = FALSE, error=FALSE, warning=FALSE}
+library(tidyverse)
+library(quanteda)
+library(rsample)
+library(randomForest) # basic implementation
+library(rfUtilities) # utilities for performance evaluation
+```
+
+# Variables
+
+As with the Lab on lasso regression, we'll start with Mosteller & Wallace's lists of tokens.
+
+Their first group contains 70 tokens...
+
+```{r group_1}
+mw_group1 <- c("a", "all", "also", "an", "and", "any", "are", "as", "at", "be", "been", "but", "by", "can", "do", "down", "even", "every", "for", "from", "had", "has", "have", "her", "his", "if", "in", "into", "is", "it",  "its", "may", "more", "must", "my", "no", "not", "now", "of", "on", "one", "only", "or", "our", "shall", "should", "so", "some", "such", "than", "that", "the", "their", "then", "there", "things", "this", "to", "up", "upon", "was", "were", "what", "when", "which", "who", "will", "with", "would", "your")
+```
+
+
+Their second an addional 47...
+
+```{r group_2}
+mw_group2 <- c("affect", "again", "although", "among", "another", "because", "between", "both", "city", "commonly", "consequently", "considerable", "contribute", "defensive", "destruction", "did", "direction", "disgracing", "either", "enough", "fortune", "function", "himself", "innovation", "join", "language", "most", "nor", "offensive", "often", "pass", "perhaps", "rapid", "same", "second", "still", "those", "throughout", "under", "vigor", "violate", "violence", "voice", "where", "whether", "while", "whilst")
+```
+
+And their third another 48 (though they identify some by lemmas and another "expence" doesn't appear in our data, possibly because of later editing done in our particular edition)...
+
+```{r gorup_3}
+mw_group3 <- c("about", "according", "adversaries", "after", "aid", "always", "apt", "asserted", "before", "being", "better", "care", "choice", "common", "danger", "decide", "decides", "decided", "deciding", "degree", "during", "expense", "expenses", "extent", "follow", "follows", "followed", "following", "i", "imagine", "imagined", "intrust", "intrusted", "intrusting","kind", "large", "likely", "matter", "matters", "moreover", "necessary", "necessity", "necessities", "others", "particularly", "principle", "probability", "proper", "propriety", "provision", "provisions", "requisite", "substance", "they", "though", "truth", "truths", "us", "usage", "usages", "we", "work", "works")
+```
+
+All together, they list 165 candidate variables, though it works out to be 180 unlemmatized tokens as potential variables for their model.
+
+We'll concatenate a vector of all their variables into a single vector.
+
+```{r}
+mw_all <- sort(c(mw_group1, mw_group2, mw_group3))
+```
+
+# *The Federalist Papers*
+
+And we'll start by setting up our data much like we did for lasso. First, we'll get the metadata...
+
+
+```{r}
+load("../data/federalist_meta.rda")
+load("../data/federalist_papers.rda")
+```
+
+
+```{r}
+fed_meta <- federalist_meta %>%
+  dplyr::select(doc_id, author_id)
+```
+
+We'll read in the text...
+
+```{r}
+fed_txt <- federalist_papers
+```
+
+# Preparing the Data
+
+Now, we'll tokenize the data.
+
+```{r}
+fed_tokens <- fed_txt %>%
+  corpus() %>%
+  tokens(remove_punct = T, remove_symbols = T, what = "word")
+```
+
+And create a weighted dfm. The 3rd line preps the column so it can be merged with our metadata. The 4th orders the tokens by their mean frequencies. This isn't necessary here, but can be useful when doing quick subsetting of variables. And the 5th changes the column name for easy joining.
+
+```{r}
+fed_dfm <- fed_tokens %>% dfm() %>% dfm_weight(scheme = "prop") %>%
+  convert(to = "data.frame") %>%
+  mutate(doc_id = str_remove(doc_id, ".txt$")) %>%
+  select(doc_id, names(sort(colMeans(.[,-1]), decreasing = TRUE)))
+```
+
+Now let's join the author_id from the metadata.
+
+```{r, message=FALSE}
+fed_dfm <- fed_dfm %>% 
+  right_join(fed_meta) %>% 
+  dplyr::select(doc_id, author_id, everything())
+```
+
+# Training and testing data
+
+Now we can subset out our training and testing data.
+
+```{r}
+train_dfm <- fed_dfm %>% 
+  filter(author_id == "Hamilton" | author_id == "Madison") %>% 
+  dplyr::select(doc_id, author_id, all_of(mw_all)) %>%
+  mutate(author_id = factor(author_id)) %>%
+  column_to_rownames("doc_id") %>%
+  as_tibble()
+
+# Note that some R functions have difficulty when column names are same as base function names like 'in' or 'if'.
+# To head off any problems, we'll convert the first letter to upper case.
+colnames(train_dfm)[-1] <- colnames(train_dfm)[-1] %>% str_to_title()
+
+test_dfm <- fed_dfm %>% 
+  filter(author_id == "Disputed") %>% 
+  dplyr::select(doc_id, author_id, all_of(mw_all)) %>%
+  column_to_rownames("doc_id") %>%
+  as_tibble()
+
+colnames(test_dfm)[-1] <- colnames(test_dfm)[-1] %>% str_to_title()
+```
+
+# Create a model
+
+Now let's generate a random forest model. Fist, note that when the training set for the current tree is drawn by sampling with replacement, about one-third of the cases are left out of the sample. This oob (out-of-bag) data is used to get a running unbiased estimate of the classification error as trees are added to the forest. It is also used to get estimates of variable importance.
+
+Thus, we don't necessarily need to sample out a validation set of our data, though you certainly can.
+
+We'll set our seed. And generate a model.
+
+```{r}
+set.seed(123)
+fed_m1 <- randomForest(formula = author_id ~ ., data = train_dfm)
+```
+
+```{r}
+fed_m1
+```
+
+Let's set aside the error rate for a moment, and walk through the prediction... So now we use the model on our test data.
+
+```{r}
+pred_fed <- predict(fed_m1, test_dfm)
+```
+
+```{r}
+pred_fed %>% knitr::kable(col.names = c("Pred. Author"))
+```
+
+This is exactly what we predicted using lasso regression! Now let's look quickly at variable importance.
+
+Every node in the decision trees is a condition on a single feature,  designed to split the dataset into two so that similar response values end up in the same set. The measure based on which (locally) optimal condition is chosen is called impurity. For classification, it is typically either  Gini impurity or information gain/entropy. Thus when training a tree,  it can be computed how much each feature decreases the weighted impurity in a tree. 
+
+For a forest, the impurity decrease from each feature can be averaged and the features are ranked according to this measure. These are the features that are important to our particular model and from our model, we can retrieve using **importance()** these.
+
+```{r}
+importance(fed_m1) %>% as.data.frame() %>% dplyr::arrange(-MeanDecreaseGini) %>% head() %>% knitr::kable(digits = 2)
+```
+
+# Evalutating and tuning a model
+
+Let's return to our model. We have a 7.69% OOB error rate. There are variety of ways to try to reduce OOB error. One is to tune the random forest model.  And there are only a few parameters that can be adjusted:
+
+* mtry: the number of variables to randomly sample as candidates at each split.
+* ntree: the number of trees.
+* sampsize: the number of samples to train on.
+* nodesize: minimum number of samples within the terminal nodes.
+* maxnodes: maximum number of terminal nodes.
+
+Initial tuning can be done with the **tuneRF()** function. The function will start at a value of mtry that you supply and increase by a certain step  factor until the OOB error stops improving be a specified amount. For example, the below starts with **mtry = 5** and increases by a factor of 2 until the OOB error stops improving by 1%.
+
+```{r}
+set.seed(1234)
+test <- tuneRF(
+  x          = train_dfm[-1],
+  y          = train_dfm$author_id,
+  ntreeTry   = 500,
+  mtryStart  = 5,
+  stepFactor = 2,
+  improve    = 0.01,
+  trace      = FALSE 
+)
+```
+
+
+The result is close to the default value of features/3 or 180/3. There are other methods turning other parameters. For instructions on how to do those, you can consult tutorials like the one here:
+
+<https://uc-r.github.io/random_forests>
+
+# Dealing with imbalanced data
+
+There is one particularly imporant issue with our data, which we need to consider. Check the (im)balance in our data.
+
+```{r}
+train_dfm %>% group_by(author_id) %>% tally() %>% knitr::kable()
+```
+
+And, again, look at the confusion matrix.
+
+```{r}
+fed_m1$confusion %>% knitr::kable( digits = 2)
+```
+
+To access our default model in more detail, we can use the accuracy function from the **rfUtilities** package. We give the function a vector of the predicted values, and one of the observed values. 
+
+Too read more about evaluating the accuracy of classifiers, see here:
+
+<http://gsp.humboldt.edu/olm_2019/courses/GSP_216_Online/lesson6-2/metrics.html>
+
+And here:
+
+<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222916>
+
+
+```{r}
+accuracy(fed_m1$predicted, train_dfm$author_id) %>% print()
+```
+
+Random forest is sensitive to unbalanced data. There is an excellent discussion of handling imbalanced data here:
+
+<https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf>
+
+I will quote the authors here:
+
+> "For any classifier, there is always a trade off between true positive rate and true negative rate; and the same applies for recall and precision. In the case of learning extremely imbalanced data, quite often the rare class is of great interest.  In many applications, it is desirable to have a classifier that gives high prediction accuracy over the minority class, while maintaining reasonable accuracy for the majority class."
+
+There are a variety of ways to try to achieve this. One is to use the classwt argument. Another is to change the sample sizes.
+
+We'll create 4 models.
+
+```{r}
+rf1 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=65)
+rf2 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(38,14))
+rf3 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(25,14))
+rf4 <- randomForest(author_id~., train_dfm, ntree=500, sampsize=c(14,14))
+```
+
+And check the OOB error for each.
+
+```{r}
+data.frame(rf1 = tail(rf1$err.rate[,1], n=1)*100, rf2 = tail(rf2$err.rate[,1], n=1)*100,
+           rf3 = tail(rf3$err.rate[,1], n=1)*100, rf4 = tail(rf4$err.rate[,1], n=1)*100) %>%
+  knitr::kable(digits = 2)
+```
+
+Now, let's compare models over multiple iterations. We'll start by setting up vector for 100 iterations. Next, we'll create an empty vector.
+
+```{r}
+intervals <- c(1:100)
+oob_error <- NULL
+```
+
+Now, we'll generate OOB errors for 100 models based on the full training data and populate the vector. This will take a few seconds.
+
+```{r}
+for(i in intervals){
+  m1 <- randomForest(
+    formula = author_id ~ .,
+    data    = train_dfm
+  )
+  oob <-tail(m1$err.rate[,1], n=1)
+  oob_error[[i]] <- oob*100
+}
+```
+
+Let's look at the maximum, minimum, and mean values.
+
+```{r}
+oob_error <- unlist(oob_error)
+data.frame(oob_max = max(oob_error), oob_min = min(oob_error), mean_oob = mean(oob_error)) %>%
+  knitr::kable(digits = 2)
+```
+
+Now, we'll reset the vector. And populate it with values based on the model with adjusted sampling.
+
+```{r}
+oob_error <- NULL
+
+for(i in intervals){
+  m1 <- randomForest(
+    formula  = author_id ~ .,
+    data     = train_dfm,
+    ntree    = 500, 
+    sampsize = c(14,14)
+  )
+  oob <-tail(m1$err.rate[,1], n=1)
+  oob_error[[i]] <- oob*100
+}
+
+```
+
+Again, we'll check our OOB error.
+ 
+```{r}
+oob_error <- unlist(oob_error)
+data.frame(oob_max = max(oob_error), oob_min = min(oob_error), mean_oob = mean(oob_error)) %>%
+  knitr::kable(digits = 2)
+```
+
+Finally, let's check similar model ajustments agaist a validcation set. For this, as we did with lasso, we'll use some handy functions from the **rsample** package. First, we make an 80/20 split. From that we create a new and smaller training set.
+
+```{r}
+set.seed(123)
+valid_split <- initial_split(train_dfm, .85)
+train_dfm_v2 <- analysis(valid_split)
+```
+
+And check the breakdown of our authors.
+
+```{r}
+train_dfm_v2 %>% group_by(author_id) %>% tally() %>% knitr::kable()
+```
+
+And a validation set.
+
+```{r}
+train_valid <- assessment(valid_split)
+```
+
+Now we can create a new model with balanced sampling.
+
+```{r}
+rf_valid <- randomForest(
+  formula  = author_id ~ .,
+  data     = train_dfm_v2,
+  ntree    = 500, 
+  sampsize = c(12,12)
+)
+```
+
+Make our predictions on the validation set.
+
+```{r}
+pred_randomForest <- predict(rf_valid, train_valid)
+```
+
+Look at what they actually are...
+
+```{r}
+table(pred=pred_randomForest, true=train_valid$author_id) %>% knitr::kable()
+```
+
+And calculate our model accuracy...
+
+```{r}
+mean(pred_randomForest == train_valid$author_id) %>% knitr::kable(col.names = "Accuracy", digits = 2)
+```
+
+Finally we can make predictions with our adjusted model.
+
+```{r}
+pred_fed <- predict(rf4, test_dfm)
+```
+
+And view those predicitons..
+
+```{r}
+pred_fed %>% knitr::kable(col.names = "Pred. Author")
+```
+
+Okay, we've repeated this task a couple of times now. Both times, we've taken advantage of Mosteller & Wallace's filtering of variables. This has made life much easier for us. But what if we didn't have their candidate words to feed into our models? What if we were starting from the dfm with 8765 words? How would you tackle variable selection, knowing that random forests don't do well with highly zero-skewed variables. So just feeding the entire dfm into random forest isn't going to be the best solution.
+
+On the one hand, more common words are certainly good candidates for a model. On the other, you don't want to throw out less frequent words that might be highly discriminatory....

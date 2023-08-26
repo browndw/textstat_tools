@@ -1,17 +1,29 @@
 ---
 title: "Lab 2"
+author: "My Name"
 output:
   pdf_document:
     fig_caption: yes
     number_sections: true
-author: "My Name"
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
 ---
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy.opts=list(width.cutoff=70),
   tidy=TRUE
 )
 ```
@@ -75,41 +87,11 @@ totc_df <- tolower(totc_txt) %>%
 knitr::kable(head(totc_df), caption = "Token counts of sample sentence.")
 ```
 
-# What counts as a token?
-
-These choices are important. To carry our any statistical analysis on texts, we radically reorganize texts into counts. Precisely how we choose to do that--the decisions we make in exactly **what** to count--affects everything else downstream.
-
-So let's consider a chunk of text that is a little more complicated than the example from *A Tale of Two Cities*. In the code block below, you are going to write out some pseudocode that lists the steps you would take to get from the text example to the tokens you want to count. For example, you might consider if you want to include numbers? Or symbols? Punctuation? How would you handle hyphenated words? Contractions?
-
-Pseudocode is simply a step-by-step description of an algorithmic process. While not written for any specific language, pseudocode can be "translated" into working code. We're not going to be too rigorous here about your pseudocode, but in general, you should:
-
-* Capitalize the initial word.
-* Have only one statement per line.
-* Indent to show hierarchy, improve readability, and show nested constructs.
-* Keep it simple, concise, and readable.
-
-## Task 1
-
-Write your own pseudocode for processing and tokenizing the following text:
-
-> In spite of some problems, we saw a 35% uptick in our user-base in the U.S. But that's still a lot fewer than we had last year. We'd like to get that number closer to what we've experienced in the U.K.--something close to 3 million users.
-
-```{r pseudo_code, eval=FALSE}
-READ text
-  NEXT step?
-  DO another thing?
-  AS MANY things as you need...
-OUTPUT tokens
-```
-
-## Task 2
-
-Briefly decribe the tokens that you want to output
-
-> Your response:
-
-What are some kinds of tokens that you think are particularly challenging to deal with (e.g., hyphenated words, contractions, abbreviations, etc.)?
-
-> Your response:
+___
+\begin{center}
+STOP!\\
+COMPLETE TASKS 1 \& 2
+\end{center} 
+___
 
 

@@ -1,17 +1,29 @@
 ---
 title: "Lab 7"
+author: "My Name"
 output:
   pdf_document:
     fig_caption: yes
     number_sections: true
-author: "My Name"
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
 ---
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy.opts=list(width.cutoff=70),
   tidy=TRUE
 )
 ```
@@ -294,21 +306,12 @@ kableExtra::kbl(acad_v_fic %>% filter(Tag == "md"), caption = "A keyness compari
   kableExtra::kable_classic()
 ```
 
-## Task 1
-
-From the keyness table, identify the preposition with the highest keyness value. Report the relevant statistics (including frequencies and dispersions) following the conventions described in Brezina.
-
-> Your response
-
-Create a KWIC table (with the preposition as the node word and a context window of 3) of 10 rows.
-
-```{r}
-
-```
-
-Posit an expiation for the higher frequency of the preposition in the target corpus (academic writing) vs. the reference corpus (fiction).
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 1
+\end{center} 
+___
 
 ## Extract phrases
 
@@ -392,10 +395,11 @@ kableExtra::kbl(fic_nps %>% head(), caption = "Unique noun phrases extracted fro
 
 ```
 
-## Task 2
-
-Calculate the mean length of the noun phrases in the 2 two text-types. Report the results and posit an explanation for the findings that connects to the previous findings related to prepositions.
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 2
+\end{center} 
+___
 
 

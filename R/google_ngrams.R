@@ -50,7 +50,7 @@ google_ngram <- function(word_forms, variety=c("eng", "gb", "us", "fiction"), by
   if(by == "year") total_counts <- aggregate(Total ~ Year, total_counts, sum)
   if(by == "decade") total_counts$Decade <- gsub("\\d$", "0", total_counts$Year)
   if(by == "decade") total_counts <- aggregate(Total ~ Decade, total_counts, sum)
-
+  
   all_grams$token <- tolower(all_grams$token)
   sum_tokens <- aggregate(AF ~ Year, all_grams, sum)
   

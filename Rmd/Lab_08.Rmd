@@ -1,17 +1,29 @@
 ---
 title: "Lab 8"
+author: "My Name"
 output:
   pdf_document:
     fig_caption: yes
     number_sections: true
-author: "My Name"
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
 ---
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy.opts=list(width.cutoff=70),
   tidy=TRUE
 )
 ```
@@ -263,11 +275,12 @@ For our purposes we'll just use the **Cstat()** function from ***DescTools**.
 DescTools::Cstat(glm_fit)
 ```
 
-## Task 1
-
-Following the example in Brezina (pg. 129), report and briefly interpret the output of the regression model above (see Table 1).
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 1
+\end{center} 
+___
 
 # Case 2
 
@@ -469,9 +482,11 @@ ggplot(plot_prob, aes(x = confidence, y = probability, color = feature)) + geom_
   facet_grid(variable ~ ., scales = "free")
 ```
 
-## Task 2
-
-Write a brief interpretation of the probability curves illustrated in Figure 5.
-
-> Your response
+\break
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 2
+\end{center} 
+___
 

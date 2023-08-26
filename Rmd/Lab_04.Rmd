@@ -1,17 +1,29 @@
 ---
 title: "Lab 4"
+author: "My Name"
 output:
   pdf_document:
     fig_caption: yes
     number_sections: true
-author: "My Name"
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
 ---
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy.opts=list(width.cutoff=70),
   tidy=TRUE
 )
 ```
@@ -259,17 +271,12 @@ ggplot(word_df,aes(x = RF, color = token, fill = token)) +
   facet_wrap(~ token)
 ```
 
-## Task 1
-
-Plot a histogram (or histograms) for the the 1st, 10th, and 100th most frequent tokens in the sample corpus.
-
-```{r}
-
-```
-
-What do you notice (or what conclusions can you draw) from the plots you've generated about the distributions of tokens as their frequency decreases?
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 1
+\end{center} 
+___
 
 # Dispersion
 
@@ -295,11 +302,13 @@ data <- dispersions_token(sc_dfm, "data") %>% unlist()
 knitr::kable(data.frame(the = the["Deviation of proportions DP"], data = c(data["Deviation of proportions DP"])), digits = 3, caption = "Deviation of Proportions for the tokens \\textit{the} and \\textit{data}.", "simple")
 ```
 
-## Task 2
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 2
+\end{center} 
+___
 
-What do you note about the difference in the Deviation of Proportions for *the* vs. *data*?
-
-> Your response
 
 ## Dispersions for all tokens
 
@@ -327,15 +336,12 @@ ft <- frequency_table(sc_tokens)
 knitr::kable(head(ft), digits = 3, caption = "Frequency and dispersion measures for all tokens.", "simple")
 ```
 
-## Task 3
-
-Which token is the most frequent? The most dispersed?
-
-> Your response
-
-Write a sentence or two reporting the frequencies and dispersions of *the* and *data* fowling the examples on page 53 of Brezina:
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 3
+\end{center} 
+___
 
 
 # Zipf's Law
@@ -352,8 +358,11 @@ ggplot(freq_df %>% filter(rank < 101), aes(x = rank, y = frequency)) +
 
 The relationship you're seeing between the rank of a token and it's frequency holds true for almost any corpus and is referred to as **Zipf's Law** (see Brezina pg. 44).
 
-## Task 4
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 4
+\end{center} 
+___
 
-Describe at least one statistical and one methodological implication of what the plot is illustrating.
 
-> Your response

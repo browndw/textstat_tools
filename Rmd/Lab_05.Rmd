@@ -1,17 +1,29 @@
 ---
 title: "Lab 5"
+author: "My Name"
 output:
   pdf_document:
     fig_caption: yes
     number_sections: true
-author: "My Name"
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
 ---
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  tidy.opts=list(width.cutoff=70), # this last bit auto-wraps code and comments so the don't run off the page, but you need to have formatR installed
+  tidy.opts=list(width.cutoff=70),
   tidy=TRUE
 )
 ```
@@ -117,11 +129,12 @@ knitr::kable(head(tc), digits = 3)
 knitr::kable(head(mc), digits = 3)
 ```
 
-## Task 1
-
-Report the collocations of *time* and *money* in 2 or 3 sentences following the conventions described in Brezina (pg. 75).
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 1
+\end{center} 
+___
 
 # Create a tbl_graph object for plotting
 
@@ -150,11 +163,12 @@ ggraph(net, weight = link_weight, layout = "stress") +
   theme(legend.position="none")
 ```
 
-## Task 2
-
-Write a 2-4 sentence interpretation of the *time* vs. *money* collocational network.
-
-> Your response
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 2
+\end{center} 
+___
 
 # Reading in local files
 
@@ -222,8 +236,10 @@ ggraph(net, weight = link_weight, layout = "stress") +
   theme(legend.position="none")
 ```
 
-## Task 3
-
-Write a 3-5 sentence interpretation of the *boy* vs. *girl* collocational network, which includes reporting relevant association measures following the example in Brezina (pg. 75).
-
-> Your response
+\break
+___
+\begin{center}
+STOP!\\
+COMPLETE TASK 3
+\end{center} 
+___

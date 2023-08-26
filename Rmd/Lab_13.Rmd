@@ -1,0 +1,279 @@
+---
+title: "Lab 13"
+author: "My Name"
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: true
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+      breaksymbolleft={}, 
+      showspaces = false,
+      showtabs = false,
+      breaklines,
+      commandchars=\\\{\}
+    }
+    ```
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  tidy.opts=list(width.cutoff=70),
+  tidy=TRUE
+)
+```
+
+# Lab 13: Quick Introduction to Vector Models and Word Embeddings {-}
+
+This is just a very quick walk-though tutorial on using vector models. This Lab only uses a pre-trained model. However, you can build your own model (which we will do in another Lab). You can also use vector models for classification tasks. For that, you should consult the document for the R package we're using: **ruimtehol**.
+
+There is an overview here:
+
+<http://www.bnosac.be/index.php/blog/86-neural-text-modelling-with-r-package-ruimtehol>
+
+And here:
+
+<https://github.com/bnosac/ruimtehol>
+
+For more about Word2vec and embeddings generally, see the overview here:
+
+<https://medium.com/compassred-data-blog/introduction-to-word-embeddings-and-its-applications-8749fd1eb232>
+
+```{r setup, message = FALSE, error=FALSE, warning=FALSE}
+library(ruimtehol)
+library(tidyverse)
+library(Rtsne)
+```
+
+# Basics
+
+A variety of models are available for you on CMU Box:
+
+<https://cmu.box.com/s/o2y5lbaonmguf51h5kipa6i2v4y3nm3n>
+
+For demo purposes, we'll use a small one:
+
+<https://cmu.box.com/s/y1p4b1b9g1lsakn4ohut0l2lgpxr1u4v>
+
+First, download the model and place it in the `models` folder. Then load the model.
+
+```{r load_model}
+model <- starspace_load_model("../models/en_coca_vec_sm.ruimtehol")
+```
+
+Now we can check how similarities work.
+
+```{r similarity}
+embedding_similarity(
+  starspace_embedding(model, "dog"),
+  starspace_embedding(model, "cat"), 
+  type = "cosine") %>%
+  knitr::kable(digits =2)
+```
+
+Look for nearest embeddings.
+
+```{r shakespeare}
+starspace_knn(model, "shakespeare", 10) %>% knitr::kable(digits = 2, booktabs = TRUE)
+```
+
+We can also calculate document similarity.
+
+```{r doc_similarity}
+embedding_similarity(
+  starspace_embedding(model, "what does this bunch of text look like", type = "document"),
+  starspace_embedding(model, "word abracadabra is even in the dictionary", type = "document"), 
+  type = "cosine") %>% knitr::kable(digits = 2, booktabs = TRUE)
+```
+
+
+Note that we can extract embeddings, as well.
+
+```{r as_matrix}
+embedding <- as.matrix(model)
+```
+
+```{r dog_cat}
+embedding[c("dog", "cat"), ][,1:10] %>% knitr::kable(digits = 2)
+```
+
+This ability is useful if we want to plot the locations of words or documents.
+
+# Example from the Midterm Data
+
+First, we'll read in the text data.
+
+```{r}
+load("../data/micusp_mini.rda")
+```
+
+
+```{r load_micusp}
+micusp <- micusp_mini
+```
+
+And join it with the metadata.
+
+```{r process_micusp, message=FALSE, warning=FALSE}
+df <- micusp %>%
+  filter(str_detect(doc_id, "^BIO|^ENG")) %>%
+  mutate(text = quanteda.extras::preprocess_text(text, remove_numbers = T))
+```
+
+Let's sample out one example for each score from question "P1".
+
+```{r embed_function}
+get_embeddings <- function(x){
+  
+  df <- x
+  idx <- seq(1:nrow(df))
+  doc_embed <- function(i){
+    e <- starspace_embedding(model, x = df[i,2], type = "document")
+    rownames(e) <- df[i,1]
+    e <- data.frame(e)
+  }
+  doc_embeds <- lapply(idx, doc_embed)
+  doc_embeds <- bind_rows(doc_embeds)
+  return(doc_embeds)
+}
+```
+
+Now we can extract the embeddings for each our documents:
+
+```{r extract_embeddings}
+doc_embeddings <- get_embeddings(df)
+
+doc_embeddings <- doc_embeddings %>% 
+  rownames_to_column("doc_id") %>%
+  mutate(group = str_extract(doc_id, "^[A-Z]+")) %>%
+  dplyr::select(doc_id, group, everything())
+```
+
+From that, we calculated document similarity:
+
+```{r closest_docs, message=FALSE, warning=FALSE}
+closest_docs <- function(doc_query){
+  pts <- doc_embeddings %>% filter(doc_id == doc_query) %>% select(X1:X100)
+  closest <- RANN::nn2(data = doc_embeddings[,3:102], query = pts, k = 11)
+  doc_ids <- doc_embeddings[closest$nn.idx,1]
+  doc_dist <- closest$nn.dists %>% as.vector()
+  df <- data.frame(doc_ids, doc_dist)
+  return(df)
+}
+```
+
+In order to exact the embeddings we'll create a very simple function.
+
+```{r closest_bio}
+closest_docs("BIO.G0.02.1")
+```
+
+And extract them.
+
+```{r closest_eng}
+closest_docs("ENG.G2.04.1")
+```
+
+## Plotting
+
+For dimension reduction use a different technique: t-SNE. For more about t-Distributed Stochastic Neighbor Embedding see here:
+
+<https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1>
+
+```{r message=FALSE, warning=FALSE}
+m <- dist(doc_embeddings[,3:102]) %>% as.matrix()
+dimnames(m) <- dimnames(m) <- list(doc_embeddings$doc_id, doc_embeddings$doc_id) 
+df_pairs <- t(combn(doc_embeddings$doc_id, 2))
+dist_df <- data.frame(df_pairs, dist=m[df_pairs])
+dist_df <- dist_df %>% arrange(dist)
+```
+
+```{r}
+doc_tsne <- Rtsne(as.matrix(doc_embeddings[,3:102]), check_duplicates = FALSE, pca = FALSE, perplexity=5, theta=0.5, dims=2)
+
+doc_tsne <- as.data.frame(doc_tsne$Y) %>% bind_cols(select(doc_embeddings, doc_id, group))
+```
+
+
+```{r warning=FALSE, message=FALSE, fig.height=4, fig.width=7}
+ggplot(doc_tsne, aes(x = V1, y = V2, fill = group)) +
+  geom_point(shape = 21) +
+  ggrepel::geom_text_repel(aes(label = doc_id), size = 3) +
+  viridis::scale_fill_viridis(discrete = T) +
+  theme_linedraw() +
+  theme(panel.grid.minor = element_blank())
+```
+
+# Another Example
+
+Next, let's build a predictive model from the Federalist Papers. Again, we'll convert the text to lower case and remove punctuation.
+
+
+```{r}
+load("../data/federalist_meta.rda")
+load("../data/federalist_papers.rda")
+```
+
+
+```{r warning=FALSE, message=FALSE}
+fed_meta <- federalist_meta %>%
+  dplyr::select(doc_id, author_id)
+
+fed_txt <- federalist_papers
+
+fed_txt <- fed_txt %>%
+  left_join(fed_meta) %>%
+  filter(author_id == "Hamilton" | author_id == "Madison" | author_id == "Disputed") %>%
+  mutate(text = quanteda.extras::preprocess_text(text, remove_numbers = T))
+```
+
+Next, we'll subset out our training and testing data. Note that we're going to down-sample in order to balance majority and minority data classes.
+
+```{r warning=FALSE, message=FALSE}
+train <- fed_txt %>%
+  filter(author_id == "Hamilton" | author_id == "Madison") %>%
+  group_by(author_id) %>%
+  sample_n(14) %>%
+  ungroup()
+
+test <- fed_txt %>%
+  filter(author_id == "Disputed")
+```
+
+Now we can build the model. Here we use bigrams with a minimum count of 2
+
+```{r warning=FALSE, message=FALSE, results='hide'}
+pred_model <- embed_tagspace(x = train$text, y = train$author_id,
+                        early_stopping = 0.9 ,dim = 300, 
+                        lr = 0.01, epoch = 10, loss = "softmax", adagrad = TRUE, 
+                        similarity = "cosine", negSearchLimit = 10,
+                        ngrams = 2, minCount = 2)
+```
+
+We can predict the text of any selected row....
+
+```{r message=FALSE, warning=FALSE}
+predict(pred_model, test$text[1], k = 10)
+```
+
+Or create a vector of texts and generate predictions for each... 
+
+```{r warning=FALSE, message=FALSE}
+text   <- test$text
+
+emb_labels <- as.matrix(pred_model, type ="labels", prefix = FALSE)
+
+scores <- embedding_similarity(starspace_embedding(pred_model, text), emb_labels, type = "cosine", top_n = 1)
+```
+
+Then construct a dataframe from the results:
+
+```{r warning=FALSE, message=FALSE, fig.height=4, fig.width=7}
+data.frame(test$doc_id, scores[, c ( "term2" , "rank" )])
+```
+
