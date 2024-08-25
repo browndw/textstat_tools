@@ -1,0 +1,167 @@
+---
+title: "Lab Set 1"
+author: "My Name"
+date: last-modified
+format:
+  pdf:
+    number-sections: true
+include-in-header: 
+  text: |
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
+---
+
+# Lab Set 1
+
+
+## Questions related to the first week discussions
+
+### Task 1
+
+Consider the results of the preliminary study described in slides 65-70:
+
+If you were working on this project, what would you suggest the team do next? In other words, what limitations do you see in the results of this initial study? What might be done to increase its reliability? Or its generalizability? And what potential challenges do you foresee in applying your suggestions?
+
+Discuss with a couple of your neighbors and write your response in a short paragraph.
+
+> Your response:
+
+### Task 2
+
+Answer the the following question:
+
+What interests you about the quantitative analysis of text?
+
+> Your response:
+
+## Mosteller & Wallace
+
+### Task 1
+
+Mosteller and Wallace talk about a "little book of decisions" -- a record of the choices that they made in carrying out their project. Most data-driven projects require similarly complex choices. In defending them, sometimes in defending them, we check them. In making choice *x*, have we unduly influenced the result?
+
+Pick one of Mosteller and Wallace's decisions and describe how you might check whether it affecting their findings.
+
+> Your response
+
+### Task 2
+
+Our model predicts all but 55 were written by Madison. Our model is not particularly confident about that result. This hews pretty closely to Mosteller & Wallace's findings, through they come down (sort of) on the side of Madison for 55. However, they also acknowledge that the evidence is weak and not very convincing.
+
+Give at least 3 possible factors that might explain that low probability?
+
+> Your response
+
+## NLP Basics
+
+### Task 1
+
+#### What counts as a token?
+
+These choices are important. To carry our any statistical analysis on texts, we radically reorganize texts into counts. Precisely how we choose to do that--the decisions we make in exactly **what** to count--affects everything else downstream.
+
+So let's look at a chunk of text that is a little more complicated than the example from *A Tale of Two Cities*. Consider the following text:
+
+> In spite of some problems, we saw a 35% uptick in our user-base in the U.S. But that's still a lot fewer than we had last year. We'd like to get that number closer to what we've experienced in the U.K.--something close to 3 million users.
+
+You are a member of team tasked with tokenizing 20,000 texts that are similar to this one. A member of the suggests using a regular expression that splits on word boundaries: `\\b` using the `str_split()` function, try splitting the example string above.
+
+```{r}
+# your code goes here
+```
+
+Based on the result, do you think the suggested strategy is a good one? Why or why not?
+
+> Your response
+
+### Task 2
+
+Briefly describe the tokens that you want to output
+
+> Your response:
+
+What are some kinds of tokens that you think are particularly challenging to deal with (e.g., hyphenated words, contractions, abbreviations, etc.)?
+
+> Your response:
+
+## Tokenizing with quanteda
+
+### Task 1
+
+Use the following text:
+
+> "The more I dove in, though, the less I cared. I watched BTS perform their 2018 anthem "Idol" on The Tonight Show and wondered how their lungs didn't explode from exertion. I watched the sumptuous short film for their 2016 hit "Blood, Sweat, and Tears" and couldn't tell whether I was more impressed by the choreography or the high-concept storytelling. And I was entranced by the video for "Spring Day," with its dreamlike cinematography and references to Ursula K. Le Guin and Bong Joon-ho's film Snowpiercer. When I learned that the video is often interpreted as a tribute to the school-age victims of 2014's Sewol ferry disaster, I replayed it and cried."
+
+In the code chunk below, construct a pipeline that:
+
+-   tokenizes the text
+-   creates a corpus object
+-   creates a dfm
+-   generates a frequency count of tokens
+-   uses the **mutate()** function to add a **RF** column (for "relative frequency") to the data frame.
+
+Hint: Relative frequency (or normalized frequency) just takes the frequency, divides it by total number of tokens/words, and multiplies by a normalizing factor (e.g., by 100 for percent of tokens).
+
+```{r}
+# your code goes here
+```
+
+And report the results in a gt table:
+
+```{r}
+
+```
+
+### Task 2
+
+Data from Lab 02:
+
+```{r}
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(quanteda)
+```
+
+```{r}
+source("../R/helper_functions.R")
+```
+
+```{r}
+
+totc_txt <- "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair."
+
+text_2 <- "Jane Austen was not credited as the author of 'Pride and Prejudice.' In 1813, the title page simply read \"by the author of Sense and Sensibility.\" It wasn't until after Austen's death that her identity was revealed. #MentalFlossBookClub with @HowLifeUnfolds #15Pages https://pbs.twimg.com/media/EBOUqbfWwAABEoj.jpg"
+
+comb_corpus <-   data.frame(doc_id = c("text_1", "text_2"), text = c(totc_txt, text_2)) %>%
+  mutate(text = preprocess_text(text)) %>%
+  corpus()
+
+docvars(comb_corpus) <- data.frame(text_type = c("Fiction", "Twitter"))
+
+comb_tkns <- comb_corpus %>%
+  tokens(what = "fastestword")
+```
+
+```{r}
+# structure 1:
+comb_dfm <- dfm(comb_tkns) %>% dfm_group(groups = text_type)
+comb_freq <- dfm(comb_tkns) %>% quanteda.textstats::textstat_frequency(groups = text_type)
+
+# structure 2:
+comb_ntoken <- data.frame("Tokens" = ntoken(comb_tkns), docvars(comb_tkns))
+```
+
+Use one of these 2 data structures (**comb_freq** or **comb_ntoken**) to make a corpus composition table. It should have 2 columns (one for "Text Type" and the other for "Tokens") and 3 rows ("Fiction", "Twitter" and "Total"). And report the results in a gt table.
+
+::: callout-tip
+## Aggregating across columns
+
+Use the gt function **grand_summary_rows()** [to create a count of totals or other measures](https://gt.rstudio.com/reference/grand_summary_rows.html).
+:::
+
+```{r}
+# your code for a gt table goes here
+```

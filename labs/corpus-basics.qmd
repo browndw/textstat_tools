@@ -1,0 +1,88 @@
+
+# NLP Basics
+
+## A simple processing pipeline
+
+Let's begin by creating an object consisting of a character string. In this case, the first sentence from *A Tale of Two Cities*.
+
+```{r}
+totc_txt <- "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair."
+```
+
+And we'll load the tidyverse libraries.
+
+```{r}
+#| message: false
+#| error: false
+#| warning: false
+
+library(gt)
+library(tidyverse)
+```
+
+We could then split the vector, say at each space.
+
+```{r}
+
+totc_tkns <- totc_txt %>% str_split(" ")
+```
+
+Then, we can create a table of counts.
+
+```{r}
+
+totc_df <- table(totc_tkns) %>% # make a table of counts
+  as_tibble() %>%
+  rename(Token = totc_tkns, AF = n) %>% # rename columns
+  arrange(-AF) # sort the data by frequency
+```
+
+```{r}
+#| code-fold: true
+
+totc_df |>
+  head(10) |>
+  gt()
+```
+
+The process of splitting the string vector into constituent parts is called **tokenizing**. Think of this as telling the computer how to define a word (or a "token", which is a more precise, technical term). In this case, we've done it in an extremely simple way--by defining a token as any string that is bounded by spaces.
+
+```{r}
+#| code-fold: true
+#| fig-cap: "Case sensitive counts of the token *it*"
+
+totc_df |>
+  filter(str_detect(Token, regex("^it$", ignore_case= T))) |>
+  gt()
+```
+
+Note that in doing so, we are counting capitalized and non-capitalized words as distinct tokens.
+
+There may be specific instances when we want to do this. But normally, we'd want *it* and *It* to be the same token. To do that, we can add a step in the processing pipeline that converts our vector to lower case before tokenizing.
+
+```{r}
+
+totc_df <- tolower(totc_txt) %>%
+  str_split(" ") %>%
+  table() %>% # make a table of counts
+  as_tibble() %>%
+  rename(Token = ".", AF = n) %>% # rename columns
+  arrange(-AF) # sort the data by frequency
+```
+
+
+```{r}
+#| code-fold: true
+#| fig-cap: "Token counts of sample sentence."
+
+totc_df |>
+  head(10) |>
+  gt()
+```
+
+::: callout-important
+## Pause for Lab Set Question
+
+Complete [Tasks 1 and 2 in Lab Set 1](../lab_sets/LabSet_01.qmd#nlp-basics).
+:::
+

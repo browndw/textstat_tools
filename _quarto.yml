@@ -1,0 +1,5 @@
+project:
+  title: "textstat_tools"
+  output-dir: docs
+
+editor: source

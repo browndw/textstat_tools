@@ -1,0 +1,70 @@
+---
+title: "Lab Set 3"
+author: "My Name"
+date: last-modified
+format:
+  pdf:
+    number-sections: true
+include-in-header: 
+  text: |
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
+---
+
+# Lab Set 3
+
+## Dependency parsing
+
+### Task 1
+
+From the keyness table (**acad_v_fic**), identify the preposition with the highest keyness value. Report the relevant statistics (including frequencies and dispersions) following the conventions described in Brezina.
+
+> Your response
+
+Create a KWIC table (with the preposition as the node word and a context window of 3) of 10 rows.
+
+```{r}
+# Your table...
+```
+
+Posit an explanation for the higher frequency of the preposition in the target corpus (academic writing) vs. the reference corpus (fiction).
+
+> Your response
+
+### Task 2
+
+Calculate the mean length of the noun phrases in the 2 two text-types (**acad_nps** and **fic_nps**). Report the results and posit an explanation for the findings that connects to the previous findings related to prepositions.
+
+> Your response
+
+## Logistic regression
+
+### Task 1
+
+Following the example in Brezina (pg. 129), report and briefly interpret the output of the regression model  (**wt_regs**, line 245).
+
+> Your response
+
+## Task 2
+
+Write a brief interpretation of the probability curves illustrated in Figure 5.
+
+> Your response
+
+## Multi-dimensional analysis
+
+### Task 1
+
+Brezina similarly plots the Brown corpus registers on pg. 169. His process is a little different. Rather than extracting factor loadings from the Brown corpus, he uses the loadings from the original Biber data (some of which are listed on pg. 168).
+
+Our loadings for dimension 1 are similar to Biber's, though with some differences. Likewise, the resulting plot is similar to the one on pg. 169. Why is this the case, do you think? (If you want to check Biber's description of his corpus, it's on pg. 66 of his book.)
+
+> Your response
+
+### Task 2
+
+Using information from the factor loadings, the positions of the disciplines along the dimension, and KWIC tables, name dimension 1 following the X vs. Y convention. In a couple of sentences, explain your reasoning.
+
+> Your response
+

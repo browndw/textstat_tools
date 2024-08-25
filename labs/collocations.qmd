@@ -1,0 +1,244 @@
+
+
+# Collocations & Association Measures
+
+This is a short lab that introduces the concept of:
+
+* collocations,
+* how to calculate word association measures like pointwise mutual information, and
+* how to plot collocational networks.
+
+This lab will also cover the process of reading in a corpus from a directory of text files.
+
+## Load the needed packages 
+
+```{r}
+#| message: false
+#| error: false
+#| warning: false
+
+library(ggraph)
+library(gt)
+library(quanteda)
+library(quanteda.textstats)
+library(tidyverse)
+```
+
+Load data:
+
+```{r}
+
+load("../data/sample_corpus.rda")
+```
+
+Load functions:
+
+```{r}
+
+source("../R/helper_functions.R")
+source("../R/utility_functions.R")
+source("../R/collocation_functions.R")
+```
+
+## Prepare the data
+
+First, we'll pre-process our text, create a corpus and tokenize the data:
+
+```{r}
+
+sc_tokens <- sample_corpus %>%
+  mutate(text = preprocess_text(text)) %>%
+  corpus() %>%
+  tokens(what="fastestword", remove_numbers=TRUE)
+```
+
+## Collocates by mutual information (MI)
+
+The **collocates_by_MI( )** function produces collocation measures (by pointwise mutual information) for a specified token in a **quanteda tokens** object. In addition to a token, a span or window (as given by a number of words to the **left** and **right** of the **node word**) is required. The default is 5 to the left and 5 to the right.
+
+The formula for calculating MI is as follows:
+
+$$log_{2} \frac{O_{11}}{E_{11}}$$
+Where *O~11~* and *E~11~* are the observed (i.e., node + collocate) and expected frequencies of the node word within a given window. The expected frequency is given by:
+
+$$E_{11} = \frac{R_{1} \times C_{1}}{N}$$
+
+* *N* is the number of words in the corpus
+* *R~1~* is the frequency of the node in the whole corpus
+* *C~1~*  is the frequency of the collocate in the whole corpus
+
+We'll start by making a table of tokens that collocate with the token *money*.
+
+```{r}
+
+money_collocations <- collocates_by_MI(sc_tokens, "money")
+```
+
+Check the result:
+
+```{r echo=FALSE}
+#| echo: false
+
+money_collocations |>
+  head(10) |>
+  gt()
+```
+
+Now, let's make a similar table for collocates of *time*.
+
+```{r}
+time_collocations <- collocates_by_MI(sc_tokens, "time")
+```
+
+
+```{r echo=FALSE}
+#| code-fold: true
+
+time_collocations |>
+  head(10) |>
+  gt()
+```
+
+As is clear from the above table, MI is sensitive to rare/infrequent words. Because of that sensitivity, it is common to make thresholds for both token frequency (absolute frequency) and MI score (usually at some value $\ge$ 3).
+
+For our purposes, we'll filter for AF $\ge$ 5 and MI $\ge$ 5.
+
+```{r}
+
+tc <- time_collocations %>% filter(col_freq >= 5 & MI_1 >= 5)
+mc <- money_collocations %>% filter(col_freq >= 5 & MI_1 >= 5)
+```
+
+Check the result:
+
+```{r}
+#| layout-ncol: 2
+#| echo: false
+#| layout-valign: bottom
+
+tc |>
+  head(10) |>
+  gt() |>
+  tab_caption(caption = "Time collocations")
+
+mc |>
+  head(10) |>
+  gt() |>
+  tab_caption(caption = "Money collocations.")
+```
+
+
+## Create a tbl_graph object for plotting
+
+A [**tbl_graph**](https://www.data-imaginist.com/2017/introducing-tidygraph/) is a data structure for **tidyverse** (ggplot2) network plotting.
+
+For this, we'll use the **col_network( )** function.
+
+```{r}
+
+net <- col_network(tc, mc)
+```
+
+::: callout-important
+## Pause for Lab Set Question
+
+Complete [Task 1 Lab Set 2](../lab_sets/LabSet_02.html#collocations-and-association-measures).
+:::
+
+## Plot network
+
+The network plot shows the tokens that distinctly collocate with either *time* or *money*, as well as those that intersect. The distance from the central tokens (*time* and *money*) is governed by the MI score and the transparency (or alpha) is governed by the token frequency.
+
+The aesthetic details of the plot can be manipulated in the various **ggraph** options.
+
+```{r}
+#| message: false
+#| fig-width: 7
+#| fig-height: 4
+
+ggraph(net, weight = link_weight, layout = "stress") + 
+  geom_edge_link(color = "gray80", alpha = .75) + 
+  geom_node_point(aes(alpha = node_weight, size = 3, color = n_intersects)) +
+  geom_node_text(aes(label = label), repel = T, size = 3) +
+  scale_alpha(range = c(0.2, 0.9)) +
+  theme_graph() +
+  theme(legend.position="none")
+```
+
+## Reading in local files
+
+### Create a vector of file paths
+
+In the interest of time, we'll skip this step. However, it's important to know how to load in plain text files.
+
+1. Create an organized directory of **.txt** files. Name them systematically, so it's easy to extract metadata from the file names. As an example, a corpus of screenplays is on our course Canvas site. You could download the file, unzip it, and place it in your **data** directory.
+
+2. To down-sample the data, create a vector of the file paths. Remember to replace **your path** with the place-holder path in the **list.files()** function.
+
+3. Read in the files using [**readtext**](https://readtext.quanteda.io/articles/readtext_vignette.html). And for the purposes of efficiency, we'll sample out 50 rows.
+
+```{r}
+#| eval: false
+
+set.seed(1234)
+
+files_list <- list.files("../data/screenplay_corpus", full.names = T, pattern = "*.txt")
+
+sp <- sample(files_list, 50) %>%
+  readtext::readtext()
+```
+
+### Extract the dialogue
+
+For the purposes of the lab, we'll simply load the data. These particular files are formatted using some simple markup. So we'll use the **from_play()** function to extract the dialogue.
+
+```{r}
+load("../data/screenplays.rda")
+sp <- from_play(sp, extract = "dialogue")
+```
+
+### Tokenize
+
+```{r}
+sp <-   sp %>%
+  mutate(text = preprocess_text(text)) %>%
+  corpus() %>%
+  tokens(what="fastestword", remove_numbers=TRUE)
+```
+
+### Calculate MI
+
+Now we'll calculate collocations for the tokens *boy* and *girl*, and filter. Note that we're only looking for tokens 3 words to the left of the node word.
+
+```{r}
+b <- collocates_by_MI(sp, "boy", left = 3, right = 0) %>% 
+  filter(col_freq >= 3 & MI_1 >= 3)
+
+g  <- collocates_by_MI(sp, "girl", left = 3, right = 0) %>% 
+  filter(col_freq >= 3 & MI_1 >= 3)
+```
+
+### Plot the network
+
+```{r}
+#| message: false
+#| fig-width: 7
+#| fig-height: 4
+
+net <- col_network(b, g)
+
+ggraph(net, weight = link_weight, layout = "stress") + 
+  geom_edge_link(color = "gray80", alpha = .75) + 
+  geom_node_point(aes(alpha = node_weight, size = 3, color = n_intersects)) +
+  geom_node_text(aes(label = label), repel = T, size = 3) +
+  scale_alpha(range = c(0.2, 0.9)) +
+  theme_graph() +
+  theme(legend.position="none")
+```
+
+::: callout-important
+## Pause for Lab Set Question
+
+Complete [Tasks 2 and 3 Lab Set 2](../lab_sets/LabSet_02.html#collocations-and-association-measures).
+:::
+

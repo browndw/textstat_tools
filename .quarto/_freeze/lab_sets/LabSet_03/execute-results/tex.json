@@ -1,0 +1,15 @@
+{
+  "hash": "548e1f5eae58e5abace3748f736d79a3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Lab Set 3\"\nauthor: \"My Name\"\ndate: last-modified\nformat:\n  pdf:\n    number-sections: true\ninclude-in-header: \n  text: |\n    \\usepackage{fvextra}\n    \\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\\\\{\\}}\n\n---\n\n\n# Lab Set 3\n\n## Dependency parsing\n\n### Task 1\n\nFrom the keyness table (**acad_v_fic**), identify the preposition with the highest keyness value. Report the relevant statistics (including frequencies and dispersions) following the conventions described in Brezina.\n\n> Your response\n\nCreate a KWIC table (with the preposition as the node word and a context window of 3) of 10 rows.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Your table...\n```\n:::\n\n\nPosit an explanation for the higher frequency of the preposition in the target corpus (academic writing) vs. the reference corpus (fiction).\n\n> Your response\n\n### Task 2\n\nCalculate the mean length of the noun phrases in the 2 two text-types (**acad_nps** and **fic_nps**). Report the results and posit an explanation for the findings that connects to the previous findings related to prepositions.\n\n> Your response\n\n## Logistic regression\n\n### Task 1\n\nFollowing the example in Brezina (pg. 129), report and briefly interpret the output of the regression model  (**wt_regs**, line 245).\n\n> Your response\n\n## Task 2\n\nWrite a brief interpretation of the probability curves illustrated in Figure 5.\n\n> Your response\n\n## Multi-dimensional analysis\n\n### Task 1\n\nBrezina similarly plots the Brown corpus registers on pg. 169. His process is a little different. Rather than extracting factor loadings from the Brown corpus, he uses the loadings from the original Biber data (some of which are listed on pg. 168).\n\nOur loadings for dimension 1 are similar to Biber's, though with some differences. Likewise, the resulting plot is similar to the one on pg. 169. Why is this the case, do you think? (If you want to check Biber's description of his corpus, it's on pg. 66 of his book.)\n\n> Your response\n\n### Task 2\n\nUsing information from the factor loadings, the positions of the disciplines along the dimension, and KWIC tables, name dimension 1 following the X vs. Y convention. In a couple of sentences, explain your reasoning.\n\n> Your response\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

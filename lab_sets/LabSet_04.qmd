@@ -1,0 +1,51 @@
+---
+title: "Lab Set 3"
+author: "My Name"
+date: last-modified
+format:
+  pdf:
+    number-sections: true
+include-in-header: 
+  text: |
+    \usepackage{fvextra}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
+---
+
+# Lab Set 4
+
+## Cluster analysis
+
+### Task 1
+
+Which linkage method gives the strongest clustering structure?
+
+> Your response
+
+### Task 2
+
+Looking at both the biplot and the variable contributions, first describe the clustering patterns, then posit an explanation for them. 
+
+> Your response
+
+## Time series
+
+### Task 1
+
+Why might it be important to periodize data from "the ground up" (using a technique like VNC), rather than just splitting data into intervals of, say, 10, 25, or 50 years?
+
+> Your response
+
+Following the conventions described in Brezina (pgs. 240-241) report the results produced by the "witch hunt" VNC.
+
+> Your response
+
+## Sentiment analysis
+
+### Task 1
+
+From the last plot, it's clear that most sentences return zero counts of sentiment (either positive or negative). Additionally, the data are noisy. It's worth asking then: Is sentiment a useful measure here? Sure, the plots are cool, at least in so much as we can return something that broadly conforms to our human understanding of these novels (whether they're a rags-to-riches story, a tragedy, etc.). But is this useful? Can you imagine a potential application that would engage with an interesting research question?
+
+> Your response
+
+

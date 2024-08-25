@@ -181,9 +181,9 @@ heatmap_mda <- function(mda_data, n_factor=1) {
     ggplot2::theme(legend.position = "none")
   
   p2 <- ggplot2::ggplot(data.frame(x = 0, y = -2:2), ggplot2::aes(x, y)) +
-    ggplot2::geom_segment(ggplot2::aes(x=0, xend =0, y=1, yend = 2), size=.25,
+    ggplot2::geom_segment(ggplot2::aes(x=0, xend =0, y=1, yend = 2), linewidth=.25,
                  arrow = ggplot2::arrow(length = ggplot2::unit(0.25,"cm")), color = "gray40") +
-    ggplot2::geom_segment(ggplot2::aes(x=0, xend =0, y=-1, yend = -2), size=.25,
+    ggplot2::geom_segment(ggplot2::aes(x=0, xend =0, y=-1, yend = -2), linewidth=.25,
                  arrow = ggplot2::arrow(length = ggplot2::unit(0.25,"cm")), color = "gray40") +
     ggplot2::theme_void() +
     ggplot2::theme(plot.margin = ggplot2::unit(c(-.9,-5,-.9,-1), "lines"))
@@ -288,8 +288,8 @@ boxplot_mda <- function(mda_data, n_factor=1){
     ggplot2::coord_flip()
   
   p2 <- ggplot2::ggplot(subset(loadings, Inclucde == T), ggplot2::aes(reorder(Group, !!as.name(factor_n)), !!as.name(factor_n))) + 
-    ggplot2::geom_hline(yintercept = 0, color = "gray80", size = .5) +
-    ggplot2::geom_segment(ggplot2::aes(xend = Group, yend = 0), size = .25, 
+    ggplot2::geom_hline(yintercept = 0, color = "gray80", linewidth = .5) +
+    ggplot2::geom_segment(ggplot2::aes(xend = Group, yend = 0), linewidth = .25, 
                  arrow = ggplot2::arrow(type = "closed", 
                                ends = "first", 
                                angle = "15", 

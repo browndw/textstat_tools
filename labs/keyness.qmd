@@ -1,0 +1,368 @@
+
+# Keyness
+
+For this lab, we'll be following many of the same procedures that we've done previously:
+
+* attaching metadata to a corpus using `docvars()`
+* tokenizing using `tokens()`
+* handling multiword expressions using `tokens_compound()`
+* creating a document-feature matrix using `dfm()`
+
+For today's lab we'll begin some hypothesis testing using news functions from our repository:
+
+* `keyness_table()`
+* `keyness_pairs()`
+* `key_keys()`
+
+We'll also look at quanteda's function:
+
+* `textstat_keyness()`
+
+## What is **keyness**?
+
+Keyness is a generic term for various tests that compare observed vs. expected frequencies.
+
+The most commonly used (though not the only option) is called log-likelihood in corpus linguistics, but you will see it else where called a **G-test** goodness-of-fit.
+
+The calculation is based on a 2 x 2 contingency table. It is similar to a chi-square test, but performs better when corpora are unequally sized.
+
+Expected frequencies are based on the relative size of each corpus (in total number of words N~i~) and the total number of observed frequencies:
+
+$$
+E_i = \sum_i O_i \times \frac{N_i}{\sum_i N_i}
+$$
+And log-likelihood is calculated according the formula:
+
+$$
+LL = 2 \times \sum_i O_i \ln \frac{O_i}{E_i}
+$$
+A good explanation of its implementation in linguistics can be found here: <http://ucrel.lancs.ac.uk/llwizard.html>
+
+In addition to log-likelihood, the `textstat_keyness()` function in **quanteda** has other optional measures.
+
+See here: <https://quanteda.io/reference/textstat_keyness.html>
+
+## Prepare a corpus
+
+We'll begin, just as we did in the distributions lab.
+
+### Load the needed packages
+
+```{r setup}
+#| message: false
+#| error: false
+#| warning: false
+
+library(tidyverse)
+library(quanteda)
+library(quanteda.textstats)
+library(gt)
+```
+
+Load the functions:
+
+```{r}
+source("../R/keyness_functions.R")
+source("../R/helper_functions.R")
+```
+
+Load the data:
+
+```{r}
+load("../data/sample_corpus.rda")
+load("../data/multiword_expressions.rda")
+```
+
+
+### Pre-process the data & create a corpus
+
+```{r data_prep}
+#| message: false
+#| error: false
+#| warning: false
+
+sc <- sample_corpus %>%
+  mutate(text = preprocess_text(text)) %>%
+  corpus()
+```
+
+### Extract meta-data from file names
+
+We'll extract some meta-data by (1) selecting the **doc_id** column, (2) extracting the initial letter string before the underscore, and (3) renaming the vector **text_type**.
+
+```{r extract_metadata}
+doc_categories <- sample_corpus %>%
+  dplyr::select(doc_id) %>%
+  mutate(doc_id = str_extract(doc_id, "^[a-z]+")) %>%
+  rename(text_type = doc_id)
+```
+
+### Assign the meta-data to the corpus
+
+The accessor function `docvars()` lets us add or modify data in an object. We're going to use it to assign **text_type** as a variable. Note that **doc_categories** could include more than one column and the assignment process would be the same.
+
+```{r assign_metadata}
+docvars(sc) <- doc_categories
+```
+
+And check the result:
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Partial summary of sample corpus."
+
+sc |>
+  summary() |>
+  head(10) |>
+  gt()
+```
+
+Note the new column (**text_type** on the right). We could assign any number of categorical variables to our corpus, which could be used for analysis downstream.
+
+### Create a **dfm**
+
+```{r}
+sc_dfm <- sc %>%
+  tokens(what="fastestword", remove_numbers=TRUE) %>%
+  tokens_compound(pattern = phrase(multiword_expressions)) %>%
+  dfm()
+```
+
+## A corpus composition table
+
+It is conventional to report out the composition of the corpus or corpora you are using for your study. Here will will sum our tokens by text-type and similarly count the number of texts in each grouping.
+
+```{r}
+corpus_comp <- ntoken(sc_dfm) %>% 
+  data.frame(Tokens = .) %>%
+  rownames_to_column("Text_Type") %>%
+  mutate(Text_Type = str_extract(Text_Type, "^[a-z]+")) %>%
+  group_by(Text_Type) %>%
+  summarize(Texts = n(),
+    Tokens = sum(Tokens)) %>%
+  mutate(Text_Type = c("Academic", "Blog", "Fiction", "Magazine", "News", "Spoken", "Television/Movies", "Web"))
+```
+
+Now, using `grand_summary_rows()`, we can append a row of totals at the bottom of the table.
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Composition of the sample corpus."
+
+corpus_comp |> 
+  gt() |>
+  fmt_integer() |>
+  cols_label(
+    Text_Type = md("**Text Type**"),
+    Texts = md("**Texts**"),
+    Tokens = md("**Tokens**")
+  ) |>
+  grand_summary_rows(
+    columns = c(Texts, Tokens),
+    fns = list(
+      Total ~ sum(.)
+    ) ,
+    fmt = ~ fmt_integer(.)
+    )
+```
+
+## Keyness in **quanteda**
+
+Now that we have a **dfm** we perform keyness calculations. First, let's carry out calculations using `textstat_keyness()`.
+
+When we use it with textstat_keyness we are indicating that we want the papers with discipline_cat equal to "acad" to be our **target corpus**. The everything else (i.e., "acad" == FALSE) will be the **reference corpus**.
+
+The specific method we're using is log-likelihood, which is designated by "lr". Thus keyness will show the tokens that are more frequent in papers written for the *academic* text-type vs. those written for other text-types.
+
+```{r}
+acad_kw <- textstat_keyness(sc_dfm, docvars(sc_dfm, "text_type") == "acad", measure = "lr")
+```
+
+Note the second argument: `docvars(sc_dfm, "text_type") == "acad"`. That slightly awkward syntax simply produces a logical vector. You could store it and pass the vector the function, as well.
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Tokens with the highest keyness values in the academic text-type when compared to the rest of the sample corpus."
+
+acad_kw |>
+  head(10) |>
+  gt() |>
+  fmt_number(columns = "G2",
+             decimals = 2)
+```
+
+### Creating sub-corpora
+
+If we want to compare one text-type (as our target corpus) to another (as our reference corpus), we can easily subset the data.
+
+```{r subset_corpus}
+sub_dfm <- dfm_subset(sc_dfm, text_type == "acad" | text_type == "fic")
+```
+
+When we do this, the resulting data will still include **all** the tokens in the sample corpus, including those that do not appear in either the academic or fiction text-type. To deal with this, we will trim the dfm.
+
+```{r trim_dfm}
+sub_dfm <- dfm_trim(sub_dfm, min_termfreq = 1)
+```
+
+We'll do the same for fiction.
+
+```{r}
+fic_kw <- textstat_keyness(sub_dfm, docvars(sub_dfm, "text_type") == "fic", measure = "lr")
+```
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Tokens with the highest keyness values in the fiction text-type when compared to the academic text-type."
+
+fic_kw |>
+  head(10) |>
+  gt() |>
+  fmt_number(columns = "G2",
+             decimals = 2)
+```
+
+Note that if we switch our target and reference corpora (academic as target, fiction as reference), the tail of the keyness table contains the negative values of the original (fiction as target, academic and reference), which you may have already gathered given the formula above.
+
+```{r}
+acad_kw <- textstat_keyness(sub_dfm, docvars(sub_dfm, "text_type") == "acad", measure = "lr")
+```
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Tokens with the lowest keyness values int the academic text-type when compared to the fiction text-type."
+
+acad_kw |>
+  tail(10) |>
+  gt() |>
+  fmt_number(columns = "G2",
+             decimals = 2)
+```
+
+## Effect size
+
+While **quanteda** produces one important piece of information (the amount of evidence we have for an effect), it neglects another (the magnitude of the effect). Whenever we report on significance it is **critical** to report **effect size**. Some common effect size measures include:
+
+* %DIFF - see Gabrielatos and Marchi [-@gabrielatos2011keyness]
+    + Costas has also provided an FAQ with more details <http://ucrel.lancs.ac.uk/ll/DIFF_FAQ.pdf>
+* Bayes Factor (BIC) - see Wilson [-@wilson2013embracing]
+    + You can interpret the approximate Bayes Factor as degrees of evidence against the null hypothesis as follows:
+        - 0-2: not worth more than a bare mention
+        - 2-6: positive evidence against H~0~
+        - 6-10: strong evidence against H~0~
+        - 10: very strong evidence against H~0~
+    + For negative scores, the scale is read as "in favor of" instead of "against".
+* Effect Size for Log Likelihood (ELL) - see Johnston *et al.* [-@johnston2006measures]
+    + ELL varies between 0 and 1 (inclusive). Johnston *et al.* say "interpretation is straightforward as the proportion of the maximum departure between the observed and expected proportions".
+* Relative Risk
+* Odds Ratio
+* Log Ratio - see Andrew Hardie's CASS blog for how to interpret this
+    + Note that if either word has zero frequency then a small adjustment is automatically applied (0.5 observed frequency which is then normalized) to avoid division by zero errors.
+
+### Log Ratio (LR)
+
+You are welcome to use any of these effect size measures. Our repo comes with a function for calculating Hardie's Log Ratio, which is easy and intuitive.
+
+### The `keyness_table()` function
+
+We'll start by creating 2 dfms--a target and a reference:
+
+```{r create_dfms}
+acad_dfm <- dfm_subset(sc_dfm, text_type == "acad") %>% dfm_trim(min_termfreq = 1)
+fic_dfm <- dfm_subset(sc_dfm, text_type == "fic") %>% dfm_trim(min_termfreq = 1)
+```
+
+Then we will use the `keyness_table()` function.
+
+```{r k_table}
+#| error: false
+#| message: false
+
+acad_kw <- keyness_table(acad_dfm, fic_dfm)
+```
+
+And check the result:
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Tokens with the highest keyness values in the academic text-type when compared to the fiction text-type."
+
+acad_kw |>
+  head(10) |>
+  gt() |>
+  fmt_number(columns = c("LL", "LR", "Per_10.5_Tar", "Per_10.5_Ref", "DP_Tar", "DP_Ref"),
+             decimals = 2) |>
+  fmt_number(columns = "PV",
+             decimals = 5)
+```
+
+The columns are as follows:
+
+1. **LL**: the keyness value or [**log-likelihood**](http://ucrel.lancs.ac.uk/llwizard.html), also know as a G2 or goodness-of-fit test.
+1. **LR**: the effect size, which here is the [**log ratio**](http://cass.lancs.ac.uk/log-ratio-an-informal-introduction/)
+1. **PV**: the *p*-value associated with the log-likelihood
+1. **AF_Tar**: the absolute frequency in the target corpus
+1. **AF_Ref**: the absolute frequency in the reference corpus
+1. **Per_10.x_Tar**: the relative frequency in the target corpus (automatically calibrated to a normalizing factor, where here is per 100,000 tokens)
+1. **Per_10.x_Ref**: the relative frequency in the reference corpus (automatically calibrated to a normalizing factor, where here is per 100,000 tokens)
+1. **DP_Tar**: the [**deviation of proportions**](https://www.researchgate.net/publication/233685362_Dispersions_and_adjusted_frequencies_in_corpora) (a dispersion measure) in the target corpus
+1. **DP_Ref**: the deviation of proportions in the reference corpus
+
+### Keyness pairs
+
+There is also a function for quickly generating pair-wise keyness comparisions among multiple sub-corpora. To demonstrate, create a third **dfm**, this time containing news articles.
+
+```{r}
+news_dfm <- dfm_subset(sc_dfm, text_type == "news") %>% dfm_trim(min_termfreq = 1)
+```
+
+To produce a data.frame comparing more than two sup-corpora, use the `keyness_pairs()` function:
+
+```{r key_pairs, message = FALSE, error=FALSE, warning=FALSE}
+kp <- keyness_pairs(news_dfm, acad_dfm, fic_dfm)
+```
+
+Check the result:
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Pairwise comparisions of news (target) vs. academic (reference), news (target) vs. fiction (reference), and academic (target) vs. fiction (reference)."
+
+kp |>
+  head(10) |>
+  gt() |>
+  fmt_number(everything(),
+             decimals = 2)
+```
+
+## Key key words
+
+The concept of ["**key key words**"](https://lexically.net/downloads/version5/HTML/index.html?keykeyness_definition.htm) was introduced by Mike Smith for the WordSmith concordancer. The process compares each text in the target corpus to the reference corpus. Log-likelihood is calculated for each comparison. Then a mean is calculated for keyness and effect size. In addition, a range is provided for the number of texts in which keyness reaches significance for a given threshold. (The default is *p* < 0.05.) That range is returned as a percentage.
+
+In this way, **key key words** accounts for the dispersion of key words by indicating whether a keyness value is driven by a relatively high frequency in a few target texts or many.
+
+```{r key_keys, message = FALSE, error=FALSE, warning=FALSE}
+kk <- key_keys(acad_dfm, fic_dfm)
+```
+
+Again, we can look at the first few rows of the table:
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Key key words when comparing the academic text-type to the fiction text-type."
+
+kk |>
+  head(10) |>
+  gt() |>
+  fmt_number(everything(),
+             decimals = 2)
+```
+
+::: callout-important
+## Pause for Lab Set Question
+
+Complete [Task 1 in Lab Set 2](../lab_sets/LabSet_02.qmd#keyness).
+:::
+
+## Works cited
+

@@ -1,0 +1,87 @@
+{
+  "index.md": {
+    "index.html": "0fd9219a"
+  },
+  "labs/Lab_01.qmd": {
+    "Lab_01.html": "df26e4be"
+  },
+  "labs/Lab_02.qmd": {
+    "Lab_02.html": "2731d899"
+  },
+  "index.qmd": {
+    "index.html": "4fb26295"
+  },
+  "labs/classification-federalist-papers.qmd": {
+    "classification-federalist-papers.html": "bc7183ae"
+  },
+  "labs/sentiment-and-syuzhet.qmd": {
+    "sentiment-and-syuzhet.html": "1634061b"
+  },
+  "labs/corpus-basics.qmd": {
+    "corpus-basics.html": "1a18c38b"
+  },
+  "labs/processing-pipelines.qmd": {
+    "processing-pipelines.html": "3df7498a"
+  },
+  "labs/distributions.qmd": {
+    "distributions.html": "4416445c"
+  },
+  "labs/collocations.qmd": {
+    "collocations.html": "a1519708"
+  },
+  "labs/feature-engineering.qmd": {
+    "feature-engineering.html": "1202dd5b"
+  },
+  "lectures/llms-history.qmd": {
+    "llms-history.html": "ea19e274"
+  },
+  "lectures/embed_llms-history.qmd": {
+    "embed_llms-history.html": "f05d69a4"
+  },
+  "lab_sets/LabSet_01.qmd": {
+    "LabSet_01.html": "d04b3f1d",
+    "LabSet_01.tex": "195d2ee7"
+  },
+  "lab_sets/LabSet_02.qmd": {
+    "LabSet_02.tex": "527fddf8"
+  },
+  "lab_sets/LabSet_03.qmd": {
+    "LabSet_03.tex": "cf7dc05c"
+  },
+  "lab_sets/LabSet_04.qmd": {
+    "LabSet_04.tex": "e1d8a06c"
+  },
+  "reports/cbe-01.qmd": {
+    "cbe-01.tex": "53d00a3c"
+  },
+  "reports/cbe-02.qmd": {
+    "cbe-02.tex": "5069291e"
+  },
+  "reports/final-project.qmd": {
+    "final-project.tex": "2e5ac948"
+  },
+  "labs/cluster-analysis.qmd": {
+    "cluster-analysis.html": "918ef14d"
+  },
+  "labs/geospacial-mapping.qmd": {
+    "geospacial-mapping.html": "319b6e08"
+  },
+  "labs/keyness.qmd": {
+    "keyness.html": "4364e575"
+  },
+  "labs/logistic-regression.qmd": {
+    "logistic-regression.html": "a161a649"
+  },
+  "labs/multi-dimensional-analysis.qmd": {
+    "multi-dimensional-analysis.html": "3a218dad"
+  },
+  "labs/random-forest.qmd": {
+    "random-forest.html": "74d981a1"
+  },
+  "labs/time-series.qmd": {
+    "time-series.html": "d180df0e"
+  },
+  "labs/vector-models.qmd": {
+    "vector-models.html": "053bc6ea"
+  }
+}

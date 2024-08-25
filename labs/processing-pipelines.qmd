@@ -1,0 +1,274 @@
+
+Processing pipelines
+
+# Tokenizing with quanteda
+
+In the previous lab, we did some back-of-the-napkin text processing. In that lab, you were encouraged to think about what exactly is happening when you split a text into tokens and convert those into counts.
+
+We'll build on that foundational work, but let an R package [**quanteda**](https://quanteda.io/) do some of the heavy lifting for us. So let's load our packages:
+
+::: {.callout-note}
+Why use **quanteda** rather than something like **tidytext**? Quite simply processing speed. While most packages are built around R functions and structures, **quanteda** does its processing in C+++ under the hood. Compiled languages like C+++ and Rust are much more efficient for string processing. This is also why [**polars**](https://pola.rs/) is useful for processing large dataframes.
+:::
+
+```{r}
+#| message: false
+#| error: false
+#| warning: false
+
+library(quanteda)
+library(quanteda.textstats)
+library(tidyverse)
+library(gt)
+```
+
+Load in some useful functions:
+
+```{r}
+source("../R/helper_functions.R")
+```
+
+And again, we'll start with the first sentence from *A Tale of Two Cities*.
+
+```{r}
+
+totc_txt <- "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair."
+```
+
+## Create a corpus
+
+The first step is to create a corpus object:
+
+```{r}
+
+totc_corpus <- corpus(totc_txt)
+```
+
+And see what we have:
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Summary of a corpus."
+
+totc_corpus |>
+  summary() |>
+  gt()
+```
+
+Note that if we had more than 1 document, we would get a count of how many documents in which the token appear, and that we can assign documents to grouping variable. This will become useful later.
+
+## Tokenize the corpus
+
+```{r}
+
+totc_tkns <- tokens(totc_corpus, what = "word", remove_punct = TRUE)
+```
+
+## Create a document-feature matrix (dfm)
+
+```{r create_dfm}
+
+totc_dfm <- dfm(totc_tkns)
+```
+
+A **dfm** is an important data structure to understand, as it often serves as the foundation for all kinds of downstream statistical processing. It is a table with rows for documents (or observations) and columns for tokens (or variables)
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Part of a document-feature matrix."
+
+totc_dfm |>
+  convert(to = "data.frame") |>
+  dplyr::select(1:12) |>
+  gt()
+```
+
+## And count our tokens
+
+```{r}
+#| code-fold: true
+#| tbl-cap: "Token counts of sample sentence."
+
+totc_dfm |>
+  textstat_frequency() |>
+  gt()
+```
+
+## Using pipes to expidite the process
+
+This time, we will change **remove_punct** to **FALSE**.
+
+```{r}
+totc_freq <- totc_corpus %>%
+  tokens(what = "word", remove_punct = FALSE) %>%
+  dfm() %>%
+  textstat_frequency()
+```
+ 
+```{r}
+#| code-fold: true
+#| tbl-cap: "Token counts of sample sentence."
+
+totc_freq |>
+  gt()
+```
+
+## Tokenizing options
+
+In the previous lab, you were asked to consider the questions: What counts as a token/word? And how do you tell the computer to count what you want?
+
+As the above code block suggest, the `tokens()` function in [**quanteda**](http://quanteda.io/reference/tokens.html) gives you some measure on control.
+
+We'll read in a more complex string:
+
+```{r}
+text_2 <- "Jane Austen was not credited as the author of 'Pride and Prejudice.' In 1813, the title page simply read \"by the author of Sense and Sensibility.\" It wasn't until after Austen's death that her identity was revealed. #MentalFlossBookClub with @HowLifeUnfolds #15Pages https://pbs.twimg.com/media/EBOUqbfWwAABEoj.jpg"
+```
+
+And process it as we did earlier.
+
+```{r}
+text_2_freq <- text_2 %>%
+  corpus() %>%
+  tokens(what = "word", remove_punct = TRUE) %>%
+  dfm() %>%
+  textstat_frequency()
+```
+ 
+```{r}
+#| code-fold: true
+#| tbl-cap: "Token counts of sample Tweet"
+
+text_2_freq |>
+  gt()
+```
+
+Note that in addition to various logical "remove" arguments (**remove_punct**, **remove_symbols**, etc.), the `tokens()` function has a **what** argument. The default, "word", is "smarter", but also slower. Another option is "fastestword", which splits at spaces.
+
+```{r}
+
+text_2_freq <- text_2 %>%
+  corpus() %>%
+  tokens(what = "fastestword", remove_punct = TRUE, remove_url = TRUE) %>%
+  dfm() %>%
+  textstat_frequency()  %>%
+  as_tibble() %>%
+  dplyr::select(feature, frequency)
+```
+ 
+```{r}
+#| code-fold: true
+#| tbl-cap: "Token counts of sample Tweet"
+
+text_2_freq |>
+  gt()
+```
+
+This, of course, makes no difference with just a few tokens, but does if you're trying to process millions.
+
+Also note that we've used the `select()` function to choose specific columns.
+
+## Pre-processing
+
+An alternative to making tokenizing decisions inside the tokenizing process, you can process the text before tokenizing using functions for manipulating strings in **stringr**, **stringi**, **textclean**, or base R (like **grep( )**). Some common and convenient transformations are wrapped in a function called `preprocess_text( )`
+
+```{r pre_process}
+text_2_freq <- text_2 %>%
+  preprocess_text() %>%
+  corpus() %>%
+  tokens(what = "fastestword") %>%
+  dfm() %>%
+  textstat_frequency() %>%
+  as_tibble() %>%
+  dplyr::select(feature, frequency) %>%
+  rename(Token = feature, AF = frequency) %>%
+  mutate(New = NA)
+```
+ 
+```{r}
+#| code-fold: true
+#| tbl-cap: "Token counts of sample Tweet"
+
+text_2_freq |>
+  gt()
+```
+
+Note how the default arguments treat negation and possessive markers. As with the `tokens ()` function, many of these (options)[http://htmlpreview.github.io/?https://raw.githubusercontent.com/browndw/quanteda.extras/main/vignettes/preprocess_introduction.html] are logical.
+
+Note, too, that we've renamed the columns and added a new one using `mutate()`. 
+
+::: callout-important
+## Pause for Lab Set Question
+
+Complete [Task 1 in Lab Set 1](../lab_sets/LabSet_01.qmd#tokenizing-with-quanteda).
+:::
+
+## Creating a corpus composition table
+
+Whenever you report the results of a corpus-based analysis, it is best practice to include a table that summarizes the composition of your corpus (or corpora) and any relevant variables. Most often this would include token counts aggregated by relevant categorical variables and a row of totals.
+
+## Adding a grouping variable
+
+We have 2 short texts (one from fiction and one from Twitter). Let's first combine them into a single corpus. First, a data frame is created that has 2 columns (**doc_id** and **text**). Then, the **text** column is passed to the `preprocess_text()` function before creating the corpus.
+
+```{r}
+comb_corpus <-   data.frame(doc_id = c("text_1", "text_2"), text = c(totc_txt, text_2)) %>%
+  mutate(text = preprocess_text(text)) %>%
+  corpus()
+```
+
+Next well assign a grouping variable using `docvars()`. In later labs, we'll use a similar process to assign variables from tables of metadata.
+
+```{r}
+docvars(comb_corpus) <- data.frame(text_type = c("Fiction", "Twitter"))
+```
+
+Now we can tokenize.
+
+```{r}
+comb_tkns <- comb_corpus %>%
+  tokens(what = "fastestword")
+```
+
+Once we have done this, we can use that grouping variable to manipulate the data in a variety of ways. We could use `dfm_group()` to aggregate by group instead of individual text. (Though because we have only 2 texts here, it amounts to the same thing.) 
+
+```{r}
+comb_dfm <- dfm(comb_tkns) %>% 
+  dfm_group(groups = text_type)
+
+corpus_comp <- ntoken(comb_dfm) %>%
+  data.frame(frequency = .) %>%
+  rownames_to_column("group") %>%
+  group_by(group) %>%
+  summarize(Texts = n(),
+            Tokens = sum(frequency))
+```
+
+
+```{r}
+#| code-fold: true
+#| label: tbl-corpus
+#| tbl-cap: "Composition of corpus."
+
+corpus_comp |> 
+  gt() |>
+  fmt_integer() |>
+  cols_label(
+    group = md("**Text Type**"),
+    Texts = md("**Texts**"),
+    Tokens = md("**Tokens**")
+  ) |>
+  grand_summary_rows(
+    columns = c(Texts, Tokens),
+    fns = list(
+      Total ~ sum(.)
+    ) ,
+    fmt = ~ fmt_integer(.)
+    )
+```
+
+::: callout-important
+## Pause for Lab Set Question
+
+Complete [Task 2 in Lab Set 1](../lab_sets/LabSet_01.qmd#tokenizing-with-quanteda).
+:::
