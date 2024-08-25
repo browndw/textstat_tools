@@ -13,8 +13,8 @@ The labs can be accessed by using the **Files** tab in R studio. Because of the 
 
 Documenation for the course is available [here](https://browndw.github.io/textstat_docs/).
 
-[!CAUTION]  
-The documentation is all rendered in HTML. However, the reports and lab sets in **textstat_tools** are fomatted to render in PDF.
+> [!CAUTION] 
+> The documentation is all rendered in HTML. However, the reports and lab sets in **textstat_tools** are fomatted to render in PDF.
 
 ---
 
