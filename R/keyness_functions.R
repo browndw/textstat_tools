@@ -131,10 +131,10 @@ key_keys <- function(target_dfm, reference_dfm, threshold=c(0.05, 0.01, 0.001, 0
   # This iterates through the columns and generates a data.frame of keyness values.
   # If you want to return this data.frame, it's easy enough to edit the function.
   
-  keyness <- as.data.frame(sapply(idx, function(i) quanteda.extras::log_like(target_counts[,i], reference_counts, target_totals[i], reference_total, correct = yates)))
+  keyness <- as.data.frame(sapply(idx, function(i) log_like(target_counts[,i], reference_counts, target_totals[i], reference_total, correct = yates)))
   
   # We're also going to generate a data.frame of effect sizes.
-  effect <- as.data.frame(sapply(idx, function(i) quanteda.extras::log_ratio(target_counts[,i], reference_counts, target_totals[i], reference_total)))
+  effect <- as.data.frame(sapply(idx, function(i) log_ratio(target_counts[,i], reference_counts, target_totals[i], reference_total)))
   rownames(effect) <- feature
   
   # From these two data.frames we can generate some values.
@@ -195,7 +195,7 @@ keyness_pairs <- function(dfm_a, dfm_b, ..., yates=FALSE){
   # Get the total counts
   total_counts <- colSums(freq_df)
   comp_names <- sapply(pair_idx, function(i) {
-    name_pairs <- combn(quanteda.extras::excel_style(idx), 2)
+    name_pairs <- combn(excel_style(idx), 2)
     j <- name_pairs[1,i]
     k <- name_pairs[2,i]
     l <- paste(j, k, sep = "_v_")})
@@ -204,14 +204,14 @@ keyness_pairs <- function(dfm_a, dfm_b, ..., yates=FALSE){
   ll <- as.data.frame(sapply(pair_idx, function(i) {
     j <- corpora_pairs[1,i]
     k <- corpora_pairs[2,i]
-    quanteda.extras::log_like(freq_df[,j], freq_df[,k], total_counts[j], total_counts[k], correct = yates)}))
+    log_like(freq_df[,j], freq_df[,k], total_counts[j], total_counts[k], correct = yates)}))
   # Apply column names
   colnames(ll) <- lapply(comp_names, function(x) paste(x, "LL", sep = "_"))
   # Calculate the effect sizes
   lr <- as.data.frame(sapply(pair_idx, function(i) {
     j <- corpora_pairs[1,i]
     k <- corpora_pairs[2,i]
-    quanteda.extras::log_ratio(freq_df[,j], freq_df[,k], total_counts[j], total_counts[k])}))
+    log_ratio(freq_df[,j], freq_df[,k], total_counts[j], total_counts[k])}))
   # Apply column names
   colnames(lr) <- lapply(comp_names, function(x) paste(x, "LR", sep = "_"))
   # Calculate p-values
@@ -246,7 +246,7 @@ keyness_table <- function(target_dfm, reference_dfm, yates=FALSE){
   if (class(reference_dfm)[1] != "dfm") stop ("Your reference must be a quanteda dfm object.")
   
   total_counts <- c(sum(quanteda::ntoken(target_dfm)), sum(quanteda::ntoken(reference_dfm)))
-  nf <- quanteda.extras::normalizing_factor(max(total_counts))
+  nf <- normalizing_factor(max(total_counts))
   
   freq_table <- function(dfm){
     
@@ -286,8 +286,8 @@ keyness_table <- function(target_dfm, reference_dfm, yates=FALSE){
   colnames(freq_df) <- gsub("\\.x", "_Tar", colnames(freq_df))
   colnames(freq_df) <- gsub("\\.y", "_Ref", colnames(freq_df))
   
-  ll <- quanteda.extras::log_like(freq_df[,2], freq_df[,3], total_counts[1], total_counts[2], correct = yates)
-  lr <- quanteda.extras::log_ratio(freq_df[,2], freq_df[,3], total_counts[1], total_counts[2])
+  ll <- log_like(freq_df[,2], freq_df[,3], total_counts[1], total_counts[2], correct = yates)
+  lr <- log_ratio(freq_df[,2], freq_df[,3], total_counts[1], total_counts[2])
   pv <- pchisq(abs(ll),1,lower.tail=FALSE)
   
   freq_df$LL <- ll
