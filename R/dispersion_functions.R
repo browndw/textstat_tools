@@ -36,7 +36,7 @@ dispersions_token <- function(target_dfm, token) {
     
     values <- list()
     
-    nf <- quanteda.extras::normalizing_factor(total)
+    nf <- normalizing_factor(total)
     
     values[["Absolute frequency"]] <- f
     # note that this is normalizing according to the mormalizing factor 'nf'

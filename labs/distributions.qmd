@@ -48,6 +48,7 @@ The repository also contains a number of useful functions. Here, will load some 
 ```{r}
 
 source("../R/dispersion_functions.R")
+source("../R/helper_functions.R")
 ```
 
 ### Create and corpus
