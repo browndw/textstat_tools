@@ -56,6 +56,7 @@ Load the functions:
 
 ```{r}
 source("../R/keyness_functions.R")
+source("../R/helper_functions.R")
 ```
 
 Load the data:
