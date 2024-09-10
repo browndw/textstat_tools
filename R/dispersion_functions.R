@@ -107,7 +107,7 @@ dispersions_all <- function(target_dfm) {
     f <- sum(v) # f
     s <- s/sum(s) # s
     
-    nf <- quanteda.extras::normalizing_factor(total)
+    nf <- normalizing_factor(total)
     
     values <- list()
     values[["AF"]] <- f
@@ -190,7 +190,7 @@ frequency_table <- function(target_tkns){
   
   if (class(target_tkns)[1] != "tokens") stop("The function requires a quanteda tokens object.")
   
-  arf_df <- quanteda.extras::ARF(target_tkns)
+  arf_df <- ARF(target_tkns)
   
   target_dfm <- suppressWarnings(quanteda::dfm(target_tkns))
   m <- as.matrix(target_dfm)
@@ -205,7 +205,7 @@ frequency_table <- function(target_tkns){
     f <- sum(v) # f
     s <- s/sum(s) # s
     
-    nf <- quanteda.extras::normalizing_factor(total)
+    nf <- normalizing_factor(total)
     
     values <- list()
     values[["AF"]] <- f
