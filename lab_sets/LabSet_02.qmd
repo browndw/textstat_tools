@@ -31,6 +31,7 @@ library(quanteda.textstats)
 ```{r}
 load("../data/sample_corpus.rda")
 source("../R/dispersion_functions.R")
+source("../R/helper_functions.R")
 ```
 
 
